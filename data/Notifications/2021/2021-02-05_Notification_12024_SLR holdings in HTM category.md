@@ -1,0 +1,55 @@
+---
+doc_id: "Notifications_2021_12024"
+title: "SLR holdings in HTM category"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/94NOTI0502218B3F31AED8284FE39EA3235FB9039391.PDF"
+pdf_sha256: "322391cfb00165175948483631a355012332ddfcfe7a4e9b622dfa15f0b6d394"
+md_sha256: "384bcf6233927c52f72b7445a3e7ff79f492d9e54598e0f3d6d70da50479002c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-02-05_Notification_12024_SLR%20holdings%20in%20HTM%20category.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# SLR holdings in HTM category
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021.
+
+# भारतीय रजवर् बक
+
+## ___________RESERVE BANK OF INDIA___________
+
+<u>www.rbi.org.in</u> RBI/2020-21/94 DOR.No.MRG.BC.39/21.04.141/2020-21 February 5, 2021 All Commercial Banks
+
+Madam/ Sir,
+
+### SLR holdings in HTM category
+
+Please refer to paragraph 4 of <u>Statement on Developmental and Regulatory Policies</u> <u>dated February 5, 2021</u> and our <u>circular DoR.No.BP.BC.22/21.04.141/2020-21 dated</u> <u>October 12, 2020</u> on the above subject.
+
+2. Banks are permitted to exceed the limit of 25 per cent of the total investments under Held to Maturity (HTM) category provided:
+a) the excess comprises only of SLR securities; and
+b) total SLR securities held under HTM category is not more than 19.5 per cent of Net Demand and Time Liabilities (NDTL) as on the last Friday of the second preceding fortnight.
+3. With respect to the limit stated in paragraph 2(b) above, bWithdrawnanks have been granted a special dispensation of enhanced HTM limit of 22 per cent of NDTL, for SLR securities acquired between September 1, 2020 and March 31, 2021, until March 31,
+2022. The enhanced limit was required to be restored in a phased manner over three quarters beginning with the quarter ending June 30, 2022.
+4. It has now been decided to extend the dispensation of enhanced HTM of 22 per cent to March 31, 2023 to include SLR securities acquired between April 1, 2021 and March 31, 2022. Thus, banks may exceed the limit specified in paragraph 2(b) above upto 22 per cent of NDTL (instead of 19.5 per cent of NDTL) till March 31, 2023, provided such excess is on account of SLR securities acquired between September 1, 2020 and March 31, 2022. िविनयमन िवभाग, क द्र ी य कायालय, 12वीं और 13वी ं मंिज़ल, क द्र ी य कायालय भवन, शहीद भगत िसंह माग, मुंबई 400001 टेलीफोन /Tel No: 22661602, 22601000 फै � /Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai -
+400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691, 5692
+
+<!-- PAGE 2 -->
+
+5. The schedule for restoring the enhanced HTM limit to 19.5 per cent of NDTL specified in paragraph 3 of the <u>circular dated October 12, 2020</u> referred to above is accordingly modified. The enhanced HTM limit shall be restored to 19.5 percent in a phased manner, beginning from the quarter ending June 30, 2023, i.e. the excess SLR securities acquired by banks during the period September 1, 2020 to March 31, 2022 shall be progressively reduced from the HTM category such that the total SLR securities under the HTM category as a percentage of the NDTL does not exceed:
+a) 21.00 per cent as on June 30, 2023
+b) 20.00 per cent as on September 30, 2023
+c) 19.50 per cent as on December 31, 2023
+6. As per extant instructions, banks may shift investments to/from HTM with the approval of the Board of Directors once a year and such shifting will normally be allowed at the beginning of the accounting year. However, in order to enable banks to shift their excess SLR securities from the HTM category to available for sale (AFS)/ held for trading (HFT) to comply with the instructions as indicated in paragraph 5 above, it has been decided to allow such shifting of the excess securities during the quarter in which the HTM ceiling is brought down. This would be in addition to the shifting permitted at the beginning of the accounting year.
+# Withdrawn
+
+Yours faithfully,
+
+(Usha Janakiraman) Chief General Manager

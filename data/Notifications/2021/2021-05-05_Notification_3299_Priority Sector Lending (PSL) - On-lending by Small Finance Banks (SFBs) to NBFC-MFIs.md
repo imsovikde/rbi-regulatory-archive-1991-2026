@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2021_3299"
+title: "Priority Sector Lending (PSL) - On-lending by Small Finance Banks (SFBs) to NBFC-MFIs"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT27EN05052021.pdf"
+pdf_sha256: "01edc601c07bf89277cdf9353250722d4cb865902938b12bc13a185d03ea5409"
+md_sha256: "cbf4cbbe3c017d793fc3a28b80eb6eac9d97e7412c76e8c077a9843eed1cfbe5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-05-05_Notification_3299_Priority%20Sector%20Lending%20%28PSL%29%20-%20On-lending%20by%20Small%20Finance%20Banks%20%28SFBs%29%20to%20NBFC-MFIs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending (PSL) - On-lending by Small Finance Banks (SFBs) to NBFC-MFIs
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बक
+
+# ------------------------------------- RESERVE BANK OF INDIA -----------------------------------
+
+<u>www.rbi.org.in</u> RBI/2021-22/27 FIDD.CO.Plan.BC.No.10/04.09.01/2021-22 May 5, 2021 The Chairman/ Managing Director Chief Executive Officer Small Finance Banks
+
+Dear Sir/Madam,
+
+## Priority Sector Lending (PSL) - On-lending by Small Finance Banks (SFBs) to NBFC-MFIs
+
+As per extant guidelines, lending by Small Finance Banks (SFBs) to Micro-Finance Institutions (MFIs) for on-lending is not reckoned for priority sector lending (PSL) classification. In view of the fresh challenges brought on by the COVID-19 pandemic and to address the emergent liquidity position of smaller MFIs, it has been decided to allow PSL classification to the fresh credit extended by SFBs to registered NBFC-MFIs and other MFIs (Societies, Trusts etc.) which are members of RBI recognised ‘Self-Regulatory Organisation’ of the sector and which have a ‘gross loan portfolio’ of upto ₹500 crore as on 31 March 2021, for the purpose of on- lending to individuals. Bank credit as above will be permitted up to 10% of the bank’s total priority sector portfolio as on 31 March, 2021.
+
+2. The above dispensation shall be valid upto March 31, 2022. However, loans thus disbursed will continue to be classified under Priority Sector till the date of repayment/maturity whichever is earlier. Further, banks will be required to adhere to the conditions prescribed for on-lending under para 21 of our <u>Master Directions on PSL dated September 4, 2020</u> (updated as on April 29, 2021).
+3. The guidelines shall come into effect from the date of the issuance of this circular.
+## Yours faithfully
+
+(Sonali Sen Gupta) Chief General Manager-in-Charge
+
+िवीय समावेशन और िवकास िवभाग,क � ी य कायार्लय, 10व मंिज़ल,क �ीय कायार्लय िब�ल्डंग,शहीद भगत �संह मागर्, मुंबई 400 001 टेलीफोन:Tel No.: +912222601000/ फै क् स : +91-22-22621011/22610948/22610943 ईमेल: <u>cgmincfidd@rbi.org.in</u> Financial Inclusion and Development Department, Central Office, 10th Flr, Central Office Building, Shahid Bhagat Singh Marg,Mumbai 400001 <u>हंदी आसान है, इसका �योग बढ़ाइए</u> चेतावनी **:** �रज़वर् बक �ारा -डाक, मेल एसएमएस या फोन कॉल के ज�रए कसी क भी व् यि�गत जानकारी जैसे बक के खाते का ब् यौरा, पासवडर् आद नह मांगी जाती है। यह धन रखने या देने का स् ताव भी नह करता है। ऐसे स् ताव का कसी भी तरीके से जवाब मत दीिजए। **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details,** **passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**

@@ -1,0 +1,62 @@
+---
+doc_id: "Notifications_2021_12049"
+title: "Investment by Foreign Portfolio Investors (FPI): Investment limits"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/116FPI2CE2D2E74BD54A239A3C55999754FC44.PDF"
+pdf_sha256: "9de79d1f4e761578ceeab64bb00cf62a748f8ecd8b920d4cabf3f680ced19202"
+md_sha256: "be99e28d9ff2d9a2a31555e9859e2eb446df53a42692a5a370c50d0f22c936a2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-03-31_Notification_12049_Investment%20by%20Foreign%20Portfolio%20Investors%20%28FPI%29-%20Investment%20limits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Foreign Portfolio Investors (FPI): Investment limits
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2020-21/116
+
+A.P. (DIR Series) Circular No. 14 March 31, 2021 To, All Authorized Persons
+## Madam / Sir
+
+## Investment by Foreign Portfolio Investors (FPI): Investment limits
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule 1 to the Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified vide <u>Notification No. FEMA.396/2019-RB dated October 17, 2019</u>, as amended from time to time and the relevant Directions issued thereunder. A reference is also invited to <u>A.P. (DIR Series)</u> <u>Circular No. 30 dated April 15, 2020</u> on the captioned subject.
+
+## 2. Investment Limits for FY 2021-22
+
+a. The limits for FPI investment in Corporate bonds shall remain unchanged at 15% of outstanding stock of securities for FY 2021-22. Accordingly, the revised limits for FPI investment in corporate bonds, after rounding off, shall be as under (Table - 1)
+
+|Table - 1: Limits for FPI investment in Corporate bonds for FY 2021-22||
+|---|---|
+||(₹ Crore)|
+|Current FPI limit|5,41,488|
+|Revised limit for HY Apr 2021-Sep 2021|5,74,263|
+|Revised limit for HY Oct 2021-Mar 2022|6,07,039|
+
+b. The revised limits for FPI investment in Central Government securities (G-secs) and State Development Loans (SDLs) for FY 2021-22 will be advised separately. Till such announcement, the current limits (as in Table - 2), shall continue to be applicable.
+
+|||Table - 2: Limits for FPI investments in G-Sec and SDL|||
+|---|---|---|---|---|
+|||||(₹ Crore)|
+||G-Sec General|G-Sec Long Term|SDL General|SDL Long Term|
+|FPI investment limits|2,34,531|1,03,531|67,630|7,100|
+
+िवीय बाज़ार िविनयमन िवभाग,क � ी य कायार्लय भवन, नौव मंिजल, शहीद भगत �संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+3. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+4. The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approval, if any, required under any other law.
+## Yours faithfully
+
+(Dimple Bhandia) Chief General Manager

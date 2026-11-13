@@ -1,0 +1,133 @@
+---
+doc_id: "Notifications_2021_12046"
+title: "FETERS – Cards: Monthly Reporting"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1130276565F0A5243C494164782206B005D.PDF"
+pdf_sha256: "95e73ab7263cbe86a4674586da55df46c124a9645591ed5371d136eaaa665828"
+md_sha256: "c2399925526da83bb195d2f73b53a12d5e47b5f4031a0b3b3669a2b830878013"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-03-25_Notification_12046_FETERS%20%E2%80%93%20Cards-%20Monthly%20Reporting.pdf"
+verification_status: "NEEDS_REVIEW"
+---
+# FETERS – Cards: Monthly Reporting
+
+<!-- PAGE 1 -->
+
+RBI/2020-21/113
+
+A.P. (DIR Series) Circular No.13 March 25, 2021 To
+## All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## <u>FETERS – Cards: Monthly Reporting</u>
+
+Attention of Authorised Dealers (Category I) is invited to <u>A.P. (DIR Series) Circular No.</u> <u>50 dated February 11, 2016</u> on compilation of R-Returns for reporting under the Foreign Exchange Transactions Electronic Reporting System (FETERS). It has been decided to collect more details of international transactions using credit card / debit card / unified payment interface (UPI) along with their economic classification (merchant category code – MCC) through a new return called ‘FETERS-Cards’, using the same web-portal (<u>[https://bop.rbi.org.in](https://bop.rbi.org.in))</u>.
+
+2. Nodal offices of Authorised Dealers (ADs) may submit FETERS-Cards details on the web-portal in the following manner:
+A. For transactions through credit card / debit card / UPI:
+(i) Sale of forex by AD towards international transaction made by Indian resident (to be reported by the card issuing / transaction originating AD); and (ii) Purchase of forex by AD under transaction by foreign resident with Indian resident (to be reported by merchant acquirer AD).
+B. The information shall be submitted in the following fixed format (details given in <u>Annex</u>):
+a. For transactions using credit/debit card: MCC X Country X Currency X Amount (Payment/Refund) X Card Status (Present /Not present)
+b. For transactions through UPI: MCC X Country X Currency X Amount (Payment/Refund) X QR Code Scan (Yes/No)
+3. AD Banks need to report all card transactions (*e.g.*, through PoS terminals / e- commerce (online purchase) / for transferring funds to bank accounts).
+
+<!-- PAGE 2 -->
+
+4. Data submission by ADs:
+
+|(i)|ADs|shall submit the FETERS-Cards data on the web-|
+|---|---|---|
+||portal|([https://bop.rbi.org.in](https://bop.rbi.org.in)) by using the RBI-provided login-name and password, within seven working days from the last date of the month for which data are being reported. The web-portal provides detailed guidance and help material.|
+|(ii)||FETERS-Cards reporting will be implemented for the transactions taking place from April 1, 2021. Hence, details of the transactions in April 2021 may be reported in the first week of May 2021.|
+
+(iii) In case of any clarifications, banks may send their queries through <u>e-mail</u> or contact by phone at 022-26578416 or 022-26571154 (direct).
+
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+Ajay Kumar Misra Chief General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+# Annex to A.P. (DIR Series) Circular No.13 dated March 25, 2021
+
+|1.|The FETERS-Cards data files should be in ASCII format with one record per|
+|---|---|
+||line. All fields in each file should be delimited with the delimiter “|”. The web- portal provides a downloadable Java-based validator for converting data from MS-excel file to generate the prescribed ASCII format file, if required.|
+|2.|ADs are encouraged to generate the prescribed format data file from their internal system, validate/upload it in the web-portal and get acknowledgment. The portal enables downloading reports based on their own data submitted in the past.|
+|3.|Naming Convention: The file name should be “BANKCODE_MMYYYY_CC” for credit card, “BANKCODE_MMYYYY_DC” for debit card and “BANKCODE_MMYYYY_UPII” for UPI international transactions. For example, if bank code is XXX, the file name should be: • XXX_MMYYYY_CC.txt for credit card file • XXX_MMYYYY_DC.txt for debit card file • XXX_MMYYYY_UPII.txt for UPI international transactions|
+
+## 4. Credit Card File format for International Transactions: Structure of Record type 01 and 02
+
+|||File name-Bankcode_MMYYYY_CC.TXT|
+|---|---|---|
+|Field|Format|Remarks|
+|Bank code|Char (5)|AD Bank Code (Max length is 5 Char)|
+|Month-end date|MMYYYY|Reporting Month and Year <e.g. 122019 (for December 2019) >|
+|Record type|Char (2)|= 01 < International Payment by resident – to be reported by card issuing bank> = 02 < Payment by non-resident – to be reported by the acquiring bank >|
+|MCC|Char (4)|Merchant Category Code < e.g. MCC 6011 for Cash Disbursements at ATMs> Country code (ISO 3166) (country code of the card holder)|
+|Country code|Char (2)|= IN < for Record type 01 > = Other than IN < for Record type 02 > Currency code (ISO 4217) – transaction currency = Other than INR|
+|Currency code|Char (3)|< for international transaction by a resident under Record type 01>|
+|||= INR < for transaction by a non-resident under Record type 02 >|
+|No. of transactions|Num (10)|Count in actuals < Max length 10 >|
+|Amount|Num (15,2)|Amount in INR (Billing currency) < Max length 15 digit with two decimal places > = “Y” < for Card Present >|
+
+**Card present** Char (1) = “N” < for Card Not Present >
+
+**1**
+
+<!-- PAGE 4 -->
+
+# Annex to A.P. (DIR Series) Circular No.13 dated March 25, 2021
+
+## 5. Debit Card File Format for International Transactions: Structure of Record type 01 and 02)
+
+||||File name-Bankcode_MMYYYY_DC.TXT|
+|---|---|---|---|
+|Field|Format|Remarks||
+|Bank code|Char (5)|AD Bank Code|(Max length is 5 Char)|
+|Month-end date|MMYYYY||Reporting Month and Year <e.g. 122019 (for December 2019) > = 01 < International Payment by resident – to be reported by card issuing bank >|
+|Record type|Char (2)||= 02 < Payment by non-resident – to be reported by the acquiring bank >|
+|MCC|Char (4)|< e.g.|Merchant Category Code MCC 6011 for Cash Disbursements at ATMs> Country code (ISO 3166) (country code of the card holder)|
+|Country code|Char (2)||= IN < for Record type 01 > = Other than IN < for Record type 02 > Currency code (ISO 4217) – transaction currency|
+|Currency code|Char (3)|= = INR <|Other than INR <for international transaction by a resident under Record type 01> for transaction by a non-resident under Record type 02 >|
+|No. of transactions|Num (10)||Count in actuals < Max length 10 >|
+|Amount|Num (15,2)|Amount in INR (|Billing currency) < Max length 15 digit with two decimal places >|
+|Card present|Char (1)||= “Y” < for Card Present > = “N” < for Card Not Present >|
+
+## 6. UPI International File Format: Structure of Record type 01 and 02)
+
+## File name-Bankcode_ MMYYYY_UPII.TXT
+
+|Field|Format|Remarks||
+|---|---|---|---|
+|Bank code|Char (5)|AD Bank Code (Max length is 5 Char)||
+|Month-end date|MMYYYY|Reporting Month and Year <e.g. 122019 (for December 2019) > = 01 < International Payment by resident||
+|Record type|Char (2)|= 02|-to be reported by UPI transaction issuing bank > < Payment by non-resident -to be reported by UPI transaction acquiring bank>|
+|MCC|Char (4)|Merchant Category Code Country code (ISO 3166) (country of the UPI ID holder)||
+|Country code|Char (2)|= IN < for Record type 01 > = Other than IN < for Record type 02 > Currency code (ISO 4217) – transaction currency||
+|Currency code|Char (3)|= Other than INR < for Record type 01 >||
+|||= INR||
+|No. of transactions|Num (10)|< Max length 10 > Count in Actuals||
+|Amount|Num (15,2)|Amount in INR (Billing currency) < Max length 15 digit with two decimal places > = “Y” < for QR code Scan >||
+
+## < for Record type 02 >
+
+**QR code scan** Char (1) = “N” < for Non-QR code Scan > **2**
+
+<!-- PAGE 5 -->
+
+# Annex to A.P. (DIR Series) Circular No.13 dated March 25, 2021
+
+## Sample file-Credit Card International Transactions- 639_122019_CC.TXT
+
+639|122019|01|2222|IN|USD|111|1116.44|Y 639|122019|01|2222|IN|USD|83|111128.4|N 639|122019|02|2222|KE|INR|1|5579|Y 639|122019|02|2222|KE|INR|3|1070|N **Sample file-Debit Card International Transactions -639_122019_DC.TXT** 639|122019|01|2222|IN|USD|1|11179.37|Y 639|122019|02|2222|KE|INR|4|93868|Y **Sample file – UPI International Transactions – 639_122019_UPII.TXT** 639|122019|01|1520|IN|SGD|8273|544328.7|Y 639|122019|02|2222|US|INR|9073|948328.7|N
+
+# ***********************

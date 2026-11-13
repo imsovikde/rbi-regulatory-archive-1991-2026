@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2021_3302"
+title: "Credit to MSME Entrepreneurs"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOT30EN05052021.pdf"
+pdf_sha256: "3e406b87996b9410b603248fbdb8002aa213d0c1a7bc00ebd7a6d8d03ea11c86"
+md_sha256: "92d06e0c6c2c08fdeb234fbee4a60538e9556304bace9fc7cc36a1926a9b6041"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:25Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-05-05_Notification_3302_Credit%20to%20MSME%20Entrepreneurs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit to MSME Entrepreneurs
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक _________________ RESERVE BANK OF INDIA________________
+
+<u>www.rbi.org.in</u> RBI/2021-22/30 DoR.RET.REC.09/12.01.001/2021-22 May 05, 2021 All Scheduled Commercial Banks
+
+Madam/Sir
+
+## <u>Credit to MSME Entrepreneurs</u>
+
+Please refer to our <u>circular DOR.No.Ret.BC.37/12.01.001/2020-21 dated February 5,</u> <u>2021</u>, on captioned subject.
+
+2. In terms of the above circular, Scheduled Commercial Banks were allowed to deduct the amount equivalent to credit disbursed to new MSME borrowers from their Net Demand and Time Liabilities (NDTL) for calculation of the Cash Reserve Ratio (CRR). This exemption was available up to ₹ 25 lakh per borrower for the credit disbursed up to the fortnight ending October 1, 2021.
+3. It has been decided to extend this exemption for such credits disbursed up to the fortnight ending December 31, 2021. All other instructions contained in the circular *ibid* remain same.
+## Yours faithfully
+
+(Thomas Mathew) Chief General Manager
+
+<u>व�नयमन वभाग, कद्रय कायार्लय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, मुंबई 400001</u> **Department of Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** टेलफोन**/Tel No:022-22603000 Email ID:** <u>returnsco@rbi.org.in</u>

@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2021_12038"
+title: "Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/106CICSF654BB7394E3478282F8F48B0A649A9C.PDF"
+pdf_sha256: "c7c29703ee647d0aeaab64bd30c570a5e3648f129fa6f7c88ecc1bc57e3ad346"
+md_sha256: "f48cbf22815a759f46803ff690b577a70b194668b3ff27e4ad1dc6d2c13c4e82"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-03-12_Notification_12038_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20and%20other%20Regulatory%20Measures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+
+<!-- PAGE 1 -->
+
+भारतीय रजवर् बक **___________________RESERVE BANK OF INDIA__________________** www.rbi.org.in RBI/2020-21/106 DoR.FIN.REC.46/20.16.056/2020-21 March 12, 2021 All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) excluding Payment Banks All Primary (Urban) Co-operative Banks/State Co-operative Banks/ District Central Co-operative Banks All-India Financial Institutions (Exim Bank, NABARD, NHB and SIDBI) All Non-Banking Financial Companies (including Housing Finance Companies) All Credit Information Companies
+
+Madam / Sir,
+
+## Data Format for Furnishing of Credit Information to Credit Information
+
+## Companies and other Regulatory Measures
+
+Please refer to our <u>circular DBOD.No.CID.BC.127/20.16.056/2013-14 dated June</u> <u>27, 2014</u> inter alia setting out a Uniform Credit Reporting Format for the purpose of reporting credit information to the Credit Information Companies (CICs).
+
+2. The Uniform Credit Reporting Format has two Annexes. The Annex-I contains two formats for credit reporting, viz., Consumer Bureau and Commercial Bureau, whereas Annex-II contains credit reporting format for Micro Finance Institution (MFI) segment.
+3. It has now been decided to modify the aforesaid three formats as under:
+(i) **Consumer Bureau**: The label of the field ‘Written off and Settled status’ is modified as ‘Credit Facility Status’ and it will also have a new catalogue value, viz., ‘Restructured due to COVID-19’. (ii) **Commercial Bureau**: The existing field ‘Major reasons for restructuring’ will have a new catalogue value, viz., ‘Restructured due to COVID-19’. ____________________________________________________________________________________________________
+िविनयमन िवभाग, के ी य कायालय, 13वी मंजील, के ी य कायालय भवन, श. भगत िसंग माग, मुंबई - 400 001 Department of Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेिलफोन/Tel.No.:91-22-22601000,टेिलफोन/Tel.No.(D):91-22-22701276, फै � /Fax No. 91-22-22701239, email ID: <u>cgmicdor@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+(iii) **MFI Bureau**: The existing field ‘Account status’ will have a new catalogue value, viz., ‘Restructured due to COVID-19’.
+
+4. The modifications are being made to enable banks/AIFIs/NBFCs to report the information relating to restructured loans to CICs as envisaged in <u>circular</u> <u>DOR.No.BP.BC.3/21.04.048/2020-21 dated August 6, 2020</u>, on the Resolution Framework for COVID-19 related stress.
+5. Banks/AIFIs/NBFCs should make necessary modification to their systems and commence reporting the above information to CICs within two months from the date of this circular. CICs shall make necessary modifications to their system to reflect the above changes.
+## Yours faithfully
+
+(Sunil T. S. Nair) Chief General Manager
+
+____________________________________________________________________________________________________ िविनयमन िवभाग, के ी य कायालय, 13वी मंजील, के ी य कायालय भवन, श. भगत िसंग माग, मुंबई - 400 001 Department of Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेिलफोन/Tel.No.:91-22-22601000,टेिलफोन/Tel.No.(D):91-22-22701276, फै � /Fax No. 91-22-22701239, email ID: <u>cgmicdor@rbi.org.in</u>
