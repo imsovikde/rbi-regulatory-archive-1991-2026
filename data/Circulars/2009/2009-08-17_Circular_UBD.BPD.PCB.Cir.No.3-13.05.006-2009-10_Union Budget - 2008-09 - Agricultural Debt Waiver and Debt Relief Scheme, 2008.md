@@ -1,0 +1,65 @@
+---
+doc_id: "Circulars_2009_UBD_BPD_PCB_Cir_No_3_13_05_006_2009-10"
+title: "Union Budget - 2008-09 - Agricultural Debt Waiver and Debt Relief Scheme, 2008"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CN317080910.PDF"
+pdf_sha256: "38cf856198856678571f5732c01eaf8e1d1bdd704d47d692ec20a0932085e4a2"
+md_sha256: "c124c747821553885019d20c5e7c99682f6b1a7cda0126fd8ae21ff9bbac13a5"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:40:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-08-17_Circular_UBD.BPD.PCB.Cir.No.3-13.05.006-2009-10_Union%20Budget%20-%202008-09%20-%20Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget - 2008-09 - Agricultural Debt Waiver and Debt Relief Scheme, 2008
+
+<!-- PAGE 1 -->
+
+## Yeejler³e fjeJeõ yeQkeÀ
+
+### _______________________RESERVE BANK OF INDIA______________________ <u>www.rbi.org.in</u>
+
+RBI/2009-10/124 UBD.BPD.PCB.Cir.No. 3 /13.05.006/2009-10 August 17, 2009
+
+The Chief Executive Officer, All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+### <u>Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008</u>
+
+Please refer to para 10 of the Agricultural Debt Waiver and Debt Relief Scheme, 2008 forwarded vide our circular <u>UBD.PCB. Cir. No. 43/13.05.000/07-08</u> dated May 23, 2008 on the captioned subject wherein it is indicated that every lending institution shall appoint one or more Grievance Redressal Officers to address the representations made by any farmer on the decisions taken with regard to his loan. In one of the Writ Petitions filed before Hon’ble High Court of Kerala, the Hon’ble Court has observed that “with the passage of time, the decisions of the Grievance Redressal Officers are challenged under Article 226 of the Constitution of India which essentially tends to grow the volume of litigation in writ jurisdiction and it also compels the marginalized farmers to seek redressal
+
+# Withdrawn
+
+exclusively for writ jurisdiction”.
+
+2. The High Court has also observed that “whenever the Grievance Redressal Officers decide against a claim of a person that he is an agriculturist entitled to the benefit of the Scheme, the Grievance Redressal Officer is bound to give reasons for the decision”. In view of the above suggestions made by the Hon’ble High Court of Kerala, it is advised that the Grievance Redressal Officers may dispose of the grievances received under ADWDR Scheme through a speaking order citing reasons for rejection / acceptance of the claim made by the petitioners in a transparent manner.
+2 Menjr yeQkeÀ fJeYeeäe, keWÀêr³e keÀe³eeõue³e, äeejceWì neGme, henuer cebfpeue, Jejuer, cegbyeFõ - 400 018 <u>HeÀesôe: 022 - 2493 9930 - 49, HewÀkeÌme: 022 - 2493 5495 / 2492 0231, Fõ cesue: rbiubd@giasbmol.vsnl.net.in</u> Urban Banks Department, Central Office, 1st Floor, Garment House, Worli, Mumbai - 18 Phone: 022 - 2493 9930 - 49, Fax: 022 - 2493 5495 / 2492 <u>02</u>31, Email: rbiubd@giasbmol.vsnl.net.in <u>yeQkeÀ fnôor ceW he°ee®eej keÀe mJeeäele keÀjlee nw ~</u>
+
+<!-- PAGE 2 -->
+
+3. You may take necessary action in this regard so that there is meaningful consideration
+
+of the request of eligible farmers under ADwDR Scheme,2008.
+
+4. The matter may be treated as most urgent.
+
+Yours faithfully,
+
+(Uma Shankar)
+
+Chief General Manager
+
+Withdrawn
+
+,-400018
+
+: 022 - 2493 9930 - 49, a: 022 - 2493 5495 / 2492 0231, : rbiubd@giasbmol.vsnl.net.in
+
+Urban Banks Department, Central Office, 1st Floor, Garment House,Worli, Mumbai-18
+
+Phone:022-24939930-49,Fax:022-24935495/24920231,Email:rbiubd@giasbmol.vsnl.net.in

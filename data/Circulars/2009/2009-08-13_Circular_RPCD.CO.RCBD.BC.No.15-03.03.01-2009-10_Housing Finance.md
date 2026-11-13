@@ -1,0 +1,107 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RCBD_BC_No_15_03_03_01_2009-10"
+title: "Housing Finance"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/HFN130809.PDF"
+pdf_sha256: "f98d8ee925869a4342f5e466ad702448ec12f9fd9562213b2d35c9e22ed4bbcc"
+md_sha256: "36f5f00caba5800a61bf46758d2b03bbd67f649168fe670cf65b08a07abba306"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:39:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-08-13_Circular_RPCD.CO.RCBD.BC.No.15-03.03.01-2009-10_Housing%20Finance.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Housing Finance
+
+<!-- PAGE 1 -->
+
+BANK
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/120
+
+RPCD CO.RCBD. BC. N0.15 /03.03.01/2009-10
+
+August 13, 2009
+
+All State and Central Co-operative Banks
+
+Dear Sir
+
+Housing Finance
+
+Please refer to our circular RPCD No. PLNFS. BC. 51/06.11.02/97-98 dated October 31, 1997
+
+read with circulars RPCD No. PLNFS. BC. 04/06.11.02/97-98 dated July 5, 1997 and RPCD No.
+
+PLNFS. BC. 122/06.11.02/94-95 dated February 24, 1995 on the captioned subject. In terms of
+
+the extant instructions, the maximum quantum of housing loan that can be granted by a
+
+State/Central Co-operative Bank to an individual borrower stands at Rs. 5 lakh, subject to the
+
+condition that the aggregate housing loans outstanding.
+
+1 day against individuals, institutions
+
+andsocietiesshouldnotexceed5%ofabank'st
+
+posits. For repairs, additions, alterations,
+
+etc. to the existing houses, the maximum a
+
+amo
+
+loan per individual borrower stands at Rs.
+
+50,000.
+
+Vithdrawn
+
+2. On a review, it has been decided as under:
+
+(i)
+
+The maximum quantum of housing loan that can be granted to an individual
+
+borrower by a State / Central Cooperative Bank stands revised to Rs. 20 lakh.
+
+However, in case of a bank having a net worth of Rs. 100 crore and above [as per
+
+the assessment made in NABARD's latest inspection report], the limit will be Rs.
+
+30 lakh.
+
+(i)
+
+The aggregate of housing loans outstanding on any day against individuals,
+
+institutions, and societies should not exceed 10 % of total
+
+，10，.10014,
+
+q-400 001
+
+时 :2266 1602 a: 2262 1011/2261 0943/2261 0948  -α : cgmincrpcd@rbi.org.in
+
+Rural Planning & Credit Dept., Central Office, 10" Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014,
+
+Mumbai400001
+
+<!-- PAGE 2 -->
+
+loans and advances of the bank as on March 31 of the preceding year. However, this limit can be exceeded to the extent of funds obtained for the purpose from the higher financing agency and refinance from the National Housing Bank. (iii) It is clarified that housing loans would not include finance to commercial real estate sector as it has already been advised vide our circular No. <u>RPCD.CO.RF.BC No.109/07.38.01/2008-09</u> dated May 25, 2009 that State and Central Cooperative banks should desist from financing the commercial real estate sector. (iv) For repairs, additions, alterations etc., to the existing houses, the maximum amount of loan per individual borrower stands revised to Rs. 1 lakh.
+
+3. Please acknowledge receipt.
+## Yours faithfully
+
+(R.C Sarangi) Chief General Manager
+
+# Withdrawn

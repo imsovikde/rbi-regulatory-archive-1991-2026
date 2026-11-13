@@ -1,0 +1,76 @@
+---
+doc_id: "Circulars_2009_DBOD_No_FID_FIC_5_01_02_00_2009-10"
+title: "Lending under Consortium Arrangements / Multiple Banking Arrangements"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ILCA050809.PDF"
+pdf_sha256: "e5cba9a1e3d33d18e2b96bd567936139104122616f54a3b3c84d5c5839d1f2c7"
+md_sha256: "0ebcf6add70a229e7e15ac3fa4675f223280b5d92e56a21c85497d864fda9834"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:39:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-08-05_Circular_DBOD.No.FID.FIC.5-01.02.00-2009-10_Lending%20under%20Consortium%20Arrangements%20-%20Multiple%20Banking%20Arrangements.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Lending under Consortium Arrangements / Multiple Banking Arrangements
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2009-2010/116
+
+August 5, 2009
+
+DBOD.No.FID.FIC.5/01.02.00/2009-10
+
+The CEOs of the Select All-lndia Term-lending and Refinancing Institutions
+
+(Exim Bank,NABARD, NHB and SIDBI)
+
+Dear Sir,
+
+Lending under Consortium Arrangements/Multiple Banking Arrangements
+
+Please find enclosed Circular DBOD.No.BP.BC.46/Q8.12.001/2008-09 dated September 19,
+
+2008onthe above subject along
+
+with
+
+DBOD.No.BP.BC.94/
+
+08.12.001/2008-09datedDecember08,20
+
+DBODNo.BP.BC.110/08.12.001/2008-09
+
+datedFebruary 10,2009respectively,
+
+DBS.CO.FrMC.BC.No.8/23.04.001/2008-09dated
+
+June 24, 2009. It is advised that th
+
+oveguidelinesonconsortiumarrangements/multiple
+
+banking arrangements issued to banks, shall mutatis mutandis apply to the select all-lndia
+
+Financial Institutions (AlFls) for sharing of information among the AlFls and with banks.
+
+Yours faithfully,
+
+(Vinay Baijal)
+
+Chief General Manager
+
+Encls : As above
+
+3,,q,4,,,400005
+
+DepartmentofBankingOperations andDevelopment,CO,FID,4thfloor,WTC,CuffeParade,Mumbai-40o005
+
+Tel: 22189131-39 faH Ext 280 Dir.22186723 a: Fax 22183579 $-#: shripal@rbi.org.in

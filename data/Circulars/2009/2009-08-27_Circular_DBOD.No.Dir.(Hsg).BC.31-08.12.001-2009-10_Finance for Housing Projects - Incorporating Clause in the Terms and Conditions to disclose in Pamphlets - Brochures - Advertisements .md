@@ -1,0 +1,92 @@
+---
+doc_id: "Circulars_2009_DBOD_No_Dir_Hsg_BC_31_08_12_001_2009-10"
+title: "Finance for Housing Projects - Incorporating Clause in the Terms and Conditions to disclose in Pamphlets / Brochures / Advertisements information regarding Mortgage of Property to the Bank"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/HFC270809.PDF"
+pdf_sha256: "276fbe30c870c332476fc9de437a8f24707d423d84616c99aab7dd06004ee289"
+md_sha256: "aafd0865a75bf0fdd4afc068170d210f5033f9cd49b8697e0427e95d45bb9613"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:40:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-08-27_Circular_DBOD.No.Dir.%28Hsg%29.BC.31-08.12.001-2009-10_Finance%20for%20Housing%20Projects%20-%20Incorporating%20Clause%20in%20the%20Terms%20and%20Conditions%20to%20disclose%20in%20Pamphlets%20-%20Brochures%20-%20Advertisements%20.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Finance for Housing Projects - Incorporating Clause in the Terms and Conditions to disclose in Pamphlets / Brochures / Advertisements information regarding Mortgage of Property to the Bank
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/131
+
+August 27, 2009
+
+DBOD.No. Dir (Hsg). BC.31/ 08.12.001/2009-10
+
+AllScheduledCommercialBanks
+
+(Excluding RRBs)
+
+Dear Sir/Madam,
+
+Finance for Housing Projects - Incorporating clause in the terms and
+
+conditions to disclose in pamphlets/brochures/advertisements
+
+information regarding mortgage of property to the bank
+
+Please refer to para 3.3 of our Master Circular on Housing Finance DBOD.No.Dir.
+
+(HSG).BC.08/08.12.01/2009-10 dated July
+
+builders on commercial terms by
+
+advised that they may extend credit to
+
+. Further, in terms of para 3.2.3 of the
+
+above circular, bank can
+
+finance to public agencies for land
+
+als
+
+acquisition and development.
+
+2. In a case which came up before the Hon'ble High Court of Judicature at
+
+Bombay, the Hon'ble Court observed that the bank granting finance to housing /
+
+development projects should insist on disclosure of the charge / or any other
+
+liability on the plot, in the brochure, pamphlets etc., which may be published by
+
+Court also added that this obviouslywould bepartof the terms and conditions on
+
+which the loan may be sanctioned by the bank.
+
+3. Keeping in view the above, while granting finance to specific housing /
+
+development projects, banks are advised to stipulate as a part of the terms and
+
+conditions that:
+
+1400005
+
+fu /Tel No: 91-22-22189131 a/Fax No: 91-22-22150663 Email ID: cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+(i) the builder / developer / company would disclose in the Pamphlets / Brochures etc., the name(s) of the bank(s) to which the property is mortgaged. (ii) the builder / developer / company would append the information relating to mortgage while publishing advertisement of a particular scheme in newspapers / magazines etc. (iii) the builder / developer / company would indicate in their pamphlets / brochures, that they would provide No Objection Certificate (NOC) / permission of the mortgagee bank for sale of flats / property, if required.
+4. Banks are also advised to ensure compliance of the above terms and conditions and funds should not be released unless the builder/developer/company fulfils the above requirements.
+## Yours faithfully
+
+(B.Mahapatra) Chief General Manager
+
+# Withdrawn
