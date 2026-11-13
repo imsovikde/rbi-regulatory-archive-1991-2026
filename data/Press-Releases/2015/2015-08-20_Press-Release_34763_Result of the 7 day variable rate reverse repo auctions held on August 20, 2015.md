@@ -1,0 +1,45 @@
+---
+doc_id: "Press-Releases_2015_34763"
+title: "Result of the 7 day variable rate reverse repo auctions held on August 20, 2015"
+category: "Press-Releases"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR447DC1953C612564FC5B96D86FAD0ABA49E.PDF"
+pdf_sha256: "4da37d99a668096befdc832bd64fe0fcae9aeb3835cef8f4449aae55cd3e0b3f"
+md_sha256: "f82a88e0da8508624721d88c3e20468e07a9e114ce207a37a3e577a176aeb4a2"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:52:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2015/2015-08-20_Press-Release_34763_Result%20of%20the%207%20day%20variable%20rate%20reverse%20repo%20auctions%20held%20on%20August%2020%2C%202015.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the 7 day variable rate reverse repo auctions held on August 20, 2015
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 0वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358 इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## August 20, 2015
+
+## Result of the 7 day variable rate reverse repo auctions held on August 20, 2015
+
+|Tenor|7 days|
+|---|---|
+|Notified Amount (in ` billion)|150|
+|Total amount of offers received (in ` billion)|130.38|
+|Amount allotted (in ` billion)|130.38|
+|Cut off Rate (%)|7.24|
+|Weighted Average Rate (%)|7.22|
+|Partial Allotment Percentage of offers received at cut off rate|N.A.|
+
+## Sangeeta Das
+
+**Press Release : 2015-2016/447** Director
