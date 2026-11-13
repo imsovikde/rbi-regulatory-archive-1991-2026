@@ -1,0 +1,719 @@
+---
+doc_id: "Circulars_2008_UBD_No_BPD_MC_No_11_13_01_000_2008-09"
+title: "Master Circular - Interest Rates on Rupee Deposits - UCBs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85420.PDF"
+pdf_sha256: "247e56ac673f80609be9bd3866bf7266574b41195b62f8e189d76c2b373e0667"
+md_sha256: "4cec80a21d756db3a4e28c0270c7c68d8e4a3b0173af8446158a667c7d5cfc35"
+total_pages: 24
+native_pages: 24
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:04:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-07-01_Circular_UBD.No.BPD.MC.No.11-13.01.000-2008-09_Master%20Circular%20-%20Interest%20Rates%20on%20Rupee%20Deposits%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Interest Rates on Rupee Deposits - UCBs
+
+<!-- PAGE 1 -->
+
+## Master Circular
+
+## INTEREST RATES ON RUPEE DEPOSITS
+
+## (Updated up to 30 June, 2008)
+
+(The Master Circular is also available at RBI web-site www.mastercirculars.rbi.org.in and may be downloaded from there)
+
+# Withdrawn
+
+## RESERVE BANK OF INDIA
+
+**Urban Banks Department** **Central Office,** **Mumbai.**
+
+<!-- PAGE 2 -->
+
+RBI/ 2008–09/ 56 UBD.No.BPD.MC.No.11 /13.01.000/2008-09 July 1, 2008
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir, **Master Circular** <u>Interest Rates on Rupee Deposits-UCBs</u>
+
+Please refer to our Master Circular UBD.BPD(PCB)MC.No.1/ 13.01.00/2007-08 dated July 2, 2007 on the captioned subject (Available at RBI website www.rbi.org.in). The enclosed Master Circular consolidates and updates all the instructions/guidelines on the subject up to June 30, 2008.
+
+Yours faithfully,
+
+( A.K.Khound) Chief General Manager In-charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Master Circular
+
+## <u>Interest Rates on Rupee Deposits</u>
+
+## Contents
+
+**1. Introduction**
+**2. Definitions**
+**3. Rate of interest payable on Current Accounts**
+**4. Rate of Interest Payable on Savings Deposits** **5 (A) interest rates on Term Deposits of not less than 15 days** **(7 days in the case of a Term Deposit of Rs.15 lakh & above** **and 1 year in case of NR deposit)**
+
+|(B)|Method of calculation of interest on Term Deposits|
+|---|---|
+|6.|Additional Interest Payable|
+|7|Payment of Interest on Term Deposit Maturing on Sunday/ Holiday/ Non-Business|
+ **Working Day** **8 Premature withdrawal of Term Deposit**
+**9. Conversion of a Term Deposit, a Deposit in the form of Daily Deposit, or Recurring** **Deposit for Reinvestment in Term Deposit**
+
+|10|Overdue Deposits|
+|---|---|
+|11|Interest Payable on a Deposit Account of Deceased Depositor|
+|12|Rounding off of transactions|
+|13|Margin on Advances against Term Deposits|
+|14|Addition or Deletion of the Name (s) or Split into Joint Account Holders|
+|15|Transfer/Split up of the Deposit on the Death of an Account Holder|
+
+Withdrawn
+
+**16 Exemptions 17 Prohibitions**
+
+**Annex 1 Rate of Interest on Deposits (Domestic and NRO Deposits)**
+
+**Annex 2 Rate of Interest on Deposits (NRE Deposits)**
+
+**Appendix List of Circulars consolidated in the Master Circular**
+
+<!-- PAGE 4 -->
+
+## Master Circular
+
+## <u>Interest Rates on Rupee Deposits</u>
+
+## 1. INTRODUCTION
+
+In exercise of the powers conferred by Sections 21 and 35A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, has issued directives that no primary (urban) co-operative bank shall pay interest on rupee deposits of money accepted by it or renewed by it, except in accordance with rates as specified in the Annex 1 & 2, subject to the conditions specified in the paragraphs below.
+
+## 2. DEFINITIONS
+
+(i) "Demand Liabilities" and "Time Liabilities" shall have the same meaning as defined in Section 18 read with Section 56 of the Banking Regulation Act, 1949; (ii) "Demand Deposit" shall mean a deposit received by the bank which is withdrawable on demand; (iii) "Saving Deposit" shall mean a form of demand deposit which is a deposit account whether designated as "Saving Account”, "Saving Bank Account", "Saving Deposit Account” or other account by whatever name called, which is subject to the restrictions as to the number of withdrawals as also the amount of withdrawals permitted by the bank during any specified period; (iv) "Term Deposit” shall mean a deposit received by the bank for a fixed period and which is withdrawable only after the expiry of Withdrawn the said fixed period and shall also include deposits such as Recurring/Cumulative/ Annuity/Reinvestment deposits, Cash Certificates, and so on;
+(v) "Notice Deposit" shall mean term deposit for specific period but withdrawable on giving at least one complete banking day's notice; (vi) "Current Account" shall mean a form of demand deposit wherefrom withdrawals are allowed any number of times depending upon the balance in the account or upto a particular agreed amount and shall also be deemed to include other deposit accounts which are neither Savings Deposit nor Term Deposit; (vii) "Budgetary Allocation" shall mean the allocation of funds by the Government made through the budget, wherein all the Government's expenditure is reflected. Any institution, irrespective of the fact whether it is a Government Department, Semi- Government or Quasi-Government Body, which receives grants, loans or subsidies from the Government is said to depend on budgetary allocation. Government grants to institutions are also in the nature of budgetary allocation. Government's subscription to the share capital of these institutions also forms part of the budgetary allocation. Local bodies like Municipal Corporations, Zilla Parishads, Taluka Panchayats and Gram Panchayats are given grants in the nature of 'compensation and assignments', which also form part of budgetary allocation, although taxes collected by these bodies are not covered under the definition and scope of budgetary allocation of Central and State Governments;
+
+<!-- PAGE 5 -->
+
+(viii) “a member of the bank’s staff” means a person employed on a regular basis, whether full-time or part-time, and includes a person recruited on probation or employed on a contract of a specified duration or on deputation and an employee taken over in pursuance of any scheme of amalgamation, but does not include a person employed on casual basis;
+
+(ix) “a retired member of the bank's staff” means an employee retiring whether on superannuation or otherwise, but does not include an employee retired compulsorily or in consequence of disciplinary action;
+
+(x) “family” in the context of the members of staff means and includes the spouse of the member/retired member of the bank's staff and the children, parents, brothers and sisters of the member/retired member of the bank's staff who are dependent on such member/retired member, but shall not include legally separated spouse; (xi) “political party” means an association or body of individual citizens of India, which is, or is deemed to be registered with the Election Commission of India as a political party under the Election Symbols (Reservation and Allotment) Order, 1968 as in force for the time being.
+Note: NRO/NRE deposits may be accepted only by such banks as have been
+ specifically authorised by RBI in this regard.
+## 3. RATE INTEREST PAYABLE ON CURRENT ACCOUNTS
+
+Primary (urban) co-operative banks may, at their discretion, pay interest at a rate not exceeding half per cent per annum on current accounts. As the discretionary provisions generally lead to increase in cost of such deposits, banks are encouraged not to pay interest on current accounts. Interest on current account balances, wherever paid, shall be calculated on a daily product basis and paid on quarterly or longer rests.
+
+## 4. RATE OF INTEREST PAYABLE ON SAVINGS DEPOSITS
+
+# Withdrawn
+
+4.1 Banks should pay interest on domestic & NRE savings deposits at the rates specified in the *Annex 1 & 2* to this Master Circular.
+4.2 4.2 Interest should be calculated on the minimum balance to the credit of the deposit account during the period from the 10th to the last day of each calendar month and credited to the account only when it is Re. 1/- or more. Banks may follow the practice of reckoning the product to the nearest rupee uniformly as suggested by the Indian Banks' Association to its members
+4.3 Such interest should be paid at quarterly or longer rests **5 (A) INTEREST RATES ON TERM DEPOSITS OF NOT LESS THAN** **15 DAYS (7 DAYS IN THE CASE OF A TERM DEPOSIT OF** **RS.15 LAKH & ABOVE AND 1 YEAR IN CASE OF NR DEPOSIT)** Banks should pay interest at the rates specified in annexure 1 & 2 of this Circular. Banks are free to offer floating rate of interest at their discretion, clearly linked to an anchor rate for domestic term deposits and with an upper cap as indicated in Annex 2 of this Master Circular for NRE deposits. Prior approval of the Board of Directors should be obtained for fixing interest rates of various maturities.
+5.1 5.1 Banks are free to fix interest rates on domestic term deposits.
+
+<!-- PAGE 6 -->
+
+5.2 5.2 The banks may, effective from November 1, 2004, at their discretion, reduce the minimum tenor of domestic/NRO term deposits even below Rs 15 lakh from 15 days to 7 days.
+5.3 5.3 The banks are required to offer uniform rates on deposits below Rs.15 lakh for the same maturity.
+5.4 5.4 In case of deposits of Rs 15 lakh and above banks may discriminate in the matter of rate of interest between one deposit and another, accepted on the same date and for the same maturity, on the basis of the size of deposit.
+5.5 5.5 Banks are required to disclose in advance the schedule of interest rates payable on deposits including deposits on which differential rate of interest will be paid by the banks. Interest rates paid by a bank should be as per the schedule and the same shall not be subject to negotiation between the bank and the depositor for domestic deposits.
+5.6 Banks are required to review their interest rate structure on domestic term deposits of different maturities and take appropriate action to make them comparable with the rates offered by the commercial banks.
+## (B) METHOD OF CALCULATION OF INTEREST ON TERM DEPOSITS
+
+Indian Banks’ Association (IBA) code for banking practice is issued by IBA for uniform adoption by the Member Banks. Code is intended to promote good banking practices by setting out minimum standards which member banks will follow in their dealings with customers. IBA, for the purpose of calculation of interest on domestic term deposit, have prescribed that on deposits repayable in less than three months or where the terminal quarter is incomplete, interest should be paid proportionately for the actual number of days reckoning the year at 365 days. It has been reported to us that some of the banks are adopting the model of reckoning the year at 366 days/ 365 days in Leap year and in other years respectively. While banks are free to adopt their methodology, they should provide information to their depositors about the manner of calculation of interest appropriately while accepting the deposits and display the same at their branches.Withdrawn
+
+**6**. **ADDITIONAL INTEREST PAYABLE**
+6.1 **6.1 To Non-Staff Depositors**
+(i) A primary (urban) co-operative bank may, at its discretion, allow additional interest at a rate not exceeding 1% per annum on all local rupee (domestic) savings deposits, as well as on savings accounts opened by resident depositor(s) which become ordinary non- resident accounts (NRO) on the depositor(s) going abroad.
+ii) While the banks have been permitted to offer, at their discretion, additional interest not exceeding 1% and ½ % per annum on the saving bank deposits and current account deposits respectively, the discretionary provisions generally lead to increase in the cost of deposits. The banks should, therefore, endeavour:
+
+(a) not to pay any additional interest on the saving bank accounts over and above what is payable by commercial banks; and
+(b) not to pay interest on current accounts.
+
+<!-- PAGE 7 -->
+
+**6.2** To Bank's Staff and their Exclusive Associations
+A bank may, at its discretion allow additional interest at a rate not exceeding one per cent per annum over and above the rate of interest stipulated in the *Annex 1 & 2* and the additional interest payable/paid as per paragraph 6.1:
+
+(A) In respect of a savings or a term deposit account opened in the name of
+(i) a member or retired member of the bank's staff, either singly or jointly with any other member or members of his/her family; or (ii) the spouse of a deceased member or a deceased retired member of the bank's staff; and (iii) an association or a fund, members of which are the members of the bank's staff,
+Provided that -
+
+the bank shall obtain a declaration from the depositor concerned, that the monies deposited or which may, from time to time, be deposited into such account, shall be monies belonging to the depositor as stated in Clauses (i) to (iii) above.
+
+Provided further that -
+
+(a) in the case of employees taken on deputation from another bank, the bank from which they are deputed may allow additional interest in respect of the savings or term deposit account opened with it, during the same period of deputation;
+(b) in the case of persons taken on deputation for a fixed duration, or on a contract of a fixed duration, the benefit shall cease to accrue on the expiry of the term of deputation or contract, as the case may be*;*
+(B) Payment of additional interest shall be subject to the following conditions, namely :
+(i) The additional interest shall be payable only so long as the Withdrawn person continues to be eligible for the same and in case of his ceasing to be so eligible, till the maturity of the deposit, in the case of a term deposit account. (ii) In the case of employees taken over pursuant to the scheme of amalgamation, the additional interest shall be allowed only if the interest at the contractual rate together with the additional interest does not exceed the rate which could have been allowed if such employees were originally employed by the bank.
+(C) Bank employees' federations in which bank employees are not direct members shall not be eligible for additional interest.
+## 6.3 To Managing Director/Chief Executive of the Bank
+
+A bank may, at its discretion, pay additional interest not exceeding one per cent per annum over and above the rate of interest stipulated in the *Annex 1 & 2* and the additional interest paid/payable as per paragraph 6.1 on deposits accepted/renewed from Managing Director of the bank; provided he acts as the Chief Executive of the bank drawing regular salary from the bank and he is not eligible to get similar benefit under paragraph 6.2 above. Additional interest on the deposits of Managing Director of the bank as above shall be payable only during the period of his tenure as Managing Director.
+
+<!-- PAGE 8 -->
+
+## 6.4 To Senior Citizens
+
+(i) Banks, with the permission of their Board, may offer higher rate of interest on
+the term deposits of any size, to senior citizens.
+
+(ii) The scheme of term deposits of senior citizens shall incorporate simplified procedure for automatic transfer of deposits to nominees in the event of the death of the depositor.
+
+## 7 PAYMENT OF INTEREST ON TERM DEPOSIT MATURING ON SUNDAY/ HOLIDAY/ NON-BUSINESS WORKING DAY
+
+In respect of a term deposit maturing for payment on a Sunday or a holiday or a non- business working day, a bank shall pay interest till the next working day at the originally contracted rate, -
+
+(i) on the maturity value in the case of reinvestment deposits and recurring deposits, and (ii) on the original principal amount in the case of ordinary term deposit on the basis of 365 days in a year.
+## 8 PREMATURE WITHDRAWAL OF TERM DEPOSIT
+
+8.1 A primary (urban) co-operative bank, on request from the depositor, should allow withdrawal of a term deposit before completion of the period of the deposit agreed upon at the time of making the deposit. Banks are free to determine their own penal interest rates for premature withdrawal of term deposits.
+8.2 Banks should ensure that the depositors are made aware of the applicable penal rate along with the deposit rate.
+8.3 Banks, at its discretion, may disallow premature withdrawal of large deposits heldWithdrawn by entities other than individuals and Hindu Undivided Families. Bank should, however, notify such depositors of its policy of disallowing premature withdrawal in advance, i.e., at the time of accepting such deposits.
+8.4 8.4 Conversion of NRE deposit into FCNR (B) deposit and vice versa before maturity by a bank allowed to maintain FCNR(B) deposits, shall be subject to the penal provision relating to premature withdrawal.
+## 8.5 8.5 DEPOSIT SCHEMES WITH LOCK-IN PERIOD
+
+It has been brought to notice of the Reserve Bank that some banks are offering special term deposit products to customers, in addition to regular term deposits, ranging from 300 days to five years, with the following features:
+
+i. Lock-in periods ranging from 6 to 12 months; ii. Premature withdrawal is not permitted during the lock-in period. In case premature withdrawal is allowed during the lock-in period, no interest is paid; iii. Rates of interest offered on these deposits are not in tune with the rates of interest on normal deposits and iv. Part pre-payment is allowed by some banks subject to certain conditions.
+Before launching new domestic deposit mobilization schemes with the approval of their respective Boards, UCBs should ensure that the provisions of RBI directives on interest rates on deposits, premature withdrawal of term deposits, sanction of loans/advances
+
+<!-- PAGE 9 -->
+
+against term deposits, etc., issued from time to time, are strictly adhered to. Any violation in this regard will be viewed seriously and may attract penalty under the Banking Regulation Act, 1949 (AACS). It is clarified that the special schemes, with lock-in periods and other features referred to above, which have been floated by some banks, are not in conformity with our instructions. Banks that have floated such deposit schemes are, therefore, advised to discontinue the schemes with immediate effect and report compliance to Regional Office concerned of Reserve Bank.
+
+## 9. CONVERSION OF A TERM DEPOSIT, A DEPOSIT IN THE FORM OF DAILY DEPOSIT,
+
+## OR RECURRING DEPOSIT FOR REINVESTMENT IN TERM DEPOSIT
+
+9.1 A bank, on request from the depositor, should allow closure of a term deposit, a deposit in the form of daily deposit, or recurring deposit, to enable the depositor to immediately reinvest the amount lying in the aforesaid deposits with the same bank in another term deposit.
+9.2 A bank should pay interest in respect of such term deposit in the manner indicated in paragraph 8.1 above without reducing the interest by way of penalty as stated in the said paragraph provided that the deposit remains with the bank after reinvestment for a period longer than the remaining period of the original contract.
+## 10 OVERDUE DEPOSITS
+
+All aspects concerning renewal of overdue deposits may be decided by the banks themselves, subject to their Boards laying down a transparent policy in this regard and the customers being notified of the terms and conditions of renewal, including interest rates, at the time of acceptance of deposits. The policy should be non-discretionary and non-discriminatory.
+
+**11 INTEREST PAYABLE ON A DEPOSIT ACCOUNT OF DECEASED DEPOSITOR**Withdrawn
+
+The criterion for payment of interest on term deposit standing in the name/s of
+
+(i) a deceased individual depositor or (ii) two or more joint depositors, where one of the depositors has died to be paid to the legal heir/s/representative/s/nominee/s has been left to the discretion of the individual banks, subject to their Board of Directors, laying down a transparent policy in this regard and the customers being notified at the time of acceptance of deposits. The policy should be non-discretionary and non-discriminatory.
+## 12 ROUNDING OFF OF TRANSACTIONS
+
+Interest payable on deposits and interest chargeable on advances shall be rounded off to the nearest rupee; i.e., fraction of 50 paise and above shall be rounded off to the next higher rupee and fraction of less than 50 paise shall be ignored.
+
+## 13 MARGIN ON ADVANCES AGAINST TERM DEPOSITS
+
+The decision regarding maintenance of margin on any financial accommodation allowed by the banks against the security of term deposit, has been left to the individual banks, subject to their Board laying down a transparent policy in this regard.
+
+<!-- PAGE 10 -->
+
+## 14 ADDITION OR DELETION OF THE NAME (S) OR SPLIT INTO JOINT ACCOUNT HOLDERS
+
+A primary (urban) co-operative bank may, at its discretion, and at the request of the joint account holders of a deposit, if any,
+
+(i) allow the addition or deletion of name(s) of joint account holders, if the circumstances so warrant; or (ii) allow an individual depositor to add the name of another person as a account holder; or (iii) allow splitting up of the joint deposit in the name of each of the joint account holders only; *Provided that in no case, shall the amount, or duration of the original deposit, undergo* *change in any manner in case the deposit is a term deposit.*
+## 15 TRANSFER/SPLIT UP OF THE DEPOSIT ON THE DEATH OF AN ACCOUNT HOLDER
+
+On the death of a depositor, a primary (urban) co-operative bank may allow the deposit to be held in the name/s of one or more legal heirs, or legal representatives, or nominees of the depositor, either jointly in their names, or along with other persons, or separately in their names by splitting up the deposits.
+
+## 16 EXEMPTIONS
+
+Nothing contained in the directives on interest rates on deposits shall apply to deposits received by a primary (urban) co-operative bank from
+
+(i) the institutions permitted to participate in the Call/Notice Money Market both as a
+# Withdrawn
+
+lenders and borrowers
+
+(ii) from any depositor under "Foreign Currency (Non-resident) Account Scheme"
+
+## 17 PROHIBITIONS
+
+**17.1** No bank shall -
+**(i)** discriminate in the matter of interest paid on deposits, between one deposit and another, accepted on the same date and for the same maturity, whether such deposits are accepted at the same office or at different offices of the bank, except in respect of term deposit schemes specifically meant for senior citizens offering higher and fixed rates of interest as compared to normal deposits of any size and single term deposit of Rs.15 lakh and above on which varying rates of interest may be permitted on the basis of size of deposits. **(ii)** pay brokerage on deposits in any form to any individual, firm, company, association, institution or any other person except -
+(a) commission paid to agents employed to collect door-to-door deposits under a special scheme, and
+(b) incentives granted to staff members as approved by the Reserve Bank of India from time to time.
+
+<!-- PAGE 11 -->
+
+**(iii)** employ/engage any individual, firm, company, association, institution or any other person for collection of deposit or for selling any other deposit linked products on payment of remuneration or fees or commission in any form or manner, except to the extent permitted in sub-clause (a) of clause (ii) above.
+
+**(iv)** launch prize/ lottery/ free trips (in India and/or abroad), etc. oriented deposit mobilisation schemes.
+
+**(v)** resort to unethical practices of raising of resources through agents/third parties to meet the credit needs of the existing/prospective borrowers or to grant loans to the intermediaries based on the consideration of deposit mobilisation. **(vi)** issue any advertisement/literature soliciting deposits from public highlighting only the compounded yield on term deposits without indicating the actual rate of simple interest offered by bank for the particular period. Simple rate of interest per annum for the period of deposit shall be indicated invariably. **(vii)** accept deposits from/at the instance of private financiers or unincorporated bodies under any arrangement which provides for either issue of deposit receipt/s favouring client/s of private financiers or giving of an authority by power of attorney, nomination or other-wise, for such clients receiving such deposits on maturity. **(viii)** grant advances against fixed deposit receipts or other term deposits of other banks.
+## 17.2 Accounts in the Names of Certain Bodies/Organisations
+
+(i) No primary (urban) co-operative bank shall open a savings deposit account in the name of Government departments/bodies depending upon budgetary allocations for performance of their functions/ Municipal Corporations or Municipal Committees/ Panchayat Samitis/ State Housing Boards/Water and Sewerage/ Drainage Boards/State Text Book Publishing Corporations/ Societies/Metropolitan Development Authority/State/ District Level Housing Co-operative Societies, etc. or any political party or any trading/business or professional concern, whether such concern is a proprietary or a partnership firm or a company or an association.Withdrawn The above prohibition at (i) will not apply in the case of the following organisations/agencies:
+(a) Small Farmers' Development Agency (SFDA)
+(b) Marginal Farmers' and Agricultural Labourers' Agencies (MFAL)
+(c) Drought Prone Areas Programme (DPAP)
+(d) District Development Authority (DDA)
+(e) District Rural Development Agency/Society (DRDA/DRDS)
+(f) Integrated Tribal Development Agency (ITDA)
+(g) Agriculture Produce Market Committees.
+(h) Khadi and Village Industries Boards.
+(i) Fish Farmers Development Agencies (FFDAs)
+(j) Societies registered under the Societies Registration Act, 1860, or any other corresponding law in force in a State or a Union Territory.
+(k) Companies governed by the Companies Act, 1956 which have been licensed by the Central Government under Section 25 of the said Act, or under the corresponding provision in the Indian Companies Act, 1913 and permitted, not to add to their names the word, 'Limited' or the words 'Private Limited’;
+(l) Institutions other than those mentioned in Clause 17.2 (i) above and whose entire income is exempt from payment of income-tax under the Income-tax Act, 1961;
+
+<!-- PAGE 12 -->
+
+(m) "Zilla Parishads/Gram Panchayats only in respect of Jawahar Rojgar Yojana funds".
+(n) HUF, provided that HUF is not engaged in trading or business activities and if the account is specified in the name of the Karta
+*******************************************************************
+
+# Withdrawn
+
+<!-- PAGE 13 -->
+
+## Annex 1
+
+## Master Circular
+
+|Interest Rates on Rupee Deposits Rate of Interest on Deposits (Domestic and NRO Deposits)*||
+|---|---|
+|[Vide para 1, 4.1, 6.2 & 6.3]||
+|Category of Account|Per cent per annum|
+|(i) Current|Not exceeding 0.5 @|
+|(ii) Savings|3.5 @|
+|(iii) Term Deposits:|Free|
+|(a) Rs.15 lakh and above (minimum period 7 days)|(rate may vary depending on the size of deposit)|
+|(b) Below Rs.15 lakh (minimum period 7 days)|Free (uniform for all customers)|
+|@ Urban co-operative banks (UCBs) are permitted to offer, at their discretion, additional interest Withdrawn percent per annum on savings bank deposits and current accounts respectively. As the above discretionary provisions generally lead to increase in the cost of their deposits, implement the following measures (i) not to pay additional interest on savings bank accounts over and above what is payable by commercial banks; (ii) not to pay interest on current accounts.|not exceeding one percent and half UCBs are encouraged to|
+
+*Ordinary Non-Resident ( NRO) deposits may be accepted only by such of the banks as have been authorised by RBI in this regard.
+
+<!-- PAGE 14 -->
+
+## Annex 2
+
+## Master Circular
+
+## <u>Interest Rates on Rupee Deposits</u>
+
+## Rate of Interest on Deposits
+
+## <u>(NRE Deposits)*</u>
+
+*[Vide para 1, 4.1, 6.2(i) & 6.3(i)]*
+
+|Category of Account|Per cent per annum|
+|---|---|
+|(i) Current|Nil|
+|(ii) Savings|@|
+|(iii) Term Deposits|@@|
+
+*** Non-Resident (External) Rupee deposits may be accepted only by such of the banks as**
+## have been authorised by RBI in this regard.
+
+@ (i) With effect from the close of business in India on November 17, 2005, the interest rates on NRE savings deposits should be the same as applicable to domestic savings deposits instead of the LIBOR/SWAP rate for six months maturity on US dollar deposits.
+
+(ii) Advance aqainst NRE Savings Deposits: It is clarified that since the account holder of NRE savings deposits can withdraw savings deposits at any time, banks should not mark any type of
+
+# Withdrawn
+
+lien, direct or indirect, against these deposits.
+
+@@
+
+(i) The maturity period of fresh NRE deposits, with effect from 29 April, 2003 will normally be one year to three years. This will also apply to NRE deposits renewed after their present maturity period. In case a particular bank, from its Asset Liability Management point of view, wishes to accept such deposits with maturity of more than 3 years, it may do so provided the interest rate on such long term deposits is not higher than that applicable to 3 year NRE deposits. (ii) The interest rates on fresh repatriable NRE deposits for one to three years :
+(a) Contracted effective from April 24, 2007 should not exceed the LIBOR/ SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturity.Such rates will be applicable even for maturity periods beyond three years and also in respect of NRE deposits renewed after their present maturity period;
+(b) Contracted effective from January 31, 2007 should not exceed the LIBOR/ SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturity plus 50 basis points. Such rates will be applicable even for maturity periods
+
+<!-- PAGE 15 -->
+
+beyond three years and also in respect of NRE deposits renewed after present maturity period;
+
+(c) Contracted effective from April 18, 2006 should not exceed the LIBOR/ SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturity plus 100 basis points. Such rates will be applicable even for maturity periods beyond three years and also in respect of NRE deposits renewed after present maturity period;
+(d) Contracted effective from November 17, 2005 should not exceed the LIBOR/ SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturity plus 75 basis points. Such rates will be applicable even for maturity periods beyond three years and also in respect of NRE deposits renewed after present maturity period;
+(e) Contracted effective from November 1, 2004 should not exceed the LIBOR/ SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturity plus 50 basis points. Such rates will be applicable even for maturity periods beyond three years and also in respect of NRE deposits renewed after present maturity period;
+(f) Contracted effective close of the business in India on April 17, 2004 should not exceed the LIBOR/ SWAP rates for US dollar of corresponding maturity;
+(g) Contracted effective close of the business in India on October 18, 2003 should not exceed 25 basis points above the US dollar of corresponding maturity
+(h) Contracted effective close of the business in India on September 15, 2003 should not exceed 100 basis points above the LIBOR/SWAP rates of corresponding maturity
+(i) Contracted effective July 17, 2003 should not exceed 250 basis points above the LIBOR/SWAP rates of corresponding maturity) points above the LIBOR/SWAP rates of corresponding maturity
+# Withdrawn
+
+(ii) The LIBOR/SWAP rates as on the last working day of the preceding month would form the base for fixing ceiling rates for the interest rates that would be offered effective from the following month. LIBOR/SWAP rates quoted by FEDAI would be used as the reference rate in arriving at the interest rates on NRI deposits.
+
+(iii) For purposes of operational convenience, the interest rates could be rounded off to nearest decimal point. For example, a computed interest rate of 3.67 per cent would become 3.7 per cent, and 3.64 per cent would become 3.6 per cent.
+
+(v) The abovementioned interest rates would also apply to renewal of NRE deposits. (vi) The interest rates as determined above for 3 years deposits would also be applicable in case the maturity period exceeds 3 years.
+
+<!-- PAGE 16 -->
+
+## Appendix
+
+## Master Circular
+
+## <u>Interest Rates on Rupee Deposits</u>
+
+## List of Circulars consolidated in the Master Circular
+
+## No. Circular No. Date
+
+## 1. UBD (PCB) CO BPD Cir No:
+
+21/13.01.000/2007-08
+
+**2. UBD PCB CO BPD Cir No:** **37/13.01.000/2006-07**
+3. **UBD PCB CO BPD Cir No:** **28/13.01.000/2006-07**
+4. UBD.PCB.Cir.48/13.01.00/2005- 06
+5. UBD.PCB.Cir.42/13.01.00/2005- 06
+6. UBD.PCB.Cir.17/13.01.00/2005- 06
+7. UBD.PCB.Cir.27/13.01.00/2004- 05
+8. UBD.No.28/13.01.00/2004-2005
+9. BPD.PCB.Cir.49/13.01.00/2002- 03
+10. UBD.BPD(PCB)Cir.No.4/13.01.0 0/2002-03
+11. UBD.CO.BPD.No.14/13.01.00/2 003-04
+12. UBD.BPD(PCB)Cir.No.20/13.01. 00/2003-04
+13. UBD.BPD(PCB)Cir.No.43/13.01. 00/2003-04
+14. UBD.BPD(PCB)Cir.No.46/13.01. 00/2003-04
+15. BPD.PCB.Cir.49/13.01.00/2002- 03
+16. UBD.BPD(PCB)Cir.No.4/13.01.0 0/2002-04
+17. UBD.CO.BPD. No.14/13.01.00/2003-04
+18. UBD.BPD(PCB)Cir.No.20/13.01. <u>00/2003-04</u>
+## Subject
+
+15.11. 07 Deposit schemes with lock-in period
+**26-04-2007** Interest rates on Non-Resident (External)Rupee (NRE)Deposits – UCBs **05-02-2007** Interest rates on Non-Resident (External)Rupee (NRE)Deposits – UCBs
+
+20.04.2006 Interest rates on Non-Resedint (external)
+Rupee (NRE) deposits- UCbs
+
+05.04.2006 Interest rates on Non-Resedient deposits –
+UCBs
+
+22.11.2005 Interest rates on Non-Resedint (external)
+Rupee (NRE) deposits- UCbs
+
+1.11.2004 Interest rate on Non-Resident (External)
+Rupee (NRE) Deposits
+
+1.11.2004 Reduction of Tenor of Domestic/ Ordinary
+Non-Resident (NRO) Term Deposits 29-04-2003 Deposits under Non-Resident (External) Rupee (NRE) Accounts Scheme 17-07-2003 Interest Rate on Deposits under Non- Resident (External)Rupee Accounts (NRE
+
+# Withdrawn
+
+Accounts) 17-09-2003 Interest rate on deposit under Non- Resident (External) Rupee Account (NRE A/c) 18-10-2003 Interest rate on deposit under Non- Resident (External)Rupee A/c (NRE A/c) 08-04-2004 Interest rates on rupee deposits held in domestic, ordinary Non-resident (NRO) & Non-Resident External (NRE) A/cs 17-04-2004 Interest rates on deposits under Non- Resident (External) Rupee A/c (NRE A/cs) 29-04-2003 Deposits under Non-Resident (External) Rupee (NRE) Accounts Scheme 17-07-2003 Interest Rate on Deposits under Non- Resident (External) Rupee Accounts (NRE Accounts) 17-09-2003 Interest rate on deposit under Non- Resident (External) Rupee Account (NRE A/c) 18-10-2003 Interest rate on deposit under Non- <u>Resident (External) Rupee A/c (NRE A/c)</u>
+
+<!-- PAGE 17 -->
+
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40. UBD.BPD(PCB)Cir.No.43/13.01. 00/2003-04 UBD.BPD(PCB)Cir No.46/13.01.00/2003-04 UBD.PBD.Dir. (PCB)No.42/13.01.00/2000-01 UBD.No.PCB.Dir.10/13.01.00/20 00-01 UBD.No.DS.Dir.3/13.01.00/2000 -01 UBD.No.DS(PCB)CIR.20/13.01. 00/ 2000-01 UBD.No.DS.PCB.DIR.10/13.01. 00/ 1999-2000 UBD.No.DS.PCB.Cir.32/13.01.0 0/ 1999-2000 UBD.No.DS.PCB.CIR.29/13.01- 00/ 1999-2000 UBD.DS.PCB-DIR.7/13.01- 00/1999-2000 UBD.DS.2/13.01.00/1999-2000 UBD.No.DS.PCB.CIR.9/13.01.0 0/ 1999-2000 UBD.No.DS.PCB.CIR.59/13.01. 00/97-98 UBD.No.DS.Dir.PCB.14/13.01.0 0/97-98 UBD.No.DS.PCB.CIR.53/13.01. 00/97-98 UBD.No.DS.PCB.Cir.12/13.01.0 0/97-98 UBD.No.DS.PCB.DIR.5/13.01.0 0/97-98 UBD.No.DS.PCB.DIR.2/13.01.0 0/97-98 UBD.No.DS.CIR.PCB.6/13.01.0 0/97/ 98 UBD.No.DS.PCB.Cir.2/13.01.00/ 97-98 UBD.No.DS.PCB.DIR.26/13.01. 00/96-97 UBD.No.DSP.CB.DIR.27/13.01. 00/96-97
+08-04-2004 Interest rates on rupee deposits held in domestic, ordinary Non resident (NRO) & Non Resident External (NRE) A/cs 17-04-2004 Interest rates on deposits under Non- Resident (External) Rupee A/c (NRE A/cs) 25-03-03 Interest Rates on Deposits
+
+## 19-04-2001 Interest Rates on Deposits
+
+## 03-01-2001 Interest Rates on Deposits
+
+22-12-2000 Rate of Interest on Advances against Term Deposits 27-04-2000 Interest Rates on Deposits
+
+27-04-2000 Interest Rates on Deposits held under Non-Resident (External) Accounts 01-04-2000 Interest Rates on Deposits
+
+## 01-07-2000 Interest Rate on Deposits
+
+21-09-1999 Interest Rates on Deposit 21-09-1999 Interest Rates on Deposits
+
+## 26-05-1998 Interest Rate on Deposits
+
+## 29-04-1998 Interest Rates on Deposits
+
+## 29-04-1998 Interest Rate on Deposits
+
+## 21-10-1997 Interest Rates on Deposits
+
+## 21-10-1997 Interest Rates on Deposits
+
+12-09-1997 Interest Rates on Deposits under Non- Resident (External) Rupee (NRE) Accounts Scheme 12-09-1997 Interest Rates on Deposits under Non- Resident (External) Rupee (NRE) Accounts Scheme 17-07-1997 Interest Rates on Deposits
+
+## 25-06-1997 Interest Rates on Deposits
+
+25-06-1997 Interest Rates on Deposits under Non- Resident (External) Rupee (NRE) <u>Accounts Scheme</u>
+
+# Withdrawn
+
+<!-- PAGE 18 -->
+
+|41.|UBD.No.DS.PCB.Cir.57/13.01.0|25-06-1997|Interest Rates on Deposits|
+|---|---|---|---|
+||0/96-97|||
+|42.|UBD.No.DS.CIR.PCB.58/13.01. 00/96-97|25-06-1997|Interest Rates on Deposits Under Non- Resident (External) Rupee (NRE) Accounts Scheme|
+|43.|UBD.No.DSP.CB.DIR.27/13.01. 00/96-97|25-06-1997|Interest Rates on Deposits|
+|44.|UBD.No.DS.PCB.CIR45/13.01.0 0/96-97|19-04-1997|Interest Rates on Deposits-Premature withdrawal of term deposit.|
+|45.|UBD.No.DS.PCB.DIR.20/13.01. 00/96-97|15-04-1997|Interest Rates on Deposits|
+|46.|UBD.No.DS(PCB)Dir.21/13.01.0 0/96-97|15-04-1997|Interest Rates on Deposits|
+|47.|UBD.No.DS.CIR.PCB.44/13.01. 00/96-97|15-04-1997|Interest Rates on Deposits|
+|48.|UBD.No.DS.PCB.Cir.21/13.01.0 0-96/97|19-10-1996|Interest Rates on Deposits|
+|49.|UBD.No.DS.PCB.CIR.18/13.01. 00/96-97|30-08-1996|Interest Rates on Deposits|
+|50.|UBD.No.DS.DIR.9/13.01.00/96-|30-08-1996|Interest Rates on Deposits|
+||97|||
+|51.|UBD.No.DS.PCB.CIR.16/13.01. 00/96-97|09-08-1996|Rate of interest on advances against term deposits|
+|52.|UBD.No.DS.PCB.Cir.2/13.01.00/|01-07-1996|Interest Rates on Deposits|
+||96-97|||
+|53.|UBD.No.DS.PCB.Dir.2/13.01.00/|01-07-1996|Interest Rates on Deposits|
+||96-97|||
+|54.|UBD.No.(PCB.)Dir.25/13.01.00/|03-04-1996|Interest Rates on Deposits|
+||95-96|||
+|55.|UBD.No.DS.CIR.PCB.59/13.01. 00/95-96.|03-04-1996|Interest Rates on Deposits|
+|56.|UBD.No.DS.PCB.DIR.24/13.01. 00/95-96|30-03-1996|Interest Rates on Deposits|
+|57.|UBD.No.DS.PCB.CIR.57/13.01. 00/95-96|30-03-1996|Interest Rates on Deposits|
+|58.|UBD No.DS.(PCB.)12/13.01.00/95-96|30-10-1995|Interest Rates on Deposits|
+|59.|UBD No.DS.Cir.PCB.24/13.01.00/95-|30-10-1995|Interest Rates on Deposits|
+||96.|||
+|60.|UBD.No.DS.(PCB)DIR.10/13.01. 00/ 95-96|29-09-1995|Rate of Interest on advances against term deposits|
+|61.|UBD No.DS.Cir.PCB.15/13.01.00/95-|29-09-1995|Interest Rates on Deposits|
+||96|||
+|62.|UBD.No.DS.Cir.PCB.17/13.01.0 0/95-96.|09-09-1995|Rate of Interest on Advances against term deposits|
+
+Withdrawn
+
+<!-- PAGE 19 -->
+
+|63.|UBD No.DS.(PCB.)|29-09-1995|Interest Rates on Deposits|
+|---|---|---|---|
+||8/13.01.00/95-96|||
+|64.|UBD.No.DS.PCB.DIR.17/13.01. 00/94-95.|06-05-1995|Interest Rates on Deposits|
+|65.|UBD.No.DS.(PCB)DIR.13(13.01. 00)/ 94/95|17-04-1995|Interest Rates on Deposits|
+|66.|UBD.No.DS.CIR.PCB.50(13.01. 00)/ 94-95|17-04-1995|Interest rates on Deposits|
+|67.|UBD.No.DS.(PCB.)DIR.10(13.01 .00)/94-95|09-02-1995|Interest Rates on Deposits|
+|68.|UBD.No.DS.CIR.PCB.42(13.01. 00)/ 94-95|09-02-1995|Interest Rates on Deposits|
+|69.|UBD.No.DS.CIR.PCB.40/13.01. 00/94-95.|04-02-1995|Interest rates on deposits|
+|70.|UBD.DS.CIR.PCB.26/13.01.00/9 4-95|26-10-1994|Interest Rates on Deposits-Margin on advances against term deposits|
+|71.|UBD.DS.PCB.DIR.7/13.01.00/94|26-10-1994|Interest Rates on Deposits|
+||-95|||
+|72.|UBD.No.DS.CIR.(PCB)21/(13.01 .00)/94-95|17-10-1994|Interest Rates on Deposits|
+|73.|UBD.No.DS.CIR.PCB.22/(13.01. 00)/ 94-95|17-10-1994|Interest Rates on Deposits under Non- Resident (External) Rupee Accounts (NRE Accounts)|
+|74.|UBD.No.(PCB)DIR.4/(13.01.00)/|17-10-1994|Interest Rates on Deposits|
+||94-95|||
+|75.|UBD.No.DS(PCB)DIR.5/(13.01.0 0)/ 94-95|17-10-1994|Interest Rates on Deposits|
+|76.|UBD.DS.CIR.AD1/13.02.00/94-|07-07-1994|Interest rates on deposits|
+||95|||
+|77.|UBD.DS.PCB.DIR1/13.01.00/94-|05-07-1994|Interest Rates on Deposits|
+||95|||
+|78.|UBD.No.PCB.(CIR).83/13- 01.00/93-94|16-06-1994|Calculation of interest on savings bank accounts-Determining the monthly product|
+|79.|UBD.No.(PCB)Cir.70/(13.01.00)/|14-05-1994|Interest Rates on Deposits|
+||93-94|||
+|80.|UBD.No.(PCB)DIR.3/(13.01.00)/ 93-94|14-05-1994|Deposits under Non-Resident (External) Rupee Accounts (NRE Accounts) Scheme|
+|81.|UBD.No.(PCB)Cir.58/13.01.00/9 3-94|16-02-1994|Interest Rates on Deposits-Premature with-drawal|
+|82.|UBD.No.(PCB)Cir.54/13.01.00/9 3-94|08-02-1994|Premature withdrawal of term deposit before the minimum period-Rate of Interest on advance granted against deposit|
+|83.|UBD.No.(PCB)DC.24/(13.01.00) /93-94|11-10-1993|Interest Rates on Deposits|
+|84.|UBD.No.(PCB)DC.25/(13.01.00)|pr11-10-|Interest Rates on Deposits|
+
+Withdrawn
+
+<!-- PAGE 20 -->
+
+## /93-94 1993
+
+|85.|UBD.No.(PCB)15/DC(13.01.00)-|01-09-1993|Interest Rates on Deposits|
+|---|---|---|---|
+||93/94|||
+|86.|UBD.No.(PCB)DC.16/(13.01.00) /93-94|01-09-1993|Interest Rates on Deposits|
+|87.|UBD.No.(PCB)9/(13.01.00)/93- 94|04-08-1993|Premature withdrawal of term deposit for a period of 46 days-Rate of Interest on advance granted against deposit|
+|88.|UBD.No.(PCB)91/DC(13.01.00)|23-06-1993|Interest Rates on Deposits|
+||92-93|||
+|89.|UBD.No.(PCB)92/DC.V.1(B)/92-|23-06-1993|Interest Rates on Deposits|
+||93|||
+|90.|UBD.(PCB)78/DC.V.1(B)/92-93|26-05-1993|Interest rates on deposits Premature withdrawal|
+|91.|UBD.(PCB)68/DC.V.1(B)/92-93|15-05-1993|Interest rates on deposits|
+|92.|UBD.(PCB)69/DC.V.1(B)/92-93|15-05-1993|Interest rates on deposits-acceptance of deposits for longer period|
+|93.|UBD.No.(PCB)56A/DC.V.1(B)/9|07-04-1993|Interest Rates on Deposits|
+||2-93|||
+|94.|UBD.No.(PCB)57/DC.V.1(B)/92- 93|07-04-1993|Interest Rates on Deposits held under Non-Resident (External) Rupee Accounts|
+|95.|UBD.No.(SUC)104/DC.V.1(B)/9|13-03-1993|Interest rates on deposits|
+||2-93|||
+|96.|UBD.No.(PCB)50/DC.V.1(B)/92-|27-02-1993|Interest Rates on Deposits|
+||93|||
+|97.|UBD.No.(PCB)51/DC.V.1(B)/92-|27-02-1993|Interest Rates on Deposits|
+||93|||
+|98.|UBD.(DC)36/V.1/92-93 28|28-01-1993|Directive on Interest rates on Deposits-Permissible Value of Gift|
+|99.|UBD No.(PCB)24/DC.V.1/92-93|08-10-1992|Interest Rates on Deposits|
+|100. UBD.No.(PCB)23/DC.V.1/92-93 08-10-1992|||Deposits [other than Foreign Currency (Non-Resident) Accounts and Non- Resident (External) Rupee Accounts]|
+|101. UBD.(PCB)15/DC.V.1-92/93 18-09-1992|||Premature withdrawal of term deposit for a period of 46 days-Rate of interest on advance granted against deposit|
+|102. UBD.(UAF)1/DC(V.1)-92/93||24-07-1992|Interest rate on Savings deposits-increase from 5% p.a. to 6% p.a.W.E.F.24.4.1992|
+|103.|UBD.No.(PCB)70/DC.V.1-91/92|23-04-1992|Interest Rates on Deposits|
+|104.|UBD.PCB.71/DC.V.1-91/92|23-04-1992|Interest Rates on Deposits|
+|105.|UBD.No.(PCB)64/DC.V.1.91/92|21-04-1992|Interest Rates on Deposits|
+|106.|UBD.No.(PCB)65/DC.V.1-91/92|21-04-1992|Interest Rates on Deposits|
+|107.|UBD.(SUC)48/DC/V.1(B)-91/92|30-11-1991|Interest Rates on Deposits|
+|108.|UBD(PCB)24/DC.V-1-91/92|08-10-1991|Interest Rates on Deposits|
+|109.|UBD(PCB)25/DC.V-1-91/92|08-10-1991|Interest Rates on Deposits|
+
+# Withdrawn
+
+<!-- PAGE 21 -->
+
+|110.|UBD(PCB)19/DC.V-1-91/92|20-09-1991|Interest Rates on Deposits|
+|---|---|---|---|
+|111. UBD(PCB)20/DC.V-1-91/92||20-09-1991|Interest Rates on Deposits - Opening of Savings Bank Accounts|
+|112. UBD.No(RO)6/DC(V.1)-91/92 17-09-1991|||Interest Rates on Deposits - Payment of Interest on Term Deposits|
+|113.|UBD(PCB)1.DC.V.1-91/92|22-07-1991|Interest Rates on Deposits|
+|114.|UBD(PCB)2/DC.V-1-91/92|22-07-1991|Interest Rates on Deposits|
+|115. UBD.PCB.76/DC-V-1-90/91||26-04-1991|Interest Rates on Deposits-Premature Withdrawal of Term Deposits-Method and Rate for Calculating Interest|
+|116.|UBD.No(PCB)64/DC-V-1-90/91|12-04-1991|Interest Rates on Deposits|
+|117.|UBD.No(PCB)65/DC-V-1-90/91|12-04-1991|Interest Rates on Deposits|
+|118. 119. UBD.No.(PCB)68/DC-V-1-90/91 12-04-1991|UBD.No(PCB)67/DC(V.1)90/91|12-04-1991|Interest Rates on Deposits Interest Rates on Deposits held under the Non-Resident (External) Rupee Accounts|
+|120.|UBD.No.(PCB)44/DC(V.1)-90/91||Interest Rates on Deposits|
+|121.|UBD.(PCB)34/DC.V-1-90/91|16-01-1991|Interest Rates on Deposits|
+|122. UBD.DC.29/V.1-90/91||08-12-1990|Charging of Penal Interest for the Defaulted Instalments of Recurring Deposits|
+|123.|UBD.No.(PCB)26/DC(V.1)-90/91|30-11-1990|Interest Rates on Deposits|
+|124.|UBD.No(PCB)20/DC(V.1)-90/91|15-10-1990|Interest Rates on Deposits|
+|125.|UBD.(PCB)14/DC.V.1-90/91|09-10-1990|Interest Rates on Deposits|
+|126.|UBD(PCB).15/DC-V-1-90/91|09-10-1990|Interest Rates on Deposits|
+|127. 128. UBD.(PCB) No.9/DC-V-1-90/91 07-09-1990|UBD.(PCB)8/DC.V.1-90/91|07-09-1990|Directives on Interest Rates on Deposits Interest Payable on the Deposit Account of Deceased Depositor/s|
+|129.|UBD.No.PCB.32/DC.V.1(B)-|30-04-1990|Interest Rates on Deposits|
+||89/90|||
+|130. 131. UBD.(UCB)24/DC-(V.1)-89/90 12-04-1990|UBD.(UCB).23/DC(V.1)-89/90|12-04-1990|Interest Rates on Deposits Interest Rates on Deposits held under the Non-Resident (External) Rupee Accounts|
+|132.|UBD.No.PCB.16/DC.V-1(B)-|05-03-1990|Interest Rates on Deposits|
+||89/90|||
+|133. UBD.DC.49/V.1-89/90||13-12-1989|Method of Calculation of Interest on|
+
+# Withdrawn
+
+Premature Withdrawal/Discontinuance of Recurring Deposits and Charging of Penal Interest for the Defaulted Instalments of Recurring Deposits
+
+|134.|UBD.No.DC.31/V.1-89/90|09-10-1989|Interest Rates on Deposits|
+|---|---|---|---|
+|135.|UBD.No.DC.32/V.1-89/90|09-10-1989|Interest Rates on Deposits|
+|136. UBD.No.DC.9/V.1.89/90||31-07-1989|Interest Rates on Deposits-Payment of Interest on Term Deposits|
+|137.|UBD.No.DC.101/V.1-88/89|27-03-1989|Interest Rates on Deposits|
+
+<!-- PAGE 22 -->
+
+|138.|UBD.No.DC.102/V.1/88-89|27-03-1989|Interest Rates on Deposits|
+|---|---|---|---|
+|139.|UBD.No.DC.12/V.1(B)-88/89|30-07-1988|Directives on Interest Rates on Deposits|
+|140.|UBD.No.DC.104/V-1/87-88|02-04-1988|Interest Rates on Deposits|
+|141.|UBD.DC.105/V.1-87/88|02-04-1988|Interest Rates on Deposits|
+|142. UBD.No.(DC)63/V.1-86/87||19-11-1987|Payment of Interest on Savings Bank Accounts|
+|143. UBD.No.DC.60/V1.87/88||13-11-1987|Interest Rates on Deposits-Rate of Interest Applicable to Overdue Deposits|
+|144.|UBD.(DC)46/V.1-87/88|10-10-1987|Interest Rates on Deposits|
+|145.|UBD.DC.No.7/V.1-87/88|06-07-1987|Interest Rates on Deposits|
+|146.|UBD.DC.8/V.1-87/88|06-07-1987|Interest Rates on Deposits|
+|147.|UBD.DC.102/V.1-86/87|25-06-1987|Interest Rates of Deposits|
+|148.|UBD.DC.103/V.1.86/87|25-06-1987|Interest Rates on Deposits|
+|149.|UBD.No.(DC)68.V.1.86/87|01-04-1987|Interest Rates on Deposits|
+|150.|UBD.No.DC.60/V.1-86/87|31-03-1987|Interest Rates on Deposits|
+|151. 152. UBD(DC)57/V.1-85/86|UBD.No.(DC)61/V.1-86/87|31-03-1987 19-11-1985|Interest Rates on Deposits Margin and Rate of Interest on Loans Against Fixed Deposits|
+|153. UBD.No.(DC)56/V.1/85-86||19-11-1985|Payment of Interest on Savings Bank|
+
+Accounts of Government Departments, Semi-Governments, Quasi-Governments and Local Bodies and certain Organisations engaged in Public Utility Services like State Housing Board
+
+|154.|UBD.No.(DC)36/V.1-85/86|09-10-1985|Interest Rates on Deposits|
+|---|---|---|---|
+|155.|UBD.DC.21/ V.I-85/86|02-09-1985|Directives on Interest Rates on Deposits|
+|156.|UBD.(DC)3408/V.1-84/85|25-05-1985|Non-resident accounts in rupees|
+|157.|UBD.(DC)3413/V.1-84/85|25-05-1985|Interest rates on deposits|
+|158. UBD.(DC)3415/V.1-84/85||25-05-1985|Interest rates on deposits acceptance of deposits for periods exceeding 10 years|
+|159.|UBD.(DC)3414/V.1-84/85|24-05-1985|Interest rates on deposits|
+|160.|UBD(DC)3160/V.1-84/85|06-04-1985|Interest rates on deposits|
+|161.|UBD.(DC)3161/V.1-84/85|06-04-1985|Interest rates on deposits|
+|162. UBD.I&L1707/J.1-84/85||23-02-1985|Crediting of interest on deposits accepted under re-investment plan to the deposit accounts|
+|163. UBD.(DC)890/V.1-84/85||09-01-1985|Interest rates on deposits payment of|
+
+# Withdrawn
+
+interest at savings bank rate on amounts lying in the current account of deceased depositors
+
+|164.|DBOD.UBD(DC)128/V.1-83/84|22-07-1983|Interest rates on deposits|
+|---|---|---|---|
+|165.|DBOD.UBD(DC)1055/V.1-82/83|04-02-1983|Interest rates on deposits|
+|166.|DBOD.UBD(DC)464/V.1-82/3|26-10-1982|Interest Rates on Deposits|
+|167.|DBOD.UBD(DC)465/V.1-82/3|26-10-1982|Interest Rates on Deposits|
+
+<!-- PAGE 23 -->
+
+168. ACD.ID.(DC).38/V.1-82/83 09-07-1982 Voilations of the directive provisions
+relating to interest rates on deposits
+
+169. ACD.ID.(DC)2692/V.1-81/82 03-06-1982 Interest rates on deposits payments of
+interest on savings bank accounts of certain organisations engaged in public utility services like municipal corporations, state housing boards, etc.
+
+|170.|ACD.ID.(DC)1882/V.1-81/82|01-03-1982|Interest rates on deposits|
+|---|---|---|---|
+|171.|ACD.ID.(DC)1883/V.1-81/82|01-03-1982|Interest rates on deposits|
+|172.|ACD.ID.(DC)1249/V.1-81/82|21-12-1981|Interest rates on deposits|
+|173.|ACD.ID.(DC)1251/V.1-81/82|21-12-1981|Interest rates on deposits|
+|174. ACD.ID.(DC)367/V.1-81/82||13-08-1981|Interest rates on deposits renewal of deposits before maturity|
+|175.|ACD.ID.(DC)369/V.1-81/82|13-08-1981|Interest rates on deposits|
+|176. ACD.ID(DC)256/V.1-81/82||22-07-1981|Interest rates on deposits premature withdrawal of deposits|
+|177.|ACD.ID.(DC)2133/V.1-80/81|02-03-1981|Interest Rates on Deposits|
+|178.|ACD.ID.(DC)2132/V.1-80/81|02-03-1981|Interest rates on deposits|
+|179.|ACD.ID.(DC)2961/V.1-79/80|16-05-1980|Directives on interest rates on deposits|
+|180.|ACD.ID.(DC)791/V.1-79/80|14-09-1979|Interest rates on deposits|
+|181.|ACD.ID.(DC)790/V.1-79/80|13-09-1979|Interest rates on deposits|
+|182.|ACD.ID.(DC)3167/V.1-78/9|19-02-1979|Interest rates on deposits|
+|183. ACD.ID.(DC)1259/V.1-78/9||20-11-1978|Interest rates on deposits covered by declaration under section 54 E of the income tax act,1961|
+|184.|ACD.ID.(DC)584/V.1-78/9|23-08-1978|Interest Rates on Deposits|
+|185.|ACD.ID.(DC)585/V.1-78/9|23-08-1978|Interest rates on deposits|
+|186. ACD.ID.(DC)9264/V.1-77/8||02-06-1978|Interest rates on deposits payment of interest on monthly basis on fixed deposits|
+|187.|ACD.ID.(DC)8866/V.1-77/8|10-05-1978|Directives on interest rates on deposits|
+|188.|ACD.ID.(DC)6975/V.1-77/8|07-03-1978|Interest rates on deposits|
+|189.|ACD.ID.(DC)69761/V.1-77/8|07-03-1978|Interest rates on deposits|
+|190.|ACD.ID.(DC)6870/V.1-77/8|01-03-1978|Interest rates on deposits|
+|191.|ACD.ID.(DC)6871/V.1-77/8|01-03-1978|Interest rates on deposits|
+|192.|ACD.ID.2717/V.1-77/8|21-09-1977|Interest rates on deposits|
+|193.|ACD.ID.2718/V.1-77/8|21-09-1977|Interest rates on deposits|
+|194. ACD.ID.1092/V.1-77/8||30-07-1977|Interest rates on deposits overdue deposits|
+|195.|ACD.ID.11438/V.1-76/7|20-06-1977|Interest rates on deposits|
+|196.|ACD.ID.10844/V.1-76/7|31-05-1977|Interest rates on deposits|
+|197.|ACD.ID.10845/V.1-76-7|31-05-1977|Interest rates on deposits|
+|198. ACD.ID.3677/V.1-76/7||01-11-1976|Interest rates on deposits-linked janata|
+
+# Withdrawn
+
+## <u>personal accident policy</u>
+
+<!-- PAGE 24 -->
+
+|199.|ACD.ID.12504/J.32-75/6|21-06-1976|Interest rates on deposits|
+|---|---|---|---|
+|200.|ACD.ID.12505/J.32-75/6|21-06-1976|Interest rates on deposits|
+|201. ACD.ID.8217/J.32-75/6||31-01-1976|Interest rates on deposits premature withdrawal of deposits|
+|202. ACD.ID.5257/J.32-75/6||24-11-1975|Interest Rates on Deposits Schemes for Mobilising Deposits|
+|203.|ACD.ID.4300/J.32-74/5|12-02-1975|Interest Rates on Deposits|
+|204.|ACD.ID.4301/J.32-74/5|12-02-1975|Interest Rates on Deposits|
+|205.|ACD.ID.4141/J.32-74/5|31-01-1975|Interest Rates on Deposits|
+|206.|ACD.ID.4142/J.32-74-5|31-01-1975|Interest Rates on Deposits|
+|207.|ACD.ID.3986/J.32-74/5|20-01-1975|Interest rates on deposits|
+|208.|ACD.ID.2918/J.32-74/5|22-11-1974|Interest rates on deposits|
+|209.|ACD.ID.2919/J.32-74/5|22-11-1974|Interest rates on deposits|
+|210.|ACD.ID.935/J.32/74-5|16-08-1974|Interest rates on deposits|
+|211.|ACD.ID.936/J.32/7-45|16-08-1974|Interest rates on deposits|
+
+Withdrawn
