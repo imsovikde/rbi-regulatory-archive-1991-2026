@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2015_9554"
+title: "Foreign investment in India by Foreign Portfolio Investors"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR73FII060215.pdf"
+pdf_sha256: "9bd10db33d3f3a14a231d4c8ff24758602fc1a59bb865b51e4b1354b7f16d7f0"
+md_sha256: "2a6d1e21d7ac3777def1989c4f681161d2a52f4bb9475c0f8a17c56ee007b22a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-02-06_Notification_9554_Foreign%20investment%20in%20India%20by%20Foreign%20Portfolio%20Investors.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign investment in India by Foreign Portfolio Investors
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/460
+
+A. P. (DIR Series) Circular No.73 February 06, 2015 To, All Authorised Persons Madam/ Sir,
+## Foreign investment in India by Foreign Portfolio Investors
+
+Attention of AD Category-I banks is invited to the announcement in the <u>Sixth</u> <u>Bi-Monthly Monetary Policy Statement, 2014-15</u>, issued on February 03, 2015 and
+
+<u>A.P. (DIR Series) Circular No. 71 dated February 03, 2015</u> in terms of which all future investments by registered Foreign Portfolio Investors (FPIs) in the debt market in India will be required to be made with a minimum residual maturity of three years.
+**2.** In this context, the Reserve Bank has been receiving some enquiries about the applicability of the aforesaid directions. The queries raised and our clarifications thereon are as under:
+a. **Query:** The applicability of the directions to investment by FPIs in commercial papers (CPs). ***Clarification:*** In terms of the aforesaid directions, any fresh investments shall be permitted in any type of debt instrument in India with a minimum residual maturity of three years. Accordingly, FPIs shall not be allowed to make any further investment in CPs.
+b. ***Query:*** The applicability of these guidelines on debt instruments having maturity of three years and over but with optionality clause of less than three years.
+
+<!-- PAGE 2 -->
+
+***Clarification:*** FPIs shall not be allowed to make any further investments in debt instruments having minimum initial / residual maturity of three years with optionality clause exercisable within three years.
+
+c. ***Query:*** The applicability of these guidelines on amortised debt instruments having average maturity of three years and above. ***Clarification:*** FPIs shall be permitted to invest in amortised debt instruments provided the duration of the instrument is three years and above.
+**3.** Any arrangement that negates any of the above shall not be in conformity with the provisions of the A.P. (DIR Series) Circular No. 71 dated February 03, 2015.
+**4.** AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+**5.** The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(B. P. Kanungo) Principal Chief General Manager

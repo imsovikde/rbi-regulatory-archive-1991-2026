@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2015_9499"
+title: "Interest Rates on Advances"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/WGPCIRG190115.pdf"
+pdf_sha256: "4114e7c2c4b571701f8fc2409d9ba9797490638b24721075ea7d207aaff4f70e"
+md_sha256: "38dd1dd3ac7a7c8a86abec80d1e56501d43b329972e460e18050f0b1079d7773"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-01-19_Notification_9499_Interest%20Rates%20on%20Advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Advances
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/414 DBR.Dir.BC.No.63/13.03.00/2014-15 January 19, 2015
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+## Dear Sir/Madam
+
+## Interest Rates on Advances
+
+A reference is invited to our <u>circulars DBOD.No.Dir.BC.88/13.03.00/2009-10 dated</u> <u>April 9, 2010</u> on ‘Guidelines on the Base Rate’ and <u>DBOD.No.Dir.BC.47/13.03.00/</u> <u>2013-14 dated September 2, 2013</u> on ‘Base Rate- Revised Guidelines’.
+
+2. Based on the recommendations of the Working Group on pricing of Credit (Chair: Shri Anand Sinha), banks are now advised to adhere to the additional guidelines on ‘Interest Rates on Advances’ as indicated in the **‘Annex’**.
+3. The guidelines will come into effect one month from the date of this circular. Yours faithfully, (Lily Vadera) Chief General Manager
+बकैं िं ग विनियमि विभाग, ें द्रीय ायाालय, 12ि िं और 13ि िं मिंज़िल, ें द्रीय ायाालय भिि, शहीद भगत स िंह मागा, मिंबई 400001 टे लीफोि /Tel No: 22661602, 22601000 फै क् /Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Banking Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Computation of Base Rate
+
+While computing Base Rate, banks will have the freedom to calculate cost of funds either on the basis of average cost of funds or on marginal cost of funds or any other methodology in vogue, which is reasonable and transparent provided it is consistent and made available for supervisory review/scrutiny as and when required. It is clarified here that where the card rate for deposits of one or more tenor is the basis, the deposits in the chosen tenor/s should have the largest share in the deposit base of the bank. **Review of Base Rate** As hitherto, banks are required to review the Base Rate at least once in a quarter with the approval of the Board or the Asset Liability Management Committee (ALCO) as per the bank’s practice. **Review of Base Rate methodology**
+
+(i) With a view to providing banks greater operational flexibility, it has been decided to allow banks to review the Base Rate methodology after three years from date of its finalization instead of the current periodicity of five years. Accordingly, banks may change their Base Rate methodology after completion of prescribed period with the approval of their Board of Directors/ ALCO. (ii) Banks will, however, not be allowed to change their methodology during the review cycle. **Spread**
+(i) Banks should have a Board approved policy delineating the components of spread charged to a customer. It should be ensured that any price differentiation is consistent with bank’s credit pricing policy. (ii) Bank’s internal pricing policy must spell out the rationale for, and range of, the spread in the case of a given category of borrower, as also, the delegation of powers in respect of loan pricing. The rationale of the policy should be available for supervisory review.
+
+<!-- PAGE 3 -->
+
+(iii) The spread charged to an existing borrower should not be increased except on account of deterioration in the credit risk profile of the customer or change in the tenor premium. Any such decision regarding change in spread on account of change in credit risk profile should be supported by a full-fledged risk profile review of the customer. The change in tenor premium should not be borrower specific or loan class specific. In other words, the change in tenor premium will be uniform for all types of loans for a given residual tenor. (iv) The guidelines contained in sub-paragraph (iii) above are, however, not applicable to loans under consortium/ multiple banking arrangements.

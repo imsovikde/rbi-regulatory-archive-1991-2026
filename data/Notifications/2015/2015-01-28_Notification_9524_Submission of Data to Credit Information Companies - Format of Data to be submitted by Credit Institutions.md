@@ -1,0 +1,72 @@
+---
+doc_id: "Notifications_2015_9524"
+title: "Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DNBRSDC280115.PDF"
+pdf_sha256: "bd7d985f747430c55ab76c82e5231ef848d4a6aaa40979299fe4e7065f2466ed"
+md_sha256: "440fbfb17b77d4da771f00b1626d3ce1e0b61135b19d91283ff20f62073076dd"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:49:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-01-28_Notification_9524_Submission%20of%20Data%20to%20Credit%20Information%20Companies%20-%20Format%20of%20Data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2014-15/434
+
+DNBR.(PD).CC.N0.015/03.10.001/2014-15
+
+January 28, 2015
+
+To,
+
+AlIl NBFCS
+
+Dear Sirs,
+
+Submission of Data to Credit Information Companies - Format of Data to be
+
+submittedbyCreditInstitutions
+
+Please refer to the circular number DNBS.(PD).CC.No.200/03.10.001/2010-11 dated
+
+September 17, 2010
+
+0on the captioned subject in terms of which NBFCs were
+
+required to provide current and historical data on borrowers to the Credit Information
+
+Companies. The Bank has received representations on the applicability or otherwise
+
+of the instructions to NBFCs that do not have any customer interface.
+
+2.
+
+investment activities without any customer interface are exempt from the applicability
+
+of the above mentioned circular.
+
+Yours faithfully,
+
+(A. Mangalagiri)
+
+General Manager In-Charge
+
+，240005
+
+:22182526,aH:22162768 -:cgmicdnbsco@rbi.org.in
+
+Department of Non-Banking Regulation, Central Office, 2"d Floor, Centre I, WTC, Cuffe Parade, Mumbai - 400 005
+
+TelNo:22182526,FaxNo:22162768 Email:cgmicdnbsco@rbi.org.in

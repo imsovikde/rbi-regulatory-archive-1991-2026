@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2015_9576"
+title: "Priority Sector Lending- Targets and Classification –Overdraft in PMJDY accounts"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FID250215CIRNT.PDF"
+pdf_sha256: "094c8996d3d08f59f7270cc2661f0abc20f25bd32a6464d1c47539cba0dec758"
+md_sha256: "c80a5316f8ae7e83f4ccd69d18eeb155067a5fbf9cff2fbbdb065c3b7672e2a9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-02-25_Notification_9576_Priority%20Sector%20Lending-%20Targets%20and%20Classification%20%E2%80%93Overdraft%20in%20PMJDY%20accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending- Targets and Classification –Overdraft in PMJDY accounts
+
+<!-- PAGE 1 -->
+
+**भारतीय ररज़र्व बकैं** **----------------------RESERVE BANK OF INDIA-----------------** www.rbi.org.in RBI/2014-15/477 FIDD.CO.Plan.BC 50 /04.09.01/2014-15
+
+## February 25, 2015
+
+The Chairman/ Managing Director/ Chief Executive Officer [All scheduled commercial banks (excluding Regional Rural Banks)]
+
+Dear Sir,
+
+## <u>Priority Sector Lending- Targets and Classification –Overdraft in PMJDY accounts</u>
+
+Please refer to our Master Circular RPCD.CO.Plan.BC 10/04.09.01/2014-15 dated <u>July 01, 2014</u> on Priority Sector Lending- Targets and Classification.
+
+2. It has been decided that overdrafts extended by banks upto ` 5,000/- in Pradhan Mantri Jan-Dhan Yojana (PMJDY) accounts will be eligible for classification under priority sector advances (‘others’ category) as also weaker sections, provided the borrowers household annual income does not exceed ` 60,000/- for rural areas and ` 1,20,000/- for non-rural areas.
+3. The above instructions come into effect from the date of this circular. Yours faithfully, (P.Manoj) Dy.General Manager
+वित्तीय ् ्समािेशन्और्विकास्विभाग,्के न्द्रीय्कायाालय,10 िी्मंजिल,्कें रीय्कायाालय्भिन, शहीद्भगतससंह्मागा,पोस्ट्बॉक्स्सं. 10014,मंबई-400001 Financial Inclusion & Development Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai-1 टेली Tel:022-22601000 फै क्सः्91-22-22621011/22610943/22610948 ई्-मेल्: cgmincfidd@rbi.org.in
+
+||||||ह िंदी|आसान|ै,इसका|प्रयोग||बढ़ाइए।||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|“चेतार्नी|: -मेल ररज़र्व बक|द्र्ारा ैं|डाक,|एसएमएस|या फोन|कॉल|के जररए|ककसी की|भी|र्यक्ततगत|जानकारी|जैसे बक ैं|के खाते|का बयौरा, पासर्डव|आहद न ीिं मािंगी|
+|जाती Caution:|ै। य धन रखने या|देने का|प्रसतार्|भी न ीिं करता|ै। keeps or offers funds to anyone. Please do not respond in any manner to such offers.|ऐसे|प्रसतार्ों का|ककसी RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|भी तरीके से|जर्ाब|मत दीक्जए।|"||||

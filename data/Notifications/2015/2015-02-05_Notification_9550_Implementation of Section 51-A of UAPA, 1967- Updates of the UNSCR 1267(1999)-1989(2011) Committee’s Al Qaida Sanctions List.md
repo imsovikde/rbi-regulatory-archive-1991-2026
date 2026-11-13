@@ -1,0 +1,92 @@
+---
+doc_id: "Notifications_2015_9550"
+title: "Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1267(1999)/1989(2011) Committee’s Al Qaida Sanctions List"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DNBR450NT022015.pdf"
+pdf_sha256: "34f5b5b5b929c31d873e922071058022af356c87ef491a6f659166e0fff0618f"
+md_sha256: "bbcc34fcbfbb14f837f808a015a3cb1757ab2c1b826f5da4a90bba2e5dc4bb9d"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:49:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-02-05_Notification_9550_Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967-%20Updates%20of%20the%20UNSCR%201267%281999%29-1989%282011%29%20Committee%E2%80%99s%20Al%20Qaida%20Sanctions%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1267(1999)/1989(2011) Committee’s Al Qaida Sanctions List
+
+<!-- PAGE 1 -->
+
+WANY
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2014-15/450
+
+DNBR(PD).CC.No 016/03.10.42/2014-15
+
+February05,2015
+
+All NBFCS
+
+Dear Sirs,
+
+Implementationof Section51-A of UAPA, 1967- Updates of the UNSCR
+
+1267(1999)/1989(2011)Committee'sAlQaidaSanctionsList
+
+Please refer to our Circular DNBS (PD).CC. No 366/03.10.42/2013-14 dated January 10,
+
+2014 on the captioned subject releasing 20th to 30th updates of 2013; Circular DNBS
+
+(PD).CC. No 411/03.10.42/2014-15 dated September 29. 2014 releasing 8th & gth
+
+updates of 2014; Circular DNBR (PD).CC. No 007/03.10.42/2014-15 dated December
+
+11, 2014 releasing 1st to 6th updates of 2014 regarding UNSCR 1267(1999)/1989(2011)
+
+Committee'sAl QaidaSanctionsList.
+
+2.Ministry of External Affairs(MEA),UNP Division have forwarded press releases
+
+pertaining to 31st and 32nd updates of 2013 dated December 4, 2013 and December 19,
+
+2013 respectively and 7th updates of 2014 dated April 3, 2014 regarding amendment to
+
+theentriesintheAlQaidasanctionlist.Pressreleasesareavailableat:
+
+http://www.un.org/press/en/2013/sc11198.doc.htm
+
+http://www.un.org/press/en/2013/sc11226.doc.htm
+
+http://www.un.org/press/en/2014/sc11343.doc.htm
+
+A link to updated list of individuals and entities linked to Al Qaida is available at:
+
+http://www.un.org/sc/committees/1267/pdf/AQList.pdf
+
+3. NBFCs are required to update the list of individuals/entities as circulated by Reserve
+
+Bank and before opening any new account, it should be ensured that the name/s of the
+
+proposed customer does not appear in the list. Further, NBFCs should scan all existing
+
+accountstoensurethatnoaccountisheldbyorlinkedtoanyoftheentitiesor
+
+individuals included in the list.
+
+，240005
+
+:22182526, aH:22162768 -:helpdnbs @rbi.org.in
+
+Department of Non-Banking Regulation, Central Office, 2md Floor, Centre I, WTC, Cuffe Parade, Mumbai - 400 005
+
+Tel No:22182526, Fax No:22162768 Email :helpdnbs @rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. A link of press releases in which the relevant changes to the list are announced are posted on the Committee’s website at the following URL: <u>[http://www.un.org/sc/committees/1267/pressreleases.shtml](http://www.un.org/sc/committees/1267/pressreleases.shtml)</u> Yours faithfully, (Sindhu Pancholy) Deputy General Manager

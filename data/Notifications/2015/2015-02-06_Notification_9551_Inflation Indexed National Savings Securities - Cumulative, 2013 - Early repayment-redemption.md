@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2015_9551"
+title: "Inflation Indexed National Savings Securities - Cumulative, 2013 - Early repayment/redemption"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IINSSC060215NT.PDF"
+pdf_sha256: "94e2b5aa49ea83444725fde884325a6254189768d4f28af339c4e27b8d5ff5aa"
+md_sha256: "40a4937e11bc99d672f4194bb4f2067ffb0ea405078992a8278ed68a4141e3a3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-02-06_Notification_9551_Inflation%20Indexed%20National%20Savings%20Securities%20-%20Cumulative%2C%202013%20-%20Early%20repayment-redemption.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inflation Indexed National Savings Securities - Cumulative, 2013 - Early repayment/redemption
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़व बर्क
+
+__________________________**RESERVE BANK OF INDIA**__________________________ <u>www.rbi.org.in</u> RBI/2014-15/456 IDMD(DGBA).CDD.No. 3476/13.01.999/2014-15 February 06, 2015
+
+The Chairman & Managing Director Head Office (Government Accounts Department) State Bank of India & Associate Banks All Nationalised Banks ICICI Bank Ltd., HDFC Bank Ltd, Axis Bank Ltd., and Stock Holding Corporation of India Ltd (SHCIL).
+
+Dear Sir/Madam,
+
+## <u>Inflation Indexed National Savings Securities-Cumulative, 2013 - Early repayment/redemption</u>
+
+Please refer to our <u>circular DGBA.CDD.No.2589/13.01.999/2014-2015 dated</u> <u>December 11, 2014</u> regarding early repayment/ redemption of Inflation Indexed National Savings Securities-Cumulative (IINSS-C), 2013. In terms of Para 15(ii) of the circular, an investor can seek early repayment/premature redemption,
+
+(i) after one year of holding if he/she is a senior citizen (over 65 years of age) (ii) after 3 years of holding in all other cases,
+subject to deduction of penalty at the rate of 50% of the last coupon payable. The early redemption is allowed only on coupon date.
+
+2. In this regard, keeping in view the problems being faced by the investors and the Agency banks, it has been decided that repayment/early redemption of IINSS-C may be kept open till the next coupon date and the premature repayment/early redemption requests can be entertained by the Agency banks on any day after the coupon date, subject to the penalty of 50% of last coupon. However, no interest would be paid for the period between the coupon date and the date of the repayment. Yours faithfully, (R. K. Singh) Deputy General Manager आंतिरक ऋण पर्बंध िवभाग, कदर्ीय कायार्लय, 4थी मंिजल, भायखला ऑिफस िबिल्डग, मुंबई सटर्ल रेल्वे स्टेशन के सामने, भायखला, मुंबई – 400 008, भारत
+<u>फोन : (022) 2308 4121, फ</u>ै<u>क्स : (022) 2300 0370/2301 0095, ई-म</u>े<u>ल : cgmidmd@rbi.org.in</u> Internal Debt Management Department, Central Office, 4 th Floor, Byculla Office Building, Opposite Mumbai Railway Station, Byculla, Mumbai‐400 008, India Telephone : 022 2308 4121, Fax : 022 2300 0370/2301 0095, Email : <u>cgmidmd@rbi.org.in</u> िहन्दी आसान है, इसका पर्योग बढ़ाइए।
+
+चेतावनी : िरज़वर् बक ारा ईमेल, डाक, एसएमएस या फोन काल के जिरये िकसी की भी �िक्तगत जानकारी जैसे बक खाते का ब्यौरा, पासवडर् आिद नह मांगी जाती है। यह धन रखने या देने का पर्स्ताव भी नह करता ह। ऐस ै े पर्स्ताव का िकसी भी तरीके से जवाब मत दीिजये। **Caution**: RBI never sends emails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

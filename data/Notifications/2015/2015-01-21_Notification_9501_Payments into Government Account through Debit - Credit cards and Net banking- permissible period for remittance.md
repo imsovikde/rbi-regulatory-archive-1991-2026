@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2015_9501"
+title: "Payments into Government Account through Debit / Credit cards and Net banking: permissible period for remittance"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PMT210115NOFNI.PDF"
+pdf_sha256: "55dd03b962c2b0fdca71ea3e18af44aad4f49c46b78c3a337e660a90992dcc25"
+md_sha256: "fee4a2de0c68777c2e78a257fae51f99a8f297085f6bf8a7cd8144d0f516e77b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-01-21_Notification_9501_Payments%20into%20Government%20Account%20through%20Debit%20-%20Credit%20cards%20and%20Net%20banking-%20permissible%20period%20for%20remittance.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Payments into Government Account through Debit / Credit cards and Net banking: permissible period for remittance
+
+<!-- PAGE 1 -->
+
+भारतीय र बक **_______ RESERVE BANK OF INDIA _______** ज़व <u>www.rbi.org.in</u> RBI/2014-15/416 DGBA.GAD No.H-3203/42.01.011/2014-15 January 21, 2015
+
+The Chairman / Chief Executive Officer All agency Banks
+
+Dear Sir / Madam **Payments into Government Account through Debit / Credit cards and Net banking: permissible period for remittance**
+
+Please refer to <u>circulars DGBA.GAD.No.H-2444 / 42.01.011/ 2010-11 dated October</u> <u>8, 2010</u> and DGBA.GAD.No.H-4831 / 42.01.011/ 2012-13 dated February 18, 2013 on the above subject. We hereby advise that as per the instructions of the Controller General of Accounts, Ministry of Finance, Government of India, agency banks are required to adhere to the following additional norms for payment of government revenue through Debit / Credit cards and Net banking:
+
+a) Remittance norms of T + 1 working day, including the Put Through date should be strictly followed, where “T“ is the day when money is available with the receiving bank branch.
+b) Penal interest will be levied on delayed remittances of e-receipt into government account, i.e., on delay beyond T+1 working day, if any, and
+c) The settlement should conform to the provisions contained in the Payment and Settlement Systems Act 2007 and the rules and regulations framed thereunder.
+## Yours faithfully
+
+(K.Ganesha) Deputy General Manager
+
+_______________________________________________________________________________________________ सरकारी और बक लेखा िव भाग,के न्ीय कायार्लय, भायखला ऑिफ स िब िल्डग, 4थी मंिज़ ल,मुंबई सेन्ल रेलवे स्टेशन के
+
+|सरकारी|और बक लेखा|िव भाग, के न्ीय|कायार्लय भायखला|ऑिफ स िब िल्डग|, 4थी मंिज़ ल|, मुंबई सेन्ल|रेलवे स्टेशन|के|
+|---|---|---|---|---|---|---|---|---|
+|Department of Government & Bank Accounts, Central Office, Opp.Mumbai Central Railway Station. Byculla, Mumbai – 400 008. Telephone : (022)2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-mail : cgmicdgbaco@rbi.org.in|||सामने, भायखला िह न्दी आसान|, मुंबई-400 008 है, इसका योग|बढ़ाइए।||||
+
+<!-- PAGE 2 -->
+
+भारतीय र **_______ RESERVE BANK OF INDIA _______** ज़व बक <u>www.rbi.org.in</u>
+
+## DGBA.GADNo.H-4831 /42.01.011/ 2012-13 February 18, 2013
+
+The Chairman & Managing Director/ Managing Director/General Manager All agency Banks
+
+Dear Sir / Madam **Recovery of Interest on delayed payments and permissible period for remittance of Government Receipts into Government Account**
+
+Please refer to our <u>circular DGBA.GAD.No.H-9284/42.01.011/2008-09 dated April 28,</u> <u>2009</u> on the captioned subject.
+
+2. With a view to bring uniformity in the procedure for reporting both Central and State Government Transactions to Reserve Bank, it has been decided with the approval of Comptroller and Auditor General of India that the petty claims of delayed period penal interest involving amount of ` 500/- or below will be ignored and excluded from the purview of penal interest.
+3. Further, it has been decided in consultation with Comptroller & Auditor General of India that the permissible period of remittance in respect of all State Government transactions made through e-mode will also be T+1 working day (including put through date).
+4. You are advised to circulate these instructions amongst your branches conducting Government business. Yours faithfully, (G.C.Biswal) Deputy General Manager ________________________________________________________________________________________ सरकारी और बक लेखा िव भाग, के न्ीयकायार्लय,भायखलाऑिफ सिब िल्डग, 4थी मंिज़ ल, मुंबई सेन्ल रेलवे स्टेशन के सामने, भायखला, मुंबई-400 008 Department of Government & Bank Accounts, Central Office, Opp.Mumbai Central Railway Station. Byculla, Mumbai – 400 008. Telephone : (022)2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-mail : cgmicdgbaco@rbi.org.in
+<u>िह न्दी आसान ह, इसका योग बढ़ाइए।</u> ै
