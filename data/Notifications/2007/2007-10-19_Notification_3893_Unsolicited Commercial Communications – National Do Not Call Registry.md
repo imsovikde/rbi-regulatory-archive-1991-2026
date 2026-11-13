@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2007_3893"
+title: "Unsolicited Commercial Communications – National Do Not Call Registry"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/80847.PDF"
+pdf_sha256: "4217f9d6270a8032b2d2307e17854b062f4228db567bb4167570cbd265caaf6f"
+md_sha256: "174fb74fb53b96157ad1d5b7a7bb4d60f65f5083e2982d7eb77ae615b6e589b4"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:19:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-10-19_Notification_3893_Unsolicited%20Commercial%20Communications%20%E2%80%93%20National%20Do%20Not%20Call%20Registry.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Unsolicited Commercial Communications – National Do Not Call Registry
+
+<!-- PAGE 1 -->
+
+## RBI / 2007-08/163 DBOD.FSD.BC. 35/24.01.011/2007-08
+
+## October 19, 2007
+
+## All Commercial Banks
+
+**(excluding RRBs)** Dear Sir **Unsolicited Commercial Communications – National Do Not Call Registry** Please refer to paragraph 5 of our circular DBOD.FSD.BC.19/24.01.011/2007-08 dated July 3, 2007 wherein banks were advised (i) not to engage Telemarketers (DSAs/DMAs) who do not have any valid registration certificate from DoT, Govt of India, as telemarketers, (ii) to furnish the list of Telemarketers (DSAs/DMAs) engaged by them along with the registered telephone numbers being used by them for making telemarketing calls to IBA to enable IBA to forward the same to TRAI and (iii) to ensure that all Telemarketers (DSAs/DMAs) presently engaged by them register themselves with DoT as telemarketers.
+
+2. On a review of the matter and also keeping in view the fact that the guidelines Withdrawn for ‘telemarketers’ issued by Department of Telecommunication(DoT), Govt. of India, defines a ‘telemarketer’ as any person/legal entity engaged in the activity of telemarketing (transmission of any message, through telecommunication service, for the purpose of soliciting or promoting any commercial transaction in relation to goods, investments or services), it has been decided, in consultation with TRAI, that in addition to DSAs/DMAs, banks/their Call Centres, who make solicitation calls, are also required to be registered as Telemarketers with DoT. TRAI have also clarified that banks/their Call Centres, while registering themselves as Telemarketers, will be required to give the details of the telephone numbers used for telemarketing.
+-2-
+
+<!-- PAGE 2 -->
+
+3. Incidentally, TRAI have advised us that the pace of registration of DSAs/DMAs engaged by banks with DoT is very slow. Banks are therefore advised to ensure that all DSAs/DMAs engaged by them register themselves with DoT as telemarketers at the earliest.
+Yours faithfully
+
+(P.Vijaya Bhaskar) Chief General Manager
+
+# Withdrawn

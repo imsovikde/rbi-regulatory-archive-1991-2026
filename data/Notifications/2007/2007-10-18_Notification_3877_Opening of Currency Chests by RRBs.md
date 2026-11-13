@@ -1,0 +1,26 @@
+---
+doc_id: "Notifications_2007_3877"
+title: "Opening of Currency Chests by RRBs"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/80795.pdf"
+pdf_sha256: "dee45c4368b5b286e262beab19ff59b5d9d34f686a1b60b8325c3619a355d874"
+md_sha256: "3583dc711b5386fd2bbfea31ba94dab217f6013d4401879ae7b5677a4ed182fd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:19:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-10-18_Notification_3877_Opening%20of%20Currency%20Chests%20by%20RRBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Opening of Currency Chests by RRBs
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/162 RPCD.CO. RRB. No. BC. 32 /03.05.33(C) / 2007-08 October 18, 2007 All Regional Rural Banks Dear Sir <u>Opening of Currency Chests by RRBs</u> Please refer to item (3) of our circular RPCD.CO. RRB. No. BC.57 / 03.05.33 (F)/ 2005-06 dated December 27, 2005. In this connection, it has been decided that Regional Rural Banks fulfilling the following eligibility norms may henceforth apply for currency chest facility to the Regional Office concerned of the Department:
+
+i) The bank should have a minimum networth of Rs. 50 crore as per the latest NABARD inspection report; ii) The bank should have earned net profit for the last three years and should not have accumulated losses; iii) The Gross NPA of the bank should not be more than 10 per cent; iv) There should be no CRR / SLR violations during the previous and current years with reference to the date of application of the bank;
+v) The bank should not have violated any prudential norms including individual and group exposure norms fixed by RBI/NABARD; and vi) The bank should have complied with the instructions issued by RBI/ NABARD on loans and advances to directors, their relatives/firms, etc.
+Yours faithfully (C.S. Murthy) Chief General Manager-in- Charge

@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2007_3910"
+title: "Alteration in the name of Bank in the Second Schedule to the Reserve Bank of India Act, 1934 - \"UTI Bank Ltd\" to \"Axis Bank Ltd\"."
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/80966.pdf"
+pdf_sha256: "2b29a9bb5a08b5bcc0446e7c7273acaca0573acf0c41df36540044fa10a42ad0"
+md_sha256: "f0e8e2796fec0c424689c9eb06d4b5d8817cf28d8640784fd0083fabfc178ea1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:19:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-10-30_Notification_3910_Alteration%20in%20the%20name%20of%20Bank%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20-UTI%20Bank%20Ltd-%20to%20-Axis%20Bank%20Ltd-..pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Alteration in the name of Bank in the Second Schedule to the Reserve Bank of India Act, 1934 - "UTI Bank Ltd" to "Axis Bank Ltd".
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/172
+
+Ref: DBOD.No.Ret.BC.43/12.06.085 /2007-08 October 30, 2007
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+**Alteration in the name of Bank in the Second Schedule to the Reserve Bank of India Act, 1934 -** **"UTI Bank Ltd" to "Axis Bank Ltd".**
+
+We advise that the name of "UTI Bank Ltd" has been changed to "Axis Bank Ltd" in the Second Schedule to the Reserve Bank of India Act, 1934 with effect from July 30, 2007 by notification DBOD.No.PSBD.1174/16.01.127/2007-08 dated August 2, 2007, published in the Gazette of India (Part III
+
+- Section 4) dated September 1, 2007.
+Yours faithfully,
+
+(B.K.Biswas) Deputy General Manager
