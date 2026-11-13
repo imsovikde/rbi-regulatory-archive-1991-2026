@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2014_1370"
+title: "Interest Rates on FCNR (B) Deposits"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CIRFCNR11022014.pdf"
+pdf_sha256: "a612111ca0810ed5b804e49d06230c172a94dea5af70a4365adca02d1c29958c"
+md_sha256: "7b5747a13e29d4198160bbb7beb59542db7af893e9156df88b4a78778bc1389f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-02-11_Notification_1370_Interest%20Rates%20on%20FCNR%20%28B%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on FCNR (B) Deposits
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/489 RPCD.CO.RRB.RCB.BC.NO.87/03.05.33/2013-14 February 11, 2014 All Regional Rural Banks/ State and Central Cooperative Banks
+
+Dear Sir/Madam,
+
+## Interest Rates on FCNR (B) Deposits
+
+Please refer to our <u>circular RPCD.CO.RRB.BC.No.63/03.05.33/2013-14</u> and RPCD.RCB.BC.Dir.No.69 /07.51.014/2013-14 dated December 2, 2013 advising Regional Rural Banks (RRBs) and State/Central Cooperative Banks (StCBs/CCBs) respectively that interest rate ceilings on FCNR (B) deposits for maturity period of one year to less than three years and three to five years, prescribed vide <u>circular</u> <u>RPCD.CO.RRB.BC.No.22/03.05.33/2013-14 dated August 19, 2013</u> for RRBs and RPCD.RCB.BC.Dir.No.27 /07.51.014/2013-14 dated August 22, 2013 for StCBs/CCBs will remain unchanged subject to review.
+
+2. On a review and in order to give banks some time, it has been decided that the interest rate ceiling on FCNR (B) deposits prescribed vide circular dated August 19, 2013 and August 22, 2013, referred to above, will continue till February 28, 2014 and will revert to the ceiling prior to August 19 and August 22, 2013, as under:
+
+|Maturity Period|Existing|With effect from March 1, 2014|
+|---|---|---|
+|1 year to less than 3 LIBOR/Swap plus 200 basis||No change|
+|years|points LIBOR/Swap plus 400 basis||
+
+3 - 5 years LIBOR/SWAP plus 300 basis points points
+
+3. All other instructions in this regard, as amended from time to time, will remain unchanged.
+4. An amending directive RPCD.CO.RRB.RCB.Dir.No.88/03.05.33/2013-14 dated February 11, 2014 is enclosed. Yours faithfully, (A.Udgata) Principal Chief General Manager
+ामीण आयोजना और ऋण िवभाग,,कीय कायार्लय, 10व मंिज़ल,कीय कायार्लय भवन,,शहीद भगत िसह मागर्,पो.बा.स.10014,म ं ुंबई 400 001 टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22619048 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400001 िहदी आसान ह, इसका योग बढ़ाइए ै
+
+|चेतावनी: रज़व|बक ारा ई-मेल, डाक,|एसएमएस|या फोन कॉल|के जरए कसी|क भी �|||||
+|---|---|---|---|---|---|---|---|---|---|
+|नहं मांगी Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|जाती है। यह|धन रखने या देने|का ूःताव भी|नहं करता है। ऐसे|ूःताव ���गत का कसी|जानकार भी तरक जैसेे|से बकजवाब के खात मते का ���जए।|�यौरा, पासवड|आद|
+
+चेतावनी: रज़व बक ारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी �
+
+<!-- PAGE 2 -->
+
+## RPCD.CO.RRB.RCB.Dir.No.88/03.05.33/2013-14 February 11, 2014
+
+## <u>Interest Rates on FCNR(B) Deposits</u>
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, and Section 35A of the Banking Regulation Act, 1949, (AACS) and in modification of the directive <u>RPCD.CO.RRB.Dir.No.64</u> <u>/03.05.33/2013-14</u> and RPCD.RCB.BC.Dir.No.69/07.51.014/2013-14 dated December 2, 2013 on Interest Rates on FCNR(B) Deposits, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that the interest rate ceiling on FCNR (B) deposits prescribed vide Directive <u>RPCD.CO.RRB.Dir.No.21/03.05.33/2013-14 dated August 19, 2013</u> for RRBs and RPCD.RCB.BC.Dir.No.27/07.51.014/2013-14 dated August 22, 2013 for StCBs/CCBs will continue till February 28, 2014 and will revert to the ceiling prior to August 19 and August 22, 2013, as under:
+
+|Maturity Period|Existing|With effect from March 1, 2014|
+|---|---|---|
+|1 year to less than 3 years|LIBOR/Swap plus 200 basis points|No change|
+|3 - 5 years|LIBOR/Swap plus 400 basis points|LIBOR/SWAP plus 300 basis points|
+
+Dr.(Smt.) Deepali Pant Joshi Executive Director
+
+ामीण आयोजना और ऋण िवभाग,,कीय कायार्लय, 10व मंिज़ल,कीय कायार्लय भवन,,शहीद भगत िसह मागर्,पो.बा.स.10014,म ं ुंबई 400 001 टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22619048 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400001 िहदी आसान ह, इसका योग बढ़ाइए ै
+
+|चेतावनी: रज़व|बक ारा ई-मेल, डाक,|एसएमएस|या फोन कॉल|के जरए कसी|क भी ����गत|जानकार|जैसे बक के खाते|का �यौरा,|पासवड आद|
+|---|---|---|---|---|---|---|---|---|---|
+|नहं मांगी Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|जाती है। यह|धन रखने या देने|का ूःताव भी|नहं करता है। ऐसे|ूःताव|का कसी भी तरके|से जवाब मत|���जए।||

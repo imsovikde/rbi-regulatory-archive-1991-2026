@@ -1,0 +1,26 @@
+---
+doc_id: "Notifications_2014_8743"
+title: "Term Repo under Liquidity Adjustment Facility- Operational Guidelines"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTF130214MINNG.pdf"
+pdf_sha256: "aa5ff2c07d97723f1981ca5c26da75ecb6adbd0aecc90d05e236b6ae10817faf"
+md_sha256: "618e1cc099ffa442150d1afde5a209fd680341f5676a839d1ed39cb09c56cb19"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-02-13_Notification_8743_Term%20Repo%20under%20Liquidity%20Adjustment%20Facility-%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Term Repo under Liquidity Adjustment Facility- Operational Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/491 FMD.MOAG. No.98/01.01.009/2013-14 February 13, 2014 All Scheduled Commercial Banks (excluding RRBs) Madam / Sir, **Term Repo under Liquidity Adjustment Facility- Operational Guidelines** Please refer to our <u>circular FMD.MOAG. No. 92 /01.01.009/2013-14 dated October 29, 2013</u> on the captioned subject. Taking into account the requests received from the market participants, it has been decided to revise the timings of the Term Repo auctions from 2.30-
+
+3.00 PM to 11.00 -11.30 AM.
+2. All other terms and conditions for the term repo as stipulated in our <u>circular</u> <u>FMD.MOAG.No.89/01.01.009/2013-14 dated October 8, 2013</u> remain unchanged.
+3. Please acknowledge receipt. Yours sincerely (G. Mahalingam) Principal Chief General Manager

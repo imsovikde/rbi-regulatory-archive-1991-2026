@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2014_8762"
+title: "Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002 –Recognising E-Aadhaar as an ‘Officially Valid Document’ under PML Rules"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT510040314F.pdf"
+pdf_sha256: "659362f822085b8f04bdbf3b8ea69190edfa04743c26262cc355f960d19cc8fd"
+md_sha256: "ad409dbbb8307cf87ce310821aea4a1e99836a323ad0323c3d917b743e5eeaec"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-03-04_Notification_8762_Know%20Your%20Customer%20%28KYC%29%20Norms%20-Anti-Money%20Laundering%20%28AML%29%20Standards-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29-Obligation%20of%20banks%20under%20Prevention%20of%20Money%20Launderi.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002 –Recognising E-Aadhaar as an ‘Officially Valid Document’ under PML Rules
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/510 DBOD.AML.BC. No. 100 /14.01.001/2013-14 March 4, 2014
+
+The Chairpersons/ CEOs of all Scheduled Commercial Banks (Excluding RRBs)/Local Area Banks / All India Financial Institutions
+
+Madam / Dear Sir,
+
+**Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/** **Combating of Financing of Terrorism (CFT)/Obligation of banks under** **Prevention of Money Laundering Act (PMLA), 2002 –Recognising E-Aadhaar as an ‘Officially Valid Document’ under PML Rules**
+
+Please refer to <u>paragraph 2.6 (B)</u> (a) of our Master Circular DBOD.AML.BC. No. 24/14.01.001/ 2013-14 dated July 1, 2013 on Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002 which states that letter issued by the Unique Identification Authority of India (UIDAI) containing details of name, address and Aadhaar number may be accepted as an ‘Officially Valid Document’. Further in terms of paragraph 2.6 (B) (d) of the Master Circular it has been advised to banks that, while opening accounts based on Aadhaar, if the address provided by the account holder is the same as that on Aadhaar letter, it may be accepted as a proof of both identity and address.
+
+2. In this connection, a reference may be made to our <u>circular DBOD.AML.BC. No.</u> <u>44 /14.01.001/2013-14 dated September 2, 2013</u>, wherein, a decision to accept e- KYC service as a valid process for KYC verification under Prevention of Money Laundering (Maintenance of Records) Rules, 2005 was advised. It was further advised that, the information containing demographic details and photographs made available from UIDAI as a result of e-KYC process (“which is in an electronic form and accessible so as to be usable for a subsequent reference”) may be treated as an ‘Officially Valid Document’ under PML Rules.
+3. In this regard, it is clarified that, banks may accept e-Aadhaar downloaded from UIDAI website as an officially valid document subject to the following:
+
+<!-- PAGE 2 -->
+
+a) If the prospective customer knows only his/her Aadhaar number, the bank may print the prospective customer’s e-Aadhaar letter in the bank directly from the UIDAI portal; or adopt e-KYC procedure as mentioned in the circular referred in paragraph 2 above.
+b) If the prospective customer carries a copy of the e-Aadhaar downloaded elsewhere, the bank may print the prospective customer’s e-Aadhaar letter in the bank directly from the UIDAI portal; or adopt e-KYC procedure as mentioned in the circular referred in paragraph 2 above; or confirm identity and address of the resident through simple authentication service of UIDAI.
+4. Physical Aadhaar card/letter issued by UIDAI containing details of name, address and Aadhaar number received through post and e-KYC process mentioned in the circular referred in paragraph 2 above would continue to be accepted as an ‘Officially Valid Document’.
+5. Banks may revise their KYC policy in the light of the above instructions and ensure strict adherence to the same. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager

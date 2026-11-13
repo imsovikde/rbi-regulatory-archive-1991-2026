@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2014_8701"
+title: "Lending against Gold Jewellery"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ACLTV200114.PDF"
+pdf_sha256: "16d8218a8b8e9c1abc3d0b3f7f9271eec765d94eb6af5630bfdf33f25aa0869e"
+md_sha256: "143360c21c773176ce63520eb0a09034974c2d26f65aa18158ad2a589fd3a30a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-01-20_Notification_8701_Lending%20against%20Gold%20Jewellery.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Lending against Gold Jewellery
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/453 DBOD.BP.BC.No.86 /21.01.023 /2013-14 January 20, 2014
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## <u>Lending against Gold Jewellery</u>
+
+Please refer to our circular DBOD.No.BC.138/21.01.023/94 dated November 22, 1994 on ‘Advances against Gold Ornaments and Jewellery for the purpose of Medical Expenses and Meeting Unforeseen Liabilities’, wherein banks were advised that while granting advances against gold ornaments and jewellery, they should observe the necessary and usual safeguards and should also frame a suitable policy in this regard with the approval of their Boards of Directors.
+
+2. As a prudential measure, it has been decided to prescribe a Loan to Value (LTV) Ratio of not exceeding 75 per cent for banks’ lending against Gold jewellery (including bullet repayment loans against pledge of gold jewellery). Therefore, henceforth loans sanctioned by banks should not exceed 75 per cent of the value of gold ornaments and jewellery.
+3. In order to standardize the valuation and make it more transparent to the borrower, it has been decided that gold jewellery accepted as security/collateral will have to be valued at the average of the closing price of 22 carat gold for the preceding 30 days as quoted by the India Bullion and Jewellers Association Ltd. [Formerly known as the Bombay Bullion Association Ltd. (BBA)]. If the gold is of purity less than 22 carats, the bank should translate the collateral into 22 carat and value the exact grams of the collateral. In other words, jewellery of lower purity of gold shall be valued proportionately. **_______________________________________________________________________________________**
+**DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT, CENTRAL OFFICE,** **12** **th** **Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai-400 001 E-mail : cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+4. It is reiterated that banks should continue to observe necessary and usual safeguards and also have a suitable policy for lending against gold jewellery with the approval of their Boards of Directors. Yours faithfully, (Rajesh Verma) Chief General Manager

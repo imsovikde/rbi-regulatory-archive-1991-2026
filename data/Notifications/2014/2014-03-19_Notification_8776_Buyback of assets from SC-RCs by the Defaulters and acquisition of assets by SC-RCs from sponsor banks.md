@@ -1,0 +1,54 @@
+---
+doc_id: "Notifications_2014_8776"
+title: "Buyback of assets from SC/RCs by the Defaulters and acquisition of assets by SC/RCs from sponsor banks"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CBS19032014DC.pdf"
+pdf_sha256: "cd51157373dd545cf7f7702d081b5d0efc6ead7e459266bed48821da015669e9"
+md_sha256: "4d48111dc06e46742d89b650f32c5dcf6c78f5215e5659954f606e33383908c7"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-03-19_Notification_8776_Buyback%20of%20assets%20from%20SC-RCs%20by%20the%20Defaulters%20and%20acquisition%20of%20assets%20by%20SC-RCs%20from%20sponsor%20banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Buyback of assets from SC/RCs by the Defaulters and acquisition of assets by SC/RCs from sponsor banks
+
+<!-- PAGE 1 -->
+
+## RBI/2013-2014/523 DNBS (PD) CC.No.37/SCRC/26.03.001/2013-2014 March 19, 2014
+
+The Chairman/Managing Director/Chief Executive Officer All registered Securitisation Companies/Reconstruction Companies
+
+Dear Sir,
+
+## Buyback of assets from SC/RCs by the Defaulters and acquisition of assets by
+
+## <u>SC/RCs from sponsor banks</u>
+
+Please refer to <u>“The Securitisation Companies and Reconstruction Companies</u> <u>(Reserve Bank) Guidelines and Directions, 2003” dated April 23, 2003</u> (herein after called Guidelines).
+
+2. In the wake of provisions contained in the Framework for Revitalizing Distressed Assets in the Economy dated January 30, 2014, it has been decided to make certain modifications to the existing Guidelines as under:
+A. SC/ RCs are not permitted to acquire any non performing financial asset from their sponsor banks on a bilateral basis, whatever may be the consideration. However, they may participate in auctions of non-performing assets by their sponsor banks provided such an auction is conducted in a transparent manner, on arms length basis, at prices determined by the market factors.
+B. Promoters of the defaulting company/ borrowers or guarantors are allowed to buy back their assets from the SC/RCs provided the following conditions are met:
+I. Such a settlement is considered helpful in
+(i) minimizing or eliminating the cost of litigation and the attendant loss of time;
+
+<!-- PAGE 2 -->
+
+(ii) arresting the negative impact of diminution in the value of secured assets which are likely to rapidly lose value once a unit becomes non operational; (iii) where the recovery/ resolution process would appear to be rather uncertain and; iv) where such settlement will be beneficial for restructuring purposes.
+
+II. The valuation of the asset is worked out by the SC/RCs after factoring in the following components
+
+- The current value of the proposed settlement (valuation of the asset not more than six months old) vis a vis the net present value of the recoveries under the alternative mode of resolution taking into consideration the timelines involved therein.
+- likely positive or negative changes in the value of the secured asset on account of passage of time.
+- likely diminution in realisation due to accumulation of statutory dues, liability to employees etc.
+- other factors, if any, which may affect recoveries.
+III ARCs shall frame a Policy duly approved by the Board of Directors, which should include the above aspects besides those already contained in clause 7 (5) of the SC/RC (Reserve Bank) Guidelines and Directions, 2003, as updated from time to time.
+
+Yours sincerely,
+
+(N.S. Vishwanathan) Principal Chief General Manager
