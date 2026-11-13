@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2014_DBS_No_OSMOS_2915_33_01_001_2014-15"
+title: "Basel III Liquidity Returns"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/LCRC050914F.PDF"
+pdf_sha256: "930b8839f9e9b157dbc31def9f8307ee4b0d701b27951d852597b5f36c197486"
+md_sha256: "77930b237e87045b24a4be82bf4ff3b6e33a108b2d4b6b5b1d038390e8eb78e5"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:20:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-09-05_Circular_DBS.No.OSMOS.2915-33.01.001-2014-15_Basel%20III%20Liquidity%20Returns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Basel III Liquidity Returns
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक Reserve Bank of India www.rbi.org.in RBI/2014-15/213 DBS.No.OSMOS.2915/33.01.001/2014-15 September 5, 2014
+
+The Chairman / Chairman & Managing Director/ Managing Director / Chief Executive Officer of Public Sector Banks, Private Sector Banks / Foreign Banks (excluding RRBs)
+
+## Dear Sir/Madam
+
+## <u>Basel III Liquidity Returns</u>
+
+Please refer to the ‘Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards’ dated June 9, 2014 (<u>Circular Ref No. RBI/2012-13/635/DBOD.BP.BC.No.120/21.04.098 /2013-14</u>). The circular has, inter-alia, prescribed certain liquidity returns to be submitted by banks to monitor their resilience to potential liquidity disruptions under stress scenarios. These returns, covering global operations and effective from **September 2014**, are listed below.
+
+|Sr.|Name of the Basel III Liquidity Return|Frequency of|Submission|
+|---|---|---|---|
+|No.|(BLR)|Submission|Deadline|
+|1|Statement on Liquidity Coverage Ratio (LCR)- BLR-1|Monthly|within 15 days|
+|2|Statement of Funding Concentration-BLR-2|Monthly|within 15 days|
+|3|Statement of Available Unencumbered Assets-BLR-3|Quarterly|within 21 days|
+|4|LCR by Significant Currency-BLR-4|Monthly|within 15 days|
+|5 2.|Statement on Other Information on Liquidity-BLR-5 The above returns are required to be submitted in XBRL platform. Submission of|Monthly|within 15 days|
+
+# Withdrawn
+
+XBRL returns assume generation of required instance documents (XML files) from source data. It is therefore emphasized that banks may take necessary steps to fine tune their systems, controls and MIS to generate the required instance documents from own data
+
+बकग पयवेण वभाग, के �य कायालय, सेटर 1, कफ परेड, कोलाबा, मु�बई 400005 __________________________________________________________________________________________________ Department of Banking Supervision, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai 400005 टेिलफोन/Telephone:022-22182528, फै स/Fax:022-22180157, Email ID:cgmicdbsco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+भारतीय रज़व बक Reserve Bank of India www.rbi.org.in source. However, as a temporary measure, excel based installers will also be made available for compilation and generation of instance documents for banks which are not ready to create instance documents on their own. Separate communication will be issued as and when the XBRL site and installers are ready for submitting the returns. However, banks are advised to compile and keep the data ready for September 2014 onwards, for submission at short notice.
+
+3. It is reiterated that the returns are being called for in exercise of powers under section 27(2) of the Banking Regulation Act, 1949 and failure to adhere to instructions on timely submission and data integrity may invite penal provisions of the Act. Yours faithfully, (**Indrani Banerjee**) Chief General Manager
+# Withdrawn
+
+बकग पयवेण वभाग, के �य कायालय, सेटर 1, कफ परेड, कोलाबा, मु�बई 400005 __________________________________________________________________________________________________ Department of Banking Supervision, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai 400005 टेिलफोन/Telephone:022-22182528, फै स/Fax:022-22180157, Email ID:cgmicdbsco@rbi.org.in

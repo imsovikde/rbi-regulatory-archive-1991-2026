@@ -1,0 +1,50 @@
+---
+doc_id: "Circulars_2014_UBD_BPD_PCB_Cir_No_21_09_18_300_2014-15"
+title: "Internet Banking (View Only) Facility for Customers of UCBs@"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IBFFC13102014.PDF"
+pdf_sha256: "f76d4897612ab446507f359071d393b72fc0c67a9451ab89dc17820b4c92b5ad"
+md_sha256: "14f7d0f00c1058fae2572009ecd0e735e22e1b043402acad99edb90e4d8b706b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:20:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-10-13_Circular_UBD.BPD.%28PCB%29.Cir.No.21-09.18.300-2014-15_Internet%20Banking%20%28View%20Only%29%20Facility%20for%20Customers%20of%20UCBs%40.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Internet Banking (View Only) Facility for Customers of UCBs@
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2014-15/262
+
+UBD.BPD. (PCB). Cir No. 21/09.18.300/2014-15 October 13, 2014
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+## Internet Banking (View Only) Facility for Customers of UCBs
+
+Please refer to <u>circular UBD.BPD. (SCB). Cir. No. 1/09.18.300/2011-12 dated</u> <u>September 26, 2011</u> on Internet Banking for Customers of UCBs, in terms of which scheduled UCBs satisfying certain criteria such as minimum networth of Rs.100 crores, CRAR of at least 10%, net NPA less than 5% and continuous profit during the last three years, were permitted to provide internet banking facility to their customers with prior approval of Reserve Bank of India.
+
+2. Some UCBs, not fulfilling the above criteria, have requested that they may be permitted to offer Internet Banking (View Only) facility i.e. non-fund based online services to their customers. With a view to offering value added services to their customers, it has been decided to permit all UCBs which have implemented Core Banking Solution (CBS) fully and migrated from Internet Protocol Version 4 (IPv4) to Internet Protocol Version 6 (IPv6) to offe
+# Withdrawn
+
+r Internet Banking (View Only) facility to their customers subject to compliance to security features prescribed in <u>Annex II</u> to the circular dated September 26, 2011. UCBs, offering Internet Banking (View Only) facility to their customers may ensure that online facility offered is strictly non-fund based service such as balance enquiry, balance viewing, account statement download, request for supply of cheque-books etc. and no online fund-based transactions are allowed.
+
+3. UCBs commencing internet banking (view only) facility should report to our Regional Office within one month of operationalisation of the facility.
+## Yours faithfully
+
+(A K Bera) Principal Chief General Manager
+
+शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बक ����� म पऽाचार का ःवागत करता है —</u>
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी|यगत जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा जाता|है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|ूकार से जवाब|मत द�जए।||
+
+चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड भी

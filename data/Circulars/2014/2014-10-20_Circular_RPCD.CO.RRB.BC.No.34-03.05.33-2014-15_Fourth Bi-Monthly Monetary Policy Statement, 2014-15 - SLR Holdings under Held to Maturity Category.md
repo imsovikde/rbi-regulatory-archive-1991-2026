@@ -1,0 +1,59 @@
+---
+doc_id: "Circulars_2014_RPCD_CO_RRB_BC_No_34_03_05_33_2014-15"
+title: "Fourth Bi-Monthly Monetary Policy Statement, 2014-15 - SLR Holdings under Held to Maturity Category"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SLR201014HTCIRL.PDF"
+pdf_sha256: "be51d33c7036d19888e352b97a5e7f19846d8a586363a3444ae875f010e9fb76"
+md_sha256: "9e3dfd6f07efb02856c5d1813b6ad63e330ede11b75460019825ef38ac2ba393"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:20:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-10-20_Circular_RPCD.CO.RRB.BC.No.34-03.05.33-2014-15_Fourth%20Bi-Monthly%20Monetary%20Policy%20Statement%2C%202014-15%20-%20SLR%20Holdings%20under%20Held%20to%20Maturity%20Category.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Fourth Bi-Monthly Monetary Policy Statement, 2014-15 - SLR Holdings under Held to Maturity Category
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** www.rbi.org.in RBI/2014-15/268 RPCD.CO.RRB.BC.No. 34 /03.05.33/2014-15 October 20, 2014
+
+### All Regional Rural Banks
+
+Dear Sir,
+
+### Fourth Bi-monthly Monetary Policy Statement, 2014-15 – <u>SLR Holdings under Held to Maturity Category</u>
+
+Please refer to paragraph 25 of the Fourth Bi-monthly Monetary Policy Statement, 2014-15 extract enclosed announced on September 30, 2014.
+
+2. In terms of our circular <u>RPCD.CO.RRB.BC.No.25/03.05.33/2014-15 dated August 7, 2014</u> on ‘Monetary Policy Statement 2014-15 – SLR Holdings under Held to Maturity Category', with effect from August 9, 2014, RRBs were permitted to exceed the limit of 25 per cent of total investments under HTM category provided the excess comprised only SLR securities, and the total SLR securities held in the HTM category was not more than 24.00 per cent of their NDTL as on the last Friday of the second preceding fortnight.
+3. In order to further develop the government securities market and enhance liquidity, it has been decided to bring down the ceiling on SLR securities under the HTM category from 24
+# Withdrawn
+
+per cent of NDTL to 22 per cent in a graduated manner. Accordingly, it is advised that:
+
+(i) RRBs are permitted to exceed the limit of 25 per cent of total investments under HTM category provided:
+a. the excess comprises only of SLR securities, and
+b. the total SLR securities held in the HTM category is not more than 23.50 per cent with effect from January 10, 2015, 23.0 per cent with effect from April 4, 2015, 22.5 per cent with effect from July 11, 2015 and 22.0 per cent with effect from September 19, 2015, of their DTL as on the last Friday of the second preceding fortnight.
+ामीण आयोजना और ऋण �वभाग,के ���� कायालय,10 वी मंजल, क ��� कायालय भवन, शहद भगतिसंह माग,पोट बॉस सं. 10014,मुंबई -400 001 Rural Planning & Credit Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai 400001 टेली Tel:022-22601000 फै सः 91-22-22621011/22610943/22610948 ई -मेल : <u>cgmicrpcd@rbi.org.in</u> **“**चेतावनी **:**-मेल रज़व बक �ारा डाक**,** एसएमएस या फोन कॉल के ज�रए कसी क भी � य��गत जानकार जैसे बक के खाते का यौरा**,** पासवड आद नहं मांगी जाती है। यह धन रखने या देने का � ताव भी नहं करता है। ऐसे � ताव का कसी भी तरके से जवाब मत द�जए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+4. As per extant instructions, RRBs may shift investments to/from HTM with the approval of the Board of Directors once a year and such shifting will normally be allowed at the beginning of the accounting year. In order to enable RRBs to shift their excess SLR securities from the HTM category to AFS/HFT as indicated in paragraph 3 above, it has been decided to allow such shifting of the excess securities at the beginning of January, July and September 2015. This may be in addition to the shifting permitted at the beginning of the accounting year, i.e., April 2015.
+## Yours faithfully
+
+(A. Udgata) Principal Chief General Manager
+
+## Extract from Fourth Bi-monthly Monetary Policy Statement 2014-15 announced on
+
+## September 30, 2014
+
+25. In order to further develop the government securities market and enhance liquidity, it has been decided to:
+# Withdrawn
+
+· bring down the ceiling on SLR securities under the HTM category from 24 per cent of NDTL to 22 per cent in a graduated manner *i.e.* 23.5 per cent with effect from the fortnight beginning January 10, 2015, 23.0 per cent with effect from the fortnight beginning April 4, 2015, 22.5 per cent with effect from the fortnight beginning July 11, 2015 and 22.0 per cent with effect from the fortnight beginning September 19, 2015.

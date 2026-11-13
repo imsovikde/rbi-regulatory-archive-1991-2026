@@ -1,0 +1,96 @@
+---
+doc_id: "Circulars_2014_DBOD_APPT_BC_No_40_29_39_001_2014-15"
+title: "Upper Age Limit for Whole Time Directors on the Boards of Banks"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR217NT092014.PDF"
+pdf_sha256: "0d958fa77c2a8a4634958a963d27993a6e0c7f91e7c41c32b3bea6fe33198e11"
+md_sha256: "a5f0fe71ccbf3f8ea165da827e04d173f678b19c92b721d6a7065e459cc7a17c"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T10:20:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-09-09_Circular_DBOD.APPT.BC.No.40-29.39.001-2014-15_Upper%20Age%20Limit%20for%20Whole%20Time%20Directors%20on%20the%20Boards%20of%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Upper Age Limit for Whole Time Directors on the Boards of Banks
+
+<!-- PAGE 1 -->
+
+HrdlRd
+
+RESERVEBANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2014-15/217
+
+DBOD.APPT.BC.N0.40/29.39.001/2014-15
+
+September 9, 2014
+
+To
+
+The Managing Director & Chief Executive Officers of all Private Sector Banks
+
+Dear Sir / Madam,
+
+Upper age limit for Whole Time Directors on the Boards of Banks
+
+The matter relating to fixing an upper age limit for the post of Managing Director &
+
+Chief Executive Officers (MD & CEO) and other Whole Time Directors (WTDs) of
+
+banks in private sector in India has been examined in the light of the provisions of
+
+the Companies Act, 2013 [Section 196(3)]
+
+prescribe that‘no company shall
+
+wr
+
+appoint or continue the employment of.
+
+berson as Managing Director, Whole
+
+Time Director or Manager who is belo
+
+age of21years or has attained the age
+
+of 70 years'.
+
+2.
+
+In view of the above, it has been decided that the upper age limit for MD &
+
+CEO and other WTDs of banks in the private sector should be 70 years, i.e. beyond
+
+which nobody should continue in the post. Within the overall limit of 70 years,
+
+individual bank's Boards are free to prescribe a lower retirement age for the WTDs,
+
+including the MD & CEO, as an internal policy.
+
+3.
+
+Please acknowledge receipt.
+
+Yours faithfully,
+
+Sd/
+
+(Sudha Damodar)
+
+Chief General Manager
+
+-400001
+
+Dept of Banking Operations and Development, Central Office,RBI Bldg.13th Floor,Fort,Mumbai -400 001
+
+/TelNo:91-22-22701223
+
+H/Fax No: 91-22-22701240
+
+Email ID: sudhadamodar@rbi.org.in
