@@ -1,0 +1,80 @@
+---
+doc_id: "Circulars_2010_DNBS_PD_CC_No_198_03_10_42_2010-11"
+title: "Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Amendment Rules, 2010 - Obligation of Banks"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCN19826082010.PDF"
+pdf_sha256: "fa265255108a183725017397ff2ffe02e089a607fa4c0bc54fc75a0d37350519"
+md_sha256: "fd34c74ff66d3181ed3d164fa54c84d88d321fb21868e479214afdd2eea0815b"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:08:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-08-26_Circular_DNBS.%28PD%29.CC.No.198-03.10.42-2010-11_Prevention%20of%20Money-Laundering%20%28Maintenance%20of%20Records%20of%20the%20Nature%20and%20Value%20of%20Transactions%2C%20the%20Procedure%20and%20Manner%20of%20Maintaining%20and.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Amendment Rules, 2010 - Obligation of Banks
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/183 DNBS(PD)CC.No 198 /03.10.42/2010-11 August 26, 2010
+
+All Non Banking Financial Companies / Residuary Non Banking Companies Dear Sir, **Prevention of Money-laundering (Maintenance of Records of the** **Nature and Value of Transactions, the Procedure and Manner of** **Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the**
+
+## Banking Companies, Financial Institutions and Intermediaries) Amendment Rules, 2010 - Obligation of banks
+
+Government of India vide its Notification No.10/2010/E.S/FNo.6/8/2009- ES dated June 16, 2010, has amended the Prevention of Money- laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005. A copy of the Notification is enclosed for ready reference, which may be studied and the amendments clearly noted and spread across your organisation.
+
+# Withdrawn
+
+2. NBFCs and RNBCs are advised to strictly follow the amended provisions of PMLA Rules and ensure meticulous compliance to these Rules.
+Yours sincerely,
+
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## MINISTRY OF FINANCE
+
+## (Department of Revenue)
+
+## NOTIFICATION
+
+## New Delhi, the 16th June, 2010
+
+<u>THE GAZETTE OF INDIA: EXTRAORDINARY Part II- Sec. 3 (i)</u>
+
+**G.S.R. 508(E)-**In exercise of the powers conferred by sub-section(1) read with clause(h), clause(i), clause(j) clause(k) of sub- section 2 of section 73 of the Prevention of Money Laundering Act, 2002 (15 of 2003), the Central Government, in consultation with Reserve Bank of India, hereby makes the following rules further to amend the Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005, namely :-
+1. (1) These rules may be called Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Second Amendment Rules, 2010.
+(2) They shall come into force on the date of their publication in the
+Official Gazette.
+
+2. In the Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005:-
+# Withdrawn
+
+(a) in rule 2 in sub-rule (1), after clause (g), the following Explanation shall be inserted, namely:- "Explanation:- Transaction involving financing of the activities relating to terrorism includes transaction involving funds suspected to be linked or related to, or to be used for terrorism, terrorist act or by a terrorist, terrorist organisation or those who finance or are attempting to financing of terrorism."
+(b) in rule 9, for sub- rule (1A), the following sub- rule shall be substituted, namely:- "(1A) Every banking company, financial institution and Intermediary, as the case may be, shall determine whether a client is acting on behalf of a beneficial owner, identify the beneficial owner and take all reasonable steps to verify his identity."
+(c) in rule 9, for sub- rule (1B), the following sub-rule shall be substituted, namely:- "(1B) Every banking company, financial institution and Intermediary, as the case may be, shall exercise ongoing due diligence with
+
+<!-- PAGE 3 -->
+
+respect to the business relationship with every client and closely examine the transactions in order to ensure that they are consistent with their knowledge of the client, his business and risk profile and where necessary, the source of funds."
+
+(d) in rule 9, for sub- rule (1C), the following sub- rule shall be substituted, namely:- "(1C) No banking company, financial institution and Intermediary, as the case may be, shall allow the opening of or keep any anonymous account or account in fictitious names or account on behalf of other persons whose identity has not been disclosed or cannot be verified."
+(e) in rule 9, after sub -rule (1C), the following sub- rule shall be inserted, namely:- "(1D) When there are suspicions of money laundering or financing of the activities relating to terrorism or where there are doubts about the adequacy or veracity of previously obtained customer identification data, every banking company, financial institution and Intermediary shall review the due diligence measures including verifying again the identity of the client and obtaining information on the purpose and intended nature of the business relationship, as the case may be."
+(f) in rule 10, after sub- rule (3), the following Explanation shall be inserted, namely:- "Explanation: For the purpose of this rule:-
+(i) the expression 'records of the identity of clients' shall Withdrawn include records of the identification data, account files and business correspondence. (ii) the expression 'cessation of the transactions' means termination of an account or business relationship."
+[Notification No. 10/2010- E. S. / F. No. 6/8/2009-E.S.]
+
+S. R. MEENA, Under Secretary
+Note-The principal rules were published in the Gazette of India, Extraordinary, st
+
+|Part II, Section 3, sub- section (i) vide number G.S.R. 444( E), dated the 1||July|
+|---|---|---|
+|2005 and subsequently amended by G.S.R.717( E) dated the 13||December|
+|2005, G.S.R. 389( E) dated the 24|May, 2007, G.S.R. 816(E) dated the 12||
+|November 2009 and G.S.R. 76( E) dated the 12|February 2010||
+
+th th th th

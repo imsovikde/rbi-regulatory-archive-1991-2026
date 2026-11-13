@@ -1,0 +1,70 @@
+---
+doc_id: "Circulars_2010_DBOD_Dir_BC_46_13_03_00_2010-11"
+title: "Banks' Exposure to Capital Market - Issue of Irrevocable Payment Commitments (IPCs)"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IRRRPC300910.PDF"
+pdf_sha256: "5b1008d1ae9749c39fdabc768962b2dfc0b8ed14805e1fbbb2eeea90e7a2908f"
+md_sha256: "aa1233be3243ec8efbe462826f0f09b69a9a3b8fde8a53cfb6fda22510f8a325"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:08:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-09-30_Circular_DBOD.Dir.BC.46-13.03.00-2010-11_Banks%27%20Exposure%20to%20Capital%20Market%20-%20Issue%20of%20Irrevocable%20Payment%20Commitments%20%28IPCs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Banks' Exposure to Capital Market - Issue of Irrevocable Payment Commitments (IPCs)
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बैंक
+
+### RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2010-11/220
+
+### DBOD.Dir.BC.46 /13.03.00/2010-11 September 30, 2010
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+### Dear Sir / Madam
+
+### Banks' Exposure to Capital Market -<u>Issue of Irrevocable Payment Commitments (IPCs)</u>
+
+Please refer to our circular <u>No. DBOD.Dir.BC.32/13.03.00/2010-11 dated July 30,</u> <u>2010</u> in terms of which the transition period allowed to banks to comply with the requirements contained in our circular No. <u>DBOD.Dir.BC.57/13.03.00/2007-08 dated</u> <u>December 14, 2007</u>, was extended up to September 30, 2010.
+
+2. On a review, it has been decided to put in place adequate risk mitigation mechanism to protect the banks from the adverse movements in the equity prices and the possibility of default by domestic mutual funds/FIIs, while ensuring that there
+# Withdrawn
+
+is no undue disruption in the functioning of the capital market in the country.
+
+3. Accordingly, it has been decided as under:
+st
+
+(i) Beginning from 1 November 2010
+(a) only those custodian banks would be permitted to issue IPCs who have a clause in the Agreement with their clients which gives them an inalienable right over the securities to be received as payout in any settlement; and
+
+||बैिकं ग|पिरचालन|और िवकास|िवभाग, कें िीय|कायार्लय, 13 माला, शहीद||भगतिसंह|माग, र् मुम्बई|400001|
+|---|---|---|---|---|---|---|---|---|---|
+|______________________________________________________________________________________________________||||__________________________||||||
+|Department of Banking Operations and Development, Central Office, 13|’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 û¾ÅÆ¬¸/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in|||िहंदी आसान|है, इसका|floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 ूयोग|बढ़ाइए|||
+
+th
+
+<!-- PAGE 2 -->
+
+(b) the maximum risk to the custodian banks issuing IPCs would be reckoned at 50% on the assumption of downward price movement of the equities bought by FIIs/ Mutual Funds on the two successive days from the trade date (T) i.e., on T+1 and T+2, of 20% each with an additional margin of 10% for further downward movement. (ii) Accordingly the potential risk on T+1 would be reckoned at 50% of the settlement amount and this amount would be reckoned as CME at the end of T+1 if margin payment / early pay in does not come in. (iii) In case there is early pay in on T+1, there will be no exposure. (iv) In case margin is paid in cash on T+1, the CME would be reckoned at 50% of settlement price <u>minus</u> the margin paid.
+(v) In case margin is paid on T+1 by way of permitted securities to FIIs / Mutual Funds, the CME would be reckoned at 50% of settlement price <u>minus</u> the margin paid <u>plus</u> haircut prescribed by the Exchange on the securities tendered towards margin payment.
+4. The IPC will be treated as a financial guarantee and capital will have to be maintained against it as per <u>para 2.3</u>Withdrawn of our Master Circular on Exposure Norms DBOD.No. Dir.BC.14/13.03.00/2010-11 dated July 1, 2010.
+5. The above mentioned arrangements will continue till October 31, 2011 and would be reviewed with a view to modify it further for reducing the risk to the custodian banks issuing IPCs. Yours faithfully, (B. Mahapatra) Chief General Manager- in-Charge
+
+||बैिकं ग|पिरचालन|और िवकास|िवभाग, कें िीय|कायार्लय, 13 माला, शहीद||भगतिसंह|माग, र् मुम्बई|400001|
+|---|---|---|---|---|---|---|---|---|---|
+|______________________________________________________________________________________________________||||__________________________||||||
+|Department of Banking Operations and Development, Central Office, 13|’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 û¾ÅÆ¬¸/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in|||िहंदी आसान|है, इसका|floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 ूयोग|बढ़ाइए|||
+
+th

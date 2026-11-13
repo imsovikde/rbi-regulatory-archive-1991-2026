@@ -1,0 +1,147 @@
+---
+doc_id: "Circulars_2010_DBOD_No_BL_BC_43_22_01_009_2010-11"
+title: "Financial Inclusion by Extension of Banking Services - Use of Business Correspondents (BCs)"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CPC28092010.PDF"
+pdf_sha256: "cf40b87d08774763aaf6e87c4bd57fd31d88f426cc91b956b6ecec33b83eb99f"
+md_sha256: "d7ece8573614bda514d1fd7f6010e05a23e294ff6e8226ca83b785c6a13c030a"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:08:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-09-28_Circular_DBOD.No.BL.BC.43-22.01.009-2010-11_Financial%20Inclusion%20by%20Extension%20of%20Banking%20Services%20-%20Use%20of%20Business%20Correspondents%20%28BCs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Inclusion by Extension of Banking Services - Use of Business Correspondents (BCs)
+
+<!-- PAGE 1 -->
+
+## ______________ RESERVE BANK OF INDIA _______________
+
+www.rbi.org.in RBI/2010-11/217 DBOD.No.BL.BC.43 /22.01.009/2010-11 September 28, 2010
+
+### All Commercial Banks (including RRBs and LABs)
+
+Dear Sir,
+
+### Financial Inclusion by Extension of Banking Services – Use of Business Correspondents (BCs)
+
+As announced in the Annual Policy Statement for the year 2010-11, a <u>discussion paper</u> on engagement of ‘for profit’ companies as BCs was placed on RBI website on August 2, 2010. Taking into consideration the pros and cons and based on the feedback received from various quarters, it has been decided to permit banks to engage companies registered under the Indian Companies Act, 1956, **excluding Non Banking Financial Companies (NBFCs),** as BCs in addition to the individuals/entities permitted earlier, subject to compliance with the guidelines.
+
+2. The existing guidelines for engaging BCs have been reviewed and the revised guidelines are annexed.
+# Withdrawn
+
+Yours faithfully
+
+### (A.K. Khound)
+
+### Chief General Manager
+
+Encl: As above
+
+___________________________________________________________________________________________________________________ ______________________________ **Department of Banking Operations and Development, Central Office, 13th floor, Shahid Bhagat Singh Marg, Fort, Mumbai 400 001** **Tel No: 91-22-22661602 ¸/Fax No: 91-22-22705691 Email ID: cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Guidelines for engaging of Business Correspondents (BCs)
+
+The scheduled commercial banks including Regional Rural Banks (RRBs) and Local Area Banks (LABs) may engage Business Correspondents (BCs) subject to compliance with the following guidelines:
+
+## 1. Introductory
+
+The banks may formulate a policy for engaging Business Correspondents (BCs) with the approval of their Board of Directors. Due diligence may be carried out on the individuals/entities to be engaged as BCs prior to their engagement. The due diligence exercise may, inter alia, cover aspects such as (i) reputation/market standing, (ii) financial soundness, (iii) management and corporate governance, (iv) cash handling ability and (v) ability to implement technology solutions in rendering financial services.
+
+## 2. Eligible individuals/entities
+
+The banks may engage the following individuals/entities as BC.
+
+# Withdrawn
+
+i) Individuals like retired bank employees, retired teachers, retired government employees and ex-servicemen, individual owners of kirana / medical /Fair Price shops, individual Public Call Office (PCO) operators, agents of Small Savings schemes of Government of India/Insurance Companies, individuals who own Petrol Pumps, authorized functionaries of well run Self Help Groups (SHGs) which are linked to banks, any other individual including those operating Common Service Centres (CSCs); ii) NGOs/ MFIs set up under Societies/ Trust Acts and Section 25 Companies; iii) Cooperative Societies registered under Mutually Aided Cooperative Societies Acts/ Cooperative Societies Acts of States/Multi State Cooperative Societies Act; iv) Post Offices; and
+
+<!-- PAGE 3 -->
+
+v) Companies registered under the Indian Companies Act, 1956 with large and widespread retail outlets, **excluding Non Banking Financial Companies** **(NBFCs).**
+## 3. BC Model
+
+While a BC can be a BC for more than one bank, at the point of customer interface, a retail outlet or a sub-agent of a BC shall represent and provide banking services of only one bank. The terms and conditions governing the contract between the bank and the BC should be carefully defined in written agreements and subjected to a thorough legal vetting. While drawing up agreements, banks should strictly adhere to instructions contained in the guidelines on managing risks and code of conduct in outsourcing of financial services by banks, issued by Reserve Bank of India on November 3, 2006. The banks will be fully responsible for the actions of the BCs and their retail outlets / sub agents.
+
+## 4. Scope of activities
+
+The scope of activities may include (i) identification of borrowers; (ii) collection and preliminary processing of loan applications including verification of primary information/data; (iii) creating awareness about savings andWithdrawnother products and education and advice on managing money and debt counselling; (iv) processing and submission of applications to banks; (v) promoting, nurturing and monitoring of Self Help Groups/ Joint Liability Groups/Credit Groups/others; (vi) post-sanction monitoring; (vii) follow-up for recovery, (viii) disbursal of small value credit, (ix) recovery of principal / collection of interest (x) collection of small value deposits (xi) sale of micro insurance/ mutual fund products/ pension products/ other third party products and (xii) receipt and delivery of small value remittances/ other payment instruments.
+
+The activities to be undertaken by the BCs would be within the normal course of the bank's banking business, but conducted through the BCs at places other than the bank premises/ATMs.
+
+<!-- PAGE 4 -->
+
+## 5. KYC Norms
+
+KYC and AML procedures, as laid down in the Master Circular DBOD.AML.BC. No.2/
+
+14.01.001/ 2010-11 dated July 1, 2010 and subsequent circulars on the subject should be followed in all cases. The banks may, if necessary, use the services of the BC for preliminary work relating to account opening formalities. However, ensuring compliance with KYC and AML norms under the BC model continues to be the responsibility of banks.
+## 6. Customer confidentiality
+
+The banks should ensure the preservation and protection of the security and confidentiality of customer information in the custody or possession of BC.
+
+## 7. Information Technology Standards
+
+The banks should ensure that equipment and technology used by the BC are of high standards.
+
+## 8. Distance Criterion
+
+With a view to ensuring adequate supervision over Withdrawn the operations and activities of the retail outlet/sub-agent of BCs by banks, every retail outlet/sub-agent of BC is required to be attached to and be under the oversight of a specific bank branch designated as the base branch. The distance between the place of business of a retail outlet/sub-agent of BC and the base branch should ordinarily not exceed 30 kms in rural, semi-urban and urban areas and 5 kms in metropolitan centers. In case there is a need to relax the distance criterion, the District Consultative Committee (DCC)/State level Bankers Committee (SLBC) could consider and approve relaxation on merits in respect of under-banked areas etc.
+
+## 9. Payment of commission/fee
+
+The banks may pay reasonable commission/ fee to the BC, the rate and quantum of which may be reviewed periodically. The agreement with the BC should specifically prohibit them from charging any fee to the customers directly for services rendered by them on behalf of the bank. Commission structure or incentive mechanism should be devised in a manner that
+
+<!-- PAGE 5 -->
+
+mere increase in the number of clients served or the transaction volume does not drive the commission. The remuneration should combine fixed and variable parts dependent, inter- alia, on some indication or measure of customer satisfaction. Some part of the variable remuneration could be deferred or clawed back in case of deficiency of service.
+
+The banks (and not BCs) are permitted to collect reasonable service charges from the customers in a transparent manner.
+
+## 10. Transactions put through BC
+
+As engagement of intermediaries such as Business Facilitators/ Correspondents involves significant reputational, legal and operational risks, due consideration should be given by banks to those risks. The banks should adopt technology-based solutions for managing the risk, besides increasing the outreach in a cost effective manner. The transactions should normally be put through ICT devices (handheld device/mobile phone) that are seamlessly integrated to the Core Banking Solution (CBS) of the bank. The transactions should be accounted for on a real time basis and the customers should receive immediate verification of their transactions through visuals (screen based) or other means (debit or credit slip).
+
+In formulating their schemes, banks may, inteWithdrawnr alia, be guided by the recommendations made at Chapter III of the Khan Group Report as also the outsourcing guidelines released by Reserve Bank of India on November 3, 2006 (available on RBI website: *www.rbi.org.in*). The arrangements with the BC shall specify:
+
+i) suitable limits on cash holding by intermediaries as also limits on individual customer payments and receipts; ii) cash collected from the customer should be acknowledged by issuing a receipt on behalf of the bank; iii) that all off-line transactions are accounted for and reflected in the books of the bank by the end of the day; and iv) all agreements/ contracts with the customer shall clearly specify that the bank is responsible to the customer for acts of omission and commission of the BC.
+
+<!-- PAGE 6 -->
+
+## 11. Internal Control & Monitoring
+
+The banks should carry out a detailed review of the performance of various BCs engaged by them at least once in a year and they should monitor the activities of BCs through their Controlling Offices and also through various fora under Lead Bank Scheme i.e. (SLBC, DLCC, BLBC). The internal control mechanism in the bank should include visit to BCs and interface with customers at periodical intervals.
+
+## 12. Consumer Protection Measures
+
+The banks should take all measures to protect the interests of the customers. Some such safeguards are outlined below:
+
+i. The retail outlet/sub-agent of the BC should be personally introduced to the members of public by the bank officials in the presence of village elders and government functionaries in a public meeting so that there is no misrepresentation/impersonation. ii. The products and processes should be approved by the banks and the company should not introduce any product/process without the approval of the bank concerned.
+iii. Each retail outlet/sub-agent may be required to post a signage indicating their status as service providers for the bank as alsoWithdrawn disclose the name of the BC, the telephone number of the base branch/controlling office of the bank and the Banking Ombudsman and the fees for all services available at the outlet. iv. Financial services offered by the retail outlets/sub-agents of the BC should not be tied to the sale of any product of such company.
+
+v. The charges for offering various services should be indicated in a brochure and made available at the retail outlets/with the sub-agents. vi. The banks should develop suitable training modules in the local language(s) in order to provide proper attitudinal orientation and skills to the BCs/sub-agents.
+vii. As a measure of social audit, there could be periodic block level meetings where members of public are invited along with the BCs operating in the area as also the linked branch managers to express their difficulties and to obtain feedback. Lead District Manager (LDM) of the lead bank could attend such meetings in the district to get a direct feedback and provide such feedback to the controlling offices.
+
+<!-- PAGE 7 -->
+
+viii. The bank should have necessary Business Continuity Plan (BCP) in place to ensure uninterrupted service in case the agency arrangement with the companies/ sub- agents are terminated. ix. In case a company is engaged as BC by more than one bank, it should be ensured that the customer database and account details are kept separate and there is no co- mingling of data.
+
+## 13. Redressal of Grievances
+
+The banks should constitute Grievance Redressal Machinery within the bank for redressing complaints about services rendered by the BCs and give wide publicity about it through electronic and print media. The name and contact number of designated Grievance Redressal Officer of the bank should be made known and widely publicized. The designated officer should ensure that genuine grievances of customers are redressed promptly. The grievance redressal procedure of the bank and the time frame fixed for responding to the complaints should be placed on the bank's website. If a complainant does not get satisfactory response from the bank within 60 days from the date of his lodging the compliant, he will have the option to approach the Office of the Banking Ombudsman concerned for redressal of his grievance/s.
+
+# Withdrawn
+
+## 14. Customer Education
+
+Financial literacy and customer education should form an important part of the business strategy and should form part of the commitment by banks adopting the BC model. Banks may scale up their efforts substantially towards educating their clientele in their respective vernacular languages regarding the benefits of banking habit. Information regarding BCs engaged by banks may be placed on the respective banks' websites. The Annual Report of the banks should also include the progress in respect of extending banking services through the BC model and the initiatives taken by banks in this regard. The banks may also use print and electronic media (including in the vernacular language) to give wide publicity about implementation of the BC model by them.
+
+*******
