@@ -1,0 +1,56 @@
+---
+doc_id: "Circulars_2009_UBD_PCB_Cir_No_73_09_14_000_2008-09"
+title: "Prudential Treatment of Different Types of Provisions in respect of Loan Portfolios"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR73PR_290609.PDF"
+pdf_sha256: "3688a456edd86a4a2499bc441fc2548778aa69f6b09fa0e26cf459b685b68d5f"
+md_sha256: "8f71c196f6ad9b80ef28c6ca695233f983500908a7e4e9a064acd3e3fe64f09e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:10:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-06-29_Circular_UBD.PCB.Cir.No.73-09.14.000-2008-09_Prudential%20Treatment%20of%20Different%20Types%20of%20Provisions%20in%20respect%20of%20Loan%20Portfolios.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Treatment of Different Types of Provisions in respect of Loan Portfolios
+
+<!-- PAGE 1 -->
+
+## Yeejler³e fjeJeõ yeQkeÀ
+
+### _____________________RESERVE BANK OF INDIA___________________ <u>www.rbi.org</u>.
+
+RBI/2008-09/514 UBD.PCB.Cir.No. 73 /09.14.000/2008-09 June 29, 2009
+
+The Chief Executive Officer of All Primary (Urban) Cooperative Banks
+
+### Dear Sir / Madam
+
+### Prudential treatment of different types of Provisions in respect of loan portfolios
+
+It has been decided to lay down the following guidelines in regard to the prudential treatment of different types of provisions in respect of loan portfolios. It is clarified that the relative provisions <u>can only</u> be reckoned for the purpose listed thereagainst.
+
+### (i) Additional Provisions for NPAs at higher than prescribed rates
+
+The regulatory norms for provisioning represent the minimum requirement. Banks may therefore voluntarily make specific provisions for NPAs at rates which are higher than the rates prescribed under existing regulations if such higher rates are based on a policy approved by the Board of Directors to provide for estimated actual loss in collectible amount and the policy is consistently adopted from year to year or if provided in the respective State Cooperative Societies Acts / Multi-State Cooperative Societies Act 2002. The additional specific provisions for NPAs, like the minimum regulatory provision on NPAs, may be netted off from Gross NPAs to arrive at the Net NPAs. The additional specific provision for NPAs will not be reckoned as Tier II capital.
+
+# Withdrawn
+
+### (ii) Excess Provisions on sale of NPAs
+
+Excess provisions which arise on sale of NPAs can be admitted as Tier II capital subject to the overall ceiling of 1.25% of total Risk Weighted Assets.
+
+### (iii) Provisions for diminution of fair value
+
+Provisions for diminution of fair value of restructured advances, both in respect of Standard Assets as well as NPAs, made on account of reduction in rate of interest and / or reschedulement of principal amount are permitted to be netted from the relative asset.
+
+The above guidelines are effective from the date of this circular.
+
+### Yours faithfully
+
+(A.K. Khound) Chief General Manager-in-Charge
+
+Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in
