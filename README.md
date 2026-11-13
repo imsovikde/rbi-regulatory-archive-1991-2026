@@ -8,21 +8,22 @@ Upstream PDFs (byte-identical source of truth):
 https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
 <!-- PROGRESS-START -->
-## Live progress: 0 / 88,236 converted (0.0000%)
+## Conversion progress
 
-| Category | PDFs | Converted | Pending |
+- **Total PDFs:** 88236
+- **Converted to Markdown:** 75
+- **Remaining:** 88161
+- **Progress:** [----------------------------------------] 0.0850%
+
+| Category | Total | Converted | Progress |
 | --- | ---: | ---: | ---: |
-| Master-Directions | 397 | 0 | 397 |
-| Notifications | 10,527 | 0 | 10,527 |
-| Master-Circulars | 1,013 | 0 | 1,013 |
-| Draft-Notifications-Guidelines | 546 | 0 | 546 |
-| Circulars | 11,690 | 0 | 11,690 |
-| Press-Releases | 64,063 | 0 | 64,063 |
-| **Total** | **88,236** | **0** | **88,236** |
-
-Conversion has not started yet. Progress updates after every micro-batch.
+| Master-Directions | 397 | 0 | 0.0000% |
+| Notifications | 10527 | 0 | 0.0000% |
+| Master-Circulars | 1013 | 0 | 0.0000% |
+| Draft-Notifications-Guidelines | 546 | 0 | 0.0000% |
+| Circulars | 11690 | 75 | 0.6416% |
+| Press-Releases | 64063 | 0 | 0.0000% |
 <!-- PROGRESS-END -->
-
 ## What this repository is
 
 - **88,236 RBI PDFs** (1992-2026 inventoried; the archive spans 1991-2026 and 1991 has
