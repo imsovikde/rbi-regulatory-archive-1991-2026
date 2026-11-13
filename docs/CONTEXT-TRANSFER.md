@@ -6,7 +6,7 @@ You are the receiving agent. This file is your entire briefing. Read it top to b
 
 First action after reading: clone the repository named in Section 1, then commit this file into it at `docs/CONTEXT-TRANSFER.md` (one commit, message `docs: add living context transfer file`, authored by Souvik Dey, GPG-signed, Verified — see Section 6). The repository must carry its own context from then on. Then check the live repository state against Section 3. Where live GitHub state disagrees with this file, live state wins for counts and you must update this file to match.
 
-Last updated: 13 November 2026, 12:46 IST. Every later change to the facts in this file must update this line and the dated state block in Section 3. See Section 17 for the living-document protocol.
+Last updated: 13 November 2026, 14:05 IST. Every later change to the facts in this file must update this line and the dated state block in Section 3. See Section 17 for the living-document protocol.
 
 ---
 
@@ -66,20 +66,25 @@ Update this block in place whenever a fact below changes. Keep the old value str
 - Local tree (recovery store, intact): `~/workspace/rbi-archive-muse/`, 88,236 PDFs, 21.85 GB excluding `.cache/`. Original exact PDF byte total for 88,220 files: 21,182,477,977 bytes (21.18 GB decimal / 19.73 GiB). Largest single PDF: 8,033,755 bytes. Zero files over 50 MB. Whole staging is 36 GB including a 16 GB `.cache/`.
 - **Parquet viewer:** the dataset's Discussion #1 is the official Hugging Face parquet-converter bot, NOT a person. Hugging Face has no product called "Data Studio"; the Dataset Viewer is the equivalent. The viewer table was NOT yet confirmed live when last checked (~10:20 IST 13 November 2026): the `refs/convert/parquet` branch was temporarily 404 and `/api/datasets/{repo}/parquet` returned 400 "server busier than usual". Re-check it. A reply was posted to Discussion #1 as imsovikde (comment id `6af694b0d771af56e7aa437f`, verified visible). A test probe comment (`6af694b883e6f87e9bfe033d`, "test probe - please ignore") was posted while finding the correct endpoint and hidden immediately.
 
-### 3.2 GitHub repository (Markdown index — ENGINE BUILT, NOT YET RUNNING)
+### 3.2 GitHub repository (Markdown index — LIVE, AUTONOMOUS CONVERSION IN PROGRESS)
 
 - Repository: `imsovikde/rbi-regulatory-archive-1991-2026`, public, id `1456135028`, default branch `main`.
 - URL: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026
-- **Markdown files converted so far: 0 / 88,236.** STATE.json says done 0, total 88,236.
+- **Markdown files converted so far: ~~0 / 88,236~~ → 3,375 / 88,236 (3.8250%), 13 Nov 2026 13:58 IST.** STATE.json says done 3375, total 88,236.
 - Commits on `main` (newest first, all authored AND committed by Souvik Dey, all Verified):
-  - `a690935` — "feat: land RBI Markdown conversion pipeline (bootstrap)" — 13 November 2026 12:34 IST. The pipeline bundle, landed by bootstrap run #1. This is the head.
+  - `05f733b` — "fix(audit): support CRLF normalization and NT extended paths in integrity audit" — 13 Nov 2026 13:58 IST. GPG-signed, Verified.
+  - `0c4f181` ... `83856ed` ... `c31fa6c` — 45 batch commits (Batch #1 through #45) converting Circulars 1992–2009. All GPG-signed by runner, Verified.
+  - `befaecb` — "fix(workflows): add actions:write permission and remove missing pip cache" — 13 Nov 2026 13:07 IST. Fixed Defect 1 & Defect 2. GPG-signed, Verified.
+  - `8e715a1` — "docs: add living context transfer file" — 13 Nov 2026 12:55 IST. GPG-signed, Verified.
+  - `a690935` — "feat: land RBI Markdown conversion pipeline (bootstrap)" — 13 November 2026 12:34 IST. The pipeline bundle, landed by bootstrap run #1. GPG-signed, Verified.
   - `fd078a6` — "Add RBI Markdown conversion workflows (00 bootstrap, 01 conversion, 02 weekly sync, 03 audit)" — 13 November 2026 12:32 IST. 4 files, 474 additions. Authored by imsovikde, committer GitHub (web-flow signature, Verified). Landed via the GitHub web UI.
   - `4573a7d` — "Record verified Actions signing proof in setup report".
   - `e053334` — "chore: archive update 2026-11-13".
   - `e868454` — "Add GPG setup report and secret-safe gitignore".
   - `abced89b`, `96291352` — earlier GPG setup commits.
-- **Bootstrap run #1: FAILED.** Run 43383089432, https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/actions/runs/43383089432, 13 November 2026 12:34–12:35 IST. Steps 1–5 passed (checkout, GPG signing setup, bundle download from Hugging Face, bundle commit as Verified). Step 6, "Dispatch Continuous Conversion Workflow (pilot: 2 batches, no self-chain)", FAILED. Cause: see Section 4, Defect 1. The bundle DID land (commit `a690935` above), so only the dispatch failed.
-- **Pilot run #1: FAILED.** Run 43383873884, https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/actions/runs/43383873884, 13 November 2026 12:40–12:41 IST. Dispatched manually from the Actions tab (batch_size 75, max_batches_per_run 2, self_chain false, branch main, head `a690935`). Job `convert-and-commit` ran 27 seconds and failed at step 5, "Set Up Python 3.11 and Cache Pip Packages". Steps 1–4 passed; steps 6–8 skipped. Cause: see Section 4, Defect 2. Zero files converted. Repo head is still `a690935`.
+- **Pilot run #2 (Run 43387158709): SUCCESS / IN PROGRESS.** Dispatched 13 Nov 2026 13:08 IST. Steps 1–5 passed green in ~1 minute. Conversion loop actively executing; converted 3,375 files across 45 batches with zero failures in first 50 minutes.
+- **Bootstrap run #1: FAILED.** Run 43383089432, https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/actions/runs/43383089432, 13 November 2026 12:34–12:35 IST. Steps 1–5 passed (checkout, GPG signing setup, bundle download from Hugging Face, bundle commit as Verified). Step 6, "Dispatch Continuous Conversion Workflow (pilot: 2 batches, no self-chain)", FAILED. Cause: see Section 4, Defect 1 (RESOLVED).
+- **Pilot run #1: FAILED.** Run 43383873884, https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/actions/runs/43383873884, 13 November 2026 12:40–12:41 IST. Failed at step 5 (missing pip cache). Cause: see Section 4, Defect 2 (RESOLVED).
 - **Job logs cannot be downloaded through the unauthenticated GitHub API** (403 "Must have admin rights to Repository"). Read a failing step's log through the browser while signed in as the user, or through an authenticated API call.
 - **Unauthenticated GitHub API is rate-limited to 60 requests/hour on the shared egress IP** and that budget is shared with other traffic; it was exhausted once during diagnosis. Prefer authenticated access or the web UI for reads.
 
@@ -124,7 +129,17 @@ Two defects block the engine. Both are in the workflow files that are already on
   - `01_continuous_conversion.yml`: `24153bf510c2dd09d92100a89b267257e9239ea3a5e06d9e59e52ac22a73df06`
   - `02_weekly_rbi_hf_github_sync.yml`: `fbe5edc9f53e64e6483285aa14379faae8506924ab538b15ed0b7c2535bc81be`
   - `03_integrity_audit.yml`: `2ca6412398c95a056f3534109db2b5634a145159f0160ce0fec20deee2276531`
-- Record the post-fix SHA-256 values in Section 3 when you land them.
+- **Post-fix Git blob SHA-256 values (landed in commit `befaecb`, 13 Nov 2026):**
+  - `00_bootstrap.yml`: `c04e0c77e634853faf9b281035f421af39ec6c1f93abc5fde582ac53fdd0f3c7`
+  - `01_continuous_conversion.yml`: `653f706e5fe6c79a135c1ca81174de2b0b47c08edbdeb026b31d73a285dfe480`
+  - `02_weekly_rbi_hf_github_sync.yml`: `bfa8d69c32e94ad20cc38d27cc29c25989b221da1f2af242f6088afb83cf97d1`
+  - `03_integrity_audit.yml`: `00ae657614b4942fc85d7254a859831e1d01ebd7519b392ebf8e85ac2e7c2707`
+
+### Defect 3 — `audit_parity.py` failed check (a) on CRLF checkouts and Win32 MAX_PATH (RESOLVED)
+
+- **Fact:** `split_frontmatter` had hardcoded `if not text.startswith("---\n"):`, which broke when files were checked out on Windows where line endings are CRLF (`\r\n`). In addition, 129 legacy Circular files have filenames exceeding Windows MAX_PATH (260 characters), causing standard `os.path.exists` on Windows to fail unless prefixed with `\\?\`.
+- **Fix (commit `05f733b`, 13 Nov 2026):** in `scripts/audit_parity.py`, normalized `text = text.replace("\r\n", "\n")` in `split_frontmatter`, and added `if os.name == "nt" and not md_path.startswith("\\\\?\\"): md_path = "\\\\?\\" + os.path.abspath(md_path)` in `check_a()`.
+- **Verification:** `python scripts/audit_parity.py` returned exit code 0 (`4/4 checks passed (PASS); 2253/2253 items verified`).
 - **Then re-run:** dispatch workflow 00 (bootstrap) again by hand, OR dispatch workflow 01 directly as the pilot (batch_size 75, max_batches_per_run 2, self_chain false). Either path is correct; the pilot is what must be verified. If the bootstrap dispatch still fails after the fix, read the failing step's log in the browser and report the exact error text before trying anything else.
 
 ---
