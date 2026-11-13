@@ -1,0 +1,48 @@
+---
+doc_id: "Circulars_2025_DOR_STR_REC_39_21_06_008_2025-26"
+title: "Basel III Capital Regulations – External Credit Assessment Institutions (ECAIs) – CareEdge Global IFSC Limited"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT65813CBC3983FC48E98C230C92CD2830D7.PDF"
+pdf_sha256: "14dc9079a9a2514417c57de280bb72445be49e92d6a28f77539af2bad3a7cc09"
+md_sha256: "02f57087209e66dcaeecb91d5daa25d9e0ac6558be283b0c42fcb71b58667d76"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:58:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-07-10_Circular_DOR.STR.REC.39-21.06.008-2025-26_Basel%20III%20Capital%20Regulations%20%E2%80%93%20External%20Credit%20Assessment%20Institutions%20%28ECAIs%29%20%E2%80%93%20CareEdge%20Global%20IFSC%20Limited.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Basel III Capital Regulations – External Credit Assessment Institutions (ECAIs) – CareEdge Global IFSC Limited
+
+<!-- PAGE 1 -->
+
+RBI/2025-26/65 DOR.STR.REC.39/21.06.008/2025-26 July 10, 2025
+
+All Scheduled Commercial Banks (including Small Finance Banks) (excluding Local Area Banks, Payments Banks and Regional Rural Banks)
+
+Madam / Dear Sir,
+
+## Basel III Capital Regulations – External Credit Assessment Institutions (ECAIs)
+
+## – CareEdge Global IFSC Limited
+
+Please refer to Paragraph 6 of the <u>Master Circular – Basel III Capital Regulations dated</u> <u>April 01, 2025</u>, as amended from time to time.
+
+2. In terms of para ibid, *inter alia,* banks are permitted to use the ratings of three international credit rating agencies viz. a) Fitch; b) Moody's; and c) Standard & Poor’s for the purpose of risk weighting their claims on different foreign entities for capital adequacy purposes.
+3. It has been decided to permit banks
+# Withdrawn
+
+to also use the ratings of M/s CareEdge Global IFSC Limited for risk weighting their claims on non-resident corporates originating at International Financial Services Centre (IFSC).
+
+4. The rating-risk weight mapping for the ratings assigned by M/s CareEdge Global IFSC Limited shall be as follows:
+
+|Rating Category|AAA|AA|A|BBB|BB & below|
+|---|---|---|---|---|---|
+|Risk weight (%)|20|30|50|100|150|
+
+Yours faithfully,
+
+(Vaibhav Chaturvedi) Chief General Manager

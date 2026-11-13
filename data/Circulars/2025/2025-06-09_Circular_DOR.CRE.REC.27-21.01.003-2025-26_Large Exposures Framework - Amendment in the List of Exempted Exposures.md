@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2025_DOR_CRE_REC_27_21_01_003_2025-26"
+title: "Large Exposures Framework - Amendment in the List of Exempted Exposures"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/48NT111A42F535504D05996071BCCA5B3B02.PDF"
+pdf_sha256: "fb07bf82a2404ef051dc10e9ec46a86a5a07d43b205f5764be65aec6ead8d12e"
+md_sha256: "45800892b002421d51fd44ecaf0348cd2da338ddb3cf468973c0d7e10003b9d6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:58:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-09_Circular_DOR.CRE.REC.27-21.01.003-2025-26_Large%20Exposures%20Framework%20-%20Amendment%20in%20the%20List%20of%20Exempted%20Exposures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Large Exposures Framework - Amendment in the List of Exempted Exposures
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2025-26/48 DOR.CRE.REC.27/21.01.003/2025-26 June 9, 2025
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Madam / Dear Sir,
+
+## Large Exposures Framework – Amendment in the list of exempted exposures
+
+Please refer to paragraph 3.1 of the Annex to the <u>circular</u> <u>DBR.No.BP.BC.43/21.01.003/2018-19 dated June 03, 2019</u> on ‘Large Exposures Framework’ (LEF) in terms of which “*deposits maintained with NABARD on account of* *shortfall in achievement of targets for priority sector lending*” are excluded from being considered for exposure limits under LEF.
+
+2. In this connection, it is advised that in addition to NABARD, the above exemption shall also be applicable to contribution made by the scheduled commercial banks to funds with NHB, SIDBI, MUDRA Ltd., or any other entity specified by RBI, on account of shortfall in achievement of targets for priority sector lending.Withdrawn
+3. The above instruction is applicable with immediate effect. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager
+__________________________________________________________________ व�नयमन वभाग, कें द्रय कायार्लय, कें द्रय कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 �हंद आसान है, इसका प्रयोग बढ़ाइए

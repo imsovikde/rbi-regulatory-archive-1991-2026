@@ -1,0 +1,570 @@
+---
+doc_id: "Circulars_2025_DoR_SOG_DEA_Fund_No_37_30_01_002_2025-26"
+title: "The Depositor Education and Awareness (DEA) Fund Scheme, 2014 – Revised Operational Guidelines"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT62D403946CC39F45969C0E416870B9CA80.PDF"
+pdf_sha256: "b5f2edd6bb6e811925a67f69fa5409d6e5c73ed5043ae69a13c74d5ae955a5b4"
+md_sha256: "456f4e39b80687d699cc5374a1f471f442baaf2be366af7111f10fd0ab4db51b"
+total_pages: 24
+native_pages: 24
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:58:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-25_Circular_DoR.SOG%20%28DEA%20Fund%29%20No.37-30.01.002-2025-26_The%20Depositor%20Education%20and%20Awareness%20%28DEA%29%20Fund%20Scheme%2C%202014%20%E2%80%93%20Revised%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Depositor Education and Awareness (DEA) Fund Scheme, 2014 – Revised Operational Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2025-26/62 DoR.SOG (DEA Fund) No.37/30.01.002/2025-26 June 25, 2025
+
+## Madam / Dear Sir
+
+## The Depositor Education and Awareness (DEA) Fund Scheme, 2014 – Revised Operational Guidelines
+
+<u>The Depositor Education and Awareness (DEA) Fund Scheme, 2014</u>, prescribes the process to be followed by the banks for transfer to and claim of the amounts transferred to DEA Fund, including submission of various returns.
+
+2.tructions Ins have been issued to banks from time to time in the form of operational guidelines since 2014. A review has recently been carried out to consolidate and rationalise the extant instructions. The revised instructions are provided at <u>Annex</u>.
+3**.** These instructions are issued in exercise of powers conferred under Sections 26A and 35A of the Banking Regulation Act, 1949, and are applicable to all the banks covered under the DEA Fund Scheme, viz., Commercial Banks (including RRBs, LABs, SFBs and PBs) and all Co-operative Banks.
+# Withdrawn
+
+4. The instructions shall come into effect from October 01, 2025.
+## Yours faithfully
+
+(Sunil T S Nair) Chief General Manager
+
+## Encl: As above
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- वनयमन वभाग, कें द्रय कायार्लय, 12वीं मंिज़ल, नरमन भवन, वनय के शाह मागर्, नरमन पॉइंट, मंबई ु 400021 Department of Regulation, Central Office, 12th Floor, Nariman Bhavan, Vinay K Shah Marg, Nariman Point, Mumbai – 400021 Tel No: 91-22-22820703/69779409 E-mail: <u>dea.fund@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+## <u>Annex</u>
+
+**The Depositor Education and Awareness Fund Scheme, 2014 - Section 26A of the** **Banking Regulation Act, 1949 - Operational Guidelines**
+
+**1. Process of registration in e-Kuber system** Firstly, a bank needs to register under the DEA Fund module on e-Kuber system. Secondly, a bank shall share two e-mail ids with <u>dea.fund@rbi.org.in</u> to complete the registration process. A bank (non-member bank), which does not have access to e-Kuber system is required to provide two e-mail ids to its sponsor bank to complete the registration process. On completion of registration process, further communication from Reserve Bank of India (RBI) will be sent only to the two e-mail ids registered in e-Kuber system. The aforesaid registration process is a pre-requisite for a bank to remit the unclaimed amounts due and submit refund claims, as defined in DEA Fund Scheme (the Scheme), in electronic form through e-Kuber system. A bank, which is yet to complete the registration process shall arrange to complete it expeditiously.
+## 2. Authorised signatories of a bank
+
+A bank shall identify officers (authorised signatories) to operate the bank’s DEA Fund account jointly, who shall be responsible for authorising the applicable returns **(Form-I, Form-II and** **Rectification Forms** as hereinafter detailed in the circular) under the DEA Fund Scheme. It shall submit to RBI, a certified true copy of the Resolution/Decision/Authorisation (in Hindi or English only) provided by the Board of Directors/MD&CEO/ED/Committee of Executives empowered for the purpose along with the list of authorised signatories i.e., officials designated
+
+# Withdrawn
+
+as authorised signatories (with a maximum of ten signatories), for the above purpose. Any updates in the authorised officials shall be furnished in the prescribed revised format **(**<u>Annex</u> <u>II</u>**)**ould include**,** which w details of both Resolution/ Decision/ Authorisation and specimen signatures of all the authorised signatories. A bank, while communicating the changes made, shall ensure to submit details of all such authorised signatories and their specimen signatures to RBI, instead of furnishing only the additions or deletions made.
+
+## 3. Procedure for transferring the unclaimed amount to the Fund
+
+**3.1** A bank shall transfer to the DEA Fund (the Fund), the amounts becoming due in each calendar month (i.e., proceeds of the inoperative accounts and balances remaining unclaimed for 10 years or more) as specified in the Scheme, and the interest accrued on interest bearing accounts till the date of transfer, during the last five working days of the subsequent month. Before transferring the amount due to the Fund, the bank shall ensure that all legal obligations relating to the same, till that date, including those pertaining to taxes deductible and payable, are met or adequate arrangements are made therefor.
+
+<!-- PAGE 3 -->
+
+**3.2 Own account**- A member bank shall transfer to the Fund, the entire amount due through e-Kuber system under the module “DEA Fund Services”. When a member bank is crediting amount due to the Fund, it shall furnish its DEA Fund Code in the “Bank DEA Fund Code” field and the detailed breakup (number of accounts and amount) of the deposits, viz., interest bearing deposits, non-interest bearing deposits and other credits, which also includes non- interest bearing amount (i.e., any amount other than deposits remaining unclaimed as defined in paragraph 3(iii) of the Scheme), in the fields provided for the same in the e-Kuber system.
+**3.3 Other bank’s (non-member) account**- In case, a sponsor bank is remitting the amounts due of other non-member banks, it *shall not* consolidate but separately remit the amount bank- wise to the Fund, by indicating appropriate Bank DEA Fund Code of the other (non-member) bank in the field provided in the e-Kuber. They should also provide the detailed break-up (number of accounts and amount) of the deposits, viz., interest-bearing deposits, non-interest bearing deposits and other credits in the respective fields, i.e., the fields designated for the same, in the e-Kuber system.
+## 4. Window for transferring unclaimed amount and submission of claim
+
+## 4.1 Deposit Window for transferring unclaimed amount
+
+The window for transferring unclaimed amounts/deposits to the Fund through e-Kuber shall be kept open only during the last five working days of every month, and a bank (including the non- member bank) is permitted to effect only one transfer of unclaimed amounts per month. A non- member bank is advised to transfer the unclaimedWithdrawnamounts/deposits to its sponsor bank (through normal banking channel), sufficiently in advance of the due date, to enable the sponsor bank to transfer the same to the Fund through e-Kuber system. On receipt of the amount transferred to the Fund, an auto generated acknowledgement receipt will be directly sent from e-Kuber system to the registered e-mail ids of the bank.
+
+## 4.2 Claim Window for submission of claim
+
+The window for submitting claim from the Fund shall be kept open in e-Kuber system during the first 10 working days of every month. A bank shall submit only one consolidated claim per month. A non-member bank is advised to submit the claim to its sponsor bank sufficiently in advance of the due date, to enable the sponsor bank to submit the same to RBI through e- Kuber system.
+
+<!-- PAGE 4 -->
+
+**4.3** A bank is required to transfer the unclaimed amounts/deposits due to the Fund and submit the claims, within the stipulated timeframe. It should also ensure correctness of the amount transferred to/claimed from the Fund.
+## 5. Procedure for submitting claim refund-Form II
+
+**5.1** In terms of paragraph 4 (i) of the Scheme, in case of demand from a customer/depositor, whose unclaimed amount/deposit had been transferred to Fund, a bank shall repay the customer/depositor, along with interest, if applicable, and thereafter, lodge a claim for refund from the Fund for an equivalent amount paid to the customer/depositor. In case of any claim made by the customer/depositor for refund of only part amount, the bank shall repay the customer accordingly by making the account operative and keep the remaining amount (including the interest, if any) in the account, and thereafter lodge a claim for the entire amount from the Fund. Banks may refer to <u>RBI’s circular DOR.SOG (LEG).REC/64/09.08.024/2023-24</u> <u>dated January 1, 2024</u> on Inoperative Accounts/Unclaimed Deposits in Banks - Revised Instructions, wherein operational guidelines on activation of inoperative accounts have been issued.
+**5.2** On submission of claim, an auto generated **Form II (**<u>Annex IV</u>**)**om the e fr-Kuber system will be sent to the registered e-mail ids of the banks/non-member banks. A bank/non-member bank shall submit a printout of the auto generated **Form II** signed by the authorised officials and certified by the bank’s auditors (internal/concurrent) to RBI, by e-mail and/or by post, within three working days of its submission on the e-Kuber system. The bank/non-member bank shall
+# Withdrawn
+
+also submit a copy of the latest half-year **Form III** (Reconciliation Certificate-<u>Annex V</u>) and Annual Certificate **(**<u>Annex VI</u>**)***hile submitting*, *w* *the first claim during the half-year / year, as the* *case may be,* along with the claim form -**Form II,** else it will result in non-consideration of claim of the bank.
+
+**5.3** The claim will be examined by RBI. If the claim is in order, the claimed amount will be credited to the account of the member bank (with the sponsor bank in case of a non-member bank) maintained with RBI by the end of the same month. The claim settlement/rejection advice will be sent to the respective bank on their registered e-mail ids. While making payment towards claims from the Fund to a non-member bank, the RBI will credit the account of the sponsor bank. The sponsor bank is required to credit the same to the non-member bank.
+**5.4** The claims will be processed by the RBI based on the information provided by a bank in **Form II**. Therefore, the onus of making correct refund claims from the Fund will solely lie with the bank.
+
+<!-- PAGE 5 -->
+
+**5.5** A bank is not required to provide the customer-wise details in case of refund claims in **Form** **II.** It should, however, maintain the customer-wise details of claims at its end, duly certified by its bank’s auditors (internal/concurrent), which RBI may seek at a later stage/during the supervisory review process.
+**5.6** Proper due diligence as required under <u>RBI’s Master Direction - Know Your Customer</u> <u>(KYC) Direction, 2016</u> (as amended from time to time) should also be carried out before making payments to customers. A bank should verify the genuineness of the claims while making the process smoother and hassle free for the customers.
+**5.7 Interest payable on unclaimed interest bearing deposit -**The rate of interest, if any, payable (by a bank to its depositors/claimants) on the principal amount of unclaimed interest- bearing deposit amount transferred to the Fund, shall be specified by the Reserve Bank of India from time to time, as envisaged in the paragraph 4 (iii) of the Scheme. The interest rates payable by RBI on unclaimed interest bearing deposits (as on date of issuance of this circular) are provided in <u>Annex IX</u>.
+## 6. Submission of Returns
+
+The following returns have been prescribed to the banks in terms of paragraph 5 of the Scheme.
+
+## 6.1 Form I-Monthly Statement
+
+**6.1.1** At the end of every month, the e-Kuber system will auto generate a **Form I (**<u>Annex III</u>)
+# Withdrawn
+
+for each bank (including non-member banks) and send it to their registered e-mail ids, including those banks which have not transferred any deposits. A bank (or sponsor bank on behalf of its non-member bank), after verifying the correctness of **Form I**, is required to submit the same online to RBI through e-Kuber system.
+
+**6.1.2** The auto generated **Form I** is confirmed only if the bank (sponsor bank in case of non- member bank) agrees with the balances shown in **Form I** by ticking the two check-boxes on the screen of e-Kuber system a) *“I Agree” and b) “Form has been duly audited by bank’s* *auditors (internal/concurrent)”*. If a bank (sponsor bank in case of non-member bank) does not agree with the balances given in the **Form I,** then it must submit the rectification form **(**<u>Annex</u> <u>VII</u>**)** lled and audited by duly fi
+the bank’s auditors (internal/concurrent) to RBI, by post and/or email.
+
+## 6.2 Rectification Form
+
+A bank shall immediately bring to the notice of the RBI any discrepancy observed by it in **Form** **I** with regard to the details of transfers made/claims received including non-receipt of
+
+<!-- PAGE 6 -->
+
+confirmation messages. It may refer to instructions relating to rectification of errors in transfer of amounts/deposits and reimbursement of claims **(**<u>Annex VII</u>**)**, and submit the applicable rectification form, duly signed by the two authorised officials and certified by the bank’s auditors (internal /concurrent), to RBI by post and/or e-mail, within a period of two weeks from the date of noticing such discrepancy.
+
+**6.3 Form III** -**Reconciliation Certificate**
+**6.3.1** A bank shall, for independent and periodical verification of the balances, at the end of March and September every year, prepare and keep on record a Reconciliation Certificate (RC)
+-**Form III (**<u>Annex V</u>igned by two senior officers, other than those involved in transfer and **)** s refund claims for unclaimed deposits, and countersigned by the bank’s auditors (internal /concurrent), certifying that the balances of the bank as shown in its general ledger tally with the amount reflected in the DEA Fund account of RBI. This certificate shall be prepared and completed with auditor(s) certification within a period of one month from the end of every half- year, i.e., April 30 and October 31 respectively. The banks shall note that submission of a copy of the latest half-year RC **(Form III)** to RBI is required, only whenever a first claim of the half- year is made by the banks and shall be submitted in **Form III,** which shall contain Unique Document Identification Number (UDIN) or Internal Document Identification Number of the bank’s auditors (internal/concurrent).
+**6.3.2** To avoid any kind of avoidable discrepancies in reconciliation of the balances in DEA Fund, a bank shall take on record/account the transactions in its books on actual basis, i.e.,
+# Withdrawn
+
+only after settlement of claim/transfer of amount from/to the DEA Fund maintained by RBI.
+
+## 6.4 Annual Certificate (AC) by Statutory Auditor
+
+A yearly certificate indicating item-wise details of outstanding amount due at the year-end shall be obtained by a bank, from its Statutory Auditors in the prescribed format **(**<u>Annex-VI</u>**)**hall. It s be submitted to RBI within one month from the date of completion of bank’s Statutory Audit but not later than September 30 of the subsequent financial year for which the AC pertains to. A bank shall furnish the AC, even if it is a ‘NIL’ return, to the RBI within the above stipulated period. The format of AC has since been revised and requires mandatory inclusion of UDIN of the Statutory Auditor.
+
+## 6.5 Mode of submission of returns
+
+The returns specified in paragraph 5 and 6 of the circular duly certified by the specified auditors, shall be forwarded in original (unless specified otherwise), to *Depositor Education and* *Awareness (DEA) Fund*, *Department of Regulation, Central Office, 12th Floor, Nariman*
+
+<!-- PAGE 7 -->
+
+*Bhavan, Vinay K Shah Marg, Nariman Point, Mumbai - 400021*, as also scanned copy in pdf form by email to <u>dea.fund@rbi.org.in</u>.
+
+## 7. Audit
+
+**7.1** On the date of transferring the amount to the Fund, a bank should maintain customer-wise details verified by the banks’ auditors (internal/concurrent), including payment of up-to-date interest accrued in respect of interest bearing deposits, that has been credited to the deposit account till the date of transfer to the Fund. The bank shall maintain duly audited customer- wise details in respect of non-interest bearing deposits and other credits transferred to the Fund. The bank’s auditors (internal/concurrent) should also verify and certify that, as per the bank’s books, the returns have been correctly compiled by the bank in the monthly and half- yearly returns submitted to RBI.
+**7.2** The aforesaid returns shall also be verified by the statutory auditors at the time of annual audit.
+## 8. Contact details
+
+A bank shall duly furnish the updated contact details (in case of any change) by e-mail to <u>dea.fund@rbi.org.in</u> in the prescribed format **(**<u>Annex VIII</u> any correspondence with RBI **)** for relating to DEA Fund Scheme.
+
+## 9. Disclosure in Notes to Accounts
+
+All unclaimed liabilities (where amount due has been transferred to Fund) may be reflected asWithdrawn *“Contingent Liability – Others, items for which the bank is contingently liable”* under Schedule 12 of the Annual Financial Statements. A bank shall also disclose the amounts transferred to Fund under the Notes to Accounts as per the format given below. (Amounts in ₹ crore)
+
+||Current year|Previous year|
+|---|---|---|
+|Opening balance of amounts transferred to DEA Fund|||
+|Add: Amounts transferred to DEA Fund during the year|||
+|Less: Amounts reimbursed by DEA Fund towards claims during the year|||
+|Closing balance of amounts transferred to DEA Fund|||
+
+## 10. Repeal Provisions
+
+With the issue of these instructions, the instructions / guidelines contained in the circulars listed in <u>Annex I</u>, issued by the Reserve Bank stand repealed.
+
+<!-- PAGE 8 -->
+
+## Annex I
+
+## List of Circulars repealed
+
+|S. No.|Circular No|Description|Date of Circular|
+|---|---|---|---|
+|1.|DBOD.No. DEAF Cell. BC.114/30.01.002/20 13-14|The Depositor Education and Awareness Fund Scheme, 2014 – Section 26A of Banking Regulation Act, 1949- Operational Guidelines|May 27, 2014|
+|2.|DBOD.No.DEAF Cell. BC.123/30.01.002/20 13-14|The Depositor Education and Awareness Fund Scheme, 2014 – Section 26A of Banking Regulation Act, 1949- Clarifications on Operational Guidelines|June 25, 2014|
+|3.|DBR.No.DEA Fund Cell.BC.49/30.01.002/ 2014-15|The Depositor Education and Awareness Fund Scheme, 2014 – Section 26A of Banking Regulation Act, 1949 - Due diligence of customers|November 21, 2014|
+|4.|DBR.No.DEAF Cell. BC.105/30.01.002/20 14-15|The Depositor Education and Awareness Fund Scheme, 2014 – Section 26A of Banking Regulation Act, 1949- Operational Guidelines|June 18, 2015|
+|5.|DBR.No.DEA Fund Cell.3044/30.01.002/2 017-18|The Depositor Education and Awareness Fund Scheme, 2014 – Section 26A of Banking Regulation Act, 1949- Operational Guidelines|September 27, 2017|
+|6.|DBR.No.DEA Fund Cell.1642/30.01.002/2 018-19|The Depositor Education and Awareness Fund Scheme, 2014 - Revised timeline for submission of Reconciliation Certificate (Form lll)|August 27, 2018|
+|7.|DBR.DEA Fund Cell.BCNo.6700/30.01 .002/2018-19|The Depositor Education and Awareness Fund (DEA Fund) Scheme, Withdrawn Revised guidelines for 2014 - submission of Annual Certificate|February 12, 2019|
+
+<!-- PAGE 9 -->
+
+## Annex II
+
+## Depositor Education and Awareness (DEA) Fund
+
+## Resolution/Decision/Authorisation for Authorised Signatories and Specimen
+
+## Signature*
+
+## Name of the Bank------------------------------------
+
+## DEA Fund Code --------------------------------
+
+Resolution/Decision/Authorisation of Board/MD &CEO/ED/Committee of Executives (with date, signature and stamp)
+
+|Authorised Officials (Surname) (First Name) 1. 2.||
+|---|---|
+|Designation 1. 2.||
+|Specimen Signature of first official 1) Specimen Signature of second official 1) Withdrawn|Specimen Signature of first official 2) Specimen Signature of second official 2)|
+|Attested by CGM / ED / MD & CEO (Signature with Bank’s Seal)||
+
+*** A bank is required to submit details of all authorised signatories, rather than only those** **who have been newly added or replaced. A bank can have a maximum of 10 authorised signatories.**
+
+<!-- PAGE 10 -->
+
+## Annex III
+
+## Form I
+
+Monthly Return of unclaimed deposits/credits/ accounts/ in India which have not been operated upon/remained unclaimed for 10 years or more as on the date of the return and transferred to the DEA Fund Account. **(To be submitted online to the Reserve Bank of India by 15** **th of the succeeding month)** **Name the of Bank Bank DEA Fund Code allotted by RBI** **If remitted through sponsor bank, Name of the Sponsor Bank**
+
+## Month ------------Year -------------------------Date of Transfer to the Fund
+
+## (Amount in Rupees)
+
+|Sr. No|Particulars|Interest bearing Deposits||Non-interest bearing Deposits||Other Credits (Non- interest bearing)||Total||
+|---|---|---|---|---|---|---|---|---|---|
+|1 2 3|Opening balance of accounts transferred to the Fund at the beginning f Adjustment in accounts, if any, wrongly reported in the past and rectified during this month (net of the correct and wrong figures). Accounts transferred to the Fund during this month. (including accounts, if any, inadvertently omitted in the previous month and transferred during this|(a) Number of Accounts|Amount|(b) Number of Accounts Withdrawn|Amount|(c) Number of Accounts|Amount|(d)=(a)+(b)+(c) Number of Accounts|Amount|
+
+<!-- PAGE 11 -->
+
+|||Interest bearing Deposits||Non-interest bearing Deposits||Other Credits (Non- interest bearing)||Total||
+|---|---|---|---|---|---|---|---|---|---|
+|||(a)||(b)||(c)||(d)=(a)+(b)+(c)||
+|Sr. No 4 5 6|Particulars Claims settled and refund received from the Fund during this month (only the principal amount to be mentioned). Net amount transferred to the Fund during the month (2 +3 - 4) Total amount with the Fund at the end of the month ….…(month) 20 …..(1+5)|Number of Accounts|Amount|Number of Accounts|Amount|Number of Accounts|Amount|Number of Accounts|Amount|
+
+## Signature: Name: Designation of the Officer (With Stamp): Telephone Number: Place: Date:
+
+# Withdrawn
+
+**Certificate -**Details given above are true as per the records of the bank and verified by me and found to be correct.
+
+## Signature: Name of Bank’s Auditors (Internal /Concurrent) (with Stamp):
+
+<!-- PAGE 12 -->
+
+## Annex IV
+
+## Form II
+
+## Monthly return claiming refund from the DEA Fund
+
+## 1. Name of the Bank:
+
+**2. Bank DEA Fund Code allotted by RBI**---------------------------**3. Current A/c maintained with RBI @ ----------------------------------**
+## 4. Details of claims made during the month _20 (Amount in Rupees)
+
+||Interest Bearing Deposits|||Non-Interest Bearing Deposits|||Other Credits||Grand Total|
+|---|---|---|---|---|---|---|---|---|---|
+|No of Accounts|Principal Amount|Interest Amount|Total Amount|No of Accounts|Amount|No of Accounts|Amount|No of Accounts|Amount|
+|Total|Total|Total|Total|Total|Total|Total|Total|Total|Total|
+
+(1) (2) (3) (4=2+3) (5) (6) (7) (8) (9=1+5+7) (10=4+6+8)
+
+@ Please mention the A/c Number of your Current A/c or the Current A/c of your sponsor bank, maintained with RBI, through which you would desire to receive the above refund claim. **Note-**. No individual customer/depositor wise details should be furnished. In the case of any claim for refund of part amount by the depositor whose unclaimed amount/inoperative deposit had been transferred to the Fund, the bank shall claim the entire amount transferred to the Fund in respect of such depositor along with interest payable, if any, from the Fund.Withdrawn Certified that the above claims have not earlier been made or received from the DEA Fund. **Signature: Signature:** **Name of the First Authorised Signatory: Name of the Second Authorised Signatory:** **Designation of Officer (With Stamp): Designation of Officer (With Stamp):** **Place: Date:**
+
+**Certificate**-**Details given above are true as per the records of the bank and verified by me and found to be correct.** **Signature:** **Name of Bank’s Auditors (Internal /Concurrent) (with Stamp):** **Address:** **Place: Date:**
+
+<!-- PAGE 13 -->
+
+## Annex V
+
+## <u>Form III – Reconciliation Certificate</u>
+
+[On the Letter Head of Bank’s Auditors] To
+
+## Address of the bank audited
+
+We, (Bank’s Auditors [Internal/Concurrent] details) hereinafter referred to as "Bank’s Auditors" have been requested by (bank's Name), having its Registered Office at the above-mentioned address, to issue the Reconciliation Certificate (RC) containing the details of returns filed with the Reserve Bank of India ("the Statement") for the half-year ended ……. for the purpose of submission to Reserve Bank of India (RBI) in accordance with the Depositor Education and Awareness Fund Scheme, 2014 and the following circular of Reserve Bank of India —
+
+i. DoR.SOG (DEA Fund) No.37/30.01.002/2025-26 dated June 25, 2025
+## 2. Auditor's Responsibility
+
+Pursuant to the requirements of the Depositor Education and Awareness Fund Scheme, 2014, it is our responsibility to provide a reasonable assurance whether the returns filed by the bank with the RBI have been correctly compiled by the bank in accordance with the Depositor Education and Awareness Fund Scheme, 2014.
+
+# Withdrawn
+
+## 3. The following documents have been furnished by the bank:
+
+a. Copy of monthly returns in Form I and Form Il filed with RBI
+b. Details of settlement made by the branches of the bank to customers
+c. Other books and records of the bank
+## 4. We have performed the following procedures:
+
+(a) Verified Form I and Form Il
+(b) Verified details received from the branches regarding settlement made to customers on sample basis
+(c) Checked the details regarding reconciliation of balances for the Half Year ended March
+…..../September……., as under:
+(Please certify either **c.i or c.ii** and strike out whichever is not applicable)
+
+**i. If the balances tally** We certify that balances of unclaimed deposits transferred by the bank to the DEA Fund under various heads as shown in the General Ledger of the bank, tally with the balances
+
+<!-- PAGE 14 -->
+
+maintained with the DEA Fund Cell as reflected in Form I generated from the DEA Fund module of RBI, as on 31-03-……….. or 30-09-……….
+
+# ii. If the balances do not tally
+
+We observe that while balance of unclaimed deposits as shown in the General Ledger of the bank as on 31-03-………./ 30-09-…….. is Rs…………………, balance of unclaimed deposits as shown in the balances maintained with the DEA Fund Cell as reflected in Form I generated from the DEA Fund module of RBI, as on 31-03-……… / 30-09-……… is Rs …………….
+
+(d) Verified that the returns have been correctly compiled in accordance with the Depositor Education and Awareness Fund Scheme, 2014.
+**5. The balance of DEA Fund as it appears in the books of the bank as on 31-03-……… /** **30-09-……… is as under**
+(Amount in crore)
+
+|Sr. No.|Particular|Current Half-Year 31-03-yyyy / 30-09- yyyy|Previous Year 31-03-yyyy / 30-09- yyyy|
+|---|---|---|---|
+|1.|Opening balance of DEA Fund as on 01-04-yyyy / 01-10-yyyy|||
+|2. 3. 4.|Add: Amounts transferred to DEA Fund during the half-year ……. Less: Amounts reimbursed by DEA Fund towards claims during the half- year ……. Closing balance of DEA Fund as on 31-03-yyyy / 30-09-yyyy (1+2-3)|Withdrawn||
+
+6. Based on the procedures performed by us as mentioned in paragraph 4 above, information and explanations given to us by the bank's management and to the best of our knowledge, we report that the **DEA Fund Returns/Certificates have been compiled correctly/have not been** **compiled correctly by the bank*** in accordance with Depositor Education and Awareness Fund Scheme, 2014.
+7. This certificate is issued solely for the purpose of submission to RBI. This certificate should not be used by any other person or for any other purpose.
+
+<!-- PAGE 15 -->
+
+Signatures of Bank’s Auditors (Internal /Concurrent) with registration number (FRN) & seal
+
+Place Date UDIN / Internal Document Identification Number:
+
+## Details of Bank Officials (other than the authorised signatories for Form II):
+
+||st 1 Official|nd 2 Official|
+|---|---|---|
+|Signature with bank’s seal|||
+|Name|||
+|Designation|||
+|Place|||
+|Date|||
+
+## *Strike out whichever is not applicable
+
+# Withdrawn
+
+<!-- PAGE 16 -->
+
+## Annex VI
+
+## <u>Annual Certificate</u>
+
+[On the Letter Head of Statutory Auditors]
+
+## Address of the bank audited
+
+We, (Statutory Auditor's Firm details) hereinafter referred to as "Statutory Central Auditors" have been requested by (bank's Name), having its registered office at the above mentioned address, to issue the Annual Certificate containing the details of returns filed with the Reserve Bank of India ("the Statement") for the financial year for the purpose of submission to Reserve Bank of India (RBI) in accordance with the Depositor Education and Awareness Fund Scheme, 2014 and the following circular of Reserve Bank of India —
+
+i. DoR.SOG (DEA Fund) No.37/30.01.002/2025-26 dated June 25, 2025
+## 2. Auditor's Responsibility
+
+Pursuant to the requirements of the Depositor Education and Awareness Fund Scheme, 2014, it is our responsibility to provide a reasonable assurance whether the returns filed by the bank with the RBI have been correctly compiled by the bank in accordance with the Depositor Education and Awareness Fund Scheme, 2014.
+
+# Withdrawn
+
+## 3. The following documents have been furnished by the bank:
+
+Copy of monthly returns in Form I and Form Il filed with RBI duly certified by the concurrent auditors of the bank
+
+a) Details of settlement made by the branches of the bank to customers
+b) Other books and records of the bank and
+c) Written representation
+## 4. We have performed the following procedures:
+
+a) Verified Form I and Form Il
+b) Verified details received from the branches regarding settlement made to customers on sample basis
+c) Verified that Half-yearly Reconciliation Certificates (Form Ill) have been submitted on time
+d) Verified that the returns have been correctly compiled in accordance with the Depositor Education and Awareness Fund Scheme, 2014.
+
+<!-- PAGE 17 -->
+
+5. The balance of DEA Fund as it appears in the books of the bank as on 31.03.yyyy is as under
+(Amount in crore)
+
+|Sr. No.|Particular|Current Year 31.03.yyyy|Previous Year 31.03.yyyy|
+|---|---|---|---|
+|1.|Opening balance of DEA Fund as on 01.04.yyyy|||
+|2.|Add: Amounts transferred to DEA Fund during the year yyyy-yy|||
+|3.|Less: Amounts reimbursed by DEA Fund towards claims during the year yyyy-yy|||
+|4.|Closing balance of DEA Fund as on 31.03.yyyy (1+2-3)|||
+
+6. Based on the procedures performed by us as mentioned in paragraph 4 above, information and explanations given to us by the bank's management and to the best of our knowledge, we report that the DEA Fund Returns/Certificates have been compiled correctly/have not been compiled correctly by the bank* in accordance with Depositor Education and Awareness Fund Scheme, 2014.
+7. This certificate is issued solely for the purpose of submission to RBI. This certificate should not be used by any other person or for any other purpose. Signatures of Statutory Auditors with firm's registration number (FRN) & seal
+# Withdrawn
+
+Place: Date: UDIN:
+
+## *Strike out whichever is not applicable
+
+<!-- PAGE 18 -->
+
+## Annex-VII
+
+## Depositor Education and Awareness (DEA) Fund-Rectification of Errors –
+
+## <u>Deposits/Amounts Transfers and Claims Reimbursements</u>
+
+In order to enhance the accuracy and integrity of operations related to the Depositor Education and Awareness (DEA) Fund, banks are advised to comply with the following guidelines:
+
+1. To prevent errors, a bank shall implement a Maker-Checker process to verify all deposit and claim entries for processing the entries.
+2. A bank shall ensure all entries related to DEA Fund are audited pre and post submission, signed by both authorised signatories and the bank’s auditors (internal/concurrent).
+3. A bank is required to have an appropriate internal operational procedure for the DEA Fund. This should specifically address error prevention mechanisms and rectification processes.
+4. A bank shall submit its rectification requests in the prescribed forms, as under.
+- Total deposit amount is correct but changes in
+
+|(i)|Form A:|eposit Related Rectification D|
+|---|---|---|
+||accounts or amounts under Interest Bearing (IB)/Non-Interest Bearing (NIB)/Other||
+||Credits (OTH)||
+|m (ii)|For|B: Deposit Related Rectification-Total deposit amount is incorrect|
+|(iii)|Form C:|ated Claim Rel|
+
+Rectification
+
+5. The applicable rectification form, duly signed by the two authorised officials and certified by
+# Withdrawn
+
+the bank’s auditors (internal/concurrent), must be submitted to RBI within a period of two weeks from identification of such discrepancy.
+
+6. A bank is responsible for ensuring the accuracy of these requests.
+7. A bank shall immediately report to the RBI of any errors, including:
+(i) Specific reasons for the error. (ii) Details of checks and controls implemented to prevent recurrence. (iii) Assurance that such errors will not recur.
+
+<!-- PAGE 19 -->
+
+## Form A
+
+**Deposit related rectification where total deposit amount is correct but changes in accounts or amounts under Interest Bearing** **(IB)/Non-Interest Bearing (NIB)/Other Credits (OTH)** **Name of Bank:**
+
+## DEA FUND Code:
+
+A. Details of actual (account and amount) transferred (as per auto-generated Form-I):
+
+||Interest bearing||Non-Interest bearing||Other credits|||Total|
+|---|---|---|---|---|---|---|---|---|
+|Date of Deposit|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|
+
+B. Details of Correct figures:
+
+||Interest bearing||Non-Interest bearing||Other credits||Total||
+|---|---|---|---|---|---|---|---|---|
+|Date of Deposit|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|
+
+## Reason for Rectification:
+
+## Signature: Signature:
+
+## Name of the first Signatory:
+
+# Withdrawn
+
+## Name of the Second Signatory:
+
+## Designation of Officer (With Stamp): Designation of Officer (With Stamp):
+
+## Place:
+
+## Date:
+
+**Certificate**-**Details given above are true as per the records of the bank and verified by me and found to be correct.**
+
+## Signature: Name of Bank’s Auditors (Internal/Concurrent) (With Stamp):
+
+<!-- PAGE 20 -->
+
+# Form B Deposit related rectification where total deposit amount is incorrect
+
+# Name of Bank: DEA FUND Code:
+
+A. Details of actual deposit (account and amount) transferred (as per auto-generated Form-I):
+
+||Interest bearing||Non-Interest bearing||Other credits||Total||
+|---|---|---|---|---|---|---|---|---|
+|Date of Deposit|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|
+
+B. Details of excess deposit (account and amount) claimed back by bank (Form-II):
+
+|||Interest bearing|||Non-Interest bearing||Other credits|Total||
+|---|---|---|---|---|---|---|---|---|---|
+|Date of Claim Paid|No. of Accounts|Principal Amount|Interest Paid|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|
+
+# Reason for Rectification:Withdrawn
+
+**Signature: Signature:** **Name of the first Signatory: Name of the Second Signatory:** **Designation of Officer (With Stamp): Designation of Officer (With Stamp):** **Place:** **Date:**
+
+**Certificate** –**Details given above are true as per the records of the bank and verified by me and found to be correct.** **Signature:** **Name of Bank’s Auditors (Internal/Concurrent) (With Stamp):**
+
+<!-- PAGE 21 -->
+
+## Form C
+
+## Claim related rectification
+
+## Name of Bank:
+
+## DEA FUND Code:
+
+A. Details of actual, correct and excess claim:
+
+||||Interest bearing||Non-Interest bearing||Other credits||Total||
+|---|---|---|---|---|---|---|---|---|---|---|
+||Date of claim paid|No. of Accounts|Principal Amount|Interest Paid|No. of Accounts|Amounts|No. of Accounts|Amounts|No. of Accounts|Amounts|
+|Actual Claim|||||||||||
+|Correct Claim|||||||||||
+|Excess Claim|||||||||||
+
+B. Details of Excess Claim sent with regular deposit in current month:
+## Interest bearing Non-Interest bearing Other credits Total
+
+# Withdrawn
+
+**Date of No. of No. of No. of No. of deposit Accounts** <u>Amounts</u> **Accounts** <u>Amounts</u> **Accounts** <u>Amounts</u> **Accounts** <u>Amounts</u> **Regular deposit for current month** **Excess Claim returned back **** **Total Deposit** **Note: The interest paid in excess claim (in A) should be clubbed with Excess claim returned back in Interest Bearing amount (in B) **Reason for Rectification:**
+
+<!-- PAGE 22 -->
+
+**Signature: Signature:** **Name of the first Signatory: Name of the Second Signatory:** **Designation of Officer (With Stamp): Designation of Officer (With Stamp):** **Place:** **Date:**
+
+**Certificate** –**Details given above are true as per the records of the bank and verified by me and found to be correct.**
+
+## Signature: Name of Bank’s Auditors (Internal/Concurrent) (With Stamp):
+
+# Withdrawn
+
+<!-- PAGE 23 -->
+
+## Annex VIII
+
+## Contact details for correspondence/ queries related to DEA Fund Scheme, 2014
+
+## Name of the Bank------------------------------------
+
+## Bank DEA Fund Code Number--------------------------------
+
+|Sr No|Particulars|Contact Officer|Alternate Officer|
+|---|---|---|---|
+|1|Name of the Contact Officer|||
+|2|Designation|||
+|3|Telephone No.|||
+|4|Mobile No.|||
+|5|Email Id|||
+
+The above details may be forwarded by e-mail to <u>dea.fund@rbi.org.in</u>
+
+## Name:
+
+## Signature:
+
+## Designation of Officer:
+
+## Name of the Bank:
+
+## Place:
+
+## Address:
+
+## Date:
+
+# Withdrawn
+
+## (Stamp of the bank)
+
+<!-- PAGE 24 -->
+
+## Annex IX
+
+## Interest Rates Payable on Interest Bearing Deposit
+
+The interest payable on interest bearing deposits transferred to Depositor Education and Awareness (DEA) Fund shall be calculated by banks as per the interest rates specified in the table below:
+
+|Period|Interest Rate|Circular Ref.|
+|---|---|---|
+|Upto June 30, 2018|4 per cent per annum (simple interest)|DBOD.No.DEAFCell.BC.126/30.01.0 02/2013-14 dated June 26, 2014|
+|July 1, 2018 up to May 10, 2021|3.5 per cent per annum (simple interest)|DBR.DEAFundCell.BCNo.110/30.01. 002/2017-18 dated June 07, 2018|
+|May 11, 2021 onwards|3 per cent per annum (simple interest)|DoR.DEA.REC.No.16/30.01.002/202 1-22 dated May 11, 2021|
+
+The amount of interest payable in this behalf shall be calculated in the manner specified in paragraph 4 (ii) of the Scheme and by rounding off the amount of interest to the nearest rupee.
+
+# Withdrawn

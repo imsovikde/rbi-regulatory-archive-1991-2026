@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2025_DOR_SOG_LEG_REC_32_09_08_024_2025-26"
+title: "Inoperative Accounts / Unclaimed Deposits in Banks - Revised Instructions (Amendment) 2025"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT51DBAEE225F2C146A387F924D11F548CB6.PDF"
+pdf_sha256: "5e6aecfbb02388a83bae25545c739d090bafde9cd7089f50fe29ad94c78e53f3"
+md_sha256: "1ae4dc946921c9d010b82548d6d1dac1ad344c0ff215821307416734249fc6f9"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:58:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-12_Circular_DOR.SOG%28LEG%29.REC-32-09.08.024-2025-26_Inoperative%20Accounts%20-%20Unclaimed%20Deposits%20in%20Banks%20-%20Revised%20Instructions%20%28Amendment%29%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inoperative Accounts / Unclaimed Deposits in Banks - Revised Instructions (Amendment) 2025
+
+<!-- PAGE 1 -->
+
+RBI/2025-26/52 DOR.SOG(LEG).REC/32/09.08.024/2025-26 June 12, 2025
+
+All Commercial Banks (including RRBs) and all Co-operative Banks
+
+## Madam/ Dear Sir
+
+## Inoperative Accounts/ Unclaimed Deposits in Banks - Revised Instructions (Amendment) 2025
+
+As per instructions, issued vide <u>circular DOR.SOG(LEG).REC/64/ 09.08.024/2023-</u> <u>24 dated January 1, 2024</u> (hereinafter called the extant instructions), the credit balance in any deposit account maintained with banks, which have not been operated upon for ten years or more, or any amount remaining unclaimed for ten years or more, as mentioned in paragraph 3(iii) of the “<u>Depositor Education and Awareness” (DEA)</u> <u>Fund Scheme, 2014</u>, are required to be transferred by banks to DEA Fund maintained by the Reserve Bank of India. There is a need to enable Business Correspondents to facilitate updation of KYC.
+
+# Withdrawn
+
+**2.** Accordingly, in exercise of the powers conferred by sections 35A of the Banking Regulation Act, 1949 read with sections 26A, 51 and 56 of the Act *ibid* and all other provisions of this Act or any other laws enabling Reserve Bank to issue instructions in this regard, these instructions are being issued to amend the extant instructions as given hereunder.
+**3.** (i) These instructions shall be called the Inoperative Accounts/ Unclaimed Deposits in Banks – Revised Instructions (Amendment), 2025. (ii) The amended instructions shall come into force with immediate effect.
+**4.** In the extant instructions, the paragraph 6.1 is hereby substituted by the following, namely: “6.1 A bank shall make available the facility of updation of KYC for activation of inoperative accounts and unclaimed deposits at all branches (including non-home
+
+<!-- PAGE 2 -->
+
+branches). Further, a bank shall endeavour to provide the facility of updation of KYC in such accounts and deposits through Video-Customer Identification Process (V- CIP). The V-CIP related instructions under <u>Master Direction-Know Your Customer</u> <u>(KYC) Direction, 2016 dated February 25, 2016</u> (as updated from time to time) shall be adhered to by the bank. Additionally, the services of an authorised Business Correspondent of the bank may be utilized for activation of inoperative accounts as prescribed in paragraph 38(a)(iia) of the above Master Direction.”.
+
+## Yours faithfully
+
+(Usha Janakiraman) Chief General Manager-in-Charge
+
+# Withdrawn
