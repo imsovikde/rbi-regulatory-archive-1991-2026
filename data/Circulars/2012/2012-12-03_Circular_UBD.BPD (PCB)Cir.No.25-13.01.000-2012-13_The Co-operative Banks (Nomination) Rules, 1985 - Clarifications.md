@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_PCB_Cir_No_25_13_01_000_2012-13"
+title: "The Co-operative Banks (Nomination) Rules, 1985 - Clarifications"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/C25_03122012.PDF"
+pdf_sha256: "a1f52ce45ef1c3352dd3334be6520c7cd9990ffe919763efaaab2516253a0285"
+md_sha256: "73549014206ac23e6ca80550ad29c333a66075efe82bc60c3a19f17885c601b6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:53:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-12-03_Circular_UBD.BPD%20%28PCB%29Cir.No.25-13.01.000-2012-13_The%20Co-operative%20Banks%20%28Nomination%29%20Rules%2C%201985%20-%20Clarifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Co-operative Banks (Nomination) Rules, 1985 - Clarifications
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+**____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+RBI/2012-13/313
+
+UBD.BPD (PCB) Cir.No. 25 /13.01.000//2012-13 December 3, 2012
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## <u>The Co-operative Banks (Nomination) Rules, 1985 - Clarifications</u>
+
+As you are aware, the Co-operative Banks (Nomination) Rules, 1985 have been framed in exercise of powers conferred under Section 52, read with Sections 45-ZA, 45-ZC, 45-ZE and 56 of the Banking Regulation Act, 1949 (10 of 1949). The nomination forms for bank deposits (Form No.DA1, DA2, and DA3), articles in safe custody (Form No.SC1, SC2, SC3) and safety lockers (Form No. SL1, SL1A, SL2, SL3 and SL3A) have also been prescribed in the Nomination Rules. These forms, inter alia prescribe that the thumb impression of the account holder is required to be attested by two witnesses.
+
+2. In this regard, certain queries were received from some banks and we clarify that for the various Forms (DA1, DA2, and DA3 for Bank Deposits, Forms SC1, SC2 and SC3Withdrawn for articles in safe custody and Forms SL1, SL1A, SL2, SL3 and SL3A for Safety Lockers) prescribed under the Co-operative Banks (Nomination) Rules, 1985 only Thumb-impression(s) shall be attested by two witnesses. The signatures of the account holders need not be attested by witnesses.
+3. Banks are advised to ensure strict compliance of the instructions as per the clarification given above. Yours faithfully, (A. Udgata) Chief General Manager-in-Charge शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 <u>4030 / 2492</u> 0231; Email: cgmincubd@rbi.org.in
+<u>बक ����� म पऽाचार का ःवागत करता है —</u>
+
+|चेतावनी: भारतीय|रज़व|बक ारा|ई-मेल, डाक,|एसएमएस या|फोन कॉल के|जरये कोई भी|यगत जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|नहं माँगा|जाता है। यह keeps or offers funds to anyone. Please do not respond in any manner to such offers.|धन रखने|या देने का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|ूकार से जवाब|मत द�जए।||
+
+भी

@@ -1,0 +1,537 @@
+---
+doc_id: "Circulars_2012_DBOD_BP_No_56_21_04_098_2012-13"
+title: "Liquidity Risk Management by Banks"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CLRMB071112_F.PDF"
+pdf_sha256: "d0a0fcf6bf1c764985ab2f1cebda276d6408223b3d35271651d613239cc8a987"
+md_sha256: "0988a18abb2f9c7ab7cebd616cf6b01535baff704128440999291ac978567b1f"
+total_pages: 31
+native_pages: 30
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:52:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-11-07_Circular_DBOD.BP.No.56-21.04.098-2012-13_Liquidity%20Risk%20Management%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Risk Management by Banks
+
+<!-- PAGE 1 -->
+
+HRd
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBINo.2012-13/285
+
+DBOD.BP.No.56/21.04.098/2012-13
+
+November 7,2012
+
+The Chairmen and Managing Directors / Chief Executive Officers of
+
+All Commercial Banks (Excluding RRBs and LABs)
+
+Madam/Dear Sir,
+
+Liquidity RiskManagementby Banks
+
+Please refer to paragraphs 91 to 93 (extract enclosed) of the Monetary Policy Statement
+
+2012-13 announced on April 17, 2012 regarding
+
+final guidelines on Liquidity Risk
+
+Management and Basel Ill Framework on Liquid?
+
+tandards. It may be recalled that based
+
+Risk Management and Supervision as well
+
+asBaselIll:InternationalFramewor
+
+LiquidityRiskMeasurement，Standardsand
+
+Monitoringpublished by theBasel
+
+ittee onBanking Supervision(BCBS) inSeptember
+
+2008 and December 2010 respectively, the Reserve Bank had placed the draft guidelines on
+
+Liquidity Risk Management and Basel ll Framework on Liquidity Standards on its website in
+
+February 2012 for comments and feedback.
+
+2. Taking into account the comments and feedback received, the guidelines on Liquidity Risk
+
+m    s
+
+consolidate the various instructions/guidance on liquidity risk management that the Reserve
+
+Bank has issued from time to time in the past, and where appropriate, harmonise and
+
+enhance these instructions/guidance in line with the BCBS's Principles for Sound Liquidity
+
+Risk Management and Supervision. They include enhanced guidance on liquidity
+
+risk governance,measurement, monitoring and the reporting to the Reserve Bank on
+
+implemented by banks immediately.
+
+12400001
+
+Department of Banking Operations and Development,Central Office,12thFloor,Central
+
+OfficeBuilding,ShahidBhagat SinghMarg,Mumbai,400001
+
+/Tel No:22661602a/FaxNo:22705691 EmailID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. The Basel III liquidity standards are currently subject to an observation period/revision by the BCBS with a view to addressing any unintended consequences that the standard may have for financial market, credit extension and economic growth. Therefore, the final guidelines on Basel III liquidity framework will be issued once BCBS revises the framework. Yours faithfully, (Deepak Singhal) Chief General Manager in-Charge
+## Encl: As above
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## <u>Extract from Monetary Policy Statement 2012-13 announced on April 17, 2012</u>
+
+## Implementation of Liquidity Risk Management and Basel III Framework on Liquidity Standards
+
+91. Based on the documents Principles for Sound Liquidity Risk Management and Supervision as well as Basel III: International Framework for Liquidity Risk Measurement, Standards and Monitoring published by the Basel Committee on Banking Supervision (BCBS) in September 2008 and December 2010 respectively, the Reserve Bank prepared draft guidelines on Liquidity Risk Management and Basel III Framework on Liquidity Standards, which were placed on its website in February 2012 for comments and feedback.
+92. The draft guidelines consolidate the various instructions/guidance on liquidity risk management that the Reserve Bank has issued from time to time in the past, and where appropriate, harmonises and enhances these instructions/guidance in line with the BCBS’s Principles for Sound Liquidity Risk Management and Supervision. They include enhanced guidance on liquidity risk governance, measurement, monitoring and the reporting to the Reserve Bank on liquidity positions. The draft guidelines also cover two minimum global regulatory standards, viz., liquidity coverage ratio (LCR) and net stable funding ratio (NSFR) as set out in the Basel III rules text.
+93. While the enhanced liquidity risk management measures are to be implemented by
+# Withdrawn
+
+banks immediately after finalisation of the draft guidelines, the Basel III regulatory standards, viz., LCR and NSFR, will be binding on banks from January 1, 2015 and January 1, 2018, respectively. Till then, banks will have to comply with Basel III guidelines on a best effort basis. This will prepare banks for transition to the Basel III requirements. It is proposed:
+
+- to issue the final guidelines on liquidity risk management and Basel III framework on liquidity standards by end-May 2012, after taking into account the suggestions/ feedback received.
+
+<!-- PAGE 4 -->
+
+## Annex
+
+## Guidelines on Liquidity Risk Management by Banks
+
+## Introduction
+
+Liquidity is a bank’s capacity to fund increase in assets and meet both expected and unexpected cash and collateral obligations at reasonable cost and without incurring unacceptable losses. Liquidity risk is the inability of a bank to meet such obligations as they become due, without adversely affecting the bank’s financial condition. Effective liquidity risk management helps ensure a bank’s ability to meet its obligations as they fall due and reduces the probability of an adverse situation developing. This assumes significance on account of the fact that liquidity crisis, even at a single institution, can have systemic implications.
+
+2. Liquidity risk for banks mainly manifests on account of the following:
+(i) **Funding Liquidity Risk** – the risk that a bank will not be able to meet efficiently the expected and unexpected current and future cash flows and collateral needs without affecting either its daily operations or its financial condition. (ii) **Market Liquidity Risk –** the risk that a bank cannot easily offset or eliminate a position at the prevailing market price because of inadequate market depth or market disruption.
+# Withdrawn
+
+3. The recent events have brought to the fore several deficiencies in liquidity risk management by banks, which include insufficient holdings of liquid assets, funding risky or illiquid asset portfolios with potentially volatile short term liabilities, and a lack of meaningful cash flow projections and liquidity contingency plans. After the global financial crisis, in recognition of the need for banks to improve their liquidity risk management, the Basel Committee on Banking Supervision (BCBS) published *“Principles for Sound Liquidity Risk Management* *and Supervision”* in September 2008. While the complete document is enclosed as <u>Appendix</u> <u>I</u>**,** the broad principles for sound liquidity risk management by banks as envisaged by BCBS are as under:
+
+<!-- PAGE 5 -->
+
+||Fundamental principle for the management and supervision of liquidity risk|
+|---|---|
+|Principle 1|A bank is responsible for the sound management of liquidity risk. A bank should establish a robust liquidity risk management framework that ensures it maintains sufficient liquidity, including a cushion of unencumbered, high quality liquid assets, to withstand a range of stress events, including those involving the loss or impairment of both unsecured and secured funding sources. Supervisors should assess the adequacy of both a bank’s liquidity risk management framework and its liquidity position and should take prompt action if a bank is deficient in either area in order to protect depositors and to limit potential damage to the financial system. Governance of liquidity risk management|
+|Principle 2|A bank should clearly articulate a liquidity risk tolerance that is appropriate for its business strategy and its role in the financial system.|
+|Principle 3|Senior management should develop a strategy, policies and practices to manage liquidity risk in accordance with the risk tolerance and to ensure that the bank maintains sufficient liquidity. Senior management should continuously review information on the bank’s liquidity developments and report to the board of directors on a regular basis. A bank’s board of directors should review and approve the strategy, policies and practices Withdrawn related to the management of liquidity at least annually and ensure that senior management manages liquidity risk effectively.|
+|Principle 4|A bank should incorporate liquidity costs, benefits and risks in the internal pricing, performance measurement and new product approval process for all significant business activities (both on- and off-balance sheet), thereby aligning the risk-taking incentives of individual business lines with the liquidity risk exposures their activities create for the bank as a whole. Measurement and management of liquidity risk|
+|Principle 5|A bank should have a sound process for identifying, measuring, monitoring and controlling liquidity risk. This process should include a robust framework for comprehensively projecting cash flows arising from assets, liabilities and off-balance sheet items over an appropriate set of time horizons.|
+|Principle 6|A bank should actively monitor and control liquidity risk exposures and|
+
+<!-- PAGE 6 -->
+
+||funding needs within and across legal entities, business lines and currencies, taking into account legal, regulatory and operational limitations to the transferability of liquidity.|
+|---|---|
+|Principle 7|A bank should establish a funding strategy that provides effective diversification in the sources and tenor of funding. It should maintain an ongoing presence in its chosen funding markets and strong relationships with funds providers to promote effective diversification of funding sources. A bank should regularly gauge its capacity to raise funds quickly from each source. It should identify the main factors that affect its ability to raise funds and monitor those factors closely to ensure that estimates of fund raising capacity remain valid.|
+|Principle 8|A bank should actively manage its intraday liquidity positions and risks to meet payment and settlement obligations on a timely basis under both normal and stressed conditions and thus contribute to the smooth functioning of payment and settlement systems.|
+|Principle 9|A bank should actively manage its collateral positions, differentiating between encumbered and unencumbered assets. A bank should monitor the legal entity and physical location where collateral is held and how it may be mobilised in a timely manner. Withdrawn|
+|Principle 10|A bank should conduct stress tests on a regular basis for a variety of short- term and protracted institution-specific and market-wide stress scenarios (individually and in combination) to identify sources of potential liquidity strain and to ensure that current exposures remain in accordance with a bank’s established liquidity risk tolerance. A bank should use stress test outcomes to adjust its liquidity risk management strategies, policies, and positions and to develop effective contingency plans.|
+|Principle 11|A bank should have a formal contingency funding plan (CFP) that clearly sets out the strategies for addressing liquidity shortfalls in emergency situations. A CFP should outline policies to manage a range of stress environments, establish clear lines of responsibility, include clear invocation and escalation procedures and be regularly tested and updated to ensure that it is operationally robust.|
+|Principle|A bank should maintain a cushion of unencumbered, high quality liquid assets to be held as insurance against a range of liquidity stress scenarios,|
+
+<!-- PAGE 7 -->
+
+|12|including those that involve the loss or impairment of unsecured and typically available secured funding sources. There should be no legal, regulatory or operational impediment to using these assets to obtain funding.|
+|---|---|
+|Public disclosure||
+|Principle 13|A bank should publicly disclose information on a regular basis that enables market participants to make an informed judgment about the soundness of its liquidity risk management framework and liquidity position.|
+
+Thus, a sound liquidity risk management system would envisage that:
+
+i) A bank should establish a robust liquidity risk management framework. ii) The Board of Directors (BoD) of a bank should be responsible for sound management of liquidity risk and should clearly articulate a liquidity risk tolerance appropriate for its business strategy and its role in the financial system. iii) The BoD should develop strategy, policies and practices to manage liquidity risk in accordance with the risk tolerance and ensure that the bank maintains sufficient liquidity. The BoD should review the strategy, policies and practices at least annually. iv) Top management/ALCO should continuously review information on bank’s liquidity
+# Withdrawn
+
+developments and report to the BoD on a regular basis.
+
+v) A bank should have a sound process for identifying, measuring, monitoring and controlling liquidity risk, including a robust framework for comprehensively projecting cash flows arising from assets, liabilities and off-balance sheet items over an appropriate time horizon. vi) A bank’s liquidity management process should be sufficient to meet its funding needs and cover both expected and unexpected deviations from normal operations. vii) A bank should incorporate liquidity costs, benefits and risks in internal pricing, performance measurement and new product approval process for all significant business activities. viii) A bank should actively monitor and manage liquidity risk exposure and funding needs within and across legal entities, business lines and currencies, taking into account legal, regulatory and operational limitations to transferability of liquidity. ix) A bank should establish a funding strategy that provides effective diversification in the source and tenor of funding, and maintain ongoing presence in its chosen funding markets and counterparties, and address inhibiting factors in this regard.
+
+<!-- PAGE 8 -->
+
+x) Senior management should ensure that market access is being actively managed, monitored, and tested by the appropriate staff. xi) A bank should identify alternate sources of funding that strengthen its capacity to withstand a variety of severe bank specific and market-wide liquidity shocks. xii) A bank should actively manage its intra-day liquidity positions and risks. xiii) A bank should actively manage its collateral positions. xiv) A bank should conduct stress tests on a regular basis for short-term and protracted institution-specific and market-wide stress scenarios and use stress test outcomes to adjust its liquidity risk management strategies, policies and position and develop effective contingency plans. xv) Senior management of banks should monitor for potential liquidity stress events by using early warning indicators and event triggers. Early warning signals may include, but are not limited to, negative publicity concerning an asset class owned by the bank, increased potential for deterioration in the bank’s financial condition, widening debt or credit default swap spreads, and increased concerns over the funding of off- balance sheet items. xvi) To mitigate the potential for reputation contagion, a bank should have a system of effective communication with counterparties, credit rating agencies, and other stakeholders when liquidity problems arise. xvii) A bank should have a formal contingency funding plan (CFP) that clearly sets out the strategies for addressing liquidity shortfalls in emergency situations. A CFP should delineate policies to manage a range of stress environments, establish clear lines of responsibility, andWithdrawn articulate clear implementation and escalation procedures. xviii) A bank should maintain a cushion of unencumbered, high quality liquid assets to be held as insurance against a range of liquidity stress scenarios. xix) A bank should publicly disclose its liquidity information on a regular basis that enables market participants to make an informed judgment about the soundness of its liquidity risk management framework and liquidity position. Certain critical issues in respect of the bank’s liquidity risk management systems and the
+## related guidance are as follows:
+
+## Governance of Liquidity Risk Management
+
+4. The Reserve Bank had issued guidelines on Asset Liability Management (ALM) system, covering inter alia liquidity risk management system, in February 1999 and October 2007. Successful implementation of any risk management process has to emanate from the top management in the bank with the demonstration of its strong commitment to integrate basic
+
+<!-- PAGE 9 -->
+
+operations and strategic decision making with risk management. Ideally, the organisational set up for liquidity risk management should be as under:
+
+* The Board of Directors (BoD)
+* The Risk Management Committee
+* The Asset-Liability Management Committee (ALCO)
+* The Asset Liability Management (ALM) Support Group
+5. The BoD should have the overall responsibility for management of liquidity risk. The Board should decide the strategy, policies and procedures of the bank to manage liquidity risk in accordance with the liquidity risk tolerance/limits as detailed in paragraph 14. The risk tolerance should be clearly understood at all levels of management. The Board should also ensure that it understands the nature of the liquidity risk of the bank including liquidity risk profile of all branches, subsidiaries and associates (both domestic and overseas), periodically reviews information necessary to maintain this understanding, establishes executive-level lines of authority and responsibility for managing the bank’s liquidity risk, enforces management’s duties to identify, measure, monitor, and manage liquidity risk and formulates/reviews the contingent funding plan.
+6. The Risk Management Committee, which reports to the Board, consisting of Chief Executive Officer (CEO)/Chairman and Managing
+# Withdrawn
+
+Director (CMD) and heads of credit, market and operational risk management committee should be responsible for evaluating the overall risks faced by the bank including liquidity risk. The potential interaction of liquidity risk with other risks should also be included in the risks addressed by the risk management committee.
+
+7. The Asset-Liability Management Committee (ALCO) consisting of the bank’s top management should be responsible for ensuring adherence to the risk tolerance/limits set by the Board as well as implementing the liquidity risk management strategy of the bank in line with bank’s decided risk management objectives and risk tolerance.
+8. To ensure commitment of the top management and timely response to market dynamics, the CEO/CMD or the Executive Director (ED) should head the Committee. The Chiefs of Investment, Credit, Resource Management or Planning, Funds Management / Treasury (forex and domestic), International Banking and Economic Research may be members of the Committee. In addition, the Head of the Technology Division should also be an invitee for building up of MIS and related computerization. Some banks may even have Sub-Committees
+
+<!-- PAGE 10 -->
+
+and Support Groups. The size (number of members) of ALCO would depend on the size of each institution, business mix and organizational complexity.
+
+9. The role of the ALCO with respect to the liquidity risk should include, *inter alia*, the following:-
+i. Deciding on desired maturity profile and mix of incremental assets and liabilities. ii. Deciding on source and mix of liabilities or sale of assets. Towards this end, it will have to develop a view on future direction of interest rate movements and decide on funding mixes between fixed v/s floating rate funds, wholesale v/s retail deposits, money market v/s capital market funding, domestic v/s foreign currency funding, etc. ALCO should be aware of the composition, characteristics and diversification of the bank’s assets and funding sources and should regularly review the funding strategy in the light of any changes in the internal or external environments.
+iii. Determining the structure, responsibilities and controls for managing liquidity risk and for overseeing the liquidity positions of all branches and legal entities like subsidiaries, joint ventures and associates in which a bank is active, and outline these elements clearly in the bank’s liquidity policy. iv. Ensuring operational independence of Liquidity Risk Management function, with adequate support of skilled and experienced officers.
+
+v. Ensuring adequacy of cash flow proj
+# Withdrawn
+
+ections and the assumptions used. vi. Reviewing the stress test scenarios including the assumptions as well as the results of the stress tests and ensuring that a well documented contingency funding plan is in place which is reviewed periodically. vii. Deciding the transfer pricing policy of the bank and making liquidity costs and benefits an integral part of bank’s strategic planning. viii. Regularly reporting to the BoD and Risk Management Committee on the liquidity risk profile of the bank.
+
+10. ALCO should have a thorough understanding of the close links between funding liquidity risk and market liquidity risk, as well as how other risks including credit, market, operational and reputational risks affect the bank’s overall liquidity risk strategy. Liquidity risk can often arise from perceived or actual weaknesses, failures or problems in the management of other risk types. It should, therefore, identify events that could have an impact on market and public perceptions about its soundness and reputation.
+
+<!-- PAGE 11 -->
+
+11. The ALM Support Group consisting of operating staff should be responsible for analysing, monitoring and reporting the liquidity risk profile to the ALCO. The group should also prepare forecasts (simulations) showing the effect of various possible changes in market conditions on the bank’s liquidity position and recommend action needed to be taken to maintain the liquidity position/adhere to bank’s internal limits. *Liquidity Risk Management Policy, Strategies and Practices*
+12. The first step towards liquidity management is to put in place an effective liquidity risk management policy, which inter alia, should spell out the liquidity risk tolerance, funding strategies, prudential limits, system for measuring, assessing and reporting / reviewing liquidity, framework for stress testing, liquidity planning under alternative scenarios/formal contingent funding plan, nature and frequency of management reporting, periodical review of assumptions used in liquidity projection, etc. The policy should also address liquidity separately for individual currencies, legal entities like subsidiaries, joint ventures and associates, and business lines, when appropriate and material, and should place limits on transfer of liquidity keeping in view the regulatory, legal and operational constraints.
+13. The BoD or its delegated committee of board members should oversee the establishment and approval of policies, strategies and procedures to manage liquidity risk, and review them at least annually.
+# Withdrawn
+
+*Liquidity Risk Tolerance*
+
+14. Banks should have an explicit liquidity risk tolerance set by the Board of Directors. The risk tolerance should define the level of liquidity risk that the bank is willing to assume, and should reflect the bank’s financial condition and funding capacity. The tolerance should ensure that the bank manages its liquidity in normal times in such a way that it is able to withstand a prolonged period of, both institution specific and market wide stress events. The risk tolerance articulation by a bank should be explicit, comprehensive and appropriate as per its complexity, business mix, liquidity risk profile and systemic significance. They may also be subject to sensitivity analysis. The risk tolerance could be specified by way of fixing the tolerance levels for various maturities under flow approach depending upon the bank’s liquidity risk profile as also for various ratios under stock approach. Risk tolerance may also be expressed in terms of minimum survival horizons (without Central Bank or Government intervention) under a range of severe but plausible stress scenarios, chosen to reflect the
+
+<!-- PAGE 12 -->
+
+particular vulnerabilities of the bank. The key assumptions may be subject to a periodic review by the Board.
+
+## Strategy for Managing Liquidity Risk
+
+15. The strategy for managing liquidity risk should be appropriate for the nature, scale and complexity of a bank’s activities. In formulating the strategy, banks/banking groups should take into consideration its legal structures, key business lines, the breadth and diversity of markets, products, jurisdictions in which they operate and home and host country regulatory requirements, etc. Strategies should identify primary sources of funding for meeting daily operating cash outflows, as well as expected and unexpected cash flow fluctuations.
+## Management of Liquidity Risk
+
+16. A bank should have a sound process for identifying, measuring, monitoring and mitigating liquidity risk as enumerated below: *Identification*
+17. A bank should define and identify the liquidity risk to which it is exposed for each major on and off-balance sheet position, including thWithdrawne effect of embedded options and other contingent exposures that may affect the bank’s sources and uses of funds and for all currencies in which a bank is active.
+## Measurement – Flow Approach
+
+18. Liquidity can be measured through stock and flow approaches. Flow approach measurement involves comprehensive tracking of cash flow mismatches. For measuring and managing net funding requirements, the format prescribed by the RBI i.e. the statement of structural liquidity under ALM System for measuring cash flow mismatches at different time bands should be adopted. The cash flows are required to be placed in different time bands based on the residual maturity of the cash flows or the projected future behaviour of assets, liabilities and off-balance sheet items. The difference between cash inflows and outflows in each time period thus becomes a starting point for the measure of a bank’s future liquidity surplus or deficit, at a series of points of time.
+
+<!-- PAGE 13 -->
+
+19. Presently, banks are required to prepare domestic structural liquidity statement (Rupee) on a daily basis and report to RBI on a fortnightly basis. Further, structural liquidity statements in respect of overseas operations are also reported to RBI on quarterly basis. The structural liquidity statement has been revised and the revised formats of the statement and the guidance for slotting the future cash flows of banks in the time buckets are furnished as <u>Appendix II</u> **(Refer Liquidity Return, Part A1)** and <u>Appendix IVA</u>**,** respectively. The revised formats of statements of Structural Liquidity include five parts, viz. (i) ‘Domestic Currency – Indian Operations’, (ii) ‘Foreign Currency – Indian Operations’, (iii) ‘Combined Indian Operations – Domestic and Foreign Currency’ i.e. solo bank level, (iv) ‘Overseas branch Operations–Country-Wise’ and (v) ‘For Consolidated Bank Operations’.
+20. Tolerance levels/prudential limits for various maturities may be fixed by the bank’s Top Management depending on the bank’s asset-liability profile, extent of stable deposit base, the nature of cash flows, regulatory prescriptions, etc. In respect of mismatches in cash flows in the near term buckets, say up to 28 days, it should be the endeavour of the bank’s management to keep the cash flow mismatches at the minimum levels.
+21. Banks should analyse the behavioural maturity profile of various components of on / off-balance sheet items on the basis of assumptions and trend analysis supported by time
+# Withdrawn
+
+series analysis. The behavioural analysis, for example, may include the proportion of maturing assets and liabilities that the bank can rollover or renew, the behavior of assets and liabilities with no clearly specified maturity dates, potential cash flows from off- balance sheet activities, including draw down under loan commitments, contingent liabilities and market related transactions. Banks should undertake variance analysis, at least once in six months to validate the assumptions used in the behavioral analysis. The assumptions should be fine-tuned over a period which facilitate near reality predictions about future behaviour of on / off-balance sheet items.
+
+22. Banks should also track the impact of prepayments of loans, premature closure of deposits and exercise of options built in certain instruments which offer put/call options after specified times. Thus, cash outflows can be ranked by the date on which liabilities fall due, the earliest date a liability holder could exercise an early repayment option or the earliest date contingencies could be crystallised.
+
+<!-- PAGE 14 -->
+
+23. As assumptions play critical role in projections of cash flows and measuring liquidity risk, assumptions used should be reasonable, appropriate and adequately documented. They should be transparent to the Board/Risk Management Committee and periodically reviewed.
+## Measurement – Stock Approach
+
+24. Certain critical ratios in respect of liquidity risk management and their significance for banks are given in the **Table 1** below**.** Banks may monitor these ratios by putting in place
+1 an internally defined limit approved by the Board for these ratios. The industry averages for these ratios are given for information of banks. They may fix their own limits, based on their liquidity risk management capabilities, experience and profile. The stock ratios are meant for monitoring the liquidity risk at the solo bank level. Banks may also apply these ratios for monitoring liquidity risk in major currencies, viz. US Dollar, Pound Sterling, Euro and Japanese Yen at the solo bank level.
+
+# Withdrawn
+
+The industry average is based on 4 or 5 years average for the banking system (domestic operations data used - Committee on Financial Sector Assessment Report 2009).
+
+<!-- PAGE 15 -->
+
+**Table 1**
+
+## Ratio Significance
+
+|Sl.|||Industry|
+|---|---|---|---|
+|No.|||Average (in %)|
+|1. (Volatile liabilities –|Temporary Assets )/(Earning Assets – numerator represents short-term, interest sensitive Temporary Assets)|Measures the extent to which volatile money supports bank’s basic earning assets. Since the funds, a high and positive number implies some risk of illiquidity.|40|
+|2. Core deposits /Total Assets||Measures the extent to which assets are funded through stable deposit base.|50|
+|3.|(Loans + mandatory SLR + mandatory CRR + Fixed Assets )/Total Assets|Loans including mandatory cash reserves and statutory liquidity investments are least liquid and hence a high ratio signifies the degree of ‘illiquidity’ embedded in the balance sheet.|80|
+|4.|(Loans + mandatory SLR + mandatory CRR + Fixed Assets) / Core Deposits|Measure the extent to which illiquid assets are financed out of core deposits.|150|
+|5. Temporary Assets/Total|Assets|Measures the extent of available liquid assets. A higher ratio could impinge on the asset utilisation of banking system in terms of opportunity cost of holding liquidity.|40|
+|6.|Temporary Assets/ Volatile Liabilities|Measures the cover of liquid investments relative to volatile liabilities. A ratio of less than 1 indicates the possibility of a liquidity problem.|60|
+|7. Volatile Liabilities/Total|Assets|Measures the extent to which volatile liabilities fund the balance sheet.|60|
+
+**2**
+
+**3 4**
+
+**5**
+
+# Withdrawn
+
+## As mentioned above, the above stock ratios are only illustrative and banks could also use
+
+## other measures / ratios. For example to identify unstable liabilities and liquid asset
+
+## coverage ratios banks may include ratios of wholesale funding to total liabilities,
+
+2 **Volatile Liabilities:** (Deposits + borrowings and bills payable up to 1 year). Letters of credit – full outstanding. Component-wise CCF of other contingent credit and commitments. Swap funds (buy/ sell) up to one year. Current deposits (CA) and Savings deposits (SA) i.e. (CASA) deposits reported by the banks as payable within one year (as reported in structural liquidity statement) are included under volatile liabilities. Borrowings include from RBI, call, other institutions and refinance.
+
+3 **Temporary assets =**Cash + Excess CRR balances with RBI + Balances with banks + Bills purchased/discounted up to 1 year + Investments up to one year + Swap funds (sell/ buy) up to one year.
+
+**Earning Assets =** Total assets – (Fixed assets + Balances in current accounts with other banks + Other assets excluding leasing + Intangible assets) **Core deposits** = All deposits (including CASA) above 1 year (as reported in structural liquidity statement)+ net worth
+
+<!-- PAGE 16 -->
+
+potentially volatile retail (e.g. high cost or out of market) deposits to total deposits, and other liability dependency measures, such as short term borrowings as a percent of total funding.
+
+*Monitoring*
+
+25. While the mismatches in the structural liquidity statement up to one year would be relevant since these provide early warning signals of impending liquidity problems, the main focus should be on the short-term mismatches viz. say, up to 28 days. Banks, however, are expected to monitor their cumulative mismatches (running total) across all time buckets by establishing internal prudential limits with the approval of the Board / Risk Management Committee. The net cumulative negative mismatches in the domestic and overseas structural liquidity statement **(Refer Appendix II-Part A1 and Part B of** **Liquidity Return )** during the next day, 2-7 days, 8-14 days and 15-28 days bucket should not exceed 5%, 10%, 15%, 20% of the cumulative cash outflows in the respective time buckets. Banks may also adopt the above cumulative mismatch limits for their structural liquidity statement for consolidated bank operations **(Appendix II – Part C).**
+26. In order to enable banks to monitor their short-term liquidity on a dynamic basis over a time horizon spanning from 1-90 days, banks
+# Withdrawn
+
+are required to estimate their short-term liquidity profiles on the basis of business projections and other commitments for planning purposes as per the indicative format on estimating Short-Term Dynamic Liquidity prescribed by the RBI in its <u>circular DBOD. No. BP.BC. 8/21.04.098/99 dated February</u> <u>10, 1999</u> on ALM system read with the <u>circular DBOD.No.BP.BC.38/21.04.098/2007-08</u> <u>dated October 24, 2007</u> on ALM system amendments. The statement has been revised and the revised format is furnished as <u>Appendix III</u>**.** This will cover both domestic operations and overseas branch operations (jurisdiction wise and overall) of the bank. While estimating the liquidity profile in a dynamic way, due importance may be given to the:
+
+i. Seasonal pattern of deposits/loans; and ii. Potential liquidity needs for meeting new loan demands, unavailed credit limits, devolvement of contingent liabilities, potential deposit losses, investment obligations, statutory obligations, etc.
+
+<!-- PAGE 17 -->
+
+## Monitoring of Liquidity Standards
+
+27. Banks are required to adhere to the following regulatory limits prescribed to reduce the extent of concentration on the liability side of the banks.
+*(i) Inter-bank Liability (IBL) Limit* Currently, the IBL of a bank should not exceed 200% of its net worth as on 31st March of the previous year. However, individual banks may, with the approval of their BoDs, fix a lower limit for their inter-bank liabilities, keeping in view their business model. Banks whose Capital to Risk-weighted Assets Ratio (CRAR) is at least 25% more than the minimum CRAR (9%), i.e. 11.25% as on March 31, of the previous year, are allowed to have a higher limit up to 300% of the net worth for IBL. The limit prescribed above will include only fund based IBL within India (including inter-bank liabilities in foreign currency to banks operating within India). In other words, the IBL outside India are excluded. The above limits will not include collateralized borrowings under Collateralized Borrowing and Lending Obligation (CBLO) and refinance from NABARD, SIDBI, etc.
+## (ii) Call Money Borrowing Limit
+
+The limit on the call money borrowings as prescribed by RBI for Call/Notice Money Market Operations will operate as a sub-limit within the above IBL limits. At present, on a
+
+# Withdrawn
+
+fortnightly average basis, such borrowings should not exceed 100% of bank’s capital funds. However, banks are allowed to borrow a maximum of 125% of their capital funds on any day, during a fortnight.
+
+## (iii) Call Money Lending Limit
+
+Banks are also required to ensure adherence to the call money lending limit prescribed by RBI for Call/Notice Money Market Operations, which at present, on a fortnightly average basis, should not exceed 25% of its capital funds. However, banks are allowed to lend a maximum of 50% of their capital funds on any day, during a fortnight.
+
+28. Banks having high concentration of wholesale deposits (wholesale deposits for this purpose would be Rs. 15 lakh or any such higher threshold as approved by the banks’ Board) are expected to frame suitable policies to contain the liquidity risk arising out of excessive dependence on such deposits. Banks should also evolve a system for monitoring
+
+<!-- PAGE 18 -->
+
+high value deposits (other than inter-bank deposits) say Rs.1 crore or more to track the volatile liabilities, both in normal and stress situation.
+
+## Off-balance Sheet Exposures and Contingent Liabilities
+
+29. The management of liquidity risks relating to certain off-balance sheet exposures on account of special purpose vehicles, financial derivatives, and guarantees and commitments may be given particular importance due to the difficulties that many banks have in assessing the related liquidity risks that could materialise in times of stress. Thus, the cash flows arising out of contingent liabilities in normal situation and the scope for increase in cash flows during periods of stress should also be estimated and monitored.
+30. In case of securitization transactions, an originating bank should monitor, at the inception and throughout the life of the transaction, potential risks arising from the extension of liquidity facilities to securitisation programmes. A bank’s processes for measuring contingent funding risks should also consider the nature and size of the bank’s potential non-contractual obligations; as such obligations can give rise to the bank supporting related off-balance sheet vehicles in times of stress. This is particularly true of securitisation programmes where the bank considers such support critical to maintaining ongoing access to funding. Similarly, in times of stress, reputational concerns might prompt a bank to purchase assets from money market or other investment funds that it manages or with which it is otherwise affiliated.
+# Withdrawn
+
+31. Where a bank provides contractual liquidity facilities to an SPV, or where it may otherwise need to support the liquidity of an SPV under adverse conditions, the bank needs to consider how the bank’s liquidity might be adversely affected by illiquidity at the SPV. In such cases, the bank should monitor the SPV’s inflows (maturing assets) and outflows (maturing liabilities) as part of the bank’s own liquidity planning, including in its stress testing and scenario analyses. In such circumstances, the bank should assess its liquidity position with the SPV’s net liquidity deficits (net liquidity surplus to the SPV to be ignored since such surplus in a SPV will not increase the liquidity position of the bank).
+32. With respect to the use of securitization SPVs as a source of funding, a bank needs to consider whether these funding vehicles will continue to be available to the bank under adverse scenarios. A bank experiencing adverse liquidity conditions often will not have continuing access to the securitization market as a funding source and should reflect this appropriately in its prospective liquidity management framework.
+
+<!-- PAGE 19 -->
+
+## Collateral Position Management
+
+33. A bank should have sufficient collateral to meet expected and unexpected borrowing needs and potential increases in margin requirements over different timeframes, depending upon the bank’s funding profile. A bank should also consider the potential for operational and liquidity disruptions that could necessitate the pledging or delivery of additional intra-day collateral.
+34. A bank should have proper systems and procedure to calculate all of its collateral positions in a timely manner, including the value of assets currently pledged relative to the amount of security required and unencumbered assets available to be pledged and monitor them on an ongoing basis. A bank should also be aware of the operational and timing requirements associated with accessing the collateral given its physical location.
+## Intra-day Liquidity Position Management
+
+35. A bank’s failure to effectively manage intra-day liquidity could lead to default in meeting its payment obligations in time, which may affect not only its own liquidity position but also that of its counterparties. In the face of credit concerns or general market stress, counterparties may view the failure to settle payments as a sign of financial weakness and in turn, withhold or delay payments to the bank causing additional liquidity pressures. Given the inter- dependencies that exist among systems, this may
+# Withdrawn
+
+lead to liquidity dislocations that cascade quickly across many systems and institutions. As such, the management of intra-day liquidity risk should be considered as a crucial part of liquidity risk management of the bank.
+
+36. A bank should develop and adopt an intra-day liquidity strategy that allows it to monitor and measure expected daily gross liquidity inflows and outflows and ensure that arrangements to acquire sufficient intraday funding to meet its intraday needs is in place and it has the ability to deal with unexpected disruptions to its liquidity flows. An effective management of collateral is essential component of intra-day liquidity strategy. In this regard banks may initially be guided by the consultative document of Basel Committee on Banking Supervision on ‘Monitoring indicators for intraday liquidity management’ issued in July 2012 (available at <u>[http://www.bis.org/publ/bcbs225.pdf](http://www.bis.org/publ/bcbs225.pdf)</u>) and thereafter the final document as and when it is issued.
+37. A bank should have policies, procedures and systems to support the intra-day liquidity risk management in all of the financial markets and currencies in which it has significant payment
+
+<!-- PAGE 20 -->
+
+and settlement flows, including when it chooses to rely on correspondents or custodians to conduct payment and settlement activities.
+
+38. The intra-day liquidity risk management requirements as mentioned above should be put in place at the earliest and will be applicable for banks with effect from December 31, 2012 in respect of rupee liquidity and with effect from June 30, 2013 in respect of any significant foreign currencies.
+## Incorporation of Liquidity Costs, Benefits and Risks in the Internal Pricing
+
+39. A scientifically evolved internal transfer pricing model by assigning values on the basis of current market rates to funds provided and funds used is an important component for effective implementation of Liquidity Risk Management System. The liquidity costs and benefits should therefore be an integral part of bank’s strategy planning.
+40. Banks should endeavor to develop a process to quantify liquidity costs and benefits so that these same may be incorporated in the internal product pricing, performance measurement and new product approval process for all material business lines, products and activities. This will help in aligning the risk taking incentives with the liquidity risk exposure and Board approved risk tolerance of individual business lines.
+## Funding Strategy-Diversified Funding
+
+# Withdrawn
+
+41. A bank should establish a funding strategy that provides effective diversification in the sources and tenor of funding. It should maintain an ongoing presence in its chosen funding markets and strong relationships with fund providers to promote effective diversification of funding sources. A bank should regularly gauge its capacity to raise funds quickly from each source. It should identify the main factors that affect its ability to raise funds and monitor those factors closely to ensure that estimates of fund raising capacity remain valid. These factors may also be incorporated in the bank’s stress test scenario and contingent funding plan.
+42. Over-reliance on a single source of funding should be avoided. Funding strategy should also take into account the qualitative dimension of the concentrated behavior of deposit withdrawal in typical market conditions and overdependence on non-deposit funding sources arising out of unique business model. Funding diversification may be implemented by way of placing limits (say by tenor, counterparty, secured versus unsecured market funding, instrument type, currency wise, geographic market wise, and securitization, etc.).
+
+<!-- PAGE 21 -->
+
+## Liquidity risk due to Intra Group transfers
+
+43. Intra-group transactions occur when entities within a Group carry out operations among themselves. The key advantage is that the Intra-Group transactions and exposures (ITEs) facilitate synergies within the Group resulting in cost efficiencies. Such transactions may be undertaken to improve inter-alia liquidity risk management, and for effective control of funding. The Joint Forum (formed under the aegis of Basel Committee on Banking Supervision, International Organization of Securities Commissions and International Association of Insurance Supervisors) in its December 1999 paper on ITEs has emphasized that mere presence of ITEs is not a matter of supervisory concern. They should be seen as a means to an end which can be either beneficial or harmful to regulated entities in a conglomerate. But with a view to recognizing the likely increased risk arising due to ITEs:
+(i) The head of the Group financial conglomerate should develop and maintain liquidity management processes and funding programmes that are consistent with the complexity, risk profile, and scope of operations of the financial conglomerate. (ii) The liquidity risk management processes and funding programmes should take into account lending, investment, and other activities, and ensure that adequate liquidity is maintained at the head and each constituent entity within the financial conglomerate. Processes and programmes should fully incorporate real and potential constraints, includi
+# Withdrawn
+
+ng legal and regulatory restrictions, on the transfer of funds among these entities and between these entities and the head. (iii) The liquidity risks should be managed by banks with: 1) effective governance and management oversight as appropriate; 2) adequate policies, procedures, and limits on risk taking; and 3) strong management information systems for measuring, monitoring, reporting, and controlling liquidity risks.
+
+## Stress Testing
+
+44. Stress testing should form an integral part of the overall governance and liquidity risk management culture in banks. A stress test is commonly described as an evaluation of the financial position of a bank under a severe but plausible scenario to assist in decision making within the bank. Stress testing alerts bank’s management to adverse unexpected outcomes as it provides forward looking assessment of risk and facilitates better planning to address the vulnerabilities identified. The Reserve Bank has issued guidelines to banks on stress testing in
+
+<!-- PAGE 22 -->
+
+June 2007 (Ref. <u>DBOD. No. BP.BC. 101/21.04.103/2006-07 dated June 26, 2007</u>), which requires banks to have in place a Board approved “stress testing framework”. Banks should ensure that the framework as detailed in the guidelines and as specified below is put in place.
+
+## Scenarios and Assumptions
+
+45. A bank should conduct stress tests on a regular basis for a variety of short term and protracted bank specific and market wide stress scenarios (individually and in combination). In designing liquidity stress scenarios, the nature of the bank’s business, activities and vulnerabilities should be taken into consideration so that the scenarios incorporate the major funding and market liquidity risks to which the bank is exposed. These include risks associated with its business activities, products (including complex financial instruments and off-balance sheet items) and funding sources. The defined scenarios should allow the bank to evaluate the potential adverse impact these factors can have on its liquidity position. While historical events may serve as a guide, a bank’s judgment also plays an important role in the design of stress tests.
+46. The bank should specifically take into account the link between reductions in market liquidity and constraints on funding liquidity. This is particularly important for banks with significant market share in, or heavy reliance upon, specific funding markets. It should also consider the insights and results of stress tests performed for various other risk types when
+# Withdrawn
+
+stress testing its liquidity position and consider possible interactions with these other types of risk.
+
+47. A bank should recognise that stress events may simultaneously give rise to immediate liquidity needs in different currencies and multiple payment and settlement systems. It should consider in the stress tests, the likely behavioural response of other market participants to events of market stress and the extent to which a common response might amplify market movements and exacerbate market strain as also the likely impact of its own behaviour on that of other market participants. The stress tests should consider how the behaviour of counterparties (or their correspondents and custodians) would affect the timing of cash flows, including on an intraday basis.
+48. Based on the type and severity of the scenario, a bank needs to consider the appropriateness of a number of assumptions which are relevant to its business. The bank’s choice of scenarios and related assumptions should be well thought of, documented and
+
+<!-- PAGE 23 -->
+
+reviewed together with the stress test results. A bank should take a conservative approach when setting stress testing assumptions.
+
+49. Banks should conduct stress tests to assess the level of liquidity they should hold, the extent and frequency of which should be commensurate with the size of the bank and their specific business activities/liquidity for a period over which it is expected to survive a crisis. Banks are encouraged to have stress tests with various survival horizons in mind say one month or less; two or three months; and six months or more, etc.
+## Use of Stress Test Results
+
+50. Stress tests outcomes should be used to identify and quantify sources of potential liquidity strain and to analyse possible impacts on the bank’s cash flows, liquidity position, profitability and solvency. The results of stress tests should be discussed thoroughly by ALCO. Remedial or mitigating actions should be identified and taken to limit the bank’s exposures, to build up a liquidity cushion and to adjust the liquidity profile to fit the risk tolerance. The results should also play a key role in shaping the bank’s contingent funding planning and in determining the strategy and tactics to deal with events of liquidity stress.
+51. The stress test results and the action taken should be documented by banks and made available to the Reserve Bank / Inspecting Officers as and when required. If the stress test results indicate any vulnerability, these should be reported to the Board and a plan of action
+# Withdrawn
+
+charted out immediately. The Department of Banking Supervision, Central Office, Reserve Bank of India should also be kept informed immediately in such cases.
+
+## Contingency Funding Plan
+
+52. A bank should formulate a contingency funding plan (CFP) for responding to severe disruptions which might affect the bank’s ability to fund some or all of its activities in a timely manner and at a reasonable cost. CFPs should prepare the bank to manage a range of scenarios of severe liquidity stress that include both bank specific and market-wide stress and should be commensurate with a bank’s complexity, risk profile, scope of operations. *Contingency plans* *should contain details of available / potential contingency funding sources and the amount /* *estimated amount which can be drawn from these sources, clear escalation / prioritisation* *procedures detailing when and how each of the actions can and should be activated and the* *lead time needed to tap additional funds from each of the contingency sources.*
+
+<!-- PAGE 24 -->
+
+53. With a view to diversify, banks may like to enter into contingency funding agreements with different banks / types of banks (public sector, private sector, foreign banks) for providing contingency funding lines and / or reciprocal lines of credit (e.g. agreement to receive contingent funds in India with a reciprocity agreement to provide funds at a cross border location or vice versa). The CFP should also provide a framework with a high degree of flexibility so that a bank can respond quickly in a variety of situations. The CFP's design, plans and procedures should be closely integrated with the bank’s ongoing analysis of liquidity risk and with the results of the scenarios and assumptions used in stress tests. As such, the plan should address issues over a range of different time horizons including intraday.
+54. To facilitate timely response needed to manage disruptions, CFP should set out a clear decision making process on what actions to take at what time, who can take them, and what issues need to be escalated to more senior levels in the bank. There should be explicit procedures for effective internal coordination and communication across the bank’s different business lines and locations. It should also address when and how to contact external parties, such as supervisors, central banks, or payments system operators. It is particularly important that in developing and analysing CFPs and stress scenarios, the bank is aware of the operational procedures needed to transfer liquidity and collateral across different entities, business lines and jurisdictions and the restrictions that govern such transfers like legal, regulatory and time zone constraints. CFPs should contain clear
+# Withdrawn
+
+policies and procedures that will enable the bank’s management to make timely and well-informed decisions, execute contingency measures swiftly and proficiently, and communicate effectively to implement the plan efficiently, including:
+
+- clear specification of roles and responsibilities, including the authority to invoke the CFP. The establishment of a crisis team may facilitate internal coordination and decision-making during a liquidity crisis; •es and contact details of members of nam
+the team responsible for implementing the CFP and the locations of team members; and
+
+- the designation of alternates for key roles.
+Contingency plans must be tested regularly to ensure their effectiveness and operational feasibility and should be reviewed by the Board at least on an annual basis.
+
+## Overseas Operations of the Indian Banks’ Branches and Subsidiaries
+
+55. A bank’s liquidity policy and procedures should provide detailed procedures and guidelines for their overseas branches/subsidiaries to manage their operational liquidity on an ongoing basis.
+
+<!-- PAGE 25 -->
+
+56. Management of operational liquidity or liquidity in the short-term is expected to be delegated to local management as part of local treasury function. For measuring and managing net funding requirements, a statement on structural liquidity in respect of overseas operations may be prepared on a daily basis and should be reported to the Reserve Bank on monthly basis. This statement will replace the existing “Report on Structural Liquidity” for overseas operations for branches/subsidiaries/joint ventures which was furnished to the Reserve Bank on quarterly basis under DSB-0 returns (DSB-0-2). The format for structural liquidity statement for overseas operations is furnished under **Appendix–II** **(Part B-Liquidity Return).** While slotting the various items of assets and liabilities in structural liquidity statement, banks may refer to the guidance for slotting the cash flows in respect of structural liquidity statement (rupee) which is furnished as **Appendix IVA**. The statement needs to be submitted country-wise. Banks should also report figures in respect of subsidiaries/joint ventures in the same format on a stand-alone basis. The tolerance limit prescribed for net cumulative negative mismatches in case of domestic structural liquidity statement i.e. 5%, 10%, 15%, 20% of the cumulative cash outflows in respect of next day, 2-7 days, 8-14 days and 15-28 days bucket would also be applicable for overseas operations (country-wise). The Statement on Short Term Dynamic Liquidity is now required to be prepared in respect of bank’s overseas operations-both jurisdiction-wise and overall overseas position (Refer **Appendix III)**.
+# Withdrawn
+
+57. Some of the broad norms in respect of liquidity management are as follows:
+i. Banks should not normally assume voluntary risk exposures extending beyond a period of ten years. ii. Banks should endeavour to broaden their base of long- term resources and funding capabilities consistent with their long term assets and commitments.
+iii. The limits on maturity mismatches shall be established within the following tolerance levels: (a) long term resources should not fall below 70% of long term assets; and (b) long and medium term resources together should not fall below 80% of the long and medium term assets. These controls should be undertaken currency-wise, and in respect of all such currencies which individually constitute 10% or more of a bank’s consolidated overseas balance sheet. Netting of inter-currency positions and maturity gaps is not allowed. For the purpose of these limits, short term, medium term and long term are defined as under:
+
+<!-- PAGE 26 -->
+
+## Short-term: those maturing within 6 months
+
+Medium-term: those maturing in 6 months and longer but within 3 years
+
+Long-term: those maturing in 3 years and longer
+
+iv. The monitoring system should be centralised in the International Division (ID) of the bank for controlling the mismatch in asset-liability structure of the overseas sector on a consolidated basis, currency-wise. The ID of each bank may review the structural maturity mismatch position at quarterly intervals and submit the review/s to the top management of the bank.
+
+58. Supervisory authorities in several foreign countries regulate the levels of short term funding by banks. They either require banks generally to raise long-term resources so as to reduce the levels of maturity mismatches or stipulate prudential ceilings or tolerance limits on the maturity mismatches permitted to them. In countries, where the mismatches in the maturity structures are subject to regulatory or supervisory guidelines, those should be controlled locally within the host country regulatory or prudential parameters. Additionally, at the corporate level (i.e. in respect of the overseas sector as a whole), the maturity mismatches should also be controlled by bank’s management by establishing tolerance limits on the global asset-liability structures and monitored in the aggregate. Relevant control
+# Withdrawn
+
+should be undertaken / exercised on a centralised basis.
+
+*Maintenance of Liquidity – Centralisation Vs Decentralisation*
+
+59. Decentralisation refers to the degree of financial autonomy of a bank’s branches and subsidiaries relative to the central treasury of the banking group. The fully decentralised model devolves the responsibility of funding and liquidity management to the individual local entities which, in the extreme, acts as a collection of autonomous entities under common ownership. A decentralised approach sees local entities plan and raise funding for their activities and manage the associated liquidity risks. They source funding in host countries and meet any shortfalls autonomously by accessing local sources in the host country. Central treasury has only a limited role under such approach.
+60. At the other end of the spectrum, the fully centralised model concentrates funding and liquidity management at the central treasury at the group level. The central treasury distributes
+
+<!-- PAGE 27 -->
+
+funding around the organisation, monitors compliance with strict centrally mandated mismatch limits and manages pools of liquid assets. A bank’s foreign operations are not expected to fund their own balance sheets independent of the rest of the group. The centralised model is associated with extensive intra-group transfers (internal markets) and depends heavily on forex swap markets.
+
+61. A fully centralised model is rare in practice, as the daily operations of a group’s branches and subsidiaries necessitate a minimum of independence to manage local cash flows. This can be said of the fully decentralised model as well.
+62. In principle, the concept of (de)centralisation can be applied separately to funding and liquidity management. A model of centralised funding but decentralised liquidity management would see local entities obtaining funding from the central treasury (with any surpluses redistributed or invested via the treasury), perhaps at a predetermined rate, as a means of managing the funding of assets according to *locally determined* limits on maturity and currency mismatches and liquid asset requirements. Conversely, local responsibility for determining and executing the funding strategy could coexist with *centrally* mandated mismatch limits and with the central treasury managing liquid assets.
+63. Although decentralised funding strategy may lead to a higher cost for banks, greater decentralization of funding may leave the banks less exposed to intra-group contagion
+# Withdrawn
+
+and contagion across jurisdictions. It may also strengthen the local resolution regime. Evidence from the global financial crisis also supports the view that banks pursuing a more decentralised model were somewhat less affected by the funding problems than those operating a more centralised funding model.
+
+64. In case of centralised funding strategy, there may be possible constraints on transferability of liquidity within the group, which may be operational (connectivity of settlement systems) or due to internal limits or policies of the group or legal or regulatory constraints imposed by host jurisdictions (say capital requirements, large exposure limits, ring fencing rules, etc). Moreover, in times of group-wide liquidity stress or systemic (market) stress, there may not be much surplus liquidity in other parts of the group for timely transfer of funds when necessary. Also during times of stress if the functioning of forex swap markets gets impaired, it would become very difficult to fund parts of the group. In light of these drawbacks, centralized liquidity management should aim at a better allocation of liquidity within the group. Nevertheless, in the crisis management
+
+<!-- PAGE 28 -->
+
+phase, all banks, regardless of their strategic funding model, would seem to benefit from making tactical use of intra-group transfers.
+
+65. Indian banks should adopt decentralised model with some flexibility allowed in the form of some regional centres/hubs that may fund/manage liquidity for some jurisdictions/currencies keeping in view the constraints on the transfer of liquidity across jurisdictions/entities. Such of those banks which do not currently have this kind of decentralized approach should put in place such approach within a period of six months from the date of this circular. Regardless of the model, it is essential for institutions with multiple platforms and legal entities to have a central liquidity management oversight function. The group’s strategy and policy documents should describe the structure for monitoring institution-wide liquidity risk and for overseeing operating subsidiaries and foreign branches. Assumptions regarding the transferability of funds and collateral should be described in bank’s liquidity risk management plans. *Maintenance of Liquidity – Overseas Branches of Indian Banks and Branches of Foreign* *banks in India*
+66. The Reserve Bank of India expects banks to maintain adequate liquidity both at the solo bank and consolidated level. Irrespective of the organisational structure and degree of centralised or decentralized liquidity risk management, a bank should actively monitor and
+# Withdrawn
+
+control liquidity risks at the level of individual legal entities, foreign branches and subsidiaries and the group as a whole, incorporating processes that aggregate data in order to develop a group-wide view of liquidity risk exposures and identify constraints on the transfer of liquidity within the group. If the legal entities including subsidiaries, joint ventures and associates are subject to a regulatory oversight other than by the Reserve Bank, that regulatory regime will prevail. In case they are not subject to any such regulatory oversight, banks should evolve and follow bank like regulatory liquidity standards. Further, on a consolidated basis, the regulatory standards as applicable for the Group should also be adhered to.
+
+67. Indian banks’ branches and subsidiaries abroad are required to manage liquidity according to the host or home country requirements, whichever is more stringent. It is expected that Indian banks’ branches and subsidiaries are self sufficient with respect to liquidity maintenance and should be able to withstand a range of severe but plausible stress test scenarios on their own within the framework laid down in paragraphs 45 to 49
+
+<!-- PAGE 29 -->
+
+above. However, in case of extreme stress situations, while Indian banks’ branches abroad may have to rely on liquidity support from their Head Office, their subsidiaries should be self reliant.
+
+68. Similarly, foreign banks operating in India should also be self reliant with respect to liquidity maintenance and management. In case of extreme stress situation, parent entity/Head Office support may be relied upon. However, the possible constraints with respect to transferability of funds from the parent entity/Head Office, including possible time lag in availability of funds may be taken into account while factoring this as a source of funds in contingency funding plan. Banks may also take into account a stress situation when funds may not be available to them in case of market/group wide stress situation.
+## Liquidity Across Currencies
+
+69. Banks should have a measurement, monitoring and control system for liquidity positions in the major currencies in which they are active. For assessing the liquidity mismatch in foreign currencies, as far as domestic operations are concerned, banks are required to prepare Maturity and Position (MAP) statements according to the extant instructions. These statements have been reviewed and the reporting requirements have been revised as given in **Appendix II (Liquidity Return, Part A2).** Guidance on slotting various items of inflows and outflows is given in <u>Appendix IVB</u>. In addition to assessing its aggregate foreign
+# Withdrawn
+
+currency liquidity needs and the acceptable mismatch in combination with its domestic currency commitments, a bank should also undertake separate analysis of its strategy for each major currency individually by taking into account the outcome of stress testing.
+
+70. The size of the foreign currency mismatches for the bank as a whole should take into account: (a) the bank’s ability to raise funds in foreign currency markets; (b) the likely extent of foreign currency back-up facilities available in its domestic market; (c) the ability to transfer liquidity surplus from one currency to another, and across countries/jurisdictions and legal entities and (d) the likely convertibility of currencies in which bank is active, including the potential for impairment or complete closure of foreign exchange swap markets for particular currency pairs.
+## Management Information System (MIS)
+
+71. A bank should have a reliable MIS designed to provide timely and forward-looking information on the liquidity position of the bank and the Group to the Board and ALCO, both
+
+<!-- PAGE 30 -->
+
+under normal and stress situations. The MIS should cover liquidity positions in all currencies in which the bank conducts its business – both on a subsidiary / branch basis (in all countries in which the bank is active) and on an aggregate group basis. It should capture all sources of liquidity risk, including contingent risks and those arising from new activities, and have the ability to furnish more granular and time sensitive information during stress events.
+
+72. Liquidity risk reports should provide sufficient detail to enable management to assess the sensitivity of the bank to changes in market conditions, its own financial performance, and other important risk factors. It may include cash flow projections, cash flow gaps, asset and funding concentrations, critical assumptions used in cash flow projections, funding availability, compliance to various regulatory and internal limits on liquidity risk management, results of stress tests, key early warning or risk indicators, status of contingent funding sources, or collateral usage, etc. *Reporting to the Reserve Bank of India*
+73. The existing liquidity reporting requirements have been reviewed. Banks will have to submit the revised liquidity return to the Chief General Manager-in-Charge, Department of Banking Supervision, Reserve Bank of India, Central Office, World Trade Centre, Mumbai as detailed below. **Statement of Structural Liquidity:** At present banks are furnishing statem
+# Withdrawn
+
+ent of structural liquidity for domestic currency at fortnightly interval and statement of structural liquidity for overseas operations at quarterly interval. In addition, statement for structural liquidity for the consolidated bank under consolidated prudential returns (CPR) is prescribed at half yearly intervals. However, under the revised requirements, this statement is required to be reported in five parts viz. (i) ‘for domestic currency, Indian operations’; (ii) ‘for foreign currency, Indian operations’; (iii) ‘for combined Indian operations’; (iv) ‘for overseas operations’ and for (v) ‘consolidated bank operations’. While statements at (i) to (iii) are required to be submitted fortnightly, statements at (iv) and (v) are required to be submitted at monthly and quarterly intervals, respectively. The Maturity and Position statement (MAP) submitted by the banks at monthly intervals is discontinued as the same is now addressed by statement for foreign currency, Indian operations. The periodicity in respect of each part of the return is given in the **Table 2** below:
+
+<!-- PAGE 31 -->
+
+**Table 2**
+
+**6** **Sl. Name of the Liquidity Return (LR) Periodicity Time period by which required to** **No.** **be reported** **Structural Liquidity Statement**
+
+(i) Part A1 - Statement of Structural Liquidity – Fortnightly* within a week from Domestic Currency, Indian Operations the reporting date (ii) Part A2 – Statement of Structural Liquidity – do do Foreign Currency, Indian Operations (iii) Part A3 – Statement of Structural Liquidity – do do Combined Indian Operations (iv) Part B – Statement of Structural Liquidity for Monthly# within 15 days from Overseas Operations the reporting date
+(v) Part C – Statement of Structural Liquidity – For Quarterly# within a month from <u>Consolidated Bank Operations the reporting date</u>
+th
+
+* Reporting dates will be 15 and last date of the month – in case these dates are holidays, the reporting dates will be the previous working day. # Reporting date will be the last working day of the month / quarter.
+74. The formats of the returns are furnished as **Appendix II.** The return in the revised format will be first required to be reported from the relevant fortnight/month/quarter ending March
+# Withdrawn
+
+2013.
+## Internal Controls
+
+75. A bank should have appropriate internal controls, systems and procedures to ensure adherence to liquidity risk management policies and procedure as also adequacy of liquidity risk management functioning.
+76. Management should ensure that an independent party regularly reviews and evaluates the various components of the bank’s liquidity risk management process. These reviews should assess the extent to which the bank’s liquidity risk management complies with the regulatory/supervisory instructions as well as its own policy. The independent review process should report key issues requiring immediate attention, including instances of non compliance to various guidance/limits for prompt corrective action consistent with the Board approved policy. The mode of submitting the returns will be advised separately.

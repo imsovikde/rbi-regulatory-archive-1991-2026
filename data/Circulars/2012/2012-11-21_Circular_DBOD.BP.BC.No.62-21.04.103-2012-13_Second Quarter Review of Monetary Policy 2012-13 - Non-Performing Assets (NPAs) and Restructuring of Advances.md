@@ -1,0 +1,118 @@
+---
+doc_id: "Circulars_2012_DBOD_BP_BC_No_62_21_04_103_2012-13"
+title: "Second Quarter Review of Monetary Policy 2012-13 - Non-Performing Assets (NPAs) and Restructuring of Advances"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ISCS211112FL.PDF"
+pdf_sha256: "fbee4009a0387b54b69b9cac3aaa9ca52b14fd144da31d9541a8b274dee0d733"
+md_sha256: "70fe10b4f48d90c5a433b56d0b359538b9abac9f33a2406b104c6df2d387b27b"
+total_pages: 3
+native_pages: 2
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:53:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-11-21_Circular_DBOD.BP.BC.No.62-21.04.103-2012-13_Second%20Quarter%20Review%20of%20Monetary%20Policy%202012-13%20-%20Non-Performing%20Assets%20%28NPAs%29%20and%20Restructuring%20of%20Advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Second Quarter Review of Monetary Policy 2012-13 - Non-Performing Assets (NPAs) and Restructuring of Advances
+
+<!-- PAGE 1 -->
+
+HrdlqRd
+
+RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2012-13/304
+
+DBOD.BP.BC.No.62/21.04.103/2012-13
+
+November 21, 2012
+
+All Scheduled Commercial Banks
+
+(excluding RRBs )
+
+Dear Sir,
+
+Second QuarterReviewofMonetaryPolicy2012-13 -
+
+Non-Performing Assets (NPAs) and Restructuring of Advances
+
+Please refer to paragraphs 93 and 94 of the Second Quarter Review of Monetary
+
+Performing Assets (NPAs) and Restructuring of Advances'.
+
+September 19, 2008 on “Lending under Cong
+
+imA
+
+Arrangement / Multiple Banking
+
+Arrangements' banks were advised to str?
+
+Ten their information back-up about the
+
+borrowers enjoying credit facilities
+
+ultiple banks by obtaining declarationfrom
+
+the borrowers about the credit
+
+sa
+
+already enjoyed by them from other banks.
+
+Banks were also advised to exchange information about the conduct of borrowers'
+
+accounts with other banks in the specified format at least at quarterly intervals. The
+
+format specified in the circular was finalised in consultation with Indian Banks
+
+Association.BankswerefurtheradvisedvideourcircularNo.DBOD.BP.BC.94/
+
+08.12.001/2008-2009datedDecember8,2008
+
+：on ‘Lending under Consortium
+
+Arrangement / Multiple Banking Arrangements', that the information exchange
+
+should also,interalia,coverinformationrelatingtoborrowers'derivativetransactions
+
+and unhedged foreign currency exposures.
+
+3. It has been observed that of late the NPAs and restructured loans of banks have
+
+been increasing significantly. A major reason for deterioration in the asset quality of
+
+1400001
+
+Department of Banking Operations and Development, Central Offce, 12th Floor, Central Offce Building, Shahid Bhagat Singh Marg, Mumbai-400001
+
+f/Tel No:22661602 a/Fax No:22705691 Email ID:cgmicdbodco@rbi.org.in
+
+。
+
+<!-- PAGE 2 -->
+
+banks is the lack of effective information sharing among banks regarding their credit, derivatives and unhedged foreign currency exposures. Further, lack of effective and timely information exchange among banks may also result in occurrence of frauds.
+
+4. We, therefore, advise that banks should strictly adhere to the instructions regarding sharing of information relating to credit, derivatives and unhedged foreign currency exposures among themselves and put in place an effective mechanism for information sharing by end-December 2012. Any sanction of fresh loans/*ad hoc* loans/renewal of loans to new/existing borrowers with effect from January 1, 2013 should be done only after obtaining/sharing necessary information.
+5. Non-adherence to the above instructions by banks would be viewed seriously by the Reserve Bank and they would be liable to action, including imposition of penalty, wherever considered appropriate. Yours faithfully,
+## (Rajesh Verma)
+
+Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+**Extract from Second Quarter Review of Monetary Policy 2012 - 13 announced on October 30, 2012**
+
+## Non-Performing Assets (NPAs) and Restructuring of Advances
+
+93. NPAs and restructured loans of banks have been increasing significantly. A major reason for deterioration in the asset quality of banks is the lack of effective information sharing among them, despite specific instructions issued in September and December 2008 regarding sharing of information on credit, derivatives and unhedged foreign currency exposure. It is, therefore, advised that: •banks should strictly adhere to the instructions regarding sharing of information relating to credit, derivatives and unhedged foreign currency exposures among themselves and put in place an effective mechanism for information sharing by end-December 2012; any sanction of fresh loans/ • *ad hoc* loans/renewal of loans to new/existing borrowers with effect from January 1, 2013 should be done only after obtaining/sharing necessary information; and •non-adherence to these instructions would be viewed seriously by the Reserve Bank and banks would be liable to action, including imposition of penalty, wherever considered appropriate.
+94. Detailed guidelines in this regard are being issued separately.
+# Withdrawn

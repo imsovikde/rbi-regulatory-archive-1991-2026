@@ -1,0 +1,181 @@
+---
+doc_id: "Circulars_2012_Notification_No_DNBS_PD_252_CGM_US_-2012"
+title: "Notification on Core Investment Companies - Overseas Investment (Reserve Bank) Directions, 2012"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCN311061212.PDF"
+pdf_sha256: "c86225675ad02b9e4cd692846947e257dd9f2505ae3402a7d871a8cca2d32f2f"
+md_sha256: "77be476ea05d9f84802c28beb5a0846ca468da9e71cf7919abab1f58217fa242"
+total_pages: 9
+native_pages: 9
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:53:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-12-06_Circular_Notification%20No.DNBS.%28PD%29252-CGM%28US%29-2012_Notification%20on%20Core%20Investment%20Companies%20-%20Overseas%20Investment%20%28Reserve%20Bank%29%20Directions%2C%202012.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Core Investment Companies - Overseas Investment (Reserve Bank) Directions, 2012
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/314 DNBS (PD) CC.No. 311/03.10.001/2012-13 December 06, 2012
+
+## All Core Investment Companies
+
+Dear Sirs,
+
+## <u>Core Investment Companies -Overseas Investment (Reserve Bank) Directions, 2012</u>
+
+Please refer to the Non-Banking Financial Companies (Opening of Branch/Subsidiary/Joint Venture/Representative Office or Undertaking Investment Abroad by NBFCs) Directions, 2011 dated June 14, 2011. The Directions have specified general and specific conditions for overseas investment by NBFCs. The applicability of the Directions for Core Investment Companies (CICs) has been examined and in view of their unique nature of business (investment only for holding purpose), certain modifications have been found necessary to be made in the Directions.
+
+2. Core Investment Companies (CICs) invest primarily in group companies, in different
+# Withdrawn
+
+sectors of the economy. Being holding companies they need to invest in both financial and non-financial activities. It has therefore been decided to issue a separate set of Directions to CICs with regard to their overseas investments.
+
+3. All CICs investing in joint ventures/subsidiaries/representative offices overseas in financial sector will require prior approval from the Bank. The approval will be subject to the CIC fulfilling the conditions enumerated in the enclosed Directions issued by Reserve Bank in exercise of powers under Sections 45JA, 45K and 45L of the RBI Act, 1934 vide Notification No.DNBS(PD)252 /CGM(US)/2012 dated December 6, 2012. The notification is enclosed for meticulous compliance.
+
+<!-- PAGE 2 -->
+
+4. Thus, should CICs currently exempted from registration, desire to make overseas investments in financial sector, they would require a CoR from RBI and shall have to comply with all the regulations applicable to registered CICs. However exempted CICs do not require to be registered with RBI for making investments in non-financial sector.
+Yours sincerely,
+
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE,
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI 400 005.
+
+## Notification No. DNBS.(PD) 252 / CGM(US)-2012 dated December 06, 2012
+
+In exercise of the powers conferred by sections 45JA, 45K and 45L of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, Reserve Bank of India having considered it necessary in the public interest and being satisfied that for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary so to do, gives to every CIC the Directions hereinafter specified.
+
+## Short title and commencement of the Directions
+
+i. These Directions shall be known as the Core Investment Companies-Overseas Investment (Reserve Bank) Directions, 2012. ii. These Directions shall come into force with immediate effect. iii. These directions are in addition to those prescribed by Foreign Exchange
+# Withdrawn
+
+Department for overseas investment.
+
+## 2. Prior Approval of RBI in cases of Overseas investment by CICs
+
+i. These Directions will be applicable to all CICs (whether registered with RBI or exempted from registration) that intend to invest overseas.
+**2** ii. **Investment in financial sector overseas:**
+
+CICs desirous of making overseas investment in financial sector shall hold a Certificate of Registration (CoR) from Reserve Bank of India (the Bank) and shall comply with all
+
+1 CICS as defined in para 2(b) of the circular DNBS (PD) CC.No. 206/03.10.001/2010-11 January 5, 2011 titled Regulatory Framework for Core Investment Companies
+
+Financial sector for this purpose would mean a sector/ service regulated by a Financial Sector Regulator.
+
+<!-- PAGE 4 -->
+
+the regulations applicable to registered CICs. Hence, CICs that are presently exempted from the regulatory framework of the Bank (exempted CICs), would be required to be registered with the Bank and would be regulated like CICs-ND-SI, for the purpose of overseas investment in financial sector.
+
+iii. **Investment in non-financial sector:** Exempted CICs making overseas investment in non-financial sector will not require registration from the Reserve Bank and hence, these Directions are not applicable to them. Further, a registered CIC need not obtain prior approval from Department of Non- Banking Supervision (DNBS), RBI, for overseas investment in non-financial sector. However it should report to the Regional Office of DNBS where it is registered within 30 days of such investment in the stipulated format of quarterly return and also continue to submit the return quarterly;
+
+iv. The eligibility criteria for investments abroad and other conditions prescribed for CICs are given in the following paragraphs:
+
+## 3. Eligibility Criteria
+
+i. The Adjusted Net Worth (ANW) of the CIC shall not be less than 30% of its aggregate risk weighted assets on balance sheet and risk adjusted value of off-balance
+# Withdrawn
+
+sheet items as on the date of the last audited balance sheet as at the end of the financial year. The CIC shall continue to meet the requirement of minimum ANW, post overseas investment. For this purpose, the risk weights are as laid down in the Notification No.219 dated January 05, 2011. ii. The level of Net Non-Performing Assets of the CIC should not be more than 1% of the net advances as on the date of the last audited balance sheet; iii. The CIC should generally be earning profit continuously for the last three years and its performance should be satisfactory during the period of its existence.
+
+## 4. General Conditions
+
+i. Direct investment in activities prohibited under FEMA will not be permitted;
+
+<!-- PAGE 5 -->
+
+ii. The total overseas investment should not exceed 400% of the owned funds of the CIC. iii. The total overseas investment in financial sector should not exceed 200% of its owned funds; iv. Investment in financial sector shall be only in regulated entities abroad.
+
+v. Entities set up abroad or acquired abroad shall be treated as wholly owned
+3 subsidiaries (WOS) /joint ventures (JV) abroad; vi. Overseas investments by a CIC in financial /non-financial sector would be 4 restricted to its financial commitment. However with regard to issuing guarantees / Letter of Comfort in this regard the following may be noted:
+
+a. The CIC can issue guarantees / letter of comfort to the overseas subsidiary engaged in non-financial activity;
+b. CICs must ensure that investments made overseas do not result in creation of complex structures. In case the structure overseas requires a Non- Operating Holding Company, there should not be more than two tiers in the structure. CICs having more than one non-operating holding company in existence, in their investment structure, shall report the same to the Reserve Bank for a review.
+d. CICs shall comply with the regulations issued under FEMA, 1999 fromWithdrawn time to time;
+e. An annual certificate from statutory auditors shall be submitted by the CIC to the Regional Office of DNBS where it is registered, certifying that it has fully complied with all the conditions stipulated under these Guidelines for overseas investment. The certificate as on end March every year shall be submitted by April 30 each year;
+3 Under FEMA, “Joint Venture” means a foreign entity formed, registered or incorporated in accordance with the laws and regulations of the host country in which the Indian party makes a direct investment. “WOS” means a foreign entity formed, registered or incorporated in accordance with the laws and regulations of the host country, whose entire capital is held by the Indian party. 4 Financial commitment" means the amount of direct investment by way of contribution to equity and loan and fifty percent of the amount of guarantees issued by an Indian party to or on behalf of its overseas JV/WOS.
+
+<!-- PAGE 6 -->
+
+f. A quarterly return in the enclosed format as given in Annex shall be submitted by the CIC to the Regional Office of DNBS and also Department of Statistics and Information Management (DSIM), RBI within 15 days of the close of the quarter.
+g. If any serious adverse features come to the notice of the Bank, the permission granted shall be withdrawn. All approvals for investment abroad shall be subject to this condition.
+## 5. Specific Conditions.
+
+## i. Opening of Branches
+
+As CICs are non-operating entities, they will not, in the normal course, be allowed to open branches overseas. CICs which have already set up branch(es) abroad for undertaking investment business should approach RBI within 3 months from the date of these Directions for a review.
+
+## ii. Opening of WOS/JV Abroad by CICs
+
+In the case of opening of a WOS/JV abroad by a CIC, all the conditions as stipulated above shall be applicable. The NoC to be issued by the Bank is independent of the Withdrawn overseas regulators’ approval process. In addition, the following conditions shall apply to all CICs:
+
+a. The WOS/JV being established abroad should not be a shell company i.e "a company that is incorporated, but has no significant assets or operations." However companies undertaking activities such as financial consultancy and advisory services shall not be considered as shell companies;
+b. The WOS/JV being established abroad by the CIC should not be used as a vehicle for raising resources for creating assets in India for the Indian operations;
+c. In order to ensure compliance of the provisions, the parent CIC shall obtain periodical reports/audit reports at least quarterly about the business undertaken by the WOS/JV abroad and shall make them available to the inspecting officials of the Bank;
+
+<!-- PAGE 7 -->
+
+d. If the WOS/JV has not undertaken any activity or such reports are not forthcoming, the approvals given for setting up the WOS/JV abroad shall be reviewed;
+e. The WOS/JV shall make disclosure in its Balance Sheet the amount of liability of the parent entity towards it and also whether it is limited to equity / loan or if guarantees are given, the nature of such guarantees and the amount involved;
+f. All the operations of the WOS/JV abroad shall be subject to regulatory prescriptions of the host country.
+## iii. Opening of Representative Offices Abroad by CICs
+
+CICs will need prior approval from the DNBS, RBI for opening representative offices abroad. The representative offices can be set up abroad for the purpose of liaison work, undertaking market study and research but not for undertaking any activity which involves outlay of funds. The representative offices shall also comply with regulations, if any, in this regard stipulated by a regulator in the host country. As it is not envisaged that such offices would be carrying on any activity other than liaison work, no line of credit should be extended.
+
+The parent CICs shall obtain periodical reports about the business undertaken by the
+
+# Withdrawn
+
+representative offices abroad. If the representative offices have not undertaken any activity or such reports are not forthcoming, the Bank may advise the CIC to wind up the establishment.
+
+**6.** <u>Violation of these directions shall invite penal action under the provisions of Reserve</u> <u>Bank of India Act, 1934.</u>
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+<!-- PAGE 8 -->
+
+## Annex
+
+## <u>Quarterly Return to be submitted by CICs having overseas investment</u>
+
+|Sr.|||Name||of|the|Country||and||Date|of|NoC|from|||Business undertaken|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|No.|||WOS/JV JV, names partners)||indicate|(for of|date incorporation||of||DNBS|||||||
+|Sr. no.|||Key Indicators|||||||||||||||
+|a)|||Adjusted net worth as a percentage of aggregate risk weighted assets on balance sheet and risk adjusted value of off-balance sheet items:|||||||||||||||
+|b)|||Net Profit of the CIC as per the last audited balance sheet:|||||||||||||||
+|c) d)|||Amount of remittance made to the WOS/JV during the quarter: Name of the WOS/JV Cumulative investment (fund based and non-fund based commitment) in the WOS/JV at the end of the quarter(amount and as percentage of owned funds of the CIC): Name WOS/JV||of||the|Amount remitted owned funds including step down subsidiaries if any|Withdrawn|Amount remitted||and|as %||of||Non commitment value(also specifying the nature performance guarantee)|
+
+fund based and
+
+for eg:
+
+<!-- PAGE 9 -->
+
+|e)||Aggregate overseas investment of the CIC as percentage||||||||
+|---|---|---|---|---|---|---|---|---|---|
+|||of owned funds of the CIC:||||||||
+|f)||Whether the overseas WOS/JV is regulated in the host country. If yes: Name of the regulator:|Any regulatory visits made during the reporting period:|Concerns expressed by the regulator:||Any regulatory during the would impact the business of the subsidiary:|changes period|which|Fines / penalties levied by overseas regulator, if any:|
+|g)||Returns obtained from the WOS/JV during the quarter: Name of the WOS/JV|||Returns obtained|||||
+|h)||Financial details of JV/WOS Name of the WOS/JV||Withdrawn|Net profit||Size (Details of significant items of assets and liabilities may be attached)|of|Balance|
+
+the
+
+Sheet

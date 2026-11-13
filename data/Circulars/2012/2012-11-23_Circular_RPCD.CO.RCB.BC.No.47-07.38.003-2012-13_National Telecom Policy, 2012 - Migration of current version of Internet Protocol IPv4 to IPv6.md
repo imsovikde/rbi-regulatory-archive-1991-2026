@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RCB_BC_No_47_07_38_003_2012-13"
+title: "National Telecom Policy, 2012 - Migration of current version of Internet Protocol IPv4 to IPv6"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE306NT231112.PDF"
+pdf_sha256: "f2c77c376e43e3981dc85208843688231b5cc6e012f64846b78a9d0049d3c0e8"
+md_sha256: "9aed98d74c511c47bd968b0496d3ee3b7451927e9960ac70402cc0218c41d173"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:53:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-11-23_Circular_RPCD.CO.RCB.BC.No.47-07.38.003-2012-13_National%20Telecom%20Policy%2C%202012%20-%20Migration%20of%20current%20version%20of%20Internet%20Protocol%20IPv4%20to%20IPv6.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# National Telecom Policy, 2012 - Migration of current version of Internet Protocol IPv4 to IPv6
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **-----------------RESERVE BANK OF INDIA------------------ www.rbi.org.in**
+
+## RBI/2012-13/306
+
+**RPCD.CO.RCB.BC.No. 47 /07.38.003/2012-13** November 23, 2012
+
+All State Co-operative Banks / District Central Co-operative Banks
+
+Dear Sir / Madam,
+
+## National Telecom Policy, 2012 -<u>Migration of current version of Internet Protocol IPv4 to IPv6</u>
+
+As you may be aware, the Government of India has envisaged providing "Broadband on Demand" by 2015 in the recently unveiled National Telecom Policy (NTP) - 2012 emphasizing the role of Internet as catalyst for socio-economic development of the country and also as an effective medium of various citizen centric services in today's information economy. Since the current version of Internet Protocol (IPv4) has almost run out of addresses, the broadband revolution is sure to ride on next generation Internet Protocol (IPv6). The NTP - 2012 recognizes the futuristic role of IPv6 and aims to achieve substantial transition to IPv6 in the country.
+
+2. Department of Telecommunication under the Ministry of Communication and Information Technology, Government of India has undertaken the initiative of migration from IPv4 to IPv6.
+3. Since migration to IPv6 is an eventuality that has to be accepted and managed proactively, government wants it to be done in a planned way rather than against time. They have expressed that the migration of all payment gateways, banks, financial
+# Withdrawn
+
+institutions, insurance companies, etc. including their websites should be completed preferably by December 2012. You may initiate necessary action by constituting a special team to complete the migration within the stipulated time.
+
+4. In case you need any clarifications/assistance on IPv6 implementation kindly contact Shri R.M. Agarwal, DDG(NT), DoT (Mobile number 9868133440) who is heading the team which is providng relevant support to all stakeholders. Yours faithfully, (I.S. Negi) General Manager Officer-in-Charge ामीण आयोजना और ऋण वभाग,क य कायालय, 10वीं मंज़ल,क य कायालय ब�डंग,शहद भगत िसंह माग,पो.बा.सं.10014,मुंबई 400 001 टेलीफोन:Tel No.: +912222601000/ फै स: +91-22-22621011/22610948/22610943 ईमेल: cgmincrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001
+<u>�हंद आसान है, इसका योग बढ़ाइए</u>
+
+चेतावनी **:**-मेल रज़व बक ारा डाक**,** एसएमएस या फोन कॉल के ज�रए कसी क भी य�गत जानकार जैसे बक के खाते का यौरा**,** पासवड आ�द नहं मांगी जाती है। यह धन रखने या देने का � ताव भी नहं करता है। ऐसे � ताव का कसी भी तरके से जवाब मत द�जए। **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details,** **passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**

@@ -1,0 +1,48 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RRB_No_BL_BC_42_03_05_90_2012-13"
+title: "Master Circular on Branch Licensing - Regional Rural Banks - Amendment"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/281MCC021112.PDF"
+pdf_sha256: "b9fa6f8212dc6af85428be54d193448b7e392b77d0ae88b99913dee76047cd23"
+md_sha256: "e04dbc1fd309be996ba8f406e8ba4dc3ab31cd1cf0442fe30eda62e11f0a4830"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:52:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-11-02_Circular_RPCD.CO.RRB.No.BL.BC.42-03.05.90-2012-13_Master%20Circular%20on%20Branch%20Licensing%20-%20Regional%20Rural%20Banks%20-%20Amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Branch Licensing - Regional Rural Banks - Amendment
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** www.rbi.org.in **RBI/2012-13/281** **RPCD.CO.RRB.No.BL.BC. 42 /03.05.90/2012-13** November 02, 2012
+
+### All Regional Rural Banks
+
+Dear Sir,
+
+### Master Circular on Branch Licensing – Regional Rural Banks-Amendment
+
+Please refer to our <u>Master Circular RPCD.CO.RRB.BL.BC.05/03.05.90/2012-13 dated July</u> <u>2, 2012</u> on the captioned subject. In partial modification, para 2.5 of the above circular may be amended to read as:
+
+### “2.5 Requirement for Conduct of Government Business
+
+RRBs are permitted to undertake State Government business as sub-agents of the Sponsor Bank with the prior approval from the concerned State Government and RBI. The Sponsor Bank should submit the proposal to the concerned Regional Office of RBI in accordance with DGBA guidelines issued vide circular DGBA.GAD.No.H.15327/31.01.004/2006-07 dated April 19, 2007, for issue of necessary authorisation.”
+
+2. All other contents of the circular remain unchanged.
+3. Please acknowledge receipt to our concerned Regional Office.
+### Yours faithfully
+
+# Withdrawn
+
+(C. D. Srinivasan) Chief General Manager
+
+ामीण आयोजना और ऋण �वभाग,के ���� कायालय,10 वी मंजल, क ��� कायालय भवन, शहद भगतिसंह माग,पोट बॉस सं. 10014,मुंबई -400 001 Rural Planning & Credit Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai 400001 टेली Tel:022-22601000 फै सः 91-22-22621011/22610943/22610948 ई -मेल : <u>cgmicrpcd@rbi.org.in</u> �हंद आसान है**,**इसका योग बढ़ाइए।
+
+**“**चेतावनी **:** �रज़व बक ारा मेल-डाक**,** एसएमएस या फोन कॉल के ज�रए कसी क भी � य��गत जानकार जैसे बक के खाते का यौरा**,** पासवड आद नहं मांगी जाती है। यह धन रखने या देने का � ताव भी नहं करता है। ऐसे � ताव का कसी भी तरके से जवाब मत द�जए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

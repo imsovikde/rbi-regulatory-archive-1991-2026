@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RRB_BC_No_43_03_05_90_2012-13"
+title: "Branch Licensing Policy - Opening of Branches in Unbanked Rural Centres"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE283BL061112.PDF"
+pdf_sha256: "d89c746c7ae8b1d0ef78b401c9a0cdb6cd510fecae51e0c07b73c122da48fdc9"
+md_sha256: "ec708ec02b3babd95aa06d703bd3de996025cb6c3e2a892b7f82cda59a3c5ec4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:52:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-11-06_Circular_RPCD.CO.RRB.BC.No.43-03.05.90-2012-13_Branch%20Licensing%20Policy%20-%20Opening%20of%20Branches%20in%20Unbanked%20Rural%20Centres.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Branch Licensing Policy - Opening of Branches in Unbanked Rural Centres
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** www.rbi.org.in **RBI/2012-13/283** **RPCD.CO.RRB.BC.No.43/03.05.90/2012-13** November 6, 2012
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## Branch Licensing Policy-Opening of branches in unbanked rural centres
+
+RRBs are an integral part of the rural credit system and are expected to play an increasingly important role in the development of rural areas. Presently, RRBs which satisfy the stipulated conditions as provided in our <u>circulars No.</u> <u>RPCD.CO.RRB.BL.BC.No.19/03.05.90/2011-12 dated August 1, 2012</u> and <u>RPCD.CO.RRB.BC.No.28/03.05.90-A/2011-12 dated November 18, 2010</u> are permitted to open branches in Tier 2 to Tier 6 centres (population up to 99, 999 as per Census 2001) without prior permission in each case, subject to reporting. However, opening of branches in Tier 1 centres (population of 1,00,000 and above) would require prior permission of the Reserve Bank.
+
+2. There is a need to step up the opening of branches in unbanked rural centres in order to meet the objectives of increasing banking penetration and financial inclusion rapidly. It is also vitally important to meet the targets set out for providing banking services in all villages by opening more number of brick and mortar branches in unbanked rural centres, besides the use of Business Correspondents.
+3. RRBs are, therefore, advised to allocate at least 25 percent of the total number of branches proposed to be opened during a year in unbanked rural (Tier 5 and Tier 6) centres. An unbanked rural centre would mean a rural (Tier 5 and Tier 6) centre that does not have a brick and mortar structure of any scheduled commercial bank for customer based Withdrawn banking transactions.
+4. Please acknowledge receipt to our Regional Office concerned.
+## Yours faithfully
+
+(C. D. Srinivasan) Chief General Manager
+
+मामीण आयोजना और ऋण वभाग,के ���य कायालय,10 वी मंजल, क िय कायालय भवन, शहद भगतिसंह माग,पोःट बॉस सं. 10014,मुंबई -400 001 Rural Planning & Credit Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai 400001 टेली Tel :022-22601000 फै सः 91-22-22621011/22610943/22610948 ई -मेल : <u>cgmicrpcd@rbi.org.in</u> हंद आसान है**,**इसका ूयोग बढ़ाइए।
+
+**“**चेतावनी **:** रज़व बक ारा मेल-डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी ����गत जानकार जैसे बक के खाते का �यौरा**,** पासवड आद नहं मांगी जाती है। यह धन रखने या देने का ूःताव भी नहं करता है। ऐसे ूःताव का कसी भी तरके से जवाब मत द�जए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

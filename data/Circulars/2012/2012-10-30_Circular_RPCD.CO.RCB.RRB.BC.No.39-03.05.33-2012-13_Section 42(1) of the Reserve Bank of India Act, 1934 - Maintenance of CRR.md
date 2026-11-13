@@ -1,0 +1,63 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RCB_RRB_BC_No_39_03_05_33_2012-13"
+title: "Section 42(1) of the Reserve Bank of India Act, 1934 - Maintenance of CRR"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRR011112ECR.PDF"
+pdf_sha256: "ac278ba8c51cfe22f5edacd545363de933887cd3a91d1099f5c4da391b1be2af"
+md_sha256: "e38b84674045869a26e22ed452f873afe014766fded7fe0dc6a213cdda78a9f4"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:52:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-10-30_Circular_RPCD.CO.RCB.RRB.BC.No.39-03.05.33-2012-13_Section%2042%281%29%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20Maintenance%20of%20CRR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 42(1) of the Reserve Bank of India Act, 1934 - Maintenance of CRR
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/272
+
+**RPCD.CO.RCB.RRB.BC.No. 39 /03.05.33/2012-13** October 30, 2012 All Scheduled State Co-operative Banks / Regional Rural Banks Dear Sir, **Section 42(1) of the Reserve Bank of India Act, 1934 - Maintenance of CRR** Please refer to our Circular <u>RPCD.CO.RCB.RRB.BC.No.28/07.02.01/2012-13 dated</u> <u>September 18, 2012</u>, on the captioned subject.
+
+2. As set out in the Reserve Bank’s <u>Press Release 2012-2013/713 dated October 30, 2012</u>, it has been decided to reduce the Cash Reserve Ratio (CRR) of Scheduled State Co- operative Banks / Regional Rural Banks, by 25 basis points, from 4.50 per cent to 4.25 per cent, of their Net Demand and Time Liabilities (NDTL) with effect from the fortnight beginning November 3, 2012.
+3. A copy of the relative notification RPCD.CO.RCB.RRB.BC.No.38/ 03.05.33/2012-13 dated October 30, 2012, is enclosed.
+4. Please acknowledge receipt to our Regional Office concerned.
+# Withdrawn
+
+Yours faithfully,
+
+## (C.D.Srinivasan)
+
+Chief General Manager Encl: one
+
+मामीण आयोजना और ऋण वभाग,के ���य कायालय,10 वी मंजल, क िय कायालय भवन, शहद भगतिसंह माग,पोःट बॉस सं. 10014,मुंबई -400 001 Rural Planning & Credit Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai 400001 टेली Tel :022-22601000 फै सः 91-22-22621011/22610943/22610948 ई -मेल : <u>cgminrpcd@rbi.org.in</u> हंद आसान है**,**इसका ूयोग बढ़ाइए।
+
+|“चेतावनी|Caution: -मेल रज़व बक ारा||डाक, एसएमएस|या फोन कॉल|के जरए कसी|क भी ����गत|जानकार|जैसे बक के खाते|का �यौरा, पासवड|आद नहं|
+|---|---|---|---|---|---|---|---|---|---|---|
+|मांगी जाती Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन|रखने या देने का ूःताव भी|नहं करता|है। ऐसे ूःताव का|कसी भी तरके|से जवाब|मत ���जए।"|passwords, etc. It never|||
+
+<!-- PAGE 2 -->
+
+RPCD.CO.RCB.RRB.BC.No. 38 /03.05.33/2012-13 October 30, 2012
+
+## <u>NOTIFICATION</u>
+
+In exercise of the powers conferred under the sub-section (1) of Section 42 of the Reserve Bank of India Act, 1934 and in partial modification of the earlier notification <u>RPCD.CO.RCB.RRB.BC.No.27/07.02.01/2012-13 dated September 18, 2012</u>, the Reserve Bank of India hereby notifies that the average Cash Reserve Ratio (CRR) required to be maintained by every Scheduled State Co-operative Bank / Regional Rural Bank shall be
+
+4.25 per cent of its net demand and time liabilities from the fortnight beginning November 3,
+2012.
+## (V.K.Sharma)
+
+Executive Director
+
+# Withdrawn
+
+मामीण आयोजना और ऋण वभाग,के ���य कायालय,10 वी मंजल, क िय कायालय भवन, शहद भगतिसंह माग,पोःट बॉस सं. 10014,मुंबई -400 001 Rural Planning & Credit Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai 400001 टेली Tel :022-22601000 फै सः 91-22-22621011/22610943/22610948 ई -मेल : <u>cgminrpcd@rbi.org.in</u> हंद आसान है**,**इसका ूयोग बढ़ाइए।
+
+|“चेतावनी|Caution: -मेल रज़व बक ारा||डाक, एसएमएस|या फोन कॉल|के जरए कसी|क भी ����गत|जानकार|जैसे बक के खाते|का �यौरा, पासवड|आद नहं|
+|---|---|---|---|---|---|---|---|---|---|---|
+|मांगी जाती Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन|रखने या देने का ूःताव भी|नहं करता|है। ऐसे ूःताव का|कसी भी तरके|से जवाब|मत ���जए।"|passwords, etc. It never|||
