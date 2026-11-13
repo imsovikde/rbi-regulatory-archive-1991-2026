@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2007_3482"
+title: "RBI asks UCBs not to deal with 918 defaulted companies following Patna High Court Order"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77145.pdf"
+pdf_sha256: "68c12f009b73ba2b3c6faa1a03c6a175ddbbe8fbc3faa48380cd57a0db80d892"
+md_sha256: "9f45319b5dcca92f028bd9935025065849a63006cf3e7d287ba6c97a11a97c41"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-05-04_Notification_3482_RBI%20asks%20UCBs%20not%20to%20deal%20with%20918%20defaulted%20companies%20following%20Patna%20High%20Court%20Order.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI asks UCBs not to deal with 918 defaulted companies following Patna High Court Order
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/374 UBD. CO. BPD. (PCB). No. 41/12.05.001 /2006-07 May 4, 2007
+
+CEOs of All Primary (Urban) Co-operative Banks
+
+## Dear Sir / Madam
+
+**In the High Court of Judicature at Patna –** **CWJC No. 13422 of 2006 –** **Council for the Protection of Public Rights and welfare vs. Union of India and Others – Regarding**
+
+We have to advise you that the Hon'ble Patna High Court vide its order dated 10 April 2007 in the captioned matter has directed the Reserve Bank of India to direct all the banks that the companies listed in the enclosed list, which have been declared as "defaulted companies" be not allowed to deal with the money transaction in their accounts.
+
+2. You are, therefore, advised to ensure that no money transaction of the company/ies, declared as "defaulted companies" by the Hon'ble Patna High Court be allowed in your bank. Accordingly, you may advise all your branches in this regard immediately and report to the Bank about the compliance of the order.
+3. A copy of the order dated 10 April 2007 passed by the Hon'ble Patna High Court in the captioned matter and a copy of list containing the defaulted companies declared by the Hon'ble Patna High Court are enclosed for strict compliance of the order of the Court.
+4. Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully,
+
+(N.S.Vishwanathan) Chief General Manager-in-Charge

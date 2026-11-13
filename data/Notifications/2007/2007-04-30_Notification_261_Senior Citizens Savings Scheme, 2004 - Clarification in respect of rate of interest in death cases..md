@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2007_261"
+title: "Senior Citizens Savings Scheme, 2004 - Clarification in respect of rate of interest in death cases."
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/77076.pdf"
+pdf_sha256: "19b7d45f191c23bbd1ae6e7d2c3731ec94fe5675e5bf35a165cb62c355d620b4"
+md_sha256: "7aa89c72fd942724704b1e3de62e55ec3c699a920b8ca614a693183599bcf73f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-04-30_Notification_261_Senior%20Citizens%20Savings%20Scheme%2C%202004%20-%20Clarification%20in%20respect%20of%20rate%20of%20interest%20in%20death%20cases..pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Senior Citizens Savings Scheme, 2004 - Clarification in respect of rate of interest in death cases.
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/360
+
+DGBA.CDD. H-15824/15.15.001/2006-07 April 30, 2007
+
+The General Manager Government Accounts Department, Head Office State Bank of India / State Bank of Indore / State Bank of Patiala State Bank of Bikaner & Jaipur / State Bank of Saurashtra State Bank of Travancore / State Bank of Hyderabad / State Bank of Mysore Allahabad Bank / Bank of Baroda / Bank of India / Bank of Maharashtra/ Canara Bank / Central Bank of India / Corporation Bank / Dena Bank / Indian Bank/ Indian Overseas Bank / Punjab National Bank / Syndicate Bank /UCO Bank / Union Bank of India / United Bank of India / ICICI Bank Ltd / Vijaya Bank
+
+Dear Sir,
+
+## <u>Senior Citizens Savings Scheme, 2004 -</u>
+
+## <u>Clarification in respect of rate of interest in death cases.</u>
+
+Please refer to rule 8 (3) of Senior Citizens Savings Scheme, 2004 (SCSS) framed by Government of India, Ministry of Finance, vide Notification G.S.R. 490 (E) dated August 2, 2004, in respect of closure of SCSS account in case of death of a depositor before maturity.
+
+2. In this connection, Government of India, Ministry of Finance has, further, clarified that in cases where the depositor has expired before the maturity of the deposits and the nominee / legal heir approach the banker for closure of the deposit account, the nominee / legal heir in such cases is entitled to the benefit of Saving Bank rate of interest for the period commencing the date of death of the depositor to the date of closure of the account under SCSS, 2004.
+4. The contents of this circular may be brought to the notice of designated branches of your bank for information and compliance.
+5. Please acknowledge receipt.
+Yours faithfully,
+
+(Imtiyaz Ahmad) Assistant General Manager

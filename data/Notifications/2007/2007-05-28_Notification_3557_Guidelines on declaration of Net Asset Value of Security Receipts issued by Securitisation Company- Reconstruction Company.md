@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2007_3557"
+title: "Guidelines on declaration of Net Asset Value of Security Receipts issued by Securitisation Company/ Reconstruction Company"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77539.pdf"
+pdf_sha256: "f57c0d2d1cfb863abbe732d0eda93700013728bc6c35df294fe1d5c218ed1593"
+md_sha256: "57c092c5af912afa38ea9b4745d3aa0aea7cc06e9916146693bb0dcf62257fef"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-05-28_Notification_3557_Guidelines%20on%20declaration%20of%20Net%20Asset%20Value%20of%20Security%20Receipts%20issued%20by%20Securitisation%20Company-%20Reconstruction%20Company.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on declaration of Net Asset Value of Security Receipts issued by Securitisation Company/ Reconstruction Company
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/420 DNBS (PD) CC. No. 6 / SCRC / 10.30.049/ 2006-2007
+
+## May 28, 2007
+
+## All registered Securitisation Companies/Reconstruction Companies
+
+Dear Sir,
+
+## Guidelines on declaration of Net Asset Value of Security Receipts issued by Securitisation
+
+## Company/ Reconstruction Company
+
+In order to enable the Qualified Institutional Buyers to know the value of their investment in the Security Receipts issued by the Securitisation Company/Reconstruction Company, it has been decided that the Securitisation Company/Reconstruction Company registered with the Reserve Bank under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 should declare Net Asset Value of the Security Receipts issued by it at periodical intervals. Accordingly, broad guidelines on declaration of Net Asset Value on Security Receipts by Securitisation Company/Reconstruction Company are enclosed.
+
+2. These guidelines come into force with immediate effect.
+Yours faithfully,
+
+(P.Krishnamurthy) Chief General Manager-in-Charge

@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2007_3467"
+title: "Provision for e-payment facilities to Government Departments"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77077.pdf"
+pdf_sha256: "0d6cb31931c50e5f953205175cce856bf1488777e47924393c302ba016e147bb"
+md_sha256: "783d0c6010b5dad8913edab10484e5845f0b8605cb258cb01485767fce118236"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-04-30_Notification_3467_Provision%20for%20e-payment%20facilities%20to%20Government%20Departments.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Provision for e-payment facilities to Government Departments
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/359
+
+DGBA.GAD.No.H 15814 /31.03.002/2006-07 April 30, 2007
+
+The Chairman & Managing Director/ Managing Director All Agency banks
+
+Dear Sir,
+
+## Provision for e-payment facilities to Government Departments
+
+As you are aware, the Central Vigilance Commission has directed the Government Departments vide Office Order No.98/ORD/1 dated April 6, 2004 (copy enclosed) to switch over to e-payment and e-receipts system to ensure transparency and avoid delays in government transactions as such delays lead to opportunities for corruption.
+
+2. As a corollary, the agency banks are expected to provide an enabling environment and facilities to the customers for making government transactions electronically by providing ECS/EFT facilities. While several banks are offering such facilities to their customers, it has been reported to us by the Ministry of Railways that the progress of switching over to ECS/EFT has not been as expected due to unwillingness of the accredited agency banks in public sector in this regard. They have also brought to our notice that the accredited banks are not coming forward to open their deposit account.
+3. We therefore, advise you to instruct your branches handling Government business to assist the Government departments in implementing CVC guidelines as indicated in para 1 above whenever such requests are received from them. You are requested to forward a copy of your instructions issued in this regard to your branches for our perusal.
+## Yours faithfully
+
+(M.T.Varghese) General Manager

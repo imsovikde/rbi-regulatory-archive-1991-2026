@@ -1,0 +1,262 @@
+---
+doc_id: "Notifications_2007_3465"
+title: "Guidelines On Lending To Priority Sector – Revised"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77069.pdf"
+pdf_sha256: "63409eb8697b3858443ca6b7c86b403a717f2c64263c83ab2c3463fe695741de"
+md_sha256: "f81ea810b73295d0dd34c69ae032f29c8290a84f6deff55bb44ce7bbd342ea76"
+total_pages: 16
+native_pages: 16
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-04-30_Notification_3465_Guidelines%20On%20Lending%20To%20Priority%20Sector%20%E2%80%93%20Revised.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines On Lending To Priority Sector – Revised
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/358
+
+RPCD. No. Plan. BC. 84 /04.09.01/ 2006-07 April 30, 2007
+
+## The Chairman/ Managing Director/ Chief Executive Officer
+
+## [All scheduled commercial banks (excluding Regional Rural Banks)]
+
+Dear Sir,
+
+## <u>GUIDELINES ON LENDING TO PRIORITY SECTOR – Revised</u>
+
+As announced in the Reserve Bank's Annual Policy Statement for the year 2005-06, the prescriptions relating to priority sector lending have been modified and several new areas included from time to time. There is a view that enlargement of areas has resulted in loss of focus. There have also been suggestions for a further review of the eligibility criteria and other related aspects. Further, it is argued that only those sectors that impact large sections of the population, the weaker sections and the sectors which are employment-intensive such as agriculture, and tiny and small enterprises should be eligible for inclusion under the priority sector.
+
+2. In this context, an Internal Working Group was set up in Reserve Bank (Chairman: Shri C. S. Murthy) to examine the need for continuance of priority sector lending prescriptions; review the existing policy on priority sector lending including the segments constituting the priority sector, targets and sub-targets, etc.; and to recommend changes, if any, required in this regard. The recommendations of the Group have been examined in the light of the comments/suggestions received from the banks, financial institutions, Non-Banking Financial Companies, Associations of industries, media, public and Indian Banks’ Association, and accordingly the guidelines on priority sector lending have been revised. The detailed revised guidelines are enclosed.
+3. These guidelines take into account the revised definition of small and micro enterprises as per the Micro, Small and Medium Enterprises Development Act, 2006.
+4. The revised guidelines will be effective **with immediate effect**. In case, any bank has any difficulty in complying with the revised priority sector guidelines, they may approach Reserve Bank of India with appropriate reasons and time frame for compliance.
+
+<!-- PAGE 2 -->
+
+5. We are separately forwarding the revised formats of half-yearly and yearly returns for reporting data on priority sector advances.
+6. Please acknowledge receipt.
+Yours faithfully, **(C. S. Murthy)** **Chief General Manager-in-Charge**
+
+<!-- PAGE 3 -->
+
+## <u>Lending To Priority Sector</u>
+
+At a meeting of the National Credit Council held in July 1968, it was emphasised that commercial banks should increase their involvement in the financing of priority sectors, viz., agriculture and small scale industries. The description of the priority sectors was later formalised in 1972 on the basis of the report submitted by the Informal Study Group on Statistics relating to advances to the Priority Sectors constituted by the Reserve Bank in May 1971. On the basis of this report, the Reserve Bank prescribed a modified return for reporting priority sector advances and certain guidelines were issued in this connection indicating the scope of the items to be included under the various categories of priority sector. Although initially there was no specific target fixed in respect of priority sector lending, in November 1974 the banks were advised to raise the share of these sectors in their aggregate advances to the level of 33 1/3 per cent by March 1979.
+
+At a meeting of the Union Finance Minister with the Chief Executive Officers of public sector banks held in March 1980, it was agreed that banks should aim at raising the proportion of their advances to priority sector to 40 per cent by March 1985. Subsequently, on the basis of the recommendations of the Working Group on the Modalities of Implementation of Priority Sector Lending and the Twenty Point Economic Programme by Banks (Chairman: Dr. K. S. Krishnaswamy), all commercial banks were advised to achieve the target of priority sector lending at 40 per cent of aggregate bank advances by 1985. Sub-targets were also specified for lending to agriculture and the weaker sections within the priority sector. Since then, there have been several changes in the scope of priority sector lending and the targets and sub-targets applicable to various bank groups.
+
+On the basis of the recommendations made in September 2005 by the Internal Working Group (Chairman: Shri C. S. Murthy), set up in Reserve Bank to examine, review and recommend changes, if any, in the existing policy on priority sector lending including the segments constituting the priority sector, targets and sub-targets, etc. and the comments/suggestions received thereon from banks, financial institutions, public and the Indian Banks’ Association (IBA), it has been decided to include only those sectors as part of the priority sector, that impact large sections of the population, the weaker sections and the sectors which are employment-intensive such as agriculture, and tiny and small enterprises. Accordingly, the broad categories of priority sector for all scheduled commercial banks will be as under:
+
+<!-- PAGE 4 -->
+
+## I. CATEGORIES OF PRIORITY SECTOR
+
+**(i) Agriculture (Direct and Indirect finance):** Direct finance to agriculture shall include short, medium and long term loans given for agriculture and allied activities (dairy, fishery, piggery, poultry, bee- keeping, etc.) directly to individual farmers, Self-Help Groups (SHGs) or Joint Liability Groups (JLGs) of individual farmers without limit and to others (such as corporates, partnership firms and institutions) up to the limits indicated in Section I, for taking up agriculture/allied activities. Indirect finance to agriculture shall include loans given for agriculture and allied activities as specified in Section I, appended. **(ii) Small Enterprises (Direct and Indirect Finance):** Direct finance to small enterprises shall include all loans given to micro and small (manufacturing) enterprises engaged in manufacture/ production, processing or preservation of goods, and micro and small (service) enterprises engaged in providing or rendering of services, and whose investment in plant and machinery and equipment (original cost excluding land and building and such items as mentioned therein) respectively, does not exceed the amounts specified in Section I, appended. The micro and small (service) enterprises shall include small road & water transport operators, small business, professional & self-employed persons, and all other service enterprises, as per the definition given in Section I appended. Indirect finance to small enterprises shall include finance to any person providing inputs to or marketing the output of artisans, village and cottage industries, handlooms and to cooperatives of producers in this sector. **(iii) Retail Trade** shall include retail traders/private retail traders dealing in essential commodities (fair price shops), and consumer co-operative stores, as per the definition given in Section I appended.
+
+<!-- PAGE 5 -->
+
+**(iv) Micro Credit:** Provision of credit and other financial services and products of very small amounts not exceeding Rs. 50,000 per borrower, either directly or indirectly through a SHG/JLG mechanism or to NBFC/MFI for on-lending up to Rs. 50,000 per borrower, will constitute micro credit.
+
+**(v) Education loans:** Education loans include loans and advances granted to only individuals for educational purposes up to Rs. 10 lakh for studies in India and Rs. 20 lakh for studies abroad, and do not include those granted to institutions; **(vi) Housing loans:** Loans up to Rs. 20 lakh to individuals for purchase/construction of dwelling unit per family, (excluding loans granted by banks to their own employees) and loans given for repairs to the damaged dwelling units of families up to Rs. 1 lakh in rural and semi-urban areas and up to Rs. 2 lakh in urban and metropolitan areas.
+## II. OTHER IMPORTANT FEATURES OF THE GUIDELINES
+
+(i) Investments by banks in securitised assets, representing loans to various categories of priority sector, shall be eligible for classification under respective categories of priority sector (direct or indirect) depending on the underlying assets, provided the securitised assets are originated by banks and financial institutions and fulfil the Reserve Bank of India guidelines on securitisation. This would mean that the banks' investments in the above categories of securitised assets shall be eligible for classification under the respective categories of priority sector only if the securitised advances were eligible to be classified as priority sector advances before their securitisation. (ii) Outright purchases of any loan asset eligible to be categorised under priority sector, shall be eligible for classification under the respective categories of priority sector (direct or indirect), provided the loans purchased are eligible to be categorized under priority sector; the loan assets are purchased (after due diligence and at fair value) from banks and financial institutions, without any recourse to the seller; and the eligible loan assets are not disposed of, other than by way of repayment, within a period of six months from the date of purchase. (iii) Investments by banks in Inter Bank Participation Certificates (IBPCs), on a risk sharing basis, shall be eligible for classification under respective categories of priority sector, provided the underlying assets are eligible to be categorised under the respective categories of priority sector and are held for at least 180 days from the date of investment.
+
+<!-- PAGE 6 -->
+
+(iv) The targets and sub-targets under priority sector lending would be linked to Adjusted Net Bank Credit (ANBC) (Net Bank Credit plus investments made by banks in non-SLR bonds held in HTM category) or Credit Equivalent amount of Off-Balance Sheet Exposures (OBE), whichever is higher, as on March 31 of the previous year. The outstanding FCNR (B) and NRNR deposits balances will no longer be deducted for computation of ANBC for priority sector lending purposes. Investments made by banks in the Recapitalization Bonds floated by Government of India will not be taken into account for the purpose. Existing investments, as on the date of this circular, made by banks in non-SLR bonds held in HTM category will not be taken into account for calculation of ANBC, up to March 31, 2010. However, fresh investments by banks in non-SLR bonds held in HTM category will be taken into account for the purpose. Deposits placed by banks with NABARD/SIDBI, as the case may be, in lieu of non-achievement of priority sector lending targets/sub-targets, though shown under Schedule 8 – 'Investments' in the Balance Sheet at item I (vi) – 'Others', will not be treated as investment in non-SLR bonds held under HTM category. For the purpose of calculation of credit equivalent of off-balance sheet exposures, banks may use current exposure method. Inter-bank exposures will not be taken into account for the purpose of priority sector lending targets/sub-targets.
+
+(v) Fresh deposits placed by banks' on or after the date of this circular with NABARD/SIDBI on account of non-achievement of priority sector lending targets/sub-targets would not be eligible for classification as indirect finance to agriculture/Small Enterprises Sector, as the case may be. However, the deposits placed with NABARD/SIDBI by banks on the above account and **outstanding** as on the date of this circular would be eligible for classification as indirect finance to agriculture/Small Enterprises sector, as the case may be, till the date of maturity of such deposits or March 31, 2010, whichever is earlier.
+## III. TARGETS/SUB-TARGETS
+
+The targets and sub-targets set under priority sector lending for domestic and foreign banks operating in India are furnished below:
+
+<!-- PAGE 7 -->
+
+||Domestic commercial banks|Foreign banks|
+|---|---|---|
+|Total Priority Sector advances|40 per cent of Adjusted Net Bank Credit (ANBC) or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|32 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|
+|Total agricultural|18 per cent of ANBC or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher.|No target.|
+|advances|Of this, indirect lending in excess of 4.5% of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, will not be reckoned for computing performance under 18 per cent target. However, all agricultural advances under the categories 'direct' and 'indirect' will be reckoned in computing performance under the overall priority sector target of 40 per cent of ANBC or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher.||
+|Small Enterprise advances|Advances to small enterprises sector will be reckoned in computing performance under the overall priority sector target of 40 per cent of ANBC or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher.|10 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|
+|Micro enterprises within Small Enterprises sector|(i) 40 per cent of total advances to small enterprises sector should go to micro (manufacturing) enterprises having investment in plant and machinery up to Rs 5 lakh and micro (service) enterprises having investment in equipment up to Rs. 2 lakh; (ii) 20 per cent of total advances to small enterprises sector should go to micro (manufacturing) enterprises with investment in plant and machinery above Rs 5 lakh and up to Rs. 25 lakh, and micro (service) enterprises with investment in equipment above Rs. 2 lakh and up to Rs. 10 lakh. (Thus, 60 per cent of small enterprises advances should go to the micro enterprises).|Same as for domestic banks.|
+|Export credit|Export credit is not a part of priority sector for domestic commercial banks.|12 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|
+|Advances to weaker sections|10 per cent of ANBC or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher.|No target.|
+|Differential Rate of Interest Scheme|1 per cent of total advances outstanding as at the end of the previous year. It should be ensured that not less than 40 per cent of the total advances granted under DRI scheme go to scheduled caste/scheduled tribes. At least two third of DRI advances should be granted through rural and semi-urban branches.|No target.|
+
+<!-- PAGE 8 -->
+
+***[ANBC or credit equivalent of Off-Balance Sheet Exposures (as defined by Department of*** ***Banking Operations and Development of Reserve Bank of India from time to time) will be*** ***computed with reference to the outstanding as on March 31 of the previous year. For this*** ***purpose, outstanding FCNR (B) and NRNR deposits balances will no longer be deducted for*** ***computation of ANBC for priority sector lending purposes. For the purpose of priority sector*** ***lending, ANBC denotes NBC plus investments made by banks in non-SLR bonds held in*** ***HTM category. Investments made by banks in the Recapitalization Bonds floated by*** ***Government of India will not be taken into account for the purpose of calculation of ANBC.*** ***Existing investments, as on the date of this circular, made by banks in non-SLR bonds held*** ***in HTM category will not be taken into account for calculation of ANBC, up to March 31,***
+
+***2010. However, fresh investments by banks in non-SLR bonds held in HTM category will be*** ***taken into account for the purpose. Deposits placed by banks with NABARD/SIDBI, as the*** ***case may be, in lieu of non-achievement of priority sector lending targets/sub-targets,*** ***though shown under Schedule 8 – 'Investments' in the Balance Sheet at item I (vi) – 'Others',*** ***will not be treated as investment in non-SLR bonds held under HTM category. For the*** ***purpose of calculation of credit equivalent of off-balance sheet exposures, banks may use*** ***current exposure method. Inter-bank exposures will not be taken into account for the purpose of priority sector lending targets/sub-targets.]*** The detailed guidelines in this regard are given hereunder.
+
+<!-- PAGE 9 -->
+
+## <u>SECTION I</u>
+
+**1. AGRICULTURE** **DIRECT FINANCE**
+**1.1 Finance to individual farmers [including Self Help Groups (SHGs) or Joint Liability** **Groups (JLGs), i.e. groups of individual farmers, provided banks maintain** **disaggregated data on such finance] for Agriculture and Allied Activities (dairy, fishery, piggery, poultry, bee-keeping, etc.)**
+**1.1.1** Short-term loans for raising crops, i.e. for crop loans. This will include traditional/non-traditional plantations and horticulture.
+**1.1.2** Advances up to Rs. 10 lakh against pledge/hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months, irrespective of whether the farmers were given crop loans for raising the produce or not.
+**1.1.3** Working capital and term loans for financing production and investment requirements for agriculture and allied activities.
+**1.1.4** Loans to small and marginal farmers for purchase of land for agricultural purposes.
+**1.1.5** Loans to distressed farmers indebted to non-institutional lenders, against appropriate collateral or group security.
+**1.1.6** Loans granted for pre-harvest and post-harvest activities such as spraying, weeding, harvesting, grading, sorting, processing and transporting undertaken by individuals, SHGs and cooperatives in rural areas.
+## 1.2 Finance to others [such as corporates, partnership firms and institutions] for
+
+## Agriculture and Allied Activities (dairy, fishery, piggery, poultry, bee-keeping, etc.)
+
+**1.2.1** Loans granted for pre-harvest and post harvest activities such as spraying, weeding, harvesting, grading, sorting and transporting.
+**1.2.2** Finance up to an aggregate amount of Rs. one crore per borrower for the purposes listed at 1.1.1, 1.1.2, 1.1.3 and 1.2.1 above.
+**1.2.3** One-third of loans in excess of Rs. one crore in aggregate per borrower for agriculture and allied activities.
+## INDIRECT FINANCE
+
+## 1.3 Finance for Agriculture and Allied Activities
+
+**1.3.1** Two-third of loans to entities covered under 1.2 above in excess of Rs. one crore in aggregate per borrower for agriculture and allied activities.
+**1.3.2** Loans to food and agro-based processing units with investments in plant and machinery up to Rs. 10 crore, undertaken by those other than 1.1.6 above.
+
+<!-- PAGE 10 -->
+
+**1.3.3** (i) Credit for purchase and distribution of fertilisers, pesticides, seeds, etc. (ii) Loans up to Rs. 40 lakh granted for purchase and distribution of inputs for the
+allied activities such as cattle feed, poultry feed, etc.
+
+**1.3.4** Finance for setting up of Agriclinics and Agribusiness Centres.
+**1.3.5** Finance for hire-purchase schemes for distribution of agricultural machinery and implements.
+**1.3.6** Loans to farmers through Primary Agricultural Credit Societies (PACS), Farmers’ Service Societies (FSS) and Large-sized Adivasi Multi Purpose Societies (LAMPS).
+**1.3.7** Loans to cooperative societies of farmers for disposing of the produce of members.
+**1.3.8** Financing the farmers indirectly through the co-operative system (otherwise than by subscription to bonds and debenture issues).
+**1.3.9** Existing investments as on March 31, 2007, made by banks in special bonds issued by NABARD with the objective of financing exclusively agriculture/allied activities may be classified as indirect finance to agriculture till the date of maturity of such bonds or March 31, 2010, whichever is earlier. Fresh investments in such special bonds made subsequent to March 31, 2007 will, however, not be eligible for such classification.
+**1.3.10** Loans for construction and running of storage facilities (warehouse, market yards, godowns, and silos), including cold storage units designed to store agriculture produce/products, irrespective of their location. If the storage unit is registered as SSI unit/micro or small enterprise, the loans granted to such units may be classified under advances to Small Enterprises sector.
+**1.3.11** Advances to Custom Service Units managed by individuals, institutions or organisations who maintain a fleet of tractors, bulldozers, well-boring equipment, threshers, combines, etc., and undertake work for farmers on contract basis.
+**1.3.12** Finance extended to dealers in drip irrigation/sprinkler irrigation system/agricultural machinery, irrespective of their location, subject to the following conditions:
+(a) The dealer should be dealing exclusively in such items or if dealing in other products, should be maintaining separate and distinct records in respect of such items.
+(b) A ceiling of up to Rs. 30 lakh per dealer should be observed.
+**1.3.13** Loans to *Arthias* (commission agents in rural/semi-urban areas functioning in markets/*mandies*) for extending credit to farmers, for supply of inputs as also for buying the output from the individual farmers/ SHGs/ JLGs.
+
+<!-- PAGE 11 -->
+
+**1.3.14** Fifty per cent of the credit outstanding under loans for general purposes under General Credit Cards (GCC).
+**1.3.15** The deposits placed in RIDF with NABARD by banks on account of non- achievement of priority sector lending targets/sub-targets and **outstanding** as on the date of this circular would be eligible for classification as indirect finance to agriculture sector till the date of maturity of such deposits or March 31, 2010, whichever is earlier.
+**1.3.16** Loans already disbursed and outstanding as on the date of this circular to State Electricity Boards (SEBs) and power distribution corporations/companies, emerging out of bifurcation/restructuring of SEBs, for reimbursing the expenditure already incurred by them for providing low tension connection from step-down point to individual farmers for energising their wells and for Systems Improvement Scheme under Special Project Agriculture (SI-SPA), are eligible for classification as indirect finance till the dates of their maturity/repayment or March 31, 2010, whichever is earlier. Fresh advances will, however, not be eligible for classification as indirect finance to agriculture.
+**1.3.17** Loans to National Co-operative Development Corporation (NCDC) for on-lending to the co-operative sector for purposes coming under the priority sector will be treated as indirect finance to agriculture till March 31, 2010.
+**1.3.18** Loans to Non-Banking Financial Companies (NBFCs) for on lending to individual farmers or their SHGs/JLGs.
+**1.3.19** Loans granted to NGOs/MFIs for on-lending to individual farmers or their SHGs/JLGs.
+## 2 SMALL ENTERPRISES
+
+## DIRECT FINANCE
+
+## 2.1 Direct Finance in the small enterprises sector will include credit to:
+
+## 2.1.1 Manufacturing Enterprises
+
+## (a) Small (manufacturing) Enterprises
+
+Enterprises engaged in the manufacture/production, processing or preservation of goods and whose investment in plant and machinery [original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification no. S.O. 1722 (E) dated October 5, 2006] does not exceed Rs. 5 crore.
+
+## (b) Micro (manufacturing) Enterprises
+
+Enterprises engaged in the manufacture/production, processing or preservation of goods and whose investment in plant and machinery [original cost excluding land and building and such items as in 2.1.1 (a)] does not exceed Rs. 25 lakh, irrespective of the location of the unit.
+
+<!-- PAGE 12 -->
+
+## 2.1.2 Service Enterprises
+
+## (a) Small (service) Enterprises
+
+Enterprises engaged in providing/rendering of services and whose investment in equipment (original cost excluding land and building and furniture, fittings and other items not directly related to the service rendered or as may be notified under the MSMED Act, 2006) does not exceed Rs. 2 crore.
+
+## (b) Micro (service) Enterprises
+
+Enterprises engaged in providing/rendering of services and whose investment in equipment [original cost excluding land and building and furniture, fittings and such items as in 2.1.2 (a)] does not exceed Rs. 10 lakh.
+
+**(c)** The small and micro (service) enterprises shall include small road & water transport operators, small business, professional & self-employed persons, and all other service enterprises.
+## 2.1.3 Khadi and Village Industries Sector (KVI)
+
+All advances granted to units in the KVI sector, irrespective of their size of operations, location and amount of original investment in plant and machinery. Such advances will be eligible for consideration under the sub-target (60 per cent) of the small enterprises segment within the priority sector.
+
+## INDIRECT FINANCE
+
+**2.2 Indirect finance to the small (manufacturing as well as service) enterprises sector will include credit to:**
+**2.2.1** Persons involved in assisting the decentralised sector in the supply of inputs to and marketing of outputs of artisans, village and cottage industries.
+**2.2.2** Advances to cooperatives of producers in the decentralised sector viz. artisans village and cottage industries.
+**2.2.3** Existing investments as on March 31, 2007, made by banks in special bonds issued by NABARD with the objective of financing exclusively non-farm sector may be classified as indirect finance to Small Enterprises sector till the date of maturity of such bonds or March 31, 2010, whichever is earlier. Investments in such special bonds made subsequent to March 31, 2007 will, however, not be eligible for such classification.
+**2.2.4** The deposits placed with SIDBI by foreign banks, having offices in India, on account of non-achievement of priority sector lending targets/sub-targets and **outstanding** as on the date of this circular would be eligible for classification as indirect finance to Small Enterprises sector till the date of maturity of such deposits or March 31, 2010, whichever is earlier.
+**2.2.5** Loans granted by banks to NBFCs for on-lending to small and micro enterprises (manufacturing as well as service).
+
+<!-- PAGE 13 -->
+
+## 3. RETAIL TRADE
+
+**3.1** Advances granted to retail traders dealing in essential commodities (fair price shops), consumer co-operative stores, and;
+**3.2** Advances granted to private retail traders with credit limits not exceeding Rs. 20 lakh.
+## 4. MICRO CREDIT
+
+**4.1** Loans of very small amount not exceeding Rs. 50,000 per borrower provided by banks either directly or indirectly through a SHG/JLG mechanism or to NBFC/MFI for on-lending up to Rs. 50,000 per borrower.
+## 4.2 Loans to poor indebted to informal sector
+
+Loans to distressed persons (other than farmers) to prepay their debt to non- institutional lenders, against appropriate collateral or group security, would be eligible for classification under priority sector.
+
+## 5. STATE SPONSORED ORGANIZATIONS FOR SCHEDULED CASTES/SCHEDULED TRIBES
+
+Advances sanctioned to State Sponsored Organisations for Scheduled Castes/ Scheduled Tribes for the specific purpose of purchase and supply of inputs to and/or the marketing of the outputs of the beneficiaries of these organisations.
+
+## 6. EDUCATION
+
+**6.1** Educational loans granted to individuals for educational purposes up to Rs. 10 lakh for studies in India and Rs. 20 lakh for studies abroad. Loans granted to institutions will not be eligible to be classified as priority sector advances.
+**6.2** Loans granted by banks to NBFCs for on-lending to individuals for educational purposes up to Rs. 10 lakh for studies in India and Rs. 20 lakh for studies abroad.
+## 7. HOUSING
+
+**7.1** Loans up to Rs. 20 lakh, irrespective of location, to individuals for purchase/construction of a dwelling unit per family, excluding loans granted by banks to their own employees.
+**7.2** Loans given for repairs to the damaged dwelling units of families up to Rs. 1 lakh in rural and semi-urban areas and up to Rs. 2 lakh in urban and metropolitan areas.
+**7.3** Assistance given to any governmental agency for construction of dwelling units or for slum clearance and rehabilitation of slum dwellers, subject to a ceiling of Rs. 5 lakh of loan amount per dwelling unit.
+
+<!-- PAGE 14 -->
+
+**7.4** Assistance given to a non-governmental agency approved by the NHB for the purpose of refinance for construction/reconstruction of dwelling units or for slum clearance and rehabilitation of slum dwellers, subject to a ceiling of loan component of Rs. 5 lakh per dwelling unit.
+## 8. Weaker Sections
+
+The weaker sections under priority sector shall include the following:
+
+(a) Small and marginal farmers with land holding of 5 acres and less, and landless labourers, tenant farmers and share croppers;
+(b) Artisans, village and cottage industries where individual credit limits do not exceed Rs. 50,000;
+(c) Beneficiaries of Swarnjayanti Gram Swarozgar Yojana (SGSY);
+(d) Scheduled Castes and Scheduled Tribes;
+(e) Beneficiaries of Differential Rate of Interest (DRI) scheme;
+(f) Beneficiaries under Swarna Jayanti Shahari Rozgar Yojana (SJSRY);
+(g) Beneficiaries under the Scheme for Liberation and Rehabilitation of Scavengers (SLRS);
+(h) Advances to Self Help Groups;
+(i) Loans to distressed poor to prepay their debt to informal sector, against appropriate collateral or group security.
+## 9. Export Credit
+
+This category will form part of priority sector for foreign banks only.
+
+<!-- PAGE 15 -->
+
+## SECTION II
+
+## PENALTIES FOR NON-ACHIEVEMENT OF PRIORITY SECTOR LENDING TARGET / SUB-TARGETS
+
+## 1. Domestic scheduled commercial banks – Contribution by banks to Rural Infrastructure Development Fund (RIDF):
+
+**1.1** Domestic scheduled commercial banks having shortfall in lending to priority sector target (40 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher) and / or agriculture target (18 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher) shall be allocated amounts for contribution to the Rural Infrastructure Development Fund (RIDF) established with NABARD. For the purpose of allocation of RIDF tranche, the achievement level of priority sector lending as on the last reporting Friday of March of the immediately preceding financial year will be taken into account. The concerned banks will be called upon by NABARD, on receiving demands from various State Governments, to contribute to RIDF.
+**1.2** The corpus of a particular tranche of RIDF is decided by Government of India every year. Fifty per cent of the corpus shall be allocated among the domestic commercial banks having shortfall in lending to priority sector target of 40 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, on a pro-rata basis. The balance fifty per cent of the corpus shall be allocated among the banks having shortfall in lending to agriculture target of 18 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, on a pro-rata basis. The amount of contribution by banks to a particular tranche of RIDF will be decided in the beginning of the financial year.
+**1.3** The interest rates on banks’ contribution to RIDF shall be fixed by Reserve Bank of India from time to time.
+**1.4** Details regarding operationalisation of the RIDF such as the amounts to be deposited by banks, interest rates on deposits, period of deposits, etc., will be communicated to the concerned banks separately by August of each year to enable them to plan their deployment of funds.
+## 2. Foreign Banks – Deposit by Foreign Banks with SIDBI
+
+**2.1** The foreign banks having shortfall in lending to stipulated priority sector target/sub- targets will be required to contribute to Small Enterprises Development Fund (SEDF) to be set up by Small Industries Development Bank of India (SIDBI), or for such other purpose as may be stipulated by Reserve Bank of India from time to time.
+**2.2** For the purpose of such allocation, the achievement level of priority sector lending as on the last reporting Friday of March of the immediately preceding financial year will be taken into account.
+
+<!-- PAGE 16 -->
+
+**2.3** The corpus of SEDF shall be decided by Reserve Bank of India on a year-to-year basis. The tenor of the deposits shall be for a period of three years or as decided by Reserve Bank from time to time. Fifty per cent of the corpus shall be contributed by foreign banks having shortfall in lending to priority sector target of 32 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, on a pro-rata basis. The balance fifty per cent of the corpus shall be contributed by foreign banks having aggregate shortfall in lending to Small Enterprises sector and export sector of 10 per cent and 12 per cent respectively, of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, on a pro-rata basis. The contribution required to be made by foreign banks would, however, not be more than the amount of shortfall in priority sector lending target/sub-targets of the foreign banks.
+**2.4** The concerned foreign banks will be called upon by SIDBI/or such other institution as may be decided by Reserve Bank, as and when funds are required by them, after giving one month’s notice.
+**2.5** The interest rates on foreign banks’ contribution, period of deposits, etc. shall be fixed by Reserve Bank of India from time to time.
+**3.** Non-achievement of priority sector targets and sub-targets will be taken into account while granting regulatory clearances/approvals for various purposes.

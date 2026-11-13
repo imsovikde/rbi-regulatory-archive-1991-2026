@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2007_3448"
+title: "Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and FCNR(B) deposits"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76983.pdf"
+pdf_sha256: "b27c12d04b48870989d8b225db2d8584a32b5bc512c2a0c5eb9ba55e575f0080"
+md_sha256: "0d857a16b48586274fcf408f9df995a262460f92d19fa7b49882a4cc129d4bf6"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-04-24_Notification_3448_Interest%20Rates%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits%20and%20FCNR%28B%29%20deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and FCNR(B) deposits
+
+<!-- PAGE 1 -->
+
+## RBI/2006-07/344 DBOD. No. Dir. BC. 89 /13.03.00/2006-07
+
+## April 24, 2007
+
+## All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and FCNR(B) deposits</u>
+
+Please refer to paragraphs 114, 115 and 116 of the Annual Policy Statement for the year 2007-08 announced by Governor on April 24, 2007 (copy of the paragraphs enclosed).
+
+**2**. **Interest Rates on Non-Resident (External) Rupee (NRE) Deposits** Please refer to paragraph 2 of our circular DBOD.No.Dir.BC.55/13.03.00/2006-07 dated January 31, 2007 on Interest Rates on Deposits held in Non-Resident (External) (NRE) Accounts. On a review, it has been decided that until further notice and with effect from close of business in India as on April 24, 2007, the interest rates on Non-Resident (External) Rupee (NRE) Term Deposits will be as under: The interest rates on fresh Non-Resident (External) Rupee (NRE) Term Deposits for one to three years maturity should not exceed the LIBOR / SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturities. (as against LIBOR / SWAP rates plus 50 basis points effective from close of business on January 31, 2007). The interest rates as determined above for three year deposits will also be applicable in case the maturity period exceeds three years. The changes in interest rates will also apply to NRE deposits renewed after their present maturity period.
+## 3. Interest Rates on FCNR(B) Deposits
+
+Please refer to paragraph 3 of our circular dated January 31, 2007 on Interest Rates on Deposits held in FCNR (B) Accounts. On a review, it has been decided that until further notice and with effect from the close of business in India as on April 24, 2007, the interest rates on FCNR(B) Deposits will be as under:
+
+In respect of FCNR (B) deposits of all maturities contracted effective from the close of business in India as on April 24, 2007, interest shall be paid within the ceiling rate of LIBOR / SWAP rates for the respective currency / corresponding maturities minus 75 basis points (as against LIBOR/ SWAP rates minus 25 basis points effective from close of business on January 31, 2007). On floating rate deposits, interest shall be paid within the ceiling of SWAP rates for the respective currency / maturity minus 75 basis points. For floating rate deposits, the interest reset period shall be six months.
+
+**4.** The other instructions, as contained in our Master Circulars DBOD. Dir. BC.6 & 7/13.03.00/2006- 07 dated July 1, 2006 as amended from time to time shall remain unchanged. An amending directive DBOD.No.Dir.BC.88 /13.03.00/2005-06 dated April 24, 2007 is enclosed.
+Yours faithfully,
+
+## (P. Vijaya Bhaskar)
+
+Chief General Manager
+
+<!-- PAGE 2 -->
+
+## Paragraphs 114, 115 and 116 of the Annual Policy Statement for the year 2007- 08
+
+## Interest Rate Prescriptions
+
+114.In the context of large capital inflows and implications for liquidity and monetary management, there is a need to review the interest rate prescriptions related to NRI deposits, *viz.,* foreign currency non- resident (banks) [FCNR (B))] deposits and Non-Resident (External) Rupee Account [NR(E)RA] deposits, especially in the light of inflation and interest rate differentials between India and the rest of the world. In this context, the following measures are proposed:
+## (a)Interest Rates on FCNR (B) Deposits
+
+115.Currently, the interest rate ceiling on FCNR (B) deposits of all maturities has been fixed at LIBOR/SWAP rates for the corresponding maturities minus 25 basis points for the respective foreign currencies. In view of the prevailing monetary conditions, it is proposed: •to reduce, with immediate effect, the interest rate ceiling on FCNR (B) deposits by 50 basis points, *i.e.*, to Libor minus 75 basis points.
+## (b)Interest Rate on NR(E)RA Deposits
+
+116.Currently, the interest rate ceiling on NR(E)RA for one to three years maturity should not exceed 50 basis points above LIBOR/SWAP rates for US dollar of corresponding maturity. In view of the prevailing monetary conditions, it is proposed: •to reduce, with immediate effect, the interest rate ceiling on NR(E)RA deposits by 50 basis points, *i.e.*, to LIBOR/SWAP rates.

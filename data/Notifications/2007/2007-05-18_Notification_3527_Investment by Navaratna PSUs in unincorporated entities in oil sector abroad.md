@@ -1,0 +1,62 @@
+---
+doc_id: "Notifications_2007_3527"
+title: "Investment by Navaratna  PSUs in unincorporated entities in oil sector abroad"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77397.PDF"
+pdf_sha256: "b6e89abf3f590bcf31f80aff8b50b23e7612f829bb8466b2e16a422e9487c1e5"
+md_sha256: "f4360166d3029070f688190bfea13d937be9134914939ab0a90b8eab8db2777c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-05-18_Notification_3527_Investment%20by%20Navaratna%20PSUs%20in%20unincorporated%20entities%20in%20oil%20sector%20abroad.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Navaratna  PSUs in unincorporated entities in oil sector abroad
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/403 A. P. (DIR Series) Circular No. 59
+
+## May 18, 2007
+
+To,
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Investment by Navaratna Public Sector Undertakings (PSUs) in unincorporated entities in oil sector abroad
+
+Authorised Dealer Category-I (AD Category-I) banks are aware that investment in the oil sector (i.e. for exploration and drilling for oil and natural gas, etc.) in an unincorporated entity overseas by an Indian party requires prior approval of the Reserve Bank.
+
+# 2022
+
+2. Such proposals of Navratna PSUs (status given by the Department of Public Enterprises,
+22, Ministry of Heavy Industries and Public Enterprises, Government of India) are cleared by the competent authority, depending on the amount involved, viz. by (1) Board of Directors of the respective PSU, (2) Empowered Committee of the Secretaries (ECS), and (3) Cabinet
+
+# August
+
+Committee on Economic Affairs (CCEA).
+
+3. In view of the existing controls in place, it has now been decided to further liberalise and
+w.e.f.
+simplify the procedures and to allow Navaratna PSUs to invest in unincorporated entities in oil sector abroad, under the automatic route. Accordingly, AD Category-I banks may allow the remittances by Navaratna PSUs towards investment in the oil sector (i.e. for exploration and drilling for oil and natural gas, etc.) in an unincorporated entity overseas after ensuring that the proposal has been approved by the appropriate competent authority, as stated above and is
+
+# Withdrawn
+
+duly supported by a certified copy of the Board Resolution approving such investment. The investments would be subject to the usual reporting requirements.
+
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this Circular have been issued under Section 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan) Chief General Manager
+
+# Withdrawn w.e.f. August 22, 2022
