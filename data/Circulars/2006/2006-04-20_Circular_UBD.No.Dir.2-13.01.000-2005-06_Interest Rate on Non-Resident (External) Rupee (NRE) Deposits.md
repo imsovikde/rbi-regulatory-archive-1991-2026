@@ -1,0 +1,52 @@
+---
+doc_id: "Circulars_2006_UBD_No_Dir_2_13_01_000_2005-06"
+title: "Interest Rate on Non-Resident (External) Rupee (NRE) Deposits"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69986.PDF"
+pdf_sha256: "3f445fad6ed54a088caf8109d99d6f8187b1539c8f6ab1b54c70d5f69d549e05"
+md_sha256: "0b964254a75ec51939e57bd637d92472e278cef95946c732f889a68420d02e9f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:53:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-04-20_Circular_UBD.No.Dir.2-13.01.000-2005-06_Interest%20Rate%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate on Non-Resident (External) Rupee (NRE) Deposits
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/370 UBD.(PCB). BPD.No. Cir 48 /13.01.000/2005-06 April 20, 2006
+
+The Chief Executive Officers( of All Primary (urban) Co-operative Banks
+
+Dear Sir/ Madam,
+
+<u>Interest Rate on Non-Resident (External) Rupee (NRE) Deposits-UCBs</u>
+
+Please refer to our circular UBD.PCB.Cir 17/13.01.000/2005-06 dated November 22, 2005 read with UBD (PCB) BPD Cir No. 42/13.01.000/2005-06 dated April 5, 2006 on the captioned subject.
+
+2. On a review, it has been decided that until further notice and with effect from close of business in India on April 18, 2006, the interest rates on Non-Resident (External) Rupee (NRE) Term Deposits will be as under:
+(i) The interest rates on fresh repatriable Non-Resident (External) Rupee (NRE) Term deposits for one to three years should not exceed the LIBOR/ SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturities plus 100 basis points (as against 75 basis points effective since November 17, 2005). (ii) The interest rates as determined at para 2 (i) for three year deposits should also be applicable in case the maturity period exceeds three years. (iii) The changes in interest rates will also apply to NRE deposits renewedWithdrawn after their present maturity period.
+3. A directive amending the earlier directive dated November 22, 2005 on the interest rate is annexed. All Other terms and conditions applicable to the NRI deposits remain unchanged.
+4. Please acknowledge the receipt to the concerned Regional Office of Reserve Bank of India.
+## Yours faithfully
+
+(N.S.Vishwanathan) Chief General Manager-in-charge
+
+<!-- PAGE 2 -->
+
+UBD.No.Dir. 2 /13.01.000/2005-06 April 20, 2006
+
+<u>Interest Rate on Non-Resident (External) Rupee (NRE) Deposits</u>
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 (AACS) and in partial modification of directive UBD.No. Dir 1/13.01.000/2005- 06 dated November 22, 2005 on Interest Rates on Non Resident (External) Rupee (NRE) deposits, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby effects the under noted changes in the interest rates on Non Resident (External) Rupee (NRE) deposits.
+
+“The interest rates on Non-Resident (External) Rupee (NRE) deposits for one to three years maturity contracted with effect from close of business in India on April 18, 2006 shall not exceed the LIBOR/ SWAP rates of the last working day of the previous month for US dollar of corresponding maturities plus 100 basis points. The interest rate as determined above shall also be applicable in case the maturity period exceeds three years. The above changes in interest rates will also apply to NRE term deposits renewed after their present maturity period”.
+
+(V.S Das) Executive Director
+
+# Withdrawn

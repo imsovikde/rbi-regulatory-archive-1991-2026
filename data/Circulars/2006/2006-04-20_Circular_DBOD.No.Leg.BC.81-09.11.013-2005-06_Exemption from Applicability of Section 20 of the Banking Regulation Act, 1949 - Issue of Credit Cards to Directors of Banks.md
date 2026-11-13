@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2006_DBOD_No_Leg_BC_81_09_11_013_2005-06"
+title: "Exemption from Applicability of Section 20 of the Banking Regulation Act, 1949 - Issue of Credit Cards to Directors of Banks"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69985.PDF"
+pdf_sha256: "4cd1862059a00b6f8981f77059a02206ca42f5d9bf8cd722c9a933ef235c35dd"
+md_sha256: "4e006a76b0df242b22d3ddbadb7e836ce2dd65722d8eac9aa7e77008258493ac"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:53:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-04-20_Circular_DBOD.No.Leg.BC.81-09.11.013-2005-06_Exemption%20from%20Applicability%20of%20Section%2020%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Issue%20of%20Credit%20Cards%20to%20Directors%20of%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exemption from Applicability of Section 20 of the Banking Regulation Act, 1949 - Issue of Credit Cards to Directors of Banks
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/368
+
+DBOD.No.Leg.BC.81/09.11.013/2005-06
+
+## April 20, 2006
+
+To
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+<u>Exemption from applicability of Section 20 of the Banking Regulation Act,</u> <u>1949- Issue of Credit Cards to Directors of banks</u>
+
+Please refer to para 1.2.4 of our Master Circular DBOD.Dir.BC. 8/13.03.00 /2005-06 dated July 1, 2005 on 'Loans and Advances - 'Statutory and Other Restrictions', wherein it was advised that for the purpose of section 20 of the Banking Regulation Act, 1949, the term "loans and advances" shall not include loans or advances against Government securities, life insurance policies, or fixed deposit, facilities like bills purchased / discounted, purchase of cheques, other non-fund based facilities like acceptance / co-acceptance of bills, opening of L/Cs and issue of guarantees etc.
+
+2. It has further been decided, in exercise of powers conferred by clause (a) of the Explanation under sub-section 4 of Section 20 of the Banking Regulation Act, 1949 (10 of 1949), that for the purpose of aforesaid Section, the term "loan or advance" shall not include a credit limit granted under credit card facility provided by the bank to its Directors to the extent the credit limit so granted is determined by the bank by applying the same criteria as applied by it in the normal conduct of the credit card business.
+# Withdrawn
+
+3.Please acknowledge receipt.
+## Yours faithfully
+
+(Prashant Saran) Chief General Manager in-Charge

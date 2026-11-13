@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2006_UBD_BPD_PCB_Cir_No_44_09_18_100_2005-06"
+title: "Distribution of Units of Mutual Funds - UCBs"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69815.PDF"
+pdf_sha256: "7fc42962df6df2d5582cd22561d6cda9c27f9da750730e803c5008402ec43d5f"
+md_sha256: "43a06fd48eabbeb16ee1b32c4b7033bc17bca8d892865adcb5bddacafc1508f3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:53:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-04-13_Circular_UBD.BPD%28PCB%29Cir.No.44-09.18.100-2005-06_Distribution%20of%20Units%20of%20Mutual%20Funds%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Distribution of Units of Mutual Funds - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/360 UBD.BPD(PCB) Cir.No.44/ 09.18.100/2005-06 April 13, 2006.
+
+The Chief Executive Officers of All Primary (urban) Co-operative Banks
+
+Dear Sir /Madam,
+
+Distribution of units of Mutual Funds- UCBs
+
+We have been receiving requests from banks and their Associations/ Federations for marketing of units of Mutual Funds as agents. The matter has been examined and it has been decided that primary (urban) co-operative banks (UCBs) registered in states, which have signed MOU and those registered under the Multi- State Co-operative Societies Act, 2002 may enter into agreements with Mutual Funds for marketing their units subject to the following terms and conditions:
+
+(i) The bank should act as an agent of the customers, forwarding the investors' application for purchase/ sale of MF units to the Mutual Fund/ the Registrar / the transfer agents. (ii) The purchase of MF units should be at the customers' risk and without the Withdrawn bank guaranteeing any assured return. (iii) The bank should not acquire such units of Mutual Fund from the secondary market. (iv) The bank should not buy back units of Mutual Funds from the customers.
+(v) The bank holding custody of MF units on behalf of their customers should ensure that its own investment, where permitted, and investments belonging to their customers are kept distinct from each other. (vi) With a view to ensuring better control, retailing of units of Mutual Funds may be confined to certain selected branches of the bank. (vii) The bank should comply with the extant KYC/ AML guidelines in respect of the applicants.
+
+<!-- PAGE 2 -->
+
+2. UCBs may report the details of the tie-up together with a copy of the agreement entered into with the Mutual Fund, to the respective Regional Office of Reserve Bank within a period of ten days from the date of entering into the arrangement.
+3. Please acknowledge receipt of the circular to the concerned Regional Offices of the Reserve Bank of India.
+Yours faithfully,
+
+(N. S. Vishwanathan) Chief General Manager-in-charge
+
+# Withdrawn
