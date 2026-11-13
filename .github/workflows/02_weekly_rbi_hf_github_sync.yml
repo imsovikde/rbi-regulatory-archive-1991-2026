@@ -21,8 +21,15 @@ on:
     - cron: "30 2 * * 1"
   workflow_dispatch:
 
+# All workflows that push to main (00, 01, 02) share ONE concurrency group.
+# Separate groups let two of them run at once and push to the same branch,
+# which can collide on a pull --rebase (see Defect 5 in
+# docs/CONTEXT-TRANSFER.md). 03 and archive-update.yml keep their own groups:
+# they touch files no other workflow touches (AUDIT.md,
+# .archive-runs/last-run.txt), so they cannot conflict. Do not give 00, 01
+# or 02 a separate group.
 concurrency:
-  group: rbi-weekly-sync-pipeline
+  group: rbi-markdown-conversion-pipeline
   cancel-in-progress: false
 
 permissions:
