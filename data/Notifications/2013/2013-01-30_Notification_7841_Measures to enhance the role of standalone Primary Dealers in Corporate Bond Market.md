@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2013_7841"
+title: "Measures to enhance the role of standalone Primary Dealers in Corporate Bond Market"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SPDE01302013.pdf"
+pdf_sha256: "943f2d263826ca72b41e74926a9acbb1045b6d725495e05e6388cb55ff9c59de"
+md_sha256: "1d98a98132c45e82fcc74ac18d1692fd37b396e6ce8ad2327107c016f64d158c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-01-30_Notification_7841_Measures%20to%20enhance%20the%20role%20of%20standalone%20Primary%20Dealers%20in%20Corporate%20Bond%20Market.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Measures to enhance the role of standalone Primary Dealers in Corporate Bond Market
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/405
+
+IDMD. PCD. No. 2223 / 14.03.05 /2012-13 January 30, 2013
+
+## All Standalone Primary Dealers
+
+Dear Sir/Madam,
+
+## Measures to enhance the role of standalone Primary Dealers in Corporate
+
+## Bond Market
+
+With a view to enhance standalone Primary Dealers’ (PDs) role in corporate debt market, it has been decided to:
+
+i. Allow PDs a sub-limit of 50% of net owned funds for investment in corporate bonds within the overall permitted average fortnightly limit of 225 per cent of NOF as at the end of March of the preceding financial year for call /notice money market borrowing. ii. Permit PDs to invest in Tier II bonds issued by other PDs, banks and financial institutions to the extent of 10 per cent of the investing PD’s total capital funds.
+iii. Permit PDs to borrow to the extent of 150% of NOF as at the end of March of the preceding financial year through Inter Corporate Deposits.
+
+2. The above guidelines are effective from the date of the circular.
+## Yours faithfully
+
+(K.K. Vohra) Chief General Manager

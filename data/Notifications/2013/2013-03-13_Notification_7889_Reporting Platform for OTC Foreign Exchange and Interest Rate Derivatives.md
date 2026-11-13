@@ -1,0 +1,61 @@
+---
+doc_id: "Notifications_2013_7889"
+title: "Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ROTC140313F.pdf"
+pdf_sha256: "bac2142c56cb80fab9819743f500eb60dfb4a5747a33e1f67ac115521beb70d4"
+md_sha256: "395ecfbac2b1cb50de9dd874450f81e0a908c87cab243ffd5ec408b4eea4a32c"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-03-13_Notification_7889_Reporting%20Platform%20for%20OTC%20Foreign%20Exchange%20and%20Interest%20Rate%20Derivatives.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives
+
+<!-- PAGE 1 -->
+
+RBI/2012-13/438
+
+## FMD.MSRG.No.75 /02.05.002/2012-13
+
+## March 13, 2013
+
+All Category – I Authorised Dealer Banks
+
+Madam/Sir,
+
+## Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives
+
+Please refer to our <u>circular FMD.MSRG.No.67/02.05.002/2011-12 dated March 9,</u> <u>2012</u> on the captioned subject, wherein we had advised, inter alia, that all/selective trades in OTC foreign exchange and interest rate derivatives between the Category-I Authorised Dealer Banks/market makers (banks/PD) and their clients shall be reported on the CCIL platform subject to a mutually agreed upon confidentiality protocol.
+
+2. The CCIL has since completed development of the platform for reporting of client transactions and also put in place a confidentiality protocol in consultation with the market representative bodies as mentioned in the circular referred to above.
+3. It has been decided that the reporting arrangement covering OTC foreign exchange derivative trades between ADs and their clients in the following products should be operationalised with effect from April 02, 2013.
+a) FCY-INR Forwards
+b) FCY-FCY Forwards
+c) FCY-INR Options
+d) FCY-FCY Options
+4. The salient features of the reporting requirement are as under.
+
+<!-- PAGE 2 -->
+
+i) AD category-I banks are required to report all client transactions in OTC FX forwards and FX options executed on and after the commencement of reporting, i.e. April 02, 2013 to CCIL. ii) The trades executed with clients shall be reported before 12:00 noon of the following working day. iii) The threshold limit for reporting the trades shall be USD 1 million and equivalent thereof in other currencies. The trades with the value equal to or exceeding the threshold limit shall be reported to CCIL. iv) To determine eligibility for reporting, the threshold limit shall be applied to the base currency of the trades at the time of origination. Currency matrix provided by CCIL is to be used for base and term currency. The threshold shall, however, not apply to post-trade events attached to concerned trades.
+v) The FEDAI Revaluation rates published on its website every month shall be used for computation of threshold limits and rates shall be valid till the next rates are published by FEDAI. vi) ADs shall be required to report the trades mentioned in paragraph 2 in respect of the following clients:
+a. All categories of Resident Entities (including individuals)
+b. All categories of Non-Resident Entities namely NRI, FDI and FII and Non- Resident Exporters/ Importers.
+c. A trade done by Non-Resident exporter/importer to hedge its exposure in Rupees directly through the AD located in India.
+vii) The reporting shall be on a prospective basis and ADs need not be required to report the details of the outstanding trades, i.e. trades entered into prior to April 02, 2013. viii) There shall be no matching of such trades in the CCIL platform as the clients are not required to report/confirm the trade details. As such ADs are responsible for ensuring the accuracy in respect of trades reported. ix) Currently the reporting arrangement will cover transactions involving 14 currencies namely USD, EUR, GBP, JPY, AUD, CAD, CHF, HKD, DKK, NOK, NZD, SGD, SEK and ZAR. The reporting will be extended to other currencies in due course and shall be communicated by CCIL.
+
+x) Members shall ensure completion of documentation and other pre-reporting formalities with CCIL before commencement of reporting client trades.
+
+<!-- PAGE 3 -->
+
+xi) Detailed operational guidelines in this regard would be made available by CCIL. Banks may take steps to familiarise their personnel with technical and other aspects of reporting which will be facilitated by CCIL.
+
+## Yours sincerely
+
+(G. Mahalingam) Chief General Manager

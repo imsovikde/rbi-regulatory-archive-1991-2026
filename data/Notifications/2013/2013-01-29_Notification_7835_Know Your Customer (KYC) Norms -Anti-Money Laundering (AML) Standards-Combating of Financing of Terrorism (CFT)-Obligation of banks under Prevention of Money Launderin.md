@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2013_7835"
+title: "Know Your Customer (KYC) Norms /Anti-Money Laundering  (AML) Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks  under Prevention of Money Laundering Act (PMLA), 2002"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/KYCAML290113_F.pdf"
+pdf_sha256: "1e9be9736b7e07b0413cd55cee76d042a180530950f3934ed96942e963d7777b"
+md_sha256: "13fcb9922345c6969d1ab3e2c169bc811545ec68c1ec74c51b10e28793d06e85"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:25Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-01-29_Notification_7835_Know%20Your%20Customer%20%28KYC%29%20Norms%20-Anti-Money%20Laundering%20%28AML%29%20Standards-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29-Obligation%20of%20banks%20under%20Prevention%20of%20Money%20Launderin.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms /Anti-Money Laundering  (AML) Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks  under Prevention of Money Laundering Act (PMLA), 2002
+
+<!-- PAGE 1 -->
+
+RBI/2012-13/399 **DBOD.AML.BC. No. 78 /14.01.001/2012-13 January 29, 2013**
+
+The Chairmen / CEOs of all Scheduled Commercial Banks (Excluding RRBs)/Local Area Banks / All India Financial Institutions
+
+Dear Sir,
+
+**Know Your Customer (KYC) Norms /Anti-Money Laundering (AML)** **Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under** **Prevention of Money Laundering Act (PMLA), 2002**
+
+Please refer to our <u>circular DBOD.AML.BC. No. 65/14.01.001/ 2012-13 dated</u> <u>December 10, 2012</u> on simplification of Know Your Customer (KYC) norms / Anti- Money Laundering (AML) Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002. With a view to further easing the KYC process for the general public, especially customers who migrate to a new place on account of new job, transfer, etc., it has been decided to effect the following modifications to the existing instructions.
+
+2. **Shifting of bank accounts to another centre – Proof of address:** Banks were advised vide <u>circular DBOD.AML.BC.No. 97/14.01.001/2011-12 dated April 27, 2012</u>, that KYC once done by one branch of the bank should be valid for transfer of the account within the bank as long as full KYC had been done for the concerned account. The customer should be allowed to transfer his account from one branch to another branch without restrictions. In order to comply with KYC requirements of correct address of the person, fresh address proof has to be obtained from him/her upon such transfer by the transferee branch. However, a large number of customers with transferable jobs or those who migrate for jobs are unable to produce a utility bill or other documents in their name as address proof immediately after relocating. In view of this, it has been decided that:
+(a) Banks may transfer existing accounts at the transferor branch to the transferee branch without insisting on fresh proof of address and on the basis of a self-
+
+<!-- PAGE 2 -->
+
+declaration from the account holder about his/her current address, subject to submitting proof of address within a period of six months.
+
+(b) Banks may also accept rent agreement duly registered with State Government or similar registration authority indicating the address of the customer, in addition to other documents listed as proof of address in Annex I of our Master Circular on KYC/AML/CFT dated July 2, 2012.
+3. Banks should intimate their customers that in the event of change in address due to relocation or any other reason, they should intimate the new address to the bank within two weeks of such a change. While opening new accounts and while periodically updating KYC data as required in terms of para 2.4 (g) of the Master Circular, an undertaking to this effect should be obtained. In all these cases customers will have to produce proof of address as mentioned at (a) and (b) above.
+4. Banks may revise their KYC policy in the light of the above instructions and ensure strict adherence to the same. Yours faithfully, (Deepak Singhal) Chief General Manager-in-Charge
