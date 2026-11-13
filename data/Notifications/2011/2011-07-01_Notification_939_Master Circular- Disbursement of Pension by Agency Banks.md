@@ -1,0 +1,669 @@
+---
+doc_id: "Notifications_2011_939"
+title: "Master Circular- Disbursement of Pension by Agency Banks"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/98MCP010711F.pdf"
+pdf_sha256: "aad6c436901df9d03a7a520df85ff7d369394e16b42bf60c4f6ad4b40d165fda"
+md_sha256: "1f4a2662fb6a65f85f86fd18ac2c38596c95eb1fa1a058b9063c2ec517c58897"
+total_pages: 37
+native_pages: 37
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:23:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-07-01_Notification_939_Master%20Circular-%20Disbursement%20of%20Pension%20by%20Agency%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular- Disbursement of Pension by Agency Banks
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बैंक
+
+## ________________RESERVE BANK OF INDIA_______________ <u>www.rbi.org.in</u>
+
+## RBI/2011-12/98
+
+## DGBA.GAD.No.H- 1/31.05.001/ 2011-12 July 1, 2011
+
+All Agency Banks Dear Sir/Madam **Master Circular- Disbursement of Pension by Agency Banks** Reserve Bank of India has been issuing various instructions relating to Payment of Government Pension by Agency Banks. These instructions were conveyed in our master circular RBI/ 2010-11/88 (Ref. <u>DGBA.GAD.No.H- 2</u> <u>/31.05.001/ 2010-11) dated July 1, 2010</u>. We now enclose an updated master circular incorporating important instructions issued on the subject upto June 30, 2011. You may also access the circular on our website <u>www.mastercirculars.rbi.org.in</u>.
+
+2. Please acknowledge receipt. Yours faithfully, (B. K. Mishra) General Manager Encl: As above
+
+||||यह िवभाग|आईएसओ 9001:2008 ूमािणत है||।|
+|---|---|---|---|---|---|---|
+|सरकारी एवं Department of Government & Bank Accounts, Opp. Mumbai Central Railway Station, Byculla, Mumbai 400 008.|बैंक लेखा|िवभाग,के न्िीय|कायार्लय, 4 थी This Department is ISO 9001:2008 certified.||सेंशल रेल्वे|ःटेशन के सामने, भायखला, मुंबई 400008|
+
+मंिजल, मुंबई
+
+Telephone : (022) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-mail : <u>cgmicdgbaco@rbi.org.in</u> िहन्दी आसान है, इसका ूयोग बढाइए ।
+
+<!-- PAGE 2 -->
+
+## <u>Master Circular- Disbursement of Pension by Agency Banks</u>
+
+**Payment of Pension to Government Pensioners under the various schemes for payment of pension through Public Sector Banks**
+
+## Introduction
+
+The payment of pension to retired Government employees is governed by the relevant Schemes prepared by concerned Ministries/Departments with the approval of Controller General of Accounts, Ministry of Finance, Government of India or by State Governments and involves payment of basic pension, increased Dearness Relief and other benefits as and when announced by the Governments. Various circulars issued in this connection are summarized hereunder for information.
+
+## 1. Hosting of Government Orders on Dearness Relief (DR) etc. to
+
+## State Government Pensioners on Web sites of State Governments.
+
+## (Ref: DGBA. GAD. No.H-416/45.01.003/2002-03 dated March 21,
+
+## 2003 & DGBA. GAD. No. 770/45.01.003/2003-04 dated February 25,
+
+## 2004)
+
+In order to obviate the time lag between issue of Dearness Relief orders and payment of Dearness Relief to the beneficiary and to render expeditious service to the senior citizens, it has been decided that pension paying agency banks should act on the copies of the orders supplied by Government to the Head Offices and/or Regional Offices of authorized banks in the State headquarters.
+
+Further, it was decided to host the Circulars on the State Governments' secured website.
+
+All **State Governments** have been given the option to send the Government Orders relating to Dearness Relief to RBI in electronic format and also hard copy to enable Reserve Bank to host the same on its website.
+
+**2**. **Payment of Pension to Central Government Pensioners through** **Public Sector Banks – Steps taken by Government to minimize delay** **in payment of Dearness Relief (DR) to Pensioners – Discontinuation of forwarding Government Orders in respect of DR etc. through**
+## Reserve Bank of India.
+
+<!-- PAGE 3 -->
+
+## (Ref: DGBA. GAD. No. H-506/45.01.001/2002-03 dated April 12, 2003)
+
+In order to obviate the time lag between the issue of Dearness Relief etc. orders and actual payment to the beneficiaries and to render expeditious service to the senior citizens, Ministry of Personnel, Public Grievances and Pensions, Department of Pension and Pensioners Welfare, Government of India have taken following steps:
+
+i. As soon as the sanction of Dearness Relief at revised rates is received from Ministry of Finance, Orders for payment of Dearness Relief to pensioners at revised rates are issued and the copies of such orders are immediately sent to Heads of all Agency Banks by e-mail as well as by FAX with instructions to take necessary action for expeditious payment of Dearness Relief. ii. The orders are put on web-site of Ministry of Personnel, Public Grievance and Pensions (<u>[http://www.persmin.nic.in](http://www.persmin.nic.in)</u>)
+iii. Copies of orders are also sent by post to Heads of all Agency Banks and published in leading newspapers by Indian Banks' Association.
+
+RBI would no longer be forwarding Government orders in respect of Dearness Relief to Agency Banks.
+
+## 3. Acceptance of nomination in form ‘A’ and ‘B’- Central Civil
+
+## Pension (Ref: <u>DGBA. GAD. No.H-94/45.05.031/2004-05 dated</u>
+
+## <u>August 24, 2004</u>)
+
+With a view to redressing inconvenience to the pensioners and their heirs, it has been advised by the Government that all pension paying bank branches should accept nomination in form ”A” or “B” as the case may be, submitted by the pensioners for the payment of arrears of pension to the heirs.
+
+**4. Implementation of procedure for payment of pensions and other retirement benefits to All India Service Officers retiring from**
+## Government of India while on Central Deputation.
+
+## (Ref. <u>DGBA. GAD. No. 612-644/ 45.01.001/2004-05 dated October 7, 2004</u>)
+
+Agency Banks are advised to follow accounting procedure for payment of pension to All India Service Officers retiring from Government of India while on Central Deputation as follows:
+
+<!-- PAGE 4 -->
+
+(i) PPO number for All India Service Pensioners would incorporate, besides the 12 digit numeric component used for Central Civil pensioner, a prefix indicating the service and the state cadre to which the pensioner belongs. A sample PPO number for an IAS Officer of Punjab cadre would be – IAS/Pb/438840400191.
+(ii) All India Service Pensioners will have the option to draw pension **only** through the authorised banks i.e. Public Sector Banks and the four authorized Private Sector Banks viz. <u>IDBI Bank Ltd.</u>, UTI Bank Ltd., ICICI Bank Ltd. and HDFC Bank Ltd.
+
+**(Note: IDBI Bank Ltd. has since been classified as a Public** **Sector Bank and UTI Bank has now been renamed as AXIS** **Bank Ltd.)**
+
+(iii) The Special Seal Authority (SSA) issued by the CPAO would be in blue colour to distinguish it from authorities issued for Central Civil pensioners. In addition, the authority will indicate the State Government to which the payment is debitable.
+
+(iv) One copy of the SSA will be sent to concerned Accountant General for information and record.
+
+(v) The concerned paying branches of the bank after following the necessary procedure for identifying the pensioner would release the payment and add the name of All India Service Pensioner to the scrolls prepared for State Government Pensioners to be routed for reimbursement to the reimbursing branches of the Reserve Bank/ State Bank as the case may be. Such scrolls are <u>NOT</u> being handled under Single Window System of pension reimbursement for Central Government Civil Pensioners and <u>should not therefore be sent to CPAO.</u> (vi) The reimbursing branches would follow the procedure for the State Government Pensioners and send advice to Reserve Bank, CAS, Nagpur and the corresponding scrolls to the concerned Accountant General. (vii) The RBI, CAS, Nagpur would debit the concerned State Government Account as per the procedure.
+## 5. Scheme for payment of pension to Defence pensioners by public
+
+**sector banks – delay in submission of pension payment scrolls and steps to avoid fake & fraudulent payments.**
+
+<!-- PAGE 5 -->
+
+## (Ref. <u>DGBA.GAD. No. 867-899/ 45.02.001/ 2004-05 dated October 18, 2004</u>)
+
+It has been observed that there is a lag of two to three months in submitting the pension payment scrolls to pension authorities by the pension paying banks.
+
+Often these scrolls are bunched. In this connection, a reference is invited to paragraphs 9(6), 10 and 11 of the booklet “Scheme for Payment of Pension to Defence Pensioners” wherein the procedure for transmission of pension payment scrolls by paying branches, link branches and reimbursing branches is clearly stipulated. The entire procedure needs to be completed as per the timeframe fixed so that the payment scrolls are finally received at the Office th of the PCDA (Pension), Allahabad latest by 15 of the following month (except for the month of March scrolls, which should invariably reach latest rd by 3 week of every year). The Office of the PCDA (Pension) has also noticed that in some cases of payment of gratuity and commutation amount were made to imposters on fake and fraudulent PPOs by the pension paying branches without observing prescribed checks. It has also been observed that in the cases of first payment of pension, either PPO numbers were not mentioned on the scrolls or incorrect PPO numbers were mentioned making it difficult to verify the correctness of the payment. Further, these payments were being shown in the main pension payment scrolls along with the regular monthly payments of Defence Pensioners.
+
+The Pension Paying Branches/ Link Branches / Reimbursing Branches are advised to put in place a more efficient system to ensure the following:
+
+(i) Pension Paying Branches to submit pension payment scrolls to Link
+th Branches within the stipulated time (by 10 of the following month). No bunching of scrolls is done.
+
+(ii) Link Branches to forward the original copy of the scroll along with summary sheet and summary documents to disbursing banks (RBI/ SBI th etc. as the case may be) by 11 of each month.
+
+(iii) Reimbursing banks should forward the original copy of the scrolls directly to CDA (Pension), Allahabad after reimbursing pension paying bank, by debit to Government Account so as to reach PCDA (Pension) th by 15 of the following month except for the March scrolls.
+
+(iv) In the cases of first payments of pension, pension paying branches should prepare scrolls carefully indicating correct PPO number, amount of gratuity and commutation against the name of each pensioner and
+
+<!-- PAGE 6 -->
+
+submit the same <u>separately</u> on a monthly basis in addition to the regular monthly payment cases which will continue to be prepared <u>separately</u> along with <u>separate</u> summary sheet.
+
+(v) Pension paying branches should prepare separate summary sheets for regular monthly pension payment cases as well as first pension payment case.
+## 6. Scheme of Payment of Pension to Railway Pensioners by Public
+
+## Sector Banks – Steps to avoid fraudulent payments.
+
+## (No. RBI / 2005/ 334) (Ref. DGBA. GAD. No. H 3389-3421/
+
+## 45.02.01/ 2004-05 dated January 6, 2005)
+
+We have been informed by the Ministry of Railways, Government of India, (Railway Board) that their vigilance department has detected cases of fraud wherein pension / pension arrears have been disbursed to unauthorized persons by some of the Public Sector Banks against fake Pension Payment Orders (PPOs). They have also observed that such fraudulent payments are made by pension paying branches without observing prescribed checks i.e. releasing payments by relying upon calculation sheet not signed by authorized signatory etc. as also non-compliance of laid down procedures, in particular regarding receipt of PPOs by banks.
+
+Railway pension paying branches are requested to strictly follow the procedure laid down in “Scheme for Payment of Railway Pension through Public Sector Banks” by the Ministry of Railways (Railway Board) for disbursement of pension to Railway pensioners to avoid fraudulent payments against fake pension payment orders.
+
+**7. Payment of Central Civil Pension – Entry of Dearness Relief in both Halves of Pension Payment Orders (PPOs).**
+## (Ref. DGBA. GAD. No. H.3452-3485/ 45.01.001/ 2004-05 dated January 11, 2005)
+
+It has come to our notice that some of the Pension Paying Bank branches do not update the amount of basic pension/family pension whenever there is change in basic rates **in both halves** of the Pension Payment Order (PPO) concerned. In this connection, we reproduce below para 12.17 and 19.1 of the "Scheme for Payment of Pensions to Central Government Civil Pensioners by Public Sector Banks”:
+
+<!-- PAGE 7 -->
+
+"Whenever there is change in the basic rates of pension and/or dearness relief on pension, the paying branch shall call back the pensioner's half of the PPO and record thereon the changes, indicating, inter-alia, the date(s) from which the changes are effective. After this is done, those halves will be returned to the pensioners " (Para 12.17).
+
+Whenever any additional relief on pensions is sanctioned by Government an intimation to this effect will be sent by the Ministry of Personnel, Public Grievances and Pensions (Department of Pension and Pensioners' Welfare) to the authorised representative (by name) of each nominated public sector bank at the address given by the latter. Thereafter it shall be the responsibility of the banks to collect through their representatives operating at Delhi or otherwise, the required number of copies (to be intimated in advance) of the sanction orders, along with the ready-reckoner relating thereto, from the Ministry of Personnel, Public Grievances and Pensions (Department of Pension and Pensioners' Welfare) and send them immediately to their respective Head Offices for direct transmission to the paying branches within ten days for implementation. Each paying branch will promptly determine the revised rates of relief on pensions payable to the Central Government Civil Pensioners under its payment. The calculations of these rates applicable to individual pensioners would be made as in Annexure XXII (Page 41) **and they will be noted in disburser's** **portion of the PPOs along with the date from which relief would** **take effect, under attestation by the Branch Manager or In-** **Charge** before commencing payment of relief at the revised rates and/or payment of arrears, if any, due to the pensioners on this account…….." (Para 19.1).
+
+Banks are requested to draw the attention of their pension paying branches to the above provisions and advise them to strictly follow the instructions.
+
+**8. Disbursement of Railway Pension by Agency Banks- Main areas where banks tend to make overpayment.**
+## (Ref. DGBA. GAD. No. 6073/ 45.05.031/ 2004-05 dated May 30, 2005).
+
+A list of main areas where the banks tend to make overpayments in respect of Railway pensioners received from Financial Adviser & Chief Accounts Officer’s Office, Central Railway, Mumbai was forwarded to all agency banks with a request to circulate the same among their pension paying branches
+
+<!-- PAGE 8 -->
+
+and instruct them to take appropriate action so as to avoid overpayments of Railway pension.
+
+**9. Acceptance of Nomination (Form ‘A’ & ‘B’) in respect of Railway pensioners for the payment of arrears of pension.**
+## (Ref. DGBA. GAD. No. H-3611/ 45.03.002/ 2005-06 dated October 10, 2005)
+
+With a view to avoid inconvenience to the pensioners, Ministry of Railways (Railway Board), has decided to adopt the nomination forms (‘A’ & ‘B’) prescribed by Central Pension Accounting Office (CPAO) for Railway pensioners also. Agency banks were advised to issue necessary instructions to all pension paying branches to accept Nomination Forms ‘A’ or ‘B’ as the case may be, submitted by Railway pensioners for the payment of arrears of pension to the heir(s).
+
+## 10. Scheme of Payment of Pension to Railway Pensioners through
+
+**Public Sector Banks – Designation of FA & CAOs of seven new zones by Ministry of Railways.**
+
+## (Ref. DGBA. GAD. No. H. 10746/ 45.03.001/ 2005-06 dated January 24, 2006)
+
+The Ministry of Railways has decided to designate FA & CAOs of seven new zones (viz. North Western Railway, Jaipur; East Central Railway, Hajipur; East Coast Railway, Bhubaneshwar; North Central Railway, Allahabad; South East Central Railway, Bilaspur; South Western Railway, Hubli; and West Central Railway, Jabalpur) to accept/ settle pension debits in respect of pension payment disbursed to Railway pensioners by authorized banks with effect from April 1, 2006.
+
+## 11. Disbursement of pension through Public Sector Banks – Payment of Dearness Relief (DR).
+
+## (Ref. <u>DGBA. GAD. No. H.11303/ 45.01.003/ 2005-06 dated February 06, 2006</u>)
+
+Pension paying banks were advised to put in place mechanism to immediately obtain copies of Government Orders and release it to the pension paying branches for action at their end so that the pensioners should get the benefits announced by Government in the succeeding month’s pension payment itself. The Controlling Offices/ Head Offices of Agency Banks should closely monitor and supervise timely and correct
+
+<!-- PAGE 9 -->
+
+disbursement of Government pension to eligible pensioners. Further, in the cases of Central Civil and Railway pensioners, the pension paying banks should endorse the names of nominees as per nomination forms ‘A’ and ‘B’ on the front page of the pass book and the branches may be advised to ensure that the procedure laid down in Schemes for disbursement of pension to pensioners by public sector banks are followed scrupulously. In order to create better awareness among staff about pension payment schemes/ rules, banks may include this as an integral part of the training programmes conducted by their training establishments.
+
+## 12. Payment of Pension through Authorised Banks – Credit of
+
+## Pension to Joint Account operated by pensioner with his/ her spouse.
+
+## (Ref. DGBA. GAD. No. 12736/ 45.03.001/ 2005-06 dated February 24, 2006)
+
+The instructions issued by Central Pension Accounting Office (CPAO) in regard to crediting of pension amount to the joint account alongwith spouse in whose favour an authorization for family pension exists in the Pension Payment Order (PPO) in respect of Central Civil pensioners have been made applicable to Railway pensioners also vide Ministry of Railways (Railway Board), Circular No. RBA.63/ 2005 (2005/ ACII/ 21/ 19) dated October 13,
+
+2005. The joint account of the pensioner with the spouse could be operated either by ‘Former or Survivor’ or ‘Either or Survivor’ basis subject to certain terms and conditions mentioned in Ministry of Railways Circular dated October 13, 2005 referred to above.
+## 13. Payment of pension through Authorised Banks-Credit of Pension
+
+## to Joint Bank Account operated by a pensioner with his/ her spouse.
+
+## (Ref.DGBA.GAD.No.H-2134/45.02.001/2006-07 dated August 4, 2006)
+
+Ministry of Defence and the Principal Controller of Defence Accounts have modified the scheme for payment of pension permitting credit of pension also to a joint account operated by pensioner with his/her spouse in whose favour an authorization for family pension exists in the Pension Payment Order (PPO). The joint account of the pensioner with the spouse could be operated either by 'Former or Survivor' or 'Either or Survivor' basis subject to the following terms and conditions:
+
+<!-- PAGE 10 -->
+
+(a) Once pension has been credited to a pensioner's bank account, the liability of the government/Bank ceases. No further liability arises, even if the spouse wrongly draws the amount.
+(b) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the bank at the earliest and in any case within one month of the demise, so that the bank does not continue crediting monthly pension to the joint account with the spouse, after the death of the pensioner. If, however, any amount has been wrongly credited to the joint account, it shall be recoverable from the joint account and/or any other account held by the pensioner/spouse either individually or jointly. The legal heirs, successors, executors etc. shall also be liable to refund any amount, which has been wrongly credited to the joint account.
+(c) Payment of Arrears of pension (Nomination) Rules 1983 would continue to be applicable to a Joint Account with the pensioner's spouse. This implies that if there is an 'accepted nomination' in accordance with rules 5 and 6 of these Rules, arrears mentioned in the rules shall be payable to the nominee.
+Existing pensioners desiring to get their pension credited to a joint account as indicated above are required to submit an application to the bank branch, from where they are presently drawing pension in the prescribed form. This would also be signed by the pensioner's spouse in token of having accepted the terms and conditions laid down in this Office Memorandum. These instructions are also applicable to the Government Servants who will be retiring after the issue of this Office Memorandum.
+
+**14. Scheme for payment of pension to West Bengal (Part A)** **Government pensioners by public sector banks-Credit of Pension to** **Joint Bank Account operated by a pensioner with his / her spouse.**
+## (Ref. DGBA.GAD. 6926/45.05.005/ 2006-07 dated October 30, 2006)
+
+Government of West Bengal has modified the scheme for payment of pension permitting credit of pension also to a Joint Account operated by pensioner with his/her spouse in whose favour an authorization for family pension exists in the Pension Payment Order (PPO). The Joint Account of the pensioner with the spouse could be operated either by 'Former or Survivor' or 'Either or Survivor' basis subject to the following terms and conditions:
+
+<!-- PAGE 11 -->
+
+(a) Once pension has been credited to a pensioner's bank account, the liability of the Government/Bank ceases. No further liability arises, even if the spouse wrongly draws the amount.
+(b) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the bank at the earliest and in any case within one month of the demise, so that the bank does not continue crediting monthly pension to the Joint Account with the spouse, after the death of the pensioner. If, however, any amount has been wrongly credited to the Joint Account, it shall be recoverable from the Joint Account and/or any to her account held by the pensioner/spouse either individually or jointly. The legal heirs, successors, executors etc. shall also be liable to refund any amount, which has been wrongly credited to the joint account.
+(c) Payment of Arrears of pension (Nomination) Rules 1983 would continue to be applicable to a Joint Account with the pensioner's spouse. This implies that if there is an 'accepted nomination' in accordance with rules 5 and 6 of these Rules, arrears mentioned in the rules shall be payable to the nominee.
+Existing pensioners desiring to get their pension credited to a joint account as indicated above are required to submit an application to the bank branch, from where they are presently drawing pension in the prescribed form. This would also be signed by the pensioner's spouse in token of having accepted the terms and conditions laid down in this Office Memorandum. These instructions are also applicable to the Government Servants who will be retiring after the issue of this Office Memorandum.
+
+## 15. Scheme for payment of pension to Punjab Government pensioners by public sector banks.
+
+## (Ref. DGBA.GAD. H-8973/45.05.003/ 2006-07 dated November 24, 2006)
+
+Government of Punjab has modified the scheme for payment of pension permitting credit of pension also to a Joint Account operated by Punjab Government pensioner with his/her spouse in whose favour an authorization for family pension exists in the Pension Payment Order (PPO). The joint account of the pensioner with the spouse could be operated either by
+
+<!-- PAGE 12 -->
+
+'Former or Survivor' or 'Either or Survivor' basis subject to the following terms and conditions:
+
+(a) Once pension has been credited to a pensioner's bank account, the liability of the government/Bank ceases. No further liability arises, even if the spouse wrongly draws the amount.
+(b) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the bank at the earliest and in any case within one month of the demise, so that the bank does not continue crediting monthly pension to the joint account with the spouse, after the death of the pensioner. If, however, any amount has been wrongly credited to the joint account, it shall be recoverable from the joint account and/or any to her account held by the pensioner/spouse either individually or jointly. The legal heirs, successors, executors etc. shall also be liable to refund any amount, which has been wrongly credited to the joint account.
+(c) Provision for nomination for payment of arrears of pension in accordance with the provision pensions of note 4 under Rules
+5.3 b of Punjab Financial Rules Vol.I & instructions issued from time to time on the subject would continue to be applicable to a Joint Bank Account with pensioner's spouse. This implies that if there is an 'accepted nomination' in accordance with these Rules, arrears mentioned in the rules shall be payable to the nominee. Revised nomination forms have been amended vide Finance Department,
+th Punjab circular letter No.21 (1)83-FR (6)11991, dated 20 November 1984.
+
+Existing pensioners desiring to get their pension credited to a joint account as indicated above are required to submit an application to the bank branch, from where they are presently drawing pension in the prescribed form. This would also be signed by the pensioner's spouse in token of having accepted the terms and conditions laid down in this letter. These instructions are also applicable to the Government servants who will be retiring after issue of this letter.
+
+## 16. Disbursement of Central Government Pension through Public Sector Banks-Issue of Pension Slip.
+
+## (Ref.DGBA.GAD.H.10975/45.05.031/2006-07 dated January 9, 2007)
+
+<!-- PAGE 13 -->
+
+It has been decided in consultation with the Central Pension Accounting Office, Ministry of Finance, and Government of India to issue pension slips to the Central Government pensioners (Civil) at commencement of pension and thereafter, wherever there is a change in quantum of pension. All the agency banks were advised to issue suitable instructions to their pension paying branches.
+
+## 17. Introduction of Single Window System for reimbursement of Defence Pension Payments.
+
+## (Ref. DGBA.GAD. No. H-13834/45.02.001/2006-07 dated March 13, 2007)
+
+It has been decided in consultation with the Office of Principal Controller of Defence Accounts (Pension) to introduce Single Window System for reimbursement of Defence Pension with effect from April 1, 2007. Hence, the Reimbursing Banks i.e. RBI (PADs), SBI and its associate banks will cease to reimburse Defence pension payments made by the banks with effect from April 1, 2007. Pension payments transactions may be reported through Link Cell in Nagpur to Central Accounts Section, Reserve Bank of India, Nagpur for fund settlement as in the case of Central Civil Pension. The agency banks are required to send the Payment scrolls direct by name to Shri B. D. Tiwari, SAO(P) office of the PCDA (P), Draupadi Ghat, Allahabad.
+
+All the past transactions remaining outstanding prior to April 1, 2007 for which Pension Payment Scrolls Advices are wanting shall be resolved through Reimbursing Branches of RBI/SBI and its Associates.
+
+## 18. Scheme for payment of pension to Arunachal Pradesh Government pensioners by public sector banks:
+
+## (Ref. DGBA.GAD. H-14279/45.05.024/ 2006-07 dated March 23, 2007)
+
+Government of Arunachal Pradesh has modified the scheme for payment of pension permitting credit of pension also to a Joint Account operated by pensioner with his/her spouse in whose favour an authorization for family pension exists in the pension payment order (P.P.O.). The joint account of the pensioner with the spouse could be operated either by 'former or survivor' or 'either or survivor' basis subject to the following terms and conditions:
+
+a) Once pension has been credited to the pensioner's bank account, the liability of the Government/bank ceases. No further liability arises,
+
+<!-- PAGE 14 -->
+
+even if the spouse wrongly draws the amount without the knowledge of the pensioner.
+
+b) As pension is payable only during the life of a pensioner, his/her death shall be intimated by the spouse to the bank at the earliest and in any case within one month of the demise, so that the bank does not continue crediting monthly pension to the joint account with the spouse, after the death of the pensioner. If, however, any amount has been wrongly credited to the joint account, it shall be recoverable from the joint account or his/her account held by the pensioner/spouse either individually or jointly. The legal heirs, successors, executors etc. shall also be liable to refund any amount, which has been wrongly credited to the Joint Account.
+c) Existing pensioners desiring to get their pension credited to a Joint Account as indicated above are required to submit an application in the prescribed form to the concern bank branch, from where they are presently drawing pension. The pensioner's spouse in token of having accepted the terms would also sign this. These instructions are also applicable to the Government employees who will be retiring after issue of this memo.
+d) Opening of Joint Account with any other person for credit of pension, except the spouse in whose favour family pension is authorised in the PPO, shall not be permissible. Family pensioners are not covered under this revised scheme.
+## 19. Disbursement of Central Government Pension through Public
+
+## Sector Banks-Issue of Pension Slips to Defence Pensioners:
+
+## (Ref. DGBA.GAD. H-17663/45.05.031/ 2006-07 dated June 12, 2007)
+
+It has been decided in consultation with the Office of Chief Controller of Defence Accounts and the Department of Ex-Servicemen welfare, Ministry of Defence to issue pension slip to Armed Forces Personnel/ Defence Civilian pensioners including family pensioners on par with the existing system as applicable to Central Government Pensioners (Civil). All the agency banks were advised to issue suitable instructions to their pension paying branches.
+
+**20**. **Disbursement of Central Government Pension through Public** **Sector Banks-Issue of Pension Slips to the Railway Pensioners:**
+
+<!-- PAGE 15 -->
+
+## (Ref.DGBA.GAD.No. 3856/45.05.031/2007-08 dated October 8, 2007)
+
+Ministry of Railways, Railway Board has decided to issue pension slip to Railway Pensioners / family pensioners on par with the existing system as applicable to Central Government (Civil) pensioners. Accordingly, pension slips as per the prescribed format are to be issued to Railway pensioners/family pensioners at the commencement of pension and thereafter, whenever there is a change in quantum of pension. All the agency banks were advised to issue suitable instructions to their pension paying branches.
+
+**21. Scheme for payment of pension to Assam Government** **Pensioners by Public Sector Banks- Credit of pension to Joint** **Account operated by a pensioner with his / her spouse:** **(Ref. DGBA.GAD. No. 7570/45.05.018/ 2007-08 dated January 15,** **2008 with Office Memorandum No. PPG (P) 92/2006/18 dated** **December 12, 2007 of Government of Assam as enclosure)** The Government of Assam has modified the scheme for payment of pension permitting credit of pension also to a Joint Saving/Current Bank Account operated by pensioner with his/her spouse in whose favour an authorization for family pension exists in the Pension Payment Order (PPO). The joint account of the pensioner with the spouse could be operated either by 'Former or Survivor' or 'Either or Survivor' basis subject to the following terms and conditions:
+(a) Once pension has been credited to a pensioner's Bank Account, liability of the Government/Bank ceases. No further liability arises, even if the spouse wrongly draws the amount.
+(b) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the bank at the earliest within one month of the demise, so that the bank does not continue crediting monthly pension to the Joint Account with the spouse after the death of the pensioner. If, however, any amount has been wrongly credited to the Joint Account, it shall be recoverable from the account and/or any account held by the pensioner/spouse individually / jointly. The legal heirs, successors, executors etc. shall also be liable to refund any amount, which has been wrongly credited to the Joint Account.
+
+<!-- PAGE 16 -->
+
+(c) The Assam Payment of Arrears of pension (Nomination) Rules 1987 would continue to be applicable to a Joint Account with the pensioner's spouse. This implies that if there is an 'accepted nomination' in accordance with rules 5 and 6 of these Rules, arrears mentioned in the rules shall be payable to the Nominee.
+Existing pensioners desiring to get their pension credited to a joint account as indicated above are required to submit an application to the bank branch, from where they are presently drawing pension in the prescribed form. This would also be signed by the pensioner's spouse in token of having accepted the terms and conditions laid down in this Office Memorandum. These instructions are also applicable to the Government Servants who will be retiring after the issue of the Office Memorandum No. PPG (P) 92/2006/18 of Government of Assam dated December 12, 2007.
+
+## 22. Scheme for Payment of Pension to Puducherry Government
+
+## Pensioners by Public Sector Banks- Amendment of the scheme.
+
+## (Ref. DGBA.GAD. 9036/45.05.017/ 2007-08 dated February 19, 2008)
+
+Consequent to creation of separate Public Account for the Union Territory of Puducherry with effect from 17-12-2007, Government of Puducherry has modified the scheme for disbursement of pension through Public Sector Banks as per the Gazette Government Order Ms. No. 7/2008/FI (B) dated January 8, 2008. For the purpose of the scheme, pensioners shall also include Freedom Fighter Pensioners of the Union Territory of Puducherry. All the agency banks were advised to take suitable action as per the revised scheme.
+
+|Sr. No.|Para No.|For|Read|
+|---|---|---|---|
+|1|2A.(3)|of bank at Puducherry which could also be the paying branch|Link Branches means the Link Branch means, the branch of the Public Sector branch of the Public Sector Bank conducting business Bank situated at Chennai|
+|2|10.7|The scrolls will be prepared|Five copies of the scrolls will by the paying branch in be prepared by the paying quadruplicate in the form branch in the form prescribed prescribed in Annexure-IV in Annexure – IV. Four copies except where paying and of the scrolls will be sent by link branch is the same. In the paying branch to their|
+
+<!-- PAGE 17 -->
+
+the latter cases only three main branches in the copies would be prepared. respective regions viz. The paying branch will Puducherry, Karaikal, Mahe, send advice of pension Yanam duly recording the payments to its link branch certificate of payment on the by the 10th of each month, advice itself along with the the certificate of payment certificates to be submitted by being recorded on the the pensioners under para.14 advice itself. One copy of to 14.3 on day to day basis. the scrolls will be retained by the paying branch for its own record and the remaining copies of the scrolls along with the certificates to be submitted by the pensioners under paragraphs 14 to 14.3 will be sent along with pension payment advice to the link <u>branch.</u> 3 11 On receipt of payment On receipt of payment advices advices and three copies of and four copies of the scrolls the scrolls along with the along with the necessary necessary supporting supporting documents from all documents from all the the paying branches, the main paying branches, the link branch of the Public Sector branch will send, by the 15 Bank in the respective th of each month two regions, will send three copies copies of the scrolls and of the scrolls and supporting the supporting documents documents on day to day along with the summary basis with a summary sheet sheet and duly stamped and duly acknowledging receipt acknowledging receipt from Government on receipt of the amount from behalf of the pensioners to the the Government on behalf treasuries / sub -treasuries of the pensioners, to the concerned. The quadruplicate State Bank of India, copy of the scroll and the Puducherry. The triplicate payment advices received copy of the scrolls and the from the paying branch will be payment advices received retained by the concerned from the paying branches main branch. The details of will be retained by the payment on day to day basis concerned link branch. shall be intimated by the main <u>branches to the respective</u>
+
+<!-- PAGE 18 -->
+
+<u>link branches at Chennai.</u> 4 11.1 On receipt of the scroll etc, On receipt of the scroll from the Public Sector etc.from the Main Branch by Bank link branch, the State the Treasury Office/Sub- Bank of India, Puducherry Treasury Office concerned at shall check the scroll to Puducherry Kaikal/Mahe ensure that it is complete /Yanam, the Treasury Officers in all respects and is /Sub-Treasury Officers shall accompanied by the check the scrolls to ensure relevant certificate(s) in that it is complete in all respect of each payment respects and is accompanied included therein. by the relevant certificate(s) Thereafter, the net amount in respect of each payment of pensions disbursed by indicated therein and 2 copies the Public Sector Bank will of the scroll duly certifying the be reimbursed to the correctness returned to the Public Sector Banks by Main Branch concerned. The debit to Puducherry Main Branches on the last Government Account. A working day of the month copy of the debit advice prepare 5 copies of date-wise together with both the monthly payment scroll and copies of the scrolls and send to the Treasury Office / other supporting Sub-Treasury Office documents received from concerned for verification and the link branch will be sent 2 copies of the VDMS duly by the State Bank of India, certified by the Treasury Puducherry to the Deputy Officer/ Sub Treasury Officer Director of Accounts and concerned will be returned to Treasuries, Pension the Main Branch within two Section, Puducherry. days of its receipt and the Main Branch has to forward VDMS to the link office by fax on the same day of receipt. The link office will consolidate the VDMS and forward the same to PAD by 8th of the succeeding month for <u>reimbursement.</u>
+
+**23. Payment of Pension through Authorised banks – Credit of pension to Joint Account operated by a pensioner:**
+## (Ref. DGBA.GAD.No.11653/45.05.013/2007-08 dated May 6, 2008)
+
+<!-- PAGE 19 -->
+
+The Government of Maharashtra has modified the scheme for Payment of Pension to their pensioners permitting credit of pension also to a Joint Account operated by pensioner with the pensioner's family members in whose favour an authorization for family pension exists in PPO on the following terms and conditions:
+
+(a) The Joint Account of the pensioner could be operated either by 'Former or Survivor' OR 'Either or Survivor' basis.
+(b) Once pension has been credited to a pensioner's bank account, the responsibility of the Government will cease. The pensioner will be responsible if the Joint Account holder withdraws any amount erroneously or in the absence of the pensioner.
+(c) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the Pay and Accounts Officer /Treasury Officer/ bank at the earliest and in any case within one month of the demise. In case of death of the pensioner, the bank on advice from the Treasury Office will discontinue the Joint Account.
+(d) If there is no nomination in favour of the Joint Account holders by the pensioner, the balance amount at the time of his/her death, cannot be withdrawn from the Joint Account unless a succession certificate from the competent authority is produced. However, excess amount, if any, wrongly withdrawn from the Joint Account, shall be recoverable from the family pension account or any Joint Account of the pensioner or from the individual account of his/her Joint Account holder.
+(e) After the death of the pensioner if any pension amount is credited to the Joint Account in the absence of any material information and such amount lying in the account, the amount will be refunded to the Government by the bank.
+Existing pensioners who desire to get their pension amount credited to a Joint Account are required to submit an application to the Pay and Accounts Officer, Mumbai/ Treasury Officer from where they are presently drawing pension, in the prescribed format, if the pensioners/ Joint Account holders accept the terms and conditions laid down in Government orders. On receipt of undertaking from the pensioner, the concerned Treasury / Pay and Accounts Officer, Mumbai will issue order to the banks for operating Joint Account of the pensioner.
+
+<!-- PAGE 20 -->
+
+**24. Scheme for payment of pension to Uttar Pradesh Government** **Pensioners by Public Sector Banks- Credit of pension to Joint** **Account operated by a pensioner with his/her spouse:**
+## (Ref. DGBA.GAD. No. H 12499/45.05.010/ 2007-08 dated June 4, 2008)
+
+The Government of Uttar Pradesh has modified the scheme for payment of pension permitting credit of pension to the individual account as also to a Joint Account operated by pensioner with his/her spouse on par with Central Government Pension Scheme subject to the following terms and conditions:
+
+(a) Once pension has been credited to a pensioner's bank account, the
+liability of the Government ceases. The Government will have no liability for irregular/ erroneous withdrawal of the amount by the spouse
+
+(b) The death of the pensioner shall be intimated to the Treasury office
+within one month of the demise, so that the crediting of monthly pension to the Joint Account will be discontinued by the Treasury Office. However, if any amount has been wrongly credited to the Joint Account, it shall be recoverable from the Joint Account or any account held by the pensioner individually/jointly. The legal heirs, successors, executors etc. shall also be liable for refund of such irregular payment.
+
+(c) The above facility is applicable to the existing / future pensioners. Existing pensioners desiring to get their pension credited to a Joint Account will have to submit an application to the concerned Treasury/ bank where from they are presently drawing pension. The Government Order dated July 19, 2001 read with Government Orders dated December 16, 1996 and April 6, 1985 will be treated as revised to the extent as per the above Government Order. The other terms and conditions will remain unchanged.
+**25. Scheme for payment of pension to Uttarakhand Government** **Pensioners through Public Sector Banks-Credit of pension to Joint** **Account operated by a pensioner with family pensioner/Nominee:**
+## (Ref. DGBA.GAD. No. H 12656/45.05.010/ 2007-08 dated June 5, 2008)
+
+<!-- PAGE 21 -->
+
+The Government of Uttarakhand has modified the scheme for Payment of Pension to their pensioners permitting opening of bank account in their individual names as also to a Joint Account with the family pensioner or nominee as indicated in PPO on the following terms and conditions:
+
+(a) Once pension has been credited to a pensioner's concerned bank
+account by the Treasury, the liability of the Government/the concerned bank will cease. If, however, any amount has been wrongly withdrawn from the Joint Account by the family pensioner (husband /wife etc.) or a person nominated by pensioner as per PPO, the pensioner/Joint Account holder will be solely liable for such wrong withdrawal.
+
+(b) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the concerned bank/Treasury at the earliest so that the Treasury Office does not continue crediting monthly pension to the Joint Account. If, however, any amount has been wrongly credited to the Joint Account after the death of the pensioner, it shall be refunded by the Joint Account holder (husband/wife/nominee) to the Treasury. The Joint Account holder, legal heirs, successors, nominee shall be liable for refund of amount credited after the death of the pensioner.
+(c) The Government Order dated 08.11.1985 relating to single account
+of the pensioner will be treated as revised to the extent specified in the above Government Order and other terms and conditions will remain unchanged.
+
+The future retirees desire to open the Joint Account will submit enclosed prescribed form 1 along with pension request, however the existing pensioners who are presently drawing pension from Treasury, a Joint Account shall be opened on request by submitting an application to the Treasury/bank in the prescribed form.
+
+**26**. **Disbursement of West Bengal Government pension through** **Public Sector Banks-Issue of Pension Slip.**
+## (Ref.DGBA.GAD.No.H 12704/45.05.005/2007-08 dated June 11, 2008)
+
+The Government of West Bengal has decided to issue pension slip to their state pensioners on par with the existing system as applicable to Central Government (Civil) pensioners. Accordingly, all the agency banks were advised to issue instructions to their pension paying branches to issue
+
+<!-- PAGE 22 -->
+
+pension slips to the pensioners at the commencement of pension and thereafter, whenever there is change in the quantum of pension.
+
+**27. Scheme for Payment of Pension to Orissa Government** **Pensioners by Public Sector Banks-Credit of pension to Joint Bank** **Account operated by a pensioner with his / her spouse:**
+## (Ref.DGBA.GAD.No.H 13024 /45.05.006/2007-08 dated June 24, 2008)
+
+The Government of Orissa has modified the scheme by extending the facility of payment of pension through Public Sector Banks by crediting to the Saving/Current Bank Account jointly operated by the pensioner with the spouse. The Joint Account of the pensioner with the spouse could be operated either by 'Former or Survivor' or 'Either or Survivor' basis subject to the following terms and conditions:
+
+(a) Once pension has been credited to a pensioner's bank Account, liability of the Government/Bank ceases. No further liability arises, even if the spouse wrongly draws the amount.
+(b) As pension is payable only during the life of a pensioner, his/her death shall be intimated to the bank at the earliest and in any case within one month of the demise, so that the bank does not continue crediting monthly pension to the Joint Account with the spouse, after the death of the pensioner. If, however, any amount has been wrongly credited to the Joint Account, it shall be recoverable from the joint account and/or any other account held by the pensioner/spouse either individually or jointly. The legal heirs, successors, executors etc. shall also be liable to refund any amount, which has been wrongly credited to the joint account. The pensioners shall have to furnish an undertaking to the effect that his legal heirs, successors, executors shall be liable to refund excess amount if any credited to Pensioner's Account/ Joint Account.
+(c) Payment of Arrears of Pensions to the Joint Account with the pensioner’s spouse as nominee would continue if there is an 'accepted nomination' as per Note-A- appended to S.R. 318 of Orissa Treasury Code Vol. 1
+Existing pensioners desiring to get their pension credited to a Joint Account as indicated above are required to submit an application to the branch bank, from where they are presently drawing pension in the prescribed form. This
+
+<!-- PAGE 23 -->
+
+would also be signed by the pensioner's spouse in token of having accepted the terms and conditions laid down in this Department Office Memorandum No 26848 dated 24.05.2008. These instructions are also applicable to the pensioners retiring after the issue of the Memorandum No. TRD –22/07 26848/F dated May 24, 2008.
+
+## 28. Disbursement of Pension to Goa Government pensioners – Issue of pension slip.
+
+## (Ref.DGBA.GAD.No.924/45.05.012/2008-09 dated July 23, 2008)
+
+The issue of providing pension slips to the State Governments pensioners on par with Central Government pensioners was taken up in the conference of State Financial Secretaries. The Government of Goa has decided that pension slips in the required format be issued to their Pensioners at commencement of pension and thereafter, whenever there is change in the quantum of pension as being done in case of Central Government pensioners. All agency banks have been advised to issue the instructions to their pension disbursing branches accordingly.
+
+## 29. Scheme for Payment of pension to Telecom Pensioners through
+
+**Authorized Banks-Credit of pension to Joint Bank Account operated by a pensioner with his / her spouse:**
+
+## (Ref. DGBA. GAD. No.H-1917/45.04.001/2008-09 dated August 21, 2008)
+
+It has been decided in consultation with Central Pension Accounting Office (CPAO) to permit credit of Pension also to a Joint Account operated by DOT/ Ex-DOT, DTS & DTO pensioner (absorbed in BSNL) and drawing pension through authorized banks, with his / her spouse in whose favour an authorization for family pension exists in Pension Payment Order (PPO). The Joint Account of the pensioner with the spouse could be operated either by ‘Former or Survivor’ OR ‘Either or Survivor’ basis subject to certain terms and conditions as mentioned in the Office Memorandum of Government of India, Ministry of Communications & I.T.,Department of Telecommunication, New Delhi. All agency banks have been advised to issue the instructions to their pension disbursing branches accordingly.
+
+**30. Scheme for Payment of Pension to Andhra Pradesh Government pensioners through Authorised Banks-Credit of Pension to Joint**
+## Pension Account operated by a pensioner with his / her spouse:
+
+<!-- PAGE 24 -->
+
+## (Ref. DGBA. GAD.No.1918/45.05.016/2008-09d dated August 21, 2008)
+
+Government of Andhra Pradesh have agreed to credit of Pension to Joint Pension Account of pensioner & his / her spouse with a condition of furnishing an affidavit by the spouse of service pensioner as detailed in the Government of Andhra Pradesh Order. Accordingly all agency banks have been advised to issue suitable instructions to their pension disbursing branches.
+
+## 31. Recommendations of the Prabhakar Rao Committee on Customer Service – Pension Payments:
+
+## (Ref.DGBA.GAD.No.H-3085/45.01.001/2008-09 dated October 1, 2008)
+
+It has been decided to accept the recommendations of the Prabhakar Rao Committee relating to pension payments and accordingly all agency banks have been advised to issue instructions to their dealing branches to adhere to these recommendations and also instruct their internal Auditors / Inspectors to bestow due attention to the adherence to the items of work by the branches listed with respect to the checklist (enclosed therewith) and comment on the quality of customer service in their reports which may be made available to Reserve Bank’s inspecting officers, as and when they visit the branches.
+
+**32. Implementation of Government’s decision on the recommendations of Sixth Central Pay Commission – Revision of**
+## pension of pre-2006 pensioners / family pensioners etc.
+
+## (Ref.DGBA.GAD.No.H-3699/45.01.001/2008-09 dated October 17, 2008)
+
+Government of India, Ministry of Personnel, Public Grievances & Pensions, New Delhi have accorded the sanction of regulation of pension/family pension of all the pre-2006 pensioners / family pensioners w.e.f. January 2006 vide letter No.38/37/08-P & PW(A) dated September 1, 2008. These orders apply to all pensioners/family pensioners who were drawing pension / family pension on January 1, 2006, under the Central Civil Services (Pension) Rules, 1972. CCS (Extraordinary Pension) Rules & the corresponding rules applicable to Railway Pensioners & pensioners of all India services, including officers of the Indian Civil Service retired from services, on or after January 1, 1973. These orders do not apply to retired
+
+<!-- PAGE 25 -->
+
+High Court and Supreme Court Judges and other Constitutional /Statutory Authorities whose pension etc. is governed by separate rules / orders.
+
+Accordingly all agency banks have been advised to issue suitable instructions to adhere to the Government recommendations while disbursing the pension to the pensioners.
+
+**33. Scheme for payment of pension to Central Government /** **Civil/Defence / Railway /Telecom/Freedom Fighters/ State** **Governments Pensioners by Public Sector Banks-Staggering of pension payments by PSBs.**
+## (Ref.DGBA.GAD.No.H - 7652/ 45.05.031/2008-09 dated March 3, 2009)
+
+We have been receiving the large number of complaints from pensioners regarding non payments of pension in the last four working days of each month. Instead, pension is paid by the agency banks on the last working day of the month which causes much hardship to the pensioners and they have to wait in queue for a long time.
+
+In this connection, we had reiterated the instructions contained in our earlier circular GA.NB.No.307/45.01.001/94-95 dated June 1, 1995 and advised all agency banks to spread over disbursal of pension during the period of last four working days of the month, except for the month of March, which will continue to be credited on or after the first working day of April.
+
+## 34. Issue of Pension Slips / Updation of Pension Payment Order by
+
+## Pension paying branches of Agency banks.
+
+## (Ref.DGBA.GAD.No.H-9326 /44.01.001/2008-09,dated April 29, 2009)
+
+Although suitable instructions were issued to the agency banks, for issue of Pension Slips and for updation of PPO, we have been receiving complaints from Pensioners’ Associations regarding non-issue of Pension Slips by pension paying branches. They have also complained that the pension paying branches do not update both halves of Pension Payment Order (PPO), whenever there is change in basic rates of pension advised by the concerned Government Departments. We have, therefore, advised all Regional Offices to ensure that the Inspecting Officers from PADs invariably look into the aspect of Pension Slips and updation of PPO and furnish specific comments thereon while conducting the inspection of agency banks.
+
+<!-- PAGE 26 -->
+
+## 35. Refund of overpayment of pension to the Government Account.
+
+## (Ref. DGBA. GAD. No.H-10450 /45.03.001/2008-09 dated June 1, 2009)
+
+Government of India have advised us that the overpayments of pension made by the banks are not credited back to Government account by the banks in lump sum but are remitted in installments as and when recovered from the pensioner. As this causes loss to the Government, all agency banks have been advised that whenever any excess / overpayment is detected the entire amount thereof should be credited to the Government account in lump sum immediately.
+
+## 36. Disbursement of Pension to Kerala Government pensioners – Issue of pension slip.
+
+## (Ref. DGBA. GAD.No.H 2090/ 45.05.015/ 2009-10 dated September 1, 2009)
+
+The issue of providing pension slips to the State Governments pensioners on par with Central Government pensioners was taken up in the conference of State Financial Secretaries. The Government of Kerala has decided that pension slips in the required format be issued to their Pensioners at commencement of pension and thereafter, whenever there is change in the quantum of pension as being done in case of Central Government pensioners. All agency banks have been advised to issue the instructions to their pension disbursing branches accordingly.
+
+## 37. Scheme of Payment of Pension to Railway Pensioners through
+
+## Public Sector Banks-issue of Due and Drawn statement.
+
+## (Ref. DGBA. GAD. No.H 2084/ 45.03.001/ 2009-10 dated September 1, 2009)
+
+The Ministry of Railways (Railway Board), New Delhi has informed that banks are not advising the pensioners about the details of the payments made to them on account of the revised pension. Therefore, in order to bring more transparency in the procedure of payment of arrears Ministry of Railways have requested us to instruct all Public Sector Banks to provide a copy of the ‘Due and Drawn’ statement to the pensioners. All the Public Sector Banks have, therefore, been advised to issue suitable instructions to their pension paying branches for issuance of ‘Due and Drawn’ statement in the prescribed form to Railway pensioners, whenever there is a change / revision in their pension, so as to avoid inconvenience to the pensioners.
+
+<!-- PAGE 27 -->
+
+They have been advised to report the action taken in the matter to the Ministry of Railways under advice to Reserve Bank.
+
+## 38. Recovery of excess/wrong payments made to the Pensioners.
+
+## (Ref. DGBA. GAD. No. H-2434/ 45.05.031/ 2009-10 dated September 15, 2009)
+
+On receipt of several references from Governments/ Departments that banks are not refunding the amounts of excess/ over payments of pension in lump sum we have reiterated instructions issued vide our circular dated April 18, 1991 and June 1, 2009 for recovery of excess payments and lump sum refund of excess/ overpayments respectively.
+
+**39. Scheme for payment of pension to Central Civil/ Defence/** **Railway/ Telecom Pensioners/ Freedom Fighters/State** **Governments' Pensioners through Public Sector Banks- Facility for withdrawal of pension by old/ sick/ disabled/ incapacitated** **pensioners.**
+## (Ref.DGBA.GAD.No.H 3194/45.01.001/2009-10 dated October 14, 2009)
+
+It is observed that the guidelines issued by RBI are not being meticulously adhered to by the banks, may be due to ignorance of the bank staff and that of the pensioners. In order to take care of the problems/ difficulties faced by the sick and disabled pensioners in withdrawal of pension / family pension from the banks, we have reiterated the instructions issued earlier to all the agency banks and advised them to categorise the cases of sick and incapacitated pensioners as under:
+
+1. Pensioner who is too ill to sign a cheque / unable to be physically present in the bank
+2. Pensioner who is not only unable to be physically present in the bank but also not even able to put his/her thumb impression on the cheque/ withdrawal form due to certain physical defect / incapacity.
+With a view to enabling such old/sick/incapacitated pensioners to operate their accounts, banks have been advised to follow the procedure as under:
+
+<!-- PAGE 28 -->
+
+a) Wherever thumb or toe impression of the old/sick pensioner is obtained, it should be identified by two independent witnesses known to the bank, one of whom should be a responsible bank official.
+b) Where the pensioner cannot even put his/her thumb/ toe impression and also would not be able to be physically present in the bank, a mark can be obtained on the cheque/withdrawal form, which should be identified by two independent witnesses, one of whom should be a responsible bank official.
+Accordingly, the agency banks are requested to instruct their branches to display the instructions issued in this regard on their notice board so that sick and disabled pensioners could make full use of these facilities. The banks are also advised to sensitise the staff members in the matter and to refer to the FAQs on pension disbursement hosted on our website <u>www.rbi.org.in</u> in case of any doubt.
+
+## 40. Pension Payment to Central/ State Govt. Pensioners by Agency Banks-Delay
+
+## (Ref.DO.No.CSD.CO/8793/13.01.001/2009-10 dated April 09, 2010,
+
+## DGBA.GAD.No.H- 46/45.01.001/2010-11 dated July 2, 2010 and
+
+## DGBA.GAD.No.H- 6212 & 6213/45.01.001/2010-11 dated March 11,
+
+## 2011)
+
+Reserve Bank of India is receiving several complaints from the pensioners alleging inordinate delay in disbursing the revised pension and arrears. Position was reviewed by RBI and the agency banks have been instructed as under:
+
+i) Pension paying banks should compensate the pensioner for the delay in crediting the pension/ arrears thereof by paying compensation at Bank Rate plus 2% penal interest for the delay after the due date and the compensation shall be credited to the pensioner's account automatically without any claim from the pensioner on the same day when the bank affords credit for revised pension/ pension arrears, in respect of all delayed pension payments made since October 1, 2008. ii) Pension paying banks have been requested to put in place a mechanism to obtain immediately the copies of pension orders from the pension paying authorities directly and make payments without waiting for receipt of instructions from RBI so that pensioners should
+
+<!-- PAGE 29 -->
+
+get the benefits announced by the Governments in the succeeding month's pension payment itself. iii) System of attending to customer service including pension payments may be reviewed. iv) The branch continues to be a point of referral for the pensioner lest he/she feel disenfranchised.
+
+v) All branches having pension accounts should guide and assist the pensioners in all their dealings with the bank vi) Suitable arrangements are made to place the arithmetic and other details about the pension calculations on the web, to be made available to the pensioners through the net or at the branches at periodic interval as may be necessary and sufficient advertisement is made about such arrangements vii) All claims for agency commission in respect of pension payments must be accompanied by a certificate from E.D. / CGM- in- Charge of Government business in case of SBI and its Associate Banks that there are no pension arrears to be credited /delays in crediting regular pension / arrears thereof.
+## 41. Introduction of Single Window System for Reimbursement of Railway Pension Payments.
+
+## (Ref.DGBA.GAD.No.H-6493/45.03.001/2010-11, dated March 21, 2011)
+
+The Single Window System (SWS) has been introduced in case of the reimbursement of Railway Pensions with Bank of Baroda, Allahabad Bank and United Bank of India with effect from April 1, 2011. The ‘Reimbursing Banks’ i.e. RBI (PADs), State Bank of India and its Associate Banks will cease to reimburse Railway pension payments made by these banks with effect from April 1, 2011. However, United Bank of India has requested for extension of time upto June 30, 2011 for implementation of SWS for Railway pension payments.
+
+<!-- PAGE 30 -->
+
+## List of Circulars consolidated by the Master Circular
+
+|Sr.No.|Circular No.|Date|Subject|
+|---|---|---|---|
+|1|Ref.DGBA.GAD. No. H- 416 / 45.01.003 / 2002-03 Ref.DGBA.GAD.No.770/45. 1.003/2003-04|21.3.2003 25.2.2004|Hosting of Government Orders for Dearness Relief (DR)etc. of State Government Pensioners on Web Sites of State Governments Hosting of Pension Circulars on RBI's Website|
+|2|Ref .DGBA. GAD .No.H- 506/ 45.01.001 / 2002-03|12.4.2003|Payment of Pension to Government Pensioners through Public Sector Banks – Steps taken by Government to minimize delay in payment of Dearness Relief (DR) to Pensioners – Discontinuation of forwarding Government orders in respect of DR etc. through Reserve Bank of India.|
+|3|Ref. DGBA. GAD. No. H- 94/45.05.031/2004-05|24.08.2004|Acceptance of nomination in form ‘A’ and ‘B’ – Central Civil Pension.|
+|4|Ref. DGBA. GAD. No. 612- 644/ 45.01.001/2004-05|07.10.2004|Implementation of procedure for payment of pensions and other retirement benefits to All India Service Officers retiring from Government of India while on central deputation|
+
+<!-- PAGE 31 -->
+
+**5** <u>Ref. DGBA.GAD. No. 867-</u>18.10.2004 Scheme of Payment of <u>899/ 45.02.001/ 2004-05</u> Pension to Defence Pensioners by Public Sector Banks – Delay in Submission of Pension Payment Scrolls and Steps to avoid fake and fraudulent payments.
+
+**6**
+
+|No. RBI / 2005/ 334|Ref. 06.01.2005|Scheme of Payment of|
+|---|---|---|
+|DGBA. GAD. No. H-3389-||Pension to Railway|
+|3421/45.02.01/ 2004-05)||Pensioners by Public|
+
+Sector Banks- Steps to avoid fraudulent payments. **7** 11.01.2005
+
+|Ref. DGBA. GAD. No.|Payment of Central Civil|
+|---|---|
+|H.3452-3485/ 45.01.001/|Pension – Entry of|
+|2004-05|Dearness Pension in both|
+
+halves of Pension Payment Order (PPO) **8** Ref. DGBA. GAD. No. 30.05.2005 Disbursement of Railway 6073/45.05.031/ 2004-05 Pension by Agency Banks.
+
+**9** Ref. DGBA. GAD. No. H-10.10.2005 Acceptance of Nomination 3611/45.03.002/ 2005-06 (Form ‘A’ & ‘B’) in respect of Railway Pensioners for payment of arrears of pension. **10** Ref. DGBA. GAD. No. H-24.01.2006 Scheme of Payment of 10746/ 45.03.001/ 2005-Pension to Railway 06 Pensioners through Public Sector Banks – Designation of FA & CAOs of seven new zones by Ministry of Railways.
+
+**11** <u>Ref.DGBA.GAD.No.11303/4</u> 06.02.2006 Disbursement of pension
+
+<u>5.01.003/2005-06</u> through Public Sector
+Banks – Payment of Dearness Relief (DR)
+
+<!-- PAGE 32 -->
+
+## 12 24.02.2006
+
+|Ref. DGBA. GAD. No.|Payment of Pension|
+|---|---|
+|12736/ 45.03.001/ 2005-|through Authorised Banks|
+|06|– Credit of Pension to|
+
+Joint Account operated by pensioner with his/ her Spouse. **13** DGBA.GAD.No.H- 2134 4.08.2006 Payment of pension /45.02.001/ 2006-07 through Authorised Banks-Credit of Pension to Joint Bank Account operated by a pensioner with his / her spouse.
+
+**14** DGBA.GAD.No. 30.10.2006 Scheme for payment of 6926/45.05.005/ 2006-07 pension to West Bengal (Part-A) Government Pensioners by Public Sector Banks-Credit of Pension to Joint bank Account operated by a pensioner with his / her spouse **15** DGBA.GAD.No.H-24.11.2006 Scheme for payment of 8973/45.05.003/ 2006-07 pension to Punjab Government pensioners by Public Sector Banks.
+
+**16** DGBA.GAD.No. H-09.01.2007 Disbursement of Central 10975/ 45.05.031/ Government pension 2006-07 through Public Sector Banks-Issue of Pension Slips. **17** DGBA.GAD.No.H-13.03.2007 Introduction of Single 13834/45.02.001/ 2006-07 Window System for reimbursement of Defence Pension Payments.
+
+<!-- PAGE 33 -->
+
+**18** DGBA.GAD.No.H-14279/ 23.03.2007 Scheme for payment of
+
+45.05.024/ 2006-07
+pension to Arunachal Pradesh Government pensioners by public sector banks.
+
+**19** DGBA.GAD.No.H-12.06.2007 Disbursement of Central 17663/45.05.031/ Government pension 2006-07 through Public Sector Banks-Issue of Pension Slips to Defence Pensioners. **20** DGBA.GAD.No.H-08.10.2007 Disbursement of Central 3856/45.05.031/ Government pension 2007-08 through Public Sector Banks-Issue of Pension Slips to Railway Pensioners. **21** DGBA.GAD.No. 15.01.2008 Scheme for payment of 7570/45.05.018/ 2007-08 pension to Assam Government pensioners by Public Sector Banks-Credit of pension to Joint Bank Account operated by a pensioner with his / her spouse **22** DGBA.GAD.No. 19.02.2008 Scheme for payment of 9036/45.05.017/ 2007-08 Pension to Puducherry Government Pensioners by Public Sector Banks- Amendment of the scheme
+
+## 23 06.05.2008
+
+|DGBA.GAD.No.|Payment of pension|
+|---|---|
+|11653/45.05.013/|through Authorised banks|
+|2007-08|– Credit of pension to|
+
+Joint Account operated by a pensioner.
+
+<!-- PAGE 34 -->
+
+## 24 04.06.2008
+
+|DGBA.GAD.No.H|Scheme for payment of|
+|---|---|
+|12499/45.05.010/|pension to Uttar Pradesh|
+|2007-08|Government Pensioners|
+
+by Public Sector Banks- Credit of pension to Joint Account operated by a pensioner with his / her spouse.
+
+## 25 05.06.2008
+
+|DGBA.GAD.No.H|Scheme for payment of|
+|---|---|
+|12656/45.05.010/|pension to Uttarakhand|
+|2007-08|Government Pensioners|
+
+by Public Sector Banks- Credit of pension to Joint Account operated by a pensioner with family pensioner/ nominee **26** 11.06.2008
+
+|Ref.DGBA.GAD.No.H|Disbursement of West|
+|---|---|
+|12704/45.05.005/|Bengal Government|
+|2007-08|pension through Public|
+
+Sector Banks-Issue of Pension Slips
+
+## 27 24.06.2008
+
+|Ref.DGBA.GAD.No.H|Scheme for Payment of|
+|---|---|
+|13024/45.05.006/|Pension to Orissa|
+|2007-08|Government Pensioners|
+
+by Public Sector Banks-Credit of pension to Joint Bank Account operated by a pensioner with his / her spouse
+
+**28** Ref.DGBA.GAD.No.924/45. 23.07.2008 Disbursement of Pension
+
+05.012/2008-09 to Goa Government
+pensioners – Issue of pension slip
+
+<!-- PAGE 35 -->
+
+|29|Ref.DGBA.GAD.No.H- 1917/45.04.001/2008-09|21.08.2008|Scheme for Payment of pension to Telecom pensioners through Authorized Banks-Credit of pension to Joint Bank Account operated by a pensioner with his / her spouse|
+|---|---|---|---|
+|30 31 32|Ref.DGBA.GAD.No. 1918/45.05.016/2008-09 Ref.DGBA.GAD.No.H- 3085/45.01.001/2008-09 Ref.DGBA.GAD.No.H- 3699/45.01.001/2008-09|21.08.2008|Scheme for Payment of Pension to Andhra Pradesh Government pensioners through Authorised Banks- Credit of Pension to Joint Pension Account operated by a pensioner with his / her spouse. 01.10.2008 Recommendations of the Prabhakar Rao Committee on customer service – Pension Payments. 17.10.2008 Implementation of Government’s decision on the recommendations of Sixth Central Pay Commission – Revision of pension of pre-2006 pensioners / family pensioners etc.|
+|33|Ref.DGBA.GAD.No.H - 7652/ 45.05.031/2008-09|03.03.2009|Scheme for payment of pension to Central Government Civil/Defence /Railway/Telecom/Freedo m Fi ghters/ State Governments Pensioners by Public Sector Banks- Staggering of pension payments by PSBs.|
+|34|Ref.DGBA.GAD.No.H-9326 /44.01.001/2008-09|29.04.2009|Issue of Pension Slips / Updation of Pension|
+
+<!-- PAGE 36 -->
+
+Payment Order by Pension paying branches of Agency banks
+
+**35** Ref.DGBA.GAD.No.H-01.06.2009 Refund of overpayment of 10450/45.03.001/2008-09 pension to the Government Account.
+
+**36** Ref.DGBA.GAD.No.H 01.09.2009 Disbursement of Pension 2090/45.05.015/2009-10 to Kerala Government pensioners – Issue of pension slip **37** Ref.DGBA.GAD.No.H 01.09.2009 Scheme of Payment of 2084/45.03.001/2009-10 Pension to Railway Pensioners through Public Sector Banks-issue of Due and Drawn statement **38** 15.09.2009 Recovery of excess/
+
+|Ref.DGBA.GAD.No.H-2434||
+|---|---|
+|/45.05.031/|wrong payments made to|
+|2009-10|the pensioners|
+
+**39** Ref.DGBA.GAD.No.H 14.10.2009 Scheme for payment of 3194/45.01.001/2009-10 pension to Central Civil/ Defence/Railway/ Telecom Pensioners/ Freedom Fighters/State Governments' Pensioners through Public Sector Banks- Facility for withdrawal of pension by old/ sick/ disabled/ incapacitated pensioners
+
+|Ref.DO.No.CSD.CO/8793/1|09.04.2010|Pension Payment to|
+|---|---|---|
+|3.01.001/2009-10||central/ State Govt. Pensioners by agency|
+|DGBA.GAD.No.H- 46/|02.07.2010|Banks-Delay|
+
+**40**
+
+45.01.001/2010-11 DGBA. GAD. No.H- 6212 & 11.03.2011 <u>6213/ 45.01.001/2010-11</u>
+
+<!-- PAGE 37 -->
+
+**41** Ref.DGBA.GAD.No.H-21. 03.2011 Introduction of Single 6493/45.03.001/2010-11 Window System for Reimbursement of Railway Pension <u>Payments.</u>
+
+------------------------------
