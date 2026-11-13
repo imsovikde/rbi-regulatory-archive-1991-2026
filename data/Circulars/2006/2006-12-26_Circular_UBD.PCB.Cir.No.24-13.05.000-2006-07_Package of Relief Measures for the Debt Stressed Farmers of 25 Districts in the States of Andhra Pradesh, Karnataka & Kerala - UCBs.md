@@ -1,0 +1,97 @@
+---
+doc_id: "Circulars_2006_UBD_PCB_Cir_No_24_13_05_000_2006-07"
+title: "Package of Relief Measures for the Debt Stressed Farmers of 25 Districts in the States of Andhra Pradesh, Karnataka & Kerala - UCBs"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/74858.PDF"
+pdf_sha256: "60a486674efea003be0e729b76e812d3a86e0277cdb806cc81234e030819f92e"
+md_sha256: "420a25893f63578c0f1e0ecf22ae6d28d2ec3032fed064a8b056f6b1b352fb38"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:56:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-12-26_Circular_UBD.PCB.Cir.No.24-13.05.000-2006-07_Package%20of%20Relief%20Measures%20for%20the%20Debt%20Stressed%20Farmers%20of%2025%20Districts%20in%20the%20States%20of%20Andhra%20Pradesh%2C%20Karnataka%20%26%20Kerala%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Package of Relief Measures for the Debt Stressed Farmers of 25 Districts in the States of Andhra Pradesh, Karnataka & Kerala - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/219 UBD.PCB.Cir.No.24 /13.05.000/2006-07
+
+December 26, 2006 The Chief Executive Officers of
+
+(i) Primary (Urban) Co-operative Banks in Andhra Pradesh/ Karnataka/Kerala (ii) All Multi State Primary (Urban) Co-operative Banks.
+Dear Sir/Madam, Package of Relief Measures for the Debt Stressed Farmers of
+
+|||25 Districts in the States of Andhra Pradesh, Karnataka & Kerala-UCBs For mitigating the distress of farmers in the following 25 debt stressed districts of Andhra Pradesh, Karnataka and Kerala, the Union Government has approved a package which, besides other items, has a component relating to agriculture|
+|---|---|---|
+||Name of the State|Name of the Affected Districts|
+||01 Andhra Pradesh (16)|Prakasam, Guntur, Nellore, Chittor, Cuddapah, Anantapur, Kurnool, Adilabad, Karimnagar, Khammam, Mahabubnagar, Medak, Nalgonda, Nizamabad, Rangareddy Withdrawn and Warangal|
+||02 Karnataka (6)|Belgaum, Hassan, Chitradurga, Chikmagalur, Kodagu and Shimoga|
+||03 Kerala (3)|Wayanad, Palakkad and Kasaragod|
+
+credit.
+
+2. The component relating to Agriculture Credit includes the following:
+(i) The entire interest on overdue loans as on July 01, 2006 will be waived in the above 25 affected districts and all farmers will have no past interest burden as on that date, so that they will immediately be eligible for fresh loans from the banking system. (ii) The overdue loans of the farmers as on July 01, 2006 will be rescheduled over a period of 3-5 years with a one-year moratorium. (iii) A credit flow of Rs.13,817.78 crore, Rs.3,076.20 crore and Rs.1,945.07 crore will be ensured in the above debt stressed districts of Andhra Pradesh, Karnakata and Kerala respectively in 2006-07.
+
+<!-- PAGE 2 -->
+
+3. The burden of waiver of overdue interest will be shared equally by the State and Central Governments. While apportioning the overdue interest as above, due care will be taken to offset releases if any, already made by the State Government on this count.
+4. You are, therefore, advised to ensure that all the farmers' loan-accounts in the specified districts, which are overdue as on July 01, 2006, are rescheduled on the lines of the package and the interest thereon (as on July 01, 2006) is fully waived. Fresh finance may be ensured to such farmers. The total amount of credit envisaged to be released by banks in the three States will be allocated by the respective SLBC Convenors among the banks functioning in the districts.
+5. The amount of interest waived (State wise) may be advised to the SLBC Convenor Bank of the respective State and to our respective Regional Offices in a consolidated manner in the enclosed format (Annex-I) in order to enable us to reimburse the same. While the branches may provide information to the Controlling / Head Office as per Annex-III, the latter may maintain branch-wise information in the format given in Annex -II for the purpose of RBI Inspection and State Government Audit.
+# Withdrawn
+
+Yours faithfully,
+
+(N.S.Vishwanathan) Chief General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+Annex-I
+
+Certificate for Claiming Reimbursement towards
+
+|Name of the Bank :|Relief provided in the State of : (Claims to be submitted State-wise)|Interest on Overdue Agricultural Credit Outstanding as on July 01, 2006|||
+|---|---|---|---|---|
+|||||(Amount in Rupees)|
+|Number of accounts of overdue loans|Principal amount outstanding as on July 01, 2006, since rescheduled,|Amount of interest overdue as on July 01, 2006 on the loans shown in column 2|Of which reimbursement already received from State Govt. under any other relief package|Reimbursement of net interest now claimed|
+
+(1) (2) (3) (4) (5)
+
+We hereby certify that the amount of interest being claimed as shown above,Withdrawn have been correctly calculated in conformity with the Reserve Bank of India Circular letter UBD.PCB. Cir.No.24/13.05.000/06-07 dated December 26, 2006. We undertake that in the event of any inaccuracy detected later during audit or otherwise, we shall immediately refund to the Reserve Bank any excess amount received by us.
+
+(Authorised Signatory)
+
+Place :
+
+Date :
+
+<!-- PAGE 4 -->
+
+## Annex-II
+
+|||||Data to be kept with the Bank's Head Office for Verification / Scrutiny by Auditors / RBI Inspectors|||
+|---|---|---|---|---|---|---|
+|||||||(Amount in Rupees)|
+|Sr. No.|Branch Name and Code|No. of A/c's|Amount outstanding as on July 01, 2006 in respect of overdue loans Amount|Amount of interest overdue as on July 01, 2006 on the loans shown in column 4|Of which reimbursement already received from State Govt. under any other relief packge|Reimbursement of net interest now claimed|
+
+(1) (2) (3) (4) (5) (6) (7)
+
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+## Annex-III
+
+Format for Branches to provide Information in respect of Interest waived on
+
+|||||Overdue Agricultural Loans outstanding as on July 01, 2006 to their Controlling / Head Office|||
+|---|---|---|---|---|---|---|
+||Name of the Branch : Branch Code :|||||(Amount in Rupees)|
+|Sr. No.|Name of the Borrower|Account No.|Agricultural loans Overdue & Outstanding as on July 01, 2006|Amount of Interest overdue as on July 01, 2006 on the loans shown in column 4 Withdrawn|Of which reimbursement already received from State Govt. under any other relief package|reimbursement of net interest now claimed|
+
+(1) (2) (3) (4) (5) (6) (7)

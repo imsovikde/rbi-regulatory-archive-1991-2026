@@ -1,0 +1,56 @@
+---
+doc_id: "Circulars_2007_Notification_No_DNBS_191_CGM_PK_-2007"
+title: "Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75111.PDF"
+pdf_sha256: "e69bbaf06327d1af477a09617eec3fbeb91aee1e265ecc1385f23aacf3fb89b5"
+md_sha256: "823adb12abdc65a46607dbc1a87aec40a00b8dfa53ee6560c26c59e5cb1ccfd0"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:56:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-01-04_Circular_Notification%20No.%20DNBS.191-CGM%28PK%29-2007_Non-Banking%20Financial%20Companies%20Acceptance%20of%20Public%20Deposits%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998
+
+<!-- PAGE 1 -->
+
+## RBI / 2006-2007/226
+
+DNBS (PD) CC. No. 88 / 03.02.21 / 2006-07 January 04, 2007
+
+To, Mutual Benefit Financial Companies (Nidhis) and Mutual Benefit Companies (Potential Nidhis)
+
+Dear Sirs,
+
+<u>Submission of returns by Mutual Benefit Financial Companies (MBFCs) and</u> <u>Mutual Benefit Companies (MBCs)</u>
+
+As you are aware, the Ministry of Company Affairs has taken over the entire regulation of Mutual Benefit Financial Companies (Notified Nidhis) and Mutual Benefit Companies (Potential Nidhis). The position regarding submission of Annual Returns by MBFCs and MBCs has been reviewed by the Department and it has been decided not to call for Annual Return in First Schedule, audited balance sheet & profit and loss account, auditor’s certificate and other particulars as contained in paragraph 8 of Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998. However, once the application of MBCs (Potential Nidhis) for grant of nidhi status is rejected by the Ministry of Company Affairs, the provisions of the said Directions as applicable to NBFCs would apply to such companies.
+
+# Withdrawn
+
+2. A copy each of the amending Notification No. DNBS.191 / CGM (PK) – 2007 dated January 04, 2007 as well as updated Notification No.DFC.118 / DG (SPT) – 98 dated January 31, 1998 are enclosed for your information and meticulous compliance.
+3. Please acknowledge receipt to the Regional Office of the Department of Non- Banking Supervision, Reserve Bank of India under whose jurisdiction the Registered Office of your company is situated.
+Yours faithfully,
+
+(P. Krishnamurthy) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+RESERVE BANK OF INDIA DEPARTMENT OF NON-BANKING SUPERVISION CENTRAL OFFICE CENTRE I, WORLD TRADE CENTRE, CUFFE PARADE, COLABA, MUMBAI 400 005.
+
+Notification No. DNBS. 191 / CGM(PK)-2007 dated January 04, 2007
+
+The Reserve Bank of India, having satisfied that, in the public interest, and to enable the Bank to regulate the financial system of the country to its advantage, it is necessary to amend the Non- Banking Financial Companies Acceptance of Public Deposits ( Reserve Bank) Directions, 1998, in exercise of the powers conferred by sections 45J, 45JA, 45K and 45L of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said directions contained in Notification No.DFC.118/DG(SPT)-98 dated January 31, 1998 shall stand amended with immediate effect as follows, namely -
+
+Sub-paragraph (2) of paragraph 3, shall be substituted by the following paragraph :
+
+“The provisions contained in paragraph 4 except sub-paragraphs (7), (15) and (16) and paragraphs 5, 6 and 8 of these directions shall not apply to a Mutual Benefit Financial Company and a Mutual Benefit Company.”
+
+(P. Krishnamurthy) Chief General Manager-in-Charge
+
+# Withdrawn

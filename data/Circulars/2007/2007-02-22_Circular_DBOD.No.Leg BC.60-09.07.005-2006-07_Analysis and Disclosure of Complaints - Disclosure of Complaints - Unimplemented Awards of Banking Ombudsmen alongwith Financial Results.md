@@ -1,0 +1,53 @@
+---
+doc_id: "Circulars_2007_DBOD_No_Leg_BC_60_09_07_005_2006-07"
+title: "Analysis and Disclosure of Complaints - Disclosure of Complaints / Unimplemented Awards of Banking Ombudsmen alongwith Financial Results"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75948.pdf"
+pdf_sha256: "8a693665447be3b7d1c82f7dde7e5de4d69114ba5dfa9acbce7c5076cf1a35b6"
+md_sha256: "77194c5045a13b35b080120fac04604955316cff12b38bdcb44178e6bcb464ac"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:56:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-02-22_Circular_DBOD.No.Leg%20BC.60-09.07.005-2006-07_Analysis%20and%20Disclosure%20of%20Complaints%20-%20Disclosure%20of%20Complaints%20-%20Unimplemented%20Awards%20of%20Banking%20Ombudsmen%20alongwith%20Financial%20Results.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Analysis and Disclosure of Complaints - Disclosure of Complaints / Unimplemented Awards of Banking Ombudsmen alongwith Financial Results
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/266 DBOD.No.Leg BC. 60 /09.07.005/2006-07 February 22, 2007
+
+All Scheduled Commercial Banks (excluding RRBs) Dear Sir, <u>Analysis and Disclosure of complaints -</u> <u>Disclosure of complaints / unimplemented awards of</u> <u>Banking Ombudsmen alongwith Financial Results</u>
+
+The Committee on Procedures and Performance Audit on Public Services (CPPAPS) had recommended that banks should place a statement before their Boards analyzing the complaints received. CPPAPS had further recommended that the Statement of complaints and its analysis should also be disclosed by banks along with their financial results. Further, a suggestion has been received that unimplemented awards of the Banking Ombudsman should also be disclosed alongwith financial results.
+
+2. The matter has been examined in the light of enhancing the effectiveness of the grievance redressal mechanism and banks are accordingly advised to place a statement of complaints before their Boards / Customer Service Committees alongwith an analysis of the complaints received. The complaints should be analysed
+(i) to identify customer service areas in which the complaints are frequently received; (ii) to identify frequent sources of complaint; (iii) to identify systemic deficiencies; and (iv) for initiating appropriate action to make the grievance redressal mechanism more effective.
+
+<!-- PAGE 2 -->
+
+3. Further, banks are also advised to disclose the following brief details alongwith <u>their financial results:</u>
+<u>A. Customer Complaints</u>
+
+|(a)|No. of complaints pending at the beginning of the year|
+|---|---|
+|(b)|No. of complaints received during the year|
+|(c)|No. of complaints redressed during the year|
+|(d)|No. of complaints pending at the end of the year|
+
+<u>B. Awards passed by the Banking Ombudsman</u>
+
+|(a)|No. of unimplemented Awards at the beginning of the year|
+|---|---|
+|(b)|No. of Awards passed by the Banking Ombudsmen during the year|
+|(c)|No. of Awards implemented during the year|
+|(d)|No. of unimplemented Awards at the end of the year|
+
+4. Further, banks are also advised to place the detailed statement of complaints and its analysis on their web-site for information of the general public at the end of each financial year.
+## Yours faithfully
+
+(P.Vijaya Bhaskar) Chief General Manager
