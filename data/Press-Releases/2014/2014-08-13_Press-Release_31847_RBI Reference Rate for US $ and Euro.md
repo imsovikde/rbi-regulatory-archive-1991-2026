@@ -1,0 +1,37 @@
+---
+doc_id: "Press-Releases_2014_31847"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR322RE0814.pdf"
+pdf_sha256: "8c96311242f0dbe195dd083374f9d38ba2b51d0f502bee2942e35e437c89e37e"
+md_sha256: "05fde4f3a0588bbc319ac04536c29d189803d6baacb174165e6ab28c3a119a7a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:32:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2014/2014-08-13_Press-Release_31847_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## ेस काशनी PRESS RELEASE
+
+भारतीय रज़व बक **RESERVE BANK OF INDIA** संचार �वभाग**,** क ��� कायालय, एस.बी.एस.माग, मुंबई-400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website: www.rbi.org.in
+
+|and the Reference Rate for Euro is against the Rupee are given below:|फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 RBI Reference Rate for US $ and Euro The Reserve Bank of India’s Reference Rate for the US dollar is `61.2458 corresponding rates for the previous day (August 12, 2014) were `61.1847 and `81.7762 respectively. Based on the Reference Rate for the US dollar and the middle rates of the cross-currency quotes, the exchange rates of GBP and JPY|इ-मेल email : helpdoc@rbi.org.in August 13, 2014 `81.8990 on August 13, 2014. The|
+|---|---|---|
+|Currency|Date||
+||August 12, 2014|August 13, 2014|
+|1 GBP|102.5578|103.0154|
+|100 YEN|59.81|59.91|
+
+**Note :** The SDR-Rupee rate will be based on the reference rate.
+
+## Ajit Prasad
+
+**Press Release: 2014-2015/322** Assistant General Manager
