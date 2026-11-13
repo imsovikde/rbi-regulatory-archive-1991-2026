@@ -1,0 +1,34 @@
+---
+doc_id: "Press-Releases_2022_54030"
+title: "Money Supply for the fortnight ended July 01, 2022"
+category: "Press-Releases"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR532964CF2F3A6854C9391EB26B7E318F269.PDF"
+pdf_sha256: "3aae46dea2403b7c960935ed2d88a182b3a61a4a1544c7b85c5a1b7235e09c31"
+md_sha256: "bf35588500bad795963f585bddea9bb5a7339757baabf9408ec003a872154ff8"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T23:37:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2022/2022-07-14_Press-Release_54030_Money%20Supply%20for%20the%20fortnight%20ended%20July%2001%2C%202022.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Supply for the fortnight ended July 01, 2022
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, एस.बी.एस. मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, S.B.S. Marg, Fort, Mumbai - 400 001|
+|ई-मेल/email : helpdoc@rbi.org.in|फोन/Phone: 022 - 2266 0502|
+
+July 14, 2022 **Money Supply for the fortnight ended July 01, 2022** The Reserve Bank has today released data on <u>Money Supply</u> for the fortnight ended July 01, 2022.
+
+## Rupambara
+
+**Press Release: 2022-2023/532** Director (Communications)
