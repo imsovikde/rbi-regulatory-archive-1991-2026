@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2025_13197"
+title: "Reserve Bank of India (Small Finance Banks - Concentration Risk Management) Amendment Directions, 2025"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/2SFB127088B0E8142D348929FDC24674FAF9A43.PDF"
+pdf_sha256: "d4c1a0bab56c6851a5b2f89736c88ddb8fa575205d37f25b8a312174c988ab9d"
+md_sha256: "3c42ace3710106e99919b5312f8d2a7b95d340771a2609e8ba625e1c39793a53"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13197_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20-%20Concentration%20Risk%20Management%29%20Amendment%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Small Finance Banks - Concentration Risk Management) Amendment Directions, 2025
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2025-26/127 DOR.CRE.REC.337/07-03-002/2025-26 December 4, 2025
+
+## Reserve Bank of India (Small Finance Banks-Concentration Risk Management) Amendment Directions, 2025
+
+Please refer to <u>Reserve Bank of India (Small Finance Banks-Concentration Risk</u> <u>Management) Directions, 2025</u> (hereinafter referred to as ‘the **Directions**’).
+
+2. On a review, in exercise of the powers conferred by the sections 21 and 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions modifies the Directions as under:
+## (1) Modifications in Chapter II – Role of the Board
+
+Paragraph 6 shall be partially modified, with the following insertion at the beginning of the paragraph:
+
+“Banks shall have policies on Concentration Risk Management of their exposures towards a single counterparty, groups of interconnected counterparties, specific sectors of the economy as also systems to monitor and address the risks emanating to them from their exposures to ultra-large borrowers who are excessively leveraged and have substantial borrowings from the banking system. While banks can have their own criteria for deciding an ultra-large borrower, they shall take into account inter alia the overall borrowings of such entities from the banking system for credit assessment of such borrowers.”
+
+व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+## (2) Repeal of Chapter III -Enhancing Credit Supply for Large Borrowers through Market Mechanism
+
+Instructions contained in this Chapter shall stand repealed.
+
+4. The above amendment shall come into force from January 1, 2026. Banks may however decide to implement the amendment at 3(1) above in entirety from an earlier date.
+5. Consequent to amendment(s) in terms of paragraph 3(5) above, other amendment directions viz., <u>Reserve Bank of India (Small Finance Banks – Income Recognition,</u> <u>Asset Classification and Provisioning) Amendment Directions, 2025</u> and the <u>Reserve</u> <u>Bank of India (Small Finance Banks – Prudential Norms on Capital Adequacy)</u> <u>Amendment Directions, 2025</u> have been separately issued. (Vaibhav Chaturvedi) Chief General Manager

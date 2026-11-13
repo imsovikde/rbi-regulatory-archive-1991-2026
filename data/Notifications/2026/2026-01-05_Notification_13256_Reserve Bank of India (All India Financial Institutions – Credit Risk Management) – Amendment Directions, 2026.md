@@ -1,0 +1,136 @@
+---
+doc_id: "Notifications_2026_13256"
+title: "Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1808BCC3640F32F46C2BA789CB2604FBE63.PDF"
+pdf_sha256: "d645dde77f6e19ae77769bf778f0825b15f768801004bf3f02b5d42380a51e35"
+md_sha256: "8934802b1c2746aa5ec5d9f79a2d4f3e638b8197c3fac8f448bd4e22c5d913fd"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-05_Notification_13256_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Credit%20Risk%20Management%29%20%E2%80%93%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक <u>RESERVE BANK OF INDIA</u>
+
+RBI/2025-26/180 DOR.CRE.REC.381/07-02-007/2025-26 January 05, 2026
+
+## Reserve Bank of India (All India Financial Institutions – Credit Risk
+
+## Management) – Amendment Directions, 2026
+
+Please refer to <u>Reserve Bank of India (All India Financial Institutions-Credit Risk</u> <u>Management) Directions, 2025</u>hereinafter referred to as ‘the Directions’). (
+
+2. On a review, in exercise of the powers conferred by Section 45L of the Reserve Bank of India Act, 1934 and all other provisions / laws enabling the Reserve Bank of India (hereinafter called the Reserve Bank) in this regard, Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues these Directions hereinafter specified.
+3. The Amendment Directions modifies the Directions as under: 3(1) In Chapter I – ‘Preliminary’ of the Directions, the following modifications shall be effected:
+(i) In paragraph 4(1), the following sub-paragraphs shall be inserted as definitions:
+
+|(iia) ‘|Committee on lending to related parties ’ shall mean a committee established|
+|---|---|
+||by the Board of the AIFI specifically to deal with lending to related parties. AIFIs may also identify any existing Committee, other than the Audit Committee, for this|
+|purpose.||
+|(iib) ‘|Contract or arrangement ’ shall have the same meaning as specified in Section 188(1)(a) to (g) of the Companies Act, 2013.|
+|(iic) ‘ Control of the Companies Act, 2013.|’ shall have the same meaning as assigned to it under Section 2(27)|
+|(iid) ‘ Director of an and an independent director.|AIFI ’ or ‘any other entity’ shall mean a director appointed/elected to the Board of the entity and would include a nominee director|
+
+<!-- PAGE 2 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026
+
+|(iie) ‘|Entity ’ in the context of a ‘related party’ shall mean a ‘person’ other than an|
+|---|---|
+||individual and a Hindu Undivided Family.|
+|(iif) ‘|Key Managerial Personnel (KMP) ’ of a AIFI shall have the same meaning as defined in Section 2(51) of the Companies Act, 2013.|
+|(iig) ‘|Lending ’ in the context of a ‘related party’ shall mean extending funded or/ and non-fund-based credit facilities to related parties. While investments in debt instruments of related parties shall be covered for this purpose, equity investments shall be excluded.|
+|(iiia)|‘Person ’ shall have the same meaning as assigned to it under Section 3(23) of Part I of Insolvency and Bankruptcy Code (IBC), 2016. (iiib) ‘Personal Loan ’ shall have the same meaning as defined under Banking Statistics (Harmonised Definitions)|
+|(iiic) ‘|Promoter ’ shall have the same meaning as assigned to it under Section 2(69) of the Companies Act, 2013.|
+|(iiid) ‘|Reciprocally Related Person ’ means an individual who is either (i) a director (excluding independent director/ Nominee director appointed by the Government or RBI or a statutory body) of another commercial bank, or an AIFI, or a scheduled cooperative bank, or a subsidiary of a commercial bank; or (ii) a trustee of a mutual fund or an alternate investment fund established by any of the aforesaid regulated entities; or (iii) a relative of such a director or a trustee.|
+|(iiie) ‘|Related Party ’ with respect to an AIFI shall mean a related person, a reciprocally related person, or any of the following entities: (a) where a related person or a reciprocally related person is a partner, manager, KMP, director or a promoter; or (b) where a related person or a reciprocally related person is a shareholder with more than ten per cent of paid-up equity share capital; or (c) where a related person or a reciprocally related person is having control, whether singly or jointly with another person; or (d) where a related person or a reciprocally related person controls more than twenty per cent of voting rights on account of ownership or through a voting agreement or through any other arrangement; or (e) where a related person or a reciprocally related person has the power to nominate a director to its Board; or|
+
+<!-- PAGE 3 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026
+
+||(f) which is accustomed to act on the advice, direction, or instruction of a|
+|---|---|
+||related person or a reciprocally related person; or (g) where a related person or a reciprocally related person is a guarantor or a surety; or (h) where a related person or a reciprocally related person is a trustee or an author or a beneficiary and where the entity is in the form of a private trust. (i) which is related to the related person or a reciprocally related person as a subsidiary or a parent company or a holding company or an associate or a joint venture. Provided that nothing in sub-clause (e) above shall ply in cases where the ap authority to nominate a director arises exclusively from a lending or financing arrangement. Provided further that nothing in sub-clause (f) above shall apply to the advice, directions or instructions given in a professional capacity. Provided further that Government of India/ State Government-owned or controlled entities shall not be treated as related parties to a AIFI just by virtue of the fact that the Government has the common ownership or control of such entities.|
+|(iiif) ‘|Related Person ’ with respect to an AIFI shall mean a person, and the relatives of such a person, where the person: (a) is either a promoter, or a director, or a KMP of the AIFI; or (b) owns more than five per cent of paid-up equity share capital of the AIFI or can, either singly or jointly, exercise more than five per cent of the voting rights of the AIFI on account of either ownership or voting agreement or through shareholders’ agreement or through any other arrangement; or (c) can, through an agreement with the AIFI, nominate a director to its Board; or (d) is either singly or jointly, in control of the AIFI;|
+|(iva) ‘|Specified employees ’ mean all employees of an AIFI who are positioned up to two levels below the Board and any employee designated as such as per the AIFI’s policy.|
+
+(ii) Sub-paragraph (iv), shall be replaced with the following sub-paragraph:
+
+(iv) *‘Relative’* with regard to a natural person shall have the same meaning as defined in Section 2(77) of the Companies Act, 2013 and rules framed therein.
+
+<!-- PAGE 4 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026 (iii) Sub-paragraph (v), shall be replaced with the following sub-paragraph:
+
+(*v) ‘Substantial interest’ shall have the same meaning as assigned to it in Section* *5(ne) of the Banking Regulation Act, 1949.*
+3(2) In Chapter II - ‘Board approved policies’ of the Directions, paragraph 5 shall be replaced with the following paragraph:
+
+*5. An AIFI shall put in place a comprehensive Board approved policy on Credit* *Risk Management. The policy shall, inter-alia, cover aspects related to lending to* *related parties, legal entity identifier (LEI), filing of security interest, and restrictions* *on revolving credit facilities. The afore-mentioned specific aspects and other areas* *of concern which need to be addressed in such policies are also detailed in the* *relevant paragraphs of these Directions.*
+3(3) Chapter III – ‘Connected Lending by All-India Financial Institutions (AIFIs)’ of the Directions shall stand deleted and a new Chapter IIIA – ‘Regulatory Restrictions’ shall be inserted as under:
+
+**A. Advances against AIFI’s Own Shares** 17A. An AIFI cannot grant any loans and advances on the security of its own shares.
+## B. Advances to AIFI’s Directors
+
+17B. In order to obviate the possibility of conflict of interest in the lending operations of the AIFIs, an AIFI shall not:
+
+(1) enter into any commitment for granting any loan or advance to or on behalf of:
+(i) any of its directors, or (ii) any firm in which any of its directors is interested as Partner, Manager, Employee or Guarantor, or (iii) any company (not being a subsidiary of the AIFI or a company registered under Section 8 of the Companies Act, 2013 or a Government Company) of which, or the subsidiary or the holding company of which, any of the Directors of the AIFI is a director, managing agent, manager, employee or guarantor or in which he holds substantial interest, or (iv) any individual in respect of whom any of its directors is a partner or a guarantor.
+
+<!-- PAGE 5 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026 17C. Provisions of paragraph 17B above would not apply in the following cases:
+
+(1) Credit facilities granted or commitment made by an AIFI to a company where a director of the AIFI has substantial interest, if the advance was granted, or commitment was made, prior to the appointment of the said director on the Board of the AIFI. *Provided that*, till the director relinquishes the directorship of either the AIFI or the company, the AIFI shall not further renew such a facility on or after its contracted maturity or renewal date; enhance the limit; or change any of the terms of the facility before its maturity.
+(2) Advances to a public trust, where a trustee is also a director of the lending AIFI.
+(3) Loans and advances to a director against government securities, life insurance policies or fixed deposit, where loan-to-value is not in excess of 100 per cent of the realisable value of such securities or in adherence to specifically prescribed LTV ratio and valuation norms for loans against such a primary security by relevant Directions of the RBI, if any.
+(4) Such personal loans and advances to a director, other than loans for investment in financial assets, as permitted to an employee in terms of the approved policy, or that form part of the approved compensation/remuneration package of the director, where applicable. The interest rate charged on all such loans shall not be lower than the rate charged to the employees.
+(5) Non-Fund Based (NFB) facility on behalf of a director or his/her related party, provided that all such facilities shall be fully secured by cash collateral of equivalent or higher value. *Provided that* cash collateral would not be mandatory in exposures arising on account of derivative transactions.
+## C. Restrictions on Lending to Related Parties
+
+## C.1 General Principles
+
+17D. This Section sets out general principles and procedures to be followed for prudent risk management of loan to related parties, wherever allowed.
+
+<!-- PAGE 6 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026 17E. The Board shall have the overall responsibility of ensuring that suitable mechanisms are put in place for implementation of the policy on lending to related parties by the AIFI. 17F. The credit policy (hereinafter called the policy) of an AIFI, as required in terms of the extant directions, shall contain specific provisions relating to ‘lending to related parties’ in accordance with the provisions of these Directions. The policy shall prescribe, *inter alia*, additional safeguards to address the risks emanating from lending to related parties. 17G. The policy shall also have specific provisions for lending to ‘specified employees’ of the AIFI and their relatives. 17H. Further, the policy shall as a part of the whistleblowing mechanism, encourage employees to communicate confidentially and without the risk of reprisal, legitimate concerns about illegal, unethical, or questionable loans to related parties; and eliminate quid pro quo arrangements, if any. 17I. The policy shall specify aggregate limits for loans towards related parties. Within this aggregate limit, there shall be sub-limits for loans to a single related party and a group of related parties. These limits shall be within the extant prudential exposure limits prescribed by the Reserve Bank.
+
+**B. Materiality Threshold** 17J. Loans to related parties, which are not prohibited in terms of this Chapter of these Directions, or which have been exempted from prescribed prohibitions in these Directions, except (i) credit facilities fully secured by cash or liquid securities and in accordance to prescribed LTV and valuation norms for such securities and (ii) Interbank loans, shall be subject to a materiality threshold as per the credit policy, which shall not be higher than the following ceilings:
+
+|Asset Size (in ₹ crore)|Materiality Threshold Ceilings|
+|---|---|
+|> 10,00,000|₹25 crore|
+|≥ 1,00,000 to up to 10,00,000|₹10 crore|
+|Less than 100,000|₹5 crore|
+|Asset size based on the last audited balance sheet.|For loans, materiality threshold shall apply at individual transaction level.|
+
+17K. Materiality thresholds may vary for different categories of loan to related parties and borrowers as per the AIFI’s policy.
+
+<!-- PAGE 7 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026 17L. All loans above the prescribed materiality threshold shall be sanctioned either by the Board or the ‘Committee on Lending to Related Parties’ of the AIFI. As regards loans below the materiality threshold, the same can be sanctioned by appropriate authority in terms of powers delegated to them.
+
+**C. Recusal of Interested Parties** 17M. Directors, KMP, or ‘specified employees’ shall recuse themselves from deliberations and decision on loan proposals, or contracts and arrangements, involving themselves or their related parties. Such recusal shall also extend to deliberations and decisions relating to any subsequent material changes to the terms of such loans, including one-time settlements, write-offs, waivers, enforcement of security, implementation of resolution plans, etc.
+## D. Monitoring of Loans to Related Parties
+
+17N. An AIFI shall put in place a suitable mechanism for maintaining and periodically updating the list of all the related persons, and the related parties thereof, as well as the loans sanctioned by the AIFI to such related persons and related parties. 17O. Credit facilities sanctioned to ‘specified employees’ and their relatives shall be reported to the Board on an annual basis. 17P. Periodic reviews shall be conducted at quarterly or shorter intervals by internal auditors to check, *inter alia*, whether guidelines and procedures in relation to loans to related parties are being adhered to or not. 17Q. Any deviation from the policy relating to lending to related parties and reasons therefor shall be reported to the Audit Committee of the Board. 17R. Any product, entity or structure formed with the objective of circumventing these Directions through various means, such as reciprocal lending or quid pro quo arrangements, and identified as such by the auditors of the AIFI or by the supervisory authority and investigating agencies shall always be treated as lending to related party.
+
+**E. Enforcement Actions** 17S. Any non-compliance with and circumvention of these Directions shall result in supervisory and enforcement actions as deemed appropriate by the Reserve
+
+<!-- PAGE 8 -->
+
+Reserve Bank of India (All India Financial Institutions – Credit Risk Management) – Amendment Directions, 2026 Bank. These actions may include imposition of monetary penalty, requirement of full provisioning, directions to conduct staff accountability exercises, forensic audits, and restrictions or any other supervisory and enforcement actions as deemed fit.
+
+4.he above a T mendments shall come into force from <u>April 1, 2026</u>. AIFIs may however decide to implement the amendments in entirety from an earlier date. With a view to ensuring non-disruptive implementation of instructions issued vide these Amendment Directions, AIFIs are permitted to let their existing related party transactions which are not in conformity with these amendments as on the date of issuance of these Amendment Directions to run-off till maturity. However, an AIFI shall not review / renew such loans/ limits after their expiry on same or different terms, even if such renewal is provided in the contract, or enhance the limits sanctioned prior to the date of these Amendment Directions coming into force, unless they are in compliance with amendments issued vide these Amendment Directions.
+5. Consequent to the above amendments, corresponding amendment directions viz., <u>Reserve Bank of India (All India Financial Institutions – Financial Statements:</u> <u>Presentation and Disclosures) – Amendment Directions, 2026</u>e been separately hav issued. Vaibhav Chaturvedi (Chief General Manager)

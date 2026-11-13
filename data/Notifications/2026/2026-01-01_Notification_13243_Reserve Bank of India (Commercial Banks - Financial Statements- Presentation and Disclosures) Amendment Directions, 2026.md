@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2026_13243"
+title: "Reserve Bank of India (Commercial Banks - Financial Statements: Presentation and Disclosures) Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT167DA8E2AE1C6D949C694D021775A7641B4.PDF"
+pdf_sha256: "c399f96c7fccd76ffb32ae1838880d488e81567fe6f5e2931e4e24550807c871"
+md_sha256: "d83ed1d22081d786076573ea5950e67f126ef42c901273847840a864282caa4e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-01_Notification_13243_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20-%20Financial%20Statements-%20Presentation%20and%20Disclosures%29%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks - Financial Statements: Presentation and Disclosures) Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________
+
+|RBI/2025-26/167 Please refer to the||DOR.CRE.REC.371/21.04.018/2025-26|www.rbi.org.in Reserve Bank of India (Commercial Banks-Financial Statements: Presentation and Disclosures) Amendment Directions, 2026|January 1, 2026 Reserve Bank of India (Commercial Banks-Financial Statements:|
+|---|---|---|---|---|
+||||Presentation and Disclosures) Directions, 2025|(hereinafter referred to as ‘the|
+|Directions’).||2. On a review consequent to the issuance of||Reserve Bank of India (Commercial|
+|Banks –|||Concentration Risk Management) Amendment Directions, 2025|, and in|
+|Directions as under:||3. The Amendment Directions modifies|exercise of the powers conferred by the sections 21 and 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified. the|table under Paragraph 5(1) of the|
+|Item|Sc h||Coverage|Notes and instructions for compilation|
+|Capital|1||Nationalised Banks Capital …. Banks incorporated outside India : Capital|The capital owned …. The amount …….. The amount held under Section 11(2)(b)(i) of the BR Act and earmarked as Credit Risk Mitigation (CRM) shall be disclosed by way of a note in Schedule 1 : Capital to the Balance Sheet as given below: ‘An amount of ₹… (Previous year: ₹….) out of the amount held as deposit under Section 11(2) of the BR Act has been earmarked designated as credit risk|
+
+व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+||mitigation (CRM) for offsetting of|non -|
+|---|---|---|
+||centrally cleared derivative|exposures to|
+||Head Office (including overseas branches||
+|of Head Office|regulatory capital and|) and is not reckoned for any other statutory|
+|requirements|, if any .’||
+
+4. The above amendment shall come into force from the date a bank decides to implement paragraphs 3(1) to 3(4) of the <u>Reserve Bank of India (Commercial Banks -</u> <u>Concentration Risk Management) Amendment Directions, 2025</u> or from April 1, 2026, whichever is earlier. (Vaibhav Chaturvedi) Chief General Manager

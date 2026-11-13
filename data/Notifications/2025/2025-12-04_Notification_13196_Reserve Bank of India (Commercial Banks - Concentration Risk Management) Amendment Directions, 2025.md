@@ -1,0 +1,89 @@
+---
+doc_id: "Notifications_2025_13196"
+title: "Reserve Bank of India (Commercial Banks - Concentration Risk Management) Amendment Directions, 2025"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/1CB04126C3D989F98318446D9246ABEEB0C22291.PDF"
+pdf_sha256: "76060285f60d6392e61c938a44d61809a7014c7208ed1d8100029ae3523cd196"
+md_sha256: "5b4b15383dc3bc288608ea0e5b1cfa2f6520b23e91ef2ff072574ba31730a1a0"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13196_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20-%20Concentration%20Risk%20Management%29%20Amendment%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks - Concentration Risk Management) Amendment Directions, 2025
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2025-26/126 DOR.CRE.REC.333/07-03-001/2025-26 December 4, 2025
+
+## Reserve Bank of India (Commercial Banks-Concentration Risk Management)
+
+## Amendment Directions, 2025
+
+Please refer to <u>Reserve Bank of India (Commercial Banks -Concentration Risk</u> <u>Management) Directions, 2025</u> (hereinafter referred to as ‘the **Directions’**).
+
+2. On a review, in exercise of the powers conferred by the sections 21 and 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions modifies the Directions as under:
+## (1) Modifications in Chapter I – Preliminary
+
+(i) **Paragraph 4(3)** shall be partially modified as under: **“Eligible capital base**” <s>for the purpose of LEF is</s> means the effective amount of Tier 1 capital … However, the infusion of capital under Tier I after the published balance sheet date may also be taken into account <s>for the</s> <s>purpose of LEF</s>…… Further, for an Indian bank, profit accrued during the year….shall also be reckoned as Tier I capital for <s>the</s> this purpose <s>of LEF</s>. (ii) **Paragraph 4(4)** of the Directions shall stand deleted.
+(iii) **Paragraph 4(5)** shall be partially modified as under: **“Group”** for the purpose of **intragroup transactions and exposures (ITE)** shall have the following definition:”
+
+व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+(iv) **Paragraph 4(5)(iii)(c)** shall be partially modified as under: “The branches in other jurisdictions being part of a parent bank’s operations are not covered under the intra-group exposure limits stipulated in paragraph 116. Accordingly, an Indian bank’s exposure to its overseas branches and a foreign bank’s (operating as branches in India) exposure to its Head Office and overseas branches of the <s>parent bank</s> <u>Head Office in</u> <u>any jurisdiction</u> <s>except for proprietary derivative transactions undertaken</s> <s>with them,</s> shall not be covered under the ITE norms.”
+
+(v) **Paragraph 4(9)** of the Directions shall stand deleted. (vi) **Paragraph 4(11)** of the Directions shall stand deleted.
+(vii) **Paragraph 4(12)** of the Directions shall stand deleted.
+
+## (2) Modifications in Chapter II – Role of the Board
+
+**Paragraph 6** shall be partially modified, with the following insertion at the beginning of the paragraph:
+
+“Banks shall have policies on Concentration Risk Management of their exposures towards a single counterparty, groups of interconnected counterparties, specific sectors of the economy as also systems to monitor and address the risks emanating to them from their exposures to ultra-large borrowers who are excessively leveraged and have substantial borrowings from the banking system. While banks can have their own criteria for deciding an ultra-large borrower, they shall take into account inter alia the overall borrowings of such entities from the banking system for credit assessment of such borrowers.”
+
+## (3) Modifications in Chapter III-Large Exposures Framework
+
+(i) The following explanation shall be inserted under **paragraph 8(7)** of the Directions: *“Explanation:* Exposure of a foreign bank (operating in India as a branch) to its Head Office (HO), or to a branch of its HO in any jurisdiction, shall not fall under this exclusion, and the counterparty limits applicable for its HO exposures in terms of paragraph 84 of these Directions, shall apply to such exposures in aggregate.”
+
+<!-- PAGE 3 -->
+
+(ii) **Paragraph 84** shall be partially modified as under: “For above paragraphs……. Accordingly, for Indian branches of foreign G- SIBs, exposure limit on their head office (including other overseas branches <s>/ subsidiaries</s> of head office) and other G-SIBs will be 20 percent of eligible capital base and exposure limit on any other bank (i.e. not G-SIB) will be 25 percent of eligible capital base. Similarly, for Indian branches of foreign non-GSIBs, exposure limit on their head office (including other overseas branches <s>/ subsidiaries</s> of head office) and other non-GSIBs will be 25 percent of eligible capital base and exposure limit on a G-SIB will be 20 percent of eligible capital base.”
+
+(iii) The following explanation shall be inserted under **paragraph 84**: *“Explanation:* The exposures arising from transactions between an Indian branch of a foreign bank and its HO (or any of the branches of HO) that are cleared through a central counterparty or otherwise, must always be calculated on a gross basis by the Indian branch.”
+
+(iv) **Paragraph 43(1)** shall be partially modified as under: *“*The Indian branches of foreign banks shall ….. for offsetting <s>the gross</s> <u>any</u> exposure (including those not arising from non-centrally cleared derivative transactions) <s>of the foreign bank branches in India</s> to the HO or <s>(including</s> overseas branches of the HO, for the calculation of LEF limit, subject to the following conditions:”
+
+(v) **Paragraph 43(2)** shall be partially modified as under: “The amount held under section 11(2)(b)(i) of the BR Act and earmarked as CRM shall be disclosed by way of a note in Schedule 1: Capital to the Balance Sheet as given below: An amount of …. has been <s>designated</s> <u>earmarked</u> as credit risk mitigation (CRM) for offsetting of <s>non</s>-<s>centrally cleared derivative</s> exposures to Head Office (including overseas branches <u>of Head</u> <u>Office),</u> and is not reckoned for regulatory capital and <s>any</s> other statutory requirements<u>, if any</u>.”
+
+<!-- PAGE 4 -->
+
+## (4) Modifications in Chapter VI -Prudential Limits on Intra-Group Transactions and Exposure (ITE)
+
+(i) **Paragraph 115** of the Directions shall stand partially modified as under: “Exposure value shall be computed as per paragraphs 32 to 78 <s>should</s> include credit exposure (funded and non-funded credit limits) and investment exposure (including underwriting and similar commitments) as <s>detailed in paragraph 4(4)</s> of these Directions. However, exposure on account of equity and other regulatory capital instruments should be excluded while computing exposure to group entities.” (ii) In **paragraphs 116(1) and 116(2)** of the Directions**,** reference to ‘Paid-up Capital and Reserves’ shall be substituted with ‘eligible capital base’, and the following proviso shall be inserted at the end of the paragraph: *“Provided that* the existing intragroup exposures, including committed lines (if any), in breach of the aforesaid limits shall be brought within the prescribed limits within six months from the date of issuance of the Amendment Directions*.*
+(iii) **Paragraph 128(4)** of the Directions shall stand partially modified as under:
+
+“….(If the limits are breached on account of mark-to-market values of derivatives position, the excess exposure would not be deducted from CET1 capital for a period of three months from the date of breach. <s>Further,</s> in case of a foreign bank, proprietary derivative transactions with parent and its overseas branches should also be taken into account while <s>computing exposure</s>)….”
+
+## (5) Repeal of Chapter IV -Enhancing Credit Supply for Large Borrowers through Market Mechanism
+
+Instructions contained in this Chapter shall stand repealed from January 1,
+
+2026.
+4. The above amendments, except paragraph 3(5) shall come into force from April 1,
+2026. Banks may however decide to implement the amendments, except paragraph 3(5), in entirety from an earlier date.
+
+<!-- PAGE 5 -->
+
+5. Consequent to amendment(s) in terms of paragraph 3(5) above, other amendment directions viz., <u>Reserve Bank of India (Commercial Banks – Income Recognition,</u> <u>Asset Classification and Provisioning) Amendment Directions, 2025</u> and the <u>Reserve</u> <u>Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy)</u> <u>Amendment Directions, 2025</u> have been separately issued. (Vaibhav Chaturvedi) Chief General Manager

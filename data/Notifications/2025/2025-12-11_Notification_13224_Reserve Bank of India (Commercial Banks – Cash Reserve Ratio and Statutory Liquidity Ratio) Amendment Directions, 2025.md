@@ -1,0 +1,70 @@
+---
+doc_id: "Notifications_2025_13224"
+title: "Reserve Bank of India (Commercial Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Amendment Directions, 2025"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT14837C225CB9F9B4AC8B4A74723FBDEDE8A.PDF"
+pdf_sha256: "37b3c155779bc114f6237b009c99116ddeb1e20b7ab6f4fe939f1a21476ff4e3"
+md_sha256: "fecea70bb3dff34ce0b60ee5cd2bfff50022c755c1d12714b7bdf7b62538ffd6"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-11_Notification_13224_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Cash%20Reserve%20Ratio%20and%20Statutory%20Liquidity%20Ratio%29%20Amendment%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Amendment Directions, 2025
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+RESERVE BANK OF INDIA
+
+RBI/2025-26/148 DOR.RET.REC.354/12.01.001/2025-26 December 11, 2025
+
+## Reserve Bank of India (Commercial Banks – Cash Reserve Ratio and Statutory
+
+## Liquidity Ratio) Amendment Directions, 2025
+
+Please refer to <u>Reserve Bank of India (Commercial Banks – Cash Reserve Ratio and</u> <u>Statutory Liquidity Ratio) Directions, 2025 dated November 28, 2025</u>.
+
+2. The Banking Laws (Amendment) Act, 2025 has amended various provisions, including the section 42 of Reserve Bank of India Act, 1934 and the sections 18 and 24 of Banking Regulation Act 1949, relating to maintenance of Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR).
+3. Pursuant to the enactment of the Banking Laws (Amendment) Act, 2025, the definition of ‘Fortnight’ has been amended from *“the period from Saturday to the* *second following Friday, both days inclusive”* to “*the period from the first day to the* *fifteenth day of each calendar month or sixteenth day to the last day of each calendar* *month, both days inclusive”.* As notified in the Gazette of India dated December 08, 2025, the enactment date of the stated definition of fortnight is December 15, 2025. Consequently, the CRR and SLR maintenance and reporting in their returns i.e., Form A and Form VIII respectively, also stand revised to align with the amended definition of the fortnight.
+4. Accordingly, in exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 and pursuant to Section 42 of the Reserve Bank of India Act, 1934 and Sections 18 and 24 of Banking Regulation Act, 1949, as amended from time to time, and all other provisions / laws enabling the Reserve Bank of India in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the _______________________________________________________________________________________________________________________________________
+व�नयमन वभाग, कें द्र य कायार्लय, 12वीं और 13वीं मंिज़ल, नरमन भवन, नरमन पॉइंट, मुंबई 400021 Department of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 बैंक �हंद में पत्राचार का स्वागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+public interest so to do, hereby, issues the Amendment Directions hereinafter specified.
+
+5. These Directions shall be called the Reserve Bank of India (Commercial Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Amendment Directions, 2025.
+6. The provisions shall come into effect from December 15, 2025, except paragraph 7 (viii) (2), which shall be effective from December 12, 2025.
+7. These Amendment Directions modify the <u>Reserve Bank of India (Commercial Banks</u> <u>– Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025</u> under: as
+(i) In paragraph 6 (14), the definition of ‘*Fortnight*’ shall be redefined as ‘*Fortnight*’ *means the period from the first day to the fifteenth day of each* *calendar month or sixteenth day to the last day of each calendar month, both* *days inclusive*. (ii) In paragraphs 6 (18), 9, 21, 23, 24, 25 the words ‘*Friday*' shall be substituted with ‘*day*'.
+(iii) In paragraph 31, the words ‘*each alternate Friday and*’ shall be substituted with ‘*last day of each fortnight*’, the word '*seven*' shall be substituted with '*five*' and the word '*provisional*' shall be deleted. (iv) In paragraph 32, the words '*reporting Friday*' shall be substituted with ‘*last day* *of each fortnight*’ and the words ‘*that Friday*' shall be substituted with ‘*last day* *of such fortnight*’.
+
+(v) In paragraph 33, the words ‘*final*’ and '*within 20 days from expiry of the* *relevant fortnight*' shall be deleted. (vi) The paragraph 35 shall be deleted.
+(vii) A paragraph 38 shall be substituted with following paragraph: “*Under the new reporting structure, as amended vide Banking Laws* *(Amendment) Act 2025, there shall be no Provisional or Final or Special Form* *A return. The banks are required to submit single Form A return. The new* *versions of Form A and Form VIII returns are available on the Centralised* *Information Management System (CIMS) portal with new return codes. The* *banks are required to submit fortnightly Form A return from December 15,*
+
+<!-- PAGE 3 -->
+
+*2025 and monthly Form VIII return from December 2025 on the CIMS portal.* *Form A and Form VIII are not to be submitted in hard copy / paper returns by* *Scheduled Commercial banks. The Scheduled Commercial banks have to* *submit these returns in electronic form on CIMS portal using digital signatures* *of two authorised officials. While submitting these returns, banks have to* *ensure that the same is compliant with the prevalent IT laws of the country.*” (viii) Two new paragraphs shall be inserted after paragraph 38, namely:
+
+*1. “38 A. The maintenance of CRR and SLR during the fortnight* *December 16-31, 2025 and the first fortnight of January 2026 (i.e.,* *January 1-15, 2026) is to be done by the banks, based on the Net* *Demand and Time Liabilities (NDTL) as on November 28, 2025 and* *December 15, 2025, respectively. From the subsequent fortnights* *starting from January 16, 2026, the maintenance shall be done, as* *presently applicable, i.e., based on the NDTL as on the last day of the* *second preceding fortnight”.*
+*2. “38 B. During the transition period of three days i.e., December 13-15,* *2025, the maintenance of CRR and SLR is to be done by the banks,* *based on the Net Demand and Time Liabilities (NDTL) as on* *November 28, 2025. Further, the banks shall maintain minimum CRR* *of not less than hundred per cent of the required CRR during the* *transition period.The banks shall also submit Form A return for* *December 12, 2025, as per the extant reporting structure. Further, the* *banks are advised to submit Form VIII return of December 2025 on* *CIMS portal, both with old and new return codes.”*
+(ix) In paragraph 39, the words '*alternate Fridays*' shall be substituted with ‘*last* *day of each fortnight*' and '*such Fridays*' / 'such *Friday*' shall be substituted with ‘*such day*'.
+
+(x) In Annex I (Form A), the word ‘*Friday*’ / *‘that Friday’* shall be substituted with ‘*last day of the fortnight*’ / ‘*last day of that fortnight*’. (xi) In Annex II (Form VIII),
+
+<!-- PAGE 4 -->
+
+- the ‘*First alternate Friday’*, ‘*Second alternate Friday*’, ‘*Third alternate* *Friday’* shall be substituted with ‘*15th day of the Month’* and ‘*Last day of* *the Month*’.
+- the word ‘*Friday*’ shall be substituted with ‘*day’ /* ‘*last day of the fortnight’*
+(xii) In paragraph 28 (3)(iii), the word ‘*State Development Loans (SDLs) of the’* shall be substituted with ‘*State Government Securities of the respective’*.
+
+Yours faithfully,
+
+(Manoranjan Padhy) Chief General Manager
