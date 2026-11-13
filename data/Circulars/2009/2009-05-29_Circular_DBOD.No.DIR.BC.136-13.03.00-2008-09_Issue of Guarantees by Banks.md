@@ -1,0 +1,62 @@
+---
+doc_id: "Circulars_2009_DBOD_No_DIR_BC_136_13_03_00_2008-09"
+title: "Issue of Guarantees by Banks"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIGB290509.PDF"
+pdf_sha256: "203f078c627b4471e28f0631325f14b4d0a61ddec1930e1075d47add8339d148"
+md_sha256: "4921ea1443b8978445e281f8e88981f750d9afada7a5be4b1c07e79bd08a386c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:09:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-05-29_Circular_DBOD.No.DIR.BC.136-13.03.00-2008-09_Issue%20of%20Guarantees%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Issue of Guarantees by Banks
+
+<!-- PAGE 1 -->
+
+## ¸¸£·¸ú¡¸ ¹£{¸¨¸Ä yeQkeÀ
+
+_____ RESERVE BANK OF INDIA______ www.rbi.org.in
+
+RBI/2008-2009/488
+
+### DBOD.No.DIR.BC.136/13.03.00/2008-09 May 29, 2009
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+### <u>Issue of Guarantees by banks</u>
+
+It is observed that, of late, certain banks, in terms of paragraph 2.4.2.3 (a) of the Master circular RBI/2008-09/79 DBOD.No.Dir.BC.18/13.03.00/2008-09 dated July 1, 2008 (extract attached), have been issuing guarantees on behalf of corporate entities in respect of non- convertible debentures issued by such entities. It is clarified that the extant instructions apply only to loans and not to bonds or debt instruments. Guarantees by the banking system for a corporate bond or any debt instrument not only have significant systemic implications but also impede the development of a genuine corporate debt market.
+
+# Withdrawn
+
+2. Banks are advised to strictly comply with the extant regulations and in particular, not to provide guarantees or equivalent commitments for issuance of bonds or debt instruments of any kind. Yours faithfully, (P. Vijaya Bhaskar) Chief General Manager
+___________________________________________________________________________________________________________________ ____________________________ Department of Banking Operations and Development, Central Office, 12 th floor, Shahid Bhagat Singh Marg,Mumbai - 400001 Tel No: 91-22-22661602 Fax No: 91-22-22705691/22705693 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Extract of Master Circular RBI/2008-09/79 DBOD.No.Dir.BC.18/13.03.00/2008-09 dated July 1, 2008
+
+2.4.2.3 (a) Banks may issue guarantees favouring other banks/ FIs/ other lending agencies for the loans extended by the latter, subject to strict compliance with the following conditions.
+i. The Board of Directors should reckon the integrity/ robustness of the bank’s risk management systems and, accordingly, put in place a well-laid out policy in this regard. The Board approved policy should, among others, address the following issues:
+1. Prudential limits, linked to bank’s Tier I capital, up to which guarantees favouring other banks/FIs/other lending agencies may be issued
+2. Nature and extent of security and margins
+3. Delegation of powers
+4. Reporting system
+5. Periodical reviews
+ii. The guarantee shall be extended only in respect of borrower constituents and to enable them to avail of additional credit facility from other banks/FIs/lending agencies.
+
+# Withdrawn
+
+iii. The guaranteeing bank should assume a funded exposure of at least 10% of the exposure guaranteed.
+
+iv. Banks should not extend guarantees or letters of comfort in favour of overseas lenders including those assignable to overseas lenders. However, AD banks may also be guided by the provisions contained in Notification No. FEMA 8/2000-RB dated May 3, 2000.
+
+v. The guarantee issued by the bank will be an exposure on the borrowing entity on whose behalf the guarantee has been issued and will attract appropriate risk weight, as per the extant guidelines. vi. Banks should ensure compliance with the recommendations of the Ghosh Committee and other internal requirements relating to issue of guarantees, to obviate the possibility of frauds in this area.

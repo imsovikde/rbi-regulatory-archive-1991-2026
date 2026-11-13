@@ -1,0 +1,98 @@
+---
+doc_id: "Circulars_2009_DBOD_No_BL_BC_137_22_01_001_2008-09"
+title: "Section 23 of Banking Regulation Act, 1949 - Relaxations in Branch Authorisation Policy - Off Site ATMs"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/OFFATMC120609.PDF"
+pdf_sha256: "2173bcc40d7314eb8edc4a27afa250be146aed206789d23d148547cd1505ce3d"
+md_sha256: "b8cd552ffe9030a2c1d5975a1d5a033fa440665f4df88b2bb517da0588d1188f"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:10:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-06-12_Circular_DBOD.No.BL.BC.137-22.01.001-2008-09_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20-%20Relaxations%20in%20Branch%20Authorisation%20Policy%20-%20Off%20Site%20ATMs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of Banking Regulation Act, 1949 - Relaxations in Branch Authorisation Policy - Off Site ATMs
+
+<!-- PAGE 1 -->
+
+BANK
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2008-09/496
+
+June 12,2009
+
+DBOD.N0.BL.BC.137/22.01.001/2008-09
+
+Jyeshtha 21,1931(Saka)
+
+All Scheduled Commercial Banks
+
+(excluding RRBs)
+
+Dear Sir,
+
+Section 23 of Banking Regulation Act, 1949 -
+
+Relaxations in Branch Authorisation Policy- Off Site ATMs
+
+In terms of the extant guidelines as contained in pal
+
+BL.BC.21/22.01.001/2008-09 dated July 1, 2008
+
+s are required to obtain the prior approval
+
+KS
+
+hew
+
+branch/office, including an Off-site ATM.
+
+Further, banks are required to include
+
+1proposals for opening new branches/Off-site
+
+ATMsintheirAnnualBranchExpansto
+
+lans.
+
+2. In this connection, a reference is invited to paragraph 137 of the Annual Policy Statement
+
+o   o   s  ( -  i
+
+Commercial Banks. Accordingly, Reserve Bank of India hereby permits Scheduled Commercial
+
+Banks to install Off-site ATMs at centres/places identified by them, without having the need to
+
+take permission from the Reserve Bank in each case. This would, however, be subject to any
+
+direction which the Reserve Bank may issue, including for closure/shifting of any such Off-site
+
+ATMs, wherever so considered necessary by the Reserve Bank. The banks should report full
+
+details of the Off-site ATMs installed by them in terms of the above general permission to the
+
+Site ATMs in Maharashtra and Goa) immediately after operationalisation and in any case not
+
+later than two weeks, as per the format enclosed (Annex Il)
+
+Tel No:91-22-22189131-39FaxNo:91-22-22150663EmailID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. Banks may note that the above general permission to open Off-site ATMs is being granted to banks subject to the conditions given in <u>Annex III</u>. Further, the various facilities which banks can provide through their Off-site ATMs are listed in <u>Annex IV</u>**.**
+4. Banks which have been providing the facility of cash deposit to the customers at their ATMs, should put in place adequate safeguards / procedures (like access through PIN / password etc), so as to ensure identification of depositor in case notes deposited are found to be forged / defective.
+5. As indicated in paragraph 18 of the Master Circular on Branch Authorisation dated July 1, 2008 referred to above, the details of shifting/closure etc., of Off-site ATMs should also continue to be reported to the Regional Office concerned of Department of Banking Supervision/ DBOD, CO (in respect of Off -site ATMs in Maharashtra & Goa) immediately after such shifting/closure and in any case not later than <u>two weeks</u>.
+6. Incidentally, as banks are aware, as per the extant instructions, permission of the Reserve Bank of India is not required for installation of **On-site ATMs** [ATMs which are located at the branches and Extension Counters (ECs) for which banks hold authorizations issued by the Reserve Bank under Section 23 of the Banking Regulation Act, 1949]. Yours faithfully,
+# Withdrawn
+
+## ( P. Vijaya Bhaskar) Chief General Manager
+
+## Encl: as stated above

@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2009_DBOD_No_FID_FIC_6_01_02_00_2008-09"
+title: "Prudential Guidelines on Restructuring of Advances by Select All-India Financial Institutions"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FICRA070509.PDF"
+pdf_sha256: "4f3824322d57566c7d54362d9074746045af8ab0556b41d86b7600af43849fa0"
+md_sha256: "293ba21044f0e973e1d8e444e2b90cb032417bc96ea75301a3c4886cef832faa"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:09:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-05-07_Circular_DBOD.No.FID.FIC.6-01.02.00-2008-09_Prudential%20Guidelines%20on%20Restructuring%20of%20Advances%20by%20Select%20All-India%20Financial%20Institutions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Guidelines on Restructuring of Advances by Select All-India Financial Institutions
+
+<!-- PAGE 1 -->
+
+## Yeejler³e fjeJeõ yeQkeÀ
+
+### __________RESERVE BANK OF INDIA__________
+
+www.rbi.org.in RBI/2008-09/471 DBOD.No.FID.FIC 6/01.02.00/2008-09 May 7, 2009
+
+#### The CEOs of select all-India Terms Lending and Refinancing Institutions
+
+#### (Exim Bank, NABARD, NHB & SIDBI)
+
+Dear Sir,
+
+#### <u>Prudential Guidelines on Restructuring of Advances by Select all-India Financial Institutions</u>
+
+In continuation of our circular <u>DBOD.No.FID.FIC.5/01.02.00/2008-09</u> dated February 26, 2009 on the above subject, please find enclosed a copy of Circular <u>DBOD.No. BP.BC. 121/21.04.132/2008-09</u> dated April 9, 2009. In this connection, it is advised that the above guidelines, issued to banks, shall also apply to the select all-India Financial Institutions (FIs).
+
+#### Please acknowledge receipt.
+
+# Withdrawn
+
+Yours faithfully,
+
+(Vinay Baijal) Chief General Manager
+
+#### Encl.:-as above

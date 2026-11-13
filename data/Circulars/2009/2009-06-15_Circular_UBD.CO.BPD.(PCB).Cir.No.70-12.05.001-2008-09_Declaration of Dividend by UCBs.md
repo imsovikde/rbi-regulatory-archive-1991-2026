@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2009_UBD_CO_BPD_PCB_Cir_No_70_12_05_001_2008-09"
+title: "Declaration of Dividend by UCBs"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DIVRMPCB150609.PDF"
+pdf_sha256: "61eb6e908a175f568ab431901b4adb1dc1853811066263345ab869739cbb2538"
+md_sha256: "10769fdbc12dfc338b8f1ef5a56871f666ed5d3fcdcca65c2ff12ec221cfe69f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:10:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-06-15_Circular_UBD.CO.BPD.%28PCB%29.Cir.No.70-12.05.001-2008-09_Declaration%20of%20Dividend%20by%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Declaration of Dividend by UCBs
+
+<!-- PAGE 1 -->
+
+# Yeejler³e fjeJeõ yeQkeÀ
+
+______________RESERVE BANK OF INDIA___________________ <u>www.rbi.org.in</u>
+
+RBI/2008-09/497 UBD.CO. BPD. (PCB) Cir. No. 70 /12.05.001/2008-09 June 15, 2009 To Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+## Dear Sir / Madam
+
+## Declaration of dividend by UCBs
+
+Please refer to our circular <u>BSD.IP.PCB.16/12.05.03/2003-04</u> dated September 19, 2003 on the captioned subject advising the criteria for declaration of dividend by UCBs. As per the extant instructions, UCBs classified in grade other than Grade II to IV may declare dividend without prior approval of the Reserve Bank subject to certain conditions. UCBs classified in Grade II should obtain prior permission of the Reserve Bank for declaration of dividend.Withdrawn
+
+2. It is advised that Reserve Bank of India has introduced a revised system of 'Rating" of the UCBs based on the CAMELS model from the inspection cycle March 31, 2009. With the introduction of the system of rating, the system of gradation of the banks has ceased to exist.
+3. It has, therefore, been decided that UCBs may declare dividend without prior permission of the Reserve Bank subject to compliance with the following parameters.
+I) Compliance with CRAR norms as prescribed by RBI. Ii) Net NPA are less than 10% after making all necessary provisions as per the assessment made by RBI in its last inspection report.
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018 Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0231, Email: rbiubd@giasbmol.vsnl.net.in
+
+<!-- PAGE 2 -->
+
+iii) There is no default in CRR / SLR during the year for which dividend is proposed. iv) All the required provisions have been made for NPAs, investments and other assets as per the prudential norms prescribed by RBI.
+
+v) Dividend is paid out of the net profit and after making all statutory provisions and adjustment for accumulated losses in full
+4. UCBs complying with all other parameters, except the one at para 3 (ii) above, may approach the concerned Regional Office of the Reserve Bank for permission for dividend declaration. Yours faithfully, (A, K. Khound) Chief General Manager
+# Withdrawn

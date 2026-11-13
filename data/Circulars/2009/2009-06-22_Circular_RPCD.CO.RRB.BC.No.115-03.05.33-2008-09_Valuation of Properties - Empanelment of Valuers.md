@@ -1,0 +1,101 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RRB_BC_No_115_03_05_33_2008-09"
+title: "Valuation of Properties - Empanelment of Valuers"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CVOP220609.PDF"
+pdf_sha256: "c0683cffe5b2c4a1c1c911a3720e55c04a105d2587f150c480bbfff70c84f8ff"
+md_sha256: "d24aed5156e631368db8715284deef422d0c79bae1b9d56f74fa8918c4116f12"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:10:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-06-22_Circular_RPCD.CO.RRB.BC.No.115-03.05.33-2008-09_Valuation%20of%20Properties%20-%20Empanelment%20of%20Valuers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Valuation of Properties - Empanelment of Valuers
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2008-09/506
+
+RPCD.CO.RRB.BC.No.115/03.05.33/2008-09
+
+June 22,2009
+
+All Regional Rural Banks
+
+Dear Sir,
+
+Valuation of properties - Empanelment of Valuers
+
+It has been observed that different banks follow different policies for valuation
+
+of properties and appointment of valuers for the purpose. The issue of correct
+
+and realistic valuation of fixed assets owned by banks and that accepted by
+
+them as collateral for a sizable portion of their advances portfolio assumes
+
+significance inview of its implications for
+
+correct measurement of capital
+
+empanelment of valuers for the purpoe
+
+2.Regional Rural Banks (RRE
+
+May be guided by the following aspects
+
+while formulating a policy
+
+Valuation of propertiesandappointment of
+
+valuers:
+
+(a)
+
+Policy for valuation of properties
+
+i) RRBs should have a Board approved policy in place for valuation
+
+of properties including collaterals accepted for their exposures.
+
+ii)The valuationshouldbe done by professionally qualified
+
+independent valuers i.e. the valuer should not have a direct or indirect
+
+interest.
+
+ili)RRBs should obtain minimum two Independent Valuation Reports
+
+for properties valued at Rs.50 crore or above.
+
+RuralPlanning&CreditDepartmentCentral Office,1othFloor,Central OfficeBuilding,Shahid Bhagat
+
+Singh Marg Mumbai - 1
+
+Tel No: 91-22-22661602 Fax No: 91-22-22621011/22610948/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## (b) <u>Revaluation of bank’s own properties</u>
+
+In addition to the above, the RRBs may keep the following aspects in view while formulating policy for revaluation of their own properties.
+
+i) The extant guidelines on Capital Adequacy permit banks to include revaluation reserves at a discount of 55% as a part of Tier II Capital. In view of this, it is necessary that revaluation reserves represent true appreciation in the market value of the properties and banks have in place a comprehensive policy for revaluation of fixed assets owned by them. Such a policy should *inter alia* cover procedure for identification of assets for revaluation, maintenance of separate set of records for such assets, the frequency of revaluation, depreciation policy for such assets, policy for sale of such revalued assets etc. ii) As the revaluation should reflect the change in the fair value of the fixed asset, the frequency of revaluation should be determined based on the observed volatility in the prices of the assets in the past. Further, any change in the method of depreciation should reflect the change in the expected pattern of consumption of the future economic benefits of the assets. The banks should adhere to these principles meticulously while changing the frequency of revaluation / method of depreciation for a particular class of assets.
+## (c) <u>Policy for Empanelment of Independent valuers</u>
+
+i) RRBs should have a procedure for empanelment of professional valuers and maintain a register of 'approved list of valuers'.
+# Withdrawn
+
+ii) RRBs may prescribe a minimum qualification for empanelment of valuers. Different qualifications may be prescribed for different classes of assets (e.g. land and building, plant and machinery, agricultural land, etc.). While prescribing the qualification, banks may take into consideration the qualifications prescribed under Section 34AB (Rule 8A) of the Wealth Tax Act, 1957.
+
+**3.** RRBs may also be guided by the relevant Accounting Standard issued by the Institute of Chartered Accountants of India.
+**4.** Please acknowledge receipt to the Regional Office concerned of Reserve Bank of India. Yours faithfully, (R.C.Sarangi) Chief General Manager

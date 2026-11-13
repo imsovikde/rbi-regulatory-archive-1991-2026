@@ -1,0 +1,137 @@
+---
+doc_id: "Circulars_2009_DBOD_No_BP_BC_140_21_04_048_2008-09"
+title: "Agricultural Debt Waiver and Debt Relief Scheme, 2008 - Prudential Norms on Income Recognition, Asset Classification, Provisioning and Capital Adequacy"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRBI240609.PDF"
+pdf_sha256: "8cc835a97fd781be65e8a27621aac05fbd11b6b25fa8763c0d21f1336ab4b010"
+md_sha256: "83dc1bb9d7fd84d594338bca809ef00eb497e4602cafda7b05a66dbd48cf802f"
+total_pages: 4
+native_pages: 3
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:10:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-06-25_Circular_DBOD.No.BP.BC.140-21.04.048-2008-09_Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008%20-%20Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%2C%20Provisioning%20and%20Capit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Agricultural Debt Waiver and Debt Relief Scheme, 2008 - Prudential Norms on Income Recognition, Asset Classification, Provisioning and Capital Adequacy
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI2008-09/511
+
+DBOD.No.BP.BC.140/21.04.048/2008-09
+
+June 25,2009
+
+TheChairman/CMD/MD/CEO
+
+All Scheduled Commercial Banks (including Local Area Banks)
+
+(Excluding RRBs)
+
+Dear Sir
+
+Agricultural Debt Waiver and Debt Relief Scheme, 2008 - Prudential Norms
+
+on Income Recognition, Asset Classification, Provisioning and Capital Adequacy
+
+Please refer to our circulars DBOD.No.BP.BC. 26/21.04.048/2008-09 dated July 30, 2008,
+
+DBOD.No.BP.BC.78/21.04.048/2008-09datedN
+
+mber 11,2008,and DBOD.No.BP.BC.
+
+112/21.04.048/2008-09 dated March5, 2009
+
+the captioned subject.
+
+2. In terms of the circular dated Ma
+
+2009,wehadadvisedthattheGovernmentof
+
+Vithdrawn
+
+India had decided to extend the
+
+date of repayment of first instalment by the"other
+
+farmers" under the Debt Relief Scheme, from September 30, 2008 to March 31, 2009. The
+
+and June 30, 2009.
+
+3. The Government of India has now decided to make the accounts of “other farmers"
+
+eligiblefor a debtrelief of 25%fromGovernment of India,even if theypay their entire
+
+share of 75% as one single instalment, provided the same is deposited by such farmers till
+
+June 30, 2009. The banks will not charge any interest on the eligible amount till June 30,
+
+2009.A copy of the Government of India's letter F.No.3/9/2008-AC dated June 12,2009
+
+is enclosed herewith.
+
+AS, e,1,UAS,~AiuiAAi, 12uY￥,~VAsiuiAAi
+
+,iuTm ,S,÷,C-,1 Y,,S,A, Yé ,fA - 400 001.
+
+DepartmentofBankingOperationsandDevelopment,Central Office,12tfloor,CentralOfficeBuilding,Mumbai40001.
+
+"/2￥,0Ao> /Tel No:(91-22) 22601000 0%AAE-/Fax No.(91-22) 22705691&(91-22) 22705692-Email ID:cgmicdbodco@rbi.org.in
+
+->TMu ,,.,>, -34, f,A, celi.oS, , o.fio
+
+<!-- PAGE 2 -->
+
+4. The Government of India has also advised that the banks/lending institutions are allowed to receive even less than 75% of the eligible amount under OTS provided the banks/lending institutions bear the difference themselves and do not claim the same either from the Government or from the farmer. The Government will pay only 25% of the actual eligible amount under debt relief.
+5. All other terms of the aforesaid circulars including provisioning remain unchanged. Yours faithfully (B. Mahapatra) Chief General Manager Encls: As above
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## <u>FAX/URGENT</u>
+
+F. No. 3/9/2008-AC
+Government of India/Ministry of Finance Department of Financial Services ----
+
+*Jeevan Deep Building, Parliament Street* *New Delhi, dated June 12, 2009*
+
+To The Dy. Governor, RBI, Mumbai, The Chairman, NABARD, Mumbai, The Chairman/CMD/CEO of all Public Sector Banks, The Chief Executive of IBA, The Convenor of all SLBCs.
+
+Subject: Implementation of the Agricultural Debt Waiver and Debt Relief (ADWDR) Scheme, 2008 – Issue of clarifications.
+
+Sir, I am directed to refer to the above mentioned subject and to say that some Public Sector Banks and other lending institutions had requested this Department to take necessary action on the following issues:
+
+i. Whether 25% relief can be extended to a farmer who pays his 75% share before 30.06.2009 not necessarily adhering to the three due
+# Withdrawn
+
+dates stipulated under the Scheme. ii. The eligible farmers have come forward to pay the balance amount of eligible amount of OTS as per the recovery scheme approved by the bank; where the share of their payment would be less than 75%. For this purpose, the Banks are agreeable to bear the difference through write-off. In this regard, the banks have sought Government’s clarification to consider such proposal at the same time allowing the bank to claim 25% of eligible amount (overdue as on 31.12.2007) from the Government under Agricultural Debt Waiver and Debt Relief Scheme, 2008. iii. To issue necessary guidelines so that banks can submit supplementary claims in respect of the changes, if any, made by the orders issued by the GROs in respect of the grievances received up to
+
+31.07.2009.
+2. The Government, after careful consideration, has now decided the following:
+i. The Scheme stipulates that a farmer covered under the OTS Scheme should pay 75% of the overdue portion (covered under the ADWDR Scheme) by 30.06.2009 after which he is eligible for 25% relief under the Scheme from GoI. The ultimate objective of the ADWDR Scheme is to provide relief to the individual farmer by de-clogging the line of credit and making these farmers eligible for fresh finance. Hence, the
+
+<!-- PAGE 4 -->
+
+suggestion to enable the farmers to pay their entire 75% as one single installment is agreed to provided 75% of the overdue portion is deposited by such farmers till 30.06.2009 to make their accounts eligible for a debt relief of 25% from Government of India. The banks will not charge any interest on the eligible amount till 30.06.2009.
+
+ii. The banks/lending institutions are allowed to receive even less than 75% of the eligible amount under OTS provided the banks/lending institutions bear the difference themselves and do not claim the same either from the Government or from the farmer. The Government will pay only 25% of the actual eligible amount under debt relief.
+
+iii. The last date of receipt of grievances by GROs has been extended up to 31.07.2009. Hence, it is obvious that there could be some instances, which may cause modification/alteration in the financial implication under the ADWDR Scheme. As such, the banks/lending institutions are allowed to carry out any modification/alteration in the total financial implication of the ADWDR Scheme due to such grievances.
+
+3. The concerned are requested to give wide publicity to these decisions/clarifications so that farmers can avail maximum benefits of ADWDR Scheme, 2008.
+Yours faithfully,
+
+sd/-
+
+(M. S. Azad) Under Secretary to the Govt. of India
+
+# Withdrawn
+
+*: 011 2374 8750*

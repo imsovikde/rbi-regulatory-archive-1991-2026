@@ -1,0 +1,86 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RF_BC_No_113_07_37_02_2008-09"
+title: "Income Recognition, Asset Classification, Provisioning and Other Related Matters"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IRACPS160609.PDF"
+pdf_sha256: "4b673d7ebdfb6cd96a95c21a79360f76d5caac156d984eaf590e6311553b0411"
+md_sha256: "d118260bd0381b2ed7978fa104928e3f71b858d7f4a7c1bee5b541ab15edc4fb"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:10:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-06-16_Circular_RPCD.CO.RF.BC.No.113-07.37.02-2008-09_Income%20Recognition%2C%20Asset%20Classification%2C%20Provisioning%20and%20Other%20Related%20Matters.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Income Recognition, Asset Classification, Provisioning and Other Related Matters
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2008-09/498
+
+RPCD.CO.RF.BC.N0.113/07.37.02/2008-09
+
+June 16,2009
+
+All State Co-operative Banks (StCBs) and
+
+Central Co-operative Banks (CCBs)
+
+Dear Sir,
+
+Income recognition, asset classification, provisioning and other related
+
+matters
+
+Short-term agricultural advances as well as advances for other purposes are
+
+granted by State Co-operative Banks/Central Co-operative Banks to Central Co-
+
+operative Banks/PrimaryAgriculturalCredit Societies respectively for the
+
+purpose of on-lending. As per extant instructions contained in paragraph 2 of the
+
+Annexure to our circular RPCD.No.BC.155/ 07.37.02/95-96 dated June 22, 1996,
+
+system, only that particular
+
+facility which becomes irregular is treateg
+
+NPA and not all other facilities
+
+granted to them.
+
+2. On a review, it has been dec
+
+extendtheaboveconcessiontoallother
+
+credit societies under on-lending system, in addition to Primary Agricultural
+
+Credit Societies. However, in respect of all direct loans and advances granted to
+
+a borrower, all such loans will become NPA even if one loan account becomes
+
+NPA, as hitherto.
+
+3. Please acknowledge receipt to our Regional Office concerned.
+
+Yours faithfully,
+
+(B.P.Vijayendra)
+
+Chief General Manager
+
+RuralPlanning&CreditDepartmentCentral Office,13Floor,Central OfficeBuilding,postbox
+
+no.10014Mumbai-400 001
+
+TelNo:91-22-22661602FaxNo:91-22-22621011/22658273/22658276Email
+
+ID:cgmicrpcd@rbi.org.in

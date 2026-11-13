@@ -1,0 +1,106 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RF_BC_No_104_07_37_02_2008-09"
+title: "Investment Portfolio of Banks - Transactions in Securities"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CURPCI070509.PDF"
+pdf_sha256: "78e7dddf6ce7cf587a323e421676f01a58ecc041b60f3485d2313234530b7ae2"
+md_sha256: "fb714304c118f59f148cc7781bf71b3e5ce2d7b941270b5d48db3697a95f0114"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:09:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-05-07_Circular_RPCD.CO.RF.BC.No.104-07.37.02-2008-09_Investment%20Portfolio%20of%20Banks%20-%20Transactions%20in%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment Portfolio of Banks - Transactions in Securities
+
+<!-- PAGE 1 -->
+
+yl
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2008-09/473
+
+RPCD.CO.RF.BC.No.104/07.37.02/2008-09
+
+May 7, 2009
+
+AllStateCo-operativeBanks(StCBs)and
+
+District Central Co-operativeBanks(DCCBs)
+
+Dear Sir,
+
+InvestmentPortfolioofBanks-TransactionsinSecurities
+
+Please refer to our circular RPCD No.RF.BC.17/A.4-92/93 dated September 4,
+
+1992read with circularsRPCDNO.BC.154/07.02.08/94-95dated May23,1995 and
+
+RPCD.CO.RF.BC.14/07.02.03/2005-06
+
+dated July 13，2005 on the captioned
+
+subject.
+
+2. As per extant instructions, securities are held in the permanent category for the
+
+purpose of SLR compliance or for yield or capita growth purposes and are usually
+
+intended to be held till maturity.Banks are
+
+expected to sell securities in the
+
+permanent category freely but if they do so,
+
+loss on such transactions has to be
+
+written off and any gain should be fir>
+
+akentoProfitandLossAccountand
+
+thereafter be appropriated to the Cal
+
+Reserve Account. Theinter-changing of
+
+investments from permanent to curr
+
+ategoryandviceversaistobedonewiththe
+
+priorauthorisationof theBoard
+
+ctors.
+
+3. The matter has since been reviewed and it has been decided that banks may shift
+
+investments to / from permanent category with the approval of their Board of
+
+Directors only once a year. Such shifting may normally be allowed at the beginning of
+
+the accounting year. No further shifting to / from permanent category will be allowed
+
+during the remaining part of that accounting year.
+
+4. The contents of this circular may be placed before the Board of your bank.
+
+5. Please acknowledge receipt to our concerned Regional Office.
+
+Yours faithfully,
+
+(B P Vijayendra)
+
+Chief General Manager
+
+Rural Planning & Credit Department, Central Office, Central Office Building,13th Floor,Post Box no.
+
+10014,Mumbai-400 001
+
+TelNo:91-22-22661602FaxNo:91-22-22621011/22658273/22658276email-<
+
+cqmicrpcd@rbi.org.in >
