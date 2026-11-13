@@ -1,0 +1,206 @@
+---
+doc_id: "Master-Circulars_2005_2329"
+title: "Master Circular - Guidelines for Relief Measures by Banks in areas affected by Natural Calamities"
+category: "Master-Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/64195.pdf"
+pdf_sha256: "22e7f8a27f2de37da33a8d95ba33a73f9a82186da37b9a0ce2de635d88d1ace7"
+md_sha256: "294c67c459721ff9f857fd3648885f15dd85b35ef26b0a12c2398a657e489f3c"
+total_pages: 12
+native_pages: 12
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T11:09:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2005/2005-07-01_Master-Circular_2329_Master%20Circular%20-%20Guidelines%20for%20Relief%20Measures%20by%20Banks%20in%20areas%20affected%20by%20Natural%20Calamities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Guidelines for Relief Measures by Banks in areas affected by Natural Calamities
+
+<!-- PAGE 1 -->
+
+## RBI/2005-2006/35 RPCD. No. PLFS. BC. 6 / 05.04.02/ 2005-06
+
+July 1, 2005 The Chairman/Managing Director/Chief Executive Officer [All scheduled commercial banks (excluding Regional Rural Banks)] Dear Sir, <u>MASTER CIRCULAR-GUIDELINES FOR RELIEF MEASURES BY BANKS</u> <u>IN AREAS AFFECTED BY NATURAL CALAMITIES</u>
+
+Please refer to our Master Circular RPCD.No.PLFS.BC.71/05.04.02/2005-06 dated January 7, 2005 incorporating guidelines issued to banks in regard to matters relating to relief measures to be provided in areas affected by natural calamities. Master Circular for 2005-2006 incorporating the existing guidelines/ instructions on the subject has been prepared and is appended. The list of circulars compiled into this Master Circular is given in the *Appendix.*
+
+Please acknowledge receipt. Yours faithfully,
+
+## (C.S. Murthy)
+
+## Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## <u>GUIDELINES FOR RELIEF MEASURES BY BANKS IN AREAS AFFECTED</u>
+
+## <u>BY NATURAL CALAMITIES</u>
+
+Periodical but frequent occurrence of droughts, floods, cyclones, tidal waves and other natural calamities take a heavy toll of human life and cause wide spread damage to economic pursuits of human beings in one area or the other of our country. The devastation caused by such natural calamities call for massive rehabilitation efforts by all agencies. The State and local authorities draw programmes for economic rehabilitation of the affected people. The developmental role assigned to the commercial banks and co- operative banks, warrants their active support in revival of the economic activities.
+
+2. Since the area and time of occurrence and intensity of natural calamities cannot be anticipated, it is imperative that the banks have a blueprint of action in such eventualities so that the required relief and assistance is provided with utmost speed and without any loss of time. This pre-supposes that all the branches of commercial banks and their Regional and Zonal Offices will have a set of standing instructions spelling out the action that the branches will have to initiate in the calamity affected areas immediately after the requisite declaration by the district/ State authorities. It is necessary that these instructions should also be available with the State Government authorities and all the District Collectors so that all concerned are clear as to the action that would be taken by the banks’ braches in the affected areas.
+3. The precise details in regard to the provision of credit assistance by the commercial banks, will depend on the requirements of the situation, their own operational capabilities and the actual needs of the borrowers. This can be decided by them in consultation with the district authorities.
+4. Nevertheless, to enable banks to take uniform and concerted action expeditiously, particularly to provide financial assistance to agriculturists, small scale industrial units, artisans, small business and trading establishments affected by natural calamities, the following guidelines are commended.
+5. To facilitate coordination and expeditious action by the financing institutions, the convenors of the District Consultative Committees of the affected districts should convene a meeting immediately after the occurrence of natural calamities. In the event of the calamity covering a larger part of a State, the convenor of the State Level Bankers’ Committee will also convene a meeting immediately to evolve a coordinated programme of action for implementation of the programme in collaboration with the State/ district authorities. While determining the quantum of assistance required by a person affected by the natural calamity, the banks may take into consideration the assistance/subsidy received by him from the State Government and/or other agencies.
+6. Divisional/ Zonal Managers of commercial banks should be vested with certain discretionary powers so that they do not have to seek fresh approvals from their Central Offices to the line of action agreed to by the District/ State
+
+<!-- PAGE 3 -->
+
+Level Bankers’ committees. For example, such discretionary powers would be necessary in regard to adoption of scales of finance, extension of loan periods, sanction of new loans keeping in view the total liability of the borrower (i.e. arising out of the old loan where the assets financed are damaged or lost on account of natural calamity as well as the new loan for creation/repair of such assets), margin, security, etc.
+
+## Identification of the beneficiaries
+
+7. The bank branches should obtain from the Government authorities concerned lists of affected villages within their area of operation. From among the identified persons, assessment of loss sustained by the existing constituents of the banks would be easier. In the case of fresh borrowers, however, discreet enquiries should be made in this regard and assistance of the Government authorities should be sought wherever available for ascertaining genuineness of their requirements. For providing conversion facilities in respect of crop loans, procedure for identification of areas where such facilities have to be provided has been indicated under crop loans in paragraph 13 below.
+## Coverage
+
+8. Each branch will provide credit assistance not only to its existing borrowers but also to other eligible persons within its command area provided they are not covered by any other financial agency.
+9. Credit requirements of the borrowing members of the cooperatives will be met by the Primary Agricultural Co-operative Societies (PACS)/ LAMPS/ FSS, etc. Branches of commercial banks may, however, finance the non-borrowing members of the co-operative societies, for which the latter will issue the usual `No objection’ certificates speedily.
+## Priorities
+
+10. Immediate assistance including finances would be needed for protecting and rejuvenating standing crops/ orchards/ plantation, etc. Equally important will be repairs to and protection of live stock sheds, grains and fodder storage structures, drainage, pumping, and other measures and operations to repair pumpsets, motors, engines and other necessary implements. Subject to seasonal requirements, next crop financing should be taken up.
+## Agricultural loans
+
+11. The bank assistance in relation to agriculture would be needed in the form of short term loans for the purpose of raising crops and term loans for purchase of milch/ draught animals, repairs to existing tubewells and pumpsets, digging of new tubewells and installation of new pumpsets, land reclamation, silt/sand removal, protection and rejuvenation of standing crops/ orchards/ plantation, etc., repairs and protection of livestock sheds, grain and fodder storage structures, etc.
+
+<!-- PAGE 4 -->
+
+12. Banks may, of their own, decide the quantum of fresh loans to be granted to the affected borrowers taking into consideration, amongst others, the extent of the crop loss/ scale of finance and their repaying capacity.
+## Crop loans
+
+13. In the case of natural calamities, such as droughts, floods, etc., the Government authorities would have declared *annewari* to indicate the extent to which the crops are damaged. However, where such declaration has not been made, banks should not delay in providing conversion facilities, and the District Collector’s Certificate that crop yield is below 50% of the normal yield, supported by the views of the DCC in the matter (for which a special meeting may have to be convened), should be sufficient for invoking quick relief arrangements. The certificate of the Collector should be issued crop-wise covering all crops, including food-grains. Issuing of such certificates in respect of cash crops, may, however, be left to the discretion of the Collector.
+## Guidelines for providing conversion facilities
+
+14. The following guidelines are suggested for providing conversion facilities:
+a. Amount of principal as well as interest of short-term loans due in the year of occurrence of natural calamity may be converted into term loans or the repayment period may be rescheduled suitably. The period of conversion/ reschedulement to be granted may vary depending on the intensity of calamity and the extent of crop loss and distress caused to the farmers. Amounts not collected during the year of occurrence of the calamity should be converted into term loans for a period up to 3 years and for small and marginal farmers up to 5 years in the normal circumstances. However, where the damage to crops arising out of the calamity is very severe and has caused acute distress to the farmers or if the calamity is for two successive years, banks may, at their discretion and in consultation with the Task Force/ Steering Committee of SLBC, grant extensions of the converted loans for longer periods ranging up to 5 to 7 years. In extreme cases of hardships arising out of the very severe loss to the crops or occurrence of three successive crop failures and the debt burden being found to be beyond the immediate repaying capacity of the borrower, conversion for longer period up to a maximum period of 9 years may also be considered by banks, in consultation with the Task Force/ SLBC.
+b. As far as possible, it would be preferable to prescribe common due dates for payment of instalments of the converted loan and extended term loans.
+c. All short-term loans, except those, which are overdue at the time of occurrence of natural calamity, should be eligible for conversion facilities.
+
+<!-- PAGE 5 -->
+
+d. Pending conversion of short-term loans, banks may grant fresh crop loans to the affected farmers.
+e. Conversion of short-term production loans may be taken up by banks at the time of sanction of fresh crop loans to the affected farmers without waiting for the due dates which are taken into account in normal course of sanction of such loans.
+f. Similarly, instalments of principal/ interest in respect of term loans may be rescheduled for a period of 3 years which could be extended for longer period in the circumstances mentioned at
+(a) above.
+g. The rates of interest on the converted loans should be the same as that charged on short-term loans.
+h. Where relief in the form of conversion/ reschedulement of loans is extended to the farmers, such converted/rescheduled dues should be treated as current dues and banks should not compound interest in respect of the loans so converted/rescheduled.
+15. To be effective, the assistance to farmers will have to be disbursed with utmost speed. For this purpose the lead bank and the district authorities concerned should evolve a procedure whereby identification of borrowers, issuance of certificates regarding Government/ co-operative/ bank dues, title of the applicant to land etc. is secured simultaneously. Possibilities of organising credit camps, where Block Development and Revenue officials, Co-operative Inspectors, Panchayat Pradhans, etc. could help finalise the applications on the spot, could be explored in consultation with the authorities of the district where such credit camps are being organised. The State Government will also arrange with the Collectors to issue an executive order enabling the following officers or their authorised representatives to assume respective duties and responsibilities as envisaged under implementation of credit camps programme:
+a. Block Development Officer
+b. Co-operative Inspector
+c. Revenue Authority/ Village Revenue Assistant
+d. Bank official operating in the area
+e. PACS/ LAMPS/ FSS
+f. Gram Panchayat Pradhan
+In order to avoid delay, the forms in which the State Government Officers have to give certificates at the Credit Camps may be got printed in sufficient numbers by the respective District Magistrates.
+
+<!-- PAGE 6 -->
+
+16. In considering loan applications for the ensuing crop season, the current dues of the applicants to the State Government may be ignored, provided the State Government declare a moratorium for a sufficiently long period on all amounts due to the government as on the date of occurrence of the natural calamity.
+## Scale of Finance
+
+17. Scales of finance in respect of different crops will be uniform in a district. The scales will be fixed taking into account the prevailing conditions and norms presently adopted by different lending agencies. In fixing the scales, minimum consumption needs of borrowers will be taken into account. The concerned District Magistrates and Managers of branches of banks operating in the districts would be advised to adopt the scales so laid down.
+## Development Loans-Investment costs
+
+18. The existing term loan instalments will have to be rescheduled/ postponed keeping in view the repaying capacity of the borrowers and the nature of natural calamity viz.,
+i. Droughts, floods or cyclones, etc. where only crop for that year is damaged and productive assets are not damaged. ii. Floods or cyclones where the productive assets are partially or totally damaged and borrowers are in need of a new loan.
+In regard to natural calamity under category (i) the banks may postpone the payment of instalment during the year of natural calamity and extend the loan period by one year, subject to the following exceptions:
+
+a. Those cultivators who had not effected the development or investment for which the loan was obtained or had disposed of the equipments or machinery purchased out of the loan;
+b. Those who are income tax payers;
+c. In the case of drought, those who are having perennial sources of irrigation except where water supply was not released from canals or irrigation facility was not available from other perennial sources; and
+d. Tractor owners, except in genuine cases where there is loss of income and consequential impairment of their repaying capacity.
+Under this arrangement the instalments defaulted wilfully in earlier years will not be eligible for rescheduling. The banks may have to postpone payment of interest by borrowers. While fixing extension of period the commitment towards interest may also be taken into account.
+
+In regard to category (ii) i.e. where the borrower’s assets are totally damaged, the rescheduling by way of extension of loan period maybe determined on the basis of overall repaying capacity of the borrower including his repayment
+
+<!-- PAGE 7 -->
+
+commitment on the old term loans and towards the conversion loan (medium term loan) on account of postponing of repayment of short term loans and the fresh crop loan. In such cases, the repayment period of total loan (including interest liability) less the subsidies received from the Government agencies, compensation available under the insurance schemes, etc. may be fixed having regard to the repaying capacity of the borrower subject to a maximum of 15 years, depending upon the type of investment as well as the economic (useful) life of the new asset financed, except in cases where loan relates to land shaping, silt removal, soil conservation, etc. Thus in the case of loans for agricultural machineries, viz., pumpsets and tractors, it should be ensured that the total loan period does not generally exceed 9 years from the date of advance.
+
+19. Apart from rescheduling existing term loans, banks will provide to affected farmers diverse type of term loans for developmental purposes, such as:
+a. Minor Irrigation : Term loans for repairs to wells, pumpsets, etc. which are to be quantified after assessing the extent of damage and estimated cost of repairs.
+b. Bullocks : Where the draught animals have been washed away, requests for fresh loans for a new pair of bullocks/he- buffaloes may be considered. Where loans are given for purchase of new cattle or where farmers have bought milch cattle, reasonable credit may be given for purchase of fodder or feed.
+c. Milch Cattle : Term loan for milch cattle will be considered depending upon breed, milk yield, etc; the loan amount will include repairs to shelters, purchase of equipment and feed.
+d. Insurance : Considering the proneness of areas to cyclones and other natural calamities, the cattle should be insured. Milch animals/ draught cattle should be branded for identification as also to serve as safeguard against their re-sale by the beneficiaries.
+<u>e. Poultry and Piggery : For poul</u>try, piggery and goatery, loans will be considered as per the norms of different banks.
+f. Fisheries : In the case of borrowers who have lost their boats, nets and other equipment, re-phasing of payment of existing dues may be allowed on merits. Fresh loans may be granted to them with loan maturity of 3 - 4 years. Loans for repairs to boats of the existing borrowers may also be considered. In cases where subsidy is available the quantum of loan should be reduced to that extent. In States where substantial subsidy towards the cost of boats, nets, etc. is likely to be available, proper coordination with the concerned State Government Department in this regard must be ensured. Apart from complying with other norms and conditions for grant of advances, assistance may be sought from the Department of
+
+<!-- PAGE 8 -->
+
+Fisheries, which may be expected to take measures which would enable banks to proceed with financing for this purpose. The boats should be comprehensively insured against all risks including natural calamities as far as possible.
+
+## Land Reclamation
+
+20. It is likely that financial assistance will be required for reclamation of land covered by sand casting. Normally, sand/ silt deposits up to 3 inches will either be ploughed back into the soil or removed by the farmers without any need for financial assistance. Loan applications will, however, be considered in cases where immediate cultivation is possible and reclamation (removal of sand) is necessary. Wherever reclamation finance for saline lands is warranted, the cost of reclamation not exceeding 25% of the scale allowed for crop loan may be advanced along with the crop loan.
+21. For other activities like agriculture, horticulture, floriculture, betelvine growing etc., banks will advance loans for investment and working capital under their existing schemes and follow usual procedures laid down by them. The working capital finance may be provided until such period the income from the plantation is adequate to take care of such expenditure.
+22. However, additional need based crop loans if necessary would be given for revitalisation/ rejuvenation of standing crops/ orchards based on individual assessment.
+23. The question relating to procurement and proper arrangement for supply of adequate quantity of seeds and various types of fertilizers will have to be discussed with the State Government and District Administration in each district. Similarly, for the purpose of ensuring adequate irrigation facilities, the State Government will undertake repairs to Government owned shallow and deep tubewells and River Lift Irrigation System damaged by floods and other natural calamities. As for fisheries, the fisheries department of the State Government will make arrangement to obtain fingerlings and supply them to those who wish to revive tank fishing with bank finance.
+24. The State Government will have to consider preparation of schemes, which would enable commercial banks to obtain refinance at NABARD rates for amounts advanced by banks for the said purpose.
+## Consumption Loans
+
+25. In view of the damage to crops and property, existing borrowers need consumption loans for sustenance till the flow of income is resumed. Banks may extend general consumption loans up to Rs 1,000 to eligible persons in the areas affected by natural calamity in states where the state governments have constituted risk funds for such lendings by commercial banks.
+## Artisans and self-employed persons
+
+26. For all categories of rural artisans and self-employed persons including handloom weavers, loans will be needed for repairs of sheds, replacement of implements, and purchase of raw materials and stores. In sanctioning the
+
+<!-- PAGE 9 -->
+
+loan, due allowance will be made for subsidy/ assistance available from the State Government concerned.
+
+27. There may be many artisans, traders and self-employed persons who may not have any banking arrangement or facility with any bank, but will now need financial assistance for rehabilitation. Such categories will be eligible for assistance from banks’ branches in whose command areas they reside or carry on their profession/ business. Where such a person/ party falls under the command area of more than one bank, the banks concerned will meet together and sort out his problem.
+## Small Scale and Tiny Units
+
+28. Rehabilitation of units under village and cottage industry sector, small- scale industrial units as also smaller of the medium industrial sector damaged, will also need attention. Term loans for repairs to and renovation of factory buildings/sheds and machinery as also for replacement of damaged parts and working capital for purchase of raw materials and stores will need to be provided urgently.
+29. Where the raw materials or finished goods have been washed away or ruined or damaged, banks’ security for working capital will naturally be eroded and the working capital account (Cash Credit or Loan) will be out of order. In such cases, banks will convert drawings in excess of the value of security into a term loan and also provide further working capital to the borrower.
+30. Depending on the damage suffered and time needed for rehabilitation and restarting production and sales, term loan instalments will have to be suitably rescheduled, keeping in view the income generating capacity of the unit. Shortfall in margins will have to be condoned or even waived and borrower should be allowed time to build up margin gradually from his future cash generation. Wherever State Government or any agency has formulated special scheme for providing grants/ subsidy/ seed money, suitable margin may be stipulated to the extent of such grants/ subsidy/ seed money. The primary consideration before the banks in extending credit to a small/tiny unit for its rehabilitation should be the viability of the venture after the rehabilitation programme is implemented.
+## Terms and Conditions
+
+31. The terms and conditions governing relief loans will be flexible as to security, margin, etc. In the case of small loans covered by guarantee of Deposit Insurance and Credit Guarantee Corporation, personal guarantees will not be insisted upon. In any case, credit should not be denied for want of personal guarantees.
+## Security
+
+32. Where the bank’s existing security has been eroded because of damage or destruction by floods, assistance will not be denied merely for want of additional fresh security. The fresh loan may be granted even if the value of security (existing as well as the asset to be acquired from the new loan) is
+
+<!-- PAGE 10 -->
+
+less than the loan amount. For fresh loans, a sympathetic view will have to be taken.
+
+a. Where the crop loan (which has been converted into term loan) was earlier given against personal security/ hypothecation of crop and the borrower is not able to offer charge/mortgage of land as security for the converted loan, he should not be denied conversion facility merely on the ground of his inability to furnish land as security. If the borrower has already taken a term loan against mortgage/charge on land, the bank should be content with a second charge for the converted term loan. Banks should not insist on third party guarantees for providing conversion facilities.
+b. In the case of term loans for replacement of equipments, repairs, etc. and for working capital finance to artisans and self-emloyed persons or for crop loans, usual security may be obtained. Where land is taken as security, in the absence of original title records, a certificate issued by the Revenue Department officials may be accepted for financing farmers who have lost proof of their titles i.e. in the form of deeds, as also the registration certificates issued to registered share-croppers.
+c. As per the recommendations of the R.B.I. report on customer service, banks will finance the borrowers who require loans up to Rs.500 without insisting either on collateral security or guarantee for any type of economic activity.
+## Margin
+
+33. Margin requirements may be waived or the grants/ subsidy given by the concerned State Government may be considered as margin.
+## Rate of Interest
+
+34. The rates of interest will be in accordance with the directives of the Reserve Bank. Within the areas of their discretion, however, banks are expected to take a sympathetic view of the difficulties of the borrowers and extend a concessional treatment to calamity-affected people. Those meeting the eligibility criteria under the Scheme of Differential Rate of Interest should be provided credit in accordance with the provision of the Scheme. In respect of current dues in default, no penal interest will be charged. The banks should also suitably defer the compounding of interest charges. Banks may not levy any penal interest and consider waiving penal interest, if any, already charged in regard to the loans converted/rescheduled.
+35. In order to avoid delay in taking relief measures on the occurrence of natural calamity, banks may evolve a suitable policy framework in this regard with the approval of the Board of Directors and forward a copy of the policy note for our record. It is advisable to provide an element of flexibility in the measures so as to synchronise the same with the measures which could be appropriate in a given situation in a particular State or District and parameters
+
+<!-- PAGE 11 -->
+
+in this regard may be decided in consultation with SLBC/ DCC, as the case may be.
+
+## Applicability of the guidelines in the case of riots and disturbances
+
+36. Whenever RBI advises the banks to extend rehabilitation assistance to the riot/ disturbance affected persons, the aforesaid guidelines may broadly be followed by banks for the purpose. It should, however, be ensured that only genuine persons, duly identified by the State Administration as having been affected by the riots/ disturbances, are provided assistance as per the guidelines.
+37. The issuance of advice to the banks by Reserve Bank of India on receipt of request/ information from State Government and thereafter issue of instructions by banks to their branches generally results in delay in extending the assistance to riot-affected people. With a view to ensuring quick relief to the affected persons, it has been decided that the District Collector, on occurrence of the riots/ disturbances, may ask the Lead Bank Officer to convene a meeting of the DCC, if necessary and submit a report to the DCC on the extent of damage caused to life and property in the area affected by riots/disturbances. If the DCC is satisfied that there has been extensive loss to life and property on account of the riots/ disturbances, the relief as per the above guidelines may be extended to the people affected by the riots/ disturbances. In certain cases, where there are no District Consultative Committees, the District Collector may request the convenor of the State Level Bankers’ Committee of the State to convene a meeting of the bankers to consider extension of relief to the affected persons. The report submitted by the Collector and the decision thereon of DCC/ SLBC may be recorded and should form a part of the minutes of the meeting. A copy of the proceedings of the meeting may be forwarded to the concerned Regional Office of the Reserve Bank of India.
+
+<!-- PAGE 12 -->
+
+## Appendix
+
+## Master Circular-Guidelines for Relief Measures by banks in areas affected by natural calamities
+
+## List of circulars consolidated by the Master Circular
+
+|No|Circular No.|Date|Subject|
+|---|---|---|---|
+|1|RPCD.No.PLFS.BC.128/05.04.02/9 7-98|20.6.98|Relief measures to persons affected by natural calamities – Agricultural advances|
+|2|RPCD.No.PLFS.BC.59/05.04.02/92 -93|6.1.93|Guidelines for Relief Measures by banks|
+
+in areas affected by natural calamities- <u>(Consumption Loans)</u>
+
+|3|RPCD.No.PLFS.BC.38/PS.126-91/92|21.9.91|Banks’ assistance to|
+|---|---|---|---|
+||||persons affected by riots/ communal disturbances,|
+||||etc.|
+|4|RPCD .No. PS.BC.6/PS.126-84|2.8.84|Revised guidelines for relief measures by banks in areas affected by natural calamities|
