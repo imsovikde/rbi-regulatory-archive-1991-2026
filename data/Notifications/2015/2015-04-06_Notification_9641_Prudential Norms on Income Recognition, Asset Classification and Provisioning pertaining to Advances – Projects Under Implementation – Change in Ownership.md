@@ -1,0 +1,81 @@
+---
+doc_id: "Notifications_2015_9641"
+title: "Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances – Projects Under Implementation – Change in Ownership"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBOD84NT060415GN.pdf"
+pdf_sha256: "dae3072257cb93bd83b62c5f4a7320a73dd4a6d7051de1ecae1e878993a21179"
+md_sha256: "ab3e931f30a05ea7d021dabbd5dabcaffbadcf4c25c7dea9f4d72dc3226de6db"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-04-06_Notification_9641_Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%20and%20Provisioning%20pertaining%20to%20Advances%20%E2%80%93%20Projects%20Under%20Implementation%20%E2%80%93%20Change%20in%20Ownership.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances – Projects Under Implementation – Change in Ownership
+
+<!-- PAGE 1 -->
+
+भारतीय ररजर्व बैंक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI/2014-15/538 DBR.No.BP.BC.84/21.04.048/2014-15 April 6, 2015
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Dear Sir,
+
+## Prudential Norms on Income Recognition, Asset Classification and
+
+## Provisioning pertaining to Advances – Projects Under Implementation –
+
+## Change in Ownership
+
+We have been receiving representations from banks that, in the case of projects which have been stalled primarily due to inadequacies of the current promoters, a change in ownership/management may be required to revive the project. However, the new promoters/developers may require additional time to revive/complete the stalled projects.
+
+2. Accordingly, in paragraph 26 (extract enclosed) of the Sixth Bi-Monthly Monetary Policy Statement, 2014-15 announced on February 03, 2015, it was proposed to allow extension of the date of commencement of commercial operations (DCCO) without change in asset classification in cases of change in ownership of the projects.
+3. It has been decided that in cases where, in the assessment of the banks, the implementation of the project has been stalled primarily due to inadequacies of the existing promoters and a subsequent change in the ownership of the borrowing entity has been effected, banks may permit extension of DCCO up to a further period of two years, in addition to the extension of DCCO permitted under existing regulations. Detailed guidelines in this regard are annexed. Yours faithfully, (Sudarshan Sen) Chief General Manager-in-Charge
+बैंककिं ग वर्नियमि वर्भाग, के न्द्रीय कायावलय, 12र्ीिं मिंज़िल, शहीद भगत न िंह मागव, म िंबई – 400001 Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbr@rbi.org.in कहिंदी आ ाि हैं**,** इ का प्रयोग बड़ाइए
+
+<!-- PAGE 2 -->
+
+## Extracts from Sixth Bi-Monthly Monetary Policy Statement, 2014-15
+
+26. At present, implementation of large projects is complex and unforeseen events may cause delays in project implementation, leading to failure in achieving the originally envisaged date of commencement of commercial operations (DCCO). The Reserve Bank has allowed vide circulars dated March 31, 2010 and May 30, 2013, certain flexibility with regard to loans to projects under implementation, wherein DCCO of the projects under implementation along with repayment schedules for such loans are allowed to be shifted to a certain extent without adversely affecting the asset classification of such loans. However, in the case of projects which have been stalled primarily due to inadequacies of the current promoters/management, a change in ownership and management may be required to revive the project. In this context, the new promoters/developers may require additional time to revive/complete the stalled projects. In order to facilitate change in ownership and revival, it has been decided to provide further flexibility by allowing a further extension of the DCCO of such projects where a change of ownership takes place, without adversely affecting the asset classification of loans to such projects, subject to certain conditions. Operating guidelines in this regard will be issued shortly.
+
+<!-- PAGE 3 -->
+
+## Annex
+
+1. In terms of extant instructions contained in the <u>circulars DBOD.No.BP.BC.85/</u>
+<u>21.04.048/2009-10 dated March 31, 2010</u> and <u>DBOD.BP.BC. No.99/21.04.132/2012-</u> <u>13 dated May 30, 2013</u>, revisions of the date of DCCO and consequential shift in repayment schedule for equal or shorter duration (including the start date and end date of revised repayment schedule) <u>will not be treated as restructuring</u> provided that:
+(a) The revised DCCO falls within the period of two years and one year from the original DCCO stipulated at the time of financial closure for infrastructure projects and non-infrastructure projects respectively; and
+(b) All other terms and conditions of the loan remain unchanged.
+2. Further, in terms of extant instructions quoted at paragraph 1 above, banks may restructure such loans, subject to the extant prudential norms on restructuring of advances, by way of revision of DCCO beyond the time limits quoted at paragraph 1(a) above and retain the ‘standard’ asset classification, if the fresh DCCO is fixed within the following limits, and the account continues to be serviced as per the restructured terms:
+(a) *Infrastructure Projects involving court cases* Up to another two years (beyond the two year period quoted at paragraph 1(a) above, i.e., total extension of four years), in case the reason for extension of DCCO is arbitration proceedings or a court case.
+(b) *Infrastructure Projects delayed for other reasons beyond the control of promoters* Up to another one year (beyond the two year period quoted at paragraph 1(a) above, i.e., total extension of three years), in case the reason for extension of DCCO is beyond the control of promoters (other than court cases).
+(c) *Project Loans for Non-Infrastructure Sector* *(Other than Commercial Real Estate Exposures)* Up to another one year (beyond the one year period quoted at paragraph 1(a) above, i.e., total extension of two years).
+
+<!-- PAGE 4 -->
+
+3. In order to facilitate revival of the projects stalled primarily due to inadequacies of the current promoters, it is advised that if a change in ownership takes place any time during the periods quoted in paragraphs 1 and 2 above or before the original DCCO, banks may permit extension of the DCCO of the project up to two years in addition to the periods quoted at paragraph 1 and 2 above, as the case may be, without any change in asset classification of the account subject to the conditions stipulated in the following paragraphs. Banks may also consequentially shift/extend repayment schedule, if required, by an equal or shorter duration.
+4. It is clarified that in cases where change in ownership and extension of DCCO (as indicated in paragraph 3 above) takes place before the original DCCO, and if the project fails to commence commercial operations by the extended DCCO, the project will be eligible for further extension of DCCO in terms of guidelines quoted at paragraph 1 and 2 above. Similarly, where change in ownership and extension of DCCO takes place during the period quoted in paragraph 1 (a) above, the account may still be restructured by extension of DCCO in terms of guidelines quoted at paragraph 2 above, without classifying the account as non-performing asset.
+5. The provisions of paragraphs 3 and 4 above are subject to the following conditions:
+i) Banks should establish that implementation of the project is stalled/affected primarily due to inadequacies of the current promoters/management and with a change in ownership there is a very high probability of commencement of commercial operations by the project within the extended period; ii) The project in consideration should be taken-over/acquired by a new promoter/promoter group with sufficient expertise in the field of operation. If the acquisition is being carried out by a special purpose vehicle (domestic or overseas), the bank should be able to clearly demonstrate that the acquiring entity is part of a new promoter group with sufficient expertise in the field of operation; iii) The new promoters should own at least 51 per cent of the paid up equity capital of stake in the acquired project. If the new promoter is a non-resident, and in sectors where the ceiling on foreign investment is less than 51 per cent, the new promoter should own atleast 26 per cent of the paid up equity
+
+<!-- PAGE 5 -->
+
+capital or up to applicable foreign investment limit, whichever is higher, provided banks are satisfied that with this equity stake the new non-resident promoter controls the management of the project; iv) Viability of the project should be established to the satisfaction of the banks.
+
+v) Intra-group business restructuring/mergers/acquisitions and/or takeover/acquisition of the project by other entities/subsidiaries/associates etc. (domestic as well as overseas), belonging to the existing promoter/promoter group will not qualify for this facility. The banks should clearly establish that the acquirer does not belong to the existing promoter group; vi) Asset classification of the account as on the ‘reference date’ would continue during the extended period. For this purpose, the ‘reference date’ would be the date of execution of preliminary binding agreement between the parties to the transaction, provided that the acquisition/takeover of ownership as per the provisions of law/regulations governing such acquisition/takeover is completed within a period of 90 days from the date of execution of preliminary binding agreement. During the intervening period, the usual asset classification norms would continue to apply. If the change in ownership is not completed within 90 days from the preliminary binding agreement, the ‘reference date’ would be the effective date of acquisition/takeover as per the provisions of law/regulations governing such acquisition/takeover; vii) The new owners/promoters are expected to demonstrate their commitment by bringing in substantial portion of additional monies required to complete the project within the extended time period. As such, treatment of financing of cost overruns for the project shall continue to be subject to the guidelines prescribed in <u>circular DBOD.No.BP.BC.33/21.04.048/2014-15</u> <u>dated August 14, 2014</u>. Financing of cost overrun beyond the ceiling prescribed in the circular dated August 14, 2014 would be treated as an event of restructuring even if the extension of DCCO is within the limits prescribed above; viii) While considering the extension of DCCO (up to an additional period of 2 years) for the benefits envisaged hereinabove, banks shall make sure that the
+
+<!-- PAGE 6 -->
+
+repayment schedule does not extend beyond 85 per cent of the economic life/concession period of the project; and ix) This facility would be available to a project only once and will not be available during subsequent change in ownership, if any.
+
+6. Loans covered under this guideline would attract provisioning as per the extant provisioning norms depending upon their asset classification status.
+*****

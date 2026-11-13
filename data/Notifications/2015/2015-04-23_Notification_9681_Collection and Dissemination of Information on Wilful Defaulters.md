@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2015_9681"
+title: "Collection and Dissemination of Information on Wilful Defaulters"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/90CCDIWD23041506319BF305A343758A81F984E7411A78.PDF"
+pdf_sha256: "e20998325200deb3f72c9f3cbc279939c76eee6b1ae34fc44876eacfaedcff58"
+md_sha256: "8c59167736f2b8945c548424116de2e6fa9707c069ca73f5b7449f200c004618"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-04-23_Notification_9681_Collection%20and%20Dissemination%20of%20Information%20on%20Wilful%20Defaulters.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Collection and Dissemination of Information on Wilful Defaulters
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/566 DBR.No.CID.BC.90/20.16.003/2014-15 April 23, 2015
+
+i) All Scheduled Commercial Banks (excluding RRBs and LABs) and ii) All India Notified Financial Institutions
+## Dear Sir / Madam
+
+## Collection and Dissemination of Information on Wilful Defaulters
+
+Please refer to the <u>Master Circular on Wilful Defaulters</u> <u>DBR.No.CID.BC.57/20.16.003/2014-15 dated January 7, 2015</u>.
+
+2. Paragraph 3 of the Circular has been amended as follows (amended portion in bold italics):
+## “3. Mechanism for identification of Wilful Defaulters
+
+The transparent mechanism referred to in paragraph 2.5(d) in the above Master Circular on Wilful Defaulters should generally include the following:
+
+(a) The evidence of wilful default on the part of the borrowing company and its promoter/whole-time director at the relevant time should be examined by a Committee headed by an Executive Director and consisting of two other senior officers of the rank of GM/DGM.
+(b) If the Committee concludes that an event of wilful default has occurred, it shall issue a Show Cause Notice to the concerned borrower and the promoter/whole-time director and call for their submissions and after considering their submissions issue an order recording the fact of wilful default and the reasons for the same. An opportunity should be given to the borrower and the promoter/whole-time director for a personal hearing if the Committee feels such an opportunity is necessary.
+_________________________________________________________________________________________________________________________________________________ बैक िं ग विनिमयि विभाग, े न्द्रीय ायाालय, 13िी मिंजील, े न्द्रीय ायाालय भिि, श. भगत न िंग मागा, म िंबई -400 001 Department of Banking Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेनलफोि/Tel.No.:91-22-22601000,टेनलफोि/Tel.No.(D):91-22-227012**97**,फै क् /Fax No. 91-22-22701239, email ID: <u>cgmicdbrco@rbi.org.in</u> <u>किन्द्दी आ ाि िै, इ ा प्रयोग बढाइये</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+-: 2 :-
+
+(c) The Order of the Committee should be reviewed by another Committee headed by the Chairman / CEO and MD and consisting, in addition, of two independent directors of the Bank and the Order shall become final only after it is confirmed by the said Review Committee.
+(d) As regard a non-promoter/non-whole time director, it should be kept in mind that Section 2(60) of the Companies Act, 2013 defines an officer who is in default to mean only the following categories of directors:
+(i) Whole-time director (ii) where there is no key managerial personnel, such director or directors as specified by the Board in this behalf and who has or have given his or their consent in writing to the Board to such specification, or all the directors, if no director is so specified; (iii) every director, in respect of a contravention of any of the provisions of this Act, who is aware of such contravention by virtue of the receipt by him of any proceedings of the Board or participation in such proceedings and who has not objected to the same, or where such contravention had taken place with his consent or connivance. ***(iv)*** Therefore, except in very rare cases, a non-whole time director should not be considered as a wilful defaulter unless it is conclusively established that
+I. he was aware of the fact of wilful default by the borrower by virtue of
+any proceedings recorded in the Minutes of the Board or a Committee of the Board and has not recorded his objection to the same in the Minutes, or, II. the wilful default had taken place with his consent or connivance. ***However, the above exception will not apply to a promoter director even if*** ***not a whole time director.***
+
+***(e)*** A similar process as detailed in sub paras (a) to (c) above should be followed when identifying a non-whole time director other than a promoter director as a wilful defaulter.”
+## Yours faithfully
+
+(Rajinder Kumar) Chief General Manager

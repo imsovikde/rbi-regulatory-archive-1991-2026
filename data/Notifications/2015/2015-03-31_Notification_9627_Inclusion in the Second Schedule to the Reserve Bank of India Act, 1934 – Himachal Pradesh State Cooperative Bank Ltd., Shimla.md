@@ -1,0 +1,24 @@
+---
+doc_id: "Notifications_2015_9627"
+title: "Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Himachal Pradesh State Cooperative Bank Ltd., Shimla"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/525BCHSTCB0315.pdf"
+pdf_sha256: "bc7b4c2eadcfb7419282c747958c4379a9952429a79d6a1196773a4fcc3b2f3e"
+md_sha256: "28eb1fa56668142e93683cffceebb89187d05bea5dfc6f247e5d80f7b64d5493"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-03-31_Notification_9627_Inclusion%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20Himachal%20Pradesh%20State%20Cooperative%20Bank%20Ltd.%2C%20Shimla.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Himachal Pradesh State Cooperative Bank Ltd., Shimla
+
+<!-- PAGE 1 -->
+
+||RBI/2014-15/525|||DCBR CO.RCBD.BC.No.21/19.51.025/2014-15||||भारतीय ररज़र्व बक __________________________RESERVE BANK OF INDIA________________________ www.rbi.org.in|ैं|||||March 31, 2015|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|To|Dear Sir, सहकारी चेताििी: भारतीय|बक ैं पासिडा आहद िहीं मााँगा|All State Cooperative Banks/ Central Cooperative Banks फोि: 022 -|Pradesh State Cooperative Bank Ltd., Shimla विनियमि 2493 9930 - Phone: 022 - 2493 9930 - ररििा बक द्िारा ई-मेल, ैं जाता है। यह धि|विभाग,कें द्रीय बक ैं डाक,|India vide (Weekly no. 3 - Part III-Section 4) dated January 17, 2015. कायाालय, गारमेंट 49; फै क्स: 022 - हहन्दी रखिे या देिे का|Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – DCBR.CO.RCBD-01/19.51.025/2014-15 dated December 15, 2014 published in the म पत्राचार ें|We advise that the name of “Himachal Pradesh State Cooperative Bank, Ltd. Shimla" has been included in the Second Schedule to the Reserve Bank of India Act, 1934 by Notification हाऊस, पहली Department of Co-operative Bank Regulation, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India 49; Fax: 022 - 2497 4030 / 2492 0231; Email: का स्िागत एसएमएस या फोि कॉल के जररये कोई Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|मंज़िल, करता|डॉ ए 2497 4030 / 2492 0231; ई मेल: cgmdcbrco@rbi.org.in है — भी|बी रोड, व्यज़क्तगत प्रस्ताि भी िहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए।|िरली,|मंबई- cgmdcbrco@rbi.org.in जािकारी जैसे|Himachal Gazette of Yours faithfully, (A. G. Ray) General Manager 400018 भारत बक खाते का ब्यौरा, ैं|

@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2015_9680"
+title: "Collection and Dissemination of Information on Defaulters"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DCCDII230415244FD1E152B7432D8B0811011AC2FE0B.PDF"
+pdf_sha256: "d7caf0c10aa6f3651b2a0a2bfb76078a51bc76abef4c00fee719ee2e68a6cc94"
+md_sha256: "cb490b8b00ef72e936ed4b9eafe1aee545d08028473eec562570ce516a7f762a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-04-23_Notification_9680_Collection%20and%20Dissemination%20of%20Information%20on%20Defaulters.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Collection and Dissemination of Information on Defaulters
+
+<!-- PAGE 1 -->
+
+# भारतीय ररजर्व बैंक __________RESERVE BANK OF INDIA__________
+
+www.rbi.org.in RBI/2014-15/565 DBR.No.CID.BC.89/20.16.001/2014-15 April 23, 2015
+
+i) All Scheduled Commercial Banks (excluding RRBs and LABs) and ii) All India Notified Financial Institutions
+## Dear Sir / Madam
+
+## Collection and Dissemination of Information on Defaulters
+
+Please refer to our <u>Circular DBOD.No.DL.BC.54/20.16.001/2001-02 dated</u> <u>December 22, 2001</u> on the above subject.
+
+2. As you are aware, Section 2(60) of the Companies Act, 2013 defines an officer who is in default to mean only the following categories of directors:
+(i) whole-time director; (ii) where there is no key managerial personnel, such director or directors as specified by the Board in this behalf and who has or have given his or their consent in writing to the Board to such specification, or all the directors, if no director is so specified; (iii) every director, in respect of a contravention of any of the provisions of this Act, who is aware of such contravention by virtue of the receipt by him of any proceedings of the Board or participation in such proceedings and who has not objected to the same, or where such contravention had taken place with his consent or connivance.
+3. In view of the above statutory provisions, a non-whole time director should not be considered as a defaulter unless it is conclusively established that
+_________________________________________________________________________________________________________________________________________________ बैककिं ग वर्निमयि वर्भाग, के न्द्रीय कायावलय, 13र्ी मिंजील, के न्द्रीय कायावलय भर्ि, श. भगत न िंग मागव, म िंबई -400 001 Department of Banking Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेनलफोि/Tel.No.:91-22-22601000,टेनलफोि/Tel.No.(D):91-22-227012**97**,फै क् /Fax No. 91-22-22701239, email ID: <u>cgmicdbrco@rbi.org.in</u> <u>किन्द्दी आ ाि िै, इ का प्रयोग बढाइये</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+-: 2 :-
+
+a. he was aware of the fact of default by the borrower by virtue of any proceedings recorded in the Minutes of the Board or a Committee of the Board and has not recorded his objection to the same in the Minutes, or,
+b. the default had taken place with his consent or connivance.
+However, the above exception will not apply to a promoter director, even if not a whole time director.
+
+4. Therefore, in partial modification of our aforementioned Circular dated December 22, 2001, we advise that while disseminating information to Credit Information Companies on borrowers with outstanding amount aggregating Rs. 1 crore and above classified as doubtful or loss assets (non-suit filed as well as suit filed accounts), banks/FIs should exclude the names of non-whole time directors (Nominee and Independent Directors) other than the promoter directors from the list, except in the rarest circumstances specified in paragraph 3 above.
+## Yours faithfully
+
+(Rajinder Kumar) Chief General Manager

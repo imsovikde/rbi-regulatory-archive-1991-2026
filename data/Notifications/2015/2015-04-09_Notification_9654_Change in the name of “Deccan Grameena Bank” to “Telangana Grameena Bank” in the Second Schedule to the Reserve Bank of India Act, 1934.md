@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2015_9654"
+title: "Change in the name of “Deccan Grameena Bank” to “Telangana Grameena Bank” in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CNG090415NTFG.pdf"
+pdf_sha256: "781ed7ededdfaecb2498a015f4b17102c90ca8d8fb8abe45f9fc79a902373d9a"
+md_sha256: "5c9f45419e13f08f5310870c5dd1d5a32cb89b2f09080bc040dffe832a6000ae"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-04-09_Notification_9654_Change%20in%20the%20name%20of%20%E2%80%9CDeccan%20Grameena%20Bank%E2%80%9D%20to%20%E2%80%9CTelangana%20Grameena%20Bank%E2%80%9D%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in the name of “Deccan Grameena Bank” to “Telangana Grameena Bank” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/547 DBR.RRB.BC.No.86 /31.04.002/2014 -15 April 9, 2015
+
+## All Regional Rural Banks
+
+Dear Sir/Madam,
+
+## Change in the name of “Deccan Grameena Bank” to “Telangana Grameena Bank” in the
+
+## Second Schedule to the Reserve Bank of India Act, 1934
+
+We advise that the name of ‘’Deccan Grameena Bank’’ has been changed to ‘’Telangana Grameena Bank’’ in the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.RRB.No.65/03.05.33/2014-15 dated January 30, 2015 and published in the Gazette of India (Part III – Section 4) dated March 13, 2015
+
+2. Please acknowledge receipt to our Regional Office concerned. Yours faithfully, (Sudha Damodar) Chief General Manager
+बकैं िं ग विनियमि विभाग, ें द्रीय ायाालय, 12ि िं और 13ि िं मिंज़िल, ें द्रीय ायाालय भिि, शहीद भगत स िंह मागा, मिंबई 400001 टे लीफोि /Tel No: 22661602, 22601000 फै क् /Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Banking Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai – 400001. Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692

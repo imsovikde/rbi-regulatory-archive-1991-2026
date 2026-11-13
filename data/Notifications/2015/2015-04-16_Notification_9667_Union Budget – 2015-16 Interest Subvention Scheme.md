@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2015_9667"
+title: "Union Budget – 2015-16 Interest Subvention Scheme"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ISS160415CIRFNT79B73C6A7CBB4D559BCBE8CE6B488121.PDF"
+pdf_sha256: "c4f6b6b2c800426663eb02ed95800ef83635509f06e6c5904e814141ae25eb40"
+md_sha256: "969a70354619927b99e111230dc6fe6e942fef052a2699beb31c09859aa07346"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:50:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-04-16_Notification_9667_Union%20Budget%20%E2%80%93%202015-16%20Interest%20Subvention%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget – 2015-16 Interest Subvention Scheme
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बैंक
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** **www.rbi.org.in** RBI/2014-15/557 FIDD.No.FSD.BC.53/05.04.02/2014-15 April 16, 2015
+
+The Chairman / Managing Director All Public & Private Sector Scheduled Commercial Banks
+
+## Dear Sir / Madam
+
+## <u>Union Budget – 2015-16 Interest Subvention Scheme</u>
+
+Please refer to our <u>Circular FIDD. No. FSD.BC. 48/05.04.02/2014-15 dated January</u> 21, 2015 on Interest Subvention Scheme for Short-term Crop Loans for the year 2014-15. As regards the Scheme for the year 2015-16, Government of India (GoI) has advised that presently various alternative approaches for improving the efficacy of the Scheme are being examined, the finalization of which may take some time.
+
+2. In view of the above, it has been decided by GoI, as an interim measure, to implement the Interest Subvention Scheme for 2015-16, **till JUNE 30, 2015**, on the terms and conditions approved for the Scheme for 2014-15, as contained in the above-cited Circular. All banks are, therefore, advised to take note and implement the Interest Subvention Scheme for 2015-16 accordingly. Yours faithfully, (Madhavi Sharma) Chief General Manager
+
+|वित् तीय ् ्समािेशन्और|विकास्विभाग,्के न्द्रीय||कायाालय,10|िी मंजिल,्कें रीय|कायाालय भिन,|शहीद भगतससंह|मागा,पोस्ट्बॉक्स|सं. 10014,म ंबई|-400001|
+|---|---|---|---|---|---|---|---|---|---|
+|Financial Inclusion & Development Marg,P.B.No.10014,Mumbai-1 टेली Tel:022-22602073 फै क्सः 91-22-22621011/22610943/22610948 ई -मेल : madhavisharma@rbi.org.in||Dept.,Central Office,10th|ह िंदी आसान ै,इसका प्रयोग|Floor, Central Office|बढ़ाइए।|Building,Shahid|Bhagat Singh्|||
+|“चेतार्नी : -मेल ररज़र्व बैंक द्वारा||डाक, एसएमएस|या फोन कॉल|के जररए हकसी|की भी र्यक्तिगत|जानकारी जैसे|बैंक के खाते का|बयौरा, पासर्डव आहद|न ीिं मािंगी जाती|
+|ै। य धन रखने Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|या देने का प्रसतार्|भी न ीिं करता ै।|ऐसे प्रसतार्ों का हकसी भी तरीके||से जर्ाब|मत दीजजए।"||||
