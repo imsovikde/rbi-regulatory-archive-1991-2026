@@ -1,0 +1,53 @@
+---
+doc_id: "Circulars_2012_DBOD_No_BP_BC_42_21_04_048_2012-13"
+title: "NPA Management - Requirement of an Effective Mechanism and Granular Data"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PAM140912FC.PDF"
+pdf_sha256: "bba3424b78169ab439769b2119ddc283227370e42d3289849492ef7c6d82b4b8"
+md_sha256: "d67df7936667fb50652d55f88321d70c319f04aef8baecf01948892d1d1735fa"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:51:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-09-14_Circular_DBOD.No.BP.BC-42-21.04.048-2012-13_NPA%20Management%20-%20Requirement%20of%20an%20Effective%20Mechanism%20and%20Granular%20Data.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# NPA Management - Requirement of an Effective Mechanism and Granular Data
+
+<!-- PAGE 1 -->
+
+भारतीय िरजवर् बक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI/2012-13/208 DBOD.No.BP.BC/ 42/21.04.048/2012-13 September 14, 2012
+
+The Chairman and Managing Director/ Chief Executive Officer of All Scheduled Commercial Banks (Excluding RRBs) Dear Sir, <u>NPA Management – Requirement of an Effective Mechanism and Granular Data</u> Please refer to the paragraph 100 (extract enclosed) of the Monetary Policy Statement 2012-13 announced on April 17, 2012.
+
+2. As mentioned therein, asset quality of banks is one of the most important indicators of their financial health. However, it has been observed that existing MIS on the early warning systems of asset quality, needed improvement. Banks are, therefore, advised that they should review their existing IT and MIS framework and Withdrawn put in place a robust MIS mechanism for early detection of signs of distress at individual account level as well as at segment level (asset class, industry, geographic, size, etc.). Such early warning signals should be used for putting in place an effective preventive asset quality management framework, including a transparent restructuring mechanism for viable accounts under distress within the prevailing regulatory framework, for preserving the economic value of those entities in all segments.
+3. The banks’ IT and MIS system should be robust and able to generate reliable and quality information with regard to their asset quality for effective decision making. बिकं ग पिरचालन और िवकास िवभाग, के द्रीय कायार्लय, 12वीं मंिज़ल, शहीद भगत िसंह माग, र्मुंबई – 400001 Department of Banking Operations and Development, Central Office, 12th Floor, Central Office, Shahid Bhagat Singh Marg, Mumbai - 400001
+’½¥¸úûÅø›¸ /Tel No: 22661602 û¾ÅÆ¬¸/Fax No: 22705691 Email ID: cgmicdbodco@rbi.org.in िहंदी आसान ह, इसका प्रयोग बड़ाइए
+
+<!-- PAGE 2 -->
+
+There should be no inconsistencies between information furnished under regulatory/statutory reporting and the banks’ own MIS reporting. Banks are also advised to have system generated segment wise information on non-performing assets and restructured assets which may include data on the opening balances, additions, reductions (upgradations, actual recoveries, write-offs etc.), closing balances, provisions held, technical write-offs, etc.
+
+Yours faithfully,
+
+(Deepak Singhal) Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+*Extract from Monetary Policy statement of April 17, 2012*
+
+## NPA Management – Requirement of a Strong Mechanism and Granular Data
+
+100. The asset quality of banks is one of the most important indicators of their financial health. It also reflects the efficacy of banks’ credit risk management and the recovery environment. It is important that the signs of distress in all stressed accounts are detected early and those which are viable are also extended restructuring facilities expeditiously to preserve their economic value. During annual financial inspection (AFIs), it has been observed that the restructuring facilities are not readily extended to small accounts. To improve the banks’ ability to manage their non-performing assets (NPAs) and restructured accounts in an effective manner and considering that almost all branches of banks have been fully computerised, it is proposed:
+- to mandate banks to put in place a robust mechanism for early detection of signs of distress, and measures, including prompt restructuring in the case of all viable accounts wherever required, with a view to preserving the economic value of such accounts; and
+- to mandate banks to have proper system generated segment–wise data on their NPA accounts, write-offs, compromise settlements, recovery and restructured accounts.
+# Withdrawn

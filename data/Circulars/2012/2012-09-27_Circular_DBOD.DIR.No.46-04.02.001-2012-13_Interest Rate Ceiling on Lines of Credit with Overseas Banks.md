@@ -1,0 +1,56 @@
+---
+doc_id: "Circulars_2012_DBOD_DIR_No_46_04_02_001_2012-13"
+title: "Interest Rate Ceiling on Lines of Credit with Overseas Banks"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/INRCO270912.PDF"
+pdf_sha256: "a2808fb068bfcd608b52eb410b8b57df853c76af97ea5a2811b7b56368e92c6b"
+md_sha256: "72c388973087db645b6ecc6f64dc8ab9133490adc680eaa1b6af532ef85a7bf5"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:51:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-09-27_Circular_DBOD.DIR.No.46-04.02.001-2012-13_Interest%20Rate%20Ceiling%20on%20Lines%20of%20Credit%20with%20Overseas%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate Ceiling on Lines of Credit with Overseas Banks
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+## _________________ RESERVE BANK OF INDIA__________________ <u>www.rbi.org.in</u>
+
+RBI/2012-13/227 DBOD.DIR.No. 46 /04.02.001/2012-13 September 27, 2012
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir / Madam,
+
+## <u>Interest Rate Ceiling on Lines of Credit with Overseas Banks</u>
+
+Please refer to our circulars DBOD.DIR.No.52/04.02.001/2011-12 dated November 15, <u>2011</u> and <u>DBOD.DIR.No.91/04.02.001/2011-12 dated March 30, 2012</u> relating to interest rate ceiling on lines of credit with overseas banks.
+
+2. It has been decided that the interest rate ceiling on lines of credit with overseas banks will continue to be six months LIBOR / EURO LIBOR / EURIBOR plus 250 basis points till further orders.Withdrawn
+3. A directive DBOD.DIR.BC.No.45/04.02.001/2012-13 dated September 27, 2012 issued in this regard is enclosed. Yours faithfully, (Sudha Damodar) Chief General Manager
+बैकं ग परचालन और वकास वभाग, क िय कायालय, 13 माला, शहद भगतिसंह माग, मुबई 400001 _______________________________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 13 th floor, NCOB, Shahid Bhagat Singh Marg, Mumbai - 400001 ’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 /Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in न हंद आसा है, इसका ूयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+## भारतीय रज़व बक
+
+### _________________ RESERVE BANK OF INDIA__________________ <u>www.rbi.org.in</u>
+
+### DBOD.DIR.BC.No. 45 /04.02.001/2012-13 September 27, 2012
+
+### <u>Interest Rate Ceiling on Lines of Credit with Overseas Banks</u>
+
+In exercise of the powers conferred by Sections 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do hereby directs that, in continuation of directive <u>DBOD.DIR.BC.No.90/04.02.001/2011-12 dated March 30, 2012</u>, the prescription regarding the interest rate ceiling on overseas line of credit will continue till further orders.
+
+# Withdrawn
+
+(B. Mahapatra) Executive Director
+
+बैकं ग परचालन और वकास वभाग, क िय कायालय, 13 माला, शहद भगतिसंह माग, मुबई 400001 _______________________________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 13 th floor, NCOB, Shahid Bhagat Singh Marg, Mumbai - 400001 ’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in हंद आसान है, इसका ूयोग बढ़ाइए

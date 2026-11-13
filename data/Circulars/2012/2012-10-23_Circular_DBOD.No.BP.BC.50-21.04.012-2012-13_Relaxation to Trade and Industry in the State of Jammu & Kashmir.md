@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2012_DBOD_No_BP_BC_50_21_04_012_2012-13"
+title: "Relaxation to Trade and Industry in the State of Jammu & Kashmir"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ERTI231012.PDF"
+pdf_sha256: "80c4e5218de743cae20a3cc73ffdb0203bfd6ca0655ecb4f479e382285a9f69a"
+md_sha256: "af0a31b5aefb943ce5bd6cf149ee0da3a65f6dc51b86b9d8c3e1dfb8623f6b1f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:52:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-10-23_Circular_DBOD.No.BP.BC.50-21.04.012-2012-13_Relaxation%20to%20Trade%20and%20Industry%20in%20the%20State%20of%20Jammu%20%26%20Kashmir.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Relaxation to Trade and Industry in the State of Jammu & Kashmir
+
+<!-- PAGE 1 -->
+
+RBI/2012-13/261 DBOD.No.BP.BC.50 /21.04.012/2012-13 October 23, 2012
+
+The Chairmen & Managing Directors/ Chief Executive Officers of All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+Dear Sir/ Madam,
+
+## <u>Relaxation to Trade and Industry in the State of Jammu & Kashmir</u>
+
+Please refer to our <u>circular DBOD.No.BP.BC.25/21.04.012/2011-12 dated July 28,</u> <u>2011</u> extending the period of concessions/ credit relaxations to borrowers / customers in Jammu & Kashmir up to 31 March 2012. It has been decided that the concessions / credit relaxations to borrowers / customers in the State of Jammu & Kashmir, as laid down in our <u>Circular No. DBOD.No.BP.BC.77/21.04.012/2003-2004</u> <u>dated April 21, 2004</u>, will continue to be operative up to March 31, 2014.
+
+2. Suitable instructions may please be issued to your controlling / branch offices in this regard.
+# Withdrawn
+
+Yours faithfully,
+
+(Deepak Singhal) Chief General Manager-in-Charge
+
+Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg,, Mumbai,400001 Tel No:22661602 Fax No:22705691 Email ID:cgmicdbodco@rbi.org.in

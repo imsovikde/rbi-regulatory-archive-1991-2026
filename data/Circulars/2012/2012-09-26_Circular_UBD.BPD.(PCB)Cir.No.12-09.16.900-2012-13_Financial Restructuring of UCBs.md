@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_PCB_Cir_No_12_09_16_900_2012-13"
+title: "Financial Restructuring of UCBs"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FRC260912BF.PDF"
+pdf_sha256: "389986030472e9e5967e4de452e6b523b00567663ee79f59432579df15073cc3"
+md_sha256: "d80833ed1da93721bcf0f4de15fd80755d7208d9584fbaa0f8940d6fcadb28a4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:51:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-09-26_Circular_UBD.BPD.%28PCB%29Cir.No.12-09.16.900-2012-13_Financial%20Restructuring%20of%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Restructuring of UCBs
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बक
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2012-13/224 UBD.BPD.(PCB) Cir No.12/09.16.900/2012-13 September 26, 2012
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+Madam / Dear Sir,
+
+## Financial Restructuring of UCBs
+
+Please refer to our <u>circular UBD.PCB.Cir.No.39/09.16.900/08-09 dated January 23</u>, <u>2009</u> stating that the Reserve Bank would consider financial restructuring proposals as an additional option for resolution of problem banks. The conditions under which such proposals would be considered are contained in para 3 of the above circular.
+
+**2.** The matter has been reviewed and it is advised that in partial modification of para 3
+(v) of the circular, the Reserve Bank would, henceforth, consider financial restructuring proposals submitted by UCBs, involving conversion of deposits into equity / IPDI, even if the networth of the bank does not become positive after such conversion of deposits,
+# Withdrawn
+
+provided the depositors agree voluntarily for such conversion.
+
+**3.** All the other criteria mentioned in our circular dated January 23, 2009 remain unchanged.
+**4.** Please acknowledge receipt of this circular to the Regional Office concerned.
+## Yours faithfully
+
+(A. Udgata) Chief General Manager- in – Charge
+
+शहरी बक िवभाग,कद्रीय कायार्लय, गारमट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत <u>फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in <u>बक िहदी म पत्राचार का वागत करता है —</u>
