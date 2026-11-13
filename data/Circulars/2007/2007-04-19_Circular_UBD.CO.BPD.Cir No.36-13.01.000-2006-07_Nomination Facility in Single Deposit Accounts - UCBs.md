@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2007_UBD_CO_BPD_Cir_No_36_13_01_000_2006-07"
+title: "Nomination Facility in Single Deposit Accounts - UCBs"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76884.PDF"
+pdf_sha256: "42879ecaaf40d58d63ab437a2806cb653d13a1a6f65c79d3a0d477368d58f5bd"
+md_sha256: "7b0a5978e6d7373979dc7c428492405e9738812b8fbf40fa5b4a1fb82db7bbb3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-04-19_Circular_UBD.CO.BPD.Cir%20No.36-13.01.000-2006-07_Nomination%20Facility%20in%20Single%20Deposit%20Accounts%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Nomination Facility in Single Deposit Accounts - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/330
+
+UBD.CO.BPD.Cir No: 36 /13.01.000/2006-0 April 19, 2007
+
+To The Chief Executive Officers of Primary (Urban) Cooperative Banks
+
+Dear Sir,
+
+## Nomination Facility in Single Deposit Accounts-UCBs
+
+Please refer to Para 9 of our Circular UBD.BPD.Cir No: 4/13.01.00/2005-06 dated July 14, 2005 on the above subject wherein banks were advised to give wide publicity and provide guidance to deposit account holders on the benefits of nomination facility and the survivorship clause. We feel that despite the best efforts in this regard, banks might still be opening single deposit accounts without nomination.
+
+2. In a case which came up before the Allahabad High Court, the Honourable Court has observed that "it will be most appropriate that the Reserve Bank of India issues guidelines to the effect that no Savings Account or Fixed Deposit in single name be accepted unless name of the nominee is given by the depositors. It will go a long way to serve the purpose of the innocent widows and children, who are dragged on long drawn proceedings in the Court for claiming the amount, which lawfully belongs to them".
+3. Keeping in view the above, banks are advised to generally insist that the person opening a deposit account makes a nomination. In case the person opening an account declines to fill in nomination, the bank should explain the advantages of nomination facility. If the person opening the account still does not want to nominate, the bank should Withdrawn ask him to give a specific letter to the effect that he does not want to make a nomination. In case the person opening the account declines to give such a letter, the bank should record the fact on the account opening form and proceed with opening of the account if otherwise found eligible. Under no circumstances, a bank should refuse to open an account solely on the ground that the person opening the account refused to nominate.
+4. Further, banks are advised to follow the procedure outlined above in respect of deposit accounts in the name of Sole Proprietary Concern also.
+5. Please acknowledge receipt to the Regional Office concerned.
+Yours faithfully,
+
+(A.K.Khound) Chief General Manager

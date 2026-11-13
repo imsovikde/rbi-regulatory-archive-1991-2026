@@ -1,0 +1,78 @@
+---
+doc_id: "Circulars_2007_UBD_PCB_Cir_No_35_09_09_001_06-07"
+title: "Credit Flow to Micro, Small and Medium Enterprises Sector - UCBs"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76869.PDF"
+pdf_sha256: "4f98233fb5805a6d9957b1f9493577385f210c08ef77e49b4a122fcfa0c468b5"
+md_sha256: "52e37d0e4bb5419fa0e4443cc6c5d167014e8866a73c28105dff362c4af5728a"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-04-18_Circular_UBD.PCB.Cir.No.35-09.09.001-06-07_Credit%20Flow%20to%20Micro%2C%20Small%20and%20Medium%20Enterprises%20Sector%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit Flow to Micro, Small and Medium Enterprises Sector - UCBs
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/329
+
+UBD. PCB.Cir.No 35 /09.09.001/06-07
+
+## April 18, 2007
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## Credit flow to Micro, Small and Medium Enterprises Sector-UCBs
+
+Please refer to Paragraph No.2 of our circular UBD.BPD.Cir.No.36/09.09.001/05- 06 dated March 9, 2006 wherein the definition of Small and Medium Enterprise had been defined as under :
+
+" At present, a small scale industrial unit is an undertaking in which investment in plant and machinery, does not exceed Rs.1crore, except in respect of certain specified items under hosiery, hand tools, drugs and pharmaceuticals, stationery items and sports goods, where this investment limit has been enhanced to Rs.5 crore. Units with investment in plant and machinery in excess of SSI limit and up to Rs. 10 crore may be treated as Medium Enterprises (ME)."
+
+**2**. The Government of India has since enacted the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006 on June 16, 2006 which was notified on October 2, 2006. Consistent with the notification of the Micro, Small and Medium Enterprises Development (MSMED) Act 2006, the definition of micro, small and medium enterprises engaged in manufacturing or productionWithdrawn and in providing or rendering of services is being modified and is required to be implemented by the banks alongwith other policy measures with immediate effect.
+## 3. Definition of Micro, Small and Medium Enterprises
+
+## (a) Enterprises engaged in the manufacture or production, processing or
+
+**preservation of goods** as specified below:
+
+i) A **micro enterprise** is an enterprise where investment in plant and machinery [original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O. 1722(E) dated October 5, 2006 (copy enclosed)] **does not exceed Rs. 25 lakh;**
+
+<!-- PAGE 2 -->
+
+ii) A **small enterprise** is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O. 1722(E) dated <u>October 5, 2006) is</u> **more than Rs. 25 lakh but does not exceed Rs. 5 crore;** and
+
+iii) A **medium enterprise** is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O. 1722(E) dated <u>October 5, 2006) is</u> **more than Rs.5 crore but does not exceed Rs.10 crore.**
+
+**(b) Enterprises engaged in providing or rendering of services** and whose investment in equipment (original cost excluding land and building and furniture, fittings and other items not directly related to the service rendered or as may be notified under the MSMED Act, 2006) are specified below. These will include small road & water transport operators (owning a fleet of vehicles not exceeding ten vehicles), retail trade (with credit limits not exceeding Rs.10 lakh), small business (whose original cost price of the equipment used for the purpose of business does not exceed Rs.20 lakh) and professional & self employed persons (whose borrowing limits do not exceed Rs.10 lakh of which not more than Rs.2 lakh should be for working capital requirements except in case of professionally qualified medical practitioners setting up of practice in semi-urban and rural areas, the borrowing limits should not exceed Rs.15 lakh with a sub-ceiling of Rs.3 lakh for working capital requirements).
+(i) A **micro enterprise** is an enterprise where the investment in equipment **does** **not exceed Rs. 10 lakh**;
+# Withdrawn
+
+(ii) A **small enterprise** is an enterprise where the investment in equipment is **more than Rs.10 lakh but does not exceed Rs. 2 crore**; and
+
+(iii) A **medium enterprise** is an enterprise where the investment in equipment is **more than Rs. 2 crore but does not exceed Rs. 5 crore**.
+
+**Bank’s lending to medium enterprises will not be included for the purpose of reckoning under the priority sector.**
+
+## 4. Progressive guidelines/instructions to banks on micro, small and medium enterprises
+
+Reserve Bank of India have been issuing guidelines/instructions to banks from time to time to ensure timely and smooth flow of credit to such enterprises, to minimize the incidence of sickness among them and enhance the competitiveness of such enterprises. The Boards of the banks may review the existing guidelines/instructions and formulate a comprehensive and liberal policy in respect of loans to micro, small and medium (MSME) sector and adopt the same at the earliest.
+
+<!-- PAGE 3 -->
+
+## 5. Delayed payment to micro and small enterprises
+
+The existing provisions of the Interest on Delayed Payment Act, 1998 to Small Scale and Ancillary Industrial Undertakings, have been strengthened under the MSMED Act as under:
+
+(i) The buyer to make payment on or before the date agreed on between him and the supplier in writing or, in case of no agreement before the appointed day. The agreement between seller and buyer shall not exceed more than 45 days. (ii) The buyer fails to make payment of the amount to the supplier, he shall be liable to pay compound interest with monthly rests to the supplier on the amount from the appointed day or, on the date agreed on, at three times of the Bank Rate notified by Reserve Bank. (iii) For any goods supplied or services rendered by the supplier, the buyer shall be liable to pay the interest as advised at (ii) above. (iv) In case of dispute with regard to any amount due, a reference shall be made to the Micro and Small Enterprises Facilitation Council, constituted by the respective State Government.
+**6**. As the above measures are important for healthy and balanced development of micro, small and medium enterprises sector, we advise you to initiate necessary action and issue necessary instructions to your branches/controlling offices in this regard at the earliest.
+**7.** Please acknowledge receipt to the Regional Office concerned of the Reserve Bank of India.Withdrawn
+Yours faithfully**,**
+
+(N.S.Vishwanathan) Chief General Manager-in-Charge

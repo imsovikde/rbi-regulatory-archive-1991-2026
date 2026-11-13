@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2007_DBOD_No_Ret_BC_84_12_01_001_2006-07"
+title: "Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/76897.PDF"
+pdf_sha256: "bd564757415eb37a976ca8af5cf43c6be1e15b2f741c87e9a83128d28a02faa9"
+md_sha256: "5bf811928d4cb7bc548c3db9fccad1f87b008863652155edd490305ad161967b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-04-20_Circular_DBOD.No.Ret.BC.84-12.01.001-2006-07_Maintenance%20of%20Cash%20Reserve%20Ratio%20%28CRR%29%20on%20Exempted%20Categories.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/ 332 Ref: DBOD.No. Ret.BC.84 /12.01.001/2006-07
+
+April 20, 2007 All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+Dear Sir,
+
+## Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories
+
+Please refer to our Circular RBI/2006-2007/270 DBOD.No.Ret.BC.64/12.01.001/2006-07 dated March 01, 2007 on the captioned subject. Consequent upon the notification of Section 3 of the Reserve Bank of India (Amendment) Act, 2006 as coming into force with effect from April 01,2007, the statutory minimum CRR requirement of 3 per cent of total demand and time liabilities no longer exists. It has been decided to modify the above circular accordingly, with effect from April 01, 2007. Therefore, every Scheduled Commercial Bank shall be exempted from maintaining average CRR with effect from April 01, 2007 on the following liabilities as computed under section 42 (1) of the Reserve Bank of India Act, 1934.
+
+(i) Liabilities to the banking system in India as computed under Clause (d) of the Explanation to Section 42 (1) of the RBI Act, 1934; (ii) Credit balances in ACU (US$) Accounts; (iii) Transactions in Collateralized Borrowing and Lending Obligation (CBLO) with Clearing Corporation of India. (CCIL); and (iv) Demand and Time Liabilities in respect of their Offshore Banking Units (OBUs)
+2. A copy of the relative notification DBOD. No. Ret. BC. 85 /12.01.001/2006-2007 dated April 20, 2007 is enclosed. Please acknowledge receipt.
+# Withdrawn
+
+## Yours faithfully
+
+(Malvika Sinha) General Manager

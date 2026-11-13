@@ -1,0 +1,71 @@
+---
+doc_id: "Circulars_2007_RPCD_No_RRB_DIR_10053_03_05_33_C_2006-07"
+title: "Interest Rate on Non-Resident (External) Rupee (NRE) Deposits"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77028.PDF"
+pdf_sha256: "98856fac85986bb9c571f156fbe6f64bf2e420da287a7fccb877aa11bfe279d4"
+md_sha256: "2b16c12db18ade33b0e05c59dd9453a26624306aeb75c7fb13e59f54f80a2226"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-04-26_Circular_RPCD.No.RRB.DIR.10053-03.05.33%28C%29-2006-07_Interest%20Rate%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate on Non-Resident (External) Rupee (NRE) Deposits
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/353 RPCD.No.RRB.BC.82/03.05.33(C)/2006-07 April 26, 2007
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## <u>Interest Rate on Non-Resident (External) Rupee (NRE) Deposits</u>
+
+Please refer to paragraphs 114 and 116 of the Annual Policy Statement for the year 2007-08 announced by Governor on April 24, 2007 (copy of the paragraphs enclosed).
+
+**2**. **Interest Rates on Non-Resident (External) Rupee (NRE) Deposits** On a review of the instructions contained in paragraph 2 of our circular RPCD.No.RRB.BC.48/03.05.33(C)/ 2006-07 dated February 9. 2007 on Interest Rates on Deposits held in Non-Resident (External) (NRE) Accounts, it has been decided that until further notice and with effect from close of business in India as on April 24, 2007, the interest rates on Non-Resident (External) Rupee (NRE) Term Deposits will be as under: The interest rates on fresh Non-Resident (External) Rupee (NRE) Term Deposits for one to three years maturity should not exceed the LIBOR / SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturities. (as against LIBOR / SWAP rates plus 50 basis points effective from close of business on January 31, 2007). The interest rates as
+# Withdrawn
+
+determined above for three year deposits will also be applicable in case the maturity period exceeds three years. The changes in interest rates will also apply to NRE deposits renewed after their present maturity period.
+
+3. All other instructions issued earlier shall remain unchanged. An amending directive RPCD.No.RRB.DIR.10053/03.05.33(C)/2006-07 dated April 26, 2007 is enclosed.
+4. Please acknowledge receipt to our concerned Regional Office.
+Yours faithfully,
+
+## (C.S.Murthy)
+
+## Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## RPCD.No.RRB.DIR.10053/03.05.33(C)/2006-07 April 26, 2007
+
+## <u>Interest Rate on Non-Resident (External) Rupee (NRE) Deposits</u>
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, and in partial modification of our Directive RPCD.No.RRB.Dir.7240/ 03.05.33(C)/2006-07 dated February 9, 2007 on Interest Rates on Deposits held in Non-Resident (External (NRE) Accounts, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that the Interest Rates on Non-Resident (External) Rupee (NRE) Deposits shall be as under:
+
+' With effect from close of business as on April 24, 2007, the interest rates on fresh Non-Resident (External) Rupee (NRE) Term deposits for one to three years should not exceed the LIBOR / SWAP rates, as on the last working day of the previous month, for US dollar of corresponding maturities (as against LIBOR / SWAP rates plus 50 basis points effective from close of business on January 31, 2007). The interest rates as determined above for three year deposits will also be applicable in case the maturity period exceeds three years. The changes in interest rates will also apply to NRE deposits renewed after their present maturity period.'
+
+## (V.S.Das)
+
+## Executive Director
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Paragraphs 114 & 116 of the Annual Policy Statement for the year 2007-08
+
+## Interest Rate Prescriptions
+
+114.In the context of large capital inflows and implications for liquidity and monetary management, there is a need to review the interest rate prescriptions related to NRI deposits, *viz.,* foreign currency nonresident (banks) [FCNR (B))] deposits and Non-Resident (External) Rupee Account [NR(E)RA] deposits, especially in the light of inflation and interest rate differentials between India and the rest of the world. In this context, the following measures are proposed:
+## (b) Interest Rate on NR(E)RA Deposits
+
+116.Currently, the interest rate ceiling on NR(E)RA for one to three years maturity should not exceed 50 basis points above LIBOR/SWAP rates for US dollar of corresponding maturity. In view of the prevailing monetary conditions, it is proposed:•to reduce, with immediate effect, the interest rate ceiling on NR(E)RA deposits by 50 basis points, *i.e.*, to LIBOR/SWAP rates.
+# Withdrawn

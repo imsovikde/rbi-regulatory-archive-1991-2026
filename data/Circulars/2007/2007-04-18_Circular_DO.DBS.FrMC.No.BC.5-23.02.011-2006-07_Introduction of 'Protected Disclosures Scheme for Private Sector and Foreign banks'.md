@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2007_DO_DBS_FrMC_No_BC_5_23_02_011_2006-07"
+title: "Introduction of 'Protected Disclosures Scheme for Private Sector and Foreign banks'"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76874.PDF"
+pdf_sha256: "adf0f7ee7a15bb9b3887098b16abbce0660f10554f4d1eb4c4f41b7bf3d85f98"
+md_sha256: "8e1e569d2c1d408bdbecafb178b9f9f8839981ad8bdd83a1eb85bb2308998e42"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-04-18_Circular_DO.DBS.FrMC.No.BC.5-23.02.011-2006-07_Introduction%20of%20%27Protected%20Disclosures%20Scheme%20for%20Private%20Sector%20and%20Foreign%20banks%27.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Introduction of 'Protected Disclosures Scheme for Private Sector and Foreign banks'
+
+<!-- PAGE 1 -->
+
+<u>RBI/2006-2007/328</u> DO DBS .FrMC No. BC 5 /23.02.011 /2006-07 April 18, 2007
+
+All Private Sector and Foreign Banks operating in India
+
+## Introduction of ‘Protected Disclosures Scheme <u>for Private Sector and Foreign banks'</u>
+
+The Government of India, vide its Resolution dated April 21, 2004 had authorized the Central Vigilance Commission (CVC) as the 'Designated Agency' to receive written complaints for disclosure on any allegation of corruption or misuse of office by any employee of the Central Government or of any corporation established by or under any Central Act, Government companies, societies or local authorities owned or controlled by the Central
+
+Government and recommend appropriate action.
+
+2. The Resolution mentioned above is applicable to Central Government and Public Sector enterprises including Public Sector Banks. As private sector and foreign banks are not covered by the above resolution, RBI proposed to introduce a similar scheme for these banks. The draft of the scheme was placed on the website of ReserveWithdrawnBank on January 25, 2006 inviting suggestions from all concerned, including members of public. After considering all the suggestions received by RBI, the scheme has since been finalized and it has been decided to implement the same with immediate effect. Details of the scheme are furnished in the Annex. All the private sector and foreign banks operating in India are requested to take necessary action in this regard.
+3. Please acknowledge receipt.
+## Yours faithfully
+
+(S V Raghavan) Chief General Manager
