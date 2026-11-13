@@ -1,0 +1,53 @@
+---
+doc_id: "Circulars_2011_UBD_BPD_No_41_12_05_001_2010-11"
+title: "Collection account payee cheques – Prohibition on crediting proceeds to third party accounts"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CF41290311E.PDF"
+pdf_sha256: "ee06fb409db85e0f9ffd5f41af841a1e4821bcd0ae29dcaabbe2f89c20fec4ea"
+md_sha256: "7fe4d71bff34d946bb7ba9e5b395712138c1ed29dbe91f4ac5cf5c95df1334f3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:17:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-03-29_Circular_UBD.BPD.No.41-12.05.001-2010-11_Collection%20account%20payee%20cheques%20%E2%80%93%20Prohibition%20on%20crediting%20proceeds%20to%20third%20party%20accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Collection account payee cheques – Prohibition on crediting proceeds to third party accounts
+
+<!-- PAGE 1 -->
+
+## Yeejler³e fjeJeõ yeQkeÀ
+
+**_____________________RESERVE BANK OF INDIA_________________________** <u>www.rbi.org.in</u>
+
+RBI/2010-11/452
+
+UBD. BPD. No. 41/12.05.001/2010-11 March 29, 2011
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+### Collection of account payee cheques – Prohibition on crediting proceeds to third party accounts
+
+Please refer to <u>circular UBD.BPD. Cir. No. 30/14.01.062/2005-06 dated January 30,</u> <u>2006</u> advising UCBs that they should not collect cheques crossed “account payee” for any person other than the payee constituent.
+
+2. It has been brought to our notice that since co-operative credit societies are not even
+# Withdrawn
+
+sub-members of clearing houses, members of such co-operative credit societies who do not have bank accounts face difficulties in collection of account payee cheques drawn in their name. With a view to mitigating the difficulties faced by the members of co- operative credit societies in collection of account payee cheques, it is clarified that collecting banks may consider collecting account payee cheques drawn for an amount not exceeding Rs.50,000/- to the account of their customers who are co-operative credit societies, if the payees of such cheques are the constituents of such co-operative credit societies. While collecting the cheques as aforesaid, banks should obtain a clear undertaking in writing from the co-operative credit societies concerned that, upon realization, the proceeds of the cheques will be credited only to the account of the member of the co-operative credit society who is the payee named in the cheque. This shall, however, be subject to the fulfillment of the requirements of the provisions of Negotiable Instruments Act, 1881, including Section 131 thereof.
+
+<!-- PAGE 2 -->
+
+3. The collecting bank shall subject the society to the usual KYC norms and enter into an agreement with the society that the KYC documents in respect of the society’s customers are preserved in the society's records and are available to the bank for scrutiny. The collecting banks should, however, be aware that in the event of a claim by the true owner of the cheque, the rights of the true owner of the cheque are not in any manner affected by this circular and banks will have to establish that they acted in good faith and without negligence while collecting the cheque in question.
+4. Please acknowledge receipt of this circular to the Regional Office of Urban Banks Department concerned.
+## Yours faithfully
+
+(Uma Shankar) Chief General Manager
+
+# Withdrawn
+
+Menjr yeQkeÀ fJeYeeäe, kesÀêr³e keÀe³eeõue³e, äeejceWì neGme, henuer cebfpeue, Jejuer, cegbyeFõ - 400 018 HeÀesôe: 022 - 2493 9930 - 49, HewÀkeÌme: 022 - 2497 4030 / 2492 0231, Fõ cesue: <u>cgmincubd@rbi.org.in</u> Urban Banks Department, CO, 1 Floor, Garment House, Worli, Mumbai - 400 018 Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0231, Email: <u>cgmincubd@rbi.org.in</u> <u>yeQkeÀ fnôor ceW he°ee®eej keÀe mJeeäele keÀjlee nw ~</u>

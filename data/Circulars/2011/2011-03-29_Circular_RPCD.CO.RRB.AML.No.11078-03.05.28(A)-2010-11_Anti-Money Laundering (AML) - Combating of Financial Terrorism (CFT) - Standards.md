@@ -1,0 +1,94 @@
+---
+doc_id: "Circulars_2011_RPCD_CO_RRB_AML_No_11078_03_05_28_A_2010-11"
+title: "Anti-Money Laundering (AML) / Combating of Financial Terrorism (CFT) - Standards"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRB78290311.PDF"
+pdf_sha256: "62e573c0d4731c4ac523efed496dfef1c28c8a4983dd58c41044ae4b1b1caf76"
+md_sha256: "ff97ff9c5b1c8e5b6dfd49e0719e4620d93804179fce7f4e0d8c5432fe0699ca"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:17:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-03-29_Circular_RPCD.CO.RRB.AML.No.11078-03.05.28%28A%29-2010-11_Anti-Money%20Laundering%20%28AML%29%20-%20Combating%20of%20Financial%20Terrorism%20%28CFT%29%20-%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Anti-Money Laundering (AML) / Combating of Financial Terrorism (CFT) - Standards
+
+<!-- PAGE 1 -->
+
+HRR
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/450
+
+RPCD.CO.RRB.AML.No.11078 /03.05.28 (A)/2010-11
+
+March 29, 2011
+
+The Chairmen
+
+All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+Anti-Money Laundering (AML) / Combating of Financial Terrorism (CFT) -
+
+Standards
+
+Pleaserefer toour circular RPCD.CO.RRB.AML.No.7857/03.05.28(A)/2010-11
+
+dated January 17, 2011 on risks arising from the deficiencies in AML/CFT regime
+
+of lran, Democratic People's Republic of Korea (DPRK).
+
+2. Financial Action Task Force (FATF) has issu
+
+a further Statement on February
+
+25,2011 on the subject
+
+t (copy enclg
+
+callingits members andother
+
+jurisdictions to apply counter-measu
+
+protect the  international financial
+
+dr
+
+system from the ongoing and
+
+antial moneylaunderingand terrorist
+
+financing (ML/FT) risks emanatin
+
+ran and DemocraticPeople's Republic of
+
+Korea (DPRK).
+
+s
+
+arising from the deficiencies in AML/CFT regime of these countries, while entering
+
+and other financial institutions) from or in these countries/ jurisdictions.
+
+circular letter to our Regional Office concerned.
+
+Yours faithfully
+
+(B.P.Vijayendra)
+
+Chief General Manager
+
+Encl: As above
+
+RuralPlanning&CreditDepartmentCentral Office0Floor,Central OfficeBuildingShahidBhagatSinghMargMumbai
+
+f/TelNo: 91-22-22661602 a/FaxNo:91-22-22621011/22610943/22610948 Email ID:cgmicrpcd@rbi.org.in

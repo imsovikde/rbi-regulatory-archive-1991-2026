@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2011_RPCD_CO_RRB_BC_No_56_03_05_90-A_2010-11"
+title: "Section 23 of Banking Regulation Act, 1949 - Relaxations in Branch Licensing Policy"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BC56290311E.PDF"
+pdf_sha256: "ae6cf88f25ae91f28029c816d833f0838eb6d137d8fa4bdeff4fcc19bface883"
+md_sha256: "bc6aea8dbbc2da0cae766aff2c2addd162ec252b623db919e59e97b1d374fb3e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:17:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-03-29_Circular_RPCD.CO.RRB.BC.No.56-03.05.90-A-2010-11_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20-%20Relaxations%20in%20Branch%20Licensing%20Policy.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of Banking Regulation Act, 1949 - Relaxations in Branch Licensing Policy
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बक _________________________ RESERVE BANK OF INDIA______________________ <u>ww.rbi.org.in w</u> RBI/2010-11/451
+
+RPCD.CO.RRB.BC No. 56/ 03.05.90-A/2010-11 March 29, 2011
+
+The Chairmen All Regional Rural Banks
+
+Dear Sir,
+
+## <u>Section 23 of Banking Regulation Act, 1949- Relaxations in Branch Licensing Policy</u>
+
+Please refer to our <u>circular RPCD.CO.RRB.BC No. 28/ 03.05.90-A/ 2010-11 dated November</u> <u>18, 2010</u> on the captioned subject.
+
+2. In this connection, we further advise that the RRBs eligible to open branches in Tier 3 to Tier 6 centres may do so without <u>prior</u> approval of RBI and approach the Regional Office of RBI for, post-facto automatic, issue of the licence/s. The licence should be displayed in the premise of the branch so opened for information of its customers/ public to instill confidence in them that the bank branch is authorized to conduct banking business.
+3. The details of the branches thus opened should be reported, in the format annexed, to the concerned Regional Office of RBI, the first such report being as on the quarter ended March,
+# Withdrawn
+
+2011. Yours faithfully, (B.P.Vijayendra) Chief General Manager
+## Encl.: As above (01 sheet)
+
+_____________________________________________________________________ Rural Planning & Credit Department Central Office**,** 10 th Floor Central Office Building, post box no.10014 Mumbai-400001 Tel No: 91-22-22661602Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+|||Name of the Regional Rural Bank: _______________________________||Annex||
+|---|---|---|---|---|---|
+|||Report of branches opened in Tier 3-6 Centres without prior approval of RBI consequent to relaxations- Status as at the end of quarter _________ 2011.||||
+|Sl.No|Name of the|Details of branch opened|Date of opening|Reference and|Date of|
+||Sponsor Bank|Name of the Block Village District|the branch|Date of application for licence to RBI|issuance of licence by RBI|
+|1|2|3|4|5|6|
+
+## Signature: ________________
+
+## Name: ________________
+
+Designation:________________
+
+# Withdrawn
