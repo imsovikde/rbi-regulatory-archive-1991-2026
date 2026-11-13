@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2012_7264"
+title: "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) - Risk Categorization and Updation of Customer Profiles"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CER080612RC.pdf"
+pdf_sha256: "6e965108aa5658cd1886f8b52a2635a40e2340245d15fd8a06f1ba7eec9f7f0f"
+md_sha256: "1ffcc1c686b6dccbebafb486e1c40531f38c192ae8a67ed89709bd614a301e6d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-06-08_Notification_7264_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20-%20Risk%20Categorization%20and%20Updation%20of%20Customer%20Profiles.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) - Risk Categorization and Updation of Customer Profiles
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/595 DBOD. AML.BC. No.110 /14.01.001/2011-12 June 08, 2012
+
+## The Chairmen / CEOs of all Scheduled Commercial Banks (Excluding RRBs)/ Local Area Banks
+
+Dear Sir,
+
+## Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of
+
+## Financing of Terrorism (CFT) - Risk Categorization and Updation of
+
+## Customer Profiles
+
+Please refer to our <u>circular DBOD.AML.BC.No.63 /14.01.001/2007-08 dated</u> <u>February 18, 2008</u> on KYC/AML/CFT.
+
+2. In order to have an effective implementation of KYC/AML/CFT measures, banks were advised to put in place a system of periodic review of risk categorization of customers and updation of customer identification data.
+3. In this context, a reference is invited to paragraphs 98 and 99 (extracts enclosed) of the Monetary Policy Statement 2012-13 announced on April 17, 2012 on Implementation of KYC/AML Guidelines. Banks are aware that risk categorization of customers as also compilation and periodic updation of customer profiles and monitoring and closure of alerts in accounts by banks are extremely important for effective implementation of KYC/AML/CFT measures. It is, however, observed that there are laxities in effective implementation of the Reserve Bank’s guidelines in this area, leaving banks vulnerable to operational risk. Banks should, therefore, ensure compliance with the regulatory guidelines on KYC/AML/CFT both in letter and spirit.
+4. Accordingly, banks are advised to complete the process of risk categorization and compiling/updating profiles of all of their existing customers in a time-bound manner, and in any case not later than end-March 2013. Yours faithfully, (Sudha Damodar) Chief General Manager ब�कं ग प�रचालन और वकास वभाग, क य कायालय, क य कायालय भवन, 13वीं मं�जल, शहद भगत िसंह माग, मुंबई – 400 001
+<u>फोन: 022-22705688, फ ै � स : 022-22701239, ईमेल-: cgmicdbodco@rbi.org.in, वेबसाइट: www.rbi.org.in</u> Department of Banking Operations & Development, Central Office, Central Office Building, 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22705688, Fax : 022-22701239, E-mail : <u>cgmicdbodco@rbi.org.in</u>, Website : www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+# Monetary Policy Statement 2012-13
+
+## Implementation of KYC/AML Guidelines
+
+98. Risk categorisation of customers as also compilation, periodic updation of customer profiles and monitoring and closure of alerts in accounts by banks are very important for effective implementation of KYC, anti-money laundering (AML) and combating of financing of terrorism (CFT) measures apart from helping their business development. It is, however, observed that there are laxities in effective implementation of the Reserve Bank’s guidelines on KYC/AML measures. Any weakness in the KYC/AML process would leave banks vulnerable to operational risk. Banks should, therefore, ensure compliance with the regulatory guidelines on KYC/AML in both letter and spirit. Accordingly, it is proposed: to mandate banks to complete the process of risk categorisation and compiling/updating profiles of all of their existing customers in a time-bound manner, and in any case not later than end-March 2013.
+99. Detailed guidelines in this regard will be issued separately.

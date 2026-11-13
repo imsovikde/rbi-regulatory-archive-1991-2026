@@ -1,0 +1,71 @@
+---
+doc_id: "Notifications_2012_7292"
+title: "Foreign investment in India by SEBI registered FIIs in Government securities and SEBI registered FIIs and QFIs in infrastructure debt"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CES25062012FI.pdf"
+pdf_sha256: "a2ab1943b4acd6e439f3c7bf91aed717c76448d6df769746fc732857c69811b3"
+md_sha256: "2020f081d176123415e8dc64afb43ed7d2b353a3353074e539eddcb230503bdb"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:30:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-06-25_Notification_7292_Foreign%20investment%20in%20India%20by%20SEBI%20registered%20FIIs%20in%20Government%20securities%20and%20SEBI%20registered%20FIIs%20and%20QFIs%20in%20infrastructure%20debt.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign investment in India by SEBI registered FIIs in Government securities and SEBI registered FIIs and QFIs in infrastructure debt
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2011-12/618
+
+**A. P. (DIR Series) Circular No. 135 June 25, 2012** To All Category – I Authorized Dealer banks Madam / Sir, **Foreign investment in India by SEBI registered FIIs in Government securities and SEBI registered FIIs and QFIs in infrastructure debt** Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to Schedule 5 to FEMA <u>Notification No.20/2000-RB dated May 3, 2000</u>, as amended from time to time <u>and A.P.(DIR Series) Circular No.55 dated April 29, 2011</u>, and
+<u>A.P.(DIR Series) Circular No.42 dated November 3, 2011</u> in terms of which FIIs are allowed to (i) invest in non-convertible debentures / bonds issued by Indian companies in the infrastructure sector and non-convertible debentures / bonds issued by Non-Banking Financial Companies categorized as ‘Infrastructure Finance Companies’(IFCs) by the Reserve Bank of India within the overall limit of USD 25 billion; and (ii) invest in Government securities within an overall limit of USD 15 billion; subject to terms and conditions ibid.
+2. Attention of the AD Category-I banks is also invited to <u>A.P. (DIR Series) Circular</u> <u>No.8 dated August 9, 2011</u>, in terms of which Qualified Foreign Investors (QFIs), as defined therein were allowed to invest in units of Mutual Funds debt schemes upto a limit of USD three billion within the overall limit of USD 25 billion for FII investment in non-convertible debentures / bonds issued by Indian companies in the infrastructure sector.
+3. On a review it has been decided as under :
+
+<!-- PAGE 2 -->
+
+## Government Securities
+
+i) The limit of USD 15 billion for FII investment in Government securities stands enhanced with immediate effect by USD 5 billion to USD 20 billion. It has also been decided to rationalize the conditions governing the investments under this scheme by making the residual maturity of the instrument at the time of first purchase by FIIs and SEBI registered eligible non- resident investors in IDFs and foreign Central Banks to be at least three years for a sublimit of USD 10 billion. Accordingly, the existing and new sub limits and attendant conditions are summarized as follows :
+
+|Existing position||New position||Remarks|
+|---|---|---|---|---|
+|Sub limit|Conditions Sub limit||Conditions||
+|USD 10 billion|No conditions|USD 10 billion|No conditions|No change|
+|USD 5|Residual|USD 10 billion|Residual maturity of|Increase in sub|
+|billion|maturity of at least 5 years|(existing sub limit of USD 5 billion plus the enhancement of USD 5 billion)|the instrument at the time of first purchase by FIIs to be at least three|limit and change in conditions|
+
+years
+
+Further, in order to broad base the non resident investor base for Government securities, it has also been decided to allow long term investors like Sovereign Wealth Funds (SWFs), Multilateral agencies, endowment funds, insurance funds, pension funds and foreign Central Banks to be registered with SEBI to also invest in Government securities within this enhanced limit of USD 20 billion.
+
+<!-- PAGE 3 -->
+
+## Infrastructure Debt
+
+ii) The conditions for the limit of USD 22 billion including the sub-limit of USD 5 billion with one year lock-in/residual maturity requirement and USD 10 billion for non resident investment in IDFs (which are all within the overall limit of USD 25 billion for investment in infrastructure corporate bonds) have been changed as under :
+
+- The lock-in period for investments under this limit has been uniformly reduced to one year; and
+- The residual maturity of the instrument at the time of first purchase by an FII/ eligible IDF investor would be at least fifteen months. (iii) Further, as a measure of relaxation, QFIs can now invest in those MF schemes that hold at least 25 per cent of their assets (either in debt or equity or both) in the infrastructure sector under the current USD 3 billion sub-limit for investment in mutual funds related to infrastructure. This relaxation would be subject to review.
+4. Necessary amendments to the Foreign Exchange Management (Transfer of Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide Notification No. FEMA 20/2000-RB dated May 3, 2000 are being notified separately.
+5. AD Category – I banks may bring the contents of the circular to the notice of their constituents.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar) Chief General Manager
+
+## Related Press Release
+
+**Jun 25, 2012** <u>RBI announces Further Liberalisation Measures for Capital Account</u> <u>Transactions</u>

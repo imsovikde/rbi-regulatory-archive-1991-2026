@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2012_7258"
+title: "Home Loans-Levy of fore-closure charges/pre-payment penalty"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FCS050612FL.PDF"
+pdf_sha256: "775c7931877d9887be5197cd80b10c9ed734e3982357d406adfbf81ca3a20726"
+md_sha256: "668f63cb91f95ca9c1115da557a19088bb77a1dea17ac7a6007806bbd3b67c43"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-06-05_Notification_7258_Home%20Loans-Levy%20of%20fore-closure%20charges-pre-payment%20penalty.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Home Loans-Levy of fore-closure charges/pre-payment penalty
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बैंक
+
+**RESERVE BANK OF INDIA** <u>www.rbi.org.in</u> RBI/ 2011-12/ 589 DBOD. No. Dir. BC. 107 / 13.03.00/ 2011-12 June 5, 2012
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+## Dear Sir/Madam
+
+## Home Loans-Levy of fore-closure charges/pre-payment penalty
+
+Please refer to our <u>circular DBOD. No. Dir. BC. 56/13.03.00/2006-2007 dated</u> <u>February 2, 2007</u> on reasonableness of bank charges.
+
+2. In this context, attention is invited to <u>paragraphs 81 to 83</u> of the Monetary Policy Statement 2012-13 announced on April 17, 2012 with regard to home loans on floating interest rates. The Committee on Customer Service in Banks (Chairman: M. Damodaran) had observed that foreclosure charges levied by banks on prepayment of home loans are resented upon by home loan borrowers across the board especially since banks were found to be hesitant in passing on the benefits of lower interest rates to the existing borrowers in a falling interest rate scenario. As such, foreclosure charges are seen as a restrictive practice deterring the borrowers from switching over to cheaper available source.
+3. The removal of foreclosure charges/prepayment penalty on home loans will lead to reduction in the discrimination between existing and new borrowers and competition among banks will result in finer pricing of the floating rate home loans. Though many banks have in the recent past voluntarily abolished pre-payment penalties on floating rate home loans, there is a need to ensure uniformity across the banking system. It has, therefore, been decided that banks will not be permitted to charge foreclosure charges/pre-payment penalties on home loans on floating interest rate basis, with immediate effect. Yours faithfully, (Deepak Singhal) Chief General Manager-in-Charge
+बैिकं ग पिरचालन और िवकास िवभाग, कें िीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र् मुम्बई 400001 _____________________________________________________________________________________________________ th Department of Banking Operations and Development, Central Office, 13 floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 ’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 û¾ÅÆ¬¸/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहंदी आसान है, इसका ूयोग बढ़ाइए
