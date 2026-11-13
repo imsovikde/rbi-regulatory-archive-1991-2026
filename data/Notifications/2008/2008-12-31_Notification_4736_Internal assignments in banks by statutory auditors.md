@@ -1,0 +1,27 @@
+---
+doc_id: "Notifications_2008_4736"
+title: "Internal assignments in banks by statutory auditors"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/89627.pdf"
+pdf_sha256: "f41c5863ed6fff707da32589799d12de8f48f33bb76a2167b71771bd46f7d992"
+md_sha256: "f008cfaddfc7189c6f256ecbbd4772b46a4a1f77f5ea7e6733c79394d0a2bfe9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-12-31_Notification_4736_Internal%20assignments%20in%20banks%20by%20statutory%20auditors.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Internal assignments in banks by statutory auditors
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/ 335 Ref.DBS.ARS.No.BC. 02/ 08.91.001/ 2008-09 December 31, 2008 All Scheduled Commercial Banks Dear Sir/ Madam, <u>Internal assignments in banks by statutory auditors</u> We invite a reference to RBI circular DBOD.No.App.BC.118/C.452(K)-89 dated April 22, 1989, wherein it was clarified to banks that any audit firm which has been assigned internal audit assignments during a financial year should not be considered for statutory audit assignments during that year and the following year.
+
+2. The issue relating to the internal assignments allotted to the audit firms at the time of their appointment as statutory auditors has been examined afresh and it has been decided as under: “Audit firms should not undertake statutory audit assignment while they are associated with internal assignments in the bank during the same year. In case the firms are associated with internal assignment it should be ensured that they relinquish the internal assignment before accepting the statutory audit assignment during the year.”
+3. The above instructions may be implemented with immediate effect.
+4. Please acknowledge receipt.
+Yours faithfully, **(P.S. Sharma)** General Manager

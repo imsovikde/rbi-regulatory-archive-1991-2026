@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2008_4732"
+title: "Inclusion of Issues pertaining to MSME Sector in SLBC Meetings"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/89548.pdf"
+pdf_sha256: "d860e1a068cf9904f0425c83b640ad5b927656cd2924e088516858a38b9bb3c9"
+md_sha256: "b5504892c21994466a73530a5b9de3d7f29979e3ad2ff1248776c7749016a59e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-12-30_Notification_4732_Inclusion%20of%20Issues%20pertaining%20to%20MSME%20Sector%20in%20SLBC%20Meetings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of Issues pertaining to MSME Sector in SLBC Meetings
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/334 RPCD.LBS.CO.BC.No. 79 /02.01.01/2008-09 December 30, 2008
+
+The Chairman/Executive Director, All SLBC Convenor Banks (As per mailing list)
+
+Dear Sir/ Madam,
+
+## <u>Inclusion of Issues pertaining to MSME Sector in SLBC Meetings</u>
+
+As you are aware, the State Level Bankers' Committee (SLBC) is a critical focal point for coordination among banks and agencies of the State and Central Government to ensure adequate and timely flow of credit to needy sectors.
+
+In this connection, it may be recalled that as proposed in para 157 of the Annual Policy Statement of 2007-08 (announced in April 2007), definition of Small Scale Industry and Small Business Enterprises was changed for the purpose of inclusion in priority sector in alignment with the definition adopted in the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006 and in order to improve credit delivery to MSMEs.
+
+Accordingly necessary instructions have been issued to the banks to review their institutional arrangements for delivering credit to SME Sector especially in identified clusters with a view to providing adequate and timely credit.
+
+In view of this, you are requested to:
+
+- ensure that adequate attention is paid to the financial needs of MSME Sector in your State(s)/UT(s), and
+- include the issue and discuss the problems faced by this sector in all SLBC meetings, in future.
+## Please acknowledge receipt.
+
+Yours faithfully,
+
+(Molina Chowdhury) Deputy General Manager

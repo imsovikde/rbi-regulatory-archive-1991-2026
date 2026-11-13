@@ -1,0 +1,55 @@
+---
+doc_id: "Notifications_2008_4711"
+title: "Credit delivery to Micro and Small Enterprises"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/89095.pdf"
+pdf_sha256: "f8f7fb3146e04edbbed6a684cab313709c5f312f19a0cce9b8acb60f1717628b"
+md_sha256: "4a474ec165eed1972c3439179897c9ffb9d9563b5a7931bc86c205dedfe8c519"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-12-16_Notification_4711_Credit%20delivery%20to%20Micro%20and%20Small%20Enterprises.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit delivery to Micro and Small Enterprises
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/ 324
+
+RPCD. SME&NFS.BC.No. **76** / 06.02.31(P)/2008-09 December 16, 2008
+
+To
+
+All Commercial Banks (Including RRBs and LABs)
+
+Dear Sir,
+
+## <u>Credit delivery to Micro and Small Enterprises</u>
+
+In the context of the global developments and the knock on effects in the domestic credit markets, RBI has taken several measures to enhance credit delivery to the employment intensive micro and small enterprises (MSE) sector.
+
+2. Specifically, the following initiatives for assisting this sector have been taken by RBI:
+(a) In terms of circular DBOD.No.BP.BC.58/21.04.048/2008-09 dated October 13, 2008 banks were advised to consider restructuring the dues of SMEs where warranted and also continue to disburse loans against the sanctioned limits.
+(b) Prudential guidelines on restructuring of advances have also been issued vide circular DBOD.No.BP.BC.37/21.04.132/2008-09 dated August 27, 2008 which harmonises the prudential norms over all categories of debt restructuring mechanisms (other than those restructured on account of natural calamities).
+(c) To face the problems arising out of the current economic downturn, it has been decided vide our circular DBOD.No.BP.BC.No.93/21.04.132/2008-09 dated December 8, 2008, that, as a one time measure, the second restructuring done by banks of exposures (other than exposures to commercial real estate, capital market exposures and personal / consumer loans) up to June 30, 2009, will also be eligible for exceptional regulatory treatment.
+(d) The Reserve Bank vide its circular No. MPD.BC.309/02.01.009/2008-09 dated November 3, 2008 introduced a special refinance facility under Section 17(3B) of the Reserve Bank of India Act, 1934, under which scheduled commercial banks (excluding RRBs) are provided refinance from the Reserve Bank equivalent to up to 1.0 per cent of each bank’s NDTL as on October 24, 2008 at the LAF repo rate up to a maximum period of 90 days. Banks have been encouraged to use this facility for the purpose of extending finance to micro and small enterprises vide circular No. MPD.BC.311/02.01.009/2008-09 dated November 18, 2008.
+(e) Banks have been advised to contribute an aggregate amount of Rs. 2000 crore to the Micro, Small & Medium Enterprises (MSME) (Refinance) Fund with SIDBI in advance on the basis of the banks’ projected shortfall in achievement of sub- target of 10 per cent for lending to Weaker Section category as on the last reporting Friday of March 2009.
+(f) RBI has provided a refinance limit of Rs.7000 crore to SIDBI for incremental on- lending to the sector directly and through banks, NBFCs and SFCs.
+
+<!-- PAGE 2 -->
+
+3. In order that the problems faced by the MSE sector are addressed proactively by banks and steps taken for timely restructuring, holding on operations and additional facilities etc., we advise that SLBC convenors may immediately organise special meetings of SLBC where representatives of MSE sector are invited to facilitate exchange of views and arrive at concrete measures in the interest of the sector and the banking system. The details of the RBI restructuring guidelines can be explained and disseminated in these meetings.
+4. Further, in terms of our circular IECD/5/08.12.01/2000-01 dated October 16, 2000 (reiterated on May 30, 2003, vide circular No. IECD.No.20/08.12.01/2002-03):
+(i) While sanctioning/renewing credit limits to their large corporate borrowers (i.e. borrowers enjoying working capital limits of Rs. 10 crore and above from the banking system), banks were advised to fix separate sub-limits, within the overall limits, specifically for meeting payment obligations in respect of purchases from SSIs either on cash basis or on bill basis. (ii) The size of such sub-limits to be decided taking into account the projected purchases by corporate borrowers from the SSIs during a year in relation to their total purchases and other relevant factors. (iii) Further, with a view to ensuring availability of adequate balance in the account for meeting the payment obligations to SSI units, banks were advised to ensure that sale proceeds/other receipts of the borrower are credited to this account on a pro rata basis.
+5. Banks were also advised to closely monitor the operations in the sub-limits, particularly with reference to their corporate borrowers’ dues to SSI units by ascertaining periodically from their corporate borrowers, the extent of their dues to SSI suppliers and ensuring that the corporates pay off such dues before the ‘appointed day’ /agreed date by using the balance available in the sub-limit so created. The instructions provided that if, at any time, the sub-limit is exhausted there is no bar on such payments being made from the other segment of the working capital limit. Similarly, if no payments are due to SSI suppliers, and the sub-limit remains unutilised/partly utilised, banks were free to allow their corporate borrowers to operate this limit for meeting other working capital expenses.
+6. We advise that the above instructions, *mutatis mutandis*, will be applicable to all MSEs to take care of payment obligations of large corporate borrowers to MSEs. Accordingly, ‘appointed day’ will have the meaning as defined at Sec. 2 (b) of the MSMED Act, 2006. Banks are advised to adhere to these instructions meticulously.
+7. The SLBC convenor banks may also take up, with the concerned authorities, issues which are not credit related but which are coming in the way of smooth flow of credit to the MSE sector. Every Regional Office/Zonal Office of all banks should closely monitor the flow of credit to MSEs and also institute a help desk at key centres.
+8. A report on the measures initiated by each bank may be forwarded to us by the end of December 2008.
+Yours faithfully,
+
+(G.Srinivasan) Chief General Manager-in-Charge

@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2008_4679"
+title: "3 per cent interest subvention scheme for short-term crop loans in 2008-09"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/88727.pdf"
+pdf_sha256: "628df248d6230cf19ca49f486bf4ad7a6b9545d039df4649f2393abaa9043374"
+md_sha256: "86bfb77c64b8910d915ee0c1d4c9787818c3b5394fb231604bceea9ca78850ca"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-12-03_Notification_4679_3%20per%20cent%20interest%20subvention%20scheme%20for%20short-term%20crop%20loans%20in%202008-09.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 3 per cent interest subvention scheme for short-term crop loans in 2008-09
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/ 305 RPCD.No.PLFS.BC. 72 /05.04.02/2008-09
+
+## December 3, 2008
+
+The Chairman/Managing Director All Public Sector Banks
+
+Dear Sir,
+
+## <u>3 per cent interest subvention scheme for short-term crop loans in 2008-09</u>
+
+Please refer to our circular RPCD.No.PLFS.BC. 11/05.04.02/2008-09 dated July 14, 2008 regarding continuation of 2 per cent interest subvention scheme for short-term crop loans in 2008-09**.**
+
+2. We have now been informed by Government of India, Ministry of Finance, Department of Financial Services that the Government has approved interest subvention of 3% (instead of 2% ) for the year 2008-09, as under: The subvention of 3% per annum is available to public sector banks(PSBs), rural co- operative banks and Regional Rural Banks(RRBs) on their own funds used for short term credit up to Rs 3,00,000/- provided to farmers.
+3. Accordingly, public sector banks would be eligible for interest subvention of 3% in respect of short-term production credit up to Rs.3 lakh provided to farmers for the year 2008-09. The amount of subvention is to be calculated on the amount of the crop loan disbursed from the date of disbursement/drawal up to the date of repayment or up to the date beyond which the outstanding loan becomes overdue, whichever is earlier. This subvention is available to the Banks on the condition that they make available short-term credit at the ground level at 7% p.a.
+4. All other conditions of our circular mentioned above remain unchanged.
+5. In case of RRBs and co-operatives, a separate circular has been issued by NABARD.
+Yours faithfully,
+
+(A.K.Pandey) General Manager

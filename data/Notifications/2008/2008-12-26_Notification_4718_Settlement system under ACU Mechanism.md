@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2008_4718"
+title: "Settlement system under ACU Mechanism"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/89354.pdf"
+pdf_sha256: "6ed3b2cb42f91b2245526c1f5973baa51b4b80635fba6a12f73dac0edf631be1"
+md_sha256: "0f74f2388b4205d36214e1bac997b089669370b73495e05fad98014c05d529bf"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-12-26_Notification_4718_Settlement%20system%20under%20ACU%20Mechanism.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Settlement system under ACU Mechanism
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/332 A. P. (DIR Series) Circular No. 43
+
+## December 26, 2008
+
+To,
+
+All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Settlement system under ACU Mechanism
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Article IV (b) and (c) of the General Provisions of Agreement establishing the Asian Clearing Union for channelling transactions through the Asian Clearing Union (ACU) in terms of which, the Asian Monetary Unit is denominated as “ACU Dollar” and Regulations 3 and 5 of Notification No. FEMA 14/2000-RB dated May 3, 2000 [Foreign Exchange Management (Manner of Receipt and Payment) Regulations, 2000], as amended from time to time.
+
+2. In order to facilitate transactions / settlements, effective January 01, 2009, participants in the Asian Clearing Union will have the option to settle their transactions either in ACU Dollar or in ACU Euro. Accordingly, the Asian Monetary Unit (AMU) shall be denominated as 'ACU Dollar' and 'ACU Euro' which shall be equivalent in value to one US Dollar and one Euro, respectively.
+3. Further, AD Category – I banks are allowed to open and maintain ACU Dollar and ACU Euro accounts with their correspondent banks in other participating countries. All eligible payments are required to be settled by the concerned banks through these accounts.
+4. Necessary amendments to the Foreign Exchange Management (Manner of Receipt and Payment) Regulations, 2000 and Memorandum of Procedure for Channelling Transactions through Asian Clearing Union (ACU) [Memorandum ACM] are being issued separately.
+5. AD Category – I banks may bring the contents of this circular to the notice of their constituents concerned.
+6. The directions contained in this circular has been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (D. Mishra)
+
+Chief General Manager

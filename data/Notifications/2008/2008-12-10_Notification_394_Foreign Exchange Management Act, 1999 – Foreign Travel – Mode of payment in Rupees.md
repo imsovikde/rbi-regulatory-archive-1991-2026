@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2008_394"
+title: "Foreign Exchange Management Act, 1999 – Foreign Travel – Mode of payment in Rupees"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/88825.pdf"
+pdf_sha256: "d1cd9f644468446e3074fe86197a5d0d064351615e04014735b437680b4eb607"
+md_sha256: "ed20075903111037e72f1e295081e0035de8a14caba0890c838cdfb4a8bc83ed"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-12-10_Notification_394_Foreign%20Exchange%20Management%20Act%2C%201999%20%E2%80%93%20Foreign%20Travel%20%E2%80%93%20Mode%20of%20payment%20in%20Rupees.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management Act, 1999 – Foreign Travel – Mode of payment in Rupees
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/318 A. P. (DIR Series) Circular No. 40 A. P. (FL Series) Circular No. 03
+
+## December 10, 2008
+
+To All Authorised Dealers Category I & II and Full Fledged Money Changers
+
+Madam / Sir,
+
+## Foreign Exchange Management Act, 1999 – <u>Foreign Travel – Mode of payment in Rupees</u>
+
+Attention of Authorised Dealers Category I & II and Full Fledged Money Changers (FFMCs) is invited to paragraph A.10 of the Annexure to A. P. (DIR Series) Circular No.19 dated October 30, 2000, in terms of which Authorised Dealers may accept payment in cash up to Rs. 50,000 (Rupees Fifty Thousand only) against sale of foreign exchange for travel abroad (for private visit or for any other purpose). Wherever the sale of foreign exchange exceeds the amount equivalent to Rs.50,000, the payment must be received only by a -
+
+(i) crossed cheque drawn on the applicant’s bank account or (ii) crossed cheque drawn on the bank account of the firm/company sponsoring the visit of the applicant or (iii) Banker’s cheque / Pay Order / Demand Draft.
+2. With a view to provide flexibility in the mode of payment against sale of foreign exchange, in addition to the payment by Rupees / through crossed cheque / Banker's cheque / Pay order / Demand draft, Authorised Dealers Category I & II and FFMCs may also accept the payments made by the traveller through debit cards / credit cards / prepaid cards for travel abroad (for private visit or for any other purpose) provided -
+(i) KYC / AML guidelines are complied with, (ii) sale of foreign currency / issue of foreign currency travellers' cheques is within the limits (credit / prepaid cards) prescribed by the bank, (iii) the purchaser of foreign currency / foreign currency travellers' cheque and the credit / debit / prepaid card holder is one and the same person.
+
+<!-- PAGE 2 -->
+
+3. Authorised Dealers Category I & II and Full Fledged Money Changers may bring the contents of the circular to the notice of their constituents and customers concerned.
+4. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+Chief General Manager-in-Charge
