@@ -1,0 +1,82 @@
+---
+doc_id: "Notifications_2026_13581"
+title: "Special Rupee Vostro Accounts (SRVAs)"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI2033D4B28F9A3A54B548FF6B13A8E8F5355.PDF"
+pdf_sha256: "09f1adf5ad4902e303ad12069c56b9e03314c827210f166ac0801992b1607550"
+md_sha256: "f258bfe9cc73e48307ff9bb9d2356a29507edae46fc7a949d6c801e5bcb18160"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-17_Notification_13581_Special%20Rupee%20Vostro%20Accounts%20%28SRVAs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Special Rupee Vostro Accounts (SRVAs)
+
+<!-- PAGE 1 -->
+
+**बेटी बचाओ** **बेटी पढ़ाओ**
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2026-27/203
+
+A.P. (DIR Series) Circular No.19 July 17, 2026 To,
+## All Authorised Dealer Category-I banks
+
+Madam/Sir
+
+## <u>Special Rupee Vostro Accounts (SRVAs)</u>
+
+Attention of authorised dealer banks is invited to the following circulars on International Trade Settlement in Indian Rupees (INR): <u>A.P. (DIR Series) Circular No. 10 dated July</u> <u>11, 2022</u>, <u>Circular No. 08 dated November 17, 2023</u>, <u>Circular No. 11 dated June 11,</u> <u>2024</u>, <u>A.P. (DIR Series) Circular No. 08 dated August 05, 2025</u>, and <u>A.P. (DIR Series)</u> <u>Circular No. 14 dated October 03, 2025</u>.
+
+2. On a review, it has been decided to consolidate and rationalise the instructions contained in above referred circulars. Accordingly, this circular is being issued in supersession of the above referred circulars. The changes flowing from the above circulars are indicated in <u>Annex</u>.
+3. AD banks in India may open Special Rupee Vostro Accounts (SRVAs) of its branch outside India or a bank resident outside India, in terms of Regulation 7(1) of <u>Foreign</u> <u>Exchange Management (Deposit) Regulations, 2016</u>.
+4. The settlement of cross-border trade transactions through SRVA is an additional arrangement for invoicing, payment and settlement of exports and imports in INR. Additionally, all permissible capital and current account transactions under FEMA may be settled through the SRVA. Further, AD banks maintaining SRVA are also permitted to open additional current account for exporter/importer, exclusively for settlement of export/import transactions.
+िवदेशी मुद्रा िवभाग**,** कें द्रीय कायार्लय**,** 5वींमंिजल**,** अमर भवन**,** सर पी**.**एम**.**रोड**,** फोटर् मुंबई**-**400 001 Foreign Exchange Department, Central Office, 5thFloor, Amar Building, Sir P.M.Road, Fort, Mumbai – 400 001 <u>Telephone: (91-22) 22603000, Email Id – fedcotrade@rbi.org.in</u> **िहंदी आसान है**, **इसका प्रयोग बढाइए**
+
+<!-- PAGE 2 -->
+
+5. SRVA may be funded by way of inward remittances or transfer from other repatriable INR accounts in terms of <u>Foreign Exchange Management (Deposit)</u> <u>Regulations, 2016</u>. The proceeds accrued through permissible current and capital account transactions under FEMA can also be held in the SRVA.
+6. Investments in debt instruments out of the balances held in the SRVA shall be governed by the <u>Master Direction-Reserve Bank of India (Non-resident Investment</u> <u>in Debt Instruments) Directions, 2025</u>, as amended from time to time.
+7. Documentation and reporting of cross-border transactions through SRVA shall be done in terms of the extant guidelines under FEMA 1999, issued from time to time. The details of SRVA held by overseas correspondent banks with AD banks in India may be updated periodically in the ‘SRVA directory’, published by FEDAI.
+8**.** The above instructions shall come into force with immediate effect and AD banks may bring the contents of this Circular to the notice of their constituents and customers concerned.
+9**.** The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(N. Senthil Kumar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Annex-List of changes/consolidation undertaken in the present circular dated July 17, 2026
+
+|Sl. No.|A.P. (DIR Series) Circular No. 10 dated July 11, 2022|Corresponding para of this circular|
+|---|---|---|
+|1.|Para 1 - Introduction Para 2 - Broad framework for cross Subsumed in Para 4. border transactions; Para 3 - Procedure for opening of SRVA Subsumed in Para 3 & 4. and settlement in INR|Subsumed in Para 4.|
+|2.|Para 5 - Advance against exports Para 6 - Setting-off export receivables Para 7 - Bank Guarantee|Not part of this circular. (AD bank may be guided by extant instructions as amended from time to time.)|
+|3.|Para 8 - Use of surplus balance|Subsumed in Para 4 & 6.|
+|4.|Para 4 - Documentation Para 9 - Reporting Requirement|Subsumed in Para 7.|
+|5.|Para 10 - Approval Process|Superseded vide A.P. (DIR Series) Circular No. 08 dated August 5, 2025.|
+|6.|No mention|New addition: Publication in SRVA Directory on FEDAI Website.|
+
+## <u>Circular No. 08 dated November 17,</u>
+
+## Sl. Corresponding para of this
+
+<u>2023</u> **and** **No. circular** <u>Circular No. 11 dated June 11, 2024</u>
+
+7. Opening of additional current account for Subsumed in Para 4. exporter and importer
+## Sl. <u>A.P. (DIR Series) Circular No. 08</u> Corresponding para of this
+
+## No. <u>dated August 05, 2025</u> circular
+
+8. Opening of SRVA without referring to Subsumed in Para 3. RBI for approval
+## Sl. <u>A.P. (DIR Series) Circular No. 14</u> Corresponding para of this
+
+## No. <u>dated October 03, 2025</u> circular
+
+9. Investment of surplus in NCDs, bonds Subsumed in Para 6. and CPs

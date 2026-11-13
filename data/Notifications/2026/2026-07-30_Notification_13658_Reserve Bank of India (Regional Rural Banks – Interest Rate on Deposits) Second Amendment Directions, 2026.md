@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2026_13658"
+title: "Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Second Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT216F2E56A6B19F14E11AB9126CBC94C1D8A.PDF"
+pdf_sha256: "82c9ad9407cba71af4364bdba5de5ecb3d70626cf84e5fca218f4c51da25708a"
+md_sha256: "0b6cf43ed5d77fa7f78425e0fe0978c6eb49b4d8a6573bfafe238dd87e0c2083"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-30_Notification_13658_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Interest%20Rate%20on%20Deposits%29%20Second%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Second Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+<u>RESERVE BANK OF INDIA</u>
+
+RBI/2026-27/216 DOR.SOG(SPE).REC.180/13.03.00/2026-27 July 30, 2026
+
+## Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits)
+
+## Second Amendment Directions, 2026
+
+Please refer to the <u>Reserve Bank of India (Regional Rural Banks – Interest Rate on</u> <u>Deposits) Directions, 2025</u> (hereinafter referred to as ‘Directions’), dated November 28, 2025. On a review, it has been decided to issue revised instructions pertaining to disclosure of interest rates on deposits.
+
+2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking Regulation Act,1949 and all other laws enabling the Reserve Bank India (RBI) in this regard, the RBI, being satisfied that it is necessary and expedient in public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. These Amendment Directions shall be called the Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Second Amendment Directions, 2026.
+4. These Amendment Directions shall come into effect from October 01, 2026.
+5. These Amendment Directions shall modify the Directions, as under:
+(1) In **Chapter II** on ‘**General Guidelines (Interest Rate Framework)**’, the **paragraph** **6(3)** shall be **substituted** by the following, namely: *Interest rates payable on deposits, including bulk deposits, shall be strictly as* *per the schedule of interest rates disclosed in advance on the bank’s website.* *However, interest rates payable on bulk deposits shall be disclosed on the* *bank’s website at 10:00 am with a grace time of 10 minutes*, *latest by 10:10 am,* o*n each business day.*
+
+<!-- PAGE 2 -->
+
+(1)(a) In **Chapter II** on ‘**General Guidelines (Interest Rate Framework)**’, the **paragraph 6(2)** shall be **substituted** by the following, namely: *The interest rates offered on deposits, including bulk deposits, shall be uniform* *across all branches and for all customers and there shall be no discrimination* *in the matter of interest paid on the deposits, between one deposit and another* *deposit of similar amount, accepted on the same date, at any of its offices.* (Dr. Sudarsana Sahoo) Chief General Manager
