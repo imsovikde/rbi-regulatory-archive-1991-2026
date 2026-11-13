@@ -1,0 +1,91 @@
+---
+doc_id: "Circulars_2012_DNBS_PD_CC_No_299_03_10_001_2012-13"
+title: "Revised Capital Adequacy Framework for Off-Balance sheet items for NBFCs - Clarifications"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC299N010812F.PDF"
+pdf_sha256: "2b45a520a760386534d8162562b0cf0b97d0e52518ee9b13643ac436b52ca542"
+md_sha256: "cb109ef102292c9e83985444161bce1447affe2d4b5c13e69611103494a72d22"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:49:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-08-01_Circular_DNBS.PD.CC.No.299-03.10.001-2012-13_Revised%20Capital%20Adequacy%20Framework%20for%20Off-Balance%20sheet%20items%20for%20NBFCs%20-%20Clarifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revised Capital Adequacy Framework for Off-Balance sheet items for NBFCs - Clarifications
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/154
+
+## DNBS.PD.CC No. 299 /03.10.001/2012-13 August 1, 2012
+
+To
+
+## All NBFCs (excluding RNBCs)
+
+Dear Sir,
+
+## Revised Capital Adequacy Framework for Off-Balance sheet items for NBFCs -Clarifications
+
+The Bank had issued the <u>circular DNBS.CC.PD.No.252/03.10.01/2011-12 dated Dec</u> <u>26, 2011</u> along with notifications DNBS.PD.No.237 and 238/CGM(US)-2011 on the captioned subject. Certain clarifications are issued with regard to the treatment of undrawn / partially undrawn fund-based facility, as mentioned in the enclosed amending notifications.
+
+# Withdrawn
+
+2. NBFCs are advised to comply with the instructions contained in the amending notifications.
+## Yours faithfully
+
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+**RESERVE BANK OF INDIA** **DEPARTMENT OF NON-BANKING SUPERVISION** **CENTRAL OFFICE** **CENTRE I, WORLD TRADE CENTRE,** **CUFFE PARADE, COLABA,** **MUMBAI, 400 005.** **Notification No.DNBS(PD). 249 /CGM(US)-2012 dated August 1, 2012**
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Non- Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 (hereinafter referred to as the said Directions), contained in <u>Notification No.</u> <u>DNBS.193/DG(VL)-2007 dated February 22, 2007</u>, in exercise of the powers conferred by <u>Section 45JA</u> of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows, namely -
+
+1. In Explanation No. (2) of para 16 (2), under the title, ‘Non-market-related off- balance sheet items’ the item no. x viz; ‘similar commitments with an original maturity up to one year, or which can be unconditionally cancelled at any time’ may be replaced
+# Withdrawn
+
+with the following :
+
+‘Similar commitments that are unconditionally cancellable at any time by the NBFC without prior notice or that effectively provide for automatic cancellation due to deterioration in a borrower’s credit worthiness’.
+
+2. In the note no. ii under ‘Non-market-related off- balance sheet items’, the following may be added after the last sentence, ‘**For example:** A term loan of Rs. 700 cr is sanctioned for a large project which can be drawn down in stages over a three year period. The terms of sanction allow draw down in three stages – Rs. 150 cr in Stage I, Rs. 200 cr in Stage II and Rs. 350 cr in Stage III, where the borrower needs the NBFC’s explicit approval for draw down under
+
+<!-- PAGE 3 -->
+
+Stages II and III after completion of certain formalities. If the borrower has drawn already Rs. 50 cr under Stage I, then the undrawn portion would be computed with reference to Stage I alone i.e., it will be Rs.100 cr. If Stage I is scheduled to be completed within one year, the CCF will be 20 percent and if it is more than one year then the applicable CCF will be 50 per cent’.
+
+## (Uma Subramaniam)
+
+Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+**RESERVE BANK OF INDIA** **DEPARTMENT OF NON-BANKING SUPERVISION** **CENTRAL OFFICE** **CENTRE I, WORLD TRADE CENTRE,** **CUFFE PARADE, COLABA,** **MUMBAI, 400 005.** **Notification No.DNBS(PD).248 / CGM(US)-2012 dated August 1, 2012**
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 (hereinafter referred to as the said Directions), contained in <u>Notification No.</u> <u>DNBS.192/DG(VL)-2007 dated February 22, 2007</u>, in exercise of the powers conferred by <u>Section 45JA</u> of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows, namely -
+
+1. In Explanation No. (2) of para 16 (2), under the title, ‘Non-market-related off- balance sheet items’ the item no. x, viz; ‘similar commitments with an original maturity upto one year, or which can be unconditionally cancelled at any time’ may be replaced
+# Withdrawn
+
+with the following :
+
+‘Similar commitments that are unconditionally cancellable at any time by the NBFC without prior notice or that effectively provide for automatic cancellation due to deterioration in a borrower’s credit worthiness’.
+
+2. In the note no. ii under ‘Non-market-related off- balance sheet items’, the following may be added after the last sentence, ‘**For example:** A term loan of Rs. 700 cr is sanctioned for a large project which can be drawn down in stages over a three year period. The terms of sanction allow draw down in three stages – Rs. 150 cr in Stage I, Rs. 200 cr in Stage II and Rs. 350 cr in Stage III, where the borrower needs the NBFC’s explicit approval for draw down under
+
+<!-- PAGE 5 -->
+
+Stages II and III after completion of certain formalities. If the borrower has drawn already Rs. 50 cr under Stage I, then the undrawn portion would be computed with reference to Stage I alone i.e., it will be Rs.100 cr. If Stage I is scheduled to be completed within one year, the CCF will be 20 percent and if it is more than one year then the applicable CCF will be 50 per cent’.
+
+## (Uma Subramaniam)
+
+Chief General Manager-in-Charge
+
+# Withdrawn

@@ -1,0 +1,94 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_AD_Cir_No_1_14_01_062_2012-13"
+title: "Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards - Primary (Urban) Co-operative Banks"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UBD030812AC.PDF"
+pdf_sha256: "9d75c0df792eb4f9b53c48c65c0124e66432bc7906a17c018e25571f30bd3118"
+md_sha256: "c6952cdc484d0ae13f1e3302eee6bb52d50b8513753741ce8241118573c8b043"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:50:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-08-03_Circular_UBD.BPD%28AD%29Cir.No.1-14.01.062-2012-13_Anti-Money%20Laundering%20%28AML%29%20-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20-%20Standards%20-%20Primary%20%28Urban%29%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards - Primary (Urban) Co-operative Banks
+
+<!-- PAGE 1 -->
+
+y
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/160
+
+UBD.BPD (AD) Cir.No.1 /14.01.062/2012-13
+
+August 3, 2012
+
+TheChiefExecutiveOfficerof
+
+All AD CategoryI Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT）-
+
+Standards-Primary(Urban)Co-operativeBanks
+
+Please refer to our circular UBD.CO.BPD (AD) Cir.No.6/14.01.062/2011-12 dated April 20,
+
+2012onrisks arising from the deficiencies inAML/CFTregime ofcertain jurisdictions.
+
+2. Financial Action Task Force (FATF) has updated its Statement on the subject and
+
+document “Improving Global AML/CFT Compliance: on-going process' on June 22, 2012
+
+(copy enclosed). The statement/document can be accessed from the following URL also:
+
+http://www.fatf-gafi.org/documents/repository/fatfpublicstatement-22june2012.html
+
+_and
+
+http://www.fatf-gafi.org/topics/high-riskandnon-
+
+cooperativejurisdictions/documents/improvingglobalarlcftcomplianceon-goingprocess-
+
+22june2012.html
+
+3. Primary (Urban) Co-operative Banks a
+
+ordingly advised to consider the information
+
+contained in the enclosed Statement.
+
+4. This, however, does not preclude
+
+rimary (Urban) Co-operative Banks from legitimate
+
+trade and business transactions with these countries and jurisdictions.
+
+concerned.
+
+Yours faithfully,
+
+(P. K. Arora)
+
+General Manager
+
+Encl: As above
+
+,,,,,-400018
+
+: 022 - 2493 9930 - 49, q: 022 - 2497 4030 / 2492 0231,α: rbiubdc0@rbi.
+
+org.in
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018
+
+Phone: 022 - 2493 9930 - 49,Fax: 022 - 2497 4030/2492 0 231, Email: rbiubdc0@rbi. 0rg.in

@@ -1,0 +1,53 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RRB_BC_No_22_03_05_28_B_2012-13"
+title: "Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio (SLR)"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRBS082012LR.PDF"
+pdf_sha256: "33331e48bfdaf75e58d2adc22a514104ca8411865c5c7f573a7d12f6780985f0"
+md_sha256: "c9bfa49f55196cb07f2a0ea891c947e80fde5ab82ad5b53babadbec49a9627b1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:49:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-08-01_Circular_RPCD.CO.RRB.BC.No.22-03.05.28%28B%29-2012-13_Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio (SLR)
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **-----------------RESERVE BANK OF INDIA------------------ www.rbi.org.in**
+
+RBI/ 2012-13/159 RPCD.CO.RRB. BC. No.22 / 03.05.28(B)/ 2012-13 August 01, 2012
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+**Section 24 of the Banking Regulation Act, 1949**-**Maintenance of Statutory** **Liquidity Ratio (SLR)**
+
+Please refer to our <u>circular RPCD. CO. RRB. BC. No. 43 / 03.05.28(B)/ 2010-11 dated</u> <u>December 27, 2010</u>, on the captioned subject.
+
+2. As announced in the <u>First-Quarter Review of the Monetary Policy 2012-13 on July 31,</u> <u>2012</u>, it has been decided to reduce the Statutory Liquidity Ratio (SLR) for Regional Rural Banks from 24 per cent of their Net Demand and Time Liabilities (NDTL) to 23 per cent with effect from the fortnight beginning August 11, 2012.
+3. A copy of the relative notification RPCD. CO. RRB. No.21/ 03.05.28(B) / 2012-13 dated August 01, 2012 is enclosed
+# Withdrawn
+
+4. Please acknowledge receipt. Yours faithfully, (C.D.Srinivasan) Chief General Manager Encl.: As above
+मामीण आयोजना और ऋण वभाग,क िय कायालय, 10वीं मंज़ल,क िय कायालय ब��डंग,शहद भगत िसंह माग,पो.बा.सं.10014,मुंबई 400 001 टेलीफोन:022-22601000 फै स: 91-22-22621011/22619048 ईमेल: cgminrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001 <u>Tel:022-22601000</u> Fax:91-22-22621011/22619048 E-mail :cgminrpcd@rbi.org.in <u>ह</u>ं<u>द आसान है, इसका ूयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+RPCD.CO.RRB. No. 21 / 03.05.28(B)/ 2012-13 August 1, 2012
+
+## NOTIFICATION
+
+In exercise of the powers conferred by sub-section (2A) of Section 24 of the Banking Regulation Act, 1949 (10 of 1949) and, in partial modification of the notification <u>RPCD.</u> <u>CO. RRB. No. 42/03.05.28(B)/ 2010-11 dated December 27, 2010</u>, the Reserve Bank of India hereby specifies that with effect from the fortnight beginning August 11, 2012, every Regional Rural Bank shall maintain in India assets as detailed in notification RPCD. CO. RRB. No. 35/ 03.05.28(B)/ 2010-11 dated October 29, 2009, the value of which shall not at the close of business of any day be less than 23 per cent of the total net demand and time liabilities in India as on the last Friday of the second preceding fortnight.
+
+### (V.K.Sharma)
+
+### Executive Director
+
+# Withdrawn

@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2012_DBOD_DIR_No_34_04_02_001_2012-13"
+title: "Advances - Out of pocket expenses"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/OPI020812IBA.PDF"
+pdf_sha256: "2409281c42fa82009afc11ab83b7557a9eaba1718b437ef24f8eed6a1c468bab"
+md_sha256: "2ba4e5b72990f32c036e0d9a27a0527e2c18ea2388565e810efb47389fe7a39e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:49:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-08-01_Circular_DBOD.DIR.No.34-04.02.001-2012-13_Advances%20-%20Out%20of%20pocket%20expenses.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances - Out of pocket expenses
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बक
+
+## ____________________________ RESERVE BANK OF INDIA___________________________ <u>www.rbi.org.in</u>
+
+## RBI/2012-13/155 DBOD.DIR.No.34/04.02.001/2012-13 August 1, 2012
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+## Dear Sir / Madam
+
+## Advances-Out of pocket expenses
+
+Please refer to the instructions contained in para 3 of our circular DBOD.No. Dir.BC. 131/C.96-97 dated November 15, 1976 and Note (i) of <u>Annex</u> to RBI Directive DBOD. DIR.BC.No.51/
+
+04.02.001/2011-12 dated November 15, 2011 on the captioned subject.
+2. Hitherto, Indian Banks’ Association (IBA) had been prescribing out of pocket expenses for member banks. IBA has since reviewed the matter in consultation with member banks and it has been observed that out of pocket expenses are linked to actual costs incurred by banks towards specific activities like courier / dispatch of documents, telecommunications and Swift operations and that the rates vary depending on the agencies involved as well as the efficacy of services, which differ from bank to bank.
+# Withdrawn
+
+3. It has, therefore, been decided that the practice of IBA prescribing out of pocket expenses on behalf of member banks should be done away with and the decision to recover out of pocket expenses should be left to the individual banks. Banks are advised that while recovering out of pocket expenses, they should ensure that the charges are reasonable and on an actual cost basis.
+## Yours faithfully
+
+(Sudha Damodar) Chief General Manager
+
+बैिकं ग पिरचालन और िवकास िवभाग, कद्रीय कायार्लय, 13 माला, शहीद भगतिस ंह मागर्, मबई ु 400001 _______________________________________________________________________________________________________________________ th Department of Banking Operations and Development, Central Office, 13 floor, NCOB, Shahid Bhagat Singh Marg, Mumbai - 400001 ’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 û¾ÅÆ¬¸/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहदीं आसान है, इसका प्रयोग बढ़ाइए

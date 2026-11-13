@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_Cir_No_7_13_01_000_2012-13"
+title: "Interest Rate on Deposits"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UB7I060912SF.PDF"
+pdf_sha256: "ba04db743e2a947aa08ff2bfa8cc439768740a060578e27184bb183fd003521f"
+md_sha256: "0d2dea85c948dc3a3b09ebe3e6aead0bafa43fc5ead13d26c6ee25cb6748e436"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:50:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-09-06_Circular_UBD.BPD.Cir.No.7-13.01.000-2012-13_Interest%20Rate%20on%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate on Deposits
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बक
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+RBI/2012-13/192
+
+## UBD.BPD.Cir.No. 7/13.01.000//2012-13 September 6, 2012
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+## Dear Sir/Madam
+
+## <u>Interest Rate on Deposits</u>
+
+Please refer to our circular UBD.No.DS.PCB.CIR.53/13.01.00/97-98 dated April 29, 1998 whereby banks were permitted to offer, at their discretion, differential rates of interest on single term deposits of ` 15 lakh and above, subject to the condition that the schedule of interest rates payable on deposits, including deposits on which differential interest is paid, is disclosed in advance and not subject to negotiation between the depositor and the bank.
+
+2. In this connection, attention is invited to paragraphs 84 and 85 of the Monetary Policy Statement 2012-13 announced on April 17, 2012 (extract enclosed) on Variation in Interest Rates on Deposits. It has been observed that there are wide variations in the interest rates offered by banks on single term deposits of ` 15 lakh and above and those offered on other deposits (i.e. deposits less than ` 15 lakh) of corresponding maturities. Further, banks are offering significantly different raWithdrawntes on deposits with very little difference in maturities suggesting inadequate liquidity management systems and pricing methodologies. Urban Co-operative Banks are, therefore, advised to put in place a Board approved transparent policy on pricing of liabilities. The Board/ALCO should ensure that the variation in interest rates on single term deposits of ` 15 lakh and above and other term deposits (i.e. deposits less than ` 15 lakh) is minimal for corresponding maturities. Yours faithfully, (A.Udgata) Chief General Manager-in-Charge
+## Encl: As above.
+
+शहरी बक िवभाग,कद्रीय कायार्लय, गारमट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत <u>फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in
+
+<u>बक िहदी म पत्राचार का वागत करता है —</u>
+
+<!-- PAGE 2 -->
+
+## <u>Extract of of Monetary Policy Statement for the year 2012-13</u>
+
+## Variation in Interest Rates on Deposits to be Minimal
+
+84. The Reserve Bank has stipulated, inter alia, that banks should not discriminate in the matter of interest rate paid on deposits, except in respect of fixed deposit schemes specifically meant for resident Indian senior citizens and single term deposits of ` 1.5 million and above. However, it is observed that there are wide variations in banks’ retail and bulk deposits rates, making it unfair to retail depositors. Further, banks are offering significantly different rates on deposits with very little difference in maturities. This suggests inadequate liquidity management system and inadequate pricing methodologies. It is, therefore, advised that:
+- banks should have a board approved transparent policy on pricing of liabilities and they should also ensure that variation in interest rates on single term deposits of `1.5 million and above and other term deposits is minimal.
+85. Detailed guidelines in this regard will be issued separately.
+# Withdrawn
