@@ -61,7 +61,7 @@ jobs:
             exit 0
           fi
           git commit -S -m "chore: archive update $(date -u +'%Y-%m-%d')"
-          git push
+          git push origin HEAD:main
 
       - name: Confirm signing key
         run: |
