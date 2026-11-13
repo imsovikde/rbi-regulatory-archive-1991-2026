@@ -1,0 +1,74 @@
+---
+doc_id: "Circulars_2015_DNBS_PD_CC_No_03_03_02_02_2015-16"
+title: "Online Returns to be submitted by NBFCs - Revised"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR2469D1C8109C62C46DF98D61F3924FE49CF.PDF"
+pdf_sha256: "985ce0a276c08c389d3dc03b67dfb94aee97ade35e786c204ffebdffd93d21b3"
+md_sha256: "650aa5a938568d346a287cd559e3a14d4540dfdcc421efcc9c12b0fa459a859a"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-11-26_Circular_DNBS.%28PD%29.CC.No.03-03.02.02-2015-16_Online%20Returns%20to%20be%20submitted%20by%20NBFCs%20-%20Revised.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Online Returns to be submitted by NBFCs - Revised
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/246
+
+|DNBS (PD).CC.No.03/03.02.02/2015-16|
+|---|
+|November 26, 2015|
+|All Non Banking Financial Companies|
+|Dear Sir,|
+|Online Returns to be submitted by NBFCs- Revised|
+|01, 2015 on Returns to be submitted by NBFCs.|
+
+Please refer to our Master Circular no DNBS.IT.CC.No.01/24.01.191/2015-16 dated July
+
+2. It has been decided to rationalize the returns’ to be submitted online through COSMOS as below:
+(a) Change in periodicity of NDSI-500cr and ALM-1 returns from monthly to quarterly
+(b) Discontinuation of NBS- 6 return as the same information is received through NBS- 1 return.
+3. We also notice that some of the NBFCs are not submitting correct branch information return as per our guidelines <u>DNBS (PD).CC.No.355/03.02.02/2013-14 dated September</u> <u>3, 2013</u>. To maintain uniformity and avoid misunderstanding, it has been decided that the concerned NBFCs should report the stock data of branches as at end of every
+# Withdrawn
+
+quarter rather than providing incremental number of branches during the quarter.
+
+4. The revised list of the returns to submitted by the NBFC is given in Annex.
+Yours faithfully, Sd/- (Dr. Sathyan David) Chief General Manager
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Reporting dates and Due dates for Returns to be submitted by NBFC through COSMOS system
+
+|Sr No|Name of the Return|Periodicity|Referenc e Date|Repo rting Time|Due on|Purpose|Who are supposed to file the Return|
+|---|---|---|---|---|---|---|---|
+|1.|NBS1|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days|15th April/ 15th July/ 15th Oct/ 15th Jan|Details of Assets And Liabilities|NBFCs-D,|
+|2.|NBS2|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days|15th April/ 15th July/ 15th Oct/ 15th Jan|Capital Funds, Risk Assets, Asset Classification etc|NBFCs-D and RNBCs|
+|3.|NBS3|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days|15th April/ 15th July/ 15th Oct/ 15th Jan|Statutory Liquid Assets|NBFCs-D|
+|4.|NBS4|Yearly|31st March|30 days|30th April Withdrawn NBS-6 return has been discontinued|Deposits, Other Liabilities|Details of Public NBFCs holding public deposits whose application for Certificate of Registration under Section 45-IA of RBI Act, 1934 have been rejected|
+|5.|NBS7|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days|15th April/ 15th July/ 15th Oct/ 15th Jan|Capital Funds, Risk Assets, Asset Classification etc.|NBFCs-ND-SI|
+|6.|ALM (NBFC-D)|Half yearly|31st March/ 30th Sept|30 days|30th April/ 30th Oct|Structural Liquidity, Short- term dynamic liquidity, Interest Rate sensitivity etc.|NBFCs-D having public deposit of Rs.20 crore and above and/or asset size of Rs.100 crore and above|
+|7.|NBFCs- ND-SI 500cr|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days|15th April/ 15th July/ 15th Oct/ 15th Jan|Details of Assets And Liabilities|NBFCs-ND-SI|
+
+<!-- PAGE 3 -->
+
+|8.|SC/RC|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days||15th April/ 15th July/ 15th Oct/ 15th Jan||Details of Assets acquired/securiti zed/reconstruct ed||SC/RC|
+|---|---|---|---|---|---|---|---|---|---|---|
+|9.|ALM-1|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days||15th April/ 15th July/ 15th Oct/ 15th Jan||Short Term Dynamic Liquidity||NBFCs-ND-SI|
+|10.|ALM-2 & 3|Half yearly|31st March/ 30th Sept|30 days|th 30 30|April/ th Oct||Structural Liquidity/ Interest Rate Sensitivity||NBFCs-ND-SI|
+|11.|ALM- (NBFC- ND-SI)|Annual|31st March|15 days||15th April||Disclosure in Balance Sheet. CRAR, Exp to Real Estate,||NBFCs-ND-SI|
+|12.|NBS-8|Annual|31st March|60 days|30|th May||Details of Assets And Liabilities||NBFCs-ND having asset-size of Rs.100- 500 crore.|
+|13.|NBS-9|Annual|31st March|60 days|30|th May||Details of Assets And Liabilities||All NBFCs-ND having asset-size of below Rs 100cr.|
+|14.|Branch Info return|Quarterly|31st March/ 30th June/ 30th Sept/ 31st Dec|15 days||15th April/ 15th July/ 15th Oct/ 15th Jan||Branch Details||NBFCs-ND-SI & NBFCs-D|
+|15.|NBS1A|Annual|31st March|6 month s|30 Withdrawn|th Sept||Details of Assets And Liabilities||RNBCs|
+|16.|NBS3A|Quarterly RNBC-> Residuary Non-Banking Company; NBFCs-ND -> Non-Deposit taking NBFCs. and having asset sizes of Rs.500 crore and above|31st March/ 30th June/ 30th Sept/ 31st Dec (also termed as Systemically Important NBFCs or in short NBFCs-ND-SI) SC/RC -> Securitisation Companies/ Reconstruction Companies|15 days|NBFCs-ND-SI -> Non-Banking Financial Companies (NBFCs) not accepting/holding public deposits|15th April/ 15th July/ 15th Oct/ 15th Jan||Statutory Liquid Assets||RNBCs|
+
+Note: NBFCs-D -> Deposit taking Non-Banking Financial Companies (NBFCs);

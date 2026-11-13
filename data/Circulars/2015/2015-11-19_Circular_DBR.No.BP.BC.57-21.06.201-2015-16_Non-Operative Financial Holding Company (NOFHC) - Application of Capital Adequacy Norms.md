@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2015_DBR_No_BP_BC_57_21_06_201_2015-16"
+title: "Non-Operative Financial Holding Company (NOFHC) - Application of Capital Adequacy Norms"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT238C97CCAAF75CF40B2830FD3DBB8338BD8.PDF"
+pdf_sha256: "0cbb3d3258d80696e4c849d35c5575a43a36b645b098a814cff92aae24f6f763"
+md_sha256: "8c5b3e5c8f327640bb4b03182d5899317b635cde0081d4d8d2fd5adec8314781"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-11-19_Circular_DBR.No.BP.BC.57-21.06.201-2015-16_Non-Operative%20Financial%20Holding%20Company%20%28NOFHC%29%20-%20Application%20of%20Capital%20Adequacy%20Norms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Operative Financial Holding Company (NOFHC) - Application of Capital Adequacy Norms
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/238 DBR.No.BP.BC.57/21.06.201/2015-16 November 19, 2015
+
+All Scheduled Commercial Banks (Excluding Local Area Banks and Regional Rural Banks)
+
+Madam / Sir, **Non-Operative Financial Holding Company (NOFHC) – Application of Capital** **Adequacy Norms**
+
+Please refer to the <u>Guidelines for Licensing of New Banks in the Private Sector</u> <u>issued on February 22, 2013</u>. The guidelines *inter alia* require setting up of wholly- owned Non-Operative Financial Holding Company (NOFHC) by eligible entities / groups in the private sector for carrying out business of banking and other permissible financial activities. Further, in terms of paragraph 2(H) of the guidelines, capital adequacy norms would be applied to the NOFHC on consolidated basis as applicable to the existing banking groups.
+
+**2.** In this context, it is clarified that consolidated (Group) level capital adequacy would also mean application of consolidated capital adequacy norm to the NOFHC after consolidating the relevant entities held by
+# Withdrawn
+
+it in terms of paragraph 3: Scope of Application of Capital Adequacy Framework of the Master Circular on Basel III Capital Regulations issued vide <u>circular DBOD.No.BP.BC.6/21.06.201/2014-15</u> <u>dated July 1, 2014</u>, in conjunction with the Guidelines for consolidated accounting and other quantitative methods to facilitate consolidated supervision issued vide <u>circular dated DBOD.No.BP.BC.72 /21.04.018/2001-02 dated February 25, 2003</u>.
+
+Yours faithfully,
+
+(Sudarshan Sen) Principal Chief General Manager
+
+बकं ग व�नयमन वभाग, 12वीं मंिज़ल, भारतीय �रजवर् बक, कद्रय कायार्लय भवन, शहद भगत संह मागर्, फोटर्, मुंबई – 400 001 Department of Banking Regulation, 12 th floor, RBI, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 **Tel No: 2260 1000 /Fax No: 2270 5691 E-mail: cgmicdbr@rbi.org.in**

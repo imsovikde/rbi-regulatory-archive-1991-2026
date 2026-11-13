@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2015_DBR_IBD_BC_61_23_07_001_2015-16"
+title: "Engagement of Services of Expatriate Officers in Indian Offices of Foreign Banks"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/252NT7D6C07FDB7064339BECF9BAC33A941F4.PDF"
+pdf_sha256: "87efcb698d67e7a62551a3a58d0e8ff89c5e4a598bf55bb9d120a9cc177e652a"
+md_sha256: "7a5a4006db7fae99963718949a7585cdbfca9ce9f611d17f45f6bdbc370a5cd7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-11-26_Circular_DBR.IBD.BC.%2061-23.07.001-2015-16_Engagement%20of%20Services%20of%20Expatriate%20Officers%20in%20Indian%20Offices%20of%20Foreign%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Engagement of Services of Expatriate Officers in Indian Offices of Foreign Banks
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/252
+
+## DBR.IBD.BC. 61/23.07.001/2015-16 November 26, 2015
+
+## All Foreign Banks operating in India
+
+Dear Sir/Madam,
+
+## Engagement of Services of Expatriate <u>Officers in Indian Offices of Foreign Banks</u>
+
+Please refer to our D.O.No.DBOD.Ref.1318/C.319-70 August 31, 1970 and Circulars DBOD.No.1033/23.07.001/94 dated March 11, 1994 and DBOD.IBS.BC.No.109/
+
+23.06.001/ 99-2000 October 30, 1999 regarding engagement of expatriate officers by foreign banks in branches in India.
+2. We have been receiving requests from some of the foreign banks to remove the numerical restriction on engagement of expatriates in view of the operational difficulties faced by them in doing business in India. In the light of these requests, the position in this regard has since been reviewed in consultation with the Government
+# Withdrawn
+
+of India. It has been decided that a foreign bank can deploy a maximum of four expatriates for each branch opened in India and not more than six expatriates for their Head Office functions.
+
+3. The other instructions with regard to the posting of trainee officers and remittance facilities by the expatriate officers in Indian branches remain unchanged.
+## Yours faithfully
+
+(Rajinder Kumar) Chief General Manager

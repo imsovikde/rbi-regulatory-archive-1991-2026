@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2015_DBR_IBD_BC_52_23_67_003_2015-16"
+title: "Gold Monetisation Scheme, 2015 - Amendment"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/M22412FCB78048D541018DC67D520991725F.PDF"
+pdf_sha256: "2671d91fc503a5320dd880b38ab1cb5384f723e205d2f6c2aaf161684e9ee7d8"
+md_sha256: "d1018df3f6f91e34c62052e155bd99b0ccdf529a4321740ed17c1697fccd5ffa"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-11-03_Circular_DBR.IBD.BC.52-23.67.003-2015-16_Gold%20Monetisation%20Scheme%2C%202015%20-%20Amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Gold Monetisation Scheme, 2015 - Amendment
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Department of Banking Regulation
+
+## Central Office
+
+## Mumbai-400 001
+
+RBI/2015-16/221 DBR.IBD.BC.52/23.67.003/2015-16 November 3, 2015
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam,
+
+## Gold Monetisation Scheme, 2015- Amendment
+
+In exercise of the powers conferred under Section 35A of the Banking Regulation Act, 1949, the Reserve Bank of India hereby directs that the Reserve Bank of India (**Gold Monetisation Scheme, 2015)** <u>Master Direction No.DBR.IBD.No.45/23.67.003</u> <u>2015-16 dated October 22, 2015</u> be modified as under:
+
+The existing sub paragraph 2.1.2 (i) shall be amended as follows:
+
+# Withdrawn
+
+“The minimum deposit at any one time shall be 30 grams of raw gold (bars, coins, jewellery excluding stones and other metals). There is no maximum limit for deposit under the scheme.”
+
+Rajinder Kumar Chief General Manager
