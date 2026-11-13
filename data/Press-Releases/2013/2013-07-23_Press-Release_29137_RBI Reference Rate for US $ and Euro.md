@@ -1,0 +1,41 @@
+---
+doc_id: "Press-Releases_2013_29137"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR151RR0713.pdf"
+pdf_sha256: "555ba95fa779139f61fcfbaa2abea223c7e70606914d87aa740e715a8d5a283b"
+md_sha256: "140b9705ead720722cf05351782a9f47923a5d7ccc108f9720eeab3864486240"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:16:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-07-23_Press-Release_29137_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय िरज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+संचार िवभाग**,** कें िीय कायार्लय, एस.बी.एस.माग,र् मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website: www.rbi.org.in
+
+|against the Rupee are given below:|फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 2266 0358 RBI Reference Rate for US $ and Euro The Reserve Bank of India’s Reference Rate for the US dollar is `59.6875 and the Reference Rate for Euro is `78.6865 on July 23, 2013. The corresponding rates for the previous day (July 22, 2013) were `59.4080 `78.1135 respectively. Based on the Reference Rate for the US dollar and the middle rates of the cross-currency quotes, the exchange rates of GBP and JPY|इ‐मेल email : helpdoc@rbi.org.in July 23, 2013|and|
+|---|---|---|---|
+|||Date||
+|Currency|July 22, 2013|July 23, 2013||
+|1 GBP|90.7398|91.6621||
+|100 YEN|59.37|59.96||
+
+**Note :** The SDR-Rupee rate will be based on the reference rate.
+
+## Ajit Prasad
+
+**Press Release : 2013-20**14/**151** Assistant General Manager
