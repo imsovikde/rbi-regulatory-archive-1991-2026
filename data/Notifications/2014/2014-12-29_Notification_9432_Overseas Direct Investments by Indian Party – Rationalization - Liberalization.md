@@ -1,0 +1,136 @@
+---
+doc_id: "Notifications_2014_9432"
+title: "Overseas Direct Investments by Indian Party – Rationalization / Liberalization"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR54ODI1214.PDF"
+pdf_sha256: "db544e5cd2473ed1489876d7a1379aece72e3c332d6ede5eebd1c1868eb0b1b8"
+md_sha256: "7c83ae7a3a702c2275e684398ad8e17c79756607a1cd44786aac7c0d7ed7fb06"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-12-29_Notification_9432_Overseas%20Direct%20Investments%20by%20Indian%20Party%20%E2%80%93%20Rationalization%20-%20Liberalization.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investments by Indian Party – Rationalization / Liberalization
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001**
+
+**RBI/2014-15/371 December 29, 2014**
+
+**A.P. (DIR Series) Circular No.54** To All Category-I Authorised Dealer Banks Madam / Sir,
+## <u>Overseas Direct Investments by Indian Party – Rationalization / Liberalization</u>
+
+Attention of the Authorised Dealer (AD-Category I) bank is invited to Regulation 18
+
+# <u>2022</u>
+
+and 18A of <u>Notification No. FEMA.120/RB-2004 dated July 7, 2004</u> [Foreign 22, Exchange Management (Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004] (the Notification), as amended from time to time and the provisions under <u>A.P. (DIR Series) Circular No. 96 dated March 28, 2012</u>.
+
+# August w.e.f.
+
+|2.|In order to grant more flexibility to the Indian party, it has been decided to||
+|---|---|---|
+|further liberalize certain regulations of||the Notification as detailed under.|
+|(i) in favour of domestic / overseas lender|Creation of charge on shares of JV / WOS / step down subsidiary (SDS)||
+|In terms of the extant FEMA provisions,||creation of charge (pledge) on the shares|
+
+# Withdrawn
+
+of an JV / WOS of an Indian party in favour of domestic / overseas lender for the purpose of availing facilities (funded or non-funded) by the Indian party and / or the concerned JV / WOS is under the automatic route.
+
+It has been decided that the designated AD bank may permit creation of charge / pledge on the shares of the JV / WOS / SDS (irrespective of the level) of an Indian party in favour of a domestic or overseas lender for securing the funded and / or non-funded facility to be availed of by the Indian party or by its group companies /
+
+<!-- PAGE 2 -->
+
+sister concerns / associate concerns or by any of its JV / WOS / SDS (irrespective of the level) under the automatic route subject to the following:
+
+a) The Indian party is complying with the provisions under Regulation 6 (and Regulation 7, if applicable) of the Notification *ibid* for undertaking financial commitment;
+b) Compliance to the provisions under Regulation 18 of the Notification *ibid;*
+c) The period of charge, if not specified upfront, may be co-terminus with the period of end use (like loan or other facility) for which charge has been created;
+d) The loan / facility availed by the JV / WOS / SDS from the domestic / overseas lender shall be utilized only for its core business activities overseas and not for investing back in India in any manner whatsoever;
+e) A certificate from the Statutory Auditors’ of the Indian party, to the effect that the loan / facility availed by the JV / WOS / SDS has not been utilized for direct or indirect investments in India, is to be obtained and kept by the designated AD;
+f) The invocation of charge resulting into the domestic lender acquiring the shares of the overseas JV / WOS / step down subsidiary shall be governed by the extant FEMA provisions / regulations issued by the Reserve Bank from time to time;
+g) The facilities (funded or non-funded) extended by the domestic lender to the Indian party or to its group / sister
+# Withdrawn w.e.f. August 22, 2022
+
+/ associate concern or to any of its overseas JV / WOS / SDS shall also be governed by the prudential norms and other guidelines issued by the Department of Banking Regulation (DBR, the erstwhile DBOD), Reserve Bank of India from time to time; and
+
+h) The matter relating to the setting up / acquiring the multi-layered structure of overseas entities by the Indian party, wherever applicable, is under the examination of the Reserve Bank and the decision taken in this regard shall be conveyed in due course for necessary compliance at AD / Indian party level.
+
+<!-- PAGE 3 -->
+
+## (ii) Creation of charge on the domestic assets in favour of overseas
+
+## lenders to the JV / WOS / step down subsidiary
+
+As per the extant FEMA provisions, creation of charge on the domestic assets (movable / immovable / financial / other) of an Indian party (or its group / sister / associate concern including the individual promoter / director) in favour of an overseas lender to the JV / WOS / step down subsidiary (SDS) requires prior approval of the Reserve Bank.
+
+It has been decided that the designated AD bank may permit creation of charge (by way of pledge, hypothecation, mortgage, or otherwise) on the domestic assets of an Indian party (or its group companies / sister concerns / associate concerns including the individual promoters / directors) in favour of an overseas lender for securing the funded and / or non-funded facility to be availed of by the JV / WOS / SDS (irrespective of the level) of the Indian party under the automatic route subject to the following:
+
+(a) The Indian party is complying with the provisions under Regulation 6 (and Regulation 7, if applicable) of the Notification *ibid* for undertaking the financial commitment;
+(b) Compliance to the provisions under Regulation 18A(1) of the Notification *ibid;*
+(c) The domestic assets, on which charge is being created, are not securitized;
+# Withdrawn w.e.f. August 22, 2022
+
+(d) The period of charge, if not specified upfront, may be co-terminus with the period of end use (like loan or other facility) for which charge has been created;
+(e) The loan / funds raised overseas by the JV / WOS / SDS shall be utilized only for its core business activities overseas and not for investing back in India in any manner whatsoever;
+(f) A certificate from the Statutory Auditors’ of the Indian party, to the effect that the loan / funds raised overseas by the JV / WOS / SDS has not been
+
+<!-- PAGE 4 -->
+
+utilized for direct or indirect investments in India, is to be obtained and kept by the designated AD;
+
+(g) The overseas lender undertakes that, in the event of enforcement of charge, they shall transfer the domestic assets by way of sale to a resident only;
+(h) In case of invocation of charge, the resultant remittance of the proceeds exceeding the prescribed limit of the financial commitment of the Indian party (prevailed at the time of creation of charge) shall require prior approval of the Reserve Bank;
+(i) Wherever creation of charge involves pledge of shares of an Indian company, the pledge shall also be governed by the extant FEMA provisions / regulations issued by the Reserve Bank and the consolidated Foreign Direct Investment (FDI) policy issued by the Government of India from time to time; and
+(j) The matter relating to the setting up / acquiring the multi-layered structure of overseas entities by the Indian party, wherever applicable, is under the examination of the Reserve Bank and the decision taken in this regard shall be conveyed in due course for necessary compliance at AD / Indian party level.
+## (iii) Creation of charge on overseas assets in favour of domestic lender
+
+Creation of charge on the overseas assets of JV / WOS / SDS of an Indian party in favour of a domestic lender to the Indian party or to its group / sister / associate
+
+# Withdrawn w.e.f. August 22, 2022
+
+concern or to any of its overseas JV / WOS / SDS requires prior approval of the Reserve Bank.
+
+It has been decided that the designated AD bank may permit creation of charge (by way of hypothecation, mortgage, or otherwise) on the overseas assets (excluding the shares) of the JV / WOS / SDS (irrespective of the level) of an Indian party in favour of a domestic lender for securing the funded and / or non-funded facility to be availed of by the Indian party or by its group companies / sister concerns / associate
+
+<!-- PAGE 5 -->
+
+concerns or by any of its overseas JV / WOS / SDS (irrespective of the level) under the automatic route subject to the following:
+
+a) The Indian party is complying with the provisions under Regulation 6 (and Regulation 7, if applicable) of the Notification *ibid* for undertaking financial commitment;
+b) Compliance to the provisions under Regulation 18A(2) of the Notification *ibid;*
+c) The overseas assets, on which charge is being created, are not securitized;
+d) The period of charge, if not specified upfront, may be co-terminus with the period of end use (like loan or other facility) for which charge has been created;
+e) The loan / facility availed by the JV / WOS / SDS from the domestic lender shall be utilized only for its core business activities overseas and not for investing back in India in any manner whatsoever;
+f) A certificate from the Statutory Auditors’ of the Indian party, to the effect that the loan / facility availed by the JV / WOS / SDS has not been utilized for direct or indirect investments in India, is to be obtained and kept by the designated AD;
+g) The invocation of charge resulting into the domestic lender acquiring the overseas assets shall require prior approval of the Reserve Bank; and
+h) The matter relating to the setting up / acquiring the multi-layered structure of
+# Withdrawn w.e.f. August 22, 2022
+
+overseas entities by the Indian party, wherever applicable, is under the examination of the Reserve Bank and the decision taken in this regard shall be conveyed in due course for necessary compliance at AD / Indian party level.
+
+3. Necessary amendments to the Notification *ibid* has been issued vide <u>Notification No. FEMA.322/2014-RB dated October 14, 2014</u> and effective from the date of publication in the Gazette i.e. December 03, 2014.
+
+<!-- PAGE 6 -->
+
+4. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of
+1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+## (C D Srinivasan)
+
+## Chief General Manager
+
+# 2022 22,
+
+# August w.e.f.
+
+# Withdrawn

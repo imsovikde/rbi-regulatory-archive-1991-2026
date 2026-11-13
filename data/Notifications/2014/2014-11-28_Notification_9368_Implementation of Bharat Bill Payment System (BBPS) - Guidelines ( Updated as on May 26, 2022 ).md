@@ -1,0 +1,498 @@
+---
+doc_id: "Notifications_2014_9368"
+title: "Implementation of Bharat Bill Payment System (BBPS) - Guidelines ( Updated as on May 26, 2022 )"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BBPS28112014CIRFNL.PDF"
+pdf_sha256: "bf9c484af46198f6ff2359197ec8278e5712982697d9563f3ba56c96dd59462b"
+md_sha256: "434a8398b74e3f68fff3042217b0fef4c37e0e207e7a710e446e1dc252cbf2ff"
+total_pages: 13
+native_pages: 13
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-11-28_Notification_9368_Implementation%20of%20Bharat%20Bill%20Payment%20System%20%28BBPS%29%20-%20Guidelines%20%28%20Updated%20as%20on%20May%2026%2C%202022%20%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Bharat Bill Payment System (BBPS) - Guidelines ( Updated as on May 26, 2022 )
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/327 DPSS.CO.PD. No. 940/02.27.020/2014-2015 November 28, 2014 (Updated as on May 26, 2022)
+
+The Chairman and Managing Director / Chief Executive Officers All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks All System Providers, System Participants and any other prospective Bharat Bill Payment Operating Units
+
+Madam/Dear Sir,
+
+## Implementation of Bharat Bill Payment System (BBPS) - Guidelines
+
+In the <u>Second Quarter Review of Monetary Policy 2012-13</u>, Reserve Bank of India announced the setting up of a Committee to finalise the modalities of implementing an electronic GIRO payment system in India. The Payment Systems Vision in India 2012- 15 also highlights the existence of a huge bill payments market with a diverse and a complex biller market structure with varied national /regional players and private / state owned entities.
+
+2. Accordingly, a Committee under the chairmanship of Shri G. Padmanabhan, Executive Director, RBI was set up to study the feasibility of implementation of an electronic GIRO payment system in the country. Subsequently, based on the recommendations of the Committee, a Giro Advisory Group (GAG) was constituted
+# dated February 29, 2024
+
+under the Chairmanship of Prof. Umesh Bellur, IIT Bombay, with the objective of defining a framework that enables the creation of pan India touch points for bill payments by customers in the country, irrespective of the geographical location of the billers. The GAG, which submitted its report on March 20, 2014, had recommended a(Bharat Bill Payment System) Directions, 2024 tiered structure for bill payments system in the countrySuperseded by Master Direction – Reserve Bank of India– with a central unit setting the standards and various operating units working in accordance and adherence to the standards set for the BBPS. Accordingly the draft guidelines for implementation of the Bharat Bill Payment System (BBPS) was placed on RBI website on August 7, 2014 for public comments.
+
+3. Based on the public comments received on the draft guidelines for implementation of the Bharat Bill Payment System (BBPS) the final guidelines are now being issued (<u>Annex</u>). The National Payments Corporation of India (NPCI) will function as the authorized Bharat Bill Payment Central Unit (BBPCU) to set the standards for BBPS processes which need to be adhered to by all operating units under the system. NPCI,
+
+<!-- PAGE 2 -->
+
+as the BBPCU, will also undertake clearing and settlement activities related to the BBPS as outlined in the guidelines.
+
+4. Prospective participants of the BBPS system are advised to interact with the NPCI to work out the modalities for the BBPS and also keep themselves in readiness to apply for authorization /approval, as the case may be, under Payment and Settlement Systems Act, 2007. The applications for authorization can be submitted to the Reserve Bank of India from the first quarter of 2015. The exact date from which /format in which such applications for authorization/approval can be submitted will be notified in due course.
+5. These guidelines are issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), without prejudice to permissions / approvals, if any, required under any other law. India
+of
+
+## Yours faithfully, Bank 2024
+
+# Reserve
+
+(Vijay Chugh)
+
+# – Directions,
+
+Principal Chief General Manager 2024
+
+# 29, Direction System)
+
+# February Master Payment by
+
+# Bill dated
+
+# (Bharat Superseded
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Implementation of Bharat Bill Payment System (BBPS) - Guidelines
+
+## Introduction
+
+1. Bill payment is a major component of the retail payment transactions. The Committee to study the Feasibility of Implementation of GIRO based Payment Systems (Chairman: Shri G. Padmanabhan, Executive Director, RBI) (2013) had estimated that over 30,800 million bills amounting to Rs.6223 billion are generated each year in the top 20 cities in the country. Though various forms of payments are accepted, cash and cheque payments continue to be predominant, particularly at the Billers’ Own Collection Point.
+# India of
+
+2. While the existing systems are safe and robust, they do not fully address the needs of the consumers/customers to pay a variety of “bills” including utility bills,
+# Bank 2024
+
+school/university fee, municipal taxes, etc. due to the lack of interoperability in the bill payment processes as well as the lack of access to various modes of electronic payments by a vast majority of customers.
+
+# Reserve – Directions, 2024
+
+3. There is, therefore, a need for an integrated bill payment system in the country that
+29, offers interoperable and accessible bill payment services to customers through a
+
+# Direction System)
+
+network of agents, allows multiple payment modes, and provides instant confirmation of payment. The bill payment system should also serve as an efficient, cost effective
+
+# February
+
+alternative to the existing systems Master, thus, setting the standards for bill payments in the
+
+# Payment
+
+country, and enhance consumer confidence and experience. In order to address theseby
+
+# Bill dated
+
+issues, the Giro Advisory Group (GAG) (Chairman: Prof. Umesh Bellur, IIT Bombay) (2014) was set-up to define a framework that enables the creation of pan- India touch points for bill payments by customers in the country. (Bharat Accordingly the draft guidelines for
+
+# Superseded
+
+implementation of the Bharat Bill Payment System (BBPS) was placed on RBI website on August 7, 2014 for public comments.
+
+4. Based on the public comments received on the recommendations of the GAG, the draft guidelines for implementation of the Bharat Bill Payment System (BBPS) in the country were placed on Reserve Bank of India’s website for public/stakeholders comments. The feedback has been examined and the final guidelines is issued following the wide consultative process.
+
+<!-- PAGE 4 -->
+
+## Scheme
+
+5. The Bharat Bill Payment System (BBPS) will function as a tiered structure for operating the bill payment system in the country with a single brand image providing convenience of ‘anytime anywhere’ bill payment to customers.
+6. The BBPS will consist of two types of entities carrying out distinct functions –
+(i) Bharat Bill Payment Central Unit (BBPCU) which will be the single authorized entity operating the BBPS. The BBPCU will set necessary operational, technical and business standards for the entire system and its participants, and also undertake clearing and settlement activities. (ii) Bharat Bill Payment Operating Units (BBPOUs), which will be the authorised India
+of operational units, working in adherence to the standards set by the BBPCU. The tiered structure could be further strengthened through an effective agent network/s of the
+
+# Bank 2024
+
+BBPOUs. While there will be a single BBPCU, there could be multiple BBPOUs operating under the BBPS.
+
+# Reserve
+
+## Scope of the BBPS
+
+# – Directions, 2024
+
+7. At present, the online commerce space in the country broadly consists of content
+29, providers on the one hand and payment aggregators on the other. While the payment
+
+# Direction System)
+
+side could include both banks and non-bank intermediaries who are facilitating aggregation of payment services, the content side includes a varied set of
+
+# February
+
+intermediaries ranging from those who are hosting digital market places to those who Master
+
+# Payment
+
+are facilitating merchants relating to specific verticals. Some of these intermediaries areby
+
+# Bill dated
+
+also in the business of aggregating bill payments. Similarly, some of the content providers enable payment services through their own arrangements while others use the services of specialised payment aggregators. (Bharat
+
+# Superseded
+
+8. The objective of the BBPS is to implement an integrated bill payment system in the country that offers interoperable and accessible bill payment services to customers through a network of agents, enabling multiple payment modes, and providing instant confirmation of payment. Hence, it has been decided that the *existing players (both* *banks & non-banks) catering to the requirements of bill payments as well as* *aggregation of payment services will be a part of BBPS*.
+
+<!-- PAGE 5 -->
+
+9. To begin with, BBPS would include activities to facilitate collection of repetitive (monthly, bi-monthly, quarterly etc.) payments for everyday utility services provided by utility service providers. Gradually, the scope of BBPS could be extended to include services facilitating the collection of other types of repetitive payments, such as, school / university fees, municipal taxes/payments etc. as decided from time to time by the Reserve Bank of India.
+10. Therefore, existing entities providing services within the scope of activities indicated above will have to meet the eligibility criteria and seek authorisation as outlined below. **Participants** India
+of
+
+11. The participants in the BBPS will include authorised entities, such as, the BBPCU, the BBPOUs as well as their agents, payment gateways, banks, billers and service
+# Bank 2024
+
+providers, and other entities, including authorized prepaid payment instrument issuers, as required under the BBPS. For clarity, it is reiterated as below:
+
+a) Bharat Bill Payment System (BBPS) is an integrated bill payment system in the
+# Reserve
+
+country offering interoperable and accessible bill payment service to customers
+
+# – Directions, 2024
+
+through a network of agents, enabling multiple payment modes, and providing 29, instant confirmation of payment.
+
+# Direction System)
+
+b) Bharat Bill Payment Central Unit (BBPCU) will be the single authorized entity operating the BBPS. The BBPCU will set necessary operational, technical and
+# February
+
+business standards for the entire system and its participants and also undertake Master
+
+# Payment
+
+clearing and settlement activitiesby.
+
+# Bill dated
+
+c) Bharat Bill Payment Operating Units (BBPOUs) will be the authorised operational units working in adherence to the standards set by the BBPCU.
+# (Bharat
+
+## Eligibility criteria for system participants
+
+# Superseded
+
+12. Given the objectives of setting up the BBPS, it is desirable that the BBPCU is a Section 25 company under the Companies Act 1956 (amended to Section 8 of the Companies Act 2013), having professional senior management and experience in handling central infrastructure in payments, clearing and settlement, and transaction processing. Accordingly, it has been decided that the National Payments Corporation of India (an authorized umbrella institution for all retail payment systems in the country) which meets the above criteria will be authorized as the BBPCU to implement the BBPS.
+
+<!-- PAGE 6 -->
+
+13. The eligibility criteria for non-bank entities seeking to operate as BBPOUs would be as follows:
+a) The entity should be a company incorporated in India and registered under the Companies Act 1956 / Companies Act 2013
+b) The Memorandum of Association (MOA) of the applicant entity must cover the proposed activity of operating as a BBPOU
+c) The applicant shall have a net-worth of ₹25 crore at the time of application for authorisation and the same shall be maintained at all times thereafter. Net-worth shall consist of ‘paid up equity capital, preference shares which are compulsorily convertible into equity capital, free reserves, balance in share India
+of premium account and capital reserves representing surplus arising out of sale proceeds of assets but not reserves created by revaluation of assets’ adjusted
+
+# Bank 2024
+
+for ‘accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any’. While compulsorily convertible preference shares reckoned for computation of net-worth can be either non
+
+# Reserve
+
+-cumulative or cumulative, these shall be compulsorily convertible into equity shares and the
+
+# – Directions, 2024
+
+shareholder agreements shall specifically prohibit any withdrawal of this 29, preference share capital at any time.
+
+# Direction System)
+
+The entity shall submit a certificate in the enclosed format (<u>Annex-2</u>) from their Chartered Accountants (CA) to evidence compliance with the applicable net-
+
+# February
+
+worth requirement while submitting the application for authorisation.Master
+
+# Payment by
+
+The existing non-bank BBPOUs shall maintain minimum net-worth of ₹25 crore
+
+# Bill dated
+
+at all times.
+
+d) In case of any Foreign Direct Investment (FDI) in the applicant entity, necessary
+# (Bharat
+
+approval from the competent authority as required under the policy notified by
+
+# Superseded
+
+the Department of Industrial Policy and Promotion (DIPP) under the consolidated policy on FDI and regulations framed under the Foreign Exchange Management Act (FEMA) must be submitted while seeking authorization.
+
+e) The company must have domain experience in the field of bill collection/services to the billers, and relevant experience in transaction processing for a minimum period of one year.
+f) The entity must seek authorization under the Payment and Settlement Systems Act, 2007 from the Reserve Bank of India for its operations.
+
+<!-- PAGE 7 -->
+
+14. Banks which are desirous of operating as BBPOUs would need to obtain approval from the Reserve Bank of India under the Payment and Settlement Systems Act, 2007.
+15. Entities falling under the scope of BBPS and not meeting the eligibility criteria as above, but desirous of continuing business in this domain as a BBPOU, will need to seek time not exceeding one year from the date of operationalization of BBPS to meet the eligibility criteria. Alternately, they may decide to partner with other eligible and authorized BBPOUs. Existing entities, falling within the scope of BBPS, failing to take either of the two actions indicated above will not be allowed to offer aggregation of bill payment services thereafter. India
+of **Authorisation**
+
+# Bank 2024
+
+16. The BBPS system, with its two components – the BBPCU and the BBPOUs – will function as an authorised payment system under the Payment and Settlement Systems Act, 2007.
+# Reserve – Directions, 2024
+
+17. As regards the BBPOUs, the process for authorization is outlined below:
+29,
+
+a) Banks falling under the scope of BBPS and interested in participating as a
+# Direction System)
+
+BBPOU will be required to take one-time approval of the Reserve Bank of India to operate as BBPOUs.
+
+# February
+
+b) Eligible non-bank entities would be permitted to set up BBPOUs under BBPS, Master
+# Payment
+
+after obtaining authorization from RBI under the Payment and Settbylement
+
+# Bill dated
+
+Systems (PSS) Act 2007.
+
+c) The general guidelines for any non-bank entity to seek authorisation under the PSS Act for operating a payment system are available at (Bharat <u>Superseded</u> <u>[http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/86707.pdf](http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/86707.pdf)</u>.
+d) Entities (both banks and non-banks) who receive in-principle approval will have to obtain necessary certification from BBPCU regarding their adherence to the BBPS standards for processing bill payments, before becoming eligible to receive final authorization / approval. This would be in addition to the usual terms and conditions for final authorization / approval under the PSS Act
+2007.
+
+<!-- PAGE 8 -->
+
+e) Existing non-bank entities, authorized under PSS Act 2007 to operate other payment systems, will have to obtain separate authorization for operating as a BBPOU under the BBPS.
+## Settlement model
+
+18. Settlement process is an integral part of any inter-operable payment system. Under the BBPS, the BBPOUs’ agents may receive payments for various billers, including those who have not been on-boarded by their own BBPOUs. Thus, the nature of transactions in the tiered model of centralised bill payments system can be classified into ON-US (the biller and payment collecting agent belong to same BBPOU) and OFF- US (the biller and the payment collecting agent belong to different BBPOUs)
+# India
+
+transactions. of
+
+19. Based on the type of transaction, the settlement process has to ensure optimum Bank 2024 efficiency both in terms of settlement time and fixing responsibility under a unified interoperable scenario for bill payments. Accordingly, under the centralised bill
+# Reserve
+
+payments system, the BBPOUs will take care of ON-US transactions. For OFF-US
+
+# – Directions,
+
+transactions, the BBPCU will handle all the OFF-US transactions reported by all2024 BBPOUs and arrive at appropriate settlement for each biller across various BBPOUs. 29, The BBPCU will arrange to instruct the settlement bank to make pay
+
+# Direction System)
+
+-outs to respective billers’ banks for credit to billers’ accounts.
+
+# February Master
+
+**Role of BBPCU in Settlement**Payment by
+
+20. For the ON-US transactions (agent who has collected the payment as well as theBill dated biller who has to receive the payment is on-boarded by the same BBPOU), the BBPCU will have no role in the clearing and settlement of the transactions and the same will be
+# (Bharat
+
+handled by respective BBPOUs, end-to-end, from collection of payment from customer
+
+# Superseded
+
+by the agent, settling of funds between agent and BBPOU and final payment to the billers’ account, in adherence to the standards set for this purpose under the BBPS.
+
+21. For the OFF-US transactions (agent who has received the payment from the customer and the biller who has to receive the money belong to different BBPOUs), BBPCU will handle the process of clearing and net settlement between the different BBPOUs. The BBPOUs will route (the process may be automated) the transaction data of OFF-US transactions to the BBPCU, using which the BBPCU will arrive at the net
+
+<!-- PAGE 9 -->
+
+settlement for each BBPOU. Based on the net payment obligation arrived at by BBPCU, each BBPOU will pay/receive the funds through the settlement bank arrangement put in place by the BBPCU. BBPCU will also provide the related transactional data of the settlement to the concerned BBPOU to enable them to make the payment in turn to the concerned billers. **Role of BBPOUs in Settlement**
+
+22. For ON-US transactions <u>(</u>agent collecting the payment as well as the biller who has to receive the payment is on-boarded by the same BBPOU), each BBPOU will have to identify a settlement bank where the agents and the billers need to maintain settlement account. The BBPOU will arrive at the net position of each participant (agents and billers) at EOD and submit a settlement file to the settlement bank. India
+of
+
+23. The billers will receive the aggregated principal amount collected (or amounts as
+# Bank 2024
+
+per the commercial arrangement between the BBPOUs and the biller merchants) while the agents will get the commission/fee (depending upon the arrangement for payment of commission/fee).Reserve
+
+# – Directions, 2024
+
+24. On settlement, the BBPOU will have to make available the transactional details of
+29, the settlement to the billers and the agents under it for MIS, reconciliation and customer
+
+# Direction System)
+
+service/grievance redressal.
+
+# February
+
+25. In the case of OFF-US transactions, the BBPOU will pay/receive the net settlement
+# Master Payment by
+
+amount as arrived at by the BBPCU. However, the payment to the billers on-boarded by
+
+# Bill dated
+
+them (for which the payment has been collected by another BBPOU), will be made by the BBPOU after receiving the transactional data from the BBPCU.
+
+# (Bharat Superseded
+
+## Setting Standards with respect to settlements
+
+26. The objective of the BBPS is also to provide an accessible bill payments system to the large segments of un-banked / under-banked population. All forms of payments will necessarily be a part of the bill payments system.
+27. The operational arrangements for setting up of settlement accounts in designated settlement bank, time discipline for settlement, etc. will be established by the BBPCU and become a part of the bill payment system standards.
+
+<!-- PAGE 10 -->
+
+28. There would be many payment modes used by the end-consumers to make the bill payments, each of which would have its own realisation cycle depending upon the nature of the payment mode. Hence, the BBPCU will also set standards on time discipline for realisation and collection of payments in each leg i.e., from the agent to the BBPOU, from the BBPOU to the biller in the case of ON-US settlement, and from BBPOU to BBPCU and thereafter to the biller (through the concerned BBPOU) in the case of OFF-US settlement.
+29. The settlement standards established under the BBPCU, with the approval of RBI, have to be adhered to by all the BBPS participants. India
+of **Customer protection and grievance redressal**
+
+# Bank 2024
+
+30. Under the BBPS, the BBPOUs shall disclose all important terms and conditions in clear and simple language (preferably in English, Hindi and the local language) comprehensible to the customers of various billers/users of its services. These
+# Reserve
+
+disclosures should include:
+
+# – Directions, 2024
+
+- All charges and fees associated with the use of bill payment facility, and
+29,
+
+- The customer service telephone numbers and website URL
+# Direction System)
+
+31. The brand of the BBPS would enjoin the trust and confidence of the customers only if it facilitates an effective, efficient and centralized mechanism for handling customer February
+# Master
+
+complaints and grievances. The role of BBPPaymentCU and BBPOUs in this process would be: by
+
+a) To put in place a centralized end Bill dated-to-end complaint management system for all ON-US and OFF-US transactions.
+b) Till such time the centralized complaint management system can be put in place,
+# (Bharat
+
+to begin with, the BBPS will facilitate at least the centralized
+
+# Superseded
+
+ticketing/lodging of complaints (against any biller) from the end-consumers at any of the BBPS points, even though the final redressal will be handled by the respective billers/BBPOUs.
+
+c) Each complaint will be assigned and identified by a unique complaint reference number within the BBPS.
+d) After the complaint is lodged at any location, the BBPCU and/or the concerned BBPOU will escalate the complaint to the respective biller for redressal.
+
+<!-- PAGE 11 -->
+
+e) A suitable tracking system has to be enabled so that the fate of the complaint is known to the customer (on the basis of the unique complaint reference number) at any location.
+f) The customer should not be levied any charges for lodging any complaints in the BBPS.
+32. The standardized rules and regulations with unified turnaround time shall be formed and become applicable for all disputes raised in the BBPS system. Appropriate Service level Agreements (SLAs) may be entered into by the system participants to ensure adherence to these standards.
+# India
+
+33. In order to facilitate faster implementation and operationalisation of the BBPS, in the
+of interim, the complaints redressal will be handled by respective billers through their operating units as per present arrangements. Bank 2024
+
+34. All participants in the BBPS will be required to submit report on customer
+# Reserve
+
+complaints in the format and frequency as may be mandated.
+
+# – Directions, 2024
+
+## Roles and responsibilities
+
+29,
+
+35. The system participants in the BBPS will have to adhere to a unifor
+# Direction System)
+
+m set of standards and procedures so as to enable the smooth operation of this inter-operable bill payment system. Accordingly, a broad framework of roles and responsibilities of theFebruary
+
+# Master
+
+BBPCU and the BBPOUs is outlined below. The Procedural Guidelines of the Payment BBPS will by provide in detail the specific roles and responsibilities of various system participants.Bill dated
+
+36. The BBPS must have a Steering Group in order to encourage participative decision-
+# (Bharat
+
+making in the development and implementation of standards for the bill payments
+
+# Superseded
+
+system. Representation in the Steering Group will be as per the approved procedural guidelines for the BBPS.
+
+<u>37. Roles and responsibilities of Bharat Bill Payment Central Unit (BBPCU)</u>
+a) BBPCU will be responsible for setting standards - (i) Business standards, rules and processes for on-boarding the BBPOUs authorized under the PSS Act; including multiple billers and BBPOUs relationship (ii) Processes and procedures for various business/technical/operational requirements both at the BBPCU and
+
+<!-- PAGE 12 -->
+
+the BBPOUs level, including setting up of agent network, (iii) Information exchange standards, including security standards; and (iv) risk mitigation.
+
+b) BBPCU would be responsible for marketing and brand positioning of the pan- India Bharat Bill Payments System, the oversight and certification for conduct of operations of the BBPOUs.
+c) BBPCU will be responsible for setting standards in relation to payment, clearing and settlement of the transactions carried out at various BBPOUs and their agents-both ON-US and OFF-US transactions.
+d) BBPCU will put in place a dispute resolution mechanism to handle disputes arising between system participants.
+e) BBPCU will have to ensure the setting up of a suitable fraud and risk India
+of management framework for the BBPS.
+
+f) Appropriate MIS system should be put in place.
+# Bank 2024
+
+<u>38. Roles and responsibilities of Bharat Bill Payment Operating Units (BBPOUs)</u>
+a) On-boarding of billers and aggregators as per standards / rules, appointment of
+# Reserve
+
+agents; carrying out due diligence (as per processes and rules set out for
+
+# – Directions,
+
+appointment of sub-agents); and ensure confidentiality and privacy standards are2024 in place. 29,
+
+b) Infrastructure development
+# Direction
+
+- Application development, including APIs whereSystem)
+required, by respective BBPOUs – in adherence to standards set by the BBPCU.
+
+c) Transaction handling - Safety and security of transactions, verification of billerFebruary
+# Master
+
+information, adherence to transaction flow standards / rules set by Payment the BBPCU. by
+
+d) Handling customer grievances and disputes as per set procedures andBill dated standards for billers / agents / end-customers.
+e) Value-added services – provide MIS and Reporting and other services to the
+# (Bharat
+
+billers / aggregators / agents.
+
+# Superseded
+
+The BBPS standards should ensure compliance to all extant regulatory guidelines issued by the RBI, from time to time.
+
+<!-- PAGE 13 -->
+
+## Annex-2
+
+## Net-worth Certificate
+
+(To be submitted by BBPOU within six months of completion of that financial year to respective Regional Office of DPSS, RBI) With reference to the paragraph 13c of the **Implementation of Bharat Bill Payment System** **(BBPS) - Guidelines**, we have perused the records maintained by the _________ (Company). On the basis of our perusal of the records, the audited / unaudited (strike off whichever is not applicable) financial statements for the financial year ended _______ and the information and explanations given to us, we certify that the Company’s net-worth computed in accordance with the paragraph 13c of the above Guidelines as on ________ is ₹ _______.
+
+This certificate has been provided by us at the request of the Company.
+
+# India
+
+The details for net-worth computation are given below: of **Computation of net-worth of __________ as on _________**
+
+|Particulars|Bank 2024 Amount (INR)|
+|---|---|
+|Equity Share Capital||
+|Add:|Reserve – Directions,|
+|Preference shares compulsorily convertible into Equity capital|2024|
+|Free Reserves|29,|
+|Share Premium Account Direction Capital Reserves (representing surplus arising out of sale proceeds of assets) Master Less: Payment by Revaluation Reserves dated Bill Accumulated Losses Book Value of Intangible Assets Deferred Revenue Expenditure (Bharat Net-worth as on ________ Superseded|System) February|
+
+Place: Date: Signature: Stamp: Name and Designation:

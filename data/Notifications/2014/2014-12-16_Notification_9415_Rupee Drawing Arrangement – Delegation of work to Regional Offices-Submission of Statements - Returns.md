@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2014_9415"
+title: "Rupee Drawing Arrangement – Delegation of work to Regional Offices-Submission of Statements / Returns"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/50RDA161214FS.pdf"
+pdf_sha256: "1c219d7ceb5d05251d8364f3aa6e7fe5cdd6b0745768ff02d9540ab147ff71fa"
+md_sha256: "8f40c04a7edc5e3b1f6cdc1835975a4a863a90f4a1410bfc4b7a24024de9c2e6"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-12-16_Notification_9415_Rupee%20Drawing%20Arrangement%20%E2%80%93%20Delegation%20of%20work%20to%20Regional%20Offices-Submission%20of%20Statements%20-%20Returns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Drawing Arrangement – Delegation of work to Regional Offices-Submission of Statements / Returns
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/358
+
+A.P.(DIR Series) Circular No.50 December 16, 2014 To All Authorised Dealer Category-I Banks Madam/ Sir,
+## Rupee Drawing Arrangement – Delegation of work to Regional Offices-Submission of Statements / Returns
+
+Attention of Authorised Dealer Category – I (AD Cat – I) banks is invited to <u>A.P.</u> <u>(DIR Series) Circular No. 28 [A. P. (FL/RL Series) Circular No. 02] dated February 6,</u> <u>2008</u> on Memorandum of Instructions for Opening and Maintenance of Rupee / Foreign Currency Vostro Accounts of Non-resident Exchange Houses, as amended from time to time.
+
+2. In continuation to <u>A.P. (DIR Series) Circular No. 7 dated July 18, 2014</u>, it is clarified that subsequent to delegation of Rupee Drawing Arrangement (RDA) work, Authorised Dealer Category I banks are required to make all their correspondence with Reserve Bank including submission of prescribed statements to the Regional Office of the Foreign Exchange Department of the Reserve Bank, under whose jurisdiction their registered offices function. It has been observed that several Authorised Dealer Category I banks continue to submit the correspondence / statements to the Central Office, causing avoidable delays in scrutiny / processing. Thus, Authorised Dealer Category I banks are advised to note the instructions regarding correspondence and submission of statements to the concerned Regional Office, as mentioned above.
+
+<!-- PAGE 2 -->
+
+3. All other instructions issued vide <u>A.P. (DIR Series) Circular No. 28 [A. P. (FL/RL</u> <u>Series) Circular No. 02] dated February 6, 2008</u>, as amended from time to time, will remain unchanged.
+4. AD Category-I Banks may bring the contents of this circular to the notice of their constituents concerned.
+5. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (B. P. Kanungo)
+
+## Principal Chief General Manager

@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2015_9468"
+title: "Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) - Registration"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DNBRFATCA090115.pdf"
+pdf_sha256: "9254e1410ee8537ad650937036ef4c035db9c5ab897b1788b39b069e1827d197"
+md_sha256: "81ec9f2ee2921a4a3630a1cd92c2136477df6da4e3497660119158394f8028af"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:49:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-01-09_Notification_9468_Inter-Governmental%20Agreement%20%28IGA%29%20with%20United%20States%20of%20America%20%28US%29%20under%20Foreign%20Accounts%20Tax%20Compliance%20Act%20%28FATCA%29%20-%20Registration.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) - Registration
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/397 DNBR.CC.PD.No.010/03.10.01/2014-15 January 09, 2015
+
+To
+
+## All Non Banking Financial Companies
+
+Dear Sirs,
+
+## <u>Inter-Governmental Agreement (IGA) with United States of America (US)</u>
+
+## <u>under Foreign Accounts Tax Compliance Act (FATCA) - Registration</u>
+
+Please refer to <u>circulars DNBS (PD).CC.No 401/03.10.42/2014-15 dated July 25,</u> <u>2014</u> and <u>DBR.AML.No.9644/14.07.018/2014-15 dated December 30, 2014</u> on the captioned subject.
+
+2. Government of India has now advised that to avoid withholding tax, Foreign Financial Institutions (FFIs) in Model 1 jurisdictions, such as India, need to register with IRS and obtain a Global Intermediary Identification Number (GIIN) before January 1, 2015. The FFIs who have registered but have not obtained a GIIN should indicate to the withholding agents that the GIIN is applied for, which may be verified by the withholding agents in 90 days. In this regard, the FAQ published on the IRS website (updated as on December 22, 2014), as received from the Government of India, is furnished in the <u>Annex</u>.
+3. Accordingly, NBFCs may take action appropriately. Yours faithfully, (Sindhu Pancholy) Deputy General Manager
+
+<!-- PAGE 2 -->
+
+# Annex
+
+# FAQ published on the IRS website updated on December 22, 2014
+
+Q8. Announcement 2014-38 provides that a Announcement 2014-38 does not change the jurisdiction that is treated as if it has an IGA in requirement in the chapter 4 regulations that effect, but that has not yet signed an IGA, for payments made on or after January 1, retains such status beyond December 31, 2015, in order for withholding not to apply, a 2014, provided that the jurisdiction continues withholding agent may treat a reporting Model to demonstrate firm resolve to sign the IGA 1 FFI as a registered deemed-compliant FFI that was agreed in substance. Given this only if the withholding agent has a withholding additional time to sign the IGA, does a certificate identifying the payee as a registered reporting Model 1 FFI in such a jurisdiction deemed-compliant FFI and the withholding need to register and obtain a GIIN before certificate contains a GIIN for the payee that is January 1, 2015? verified in the manner described in those regulations. Thus, to avoid withholding on **Added : December 22, 2014** certain payments made on or after January 1, 2015, a reporting Model 1 FFI should register and obtain a GIIN to properly certify its status to a withholding agent required to document the FFI for chapter 4 purposes. A reporting Model 1 FFI that has registered but not yet obtained a GIIN should indicate to its withholding agent that its GIIN is "applied for," and in such case, the withholding agent will have 90 days from the date it receives the Form W-8 to obtain a GIIN and to verify the accuracy of the GIIN against the published IRS FII list before it has reason to know that the payee is not a registered deemed- compliant FFI.
+
+Announcement 2014-38 similarly does not change the timing of any other due diligence and reporting requirements in the chapter 4 regulations.

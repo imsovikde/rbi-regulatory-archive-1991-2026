@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2014_9396"
+title: "Overseas Investments by Alternative Investment Funds (AIF)"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/48AIFAP091214.PDF"
+pdf_sha256: "025458a4698b1d03df9a253aed63aab84f04366c016d7ad8413100ad0da198fc"
+md_sha256: "4c8874dd28a9fac87962230cab3f0edb125a9e68be0316229e25ccf1bb6c74ba"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-12-09_Notification_9396_Overseas%20Investments%20by%20Alternative%20Investment%20Funds%20%28AIF%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Investments by Alternative Investment Funds (AIF)
+
+<!-- PAGE 1 -->
+
+RBI/2014-2015/344 December 09, 2014
+
+A.P. (DIR Series) Circular No.48 To
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## <u>Overseas Investments by Alternative Investment Funds (AIF)</u>
+
+Attention of the Authorised Dealer (AD-Category I) banks is invited to Regulation 26 of <u>Notification No. FEMA.120/RB-2004 dated July 7, 2004</u> [Foreign Exchange Management (Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004] (the Notification), as amended from time to time and the provisions under <u>A.P.(DIR Series) Circulars No. 492022</u> and <u>50</u> dated April 30, 2007 and May 04, 2007 respectively. 22,
+
+2. On a review, it has been decided to permit an Indian Alternative Investment Fund (AIF), registered with Securities and Exchange Board of India
+# August
+
+(SEBI), to invest overseas in terms of the provisions issued under the A.P. (DIR Series) Circulars No. 49 and 50 dated April 30, 2007 and May 04, 2007
+
+w.e.f.
+respectively.
+
+3. Necessary amendments to the Notification *ibid* has been issued vide <u>Notification No. FEMA.326/RB-2014 dated November 12, 2014</u> (copy enclosed) and effective from the date of publication in the Gazette i.e. November 21, 2014.
+# Withdrawn
+
+4. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of
+1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully, (C D Srinivasan) Chief General Manager
+
+# 2022 22,
+
+# August w.e.f.
+
+# Withdrawn
