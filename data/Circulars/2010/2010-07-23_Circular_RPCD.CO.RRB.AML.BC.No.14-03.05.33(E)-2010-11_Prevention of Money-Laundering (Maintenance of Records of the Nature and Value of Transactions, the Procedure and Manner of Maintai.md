@@ -1,0 +1,70 @@
+---
+doc_id: "Circulars_2010_RPCD_CO_RRB_AML_BC_No_14_03_05_33_E_2010-11"
+title: "Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Second Amendment Rules, 2010 - Obligation of Banks"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRC14230710F.PDF"
+pdf_sha256: "ca2a463107f5c928c7af2b87bf2c6922df526d87c97fc35b98d75aff86b8cfab"
+md_sha256: "b95ac12dc6e051e76e2b0ac5a0c28f06c178ac6dc4982dfd0a993f41339928f2"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:06:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-07-23_Circular_RPCD.CO.RRB.AML.BC.No.14-03.05.33%28E%29-2010-11_Prevention%20of%20Money-Laundering%20%28Maintenance%20of%20Records%20of%20the%20Nature%20and%20Value%20of%20Transactions%2C%20the%20Procedure%20and%20Manner%20of%20Maintai.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Second Amendment Rules, 2010 - Obligation of Banks
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/133
+
+RPCD.CO RRB.AML.BC.N0.14/03.05.33(E)/2010-11
+
+July 23 ,2010
+
+The Chairmen
+
+All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+Prevention of Money-laundering (Maintenance of Records of the Nature and
+
+Value of Transactions, the Procedure and Manner of Maintaining and Time
+
+for Furnishing Information and Verification and Maintenance of Records of
+
+the Identity of the Clients of the Banking Companies, Financial Institutions
+
+and Intermediaries) Second Amendment Rules, 2010
+
+- Obligation of banks.
+
+Government of India vide its Notification No. 10/2010-E.S/F.No.6/8/2009-E.S.
+
+(Maintenance of Records of the Nature and Value of Transactions, the Procedure
+
+and Manner of Maintaining and Time for Furnishing Information and Verification
+
+f theClientsof theBanking
+
+Notification is enclosed for information ane
+
+cessary compliance.
+
+Yours faithfully
+
+Vithdra
+
+(B.P.Vijayendra)
+
+Chief General Manager
+
+Encls: As above
+
+Rural Planning & Credit Department Central Office, 10" Floor, Central Office Building, Shahid Bhagat Singh Marg Mumbai - 1
+
+f /Tel No: 91-22-22661602 a/Fax No: 91-22-22621011/22610943/22610948 Email ID:cgmicrpcd@rbi.org.in

@@ -1,0 +1,134 @@
+---
+doc_id: "Circulars_2010_DBOD_Dir_Exp_BC_No_36_04_02_001_2010-11"
+title: "Rupee Export Credit Interest Rates"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/INSTAC100810.PDF"
+pdf_sha256: "5b13812764204227fc40840db4ed04dc6963ad261deeb2a893ee08bb009141c0"
+md_sha256: "4e0c97920cfbb3b5df28f55872e7bba0e8796fd0f4108ffb6de8d660c3ba5009"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:07:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-08-09_Circular_DBOD.Dir.%28Exp%29.BC.No.36-04.02.001-2010-11_Rupee%20Export%20Credit%20Interest%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Export Credit Interest Rates
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बैंक
+
+## RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+## RBI/2010-11/165 DBOD.Dir.(Exp).BC.No.36 /04.02.001/2010-11 August 9, 2010
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/ Madam <u>Rupee Export Credit Interest Rates</u>
+
+Please refer to our <u>Circular DBOD.Dir.(Exp).BC.No.94/04.02.001/2009-10 dated</u> <u>April 23, 2010</u> extending the scheme of interest subvention of 2 percentage points from April 1, 2010 to March 31, 2011 on pre and post-shipment rupee export credit for four employment oriented export sectors viz. Handicrafts, Carpets, Handlooms and Small & Medium Enterprises (SME). Banks were further advised vide our circular DBOD.Dir.(Exp).BC.No.115/04.02.01/2009-10 dated June 29, 2010 that with the change over to the Base Rate System, the interest rates applicable for all tenors of rupee export credit advances with effect from July 1, 2010 will be at or above Base Rate in respect of all fres Withdrawn h / renewed advances. Accordingly, banks may reduce the interest rate chargeable to the exporters as per Base Rate system in the above mentioned sectors eligible for export credit subvention by the amount of subvention available subject to a floor rate of 7%.
+
+|2. It has been decided to extend interest subvention of 2% on rupee export||
+|---|---|
+|credit with effect from April 1, 2010 to March 31, 2011 on the same terms and||
+|conditions to certain additional sectors. The new list would be as follows.||
+|(i)|Handicrafts|
+|(ii)|Carpets|
+|(iii)|Handlooms|
+|(iv)|Small and Medium (SME) (as defined in Annex III)|
+|(v)|Leather and Leather Manufactures|
+|(vi)|Jute Manufacturing including Floor covering|
+|(vii)|Engineering Goods|
+|(viii)|Textiles|
+
+<!-- PAGE 2 -->
+
+## (The additions have been indicated above in bold letters).
+
+## Details of the additional sectors/sub-sectors are furnished in <u>Annex I</u>.
+
+3. A directive No. <u>DBOD.Dir.(Exp).BC.No.35/04.02.001/2010-11</u> dated August 9, 2010 issued in this regard is enclosed. 4 A modified format for claiming interest subvention under the Base Rate system is enclosed as Annex II. Banks may ensure that they use the new format for claiming interest subvention in respect of all rupee export credit advances granted / renewed on or after July 1, 2010. They may use the format enclosed to our circular dated April 23, 2010 for claiming interest subvention for rupee export credit advances linked to BPLR.
+5. Other instructions contained in our circulars dated April 23, 2010 and June 29, 2010 remain unchanged. Yours faithfully, (P. R. Ravi Mohan) Chief General Manager
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## ANNEX II
+
+## Rupee Export Credit for the period from July 1, 2010 to March 31, 2011
+
+## Claim for the quarter ended...............
+
+|Category of Exporters|Total Rupee export credit granted at or above Base Rate|Amount of subvention claimed (rounded off to the nearest rupee)|
+|---|---|---|
+|(i)Handicrafts (ii)Carpets (iii)Handlooms (iv)Small & Medium Enterprises (SME)* (v)Leather & Leather manufactures (vi)Jute Mfg. including Floor Covering (vii) Engineering Goods (viii) Textiles|||
+|Total|||
+|*As defined in Annex III.|||
+
+(1) (2) (3)
+
+We certify having charged interest rates on the above loans at or above Base Rate by way of Rupee export credit to the eligible exporters as stated in the RBI circular No. DBOD. Dir.(Exp).BC.No.94
+
+# Withdrawn
+
+/ 04.02.001/ 2009-10 dated April 23, 2010, DBOD. Dir.(Exp). BC.No.115 / 04.02.001 / 2009-10 dated June 29, 2010 and DBOD.Dir.(Exp).BC.No.35/04.02.001/ 2010-11 dated August 9, 2010 during the
+period ............ to ...............
+
+## Dated : _________________
+
+(Name and stamp of Authorised Signatory)
+
+---------------------------------------------------------
+
+<!-- PAGE 4 -->
+
+## Annex III
+
+## Definition of SME
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below:
+
+i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5, 2006 does not exceed Rs.25 lakh; ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.25 lakh but does not exceed Rs.5 crore; and iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5, 2006) is more than Rs.5 crore but does not exceed Rs.10 crore.
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+## भारतीय िरज़वर् बैंक
+
+### RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+### DBOD.Dir.(Exp).BC.No. 35 /04.02.001/2010-11 August 9, 2010
+
+### <u>Interest Rates on Rupee Export Credit</u>
+
+In exercise of the powers conferred by Sections 21 and 35 A of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, in partial modification of directives DBOD.Dir.(Exp).BC.No.93/04.02.001/2009-10 dated April 29, 2010 and DBOD.Dir.(Exp).BC.No.114/04.02.001/2009-10 dated June 29, 2010, hereby notifies as under: It has been decided to extend the coverage of the interest subvention scheme for the period April 1, 2010 to March 31, 2011 to certain additional sectors on the same terms and conditions. The new list would be as follows.
+
+(i) Handicrafts (ii) Carpets (iii) Handlooms
+# Withdrawn
+
+(iv) Small and Medium (SME) (as defined in the Annex)
+
+(v) **Leather and Leather Manufactures**
+(vi) **Jute Manufacturing including Floor covering** (vii) **Engineering Goods** **xtiles** (viii) **Te**
+
+### (The additions have been indicated above in bold letters)
+
+(Anand Sinha) Executive Director
+
+<!-- PAGE 6 -->
+
+## Annex
+
+## Definition of SME
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below:
+
+i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5, 2006 does not exceed Rs.25 lakh; ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.25 lakh but does not exceed Rs.5 crore; and iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5, 2006) is more than Rs.5 crore but does not exceed Rs.10 crore.
+# Withdrawn
