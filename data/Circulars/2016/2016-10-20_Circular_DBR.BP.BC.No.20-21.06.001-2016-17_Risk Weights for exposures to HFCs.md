@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2016_DBR_BP_BC_No_20_21_06_001_2016-17"
+title: "Risk Weights for exposures to HFCs"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT954E36DB2DBB364ED4A711B05FFD8418E1.PDF"
+pdf_sha256: "0961de6a3af6285f1323e48fbae2304633d6282603521ac7b3d1364325bfac6b"
+md_sha256: "5262617b4189ba570edd3b85107e36e8a4abebc31b496c7abd7d963c71433106"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:36:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-10-20_Circular_DBR.BP.BC.No.20-21.06.001-2016-17_Risk%20Weights%20for%20exposures%20to%20HFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Weights for exposures to HFCs
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/95 DBR.BP.BC.No.20/21.06.001/2016-17 October 20, 2016
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Dear Sir,
+
+## <u>Risk Weights for exposures to HFCs</u>
+
+It has been observed that there is a lack of uniformity among banks in the application of risk weights on their exposures to Housing Finance Companies (HFCs).
+
+2. The matter of risk weights prescribed in respect of banks’ exposures to HFCs has been examined and it is advised that exposures to all HFCs would be risk weighted as per the ratings assigned by the rating agencies registered with the SEBI and accredited by the Reserve Bank of India, in a manner similar to that of corporates, AFCs, NBFC-IFCs and NBFC-IDFs as prescribed under Para 5.8.1 of the <u>Master</u> <u>Circular, DBR.No.BP.BC.1/21.06.201/2015-16 dated July 1, 2015</u> on Basel III Capital Regulations read with the <u>circular, DBR.No.BP.BC.6/21.06.001/2016-17</u>
+# Withdrawn
+
+<u>dated August 25, 2016</u> on ‘Review of Prudential Norms- Risk Weights for Exposures to Corporates, AFCs and NBFC-IFCs’.
+
+Yours faithfully,
+
+(Ajay Kumar Choudhary) Chief General Manager
+
+||________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------_______||
+|---|---|---|
+|बकं ग वनयमन वभाग,|कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय टे लफोन /Tel No: 22661602, 22601000 फै क् स /Fax No: 022-2270 5670, 2260 Department of Banking Regulation (formerly Department of Banking Operations and Development), Central Office, 12th & 13th Floor, Central Bhavan, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691, 5692|कायार्लय भवन, शहद भगत स ंह मागर्, मंबई 400001 ु 5671, 5691 2270, 2260 5692 Office|
