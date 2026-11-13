@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2006_2819"
+title: "Guidelines on compliance with Accounting Standard (AS) 11 (revised 2003) -  'The Effects of Changes in Foreign Exchange Rates'"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69745.pdf"
+pdf_sha256: "48c494891200556591568265ebf90e814b9ce4fd2742deaa4c8a731186746986"
+md_sha256: "65c4563718eb53ef9cc81e07c3941b15e0c07c7e5ab3eb925029cd5d44800282"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-04-05_Notification_2819_Guidelines%20on%20compliance%20with%20Accounting%20Standard%20%28AS%29%2011%20%28revised%202003%29%20-%20%27The%20Effects%20of%20Changes%20in%20Foreign%20Exchange%20Rates%27.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on compliance with Accounting Standard (AS) 11 (revised 2003) -  'The Effects of Changes in Foreign Exchange Rates'
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/351 DBOD.BP.BC.No. 76 /21.04.018/2005-06 April 5, 2006
+
+All Scheduled Commercial Banks (except RRBs)
+
+Dear Sir,
+
+Guidelines on compliance with Accounting Standard (AS) 11 (revised 2003)
+
+- 'The Effects of Changes in Foreign Exchange Rates' Please refer to para 4.2 of the Annex to our circular DBOD.No.BP.BC.76/21.04. 018/2004-2005 dated March 15, 2005.
+2. It was advised therein that in respect of Indian branches and integral foreign operations, those foreign currency transactions, which were not recorded in Indian Rupees on the date of the transaction or were being recorded using a notional exchange rate may be recorded at the date of the transaction by using <u>the weekly average closing rate of the preceding week, pu</u>blished by FEDAI, if the same approximates the actual rate at the date of the transaction. It was also advised that banks might use the quarterly average closing rate, published by FEDAI at the end of each quarter, for translating the income and expense items of non-integral foreign operations during the quarter.
+3. Further, it was indicated that the weekly average closing rate of the preceding week would not be considered approximating the actual rate at the date of the transaction if the difference between (a) the weekly average closing rate of the preceding week and
+(b) the exchange rate prevailing at the date of the transaction, is more than five percent of (b). In respect of non-integral foreign operations, where the banks use the quarterly average closing rate, if the difference between the exchange rate at the date of the transaction and the quarterly average closing rate is more than ten percent of the exchange rate prevailing at the date of the transaction, the limit would not be considered approximating the actual rate.
+4. On a review, it has now been decided to revise the above threshold limits as follows :
+
+<!-- PAGE 2 -->
+
+i) The weekly average closing rate of the preceding week would not be considered approximating the actual rate at the date of the transaction if the difference between (a) the weekly average closing rate of the preceding week and (b) the exchange rate prevailing at the date of the transaction, is more than <u>three-and-a-half percent</u> of (b). ii) In respect of non-integral foreign operations, the quarterly average closing rate would not be considered approximating the actual rate at the date of the transaction if the difference between (a) the quarterly average closing rate and (b) the exchange rate prevailing at the date of the transaction, is more than <u>seven percent</u> of (b).
+5. Banks are, however, encouraged to equip themselves to record the foreign currency transactions of Indian branches as well as integral foreign operations and translate the income as well as expense items of non-integral foreign operations at the exchange rate prevailing on the date of the transaction.
+6. The above guidelines will come into effect immediately.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-in-Charge

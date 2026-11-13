@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2006_2870"
+title: "PMRY - Cut-off Date for Lapsing of Sanction/Completion of Disbursement of Loans extended"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/70498.pdf"
+pdf_sha256: "08f249a0c486d2545f2066d5ef10a9c297cfa40b8ca980127cec04694b0fcb37"
+md_sha256: "18f0bad3bfc7e8da52ebb5d52ba8741671d4514a715ea24f909763559dcd47c9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-05-17_Notification_2870_PMRY%20-%20Cut-off%20Date%20for%20Lapsing%20of%20Sanction-Completion%20of%20Disbursement%20of%20Loans%20extended.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# PMRY - Cut-off Date for Lapsing of Sanction/Completion of Disbursement of Loans extended
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/389 RPCD.PLNFS.BC.No. 83/ 09.04.01/ 2005 –2006 May 17, 2006
+
+The Chairman / Managing Director All Indian Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir, PMRY–Extension of Cut-Off date for lapsing of sanction and completion of <u>disbursement of loans for the programme year 2005-06 - for some states/UT</u>
+
+Please refer our circular RBI / 2005-06 / 336/ RPCD.PLNFS.BC.No.70/ 09.04.01 /2005 –2006 dated March 24, 2006.
+
+2. Ministry of Agro & Rural Industries, Government of India has since decided to extend the cut-off date for lapsing of sanction and completion of disbursement of loans for the cases sanctioned under PMRY for the Programme Year 2005-06 for a further period of one month in the states of Assam, Kerala, Tamil Nadu and West Bengal and in the Union Territory of Pondicherry from May 31, 2006 to June 30, 2006.
+3. You may issue necessary instructions to your Regional /Controlling Offices/ Branches in this regard.
+4. Please acknowledge receipt.
+Yours faithfully,
+
+(Sujatha Elizabeth Prasad ) General Manager
