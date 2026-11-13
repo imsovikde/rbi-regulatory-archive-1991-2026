@@ -1,0 +1,102 @@
+---
+doc_id: "Circulars_2013_DBOD_No_Ret_BC_64_12_01_001_2013-14"
+title: "Bank Rate"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CB29102013FR.PDF"
+pdf_sha256: "e746318f503d54eaecd60f33ccde078d82e91b6b2620b84ee54340f92f9dc814"
+md_sha256: "148e2692c219b8f44f65beaff43b5e6bedea87f3988b08a9097e09c6368bd091"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T10:07:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-10-29_Circular_DBOD.No.Ret.BC.64-12.01.001-2013-14_Bank%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Bank Rate
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2013-14/345
+
+DBOD.No.Ret.BC.64/12.01.001/2013-14
+
+October29,2013
+
+All Scheduled Commercial Banks
+
+& Local Area Banks
+
+Dear Sir,
+
+Bank Rate
+
+Please refer to our circular DBOD.No.Ret.BC.58/12.01.001/2013-14 dated October 7, 2013
+
+on the subject.
+
+2.
+
+As announced in the Second Quarter Rel
+
+of MonetaryPolicy2013-14 dated
+
+October 29,2013, the Bank Rate stands adiu
+
+by 25 basis points from 9.0 per cent to
+
+8.75 per cent with effect from October 29,
+
+3.
+
+All penal interest rates on s
+
+rtfall in reserve requirements, which are specifically
+
+linked to the Bank Rate, also stand revised as indicated in Annex.
+
+4.
+
+Please acknowledge receipt.
+
+Yours faithfully
+
+(Sudha Damodar)
+
+Chief General Manager
+
+Encl:as above
+
+1400005
+
+f /TelNo: 91-22-22189131 aH/Fax No: 022-22150772 Email ID:cgmicdbodco@rbi.org.in
+
+"Caution: RBl never sends mails, SMSs or makes calls asking for personal information like bank account details,passwords,etc.
+
+It never keeps or offers funds to anyone.Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+## <u>Annex</u>
+
+## Penal Interest Rates which are linked to the Bank Rate
+
+## Item Existing Rate Revised Rate
+
+<u>(Effective from October 29, 2013)</u> Penal interest rates on Bank Rate plus 3.0 Bank Rate plus 3.0 percentage
+
+|shortfalls in reserve percentage points||points (11.75 per cent) or Bank Rate|
+|---|---|---|
+|requirements|(12.00 per cent) or Bank|plus 5.0 percentage points (13.75|
+|(depending on duration Rate plus 5.0||per cent).|
+|of shortfalls).|percentage points||
+
+## <u>(14.00 per cent).</u>
+
+# Withdrawn
