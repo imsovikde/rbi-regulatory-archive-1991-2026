@@ -1,0 +1,198 @@
+---
+doc_id: "Circulars_2015_DNBR_PD_CC_No_061_03_10_119_2015-16"
+title: "Master Circular - Requirement for Obtaining Prior Approval of RBI in Cases of Acquisition / Transfer of Control of NBFCs (Updated as on 04-08-2015)"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/26MS910F1A876DCC440F805FE324CFAE6DF4.PDF"
+pdf_sha256: "900e46afde4e0e6a56e6667398b0b6b0c8bd58854b02634ca6fdf6927accb9b8"
+md_sha256: "30e9aa684ae215804691becb3aff27d8ee9e473a7ff436e8c7d3ff7b540e8ba1"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:30:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-07-01_Circular_DNBR.%28PD%29.CC.No.061-03.10.119-2015-16_Master%20Circular%20-%20Requirement%20for%20Obtaining%20Prior%20Approval%20of%20RBI%20in%20Cases%20of%20Acquisition%20-%20Transfer%20of%20Control%20of%20NBFCs%20%28Updated%20as%20on%2004.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Requirement for Obtaining Prior Approval of RBI in Cases of Acquisition / Transfer of Control of NBFCs (Updated as on 04-08-2015)
+
+<!-- PAGE 1 -->
+
+## RBI/2015-16/26
+
+## DNBR (PD) CC.No.061/03.10.119/2015-16 July 01, 2015
+
+## (As amended up to August 04, 2015)
+
+To
+
+All Non-Banking Finance Companies (except Primary dealers),
+
+Dear Sir/Madam,
+
+## Master Circular– Requirement for Obtaining Prior Approval of
+
+## RBI in Cases of Acquisition / Transfer of Control of NBFCs
+
+As you are aware, in order to have all current instructions on the subject at one place, the Reserve Bank of India issues updated circulars / notifications. The instructions related to the captioned subject contained in various circulars issued by RBI updated till the date as indicated above are reproduced below. The updated circular has also been placed on the RBI web-site (<u>[https://www.rbi.org.in](https://www.rbi.org.in)</u>).
+
+# Withdrawn
+
+Yours faithfully,
+
+(C.D.Srinivasan) Chief General Manager
+
+<u>गैर बक</u>ं<u>ग व�नयमन वभाग, कद्रय कायार्लय, 2र मंिज़ल, सटर I, वल्डर् ट्रेड सटर, कफ परेड, मंबई ु-400 005</u> Department of Non-Banking Regulation, Central Office, 2 nd Floor, Centre I, WTC, Cuffe Parade, Mumbai – 400 005 Tel No: 22189131 Fax No: 22163768 Email: helpdnbr@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Table of Contents
+
+|Para No|Particulars|
+|---|---|
+|1|Short title, commencement and applicability of the Directions|
+|2|Definitions|
+|3|Requirement to obtain prior approval of Reserve Bank of India for acquisition or transfer of control of NBFCs|
+|4|Application for prior approval|
+|5|Requirement of Prior Public Notice about change in control / management|
+|6|Application of other laws not barred|
+|7|Repeal and saving|
+
+Withdrawn
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING REGULATION
+
+## CENTRAL OFFICE, CENTRE I, WORLD TRADE CENTRE
+
+## CUFFE PARADE, COLABA, MUMBAI 400 005
+
+## Notification No.DNBR.(PD).029/CGM (CDS)-2015 dated July 9, 2015
+
+*The Reserve Bank of India, having considered it necessary in the public interest, and* *being satisfied that, for the purpose of enabling the Bank to regulate the credit* *system to the advantage of the country, it is necessary to issue the Directions* *relating to the prudential norms as set out below, in exercise of the powers conferred* *by Section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the* *powers enabling it in this behalf and in supersession of the Non-Banking Financial* *Companies (Approval of Acquisition or Transfer of Control) Directions, 2014 dated* *May 26, 2014, gives to every non-banking financial company the directions* *hereinafter specified.*
+
+## 1. Short title and commencement of the Directions
+
+(1) These Directions shall be known as the 'Non-Banking Financial Companies (Approval of Acquisition or Transfer of Control) Directions, 2015'.
+(2) These Directions shall be applicable to every non-banking financial company whether accepting deposits or not, except Primary Dealers.
+# Withdrawn
+
+(3) These Directions shall come into force with immediate effect.
+## 2. Definitions
+
+For the purpose of these Directions, unless the context otherwise requires,-
+
+(a) "control" shall have the same meaning as is assigned to it under clause
+(e) of sub-regulation (1) of regulation 2 of Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.
+(b) "NBFC" means a non-banking financial company as defined in clause (f) of Section 45-I of the Reserve Bank of India Act, 1934.
+**3. Requirement to obtain prior approval of Reserve Bank of India for acquisition or transfer of control of NBFCs -**
+(i) The prior written permission of the Reserve Bank of India shall be required for -
+a) any takeover or acquisition of control of an NBFC, which may or may not result in change of management;
+
+<!-- PAGE 4 -->
+
+b) any change in the shareholding of an NBFC, including progressive increases over time, which would result in acquisition / transfer of shareholding of 26 per cent or more of the paid up equity capital of the NBFC.
+**Provided that**, prior approval would not be required in case of any shareholding going beyond 26% due to buyback of shares / reduction in capital where it has approval of a competent Court. The same is to be reported to the Bank not later than one month from its occurrence;
+
+c) any change in the management of the NBFC which would result in change in more than 30 per cent of the directors, excluding independent directors.
+**Provided that**, prior approval would not be required in case of directors who get re-elected on retirement by rotation.
+
+(ii) Notwithstanding clause (i), NBFCs shall continue to inform the Reserve Bank regarding any change in their directors / management as required in Non- Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998, Non-Systemically Important Non-Banking Financial (Non- Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 and Systemically Important Non-Banking Financial (Non- Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015.
+
+## 4. Application for prior approval
+
+(i) NBFCs shall submit an application, in the company letter head, for
+# Withdrawn
+
+obtaining prior approval of the Bank under paragraph 3, along with the following documents:
+
+a) Information about the proposed directors / shareholders as per the Annex;
+b) Sources of funds of the proposed shareholders acquiring the shares in the NBFC;
+c) Declaration by the proposed directors / shareholders that they are not associated with any unincorporated body that is accepting deposits;
+d) Declaration by the proposed directors / shareholders that they are not associated with any company, the application for Certificate of Registration (CoR) of which has been rejected by the Reserve Bank;
+e) Declaration by the proposed directors / shareholders that there is no criminal case, including for offence under Section 138 of the Negotiable Instruments Act, against them; and
+f) Bankers' Report on the proposed directors / shareholders.
+
+<!-- PAGE 5 -->
+
+(ii) Applications in this regard may be submitted to the Regional Office of the Department of Non-Banking Supervision in whose jurisdiction the Registered Office of the NBFC is located.
+
+## 5. Requirement of Prior Public Notice about change in control / management
+
+i. A public notice of at least 30 days shall be given before effecting the sale of, or transfer of the ownership by sale of shares, or transfer of control, whether with or without sale of shares. Such public notice shall be given by the NBFCs and also by the other party or jointly by the parties concerned, after obtaining the prior permission of the Reserve Bank. ii. The public notice shall indicate the intention to sell or transfer ownership / control, the particulars of transferee and the reasons for such sale or transfer of ownership / control. The notice shall be published in at least one leading national and in one leading local (covering the place of registered office) vernacular newspaper.
+## 6. Application of other laws not barred-
+
+The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+
+## 7. Repeal and saving-
+
+(i) Non-Banking Financial Companies (Approval of Acquisition or Transfer of Control) Directions, 2014 dated May 26, 2014, shall stand repealed.
+# Withdrawn
+
+(ii) Notwithstanding such repeal, any action taken, purported to have been taken or initiated under the directions hereby repealed shall continue to be governed by the provisions of the said directions.
+
+(C.D.Srinivasan) Chief General Manager
+
+*****
+
+<!-- PAGE 6 -->
+
+## ANNEX
+
+## INFORMATION ABOUT THE PROPOSED PROMOTERS/ DIRECTORS/
+
+## SHAREHOLDERS OF THE COMPANY
+
+|Sr. No.|Particulars Required|Response|
+|---|---|---|
+|1|Name||
+|2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20|Designation Nationality Age (to be substantiated with date of birth) Business Address Residential Address E-mail address / Telephone number PAN Number under Income Tax Act Director Identification Number (DIN) Social security number / Passport No.* Educational / professional qualifications Professional Achievement relevant to the job Line of business or vocation Any other information relevant to the Company Name/s of other companies in which the person has held the post of Chairman / Managing Director/ Director / Chief Executive Officer Name/s of the regulators (RBI,SEBI,IRDA,PFRDA,NHB or any other Withdrawn foreign regulator) of the entities mentioned in which the persons hold directorships Name/s of the NBFCs, if any, with which the person is associated as Promoter, Managing Director, Chairman or Director including a Residuary Non-Banking Financial Company, which has been prohibited from accepting deposits/ prosecuted by RBI ? Detail of prosecution, if any, pending or commenced or resulting in conviction in the past against the person and/or against any of the entities he is associated with for violation of economic laws and regulations Cases, if any, where the person or relatives of the person or the companies in which the person is associated with, are in default or have been in default in the last 5 years in respect of credit facilities obtained from any entity or bank If the person is a member of a professional association/ body, details of disciplinary action, if any, pending or commenced or resulting in|Chairman / Managing Director / Director / Chief Executive Officer|
+
+<!-- PAGE 7 -->
+
+||conviction in the past against him / her or whether he / she has been banned from entry of any professional occupation at any time||
+|---|---|---|
+|21|Whether the person attracts any of the disqualification envisaged under Section 164 of the Companies Act, 2013||
+|22|Has the person or any of the companies, he/ she is associated with, been subject to any investigation at the instance of the Government Department or Agency||
+|23|Has the person at any time been found guilty of violations of rules / regulations / legislative requirements by Customs / Excise / Income Tax// Foreign Exchange / Other Revenue Authorities, if so, give particulars||
+|24|Experience in the business of NBFC (number of years)||
+|25|Equity shareholding in the company||
+|(i)|No. of shares|……………………………|
+|(ii)|Face value|Rs. ………………………..|
+|(iii)|Percentage to total paid up equity share capital of the company|……………………………|
+|26|Name/s of the companies, firms and proprietary concerns in which the person holds substantial interest||
+|27|Names of the principal bankers to the concerns at 26 above||
+|28|Withdrawn Names of the overseas bankers *||
+|29|Whether number of directorships held by the person exceeds the limits prescribed under Section 165 of the Companies Act, 2013 Date : Place:|Signature : Name : Designation : Company Seal :|
+
+Note: * For foreign promoters / directors / shareholders (i) Separate form should be submitted in respect of each of the proposed promoters/ directors/ shareholders
+
+<!-- PAGE 8 -->
+
+## ANNEX
+
+## INFORMATION ABOUT CORPORATE PROMOTER
+
+|Sr. No.|Particulars Required|Response|
+|---|---|---|
+|1|Name||
+|2|Business Address||
+|3|E-mail address/ Telephone number||
+|4|PAN Number under Income Tax Act||
+|5|Name and contact details of compliance officer||
+|6|Line of business||
+|7|The details of their major shareholders (more than 10%) and line of activity, if corporates||
+|8|Names of the principal bankers/ overseas bankers *||
+|9|Name/s of the regulators (RBI,SEBI,IRDA,PFRDA,NHB or any other foreign regulator)||
+|10|Name/s of Company/ies in the Group as defined in the Prudential Norms Directions||
+|11|Name/s of the company/ies in the Group that are NBFCs||
+|12|Specify the names of companies in the group which have been prohibited from accepting deposits/ prosecuted by RBI?||
+|13|Detail of prosecution, if any, pending or commenced or resulting in conviction in the past against the corporate for violation of economic laws and regulations||
+|14|Cases, if any, where the corporate, is in default or have Withdrawn been in default in the last 5 years in respect of credit facilities obtained from any entity or bank||
+|15|Whether the corporate has been subject to any investigation at the instance of the Government Department or Agency||
+|16|Has the Corporate at any time been found guilty of violations of rules/ regulations/ legislative requirements by Customs/ Excise/ Income Tax// Foreign Exchange/ Other Revenue Authorities, if so, give particulars||
+|17|Has the promoter corporate/ majority shareholder of the promoter corporate, if a corporate, ever applied to RBI for CoR which has been rejected Date : Place: * For foreign corporate|Signature : Name : Designation : Company Seal :|
