@@ -1,0 +1,70 @@
+name: Archive update
+
+# Commits made by this workflow are authored as Souvik Dey and signed with the
+# dedicated GPG key, so GitHub shows the Verified badge on every Action commit.
+#
+# Required repository secrets (Settings -> Secrets and variables -> Actions):
+#   GPG_PRIVATE_KEY  ASCII-armored private key export
+#   GPG_PASSPHRASE   passphrase that protects the key
+#   GH_PAT           fine-grained PAT, this repo only, Contents: Read and write
+
+on:
+  schedule:
+    # Daily at 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Update archive and commit (signed)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # PAT instead of GITHUB_TOKEN so pushed commits trigger downstream
+          # workflows and are attributed to the account that owns the PAT.
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_tag_gpgsign: true
+          git_user_name: Souvik Dey
+          git_user_email: imsovikde@gmail.com
+
+      - name: Update archive metadata
+        run: |
+          set -euo pipefail
+          mkdir -p .archive-runs
+          printf '%s\n' "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" > .archive-runs/last-run.txt
+
+      - name: Commit and push signed commit
+        run: |
+          set -euo pipefail
+          git add .archive-runs/last-run.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -S -m "chore: archive update $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Confirm signing key
+        run: |
+          set -euo pipefail
+          echo "Signing key fingerprint: ${{ steps.import_gpg.outputs.fingerprint }}"
+          git log -1 --show-signature
