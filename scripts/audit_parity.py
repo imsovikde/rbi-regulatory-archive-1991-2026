@@ -40,6 +40,7 @@ def sha256_bytes(data):
 
 def split_frontmatter(text):
     """Return (frontmatter dict, body str) or (None, text) if invalid."""
+    text = text.replace("\r\n", "\n")
     if not text.startswith("---\n"):
         return None, text
     end = text.find("\n---\n", 4)
@@ -67,6 +68,8 @@ def check_a():
                 continue
             total += 1
             md_path = os.path.join(ROOT, row["md_path"])
+            if os.name == "nt" and not md_path.startswith("\\\\?\\"):
+                md_path = "\\\\?\\" + os.path.abspath(md_path)
             if not os.path.exists(md_path):
                 failures.append(f"missing .md file: {row['md_path']}")
                 continue
