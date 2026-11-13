@@ -1,0 +1,42 @@
+---
+doc_id: "Press-Releases_2007_634"
+title: "Market Stabilization Scheme- Auction of Dated Security"
+category: "Press-Releases"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/77631.pdf"
+pdf_sha256: "41336da0091f7f6f1bc5a495874fa0874f235d0fcf157a0fbbbe9e45238485bb"
+md_sha256: "032377a8454fbe8bb76c902f8ce5aeea695d6c1bb3cd2d69803f59e2938a96a0"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T16:06:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-06-01_Press-Release_634_Market%20Stabilization%20Scheme-%20Auction%20of%20Dated%20Security.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Market Stabilization Scheme- Auction of Dated Security
+
+<!-- PAGE 1 -->
+
+` **PRESS RELEASE**
+
+## RESERVE BANK OF
+
+## INDIA
+
+www.rbi.org.in **PRESS RELATIONS DIVISION**, Central Office, Post Box 406, Mumbai 400001 <u>www.rbi.org.in</u>**\**hindi Phone: 2266 0502 Fax: 2266 0358, 2270 3279 <u>e-mail: helpprd@rbi.org.in</u> June 1, 2007
+
+## Market Stabilization Scheme- Auction of Dated Security
+
+Under the Market Stabilization Scheme (MSS), “6.65 per cent Government Stock 2009” for Rs.5,000 crore (nominal) will be sold (re-issued) through a price based auction using multiple price method. The auction will be conducted by the Reserve Bank of India, Mumbai Office, Fort, Mumbai on June 6, 2007 (Wednesday).
+
+Up to 5% of the notified amount of the sale of the stock will be allotted to eligible individuals and institutions as per the Scheme for Non-Competitive Bidding Facility in the Auction of Government Securities.
+
+Bids in the prescribed form obtainable from the Regional Director, Reserve Bank of India, Mumbai Office (Public Debt Office), Fort, Mumbai-400 001 and RBI website www.rbi.org.in should be submitted to that Office on June 6, 2007. The NDS members should submit competitive as well as non-competitive bids in electronic format using Primary Market Operation (PMO) module of NDS. All bids should be submitted by 12.30 P.M.
+
+The result of the auction will be announced on June 6, 2007 and payment by successful bidders will be during banking hours on June 7, 2007 (Thursday).
+
+## Ajit Prasad
+
+Manager **Press Release : 2006-2007/1657**
