@@ -1,0 +1,42 @@
+---
+doc_id: "Press-Releases_2019_2981"
+title: "Extension of Directions imposed on Vasantdada Nagari Sahakari  Bank Ltd., Osmanabad, Maharashtra"
+category: "Press-Releases"
+year: 2019
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR295314062019.pdf"
+pdf_sha256: "2f05ea99c0f63d8480e3cc9d636ccaacef87e6794eb72163261ba04c296d5db1"
+md_sha256: "874d1e9473772dd62db0779907b569e05aa187605dc4cc0526c8b8c01af3b52a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T22:00:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2019/2019-06-14_Press-Release_2981_Extension%20of%20Directions%20imposed%20on%20Vasantdada%20Nagari%20Sahakari%20Bank%20Ltd.%2C%20Osmanabad%2C%20Maharashtra.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Extension of Directions imposed on Vasantdada Nagari Sahakari  Bank Ltd., Osmanabad, Maharashtra
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 _____________________________________________________________________________________________________________________ 0वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: **022-22660502** इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## June 14, 2019
+
+## Extension of Directions imposed on Vasantdada Nagari Sahakari
+
+## Bank Ltd., Osmanabad, Maharashtra
+
+Reserve Bank of India, in the public interest, had issued directions to **Vasantdada** **Nagari Sahakari Bank Ltd., Osmanabad, Maharashtra in** exercise of powers vested in it under sub-section (1) of Section 35A of the Banking Regulation Act, 1949 (AACS) from the close of business on November 13, 2017. Reserve Bank of India has now further extended the directions for a period of three months from June 14, 2019 to September 13, 2019. The Directions stipulate certain restrictions and / or ceiling on withdrawal / acceptance of deposits. The detailed Directions are displayed on the bank’s premises for interested members of public to peruse. Reserve Bank of India may consider modifications of the Directions depending upon the circumstances. The issue of Directions should not per se be construed as cancellation of banking license by the Reserve Bank of India. The bank will continue to undertake banking business with restrictions till its financial position improves.
+
+## Yogesh Dayal
+
+## Press Release : 2018-2019/2953
+
+Chief General Manager
