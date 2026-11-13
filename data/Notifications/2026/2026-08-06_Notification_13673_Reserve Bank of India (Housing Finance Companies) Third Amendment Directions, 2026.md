@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2026_13673"
+title: "Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2315B337B00ED2C4FBD965C32C170DE52A6.PDF"
+pdf_sha256: "c25394f377320807ad077419341798675e6a4534cad8d1980faf624ac8a5462e"
+md_sha256: "1619bbb73bb8cde8ccdb39660f2ddf3e0bc1899722e72fc274fd11cf98d7ce2d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:33:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-08-06_Notification_13673_Reserve%20Bank%20of%20India%20%28Housing%20Finance%20Companies%29%20Third%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+RBI/2026-2027/231 DOR.MCS.REC.No.201/01-01-039/2026-27 August 6, 2026 **Reserve Bank of India (Housing Finance Companies) Third Amendment** **Directions, 2026** Certain instructions on matters related to engagement of recovery agents by Housing Finance Companies (HFCs) have been issued to HFCs under Chapter-X on ‘Fair Practices Code’ of the <u>Reserve Bank of India (Housing Finance Companies)</u> <u>Directions, 2025</u>. The extant instructions have since been reviewed and it has been decided to issue comprehensive instructions on conduct related matters in recovery of loan dues and engagement of recovery agencies to all NBFCs, excluding Mortgage Guarantee Companies, Core Investment Companies, NBFC-Account Aggregators, Standalone Primary Dealers, Non-Operating Financial Holding Companies, and NBFCs not having any customer interface, under the <u>Reserve Bank of India (Non-</u> <u>Banking Financial Companies – Responsible Business Conduct) Directions, 2025</u>.
+
+**2.** In exercise of the powers conferred by Section 30A of the National Housing Bank Act,1987, the Reserve Bank, being satisfied that it is necessary and expedient in public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+## 3. Short Title and Commencement
+
+(1) These Directions shall be called the Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026.
+(2) These Directions shall come into effect from **January 1, 2027**.
+**4.** These Amendment Directions shall modify the <u>Reserve Bank of India (Housing</u> <u>Finance Companies) Directions, 2025</u> as under: In Chapter-X on ‘Fair Practices Code’, the sub-section A.15 Guidelines for engaging Recovery Agents and paragraph 170 thereunder shall be deleted and substituted with a new sub-section and paragraph as under: ***“A.15A Conduct of HFCs in Recovery of Loan Dues and Engagement of*** ***Recovery Agents*** ***170A.** An HFC shall ensure compliance with the provisions of paragraphs 100A*
+
+<!-- PAGE 2 -->
+
+*to 100AB under Chapter III of* <u>Reserve Bank of India (Non-Banking Financial</u> <u>Companies – Responsible Business Conduct) Directions, 2025</u>*.”*
+
+(Veena Srivastava) Chief General Manager

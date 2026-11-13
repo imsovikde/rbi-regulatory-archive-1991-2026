@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2026_13712"
+title: "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT269D2CF6DE13687460D8CFB6E8AD0CDEF4E.PDF"
+pdf_sha256: "88c8f50c9f51ed0751cc89cc2cc2fae548ac3a564a0c4ae49dcab381f3a166d9"
+md_sha256: "21128aa8d3b52bdb1dbc3a20d4e1a36c7a41c7c7c5dc24f2c8b1061e8a2b4952"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:33:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-09-23_Notification_13712_Exim%20Bank%E2%80%99s%20GOI-supported%20Line%20of%20Credit%20%28LOC%29%20for%20%E2%82%B9%204%2C850%20crores%20the%20Government%20of%20Maldives%2C%20for%20financing%20various%20developmental%20projects%20in%20Maldives.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives
+
+<!-- PAGE 1 -->
+
+**बेटी बचाओ** **बेटी पढ़ाओ**
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+## RBI/2026-2027/269 September 23, 2026
+
+A.P. (DIR Series) Circular No. 22 All Category – I Authorised Dealer Banks Madam/Sir
+## Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the
+
+## Government of Maldives, for financing various developmental projects in
+
+## Maldives
+
+Export-Import Bank of India (Exim Bank) has entered into an agreement dated July 25, 2025, with the Government of the Republic of Maldives, for making available to the latter, Government of India supported Line of Credit (LoC) of ₹ 4,850 crores (Rupees Four Thousand Eight Hundred and Fifty crores only) for financing various developmental projects in Maldives. The export of eligible goods and services from India, as defined under the agreement, would be allowed, subject to their eligibility under the Foreign Trade Policy of the Government of India and whose purchase may be agreed to be financed by the Exim Bank under this agreement. Under this Agreement, goods, works and services of the value of at least 75% of the contract price (as may be applicable) shall be supplied by the Seller from India, and the remaining 25% of goods and services may be procured by the Seller for the purpose of the Eligible Contract from outside India.
+
+2. The Agreement under the LoC is effective from August 27, 2026. Under the LoC, the last date for disbursement will be 48 months after scheduled completion date of the contract. Individual Credit Agreements will be signed under the ambit of Umbrella LOC (for a minimum value of ₹ 500 crores) subsequent to identification and approval of the projects to be financed under each individual credits under the LOC.
+3. Shipments under the LoC shall be declared in Export Declaration Form/Shipping Bill as per instructions issued by the Reserve Bank from time to time.
+4. No agency commission is payable for export under the above LoC. However, if required, the exporter may use his own resources or utilize balances in his Exchange Earners’ Foreign Currency Account for payment of commission in any foreign currency. Authorised Dealer (AD) Category- I banks may allow such remittance after realization of full eligible value of export, subject to compliance with the extant instructions for payment of agency commission.
+5. AD Category – I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain complete details of the LoC from the Exim Bank’s office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005 or from their website <u>www.eximbankindia.in</u>
+
+<!-- PAGE 2 -->
+
+6. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(N Senthil Kumar) Chief General Manager
+
+वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।

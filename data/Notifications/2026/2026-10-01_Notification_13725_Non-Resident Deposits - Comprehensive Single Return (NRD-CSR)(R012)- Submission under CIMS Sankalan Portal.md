@@ -1,0 +1,54 @@
+---
+doc_id: "Notifications_2026_13725"
+title: "Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2800AE75657FD144B8ABC111ECF504BCC06.PDF"
+pdf_sha256: "38200e5772e439cdbbe6850525cbea6e944e61ef38681f7d44de15972150cdb6"
+md_sha256: "c48ae401befeae64a052a231c787a9cd37377c392337ee4e4bb2137c8b6444ca"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:33:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-10-01_Notification_13725_Non-Resident%20Deposits%20-%20Comprehensive%20Single%20Return%20%28NRD-CSR%29%28R012%29-%20Submission%20under%20CIMS%20Sankalan%20Portal.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ
+
+# भारतीय रज़वर् बैंक बेटी पढ़ाओ RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2026-27/280
+
+A.P. (DIR Series) Circular No. 24 October 01, 2026 To All Authorised Dealers Madam / Sir,
+## Non-Resident Deposits-Comprehensive Single Return (NRD-CSR)(R012):
+
+## Submission under CIMS Sankalan Portal
+
+Attention of banks maintaining Non-Resident Deposits (NRD) Accounts is invited to <u>A.P.</u> <u>(DIR Series) Circular No. 19 dated August 07, 2013</u> on monthly NRD-CSR return submission through XBRL platform to the Reserve Bank.
+
+2. The NRD-CSR reporting has since moved to Centralised Information Management System (CIMS) Sankalan portal with the submission of March 2024 data in the month of April 2024. The return code of NRD-CSR on the CIMS is R012. The existing formats of NRD-CSR have also been recently rationalised for reporting bank-wise consolidated data under CIMS. The access to submit a return and reporting channel will be managed by RBI. The creation of users to submit the return and access to various options available on the Sankalan portal will be managed by the admin-users of the banks. Accordingly, this circular is being issued in supersession of the <u>A.P. (DIR Series) Circular No. 19 dated</u> <u>August 07, 2013</u>.
+3. The NRD-CSR (R012) return can be submitted to RBI on CIMS through one of the three channels mentioned below:
+i. System-to-system integration: The returns will be collected directly from the reporting entities’ ADF server to RBI CIMS server. ii. File upload on Data Portal: Reporting entities can login to CIMS Data collection portal, upload and submit the return specific file.
+iii. Screen based web form on Data Collection Portal: Reporting entities can login to CIMS data collection portal and key in return specific information in the web form वदे शी मुद्रा वभाग**,** के न्द्रय कायार्लय**,** के न्द्रय कायार्लय भवन**,** शहद भगतसंह मागर्**,** फोटर्**,** मुंबई**-400 001** भारत Foreign Exchange Department, Central Office ,Central Office building, Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Telephone No.022-22601000, ईमेल: <u>fedcopcd@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+## created for the return.
+
+4. The revised NRD-CSR format, maturity codes, record types and the validations checks are provided in the <u>Annex</u>. For monthly NRD-CSR submission on CIMS portal by nodal office of banks, the Reserve Bank has provided the following alternatives:
+i. Banks can download the RBI’s NRD-CSR return template and format for screen based submission by logging to the RBI’s CIMS Sankalan portal (<u>[https://sankalan.rbi.org.in](https://sankalan.rbi.org.in)</u>) [Path: CIMS Sankalan *Homepage* è *(enter Username* */ Password / Captcha and OTP received on registered mobile of entity user)* è *Downloads* è*Download Return Template/Taxonomy and Return Format* è*NRD-* *CSR* è *Version Number 11.0.3* è *Download Format*] and use the same to prepare the data in the .xlsx file as per prescribed format to submit the data in the screen-based file submission module. NRD-CSR return Screen based submission is currently limited to a maximum of 2000 records. ii. Banks can Download RBI prescribed NRD-CSR Return Template/Taxonomy of .xml file preparation for File Upload / System to System based reporting channels from the *Downloads*è *Download Return Template/Taxonomy and Return Format* è *NRD-CSR* è *Version Number 11.0.3* è *Download Return* *Template/Taxonomy*. Banks are required to prepare NRD-CSR .xml file for data submission as prescribed by RBI and upload the same on RBI’s CIMS portal.
+5. The NRD-CSR report may be submitted on or before 10th of the month following the month to which the NRD data pertains. Banks may contact CIMS helpdesk (‘Support’ menu in the homepage) for any further assistance.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Dr. Aditya Gaiha)
+
+## Chief General Manager-In-Charge
