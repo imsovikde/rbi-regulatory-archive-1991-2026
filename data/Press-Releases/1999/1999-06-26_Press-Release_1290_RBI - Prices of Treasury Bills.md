@@ -1,0 +1,35 @@
+---
+doc_id: "Press-Releases_1999_1290"
+title: "RBI - Prices of Treasury Bills"
+category: "Press-Releases"
+year: 1999
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/7436.pdf"
+pdf_sha256: "97309de6d39ccd091f088a415720af89d9ed89b4a0918cffbac1c0891910722b"
+md_sha256: "a39dfe9f5203354a5ef7531b820df750073ff2dc1226cf7eb4c3f7fbf50be7b6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:56:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-06-26_Press-Release_1290_RBI%20-%20Prices%20of%20Treasury%20Bills.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI - Prices of Treasury Bills
+
+<!-- PAGE 1 -->
+
+# RBI-Prices of Treasury Bills
+
+## June 26, 1999
+
+The price list effective from June 28, 1999 is as under : **Sr.No. Type of Treasury Bill Date of Maturity Yield rate (%) for** <u>sale</u>
+
+1. 364 Day 15 June 2000 10.30
+1. All sales will be made in Mumbai only.
+2. Deals will be for a minimum amount of Rs.1 lakh and multiples of Rs.1 lakh thereafter.
+## Rupambara Padhi
+
+## Manager
+
+## Press Release : 1998-99/1629
