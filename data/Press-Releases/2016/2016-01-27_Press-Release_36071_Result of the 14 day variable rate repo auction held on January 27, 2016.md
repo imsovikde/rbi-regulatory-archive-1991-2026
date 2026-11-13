@@ -1,0 +1,26 @@
+---
+doc_id: "Press-Releases_2016_36071"
+title: "Result of the 14 day variable rate repo auction held on January 27, 2016"
+category: "Press-Releases"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR175578C3A4BD8743429FBC18188535624AA1.PDF"
+pdf_sha256: "8d85ae469b03be362ac5891e0b6888bbe8d2f23ef140cb625d1a8ef6a6684a0c"
+md_sha256: "53f99ee7b9ba4c4478173ae0527963efe25a4afcdafd5106b11390e34247c974"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T19:01:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2016/2016-01-27_Press-Release_36071_Result%20of%20the%2014%20day%20variable%20rate%20repo%20auction%20held%20on%20January%2027%2C%202016.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the 14 day variable rate repo auction held on January 27, 2016
+
+<!-- PAGE 1 -->
+
+|||||प्रेस प्रकाशनी||PRESS RELEASE|
+|---|---|---|---|---|---|---|
+||DEPARTMENT OF COMMUNICATION|संचार वभाग, कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई _____________________________________________________________________________________________________________________ फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358|- 400001 0, Central Office, S.B.S.Marg, Mumbai-400001|वेबसाइट इ-मेल email|: :|भारतीय �रज़वर् बक RESERVE BANK OF INDIA www.rbi.org.in/hindi Website : www.rbi.org.in helpdoc@rbi.org.in|
+|Notified Amount (in|Total amount of bids received (in|billion) billion)|Result of the 14 day variable rate repo auction held on January 27, 2016|||January 27, 2016 300.00 139.80|
+|Amount allotted (in Cut off Rate (%)|Weighted Average Rate (%) Press Release: 2015-2016/1755|billion) Partial Allotment Percentage of bids received at cut off rate||||139.80 6.76 6.78 N.A. Ajit Prasad Assistant Adviser|
