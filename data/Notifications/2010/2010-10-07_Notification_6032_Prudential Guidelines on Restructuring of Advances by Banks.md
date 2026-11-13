@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2010_6032"
+title: "Prudential Guidelines on Restructuring of Advances by Banks"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/GRA071010E.pdf"
+pdf_sha256: "7296a45109d09ff4ee0bb73fa2db425f9fa1e856dc0e54a1b8ff613b7a953ed7"
+md_sha256: "d9bae7de6de696157e2b60e2cdfc43a80ec8334fde50f9be777893e3175d0d1e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:15:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-10-07_Notification_6032_Prudential%20Guidelines%20on%20Restructuring%20of%20Advances%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Guidelines on Restructuring of Advances by Banks
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/228 DBOD.BP.No. 49/21.04.132/2010-11 October 7, 2010
+
+The Chairmen and Managing Directors / Chief Executive Officers of All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## Prudential Guidelines on Restructuring of Advances by Banks
+
+Please refer to our <u>Master Circular DBOD. No. BP. BC.21 /21.04.048/ 2010-11 dated</u> <u>July 1, 2010</u> on 'Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances'.
+
+2. In terms of para 14.2.2 (iv) of the above circular, promoters' sacrifice and additional funds brought by them should be a minimum of 15% of banks' sacrifice. The additional funds are required to be brought in by the promoters upfront and not be phased over a period of time.
+3. It has been represented to us by banks and Indian Banks’ Association that corporates under stress are finding it difficult to bring in the promoters’ share of sacrifice and additional funds upfront on some occasions. Therefore, it has been decided that:
+i) The promoter's sacrifice and additional funds required to be brought in by the promoters should generally be brought in upfront. However, if banks are convinced that the promoters face genuine difficulty in bringing their share of the Department of Banking Operations and Development, Central Office, 12th floor, Central Office Building, Shahid Bhagat
+Singh Marg, Mumbai ‐ 400001 **Tel No: 22661602 Fax No: 22705691 E-mail: cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+sacrifice immediately and need some extension of time to fulfil their commitments, the promoters could be allowed to bring in 50% of their sacrifice,
+
+i.e. 50% of 15%, upfront and the balance within a period of one year. ii) However, in case the promoters fail to bring in their balance share of sacrifice within the extended time limit of one year, the asset classification benefits derived by banks in terms of para 14.2.2 of the above circular will cease to accrue and the banks will have to revert to classifying such accounts as per the asset classification norms specified under para 11.2 of our above circular.
+4. We further clarify that contribution by the promoter need not necessarily be brought in cash and can be brought in the form of de-rating of equity, conversion of unsecured loan brought by the promoter into equity and interest free loans. Yours faithfully, (A. K. Khound) Chief General Manager

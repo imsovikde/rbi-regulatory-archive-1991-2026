@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2010_6026"
+title: "Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC202102010.pdf"
+pdf_sha256: "03a171612a84dc2c44be6fa8673d729e1203b8abd4226b3698b4643f3d3c5817"
+md_sha256: "10ac8d4afcb2062ef3f6f85fa004166a2fc232ade2189f17ea91808d534d0b0d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:15:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-10-04_Notification_6026_Know%20Your%20Customer%20%28KYC%29%20Norms-%20Anti-%20Money%20Laundering%20%28AML%29%20Standards-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/226 DNBS(PD).CC. No 202 /03.10.42 /2010-11 October 4, 2010
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir,
+
+## Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML) Standards/
+
+## Combating of Financing of Terrorism (CFT)
+
+Financial Action Task Force (FATF) as a part of its ongoing review of compliance with the AML / CFT standards, has identified certain jurisdictions which have strategic AML /CFT deficiencies.
+
+2. FATF, has issued a statement dated June 25, 2010 (copy enclosed) and has called upon jurisdictions listed in the statement to complete the implementation of their action plan within the timeframe and has called upon its members to consider the information given in the statement.
+3. All NBFCs/RNBCs are accordingly advised to consider the information contained in the enclosed statement.
+4. An acknowledged receipt of this circular may be submitted by the Compliance officer/ Principal Officer of the NBFCs to the concerned Regional Office of DNBS in whose jurisdiction the NBFC/RNBC is functioning. Yours faithfully, (Uma Subramaniam) Chief General Manager-in-Charge Encl:as above

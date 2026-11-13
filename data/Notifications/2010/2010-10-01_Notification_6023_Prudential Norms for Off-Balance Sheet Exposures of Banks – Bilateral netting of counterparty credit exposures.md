@@ -1,0 +1,74 @@
+---
+doc_id: "Notifications_2010_6023"
+title: "Prudential Norms for Off-Balance Sheet Exposures of Banks –  Bilateral netting of counterparty credit exposures"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR03092010N.pdf"
+pdf_sha256: "a28218e6c617e89a94a70c9a0fa74776fdd185c6a36cf831c5b74ac936f47e5c"
+md_sha256: "d87ace79b8f34ea8b62a7a1f32ca31c68c25324cdc2679dfd16aa48276d10a1d"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:15:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-10-01_Notification_6023_Prudential%20Norms%20for%20Off-Balance%20Sheet%20Exposures%20of%20Banks%20%E2%80%93%20Bilateral%20netting%20of%20counterparty%20credit%20exposures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms for Off-Balance Sheet Exposures of Banks –  Bilateral netting of counterparty credit exposures
+
+<!-- PAGE 1 -->
+
+ANK
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/223
+
+DBOD.N0.BP.BC.48/21.06.001/2010-11
+
+October 1, 2010
+
+AllScheduled Commercial Banks
+
+(Excluding Local Area Banks and Regional Rural Banks)
+
+Dear Sir,
+
+Prudential Norms for Off-Balance Sheet Exposures of Banks -
+
+Bilateral netting of counterparty credit exposures
+
+As you are aware, in terms of our extant instructions issued vide our Master
+
+Circular - *Prudential Guidelines on Capital Adequacy and Market Discipline - New
+
+credit equivalent amount for interest rate and foreignexchange derivative
+
+transactions and gold. The credit equivalent amount is used for the purposes of
+
+capital adequacy and exposure norms.
+
+counterparty credit exposures, in such derivative contracts, has been examined
+
+netting is not unambiguously clear, it has been decided that bilateral netting of
+
+mark-to-market (MTM) values arising on account of such derivative contracts cannot
+
+be permitted. Accordingly, banks should count their gross positive MTM value of
+
+such contracts for the purposes of capital adequacy as well as for exposure norms.
+
+Yours faithfully,
+
+(B Mahapatra)
+
+Chief General Manager-in-Charge
+
+Department of Banking Operations and Development, Central Office, 12"h Floor, Central Office Building, Shahid Bhagat SIngh
+
+Marg,Mumbai-400001
+
+Tel No: 91-22-2270 5699 Fax No: 91-22-2270 5691 Email ID:cgmicdbodco@rbi.org.in

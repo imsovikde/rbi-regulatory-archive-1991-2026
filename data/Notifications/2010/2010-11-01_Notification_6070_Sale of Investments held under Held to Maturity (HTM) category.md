@@ -1,0 +1,86 @@
+---
+doc_id: "Notifications_2010_6070"
+title: "Sale of Investments held under Held to Maturity (HTM) category"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/HTMS011110.PDF"
+pdf_sha256: "b6d487a4d5fcfaf50af541228bb465f011272ffb8f80fb302965f3a1f70f7a5b"
+md_sha256: "cb253de9605d6fc41ceecef001b2a71e9e21be34440808779988ca9d6bbd61b6"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:15:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-11-01_Notification_6070_Sale%20of%20Investments%20held%20under%20Held%20to%20Maturity%20%28HTM%29%20category.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sale of Investments held under Held to Maturity (HTM) category
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of
+
+Commercial Banks)Directions,2021
+
+HdlR
+
+RESERVEBANK OFINDLA
+
+www.rbi.org.in
+
+RBI/2010-11/254
+
+DBOD.No.BP.BC.56/21.04.141/2010-11
+
+November 1, 2010
+
+The Chairmen and Managing Directors/
+
+Chief Executive Officers of
+
+AllCommercialBanks
+
+(excludingRegional Rural Banks)
+
+Dear Sir,
+
+Sale of Investments held under Held to Maturity (HTM) category
+
+In terms of our circular No. DBOD.BP.BC
+
+34/21.04.141/2010-11 dated August 6,
+
+2010 on the captioned subject it was
+
+decided that if the value of sales and
+
+of investments held in HTM category at the beginning of the year, bank should
+
+disclose the market value of the investments held in the HTM category and
+
+indicate the excess of book value over market value for which provision is not
+
+made.
+
+2. In this connection, we clarify that the one-time transfer of securities to/from HTM
+
+category with the approval of Board of Directors permitted to be undertaken by
+
+banks at the beginning of the accounting year and sales to the Reserve Bank of
+
+12400001
+
+Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat
+
+Singh Marg, Mumbai,400001
+
+fa /Tel No:22661602 a/Fax No:22705691 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+India under pre-announced OMO auctions will be excluded from the 5 per cent cap prescribed in the above mentioned circular.
+
+3. It may be mentioned that in terms of para 4.2 of our Master Circular <u>DBOD.No.BP.BC.18/21.04.141/2010-11 dated July 1, 2010</u> on ‘Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks’, banks are permitted to undertake repos from any of the three categories of investments, viz., HFT, AFS and HTM.
+4. Further, we clarify that these instructions will be effective from April 1, 2011. Yours faithfully, (B. Mahapatra) Chief General Manager –in-Charge
+# Withdrawn

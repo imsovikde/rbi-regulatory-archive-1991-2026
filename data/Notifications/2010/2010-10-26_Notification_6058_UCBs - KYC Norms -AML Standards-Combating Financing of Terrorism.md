@@ -1,0 +1,93 @@
+---
+doc_id: "Notifications_2010_6058"
+title: "UCBs - KYC Norms /AML Standards/Combating Financing of Terrorism"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CKYCNDB261010.pdf"
+pdf_sha256: "831358b565985e6adde9aac57b97aa0400cc27f54a2d15543231288dbb7bd636"
+md_sha256: "1617a6d12ef97d28d17a930379b3f8370b9e44b28dc110d9db5296a83bb7d32a"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:15:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-10-26_Notification_6058_UCBs%20-%20KYC%20Norms%20-AML%20Standards-Combating%20Financing%20of%20Terrorism.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - KYC Norms /AML Standards/Combating Financing of Terrorism
+
+<!-- PAGE 1 -->
+
+2,f+,ui, cf ,o",A αyA
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/246
+
+UBD.BPD. (PCB).Cir. No. 17 /14.01.062/2010-11
+
+October 25,2010
+
+The Chief Executive Officers of
+
+All AD I Category Urban Co-operative Banks
+
+(As per List enclosed)
+
+Dear Sir / Madam,
+
+Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards /
+
+Combating of Financing of Terrorism (CFT)
+
+12, 2010. As part of its ongoing review of compliance with the AML/CFT standards,
+
+the Financial Action Task Force (FATF) has identified certain jurisdictions which have
+
+strategicAML/CFT deficiencies.
+
+2. FATF, vide its statement dated June 25, 2010 (copy enclosed) has called upon
+
+jurisdictions listed in the statement to complete the implementation of their action plan
+
+within the timeframe. The FATF, in the statement has called upon its members to
+
+consider the information given in the statement.
+
+3. All banks and All India Financial Institutions are accordingly advised to consider the
+
+information contained in the enclosed statement.
+
+4. The Compliance Officer / Principal Officer of the bank should acknowledge receipt
+
+of this circular to our Regional Office concerned.
+
+Yours faithfully
+
+(M. Nanda Kumar)
+
+DeputyGeneral Manager
+
+Encl: As above.
+
+022-24939930-49;022-24974030/24920231;rbiubdco@rbi.org.in
+
+Urban Banks Department, Central Office,Garment House,1Floor,Dr.A.B.Road,Worli,Mumbai-400018,India
+
+Phone:022-24939930-49;Fax:022-24974030/24920231;Email:rbiubdco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## List of AD I category UCBs
+
+|1.|Abhyudaya Co-operative Bank Ltd. K.K. Tower, Abhyudaya Bank Lane, Off. G.D. Ambekar Marg Parel Village MUMBAI 400 012|
+|---|---|
+|2.|Bharat Co-operative Bank (Mumbai) Bank Ltd. Mohan Terrace, 64/72, Modi Street Fort, MUMBAI 400 001|
+|3.|Bombay Mercantile Co-operative Bank Ltd. 78, Mohammed Ali Road MUMBAI 400 003|
+|4.|Cosmos Co-operative Bank Ltd. Cosmos Bank Building 612, New Sadashi Peth Laxmi Road, Kunte Chowk PUNE 411 030|
+|5.|Saraswat Co-operative Bank Ltd. Corporate Office, Mittal Court `A' Wing, 1st Floor, Nariman Point MUMBAI 400 021|
+|6.|Shamrao Vithal Co-operative Bank Ltd. SVC Tower, Jawaharlal Nehru Road, Vakola Santacruz (East) MUMBAI 400 055|
+|7.|Kalupur Commercial Co-operative Bank Ltd. Kalupur Bank Bhavan Income Tax Circle, Ashram Road Kalupur, AHMEDABAD 380 014|

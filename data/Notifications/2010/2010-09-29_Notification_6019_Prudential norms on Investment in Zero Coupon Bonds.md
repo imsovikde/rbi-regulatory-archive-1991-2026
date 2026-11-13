@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2010_6019"
+title: "Prudential norms on Investment in Zero Coupon Bonds"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIINZCBS290810.PDF"
+pdf_sha256: "10e19e30cc64d9e8fda091c007246d4c0026a2f5881d5e12418c832d65ad24ef"
+md_sha256: "3da49352f7a6bc84a3fec5474e805a0968288bcae2a402a123366a6557d75a9e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:15:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-09-29_Notification_6019_Prudential%20norms%20on%20Investment%20in%20Zero%20Coupon%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential norms on Investment in Zero Coupon Bonds
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021.
+
+## RBI/2010-11/219 DBOD No. BP.BC. 44 / 21.04.141/ 2010-11
+
+## September 29, 2010
+
+The Chairmen and Managing Directors/ Chief Executive Officers of All Commercial Banks (excluding Regional Rural Banks)
+
+Dear Sir,
+
+## <u>Prudential norms on Investment in Zero Coupon Bonds</u>
+
+It has come to our notice that banks are investing in long term Zero Coupon Bonds (ZCBs) issued by corporates including those issued by Non-Banking Financial Companies (NBFCs). In the case of ZCBs the issuers are not required to pay any interest or installments till the maturity of bonds. As a result, the credit risk in such investments would go unrecognized till the maturity of bonds and this risk could especially be significant in the case of long term ZCBs. Such issuances and investments if done on a large scale
+
+# Withdrawn
+
+could pose systemic problems.
+
+2. In view of the foregoing, it has been decided that:
+- Banks should henceforth not invest in ZCBs unless the issuer builds up sinking fund for all accrued interest and keeps it invested in liquid investments/securities (Government bonds), and
+- Banks should put in place conservative limits for their investments in ZCBs.
+3. Banks are advised to take immediate action to adhere to the above instructions.
+## Yours faithfully
+
+(B. Mahapatra) Chief General Manager-in-Charge _____________________________________________________________________________________________________ _____________________ Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg,, Mumbai,400001 Tel No:22661602 Fax No:22705691 Email ID:cgmicdbodco@rbi.org.in

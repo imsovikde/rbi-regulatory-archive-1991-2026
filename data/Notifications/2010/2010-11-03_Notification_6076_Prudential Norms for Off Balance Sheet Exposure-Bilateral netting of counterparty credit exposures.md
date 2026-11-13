@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2010_6076"
+title: "Prudential Norms for Off Balance Sheet Exposure-Bilateral netting of counterparty credit exposures"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FFC031110.pdf"
+pdf_sha256: "6d830ea1df0a0fdabfc7a1b1c6bd1dcf134682e1b64862dfa8e13de6eda50681"
+md_sha256: "a89cd74fb7968b6e333717368ecb8f330d2347e6fddd0065054700bf47f30cf5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:15:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-11-03_Notification_6076_Prudential%20Norms%20for%20Off%20Balance%20Sheet%20Exposure-Bilateral%20netting%20of%20counterparty%20credit%20exposures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms for Off Balance Sheet Exposure-Bilateral netting of counterparty credit exposures
+
+<!-- PAGE 1 -->
+
+# ______RESERVE BANK OF INDIA______________
+
+www.rbi.org.in
+
+RBI/2010-11/258 DBOD.FID.FIC.No 8 /01.02.00 /2010-11 November 2, 2010
+
+## The CEOs of select All-India Term Lending and Refinancing Institutions
+
+## (Exim Bank, NABARD, NHB and SIDBI)
+
+Dear Sir,
+
+## Prudential Norms for Off Balance Sheet Exposure-Bilateral netting of counterparty credit exposures
+
+Please find enclosed circular <u>DBOD No. BP .BC .48 / 21.06.001 /</u> 2010-11 <u>dated October 1, 2010</u> on the above subject. In this connection, it is advised that the above guidelines issued to banks, shall mutatis mutandis apply to the select All-India Financial Institutions (AIFIs)
+
+Yours faithfully,
+
+(Vinay Baijal) Chief General Manager
+
+___________________________________________________________________________________________________________________ **Department of Banking Operations and Development, Central Office,P.O.Box No.1004,13th floor,Central Office Building, Shahid Bhagat** **Singh Marg, Mumbai -1** **Tel No: 91-22-2270 1206 ¸/Fax No: 91-22-2270 1238 Email ID: cgmicdbodco@rbi.org.in**

@@ -1,0 +1,134 @@
+---
+doc_id: "Notifications_2010_6018"
+title: "Settlement and Default Handling Procedures in Multilateral and Deferred Net Settlement Systems under the PSS Act, 2007"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRSFD280910.PDF"
+pdf_sha256: "ced9d415cd649d82493d37c45d830b2625a90c1d9602bf6a96456625f214bb0a"
+md_sha256: "2fd3c36efbdcba25924e60c7203a3aaaf535ac163e0568e632a424f6e17797a2"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:15:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-09-29_Notification_6018_Settlement%20and%20Default%20Handling%20Procedures%20in%20Multilateral%20and%20Deferred%20Net%20Settlement%20Systems%20under%20the%20PSS%20Act%2C%202007.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Settlement and Default Handling Procedures in Multilateral and Deferred Net Settlement Systems under the PSS Act, 2007
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/218 DPSS.CO.CHD.No. 695 / 03.01.03 / 2010-2011 September 29, 2010
+
+The Chairman and Managing Director / Chief Executive Officer Banks and Authorised Payment Systems
+
+## Madam / Dear Sir
+
+## <u>Directive on Settlement and Default Handling Procedures in Multilateral and Deferred</u>
+
+## <u>Net Settlement Systems under the Payment and Settlement Systems Act, 2007</u>
+
+A firm legal basis provides certainty and predictability which is important for the smooth functioning of payment systems. The systems and procedures in place need to have a legal basis, especially the method of determining settlement obligations of the participants and the point at which the settlement of obligations is deemed final and irrevocable. It is essential for all multilateral and deferred net settlement systems (both paper based and electronic) to have legal certainty for netting and settlement arrangements since there is a time gap between clearing (or processing) and settlement.
+
+The Payment and Settlement Systems Act, 2007 (the PSS Act) and Regulations framed thereunder, has provided a firm legal basis for the process of netting and settlement finality. To amplify this, it has been decided to issue a directive on Settlement and Default Handling Procedures (enclosed) for compliance by all payment system providers and system participants covering all multilateral and deferred net settlement systems authorised by the Reserve Bank of India. This covers all the Bankers' Clearing Houses managed by various banks across the country.
+
+Amendments to the Procedural Guidelines are being effected to reflect the changes necessitated by this directive.
+
+These instructions are being issued under the powers conferred on the Reserve Bank of India by the PSS Act (Act 51 of 2007).
+
+## Yours faithfully
+
+(G Padmanabhan) Chief General Manager
+
+<u>Encl</u>. : Directive on Settlement and Default Handling Procedures in Multilateral and Deferred Net Settlement Systems
+
+<!-- PAGE 2 -->
+
+**Directive on Settlement and Default Handling Procedures**
+
+# Enclosure to Circular DPSS.CO.CHD.No. 695 / 03.01.03 / 2010-2011 dated September 29, 2010
+
+# Directive on Settlement and Default Handling Procedures in Multilateral and Deferred Net Settlement Systems
+
+**(Issued under section 10(2) of the Payment and Settlement Systems Act, 2007)**
+
+## 1. Introduction
+
+***1.1.*** Multilateral and deferred net settlement systems (like Cheques, ECS or NEFT) are critical payment system components handling substantial volumes and are popular among customers (because of convenience) and bankers (because of lower liquidity requirements). Netting also benefits the regulators, by virtue of reducing the size of credit and liquidity exposure of participant banks, thereby leading to containment of systemic risk.
+***1.2.*** It is essential for all such net settlement systems to have legal certainty for netting and settlement arrangements. It is also crucial for the transactions settled through such a system to have finality encompassing the relevant statutory prescriptions.
+***1.3.*** Finality, till recently, was achieved by way of adoption of Uniform Regulations and Rules for Bankers’ Clearing Houses (URRBCH) and bilateral agreements entered into by the system providers with the system participants.
+***1.4.*** With the coming into force of the Payment & Settlement Systems Act, 2007 (the Act) and the framing of Regulations thereunder, the process of netting has got statutory recognition. Section 23 of the Act, provides for finality and irrevocability of settlement effected in accordance with such procedure as soon as the payment obligation, as a result of such settlement, is determined irrespective of whether or not such obligation is actually paid or not.
+***1.5.*** To amplify the aspect of finality of settlement and secure the multilateral and deferred net settlement systems with a default handling procedure, it is considered necessary to issue a directive on settlement and default handling procedures. Apart from clarifying the finality of settlement aspects, the directive will also bring in transparency in the default handling procedures and uniformity in default handling procedures across all the multilateral and deferred net settlement systems approved by the Reserve Bank of India (the Bank).
+***1.6.*** The directive also intends to provide adequate protection from settlement risk in multilateral and deferred net settlement systems, as also ensure compliance with international minimum standards for netting schemes.
+***1.7.*** This directive on settlement and default handling procedures in multilateral and deferred net settlement systems is being issued in exercise of the powers conferred on the Bank by section 10(2), read with section 23 of the Act.
+**Department of Payment & Settlement Systems, Reserve Bank of India, Central Office Page - 1 - of 5**
+
+<!-- PAGE 3 -->
+
+**Directive on Settlement and Default Handling Procedures**
+
+## 2. Definitions
+
+## In this Directive, unless the context otherwise require,
+
+***2.1.*** “Clearing house” means a collective entity of member banks for speedy and economic collection and clearance of cheques or electronic instructions, which is governed by the URRBCH / Procedural Guidelines issued by the Bank.
+***2.2.*** “Recalculation” means a default handling mechanism in respect of payment obligations that are not settled after their record in the books of the settlement bank. In case of resort to recalculation all dues to and obligations of the defaulting bank will be reversed by the Clearing House (on a request from the settlement bank) as if the defaulting bank did not participate in clearing.
+***2.3.*** “Settlement bank” means the bank which maintains the settlement accounts of all the member banks for settlement of clearing and / or other obligations.
+***2.4.*** Other words and expressions wherever used in this directive shall have the meanings and intent assigned to them in the Act.
+## 3. Procedure for determining settlement in multilateral and deferred net settlement systems
+
+## 3.1. Determination of settlement
+
+***3.1.1.*** In case of cheque clearing, after closure of the prescribed clearing window, Clearing Houses shall arrive at the net settlement position for each bank. This is based on all the instruments that have been accepted by the Clearing House for arriving at the net settlement position.
+***3.1.2.*** At Clearing Houses where processing operations are carried out in the night or at a time when the settlement bank is not open for operations, the time for arriving at the net settlement position shall be one hour before the opening of the settlement bank for daily operations. The time available between the time of completion of processing and the time of arriving at the net settlement position, is to complete the administrative requirements, including ensuring that the net settlement position has been carried out correctly, the figures are accurately posted in the vouchers (to be sent to the settlement bank), the amounts are properly conveyed to the settlement bank and the like.
+***3.1.3.*** After opening of the settlement bank, a time window of thirty minutes shall be provided to the settlement bank for posting the settlement position. This time window of thirty minutes would enable banks to fund their accounts with the settlement bank so that the clearing obligations are smoothly settled.
+**Department of Payment & Settlement Systems, Reserve Bank of India, Central Office Page - 2 - of 5**
+
+<!-- PAGE 4 -->
+
+**Directive on Settlement and Default Handling Procedures**
+
+***3.1.4.*** For Clearing Houses where processing operations are carried out when the settlement bank is open for operations, the maximum time window from the time of arriving at the net settlement position by the Clearing House till the time of posting the settlement position in the books of the settlement bank for settlement of clearing obligations shall be thirty minutes.
+***3.1.5.*** In case of electronic multilateral and deferred net settlement systems (like Electronic Clearing Service, National Electronic Funds Transfer and the associated variants) where processing operations are carried out in night or at a time when settlement bank is not open for operations, the time for arriving at the net settlement position shall be one hour before the opening of the settlement bank for daily operations (as specified at
+3.1.2 above). The clearing obligations will be taken up immediately for settlement as soon as the settlement bank is open for operations. The additional time window of thirty minutes provided at 3.1.3 above will not be available for electronic multilateral and deferred net settlement systems.
+***3.1.6.*** In case of electronic multilateral and deferred net settlement systems where processing operations are carried out when settlement bank is open for operations, the net settlement position after being arrived at, will be conveyed immediately to the settlement bank for settlement of clearing obligations. The time window of thirty minutes provided at 3.1.4 above will not be available for electronic multilateral and deferred net settlement systems.
+***3.1.7.*** Each Clearing House shall publicise the time at which the net settlement position will be arrived at by the Clearing House and the time at which the settlement will be posted in the books of the settlement bank for settlement. Member banks shall ensure availability of funds in their settlement account at the time of posting of the settlement position in the books of the settlement bank to meet their clearing obligations, and in any case within the time window, if any, stipulated by the settlement bank for settlement of the obligations.
+## 3.2. Posting of net settlement position in the books of the settlement bank
+
+***3.2.1.*** The time between arriving at the net settlement position and the time of posting of the net settlement position in the books of the settlement bank shall, however, be as minimum as possible. This is to ensure early completion of settlement.
+**Department of Payment & Settlement Systems, Reserve Bank of India, Central Office Page - 3 - of 5**
+
+<!-- PAGE 5 -->
+
+**Directive on Settlement and Default Handling Procedures**
+
+## 3.3. Default handling procedure
+
+***3.3.1.*** In case of inability of a member bank to fund its settlement account to meet the net settlement obligations, it is open for the settlement bank to extend clearing overdraft or accommodation (temporary or otherwise) at the request of the member banks so that the clearing obligations are settled in the books of the settlement bank. The process of extending the overdraft shall, however, be a bilateral arrangement between the defaulting member bank and the settlement bank. It shall also be open for a member bank to have bilateral arrangements for liquidity with other member banks as well. Such bilateral arrangements shall have to operate and be completed within the time window (specified at 3.1.3 and
+3.1.4), stipulated by the settlement bank for settlement of the obligations.
+***3.3.2.*** In case of inability of a member bank to fund its settlement account to meet the clearing obligations, the shortfall in the settlement account shall be dealt with as a default situation and the default handling procedure shall be put into operation.
+***3.3.3.*** In case the settlement is guaranteed, the default handling procedure shall involve utilising the margin money, invoking the line of credit extended to the defaulting bank, activating the loss sharing mechanism or any other guaranteed mechanism. Nuances of operationalising the default handling procedure shall be as per the procedural guidelines of the individual multilateral and deferred net settlement systems.
+***3.3.4.*** In situations where the settlement is non-guaranteed in nature, the mechanism of recalculation of settlement shall be applied. As part of this procedure, the settlement bank will request the Clearing House (with appropriate consent from the President of the Clearing House) to recalculate the settlement.
+***3.3.5.*** As part of the process of recalculating the settlement, the Clearing House shall ‘exclude’ all the transactions (both receivables and payables) of the defaulting member bank as if the said bank did not participate in clearing.
+***3.3.6.*** The recalculated position shall be immediately conveyed to the settlement bank and posted in the books of the settlement bank.
+***3.3.7.*** In case any other member bank is unable to meet its clearing obligations consequent to recalculating of the settlement, the steps at 3.3.3, 3.3.4 and 3.3.5 above will be repeated.
+***3.3.8.*** The process of recalculation of settlement as above is considered part of the settlement procedure.
+***3.3.9.*** In case of default and consequent recalculation of settlement, if insolvency arises during the interregnum, the immediately preceding settlement reached shall be treated as final and binding.
+**Department of Payment & Settlement Systems, Reserve Bank of India, Central Office Page - 4 - of 5**
+
+<!-- PAGE 6 -->
+
+**Directive on Settlement and Default Handling Procedures**
+
+## 4. Others
+
+***4.1.*** The series of steps outlined at Para 3 above shall have to be fully complied with until the entire process of settlement from the time of arriving at the net settlement position by the Clearing House till the time the settlement obligations of member banks in their accounts with the settlement bank are fully met has been completed.
+***4.2.*** If it is decided by the Clearing House to extend the clearing settlement for any reason, the Clearing House shall announce at the time of acceptance of instruments / instructions for settlement, the time up to which extension has been considered and the time at which the net settlement position is intended to be arrived at and communicated to the settlement bank.
+***4.3.*** Individual Clearing Houses may prescribe with the approval of the President of the Clearing House other measures such as net debit caps, presentation limits, etc., for mitigating risk of default by member banks. Such measures shall in no way impact the process of settlement as prescribed at Para 3 above.
+## 5. Application of the directive
+
+***5.1.*** The directive shall be applicable to all multilateral and deferred net settlement systems like Cheques (at MICR-Cheque Processing Centres and other Clearing Houses, including Cheque Truncation System), Electronic Clearing Service (Debit, Credit and related equivalents, if any), National Electronic Funds Transfer system and the like.
+***5.2.*** With immediate effect, the directive shall be applicable and binding on all Clearing Houses, system providers, member banks of Clearing Houses, members of payment systems operated by the system providers and the banks maintaining settlement accounts of member banks. The directive shall be applicable to other payment and settlement products as determined by the Reserve Bank of India from time to time.
+***5.3.*** URRBCH and Procedural Guidelines as they exist for various multilateral and deferred net settlement systems shall, wherever a reference is contained, also mean and include the directive on settlement and default handling procedures contained herein.
+**Department of Payment & Settlement Systems, Reserve Bank of India, Central Office Page - 5 - of 5**
