@@ -1,0 +1,152 @@
+---
+doc_id: "Circulars_2014_DNBS_PD_CC_No_397_03_02_001_2014-15"
+title: "Master Circular - Requirement for Obtaining Prior Approval of RBI in Cases of Acquisition / Transfer of Control of NBFCs"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/46MCROA01072014.PDF"
+pdf_sha256: "50916e22025da68bfe33a2368a5cabee033b361aa907254ea7efdc7e28965519"
+md_sha256: "fd19c7f5cd43196ab8422a087b73af90232bbb2ad29b874211f9c5c3e785d4e6"
+total_pages: 6
+native_pages: 5
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T10:13:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-07-01_Circular_DNBS.%28PD%29.CC.No.397-03.02.001-2014-15_Master%20Circular%20-%20Requirement%20for%20Obtaining%20Prior%20Approval%20of%20RBI%20in%20Cases%20of%20Acquisition%20-%20Transfer%20of%20Control%20of%20NBFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Requirement for Obtaining Prior Approval of RBI in Cases of Acquisition / Transfer of Control of NBFCs
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RB1/2014-15/46
+
+July 1, 2014
+
+DNBS (PD) CC No.397/03.02.001/2014-15
+
+To
+
+All Non-Banking Finance Companies (except Primary dealers)
+
+Dear Sirs,
+
+Master Circular - Requirement for Obtaining Prior Approval of
+
+RBl in Cases of Acquisition / Transfer of Control of NBFCs
+
+As you are aware, in order to have all current instructions on the subject at one
+
+web-site (http://www.rbi.org.in).
+
+Yours faithfully,
+
+Withdrawn
+
+(K. K. Vohra)
+
+Principal Chief General Manager
+
+，240005
+
+:22189131,qH:22163768 -: helpdnbs @rbi.0rg.in
+
+Department of Non Banking Supervision, Central Office, 2"d Floor, Centre I, WTC, Cuffe Parade, Mumbai - 400 005
+
+Tel No: 22189131, Fax No: 22163768 Email:helpdnbs @rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Table of Contents
+
+**Particulars**
+
+|Para||
+|---|---|
+|No||
+|1.|Introduction|
+|2.|Non-Banking Financial Companies (Approval of Acquisition or Transfer|
+
+of Control) Directions, 2014
+
+i. Definitions ii. Requirement to obtain prior approval of Reserve Bank of India for acquisition or transfer of control of NBFCs iii. Application of other laws not barred iv. Repeal and saving
+3. General
+4. Others **Appendix**
+Withdrawn
+
+<!-- PAGE 3 -->
+
+## 1. Introduction
+
+Under Section 45 IA (4)(c) of the RBI Act, 1934, a certificate of Registration can only be given to a company if the Bank is satisfied, inter alia, that the general character of the management or the proposed management of the non-banking financial company shall not be prejudicial to the public interest or the interests of its depositors. In this connection, to enable RBI to ensure that the 'fit and proper' character of the management of NBFCs, both deposit accepting and non-deposit accepting, is continuously maintained, NBFCs were advised the following directions 1 vide notification dated May 26, 2014.
+
+## 2. Non-Banking Financial Companies (Approval of Acquisition or Transfer of Control) Directions, 2014
+
+**i. Definitions** For the purpose of these Directions, unless the context otherwise requires,-
+(a) "control" shall have the same meaning as is assigned to it under clause
+(e) of sub-regulation (1) of Regulation 2 of Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.
+(b) "NBFC" means a non-banking financial company as defined in clause (f) of Section 45-I of the Reserve Bank of India Act, 1934.
+**ii. Requirement to obtain prior approval of Reserve Bank of India for acquisition or transfer of control of NBFCs**
+
+# Withdrawn
+
+The prior written permission of the Reserve Bank of India shall be required for –
+
+(a) any takeover or acquisition of control of an NBFC, whether by acquisition of shares or otherwise;
+(b) any merger / amalgamation of an NBFC with another entity or any merger / amalgamation of an entity with an NBFC that would give the acquirer / another entity control of the NBFC;
+(c) any merger / amalgamation of an NBFC with another entity or any merger / amalgamation of an entity with an NBFC which would result in acquisition / transfer of shareholding in excess of 10 percent of the paid up capital of the NBFC.
+(d) Prior written approval of the Reserve Bank would also be required before approaching the Court or Tribunal under Section 391-394 of the Companies Act, 1 <u>Notification No.DNBS.(PD).275/GM(AM)-2014 dated May 26, 2014</u>
+
+<!-- PAGE 4 -->
+
+1956 or Section 230-233 of Companies Act, 2013 seeking order for mergers or amalgamations with other companies or NBFCs.
+
+## iii. Application of other laws not barred
+
+The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+
+## iv. Repeal and saving
+
+(a) The Non-Banking Financial Companies (Deposit Accepting) (Approval of Acquisition or Transfer of Control) Directions, 2009 issued vide <u>Notification No.</u> <u>DNBS.(PD).208/CGM(ANR)-2009 dated September 17, 2009</u> shall stand repealed.
+(b) Notwithstanding such repeal, any action taken, purported to have been taken or initiated under the directions hereby repealed shall continue to be governed by the provisions of the said directions.
+## 3. General
+
+(a) Applications in this regard may be submitted to the Regional Office of the Department of Non-Banking Supervision in whose jurisdiction the Registered Office of the Company is located.
+(b) Any transfer of shares in violation of the notification would result in adverse regulatory action including cancellation of Certificate of Registration (CoR).
+## 4. Others
+
+# Withdrawn
+
+i. In terms of <u>DNBS (PD)CC.No.259/03.02.59/2011-12 dated March 15, 2012</u> there can be no change in ownership of the NBFC prior to commencement of business and regularization of its CoR. ii. In terms of DNBS.(PD).CC.No.11/02.01/99-2000 dated November 15, 1999, read with <u>DNBS.(PD).CC.No.12 /02.01/99-2000 dated January 13, 2000</u> and <u>DNBS</u> <u>(PD) C.C. No. 63/02.02/2005-06 dated January 24, 2006</u>, a public notice of 30 days shall be given before effecting the sale of, or transfer of the ownership by sale of shares, or transfer of control, whether with or without sale of shares, except in cases of merger and amalgamation in terms of High Court order in pursuance of Sections 391 and 394 of the Companies Act 1956. Such public notice shall be given by the NBFC and also by the transferor, or the transferee or <u>jointly</u> by the parties concerned. The public notice should indicate the intention to sell or transfer ownership / control, the particulars of transferee and the reasons for such sale or transfer of ownership / control. The notice should be published in one leading national and another in leading local (covering the place of registered office) vernacular language newspaper. Further it would be obligatory on the part of NBFC- D seeking change in management or merger or amalgamation with any other company to give an option to every depositor to decide whether to continue the deposits with the company under the new management or the transferee company
+
+<!-- PAGE 5 -->
+
+or not. The company would also be obliged to make the payment to the depositors who seek the repayment of their deposits. The Bank would view the non-compliance of the above instructions very seriously and penal action would be initiated against the defaulter company on the merits of each case.
+
+*****
+
+# Withdrawn
+
+i Footnote: The reference to Companies Act, 1956 in the Master Circular will be changed as and when change is effected in the original circulars/notifications.
+
+<!-- PAGE 6 -->
+
+## Appendix
+
+## List of Circulars
+
+## Sl Circular No. Date No.
+
+|No.|||
+|---|---|---|
+|1. DNBS.(PD).CC.No.11/02.01/99-2000||November 15, 1999|
+|2.|DNBS.(PD).CC.No.12/02.01/99-2000|January 13, 2000|
+|3.|DNBS.(PD).C.C.No.63/02.02/2005-06|January 24, 2006|
+|4.|DNBS.(PD).CC.No.259/03.02.59/2011-12|March 15, 2012|
+|5.|DNBS.(PD).275/GM(AM)-2014|May 26, 2014|
+
+# Withdrawn
