@@ -1,0 +1,51 @@
+---
+doc_id: "Press-Releases_2013_28049"
+title: "182-Days Treasury Bills : Full Auction Result"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1280T0113.pdf"
+pdf_sha256: "02cbb66c916fb7cd72fdeac9a7fcb1840bf7f7b90c786e2ea402319544fff662"
+md_sha256: "abe4227fae61c6ca87c11f13d1aa27effe6dd29dfca5add1563f60a7ca2e2b98"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:09:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-01-30_Press-Release_28049_182-Days%20Treasury%20Bills%20-%20Full%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 182-Days Treasury Bills : Full Auction Result
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+January 30, 2013 **182-Days Treasury Bills : Full Auction Result**
+
+## Date of Auction : January 30, 2013
+
+|I. Notified Amount||` 5,000.00 crore|
+|---|---|---|
+|II.|Underwriting notified amount|0.00|
+|III.|Competitive Bids received (i) Number (ii) Amount|47 ` 12,034.00 crore|
+|IV. Cut-off price||` 96.19 (YTM - 7.9436%)|
+|V.|Competitive bids accepted (i) Number (ii) Amount|20 ` 5,000.00 crore|
+|VI.|Partial Allotment Percentage of Competitive Bids|35.4% (6 Bids)|
+|VII. Weighted Average Price||` 96.22|
+|VIII.|Non-competitive bids received (i) Number (ii) Amount|0 ` 0.00 crore|
+|IX.|Non-competitive bids accepted (i) Number (ii) Amount (iii)|0 ` 0.00 crore 100% (0 Bids)|
+|X|Amount of Under writing Accepted from Primary Dealers|` 0.00|
+|XI|Devolvement on Primary Dealers|` 0.00|
+
+## Partial Allotment Percentage
+
+## J.D. Desai
+
+**Press Release : 2012-2013/1280** Assistant Manager
