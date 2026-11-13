@@ -1,0 +1,62 @@
+---
+doc_id: "Press-Releases_1999_1350"
+title: "182 Day Treasury Bills : Auction Results"
+category: "Press-Releases"
+year: 1999
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/7646.pdf"
+pdf_sha256: "8074130161747d1d33c6c26204cf5b1017f230282047c8f8a631a279a1c3bc84"
+md_sha256: "ea8e967093bc19f2ecbdcbaaef6594edd41f58a533fe3042ee8b4a250e1eb099"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:56:25Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-07-07_Press-Release_1350_182%20Day%20Treasury%20Bills%20-%20Auction%20Results.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 182 Day Treasury Bills : Auction Results
+
+<!-- PAGE 1 -->
+
+# 182 Day Treasury Bills : Auction Results
+
+**July 7, 1999** **Date of Auction : July 7, 1999**
+
+**I. Notified amount** : Rs.100.00 crore
+## II. Bids received
+
+## (a) Competitive bids
+
+Number : 17 Amount : Rs 368.00 crore
+
+**(b) Non-competitive bids**
+Number : 0 Amount : Nil
+
+## III. Cut-off price : Rs.95.27
+
+## IV. Competitive bids accepted
+
+Number : 4 Amount : Rs.100.00 crore
+
+**V. Partial Allotment Percentage** : 42.55 (4 bids)
+## VI. Devolvement on Reserve
+
+: Nil **Bank of India**
+
+## VII. Non-competitive bids accepted
+
+<!-- PAGE 2 -->
+
+|(a)|Number|: 0|
+|---|---|---|
+||Amount|: Nil|
+|(b) Partial Allotment Percentage||: N.A|
+
+# VIII. Weighted Average Price : 95.27
+
+## Rupambara Padhi
+
+## Manager
+
+## Press Release : 1999-2000/38
