@@ -1,0 +1,313 @@
+---
+doc_id: "Notifications_2007_3989"
+title: "Application of Capital Adequacy Norms to RRBs"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/82267.pdf"
+pdf_sha256: "2c3e0c522fc55c2b156b262b7834c57877e5cd148b62596a7c5c0a75c2007c0c"
+md_sha256: "d852fbdeec060eb748a1976aceb28de13e2ce1cecd7cfc913e0bc776d3963759"
+total_pages: 12
+native_pages: 12
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-12-28_Notification_3989_Application%20of%20Capital%20Adequacy%20Norms%20to%20RRBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Application of Capital Adequacy Norms to RRBs
+
+<!-- PAGE 1 -->
+
+## RBI/2007- 2008/218
+
+RPCD.CO.RRB.No. BC.44 /05.03.095/2007-08
+
+December 28, 2007 Chairmen All Regional Rural Banks
+
+## Dear Sir
+
+Mid-Term Review of Annual Policy Statement for the year 2007-08 -Application of Capital Adequacy <u>norms to Regional Rural Banks</u>
+
+Please refer to Paragraph 149 of the Mid-Term Review of Annual Policy Statement for the year 2007-08 (copy of the extract enclosed). At present, Regional Rural Banks (RRBs) are outside the Capital to Risk weighted Assets Ratio (CRAR) framework. In order to assess the capital structure of the RRBs, in the context of financial stability of the whole system, it is proposed that they should disclose the level of CRAR as on March 31, 2008 in their Balance Sheets.
+
+2. Accordingly, all Regional Rural Banks are advised to disclose their CRAR as on March 31, 2008 and thereafter every year as 'Notes on Accounts' to their Balance Sheets. The roadmap for achieving the desired level of CRAR norms would be communicated in due course.
+3. Under the proposed CRAR framework, the Balance Sheet assets and non-funded / off-balance sheet items will be assigned weights and banks have to compute the ratio of their capital funds to the aggregate of risk weighted assets and other off-balance sheet exposures. The details of the framework and other procedural guidelines are indicated in the enclosed 'Memorandum of Instructions', which may please be studied carefully for the purpose of such computation.
+4. Additionally, banks should furnish an annual return to our Regional Office / NABARD Regional Office, indicating capital funds and risk assets ratio, in the format given in Annex 2. The return should be signed by two officials who are authorised to sign the statutory returns submitted to the Reserve Bank. The statement as per the format (Annex 2) indicating the position as on March 31, 2008 may please be furnished to the Regional Office of RPCD / NABARD under whose jurisdiction the bank is located, as soon as the annual accounts are finalised.
+5. Please bring the contents of this letter to the notice of the Board of Directors of your bank.
+6. Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully
+
+(G. Srinivasan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+## Extract from the Mid-Term Review of Annual Policy Statement for the year 2007-08
+
+**149.** " The Internal Working Group on RRBs (Chairman : Shri A.V.Sardesai) had recommended that RRBs may be advised to maintain a minimum level of capital to risk weighted assets ratio (CRAR) which would be progressively raised to the current level of CRAR as per the Basel I norms. At present, capital adequacy norms are not prescribed for RRBs and state / central co-operative banks. In order to further strengthen the capital structure of RRBs and state / central co-operative banks as also in the context of financial stability of the whole system, it is proposed that:
+- RRBs and state / central co-operative banks should disclose the level of CRAR as on March 31, 2008 in their balance sheets.
+- a road-map may be evolved for achieving the desired level of CRAR by these banks."
+## <u>Memorandum of Instructions Capital Adequacy Standards</u>
+
+## 1. General
+
+The fundamental objective behind introducing Capital to Risk Weighted Asset Ratio (CRAR) framework is to strengthen the soundness and stability of the RRBs.
+
+**2. Definition of Capital Funds etc.** The Capital Funds can be segregated into two broad groups/tiers-Tier I and Tier II. While Tier I Capital, otherwise known as core capital, provides the most permanent and readily available support to a bank against unexpected losses, the Tier ll capital consists elements that are less permanent in nature or are less readily available.
+## 2.1. Tier I Capital/Core Capital
+
+Tier I Capital would include following items:
+
+(a) Paid up share capital
+(b) Share capital deposit
+(c) Statutory and other disclosed free reserves
+(d) Capital Reserve representing surplus arising out of sale proceeds of assets.
+(e) Any surplus (net) in profit and loss account i.e. balance after appropriation
+**Note:** Amount of intangible assets, losses in current year and those brought forward from
+ previous years, deficit in NPA provisions, income wrongly recognized on non performing assets, provision required for liability devolved on bank etc., will be deducted form Tier I Capital.
+
+<!-- PAGE 3 -->
+
+## 2.2. Tier II Capital
+
+## 2.2.1 Undisclosed Reserves
+
+These often have characteristics similar to equity and disclosed reserves. They have the capacity to absorb unexpected losses and can be included in capital, if they represent accumulation of profits and not encumbered by any known liability and should not be routinely used for absorbing normal loss or operating losses.
+
+## 2.2.2. Revaluation Reserves
+
+These reserves often serve as a cushion against unexpected losses, but they are less permanent in nature and cannot be considered as 'Core Capital'. Revaluation reserves arise from revaluation of assets that are undervalued on the bank's books. The typical examples in this regard are bank premises and marketable securities. The extent to which the revaluation reserves can be relied upon as a cushion for unexpected losses depends mainly upon the level of certainty that can be placed on estimates of the market values of the relevant assets, the subsequent deterioration in values under difficult market conditions or in a forced sale, potential for actual liquidation of those values, tax consequences of revaluation, etc. Therefore, it would be prudent to consider revaluation reserves at a discount of 55 percent when determining their value for inclusion in Tier II capital i.e. only 45% of revaluation reserve is available for inclusion in Tier II capital. Such reserves will have to be reflected on the face of the Balance Sheet as revaluation reserves.
+
+## 2.2.3. General Provisions and Loss Reserves
+
+These will include such provisions of general nature appearing in the books of the bank which are not attributed to any identified potential loss or a diminution in value of an asset or a known liability. Adequate care must be taken to ensure that sufficient provisions have been made to meet all known losses and foreseeable potential losses before considering any amount of general provision as part of Tier II capital as indicated above. To illustrate, excess provision in respect of Bad and Doubtful Debt, general provision for Standard Assets etc. could be considered for inclusion under this category. General provisions and loss reserves which are considered for inclusion in Tier II capital will be admitted upto 1.25% of total weighted risk assets.
+
+## 2.2.4 Investment Fluctuation Reserve
+
+Entire amount of balance, if any, in Investment Fluctuation Reserve of bank.
+
+<u>Note:</u>
+
+It may be noted that the total of Tier II elements will be limited to a maximum of 100 percent of total Tier I elements for the purpose of compliance with the norms.
+
+## 3. Risk Adjusted Assets and Off-Balance Sheet Items
+
+Risk adjusted assets would mean weighted aggregate of funded and non-funded items. Degrees of credit risk expressed as percentage weightings have been assigned to Balance Sheet assets and conversion factors to off-Balance Sheet items. The value of each asset/item shall be multiplied by the relevant weights to produce risk-adjusted values of assets and of off-Balance Sheet items. The aggregate will be taken into account for reckoning the minimum capital ratio. The weights allotted to each of the items of assets and off-Balance Sheet items are furnished in the Annex 1.
+
+<!-- PAGE 4 -->
+
+## Annex 1
+
+## PRUDENTIAL NORMS <u>Risk Weights for Calculation of CRAR</u>
+
+## I. <u>Domestic Operations</u>
+
+## A. Funded Risk Assets
+
+## Sr. No. Particulars Risk Weight (%)
+
+## I Balances
+
+1. Cash, balances with RBI 0
+2. Balances in current account with other banks 20
+3. Claims on banks 20 **II Investments**
+1. Investments in Government Securities. 2.5
+2. Investments in other approved securities guaranteed by Central/State Govt. 2.5
+3. Investments in other securities where payment of interest and repayment of principal are 2.5 guaranteed by Central Govt. (This will include investments in Indira/Kisan Vikas Patra (IVP/KVP) and investments in Bonds where payment of interest and principal is guaranteed by Central/ State Govt.)
+4. Investments in other securities where payment of interest and repayment of principal are 2.5 guaranteed by State Governments.
+**Note:** Investment in securities where payment of interest or repayment of principal is
+ guaranteed by State Government and which has become a non-performing investment, will attract 102.5 percentage risk weight
+
+|5.|Investments in other approved securities where payment of interest and repayment of|22.5|
+|---|---|---|
+||principal are not guaranteed by Central/State Govt.||
+|6.|Investments in Government guaranteed securities of Government undertakings which do not form part of the approved market borrowing programme.|22.5|
+|7.|Claims on commercial banks|20|
+|8.|Investments in subordinated debt instruments and bonds issued by Public Financial Institutions for their Tier II capital|102.5|
+|9.|All other investments including investments in securities issued by Public Financial|102.5|
+
+Institutions
+
+**Note: I**ntangible assets for which losses have been deducted from Tier I capital should be
+
+assigned zero weight.
+
+<!-- PAGE 5 -->
+
+|III|Loans & Advances||
+|---|---|---|
+|I|Loans and advances including bills purchased and discounted and other credit facilities i. Loans guaranteed by Government of India ii. Loans guaranteed by State Governments Note: A State Government guaranteed advance which has become a non performing advance will attract a risk weight of 100 per cent iii. Loans granted to public sector undertakings of Govt. of India iv. Loans granted to public sector undertakings of State Govts. v. Advances covered by DICGC Note: The risk weight of 50% should be limited to the amount guaranteed and not the entire outstanding balance in the accounts. In other words, the outstandings in excess of the amount guaranteed, will carry 100% risk weight. vi. SSI Advances Guaranteed by Credit Guarantee Fund Trust for Small Industries (CGTSI) up to the guaranteed portion. Note: Banks may assign zero risk weight for the guaranteed portion. The balance outstanding balance in excess of the guaranteed portion would attract a risk-weight as appropriate to the counter–party. Two illustrative examples are given in Annex 1.1 vii. Housing loans to individuals against the mortgage of residential housing properties upto Rs. 20 lakhs. viii. Consumer credit including personal loans and credit cards. ix. Loans upto Rs. 1 lakh against gold and silver ornaments. x. Advances against term deposits, Life policies, NSCs, IVPs and KVPs where adequate margin is available. xi. Loans to staff of banks, which are fully covered by super-annuation benefits and mortgage of flat/house. Notes: While calculating the aggregate of funded and non-funded exposure of a borrower for the purpose of assignment of risk weight, banks may ‘net-off’ against the total outstanding exposure of the borrower - (a) advances collateralised by cash margins or deposits, (b) credit balances in current or other accounts of the borrower which are not earmarked for specific purposes and free from any lien, (c) in respect of any assets where provisions for depreciation or for bad debts have been made, (d) claims received from DICGC and kept in a separate account pending adjustment in case these are not adjusted against the dues outstanding in the respective accounts. (e) subsidies received against SGSY advances and kept in separate account|0 0 100 100 50 0 50 125 50 0 20|
+
+<!-- PAGE 6 -->
+
+|IV|Other Assets||
+|---|---|---|
+|1.|Premises, furniture and fixtures|100|
+|2.|Other assets i. Interest due on Government securities ii. Accrued interest on CRR balances and claims on RBI on account of Government transactions (net of claims of Government/RBI on banks on account of such transactions) iii. Income tax deducted at source (net of provision) iv. Advance tax paid (net of provision) v. All other assets|0 0 0 0 100|
+|V|Market risk on Open Positions||
+|1.|Market risk on foreign exchange open position (Applicable to Authorised Dealers Only).|100|
+|2.|Market risk on open gold position.|100|
+
+## B. Off-Balance Sheet Items
+
+The credit risk exposure attached to off-Balance Sheet items has to be first calculated by multiplying the face amount of each of the off-Balance Sheet items by ‘credit conversion factor’ as indicated in the table below. This will then have to be again multiplied by the weights attributable to the relevant counter-party as specified above.
+
+## Sr. No. Instruments Credit
+
+## Conversion
+
+## Factor (%)
+
+1. Direct credit substitutes e.g. general guarantees of indebtedness (including standby L/Cs 100 serving as financial guarantees for loans and securities) and acceptances (including endorsements with the character of acceptance).
+2. Certain transaction-related contingent items (e.g. performance bonds, bid bonds, warranties 50 and standby L/Cs related to particular transactions).
+3. Short-term self-liquidating trade-related contingencies (such as documentary credits 20 collateralised by the underlying shipments).
+4. Sale and repurchase agreement and asset sales with recourse, where the credit risk remains 100 with the bank.
+5. Forward asset purchases, forward deposit and partly paid shares and securities, which 100 represent commitments with certain draw down.
+6. Note issuance facilities and revolving underwriting facilities. 50
+7. Other commitments (e.g., formal standby facilities and credit lines) with an original maturity of 50 over one year.
+
+<!-- PAGE 7 -->
+
+|8.|Similar commitments with an original maturity up to one year, or which can be unconditionally cancelled at any time.|0|
+|---|---|---|
+|9. 10. II.|i. Guarantees issued by banks against the counter guarantees of other banks. ii. Rediscounting of documentary bills accepted by banks. (Bills discounted by banks which have been accepted by another bank will be treated as a funded claim on a bank) Note: In these cases, banks should be fully satisfied that the risk exposure is, in fact, on the other bank. Aggregate outstanding foreign exchange contracts of original maturity - * less than one year * for each additional year or part thereof Notes: * While calculating the aggregate of funded and non-funded exposure of a borrower for the purpose of assignment of risk weight, bank may ‘net-off’ against the total outstanding exposure of the borrower credit balances in current or other accounts which are not earmarked for specific purposes and free from any lien. *After applying the conversion factor as indicated above, the adjusted off-Balance Sheet value shall again be multiplied by the weight attributable to the relevant counter-party as specified. Note: At present, RRBs may not be undertaking some of the off-balance sheet transactions. However, keeping in view their potential for expansion, risk-weights are indicated against various off-balance sheet items, which, perhaps banks may undertake in future. Additional Risk Weights in respect of Overseas Operations of Indian Banks (Applicable to Authorised Dealers Only)|20 20 2 3|
+
+## 1. Foreign Exchange and Interest Rate related Contracts
+
+i) Foreign exchange contracts include the following:
+a. Cross currency interest rate swaps
+b. Forward foreign exchange contracts
+c. Currency futures
+d. Currency options purchased
+e. Other contracts of a similar nature
+ii) As in the case of other off-Balance Sheet items, a two stage calculation prescribed below shall be applied:
+
+<!-- PAGE 8 -->
+
+**(a) Step 1** - The notional principal amount of each instrument is multiplied by the conversion factor given below:
+## Original Maturity Conversion Factor
+
+Less than one year 2% One year and less than two years 5% (i.e. 2% + 3%) For each additional year 3%
+
+**(b) Step 2**- The adjusted value thus obtained shall be multiplied by the risk weightage allotted to the relevant counter-party as given in **A** above.
+## 2. Interest Rate Contracts
+
+iii) Interest rate contracts include the following:
+
+a. Single currency interest rate swaps
+b. Basic swaps
+c. Forward rate agreements
+d. Interest rate futures
+e. Interest rate options purchased
+f. Other contracts of a similar nature
+iv) As in the case of other off-Balance Sheet items, a two stage calculation prescribed below shall be applied:
+
+**(a) Step 1** - The notional principal amount of each instrument is multiplied by the percentages given below:
+## Original Maturity
+
+||Conversion Factor|
+|---|---|
+|Less than one year|0.5%|
+|One year and less than two years|1.0%|
+|For each additional year|1.0%|
+
+**(b) Step 2**- The adjusted value thus obtained shall be multiplied by the risk weightage allotted to the relevant counter-party as given in A above.
+<u>Note:</u> At present, the RRBs are not carrying out forex transactions. However, in case A.D's
+ licence is given to them in future, they may undertake transactions mentioned above. In the event of any uncertainty in assigning risk weights against a specific transaction, RBI clarification may be sought for.
+
+<!-- PAGE 9 -->
+
+## Annex-1.1
+
+## SSI Advances Guaranteed by Credit Guarantee
+
+## Fund Trust for Small Industries (CGTSI) – Risk weights and Provisioning norms
+
+## ( paragraph I (A)(III)(vi) of Annex 1)
+
+## Risk –Weight
+
+## Example I
+
+CGTSI Cover: 75% of the amount outstanding or 75 % of the unsecured amount or Rs. 18.75 lakh, which ever is less Realisable value of Security Rs. 1.50 lakh
+
+a) Balance outstanding Rs. 10.00 lakh
+b) Realisable value of security Rs. 1.50 lakh
+c) Unsecured amount (a-b) Rs. 8.50 lakhs
+d) Guaranteed portion (75% of ( c ) ) Rs. 6.38 lakhs
+e) Uncovered portion (Rs. 30 lakh-18.75 lakh) Rs. 2.12 lakh Risk-weight on (b) and (e) - Linked to the counter party Risk-weight on (d) - Zero
+## Example II
+
+CGTSI Cover : 75% of the amount outstanding or 75 % of the unsecured amount or Rs. 18.75 lakh, which ever is less Realisable value of Security Rs. 10.00 lakh
+
+a) Balance outstanding Rs. 40.00 lakh
+b) Realisable value of security Rs. 10.00 lakh
+c) Unsecured amount (a-b) Rs. 30.00 lakhs
+d) Guaranteed portion (75% of ( c ) ) Rs. 18.75 lakhs
+e) Uncovered portion (Rs. 30 lakh-18.75 lakh) Rs. 11.25 lakh Risk-weight on (b) and (e) - Linked to the counter party Risk-weight on (d) - Zero
+
+<!-- PAGE 10 -->
+
+## Annex 2
+
+## PRUDENTIAL NORMS
+
+||Statement of Capital Funds, Risk Assets/Exposures and Risk Asset Ratio Part A - Capital Funds and Risk Assets Ratio (Amount – Rupees in lakh)||
+|---|---|---|
+|I|Capital Funds||
+|A|Tier I capital elements (a) Paid-up capital Less: Intangible assets and losses||
+||Total (b) Reserves & surplus||
+||1. Statutory reserves||
+||2. Capital reserve (see note below)||
+||3. Other reserves||
+||4. Surplus in Profit & Los Account *||
+||Total Notes: Capital reserves representing surplus on sale of assets and held in a separate account will be included. Revaluation reserves, general/floating provisions and specific provisions made for loan losses and other asset losses or diminution in the value of any assets will not be reckoned as capital funds. * Any surplus (net) in profit and loss account i.e. balance after appropriation towards dividend payable, education fund, other funds whose utilisation is defined and asset loss, if any etc.||
+|B|Tier II capital elements||
+|(i)|Undisclosed reserves||
+|(ii)|Revaluation reserves||
+|(iii)|General provisions and loss reserves #||
+|(iv)|Investment Fluctuation Reserves/Funds||
+
+<!-- PAGE 11 -->
+
+## II Risk Assets
+
+(a) Adjusted value of funded risk assets i.e. on Balance Sheet items (to tally with Part 'B')
+(b) Adjusted value of non-funded and off-Balance Sheet items (to tally with Part 'C')
+(c) Total risk-weighted assets (a + b) III **Percentage of capital funds to risk-weighted assets [I : II (III)]** **# Includes General Provision on standard assets**
+## Part B - Weighted Assets i.e. on-Balance Sheet Items
+
+(Amount in Rs - 000s omitted) **Sr. No. Book Risk Adjusted** **Value Weight Value** **I Cash & Bank Balance**
+
+(a) Cash in hand (including foreign currency notes)
+(b) Balances with banks in India -
+i) Balances with RBI ii) Balances with banks
+1. Current account (in India and outside India)
+2. Other accounts (in India and outside India)
+3. Current account balances with other RRBs
+**II** Money at Call and Short Notice **III Investments**
+
+(a) Government and other approved securities *
+(b) Others (net of depreciation provided)
+
+<!-- PAGE 12 -->
+
+|IV|Advances **|
+|---|---|
+||Loans and advances, bills purchased and discounted and other credit facilities|
+|(a)|Claims guaranteed by Government of India|
+|(b)|Clams guaranteed by State Governments|
+|(c)|Claims on public sector undertakings of Government of India|
+|(d)|Claims on public sector undertakings of State Governments|
+|(e)|Others|
+
+## Notes:
+
+1. Netting may be done only for advances collateralised by cash margins or deposits and in respect of assets where provisions for depreciation for bad and doubtful debts have been made.
+2. Intangible assets for which losses have been deducted from Tier I capital should be assigned zero weight.
+V Premises (net of depreciation provided) VI Furniture and fixtures (net of depreciation provided) VII Other assets (including branch adjustments, non-banking assets, etc.) **Total**
+
+* **Provision**, if any, made for depreciation in investments in Government and other approved securities may be included by way of a footnote. ** **Provisions** held, either general or specific, for bad and doubtful debts may be indicated by way of footnote.
+## Part C - Weighted Non-funded Exposures/Off-Balance Sheet Items
+
+Each off-Balance Sheet item may be submitted in the format indicated below: (Amount in Rs - 000s omitted) **Nature Book Conversion Equivalent Risk Adjusted of Item Value Factor Value Weight Value**

@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2008_3991"
+title: "Secondary Market Transactions in Government Securities - Short-selling"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/82332.PDF"
+pdf_sha256: "467041e9999963b1ddf777d13f5f5aabd7c2c4fb549f3162ca42f3fba0944df3"
+md_sha256: "27c7296814e66a1e53cd8d33279836c603a59410e0b139a36c174956bc549995"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-01-01_Notification_3991_Secondary%20Market%20Transactions%20in%20Government%20Securities%20-%20Short-selling.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Secondary Market Transactions in Government Securities - Short-selling
+
+<!-- PAGE 1 -->
+
+RBI /2007-2008/220 IDMD.DOD.No.3165 /11.01.01(B)/ 2007-08 January 01, 2008
+
+## All Scheduled Commercial Banks (except RRBs) & Primary Dealers
+
+Dear Sirs,
+
+## Secondary Market Transactions in Government Securities-Short-selling
+
+With a view to enhancing liquidity in the G-sec market and providing the market participants with a tool to express two-way view on interest rates, intra-day short sale in the Central Government dated securities was permitted vide our circular IDMD.No. 03/11.01.01 (B)/2005-06 dated February 28, 2006. Subsequently, the period allowed for shorting was extended to five trading days vide our circular IDMD.No/11.01.01(B) / 2006-07 dated January 31, 2007.
+
+2. It was specified in the aforementioned guidelines that “the sale leg as well as the cover leg of the transaction should be executed only on the Negotiated Dealing System – Order Matching (NDS-OM) platform.” In terms of the announcement made vide paragraphs 126 and 127 of the Mid-Term Review of Annual Policy Statement 2007-08, it has now been decided to permit undertaking of the cover leg of short-sale transactions even outside the NDS-OM platform. In other words, the transactions to cover short positions in government securities may be undertaken either on or outside the NDS-OM platform,
+i.e., the telephone market or through purchases in primary issuance. ***The sale leg of short sale*** ***transactions shall, however, continue to be undertaken on the NDS-OM platform only***.
+3. Banks and Primary Dealers may put in place proper internal controls and systems to ensure that the stipulated short sale limits are adhered to, taking into account the cover operations done both on and outside NDS-OM.
+4. All other terms and conditions specified in above circulars remain unchanged.
+Yours faithfully,
+
+(K. V. Rajan) Chief General Manager

@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2007_3984"
+title: "RRBs – Funds provided by Sponsor Banks/Commercial Banks"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/82147.pdf"
+pdf_sha256: "6fabe3c820ec9b5bc38c20359593e942ca28126c2947a5a30d914bf99b1aea0d"
+md_sha256: "f99c32b3d45dd85a65d8ba313319d8b6f4fedc850686a67a50bdc8b2f86e1846"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-12-12_Notification_3984_RRBs%20%E2%80%93%20Funds%20provided%20by%20Sponsor%20Banks-Commercial%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RRBs – Funds provided by Sponsor Banks/Commercial Banks
+
+<!-- PAGE 1 -->
+
+## <u>RBI/2007-08/209</u>
+
+RPCD.CO.Plan.BC.42/04.09.01/2007-08 December 12, 2007
+
+## The Chairman/ Managing Director/ Chief Executive Officer
+
+## [All scheduled commercial banks (including Regional Rural Banks)]
+
+Dear Sir,
+
+## <u>Priority Sector Lending – Funds provided by sponsor banks/commercial banks to RRBs</u>
+
+Please refer to our Master Circular No. RPCD.CO.Plan. BC. 5/04.09.01/2007-08 dated July 2, 2007 on Lending to Priority Sector. The issue of providing incentives to commercial banks/sponsor banks for lending to RRBs for on-lending to agriculture sector has been examined by us and it has been decided that all loans granted by commercial banks/sponsor banks to RRBs for on-lending to agriculture and allied activities sector may be classified as indirect finance to agriculture in the books of commercial banks/sponsor banks. Consequently, the amount lent by RRBs out of funds borrowed from commercial banks/sponsor banks, may not be classified by RRBs as part of their priority sector advances. The RRBs need not also include such lending as part of their Bank Credit for the purpose of computing achievement level under priority sector lending.
+
+**2.** The commercial banks may report such loans separately under the head "Loans granted to RRBs for on-lending to agriculture & allied activities" in the half-yearly (Ad-hoc) [under 1 (vi)] and yearly (final) [under 12 (a)] return on priority sector advances.
+**3.** You may please issue necessary instructions to your controlling offices/branches for appropriate action.
+**4.** Please acknowledge receipt (RRBs may acknowledge receipt to our concerned Regional Offices).
+Yours faithfully,
+
+## (C S Murthy)
+
+## Chief General Manager-in-Charge

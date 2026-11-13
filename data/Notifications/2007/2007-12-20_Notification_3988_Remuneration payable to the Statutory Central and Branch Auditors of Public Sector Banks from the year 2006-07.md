@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2007_3988"
+title: "Remuneration payable to the Statutory Central and  Branch Auditors of Public Sector Banks from the year 2006-07"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/82217.PDF"
+pdf_sha256: "35377ae0d73546f420b5189d79f9d6db843412bf7ecbf44074942dba359c47fa"
+md_sha256: "cc4757b9bc36d3fcbc7196195d098f96f6f2d9d8d18265b88bb57bbb9af03819"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-12-20_Notification_3988_Remuneration%20payable%20to%20the%20Statutory%20Central%20and%20Branch%20Auditors%20of%20Public%20Sector%20Banks%20from%20the%20year%202006-07.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Remuneration payable to the Statutory Central and  Branch Auditors of Public Sector Banks from the year 2006-07
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/217
+
+Ref.DBS.ARS.BC. No. 07/ 08.92.001/ 2007-08 **December 20, 2007**
+
+## The Chairman & Managing Director, all Nationalised Banks and
+
+## The Managing Director, Associate Banks of SBI
+
+Dear Sir/Madam, **Remuneration payable to the Statutory Central and** <u>Branch Auditors of Public Sector Banks from the year 2006-07</u> Please refer to our circular DBS.ARS.No.BC.08/80.92.100/2006-07 dated June 06, 2007 on remuneration payable to statutory central and branch auditors of public sector banks from the year 2006-07.
+
+2. As per para H of the above circular, the reimbursement of lodging charges to partners/proprietors/qualified and unqualified assistants of audit firms has been linked to IBA approved rates for bank officials. However, it has been brought to our notice that the IBA has since discontinued the practice of approving rates and has advised its member-banks to enter into arrangements at the bank level with reputed hotels to facilitate stay of their officials while on duty outside the Headquarters.
+3. In view of the above, it has been decided that for the purpose of reimbursement of the lodging charges payable to statutory auditors, the banks may adopt the category-wise limits fixed for lodging charges payable to their officials while they are on duty outside the Headquarters. That is, banks may reimburse lodging charges to their statutory auditors as under :
+
+|Category of audit officials|Scale & designation of bank officials|
+|---|---|
+|Partners / proprietors of audit firms (central & branch audit firms)|VII – General Manager|
+|Qualified Assistants|III – Senior manager|
+|Unqualified Assistants|I – Officers|
+
+# Withdrawn w.e.f November 16, 2021
+
+Wherever banks have Guest House or Visiting Officers’ Flats, the same may be utilized to cater to the needs of the auditors.
+
+4. Please acknowledge receipt.
+## Yours faithfully
+
+(P.S. Sharma) General Manager
