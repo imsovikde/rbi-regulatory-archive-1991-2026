@@ -1,0 +1,24 @@
+# Secret material must never be committed.
+# Key exports, passphrases and tokens belong in the OS keyring or in
+# GitHub Actions secrets, never in this repository.
+
+# GPG / SSH private key exports
+*.private.asc
+gpg-private-*
+*-private-key.asc
+*-SECRET.asc
+id_rsa
+id_ed25519
+*.pem
+*.pfx
+*.p12
+
+# Environment and token files
+.env
+.env.*
+*.token
+secrets.*
+
+# Revocation certificates (contain key material)
+revocation.asc
+*.rev
