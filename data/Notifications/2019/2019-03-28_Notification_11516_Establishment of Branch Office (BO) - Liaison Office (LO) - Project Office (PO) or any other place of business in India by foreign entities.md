@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2019_11516"
+title: "Establishment of Branch Office (BO) / Liaison Office (LO) / Project Office (PO) or any other place of business in India by foreign entities"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR27763286B8263F49EBBBE59065635213F9.PDF"
+pdf_sha256: "db88c228e2d8982f98a8de5c33c40f61d4bbe2f54b9ea5457ac95b4e8ba7d248"
+md_sha256: "5209657ffff0d9bf92af35b82b659c54d0185652d43a0ddbf9c2b9fd95266a97"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-03-28_Notification_11516_Establishment%20of%20Branch%20Office%20%28BO%29%20-%20Liaison%20Office%20%28LO%29%20-%20Project%20Office%20%28PO%29%20or%20any%20other%20place%20of%20business%20in%20India%20by%20foreign%20entities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Establishment of Branch Office (BO) / Liaison Office (LO) / Project Office (PO) or any other place of business in India by foreign entities
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/154
+
+A.P. (DIR Series) Circular No. 27 March 28, 2019 To, All Category-I Authorized Dealer Banks
+## Madam / Sir
+
+## <u>Establishment of Branch Office (BO) / Liaison Office (LO) / Project Office (PO)</u>
+
+## <u>or any other place of business in India by foreign entities</u>
+
+Attention of the Authorised Dealer (AD-Category I) banks is invited to the Foreign Exchange Management (Establishment in India of a Branch Office or a Liaison Office or a Project Office or any Other Place of Business) Regulations, 2016, notified by the Reserve Bank vide <u>Notification No. FEMA 22(R)/RB-2016 dated March 31, 2016</u>, as amended from time to time and the relevant directions issued thereunder.
+
+2. The extant Regulations regarding requirement of prior approval of the Reserve Bank of India, for opening of a Branch Office (BO) / Liaison Office (LO) / Project Office (PO) or any other place of business in India, where the principal business of the applicant falls in the Defence, Telecom, Private Security and Information and Broadcasting sector, have since been reviewed in consultation with the Government of India and the amendments have been notified by Government vide <u>Notification</u> <u>No. FEMA 22(R)(2)/2019-RB dated January 21, 2019</u>.
+3. Accordingly, it is advised that for opening of a BO/LO/PO or any other place of business in India, where the principal business of the applicant falls in the Defence, Telecom, Private Security and Information and Broadcasting sector, no prior approval of the Reserve Bank of India shall be required, if Government approval or license/permission by the concerned Ministry/ Regulator has already been granted. Further, in the case of proposal for opening a PO relating to defence sector, no separate reference or approval of Government of India shall be required if the said non-resident applicant has been awarded a contract by/entered into an agreement
+
+<!-- PAGE 2 -->
+
+with the Ministry of Defence or Service Headquarters or Defence Public Sector Undertakings. It is clarified that the term “permission” used in the Notification does not include general permission, if any, available under Foreign Direct Investment in the automatic route, in respect of the above four sectors.
+
+4. All other provisions of the BO/LO/PO policy shall remain unchanged. AD Category
+- I banks may bring the contents of this circular to the notice of their constituents and customers.
+5. The <u>Master Direction No. 10 dated January 1, 2016</u> is being updated simultaneously to reflect the changes.
+6. The directions contained in this circular have been issued under Section 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+(R. K. Moolchandani) Chief General Manager

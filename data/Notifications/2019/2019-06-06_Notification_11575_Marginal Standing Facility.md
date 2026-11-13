@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2019_11575"
+title: "Marginal Standing Facility"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1984D2A3C777BBB41468897132A0EE6B6FC.PDF"
+pdf_sha256: "deb36fa65501cebfb0a352ee6ebc565e264875eb387aa7b85dd79b75b44d8bf0"
+md_sha256: "7d8eb0564b92449fc91d6e765b561d736fe20c51b266e985d5f0c4bb1f9d4770"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-06-06_Notification_11575_Marginal%20Standing%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Marginal Standing Facility
+
+<!-- PAGE 1 -->
+
+RBI/2018-2019/198 FMOD.MAOG. No.133/01.18.001/2018-19 June 6, 2019
+
+## All Marginal Standing Facility (MSF) participants
+
+Madam/Sir, <u>Marginal Standing Facility</u>
+
+As announced in the <u>Second Bi-monthly Monetary Policy Statement, 2019-20</u>, today, it has been decided by the Monetary Policy Committee (MPC) to reduce the policy Repo rate under the Liquidity Adjustment Facility (LAF) by 25 basis points from 6.00 per cent to
+
+**5.75 per cent** with immediate effect.
+2. Consequently, the Marginal Standing Facility (MSF) rate stands adjusted to **6.00 per** **cent** with immediate effect.
+3. All other terms and conditions of the extant MSF scheme will remain unchanged.
+## Yours sincerely
+
+(Radha Shyam Ratho) Chief General Manager
+
+st Financial Markets Operations Department, Central Office, 1 Floor, Main Building, Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India Tel : 22610642 Fax No:22630981 E-Mail : cgmfmod@rbi.org.in

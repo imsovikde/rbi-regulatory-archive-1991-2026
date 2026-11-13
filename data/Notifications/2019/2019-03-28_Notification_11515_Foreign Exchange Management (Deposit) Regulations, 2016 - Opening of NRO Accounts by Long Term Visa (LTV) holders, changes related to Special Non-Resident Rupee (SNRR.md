@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2019_11515"
+title: "Foreign Exchange Management (Deposit) Regulations, 2016 - Opening of NRO Accounts by Long Term Visa (LTV) holders, changes related to Special Non-Resident Rupee (SNRR) Account and Escrow Account"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT155A638C6424CF449659E82CB1DA2D5DD4E.PDF"
+pdf_sha256: "144db8718739d9038784b0f890d6e3cec92b6b04ff34ab718d053356c86301e6"
+md_sha256: "97da13914d45a45c571f4ba586f344e85ce1e41884ab13994cc814a29d149584"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-03-28_Notification_11515_Foreign%20Exchange%20Management%20%28Deposit%29%20Regulations%2C%202016%20-%20Opening%20of%20NRO%20Accounts%20by%20Long%20Term%20Visa%20%28LTV%29%20holders%2C%20changes%20related%20to%20Special%20Non-Resident%20Rupee%20%28SNRR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management (Deposit) Regulations, 2016 - Opening of NRO Accounts by Long Term Visa (LTV) holders, changes related to Special Non-Resident Rupee (SNRR) Account and Escrow Account
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/155
+
+A.P.(DIR Series) Circular No.28 March 28, 2019 To All Category-I Authorised Dealers and Authorised Banks
+## Sir / Madam
+
+**Foreign Exchange Management (Deposit) Regulations, 2016-Opening of NRO** **Accounts by Long Term Visa (LTV) holders, changes related to Special Non-Resident** **Rupee (SNRR) Account and Escrow Account**
+
+Attention of Authorised Dealers (ADs) is invited to the Foreign Exchange Management (Deposit) Regulations, 2016 notified vide <u>Notification No. FEMA 5(R)/2016-RB dated April 1,</u> <u>2016</u> and <u>A.P.(DIR Series) Circular No.67/2015-16[(1)/5(R)] dated May 5, 2016</u>. The FEM (Deposit) (Amendment) Regulations 2018 i.e FEMA 5(R)(1) have since been notified by the Government of India vide GSR No 1093(E) dated November 9, 2018 necessitating following changes to the extant instructions.
+
+i. Authorized Dealers may allow a Foreign Portfolio Investor (FPI) and a Foreign Venture Capital Investor (FVCI), registered with the Securities and Exchange Board of India (SEBI) to open and maintain a non-interest bearing foreign currency account for the purpose of making investment in accordance with the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2017, as amended from time to time. ii. Authorized Dealers may open only one Non-Resident Ordinary (NRO) Account for a citizen of Bangladesh or Pakistan, belonging to minority communities in those countries, namely Hindus, Sikhs, Buddhists, Jains, Parsis and Christians, residing in India and who has been granted a Long Term Visa (LTV) by the Central Government. The account will be converted to a resident account once such a person becomes a citizen of India within the meaning of the Citizenship Act, 1955. This account can also be opened if such person has applied for LTV which is under consideration of the Central Government, in which case, the account will be opened for a period of six months and may be renewed at six monthly intervals subject to the condition that the individual holds a valid visa and valid residential permit issued by Foreigner Registration Office (FRO)/ Foreigner Regional Registration Office (FRRO) concerned. The opening of such NRO accounts will be subject to reporting of the
+
+<!-- PAGE 2 -->
+
+details of the accounts opened by the concerned Authorised bank, to the Ministry of Home Affairs (MHA) on a quarterly basis. The report shall contain details of (i) name/s of the individual/s; (ii) date of arrival in India; (iii) Passport No. and place/country of issue; (iv) Residential Permit/Long Term Visa reference and date & place of issue; (v) name of the FRO/FRRO concerned; (vi) complete address and contact number of the branch where the bank account is being maintained. The Head Office of the AD bank shall furnish the above details on a quarterly basis to the Under Secretary (Foreigners), Ministry of Home Affairs, NDCC-II Building, Jai Singh Road, New Delhi – 110 001. AD banks are advised to ensure strict compliance to these instructions. iii. In terms of extant instructions, SNRR accounts cannot be held for more than seven years. It has now been decided that SNRR accounts opened by persons resident outside India may remain operative beyond the stipulated period of seven years with RBI approval. Further, the restriction of seven years will not be applicable to SNRR accounts opened by persons resident outside India who are registered with SEBI and wish to make investment in India in accordance with Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2017, as amended from time to time. iv. The extant Schedule 5 of the Foreign Exchange Management (Deposit Regulations) 2016 pertaining to Escrow Accounts has been replaced to align the same with the provisions of Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2017, in terms of which, Escrow Accounts can be opened by residents and non-residents for acquisition/transfer of capital instruments/convertible notes and can also be funded by guarantee(s).
+
+2. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+3. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+(R. K. Moolchandani) Chief General Manager

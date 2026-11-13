@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2019_2944"
+title: "Priority Sector Lending – Targets and Classification"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT17906052019.pdf"
+pdf_sha256: "bb1d2858ba2089873943ea4e43cfa0cb0eadddf12835a4ad11845c03bf92d2ab"
+md_sha256: "e0d6b0133260d4e134813a26207a551160a0b1756f204c907b990906b909ddbf"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-05-06_Notification_2944_Priority%20Sector%20Lending%20%E2%80%93%20Targets%20and%20Classification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending – Targets and Classification
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़र्व बकैंRESERVE BANK OF INDIA
+
+RBI/2018-19/179 FIDD.CO.Plan.BC.18 /04.09.01/2018-19 May 6, 2019
+
+The Chairman/MD & CEO All Regional Rural Banks/All Small Finance Banks
+
+Dear Sir/ Madam,
+
+## Priority Sector Lending – Targets and Classification
+
+Please refer to Para 10 of the <u>Statement on Developmental and Regulatory Policies</u> of the <u>First Bi-Monthly Monetary Policy Statement 2019-20 dated April 4, 2019</u> and Para 9 of <u>Master Direction – Regional Rural Banks (RRBs) - Priority Sector Lending – Targets</u> <u>and Classification dated July 7, 2016</u>/Para 5 of the <u>Compendium for Small Finance Banks</u> <u>(SFBs)</u> – Priority Sector Lending – Targets & Classification dated July 6, 2017, prescribing eligibility criteria of housing loans for classification under priority sector.
+
+2. In terms of the above Master Direction for RRBs, loans to individuals up to ₹ 20 lakh for purchase/construction of a dwelling unit per family provided the overall cost of the dwelling unit does not exceed ₹ 25 lakh are eligible to be classified under priority sector. In terms of the Compendium for SFBs, loans to individuals up to ₹ 28 lakh in metropolitan centres (with population of ten lakh and above) and ₹ 20 lakh in other centres, are eligible to be classified under priority sector, provided that the cost of dwelling unit does not exceed ₹ 35 lakh and ₹ 25 lakh, respectively.
+3. In order to bring the RRBs and SFBs at a level playing field with other Scheduled Commercial Banks, it has now been decided to enhance the housing loan limits for eligibility under priority sector lending. Accordingly, in respect of RRBs and SFBs, housing loans to individuals up to ₹ 35 lakh in metropolitan centres (with population of ten lakh and above) and ₹ 25 lakh in other centres, provided the overall cost of the dwelling unit in the metropolitan centres and at other centres does not exceed ₹ 45 lakh and ₹ 30 lakh, respectively will be eligible for classification under Priority Sector Lending. वित्तीय सावेिन औविविसेाविगे ,सन न्द्रीय ससेय सेालय स,10िीवंजिल,सें रीय ससेय सेालय सगिऔ, हीदग तसांहवे ा,पोस्टबॉक्ाां. 10014,वंबई -400001
+Financial Inclusion & Development Dept., Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai- 1 टनली Tel:022-22610586फै क्ाः91-22-22621011/22610943ई-वनल:cgmincfidd@rbi.org.in
+
+||ह िंदी आसान ै, इसका प्रयोग|बढ़ाइए।|
+|---|---|---|
+|“ चेतार्नी :|ररज़र्व बक वर्ारा-डाक, ैं जाती ै। य धन राने या देने का प्रस् तार् भी न ीिं करता ै। ेसे प्रस् तार्क का ककसी भी तरीके से जर्ाब मत दीक्तजए।|एसएमएस या फोन कॉल के जररए ककसी की भी व् यक्तितगत जानकारी जैसे बक के ााते का ्यौरा, पासर्डव आहद न ीिं मािंगी ैं "|
+|Caution:|anyone. Please do not respond in any manner to such offers.|RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to|
+
+<!-- PAGE 2 -->
+
+Priority Sector Lending – Targets and Classification
+
+4. Furthermore, the existing family income limit of ₹ 2 lakh per annum, prescribed under Para 9.4 of the above Master Direction for RRBs/Para 5.4 of the Compendium for SFBs, eligible for loans to housing projects exclusively for the purpose of construction of houses for Economically Weaker Sections (EWS) and Low Income Groups (LIG), is revised to ₹ 3 lakh per annum for EWS and ₹ 6 lakh per annum for LIG, in alignment with the income criteria specified under the Pradhan Mantri Awas Yojana.
+5. Accordingly, the RRBs/SFBs are allowed to reckon their outstanding portfolio of housing loans meeting the revised criteria for classification under priority sector lending from the date of this circular.
+6. All other terms and conditions specified under the Master Direction/Compendium shall remain unchanged. Yours faithfully, (Gautam Prasad Borah) Chief General Manager-in-Charge

@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2019_2951"
+title: "Outsourcing of Cash Management – Reconciliation of Transactions"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT18314052019.pdf"
+pdf_sha256: "bf05335235d9d8ca1417c37ad903637b49a0c800b9ca62b6d82b938c78b39fc4"
+md_sha256: "ba8ed6de5685c00a6f75a770b9bc86c3eae23af51211273ecc4c3aea5d78bb2d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-05-14_Notification_2951_Outsourcing%20of%20Cash%20Management%20%E2%80%93%20Reconciliation%20of%20Transactions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Outsourcing of Cash Management – Reconciliation of Transactions
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक RESERVE BANK OF INDIA
+
+www.rbi.org.in RBI/2018-19/183 DCM (Plg) No.2746/10.25.07/2018-19 May 14, 2019 The Chairman / Managing Director / Chief Executive Officer All Banks Madam / Dear Sir, **Outsourcing of Cash Management – Reconciliation of Transactions** As stated in para 15 of the <u>monetary policy statement dated October 04, 2016</u>, the Bank had constituted a Committee on Currency Movement [Chair: Shri D.K. Mohanty, Executive Director, Reserve Bank of India] to review the entire gamut of security of the treasure in transit. The recommendations of the Committee relating to timely reconciliation of transactions (i.e. ATM cash replenishment) between the bank, the service provider and its sub-contractor have been examined. Accordingly, it has been decided that the bank shall follow the procedure as under:
+
+a. Cash indents by the Service Provider shall be made at least a day in
+advance (T-1 where T is the day of cash loading), in consultation with the chest / nodal branch. Multiple points of cash withdrawal may be avoided and shall be restricted to one in each centre. However, metropolitan centres may have two points of cash withdrawal.
+
+b. Reconciliation of transactions shall be done between the bank, the service
+provider and its sub-contractors at least on a T+3 basis.
+
+c. In the event of a dispute or the reporting of alleged / attempted breach of
+security / laid down procedures, access to video footage of the ATM may be provided by the bank to the service provider and its sub-contractors on request.
+
+2. Further, as a part of outsourcing arrangements for cash management, the bank shall encourage their service provider and its sub-contractors to:
+a. put in place an efficient digital records management system for data
+retrieval and reconciliation. __________________________________________________________________________________________________________ मु�ा �बंध िवभाग, 4था तल, अमर भवन, पी.एम. मागर्, फोटर्, मुंबई 400001 Department of Currency Management, 4thFloor, Amar Building, P.M. Road, Fort, Mumbai 400001 फोन/Phone: (022) 2260 3000 / 4000 फै क् स /Fax: (022) 2266 2442 ईमेल/E-mail: cgmincdcm@rbi.org.in हदी आसान है इसका �योग बढ़ाइय | चेतावनीः �रज़वर् बक �ारा ई-मेल, डाक, एसएमएस या फोन-कॉल के ज�रए �कसी क भी �िगत जानकारी जैसे बक के खाते का ब्यौरा, पासवडर् आ�द नह मांगी जाती है। यह धन रखने या देने का स्ताव भी नह करता है। ऐसे स्ताव� का कसी भी तरीके से जवाब मत दीिजए। Caution: RBI never sends mails. SMSs or makes calls asking for personal information like bank account details, <u>passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.</u>
+
+<!-- PAGE 2 -->
+
+b. create and maintain a data base of employees at industry level through
+any unique mode / code of identification by the Self Regulatory Organisation to ensure that they possess unblemished records.
+
+Yours faithfully,
+
+(Sanjay Kumar) General Manager

@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2019_11577"
+title: "Standing Liquidity Facility for Primary Dealers"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI20051BCC7029A5C4FFAAED249E694D7AD26.PDF"
+pdf_sha256: "66b8dab418af5799f8e70a1934620d30d9d3474393e8d3d46d3b561950270959"
+md_sha256: "a23317a16a1254aa4d61a686afdd7189529a15587ee0e5dfaef311e5b1d5cb94"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-06-06_Notification_11577_Standing%20Liquidity%20Facility%20for%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standing Liquidity Facility for Primary Dealers
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बक ________________________ RESERVE BANK OF INDIA ________________________ <u>www.rbi.org.in</u>
+
+**RBI/2018-19/200** **REF.No.MPD.BC.387/07.01.279/2018-19 June 06, 2019**
+
+All Primary Dealers,
+
+## Standing Liquidity Facility for Primary Dealers
+
+In the <u>Second Bi-monthly Monetary Policy Statement 2019-20 of the Monetary</u> <u>Policy Committee (MPC) of June 06, 2019</u>, the policy repo rate under the Liquidity Adjustment Facility (LAF) has been reduced by 25 basis points to 5.75 per cent from
+
+6.00 per cent with immediate effect.
+2. Accordingly, the Standing Liquidity Facility provided to Primary Dealers (PDs) (collateralised liquidity support) from the Reserve Bank would be available at the revised repo rate of 5.75 per cent with effect from June 06, 2019.
+Yours faithfully,
+
+## (Janak Raj) Principal Adviser
+
+मौ�द्रक नी�त वभाग, कद्रय कायार्लय भवन, शहद भगत संह मागर्, पोस्ट बॉक्स सं.406, मुंबई- 400 001 भारत फोन : (91-22)22601000 फै क् स : (91-22) 22610430/22700850/22610432/22631006 ई-मेल : <u>helpmpd@rbi.org.in</u> _____________________________________________________________________________________________________ Monetary Policy Department, Central Office, Central Office Building, Shahid Bhagat Singh Road, P.B. NO. 406, Mumbai- 400001, (Tel): (91-22)22601000 FAX (91-22) 22610430/22700850/22610432/22631006 E-mail: <u>helpmpd@rbi.org.in</u> **�हंद आसान है**, **इसका प्रयोग बढ़ाइए**

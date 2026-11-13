@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2019_2979"
+title: "Financial Inclusion- Access to Banking Services – Basic Savings Bank Deposit Account (BSBDA)"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT20610062019.pdf"
+pdf_sha256: "8cb4295a847c254947615d39733d6460eda7da068a3a7409fc7d17efa9f4b24e"
+md_sha256: "f7e60f48380ec20209be460ed028e51390a6a7025eb78ffa508df0bea2f3362e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-06-10_Notification_2979_Financial%20Inclusion-%20Access%20to%20Banking%20Services%20%E2%80%93%20Basic%20Savings%20Bank%20Deposit%20Account%20%28BSBDA%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Inclusion- Access to Banking Services – Basic Savings Bank Deposit Account (BSBDA)
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/206 DBR.LEG.BC.No.47/09.07.005/2018-19 June 10, 2019 All Scheduled Commercial Banks (including RRBs) All Payments Banks All Small Finance Banks All Local Area Banks
+
+## Dear Sir/ Madam
+
+## Financial Inclusion- Access to Banking Services – Basic Savings Bank Deposit Account (BSBDA)
+
+Please refer to our <u>circular DBOD.No.Leg.BC.35/09.07.005/2012-13 dated August</u> <u>10, 2012</u> on the captioned subject.
+
+2. The Basic Savings Bank Deposit (BSBD) Account was designed as a savings account which will offer certain minimum facilities, free of charge, to the holders of such accounts. In the interest of better customer service, it has been decided to make certain changes in the facilities associated with the account. Banks are now advised to offer the following basic minimum facilities in the BSBD Account, free of charge, without any requirement of minimum balance.
+i. The deposit of cash at bank branch as well as ATMs/CDMs ii. Receipt/ credit of money through any electronic channel or by means of deposit /collection of cheques drawn by Central/State Government agencies and departments iii. No limit on number and value of deposits that can be made in a month iv. Minimum of four withdrawals in a month, including ATM withdrawals
+v. ATM Card or ATM-cum-Debit Card
+The BSBD Account shall be considered a normal banking service available to all.
+
+3. Banks are free to provide additional value-added services, including issue of cheque book, beyond the above minimum facilities, which may/may not be priced (in non-discriminatory manner) subject to disclosure. The availment of such additional services shall be at the option of the customers. However, while offering such
+और 13वीं 400001
+
+|बकं ग व�नयमन|वभाग, कद्रय|कायार्लय, 12वीं|मंिज़ल, शहद|भगत स ंह मागर्, मुंबई|
+|---|---|---|---|---|
+||Central Office, 12th & 13th Floor, Shahid Bhagat Singh Marg, Mumbai -||||
+|Tel No: 22661602, 22705651,||Fax No: 022-2270 5670,|Email ID: cgmicdbr@rbi.org.in||
+
+Department of Banking Regulation, 400001
+
+<!-- PAGE 2 -->
+
+-2- additional services, banks shall not require the customer to maintain a minimum balance. Offering such additional services will not make it a non-BSBD Account, so long as the prescribed minimum services are provided free of charge.
+
+4. The holders of BSBD Account will not be eligible for opening any other savings bank deposit account in that bank. If a customer has any other existing savings bank deposit account in that bank, he/she will be required to close it within 30 days from the date of opening a BSBD Account. Further, before opening a BSBD account, a bank should take a declaration from the customer that he/she is not having a BSBD account in any other bank.
+5. The BSBD Account shall be subject to RBI instructions on KYC/AML for opening of bank accounts issued vide <u>Master Direction DBR.AML.BC.No.81/14.01.001/2015-</u> <u>16 dated February 25, 2016</u> on ‘Master Direction-Know Your Customer (KYC) Direction, 2016’, as amended from time to time.
+6. The instructions issued on free transactions available for normal savings bank account in own-bank/other bank ATMs vide <u>circulars</u> <u>DPSS.CO.PD.No.316/02.10.002/2014-15 dated August 14, 2014</u> and <u>DPSS.CO.PD.No.659/02.10.002/2014-15 dated October 10, 2014</u> are not applicable to BSBD accounts. The minimum free withdrawals available to the BSBD Account holders can be made at all ATMs (own-bank/other bank ATMs).
+7. This circular supersedes earlier instructions issued vide <u>circulars DBOD.No.</u> <u>Leg.BC.35/09.07.005/2012-13 dated August 10, 2012</u> on ‘Financial Inclusion- Access to Banking Services–Basic Savings Bank Deposit Account’ and <u>DBOD.No.</u> <u>Leg.BC.52/09.07.005/2013-14 dated September 11, 2013</u> on ‘Financial Inclusion- Access to Banking Services – Basic Savings Bank Deposit Account (BSBDA) – FAQs’.
+8. These instructions will come into force with effect from July 1, 2019. Banks are advised to frame Board approved policy/ operational guidelines in this regard.
+## Yours faithfully
+
+(Shrimohan Yadav) Chief General Manager
