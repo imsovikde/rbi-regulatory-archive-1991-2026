@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2011_6326"
+title: "Operation of deposit account with NBFCs and money mules"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCNO05042011.pdf"
+pdf_sha256: "85ed7dcf4e30e04391d90b0b404be9130dd9a280ec1f3e4431fe4ff884d96622"
+md_sha256: "f2fae486c78fd9f1781c9346f7e2f89d7c8f9a4b712415548c322b81c5120b72"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:18:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-04-05_Notification_6326_Operation%20of%20deposit%20account%20with%20NBFCs%20and%20money%20mules.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Operation of deposit account with NBFCs and money mules
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/462 DNBS(PD)CC.No 215/03.10.42/2010-11 April 05, 2011
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir, <u>Operation of deposit account with NBFCs and money mules</u>
+
+With a view to preventing NBFCs from being used, intentionally or unintentionally, by criminal elements for money laundering or terrorist financing activities, Reserve Bank of India has issued guidelines on Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/ Prevention of Money Laundering Act, 2002 that are consolidated in the <u>Master Circular DNBS (PD) CC No 184/03.10.42 / 2010-11 dated</u> <u>July 01, 2010</u>.
+
+2. It has been brought to our notice that “Money mules” can be used to launder the proceeds of fraud schemes (*e.g.,* phishing and identity theft) by criminals who gain illegal access to deposit accounts by recruiting third parties to act as “money mules.” In some cases these third parties may be innocent while in others they may be having complicity with the criminals.
+3. In a money mule transaction, an individual with a deposit account in a bank/NBFC is recruited to receive cheque deposits or wire transfers and then transfer these funds to accounts held on behalf of another person or to other individuals, minus a certain commission payment. Money mules may be recruited by a variety of methods, including spam e-mails, advertisements on genuine recruitment web sites, social networking sites, instant messaging and advertisements in newspapers. When caught,
+
+<!-- PAGE 2 -->
+
+these money mules often have their deposit and loan accounts suspended, causing inconvenience and potential financial loss, apart from facing likely legal action for being part of a fraud. Many a times the address and contact details of such mules are found to be fake or not up to date, making it difficult for enforcement agencies to locate the account holder.
+
+4. The operations of such mule accounts can be minimized if NBFCs follow the guidelines contained in the Master Circular on Know Your Customer (KYC) norms /Anti- Money Laundering (AML) standards/ Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002. NBFCs are, therefore, advised to strictly adhere to the guidelines on KYC/AML/CFT issued from time to time and to those relating to periodical updation of customer identification data after the account is opened and also to monitoring of transactions in order to protect themselves and their customers from misuse by such fraudsters.
+5. NBFCs are also advised to ensure that their accounts in banks are not used for the purpose of money laundering in the manner specified above.
+## Yours sincerely
+
+(Uma Subramaniam) Chief General Manager-in-Charge

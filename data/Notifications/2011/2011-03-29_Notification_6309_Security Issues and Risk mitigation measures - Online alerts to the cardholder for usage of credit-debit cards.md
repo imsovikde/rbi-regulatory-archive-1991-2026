@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2011_6309"
+title: "Security Issues and Risk mitigation measures - Online alerts to the cardholder for usage of credit/debit cards"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SMSC290311FF.PDF"
+pdf_sha256: "2244cf84f679affe1105581324faa7d1eb931dd90edf4a0ab33bac54f3369d15"
+md_sha256: "99acedd05ba8b1088fdd5bc07865e6484f2944197b464cbe1a85a87dd1ea92d4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:18:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-03-29_Notification_6309_Security%20Issues%20and%20Risk%20mitigation%20measures%20-%20Online%20alerts%20to%20the%20cardholder%20for%20usage%20of%20credit-debit%20cards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Security Issues and Risk mitigation measures - Online alerts to the cardholder for usage of credit/debit cards
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/449 DPSS. CO. PD 2224 /02.14.003/2010-2011 March 29, 2011 The Chairman and Managing Director/Chief Executive Officers All Scheduled Commercial Banks including RRBs/ Urban Co-operative Banks/ State Co-operative Banks/ District Central Co-operative Banks
+
+Madam/Dear Sir, <u>Security Issues and Risk mitigation measures- Online alerts to the cardholder for usage of credit/debit cards.</u>
+
+Attention of banks is invited to our <u>circular RBI/2008-2009/387-RBI/DPSS. No.</u> <u>1501/02.14.003/2008-2009 dated February 18, 2009</u>, in terms of which banks were mandated to send online alerts to the cardholders for all Card Not present (CNP) transactions for the value of ` 5000/- and above. This measure has been generally welcomed by customers, which enabled them to take prompt action if the card is misused. This measure goes a long way in arresting further perpetration of such fraudulent transactions.
+
+2. Recently, incidents of unauthorized /fraudulent withdrawals at ATMs have come to the notice of RBI. It is important to arrest the incidents of such frauds in order to further encourage card based transactions in the country where the use of credit/debit cards playSuperseded by CO.DPSS.POLC.No.S668/s an important role.
+# 02-14-015/2025-2026 dated September 25, 2025
+
+3. It is therefore decided that banks may take steps to put in place a system of online alerts for <u>all types of transactions irrespective of the amount, involving usage of cards at various</u> <u>channels</u>. This measure is expected to encourage further usage of cards at various delivery channels. Banks may implement this measure latest by June 30, 2011.
+4. Please acknowledge receipt. Yours faithfully,
+G. Padmanabhan Chief General Manager

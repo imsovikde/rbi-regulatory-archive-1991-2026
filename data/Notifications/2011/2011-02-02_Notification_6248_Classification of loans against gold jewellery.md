@@ -1,0 +1,78 @@
+---
+doc_id: "Notifications_2011_6248"
+title: "Classification of loans against gold jewellery"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCB020211.pdf"
+pdf_sha256: "378880bba698a98e775ab22d12056d12f4da2dcc1830ee38c1255a25ac91335b"
+md_sha256: "2ea3336427820f304eea0fded63b74f0a003daee19d8778994279808616562f9"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:17:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-02-02_Notification_6248_Classification%20of%20loans%20against%20gold%20jewellery.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Classification of loans against gold jewellery
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/397
+
+RPCD.CO.Plan.BC.51/04.09.01/2010-11
+
+February 2, 2011
+
+The Chairman/ Managing Director/
+
+ChiefExecutiveOfficer
+
+[Allscheduledcommercialbanks
+
+(excluding Regional Rural Banks))
+
+Dear Sir,
+
+Classification of loans againstgold jewellery
+
+Please refer to paragraph 1.3.14 of our Master Circular on lending to priority sector
+
+dated July 1, 2010.
+
+2. It is clarified that loans sanctioned to NBFCs for on-lending to individuals or other
+
+entities against gold jewellery, are not eligible for classification under agriculture
+
+sector.
+
+3. Similarly investments made by banks in securitised assets originated by NBFCs,
+
+where the underlying assets are loans against gold jewellery, and
+
+classification under agriculture sector.
+
+4. You may please issue instructions to your controlling offices/branches for suitable
+
+necessary action in this regard.
+
+Yours faithfully,
+
+(T. V. Rao)
+
+Deputy General Manager
+
+，，10，，，.10014400001
+
+:2266 1602 a: 2262 1011/2261 0943/2261 0948 - : cgmincrpcd @rbi.org.in
+
+Rural Planning & Credit Dept., Central Office, 10" Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014,
+
+Mumbai 400 001
+
+Tel:2266 1602 Fax : 2262 1011/2261 0943/2261 0948 E-mail : cgmincrpcd@rbi.org.in

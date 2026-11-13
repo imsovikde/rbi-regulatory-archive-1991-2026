@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2011_6242"
+title: "Services to Persons with Disability - Training Programme for Employees"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CDN270111F.PDF"
+pdf_sha256: "559ccf3213a0a5ac82f6abe586bf584a61b33347a096682191235d4c0c41c8b2"
+md_sha256: "c92769affad959cb22299144dec5931b38e30c4ae38ca67c26117faa8fbf7664"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:17:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-01-27_Notification_6242_Services%20to%20Persons%20with%20Disability%20-%20Training%20Programme%20for%20Employees.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Services to Persons with Disability - Training Programme for Employees
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/391 DNBS.CC.PD.No.208 /03.10.01/2010-11 January 27, 2011
+
+## To All NBFCs
+
+## Dear Sir,
+
+## Services to Persons with Disability-Training Programme for Employees
+
+In terms of <u>DNBS.CC.PD.No. 191/03.10.01/2010-11 dated July 27, 2010</u>, NBFCs were advised that there shall be no discrimination in extending products and facilities including loan facilities to the physically / visually challenged applicants on grounds of disability and that they may also advise their branches to render all possible assistance to such persons for availing of the various business facilities.
+
+2. In continuation to the above, NBFCs are advised that they may include a suitable module containing the rights of persons with disabilities guaranteed to them by the law and international conventions, in all the training programmes conducted for their employees at all levels. Further, NBFCs may ensure redressal of grievances of persons with disabilities under the Grievance Redressal Mechanism already set up by them. Yours faithfully, (D. Mishra) Chief General Manager

@@ -1,0 +1,27 @@
+---
+doc_id: "Notifications_2011_6318"
+title: "Coins of 25 Paise and below – Withdrawal from Circulation"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/WSC01042011.pdf"
+pdf_sha256: "70ff3f6d1619d528713fc5165a0b37c701ce32e7900e1bdaa7bb3cf5a2a0e130"
+md_sha256: "99ca6a126c3a70e48a93797e149b6484f99a5c29fd745059c0285b632093e014"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:18:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-04-01_Notification_6318_Coins%20of%2025%20Paise%20and%20below%20%E2%80%93%20Withdrawal%20from%20Circulation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Coins of 25 Paise and below – Withdrawal from Circulation
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/458 UBD.CO.BPD(PCB) Cir.No.42 /09.73.000/2010-11 March 29, 2011 The Chief Executive Officers, All Primary Urban Co-operative Banks Madam/ Dear Sir, **Coins of 25 Paise and below – Withdrawal from Circulation**
+
+Please refer to our <u>circular UBD.BPD(PCB) Cir.No. 39/09.73.000/2010-11 dated</u> <u>March 15, 2011</u> on the captioned subject.
+
+2.In partial modification of the above circular, we advise that the coins of 25 Paise and below will be exchanged at the branches of the specified banks as also the offices of the Reserve Bank of India till the close of business on June 29, 2011 (instead of June 30, 2011 as advised earlier). These coins shall cease to be legal tender thereafter. The UCBs may take note of the above instructions.
+3. Please acknowledge receipt to the Regional Office concerned. Yours faithfully, (Uma Shankar) Chief General Manager
