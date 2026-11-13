@@ -1,0 +1,173 @@
+---
+doc_id: "Notifications_2011_6869"
+title: "Section 19 of the BR Act, 1949- Investments in subsidiaries and other companies – Guidelines"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIFSF12122011.PDF"
+pdf_sha256: "e519bf0b1033707c848565cc179a72255edaa6fa5fe56f9caf4dc346d1a3766d"
+md_sha256: "c572b417c54c414f3f83ae013eca0520638f775df07e690e5d06e033715c0b3f"
+total_pages: 9
+native_pages: 9
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-12_Notification_6869_Section%2019%20of%20the%20BR%20Act%2C%201949-%20Investments%20in%20subsidiaries%20and%20other%20companies%20%E2%80%93%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 19 of the BR Act, 1949- Investments in subsidiaries and other companies – Guidelines
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/297 DBOD. FSD. BC.62 / 24.01.001 /2011-12 December 12, 2011
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## Section 19 of the Banking Regulation Act, 1949-
+
+## Investments in subsidiaries and other companies – Guidelines
+
+Please refer to the instructions contained in <u>paragraphs 2 and 3</u> of our Master Circular DBOD. No. FSD.BC.15 / 24.01.001/ 2011-12 dated July 1, 2011 on Para- Banking Activities which deal with the guidelines for setting up of subsidiaries by banks as also banks’ investments in financial services companies which are not subsidiaries. These require Reserve Bank’sWithdrawn prior approval and are permitted within certain prescribed prudential limits.
+
+2. Banks’ investments in companies which are not subsidiaries are governed by Section 19(2) of the Banking Regulation Act, 1949 (B.R. Act). There is no requirement, at present, for obtaining prior approval of RBI for such investments except in cases where the investee companies are financial services companies. It is, therefore, possible that banks could, directly or indirectly through their holdings in other entities, exercise control on such companies or have significant influence over such companies and thus, engage in activities directly or indirectly not permitted to banks [Section 6(1) of the Act ibid deals with the activities permitted to banks]. This would be against the spirit of the provisions of the Act and is not considered appropriate from prudential perspective.
+
+<!-- PAGE 2 -->
+
+3. It has, therefore, been decided to lay down prudential guidelines for banks’ investments in companies which are not subsidiaries and are not ‘financial services companies’ (as defined in Annex 1).
+4. In the following paragraphs, first the existing regulations governing banks’ setting up of subsidiaries and banks’ investments in companies (not being subsidiaries) engaged in financial services are enumerated to provide a perspective and then prudential regulations for governing banks’ investments in companies (not being subsidiaries) which are non financial services companies are set out.
+## 5. Investments in subsidiaries
+
+In terms of Sub-section (1) of Section 19 of the B.R. Act, a banking company shall not form any subsidiary company except (i) for undertaking any business specified in clause (a) to (o) of Sub-section(1) of Section 6 of the Act, ibid, i.e. functions which banks can undertake or (ii) for carrying on the business of banking exclusively outside India with the previous permission of the Reserve Bank of India or (iii) for undertaking such other business, which the Reserve Bank may, with the prior approval of the Central Government, consider to be conducive to the spread of banking in India or to be otherwise useful or necessary in the public interest (for
+
+# Withdrawn
+
+example, banks setting up IT subsidiaries catering to banking sectors’ IT requirement may fall in this category).
+
+## 6. Investments other than in subsidiaries
+
+Sub-section (2) of Section 19 of the B.R. Act, provides that no banking company shall hold shares in any company, whether as pledgee, mortgagee or absolute owner, of any amount exceeding 30 per cent of the paid–up share capital of that company or 30 per cent of its own paid-up share capital and reserves, whichever is less. It may be noted that there are no statutory restrictions, unlike in the case of subsidiaries, on the activities of companies in which banks can hold equity within the ceiling laid down under Section 19(2) of the B.R. Act. In other words, these companies could be both financial services companies as well as companies not engaged in financial services.
+
+<!-- PAGE 3 -->
+
+**7**. **Prudential regulations for investments in subsidiaries and Financial** **Services Companies** As per extant regulations, banks are required to obtain prior approval of the Reserve Bank of India for setting up subsidiary companies and for any equity investment in financial services companies, subject to certain limits and conditions as under: Equity investments by a bank in a subsidiary company, or a financial services company including financial institution, stock and other exchanges, depositories, etc., which is not a subsidiary should not exceed 10 per cent of the bank’s paid-up share capital and reserves and the total investments made in all subsidiaries and all non-subsidiary financial services companies should not exceed 20 per cent of the bank’s paid-up share capital and reserves. However, the cap of 20 per cent does not apply, nor is prior approval of RBI required, if investments in financial services companies are held under ‘Held for Trading’ category, and are not held beyond 90 days.
+## 8. Prudential regulation for banks’ investments in non financial services
+
+**companies** Since investments in non financial services companies do not require prior approval
+
+# Withdrawn
+
+from RBI, banks could potentially acquire substantial equity holding in these companies within the provisions of Section 19 (2) of the BR Act. Consequently, as stated in paragraph 2 above, banks could through their direct and indirect holdings in other entities exercise control or have significant influence over such companies and thus, engage directly or indirectly in activities not permitted to banks. It is, therefore, necessary to limit such investments. With this objective, the following guidelines are laid down:
+
+i) Equity investment by a bank in companies engaged in non financial services activities would be subject to a limit of 10 per cent of the investee company’s paid up share capital or 10 per cent of the bank’s paid up share capital and reserves, whichever is less. For the purpose of this limit, equity investments held under ‘Held for Trading’ category would also be reckoned. Investments within the above mentioned limits, irrespective of
+
+<!-- PAGE 4 -->
+
+whether they are in the ‘Held for Trading’ category or otherwise, would not require prior approval of the Reserve Bank.
+
+ii) Equity investments in any non-financial services company held by (a) a bank; (b) entities which are bank’s subsidiaries, associates or joint ventures or entities directly or indirectly controlled by the bank; and (c) mutual funds managed by AMCs controlled by the bank should in the aggregate not exceed 20 per cent of the investee company’s paid up share capital.
+
+iii) A bank’s request for making investments in excess of 10 per cent of such investee company’s paid up share capital, but not exceeding 30 per cent, would be considered by RBI if the investee company is engaged in non financial activities which are permitted to banks in terms of Section 6(1) of the B. R. Act. It is reiterated that banks are permitted to set up subsidiaries for undertaking activities which are conducive to the spread of banking in India or useful or necessary in public interest in accordance with the provisions of Section 19(1) (c) of the B.R. Act.
+
+# Withdrawn
+
+iv) A bank’s equity investments in subsidiaries and other entities that are engaged in financial services activities together with equity investments in entities engaged in non financial services activities should not exceed 20 per cent of the bank’s paid-up share capital and reserves. The cap of 20 per cent would not apply for investments classified under ‘Held for Trading’ category and which are not held beyond 90 days.
+
+v) Equity holding by a bank in excess of 10 per cent of non financial services investee company’s paid up capital would be permissible without RBI’s prior approval (subject to the statutory limit of 30 per cent in terms of Section 19 (2) of the B.R. Act) if the additional acquisition is through restructuring/CDR, or acquired by the bank to protect its interest on loans/investments made in a company. The equity investment in excess of 10 per cent of investee company’s paid up share capital in such cases
+
+<!-- PAGE 5 -->
+
+would be exempted from the 20 per cent limit referred to above. However, banks will have to submit to RBI a time bound action plan for disposal of such shares within a specified period.
+
+For the purposes of the above guidelines, the terms subsidiary, associate or joint venture shall have the meanings assigned to them in Accounting Standards notified by the Central Government under Section 211(3c) of the Companies Act, 1956 (extract enclosed as Annex 2).
+
+9. Banks should strictly observe these guidelines while investing in companies undertaking non financial services activities. Banks should also carry out a review of their investments in non financial companies as also by entities referred to in para 8 above, within a period of three months. Wherever investments do not conform to the above mentioned policy parameters, banks may ensure that (a) the investments are brought down to the prescribed limits and/or control or the exercise of significant influence is given up as the case may be or (b) seek RBI’s approval in terms of para 8 above.
+10. The review as referred to at para 9 above together with the proposed course of action to comply with the regulatory requirement, where the existing investments are
+# Withdrawn
+
+not as per the above guidelines may be forwarded to the Reserve Bank of India within one month from the date of the review.
+
+Yours faithfully,
+
+(Deepak Singhal) Chief General Manager-in-Charge
+
+## Enclosures: As above
+
+<!-- PAGE 6 -->
+
+## Annex 1
+
+## Financial Services Companies
+
+For the purpose of prudential guidelines on investments in subsidiaries and other
+
+companies, ‘financial services companies’ are companies engaged in the ‘business
+
+of financial services’. The ‘business of financial services’ means –
+
+i) the forms of business enumerated in clauses (a), (c), (d), (e) of sub-section
+(1) of section 6 of the Banking Regulation Act, 1949 and notified under clause
+(o) of sub-section (1) of section 6 of the Banking Regulation Act, 1949;
+ii) the forms of business enumerated in clause (c) and clause (f) of Section 45 I of the Reserve Bank of India Act, 1934;
+
+iii) business of credit information as provided under the Credit Information Companies (Regulation) Act, 2005;
+
+iv) operation of a payment system as defined under the Payment and Settlement Systems Act, 2007;
+
+# Withdrawn
+
+v) operation of a stock exchange, commodity exchange, derivatives exchange or other exchange of similar nature; vi) operation of a depository as provided under the Depositories Act, 1996; vii) business of a securitization or reconstruction company as provided under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002; viii)business of a merchant banker, portfolio manager, stock broker, sub-broker, share transfer agent, trustee of trust deeds, registrar to an issue, merchant banker, underwriter, debenture trustee, investment adviser and such other intermediary as provided in the Securities and Exchange Board of India Act, 1992 and the regulations made thereunder; ix) business of a credit rating agency as defined in Securities and Exchange Board of India (Credit Rating Agencies) Regulations, 1999;
+
+<!-- PAGE 7 -->
+
+x) business of a collective investment scheme as defined under the Securities and Exchange Board of India Act, 1992; xi) business of managing a pension fund; xii) business of an authorized person as defined under the Foreign Exchange Management Act, 1999; and xiii) such other business as may be specified by the Reserve Bank from time to time.
+# Withdrawn
+
+<!-- PAGE 8 -->
+
+## Annex-2
+
+## Definition of Subsidiary, Associates, Joint Ventures, ‘Control and Significant
+
+## Influence’ in terms of Indian Accounting Standards
+
+Accounting Standards 18, 21, 23 and 27 define the above mentioned terms.
+
+**Subsidiary** is an enterprise that is controlled by another enterprise (known as the parent).
+
+**An Associate** is an enterprise in which the investor has significant influence and which is neither a subsidiary nor a Joint venture of the investor, and
+
+**Joint Venture** is a contractual arrangement whereby two or more parties undertake an economic activity, which is subject to joint control.
+
+**Significant Influence** is the power to participate in the financial and/or operating policy decisions of the investee but not control over their policies.
+
+# Withdrawn
+
+## Control –
+
+The ownership, directly or indirectly, • through subsidiary (ies), of more than one-half of the voting power of an enterprise; or
+
+Control of the compositi • on of the board of directors in the case of a company or of the composition of the corresponding governing body in case of any other enterprise so as to obtain economic benefits from its activities.
+
+Control exists when the parent owns, directly or indirectly through subsidiary (ies), more than one-half of the voting power of an enterprise. Control also exists when an enterprise controls the composition of the board of directors (in the case of a company) or of the corresponding governing body (in case of an enterprise not being a company) so as to obtain economic benefits from its activities.
+
+<!-- PAGE 9 -->
+
+An enterprise is considered to control the composition of the board of directors of a company, if it has the power, without the consent or concurrence of any other person, to appoint or remove all or a majority of directors of that company. An enterprise is deemed to have the power to appoint a director, if any, if the following conditions are satisfied.
+
+•A person cannot be appointed as director without the exercise in his favour by that enterprise of such a power as aforesaid; or
+
+•A person’s appointment as director follows necessarily from his appointment to a position held by him in that enterprise; or
+
+•The director is nominated by that enterprise; in case that enterprise is a company, the director is nominated by that company/subsidiaries thereof.
+
+For the purpose of AS 23, significant influence does not extend to power to govern the financial and/or operating policies of an enterprise. Significant influence may be gained by share ownership, statute or agreement. As regards share ownership, if an investor holds, directly or indirectly through subsidiary (ies), 20% or more of the
+
+# Withdrawn
+
+voting power of the investee, it is presumed that the investor has significant influence, **unless it can be clearly demonstrated that this is not the case.** Conversely, if the investor holds, directly or indirectly through subsidiary (ies), less than 20% of the voting power of the investee, it is presumed that the investor does not have significant influence, unless such influence can be clearly demonstrated. A substantial or major ownership by another investor does not necessarily preclude an investor from having significant influence. The existence of significant influence by an investor is usually evidenced in one or more of the following ways: •representation on the board of directors or corresponding governing body of the investee;
+
+•participation in policy making processes; •material transactions between the investor and the investee; •interchange of managerial personnel; and
+
+- provision of essential technical information.

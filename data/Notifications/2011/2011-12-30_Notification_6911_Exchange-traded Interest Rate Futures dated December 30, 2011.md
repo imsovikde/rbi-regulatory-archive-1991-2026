@@ -1,0 +1,66 @@
+---
+doc_id: "Notifications_2011_6911"
+title: "Exchange-traded Interest Rate Futures dated December 30, 2011"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RCPF301211YR.PDF"
+pdf_sha256: "bc0782913371abbf5c29fff7aa83baad64350d45d38d87b906015522f0e55075"
+md_sha256: "b4dcf56e4e22732249bfe2941046bc966fcdad3690e33a403379f6e958bd8fdb"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:26:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-30_Notification_6911_Exchange-traded%20Interest%20Rate%20Futures%20dated%20December%2030%2C%202011.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exchange-traded Interest Rate Futures dated December 30, 2011
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/329 IDMD.PCD.16 /14.03.01/2011-12 December 30, 2011
+
+## To All Market Participants
+
+## Dear Sir/Madam
+
+## Exchange-traded Interest Rate Futures
+
+Interest Rate Futures on 10-year notional coupon bearing Government of India (GoI) security and 91-Day Treasury Bills were introduced on August 28, 2009 and March 7, 2011 respectively. It has now been decided to introduce Interest Rate Futures (IRF) on 2-year and 5-year notional coupon bearing GoI securities in terms of Amendment Direction IDMD.PCD.15/ED(RG)-2011 dated December 30, 2011 issued by the Reserve Bank of India.
+
+2. The final settlement price of the cash-settled 2-year and 5-year IRF contracts at the expiry of the contract period would be derived from the yields of the GoI securities in the underlying basket of securities identified by the Stock exchanges. In this regard, the yields of the GoI securities in the underlying basket would be determined through a
+# The direction has been superseded
+
+polling process as indicated below:
+
+a. Polling shall be carried out by the Fixed Income, Money Market and Derivatives Association, i.e., FIMMDA;
+b. The yields of the GoI securities shall be polled from Primary Dealers (PDs) registered with the Reserve Bank of India;
+c. Polling would be conducted at three instances, i.e., 11.00 am, 11.30 am and 12.00 pm on the date of polling;
+d. Each poll shall involve ten PDs who would be selected at random from the universe of PDs;
+e. At each instance of polling, for each bond, out of the ten buy yields, two highest and two lowest yields would be treated as outliers and would be ignored. Similarly outliers from ten sell yields would be identified and ignored;
+
+<!-- PAGE 2 -->
+
+f. After rejecting the outliers as indicated at (e) above, there will be (6 * 2 * 3
+* Number of Bonds in Basket) number of remaining yields at the end of 3 polling;
+g. Average settlement yield (Ys) is the simple average of the remaining yields. Ys will be rounded off to 4 decimal digits;
+h. The Average settlement yield (Ys) of each GoI security and the yields polled by each participant would be disseminated by FIMMDA (at its website) immediately after the polling process is completed;
+i. The basket of GoI securities underlying the 2-year and 5-year IRF contracts shall be announced by the Stock Exchanges and the same shall be based on the following:
+i. The basket of GoI securities for the 2-year IRF contract shall comprise GoI securities with residual maturity ranging between
+1.5 years and 2.5 years;
+ii. The basket of GoI securities for the 5-year IRF contract shall comprise GoI securities with residual maturity ranging between
+
+4.5 years and 5.5 years;
+iii. The residual maturity of the securities for the purpose [indicated at (ii) and (iii) above] shall be the time period between the date of expiry of the IRF contract and the maturity date of the security.
+
+3. The final settlement price of the underlying GoI securities as well as the IRFsuperseded contracts shall be determined by the Stock Exchanges based on the guidelines issued by the Securities Exchange Board of India (SEBI) from time to time. been
+has
+
+Yours faithfully direction
+
+(**Sanjay Hansda)** The **Director & Officer-in-Charge**
+
+## Related Press Release/Notification
+
+**Dec 30, 2011** <u>RBI amends Directions on Exchange Traded- IRFs on G-secs</u> <u>To permit Two and Five Years IRFs</u> <u>Dec 30, 2011 Exchange-traded Interest Rate Futures</u>

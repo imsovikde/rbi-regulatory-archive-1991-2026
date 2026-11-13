@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2011_6808"
+title: "Scheme of 1% interest subvention on housing loans upto Rs. 10 lakh – Guidelines"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/HISL091111CF.pdf"
+pdf_sha256: "ac7723d538413a415043fa1027188a9a5484820bb978930f7eeaca1dcaa38b8b"
+md_sha256: "f55c3d1d70556466a97b1f6fd257088b7fe302681349a15667c383fea1f993fa"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:25:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-11-09_Notification_6808_Scheme%20of%201%25%20interest%20subvention%20on%20housing%20loans%20upto%20Rs.%2010%20lakh%20%E2%80%93%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Scheme of 1% interest subvention on housing loans upto Rs. 10 lakh – Guidelines
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/255
+
+RPCD.MSME&NFS.BC.No.29/06.11.01/2011-2012
+
+November 4, 2011
+
+The Chairman / Managing Director
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Madam/ Dear Sir,
+
+Scheme of 1% interest subvention on housing loans upto Rs. 10 lakh-
+
+Guidelines
+
+April 21, 2011 on the captioned subject. In this connection, it is now clarified as
+
+under:
+
+a) The Scheme is extended up to March 31, 2012.
+
+b)
+
+Loans sanctioned and disbursed between October 01, 2009 and
+
+March 31, 2011 are outside the ambit of the new liberalised Scheme and
+
+they will be treated as per old instructions (ie. loans up to Rs.10.o0 lakh
+
+with project cost up to Rs.20.00 lakh)
+
+Banks may continue to claim reimbursement, at present, as per the original
+
+Scheme. For claims in respect of the new Scheme, revised instructions would follow.
+
+2. All other terms and conditions of the interest subvention Scheme remain the
+
+same.
+
+3.Please acknowledge receipt.
+
+Yours faithfully,
+
+(C.D.Srinivasan)
+
+ChiefGeneral Manager
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, post box no. 10014
+
+Mumbai-400 001

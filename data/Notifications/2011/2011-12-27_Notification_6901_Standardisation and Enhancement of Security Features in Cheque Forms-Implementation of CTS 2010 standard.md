@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2011_6901"
+title: "Standardisation and Enhancement of Security Features in Cheque Forms-Implementation of CTS 2010 standard"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/COI271211FC.PDF"
+pdf_sha256: "0bc2f729da1f3d238fd9f46418a4fbb6c1cfb26735574b8f9344a682027ee982"
+md_sha256: "bbfc8d5382c1ae26d68fa0144a14f4335d263361daafade7be55b402d4710a5a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-27_Notification_6901_Standardisation%20and%20Enhancement%20of%20Security%20Features%20in%20Cheque%20Forms-Implementation%20of%20CTS%202010%20standard.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standardisation and Enhancement of Security Features in Cheque Forms-Implementation of CTS 2010 standard
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+## RBI/2011-12/320
+
+DPSS.CO.CHD.No./ 1112 / 04.07.05 / 2011-12 December 27, 2011
+
+The Chairman and Managing Director / Chief Executive Officer All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks
+
+Madam / Dear Sir,
+
+## <u>Standardisation and Enhancement of Security Features in Cheque Forms-Implementation of CTS 2010 standard</u>
+
+A reference is invited to our <u>circular No. DPSS.CO.CHD.No. 1832 / 04.07.05 / 2009-10</u> <u>February 22, 2010</u> prescribing the new cheque standards "CTS-2010” and advising banks to be in readiness for rolling out the new standards at an early date. Further, Indian Banks Association (IBA) and National Payment Corporation of India (NPCI) were vested with the responsibility of coordinating and implementing the uniform cheque standard across the country by all participating banks.
+
+2. The introduction of new cheque standards 'CTS 2010' was warranted on account of several developments in the cheque clearing viz. growing use of multi-city and payable-at- par cheques at any branch of a bank, increasing popularity of Speed Clearing for local processing of outstation cheques and implementation of grid based Cheque Truncation System (CTS) for image-based cheque processing etc.
+3. The new cheque standard "CTS 2010" with set of minimum security features would ensure uniformity across all cheque forms issued by banks in the country and also help presenting banks while scrutinising / recognising cheques of drawee banks in an image- based processing scenario. The homogeneity in security features is expected to act as a deterrent against cheque frauds, while the standardisation of field placements on cheque forms would enable straight-through-processing both under CTS and MICR clearing.
+4. As you are aware, the grid based CTS at Chennai has already been operationalised with effect from September, 2011. Shortly, the grid based CTS at Chennai and New Delhi would be expanded to cover the clearing centres falling under both the grids. It has been reported that majority of the cheque issuing banks have been certified as CTS-2010 compliant by NPCI and there have been requests from participating banks in CTS for prescribing a cut- off date for total migration to ‘CTS 2010 standard’.
+5. Considering the above developments and the time already given to banks for migrating to the new cheque standard, it has since been decided to prescribe a cut-off date for implement the ‘CTS-2010 standards’ across the country. All banks providing cheque facility to their customers, are, therefore, advised to issue only 'CTS-2010' standard cheques not later than April 1, 2012 on priority basis in northern and southern region which will be part of the northern and southern CTS grids respectively and across the country by September 30, 2012 through a time bound action plan.
+contd/-
+
+Tel: (91-22) 2266 5336; Fax: (91-22) 22 th 69 1557; e-mail : helpdpss@rbi.org.in Department of Payment & Settlement Systems, Central Office, 14 Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400001
+
+<!-- PAGE 2 -->
+
+6. The above instructions are issued in terms of section 18 of the Payment and Settlement Systems Act 2007(Act 51 of 2007).
+7. Please acknowledge receipt and confirm that you have put in place a plan for implementing the "CTS-2010 standard” within the prescribed timeline. Yours faithfully, (Vijay Chugh) Chief General Manager

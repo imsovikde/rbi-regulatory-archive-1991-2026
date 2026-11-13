@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2011_6885"
+title: "Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002- Assessment and Monitoring of Risk"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRBE21122011.pdf"
+pdf_sha256: "1bf124cadf0fb4a1d419c73033dd2822510cfc08e7686bb89206a952f7110c1c"
+md_sha256: "609c19518cb6c46bab687a2b2cbcbca16468004b27aac73e3d239f74264df40b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-21_Notification_6885_Know%20Your%20Customer%20%28KYC%29%20norms-Anti-Money%20Laundering%20%28AML%29%20standards-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29-Obligation%20of%20banks%20under%20Prevention%20of%20Money%20Laundering.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002- Assessment and Monitoring of Risk
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बैंक **________________ RESERVE BANK OF INDIA_______________________** <u>www.rbi.org.in</u>
+
+RBI/2011-12/309 RPCD.CO.RRB.AML. BC.No.46 /03.05.33 (E) /2011-12 December 21, 2011
+
+The Chairmen All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+## Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of
+
+## banks under Prevention of Money Laundering Act (PMLA), 2002-Assessment and Monitoring of Risk
+
+Please refer to our circular <u>RPCD.No.RRB.BC.81/03.05.33(E)/2004-05 dated</u> <u>February 18,2005</u> on Know Your Customer (KYC) Guidelines-Anti-Money Laundering Standards and <u>RPCD.CO.RRB.AML.BC.No.</u> <u>46/03.05.33(E)/2010-11 dated January 12, 2011</u> on Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002.
+
+2. In terms of paragraph 2 of the circular dated February 18, 2005 and paragraph 2 of the circular dated January 12, 2011, RRBs are required to prepare a risk profile of each customer and apply enhanced due diligence measures on higher risk customers. Some illustrative examples of customers requiring higher due diligence have also been provided in the paragraph under reference. Further, paragraph 5 of the circular dated February 18,2005 requires RRBs to put in place policies, systems and procedures for risk management keeping in view the risks involved in a transaction, account or banking/business relationship.
+3. The Government of India had constituted a National Money Laundering/Financing of Terror Risk Assessment Committee to assess money laundering and terror financing risks, a national AML/CFT strategy and institutional framework for AML/CFT in India. Assessment of risk of Money Laundering /Financing of Terrorism helps both the competent authorities and the regulated entities in taking necessary steps for combating ML/FT adopting a risk-based approach. This helps in judicious and efficient allocation of resources and makes the AML/CFT regime more robust. The Committee has made recommendations regarding adoption of a risk-based approach, assessment of risk and putting in place a system which would use that assessment to take steps to effectively counter ML/FT. The recommendations of the Committee have since been accepted by the Government of India and need to be implemented.
+
+<!-- PAGE 2 -->
+
+4. Accordingly, RRBs should take steps to identify and assess their ML/TF risk for customers, countries and geographical areas as also for products/ services/ transactions/delivery channels, in addition to what has been prescribed in our circulars dated February 18, 2005. RRBs should have policies, controls and procedures, duly approved by their boards, in place to effectively manage and mitigate their risk adopting a risk-based approach as discussed above. As a corollary, RRBs would be required to adopt enhanced measures for products, services and customers with a medium or high risk rating.
+5. In this regard, Indian Banks' Association (IBA) has taken initiative in assessment of ML/FT risk in the banking sector. It has circulated to its member banks on May 18, 2011, a copy of their Report on Parameters for Risk Based Transaction Monitoring (RBTM) as a supplement to their guidance note on Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards issued in July 2009. The IBA guidance also provides an indicative list of high risk customers, products, services and geographies. RRBs may use the same as guidance in their own risk assessment.
+6. These guidelines are issued under Section 35A of the Banking Regulation Act, 1949 read with Rule 7 of Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005. Any contravention thereof or non-compliance shall attract penalties under B R Act,
+1949. Please acknowledge receipt of the circular to our Regional Office concerned. Yours faithfully,
+## (C.D. Srinivasan)
+
+Chief General Manager
+
+th Rural Planning & Credit Department Central Office**,** 10 Floor, Central Office <u>Bldg., Shahid Bhagat Singh Marg Mumbai - 1</u> Tel No: 91-22-22661602 Fax No: 91-22-22610943/22610948/22658276 Email ID:cgmicrpcd@rbi.org.in

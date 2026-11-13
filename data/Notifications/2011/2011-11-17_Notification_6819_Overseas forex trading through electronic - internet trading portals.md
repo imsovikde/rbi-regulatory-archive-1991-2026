@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2011_6819"
+title: "Overseas forex trading through electronic / internet trading portals"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDR461711F.pdf"
+pdf_sha256: "2b62a2a0013a7c059d5b1449d7fac722441c48da93e19346c1e12639f4e55a6a"
+md_sha256: "2cb42425ff293f3453a9eeb6e1b471ad4395e3eb66e073d54b3f094a11fd9579"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-11-17_Notification_6819_Overseas%20forex%20trading%20through%20electronic%20-%20internet%20trading%20portals.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas forex trading through electronic / internet trading portals
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2011-12/262 A.P. (DIR Series) Circular No. 46 November 17, 2011
+
+To,
+
+## All Authorised Dealer Category I Banks
+
+Madam/ Sir,
+
+## Overseas forex trading through electronic / internet trading portals
+
+Attention of the Authorised Dealer Category-I (AD Category-I) banks is invited to <u>A.P. (DIR Series) Circular No. 53 dated April 07, 2011</u> wherein AD Category I banks were advised to exercise due caution and be extra vigilant in respect of the margin payments being made by the public for online forex trading transactions through credit cards / deposits in various accounts maintained with banks in India. Further, AD Category-I banks were also advised to exercise due caution in respect of the accounts being opened in the name of individuals or proprietary concerns at different bank branches for collecting the margin money, investment money, etc. in connection with such transactions.
+
+2. It has been observed that overseas foreign exchange trading has been introduced on a number of internet /electronic trading portals luring the residents with offers of guaranteed high returns based on such forex trading. The advertisements by these internet / online portals exhort people to trade in forex by way of paying the initial investment amount in Indian Rupees. Some companies have reportedly engaged agents who personally contact people to undertake forex trading/ investment schemes and entice them with promises of disproportionate / exorbitant returns. Most of the forex trading through these portals are done on a margining basis with huge leverage or on an investment basis, where the returns are based on forex trading. The public is being asked to make the margin
+
+<!-- PAGE 2 -->
+
+payments for such online forex trading transactions through credit cards / deposits in various accounts maintained with banks in India. It is also observed that accounts are being opened in the name of individuals or proprietary concerns at different bank branches for collecting the margin money, investment money, etc. It is again reiterated that AD Category-I banks should exercise due caution and be extra vigilant in respect of the transactions that require residents to make margin payments for online forex trading transactions through credit cards / deposits in various accounts maintained with banks in India. It is clarified that any person resident in India collecting and effecting / remitting such payments directly /indirectly outside India would make himself/ herself liable to be proceeded against with for contravention of the Foreign Exchange Management Act (FEMA), 1999 besides being liable for violation of regulations relating to Know Your Customer (KYC) norms / Anti Money Laundering (AML) standards.
+
+3. AD Category-I banks may bring the contents of this Circular to the notice of their constituents and customers concerned. Authorised Dealers may also give wide publicity to the instructions contained in the A.P. (DIR Series) Circular No. 53 dated April 07, 2011 and the Press Release issued by the Reserve Bank dated February 21, 2011 (<u>copy enclosed</u>). The instructions contained in this circular may also be brought to the attention of the card issuing companies who may also be advised to remain alert against permitting payments for such unauthorized transactions.
+4. The directions contained in this circular have been issued under sections 10(4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully, **(Meena Hemchandra)** **Chief General Manager-in-Charge**

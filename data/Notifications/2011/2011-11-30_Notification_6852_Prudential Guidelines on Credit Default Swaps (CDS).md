@@ -1,0 +1,367 @@
+---
+doc_id: "Notifications_2011_6852"
+title: "Prudential Guidelines on Credit Default Swaps (CDS)"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CACDS301111.pdf"
+pdf_sha256: "2b25e95fa687a6a2bd4eadfc8307ca99f881a3195f993ad255e5a958bcd4cce5"
+md_sha256: "c9686e31a04625efeaee3ce21776b923fb858b1a5c69c42c5af77e751afa65d3"
+total_pages: 17
+native_pages: 17
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-11-30_Notification_6852_Prudential%20Guidelines%20on%20Credit%20Default%20Swaps%20%28CDS%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Guidelines on Credit Default Swaps (CDS)
+
+<!-- PAGE 1 -->
+
+ž¸¸£·¸ú¡¸ ¹£{¸¨¸Ä बक **____________RESERVE BANK OF INDIA___________** www.rbi.org.in RBI/2011-12/285 DBOD.BP.BC.No.61/21.06.203/2011‐12 November 30, 2011
+
+## The Chairman and Managing Directors/
+
+## Chief Executive Officers of
+
+## All Scheduled Commercial Banks
+
+## (Excluding RRBs and Local Area Banks)
+
+Dear Sir,
+
+## Prudential Guidelines on Credit Default Swaps (CDS)
+
+Please refer to guidelines on single name Credit Default Swaps on corporate bonds issued vide <u>Circular No. IDMD.PCD.No.5053/14.03.04/2010-11 dated May</u> <u>23, 2011</u>. As indicated in the paragraph 3.5 of the circular, market participants will have to follow the capital adequacy guidelines for CDS issued by their respective regulators. Accordingly, guidelines on capital adequacy, exposure norms and provisioning to banks undertaking CDS transactions are enclosed as **Annex.**
+
+2. The guidelines will be applicable on CDS transactions undertaken by Indian banks domestically or through their overseas branches / subsidiaries / joint ventures as well as Indian operations of foreign banks. While undertaking CDS transactions overseas, Indian banks should adhere to guidelines of host country, if they are more conservative / stricter than these guidelines.
+3. These guidelines become applicable with immediate effect. Yours faithfully,
+## (Deepak Singhal) Chief General Manager-in-Charge
+
+Department of Banking Operations & Development, Central Office, 12th Floor, Central Office Building, Bhagat Singh Marg, Mumbai **Tel No: 91-22-22661602 Fax No: 91-22-22705691,22705692**
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## PRUDENTIAL GUIDELINES ON CREDIT DEFAULT SWAPS (CDS)
+
+## 1. Introduction
+
+With a view to providing market participants a tool to transfer and manage credit
+
+risk associated with corporate bonds, Reserve Bank of India has introduced single
+
+name CDS on corporate bonds. Banks can undertake transactions in such CDS,
+
+both as market-makers as well as users. As users, banks can buy CDS to hedge a
+
+Banking Book or Trading Book exposure. The prudential guidelines dealing with
+
+CDS are dealt with in the following paragraphs.
+
+## 2. Definitions
+
+The following definitions are used in these guidelines:
+
+(i) **Credit event payment**- the amount which is payable by the credit protection provider to the credit protection buyer under the terms of the credit derivative contract following the occurrence of a credit event. The payment can be in the form of **physical settlement** (payment of par in exchange for physical delivery of a deliverable obligation of the reference entity) or **cash settlement** (either a payment determined on a par-less-recovery basis, i.e. determined using the par value of the reference obligation less that obligation’s recovery value, **or** a fixed amount, **or** a fixed percentage of the par amount).
+1 (ii) **Deliverable asset / obligation**- any obligation of the reference entity which can be delivered, under the terms of the contract, if a credit event occurs. [A deliverable obligation is relevant for credit derivatives that are to be physically settled.]
+
+2 (iii) **Reference obligation**- the obligation used to calculate the amount payable when a credit event occurs under the terms of a credit derivative contract. [A reference obligation is relevant for obligations that are to be cash settled (on a par-less-recovery basis).]
+
+1 For the present, only the deliverable obligations specified in the guidelines on CDS vide circular IDMD.PCD.No. 5053 /14.03.04/2010-11 dated May 23, 2011 will be permitted.
+
+Please refer to paragraph 2.4 of the circular IDMD.PCD.No. 5053 /14.03.04/2010-11 dated May 23, 2011.
+
+<!-- PAGE 3 -->
+
+3 (iv) **Underlying asset / obligation**- The asset which a protection buyer is seeking to hedge.
+
+**3**. **Classification of CDS into Trading Book and Banking Book Positions** For the purpose of capital adequacy for CDS transactions, Trading Book would comprise *Held for Trading* positions and Banking Book would comprise *Held to* *Maturity* and *Available for Sale* positions. A CDS being a financial derivative will be classified in the Trading Book except when it is contracted and designated as a hedge for a Banking Book exposure. Thus, the CDS positions held in the Trading Book would include positions which:
+(a) arise from market-making;
+(b) are meant for hedging the exposures in the Trading Book;
+(c) are held for short-term resale; and
+(d) are taken by the bank with the intention of benefiting in the short-term from the actual and / or expected differences between their buying and selling prices
+CDS positions meant for hedging Banking Book exposures will be classified in the Banking Book. However, all CDS positions, either in Banking Book or Trading Book, should be marked-to-market. All CDS positions should meet the operational requirements indicated in paragraph 4 below.
+
+**4. Operational requirements for CDS to be recognised as eligible External /** **Third-party hedges for Trading Book and Banking Book**
+(a) A CDS contract should represent a direct claim on the protection provider and should be explicitly referenced to specific exposure, so that the extent of the cover is clearly defined and incontrovertible.
+(b) Other than non-payment by a protection purchaser of premium in respect of the credit protection contract it should be irrevocable. Please refer to paragraph 2.4 of the circular IDMD.PCD.No. 5053 /14.03.04/2010-11 dated May 23, 2011.
+
+<!-- PAGE 4 -->
+
+(c) There should be no clause in the contract that would allow the protection provider unilaterally to cancel the credit cover or that would increase the effective cost of cover as a result of deteriorating credit quality in the hedged exposure.
+(d) The CDS contract should be unconditional; there should be no clause in the protection contract outside the direct control of the bank (protection buyer) that could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original counterparty fails to make the payment(s) due.
+(e) The credit events specified by the contracting parties should at a minimum cover:
+(i) failure to pay the amounts due under terms of the underlying obligation that are in effect at the time of such failure (with a grace period that is closely in line with the grace period in the underlying obligation); (ii) bankruptcy, insolvency or inability of the obligor to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and analogous events; and (iii) restructuring of the underlying obligation (as contemplated in the IDMD guidelines on CDS dated May 23, 2011) involving forgiveness or postponement of principal, interest or fees that results in a credit loss event (i.e. charge-off, specific provision or other similar debit to the profit and loss account); (iv) when the restructuring of the underlying obligation is not covered by the CDS, but the other requirements in paragraph 4 are met, partial recognition of the CDS will be allowed. If the amount of the CDS is less than or equal to the amount of the underlying obligation, 60% of the amount of the hedge can be recognised as covered. If the amount of the CDS is larger than that of the underlying obligation, then the amount of eligible hedge is capped at 60% of the amount of the underlying obligation.
+(f) If the CDS specifies deliverable obligations that are different from the underlying obligation, the resultant asset mismatch will be governed under paragraph (k) below.
+
+<!-- PAGE 5 -->
+
+(g) The CDS shall not terminate prior to expiration of any grace period required for
+4 a default on the underlying obligation to occur as a result of a failure to pay.
+
+(h) The CDS allowing for cash settlement are recognised for capital purposes insofar as a robust valuation process is in place in order to estimate loss reliably. There should be a clearly specified period for obtaining post-credit event valuations of the underlying obligation. If the reference obligation specified in the CDS for purposes of cash settlement is different than the underlying obligation, the resultant asset mismatch will be governed under paragraph (k) below.
+(i) If the protection purchaser’s right/ability to transfer the underlying obligation to the protection provider is required for settlement, the terms of the underlying obligation should provide that any required consent to such transfer may not be unreasonably withheld.
+(j) The identity of the parties responsible for determining whether a credit event has occurred should be clearly defined. This determination should not be the sole responsibility of the protection seller. The protection buyer should have the right/ability to inform the protection provider of the occurrence of a credit event.
+(k) A mismatch between the underlying obligation and the reference obligation or deliverable obligation under the CDS (i.e. the obligation used for purposes of determining cash settlement value or the deliverable obligation) is permissible if (1) the reference obligation or deliverable obligation ranks *pari passu* with or is junior to the underlying obligation, and (2) the underlying obligation and reference obligation or deliverable obligation share the same obligor (i.e. the same legal entity) and legally enforceable cross-default or cross-acceleration clauses are in place.
+(l) A mismatch between the underlying obligation and the obligation used for purposes of determining whether a credit event has occurred is permissible if (1) the latter obligation ranks *pari passu* with or is junior to the underlying obligation, The maturity of the underlying exposure and the maturity of the hedge should be defined conservatively. The effective maturity of the underlying should be gauged as the longest possible remaining time before the counterparty is scheduled to fulfill its obligation, taking into account any applicable grace period.
+
+<!-- PAGE 6 -->
+
+and (2) the underlying obligation and reference obligation share the same obligor (i.e. the same legal entity) and legally enforceable cross-default or cross acceleration clauses are in place.
+
+## 5. Capital Adequacy Requirement for CDS Positions in the Banking Book
+
+## 5.1 Recognition of External/Third-party CDS Hedges
+
+**5.1.1** In case of Banking Book positions hedged by bought CDS positions, no exposure will be reckoned against the reference entity / underlying asset in respect of the hedged exposure, and exposure will be deemed to have been substituted by the protection seller, if the following conditions are satisfied:
+(a) Operational requirements mentioned in paragraph 4 are met;
+(b) The risk weight applicable to the protection seller under the Basel II Standardised Approach for credit risk is lower than that of the underlying asset; and
+(c) There is no maturity mismatch between the underlying asset and the reference / deliverable obligation. If this condition is not satisfied, then the amount of credit protection to be recognised should be computed as indicated in paragraph 5.1.3 (ii) below.
+**5.1.2** If the conditions (a) and (b) above are not satisfied or the bank breaches any of these conditions subsequently, the bank shall reckon the exposure on the underlying asset; and the CDS position will be transferred to Trading Book where it will be subject to specific risk, counterparty credit risk and general market risk (wherever applicable) capital requirements as applicable to Trading Book.
+**5.1.3** The unprotected portion of the underlying exposure should be risk-weighted as applicable under Basel II framework. The amount of credit protection shall be adjusted if there are any mismatches between the underlying asset/ obligation and the reference / deliverable asset / obligation with regard to *asset* or *maturity*. These are dealt with in detail in the following paragraphs.
+
+<!-- PAGE 7 -->
+
+## (i) Asset mismatches
+
+Asset mismatch will arise if the underlying asset is different from the reference asset or deliverable obligation. Protection will be reckoned as available by the protection buyer only if the mismatched assets meet the requirements specified in paragraph 4 (k) above.
+
+## (ii) Maturity mismatches
+
+The protection buyer would be eligible to reckon the amount of protection if the maturity of the credit derivative contract were to be equal or more than the maturity of the underlying asset. If, however, the maturity of the CDS contract is less than the maturity of the underlying asset, then it would be construed as a maturity mismatch. In case of maturity mismatch the amount of protection will be determined in the following manner:
+
+a. If the residual maturity of the credit derivative product is less than **three months** no protection will be recognized.
+b. If the residual maturity of the credit derivative contract is **three months** or more protection proportional to the period for which it is available will be recognised. When there is a maturity mismatch the following adjustment will be applied.
+## Pa = P x (t- .25) ÷ (T- .25)
+
+Where:
+
+Pa = value of the credit protection adjusted for maturity mismatch P = credit protection t = min (T, residual maturity of the credit protection arrangement) expressed in years T = min (5, residual maturity of the underlying exposure) expressed in years
+
+***Example:** Suppose the underlying asset is a corporate bond of Face* *Value of Rs. 100 where the residual maturity is of 5 years and the* *residual maturity of the CDS is 4 years. The amount of credit* *protection is computed as under:* *100 * {(4-.25) ÷ (5-.25)} = 100*(3.75÷ 4.75) = 78.95*
+
+<!-- PAGE 8 -->
+
+c. Once the residual maturity of the CDS contract reaches **three months**, protection ceases to be recognised.
+## 5.2 Internal Hedges
+
+Banks can use CDS contracts to hedge against the credit risk in their existing corporate bonds portfolios. A bank can hedge a Banking Book credit risk exposure either by an internal hedge (the protection purchased from the trading desk of the bank and held in the Trading Book) or an external hedge (protection purchased from an eligible third party protection provider). When a bank hedges a Banking Book credit risk exposure (corporate bonds) using a CDS booked in its Trading Book (i.e. using an internal hedge), the Banking Book exposure is not deemed to be hedged for capital purposes unless the bank transfers the credit risk from the Trading Book to an eligible third party protection provider through a CDS meeting the requirements of paragraph 5.1 vis-à-vis the Banking Book exposure. Where such third party protection is purchased and is recognised as a hedge of a Banking Book exposure for regulatory capital purposes, no capital is required to be maintained on internal and external CDS hedge. In such cases, the external CDS will act as indirect hedge for the Banking Book exposure and the capital adequacy in terms of paragraph 5.1, as applicable for external / third party hedges, will be applicable.
+
+## 6. Capital Adequacy for CDS in the Trading Book
+
+## 6.1 General Market Risk
+
+A credit default swap does not normally create a position for general market risk for either the protection buyer or protection seller. However, the present value of premium payable / receivable is sensitive to changes in the interest rates. In order to measure the interest rate risk in premium receivable/payable, the present value of the premium can be treated as a notional position in Government securities of relevant maturity. These positions will attract appropriate capital charge for general market risk. The protection buyer / seller will treat the present value of the premium
+
+<!-- PAGE 9 -->
+
+payable / receivable equivalent to a short / long notional position in Government securities of relevant maturity.
+
+## 6.2 Specific Risk for Exposure to Reference Entity
+
+A CDS creates a notional long / short position for specific risk in the reference asset / obligation for protection seller / protection buyer. For calculating specific risk capital charge, the notional amount of the CDS and its maturity should be used. The specific risk capital charge for CDS positions will be as per Table-1 and Table -2 below.
+
+## Table-1: Specific risk capital charges for bought and sold CDS positions
+
+|||in the Trading Book: Exposures to entities Commercial Real Estate Companies/ NBFC-ND-SI||other than|
+|---|---|---|---|---|
+||Upto 90 days|||After 90 days⁵|
+|Ratings by the * ECAI|Residual Maturity of the instrument 6 months or less|Capital charge 0.28 %|Ratings by * the ECAI AAA|Capital charge 1.8 %|
+|AAA to BBB|Greater than 6 months and up to and including 24 months|1.14%|AA|2.7%|
+||Exceeding 24 months|1.80%|A BBB|4.5% 9.0%|
+|BB and below|All maturities|13.5%|BB and below|13.5%|
+|Unrated (if permitted)|All maturities|9.0% * These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers “+” or “-“ have been subsumed within the main category.|Unrated (if permitted)|9.0%|
+
+5 Under Basel II, the specific risk capital charge for risk exposures to corporate bonds, CDS contracts, etc., held in Trading Book have been calibrated, keeping in view the generally short time horizon of the Trading Book. In case such positions remain in the Trading Book for longer time horizons, these are exposed to higher credit risk. In such cases, the normal specific risk capital charge will be inadequate. Hence, the specific risk capital charges on exposures remaining in Trading Book beyond 90 days have been suitably increased.
+
+<!-- PAGE 10 -->
+
+**Table-2: Specific risk capital charges for bought and sold CDS positions in the Trading Book: Exposures to Commercial Real Estate**
+
+**#**
+
+# Companies/ NBFC-ND-SI
+
+## Ratings by the Residual Maturity of the
+
+*** Capital charge**
+## ECAI instrument
+
+6 months or less 1.4% Greater than 6 months and up to
+
+7.7%
+and including 24 months AAA to BBB
+
+||Exceeding 24 months|9.0%|
+|---|---|---|
+|BB and below Unrated (if|All maturities|9.0%|
+
+All maturities 9.0% <u>permitted)</u> # The above table will be applicable for exposures upto 90 days. Capital charge for exposures to Commercial Real Estate Companies / NBFC-ND-SI beyond 90 days shall be taken at 9.0%, regardless of rating of the reference /deliverable obligation.
+
+* These ratings indicate the ratings assigned by Indian rating agencies / ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers “+” or “-“ have been subsumed within the main category.
+**6**
+
+# 6.2.1 Specific Risk Capital Charges for Positions Hedged by CDS
+
+# (i) Banks may fully offset the specific risk capital charges when the values of
+
+# two legs (i.e. long and short in CDS positions) always move in the opposite
+
+# direction and broadly to the same extent. This would be the case when the two
+
+# legs consist of completely identical CDS. In these cases, no specific risk capital
+
+# requirement applies to both sides of the CDS positions.
+
+# (ii) Banks may offset 80 per cent of the specific risk capital charges when the
+
+# value of two legs (i.e. long and short) always moves in the opposite direction but
+
+7 not broadly to the same extent. This would be the case when a long cash position
+
+is hedged by a credit default swap and there is an exact match in terms of the
+
+# reference / deliverable obligation, and the maturity of both the reference /
+
+# deliverable obligation and the CDS. In addition, key features of the CDS (e.g. credit
+
+6 This paragraph will be applicable only in those cases where a CDS position is explicitly meant for hedging a Trading Book exposure. In other words, a bank cannot treat a CDS position as a hedge against any other Trading Book exposure if it was not intended to be as such *ab initio.* 7 A cash position in corporate bond in Trading Book hedged by a CDS position, even where the reference obligation and the underlying bonds are the same, will not qualify for 100% offset because a CDS cannot guarantee a 100% match between the market value of CDS and the appreciation / depreciation in the underlying bond at all times.
+
+<!-- PAGE 11 -->
+
+event definitions, settlement mechanisms) should not cause the price movement of
+
+the CDS to materially deviate from the price movements of the cash position. To
+
+the extent that the transaction transfers risk, an 80% specific risk offset will be
+
+applied to the side of the transaction with the higher capital charge, while the 8 specific risk requirement on the other side will be zero.
+
+(iii) Banks may offset partially the specific risk capital charges when the value
+
+of the two legs (i.e. long and short) usually moves in the opposite direction. This
+
+would be the case in the following situations:
+
+(a) The position is captured in paragraph 6.2.1 (ii) but there is an asset mismatch between the cash position and the CDS. However, the underlying asset is included in the (reference / deliverable) obligations in the CDS documentation and meets the requirements of paragraph 4 (k).
+(b) The position is captured in paragraph 6.2.1 (ii) but there is maturity mismatch between credit protection and the underlying asset. However, the underlying asset is included in the (reference / deliverable) obligations in the CDS documentation.
+(c) In each of the cases in paragraph (a) and (b) above, rather than applying specific risk capital requirements on each side of the transaction (i.e. the credit protection and the underlying asset), only higher of the two capital requirements will apply.
+## 6.2.2 Specific Risk Charge in CDS Positions which are not Meant for Hedging
+
+In cases not captured in paragraph 6.2.1, a specific risk capital charge will be
+
+assessed against both sides of the positions.
+
+## 7. Capital Charge for Counterparty Credit Risk
+
+8 For example, if specific risk charge on long position (corporate bond) comes to Rs.1000 and that on the short position (credit protection bought through CDS) comes to Rs.700, there will be no capital change on the short position and the long position will attract specific risk capital charge of Rs.200 (1000-80% of 1000). Banks will not be allowed to offset specific risk charges between two opposite CDS positions which are not completely identical.
+
+<!-- PAGE 12 -->
+
+# The credit exposure for the purpose of counterparty credit risk on account of CDS
+
+# transactions in the Trading Book will be calculated according to the Current
+
+# Exposure Method under Basel II framework.
+
+# 7.1 Protection Seller
+
+# A protection seller will have exposure to the protection buyer only if the fee /
+
+# premia are outstanding. In such cases, the counterparty credit risk charge for all
+
+# single name long CDS positions in the Trading Book will be calculated as the sum
+
+# of the current marked-to-market value, if positive (zero, if marked-to-market value is
+
+# negative) and the potential future exposure add-on factors based on Table 3 given
+
+below. However, the add-on will be capped to the amount of unpaid premia. **Table 3: Add-on factors for Protection sellers**
+
+(As % of Notional Principal of CDS)
+
+|10 Type of Reference Obligation|Add-on factor|
+|---|---|
+|Obligations rated BBB- and above|10%|
+|Below BBB- and unrated 7.2 Protection Buyer A CDS contract creates a counterparty exposure on the protection seller on account of the credit event payment. The counterparty credit risk charge for all short CDS positions in the Trading Book will be calculated as the sum of the current marked-to-market value, if positive (zero, if marked-to-market value is|20%|
+
+9 A CDS contract, which is required to be marked-to-market, creates bilateral exposure for the parties to the contract. The mark-to-market value of a CDS contract is the difference between the default-adjusted present value of protection payment (called “protection leg” / “credit leg”) and the present value of premium payable called (“premium leg”). If the value of credit leg is less than the value of the premium leg, then the marked-to- market value for the protection seller in positive. Therefore, the protection seller will have exposure to the counterparty (protection buyer) if the value of premium leg is more than the value of credit leg. In case, no premium is outstanding, the value of premium leg will be zero and the mark-to-market value of the CDS contract will always be negative for the protection seller and therefore, protection seller will not have any exposure to the protection buyer. In no case, the protection seller’s exposure on protection buyer can exceed the amount of the premium unpaid. For the purpose of capital adequacy as well as exposure norms, the measure of counterparty exposures in case of CDS transaction held in Trading Book is the Potential Future Exposure (PFE) which is measured and recognised as per Current Exposure Method.
+
+The add-on factors will be the same regardless of maturity of the reference obligations or CDS contract.
+
+<!-- PAGE 13 -->
+
+negative) and the potential future exposure add-on factors based on Table 4 given below:
+
+**Table 4: Add-on factors for Protection Buyers**
+
+(As % of Notional Principal of CDS) **11** **Type of Reference Obligation Add-on factor** Obligations rated BBB- and above 10% Below BBB- and unrated 20%
+
+## 7.3 Capital Charge for Counterparty risk for Collateralised Transactions in CDS
+
+As mentioned in paragraph 3.3 of the circular IDMD.PCD.No. 5053 /14.03.04/2010- 11 dated May 23, 2011, collaterals and margins would be maintained by the individual market participants. The counterparty exposure for CDS traded in the OTC market will be calculated as per the Current Exposure Method. Under this method, the calculation of the counterparty credit risk charge for an individual contract, taking into account the collateral, will be as follows:
+
+Counterparty risk capital charge = [(RC + add-on) – CA] x r x 9% where: RC = the replacement cost, add-on = the amount for potential future exposure calculated according to paragraph 7 above. CA = the volatility adjusted amount of eligible collateral under the comprehensive approach prescribed in paragraphs 7.3 “Credit Risk Mitigation Techniques- Collateralised Transactions” of the Master Circular on New Capital Adequacy Framework dated July 1, 2011, or zero if no eligible collateral is applied to the transaction, and r = the risk weight of the counterparty.
+
+The add-on factors will be the same regardless of maturity of the reference obligations or CDS contract.
+
+<!-- PAGE 14 -->
+
+## 8. Treatment of Exposures Below Materiality Thresholds
+
+Materiality thresholds on payments below which no payment is made in the event of loss are equivalent to retained first loss positions and should be assigned risk 12 weight of 1111% for capital adequacy purpose by the protection buyer.
+
+## 9. General Provisions Requirements
+
+At present, general provisions (standard asset provisions) are required only for Loans & Advances and the positive marked-to-market values of derivatives contracts. For all CDS positions including the hedged positions, both in the Banking Book and Trading Book, banks should hold general provisions for gross positive marked-to-market values of the CDS contracts.
+
+**10**. **Prudential Treatment Post-Credit Event**
+## 10.1 Protection Buyer
+
+In case the credit event payment is not received within the period as stipulated in the CDS contract, the protection buyer shall ignore the credit protection of the CDS and reckon the credit exposure on the underlying asset and maintain appropriate level of capital and provisions as warranted for the exposure. On receipt of the credit event payment, (a) the underlying asset shall be removed from the books if it has been delivered to the protection seller or (b) the book value of the underlying asset shall be reduced to the extent of credit event payment received if the credit event payment does not fully cover the book value of the underlying asset and appropriate provisions shall be maintained for the reduced value.
+
+## 10.2 Protection Seller
+
+**10.2.1** From the date of credit event and until the credit event payment in accordance with the CDS contract, the protection seller shall debit the Profit and 12 As per Basel II framework the first loss positions are required to be deducted from capital. However, according to Basel III, the risk weight for such positions consistent with minimum 8% capital requirement is 1250%. Since in India, minimum capital requirement is 9%, the risk weight has been capped at 1111% (100/9) so as to equate the capital charge to the exposure value.
+
+<!-- PAGE 15 -->
+
+Loss account and recognise a liability to pay to the protection buyer, for an amount equal to fair value of the contract (notional of credit protection less expected recovery value). In case, the fair value of the deliverable obligation (in case of physical settlement) / reference obligation (in case of cash settlement) is not available after the date of the credit event, then until the time that value is available, the protection seller should debit the Profit and Loss account for the full amount of the protection sold and recognise a liability to pay to the protection buyer equal to that amount.
+
+**10.2.2**. In case of physical settlement, after the credit event payment, the protection seller shall recognise the assets received, if any, from the protection buyer at the fair value. These investments will be classified as non-performing investments and valued in terms of paragraph 3.10 of the Master Circular on “*Prudential Norms for Classification, Valuation and Operation of Investment* *Portfolio by Banks*”. Thereafter, the protection seller shall subject these assets to the appropriate prudential treatment as applicable to corporate bonds.
+## 11. Exposure Norms
+
+**11.1** For the present, the CDS is primarily intended to provide an avenue to investors for hedging credit risk in the corporate bonds, after they have invested in the bonds. It should, therefore, not be used as a substitute for a bank guarantee. Accordingly, a bank should not sell credit protection by writing a CDS on a corporate bond on the date of its issuance in the primary market or undertake,
+13 before or at the time of issuance of the bonds, to write such protection in future.
+
+**11.2** Exposure on account of all CDS contracts will be aggregated and combined with other on-balance sheet and off-balance sheet exposures against the reference entity for the purpose of complying with the exposure norms. 13 As per extant instructions issued by RBI, banks are not permitted to guarantee the repayment of principal and/or interest due on corporate bonds. Considering this restriction, writing credit protection through CDS on a corporate bond on the date of its issuance or undertaking, before or at the time of issuance, to write such protection in future, will be deemed to be a violation of the said instructions.
+
+<!-- PAGE 16 -->
+
+**11.3 Protection Seller**
+**(i)** A protection seller will recognise an exposure to the reference entity of the CDS contract equal to the amount of credit protection sold, subject to paragraph (ii) below. **(ii)** If a market maker has two completely identical opposite positions in CDS forming a hedged position which qualifies for capital adequacy treatment in terms of paragraph 6.2.1(i), no exposure would be reckoned against the reference entity. (iii) Protection seller will also recognise an exposure to the counterparty equal to the total credit exposure calculated under Current Exposure Method as prescribed in Basel II framework in the case of all CDS positions held in the Trading Book.
+## 11.4 Protection Buyer
+
+(i) In respect of obligations hedged in the Banking Book as indicated in paragraph 5.1 and Trading Book as indicated in paragraph 6.2.1 (ii), the protection buyer will not reckon any exposure on the reference entity. The exposure will be deemed to have been transferred on the protection seller to the extent of protection available. (ii) In all other cases where the obligations in Banking Book or Trading Book are hedged by CDS positions, the protection buyer will continue to reckon the exposure on the reference entity equal to the outstanding position of the underlying asset. (iii) For all bought CDS positions (hedged and un-hedged) held in Trading Book, the protection buyer will also reckon exposure on the counterparties to the CDS contracts as measured by the Current Exposure Method. (iv) The protection buyer needs to adhere to all the criteria required for transferring the exposures fully to the protection seller in terms of paragraph (i) above on an on-going basis so as to qualify for exposure relief on the underlying asset. In case any of these criteria are not met subsequently, the bank will have to reckon the exposure on the underlying asset. Therefore, banks should restrict the
+
+<!-- PAGE 17 -->
+
+total exposure to an obligor including that covered by way of various unfunded credit protections (guarantees, LCs, standby LCs, CDS, etc.) within an internal exposure ceiling considered appropriate by the Board of the bank in such a way that it does not breach the single / group borrower exposure limit prescribed by RBI. In case of the event of any breach in the single / group borrower exposure limit, the entire exposure in excess of the limit will be risk weighted at 1111%. In order to ensure that consequent upon such a treatment, the bank does not breach the minimum capital requirement prescribed by RBI, it should keep sufficient cushion in capital in case it assumes exposures in excess of normal exposure limit.
+
+(v) In respect of bought CDS positions held in Trading Book which are not meant for hedging, the protection buyer will not reckon any exposure against the
+14 reference entity.
+
+## 12. Netting of Exposures
+
+No netting of positive and negative marked-to-market values of the contracts with the same counterparty, including that in the case of hedged positions will be allowed for the purpose of capital adequacy for counterparty credit risk, provisioning and exposure norms in terms of circular DBOD.No.BP.BC. 48/21.06.001/2010-11 October 1, 2010.
+
+## 13. Reporting Requirements
+
+Banks should report “total exposure” in all cases where they have assumed exposures against borrowers in excess of the normal single / group exposure limits due to the credit protections obtained by them through CDS, guarantees or any other instruments of credit risk transfer, to our Department of Banking Supervision (DBS) on a quarterly basis.
+
+***
+
+In a CDS transaction, the protection buyer does not suffer a loss when reference entity defaults; it rather gains in such a situation.

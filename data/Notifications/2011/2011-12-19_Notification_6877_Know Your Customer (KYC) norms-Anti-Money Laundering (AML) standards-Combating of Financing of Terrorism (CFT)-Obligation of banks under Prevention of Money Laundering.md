@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2011_6877"
+title: "Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002- Assessment and Monitoring of Risk"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CMLRA191211.pdf"
+pdf_sha256: "e7979f98615441b5ef9c4bef2064d2fd3be443970d7ef0acfa9ccc0e0b2be7f3"
+md_sha256: "cc655015cfbb01ea319f5dd0f2045ab96eca17e7340a7793f1119a71cc99d23f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-19_Notification_6877_Know%20Your%20Customer%20%28KYC%29%20norms-Anti-Money%20Laundering%20%28AML%29%20standards-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29-Obligation%20of%20banks%20under%20Prevention%20of%20Money%20Laundering.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002- Assessment and Monitoring of Risk
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/305 DBOD. AML.BC. No.65 /14.01.001/2011-12 December 19, 2011
+
+## The Chairmen / Chief Executive Officers
+
+## All Scheduled Commercial Banks (excluding RRBs)/
+
+## All India Financial institutions/ Local Area Banks
+
+Dear Sir,
+
+**Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money**
+
+## Laundering Act (PMLA), 2002- Assessment and Monitoring of Risk
+
+Please refer to our <u>Master Circular DBOD.AML.BC.No.2/ 14.01.001 / 2011 -12 dated July 01,</u> <u>2011</u> on Know Your Customer (KYC) norms /Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002.
+
+2. In terms of paragraph 2.3 (b) and (c) of the aforesaid Master Circular, banks are required to prepare a risk profile of each customer and apply enhanced due diligence measures on higher risk customers. Some illustrative examples of customers requiring higher due diligence have also been provided in the paragraph under reference. Further, paragraph 2.12 (a) of the Master Circular requires banks to put in place policies, systems and procedures for risk management keeping in view the risks involved in a transaction, account or banking/business relationship.
+3. The Government of India had constituted a National Money Laundering/Financing of Terror Risk Assessment Committee to assess money laundering and terror financing risks, a national AML/CFT strategy and institutional framework for AML/CFT in India. Assessment of risk of Money Laundering /Financing of Terrorism helps both the competent authorities and the regulated entities in taking necessary steps for combating ML/FT adopting a risk-based approach. This helps in judicious and efficient allocation of resources and makes the AML/CFT regime more robust. The Committee has made recommendations regarding adoption of a risk-based approach, assessment of risk and putting in place a system which would use that assessment to take steps to effectively counter ML/FT. The recommendations Department of Banking Operations and Development, Central Office, C.O. Building, 13th Floor, Fort,
+Mumbai,400001 ’½¹¥¸ûÅø›¸ /Tel No:022-22601000 û¾ÅÆ¬¸/Fax No:022-22701239 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+of the Committee have since been accepted by the Government of India and need to be implemented.
+
+4. Accordingly, banks/FIs should take steps to identify and assess their ML/TF risk for customers, countries and geographical areas as also for products/ services/ transactions/delivery channels, in addition to what has been prescribed in our Master Circular dated July 1, 2011, referred to in paragraph 2 above. Banks/FIs should have policies, controls and procedures, duly approved by their boards, in place to effectively manage and mitigate their risk adopting a risk-based approach as discussed above. As a corollary, banks would be required to adopt enhanced measures for products, services and customers with a medium or high risk rating.
+5. In this regard, Indian Banks' Association (IBA) has taken initiative in assessment of ML/FT risk in the banking sector. It has circulated to its member banks on May 18, 2011, a copy of their Report on Parameters for Risk Based Transaction Monitoring (RBTM) as a supplement to their guidance note on Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards issued in July 2009. The IBA guidance also provides an indicative list of high risk customers, products, services and geographies. Banks may use the same as guidance in their own risk assessment.
+6. These guidelines are issued under Section 35A of the Banking Regulation Act, 1949 read with Rule 7 of Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005. Any contravention thereof or non-compliance shall attract penalties under B R Act, 1949.
+## Please acknowledge receipt.
+
+Yours faithfully,
+
+(Deepak Singhal) Chief General Manager in-Charge

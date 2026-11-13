@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2011_6875"
+title: "Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and Ordinary Non-Resident (NRO) Accounts"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DNND161211_F.pdf"
+pdf_sha256: "aaeada6dfdd314dcb9355fcfe99a5b48780b3dbc0fc0d9df6f89e8a8c6653396"
+md_sha256: "873963aff0f1ce255b7db043c2f7e7a5ca4af5e8c3b08725b491f816b27c3094"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-16_Notification_6875_Deregulation%20of%20Interest%20Rates%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits%20and%20Ordinary%20Non-Resident%20%28NRO%29%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and Ordinary Non-Resident (NRO) Accounts
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/ 303 DBOD.Dir.BC. 64 /13.03.00/2011-12 December 16, 2011
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam, **Deregulation of Interest Rates on Non-Resident (External)** **Rupee (NRE) Deposits and Ordinary Non-Resident (NRO) Accounts** Please refer to paragraph 4 of our <u>circular DBOD.Dir.BC.42/13.03.00/ 2011-12 dated</u> <u>October 25, 2011</u> on Deregulation of Savings Bank Deposit Interest Rate and paragraph 1 of our <u>circular DBOD.Dir.BC.59/13.03.00/2011-12 dated November 23,</u> <u>2011</u> on Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and FCNR (B) Deposits.
+
+2. With a view to providing greater flexibility to banks in mobilising non-resident deposits and also in view of the prevailing market conditions, it has been decided to deregulate interest rates on Non-Resident (External) Rupee (NRE) Deposits and Ordinary Non-Resident (NRO) Accounts (the interest rates on term deposits under Ordinary Non-Resident (NRO) Accounts are already deregulated). Accordingly, banks are free to determine their interest rates on both savings deposits and term deposits of maturity of one year and above under Non-Resident (External) Rupee (NRE) Deposit accounts and savings deposits under Ordinary Non-Resident (NRO) Accounts with immediate effect. However, interest rates offered by banks on NRE and NRO deposits cannot be higher than those offered by them on comparable domestic rupee deposits.
+3. Prior approval of the Board/Asset Liability Management Committee (if powers are delegated by the Board) may be obtained by a bank while fixing interest rates on such deposits. At any point of time, individual banks should offer uniform rates at all their branches.
+
+||बैिकं ग पिरचालन|और िवकास|िवभाग, कें िीय|कायार्लय, 13 माला, शहीद||भगतिसंह|माग, र् मुम्बई|400001|
+|---|---|---|---|---|---|---|---|---|
+|_____________________________________________________________________________________________________|||__________________________||||||
+|Department of Banking Operations and Development, Central Office, 13|’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 û¾ÅÆ¬¸/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in||िहंदी आसान|है, इसका|floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 ूयोग|बढ़ाइए|||
+
+th
+
+<!-- PAGE 2 -->
+
+4. The revised deposit rates will apply only to fresh deposits and on renewal of maturing deposits. Further, banks should closely monitor their external liability arising on account of such deregulation and ensure asset-liability compatibility from systemic risk point of view.
+5. An amending directive DBOD.Dir.BC. 63 /13.03.00/2011-12 dated December 16, 2011 is enclosed. Yours faithfully, (P. R. Ravi Mohan) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## DBOD.Dir.BC. 63 /13.03.00/2011-12 December 16, 2011
+
+## Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and Ordinary Non-Resident (NRO) Accounts
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, and in modification of the directive DBOD. Dir. BC. 41/ 13.03.00/ 2011-12 dated October 25, 2011 on Deregulation of Savings Bank Deposit Interest Rate and DBOD.Dir.BC.58/13.03.00/2011-12 dated November 23, 2011 on Interest Rates on Non-Resident (External) (NRE) Deposits and FCNR(B) Deposits, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that banks are free to determine their interest rates on both savings deposits and term deposits of maturity of one year and above under Non- Resident (External) Rupee (NRE) Deposit accounts and savings deposits under Ordinary Non-Resident (NRO) Accounts with immediate effect. However, interest rates offered by banks on NRE and NRO deposits cannot be higher than those offered by them on comparable domestic rupee deposits.
+
+(B. Mahapatra) Executive Director

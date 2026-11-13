@@ -1,0 +1,137 @@
+---
+doc_id: "Notifications_2011_6906"
+title: "StCBs/DCCBs - Deregulation of Interest Rates on NRE Deposits and NRO Accounts"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NRE281211FLS.pdf"
+pdf_sha256: "b6f6806a869fae17a34986d6900ef17103fdf9b9dcb0519c9764a56ea3c14cfe"
+md_sha256: "dd4d12970eedc17e7d73d0145715c2148f82f3872694e7e70a43ab2beca3a86d"
+total_pages: 3
+native_pages: 1
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:25:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-28_Notification_6906_StCBs-DCCBs%20-%20Deregulation%20of%20Interest%20Rates%20on%20NRE%20Deposits%20and%20NRO%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# StCBs/DCCBs - Deregulation of Interest Rates on NRE Deposits and NRO Accounts
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/325
+
+RPCD.CO.RCB.Dir.BC.No.49/07.38.01/2011-12
+
+December28,2011
+
+AllStateandCentral Co-operativeBanks
+
+Dear Sir/Madam,
+
+Deregulation of Interest Rates on Non-Resident (External)
+
+Rupee(NRE)Depositsand OrdinaryNon-Resident(NRO)Accounts
+
+Pleaserefertoparagraph1ofour
+
+circularRPCD.CO.RCB.BC.No.38/
+
+07.38.01/2011-12datedNovember24,2011onInterestRatesonNon-Resident
+
+circular
+
+RPCD.CO.RCB.BC.No.65/07.38.01/2010-11datedMay3.2011onInterest
+
+Rates on Deposits.
+
+2. With a view to providing greater flexibility to banks in mobilising non-resident
+
+deposits and also inview of theprevailing market conditions, it hasbeen decided
+
+to deregulate interest rates on Non-Resident (External) Rupee (NRE) Deposits
+
+and Ordinary Non-Resident (NRO) Accounts (the interest rates on term deposits
+
+under Ordinary Non-Resident (NRO) Accounts are already deregulated).
+
+Accordingly, banks are free to determine their interest rates on both savings
+
+deposits and term deposits of maturity of one year and above under Non-
+
+Resident (External) Rupee (NRE) Deposit accounts and savings deposits under
+
+Ordinary Non-Resident (NRO) Accounts with immediate effect. However, interest
+
+rates offered by banks on NRE and NRO deposits cannot be higher than those
+
+offered by themon comparable domesticrupee deposits.
+
+3.Prior approval of the Board/Asset Liability Management Committee (if powers
+
+are delegated by the Board) may be obtained by a bank while fixing interest rates
+
+on such deposits. At any point of time, individual banks should offer uniform rates
+
+at all theirbranches.
+
+10014Mumbai-400001
+
+<!-- PAGE 2 -->
+
+4. The revised deposit rates will apply only to fresh deposits and on renewal of maturing deposits. Further, banks should closely monitor their external liability arising on account of such deregulation and ensure asset-liability compatibility from systemic risk point of view.
+5. An amending directive RPCD.CO.RCB.Dir.BC.No.48/07.38.01/2011-12 dated December 28, 2011 is enclosed. Yours faithfully, (C.D.Srinivasan) Chief General Manager
+
+<!-- PAGE 3 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RPCD.CO.RCB.Dir.BC.No.48/07.38.01/2011-12
+
+December28,2011
+
+Deregulation of Interest Rates on Non-Resident (External)
+
+Rupee(NRE) Depositsand Ordinary Non-Resident(NRO) Accounts
+
+Inexerciseof thepowersconferredbySection35Aof theBankingRegulation
+
+Act, 1949(As Applicable to Co-operative Societies) and in modification of the
+
+directiveRPCD.CO.RCB.BC.Dir.No.37/07.38.01/2011-12datedNovember24.
+
+2011 on Interest Rates on Non-Resident (External) (NRE） Deposits and
+
+RPCD.CO.RCB.BC.Dir.No.64/07.38.01/2010-11dated May 3.2011 onInterest
+
+Rates on Deposits, the Reserve Bank of India being satisfied that it is necessary
+
+and expedient in the public interest so to do, hereby directs that State Co-
+
+operative Banks (StCBs) and District Central Co-operative Banks (DCCBs) are
+
+free to determine their interest rates on both savings deposits and term deposits
+
+of maturity of one year and above under Non-Resident(External) Rupee (NRE)
+
+Deposit accounts and savings deposits under Ordinary Non-Resident (NRO)
+
+Accounts with immediate effect. However, interest rates offered by banks on
+
+NRE and NRO deposits cannot be higher than those offered by them on
+
+comparabledomesticrupeedeposits.
+
+(V.K.Sharma)
+
+ExecutiveDirector
+
+Rural Planning &Credit Department Central Office,1othFloor,Central Office Building,post box no.
+
+10014Mumbai-400001

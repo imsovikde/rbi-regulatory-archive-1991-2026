@@ -1,0 +1,172 @@
+---
+doc_id: "Notifications_2011_11602"
+title: "Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IRF301211CFL.PDF"
+pdf_sha256: "6d6165ee158d779fb0c3fc84b8aab75ca4fa5e3fda53dbf64bc861adbfa29fdd"
+md_sha256: "575275e07601224b97c26b8775fba35041e031f5f39940607cbe1df33ca04889"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:25:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-12-30_Notification_11602_Rupee%20Interest%20Rate%20Derivatives%20%28Reserve%20Bank%29%20Directions%2C%202019.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/330 IDMD.PCD.17/14.03.01/2011-12 December 30, 2011
+
+To
+
+## All market participants
+
+## Dear Sir/Madam
+
+# Exchange-traded Interest Rate Futures
+
+As announced in the Annual Policy Statement for 2011-12, it has been decided to introduce Interest Rate Futures (IRF) on notional 2-year and 5-year coupon bearing Government of India securities. The 2-year and 5-year IRF contracts shall be cash-settled and the final settlement price shall be based on the yields of the basket of securities underlying each Interest Rate Futures contract specified by the respective stock exchange, which shall be polled as per the guidelines issued by the Reserve Bank of India vide circular IDMD.PCD.16 /14.03.01/2011-12 dated December 30, 2011.
+
+2. In this regard, the Reserve Bank of India has issued a Notification IDMD.PCD.15 /ED (RG) - 2011 dated December 30, 2011 amending the Interest Rate Futures (Reserve Bank) Directions, 2009 dated August 28, 2009 (as amended till March 7, 2011) permitting introduction of IRF on notional 2-year and 5-year coupon bearing Government of India securities.The direction has been superseded
+3. A copy of the Interest Rate Futures (Reserve Bank) Directions, 2009 as amended till December 30, 2011, which is placed on the RBI Website, is enclosed.
+## Yours faithfully
+
+# (Sanjay Hansda) Director & Officer-in-Charge
+
+<!-- PAGE 2 -->
+
+## RESERVE BANK OF INDIA
+
+## INTERNAL DEBT MANAGEMENT DEPARTMENT
+
+**23** **rd** **FLOOR, CENTRAL OFFICE FORT** **MUMBAI 400 001**
+
+## Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2011
+
+IDMD.PCD.**15** /ED (RG) - 2011 dated December 30, 2011
+
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby amends the Interest Rate Futures (Reserve Bank) Directions, 2009 dated August 28, 2009 as amended till March 7, 2011.
+
+1. In paragraph 3(i) of the Directions, after the words “91-Day Treasury Bills,” and *before* the words “10-year notional coupon bearing Government of India security” the following words shall be inserted: “2-year, 5-year and”
+superseded
+
+2. The following Paragraph is inserted at 4.3 of the Directions:
+**4. Features of Interest Rate Futures** been
+4.3 The 2-year and 5-year Interest Rate Futures contracts shall have the following
+has features:
+
+a. The 2-year and 5-year Interest Rate Futures contracts shall be on 2-year and 5-yr notional coupon bearing Government of India security respectively.
+b. The notional coupon for the 2-year bond shall be 7% per annum and that of thedirection 5-year bond shall be 7% with semi-annual compounding.
+c. The contracts shall be cash-settled by the stock exchanges offering the
+The contracts.
+
+d. The final settlement price of the 2-year and 5-year Interest Rate Futures contracts shall be based on the yields of the basket of securities underlying each Interest Rate Futures contract specified by the respective stock exchange in accordance with guidelines issued by the Securities Exchange Board of India from time to time.
+e. The yields of the Government of India securities [*indicated at para 4.3 (d)* *above*] shall be polled and the same shall be as per the guidelines issued by the Reserve Bank of India from time to time.
+## (R Gandhi)
+
+## Executive Director
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## INTERNAL DEBT MANAGEMENT DEPARTMENT
+
+**23** **rd** **FLOOR, CENTRAL OFFICE FORT** **MUMBAI 400 001**
+
+## Interest Rate Futures (Reserve Bank) Directions, 2009
+
+**(as amended till December 30, 2011)**
+
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby gives the following directions to all the persons dealing in Interest Rate Futures.
+
+## 1. Short title and commencement of the directions
+
+These directions may be called the Interest Rate Futures (Reserve Bank) Directions, 2009 and they shall come into force with immediate effect.
+
+## 2. Definitions
+
+i. Interest Rate Futures means a standardized interest rate derivative contract traded on a recognized stock exchange to buy or sell a notional security or any other interest bearing instrument or an index of such instruments or interest rates at a specified future date, at a price determined at the time of the contract.
+superseded ii. Interest Rate Futures market means the market in which Interest Rate Futures are traded. been iii. The words and expressions used but not defined in these directions shall have the meaning assigned to them in the Reserve Bank of India Act,
+
+1934.
+has
+
+## 3. Permitted instruments
+
+i. Interest Rate Futures are permitted on [direction*91-Day Treasury Bills*]
+*1*, [*2-year, 5-* *year and*] 2 10-year notional coupon bearing Government of India security or any other product, as may be approved by the Reserve Bank from time The to time.
+
+ii. Persons resident in India may purchase or sell Interest Rate Futures referred to in sub-paragraph (i) to hedge an exposure to interest rate risk or otherwise. Foreign Institutional Investors, registered with Securities and Exchange Board of India, may purchase or sell Interest Rate Futures referred to in sub-paragraph (i) subject to the condition that the total gross long (bought) position in cash and Interest Rate Futures markets taken together does not exceed their individual permissible limit for investment in government securities and the total gross short (sold) position, for the purpose of hedging only, does not exceed their long position in the government securities and in Interest Rate Futures at any point in time.
+
+iii. Notwithstanding anything contained in sub-paragraph (i), no scheduled bank or such other agency falling under the regulatory purview of the Reserve Bank under the Reserve Bank of India Act, 1934, the Banking Regulation Act, 1949 or any other Act or instrument having the force of law shall participate in the Interest Rate Futures market without the
+
+Inserted vide RBI Notification IDMD.PCD.27/ED (HRK) - 2010 dated March 7, 2011. Inserted vide RBI Notification IDMD.PCD.15/ED (RG) - 2010 dated December 30, 2011.
+
+<!-- PAGE 4 -->
+
+permission from the respective regulatory Department of the Reserve Bank.
+
+*Explanation*: - The expression ‘Person resident in India’ shall have the meaning assigned to it in sub-section (v) of section 2 of the Foreign Exchange Management Act, 1999.
+
+iv. Agencies falling under the regulatory purview of any other regulator established by law shall not participate in Interest Rate Futures market except with the permission of their respective regulators and participation of such agencies as members or clients shall be in accordance with the guidelines issued by the regulator concerned.
+
+## 4. Features of Interest Rate Futures
+
+4.1 The 10-year Interest Rate Futures contract shall have the following features:
+a. The contract shall be on 10-year notional coupon bearing Government of India security.
+b. The notional coupon shall be 7% per annum with semi-annual compounding.
+c. The contract shall be settled by physical delivery of deliverable grade securities using the electronic book entry system of the existing Depositories, namely, National Securities Depositories Ltd. and Central Depository Services (India) Ltd. and Public Debt Office of the Reserve Bank.
+d. Deliverable grade securities’ shall comprise GoI securities maturing at
+superseded least 7.5 years but not more than 15 years from the first day of the delivery month with a minimum total outstanding stock of 10,000 crore. {*Exchanges may fix their own basket of securities for delivery from the* been *deliverable grade securities in accordance with guidelines issued by the* *Securities Exchange Board of India from time to time}* 3. has
+
+4.2 {*The 91-Day T-Bill Futures shall have the following features:*
+a. *The contract shall be on 91-Day Treasury Bills issued by the Government* *of India.* direction
+b. *The contract shall be cash settled in Indian Rupees.*
+c. *The final se* The *ttlement price of the contract shall be based on the weighted* *average price/yield obtained in the weekly auction of the 91-Day Treasury* *Bills on the date of expiry of the contract*}
+4.
+
+4.3 {*The 2-year and 5-year Interest Rate Futures contract shall have the following* *features:*
+*a. The 2-year and 5-year Interest Rate Futures contracts shall be on 2-* *year and 5-yr notional coupon bearing Government of India security* *respectively.*
+*b. The notional coupon for the 2-year bond shall be 7% per annum and* *that of the 5-year bond shall be 7% with semi-annual compounding.*
+*c. The contracts shall be cash-settled by the stock exchanges offering the* *contracts.*
+*d. The final settlement price of the 2-year and 5-year Interest Rate Futures* *contracts shall be based on the yields on basket of securities for each* *Interest Rate Futures contract specified by the respective stock*
+Inserted vide RBI Notification IDMD.PCD.27/ED (HRK) - 2010 dated March 7, 2011. Inserted vide RBI Notification IDMD.PCD.27/ED (HRK) - 2010 dated March 7, 2011.
+
+<!-- PAGE 5 -->
+
+*exchange in accordance with guidelines issued by the Securities* *Exchange Board of India from time to time.*
+
+e. *The yields of the Government of India securities [indicated at para 4.3*
+*(d) above] shall be polled and the same shall be as per the guidelines* *issued by the Reserve Bank of India from time to time}*.
+5**. Membership** Interest Rate Futures contracts on instruments referred to in sub-paragraph (i) of paragraph 3 shall be traded on the Currency Derivative Segment of a recognized Stock Exchange. The members registered with Securities and Exchange Board of India for trading in Currency /Equity Derivative Segment shall also be eligible to trade in Interest Rate Futures referred to in sub-paragraph (i) of paragraph 3. Membership for both trading and clearing, in the Interest Rate Futures segment shall be subject to the guidelines issued by the Securities and Exchange Board of India.
+## 6. Position limits
+
+i. The position limits for various classes of participants in the Interest Rate Futures market shall be subject to the guidelines issued by the Securities and Exchange Board of India. ii. All regulated entities shall operate within the prudential limits set by the regulator concerned.
+## 7. Risk Management measures
+
+superseded
+
+The trading of Interest Rate Futures contracts referred to in sub-paragraph (i) of paragraph 3 shall be subject to maintaining initial, extreme loss and calendar been spread margins and the Clearing Corporations / Clearing Houses of the exchanges should ensure maintenance of such margins by the participants on the basis of thehas guidelines issued by the Securities and Exchange Board of India from time to time.
+
+## 8. Surveillance and disclosures
+
+The surveillance and disclosures of transactions in the Interest Rate Futures direction
+
+market shall be carried out in accordance with the guidelines issued by the Securities and Exchange Board of India. The
+
+## 9. Powers of Reserve Bank
+
+The Reserve Bank may from time to time modify the eligibility criteria for the participants, modify participant-wise position limits, prescribe margins and / or impose specific margins for identified participants, fix or modify any other prudential limits, or take such other actions as deemed necessary in public interest, in the interest of financial stability and orderly development and maintenance of interest rate market in India.
+
+***
+
+## Related Press Release/Notification
+
+**Dec 30, 2011** <u>RBI amends Directions on Exchange Traded- IRFs on G-secs</u> <u>To permit Two and Five Years IRFs</u> <u>Dec 30, 2011 Exchange-traded Interest Rate Futures</u>
+
+Inserted vide RBI Notification IDMD.PCD.15/ED (RG) - 2010 dated December 30, 2011.
