@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2008_4369"
+title: "Formation of new districts in Chhattisgarh – Assignment of Lead Bank responsibility"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85700.pdf"
+pdf_sha256: "d683534093e112df2e3b9777aad521c7ed461ad5f9229e2e2cb6cc8c09d40f60"
+md_sha256: "95692d77fc470ed360714fed7d1dacf285d7902a99063e1960613e292550f564"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-07-14_Notification_4369_Formation%20of%20new%20districts%20in%20Chhattisgarh%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new districts in Chhattisgarh – Assignment of Lead Bank responsibility
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/95 RPCD.CO.LBS.BC.No. 12 /02.08.01/2008-09 July 14, 2008
+
+The Chairman All Lead Banks
+
+Dear Sir, **Formation of new districts in Chhattisgarh –** <u>Assignment of Lead Bank responsibility</u> The Department of Revenue, Government of Chhattisgarh vide their Gazette Notification No.115 dated April 28, 2007 have advised about the formation of two new districts viz. Narayanpur (covering Narayanpur tehsil) and Bijapur (covering Bijapur and Bhopalpattanam Tehsils) carved out of the existing districts of Bastar and Dantewada respectively with effect from May 01, 2007.
+
+2. It has been decided to assign the Lead Bank responsibility of the new districts to State Bank of India.
+3. There is no change in the lead bank responsibilities of other districts in the State.
+Yours faithfully,
+
+(A.K.Bhandari) Deputy General Manager

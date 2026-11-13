@@ -1,0 +1,30 @@
+---
+doc_id: "Notifications_2008_4425"
+title: "Enhancement of transparency in bank's affairs through disclosures"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86455.pdf"
+pdf_sha256: "35cdf44e201bc6463074ccc461087c33611b2683ccb9a5665179842fba3d9802"
+md_sha256: "b47cbe0d00829028757116d05bb872524488cfbd404bd600b1ad07e45758569b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-08-18_Notification_4425_Enhancement%20of%20transparency%20in%20bank%27s%20affairs%20through%20disclosures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Enhancement of transparency in bank's affairs through disclosures
+
+<!-- PAGE 1 -->
+
+RBI/2008-2009/131 RPCD.CO.RF.BC.No.21/ 07.38.03 / 2008-09 August 18, 2008 27 Shravana, Saka 1930 The Chairmen/Chief Executives of all State and Central Co-operative Banks Dear Sir, <u>Enhancement of transparency in bank's affairs through disclosures</u> The Reserve Bank has been taking several steps from time to time to enhance the transparency of banks by having comprehensive requirements for disclosure in tune with the best practices. The disclosure requirements are being reviewed and revised from time to time. The circular RPCD.CO.RF.BC.No.44/ 07.38.03/2005-06 dated October 10, 2005, advising the state and central co-operative banks to disclose certain information in regard to profitability, NPAs, etc. as "Notes on Accounts" to their Balance Sheets, was one such measure.
+
+2. At present, the Reserve Bank is empowered to impose penalty on a state / central co- operative bank under the provisions of Section 47(A) of the Banking Regulation Act, 1949 (AACS) for contravention of any of the provisions of the Act or non-compliance with any other requirement thereunder. The imposition of penalty on a bank is decided after a due process of advising the bank and seeking its explanation so as to afford a reasonable opportunity to the bank for being heard. Considering the above and consistent with the best practices in disclosure of penalties imposed by the regulator, it has been decided that disclosure of the details of the levy of penalty on a bank in public domain will be in the interests of the members and depositors.
+
+<!-- PAGE 2 -->
+
+3. The mode of disclosure of penalties imposed by the Reserve Bank will be as under : A Press Release will be issued and placed in public domain by the Reserve Bank, communicating the imposition of penalty along with the necessary details of the circumstances under which the penalty is imposed on the bank.
+4. The above policy comes into operation with immediate effect.
+(G. Srinivasan) Chief General Manager-in-Charge

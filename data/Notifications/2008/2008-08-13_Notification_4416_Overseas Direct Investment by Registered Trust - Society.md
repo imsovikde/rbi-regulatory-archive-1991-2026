@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2008_4416"
+title: "Overseas Direct Investment by Registered Trust / Society"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86364.PDF"
+pdf_sha256: "d647d21823d578505d9c2facb30c5922adb204c14f54a3f20b04dc98a3ce2683"
+md_sha256: "77f8246423fc85a3855ae1dbc605ce8755e7d77a4da7a7aaa80a801f4a653c55"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-08-13_Notification_4416_Overseas%20Direct%20Investment%20by%20Registered%20Trust%20-%20Society.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investment by Registered Trust / Society
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/128
+
+A. P. (DIR Series) Circular No. 07
+August 13, 2008
+
+To, All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## <u>Overseas Direct Investment by Registered Trust / Society</u>
+
+Attention of Authorised Dealer Category-I (AD Category-I) Banks is invited to A. P. (DIR Series) Circular No. 53 dated June 27, 2008, permitting Registered Trusts and Societies engaged in manufacturing / educational sector and satisfying the eligibility criteria prescribed in the Annex to the Circular to make investment in the same sector(s) in a Joint Venture or Wholly Owned Subsidiary outside India, with the prior approval of the Reserve Bank.
+
+2. As a further measure of liberalisation, it has been decided, in consultation with the Government of India, to allow Registered Trusts and Societies which have set up hospital(s) in India to make investment in the same sector(s) in a Joint Venture or Wholly Owned Subsidiary outside India, with the prior approval of the Reserve Bank. Trusts / Societies satisfying the eligibility criteria as prescribed in the Annex to the abovementioned circular may submit the application/s in Form ODI- Part I, through their AD Category-I bank/s to the Reserve Bank for consideration. The other terms and conditions and reporting requirements listed in the above mentioned A.P. (Dir Series) Circular remain unchanged.
+3. Necessary amendments to the Foreign Exchange Management (Transfer or Issue of any
+th Foreign Security), Regulations, 2004 notified vide Notification No.FEMA120/RB-2004 dated 7 July 2004 are being issued separately.
+
+# Withdrawn w.e.f. August 22, 2022
+
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this Circular have been issued under Section 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+Chief General Manager-in-Charge

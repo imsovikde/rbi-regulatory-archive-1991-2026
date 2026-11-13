@@ -1,0 +1,214 @@
+---
+doc_id: "Notifications_2008_4370"
+title: "Instruments for Augmenting Capital Funds-UCBs"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85702.pdf"
+pdf_sha256: "0b6156989a0e3eb1f0ea4043543374b081b9739f86f297f8dcce5cafecec768a"
+md_sha256: "18da74e6dac69949c67685b90f38677dd3412fbd81a188af2991c844945a9d41"
+total_pages: 14
+native_pages: 14
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-07-15_Notification_4370_Instruments%20for%20Augmenting%20Capital%20Funds-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Instruments for Augmenting Capital Funds-UCBs
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/96
+
+UBD.PCB.Cir.No.4 /09.18.201/08-09 July 15, 2008.
+
+The Chief Executive Officer of All Primary (Urban) Co-operative Banks.
+
+Dear Sir/Madam,
+
+## Instruments for Augmenting Capital Funds-UCBs
+
+Following the announcement in the Annual Policy Statement for the year 2006-07, the Reserve Bank constituted a Working Group (Chairman: Shri N.S.Vishwanathan) to examine the issues concerning raising of capital by UCBs and identifying alternate instruments / avenues for augmenting their capital funds. The Working Group had members drawn from the urban co- operative banking sector and state governments. The Group submitted its report in November
+
+2006.
+2. The recommendations of the Working Group have been examined and it has been decided that in order to facilitate raising of capital funds (Tier I and Tier II) by UCBs for the purpose of compliance with the prescribed Capital Adequacy norms, they be permitted to issue the following financial instruments:
+## A) Preference shares
+
+Preference shares may be of the following types:
+
+i) Perpetual Non-Cumulative preference shares (PNCPS) ii) Perpetual Cumulative preference shares (PCPS) iii) Redeemable Non-Cumulative preference shares (RNCPS) iv)Redeemable Cumulative preference shares (RCPS) The detailed guidelines are given in Annex I. While Perpetual Non-Cumulative Preference Shares (PNCPS) would be eligible to be treated as Tier I capital, Perpetual Cumulative Preference Shares (PCPS), Redeemable Non-Cumulative Preference Shares (RNCPS) and Redeemable Cumulative Preference Shares (RCPS) would be eligible to be treated as Tier II capital. UCBs, however, are not permitted to subscribe to the preference shares of other UCBs.
+
+<!-- PAGE 2 -->
+
+## B) Long Term Deposits
+
+UCBs may be permitted to raise term deposits for a minimum period of not less than 5 years, which will be eligible to be treated as Tier II capital. The detailed guidelines are given in the Annex II.
+
+3. **Share Linkage Norms** As per the current regulatory prescriptions, borrowings from UCBs are linked to shareholdings of the borrowing members. At present, the shareholding requirement is 2.5% for secured borrowings and 5% for unsecured borrowings. Taking into account the recommendation of the Working Group and the feedback received in this regard, it has been decided that the extant share linking norm may be applicable for member’s shareholdings upto the limit of 5% of the total paid up share capital of the bank Where a member is already holding 5% of the total paid up share capital of an UCB, it would not be necessary for him to subscribe to any additional share capital on account of the application of the extant share linking norms. In other words, a borrowing member may be required to hold shares for an amount that may be computed as per the extant share linking norms or for an amount that is 5% of the total paid up share capital of the bank, whichever is lower.
+4. **Classification of Capital Funds**
+4.1 As per the extant instructions, capital funds are divided into Tier I capital and Tier II capital. Elements of Tier II capital are reckoned as capital funds up to a maximum of 100 per cent of Tier I capital (please refer to our circular UBD.No.DS.PCB.DIR.2/13.05.00/2004-05 dated April 15, 2005). It has now been decided that Tier II capital may further be divided into upper and lower tiers. Perpetual Cumulative Preference Shares (PCPS), Redeemable Non-Cumulative Preference Shares (RNCPS) and Redeemable Cumulative Preference Shares (RCPS) would be treated as upper Tier II capital. Long Term Deposits would be treated as lower Tier II capital. PNCPS should not exceed 20 % of Tier I capital (excluding PNCPS). Long term deposit should not exceed 50 % of Tier I capital and that total Tier II should not exceed Tier I capital.
+4.2 As stated above, elements of Tier II capital are reckoned as capital funds up to a maximum of 100 per cent of Tier I capital. It has now been decided that the above restriction may be kept in abeyance for five years, i.e, up to March 31, 2013 for banks that are having CRAR less than the 9 % in order to give time to the banks to raise Tier I capital. In other words, Tier II capital would be reckoned as capital funds for capital adequacy purpose even if a bank does not have Tier I capital. However, during this period, for the purpose of capital adequacy requirement, lower Tier II capital alone would be restricted to 50 % of the prescribed CRAR and the progressive discount in respect of Tier II capital would, be applicable.
+
+<!-- PAGE 3 -->
+
+5. UCBs may issue preference shares and Long Term Deposits subject to compliance with their bye-laws/provisions of the Co-operative Societies Act under which they are registered and with the approval of the concerned Registrar of Co-operative Societies /Central Registrar of Co- operative Societies, wherever applicable and the Reserve Bank of India. The Central/ State Governments are being requested separately to make necessary amendments to Multi-State Cooperative Societies Act / Co-operative Societies Acts /Rules, wherever necessary.
+6. Please acknowledge receipt to the Regional Office concerned.
+Yours faithfully,
+
+(A.K Khound) Chief General Manager-in-Charge
+
+<!-- PAGE 4 -->
+
+## Annex- I
+
+## Guidelines to Primary (Urban) Cooperative Banks (UCBs) on issue of Preference Shares
+
+## <u>A. Perpetual Non-Cumulative Preference Shares (PNCPS)</u>
+
+UCBs may issue Perpetual Non-Cumulative Preference Shares (PNCPS) with the prior permission of the respective Registrar/Central Register of Cooperative Societies (RCS/CRCS) granted in consultation with the Reserve Bank. PNCPS should be issued at par. The amounts raised through PNCPS which comply with the following terms and conditions will be eligible to be treated as Tier I capital.
+
+2. **Terms of Issue**
+2.1 **Limits** The outstanding amount of PNCPS would be eligible for inclusion in Tier I capital and should not exceed 20 % of total Tier I capital excluding PNCPS at any point of time. The above limit will be based on the amount of Tier I capital after deduction of goodwill and other intangible assets but before the deduction of investments.
+2.2 **Amount** The amount of PNCPS to be raised may be decided by the Board of Directors of banks.
+2.3 **Maturity** The PNCPS shall be perpetual.
+2.4 **Options**
+(i) PNCPS shall not be issued with a 'put option' or' step up option'. (ii) However, banks may issue PNCPS with a call option at a particular date subject to following conditions:
+(a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+(b) Call option shall be exercised only with the prior approval of Reserve Bank of India (Urban Banks Department). While considering the proposals received from banks for exercising the call option, the Reserve Bank would, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+<!-- PAGE 5 -->
+
+2.5 **Classification in the Balance Sheet** These instruments will be classified as ‘capital’ and shown separately in the Balance Sheet.
+2.6 **Dividend** The rate of dividend payable to the investors will be a fixed rate or a floating rate referenced to a market determined rupee interest benchmark rate
+2.7 **Payment of Dividend**
+(a) The issuing bank shall pay dividend subject to availability of distributable surplus out of current year's earnings, and if
+(i) The bank's CRAR is above the minimum regulatory requirement prescribed by the Reserve Bank; (ii) The impact of such payment does not result in bank's capital to risk weighted assets ratio (CRAR) falling below or remaining below the minimum regulatory requirement prescribed by the Reserve Bank; and (iii) While paying dividends, it may be ensured that the current year balance sheet does not show any accumulated losses
+(b) The dividend shall not be cumulative. i.e., dividend missed in a year will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+(c) All instances of non-payment of dividend in consequence of conditions as at (a) above should be reported by the issuing banks to the Chief General Managers-in-Charge of Urban Banks Department, Central Office of the Reserve Bank of India, Mumbai.
+2.8 **Seniority of claim** The claims of the investors in PNCPS shall be senior to the claims of investors in equity shares and subordinated to the claims of all other creditors and the depositors.
+## 2.9 Voting rights
+
+The investors in PNCPS will not be eligible for any voting rights.
+
+<!-- PAGE 6 -->
+
+2.10 **Other conditions**
+(a) PNCPS should be fully paid-up, unsecured, and free of any restrictive clauses.
+(b) The PNCPS may be rated at the discretion of the issuer.
+(c) Banks should comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the PNCPS, provided they do not result in violation of any of the terms and conditions specified in these guidelines. Any instance of conflict, shall be brought to the notice of the RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier I capital.
+3. **Compliance with Reserve Requirements**
+(a) The funds collected for the issue and held by the bank pending <u>finalization of allotment of</u> <u>the Tier I preference shares</u> will have to be taken into account for the purpose of calculating reserve requirements.
+(b) However, the total amount raised by the bank by issue of PNCPS shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+4. **Reporting Requirements** Banks issuing PNCPS shall submit a report to the Chief General Manager-in-charge, Urban Banks Department, Reserve Bank of India, Mumbai giving details of the capital raised, including the terms and conditions of issue as specified above together with a copy of the offer document soon after the issue is completed.
+5. **Investment by Commercial Banks in perpetual non-cumulative preference shares** **issued by UCBs**
+(a) Commercial banks can invest in PNCPS issued by the UCBs within the 10 % ceiling for unlisted securities or as prescribed by Department of Banking Operations and Development(DBOD), Central Office, Reserve Bank of India, provided they are rated.
+(b) The investments in PNCPS issued by UCBs will attract such risk weight for capital adequacy purposes, as may be prescribed by DBOD.
+
+<!-- PAGE 7 -->
+
+6. **Investment in/grant of advances against Tier I preference shares** UCBs should not invest in PNCPS of other banks; nor they should grant advances against the security of the PNCPS issued by them or other banks.
+## B. <u>Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative</u>
+
+## <u>Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS)</u>
+
+1. **Terms of Issue** UCBs may issue Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non- Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) with the prior permission of the respective Registrar/Central Register of Cooperative Societies (RCS/CRCS) granted in consultation with the Reserve Bank. These three instruments will be collectively referred to as Tier II preference shares. These Tier II preference shares should be issued at par. The amounts raised through the Tier II preference shares, which comply with the following terms and conditions, will be eligible to be treated as upper Tier II capital
+2.1 **Characteristics of the instruments** The Tier II preference shares could be either perpetual (PCPS) or dated (RNCPS and RCPS) instruments with a fixed maturity of minimum 15 years.
+2.2 **Limits** The outstanding amount of these instruments along with other components of Tier II capital shall not exceed 100% of Tier I capital at any point of time. The above limit will be based on the amount of Tier I capital after deduction of goodwill and other intangible assets but before the deduction of investments.
+2.3 **Amount** The amount to be raised may be decided by the Board of Directors of banks.
+2.4 **Options**
+(i) These instruments shall not be issued with a ‘put option’. (ii) However, banks may issue the instruments with a call option at a particular date subject to strict compliance with each of the following conditions:
+(a) The call option on the instrument is permissible after the instrument has run for at least ten years; and
+
+<!-- PAGE 8 -->
+
+(b) Call option shall be exercised only with the prior approval of Reserve Bank of India (Urban Banks Department). While considering the proposals received from banks for exercising the call option, the Reserve Bank would, among other things, take into consideration the bank’s CRAR position both at the time of exercise of the call option and after exercise of the call option.
+2.5. **Step-up option** The issuing bank may have a step-up option, which may be exercised only once during the whole life of the instrument, in conjunction with the call option, after the lapse of ten years from the date of issue. The step-up shall not be more than 100 bps. The limits on step-up apply to the all-in cost of the debt to the issuing banks.
+2.6. **Classification in the balance sheet** These instruments will be classified as ‘borrowings’ and shown separately in the Balance sheet.
+2.7 **Coupon** The coupon payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate
+2.8. **Payment of coupon**
+2.8.1 The coupon will be payable only if
+(a) The bank’s CRAR is above the minimum regulatory requirement prescribed by the Reserve Bank.
+(b) The impact of such payment does not result in bank’s CRAR falling below or remaining below the minimum regulatory requirement prescribed by the Reserve Bank. ( c ) The bank does not have a net loss. For this purpose, the Net Loss is defined as either (i) the accumulated loss at the end of the previous financial year or (ii) the loss incurred during the current financial year.
+(d) In the case of PCPS and RCPS the unpaid coupon will be treated as a liability. The interest amount due and remaining unpaid may be allowed to be paid in later years subject to the bank complying with the above requirements.
+(e) In the case of RNCPS, deferred coupon will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+
+<!-- PAGE 9 -->
+
+2.8.2. All instances of non-payment of interest should be notified by the issuing banks to the Chief General Managers-in-Charge of Urban Banks Department, Central Office of the Reserve Bank of India, Mumbai.
+2.9. **Redemption / repayment of redeemable preference shares included in Upper Tier II** Redemption of these instruments at maturity shall be made only with the prior approval of the Reserve Bank of India (Urban Banks Department) subject *inter alia* to the following conditions:
+(a) The bank’s CRAR is above the minimum regulatory requirement prescribed by the Reserve Bank.
+(b) The impact of such payment does not result in bank’s CRAR falling below or remaining below the minimum regulatory requirement prescribed by the Reserve Bank.
+2.10. **Seniority of claim** The claims of the investors in these instruments shall be senior to the claims of investors in instruments eligible for inclusion in Tier I capital and subordinate to the claims of all other creditors including those in lower Tier II and the depositors. Amongst the investors of various instruments included in upper Tier II, the claims shall rank *pari-passu* with each other.
+2.11 **Voting rights** The investors in Tier II preference shares shall not be eligible for any voting rights.
+2.12 **Amortization for the purpose of computing CRAR** The Redeemable Preference Shares (both cumulative and non-cumulative) shall be subjected to a progressive discount for capital adequacy purposes over the last five years of their tenor, as they approach maturity as indicated in the table below for being eligible for inclusion in Tier II capital.
+
+|Remaining Maturity of Instruments|Rate of Discount (%)|
+|---|---|
+|Less than one year|100|
+|One year and more but less than two years|80|
+|Two years and more but less than three years|60|
+|Three years and more but less than four years|40|
+|Four years and more but less than five years|20|
+
+<!-- PAGE 10 -->
+
+2.13 **Other conditions**
+(a) The Tier II preference shares should be fully paid-up, unsecured, and free of any restrictive clauses.
+(b) The Tier II preference shares may be rated at the discretion of the issuer.
+(c) Banks should comply with the terms and conditions, if any, stipulated by other regulatory authorities in regard to issue of the Tier II Preference Shares, provided they do not result in violation of any of the terms and conditions specified in these guidelines. Any instance of conflict shall be brought to the notice of the RBI for seeking confirmation of the eligibility of the instrument for inclusion in Tier II capital.
+3. **Compliance with Reserve Requirements**
+(a) The funds collected by the bank and held pending finalization of allotment of these instruments will have to be taken into account for the purpose of calculating reserve requirements.
+(b) The total amount raised by a bank through the issue of these instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR / SLR requirements.
+4. **Reporting Requirements** UCBs issuing these instruments shall submit a report to the Chief General Manager-in-charge, Urban Banks Department, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms and conditions of issue specified above together with a copy of the offer document soon after the issue is completed.
+5. **Commercial Bank’s** i**nvestment in Tier II preference shares issued by UCBs**
+(a) Commercial Banks may invest in Tier II preference shares issued by the UCBs within the 10 % ceiling for unlisted securities or as prescribed by Department of Banking Operations and Development (DBOD), Central Office, Reserve Bank of India, provided they are rated
+(b) Investments in Tier II preference shares will attract such risk weight for capital adequacy purposes, as may be prescribed by DBOD.
+
+<!-- PAGE 11 -->
+
+6. **Investment in/**g**rant of advances against these instruments** UCBs should not invest in Tier II preference shares issued by other banks; nor they should grant advances against the security of Tier II preference shares issued by them or other banks.
+*****************
+
+<!-- PAGE 12 -->
+
+## Annex II
+
+## <u>Guidelines to Primary (Urban) Co-operative Banks (UCBs) on issuance of Long Term Deposits</u>
+
+1. **Term of Issue** UCBs may issue Long Term Deposits (LTD) with the prior permission of the respective Registrar/Central Register of Cooperative Societies (RCS/CRCS) granted in consultation with the Reserve Bank. LTDs may be issued to members and non-members, including those outside the area of operations of the UCB concerned. The amounts raised through LTD, which comply with the following terms and conditions will be eligible to be treated as lower Tier II capital
+2.1 **Maturity** LTD should have a minimum maturity of not less than 5 years.
+## 2.2 Limits
+
+The outstanding amount of LTD, which is eligible to be reckoned as Tier II capital, will be limited to 50 percent of Tier I capital. The above limit will be based on the amount of Tier I capital after deduction of goodwill and other intangible assets but before the deduction of equity investments in subsidiaries, if any.
+
+2.3 **Amount** The amount to be raised may be decided by the Board of Directors of banks.
+2. 4 **Seniority of Claims** LTD will be subordinated to the claims of depositors and other creditors but would rank senior to the claims of shareholders, including holders of preference shares (both Tier I & Tier II). Among investors of instruments included in lower Tier II, the claims shall rank *pari passu* with each other.
+## 2.5 Options
+
+(a) LTD shall not be issued with a ‘put option’ or a ‘step up’ option.
+(b) The ‘call option’ will be permissible and may be exercised after 5 years with prior permission of the Reserve Bank. While considering the proposals received from banks for exercising the call option the Reserve Bank would, among other things, take into consideration the bank’s CRAR position both at the time of exercise of the call option and after exercise of the call option.
+
+<!-- PAGE 13 -->
+
+## 2.6 Redemption/prepayment
+
+Repayment of LTD at maturity shall be made only with the prior approval of the Reserve Bank of India (Urban Banks Department, Central Office) subject *inter alia* to the following conditions:
+
+(i) The bank’s CRAR is above the minimum regulatory requirement prescribed by the Reserve Bank. (ii) The impact of such repayment does not result in bank’s CRAR falling below or remaining below the minimum regulatory requirement prescribed by the Reserve Bank.
+
+|2.7|Interest Rate||
+|---|---|---|
+|LTD may bear a fixed rate of interest or a floating rate of interest referenced to a market|||
+|determined rupee interest benchmark rate.|||
+|2.8 LTD will not be eligible for DICGC cover|DICGC Cover||
+|2.9 These deposits will be subjected to a progressive discount for capital adequacy purposes as under:|Progressive Discount||
+|2. 10 Classification in the Balance Sheet These instruments will be classified as ‘borrowings’ and shown separately in the Balance Sheet.|Remaining period of Maturity Less than one year More than one year and Less than two years More than two years and less than three years More than three years and less than four years More than four years and less than five years|Rate of discount 100% 80% 60% 40% 20%|
+|3.|Reserve Requirement||
+
+Total amount raised by a bank through the issue of LTD will be reckoned as a liability for the computation of net demand and time liabilities for the purpose of reserve requirements (CRR and SLR).
+
+<!-- PAGE 14 -->
+
+4. **Reporting Requirements** Banks issuing such long term deposits shall submit a report to the Chief General Manager-in- charge, Urban Banks Department, Reserve Bank of India, Mumbai giving details of the deposit raised, including the terms of issue specified as above.
+5. **Investment in/grant of advances against LTD** UCBs should not invest in LTD of other UCBs; nor they should grant advances against the security of LTD issued by them or by other banks.

@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2008_4423"
+title: "Formation of new districts in Madhya Pradesh – Assignment of Lead Bank responsibilities"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86429.pdf"
+pdf_sha256: "a188179ff7ab4416f8ff248e98bee1fd0b822c311e928edfacb90c008707ff31"
+md_sha256: "047cd192ec77556259b90149f99fd782b0f5075402811e16456429eff8fcea21"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-08-18_Notification_4423_Formation%20of%20new%20districts%20in%20Madhya%20Pradesh%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20responsibilities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new districts in Madhya Pradesh – Assignment of Lead Bank responsibilities
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/130 RPCD.CO.LBS.BC.No.20/02.08.01/2008-09
+
+## August 18, 2008
+
+The Chairman, All Lead Banks
+
+Dear Sir,
+
+## Formation of new districts in Madhya Pradesh – <u>Assignment of Lead Bank responsibilities</u>
+
+The Revenue Department, Government of Madhya Pradesh, Bhopal vide their Gazette Notification Nos. F-1-40-VII-05.S.6 and F-1-1-2007-VII-S.6 dated May 17, 2008 and May 15, 2008 have advised about the formation of two new districts viz. Alirajpur & Singrauli, respectively. The newly reconstituted Alirajpur district covering Alirajpur, Jobat & Bhavra Tehsils, has been carved out of the erstwhile Jhabua district whereas newly created Singrauli district covering Devsar, Chitrangi and Singrauli Tehsils, has been carved out of the erstwhile Sidhi district. Both the new districts have come into existence <u>with effect from May 17, 2008 and May 24, 2008,</u> <u>respectively.</u>
+
+2. It has been decided to assign the Lead Bank responsibility of the new Alirajpur district to Bank of Baroda and Singrauli district to Union Bank of India. The Lead Bank responsibility of the reorganised Jhabua and Sidhi districts will, however, continue to be with the Bank of Baroda and Union Bank of India respectively as hitherto.
+3. There is no change in the lead bank responsibilities of other districts in the State.
+Yours faithfully,
+
+(**R. Sebastian**) General Manager

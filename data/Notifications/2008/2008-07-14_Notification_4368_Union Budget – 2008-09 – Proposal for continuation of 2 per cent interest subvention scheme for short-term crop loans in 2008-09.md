@@ -1,0 +1,61 @@
+---
+doc_id: "Notifications_2008_4368"
+title: "Union Budget – 2008-09 – Proposal for continuation of 2 per cent interest subvention scheme for short-term crop loans in 2008-09"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85697.pdf"
+pdf_sha256: "b653a96ec91aa53b558112a243e2ba2d52d31e7f324a1233006e02ad29e3005b"
+md_sha256: "ea22ad8152a9fe0b401022a80e9008b8257a7c889731887343fc6bf657eabe1d"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-07-14_Notification_4368_Union%20Budget%20%E2%80%93%202008-09%20%E2%80%93%20Proposal%20for%20continuation%20of%202%20per%20cent%20interest%20subvention%20scheme%20for%20short-term%20crop%20loans%20in%202008-09.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget – 2008-09 – Proposal for continuation of 2 per cent interest subvention scheme for short-term crop loans in 2008-09
+
+<!-- PAGE 1 -->
+
+RBI / 2008-09/ 94 RPCD.No.PLFS.**BC. 11**/05.04.02/2008-09 July 14, 2008
+
+The Chairman/Managing Director All Public Sector Banks
+
+Dear Sir,
+
+## <u>Union Budget – 2008-09 – Proposal for continuation of 2 per cent interest subvention</u>
+
+## <u>scheme for short-term crop loans in 2008-09</u>
+
+As you are aware, the Hon’ble Finance Minister, in his Budget Speech (paragraph 57) for 2008-09 had announced as follows:
+
+***“Short-term crop loans will continue to be disbursed at 7 per cent per annum and I am*** ***making an initial provision of Rs.1,600 crore for interest subvention in 2008-09 .”***
+
+2. In pursuance of this announcement, Government will provide interest subvention of 2%
+p.a. to Public Sector Banks in respect of short-term production credit up to Rs.3 lakh provided to farmers. This amount of subvention will be calculated on the amount of the crop loan disbursed from the date of disbursement/drawal up to the date of payment or up to the date beyond which the outstanding loan becomes overdue i.e. March 31, 2009 for Kharif and June 30, 2009 for Rabi, respectively, whichever is earlier. This subvention will be available to Public Sector Banks on the condition that they make available short-term credit at ground level at 7% p.a.
+3. Banks are advised to **immediately** submit their estimates of short-term production credit to farmers up to Rs.3.00 lakh for Kharif and Rabi 2008-09 (separately) to enable us to provide Government with an estimate of the likely amount of subvention. Please note that the estimates should be **realistic** in nature.
+4. Banks are also advised as under :-
+i) In order to enable the Government to provide subvention, banks are required to submit their claims <u>on a half-yearly basis</u> as at September 30, 2008 and March 31, 2009, and on a quarterly basis as at June 30, 2009 (for Rabi), within one month from the respective dates. The format for the purpose is enclosed.
+
+<!-- PAGE 2 -->
+
+ii) The claims for the half-year ending March 31, 2009 and quarter ending June 30, 2009 ( for Rabi) should be accompanied by a Statutory Auditor’s certificate certifying that the claims for subvention for the entire year ended March 31, 2009 and quarter ending June 30, 2009 (as the case may be) as true and correct. Final settlement of the claims will be done only on receipt of this certificate.
+
+iii) Claims may be submitted to the Chief General Manager-in-Charge, Rural Planning and Credit Department, Reserve Bank of India, Central Office, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001.
+
+5. In case of RRBs and co-operatives, a separate circular will be issued by NABARD.
+Yours faithfully,
+
+( A.K.Pandey) General Manager
+
+<!-- PAGE 3 -->
+
+||Provision of Short-term agricultural credit for the year 2008-09|Statement for the half year ended September 2008/March 2009 or, quarter ended June||
+|---|---|---|---|
+|30, 2009 Loans up to Rs.50,000/- Loans above Rs.50,000/- and up to Rs.3 lakh.|No. of accounts.|Total short term production credit at 7% p.a Amount|(Amount in Rs Lakh) Amount of subvention claimed|
+
+We certify having disbursed the above loans at 7% p.a. by way of short- term production credit to the farmers during the half year ended / quarter ended _______________
+
+## Date: Authorised Signatory

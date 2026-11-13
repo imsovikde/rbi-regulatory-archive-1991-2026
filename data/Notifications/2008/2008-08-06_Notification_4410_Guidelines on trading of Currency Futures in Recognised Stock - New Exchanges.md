@@ -1,0 +1,156 @@
+---
+doc_id: "Notifications_2008_4410"
+title: "Guidelines on trading of Currency Futures in Recognised Stock / New Exchanges"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86181.pdf"
+pdf_sha256: "ad9e8c83fdeec72a8ea6588c4c1cfdf5786b036b2305e0e164ea7ae093628f88"
+md_sha256: "cb79d28abf5a2be4c43ab42708c2ffe76906584348d51a302447979c49993fc4"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-08-06_Notification_4410_Guidelines%20on%20trading%20of%20Currency%20Futures%20in%20Recognised%20Stock%20-%20New%20Exchanges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on trading of Currency Futures in Recognised Stock / New Exchanges
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/122 A.P. (DIR Series) Circular No. 05
+
+## August 06, 2008
+
+To All Category-I Authorised Dealer banks Madam / Sir, **Guidelines on trading of Currency Futures in Recognised Stock / New Exchanges**
+
+Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 [Notification No.FEMA/25/RB-2000 dated May 3, 2000], as amended from time to time.
+
+2. Persons resident in India have a menu of over-the-counter (OTC) products, such as currency forwards, swaps and options for hedging their currency risk. In the context of liberalisation of the capital accounts, as also continued development of the financial markets, it is felt that wider hedging opportunities could enhance the flexibility for the residents to manage their currency risk dynamically. International experiences have also established that the exchange traded currency futures contracts facilitate efficient price discovery, enable better counterparty credit risk management, wider participation, trading of standardized product, reduce transaction costs, etc. Accordingly, as a part of further developing the derivatives market in India and adding to the existing menu of foreign exchange hedging tools available to the residents, it has been decided to introduce currency futures in recognized stock exchanges or new exchanges recognized by the Securities and Exchange Board of India (SEBI) in the country. The currency futures market would function subject to the directions, guidelines, instructions issued by the Reserve Bank and the SEBI, from time to time.
+3. Persons resident in India are permitted to participate in the currency futures market in India subject to directions contained in the Currency Futures (Reserve Bank) Directions, 2008 [Notification No.FED.1/DG(SG)-2008 dated August 6, 2008] (Directions) issued by the Reserve Bank of India, a copy of which is annexed (Annex-I).
+4. Necessary amendments to Foreign Exchange Management (Foreign Exchange Derivatives Contracts) Regulations, 2000 (Notification No. FEMA.25/RB-2000 dated May 3, 2000) (Regulations) have been notified in the Official Gazette vide G.S.R. No 577(E) dated August 5, 2008, a copy of which is annexed (Annex-II).
+
+<!-- PAGE 2 -->
+
+5. The above Directions have been issued under Section 45W of the Reserve Bank of India Act, 1934 and the above Regulations have been issued under clause (h) of sub- Section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999).
+6. This circular has been issued under Sections 10 (4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+## Chief General Manager-In-Charge
+
+<!-- PAGE 3 -->
+
+## Annex-I
+
+[A. P. (DIR Series) Circular No. 05 dated August 06, 2008]
+
+## Currency Futures (Reserve Bank) Directions, 2008 Notification No. FED.1/DG(SG)-2008 dated August 6, 2008
+
+The Reserve Bank of India having considered necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of its powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby gives the following directions to all the persons dealing in currency futures.
+
+## 1. Short title and commencement of the directions
+
+These directions may be called the Currency Futures (Reserve Bank) Directions, 2008 and they shall come into force with effect from August 6, 2008.
+
+## 2. Definitions
+
+(i) Currency Futures means a standardised foreign exchange derivative contract traded on a recognized stock exchange to buy or sell one currency against another on a specified future date, at a price specified on the date of contract, but does not include a forward contract. (ii) Currency Futures market means the market in which currency futures are traded.
+## 3. Permission
+
+(i) Currency futures are permitted in US Dollar-Indian Rupee or any other currency pairs, as may be approved by the Reserve Bank from time to time. (ii) Only ‘persons resident in India’ may purchase or sell currency futures to hedge an exposure to foreign exchange rate risk or otherwise.
+## 4. Features of currency futures
+
+Standardized currency futures shall have the following features:
+
+a. Only USD-INR contracts are allowed to be traded.
+b. The size of each contract shall be USD 1000.
+c. The contracts shall be quoted and settled in Indian Rupees.
+d. The maturity of the contracts shall not exceed 12 months.
+
+<!-- PAGE 4 -->
+
+e. The settlement price shall be the Reserve Bank’s Reference Rate on the last trading day.
+## 5. Participants
+
+(i). No person other than 'a person resident in India' as defined in section 2(v) of the Foreign Exchange Management Act, 1999 (Act 42 of 1999) shall participate in the currency futures market. (ii). Notwithstanding sub-paragraph (i), no scheduled bank or such other agency falling under the regulatory purview of the Reserve Bank under the Reserve Bank of India Act, 1934, the Banking Regulation Act, 1949 or any other Act or instrument having the force of law shall participate in the currency futures market without the permission from the respective regulatory Departments of the Reserve Bank. Similarly, for participation by other regulated entities, concurrence from their respective regulators should be obtained.
+## 6. Membership
+
+i. The membership of the currency futures market of a recognised stock exchange shall be separate from the membership of the equity derivative segment or the cash segment. Membership for both trading and clearing, in the currency futures market shall be subject to the guidelines issued by the SEBI. ii. Banks authorized by the Reserve Bank of India under section 10 of the Foreign Exchange Management Act, 1999 as ‘AD Category-I bank’ are permitted to become trading and clearing members of the currency futures market of the recognized stock exchanges, on their own account and on behalf of their clients, subject to fulfilling the following minimum prudential requirements:
+a) Minimum net worth of Rs. 500 crores.
+b) Minimum CRAR of 10 per cent.
+c) Net NPA should not exceed 3 per cent.
+d) Made net profit for last 3 years.
+The AD Category-I banks which fulfill the prudential requirements should lay down detailed guidelines with the approval of their Boards for trading and clearing of currency futures contracts and management of risks.
+
+<!-- PAGE 5 -->
+
+(iii). AD Category-I banks which do not meet the above minimum prudential requirements and AD Category-I banks which are Urban Co-operative banks or State Co-operative banks can participate in the currency futures market only as clients, subject to approval therefor from the respective regulatory Departments of the Reserve Bank.
+
+## 7. Position limits
+
+i. The position limits for various classes of participants in the currency futures market shall be subject to the guidelines issued by the SEBI. ii. The AD Category-I banks, shall operate within prudential limits, such as Net Open Position (NOP) and Aggregate Gap (AG) limits. The exposure of the banks, on their own account, in the currency futures market shall form part of their NOP and AG limits.
+## 8. Risk Management measures
+
+The trading of currency futures shall be subject to maintaining initial, extreme loss and calendar spread margins and the Clearing Corporations / Clearing Houses of the exchanges should ensure maintenance of such margins by the participants on the basis of the guidelines issued by the SEBI from time to time.
+
+## 9. Surveillance and disclosures
+
+The surveillance and disclosures of transactions in the currency futures market shall be carried out in accordance with the guidelines issued by the SEBI.
+
+## 10. Authorisation to Currency Futures Exchanges / Clearing Corporations
+
+Recognized stock exchanges and their respective Clearing Corporations / Clearing Houses shall not deal in or otherwise undertake the business relating to currency futures unless they hold an authorization issued by the Reserve Bank under section 10 (1) of the Foreign Exchange Management Act, 1999.
+
+<!-- PAGE 6 -->
+
+## 11. Powers of Reserve Bank
+
+The Reserve Bank may from time to time modify the eligibility criteria for the participants, modify participant-wise position limits, prescribe margins and / or impose specific margins for identified participants, fix or modify any other prudential limits, or take such other actions as deemed necessary in public interest, in the interest of financial stability and orderly development and maintenance of foreign exchange market in India.
+
+## (Shyamala Gopinath) Deputy Governor
+
+<!-- PAGE 7 -->
+
+## [Annex-II
+
+[A. P. (DIR Series) Circular No. 05 dated August 06, 2008]
+
+## Notification No. FEMA 177 /RB-2008 dated August 01, 2008
+
+## Foreign Exchange Management (Foreign Exchange Derivative Contracts)
+
+## (Amendment) Regulations, 2008
+
+In exercise of the powers conferred by clause (h) of sub-section 2 of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999) the Reserve Bank of India makes the following amendments in the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000, (Notification No. FEMA 25/RB-2000 dated May 3, 2000) namely:-
+
+1. <u>Short Title and Commencement</u>**:**
+(i) These Regulations may be called the Foreign Exchange Management (Foreign Exchange Derivative Contracts) (Amendment) Regulations, 2008. (ii) They shall come in to force from the date of their publication in the Official Gazette.
+2. <u>Amendment of the Regulations</u> In the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (Notification No. FEMA 25/RB-2000 dated May 3, 2000) (hereafter referred to as the principal regulations),
+(i) in regulation 2, after clause (v), the following clause shall be inserted, namely:- "(va) 'Currency Futures’ means a standardised foreign exchange derivative contract traded on a recognized stock exchange to buy or sell one currency against another on a specified future date, at a price specified on the date of contract, but does not include a forward contract."
+
+<!-- PAGE 8 -->
+
+(ii) in regulation 3 of the principal regulations, after the words, "foreign exchange derivative contract", the words, "or currency futures" shall be inserted.
+
+(iii) after regulation 5 of the principal regulations, the following regulation shall be inserted, namely :-
+
+## "5A. Permission to a person resident in India to enter into currency futures
+
+A person resident in India may enter into a currency futures in a stock exchange recognized under section 4 of the Securities Contract (Regulation) Act, 1956, to hedge an exposure to risk or otherwise, subject to such terms and conditions as may be set forth in the directions issued by the Reserve Bank of India from time to time."
+
+## (Salim Gangadharan)
+
+## Chief General Manager-in-Charge
+
+## Footnote:-
+
+The principal regulations were published in the Official Gazette vide GSR No.411(E) dated May 8, 2000 in Part II, Section 3, sub-section (i) and subsequently amended vide –
+
+GSR No.756(E) dt. 28.9.2000, GSR No.264(E) dt. 09.4.2002, GSR No.579(E) dt. 19.8.2002, GSR No.222(E) dt. 18.3.2003, GSR No.532(E) dt. 09.7.2003, GSR No.880(E) dt. 11.11.2003, GSR No.881(E) dt. 11.11.2003, GSR No.750(E) dt. 28.12.2005, GSR No.222(E) dt. 19.04.2006, GSR No.223(E) dt. 19.04.2006 and GSR No.760(E) dt.07.12.2007
+
+## Published in the Official Gazette of Government of India-Extraordinary-Part-II, Section 3,
+
+## Sub-Section (i) dated 05.08.2008 -<u>G.S.R.No.577(E)</u>

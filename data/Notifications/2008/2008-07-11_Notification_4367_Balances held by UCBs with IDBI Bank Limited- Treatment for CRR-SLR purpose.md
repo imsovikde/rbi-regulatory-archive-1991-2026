@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2008_4367"
+title: "Balances held by UCBs with IDBI Bank Limited- Treatment for CRR/SLR purpose"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85696.pdf"
+pdf_sha256: "cb6dd76338d65d9707a01cea365d13ac66ae84c08f5bdd1a68df835c7512863f"
+md_sha256: "b61296bea6b87d027b217a79df203c6b9c67aeefd2ab266d6203853427736994"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-07-11_Notification_4367_Balances%20held%20by%20UCBs%20with%20IDBI%20Bank%20Limited-%20Treatment%20for%20CRR-SLR%20purpose.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Balances held by UCBs with IDBI Bank Limited- Treatment for CRR/SLR purpose
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/93 UBD.BPD (PCB) Cir No: 3 /12.05.001/2008-09
+
+## July 11, 2008
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir **Balances held by UCBs with IDBI Bank Limited- Treatment for CRR/SLR purpose-**
+
+As you are aware, in terms of Section 18(1) (c) and 24(2) (a) of the B.R. Act, 1949 (AACS), net balance maintained in current account by the co-operative banks with the following banks are treated as cash for the purpose of CRR/SLR.
+
+i) State Bank of India ii) a subsidiary bank, and iii) a corresponding new bank.
+**2**. As IDBI Bank Limited is not one of those banks mentioned above, the balance maintained by UCBs in current account with IDBI Bank Limited would not be eligible for being reckoned as 'net balance in current account' for the purpose of CRR/SLR under Section 18 and 24 of the B.R. Act, 1949 (AACS).
+**3**. UCBs maintaining current account balances with IDBI Bank Limited, and presently reporting the same under CRR/SLR, are advised to intimate the position as on June 30, 2008 to respective Regional Offices of Reserve Bank in the format Annexed.
+Yours faithfully, **(A.K. Khound)** **Chief General Manager-in-Charge.**
+
+## Annex
+
+## (Rs. in lakh)
+
+**Name of the Amount of deposit held in Amount reckoned for CRR/SLR** <u>bank current account purpose</u>
