@@ -1,0 +1,137 @@
+---
+doc_id: "Circulars_2012_DBOD_Dir_Exp_BC_No_112_04_02_001_2011-12"
+title: "Rupee Export Credit Interest Rates"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RECI190612FL.PDF"
+pdf_sha256: "b8fe8e114779bdb565114cd4f1cb21332b9c3d7c1b24f37dd8e30084d3d55647"
+md_sha256: "f1c193210bd9f038f0e8f9d2d1f923d1e8527c744469794c4a76c09773cf2efc"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:41:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-06-19_Circular_DBOD.Dir.%28Exp%29.BC.No.112-04.02.001-2011-12_Rupee%20Export%20Credit%20Interest%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Export Credit Interest Rates
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बैंक __________ RESERVE BANK OF INDIA__________
+
+<u>www.rbi.org.in</u>
+
+RBI/2011-12/608 DBOD.Dir.(Exp).BC.No. 112 /04.02.001/2011-12 June 19, 2012
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir / Madam,
+
+## <u>Rupee Export Credit Interest Rates</u>
+
+Please refer to our <u>circular DBOD.Dir.(Exp).BC.No.38/04.02.001/2011-12 dated October 11,</u> <u>2011</u> extending the scheme of interest subvention of 2% from April 1, 2011 to March 31, 2012 on pre and post shipment rupee export credit for certain employment oriented export sectors.
+
+2. In this connection, the Government of India has decided to extend interest subvention of 2% on rupee export credit with effect from April 1, 2012 to March 31, 2013 on the same terms and conditions to the following sectors :
+i. Handicrafts ii. CarpetWithdrawn iii. Handlooms iv. Small and Medium Enterprises (SMEs) (as defined in Annex)
+v. Readymade Garments vi. Processed Agriculture Products vii. Sport Goods viii. Toys
+3. Accordingly, banks may reduce the interest rate chargeable to the exporters as per Base Rate system in the above mentioned sectors eligible for export credit subvention by the amount of subvention available subject to a floor rate of 7%. Banks may ensure to pass on the benefit of 2% interest subvention completely to the eligible exporters.
+बैिकं ग पिरचालन और िवकास िवभाग, कें िीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र्मुम्बई 400001 _____________________________________________________________________________________________________ th Department of Banking Operations and Development, Central Office, 13 floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहंदी आसान है, इसका ूयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+4. A directive No. DBOD.Dir.(Exp).BC.No.111 /04.02.001/2011-12 dated June 19, 2012 issued in this regard is enclosed.
+5. The procedure for claiming subvention is as follows :
+i) The amount of subvention would be reimbursed on the basis of claim submitted as at the end of respective quarters in the format enclosed. ii) The amount of subvention will be calculated on the amount of export credit from the date of disbursement
+a. up to the date of repayment; or
+b. up to the date beyond which the outstanding export credit becomes overdue.
+iii) The claims should be accompanied by an External Auditor's Certificate certifying that the claims for subvention of Rs…………….for the respective quarter is true and correct. Settlement of the claim will be done only on receipt of this certificate.
+
+iv) Claims may be submitted in the enclosed format to the Chief General Manager-in- Charge, Department of Banking Operations and Development, Reserve Bank of India, Central Office, 13th floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001, **within** **one month from the end of the respective quarters.**
+
+# Withdrawn
+
+v) In case no interest subvention is paid for any quarter/s, a NIL statement may be submitted.
+Yours faithfully,
+
+## (Deepak Singhal)
+
+Chief General Manager-in-Charge
+
+बैिकं ग पिरचालन और िवकास िवभाग, कें िीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र्मुम्बई 400001 _____________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 13 th floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहंदी आसान है, इसका ूयोग बढ़ाइए
+
+<!-- PAGE 3 -->
+
+## Format
+
+## Rupee Export Credit for the period from April 1, 2012 to March 31, 2013
+
+## Claim for the quarter ended...............
+
+||Category of Exporters|Total Rupee export credit granted at or above Base Rate|Amount of subvention claimed (rounded off to the nearest rupee)|
+|---|---|---|---|
+|(i) (ii) (iii)|(1) Handicrafts Carpets Handlooms (iv) Readymade Garments (v) Processed Agriculture Products (vi) Sport Goods (vii) Toys (viii) Small & Medium Enterprises (SME)*|(2)|(3)|
+||Total * As defined in the Annex.|Withdrawn||
+|in the|June 29, 2010|We certify having charged interest rates on the above loans at or above Base Rate by way of Rupee export credit to the eligible exporters as stated RBI circular No. DBOD.Dir.(Exp).BC.No.115/04.02.001/2009-10 dated and DBOD.Dir.(Exp).BC.No.112 /04.02.001/2011-12 dated||
+
+June 19, 2012 during the period ............ to ...............
+
+(Name and stamp of Authorised Signatory)
+
+Dated :
+
+बैिकं ग पिरचालन और िवकास िवभाग, कें िीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र्मुम्बई 400001 _____________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 13 th floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहंदी आसान है, इसका ूयोग बढ़ाइए
+
+<!-- PAGE 4 -->
+
+Annex
+
+## <u>Definition of SME</u>
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below :
+
+i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5, 2006 does not exceed Rs.25 lakh; ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.25 lakh but does not exceed Rs.5 crore; and iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.5 crore but does not exceed Rs.10 crore.
+# Withdrawn
+
+बैिकं ग पिरचालन और िवकास िवभाग, कें िीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र्मुम्बई 400001 _____________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 13 th floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहंदी आसान है, इसका ूयोग बढ़ाइए
+
+<!-- PAGE 5 -->
+
+## भारतीय िरज़वर् बैंक __________ RESERVE BANK OF INDIA__________
+
+<u>www.rbi.org.in</u>
+
+### DBOD.Dir.(Exp).BC.No.111 /04.02.001/2011-12 June 19, 2012
+
+### <u>Interest Rates on Rupee Export Credit</u>
+
+In exercise of the powers conferred by Sections 21 and 35 A of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, in partial modification of directive <u>DBOD. Dir.(Exp).BC.</u> <u>No .37/04.02.001/2011-12 dated October 11, 2011</u>, hereby notifies as under :
+
+It has been decided to extend the coverage of the interest subvention scheme for the period April 1, 2012 to March 31, 2013 to the following sectors on the same terms and conditions.
+
+i. Handicrafts ii. Carpet iii. Handlooms iv. Small and Medium Enterprises (SMEs) (as defined in Annex)
+# Withdrawn
+
+v. Readymade Garments vi. Processed Agriculture Products vii. Sport Goods viii. Toys
+### (B. Mahapatra)
+
+Executive Director
+
+||बैिकं ग पिरचालन|और िवकास|िवभाग, कें िीय|कायार्लय, 13 माला, शहीद||भगतिसंह|माग, र् मुम्बई|400001|
+|---|---|---|---|---|---|---|---|---|
+|_____________________________________________________________________________________________________|||||||||
+|Department of Banking Operations and Development, Central Office, 13|/Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in||िहंदी आसान|400001 है, इसका|floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - ूयोग बढ़ाइए||||
+
+th
+
+<!-- PAGE 6 -->
+
+Annex
+
+## <u>Definition of SME</u>
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below :
+
+i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5, 2006 does not exceed Rs.25 lakh; ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.25 lakh but does not exceed Rs.5 crore; and iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.5 crore but does not exceed Rs.10 crore.
+# Withdrawn

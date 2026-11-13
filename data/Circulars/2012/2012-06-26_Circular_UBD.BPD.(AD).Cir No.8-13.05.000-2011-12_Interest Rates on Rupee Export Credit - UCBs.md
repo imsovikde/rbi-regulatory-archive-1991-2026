@@ -1,0 +1,122 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_AD_Cir_No_8_13_05_000_2011-12"
+title: "Interest Rates on Rupee Export Credit - UCBs"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE26062012IR.PDF"
+pdf_sha256: "d276dca06ab1607abe90783a99f58b7ce52d0bd512ebdcdf2c6abbe2de25dd51"
+md_sha256: "82351a97241191613e981a30af52c8bb6d6151c3ab22de9522a2e2b716dc0960"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:41:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-06-26_Circular_UBD.BPD.%28AD%29.Cir%20No.8-13.05.000-2011-12_Interest%20Rates%20on%20Rupee%20Export%20Credit%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Rupee Export Credit - UCBs
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बक
+
+## ________________RESERVE BANK OF INDIA____________________ www.rbi.org.in
+
+RBI/2011-12/619 UBD.BPD.(AD) Cir No. 8 /13.05.000/2011-12 June 26, 2012
+
+The Chief Executive Officer Scheduled Primary (Urban) Co-operative Banks (holding AD Category I licence)
+
+Madam/Dear Sir,
+
+## <u>Interest Rates on Rupee Export Credit -UCBs</u>
+
+Please refer to <u>circular UBD.BPD.(AD) Cir.No. 3/13.05.000/2011-12 dated November 3,</u> <u>2011</u> extending the interest subvention on rupee export credit on specified export sectors till March 31, 2012.
+
+2. Government of India has decided to extend interest subvention of 2% on rupee export credit on specified export sectors from April 1, 2012 to March 31, 2013. Accordingly, the interest subvention on pre-shipment and post-shipment rupee export credit is extended from April 1, 2012 to March 31, 2013 on the same terms and conditions as mentioned in our circular dated November 3, 2011 for the following sector
+# Withdrawn
+
+s.
+(i) Handicrafts (ii) Carpets (iii) Handlooms (iv) Small and Medium Enterprises (SMEs) (as defined in <u>Annex I)</u>
+(v) Readymade Garments (vi) Processed Agriculture Products (vii) Sport Goods (viii) Toys
+3. A Directive UBD.BPD.Dir(Exp).No. 4 /13.05.000/2011-12 dated June 21, 2012 issued in this regard is enclosed. शहरी बक िवभाग,कद्रीय कायार्लय, गारमट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत
+<u>फोन: 022 - 2493 9930 - 49; फ</u>ै<u>क्स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in <u>बदी क िह म पत्राचार का वागत करता है —</u>
+
+<!-- PAGE 2 -->
+
+4. Claims for reimbursement of subvention amount may be submitted to the Chief General Manager-in-Charge, Urban Banks Department, Reserve Bank of India, Central Office, Garment House, Worli, Mumbai 400 018 on a quarterly basis starting from quarter ended June 30, 2012 in the format as per Annex II. The amount of subvention will be calculated on the outstanding amount of rupee export credit from the date of disbursement up to the date of repayment or up to the date on which the outstanding export credit becomes overdue, whichever is earlier. The claims should be accompanied by an External Auditor's Certificate certifying that the claim for subvention of Rs. ……….. for the period ……………(specify the quarter) is true and correct. Settlement of the claim will be done on receipt of this certificate.
+## Yours faithfully
+
+(A. Udgata) Chief General Manager-in-Charge
+
+## Encl: as above
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex -I
+
+## <u>Definition of SME</u>
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below:
+
+(i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722 (E) dated October 5, 2006) does not exceed Rs. 25 lakh; (ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722 (E) dated October 5, 2006) is more than Rs. 25 lakh but does not exceed Rs. 5 crore; and (iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722 (E) dated October 5, 2006) is more than Rs. 5 crore but does not exceed Rs. 10 crore.
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+# Annex II
+
+# Rupee Export Credit for the period from ________ to _________
+
+(to be submitted quarterly starting from quarter ended June 30, 2012) (Pre-shipment Export Credit and Post -shipment Export Credit) (Amount in Rs.)
+
+|Category of Exporters|Total Rupee Export Credit granted at 2% less than the rates charged for other categories of Exporters|Amount of Subvention Claimed|
+|---|---|---|
+|(i) Handicrafts|||
+|(ii) Handlooms|||
+|(iii) Carpet|||
+|(iv) Small & Medium Enterprises (SME) (as defined in Annex I)|||
+|(v) Readymade Garments|||
+|(vi) Processed Agriculture Products|||
+|(vii) Sport Goods|||
+|(viii) Toys|||
+|Total|||
+
+(1) (2) (3)
+
+NB: Amount of subvention should be rounded off to the nearest rupees. We certify having charged interest on the above loans at interest rates that are 2% below those charged for other categories of exporters by way of export credit to the eligible exporters as stated in the RBI circular No. UBD.BPD.AD.Cir. No. 8/13.05.000/2011-12Withdrawn dated June 22, 2012 during the period ________to ___________.
+
+## Dated : _____________
+
+Sd/-
+
+## Name and Designation of Authorised Signatory
+
+<!-- PAGE 5 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+UBD.BPD. Dir.(Exp). No. 4/13.05.000/2011-12 June 21, 2012
+
+In exercise of the powers conferred by <u>Section 21</u> and <u>35A</u> of the Banking Regulation Act, 1949 read with Section 56 and in partial modification of its Directive <u>UBD.BPD.Dir.(Exp). No.</u> <u>1/13.05.000/2011-12 dated November 3, 2011</u> the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that, with effect from April 01, 2012 up to March 31, 2013 scheduled primary (urban) co-operative banks holding AD category I licence will charge, for specified export sectors, interest at 2 percentage point below the interest rates charged from exporters in other categories of export sector, on the outstanding amount of rupee export credit from the date of disbursement up to the date of repayment or up to the date on which the outstanding rupee export credit becomes overdue, whichever is earlier.
+
+## Specified Sectors:
+
+(i) Handicraft
+(ii) Carpets (iii) Handlooms (iv) Small and Medium Enterprises (SME) ( as defined inWithdrawn<u>Annex I</u>)
+
+(v) Readymade Garments (vi) Processed Agricultural Products (vii) Sports Goods (viii) Toys (S Karuppasamy) Executive Directors
+शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत <u>फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in <u>बक ह�द म पऽाचार का ःवागत करता है —</u>
+
+<!-- PAGE 6 -->
+
+# Annex -I
+
+# <u>Definition of SME</u>
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below:
+
+(i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722 (E) dated October 5, 2006) does not exceed Rs. 25 lakh; (ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722 (E) dated October 5, 2006) is more than Rs. 25 lakh but does not exceed Rs. 5 crore; and (iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722 (E) dated October 5, 2006) is more than Rs. 5 crore but does not exceed Rs. 10 crore. Withdrawn
+- 2 -
