@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2015_9921"
+title: "Kisan Vikas Patra, 2014 and Sukanya Samriddhi Account"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CN113137FE1EAE5EE4354A97414A2A5412CDA.PDF"
+pdf_sha256: "5461e380b7d865ef540d662fc72731150a63734d1c55fb279425430f7d9d7d25"
+md_sha256: "b08d9595b79f4dd9a2c18e61f63aa332a22c3e61cff0e8f1ad18e6c00e3d8ab0"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-07-02_Notification_9921_Kisan%20Vikas%20Patra%2C%202014%20and%20Sukanya%20Samriddhi%20Account.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Kisan Vikas Patra, 2014 and Sukanya Samriddhi Account
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/113 DGBA.GAD.No. 14/15.02.003/2015-16 July 2, 2015
+
+The Chairman/Chief Executive Officer Agency Banks Handling the Schemes of Kisan Vikas Patra, 2014 and Sukanya Samriddhi Account
+
+## Dear Sir
+
+## Kisan Vikas Patra, 2014 and Sukanya Samriddhi Account
+
+Please refer to our <u>circulars IDMD (DGBA).CDD.No.3484/15.02.001/2014-15 dated</u> <u>February 09, 2015</u> and <u>IDMD (DGBA).CDD.No.4052/15.02.006/2014-15 dated</u> <u>March 11, 2015</u> regarding Kisan Vikas Patra, 2014 and Sukanya Samriddhi Account respectively. Agency banks are advised to expedite the implementation of the above schemes.
+
+2. It has been decided to pay agency commission to authorised banks for handling the work relating to the above two schemes as per the extant rates advised by our <u>circular DGBA.GAD.No. 7575/31.12.011/2011-12 dated May 22, 2012</u>.
+3. The Government of India has desired to have a bank-wise and region-wise weekly progress report on implementation of Sukanya Samriddhi Account. Accordingly, all agency banks implementing the scheme are advised to furnish region-wise weekly progress report indicating the number of Sukanya Samriddhi Accounts opened to Budget Division, Department of Economic Affairs with a copy to Joint Director, National Saving Institute, CGO Complex, ‘A’ Wing, 4th Floor, Seminary Hills, Nagpur – 440006 (<u>e-mail</u>). Yours faithfully (K Ganesha) Deputy General Manager _______________________________________________________________
+सरकार एवं बक लेखा वभाग**,** के न् द्र य कायार्लय**,** मंबई ु सट्रल रेल्वे स्टेशन के सामने**,** भायखला**,** मंबई ु 400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, Byculla, Mumbai 400 008 Telephone: (022) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-mail : <u>cgmicdgbaco@rbi.org.in</u>

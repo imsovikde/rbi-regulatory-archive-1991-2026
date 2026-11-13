@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2015_9801"
+title: "Overseas Foreign Currency Borrowings by Authorised Dealer Bank"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP1128AA9E92F6DD34317A57768274B4A3014.PDF"
+pdf_sha256: "01c86e9d7d377fd2808edc86e88cf2546ca2301b999dc0ef42ba87f64fa4e1dc"
+md_sha256: "5f0eb9dafa57c7af0d441c1e58b7fa26183d02cc6c7938b42e1fbbdfa38eddae"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:51:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-06-25_Notification_9801_Overseas%20Foreign%20Currency%20Borrowings%20by%20Authorised%20Dealer%20Bank.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Foreign Currency Borrowings by Authorised Dealer Bank
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Financial Markets Regulation Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2014-15/649 June 25, 2015 A.P. (DIR Series) Circular No. 112
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Overseas Foreign Currency Borrowings by Authorised Dealer Banks
+
+Attention of Authorised Dealer Category I (AD Category-I) banks is invited to Regulation no. (4)(2)(i) of <u>Notification No. FEMA 3/RB-2000 dated May 3, 2000</u>, as amended from time to time, in terms of which, AD Category-I banks may borrow funds from their Head Office or overseas branches or correspondents outside India or any other entity as permitted by Reserve Bank, up to a limit of hundred per cent of their unimpaired Tier I capital as at the close of the previous quarter or USD 10 million (or its equivalent), whichever is higher, subject to such conditions as the Reserve Bank may direct. Attention is also drawn to <u>A.P. (DIR Series) Circular No. 61 dated October 10, 2013</u>, in terms of which permission was granted to AD Cat-I banks to borrow from international / multilateral financial institutions for a limited period up to November 30, 2013.
+
+2. With a view to providing greater flexibility in seeking access to overseas funds, it has now been decided to permit AD Category - I banks to borrow from international / multilateral financial institutions without approaching Reserve Bank for a case by case approval. These shall include International / Multilateral Financial Institutions of which Government of India is a shareholding member or which have been established by more than one government or have shareholding by more than one government and other international organizations.
+3. Such borrowings should be for the purpose of general banking business and not for capital augmentation and shall be subject to the applicable prudential conditions stipulated in the <u>A.P. (DIR</u> <u>Series) Circular no. 40, 2013 dated September 10, 2013</u>.
+
+<!-- PAGE 2 -->
+
+4. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+## Yours faithfully
+
+## (R Subramanian) Chief General Manager

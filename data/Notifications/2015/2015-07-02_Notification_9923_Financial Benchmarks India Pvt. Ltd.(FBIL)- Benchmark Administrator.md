@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2015_9923"
+title: "Financial Benchmarks India Pvt. Ltd.(FBIL)- Benchmark Administrator"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/115FBCIRFD9969F23D224714BED5392DD2F08C1C.PDF"
+pdf_sha256: "c86edb88af47fcf25d6ef7554f76b77f4853521ebb990864d8a3e120c8d1aaef"
+md_sha256: "ec27a2693ec0c6583f09510e44d3f935ca1f72ccebef1c0a15f98926a0548b6d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-07-02_Notification_9923_Financial%20Benchmarks%20India%20Pvt.%20Ltd.%28FBIL%29-%20Benchmark%20Administrator.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Benchmarks India Pvt. Ltd.(FBIL)- Benchmark Administrator
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बकैं RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2015-16/115 FMRD.FMSD.No. 03 /03.01.006/2015-16 July 02, 2015
+
+## All market participants
+
+Dear Sir/Madam,
+
+## <u>Financial Benchmarks India Pvt. Ltd.(FBIL)- Benchmark Administrator</u>
+
+Please refer to our <u>circular FMD.FSRG.No.102/02.18.002/2013-14 dated April 16,</u> <u>2014</u> on “Financial Benchmark- Governance Framework for Benchmark Submitters” wherein it was stated that in order to overcome the possible conflicts of interest in the benchmark setting process arising out of the current governance structure of the Fixed Income Money Market and Derivative Association of India (FIMMDA) and Foreign Exchange Dealers’ Association of India (FEDAI) an independent body will be formed, either separately or jointly, by the FIMMDA and the FEDAI for administration of the benchmarks.
+
+2. An independent company named ‘Financial Benchmarks India Pvt. Ltd.(FBIL), jointly floated by the FIMMDA, the FEDAI and the IBA has since been incorporated. The FBIL will act as an independent benchmark administrator and gradually take over the benchmarks currently being disseminated by other agencies. वित्तीय बाज़ार विनियमि विभाग, कें द्रीय कायाालय भिि, 23 िीीं मींज़ज़ल, शहीद भगत स ींह मागा, फोर्ा, मींबई – 400001.
+फोि: (91-22) 22601000, फै क् : (91-22) 22702290 ई-मेल: fmrd@rbi.org.in Financial Markets Regulation Department, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400001. Tel: (91-22) 22601000, Fax: (91-22) 22702290 e-mail- fmrd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. FBIL has since announced taking over the administration of the benchmark for the overnight inter-bank rate to be based on the actual traded rate from July 22, 2015, replacing the existing “FIMMDA-NSE Overnight MIBID/MIBOR” by “FBIL- Overnight MIBOR”. FBIL proposes to take over administration of foreign exchange benchmarks and other Indian Rupee interest rate benchmarks over a period of time in consultation with the stakeholders. FIMMDA and FEDAI would continue to act as administrators for these Rupee interest rate and foreign exchange benchmarks respectively till they are shifted to the FBIL.
+## Yours faithfully
+
+(R. Subramanian) Chief General Manager

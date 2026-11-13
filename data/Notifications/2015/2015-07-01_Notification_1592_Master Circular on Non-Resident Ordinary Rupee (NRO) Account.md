@@ -1,0 +1,189 @@
+---
+doc_id: "Notifications_2015_1592"
+title: "Master Circular on Non-Resident Ordinary Rupee (NRO) Account"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/MC78250915FA.pdf"
+pdf_sha256: "5c49e1c65ee24d2b9816eb4b58e589557a7179fd2a1e9d199b1a56a52a2985d1"
+md_sha256: "e910aea8f26fc95ccc8883544065242df7713f4198ae41ad6de7f26ea58c3153"
+total_pages: 11
+native_pages: 11
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:51:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-07-01_Notification_1592_Master%20Circular%20on%20Non-Resident%20Ordinary%20Rupee%20%28NRO%29%20Account.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Non-Resident Ordinary Rupee (NRO) Account
+
+<!-- PAGE 1 -->
+
+## RBI/2015-16/78 Master Circular No. 2/2015-16 July 1, 2015
+
+To, All Authorised Dealer Category – I banks and Authorised banks Madam / Sir, **Master Circular on Non-Resident Ordinary Rupee (NRO) Account** The acceptance of deposits by an Authorised Dealer /Authorised bank from persons resident outside India is regulated by the provisions of sub-sections (1) and (2) of section 6 of the Foreign Exchange Management Act, 1999 read with <u>FEMA Notification No.5/2000 - RB</u> <u>dated May 3, 2000</u>, as amended from time to time.
+
+2. This Master Circular consolidates the existing instructions on the subject of “Non Resident Ordinary Rupee (NRO) Account” at one place. The list of underlying circulars /notifications consolidated in this Master Circular is furnished in the Appendix.
+3. This Master Circular is being updated from time to time as and when fresh instructions are issued. The date up to which the Master Circular has been updated is suitably indicated.
+4. This Master Circular may be referred to for general guidance. The Authorised Dealer Category – I banks and Authorized banks may refer to respective circulars / notifications for detailed information, if so needed.
+Yours faithfully,
+
+(A K Pandey) Chief General Manager
+
+<!-- PAGE 2 -->
+
+INDEX
+
+1. Definitions
+2. Eligibility
+3. Types of Accounts
+4. Joint Accounts with Residents / Non- Residents
+5. Permissible Credits /Debits
+6. Remittance of Assets
+7. Foreign nationals of non-Indian origin on a visit to India
+8. Grant of loans/overdrafts by the Authorised Bank to account holders and third parties
+9. Change of resident status of account holder
+10.Treatment of loans /overdrafts in the event of change in the resident status of the borrower
+11. Payment of funds to Non-resident / Resident nominee
+12. Operation of NRO account by Power of Attorney holder. Facilities to a person going abroad for studies
+13. International Credit Cards
+14. Income-Tax
+15. System of quarterly reporting of opening of NRO accounts by Individuals of Bangladesh Annex-1 Statement/ returns to be submitted to the Reserve Bank APPENDIX
+
+<!-- PAGE 3 -->
+
+## 1. Definitions
+
+## Non-Resident Indian (NRI)
+
+NRI for this purpose is defined in Regulation 2 of Notification No. FEMA 5 / 2000- RB dated May 3, 2000. In terms of this Notification, an NRI means a person resident outside India who is a citizen of India or is a person of Indian origin. **Person of Indian Origin (PIO)** PIO for this purpose is defined in Regulation 2 of FEMA Notification ibid as a citizen of any country other than Bangladesh or Pakistan, if
+
+(a) he at any time held Indian passport; or
+(b) he or either of his parents or any of his grandparents was a citizen of India by virtue of the Constitution of India or the Citizenship Act, 1955 (57 of 1955); or
+(c) the person is a spouse of an Indian citizen or a person referred to in sub-clause (a) or (b).
+## 2. Eligibility
+
+(a) Any person resident outside India (as per Section 2 (w) of FEMA, 1999), may open and maintain NRO account with an Authorised Dealer or an Authorised Bank for the purpose of putting through bona fide transactions denominated in Indian Rupees, not involving any violation of the provisions of FEMA, Rules and Regulations made there under.
+(b) Opening of accounts by individuals/ entities of Pakistan nationality/ ownership and entities of Bangladesh ownership requires prior approval of the Reserve Bank.
+(c) Opening of accounts by individual/s of Bangladesh nationality may be allowed by Authorised Dealer or Authorised Bank, subject to satisfying itself that the individual/ s hold a valid visa and valid residential permit issued by Foreigner Registration Office (FRO)/ Foreigner Regional Registration Office (FRRO) concerned.
+## 3. Types of Accounts
+
+NRO accounts may be opened / maintained in the form of current, savings, recurring or fixed deposit accounts. Rate of interest applicable to these accounts and guidelines for opening, operating and maintenance of such accounts shall be in accordance with directives/instructions issued by the Reserve Bank from time to time.
+
+<!-- PAGE 4 -->
+
+## 4. Joint Accounts with Residents / Non- Residents
+
+The accounts may be held jointly with residents and / or with non-residents.
+
+**5. Permissible Credits / Debits**
+## A. Credits
+
+(i) Proceeds of remittances from outside India through normal banking channels received in any permitted currency. (ii) Any foreign currency, which is freely convertible, tendered by the account holder during his temporary visit to India. Foreign currency exceeding USD 5000 or its equivalent in the form of cash should be supported by currency declaration form. Rupee funds should be supported by encashment certificate, if they represent funds brought from outside India. (iii) Transfers from rupee accounts of non-resident banks. (iv) Legitimate dues in India of the account holder. This includes current income like rent, dividend, pension, interest, etc.
+(v) Sale proceeds of assets including immovable property acquired out of rupee / foreign currency funds or by way of legacy /inheritance. (vi) Resident individual may make a rupee gift to a NRI/PIO who is a close relative of the resident individual [close relative as defined in Section 6 of the Companies Act, 1956] by way of crossed cheque /electronic transfer. The amount shall be credited to the Non-Resident (Ordinary) Rupee Account (NRO) a/c of the NRI / PIO and credit of such gift amount may be treated as an eligible credit to NRO a/c. The gift amount would be within the overall limit prescribed under the Liberalised Remittance Scheme (LRS) for a resident individual. (vii) Resident individual may lend to a Non-resident Indian (NRI)/ Person of Indian Origin (PIO) close relative [means relative as defined in Section 6 of the Companies Act, 1956] by way of crossed cheque /electronic transfer, subject to conditions within the overall limit prescribed under the Liberalised Remittance Scheme available for a resident individual. The loan amount should be credited to the NRO a/c of the NRI /PIO. Credit of such loan amount may be treated as an eligible credit to NRO a/c;
+## B. Debits
+
+(i) All local payments in rupees including payments for investments in India subject to compliance with the relevant regulations made by the Reserve Bank.
+
+<!-- PAGE 5 -->
+
+(ii) Remittance outside India of current income like rent, dividend, pension, interest, etc. in India of the account holder. (iii) Remittance up to USD one million, per financial year (April- March), by NRI, subject to payment of tax, as applicable. (iv) Transfer to NRE account of NRI within the overall ceiling of USD one million per financial year subject to payment of tax, as applicable
+
+**6. Remittance of Assets** A citizen of a foreign state, not being a citizen of Nepal or Bhutan or a Person of Indian Origin (PIO), who –
+(i) has retired from an employment in India, or (ii) has inherited assets from a person referred to in sub-section (5) of Section 6 of the FEMA; or (iii) is a widow resident outside India and has inherited assets of her deceased husband who was an Indian citizen resident in India,
+may remit an amount, not exceeding USD one million per financial year out of the balances in the account, on production of documentary evidence in support of acquisition, inheritance or legacy of assets by the remitter, subject to payment of taxes as prescribed by Central Board of Direct Taxes from time to time.
+
+**7. Foreign nationals of non-Indian origin on a visit to India** NRO (current/savings) account can be opened by a foreign national of non-Indian origin visiting India, with funds remitted from outside India through banking channel or by sale of foreign exchange brought by him to India. The balance in the NRO account may be converted by the Authorised Dealer bank into foreign currency for payment to the account holder at the time of his departure from India provided the account has been maintained for a period not exceeding six months and the account has not been credited with any local funds, other than interest accrued thereon. In case the account has been maintained for a period more than six months, applications for repatriation of balance will have to be made by the account holder concerned on plain paper to the Regional Office concerned of the Reserve Bank.
+## 8. Grant of loans / overdrafts by the Authorised Bank to account holders and third
+
+**parties**
+
+(a) Loans to non-resident account holders and to third parties may be granted in Rupees by Authorized Dealer / bank against the security of fixed deposits subject to the following terms
+
+<!-- PAGE 6 -->
+
+and conditions:
+
+(i) The loans shall be utilised only for meeting borrower's personal requirements and/or business purpose and not for carrying on agricultural/plantation activities or real estate business or for re-lending. (ii) Regulations relating to margin and rate of interest, as stipulated by Reserve Bank, from time to time, shall be complied with. (iii) The usual norms and considerations as applicable in the case of advances to trade/industry shall be applicable for such loans/facilities granted to third parties.
+(b) Authorised Dealer / bank may permit overdraft in the account of the account holder subject to their commercial judgement and in compliance with the interest rate etc. directives.
+## 9. Change of residential status of account holder
+
+## (a) From Resident to Non-resident
+
+(i) When a person resident in India leaves India for a country (other than Nepal or Bhutan) for taking up employment or for carrying on business or vocation outside India or for any other purpose indicating his intention to stay outside India for an uncertain period, his existing account should be designated as a Non- Resident (Ordinary) Account. (ii) Foreign nationals who come to India on employment and become residents in terms of section 2 (v) of FEMA, 1999 and are eligible to open/hold a resident savings bank account are permitted to re-designate their resident account maintained in India as NRO account on leaving the country after their employment to enable them to receive their legitimate dues subject to certain conditions.
+## (b) From Non- resident to Resident
+
+NRO accounts may be re-designated as resident Rupee accounts on return of the account holder to India for taking up employment, or for carrying on business or vocation or for any other purpose indicating his intention to stay in India for an uncertain period. Where the account holder is only on a temporary visit to India, the account should continue to be treated as non-resident during such visit.
+
+**10. Treatment of loans /overdrafts in the event of change in the residential status of** **the borrower** In case of a person who had availed of loan or overdraft facilities while resident in India and who subsequently becomes a person resident outside India, the Authorised Dealer / bank may at their discretion and commercial judgement allow continuance of the loan/overdraft
+
+<!-- PAGE 7 -->
+
+facilities. In such cases, payment of interest and repayment of loan may be made by inward remittance or out of legitimate resources in India of the person concerned.
+
+**11. Payment of funds to Non-resident nominee** The amount due/payable to non-resident nominee from the NRO account of a deceased account holder shall be credited to NRO account of the nominee with an Authorised dealer / bank in India.
+## 12. Operation of NRO account by Power of Attorney holder
+
+Powers have been delegated to the Authorized Dealers/ Authorised banks to allow operations on an NRO account in terms of a Power of Attorney granted in favour of a resident by the non-resident individual account holder provided such operations are restricted to:
+
+(i) All local payments in Rupees including payments for eligible investments subject to compliance with relevant regulations made by the Reserve Bank; and (ii) Remittance outside India of current income in India of the non-resident individual account holder, net of applicable taxes. (iii) The resident Power of Attorney holder is not permitted to repatriate outside India funds held in the account other than to the non-resident individual account holder himself nor to make payment by way of gift to a resident on behalf of the non- resident account holder or transfer funds from the account to another NRO account.
+## 13. International Credit Cards
+
+Authorised Dealer banks have been permitted to issue International Credit Cards to NRIs/PIO, without prior approval of Reserve Bank. Such transactions may be settled by inward remittance or out of balances held in the cardholder’s FCNR (B) / NRE / NRO Accounts.
+
+**14. Income-Tax** The remittances (net of applicable taxes) will be allowed to be made by the Authorised Dealer banks on production of requisite information in the formats prescribed by the Central Board of Direct Taxes, Ministry of Finance, Government of India from time to time. Reserve Bank of India will not issue any instructions under FEMA, 1999 clarifying tax issues. It shall be mandatory on the part of Authorised Dealers to comply with the requirement of tax laws, as applicable.
+
+<!-- PAGE 8 -->
+
+## 15. System of quarterly reporting of opening of NRO accounts by individual/s of Bangladesh:
+
+i. The Authorised bank should put in place a system of quarterly reporting whereby each branch of the Authorised bank shall maintain a record of the bank accounts opened by individual/s of Bangladesh nationality and details of such account shall be forwarded to their Head Office. The Head Office of the bank shall furnish details of such accounts on quarterly basis to the Under Secretary (Foreigners), Ministry of Home Affairs, NDCC-II Building, Jai Singh Road, New Delhi - 110 001 <u>E Mail.</u> ii. The report shall contain details of Name/s of the Individual/s, Date of arrival in India, Passport No. and Place/Country of issue, Residential permit reference and date and place of issue, Name of the FRO/ FRRO concerned and the Complete address and contact number of the branch where the bank account is being maintained.
+
+<!-- PAGE 9 -->
+
+## Annex 1
+
+## Statement/returns to be submitted to the Reserve Bank
+
+|Particulars of statement|Periodicity|Relevant instructions|
+|---|---|---|
+|Facilities to NRIs/PIO and Foreign Nationals –|Monthly|A.P (DIR Series) Circular|
+|Liberalisation-Remittance from NRO account.||No. 106 dated February 18, 2014|
+
+<!-- PAGE 10 -->
+
+## APPENDIX
+
+## List of notifications / circulars which have been consolidated in this Master Circular
+
+## – Non-Resident Ordinary Rupee (NRO) Account
+
+<u>[https://rbi.org.in/Scripts/BS_APCircularsDisplay.aspx](https://rbi.org.in/Scripts/BS_APCircularsDisplay.aspx)</u> <u>[https://rbi.org.in/Scripts/Bs_FemaNotifications.aspx](https://rbi.org.in/Scripts/Bs_FemaNotifications.aspx)</u> **Sl. No. Circular No. Date**
+
+1. <u>Notification No. FEMA 62/2002-RB May 13, 2002</u>
+2. <u>Notification No. FEMA 97/2003-RB July 8, 2003</u>
+3. <u>Notification No. FEMA 119/2004-RB June 29,2004</u>
+4. <u>Notification No. FEMA 133/2005-RB April 1, 2005</u>
+5. <u>Notification No. FEMA 156/2007-RB June 13, 2007</u>
+1. <u>A.P. (DIR Series) Circular No.45 May 14, 2002</u>
+2. <u>A.P. (DIR Series) Circular No.1 July 2, 2002</u>
+3. <u>A.P. (DIR Series) Circular No.5 July 15, 2002</u>
+4. <u>A.P. (DIR Series) Circular No.19 September 12, 2002</u>
+5. <u>A.P. (DIR Series) Circular No.26 September 28, 2002</u>
+6. <u>A.P. (DIR Series) Circular No.27 September 28, 2002</u>
+7. <u>A.P. (DIR Series) Circular No.56 November 26, 2002</u>
+8. <u>A.P. (DIR Series) Circular No.59 December 9, 2002</u>
+9. <u>A.P. (DIR Series) Circular No.67 January 13, 2003</u>
+10. <u>A.P. (DIR Series) Circular No.43 December 8, 2003</u>
+11. <u>A.P. (DIR Series) Circular No.45 December 8, 2003</u>
+12. <u>A.P. (DIR Series) Circular No.62 January 31, 2004</u>
+13. <u>A.P. (DIR Series) Circular No.43 May 13, 2005</u> 14 <u>A.P. (DIR Series) Circular No.12 November 16, 2006</u>
+15. <u>A.P. (DIR Series) Circular No.64 May 25, 2007</u>
+16. <u>A.P. (DIR Series) Circular No.70 June 09, 2011</u>
+
+<!-- PAGE 11 -->
+
+17 <u>A.P. (DIR Series) Circular No.17 September 16, 2011</u> 18 <u>A.P. (DIR Series) Circular No.18 September 16, 2011</u> 19 <u>A.P. (DIR Series) Circular No.117 May 7, 2012</u> 20 <u>A.P (DIR Series) Circular No. 82 February 11, 2013</u>
+
+21. <u>A.P (DIR Series) Circular No. 106 February 18, 2014</u>
+22. <u>A.P (DIR Series) Circular No. 151 dated June 30,</u> <u>2014</u>
