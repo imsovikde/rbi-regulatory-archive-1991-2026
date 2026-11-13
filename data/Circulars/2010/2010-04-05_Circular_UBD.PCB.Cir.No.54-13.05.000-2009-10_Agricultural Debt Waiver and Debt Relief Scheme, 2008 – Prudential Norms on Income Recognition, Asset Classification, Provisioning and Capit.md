@@ -1,0 +1,124 @@
+---
+doc_id: "Circulars_2010_UBD_PCB_Cir_No_54_13_05_000_2009-10"
+title: "Agricultural Debt Waiver and Debt Relief Scheme, 2008 – Prudential Norms on Income Recognition, Asset Classification, Provisioning and Capital Adequacy"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UPSC54N050410.PDF"
+pdf_sha256: "ceae7ad5a26d0932def4bff352f463629e90a6074858e2bb8a7e97c6b6717c0c"
+md_sha256: "8902c07f5cf8aab29fa4666587ff704157a399863246b42e86fc604af0110315"
+total_pages: 3
+native_pages: 1
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:53:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-04-05_Circular_UBD.PCB.Cir.No.54-13.05.000-2009-10_Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008%20%E2%80%93%20Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%2C%20Provisioning%20and%20Capit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Agricultural Debt Waiver and Debt Relief Scheme, 2008 – Prudential Norms on Income Recognition, Asset Classification, Provisioning and Capital Adequacy
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.
+
+RBI/2009-2010/379
+
+UBD.PCB.Cir.No.54/13.05.000/2009-10
+
+April 5, 2010
+
+The Chief Executive Officer of all
+
+Primary (Urban) Co operative Banks
+
+Dear Sir / Madam,
+
+Agricultural Debt Waiver and Debt Relief Scheme, 2008 - Prudential Norms on
+
+Income Recognition, Asset Classification, Provisioning and Capital Adequacy
+
+30,2008,UBD.PCB.Cir.No.54/ 13.05.000 / 2008-09 datedMarch 09,2009,
+
+UBD.PCB.Cir.No.72/13.05.000/ 2008
+
+dated June 26, 2009,
+
+and
+
+UBD.PCB. Cir.No.8/ 13.05.006/ 2009
+
+dated September 03, 2009  on the
+
+captioned subject.
+
+Vithdrawn
+
+September 3, 2009,we had advised that the
+
+Government had decided to make the accounts of “other farmers" eligible for the
+
+debt relief of 25%, from Government of India, provided they pay their entire share of
+
+75% by December 31, 2009.
+
+3. In view of the recent drought in some States and the severe flood in some other
+
+parts of the country, the Government of India, as announced in the Union Budget
+
+2010- 11,has now decided to extend the last date of payment of 75% of overdue
+
+portion by the “other farmers" under Debt Relief Scheme (under ADWDR) for
+
+eligible “other farmers" may be allowed to repay this amount in one or more
+
+instalments up to June 30, 2010.
+
+<!-- PAGE 2 -->
+
+4. The Government of India has also advised that the banks/ lending institutions are allowed to receive even less than 75% of the eligible amount under OTS provided the banks / lending institutions bear the difference themselves and do not claim the same either from the government or from the farmer. The Government will pay only 25% of the actual eligible amount under debt relief.
+5. The Government has once again clarified that the lending institutions would not charge any interest on the eligible amount for the period from February 29, 2008 to June 30, 2009. However, they may charge normal rate of interest on the eligible amount from July 01, 2009 up to the date settlement. Further, no interest shall be paid by the Government of India to the lending institutions for this six month extension under the Scheme while reimbursing the 25% amount to the lending institutions as per the delayed reimbursement schedule.
+6. Where the farmers covered under the Debt Relief Scheme have given the undertaking, agreeing to pay their share under the OTS, their relevant accounts may be treated by banks as “standard” / “performing” provided:
+# Withdrawn
+
+(a) adequate provision is made by the banks for the loss in present value (PV) terms for all the receivables due from the borrowers. (For computing the amount of loss in PV terms under the Scheme, the balance amount receivable from the farmers may be assumed to be due on June 30, 2010, and the interest payment would be as per paragraph 5 above. The cash flows should be discounted to the present value at the interest rate at which the loan was granted including the element of interest subsidy, if any, available from the Government.)
+(b) such farmers pay their share of the settlement latest by the revised last date, i.e. June 30, 2010.
+
+<!-- PAGE 3 -->
+
+7. In case, however, the payments are delayed by the farmers beyond June 30,
+
+2010, the outstanding amount in the relevant accounts of such farmers shall be
+
+treated as NPA. The asset classification of such accounts shall be determined with
+
+reference to the original date of NPA (as if the account had not been treated as
+
+performing in the interregnum based on the aforesaid undertaking). On such down-
+
+gradation of the accounts, additional provisions as per the extant prudential norms
+
+should also be made.
+
+8. The accounting treatment for the Debt Relief Scheme as indicated in paragraph 5
+
+of our circular dated September 3, 2009, may continue to be followed.
+
+9. All other terms of the aforesaid circulars including provisioning remain unchanged.
+
+Yours faithfully
+
+(A. K. Khound)
+
+Withdrawn
+
+Chief General Manager
+
+,,,,,- 400018
+
+: 022 - 2493 9930 - 49, a: 022 - 2497 4030 / 2492 0231, $α: rbiubdc0@rbi.org.in
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai-400 018
+
+Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 /2492 0231, Email: rbiubdc0@rbi.org.in

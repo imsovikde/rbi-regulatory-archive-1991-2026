@@ -1,0 +1,66 @@
+---
+doc_id: "Circulars_2010_DBOD_No_FID_FIC_10_01_02_00_2009-10"
+title: "Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Projects under Implementation"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FIDFIC10070410.PDF"
+pdf_sha256: "413e917a5ce58f08323d31efa2ea013ac44ccbe682f2d5ba428ddfc343921c43"
+md_sha256: "8069eb99200949673b894bc7fe338147f085461ed1e5dbef1614b84ad3950528"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:53:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-04-07_Circular_DBOD.No.FID.FIC.10-01.02.00-2009-10_Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%20and%20Provisioning%20Pertaining%20to%20Advances%20-%20Projects%20under%20Implementation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Projects under Implementation
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+April 7, 2010
+
+RBI/2009-10/383
+
+DBOD.N0.FID.FIC.10/01.02.00/2009-10
+
+The CEOs of the select All-lndia Term-lending and Refinancing Institutions
+
+(Exim Bank, NABARD, NHB and SIDBI)
+
+Dear Sir,
+
+Prudential Norms on Income Recognition, Asset Classification and
+
+Provisioning Pertaining to Advances -Projects under Implementation
+
+Please find enclosed a copy of Circular DBOD.No.BP.BC.85/21.01.048/2009-10
+
+dated March 31, 2010 on the above subject.
+
+connection, it is advised that the
+
+above guidelines issued to banks, shall /
+
+mutandis apply to the select All India
+
+Financial Institutions (AlFIs).
+
+Withdrawn
+
+Yours faithfully
+
+(Vinay Baijal)
+
+Chief General Manager
+
+Encl.: As above
+
+Department of Banking Operations and Development, Central Office,Centre 1, Cuffe Parade, Colaba,Mumbai -400005
+
+/Tel No:91-22-22189131a/FaxNo:91-22-22183785Email ID: cgmicdbodco@rbi.org.in
