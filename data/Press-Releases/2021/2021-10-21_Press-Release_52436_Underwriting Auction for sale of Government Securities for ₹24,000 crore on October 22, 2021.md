@@ -1,0 +1,57 @@
+---
+doc_id: "Press-Releases_2021_52436"
+title: "Underwriting Auction for sale of Government Securities for ₹24,000 crore on October 22, 2021"
+category: "Press-Releases"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR107175658171A0514CF9AFDFF6E353A115B4.PDF"
+pdf_sha256: "d99d29f6dab45dd373fb6abba759f7065a74cee12cccf1612a72b7905a59bb4d"
+md_sha256: "021ec72fa448cae51345251c8eb4b2411e97356f4a9195627a881fabee0973e0"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T23:17:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2021/2021-10-21_Press-Release_52436_Underwriting%20Auction%20for%20sale%20of%20Government%20Securities%20for%20%E2%82%B924%2C000%20crore%20on%20October%2022%2C%202021.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Underwriting Auction for sale of Government Securities for ₹24,000 crore on October 22, 2021
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, एस.बी.एस.मागर्, फोटर्, मुंबई-400001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, S.B.S.Marg, Fort, Mumbai-400001|
+|ई-मेल/email : helpdoc@rbi.org.in|फोन/Phone: 022- 22660502|
+
+## October 21, 2021
+
+## Underwriting Auction for sale of Government Securities for ₹24,000 crore on October 22, 2021
+
+Government of India has announced the sale (re-issue) of Government Stock detailed below through auctions to be held on October 22, 2021
+
+As per the extant scheme of underwriting notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) for the underwriting auction, applicable to each Primary Dealer (PD), are as under: (₹ crore)
+
+## Minimum Minimum bidding
+
+## Notified Underwriting commitment per
+
+## Security
+
+## Amount Commitment (MUC) PD under ACU amount per PD auction
+
+|4.26% GS 2023|2,000|48|48|
+|---|---|---|---|
+|5.63% GS 2026|6,000|143|143|
+|6.67% GS 2035|9,000|215|215|
+|6.67% GS 2050|7,000|167|167|
+
+The underwriting auction will be conducted through multiple price-based method on **October 22, 2021 (Friday)**. PDs may submit their bids for ACU auction electronically through Core Banking Solution (E-Kuber) System between **09.00**
+
+**A.M.** and **09.30 A.M.** on the date of underwriting auction. The underwriting commission will be credited to the current account of the respective PDs with RBI on the date of issue of securities.
+## Ajit Prasad
+
+**Press Release: 2021-2022/1071** Director
