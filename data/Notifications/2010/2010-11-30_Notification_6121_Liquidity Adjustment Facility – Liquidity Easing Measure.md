@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2010_6121"
+title: "Liquidity Adjustment Facility – Liquidity Easing Measure"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/LLEMS011210.pdf"
+pdf_sha256: "0e6efc5f6781e7e250e17fe775e2adefe07a8e14edde3e4d833b00244f16c276"
+md_sha256: "d1269bca94ba03efa324657f221c6992913ca261e3381e808103a1fa119e619a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:16:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-11-30_Notification_6121_Liquidity%20Adjustment%20Facility%20%E2%80%93%20Liquidity%20Easing%20Measure.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility – Liquidity Easing Measure
+
+<!-- PAGE 1 -->
+
+RBI/2010-2011/291 FMD.MOAG. No. 55/01.01.01/2010-11 November 30, 2010
+
+All Scheduled Commercial Banks (excluding RRBs) and Primary Dealers
+
+Dear Sir, <u>Liquidity Adjustment Facility – Liquidity Easing Measure</u>
+
+In continuation of our circular <u>FMD.MAOG.No.54/01.01.01/2010-11 dated November 9,</u> <u>2010</u>, it has been decided to conduct Second Liquidity Adjustment Facility (SLAF) on a daily basis at 4.15 pm up to January 28, 2011.
+
+2. All other terms and conditions of the current LAF Scheme will remain unchanged.
+3. Please acknowledge receipt.
+Yours sincerely
+
+(P Krishnamurthy) Chief General Manager

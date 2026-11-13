@@ -1,0 +1,80 @@
+---
+doc_id: "Notifications_2010_6149"
+title: "Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio (SLR)"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RALS1610L.pdf"
+pdf_sha256: "a9f329707d92a974cde95b916d29d84c4bd6b28d2e4125de7b4cbae3a8e1ac5c"
+md_sha256: "ec842bd498517be51f2a2953852b399bd139a29bc9945deec6af95c8111f0f03"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:16:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-16_Notification_6149_Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio (SLR)
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/316
+
+DBOD.Ret.BC.67/12.02.001/2010-11
+
+December 16, 2010
+
+All Scheduled Commercial Banks
+
+(excluding Regional Rural Banks)
+
+Dear Sir,
+
+Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory
+
+Liquidity Ratio (SLR).
+
+Please refer to our circular DBOD.No.Ret. BC.51/12.02.001/2009-10dated
+
+October 28, 2009 on the captioned subject.
+
+2.As announced in the Mid-Quarter Review of Monetary Policy released on
+
+December 16, 2010, it has been decided to reduce the Statutory Liquidity Ratio
+
+(SLR) for Scheduled Commercial Banks from 25 per cent of their Net Demand and
+
+Time Liabilities (NDTL) to 24 per cent with effect from December 18, 2010.
+
+dated December 16, 2010 is enclosed
+
+4. Please acknowledge receipt.
+
+Yours faithfully,
+
+(P R Ravi Mohan)
+
+Chief General Manager
+
+Encl: As above
+
+1400005
+
+Department of Banking Operations and Development,Central Office,Centre 1,CuffeParade,Colaba,Mumbai-40oo05
+
+f/TelNo:91-22-22189131a/FaxNo:91-22-22183785EmailID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+Ref. DBOD. No. Ret. BC. 66 /12.02.001/2010-11 December 16, 2010
+
+## NOTIFICATION
+
+In exercise of the powers conferred by sub-section (2A) of Section 24 of the Banking Regulation Act, 1949 (10 of 1949) as amended from time to time and, in partial modification of the Notification <u>DBOD.No.Ret. BC. 50/12.02.001/2009-10 dated</u> <u>October 28, 2009</u>, the Reserve Bank of India hereby specifies that with effect from December 18, 2010, every Scheduled Commercial Bank shall maintain in India assets as detailed in notification DBOD No Ret BC 40/12.02.001/ 2009-10 dated September 08, 2009, the value of which shall not at the close of business of any day be less than 24 per cent of the total net demand and time liabilities in India as on the last Friday of the second preceding fortnight.
+
+## (Anand Sinha) Executive Director

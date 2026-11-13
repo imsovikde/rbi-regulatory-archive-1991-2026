@@ -1,0 +1,118 @@
+---
+doc_id: "Notifications_2010_6155"
+title: "List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRN211210FL.pdf"
+pdf_sha256: "9cda0f791732094a16fb593f6947611394deface0735c9686846f60fb0313902"
+md_sha256: "5b408f1ed97c1ce59f76852376141075a861d257c18505944e2a816aa7e0bb93"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:16:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-21_Notification_6155_List%20of%20Terrorist%20Individuals-%20Organisations%20under%20UNSCR%201267%281999%29%20and%201822%282008%29%20on%20Taliban-Al-Qaida%20Organisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+
+<!-- PAGE 1 -->
+
+HrdlRd
+
+RESERVEBANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/318
+
+DBOD.AML.N0.9636/14.06.081/2010-11
+
+December 21, 2010
+
+The Chairmen / CEOs of all Scheduled Commercial Banks (Excluding RRBs)/
+
+Local Area Banks / All India Financial Institutions
+
+Dear Sir,
+
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and
+
+1822(2008) on Taliban/Al-Qaida Organisation
+
+PleaserefertoourcircularletterDBOD.AML.No.9042/14.06.080/2010-11dated
+
+December 8,2010.
+
+.We have since received from Government of India (Ministry of
+
+External Affairs) copy of following notes forwarded by the Chairman of UN Security
+
+Council's 1267 Committee regarding changes made in the Consolidated List of
+
+Individuals and entities linked to Al-Qaida and Taliban:
+
+1. Note dated December 17, 2010
+
+(Annex I)
+
+2. Note dated December 16, 2010
+
+(Annex I)
+
+3.
+
+Note dated December 1 ,2010
+
+(Annex Ill)
+
+4.
+
+Note dated November 4 ,2010
+
+(Annex IV)
+
+5.
+
+Note dated October 21,2010
+
+(Annex V)
+
+6.
+
+Note dated September 28 , 2010 (Annex Vl)
+
+7.
+
+Note dated September 13 , 2010 (Annex Vll)
+
+8. Note dated August 6 ,2010
+
+(Annex VIlI)
+
+2. Banks/All India Financial Institutions are required to update the consolidated list of
+
+individuals/entities as circulated by Reserve Bank and before opening any new
+
+account, it should be ensured that the name/s of the proposed customer does not
+
+,,13，400001
+
+Department of Banking Operations and Development, Central Office, C.O. Building, 13th Floor, Fort,
+
+Mumbai,400001
+
+fa /Tel No:022-22601000 a/Fax No:022-22701239 Email ID:cgmicdbodc0@rbi.org.in
+
+<!-- PAGE 2 -->
+
+appear in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+
+3**. Banks are advised to strictly follow the procedure laid down in the UAPA** **Order dated August 27, 2009 enclosed to our circular** <u>DBOD.AML.BC. No.</u> <u>44/14.01.001/2009-10 dated September 17, 2009</u> **and ensure meticulous** **compliance to the Order issued by the Government.**
+4. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 6 of the circular dated September 17, 2009, mentioned above.
+5. The complete details of the said consolidated list are available on the UN website:
+<u>[http://www.un.org/sc/committees/1267/consolist.shtml](http://www.un.org/sc/committees/1267/consolist.shtml)</u>
+
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular letter. Yours faithfully, (Rachna Dikshit) Deputy General Manager
+## Encl: As above

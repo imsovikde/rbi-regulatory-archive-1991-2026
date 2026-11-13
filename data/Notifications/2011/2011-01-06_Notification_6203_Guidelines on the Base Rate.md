@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2011_6203"
+title: "Guidelines on the Base Rate"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BRE060111EF.pdf"
+pdf_sha256: "10e434220e7fb7a7164fc755467cc72c5505d58350a1f8fa21f16e0d12f08d46"
+md_sha256: "7b6dc509f509e5dad51ee219d07c0f14942ced67004fb47ad7a676ada7645bb5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:16:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-01-06_Notification_6203_Guidelines%20on%20the%20Base%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on the Base Rate
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बैंक **RESERVE BANK OF INDIA** <u>www.rbi.org.in</u>
+
+RBI/2010-11/361
+
+DBOD.No.Dir.BC. 73 /13.03.00/2010-11 January 6, 2011
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir / Madam,
+
+## <u>Guidelines on the Base Rate</u>
+
+Please refer to our <u>circular DBOD.No.Dir.BC.88/13.03.00/2009-10 dated April 9,</u>
+
+<u>2010</u>.
+2. In partial modification of paragraph 2(iii) of the above mentioned circular, we advise that banks are permitted to change the benchmark and methodology used in the computation of Base Rate for a further period of six months i.e. upto June 30,
+2011. Yours faithfully, (P. R. Ravi Mohan) Chief General Manager
+
+||बैिकं ग पिरचालन|और िवकास|िवभाग, कें िीय|कायार्लय, 13 माला, शहीद||भगतिसंह|माग, र् मुम्बई|400001|
+|---|---|---|---|---|---|---|---|---|
+|_____________________________________________________________________________________________________|||||||||
+|Department of Banking Operations and Development, Central Office, 13|’½¹¥¸ûÅø›¸ /Tel No: 91-22-22601000 û¾ÅÆ¬¸/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in||िहंदी आसान|है, इसका|floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 ूयोग|बढ़ाइए|||
+
+th

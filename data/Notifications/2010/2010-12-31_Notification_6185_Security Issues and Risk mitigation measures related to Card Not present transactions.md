@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2010_6185"
+title: "Security Issues and Risk mitigation measures related to Card Not present transactions"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CSI31122010.PDF"
+pdf_sha256: "d5ee190bef493339aed65f4eaa272f58c42b08f1162b486cdcaac37b93fe12ba"
+md_sha256: "2c8f1a54324fdffd6e8c672c195f517681af0cce7f707741693144dd3f1bbbff"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:16:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-31_Notification_6185_Security%20Issues%20and%20Risk%20mitigation%20measures%20related%20to%20Card%20Not%20present%20transactions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Security Issues and Risk mitigation measures related to Card Not present transactions
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/347 DPSS.CO.No.1503/02.14.003/2010-2011 December 31, 2010
+
+To
+
+The Chairman and Managing Director/ Chief Executive Officers All scheduled Commercial Banks including RRBs/Urban Co-operative Banks/ State Co-operative Banks/District Central Co-operative Authorised card payment networks
+
+## <u>Security Issues and Risk mitigation measures related to Card Not presen</u>t <u>transactions</u>
+
+Please refer to our <u>circular RBI/DPSS/No.1501/02.14.003/2008-2009 dated February</u> <u>18, 2009</u>, wherein a directive was issued making it mandatory for banks to put in place additional authentication/validation based on information not visible on the cards for all on-line card not present (CNP) transactions except IVR transactions. This mandate was further extended to all CNP transactions including IVR transactions with effect from Superseded by CO.DPSS.POLC.No.S668/ January 01, 2011 vide our <u>02-14-015/2025-2026 dated September 25, 2025 circular RBI/2009-2010/420, DPSS No. 2303 / 02.14.003 /</u> <u>2009-2010 dated April 23, 2010</u>.
+
+2. The progress in implementing the directions has been under continuous monitoring since several stake holders are involved in implementing the service solutions. While considerable progress has been achieved in the matter, banks have been requesting to permit them to test the new system in a live scenario by providing a parallel run for a reasonable period, so as to ensure that customers are not put to inconvenience.
+
+<!-- PAGE 2 -->
+
+3. After further discussions with the stakeholders it has been decided to permit a parallel run of the new arrangement for a period of one month upto January 31, 2011. During this period IVR transactions will not be declined merely on account of non authentication of additional factor. However, all efforts will be taken by the banks to ensure that customers use the additional factor as well while transacting through the IVR mode. **However, after January 31, 2011 no IVR transactions shall be permitted unless** **such transactions comply with the additional factor authentication requirement.**
+4. We have been receiving requests from the various stakeholders that the Mail order Telephone order (MOTO) transactions which are also a subset of the Card Not present transaction may be exempted from the purview of additional factor of authentication for the present.After extensive deliberations with the stakeholders, it has been decided that
+2025 the banks and card companies shall revert to us by February 28, 2011 on the process to 25, be followed in respect of:-:
+
+September
+
+a. Recurring transactions based on standing instructions given to the merchants by the cardholders indicating the category of utility services. dated
+b. Travel and hotel industry booki CO.DPSS.POLC.No.S668/ ngs and other MOTO transactions
+by
+
+5. Please acknowledge receipt.
+Superseded 02-14-015/2025-2026 Yours faithfully
+
+G. Padmanabhan Chief General Manager

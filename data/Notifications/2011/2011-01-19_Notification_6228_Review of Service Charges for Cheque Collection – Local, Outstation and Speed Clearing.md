@@ -1,0 +1,78 @@
+---
+doc_id: "Notifications_2011_6228"
+title: "Review of Service Charges for Cheque Collection – Local, Outstation and Speed Clearing"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRSCL190111.PDF"
+pdf_sha256: "93b89b9ac5ef963596acfacdd020894c678784135fbbcb3abbe124b6e3ca4169"
+md_sha256: "a511e82ea1ff15739660a287c5506dcae6a61098a62d5b6d70ddf1aee38f50c4"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:17:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-01-19_Notification_6228_Review%20of%20Service%20Charges%20for%20Cheque%20Collection%20%E2%80%93%20Local%2C%20Outstation%20and%20Speed%20Clearing.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Service Charges for Cheque Collection – Local, Outstation and Speed Clearing
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/377 DPSS.CO.CHD.No. 1671 / 03.06.01 / 2010-11 January 19, 2011
+
+The Chairman and Managing Director / Chief Executive Officer All Scheduled Commercial Banks includin RRBs / UCBs / State Co-operative Banks / District Central Co-operative Banks
+
+Madam / Dear Sir,
+
+## <u>Review of Service Charges for Cheque Collection – Local, Outstation and Speed Clearing</u>
+
+Given the advantages of using electronic modes for initiating payments, especially for large value transactions, Reserve Bank of India has been taking concerted steps towards increasing the acceptability, reach and efficiency of electronic transactions. Paper-based instruments, however, continue to account for a significant volume of payments in the country. Reserve Bank has therefore been encouraging the use of technology and the core-banking infrastructure of the banking system for reducing the clearing cycle and movement of cheques, both local and outstation.
+
+2. In this regard, attention of banks is invited to our circulars <u>DPSS.CO.No.611 / 03.01.03(P) /</u> <u>2008-09 dated October 8, 2008</u> and DPSS.CO.No.829 / 03.01.03(SC) / 2008-09 dated November 17, 2008 in terms of which, charges for Outstation Cheque Collection as also cheques collected under the Speed Clearing arrangement were mandated by the Reserve Bank for different value bands.
+3. On a review of the developments in this regard, it has been decided to revise the charges structure. While Reserve Bank would continue to mandate charges for smaller value transactions relating to savings account customers, greater freedom is being accorded to banks to determine charges for larger value transactions, subject to such charges being levied by the banks in a fair and transparent manner. These measures are expected to hasten the migration of transactions to electronic mode.
+4. Accordingly, the following service charge structure will come into effect from **April 1, 2011**.
+(a) Service (Processing) Charges for Local Clearing (by Clearing Houses from Member Banks) –
+
+||Existing (Rs.)||Revised (Rs.)||
+|---|---|---|---|---|
+||Presenting|Drawee|Presenting|Drawee|
+||Bank|Bank|Bank|Bank|
+|Clearing at MICR-CPCs|1.00|1.00|1.00|1.50|
+|Cheque Truncation|0.50|0.50|0.50|1.00|
+
+System
+
+….2/-
+
+<!-- PAGE 2 -->
+
+(b) Service Charges for Outstation Cheque Collection –
+
+|Existing (Rs.)||Revised (Rs.)||
+|---|---|---|---|
+|Value|Service charge from all customers|Value|Service charge from Savings a/c customers|
+|Up to and including||Up to and including 5,000|25^|
+|10,000|50|Above 5,000 and up to and including 10,000|50*^|
+|Above 10,000 and up to and including 1,00,000|100|Above 10,000 and up to and including 1,00,000|100*^|
+|Above 1,00,000|150|Above 1,00,000|Left to the banks to decide|
+|* No change. customers) –|^ All inclusive maximum amount chargeable by banks to the customers.|(c) Service Charges for Cheque Collection under Speed Clearing (by Collecting Banks from||
+|Existing (Rs.)||Revised (Rs.)||
+|Value|Service charge from all customers|Value|Service charge from Savings a/c customers|
+|Up to and including 1,00,000|Nil|Up to and including 1,00,000|Nil*|
+|Above 1,00,000|150|Above 1,00,000|Left to the banks to decide|
+
+* No change.
+5. Banks are free to fix charges for collection of instruments for credit to other types of accounts.
+6. While fixing service charges not mandated herein, banks may note the following –
+(a) The service charge structure put in place by the bank should have the approval of the Board of Directors.
+(b) Charges fixed should be reasonable and computed on a cost-plus-basis and not as an arbitrary percentage of the value of the instrument. The service charges-structure should not be open ended and should clearly specify the maximum charges that would be levied on customers including charges if any, payable to other banks.
+(c) While sharing service charges, banks may be guided by the provisions of circular CIR / RB-I / CCP / 64 dated April 8, 2010 issued by the Indian Banks' Association.
+…3/-
+
+<!-- PAGE 3 -->
+
+(d) Banks may note to ensure that collection charges fixed for instruments of any value is lower under Speed Clearing vis-a-vis Outstation Cheque Collection so as to encourage the use of Speed Clearing.
+(e) The service charges mandated / fixed by banks are inclusive of all charges (postal, courier, handling, etc.) other than service tax.
+7. Banks shall use electronic modes like RTGS / NEFT to remit clearing proceeds to the collecting bank branch availing of Outstation Cheque Collection facility.
+8. These directions are issued by the Reserve Bank of India in exercise of the powers conferred by Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007). Yours faithfully, (G Padmanabhan) Chief General Manager

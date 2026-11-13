@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2010_6134"
+title: "Submission of data to Credit Information Companies"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SCIC071210.pdf"
+pdf_sha256: "fd82a807f57ab4825c9c014327642a719d5f1193705868076f76a2548723fabf"
+md_sha256: "eb1abbad5ad496c9e77e3003554a31f470d32f16a2ba221bce2d78bd78fa2ec2"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:16:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-07_Notification_6134_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Submission of data to Credit Information Companies
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/301
+
+RPCD.CO.RCB.BC.N0.33/07.40.06/2010-11
+
+December 7,2010
+
+All State and Central Co-operative Banks
+
+Dear Sir,
+
+Submission of data to Credit Information Companies
+
+Please refer to our circular
+
+RPCD.CO.RF.BC.No.17/07.40.06/2010-11dated
+
+September 6, 2010 on the captioned subject.
+
+2.It is advised that, on November 25,2010,the Reserve Bank has issued
+
+'Certificate of Registration' to High Mark Credit Information Services Private
+
+Limited to commence the business of credit information. The address of the
+
+company is as follows:
+
+High Mark Credit Information Services Pvt. Ltd.
+
+402, 4th Floor, Sheil Estate
+
+158, C.S.T.Road,
+
+Kalina, Santacruz (East)
+
+Mumbai - 400 098
+
+Telephone No: 022-6729 0800
+
+FaxNo:022-67290801
+
+3. Please acknowledge receipt to our Regional Office concerned.
+
+Yours faithfully,
+
+(B.P.Vijayendra)
+
+Chief General Manager
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, post box no.
+
+10014Mumbai-400001
