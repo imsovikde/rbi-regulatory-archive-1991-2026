@@ -1,0 +1,105 @@
+---
+doc_id: "Notifications_2012_7632"
+title: "Priority Sector Lending – Targets and Classification"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PL37171012BC.pdf"
+pdf_sha256: "de4a6ff368628a05d898e10308b43f40907d81b2f1176e93237300b1514b17b0"
+md_sha256: "9c1891b559259420f57c70d754e57ea8a76de731e21332b3e6a384c6b50343cb"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:35:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-10-17_Notification_7632_Priority%20Sector%20Lending%20%E2%80%93%20Targets%20and%20Classification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending – Targets and Classification
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+## ______________________RESERVE BANK OF INDIA _______________________
+
+www.rbi.org.in
+
+## RBI/2012-13/253
+
+RPCD. CO. Plan. BC 37 /04.09.01/ 2012-13 October 17, 2012
+
+## The Chairman/ Managing Director/
+
+## Chief Executive Officer
+
+## [All scheduled commercial banks
+
+## (excluding Regional Rural Banks)]
+
+Dear Sir,
+
+## <u>PRIORITY SECTOR LENDING –TARGETS AND CLASSIFICATION</u>
+
+Please refer to our <u>circular No.RPCD.CO.Plan. BC 13/04.09.01/ 2012-13 dated July 20, 2012</u> on the captioned subject. During the interaction Governor had with bankers on July 31, 2012 in connection with the first quarter review of <u>Monetary Policy Statement 2012-13</u>, certain concerns were raised by the banks on the revised priority sector guidelines. Accordingly, discussions were held with CMD/CEOs of select banks and also with priority sector heads of select banks. Based on the feedback received, it has been decided to make certain additions and amendments, as per the Annex, in the guidelines on priority sector issued vide circular dated July 20, 2012.
+
+The additions and amendments will be operational with effect from July 20, 2012.
+
+Yours faithfully,
+
+## (T V Rao)
+
+## Deputy General Manager
+
+मामीण आयोजना और ऋण वभाग, क िय कायालय, 10वीं मंजल, क िय कायालय भवन, शहद भगत िसंह माग, पोःट बॉ� 022- 22601000 फै � 91-22-22621011/22610943/22610948 ई-मेल : cgmincrpcd@rbi.org.in स सं. 10014, मुंबई-400 001 फोन::
+
+|Rural Planning & Credit Dept., Central Office,||स: +|10 Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014, Mumbai|||||400 001||
+|---|---|---|---|---|---|---|---|---|---|
+||Tel : +91-22-22601000||Fax : +91-22-22621011/22610943/22610948 हंद|आसान है; इसका|ूयोग बढ़ाइए|E-mail: cgmincrpcd@rbi.org.in||||
+|चेतावनी : रज़व है।Caution:यह धनRBIरखन|बक ारा मेल neverे या देनेsendsका ूःmails, SMSs or makes calls asking for personal information like bank account details,|एसएमएस|या फोन कॉल के|कसी क भी|� ���गत जानकार|जैसे बक के खाते|का � यौरा, पासवड passwords, etc. It never|आद नहं मांगी|जाती|
+|keeps or offers funds to anyone.|ताव|भीPleaseनहं करताdo notहै।|ऐसrespondे ूःतावinकाany|कसीmannerभी तरकtoे|suchसे जवाबoffers.मत ���जए।|||||
+
+Rural Planning & Credit Dept., Central Office, स: + 10 th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014, Mumbai 400 001
+
+-डाक, जरए
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## 1. Agriculture
+
+## 1.1 Direct Agriculture
+
+Bank loans to following entities would also qualify for lending to direct agriculture:-
+
+Loans to corporates including farmers' producer companies of individual farmers, partnership firms and co-operatives of farmers directly engaged in Agriculture and Allied Activities, *viz.,* dairy, fishery, animal husbandry, poultry, bee-keeping and sericulture (up to cocoon stage) up to an aggregate limit of 2 crore per borrower for the following purposes.
+
+(i) Short-term loans for raising crops, i.e. for crop loans. *This will include traditional/non-traditional plantations, horticulture and allied activities.* (ii) Medium & long-term loans for agriculture and allied activities (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm, and development loans for allied activities). (iii) Loans for pre-harvest and post-harvest activities, *viz.,* spraying, weeding, harvesting, grading and sorting. (iv) Export credit for exporting their own farm produce.
+*[Effect on July 20, 2012 circular: A new sub paragraph under Paragraph (III) (1.1) gets added]*
+
+## 1.2 Indirect Agriculture
+
+If the aggregate loan limit per borrower is more than 2 crore in respect of para 1.1 above, the entire loan should be treated as indirect finance to agriculture.
+
+*[Effect on July 20, 2012 circular: Paragraphs (III) (1.2.1) (i), (ii), (iii), (v) and (vi) would stand* *amended accordingly]*
+
+<!-- PAGE 3 -->
+
+## 2. Micro and Small Enterprises (Service Sector)
+
+Bank loans to Micro and Small Enterprises (MSE) engaged in providing or rendering of services will be eligible for classification as direct finance to MSE Sector under priority sector upto an aggregate loan limit of 2 crore per borrower/unit, provided they satisfy the investment criteria for equipment as defined under MSMED Act, 2006.
+
+*[Effect on July 20, 2012 circular: Paragraph (III) (2) (2.1.2) would stand amended accordingly]*
+
+## 3. Housing
+
+(i) Bank loans to any governmental agency for construction of dwelling units or for slum clearance and rehabilitation of slum dwellers subject to a ceiling of 10 lakh per dwelling unit. (ii) Loans sanctioned by banks for housing projects exclusively for the purpose of construction of houses only to economically weaker sections and low income groups, the total cost of which does not exceed 10 lakh per dwelling unit, will qualify for priority sector status. For the purpose of identifying the economically weaker sections and low income groups, the family income limit of 1,20,000 per annum, irrespective of location, is prescribed. *[Effect on July 20, 2012 circular: Paragraph (III) (4) (iii) & (iv) would stand amended* *accordingly]* (iii) Bank loans to Housing Finance Companies (HFCs), approved by NHB for their refinance, for on-lending for the purpose of purchase/construction/reconstruction of individual dwelling units or for slum clearance and rehabilitation of slum dwellers, subject to an aggregate loan limit of 10 lakh per borrower, provided the all inclusive interest rate charged to the ultimate borrower is not exceeding lowest lending rate of the lending bank for housing loans plus two percent per annum. (iv) The eligibility under priority sector loans to HFCs is restricted to five percent of the individual bank’s total priority sector lending, on an ongoing basis. The maturity of bank loans should be co-terminus with average maturity of loans extended by HFCs. Banks should maintain necessary borrower-wise details of the underlying portfolio. *[Effect on July 20, 2012 circular: A new sub paragraph under Paragraph (III) (4) gets added]*
+-2-
+
+<!-- PAGE 4 -->
+
+## 4. It is also clarified that:-
+
+(i) The investments in non-SLR securities, under HTM category for computation of ANBC will include only non-SLR bonds/debentures. (ii) Off-balance sheet interbank exposures are excluded for computing Credit Equivalent of Off-Balance Sheet Exposures for the priority sector targets. (iii) The term “all inclusive interest” includes interest (effective annual interest), processing fees and service charges. (iv) Banks should ensure that loans extended under priority sector are for approved purposes and the end use is continuously monitored. The banks should put in place proper internal controls and systems in this regard.
+--00--

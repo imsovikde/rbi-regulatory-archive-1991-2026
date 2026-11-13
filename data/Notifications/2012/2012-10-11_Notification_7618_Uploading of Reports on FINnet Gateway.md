@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2012_7618"
+title: "Uploading of Reports on FINnet Gateway"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE243UR111012.pdf"
+pdf_sha256: "0e142191983ecfb43effa6eb4bbe02111b79fb9af9011e291af6fdb307d2fb07"
+md_sha256: "ddf205a39133baf3dff3187ab560d80d4b12a11187f69960000675621e9d8311"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:35:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-10-11_Notification_7618_Uploading%20of%20Reports%20on%20FINnet%20Gateway.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Uploading of Reports on FINnet Gateway
+
+<!-- PAGE 1 -->
+
+RBI/2012-13/243 DBOD. AML.BC.No.49/14.01.001/2012-13 October 11, 2012
+
+## The Chairmen/CEOs of all Scheduled Commercial Banks (Excluding RRBs)/
+
+## Local Area Banks / All India Financial Institutions
+
+Dear Sir,
+
+## Uploading of Reports on FINnet Gateway
+
+Please refer to our <u>circular DBOD.AML.BC.No.39/14.01.001/2012-13 dated</u> <u>September 7, 2012</u> advising all banks/AIFIs to initiate submission of reports on the FINnet Gateway in ‘TEST MODE’ from August 31, 2012.
+
+2. FIU-IND have now advised that the ‘go-live’ date is **October 20, 2012** and that banks may discontinue submission of reports in CD format after October 20, 2012, using only FINnet gateway for uploading of reports in the new XML reporting format. Any report in CD format received after October 20, 2012 will not be treated as a valid submission by FIU-IND.
+3. All banks and financial institutions are accordingly advised to take action as required by FIU-IND and ensure that all reports are submitted in time as per the schedule.
+4. For any clarification/assistance regarding submission of reports, you may contact FIU-IND help desk at <u>email</u> or telephone numbers 011-24109792/93.
+5. Please advise your Principal Officer to acknowledge receipt of this circular. Yours faithfully, (Sudha Damodar) Chief General Manager
+बकैं किं ग परिचालन औि विकास विभाग, कें द्रीय कायाालय, कें द्रीय कायाालय भिन, 13ि िं मिंजिल, शहीद भगत ससिंह मागा, मबिंई – 400 001 <u>फोन: 022-22701223, फैक् स: 022-22701239, ईमेल-: cgmicdbodco@rbi.org.in, िेबसाइट: www.rbi.org.in</u> Department of Banking Operations & Development, Central Office, Central Office Building, 13thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22701223, Fax : 022-22701239, E-mail : <u>cgmicdbodco@rbi.org.in</u>, Website : www.rbi.org.in "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
