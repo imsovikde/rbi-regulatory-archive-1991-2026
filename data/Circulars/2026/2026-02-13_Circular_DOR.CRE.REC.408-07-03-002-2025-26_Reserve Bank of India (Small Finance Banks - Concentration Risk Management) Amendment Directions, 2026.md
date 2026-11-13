@@ -1,0 +1,171 @@
+---
+doc_id: "Circulars_2026_DOR_CRE_REC_408_07-03-002_2025-26"
+title: "Reserve Bank of India (Small Finance Banks - Concentration Risk Management) Amendment Directions, 2026"
+category: "Circulars"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT217A60920AA891D44959A75319D472A609A.PDF"
+pdf_sha256: "ee5ee405db2cd92249a9e393582c2bf7fc00d7079ee0064ff7198b20a77ae6a0"
+md_sha256: "d424e184d066537f6cd37b75cf42effc5654f42e16cfccc9d4e42d83e4a6712a"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:59:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-02-13_Circular_DOR.CRE.REC.408-07-03-002-2025-26_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20-%20Concentration%20Risk%20Management%29%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Small Finance Banks - Concentration Risk Management) Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2025-26/217 DOR.CRE.REC.408/07-03-002/2025-26 February 13, 2026
+
+### Reserve Bank of India (Small Finance Banks-Concentration Risk Management) Amendment Directions, 2026
+
+Please refer to the <u>Reserve Bank of India (Small Finance Banks-Concentration Risk</u> <u>Management) Directions, 2025</u> (hereinafter referred to as ‘the **Directions’**).
+
+2. On a review, consequent to the issuance of the <u>Reserve Bank of India (Small</u> <u>Finance Banks – Credit Facilities) Amendment Directions, 2026</u> and in exercise of the powers conferred by the sections 21 and 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank of India (hereinafter called the Reserve Bank) in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The mendment A Directions modify the Directions as under:
+# Withdrawn
+
+3(1)(i) In paragraph 4 of ‘Chapter I-Preliminary’ of the Directions, the following sub- paragraphs shall be inserted: (3A) “**Capital Market Intermediaries (CMIs)**” shall have the same meaning as defined in the <u>Reserve Bank of India (Small Finance Banks – Credit Facilities)</u> <u>Directions, 2025</u> (3B) **“Collateral Security” or ‘Collateral’** shall have the same meaning as defined in the <u>Reserve Bank of India (Small Finance Banks – Credit Facilities)</u> <u>Directions, 2025</u> (8A) **“Non-debt Mutual Funds”** shall mean mutual fund schemes corpus of which are not exclusively invested in debt securities.
+
+व�नयमन वभाग, कें द्रय कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+(8B) **“Primary Security”** shall have the same meaning as defined in the <u>Reserve ank of India (Small Finance Banks B – Credit Facilities) Directions,</u> <u>2025</u> 3(1)(ii) Paragraph 3(7) shall be deleted.
+
+3(2) In ‘Chapter II – Role of the Board’ of the Directions, sub-subparagraph 6(1)(iv) shall be substituted with the following: “Policy for fixing intra-day exposure limits to the capital markets within the prudential limits prescribed in these Directions for a bank’s aggregate capital market exposures (CME).”
+
+3(3) In ‘Chapter IV – Exposure Norms’ of the Directions, the following modifications shall be effected:
+
+## 3(3)(i) Paragraph 28 shall be deleted.
+
+3(3)(ii) After paragraph 28, a new paragraph 28A shall be inserted as under:
+
+“28A. CME of a bank shall include both its direct exposures and indirect exposures (both fund-based and non-fund-based), including the following:
+
+# Withdrawn
+
+**(1) Investment Exposures:** direct investment in equity and preference shares; convertible bonds; convertible debentures; units of non-debt mutual fund schemes; units of REITs and InvITs and units of Alternative Investment Funds (AIFs).
+**(2) Credit Exposures:**
+(i) Advances to individuals for investment in shares (including IPOs / FPOs / ESOPs), convertible bonds, convertible debentures, and units of non-debt mutual fund schemes; (ii) advances for any other purposes where shares or convertible bonds or convertible debentures or units of non-debt mutual fund schemes are taken as primary security; (iii) advances for any other purposes to the extent secured by collateral of shares, convertible bonds, convertible debentures or units of non-
+
+<!-- PAGE 3 -->
+
+debt mutual fund schemes where the advances are extended on the principal strength of such collateral.
+
+(iv) all credit facilities to CMIs in terms of <u>Reserve Bank of India (Small</u> <u>Finance Banks – Credit Facilities) Directions, 2025</u>;
+
+(v) financing to non-debt mutual fund schemes; (vi) loans sanctioned by a bank for financing the acquisition of the promoters’ shares in an existing company, engaged in implementing or operating an infrastructure project in India in terms of <u>Reserve</u> <u>Bank of India (Small Finance Banks – Credit Facilities) Directions,</u> <u>2025</u>; (vii) underwriting commitments taken up by the banks in respect of primary issue of shares or convertible bonds or convertible debentures or units of non-debt mutual fund schemes; (viii) Irrevocable Payment Commitments (IPCs) issued by custodian banks on behalf of its clients in favour of clearing corporations of stock exchanges; (ix) trade exposures of a bank, which is acting as a clearing member in
+# Withdrawn
+
+equity derivative and commodity derivative transactions, to its client, including funded initial margins placed on behalf of clients, where permissible.”
+
+3(3)(iii) Sub-section titles B.1.4.2.2.1 and B.1.4.2.2.2 and paragraphs 30 and 31 shall be deleted.
+
+3(3)(iv) After Paragraph 31, a new paragraph 31A shall be inserted, as under:
+
+“31A. Aggregate CME of a bank shall be subject to the following prudential ceilings (‘**CME ceilings’**), subject to the exclusions and qualifications as specified in subsequent paragraphs, to be maintained on an ongoing basis:
+
+(1) The aggregate CME of a bank, on both solo and consolidated basis, shall not exceed 40 per cent of its Tier 1 capital.
+
+<!-- PAGE 4 -->
+
+(2) A bank’s direct capital market exposure, consisting of investment exposures as per paragraph 28A(1) shall not exceed 20 per cent of eligible capital base on both solo and consolidated basis
+(3) Within its aggregate CME limit, a bank shall have a separate sub-limit for intra-day exposures to a single counterparty, as well as an aggregate limit for all intra-day exposure.”
+3(3)(v) Paragraph 32 shall be partially modified as under:
+
+“32. The above-mentioned ceilings (as prescribed in paragraph<s>s</s> 31A are the maximum permissible and a bank is free to adopt a lower ceiling, keeping in view its overall risk profile and corporate strategy. A bank shall adhere to the ceilings on an ongoing basis.”
+
+3(3)(vi) Paragraph 33 shall be partially modified as under:
+
+“33. The acquisition of shares due to conversion of debt into equity during a restructuring process in terms of the <u>Reserve Bank of India (Small Finance</u> <u>Banks – Resolution of Stressed Assets) Directions, 2025</u>, or as a part of corporate insolvency resolution process under the Insolvency and Bankruptcy Code, 2016, will be exempted from regulatory ceilings /Withdrawnrestrictions on Capital
+Market Exposures…....Nonetheless, banks shall comply with the provisions of
+Section 19(2) of the Banking Regulation Act, 1949.”
+
+## 3(3)(vii) Paragraph 34 shall be deleted.
+
+3(3)(viii) After paragraph 34, a new paragraph 34A shall be inserted as under:
+
+“34A. The following exposures of a bank shall be excluded from the CME ceilings:
+
+(1) Investment in joint ventures;
+(2) investments in shares, convertible debentures and convertible bonds issued by institutions forming critical financial infrastructure as enumerated in **Annex I;**
+
+<!-- PAGE 5 -->
+
+*Provided that* after listing, any additional exposures taken in the entities covered in (1) and (2) shall form part of the CME.
+
+(3) investment in Additional Tier I and Tier II debt instruments issued by other banks and All India Financial Institutions regulated by RBI;
+(4) investment in Certificate of Deposits (CDs) of other banks;
+(5) investment in, and loan against, preference shares without voting rights;
+(6) a bank’s own underwriting commitments in respect of issuance of shares or convertible bonds or convertible debentures or units of non-debt equity mutual fund schemes, through the book running process up to 70 per cent of the credit equivalent amount;
+(7) promoters shares in the SPV of an infrastructure project on which security charge is created in favour of the lending bank for infrastructure project lending;
+(8) exposure to brokers other than in the commodity and equity segments;
+(9) exposure to CMIs for market making predominantly in debt instruments.”
+3(3)(ix) Sections B.1.4.5 and B.1.4.6 and paragraphs 35 through 40 shall stand deleted.
+
+# Withdrawn
+
+3(3)(x) After paragraph 40, new paragraphs 40A and 40B shall be inserted as under:
+
+“40A. For the purpose of CME, the value of various exposures shall be computed as under:
+
+(1) Direct investment shall be calculated at its cost price;
+(2) Credit exposures, both fund based and non-fund based, shall be reckoned for CME with reference to sanctioned limits or outstanding, whichever is higher. However, in the case of fully drawn term loans, where there is no scope for re-drawal of any portion of the sanctioned limit, banks may reckon the outstanding as the exposure. *Provided that* a bank’s exposures arising from intraday limits for timing mismatches in settlement of client trades cleared and settled through a
+
+<!-- PAGE 6 -->
+
+central counterparty, and where the receivables are from a Qualified Central Counterparty (QCCP) shall be calculated at 30 per cent of the sanctioned limit for the purpose of CME. However, outstanding, if any, at the end of day shall be fully reckoned as CME.
+
+(3) Exposure in respect of equity and commodity derivatives shall be calculated as per the <u>Reserve Bank of India (Small Finance Banks –</u> <u>Prudential Norms on Capital Adequacy) Directions, 2025</u>.
+(4) Exposures in respect of IPCs issued shall be included for the purpose of CME as under:
+(i) Intraday exposures under T+1 settlement cycle - 30 per cent of the net settlement obligation; (ii) overnight IPC exposure under T+2 settlement cycle - 50 per cent of the net settlement obligation; *Explanation 1:* Net settlement obligation shall be calculated as the sum of all purchase obligations (pay-in of funds) less the sum of all sale obligations (pay-out of funds) for a specific client within the same settlement cycle. *Explanation 2:* The above
+# Withdrawn
+
+netting treatment shall be only permitted where both the buy and sell transactions are cleared through the same Clearing Corporation; and the bank maintains an absolute and irrevocable lien over the payout securities resulting from the buy-side of the netting set until the client has fulfilled its funding obligations.
+
+40B. The exposure computed as per paragraph 40A above may be offset by cash and Governments securities, subject to haircuts as prescribed in paragraph 149 of the <u>Reserve Bank of India (Small Finance Banks -</u> <u>Prudential Norms on Capital Adequacy) Directions, 2025</u>, for arriving at the CME.”
+
+3(3)(x ection i) S C and paragraph 42 shall be deleted.
+
+3(3)(xii) Annex I shall be substituted with the following:
+
+<!-- PAGE 7 -->
+
+## List of Critical Financial Infrastructure Exempted from CME
+
+1. IFCI Ltd.,
+2. Tourism Finance Corporation of India Ltd. (TFCI),
+3. IFCI Venture Capital Funds Ltd. (IFCI Venture),
+4. Technology Development and Information Company of India Ltd. (TDICI),
+5. National Housing Bank (NHB),
+6. Small Industries Development Bank of India (SIDBI),
+7. National Bank for Agriculture and Rural Development (NABARD),
+8. Export Import Bank of India (EXIM Bank),
+9. Life Insurance Corporation of India (LIC),
+10. General Insurance Corporation of India (GIC),
+11. National Securities Depository Ltd. (NSDL),
+12. Central Depository Services (India) Ltd. (CDSL),
+13. NSE Clearing Limited (National Clearing),
+14. National Stock Exchange (NSE),
+15. Clearing Corporation of India Ltd., (CCIL),
+# Withdrawn
+
+16. A credit information company which has obtained Certificate of Registration from RBI and of which the bank is a member,
+17. Multi Commodity Exchange of India Ltd. (MCX),
+18. National Commodity and Derivatives Exchange Ltd. (NCDEX),
+19. Indian Commodity Exchange Limited (ICEX),
+20. National Commodities Management Services Ltd. (NCML),
+21. National Payments Corporation of India (NPCI), and
+22. Bombay Stock Exchange (BSE)”
+4. The above amendments shall come into force from the date a bank decides to implement the provisions of the <u>Reserve Bank of India (Small Finance Banks – Credit</u> <u>Facilities) Amendment Directions, 2026</u>rom or f April 1, 2026, whichever is earlier. (Vaibhav Chaturvedi) Chief General Manager
