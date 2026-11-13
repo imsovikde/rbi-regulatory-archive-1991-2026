@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2013_UBD_BPD_AD_Cir_No_3_13_05_000_2013-14"
+title: "Interest Rates on Rupee Export Credit - UCBs"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/CBP020913FS.PDF"
+pdf_sha256: "dbde47765f4c56d3ad93ff0e0dfe42ae79a1aba075d7d3454ca5f0b0bc0e8418"
+md_sha256: "def6ecb90bc15496157b4b40fe6f9a2f5328fb3026647e825ee8d1494af908a6"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:05:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-08-30_Circular_UBD.BPD.%28AD%29.Cir.No.3-13.05.000-2013-14_Interest%20Rates%20on%20Rupee%20Export%20Credit%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Rupee Export Credit - UCBs
+
+<!-- PAGE 1 -->
+
+|RBI/2013-14/207 Dear Sir/ Madam 22, 2013 Yours faithfully (A.K. Bera) Encl: as above|Chief Executive Officer Please refer to our|(holding AD Category I licence) 2012-13 dated June 4, 2013 Principal Chief General Manager फोन: 022 -|UBD.BPD.(AD) Cir. No.3/13.05.000/2013-14 Scheduled Primary (Urban) Co-operative Banks 2013 issued in this regard is enclosed. 2/13.05.000/2012-13 dated January 22, 2013 and|शहरी बैंक विभाग,कें द्रीय कायाालय, गारमेंट हाऊस, 2493 9930 - 49; फै क्स: 022 -|the exisiting sectors from 2 % to 3 % with effect from August 1, 2013 बैंक हहन्दी में|भारतीय ररज़र्व बक _____________________RESERVE BANK OF INDIA___________________ www.rbi.org.in Interest Rates on Rupee Export Credit-UCBs 31, 2014 on pre and post shipment rupee export credit to specified export sectors. 2. The Government of India has decided to increase the rate of interest subvention on 3. A directive No. UBD. BPD.Dir.(Exp) No. 2 / 13.05.000/ 2013-14 dated August 26, 4. All other terms and conditions mentioned in our circulars UBD.BPD.(AD).Cir. No. Withdrawn remain unchanged. Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in पत्राचार का|ैं circular UBD.BPD.(AD).Cir. No. 2/13.05.000/2012-13 dated January on the captioned subject, extending the interest subvention of 2% up to March पहली मंज़िल, डॉ ए बी रोड, िरली, मंबई- 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in स्िागत करता है —|August 30, 2013 UBD.BPD.(AD).Cir. No. 4/ 13.05.000/ 400018 भारत|
+|---|---|---|---|---|---|---|---|---|
+||चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक,|||||आहद नहीं मााँगा जाता है। यह धन रखने या देने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|एसएमएस या फोन कॉल के जररये कोई भी व्यज़क्तगत जानकारी जैसे बैंक खाते का ब्यौरा,|पासिडा|
+
+<!-- PAGE 2 -->
+
+# भारतीय ररज़र्व बकैं
+
+## _____________________RESERVE BANK OF INDIA___________________ <u>www.rbi.org.in</u>
+
+## UBD.BPD.Dir. (Exp). No.2/13.05.000/2013-14 August 26, 2013
+
+## <u>Interest Rates on Rupee Export Credit-UCBs</u>
+
+In exercise of powers conferred by Section 21 and 35 A of the Banking Regulation Act, 1949 read with Section 56, and in partial modification of its <u>Directive UBD.BPD. Dir.</u> <u>(Exp). No. 9/ 13.05.000/ 2012-13 dated January 21, 2013</u>, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that, the rate of interest subvention on the existing sectors under the Interest Subvention Scheme on Rupee Export Credit is increased from 2 % to 3 % with effect from August 1, 2013.
+
+(S. Karuppasamy)Withdrawn Executive Director
+
+शहरी बैंक विभाग,कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ ए बी रोड, िरली, मंबई-400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बैंक हहन्दी में पत्राचार का स्िागत करता है —</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररये कोई भी व्यज़क्तगत जानकारी जैसे बैंक खाते का ब्यौरा, पासिडा आहद नहीं मााँगा जाता है। यह धन रखने या देने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

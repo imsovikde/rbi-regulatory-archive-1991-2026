@@ -1,0 +1,60 @@
+---
+doc_id: "Circulars_2013_RPCD_RCB_BC_No_26_07_51_014_2013-14"
+title: "Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/RPCDNRE230813.PDF"
+pdf_sha256: "3d8cea674550ebf8b8ace5f548d39c16f0434396a1a3a65db5a8c2668b1c2493"
+md_sha256: "01a1d76c1b9860a47c1df31da5e55358545c18c8a423c94ade11d003b7649253"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:05:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-08-22_Circular_RPCD.RCB.BC.No.26-07.51.014-2013-14_Deregulation%20of%20Interest%20Rates%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/197 RPCD.RCB.BC.No. 26 /07.51.014/2013-14 August 22, 2013
+
+## All State and Central Co-operative Banks
+
+Dear Sir / Madam,
+
+## <u>Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits</u>
+
+Please refer to our circular <u>RPCD.CO.RCB.Dir.BC.No.49/07.38.01/2011-12 dated</u> <u>December 28, 2011</u> on Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits and Ordinary Non- Resident (NRO) Accounts.
+
+2. In terms of para 2 ibid, interest rates offered by banks on NRE deposits cannot be higher than those offered by them on comparable domestic rupee deposits. However, in order to pass on the benefit of exemption provided on incremental NRE deposits with maturity of 3 years and above from CRR/ SLR requirements, it has been decided to give State / Central Co-operative Banks the freedom to offer interest rates on such deposits
+# Withdrawn
+
+without any ceiling. The extant ceiling on NRO Accounts shall continue.
+
+3. All other instructions in this regard, as amended from time to time, will remain unchanged.
+4. These instructions will be valid up to November 30, 2013, subject to review.
+5. An amending directive RPCD.RCB.No.Dir.BC.25/07.51.014/2013-14 dated August 22, 2013 is enclosed. Yours faithfully, (A. Udgata) Principal Chief General Manager
+ामीण आयोजना और ऋण िवभाग,कीय कायार्लय, 10व मंिज़ल, कीय कायार्लय भवन,शहीद भगत िसह मागर्.पो.बा.सं.10014, मुंबई 400 001 टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22610948 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department,Central Office, 10th Floor, Central Office Building, S. B. S. Marg,P. Box No.10014, Mumbai 400001 <u>िहदी आसान ह, इसका योग बढ़ाइए</u> ै
+
+|े चतावनी:|बक ारा ई-मेल, डाक,|एसएमएस|या फोन कॉल|के जरए कसी क|भी �यगत जानकार|जैसे बक के|खाते का �यौरा, पासवड|
+|---|---|---|---|---|---|---|---|
+|नहं मांगी जाती Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन|रखने या देने का|ूःताव भी नहं करता|है। ऐसे ूःताव का|कसी भी|से जवाब मत|दजए।|
+
+ेचतावनी: रज़व बक ारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी �यगत जानकार जैसे बक के खाते का �यौरा**,** पासवड आद तरके
+
+<!-- PAGE 2 -->
+
+## RPCD.RCB.BC.Dir.No. 25 /07.51.014/2013-14 August 22, 2013
+
+## Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies), and in modification of the directive <u>RPCD.CO.RCB.Dir.BC.No.48/07.38.01/2011-12 dated December 28, 2011</u> on Deregulation of Interest Rates on Non-Resident (External) (NRE) Deposits and Ordinary Non-Resident (NRO) Accounts, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that State / Central Co-operative Banks are free to offer interest rates without any ceiling on NRE deposits with maturity of 3 years and above. The extant ceiling on NRO Accounts shall continue. These instructions will be valid up to November 30, 2013, subject to review.
+
+## (Dr. (Smt.) Deepali Pant Joshi)
+
+# Withdrawn
+
+Executive Director

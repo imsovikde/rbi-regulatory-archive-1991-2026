@@ -1,0 +1,78 @@
+---
+doc_id: "Circulars_2013_RBI_2013-2014_202_UBD_CO_BPD_PCB_Cir_No_4_16_74_000_2013-14"
+title: "Compliance with Credit Information Companies (Regulation) Act, 2005"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/COM270813CIRM.pdf"
+pdf_sha256: "f3375b7686d18c9b3b8a5ca1d7c8b479752922965b6739612cb1ae0bffa044df"
+md_sha256: "76e36b696b07e43a4145e7e9afc96fbee7ccd3fe727662e3d21268a349c87bfd"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T10:05:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-08-27_Circular_RBI-2013-2014-202%20UBD%20CO%20BPD%20PCB%20Cir.No.4-16.74.000-2013-14_Compliance%20with%20Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Compliance with Credit Information Companies (Regulation) Act, 2005
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2013-14/202
+
+UBDCOBPDPCBCir.No.4/16.74.000/2013-14
+
+August 27, 2013
+
+TheChiefExecutiveOfficer
+
+AllPrimaryUrbanCo-operativeBanks
+
+Dear Sir / Madam,
+
+Compliance with Credit Information Companies (Regulation) Act, 2005
+
+Please refer to circularUBDBPD (PCB) Cir.No.25/09.11.200/2009-10 dated
+
+the Credit Information Companies (Regulation) Act, 2005, they are required to
+
+take membership of at least one Credit Information Company (CiC), provide
+
+2.
+
+It has, however, come to our notice that a large number of UcBs are
+
+yet to become members of any CiC as required under the Credit Information
+
+Companies (Regulation) Act, 2005. In view of this, UCBs are once again
+
+advised to ensure that they become member of a CiC, as required in terms of
+
+3.
+
+Please acknowledge receipt of this circular to the Regional Office
+
+concerned.
+
+Yours faithfully,
+
+(P.K. Arora)
+
+General Manager
+
+4018
+
+: 022 - 2493 9930 - 49; baH: 022 - 2497 4030 / 2492 0231;$-ag: cgmincubd@rbi.org.in
+
+Urban BanksDepartment,Central Office,Garment House,1Floor,Dr.Annie Besant Road,Worli,
+
+Mumbai-400018,India
+
+Phone:022-24939930-49;Fax:022-24974030/24920231;E-mail:cgmincubd@rbi.org.in
+
+Caution:RBl never sends mails, SMSs or makes calls asking for personal information like bank account details,passwords,etc.It never
