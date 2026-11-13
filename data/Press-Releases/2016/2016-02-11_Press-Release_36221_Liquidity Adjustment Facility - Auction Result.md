@@ -1,0 +1,41 @@
+---
+doc_id: "Press-Releases_2016_36221"
+title: "Liquidity Adjustment Facility : Auction Result"
+category: "Press-Releases"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1904ACD4F0557C3F4CE9AD6A443831FA713B.PDF"
+pdf_sha256: "0124dce6c65ee4195444fcb5a68d84f89117a85d36d4f7e5e765d98ddd47077b"
+md_sha256: "83051e1ddcab5dac6529e62b0130429e02480bfdd4ecfe0d7ad8992704e4914e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T19:02:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2016/2016-02-11_Press-Release_36221_Liquidity%20Adjustment%20Facility%20-%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility : Auction Result
+
+<!-- PAGE 1 -->
+
+||प्रेस प्रकाशनी|PRESS RELEASE|
+|---|---|---|
+|||भारतीय �रज़वर् बक|
+|संचार वभाग, कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई|- 400001|RESERVE BANK OF INDIA|
+|_____________________________________________________________________________________________________________________|0 वेबसाइट|: www.rbi.org.in/hindi|
+|DEPARTMENT OF COMMUNICATION|, Central Office, S.B.S.Marg, Mumbai-400001|Website : www.rbi.org.in|
+|फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358|इ-मेल email|: helpdoc@rbi.org.in|
+
+February 11, 2016 **Liquidity Adjustment Facility : Auction Result** The result of the RBI Repo auction held today is as under: Amount (face value in ` Billion) **Item Overnight Repo Auction** **(Purchase of securities by RBI)**
+
+**6.75% Fixed Rate**
+## 1. Bids received
+
+(i) Number 48 (ii) Amount 212.41
+## 2. Bids accepted
+
+(i) Number 48 (ii) Amount 212.41
+## Ajit Prasad
+
+**Press Release: 2015-2016/1904** Assistant Adviser
