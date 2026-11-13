@@ -1,0 +1,219 @@
+---
+doc_id: "Press-Releases_1998_125"
+title: "SELECTED BANKING INDICATORS 1947-1997 - TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997 (Part 2 of 2)"
+category: "Press-Releases"
+year: 1998
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/3366.pdf"
+pdf_sha256: "c2c639ee9ef0a7edb207eddf36c3d0bde6e5cfd8aa730f44d085c2d0c3f1ac14"
+md_sha256: "0297192fa45678add1c9aa5b7eb356e4c9e6ec9ee6860c460cd78ecb144b1555"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:51:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-12_Press-Release_125_SELECTED%20BANKING%20INDICATORS%201947-1997%20-%20TABLE%202-%20LIABILITIES%20AND%20ASSETS%20OF%20COMMERCIAL%20BANKS%20IN%20INDIA%20-%201947-1997%20%28Part%202%20of%202%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# SELECTED BANKING INDICATORS 1947-1997 - TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997 (Part 2 of 2)
+
+<!-- PAGE 1 -->
+
+**TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997**
+
+<u>(Amount in Rs. lakh)</u> As on 31st December
+
+|Year|1975|1976|1977|1978|1979|1980|1981|
+|---|---|---|---|---|---|---|---|
+|11. Cash|169774|201632|295206|401181|550000|653658|797257|
+|(i) In hand and with RBI and SBI|132197|153147|241591|310882|449832|481664|586517|
+|(ii) Balances with other banks|17219|26464|27227|52770|56277|92612|108173|
+|(iii) Balances with other banks in savings and fixed deposit accounts|20358|22021|26388|37529|43891|79382|102567|
+|12. Money at call and short notice|24808|27115|47224|39057|53539|67884|80611|
+|13. Investments|459993|570954|702477|874392|1058480|1266427|1489312|
+|(i) Securities of Central and|444474|548905|673862|844337|1022153|1224570|1445160|
+|State||||||||
+|Governments and Trustee||||||||
+|Securities||||||||
+|(ii) Shares|2809|3188|3584|4383|4387|4617|4638|
+|(iii) Debentures and bonds|8384|12761|16606|17083|21585|23899|25035|
+|(iv) Others @|4326|6100|8425|8589|10355|13341|14479|
+|14. Advances|1061672 1380077 1581330|||1947647|2285078|2726732|3405415|
+|(i) Loans & advances, Cash|856655 1152564 1318621|||1614825|1909096|2294059|2896761|
+|Credit||||||||
+|and overdrafts||||||||
+|(ii) Bills purchased and discounted|205017|227513|262709|332822|375982|432673|508654|
+|15. Fixed Assets|15759|18153|20701|23114|26167|30080|36811|
+|16. Other Assets|44708|62764|88601|146680|169312|213436|238215|
+|17. Loss|11 2011985 2512816 3146830|14|80|104 3987717|128 4856293|200 5823323|497 7110821|
+
+Notes: 1.
+
+**Assets**
+
+**Total Assets** @ including gold
+
+2. Total assets are inclusive of contra items.
+3. See item-wise explanation of the table
+
+<!-- PAGE 2 -->
+
+**TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997**
+
+## (Contd.)
+
+<u>(Amount in Rs. lakh)</u> As on 31st December
+
+|Year|1982|1983|1984|1985|1986|1987|As on|
+|---|---|---|---|---|---|---|---|
+||||||||31-3-|
+||||||||1989|
+|No. of reporting banks|205|231|256|270|276|277|277|
+|1. Capital|18837|17403|18390|65080|106173|126606|169335|
+|2. Reserve fund & other reserves 3. Deposits and other accounts|65059 6191603 7365609|80777|91172 8695376 1032134112248194 1412829317349211|120910|135189|186765|203514|
+|(i) Fixed|3310635 3982334||4671682|5700319|6841151|811088610095743||
+|(ii) Savings|1535996 1813105||2222375|2514218|2917923|3405207|3880616|
+|(iii) Current & contingency accounts|1326518 1568275||1798292|2099396|2477169|2574996|3349140|
+|(iv) Others|18454|1895|3027|7408|11951|37204|23712|
+|4. Borrowings from other banks, agents, etc.|499513|595418|777508|869684|920638|1317729|1935786|
+|5. Bills Payable|158743|168148|213294|245561|294600|289654|549949|
+|6. Bills for collection being bills receivable per contra|523560|560232|559318|641135|811351|763949|1168050|
+|7. Other liabilities|209782|257028|340793|451660|413135|702124|1025694|
+|8. Acceptances, endorsements and other obligations per contra|754240|657226|864702|954671|1093867|1278837|2281213|
+|9. Profit carried to next year's account|2661|3367|3795|5198|10950|14317|17552|
+|10. Total liabilities|8423998||9705208|11564348||1367524016034097|1880827424700304|
+
+**Liabilities**
+
+Note: 1. See item-wise explanation of the
+
+table
+
+2. The data presented as on 31st March 1989 relate to the period of 15 months, from January 1987 to March 1989
+
+<!-- PAGE 3 -->
+
+due to change in financial year from January-December to April-March.
+
+<!-- PAGE 4 -->
+
+**TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997**
+
+## (Contd.)
+
+<u>(Amount in Rs. lakh)</u> As on 31st December
+
+|Year|1982|1983|1984|1985|1986|1987|As on|
+|---|---|---|---|---|---|---|---|
+||||||||31-3-|
+||||||||1989|
+|11. Cash|918861 1035497||1465788|1805270|1946046|2342399|3233728|
+|(i) In hand and with RBI and SBI|717480|795711|1139689|1345405|1607692|2012710|2785302|
+|(ii) Balances with other banks|111020|150781|208911|302573|152079|171208|251174|
+|(iii) Balances with other banks in savings and fixed deposit accounts|90361|89005|117188|157292|186275|158481|197252|
+|12. Money at call and short notice|129180|183127|181943|335447|301093|399484|350529|
+|13. Investments|1717601 2177307||2449377|3033780|3883866|4739966|5754854|
+|(i) Securities of Central and|1666546 2112054||2359583|2943101|3738607|4437427|5358411|
+|State||||||||
+|Governments and Trustee||||||||
+|Securities||||||||
+|(ii) Shares|9715|10145|12427|5046|5051|9394|14526|
+|(iii) Debentures and bonds|26219|32968|34967|39401|74374|179986|257601|
+|(iv) Others @|15121|22140|42400|46232|65834|113159|124316|
+|14. Advances|4009729 4618015||5525781|6235537|7167179|814048210632744||
+|(i) Loans & advances, Cash|3461344 4049764||4861235|5564494|6385204|7292045|9442671|
+|Credit||||||||
+|and overdrafts||||||||
+|(ii) Bills purchased and discounted|548385|568251|664546|671043|781975|848437|1190073|
+|15. Fixed Assets|45189|54768|66528|76171|89538|100328|125566|
+|16. Other Assets|324690|417222|447003|587144|731760|1029480|1134398|
+|17. Loss|948|1814|3908|6085|9397|13349|19222|
+|Total Assets||8423998|9705208|11564348||1367524016034097|1880827424700304|
+
+**Assets**
+
+Notes: 1. @ including gold.
+
+2. Total assets are inclusive of contra items.
+
+<!-- PAGE 5 -->
+
+3. See item-wise explanation of the table
+s
+
+<!-- PAGE 6 -->
+
+**TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997 (Concld.)**
+
+<u>(Amount in Rs. lakh)</u> As on 31st March Year 1990 1991 1992 1993 1994 1995 1996 1997
+
+|Year|1990|1991|1992|1993|1994|1995|1996|1997|
+|---|---|---|---|---|---|---|---|---|
+|No. of reporting banks|274|274|275|275|274|282|288|296|
+|Liabilities|||||||||
+|1. Capital|207368|330929|422493|490747|1222270|1731265|1798312|1721875|
+|2. Reserve fund & other reserves|263612|347931|451105|684401|887990|1224292|1772521|2455669|
+|3. Deposits and other accounts|18204686|21110891|24959833|28992265|34018778|39843520|45064807|53634247|
+|(i) Fixed|10479929|12331850|14354623|17962287|20799678|23861110|27737387|34152369|
+|(ii) Savings|4597653|5216159|5898223|6094829|7402207|9131819|10280605|11046798|
+|(iii) Current|3127104|3562882|4706987|4935149|5816893|6850591|7046815|8435080|
+|4. Borrowings from other banks, agents, etc.|1386749|2065114|1637069|2211400|1158601|1929467|3361783|2184795|
+|5. Bills Payable|386569|372925|666049|640999|994990|1166228|994955|1551534|
+|6. Other liabilities|5442486|6287848|7005567|4230850|5702414|6428485|7376771|8395374|
+|7. Branch Adjustments|352509|513469|717633|630807|641030|490991|532170|623997|
+|8. Profit carried to next year's account|125322|167341|236852|176325|265292|333638|472546|644585|
+|9. Total liabilities|26369301|31196448|36096601|38057794|44891365|53147886|61373865|71212076|
+
+Note: See item-wise explanation of the tables.
+
+<!-- PAGE 7 -->
+
+**TABLE 2: LIABILITIES AND ASSETS OF COMMERCIAL BANKS IN INDIA - 1947-1997 (Concld.)**
+
+|(Amount in Rs. lakh)|||
+|---|---|---|
+|1995|1996|1997|
+|6660672|7681249|6700267|
+|303104|360643|441695|
+|5960517|6867558|5740447|
+|397051|453048|518125|
+|536022|855061|975435|
+|17502069|19135819|23116715|
+|14803309|16316643|19019769|
+|1321428|1390233|1945452|
+|1377332|1428943|2151494|
+|22433086|26636415|29310497|
+|19919334|23635057|26509905|
+|2513752|3001358|2800592|
+|601036|810679|967569|
+|380616|548235|2265892|
+|5018926|5549962|7466837|
+|15459|156445|408864|
+|53147886|61373865|71212076|
+
+As on 31st March Year 1990 1991 1992 1993 1994
+
+|Year|1990|1991|1992|1993|1994|
+|---|---|---|---|---|---|
+|Assets||||||
+|10. Cash|3197053|3451035|3858969|4359194|5228421|
+|(i) In hand|185814|226578|251464|284590|272170|
+|(ii) Balances with Reserve|2788994|2973638|3279307|3710644|4631687|
+|Bank of India||||||
+|(iii) Balances with other banks in India in current account|222245|250819|328198|363960|324564|
+|11. Money at call and short notice|320160|321689|444048|579677|488058|
+|12. Investments|6871519|7976609|9956497|11796067|15421299|
+|(i) Securities of Central and State Government and other approved Securities|6498328|7613042|9140757|10618287|13466619|
+|(ii) Shares, Debentures and bonds|126816|86041|207953|414950|805178|
+|(iii) Others @|246375|277526|607787|762830|1149502|
+|13. Advances|10954122|12878506|14228559|16573194|17929459|
+|(i) Loans & advances,Cash credit and overdrafts|9886101|11510404|12695245|14888343|15905509|
+|(ii) Bills purchased and|1068021|1368102|1533314|1684851|2023950|
+|Discounted||||||
+|14. Fixed Assets|134191|154340|194490|286743|419659|
+|15.Branch Adjustments|279663|464922|483787|471064|1099438|
+|16. Other Assets|4586538|5903096|6906942|3857699|4145153|
+|17. Balances held abroad|26055|46251|23309|134156|159878|
+|Total Assets|26369301|31196448|36096601|38057794|44891365|
+
+Note: See item-wise explanation of the tables.
