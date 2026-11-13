@@ -1,0 +1,193 @@
+---
+doc_id: "Draft-Notifications-Guidelines_2025_110"
+title: "Reserve Bank of India (Payments Banks – Interest Rate on Deposits) Directions, 2025"
+category: "Draft-Notifications-Guidelines"
+year: 2025
+source_rbi_url: "http://rbidocs.rbi.org.in/rdocs/notification/PDFs/07INTERESTRATEDEPOSITS101020253C20FCA1E8AD4825B24BFDB96438B831.PDF"
+pdf_sha256: "2bb3a74b2866bc903e67425846ab314859a66e82fc054170972c9b8d2cf46138"
+md_sha256: "b3ec8e046b569a83db4f1832cf20b9694b91b83921d418a2ccca823b085483f6"
+total_pages: 10
+native_pages: 10
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T11:03:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_110_Reserve%20Bank%20of%20India%20%28Payments%20Banks%20%E2%80%93%20Interest%20Rate%20on%20Deposits%29%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Payments Banks – Interest Rate on Deposits) Directions, 2025
+
+<!-- PAGE 1 -->
+
+# Draft Reserve Bank of India (Payments Banks – Interest Rate on Deposits) Directions, 2025
+
+# DRAFT FOR COMMENTS
+
+RBI/2025-26/--
+
+## DOR.SOG(SPE).REC.No./00.00.000/2025-26 XX, 2025
+
+# Reserve Bank of India (Payments Banks – Interest Rate on Deposits) Directions, 2025
+
+# Table of Contents
+
+Chapter I : Preliminary................................................................................................. 2
+
+A. Introduction................................................................................................................ 2
+B. Short Title and Commencement................................................................................ 2
+C. Objective................................................................................................................... 2
+D. Applicability............................................................................................................... 2
+E. Definitions.................................................................................................................. 2
+Chapter II : General Guidelines (Interest Rate Framework) .......................................... 4
+Chapter III : Domestic Rupee Deposits.......................................................................... 5
+
+A. Interest Rate on Domestic Current Account............................................................... 5
+B. Interest Rate on Domestic Savings Deposit............................................................... 5
+C. Payment of Additional Interest on Domestic Deposits................................................ 5
+D. Periodicity of Payment of Interest on Domestic Savings Deposit............................... 6
+Chapter IV : Prohibitions and Exemptions...................................................................... 7
+
+A. Prohibitions................................................................................................................ 7
+B. Exemptions................................................................................................................ 8
+SCHEDULE-I........................................................................................................................ 9
+Chapter V : Repeal and Other Provisions.................................................................... 10
+
+A. Repeal and saving................................................................................................... 10
+B. Application of other laws not barred......................................................................... 10
+C. Interpretations......................................................................................................... 10
+
+<!-- PAGE 2 -->
+
+## Chapter I-Preliminary
+
+## A. Introduction
+
+**1.** In exercise of the powers conferred under Sections 35A of the Banking Regulation Act, 1949, and all the powers enabling it in this behalf, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby issues the Directions hereinafter specified.
+## B. Short Title and Commencement
+
+**2.** These Directions shall be called the Reserve Bank of India (Payments Banks - Interest Rate on Deposits) Directions, 2025.
+**3.** These Directions shall come into effect on the day it is placed on the official website of the Reserve Bank of India.
+## C. Objective
+
+**4.** These Directions provide a framework for Payments Banks to follow while formulating their policies on Interest Rate on Deposits.
+## D. Applicability
+
+**5.** These Directions shall be applicable to Payments Banks (hereinafter collectively referred to as 'banks' and individually as a 'bank').
+## E. Definitions
+
+**6.** In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them below:
+(1) ‘Current Account’ means a form of non-interest bearing demand deposit where from withdrawals are allowed any number of times depending upon the balance in the account or up to a particular agreed amount and shall also be deemed to include other deposit accounts which are neither Savings Deposit nor Term Deposit.
+(2) ‘Daily Product’ means the interest applied on the end of day balance.
+(3) ‘Demand Deposit’ means a deposit received by a bank, which is withdrawable on demand.
+(4) ‘Domestic Rupee Deposits’ mean rupee deposits maintained in India in the form of current account or savings deposit.
+
+<!-- PAGE 3 -->
+
+(5) ‘Family’ includes members as mentioned in a bank’s Service / Staff Regulations.
+(6) ‘Hindu Undivided Family’ (HUF) means HUF as defined under Income-tax Act,
+1961.
+(7) ‘Individual’ means a natural person.
+(8) ‘Member of the bank’s Staff’ means a person employed on a regular basis, whether full-time or part-time, and includes a person recruited on probation or employed on a contract for a specified duration or on deputation and an employee taken over in pursuance of any scheme of amalgamation but does not include a person employed on casual basis.
+(9) ‘Retired Member of the bank’s Staff’ means an employee retiring whether on superannuation or otherwise as provided in the bank’s Service / Staff Regulations. (10) ‘Savings Deposit’ means a form of interest bearing demand deposit which is a deposit account whether designated as ‘Savings Account’, ‘Savings Bank Account’, ‘Savings Deposit Account’, ‘Basic Savings Bank Deposit Account (BSBDA)’ or other account by whatever name called which is subject to the restrictions as to the number of withdrawals as also the amounts of withdrawals permitted by a bank during any specified period. (11) All other expressions, unless defined herein, shall have the same meaning as have been assigned to them under the Banking Regulation Act,1949 or the Reserve Bank of India Act, 1934 or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+
+<!-- PAGE 4 -->
+
+## Chapter II-General Guidelines (Interest Rate Framework)
+
+**7.** A bank shall pay interest on deposits (other than current account deposits) accepted by them in their domestic account on the terms and conditions specified in these directions:
+(1) There shall be a comprehensive policy on Interest Rate on Deposits duly approved by the Board of Directors or any Committee of the Board to which powers have been delegated.
+(2) The interest rates offered on deposits shall be uniform across all branches and for all customers and there shall be no discrimination in the matter of interest paid on the deposits, between one deposit and another deposit of similar amount, accepted on the same date, at any of its offices.
+(3) Interest rates payable on deposits shall be strictly as per the schedule of interest rates disclosed in advance.
+(4) The rates shall not be subject to negotiation between the depositors and the bank.
+(5) The interest rates offered shall be reasonable, consistent, transparent, and available for supervisory review / scrutiny as and when required.
+(6) All transactions, involving payment of interest on deposits shall be rounded off to the nearest rupee.
+
+<!-- PAGE 5 -->
+
+## Chapter III-Domestic Rupee Deposits
+
+## A. Interest Rate on Domestic Current Account
+
+**8.** No interest shall be paid on deposits held in current accounts. ***Provided that*** balances lying in current account standing in the name of a deceased individual depositor or sole proprietorship concern shall attract interest from the date of death of the depositor till the date of repayment to the claimant(s) at the rate of interest applicable to savings deposit as on the date of payment.
+## B. Interest Rate on Domestic Savings Deposit
+
+**9.** In addition to the conditions laid down in paragraph 7 of these Directions, interest on domestic rupee savings deposit shall be subject to the following:
+(1) Interest shall be calculated on a daily product basis as under:
+(i) A uniform interest rate shall be set on balance up to ₹1 lakh, irrespective of the amount in the account within this limit. (ii) Differential rates of interest may be provided for any end-of-day savings bank balance exceeding ₹1 lakh.
+## C. Payment of Additional Interest on Domestic Deposits
+
+**10.** A bank shall, at its discretion, allow additional interest of one per cent per annum, over and above the rate of interest mentioned in the schedule of interest rates on savings deposits to bank’s staff and their exclusive associations as well as on deposits of Chairman, Chairman & Managing Director, Executive Director, or such other Executives appointed for a fixed tenure, subject to the following conditions:
+(1) The additional interest is payable till the person continues to be eligible for the same.
+(2) In case of employees taken over pursuant to the scheme of amalgamation, the additional interest is allowed only if the interest at the contractual rate together with the additional interest does not exceed the rate, which could have been allowed if such employees were originally employed by the bank.
+(3) In the case of employees taken on deputation from another bank, the bank from which they are deputed may allow additional interest in respect of the savings
+
+<!-- PAGE 6 -->
+
+deposit account opened with it during the period of deputation.
+
+(4) In the case of persons taken on deputation for a fixed tenure or on a contract of a fixed tenure, the benefit will cease to accrue on the expiry of the term of deputation or contract, as the case may be.
+(5) Bank Employees’ Federations, in which bank employees are not direct members, shall not be eligible for additional interest.
+(6) The additional interest may be paid on the following deposits after obtaining a declaration from the depositor concerned, that the monies deposited or which may be deposited from time to time into such account belong to the depositor:
+(i) member or a retired member of the bank’s staff, either singly or jointly with any member or members of his / her family, provided that the staff member / retired staff member is the principal account holder; or
+***Note:*** Additional interest admissible to the bank’s staff shall not be paid on the
+ compensation awarded by the court to a minor child and deposited in the joint name of minor child and parent as the money belongs to the minor child and not the bank’s staff. (ii) the spouse of a deceased member or a deceased retired member of the bank’s staff; and
+***Note:*** Children (including minor) are not eligible for additional interest
+ admissible to deceased member of the bank’s staff. (iii) an Association or a fund, members of which are members of the bank’s staff.
+## D. Periodicity of Payment of Interest on Domestic Savings Deposit
+
+**11.** Interest on savings deposit shall be credited by a bank at quarterly or shorter intervals.
+**12.** Interest on savings bank accounts, including those frozen by the enforcement authorities, shall be credited on regular basis, irrespective of the operational status of the account.
+
+<!-- PAGE 7 -->
+
+## Chapter IV-Prohibitions and Exemptions
+
+## A. Prohibitions
+
+**13.** A bank shall not:
+(1) Pay any remuneration or fees or commission or brokerage or incentives on deposits in any form or manner to any individual, firm, company, association, institution or any other person except:
+(i) commission paid to agents employed to collect door-to-door deposits under a special scheme. (ii) commission paid to Direct Selling Agents / Direct Marketing Agents as part of the outsourcing arrangements by a bank. (iii) remuneration paid to Business Facilitators or Business Correspondents.
+(2) Offer prize / lottery / free trips (in India and / or abroad), etc., or any other initiative having element of chance for mobilising deposits. However, inexpensive gifts costing not more than ₹250/- which is the amount prescribed by the Indian Banks’ Association (IBA) as part of the Ground Rules and Code of Ethics framed by them, may, at a bank’s discretion, be given to depositors at the time of accepting deposits.
+(3) Resort to unethical practices for deposit mobilization through agents/ third parties.
+(4) Accept interest-free deposit other than in current account or pay compensation indirectly.
+(5) Accept deposits from / at the instance of private financiers or unincorporated bodies under any arrangement which provides for either issue of deposit receipt(s) favouring client/s of private financiers or giving of an authority by power of attorney, nomination or otherwise, for such clients receiving such deposits on maturity.
+(6) Open a savings deposit account in the name of Government departments / bodies depending upon budgetary allocations for performance of their functions / Municipal Corporations or Municipal Committees / Panchayat Samitis / State Housing Boards / Water and Sewerage / Drainage Boards / State Text Book Publishing Corporations / Societies / Metropolitan Development Authority / State /
+
+<!-- PAGE 8 -->
+
+District Level Housing Co-operative Societies, etc., or any political party or any trading / business or professional concern, whether such concern is a proprietary or a partnership firm or a company or an association and entities other than individuals, Karta of HUF and organisations / agencies listed in **SCHEDULE-I**. ***Explanation*** For the purposes of this clause, ‘political party’ means an association or body of individual citizens of India, which is, or is deemed to be registered with the Election Commission of India as a political party under the Election Symbols (Reservation and Allotment) Order, 1968 as in force for the time being.
+
+***Note:*** Savings Bank account cannot be opened in the name of a private entity for
+
+implementation of the Government funding schemes.
+
+(7) Create any fund to be utilised for charitable purposes in consultation with the depositors.
+## B. Exemptions
+
+**14.** The provisions in the above paragraphs shall not be applicable to:
+(1) A deposit received by a bank:
+(i) from the institutions permitted to participate in the Call / Notice / Term Money Market both as lenders and borrowers. (ii) for which it has issued a participation certificate.
+(2) Payment of interest on delayed collection of outstation instruments like cheques, drafts, bills, telegraphic / mail transfers, etc.
+
+<!-- PAGE 9 -->
+
+## SCHEDULE-I
+
+i. Primary Co-operative Credit Society which is being financed by the bank. ii. Khadi and Village Industries Boards. iii. Agriculture Produce Market Committees. iv. Societies registered under the Societies Registration Act, 1860 or any other corresponding law in force in a State or a Union Territory except societies registered under the State Co-operative Societies Acts and specific state enactment creating Land Mortgage Banks.
+v. Companies licensed by the Central Government under Section 8 of Companies Act, 2013 or Section 25 of Companies Act, 1956 or under the corresponding provision in the Indian Companies Act, 1913 and permitted not to add to their names the words ‘Limited’ or the words ‘Private Limited’. vi. Institutions other than those mentioned in paragraph 13(6) and whose entire income is exempt from payment of income tax under the Income-tax Act, 1961. vii. Government departments / bodies / agencies in respect of grants / subsidies released for implementation of various programmes / Schemes sponsored by Central Government / State Governments subject to production of an authorisation from the respective Central / State Government departments to open savings bank account. viii. Development of Women and Children in Rural Areas (DWCRA). ix. Self-Help Groups (SHGs), registered or unregistered, which are engaged in promoting savings habits among their members.
+x. Farmers’ Clubs – Vikas Volunteer Vahini – VVV.
+
+<!-- PAGE 10 -->
+
+## Chapter V-Repeal and Other Provisions
+
+## A. Repeal and saving
+
+**15.** With the issue of these Directions, the existing Directions, instructions, and guidelines relating to Interest Rate on Deposits as applicable to Payments Banks stands repealed, as communicated vide notification dated XX, 2025. The Directions, instructions and guidelines repealed prior to the issuance of these Directions shall continue to remain repealed.
+**16.** Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as governed by these Directions.
+## B. Application of other laws not barred
+
+**17.** The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force.
+## C. Interpretations
+
+**18.** For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the RBI may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the RBI shall be final and binding.
