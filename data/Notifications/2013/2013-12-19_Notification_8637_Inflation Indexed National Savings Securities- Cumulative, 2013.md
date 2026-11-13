@@ -1,0 +1,106 @@
+---
+doc_id: "Notifications_2013_8637"
+title: "Inflation Indexed National Savings Securities- Cumulative, 2013"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IINSSC19122013.PDF"
+pdf_sha256: "49d7fc6ccfc8e2680ea46b2984a6b1e2ff313dfb8e05974732454ba41a2917f7"
+md_sha256: "91fb7eaf927e8c9efb9eb8b6603293ac6c02d80acabb0eef1e235ceadf5ab55d"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-12-19_Notification_8637_Inflation%20Indexed%20National%20Savings%20Securities-%20Cumulative%2C%202013.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inflation Indexed National Savings Securities- Cumulative, 2013
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+__________________________**RESERVE BANK OF INDIA**__________________________ <u>www.rbi.org.in</u> **RBI 2013‐14/411** **DGBA.CDD.No. 3688/13.01.999/2013‐2014** December 19, 2013
+
+The Chairman & Managing Director Head Office (Government Accounts Department) State Bank of India & Associate Banks All Nationalised Banks ICICI Bank Ltd., HDFC Bank Ltd, Axis Bank Ltd., and Stock Holding Corporation of India Ltd (SHCIL).
+
+Dear Sir/Madam,
+
+## <u>Inflation Indexed National Savings Securities‐ Cumulative, 2013</u>
+
+It has been decided by the Government of India, as per their <u>Notification F.No. 4(16)</u> <u>W&M/2012 dated December 19, 2013</u>, to issue Inflation Indexed National Savings Securities‐ Cumulative, 2013 (“the Bonds”) with effect from December 23, 2013 to December 31, 2013. The Government of India reserves the right to close the issue earlier than December 31, 2013. The terms and condition of the issue of the Bonds shall be as follows:
+
+2. <u>Eligibility for Investment</u>
+## The Bonds may be held by:‐
+
+i) an individual, not being a Non‐Resident Indian‐
+(a) in his or her individual capacity, or
+(b) in individual capacity on joint basis, or
+(c) in individual capacity on anyone or survivor basis, or
+(d) on behalf of a minor as father/mother/legal guardian.
+## ii)a Hindu Undivided Family (HUF)
+
+iii) (a)'Charitable Institution' to mean a Company registered under Section 25 of the Indian Companies Act 1956, or
+
+(b) an institution which has obtained a Certificate of Registration as a charitable institution in accordance with a law in force; or
+(c) any institution which has obtained a certificate from Income Tax Authority for the purposes of Section 80G of the Income Tax Act, 1961.
+iv)'University' means a university established or incorporated by a Central, State or Provincial Act, and includes an institution declared under section 3 of the University
+
+|सरकार|और बक खाता|वभाग,|के िय कायालय,|भायखला ऑफस|मुंबई सशल|ःटेशन के सामने,|भायखला,|
+|---|---|---|---|---|---|---|---|
+|Department of Government and Bank Accounts, Central Office, 4th Floor, Byculla Office Building, Opposite Mumbai Railway Station, Byculla, Mumbai‐400 008|टेिलफोन: 022-2308 04121, Telephone: 022-2308 4121, Fax: 022-2301 0095, Email: cgmicdgbaco@rbi.org.in, Website: www.rbi.org.in||फै स: 022-2301 0095,|ई-मेल: cgmicdgbaco@rbi.org.in,||वेबसाईट: www.rbi.org.in||
+
+चौथी मंज़ल, �����ंग, मुंबई – 400 008
+
+||||||ह�द आसान|है, इसका ूयोग बढ़ाइए।|||
+|---|---|---|---|---|---|---|---|---|
+|चेतावनी: �रज़व Caution|बक ारा|ई-मेल, है।|डाक,|एसएमएस या यह धन रखने या देने का|फोन काल के ूःताव भी नहं|जरये कसी क भी ����गत जानकार करता है। ऐसे ूःताव का कसी : RBI never sends emails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|जैसे बक के खाते का यौरा, भी तरके से जवाब मत दजये।|पासवड आद नहं मांगी जाती|
+
+<!-- PAGE 2 -->
+
+Grants Commission Act, 1956 (3 of 1956), to be a university for the purposes of that Act.
+
+3. <u>Limit of Investment</u> Minimum limit for investment in the bonds is ` 5,000/‐ and maximum limit for investment is ` 5,00,000/‐ per applicant per annum.
+4. <u>Tax Treatment</u> Income Tax: Interest on the Bonds will be taxable under the Income‐Tax Act, 1961 as applicable according to the relevant tax status of the bonds holder.
+5. <u>Issue Price</u>
+i) The Bonds will be issued at par, i.e. at 100.00 per cent. ii) The Bonds will be issued for a minimum amount of ` 5,000/‐  (face value) and in multiples thereof. Accordingly, the issue price will be ` 5,000/‐  for every ` 5,000/‐ (Nominal).
+6. <u>Subscription</u> Subscription to the Bonds will be in the form of Cash/Drafts/Cheques/online through internet banking. Cheques or drafts should be drawn in favour of the bank (Receiving Office), specified in paragraph 10 below and payable at the place where the applications are tendered.
+7. <u>Date of Issue</u> The date of issue of the Bonds in the form of Bonds Ledger Account will be opened (issued) from the date of receipt of funds/realisation of draft/cheque.
+8. <u>Form</u>
+i) The Bonds will be issued only in the form of Bonds Ledger Account and may be held at the credit of the holder in an account called **Bonds Ledger Account (BLA)**. ii)The Bonds will be issued in the form of Bonds Ledger Account and held with Reserve Bank of India. A certificate of holding as specified in ‘<u>Form I</u>’ (attached) will be issued to the holder of Bonds in Bonds Ledger Account.
+9. <u>Applications</u>
+i) Applications for the Bonds may be made in the <u>application format</u> attached or in any other form as near as thereto stating clearly the amount and the full name and address of the applicant. ii)Applications should be accompanied by the necessary payment in the form of cash/drafts/cheques/online through internet banking as indicated in paragraph 6 above.
+## Page | 2
+
+<!-- PAGE 3 -->
+
+*Note:‐ The authorised banks are responsible to ensure compliance with the applicable*
+
+*KYC norms. The application form and the requisite documentation are to be retained by* *the authorised banks for record and future reference.*
+
+10. <u>Receiving Offices</u> Applications for the Bonds in the form of Bonds Ledger Account will be received at:
+(a) Branches of State Bank of India, Associate Banks, Nationalised Banks, three private sector banks (i.e. HDFC Bank Ltd., ICICI Bank Ltd., AXIS Bank Ltd.) and SHCIL during their working hours.
+(b) Any other bank or number of branches of the banks and SHCIL where the applications will be received as specified by the Reserve Bank of India in this behalf from time to time.
+11. <u>Nomination</u>
+i) A sole holder or a sole surviving holder of a Bond(s), being an individual, may nominate in the <u>Form annexed</u> to this notification or as near thereto as may be, one or more persons who shall be entitled to the Bonds and the payment thereon in the event of his/her death. ii) Where any amount is payable to two or more nominees and either or any of them dies before such payment becomes due, the title to the Bonds shall rest in the surviving nominee or nominees and the amount being due thereon shall be paid accordingly. In the event of the nominee or nominees predeceasing the holder, the holder may make a fresh nomination. iii) No nomination shall be made in respect of the Bonds issued in the name of a minor. iv) A nomination made by a holder of Bonds may be varied by a fresh nomination as near thereto as may be, or may be cancelled by giving notice in writing to the Receiving Office in the Form annexed to the notification.
+v) Every nomination and every cancellation or variation shall be registered at the Reserve Bank of India through the authorised bank and shall be effective from the date of such registration. vi) If the nominee is a minor, the holder of Bonds may appoint any person to receive the Bonds/amount due in the event of his/her death during the minority of the nominee.
+12. <u>Transferability</u> The Bonds in the form of Bonds Ledger Account shall be transferable to nominee(s) on death of holder (only individual/s).
+13. <u>Interest</u> The Bonds will bear interest at the rate of 1.5% (fixed rate) per annum + inflation rate calculated with respect to final combined Consumer Price Index [(CPI) Base; 2010 = 100].
+## Page | 3
+
+<!-- PAGE 4 -->
+
+Final combined CPI will be used with a lag of three months to calculate incremental inflation rate (i.e. final combined CPI for September would be used as reference CPI for all days of December). Interest will be compounded with half‐yearly rests and will be payable on maturity along with the principal.
+
+14. <u>Advances/Tradability against Bonds</u> The Bonds shall **not** be tradable in the secondary market. The Bonds shall be eligible as collateral for loan from banks, Financial Institutions and Non‐Banking Financial Company (NBFC). The lien to that effect will be marked in the depository (RBI) by the authorised banks.
+15. <u>Repayment</u>
+i) The Bonds shall be repayable on the expiration of 10 (ten) years from the date of issue. The investor will be advised by the authorised bank one month before maturity regarding the ensuing maturity of Bonds advising them to provide a Letter of Acquaintance, confirming the NEFT/NECS account details, etc. to the authorised bank. If everything is in order, the investor will be paid within maximum five days of the maturity. ii)Early repayment/redemption before the maturity date is allowed after one year of holding from the date of issue for senior citizens, i.e. 65 and above years of age and for all others, after 3 (three) years of holding, subject to the penalty charges at the rate of 50% of the last coupon payable. Early redemption to be allowed only on coupon date.
+16. <u>Handling charges</u> Handling charges at the rate of ` 1.00 (Rupee one only) per ` 100.00 will be paid to the authorised banks on the subscription received by them from investors. Yours faithfully, sd (Sangeeta Lalwani) General Manager
+## Encls.: As above.
+
+## Related Documents
+
+<u>Advertisement</u> <u>Press Release</u> <u>GoI Notification</u> Forms <u>FAQs</u>
+
+## Page | 4

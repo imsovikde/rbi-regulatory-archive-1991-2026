@@ -1,0 +1,69 @@
+---
+doc_id: "Notifications_2014_8665"
+title: "Overseas Direct Investments – Rollover of Guarantees"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CAI03012014RS.PDF"
+pdf_sha256: "f5e1fbb0b119b68a8baaa5542ec9ada72f6d684f3353920fde31eae958ac0fd3"
+md_sha256: "f821ce39363836574085cb15421689edf938056010f7a41d9406314935d72aef"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-01-03_Notification_8665_Overseas%20Direct%20Investments%20%E2%80%93%20Rollover%20of%20Guarantees.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investments – Rollover of Guarantees
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2013-14/427 A.P. (DIR Series) Circular No.83 January 3, 2014
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## <u>Overseas Direct Investments – Rollover of Guarantees</u>
+
+Attention of the Authorised Dealer (AD-Category I) banks is invited the provisions of <u>Notification No. FEMA.120/RB-2004 dated July 7, 2004</u> [Foreign
+
+# 2022
+
+Exchange Management (Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004] (the Notification), as amended from time to 22, time.
+
+2. It has been decided not to treat / reckon tAugusthe renewal / rollover of an existing / original guarantee, which is part of the total financial commitment of the Indian party in terms of Regulation 6 of the Notification
+w.e.f.
+*ibid,* as a fresh financial commitment, provided that :
+
+(a) the existing / original guarantee was issued in terms of the then extant / prevailing FEMA guidelines.
+(b) there is no change in the end use of the guarantee, i.e. the facilities
+# Withdrawn
+
+availed by the JV / WOS / Step Down Subsidiary;
+
+(c) there is no change in any of the terms & conditions, including the amount of the guarantee except the validity period;
+(d) the reporting of the rolled over guarantee would be done as a fresh financial commitment in Part II of Form ODI, as hitherto; and
+(e) if the Indian party is under investigation by any investigation / enforcement agency or regulatory body, the concerned agency / body shall be kept informed about the same.
+
+<!-- PAGE 2 -->
+
+3. In case, however, the above conditions are not met, the Indian party shall obtain prior approval of the Reserve Bank for rollover / renewal of the existing guarantee through the designated AD bank.
+4. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+## Yours faithfully,
+
+## (C D Srinivasan) Chief General Manager
+
+# Withdrawn w.e.f. August 22, 2022

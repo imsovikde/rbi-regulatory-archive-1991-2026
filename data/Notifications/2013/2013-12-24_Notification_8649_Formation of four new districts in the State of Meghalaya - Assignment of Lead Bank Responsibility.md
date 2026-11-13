@@ -1,0 +1,172 @@
+---
+doc_id: "Notifications_2013_8649"
+title: "Formation of four new districts in the State of Meghalaya - Assignment of Lead Bank Responsibility"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BC72ME241213.pdf"
+pdf_sha256: "a33dfd8bf9e7710576c6a8cd538d4713acca94c83c7849d40fe0a1bb9065c781"
+md_sha256: "da1b7cd6424f94b6b5de30ded586c21cbd2202b405f14bb54935e139fed701ac"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:42:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-12-24_Notification_8649_Formation%20of%20four%20new%20districts%20in%20the%20State%20of%20Meghalaya%20-%20Assignment%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of four new districts in the State of Meghalaya - Assignment of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2013-14/417
+
+RPCD.CO.LBS.BC.No.72/02.08.001/2013-14
+
+December24,2013
+
+The Chairmen & Managing Directors
+
+All Lead Banks
+
+Dear Sir/Madam,
+
+Formation of four new districts in the State of Meghalaya -
+
+Assignment of Lead Bank Responsibility
+
+30.07.2012,133 dated 02.08.2012 and 163 dated 06.08.2012 has notified formation of
+
+four new districts in the State of Meghalaya. It has been decided to assign the lead
+
+bank responsibility of the four new districts as detailed below:-
+
+Sr
+
+Newly carved
+
+Erstwhile District
+
+Blocks
+
+Lead Bank
+
+District
+
+No
+
+district
+
+included
+
+in
+
+Responsibility
+
+Working
+
+the
+
+new
+
+assigned to
+
+Code
+
+District
+
+allotted to
+
+new district
+
+1
+
+North Garo
+
+East Garo Hills
+
+Kharkutta
+
+State Bank of
+
+378
+
+Hills
+
+Resubelpara
+
+India
+
+2
+
+East Jaintia
+
+Jaintia Hills
+
+Saipung
+
+State Bank of
+
+379
+
+Hills
+
+Khliehriat
+
+India
+
+3
+
+South West
+
+West Khasi Hills
+
+Ranikor
+
+State Bank of
+
+380
+
+Khasi Hills
+
+Mawkyrwat
+
+India
+
+South West
+
+West Garo Hills
+
+Betasing
+
+State Bank of
+
+381
+
+4
+
+Garo Hills
+
+Zik Zak
+
+India
+
+2.
+
+Further, the District Working Codes of new districts have also been allotted for the
+
+purpose of BSR reporting by banks.
+
+Rural Planning & Credit Department Central Office, 10" Floor, Central Office Building, Post Box no. 10014 Mumbai - 400 001
+
+Caution:RBl never sends mails, SMSs or makes calls asking for personal information like bank account details,passwords,etc.It never
+
+keeps oroffersfundsto anyone.Pleasedonotrespondinanymannertosuchoffers.
+
+<!-- PAGE 2 -->
+
+3. There is no change in the lead bank responsibilities of the erstwhile districts and of other districts in the State of Meghalaya. Yours faithfully, Sd/- (A. Udgata) Principal Chief General Manager

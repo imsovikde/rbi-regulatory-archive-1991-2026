@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2014_8688"
+title: "Implementation of Section 51-A of UAPA, 1967 -Updates of the UNSCR 1267 (1999) /1989 (2011) Committee's Al Qaida Sanctions List and Consolidated List"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBC071114CFS.pdf"
+pdf_sha256: "3bc310dbda4977ae86fcffda9b690a19624f4e1ff06e9910f8174350c69b593b"
+md_sha256: "c4fb7f9201550cd4677a3b2213df7ca4312dec61481e3124dd7960eb75fa82d2"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-01-10_Notification_8688_Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967%20-Updates%20of%20the%20UNSCR%201267%20%281999%29%20-1989%20%282011%29%20Committee%27s%20Al%20Qaida%20Sanctions%20List%20and%20Consolidated%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51-A of UAPA, 1967 -Updates of the UNSCR 1267 (1999) /1989 (2011) Committee's Al Qaida Sanctions List and Consolidated List
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/443 DNBS(PD).CC. No 366 /03.10.42 /2013-14 January 10, 2014
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir/Madam, **Implementation of Section 51-A of UAPA, 1967 -Updates of the UNSCR 1267 (1999)** **/1989 (2011) Committee's Al Qaida Sanctions List and Consolidated List**
+
+Please refer to <u>DNBS (PD).CC.No 358/03.10.42/2013-14 dated October 3, 2013</u>. The Chairman of UN Security Council's 1267/ 1989 Committee has since issued the updated “Al- Qaida Sanctions List”, i.e. list of Individuals and entities linked to Al-Qaida. The updates from twentieth to thirtieth update are available on UN website at the following url: <u>[http://www.un.org/News/Press/docs//2013/sc11099.doc.htm](http://www.un.org/News/Press/docs//2013/sc11099.doc.htm)</u> <u>[http://www.un.org/News/Press/docs/2013/sc11089.doc.htm](http://www.un.org/News/Press/docs/2013/sc11089.doc.htm)</u> and <u>[http://www.un.org/News/Press/docs//2013/sc11117.doc.htm](http://www.un.org/News/Press/docs//2013/sc11117.doc.htm)</u>
+
+2. All NBFCs are required to update the list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear in the list. Further, NBFCs should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+3. The complete details of the said list are available on the UN website: <u>[http://www.un.org/sc/committees/1267/pressreleases.shtml](http://www.un.org/sc/committees/1267/pressreleases.shtml)</u> <u>[http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml](http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml)</u> <u>[http://www.un.org/sc/committees/1267/delisting.shtml](http://www.un.org/sc/committees/1267/delisting.shtml)</u> Yours faithfully, (Sindhu Pancholy) Deputy General Manager

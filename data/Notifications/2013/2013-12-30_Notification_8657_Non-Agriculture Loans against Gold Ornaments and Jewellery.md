@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2013_8657"
+title: "Non-Agriculture Loans against Gold Ornaments and Jewellery"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CID30122013F.pdf"
+pdf_sha256: "542337fdc8b9cb5264dacb8901400bd3b3b700cd267527272b6a2a455d8522c2"
+md_sha256: "7f591d92705a167ff9557d706d8e45d20e4fe1462282db1672959b825c418502"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-12-30_Notification_8657_Non-Agriculture%20Loans%20against%20Gold%20Ornaments%20and%20Jewellery.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Agriculture Loans against Gold Ornaments and Jewellery
+
+<!-- PAGE 1 -->
+
+भारतीय िरजवर् बैंक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI/2013-14/419 DBOD.No.BP.79/21.04.048/2013-14 December 30, 2013
+
+The Chairman and Managing Director/Chief Executive Officer All Scheduled Commercial Banks (Excluding Local Area Banks and Regional Rural Banks)
+
+Dear Sir,
+
+## Non-Agriculture Loans against Gold Ornaments and Jewellery
+
+In response to suggestions from banks and with a view to ensuring a level playing field among various market participants, it has been decided to permit bullet repayment of loans extended against pledge of gold ornaments and jewellery for other than agricultural purposes subject to the following guidelines:
+
+(i) The amount of loan sanctioned should not exceed Rs 1.00 lakh at any point of time. (ii) The period of the loan shall not exceed 12 months from the date of sanction. (iii) Interest will be charged to the account at monthly rests but will become due for payment along with principal only at the maturity. (iv) Banks should prescribe a minimum margin to be maintained in case of such loans and accordingly, fix the loan limit taking into account the market value of the security (gold ornaments), expected price fluctuations, interest that will accrue during the tenure of the loan etc.
+(v) The account would be classified as Non-Performing Asset (sub-standard category) even before the due date of repayment, if the prescribed margin is not maintained. बैंिकं ग पिरचालन और िवकास िवभाग, के न्िीय कायार्लय, 12वीं मंिज़ल, शहीद भगत िसंह माग, र् मुंबई – 400001
+Department of Banking Operations and Development, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai ‐ 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbodco@rbi.org.in िहंदी आसान हैं, इसका ूयोग बड़ाइए
+
+<!-- PAGE 2 -->
+
+(vi) Banks shall recognise interest income on such loans in their profit and loss account only on collection.
+
+(vii) Such loans shall also be governed by other extant norms pertaining to income recognition, asset classification and provisioning which shall be applicable once the principal and interest become overdue.
+
+Yours faithfully,
+
+(Chandan Sinha) Principal Chief General Manager

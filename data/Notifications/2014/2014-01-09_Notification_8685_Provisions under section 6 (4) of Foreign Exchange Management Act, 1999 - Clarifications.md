@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2014_8685"
+title: "Provisions under section 6 (4) of Foreign Exchange Management Act, 1999 - Clarifications"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AD90090114NF.pdf"
+pdf_sha256: "bd940617c8fae20c0dc14a9784dcc67344554b57e167f520e526f488b3b02e1e"
+md_sha256: "f5a6590f43f2af27bfb9df7aad2b3a36b29afd9a356d54c23f44b9ca27217698"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-01-09_Notification_8685_Provisions%20under%20section%206%20%284%29%20of%20Foreign%20Exchange%20Management%20Act%2C%201999%20-%20Clarifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Provisions under section 6 (4) of Foreign Exchange Management Act, 1999 - Clarifications
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2013-14/440
+
+## A.P. (DIR Series) Circular No. 90 January 9, 2014
+
+To**,**
+
+All Category- I Authorised Dealer Banks and Authorised Banks
+
+Madam / Sir,
+
+## Provisions under section 6 (4) of Foreign Exchange Management Act, 1999 -
+
+## Clarifications
+
+Attention of Authorized Dealers is invited to Section 6 (4) of FEMA, 1999 in terms of which a person resident in India may hold, own, transfer or invest in foreign currency, foreign security or any immovable property situated outside India if such currency, security or property was acquired, held or owned by such person when he was resident outside India or inherited from a person who was resident outside India.
+
+2. We have been receiving representations with regards to nature of transactions covered under Section 6(4) of FEMA, 1999. In this regard it is clarified that Section 6(4) of FEMA, 1999 covers the following transactions:
+(i) Foreign currency accounts opened and maintained by such a person when he was resident outside India; (ii) Income earned through employment or business or vocation outside India taken up or commenced while such person was resident outside India, or from investments made while such person was resident outside India, or from gift or inheritance received while such a person was resident outside India; (iii) Foreign exchange including any income arising therefrom, and conversion or replacement or accrual to the same, held outside India by a person resident in India acquired by way of inheritance from a person resident outside India.
+(iv) A person resident in India may freely utilise all their eligible assets abroad as well as income on such assets or sale proceeds thereof received after their return to India for making any payments or to make any fresh investments
+
+<!-- PAGE 2 -->
+
+abroad without approval of Reserve Bank, provided the cost of such investments and/ or any subsequent payments received therefor are met exclusively out of funds forming part of eligible assets held by them and the transaction is not in contravention to extant FEMA provisions.
+
+3. Authorised Dealer Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+4. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in- Charge

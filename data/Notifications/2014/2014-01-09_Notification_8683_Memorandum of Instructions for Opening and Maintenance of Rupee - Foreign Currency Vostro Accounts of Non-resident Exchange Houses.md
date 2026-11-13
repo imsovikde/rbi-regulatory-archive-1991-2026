@@ -1,0 +1,69 @@
+---
+doc_id: "Notifications_2014_8683"
+title: "Memorandum of Instructions for Opening and Maintenance of Rupee / Foreign Currency Vostro Accounts of Non-resident Exchange Houses"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AD88090114FS.pdf"
+pdf_sha256: "dbd7bafdfd6079135748d7b8da6f1e3dd2c2524f7ddd5e14390e5e19480472d7"
+md_sha256: "b55bb77b14ce04c775087d999a5e01ae86ecc556593b931a8c75570a46e8d539"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:42:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-01-09_Notification_8683_Memorandum%20of%20Instructions%20for%20Opening%20and%20Maintenance%20of%20Rupee%20-%20Foreign%20Currency%20Vostro%20Accounts%20of%20Non-resident%20Exchange%20Houses.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Memorandum of Instructions for Opening and Maintenance of Rupee / Foreign Currency Vostro Accounts of Non-resident Exchange Houses
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **C e nt ra l O f f i c e** **Mumbai - 400 001**
+
+## RBI/2013-14/438 A. P. (DIR Series) Circular No. 88 January 09, 2014
+
+To, All Authorised Dealer Category-I Banks Madam / Sir, <u>Memorandum of Instructions for Opening and Maintenance of Rupee / Foreign</u> <u>Currency Vostro Accounts of Non-resident Exchange Houses</u> Attention of Authorised Dealer Category – I (AD Category – I) banks is invited to Part
+
+(B) of <u>Annex-I</u> to the A.P. (DIR Series) Circular No. 28 [A. P. (FL/RL Series) Circular No. 02] dated February 6, 2008 on the captioned subject, as amended from time to time.
+2. With a view to expanding the scope of the Rupee Drawing Arrangements (RDAs), it has been decided to include additional items under Permitted Transactions under RDAs. The amended instructions under **Part (B) of Annex-I** to the above mentioned circular are as given in the Annex.
+3. All other instructions issued vide A.P. (DIR Series) Circular No. 28 [A. P. (FL/RL Series) Circular No. 02] dated February 6, 2008, as amended from time to time, will remain unchanged.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+5. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## Annex
+
+[Annex-I to A.P.(DIR Series) Circular No.28
+
+A.P.(FL/RL Series) Circular No.02]
+
+|Earlier guidelines under Part (B) Permitted Transactions of Annex-I|Revised guidelines under Part (B) Permitted Transactions of Annex-I|
+|---|---|
+|Drawing Arrangements with Exchange Houses are primarily designed to channel inward personal remittances. Under no circumstances, donations / contributions to charitable institutions should be routed through the Exchange Houses. The following is the list of permissible transactions under Drawing Arrangements with Exchange Houses. 1. Credit to Non-resident (External) Rupee accounts maintained by Non-resident Indians in Indian Rupees. 2. Payments to families of Non-resident Indians. 3. Payments in favour of Insurance companies, Mutual Funds and the Post Master for premia / investments. 4. Payments in favour of bankers for investments in shares, debentures. 5. Payment to Coop. Housing Societies, Govt. Housing Schemes or Estate Developers for acquisition of residential flats in India in|Drawing Arrangements with Exchange Houses are primarily designed to channel inward personal remittances. Under no circumstances, donations / contributions to charitable institutions should be routed through the Exchange Houses. The following is the list of permissible transactions under Drawing Arrangements with Exchange Houses. 1. Credit to Non-resident (External) Rupee accounts maintained by Non-resident Indians in Indian Rupees. 2. Payments to families of Non-resident Indians. 3. Payments in favour of Insurance companies, Mutual Funds and the Post Master for premia / investments. 4. Payments in favour of bankers for investments in shares, debentures. 5. Payment to Coop. Housing Societies, Govt. Housing Schemes or Estate Developers for acquisition of residential flats in India in|
+
+<!-- PAGE 3 -->
+
+individual names subject to compliance of regulations thereof by the Non-resident Indians.
+
+6. Payments of tuition/ boarding, examination fee etc. to schools, colleges and other educational institutions.
+7. Payments to medical institutions and hospitals for medical treatment of NRIs / their dependents and nationals of Gulf Countries in India.
+8. Payments to hotels by nationals of Gulf countries / NRIs for their stay.
+9. Payments to travel agents for booking of passages of NRIs and their families residing in India towards their travel in India by domestic airlines / rail, etc.
+10. Trade transactions up to Rs. 2 lakhs per transaction.
+individual names subject to compliance of regulations thereof by the Non-resident Indians.
+
+6. Payments of tuition/ boarding, examination fee etc. to schools, colleges and other educational institutions.
+7. Payments to medical institutions and hospitals for medical treatment of NRIs / their dependents and nationals of Gulf Countries in India.
+8. Payments to hotels by nationals of Gulf countries / NRIs for their stay.
+9. Payments to travel agents for booking of passages of NRIs and their families residing in India towards their travel in India by domestic airlines / rail, etc.
+10. Trade transactions up to Rs. 2 lakhs per transaction.
+11. Payments to utility service providers in India, for services such as water supply, electricity supply, telephone (except for mobile top-ups), internet, television etc.
+12. Tax payments in India
+13. EMI payments in India to Banks and Non-Banking Financial Companies (NBFCs) for repayment of loans.
