@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2020_11957"
+title: "Cessation of “Westpac Banking Corporation” as a banking company within the meaning of sub section (2) of Section 36 A of Banking Regulation Act, 1949"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3171CB03BFFEBE4AE7A1D1DD4D388EEBC3.PDF"
+pdf_sha256: "40100724a1e1c8fd8baa9631b3208c0a83dfae1cd29d9c22cb6f8b85d1cd12e0"
+md_sha256: "05ebc7ce1ba04d143597d90f2c3c1f0547f05d288184da32fa04a94dcd667af1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-09-03_Notification_11957_Cessation%20of%20%E2%80%9CWestpac%20Banking%20Corporation%E2%80%9D%20as%20a%20banking%20company%20within%20the%20meaning%20of%20sub%20section%20%282%29%20of%20Section%2036%20A%20of%20Banking%20Regulation%20Act%2C%201949.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Cessation of “Westpac Banking Corporation” as a banking company within the meaning of sub section (2) of Section 36 A of Banking Regulation Act, 1949
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक ________________ RESERVE BANK OF INDIA__________________
+
+<u>www.rbi.org.in</u> RBI/2020-21/31 DOR.No.Ret.BC.11/12.07.150/2020-21 September 03, 2020
+
+## All Banks
+
+## Dear Sir/Madam
+
+<u>Cessation of “Westpac Banking Corporation” as a banking company within</u> <u>the meaning of sub section (2) of Section 36 A of Banking Regulation Act</u>**,** <u>1949</u>
+
+We advise that the “**Westpac Banking Corporation**” has ceased to be a banking company within the meaning of the Banking Regulation Act, 1949 vide Notification DOR.IBD.No.100/23.13.138/2020-21 dated July 18, 2020, which is published in the Gazette of India (Part III-Section 4) dated August 22 – August 28, 2020.
+
+## Yours faithfully
+
+(Sudhansu Mohan Parida) General Manager
+
+व�नयमन वभाग**,** कद्रय कायार्लय, **5**वीं मंिजल**,** अमर भवन**,** सर पी एम रोड**,** मुंबई**-400001** **Department of Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** टेलफोन**/Tel No:022-22603000 Email ID:** <u>returnsco@rbi.org.in</u>

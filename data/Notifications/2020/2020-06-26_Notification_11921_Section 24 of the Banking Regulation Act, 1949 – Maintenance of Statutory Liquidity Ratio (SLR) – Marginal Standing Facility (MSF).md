@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2020_11921"
+title: "Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio (SLR) – Marginal Standing Facility (MSF)"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/259MSFE3EA811D8394E4DD8B6989A714CBCD466.PDF"
+pdf_sha256: "758dffa9e1eec180951b1b7120d254856682e4250b9f2715c463459068d0b453"
+md_sha256: "71c9efb6f14e23bd01f2f6de01ad7ee6f267bb3eb4242a8913ae72c26b04294a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-06-26_Notification_11921_Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%E2%80%93%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20%E2%80%93%20Marginal%20Standing%20Facility%20%28MSF%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio (SLR) – Marginal Standing Facility (MSF)
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक
+
+## ______________________RESERVE BANK OF INDIA ______________________ <u>www.rbi.org.in</u>
+
+RBI/2019-20/259 DOR.No.Ret.BC.77/12.02.001/2019-20 June 26, 2020
+
+All Scheduled Banks (excluding Regional Rural Banks)
+
+## Dear Sir / Madam
+
+## Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity
+
+## Ratio (SLR) – Marginal Standing Facility (MSF)
+
+Please refer to our circular DOR.No.Ret.BC.52/12.01.001/2019-20 dated March 27, 2020 on Marginal Standing Facility (MSF) Scheme.
+
+2. As announced in the Statement of Developmental and Regulatory Policies dated March <u>27, 2020</u>, the borrowing limit of scheduled banks under the MSF scheme, by dipping into the prescribed SLR, was increased from 2 per cent to 3 per cent of their Net Demand and Time Liabilities (NDTL) outstanding at the end of the second preceding fortnight with immediate effect. This relaxation was available up to June 30, 2020.
+3. On a review, it has now been decided to extend this enhanced limit till September 30, 2020.
+4. Banks may continue to access overnight funds under the MSF against their excess SLR holding as advised in our circular FMD.No.65/01.18.001/11-12 dated December 21, 2011.
+## Yours faithfully
+
+(Dr. S K Kar) Chief General Manager
+
+___________________________________________________________________________________________________________________ िविनयमन िवभाग, क द्र ी य कायालय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, फोट, मुंबई 400001 टेलीफ़ोन /Tel No: 22603000 Department of Regulation, Central Office, 5th floor, Amar Building, Sir P.M. Road, Fort, Mumbai – 400001. िही आसान है, इसका प्रयोग बढाइये

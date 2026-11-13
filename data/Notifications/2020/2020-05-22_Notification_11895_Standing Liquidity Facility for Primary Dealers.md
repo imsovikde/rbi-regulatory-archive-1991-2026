@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2020_11895"
+title: "Standing Liquidity Facility for Primary Dealers"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2388FE02C207BAA40FCAD123117EEBD7342.PDF"
+pdf_sha256: "3726f659734e30a9526a792e2d5db23457ec09f1359fb8408d9087d373575f0b"
+md_sha256: "a7e088e600be0bb4390669a8860b1c3178504fcb2937624aa4d9f529fc354e13"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-05-22_Notification_11895_Standing%20Liquidity%20Facility%20for%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standing Liquidity Facility for Primary Dealers
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक ________________________ RESERVE BANK OF INDIA ________________________ <u>www.rbi.org.in</u>
+
+RBI/2019-20/238 REF.No.MPD.BC.391/07.01.279/2019-20 May 22, 2020
+
+All Primary Dealers,
+
+## Standing Liquidity Facility for Primary Dealers
+
+In the <u>Monetary Policy Statement 2020-21 dated May 22, 2020</u>, the policy repo rate under the Liquidity Adjustment Facility (LAF) has been reduced by 40 basis points to 4.00 per cent from 4.40 per cent with immediate effect.
+
+2. Accordingly, the Standing Liquidity Facility provided to Primary Dealers (PDs) (collateralised liquidity support) from the Reserve Bank would be available at the revised repo rate of 4.00 per cent with effect from May 22, 2020.
+Yours faithfully,
+
+## (Deba Prasad Rath)
+
+## Adviser
+
+मौिद्रक नीित िवभाग, क द्रीय कायालय भवन, शहीद भगत िसंह माग, पो� बॉ सं.406, मुंबई- 400 001 भारत फोन : (91-22)22601000 फै � : (91-22) 22610430/22700850/22610432/22631006 ई-मेल : <u>helpmpd@rbi.org.in</u> _____________________________________________________________________________________________________ Monetary Policy Department, Central Office, Central Office Building, Shahid Bhagat Singh Road, P.B. NO. 406, Mumbai- 400001, (Tel): (91-22)22601000 FAX (91-22) 22610430/22700850/22610432/22631006 E-mail: <u>helpmpd@rbi.org.in</u> **िहंदी आसान है**, **इसका प्रयोग बढ़ाइए**

@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2020_11906"
+title: "Recovery of Penal Interest on delayed remittance of Government Receipts into Government Account"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT248586117EA98EE482B9945F1E5ECD11CB4.PDF"
+pdf_sha256: "e7f21c0417a5c1ba0738723bf1adc7075d2afcb93f332be587937b3ed158159d"
+md_sha256: "9785f5dc541030217d2b9e29afac532ab8956b923768bc340d239de2e0d0e53f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-05-29_Notification_11906_Recovery%20of%20Penal%20Interest%20on%20delayed%20remittance%20of%20Government%20Receipts%20into%20Government%20Account.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Recovery of Penal Interest on delayed remittance of Government Receipts into Government Account
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बक **_________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2019-20/248 DGBA.GBD.No.1909/42.01.011/2019-20 May 29, 2020
+
+The Chairman and Managing Directors/ Managing Director/ CEO All Agency Banks Dear Sir / Madam **Recovery of Penal Interest on delayed remittance of Government Receipts into** **Government Account**
+
+Please refer to our <u>circular RBI/2019-20/70 DGBA.GBD.No.653/42.01.011/2019-20</u> <u>dated September 26, 2019</u> through which agency banks were advised that petty claims of penal interest involving an amount of ₹ 500/- (on per transaction basis) or below would be ignored and excluded from the purview of penal interest on delayed reporting of State Government transactions, thus bringing it at par with similar instructions on reporting of Central Government transactions. These instructions were issued with the approval of Comptroller and Auditor General of India (C & AG).
+
+2. The office of C & AG has now advised that they have reconsidered the matter based on feedback received from the Accountants General and hence do not concur with proposal of ignoring the penal interest amount of ₹ 500/- or below. O/o C&AG has advised that they have withdrawn their concurrence given earlier based on which RBI had issued the instructions vide the above circular of <u>September 26, 2019</u> and have also indicated that the AG offices are being advised that in all the cases of calculation of penal interest the ibid circular should not be taken into account.
+3. Further, the O/o C&AG has also advised that since the <u>circular No. RBI/2007/291</u> <u>DGBA GAD.No. H-14061/31.04.008/2006-07 dated March 21, 2007</u> already provides for a methodology to calculate penal interest based on transaction value of upto ₹ 1 lakh and above ₹ 1 lakh, there is no need for further filters of ₹ 500/- or below (as per our circular DGBA.GAD.No.H-4831/42.01.011/2012-13 dated February 18, 2013). सरकारी एवं बक लेखा िवभाग, के न्�ीय कायार्लय, मुंबई स��ल रेलवे स्टेशन के सामने, चौथी मंिजल,भायखला, मुंबई -400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station,4thFloor, Byculla, Mumbai - 400 008 Telephone: (022) 23016214,(022)23001670 Fax No. (022) 2300 8764/23009126/2301 0095, e-mail : <u>cgmicdgba@rbi.org.in</u>
+-िहन्दी आसान है, इसका �योग बढ़ाइए-
+
+<!-- PAGE 2 -->
+
+4. Accordingly, agency banks are advised that the <u>circular RBI/2019-20/70</u> <u>DGBA.GBD.No.653/42.01.011/2019-20 dated September 26, 2019</u> stands withdrawn from the date of its issue. Agency banks may take note that as advised by the O/o C&AG, penal interest calculation for delayed reporting of State Government transactions will be made as per the instructions given in the RBI <u>circular</u> <u>RBI/2007/291 DGBA. GAD. No. H- 14061/31.04.008/2006-07 dated March 21, 2007</u> without any further filters of ₹ 500/- or below.
+5. You may bring these instructions immediately to the notice of your branches accredited to conduct state government transactions.
+## Yours faithfully
+
+Charulatha S Kar Chief General Manger

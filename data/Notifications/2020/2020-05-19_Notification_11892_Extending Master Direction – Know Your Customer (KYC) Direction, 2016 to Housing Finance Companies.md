@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2020_11892"
+title: "Extending Master Direction – Know Your Customer (KYC) Direction, 2016 to Housing Finance Companies"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2358988BB2AB792443CA17A0FFE3A012B64.PDF"
+pdf_sha256: "38df12f85aa69fb5eb1f0d54f98ef376587d9aaf768f26ef4c68d7b0b4b51ece"
+md_sha256: "c8fa89f945420474260d2e2f60b2c75a3782ac16ff9856590bdd74363567e845"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-05-19_Notification_11892_Extending%20Master%20Direction%20%E2%80%93%20Know%20Your%20Customer%20%28KYC%29%20Direction%2C%202016%20to%20Housing%20Finance%20Companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Extending Master Direction – Know Your Customer (KYC) Direction, 2016 to Housing Finance Companies
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/235 DOR.NBFC (HFC).CC.No.111/03.10.136/2019-20 May 19, 2020
+
+To
+
+## Housing Finance Companies
+
+Madam/ Sir,
+
+## Extending Master Direction – Know Your Customer (KYC) Direction, 2016 to Housing Finance Companies
+
+The <u>Master Direction – Know Your Customer (KYC) Direction, 2016</u> issued by the Bank has consolidated directions on Know Your Customer (KYC), Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT) and is applicable to all Regulated Entities of the Bank. In this connection, attention is invited to our <u>Press Release no.2019-2020/419 dated August 13, 2019</u> on transfer of regulation of Housing Finance Companies to Reserve Bank of India.
+
+2. It has been decided to extend the <u>Master Direction – Know Your Customer (KYC)</u> <u>Direction, 2016</u> to all Housing Finance Companies.
+3. Instructions/ guidelines/ regulations contained in the circulars mentioned in the <u>Appendix</u>, issued by National Housing Bank (erstwhile regulator of Housing Finance Companies) stand repealed. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+िविनयमन िवभाग, क ��य कायार्लय, 2री मंिजल, मुख्य कायार्लय भवन, शहद भगत संह मागर् फोटर्, मुंबई - 400 001 दूरध्वनी:+91-22-22709038, ई-मेल:helpdnbr@rbi.org.in Department of Regulation, Central Office, 2ndFloor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel No:+91-22-22709038, Email: helpdnbr@rbi.org.in �हंदी आसान है, इसका �योग बढाईये
+
+<!-- PAGE 2 -->
+
+## Appendix – List of circulars repealed
+
+|S.No.|Circular number|Date of the circular|Subject|
+|---|---|---|---|
+|1|NHB(ND)/DRS/Pol-No.19/2006|November 27, 2006|Suggestions made by the participants at the meeting of principal officers at Bangalore on September 15, 2006 – Clarifications.|
+|2|NHB(ND)/DRS/Misc.Circular-1/2010|January 25, 2010|KYC Norms/ AML Standards/ CFT.|
+|3|NHB (ND)/DRS/Misc.Circular- No.4/2010-11|May 06, 2011|Guidelines on KYC & AML measures for HFCs.|
+|4|NHB(ND)/DRS/Pol-No.39/2010-11|May 19, 2011|List of Terrorist Individuals/ Organisations – under UNSCR 1267 (1999) and 1822 (2008) on Taliban/ AL-Qaida Organisation.|
+|5|NHB(ND)/DRS/Pol-No.42/2011-12|October 11, 2011|List of Terrorist Individuals/ Organisations – under UNSCR 1267 (1999) and 1989 (2011) on Taliban/ AL-Qaida Organisation.|
+|6|NHB(ND)/DRS/Pol-No.47/2011-12|March 29, 2012|List of Terrorist Individuals/ Organisations – under UNSCR 1267 (1999), 1988 (2011) and 1989 (2011) on Taliban/ AL- Qaida and Associated Individuals and Entities.|
+|7|NHB(ND)/DRS/Pol-No.52/2012-13|September 26, 2012|List of Terrorist Individuals/ Organisations – under UNSCR 1267 (1999), 1988 (2011) and 1989 (2011) on Taliban/ AL- Qaida and Associated Individuals and Entities.|
+|8|NHB(ND)/DRS/Pol.Circular No.59/2013-14|January 24, 2014|Central Know Your Customer Registry.|
+|9|NHB(ND)/DRS/Pol-No.68/2014-15|January 14, 2015|Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) – Registration.|
+|10|NHB(ND)/DRS/Policy Circular No.76/2016-17|November 01, 2016|Central Know Your Customer Registry (Corrected)|
+|11|NHB/ND/DRS/Policy Circular No.94/2018-19|March 11, 2019|Guidelines on KYC & AML Measures for HFCs.|
+
+िविनयमन िवभाग, क ��य कायार्लय, 2री मंिजल, मुख्य कायार्लय भवन, शहद भगत संह मागर् फोटर्, मुंबई - 400 001 <u>दूरध्वनी:+91-22-22709038, ई-मेल:helpdnbr@rbi.org.in</u> Department of Regulation, Central Office, 2ndFloor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel No:+91-22-22709038, Email: helpdnbr@rbi.org.in �हंदी आसान है, इसका �योग बढाईये

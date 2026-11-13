@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2020_11980"
+title: "Sovereign Gold Bond Scheme (SGB) 2020-21- Series VII, VIII, IX, X, XI, XII"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI52DF056138FF5E461F8A6E2EC19CCAED91.PDF"
+pdf_sha256: "924313ca6cc49c956f0288dcb8510854c5eb839381cab962f63ff110f42bb8de"
+md_sha256: "439fe5867f0bf3baeb4a96272dec858c01e232f67ed6ac9a9dae25a6b79701ed"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-10-09_Notification_11980_Sovereign%20Gold%20Bond%20Scheme%20%28SGB%29%202020-21-%20Series%20VII%2C%20VIII%2C%20IX%2C%20X%2C%20XI%2C%20XII.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sovereign Gold Bond Scheme (SGB) 2020-21- Series VII, VIII, IX, X, XI, XII
+
+<!-- PAGE 1 -->
+
+RBI/2020-2021/52 IDMD.CDD.No.730/14.04.050/2020-21 October 9, 2020
+
+The Chairman& Managing Director All Scheduled Commercial Banks, (Excluding RRBs) Designated Post Offices Stock Holding Corporation of India Ltd.(SHCIL) National Stock Exchange of India Ltd. & Bombay Stock Exchange Ltd.
+
+Dear Sir/Madam,
+
+## Sovereign Gold Bond Scheme (SGB) 2020-21- Series VII, VIII, IX, X, XI, XII
+
+Government of India has vide its <u>Notification No F.No4.(4)-B (W&M)/2020 dated October 9</u>, <u>2020</u> has announced the <u>Sovereign Gold Bond Scheme 2020-21, Series VII, VIII, IX, X. XI</u> <u>and XII</u>. Under the scheme there will be a distinct series (starting from Series VII) for every tranche. The terms and conditions of the issuance of the Bonds shall be as per the above notification.
+
+## 2. Date of Issue
+
+The date of issuances shall be as per the details given in the calendar below
+
+|Sr. No.|Tranche|Date of Subscription|Date of Issuance|
+|---|---|---|---|
+|1.|2020-21 Series VII|October 12 - 16, 2020|October 20, 2020|
+|2.|2020-21 Series VIII|November 09 - 13, 2020|November 18, 2020|
+|3.|2020-21 Series IX|December 28 2020 - January 01, 2021|January 05, 2021|
+|4.|2020-21 Series X|January 11-15, 2021|January 19, 2021|
+|5.|2020-21 Series XI|February 01- 05, 2021|February 09, 2021|
+|6.|2020-21 Series XII|March 01- 05, 2021|March 09, 2021|
+
+<!-- PAGE 2 -->
+
+## 3. Period of subscription.
+
+The Subscription of the Gold Bonds under this Scheme shall be open (Monday to Friday) on the dates specified above, provided that the Central Government may, with prior notice, close the Scheme at any time before the period specified above.
+
+## 4. Application
+
+Subscription for the Bonds may be made in the prescribed application form (<u>Form A</u>) or in any other form as near as thereto, stating clearly the grams (in units) of gold and the full name and address of the applicant. Every application must be accompanied by the ‘PAN details’ issued by the Income Tax Department to the investor(s). <u>Scheduled Commercial</u> <u>Banks (excluding RRBs, Small Finance Banks and Payment Banks)</u>, <u>designated Post</u> <u>Offices (as may be notified)</u>, Stock Holding Corporation of India Ltd (SHCIL) and recognized stock exchanges viz., <u>National Stock Exchange of India Limited and Bombay Stock Exchange</u> <u>Ltd</u>. are authorized to receive applications for the Bonds either directly or through agents and render all services to the customers The Receiving Office shall issue an acknowledgment receipt in <u>Form B</u>’ to the applicant.
+
+**5**. In addition to receipt of application, the Receiving Offices are also entrusted with the responsibility of providing service to the investors of the SGB and are required to be guided by rules and regulations issued by RBI in this regard from time to time. With a view to facilitate availability of all current operative instructions regarding servicing of these bonds at one place, RBI has issued consolidated procedural/operational guidelines vide <u>circular</u> <u>IDMD.CDD.2730/14.04.050/2019-20, dated April 13, 2020</u>. and the same is available on RBI website. The Receiving Offices shall be guided by these instructions while dealing with all the procedural aspects and providing service to the investors.
+**6**. All other terms and conditions specified in the notification of Government of India in the Ministry of Finance (Department of Economic Affairs) vide <u>Notification F.No.4(2)-W&M/2018</u> <u>dated March 27, 2018</u> shall apply to the Bonds. Yours faithfully, (R. Gurumurthy) Chief General Manager

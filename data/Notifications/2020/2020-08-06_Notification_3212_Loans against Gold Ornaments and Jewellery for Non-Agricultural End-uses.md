@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2020_3212"
+title: "Loans against Gold Ornaments and Jewellery for Non-Agricultural End-uses"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT19E6AA6A77013644B0B96C2CD7DD4BD825.PDF"
+pdf_sha256: "822ceb7e09e58126bac68962624212dea5541b3976860716f1b7b1212aa5b130"
+md_sha256: "bec7568f895dda1c89f0bee69523e89ba4f74dd3ed04ef5df4b11e64ce83c899"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-08-06_Notification_3212_Loans%20against%20Gold%20Ornaments%20and%20Jewellery%20for%20Non-Agricultural%20End-uses.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Loans against Gold Ornaments and Jewellery for Non-Agricultural End-uses
+
+<!-- PAGE 1 -->
+
+RBI/2020-21/19 DoR.No.BP.BC/6/21.04.048/2020-21 August 6, 2020
+
+All Scheduled Commercial Banks (Including Regional Rural Banks)
+
+Madam/Dear Sir,
+
+## Loans against Gold Ornaments and Jewellery for Non-Agricultural End-uses
+
+Please refer to the <u>circulars DBOD.No.BP.BC.27/21.04.048/2014-15 July 22, 2014</u> and <u>DBR.RRB.BC.No.53/31.01.001/2016-17 dated February 16, 2017</u>. Under the extant guidelines, loans sanctioned by banks against pledge of gold ornaments and jewellery should not exceed 75 per cent of the value of gold ornaments and jewellery.
+
+2. With a view to further mitigate the economic impact of the Covid19 pandemic on households, entrepreneurs and small businesses, it has been decided to increase the permissible loan to value ratio (LTV) for loans against pledge of gold ornaments and jewellery for non-agricultural purposes from 75 per cent to 90 per cent. This enhanced LTV ratio will be applicable up to March 31, 2021 to enable the borrowers to tide over their temporary liquidity mismatches on account of COVID 19. Accordingly, fresh gold loans sanctioned on and after April 1, 2021 shall attract LTV ratio of 75 per cent.
+3. Other terms and conditions of the above-mentioned circulars shall remain applicable.
+## Yours faithfully
+
+(Saurav Sinha) Chief General Manager-in-Charge
