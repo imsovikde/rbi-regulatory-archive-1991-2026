@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2026_13551"
+title: "Review of Circulars issued under Foreign Exchange Management Act, 1999 (FEMA)"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI175F6B054B1ED504FC9884DC0F4460A7934.PDF"
+pdf_sha256: "9430b18948a9a222b5cf87668b5ee813c62e704139cd1727dc0fee6635217577"
+md_sha256: "dd4913b282deb8fe04742e72f9f9b7391aace6b17bdea075f3c9ab84c82255bd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-24_Notification_13551_Review%20of%20Circulars%20issued%20under%20Foreign%20Exchange%20Management%20Act%2C%201999%20%28FEMA%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Circulars issued under Foreign Exchange Management Act, 1999 (FEMA)
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ
+
+भारतीय �रज़वर् बकैं
+
+# RESERVE BANK OF INDIA
+
+RBI/2026-27/175
+
+A.P. (DIR Series) Circular No. 18 June 24, 2026 To
+## All Authorised Persons
+
+Madam / Sir,
+
+## Review of Circulars issued under Foreign Exchange Management Act, 1999 (FEMA)
+
+In pursuance of the Reserve Bank’s ongoing initiative to rationalise the regulatory framework under the Foreign Exchange Management Act, 1999 (FEMA), a review of circulars issued since June 01, 2000, has been undertaken. The circulars, as listed at <u>Annex</u>, that have ceased to be operative owing to subsequent regulatory amendments, redundancy, overlap or supersession by newer directives, are being withdrawn.
+
+2. Authorised Persons may bring the contents of this circular to the notice of their constituents concerned.
+3. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+(Dr. Aditya Gaiha) Chief General Manager-In-Charge

@@ -1,0 +1,140 @@
+---
+doc_id: "Notifications_2026_13550"
+title: "Modification of Returns / Reporting requirements under FEMA, 1999"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT174861384D42127405E96F021116C60778E.PDF"
+pdf_sha256: "e0fc87c9031d2242c516fd0df8f3c9e24a0d75fbf0cfdd02f1fbab2c4d798165"
+md_sha256: "c548fa7f852b29d5621fee2b7189b8f6f8aa502797c4a8f75ecd770355b1ef86"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-24_Notification_13550_Modification%20of%20Returns%20-%20Reporting%20requirements%20under%20FEMA%2C%201999.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Modification of Returns / Reporting requirements under FEMA, 1999
+
+<!-- PAGE 1 -->
+
+RBI/2026-27/174
+
+A.P. (DIR Series) Circular No.17 June 24, 2026 To All Authorised Persons Madam / Sir, **Modification of Returns / Reporting requirements under FEMA, 1999** Attention of Authorised Persons is invited to the provisions contained in the Foreign Exchange Management (Authorised Persons) Regulations, 2026, <u>Master Direction –</u> <u>Money Changing Activities</u>, <u>Master Direction – Money Transfer Service Scheme</u> <u>(MTSS)</u>, and <u>Master Direction – Reporting under Foreign Exchange Management</u> <u>Act, 1999</u>, as amended from time to time.
+2. On a review, it has been decided to rationalise certain reporting requirements, and prescribe/modify reporting formats pursuant to the Foreign Exchange Management (Authorised Persons) Regulations, 2026.
+3. The formats for submission of various returns are provided in the <u>Annex</u> to this circular. The following additional instructions shall apply:
+i) The revised format of FLM-8 shall also capture details relating to write-off of foreign currency notes. The requirement of obtaining prior approval of the Reserve Bank for write-off of foreign currency notes exceeding USD 2000 has been discontinued. Entities maintaining Nostro accounts and reporting the relevant transactions through FETERS shall not submit FLM-8 returns. ii) Authorised Persons having franchisee arrangements shall submit a list of such arrangements within 15 days from the end of each calendar quarter. iii) Indian Agents under MTSS shall submit the list of Sub-Agents on a quarterly basis within 15 days from the end of each calendar quarter.
+4. The following instructions / returns / forms stand discontinued:
+i) Prescribed formats of registers FLM-1 to FLM-7 under the Master Direction – Reporting under FEMA. However, FFMCs and non-bank AD Category-II वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत
+Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+entities shall continue to maintain complete and accurate records of all foreign exchange transactions undertaken by them and shall make such records available to the Reserve Bank for inspection/supervisory purposes, as and when required. ii) Return titled “Quarterly Statement showing summation of Foreign Currency Account opened in India out of export proceeds of Foreign Currency Notes / encashed Travellers’ Cheques.” iii) Requirement for submission of separate List of Additional Locations under MTSS and the requirement of quarterly confirmation regarding the veracity of the list published on the Reserve Bank’s website. iv) Return relating to Statement of Collateral under MTSS. Indian Agents shall, however, continue to ensure adequacy of collateral in terms of extant instructions.
+
+5. <u>Master Direction – Money Changing Activities</u> and <u>Master Direction – Reporting</u> <u>under FEMA</u> are being updated separately to reflect the above changes.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours Sincerely,
+
+(N Senthil Kumar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+# Annex
+
+## <u>FLM-8: Statement of purchases and sales of foreign currency notes</u>
+
+[See paragraph 16(i) of Section V of Master Direction-Money Changing Activities]
+
+**Name of the FFMC / Non-bank AD Cat-II:** ____________________________ **Licence No.** ____________________ **Month and Year of Return:** ____________________________
+
+|||USD|GBP|EURO|JPY|Others (Specify)|
+|---|---|---|---|---|---|---|
+|A|Opening Balance||||||
+|B|Purchases:||||||
+|B.1|Purchases from Public||||||
+|B.2|Purchases through Franchisees / FxCs*||||||
+|B.3|Purchases from AD banks||||||
+|B.4|Purchases from other FFMCs / Non-bank ADs||||||
+|B.5|Imports||||||
+|C|Sales:||||||
+|C.1|Sales to Public||||||
+|C.2|Sales through FxCs*||||||
+|C.3|Sales to AD banks||||||
+|C.4|Sales to other FFMCs / Non-bank ADs||||||
+|C.5|Exports||||||
+|D|Foreign Currency Notes Written- off||||||
+|E|Closing Balance||||||
+
+* Not applicable to FFMCs
+**Purpose**-**code**-**wise Purchases / Sales to Public during the month:**
+
+## Purpose Code Purpose Description Currency Amount
+
+<!-- PAGE 4 -->
+
+## <u>List of Forex Correspondents (FxCs) appointed by Principal ADs</u>
+
+[See Regulation 14(b) of Foreign Exchange Management (Authorised Persons) Regulations, 2026]
+
+**Name of the Principal AD:** ____________________________ **Quarter ended:** ____________________________
+
+|#|Name of the FxC|Address of FxC # outlet|City|State|PIN Code|Date of Appointment as FxC as per the agreement|Foreign exchange facilities available at the FxC outlet|
+|---|---|---|---|---|---|---|---|
+|1||||||||
+|2||||||||
+|3||||||||
+
+# In case an FxC operates through multiple outlets, the address of each outlet may be furnished in separate rows.
+
+<!-- PAGE 5 -->
+
+||Name of the Authorised Person: Quarter ended:|____________________________|List of Franchisees appointed by Authorised Persons [See paragraph 3(ii) of A.P. (DIR Series) Circular No.17 dated June 24, 2026]|____________________________|||
+|---|---|---|---|---|---|---|
+|# 1 2 3|Name of Franchisee|Address of the Franchisee|City|State|PIN Code|Date of Appointment as Franchisee as per the agreement|
+
+<!-- PAGE 6 -->
+
+## Fit and Proper criteria
+
+[See Regulation 8(6)(c) of Foreign Exchange Management (Authorised Persons) Regulations, 2026]
+
+## Name of the Entity: _____________________________________
+
+|Sr No.||||Particulars|Information A. Personal details|
+|---|---|---|---|---|---|
+|1.|Full name|||||
+|2.||Designation||||
+|3.||Present address||||
+|4.||Permanent address||||
+|5.||E-mail address||||
+|6.||Nationality||||
+|7.|available|||Director Identification Number (DIN), if||
+|8.|||Permanent Account Number (PAN)|||
+|9.||Passport Number||||
+|10.|||Educational qualifications|||
+|11.|||Details of Work Experience till date|||
+|12. 13.||court of law, if any. professional body, if any.||Details of civil or criminal prosecution, if any, resulted in conviction in the past or currently pending. Details of restraint orders from a Disqualifications under the Companies Act, 2013 or other applicable corporate law, sanctions imposed by a regulatory body, refusal of admission to or expulsion from a||
+|14.||Details of DoE pending, if any.||investigation|initiated /|
+|15.|||settlements with banks/FIs.|Details of any defaults, write-offs, or||
+|16.|pending.|||Details of insolvency/bankruptcy proceedings, if any, in the past or currently||
+|17. 18.|(e.g.,|KMP,|percentage of shareholding.|Whether associated with any other Authorised Person? If yes, provide name of the Authorised Person, nature of association Promoter, Whether associated with any entity whose authorisation was cancelled / surrendered or application for grant of authorisation has been rejected by RBI? If yes, details thereof.|Director, etc.), B. Relevant Relationships of the Promoter / Director / KMP|
+|19.||Details of relative, Rules, 2014]||the Companies Act, 2013 and Rule 4 of the Companies (Specification of Definition) the past, connected with any Authorised|[Refer Section 2(77) of if any, who is or has been in|
+
+<!-- PAGE 7 -->
+
+Person (including entities whose Authorisation has now been surrendered / revoked).
+
+20. Details of any business, financial, employment or other interests, positions or relationships that may give rise to a potential conflict of interest in the discharge of your duties as Director/KMP. **Undertaking** I confirm that the above information is to the best of my knowledge and belief, true and complete. I undertake to keep the Reserve Bank of India fully informed, as soon as possible, of any events or changes relevant to the information provided above, from the date of this declaration.
+Place:
+
+## Signature: Date:
+
+|Certified that the above declaration has been verified by the entity based on available records,||
+|---|---|
+|information and due diligence, and is found to be true, complete and correct.|Place:|
+|Signature:||
+|Name:|Date:|
+|Designation:||
+|(Authorised Signatory)||

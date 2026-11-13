@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2026_13530"
+title: "Reserve Bank of India [Disbursement of Government Pension by Agency Banks (ABs)] First Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT154F1EC3780BFC846479E554215D870502E.PDF"
+pdf_sha256: "eb919a7e795ae3ef8e57364bb48b629723b98f27a2bd53f28cc11fded3de62f9"
+md_sha256: "4385a50078e3b87d4f63db315f458801c183e5eaf78af97a737e95176bd44521"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-24_Notification_13530_Reserve%20Bank%20of%20India%20%5BDisbursement%20of%20Government%20Pension%20by%20Agency%20Banks%20%28ABs%29%5D%20First%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India [Disbursement of Government Pension by Agency Banks (ABs)] First Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA**_____________________________ <u>www.rbi.org.in</u>
+
+RBI/2026-27/154 CO.DGBA.GBD.No.S228/31.02.007/2026-27 June 24, 2026
+
+## Reserve Bank of India [Disbursement of Government Pension by Agency Banks
+
+## (ABs)] First Amendment Directions, 2026
+
+Please refer to <u>Reserve Bank of India [Disbursement of Government Pension by Agency</u> <u>Banks (ABs)] Directions, 2026, dated April 30, 2026</u>.
+
+2. The Reserve Bank, in its role as banker to the Central Government and State Governments, hereby, issues the following the Amendment Directions, to the Agency Banks, hereinafter specified.
+3. (i) These Directions shall be called the Reserve Bank of India [Disbursement of Government Pension by Agency Banks (ABs)] First Amendment Directions, 2026. (ii) These Amendment Directions shall come into effect from the date of issue.
+4. The Reserve Bank of India [Disbursement of Government Pension by Agency Banks (ABs)] Directions, 2026, are amended as provided below.
+i. Chapter III and consequently para 8 and 9 shall be substituted by the following, namely
+## “Chapter III – Recovery and Refund of Excess Pension Payment
+
+The banks may ensure that no recovery of excess amount from the pension of a Government employee shall be effected without the pensioner’s knowledge and consent, or without the issuance of a prior notice. Further, any such recovery must strictly conform to the applicable service rules and the principles discussed hereinabove. The banks may take a Letter of Undertaking from the pensioner to the effect that in case any excess pension is credited to the account of the pensioner, the pensioner is bound to refund the same to the bank upon receipt of a suitable notice from the bank. _______________________________________________________________________________________________________________ सरकारी एवं बैंक लेखा िवभाग**,** के ी य कायार्लय**,** मुंबई स ें ट ल रे �े े शन के सामने**,** भायखला**,** मुंबई 400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, 4thFloor, Byculla, Mumbai 400 008 <u>Telephone: (022) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-</u>mail: <u>cgmicdgbaco@rbi.org.in</u> **िही आसान है, इसका प्रयोग बढ़ाइए।**
+
+<!-- PAGE 2 -->
+
+“**A. Agency Bank-Attributed Errors**
+
+8. (i) Whenever excess/wrongful pension payment is made to a pensioner due to bank-attributed errors such as clerical errors, arithmetical miscalculations or incorrect application of relevant instructions, the entire amount thereof should be credited to the Government account in lumpsum immediately on detection. (ii) The broad procedure that the banks are required to follow for recovery of such excess /wrongful pension payments made to the pensioner, is given in <u>Annex III</u>. (iii) The banks shall put in place a Board-approved policy on recovery of excess/wrongful pension payment made to the pensioners (including cut-off period beyond which no recovery shall be made), issue appropriate operating procedure/instructions, institute robust monitoring mechanism, and ensure their strict compliance).
+## B. Government-Attributed Errors
+
+9. Whenever such excess/wrongful pension payment is made due to Government attributed errors, the banks shall make recoveries based on the instructions received from the Government, presuming that the latter have complied with all the requirements envisaged by law, including court orders. However, if recovery is to be made from the account balance of a pensioner (as distinguished from the amount payable as pension in a month), express authorization from the customer should be made available to the bank and the same should be kept in its records. If doubts arise regarding the instructions issued by the Government, the banks shall take them up with the respective Government, without reference to the Reserve Bank of India.”
+(Sivakumar Bose) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Annex III
+
+## <u>Broad Procedure to be followed by Agency Banks for Recovery of Excess/Wrongful</u>
+
+## <u>Pension Payment done due to Agency Bank-Attributed Errors</u>
+
+1. As soon as the excess/wrong payment made to a pensioner comes to the notice of the pension disbursing bank, the pensioner should be immediately intimated through a written notice. The notice should invariably contain details of excess/wrong payment made, nature of error, proposed recovery method, and opportunity to make representation to the bank.
+2. Recovery can be made through one or more of the following methods, in order of preference:
+i. **Available Balance Method:** Recovery limited to surplus balance available in the account over a minimum protected amount. ii. **Percentage of Pension Method:** Deduction capped at an agreed percentage (e.g., 10-25%) of monthly pension.
+iii. ***Pensioner-Requested Method:*** Lump-sum or customized instalments as required by the pensioner.
+
+3. No recovery shall be initiated after a defined cut-off period unless:
+- Fraud or misrepresentation by the pensioner is established.
+- Recovery is mandated by law or court order.
+4. If the excess/wrong payment cannot be recovered from the pensioner due to his / her death or discontinuance of pension, then action has to be taken as per the Letter of Authorization given by the pensioner.

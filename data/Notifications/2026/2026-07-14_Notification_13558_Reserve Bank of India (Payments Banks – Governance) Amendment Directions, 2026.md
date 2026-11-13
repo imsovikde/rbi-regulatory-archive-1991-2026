@@ -1,0 +1,262 @@
+---
+doc_id: "Notifications_2026_13558"
+title: "Reserve Bank of India (Payments Banks – Governance)  Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/179PBSE4E3266D1B704F37A1C3C5805B81DAD3.PDF"
+pdf_sha256: "e253468d56d68e924275220a35b9d9c31fe653f57b619ca08aad0d812e1b9d45"
+md_sha256: "e9e0eaf47ba5c8f05581a03de3053e85d9b05f00037a65e19e5d1807cefc047b"
+total_pages: 13
+native_pages: 13
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-14_Notification_13558_Reserve%20Bank%20of%20India%20%28Payments%20Banks%20%E2%80%93%20Governance%29%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Payments Banks – Governance)  Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+## भारतीय रजवव बैंक
+
+# RESERVE BANK OF INDIA
+
+RBI/2026-27/179 DOR.HGG.GOV.152/29.67.001/2026-27 July 14, 2026
+
+## Reserve Bank of India (Payments Banks – Governance)
+
+## Amendment Directions, 2026
+
+Please refer to the <u>Reserve Bank of India (Payments Banks-Governance) Directions,</u> <u>2025</u> (hereinafter referred to as ‘**Directions**’).
+
+2. In an endeavour to enable bank Boards to utilize their time effectively and to facilitate a more focused and qualitative engagement on strategy and risk governance, it has been decided to undertake a review to rationalize the extant RBI directions/circulars on the matters required to be placed before the Board. Accordingly, in exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 and all other provisions / laws enabling the Reserve Bank of India in this regard, the Reserve Bank of India, being satisfied that it is necessary and expedient in public interest so to do, hereby, issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions modify the Directions as under: 3(1) Paragraph 23 of Chapter V shall be deleted and reinserted (with slight modification) after paragraph 16 as under: *“16A. The Board shall exercise oversight on the following:*
+*(i) risk management system, policy and strategy followed by the bank;* *(ii) exposures to related entities of the bank;* *(iii) conformity with corporate governance standards viz. in composition of* *various committees, their role and functions, periodicity of the meetings* *and compliance with coverage and review functions etc.”*
+3(2) Paragraph 17 of Chapter IV and paragraphs 22, 24, 25, 26 and 27 of Chapter V shall be deleted.
+
+<!-- PAGE 2 -->
+
+3(3) Title of Chapter-V ‘Calendar of Reviews and Board Meeting Procedures’ stands amended to ‘Matters to be placed before the Board’.
+
+3(4) After paragraph 27, the following new paragraphs shall be inserted in chapter V as under: *“27A. Notwithstanding anything contained in extant RBI circulars or directions,* *the requirement for matters to be placed before the Board shall be as under:*
+
+*(i) Policies that are required to be placed before the Board for approval* *and those in respect of which such approval can be delegated, shall* *be as specified in* <u>Appendix I</u>*. Review of polices which are specified* *to be approved by Board may be delegated to Board Committees,* *with the Board approving only material amendments thereto.* *(ii) Matters, other than policies, that are required to be placed before the* *Board for approval/review/information, shall be as specified in* <u>Appendix II A</u>*.* *(iii) Matters, other than policies, that may be delegated at the discretion* *of the Board, shall be as specified in* <u>Appendix II B</u>*.*
+*27B. In addition to above, the matters to be placed before the Board may be* *determined based on the following key principles:*
+
+*(i) The Board has ultimate responsibility for the bank’s business* *strategy and financial soundness, key personnel decisions, internal* *organisation and governance structure and practices, and risk* *management and compliance obligations. It may, however, delegate* *certain matters to the Board Committees / Management* *Committees, along with reporting requirements as may be* *necessary.* *(ii) The Board shall clearly articulate the matters reserved for its* *approval or to be brought to its notice for information or reporting.* *The role and responsibilities of the Board prescribed under various* *statutes or regulations, shall be taken into account in determining* *such matters. However, the Board shall ensure that sufficient time is* *dedicated to strategy and risk governance.* *(iii) The Chairperson of the Board shall have the primary responsibility* *for setting the agenda of the meeting.*
+
+<!-- PAGE 3 -->
+
+||(iv)|The Board shall ensure that it receives sufficient information from|
+|---|---|---|
+||(v)|the management to discharge its role effectively. It shall clearly specify the nature and frequency of information required from the management. The Board may seek external reports, if needed. The Board shall periodically review the matters to be placed before it as well as the matters delegated to the Board Committees / Management Committees. The review shall also include the timeliness of circulation of agenda items, adequacy of information captured in the agenda, time allotted for important matters, etc.”|
+|(Scenta Joy)|Chief General Manager|4. These Amendment Directions shall come into force from October 01, 2026. Accordingly, the Directions / Circulars as specified in the appendices shall stand modified to the extent indicated therein with effect from October 01, 2026.|
+
+<!-- PAGE 4 -->
+
+## Appendix I
+
+## Policies to be placed before the Board for approval¹
+
+## Broader Can be
+
+## S. Coverage / Paragraph reference in extant
+
+## Policy delegated
+
+## No. Sub-heads directions/circulars
+
+**2** **Head (Yes /No)**
+
+**1. Investmen** Investments Paragraph <u>6</u>, <u>8</u>, <u>10</u> and <u>17</u> of Reserve No **t Policy** and related Bank of India (Payments Banks –
+activities Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025
+
+**2. Risk** Market Risk Paragraphs <u>18</u> and <u>20</u> of Guidance Note No **Managem** management on Market Risk Management dated **ent Policy** November 28, 2025 **of the** **bank** Paragraph 5(f)(iii) of Master Direction – No
+Reserve Bank of India (Commercial Paper and Non-Convertible Debentures of original or initial maturity upto one year) Directions, 2024 Operational Paragraph 25, <u>26</u>, <u>27</u>, 31, <u>64</u>, <u>74</u>, <u>77</u>, <u>97</u> No Risk & Principle <u>3</u>, <u>4</u> and <u>5</u>, of Guidance Note on Operational Risk Management and Operational Resilience dated November 28, 2025.
+
+|Paragraph 7(1), 7(3), 7(4) and 7(5) of|Yes, in respect|
+|---|---|
+|Reserve Bank of India (Payments Banks|of only|
+|– Miscellaneous) Directions, 2025|paragraph 7(3)|
+
+and 7(4), to any Committee of **#** the Board
+
+|Liquidity Risk|Paragraph 9, 10, 11, 13, 14, 17, 18, and|Yes, in respect|
+|---|---|---|
+|/|ALM 22, of Reserve Bank of India (Payments|of paragraph|
+|Management|Banks – Directions, 2025|10, to any committee to|
+
+## Asset Liability Management)
+
+which powers have been delegated by the Board, in respect of paragraph 13, to Risk Management Committee of the Board and in respect of
+
+a. The matters enlisted here may be read along with the respective RBI Directions. Multiple requirements to place matters before Board, relating to a similar aspect / matter have been listed only once.
+b. Banks are free to regroup the policies as they deem fit, so long as the aspects above are captured in one or more policies. Yes may be read as “yes, at the discretion of the Board.” **#** The directions/circulars shall stand modified w.e.f. October 1, 2026 in accordance with the stance indicated herein
+
+<!-- PAGE 5 -->
+
+|S. No.|Broader Policy Head|Coverage / Sub-heads|Paragraph reference in extant directions/circulars|Can be delegated 2 (Yes /No)|
+|---|---|---|---|---|
+|||Cyber Security Fraud Risk Management-Roles and responsibilitie s of Board / Board Committees & Senior Management Chief Risk Officer (CRO) - Roles and responsibilitie s|Paragraph 3 of Cyber Security Framework in Banks dated June 2, 2016 Paragraph 2.1.1 of annex to Master Directions on Fraud Risk Management in Commercial Banks (including Regional Rural Banks) and All India Financial Institutions dated July 15, 2024 Paragraph 30, and 32 of Reserve Bank of India (Payments Banks-Governance) Directions, 2025|paragraph 14, to Asset Liability Committee No No No|
+|3.|Outsourci ng Policy|-|Paragraph 10, 11, and 12(1) of Reserve Bank of India (Payments Banks-Managing Risks in Outsourcing), 2025|Yes, in respect of paragraph 11 and 12(1) only, to any Committee of the Board|
+|4.|Policy on Digital Banking|Digital payment products and services Prepaid Payment Instruments (PPIs) and its related activities|Paragraph 4 of Master Direction on Digital Payment Security Controls dated February 18, 2021 Paragraph 7.2, 7.9 (a), 7.11(a), and 15.2 of Master Directions on Prepaid Payment Instruments (PPIs) dated August 27, 2021|No No|
+|5.|IT Policy|IT, Information Assets, Business Continuity, Information Security, Cyber Security|Paragraph 5(a) of Master Direction on Information Technology Governance, Risk, Controls and Assurance Practices dated November 7, 2023|No|
+|6.|Responsi ble Business / Lending|Business conduct|Paragraph 5 of Reserve Bank of India (Payments Banks-Responsible Business Conduct) Directions, 2025.|Yes, to any Committee to which powers have been|
+||||5||
+
+<!-- PAGE 6 -->
+
+## Broader
+
+**S.**
+## Coverage / Paragraph reference in extant
+
+## Policy
+
+**No.** **Sub-heads directions/circulars** **Head conduct**
+
+**including customer** Issuance of Paragraph <u>7</u> of Reserve Bank of India **service** debit cards (Payments Banks – Debit Cards: Issuance and Conduct) Directions, 2025
+
+Model of Paragraph <u>6</u> of Reserve Bank of India Insurance (Payments Banks – Undertaking of Distribution, Financial Services) Directions, 2025 Issues of customer appropriatene ss, suitability and grievance redressal
+
+|Acceptance|Paragraph|3 of|circular|on Online|Yes, to any|
+|---|---|---|---|---|---|
+|of Form A2 in|submission of Form A2: Removal of||||Committee to|
+|‘online’ mode for remittance|limits on amount of remittance - (DIR Series) Circular No. 12 dated July 03, 2024 read with MD on Liberalised Remittance Scheme dated January 01,|||A.P.|which powers have been delegated by the Board|
+
+outward
+
+**#**
+
+## 7. Authorizat ion for
+
+## Banking outlets /
+
+**other banking**
+
+**channels and**
+
+**engaging with**
+
+**business agents**
+
+2016, MD on Other Remittance Facilities dated January 01, 2016 and MD on Remittance of Assets dated January 01,
+
+2016.
+Opening, Paragraph <u>6 (1), (2), (3) and (5),</u> of merging, Reserve Bank of India (Payments shifting, Banks-Branch Authorisation) conversion Directions, 2025 and closure of banking outlets / offices / mobile banking facilities Engaging Paragraph <u>6(4)</u>, of Reserve Bank of with Business India (Payments Banks-Branch Corresponde Authorisation) Directions, 2025 nts Engaging Regulation <u>12</u> of Chapter VI of Foreign with Forex Exchange Management (Authorised Corresponde Persons) Regulations, 2026 nts Gold Paragraph <u>1.2(iii)</u> and <u>2.1.1(v)</u> of Gold Monetization Monetization Scheme, October 22, 2015 scheme
+
+## Can be delegated
+
+## (Yes /No)
+
+delegated by the Board Yes, to any Committee to which powers have been delegated by the Board **#**
+
+No
+
+## 8. Policy on Deposits / other
+
+Yes, to any Committee to which powers have been delegated by the Board **#**
+
+No
+
+No
+
+Yes, to any Committee to which powers
+
+<!-- PAGE 7 -->
+
+|S. No.|Broader Policy Head|Coverage / Sub-heads|Paragraph reference in extant directions/circulars|Can be delegated 2 (Yes /No)|
+|---|---|---|---|---|
+||Liability products|||have been delegated by # the Board|
+|9.|Policy on appointm ent & remunerat ion of auditors|Appointment / engagement of Auditors|Paragraph 10.1 of Guidelines for Appointment of SCAs / SAs of Commercial Banks dated April 27, 2021 Paragraph 4.1 and 4.1.1 of Annex to Master Directions on Fraud Risk Management in Commercial Banks (including Regional Rural Banks) and All India Financial Institutions dated July 15, 2024|Yes, to Audit Committee of # the Board No|
+|10.|Policy / criteria on Fit & Proper (F&P) assessme nt of Major Sharehold ers|F&P assessment of major shareholder|Paragraph 6 of Reserve Bank of India (Payments Banks– Acquisition and Holding of Shares or Voting Rights) Directions, 2025 dated November 28, 2025|No|
+|11.|Policy on Compens ation|Compensatio n of Directors/ Chief Executive Officers/ Material Risk Takers Criteria for granting fixed remuneration to its NEDs|Paragraph 37 (1) and (2) of Reserve Bank of India (Payments Banks-Governance) Directions, 2025 Paragraph 35(ii) of Reserve Bank of India (Payments Banks - Governance) Directions, 2025|No No|
+|12.|CSR Policy (donation s etc)|-|Paragraph 7(2) and 56 of Reserve Bank of India (Payments Banks – Miscellaneous) Directions, 2025|No|
+|13.|Complian ce Policy|-|Paragraph 2.1 of Compliance functions in banks and Role of Chief Compliance Officer (CCO) dated September 11, 2020|No|
+|14.|Policy on Protected Disclosur e Scheme|-|Paragraph 4 of Annex to Protected Disclosures Scheme for Private Sector and Foreign Banks dated April 18, 2007|No|
+|15.|Code of conduct/ Ethics policy|-|Paragraph 16 of Guidance Note on Operational Risk Management and Operational Resilience dated November 28, 2025 7|No|
+
+<!-- PAGE 8 -->
+
+|S. No.|Broader Policy Head|Coverage / Sub-heads|Paragraph reference in extant directions/circulars|Can be delegated 2 (Yes /No)|
+|---|---|---|---|---|
+|16.|Policy on Know Your Customer (KYC)|-|Paragraphs 6(1),(2),(3),(4)(i),(4)(ii), 10, and 11, of Reserve Bank of India (Payments Banks – Know Your Customer) Directions, 2025|Yes, in all aspects except paragraph 4(i), to any Committee to which powers have been delegated by the Board|
+|17.|Policy on Interest rate on Deposits|-|Paragraph 6 of Reserve Bank of India (Payments Banks – Interest Rate on Deposits) Directions, 2025 8|Yes, to any Committee to which powers have been delegated by the Board|
+
+<!-- PAGE 9 -->
+
+|||Appendix II – Matters other than policies³ IIA – To be placed before the Board for approval / review / information|
+|---|---|---|
+|S.No|Subject matter|Paragraph reference in extant directions/circulars For Approval|
+|1.|Acquisition of Shares or Voting Rights|Paragraph 23 & 24 of Reserve Bank of India (Payments Banks) – Acquisition and Holding of Shares or Voting Rights) Directions, 2025|
+|2.|Issuance of Regulatory Capital (PDI / RNCPS / RCPS / Basel III Tier 2 Debt Capital / Upper Tier 2 instruments and Lower Tier 2 instruments)|Paragraph 12 (2), 12 (21),13 (2), 13 (21), 15(2), 15(19), 16(1), 16(20), and 17(1) of Reserve Bank of India (Payments Banks – Prudential Norms on Capital Adequacy) Directions, 2025|
+|3.|Reclassifications between categories viz. Held till Maturity (HTM), Available for Sale (AFS) and Fair Value through Profit and Loss (FVTPL)|Paragraph 65 of Reserve Bank of India (Payments Banks – Classification, Valuation and Operation of Investment Portfolio) Directions, 2025|
+|4.|Declaration of Dividend|Paragraph 6 of Reserve Bank of India (Payments Banks – Prudential Norms on Declaration of Dividends and Remittance of Profit) Directions, 2025|
+|5.|Approval by Board of Directors in case of Voluntary Amalgamation|Paragraph 7 and 9 of Reserve Bank of India (Payments Banks – Voluntary Amalgamation) Directions, 2025|
+|6.|RTGS membership|Annex V of the Master Direction on Access Criteria for Payment Systems dated January 17, 2017|
+|7.|Appointment / Reappointment of Managing Director & CEO / PTC|Paragraph 39(ii) of Reserve Bank of India (Payments Banks-Governance) Directions, 2025|
+|8.|Remuneration of WTD|Paragraph 40 of Reserve Bank of India (Payments Banks - Governance) Directions, 2025|
+|9.|Appointment of the Chief Risk Officer (CRO)|Paragraph 33 of Reserve Bank of India (Payments Banks - Governance) Directions, 2025|
+|10.|Appointment of the Chief Compliance Officer (CCO)|Paragraph 2.5 of Compliance functions in banks and Role of Chief Compliance Officer (CCO) dated September 11, 2020|
+|11.|Undertaking business as Indian Agent under|Paragraph 3.2(k) and Paragraph 6(iv)(f), of Master Direction – Money Transfer Service Scheme (MTSS)|
+|3 #|before Board, relating to a similar aspect / matter have been listed only once.|The matters enlisted here may be read along with the respective RBI Directions. Multiple requirements to place matters The directions/circulars shall stand modified w.e.f. October 1, 2026 in accordance with the stance indicated herein 9|
+
+<!-- PAGE 10 -->
+
+|S.No|Subject matter|Paragraph reference in extant directions/circulars|
+|---|---|---|
+||Money Transfer Service Scheme|For Review|
+|12.|Business through brokers in excess of 5% limit|Paragraph 98(8) of Reserve Bank of India (Payments Banks – Classification, Valuation and Operation of Investment Portfolio) Directions, 2025 For Information / Reporting|
+|13.|Customer Service aspects|Paragraph 15 of Reserve Bank of India (Payments Banks - Responsible Business Conduct) Directions, 2025.|
+|14.|Reporting of annual review of donations made by the bank|Paragraph 57 of Reserve Bank of India (Payments Banks – Miscellaneous) Directions, 2025|
+|15.|Fit and proper status of major shareholders|Paragraph 18(4), 19, 20 and 21 of Reserve Bank of India (Payments Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025|
+|16.|Information Security Governance of Payment Aggregators and Payment Gateways|Paragraph 1.1 of Annexure 1 to Master Direction on Regulation of Payment Aggregator (PA) dated September 15, 2025|
+|17.|Operational resilience of business units|Paragraph 55 of Guidance Note on Operational Risk Management and Operational Resilience dated November 28, 2025.|
+|18.|Acquisition of Shares or Voting Rights-Monitoring mechanism to ascertain that a major shareholder has obtained prior RBI approval for acquiring shareholding rights|Paragraph 25 of Reserve Bank of India (Payments Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025|
+|19.|Report on encumbrance of shares – ongoing monitoring of section 12B (5) of BR Act, 1949|Paragraph 28 of Reserve Bank of India (Payments Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025|
+|20.|Reporting of outcome of stress test|Paragraph 63(2) of Reserve Bank of India (Payments Banks-Asset Liability Management Directions, 2025)|
+|||10|
+
+<!-- PAGE 11 -->
+
+||IIB – May be delegated at the discretion of the Board|||
+|---|---|---|---|
+|S.No|Subject matter|Paragraph reference in extant directions/circulars For Approval|May be delegated to|
+|1.|Risk assessment methodology for RBIA|Paragraph 4.1 of guidance note on Risk-Based Internal Audit dated December 27, 2002|Audit Committee of the # Board|
+|2.|Annual Audit Plan|Paragraph 5.1 of guidance note on Risk-Based Internal Audit dated December 27, 2002|Audit Committee of the # Board|
+|3.|Operational manual highlighting the roles/responsibilities of the dealers/mid- office/back-office|Paragraph IV (xiv) of Constituents' Subsidiary General Ledger Account (CSGL) guidelines dated September 22, 2021|Any Committee to which powers have been # delegated by the Board|
+|4.|Allotment of Special Assignments other than Statutory Audit|Paragraph 6.4 of the Guidelines for Appointment of Statutory Central Auditors (SCAs)/Statutory Auditors (SAs) of Commercial Banks (excluding RRBs), UCBs and NBFCs (including HFCs) dated April 27, 2021|Audit Committee of the Board|
+|5.|Annual Banking Outlet Expansion Plan (ABOEP)|Paragraph 18 of Reserve Bank of India (Payments Banks-Branch Authorisation) Directions, 2025|Any Committee to which powers have been # delegated by the Board|
+|6.|Establishing new correspondent banking relationships|Paragraph 73 of Reserve Bank of India (Payments Banks – Know Your Customer) Directions, 2025|Any Committee to which powers have been # delegated by the Board|
+|7.|Authorisation and oversight of service providers, owned or controlled by Directors or key managerial personnel|Paragraph 54 of Reserve Bank of India (Payments Banks - Managing Risks in Outsourcing), 2025 For Review|Any Committee of the Board|
+|8.|Long Form Audit Report (LFAR) to be submitted to the Reserve Bank|Paragraph 5(c) of Long Form Audit Report (LFAR) – Review dated September 5, 2020|Audit Committee of the # Board.|
+|9.|Progress in Implementation of Cassette-Swaps in ATMs|Paragraph 3 of Cassette - Swaps in ATMs, dated March 31, 2022|Any Committee to which powers have been # delegated by the Board|
+|10.|Investment Portfolio|Paragraphs 96(12)(i), 96(12)(ii), and 99(1) of Reserve Bank of India (Payments Banks – Classification,|Risk Management Committee of the # Board|
+|||11||
+
+<!-- PAGE 12 -->
+
+|S.No|Subject matter|Paragraph reference in extant directions/circulars Valuation and Operation of Investment Portfolio) Directions, 2025|May be delegated to|
+|---|---|---|---|
+|11.|Business Correspondent (BC) Model|Paragraph 7(2)(iii), (iv) and 50 of Reserve Bank of India (Payments Banks – Branch Authorisation) Directions, 2025|Any Committee to which powers have been # delegated by the Board|
+|12.|Review and Monitoring of Transactions in Banking Outlets|Paragraph 7(1)(ii), (iii) and (iv) of Reserve Bank of India (Payments Banks-Branch Authorisation) Directions, 2025|Any Committee to which powers have been # delegated by the Board|
+|13.|Review of scheme on doorstep banking services and its progress|Paragraph 7(3)(i) of Reserve Bank of India (Payments Banks-Branch Authorisation) Directions, 2025 Paragraph 76 of Reserve Bank of India (Payments Banks-Responsible Business Conduct) Directions, 2025.|Any Committee to which powers have been # delegated by the Board Customer Service Committee of the # Board|
+|14.|Review, reporting and compliance certificate in relation to all material outsourcing|Paragraph 11, 12(1)(v) and (vi), 21(iv), 36 of Reserve Bank of India (Payments Banks – Managing Risks in Outsourcing) Directions, 2025|11, 12(1)(v) and (vi): Any Committee to which powers have been # delegated by the Board|
+|15.|Effectiveness of Risk-Based Internal Audit|Paragraph 8.2 of Guidance notes on Risk-Based Internal Audit dated December 27, 2002|Audit Committee of the Board|
+|16.|Review of Cyber Security Risks / Reporting of significant cyber security incidents|Paragraph 24.d.vii of the Reserve Bank of India (Information Technology Governance, Risk, Controls and Assurance Practices) Directions, dated November 07, 2023 Paragraph 5 of the Sustained Assurance on Cyber Resilience Framework dated November 1, 2017|Risk Management Committee / IT sub- committee of the Board|
+|17.|Customer Service aspects|Paragraph 6 of Reserve Bank of India (Payments Banks-Responsible Business Conduct) Directions, 2025 For Information / Reporting|Any Committee to which powers have been delegated by the Board|
+|18.|Report by CIV on Vigilance Activities|Paragraph 3 of Annex Internal Vigilance in Private Sector/foreign Banks dated May 26, 2011 12|Any Committee of the # Board|
+
+<!-- PAGE 13 -->
+
+|S.No|Subject matter|Paragraph reference in extant directions/circulars|May be delegated to|
+|---|---|---|---|
+|19.|Analysis of incidents of operational risk failures & their impact|Paragraph 102 of Guidance Note on Operational Risk Management and Operational Resilience dated November 28, 2025|Any Committee of the # Board|
+|20.|Results of review of Business Continuity Planning and its Testing|Paragraph 77 (1) and 82 of Guidance Note on Operational Risk Management and Operational Resilience dated November 28, 2025|Any Committee to which powers have been # delegated by the Board|
+|21.|Assessments of the Operational Risk Management Framework by internal or external audit / risk management function|Paragraph 12 (3) (ii) (c), (d) and 52 of Guidance Note on Operational Risk Management and Operational Resilience dated November 28, 2025|Audit Committee of the # Board|
+|22.|Report on Compliance risks|Paragraph 2.9(iv), 2.9(v) and 2.9(vi) of the Compliance functions in banks and Role of Chief Compliance Officer (CCO) dated September 11, 2020|Audit Committee of the # Board|
+|23.|Review of Fraud risk incidents|Paragraph 2.1.4 of the Master Directions on Fraud Risk Management in Commercial Banks (including Regional Rural Banks) and All India Financial Institutions dated July 15, 2024|Audit Committee of the Board|
+|24.|Collateral management for OTC derivatives|Paragraph 60(5) of Reserve Bank of India (Payments Banks – Prudential Norms on capital adequacy) Directions, 2025|Any Committee of the Board|
+|25.|Reporting of bank’s liquidity risk profile|Para 26(8) of Reserve Bank of India (Payments Banks – Asset Liability Management) Directions, 2025 13|Risk Management Committee|

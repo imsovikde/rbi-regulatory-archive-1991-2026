@@ -1,0 +1,195 @@
+---
+doc_id: "Notifications_2026_13549"
+title: "Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Third Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT173B7B85DF08236469590207FFC7545E6B8.PDF"
+pdf_sha256: "0ed46b9188d18c2e575b092397e4a8aad04cace2b8719f9d955407bad8665f8a"
+md_sha256: "1c55c51782a69d466d5aa0e9887cf0e7c8290f75ca0a8f6c09430a190f4bfc8d"
+total_pages: 14
+native_pages: 14
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-24_Notification_13549_Reserve%20Bank%20of%20India%20%28Rural%20Co-operative%20Banks%20-%20Responsible%20Business%20Conduct%29%20Third%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Third Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+RBI/2026-27/173 DOR.MCS.REC.No.136/01-01-038/2026-27 June 24, 2026 **Reserve Bank of India (Rural Co-operative Banks-Responsible Business** **Conduct) Third Amendment Directions, 2026** Instructions on ‘Limiting Liability of Customers in Unauthorised Electronic Banking Transactions’ for Rural Co-operative Banks (hereinafter referred to collectively as “RCBs” and individually as an “RCB”) have been consolidated in the <u>Reserve Bank of</u> <u>India (Rural Co-operative Banks – Responsible Business Conduct) Directions, 2025</u>. On a review, it has been decided to issue revised instructions on the subject.
+
+**2.** In exercise of the powers conferred by Sections 35A and 56 of the Banking Regulation Act,1949, the Reserve Bank, being satisfied that it is necessary and expedient in public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+## 3. Short Title and Commencement
+
+(1) These Directions shall be called the Reserve Bank of India (Rural Co-operative Banks-Responsible Business Conduct) Third Amendment Directions, 2026.
+(2) These Directions shall apply in cases of electronic banking transactions undertaken by customers of an RCB on or after **January 1, 2027**.
+**4.** These Amendment Directions shall modify the <u>Reserve Bank of India (Rural Co-</u> <u>operative Banks – Responsible Business Conduct) Directions, 2025</u> under: as
+(1) In paragraph 4, the following definitions shall be inserted after sub-paragraph 4(5), namely: ***“4(5.1A) Card Not Present transaction** shall have the same meaning as given* *in the* <u>Reserve Bank of India (Authentication Mechanisms for Digital Payment</u> <u>Transactions) Directions, 2025</u>*.* ***4(5.1B) Card Present transaction** shall have the same meaning as given in the* <u>Reserve Bank of India (Authentication Mechanisms for Digital Payment</u> <u>Transactions) Directions, 2025</u>*.”.*
+(2) In paragraph 4, the following definition shall be inserted after sub-paragraph 4(9C), namely:
+
+<!-- PAGE 2 -->
+
+***“4(9D) Electronic banking transaction (EBT)** shall have the same meaning as* *‘electronic funds transfer’ given in Section 2(c) of the Payment and Settlement* *Systems Act, 2007 and inter alia include both Card Not Present and Card Present* *transactions.”*.
+
+(3) In paragraph 4, the following definition shall be inserted after sub-paragraph 4(12), namely: ***“4(12A) Fraudulent electronic banking transaction (Fraudulent EBT)** means* *an EBT executed by a third-party using the credentials obtained from the customer* *through fraudulent means or executed by the customer by granting approval under* *coercion or duress from the third-party, and / or an unauthorised EBT as defined* *at paragraph 4(25B) below.”*.
+(4) In paragraph 4, the following definitions shall be inserted after sub-paragraph 4(19A), namely: ***“4(19B) Negligence by a customer** inter alia includes the following actions by* *the customer:*
+*(i) failing to exercise reasonable care in usage of credentials such as PIN,* *password, OTP or other details (e.g., providing credentials for carrying out* *transactions to another person, whether intentionally or otherwise, writing* *down and storing the PIN with a debit / credit card, etc.); or* *(ii) not notifying the RCB promptly after finding out about a fraudulent EBT, or* *loss of a debit / credit card; or* *(iii) not paying attention to specific, directed and clear warnings from the RCB* *that a prospective transaction is likely a scam; or* *(iv) downloading malicious apps; or*
+*(v) failing to update her / his registered mobile number / email address with the* *RCB in case of change.* ***4(19C) Negligence by an RCB** inter alia includes the following actions by the* *RCB:*
+*(i) not putting in place the mandated systems and procedures to ensure safety* *and security of EBTs; or* *(ii) not sending mandatory alerts for EBTs; or* *(iii) not providing 24x7 channels for reporting of fraudulent EBTs or loss of debit* */ credit card; or*
+
+<!-- PAGE 3 -->
+
+*(iv) not acting diligently upon a customer notification regarding unauthorised* *EBT(s) or loss of debit / credit card; or*
+
+*(v) system malfunctions / security breaches / internal frauds leading to* *unauthorised EBTs.”.*
+(5) In paragraph 4, the following definition shall be inserted after sub-paragraph 4(24), namely: ***“4(24A) Shadow reversal** means the temporary / provisional credit, of the* *amount involved in fraudulent EBT(s), provided by an RCB to a customer on* *receipt of notification from the customer, before the completion of internal* *investigation or settlement of insurance claim, if any, or any other settlement to* *be made with other parties. While the customer shall not be allowed to use such* *amount, he / she will not bear any additional burden of interest / charges.”.*
+(6) In paragraph 4, the following definition definitions shall be inserted after sub- paragraph 4(25), namely: ***“4(25.1A) Third-party breach** means a situation where the deficiency lies* *neither with the RCB nor with the customer but lies elsewhere in the system and* *includes deficiency on the part of an intermediary such as a Third-Party* *Application Provider (TPAP), Payment Aggregator (PA), Payment Gateway* *(PG), Telecom Service Provider (TSP), etc.”.*
+(7) In paragraph 4, the following definition shall be inserted after sub-paragraph 4(25A), namely: ***“4(25B) Unauthorised electronic banking transaction (Unauthorised EBT)*** *means an EBT which is not authorised by a customer and inter alia includes an* *EBT occurring on account of negligence by an RCB and / or a third-party* *breach.”*.
+(8) In Chapter IV on ‘Customer Guidance and Protection’, the section **C. Limiting** **Liability of Customers in Unauthorised Electronic Banking Transactions** and paragraphs 58 to 70 thereunder shall be deleted and substituted with the following section and paragraphs, namely: ***“CA. Customer Protection in Fraudulent Electronic Banking Transactions*** ***CA.1 Policy*** ***70A.** An RCB, keeping in view the instructions contained in these Directions,*
+
+<!-- PAGE 4 -->
+
+*shall formulate a policy to cover aspects of customer protection in EBTs, such* *as:*
+
+*(1) channels for alerting customers about occurrence of EBTs and reporting of* *fraudulent EBTs;*
+*(2) define the rights and obligations of customers in case of EBTs, including* *fraudulent EBTs, after taking into account the risks to customers arising out of* *customer negligence / RCB negligence / banking system frauds / third-party* *breaches in specified scenarios;*
+*(3) timeline for resolution of complaints and disclosure to customer; and*
+*(4) mechanism for creating customer awareness on their rights and obligations* *in EBTs along with the risks involved.* *The policy must be transparent, non-discriminatory and shall be displayed on* *the RCB’s website along with the details of grievance handling / escalation* *procedure.* ***70B.** An RCB shall design its systems and procedures to make customers feel* *safe about carrying out EBTs. To achieve this, the RCB shall put in place:*
+*(1) appropriate systems and procedures to ensure safety and security of EBTs* *carried out by customers, including those mandated under the* <u>Reserve Bank</u> <u>of India (Authentication Mechanisms for Digital Payment Transactions)</u> <u>Directions, 2025</u>*her and ot relevant instructions issued by the Reserve Bank on* *related matters, as amended from time to time;*
+*(2) robust and dynamic fraud detection and prevention mechanism;*
+*(3) mechanism to assess the risks (for example, gaps in the RCB’s existing* *systems) arising from fraudulent EBTs and measure the liabilities arising out of* *such events;*
+*(4) appropriate measures to mitigate the risks and protect themselves against* *the liabilities arising therefrom; and*
+*(5) a system of continually and repeatedly making the customers aware about* *evolving electronic banking and payments related frauds and the ways to* *protect themselves from such frauds.*
+
+<!-- PAGE 5 -->
+
+## CA.2 Alerts for EBTs
+
+***70C.** An RCB shall ask its customer, availing the facility of EBTs (other than* *ATM cash withdrawals), to mandatorily provide her / his mobile number and* *wherever available, email address. The RCB shall verify the mobile number and* *email address provided by the customer at the time of onboarding and* *subsequently at pre-defined intervals prescribed in its policy.* ***70D.** An RCB shall mandatorily send instant SMS alerts to its customers for all* *EBTs of value more than ₹500. For EBTs of value up to ₹500, an RCB may* *decide to send instant SMS as per its internal policy but without any charge to* *the customer.* ***70E.** An RCB shall send email alerts for all EBTs, wherever email address is* *provided by the customer.* ***70F**. SMS and email alerts as above shall be in addition to any other form of* *alerts, e.g., in-app / push notifications, instant messaging, etc., which the RCB* *may send as per its internal policy. Further, such transaction alerts shall contain* *relevant details pertaining to the EBT such as account / card number, amount,* *date, time, transaction channel, beneficiary / point of transaction, etc.* ***CA.3 Reporting of fraudulent EBTs by customers to RCBs*** ***70G.** An RCB shall, from time to time, advise its customers to report any* *fraudulent EBT to the RCB and also lodge a complaint through* <u>National Cyber</u> <u>Crime Reporting Portal</u> *National Cyber Crime Helpline (1930) or* *at the earliest.* *The RCB shall also inform its customers that the longer the time taken to notify* *the RCB, the higher will be the risk of loss to customer and also to the RCB. To* *facilitate the same, the RCB shall:*
+
+*(1) provide customers with 24x7 access through channels such as phone* *banking, SMS, instant messaging, dedicated email address, IVR, a dedicated* *toll-free helpline, reporting to home branch, etc., for reporting fraudulent EBTs* *that have taken place and / or loss or theft of debit / credit card, etc.;*
+*(2) provide a number in the transaction alert SMS itself, to which the customer* *can immediately send an SMS to notify her / his objection, if any; and*
+*(3) provide a direct link on the home page of its website and mobile application,*
+
+<!-- PAGE 6 -->
+
+*if available, for reporting fraudulent EBTs.* ***70H.** The RCB’s communication systems, deployed for sending alerts and* *receiving the responses thereto, shall record the date and time of delivery of* *the message and receipt of customer’s response, if any.* ***70I.** An RCB shall ensure that its system registers the reporting of any* *fraudulent EBT as a complaint and sends an immediate acknowledgement to* *the customer, along with the complaint number and the date and time of receipt* *of the complaint, through any means such as message to the registered mobile* *number, email to the registered email address, in-app notification (if the* *complaint is registered through app), etc.* ***70J.** On receipt of a complaint regarding any fraudulent EBT from a customer,* *an RCB shall take prompt steps to prevent further unauthorised EBTs in the* *customer’s account(s) under advice to him / her. Further, the RCB shall also* *advise the customer to lodge a complaint on* <u>National Cyber Crime Reporting</u> <u>Portal</u> *National Cyber Crime Helpline (1930) at the earliest. or* ***CA.4 Processing of complaints and establishing liability in fraudulent*** ***EBTs*** ***70K.** The burden of proving customer liability in complaints involving fraudulent* *EBTs shall lie on the RCB. Accordingly, it shall examine and classify each* *complaint under the relevant categories of EBTs as defined in these Directions.* ***70L.** A customer shall be entitled to zero liability and reversal of the transaction* *in cases where the fraudulent EBT occurs due to negligence / deficiency on the* *part of the RCB, irrespective of whether the transaction is reported by the* *customer or not.* ***70M.** A customer shall be entitled to zero liability and reversal of the transaction* *in cases of third-party breach where the customer reports the unauthorised* *fraudulent EBT to the RCB within five calendar days from the date of its* *occurrence. In cases of third-party breach reported to the RCB after five* *calendar days, the customer’s liability shall be determined as per the RCB’s* *policy.* ***70N.** In cases where the fraudulent EBT occurs due to negligence by the*
+
+<!-- PAGE 7 -->
+
+*customer, he / she shall be liable for the loss incurred by him / her, to the extent* *of loss not eligible for compensation as per the mechanism detailed at* *paragraph 70T below, until he / she reports the fraudulent EBT to the RCB.* ***70O**. Loss arising from any unauthorised transaction occurring after the* *reporting of the fraudulent EBT by a customer to an RCB shall be borne by the* *RCB.* ***70P.** An RCB may also, at its discretion, decide to waive off any customer* *liability in case of fraudulent EBTs.* ***70Q.** An RCB shall ensure that a complaint arising out of fraudulent EBT(s) is* *examined, liability therein is established and response, as applicable, is issued* *to the customer within such time as may be specified in the RCB’s policy.* *However, this timeline shall not exceed 45 calendar days from the date of* *receipt of the complaint by the RCB in case of a complaint arising out of* *domestic fraudulent EBT(s) and 60 calendar days from the date of receipt of* *the complaint by the RCB in case of a complaint arising out of cross-border* *fraudulent EBT(s). In cases where the customer is entitled to zero liability as* *provided at paragraphs 70L and 70M above, the response to the customer shall* *also include details of reversal of the transaction(s) concerned. In cases falling* *under paragraph 70N above, the response, in eligible cases, shall include* *details regarding the compensation mechanism prescribed at paragraph 70T* *below.* ***70R.** In cases where the RCB is required to reverse a fraudulent EBT, it shall* *ensure that the reversal is value dated to its original date of occurrence and the* *customer does not suffer loss of interest or bear any additional burden of* *interest / charges, as applicable. Further, in case of a complaint arising out of* *fraudulent EBT(s) in a credit card, an RCB shall provide shadow reversal* *equivalent to the amount involved in the fraudulent EBT(s) within five calendar* *days from the date of receipt of notification from the customer.* ***70S**. In case of rejected complaints, i.e., in cases where customer liability is* *established, an RCB shall disclose the reason for such rejection and with the* *supporting details, if any, to the customer.*
+
+<!-- PAGE 8 -->
+
+## CA.5 Compensation for small value fraudulent EBTs
+
+***70T.** (1) A bona fide victim, being an individual person, including a sole* *proprietor, and having lodged a complaint involving gross loss of an amount up* *to ₹50,000 on account of fraudulent EBT(s) covered under paragraph 70N* *above, shall be compensated 85 per cent of the net loss amount (calculated* *after reducing recoveries made, whether before or after paying the* *compensation, from the gross loss amount), or ₹25,000, whichever is less, once* *during her / his lifetime, subject to the following:*
+
+*(a) loss is established to be bona fide, as per the internal processes* *covered in the RCB’s policy, and*
+*(b) the victim has reported the fraudulent EBT(s) on the* <u>National Cyber</u> <u>Crime Reporting Portal</u> *National Cyber Crime Helpline (1930) or and* *to the RCB within five calendar days from its occurrence.*
+*Explanation: In case of joint account(s), only one of the account holders may* *submit a claim for compensation. The customer availing compensation as a* *joint account holder shall not be eligible for claiming compensation in her / his* *capacity as a single account holder in future and vice versa.*
+
+*(2) (a) For a complaint related to fraudulent EBT(s) involving a loss amount of* *less than ₹29,412, where a compensation of 85 per cent is paid, 65 per cent* *shall be borne by the Reserve Bank, 10 per cent by the customer’s bank and* *the remaining 10 per cent by the beneficiary bank in case of a complaint arising* *out of domestic fraudulent EBT(s), whereas in case of a complaint arising out* *of cross-border fraudulent EBT(s), 65 per cent shall be borne by the Reserve* *Bank and the remaining 20 per cent by the customer’s bank.*
+*(b) For a complaint related to fraudulent EBT(s) involving a loss amount of* *₹29,412 or more but up to ₹50,000, where a compensation of ₹25,000 is paid,* *the Reserve Bank, the customer’s bank and the beneficiary bank shall* *contribute ₹19,118, ₹2,941 and ₹2,941 respectively towards the compensation* *in case of a complaint arising out of domestic fraudulent EBT(s), whereas in* *case of a complaint arising out of cross-border fraudulent EBT(s), the Reserve* *Bank and the customer’s bank shall contribute ₹19,118 and ₹5,882 respectively* *towards the compensation.*
+
+<!-- PAGE 9 -->
+
+*Explanation: Beneficiary bank refers to the bank holding the account where the* *fraudulently debited amount is first credited. In cases where there is more than* *one beneficiary bank, the applicable compensation to be borne by each bank* *shall be in the proportion of the amount credited to their respective account(s).*
+
+*(3) In case any recovery is made in relation with a complaint involving fraudulent* *EBT(s) after the compensation is paid, the customer’s bank shall recalculate* *the compensation payable on the net loss amount and accordingly make* *additional payment from the recovered amount after factoring in the excess* *amount of compensation, if any, paid before the recovery.* ***Illustration 1:** Amount reported lost under the complaint arising out of* *domestic fraudulent EBT(s) – ₹40,000* *Recovery made & credited to customer before compensating – ₹15,000* *Net loss faced by the customer - ₹25,000* *Compensation to be paid to the customer (85% of net loss) – ₹21,250* *Contribution of Reserve Bank - ₹16,250* *Contribution of customer’s bank and beneficiary bank - ₹2,500 each* ***Illustration 2:** Amount reported lost under the complaint arising out of* *domestic fraudulent EBT(s) – ₹40,000* *Compensation paid to the customer – ₹25,000* *Contribution of Reserve Bank - ₹19,118* *Contribution of customer’s bank and beneficiary bank - ₹2,941 each* *Recovery made - ₹40,000* *Apportionment of recovery shall be as under:*
+*To customer – ₹15,000* *To Reserve Bank - ₹19,118* *To customer’s bank and beneficiary bank – ₹2,941 each*
+
+***Illustration 3:** Amount reported lost under the complaint arising out of* *domestic fraudulent EBT(s) – ₹40,000* *Compensation paid to the customer – ₹25,000* *Contribution of Reserve Bank - ₹19,118* *Contribution of customer’s bank and beneficiary bank - ₹2,941 each*
+
+<!-- PAGE 10 -->
+
+*Recovery made after compensation is paid - ₹15,000* *Net loss - ₹25,000* *Compensation payable – ₹21,250* *Additional amount payable - ₹15,000 + ₹21,250 - ₹25,000 = ₹ 11,250* *Apportionment of recovery shall be as under:* *To customer – ₹ 11,250* *To Reserve Bank - ₹19,118 – 16,250 = ₹2,868* *To customer’s bank and beneficiary bank – ₹2941 - ₹2,500 = ₹441 each*
+
+*(4) Based on its examination carried out in accordance with paragraph 70Q,* *where the customer’s bank is satisfied that the complaint is bona fide, it shall* *provide the customer an application form as per the format provided at **Annex*** ***II(1)** to claim compensation for the loss suffered by her / him.*
+*(5) The customer’s bank shall, within five calendar days of receipt of the* *application from a customer, compensate the customer as given above.*
+*(6) The customer’s bank shall seek reimbursement of the amount receivable* *from the Reserve Bank and the beneficiary bank(s) on a quarterly basis by* *submitting an application to the Reserve Bank as per the format provided at* ***Annex II(2).** The application for reimbursement, duly signed by a Senior* *Executive identified by the Top Management of the RCB, shall be submitted* *through email to* <u>dea.fund@rbi.org.in</u> *within 30 calendar days from the end of* *the respective quarter. The Reserve Bank shall settle the claims from banks on* *a net basis i.e., the reimbursable amount to a bank shall be determined by* *deducting the amount owed by the bank (as beneficiary bank) to other banks* *from the amount claimed by it for reimbursement.*
+*(7) The claims made by an RCB to the Reserve Bank shall be subjected to* *internal audit / inspection, as per the RCB’s internal guidelines.* ***70U**. The compensation shall be payable for losses incurred on fraudulent* *EBTs occurring up to one year from the effective date of these Directions. An* *RCB shall retain the records, related to the compensation paid and amount* *claimed by it for reimbursement under the mechanism for audit, supervision* *and review purposes, for two years from the date of closure of the* *compensation mechanism.*
+
+<!-- PAGE 11 -->
+
+## CA.6 Monitoring mechanism
+
+***70V.** An RCB shall put in place a suitable mechanism and structure for periodic* *reporting of complaints involving fraudulent EBTs to the Board or one of its* *Committees identified for the purpose. The reporting shall, inter alia, include* *volume / number of cases and the aggregate value involved and distribution* *across various categories of cases, viz., card present transactions, card not* *present transactions, internet banking, mobile banking, ATM transactions, etc.* *The Board or its Committee shall periodically review the fraudulent EBTs* *reported by customers, the action taken thereon, functioning of the grievance* *redressal and compensation mechanism, etc., and take appropriate measures* *to improve the systems and procedures.”.*
+
+(9) In Chapter IV on ‘Customer Guidance and Protection’, paragraph 79 shall be substituted by the following, namely: *“An RCB shall not levy any charges on its customers for SMS sent in* *compliance to extant regulations or those sent for promotional / marketing /* *customer awareness purposes. In case of SMS sent for other purposes, the* *RCB may levy or waive charges as per its internal policy.”.* (10) In Annexures, the following Annexures shall be inserted after Annex II, namely:
+## “Annex II(1) - Application Form for Compensation for Small Value Fraudulent Electronic Banking Transactions
+
+*The Branch Manager, Date: **_______________*** *______________________ Bank* *______________________Branch*
+
+*Madam/ Dear Sir,* ***Application for Compensation for Small Value Fraudulent Electronic Banking*** ***Transactions***
+
+<!-- PAGE 12 -->
+
+*Please refer to my complaint lodged with National Cyber Crime Reporting Portal* *(*<u>[https://cybercrime.gov.in/Default.aspx](https://cybercrime.gov.in/Default.aspx)</u>*) / National Cyber Crime Helpline (1930)* *with reference / complaint no. _________________ (copy enclosed) regarding the* *fraudulent electronic banking transaction(s) in my bank account / credit card no.* *_______________________.*
+
+***2.** I understand that compensation for small value fraudulent electronic banking* *transactions is available to an individual only once and declare that I have not* *previously availed such a compensation from any bank.*
+***3.** As per the advice dated ________________ received from the bank, an amount* *of ₹__________________ (Rupees ____________________________________* *only) may please be credited to my aforesaid bank account / credit card.*
+***4.** I understand that in case of my claim being established as ‘false’ or ‘repeated* *claims’ in future, I will be liable to refund the compensation received.*
+***5.** I authorise the bank to debit the additional amount received by me over and* *above the amount lost in the fraudulent electronic banking transaction(s) if any* *subsequent recovery is credited to my account.* ***Signature of the applicant:*** ***Name of applicant: _____________________*** ***Unique Customer Identification Code: _________________________*** ***Address: _____________________________*** ***__________________________________*** ***__________________________________*** ***__________________________________*** ***Contact No.: _______________________*** ***Email Address: _____________________***
+## FOR OFFICE USE
+
+*(may be modified by the RCB as per its own requirement)*
+
+*___________________________________________*
+
+<!-- PAGE 13 -->
+
+## Annex II(2) - Compensation for Small Value Fraudulent Electronic Banking
+
+## Transactions – Claim Form for Banks
+
+***Name of the Bank**:* ***DEA Fund Code**:* ***Claim for the Quarter Ended: Mar’ 27/ Jun’ 27/ Sep’ 27/ Dec’ 27 (Put*** ✓***)*** ***Bank’s Current Account No. Maintained with RBI / Sponsor Bank:*** ***IFSC:***
+
+## I. Details of compensation paid by the bank to customers during the quarter:
+
+|Category of cases (A)|No. of customer s compensa ted (B)||Total amount involved in the complai nts (in ₹) (C)|Amount of compensa tion paid (in ₹) (D)|Amount receivable from RBI (in ₹) (E = 76.48% of (D))|Amount receivable from beneficiary banks (in ₹) (F = 11.76% of (D))||Details of amount receivable from beneficiary banks at (F) – Bank-wise||
+|---|---|---|---|---|---|---|---|---|---|
+|Domestic Fraudulen t EBTs|||||||Nam e of Bank|DEA Fund Code¹|Amount Receiva ble (in ₹)|
+|Cross- Border Fraudulen t EBTs|||||||Not Applicable|||
+|Total|was paid to the customer:|||II. Details of recovery received by the bank during the quarter after compensation||||(G) Total amount receivable by the bank ((E)+(F)) (in ₹) = ______________________||
+|Category of cases 1 Please refer to|No. of cases where recovery was received by the bank||Total amount recovered (in ₹)|Net recovered amount available with the bank after paying the customer (in ₹) The Depositor Education and Awareness Fund Scheme, 2014|Recovered amount refundabl e to RBI (in ₹)|Recovered amount refundable to beneficiary banks (in ₹) for DEA Fund Code.||Details of amount refundable to beneficiary banks at (M) – Bank-wise||
+
+<!-- PAGE 14 -->
+
+## (L = (M =
+
+## (H) (I) (J) (K) 76.48% of 11.76% of
+
+## (K)) (K))
+
+*Domestic **Name DEA Amount*** *Fraudulen **of Fund Refund*** *t EBTs **Bank Code able*** ***(in ₹)***
+
+*Cross-* *Border Not Applicable* *Fraudulen* *t EBTs*
+
+***(N) Total amount to be refunded by the bank***
+## ((L)+(M)) (in ₹) =
+
+## Total
+
+## ______________________ ____
+
+# The claim for reimbursement for the quarter ended ________, 2027 is ₹__________________ (Rupees _________________________________________
+
+# only) ((G) – (N)).
+
+# i. I certify that the above details have been subjected to internal audit / inspection
+
+# as per the bank’s internal guidelines and are verified and found to be correct.
+
+# ii. I confirm that no duplication of claims has been made in the submission.
+
+# (Signature) (To be signed and stamped by the Identified Executive)
+
+# (Name & Designation) Date:
+
+# Seal: ”.
+
+# (Veena Srivastava) Chief General Manager

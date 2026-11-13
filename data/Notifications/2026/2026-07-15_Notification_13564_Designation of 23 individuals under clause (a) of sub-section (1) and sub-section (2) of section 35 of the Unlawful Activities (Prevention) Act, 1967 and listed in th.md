@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2026_13564"
+title: "Designation of 23 individuals under clause (a) of sub-section (1) and sub-section (2) of section 35 of the Unlawful Activities (Prevention) Act, 1967 and listed in the Fourth Schedule of the Act"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT186814ABE7F5C23416AAC1C57C5EE9DBF15.PDF"
+pdf_sha256: "e078e3ec3f1de83dbe0e3630d838df2b7795d137b05a25181ad964e3b7dcc901"
+md_sha256: "1b2cb7b743d59585e0a716528d4961c4f324bce12526c45bbb2e67c5ac506da7"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-15_Notification_13564_Designation%20of%2023%20individuals%20under%20clause%20%28a%29%20of%20sub-section%20%281%29%20and%20sub-section%20%282%29%20of%20section%2035%20of%20the%20Unlawful%20Activities%20%28Prevention%29%20Act%2C%201967%20and%20listed%20in%20th.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Designation of 23 individuals under clause (a) of sub-section (1) and sub-section (2) of section 35 of the Unlawful Activities (Prevention) Act, 1967 and listed in the Fourth Schedule of the Act
+
+<!-- PAGE 1 -->
+
+RBI/2026-27/186 DOR.AML.REC.159/14.06.001/2026-27 July 15, 2026
+
+The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Financial Institutions
+
+Madam/Dear Sir,
+
+**Designation of 23 individuals under clause (a) of sub-section (1) and sub-section**
+
+**(2) of section 35 of the Unlawful Activities (Prevention) Act, 1967 and listed in the** **Fourth Schedule of the Act** In terms of Chapter IX on “*Requirements/obligations under International Agreements -* *Communications from International Agencies*” of the Reserve Bank of India-Know Your Customer, Directions, 2025 dated November 28, 2025 (amended as on December 29,
+2025) (“Directions”), as applicable, regulated entities shall strictly follow the procedure laid down in the UAPA Order dated February 2, 2021 (Annex I of these Directions), and ensure the meticulous compliance with the Order issued by the Government*.* Further, regulated entities shall report the details of accounts resembling any of the individuals / entities in the lists to FIU-IND in addition to advising the Ministry of Home Affairs (MHA) as required under UAPA notification dated February 2, 2021. In this regard, it is reiterated that the UAPA Order in Annex I of the aforementioned Directions shall also apply to amendments carried out in Schedule IV and I of the UAPA, 1967 apart from the UNSC lists mentioned in the Order.
+2. In this connection, please refer to the notifications dated July 04, 2026 of the MHA**,** as per which**,** following individuals have been declared as “Terrorist” and have been listed in the Fourth Schedule of UAPA, 1967, under clause (a) of sub-section (1) and sub- section (2) of section 35 of UAPA, 1967. The Statutory Order (S.O.) numbers and the respective entries are as provided below:
+िविनयमन िवभाग, कें द्र ी य कायार्लय, 12वीं और13वीं मंिज़ल, नरीमन भवन, िवनय के शाह मागर्, नरीमन पॉइंट के पास, मुंबई-400021 Department of Regulation, Central Office, 12th& 13thFloor, Nariman Bhavan, Vinay K Shah Marg, Near Nariman Point, Mumbai – 400021 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+## S.O. Numbers Entries
+
+|3623(E)|"58. Masood Ilyas Kashmiri @ Mufti Masood Ilyas @ Masood Ilyas @ Abu Mohammad @ M. Masood Ilyas.”|
+|---|---|
+|3624(E)|“59. Mohammad Mussadiq @ Doctor @ Abdul Manan @ Sajjad @ Hamza @ Wahid Khan.”|
+|3625(E)|“60. Mufti Muhammad Asghar Khan @ Abu Saad @ Saad Jimi”|
+|3626(E)|"61. Hafiz Abdul Shakoor @ Qari Zarrar."|
+|3627(E)|"62. Abdullah Jehadi @ Shah Nawaz @ Al Hijama."|
+|3628(E)|"63. Firdous Ahmad Bhat."|
+|3629(E)|"64. Ghulam Fareed @ Gulshan Kumar @ Fareed."|
+|3630(E)|"65. Haroon Rashid Ganai @ Shunoo."|
+|3631(E)|"66. Bilal Ahmad Mir @ Ahmad Bhai."|
+|3632(E)|"67. Abid Quyoom Lone."|
+|3633(E)|"68. Nazir Ahmed Gujjar @ Munazil."|
+|3634(E)|"69. Abdul Rauf @ Hafiz Adbul Rauf @ Hafiz Abdul Raouf @ Hafiz Abdur Rauf."|
+|3635(E)|"70. Ashfaq Ahmad @ Ishfaq Ahmad."|
+|3636(E)|"71. Hafiz Khalid Waleed @ Hafiz Khalid Naik @ Khalid Walid."|
+|3637(E)|"72. Maulana Imdad Ullah Makki @ Maulana Imdad @ Imdad Bhai @ Maulana Imdadullah."|
+|3638(E)|"73. Maulana Saifullah Khalid @ Waliyul @ Mohd. Salim @ Wajid."|
+|3639(E)|"74. Mohammad Yaqoob @ Abu Sumama @ Samama Ilyas @ Waris Ali."|
+
+<!-- PAGE 3 -->
+
+|3640(E)|"75. Molana Yousaf Taibi @ Mohammad Yousaf."|
+|---|---|
+|3641(E)|"76. Owais Farooz @ Owais Ahmad Mir @ Owais Farooz Mir."|
+|3642(E)|"77. Qari Yaqub Sheikh @ Qari Mohammed Yaqub Sheikh @ Yaqoob Sheikh @ Qari Shaikh Muhammad Yaqoob @ Mohammad Yaqoob."|
+|3643(E)|"78. Rana Iftikhar @ Rana Waleed Atif @ Rana Iftikhar Hyderi @ Rana Iftikhar Ahmad @ Hydeer Khan."|
+|3644(E)|"79. Waseem Noor Jat @ Qari Waseem."|
+|3645(E)|"80. Mohammed Shaheed Faisal @ Ustad @ Muhandis @ Zakir."|
+
+3. Regulated Entities (REs) are advised to take note of the aforementioned Gazette notifications issued by MHA for necessary compliance. REs shall also take note of any future amendments to Schedule IV of the UAPA, 1967, for immediate necessary compliance. Yours faithfully, (Veena Srivastava) Chief General Manager

@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2026_13515"
+title: "Reporting of FCNR (B) Deposits, ECB and OFCB mobilized under Reserve Bank’s Swap Facility"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT14484C8480AA43A4A199EE98FD684E7BC84.PDF"
+pdf_sha256: "42c77268e4560744f5e8015f74aff5fd77c74496aa54c894b86c3ee51de1a924"
+md_sha256: "b79d358568341ed0815dd01d58f8bc7de51c3d52ddc205a11c5418b3a688e2e3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-19_Notification_13515_Reporting%20of%20FCNR%20%28B%29%20Deposits%2C%20ECB%20and%20OFCB%20mobilized%20under%20Reserve%20Bank%E2%80%99s%20Swap%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reporting of FCNR (B) Deposits, ECB and OFCB mobilized under Reserve Bank’s Swap Facility
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ
+
+भारतीय �रज़वर् बकैं
+
+# RESERVE BANK OF INDIA
+
+RBI/2026-27/144
+
+A.P. (DIR Series) Circular No. 15 June 19, 2026 To
+## All Authorised Dealer Category-I Banks
+
+## Madam / Sir
+
+## Reporting of FCNR (B) Deposits, ECB and OFCB mobilized under Reserve Bank’s Swap Facility
+
+Attention of Authorised Dealer (AD) Category-I banks is invited to circulars <u>FMOD.MAOG.No.S-56/01.06.016/2026-27 dated June 8, 2026</u>, on ‘Swap Facility for FCNR (B) Deposits’ and <u>FMOD.MAOG.No.S-57/01.06.016/2026-27 dated June 8,</u> <u>2026</u>, on ‘Swap Facility for External Commercial Borrowings and Overseas Foreign Currency Borrowings’.
+
+2. All AD Category-I banks are advised to submit daily data on FCNR (B) deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs), mobilized under the provisions of the above FMOD circulars, by 6 p.m. every day. The data shall be submitted in the format provided at <u>Annex I</u> for FCNR (B) deposits to <u>fedcoepd@rbi.org.in</u>, <u>Annex II</u> for ECBs to ecbframework@rbi.org.in and for OFCBs in Annex III to fmrdfx@rbi.org.in. In case of no transactions during the day, a NIL statement should be submitted (except on Saturdays and holidays).
+3. The data on FCNR (B) deposits, ECBs and OFCBs from June 08, 2026 till issuance of these directions, shall be submitted along with the first reporting due on June 22, 2026.
+
+<!-- PAGE 2 -->
+
+4. The directions contained in this circular have been issued under Sections 10(4), 11(1) and 11(2) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+## (Dr. Aditya Gaiha)
+
+Chief General Manager-In-Charge Enclosures: Annex I, II and III

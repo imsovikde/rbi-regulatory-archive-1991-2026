@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2026_13561"
+title: "Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Second Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI183EA7400834F5C439AA39944FD0DB7669C.PDF"
+pdf_sha256: "7eacbe6e398cbe407f065b015681d4b117f11e8033890586eda888bf04a7f011"
+md_sha256: "2ec79fa482868ce6378f91702c5c360a4c03f85ab9669052c43f56f117abbf2d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:32:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-15_Notification_13561_Reserve%20Bank%20of%20India%20%28Non-Banking%20Financial%20Companies%20%E2%80%93%20Credit%20Facilities%29%20Second%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Second Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2026-27/183 DOR.STR.REC.156/21-04-048/2026-27 July 15, 2026 **Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities)** **Second Amendment Directions, 2026**
+
+Please refer to <u>Reserve Bank of India (Non-Banking Financial Companies – Credit</u> <u>Facilities) Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. In exercise of the powers conferred by the sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934; sections 30A and 32 of the National Housing Bank Act, 1987 and section 3 read with section 31A and section 6 of the Factoring Regulation Act, 2011, and all other laws enabling the Reserve Bank of India (hereinafter called the Reserve Bank) in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. These Amendment Directions modify the Directions as under:
+(i) In paragraph 70, an Explanation shall be added as under: ***Explanation**: Where it is possible for a project to be operationalised as multiple* *independent viable units, a NBFC may at its discretion finance such* *independent units as separate projects with their own financial closure,* *provided each unit is appraised ex-ante for standalone viability.* (ii) In paragraph 72, an Explanation shall be added as under: ***Explanation**: For the purpose of this paragraph, for projects in electricity* *generation where the project scope involves both generation and transmission* *(evacuation infrastructure), the right of way requirement for transmission may* *be determined as per sub-paragraph (3).* व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001
+टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+4. The above amendment would come into force with immediate effect. (Vaibhav Chaturvedi) Chief General Manager
