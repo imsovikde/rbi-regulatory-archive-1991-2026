@@ -1,0 +1,40 @@
+---
+doc_id: "Press-Releases_2012_27333"
+title: "Reserve Money for the week ended September 28, 2012 and Money Supply for the fortnight ended September 21, 2012"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR563RM1012.pdf"
+pdf_sha256: "0411fea4e0e84829ded626c1c25719c19b9e118040dbe387654cbe7f1b2d5c9a"
+md_sha256: "1ece5014ff07d2bdd1bfdea2581f0e3b0e91a16a0ab4c5a10ba15e109350d97e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:05:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-10-03_Press-Release_27333_Reserve%20Money%20for%20the%20week%20ended%20September%2028%2C%202012%20and%20Money%20Supply%20for%20the%20fortnight%20ended%20September%2021%2C%202012.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Money for the week ended September 28, 2012 and Money Supply for the fortnight ended September 21, 2012
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## October 03, 2012
+
+## Reserve Money for the week ended September 28, 2012 and
+
+## Money Supply for the fortnight ended September 21, 2012
+
+The Reserve Bank has today released data on <u>Reserve Money</u> for the week ended September 28, 2012 and <u>Money Supply</u> for the fortnight ended September 21, 2012.
+
+## J. D. Desai
+
+**Press Release** : **2012-2013/563** Assistant Manager
