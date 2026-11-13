@@ -1,0 +1,29 @@
+---
+doc_id: "Notifications_2008_4590"
+title: "Standing Liquidity Facilities for Banks and Primary Dealers"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/88104.pdf"
+pdf_sha256: "d7cd487dcc4a22675c0b62466f9c4a539fcebc6e1c7c4c220484898e9eaac0a2"
+md_sha256: "658a74aab999d6084f9c0e7fe3b9b4353771773b19b743c5f2d1451be52b72a1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-11-03_Notification_4590_Standing%20Liquidity%20Facilities%20for%20Banks%20and%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standing Liquidity Facilities for Banks and Primary Dealers
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/256 REF.No.MPD.BC. 308 /07.01.279/2008-09
+
+## November 3, 2008
+
+To All Scheduled Banks [excluding Regional Rural Banks (RRBs)] and Primary Dealers Dear Sir/Madam, **Standing Liquidity Facilities for Banks and Primary Dealers** As announced in the Reserve Bank’s Press Release dated November 1, 2008, the fixed repo rate under the Liquidity Adjustment Facility (LAF) has been reduced by 50 basis points from 8.0 per cent to 7.5 per cent with effect from November 3, 2008.
+
+2. Accordingly, the Standing Liquidity Facilities provided to banks (export credit refinance) and Primary Dealers (PDs) (collateralised liquidity support) from the Reserve Bank would be available at the repo rate, *i.e.,* at 7.5 per cent with effect from November 3, 2008.
+Yours faithfully, **(A.B. Chakraborty)** Adviser

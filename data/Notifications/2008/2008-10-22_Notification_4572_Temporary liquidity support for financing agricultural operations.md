@@ -1,0 +1,28 @@
+---
+doc_id: "Notifications_2008_4572"
+title: "Temporary liquidity support for financing agricultural operations"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87963.pdf"
+pdf_sha256: "afb3ab8930bf0cb2df4d86643b97c924e4ef59b12f6fe0547c9e1f953b703a8b"
+md_sha256: "4c9a7049b45949df38f25c4f9fadcd7d791552deb6026953f6619b37185c18a7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-10-22_Notification_4572_Temporary%20liquidity%20support%20for%20financing%20agricultural%20operations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Temporary liquidity support for financing agricultural operations
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/244 **RPCD.PLFS. No. BC. 55 /05.04.02/2008-09** October 22, 2008 The Chairmen/Chief Executives of all Scheduled Banks / NABARD Dear Sirs, **Temporary liquidity support for financing agricultural operations** Please refer to our circular RPCD.PLFS. No. BC. 45 /05.04.02/2008-09 dated October 15, 2008, on the captioned subject.
+
+2. The rate of interest on the temporary liquidity support for financing agricultural operations, as mentioned therein, has since been revised. Accordingly, the rate of interest on the above facility stands reduced to the prevailing fixed repo rate under LAF, i.e., **8 per cent** per annum **with effect from October 20, 2008**.
+3. All other conditions of the above circular remain unchanged.
+Yours faithfully,
+
+(G.Srinivasan) Chief General Manager – in – Charge

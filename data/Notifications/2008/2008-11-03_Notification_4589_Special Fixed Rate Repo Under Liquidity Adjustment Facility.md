@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2008_4589"
+title: "Special Fixed Rate Repo Under Liquidity Adjustment Facility"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/88103.pdf"
+pdf_sha256: "0351f08186449b246c228010fba921cf2ee74a5cbec7421f0d65d127ae31e586"
+md_sha256: "acaa47277542df73557d99ae8265ffa07ca35c455617b4c6a1cbf1d231a2c424"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:47:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-11-03_Notification_4589_Special%20Fixed%20Rate%20Repo%20Under%20Liquidity%20Adjustment%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Special Fixed Rate Repo Under Liquidity Adjustment Facility
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/258 FMD.MOAG. No. 29/01.01.01/2008-09
+
+## November 3, 2008
+
+All Scheduled Commercial Banks (excluding RRBs) and Primary Dealers
+
+Dear Sir,
+
+## SPECIAL FIXED RATE REPO UNDER LIQUIDITY ADJUSTMENT FACILITY
+
+Please refer to our circular FMD.MOAG. No. 26/01.01.01/2008-09 dated October 14, 2008 on the captioned subject.
+
+2. As already announced, it has been decided to extend, on a purely temporary and ad- hoc basis, the special term repo facility and allow banks to avail liquidity support under the LAF at the extant repo rate through relaxation in the maintenance of SLR to the extent of up to 1.5 per cent of their NDTL. Further, this relaxation in SLR is to be used exclusively for the purpose of meeting the funding requirements of NBFCs and MFs. Banks can apportion the total accommodation allowed above between MFs and NBFCs flexibly as per their business needs.
+3. Accordingly, Reserve Bank shall now conduct the special fixed rate term repo of 14 days’ tenor under Liquidity Adjustment Facility every day until further notice up to a *cumulative* amount of Rs 60,000 crore on outstanding basis. As hitherto, the details of the repo including the rate, the notified amount and the date of reversal shall be announced each day through a press release.
+4. This repo will be in *addition* to the repo/reverse repo auctions conducted under Liquidity Adjustment Facility (LAF) and Second Liquidity Adjustment Facility (SLAF) which will be held as usual.
+5. The other terms and conditions for the special repo would remain as notified by our earlier circulars on the Liquidity Adjustment Facility.
+6. The modalities of operationalisation of the relaxation in maintenance of SLR are being advised separately by our Department of Banking Operations and Development.
+Yours faithfully,
+
+(Chandan Sinha) Chief General Manager
