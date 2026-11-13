@@ -1,0 +1,307 @@
+---
+doc_id: "Circulars_2005_UBD_BPD_PCB_MC_No_4_09_27_00_2005-06"
+title: "Master Circular - Guarantees, Co-Acceptances & Letters of Credit"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65238.PDF"
+pdf_sha256: "42c043e1ac4ca62683c01a23e5b15e7fa77731150f1996190f4211ba08cfb635"
+md_sha256: "a9092615e7dbeb5abd05141d9dab0e084993e7e1a47cb61230efbf429de7d89e"
+total_pages: 16
+native_pages: 16
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:50:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-08-11_Circular_UBD.BPD%28PCB%29.MC.No.4-09.27.00-2005-06_Master%20Circular%20-%20Guarantees%2C%20Co-Acceptances%20%26%20Letters%20of%20Credit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Guarantees, Co-Acceptances & Letters of Credit
+
+<!-- PAGE 1 -->
+
+## Master Circular
+
+## GUARANTEES, CO-ACCEPTANCES &
+
+## LETTERS OF CREDIT
+
+(Updated up to 30 June, 2005) (The Master Circular is also available at RBI web-site <u>www.rbi.org.in</u> and may be downloaded from there)
+
+# Withdrawn
+
+## RESERVE BANK OF INDIA
+
+Urban Banks Department, Central Office, Mumbai.
+
+<!-- PAGE 2 -->
+
+RBI/2005-06/111 UBD.BPD(PCB).MC.No.4 /09.27.00/2005-06 August 11, 2005
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir/madam, Master Circular Guarantees, Co-Acceptances & <u>Letters of Credit</u>
+
+Please refer to our Master Circular UBD.BPD (PCB)MC.No.12/09.27.00/2004- 05 dated September 21, 2004 on the captioned subject (available at RBI website <u>www.rbi.org.in</u>). The enclosed Master Circular consolidates and updates all the instructions/guidelines on the subject up to June 30, 2005.
+
+2. Please acknowledge receipt of this Master Circular to the Regional Office concerned of this Department.
+Yours faithfully
+
+# Withdrawn
+
+(N.S.Viswanathan) Chief General Manager-in-charge Encls: As above
+
+<!-- PAGE 3 -->
+
+### Master Circular
+
+## Guarantees, Co-Acceptances &
+
+## <u>Letters of Credit</u>
+
+## <u>Contents</u>
+
+1.Guarantees
+1.1Issue of Guarantees
+1.1.1 Broad Guidelines
+1.1.2 Purpose
+1.1.3 Maturity
+1.1.4 Volume
+1.1.5 Secured Guarantees
+Withdrawn
+
+1.1.6 Unsecured Guarantees
+1.1.7 Deferred Guarantees
+1.2 Guarantees in respect of Commodities covered under Selective Credit Controls
+1.3 Safeguards in Issuance of Guarantees
+1.4 Payment under Bank Guarantees-Immediate Settlement of Cases
+1.5 Delay in Obtaining Certified Copies of Judgements
+1.6 Correspondence with Government Departments
+2. Co-acceptance of Bills
+2.1 Irregularities in Co-acceptance of Bills
+2.2 Safeguards
+
+<!-- PAGE 4 -->
+
+3. LCs 3 Guidelines for Grant of LCs facility
+3.2 LCs for Commodities Covered under Selective Credit Controls
+3.3 Safeguards in Opening of LCs
+3.4 Payment under LCs-Immediate Settlement of Claims
+4. Other Common Guidelines
+4.1 Credit Exposure Norms and Statutory/Other Restrictions on Non-fund Based Limits o Appendix
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+Master Circular
+
+Guarantees, Co-Acceptances & <u>Letters of Credit</u>
+
+1. GUARANTEES
+1.1 Issue of Guarantees
+1.1.1 Broad Guidelines In view of the risks involved in the business of issuance of guarantees, the Primary (Urban) Co-operative Banks (PCBs) should extend guarantees within restricted limits so that their financial position is not impaired. The banks should follow certain broad guidelines in respect of their guarantee business as indicated in the following paragraphs.
+1.1.2 Purpose
+(i) As a general rule, banks may provide only financial guarantees and not performance guarantees. (ii) However, the scheduled banks may issue performance guarantees on behalf of their constituents subject to exercising due caution in the matter.
+# Withdrawn
+
+1.1.3 Maturity
+It would be desirable for PCBs to confine their guarantees to relatively short-term maturities. Guarantees should not be issued for periods exceeding ten years in any case.
+
+1.1.4 Volume The total volume of guarantee obligations outstanding at any time may not exceed 10 per cent of the total owned resources of the bank comprising paid up capital, reserves and deposits. Within the overall ceiling, proportion of unsecured guarantees outstanding at any time may be limited to an amount equivalent to 25% of the owned funds (paid up capital + reserves) of the bank or 25% of the total amount of guarantees, whichever is less.
+
+<!-- PAGE 6 -->
+
+1.1.5 Secured Guarantees
+Banks should preferably issue secured guarantees. A secured guarantee means a guarantee made on the security of assets (including cash margin), the market value of which will not at any time be less than the amount of the contingent liability on the guarantee, or a guarantee fully covered by counter guarantee/s of the Central Government, State Governments, public sector financial institutions and/or insurance companies. Banks should generally provide deferred payment guarantees backed by adequate tangible securities or by counter guarantees of the Central or the State Government or public sector financial institutions or of insurance companies and other banks.
+
+1.1.6 Unsecured Guarantees
+Banks should avoid undue concentration of unsecured guarantee commitments to particular groups of customers and/or trades. The banks' Board of Directors should fix suitable proportions for issuance of unsecured guarantees on behalf of any individual constituent so that these guarantees do not exceed a -
+
+(a) reasonable proportion of the total obligations in respect of unsecured guarantees provided by the bank to all such constituents at any time, and
+(b) reasonable multiple of the shareholdings in the bank. Withdrawn
+1.1.7 Deferred Guarantees
+(i) Banks, which intend issuing deferred payment guarantees in respect of their borrowers for acquisition of capital assets should ensure that the total credit facilities including the proposed deferred payment guarantees do not exceed the prescribed exposure ceilings (ii) The proposals for deferred payment guarantees should be examined having regard to the profitability/cash flows of the project to ensure that sufficient surpluses are generated by the borrowing unit to meet the commitments as a bank has to meet the liability at regular intervals in respect of the instalments due. The criteria generally followed for appraising a term loan proposal for acquisition of capital assets should also be applied while issuing deferred payment guarantees.
+1.2 Guarantees in respect of Commodities covered under Selective Credit Controls
+
+<!-- PAGE 7 -->
+
+PCBs should not issue, either to a Court or to Government, or any other person, a guarantee on behalf of or on account of any importers guaranteeing payment of customs duty and/or import duty, or other levies, payable in respect of import of essential commodities without taking, as security for issue of such guarantees, a cash margin equivalent to at least one half of the amount payable under the guarantee. The term "essential commodities" shall mean such commodities as may be specified by the Reserve Bank of India from time to time.
+
+1.3 Safeguards in Issuance of Guarantees
+While issuing the financial guarantees, the banks should observe the following safe guards :
+
+(i) The bank guarantees should be issued in security forms serially numbered to prevent issuance of fake guarantees. (ii) Guarantees above a particular cut off point, as may be decided by each bank, should be issued under two signatures in triplicate, one copy each for the branch, beneficiary and Controlling Office/Head Office. It should be binding on the part of the beneficiary to seek confirmation of the Controlling Office/Head Office as well for which a specific stipulation be incorporated in the guarantee itself. (iii) The guarantees should not normally be allowed to the customers who do not enjoy credit facilities with the banks but only maintain current accounts. If any requests are received from such customers, the banks should subject Withdrawn the proposals to thorough scrutiny and satisfy themselves about the genuine need of the customers. The banks should be satisfied that the customers would be in a position to meet the claims under the guarantees, when received, and not approach the bank for credit facility in this regard. For this purpose the banks should enquire into the financial position of the customers, the source of funds from which they would be in a position to meet the liability and prescribe a suitable margin and obtain other security, as necessary. The banks may also call for the detailed financial statements and Wealth-tax/Income-tax returns of the customer to satisfy themselves of their financial status. The observations of the banks in respect of all these points should be recorded in banks' books. (iv) Where the customers enjoy credit facilities with other banks, the reasons for their approaching the bank for extending the guarantees should be ascertained and invariably, a reference should be made to their existing bankers with whom they are enjoying credit facilities.
+
+<!-- PAGE 8 -->
+
+(v) Banks, when approached to issue guarantees in favour of other banks for grant of credit facilities by another bank, should examine thoroughly the reasons for approaching another bank for grant of credit facilities and satisfy themselves of the need for doing so. This should be recorded in bank's books. When it is considered necessary to issue such guarantees, the banks concerned should ensure that the relative guarantee document, beyond a stipulated amount, should not be signed singly but by two authorised officials jointly after obtaining proper sanction and authority and proper record of such guarantee issued being maintained. The credit proposals should be subjected to usual scrutiny by the lending bank ensuring that the proposals conform to the prescribed norms and guidelines and credit facilities are allowed only if the bank is satisfied about the merits of the proposal and the availability of another bank's guarantee should not result in a dilution of the standards of evaluation of the proposal and financial discipline in lending.
+1.4 Payment under Bank Guarantees-Immediate Settlement of Cases
+(i) Government of India and Reserve Bank of India have been receiving a number of complaints on non-payment or delay in payment of bank guarantees upon invocation. (ii) Probably reluctance on the part of banks to honour their commitment in respect of invoked guarantees stems from their fear of difficulty in realising the amount due from their constituents
+# Withdrawn
+
+on account of such guarantees. It is possible that in their anxiety to boost up their profitability, banks go out of the way to issue bank guarantees on behalf of constituents without subjecting the proposals to proper scrutiny and assessing the capacity and creditworthiness of their constituents to pay the amounts to the banks in case the guarantees are invoked. Dilution of security (i.e., non-obtention of adequate margin) may be another factor responsible for banks not receiving the dues in respect of invoked guarantees from their clients.
+
+(iii) The above aspects may inhibit banks to pay the beneficiaries promptly when guarantees are invoked and they adopt dilatory tactics in respect of invoked guarantees. It is absolutely essential for banks to appraise the proposals for guarantees also with the same diligence as in the case of fund based limits and obtain adequate cover by way of margin so as to prevent the constituents to develop a tendency of defaulting in payments when invoked guarantees are honoured by the banks.
+
+(iv) The bank guarantee is a commitment made by the issuing bank to make payment to the beneficiary (albeit at the behest of the bank's constituent). Failure on the part of the bank to honour the
+
+<!-- PAGE 9 -->
+
+claim legitimately made on it projects distorted picture of its functioning.
+
+(v) In fact some strictures were passed by Courts in the past against banks for not honouring the guarantee commitments promptly. In this connection, an extract of a judgement pronounced by the Hon'ble Supreme Court, in a case on the issue of injunctions obtained by parties from courts restraining payment of invoked guarantees is appended:
+"We are therefore, of the opinion that the correct position of law is that commitment of banks must be honoured free from interference by the courts and it is only in exceptional cases, that is to say, in case of fraud or in case where irretrievable injustice would be done, if bank guarantee is allowed to be encashed, the court should interfere."
+
+(vi) The primary (urban) co-operative banks should, therefore, honour bank guarantees issued by them promptly on their invocation as reluctance on their part to honour commitments in respect of invoked guarantees tend to bring the banking system into disrepute.
+
+1.5 Delay in Obtaining Certified Copies of Judgements
+(a) The Ministry of Finance has advised that some of the Departments such as Department of Revenue, Govt. of India, are finding it difficult to execute judgements delivered by various courts in their favour as banks do not honour their guarantees unless certified copies of the court judgements are made
+# Withdrawn
+
+available to them.
+
+(b) Keeping in view these difficulties, banks may follow the following procedure :
+(i) Where the bank is a party to the proceeding initiated by Govt. for enforcement of bank guarantee and the case is decided in favour of the Govt. by the Court, bank should not insist on production of certified copy of the judgement as the judgement order is pronounced in open court in the presence of the parties/their counsels and the judgement is known to the bank. (ii) In case the bank is not a party to the proceeding, a signed copy of the minutes of the order certified by the Registrar/Deputy or Assistant Registrar of the High Court duly attested to be true copy by Govt. Counsel should be sufficient for honouring the obligation under the guarantees unless the guarantor bank decides to file any appeal against the order of the High Court.
+1.6 Correspondence with Government Departments
+
+<!-- PAGE 10 -->
+
+(i) The Constitution of India states that all executive action relating to Union of India shall be, and shall be stated to be, in the name of President of India. However, the business of the Government of India is transacted through several ministries/departments and even though documents such as guarantees reflect the President of India as one of the parties, correspondence is not to be exchanged with the President of India but with concerned Government Ministry/Departments. (ii) The banks should, therefore, ensure that any correspondence relating to guarantees furnished by the banks in the name of the President of India favouring the Government Departments should not be addressed to the President of India causing avoidable inconvenience to the President's Secretariat.
+## 2. CO-ACCEPTANCE OF BILLS
+
+2.1 Irregularities in Co-acceptance of Bills
+(i) Banks have been co-accepting bills of their customers. On many occasions these bills turn out to be accommodation bills drawn by groups of sister concerns on each other where no genuine trade transaction takes place. Such bills on maturity are not honoured by the drawees and the banks which have co-accepted the bills have to make payment of these bills and thereafter, they find it difficult to recover the amount from the drawers/drawees of bills. This happens because the financial position and capacity of the parties to honour the bills, in the event of need, is not gone into by the banks co-accepting the bills.
+# Withdrawn
+
+(ii) There have also been cases where the particulars regarding co- acceptance of bills are not recorded in the bank's books with the result that the extent of co-acceptance can not be verified during inspections and the Head Office becomes aware of the co- acceptance only when a claim is received from the discounting bank.
+
+2.2 Safeguards
+In view of the above, banks should keep in view the following safe -guards :
+
+(i) While sanctioning co-acceptance limits to their customers, the need therefor should be ascertained and such limits should be extended only to their customers enjoying other limits with the bank. (ii) Only genuine trade bills should be co-accepted and the banks should ensure that the goods covered by bills co- accepted are actually received in the stock accounts of the borrowers.
+
+<!-- PAGE 11 -->
+
+(iii) The valuation of the goods as mentioned in the accompanying invoice should also be verified to see that there is no over valuation of stocks.
+
+(iv) The banks should not extend their co-acceptance to house bills/accommodation bills drawn by group concerns on one another.
+
+(v) The powers to co-accept bills, beyond a stipulated limit, must be exercised by two authorised officials jointly. (vi) Proper records of the bills co-accepted for each customer should be maintained so that the commitments for each customer and the total commitments at a branch can be readily ascertained and these should be scrutinised by internal inspectors and commented upon in their reports. (vii) Proper periodical returns may be prescribed so that the Branch Managers report such co-acceptance commitments entered into by them to the controlling offices. Such returns should also reveal the position of bills that have become overdue and which the bank had to meet under the co-acceptance obligation. This will enable the controlling offices to monitor such co-acceptances furnished by the branches and take suitable action in time, in difficult cases.
+## 3. LETTERS OF CREDIT (LCs)
+
+# Withdrawn
+
+3.1 Guidelines for Grant of LCs Facility Primary (urban) co-operative banks should not normally grant LC facilities in respect of parties who maintain only nominal current accounts. In case of borrowers maintaining only current accounts, who approach for opening of LCs, banks should invariably ascertain from the existing bankers of the borrowers the reasons as to why they are not extending LC facilities to the concerned borrowers. Banks should open LCs in respect of such parties only after making proper enquiries in regard to the antecedents of the borrowers from the bankers with whom the parties are enjoying main limits, their financial position and their ability to retire the bills. They should also prescribe a suitable margin and obtain other security, as necessary.
+3.2 LCs for Commodities Covered under Selective Credit Controls There is no restriction for the banks in opening LCs for import of essential items. However, banks are not permitted to open inland LCs, providing a clause therein which would enable other banks to discount usance bills under the LCs.
+3.3 Safeguards in Opening of LCs
+
+<!-- PAGE 12 -->
+
+Before opening LCs, banks should ensure that :
+
+(i) LCs are issued in security forms only; (ii) large LCs are issued under two authorised signatures where one of the signatures for LCs should be from the Head Office/Controlling Office. As the need for large LCs may not arise overnight, with the availability of courier service, speed post service etc., this procedure may not result in delay. In the LCs itself a column maybe provided to indicate the authority who had sanctioned it together with the particulars thereof; (iii) LCs are not issued for amounts out of proportion to the borrowers' genuine requirements and these are opened only after ensuring that the borrowers have made adequate arrangements for retiring the bills received under LCs out of their own resources or from the existing borrowing arrangements; (iv) where LCs are for purchase of raw materials, borrowers do not maintain unduly high inventory of raw materials in relation to the norms/past trends. Where such LCs are to be opened on D/A basis, credit on the relative purchase is duly taken into account for the purpose of working out drawing power in cash credit accounts;
+(v) in the case of borrowers having banking arrangements on a consortium basis, the LCs are opened within the sanctioned limit on the basis of the agreed share of each of the banks. Member-banks should not, however, open
+# Withdrawn
+
+LCs outside the sanctioned limits without the knowledge of the lead bank/other banks;
+
+(vi) if there is no formal consortium arrangement for financing the borrower, LCs should not be opened by the existing bank or a new bank, without the knowledge of the other banks;
+
+(vii) LCs for acquisition of capital goods should be opened only after banks have satisfied themselves about tying up of funds for meeting the relative liability by way of providing for long term funds or term loans from financial institutions/banks;
+
+(viii) in no case, working capital limits should be allowed to be utilised for retiring bills pertaining to acquisition of capital assets.
+
+(ix) Banks should not extend any non-fund based facilities or additional/ad-hoc credit facilities to parties who are not their (the bank’s) regular constituents for their production finance requirements; nor should they discount bills drawn under LCs or otherwise for beneficiaries who are not their
+
+<!-- PAGE 13 -->
+
+regular clients. In case it becomes unavoidably necessary to provide such a facility to a party not being a regular client, banks should invariably seek the prior concurrence of the existing banker of the borrowers and also make proper enquiries in regard to the antecedents of the borrowers, their financial position and ability to retire the bills etc. in time.
+
+3.4 Payment under LCs-Immediate Settlement of Claims
+(i) There have been a few instances where LCs were opened by officials of banks in an unauthorised manner. In certain cases the LCs transactions were not recorded in the books of the branch by officials issuing them, while in some other cases the amounts of LCs were much in excess of the powers vested in them for the purpose. Subsequently when the banks come to know about the fraudulent issue of LCs, they disclaim liability on the ground that these are transactions involving a conspiracy / collusion between the beneficiary and the constituent. (ii) It may be appreciated that if the bills drawn under LCs are not honoured, it will adversely affect the character of LCs and the relative bills as an accepted means of payment. This could also affect the credibility of the entire payment mechanism through banks and affect the image of the banks. It is, therefore, necessary that all the banks should honour their commitments under LCs and make payments promptly leaving no opportunity for any complaints in this Withdrawn regard. Needless to say that banks should take suitable action against the concerned officials as well as the constituents on whose behalf the LCs are opened and the beneficiaries of LCs, if a criminal conspiracy is involved.
+## 4. OTHER COMMON GUIDELINES
+
+4.1 Credit Exposure Norms and Statutory/Other Restrictions on Non-fund Based Limits
+(i) Primary (urban) co-operative banks are required to strictly observe exosure noms and statutory/other restrictions prescribed for non-fund based limits (e.g. LCs, guarantees, co-acceptances, etc.) as detailed in the Master Circular on ' Exposure Norms and Statutory/Other Restrictions. (ii) The exposure ceilings and other restrictions particularly prescribed for -
+
+<!-- PAGE 14 -->
+
+|(i)|total credit exposure including non-fund based limits,|
+|---|---|
+|(ii)|unsecured guarantees,|
+|(iii)|advances to bank's Directors,|
+|(iv)|loans and advances to relatives of Directors,|
+|(v)|advances to nominal members,|
+
+## must be strictly observed.
+
+4.2 Banks should ensure that the systems evolved for recording the details of off-balance sheet transactions are properly followed by all branches. These records should be periodically balanced and internal inspectors should verify the same and offer critical comments.
+4.3 Banks should ensure that unauthorised LCs are not issued.
+4.4 Banks must lay down clear instructions for their branch staff in respect of loan accounts where such non-funded facilities become funded on account of devolvement of bills covered under the bank's LCs or due to invocation of guarantees issued by the bank. The banks must evolve proper guidelines to ensure that, accounts where non- funded limits become "funded", are closely monitored and goods covered under devolved bills remain under bank's control/hypothecation, particularly where malafides are suspected. In cases of goods covered under import LCs, banks must also ensure immediate submission of custom's copy of the Bill of Entry and take measures as prescribed in the guidelines issued by Foreign Exchange Department.
+4.5 A number of banks adopt the practice of parking the dues of the
+# Withdrawn
+
+borrower in respect of devolved LCs and invoked guarantees in a separate account which is not a regular sanctioned facility. As a result, these are not reflected in the principal operating account of the borrower. This renders application of the prudential norms for identification of NPAs difficult. It is, therefore, advised that if the debts arising out of devolvement of LCs or invoked guarantees are parked in a separate account, the balance outstanding in that account also should be treated as a part of the borrower’s principal operating account for the purpose of application of prudential norms on income recognition, asset classification and provisioning.
+
+<!-- PAGE 15 -->
+
+Appendix Master Circular Guarantees, Co-Acceptances & <u>Letters of Credits</u>
+
+A. List of Circulars consolidated in the Master Circular
+Circular No. Subject
+
+|No.||Date||
+|---|---|---|---|
+|1.|UBD.BSD-I/8/12.05.00/2000-2001|09-11-|Frauds – Preventive Measures|
+|||2000||
+|2.|UBD.No.Plan.PCB.CIR.07/09.27.0 0/99-2000|21-09- 1999|Bank Guarantees|
+|3.|UBD.No.Plan.(PCB)49/09.27.00/96|26-04-|Payment under bank guarantee-Immediate|
+||-97|1997|settlement of cases|
+|4.|UBD.No.DS.(PCB)DIR.4/13.03.00/|16-07-|Selective Credit Control-Advances against|
+||96-97|1996|Sensitive Commodities|
+|5.|UBD.No.I&L/PCB/9/12.05.00/95-96|01-09- 1995|Payment under bank guarantees – Immediate settlement of cases|
+|6.|UBD.Plan.Cir.SUB.1/09.27.00/94- 95|18-10- 1994|Issue of guarantees – guidelines to be followed by the primary (urban) co-operative banks|
+|7.|UBD.No.DS.CIR.PCB15/13.03.00/9|02-09-|Selective Credit Controls – Imported Sugar|
+||4-95|1994||
+|8.|UBD.No.(PCB)CIR.79/13.03.00/93-|26-05-|Selective Credit Controls – Imported Sugar|
+||94|1994||
+|9.|UBD.No.Plan.42 /09.27.00-93/94|16-12- 1993|Bank guarantee – Delay in obtaining certified copies of Judgements.|
+|10.|UBD.No.POT.1/UB.58-92/3|03-07- 1992|Payment under LCs-immediate settlement of claims|
+|11.|UBD.P&O.763/UB.58-83/84|28-02- 1984|Issue of guarantees-co-acceptance of bills etc. by the urban co-operative banks|
+
+# Withdrawn
+
+<!-- PAGE 16 -->
+
+## B. List of Other Circulars from which instructions relating to Guarantees,
+
+## Co-acceptances and LCs have also been consolidated in the Master Circular
+
+No. Circular No. Date Subject
+
+26-12-2003
+
+|1. UBD.No.IP.30/12.05.05/2002-03|Master|Circular|– Prudential|
+|---|---|---|---|
+||Norms|– Income|Recognition,|
+||Asset Classification, Provisioning and other related matters|||
+|2.||||
+|3||||
+|4.||||
+
+|UBD No.DS(PCB)|29-04-|Maximum limit on advances|
+|---|---|---|
+|Cir.54/13.05.00/94-95|1995||
+|UBD.No.(PCB)DIR.5/13-|26-05-|Maximum Limit on Advances|
+|05.00/93-94|1994||
+|UBD.No.DS(PCB)Cir.76/13.05.0|26-05-|Maximum limit on advances -|
+|0/93-94|1994|Advances to Directors and|
+
+their relatives and to concerns in which Directors or their relatives are Interested
+
+5. UBD.21/12:15:00/93-94 21-09-Committee to enquire into
+1993 various aspects relating to frauds and malpractices in banks primary (urban) co- operative banks
+
+6. No.UBD(DC)104/R.1-86/87 25-06-Guidelines for Assessment of
+1987 Working Capital Requirements, Opening of LCs and Issue of Guarantees
+
+# Withdrawn

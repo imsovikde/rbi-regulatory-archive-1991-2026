@@ -1,0 +1,57 @@
+---
+doc_id: "Circulars_2005_RPCD_CO_RF_BC_26_07_02_03_2005-06"
+title: "Investment Portfolio of Banks - Non-SLR Investments"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65184.PDF"
+pdf_sha256: "31023381da88dcf7d94402428381e5254e62da09ed14b4fde152dbe2e51537de"
+md_sha256: "83146c3017871414b99853bcca956e6dccd3f7a85c619b5fe8c1acadd964b22d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:50:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-08-04_Circular_RPCD.CO.RF.BC.26-07.02.03-2005-06_Investment%20Portfolio%20of%20Banks%20-%20Non-SLR%20Investments.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment Portfolio of Banks - Non-SLR Investments
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/95 RPCD.CO.RF.BC.26/07.02.03/2005-06 August 4, 2005
+
+All State and District Central Co-operative Banks
+
+Dear Sir,
+
+## <u>Investment portfolio of banks- non-SLR investments</u>
+
+Please refer to our circulars RPCD.No.BC. 46/07.02.03-94/95 dated October 6, 1994, RPCD.RF.BC.No 62/07.02.03/2002-03 dated January 20, 2003 and RPCD.CO.RF.BC 65/07.02.03/2003-04 dated February 23, 2004 on the above subject.
+
+2. As per the extant instructions, banks are allowed to invest in non-SLR securities with prior approval of RBI as under:
+a) bonds of public sector undertakings
+b) bonds/equity of All India Financial Institutions (AFIs)
+The total investment in (a) and (b) above should not exceed 10 per cent of the bank’s total deposits as on March 31 of the previous year, with a sub-ceiling of 5 per cent for investments covered under (a).
+
+# Withdrawn
+
+3. On a review, it has been decided to allow the banks to invest their genuine surplus funds in non-SLR securities without taking prior approval from Reserve Bank of India on case-to-case basis, subject to the following conditions:
+a) The bank should comply with Non Overdue Cover (NODC) discipline stipulated by NABARD;
+b) All legitimate credit needs of the co-operatives in the State/District should have been fully met;
+c) There should be no defaults in repayment of dues to NABARD and in the maintenance of the stipulated CRR and SLR;
+d) There should exist a provision for the proposed investment in the State Act and the Registrar of Co-operative Societies should have no objection for the banks making such investment;
+e) The bank should comply with the Section 11(1) of the B.R.Act, 1949 (AACS); and
+f) The bank is not placed under Directions under Section 35 A of the
+B.R.Act, 1949 (AACS) or issued a show cause notice under any Section of the B.R.Act, 1949 (AACS).
+
+<!-- PAGE 2 -->
+
+[Note: However, the bank should keep the concerned Regional Office of RBI apprised of the non-SLR investment, in question.]
+
+4. The banks, which do not comply with the above conditions, have to obtain prior approval from RBI for non-SLR investment on case-to-case basis as hitherto.
+5. The contents of this circular may be placed before the Board of your bank.
+6. Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully, (K.Bhattacharya) General Manager
+
+# Withdrawn
