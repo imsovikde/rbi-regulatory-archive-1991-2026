@@ -1,0 +1,49 @@
+---
+doc_id: "Press-Releases_2016_37686"
+title: "Liquidity Adjustment Facility: Fixed Rate Reverse Repo Operations"
+category: "Press-Releases"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR309224D7F7BBE26426E91BD62D15163E5A0.PDF"
+pdf_sha256: "8004d61154eb635f344e6b61207d0ad0c0c8df40c2c4273a3b00d2fc4e2479a4"
+md_sha256: "a4f59c6fcde31f018864ab093d20acaad37ca7a7dc522b6415f1cdab83ff694c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T19:12:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2016/2016-08-04_Press-Release_37686_Liquidity%20Adjustment%20Facility-%20Fixed%20Rate%20Reverse%20Repo%20Operations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility: Fixed Rate Reverse Repo Operations
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 0वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358 इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## August 04, 2016
+
+## Liquidity Adjustment Facility: Fixed Rate Reverse Repo Operations
+
+The result of the RBI Fixed Rate Reverse Repo Operations held on August 03, 2016 (evening) is as under:
+
+Amount (face value in ` Billion)
+
+||Item|Overnight Reverse Repo Operations (Sale of Securities by RBI)|
+|---|---|---|
+|||6.00% Fixed Rate|
+|1. Bids received|||
+|(i)|Number|27|
+|(ii) 2. Bids accepted|Amount|66.60|
+|(i)|Number|27|
+|(ii)|Amount|66.60|
+
+## Ajit Prasad
+
+**Press Release : 2016-2017/309** Assistant Adviser
