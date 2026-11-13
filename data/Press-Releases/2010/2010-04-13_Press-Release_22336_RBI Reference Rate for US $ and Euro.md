@@ -1,0 +1,48 @@
+---
+doc_id: "Press-Releases_2010_22336"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1390R0410.pdf"
+pdf_sha256: "aa72080a15d0e3c581fc320c2091ceccc6367678ff6887c4a9435b3674fefb3e"
+md_sha256: "26293924cf39f8eb43261914a86d85901e51e8bf8164ddb9ad6f85dee9754631"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T17:37:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2010/2010-04-13_Press-Release_22336_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## he´sme he´keÀeMeôer PRESS RELEASE·
+
+# Yeejler³e fjeJeõ yeQkeÀ
+
+## RESERVE BANK OF INDIA
+
+meb®eej fJeYeeäe, keWÀêr³e keÀe³eeõue³e, Sme.yer.Sme.ceeäeõ, cegbyeFõ 400001 JesyemeeFì : www.rbi.org.in/hindi ________________________________________________________________________________________________________Website : www.rbi.org.in **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S. Marg, Mumbai 400001 HeÀesôe/Phone: 91 22 2266 0502 HewÀkeÌme/Fax: 91 22 2270 3279 F-cesue email: <u>helpdoc@rbi.org.in</u>
+
+## April 13, 2010
+
+## RBI Reference Rate for US $ and Euro
+
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.44.62 and the Reference Rate for Euro is Rs.60.63 on April 13, 2010. The corresponding rates for the previous day (April 12, 2010) were Rs.44.35 and Rs.60.50 respectively. Based on the Reference Rate for US dollar and middle rates of the cross currency quotes at <u>12 noon, the exchange rates of GBP and Japanese Yen against the Rupee are:</u>
+
+## <u>Currency</u>
+
+## Date
+
+## 1 GBP 100 YEN
+
+## April 12, 2010 68.5008 47.57
+
+<u>April 13, 2010 68.6055 48.06</u> **Note :** The reference rate is based on 12 noon rates of a few select banks in Mumbai. The SDR-Rupee rate will be based on this rate.
+
+## Ajit Prasad
+
+**Press Release: 2009-2010/1390** Manager
