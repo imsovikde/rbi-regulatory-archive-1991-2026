@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2014_RPCD_RRB_RCB_BC_No_80_07_51_014_2013-14"
+title: "Collection of Account Payee Cheques - Prohibition on Crediting Proceeds to Third Party Account"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RP472T0114FN.PDF"
+pdf_sha256: "2fb848d9fb5111089277199834e9add6abfa852dbbfbd9d0f493794c620259b3"
+md_sha256: "8748264d81929694d5d293a2f0da2e216c43cf5a60048fdbdc8c6aca5f2a9be4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:09:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-01-28_Circular_RPCD.RRB.RCB.BC.No.80-07.51.014-2013-14_Collection%20of%20Account%20Payee%20Cheques%20-%20Prohibition%20on%20Crediting%20Proceeds%20to%20Third%20Party%20Account.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Collection of Account Payee Cheques - Prohibition on Crediting Proceeds to Third Party Account
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/472 RPCD.RRB.RCB.BC.No. 80 /07.51.014/2013-14 January 28, 2014
+
+## The Chairmen / CEOs of All Regional Rural Banks / State and Central Co-operative Banks
+
+Dear Sir/Madam,
+
+## Collection of Account Payee Cheques – Prohibition on Crediting Proceeds to Third Party Account
+
+Please refer to our circulars <u>RPCD.CO.RRB.BC.No.30/03.05.33/2011-12 dated November</u> <u>11, 2011</u> and <u>RPCD.CO.RCBD.BC.No.34/07.38.03/2011-12 dated November 24, 2011</u> advising Regional Rural Banks (RRBs) and State / Central Cooperative Banks (StCBs/CCBs) that they are prohibited from crediting 'account payee' cheques to the account of any person other than the payee named therein. We reiterate these instructions and advise that banks should strictly collect ‘account payee’ cheques only for their payee constituents.
+
+# Withdrawn
+
+2. RRBs and StCBs/CCBs may, however, consider collecting account payee cheques drawn for an amount not exceeding Rs.50,000/- to the account of their customers who are co-operative credit societies, if the payees of such cheques are the constituents of such co-operative credit societies, as advised in our above circulars dated November 11, 2011 and November 24, 2011. Yours faithfully, (A. Udgata) Principal Chief General Manager ामीण आयोजना और ऋण िवभाग,कीय कायार्लय, 10व मंिज़ल, कीय कायार्लय भवन,शहीद भगत िसह मागर्.पो.बा.सं.10014, मुंबई 400 001
+टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22610948 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department,Central Office, 10th Floor, Central Office Building, S. B. S. Marg,P. Box No.10014, Mumbai 400001
+
+|चेतावनी: रज़व|बक ारा ई-मेल, डाक,|एसएमएस या फोन|कॉल के जरए कसी|क भी �यगत|जानकार जैसे बक|के खाते का �यौरा, पासवड|
+|---|---|---|---|---|---|---|
+|नहं मांगी जाती Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन रखने|या देने का ूःताव भी|नहं करता है। ऐसे|ूःताव का कसी भी|तरके से जवाब|मत दजए।|
+
+चेतावनी: रज़व बक ारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी �यगत जानकार जैसे बक के खाते का �यौरा**,** पासवड आद

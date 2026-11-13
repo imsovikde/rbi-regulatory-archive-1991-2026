@@ -1,0 +1,272 @@
+---
+doc_id: "Circulars_2014_DBOD_No_BP_BC_96_21_06_102_2013-14"
+title: "Guidelines on Management of Intra-Group Transactions and Exposures"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FGITES110214.PDF"
+pdf_sha256: "7ac6f5936aba8b8db785750039f8bef9144fdbb215801f931af6c7fdca89e72d"
+md_sha256: "6cc88cb0dd5b9cc7cc36a25694a3151aead240026aaef4e7810093c4ab44c945"
+total_pages: 15
+native_pages: 15
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:09:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-02-11_Circular_DBOD.No.BP.BC.96-21.06.102-2013-14_Guidelines%20on%20Management%20of%20Intra-Group%20Transactions%20and%20Exposures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Management of Intra-Group Transactions and Exposures
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/487 DBOD.No.BP.BC.96/21.06.102/2013-14 February 11, 2014
+
+The Chairman and Managing Directors/ Chief Executive Officers of All Scheduled Commercial Banks (excluding RRBs and LABs)
+
+Madam / Sir,
+
+## Guidelines on Management of Intra-Group Transactions and Exposures
+
+As a prudential measure aimed at better risk management and avoiding concentration of credit risk, the Reserve Bank of India (RBI) has prescribed prudential limits on banks’ exposure to single and group borrowers. Banks are required to comply with these limits both at solo and consolidated level. However, RBI has not placed limits on intra-group exposure. It has now been decided to prescribe guidelines (in the Annex) on Intra- Group Transactions and Exposures (ITEs) for banks based on, among others, comments received on draft guidelines issued on August 14, 2012. The guidelines are exclusively meant for banks’ transactions and exposures to the entities belonging to the
+
+# Withdrawn
+
+bank’s own group (group entities). The guidelines contain quantitative limits on financial ITEs and prudential measures for the non-financial ITEs to ensure that banks engage in ITEs in safe and sound manner in order to contain concentration and contagion risks arising out of ITEs. These measures are aimed at ensuring that banks, at all times, maintain arm’s length relationship in dealings with their own group entities, meet minimum requirements with respect to group risk management and group-wide oversight, and adhere to prudential limits on intra-group exposures.
+
+Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai - 400 001 Tel No: 2266 1602 / Fax No: 2270 5691 Email ID: cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+**2.** These guidelines will become effective from October 1, 2014. Banks should accordingly submit data on intra-group exposures to the RBI (Department of Banking Supervision, Central Office), from the quarter ending December 31, 2014. In case, a bank’s current intra-group exposure is more than the limits stipulated in the guidelines, it should bring down the exposure within the limits at the earliest but not later than March 31, 2016. The exposure beyond permissible limits subsequent to March 31, 2016, if any, would be deducted from Common Equity Tier 1 capital of the bank.
+**3.** The guidelines may be reviewed by the Reserve Bank as and when the guidance on ITEs is issued by the Basel Committee on Banking Supervision. Yours faithfully,
+## (Chandan Sinha) Principal Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Guidelines on Management of Intra-Group Transactions and Exposures
+
+## 1. Objective
+
+**1.1** It is recognised that the capital adequacy framework is not sufficient to fully mitigate the micro-prudential risk of exposures that are large compared to a bank’s capital resources. The exposure norms for single and group borrowers have been prescribed by the RBI with an objective to limit the maximum loss a bank could face in the event of default of a counterparty to the extent that it does not endanger the bank’s solvency.
+**1.2** RBI has also prescribed prudential limits on banks’ other exposures that they assume in the course of their usual banking operations. Each of these limits serve to protect banks from some form of concentration and contagion risks. For example, there are limits on borrowing and lending transactions in call/notice money market, cross holding of capital among banks / financial institutions, capital market exposure, exposure to NBFCs, equity investment in the financial and non-financial entities, etc.
+# Withdrawn
+
+**1.3** It is important to note that a bank’s stability and solvency can also be jeopardized by the parties which are related to the bank organically. Such entities are generally termed as group entities. The possibility that large losses could arise due to Intra-Group Transactions and Exposures (ITEs) with the group entities requires that risk concentrations within the group be identified, monitored and subject to an adequate management strategy. In case of international banking groups, the network of intra- group relationships can inhibit understanding of risks by the market and the regulators. A stress event affecting a legal entity in one country can be transmitted to other entities of the group in the same or other jurisdictions through transfer of liquidity or capital from these entities, failure of fulfilment of its liabilities, or through the crystallisation of guarantees. The possibility of contagion across group entities irrespective of their location may cause financial market participants to lose confidence in the group and
+- 1 -
+
+<!-- PAGE 4 -->
+
+stop dealing with group entities despite their financial health. Such developments can potentially disrupt the smooth functioning and stability of the market.
+
+**1.4** Against this backdrop, it was announced in the Second Quarter Review of the Monetary Policy 2010-11 to put in place an appropriate limit on bank’s Intra-Group Transactions and Exposures, both for a single entity and on an aggregate basis for all group entities so as to limit the interconnectedness between the bank and group entities.
+## 2. Scope of Application
+
+**2.1** With the developments of financial markets in India, banks have increasingly expanded their presence in permitted financial activities through entities that are owned by them fully or partly. As a result, banks’ exposure to the group entities has increased and may rise further going forward. This leads to a situation of conflicting choices for banks where they are expected to support the growth of group entities and at the same time ensure that excessive engagements with group entities do not threaten their own stability, solvency and reputation. This dilemma makes it difficult to put an appropriate limit on the intra-group exposures.Withdrawn
+**2.2** The intra-group exposure limits could be set at a liberal level than those for third- party exposures for the reason that banks understand their group entities better than a third-party and therefore can make an efficient assessment of the risks posed by them. On the other hand, the financial crisis has shown that inter-connectedness and contagion are two important channels through which weaknesses in the troubled entities spread to otherwise stable institutions, thus jeopardizing the very existence of these institutions. Intra-group transactions could also have the potential challenge of not being transacted at arm’s length basis. This perspective would demand that intra-group limits be kept more stringent than those for the third-parties. The Reserve Bank, to begin with, has set separate limits for intra-group exposure which are broadly similar to those for third parties, considering specific exemptions granted under paras 2.4 and 3.4.
+- 2 -
+
+<!-- PAGE 5 -->
+
+## 2.3 Group Definition
+
+The guidelines are applicable to all scheduled commercial banks, including foreign
+
+banks operating in India, belonging to a financial group, irrespective of whether the bank
+
+is parent or whether the bank’s parent is a regulated financial entity or a Non-Operative
+
+Financial Holding Company (NOFHC). For the purpose of these guidelines, a 'group'
+
+may be defined as an arrangement involving two or more entities related to each other 1 through any of the following relationships and a 'group entity' as any entity involved in
+
+this arrangement:
+
+i. Subsidiary – Parent ii. Associate iii. Joint Venture
+2 iv. Related Party 3
+
+v. Direct or indirect ownership of 20 percent or more interest in the voting power of the enterprise vi. Common brand name
+4 vii. Promoters of bank viii. Non-Operative Financial Holding Company (NOFHC) of bank ix. An entity which has any of the first six relations, as above, with the promoters/NOFHC and their step-down entities
+
+## 2.4 Entities Exempted from the Definition of Group Entities
+
+# Withdrawn
+
+**a.** As the ownership of Public Sector Banks (PSBs) lies with the Government of India, all PSBs could be treated as group entities. However, the Government being a sovereign, its role as promoter and owner of the PSBs would not cause these entities to be treated as group entities. The other relationships as defined in the para 2.3 may, however, be applicable for identifying entities of each public
+## sector banking group separately.
+
+1 Subsidiary, Associate, Joint venture and Related Party as defined in Accounting Standards 21, 23, 27 and 18 respectively notified by the Central Government under Section 211(3c) of the Companies Act,
+
+1956. 2 ‘Related Party’ will also include structures such as SPV/ SIV/ conduits based upon the actual ownership/ control/ significant influence/ beneficial interest. 3 If exercise of voting power is restricted by statutory/ regulatory provisions or other arrangements, then the actual ownership will be the determining factor. Promoters and Promoter Group as defined in the RBI Guidelines for Licensing of New Banks in the Private Sector vide Press Release dated February 22, 2013.
+- 3 -
+
+<!-- PAGE 6 -->
+
+**b.** Entities that are promoted by financial sector intermediaries including banks to undertake financial market infrastructure activities would not be treated as group entities for the purpose of these guidelines. Such institutions could be depositories, exchanges, clearing and settlement agencies, etc. that are supervised and regulated by the respective financial sector regulators. Exposures of banks to these entities would be subject to the extant exposure limits stipulated by the RBI.
+**c.** The branches in other jurisdictions being part of a parent bank’s operations are not covered under the intra-group exposure limits stipulated in para 3.3. Accordingly, Indian banks’ exposures to their overseas branches and foreign banks’ (operating as branches in India) exposure to their Head Office and overseas branches of the parent bank, except for proprietary derivative transactions undertaken with them, are not covered under these guidelines. Exposures of foreign banks (operating as branches) to their Head Office and other overseas branches of the parent bank would however continue to be
+5 subject to the extant regulation.
+
+# Withdrawn
+
+## 3. Prudential Limits on Intra-Group Exposure
+
+**3.1** The guidelines contain quantitative limits on financial ITEs and prudential
+7 measures for the non-financial ITEs to ensure that banks engage in ITEs in safe and sound manner in order to contain concentration and contagion risks arising out of ITEs.
+
+**3.2** Exposure should include credit exposure (funded and non-funded credit limits) and investment exposure (including underwriting and similar commitments). The 5 Please refer to the RBI circular DBOD.No.BP.BC.28/21.06.001/2012-13 dated July 9, 2012 on “Prudential Guidelines on Capital Adequacy – Treatment of Head Office Debit Balance – Foreign Banks” *6* *Financial ITEs are those whose outcomes can be associated with financial flows manifesting in the form* *of assets, liabilities and/ or revenue transactions. Examples of Financial ITEs are fund-based and non-* *fund based transactions.* *7* *Non-financial ITEs refer to operations arising out of ‘matrix’ management facilitating control/ effective* *risk management over a business segment or a line of activity across a number of legally independent* *entities. Examples of Non-financial ITEs are back-office arrangements, cross-selling of products, etc.*
+- 4 -
+
+<!-- PAGE 7 -->
+
+definition and method of computation of exposure would be as prescribed in the Master Circular on Exposure Norms. However, as indicated at para 3.4.(a) below, exposure on account of equity and other regulatory capital instruments should be excluded while computing exposure to group entities.
+
+**3.3** Banks should adhere to the following intra-group exposure limits:
+## a. Single Group Entity Exposure
+
+# i. 5% of Paid-up Capital and Reserves in case of non-financial companies and
+
+unregulated financial services companies;
+
+# ii. 10% of Paid-up Capital and Reserves in case of regulated financial services
+
+companies.
+
+## b. Aggregate Group Exposure
+
+**i.** 10% of Paid-up Capital and Reserves in case of all non-financial companies and unregulated financial services companies taken together; **ii.** 20% of Paid-up Capital and Reserves in case of the group i.e. all group entities (financial and non-financial) taken together.
+**3.4 Intra-group Exposures Exempt**Withdrawn**ed from the Prudential Limits** The following intra-group exposures would be excluded from the stipulated limits:
+**a.** Banks’ investments in the equity of group entities and other capital instruments are presently governed by the RBI Circulars DBOD.FSD.BC.62/24.01.001/2011- 12 dated December 12, 2011 on ‘Investments in Subsidiaries and Other companies – Guidelines’ and DBOD.No.BP.BC.2/21.06.201/2013-14 dated July 1, 2013 on ‘Basel III Capital Regulations’. Accordingly, banks’ exposures to other banks / financial institutions in the group in form of equity and other capital instruments are exempted from the limits stipulated in these guidelines, and the extant instructions as cited above will continue to apply, subject to the prohibitions stipulated at para 3.5.
+These may include the entities that undertake non-financial activities essentially to provide support to the financial entities of the group (e.g. IT services, Back-office support, etc.).
+
+<!-- PAGE 8 -->
+
+**b.** Inter-bank exposures among banks in the group operating in India. However, prudential limits in respect of both outstanding borrowing and lending transactions in call/notice money market for scheduled commercial banks would continue to be governed by extant instructions on Call/Notice Money Market Operations.
+**c.** Letters of Comfort issued by parent bank in favour of overseas group entities to meet regulatory requirements.
+## 3.5 Prohibited Exposures
+
+Wherever a bank has been set-up under a NOFHC structure,
+
+**a.** Bank cannot take any credit or investments (including investments in the equity/debt capital instruments) exposure on NOFHC, its Promoters / Promoter Group entities or individuals associated with the Promoter Group.
+**b.** Bank cannot invest in the equity / debt capital instruments of any financial entities under the NOFHC.
+**4. Monitoring and Management of ITEs**Withdrawn
+**4.1** Banks should put in place a Board approved comprehensive policy on monitoring and management of ITEs. The policy should lay down effective systems and processes to identify, assess and report risk concentrations and material ITEs. While framing such policy, the Board must take into consideration the risks posed to the bank on a stand- alone basis as a result of such intra-group activities and ensure that exposure to group entities are appropriately captured in measures of the bank’s exposures to group entities.
+**4.2** The policy should be reviewed at least annually. The policy should, at a minimum, include:
+- 6 -
+
+<!-- PAGE 9 -->
+
+**a.** System of regular review and reporting of material ITEs to the Board for facilitating clear understanding of the ITEs undertaken and the risks, if any, emanating there-from;
+**b.** A requirement that bank should address risks arising from ITEs as strictly as it would address its risk exposures to a third party/non-group entity;
+**c.** Requirement that terms and conditions and credit standards of intra-group transactions are substantially the same, as those prevailing at the time for comparable transactions with or involving third party/non-group entities;
+**d.** The policy should specify the methodology to be followed for transfer pricing mechanism which could be applied to ensure the compliance of the arm’s length principle;
+**e.** Procedures for resolving any conflict of interest arising from intra-group transactions and exposures;
+**f.** Requirements relating to the transparency of third-party dealings associated with group entities. As a general rule, banks should not undertake third-party dealings with the purpose of supporting the business of group entities unless they are carried out at arm’s length and in accordance with transfer pricing policy;
+**g.** Banks’ material intra-group transactions (both fund-based and non-fund based)
+# Withdrawn
+
+should be examined by their internal auditors and the same should be checked by statutory auditors on a sample basis to ascertain that intra-group transactions undertaken:
+
+- comply with arm’s length principle; •are not detrimental to the bank’s interests; •are not meant for transferring the low quality or lowly rated assets; •are not a conduit for inappropriate transfer of capital / income to group entities; and •if resulting in breach of intra-group exposure norms, are promptly reported to the RBI in terms of para 9.4 of the guidelines.
+**h.** Mechanism to ensure that ITEs do not lead to violation/circumvention of any regulatory, statutory or taxation laws.
+- 7 -
+
+<!-- PAGE 10 -->
+
+**4.3** Where the terms and conditions applying to a bank’s dealings with group entities are inconsistent with the benchmarks set for the similarly rated third party/non-group entities as required under para 4.2(c), they must be put up to the Board by the sanctioning authority with justifications. The same may be made available to the RBI at the time of inspection or whenever required.
+9
+
+**4.4** Banks should not enter into cross-default clauses whereby a default by a group entity on an obligation (whether financial or otherwise) is deemed to trigger a default of the bank on its obligations.
+10
+
+**4.5** Banks should not generally buy/sell low quality asset from/to group entities except when they are done in accordance with the extant instructions of RBI, such as sale of Non-Performing Assets (NPAs) to Asset Reconstruction Companies, etc. Further, a low-quality asset should not be accepted as collateral for a loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of the group entity. Banks must also ensure that the transactions in low-quality assets with group entities, whether regulated or unregulated, are not done for the purpose of hiding losses or window dressing of balance sheets.
+**4.6** Banks should ensure that they have ade Withdrawn quate systems and controls in place for identifying, monitoring, managing and reviewing exposures arising from ITEs. The RBI may require banks to put in place additional internal controls and a more robust risk monitoring, managing, reporting and review mechanism on ITEs.
+## 5. Arrangements for Providing Support within the Group
+
+**5.1** Banks may provide support to group entities so long as such support is undertaken in accordance with the prudential requirements set out in above paragraphs in relation to the policies governing bank’s dealings with group entities. Further, banks 9 This requirement will be applicable from the effective date of these guidelines. Such agreements which have already been executed by banks would be exempted from this requirement. However, the existing agreements should not be renewed by banks. An asset overdue/out of order or classified as NPA by the bank or by RBI or a restructured asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the borrower
+- 8 -
+
+<!-- PAGE 11 -->
+
+should take ample and cautious measures to avoid giving any impression of their direct or indirect support to group entities unless there are formal legal arrangements in place providing for such support.
+
+**5.2** While assessing funding needs (especially under stressed situations), banks
+11 should account for any funding or liquidity commitment provided to group entities (e.g. in the form of explicit guarantees or funding lines to be drawn in times of need) and prepare for any withdrawal of funding against those commitments by group entities. Banks should also analyse how the liquidity positions of group entities may affect their own liquidity, either through direct financial impact or through contagion when those entities are faced with liquidity crunch. Where there is reliance on funding support among group entities, banks should take into account legal, regulatory or other limitations that may restrict group entities access to liquidity from banks and vice versa in case of need.
+
+**5.3** Banks should establish internal limits on intra-group liquidity support to mitigate the risk of contagion from other group entities when these entities are under liquidity stress. Banks may put in place group-wide contingency funding plans, liquidity cushions and diversified funding to help group entities when liquidity problems in the group arise
+# Withdrawn
+
+in line with the guidelines referred to in footnote 11.
+
+## 6. Cross-selling of Products
+
+**6.1** Banks should deal transparently when it comes to cross-selling of products to customers of the group entities and adhere to the norms as per extant RBI instructions on cross-selling of products of other entities.
+**6.2** If banks engage in marketing/distribution of the financial products of group entities to their own customers, banks should ensure that the identity of the seller of the product is prominently disclosed and displayed in the relevant marketing material, product documentation and the same is also explicitly conveyed while marketing the In this context, banks may also refer to the RBI guidelines on ‘Liquidity Risk Management by Banks’ dated November 7, 2012.
+- 9 -
+
+<!-- PAGE 12 -->
+
+product by the bank’s staff/agents through the branches, ATMs, telemarketing, emails or any other place/means. It should also be ensured that:
+
+**a.** There is clarity to the customers about the distinct roles and responsibilities of the bank and the product seller;
+**b.** It does not give an impression that the product is guaranteed or otherwise supported by the bank, unless a legally enforceable formal agreement is in place to this effect;
+**c.** Such products should not be bundled/clubbed with the bank’s own products in any way that compel the customers to buy the marketed product; and
+**d.** elling third party products, banks s While s
+hould follow the instructions laid down by the RBI on Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT).
+
+**6.3** Banks must also ensure that when the group entities distribute their products in any capacity:
+**a.** Adequate transparency is ensured in relation to the respective roles of the bank and the group entity;
+**b.** The group entities do not, unless otherwise permitted by the RBI (and supportedWithdrawn by appropriate contractual arrangements), assume any key decision-making function of the bank (e.g. in ascertaining creditworthiness) in distributing the bank’s products; and
+**c.** Adherence to KYC/AML/CFT regulation and responsibility therefor is strictly ensured.
+**6.4** Banks should establish minimum standards on communication and transparency which their staff/agents should meet while approaching a bank customer for cross- selling of products. Banks should put in place a mechanism to monitor that these standards are put in practice. When the products are marketed and sold through channels such as telemarketing and emails, the customer should be made aware of identity of caller/sender including name, designation and division/department of the bank. It must also be ensured that information provided to the customers is factually
+- 10 -
+
+<!-- PAGE 13 -->
+
+correct so as to enable him/her to make an informed decision. The features, terms and offers of the product as communicated to the customer should also be provided in written form if desired by the customer beforehand and certainly after the product is bought by the customer.
+
+**6.5** Incentive structures for staff/agents should be designed in such a way that discourages mis-selling. There should be appropriate deterrents such as provisions to claw-back incentives on instances of mis-selling. Banks should not get into any agreements where the cash/non-cash incentives from cross-selling of products are paid directly to the employees of group entities or bank’s employees are directly paid by these entities.
+## 7. Sharing of Services with Group Entities
+
+**7.1** In a typical group structure, banks usually have back-office and service arrangements/agreements with group entities e.g. sharing of premises, legal and other professional services, hardware and software applications, centralize back-office functions, outsourcing certain financial services to other group entities, etc. RBI has issued guidelines on ‘ManagingWithdrawnRisks and Code of Conduct in Outsourcing of Financial Services by Banks’ vide RBI circulars DBOD.NO.BP.40/
+21.04.158/2006-07 dated November 3, 2006 and DBOD.No.BP.97/21.04.158/2008-09 dated December 11, 2008 which cover outsourcing of financial services to entities within the Group / Conglomerate. While entering into such arrangements with group entities, banks should continue to adhere to the provisions of the said circulars and also ensure that these arrangements:
+**a.** are appropriately documented in written agreements with details like scope of services, charges for the services and maintaining confidentiality of the customer’s data;
+**b.** do not lead to any confusion to the customers;
+**c.** do not impinge on the safety and soundness of the bank as a stand-alone entity;
+**d.** do not prevent the RBI from being able to obtain information required for the supervision of the bank or pertaining to the group as a whole; and
+- 11 -
+
+<!-- PAGE 14 -->
+
+**e.** there is a clear obligation under the written agreements for any service provider to comply with directions given by the RBI in relation to the activities of the bank.
+**7.2** Banks should ensure that their ability to carry out their operations in a sound fashion would not be affected if premises or other services (such as IT systems, support staff) provided by the group entities become unavailable.
+**7.3** Banks should ensure that the dependency placed on premises, services, etc. provided by group entities, or the provision of services to group entities, does not compromise their ability to identify and manage risks on a stand-alone basis.
+**7.4** If the premises of the bank are shared with the group entities for the purpose of cross-selling, banks should take measures to ensure that the entity’s identification is distinctly visible and clear to the customers. The marketing brochure used by the group entity and verbal communication by its staff/agent in the bank’s premises should mention nature of arrangement of the entity with the bank so that the customers are clear on the seller of the product.
+**7.5** Banks shall not publish any advertisement or enter into any agreement stating or suggesting or giving tacit impression that they are in any way responsible for the
+# Withdrawn
+
+obligations of its group entities.
+
+## 8. Disclosures in the Notes to Financial Statements
+
+Banks should make the following disclosures with a view to ensuring transparency in their dealings with the group entities: •Total amount of intra-group exposures •Total amount of top-20 intra-group exposures •Percentage of intra-group exposures to total exposure of the bank on borrowers/customers •Details of breach of limits on intra-group exposures and regulatory action thereon, if any.
+
+<!-- PAGE 15 -->
+
+## 9. Reporting
+
+Banks should submit the following data/information to Department of Banking Supervision, Central Office (DBS), RBI. The frequency and format of the reporting would be advised to banks by DBS separately.
+
+**9.1** Banks should prepare and submit a list of the group entities. The list should include all group entities established and operating in India and those overseas entities
+12 with which they have material transactions during last three financial years. Any exclusion and/or inclusion of group entities should be reported at the earliest.
+
+**9.2** Banks should submit the details of intra-group support arrangements/agreements (e.g. a specific guarantee of the obligations of an entity in the group or a letter of comfort).
+**9.3** Banks should operate within the stipulated limits on an ongoing basis and report their intra-group exposures.
+**9.4** If the intra-group exposures, either at the single entity level or at the aggregate level, exceed the prudential limits, the same should be reported at the earliest as also in the prescribed returns along with the reasons fo
+# Withdrawn
+
+r breach of limits. In such situations, banks cannot undertake any further intra-group exposure (at the entity or aggregate level, as the case may be) until it is brought down within the limit. Further, banks, on satisfactory grounds, may be allowed an appropriate timeline within which they should comply with the stipulated limits. Failure to comply with the intra-group exposure limit within the given timeline would result in deduction of excess exposure amount from 13 Common Equity Tier 1 (CET1) capital of bank until the limits are restored. The frequent breaches may also lead to imposition of penalties on the banks by the RBI.
+
+12 The threshold for ‘material’ transaction would be Rs.10 crore for fund-based transactions and Rs.25 crore for non-fund based transaction. 13 If the limits are breached on account of mark-to-market values of derivatives position, the excess exposure would not be deducted from CET1 capital for a period of three months from the date of breach, Further, in case of foreign banks, proprietary derivative transactions with parent and its overseas branches should also be taken into account while computing exposure.
