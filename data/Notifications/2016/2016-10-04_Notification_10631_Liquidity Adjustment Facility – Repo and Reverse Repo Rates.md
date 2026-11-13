@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2016_10631"
+title: "Liquidity Adjustment Facility – Repo and Reverse Repo Rates"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT76C159D8E4DF3A449A8D043EFA06CC0368.PDF"
+pdf_sha256: "b07b5329a496fb9844f0247a82936f4c5997a17cf2311791999b166b01efbdc1"
+md_sha256: "0c1379c76f6830f076f655dbfc0b3e50227ddadd07f8e1f2918d4928a1cb1b5e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-10-04_Notification_10631_Liquidity%20Adjustment%20Facility%20%E2%80%93%20Repo%20and%20Reverse%20Repo%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility – Repo and Reverse Repo Rates
+
+<!-- PAGE 1 -->
+
+RBI/2016-2017/76 FMOD.MAOG.No.114/01.01.001/2016-17 October 4, 2016
+
+All Scheduled Commercial Banks (excluding RRBs), Scheduled Urban Co-operative Banks and Standalone Primary Dealers
+
+Madam / Sir,
+
+## <u>Liquidity Adjustment Facility – Repo and Reverse Repo Rates</u>
+
+<u>As announced in the Fourth Bi-monthly Monetary Policy Statement today</u>, it has been decided by the Monetary Policy Committee (MPC) to reduce the Repo rate under the Liquidity Adjustment Facility (LAF) by 25 basis points from 6.50 per cent to **6.25 per** **cent** with immediate effect. Consequent to the change in the Repo rate, the Reverse Repo rate under the LAF will stand adjusted to **5.75 per cent** with immediate effect. All other terms and conditions of the current LAF Scheme will remain unchanged.
+
+## Yours sincerely
+
+(M. Rajeshwar Rao) Chief General Manager

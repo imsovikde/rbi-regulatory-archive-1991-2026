@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2016_2287"
+title: "External Commercial Borrowings (ECB) – Extension and conversion"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/APDR10E82DE85627714F929F9D73E9378DAF9E.PDF"
+pdf_sha256: "f9a918dcab196c1f2792482820b9a2ac9e62de45809e8241aa95b41389c945b1"
+md_sha256: "f6d8a94b39187c860b2dc34488daa572bd95c21d50b841cfb53c33960e6a8a22"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-10-20_Notification_2287_External%20Commercial%20Borrowings%20%28ECB%29%20%E2%80%93%20Extension%20and%20conversion.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# External Commercial Borrowings (ECB) – Extension and conversion
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA <u>Mumbai - 400 001</u>
+
+## RBI/2016-17/92
+
+## A.P. (DIR Series) Circular No. 10 October 20, 2016
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam/Sir,
+
+## External Commercial Borrowings (ECB) – Extension and conversion
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to paragraph No. C.14, F.18 and F.19 of Annex to <u>A.P. (DIR Series) Circular No.32</u> <u>dated November 30, 2015</u> and paragraph No. 2.10 and 2.16 of <u>Master Direction</u> <u>No.5 dated January 1, 2016</u> on External Commercial Borrowings, Trade Credit, Borrowing and Lending in Foreign Currency by Authorised Dealers and Persons other than Authorised Dealers as amended from time to time. Based on experience gained, it has been decided to simplify the process of dealing with matured but unpaid ECB.
+
+2. Under the extant ECB guidelines, designated AD Category-I banks can approve requests from borrowers for changes in repayment schedule during the tenure of the ECB, i.e., prior to maturity provided average maturity and all-in-cost are in conformity with applicable ceilings/ norms. To simplify the procedure relating to ECB, it has been decided to delegate the powers to designated AD Category-I banks to approve requests from borrowers for extension of matured but unpaid ECB, subject to the following conditions:
+i. No additional cost is incurred; ii. Lender’s consent is available; iii. Reporting requirements are fulfilled.
+3. Further, powers are also delegated to designated AD Category – I bank to approve cases of conversion of matured but unpaid ECB into equity subject to same conditions as set out in paragraph 2 while ensuring that conversion is within the terms mentioned in paragraph C.14 of Annex to <u>Circular dated</u> <u>November 30, 2015</u> as referred to above.
+
+<!-- PAGE 2 -->
+
+4. It should also be noted that if the ECB borrower concerned has availed credit facilities from the Indian banking system including overseas branches/subsidiaries, any extension of tenure / conversion of unpaid ECBs into equity (whether matured or not) shall be subject to applicable prudential guidelines issued by the Department of Banking Regulation of RBI, including guidelines on restructuring. Further, such conversion into equity shall also be subject to consent of other lenders, if any, to the same borrower or at least information regarding conversions shall be exchanged with other lenders of the borrower.
+5. All other aspects of the ECB policy shall remain unchanged. AD Category-I banks should bring the contents of this circular to the notice of their constituents and customers.
+6. The aforesaid <u>Master Direction No. 5 dated January 01, 2016</u> is being updated to reflect the changes.
+7. The directions contained in this circular have been issued under section 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Shekhar Bhatnagar) Chief General Manager-in-Charge

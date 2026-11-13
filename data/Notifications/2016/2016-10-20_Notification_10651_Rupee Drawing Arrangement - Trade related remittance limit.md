@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2016_10651"
+title: "Rupee Drawing Arrangement - Trade related remittance limit"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDR0976D29F8F49554756A27014AC679C43D7.PDF"
+pdf_sha256: "14d8dced6bf4bef15a7b7295b37a3956f2c232013af3b7b3ba7cfe0cdd055e04"
+md_sha256: "16b09780dec669f371de29f6f6341920a968645c3af415083c3339568717e706"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-10-20_Notification_10651_Rupee%20Drawing%20Arrangement%20-%20Trade%20related%20remittance%20limit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Drawing Arrangement - Trade related remittance limit
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA Mumbai - 400 001
+
+## RBI/2016-17/91
+
+## A.P. (DIR Series) Circular No. 9 October 20, 2016
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam/Sir,
+
+## Rupee Drawing Arrangement-Trade related remittance limit
+
+Attention of Authorised Dealer Category – I (AD Category – I) banks is invited to
+
+A.P. (DIR Series) Circular No.102 dated May 21, 2015 permitting them to regularize payments exceeding the prescribed limit under RDA provided that they are satisfied with the bonafide of the transaction
+2. On a review and in consultation with Government of India, it has been decided that the permitted trade transaction, under the Rupee Drawing Arrangements (RDAs) shall not exceed fifteen lakh rupees per transaction. All other instructions issued vide <u>A.P. (DIR Series) Circular No. 28 [A. P. (FL/RL Series) Circular No.</u> <u>02] dated February 6, 2008</u> will remain unchanged.
+3. The Reserve Bank has since amended the subject Regulations accordingly through Foreign Exchange Management (Manner of Receipt and Payment) Regulations, 2016 which have been notified through notification no. <u>FEMA</u> 14(R)/2016-RB dated May 02, 2016 vide G.S.R No. 480(E) dated May 3, 2016. Master Direction No.2 dated January 1, 2016 is being updated, to reflect the changes. The other instructions issued vide the above mentioned circulars shall remain unchanged.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Shekhar Bhatnagar) Chief General Manager-in-Charge

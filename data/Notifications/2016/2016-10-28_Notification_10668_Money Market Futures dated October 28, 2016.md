@@ -1,0 +1,96 @@
+---
+doc_id: "Notifications_2016_10668"
+title: "Money Market Futures dated October 28, 2016"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI104BD13AF7CBF204129801DD054674E34E1.PDF"
+pdf_sha256: "c31790796bb6cb549f0230a7637f1f8264eb315d0feccb70ab413d3aca2d1450"
+md_sha256: "2cf973dc6441f2115268a31fac8e5b95b1396b648245b6b1aa042f495d53b0d4"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-10-28_Notification_10668_Money%20Market%20Futures%20dated%20October%2028%2C%202016.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Futures dated October 28, 2016
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2016-17/104 FMRD.DIRD.10/14.03.01/2016-17 October 28, 2016
+
+To All market participants
+
+Dear Sir/Madam **Money Market Futures**
+
+As announced in the <u>first Bi-Monthly Monetary Policy Statement, 2016-17</u>, it has been decided to introduce Interest Rate Futures based on any rupee denominated money market interest rate or money market instrument on SEBI authorised stock exchanges.
+
+2. In this regard, the Reserve Bank of India has issued a Notification FMRD.DIRD.09/ 2016 dated October 28, 2016 amending the Interest Rate Futures (Reserve Bank) Directions, 2013 dated December 5, 2013 to permit cash settled interest rate futures
+# The direction has been superseded
+
+based on money market benchmarks in general.
+
+3. It may be noted that RBI had already permitted introduction of futures based on the 91-day Treasury Bill, which is a money market instrument. The purpose of the current directions is to permit futures based on any money market instrument or money market interest rate, other than the 91-day Treasury Bill Futures, which has been already permitted.
+…2 वत्तीय बाज़ार व�नयमन वभाग, कद्रय कायार्लय, पहल मंिजल, मुख्य भवन, शहद भगत संह मागर्, फोटर्, मुंबई – 400001. भारत फोन: (91-22) 2260 3000, फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in Financial Markets Regulation Department, Central Office, 1 st Floor, Main Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 3000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+<u>िहन्दी आसान है, इसका प्रयोग बढ़ाइए</u> -- 2 –
+
+4. Registered exchanges are free to select the underlying instrument or interest rate and structure other details of the contracts. However, before any new or modified futures contract is introduced for trading on the exchanges, the registered exchanges shall submit complete details of the futures contract, duly ratified by SEBI, to the Reserve Bank for approval.
+5. A copy of the Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2016 which is placed on the RBI Website, is enclosed.
+## Yours faithfully
+
+(T. Rabi Sankar)
+
+# supersededChief General Manager been
+
+has
+
+direction The
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## FINANCIAL MARKETS REGULATION DEPARTMENT
+
+**nd** **2 FLOOR, CENTRAL OFFICE FORT**
+
+## MUMBAI 400 001
+
+## Notification No. FMRD.DIRD. 09/2016 dated October 28, 2016
+
+## Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2016
+
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby amends the Interest Rate Futures (Reserve Bank) Directions, 2013 dated December 5, 2013 (the Directions).superseded
+
+been
+
+1. **Short Title and commencement**
+1.1 These directions shall be referred to as the Interest Rate Futures (Reserve Bank)has (Amendment) Directions, 2016
+1.2 These directions shall, come into force with effect from October 28, 2016.
+direction
+
+**2. Eligible Instruments** In paragraph 3, after subThe-paragraph (iii) of the Directions, the following sub-paragraph (iv) shall be inserted: iv) Any Money market interest rate or instrument other than 91-day Treasury bill *Explanation – ‘Money Market Instruments’ are as defined in Sub-section (b) of Section* *45(U) of the Reserve Bank of India Act 1934. ‘Money Market Interest Rate’ means* *interest rate on any money market instrument.*
+
+<!-- PAGE 4 -->
+
+## 3. Necessary conditions of the Interest Rate Futures contract
+
+In paragraph 5, after paragraph 5.2.6 of the Directions, the following shall be added, namely:
+
+5.2.7 Any futures contract issued under para 3(iv) of these Directions shall satisfy the following requirements
+(a) The futures contract shall be based on any Rupee denominated money market interest rate or money market instrument.
+(b) The method of computation of the rate/benchmark should be objective and transparent.
+(c) The futures contract shall be cash settled in Indian Rupees or as approved by the Reserve Bank
+(d) Registered exchanges shall, before any futures contract is introduced on the
+superseded exchanges, submit complete details of the futures contract duly ratified by SEBI to the Reserve Bank for approval. been has
+
+# direction(T. Rabi Sankar)
+
+Chief General Manager The

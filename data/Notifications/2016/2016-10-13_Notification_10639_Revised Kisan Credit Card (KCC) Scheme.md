@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2016_10639"
+title: "Revised Kisan Credit Card (KCC) Scheme"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI840C8601AAE0EC4D528B8446ACD6F08229.PDF"
+pdf_sha256: "e31ee8724542f7c733095b7ee7f748472c58b4785309753054e27e55acbbf401"
+md_sha256: "000adb89d6878505b4eae7bb79b8eabaa4b263abee89f45c6561c11ff97de265"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-10-13_Notification_10639_Revised%20Kisan%20Credit%20Card%20%28KCC%29%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revised Kisan Credit Card (KCC) Scheme
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** www.rbi.org.in RBI/2016-17/84 FIDD.FSD.BC.No.18/05.05.010/2016-17 October 13, 2016
+
+The Chairman and Managing Director/ CEOs All Scheduled Commercial Banks (Excluding RRBs)
+
+Madam/Dear Sir, <u>Revised Kisan Credit Card (KCC) Scheme</u>
+
+Please refer to our <u>circular RPCD.FSD.BC.No.23/05.05.09/2012-13 dated August 7,</u> <u>2012</u> on the above subject.
+
+2. It has been decided to make certain changes in Para 13 of the revised KCC Scheme as indicated in the Annex. All banks are advised to take note of the modified instructions and implement the same with immediate effect. Yours faithfully,
+## (Uma Shankar)
+
+Chief General Manager
+
+Encl: As above
+
+व त् त ी य समावेशन और वकास वभाग, के न् द्र य कायार्लय,10 वी मंिजल, कद्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014,मंबई ु-400001 Financial Inclusion & Development Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai-1 टेल Tel:022-22601000 फै क् स ः 91-22-22621011/22610943/22610948 ई-मेल : cgmincfidd@rbi.org.in
+
+||�हंद आसान|है,इसका|प्रयोग बढ़ाइए।|
+|---|---|---|---|
+|“चेतावनी :�रज़वर् बक द्वारा मेल डाक, Caution:|है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए। keeps or offers funds to anyone. Please do not respond in any manner to such offers.||एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती " RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|
+
+<!-- PAGE 2 -->
+
+## <u>ANNEX</u>
+
+|Particulars|Instructions as per Circular RPCD.FSD.BC.No.23/05.05.09/2012- 13 dated August 7, 2012|Modified Instructions|
+|---|---|---|
+|Para 13|13.ii Besides the mandatory crop 13.ii Besides the||
+|Other|insurance, the KCC holder should mandatory crop||
+|Features|have the option to take benefit of insurance, the KCC Assets Insurance, Personal Accident Insurance Scheme (PAIS), and option to take benefit of Health Insurance (wherever product any type of Assets is available) and have premium paid Insurance, Accident through his KCC account. Necessary premium will have to be PAIS), and Health paid on the basis of agreed ratio Insurance (wherever between bank and farmer to the product is available) and insurance companies from KCC have premium paid accounts. Farmer beneficiaries should be made aware of the account. insurance cover available and their to be borne by consent (except in case of crop farmers/bank according insurance, it being mandatory) is to to the terms of the be obtained, at the application stage Scheme. Farmer itself|holder should have the Insurance (including through his KCC Premium has beneficiaries should be made aware of the insurance cover available and their consent (except in case of crop insurance, it being mandatory) is to be obtained, at the application stage itself.|
