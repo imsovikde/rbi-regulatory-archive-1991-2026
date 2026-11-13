@@ -1,0 +1,36 @@
+---
+doc_id: "Press-Releases_2007_17212"
+title: "Investment by FIIs under PIS – Dhanalakshmi Bank Ltd."
+category: "Press-Releases"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/79918.pdf"
+pdf_sha256: "0f29b2195fdb4d46e6f3182045afad9b9707b02690b7299857621b12662f9a5d"
+md_sha256: "8cbf19597be3ed6e7c37e21ef5c594083c455b07f431fb1bd5c50219666d39ed"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T16:08:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-09-14_Press-Release_17212_Investment%20by%20FIIs%20under%20PIS%20%E2%80%93%20Dhanalakshmi%20Bank%20Ltd..pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by FIIs under PIS – Dhanalakshmi Bank Ltd.
+
+<!-- PAGE 1 -->
+
+` **PRESS RELEASE**
+
+## RESERVE BANK OF INDIA
+
+www.rbi.org.in **PRESS RELATIONS DIVISION**, Central Office, Post Box 406, Mumbai 400001 <u>www.rbi.org.in</u>**\**hindi Phone: 2266 0502 Fax: 2266 0358, 2270 3279 <u>e-mail: helpprd@rbi.org.in</u>
+
+## September 14, 2007
+
+## Investment by FIIs under PIS – Dhanalakshmi Bank Ltd.
+
+The Reserve Bank of India has today notified that no further purchases of equity shares of the Dhanalakshmi Bank Ltd. should be made on behalf of Foreign Institutional Investors (FIIs) under Portfolio Investment Scheme (PIS) through stock exchanges in India without obtaining the prior permission of the Reserve Bank. The Reserve Bank has stated that FII investments of this company has reached the 22 per cent of its paid up capital.
+
+## Ajit Prasad
+
+Manager **Press Release : 2007-2008/371**
