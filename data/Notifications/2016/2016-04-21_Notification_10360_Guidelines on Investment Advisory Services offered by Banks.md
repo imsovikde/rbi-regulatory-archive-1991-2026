@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2016_10360"
+title: "Guidelines on Investment Advisory Services offered by Banks"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT379C0123280034E40A88552A47DDB7541A4.PDF"
+pdf_sha256: "0edad5487161a628a351c348c61de80ce023d1e97e747011ef326c7a883de4c2"
+md_sha256: "cd4bd425e86ae507b792db93d813b72594f515fae4e5d787e36f3584b5fae697"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-04-21_Notification_10360_Guidelines%20on%20Investment%20Advisory%20Services%20offered%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Investment Advisory Services offered by Banks
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/379 DBR.No.FSD.BC.94/24.01.026/2015-16 April 21, 2016
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam,
+
+## Guidelines on Investment Advisory Services offered by Banks
+
+Please refer to <u>paragraphs 86, 87 and 88</u> of the Monetary Policy Statement 2013-14 and the subsequent <u>draft guidelines on Wealth Management/Marketing/Distribution</u> <u>Services offered by Banks issued on June 28, 2013</u>, seeking comments of stakeholders. The draft guidelines dealt with, *inter alia*, Investment Advisory Services (IAS) offered by banks, and the concerns arising from the conflict of interest between these activities and the marketing/distribution activities of banks.
+
+2. IAS is defined and regulated by SEBI under the SEBI (Investment Advisors) Regulations, 2013, and entities offering these activities need to be registered with SEBI. In view of the same it is advised that henceforth, banks cannot undertake IAS
+# Withdrawn
+
+departmentally. Accordingly, banks desirous of offering these services may do so either through a separate subsidiary set up for the purpose or one of the existing subsidiaries after ensuring that there is an arm’s length relationship between the bank and the subsidiary.
+
+3. The sponsor bank should obtain specific prior approval of Department of Banking Regulation before offering IAS through an existing subsidiary or for setting up a subsidiary for this purpose. (Setting up of any subsidiary will, as hitherto, be subject to the extant guidelines on para-banking activities of banks).
+4. All bank sponsored subsidiaries offering IAS will be registered with SEBI and regulated as per the SEBI (Investment Advisors) Regulations, 2013, and shall adhere to all relevant SEBI rules and regulations in this regard.
+5. IAS provided by the bank sponsored subsidiaries should only be for the products and services in which banks are permitted to deal in as per Banking Regulation Act,
+1949. <u>बक</u> **ैंिं**<u>ग ••विनियमि विभाग, े न्द्रीय ायाालय, े न्द्रीय ायाालय भिि, 13 िी मिंजिल, शहीद भगत स िंह मागा, फोर्ा, मिंबई 400 001</u> Department of Banking Regulation, Central Office, Central Office Building, 13
+th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22661602, Fax : 022-2270 1224, E-mail : <u>cgmicdbr@rbi.org.in</u> Website : www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+6. The instructions/guidelines on KYC/AML/CFT applicable to the subsidiary, issued by the concerned regulator, as amended from time to time, may be adhered to in respect of customers to whom IAS is being provided.
+7. Banks which are presently offering IAS may reorganize their operations in accordance with these guidelines within a period of three years from the date of issue of this circular. Yours faithfully
+## (Lily Vadera)
+
+Chief General Manager
+
+# Withdrawn

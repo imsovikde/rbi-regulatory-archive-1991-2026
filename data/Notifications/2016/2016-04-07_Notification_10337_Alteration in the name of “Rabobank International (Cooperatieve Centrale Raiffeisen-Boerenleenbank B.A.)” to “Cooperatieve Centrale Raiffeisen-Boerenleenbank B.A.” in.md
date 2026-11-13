@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2016_10337"
+title: "Alteration in the name of “Rabobank International (Cooperatieve Centrale Raiffeisen-Boerenleenbank B.A.)” to “Cooperatieve Centrale Raiffeisen-Boerenleenbank B.A.” in the Second Schedule to the RBI Act, 1934"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT36427C0993E54C44AC097E8A4700269C5D2.PDF"
+pdf_sha256: "8e597be4ac68f66c0153f7b75f8712aad68cc24e0162e7327b67410bc6d273fc"
+md_sha256: "49b2e59de84b79eb854da8be98118bc1a4c0b613907ad3c6c9a0aa56177a6ee1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-04-07_Notification_10337_Alteration%20in%20the%20name%20of%20%E2%80%9CRabobank%20International%20%28Cooperatieve%20Centrale%20Raiffeisen-Boerenleenbank%20B.A.%29%E2%80%9D%20to%20%E2%80%9CCooperatieve%20Centrale%20Raiffeisen-Boerenleenbank%20B.A.%E2%80%9D%20in.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Alteration in the name of “Rabobank International (Cooperatieve Centrale Raiffeisen-Boerenleenbank B.A.)” to “Cooperatieve Centrale Raiffeisen-Boerenleenbank B.A.” in the Second Schedule to the RBI Act, 1934
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/364 DBR.No.Ret.BC.87/12.07.131A/2015-16 April 7, 2016
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+## Alteration in the name of “Rabobank International (Cooperatieve Centrale Raiffeisen-
+
+**Boerenleenbank B.A.)” to “Cooperatieve Centrale Raiffeisen-Boerenleenbank B.A.” in the Second Schedule to the RBI Act, 1934**
+
+We advise that the name of **“Rabobank International (Cooperatieve Centrale** **Raiffeisen-Boerenleenbank B.A.”** has been changed to **“Cooperatieve Centrale** **Raiffeisen-Boerenleenbank B.A.”** in the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.IBD.No.4293/23.03.027/2015-16 dated September 28, 2015 and published in the Gazette of India (Part III Section 4) dated December 19, 2015.
+
+## Yours faithfully
+
+(M.K.Samantaray) General Manager
+
+बकैं िं ग विनियमि विभाग, ें द्रीय ायाालय, सेंटर 1, फ परेड, ोलाबा, मिंबई -400005 Department of Banking Regulation,Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005 Tel No: 91-22-22189131 फै स ििं./Fax No: 022-22150772 Email ID:cgmicdbr@rbi.org.in "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."

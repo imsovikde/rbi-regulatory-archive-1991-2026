@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2016_10348"
+title: "Acceptance of deposits by Indian companies from a person resident outside India for nomination as Director"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP5907BF9FAECD3F44D6835741528B46CAD6.PDF"
+pdf_sha256: "b9063368f7a37215e2e0244c1a3c18b28393fe6b302d43422c60c8db5173b128"
+md_sha256: "09e12a7dbc16355925ee35f25477e6e974aca59a949dd18c91b90ddd1ebb0852"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-04-13_Notification_10348_Acceptance%20of%20deposits%20by%20Indian%20companies%20from%20a%20person%20resident%20outside%20India%20for%20nomination%20as%20Director.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Acceptance of deposits by Indian companies from a person resident outside India for nomination as Director
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA <u>Mumbai - 400 001</u>
+
+## RBI/2015-16/371 April 13, 2016
+
+## A.P. (DIR Series) Circular No.59
+
+To All Authorised Dealer Banks Madam / Sir, **Acceptance of deposits by Indian companies from a person resident outside India for nomination as Director**
+
+Attention of Authorised Dealers Banks is invited to Regulation 3 of the Foreign Exchange Management (Deposit) Regulations, 2016, notified vide <u>Notification No.</u> <u>FEMA 5(R)/2016-RB dated April 1, 2016</u>, in terms of which no person resident in India shall accept any deposit from, or make any deposit with, a person resident outside India.
+
+2. Under section 160 of the Companies Act, 2013, it is provided that a person who intends to nominate himself or any other person as a director in an Indian company is required to place a deposit with the said company. In this context, it has come to the notice of the Reserve Bank that there is ambiguity whether such deposits will require any specific approval from the Reserve Bank under Notification No. FEMA 5(R), in cases where the deposit is received from a person resident outside India.
+3. It is clarified that keeping deposits with an Indian company by persons resident outside India, in accordance with section 160 of the Companies Act, 2013, is a current account (payment) transaction and, as such, does not require any approval from Reserve Bank. All refunds of such deposits, arising in the event of selection of the person as director or getting more than twenty five percent votes, shall be treated similarly.
+4. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned. Necessary amendments have been carried out in <u>Master Direction No 14</u> on Deposits and Accounts.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(A K Pandey) Chief General Manager

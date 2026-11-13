@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2016_10375"
+title: "Risk Weight in respect of investments in Corporate Bonds by Standalone Primary Dealers (SPDs)"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT388DDC7986C38C24E4CBD233228B9D08919.PDF"
+pdf_sha256: "11df6dff99685c9374c706c50ff3ff8c8101204698b49e290220f2705d3ee7b5"
+md_sha256: "deb33a354fca1e894dc39a3a13eedb89d2edc86d2bf19e541b66fe34d72b1397"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-04-28_Notification_10375_Risk%20Weight%20in%20respect%20of%20investments%20in%20Corporate%20Bonds%20by%20Standalone%20Primary%20Dealers%20%28SPDs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Weight in respect of investments in Corporate Bonds by Standalone Primary Dealers (SPDs)
+
+<!-- PAGE 1 -->
+
+## RBI/2015-16/388
+
+## DNBR.CO.PD.No.080/03.10.01/ 2015-16 April 28, 2016
+
+All Standalone Primary Dealers Madam/ Sir, **Risk Weight in respect of investments in Corporate Bonds** <u>by Standalone Primary Dealers (SPDs)</u> In terms of the Capital Adequacy Standards and Risk Management Guidelines for SPDs, risk weight of 100% has been stipulated in respect of investments in corporate bonds, for the purpose of calculating capital adequacy.
+
+2. On a review, in order to bring parity with risk weights assigned to investment in corporate bonds by SPDs and banks, it has been decided to link the risk weights, assigned by SPDs to their investments in corporate bonds, to the rating of the bonds as under:
+# <u>A. Short te</u>rm instruments (bonds ≤ 1 year maturity)
+
+|CARE|CRISIL|India Rating|ICRA|Brickwork|SMERA|Risk weight (%)|
+|---|---|---|---|---|---|---|
+|CARE A1+|CRISIL A1+|IND A1+|ICRA A1+|Brickwork A1+|SMERA A1+|20|
+|CARE A1|CRISIL A1|IND A1|ICRA A1|Brickwork A1|SMERA A1|30|
+|CARE A2|CRISIL A2|IND A2|ICRA A2|Brickwork A2|SMERA A2|50|
+|CARE A3|CRISIL A3|IND A3|ICRA A3|Brickwork A3|SMERA A3|100|
+|CARE A4&D|CRISIL A4&D|IND A4&D|ICRA A4&D|Brickwork A4&D|SMERA A4&D|150|
+|Unrated|Unrated|Unrated|Unrated|Unrated|Unrated|100|
+
+# B. Long term instruments (bonds > 1 year maturity)
+
+## Rating AAA AA A BBB ≤ BB Unrated
+
+Risk Weight 20 30 50 100 150 100
+
+3. The above shall be applicable with immediate effect. Yours faithfully (C.D.Srinivasan) Chief General Manager

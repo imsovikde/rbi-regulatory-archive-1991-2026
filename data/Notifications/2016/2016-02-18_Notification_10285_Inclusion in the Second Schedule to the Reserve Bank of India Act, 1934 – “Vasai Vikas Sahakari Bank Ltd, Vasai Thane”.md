@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2016_10285"
+title: "Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – “Vasai Vikas Sahakari Bank Ltd, Vasai Thane”"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT32517F7C0F9CE1246EB9CCC780956060F37.PDF"
+pdf_sha256: "1fb056d6f6aef710b2f153517b6cdf7c4ffd2c43b1a705d32780390b33c2d747"
+md_sha256: "d42006983c36a4aa4bd26f598e643df606bccdf1ebe7e51a20fe72988e5c25ac"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:54:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-02-18_Notification_10285_Inclusion%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20%E2%80%9CVasai%20Vikas%20Sahakari%20Bank%20Ltd%2C%20Vasai%20Thane%E2%80%9D.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – “Vasai Vikas Sahakari Bank Ltd, Vasai Thane”
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक
+
+**__________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2015-16/325 DCBR CO. BPD.BC. No.10/16.05.000/2015-16 Magha 29, 1937 February 18, 2016
+
+## All Banks
+
+## Dear Sir/Madam
+
+## Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 –
+
+## “Vasai Vikas Sahakari Bank Ltd, Vasai Thane”
+
+We advise that the name of “Vasai Vikas Sahakari Bank Ltd, Vasai Thane” has
+
+been included in the Second Schedule to the Reserve Bank of India Act, 1934
+
+by Notification DCBR.CO.BPD.02/16.05.000/2015-16 dated December 17, 2015
+
+published in the Gazette of India vide (Weekly No. 5 - Part III-Section 4) dated
+
+## January 30, 2016.
+
+## Yours faithfully
+
+(Scenta Joy) General Manager
+
+सहकार बक व�नयमन वभागकद्रय कायार्लय ,पहल व दसर ू मंिज़ल, सी7-, बांद्रा कु लार् कॉम्प्लेक्स, बांद्रा 400051 -मुंबई ,(पवर्ू) भारतफोन: 022 –26578100/8300/8500/8700- 49;ई मेल: cgmdcbrco@rbi.org.in Department of Co-operative Bank Regulation, Central Office, 1 st &2 nd Floor,BandraKurlaCpmplex, Bandra (East), Mumbai– 400051IndiaPhone: 022 <u>–26578100/8300/8500/8700; Email:</u> cgmdcbrco@rbi.org.in <u>बक �हन्द म पत्राचार का स्वागत करता है</u> चेतावनी: भारतीय �रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी व्यिक्तगत जानकार जैसे बक खाते का ब्यौरा, पासवडर् आ�द नहं माँगा जाता है। यह धन रखने या देने का प्रस्ताव भी नहं करता है। ऐसे प्रस्ताव का कसी भी प्रकार से जवाब मत दिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

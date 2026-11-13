@@ -1,0 +1,699 @@
+---
+doc_id: "Notifications_2016_10351"
+title: "Overseas Direct Investment (ODI) – Rationalization and reporting of ODI Forms"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP.PDF"
+pdf_sha256: "53e3c8b6dd52f4347bd9c7e924bffaf0c98f87c9c892953c10a777d05cd187cf"
+md_sha256: "d215d712b3d6866467012d4e5cfb63333fa354a6543f7feaafa5f3e13b990054"
+total_pages: 25
+native_pages: 24
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:55:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-04-13_Notification_10351_Overseas%20Direct%20Investment%20%28ODI%29%20%E2%80%93%20Rationalization%20and%20reporting%20of%20ODI%20Forms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investment (ODI) – Rationalization and reporting of ODI Forms
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA Mumbai - 400 001
+
+## RBI//2015-16/374 April 13, 2016
+
+## A.P. (DIR Series) Circular No.62
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Overseas Direct Investment (ODI) – Rationalization and reporting of ODI Forms
+
+Attention of the Authorised Dealer (AD-Category I) banks is invited to the <u>Notification</u> <u>No. FEMA 120/RB-2004 dated July 7, 2004</u> [Foreign Exchange Management (Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004] (the Notification), as amended from time to time. Attention of AD Category – I banks is also invited to <u>A. P.</u> <u>(DIR Series) Circular No. 68 dated June 01, 2007</u> and <u>A. P. (DIR Series) Circular No. 15</u> <u>dated August 21, 2012</u> on rationalisation of ODI Forms and instructions issued vide <u>A.</u>
+
+<u>P. (DIR Series) Circular No. 24 dated August 14, 2013</u> wherein Resident Individuals (RI) were allowed to set up overseas JV/WOS within the Liberalised Remittance Scheme (LRS) limit. Attention of AD Category – I banks is also invited to <u>A.P. (DIR Series)</u> <u>Circular No. 36 dated February 24, 2010</u>, <u>A.P. (DIR Series) Circular No.131 dated May</u> <u>31, 2012</u> on the operationalization of the online reporting system of ODI, Para B.7 and Part II of <u>FED Master Direction No. 15/2015-16 dated January 1, 2016</u> and Part VIII of
+# <u>Withdrawn w.e.f. August 22, 2022</u>
+
+<u>FED Master Direction No. 18/2015-16 dated January 1, 2016</u>.
+
+2. At present, application for ODI is required to be made in Form ODI – Part I (comprising six sections) for direct investments in Joint Venture (JV) / Wholly Owned Subsidiary (WOS) under automatic route / approval route. Further, remittances and other forms of financial commitment undertaken by the Indian Party (IP) are reported in Form ODI Part II. Annual Performance Report (APR) on the functioning of overseas JV / WOS in Form ODI Part III and details of disinvestment in Form ODI Part IV are currently required to be submitted through the designated Authorised Dealer Bank (AD bank). While Form ODI Part I and Part III are required to be submitted by the applicant undertaking ODI, the
+
+<!-- PAGE 2 -->
+
+Form ODI Part II and Part IV are to be submitted by the AD bank on behalf of the applicant. In order to capture all data pertaining to the IP undertaking ODI as well as the related transaction, it has been decided to subsume Form ODI Part II within Form ODI Part I. Thus the Form ODI will have five sections instead of six.
+
+3. The rationalised and revised Form ODI **(Annex I)** will now comprise the following parts: Part I – Application for allotment of Unique Identification Number (UIN) and reporting of Remittances / Transactions:
+Section A – Details of the IP / RI. Section B – Capital Structure and other details of JV/ WOS/ SDS. Section C-Details of Transaction/ Remittance/ Financial Commitment of IP/ RI. Section D – Declaration by the IP/ RI. Section E – Certificate by the statutory auditors of the IP/ self-certification by RI. Part II-Annual Performance Report (APR)
+
+# 2022
+
+Part III – Report on Disinvestment by way of 22,
+
+a) Closure / Voluntary Liquidation / Winding up/ Merger/ Amalgamation of overseas JV / WOS;
+b) Sale/ Transfer of the shares of the overseas JV/ WOS to another eligible
+# August
+
+resident or non-resident;
+
+c) Closure / Voluntary Liquidation / Winding up/ Merger/ Amalgamation of IP; andw.e.f.
+d) Buy back of shares by the overseas JV/ WOS of the IP / RI.
+4. Further, a new reporting format has also been introduced for Venture Capital Fund (VCF) / Alternate Investment Fund (AIF), Portfolio Investment and overseas investment
+# Withdrawn
+
+by Mutual Funds as per the format in **Annex II and Annex III**. In case of reporting purchase and repurchase of ESOPs, the AD banks may continue to report the same in the existing format **(Annex IV)**.
+
+5. It is further advised that any post investment changes subsequent to the allotment of the UIN are required to be reported as indicated in the operational instructions on submission of Form ODI Part I **(Annex I)**.
+6. AD banks before executing any ODI transaction must obtain the Form ODI Part I from the applicant in terms of Regulation 6 (2) (vi) of the Notification, *ibid*. Further, the AD
+
+<!-- PAGE 3 -->
+
+bank should report the relevant Form ODI in the online OID application and obtain UIN while executing the remittance.
+
+7. In case of RI undertaking ODI, certification of Form ODI Part I by statutory auditor or chartered accountant need not be insisted upon. Self-certification by the RI concerned may be accepted.
+8. The revised ODI forms and instructions for filling up the forms will come into effect immediately.
+9. Reserve Bank reserves the right to place the information received through the forms in the public domain.
+10. As hitherto, the AD banks would continue to receive the ODI forms as also documents related to the post investment changes in the physical form. These should be preserved
+# 2022
+
+UIN wise for submission to the Reserve Bank, if and when specifically required. 22,
+
+11. AD banks should put in place proper processes and systems and issue necessary instructions to all the dealing officials at the bank / branch level to ensure compliance with these guidelines. August
+## Online Reporting of Form ODI
+
+w.e.f.
+12. Online OID application has been revamped to further reduce the traditional paper based filing system, to provide the AD banks fast and easy accessibility to data for reference purpose, to improve the coverage and ensure proper monitoring of the flows in a dynamic environment. Accordingly, modules in online OID application have been added,
+# Withdrawn
+
+wherein all the ODI forms as mentioned in this circular may be reported.
+
+13. A concept of AD Maker, AD Checker and AD Authorizer has now been introduced in the online application process. The AD Maker shall initiate the transaction and submit to the AD Checker for verification of the transaction before submission to Reserve Bank. The AD Authorizer shall have the authority to ratify these ODI transaction which are pending due to various reasons, such as, delay arising on account of seeking further clarification from the IP / RI, technical difficulty in reporting the transaction in the online OID application and on account of delay in completing the due diligence process.
+
+<!-- PAGE 4 -->
+
+14. The AD bank may identify an official in the middle management level who may be assigned the responsibility of the AD Authorizer. The Authorizer shall be entrusted with the following responsibilities:
+i. Examining the genuineness of the reason/s behind late submission of the ODI Forms. ii. Ratifying those online transaction which are reported with a delay owing to operational difficulties after recording the facts in the online OID application under the Remarks column.
+15. The Centralized Unit / Nodal Office of the AD bank should ensure online reporting of Overseas Investments in the application hosted on the website <u>[https://oid.rbi.org.in](https://oid.rbi.org.in)</u>
+16. The AD Maker, AD Checker and AD Authoriser identified by the AD Bank may obtain a user-id for accessing the online OID application by submitting a request in the prescribed format (**Annex V**).2022
+22,
+
+17. Any non-compliance with respect to the instruction for submission of Form ODI Part I, Part II and Part III shall be treated as contravention of Regulation 6 (2) (vi), Regulation 15 and Regulation 16 respectively, of the <u>FEMA Notification No 120/RB-2004 dated July</u>
+# August
+
+<u>07, 2004</u> as amended. The Reserve Bank will take a serious view on non-compliance with the guidelines / instructions and initiate penal action as considered necessary.
+
+w.e.f.
+18. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+19. <u>Master Direction No. 15/2015-16 dated January 1, 2016</u> and <u>Master Direction No. 18/</u> <u>2015-16 dated January 1, 2016 Withdrawn</u> are being updated to reflect the changes.
+20. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(A. K. Pandey) Chief General Manager
+
+<!-- PAGE 5 -->
+
+## Annex I FORM ODI PART I
+
+### Section A: Details of Indian Party (IP) / Resident Individual (RI)
+
+I. <u>Code of Reporting AD bank</u> II. Investment under Automatic Route Approval
+Route <u>III.</u> Particulars of the IP / RI
+
+i.Name of IP/ RI ii.PAN Number <u>iii.</u>Group to which the IP belongs
+iv.Activity code of IP (1987 NIC code at 3-digit level)
+
+v.Address of IP/ RI <u>vi.</u>City <u>vii.</u>State
+<u>viii.</u>Pin <u>ix.</u>Networth in INR As on date
+
+x.Contact Person <u>xi.</u>Designation of the contact person <u>xii.</u>Telephone Number
+<u>xiii.</u>Mobile Number <u>xiv.</u>Fax 2022 <u>xv.</u>E-mail ID <u>IV. Status of IP/ RI: (Please tick appropriate category):</u> 22,
+
+i.Public Ltd. Company <u>vi.</u>Unregistered Partnership ii.Private Ltd. Company <u>vii.</u>Proprietorship <u>iii.</u>Public Sector Undertaking <u>viii.</u>Trust
+<u>iv.</u>Individual <u>ix.</u>Society
+
+v.Registered PartnershipAugustx.Others (please specify)
+V. Financial particulars of the IP for the last 3 years (If the IP is engaged in the financial sector or falls under the category of Proprietorship, Unregistered Partnership)
+i.Particulars (Actual Amt. in Rs.) <u>Year 1 [31-3-] Year 2 [31-3 -] Year 3 [31-3-]</u> ii.Foreign exchange earnings<u>w.e.f.</u> <u>(excluding equity exports to JV/WOS)</u> iii.Net profit
+iv.Paid-up Capital
+
+v.Net worth of (a) Indian Party
+(b) Group Company@ Withdrawn
+@ to be furnished In terms of explanation to Regulation 6 (3) of Notification No. FEMA 120/ RB-2004 dated July 7, 2004 as amended VI Particulars of existing JV and WOS already in operation or under implementation, of the IP/ RI: (Attach separate sheet if required) Name of IP / RI Unique Identification Number (UIN) allotted Name of the designated by Reserve Bank AD bank
+
+i. ii. <u>iii.</u>
+<u>iv.</u>
+
+v.
+VII Whether the IP/ RI is under Investigation/ Export Caution list/ From Date To Date (if any) Banking Default List. If yes, mention the name of the investigating agency and the duration of investigation
+
+i. ii.
+
+<!-- PAGE 6 -->
+
+<u>iii.</u>
+
+## FORM ODI-PART I
+
+**Section B: Capital Structure and other details of the JV / WOS / Step Down Subsidiary (SDS)**
+
+Code of Reporting AD bank **Indicate 13 digit Unique Identification Number issued by the Reserve Bank (if applicable)**
+
+VI **Particulars of JV/WOS**
+
+i. Name of JV/WOS: ii. Address of JV/WOS: iii. Name of the country
+iv. e-mail id of the JV/ WOS
+
+v. Accounting year followed by the JV/WOS vi. Activity code of the JV/WOS as per NIC 1987 vii. Estimated cost/ Fair Value of overseas acquisition
+viii. Financial commitment w.r.t above JV/WOS <u>Equity Loan Guarantee</u> xi. Financial Commitment w.r.t. all JV/ WOS
+
+# <u>2022</u>
+
+**VII** <u>Whether JV/WOS is SPV (Y/N)? If Y, Please furnish the details</u>
+
+i.Purpose of SPV
+22, ii.Full value of the overseas acquisition iii.Direct / Indirect infusion by SPV iv.Funds raised overseas with guarantee/ counter guarantee issued by the IP
+
+v.Funds raised overseas without guarantee/ counter guarantee of the IP vi.Funds contributed in the form of equity/ preference equity/ shareholder’s August loans by foreign investors vii.Securitisation
+viii.Any other mode (please specify)
+
+w.e.f.
+ix.Total **VIII** <u>Proposed/ Updated Capital Structur</u>**e:** % stake % stake
+
+|i. Indian Party (ies)/ RI|ii. Foreign partner(s)|
+|---|---|
+|IX Furnish the details of investment/ disinvestment of Step down subsidiary (SDS) of JV/ WOS||
+
+(1) (1)
+(2) (2)
+(3) (3)
+
+# Withdrawn
+
+**in the prescribed format (attach separate sheet if the number of SDS is more than one)**
+
+i.Name, Level and Country of SDS ii.Name, Level and Country of parent SDS iii.Name of the Parent of the SDS
+iv.Investment type: <u>WOS</u> JV
+
+v.Type of Step Down Subsidiary SPV Operating Operating
+Cum SPV vi.Activity code as per NIC 1987 vii.Investment Amount and Date of investment (if any): viii.% stake held by the parent in the SDS
+
+<!-- PAGE 7 -->
+
+|||||FORM ODI-PART I Section C: Details of Transaction/ Remittance/ Financial Commitment of Indian Party/ Resident Individual|
+|---|---|---|---|---|
+||Code of Reporting AD bank||Indicate 13 digit Unique Identification Number issued by Reserve Bank (if applicable)||
+|X|Name of the IP/ RI||||
+|XI [d])||||Purpose of investment (Please tick appropriate category) (It can be either [a], [b] [c] or|
+|[a] Project @|Purpose of investment in New i. Participation in JV ii. Contribution in WOS||[b]|Purpose of Supplementary Investment in existing project @ i. Enhancement of equity in the existing JV/WOS overseas ii. Enhancement of Preference Equity/ Convertible Debt|
+|concern|iii. Full acquisition of the foreign|||iii. Grant/ Enhancement of Loan in existing JV/WOS|
+|concern|iv. Partial acquisition of a foreign|||iv. Extension/ Enhancement of Guarantees 2022|
+|entity|v. Investment in unincorporated|||v. Remittances to Unincorporated Entity 22,|
+|vi. Others|||vi.|Others|
+|[c]|Conversion of loan into equity and vice versa $||$$|[d] Rollover/ change in amount and date of a guarantee already reported to Reserve Bank August|
+|XII|i. Method of Investment ii. Category of Investment||w.e.f.|Details of Current Remittances/ Transaction Effected (Select a suitable method of investment and give the other details as mentioned in “Note” and the table below):|
+|iii. Other Details|$, $$||||
+|**||iv. Amount of Remittance / other financial commitment. Withdrawn|||
+|Note :|consultancy fees, etc. in the field “Other Details”à loan/ equity was reported online.|** Please indicate name of the foreign currency (FCY) as per SWIFT code.|@ Please specify the other dues being capitalized viz., royalty, technical know-how fee,|$ In case of conversion of loan into equity and vice versa please furnish the following details a) Date of conversion b) Amount converted into equity/ loan c) 15 digit transaction number allotted by the Reserve bank when the original remittance towards|
+|“Other Details”à|original guarantee was reported online.||$$ In case of rollover / change in guarantee please furnish the following details in the field a) Date of change/ Rollover of guarantee, b) Validity date of the new guarantee c) New Guarantee Amount d) 15 digit transaction number allotted by the Reserve bank when the||
+
+<!-- PAGE 8 -->
+
+|S. No.|Method or Source of Investments|||Category of Investments (OPS: Other Preference Shares, IP: Indian Party)||||Other details|
+|---|---|---|---|---|---|---|---|---|
+|1|Cash Remittance – EEFC|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|2|Cash Remittance – Market Purchase|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|3|ECB|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|4|FCCB|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|5|ADR|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|6|GDR|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|7|Swap of Shares|||Equity||||Remittance Date|
+|8|@ Capitalization – Exports/ Others|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|9|Capitalization – Others (Specify)|Equity|CCPS|OPS|Loan||Guarantee Invoked|Remittance Date|
+|10|Others – Fund based (Specify)|Equity|CCPS|OPS|Loan||2022 Guarantee Invoked 22,|Remittance Date|
+|11|Corporate or Personal Guarantee Issued|Corporate Guarantee by IP||Personal Guarantee by third party|||Corporate Guarantee by third party|Issue date and Validity date|
+|12|Performance Guarantee Issued|||Performance Guarantee Issued|August|||Issue date and Validity date|
+|13|Bank Guarantee Issued (Name of the Bank)|||Bank Guarantee Issued w.e.f.||||Issue date and Validity date|
+|14|Creation of Charge – foreign Assets|Shares of JV / WOS||Movable & Immovable Properties|||Other Financial Assets|Date of Creation of charge and Validity date|
+|15 16|Creation of charge – domestic Assets (to be denominated in INR) (name of the overseas lender) Others – Non fund based (Specify)|Shares of IP Withdrawn and/or its group companies||Movable & Immovable Properties of IP and/or its group (Specify)|||Other Financial Assets of IP and/ or its group|Date of Creation of charge and Validity date (To be allowed only in INR)|
+|17|ODI as a result of merger|Equity||Loan|||Guarantee|Date of Merger|
+|18|ODI as a result of sale/ transfer/ merger by / of Indian Parties|Equity||Loan|||Guarantee|Date of Sale Transfer|
+
+<!-- PAGE 9 -->
+
+||To be filled by the AD branch (strike out whichever is not applicable)|||||
+|---|---|---|---|---|---|
+|i) ii) iii) iv) v)|_________ (equity/ loan/ guarantee)||We hereby confirm that the remittance/ transaction of (amount in FCY) _________________ towards has been allowed under the Automatic Route based on the certification given by the statutory auditors confirming compliance with the prescribed terms and conditions by the Indian Party; has been allowed under the Approved Route based on the certification given by the statutory auditors confirming compliance with the prescribed terms and conditions by the Indian Party; is in accordance with the terms and conditions of the approval letter issued by the Reserve Bank; has been allowed on behalf of the Resident Individual under LRS as per Schedule V of Notification No. FEMA 120/RB-2004 dated July 07, 2004 as amended from time to time; and in respect of the guarantee invoked, the remittance has been made after satisfying that the claim is in conformity with the terms and conditions of the guarantee issued to/on behalf of the JV/WOS abroad.|||
+|Signature of authorized official|||||Stamp/Seal|
+|Name & Authorized Official|Designation of the|||||
+|Place:|||Date:|2022||
+|Telephone No:|||Fax No:|22,||
+
+August
+
+w.e.f.
+Withdrawn
+
+<!-- PAGE 10 -->
+
+||||FORM ODI-PART I Section D : Declaration by the Indian Party / Resident Individual||
+|---|---|---|---|---|
+|of the case.|||(a) Whether the Indian Party / Resident Individual, are under investigation/s by any investigative/enforcement agency or regulatory body. If yes, the brief details thereof, including present stage of investigation/ adjudication / manner of disposal||
+|Indian Party (ies):|||(b) Whether the promoter Indian Party (ies) is (are) presently on Exporters' Caution List of the Reserve Bank for non-realization of export proceeds or on the list of defaulters to the Banking System circulated by Reserve Bank. If so, status of the||
+|concern.|existing JV / WOS of the Indian Party has been submitted. (ii) of the Notification No. FEMA Notification WOS of the Indian Party/ Resident Individual. dated July 07, 2004 as amended. Withdrawn|w.e.f. I/ We hereby certify that the information furnished above are true and correct.|(c) Any other information relevant to this proposal, including any special benefits / incentives available in the host country for setting up / acquiring the proposed (d) Wherever applicable, the Share Certificate and Annual Performance Report as required in terms of Regulation 15 (i) and 15(iii) of the Notification No. FEMA 120 / RB - 2004 dated July 07, 2004, as amended from time to time, in respect of all the August (e) All the receivables have been repatriated as required in terms of Regulation 15 ibid (f) If the Activity of the Step Down Subsidiary is related to the financial services it is certified that we have complied with Regulation 7(2) of Notification No. FEMA 120|2022 22, in respect of all the existing JV /|
+|Signature of the authorized official of the IP / RI||||Stamp/Seal|
+|Name & Designation of the Authorized Official|||||
+|Place:||Date:|||
+|Telephone No. List of enclosures:||Fax No.:|||
+|1.|2.|||3.|
+|4.|5.|||6.|
+
+<!-- PAGE 11 -->
+
+||||Form ODI-PART I Section E : Certificate by the Statutory Auditors of the Indian Party||||
+|---|---|---|---|---|---|---|
+|i. ii. iii. iv. v. vi. sheet if required)|___________/Amt in _________(amount in FCY). has complied with the ECB guidelines #. terms of Regulation 15(iii) of the Notification|respect of the investment under report. In particular, it is certified that:|It is certified that the terms and conditions contained in Notification No. FEMA 120/RB-2004 dated July 7, 2004, as amended from time to time (Foreign Exchange Management (Transfer or Issue of any Foreign Security) Regulations, 2004) have been complied with by the Indian Party _____________________________________(Name of the Indian Party) in the investment is not in real estate oriented or banking business, and the remittance / transaction amount towards the investment together with earlier financial commitment is within the limit stipulated by the Reserve Bank from time to time. This has been verified with reference to the net worth (Amt in INR equivalent __________________________(Name of the Indian Party) as on the date of last audited balance sheet, i.e. (date ________) and the total financial commitment (Amt in FCY ______) vis a vis net worth arrived at ____%. The Financial commitment of the Indian Party is within the 1 Billion limit for this financial year in terms of A.P. (DIR Series) Circular No.1 dated July 03, 2014. has complied with the valuation norms prescribed for the investment towards equity and the valuation for the investment in _______(no of shares) is arrived at that the Indian Party (a) has made net profits during the preceding three years, (b) has fulfilled the prudential norms of capital adequacy as prescribed by the regulatory authority concerned; (c) has been registered with the appropriate regulatory authority in India and (d) has obtained approval for the investment in financial services sector activities from the regulatory authorities concerned in India and abroad*. August Further, certified that, wherever applicable, the Annual Performance Report, as required in ibid, mentioned in the table below) of the Indian Party have been submitted. (attach a separate w.e.f.|FCY_______) 22,|of the 2022 in respect of all its JV / WOS (UIN to be|Indian Party|
+|UIN 1:|||UIN 2:||UIN 3:||
+|UIN 4:|sector (e.g. insurance, mutual fund, asset management, etc.). Withdrawn|# Applicable where investment is funded through ECB/FCCB balances.|UIN 5: Note: *Applicable only in cases where the investment proposed is in the financial services||UIN 6:||
+|Signature of Auditors of the Indian Party|the Statutory|||||Stamp/Seal|
+|Name of registration number|the firm and||||||
+|Place:|||Date:||||
+
+<!-- PAGE 12 -->
+
+## Instructions relating to submission of Form ODI Part I:
+
+a) In case of Automatic Route-AD Category – I banks may allow Overseas Direct Investment on receipt of application in Form ODI, where the Indian Party is complying with Regulation 6 of <u>Notification No. FEMA 120/RB-2004 dated July 7, 2004</u> as amended from time to time and the Resident Individual is complying with Regulation 20 read with Schedule V of the FEMA Notification *ibid.*
+b) In case of Approval Route – the application should be submitted to the Reserve Bank in the on- line application of Form ODI Part I as contemplated above. The proposal under the approval route shall be submitted after due scrutiny and with the specific recommendations of the designated AD bank along with a copy of Section D and Section E of Part I of Form ODI and supporting documents to The Chief General Manager, Reserve Bank of India, Foreign Exchange Department, Overseas Investment Division, Amar Building, 5th Floor, Sir P. M. Road, Fort, Mumbai 400001. In case the proposal is approved, the AD bank should effect the remittance under advise to Reserve Bank so that the UIN may be allotted under the approval route.
+# 2022
+
+For approval by the Reserve Bank, following documents need to be submitted along with Part I 22, of From ODI by the designated Authorized Dealer:
+
+a. A letter from the designated AD of the IP in a sealed cover mentioning the following details:
+- Transaction number generated by the OID application
+# August
+
+- Brief details of the Indian entity
+- Brief details of the overseas entity
+- Background of the proposal, if anyw.e.f.
+- Brief details of the transaction
+- Reason/s for seeking approval mentioning the extant FEMA provisions.
+- Observation of the designated AD bank with respect to the following: o Prima facie viability of the JV/ WOS outside India;
+# Withdrawn
+
+o Contribution to external trade and other benefits which will accrue to India through such investment; o Financial position and business track record of the IP and the foreign entity; o Expertise and experience of the IP in the same or related line of activity of the JV/ WOS outside India.
+
+- Recommendations of the designated AD bank
+b. A letter from the IP addressed to the designated AD bank.
+c. Board resolution for the proposed transaction/s.
+d. Diagrammatic representation of the organisational structure indicating all the subsidiaries of the IP horizontally and vertically with their stake (direct & indirect) and status (whether operating company or SPV).
+
+<!-- PAGE 13 -->
+
+e. Incorporation certificate and the valuation certificate for the overseas entity (if applicable).
+f. Other relevant documents properly numbered, indexed and flagged.
+c) Part I contains details of the JV/WOS, Indian Parties/ Resident Individuals and the remittance/ other financial commitment of the overseas entity and shall be submitted:
+a. at the time of initial remittance.
+b. for reporting the remittance for supplementary investment and any other forms of financial commitment.
+d) subsequent remittances (or financial commitment) under the automatic route and remittances (or financial commitment) under the approval route should be made, only after receipt of auto generated e-mail from RBI confirming the UIN.
+e) In cases where the investment (or financial commitment) is being made jointly by more than one IP/ RI, Form ODI is required to be submitted individually by all the investing entities and submitted to the designated branch of the AD bank. The AD bank should file online a consolidated Form ODI indicating details of each party. The Reserve Bank would allot only one UIN to the overseas project.
+# 2022
+
+f) In terms of Regulation 11 of the Notification *ibid*, the Indian parties are permitted to make direct investment (or undertake financial commitment) in JV / WOS abroad by way of capitalisation of
+22, exports or other dues/entitlements like royalties, technical knowhow fees, consultancy fees, etc. In such cases also, the IP is required to submit details of capitalisation in the Form ODI to the designated AD bank branch.August
+
+g) All Indian parties/ Resident Individual are required to undertake all the Overseas Direct Investments through the respective AD bank through which the UIN is obtained.
+w.e.f.
+h) All amounts of foreign currency (FCY) and Indian Rupees (INR) should be in actuals only. Please indicate the name of the foreign currency (FCY) as per SWIFT code.
+i) The dates shall be in the format of DD/MM/YYYY.
+j) Each page of the Form ODI-Part I should be duly signed and stamped with date by the RI / authorized person of the IP.Withdrawn
+k) If more than one IP / RI are investing in the same JV / WOS, the Form ODI Part I is to be submitted by each IP / RI.
+l) Estimated cost/ Fair Value of the overseas acquisition – The amount of the estimated cost/ fair value should be in FCY.
+m) Financial Commitment with the current JV/ WOS – The IP / RI shall furnish the outstanding financial commitment towards equity, loan and guarantee.
+n) The certificate by the statutory auditor shall be required only in case of IP and not in case of RI.
+o) Proposals for conversion of equity into loan shall be forwarded to the Reserve Bank for prior approval through the designated AD bank.
+p) Reserve Bank reserves the right to put the information furnished here in the public domain.
+q) Step down subsidiary can be:
+
+<!-- PAGE 14 -->
+
+a. Operating company
+b. Holding Company/ Special Purpose Vehicle (SPV)
+c. Holding cum Operating company
+r) Type of investment can be wholly owned step down subsidiary (WO SDS) or Step Down Joint Venture (JV SDS).
+s) Level of step down Subsidiary (SDS) should be calculated treating the JV/ WOS as the parent. So an SDS under the direct JV/ WOS should be treated as first level SDS. Accordingly an SDS under the first level SDS would be treated as second level SDS.
+t) Post Investment changes may be reported in the relevant section as prescribed under:
+
+|S. No.|Type of post investment change|Relevant Section of Form ODI – Part I to be submitted individually|
+|---|---|---|
+|1.|Change in the details of IP/ RI viz Change in the name, Address, contact details, status.|Section A|
+|2.|Investigation details of the IP / RI|Section A|
+|3.|Change in the Networth of the IP|Section A|
+|4.|Change in capital structure of the JV/ WOS|Section B 2022|
+|5.|Change in status of JV/ WOS from operating entity to SPV or vice versa|Section B|
+|6.|Change in the details of JV/ WOS such as name address etc.|22, Section B|
+|7.|Reporting of setup/ incorporation/ investment / disinvestment of SDS|Section B|
+|8.|Conversion of loan into equity and vice versa August|Section C|
+|9.|Rollover/ change in amount / validity date of the guarantee already reported to the Reserve Bank w.e.f.|Section C|
+
+# Withdrawn
+
+<!-- PAGE 15 -->
+
+|||||Form ODI PART II ANNUAL PERFORMANCE REPORT (APR)||||
+|---|---|---|---|---|---|---|---|
+|||Note: all amounts should be in actuals and currency except for Non-Equity Exports Realized i.e. item V (iii).|NOT|||in thousands. All the figures should be in a single foreign||
+|I.||APR for the period||From date||To Date||
+|II.|(UIN)|Unique Identification Number||||||
+|III.|||Capital structure as on the last day of the accounting year of JV/ WOS|Amount|||% share|
+|i)|Indian|||||||
+|ii)|Foreign|||||||
+|IV.|i)|Net Profit / (Loss)|Operational details of the JV/ WOS for the last two years|Previous Year|||Current Year|
+|ii)|Dividend|||||||
+|iii)|Net worth|||||||
+|V.||Repatriation from the JV / WOS||Current Year|||Since commencement of business|
+|(i)|Dividend|||||||
+|(ii)||Repayment of Loan||||2022||
+|(iii)|INR)|Non-Equity Exports Realised (in|||22,|||
+|(iv)|Royalties|||||||
+|(v)||Technical Know-how Fees||||||
+|(vi)||Consultancy Fees||||||
+|(vii)||Others (Please specify)||||||
+|(viii)|Profit|||August||||
+|(ix)||Retained Earnings||||||
+|(x)||FDI by JV/ WOS/ SDS into India||||||
+|(xi)|Refund online OID application|of excess application money @ Transaction No. -|share|w.e.f. @ furnish 15 / 17 digit transaction number allotted by Reserve Bank allotted at the time of reporting on the||||
+|VI.||of SDS is more than one)||Furnish the details of investment in either Wholly owned of a Joint Venture Step down subsidiary (SDS) of JV/ WOS in the prescribed format (attach separate sheet if the number||||
+|(i)||Name, Level and Country name of SDS|Withdrawn|||||
+|(ii)|parent of SDS|Name, Level and Country name of the||||||
+|(iii)||Investment Amount in FCY and Date of investment (if any)||Currency: Amount:||Date:||
+|(iv)||Investment type||WO SDS||JV SDS||
+|(v)||Type of Step Down Subsidiary||SPV/ company|Holding|Operating|Operating Cum SPV|
+|(vi)||Activity code as per 1987||||||
+|(vii)||% stake held in SDS||||||
+|(viii)||Is the activity of SDS into financial services (tick)|||||Yes No|
+
+<!-- PAGE 16 -->
+
+|||Certificate from Indian Party/ Resident Individual (Strike out whichever is not applicable)|||
+|---|---|---|---|---|
+|i. Regulation 13 of ii. iii. Form ODI Part I. iv. v. vi.|We/ I the Indian Party/ Resident Individual (wherever applicable) further confirm that: investment made as per Regulation 15 (i) of FEMA Notification|Investment in step down subsidiary (SDS) has been reported to RBI from time to time in terms of Notification No. FEMA.120/RB-2004 dated July 7, 2004 If the activity of the SDS is related to financial services-it is certified that Regulation 7(2) of Notification No FEMA 120/RB-2004 dated July 7, 2004 as amended has been complied with; Changes in the capital structure of the JV/ WOS since last APR has been reported under Section C of We have received share certificate/s (or any other proof of investment) and submitted the same to the designated AD bank for verification within 6 months of making the remittance/s for all (equity/CCPS) The previous APRs for all JV/ WOS have been filed to the respective designated AD bank. Repatriated to India, all dues receivable from the overseas JV / WOS, like dividend, royalty, technical know-how fees etc., within 60 days of its falling due or as prescribed by Reserve Bank from time to time.|as amended; ibid.||
+|IP approved by the Board / RI|Signature of the authorized official of the|||Stamp/Seal|
+|Official of the IP|Name & Designation of the Authorized||||
+|Place:||Date: Certificate of the statutory auditor (only in case of Indian Party) / self-certification in case Resident individuals (strike out whichever is not applicable)|||
+|We hereby certify that: i. ii. iii.|JV/WOS for the year ended _________. issued by the AD bank/s.|APR for the year ended _______is prepared on the basis of audited/ unaudited balance sheet of the APR for the year ended _______is prepared on the basis of unaudited balance sheet of the JV/WOS since audit is not mandatory in host country and in compliance with Regulation 15 (iii) read with 15 (v) of FEMA Notification ibid and Para 6 of A.P. (DIR Series) Circular No. 29 dated September 12, 2012. The IP repatriated to India, all dues receivable from the foreign entity, like dividend, royalty, technical August know-how fees etc., within 60 days of its falling due or as prescribed by the Reserve Bank from time to time. Repatriation from the JV/WOS has been verified from the Foreign Inward Remittance Certificate|2022 22,||
+|Indian Party|Signature of the Statutory Auditors of the|w.e.f.||Stamp/Seal|
+|(Name of the number)|firm and Registration||||
+|Place:||Date: Certificate by the Authorized Dealer bank|||
+|i. ii. iii.|Withdrawn bonafide of the documents so received. The duly filled in Form|In terms of Para 3 of AP (Dir. Series) Circular No. 14 dated September 5, 2008 the branch has received the share certificate/s or any other document as evidence of investment and are satisfied about the ___________ day of ___________ (month) ________________________ (year). All the previous year APRs submitted by the IP / RI have been reported in the online OID application.|ODI Part II (Annual Performance Report) was submitted by the IP/ RI on||
+|AD bank|Signature of the Authorized Official of the|||Stamp/Seal|
+|official|Name and designation of the AD bank||||
+|Place:||Date:|||
+
+<!-- PAGE 17 -->
+
+## Instruction for submission of Form ODI Part II:
+
+a) APR is to be certified by statutory auditors of the IP and submitted, through the
+st designated AD bank every year by December 31 as long as the JV / WOS is in existence.
+
+b) The IP / RI shall ensure that all the previous year APR has been be submitted to the designated AD bank.
+c) Para I: Please mention the date in format DD/MM/YYYY.
+d) Please indicate the name of the foreign currency (FCY) as per SWIFT code
+e) Para II: Please indicate 13 digit UIN issued by RBI.
+f) Para III: Capital structure should be in cumulative and the % stake should be a total of all the IP / RIs in the JV/ WOS
+g) Para IV (i) – the figure reported for loss should be mentioned in brackets.
+h) Para V: Figures under “since commencement of business” should be equal to or more than the figure mentioned under current year.
+i) Para V (ii): Redemption of preference shares (not in the nature of compulsorily convertible preference shares (CCPS)) should also be reported.
+# 2022
+
+j) Para V (ix): Represents part of the profits of the JV/WOS which is retained and reinvested in the JV/WOS.
+22,
+
+k) Para VI (x) – Represents interest on loan or license fee etc.
+l) Para VI Step down subsidiary can be:
+a. Operating company
+b. Holding Company/ Special Purpose Vehicle
+c. Holding cum Operating company
+# August
+
+m) Para VI (iv): Type of investment can be wholly owned step down subsidiary (WO SDS) or Step Down Joint Venture (JV SDS).
+w.e.f.
+n) Level of step down Subsidiary (SDS) should be calculated treating the JV/ WOS as the parent. So an SDS under the direct JV/ WOS should be treated as first level SDS. Accordingly an SDS under the first level SDS would be treated as second level SDS.
+o) Retained earnings is to be calculated as per the procedure laid down by the International Monetary Fund in the latest version of their publication “Balance of Payments and International Investment Position Manual”. It is to be noted that the negative retained earnings is to be treated as ‘0’ (zero).Withdrawn
+p) The certificate by statutory auditor shall be required only in case of IP and not in case of RIs.
+q) Each page of the Part II of Form ODI (APR) should be duly signed and stamped with date, by the RI / authorized person of the IP.
+
+<!-- PAGE 18 -->
+
+## Form ODI-PART III
+
+### Reporting of Disinvestment by way of Sale or Transfer of Shares / Closure /
+
+### Voluntary Liquidation /Winding Up/ Merger /Amalgamation of JV / WOS
+
+Note : All amounts should be in a single foreign currency and in actuals. Unique Identification Number allotted by the Reserve Bank
+
+S. Name, AD Code and Address of the AD bank: No. I Date of submission of and period to which last APR relates II Disinvestment route(tick) Approval Route Automatic Route III Disinvestment Type (tick) Full disinvestment Partial Disinvestment IV Date of Disinvestment V PAN No and name of the disinvesting IP / RI VI % Stake held at the time of % stake disinvested in case of disinvestment partial disinvestment VII Method of disinvestment Details to be furnished as Annex to the Form ODI PartIII Tick
+i.Sale or transfer of shares to another Furnish the details of the entity buying the stake and IP/ Individual, Merger / Liquidation also whether the entity purchasing the stake is an of IP existing foreign partner/ Indian Partner in the JV / WOS
+or a foreign party / IP buying stake in the concerned JV / WOS for the first time.
+
+# 2022
+
+ii. Closure/ Voluntary Liquidation of Details of the JV/ WOS the JV/ WOS22, iii.Buy back by the JV/ WOS Details of the JV/ WOS iv.Merger of two or more JV/ WOS of Furnish details of merging JV/ WOS and the surviving the same IP or different IP JV/ WOS such as Name, UIN of the JV/ WOS and the name of the IP concerned of both the JV/ WOS. Also furnish details of SDS of those JV/ WOS whic August h shall merge.
+
+v.Merger of the JV/ WOS with the Furnish UIN of the merging JV/ WOS, the name of the IP Step down subsidiaries of the same holding indirect stake in SDS, name of the SDS, IP or another IP Level of SDS, name and country of immediate paren
+w.e.f.
+t of SDS vi.Merger of JV/ WOS with an Furnish the detail of the foreign company such as name Independent Foreign Company not and address having any relation with the IP/ RI VIII Summary of the Overseas Direct Investment (Cumulative amount)
+
+i.Equity Loan Guarantees Issued Guarantee Invoked
+# Withdrawn
+
+IX Date wise details of remittances/ transaction (attach separate sheet if necessary)
+
+i.Date of Remittance/ Transaction Method of Investment Category of Investment Amount
+X Fair Value of the total disinvestment as per the valuation report XI Whether there is write off? If yes please provide the amount of write off
+
+i.Equity Loan Others (please specify)
+XII Amount Repatriated on disinvestment (attach separate sheet if necessary)
+
+i.Date of Repatriation Equity Loan Others
+XIII Amount repatriated since reporting of the last APR except the disinvestment proceeds
+
+<!-- PAGE 19 -->
+
+## IEquity Loan Others (Please Specify)
+
+||It is certified that (Strike out whichever is not applicable) (a) the sale is effected through a stock exchange where the shares of the overseas JV / WOS are listed;|||
+|---|---|---|---|
+|JV / WOS;|consultancy, commission or other entitlements, and/or export proceeds from the JV / WOS; designated AD bank / Reserve Bank;|(b) if the shares are not listed on the stock exchange, and the shares are disinvested by a private arrangement, the share price is not less than the value certified by a Chartered Accountant /Certified Public Accountant as the fair value of the shares based on the latest audited financial statements of the (c) The IP / RI does not have any outstanding dues by way of dividend, technical know-how fees, royalty, (d) The overseas concern has been in operation for at least one full year and the share certificate/s or any other document as an evidence of investment and APR for all the years has been submitted to the|2022|
+|India.|remittances / transaction details reported to the Reserve Bank.|(e) The Indian Party is not under investigation by CBI/ED/SEBI/IRDA or any other regulatory authority in (f) All the remittances/ transactions have been reported to Reserve Bank and it reconciles with the|22,|
+|or the guarantee is closed.||August (g) All the guarantees issued on behalf of the JV/ WOS and its SDS are either novated to another entity||
+|UIN.|w.e.f.|(h) In case the SDS has become the direct JV/ WOS as result of disinvestment of the JV/ WOS then it is certified that Form ODI Part I with respect to all such SDS is submitted to Reserve Bank for allotment of||
+|Place:||Place:||
+|Date:|Withdrawn (Signature and seal of authorised official of the IP / RI)|Date:|(Signature and seal of authorised official of the Bank)|
+|Name:||Name:||
+|Designation:||Designation:||
+|Tel. No.:||Tel. No.:||
+|FAX No.||FAX No.||
+
+<!-- PAGE 20 -->
+
+## Instructions to submit the From ODI Part III:
+
+a) A new system has been introduced for reporting of the disinvestment / closure/ winding up / voluntary liquidation of the overseas JV / WOS under the general permission (Part III of Form ODI). In case the disinvestment / closure / winding up / voluntary liquidation is under the Automatic Route, in terms of Regulation 16 of <u>Notification No FEMA 120/RB-</u> <u>2004 dated July 7, 2004</u> as amended from time to time read with the <u>A. P. (Dir Series)</u> <u>Circular No. 29 dated March 27, 2006</u> and the <u>A.P. (Dir Series) Circular No. 73 dated</u> <u>June 29, 2011</u>, a report should be submitted in the online OID application within 30 days of the disinvestment by the designated AD bank, in Part III of Form ODI.
+b) Form ODI Part III is to be submitted by the IP/ RI to the designated AD bank which in turn shall be reported the same in the online OID application through their nodal office.
+c) In all other cases of disinvestment, as per the current procedure, an application along with the necessary supporting documents should be submitted to the Reserve Bank for prior approval. In case the proposal is approved, the AD bank should submit the report
+# 2022
+
+on disinvestment in Form ODI Part III in physical copy to the Reserve Bank so that the UIN can be cancelled/ closed. 22,
+
+d) All amounts should be in actuals and in a single foreign currency.
+e) All dates should be in the format DD/MM/YYYY.
+# August w.e.f.
+
+# Withdrawn
+
+<!-- PAGE 21 -->
+
+## Annex II
+
+|||Reporting of the Overseas Investment by Venture Capital Fund (VCF) / Alternate Investment Fund (AIF)|
+|---|---|---|
+|I.|sheet if there are multiple Indian Company/ Resident Individuals) i.Name of the Indian Company/ RI ii.PAN No iii.Group to which the Company belongs|Particulars of the Indian company / RI who has promoted/ invested in VCF/ AIF (Attach Separate|
+|iv.|Activity code of the Indian Company v.Address of the Indian Company/ RI vi.City|(1987 NIC code at 3-digit level)|
+|vii.|State||
+|viii.|PIN code ix.Name of the contact person x.Designation of the contact person xi.Telephone No.||
+|xii.|Mobile No. of the contact person||
+|xiii.|Fax No.||
+|xiv.|e-mail id||
+
+|II.|Particulars of the Indian Company/ RI who manages the VCF/ AIF|2022|
+|---|---|---|
+||i.Name of the Indian Company/ RI ii.PAN No iii.Group to which the Company belongs|22,|
+|iv.|Activity code of the Indian Company v.Address of the Indian Company / RI|(1987 NIC code at 3-digit level)|
+|vi.|City||
+|vii.|State||
+|viii. ix. xi.|PIN code Name of the contact person x.Designation of the contact person Telephone No.|August|
+|xii. xiii. xiv.|Mobile No. of the contact person Fax No. e-mail id|w.e.f.|
+|III.|Particulars of the VCF/ AIF i. Name of the VCF ii. Date of the SEBI Approval Withdrawn iii. Limit of the Overseas investment granted by SEBI (Amount in actuals in FCY)||
+|iv. vii.|Date of Remittance for investment v.Amount (in actual USD or equivalent USD) vi. Investment Towards Country of Investment|Equity Equity linked instrument Other permissible instrument (furnish the details of instrument)|
+
+<!-- PAGE 22 -->
+
+||||||||||||||||||||||||||||Annex III||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Form for monthly reporting of Portfolio Investment and Overseas Investment by (As per Regulation 6B and 6C of FEMA Notification No 120/RB-2004 dated July 07, 2004 as amended from time to time)||||||||||||Mutual Fund||||||||||||||||
+||AD bank name and code-Name and address of the AD bank||||||||||branch -||||||||||||||||||
+||Month||Jan||Feb||Mar|||Apr||May|||Jun||July||Aug|||Sep||Oct||Nov||Dec|
+||Year A. Overseas Investments I. II. III. IV.|Net Amount of Investment held abroad (Opening Balance) Investments made during the month (Outflow) Disinvestments made during the month (Inflow) Net Amount of Investments held abroad (Closing Balance)||||||by Listed Indian Companies||||||||||||No. of Investors|||(Figures in USD million)||||Amount||
+||B. Overseas Investment by Mutual Funds Mutual Fund Name *|||||||||||||||||||||2022|||||||
+||Mutual Fund Location *|||||||||||Investment Details|||||||||||||||||
+||I. II. III. IV.|Net Amount of Investment held abroad (Opening Balance) Investments made during the month (Outflow) Disinvestments made during the month (Inflow) Net Amount of Investments held abroad (Closing Balance)||||Withdrawn||||ADR/GDR||w.e.f.|||Debt Instruments|August||Equity|22,|||ETF (Securities)|(Figures in USD million)||Mutual Funds|||Total|
+
+Signature of the Authorized Official of the <u>Stamp/Seal</u> AD bank Name and designation of the official
+
+## Place: Date:
+
+<!-- PAGE 23 -->
+
+Annex Iv
+
+ESOP Reporting
+
+Statement of shares allotted to Indian employees/ Directors under ESOP
+
+Schemes for the year ended March
+
+(tobesubmittedontheletterheadoftheIndianCompany/Office/BranchthroughtheirADbank)
+
+We, .
+
+(Indian Company / Office / Branch), hereby
+
+declare that:
+
+a) M/s.
+
+(foreign company) has issued
+
+shares to our employees / Directors under ESOP Scheme during the year as
+
+under:
+
+(i) No. of shares allotted
+
+(i) Number of employees / Directors who accepted shares
+
+(i) Amount of outward remittance (in FCY and equivalent INR,
+
+both)
+
+b)
+
+The effective holding  (direct or indirect)
+
+of the
+
+foreign company M/s.
+
+the Indian company， as on
+
+March 31, .....
+
+..(Year), is ......
+
+..% and
+
+c) The information furnished above is true a
+
+rrect to the best of our knowledge and
+
+belief.
+
+Name
+
+Designation
+
+Date:
+
+To,
+
+The Chief General Manager
+
+Reserve Bankof India
+
+Foreign Exchange Department
+
+Overseas Investment Division
+
+Central Office, Amar Bldg., 5th Floor
+
+Sir P.M. Road, Fort, Mumbai 400 001
+
+<!-- PAGE 24 -->
+
+## ESOP Reporting
+
+**Statement of shares repurchased by the issuing foreign company from Indian employees/ Directors under ESOP Schemes**
+
+## for the year ended March 31, …………. (Year)
+
+<u>(to be submitted on the letterhead of the Indian Company / Office / Branch through their AD bank)</u>
+
+We, ……………………………………….... (Indian Company / Office / Branch), hereby
+declare that:
+
+a) M/s. ……………………………………………… (foreign company) has repurchased ……….. shares, issued to our employees / Director under ESOP Scheme, during the year as under:
+(i) Number of shares allotted : (ii) Number of employees/directors who sold shares : (iii) Amount Inward remittance (in FCY and equivalent INR, both) :
+# 2022
+
+b) The effective holding (direct or indirect) of the foreign company M/s.
+22, ………………………………………………..…………… in the Indian company, as on March 31, ………(Year), is ………% and
+
+# August
+
+c) The information furnished above is true and correct to the best of our knowledge and belief.
+w.e.f.
+
+|Signature of the Authorised Official|||||:|
+|---|---|---|---|---|---|
+|Name|||||:|
+|Designation|||||:|
+|Date|||||:|
+
+# Withdrawn
+
+_________________________________________________________________ To, The Chief General Manager Reserve Bank of India Foreign Exchange Department Overseas Investment Division, th Central Office, Amar Bldg., 5 Floor Sir P.M. Road, Fort, Mumbai 400 001
+
+<!-- PAGE 25 -->
+
+## Annex V
+
+## Request Form for creation of user id in the Overseas Investment Application
+
+|Description of request|✓ Tick|Kindly paste a|
+|---|---|---|
+|of the user id||photograph of|
+|Details of the User|||
+|Name of the user|PF No. /||
+
+1) Addition of user id recent
+2) Modification of assigned role/ user type / details passport size
+3) Deactivation of the user id the applicant
+
+<u>Employee No.</u> Name and address of the AD bank Name of the <u>department/division/section</u> Designation of the user User Type (tick) AD AD AD
+
+# 2022
+
+<u>Maker Checker Approver</u> Corporate mail id 22, Signature of the Applicant
+
+## Signature / Approval of Head of Department
+
+# August
+
+Name Approved Roles Justification / Remarks Signaturew.e.f.
+
+## To be filled by the OID System Administrator
+
+Change request number User id creation date <u>Role/s assignedWithdrawn</u> <u>Justification</u> Name Signature

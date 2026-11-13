@@ -1,0 +1,28 @@
+---
+doc_id: "Notifications_2016_10329"
+title: "Marginal Standing Facility"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/356NTDEFDEB6ED5844F4B883F51A153393A5F.PDF"
+pdf_sha256: "1e82d94eb0d7c32a575c33b304b6fb5ff8930a68496b9869eb9e1935aa22146c"
+md_sha256: "027bea39bf35afa9b7fd6770de7d30210bc2983686f7d2aca1fc11deb1da2bee"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-04-05_Notification_10329_Marginal%20Standing%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Marginal Standing Facility
+
+<!-- PAGE 1 -->
+
+RBI/2015-2016/356 FMOD.MAOG. No.113 /01.18.001/2015-16 April 5, 2016
+
+All Scheduled Commercial Banks (excluding RRBs) Madam / Sir, <u>Marginal Standing Facility</u> <u>As announced by the Governor today</u>, it has been decided to reduce the Marginal Standing Facility (MSF) rate by 75 basis points from 7.75 per cent to **7.00 percent** with immediate effect. All other terms and conditions of the current MSF scheme will remain unchanged.
+
+## Yours sincerely
+
+(M. Rajeshwar Rao) Chief General Manager

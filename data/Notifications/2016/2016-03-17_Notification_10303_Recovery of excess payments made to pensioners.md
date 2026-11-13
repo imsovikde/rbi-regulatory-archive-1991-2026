@@ -1,0 +1,64 @@
+---
+doc_id: "Notifications_2016_10303"
+title: "Recovery of excess payments made to pensioners"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3402A3F9AE4F0714778858B903166950535.PDF"
+pdf_sha256: "c5f6c411613e6199ea6d9bd51b73bcf4de940e70148efff96a8286cb94ccd904"
+md_sha256: "78cd4f9ed56a4ec0f305a858a296092340b47f9138d504be7b16995062c48aae"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:54:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-03-17_Notification_10303_Recovery%20of%20excess%20payments%20made%20to%20pensioners.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Recovery of excess payments made to pensioners
+
+<!-- PAGE 1 -->
+
+## भारतीय �रज़वर् बक ___________________RESERVE BANK OF INDIA ___________________
+
+**www.rbi.org.in**
+
+RBI/2015-16/340 DGBA.GAD.No.2960 /45.01.001/2015-16 March 17, 2016
+
+The Chairman / Chief Executive Officer All Agency Banks
+
+Dear Sir,
+
+### Recovery of excess payments made to pensioners
+
+We have been receiving complaints from pensioners stating that the recovery of excess/wrong pension payments are being made in a manner that is not in keeping with the extant guidelines. In this connection, the instructions contained in circular Nos. CO.DGBA (NBS) No. 44/GA.64 (11-CVL) 90/91 dated April 18, 1991 and CO.DGBA (NBS) No. 50/GA.64 (11-CVL) 90/91 dated May 6, 1991 laying down a uniform procedure in consultation with the Controller General of Accounts and various non-civil Ministries for recovery are reiterated below:
+
+a) As soon as the excess/wrong payment made to a pensioner comes to the notice of the paying branch, the branch should adjust the same against the amount standing to the credit of the pensioner’s account to the extent possible including lumpsum arrears payment.
+b) If the entire amount of over payment cannot be adjusted from the account, the
+# Withdrawn w.e.f. January 21, 2021
+
+pensioner may be asked to pay forthwith the balance amount of over payment.
+
+c) In case the pensioner expresses his inability to pay the amount, the same may be adjusted from the future pension payments to be made to the pensioners. For recovering the over-payment made to pensioner from his future pension payment
+rd in instalments 1/3 of net (pension + relief) payable each month may be recovered unless the pensioner concerned gives consent in writing to pay a higher installment amount. ________________________________________________________ सरकार एवं बक लेखा वभाग, के न् द्र य कायार्लय, मुंबई सट्रल रेल्वे स्टेशन के सामने, भायखला, मुंबई 400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, Byculla, Mumbai 400 008 Telephone: (022) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e
+
+<u>d)</u>
+-mail : <u>cgmicdgbaco@rbi.org.in</u> **�हन्द आसान है, इसका प्रयोग बढ़ाइए ।**
+
+<!-- PAGE 2 -->
+
+d) If the over payment cannot be recovered from the pensioner due to his death or discontinuance of pension then action has to be taken as per the letter of undertaking given by the pensioner under the scheme.
+e) The pensioner may also be advised about the details of overpayment/wrong payment and mode of its recovery.
+The above uniform procedure may be strictly adhered to while effecting recovery of excess/wrong pension payments made to pensioners.
+
+2. As regards the issue of refund of excess/wrong payments to the government, banks may be guided by the guidelines laid down in our Circulars Nos. DGBA.GAD.H- 10450/45.03.001/2008-09 dated June 1, 2009 and <u>DGBA.GAD.H.4054/45.03.001/2014-</u> <u>15 dated March 13, 2015</u> which have been incorporated in our <u>Master Circular on</u> <u>disbursement of government pension by Agency Banks dated July 1, 2015</u>.
+# 2021 21,
+
+## Yours faithfully
+
+# January
+
+(Manish Parashar) Deputy General Manager
+
+w.e.f.
+# Withdrawn
