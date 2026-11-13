@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2008_4442"
+title: "7% Savings Bonds 2002, 6.5% Savings Bonds 2003 (Non-taxable) & 8 % Savings (Taxable) Bonds 2003 - nomination facility to joint holders"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86718.PDF"
+pdf_sha256: "3139210326d2945660504d8edf9c15fe96c1ff697a4fb400902db55f76bca353"
+md_sha256: "c0f005b821103e7c063f17c4337eeec32d9512f73926b5d76a862537ebda524d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-09-02_Notification_4442_7%25%20Savings%20Bonds%202002%2C%206.5%25%20Savings%20Bonds%202003%20%28Non-taxable%29%20%26%208%20%25%20Savings%20%28Taxable%29%20Bonds%202003%20-%20nomination%20facility%20to%20joint%20holders.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 7% Savings Bonds 2002, 6.5% Savings Bonds 2003 (Non-taxable) & 8 % Savings (Taxable) Bonds 2003 - nomination facility to joint holders
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/152 Ref. DGBA.CDD. No. H- 2173 / 13.01.299 / 2008-09
+
+September 2, 2008 Bhadra 11, 1930 (S)
+
+The General Manager State Bank of India & Associate Banks 17 Nationalised Banks Axis Bank Ltd / HDFC Bank Ltd / ICICI Bank Ltd / IDBI Bank Ltd & Stock Holding Corporation of India Ltd
+
+Dear Sir,
+
+## 7% Savings Bonds 2002, 6.5% Savings Bonds 2003 (Non-taxable) & 8 % Savings
+
+## <u>(Taxable) Bonds 2003 - nomination facility to joint holders</u>
+
+As you are aware of, in terms of relevant Government of India (GoI) Notifications, in case of Savings Bonds issued under the captioned schemes, a sole holder or a sole surviving holder of a bond, being an individual, may nominate one or more persons who shall be entitled to the bond and payment thereon in the event of his or her death.
+
+2. However, Section 9 (1) (a) of the Government Securities Act, 2006 (the G S Act) provides for nomination by joint holders also. Since Government of India Notifications for the above bonds precede the G S Act, the relevant issues were examined by us recently. In this connection, we advise that since the G S Act provides for nomination for Government securities by joint holders of the Savings Bonds and the GoI Notifications relating to Savings Bonds as such do not prohibit joint holders from making nomination, such joint holders are entitled to nominate one or more persons as nominees in terms of Section 9 (1) (a) of the G S Act and Regulations 7, 8 and 9 of Government Securities Regulations, 2007. In the light of the above, we advise that para ‘i’ & ‘viii’ and exception (c) of the Master Circular issued by us vide No. RBI / 2008-09 / 27 (Ref. DGBA.CDD No. H-1 / 13.01.299 / 2008-09) dated July 1, 2008 may be read mutatis mutandis.
+3. You may issue suitable instructions to your designated branches operating the scheme.
+4. Please acknowledge receipt.
+Yours faithfully,
+
+(Dr. Balu K.) Deputy General Manager

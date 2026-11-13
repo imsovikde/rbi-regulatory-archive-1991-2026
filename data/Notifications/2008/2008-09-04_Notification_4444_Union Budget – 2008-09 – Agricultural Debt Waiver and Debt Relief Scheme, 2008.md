@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2008_4444"
+title: "Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86746.pdf"
+pdf_sha256: "088f22a2ed25da365258b6de17efa18651ec3603d6958b5e6f68ea93e756021d"
+md_sha256: "9550d020b17aa7c3230339c07abcd131c0c1f07995954e42be8ad5ca383be890"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-09-04_Notification_4444_Union%20Budget%20%E2%80%93%202008-09%20%E2%80%93%20Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008
+
+<!-- PAGE 1 -->
+
+RBI / 2008-09/154 **RPCD.No.PLFS.BC. 24 /05.04.02/2008-09** September 4, 2008
+
+The Chairman/Managing Director All Scheduled Commercial Banks (including Local Area Banks)
+
+Dear Sir,
+
+## <u>Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008</u>
+
+Please refer to our circular RPCD.No.PLFS.BC. 72 /05.04.02/2007-08 dated May 23, 2008, forwarding therewith the Agricultural Debt Waiver and Debt Relief Scheme 2008, and our subsequent circular RPCD.No.PLFS.BC. 74 /05.04.02/2007-08 dated May 30, 2008 containing, inter alia, instructions pertaining to procedures for reimbursement of claims and audit of claims under the Scheme.
+
+2. In view of the difficulties expressed by the banks in respect of the implementation of the paragraphs 2 and 5 of the latter circular, the procedures for reimbursement of claims and audit of claims under the Scheme has been modified as under:
+a) Separate consolidated claims may be lodged for ‘debt waiver’ and ‘debt relief under OTS’ **after actually** **passing on the benefits to the beneficiaries, as envisaged in the Scheme.**
+b) Consolidated claims in respect of ‘debt waiver’ and ‘debt relief’ may be forwarded to Reserve Bank of India, Rural Planning and Credit Department (RPCD), Central Office, Shahid Bhagat Singh Road, Mumbai - 400001 as per the formats given in ANNEX – I and ANNEX – II to the circular RPCD.No.PLFS.BC. 74 /05.04.02/2007-08 dated May 30, 2008, respectively for reimbursement.
+c) Banks may prepare these claims duly audited as a part of internal audit exercise at the branch level. Branch-wise claims, thereafter, may be forwarded to the respective controlling offices accompanied by the necessary certificate from the internal auditors. These claims may be further consolidated at the Head- Office level on the basis of internal audit certificates. Such **“Preliminary”** claims may be forwarded to Reserve Bank **for release of the first instalment under the Scheme.**
+<u>d) “Preliminary”</u> claims as stated above may be submitted **latest** by **October 31, 2008 (for debt waiver)** **and September 30, 2009 ( for debt relief )** respectively.
+e) Subsequently, these “Preliminary” claims may be subjected to suitable sample check during the annual Statutory Audit exercise for the years 2008-09 (for debt waiver) and 2009-10 (for debt relief) by the Central Statutory Auditors, who may be entrusted this job as a special assignment by banks. For this purpose, the Statutory Auditors may cover a representative sample of branches and accounts, of at least 20 per cent, so as to certify the correctness of the claims.
+<u>f) “Final”</u> consolidated claims duly certified by the Central Statutory Auditors as mentioned above may be lodged with Reserve Bank **by June 30, 2009 ( in the format ANNEX – I for debt waiver) and by June 30,** **2010 (in format ANNEX – II for debt relief).**
+g) In either case, banks should inscribe the words “PRELIMINARY” and “FINAL” on the claim applications in bold letters so as to enable us to differentiate.
+**h) Reimbursement of subsequent installments under the Scheme, however, would be made only after the receipt of “Final” claims.**
+i) The Central Government, if it is satisfied that it is necessary to do so, may also direct a special audit in the case of any lending institution or one or more branches of such lending institution.
+
+<!-- PAGE 2 -->
+
+3. All other conditions of the above circulars remain unchanged.
+4. In case of RRBs and co-operatives, instructions will be issued by NABARD.
+Yours faithfully,
+
+(B.P.Vijayendra) Chief General Manager

@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2008_4483"
+title: "Payment of interest on accounts frozen by banks"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87062.PDF"
+pdf_sha256: "9fdf7e8eb858f316271332fb32ed288fd18b4e6162020845f08c3ea4146cdef7"
+md_sha256: "fb70d59053f29d0b5b66719d4641a14c5386ead16d7903d6d104953784e49046"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-09-19_Notification_4483_Payment%20of%20interest%20on%20accounts%20frozen%20by%20banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Payment of interest on accounts frozen by banks
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/186 DBOD.No.Leg.BC.47/09.07.005/2008-09 September 19, 2008
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Payment of interest on accounts frozen by banks</u>
+
+As banks are aware, at times they are required to freeze the accounts of customers based on the orders of the enforcement authorities. An issue has been raised regarding payment of interest on such frozen accounts.
+
+2. The issue was examined in consultation with Indian Banks’ Association and banks are advised to follow the procedure detailed below in the case of Term Deposit Accounts frozen by the enforcement authorities:
+(i) A request letter may be obtained from the customer for renewal for a term equal to the original term, on maturity. (ii) No new receipt is required to be issued. However, suitable note may be made regarding renewal in the deposit ledger. (iii) Renewal of deposit may be advised by registered letter / speed post / courier service to the concerned Government department under advice to the depositor. In the advice to the depositor, the rate of interest at which the deposit is renewed should also be mentioned. (iv) If overdue period does not exceed 14 days on the date of receipt of the request letter, renewal may be done from the date of maturity. If it exceeds 14 days, banks may pay interest for the overdue period as per the policy adopted by them, and keep it in a separate interest free sub-account which should be released when the original fixed deposit is released.
+3. Further, with regard to the savings bank accounts frozen by the enforcement authorities, banks may continue to credit the interest to the account on a regular basis.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-in-Charge

@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2008_4533"
+title: "Guidelines on Exchange Traded Interest Rate Derivatives dated October 13, 2008"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87806.PDF"
+pdf_sha256: "f8ba556699905a9b2e01e3d54a964966e76b5a702078f417a6c1657185d05916"
+md_sha256: "c0fd50c0c429ba2b5c45f8231d12f2936cd6dc08a46fb63339d632737bbe5e8f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-10-13_Notification_4533_Guidelines%20on%20Exchange%20Traded%20Interest%20Rate%20Derivatives%20dated%20October%2013%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Exchange Traded Interest Rate Derivatives dated October 13, 2008
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/217 DBOD.BP.BC. No.56 /21.04.157/2008-09 October 13, 2008
+
+The Chairman/ Chief Executive Officers All commercial Banks (excluding RRBs and LABs)
+
+Dear Sir,
+
+## <u>Guidelines on Exchange Traded Interest Rate Derivatives</u>
+
+Please refer to the guidelines on Exchange-Traded Interest Rate Derivatives issued vide our circular IDMC.MSRD.4801/06.01.03 dated June 3, 2003. In terms of this circular, banks were permitted to transact in Interest Rate Futures (IRFs) for the purpose of hedging the risk in their underlying investment portfolio.
+
+2. It has now been decided to allow banks to take trading positions also in IRFs. Other provisions of above mentioned circular will continue to remain effective.
+3. These guidelines will also be applicable to overseas branches of Indian banks.
+# The direction has been superseded
+
+Yours faithfully,
+
+(**Prashant Saran**) Chief General Manager-in-Charge
