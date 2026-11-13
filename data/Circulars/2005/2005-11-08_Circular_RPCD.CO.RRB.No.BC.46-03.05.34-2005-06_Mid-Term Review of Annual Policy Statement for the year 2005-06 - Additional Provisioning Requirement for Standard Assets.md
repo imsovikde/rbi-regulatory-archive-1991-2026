@@ -1,0 +1,61 @@
+---
+doc_id: "Circulars_2005_RPCD_CO_RRB_No_BC_46_03_05_34_2005-06"
+title: "Mid-Term Review of Annual Policy Statement for the year 2005-06 : Additional Provisioning Requirement for Standard Assets"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67154.PDF"
+pdf_sha256: "1514904ccaea32069d3f9b18220958f9ec7790fae9f3cab8c83d4411ae9ff373"
+md_sha256: "61151fbb8a32400f19cbee4c8209e9600a946ca51d9eff1d66c0a1a77c781aa8"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:51:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-11-08_Circular_RPCD.CO.RRB.No.BC.46-03.05.34-2005-06_Mid-Term%20Review%20of%20Annual%20Policy%20Statement%20for%20the%20year%202005-06%20-%20Additional%20Provisioning%20Requirement%20for%20Standard%20Assets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Mid-Term Review of Annual Policy Statement for the year 2005-06 : Additional Provisioning Requirement for Standard Assets
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/201
+
+RPCD CO.RRB.No.BC.46/03.05.34/2005-06 November 8, 2005
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+<u>Mid-Term Review of Annual Policy Statement for the year</u> <u>2005-06: Additional Provisioning Requirement for Standard</u> <u>Assets</u>
+
+In terms of the extant prudential guidelines, the standard assets attract a uniform provisioning requirement of 0.25 per cent of the funded outstanding on a portfolio basis. Traditionally, banks’ loans and advances portfolio is pro-cyclical and tends to grow faster during an expansionary phase and grows slowly during a recessionary phase. During times of expansion and accelerated credit growth, there is a tendency to underestimate the level of inherent risk and the converse holds good during times of recession. This tendency is not effectively addressed by the above mentioned prudential specific provisioning requirements since
+
+# Withdrawn
+
+they capture risk ex post but not ex ante. It is therefore necessary to build up provisioning to cushion banks' balance sheets in the event of a downturn in the economy or credit weaknesses surfacing later.
+
+2. In this connection, a reference is invited to paragraph 85 of the Mid- Term Review of Annual Policy Statement for the year 2005-06 announced by Governor on October 25, 2005 (relevant extract enclosed). Accordingly, taking into account the recent trends in credit growth, it has been decided to increase the general provisioning requirement for ‘standard advances’ from the present level of 0.25 per cent to 0.40 per cent. Consequently, the standard assets with the exception of banks’ direct advances to agricultural and SME sectors would attract a uniform provisioning
+
+<!-- PAGE 2 -->
+
+requirement of 0.40 per cent of the funded outstanding on a portfolio basis.
+
+3. Banks would continue to make provision at 0.25 per cent for direct advances to agricultural and SME sectors in the standard category.
+4. Please acknowledge receipt to our respective Regional Office.
+Yours faithfully,
+
+(G. Srinivasan) Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+Extract of Mid-Term Review of Annual Policy Statement for the year 2005-06 Prudential Provisioning Requirements: Review
+
+82. In terms of the prudential guidelines, banks are required to assess their entire loans and advances portfolio on an account-by-account basis with regard to the degree of delinquency and classify them into four broad asset classification categories, viz., standard, sub-standard, doubtful and loss. The standard assets attract a uniform provisioning requirement of
+0.25 per cent of the funded outstanding on a portfolio basis. Banks are required to make specific provisions in respect of sub-standard assets at a uniform rate of 10 per cent of the funded outstanding and for doubtful accounts at rates ranging from 20 to 100 per cent, taking into account the period for which the account has remained non-performing and the realisable value of security charged to the bank.
+83. Traditionally, banks’ loans and advances portfolio is pro-cyclical and tends to grow faster during an expansionary phase and grows slowly during a recessionary phase. During times of expansion and accelerated credit growth, there is a tendency to underestimate the level of inherent risk and the converse holds good during times of recession. This tendency is not effectively addressed by the above mentioned prudential specific provisioning requirements since they capture risk ex post but not ex ante.
+84. The various options available for reducing the element of pro- cyclicality include, among others, adoption of objective methodologies for dynamic provisioning requirements, as is being done by a few countries, by estimating the requirements over a business cycle rather than a year on the basis of the riskiness of the assets, establishment of a linkage between the prudential capital requirements and through-the-cycle ratings instead of point-in-time ratings and establishment of a flexible loan-to-Withdrawn value (LTV) ratio requirements where the LTV ratio would be directly related to the movement of asset values.
+85. Taking into account the recent trends in credit growth, it is proposed:
+- to increase the general provisioning requirement for ‘standard advances’ from the present level of 0.25 per cent to 0.40 per cent. Banks’ direct advances to agricultural and SME sectors would be exempted from the additional provisioning requirement. As hitherto, these provisions would be eligible for inclusion in Tier II capital for capital adequacy purposes up to the permitted extent. Operational guidelines in this regard would be issued separately.

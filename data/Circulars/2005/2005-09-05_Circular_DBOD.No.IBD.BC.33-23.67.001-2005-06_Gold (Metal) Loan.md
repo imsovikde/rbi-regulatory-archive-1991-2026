@@ -1,0 +1,84 @@
+---
+doc_id: "Circulars_2005_DBOD_No_IBD_BC_33_23_67_001_2005-06"
+title: "Gold (Metal) Loan"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65770.PDF"
+pdf_sha256: "0e6315bd787c52efdcffffeb5ba8a268266003f7d32876bd8c59fab18cb672fc"
+md_sha256: "3a86497cde5c744c059a1055d2908491327be408ab56dd59c57b60cf3a9a2f85"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:50:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-09-05_Circular_DBOD.No.IBD.BC.33-23.67.001-2005-06_Gold%20%28Metal%29%20Loan.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Gold (Metal) Loan
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/155 DBOD.No.IBD.BC. 33 /23.67.001/2005-06 September 5, 2005
+
+All Scheduled Commercial Banks (excluding RRBs )
+
+Dear Sir,
+
+## Gold (Metal) Loan
+
+In terms of our circular DBOD.No.IBS.BC/1519/23.67.001/1998-99 dated December 31,1998, nominated banks authorized to import gold were advised that Gold (Metal) loans should be given only to jewellery exporters. Further, in terms of our circular DBOD.No.IBS.3161/23.67.001/1998-99 dated June 25,1999, nominated banks were advised that they may extend Gold (Metal) Loans also to the jewellery exporters who are the customers of other non- nominated banks by accepting a stand-by Letter of Credit (SBLC) or Bank Guarantee (BG) issued by their bankers subject to nominated banks’ own norms for lending and the conditions stipulated in our circular dated December 31,1998 referred to above.
+
+# Withdrawn
+
+2. We have been receiving requests from nominated banks to permit them to extend Gold (Metal) loans out of the gold imported by them to domestic jewellery manufacturers. It has been decided that, in order to liberalise the scheme further, banks nominated to import gold as per extant instructions may extend Gold (Metal) Loans to domestic jewellery manufacturers, who are not exporters of jewellery, subject to the condition that any gold loan borrowing / or other non funded commitments taken by them for the purpose of providing gold loans to domestic jewellery manufacturers will be taken into account for the purpose of overall ceiling ( presently 25 % of Tier I capital) in respect of aggregate borrowing for non-export purposes. The Gold Loans extended to exporters of jewellery would continue to be out of the 25% ceiling. The Gold (Metal) Loans provided by banks will be subject to the following conditions:
+
+<!-- PAGE 2 -->
+
+i) The tenor of the gold loan for the domestic jewellery manufacturers should not exceed 90 days.- ii) Interest charged to the borrowers should be linked to the international gold interest rate. iii) The gold borrowings will be subject to normal reserve requirements. iv) The loan will be subject to capital adequacy and other prudential requirements.
+v) Banks should ensure end-use of gold loans to jewellery manufacturers and adhere to KYC guidelines. vi) Any mismatch arising out of the gold borrowings and lendings should be within the prudential risk limits approved by the nominated bank’s Board. vii) The banks should carefully assess the overall risks on granting gold loans and lay down a detailed lending policy with the approval of the Board.
+3. Presently, nominated banks can extend Gold (Metal) Loans to exporters of jewellery who are customers of other scheduled commercial banks, by
+# Withdrawn
+
+accepting stand-by letter of credit or bank guarantee issued by their bankers in favour of the nominated banks subject to authorised banks' own norms for lending and other conditions stipulated by RBI. As a further liberalisation measure, it has been decided to extend the facility to domestic jewellery manufacturers also, subject to the following conditions.
+
+i) The stand-by LC / BG shall be extended only on behalf of domestic jewellery manufacturers and shall cover at all times the full value of the quantity of gold borrowed by these entities. The stand-by LC/BG shall be issued by scheduled commercial banks in favour of a nominated bank ( list appended) only and not to any other entity which may otherwise be having permission to import gold. ii) The bank issuing the stand-by LC / BG (only inland letter of credit / bank guarantee) should do so only after carrying out proper credit appraisal. The bank should ensure that adequate margin is
+
+<!-- PAGE 3 -->
+
+available to it at all times consistent with the volatility of the gold prices. iii) The stand-by LC / BG facilities will be denominated in Indian Rupees and not in foreign currency. iv) Stand-by LC / BG issued by the non-nominated banks will be subject to extant capital adequacy and prudential norms.
+
+v) The banks issuing stand-by LC / BG should also carefully assess the overall risks on granting these facilities and lay down a detailed lending policy with the approval of their Board.
+4. The nominated banks may continue to extend Gold (Metal) Loans to jewellery exporters in terms of DBOD circulars dated December 31, 1998 and June 25, 1999 mentioned in paragraph 1 above. 5. It is clarified that:
+a) The exposure assumed by the nominated bank extending the Gold (Metal) Loan against the stand-by LC / BG of another bank will be deemed as an exposure on the guaranteeing bank and attract appropriate risk weight as per the extant guidelines.Withdrawn
+b) The transaction should be purely on back-to-back basis i.e. the nominated banks should extend Gold (Metal) Loan directly to the customer of a non-nominated bank, against the stand-by LC / BG issued by the latter.
+c) Gold (Metal) Loans should not involve any direct or indirect liability of the borrowing entity towards foreign suppliers of gold.
+d) The banks may calculate their exposure and compliance with prudential norms daily by converting into Rupee the gold quantity by crossing London AM fixing for Gold/US Dollar rate with the rupee-dollar reference rate announced by RBI.
+6. It is also clarified that there will be no change in the existing policy on lending against bullion.
+
+<!-- PAGE 4 -->
+
+7. Banks should recognise the overall risks in extending Gold (Metal) Loans as also in extending SBLC / BG. Banks may, therefore, lay down an appropriate risk management and lending policy in this regard. Banks should comply with the recommendations of the Ghosh Committee and other internal requirements relating to acceptance of guarantees of other banks to obviate the possibility of frauds in this area.
+8. Please acknowledge receipt.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager
+
+## Encl: List of nominated banks
+
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+List of nominated banks (As on August 31, 2005)
+
+1. Allahabad Bank
+2. Bank of Nova Scotia
+3. Bank of India
+4. Canara Bank
+5. Corporation Bank
+6. Dena Bank
+7. HDFC Bank Ltd.
+8. ICICI Bank Ltd.
+9. Indian Overseas Bank 10 IndusInd Bank Ltd. 11 Oriental Bank of Commerce 12 Punjab National Bank 13 State Bank of India 14 Union Bank of India
+# Withdrawn

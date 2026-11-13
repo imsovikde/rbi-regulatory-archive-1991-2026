@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2005_UBD_PCB_CIR_No_14_13_05_000_05-06"
+title: "Loans and Advances to Directors, Relatives and Firms / Concerns in which they are Interested - UCBs"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66509.PDF"
+pdf_sha256: "2d3ce85b17e4ff5e01a5baf6d27c5f7a126aa6708f35b876cea9ec7c32be12e5"
+md_sha256: "0e2f364f45c678da2fc4e6b433e874f8ecc8cc46707fabe381fcf9112b2ab6b4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:51:25Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-10-06_Circular_UBD.PCB.CIR.No.14-13.05.000-05-06_Loans%20and%20Advances%20to%20Directors%2C%20Relatives%20and%20Firms%20-%20Concerns%20in%20which%20they%20are%20Interested%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Loans and Advances to Directors, Relatives and Firms / Concerns in which they are Interested - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/175
+
+UBD.PCB.CIR.No.14/13.05.000/05-06
+
+## October 6, 2005
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+<u>Loans and advances to directors, relatives and firms/concerns in which</u> <u>they are interested-UCBs</u>
+
+Please refer to our circulars UBD.PCB.CIR.50/13.05.00/2002-03 and UBD.BPD.Cir.No. 54/13.05.00/02-03 dated April 29, 2003 and June 24, 2003 respectively, prohibiting UCBs from extending any loans and advances (both secured and unsecured) to the directors, their relatives and the firms/concerns/companies in which they are interested.
+
+2. On reconsideration it has been decided to exclude the following categories of director related loans from the purview of the instructions issued vide our circular under reference:
+(i) regular employee-related loans to staff directors on the Board of Withdrawn UCBs; (ii) normal loans as applicable to members to the directors on the Boards of salary earners’ co-operative banks and (iii) normal employee-related loans to Managing Directors of Multi-State co-operative banks.
+3. Please acknowledge receipt of this circular to the concerned Regional Office.
+Yours faithfully,
+
+sd/-
+
+(A.K.Khound) Chief General Manager

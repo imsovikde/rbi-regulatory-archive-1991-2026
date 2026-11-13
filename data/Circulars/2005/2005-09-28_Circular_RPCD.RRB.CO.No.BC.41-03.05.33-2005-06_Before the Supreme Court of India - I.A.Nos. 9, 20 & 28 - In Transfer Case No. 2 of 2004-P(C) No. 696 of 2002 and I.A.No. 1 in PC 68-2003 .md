@@ -1,0 +1,105 @@
+---
+doc_id: "Circulars_2005_RPCD_RRB_CO_No_BC_41_03_05_33_2005-06"
+title: "Before the Supreme Court of India - I.A.Nos. 9, 20 & 28 - In Transfer Case No. 2 of 2004-P(C) No. 696 of 2002 and I.A.No. 1 in PC 68/2003 - The Securities and Exchange Board of India etc. Vs Golden Forest (I) Ltd. and Others - Appointment of Committee by the Supreme Court"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66399.PDF"
+pdf_sha256: "08d4842bc98d87d08bc689d7a0e7556d273b40e271d54bdcef8289619b6bb5b8"
+md_sha256: "c3f85297b87e4945358d0f85300451edccd3f4d0e53da2bdf442c238c6737968"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:50:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-09-28_Circular_RPCD.RRB.CO.No.BC.41-03.05.33-2005-06_Before%20the%20Supreme%20Court%20of%20India%20-%20I.A.Nos.%209%2C%2020%20%26%2028%20-%20In%20Transfer%20Case%20No.%202%20of%202004-P%28C%29%20No.%20696%20of%202002%20and%20I.A.No.%201%20in%20PC%2068-2003%20.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Before the Supreme Court of India - I.A.Nos. 9, 20 & 28 - In Transfer Case No. 2 of 2004-P(C) No. 696 of 2002 and I.A.No. 1 in PC 68/2003 - The Securities and Exchange Board of India etc. Vs Golden Forest (I) Ltd. and Others - Appointment of Committee by the Supreme Court
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/169 RPCD.RRB.CO.No.BC.41/03.05.33/2005-06 September 28, 2005
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+<u>Before the Supreme Court of India-I.A.Nos. 9, 20 & 28 – In Transfer Case No. 2 of 2004-</u> <u>P(C) No. 696 of 2002 and I.A.No. 1 in PC 68/2003 – The Securities and Exchange Board</u> <u>of India etc. Vs Golden Forest (I) Ltd. and Others – Appointment of Committee by the</u> <u>Supreme Court</u>
+
+Please refer to our circular RPCD.RRB.CO.No.BC.52/03.05.33/2004-05 (RBI/2004-05/260) dated November 1, 2004 on the above subject.
+
+2. The Committee – Golden Forests (India) Ltd. has advised that as per the directions of the Supreme Court of India, the committee had invited claims from all the investors and other creditors of Golden Forests (India) Ltd., and received over 12 lakh claims. The committee has observed that some of the agents of the company had been receiving deposits and issuing Provisional Receipts/Acknowledgement even after the company had stopped working and the Provisional Liquidator had taken over the company with effect from July 3, 2003. These agents knew that the company had stopped doing business since December 2000 and no payments were being made by it. Even then, they got receipts printed similar to those issued by the company and continued to receive deposits and issue receipts. Therefore, there is likelihood of many bogus claims being received.
+3. In order to verify whether the amounts covered by the receipts issued after December 1, 2000 were actually deposited in the accounts of the company or not, it is necessary to verify the copies of bank statements after December 1, 2000 till the accounts were finally closed. The committee has, therefore, directed that the banks which had/have the bank accounts of Golden Forests (India) Ltd., and/or any of subsidiary/associate companies (list enclosed), should send the statement in respect of those accounts from December 1, 2000 till theWithdrawn accounts were finally closed. The statement of accounts may be sent to the following address:
+Office of the Chairman, Committee-Golden Forest (I) Ltd (Appointed by the Hon'ble Supreme Court of India), Bungalow No. 60, Sector 4, Chandigarh.(Tel.No.0172-2740134).
+
+4. Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully,
+
+(G. Srinivasan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+<u>Annexure I</u> Golden Forests (I) Ltd. (SUBSIDIARY AND ASSOCIATE COMPANIES) Sr. Names of the Subsidiary Companies Sr. Names of the Subsidiary No. No. Companies
+
+|1|Cand Builders Pvt.Ltd.|51|Jala Fincap Pvt. Ltd.|
+|---|---|---|---|
+|2|Casa Property Pvt.Ltd.|52|Jhati Property Pvt.Ltd.|
+|3|Dama Construction Pvt.Ltd.|53|Jitya Construction Pvt.Ltd.|
+|4|Daya Impex Pvt.Ltd.|54|Jiya Property Pvt.Ltd.|
+|5|Dhanya Builders Pvt.Ltd.|55|Jyota Fincap Pvt.Ltd.|
+|6|Dhruva Sales Pvt.Ltd.|56|Kaberi Estate Pvt.Ltd.|
+|7|Disa Marketing Pvt.Ltd.|57|Kalpa Construction Pvt.Ltd.|
+|8|Disti Estate Pvt.Ltd.|58|Kalya Property Pvt.Ltd.|
+|9|Divya Finman Pvt.Ltd.|59|Kama Estate Pvt.Ltd.|
+|10|Druti Finance Pvt.Ltd.|60|Kansa Construction Pvt.Ltd.|
+|11|Dula Property Pvt.Ltd.|61|Kanya Properties Pvt.Ltd.|
+|12|Dular Property Pvt.Ltd.|62|Kapi Properties Pvt.Ltd.|
+|13|Eila Security Services Pvt.Ltd.|63|Kasvi Estate Pvt.Ltd.|
+|14|Eka Fincap Pvt.Ltd.|64|King Fincap Pvt.Ltd.|
+|15|Ekala Estate Pvt.Ltd.|65|Loka Estate Pvt.Ltd.|
+|16|Ena Fincap Pvt.Ltd.|66|Mahadev Marketing Pvt.Ltd.|
+|17|Gabula Property Pvt.Ltd.|67|Mahi Estate Pvt.Ltd.|
+|18|Gaja Builders Pvt.Ltd.|68|Padmapura Construction Pvt.Ltd.|
+|19|Gandha Fincap Pvt.Ltd.|69|Pajas Estate Pvt.Ltd.|
+|20|Gaura Construction Ltd.|70|Pala Property Pvt.Ltd.|
+|21|Golden Agro Based Industrial Co.Ltd.|71|Panda Builders Pvt.Ltd.|
+|22|Golden Agro Forestery Ltd.|72|Panesa Property Pvt.Ltd.|
+|23|Golden Ashiana Makers Ltd.|73|Para Real Estate Pvt.Ltd.|
+|24|Golden Communication Ltd.|74|Paraj Resorts Pvt.Ltd.|
+|25|Golden Contractors Ltd.|75|Paramaka Construction Pvt.Ltd.|
+|26|Golden Datamation Ltd.|76|Partya Estate Pvt.Ltd.|
+|27|Golden Distributors Ltd.|77|Parvata Hotel Pvt.Ltd.|
+|28|Golden Fincap Pvt.Ltd.|78|Pasvi Estate Pvt.Ltd.|
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+|29|Golden Handloom Ltd.|79|Prachika Property Pvt.Ltd.|
+|---|---|---|---|
+|30|Golden Health Care Ltd.|80|Prastra Constructions Pvt.Ltd.|
+|31|Golden Knitfab Ltd.|81|Red Star Construction Co.Pvt.Ltd.|
+|32 33|Golden Lease Finance Ltd. Golden Royal Home Financial Corpn.Ltd. 83|82|Sarana Real Estate Pvt.Ltd. Soma Builders Pvt.Ltd.|
+|34|Golden Tourist Resort (Nepal)|84|Sonalika Builders Pvt.Ltd.|
+|35|Golden Resort and Developer|85|Soven Real Estate Pvt.Ltd.|
+|36|Golden Tourist Resorts and Developer|86|Sunset Construction Pvt.Ltd.|
+||Ltd.|||
+|37|Golden City Housing Finance (P) Ltd.|87|Ujjala Finlease Pvt.Ltd.|
+|38|Golden Waves Advertising Ltd.|88|Vara Estate Pvt.Ltd.|
+|39|Goman Marketing Pvt.Ltd.|Sr. No.|Names Companies|
+|40|Gorala Security Services Pvt.Ltd.|1|Golden Projects Ltd.|
+|41|Gunjan Fincap Pvt.Ltd.|2|Golden Infrastructure (I) Ltd.|
+|42|Hara Properties Pvt.Ltd.|3|Damos Investments Pvt.Ltd.|
+|43|Harsa Construction Pvt.Ltd.|4|Inobaya Holdings Pvt.Ltd.|
+|44|Himachal Country Resorts Ltd.|5|Ira Marketing Pvt.Ltd.|
+|45|IJYA Fincap Pvt.Ltd.|6|Esa Hotel Pvt.Ltd.|
+|46|INAN Fincap Pvt.Ltd.|7|ISIR Construction Pvt.Ltd.|
+|47|IRYA Fincap Pvt.Ltd.|8|Sarga Development Pvt.Ltd.|
+|48|Jagad Property Pvt.Ltd.|9|Soka Estate Pvt.Ltd.|
+|49|Jaigaja Estate Pvt.Ltd.|10|Thy Golden Pawer (I) Ltd.|
+|50|Jaitra Property Pvt.Ltd.|11|Vani Builders Pvt.Ltd.|
+
+## of the Associate
+
+# Withdrawn

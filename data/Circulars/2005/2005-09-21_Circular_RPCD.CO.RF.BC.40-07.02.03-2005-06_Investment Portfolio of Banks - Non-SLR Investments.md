@@ -1,0 +1,29 @@
+---
+doc_id: "Circulars_2005_RPCD_CO_RF_BC_40_07_02_03_2005-06"
+title: "Investment Portfolio of Banks - Non-SLR Investments"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66296.PDF"
+pdf_sha256: "81570930f01c6a14bc6f94c760564a16999ced6f3861d6966f0ea51180b88947"
+md_sha256: "4b6d89b0ccdf6217149b821cf86defa9f10db12b2b247ae6ae60b9bf5fbff33a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:50:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-09-21_Circular_RPCD.CO.RF.BC.40-07.02.03-2005-06_Investment%20Portfolio%20of%20Banks%20-%20Non-SLR%20Investments.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment Portfolio of Banks - Non-SLR Investments
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/166 RPCD.CO.RF.BC 40/07.02.03/2005-06 September 21, 2005 All State and District Central Co-operative Banks Dear Sir, <u>Investment portfolio of banks- Non-SLR investments</u> Please refer to our circular No.RPCD.CO.RF.BC.26/07.02.03/2005-06 dated August 4, 2005 on the above subject.
+
+2. On receipt of queries from certain quarters, it is clarified that there is no relaxation in the overall limit of non-SLR investment, which is fixed at 10 per cent of the bank’s total deposits as on March 31 of the previous year with a sub- ceiling of 5 per cent as stated in paragraph 2 of our aforesaid circular.
+3.The contents of this circular may be placed before the Board of your bank.
+4.Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully, (K.Bhattacharya) General Manager
+
+# Withdrawn

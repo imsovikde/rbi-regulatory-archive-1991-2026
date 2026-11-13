@@ -1,0 +1,52 @@
+---
+doc_id: "Circulars_2005_DNBS_RID_C_C_No_57_02_05_15_2005-06"
+title: "Quarterly Return on important financial parameters of Non-Banking Financial Companies (NBFCs) not accepting/ holding public deposits and having assets size of Rs. 500 crore and above"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65782.PDF"
+pdf_sha256: "3af2429b204010b1c424b04c296c9ab6fe40b36f501f176fa822f2f9fa21468f"
+md_sha256: "e9cf2ff125078f61052aa43599e96bd257ba1792e6931ff0bcc45e3fd6c03b55"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:50:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-09-06_Circular_DNBS.%28RID%29.C.C.No.57-02.05.15-2005-06_Quarterly%20Return%20on%20important%20financial%20parameters%20of%20Non-Banking%20Financial%20Companies%20%28NBFCs%29%20not%20accepting-%20holding%20public%20deposits%20and%20h.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Quarterly Return on important financial parameters of Non-Banking Financial Companies (NBFCs) not accepting/ holding public deposits and having assets size of Rs. 500 crore and above
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/157 DNBS (RID) C.C. No. 57/02.05.15/2005-06 September 6, 2005
+
+To All NBFCs not accepting/holding public deposits
+
+Dear Sir,
+
+<u>Quarterly Return on important financial parameters of Non-Banking Financial Companies</u> <u>(NBFCs) not accepting/ holding public deposits and having assets size of Rs. 500 crore</u> <u>and above</u>
+
+Please refer to our Circular DNBS(PD) C.C.No.45/02.02/2004-05 dated November 13, 2004 advising introduction of a reporting arrangement for Non-Banking Financial Companies not accepting/holding public deposits and having assets size of Rs.500 crore and above as on March 31, 2004.
+
+2. It has been found that the intervening period of a quarter does not help in quick assessments of the dynamic financial system. Therefore, it has been decided to change the periodicity to a month and all NBFCs with assets size of Rs 100 crore and above will be required to submit the return.
+3. About time of reporting and manner of reporting, the following changes are proposed.
+a) The return should be submitted within seven days of the month following the month to which it pertains. The first monthly return may be submitted for the month of September 2005 by October 7, 2005. The provisional return for the month of March 2005 should be
+# Withdrawn
+
+submitted as per above stipulation. The return certified by statutory auditors may ,however, be submitted within seven days of finalisation of final accounts.
+
+b) So far companies were not indicating clearly categories viz: Loan,Investment,Hire Purchase,Leasing ,etc. Hence forth the companies will be required to indicate clearly their classification in return under company profile item 7.
+c) The return will be submitted to the Regional Office under whose jurisdiction the company is located. A copy of the return may also be submitted by e-mail to DNBS,CO,Mumbai immediately followed by a hard copy. The e-mail address of DNBS, Central Office, Mumbai is given below:- <u>helpdnbs.@rbi.org.in</u>
+4. Further following additional information will be reported in Part VIII dealing with Capital Market Exposure:
+
+<!-- PAGE 2 -->
+
+i) Financing of IPOs ii) Gross Sales and purchases in all eight items (incl. proposed item viz.financing of IPOs)
+iii) Guarantees issued on behalf of share brokers
+
+5. The format of the return has also been revised which is enclosed with this circular.
+6. Non submission of the return will be viewed seriously and penal action will be taken for such non compliance.
+Yours faithfully, (P.Krishnamurthy) Chief General Manager- in- charge
+
+# Withdrawn
