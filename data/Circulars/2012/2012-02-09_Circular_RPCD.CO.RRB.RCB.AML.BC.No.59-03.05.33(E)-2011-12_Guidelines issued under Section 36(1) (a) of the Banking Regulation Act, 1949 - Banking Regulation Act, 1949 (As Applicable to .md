@@ -1,0 +1,96 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RRB_RCB_AML_BC_No_59_03_05_33_E_2011-12"
+title: "Guidelines issued under Section 36(1) (a) of the Banking Regulation Act, 1949 - Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) Implementation of the provisions of Foreign Contribution (Regulation) Act, 2010"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRB09022012.PDF"
+pdf_sha256: "01a1b871fe4ed2b4472f0d40dcbec5cebbadfbe26676f961ab33e95e77d9ee4b"
+md_sha256: "07d9ce77978bc0f44224ccd0153f6205b39ec549ae1b4d64014d69a9c4db9b99"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:37:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-02-09_Circular_RPCD.CO.RRB.RCB.AML.BC.No.59-03.05.33%28E%29-2011-12_Guidelines%20issued%20under%20Section%2036%281%29%20%28a%29%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Banking%20Regulation%20Act%2C%201949%20%28As%20Applicable%20to%20.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines issued under Section 36(1) (a) of the Banking Regulation Act, 1949 - Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) Implementation of the provisions of Foreign Contribution (Regulation) Act, 2010
+
+<!-- PAGE 1 -->
+
+HRRgd
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/395
+
+RPCD.CO.RRB.RCB.AML.BC.No.59 /03.05.33(E) /2011-12
+
+February 9, 2012
+
+All Regional Rural Banks (RRBs)/State Co-operative Banks (StCBs) / District Central
+
+Co-operative Banks (DCCBs)
+
+Dear Sir,
+
+Banking Regulation Act, 1949 (As Applicable to Co-operative Societies)
+
+Implementation of the provisions of Foreign Contribution (Regulation) Act, 2010
+
+The Reserve Bank, considering the public interest and on being satisfied that it is
+
+necessary so to do, in exercise of the powers conferred by Clause (a) of sub-section
+
+(1) of Section 36 of the Banking Regulation Act, 1949 (Act 10 of 1949)/36(1) (a) of the
+
+Banking Regulation Act,1949 (As Applicable toCo-operative Societies)
+
+and of all the powers enabling it in this behalf.
+
+hereby issue the guidelines
+
+on
+
+Foreign Contribution (Regulation) Act, 2010
+
+oreign Contribution (Regulation)
+
+Rules, 2011 enclosed herewith, for complia
+
+allRRBs/StCBs/DCCBs.Withthe
+
+coming into force of the Act, Foreign
+
+bution (Regulation) Act, 1976 stands
+
+repealed.
+
+2.The salient features of the
+
+ct are given in the Annex to this circular. This
+
+circular is intended only to serve as a guide to RRBs/ StCBs/DCCBs for carrying out
+
+their obligations under the Act and the Rules made thereunder. In case of doubt,
+
+RRBs/ StCBs/DcCBs should make it a point to refer to the text of the Act and the
+
+Rules, and if found necessary, proper legal advice should be taken.
+
+3. Please acknowledge receipt of this circular to our Regional Office concerned.
+
+Yours faithfully
+
+(C.D.Srinivasan)
+
+Chief General Manager
+
+Encls: As above
+
+Rural Planning & Credit Department Central Office, 10" Floor, Central Office Bldg., Shahid Bhagat Singh Marg Mumbai - 1
+
+f/Tel No: 91-22-22661602 a/Fax No: 91-22-22610943/22610948/22658276Email ID:cgmicrpcd@rbi.0rg.in

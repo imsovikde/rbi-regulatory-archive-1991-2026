@@ -1,0 +1,112 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RCB_RRB_BC_No_64_03_05_33_2011-12"
+title: "Maintenance of CRR"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BCCRR130312.PDF"
+pdf_sha256: "d3d077d502ad110d2086404cab902b139ac1e023705d4912fa67570b9ed2a041"
+md_sha256: "44f0b154340a35fc03d301405a852d06f522e058c194e593ba10f5a241fe86b1"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:38:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-03-12_Circular_RPCD.CO.RCB.RRB.BC.No.64-03.05.33-2011-12_Maintenance%20of%20CRR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maintenance of CRR
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/438
+
+RPCD.CO.RCB.RRB.BC.N0.65/03.05.33/2011-12
+
+March 12, 2012
+
+All Scheduled State Co-operative Banks / Regional Rural Banks
+
+Dear Sir,
+
+Section 42(1) of the Reserve Bank of India Act, 1934 - Maintenance of CRR
+
+Please refer to our Circular
+
+RPCD.CO.RCB.BC.No.56/07.02.01/2011-12dated
+
+January 25, 2012, on the captioned subject.
+
+2. On review of the current and evolving liquidity conditions as set out in the Reserve
+
+Bank's Press Release 2011-2012/1441 dated Meroh 9. 2012, it has been decided to
+
+reduce the Cash Reserve Ratio (CRR)
+
+neduled State Co-operativeBanks/
+
+Regional Rural Banks, by 75 basis points
+
+5.50 per cent to 4.75 per cent, of their
+
+with effect from the fortnight beginning
+
+Net Demand and Time Liabilities
+
+March 10, 2012.
+
+dated March 12, 2012, is enclosed.
+
+4.Please acknowledge receipt to ourRegional Office concerned.
+
+Yours faithfully,
+
+(C.D.Srinivasan)
+
+Chief General Manager
+
+Encl: one
+
+Rural Planning&Credit Department Central Office,1otFloor,Central OfficeBuilding,post boxno.10014
+
+Mumbai-400001
+
+Tel No:91-22-22661602 Fax No: 91-22-22621011/22610948/22610943 Email D:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+March 12, 2012
+
+RPCD.CO.RCB.RRB.BC.N0.64/03.05.33/2011-12
+
+NOTIFICATION
+
+In exercise of the powers conferred under the sub-section (1) of Section 42 of the
+
+RPCD.CO.RCB.BC.No.55/07.02.01/2011-12 datedJanuary25,2012,the Reserve
+
+Bank of India hereby notifies that the average Cash Reserve Ratio (CRR) required
+
+to be maintained by every Scheduled State Co-operative Bank / Regional Rural
+
+Bank shall be 4.75 per cent of its net demand and time liabilities from the fortnight
+
+beginning March 10, 2012.
+
+(V.K.Sharma)
+
+ExecutiveDirector
+
+Withdrawn
+
+Rural Planning & Credit Department Central Office, 10"h Floor, Central Office Building, post box no. 10014
+
+Mumbai-400001
