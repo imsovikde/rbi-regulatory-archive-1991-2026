@@ -1,0 +1,122 @@
+---
+doc_id: "Notifications_2006_3007"
+title: "Master Circular on Export Credit Refinance Facility"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/71472.pdf"
+pdf_sha256: "cd211ab7b59a0bb51f38be6745fe4f493ad32fca578b1f94d0c3a958205db314"
+md_sha256: "5dea7814d01d4a13e0ec5ab38fcc6f61a21afae079d9a16134fc9cb0b3bb8ab4"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-07-12_Notification_3007_Master%20Circular%20on%20Export%20Credit%20Refinance%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Export Credit Refinance Facility
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/ 63 Ref. MPD. No. 282/07.01.279/2006-07 July 12, 2006 Aashadha 10, 1928(S) The Chairmen/Chief Executives of all Scheduled Banks (excluding RRBs)
+
+Dear Sir,
+
+Master Circular on Export Credit Refinance Facility
+
+We enclose the Master Circular on Export Credit Refinance Facility which consolidates and updates all instructions/guidelines issued on the subject upto June 30, 2006. This Master Circular has also been placed on the RBI's website (www.rbi.org.in). Instructions/Guidelines issued on the subject during the period from July 1, 2005 to June 30, 2006 are placed separately in the Appendix.
+
+## Yours faithfully
+
+(M.D. Patra) Adviser-in-Charge Encls.: As above
+
+<!-- PAGE 2 -->
+
+Master Circular Export Credit Refinance Facility
+
+## Table of Contents
+
+|1.|Introduction||
+|---|---|---|
+|2.|Participants||
+|3.|Export Credit Refinance Facility||
+|4.|Limit||
+|5.|Interest Rate||
+|6.|Margin Requirement||
+|7.|Duration||
+|8.|Collateral||
+|9.|Minimum Amount of Availment||
+|10.|Place of Availment||
+|11.|Repayment||
+|12.|Penalties||
+|13.|Documentation||
+|14.|Reporting Requirement||
+|15.|Condition||
+|16.|Annexes I. II. III.|Reporting Formats Definitions Forms|
+|17.|Appendix : List of Circulars||
+
+<!-- PAGE 3 -->
+
+Master Circular on Export Credit Refinance (ECR) Facility
+
+1. Introduction
+1.1 The Reserve Bank of India (RBI) provides export credit refinance facility to banks under Section 17(3A) of the Reserve Bank of India Act 1934, in order to encourage banks to extend more liberal export credit. This facility is given on the basis of banks' eligible outstanding rupee export credit both at the pre- shipment and post-shipment stages. The quantum of refinance is fixed from time to time based on the stance of monetary and credit policy of the RBI.
+2. Participants
+2.1 All scheduled banks (excluding RRBs), which are authorised dealers in foreign exchange and have extended export credit are eligible to avail of the export credit refinance facility.
+3. Export Credit Refinance Facility
+3.1 The definition of outstanding export credit reckoned for the purpose of calculation of export credit refinance limits of banks had been modified effective April 27, 2000. Outstanding export credit for working out refinance limits, accordingly, includes export bills rediscounted with EXIM Bank/other banks/Financial Institutions and export credit against which refinance has been obtained from NABARD/EXIM Bank. However, it will not include Pre-shipment Credit in Foreign Currency (PCFC), export bills discounted/rediscounted under the scheme of 'Rediscounting of Export Bills Abroad' (EBR), overdue rupee export credit and other export credit not eligible for refinance. With the modified definition, the banks have the benefit of rediscounting export bills with institutions like EXIM Bank, without sustaining reduction in refinance limits from the RBI ( <u>Annex I</u>).
+4. Limit
+4.1 At present, the scheduled banks are provided export credit refinance to the extent of 15.0 per cent of the outstanding export credit eligible for refinance as at the end of the second preceding fortnight.
+5. Interest Rate
+5.1 Export credit refinance facility is available at the Repo Rate (which is linked to Reverse Repo Rate under the Liquidity Adjustment Facility (LAF), as announced from time to time.
+5.2 Interest shall be payable with monthly rests and the amounts of such interest calculated on daily balances would be debited to the account of such advances at the end of respective month or earlier when the balance outstanding is wiped out.
+
+<!-- PAGE 4 -->
+
+6. Margin Requirement
+6.1 No margin is required to be maintained.
+7. Duration
+7.1 Repayable on demand or on the expiry of fixed periods not exceeding one hundred and eighty days.
+8. Collateral
+8.1 RBI extends the export credit refinance against the Demand Promissory Note (DPN) of banks supported by a declaration that they have been extended export credit and the outstanding amount eligible for refinance is not less than the loan/advance from the RBI.
+9. Minimum Amount of Availment
+9.1 The minimum amount of availment under this facility is Rupees one lakh and multiples thereof.
+10. Place of Availment
+10.1 This facility can be availed of at centres wherever the Reserve Bank has a Banking Department.
+11. Repayment
+11.1 The refinance has to be repaid on demand or within 180 days.
+12. Penalties
+12.1 In the event of a scheduled bank having irregular availment of export credit refinance, a penal rate of interest as decided by the Reserve Bank from time to time will be charged on the outstanding loan or loans.
+12.2 The instances on which penal rate would be applicable for irregular availment of export credit refinance are set out in Table 1.
+Table 1: Illustration of Irregular Availment of Export Credit Refinance
+
+|a)|Utilisation of ECR exceeds the total limit.|
+|---|---|
+|b)|Wrong calculation/ reporting of refinance limit by banks.|
+|c)|Non-repayment of refinance within 180 days.|
+|d)|Delay in reporting excess utilisation by banks.|
+
+<!-- PAGE 5 -->
+
+13. Documentation
+13.1 The banks have to execute the following documents for availing of export credit refinance facility ( <u>Annex II</u>):
+a) A stamped agreement in Form No. DAD 297.
+b) A Demand Promissory Note (DPN) in Form No. DAD 295 A.
+c) Board Resolution in Form No. DAD 298 authorising the borrowing under the scheme and also the officials who will execute loan documents on behalf of the bank.
+d) For enhancement of limit, a letter in Form No. DAD 299 extending the agreement to enhance limit together with consolidated DPN for the fresh limit.
+e) In terms of Para 7.30 of Banking Department Manual, Agreements and letters of extension need not be renewed so long as there is no change in the terms thereof. DPN should, however, be renewed every three years of their dates of execution not withstanding their validity for three years from the date of transaction.
+13.2 The borrowing bank should submit to the Monetary Policy Department, Reserve Bank of India, a fortnightly declaration in form No. DAD.389 together with a statement of Export Refinance Entitlement in form No.DAD.390 to enable Reserve Bank of India to monitor the position of the outstanding borrowings under the scheme in relation to its outstanding export credit advances.
+14. Reporting Requirement
+14.1 The availing banks are required to report their outstanding export credit eligible for refinance within five days from the relevant date in the format provided in <u>Annex III</u>.
+15. Condition
+15.1 It is essential that the outstanding borrowings at all times are fully covered by the borrowing bank’s holding of export bills/amount of eligible pre-shipment advances as reported in their latest declaration. If at any time it is found that the total amount of bills held by banks/amount of eligible pre-shipment advances covered by the declaration falls below the amount borrowed, the bank should forthwith adjust or repay excess refinance from the RBI.
+16. Annexes
+16.1 Definitions, Forms of Agreement and Reporting Formats pertaining to Export Credit Refinance Facility are listed in <u>Annex I</u>, <u>Annex II</u> and <u>Annex III</u>,
+
+<!-- PAGE 6 -->
+
+respectively.
+
+17. Appendix
+17.1 All the Circulars issued by the Reserve Bank of India related to Export Credit Refinance Facility are listed in <u>Appendix</u>.

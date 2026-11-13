@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2006_3033"
+title: "Maintenance of collateral by Foreign Institutional Investors (FIIs) for transactions in derivative segment"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/71733.PDF"
+pdf_sha256: "9e8315b8a932b7a4e4fa7b8b315e00e9a624a22066f2f597f34e37f36b007af6"
+md_sha256: "432f50ed403744695238463606934f942df9fb1a9c06a904e330aa46ce081632"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-07-28_Notification_3033_Maintenance%20of%20collateral%20by%20Foreign%20Institutional%20Investors%20%28FIIs%29%20for%20transactions%20in%20derivative%20segment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maintenance of collateral by Foreign Institutional Investors (FIIs) for transactions in derivative segment
+
+<!-- PAGE 1 -->
+
+## RBI/2006-07/92 A.P.( DIR Series) Circular No. 4 July 28, 2006
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Maintenance of collateral by Foreign Institutional Investors (FIIs) for transactions in derivative segment
+
+Attention of Authorized Dealer Category-I (AD) banks is invited to Foreign Exchange Management (Transfer or Issue of Any Foreign Security) Regulations, 2004 notified vide Notification No. FEMA 120/ RB-2004 dated July 7, 2004 and Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000 notified vide Notification No. FEMA 20/2000-RB dated May 3, 2000, as amended from time to time.
+
+2. It has been decided in consultation with Government of India and Securities and Exchange Board of India (SEBI) to permit FIIs to offer foreign sovereign securities with AAA rating as collateral to the recognised Stock Exchanges in India for their transactions in derivatives segment. The operational guidelines in this regard will be issued separately by SEBI. Thereafter, recognised Stock Exchanges in India may approach the Reserve Bank of India, Foreign Exchange Department, Central Office, Mumbai-400001 for specific approvals as may be necessary under the Foreign Exchange Management Act, 1999.
+3. Necessary amendments to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000 notified vide Notification No. FEMA 20/2000-RB dated May 3, 2000 will be issued separately.
+4. AD banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## Salim Gangadharan
+
+## Chief General Manager-in-Charge

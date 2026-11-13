@@ -1,0 +1,104 @@
+---
+doc_id: "Notifications_2006_2979"
+title: "Diversification of activities by stand-alone Primary Dealers - Operational Guidelines"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/71289.pdf"
+pdf_sha256: "eeed8a8dff1988af97c569c07fde9f49a2bb50f35ab427e97923ae7be9464111"
+md_sha256: "d8f0b1dc411f2f16817c5829f2eed555880ddee4796a599783eb7221c6330110"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-07-05_Notification_2979_Diversification%20of%20activities%20by%20stand-alone%20Primary%20Dealers%20-%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Diversification of activities by stand-alone Primary Dealers - Operational Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/49 IDMD. PDRS./26/03.64.00/2006-07 July 4, 2006
+
+To all Primary Dealers in Government Securities Market
+
+Dear Sir,
+
+Diversification of activities by stand-alone Primary Dealers-Operational Guidelines
+
+In accordance with paragraph 122 of the Annual Policy Statement for the year 2006- 07, it is proposed to permit stand-alone Primary Dealers (PDs) to diversify their activities, as considered appropriate, in addition to their existing business of Government securities, subject to limits.
+
+2. PDs may bifurcate their operations into core activities and non-core activities. The core activities should involve dealing in Government securities and other fixed income securities and the non-core activities of the PDs may include investment / trading in equity / units of equity oriented Mutual Funds / Advisory Services / Merchant Banking and other activities as detailed in Section 1 of the Annex to this circular. The investment in Government Securities should have predominance over the non-core activities in terms of investment pattern as defined in Section 2 of the Annex. Further, the exposure to non-core activities shall be subject to risk capital allocation as stipulated under the guidelines on regulatory and prudential norms for diversification of activities in Section 3 of the Annex.
+3. It has also been decided that PDs will not be permitted to set up step-down subsidiaries. PDs that already have step-down subsidiaries (in India and abroad) may restructure the ownership pattern of these subsidiaries. If the PD is a subsidiary of a holding company, the step-down subsidiary of the PD may become another direct subsidiary of the holding company. In case the PD itself is a holding company, then the step-down subsidiary may take up the PD activity and the holding entity may take up activities other than those permitted for the PDs. The restructuring, as above, should be completed and compliance with the above guidelines may be
+
+<!-- PAGE 2 -->
+
+reported within a period of six months from the date of this circular together with complete details of organizational structure and activities undertaken by the PD. Please acknowledge receipt.
+
+Yours faithfully, sd/- (G. Mahalingam) Chief General Manager Encl: As above
+
+<!-- PAGE 3 -->
+
+Annex
+
+## Section 1: Permissible Activities for PDs
+
+1.1 PDs may bifurcate their operations into core and non-core activities. The following activities are permitted under core activities:
+1. Dealing and underwriting in Government securities
+2. Dealing in Interest Rate Derivatives
+3. Providing broking services in Government securities
+4. Dealing and underwriting in Corporate / PSU / FI bonds/ debentures
+5. Lending in Call/ Notice/ Term/ Repo/ CBLO market
+6. Investment in Commercial Papers
+7. Investment in Certificates of Deposit
+8. Investment in Security Receipts issued by Securitization Companies/ Reconstruction Companies, Asset Backed Securities (ABS), Mortgage Backed Securities (MBS)
+9. Investment in debt mutual funds where entire corpus is invested in debt securities
+1.2 PDs are permitted to undertake the following activities under non-core activities:
+a) Activities, which are expected to consume capital such as:
+1. Investment / trading in equity and equity derivatives market
+2. Investment in units of equity oriented mutual funds
+3. Underwriting public issues of equity
+b) Services, which do not consume capital or require insignificant capital
+outlay such as:
+
+1. Professional Clearing Services
+2. Portfolio Management Services
+3. Issue Management Services
+4. Merger & Acquisition Advisory Services
+5. Private Equity Management Services
+6. Project Appraisal Services
+
+<!-- PAGE 4 -->
+
+7. Loan Syndication Services
+8. Debt restructuring services
+9. Consultancy Services
+10. Distribution of mutual fund units
+11. Distribution of insurance products
+
+|1.3|For distribution of insurance products, the PDs may comply with the|
+|---|---|
+|guidelines contained in the circular No.DNBS(PD)CC No.35/10.24/2003-04 dated||
+|February 10, 2004 issued by the Department of Non-Banking Supervision.||
+|1.4 respect of the activities detailed above.|Specific approvals of other regulators, if needed, should be obtained in|
+|1.5 commodities, gold and foreign exchange.|PDs are|
+|Section 2:|Pre-dominance in Government Securities business|
+|2.1|All PDs are required to ensure|
+
+not allowed to undertake broking in equity, trading / broking in
+
+predominance by maintaining at least 50 per cent of their total financial investments (both long term and short term) in Government Securities at any point of time. Investment in Government securities will include the PD’s Own Stock, Stock with RBI under Liquidity Support / Intra-day Liquidity (IDL)/ Liquidity Adjustment Facility (LAF), Stock with market for repo borrowings and Government Securities pledged with Clearing Corporation of India Ltd. (CCIL).
+
+Section 3: Regulatory and prudential norms for diversification of activities
+
+The guidelines on regulatory and prudential norms for diversification of activities by stand-alone PDs are as under:
+
+<!-- PAGE 5 -->
+
+3.1 The minimum Net Owned Fund (NOF) requirement for a PD, proposing to undertake non-core activities, as detailed in para 1.2 (a) of Section 1, should be Rs.100 crore as against Rs.50 crore for a PD, which does not diversify into these activities.
+3.2 The exposure to non-core activities, as defined in paragraph 1.2 (a) ibid, shall be subject to risk capital allocation as prescribed below.
+3.2.1 PDs may calculate the capital charge for market risk on the stock positions / underlying stock positions/ units of equity oriented mutual funds using Internal Models (VaR based) based on the guidelines prescribed vide RBI circular No. IDMD.1/ (PDRS) 03.64.00 / 2003-04 dated January 07, 2004 on Capital Adequacy and Risk Management. PDs may continue to provide for credit risk arising out of equity, equity derivatives and equity oriented mutual funds as prescribed in the circular mentioned above.
+3.2.2 The guidelines for both credit risk and market risk in respect of Commercial Paper, Corporate / PSU / FI bonds / Underwriting are contained in the RBI circular IDMD 1/(PDRS) 03.64.00 /2003-04 dated January 07, 2004.
+3.2.3 The capital charge for market risk (VaR calculated at 99 per cent confidence interval, 15-day holding period, with multiplier of 3.3) for the activities defined in Section 1.2 a) above should not be more than 20 per cent of the NOF as per the last audited balance sheet.
+3.3 Those PDs, which at present, have taken position beyond the prescribed limit under paragraph 3.2.3 above, should ensure adherence to the prescribed limit within a period of six months from the date of the circular. The PDs involved in activities other than those defined above in Section 1, should either fold back or hive-off these activities to other subsidiaries as detailed in paragraph 3 of the circular.

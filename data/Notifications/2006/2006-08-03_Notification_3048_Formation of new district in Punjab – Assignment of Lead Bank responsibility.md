@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2006_3048"
+title: "Formation of new district in Punjab – Assignment of Lead Bank responsibility"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/71794.pdf"
+pdf_sha256: "7404af1603b8c1e5b643d2685f6426dd9ef6a3fb48fbb6c0b3c663fd31e5100a"
+md_sha256: "88e077b7856a1807f63ce3180529bb6e4bfee2b59345526f29999700a7a6848f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-08-03_Notification_3048_Formation%20of%20new%20district%20in%20Punjab%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new district in Punjab – Assignment of Lead Bank responsibility
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/ 99 RPCD.CO.LBS.BC.No. 13 /02.08.01/2006-07
+
+## August 3, 2006
+
+The Chairman All Lead Banks
+
+Dear Sir,
+
+<u>Formation of new district in Punjab – Assignment of Lead Bank</u> <u>responsibility</u>
+
+The Department of Revenue and Rehabilitation, Government of Punjab vide their Gazette Notification No.1/4/06-RE-II(1)/5545 dated June 08, 2006 have advised about the formation of new district viz. Tarn Taran covering three tehsils, viz Tarn Taran Tehsil (200 villages), Khadoor Sahib Tehsil (96 Villages) and Patti Tehsil (197 Villages) carved out of the existing district of Amritsar with effect from June 16, 2006.
+
+2. It has been decided to assign the Lead Bank responsibility of the new district to Punjab National Bank.
+3. There is no change in the lead bank responsibilities of other districts in the State.
+Yours faithfully,
+
+(A.K.Bhandari) Deputy General Manager

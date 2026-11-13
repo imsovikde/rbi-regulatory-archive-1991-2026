@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2006_3028"
+title: "Investment by Mutual Funds in Overseas Securities - Liberalisation of"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/71613.PDF"
+pdf_sha256: "55f3804ea06d616651c9a8ffb422fd687d12292d198b40d2004961d6741a33d6"
+md_sha256: "87cc5bfd70844d1f077401efaed303e367133175f0cbff4e1c0bda36da466d9b"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-07-26_Notification_3028_Investment%20by%20Mutual%20Funds%20in%20Overseas%20Securities%20-%20Liberalisation%20of.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Mutual Funds in Overseas Securities - Liberalisation of
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/88
+
+A.P. (DIR Series) Circular No. 3 July 26, 2006 To All Category-I Authorised Dealer Banks Madam/Sirs, <u>Investment by Mutual Funds in Overseas Securities-Liberalisation of</u> Attention of Authorised Dealer Category-I (AD) banks is invited to Regulation
+th 6B and Regulation 26 of Notification No.FEMA.120/RB-2004 dated 7 July 2004, as amended, from time to time and AP (Dir Series) Circular No. 97 dated April 29, 2003.
+
+2. As proposed by the Hon'ble Finance Minister in his budget speech for the year 2006-07, overseas investments by Mutual Funds registered with Securities and
+# 2022
+
+Exchange Board of India (SEBI) have been liberalised by enhancing the existing 22, aggregate ceiling and expanding the avenues for investment. Presently, Mutual Funds, registered with SEBI, are permitted to invest in ADRs/GDRs of Indian companies, rated debt instruments and also in the equity of overseas companies
+
+# August
+
+listed on a recognised stock exchange overseas and having a shareholding of at least ten percent in a listed Indian company. To enable the Mutual Funds to tap a
+
+w.e.f.
+larger investible stock overseas, the requirement of 10 percent reciprocal share holding in the listed Indian companies by such overseas companies has been dispensed with.
+
+3. The aggregate ceiling for overseas investment by Mutual Funds, registered
+# Withdrawn
+
+with SEBI, is increased from USD 1 billion to USD 2 billion with immediate effect. It has also been decided to allow a limited number of qualified Indian Mutual Funds to invest cumulatively up to USD 1 billion in overseas Exchange Traded Funds as may be permitted by the SEBI.
+
+4. Detailed operational guidelines for implementation of the budget announcement including eligibility criteria, limits, identification of recognised stock exchanges, investible universe, monitoring of aggregate ceilings etc. would be issued by SEBI.
+
+<!-- PAGE 2 -->
+
+5. Monthly reporting requirement to the Reserve Bank as stipulated vide AP Dir (Series) Circular No. 96 dated April 28, 2003 would continue for statistical purpose with some modification in the table for Mutual Fund as in Annex –I.
+6. Necessary amendments to the Foreign Exchange Management (Transfer or Issue of Any Foreign Security) Regulations, 2004 will be issued separately.
+7. AD banks may bring the contents of this circular to the notice of their constituents and customers.
+8. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+# 2022
+
+Yours faithfully, 22,
+
+M. Sebastian
+Chief General Manager
+
+# August w.e.f.
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+Annex – I [A.P.(DIR Series) Circular No 3 dated July 26,, 2006] <u>(USD in thousands)</u>
+
+|Name of the Mutual Fund|the month (Outflow|Investments made during|||the month (Inflow)|Disinvestments made during|||held abroad|Net amount of Investment|||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||ADR/ GDR|Debt Instru- ments|Equity|Exchange Traded Fund|ADR/ GDR|Debt Instru- ments|Equity|Exchange Traded Fund|ADR/ GDR|Debt Instru- ments|Equity|Exchange Traded Fund|
+||1|2|3|4|5|6|7|8|9|10|11|12|
+|Position as on 1st of ……….200.. Position as on 30th/31st of ……….200..|||||||22,|2022|||||
+
+August
+
+w.e.f.
+Withdrawn
