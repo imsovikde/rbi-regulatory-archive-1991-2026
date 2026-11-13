@@ -1,0 +1,34 @@
+---
+doc_id: "Circulars_2010_DNBS_PD_CC_No_172_03_10_42_2009-10"
+title: "Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating of Financing of Terrorism (CFT)"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCNF300410F.PDF"
+pdf_sha256: "d0c3aec33306ae8933a4e9b3e7a1227c4713f933e4bff4664f77a0dc8178ec13"
+md_sha256: "693986119eac3ca1f8862eba9a5b617a503561c50830eef6d0688a05530b53f9"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:56:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-04-30_Circular_DNBS.%28PD%29.CC.No.172-03.10.42-2009-10_Know%20Your%20Customer%20%28KYC%29%20Norms%20-%20Anti-Money%20Laundering%20%28AML%29%20Standards%20-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating of Financing of Terrorism (CFT)
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/439
+
+## DNBS(PD).CC. No. 172 /03.10.42 /2009-10 April 30, 2010
+
+All Non Banking Financial Companies / Residuary Non Banking Companies Dear Sir, **Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML)** **Standards/ Combating of Financing of Terrorism (CFT)** Please refer to Company Circular No 166 dated December 2, 2009 on the captioned subject. Financial Action Task Force (FATF) has issued a Statement dated February 18, 2010 on the subject (<u>Copy enclosed</u>) which divides the strategic AML/CFT deficient jurisdictions into three groups as under:
+
+(i) Jurisdictions subject to FATF call on its members and other jurisdictions to apply countermeasures to protect the international financial system from the ongoing and substantial money laundering and terrorist financing (ML/FT) risks emanating from the jurisdiction: **Iran** Withdrawn (ii) Jurisdictions with strategic AML/CFT deficiencies that have not committed to an action plan developed with the FATF to address key deficiencies as of February 2010. The FAFT calls on its members to consider the risks arising from the deficiencies associated with each jurisdiction: **Angola, Democratic People's** **Republic of Korea (DPRK), Ecuador and Ethiopia.** (iii) Jurisdictions previously publicly identified by the FAFT as having strategic AML/CFT deficiencies, which remain to be addressed as of February 2010: **Pakistan, Turkmenistan, Sao Tome and Principe**
+2. All NBFCs/RNBCs are accordingly advised to take into account risks arising from the deficiencies in AML/CFT regime of these countries.
+
+<!-- PAGE 2 -->
+
+3. An acknowledged receipt of this circular may be submitted by the Compliance officer/ Principal Officer of the NBFCs to the concerned Regional Office of DNBS in whose jurisdiction the NBFC/RNBC is functioning. Yours faithfully, (Uma Subramaniam) Chief General Manager-in-Charge Encl: as above
+# Withdrawn

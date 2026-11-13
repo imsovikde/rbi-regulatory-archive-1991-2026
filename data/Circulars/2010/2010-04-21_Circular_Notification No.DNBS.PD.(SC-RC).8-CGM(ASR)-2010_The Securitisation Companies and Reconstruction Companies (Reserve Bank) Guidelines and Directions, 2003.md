@@ -1,0 +1,136 @@
+---
+doc_id: "Circulars_2010_Notification_No_DNBS_PD_SC_RC_8_CGM_ASR_-2010"
+title: "The Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SC413R2104210.PDF"
+pdf_sha256: "b91834e985f843cb43136c8e9f13f547a828dcb1497870d88e71f39bf79af761"
+md_sha256: "ddebf7a0d6fb5c3dd3cf0c70a827da919d080a0ca5c00afbe57b1eaf030116aa"
+total_pages: 11
+native_pages: 11
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:54:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-04-21_Circular_Notification%20No.DNBS.PD.%28SC-RC%29.8-CGM%28ASR%29-2010_The%20Securitisation%20Companies%20and%20Reconstruction%20Companies%20%28Reserve%20Bank%29%20Guidelines%20and%20Directions%2C%202003.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003
+
+<!-- PAGE 1 -->
+
+## RBI/2009-2010/413 DNBS (PD) CC. No. 18 / SCRC / 26.03.001/ 2009-2010 April 21, 2010
+
+## All registered Securitisation Companies/Reconstruction Companies
+
+## Dear Sirs,
+
+## The Securitisation Companies and Reconstruction Companies (Reserve
+
+## Bank) Guidelines and Directions, 2003 – Amendments.
+
+Please refer to paragraph 113 and 114 of the Monetary Policy Statement for the year 2010-11 dated April 20, 2010 (Extract enclosed).
+
+In view of announcement in the Monetary Policy Statement, it has been decided to amend the said Directions issued vide Notification No. DNBS 2/CGM(CSM) - 2003 dated April 23, 2003 containing the Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003 (hereinafter referred to as Directions) to clarify certain issues as regards acquisition of financial assets by trusts floated by Securitisation Companies or
+
+# Withdrawn
+
+Reconstruction Companies, extension in time frame allowed for realization of financial assets, deployment of surplus funds, acquisition of land and buildings by Securitisation Company or Reconstruction Company; asset classification, additional disclosures in the balance sheet etc. as detailed hereunder:-
+
+## (a) Amendment of <u>paragraph 3(1)(iii)</u> of the Directions-Date of acquisition
+
+Date of acquisition means the date on which the ownership of financial assets is acquired by Securitisation Company or Reconstruction Company either in its own books or directly in the books of the trust.
+
+<!-- PAGE 2 -->
+
+(b) **Amendment of** <u>paragraph 7(1)</u> **of the Directions-Financial Assets** **Acquisition Policy** Framing of ‘Financial Assets Acquisition Policy’ by the Securitisation Company or Reconstruction Company shall cover acquisition of financial assets either in its own books or directly in the books of the trust
+(c) **Amendment of** <u>paragraph 7(6)(ii)</u> **of the Directions-Plan of realisation** In terms of clause 7(6)(i) of the Directions, every Securitisation Company or Reconstruction Company is required to formulate a plan for realisation of financial assets acquired by providing for one or more measures listed therein. Further, in terms of clause 7(6)(ii) of the Directions, the plan of realisation shall clearly spell out the steps proposed to reconstruct the assets and realize the same within a specified timeframe, which shall not in any case exceed five years from the date of acquisition. On a review, it has been decided that on expiry of five years from the date of acquisition of financial assets, the Board of Directors of the Securitisation Company or Reconstruction Company may Withdrawn increase the period for realisation of financial assets so that the total period for realisation shall not exceed eight years from the date of acquisition of financial assets concerned. The Board of Directors of the Securitisation Company or Reconstruction Company shall specify the steps that will be taken by the Securitisation Company or Reconstruction Company to realise the financial assets within the time frame as above. Qualified Institutional Buyers shall be entitled to invoke the provisions of Section 7(3) of the SARFAESI Act only at the end of such extended period as explained above. If the period for realisation is not extended, the Qualified Institutional Buyers shall be entitled to invoke the provisions of Section 7(3) of the Act at the end of period of realisation which shall not exceed five years from the date of acquisition of the financial asset concerned.
+
+<!-- PAGE 3 -->
+
+(d) **Amendment of** <u>paragraph 8(1)</u> **of the Directions- Issue of Security** **Receipts** Paragraph 8(1) of the Directions prescribes that a Securitisation Company or Reconstruction Company shall give effect to the provisions of Sections 7(1) and
+(2) of the Act through one or more trusts set up exclusively for the purpose. The Securitisation Company or Reconstruction Company is required to transfer the assets to the said trusts at the price at which those assets were acquired from the originator. It is clarified that Securitisation Company or Reconstruction Company can acquire the assets from banks/FIs either in its own books and then transfer the assets to trusts or directly acquire the assets in the books of the trusts. In case such financial assets are first acquired in its own books by the Securitisation Company or Reconstruction Company, such financial assets shall be transferred to trust at the price at which those assets were acquired by Securitisation Company or Reconstruction Company from the originator.
+(e) **Amendment of** <u>paragraph 10(ii)</u> **of the Directions-Deployment of** **surplus funds**
+# Withdrawn
+
+A Securitisation Company or Reconstruction Company may deploy any surplus available with it only in Government Securities and deposits with scheduled commercial banks in terms of policy framed in this regard by its Board of Directors.
+
+To provide additional avenues to the Securitisation Company or Reconstruction Company for deployment of surplus funds, Securitisation Company or Reconstruction Company, subject to policy framed by its Board of Directors, may also deploy surplus funds as deposits with Small Industries Development Bank of India, National Bank for Agriculture and Rural Development or such other entity as may be specified by the Reserve Bank of India from time to time.
+
+<!-- PAGE 4 -->
+
+|(f)|Amendment of paragraph 10(iii) of the Directions- Acquisition of land|
+|---|---|
+||and buildings by Securitisation Company or Reconstruction Company. Presently, no Securitisation Company or Reconstruction Company is allowed to invest out of its owned fund in land and building, provided that this restriction will not apply to funds borrowed as also to owned fund in excess of the minimum|
+|prescribed.|On a review, it has been decided that no Securitisation Company or Reconstruction Company shall, invest in land and building;- provided that this restriction shall not apply to investment in land and/or building by Securitisation Company or Reconstruction Company for its own use upto 10% of its owned fund, provided further that any land and/or building acquired by Securitisation Company or Reconstruction Company in the ordinary course of its business of reconstruction of assets while enforcing its security interest, shall be disposed of within a period of five years from the date of such acquisition or such extended period as may be permitted by the Bank in the interest of realization of the dues of the Securitisation Company or Withdrawn Reconstruction Company.|
+|(g)|Amendment of paragraph 12 of the Directions-Asset classification It is clarified that provisions relating to asset classification are applicable only in respect of assets held in the books of Securitisation Company or Reconstruction Company. Further, the meaning of the term “Loss asset” has been expanded to include the financial assets including Security Receipts continued to be held by the Securitisation Company or Reconstruction Company which has not been realized within the total time frame specified in the plan for realization formulated by the Securitisation Company or Reconstruction Company under Paragraph 7 (6)(ii) or 7(6)(iii).|
+
+<!-- PAGE 5 -->
+
+(h**) Amendment of** <u>paragraph 15</u> **of the Directions- Disclosures in the** **Balance Sheet** It has been decided that every Securitisation Company or Reconstruction Company shall make additional disclosures on following issues in the balance sheet:-
+*(i) Value of financial assets acquired during the financial year either in its own* *books or in the books of the trust;* *(ii) Value of financial assets realized during the financial year;* *(iii) Value of financial assets outstanding for realization as at the end of the* *financial year;* *(iv) Value of Security Receipts redeemed partly and the Security Receipts* *redeemed fully during the financial year;*
+*(v)Value of Security Receipts pending for redemption as at the end of the* *financial year;* *(vi) Value of Security Receipts which could not be redeemed as a result of non-* *realization of the financial asset as per the policy formulated by the Securitization* *company or Reconstruction company under Paragraph 7(6)(ii) or 7(6)(iii).* *(vii)Value of land and/or building acquired in ordinary course of business of* *reconstruction of assets (year wise)*
+# Withdrawn
+
+3. A copy of the amending Notification No. DNBS.PD(SC/RC). 8 /CGM (ASR) - 2010 dated April 21, 2010 is enclosed. Yours faithfully, (A. S. Rao) Chief General Manager-in-Charge
+
+<!-- PAGE 6 -->
+
+|||Reserve Bank of India Department of Non-Banking Supervision Central Office, Centre No 1 World Trade Centre Mumbai 400 005|
+|---|---|---|
+|||Notification No. DNBS. PD(SC/RC). 8 /CGM (ASR) - 2010 dated April 21,|
+|2010.|Bank) Guidelines and Directions, 2003 amended with immediate effect as follows, namely -|The Securitisation Companies and Reconstruction Companies (Reserve The Reserve Bank of India, having considered it necessary in the public interest, and being satisfied that, for the purpose of enabling the Reserve Bank to regulate the financial system to the advantage of the country and to prevent the affairs of any Securitisation Company or Reconstruction Company from being conducted in a manner detrimental to the interest of investors or in any manner prejudicial to the interest of such Securitisation Company or Reconstruction Company, it is necessary to amend ‘The Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003’, in exercise of the powers conferred under Sections 3,9,10 and 12 of the Securitisation and Withdrawn Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002) and of all the powers enabling it in this behalf, hereby directs that the directions contained in Notification No. DNBS 2/CGM(CSM) -2003 dated April 23, 2003, hereinafter referred to as the Directions, shall stand|
+|1.||In Paragraph 3 (1) of the Directions, for Clause (iii), the following clause|
+|(iii) shall be substituted.|on its own books or directly in the books of the trust;"|"(iii)"Date of acquisition" means the date on which the ownership of financial assets is acquired by Securitisation Company or Reconstruction Company either|
+|||6|
+
+<!-- PAGE 7 -->
+
+2. In Paragraph 7(1) of the Directions, in clause (i), for sub-clause (a), the following shall be substituted. "(a) norms and procedure for acquisition either on its own books or directly in the books of the trust;"
+3. In Paragraph 7(6) of the Directions, for clause (ii), the following clauses shall be substituted. "(ii) Securitisation Company or Reconstruction Company shall formulate the policy for realisation of financial assets under which the period for realisation shall not exceed five years from the date of acquisition of the financial asset concerned. (iii) The Board of Directors of the Securitisation Company or Reconstruction Company may increase the period for realisation of financial assets so that the total period for realisation shall not exceed eight years from the date of acquisition of financial assets concerned. (iv) The Board of Directors of the Securitisation Company or Reconstruction
+# Withdrawn
+
+Company shall specify the steps that will be taken by the Securitisation Company or Reconstruction Company to realise the financial assets within the time frame referred to in clause (ii) or (iii) as the case may be.
+
+(v) The Qualified Institutional Buyers shall be entitled to invoke the provisions of Section 7(3) of the Act only at the end of such extended period, if the period for realisation is extended under clause (iii). (vi) The Qualified Institutional Buyers shall be entitled to invoke the provisions of Section 7(3) of the Act at the end of such period as specified under clause (ii), if the period for realisation is not extended under clause (iii).”
+5. In Paragraph 8 of the Directions, for sub-paragraph (1), the following shall be substituted:
+
+<!-- PAGE 8 -->
+
+|"(1)|Issue of Security Receipts|.- A Securitisation company or Reconstruction company shall give effect to the provisions of sections 7(1) and (2) of the Act through one or more trusts set up exclusively for the purpose. The Securitisation company or Reconstruction company shall transfer the assets to the said trusts at the price at which those assets were acquired from the originator if the assets are not acquired directly on the books of the trust:-”|
+|---|---|---|
+|6.|substituted. from time to time.” be substituted. or building, - 10% of its owned fund,|In Paragraph 10 of the Directions, for clause (ii), the following shall be (ii) A Securitisation company or Reconstruction company may deploy any surplus funds available with it, in terms of a policy framed in this regard by its Board of Directors, only in Government securities and deposits with scheduled commercial banks, Small Industries Development Bank of India, National Bank for Agriculture and Rural Development or such other entity as may be specified by the Bank 7. In Paragraph 10 of the Directions, for clause (iii), the following clause (iii) shall Withdrawn “(iii) No Securitisation Company or Reconstruction Company shall, invest in land Provided that the restriction shall not apply to investment by Securitisation Company or Reconstruction Company in land and buildings for its own use up to Provided further that the restriction shall not apply to land and building acquired by the Securitisation Company or Reconstruction Company in satisfaction of claims in ordinary course of its business of reconstruction of assets in accordance with the provisions of SARFAESI Act. ” 8|
+
+<!-- PAGE 9 -->
+
+Provided further that any land and/or building acquired by Securitisation Company or Reconstruction Company in the ordinary course of its business of reconstruction of assets while enforcing its security interest, shall be disposed of within a period of five years from the date of such acquisition or such extended period as may be permitted by the Bank in the interest of realization of the dues of the Securitisation Company or Reconstruction Company.
+
+8. In paragraph 12(1)(i) of the Directions after the words “classify the assets” and before the words “into the following categories” following words shall be inserted:
+## “held in its own books”
+
+9. Paragraph 12(1)(ii)(c) of the Directions shall be modified as under –
+(c) ‘Loss asset” if (A) the asset is non-performing for a period exceeding 36
+# Withdrawn
+
+months; (B) the asset is adversely affected by a potential threat of non- recoverability due to either erosion in the value of security or non-availability of security; (C) the asset has been identified as loss asset by the Securitization company or Reconstruction company or its internal or external auditor; or (D) the financial asset including Security Receipts is not realized within the total time frame specified in the plan for realization formulated by the Securitization company or Reconstruction company under Paragraph 7 (6) (ii) or 7 (6) (iii) and the Securitization company or Reconstruction company or the trust concerned continues to hold those assets.”
+
+10. In paragraph 15 (1) of the Directions, the following clauses shall be added after clause (iv) –
+
+<!-- PAGE 10 -->
+
+(v) *Value of financial assets acquired during the financial year either on its own* *books or in the books of the trust;* *(vi) Value of financial assets realized during the financial year;* *(vii) Value of financial assets outstanding for realization as at the end of the* *financial year;* *(viii) Value of Security Receipts redeemed partially and the Security Receipts* *redeemed fully during the financial year;* *(ix)Value of Security Receipts pending for redemption as at the end of the* *financial year;*
+*(x) Value of Security Receipts which could not be redeemed as a result of non-* *realization of the financial asset as per the policy formulated by the Securitization* *company or Reconstruction company under Paragraph 7(6)(ii) or 7(6)(iii).* *(xi)Value of land and/or building acquired in ordinary course of business of* *reconstruction of assets (year wise)* (A. S. Rao) Chief General Manager In-Charge
+# Withdrawn
+
+<!-- PAGE 11 -->
+
+## Extract of the para 113 and 114 of the Monetary Policy Statement 2010-11
+
+*Securitisation Companies/Reconstruction Companies set up under the* *SARFAESI Act, 2002: Changes in Regulations*
+
+113. The guidelines and instructions issued to the Securitisation Companies/ Reconstruction Companies (SCs/RCs) have been reviewed by the Reserve Bank in consultation with these companies. Accordingly, it is proposed to make the following modifications to the guidelines:
+- SCs/RCs can acquire the assets either in their own books or directly in the books of the trusts set up by them.
+- The period for realisation of assets acquired by SCs/RCs can be extended from five years to eight years by their Boards of Directors, subject to certain conditions. Asset/Security Receipts (SRs), which remain unresolved/not redeemed as at the end of five years or eight years, as the case may be, will henceforth be treated as loss assets.
+- With a view to bringing transparency and market discipline in the functioning of SCs/RCs, additional disclo Withdrawnsures relating to assets realised during the year, value of financial assets unresolved as at the end of the year, value of SRs pending redemption, among others, are being prescribed.
+114. Detailed guidelines will be issued by April 30, 2010.
+XXXXXX
