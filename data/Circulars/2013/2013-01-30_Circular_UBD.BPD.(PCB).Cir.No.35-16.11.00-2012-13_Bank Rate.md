@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2013_UBD_BPD_PCB_Cir_No_35_16_11_00_2012-13"
+title: "Bank Rate"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE35BR300113.PDF"
+pdf_sha256: "adbb2da76ee8d5e35ad5821d956d49e0ef05f98e25c1d13d0541ecab9d82521e"
+md_sha256: "411ad7c941f40b1614d8e04baab4ee198dab7ea433b22dc6473f7c4eec782c27"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:55:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-01-30_Circular_UBD.BPD.%28PCB%29.Cir.No.35-16.11.00-2012-13_Bank%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Bank Rate
+
+<!-- PAGE 1 -->
+
+|5, 2012|RBI/2012-13/404 Madam/Dear Sir, Bank Rate Please refer to our from January 29, 2013. Yours faithfully, (A.Udgata) Encl: As above. फोन: 022 -|The Chief Executive Officer Chief General Manager-in-Charge|UBD.BPD.(PCB).Cir.No. 35/16.11.00/2012-13 All Primary (Urban) Co-operative Banks Monetary Policy Statement 2012-13 2493 9930 - Urban Banks Department, Central Office, Garment House, 1|on the captioned subject. As announced in the 3. Please acknowledge the receipt to the Regional Office concerned. 49; फै क्स: 022 -|points from 9.00 per cent to 8.75 per cent with effect from January 29, 2013. शहरी बैंक विभाग, कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसेंट मागा, िरली, मंबई - ह िंदी आसान ै|भारतीय ररज़र्व बक ____________________RESERVE BANK OF INDIA___________________ www.rbi.org.in 2. All penal interest rates on shortfall in reserve requirements, which are specifically linked to the Bank Rate, also stand revised as indicated in Annex. The interest rate on refinance for SSI under Section 17(2)(bb) read with Section 17(4)(c) of the Withdrawn Reserve Bank of India Act, 1934 also stands revised to 8.75 per cent with effect 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: rbiubdco@rbi.org.in, इसका|2497 4030 / 2492 st प्रयोग बढ़ाइए|ैं circular UBD.BPD.(PCB).Cir.No.40/16.11.00/2011-12 dated June —|January 30, 2013 Third Quarter Review of, the Bank Rate stands adjusted by 25 basis 400018 भारत 0231; ई-मेल: rbiubdco@rbi.org.in Floor, Dr. Annie Besant Road, Worli, Mumbai -|
+|---|---|---|---|---|---|---|---|---|---|
+|||चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक,|||||एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत िी ज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.||की जानकारी जैसे बैंक के खाते का ब्यौरा,|
+
+<!-- PAGE 2 -->
+
+## <u>Annex</u>
+
+## Penal Interest Rates which are linked to the Bank Rate
+
+|Item|Existing Rate|Revised Rate (Effective from January 29, 2013)|
+|---|---|---|
+|Penal interest rates shortfalls in requirements (depending on (12.00 duration of shortfalls).|on Bank Rate plus reserve percentage per cent) Bank Rate plus percentage points cent) (14.00 per cent).|3.0 Bank Rate plus 3.0 points percentage points (11.75 per or cent) or Bank Rate plus 5.0 5.0 percentage points (13.75 per|
+
+# Withdrawn
