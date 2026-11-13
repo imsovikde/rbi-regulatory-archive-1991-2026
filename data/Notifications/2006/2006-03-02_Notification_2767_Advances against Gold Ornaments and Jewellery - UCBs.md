@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2006_2767"
+title: "Advances against Gold Ornaments and Jewellery - UCBs"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69046.pdf"
+pdf_sha256: "6fb9202871c0798d19e4a15817a89118916bb2a0d9b0942847d23a39211cd35f"
+md_sha256: "fcf2f96ae8f83fc61ddfb7a6d6e8c30a81ad7e057576068aded9ea070adf925f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-03-02_Notification_2767_Advances%20against%20Gold%20Ornaments%20and%20Jewellery%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances against Gold Ornaments and Jewellery - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/311 UBD.PCB.Cir.No. 34 /13.05.000/2005-06 March 2, 2006
+
+The Chief Executive Officers of all Primary (Urban) Co-operative Banks
+
+## Dear Sir
+
+Advances against Gold Ornaments and Jewellery-UCBs
+
+As you are aware, hallmarking of gold jewellery ensures the quality of gold used in the jewellery as to caratage, fineness and purity. Therefore, banks would find granting of advances against the security of such hallmarked jewellery safer and easier. Preferential treatment of hallmarked jewellery is likely to encourage practice of hallmarking which will be in the long-term interest of consumer, lenders and the industry.
+
+2. Therefore, banks while considering granting advances against jewellery may keep in view the advantages of hallmarked jewellery and decide on the margin and rates of interest thereon.
+3. Other conditions in respect of grant of advances against gold ornaments and jewellery remain unchanged.
+## Yours faithfully
+
+(N.S.Vishwanathan) Chief General Manager In-Charge

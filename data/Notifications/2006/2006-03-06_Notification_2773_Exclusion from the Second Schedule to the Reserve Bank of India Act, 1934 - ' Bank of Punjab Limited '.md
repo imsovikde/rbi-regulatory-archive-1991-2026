@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2006_2773"
+title: "Exclusion from the Second Schedule to the Reserve Bank of India Act, 1934 - ' Bank of Punjab Limited '"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69207.pdf"
+pdf_sha256: "3eb38601f0eaf088e26840f6124516e97601da56b0fef2e5f4a68fe1344570f7"
+md_sha256: "039b7711bef6f2bf7736e7464664d3560975cd6784906063821c506cfdb8bafa"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-03-06_Notification_2773_Exclusion%20from%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20%27%20Bank%20of%20Punjab%20Limited%20%27.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exclusion from the Second Schedule to the Reserve Bank of India Act, 1934 - ' Bank of Punjab Limited '
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/316 DBOD.Ret.BC.No. 67 /12.06.095/2005-06 March 06, 2006
+
+## All Scheduled Commercial Banks
+
+## Dear Sir
+
+<u>Exclusion from the Second Schedule to the Reserve Bank of India Act,</u> <u>1934 - ' Bank of Punjab Limited '</u>
+
+We advise that the name of " Bank of Punjab Limited " has been excluded from the Second Schedule to the Reserve Bank of India Act, 1934 with effect from October 01, 2005, in terms of notification DBOD. No. PSBD.353/16.01.130/2005-06 dated October 07, 2005 which was published in the Gazette of India ( Part III-Section 4 ) on October 29, 2005
+
+## Yours faithfully
+
+(S.Oram) Deputy General Manager

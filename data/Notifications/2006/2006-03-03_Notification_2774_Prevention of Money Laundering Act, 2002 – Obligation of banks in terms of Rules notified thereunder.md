@@ -1,0 +1,67 @@
+---
+doc_id: "Notifications_2006_2774"
+title: "Prevention of Money Laundering Act, 2002 – Obligation of banks in terms of Rules notified thereunder"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69210.pdf"
+pdf_sha256: "75e059ef72f18a6faa3e0bbafed291d437315026d41a9b4564c8f528fbcf4e55"
+md_sha256: "e5f8d046785fde4c18acb7a05424c9bcb9560b85726d844fc2b11c2d7e9d8c46"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-03-03_Notification_2774_Prevention%20of%20Money%20Laundering%20Act%2C%202002%20%E2%80%93%20Obligation%20of%20banks%20in%20terms%20of%20Rules%20notified%20thereunder.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prevention of Money Laundering Act, 2002 – Obligation of banks in terms of Rules notified thereunder
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/313 RPCD.CO. RF.AML.BC.65/07.02.12/2005-06 March 3, 2006
+
+The Chief Executives of all State and District Central Co-operative Banks
+
+Dear Sir,
+
+<u>Prevention of Money Laundering Act, 2002 – Obligation of banks in terms of Rules notified</u> <u>thereunder</u>
+
+Please refer to our circular RPCD.AML.BC.80/07.40.00/ 2004-05 dated February 18, 2005 on KYC Guidelines and Anti Money Laundering Standards. Banks were advised to put in place a policy framework within three months of the date of the circular and ensure that the banks were fully compliant with the provisions of the circular by December 31, 2005. The Chairmen/CEOs of banks were advised to personally monitor the progress in this regard and take appropriate steps to ensure that systems and procedures were put in place and instructions had percolated to the operational levels. It should also be ensured that there is a proper system of fixing accountability for serious lapses and intentional circumvention of the prescribed procedures and guidelines.
+
+2. Attention of banks is further invited to paragraphs 4 and 9 of the guidelines enclosed to our above said circular in terms of which banks were advised to appoint a Principal officer and put in place a system of internal reporting of suspicious transactions and cash transactions of Rs.5 lakh and above. In this connection, we advise that the Government of India, Ministry of Finance, Department of Revenue, issued a notification dated July 1, 2005 in the Gazette of India, notifying the Rules under the Prevention of Money Laundering Act (PMLA), 2002. In terms of the Rules, the provisions of PMLA, 2002 came into effect form July 1, 2005. Section 12 of the PMLA, 2002 casts certain obligations on the banking companies in regard to preservation and reporting of customer account information. Banks are, therefore, advised to go through the provisions of PMLA, 2002 and the Rules notified thereunder and take all steps considered necessary to ensure compliance with the requirements of section 12 of the Act ibid.
+3. Maintenance of records of transactions Banks should introduce a system of maintaining proper record of transactions prescribed under Rule 3, as mentioned below:
+(i) all cash transactions of the value of more than rupees ten lakh or its equivalent in foreign currency; (ii) all series of cash transactions integrally connected to each other which have been valued below rupees ten lakh or its equivalent in foreign currency where such series of transactions have taken place within a month and the aggregate value of such transactions exceeds rupees ten lakh; (iii) all cash transactions where forged or counterfeit currency notes or bank notes have been used as genuine and where any forgery of a valuable security has taken place; (iv) all suspicious transactions whether or not made in cash and by way of as mentioned in the Rules.
+
+<!-- PAGE 2 -->
+
+5. Information to be preserved
+Banks are required to maintain the following information in respect of transactions referred to in Rule 3:
+
+(i) the nature of the transactions; (ii) the amount of the transaction and the currency in which it was denominated; (iii) the date on which the transaction was conducted; and (iv) the parties to the transaction.
+5. Maintenance and Preservation of records
+Banks should take appropriate steps to evolve a system for proper maintenance and preservation of account information in a manner that allows data to be retrieved easily and quickly whenever required or when requested by the competent authorities. Further, banks should maintain for at least ten years from the date of cessation of transaction between the bank and the client, all necessary records of transactions, both domestic or international, which will permit reconstruction of individual transactions (including the amounts and types of currency involved if any) so as to provide, if necessary, evidence for prosecution of persons involved in criminal activity.
+
+Banks should ensure that records pertaining to the identification of the customer and his address (e.g. copies of documents like passports, identity cards, driving licenses, PAN, utility bills etc.) obtained while opening the account and during the course of business relationship, are properly preserved for at least ten years after the business relationship is ended. The identification records and transaction data should be made available to the competent authorities upon request.
+
+6. Reporting to Financial Intelligence Unit-India It is advised that in terms of the PMLA rules, banks are required to report information relating to cash and suspicious transactions to the Director, Financial Intelligence Unit-India (FIU-IND) at the following address: Director, FIU-IND, Financial Intelligence Unit-India, th 6 Floor, Hotel Samrat, Chanakyapuri, New Delhi-110021
+I) Banks should carefully go through all the reporting formats. There are altogether five reporting formats viz. i) Manual reporting of cash transactions ii) Manual reporting of suspicious transactions iii) Consolidated reporting of cash transactions by Principal Officer of the bank iv) Electronic data structure for cash transaction reporting and v) Electronic data structure for suspicious transaction reporting which are enclosed to this circular. The reporting formats contain detailed guidelines on the compilation and manner/procedure of submission of the reports to FIU-IND. It would be necessary for banks to initiate urgent steps to ensure electronic filing of cash transaction report (CTR) as early as possible. The related hardware and technical requirement for preparing reports in an electronic format, the related data files and data structures thereof are furnished in the instructions part of the concerned formats. However, banks which are not in a position to immediately file electronic reports may file manual reports to FIU-IND. While detailed instructions
+
+<!-- PAGE 3 -->
+
+for filing all types of reports are given in the instructions part of the related formats, banks should scrupulously adhere to the following:
+
+(a) The cash transaction report (CTR) for each month should be submitted to FIU-IND
+th by 15 of the succeeding month. While filing CTR, individual transactions below rupees fifty thousand may not be included;
+
+(b) The Suspicious Transaction Report (STR) should be furnished within 7 days of arriving at a conclusion that any transaction, whether cash or non-cash, or a series of transactions integrally connected are of suspicious nature. The Principal Officer should record his reasons for treating any transaction or a series of transactions as suspicious. It should be ensured that there is no undue delay in arriving at such a conclusion once a suspicious transaction report is received from a branch or any other office. Such report should be made available to the competent authorities on request;
+(c) The Principal Officer will be responsible for timely submission of CTR and STR to FIU-IND;
+(d) Utmost confidentiality should be maintained in filing of CTR and STR to FIU-IND. The reports may be transmitted by speed/registered post, fax, email at the notified address;
+(e) It should be ensured that the reports for all the branches are filed in one mode i.e. electronic or manual;
+(f) A summary of cash transaction report for the bank as a whole may be compiled by the Principal Officer of the bank in physical form as per the format specified. The summary should be signed by the Principal Officer and submitted both for manual and electronic reporting.
+7. Banks may not put any restrictions on operations in the accounts where an STR has been made. However, it should be ensured that there is no tipping off to the customer at any level.
+8. These instructions are issued under Section 35A of the Banking Regulation Act, 1949 (As applicable to Co-operative Societies) and Rule 7 of Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005. Any contravention thereof or non-compliance shall attract penalties.
+9. A copy of the Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005 is enclosed for ready reference.
+Yours faithfully,
+
+(G. Srinivasan) Chief General Manager

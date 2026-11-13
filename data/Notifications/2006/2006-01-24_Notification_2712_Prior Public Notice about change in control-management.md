@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2006_2712"
+title: "Prior Public Notice about change in control/management"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/68392.PDF"
+pdf_sha256: "b13bd5b1e2c0711848861f3b3abbeebdf96e07bd250f3e89907e2466105009cc"
+md_sha256: "a3c65e84528c4dfa7a3fcb9d28f797bfc33c0fd1693afa0c226f344055b4345a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-01-24_Notification_2712_Prior%20Public%20Notice%20about%20change%20in%20control-management.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prior Public Notice about change in control/management
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/285 DNBS (PD) C.C. No. 63 / 02.02 / 2005-06 January 24, 2006
+
+To,
+
+All Non-Banking Financial Companies (NBFCs), Including Residuary Non-Banking Companies (RNBCs)
+
+Dear Sirs,
+
+<u>Prior Public Notice about change in control/management</u>
+
+In terms of paragraph 2(b) of the Company Circular DNBS (PD) CC.No.11/02.01/99-2000 dated November 15, 1999 read with paragraph 5(iii)
+
+(a) of the Company Circular DNBS (PD) CC, No.12/02.01./99-2000 dated January 13, 2000, all NBFCs (Deposit taking and Non-Deposit taking) are required to give prior public notice about the change in the control/management of the company.
+2. The matter has been reviewed and it has been decided to relax the norms of giving the prior public notice by the NBFCs about change in the control /management of the NBFCs. Accordingly, the following changes are effected in the above circulars:
+<u>(i) Merger and amalgamation in terms of the High Court Order.</u>
+(a) Where merger and amalgamation takes place in terms of the High Court order in pursuance of Sections 391 and 394 of the Companies Act 1956, the company shall inform the Bank about merger or amalgamation along with Court’s order approving the same within a period of one month from the date of the order. As the public notice is given by the companies under the Companies Act 1956 and Rules made thereunder, no further public notice is required to be given by the companies in terms of the Bank’s Circular as mentioned above.
+(b) However there will be no change in other instructions contained in paragraph 5(iii) (b) of the Company Circular DNBS (PD) .CC No.12/02.01/99- 2000 dated January 13, 2000.
+## <u>(ii) Other cases</u>
+
+Where merger and amalgamation or change in the management of the company takes place upon sale / transfer otherwise than as stated in sub- paragraph (i) above, the NBFCs (including RNBCs)(deposit taking and non- deposit taking companies ) should give prior public notice of 30 days.
+
+<!-- PAGE 2 -->
+
+(iii) Other terms and conditions as stipulated in circulars mentioned above shall remain the same.
+
+3. In case, a new NBFC is formed by the change of management consequent upon merger/amalgamation/acquisition/sale or transfer of ownership, the Bank will continue to undertake due diligence on the directors of the new NBFC to ensure compliance of the provisions of Section 45 IA (4)( c ) of the Reserve Bank of India Act, 1934.
+4. Please acknowledge receipt to the Regional Office of the Department of Non-Banking Supervision, Reserve Bank of India under whose jurisdiction the Registered Office of your company is situated
+Yours faithfully,
+
+Sd/- (P. Krishnamurthy) Chief General Manager-in-Charge

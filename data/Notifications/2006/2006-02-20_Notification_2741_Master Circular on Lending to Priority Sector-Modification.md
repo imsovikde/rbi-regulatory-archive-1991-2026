@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2006_2741"
+title: "Master Circular on Lending to Priority Sector-Modification"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/68961.pdf"
+pdf_sha256: "201ad62213ec387a46eeb9d3770ed7cc1dd6964ed5cb6172e63b488a913a1895"
+md_sha256: "166a6498c9ca7eb9ba62e1f04eedc1e627e8502f3e4686214f953bb0e6d5ab1f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-02-20_Notification_2741_Master%20Circular%20on%20Lending%20to%20Priority%20Sector-Modification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Lending to Priority Sector-Modification
+
+<!-- PAGE 1 -->
+
+<u>RBI/2005-06/304</u>
+
+RPCD. PLFS.BC. NO.63/05.05.03/2005-06 February 20, 2006
+
+The Chairman and Managing Director/ Chief Executive Officer All Scheduled Commercial Banks
+
+Dear Sir,
+
+<u>Master Circular on Lending to Priority Sector-Modification</u> Please refer to our Master Circular RPCD. No. Plan. BC. 21/ 04.09.01/ 2005-06 dated July 18, 2005 issuing guidelines/instructions/directives to banks on lending to Priority Sector. In terms of paragraph 1.2.2 (i), loans to State Electricity Boards (SEBs) only for reimbursing the expenditure already incurred by them for providing low tension connection from step down points to the individual farmers for energising their wells are classified as indirect finance to agriculture.
+
+2. As a part of power sector reforms, some of the States have bifurcated/restructured the Electricity Boards into two corporations, for generation and distribution of the power. It has, therefore, been decided that loans to power distribution corporations/companies, emerging out of bifurcation/restructuring of SEBs, may also be classified as indirect finance to agriculture subject to the same conditions as stipulated in paragraph 1.2.2 (i) of the Master Circular.
+3. You may advise your Controlling Offices/ branches in this regard.
+## Yours faithfully
+
+(C.S.Murthy) Chief General Manager-in-charge

@@ -1,0 +1,72 @@
+---
+doc_id: "Notifications_2006_2785"
+title: "Exclusion from the Second Schedule to the Reserve Bank of India Act, 1934 - \"UFJ Bank Ltd\""
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69370.pdf"
+pdf_sha256: "7f8e1c37f3f8723301f76cbd943e50d663f67e40ad27b1b755d4048288463b50"
+md_sha256: "a8a4e68156e74ca1c31a3726047c13ce3038eef60400cfd0a01bcdb43b5a57a6"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:15:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-03-17_Notification_2785_Exclusion%20from%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20-UFJ%20Bank%20Ltd-.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exclusion from the Second Schedule to the Reserve Bank of India Act, 1934 - "UFJ Bank Ltd"
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/327
+
+DBOD.Ret.BC.No.71/12.06.075/2005-06
+
+March 17,2006
+
+All Scheduled Commercial Banks
+
+Dear Sir
+
+Exclusion from the Second Schedule to the Reserve Bank of India Act,
+
+1934 - "UFJ Bank Ltd".
+
+We advise that the name of " UFJ Bank Ltd" has been excluded from the
+
+January
+
+01,
+
+2006,
+
+in
+
+terms
+
+of
+
+Notification
+
+DBOD.
+
+No.lBD.947/23.03.007/2005-06 dated December 26, 2005, which was
+
+published in the Gazette of India ( Part Ill-Section 4) on January 21, 2006.
+
+Yours faithfully
+
+Sd/-
+
+(S.Oram)
+
+Deputy General Manager
+
+140005
+
+Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005
+
+fa /Tel No: 91-22-22189131 aH/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in
+
+->TMu,,>, -3%, f,A, celi,oS, ,o,fio

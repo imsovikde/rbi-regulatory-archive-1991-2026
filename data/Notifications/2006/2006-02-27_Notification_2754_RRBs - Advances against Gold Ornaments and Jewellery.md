@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2006_2754"
+title: "RRBs - Advances against Gold Ornaments and Jewellery"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69019.pdf"
+pdf_sha256: "f7664a4b2ed85b3bda7bc1ac2582c2ce47c0ab4bb0fe7fd9bd628ba4f7ea2a49"
+md_sha256: "a1fd6f7b8fb8ec7217b67dc664e9fceeae1a9e1c5187179964cdf53bcd2a6193"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-02-27_Notification_2754_RRBs%20-%20Advances%20against%20Gold%20Ornaments%20and%20Jewellery.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RRBs - Advances against Gold Ornaments and Jewellery
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/307
+
+RPCD.CO.No.RRB.BC.64/03.05.34/2005-06
+
+## February 27, 2006
+
+The Chairmen All Regional Rural Banks
+
+Dear Sir <u>Advances against Gold Ornaments and Jewellery</u>
+
+Regional Rural Banks (RRBs) may be granting advances for various purposes against the security of gold ornaments and jewellery as part of their lending policy.
+
+2. As you are aware, hallmarking of gold jewellery ensures the quality of gold used in the jewellery as to caratage, fineness and purity. Therefore, RRBs would find granting of advances against the security of such hallmarked jewellery safer and easier. Preferential treatment of hallmarked jewellery is likely to encourage practice of hallmarking which will be in the long-term interest of consumer, lenders and the industry.
+2. Therefore, while considering granting advances against jewellery, RRBs may keep in view the advantages of hallmarked jewellery and decide on the margin and rates of interest thereon. It should, however be ensured that such advances are not granted for speculative purposes.
+## Yours faithfully
+
+( G.Srinivasan) Chief General Manager

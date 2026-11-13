@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2006_2755"
+title: "Guidelines for banks' undertaking PD business"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69020.PDF"
+pdf_sha256: "586223ac2b84d16114ff70604f5f762ecc86e30858337cffc0306c56dec9614d"
+md_sha256: "7ceca6201ee14c4e95d1c69cbd79eae6231bb3bab072efdf733d6d19b41602ea"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-02-27_Notification_2755_Guidelines%20for%20banks%27%20undertaking%20PD%20business.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines for banks' undertaking PD business
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/308 DBOB.FSD.BC.No. 64 / 24.92.001/ 2005-06 February 27, 2006
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+## Dear Sir
+
+## Guidelines for banks' undertaking PD business
+
+It was announced in the Annual Policy Statement for the year 2005-06 that the permitted structure of Primary Dealership (PD) business would be expanded to include banks, which fulfill certain minimum eligibility criteria. The Draft Guidelines for banks' undertaking PD business were put on our website for obtaining the views / suggestions of banks, Primary Dealers etc. Taking into account the views / suggestions received, the guidelines have been finalized. Accordingly, banks are eligible to apply for Primary Dealership subject to the following guidelines.
+
+2. Eligibility Criteria The following categories of banks would be eligible to apply for PD licence. (RBI's approval would be subject to compliance with all other relevant laws).
+# Withdrawn
+
+(i) Banks which do not at present have a partly or wholly owned subsidiary and fulfill the following criteria :
+(a) Minimum net owned funds (NOF) of Rs.1, 000 crore
+(b) Minimum CRAR of 9 per cent
+(c) Net NPAs of less than 3 per cent and a profit making record for the last three years.
+(ii) Indian banks which are undertaking PD business through a partly or wholly owned subsidiary and wish to undertake PD business departmentally by merging / taking over PD business from their partly / wholly owned subsidiary subject to fulfilling the criteria at 2(i)(a) to (c). (iii) Foreign banks operating in India who wish to undertake PD business departmentally by merging the PD business being undertaken by group companies subject to fulfillment of criteria at 2(i)(a) to (c).
+
+3. The authorization granted by the Reserve Bank will be for a period of one year (July-June) and thereafter, RBI will review the authorization on a yearly
+
+<!-- PAGE 2 -->
+
+basis based on the performance criteria, such as underwriting in auctions of primary issuance of Government Dated Securities and Treasury Bills or fulfilment of bidding commitment and success ratio in the primary market, and achieving the turnover ratio in the secondary market, etc.
+
+4. Obligation for Bank-PDs The Bank-PDs will be subject to underwriting and all other obligations as applicable to standalone PDs and as may be prescribed from time to time. Further, the banks will have to maintain, at any point of time, a minimum size of Rs.100 crore in their separate SGL accounts for PD business.
+5. Prudential Norms
+(i) No separate capital adequacy is prescribed for PD business, and the capital adequacy requirement for a bank will also apply to its PD business. (ii) The Government Dated Securities and Treasury Bills under PD business will count for SLR. (iii) The investment valuation guidelines as applicable to banks in regard to "Held for Trading" portfolio will also apply to the portfolio of Government Dated Securities and Treasury Bills earmarked for PD business.
+# Withdrawn
+
+(iv) The banks shall have to maintain separate SGL accounts for their subsidiaries. The bank should also develop proper MIS in this regard.
+
+6. Regulation and Supervision
+(i) RBI's instructions to Primary Dealers will apply to Bank-PDs, to the extent applicable. (ii) As banks have access to the call money market and the Liquidity Adjustment Facility (LAF) of RBI, Bank-PDs will not have separate access to these facilities. (iii) RBI will conduct on-site inspection of Bank-PD business. (iv) Bank-PDs will be required to submit prescribed returns, as advised by RBI from time to time.
+(v) A Bank-PD should bring to the RBI’s attention any major complaint against it or action initiated / taken against it by the authorities such as the Stock Exchanges, SEBI, CBI, Enforcement Directorate, Income Tax, etc.
+
+<!-- PAGE 3 -->
+
+(vi) Reserve Bank of India reserves the right to cancel the Bank-PD authorization if, in its view, the concerned bank has not fulfilled any of the prescribed eligibility and performance criteria.
+
+7. Reserve Bank of India reserves its right to amend or modify the above guidelines from time to time, as may be considered necessary.
+8. Banks eligible to apply for Primary Dealership may approach the Chief General Manager, Department of Banking Operations & Development, Reserve Bank of India, Central Office, World Trade Centre, Cuffe Parade, Colaba Mumbai-400005 for licence for undertaking PD business.
+## Yours faithfully
+
+(P.Vijaya Bhaskar) Chief General Manager
+
+# Withdrawn

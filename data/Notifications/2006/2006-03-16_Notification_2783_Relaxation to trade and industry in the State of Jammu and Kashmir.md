@@ -1,0 +1,70 @@
+---
+doc_id: "Notifications_2006_2783"
+title: "Relaxation to trade and industry in the State of Jammu and Kashmir"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69368.PDF"
+pdf_sha256: "929524c69f674c16acfcc7e4735333b044dd3105ec1213388df617567703ec10"
+md_sha256: "24dd5f397deedf0f80894f5130027f54b729674cb6860863bb5a280a68d91287"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:15:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-03-16_Notification_2783_Relaxation%20to%20trade%20and%20industry%20in%20the%20State%20of%20Jammu%20and%20Kashmir.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Relaxation to trade and industry in the State of Jammu and Kashmir
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/325
+
+DBOD.BP.BC.69/21.04.012/2005-06
+
+March 16, 2006
+
+The Chairmen of all Scheduled
+
+Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+Relaxation to trade and industry in the State of Jammu and Kashmir
+
+extending the period of concessions/credit relaxations to borrowers/customers in Jammu
+
+and Kashmir up to 31 March 2006. It has been decided that the concessions/credit
+
+relaxations to borrowers/customers in the state of Jammu & Kashmir as laid down in our
+
+Circular No. DBOD.No.BP.BC.77/21.04.012/2003-2004 dated 21st April 2004 will c0ntinue
+
+to be operative for a further period of one year i.e. upto 31 March 2007.
+
+2. Suitable instructions may please be
+
+to your controlling / branch offices in this
+
+regard.
+
+Withdrawn
+
+3. Please acknowledge receipt.
+
+Yours faithfully,
+
+sd/-
+
+(Prashant Saran)
+
+Chief General Manager-in-Charge
+
+1400005
+
+Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005
+
+f /Tel No: 91-22-22189131 a/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in
+
+1->TMu,>,-%,f,A, celi,oS,,o,fi0—

@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2006_2764"
+title: "Secondary Market Transactions in Government Securities - Intra-day short-selling"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69031.PDF"
+pdf_sha256: "4a32bcaae3c3acb1b5526394f5576308a21cd93efc2590d78dea0f3ddec82a9e"
+md_sha256: "8fea6ebce79915f2ddd441ee70bb1d1ccef615f604308bb28ea11d33f98cd5ce"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:15:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-02-28_Notification_2764_Secondary%20Market%20Transactions%20in%20Government%20Securities%20-%20Intra-day%20short-selling.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Secondary Market Transactions in Government Securities - Intra-day short-selling
+
+<!-- PAGE 1 -->
+
+RBI /2005-06/309 IDMD.No 03/11.01.01(B)/2005-06 February 28, 2006
+
+All Scheduled Commercial Banks (other than RRBs and LABs) & Primary Dealers Dear Sirs, <u>Secondary Market Transactions in Government Securities-Intra-day short-selling</u> Please refer to paragraph 64 of the Reserve Bank’s Mid-Tem Review of Annual Policy Statement for the year 2005-06 released on October 25, 2005, wherein it was proposed to introduce intra-day short selling in Government Securities. Accordingly, in continuation of our circular IDMD.PDRS.05/10.02.01/2003-04 dated March 29, 2004, wherein sale of a government security, already contracted for purchase, was permitted, the following guidelines are being issued.
+
+2. Banks and Primary Dealers (PDs) may undertake outright sale of Central Government dated security that they do not own, subject to the same being covered by outright purchase from the secondary market within the same trading day.
+3. Intra-day short selling is being permitted subject to the following conditions:
+a. Intra-day short sale transaction and also the covering of short position should be executed only on the Negotiated Dealing System – Order Matching (NDS-OM) platform.
+b. Under no circumstances should the short position be left uncovered at the end of the day. Inability to cover a short position during the trading day itself shall be treated as an instance of ‘SGL bouncing’ and will be liable to the disciplinary action prescribed in respect of SGL bouncing, besides attracting such further regulatory action as necessary.
+c. At no point of time should a bank/PD accumulate a short position in excess of
+0.25 per cent of the outstanding stock of a security. The information regarding the outstanding stock of each Government of India dated security is being made available on the RBI website (URL: www.rbi.org.in) with effect from March 1, 2006 to facilitate monitoring in this regard.
+
+<!-- PAGE 2 -->
+
+d. Gilt Accounts Holders (GAHs), under CSGL facility are not permitted to undertake intra-day short selling. Those entities providing CSGL facility are required to ensure that no short-sale is undertaken by the GAHs.
+4. Before actually undertaking transactions in terms of this circular, banks/PDs are required to have in place a written policy on ‘intra-day’ short sale which should be approved by their respective Boards of Directors. The policy should lay down the internal guidelines which should include, inter alia, risk limits on short position, an aggregate nominal short sale limit (in terms of Face Value) across all eligible securities, the internal control systems to ensure adherence to regulatory and internal guidelines, reporting of short selling activity to the top management and the RBI, procedure to deal with violations, etc. (A copy of the said policy should be sent for prior information to the Internal Debt Management Department (IDMD) of the RBI.) A bank/PD must have in place a system to detect violations if any, immediately, certainly within the same trading day. A bank/PD which cannot ensure such prompt detection should not undertake short sale.
+5. The concurrent auditors should specifically verify compliance with these instructions and report violations, if any, on the date of trade itself, within a reasonably short time, to the appropriate internal authority. As part of their monthly reporting, concurrent auditors may verify whether the independent back office has taken cognizance of all such lapses and reported the same within the required time frame. Any violation of regulatory guidelines noticed in this regard should immediately be reported to the Public Debt Office (PDO), Mumbai and IDMD, Reserve Bank of India.
+6. Banks / PDs are also required to report, as per the format in the Annex, to IDMD, RBI on a monthly basis, the daily security-wise maximum intra-day short sale position. This report will be sent on the first working day of the succeeding month.
+7. These guidelines will be reviewed periodically to consider modifications and continuance, as appropriate.
+Yours faithfully,
+
+(G.Mahalingam) Chief General Manager
+
+<!-- PAGE 3 -->
+
+Annex Monthly report of the daily security-wise maximum intra-day short sale position Name of the reporting institution: Report for the month of: (in Rs. Crores) Trade Date Nomenclature Total stock 0.25 % of the Maximum intra- of the Security issued of the outstanding day short security * stock position
+
+* available on RBI website
