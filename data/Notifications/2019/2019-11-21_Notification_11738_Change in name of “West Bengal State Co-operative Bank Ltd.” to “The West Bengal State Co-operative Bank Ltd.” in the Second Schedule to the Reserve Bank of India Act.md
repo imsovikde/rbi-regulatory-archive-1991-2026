@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2019_11738"
+title: "Change in name of “West Bengal State Co-operative Bank Ltd.” to “The West Bengal State Co-operative Bank Ltd.” in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1016B7875103C3148F98371F164512B25F4.PDF"
+pdf_sha256: "794a6ee0e23faa9a1a2cd7f8bea2402239fa52c5ab0252e9d963244ac6afae8e"
+md_sha256: "379d8d0f40f6497358491aa430cd315583a3d0da14ae3b60e87b0225198f50f2"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:03:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-11-21_Notification_11738_Change%20in%20name%20of%20%E2%80%9CWest%20Bengal%20State%20Co-operative%20Bank%20Ltd.%E2%80%9D%20to%20%E2%80%9CThe%20West%20Bengal%20State%20Co-operative%20Bank%20Ltd.%E2%80%9D%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in name of “West Bengal State Co-operative Bank Ltd.” to “The West Bengal State Co-operative Bank Ltd.” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+# __________________RESERVE BANK OF INDIA____________________ <u>www.rbi.org.in</u>
+
+**RBI/2019-20/101** 24 Kartik 1941 **DOR.RCB.No.06/19.51.025/2019-20** November 15, 2019
+
+## All State Co-operative Banks/ Central Co-operative Banks
+
+## Madam / Dear Sir
+
+**Change in name of “West Bengal State Co-operative Bank Ltd.” to “The West Bengal** **State Co-operative Bank Ltd.” in the Second Schedule to the Reserve Bank of India** **Act, 1934**
+
+We advise that the name of “West Bengal State Co-operative Bank Ltd.” has been substituted with “The West Bengal State Co-operative Bank Ltd.” in the Second Schedule to the Reserve Bank of India Act, 1934 by Notification DCBR.CO.RCBD.No.01/19.51.025/2019-20 dated July 31, 2019 published in the Gazette of India (Weekly No.35, Part III-Section 4) dated August 31 – September 06, 2019.
+
+## Yours faithfully
+
+(Neeraj Nigam) Chief General Manager
+
+िविनयमन िवभाग, क द्रीय कायालय, सी- 7, पहली/ दू सरी मंिज़ल, बांद्रा कु ला संकु ल, बांद्रा (पूव), मुंबई ñ 400 051 भारत फोन: 022 -26578300; फै � : 022 -26571117 Department of Regulation, Central Office, C-7, 1st/ 2ndFloor, Bandra Kurla Complex, Bandra (E) Mumbai – 400 051, India Phone: 022 -26578300; Fax: 022 -26571117; <u>िहंदी आसान है, इसका प्रयोग बढ़ाइए ।</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरए िकसी की भी ��की जानकारी जैसे बक के खाते का ौरा, पासवड आिद नहीं मांगी जाती है। यह धन रखने या देने का प्राव भी नहीं करता है। ऐसे प्रावों का िकसी भी तरीके से जवाब मत दीिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It <u>never keeps or offers funds to anyone. Please do not respond in any manner to such offers.</u>

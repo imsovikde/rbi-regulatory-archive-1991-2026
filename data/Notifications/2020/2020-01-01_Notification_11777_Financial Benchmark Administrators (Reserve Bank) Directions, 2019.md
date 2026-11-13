@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2020_11777"
+title: "Financial Benchmark Administrators (Reserve Bank) Directions, 2019"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT133A86B9FADF5F5447A9F0F2C903DEC3ED8.PDF"
+pdf_sha256: "c40977559091327761c84d4d020e97a1b9f881c1d0cecf80eaf172e5b8735757"
+md_sha256: "0e7d7efd3d4bf23b98dfd154885b1d48ff3ce7bdfdba2f62fef341ce211e40bb"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:03:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-01-01_Notification_11777_Financial%20Benchmark%20Administrators%20%28Reserve%20Bank%29%20Directions%2C%202019.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Benchmark Administrators (Reserve Bank) Directions, 2019
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/133 FMRD.FMSD.22/03.07.035/2019-20 January 01, 2020
+
+To
+
+## All the Financial Benchmark Administrators
+
+## Dear Sir/Madam
+
+## Financial Benchmark Administrators (Reserve Bank) Directions, 2019
+
+Please refer to the <u>Financial Benchmark Administrators (Reserve Bank) Directions, 2019,</u> <u>dated June 26, 2019</u>.
+
+2. As provided in paragraph 3(i) of the above directions, the Reserve Bank hereby notifies the following benchmarks administered by Financial Benchmarks India Pvt. Ltd. (FBIL) as a ‘significant benchmark’:
+(1) Overnight Mumbai Interbank Outright Rate (MIBOR)
+(2) Mumbai Interbank Forward Outright Rate (MIFOR)
+(3) USD/INR Reference Rate
+(4) Treasury Bill Rates
+(5) Valuation of Government Securities
+(6) Valuation of State Development Loans (SDL)
+3. Further, in terms of paragraph 3(ii) of the above directions, the person administering the ‘significant benchmark’, shall make an application to the Reserve Bank within a period of three months from the date of this notification for authorization to continue administering these benchmarks.
+4. This notification has been issued by the Reserve Bank as required under the <u>Financial</u> <u>Benchmark Administrators (Reserve Bank) Directions, 2019, dated June 26, 2019</u>.
+## Yours faithfully
+
+(Saswat Mahapatra) Deputy General Manager

@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2019_11727"
+title: "Qualifying Assets Criteria - Review of Limits"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT95A0F9E84CA85C4CE3A1ABA9B2E2459569.PDF"
+pdf_sha256: "83ec055dc65a488c54efc24f98fe23fe44333a159e99093b02d73913b75100f8"
+md_sha256: "674be6c17f735950b9ad010c45469863ff14ee2c56f158d7f68ca2157d0c409b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:03:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-11-08_Notification_11727_Qualifying%20Assets%20Criteria%20-%20Review%20of%20Limits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Qualifying Assets Criteria - Review of Limits
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बक
+
+# RESERVE BANK OF INDIA
+
+**www.rbi.org.in** **RBI/2019-20/95** **DOR.NBFC (PD) CC. No.103/22.10.038/2019-20** November 08, 2019
+
+To
+
+All Non-Banking Financial Companies-Micro Finance Institutions (NBFC-MFIs)
+
+|Madam / Sir,||
+|---|---|
+|Qualifying Assets Criteria-Review of Limits||
+|Please refer to the|Statement on Developmental and Regulatory Policies issued as part of Monetary Policy Statement dated October 4, 2019 and Para 3 of the Non- Banking Financial Company - Systemically Important Non-Deposit taking Company|
+|and Deposit taking Company (Reserve Bank) Directions, 2016 and the|Non-Banking Financial Company – Non-Systemically Important Non-Deposit taking Company|
+|(Reserve Bank) Directions, 2016|prescribing the eligibility criteria for classification|
+|under ‘Qualifying Assets’ for NBFC-MFIs.||
+|2.|Taking into consideration the important role played by MFIs in delivering credit to those in the bottom of the economic pyramid and to enable them play their assigned role in a growing economy, it has been decided to increase the household income limits for borrowers of NBFC-MFIs from the current level of ₹1,00,000 for rural areas and ₹1,60,000 for urban/semi urban areas to ₹1,25,000 and ₹2,00,000 respectively.|
+|3.|Further, the limit on total indebtedness of the borrower has been increased from|
+
+₹1,00,000 to ₹1,25,000. In light of the revision to the limit on total indebtedness, the limits on disbursal of loans have been raised from ₹60,000 for the first cycle and ₹1,00,000 for the subsequent cycles to ₹75,000 and ₹1,25,000 respectively.
+
+4. These instructions shall come into effect from the date of this circular.
+िविनयमन िवभाग ,के न् � ी य कायार्लय,2री मंिजल सटर, 1,िव� ापार क �, कफ परेड,मुंबई-400005,भारत फोन: (+91-22) 22161940 फै क् स :(91-22) 22150540, Email: cgmicdor@rbi.org.in Department of Regulation, Central Office, 2 nd Floor, Centre-I, World Trade Centre, Cuffe Parade, Colaba, Mumbai – 400005, India Tel.: (+91-22) 22161940 Fax: (91-22) 22150540, Email: cgmicdor@rbi.org.in <u>�हंदी आसान है, इसका �योग बढाइये।</u>
+
+<!-- PAGE 2 -->
+
+5. All other terms and conditions specified under the master directions shall remain unchanged. The master directions, ibid, are being modified accordingly. Yours faithfully, (Manoranjan Mishra) Chief General Manager
