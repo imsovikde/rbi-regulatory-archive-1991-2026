@@ -1,0 +1,86 @@
+---
+doc_id: "Circulars_2020_DOR_AML_BC_No_27_14_01_001_2019-20"
+title: "Amendment to Master Direction (MD) on KYC"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULAR1385B2E30C2E186423CB03EDF39D6133254.PDF"
+pdf_sha256: "4a92a05df234c73607c44b7294a223fc4edae62edaa51bfee1a0a92fbfb634c9"
+md_sha256: "49e99bb7c78e66480f7661e666cd969616f1b4874bb07dc934343e48554e233f"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:42:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-01-09_Circular_DOR.AML.BC.No.27-14.01.001-2019-20_Amendment%20to%20Master%20Direction%20%28MD%29%20on%20KYC.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendment to Master Direction (MD) on KYC
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/138 DOR.AML.BC.No.27/14.01.001/2019-20 January 9, 2020
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Dear Sir/Madam,
+
+## Amendment to Master Direction (MD) on KYC
+
+Government of India, vide Gazette Notification G.S.R. 582(E) dated August 19, 2019 and Gazette Notification G.S.R. 840(E) dated November 13, 2019, has notified amendment to the Prevention of Money-laundering (Maintenance of Records) Rules, 2005. Further, with a view to leveraging the digital channels for Customer Identification Process (CIP) by Regulated Entities (REs), the Reserve Bank has decided to permit Video based Customer Identification Process (V-CIP) as a consent based alternate method of establishing the customer’s identity, for customer onboarding.
+
+2. The consequent changes carried out in the <u>Master Direction on KYC dated February 25, 2016</u>, with the aforementioned amendments to the PML Rules and V-CIP are as under:
+A. <u>Changes due to amendments to the PML Rules</u>
+a) “Digital KYC” has been defined in Section 3 as capturing live photo of the customer and officially valid document or the proof of possession of Aadhaar, where offline verification
+# Withdrawn
+
+cannot be carried out, along with the latitude and longitude of the location where such live photo is being taken by an authorised officer of the Reporting Entity (RE) as per the provisions contained in the Act. Steps to carry out the Digital KYC process have also been stipulated.
+
+b) “Equivalent e-document” has been defined in Section 3 as an electronic equivalent of a document, issued by the issuing authority of such document with its valid digital signature including documents issued to the digital locker account of the customer as per Rule 9 of the Information Technology (Preservation and Retention of Information by Intermediaries Providing Digital Locker Facilities) Rules, 2016.
+c) Section 16 has been amended and accordingly,
+I. customer, for the purpose of Customer Due Diligence CDD) process, shall submit: िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई -400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+i. the Aadhaar number where he is desirous of receiving any benefit or subsidy under any scheme notified under section 7 of the Aadhaar (Targeted Delivery of Financial and Other subsidies, Benefits and Services) Act, 2016 (18 of 2016); or he decides to submit his Aadhaar number voluntarily to a banking company or any reporting entity notified under first proviso to sub-section (1) of section 11A of the PML Act; **or** ii. the proof of possession of Aadhaar number where offline verification can be carried out; **or** iii. the proof of possession of Aadhaar number where offline verification cannot be carried out **or**
+iv. any Officially Valid Document (OVD) or the equivalent e-document thereof containing the details of his identity and address; **and**
+
+v. the Permanent Account Number or the equivalent e-document thereof or Form No. 60 as defined in Income-tax Rules, 1962; **and** vi. such other documents including in respect of the nature of business and financial status of the client, or the equivalent e-documents thereof as may be required by the RE.
+II. Provided that where the customer has submitted
+
+i. Aadhaar number under paragraph (c.I.i) above to a bank or to a RE notified under first proviso to sub-section (1) of section 11A of the PML Act, such bank or RE shall carry out authentication of the customer’s Aadhaar number using e-KYC authentication facility provided by the Unique Identification Authority of India.
+# Withdrawn
+
+ii. proof of possession of Aadhaar under clause (c.I.ii) above where offline verification can be carried out, the RE shall carry out offline verification iii. an equivalent e-document of any OVD, the RE shall verify the digital signature as per the provisions of the Information Technology Act, 2000 (21 of 2000) and any rules issues thereunder and take a live photo as specified under Annex I of the Master Direction. iv. proof of possession of Aadhaar number where offline verification cannot be carried out under clause (c.I.iii) above or any OVD under clause (c.I.iv), the RE shall carry out verification through digital KYC as specified under Annex I of the Master Direction.
+
+Provided, for a period not beyond such date as may be notified by the Government for a class of REs, instead of carrying out digital KYC, the RE pertaining to such class may obtain a certified copy of the proof of possession of Aadhaar number or the OVD and a recent photograph where an equivalent e- document is not submitted.
+
+<!-- PAGE 3 -->
+
+III. Equivalent e-document has also been permitted for accounts of non-individual customer. IV. Where a customer has provided his Aadhaar number under paragraph (c.I.i) above for identification and wants to provide a current address, different from the address as per the identity information available in the Central Identities Data Repository, he may give a self-declaration to that effect to the Regulated Entity.
+
+B. <u>Changes due to introduction of Video based Customer Identification Process (V-CIP)</u>
+a) Definition of V-CIP has been inserted in Section 3 of the Master Direction
+b) The process of V-CIP has been specified in Section 18 in terms of which, REs may undertake live V-CIP, to be carried out by an official of the RE, for establishment of an account based relationship with an individual customer, after obtaining his informed consent and shall adhere to the following stipulations:
+
+|i.|The official of the RE performing the V-CIP shall record video as well as capture|
+|---|---|
+||photograph of the customer present for identification and obtain the identification information as below: • Banks: can use either OTP based Aadhaar e-KYC authentication or Offline Verification of Aadhaar for identification. Further, services of Business Correspondents (BCs) may be used by banks for aiding the V-CIP. • REs other than banks: can only carry out Offline Verification of Aadhaar for identification. RE shall capture a clear image of PAN card to be displayed by the customer during the Withdrawn process, except in cases where e-PAN is provided by the customer. The PAN details shall be verified from the database of the issuing authority. Live location of the customer (Geotagging) shall be captured to ensure that customer is physically present in India The official of the RE shall ensure that photograph of the customer in the Aadhaar/PAN details matches with the customer undertaking the V-CIP and the identification details in Aadhaar/PAN shall match with the details provided by the customer. The official of the RE shall ensure that the sequence and/or type of questions during video interactions are varied in order to establish that the interactions are real-time and not pre-recorded. In case of offline verification of Aadhaar using XML file or Aadhaar Secure QR Code, it shall be ensured that the XML file or QR code generation date is not older than 3 days from the date of carrying out V-CIP. All accounts opened through V-CIP shall be made operational only after being subject to concurrent audit, to ensure the integrity of process.|
+
+ii.
+
+iii.
+
+iv.
+
+v. vi. vii.
+
+<!-- PAGE 4 -->
+
+viii. RE shall ensure that the process is a seamless, real-time, secured, end-to-end encrypted audiovisual interaction with the customer and the quality of the communication is adequate to allow identification of the customer beyond doubt. RE shall carry out the liveliness check in order to guard against spoofing and such other fraudulent manipulations. ix. To ensure security, robustness and end to end encryption, the REs shall carry out software and security audit and validation of the V-CIP application before rolling it out.
+
+x. The audiovisual interaction shall be triggered from the domain of the RE itself, and not from third party service provider, if any. The V-CIP process shall be operated by officials specifically trained for this purpose. The activity log along with the credentials of the official performing the V-CIP shall be preserved. xi. REs shall ensure that the video recording is stored in a safe and secure manner and bears the date and time stamp. xii. REs are encouraged to take assistance of the latest available technology, including Artificial Intelligence (AI) and face matching technologies, to ensure the integrity of the process as well as the information furnished by the customer. However, the responsibility of customer identification shall rest with the RE.
+xiii. RE shall ensure to redact or blackout the Aadhaar number in terms of Section 16. xiv. BCs can facilitate the process only at the customer end and as already stated in para B(b) above, the official at the other end of V-CIP interaction should necessarily be a bank official. Banks shall maintain the details of the BC assisting the customer, where services of BCs are utilized. The ultimate responsibility for customer due diligence will be with the bank. Withdrawn
+
+3. The <u>Master Direction on KYC dated February 25, 2016</u>, is hereby updated to reflect the above changes and shall come into force with immediate effect. Yours faithfully, (Dr. S. K. Kar) Chief General Manager
