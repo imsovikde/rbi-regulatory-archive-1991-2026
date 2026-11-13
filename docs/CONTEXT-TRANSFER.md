@@ -6,7 +6,7 @@ You are the receiving agent. This file is your entire briefing. Read it top to b
 
 First action after reading: clone the repository named in Section 1, then commit this file into it at `docs/CONTEXT-TRANSFER.md` (one commit, message `docs: add living context transfer file`, authored by Souvik Dey, GPG-signed, Verified — see Section 6). The repository must carry its own context from then on. Then check the live repository state against Section 3. Where live GitHub state disagrees with this file, live state wins for counts and you must update this file to match.
 
-Last updated: 13 November 2026, 18:21 IST. Every later change to the facts in this file must update this line and the dated state block in Section 3. See Section 17 for the living-document protocol.
+Last updated: 13 November 2026, 19:47 IST. Every later change to the facts in this file must update this line and the dated state block in Section 3. See Section 17 for the living-document protocol.
 
 ---
 
@@ -49,7 +49,7 @@ Convert every PDF in the RBI Regulatory Archive (1991–2026) into GitHub-ready 
 
 ---
 
-## 3. Current verified state (13 November 2026, 18:21 IST)
+## 3. Current verified state (13 November 2026, 19:47 IST)
 
 Update this block in place whenever a fact below changes. Keep the old value struck through with its date; never silently overwrite history.
 
@@ -70,7 +70,7 @@ Update this block in place whenever a fact below changes. Keep the old value str
 
 - Repository: `imsovikde/rbi-regulatory-archive-1991-2026`, public, id `1456135028`, default branch `main`.
 - URL: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026
-- **Markdown files converted so far: ~~0 / 88,236~~ → ~~4,575 / 88,236 (5.1850%), 13 Nov 2026 14:46 IST~~ → ~~16,500 / 88,236 (18.6999%), 13 Nov 2026 ~18:05 IST~~ → 17,250 / 88,236 (19.5498%), 13 Nov 2026 ~18:21 IST.** STATE.json says done 17250, total 88,236 (verified from commit `f4d34e1`, batch #230).
+- **Markdown files converted so far: ~~0 / 88,236~~ → ~~4,575 / 88,236 (5.1850%), 13 Nov 2026 14:46 IST~~ → ~~16,500 / 88,236 (18.6999%), 13 Nov 2026 ~18:05 IST~~ → ~~17,250 / 88,236 (19.5498%), 13 Nov 2026 ~18:21 IST~~ → ~~23,775 / 88,236 (26.9448%), 13 Nov 2026 ~19:44 IST~~ → 23,925 / 88,236 (27.1148%), 13 Nov 2026 ~19:47 IST.** STATE.json says done 23925, total 88,236 (verified from README.md: Master-Directions 397/397, Notifications 10,279/10,527, Master-Circulars 1,013/1,013, Draft-Notifications-Guidelines 546/546, Circulars 11,690/11,690, Press-Releases 0/64,063).
 - Commits on `main` (newest first, all authored AND committed by Souvik Dey, all Verified):
   - `b2a9380` — "fix(workflows): checkout latest main so queued runs never go stale" — 13 Nov 2026 18:12 IST. Authored by imsovikde, committer GitHub (web-flow signature, Verified). 3 files, 27 additions, 0 deletions. Fixed Defect 4 (Section 4).
   - `8e18bf3` — "chore(index): rebuild indexes | 16500/88236 PDFs -> MD" — 13 Nov 2026 ~18:05 IST. GPG-signed, Verified. Conversion reached 16,500/88,236 (18.6999%) via chained runs after pilot run #2.
@@ -87,7 +87,7 @@ Update this block in place whenever a fact below changes. Keep the old value str
   - `abced89b`, `96291352` — earlier GPG setup commits.
 - **Pilot run #2 (Run 43387158709): SUCCESS / IN PROGRESS.** Dispatched 13 Nov 2026 13:08 IST. Steps 1–5 passed green in ~1 minute. Conversion loop actively executing; converted 3,375 files across 45 batches with zero failures in first 50 minutes. Chained runs then carried conversion to 16,500/88,236 (18.6999%) by ~18:05 IST (16,500 − 4,575 = 11,925 = 159 batches × 75).
 - **Run 43394196880 (workflow 01): FAILED.** Dispatched 13 Nov 2026 14:03 IST, head `dbe5544`; queued ~3h46m behind the concurrency group; job ran 17:50–17:52 IST and failed in 6 seconds at step 7 (startup index-recovery commit rebase conflict). Cause: see Section 4, Defect 4 (RESOLVED).
-- **Run 43427571590 (workflow 01): RUNNING, RESUME VERIFIED.** Dispatched 13 Nov 2026 18:13 IST on commit `b2a9380`, defaults (batch_size 75, max_batches_per_run 200, self_chain true). Resume proven: batches #221–#230 committed, reaching 17,250/88,236 (19.5498%) by ~18:21 IST. Self-chain at the run's time limit remains to be observed (the mechanism itself was proven by the earlier chained runs).
+- **Run 43427571590 (workflow 01): RUNNING, RESUME VERIFIED.** Dispatched 13 Nov 2026 18:13 IST on commit `b2a9380`, defaults (batch_size 75, max_batches_per_run 200, self_chain true). Resume proven: batches #221–#230 committed by ~18:21 IST (17,250/88,236, 19.5498%); conversion continued to 23,925/88,236 (27.1148%) by ~19:47 IST. Self-chain at the run's time limit remains to be observed (the mechanism itself was proven by the earlier chained runs).
 - **Bootstrap run #1: FAILED.** Run 43383089432, https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/actions/runs/43383089432, 13 November 2026 12:34–12:35 IST. Steps 1–5 passed (checkout, GPG signing setup, bundle download from Hugging Face, bundle commit as Verified). Step 6, "Dispatch Continuous Conversion Workflow (pilot: 2 batches, no self-chain)", FAILED. Cause: see Section 4, Defect 1 (RESOLVED).
 - **Pilot run #1: FAILED.** Run 43383873884, https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/actions/runs/43383873884, 13 November 2026 12:40–12:41 IST. Failed at step 5 (missing pip cache). Cause: see Section 4, Defect 2 (RESOLVED).
 - **Job logs cannot be downloaded through the unauthenticated GitHub API** (403 "Must have admin rights to Repository"). Read a failing step's log through the browser while signed in as the user, or through an authenticated API call.
@@ -153,6 +153,13 @@ Two defects block the engine. Both are in the workflow files that are already on
 - **Evidence:** Step 7 log (28 lines, read in the browser as imsovikde, 13 Nov 2026 18:09 IST): line 19 `fatal: index recovery commit failed: git pull --rebase origin main failed (exit 1)`; line 23 `error: could not apply 0bd87d39... chore(index): rebuild indexes (recovered from previous run)`. No Python traceback, no GPG/403/404/429/disk error.
 - **Fix (commit `b2a9380`, 13 Nov 2026 18:12 IST):** added `ref: main` to the checkout step (`actions/checkout@v4`, `with: token: ${{ secrets.GH_PAT }}`) in `00_bootstrap.yml`, `01_continuous_conversion.yml`, `02_weekly_rbi_hf_github_sync.yml`. Every run now checks out the tip of main when its job starts, so a queued run can never go stale. Nothing else changed: diff proves 9 added lines per file (comment + `ref: main`), 27 additions, 0 deletions; all three files parse as valid YAML. Converter, batching, signing, batch commit format (anydoc + OCR counts, [XX.XXXX%]) untouched. The runner itself was NOT changed (deliberate: avoid new-bug risk; the checkout fix removes the stale-head trigger at its root). Landed via the GitHub web UI in one commit, authored by imsovikde, committer GitHub (web-flow signature, Verified). Landed files verified byte-identical to the edited files by SHA-256 (00 `228b2f8b...`, 01 `1f97df52...`, 02 `d3dfe91c...`).
 - **Verification (PASSED 13 Nov 2026 ~18:21 IST):** run 43427571590, dispatched 18:13 IST on commit `b2a9380`, got past startup and converted batches #221–#230, reaching 17,250/88,236 (19.5498%) — latest commit `f4d34e1` "[19.5498%] 17250/88236 PDFs -> MD | Notifications/2009 Batch #230 | 69 anydoc + 6 OCR verified". Run in progress. Self-chain at the time limit remains to be observed; the mechanism was proven by the earlier chained runs.
+
+### Defect 5 — Workflows 00/01/02 used separate concurrency groups; concurrent pushes to main could collide (PREVENTIVE FIX)
+
+- **Fact:** 00, 01 and 02 each had their own concurrency group (`rbi-bootstrap-pipeline`, `rbi-markdown-conversion-pipeline`, `rbi-weekly-sync-pipeline`). 02 runs the normal runner and pushes batch commits; 00 commits the bundle and pushes; both can run while a 01 run is active, and their pushes (`git pull --rebase` + push on the same files: ledger, STATE.json, manifest, indexes) can collide the same way Defect 4 did. Not yet observed failing: no 02 run has overlapped a 01 run since the pipeline started (02 first runs Monday 17 Nov 2026 02:30 UTC; 00 already ran once successfully). Found by a full failure-mode audit on 13 Nov 2026 19:44 IST, ordered by the user after Defect 4.
+- **Evidence:** live workflow files read 13 Nov 2026 19:45 IST: 00 group `rbi-bootstrap-pipeline`, 01 group `rbi-markdown-conversion-pipeline`, 02 group `rbi-weekly-sync-pipeline`. 02 runs `python3 -m src.rbi_pipeline.runner`. 00 dispatches 01 via `gh workflow run 01_continuous_conversion.yml`.
+- **Fix (commit `4dd047d`, 13 Nov 2026 19:46 IST):** 00 and 02 now share 01's group `rbi-markdown-conversion-pipeline`. All three workflows that push to main serialize behind one group, so two of them can never push at once. 03 and `archive-update.yml` keep their own groups: they touch only `AUDIT.md` / `.archive-runs/last-run.txt`, files no other workflow touches, so they cannot conflict. Nothing else changed: diff proves only the group line plus a comment changed in each file; both files parse as valid YAML.
+- **Verification:** landed files verified byte-identical by SHA-256 (00 `a557d633...`, 02 `3ed3aa91...`). The queuing behaviour itself (a 02 run waiting behind an active 01 run) is verified only when it first happens — 02's first run is Monday 17 Nov 2026 02:30 UTC. Do not mark fully verified until then; the landing itself is verified.
 
 ---
 
@@ -278,7 +285,7 @@ Frontmatter fields (all required): `doc_id`, `title`, `category`, `year`, `sourc
 
 ### 00 — Bootstrap Pipeline (imsovikde Verified) — `00_bootstrap.yml`
 
-- Trigger: `workflow_dispatch` only. Concurrency group `rbi-bootstrap-pipeline`, cancel-in-progress false. Timeout 120 minutes.
+- Trigger: `workflow_dispatch` only. Concurrency group `rbi-markdown-conversion-pipeline` (shared with 01 and 02 — Defect 5 fix), cancel-in-progress false. Timeout 120 minutes.
 - Steps: checkout with `GH_PAT` → import GPG signing → download the bundle from Hugging Face `_pipeline/bootstrap/` using MANIFEST.txt → copy everything EXCEPT `.github/workflows/` → commit as Souvik Dey (Verified) → push → dispatch workflow 01 as the pilot (batch_size 75, max_batches_per_run 2, self_chain false).
 - Preserves live progress files: if STATE.json `done_count` is greater than 0, existing progress is kept, not overwritten.
 - Already ran once (run 43383089432, failed only at the dispatch step — Defect 1). Re-run it after the fix, or dispatch the pilot directly; either is correct.
@@ -288,7 +295,7 @@ Frontmatter fields (all required): `doc_id`, `title`, `category`, `year`, `sourc
 - Triggers: `workflow_dispatch` (inputs batch_size default "75", max_batches_per_run default "200", self_chain default "true") AND schedule watchdog cron `15 */6 * * *`.
 - Timeout 330 minutes. `MAX_RUNTIME_SECONDS` 17400 (290 minutes; flush and chain at 290 minutes).
 - Apt deps include tesseract-ocr-hin, ghostscript, poppler-utils, fonts-dejavu, qpdf. Python 3.11. Pip install in two groups, with `|| true` on the heavy OCR group.
-- Concurrency group `rbi-markdown-conversion-pipeline`, cancel-in-progress false.
+- Concurrency group `rbi-markdown-conversion-pipeline`, cancel-in-progress false. Shared with 00 and 02 (Defect 5 fix): all workflows that push to main serialize behind this one group, so two of them can never push at once. Do not give 00, 01 or 02 a separate group.
 - Flow: setup → install stack → run the runner (per-batch signed commits) → at the time limit, flush, rebuild indexes, commit STATE.json → if remaining work is greater than 0, fire `gh workflow run 01_continuous_conversion.yml --ref main` (self-chain, via `GITHUB_TOKEN`). Self-chain requires Defect 1's fix.
 - Checkout pins `ref: main` (Defect 4 fix, commit `b2a9380`, 13 Nov 2026): a run dispatched while another is active checks out the tip of main when its job starts, never the stale dispatch-time commit. Do not remove this line.
 - Pilot settings: batch_size 75, max_batches_per_run 2, self_chain false = 150 files, no auto-chain. The pilot exists so a human verifies the first Markdown files and Verified commits before the full run is dispatched by hand. Do not raise these numbers in a pilot dispatch.
@@ -296,6 +303,7 @@ Frontmatter fields (all required): `doc_id`, `title`, `category`, `year`, `sourc
 ### 02 — Weekly RBI Hugging Face to GitHub Sync — `02_weekly_rbi_hf_github_sync.yml`
 
 - Triggers: schedule Monday 02:00 UTC (Hugging Face side sync) and 02:30 UTC (GitHub workflow); also `workflow_dispatch`.
+- Concurrency group `rbi-markdown-conversion-pipeline` (shared with 00 and 01 — Defect 5 fix), cancel-in-progress false. A weekly sync run waits behind an active conversion run, so the two can never push to main at once.
 - Flow, using only real, tested CLIs:
   1. Discover: `python3 -m src.rbi_pipeline.rbi_crawler --urls manifest/pdf_final_direct_urls.txt --ledger manifest/sha256_conversion_ledger.csv --out .cache/sync/new_documents.json`. **Mandatory direct RBI fallback crawl even if Hugging Face shows zero new.**
   2. Register: `scripts/register_new_documents.py` (Section 9). Backfills to Hugging Face when `HF_TOKEN` is set.
@@ -375,6 +383,7 @@ Frontmatter fields (all required): `doc_id`, `title`, `category`, `year`, `sourc
 8. **Workflow 02 CLI mismatch:** the original 02 invoked CLI forms that do not exist (`rbi_crawler discover` / `backfill-hf` subcommands, `runner --sync-only --new-documents`, `indexer --rebuild`). It was rewritten to real, tested CLIs plus `scripts/register_new_documents.py` (Section 9).
 9. **`rbi_crawler.derive_canonical_name`** gained a `category` parameter (the register script passes the crawler's classification instead of re-guessing from the bare PDF URL).
 10. **Defect 4 (stale checkout rebase conflict):** see Section 4. Fix: `ref: main` in the checkout step of 00/01/02 (commit `b2a9380`, 13 Nov 2026). Do not remove `ref: main`.
+11. **Defect 5 (separate concurrency groups):** see Section 4. Fix: 00/01/02 share the group `rbi-markdown-conversion-pipeline`. Do not give 00, 01 or 02 a separate group.
 
 ### Open limitations (recorded, not defects)
 
