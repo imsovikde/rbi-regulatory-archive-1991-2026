@@ -1,0 +1,42 @@
+---
+doc_id: "Press-Releases_2013_30224"
+title: "Increase in Foreign Investment Limit/ Ceiling in an Indian Company under PIS : M/s T.D. Power Systems Limited"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1238TDP1213.pdf"
+pdf_sha256: "def73768e8dc0cb0a67bd53d5b756e54ae8e9961b9651b168ae6bbc0d1c68579"
+md_sha256: "eabbda875ec6530ee2c793aa003464e1379d91fe479e096ed465e68c5b0f96c9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:23:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-12-19_Press-Release_30224_Increase%20in%20Foreign%20Investment%20Limit-%20Ceiling%20in%20an%20Indian%20Company%20under%20PIS%20-%20M-s%20T.D.%20Power%20Systems%20Limited.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Increase in Foreign Investment Limit/ Ceiling in an Indian Company under PIS : M/s T.D. Power Systems Limited
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u> December 19, 2013
+
+## Increase in Foreign Investment Limit/
+
+## Ceiling in an Indian Company under PIS :
+
+## M/s T.D. Power Systems Limited
+
+The Reserve Bank of India today notified that <u>M/s T.D. Power Systems Limited</u> has passed resolutions at the Board of Directors' level and a special resolution by the shareholders, agreeing for enhancing the limit for the purchase of its equity shares and convertible debentures by Foreign Institutional Investors through primary market and stock exchanges up to 49% of the paid up capital of the company under Portfolio Investment Scheme.
+
+## Ajit Prasad
+
+## Press Release : 2013-2014/1238
+
+Assistant General Manager
