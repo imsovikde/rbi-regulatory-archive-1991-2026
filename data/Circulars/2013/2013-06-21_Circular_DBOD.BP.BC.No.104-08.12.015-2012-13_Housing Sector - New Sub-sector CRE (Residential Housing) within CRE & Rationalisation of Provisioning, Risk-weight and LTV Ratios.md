@@ -1,0 +1,65 @@
+---
+doc_id: "Circulars_2013_DBOD_BP_BC_No_104_08_12_015_2012-13"
+title: "Housing Sector : New Sub-sector CRE (Residential Housing) within CRE & Rationalisation of Provisioning, Risk-weight and LTV Ratios"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FHSE21062013.PDF"
+pdf_sha256: "f6205a59155b7173702d9814eb0d71299ab51e91848872445bbf6f59cfa31138"
+md_sha256: "e0fec3782b1b57d937d959fa589d16c880cc9c36a206754c799871dab7332c74"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:57:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-06-21_Circular_DBOD.BP.BC.No.104-08.12.015-2012-13_Housing%20Sector%20-%20New%20Sub-sector%20CRE%20%28Residential%20Housing%29%20within%20CRE%20%26%20Rationalisation%20of%20Provisioning%2C%20Risk-weight%20and%20LTV%20Ratios.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Housing Sector : New Sub-sector CRE (Residential Housing) within CRE & Rationalisation of Provisioning, Risk-weight and LTV Ratios
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/ 538 DBOD.BP.BC.No. 104/08.12.015/2012-13 June 21, 2013
+
+All Scheduled Commercial Banks (excluding RRBs )
+
+Dear Sir,
+
+## <u>Housing Sector: New sub-sector CRE (Residential Housing) within CRE &</u>
+
+## <u>Rationalisation of provisioning, risk-weight and LTV ratios</u>
+
+Please refer to paragraph 82 of the Monetary Policy Statement 2013-14 (extract enclosed) on ‘Commercial Real Estate -Residential Housing: Prudential Norms’, announced on May 3, 2013, wherein it was stated that a separate sub-sector of ‘CRE-Residential Housing’ will be carved out of CRE sector.
+
+2. As loans to the residential housing projects under the Commercial Real Estate (CRE) Sector exhibit lesser risk and volatility than the CRE Sector taken as a whole, it has been decided to carve out a separate sub-sector called Commercial Real Estate – Residential Housing (CRE-RH) from the CRE Sector. CRE-RH would consist of loans to builders/developers for residential housing projects (except for
+# Withdrawn
+
+captive consumption) under CRE segment. Such projects should ordinarily not include non-residential commercial real estate. However, integrated housing projects comprising of some commercial space (e.g. shopping complex, school, etc.) can also be classified under CRE-RH, provided that the commercial area in the residential housing project does not exceed 10% of the total Floor Space Index (FSI) of the project. In case the FSI of the commercial area in the predominantly residential housing complex exceeds the ceiling of 10%, the project loans should be classified as CRE and not CRE-RH.
+
+3. The above-mentioned CRE-RH segment will attract a lower risk weight of 75% and lower standard asset provisioning of 0.75% as against 100% and 1.00%, respectively for the CRE segment. ----------------------------------------------------------------------------------------------------------------------------------------------- **DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT, CENTRAL OFFICE, 12**
+**th** **Floor, Central** **Office Building, Shahid Bhagat Singh Marg, Mumbai-400 001 E-mail : cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+4. In terms of our <u>circular DBOD.No.BP.BC.69/08.12.001/2010-11 dated December</u> <u>23, 2010</u> on ‘Housing Loans by Commercial Banks - LTV Ratio, Risk Weight and Provisioning’, banks are required to make provisions and risk-weight for their housing loans to individuals as per the amount of loans as also the Loan to Value (LTV) ratio for such loans. Further, risk weight and provisioning requirement for CRE Exposures are prescribed vide <u>circulars DBOD.No.BP.BC.83/21.01.002/2008-09</u> <u>dated November 15, 2008</u> and <u>DBOD.No.BP.BC.58/21.04.048/2009-10 dated</u> <u>November 5, 2009</u>, respectively. It has been decided to rationalise the prudential norms on risk-weight, provisioning and LTV ratio for individual housing loans, CRE and CRE-RH exposures, as under:
+
+|Category of Loan|LTV Ratio (%)|Risk Weight (%)|Standard Asset Provisioning (%)|
+|---|---|---|---|
+|(a) Individual Housing Loans||||
+|(i) Up to Rs. 20 lakh (ii) Above Rs. 20 lakh and up to Rs. 75 lakh (iii) Above Rs.75 lakh|90 80 75|50 50 75|0.40 0.40 0.40|
+|(b) CRE-RH|N A Withdrawn|75|0.75|
+|(c) CRE|N A|100|1.00|
+
+**Note:** 1 -The LTV ratio should not exceed the prescribed ceiling in all fresh cases of sanction. In case the LTV
+ ratio is currently above the ceiling prescribed for any reasons, efforts shall be made to bring it within limits. 2 – Banks’ exposures to third dwelling unit onwards to an individual will also be treated as CRE exposures, as indicated in paragraph 2 in <u>Appendix 2 to Circular DBOD.BP.BC.No.42/08.12.015/2009-10 dated September 9,</u> <u>2009</u> on ‘Guidelines on Classification of Exposures as Commercial Real Estate (CRE) Exposures’.
+5. We advise that our extant instruction requiring additional risk-weight of 25 percentage points for restructured housing loans and higher provisioning of 2% (circular DBOD.No.BP.BC.69/08.12.001/2010-11 December 23, 2010) for housing loans extended at teaser rates by banks will continue to remain in force. Yours faithfully, (Chandan Sinha) Principal Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Extract from Monetary Policy Statement 2013-14
+
+Commercial Real Estate-Residential Housing: Prudential Norms
+
+82. In September 2009, the Reserve Bank had issued guidelines on classification of certain exposures as Commercial Real Estate (CRE) exposures. CRE exposures are sensitive in view of their inherent price volatilities. Therefore, these exposures generally attract higher risk weights and higher provisioning requirements. However, it has been generally observed that the residential housing complex sector under the CRE poses lower risk than the other components of CRE sector. Accordingly, it is proposed to:
+- carve out a sub-sector of ‘CRE-Residential Housing’ within the CRE sector with appropriate prudential regulatory norms on risk weights and provisioning. Detailed guidelines will be issued by end-June 2013.
+# Withdrawn

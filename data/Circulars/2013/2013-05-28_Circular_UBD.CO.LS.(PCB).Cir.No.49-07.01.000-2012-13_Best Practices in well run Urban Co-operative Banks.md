@@ -1,0 +1,116 @@
+---
+doc_id: "Circulars_2013_UBD_CO_LS_PCB_Cir_No_49_07_01_000_2012-13"
+title: "Best Practices in well run Urban Co-operative Banks"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PCB49BP290513.PDF"
+pdf_sha256: "12319b74bd20350a2acd64c2c023055f75142b7f475a1d5f87b3af9cd6b77309"
+md_sha256: "e6a622181c925842318c80a8f4ba7c59c64d80d660346c6613dbd3e1aff81be4"
+total_pages: 3
+native_pages: 2
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:57:25Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-05-28_Circular_UBD.CO.LS.%28PCB%29.Cir.No.49-07.01.000-2012-13_Best%20Practices%20in%20well%20run%20Urban%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Best Practices in well run Urban Co-operative Banks
+
+<!-- PAGE 1 -->
+
+yl
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/513
+
+UBD.CO.LS.(PCB).Cir.No.49/07.01.000/2012-13
+
+May 28, 2013
+
+ChiefExecutiveOfficersof
+
+allPrimary (Urban) Co-operative Banks
+
+Dear Sir/ Madam,
+
+Best Practices inwell run Urban Co-operative Banks
+
+Pleaserefer to our circular UBD.No.BPD.1P.24/12.05.01/2004-05 dated October 20,2004
+
+the urban banking centres as examples. In this connection, we have again compiled and
+
+documented the best practices observed in well managed banks which have been
+
+summarised and furnished in the Annexure for your guidance. Please note that the best
+
+practices furnished in the Annexure are only illustr
+
+e in nature and you are free to put in
+
+placeanyotherpracticeswhichwouldresult
+
+better customer service and business
+
+development.
+
+Please acknowledge receipt of this c
+
+o the Regional Office concerned.
+
+Vithdrawn
+
+Yours faithfully,
+
+(Kamala Rajan)
+
+Chief General Manager
+
+，4
+
+时可:022- 2493 9930 - 49;cFH:022- 2497 4030/2492 0231;$ : cgmincubd@rbi.org.in
+
+UrbanBanks Department,Central Office,Garment House,1 Floor,Dr.A.B.Road,Worli,Mumbai-400018,India
+
+Phone:022-24939930-49;Fax:022-24974030/24920231;Email:cgmincubd@rbi.org.in
+
+Caution:RBl never sends mails, SMSs or makes calls asking for personal information like bank account details,passwords,etc.lt never
+
+keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+## S.No
+
+**A**
+
+3 **B**
+
+**C**
+
+**D**
+
+**E** 1 2 3
+
+**F**
+
+## Annexure-Best Practices
+
+**Resource mobilization and deployment of resources-maintenance of liquidity-compliance with CRR / SLR requirements :**
+
+Review of the funds position and asset liability mismatches on a regular basis through statement of structural liquidity and interest rate sensitivity. Periodic review of the deposit rates and loan pricing so that they are in line with market rates. Comprehensive Investment policy in place so that compliance to CRR/SLR is ensured. **Management of NPAs :** System of market intelligence for deciding credibility of borrowers while considering loan proposals. Stress assets are not allowed to accumulate with vigorous recovery drive. Well diversified loan portfolio in terms of number of borrowers so as to avoid concentration risk. Quality of credit appraisal to be factored in while giving ex-gratia incentives to employees annually. Detailed and comprehensive format for preparing credit appraisal report for facilitating sound credit granting decisions and post disbursement supervision and follow up. Creation of a separate loan review and audit department, by an independent set of personnel to review the sanctioned loans so as to set right irregularities observed. Employees to be organized into groups and each group to be given a group of borrowers for monitoring or recovery. By this practice, early warning signals from the borrower can be picked up and closely followed up by the employees. Unique ways of letting the customer know that his loan is overdue like inviting delinquent borrowers to the branch for tea. The letter may be worded like an invitation. When the borrower arrives, they may gradually be brought to the issue of non-payment of dues. **Expenditure control and maximization of profit :** Strict ceiling on the dividend declaration irrespective of the profit earned (cap of say not
+
+# Withdrawn
+
+more than 12-15% dividend or limit fixed under state co-op societies Act, whichever is lower irrespective of profit). Closure of the loss making branches to cut down the expenditure and laying off inefficient staff. **System of reporting to Board of Directors and professionalization of management :** Appointing a senior officer as secretary to the Board, and making him responsible for handling the bank’s board and sub-committees related affairs including preparation of agenda and minutes as also for follow up on the decisions undertaken. **Employee motivation :** Fair and transparent recruitment and performance appraisal system. Regular meetings of the family members of all employees. Regular in-house and external trainings. Reward and motivation scheme wherein a few top performing employees to be chosen for special recognition and award every year. The employee may be honored by the Board in the presence of his family. Issue of ID cards and uniform across the cadre of the bank so as to create a brand identity that may instill a sense of pride in the employees. **Customer service :** Installation of Note counting machines outside the counters/in the banking hall for the added convenience and satisfaction of the customers.
+
+<!-- PAGE 3 -->
+
+Providing hand-held IT enabled device to deposit agents to ensure on-spot entry of deposits tendered by customers for quick credit in their accounts. Organization of regular customer and borrower meets providing a platform to voice their 3 difficulties and problems. 4 Designing of counters and study of workflow so as to minimize the queue/waiting time. 5 Single window mechanism for all banking transactions. **G System and Control :** Maintaining the A/c opening forms and KYC documents at a central repository to ensure 1 their safety. 2 A/c opening authority to rest with two officers. Thanks giving letter to be issued to both the account holder as well as the introducer to 3 ensure confirmation of the fact of opening and introduction of account at later stage. System of surprise verification of cash, gold stock, blank FD receipt forms, DD forms, 4 cheque books etc. held by the branches by the internal inspector. The inoperative accounts to be generally segregated and monitored under the 5 supervision of the branch manager or any one of the senior officials on an annual basis and interest to be credited to the balances held under inoperative SB a/cs. System of delivering the confidential Login Password and Transaction password to the 6 Internet banking users, through two different courier agencies courier agencies so as to prevent possible misuse of crucial passwords. One Time Password for all financial transactions for each login. This practice, although 7 could be an irritant, is a very good system of ensuring Internet banking security. 8 Comprehensive Disaster recovery mechanism to be put in place. **H Operational efficiency :** 1 Recruitment of staff based on an online examination conducted by an outside agency. 2 Core banking facility to be provided. **I Corporate Social Responsibility :** 1 Scholarship to the needy and intelligent students at local level.
+
+# Withdrawn
+
+Social service such as sponsoring child for education, providing free meals at religious 2 places during festivals etc. <u>3</u> Introduction of Ambulance service.

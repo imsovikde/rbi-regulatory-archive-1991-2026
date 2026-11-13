@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2013_RPCD_CO_RRB_BC_No_78_03_05_33_2012-13"
+title: "Acknowledgement by RRBs at the Time of Submission of Form 15-G / 15-H"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SUBFGH250613.PDF"
+pdf_sha256: "118bc5e750aae31564c97964214fd08c4bbe951e2249b75f629473e77809e182"
+md_sha256: "1a23d2124bf10e2a0ed4d8a6f9b9793ae6cf3ba45907ae01f7ce26bd1532651b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:57:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-06-24_Circular_RPCD.CO.RRB.BC.No.78-03.05.33-2012-13_Acknowledgement%20by%20RRBs%20at%20the%20Time%20of%20Submission%20of%20Form%2015-G%20-%2015-H.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Acknowledgement by RRBs at the Time of Submission of Form 15-G / 15-H
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** www.rbi.org.in RBI/2012-13/542 RPCD.CO.RRB.BC.No.78/03.05.33/2012-13 June 24, 2013
+
+### All Regional Rural Banks
+
+Dear Sir/Madam,
+
+### Acknowledgement by RRBs at the time of submission of Form 15-G / 15-H
+
+As you are aware RRBs are not required to deduct TDS from depositors who submit declaration in Form 15-G/15-H under Income Tax Rules, 1962. However, it has been brought to our notice that despite submission of Form 15-G/15-H by customers, RRBs are deducting tax at source, at times, causing inconvenience to customers resulting in a number of complaints. Such instances arise because either the forms are misplaced or a track is not kept of forms received in the branches.
+
+2. The matter has been examined. With a view to protect interest of the depositors and for rendering better customer service, RRBs are advised to give an acknowledgment at the time of receipt of Form 15-G/15-H. This will help in building a system of accountability and customers will not be put to inconvenience due to any omission on part
+# Withdrawn
+
+of the banks.
+
+Yours faithfully,
+
+( A. Udgata) Principal Chief General Manager
+
+मामीण आयोजना और ऋण वभाग,के ���य कायालय,10 वी मंजल, क िय कायालय भवन, शहद भगतिसंह माग,पोःट बॉस सं. 10014,मुंबई -400 001 Rural Planning & Credit Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai 400001 टेली Tel :022-22601000 फै सः 91-22-22621011/22610943/22610948 ई -मेल : <u>cgmicrpcd@rbi.org.in</u> हंद आसान है**,**इसका ूयोग बढ़ाइए। **“**चेतावनी **:**-मेल रज़व बक ारा डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी ����गत जानकार जैसे बक के खाते का �यौरा**,** पासवड आद नहं मांगी जाती है। यह धन रखने या देने का ूःताव भी नहं करता है। ऐसे ूःताव का कसी भी तरके से जवाब मत द�जए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

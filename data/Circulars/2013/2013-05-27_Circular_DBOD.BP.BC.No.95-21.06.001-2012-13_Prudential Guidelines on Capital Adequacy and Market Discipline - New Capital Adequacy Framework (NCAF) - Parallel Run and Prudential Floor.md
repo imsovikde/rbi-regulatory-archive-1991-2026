@@ -1,0 +1,88 @@
+---
+doc_id: "Circulars_2013_DBOD_BP_BC_No_95_21_06_001_2012-13"
+title: "Prudential Guidelines on Capital Adequacy and Market Discipline - New Capital Adequacy Framework (NCAF) - Parallel Run and Prudential Floor"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CWIR27052013.PDF"
+pdf_sha256: "b67c8b8cd383e945606b41e63875d0e3a63bbf17490811e1a747243968d2c8a5"
+md_sha256: "07623c0b39dc1db30f04da7ae151df005ed202873743289f6997f45e51b3c46c"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:57:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-05-27_Circular_DBOD.BP.BC.No.95-21.06.001-2012-13_Prudential%20Guidelines%20on%20Capital%20Adequacy%20and%20Market%20Discipline%20-%20New%20Capital%20Adequacy%20Framework%20%28NCAF%29%20-%20Parallel%20Run%20and%20Prudential%20Floor.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Guidelines on Capital Adequacy and Market Discipline - New Capital Adequacy Framework (NCAF) - Parallel Run and Prudential Floor
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/508
+
+DBOD.BP.BC.N0.95/21.06.001/2012-13
+
+May 27, 2013
+
+The Chairman and Managing Director/
+
+ChiefExecutive Officer of
+
+AllScheduledCommercialBanks
+
+(excluding LABs and RRBs)
+
+Dear Sir
+
+Prudential Guidelines on Capital Adequacy and Market Discipline -
+
+NewCapital Adequacy Framework(NCAF)-Parallel Run and Prudential Floor
+
+Please refer to our circular DBOD.BP.BC.No.71/21.06.001/2010-11 dated December 31.
+
+2010 on the above subject, in terms of which banks were advised to continue with the
+
+parallel run for a period of three years, till March.
+
+2013, subject to review. Banks were
+
+capital requirement continues to be
+
+higher than the prudential floor of 80%
+
+nimum capital requirement computed as
+
+per Basel I framework for credit and
+
+risks
+
+i
+
+implementation of Basel Il vis-a-vis Basel I is hereby withdrawn.
+
+3. In view of the above, banks are not required to furnish a copy of parallel run report to
+
+Reserve Bank of India in the reporting format prescribed in para 2.4 read with Annex 1 of
+
+the Master Circular on Prudential Guidelines on Capital Adequacy and Market Discipline-
+
+New Capital Adequacy Framework (NCAF)
+
+DBOD.No.BP.BC.16/21.06.001/2012-13
+
+dated July 2, 2012.
+
+Yours faithfully,
+
+(Chandan Sinha)
+
+Principal Chief General Manager
+
+400001
+
+TelNo:22661602/FaxNo:22705691E-mail:cgmicdbodco@rbi.org.in
