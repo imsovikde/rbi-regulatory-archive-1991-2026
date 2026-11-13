@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2007_DBOD_No_IBD_BC_71_23_67_001_2006-2007"
+title: "Gold (Metal) Loan - Tenor of"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76592.PDF"
+pdf_sha256: "033dc233feb289d5ab323b0efb7500cc45a70bff68a207e92f13caeb1b8a7220"
+md_sha256: "f4522963761cb090bd0746fe0807decfa570eed0adb445a2ae8fb0b8f1a038d1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-04-03_Circular_DBOD.No.IBD.BC.71-23.67.001-2006-2007_Gold%20%28Metal%29%20Loan%20-%20Tenor%20of.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Gold (Metal) Loan - Tenor of
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/302 DBOD.No.IBD.BC.71/23.67.001/2006-2007 April 3, 2007 All Scheduled Commercial Banks (excluding RRBs )
+
+Dear Sir, **Gold (Metal) Loan – tenor of** In terms of our circular DBOD.No.IBD.BC.33/23.67.001/2005-06 dated September 5, 2005 it was advised that banks nominated to import gold* as per extant instructions may extend Gold (Metal) Loans to domestic jewellery manufacturers, who are not exporters of jewellery, subject to conditions specified therein. One of the conditions was that the tenor of the gold loan for the domestic jewellery manufacturers should not exceed 90 days. It was also stipulated that banks should ensure end-use of gold loans to jewellery manufacturers and adhere to KYC guidelines. In this connection, we have been receiving representations that the above mentioned tenor of the gold loan may be extended so as to meet the changed requirements of the domestic jewellery manufacturers. The matter has been examined by us and it has been decided to allow the nominated banks themselves to decide the tenor of the Gold (Metal) Loans-which they are permitted to extend to domestic jewellery manufacturers, who are not exporters of jewellery - *provided* the tenor does not exceed 180 days and the bank's policy with regard to the tenor and monitoring of end use of gold loans is documented in the bank's loan policy and strictly adhered to.
+
+2. It is advised that the above mentioned guidelines will be reviewed in the light of experience Withdrawn gained, and that the performance of the banks in regard to monitoring the end-use of gold loans will be an important factor in deciding upon their future requests for annual renewal of authorization to import gold / silver.
+3. All other conditions stated in our circular DBOD.No.IBD.BC.33/23.67.001/ 2005-06 dated September 5, 2005 in this regard remain unchanged.
+4. Please acknowledge receipt.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-in-Charge
+
+*** Updated list of nominated banks is available on our website and is enclosed for ready reference.
+
+<!-- PAGE 2 -->
+
+## List of nominated banks
+
+(As on April 3, 2007)
+
+1. Allahabad Bank
+2. Bank of Nova Scotia
+3. Bank of India
+4. Canara Bank
+5. Corporation Bank
+6. Dena Bank
+7. HDFC Bank Ltd.
+8. ICICI Bank Ltd.
+9. Indian Overseas Bank 10 IndusInd Bank Ltd. 11 Oriental Bank of Commerce 12 Punjab National Bank 13 State Bank of India 14 Union Bank of India
+15. UTI Bank Ltd
+16. Indian Bank
+17. Kotak Mahindra Bank Ltd
+18. Syndicate Bank
+19. Federal Bank Ltd.Withdrawn

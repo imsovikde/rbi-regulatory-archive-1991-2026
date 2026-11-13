@@ -1,0 +1,133 @@
+---
+doc_id: "Circulars_2007_UBD_CO_BPD_PCB_No_31_12_05_001_2006-07"
+title: "Report of the Working Group to Formulate a Scheme for Ensuring Reasonableness of Bank Charges"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76194.PDF"
+pdf_sha256: "49bb98b1523970c2b06219a828ede3e7871776669075314ef7a68726193e6049"
+md_sha256: "dac1b69bd07add920ef6190860262aed2fb4ade5201beba6a3c757eb5b49b000"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-03-09_Circular_UBD.CO.BPD.%28PCB%29.No.31-12.05.001-2006-07_Report%20of%20the%20Working%20Group%20to%20Formulate%20a%20Scheme%20for%20Ensuring%20Reasonableness%20of%20Bank%20Charges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Report of the Working Group to Formulate a Scheme for Ensuring Reasonableness of Bank Charges
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/284 UBD. CO. BPD. (PCB). No. 31/12.05.001 / 2006-07 March 9, 2007
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## Report of the Working Group to formulate a scheme for ensuring reasonableness of bank charges
+
+Please refer to our circulars UBD. BPD. PCB. Cir. 54 / 09.39.000 / 2005-06 dated May 26, 2006 and UBD.PCB.Cir.No.4 /09.39.000/06-07 dated July 24, 2006 on display of service charges by urban co- operative banks.
+
+2. As announced in the Annual Policy Statement for the year 2006-07, in order to ensure fair practices in banking services, Reserve Bank of India had constituted a Working Group to formulate a scheme for ensuring reasonableness of bank charges. The Working Group has since submitted its report. The recommendations of the Working Group have been examined and accepted by Reserve bank of India with certain modifications.
+3. Action required to be taken by urban co-operative banks is indicated under the column "action points for banks" in the Annex to this circular.
+Yours faithfully,
+
+# Withdrawn
+
+(S.S.Barik) General Manager
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Recommendations of the Working Group to formulate a scheme for ensuring reasonableness of bank charges
+
+## Sl. Recommendations of working group as accepted by Action points for banks
+
+## <u>No. RBI</u>
+
+1 **Identification of basic banking services**
+
+Banks have to follow two broad parameters for identifying As indicated in annex -1 the basic banking services: to circular UBD (PCB) Cir. No. 54/09.39.000/05-
+
+**(A) Nature of transactions** 06 dated May 26, 2006.
+The list of services
+
+(a) Banking services that are ordinarily availed by individuals identified is only an in the middle and lower segments, will be the first indicative one and banks parameter. This will comprise services related to may, at their discretion, deposit/loan accounts, remittance services and collection include within the services. category of basic
+(b) When the above transactions occur in different delivery services such additional channels, for the purpose of pricing, they may be treated on services as they may a separate footing. consider appropriate.
+## (B) Value of transactions
+
+Low value of transactions with customers / public up to the ceiling as given below will be the second parameter:
+
+(i) Remittance upto Rs. 10,000/- in each instance (ii) Collections below Rs. 10,000/- in each instance. (Foreign exchange transactions valued up to $ 500/-)
+Based on the two parameters, the Working Group recommends enumeration of the following as the basic
+
+# Withdrawn
+
+banking services:
+
+|Sr. No|Service|
+|---|---|
+|Relating to deposit accounts||
+|1 Cheque book facility||
+|2 Issue of Pass Book (or Statement)/Issue of||
+|Balance Certificate||
+|3 Issue of duplicate pass book or statement||
+|4 ATM Cards||
+|5 Debit cards (electronic cheque)||
+|6 Stop payment||
+|7 Balance enquiry||
+|8 Account closure||
+|9 Cheque Return – Inward (Cheque received for||
+|payment)||
+|10 Signature verification 11 No dues certificate Remittance facilities (including through other banks) (Rupee or foreign exchange) 12 Demand Draft – issue 13 Demand Draft – Cancellation|Relating to loan accounts|
+
+## Demand Draft – revalidation
+
+<!-- PAGE 3 -->
+
+|15|Demand Draft – Duplicate issuance|
+|---|---|
+|16|Payment Order – issue|
+|17|Payment Order – Cancellation|
+|18|Payment Order – revalidation|
+|19 20 Telegraphic Transfer—Issue|Payment Order – Duplicate issuance|
+|21|Telegraphic Transfer – Cancellation|
+|22|Telegraphic Transfer – Duplicate Issuance|
+|23|Payment by Electronic Clearing Services (ECS)|
+|24|Transfer by National Electronic Fund Transfer (NEFT) and Electronic Funds Transfer (EFT)|
+|25|Collection of Local Cheques|
+|26|Collection of Outstation Cheques|
+|27|Cheque Return – Outward (Cheque deposited|
+
+## Collection facilities
+
+for collection)
+
+The above list is compiled only as a guide and the list may not be treated as exhaustive. Banks, may at their discretion, include within the category of basic services such additional services as they consider appropriate.
+
+2 **Offering basic banking services outside the scope of** **bundled products**
+
+Some of the banks do not levy charges on each individual Banks may implement product or service. Products and services are bundled and the recommendations of offered to a customer as a composite offering. The bank the Working Group on recovers the cost of these operations through net interest making available the income. The bank achieves break-even levels through basic banking services at higher average balances in customer accounts which yieldWithdrawnreasonable prices / healthy interest margins or by imposing charges for keeping charges and towards inadequate balances. In so far as the basic services are this, delivering the basic concerned, the bank's objective should be to ensure that services outside the these are made available to the users at reasonable prices / scope of the bundled charges and towards this, the basic services should be products. delivered outside the scope of the bundled products. 3 **Principles for ensuring reasonableness in fixing and** The principles for **communicating the service charges** ensuring reasonableness in fixing and
+
+(a) For basic services to individuals, the banks will levy communicating the charges at the rates that are lower than the rates applied service charges, as when the same services are given to non-individuals.
+enunciated by the
+
+(b) For basic services rendered to special category of Working Group, may be individuals (such as individuals in rural areas, pensioners adopted / followed by and senior citizens), banks will levy charges on more liberal banks. terms than the terms on which the charges are levied to other individuals.
+(c) For the basic services rendered to individuals, banks will levy charges only if the charges are just and supported by reason.
+(d) For the basic services to individuals, the banks will levy <u>service charges ad-valorem only to cover any incremental</u>
+
+<!-- PAGE 4 -->
+
+||cost and subject to a cap. (e) Banks will provide to the individual customers upfront and in a timely manner, complete information on the charges applicable to all basic services. (f) Banks will provide advance information to the individual customers about the proposed changes in the service charges. (g) Banks will collect for services given to individuals only such charges which have been notified to the customer. (h) Banks will inform the customers in an appropriate manner recovery of service charges from the account or the transaction. Banks will without fail inform the customers in all cases when a transaction initiated by the bank itself results in or is likely to lead to a shortfall in the minimum balance required to be maintained.||
+|---|---|---|
+|4|Disclosure and notification of service charges: It is imperative that the customers are made aware of the service charges upfront and the changes in services are made aware of the charges are implemented only with prior notice to the service charges upfront customers. For changes made in the charges, the notice to customers need not necessarily be to each individual charges are implemented customer, as it would be costly and impractical. The only with the prior notice Working Group finds that for proper disclosure, the banks would do well to fully recognize the following needs of the customers and take steps to ensure that these are met: Withdrawn (A) Disclosure of the service charges: • Banks may consider the option of carrying out a onetime publicity of the service charges so that all customers are made aware of the charges; • The need for communicating the service charges to the new customers at the time of beginning of the relationship. • The need for displaying the charges in the notice board at the branch and advertising in newspapers, so as to disseminate information to the customers/public, in addition to display on the website as per Reserve Bank instructions. • The need for using appropriate method for communicating the service charges to customers of different profiles. (B) Notifying the changes effected in the charges • The need for effecting any change in the charges only with prior notification to the customers of at least 30 days. • The need for providing an option to the customer to accept the change and if not accepted, to exit from the relationship with the bank within the above 30 days without any cost.|Banks may take steps to ensure that customers and changes in service to the customers.|
+
+<!-- PAGE 5 -->
+
+||• Banks may consider the option of advertising the changes in newspapers. • The need for including the information regarding the changes in any communication sent to the customer. • The need for displaying prominently in the notice board as well as the website all the changes effected in the preceding 30 days.||
+|---|---|---|
+|5|Other recommendations (i) Deficiencies in the redressal of grievances about service charges Deficient grievance redressal in the banks, including a process of prolonged correspondence, always leads to complaints being escalated to the Banking Ombudsman/Reserve Bank of India. Banks are therefore required to have a robust grievance redressal structure and processes to ensure prompt in-house redressal of all their customer complaints. (ii) Financial Education The Working Group recommends that full-fledged information on bank products and their implications are to be disclosed to the customers so that the customers can make an informed judgment about their choice of products.|The recommendations of the Working Group relating to redressal of grievances and financial education, as brought out in column 2, may be implemented by banks.|
+
+Withdrawn

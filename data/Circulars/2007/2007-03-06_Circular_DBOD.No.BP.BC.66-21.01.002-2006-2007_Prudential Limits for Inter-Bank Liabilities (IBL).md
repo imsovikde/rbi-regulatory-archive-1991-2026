@@ -1,0 +1,48 @@
+---
+doc_id: "Circulars_2007_DBOD_No_BP_BC_66_21_01_002_2006-2007"
+title: "Prudential Limits for Inter-Bank Liabilities (IBL)"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76128.PDF"
+pdf_sha256: "69cac3a26d12393d25cf12d46d14c3d0b5b4e08db0d125a130abd4a88947655a"
+md_sha256: "98f0b29b2bf84bd0a333aca2b6dd60e9b666e23d061b16cbee5d5c5d3d0f3307"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-03-06_Circular_DBOD.No.BP.BC.66-21.01.002-2006-2007_Prudential%20Limits%20for%20Inter-Bank%20Liabilities%20%28IBL%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Limits for Inter-Bank Liabilities (IBL)
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/281 DBOD. No. BP.BC. 66/ 21.01.002/ 2006-2007 March 6, 2007
+
+## All Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Prudential Limits for Inter- Bank Liabilities (IBL)</u>
+
+As you are aware, in India, while the counterparty risk concentration on the assets side has attracted adequate attention and received regulatory policy response, the concentration risk on the liability side of the banks has not received similar attention. Liability side management has its own merits from the point of view of financial stability. Controlling the concentration risk on the liability side of banks is therefore as important as controlling the concentration risk on asset side. More particularly, uncontrolled IBL may have systemic implications, even if, the individual counterparty banks are within the allocated exposure. Further, uncontrolled liability of a larger bank may also have a domino effect. In view of this, it has become important to put in place a comprehensive framework of liability management so that banks are aware of the risks inherent in following a business model based on largeWithdrawn amount of IBL and the systemic risks such a model may entail.
+
+2. In order to reduce the extent of concentration on the liability side of the banks, the following measures are prescribed:
+(a) The IBL of a bank should not exceed 200% of its networth as on 31st March of the previous year. However, individual banks may, with the approval of their Boards of Directors, fix a lower limit for their inter-bank liabilities, keeping in view their business model.
+(b) The banks whose CRAR is at least 25% more than the minimum CRAR (9%) i.e.
+11.25% as on March 31, of the previous year, are allowed to have a higher limit up to 300% of the net worth for IBL.
+
+<!-- PAGE 2 -->
+
+(c) The limit prescribed above will include only fund based IBL within India (including inter-bank liabilities in foreign currency to banks operating within India). In other words, the IBL outside India are excluded.
+(d) The above limits will not include collateralized borrowings under CBLO and refinance from NABARD, SIDBI etc.
+(e) The existing limit on the call money borrowings prescribed by RBI will operate as a sub-limit within the above limits.
+(f) Banks having high concentration of wholesale deposits should be aware of potential risk associated with such deposits and may frame suitable policies to contain the liquidity risk arising out of excessive dependence on such deposits.
+3. The above guidelines will be applicable from April 1, 2007. However, banks, which are not in a position to comply with these requirements from April 1, 2007, may furnish a plan to RBI for approval indicating the date by which they would be able to comply with the requirements.
+# WithdrawnYours faithfully,
+
+## (Prashant Saran)
+
+Chief General Manager-in-Charge
