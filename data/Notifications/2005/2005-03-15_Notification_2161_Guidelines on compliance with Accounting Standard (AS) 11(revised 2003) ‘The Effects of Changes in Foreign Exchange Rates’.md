@@ -1,0 +1,128 @@
+---
+doc_id: "Notifications_2005_2161"
+title: "Guidelines on compliance with Accounting Standard (AS) 11(revised 2003) ‘The Effects of Changes in Foreign Exchange Rates’"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61778.pdf"
+pdf_sha256: "4174df52b07038e831b437b3c5b1a330a7aa480e29e9438dd8b2c3d4c20d903b"
+md_sha256: "052fbe03b2bfbf68fdc2fa2f0aa4d1b01cf1aa7ecb5b6ca6845d4801dbc46709"
+total_pages: 4
+native_pages: 3
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:12:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-03-15_Notification_2161_Guidelines%20on%20compliance%20with%20Accounting%20Standard%20%28AS%29%2011%28revised%202003%29%20%E2%80%98The%20Effects%20of%20Changes%20in%20Foreign%20Exchange%20Rates%E2%80%99.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on compliance with Accounting Standard (AS) 11(revised 2003) ‘The Effects of Changes in Foreign Exchange Rates’
+
+<!-- PAGE 1 -->
+
+BANT
+
+V+ [.'}3!n'-3"2
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2004-05/395
+
+DBODNo.BP.BC.76/21.04.018/2004-05
+
+March15,2005
+
+AllScheduledCommercialBanks
+
+(except RRBs)
+
+Dear Sir,
+
+Guidelines on compliance withAccountingStandard (AS)11(revised 2003)‘The Effects of Changes in
+
+ForeignExchangeRates'
+
+2003) issued by the Institute of Chartered Accountants of India (ICAl), has come into effect in respect of
+
+2. The applicability of the Standard to banks has been examined by the Reserve Bank in consultation with ICAl
+
+and also taking into account the difficulties expressed by banks in complying with the Standard, the issues that
+
+arise and require clarification have been identified and the guidelines on compliance with AS 11(revised 2003)
+
+arefurnished in theAnnex.
+
+3. Banks are advised to place these Guidelines before the Board of Directors and ensure strict compliance with
+
+the Standard.
+
+4.These guidelines are in supersession of the instructions contained in our circular DBOD
+
+No.BP.BC.71/21.04.018/2003-2004dated March 31,2004.
+
+Yours faithfully,
+
+(C.R.Muralidharan)
+
+ChiefGeneral Manager-in-Charge
+
+S g。 ,"A, "之,S, ~, ~Ai￥i, ” 1, ~aA e,e”,~ Yf -400005
+
+Department of Banking Operations and Development,Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai -400005
+
+"10lo /Tel No: 91-22-22189131uiE-/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in
+
+L,Mi ,-,fA, olioS, ffo
+
+<!-- PAGE 2 -->
+
+## <u>ANNEX</u>
+
+## Guidelines for Compliance by Banks-Accounting Standard (AS) 11(revised 2003),
+
+## <u>‘The Effects of Changes in Foreign Exchange Rates’</u>
+
+Accounting Standard (AS) 11, ‘The Effects of Changes in Foreign Exchange Rates’ (revised 2003) issued by the Institute of Chartered Accountants of India (ICAI), has come into effect in respect of accounting periods commencing on or after April 1, 2004 and is mandatory in nature from that date. Based on the consultations with ICAI and Foreign Exchange Dealers’ Association of India (FEDAI) and also taking into account the feedback received from banks, the issues that may arise while complying with the Standard and require clarification have been identified. Banks may be guided by the following while complying with the Standard.
+
+**2.** Banks are advised to place these guidelines before the Board of Directors and ensure strict compliance with the Standard.
+## 3. Classification of Integral and Non-integral Foreign Operations.
+
+3.1 Paragraph 17 of the Standard states that the method used to translate the financial statements of a foreign operation depends on the way in which it is financed and operates in relation to the reporting enterprise. For this purpose, foreign operations are classified as either "integral foreign operations" or "non-integral foreign operations". While complying with the Standard, a doubt may arise on the classification of representative offices set up in foreign countries, foreign branches and off-shore banking units set up in India as “integral foreign operation” or “non-integral foreign operation”.
+## Action to be taken by banks
+
+3.2. Paragraphs 18 and 19 of the Standard explain “integral foreign operation” and “non-integral foreign operation”. Paragraph 20 of the Standard provides indications as to when a foreign operation is a non-integral foreign operation rather than an integral foreign operation. Taking into consideration the operation of the foreign branches of Indian banks and the indicators listed in paragraph 20, foreign branches of Indian banks would be classified as ”non-integral foreign operations”. Similarly, Offshore Banking Units (OBUs) set up in India by banks would also be classified as ”non-integral foreign operations”. Taking into consideration the operation of the representative offices of banks set up abroad and the explanation in paragraph 18 of the Standard, Representative Offices would be classified as “integral foreign operations”. These classifications are for the limited purpose of compliance with the Standard.
+**4. Exchange rate for recording foreign currency transactions and translation of financial statements of non-integral foreign operation.**
+4.1. As per paragraphs 9 and 21 of the Standard, a foreign currency transaction should be recorded by Indian branches and integral foreign operations, on initial recognition in the reporting currency, by applying to the foreign currency amount the exchange rate between the reporting currency and the foreign currency at the date of the transaction. Further, paragraph 24 (b) of the Standard states that income and expense items of non-integral
+
+<!-- PAGE 3 -->
+
+foreign operations should be translated at exchange rates at the dates of the transactions. While adopting the Standard, Indian branches and integral foreign operations of banks may face difficulty in applying the exchange rate prevailing at the date of the transaction in respect of the items which are not being recorded in Indian Rupees or are currently being recorded using a notional exchange rate, due to their extensive branch network and volume of transactions. Similarly, banks may face difficulty in translating income and expense items of a non- integral foreign operation by applying the exchange rates at the dates of the transactions.
+
+## Action to be taken by banks
+
+4.2. Banks, which are in a position to apply the exchange rate prevailing on the date of the transaction for recording the foreign currency transactions at their Indian branches and integral foreign operations and for translating the income and expense items of non-integral foreign operations as required under AS 11 are encouraged to comply with the requirements. Banks, which have an extensive branch network, which have a high volume of foreign currency transactions and are not fully equipped on the technology front may be guided by the following:
+i) Paragraph 10 of the Standard allows, for practical reasons, the use of a rate that approximates the actual rate at the date of the transaction. For example, an average rate for a week or a month might be used for all transactions in each foreign currency occurring during that period. Similarly, in respect of the non- integral foreign operations, paragraph 25 of the Standard provides that for practical reasons, a rate that approximates the actual exchange rates, for example an average rate for the period, is often used to translate income and expense items of a foreign operation. The Standard also states that if exchange rates fluctuate significantly, the use of average rate for a period is unreliable. Therefore, as per the Standard, except in cases where exchange rates fluctuate significantly, a rate that approximates the actual rate at the date of the transaction may be used. Since the enterprises are required to record the transactions at the date of the occurrence thereof, the weekly average closing rate of the preceding week can be used for recording the transactions occurring in the relevant week, if the same approximates the actual rate at the date of the transaction. In view of the practical difficulties which banks may have in applying the exchange rates at the dates of the transactions and since the Standard allows the use of a rate that approximates the actual rate at the date of the transaction, banks may use average rates as detailed below: ii) FEDAI has agreed to publish a weekly average closing rate at the end of each week and a quarterly average closing rate at the end of each quarter for various currencies.
+# iii) In respect of Indian branches and integral foreign operations, those foreign currency transactions, which
+
+are currently not being recorded in Indian Rupees at the date of the transaction or are being recorded using a notional exchange rate may now be recorded at the date of the transaction by using the <u>weekly</u> <u>average closing rate of the preceding week,</u> published by FEDAI, if the same approximates the actual rate at the date of the transaction.
+
+<!-- PAGE 4 -->
+
+# iv) Generally, Indian banks prepare the consolidated accounts for their domestic and foreign branches at
+
+quarterly or longer intervals. Hence, banks may use the <u>quarterly average closing rate,</u> published by FEDAI at the end of each quarter, for translating the income and expense items of non-integral foreign operations during the quarter.
+
+v) If the weekly average closing rate of the preceding week does not approximate the actual rate at the date of the transaction, the closing rate at the date of the transaction should be used. For this purpose, the weekly average closing rate of the preceding week would not be considered approximating the actual rate at the date of the transaction if the difference between (a) the weekly average closing rate of the preceding week and (b) the exchange rate prevailing at the date of the transaction, is <u>more than five</u> <u>percent</u> of (b). In respect of non-integral foreign operations, if there are significant exchange fluctuations during the quarter, the income and expense items of non-integral foreign operations should be translated by using the exchange rate at the date of the transaction instead of the quarterly average closing rate. For this purpose, the exchange rate fluctuation would be considered as significant, if the difference between the two rates is <u>more than ten percent</u> of the exchange rate prevailing at the date of the transaction. The limit of five/ten percent variation has been considered as appropriate since such variation is not expected to have a material impact on the amount of the relevant items such as foreign currency loans and advances and deposits, and operating results.
+# vi) Banks are, however, encouraged to equip themselves to record the foreign currency transactions of
+
+Indian branches as well as integral foreign operations and translate the income as well as expense items of non-integral foreign operations at the exchange rate prevailing on the date of the transaction.
+
+## 5. Closing rate
+
+5.1. Paragraph 7 of the Standard defines ‘Closing rate’ as the exchange rate at the balance sheet date.
+## Action to be taken by banks
+
+5.2. In order to ensure uniformity among banks, closing rate to be applied for the purposes of AS 11(revised
+2003) for the relevant accounting period would be the last <u>closing spot rate</u> of exchange announced by FEDAI for that accounting period.
+**6**. RBI considers that with the issue of the guidelines as above and adoption of the prescribed procedures, there should normally be no need for any Statutory Auditor for qualifying financial statements of a bank for non- compliance with Accounting Standard 11 (revised 2003). Hence, it is essential that both the banks and the Statutory Central Auditors adopt the guidelines and the procedures prescribed. Whenever specific difference in opinion arises among the auditors, the Statutory Central Auditors would take a final view. Persisting difference, if any, could be sorted out in prior consultation with RBI, if necessary.

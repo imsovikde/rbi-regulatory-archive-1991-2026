@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2005_2129"
+title: "Change in assignment of Lead Bank resposibility in some of the districts in State of Manipur"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61060.pdf"
+pdf_sha256: "f10ef9b8d09f50de417a90539f01a58a241348f76b4ef401af957dbc81be85ee"
+md_sha256: "f0b9f09aaa6410ad0b3076ccd937e43881284cd2e5e60029090f538460c1b245"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:12:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-02-17_Notification_2129_Change%20in%20assignment%20of%20Lead%20Bank%20resposibility%20in%20some%20of%20the%20districts%20in%20State%20of%20Manipur.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in assignment of Lead Bank resposibility in some of the districts in State of Manipur
+
+<!-- PAGE 1 -->
+
+<u>Circular No. RBI/2004-05/365</u> RPCD.LBS.BC.No. /02.01.01/2004-05 February 17, 2005 The Chairman / Managing Director, (All Lead Banks as per mailing list)
+
+Dear Sir, <u>Change in assignment of Lead Bank resposibility in some of the districts in State</u> <u>of Manipur</u> As you are aware that the convenorship of State Level Bankers' Committee (SLBC) has been assigned to State Bank of India in place of United Bank of India in the State of Manipur vide our circular RPCD.LBS.BC. NO. 65/02.01.01/2004- 05 dated December 24, 2004.
+
+|2.|In order to make the above change more effective and for smooth|
+|---|---|
+|functioning of SLBC, it has been decided to allot the lead bank responsibility of||
+|the following five districts to State Bank of India in place of United Bank of India.||
+|i|Imphal West|
+|ii|Thoubal|
+|iii|Chandel|
+|iv|Churachandpur, and|
+|v|Senapati|
+
+3. The Lead Bank responsibility in remaining four districts (i.e. Imphal East, Bishnupur, Temenglong and Ukhrul) will continue to remain with United Bank of India.
+4. The above changes will come into effect from the date of this circular.
+## Please acknowledge receipt.
+
+Yours faithfully,
+
+(A. K. Bhandari) Deputy General Manager

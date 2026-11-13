@@ -1,0 +1,116 @@
+---
+doc_id: "Notifications_2005_2156"
+title: "Cheque Truncation - Pilot Implementation-Image Standards"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61492.pdf"
+pdf_sha256: "04e3264e6d9029cf09efb661944cb299aa79cb5d95876387d2803c493c152129"
+md_sha256: "2c5469a5177c2a38c04aeb3eca8f057d3e6b1b8bf9f5a862db4eddb379d801d1"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:12:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-03-11_Notification_2156_Cheque%20Truncation%20-%20Pilot%20Implementation-Image%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Cheque Truncation - Pilot Implementation-Image Standards
+
+<!-- PAGE 1 -->
+
+,+, , -A
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2004-2005/393
+
+Ref DIT.CO.No.2218/09.63.36/2004-2005
+
+March 11, 2005
+
+CMDs/CEOs of all Scheduled Banks,
+
+Dear Sir,
+
+Cheque Truncation - Pilot Implementation-Image Standards
+
+Pleaserefer tothe circular RBl/2004-2005/28Ref:DIT.CO.No.1/09.63.36/2004-
+
+05 dated 1 July, 2004 on Pilot Implementation of Cheque Truncation.
+
+2.
+
+It has been decided that the following image standards shall be adopted for the
+
+Image Based Cheque Truncation model in India:
+
+Number of Images - 3 viz. Gray Scale Front Image of the instrument, Black and
+
+White Front Image of the instrument and Black and White Reverse Image of the
+
+instrument
+
+Keeping in view the various factors like storage, transmission, reproduction
+
+3.
+
+of images, and ease of signature verification etc. it has been decided to adopt the
+
+following parameters :
+
+Image Type
+
+Format
+
+Minimum DPI
+
+Compression
+
+Front GreyScale
+
+100 DPI
+
+JPEG
+
+JPEG
+
+TIFF
+
+FrontBlack&White
+
+200DPI
+
+CCITT G4
+
+200 DPI
+
+TIFF
+
+CCITT G4
+
+ReverseBlack&White
+
+The image quality of the Grey Scale image shall be 8 bits/pixel (256 levels).
+
+4.
+
+The exact data structures and the type of endorsement shall be communicated
+
+in due course. The current MlCR line shall be unchanged and the existing E13 B Font
+
+shallcontinuetobeused.
+
+Yours faithfully,
+
+(Kaza Sudhakar)
+
+General Manager
+
+7, l0,gs,n r≥S, ~An, Aii, 14j Y,, ~n,Aii, 之,>,0,-jm之,S,- YS, 0, Yy -400 001
+
+E : (91-22) 2264 4995 E-, :(91-22) 22691557 f-￥:rgandhi@rbi.org.in
+
+DepartmentofnformationchnologyCentralffice14FloorCentralfficeuilding,ShahidhagatSinghRoador,Mumbai400

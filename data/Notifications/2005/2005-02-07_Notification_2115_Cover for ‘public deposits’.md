@@ -1,0 +1,112 @@
+---
+doc_id: "Notifications_2005_2115"
+title: "Cover for ‘public deposits’"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/60787.pdf"
+pdf_sha256: "1032333d3db432d2dd32bde9ab7929ebae6f510c8b2a65940fd59fba7b167851"
+md_sha256: "814be37482f1547731d4e9148837c8b12a00b63cfb72855a31e81d6c4bc51dd7"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:12:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-02-07_Notification_2115_Cover%20for%20%E2%80%98public%20deposits%E2%80%99.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Cover for ‘public deposits’
+
+<!-- PAGE 1 -->
+
+,+i, ce a~A
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2004-05/359
+
+DNBS (PD) C.C.No.47 /02.01/2004-05
+
+February7,2005
+
+To
+
+All Non-Banking Financial Companies (NBFCs)
+
+accepting/holding public deposits
+
+Dear Sir,
+
+Cover for'public deposits'
+
+As you are aware, NBFCs raise funds for their operations from various
+
+sources like public deposits, bank borrowings, inter-corporate deposits,
+
+secured/unsecured debentures,etc.
+
+2.
+
+In order to ensure protection of depositors interest, NBFCs should
+
+ensure that at all times there is full cover available for public deposits
+
+accepted by them. While calculating this cover the value of all debentures
+
+(secured and unsecured) and outside liabilities other than the aggregate
+
+assets should be evaluated at their book value or realizable/market value
+
+whichever is lower for this purpose. It shall be incumbent upon the NBFC
+
+concerned to inform the Regional Office of the Reserve Bank in case the
+
+asset cover calculated as above falls short of the liability on account of public
+
+deposits.
+
+Further, all NBFCs accepting/holding public deposits are directed to
+
+3.
+
+create a floating charge on the statutory liquid assets invested in terms of
+
+SacAS, ci@μ, c"之S,,~Ai, Ai,￥i, 2fi Yc￥,,”1,"￥" ""'-, ~a,∈ef", Yf -400 005
+
+E : 2218 2526 ,2218 9131; ,E-, : 2215 0540 ,2216 2768 ; f-Y￥ : dnbs@rbi.org.in
+
+<!-- PAGE 2 -->
+
+,+i, ce- x~A
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+Page 2 of 2
+
+shouldbe dulyregisteredinaccordance with therequirements of the
+
+Companies Act, 1956.
+
+Please acknowledge receipt and report compliance to the Regional
+
+4.
+
+Office of the Bank in whose jurisdiction your company is registered.
+
+Yours faithfully,
+
+(O.P. Aggarwal)
+
+Chief General Manager-in-Charge
+
+Sac~AS, ci"@μ, c"之S,, ~Aii, Ai,￥i,, 2Ei Y,c￥,, ”f 1,"￥" """ -J”, ~Aa,∈e", Yf -400 005
+
+E : 2218 2526 ,2218 9131; E-, : 2215 0540 ,2216 2768 ; f-Y￥ : dnbs@rbi.org.in
+
+Department of Non-Banking Supervision, Central Office, 2nd Floor, Centre I,WTC, Cuffe Parade, Mumbai- 400 005
+
+ciMi ,s, i, fA ciiS αf

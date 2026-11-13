@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2005_2144"
+title: "Enhancement of transparency on bank’s affairs through disclosures-UCBs"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61319.pdf"
+pdf_sha256: "cd8d77d6576c4348f916b324d17d27e567d3a51f81e7010fbc4ced33361fc0c2"
+md_sha256: "4190d0f0d040213ac477e0de737f6d7e9fdc604eb06e594442dbfc4064bef48c"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:12:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-03-01_Notification_2144_Enhancement%20of%20transparency%20on%20bank%E2%80%99s%20affairs%20through%20disclosures-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Enhancement of transparency on bank’s affairs through disclosures-UCBs
+
+<!-- PAGE 1 -->
+
+RBI / 2004-05/ 381 UBD(PCB).CIR.40/16.45.00/2004 -2005 March 1, 2005 The Chief Executive Officers of All Primary (Urban) Co-operative banks
+
+Dear Sir/Madam, <u>Enhancement of transparency on bank’s affairs through disclosures-UCBs</u>
+
+The Reserve Bank has been taking several steps from time to time to enhance the transparency of banks by having comprehensive requirements for disclosure in tune with the best practices. RBI circular dated 30.10.2002 advising UCBs having deposits of Rs 100 crore and above to disclose certain information with respect to CRAR, NPA, etc as ' Notes on Account' to their Balance Sheet was one such measure.
+
+## Background
+
+2. The Joint Parliamentary Committee (JPC) on Stock Market Scam and Matters Relating Thereto in their report (December 2002) had recommended that the comments made by Reserve Bank in the inspection reports of banks should be published in the Annual Reports of the banks along with the financial results, to ensure greater transparency, so that shareholders get a better idea about the operations of the bank. In view of the sensitive nature of the disclosures and their impact on the interest of depositors, the JPC recommendations were examined by the Reserve Bank in consultation with the Standing Technical Advisory Committee on Financial Regulation (STACFR) and the Board for Financial Supervision (BFS). In this regard, the Reserve Bank also took into account the recommendations of Committee on Banking Sector Reforms (1998), Advisory Group on Transparency in Monetary and Financial Practices (2000) and Committee on Procedures and Performance Audit on Public Services (2004).
+## Best Practices
+
+3. It is noteworthy that the third pillar of the Basel II addresses how safety and soundness of the banking system can be strengthened by market discipline through
+
+<!-- PAGE 2 -->
+
+enhanced transparency in bank’s disclosures to the public. It is also internationally recognized that, while transparency strengthens market discipline, due to the inherent need to preserve confidentiality in relation to its customers, banks may not be able to disclose all data that may be relevant to assess its risk profile. In this background, while mandatory disclosures as stated at para 1 above, include certain prudential parameters such as capital adequacy, level of NPAs etc., the supervisors, themselves may not disclose all or some information obtained on-site or off-site. In many countries, there is automatic and non-discretionary public disclosures of penalties imposed for violation of any regulation. In some countries, wherever there are supervisory concerns, “prompt corrective action” programmes are normally put in place, which may or may not be publicly disclosed. Circumspection in disclosures by the supervisors arises from the potential market reaction that it might trigger, which may not be desirable. Thus, in any policy of transparency, there is a need to build processes which ensure that the benefits of supervisory disclosure are appropriately weighed against the risk to all stakeholders of non-disclosure in each instance.
+
+4. On balance, while there could be considerable risks and judgments involved in the disclosure of information obtained by the supervisor, there is significant merit in adopting a policy of transparency in regard to statutory penalties levied and other specific supervisory actions.
+## Disclosure of penalties imposed by RBI
+
+5. At present, Reserve Bank is empowered to impose penalties on a primary (urban) co-operative bank under the provision of 47(A) of the Banking Regulation Act, 1949(AACS), for contraventions of any of the provisions of the Act or non-compliance with any other requirements of the Banking Regulation Act, 1949(AACS) order, rule or conditions specified by Reserve Bank under the Act. The imposition of penalty on a bank is decided after a due process of advising the bank and seeking its explanation so as to afford a reasonable opportunity to the bank for being heard. Considering the above and consistent with the best practices in disclosure of penalties imposed by the regulator, it has been decided that disclosure of the details of the levy of penalty on a bank in public domain will be in the interests of the members and depositors.
+
+<!-- PAGE 3 -->
+
+## Disclosure of actions taken on the basis of inspection reports or other adverse findings
+
+6. It has also been decided that strictures or directions on the basis of inspection reports or other adverse findings should be placed in the public domain. **Mode of disclosure for penalties**
+7. The mode of disclosures of penalties, imposed by Reserve Bank will be as follows:
+a) A Press Release will be issued by the Reserve Bank, giving details of the circumstances under which the penalty is imposed on the bank along with the communication on the imposition of penalty in public domain.
+b) The penalty should also be disclosed in the 'Notes on Accounts' to the Balance Sheet of the concerned bank in the next Annual Report.
+## Mode of disclosure of other actions
+
+8. With regard to strictures or directions by the Reserve Bank, there would be a press release by the Reserve Bank, which would be confined to disclosure of the stricture or the direction only. **Effective date**
+9. The above policy will come into operation with effect from <u>March 1, 2005.</u>
+Yours faithfully
+
+(N.S.Vishwanathan) Chief General Manager

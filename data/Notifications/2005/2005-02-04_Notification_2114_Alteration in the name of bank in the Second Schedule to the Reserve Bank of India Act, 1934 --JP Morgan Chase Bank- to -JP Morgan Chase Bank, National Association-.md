@@ -1,0 +1,66 @@
+---
+doc_id: "Notifications_2005_2114"
+title: "Alteration in the name of bank in the Second Schedule to the Reserve Bank of India Act, 1934 -\"JP Morgan Chase Bank\" to \"JP Morgan Chase Bank, National Association\""
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/60784.pdf"
+pdf_sha256: "cfa5bd5ed0d94c60bc7ad185b196909ba586f98fdae2e473eaae443412121362"
+md_sha256: "8318c8b94bda8f4166538a5b7f022a460e216269b7246aea4b2e098219d7596f"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:12:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-02-04_Notification_2114_Alteration%20in%20the%20name%20of%20bank%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20--JP%20Morgan%20Chase%20Bank-%20to%20-JP%20Morgan%20Chase%20Bank%2C%20National%20Association-.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Alteration in the name of bank in the Second Schedule to the Reserve Bank of India Act, 1934 -"JP Morgan Chase Bank" to "JP Morgan Chase Bank, National Association"
+
+<!-- PAGE 1 -->
+
+Vt I.'}3 !n-3"2
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2004-05/358
+
+DBOD.Ret.BC.No.70/12.06.090/2004-05
+
+February 04,2005
+
+All Scheduled Commercial Banks
+
+Dear Sir
+
+Alteration in the name of bank in the Second Schedule to the Reserve Bank of India
+
+Act, 1934 -"JP Morgan Chase Bank" to "JP Morgan Chase Bank, National Association"
+
+We advise that the name of "JP Morgan Chase Bank" has been changed to "JP Morgan
+
+Chase Bank, National Association"in the Second Schedule to the Reserve Bank of India
+
+Act, 1934
+
+with
+
+effectfromNovember13，2004，intermsofnotification
+
+India (Part Ill - Section 4) dated December 25, 2004.
+
+Yours faithfully
+
+( S.Oram)
+
+Deputy General Manager
+
+, g,, , "A, "之,S, ~bi,~i￥i, 0 1,~A0i e,”,~, Y-400005
+
+Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai -400005
+
+"1ub /Tel No:91-22-22189131 iE-/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in
+
+L>M ,s, -, f,A, eli,oS, ffo
