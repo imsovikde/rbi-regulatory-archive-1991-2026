@@ -1,0 +1,36 @@
+---
+doc_id: "Press-Releases_2014_31587"
+title: "Overseas Direct Investment for June 2014"
+category: "Press-Releases"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR62FDI090714.pdf"
+pdf_sha256: "ae15393df427275a11eb2a6b67699fb9c870fc8b188d70f8f1b09ac62416e81f"
+md_sha256: "c22a6d37bfb638b434f85e59789604c1f1a5b4cca843b2edae947877478d15ce"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:31:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2014/2014-07-09_Press-Release_31587_Overseas%20Direct%20Investment%20for%20June%202014.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investment for June 2014
+
+<!-- PAGE 1 -->
+
+## ेस काशनी PRESS RELEASE
+
+भारतीय रज़व बक **RESERVE BANK OF INDIA** संचार �वभाग**,** क ��� कायालय, एस.बी.एस.माग, मुंबई-400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u>
+
+## July 9, 2014
+
+## Overseas Direct Investment for June 2014
+
+The Reserve Bank of India has today released the data on <u>Overseas Direct</u> Investment, both under Automatic Route and the Approval Route, for the month of June 2014.
+
+## Ajit Prasad
+
+## Press Release : 2014-2015/62
+
+Assistant General Manager
