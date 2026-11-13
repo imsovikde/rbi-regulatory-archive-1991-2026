@@ -1,0 +1,57 @@
+---
+doc_id: "Circulars_2013_DBOD_BP_BC_No_83_08_12_014_2012-13"
+title: "Prudential Norms on Advances to Infrastructure Sector"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FPS180313FL.PDF"
+pdf_sha256: "284320125e08889c4b3673251ca70efe7f5cb622e7d0e3693361fd8998877e02"
+md_sha256: "dc1c2d8cdc58fddc58ec5e86aa22b6798f120d329d7ed64df5b9667dc2dd1dd3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:55:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-03-18_Circular_DBOD.BP.BC.No.83-08.12.014-2012-13_Prudential%20Norms%20on%20Advances%20to%20Infrastructure%20Sector.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Advances to Infrastructure Sector
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़वव ___________RESERVE BANK OF INDIA___________
+
+www.rbi.org.in **RBI/2012-13/ 445**
+
+### DBOD.BP.BC.No. 83 /08.12.014 /2012-13 March 18, 2013
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+### <u>Prudential norms on Advances to Infrastructure Sector</u>
+
+In terms of our <u>circular DBOD.No.BP.BC.125/21.04.048/2008-09 dated April 17,</u> <u>2009</u> on ‘Prudential Norms on Unsecured Advances’ rights, licenses, authorization, etc., charged to the banks as collateral in respect of projects (including infrastructure projects) should not be reckoned as tangible security. However, it was observed that infrastructure projects, especially road/highway projects, are special in nature where asset created by bank finance cannot be pledged/mortgaged to the bank but certain rights to receive annuities / toll collection from the assets can be hypothecated to the lenders.
+
+# Withdrawn
+
+2. In view of the above, banks have been allowed, vide our <u>circular</u> <u>DBOD.No.BP.BC.96/08.12.014/2009-10 dated April 23, 2010</u> on ‘Prudential Norms on Advances to Infrastructure Sector’ to treat annuities under Build-Operate-Transfer (BOT) model in respect of road/highway projects and toll collection rights, where there are provisions to compensate the project sponsor if a certain level of traffic is not achieved, as tangible securities. This is subject to the condition that banks’ right to receive annuities and toll collection rights is legally enforceable and irrevocable.
+3. It has been brought to our notice that most of the projects in India are user-charge based for which the Planning Commission has published Model Concession Agreements (MCAs). These have been adopted by various Ministries and State Governments for their respective public-private partnership (PPP) projects and they provide adequate comfort to the lenders regarding security of their debt. In view of the above features, it has been decided that in case of PPP projects, the debts due ----------------------------------------------------------------------------------------------------------------------------------------------- **DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT, CENTRAL OFFICE, 12**
+**th** **Floor, Central** **Office Building, Shahid Bhagat Singh Marg, Mumbai-400 001 E-mail : cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+to the lenders may be considered as secured to the extent assured by the project authority in terms of the Concession Agreement, subject to the following conditions:
+
+a) User charges/toll/tariff payments are kept in an escrow account where senior lenders have priority over withdrawals by the concessionaire;
+b) There is sufficient risk mitigation, such as pre-determined increase in user charges or increase in concession period, in case project revenues are lower than anticipated;
+c) The lenders have a right of substitution in case of concessionaire default;
+d) The lenders have a right to trigger termination in case of default in debt service; and
+e) Upon termination, the Project Authority has an obligation of (i) compulsory buy-out and (ii) repayment of debt due in a pre-determined manner.
+In all such cases, banks must satisfy themselves about the legal enforceability of the provisions of the tripartite agreement and factor in their past experience with such contracts.
+
+Yours faithfully,
+
+# Withdrawn
+
+(Sudha Damodar) Chief General Manager

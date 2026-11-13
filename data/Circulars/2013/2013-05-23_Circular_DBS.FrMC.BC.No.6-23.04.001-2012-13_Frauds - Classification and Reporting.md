@@ -1,0 +1,84 @@
+---
+doc_id: "Circulars_2013_DBS_FrMC_BC_No_6_23_04_001_2012-13"
+title: "Frauds - Classification and Reporting"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MCAE24052013F.PDF"
+pdf_sha256: "4e2e349786f9b1fffb9a057fbbcb66b00fa60be4893596249fd20878feb4baf0"
+md_sha256: "77dc11e91e40bdd60e14c8041a32d6eccdd6d53043cf4cfb5def8393ae176ff8"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:56:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-05-23_Circular_DBS.FrMC.BC.No.6-23.04.001-2012-13_Frauds%20-%20Classification%20and%20Reporting.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Frauds - Classification and Reporting
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/505
+
+DBS.FrMC.BC.No.6/23.04.001/2012-13
+
+May 23, 2013
+
+The Chairmen & Chief Executive Officers of all
+
+Scheduled Commercial Banks (excluding RRBs)
+
+and All India Select Financial Institutions
+
+Dear Sir,
+
+Frauds - Classification and Reporting
+
+July 02, 2012 i.e. the Master Circular on 'Frauds - Classification and Reporting' which
+
+requires commercial banks to furnish in hard copies the FMR-1 reports in all cases
+
+detected at bank's subsidiaries/affiliates/joint ventures.
+
+2. It has since been decided to partially a
+
+Para 3.1.3 of Master Circular DBS.
+
+/ 02, 2012 on'Frauds - Classification
+
+and Reporting' by providing that in
+
+esubsidiary of thebank is an entity which is
+
+f
+
+regulated by Reserve Bank of Irn
+
+nd is independently required to report the cases
+
+of fraud to RBl  in terms of guidelines applicable to that subsidiary/affiliate/joint
+
+o o   e      a
+
+respect of fraud cases detected at such subsidiary/affiliate/joint venture.
+
+Yours faithfully
+
+(R. K. Sharma)
+
+GeneralManager
+
+1，，，-400005
+
+fu-: (9122) 22181281 a:022 22152461e-mail-cgmicdbsc0@rbi.org.in
+
+Departmentof Banking Supervision,Central Office,WorldTradeCentre1,CuffeParade,Colaba,Mumbai-400005,INDIA
+
+"Caution: RBl never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.
+
+Itneverkeepsoroffersfundstoanyone.Pleasedonotrespondinanymannertosuchoffers."

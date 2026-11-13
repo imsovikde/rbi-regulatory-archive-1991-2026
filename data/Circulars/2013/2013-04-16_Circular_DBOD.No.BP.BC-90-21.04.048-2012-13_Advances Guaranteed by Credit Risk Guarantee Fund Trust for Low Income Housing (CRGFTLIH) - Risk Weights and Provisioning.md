@@ -1,0 +1,47 @@
+---
+doc_id: "Circulars_2013_DBOD_No_BP_BC-90_21_04_048_2012-13"
+title: "Advances Guaranteed by Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) - Risk Weights and Provisioning"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBODCIR160413.PDF"
+pdf_sha256: "ddf52280bb757b3e0567a9e2d5010761bc35a8218475bac74b73233212de260f"
+md_sha256: "e925c141babcd010a2c68ab0b70b41b6c19e171c279896ac885fe570972f5f9c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:56:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-04-16_Circular_DBOD.No.BP.BC-90-21.04.048-2012-13_Advances%20Guaranteed%20by%20Credit%20Risk%20Guarantee%20Fund%20Trust%20for%20Low%20Income%20Housing%20%28CRGFTLIH%29%20-%20Risk%20Weights%20and%20Provisioning.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances Guaranteed by Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) - Risk Weights and Provisioning
+
+<!-- PAGE 1 -->
+
+भारतीय रजव बक **__________________RESERVE BANK OF INDIA _________________** <u>www.rbi.org.in</u>
+
+## RBI 2012-13/ 476
+
+## DBOD.No.BP.BC-90/21.04.048/2012-13 April 16, 2013
+
+The Chairman and Managing Director/ Chief Executive Officer of All Scheduled Commercial Banks (excluding RRBs & LABs)
+
+Dear Sir,
+
+## Advances guaranteed by Credit Risk Guarantee Fund Trust for Low Income
+
+## <u>Housing (CRGFTLIH) – Risk Weights and Provisioning</u>
+
+The Ministry of Housing & Urban Poverty Alleviation, Government of India has set up the CRGFTLIH vide their Notification No.O-17034/122/2009-H dated June 21, 2012. On the issue of assignment of appropriate risk weight for loans guaranteed by CRGFTLIH and prescription of requisite provisioning norms for such loans on the lines of credit facilities guaranteed by Credit Guarantee Fund Trust for Micro and Small Enterprises, it has been decided as under:
+
+i) <u>Risk weight</u>
+# Withdrawn
+
+Banks may assign zero risk weight for the guaranteed portion. The balance outstanding in excess of the guaranteed portion would attract a risk-weight as appropriate to the counter-party.
+
+ii) <u>Provisioning</u> In case the advance covered by CRGFTLIH guarantee becomes non- performing, no provision need be made towards the guaranteed portion. The amount outstanding in excess of the guaranteed portion should be provided for as per the extant guidelines on provisioning for non- performing advances.
+
+Yours faithfully,
+
+(Chandan Sinha) <u>Chief General Manager-in-Charge</u> बकं ग परचालन और वकास वभाग, के ���य कायालय, 12वीं मंज़ल, शहद भगत िसंह माग, मुंबई – 400001 Department of Banking Operations and Development, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai ‐ 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbodco@rbi.org.in �हंद आसान ह, इसका ूयोग बड़ाइए
