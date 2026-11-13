@@ -1,0 +1,3032 @@
+---
+doc_id: "Circulars_2012_DBOD_No_BP_BC_98_21_06_201_2011-12"
+title: "Guidelines on Implementation of Basel III Capital Regulations in India"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BAICI020512IS.PDF"
+pdf_sha256: "a249c6c7f006b38e6de0d24b7e13ba41e2fe1f43143ff2d46cef17ec4618b364"
+md_sha256: "5f5d8d8bf26eed90211bc892b57a57600c8c74ba627bac48c30a02649406af8f"
+total_pages: 132
+native_pages: 132
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:40:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-05-02_Circular_DBOD.No.BP.BC.98-21.06.201-2011-12_Guidelines%20on%20Implementation%20of%20Basel%20III%20Capital%20Regulations%20in%20India.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Implementation of Basel III Capital Regulations in India
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/530 DBOD.No.BP.BC.98 /21.06.201/2011-12 May 2, 2012
+
+The Chairman and Managing Directors/ Chief Executives Officers of All Scheduled Commercial Banks (Excluding Local Area Banks and Regional Rural Banks)
+
+Madam / Dear Sir,
+
+## Guidelines on Implementation of Basel III Capital Regulations in India
+
+Please refer to the paragraph 90 (extract enclosed) of the Monetary Policy Statement 2012-13 announced on April 17, 2012. It was indicated that the final guidelines on the implementation of Basel III capital regulations would be issued by end-April 2012. It may be recalled that draft proposals on Basel III capital regulations were issued vide <u>Withdrawn circular DBOD.No.BP.BC.71/ 21.06.201/</u> <u>2011-12 dated December 30, 2011</u>.
+
+2. The final guidelines on Basel III capital regulations are enclosed. These guidelines would become effective from January 1, 2013 in a phased manner. The Basel III capital ratios will be fully implemented as on March 31, 2018.
+3. The capital requirements for the implementation of Basel III guidelines may be lower during the initial periods and higher during the later years. While undertaking the capital planning exercise, banks should keep this in view.
+4. RBI is currently working on operational aspects of implementation of the Countercyclical Capital Buffer. Guidance to banks on this will be issued in due course. Besides, certain other proposals viz. ‘Definition of Capital Disclosure Requirements’, ‘Capitalisation of Bank Exposures to Central Counterparties’ etc., are also engaging the attention of the Basel Committee
+
+<!-- PAGE 2 -->
+
+at present. Therefore, the final proposals of the Basel Committee on these aspects will be considered for implementation, to the extent applicable, in future.
+
+5. For the financial year ending March 31, 2013, banks will have to disclose the capital ratios computed under the existing guidelines (Basel II) on capital adequacy as well as those computed under the Basel III capital adequacy framework. Yours faithfully, Sd/- **(Deepak Singhal)** **Chief General Manager-in-Charge** Encls: as above
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Extract of Paragraph 90 of the Monetary Policy Statement 2012-13
+
+## Implementation of Basel III Capital Regulations
+
+90. As indicated in the SQR of October 2011, the Reserve Bank prepared the draft guidelines on *Basel III – Implementation of Capital Regulations in India*, which were placed on its website in December 2011, for comments/suggestions from various stakeholders. The draft guidelines provide for a roadmap for smooth implementation of Basel III capital regulations in terms of the transitional arrangements (phase-in) of capital ratios and grandfathering (phase-out) of ineligible capital instruments. The Reserve Bank is also in the process of estimating, on the basis of data collected from banks, the likely impact of the proposed Basel III norms on banks’ capital position and leverage. The estimation exercise, as also the comments/suggestions from various stakeholders, will form the basis for finalising the guidelines on capital regulations. It is proposed:
+- to issue the final guidelines on the implementation of Basel III capital regulations by end-April 2012.
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+## Guidelines on Implementation of
+
+## Basel III Capital Regulations in India
+
+The Basel Committee on Banking Supervision (BCBS) issued a comprehensive reform package entitled “*Basel III: A global regulatory* 1 *framework for more resilient banks and banking systems*” in December 2010, with the objective to improve the banking sector’s ability to absorb shocks arising from financial and economic stress, whatever the source, thus reducing the risk of spillover from the financial sector to the real economy. The reform package relating to capital regulation, together with the enhancements to Basel II framework and amendments to market risk framework issued by BCBS in July 2009, will amend certain provisions of the existing Basel II framework, in addition to introducing some new concepts and requirements. A summary of Basel III capital requirements is furnished below:
+
+## 2. Summary of Basel III Capital Requirements
+
+## 2.1 Improving the Quality, Consistency and Transparency of the Capital Base
+
+**2.1.2** Presently, a bank’s capital comprises Tier 1 and Tier 2 capital with a
+# Withdrawn
+
+restriction that Tier 2 capital cannot be more than 100% of Tier 1 capital. Within Tier 1 capital, innovative instruments are limited to 15% of Tier 1 capital. Further, Perpetual Non-Cumulative Preference Shares along with Innovative Tier 1 instruments should not exceed 40% of total Tier 1 capital at any point of time. Within Tier 2 capital, subordinated debt is limited to a maximum of 50% of Tier 1 capital. However, under Basel III, with a view to improving the quality of capital, the Tier 1 capital will predominantly consist of Common Equity. The qualifying criteria for instruments to be included in Additional Tier 1 capital outside the Common Equity element as well as Tier 2 capital will be strengthened.
+
+**2.1.3** At present, the regulatory adjustments (i.e. deductions and prudential filters) to capital vary across jurisdictions. These adjustments are currently A revised version of this document was issued in June 2011.
+
+<!-- PAGE 5 -->
+
+generally applied to total Tier 1 capital or to a combination of Tier 1 and Tier 2 capital. They are not generally applied to the Common Equity component of Tier 1 capital. With a view to improving the quality of Common Equity and also consistency of regulatory adjustments across jurisdictions, most of the adjustments under Basel III will be made from Common Equity. The important modifications include the following:
+
+(i) deduction from capital in respect of shortfall in provisions to expected losses under Internal Ratings Based (IRB) approach for computing capital for credit risk should be made from Common Equity component of Tier 1 capital; (ii) cumulative unrealized gains or losses due to change in own credit risk on fair valued financial liabilities, if recognized, should be filtered out from Common Equity; (iii) shortfall in defined benefit pension fund should be deducted from Common Equity; (iv) certain regulatory adjustments which are currently required to be deducted 50% from Tier 1 and 50% from Tier 2 capital, instead will receive 1250% risk weight; and
+(v) limited recognition has been granted in regard to minority interest in banking subsidiaries and investments in capital of certain other financial entities.
+# Withdrawn
+
+**2.1.4** The transparency of capital base has been improved, with all elements of capital required to be disclosed along with a detailed reconciliation to the published accounts. This requirement will improve the market discipline under Pillar 3 of the Basel II framework.
+## 2.2 Enhancing Risk Coverage
+
+At present, the counterparty credit risk in the trading book covers only the risk of default of the counterparty. The reform package includes an additional capital charge for Credit Value Adjustment (CVA) risk which captures risk of mark-to-market losses due to deterioration in the credit worthiness of a counterparty. The risk of interconnectedness among larger financial firms (defined as having total assets greater than or equal to $100 billion) will be better captured through a prescription of 25% adjustment to the asset value correlation (AVC) under IRB approaches to credit risk. In addition, the guidelines on counterparty credit risk management with regard to collateral,
+
+<!-- PAGE 6 -->
+
+margin period of risk and central counterparties and counterparty credit risk management requirements have been strengthened.
+
+## 2.3 Enhancing the Total Capital Requirement and Phase-in Period
+
+**2.3.1** The minimum Common Equity, Tier 1 and Total Capital requirements will be phased-in between January 1, 2013 and January 1, 2015, as indicated below:
+
+|Weighted Assets (RWAs)|As a %age to Risk January 1, January 1, January 1, 2013|2014|2015|
+|---|---|---|---|
+|Minimum Common Equity Tier 1 capital||3.5% 4.0% 4.5%||
+|Minimum Tier 1 capital|4.5%|5.5%|6.0%|
+|Minimum Total capital|8.0%|8.0%|8.0%|
+
+## 2.3.2 Capital Conservation Buffer
+
+The capital conservation buffer (CCB) is designed to ensure that banks build up capital buffers during normal times (i.e. outside periods of stress) which can be drawn down as losses are incurred during a stressed period. The requirement is based on simple capital conservation rules designed to avoid breaches of minimum capital requirements.
+
+Therefore, in addition to the minimum total of 8%
+
+# Withdrawn
+
+as indicated in paragraph
+
+2.3.1 above, banks will be required to hold a capital conservation buffer of
+2.5% of RWAs in the form of Common Equity to withstand future periods of stress bringing the total Common Equity requirement of 7% of RWAs and total capital to RWAs to 10.5%. The capital conservation buffer in the form of Common Equity will be phased-in over a period of four years in a uniform manner of 0.625% per year, commencing from January 1, 2016.
+## 2.3.3 Countercyclical Capital Buffer
+
+Further, a countercyclical capital buffer within a range of 0 – 2.5% of RWAs in form of Common Equity or other fully loss absorbing capital will be implemented according to national circumstances. The purpose of countercyclical capital buffer is to achieve the broader macro-prudential goal of protecting the banking sector from periods of excess aggregate credit growth. For any given country, this buffer will only be in effect when there is
+
+<!-- PAGE 7 -->
+
+excess credit growth that results in a system-wide build-up of risk. The countercyclical capital buffer, when in effect, would be introduced as an extension of the capital conservation buffer range.
+
+## 2.4 Supplementing the Risk-based Capital Requirement with a Leverage Ratio
+
+One of the underlying features of the crisis was the build-up of excessive on- and off-balance sheet leverage in the banking system. In many cases, banks built up excessive leverage while still showing strong risk based capital ratios. Subsequently, the banking sector was forced to reduce its leverage in a manner that not only amplified downward pressure on asset prices, but also exacerbated the positive feedback loop between losses, declines in bank capital and contraction in credit availability. Therefore, under Basel III, a simple, transparent, non-risk based regulatory leverage ratio has been introduced.
+
+Thus, the capital requirements will be supplemented by a non-risk based leverage ratio which is proposed to be calibrated with a Tier 1 leverage ratio of 3% (the Basel Committee will further explore to track a leverage ratio using total capital and tangible common equity). The ratio will be captured with all assets and off balance sheet (OBS) itemsWithdrawnat their credit conversion factors and derivatives with Basel II netting rules and a simple measure of potential future exposure (using Current Exposure Method under Basel II framework) ensuring that all derivatives are converted in a consistent manner to a “loan equivalent” amount. The ratio will be calculated as an average over the quarter.
+
+## 3. Modifications to Existing Basel II Framework due to Basel III
+
+Banks may please refer to the Master Circular No.DBOD.BP.BC.11/
+
+21.06.001 / 2011-12 dated July 1, 2011 on “Prudential Guidelines on Capital Adequacy and Market Discipline-New Capital Adequacy Framework” (*hereinafter referred to as the ‘Master Circular’*), containing existing guidelines on the Basel II framework in India which includes the modifications and enhancements announced by the BCBS in July 2009. This circular amends the following guidelines (paragraphs) contained in the Master Circular:
+
+<!-- PAGE 8 -->
+
+- Scope of Application (paragraph 3) is replaced by sub-paragraph 3.1 of **Section B of Annex 1**;
+- Definition of Capital (paragraph 4) will be **replaced** by **Annex 1** **(excluding** sub-paragraph 3.1of Section B) **;**
+- Risk Coverage : Capital Charge for Credit Risk ( paragraph 5), External Credit Assessments (paragraph 6), Credit Risk Mitigation (paragraph 7) and Capital Charge for Market Risk (paragraph 8) will be **modified** as indicated in **Annex 2;**
+- Supervisory Review and Evaluation Process under Pillar 2 (paragraphs 12 & 13) will be **modified** as indicated in **Annex 3.**
+A list of sub-paragraphs within the aforesaid paragraphs of the Master Circular which have been modified is given in **Appendix 14.**
+
+## 4. Additional Aspects Covered in Basel III
+
+**4.1** This circular contains guidance on the following additional aspects covered in Basel III reform package:
+- Capital Conservation Buffer (**Annex 4**); and
+- Leverage Ratio (**Annex 5**).
+# Withdrawn
+
+**4.2** All other instructions contained in remaining paragraphs of the Master Circular DBOD.No.BP.BC.11 / 21.06.001 / 2011-12 July 1, 2011 on ‘Prudential Guidelines on Capital Adequacy and Market Discipline-New Capital Adequacy Framework (NCAF)’ will remain unchanged under Basel III framework.
+**5.** The implementation of the capital adequacy guidelines based on the Basel III capital regulations will begin as on January 1, 2013. This means that as at the close of business on January 1, 2013, banks must be able to declare / disclose capital ratios computed under the amended guidelines. However, as on December 31, 2012 banks should calculate the capital adequacy according to existing Basel II framework. Banks should get the capital adequacy computation as on January 1, 2013 verified by their external auditors and keep the verification report on record.
+
+<!-- PAGE 9 -->
+
+## ANNEX 1
+
+## DEFINITION OF REGULATORY CAPITAL
+
+## INTRODUCTION
+
+**1.1** This Annex replaces paragraph 4 of Master Circular No. DBOD.BP.BC. 11 / 21.06.001 / 2011-12 dated July 1, 2011 containing definition of regulatory capital.
+**1.2** Banks are required to maintain a minimum Pillar 1 Capital to Risk- weighted Assets Ratio (CRAR) of 9% on an on-going basis (other than capital conservation buffer and countercyclical capital buffer). The Reserve Bank will take into account the relevant risk factors and the internal capital adequacy assessments of each bank to ensure that the capital held by a bank is commensurate with the bank’s overall risk profile. This would include, among others, the effectiveness of the bank’s risk management systems in identifying, assessing / measuring, monitoring and managing various risks including interest rate risk in the banking book, liquidity risk, concentration risk and residual risk. Accordingly, the Reserve Bank will consider prescribing a higher level of minimum capital ratio for each bank under the Pillar 2 framework on the basis of their respective risk profiles and their risk management systems. Further, in terms of the Pillar 2 requirements of the New Capital Adequacy Framework, banks are expected to operate at a level well above the minimum requirement.
+**1.3** This Annex is divided into the following Withdrawn**five** Sections:
+(i) **Section A** - Elements of regulatory capital and the criteria for their inclusion in the definition of regulatory capital (ii) **Section B** - Scope of application of capital adequacy framework and recognition of minority interest (i.e. non-controlling interest) and other capital issued out of consolidated subsidiaries that is held by third parties
+## (iii) Section C-Regulatory adjustments
+
+## (iv) Section D – Disclosure requirements
+
+(v) **Section E** - Transition arrangements
+
+<!-- PAGE 10 -->
+
+## SECTION A
+
+## 2. ELEMENTS OF REGULATORY CAPITAL AND THE CRITERIA FOR
+
+**THEIR INCLUSION IN THE DEFINITION OF REGULATORY CAPITAL**
+
+## 2.1 Components of Capital
+
+**2.1.1** Under the existing capital adequacy guidelines based on Basel II framework, total regulatory capital is comprised of Tier 1 capital (core capital) and Tier 2 capital (supplementary capital). Total regulatory capital should be at least 9% of risk weighted assets and within this, Tier 1 capital should be at least 6% of risk weighted assets. Within Tier 1 capital, innovative Tier 1 instruments are limited to 15% of Tier 1 capital. Further, Perpetual Non- Cumulative Preference Shares along with Innovative Tier 1 instruments should not exceed 40% of total Tier 1 capital at any point of time. Also, at present, Tier 2 capital cannot be more than 100% of Tier 1 capital and within Tier 2 capital, subordinated debt is limited to a maximum of 50% of Tier 1 capital.
+**2.1.2** Post crisis, with a view to improving the quality and quantity of regulatory capital, it has been decided that the predominant form of Tier 1 capital must be Common Equity; since it is critical that banks’ risk exposures are backed by high quality capital base. Non-equity Tier 1 and Tier 2 capital would continue to form part of regulatory capital subject to eligibility criteria as laid down in Basel III. Accordingly, under revised guidelines (Basel III), total regulatory capital will consist of tWithdrawn he sum of the following categories:
+2
+
+(i) Tier 1 Capital (going-concern capital )
+(a) Common Equity Tier 1
+(b) Additional Tier 1
+## (ii) Tier 2 Capital (gone-concern capital)
+
+## 2.2 Limits and Minima
+
+2.2.1 As a matter of prudence, it has been decided that scheduled commercial banks (excluding LABs and RRBs) operating in India shall maintain a minimum total capital (MTC) of 9% of total risk weighted assets (RWAs) as against a MTC of 8% of RWAs as prescribed in Basel III rules text 2 From regulatory capital perspective, going-concern capital is the capital which can absorb losses without triggering bankruptcy of the bank. Gone-concern capital is the capital which will absorb losses only in a situation of liquidation of the bank.
+
+<!-- PAGE 11 -->
+
+of the BCBS. This will be further divided into different components as described under paragraphs 2.2.2 to 2.2.8.
+
+2.2.2 Common Equity Tier 1(CET1) capital must be at least 5.5% of risk- weighted assets (RWAs) i.e. for credit risk + market risk + operational risk on an ongoing basis.
+2.2.3 Tier 1 capital must be at least 7% of RWAs on an ongoing basis. Thus, within the minimum Tier 1 capital, Additional Tier 1 capital can be admitted maximum at 1.5% of RWAs.
+2.2.4 Total Capital (Tier 1 Capital plus Tier 2 Capital) must be at least 9% of RWAs on an ongoing basis. Thus, within the minimum CRAR of 9%, Tier 2 capital can be admitted maximum up to 2%.
+2.2.5 If a bank has complied with the minimum Common Equity Tier 1 and Tier 1 capital ratios, then the excess Additional Tier 1 capital can be admitted for compliance with the minimum CRAR of 9% of RWAs.
+2.2.6 In addition to the minimum Common Equity Tier 1 capital of 5.5% of RWAs, banks are also required to maintain a capital conservation buffer (CCB) of 2.5% of RWAs in the form of Common Equity Tier 1 capital. Details of operational aspects of CCB have been furnished in **Annex 4**. Thus, with full
+3 implementation of capital ratios and CCB the capital requirements are summarised as follows:
+
+**Regulatory Capital As % to RWAs**
+
+(i) Minimum Common Equity Tier 1 ratioWithdrawn5.5
+
+|(i)|Minimum Common Equity Tier 1 ratio|5.5|
+|---|---|---|
+|(ii)|Capital conservation buffer (comprised of Common Equity)|2.5|
+|(iii)|Minimum Common Equity Tier 1 ratio plus capital conservation buffer [(i)+(ii)]|8.0|
+|(iv)|Additional Tier 1 Capital|1.5|
+|(v)|Minimum Tier 1 capital ratio [(i) +(iv)]|7.0|
+|(vi)|Tier 2 capital|2.0|
+|(vii)|Minimum Total Capital Ratio (MTC) [(v)+(vi)]|9.0|
+|(viii)|Minimum Total Capital Ratio plus capital conservation buffer|11.5|
+
+[(vii)+(ii)]
+
+2.2.7 For the purpose of reporting Tier 1 capital and CRAR, any excess Additional Tier 1 (AT1) capital and Tier 2 capital will be recognised in the same proportion as that applicable towards minimum capital requirements. This would mean that to admit any excess AT1 and T2 capital, the bank
+4 should have excess CET1 over and above 8% (5.5%+2.5%). An illustration has been given in **Appendix 1**.
+
+3 For smooth migration to these capital ratios, transitional arrangements have been provided as detailed in Section E of this Annex. During the transition period, the excess will be determined with reference to the applicable
+
+<!-- PAGE 12 -->
+
+2.2.8 It would follow from paragraph 2.2.7 that in cases where the a bank does not have minimum Common Equity Tier 1 + capital conservation buffer of 2.5% of RWAs as required but, has excess Additional Tier 1 and / or Tier 2 capital, no such excess capital can be reckoned towards computation and reporting of Tier 1 capital and Total Capital.
+2.2.9 For the purpose of all prudential exposure limits linked to capital funds,
+5 the ‘capital funds’ will exclude the applicable capital conservation buffer and countercyclical capital buffer as and when activated, but include Additional Tier 1 capital and Tier 2 capital which are supported by proportionate amount of Common Equity Tier 1 capital as indicated in paragraph 2.2.7. Accordingly, capital funds will be defined as [(Common Equity Tier 1 capital) + (Additional Tier 1 capital and Tier 2 capital eligible for computing and reporting CRAR of the bank)]. It may be noted that the term ‘Common Equity Tier 1 capital’ does not include capital conservation buffer and countercyclical capital buffer.
+
+## 2.3 Common Equity Tier 1 Capital
+
+## 2.3.1 Common Equity – Indian Banks
+
+## 2.3.1.1 Elements of Common Equity Tier 1 Capital
+
+Elements of Common Equity Tier 1 capital will remain the same under Basel III. Accordingly, the Common Equity component of Tier 1 capital will comprise the following: Withdrawn
+
+(i) Common shares (paid-up equity capital) issued by the bank which meet the criteria for classification as common shares for regulatory purposes as given **Appendix 2**; (ii) Stock surplus (share premium) resulting from the issue of common shares; (iii) Statutory reserves; (iv) Capital reserves representing surplus arising out of sale proceeds of assets;
+(v) Other disclosed free reserves, if any;
+minimum Common Equity Tier 1 capital and applicable capital conservation buffer and the proportion with reference to the available Common Equity. For instance, as on January 1, 2015, the excess Additional Tier 1 and Tier 2 will be determined with reference to total Common Equity 6.125% (5.5%+0.625%) and the proportion with reference to 5.5% Common Equity Tier 1 capital. The definition of capital funds as indicated in para 2.2.9 will be reviewed by RBI as and when any changes in the Large Exposure regime is considered by the Basel Committee.
+
+<!-- PAGE 13 -->
+
+(vi) Balance in Profit & Loss Account at the end of the previous financial year;
+
+(vii) Banks may reckon the profits in current financial year for CRAR calculation on a quarterly basis provided the incremental provisions made for non-performing assets at the end of any of the four quarters of the previous financial year have not deviated more than 25% from the average of the four quarters. The amount which can be reckoned would be arrived at by using the following formula:
+
+## EPt= {NPt– 0.25*D*t}
+
+Where; EPt = Eligible profit up to the quarter ‘t’ of the current financial year; t varies from 1 to 4 NPt= Net profit up to the quarter ‘t’ D= average annual dividend paid during last three years
+
+(viii) While calculating capital adequacy at the consolidated level, common shares issued by consolidated subsidiaries of the bank and held by third parties (i.e. minority interest) which meet the criteria for inclusion in Common Equity Tier 1 capital **(please** **see paragraph 3.4 of Section B)**; and
+
+(ix) Less: Regulatory adjustments / deductions applied in the calculation of Common Equity Tier 1 capital [i.e. to be deducted from the sum of items (i) to (viii)].
+
+# Withdrawn
+
+## 2.3.1.2 Criteria for Classification as Common
+
+## Shares for Regulatory Purposes
+
+The existing guidelines do not prescribe any specific criteria for inclusion of Common Equity in Tier 1 capital. Common Equity is recognised as the highest quality component of capital and is the primary form of funding which ensures that a bank remains solvent. Therefore, under revised guidelines (Basel III), common shares to be included in Common Equity Tier 1 capital must meet the criteria as furnished in **Appendix 2.**
+
+## 2.3.2 Common Equity Tier 1 Capital – Foreign Banks’ Branches
+
+## 2.3.2.1 Elements of Common Equity Tier 1 Capital
+
+Elements of Common Equity Tier 1 capital will remain the same and consist of the following:
+
+(i) Interest-free funds from Head Office kept in a separate account in Indian books specifically for the purpose of meeting the capital adequacy norms;
+
+<!-- PAGE 14 -->
+
+(ii) Statutory reserves kept in Indian books;
+
+(iii) Remittable surplus retained in Indian books which is not repatriable so long as the bank functions in India;
+
+(iv) Interest-free funds remitted from abroad for the purpose of acquisition of property and held in a separate account in Indian books provided they are non-repatriable and have the ability to absorb losses regardless of their source;
+
+(v) Capital reserve representing surplus arising out of sale of assets in India held in a separate account and which is not eligible for repatriation so long as the bank functions in India; and (vi) Less: Regulatory adjustments / deductions applied in the calculation of Common Equity Tier 1 capital [i.e. to be deducted from the sum of items (i) to (v)].
+## 2.3.2.2 Criteria for Classification as Common
+
+## Equity for Regulatory Purposes
+
+The existing guidelines do not prescribe any specific criteria for inclusion of Common Equity in Tier 1 capital. The instruments to be included in Common Equity Tier 1 capital must meet the criteria furnished in **Appendix 3.**
+
+## Notes:
+
+# Withdrawn
+
+(i) Foreign banks are required to furnish to Reserve Bank, an undertaking to the effect that the bank will not remit abroad the 'capital reserve' and ‘remittable surplus retained in India’ as long as they function in India to be eligible for including this item under Common Equity Tier 1 capital. (ii) These funds may be retained in a separate account titled as 'Amount Retained in India for Meeting Capital to Risk-weighted Asset Ratio (CRAR) Requirements' under 'Capital Funds'. (iii) An auditor's certificate to the effect that these funds represent surplus remittable to Head Office once tax assessments are completed or tax appeals are decided and do not include funds in the nature of provisions towards tax or for any other contingency may also be furnished to Reserve Bank. (iv) The net credit balance, if any, in the inter-office account with Head Office / overseas branches will not be reckoned as capital funds. However, any debit balance in the Head Office account will have to be set-off against capital.
+
+<!-- PAGE 15 -->
+
+## 2.4 Elements of Additional Tier 1 Capital
+
+## 2.4.1 Elements of Additional Tier 1 Capital – Indian Banks
+
+Elements of Additional Tier 1 capital will remain the same. Additional Tier 1 capital consists of the sum of the following elements:
+
+(i) Perpetual Non-Cumulative Preference Shares (PNCPS), which comply with the regulatory requirements as specified in **Appendix 4**; (ii) Stock surplus (share premium) resulting from the issue of instruments included in Additional Tier 1 capital; (iii) Debt capital instruments eligible for inclusion in Additional Tier 1 capital, which comply with the regulatory requirements as specified in **Appendix 5**; (iv) Any other type of instrument generally notified by the Reserve Bank from time to time for inclusion in Additional Tier 1 capital;
+(v) While calculating capital adequacy at the consolidated level, Additional Tier 1 instruments issued by consolidated subsidiaries of the bank and held by third parties which meet the criteria for inclusion in Additional Tier 1 capital **(please see paragraph 3.4 of Section B)**; and (vi) Less: Regulatory adjustments / deductions applied in the calculation of Additional Tier 1 capital [i.e. to be deducted from the sum of items (i) to
+(v)].
+# Withdrawn
+
+## 2.4.1.2 Criteria for Classification as Additional
+
+## Tier 1 Capital for Regulatory Purposes
+
+(i) Under Basel II, the differentiation of non-equity capital into going concern and gone concern capital is not very fine. As a result, during the crisis, it was observed that non-common equity regulatory capital could not absorb losses while allowing banks to function as going concern. It is critical that for non- common equity elements to be included in Tier 1 capital, they must also absorb losses while the bank remains a going concern. Certain innovative features such as step-ups, which over time, have been introduced to Tier 1
+6 capital to lower its cost, have done so at the expense of its quality. In addition, the existing criteria are not sufficient to ensure that these instruments absorb losses at the point of non-viability, particularly, in cases where public sector intervention including in terms of injection of funds is considered
+
+6 Please refer circular DBOD.BP.BC.No.75/21.06.001/2010‐11 dated January 20, 2011 on ‘Regulatory Capital Instruments – Step-up Option’ doing away with step-up option. Banks may also refer to the BCBS Press Release dated September 12, 2010 indicating announcements made by the Group of Governors and Heads of Supervision on higher global minimum capital standards.
+
+<!-- PAGE 16 -->
+
+essential for the survival of the bank. These elements of capital will be phased out. Further, banks should not over-rely on non-common equity elements of capital and so the extent to which these can be included in Tier 1 capital must be limited. Therefore, based on Basel III, the criteria for instruments to be included in Additional Tier 1 capital have been modified to improve their loss absorbency as indicated in **Appendices 4, 5 & 12.** Criteria for inclusion of Perpetual Non-Cumulative Preference Shares (PNCPS) in Additional Tier 1 Capital are furnished in **Appendix 4**. Criteria for inclusion of Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital are furnished in **Appendix 5**. **Appendix 12** contains criteria for loss absorption through conversion / write- down / write-off of Additional Tier 1 instruments on breach of the pre-specified trigger and of all non-common equity regulatory capital instruments at the point of non-viability.
+
+(ii) Banks should not issue Additional Tier 1 capital instruments to the retail investors.
+
+## 2.4.2 Elements of Additional Tier 1 Capital – Foreign Banks’ Branches
+
+Elements of Additional Tier 1 capital will remain the same as under existing guidelines. Various elements of Additional Tier 1 capital are as follows:
+
+(i) Head Office borrowings in foreign currency by foreign banks operating in India for inclusion in Additional Tier 1 capital which comply with the regulatory requirements as specified in **Appendices 5 &12**;
+# Withdrawn
+
+(ii) Any other item specifically allowed by the Reserve Bank from time to time for inclusion in Additional Tier 1 capital; and
+
+(iii) Less: Regulatory adjustments / deductions applied in the calculation of Additional Tier 1 capital [i.e. to be deducted from the sum of items (i) to (ii)].
+
+## 2.5 Elements of Tier 2 Capital
+
+Elements of Tier 2 capital will largely remain the same under existing guidelines except that there will be no separate Tier 2 debt capital instruments in the form of Upper Tier 2 and subordinated debt. Instead, there will be a single set of criteria governing all Tier 2 debt capital instruments.
+
+## 2.5.1 Elements of Tier 2 Capital-Indian Banks
+
+*(i) General Provisions and Loss Reserves*
+a. Provisions or loan-loss reserves held against future, presently unidentified losses, which are freely available to meet losses which
+
+<!-- PAGE 17 -->
+
+subsequently materialize, will qualify for inclusion within Tier 2 capital. Accordingly, General Provisions on Standard Assets, Floating Provisions, Provisions held for Country Exposures, Investment Reserve Account, excess provisions which arise on account of sale of NPAs and ‘countercyclical 8 provisioning buffer ’ will qualify for inclusion in Tier 2 capital. However, these items together will be admitted as Tier 2 capital up to a maximum of 1.25% of the total credit risk-weighted assets under the standardized approach. Under Internal Ratings Based (IRB) approach, where the total expected loss amount is less than total eligible provisions, banks may recognise the difference as Tier 2 capital up to a maximum of 0.6% of credit-risk weighted assets calculated under the IRB approach.
+
+b. Provisions ascribed to identified deterioration of particular assets or loan liabilities, whether individual or grouped should be excluded. Accordingly, for instance, specific provisions on NPAs, both at individual account or at portfolio level, provisions in lieu of diminution in the fair value of assets in the case of restructured advances, provisions against depreciation in the value of investments will be excluded. (ii) Debt Capital Instruments issued by the banks; (iii) Preference Share Capital Instruments [Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS)] issued by the banks;
+# Withdrawn
+
+(iv) Stock surplus (share premium) resulting from the issue of instruments included in Tier 2 capital;
+
+(v) While calculating capital adequacy at the consolidated level, Tier 2 capital instruments issued by consolidated subsidiaries of the bank and held by third parties which meet the criteria for inclusion in Tier 2 capital **(please** **see paragraph 3.4 of Section B)**;
+9 (vi) Revaluation reserves at a discount of 55%;
+
+7 Banks will continue to have the option to net off such provisions from Gross NPAs to arrive at Net NPA or reckoning it as part of their Tier 2 capital as per circular DBOD. NO. BP.BC 33/21.04.048/2009-10 dated August 27, 2009. 8 Please refer to circular DBOD.No.BP.BC.87/21.04.048/2010-11 dated April 21, 2011 on provisioning coverage ratio (PCR) for advances. 9 These reserves often serve as a cushion against unexpected losses, but they are less permanent in nature and cannot be considered as ‘Core Capital’. Revaluation reserves arise from revaluation of assets that are undervalued on the bank’s books, typically bank premises. The extent to which the revaluation reserves can be relied upon as a cushion for unexpected losses depends mainly upon the level of certainty that can be placed on estimates of the market values of the relevant assets, the subsequent deterioration in values under difficult market conditions or in a forced sale, potential for
+
+<!-- PAGE 18 -->
+
+(vii) Any other type of instrument generally notified by the Reserve Bank from time to time for inclusion in Tier 2 capital; and
+
+(viii) Less: Regulatory adjustments / deductions applied in the calculation of Tier 2 capital [i.e. to be deducted from the sum of items (i) to (vii)].
+
+## 2.5.1.1 Criteria for Classification as Tier 2
+
+## Capital for Regulatory Purposes
+
+Under the existing guidelines, Tier 2 capital instruments could have step-ups which can be construed as an incentive to redeem, thereby compromising 10 their loss absorbency capacity. In addition, the existing criteria are not sufficient to ensure that these instruments absorb losses at the point of non- viability, particularly, in cases where public sector intervention including in terms of injection of funds is considered essential for the survival of the bank. Therefore, under Basel III, the criteria for instruments to be included in Tier 2 capital have been modified to improve their loss absorbency as indicated in **Appendices 6, 7 & 12**. Criteria for inclusion of Debt Capital Instruments as Tier 2 capital are furnished in **Appendix 6.** Criteria for inclusion of Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) as part of Tier 2 capital are furnished in **Appendix 7**. **Appendix 12** contains criteria for loss absorption through conversion / write-off of all non- common equity regulatory capital instruments at the point of non-viability.
+
+# Withdrawn
+
+## 2.5.2 Elements of Tier 2 Capital – Foreign Banks’ Branches
+
+Elements of Tier 2 capital in case of foreign banks’ branches will be as under:
+
+(i) General Provisions and Loss Reserves (as detailed in paragraph 2.5.1 (i) above); (ii) Head Office (HO) borrowings in foreign currency received as part of Tier 2 debt capital; (iii) Revaluation reserves at a discount of 55%; and
+actual liquidation at those values, tax consequences of revaluation, etc. Therefore, it would be prudent to consider revaluation reserves at a discount of 55 % while determining their value for inclusion in Tier II capital. Such reserves will have to be reflected on the face of the Balance Sheet as revaluation reserves. 10 Please refer circular DBOD.BP.BC.No.75/21.06.001/2010‐11 dated January 20, 2011 on ‘Regulatory Capital Instruments – Step up Option’ doing away with step up option. Banks may also refer to the BCBS Press Release dated September 12, 2010 indicating announcements made by the Group of Governors and Heads of Supervision on higher global minimum capital standards.
+
+<!-- PAGE 19 -->
+
+(iv) Less: Regulatory adjustments / deductions applied in the calculation of Tier 2 capital [i.e. to be deducted from the sum of items (i) & (iii)].
+
+## 2.5.2.1 Criteria for Classification as Tier 2
+
+## Capital for Regulatory Purposes
+
+Criteria for inclusion of Head Office (HO) borrowings in foreign currency received as part of Tier 2 debt Capital for foreign banks are furnished in **Appendices 6 &12.**
+
+# Withdrawn
+
+<!-- PAGE 20 -->
+
+## SECTION B
+
+## 3. SCOPE OF APPLICATION OF CAPITAL ADEQUACY FRAMEWORK AND
+
+**RECOGNITION OF MINORITY INTEREST (I.E. NON-CONTROLLING INTEREST) AND** **OTHER CAPITAL ISSUED OUT OF CONSOLIDATED SUBSIDIARIES THAT IS HELD BY** **THIRD PARTIES**
+
+## 3.1 Scope of Application
+
+**3.1.1** A bank shall comply with the capital adequacy ratio requirements at two levels:
+(a) the consolidated (“Group”) level capital adequacy ratio requirements, which measure the capital adequacy of a bank based on its capital strength and risk profile after consolidating the assets and liabilities of its subsidiaries / joint ventures / associates etc. except those engaged in insurance and any non-financial activities; and
+(b) the standalone (“Solo”) level capital adequacy ratio requirements, which measure the capital adequacy of a bank based on its standalone capital strength and risk profile.
+Accordingly, overseas operations of a bank through its branches will be covered in both the above scenarios.
+
+# Withdrawn
+
+**3.1.2** For the purpose of these guidelines, the subsidiary is an enterprise that is controlled by another enterprise (known as the parent). Banks will follow the definition of ‘control’ as given in the applicable accounting standards.
+## 3.2 Capital Adequacy at Group / Consolidated Level
+
+**3.2.1** All banking and other financial subsidiaries except subsidiaries engaged in insurance and any non-financial activities (both regulated and unregulated) should be fully consolidated for the purpose of capital adequacy. This would ensure assessment of capital adequacy at the group level, taking into account the risk profile of assets and liabilities of the consolidated subsidiaries.
+**3.2.2** The insurance and non-financial subsidiaries / joint ventures / associates etc. of a bank **should not** be consolidated for the purpose of capital adequacy. The equity and other regulatory capital investments in the insurance and non-financial subsidiaries will be deducted from consolidated regulatory capital of the group. Equity and other regulatory capital investments in the unconsolidated insurance and non-financial entities of banks (which
+
+<!-- PAGE 21 -->
+
+also include joint ventures / associates of the parent bank) will be treated in terms of **paragraph 4.9 of Section C**.
+
+**3.2.3** All regulatory adjustments indicated in **Section C** are required to be made to the consolidated Common Equity Tier 1 capital of the banking group as indicated therein.
+**3.2.4** Minority interest (i.e. non-controlling interest) and other capital issued out of consolidated subsidiaries as per **paragraph 3.2.1** that is held by third parties will be recognized in the consolidated regulatory capital of the group subject to certain conditions as stipulated in **paragraph 3.4** below.
+**3.2.5** Banks should ensure that majority owned financial entities that are not consolidated for capital purposes and for which the investment in equity and other instruments eligible for regulatory capital status is deducted, meet their respective regulatory capital requirements. In case of any shortfall in the regulatory capital requirements in the unconsolidated entity, the shortfall shall be fully deducted from the Common Equity Tier 1 capital.
+## 3.3 Capital Adequacy at Solo Level
+
+**3.3.1** While assessing the capital adequacy of a bank at solo level, all regulatory adjustments indicated in **Section C** are required to be made. In addition, investments in the capital instruments of the subsidiaries, which are consolidated in the consolidated financial statements of the group, will also have to be deducted from the corresponding capital instruments issued by the bank.
+# Withdrawn
+
+**3.3.2** In case of any shortfall in the regulatory capital requirements in the unconsolidated entity (e.g. insurance subsidiary), the shortfall shall be fully deducted from the Common Equity Tier 1 capital.
+## 3.4 Minority Interest (i.e. non-controlling interest) and other Capital
+
+## Issued out of Consolidated Subsidiaries that is Held by Third
+
+## Parties
+
+(i) Under Basel II, minority interest in the consolidated subsidiaries of a bank is recognised in the consolidated capital of the group to the extent it formed part of regulatory capital of those consolidated subsidiaries. During the financial crisis, a concern emerged that while minority interest can support the risks in the subsidiary to which it relates, it is not available to support risks in the group as a whole and in some circumstances may represent an interest in a subsidiary with little or no risk. Therefore, under Basel III, the minority interest is recognised only in cases where there is considerable explicit or implicit assurance that the minority interest which is supporting the risks of the subsidiary would be available to absorb the losses at the consolidated level.
+
+<!-- PAGE 22 -->
+
+(ii) Accordingly, under Basel III, the portion of minority interest which supports risks in a subsidiary that is a bank will be included in group’s Common Equity Tier 1. Consequently, minority interest in the subsidiaries which are not banks will not be included in the regulatory capital of the group. In other words, the proportion of surplus capital which is attributable to the minority shareholders would be excluded from the group’s Common Equity Tier 1 capital. Further, as opposed to Basel II, a need was felt to extend the minority interest treatment to other components of regulatory capital also (i.e. Additional Tier 1 capital and Tier 2 capital). Therefore, under Basel III, the minority interest in relation to other components of regulatory capital will also be recognised.
+
+## 3.4.1 Treatment of Minority Interest Corresponding to Common Shares Issued by Consolidated Subsidiaries
+
+Minority interest arising from the issue of common shares by a fully consolidated subsidiary of the bank may receive recognition in Common Equity Tier 1 capital only if: (i) the instrument giving rise to the minority interest would, if issued by the bank, meet all of the criteria for classification as common shares for regulatory capital purposes as stipulated in **Appendix 2**; 11 and (ii) the subsidiary that issued the instrument is itself a bank. The amount of minority interest meeting the criteria above that will be recognised in consolidated Common Equity Tier 1capital will be calculated as follows:
+
+(i) Total minority interest meeting the two criteria above minus the amount of the surplus Common Equity Tier
+# Withdrawn
+
+1 capital of the subsidiary attributable to the minority shareholders.
+
+(ii) Surplus Common Equity Tier 1 capital of the subsidiary is calculated as the Common Equity Tier 1 of the subsidiary minus the lower of: (i) the minimum Common Equity Tier 1 capital requirement of the subsidiary plus the capital conservation buffer (i.e. 8.0% of risk weighted assets) and (ii) the portion of the consolidated minimum Common Equity Tier 1 capital requirement plus the capital conservation buffer (i.e. 8.0% of 12 consolidated risk weighted assets) that relates to the subsidiary.
+
+(iii) The amount of the surplus Common Equity Tier 1 capital that is attributable to the minority shareholders is calculated by multiplying the
+
+11 For the purposes of this paragraph, All India Financial Institutions, Non-banking Financial Companies regulated by RBI and Primary Dealers will be considered to be a bank. The ratios used as the basis for computing the surplus (8.0%, 9.5% and 11.5%) in paragraphs
+
+3.4.1,3.4.2, and 3.4.3 respectively will not be phased-in.
+
+<!-- PAGE 23 -->
+
+surplus Common Equity Tier 1 by the %age of Common Equity Tier 1 that is held by minority shareholders.
+
+## 3.4.2 Treatment of Minority Interest Corresponding to Tier 1
+
+## Qualifying Capital Issued by Consolidated Subsidiaries
+
+Tier 1 capital instruments issued by a fully consolidated subsidiary of the bank to third party investors (including amounts under **paragraph 3.4.1**) may receive recognition in Tier 1 capital only if the instruments would, if issued by the bank, meet all of the criteria for classification as Tier 1 capital. The amount of this capital that will be recognised in Tier 1 capital will be calculated as follows:
+
+(i) Total Tier 1 capital of the subsidiary issued to third parties minus the amount of the surplus Tier 1 capital of the subsidiary attributable to the third party investors. (ii) Surplus Tier 1 capital of the subsidiary is calculated as the Tier 1 capital of the subsidiary minus the lower of: (i) the minimum Tier 1 capital requirement of the subsidiary plus the capital conservation buffer (i.e. 9.5% of risk weighted assets) and (ii) the portion of the consolidated minimum Tier 1 capital requirement plus the capital conservation buffer (i.e. 9.5% of consolidated risk weighted assets) that relates to the subsidiary. (iii) The amount of the surplus Tier 1 capital that is attributable to the thirdWithdrawn party investors is calculated by multiplying the surplus Tier 1 capital by the %age of Tier 1 capital that is held by third party investors.
+The amount of this Tier 1 capital that will be recognised in Additional Tier 1 capital will exclude amounts recognised in Common Equity Tier 1 capital under **paragraph 3.4.1.**
+
+## 3.4.3 Treatment of Minority Interest Corresponding to
+
+## Tier 1 Capital and Tier 2 Capital Qualifying Capital
+
+## Issued by Consolidated Subsidiaries
+
+Total capital instruments (i.e. Tier 1 and Tier 2 capital instruments) issued by a fully consolidated subsidiary of the bank to third party investors (including amounts under **paragraphs 3.4.1** and **3.4.2**) may receive recognition in Total Capital only if the instruments would, if issued by the bank, meet all of the criteria for classification as Tier 1 or Tier 2 capital. The amount of this capital that will be recognised in consolidated Total Capital will be calculated as follows:
+
+<!-- PAGE 24 -->
+
+(i) Total capital instruments of the subsidiary issued to third parties minus the amount of the surplus Total Capital of the subsidiary attributable to the third party investors. (ii) Surplus Total Capital of the subsidiary is calculated as the Total Capital of the subsidiary minus the lower of: (1) the minimum Total Capital requirement of the subsidiary plus the capital conservation buffer (i.e.
+11.5% of risk weighted assets) and (2) the portion of the consolidated minimum Total Capital requirement plus the capital conservation buffer (i.e. 11.5% of consolidated risk weighted assets) that relates to the subsidiary.
+(iii) The amount of the surplus Total Capital that is attributable to the third party investors is calculated by multiplying the surplus Total Capital by the %age of Total Capital that is held by third party investors.
+
+The amount of this Total Capital that will be recognised in Tier 2 capital will exclude amounts recognised in Common Equity Tier 1 capital under **paragraph 3.4.1** and amounts recognised in Additional Tier 1 under **paragraph 3.4.2.**
+
+**3.4.4** An illustration of calculation of minority interest and other capital issued out of consolidated subsidiaries that is held by third parties is furnished in the **Appendix 8.**
+# Withdrawn
+
+<!-- PAGE 25 -->
+
+## SECTION C
+
+## 4. REGULATORY ADJUSTMENTS/ DEDUCTIONS
+
+Consistent with Basel II framework, the existing guidelines require banks to make regulatory adjustments / deductions from either Tier 1 capital or 50% from Tier 1 and 50% from Tier 2 capital. As a consequence, it has been possible for some banks under the current standards to display strong Tier 1 ratios with limited tangible Common Equity. However, the crisis demonstrated that credit losses and write-downs were absorbed by Common Equity. Thus, it is the Common Equity base which best absorbs losses on a going concern basis. Therefore, under Basel III, most of the deductions are required to be applied to Common Equity. The following paragraphs deal with the regulatory adjustments / deductions which will be applied to regulatory capital **both** at solo and consolidated level.
+
+## 4.1 Goodwill and all Other Intangible Assets
+
+(i) Under the existing guidelines, goodwill and other intangible assets are required to be deducted from Tier 1 capital. In terms of Basel III, goodwill and other intangibles should be deducted from the Common Equity component of Tier 1. This deduction addresses the high degree of uncertainty about intangible assets. It is also necessary for comparability purposes and, in the case of goodwill, to avoid giving acquisitive banks a capital advantage over banks with the same real assets and liabilities which have grown organically. (ii) Accordingly, goodwill and all Withdrawn other intangible assets should be deducted from Common Equity Tier 1 capital including any goodwill included in the valuation of significant investments in the capital of banking, financial and insurance entities which are outside the scope of regulatory consolidation. In terms of AS 23 – Accounting for investments in associates, goodwill/capital reserve arising on the acquisition of an associate by an investor should be included in the carrying amount of investment in the associate but should be disclosed separately. Therefore, if the acquisition of equity interest in any associate involves payment which can be attributable to goodwill, this should be deducted from the Common Equity Tier 1 of the bank. (iii) The full amount of the intangible assets is to be deducted net of any associated deferred tax liabilities which would be extinguished if the intangible assets become impaired or derecognized under the relevant accounting standards. For this purpose, the definition of intangible assets would be in accordance with the Indian accounting standards. Operating losses in the current period and those brought forward from previous periods should also be deducted from Common Equity Tier 1 capital.
+
+<!-- PAGE 26 -->
+
+(iv) Application of these rules at consolidated level would mean deduction of any goodwill and other intangible assets from the consolidated Common Equity which is attributed to the Balance Sheets of subsidiaries, in addition to deduction of goodwill and other intangible assets which pertain to the solo bank.
+
+## 4.2 Deferred Tax Assets (DTAs)
+
+(i) Under the existing guidelines, the DTA computed as under should be deducted from Tier 1 capital:
+(a) DTA associated with accumulated losses; and
+(b) The DTA (excluding DTA associated with accumulated losses), net of DTL. Where the DTL is in excess of the DTA (excluding DTA associated with accumulated losses), the excess shall neither be adjusted against item (a) nor added to Common Equity Tier 1 capital.
+(ii) Under Basel III, in view of uncertainty attached to the realization of DTAs which rely on future profitability of the bank, only such DTAs are required to be deducted from Common Equity Tier 1. However, banks in India will be required to deduct all DTAs, irrespective of their origin as indicated at paragraph 4.2 (i) above from the Common Equity Tier 1 capital as a prudent measure.
+
+# Withdrawn
+
+(iii) Application of these rules at consolidated level would mean deduction of DTAs from the consolidated Common Equity which is attributed to the subsidiaries, in addition to deduction of DTAs which pertain to the solo bank.
+
+## 4.3 Cash Flow Hedge Reserve
+
+(i) The amount of the cash flow hedge reserve which relates to the hedging of items that are not fair valued on the balance sheet (including projected cash flows) should be derecognised in the calculation of Common Equity Tier 1. This means that positive amounts should be deducted and negative amounts should be added back. This treatment specifically identifies the element of the cash flow hedge reserve that is to be derecognised for prudential purposes. It removes the element that gives rise to artificial volatility in Common Equity, as in this case the reserve only reflects one half of the picture (the fair value of the derivative, but not the changes in fair value of the hedged future cash flow).
+
+<!-- PAGE 27 -->
+
+(ii) Application of these rules at consolidated level would mean derecognition of cash flow hedge reserve from the consolidated Common Equity which is attributed to the subsidiaries, in addition to derecognition of cash flow hedge reserve pertaining to the solo bank.
+
+## 4.4 Shortfall of the Stock of Provisions to Expected Losses
+
+The deduction from capital in respect of a shortfall of the stock of provisions to expected losses under the Internal Ratings Based (IRB) approach should be made in the calculation of Common Equity Tier 1. The full amount is to be deducted and should not be reduced by any tax effects that could be expected to occur if provisions were to rise to the level of expected losses.
+
+## 4.5 Gain-on-Sale Related to Securitisation Transactions
+
+(i) As per Basel III rule text, banks are required to derecognise in the calculation of Common Equity Tier 1 capital, any increase in equity capital resulting from a securitisation transaction, such as that associated with expected future margin income (FMI) resulting in a gain-on-sale. However, as per existing guidelines on securitization of standard assets issued by RBI, banks are not permitted to recognise the gain-on-sale in the P&L account including cash profits. Therefore, there is no need for any deduction on account of gain-on-sale on securitization. Banks are allowed to amortise the profit including cash profit over the period of the securities issued by the SPV. However, if a
+# Withdrawn
+
+bank is following an accounting practice which in substance results in recognition of realized or unrealized gains at the inception of the securitization transactions, the treatment stipulated as per Basel III rule text as indicated in the beginning of the paragraph would be applicable.
+
+(ii) Application of these rules at consolidated level would mean deduction of gain-on-sale from the consolidated Common Equity which is recognized by the subsidiaries in their P&L and / or equity, in addition to deduction of any gain-on-sale recognised by the bank at the solo level.
+
+**4.6 Cumulative Gains and Losses due to Changes in Own Credit Risk on Fair Valued Financial Liabilities**
+(i) During the financial crisis it was observed that based on the fair value principle, some banks had recognised gains arising from decline in fair value of their liabilities due to deterioration in their own creditworthiness. This was not considered a prudent practice. Accordingly, under Basel III, banks are required to derecognise in the calculation of Common Equity Tier 1 capital, all unrealised gains and
+
+<!-- PAGE 28 -->
+
+losses which have resulted from changes in the fair value of liabilities that are due to changes in the bank’s own credit risk. If a bank values its derivatives and securities financing transactions (SFTs) liabilities taking into account its own creditworthiness in the form of debit valuation adjustments (DVAs), then the bank is required to deduct all DVAs from its Common Equity Tier 1 capital, irrespective of whether the DVAs arises due to changes in its own credit risk or other market factors. Thus, such deduction also includes the deduction of initial DVA at inception of a new trade. In other words, though a bank will have to recognize a loss reflecting the credit risk of the counterparty (i.e. credit valuation adjustments-CVA), the bank will not be allowed to recognize the corresponding gain due to its own credit risk.
+
+(ii) Application of these rules at consolidated level would mean derecognition of unrealised gains and losses which have resulted from changes in the fair value of liabilities that are due to changes in the subsidiaries’ credit risk, in the calculation of consolidated Common Equity Tier 1 capital, in addition to derecognition of any such unrealised gains and losses attributed to the bank at the solo level.
+
+**13**
+
+## 4.7 Defined Benefit Pension Fund Assets and Liabilities
+
+(i) Under the existing guidelines, there is no explicit guidance on treatment of defined benefit pension fund assets and liabilities in the books of banks from the perspective of capital adequacy. In the context of increased focus on the quality ofWithdrawncapital after the financial crisis, it was felt that full recognition of liabilities arising from defined benefit pension funds in the calculation of the Common Equity Tier 1 will ensure that this element of capital is able to absorb losses on a going concern basis. Also, deduction of pension fund assets from the Common Equity Tier 1 addresses the concern that assets arising from pension funds may not be capable of being withdrawn and used for the protection of depositors and other creditors of a bank. (ii) Accordingly, under Basel III, defined benefit pension fund liabilities, as included on the balance sheet, must be fully recognised in the calculation of Common Equity Tier 1 capital (i.e. Common Equity Tier 1 capital cannot be increased through derecognising these liabilities). For each defined benefit pension fund that is an asset on the balance sheet, the asset should be deducted in the calculation of Common Equity Tier 1 net of any associated deferred tax liability which would be extinguished if the asset should become impaired or derecognised
+It includes other defined employees’ funds also.
+
+<!-- PAGE 29 -->
+
+under the relevant accounting standards. (iii) Application of these rules at consolidated level would mean deduction of defined benefit pension fund assets and recognition of defined benefit pension fund liabilities pertaining to subsidiaries in the consolidated Common Equity Tier 1, in addition to those pertaining to the solo bank.
+
+(iv) In terms of circular DBOD.No.BP.BC.80/21.04.018/2010-11 dated February 9, 2011, a special dispensation of amortizing the expenditure arising out of second pension option and enhancement of gratuity over a period of 5 years was permitted to public sector banks as also select th private sector banks who were parties to 9 bipartite settlement with Indian Banks Association (IBA). Further, in terms of this circular, the unamortised expenditure is not required to be reduced from Tier 1 capital. It is not possible to retain this dispensation under Basel III, as all pension fund liabilities are required to be recognized in the balance sheet under Basel III. Accordingly, from January 1, 2013 banks should deduct the entire amount of unamortized expenditure from common equity Tier 1 capital for the purpose of capital adequacy ratios.
+
+## 4.8 Investments in Own Shares (Treasury Stock)
+
+(i) Investment in a bank’s own shares is tantamount to repayment of capital and therefore, it was considered necessary under Basel III to knock-off such investment from the bank’s capital with a view toWithdrawn improving the bank’s quality of capital. This deduction would remove the double counting of equity capital which arises from direct holdings, indirect holdings via index funds and potential future holdings as a result of contractual obligations to purchase own shares. (ii) In India, banks’ should not repay their equity capital without specific approval of Reserve Bank of India. Repayment of equity capital can take place by way of share buy-back, investments in own shares (treasury stock) or payment of dividends out of reserves, none of which are permissible. However, banks may end up having indirect investments in their own stock if they invest in / take exposure to mutual funds or index funds / securities which have long position in bank’s share. In such cases, banks should look through holdings of index securities to deduct exposures to own shares from their Common Equity Tier 1 capital. Following the same approach outlined above, banks must deduct investments in their own Additional Tier 1 capital in the calculation of their Additional Tier 1 capital and investments in their own Tier 2 capital in the calculation of their Tier 2 capital. In this regard,
+
+<!-- PAGE 30 -->
+
+## the following rules may be observed:
+
+(a) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is known; the indirect investment would be equal to bank’s investments in such entities multiplied by the percent of investments of these entities in the investing bank’s respective capital instruments.
+*(b)* If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is not known but, as per the investment policies / mandate of these entities such investments are permissible; the indirect investment would be equal to
+14 bank’s investments in these entities multiplied by 10% of investments of such entities in the investing bank’s capital instruments. Banks must note that this method does not follow corresponding deduction approach i.e. all deductions will be made from the Common Equity Tier 1 capital even though, the investments of such entities are in the Additional Tier 1 / Tier 2 capital of the investing banks.
+
+(iii) Application of these rules at consolidated level would mean deduction of subsidiaries’ investments in their own shares (direct or indirect) in addition to bank’s direct or indirect investments in its own shares while computing consolidated Common Equity Tier 1.
+
+## 4.9 Investments in the Capital of Banking,
+
+# Withdrawn
+
+**15** **Financial and Insurance Entities**
+
+## 4.9.1 Limits on a Bank’s Investments in the Capital of Banking, Financial and Insurance Entities
+
+(i) Under the existing guidelines, a bank’s investment in the capital instruments issued by banking, financial and insurance entities is subject to the following limits:
+(a) A bank’s investments in the **capital instruments** issued by banking, financial and insurance entities should not exceed 10% of its **capital** **funds**, but after all deductions mentioned in **Section C** (upto paragraph 4.8) of this annex.
+14 In terms of Securities and Exchange Board of India (Mutual Funds) Regulations 1996, no mutual fund under all its schemes should own more than ten per cent of any company's paid up capital carrying voting rights. These rules will be applicable to a bank’s equity investments in other banks and financial entities, even if such investments are exempted from ‘capital market exposure’ limit.
+
+<!-- PAGE 31 -->
+
+(b) Banks should not acquire any fresh stake in a bank's equity shares, if by such acquisition, the investing bank's holding exceeds 5% of the investee bank's equity capital.
+(c) Under the provisions of Section 19 (2) of the Banking Regulation Act, 1949, a banking company cannot hold shares in any company whether as pledge or mortgagee or absolute owner of an amount exceeding 30% of the paid-up share capital of that company or 30% of its own paid-up share capital and reserves, whichever is less.
+(d) Equity investment by a bank in a subsidiary company, financial services company, financial institution, stock and other exchanges should not exceed 10% of the bank's paid-up share capital and reserves.
+(e) Equity investment by a bank in companies engaged in non-financial services activities would be subject to a limit of 10% of the investee company’s paid up share capital or 10% of the bank’s paid up share capital and reserves, whichever is less.
+(f) Equity investments in any non-financial services company held by
+(a) a bank; (b) entities which are bank’s subsidiaries, associates or joint ventures or entities directly or indirectly controlled by the bank; and (c) mutual funds managed by AMCs controlled by the bank should in the aggregate not exceed 20% of the investee company’s paid up share capital.
+(g) A bank’s equity investments in subsidiaries and other entities that are engaged in financial services activities together with equity investments
+# Withdrawn
+
+in entities engaged in non-financial services activities should not exceed 20% of the bank’s paid-up share capital and reserves. The cap of 20% would not apply for investments classified under ‘Held for Trading’ category and which are not held beyond 90 days.
+
+Under Basel III, the above guidelines will continue to apply to banks in India.
+
+(ii) An indicative list of institutions which may be deemed to be financial institutions other than banks and insurance companies for capital adequacy purposes is as under:
+
+- Asset Management Companies of Mutual Funds / Venture Capital Funds / Private Equity Funds etc;
+- Non-Banking Finance Companies;
+- Housing Finance Companies;
+- Primary Dealers;
+- Merchant Banking Companies; and
+- Entities engaged in activities which are ancillary to the business of banking under the B.R. Act, 1949.
+
+<!-- PAGE 32 -->
+
+(iii) Investments made by a banking subsidiary/ associate in the equity or non- equity regulatory capital instruments issued by its parent bank should be deducted from such subsidiary's regulatory capital following corresponding deduction approach, in its capital adequacy assessment on a solo basis. The regulatory treatment of investment by the non- banking financial subsidiaries / associates in the parent bank's regulatory capital would, however, be governed by the applicable regulatory capital norms of the respective regulators of such subsidiaries / associates.
+
+## 4.9.2 Treatment of a Bank’s Investments in the Capital Instruments
+
+## Issued by Banking, Financial and Insurance Entities within Limits
+
+(i) Under the existing guidelines, based on Basel II framework, the following investments are required to be deducted 50% from Tier 1 and 50% from Tier 2 capital.
+- While applying the capital adequacy framework at the **consolidated** **level**, all investments in the regulatory capital instruments of insurance subsidiaries and all associates where the bank’s investment in the equity is in excess of 30% of investee company’s equity.
+- While applying the capital adequacy framework at the **solo level**, all investments in the regulatory capital instruments of both insurance and other subsidiaries and all associates where the bank’s investment in the equity is in excess of 30% of investee company’s equity.
+# Withdrawn
+
+(iii) The investment of banks in the regulatory capital instruments of other financial entities came in for criticism during the crisis because of their contribution to inter-connectedness amongst the financial institutions. In addition, these investments also amounted to double counting of capital in the financial system. Therefore, under Basel III, these investments have been subjected to stringent treatment in terms of deduction from respective tiers of regulatory capital. It will help ensure that when capital absorbs a loss at one financial institution this does not immediately result in the loss of capital in a bank which holds that capital. This will help increase the resilience of the banking sector to financial shocks and reduce systemic risk and pro-cyclicality. A schematic representation of treatment of banks’ investments in capital instruments of financial entities is shown in **Figure 1** below. 16 Accordingly, all investments in the capital instruments issued by
+
+16 For this purpose, investments held in AFS / HFT category may be reckoned at their market values, whereas, those held in HTM category may be reckoned at values appearing in the Balance sheet of the Bank.
+
+<!-- PAGE 33 -->
+
+banking, financial and insurance entities within the limits mentioned in **paragraph 4.9.1** will be subject to the following rules:
+
+## 4.9.2.1 Reciprocal Cross- Holdings in the Capital of Banking, Financial and Insurance Entities
+
+Reciprocal cross holdings of capital might result in artificially inflating the capital position of banks. Such holdings of capital will be fully deducted. Banks must apply a “corresponding deduction approach” to such investments in the capital of other banks, other financial institutions and insurance entities. This means the deduction should be applied to the same component of capital (Common Equity, Additional Tier 1 and Tier 2 capital) for which the capital would qualify if it was issued by the bank itself. For this purpose, a holding will be treated as reciprocal cross holding if the investee entity has also invested in the any class of bank’s capital instruments which need not necessarily be the same as the bank’s holdings.
+
+# Withdrawn
+
+<!-- PAGE 34 -->
+
+**Figure 1: Investments in the Capital Instruments of**
+
+## Banking, Financial and Insurance Entities that are outside the scope of regulatory consolidation (i.e. excluding
+
+## insurance and non-financial subsidiaries)
+
+|In the entities where the bank does not||In the entities where the bank owns more||
+|---|---|---|---|
+|own more than 10% of the common||than 10% of the common share capital of||
+|share capital of individual entity||individual entity||
+|Aggregate of investments in capital||EQUITY|NON‐COMMON EQUITY|
+|instruments of all such entities and|Compare aggregated||All such investment will|
+|compare with 10% of bank’s own|equity investments||be deducted|
+|Common Equity|with 10% of bank’s|||
+
+following corresponding deduction Common Equity approach
+
+|Investments less|Investments|||
+|---|---|---|---|
+|than 10% will be|more than 10%|Investments|More than|
+|risk weighted|will be deducted|less than|10% will be|
+|according to|following|10% will be|deducted|
+|banking book|corresponding|risk|from|
+|and trading book|deduction|weighted at|Common|
+|rules|approach|250%|Equity|
+
+# Withdrawn
+
+<!-- PAGE 35 -->
+
+***4.9.2.2 Investments in the Capital of Banking, Financial and*** ***Insurance Entities which are outside the Scope of Regulatory*** ***Consolidation and where the Bank does not Own more than 10% of the*** ***Issued Common Share Capital of the Entity***
+(i) The regulatory adjustment described in this section applies to investments in the capital of banking, financial and insurance entities that are outside the scope of regulatory consolidation and where the bank does not own more than 10% of the issued common share capital of the entity. In addition:
+17
+
+a) Investments include direct, indirect and synthetic holdings of capital instruments. For example, banks should look through holdings of index securities to determine their underlying holdings of capital.
+b) Holdings in both the banking book and trading book are to be included. Capital includes common stock (paid-up equity capital) and all other types of cash and synthetic capital instruments (e.g. subordinated debt).
+c) Underwriting positions held for five working days or less can be excluded. Underwriting positions held for longer than five working days must be included.
+d) If the capital instrument of the entity in which the bank has invested does not meet the criteria for Common Equity Tier 1,
+# Withdrawn
+
+Additional Tier 1, or Tier 2 capital of the bank, the capital is to be considered common shares for the purposes of this regulatory 18 adjustment.
+
+e) With the prior approval of RBI a bank can temporarily exclude certain investments where these have been made in the context of resolving or providing financial assistance to reorganise a distressed institution.
+(ii) If the total of all holdings listed in paragraph (i) above, in aggregate exceed 10% of the bank’s Common Equity (after applying all other regulatory adjustments in full listed prior to this one), then the amount above 10% is required to be deducted, applying a corresponding
+
+17 Indirect holdings are exposures or part of exposures that, if a direct holding loses its value, will result in a loss to the bank substantially equivalent to the loss in the value of direct holding. If the investment is issued out of a regulated financial entity and not included in regulatory capital in the relevant sector of the financial entity, it is not required to be deducted.
+
+<!-- PAGE 36 -->
+
+deduction approach. This means the deduction should be applied to the same component of capital for which the capital would qualify if it was issued by the bank itself. Accordingly, the amount to be deducted from common equity should be calculated as the total of all holdings which in aggregate exceed 10% of the bank’s common equity (as per above) multiplied by the common equity holdings as a %age of the total capital holdings. This would result in a Common Equity deduction which corresponds to the proportion of total capital holdings held in Common Equity. Similarly, the amount to be deducted from Additional Tier 1 capital should be calculated as the total of all holdings which in aggregate exceed 10% of the bank’s Common Equity (as per above) multiplied by the Additional Tier 1 capital holdings as a %age of the total capital holdings. The amount to be deducted from Tier 2 capital should be calculated as the total of all holdings which in aggregate exceed 10% of the bank’s Common Equity (as per above) multiplied by the Tier 2 capital holdings as a %age of the total capital holdings. **(Please refer to illustration in Appendix 9).**
+
+(iii) If, under the corresponding deduction approach, a bank is required to make a deduction from a particular tier of capital and it does not have enough of that tier of capital to satisfy that deduction, the shortfall will be deducted from the next higher tier of capital (e.g. if a bank does not have enough Additional Tier 1 capital to satisfy the deduction, the shortfall will be deducted from Common Equity Tier 1 capital).
+
+(iv) Investments below the thresholWithdrawnd of 10% of bank’s Common Equity, which are not deducted, will be risk weighted. Thus, instruments in the trading book will be treated as per the market risk rules and instruments in the banking book should be treated as per the standardised approach or internal ratings-based approach (as applicable). For the application of risk weighting the amount of the holdings which are required to be risk weighted would be allocated on a pro rata basis between the Banking and Trading Book. Such investments in case of non-scheduled commercial banks having negative CRAR will be fully deducted from Common Equity Tier 1 capital of investing bank.
+
+(v) For the purpose of risk weighting of investments in as indicated in para (iv) above, investments in securities having comparatively higher risk weights will be considered for risk weighting to the extent required to be risk weighted, both in banking and trading books. In other words, investments with comparatively poor ratings (i.e. higher risk weights) should be considered for the purpose of application of risk weighting first and the residual investments should be considered for deduction.
+
+<!-- PAGE 37 -->
+
+## 4.9.2.3 Significant Investments in the Capital of Banking,
+
+## Financial and Insurance Entities which are outside the Scope of Regulatory Consolidation
+
+(i) The regulatory adjustment described in this section applies to investments in the capital of banking, financial and insurance entities that are outside the scope of regulatory consolidation where the bank owns more than 10% of the issued common share capital of the
+20 issuing entity or where the entity is an affiliate of the bank. In addition: 21
+
+- Investments include direct, indirect and synthetic holdings of capital instruments. For example, banks should look through holdings of index securities to determine their underlying holdings of capital.
+- Holdings in both the banking book and trading book are to be included. Capital includes common stock and all other types of cash and synthetic capital instruments (e.g. subordinated debt).
+- Underwriting positions held for five working days or less can be excluded. Underwriting positions held for longer than five working days must be included.
+- If the capital instrument of the entity in which the bank has invested does not meet the criteria for Common Equity Tier 1, Additional Tier 1, or Tier 2 capital of the bank, the capital is to be considered
+# Withdrawn22
+
+common shares for the purposes of this regulatory adjustment.
+
+- With the prior approval of RBI a bank can temporarily exclude certain investments where these have been made in the context of resolving or providing financial assistance to reorganise a distressed institution.
+19 Investments in entities that are outside of the scope of regulatory consolidation refers to investments in entities that have not been consolidated at all or have not been consolidated in such a way as to result in their assets being included in the calculation of consolidated risk-weighted assets of the group. 20 An affiliate of a bank is defined as a company that controls, or is controlled by, or is under common control with, the bank. Control of a company is defined as (1) ownership, control, or holding with power to vote 20% or more of a class of voting securities of the company; or (2) consolidation of the company for financial reporting purposes 21 Indirect holdings are exposures or part of exposures that, if a direct holding loses its value, will result in a loss to the bank substantially equivalent to the loss in the value of direct holding. If the investment is issued out of a regulated financial entity and not included in regulatory capital in the relevant sector of the financial entity, it is not required to be deducted.
+
+<!-- PAGE 38 -->
+
+(ii) ***Investments other than Common Shares*** All investments included in para (i) above which are not common shares must be fully deducted following a corresponding deduction approach. This means the deduction should be applied to the same tier of capital for which the capital would qualify if it was issued by the bank itself. If the bank is required to make a deduction from a particular tier of capital and it does not have enough of that tier of capital to satisfy that deduction, the shortfall will be deducted from the next higher tier of capital (e.g. if a bank does not have enough Additional Tier 1 capital to satisfy the deduction, the shortfall will be deducted from Common Equity Tier 1 capital).
+
+(iii) ***Investments which are Common Shares*** All investments included in para (i) above which are common shares and which exceed 10% of the bank’s Common Equity (after the application of all regulatory adjustments) will be deducted while calculating Common Equity Tier 1 capital. The amount that is not deducted (upto 10% if bank’s common equity invested in the equity capital of such entities) in the calculation of Common Equity Tier 1 will be risk weighted at 250% (please refer to illustration given in **Appendix**
+
+**9**). Such investments in common shares of scheduled commercial banks having negative CRAR will be deducted from Common Equity Tier 1 capital. Similar investments in case of non-scheduled commercial banks having CRAR less than 3% will also be deducted from Common Equity Tier 1 capital.
+# Withdrawn
+
+4.9.2.4 With regard to computation of indirect holdings through mutual funds or index funds, of capital of banking, financial and insurance entities which are outside the scope of regulatory consolidation as mentioned in paragraphs
+4.9.2.2 and 4.9.2.3 above, the following rules may be observed:
+(i) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the financial entities is known; the indirect investment of the bank in such entities would be equal to bank’s investments in these entities multiplied by the percent of investments of such entities in the financial entities’ capital instruments. (ii) If the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds / investment companies in the capital instruments of the investing bank is not known but, as per the investment policies / mandate of these entities such investments are permissible; the indirect investment would be equal to bank’s investments in
+
+<!-- PAGE 39 -->
+
+these entities multiplied by maximum permissible limit which these entities are authorized to invest in the financial entities’ capital instruments.
+
+(iii) If neither the amount of investments made by the mutual funds / index funds / venture capital funds / private equity funds in the capital instruments of financial entities nor the maximum amount which these entities can invest in financial entities are known but, as per the investment policies / mandate of these entities such investments are permissible; the entire investment of the bank in these entities would be treated as indirect investment in financial entities. Banks must note that this method does not follow corresponding deduction approach i.e. all deductions will be made from the Common Equity Tier 1 capital even though, the investments of such entities are in the Additional Tier 1 / Tier 2 capital of the investing banks.
+
+**4.9.3** Application of these rule at consolidated level would mean:
+- Identifying the relevant entities below and above threshold of 10% of common share capital of investee entities, based on aggregate investments of the consolidated group (parent plus consolidated subsidiaries) in common share capital of individual investee entities.
+- Applying the rules as stipulated in **paragraphs 4.9.2.1, 4.9.2.2 &**
+**4.9.2.3** and segregating investments into those which will be deducted from the consolidated capital and those which will be risk weighted. For this purpose,
+# Withdrawn
+
+¾ investments of the entire consolidated entity in capital instruments of investee entities will be aggregated into different classes of instruments. ¾ the consolidated Common Equity of the group will be taken into account.
+
+<!-- PAGE 40 -->
+
+## SECTION D
+
+## 5. D ISCLOSURE REQUIREMENTS
+
+**5.1** In order to ensure adequate disclosure of details of the components of capital which aims at improving transparency of regulatory capital reporting as well as improving market discipline, banks are required to disclose the following:
+(i) a full reconciliation of all regulatory capital elements back to the balance sheet in the audited financial statements; (ii) separate disclosure of all regulatory adjustments and the items not deducted from Common Equity Tier 1 according to paragraph 4.9.2.3 (iii) of Section C; (iii) a description of all limits and minima, identifying the positive and negative elements of capital to which the limits and minima apply; (iv) a description of the main features of capital instruments issued; and
+(v) banks which disclose ratios involving components of regulatory capital (e.g. “Equity Tier 1”, “Core Tier 1” or “Tangible Common Equity” ratios) must accompany such disclosures with a comprehensive explanation of how these ratios are calculated.
+**5.2** Banks are also required to make available on their websites the full terms and conditions of all instruments included in regulatory capital. The Basel Committee will issue more detailedWithdrawnPillar 3 disclosure shortly, based on which appropriate disclosure norms under Pillar 3 will be issued by RBI.
+**5.3** During the transition phase banks are required to disclose the specific components of capital, including capital instruments and regulatory adjustments which are benefiting from the transitional provisions.
+Comprehensive guidelines on definition of Capital disclosure requirements will be issued separately once the BCBS proposals in this regard are finalized. These disclosures will be the part of revised Pillar 3 disclosure requirements.
+
+<!-- PAGE 41 -->
+
+## SECTION E
+
+## 6. T RANSITIONAL ARRANGEMENTS
+
+**6.1** In order to ensure smooth migration to Basel III without aggravating any near term stress, appropriate grandfathering and transitional arrangements have been made by the BCBS in terms of which national implementation of Basel III will begin on January 1, 2013 and will be fully phased-in on January 1, 2019. Having regard to relatively higher Common Equity Tier 1 capital ratio of banks operating in India, the transitional arrangements could be shorter than that envisaged by the BCBS. The transitional arrangements will begin from January 1, 2013. However, target ratios to be achieved in subsequent years will be aligned with annual closing of banks. Capital ratios and deductions from Common Equity will be fully phased-in and implemented as on March 31, 2018. The phase-in arrangements for banks operating in India are indicated in the following Table:
+## Transitional Arrangements-Scheduled Commercial Banks
+
+## (excluding LABs and RRBs)
+
+(% of RWAs)
+
+|Minimum capital ratios|January 1, 2013|March 31, 2014|March 31, 2015|March 31, 2016|March 31, 2017|March 31, 2018|
+|---|---|---|---|---|---|---|
+|Minimum Common Equity Tier 1 (CET1)|4.5|5|5.5||5.5 5.5 5.5||
+|Capital conservation buffer (CCB)|-|-|0.625||1.25 1.875|2.5|
+|Minimum CET1+ CCB Minimum Tier 1 capital Minimum Total Capital*|4.5|Withdrawn 5 66.577 7 7 9999 9 9|6.125||6.75 7.375|8|
+|Minimum Total Capital +CCB|9|9|9.625||10.25 10.875|11.5|
+|Phase-in of all deductions from CET1(in%)#|20|40|60||80 100 100||
+
+*The difference between the minimum total capital requirement of 9% and the Tier 1 requirement can be met with Tier 2 and higher forms of capital; # The same transition approach will apply to deductions from Additional Tier 1 and Tier 2 capital
+
+**6.2** The regulatory adjustments (i.e. deductions and prudential filters) would be fully deducted from Common Equity Tier 1 only by March 31, 2017. During this transition period, the remainder not deducted from Common Equity Tier 1 / Additional Tier 1 / Tier 2 capital will continue to be subject to existing treatments. To illustrate:
+- if a deduction amount is taken off CET1 under the Basel III rules, the treatment for it in 2013 is as follows: 20% of that amount is taken off
+
+<!-- PAGE 42 -->
+
+CET1 and 80% of it is taken off the tier where this deduction used to apply under existing treatment (e.g. in case of DTAs, irrespective of their origin, they are currently deducted from Tier 1 capital. Under new rules, 20% of the eligible deduction will be made to CET1 and 80% will be made to balance Tier 1 capital in the year 2013).
+
+- if the item to be deducted under new rules based on Basel III, is risk weighted under existing framework, the treatment for it in 2013 is as follows: 20% of the amount is taken off CET1, and 80% is subject to the risk weight that applies under existing framework.
+**6.3** The treatment of capital issued out of subsidiaries and held by third parties (e.g. minority interest) will also be phased in. Where such capital is eligible for inclusion in one of the three components of capital according to **paragraphs 3.4.1, 3.4.2 & 3.4.3 of Section B**, it can be included from January 1, 2013. Where such capital is not eligible for inclusion in one of the three components of capital but is included under the existing guidelines, 20% of this amount should be excluded from the relevant component of capital on January 1, 2013, 40% on March 31, 2014, 60% on March 31, 2015, 80% on March 31, 2016 and reach 100% on March 31, 2017.
+**6.4** Capital instruments which no longer qualify as non-common equity Tier 1 capital or Tier 2 capital (e.g. IPDI and Tier 2 debt instruments with step-ups) will be phased out beginning January 1, 2013. Fixing the base at the nominal amount of such instruments outstanding on January 1, 2013, their recognition will be capped at 90% from January 1, 2013, with the cap reducing by 10%
+# Withdrawn
+
+24 age points in each subsequent year. This cap will be applied to Additional Tier 1 and Tier 2 capital instruments separately and refers to the total amount of instruments outstanding which no longer meet the relevant entry criteria. To the extent an instrument is redeemed, or its recognition in capital is amortised, after January 1, 2013, the nominal amount serving as the base is not reduced.
+
+24 The base should only include instruments that will be grandfathered. If an instrument is derecognized on January 1, 2013, it does not count towards the base fixed on January 1, 2013. Also, the base for the transitional arrangements should reflect the outstanding amount which is eligible to be included in the relevant tier of capital under the existing framework applied as on December 31, 2012. Further, for Tier 2 instruments which have begun to amortise before January 1, 2013, the base for grandfathering should take into account the amortised amount, and not the full nominal amount. Thus, individual instruments will continue to be amortised at a rate of 20% per year while the aggregate cap will be reduced at a rate of 10% per year.
+
+To calculate the base in cases of instruments denominated in foreign currency, which no longer qualify for inclusion in the relevant tier of capital ( but will be grandfathered) should be included using their value in the reporting currency of the bank as on January 1, 2013. The base will therefore be fixed in the reporting currency of the bank throughout the transitional period. During the transitional period instruments denominated in a foreign currency should be valued as they are reported on the balance sheet of the bank at the relevant reporting date (adjusting for any amortisation in the case of Tier 2 instruments) and, along with all other instruments which no longer meet the criteria for inclusion in the relevant tier of capital, will be subject to the cap.
+
+<!-- PAGE 43 -->
+
+In addition, instruments, specifically those with an incentive to be redeemed will be treated as follows:
+
+**6.4.1** If the non-common equity regulatory capital instrument has been issued prior to September 12, 2010, then the treatment indicated in paragraphs from 6.4.1.1 to 6.4.1.4 will apply:
+6.4.1.1 If the instrument does not have a call and a step-up and other incentive to redeem - (i) if it meets all the other criteria, including the non- viability criteria, then such instrument will continue to be fully recognised from January 1, 2013; (ii) if the instrument does not meet the other criteria, including the non-viability criteria, then it will be phased out from January 1,
+2013.
+6.4.1.2 If the instrument has a call and a step-up and the effective maturity date was prior to September 12, 2010 and the call option was not exercised - (i) if the instrument meets the all other criteria, including the non- viability criteria, then such instrument will continue to be fully recognised from January 1, 2013; (ii) if the instrument does not meet the other criteria, including the non-viability criteria, then it will be phased out from January 1,
+2013.
+6.4.1.3 If the instrument has a call and a step-up and the effective maturity date is between September 12, 2010 and December 31, 2012 and the call option is not exercised – (i) if the instrument meets the all other criteria, including the non-viability criteria, then such instrument will continue to be fully recognised from January 1, 201
+# Withdrawn
+
+3; (ii) if the instrument does not meet the other criteria, including the non-viability criteria, then it will be fully derecognised from January 1, 2013. However, if such instrument meets all other criteria except the non-viability criteria then it will be phased out from January 1, 2013.
+
+6.4.1.4 If the instrument has a call and a step-up and the effective maturity date is after January 1, 2013 - (i) the instrument will be phased out from January 1, 2013 till the call option is exercised; (ii) if the call option is not exercised and it meets the all other criteria, including the non-viability criteria, then the instrument will be phased out from January 1, 2013 till the call date and fully recognised after the call date. However, if it does not meet all the criteria including the non-viability criteria, then the instrument will be phased out from January 1, 2013 till the call date and fully derecognised after the call date.
+
+<!-- PAGE 44 -->
+
+**6.4.2** If the non-common equity regulatory capital instrument has been issued between September 12, 2010 and January 1, 2013, then the treatment indicated in paragraphs from 6.4.2.1 to 6.4.2.3 will apply:
+6.4.2.1 If such instrument meets all the criteria including non-viability criteria, then it will continue to be fully recognised from January 1, 2013.
+6.4.2.2 If such instrument does not meet all the criteria including non- viability criteria, then it will be fully derecognised from January 1, 2013.
+6.4.2.3 If such instrument does not meet all the criteria except the non- viability criteria, then it will be phased out from January 1, 2013.
+**6.4.3** Non-common equity regulatory capital instrument issued after January 1, 2013 must comply with all the eligibility criteria including the non- viability criteria in order to be an eligible regulatory capital instrument (Additional Tier 1 or Tier 2 capital). Otherwise, such instrument will be fully derecognised as eligible capital instrument.
+**6.4.4** A schematic representation of abovementioned phase-out arrangements has been shown in the **Appendix 13**.
+**6.5** Capital instruments which do not meet the criteria for inclusion in Common Equity Tier 1 will be excluded from Common Equity Tier 1 as on January 1, 2013. However, instruments meeting the following two conditions will be phased out over the same horizon described in paragraph **6.4**: (i) they are treated as equity under the prevailing accounting standards; and (ii) they receive unlimited recognition as part of Tier 1 capital under current laws / regulations. Withdrawn
+**6.6** An illustration of transitional arrangements-Capital instruments which no longer qualify as non-common equity Tier 1 capital or Tier 2 capital is furnished in the **Appendix 10.**
+25 Please refer circular DBOD.BP.BC.No.75/21.06.001/2010‐11 dated January 20, 2011 on ‘Regulatory Capital Instruments – Step up Option’. Banks may also refer to the BCBS Press Release dated September 12, 2010 indicating announcements made by the Group of Governors and Heads of Supervision on higher global minimum capital standards
+
+<!-- PAGE 45 -->
+
+# ANNEX 2
+
+# RISK COVERAGE
+
+# This Annex covers modifications to Basel II framework in the area of capital
+
+charge for credit risk including counterparty credit risk, external credit assessments, credit risk mitigation and capital charge for market risk.
+
+## 1 C APITAL CHARGE FOR CREDIT RISK²⁶
+
+## 1.1 Claims on Banks (Exposure to capital instruments)
+
+As per existing guidelines, banks’ exposure to regulatory capital instruments issued by other banks within the permissible ceiling of 10% of capital funds of the investing bank is subject to stringent risk weights, particularly in cases where the CRAR of investee banks is below the minimum requirements applicable to them. Under Basel III, these instructions would undergo change for two reasons: (i) revisions to the definition of capital under Basel III involve differential treatment of banks’ exposure to regulatory capital instruments issued by other banks which are treated as significant and those which are not treated as significant; and (ii) the capital instruments other than equity would be subject to deduction in the case of entities where banks have made significant equity investments. As indicated in **paragraphs 4.9.2.2** **and 4.9.2.3 of Section C of Annex 1**, with a view to giving limited recognition to banks’ investment in capital instruments of other banks, the following **investments in capital** **instruments** would not be deducted, but would attract **appropriate risk weights**:
+
+(i) Investments in **capital instruments** of banks where the investing bank holds not more than 10% of the issued common shares of the investee banks, subject to the following conditions:
+- Aggregate of these investments, together with investments in the capital instruments in insurance and other financial entities, do not exceed 10%Withdrawn of Common Equity of the investing bank.
+- The equity investment in the investee entities is outside the scope of regulatory consolidation.
+(ii) **Equity investments** in other banks where the investing bank holds more than 10% of the issued common shares of the investee banks, subject to the following conditions:
+
+- Aggregate of these investments, together with such investments in insurance and other financial entities, do not exceed 10% of Common Equity of the investing bank.
+- The equity investment in the investee entities is outside the scope of regulatory consolidation.
+Accordingly, Table 4: Claims on Banks²⁷ incorporated in India and Foreign Bank Branches in India under paragraph 5.6 of the Master Circular is revised as under:
+
+26 These rules will be applicable to a bank’s equity investments in other banks and financial entities, even if such investments are exempted from ‘capital market exposure’ limit.
+
+<!-- PAGE 46 -->
+
+**Table 4: Claims on Banks Incorporated in India and Foreign Bank Branches in India**
+
+|||||Risk Weights (%)|||
+|---|---|---|---|---|---|---|
+|||All Scheduled Banks (Commercial, Regional Rural Banks, Local Area Banks and Co-Operative Banks)|||All Non-Scheduled Banks (Commercial, Regional Rural Banks, Local Area Banks and Co-Operative Banks)||
+|Level of Common Equity Tier 1 capital including applicable capital conservation buffer (CCB) (%) of the investee bank (where applicable)|Investments referred to in paragraph 1.1(i)|Investmen ts referred to in paragraph 1.1(ii)|All other claims|Investments referred to in paragraph 1.1(i)|Investments referred to in paragraph 1.1(ii)|All Other Claims|
+|1 2||3|4 5||6|7|
+|Applicable Minimum Common Equity + Applicable CCB and above|125 % or the risk weight as per the rating of the instrument or counterparty, whichever is higher|250 20||125% or the risk weight as per the rating of the instrument or counterparty, whichever is higher|300 100||
+|Applicable Minimum Common Equity + CCB = 75% and <100% of applicable CCB²⁸||150 300 50 250 350 150|||||
+|Applicable Minimum Common Equity + CCB = 50% and <75% of applicable CCB||250 350 100 350 450 250|||||
+|Applicable Minimum Common Equity + CCB = 0% and <50% of applicable CCB||350 450 150 625 Full Withdrawn|||deduction*|350|
+|Minimum Common Equity Tier 1 capital less than applicable minimum|625 Full|deduction*|625 Full|deduction*|Full deduction*|625|
+|1.2||* The deduction should be made from Common Equity Tier 1 Capital. issued by non-banking financial entities is not subject to any specific risk weights; these are risk weighted as per the general capital adequacy norms applicable to bank’s claims on non-banking financial entities. However, banks’ investments in financial entities exceeding 30% of paid-up equity of unconsolidated investee companies are deducted from the investing banks’ regulatory capital i.e. 50% from Tier 1 capital and 50% from Tier 2 capital. Under Basel III, as in the case of exposure to capital instruments issued by|As per existing instructions, banks’ exposure to capital instruments||||
+
+27 For claims held in AFS and HFT portfolios, please see paragraphs 5.1 & 5.2 under ‘capital charge for market risk’ of this Annex. For example, in 2016, minimum Common Equity Tier 1 of 5.5% and CCB between equal to 75% of 1.25% and less than 1.25%.
+
+<!-- PAGE 47 -->
+
+## banks, exposure to capital instruments issued by non-banking financial
+
+## entities is also subject to specific treatment, as indicated in paragraph 1.1
+
+above. Accordingly, paragraph 5.13.5 of Master circular dealing with bank’s exposure on NBFCs will be replaced as under:
+
+### Claims on Capital Instruments issues by NBFCs
+
+**“5.13.5** The exposure to **capital instruments** issued by NBFCs which are not deducted and are required to be risk weighted in terms of **paragraph 4.9.2.2 of Section C of Annex 1** would be risk weighted at 125% or as per the external ratings, whichever is higher. The exposure to **equity instruments** issued by NBFCs which are not deducted and are required to be risk weighted in terms of **paragraph 4.9.2.3 of Section C of Annex 1** would be risk weighted at 250%. The claims (other than in the form of capital instruments of investee companies) on rated as well as unrated ‘Non-deposit Taking Systemically Important Non- Banking Financial Companies (NBFC-ND-SI), other than AFCs, NBFC-IFCs and NBFC-IDF, regardless of the amount of claim, shall be uniformly risk weighted at 100 %. (For risk weighting claims on AFCs, NBFC-IFC and NBFC-IDFs²⁹, please refer to paragraph 5.8.1)”.
+
+**1.3** For reasons explained in paragraph 1.2 above, paragraph 5.13.7 of Master Circular dealing with bank’s investments in the paid up equity of financial entities (other than banks and NBFCs) will be replaced as under:
+### Claims on Capital Instruments of Financial Entities (other than banks and NBFCs)
+
+“**5.13.7** The exposure to capital instruments issued by financial entities (other than banks and NBFCs) which are not deducted and are required to be risk weighted in terms of **paragraph**
+
+**4.9.2.2 of Section C of Annex 1** would be risk weighted at 125% or as per the external ratings whichever is higher. The exposure to equity instruments issued by financial entities (other than banks and NBFCs) which are not deducted and are required to be risk weighted in terms of **paragraph 4.9.2.3 of Section C of Annex 1** would be risk weighted at 250%.
+# Withdrawn
+
+**1.4** As per existing instructions, banks’ significant investments in commercial entities are not subject to any specific capital adequacy treatment. Under Basel II framework, the national supervisors had the discretion in this regard. However, under Basel III, such investments are required to be risk weighted at 1250%. Accordingly, paragraph 5.13.6 of Master circular dealing with bank’s investments in the paid up equity of non-financial entities will be replaced as under:
+### Claims on Commercial Entities in the Nature of Equity
+
+“**5.13.6** All investments in the paid-up equity of non-financial entities (other than subsidiaries) which exceed 10% of the issued common share capital of the issuing entity or where the entity is an unconsolidated affiliate as defined in **paragraph 4.9.2.3 (i) of Section C of** **Annex 1** will receive a risk weight of 1111% 30. Equity investments equal to or below 10% paid-up equity of such investee companies shall be assigned a 125% risk weight or the risk weight as warranted by rating or lack of it, whichever higher”.
+
+29 Please refer to circular DBOD.No.BP.BC.74/21.06.001/2009-10 dated February 12, 2010 Equity investments in non-financial subsidiaries will be deducted from the consolidated / solo bank capital as indicated in paragraph 3.2.2 of Section B of Annex 1.
+
+<!-- PAGE 48 -->
+
+**1.5** As per existing guidelines, in the case of non-DvP transactions, if five business days after the second contractual payment / delivery date the second leg has not yet effectively taken place, the bank that has made the first payment leg will deduct from capital the full amount of the value transferred plus replacement cost, if any. However, under Basel III, such exposures are required to be assigned risk weight of 1250% (1111%) instead of deduction. Accordingly, paragraph 5.15.5 (v) of the Master circular dealing with the treatment of failed non-DvP transactions (free deliveries) will be replaced as under: “(v) For non-DvP transactions (free deliveries) after the first contractual payment / delivery leg, the bank that has made the payment will treat its exposure as a loan if the second leg has not been received by the end of the business day. If the dates when two payment legs are made are the same according to the time zones where each payment is made, it is deemed that they are settled on the same day. For example, if a bank in Tokyo transfers Yen on day X (Japan Standard Time) and receives corresponding US Dollar via CHIPS on day X (US Eastern Standard Time), the settlement is deemed to take place on the same value date. Banks shall compute the capital requirement using the counterparty risk weights prescribed in these guidelines. However, if five business days after the second contractual payment / delivery date the second leg has not yet effectively taken place, the bank that has made the first payment leg will receive a risk weight of 1111% on the full amount of the value transferred plus replacement cost, if any. This treatment will apply until the second payment / delivery leg is effectively made.”
+1.5.1 As per existing guidelines contained in paragraph 5.15.2(4) Table 8, Item No.9 of the Master Circular, the credit lines and other similar commitments that are unconditionally cancellable at any time by the bank without prior notice or that effectively provide for automatic cancellation due to deterioration in a borrower’s credit worthiness attract a credit conversion factor of 0%. However, this will be subject to banks demonstrating that they Withdrawn are actually able to cancel any undrawn commitments in case of deterioration in a borrower’s credit worthiness failing which the credit conversion factor
+31 applicable to such facilities which are not cancellable will apply. Accordingly a suitable footnote as under will be inserted against Item No 9:
+
+“However, this will be subject to banks demonstrating that they are actually able to cancel any undrawn commitments in case of deterioration in a borrower’s credit worthiness failing which the credit conversion factor applicable to such facilities which are not cancellable will apply. Banks’ compliance to these guidelines will be assessed under Annual Financial Inspection / Supervisory Review and Evaluation Process under Pillar 2 of RBI.”
+
+**1.6** Certain securitisation exposures such as poorly rated / unrated exposures, first loss credit enhancements and credit enhancing I/O strips (net of the gain-on-sale that is required to be deducted from Tier 1 capital) are required to be deducted at 50% from Tier 1 capital and 50% from Tier 2 capital under the existing guidelines. However, under Basel III, these exposures will be risk weighted at 1250% (1111%). Consequently, paragraph Banks’ compliance to these guidelines will be assessed under Annual Financial Inspection / Supervisory Review and Evaluation Process under Pillar 2 of RBI
+
+<!-- PAGE 49 -->
+
+5.16.2 of the Master circular on deduction of securitization exposures from capital funds will be replaced as under:
+## “5.16.2 Treatment of Securitisation Exposures
+
+(i) Credit enhancements which are first loss positions should be risk weighted at 1111%. (ii) Any rated securitisation exposure with a long term rating of ‘B+ and below’ when not held by an originator, and a long term rating of ‘BB+ and below’ when held by the originator will receive a risk weight of 1111%. (iii) Any unrated securitisation exposure, except an eligible liquidity facility as specified in paragraph 5.16.8 should be risk weighted at 1111%. In an unrated and ineligible liquidity facility, both the drawn and undrawn portions (after applying a CCF of 100%) shall receive a risk weight of 1111%. (iv) The holdings of securities devolved on the originator through underwriting should be sold to third parties within three-month period following the acquisition. In case of failure to off-load within the stipulated time limit, any holding in excess of 20 % of the original amount of issue, including secondary market purchases, shall receive a risk weight of 1111%.”
+**1.7** Paragraph 5.16.3 (ii) (b) of the Master Circular on implicit support for securitization transactions will be deleted, as it is covered elsewhere. “Additionally, the bank need to deduct any “gain-on-sale”, as defined above, from Common Equity Tier 1 capital.”
+# 1.8 As stated above certain securitisation which were earlier required to be
+
+# deducted are now risk weighted at 1111%. Accordingly, Tables 10 and 10-A
+
+# under paragraph 5.16.5 (ii) andWithdrawn(iii), respectively, of the Master circular on
+
+# Risk Weighted Securitisation Exposures will be replaced as under:
+
+**Table 10: Securitisation Exposures – Risk Weight Mapping to Long-Term Ratings**
+
+|Domestic rating agencies|AAA AA|A BBB|BB B and below or unrated|
+|---|---|---|---|
+|other than originators (%) Risk weight for banks|20 30 50|100 350|1111|
+|Risk weight for originator||||
+
+20 30 50 100 1111
+
+<u>(%)</u>
+**Table 10-A: Commercial Real Estate Securitisation Exposures –**
+
+## Risk Weight mapping to long-term ratings
+
+## Domestic Rating B and below or
+
+## AAA AA A BBB BB
+
+## Agencies unrated
+
+## Risk weight for banks
+
+**other than originators** 100 100 100 150 400 1111
+
+**(%)** **Risk weight for** <u>originator (%)</u>
+100 100 100 150 1111
+
+<!-- PAGE 50 -->
+
+**1.9** As stated above, certain securitisation exposures which were earlier required to be deducted are now risk weighted at 1111%. Accordingly, Tables 11 and 11-A under Paragraph 5.16.9 of the Master circular on re-securitisation exposures will be replaced as under:
+**Table 11: Re-securitisation Exposures –**
+
+**Risk Weight Mapping to Long-Term Ratings**
+
+**BB**
+
+|Domestic rating agencies||AAA|AA|A|BBB|B and below or unrated|
+|---|---|---|---|---|---|---|
+|Risk weight for banks other than originators (%)||40 60 100 200 650||||1111|
+|Risk weight for originator|(%) Table 11 A: Commercial Real Estate Re-Securitisation Exposures –|40 60 100 200||||1111|
+|Domestic rating agencies||AAA|AA|A|BBB|BB and below or unrated|
+|Risk weight for banks other than originators (%)||200 200 200|||400|1111|
+|Risk weight for originator (%)||200|200|200|400|1111|
+
+**Risk Weight Mapping to Long-Term Ratings**
+
+**1.10** As the capital adequacy treatment of Capital Market Exposure is partly covered in para 1.1 to 1.4 above, para 5.13.4 of the NCAF dealing with Capital Market Exposure is being reworded as follows: “Advances classified as ‘Capital market exposures’ will attract a 125 per cent risk weight or risk weight warranted by external
+# Withdrawn
+
+rating (or lack of it) of the counterparty, whichever is higher. These risk weights will also be applicable to all banking book exposures, which are exempted from capital market exposure ceilings for direct investments / total capital market exposures.”
+
+## 2. CAPITAL CHARGE FOR COUNTERPARTY CREDIT RISK (CCR)
+
+At present**,** banks in India compute and maintain capital charge for counter party credit risk as per Current Exposure Method (CEM) laid down in Basel II framework. The BCBS identified several areas where capital for CCR proved to be inadequate during the financial crisis. It was observed during the crisis that mark-to-market losses due to credit valuation adjustments (CVA) were not directly capitalised by banks. Roughly two-thirds of CCR losses were due to CVA losses and only about one-third were due to actual defaults. The current framework addresses CCR as a default and to certain extent, credit migration risk, but does not fully account for market value losses short of default. In other words, it does not take into account the risk of mark-to-market losses due to widening of credit spreads of the counterparties in the trading books of banks. Therefore, under Basel III banks are required to maintain adequate capital to absorb CVA losses i.e. to cover the risk of mark-to-market
+
+<!-- PAGE 51 -->
+
+## losses during a time horizon of one year due to increasing counterparty credit
+
+spreads. Accordingly, **paragraphs 5.15.3 and 5.15.4** of the Master circular will be replaced with modified **paragraph 5.15.3** as under:
+
+### “5.15.3 Treatment of Total Counterparty Credit Risk
+
+**5.15.3.1** The total capital charge for counterparty credit risk will cover the default risk as well as credit migration risk of the counterparty reflected in mark-to-market losses on the expected counterparty risk (such losses being known as credit value adjustments, CVA). Counterparty risk may arise in the context of OTC derivatives and Securities Financing Transactions. Such instruments generally exhibit the following abstract characteristics:
+- The transactions generate a current exposure or market value.
+- The transactions have an associated random future market value based on market variables.
+- The transactions generate an exchange of payments or an exchange of a financial instrument against payment.
+- Collateral may be used to mitigate risk exposure and is inherent in the nature of some transactions.
+- Short-term financing may be a primary objective in that the transactions mostly consist of an exchange of one asset for another (cash or securities) for a relatively short period of time, usually for the business purpose of financing. The two sides of the transactions are not the result of separate decisions but form an indivisible whole to accomplish a defined objective.
+- Netting may be used to mitigate the risk.
+32
+
+- Positions are frequently valued (most commonly on a daily basis), according to market variables.
+- Remargining may be employed.
+## The ‘capital charge for default risk’ will be calculated using Current
+
+# Withdrawn
+
+## Exposure Method as explained in paragraph 5.15.3.5. The ‘capital charge
+
+## for CVA risk’ will be calculated as explained in paragraph 5.15.3.6. The
+
+Current Exposure method is applicable only to OTC derivatives. The counterparty risk on account of Securities Financing Transactions is covered
+
+## in paragraph 7.3.8 of the Master Circular.
+
+**5.15.3.2** Exemption from capital requirements for counterparty risk is permitted for foreign exchange (except gold) contracts which have an original
+## maturity of 14 calendar days or less.
+
+### 5.15.3. 3 Definitions and general terminology
+
+**Counterparty Credit Risk (CCR)** is the risk that the counterparty to a transaction could default before the final settlement of the transaction's cash flows. An economic loss would occur if the transactions or portfolio of transactions with the counterparty has a positive
+
+32 Please refer to DBOD.No.BP.BC.48/21.06.001/2010-11 October 1, 2010 on Prudential Norms for Off- Balance Sheet Exposures of Banks – Bilateral netting of counterparty credit exposures. As indicated therein, bilateral netting of mark-to-market (MTM) values arising on account of derivative contracts is not permitted.
+
+<!-- PAGE 52 -->
+
+economic value at the time of default. Unlike a firm’s exposure to credit risk through a loan, where the exposure to credit risk is unilateral and only the lending bank faces the risk of loss, CCR creates a bilateral risk of loss: the market value of the transaction can be positive or negative to either counterparty to the transaction. The market value is uncertain and can vary over time with the movement of underlying market factors.
+
+**Securities Financing Transactions (SFTs)** are transactions such as repurchase agreements, reverse repurchase agreements, security lending and borrowing, collateralised borrowing and lending (CBLO) and margin lending transactions, where the value of the transactions depends on market valuations and the transactions are often subject to margin agreements.
+
+**Hedging Set** is a group of risk positions from the transactions within a single netting set for which only their balance is relevant for determining the exposure amount or EAD under the CCR standardised method.
+
+**Current Exposure** is the larger of zero, or the market value of a transaction or portfolio of transactions within a netting set with a counterparty that would be lost upon the default of the counterparty, assuming no recovery on the value of those transactions in bankruptcy. Current exposure is often also called Replacement Cost.
+
+**Credit Valuation Adjustment** is an adjustment to the mid-market valuation of the portfolio of trades with a counterparty. This adjustment reflects the market value of the credit risk due to any failure to perform on contractual agreements with a counterparty. This adjustment may reflect the market value of the credit risk of the counterparty or the market value of the credit risk of both the bank and the counterparty.
+
+**One-Sided Credit Valuation Adjustment** is a credit valuation adjustment that reflects the market value of the credit risk of the counterparty to the firm, but does not reflect the market value of the credit risk of the bank to the counterparty.
+
+***5.15.3.4 Treatment of Exposure to Central Counterparties***Withdrawn Presently, treatment of exposures to Central Counterparties for the purpose of capital adequacy is as under:
+(i) The exposures on account of derivatives trading and securities financing transactions (e.g. Collateralised Borrowing and Lending Obligations-CBLOs, Repos) to Central Counter Parties (CCPs) including those attached to stock exchanges for settlement of exchange traded derivatives, will be assigned zero exposure value for counterparty credit risk, as it is presumed that the CCPs’ exposures to their counterparties are fully collateralised on a daily basis, thereby providing protection for the CCP’s credit risk exposures. (ii) A CCF of 100% will be applied to the banks securities posted as collaterals with CCPs and the resultant off-balance sheet exposure will be assigned risk weights appropriate to the nature of the CCPs. In the case of Clearing Corporation of India Limited (CCIL), the risk weight will be 20% and for other CCPs, it will be according to the ratings assigned to these entities. (iii) The deposits kept by banks with the CCPs will attract risk weights appropriate to the nature of the CCPs. In the case of Clearing Corporation of India Limited (CCIL), the risk weight will be 20% and for other CCPs, it will be according to the ratings assigned to these entities. When entering into bilateral OTC derivative transactions, banks are required to hold capital to protect against the risk that the counterparty defaults and for credit valuation adjustment
+
+<!-- PAGE 53 -->
+
+(CVA) risk. The CVA charge is introduced as part of the Basel III framework as explained in paragraphs 5.15.3.5 and 5.15.3.6 below:
+
+## 5.15.3.5 Default Risk Capital Charge for CCR
+
+The exposure amount for the purpose of computing for default risk capital charge for counterparty credit risk will be calculated using the **Current Exposure Method (CEM)** described as under:
+
+(i) The credit equivalent amount of a market related off-balance sheet transaction calculated using the current exposure method is the sum of current credit exposure and potential future credit exposure of these contracts. For this purpose, credit equivalent amount will be adjusted for legally valid eligible financial collaterals in accordance with **paragraph 7.3** **–** Credit Risk Mitigation Techniques – Collateralised Transactions and the provisions held by the bank for CVA losses. (ii) The CVA loss will be calculated as a prudent valuation adjustment as per prudent valuation guidance contained in para 8.7.1 of the Master Circular, without taking into account any offsetting debit valuation adjustments (DVA) which have been deducted from capital (please see **paragraph 4.6,** Section C of Annex 1). The CVA loss deduced from exposures to determine outstanding EAD is the CVA loss gross of all DVA which have been separately deducted from capital. To the extent DVA has not been separately deducted from a bank’s capital, the CVA loss used to determine outstanding EAD will be net of such DVA. Risk Weighted Assets for a given OTC derivative counterparty may be calculated as the applicable risk weight under the Standardised or IRB approach multiplied by the outstanding EAD of the counterparty. This reduction of EAD by CVA losses does not apply to the determination of the CVA risk capital charge as per formula given in **paragraph 5.15.3.6 (ii)**. (iii) While computing the credit exposure banks may exclude ‘sold options’, provided the entire premium / fee or any other form of income is received / realised. (iv) Current credit exposure is defined as the sum of the positive mark-to-market value ofWithdrawn these contracts. The Current Exposure Method requires periodical calculation of the current credit exposure by marking these contracts to market**,** thus capturing the current credit exposure.
+(v) Potential future credit exposure is determined by multiplying the notional principal amount of each of these contracts irrespective of whether the contract has a zero, positive or negative mark-to-market value by the relevant add-on factor indicated below according to the nature and residual maturity of the instrument.
+## Table: Credit Conversion Factors for Market-Related Off-Balance Sheet Items
+
+## Credit Conversion Factors (%)
+
+## Exchange Rate Contracts &
+
+## Interest Rate Contracts
+
+## Gold
+
+One year or less 0.50 2.00 Over one year to five years 1.00 10.00 <u>Over five years 3.00 15.00</u>
+
+(vi) For contracts with multiple exchanges of principal, the add-on factors are to be multiplied by the number of remaining payments in the contract.
+
+(vii) For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset such that the market value of the contract is zero on these specified dates, the residual maturity would be set equal to the time until the
+
+<!-- PAGE 54 -->
+
+next reset date. However, in the case of interest rate contracts which have residual maturities of more than one year and meet the above criteria, the CCF or add-on factor is subject to a floor of 1.0 %.
+
+(viii) No potential future credit exposure would be calculated for single currency floating / floating interest rate swaps; the credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value.
+
+(ix) Potential future exposures should be based on ‘effective’ rather than ’apparent notional amounts’. In the event that the ‘stated notional amount’ is leveraged or enhanced by the structure of the transaction, banks must use the ‘effective notional amount’ when determining potential future exposure. For example, a stated notional amount of USD 1 million with payments based on an internal rate of two times the BPLR would have an effective notional amount of USD 2 million.
+
+## 5.15.3.6 Capitalisation of mark-to-market counterparty risk losses (CVA capital charge)
+
+(i) In addition to the default risk capital requirement for counterparty credit risk, banks are also required to compute an additional capital charge to cover the risk of mark-to-market losses on the expected counterparty risk (such losses being known as credit value adjustments, CVA) to OTC derivatives. The CVA capital charge will be calculated in the manner indicated below in para (ii). Banks are not required to include in this capital charge (a) transactions with a central counterparty (CCP); and (b) securities financing transactions (SFTs). (ii) Banks should use the following formula to calculate a **portfolio capital charge** for CVA risk for their counterparties:
+# Withdrawn
+
+Where;
+
+- **h** is the one-year risk horizon (in units of a year), h = 1.
+- **wi** is the weight applicable to counterparty ‘i’. Counterparty ‘i’ should be mapped to one of the seven weights **wi**based on its external rating, as shown in the **Table** below in the last bullet point.
+- **EAD**itotal is the gross exposure at default of counterparty ‘i’ without taking into account the effect of bilateral netting³³ including the effect of collateral as per the existing Current Exposure Method (CEM) as applicable to the calculation of counterparty risk capital charges for such counterparty by the bank. The exposure should be discounted by applying the factor (1-exp(-0.05*Mi))/(0.05*Mi).
+- **Bi**is the notional of purchased single name CDS hedges (summed if more than one position) referencing counterparty ‘i’, and used to hedge CVA risk. This notional
+33 Please refer to the circular DBOD.No.BP.BC.48 / 21.06.001/2010-11 dated October 1, 2010 on bilateral netting of counterparty credit, which states that owing to legal issues bilateral netting of counterparty exposures is not permitted in India. Therefore, each transaction with counterparty becomes its own netting set.
+
+<!-- PAGE 55 -->
+
+amount should be discounted by applying the factor (1-exp(-0.05*Mihedge))/(0.05* Mihedge).
+
+- **Bind** is the full notional of one or more index CDS of purchased protection, used to hedge CVA risk. This notional amount should be discounted by applying the factor (1- exp(-0.05*Mind))/(0.05* Mind).
+- **wind** is the weight applicable to index hedges. The bank must map indices to one of the seven weights wi based on the average spread of index ‘ind’.
+- **Mi**is the effective maturity of the transactions with counterparty ‘i’. **Mi** is the notional weighted average maturity of all the contracts with counterparty ‘i’.
+- **Mihedge** is the maturity of the hedge instrument with notional Bi (the quantities Mihedge. Biare to be summed if these are several positions). **ind**
+- **M** is the maturity of the index hedge ‘ind’. In case of more than one index hedge position, it is the notional weighted average maturity.
+- For any counterparty that is also a constituent of an index on which a CDS is used for hedging counterparty credit risk, the notional amount attributable to that single name (as per its reference entity weight) may be subtracted from the index CDS notional amount and treated as a single name hedge (Bi) of the individual counterparty with maturity based on the maturity of the index.
+- The weights are given in the Table below, which are based on the external rating of the counterparty:
+## Weights (wi)
+
+## Rating Wi
+
+<u>AAA 0.7%</u>
+
+# <u>Withdrawn</u>
+
+<u>AA 0.7%</u> <u>A 0.8%</u> <u>BBB 1.0%</u> <u>BB 2.0%</u> B and unrated 3.0% 34 <u>CCC 10.0%</u>
+
+- In cases where the unrated counterparty is a scheduled commercial bank, banks may use the following Table to arrive at the implied ratings of the counterparty-bank and consequently, the Wi
+
+|Applicable Risk weight of the|Implied|
+|---|---|
+|Counterparty-bank according to Table 4 of paragraph 5.6 20 AAA/AA 0.7% 50 A 0.8% 100 BBB 1% 150 BB 2% 625 CCC 10%|ratings|
+
+Wi
+
+Please refer to the revised version of Basel III capital rules (bcbs189.doc) issued by the BCBS vide press release on June 1, 2011.
+
+<!-- PAGE 56 -->
+
+- Banks will have to continuously monitor the capital adequacy position of their counterparty banks so that the effect of any change in the implied ratings is adequately reflected in CVA capital charge calculations.
+An illustration of CVA risk capital charge has been furnished in **Appendix 11.**
+
+## 5.15.3.7 Calculation of the Aggregate CCR and CVA Risk Capital Charges
+
+The total CCR capital charge for the bank is determined as the sum of the following two components:
+
+i. The sum over all counterparties of the CEM based capital charge determined as per by paragraph 5.15.3.5 ii. The standardised CVA risk capital charge determined as per paragraph 5.15.3.6.
+# 3. EXTERNAL CREDIT ASSESSMENTS
+
+# 3.1 During the crisis, it was observed that some banks arbitrarily changed
+
+# credit rating agencies in order to reduce the capital requirements. Therefore,
+
+# Basel III prohibits banks from changing the credit rating agencies without any
+
+# substantial grounds. Accordingly, paragraph 6.2.1 of the Master circular on
+
+# Scope of application of External Ratings will be replaced as under:
+
+“**6.2.1** Banks should use the chosen credit rating agencies and their ratings consistently for each type of claim, for both risk weighting and risk management purposes. Banks will not be allowed to “cherry pick” the assessments provided by different credit rating agencies and to arbitrarily change the use of credit rating agencies. In cases where the bank decides to change the use of a particular credit rating agency / accept an improved rating from a rating agency other than which has awarded the previous rating, the reasons therefor should be properly documented and the change should haveWithdrawnthe approval of the Board of Directors or at least, a Committee of the Board. If a bank has decided to use the ratings of some of the chosen credit rating agencies for a given type of claim, it can use only the ratings of those credit rating agencies, despite the fact that some of these claims may be rated by other chosen credit rating agencies whose ratings the bank has decided not to use. Banks shall not use one agency’s rating for one corporate bond, while using another agency’s rating for another exposure to the same counter-party, unless the respective exposures are rated by only one of the chosen credit rating agencies, whose ratings the bank has decided to use. External assessments for one entity within a corporate group cannot be used to risk weight other entities within the same group.”
+
+# 3.2 Paragraph 6.8 (ii) of the Master circular on Applicability of ‘Issue Rating’ to
+
+# issuer/ other claims will be rephrased as under:
+
+“In circumstances where the borrower has an issuer assessment, this assessment typically applies to senior unsecured claims on that issuer. Consequently, only senior claims on that issuer will benefit from a high quality issuer assessment. Other unassessed claims of a highly assessed issuer will be treated as unrated. If either the issuer or a single issue has a low quality assessment (mapping into a risk weight equal to or higher than that which applies to unrated claims), an unassessed claim on the same counterparty that ranks pari-passu or is subordinated to either the senior unsecured issuer assessment or the exposure assessment will be assigned the same risk weight as is applicable to the low quality assessment.”
+
+<!-- PAGE 57 -->
+
+**3.3** Under the current guidelines**,** “eligible guarantors” are required to be “externally rated A- or better”. If the exposure guaranteed is much lower in credit quality, this requirement results in “cliff effect” when the removal of credit protection leads to application of risk weight based on the guaranteed exposure alone. For instance, for an exposure which is rated as B, the risk weight will rise from 50% to 150% immediately after the guarantor’s rating falls below A-. During the financial crisis, there was a concern that “the cliff effects” could encourage banks not to seek ratings on positions just below the “cliff” and to rely on ratings just above the “cliff” leading to under capitalization of actual risk. In order to mitigate the “cliff effect” that arises when the creditworthiness of a guarantor falls below the A- level of credit quality, under Basel III, the eligibility criteria for guarantors have been revised. This eliminates the single A- minimum requirement, while maintaining a requirement in the Standardised Approach that a guarantor – other than sovereigns, PSEs, banks, and securities firms-be externally rated. Accordingly, para 7.5.5 of the Master Circular is revised as under: **“7.5.5 Range of Eligible Guarantors (Counter-Guarantors)** Credit protection given by the following entities will be recognised:
+(i) Sovereigns, sovereign entities (including BIS, IMF, European Central Bank and European Community as well as those MDBs referred to in paragraph
+<u>5.5</u>, ECGC and CGTSI), banks and primary dealers with a lower risk weight than the counterparty;
+(ii) Other entities that are externally rated except when credit protection is provided to a securitisation exposure. This would include credit protection
+
+# Withdrawn
+
+provided by parent, subsidiary and affiliate companies when they have a lower risk weight than the obligor.
+
+(iii) when credit protection is provided to a securitisation exposure, other entities that currently are externally rated BBB- or better and that were externally rated A- or better at the time the credit protection was provided. This would include credit protection provided by parent, subsidiary and affiliate companies when they have a lower risk weight than the obligor.
+
+## 4. CREDIT RISK MITIGATION
+
+**4.1** The financial crisis highlighted serious deficiencies in operation of margin agreements with OTC derivative and SFT counterparties. To ensure that sufficient resources are devoted to the orderly operation of margin agreements for OTC derivative and SFT counterparties, and that appropriate collateral management policies are in place, the guidance on credit risk mitigation under standardized approach has been revised under Basel III. Accordingly, under paragraph 7.3.2 of the Master circular on ‘Overall
+
+<!-- PAGE 58 -->
+
+framework and minimum conditions’, a sub-paragraph (v) will be added as indicated below:
+
+“(v) Banks must ensure that sufficient resources are devoted to the orderly operation of margin agreements with OTC derivative and securities-financing counterparties banks, as measured by the timeliness and accuracy of its outgoing calls and response time to incoming calls. Banks must have collateral management policies in place to control, monitor and report the following to the Board or one of its Committees:
+
+- the risk to which margin agreements exposes them (such as the volatility and liquidity of the securities exchanged as collateral),
+- the concentration risk to particular types of collateral,
+- the reuse of collateral (both cash and non-cash) including the potential liquidity shortfalls resulting from the reuse of collateral received from counterparties, and
+- the surrender of rights on collateral posted to counterparties.”
+**4.2** Financial crisis brought to fore shortcomings in valuation and ratings of re- securitisation exposures. In view of this, under Basel III, such exposures have been excluded from the list of eligible financial collaterals. Accordingly, under paragraph 7.3.5 of the Master circular on Eligible Financial Collateral, a sub- paragraph (ix) will be added as indicated below: “ ix. Re-securitisations, irrespective of any credit ratings, are not eligible financial collateral.”
+**4.3** Under Basel II framework, the financial collateral in the form of securitisation exposures was not subjectWithdrawnto any separate treatment in terms of supervisory haircuts. Securitisations were treated as if they had the same risk exposure as a similarly rated corporate debt instrument. In the aftermath of the crisis, securitisations have continued to exhibit much higher price volatility than similarly rated corporate debt. In view of the uncertainty in pricing and quality of ratings of securitisation exposures observed during the financial crisis, under Basel III, standard supervisory haircuts for financial collateral in the form of such exposures have been increased substantially. Accordingly,
+Table 14 on Standard Supervisory Haircuts for Sovereign and other securities
+ which constitute Exposure and Collateral under paragraph 7.3.7 of the Master circular on Haircuts will be replaced as indicated below:
+
+<!-- PAGE 59 -->
+
+||Sl. No.|Issue Rating for Debt securities|Residual Maturity (in years)|Haircut (in %age)|
+|---|---|---|---|---|
+|A B|i ii iii iv|Governments (Sovereign securities) Rating not applicable – as Government securities are not currently rated in India securities guaranteed by Indian State Governments AAA to AA PR1/P1/F1/A1 A to BBB PR2 / P2 / F2 /A2; PR3 /P3 / F3 / A3 and unrated bank securities as specified in paragraph 7.3.5 (vii) of the circular Units of Mutual Funds|Securities issued / guaranteed by the Government of India and issued by the State ≤ 1 year > 1 year and ≤ 5 years > 5 years Domestic debt securities other than those indicated at Item No. A above including the ≤ 1 year > 1 year and ≤ 5 years > 5 years ≤ 1 year > 1 year and ≤ years > 5 years|0.5 2 4 1 4 8 2 6 12 Highest haircut applicable to any of the above securities, in which the eligible mutual fund {cf. paragraph 7.3.5 (viii)} can invest|
+|C|D Gold|Cash in the same currency||0 15|
+|E 5.1|ii iii|Securitisation Exposures³⁵ AAA to AA A to BBB Withdrawn and unrated bank securities as specified in paragraph 7.3.5 (vii) of the circular 5. CAPITAL CHARGE FOR MARKET RISK³⁶ framework have been modified to align with the requirement of RBI to apply the market risk framework to compute capital charge for both AFS and HFT portfolios. Further, the existing specific risk charges are calibrated to 9% CRAR requirement and the same will continue to apply under revised guidelines based on Basel III. In addition, as indicated in paragraph 1.1 of this|≤ 1 year > 1 year and ≤ 5 years > 5 years ≤ 1 year > 1 year and ≤ years > 5 years In the existing guidelines, the specific risk charge under Basel II|2 8 16 4 12 24|
+
+35 Including those backed by securities issued by foreign sovereigns and foreign corporates. 36 These rules will be applicable to a bank’s equity investments in other banks and financial entities, even if such investments are exempted from ‘capital market exposure’ limit.
+
+<!-- PAGE 60 -->
+
+Annex, for the banking book, under Basel III the risk weight for exposure to all regulatory capital instruments, which are not deducted, has been fixed at a minimum of 125%. In order to replicate these changes in the AFS and HFT portfolios, the following Tables relating to Specific risk capital charge under paragraph 8.3.5 of the Master circular have been modified:
+
+- Table 16 Part C
+- Table 16 – Part D
+**Table 16 (Part C)**
+ **Specific risk capital charge for bonds issued by banks** **– Held by banks under the HFT category**
+
+||||Specific risk capital charge (%)|||
+|---|---|---|---|---|---|
+||Residual maturity|All Scheduled Banks (Commercial, Regional Rural Banks, Local Area Banks and Co-Operative Banks)||All Non-Scheduled Banks (Commercial, Regional Rural Banks, Local Area Banks and Co-Operative Banks)||
+|Level of Common Equity Tier 1 capital including applicable capital conservation buffer (CCB) (%) of the investee bank (where applicable)|Investments|in capital instruments (other than #) equity referred to in para 1.1 (i)|All other claims|Investments in capital instruments (other than #) equity referred to in para 1.1 (i)|All other Claims|
+|1|2 3 4 5 6|||||
+|Applicable Minimum|≤6 months||1.75 0.28 1.75 1.75|||
+|Common Equity + Applicable CCB and above|> 6 months and ≤ 24 months|Withdrawn|7.06 1.13 7.06 7.06|||
+||>24 months|11.25|1.8|11.25|11.25|
+|Applicable Minimum Common Equity + CCB = 75% and <100% of applicable CCB|All Maturities||13.5 4.5 22.5 13.5|||
+|Applicable Minimum Common Equity + CCB = 50% and <75% of applicable CCB|All Maturities||22.5 9 31.5 22.5|||
+|Applicable Minimum Common Equity + CCB = 0% and <50% of applicable CCB|All Maturities||31.5 13.5 56.25 31.5|||
+|Minimum Common Equity Tier 1 capital less than applicable minimum|All Maturities|56.25 56.25||Full deduction*|56.25|
+
+Notes: * The deduction should be made from Common Equity Tier 1 Capital. # refer to para 5.2 of this Annex for specific risk capital charge on equity instruments.
+
+(i) In the case of banks where no capital adequacy norms have been prescribed by the RBI, the lending / investing bank may calculate the applicable Common
+
+<!-- PAGE 61 -->
+
+Equity Tier 1 and capital conservation buffer of the bank concerned, notionally, by obtaining necessary information from the investee bank and using the capital adequacy norms as applicable to the commercial banks. In case, it is not found feasible to compute applicable Common Equity Tier 1 and capital conservation buffer on such notional basis, the specific risk capital charge of 31.5 or 56.25 %, as per the risk perception of the investing bank, should be applied uniformly to the investing bank’s entire exposure.
+
+(ii) In case of banks where capital adequacy norms are not applicable at present, the matter of investments in their capital-eligible instruments would not arise for now. However, this Table above will become applicable to them, if in future they issue any capital instruments where other banks are eligible to invest.
+
+(iii) The existing specific risk capital charges up to 9% have been scaled up to reflect the application of specific risk charge corresponding to risk weight of 125% instead of 100%. For instance the existing specific risk charge for exposure to capital instrument issued by scheduled banks with applicable Common Equity Tier 1 and capital conservation buffer more than 9% and instrument having a residual maturity of less than 6 month is 1.4%. This is scaled up as under:
+
+1.4*125% =1.75
+**Table 16(Part D)**
+
+## Alternative Total Capital Charge for bonds issued by banks
+
+## – Held by banks under AFS category
+
+## (subject to the conditions stipulated in paragraph 8.3.4)
+
+|||Specific risk capital charge (%)|||
+|---|---|---|---|---|
+||All Scheduled Banks (Commercial, Regional Rural Banks, Local Area Banks and Co-Operative Withdrawn Banks)||All Non-Scheduled Banks (Commercial, Regional Rural Banks, Local Area Banks and Co-Operative Banks)||
+|Level of Common Equity Tier 1 capital including capital applicable capital conservation buffer instruments (CCB) (%) of the investee bank (where applicable))|Investments in (other than #) referred equity to in para 1.1 (i)|All other claims|Investments in capital instruments (other than #) referred equity to in para 1.1 (i)|All other claims|
+|1 2||3|4|5|
+|Applicable Minimum Common Equity + Applicable CCB and above|11.25|1.8|11.25 11.25||
+|Applicable Minimum Common Equity + CCB = 75% and <100% of applicable CCB||13.5 4.5 22.5 13.5|||
+|Applicable Minimum Common Equity + CCB = 50% and <75% of applicable CCB|22.5 9 31.5 22.5||||
+|Applicable Minimum Common Equity + CCB = 0% and <50% of applicable CCB||31.5 13.5 56.25 31.5|||
+|Minimum Common Equity Tier 1 capital less than applicable minimum|||56.25 56.25 Full deduction* 56.25||
+
+*****The deduction should be made from Common Equity Tier 1 capital # refer to para 5.2 of this Annex for specific risk capital charge on equity instruments.
+
+i) In the case of banks where no capital adequacy norms have been prescribed by the RBI, the lending / investing bank may calculate the applicable Common Equity Tier 1 and capital conservation buffer of the bank concerned, notionally, by obtaining necessary information from the investee bank and using the capital
+
+<!-- PAGE 62 -->
+
+adequacy norms as applicable to the commercial banks. In case, it is not found feasible to compute applicable Common Equity Tier 1 and capital conservation buffer on such notional basis, the specific risk capital charge of 31.5 or 56.25 %, as per the risk perception of the investing bank, should be applied uniformly to the investing bank’s entire exposure.
+
+ii) In case of banks where capital adequacy norms are not applicable at present, the matter of investments in their capital-eligible instruments would not arise for now. However, the Table above will become applicable to them, if in future they issue any capital instruments where other banks are eligible to invest.
+
+# 5.2 In the existing guidelines, banks’ investment in equity of other banks is
+
+# subject to stringent capital adequacy norms when the applicable Common
+
+# Equity Tier 1 and capital conservation buffer of the investing bank falls below
+
+the required minimum. With the changes in the definition of capital differentiating between the significant and non-significant equity investments
+
+# in financial entities including banks, the instructions regarding the equity
+
+# investments in other banks held in AFS and HFT portfolios also need revision.
+
+# Accordingly, the following paragraph will be added to the Master Circular below paragraph 8.4.3:
+
+“**8.4.4** The specific risk charge for bank’s investments in the equity of other banks will be as under:
+
+## (Figures in %)
+
+|Level of Common Equity Tier 1 capital (Commercial, Regional including applicable capital conservation buffer (CCB) (%) of the investee bank (where applicable)|Rural Banks, Local Area Banks and Co-Operative Banks)|All Scheduled Banks|(Commercial, Local Area Banks and Co-Operative Banks)|All Non-scheduled Banks|
+|---|---|---|---|---|
+||Withdrawn Equity investments in other banks referred to in para 1.1 (i)|Equity investments in other banks referred to in para 1.1 (ii)|Equity investments in other banks referred to in para 1.1 (i)|Equity investments in other banks referred to in para 1.1 (ii)|
+|Applicable Minimum Common Equity + Applicable CCB and above Applicable Minimum Common Equity + CCB = 75% and <100% of applicable CCB||11.25 22.5 11.25 13.5 27 22.5 31.5||27|
+|Applicable Minimum Common Equity + CCB = 50% and <75% of applicable CCB|22.5 31.5 31.5|||40.5|
+|Applicable Minimum Common Equity + CCB = 0% and <50% of applicable CCB||31.5 40.5 56.25 Full||deduction*|
+|Minimum Common Equity Tier 1 capital less than applicable minimum|50 Full|deduction*|Full deduction*|Full deduction*|
+
+* Full deduction should be made from Common Equity Tier 1 capital
+
+<!-- PAGE 63 -->
+
+Specific risk charge for bank’s investments in the equity of financial entities other than banks will be as under:
+
+## (Figures in %)
+
+|Equity investments in|Equity investments in financial|
+|---|---|
+|financial entities other than|entities other than banks|
+|banks referred to in|referred to in|
+|para 1.1 (i) 11.25|para 1.1 (ii)|
+
+## <u>specific risk charge</u> 22.5
+
+Similarly, specific risk charge for bank’s investments in the equity of non-financial (commercial) entities will be as under:
+
+(Figures in %) Equity investments in non-Equity investments in non-
+
+|financial entities where a|financial entities which are more|
+|---|---|
+|bank does not own more|than 10% of the equity capital of|
+|than 10% of the equity|investee companies or which are|
+|capital of investee|affiliates of the bank (these|
+|companies|exposures need not attract|
+
+financial entities where a financial entities which are more
+
+## general market risk charge)
+
+## <u>specific risk charge 11.25</u> 100
+
+Specific risk change on securitised / re-securitised debt instruments as indicted in Table 16 – Part F and Table 16- Part G will be amended as follows:
+
+**Table 16 – Part F Specific Risk Capital Charge for Securitised Debt Instruments (SDIs)**
+
+# – Held by banks<u>Withdrawn</u>under HFT and AFS Category * Rating by <u>Specific Risk Capital Charge</u>
+
+# the ECAI Securitisation Securitisation Exposures (in %) Exposures (SDIs)
+
+# relating to Commercial Real Estate Exposures
+
+**(in %)** AAA 1.8 9.0 AA 2.7 9.0 A 4.5 9.0 BBB 9.0 9.0 BB 31.5 (100.0 in the case 31.5 (100.0 in the case of originators) of originators) <u>B and below or unrated 100.0</u> 100.0
+
+***** These ratings indicate the ratings assigned by Indian rating agencies/ECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here correspond to Standard and Poor. The modifiers “+” or “-“have been subsumed with the main rating category.
+
+<!-- PAGE 64 -->
+
+**Table 16 – Part G**
+
+## Specific Risk Capital Charge for Re-securitised Debt Instruments (RSDIs)
+
+## – Held by banks under HFT and AFS Category
+
+*** Rating by the Specific Risk Capital Charge** **ECAI Re-Securitisation Re-Securitisation**
+## Exposures (in %) Exposures (RSDIs) relating to Commercial Real Estate
+
+## Exposures (in %)
+
+AAA 3.6 18 AA 5.4 18 A 9.0 18 BBB 18 18 BB 63 (100 in the case of 63 (100 in the case of originators) originators) B and below or 100 100 <u>unrated</u>
+
+** These ratings indicate the ratings assigned by Indian rating agencies/ECAIs or* *foreign rating agencies. In the case of foreign ECAIs, the rating symbols used here* *correspond to Standard and Poor. The modifiers “+” or “-“have been subsumed with* *the main rating category.* **Addition to paragraph 8.3.5** Specific risk charge on investments in capital instruments (other than common equity) issued by financial entities other than banks and held in HFT and AFS categories
+(i) Held in HFT category- Table 16 – Part H (ii) Held in AFS category Table 16 – Part I
+# Withdrawn
+
+**Table 16 (Part H)**
+
+**Specific risk capital charge for non-common equity capital instruments issued financial entities other than bank**
+
+**– Held by banks under the HFT category**
+
+Residual maturity Specific risk capital charge (%) * Investments in non-common equity capital instruments of financial entities other than banks referred to in para 1.1 (i)*
+
+|1 2||3|
+|---|---|---|
+|Specific|≤6 months|1.75|
+|risk|> 6 months and ≤ 24 months|7.06|
+|charge|>24 months|11.25|
+
+Investments falling under para 1.1 (ii) will be deducted following corresponding deduction approach
+
+<!-- PAGE 65 -->
+
+**Table 16 (Part I)**
+
+## Alternative Total Capital Charge for non-common equity capital instruments issued financial entities other than banks
+
+## – Held by banks under the AFS category
+
+Specific risk capital charge (%) Investments in non- common equity capital instruments of financial entities other than banks referred to in para
+
+1.1 (i)
+1 2 Specific risk
+
+11.25
+<u>charge</u>
+
+# Amendment to para 8.3.10 – Measurement to capital charge for Interest Rate Derivatives
+
+# In the existing instructions contained in para 8.3.10, it is not explicitly stated
+
+# that forex forward positions and other forward contracts should be covered in
+
+# the measurement of capital charge for interest rate risk, even though Annex 9
+
+# does cover these positions. To improve clarity, paragraph 8.3.10 will be amended as follows:
+
+“ 8.3.10 The measurement system should include all interest rate derivatives and off balance-sheet instruments in the trading book which react to changes in interest rates, (e.g. forward rate agreements (FRAs), other forward contracts, bond futures, interest rate and cross-currency swaps and forward foreign exchange positions). Options can be treated in a variety of ways as described in Annex 9 37 .”
+
+# Amendment to para 8.4 – Measurement to capital charge for Equity Risk
+
+# In view of changes in the risk weigWithdrawnhts for equity exposure under banking
+
+# book, para 8.4.2 will be amended as follows:
+
+“8.4.2 Capital charge for specific risk (akin to credit risk) will be 11.25 per cent or capital charge in accordance with the risk warranted by external rating (or lack of it) of the counterparty, whichever is higher and specific risk is computed on banks' gross equity positions (i.e. the sum of all long equity positions and of all short equity positions-short equity position is, however, not allowed for banks in India). In addition, the general market risk charge will also be 9 per cent on the gross equity positions. These capital charges will also be applicable to all trading book exposures, which are exempted from capital market exposure ceilings for direct investments.”
+
+Please refer to Annex 9 of existing guidelines contained in Master Circular DBOD.No.BP.BC.11/21.06.001/2011-12 dated July 1, 2011.
+
+<!-- PAGE 66 -->
+
+# Amendment to paragraph 8.7.1.2 (vii) – Valuation Adjustments:
+
+“At a minimum, banks should consider the following valuation adjustments while valuing their derivatives portfolios:
+
+- incurred CVA losses³⁸,
+- closeout costs,
+- operational risks,
+- early termination, investing and funding costs, and
+- future administrative costs and,
+- where appropriate, model risk. Banks may follow any recognised method/model to compute the above adjustments except provisions against incurred CVA losses. However, banks may use the following formula to calculate incurred CVA loss on derivatives transactions:
+## ICVALt = Max [0,{(EEt *RPt) - (EE0 *RP₀)}]
+
+Where
+
+ICVALt= Cumulative Incurred CVA loss at time ‘t’.
+
+EEt= Value of counterparty exposure projected after one year from ‘t’ and discounted back to ‘t’ using CEM and a risk free discount rate for one year
+
+EE0 = Counterparty exposure estimated at time ‘0’ using CEM
+
+RPt = Credit spread of the counterparty as reflected in the CDS or bond prices. In cases where market based credit spreads are not available, risk premium applicable to the counterparty according to its credit grade as per the internal credit rating system of the bank used for pricing/loan approval purposes at time ‘t’ may be used.
+
+RP₀ = Credit spread of the counterparty as reflected in the CDS or bond prices. In cases where market based credit spreadWithdrawns are not available, risk premium applicable to the counterparty according to its credit grade as per the internal credit rating system of the bank used for pricing/loan approval purposes at time ‘0’ i.e. the date of the transaction.
+
+**Note:** Some of other terms used above are explained below:
+
+## Close-out costs
+
+Close-out costs adjustment factors in the cost of eliminating the market risk of the portfolio.
+
+## Investing and Funding costs
+
+The "investing and funding costs adjustment" relating to the cost of funding and investing cash flow mismatches at rates different from the rate which models typically assume.
+
+## Administrative costs adjustment
+
+Administrative costs adjustment relates to the costs that will be incurred to administer the portfolio”
+
+38 Provisions against incurred CVA losses are akin to specific provisions required on impaired assets and depreciation in case of investments held in the trading book. These provisions will be in addition to the general provisions @ 0.4% required on the positive MTM values. The provisions against incurred CVA losses may be netted off from the exposure value while calculating capital charge for default risk under the Current Exposure Method as required in terms of paragraph 5.15.3.5 (ii).
+
+<!-- PAGE 67 -->
+
+## ANNEX 3
+
+## SUPERVISORY REVIEW AND EVALUATION PROCESS (PILLAR 2)
+
+Basel III also contains certain modifications to guidance on Supervisory Review and Evaluation Process under Pillar 2 of Basel II framework. The modifications relate to use of external ratings for risk weighting of exposures and improvements in collateral management by banks in order to address the deficiencies observed in these areas during the financial crisis.
+
+*Incentive to avoid getting exposures rated:* In case of the Standardised Approach for credit risk under the existing guidelines which is based on Basel II capital adequacy framework, sovereign, corporate and bank exposures rated below BB- or B- typically have a higher risk weight of 150% than unrated borrowers which attract 100% risk weight. Therefore, there is a possibility that banks might prefer companies which are likely to be rated lower than BB so as to avoid getting a rating so they could hold less capital against such exposures. In order to address the potential existence of such a bias, under Basel III such exposures should be explicitly considered under Pillar 2 by introducing a principle requiring banks to assess whether the risk weight to which an unrated exposure is assigned is appropriate.
+
+*Collateral management in the context of Counterparty credit risk (CCR):* During the financial crisis, there were a number of areas of concern related to the management and operation of the collateral management process. For
+
+# Withdrawn
+
+instance, the operational effectiveness of banks’ collateral departments was inadequate as they experienced substantial problems with respect to systems and data integrity, levels of staffing, risk reporting, and adhesion to the legal terms of collateral agreements. The increased number of large and lengthy collateral disputes across the industry often has been a consequence of these underlying issues.
+
+(I) In order to address these concerns, appropriate guidance has been included under Basel III through amendments of relevant text of Pillar 2 under Basel II framework. Accordingly, to reflect these modifications, paragraph 13.2 of the Master Circular will be replaced as under: **“13.2 Credit Risk**
+**13.2.1** Banks should have methodologies that enable them to assess the credit risk involved in exposures to individual borrowers or counterparties as well as at the portfolio level. Banks should be particularly attentive to identifying credit risk concentrations and ensuring that their effects are adequately assessed. This should include consideration of various types of dependence among exposures, incorporating the credit risk effects of extreme outcomes, stress events, and shocks to the assumptions made about the portfolio
+
+<!-- PAGE 68 -->
+
+and exposure behaviour. Banks should also carefully assess concentrations in counterparty credit exposures, including counterparty credit risk exposures emanating from trading in less liquid markets, and determine the effect that these might have on the bank’s capital adequacy.
+
+**13.2.2** Banks should assess exposures, regardless of whether they are rated or unrated³⁹, and determine whether the risk weights applied to such exposures, under the Standardised Approach, are appropriate for their inherent risk. In those instances where a bank determines that the inherent risk of such an exposure, particularly if it is unrated, is significantly higher than that implied by the risk weight to which it is assigned, the bank should consider the higher degree of credit risk in the evaluation of its overall capital adequacy. For more sophisticated banks, the credit review assessment of capital adequacy, at a minimum, should cover four areas: risk rating systems, portfolio analysis/aggregation, securitisation/complex credit derivatives, and large exposures and risk concentrations.
+**13.2.3** *Counterparty credit risk (CCR)*
+(i) The bank must have counterparty credit risk management policies, processes and systems that are conceptually sound and implemented with integrity relative to the sophistication and complexity of a bank’s holdings of exposures that give rise to counterparty credit risk (CCR). A sound counterparty credit risk management framework shall include the identification, measurement, management, approval and internal reporting of CCR. (ii) The bank’s risk management policies must take account of the market, liquidity, legal and operational risks that can be associated with CCR and, to the extent practicable, interrelationships among those risks. The bank must not undertake business with a counterparty without assessing its creditworthiness and must take due account of both settlement and pre-settlement credit risk. These risks must be managed as comprehensively as practicable at the counterparty level (aggregating counterparty exposures with other credit exposures) and at the enterprise-wide level. (iii) The Board of directors and senior mana Withdrawn gement must be actively involved in the CCR control process and must regard this as an essential aspect of the business to which significant resources need to be devoted. The daily reports prepared on a firm’s exposures to CCR must be reviewed by a level of management with sufficient seniority and authority to enforce both reductions of positions taken by individual credit managers or traders and reductions in the bank’s overall CCR exposure. (iv) The bank’s CCR management system must be used in conjunction with internal credit and trading limits.
+(v) The measurement of CCR must include monitoring daily and intra-day usage of credit lines. The bank must measure current exposure gross and net of collateral held where such measures are appropriate and meaningful (e.g. OTC derivatives, margin lending, etc.). Measuring and monitoring peak exposure or potential future exposure (PFE), both the portfolio and counterparty levels is one element of a robust limit monitoring system. Banks must take account of large or concentrated positions, including concentrations by groups of related counterparties, by industry, by market, customer investment strategies, etc.
+39 In such cases it would be in order for banks to derive notional external ratings of the unrated exposure by mapping their internal credit risk ratings / grades of the exposure used for pricing purposes with the external ratings scale.
+
+<!-- PAGE 69 -->
+
+(vi) The bank must have an appropriate stress testing methodology in place to assess the impact on the counterparty credit risk of abnormal volatilities in market variables driving the counterparty exposures and changes in the creditworthiness of the counterparty. The results of this stress testing must be reviewed periodically by senior management and must be reflected in the CCR policies and limits set by management and the board of directors. Where stress tests reveal particular vulnerability to a given set of circumstances, management should explicitly consider appropriate risk management strategies (e.g. by hedging against that outcome, or reducing the size of the firm’s exposures).
+
+(vii) The bank must have a routine in place for ensuring compliance with a documented set of internal policies, controls and procedures concerning the operation of the CCR management system. The firm’s CCR management system must be well documented, for example, through a risk management manual that describes the basic principles of the risk management system and that provides an explanation of the empirical techniques used to measure CCR.
+
+(viii)
+
+•
+
+•
+
+•
+
+• •
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+(ix)
+
+The bank must conduct an independent review of the CCR management
+
+the adequacy of the documentation of the CCR management system and process;
+
+the organisation of the collateral management unit;
+
+the organisation of the CCR control unit;
+
+the integration of CCR measures into daily risk management; the approval process for risk pricing models and valuation systems used by front and back- office personnel;
+
+the validation of any significant cWithdrawnhange in the CCR measurement process;
+
+the scope of counterparty credit risks captured by the risk measurement model;
+
+the integrity of the management information system;
+
+the accuracy and completeness of CCR data;
+
+the accurate reflection of legal terms in collateral and netting agreements into exposure measurements; the verification of the consistency, timeliness and reliability of data sources used to run internal models, including the independence of such data sources;
+
+the accuracy and appropriateness of volatility and correlation assumptions;
+
+the accuracy of valuation and risk transformation calculations; and
+
+the verification of the model’s accuracy through frequent back-testing.
+
+system regularly through its own internal auditing process. This review must include both the activities of the business credit and trading units and of the independent CCR control unit. A review of the overall CCR management process must take place at regular intervals (ideally not less than once a year) and must specifically address, at a minimum:
+
+Banks should make an assessment as part of their ICAAP as to whether the bank’s evaluation of the risks contained in the transactions that give rise to CCR and the bank’s assessment of whether the Current Exposure Method (CEM) captures those risks appropriately and satisfactorily. In cases where, under SREP, it is determined that CEM does not capture the risk inherent in the bank’s relevant transactions (as could be the case with
+
+<!-- PAGE 70 -->
+
+structured, more complex OTC derivatives), RBI may require the bank to apply the CEM on a transaction-by-transaction basis (i.e. no netting will be recognized even if it is permissible legally).”
+
+## Paragraph 13.9 on Reputational Risk and Implicit Support will be replaced as
+
+**under:**
+
+## 13.9.1 Provision of implicit support for securitization transactions
+
+(i) Provision of implicit support to a transaction, whether contractual (i.e. credit enhancements provided at the inception of a securitised transaction) or non- contractual (implicit support) can take numerous forms. For instance, contractual support can include over collateralisation, credit derivatives, spread accounts, contractual recourse obligations, subordinated notes, credit risk mitigants provided to a specific tranche, the subordination of fee or interest income or the deferral of margin income, and clean-up calls that exceed 10 percent of the initial issuance. Examples of implicit support include the purchase of deteriorating credit risk exposures from the underlying pool, the sale of discounted credit risk exposures into the pool of securitised credit risk exposures, the purchase of underlying exposures at above market price or an increase in the first loss position according to the deterioration of the underlying exposures. (ii) The provision of implicit (or non-contractual) support, as opposed to contractual credit support (i.e. credit enhancements), raises significant supervisory concerns. For traditional securitisation structures the provision of implicit support undermines the clean break criteria, which when satisfied would allow banks to exclude the securitised assets from regulatory capital calculations. For synthetic securitisation structures, it negates the significance of risk transference. By providing implicit support, banks signal to the market that the risk is still with the bank and has not in effect been transferred. The institution’s capital calculation therefore understates the true risk. Accordingly, national supervisors are expected to take
+# Withdrawn
+
+appropriate action when a banking organisation provides implicit support.
+
+(iii) When a bank has been found to provide implicit support to a securitisation, it will be required to hold capital against all of the underlying exposures associated with the structure as if they had not been securitised. It will also be required to disclose publicly that it was found to have provided non-contractual support, as well as the resulting increase in the capital charge (as noted above). The aim is to require banks to hold capital against exposures for which they assume the credit risk, and to discourage them from providing non-contractual support.
+
+(iv) If a bank is found to have provided implicit support on more than one occasion, the bank is required to disclose its transgression publicly and the Reserve Bank will take appropriate action that may include, but is not limited to, one or more of the following:
+
+- The bank may be prevented from gaining favourable capital treatment on securitised assets for a period of time to be determined by the Reserve Bank;
+- The bank may be required to hold capital against all securitised assets as though the bank had created a commitment to them, by applying a conversion factor to the risk weight of the underlying assets;
+- For purposes of capital calculations, the bank may be required to treat all securitised assets as if they remained on the balance sheet;
+
+<!-- PAGE 71 -->
+
+•The bank may be required by the Reserve Bank to hold regulatory capital in excess of the minimum risk-based capital ratios.
+
+(v) During the SREP, Reserve Bank will determine implicit support and may take appropriate supervisory action to mitigate the effects. Pending any investigation, the bank may be prohibited from any capital relief for planned securitisation transactions (moratorium). The action of Reserve Bank will be aimed at changing the bank’s behaviour with regard to the provision of implicit support, and to correct market perception as to the willingness of the bank to provide future recourse beyond contractual obligations.
+## 13.9.2 Reputational Risk on account of Implicit Support
+
+(i) Reputational risk can be defined as the risk arising from negative perception on the part of customers, counterparties, shareholders, investors, debt-holders, market analysts, other relevant parties or regulators that can adversely affect a bank's ability to maintain existing, or establish new, business relationships and continued access to sources of funding (eg through the interbank or securitisation markets). Reputational risk is multidimensional and reflects the perception of other market participants. Furthermore, it exists throughout the organisation and exposure to reputational risk is essentially a function of the adequacy of the bank's internal risk management processes, as well as the manner and efficiency with which management responds to external influences on bank-related transactions. (ii) Reputational risk can lead to the provision of implicit support, which may give rise to credit, liquidity, market and legal risk-all of which can have a negative impact on a bank's earnings, liquidity and capital position. A bank should identify potential sources of reputational risk to which it is exposed. These include the bank's business lines, liabilities, affiliated operations, off-balance sheet vehicles and the markets in which it operates. The risks that arise should be incorporated into the bank's risk management processes and appropriately addressed in its ICAAP and liquidity contingency plans. (iii) Prior to the 2007 upheaval, many banks failed to recognise the reputational risk associated with their off-balance sheet vehicles. In stressed conditions some firms went beyond their contractual obligations to support their sponsored securitisations and off balance sheet vehicles. A bank should incorporate the exposures that could give rise to reputational risk into its assessments of whether the requirements under the securitisation framework
+# Withdrawn
+
+have been met and the potential adverse impact of providing implicit support.
+
+(iv) Reputational risk may arise, for example, from a bank's sponsorship of securitisation structures such as ABCP conduits and SIVs, as well as from the sale of credit exposures to securitisation trusts. It may also arise from a bank's involvement in asset or funds management, particularly when financial instruments are issued by owned or sponsored entities and are distributed to the customers of the sponsoring bank. In the event that the instruments were not correctly priced or the main risk drivers not adequately disclosed, a sponsor may feel some responsibility to its customers, or be economically compelled, to cover any losses. Reputational risk also arises when a bank sponsors activities such as money market mutual funds, in-house hedge funds and real estate investment trusts. In these cases, a bank may decide to support the value of shares / units held by investors even though is not contractually required to provide the support.
+
+(v) The financial market crisis has provided several examples of banks providing financial support that exceeded their contractual obligations. In order to preserve their reputation, some banks felt compelled to provide liquidity support to their SIVs, which was beyond their contractual obligations. In other cases, banks purchased ABCP issued by vehicles they sponsored in order to maintain market liquidity. As a result, these banks assumed additional liquidity and credit risks, and also put pressure on capital ratios. (vi) Reputational risk also may affect a bank's liabilities, since market confidence and a bank's ability to fund its business are closely related to its reputation. For instance, to avoid damaging its reputation, a bank may call its liabilities even though this might negatively affect its liquidity profile. This is particularly true for liabilities that are components of regulatory
+
+<!-- PAGE 72 -->
+
+capital, such as hybrid / subordinated debt. In such cases, a bank's capital position is likely to suffer.
+
+(vii) Bank management should have appropriate policies in place to identify sources of reputational risk when entering new markets, products or lines of activities. In addition, a bank's stress testing procedures should take account of reputational risk so management has a firm understanding of the consequences and second round effects of reputational risk.
+
+(viii) Once a bank identifies potential exposures arising from reputational concerns, it should measure the amount of support it might have to provide (including implicit support of securitisations) or losses it might experience under adverse market conditions. In particular, in order to avoid reputational damages and to maintain market confidence, a bank should develop methodologies to measure as precisely as possible the effect of reputational risk in terms of other risk types (eg credit, liquidity, market or operational risk) to which it may be exposed. This could be accomplished by including reputational risk scenarios in regular stress tests. For instance, non-contractual off-balance sheet exposures could be included in the stress tests to determine the effect on a bank's credit, market and liquidity risk profiles. Methodologies also could include comparing the actual amount of exposure carried on the balance sheet versus the maximum exposure amount held off-balance sheet, that is, the potential amount to which the bank could be exposed.
+
+(ix) A bank should pay particular attention to the effects of reputational risk on its overall liquidity position, taking into account both possible increases in the asset side of the balance sheet and possible restrictions on funding, should the loss of reputation result in various counterparties' loss of confidence.
+
+(x) In contrast to contractual credit exposures, such as guarantees, implicit support is a more subtle form of exposure. Implicit support arises when a bank provides post-sale support to a securitisation transaction in excess of any contractual obligation. Implicit support may include any letter of comfort provided by the originator in respect of the present or future liabilities of the SPV. Such non-contractual support exposes a bank to the risk of loss, such as loss arising from deterioration in the credit quality of the securitisation's underlying assets. (xi) By providing implicit support, a bank signals to the market that all of the risks inherent in the securitised assets are still held by the organisation and, in effect, had not beenWithdrawn transferred. Since the risk arising from the potential provision of implicit support is not captured ex ante under Pillar 1, it must be considered as part of the Pillar 2 process. In addition, the processes for approving new products or strategic initiatives should consider the potential provision of implicit support and should be incorporated in a bank's ICAAP.
+## (I) Additional Capital requirements for identified risks determined under Pillar 2
+
+Paragraph 12.2.4 of NCAF is amended as under:
+
+“12.2.4 Pillar 1 capital requirements will include a buffer for uncertainties surrounding the Pillar 1 regime that affect the banking population as a whole. Bank-specific uncertainties will be treated under Pillar 2. It is anticipated that such buffers under Pillar 1 will be set to provide reasonable assurance that a bank with good internal systems and controls, a well-diversified risk profile and a business profile well covered by the Pillar 1 regime, and which operates with capital equal to Pillar 1 requirements, will meet the minimum goals for soundness embodied in Pillar 1. However, RBI may require particular banks to operate with a buffer, over and above the Pillar 1 standard. Banks should maintain this buffer for a combination of the following:
+
+(a) Pillar 1 minimums are anticipated to be set to achieve a level of bank creditworthiness in markets that is below the level of creditworthiness sought by many banks for their own reasons. For example, most international banks appear to prefer to be highly rated by internationally recognised rating agencies. Thus, banks are likely to choose to operate above Pillar 1 minimums for competitive reasons.
+
+<!-- PAGE 73 -->
+
+(b) In the normal course of business, the type and volume of activities will change, as will the different risk exposures, causing fluctuations in the overall capital ratio.
+(c) It may be costly for banks to raise additional capital, especially if this needs to be done quickly or at a time when market conditions are unfavourable.
+(d) For banks to fall below minimum regulatory capital requirements is a serious matter. It may place banks in breach of the provisions of the Banking Regulation Act and / or attract prompt corrective action on the part of RBI.
+(e) There may be risks, either specific to individual banks, or more generally to an economy
+40 at large, that are not taken into account in Pillar 1.
+
+Under the SREP, the RBI would make an assessment as to whether the bank maintains adequate capital cushion to take care of the above situations. Such a cushion should be in addition to the capital conservation buffer and countercyclical capital buffer, if any, required to be maintained by the bank according to the applicable guidelines. Such cushion would generally be reflected in more than minimum capital adequacy ratio maintained by the bank after taking into account capital conservation buffer and countercyclical capital buffer.
+
+Under the SREP, RBI would also seek to determine whether a bank’s overall capital remains adequate as the underlying conditions change. Generally, material increases in risk that are not otherwise mitigated should be accompanied by commensurate increases in capital. Conversely, reductions in overall capital (to a level still above regulatory minima) may be appropriate if the RBI’s supervisory assessment leads it to a conclusion that risk has materially declined or that it has been appropriately mitigated. Based on such an assessment, the RBI could consider initiating appropriate supervisory measures to address its supervisory concerns. The measures could include requiring a modification or enhancement of the risk management and internal control processes of a bank, a reduction in risk exposures, or any other action as deemed necessary to address the identified supervisory concerns. These measures could also include the stipulation of a bank-specific additional capital requirement over and above what has been determined under Pillar 1.
+
+# Withdrawn
+
+40 If a bank has identified some capital add-on to take care of an identified Pillar 2 risk or inadequately capitalised Pillar I risk, that add-on can be translated into risk weighted assets as indicated in this paragraph below, which should be added to the total risk weighted assets of the bank. No additional Pillar 2 buffer need be maintained for such identified risks.
+
+<!-- PAGE 74 -->
+
+## ANNEX 4
+
+## CAPITAL CONSERVATION BUFFER
+
+## 1. OBJECTIVE
+
+**1.1** The capital conservation buffer (CCB) is designed to ensure that banks build up capital buffers during normal times (i.e. outside periods of stress) which can be drawn down as losses are incurred during a stressed period. The requirement is based on simple capital conservation rules designed to avoid breaches of minimum capital requirements.
+**1.2** Outside the period of stress, banks should hold buffers of capital above the regulatory minimum. When buffers have been drawn down, one way banks should look to rebuild them is through reducing discretionary distributions of earnings. This could include reducing dividend payments, share buybacks and staff bonus payments. Banks may also choose to raise new capital from the market as an alternative to conserving internally generated capital. However, if a bank decides to make payments in excess of the constraints imposed as explained above, the bank, with the prior approval of RBI, would have to use the option of raising capital from the market equal to the amount above the constraint which it wishes to distribute.
+**1.3** In the absence of raising capital from the market, the share of earnings retained by banks for the purpose of rebuilding their capital buffers should
+# Withdrawn
+
+increase the nearer their actual capital levels are to the minimum capital requirement. It will not be appropriate for banks which have depleted their capital buffers to use future predictions of recovery as justification for maintaining generous distributions to shareholders, other capital providers and employees. It is also not acceptable for banks which have depleted their capital buffers to try and use the distribution of capital as a way to signal their financial strength. Not only is this irresponsible from the perspective of an individual bank, putting shareholders’ interests above depositors, it may also encourage other banks to follow suit. As a consequence, banks in aggregate can end up increasing distributions at the exact point in time when they should be conserving earnings.
+
+**1.4** The capital conservation buffer can be drawn down only when a bank faces a systemic or idiosyncratic stress. A bank should not choose in normal times to operate in the buffer range simply to compete with other banks and win market share. This aspect would be specifically looked into by Reserve Bank of India during the Supervisory Review and Evaluation Process. If, at any time, a bank is found to have allowed its capital conservation buffer to fall
+
+<!-- PAGE 75 -->
+
+in normal times, particularly by increasing its risk weighted assets without a commensurate increase in the Common Equity Tier 1 Ratio (although adhering to the restrictions on distributions), this would be viewed seriously. In addition, such a bank will be required to bring the buffer to the desired level within a time limit prescribed by Reserve Bank of India. The banks which draw down their capital conservation buffer during a stressed period should also have a definite plan to replenish the buffer as part of its Internal Capital Adequacy Assessment Process and strive to bring the buffer to the desired level within a time limit agreed to with Reserve Bank of India during the Supervisory Review and Evaluation Process.
+
+**1.5** The framework of capital conservation buffer will strengthen the ability of banks to withstand adverse economic environment conditions, will help increase banking sector resilience both going into a downturn, and provide the mechanism for rebuilding capital during the early stages of economic recovery. Thus, by retaining a greater proportion of earnings during a downturn, banks will be able to help ensure that capital remains available to support the ongoing business operations / lending activities during the period of stress. Therefore, this framework is expected to help reduce pro-cyclicality.
+## 2 T HE FRAMEWORK
+
+**2.1** Banks are required to maintain a capital conservation buffer of 2.5%, comprised of Common Equity Tier 1 capital, above the regulatory minimum
+41 capital requirement of 9%. Banks should not distribute capital (i.e. pay dividends or bonuses in any form) in case
+
+# Withdrawn
+
+capital level falls within this range. However, they will be able to conduct business as normal when their capital levels fall into the conservation range as they experience losses. Therefore, the constraints imposed are related to the distributions only and are not related to the operations of banks. The distribution constraints imposed on banks when their capital levels fall into the range increase as the banks’ capital levels approach the minimum requirements. The **Table** below shows the minimum capital conservation ratios a bank must meet at various levels of the Common Equity Tier 1 capital ratios.
+
+41 Common Equity Tier 1 must first be used to meet the minimum capital requirements (including the 7% Tier 1 and 9% Total capital requirements, if necessary), before the remainder can contribute to the capital conservation buffer requirement.
+
+<!-- PAGE 76 -->
+
+**Minimum capital conservation standards for individual bank** Common Equity Tier 1 Minimum Capital Conservation Ratios Ratio after including the (expressed as a %age of earnings) current periods retained earnings
+
+5.5% - 6.125% 100%
+>6.125% - 6.75% 80% >6.75% - 7.375% 60% >7.375% - 8.0% 40% >8.0% 0%
+
+For example, a bank with a Common Equity Tier 1 capital ratio in the range of
+
+6.125% to 6.75% is required to conserve 80% of its earnings in the subsequent financial year (i.e. payout no more than 20% in terms of dividends, share buybacks and discretionary bonus payments is allowed).
+**2.2** The Common Equity Tier 1 ratio includes amounts used to meet the minimum Common Equity Tier 1 capital requirement of 5.5%, but excludes any additional Common Equity Tier 1 needed to meet the 7% Tier 1 and 9% Total Capital requirements. For example, a bank maintains Common Equity Tier 1 capital of 9% and has no Additional Tier 1 or Tier 2 capital. Therefore, the bank would meet all minimum capital requirements, but would have a zero conservation buffer and therefore, the bank would be subjected to 100% constraint on distributions of capital by way of dividends, share-buybacks and discretionary bonuses.
+# Withdrawn
+
+**2.3** The following represents other key aspects of the capital conservation buffer requirements:
+**(i) Elements subject to the restriction on distributions**: Dividends and share buybacks, discretionary payments on other Tier 1 capital instruments and discretionary bonus payments to staff would constitute items considered to be distributions. Payments which do not result in depletion of Common Equity Tier 1 capital, (for
+42 example include certain scrip dividends) are not considered distributions.
+
+**(ii) Definition of earnings**: Earnings are defined as distributable profits before the deduction of elements subject to the restriction on distributions mentioned at (i) above. Earnings are calculated after the tax which would have been reported had none of the distributable items been paid. As such, any tax impact of making
+
+A scrip dividend is a scrip issue made in lieu of a cash dividend. The term ‘scrip dividends’ also includes bonus shares.
+
+<!-- PAGE 77 -->
+
+such distributions are reversed out. If a bank does not have positive earnings and has a Common Equity Tier 1 ratio less than 8%, it should not make positive net distributions.
+
+**(iii)Solo or consolidated application**: Capital conservation buffer is applicable both at the solo level (global position) as well as at the consolidated level, i.e. restrictions would be imposed on distributions at the level of both the solo bank and the consolidated group. In all cases where the bank is the parent of the group, it would mean that distributions by the bank can be made only in accordance with the lower of its Common Equity Tier 1 Ratio at solo 43 level or consolidated level. For example, if a bank’s Common Equity Tier 1 ratio at solo level is 6.8% and that at consolidated level is 7.4%. It will be subject to a capital conservation requirement of 60% consistent with the Common Equity Tier 1 range of >6.75% -
+
+7.375% as per Table in **paragraph 2.1** above. Suppose, a bank’s Common Equity Tier 1 ratio at solo level is 6.6% and that at consolidated level is 6%. It will be subject to a capital conservation requirement of 100% consistent with the Common Equity Tier I range of >5.5% - 6.125% as per Table on minimum capital conservation standards for individual bank.
+**3.** Banks which already meet the minimum ratio requirement during the transition period as indicated in paragraph 6 of Section E of Annex 1, but remain below the target of 8% Common Equity Tier 1 capital ratio (minimum of 5.5% plus conservation buffer of Withdrawn 2.5%) should maintain prudent earnings retention policies with a view to meeting the conservation buffer as soon as possible. However, RBI may consider accelerating the build-up of the capital conservation buffer and shorten the transition periods, if the situation warrants so.
+43 If a subsidiary is a bank, it will naturally be subject to the provisions of capita conservation buffer. If it is not a bank, even then the parent bank should not allow the subsidiary to distribute dividend which are inconsistent with the position of CCB at the consolidated level.
+
+<!-- PAGE 78 -->
+
+## ANNEX 5
+
+## LEVERAGE RATIO
+
+## 1. RATIONALE AND OBJECTIVE
+
+One of the underlying features of the crisis was the build-up of excessive on- and off-balance sheet leverage in the banking system. In many cases, banks built up excessive leverage while still showing strong risk based capital ratios. During the most severe part of the crisis, the banking sector was forced by the market to reduce its leverage in a manner that amplified downward pressure on asset prices, further exacerbating the positive feedback loop between losses, declines in bank capital, and contraction in credit availability. Therefore, under Basel III, a simple, transparent, non-risk based leverage ratio has been introduced. The leverage ratio is calibrated to act as a credible supplementary measure to the risk based capital requirements. The leverage ratio is intended to achieve the following objectives:
+
+(a) constrain the build-up of leverage in the banking sector, helping avoid destabilising deleveraging processes which can damage the broader financial system and the economy; and
+(b) reinforce the risk based requirements with a simple, non-risk based “backstop” measure.
+## 2. D EFINITION AND CALCULATION OF THE LEVERAGE RATIO
+
+# Withdrawn
+
+**2.1** The provisions relating to leverage ratio contained in the Basel III document are intended to serve as the basis for testing the leverage ratio during the parallel run period. The Basel Committee will test a minimum Tier 1 leverage ratio of 3% during the parallel run period from 1 January 2013 to 1 January 2017. Additional transitional arrangements are set out in paragraph 3 below.
+**2.2** During the period of parallel run, banks should strive to maintain their existing level of leverage ratio but, in no case the leverage ratio should fall below 4.5%. A bank whose leverage ratio is below 4.5% may endeavor to bring it above 4.5% as early as possible. Final leverage ratio requirement would be prescribed by RBI after the parallel run taking into account the prescriptions given by the Basel Committee.
+**2.3** The leverage ratio shall be maintained on a quarterly basis. The basis of calculation at the end of each quarter is *“the average of the month-end* *leverage ratio over the quarter based on the definitions of capital (**the capital*** ***measure**) and total exposure (**the exposure measure**) specified in* *paragraphs 2.4 and 2.5, respectively*”.
+
+<!-- PAGE 79 -->
+
+## 2.4 Capital Measure
+
+(a) The capital measure for the leverage ratio should be based on the new definition of Tier 1 capital as set out in 2.1.2 (i) of Annex 1 of these
+44 guidelines.
+
+(b) Items that are deducted completely from capital do not contribute to leverage, and should therefore also be deducted from the measure of exposure. That is, the capital and exposure should be measured consistently and should avoid double counting. This means that deductions from Tier 1 capital (as set out in Section C of Annex 1) should also be made from the exposure measure.
+(c) According to the treatment outlined in paragraph 4.9.2.3 where a financial entity is included in the accounting consolidation but not in the regulatory consolidation, the investments in the capital of these entities are required to be deducted to the extent that that they exceed 10% of the bank’s common equity. To ensure that the capital and exposure are measured consistently for the purposes of the leverage ratio, the assets of such entities included in the accounting consolidation should be excluded from the exposure measure in proportion to the capital that is excluded under paragraph 4.9.2.3.
+(d) For example, assume that total assets consolidated by the bank in respect of the subsidiaries which are included in the accounting consolidation but not in the regulatory consolidation (e.g. insurance
+# Withdrawn
+
+companies) are Rs. 1200 crore. Further assume that the total equity investment of a bank in such subsidiaries is 15% of the bank’s common equity. In this case, investment equal to 10% of the bank’s equity will be risk weighted at 250% and the remaining 5% will be deducted from common equity. Of the consolidated assets of Rs.1200 crore, Rs.400crore {1200*(5%/15%)} will be excluded from the exposure measure.
+
+## 2.5 Exposure Measure
+
+## 2.5.1 General Measurement Principles
+
+The exposure measure for the leverage ratio should generally follow the accounting measure of exposure. In order to measure the exposure consistently with financial accounts, the following should be applied by banks:
+
+44 The Tier 1 capital does not include capital conservation buffer and countercyclical capital buffer for the purpose of leverage ratio.
+
+<!-- PAGE 80 -->
+
+(a) on-balance sheet, non-derivative exposures will be net of specific provisions and valuation adjustments (e.g. prudent valuation adjustments for AFS and HFT positions, credit valuation adjustments);
+(b) physical or financial collateral, guarantees or credit risk mitigation purchased is not allowed to reduce on-balance sheet exposures; and
+(c) netting of loans and deposits is not allowed.
+## 2.5.2 On-Balance Sheet Items
+
+Banks should include all items of assets reported in their accounting balance sheet for the purposes of calculation of the leverage ratio. In addition, the exposure measure should include the following treatments for Securities Financing Transactions (e.g. repo and reverse repo agreements, CBLO) and derivatives.
+
+## (i) Repurchase agreements and securities finance
+
+Securities Financing Transactions (SFTs) are a form of secured funding and therefore, an important source of balance sheet leverage that should be included in the leverage ratio. Therefore, banks should calculate SFT for the purposes of the leverage ratio by applying:
+
+(a) the accounting measure of exposure; and
+(b) without netting various long and short positions with the same counterparty.
+## (ii) DerivativesWithdrawn
+
+Derivatives create two types of exposure: an “on-balance sheet” present value reflecting the fair value of the contract (often zero at outset but subsequently positive or negative depending on the performance of the contract), and a notional economic exposure representing the underlying economic interest of the contract. Banks should calculate exposure in respect of derivatives, including where a bank sells protection using a credit derivative, for the purposes of the leverage ratio by applying:
+
+***(a)*** the accounting measure of exposure (positive MTM value) plus an add- on for potential future exposure calculated according to the Current Exposure Method; and
+***(b)*** without netting the MTM values and PFEs in respect of various long and short positions with the same counterparty.
+## (iii) Other off-Balance Sheet Items
+
+Banks should calculate the off balance sheet items enumerated in **paragraph**
+
+**5.15.2** of the Master Circular for the purposes of the leverage ratio by applying
+
+<!-- PAGE 81 -->
+
+a uniform 100% credit conversion factor (CCF). However, for any commitments that are unconditionally cancellable at any time by the bank without prior notice, a CCF of 10% may be applied.
+
+## 3. Transitional Arrangements
+
+**3.1** The transition period for the leverage ratio has begun on January 1,
+2011. The Basel Committee will use the transition period to monitor banks’ leverage data on a semi-annual basis in order to assess whether the proposed design and calibration of the minimum Tier 1 leverage ratio of 3% is appropriate over a full credit cycle and for different types of business models. This assessment will include consideration of whether a wider definition of exposures and an offsetting adjustment in the calibration would better achieve the objectives of the leverage ratio. The Committee also will closely monitor accounting standards and practices to address any differences in national accounting frameworks that are material to the definition and calculation of the leverage ratio. The transition period will comprise of a supervisory monitoring period and a parallel run period:
+**3.2** The supervisory monitoring period has commenced January 1, 2011. The supervisory monitoring process will focus on developing templates to track in a consistent manner the underlying components of the agreed definition and resulting ratio. BCBS would be undertaking the parallel run between January 1, 2013 and January 1, 2017. During this period, the leverage ratio and its components will be tracked, including its behaviour relative to the risk based requirement. Based on the results of the parallel run
+# Withdrawn
+
+period, any final adjustments to the definition and calibration of the leverage ratio will be carried out in the first half of 2017, with a view to migrating to a Pillar 1 treatment on January 1, 2018 based on appropriate review and calibration.
+
+**3.3**. Banks are required to calculate their leverage ratio using the definitions of capital and total exposure as defined under this guidelines and their risk based capital requirement. Bank level disclosure of the leverage ratio and its components will start from April 1, 2015. However, banks should report their Tier 1 leverage ratio to the RBI (Department of Banking Operations and Development) along with detailed calculations of capital and exposure measures on a quarterly basis from the quarter ending December 31, 2012.
+
+<!-- PAGE 82 -->
+
+## APPENDIX 1
+
+## CALCULATION OF ADMISSIBLE EXCESS ADDITIONAL TIER 1 (AT1) AND TIER
+
+## 2 CAPITAL FOR THE PURPOSE OF REPORTING AND DISCLOSING MINIMUM
+
+## TOTAL CAPITAL RATIOS
+
+## Capital Ratios in the year 2018
+
+|Common Equity Tier 1|7.5% of RWAs|
+|---|---|
+|CCB|2.5% of RWAs|
+|Total CET1|10% of RWAs|
+|PNCPS / PDI|3.0% of RWAs|
+|PNCPS / PDI eligible for Tier 1 capital|2.05 % of RWAs {(1.5/5.5)*7.5% of CET1}|
+|PNCPS / PDI ineligible for Tier 1 capital|0.95% of RWAs (3-2.05)|
+|Eligible Total Tier 1 capital|9.55% of RWAs|
+|Tier 2 issued by the bank|2.5% of RWAs|
+|Tier 2 capital eligible for CRAR|2.73% of RWAs {(2/5.5)*7.5% of CET1}|
+|PNCPS / PDI eligible for Tier 2 capital|0.23% of RWAs (2.73-2.5)|
+|PNCPS / PDI not eligible Tier 2 capital|0.72% of RWAs (0.95-.23)|
+|Total available capital|15.50%|
+|Total Capital|14.78% (12.28% +2.5%)|
+
+## <u>(CET1 -10%+AT1-2.05% +Tier 2-2.73)</u>
+
+# Withdrawn
+
+<!-- PAGE 83 -->
+
+## APPENDIX 2
+
+## CRITERIA FOR CLASSIFICATION AS COMMON SHARES (PAID-UP EQUITY CAPITAL) FOR REGULATORY PURPOSES – INDIAN BANKS
+
+1. All common shares should ideally be the voting shares. However, in rare cases, where banks need to issue non-voting common shares as part of Common Equity Tier 1 capital, they must be identical to voting common shares of the issuing bank in all respects except the absence of voting rights. Limit of 1% of voting rights in case of nationalized banks in terms of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 10% in case of State Bank of India and its associate banks in terms of SBI Act, 1955 and the State Bank of India (Subsidiary Banks) Act, 1959 respectively and limit of 10% of voting rights in case of Private Sector Banks in terms of Banking Regulation Act, 1949 will continue to apply.
+2. Represents the most subordinated claim in liquidation of the bank.
+3. Entitled to a claim on the residual assets which is proportional to its share of paid up capital, after all senior claims have been repaid in liquidation (i.e. has an unlimited and variable claim, not a fixed or capped claim).
+4. Principal is perpetual and never repaid outside of liquidation (except discretionary repurchases / buy backs or other means of effectively reducing capital in a discretionary manner that is allowable under relevant law as well as guidelines, if any, issued by RBI in the matter). Withdrawn
+5. The bank does nothing to create an expectation at issuance that the instrument will be bought back, redeemed or cancelled nor do the statutory or contractual terms provide any feature which might give rise to such an expectation.
+6. Distributions are paid out of distributable items (retained earnings included). The level of distributions is not in any way tied or linked to the amount paid up at issuance and is not subject to a contractual cap (except to the extent that a bank is unable to pay distributions that exceed the level of distributable items).
+7. There are no circumstances under which the distributions are obligatory. Non- payment is therefore not an event of default.
+8. Distributions are paid only after all legal and contractual obligations have been met and payments on more senior capital instruments have been made. This means that there are no preferential distributions, including in respect of other elements classified as the highest quality issued capital.
+
+<!-- PAGE 84 -->
+
+9. It is the paid up capital that takes the first and proportionately greatest share of any losses as they occur⁴⁵. Within the highest quality capital, each instrument absorbs losses on a going concern basis proportionately and *pari* *passu* with all the others.
+10. The paid up amount is classified as equity capital (i.e. not recognised as a liability) for determining balance sheet insolvency.
+11. The paid up amount is classified as equity under the relevant accounting standards.
+12. It is directly issued and paid up and the bank cannot directly or indirectly have funded the purchase of the instrument⁴⁶. Banks should also not extend loans against their own shares.
+13. The paid up amount is neither secured nor covered by a guarantee of the issuer or related entity⁴⁷nor subject to any other arrangement that legally or economically enhances the seniority of the claim.
+14. Paid up capital is only issued with the approval of the owners of the issuing bank, either given directly by the owners or, if permitted by applicable law, given by the Board of Directors or by other persons duly authorised by the owners.
+15. Paid up capital is clearly and separately disclosed in the bank’s balance
+# Withdrawn
+
+sheet.
+
+45 In cases where capital instruments have a permanent write-down feature, this criterion is still deemed to be met by common shares 46 Banks should not grant advances against its own shares as this would be construed as indirect funding of its own capital. 47 A related entity can include a parent company, a sister company, a subsidiary or any other affiliate. A holding company is a related entity irrespective of whether it forms part of the consolidated banking group.
+
+<!-- PAGE 85 -->
+
+## APPENDIX 3
+
+## CRITERIA FOR CLASSIFICATION AS COMMON EQUITY FOR REGULATORY
+
+## PURPOSES – FOREIGN BANKS
+
+1. Represents the most subordinated claim in liquidation of the Indian operations of the bank.
+2. Entitled to a claim on the residual assets which is proportional to its share of paid up capital, after all senior claims have been repaid in liquidation (i.e. has an unlimited and variable claim, not a fixed or capped claim).
+3. Principal is perpetual and never repaid outside of liquidation (except with the approval of RBI).
+4. Distributions to the Head Office of the bank are paid out of distributable items (retained earnings included). The level of distributions is not in any way tied or linked to the amount paid up at issuance and is not subject to a contractual cap (except to the extent that a bank is unable to pay distributions that exceed the level of distributable items).
+5. Distributions to the Head Office of the bank are paid only after all legal and contractual obligations have been met and payments on more senior capital instruments have been made. This means that there are no preferential distributions, including in respect of other elements classified as the highest quality issued capital.
+# Withdrawn
+
+6. This capital takes the first and proportionately greatest share of any losses as
+48 they occur.
+
+7. It is clearly and separately disclosed in the bank’s balance sheet.
+In cases where capital instruments have a permanent write-down feature, this criterion is still deemed to be met by common shares
+
+<!-- PAGE 86 -->
+
+## APPENDIX 4
+
+## CRITERIA FOR INCLUSION OF PERPETUAL NON-CUMULATIVE PREFERENCE
+
+## SHARES (PNCPS) IN ADDITIONAL TIER 1 CAPITAL
+
+The PNCPS will be issued by Indian banks, subject to extant legal provisions only in Indian rupees and should meet the following terms and conditions to qualify for inclusion in Additional Tier 1 Capital for capital adequacy purposes:
+
+## 1. Terms of Issue of Instruments
+
+## 1.1 Paid up Status
+
+The instruments should be issued by the bank (i.e. not by any ‘SPV’ etc. set up by the bank for this purpose) and fully paid up.
+
+## 1.2 Amount
+
+The amount of PNCPS to be raised may be decided by the Board of Directors of banks.
+
+## 1.3 Limits
+
+While complying with minimum Tier 1 of 7% of risk weighted assets, a bank cannot admit, Perpetual Non-Cumulative Preference Shares (PNCPS) together with Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital, more than 1.5% of risk weighted assets. However, once this minimum total Tier 1 capital has been complied with, any additional PNCPS and PDI issued by the bank can be included in Total Tier 1 capital reported. Excess PNCPS and PDI can be reckoned to comply with Tier 2 capital if the latter is less than 2% of RWAs. This limit will work in the same way as
+
+# Withdrawn
+
+illustrated in **Appendix 1**.
+
+## 1.4 Maturity Period
+
+The PNCPS shall be perpetual i.e. there is no maturity date and there are no step- ups or other incentives to redeem.
+
+## 1.5 Rate of Dividend
+
+The rate of dividend payable to the investors may be either a fixed rate or a floating rate referenced to a market determined rupee interest benchmark rate
+
+## 1.6 Optionality
+
+PNCPS shall not be issued with a 'put option'. However, banks may issue the instruments with a call option at a particular date subject to following conditions:
+
+a. The call option on the instrument is permissible after the instrument has run for at least ten years;
+b. To exercise a call option a bank must receive prior approval of RBI(Department of Banking Operations & Development); and
+
+<!-- PAGE 87 -->
+
+c. A bank must not do anything which creates an expectation that the call will be exercised⁴⁹; and
+d. Banks must not exercise a call unless:
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank⁵⁰; or (ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised.
+51
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points
+
+(b) to (d) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of PNCPS. To illustrate, if there is a change in tax treatment which makes the capital instrument with tax deductible coupons into an instrument with non-tax deductible coupons, then the bank would have the option (not obligation) to repurchase the instrument. In such a situation, a bank may be allowed to replace the capital instrument with another capital instrument that perhaps does have tax deductible coupons. Similarly, if there is a downgrade of the instrument in regulatory classification (e.g. if it is decided by the RBI to exclude an instrument from regulatory capital) the bank has the option to call the instrument and replace it with an instrument with a better regulatory classification, or a lower coupon with the same regulatory classification with priorWithdrawn approval of RBI. However, banks may not create an expectation / signal an early redemption / maturity of the regulatory capital instrument.
+## 1.7 Repurchase / Buy-back / Redemption
+
+(i) Principal of the instruments may be repaid (e.g. through repurchase or redemption) only with prior approval of RBI and banks should not assume or create market expectations that supervisory approval will be given ( this repurchase / buy-back /redemption of the principal is in a situation other than in the event of exercise of call option by the bank. One of the major differences is that in the case of the former, the option to offer the
+49 If a bank were to call a capital instrument and replace it with an instrument that is more costly (e.g. has a higher credit spread) this might create an expectation that the bank will exercise calls on its other capital instruments. Therefore, bank may not be permitted to call an instrument if the bank intends to replace it with an instrument issued at a higher credit spread. This is applicable in cases of all Additional Tier 1 and Tier 2 instruments. 50 Replacement issues can be concurrent with but not after the instrument is called. Here, minimum refers to Common Equity Tier 1 of 8% of RWAs (including capital conservation buffer of 2.5% of RWAs) and Total Capital of 11.5% of RWAs including any additional capital requirement identified under Pillar 2.
+
+<!-- PAGE 88 -->
+
+instrument for repayment on announcement of the decision to repurchase / buy-back /redeem the instrument, would lie with the investors whereas, in case of the latter, it lies with the bank).
+
+(ii) Banks may repurchase / buy-back / redeem the instruments only if:
+
+a) They replace such instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank; or
+b) The bank demonstrates that its capital position is well above the minimum capital requirements after the repurchase / buy- back / redemption.
+## 1.8 Dividend Discretion
+
+(i) The bank must have full discretion at all times to cancel distributions/payments;
+52
+
+(ii) Cancellation of discretionary payments must not be an event of default;
+
+(iii) Banks must have full access to cancelled payments to meet obligations as they fall due;
+
+(iv) Cancellation of distributions/payments must not impose restrictions on the bank except in relation to distributions to common stakeholders; and
+
+(v) dividends must be paid out of distributable items. (vii) The dividend shall not be cumulative. i.e., dividend missed in a year will not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum. When dividend is paid at a rate lesser than the prescribed rate, the unpaid amount will not be paid in future years, even ifWithdrawn adequate profit is available and the level of CRAR conforms to the regulatory minimum. (viii) The instrument cannot have a credit sensitive coupon feature, i.e. a dividend that is reset periodically based in whole or in part on the banks’ credit standing. For this purpose, any reference rate including a broad index which is sensitive to changes to the bank’s own creditworthiness and / or to changes in the credit worthiness of the wider banking sector will be treated as a credit sensitive reference rate. Banks desirous of offering floating reference rate may take prior approval of the RBI (DBOD) as regard permissibility of such reference rates. (ix) In general, it may be in order for banks to have dividend stopper arrangement that stop dividend payments on common shares in the event the holders of AT1 instruments are not paid dividend/coupon. However, dividend stoppers must not impede the full discretion that bank must have at all times to cancel distributions/payments on the Additional Tier 1 instrument, nor must they act in a
+52 consequence of full discretion at all times to cancel distributions/payments is that “dividend pushers” are prohibited. An instrument with a dividend pusher obliges the issuing bank to make a dividend/coupon payment on the instrument if it has made a payment on another (typically more junior) capital instrument or share. This obligation is inconsistent with the requirement for full discretion at all times. Furthermore, the term “cancel distributions/payments” means extinguish these payments. It does not permit features that require the bank to make distributions/payments in kind.
+
+<!-- PAGE 89 -->
+
+way that could hinder the re-capitalisation of the bank. For example, it would not be permitted for a stopper on an Additional Tier 1 instrument to:
+
+- attempt to stop payment on another instrument where the payments on this other instrument were not also fully discretionary;
+- prevent distributions to shareholders for a period that extends beyond the point in time that dividends/coupons on the Additional Tier 1 instrument are resumed;
+- impede the normal operation of the bank or any restructuring activity (including acquisitions/disposals).
+A stopper may act to prohibit actions that are equivalent to the payment of a dividend, such as the bank undertaking discretionary share buybacks, **if otherwise** **permitted**.
+
+## 1.9 Treatment in Insolvency
+
+The instrument cannot contribute to liabilities exceeding assets if such a balance sheet test forms part of a requirement to prove insolvency under any law or otherwise.
+
+## 1.10 Loss Absorption Features
+
+PNCPS should have principal loss absorption through either (i) conversion to common shares at an objective pre-specified trigger point or (ii) a write-down mechanism which allocates losses to the instrument at a pre-specified trigger point. The write-down will have the following effects:
+
+a) Reduce the claim of the instrument in liquidation;
+b) Reduce the amount re-paid when a call is exercised; andWithdrawn
+c) Partially or fully reduce dividend payments on the instrument.
+Various criteria for loss absorption through conversion / write-down / write-off on breach of pre-specified trigger and at the point of non-viability are furnished in **Appendix 12.**
+
+## 1.11 Prohibition on Purchase / Funding of PNCPS
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase PNCPS, nor can the bank directly or indirectly should fund the purchase of the instrument. Banks should also not grant advances against the security of PNCPS issued by them.
+
+<!-- PAGE 90 -->
+
+## 1.12 Re-capitalisation
+
+The instrument cannot have any features that hinder re-capitalisation, such as provisions which require the issuer to compensate investors if a new instrument is issued at a lower price during a specified time frame.
+
+## 1.13 Reporting of Non-payment of Dividends
+
+All instances of non-payment of dividends should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Banking Operations & Development and Department of Banking Supervision of the Reserve Bank of India, Mumbai.
+
+## 1.14 Seniority of Claim
+
+The claims of the investors in instruments shall be
+
+(i) Superior to the claims of investors in equity shares; (ii) Subordinated to the claims of PDIs, all Tier 2 regulatory capital instruments, depositors and general creditors of the bank; and (iii) is neither secured nor covered by a guarantee of the issuer nor related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+## 1.15 Investment in Instruments Raised in
+
+## Indian Rupees by Foreign Entities/NRIs
+
+i. Investment by FIIs and NRIs shall be within an overall limit of 49 % and 24 % of the issue respectively, subject to the investment by each FII not
+# Withdrawn
+
+exceeding 10 % of the issue, and investment by each NRI not exceeding five % of the issue. Investment by FIIs in these instruments shall be outside the ECB limit for rupee-denominated corporate debt, as fixed by Government of India from time to time. The overall non-resident holding of Preference Shares and equity shares in public sector banks will be subject to the statutory / regulatory limit.
+
+ii. Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+
+## 1.16 Compliance with Reserve Requirements
+
+i. The funds collected by various branches of the bank or other banks for the issue and held pending finalisation of allotment of the Additional Tier 1 Preference Shares will have to be taken into account for the purpose of calculating reserve requirements. ii. However, the total amount raised by the bank by issue of PNCPS shall not be reckoned as liability for calculation of net demand and time liabilities for the
+
+<!-- PAGE 91 -->
+
+purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+
+## 1.17 Reporting of Issuances
+
+(i) Banks issuing PNCPS shall submit a report to the Chief General Manager-in- charge, Department of Banking Operations & Development, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified at above **paragraphs**, together with a copy of the offer document soon after the issue is completed. (ii) The issue-wise details of amount raised as PNCPS qualifying for Additional Tier 1 capital by the bank from FIIs / NRIs are required to be reported within 30 days of the issue to the Chief General Manager, Reserve Bank of India, Foreign Exchange Department, Foreign Investment Division, Central Office, Mumbai 400 001 in the **proforma** given at the end of this **Appendix**. The details of the secondary market sales / purchases by FIIs and the NRIs in these instruments on the floor of the stock exchange shall be reported by the custodians and designated banks, respectively, to the Reserve Bank of India through the soft copy of the LEC Returns, on a daily basis, as prescribed in <u>Schedule 2</u> and <u>3</u> of the FEMA Notification No.20 dated 3rd May 2000, as amended from time to time.
+## 1.18 Investment in Additional Tier 1 Capital Instruments PNCPS Issued by Other Banks/ FIs
+
+(i) A bank's investment in PNCPS issued by other banks and financial
+# Withdrawn
+
+institutions will be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 % of investing banks' capital funds as prescribed vide circular <u>DBOD.BP.BC.No.3/ 21.01.002/ 2004-05</u> dated 6th July 2004.
+
+(ii)Bank's investments in PNCPS issued by other banks / financial institutions will attract risk weight as provided in **paragraphs 5.6. and 8.3.5 of the** **Master Circular, whichever applicable** for capital adequacy purposes.
+
+(iii) A bank's investments in the PNCPS of other banks will be treated as exposure to capital market and be reckoned for the purpose of compliance with the prudential ceiling for capital market exposure as fixed by RBI.
+
+## 1.19 Classification in the Balance Sheet
+
+PNCPS will be classified as capital and shown under 'Schedule I- Capital' of the Balance sheet.
+
+<!-- PAGE 92 -->
+
+## Reporting Format
+
+# (Cf. para 1.17 of Appendix 4)
+
+||||Details of Investments by FIIs and NRIs in Perpetual Non-Cumulative Preference Shares qualifying as Additional Tier 1 capital|||
+|---|---|---|---|---|---|
+|(a) Name of the bank: (c) Date of issue :|(b) Total issue size / amount raised (in Rupees) :|||||
+||FIIs|||NRIs||
+|No of||Amount raised|No. of||Amount raised|
+|FIIs|in Rupees|as a %age of the total issue size|NRIs|in Rupees|as a %age of the total issue size|
+
+It is certified that
+
+(i) the aggregate investment by all FIIs does not exceed 49 % of the issue size and investment by no individual FII exceeds 10 % of the issue size. (ii) It is certified that the aggregate investment by all NRIs does not exceed 24 % of the issue size and investment by no individual NRI exceeds 5 % of the issue size
+Authorised Signatory Date Seal of the bank Withdrawn
+
+<!-- PAGE 93 -->
+
+## APPENDIX 5
+
+## CRITERIA FOR INCLUSION OF PERPETUAL DEBT INSTRUMENTS (PDI) IN
+
+## ADDITIONAL TIER 1 CAPITAL
+
+The Perpetual Debt Instruments that may be issued as bonds or debentures by Indian banks should meet the following terms and conditions to qualify for inclusion in Additional Tier 1 Capital for capital adequacy purposes:
+
+## 1. Terms of Issue of Instruments Denominated in Indian Rupees
+
+## 1.1 Paid-in Status
+
+The instruments should be issued by the bank (i.e. not by any ‘SPV’ etc. set up by the bank for this purpose) and fully paid-in.
+
+## 1.2 Amount
+
+The amount of PDI to be raised may be decided by the Board of Directors of banks.
+
+## 1.3 Limits
+
+While complying with minimum Tier 1 of 7% of risk weighted assets, a bank cannot admit, Perpetual Debt Instruments (PDI) together with Perpetual Non-Cumulative Preference Shares (PNCPS) in Additional Tier 1 Capital, more than 1.5% of risk weighted assets. However, once this minimum total Tier 1 capital has been complied with, any additional PNCPS and PDI issued by the bank can be included in Total Tier 1 capital reported. Excess PNCPS and PDI can be reckoned to comply with Tier 2 capital if the latter is less than 2% of RWAs. This limit will work in the same way as illustrated in **Appendix 1**.Withdrawn
+
+## 1.4 Maturity Period
+
+The PDIs shall be perpetual i.e. there is no maturity date and there are no step-ups or other incentives to redeem.
+
+## 1.5 Rate of Interest
+
+The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+
+## 1.6 Optionality
+
+PDIs shall not have any ‘put option’. However, banks may issue the instruments with a call option at a particular date subject to following conditions:
+
+a. The call option on the instrument is permissible after the instrument has run for at least ten years;
+b. To exercise a call option a bank must receive prior approval of RBI(Department of Banking Operations & Development);
+
+<!-- PAGE 94 -->
+
+c. A bank must not do anything which creates an expectation that the call will be exercised; and
+d. Banks must not exercise a call unless:
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank⁵³; or (ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised.
+54
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points
+
+(b) to (d) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of PDIs. To illustrate, if there is a change in tax treatment which makes the capital instrument with tax deductible coupons into an instrument with non-tax deductible coupons, then the bank would have the option (not obligation) to repurchase the instrument. In such a situation, a bank may be allowed to replace the capital instrument with another capital instrument that perhaps does have tax deductible coupons. Similarly, if there is a downgrade of the instrument in regulatory classification (e.g. if it is decided by the RBI to exclude an instrument from regulatory capital) the bank has the option to call the instrument and replace it with an instrument with a better regulatory classification, or a lower coupon with the same regulatory classification with prior approval of RBI. However, banks may not create an expectation / signal an early redemption / maturity of the regulatory capital instrument.
+## 1.7 Repurchase / Buy-back / Redemption
+
+# Withdrawn
+
+(i) Principal of the instruments may be repaid (e.g. through repurchase or redemption) only with prior approval of RBI and banks should not assume or create market expectations that supervisory approval will be given ( this repurchase / buy-back /redemption of the principal is in a situation other than in the event of exercise of call option by the bank. One of the major differences is that in the case of the former, the option to offer the instrument for repayment on announcement of the decision to repurchase / buy-back /redeem the instrument, would lie with the investors whereas, in case of the latter, it lies with the bank). (ii) Banks may repurchase / buy-back / redemption only if:
+a) They replace the such instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank; or
+53 Replacement issues can be concurrent with but not after the instrument is called. 54 Minimum refers to Common Equity Tier 1 of 8% of RWAs (including capital conservation buffer of
+
+2.5% of RWAs) and Total capital of 11.5% of RWAs including additional capital requirements identified under Pillar 2.
+
+<!-- PAGE 95 -->
+
+b) The bank demonstrates that its capital position is well above the minimum capital requirements after the repurchase / buy- back / redemption.
+## 1.8 Coupon Discretion
+
+a) The bank must have full discretion at all times to cancel distributions/payments⁵⁵
+b) Cancellation of discretionary payments must not be an event of default
+c) Banks must have full access to cancelled payments to meet obligations as they fall due
+d) Cancellation of distributions/payments must not impose restrictions on the bank except in relation to distributions to common stakeholders.
+e) coupons must be paid out of distributable items.
+g) the interest shall not be cumulative.
+h) The instrument cannot have a credit sensitive coupon feature, i.e. a dividend that is reset periodically based in whole or in part on the banks’ credit standing. For this purpose, any reference rate including a broad index which is sensitive to changes to the bank’s own creditworthiness and / or to changes in the credit worthiness of the wider banking sector will be treated as a credit sensitive reference rate. Banks desirous of offering floating reference rate may take prior approval of the RBI (DBOD) as regard permissibility of such reference rates.
+i) In general, it may be in order for banks to have dividend stopper arrangement that stop dividend payments on common shares in the
+# Withdrawn
+
+event the holders of AT1 instruments are not paid dividend/coupon. However, dividend stoppers must not impede the full discretion that bank must have at all times to cancel distributions/payments on the Additional Tier 1 instrument, nor must they act in a way that could hinder the re-capitalisation of the bank. For example, it would not be permitted for a stopper on an Additional Tier 1 instrument to:
+
+- attempt to stop payment on another instrument where the payments on this other instrument were not also fully discretionary;
+- prevent distributions to shareholders for a period that extends beyond the point in time that dividends/coupons on the Additional Tier 1 instrument are resumed;
+- impede the normal operation of the bank or any restructuring activity (including acquisitions/disposals).
+55 Consequence of full discretion at all times to cancel distributions/payments is that “dividend pushers” are prohibited. An instrument with a dividend pusher obliges the issuing bank to make a dividend/coupon payment on the instrument if it has made a payment on another (typically more junior) capital instrument or share. This obligation is inconsistent with the requirement for full discretion at all times. Furthermore, the term “cancel distributions/payments” means extinguish these payments. It does not permit features that require the bank to make distributions/payments in kind.
+
+<!-- PAGE 96 -->
+
+A stopper may act to prohibit actions that are equivalent to the payment of a dividend, such as the bank undertaking discretionary share buybacks, **if otherwise** **permitted**.
+
+## 1.9 Treatment in Insolvency
+
+The instrument cannot contribute to liabilities exceeding assets if such a balance sheet test forms part of a requirement to prove insolvency under any law or otherwise.
+
+## 1.10 Loss Absorption Features
+
+PDIs may be classified as liabilities for accounting purposes (not for the purpose of insolvency as indicated in paragraph 1.9 above). In such cases, these instruments must have principal loss absorption through either (i) conversion to common shares at an objective pre-specified trigger point or (ii) a write-down mechanism which allocates losses to the instrument at a pre-specified trigger point. The write-down will have the following effects:
+
+a) Reduce the claim of the instrument in liquidation;
+b) Reduce the amount re-paid when a call is exercised; and
+c) Partially or fully reduce coupon payments on the instrument.
+Various criteria for loss absorption through conversion / write-down / write-off on breach of pre-specified trigger and at the point of non-viability are furnished in **Appendix 12.**
+
+# Withdrawn
+
+## 1.11 Prohibition on Purchase / Funding of Instruments
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase the instrument, nor can the bank directly or indirectly fund the purchase of the instrument. Banks should also not grant advances against the security of the debt instruments issued by them.
+
+## 1.12 Re-capitalisation
+
+The instrument cannot have any features that hinder re-capitalisation, such as provisions which require the issuer to compensate investors if a new instrument is issued at a lower price during a specified time frame.
+
+## 1.13 Reporting of Non-payment of Coupons
+
+All instances of non-payment of coupon should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Banking Operations &
+
+<!-- PAGE 97 -->
+
+Development and Department of Banking Supervision of the Reserve Bank of India, Mumbai.
+
+## 1.14 Seniority of Claim
+
+The claims of the investors in instruments shall be
+
+(i) Superior to the claims of investors in equity shares and perpetual non- cumulative preference shares; (ii) Subordinated to the claims of depositors, general creditors and subordinated debt of the bank. (iii) is neither secured nor covered by a guarantee of the issuer nor related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+## 1.15 Investment in Instruments Raised in
+
+## Indian Rupees by Foreign Entities/NRIs
+
+(i) Investment by FIIs in instruments raised in Indian Rupees shall be outside the ECB limit for rupee denominated corporate debt, as fixed by the Govt. of India from time to time, for investment by FIIs in corporate debt instruments. Investment in these instruments by FIIs and NRIs shall be within an overall limit of 49 % and 24 % of the issue, respectively, subject to the investment by each FII not exceeding 10 % of the issue and investment by each NRI not exceeding 5% of the issue. (ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+# Withdrawn
+
+## 1.16 Terms of Issue of Instruments Denominated in Foreign Currency
+
+Banks may augment their capital funds through the issue of PDIs in foreign currency without seeking the prior approval of the Reserve Bank of India, subject to compliance with the requirements mentioned below:
+
+(i) Instruments issued in foreign currency should comply with all terms and conditions as applicable to the instruments issued in Indian Rupees. (ii) Not more than 49 % of the eligible amount can be issued in foreign currency. (iii) Instruments issued in foreign currency shall be outside the existing limit for foreign currency borrowings by Authorised Dealers, stipulated in terms of Master Circular No. RBI/2006-07/24 dated July 1, 2006 on Risk Management and Inter-Bank Dealings.
+
+<!-- PAGE 98 -->
+
+## 1.17 Compliance with Reserve Requirements
+
+The total amount raised by a bank through debt instruments shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will not attract CRR / SLR requirements.
+
+## 1.18 Reporting of Issuances
+
+Banks issuing PDIs shall submit a report to the Chief General Manager-in-charge, Department of Banking Operations & Development, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified **at paragraph** **1 above,** together with a copy of the offer document soon after the issue is completed.
+
+## 1.19 Investment in Additional Tier 1 Debt Capital Instruments PDIs Issued by Other Banks/ FIs
+
+(i) A bank's investment in debt instruments issued by other banks and financial institutions will be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 % for cross holding of capital among banks/FIs prescribed vide circular DBOD.BP.BC.No.3/ 21.01.002/ 2004-05 dated 6th July 2004 and also subject to cross holding limits. (ii) Bank's investments in debt instruments issued by other banks will attract risk weight for capital adequacy purposes, as prescribed in **paragraphs 5.6 and**
+**8.3.5 of the Master Circular, whichever applicable**.
+## 1.20 Classification in the Balance Sheet
+
+# Withdrawn
+
+The amount raised by way of issue of debt capital instrument may be classified under 56 ‘Schedule 4 – Borrowings’ in the Balance Sheet.
+
+## 1.21 Raising of Instruments for Inclusion as
+
+## Additional Tier 1 Capital by Foreign Banks in India
+
+Foreign banks in India may raise Head Office (HO) borrowings in foreign currency for inclusion as Additional Tier 1 capital subject to the same terms and conditions as mentioned in items 1.1 to 1.18 above for Indian banks. In addition, the following terms and conditions would also be applicable:
+
+a) <u>Maturity period</u>*:* If the amount of Additional Tier 1 capital raised as Head Office borrowings shall be retained in India on a perpetual basis.
+b) <u>Rate of interest</u>*:* Rate of interest on Additional Tier 1 capital raised as HO borrowings should not exceed the on-going market rate. Interest should be paid at half yearly rests.
+c) <u>Withholding tax</u>*:* Interest payments to the HO will be subject to applicable withholding tax.
+Please refer to circular DBOD.No.BP.BC.81/21.01.002/2009-10 dated March 30, 2010
+
+<!-- PAGE 99 -->
+
+d) <u>Documentation</u>*:* The foreign bank raising Additional Tier 1 capital as HO borrowings should obtain a letter from its HO agreeing to give the loan for supplementing the capital base for the Indian operations of the foreign bank. The loan documentation should confirm that the loan given by HO shall be eligible for the same level of seniority of claim as the investors in debt capital instruments issued by Indian banks. The loan agreement will be governed by and construed in accordance with the Indian law.
+e) <u>Disclosure</u>*:* The total eligible amount of HO borrowings shall be disclosed in the balance sheet under the head ‘Additional Tier 1 capital raised in the form of Head Office borrowings in foreign currency’.
+f) <u>Hedging</u> *:* The total eligible amount of HO borrowing should remain fully swapped in Indian Rupees with the bank at all times.
+g) <u>Reporting and certification</u> *:* Details regarding the total amount of Additional Tier 1 capital raised as HO borrowings, along with a certification to the effect that the borrowing is in accordance with these guidelines, should be advised to the Chief General Managers-in-Charge of the Department of Banking Operations & Development (International Banking Division), Department of External Investments & Operations and Foreign Exchange Department (Forex Markets Division), Reserve Bank of India, Mumbai.
+# Withdrawn
+
+<!-- PAGE 100 -->
+
+## APPENDIX 6
+
+## CRITERIA FOR INCLUSION OF DEBT CAPITAL INSTRUMENTS AS TIER 2 CAPITAL
+
+The Tier 2 debt capital instruments that may be issued as bonds / debentures by Indian banks should meet the following terms and conditions to qualify for inclusion as Tier 2 Capital for capital adequacy purposes:
+
+## 1. Terms of Issue of Instruments Denominated in Indian Rupees
+
+## 1.1 Paid-in Status
+
+The instruments should be issued by the bank (i.e. not by any ‘SPV’ etc. set up by the bank for this purpose) and fully paid-in.
+
+## 1.2 Amount
+
+The amount of these debt instruments to be raised may be decided by the Board of Directors of banks.
+
+## 1.3 Maturity Period
+
+The debt instruments should have a minimum maturity of 10 years and there are no step-ups or other incentives to redeem.
+
+## 1.4 Discount
+
+# Withdrawn
+
+The debt instruments shall be subjected to a progressive discount for capital adequacy purposes. As they approach maturity these instruments should be subjected to progressive discount as indicated in the table below for being eligible for inclusion in Tier 2 capital.
+
+|Remaining Maturity of Instruments|Rate of Discount|
+|---|---|
+||( %)|
+|Less than one year|100|
+|One year and more but less than two years|80|
+|Two years and more but less than three years|60|
+|Three years and more but less than four years|40|
+|Four years and more but less than five years|20|
+
+## 1.5 Rate of Interest
+
+(i) The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate. (ii) The instrument cannot have a credit sensitive coupon feature, i.e. a coupon that is reset periodically based in whole or in part on the banks’ credit standing. Banks desirous of offering floating reference rate may
+
+<!-- PAGE 101 -->
+
+take prior approval of the RBI (DBOD) as regard permissibility of such reference rates.
+
+## 1.6 Optionality
+
+The debt instruments shall not have any ‘put option’. However, it may be callable at the initiative of the issuer only after a minimum of five years:
+
+a. To exercise a call option a bank must receive prior approval of RBI (Department of Banking Operations & Development); and
+b. A bank must not do anything which creates an expectation that the call will be exercised; and
+c. Banks must not exercise a call unless:
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank⁵⁷; or (ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised.
+58
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points
+
+(a) to (c) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of these instruments as explained in case of Additional Tier 1 instruments.
+## 1.7 Treatment in Bankruptcy / Liquidation
+
+The investor must have no rights to accelerate the repayment of future scheduled
+
+# Withdrawn
+
+payments (coupon or principal) except in bankruptcy and liquidation.
+
+## 1.8 Prohibition on Purchase / Funding of Instruments
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase the instrument, nor can the bank directly or indirectly should fund the purchase of the instrument. Banks should also not grant advances against the security of the debt instruments issued by them.
+
+## 1.9 Reporting of Non-payment of Coupons
+
+All instances of non-payment of coupon should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Banking Operations and Development and Department of Banking Supervision of the Reserve Bank of India, Mumbai.
+
+57 Replacement issues can be concurrent with but not after the instrument is called. 58 Minimum refers to Common Equity ratio of 8% of RWAs (including capital conservation buffer of
+
+2.5%of RWAs) and Total capital ratio of 11.5% of RWAs including any additional capital requirement identified under Pillar 2.
+
+<!-- PAGE 102 -->
+
+## 1.10 Seniority of Claim
+
+The claims of the investors in instruments shall be
+
+(i) senior to the claims of investors in instruments eligible for inclusion in Tier 1 capital; (ii) subordinate to the claims of all depositors and general creditors of the bank; and (iii) is neither secured nor covered by a guarantee of the issuer or related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+## 1.11 Investment in Instruments Raised in Indian Rupees by Foreign Entities/NRIs
+
+(i) Investment by FIIs in Tier 2 instruments raised in Indian Rupees shall be outside the limit for investment in corporate debt instruments, as fixed by the Govt. of India from time to time. However, investment by FIIs in these instruments will be subject to a separate ceiling of USD 500 million. In addition, NRIs shall also be eligible to invest in these instruments as per existing policy. (ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+## 1.12 Terms of Issue of Tier 2 Debt Capital
+
+## Instruments in Foreign Currency
+
+Banks may issue Tier 2 Debt Instruments in Foreign Currency without seeking theWithdrawn prior approval of the Reserve Bank of India, subject to compliance with the requirements mentioned below:
+
+i) Tier 2 Instruments issued in foreign currency should comply with all terms and conditions applicable to instruments issued in Indian Rupees. ii) The total amount of Tier 2 Instruments issued in foreign currency shall not exceed 25 % of the unimpaired Tier 1 capital. This eligible amount will be computed with reference to the amount of Tier 1 capital as on March 31 of the previous financial year, after deduction of goodwill and other intangible assets but before the deduction of investments, as per **paragraph 4.9 of Section C of Annex 1 of these guidelines**. iii) This will be in addition to the existing limit for foreign currency borrowings by Authorised Dealers stipulated in terms of Master Circular No. 14/2010- 11 dated July 1, 2010 on Risk Management and Inter-Bank Dealings
+## 1.13 Compliance with Reserve Requirements
+
+i. The funds collected by various branches of the bank or other banks for the issue and held pending finalisation of allotment of the Tier 2 Capital instruments
+
+<!-- PAGE 103 -->
+
+will have to be taken into account for the purpose of calculating reserve requirements. ii. The total amount raised by a bank through Tier 2 instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR/SLR requirements.
+
+## 1.14 Reporting of Issuances
+
+Banks issuing debt instruments shall submit a report to the Chief General Manager- in-charge, Department of Banking Operations & Development, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified at para 1 above, together with a copy of the offer document soon after the issue is completed.
+
+## 1.15 Investment in Tier 2 Debt Capital
+
+## Instruments Issued by Other Banks/ FIs
+
+(i) A bank's investment in Tier 2 debt instruments issued by other banks and financial institutions will be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10% for cross holding of capital among banks/FIs prescribed vide circular DBOD.BP.BC.No.3/ 21.01.002/ 2004-05 dated 6th July 2004 and also subject to cross holding limits. (ii) Bank's investments in Tier 2 instruments issued by other banks/ financial institutions will attract risk weight as per **paragraphs 5.6 and 8.3.5 of the** **Master Circular**, whichever applicable for capital adequacy purposes.
+## 1.16 Classification in the Balance Sheet
+
+# Withdrawn
+
+The amount raised by way of issue of Tier 2 debt capital instrument may be classified under ‘Schedule 4 – Borrowings’ in the Balance Sheet.
+
+## 1.17 Debt Capital Instruments to Retail Investors
+
+With a view to enhancing investor education relating to risk characteristics of regulatory capital requirements, banks issuing subordinated debt to retail investors should adhere to the following conditions:
+
+a) For floating rate instruments, banks should not use its Fixed Deposit rate as benchmark.
+b) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks of the instrument may be incorporated in the common application form of the proposed debt issue.
+*"**By making this application, I / We acknowledge that I/We have*** ***understood the terms and conditions of the Issue of [ insert the*** ***name of the instruments being issued] of [Name of The Bank] as***
+
+<!-- PAGE 104 -->
+
+## disclosed in the Draft Shelf Prospectus, Shelf Prospectus and
+
+***Tranche Document** ".*
+
+c) All the publicity material, application form and other communication with the investor should clearly state in bold letters (**with font size 14**) how a subordinated bond is different from fixed deposit particularly that it is not covered by deposit insurance.
+## 1.18 Raising of Instruments for Inclusion as Tier 2 Capital by Foreign Banks in India
+
+Foreign banks in India may raise Head Office (HO) borrowings in foreign currency for inclusion as Tier 2 capital subject to the same terms and conditions as mentioned in items 1.1 to 1.17 above for Indian banks. In addition, the following terms and conditions would also be applicable:
+
+a) <u>Maturity period:</u> If the amount of Tier 2 debt capital raised as HO borrowings is in tranches, each tranche shall be retained in India for a minimum period of ten years.
+b) <u>Rate of interest</u>*:* Rate of interest on Tier 2 capital raised as HO borrowings should not exceed the on-going market rate. Interest should be paid at half yearly rests.
+c) <u>Withholding tax</u>*:* Interest payments to the HO will be subject to applicable withholding tax.
+d) <u>Documentation</u>*:* The foreign bank raising Tier 2 debt capital as HO borrowings should obtain a letter from its HO agreeing to give the loan for supplementing the capital base for the Indian operations of the foreign bank. The loan documentation should confirm that the loan given by HO shall be eligible for the same level of seniority of claim as the investors in debt capital instruments issued by Indian banks. The loan agreement will be governed by Withdrawn and construed in accordance with the Indian law.
+e) <u>Disclosure</u>*:* The total eligible amount of HO borrowings shall be disclosed in the balance sheet under the head ‘Tier 2 debt capital raised in the form of Head Office borrowings in foreign currency’.
+f) <u>Hedging</u>*:* The total eligible amount of HO borrowing should remain fully swapped in Indian Rupees with the bank at all times.
+g) <u>Reporting and certification</u>*:* Details regarding the total amount of Tier 2 debt capital raised as HO borrowings, along with a certification to the effect that the borrowing is in accordance with these guidelines, should be advised to the Chief General Managers-in-Charge of the Department of Banking Operations & Development (International Banking Division), Department of External Investments & Operations and Foreign Exchange Department (Forex Markets Division), Reserve Bank of India, Mumbai.
+h) <u>Features</u>*:* The HO borrowings should be fully paid up, i.e. the entire borrowing or each tranche of the borrowing should be available in full to the branch in India. It should be unsecured, subordinated to the claims of other creditors of the foreign bank in India, free of restrictive clauses and should not be redeemable at the instance of the HO.
+i) <u>Rate of discount</u>*:* The HO borrowings will be subjected to progressive discount as they approach maturity at the rates indicated below:
+
+<!-- PAGE 105 -->
+
+|Remaining maturity of borrowing|Rate of discount (%)||
+|---|---|---|
+||Not Applicable (the entire amount can be included as||
+|More than 5 years|subordinated debt in Tier 2 capital)||
+|More than 4 years and less than 5 years||20|
+|More than 3 years and less than 4 years||40|
+|More than 2 years and less than 3 years||60|
+|More than 1 year and less than 2 years||80|
+||100||
+|Less than 1 year|(No amount can be treated as||
+
+<u>subordinated debt for Tier 2 capital)</u>
+
+## 1.19 Requirements
+
+The total amount of HO borrowings is to be reckoned as liability for the calculation of
+
+net demand and time liabilities for the purpose of reserve requirements and, as such,
+
+## will attract CRR/SLR requirements.
+
+## 1.20 Hedging
+
+The entire amount of HO borrowing should remain fully swapped with banks at all times. The swap should be in Indian rupees.
+
+## 1.21 Reporting & Certification
+
+Such borrowings done in compliance with the guidelines set out above would not require prior approval of Reserve Bank of India. However, information regarding the total amount of borrowing raised from Head Office under this Appendix, along with a certification to the effect that the borrowing is as per the guidelines, should be advised to the Chief General Managers-in-Charge of the Department of Banking
+
+# Withdrawn
+
+Operations & Development (International Banking Division), Department of External Investments & Operations and Foreign Exchange Department (Forex Markets Division), Reserve Bank of India, Mumbai.
+
+<!-- PAGE 106 -->
+
+## APPENDIX 7
+
+**CRITERIA FOR INCLUSION OF PERPETUAL CUMULATIVE PREFERENCE** **SHARES (PCPS)/ REDEEMABLE NON-CUMULATIVE PREFERENCE SHARES** **(RNCPS) / REDEEMABLE CUMULATIVE PREFERENCE SHARES (RCPS) AS** **PART OF TIER 2 CAPITAL**
+
+## 1 Terms of Issue of Instruments
+
+## 1.1 Paid-in Status
+
+The instruments should be issued by the bank (i.e. not by any ‘SPV’ etc. set up by the bank for this purpose) and fully paid-in.
+
+## 1.2 Amount
+
+The amount to be raised may be decided by the Board of Directors of banks.
+
+## 1.3 Maturity Period
+
+These instruments could be either perpetual (PCPS) or dated (RNCPS and RCPS) instruments with a fixed maturity of minimum 10 years and there should be no step- ups or other incentives to redeem. The perpetual instruments shall be cumulative. The dated instruments could be cumulative or non-cumulative.
+
+## 1.4 Amortisation
+
+The Redeemable Preference Shares (both cumulative and non-cumulative) shall be subjected to a progressive discount for capital adequacy purposes over the last five years of their tenor, as they approach maturity as indicated in the table below forWithdrawn being eligible for inclusion in Tier 2 capital.
+
+|Remaining Maturity of Instruments|Rate of|
+|---|---|
+||Discount (%)|
+|Less than one year|100|
+|One year and more but less than two years|80|
+|Two years and more but less than three years|60|
+|Three years and more but less than four years|40|
+|Four years and more but less than five years|20|
+
+## 1.5 Coupon
+
+The coupon payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate. Banks desirous of offering floating reference rate may take prior approval of the RBI (DBOD) as regard permissibility of such reference rates.
+
+## 1.6 Optionality
+
+These instruments shall not be issued with a 'put option'. However, banks may issue the instruments with a call option at a particular date subject to following conditions:
+
+<!-- PAGE 107 -->
+
+a. The call option on the instrument is permissible after the instrument has run for at least five years; and
+b. To exercise a call option a bank must receive prior approval of RBI (Department of Banking Operations & Development); and
+c. A bank must not do anything which creates an expectation that the call will be exercised; and
+d. Banks must not exercise a call unless:
+(i) They replace the called instrument with capital of the same or better quality and the replacement of this capital is done at conditions which are sustainable for the income capacity of the bank⁵⁹; or (ii) The bank demonstrates that its capital position is well above the minimum capital requirements after the call option is exercised.
+60
+
+The use of tax event and regulatory event calls may be permitted. However, exercise of the calls on account of these events is subject to the requirements set out in points
+
+(b) to (d) of criterion 1.6. RBI will permit the bank to exercise the call only if the RBI is convinced that the bank was not in a position to anticipate these events at the time of issuance of these instruments as explained in case of Additional Tier 1 instruments.
+## 1.7 Treatment in Bankruptcy / Liquidation
+
+The investor must have no rights to accelerate the repayment of future scheduled payments (coupon or principal) except in bankruptcy and liquidation.
+
+## 1.8 Prohibition on Purchase / Funding
+
+# Withdrawn
+
+Neither the bank nor a related party over which the bank exercises control or significant influence (as defined under relevant Accounting Standards) should purchase these instruments, nor can the bank directly or indirectly should fund the purchase of the instrument. Banks should also not grant advances against the security of these instruments issued by them.
+
+## 1.9 Reporting of Non-payment of Coupon
+
+All instances of non-payment of coupon should be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Banking Operations & Development and Department of Banking Supervision of the Reserve Bank of India, Mumbai.
+
+## 1.10 Seniority of Claim
+
+The claims of the investors in instruments shall be:
+
+59 Replacement issues can be concurrent with but not after the instrument is called. 60 Minimum refers to Common Equity Tier 1 of 8% of RWAs (including capital conservation buffer of
+
+2.5% of RWAs) and Total Capital of 11.5% of RWAs including and additional capital identifies under Pillar 2.
+
+<!-- PAGE 108 -->
+
+(i) senior to the claims of investors in instruments eligible for inclusion in Tier 1 capital; (ii) subordinate to the claims of all depositors and general creditors of the bank; and (iii) is neither secured nor covered by a guarantee of the issuer or related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis bank creditors.
+## 1.11 Investment in Instruments Raised in Indian Rupees by Foreign Entities/NRIs
+
+(i) Investment by FIIs and NRIs shall be within an overall limit of 49 % and 24 % of the issue respectively, subject to the investment by each FII not exceeding 10 % of the issue and investment by each NRI not exceeding 5 % of the issue. Investment by FIIs in these instruments shall be outside the ECB limit for rupee denominated corporate debt as fixed by Government of India from time to time. However, investment by FIIs in these instruments will be subject to separate ceiling of USD 500 million. The overall non-resident holding of Preference Shares and equity shares in public sector banks will be subject to the statutory / regulatory limit. (ii) Banks should comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+## 1.12 Compliance with Reserve Requirements
+
+a) The funds collected by various branches of the bank or other banks for the
+# Withdrawn
+
+issue and held pending finalization of allotment of these instruments will have to be taken into account for the purpose of calculating reserve requirements.
+
+b) The total amount raised by a bank through the issue of these instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, will attract CRR / SLR requirements.
+## 1.13 Reporting of Issuances
+
+Banks issuing these instruments shall submit a report to the Chief General Manager- in-charge, Department of Banking Operations & Development, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified above (1.1 to 1.14), together with a copy of the offer document soon after the issue is completed.
+
+## 1.14 Investment in these Instruments Issued by other Banks/ FIs
+
+(i) A bank's investment in these instruments issued by other banks and financial institutions will be reckoned along with the investment in other instruments eligible for capital status while computing
+
+<!-- PAGE 109 -->
+
+compliance with the overall ceiling of 10 % of investing banks' total capital funds prescribed vide circular <u>DBOD.BP.BC.No.3/ 21.01.002/</u> <u>2004-05</u> dated 6th July 2004 and also subject to cross holding limits. (ii) Bank's investments in these instruments issued by other banks / financial institutions will attract risk weight for capital adequacy purposes as provided vide **paragraphs 5.6 and 8.3.5** of the Master Circular, whichever applicable.
+
+## 1.15 Classification in the Balance Sheet
+
+These instruments will be classified as ‘Borrowings’ under Schedule 4 of the Balance Sheet under item No. I (i.e. Borrowings).
+
+# Withdrawn
+
+<!-- PAGE 110 -->
+
+## APPENDIX 8
+
+## CALCULATION OF MINORITY INTEREST-ILLUSTRATIVE EXAMPLE
+
+This Appendix illustrates the treatment of minority interest and other capital issued out of subsidiaries to third parties, which is set out in paragraph **3.4 of Section B of** **Annex 1.**
+
+A banking group for this purpose consists of two legal entities that are both banks. Bank P is the parent and Bank S is the subsidiary and their unconsolidated balance sheets are set out below:
+
+**Bank P balance sheet Bank S balance sheet** **Assets Assets**
+
+|Loans to customers|100|Loans to customers|150|
+|---|---|---|---|
+|Investment in CET1 of Bank S|7|||
+|Investment in the AT1 of Bank S|4|||
+|Investment in the T2 of Bank S|2|||
+|Total|113|Total|150|
+|Liabilities and equity||Liabilities and equity||
+|Depositors|70|Depositors|127|
+|Tier 2|10|Tier 2|8|
+|Additional Tier 1|7|Additional Tier 1|5|
+|Common equity|26|Common equity|10|
+|Total|113|||
+
+## Total 150
+
+The balance sheet of Bank P shows that in addition to its loans to customers, it owns 70% of the common shares of Bank S, 80% of the Additional Tier 1 of Bank S and
+
+# Withdrawn
+
+25% of the Tier 2 capital of Bank S.
+
+The ownership of the capital of Bank S is therefore as follows:
+
+**Capital issued by Bank S** **Amount issued to parent**
+
+|||Amount issued|Total|
+|---|---|---|---|
+||(Bank P)|to third parties||
+|Common Equity Tier 1 (CET1)|7|3|10|
+|Additional Tier 1 (AT1)|4|1|5|
+|Tier 1 (T1)|11|4|15|
+|Tier 2 (T2)|2|6|8|
+|Total capital (TC)|13|10|23|
+
+<!-- PAGE 111 -->
+
+## Consolidated balance sheet
+
+|Assets|Remarks|
+|---|---|
+|Loans to customers Liabilities and equity|250|
+|Depositors|197|
+|Tier 2 issued by subsidiary to third parties|6 (8-2)|
+|Tier 2 issued by parent|10|
+|Additional Tier 1 issued by subsidiary to third parties|1 (5-4)|
+|Additional Tier 1 issued by parent|7|
+|Common equity issued by subsidiary to third parties (i.e. minority interest)|3 (10-7)|
+|Common equity issued by parent|26|
+|Total|250|
+
+Investments of P in S aggregating Rs.13 will be cancelled during accounting consolidation.
+
+For illustrative purposes Bank S is assumed to have risk weighted assets of 100 against the actual value of assets of 150. In this example, the minimum capital requirements of Bank S and the subsidiary’s contribution to the consolidated requirements are the same. This means that it is subject to the following minimum plus capital conservation buffer requirements and has the following surplus capital:
+
+## Minimum and surplus capital of Bank S
+
+## Minimum plus capital Actual capital Surplus
+
+**conservation buffer available** (3-2) **required⁶¹** 1 2 3 4 Common Equity 7.0 10 3.0 Tier 1capital (= 7.0% of 100) Tier 1 capital Withdrawn 8.5 15 6.5 (= 8.5% of 100) (10+5) Total capital 10.5 23 12.5 (= 10.5% of 100) (10+5+8)
+
+The following table illustrates how to calculate the amount of capital issued by Bank S to include in consolidated capital, following the calculation procedure set out in paragraph **3.4 of Section B of Annex 1**:
+
+61 illustration is based on Basel III minima. The Common Equity Tier 1 in the example should be read to include issued common shares plus retained earnings and reserves in Bank S.
+
+<!-- PAGE 112 -->
+
+||||Bank S: amount of capital issued to third parties included in consolidated capital||||||
+|---|---|---|---|---|---|---|---|---|
+||Total amount issued (a)|Amount issued to third parties (b)|Surplus (c)||Surplus attributable to third parties (i.e. amount excluded from consolidated capital) (d) =(c) * (b)/(a)||Amount included in consolidated capital (e) = (b) – (d)||
+|Common Equity Tier 1 capital|10|3|3.0||0.90||2.10||
+|Tier 1 capital|15|4|6.5||1.73||2.27||
+|Total capital|23 between Total Capital and Tier 1.|10 Total amount issued by parent (all of which is to be included in consolidated capital)|12.5 The following table summarises the components of capital for the consolidated group based on the amounts calculated in the table above. Additional Tier 1 is calculated as the difference between Common Equity Tier 1 and Tier 1 and Tier 2 is the difference||5.43 Amount issued by subsidiaries to third parties to be included in consolidated capital||4.57 Total amount issued by parent and subsidiary to be included in consolidated capital||
+|Common Equity Tier 1 capital||26|||2.10||28.10||
+|Additional Tier 1 capital||7|Withdrawn||0.17||7.17||
+|Tier 1 capital||33|||2.27||35.27||
+|Tier 2 capital||10|||2.30||12.30||
+|Total capital||43|||4.57||47.57||
+
+<!-- PAGE 113 -->
+
+## APPENDIX 9
+
+## INVESTMENTS IN THE CAPITAL OF BANKING, FINANCIAL AND INSURANCE
+
+## ENTITIESWHICH ARE OUTSIDE THE SCOPE OF REGULATORY
+
+## CONSOLIDATION
+
+## PART A: Details of Regulatory Capital Structure of a Bank
+
+|Paid-up equity capital|300|
+|---|---|
+|Eligible Reserve & Surplus|100|
+|Total common equity|400|
+|Eligible Additional Tier 1 capital|15|
+|Total Tier 1 capital|415|
+|Eligible Tier 2 capital|135|
+|Total Eligible capital|550|
+
+## (Rs. in Crore)
+
+## Entity Total Capital of the Investee entities Investments of bank in these entities
+
+Common Additional Tier Total Common Additional Tier Total equity Tier 1 2 capital Equity Tier 1 2 investments
+
+**Investments in the capital of banking, financial and insurance entities which are outside the** **scope of regulatory consolidation and where the bank does not own more than 10% of the** **issued common share capital of the entity**
+
+# Withdrawn
+
+|A|250|0 80|330|12|0 15|27|
+|---|---|---|---|---|---|---|
+|B|300|10 0|310|14|10 0|24|
+|Total 550 Significant investments in the capital of banking, financial and insurance entities which are outside the scope of regulatory consolidation||10 80|640|26|10 15|51|
+|C|150|20 10|180|20|10 0|30|
+|D|200|10 5|215|25|5 5|35|
+|Total 350||30 15|395|45|15 5|65|
+
+## PART B: Details of Capital Structure and Bank's Investments in
+
+## Unconsolidated Entities
+
+<!-- PAGE 114 -->
+
+**PART C: Regulatory Adjustments on Account of Investments in Entities where Bank Does Not Own more than 10%** **of the Issued Common Share Capital of the Entity**
+
+**C-1: Bifurcation of Investments of bank into Trading and Banking Book** Tier 2
+
+|Common|Additional|Total|
+|---|---|---|
+|Equity|Tier 1|investments|
+
+|Total investments in A & B held in Banking Book|11|6 10|27|
+|---|---|---|---|
+|Total investments in A & B held in Trading Book|15|4 5|24|
+|Total of Banking and Trading Book Investments|26|10 15 51||
+
+in A & B **C-2: Regulatory adjustments**
+
+|Bank's aggregate investment in Common Equity of A & B|26|
+|---|---|
+|Bank's aggregate investment in Additional Tier 1 capital of A & B|10|
+|Bank's aggregate investment in Tier 2 capital of A & B|15|
+|Total of bank's investment in A and B|51|
+|Bank common equity|400|
+|10% of bank's common equity|40|
+|Bank's total holdings in capital instruments of A & B in excess of|11|
+
+10% of banks common equity (51-40)
+
+**Note:** Investments in both A and B will qualify for this treatment as individually, both of them are less than
+
+10% of share capital of respective entity. Investments in C & D do not qualify; as bank's investment is more than 10% of their common shares capital.
+
+Banking Trading
+
+# WithdrawnBook Book
+
+**C-3: Summary of Regulatory Adjustments**
+
+|Amount to be deducted from common equity of the bank|5.60|
+|---|---|
+|(26/51)*11||
+|Amount to be deducted from Additional Tier 1 of the bank (10/51)*11|2.16|
+|Amount to be deducted from Tier 2 of the bank (15/51)*11|3.24|
+|Total Deduction|11.00|
+|Common equity investments of the bank in A & B to be risk|20.40|
+|weighted|(26-5.60) (11/26)*20.40|
+|Additional Tier 1 capital investments of the bank in A & B to|7.84|
+|be risk weighted|(10-2.16)|
+|Tier 2 capital investments of the bank in A & B to be risk|11.76|
+|weighted|(15-3.24)|
+|Total allocation for risk weighting|40.00|
+
+8.63 11.77
+4.70 3.14
+7.84 3.92
+## 21.17 18.83
+
+<!-- PAGE 115 -->
+
+**PART D: Regulatory Adjustments on Account of Significant** **Investments in the Capital of Banking, Financial and Insurance** **Entities which are outside the Scope of Regulatory Consolidation**
+
+|Bank aggregate investment in Common Equity of C & D|45|
+|---|---|
+|Bank's aggregate investment in Additional Tier 1 capital of C & D|15|
+|Bank's aggregate investment in Tier 2 capital of C & D|5|
+|Total of bank's investment in C and D|65|
+|Bank's common equity|400|
+|10% of bank's common equity|40|
+|Bank's investment in equity of C & D in excess of 10% of its common|5|
+
+equity (45-40)
+
+## D-1: Summary of regulatory adjustments
+
+Amount to be deducted from common equity of the bank (excess over 5 10%) Amount to be deducted from Additional Tier 1 of the bank (all 15 Additional Tier 1 investments to be deducted) Amount to be deducted from Tier 2 of the bank (all Tier 2 investments 5 to be deducted) **25** **Total deduction** Common equity investments of the bank in C & D to be risk weighted 40 (upto 10%)
+
+## PART E: Total Regulatory Capital of the Bank after Regulatory Adjustments
+
+Deductions Before as per Table Deductions as After deduction C-3 per Table D-1 deductions
+
+# Withdrawn
+
+400.00 5.61 5.00 387.24*
+Common Equity Additional Tier 1 15.00 2.16 15.00 0.00 capital
+
+135.00 3.24 5.00 126.76
+Tier 2 capital **Total Regulatory 550.00 11.00 25.00 514.00 capital**
+
+*Since there is a shortfall of 2.16 in the Additional Tier 1 capital of the bank after deduction, which has to be deducted from the next higher category of capital i.e. common equity.
+
+<!-- PAGE 116 -->
+
+## APPENDIX 10
+
+## ILLUSTRATION OF TRANSITIONAL ARRANGEMENTS-CAPITAL
+
+## INSTRUMENTS WHICH NO LONGER QUALIFY AS NON-COMMON EQUITY
+
+## TIER 1 CAPITAL OR TIER 2 CAPITAL
+
+Date of Issue: April 14, 2005 Debt Capital Instrument: Notional amount = Rs. 1000 crore Date of maturity – April 15, 2022 Date of call-April 15, 2015
+
+Features:
+
+1. Call with step-up and meeting the non-viability criteria of conversion / write-off
+2. No step-up or other incentives to redeem but not meeting the non-viability criteria
+
+|on (in years)|Residual maturity of the instrument as|Amortised amount|purpose|Amount to be recognized for capital adequacy|
+|---|---|---|---|---|
+||||Feature 1|Feature 2|
+|January 1, 2013|More than 9 but less than 10|1000 900||900|
+|March 31, 2014|More than 8 but less than 9|1000 800||800|
+|March 31, 2015|More than 7 but less than 8|1000 700||700|
+|March 31, 2016|More than 6 but less than 7|1000 1000 Withdrawn|(restored- call not exercised)|600 (call not exercised)|
+|March 31, 2017|More than 5 but less than 6|1000 1000||500|
+|March 31, 2018|More than 4 but less than 5|800 800|(discounted value- for Tier 2 debt instrument)|400|
+|March 31, 2019|More than 3 but less than 4|600 600||300|
+|March 31, 2020|More than 2 but less than 3|400 400||200|
+|March 31, 2021|More than 1 but less than 2|200 200||100|
+|March 31, 2022|Less than 1|0|0|0|
+
+<!-- PAGE 117 -->
+
+**APPENDIX 11** **CALCULATION OF CVA RISK CAPITAL CHARGE** (Rs. in crore)
+
+|Derivatives|Counter party|Notional principal of trades whose MTM is negative|Notional principal of trades whose MTM is positive|Total Notional Principal (column 3+4)|Weighted average residual maturity|Positive MTM value of trades (column 4)|PFE Total|current credit exposure as per CEM|External rating of counter party|
+|---|---|---|---|---|---|---|---|---|---|
+|1||2 3 4 5 6 7 8 9 10||||||||
+|Interest rate swaps||A 150 150 300 1.85|||years|1.5 1%||4.5|A (risk weight 50%)|
+|Currency swaps||B 300 200 500 5.01|||years||2.8 10%|52.8|AAA (risk weight 20%)|
+
+## Formula to be used for calculation of capital charge for CVA risk:
+
+- Bi is the notional of purchased single name CDS hedges - nil
+- Bind is the full notional of one or
+# Withdrawn
+
+more index CDS of purchased protection, used to hedge CVA risk. - nil
+
+- wind is the weight applicable to index hedges-nil hedge
+- Mi is the maturity of the hedge instrument with notional Bi
+- Mi is the effective maturity of the transactions with counterparty ‘i’ total
+- EADi is the exposure at default of counterparty ‘i’ (summed across its netting sets). For non-IMM banks the exposure should be discounted by applying the factor: (1-exp(-0.05*Mi))/(0.05*Mi).
+- h = 1 year
+## Assumptions:
+
+- Applicable coupon rate on both legs of swap with exchange of coupon at yearly intervals for swap with counterparty A = 6% p.a.
+
+<!-- PAGE 118 -->
+
+- Applicable coupon rate on both legs of swap with exchange of coupon at yearly intervals for swap with counterparty =7% p.a.
+## Calculation:
+
+Discount factor to be applied to counterparty A: (1-exp (-0.05*MA))/(0.05*MA) = 0.95551 Discounted EADA = 4.5*0.95551=4.2981 Discount factor to be applied to counterparty B: (1-exp (-0.05*MB))/(0.05*MB) =0.8846 Discounted EADB = 52.8*0.8846=46.7061 *2* *K= 2.33*1*[{(0.5*.008*(1.85*4.2981-0) + (0.5*0.007*(5.01*46.7061-0))-0} +* *2 2 2 2 1/2* *(0.75*0.008 *(1.85*4.2981-0) + (0.75*0.007 *(5.01*46.7061-0)]* = 2.33*1.66 = 3.86 Therefore, total capital charge for CVA risk on portfolio basis = Rs. 3.86 crore
+
+# Withdrawn
+
+<!-- PAGE 119 -->
+
+## APPENDIX 12
+
+**MINIMUM REQUIREMENTS TO ENSURE LOSS ABSORBENCY OF ADDITIONAL** **TIER 1 INSTRUMENTS AT PRE-SPECIFIED TRIGGER AND OF ALL NON-** **EQUITY REGULATORY CAPITAL INSTRUMENTS AT THE POINT OF** **NON-VIABILITY**
+
+## 1. INTRODUCTION
+
+**1.1** As indicated in paragraph 2.4 of Annex 1, under Basel III non-common equity elements to be included in Tier 1 capital should absorb losses while the bank remains a going concern. Towards this end, one of the important criteria for Additional Tier 1 instruments is that these instruments should have principal loss absorption through either (i) conversion into common shares at an objective pre- specified trigger point or (ii) a write-down mechanism which allocates losses to the instrument at a pre-specified trigger point.
+**1.2** Further, during the financial crisis a number of distressed banks were rescued by the public sector injecting funds in the form of common equity and other forms of Tier 1 capital. While this had the effect of supporting depositors it also meant that Tier 2 capital instruments (mainly subordinated debt), and in some cases Tier 1 instruments, did not absorb losses incurred by certain large internationally-active banks that would have failed had the public sector not provided support. Therefore, the Basel III requires that the terms and conditions of all non-common Tier 1 and Tier
+# Withdrawn
+
+2 capital instruments issued by a bank must have a provision that requires such instruments, at the option of the relevant authority, to either be written off or converted into common equity upon the occurrence of the trigger event.
+
+**1.3** Therefore, in order for an instrument issued by a bank to be included in Additional (i.e. non-common) Tier 1 or in Tier 2 capital, in addition to criteria for individual types of non-equity regulatory capital instruments mentioned in Appendices 4,5,6 &7, it must also meet or exceed minimum requirements set out in the following paragraphs.
+## 2. L OSS ABSORPTION OF ADDITIONAL TIER 1
+
+## INSTRUMENTS (AT1) AT THE PRE-SPECIFIED TRIGGER
+
+## I. Level of Pre-specified Trigger and Amount of
+
+## Equity to be Created by Conversion / Write-down
+
+**2.1** As a bank’s capital conservation buffer falls to 0.625% of RWA, it will be subject to 100% profit retention requirements. One of the important objectives of
+
+<!-- PAGE 120 -->
+
+capital conservation buffer is to ensure that a bank always operates above minimum Common Equity Tier 1 (CET1) level. Therefore, a pre-specified trigger for loss absorption through conversion / write-down of the level of Additional Tier 1 (AT1) instruments (PNCPS & PDI) at CET1 of 6.125% of RWAs (minimum CET1 of 5.5% + 25% of capital conservation buffer of 2.5% i.e.0.625%) has been fixed.
+
+**2.2** The write-down / conversion must generate CET1 under applicable Indian Accounting Standard equal to the written-down / converted amount net of tax, if any.
+**2.3** The aggregate amount to be written-down / converted for all such instruments on breaching the trigger level must be at least the amount needed to immediately return the bank’s CET1 ratio to the trigger level or, if this is not sufficient, the full principal value of the instruments. Further, the issuer should have full discretion to determine the amount of AT1 instruments to be converted/written-down subject to the amount of conversion/write-down not exceeding the amount which would be required to bring the total Common Equity ratio to 8% of RWAs (minimum CET1 of 5.5% + capital conservation buffer of 2.5%).
+**2.4** The conversion / write-down of AT1 instruments are primarily intended to replenish the equity in the event it is depleted by losses. Therefore, banks should not use conversion / write-down of AT1 instruments to support expansion of balance
+# Withdrawn
+
+sheet by incurring further obligations / booking assets. Accordingly, a bank whose total Common Equity ratio slips below 8% due to losses and is still above 6.125% i.e. trigger point, should seek to expand its balance sheet further only by raising fresh equity from its existing shareholders or market and the internal accruals. However, fresh exposures can be taken to the extent of amortization of the existing ones. If any expansion in exposures, such as due to draw down of sanctioned borrowing limits, is inevitable, this should be compensated within the shortest possible time by reducing 62 other exposures. The bank should maintain proper records to facilitate verification of these transactions by its internal auditors, statutory auditors and Inspecting Officers of RBI.
+
+62 For the purpose of determination of breach of trigger, the fresh equity, if any, raised after slippage of CET1 below 8% will not be subtracted. In other words, if CET1 of the bank now is above the trigger level though it would have been below the trigger had it not raised the fresh equity which it did, the trigger will not be treated as breached.
+
+<!-- PAGE 121 -->
+
+## II Types of Loss Absorption Features
+
+**2.5** Banks may issue AT1 instruments with conversion / temporary written-down / permanent write-off features. Further, banks may issue single AT1 instrument having both conversion and write-down features with the option for conversion or write-down to be exercised by the bank. However, whichever option is exercised, it should be exercised across all investors of a particular issue.
+**2.6** The instruments subject to temporary write-down may be written-up subsequently subject to the following conditions: (ix) It should be done at least one year after the bank made the first
+payment of dividends to common shareholders after breaching the pre- specified trigger.
+
+(x) Aggregate write-up in a year should be restricted to a %age of dividend declared during a year, the %age being the ratio of the ‘equity created by written-down instruments’ to ‘the total equity minus the equity created by written-down instruments’ (Please see illustration at the end of this Appendix). (xi) Aggregate write-up in a year, should also not exceed 25% of the amount paid as dividend to the common shareholders in a particular year. (xii) A bank can pay coupon / dividend on written-up amount from the
+# Withdrawn
+
+distributable surplus as and when due subject to the normal rules applicable to AT1 instruments. However, both the amount written-up and paid as coupon in a year will be reckoned as amount distributed for the purpose of complying with restrictions on distributing earnings as envisaged in the capital conservation buffer framework.
+
+(xiii) If the bank is amalgamated with or acquired by another bank after a temporary write-down and the equity holders get positive compensation on amalgamation / acquisition, the holders of AT1 instruments which have been temporarily written-down should also be appropriately compensated.
+
+**2.7** When a bank breaches the pre-specified trigger of loss absorbency of AT1 and the equity is replenished either through conversion or write-down, such replenished amount of equity will be excluded from the total equity of the bank for the purpose of determining the proportion of earnings to be paid out as dividend in terms of rules laid down for maintaining capital conservation buffer. However, once the bank has attained total Common Equity ratio of 8% without counting the replenished
+
+<!-- PAGE 122 -->
+
+equity capital, that point onwards, the bank may include the replenished equity capital for all purposes⁶³.
+
+**2.8** The conversion / write-down may be allowed more than once in case a bank hits the pre-specified trigger level subsequent to the first conversion / write-down which was partial. Also, the instrument once written-up can be written-down again.
+## III. Treatment of AT1 Instruments in the event of Winding-Up,
+
+## Amalgamation, Acquisition, Re-Constitution Etc. of the Bank
+
+**2.9** If a bank goes into liquidation before the AT1 instruments have been written- down/ converted, these instruments will absorb losses in accordance with the order of seniority indicated in the offer document and as per usual legal provisions governing priority of charges.
+**2.10** If a bank goes into liquidation after the AT1 instruments have been written- down temporarily but yet to be written-up, the holders of these instruments will have a claim on the proceeds of liquidation pari-passu with the equity holders in proportion to the amount written-down.
+**2.11** If a bank goes into liquidation after the AT1 instruments have been written- down permanently, the holders of these instruments will have no claim on the
+# Withdrawn
+
+proceeds of liquidation.
+
+*(a) Amalgamation of a banking company: (Section 44 A of BR Act, 1949)*
+**2.12** If a bank is amalgamated with any other bank before the AT1 instruments have been written-down/converted, these instruments will become part of the corresponding categories of regulatory capital of the new bank emerging after the merger.
+**2.13** If a bank is amalgamated with any other bank after the AT1 instruments have been written-down temporarily, the amalgamated entity can write-up these instruments as per its discretion. If the total CET1 ratio of the bank falls again below the 8%, it would include the replenished capital for the purpose of applying the capital conservation buffer framework.
+
+<!-- PAGE 123 -->
+
+**2.14** If a bank is amalgamated with any other bank after the non-equity regulatory capital instruments have been written-off permanently, these cannot be written-up by the amalgamated entity.
+*(b) Scheme of reconstitution or amalgamation of a banking company: (Section 45* *of BR Act, 1949)*
+**2.15** If the relevant authorities decide to reconstitute a bank or amalgamate a bank with any other bank under the Section 45 of BR Act, 1949, such a bank will be deemed as non-viable or approaching non-viability and both the pre-specified trigger and the trigger at the point of non-viability for conversion / write-down of AT1 instruments will be activated. Accordingly, the AT1 instruments will be converted / written-off before amalgamation / reconstitution in accordance with these rules.
+## IV. Fixation of Conversion Price, Capping of Number of Shares / Voting Rights
+
+**2.16** Banks may issue AT1 instruments with conversion features either based on price fixed at the time of issuance or based on the market price prevailing at the time of conversion⁶⁴.
+**2.17** There will be possibility of the debt holders receiving a large number of shares in the event the share price is very low at the time of conversion. Thus, debt Withdrawn holders will end up holding the number of shares and attached voting rights exceeding the legally permissible limits. Banks should therefore, always keep sufficient headroom to accommodate the additional equity due to conversion without breaching any of the statutory / regulatory ceilings especially that for maximum private shareholdings and maximum voting rights per investors / group of related investors. In order to achieve this, banks should cap the number of shares and / or voting rights in accordance with relevant laws and regulations on Ownership and Governance of banks. Banks should adequately incorporate these features in the terms and conditions of the instruments in the offer document. In exceptional circumstances, if the breach is inevitable, the bank should immediately inform the Reserve Bank of India (DBOD) about it. The investors will be required to bring the shareholdings below the statutory / regulatory ceilings within the specific time frame as determined by the Reserve Bank of India. Market price here does not mean the price prevailing on the date of conversion; banks can use any pricing formula such as weighted average price of shares during a particular period before conversion.
+
+<!-- PAGE 124 -->
+
+**2.18** In the case of unlisted banks, the conversion price should be determined based on the fair value of the bank’s common shares to be estimated according to a mutually acceptable methodology which should be in conformity with the standard market practice for valuation of shares of unlisted companies.
+**2.19** In order to ensure the criteria that the issuing bank must maintain at all times all prior authorisation necessary to immediately issue the relevant number of shares specified in the instrument's terms and conditions should the trigger event occur, the capital clause of each bank will have to be suitably modified to take care of conversion aspects.
+## V. Order of Conversion / Write-down of Various Types of AT1 Instruments
+
+**2.20** The instruments should be converted / written-down in order in which they would absorb losses in a gone concern situation. Banks should indicate in the offer document clearly the order of conversion / write-down of the instrument in question vis-à-vis other capital instruments which the bank has already issued or may issue in future, based on the advice of its legal counsels.
+## 3. Minimum Requirements to Ensure Loss Absorbency of Non-equity
+
+## Regulatory Capital Instruments at the Point of Non-Viability
+
+## I. Mode of Loss Absorption and Trigger Event
+
+# Withdrawn
+
+**3.1** The terms and conditions of all non-common equity Tier 1 and Tier 2 capital instruments issued by banks in India must have a provision that requires such instruments, at the option of the Reserve Bank of India, to either be written off or converted into common equity upon the occurrence of the trigger event, called the ‘Point of Non-Viability (PONV) Trigger’ stipulated below: *The PONV Trigger event is the earlier of:*
+65
+
+a. a decision that a conversion or temporary/permanent write-off, without which the firm would become non-viable, is necessary, as determined by the Reserve Bank of India; and
+b. the decision to make a public sector injection of capital, or equivalent support, without which the firm would have become non-viable, as determined by the relevant authority. Such a decision would invariably imply that the write-off or issuance of any new shares as a result of conversion or consequent upon the trigger event must occur prior to any public sector injection of capital so that the capital provided by the public
+In cases of temporary write-off, it will be possible to write-up the instruments subject to the same conditions as in the case of pre-specified trigger for AT1 instruments as explained in paragraph 2.6.
+
+<!-- PAGE 125 -->
+
+sector is not diluted. The AT1 instruments with write-off clause will be permanently written-off when there is public sector injection of funds⁶⁶.
+
+## II. A Non-viable Bank
+
+**3.2** For the purpose of these guidelines, a non-viable bank will be: A bank which, owing to its financial and other difficulties, may no longer remain a going concern on its own in the opinion of the Reserve Bank unless appropriate measures are taken to revive its operations and thus, enable it to continue as a going concern. The difficulties faced by a bank should be such that these are likely to result in financial losses and raising the Common Equity Tier 1 capital of the bank should be considered as the most appropriate way to prevent the bank from turning non- viable. Such measures would include write-off / conversion of non-equity regulatory capital into common shares in combination with or without other measures as considered appropriate by the Reserve Bank⁶⁷.
+## III. Restoring Viability
+
+**3.3** A bank facing financial difficulties and approaching a PONV will be deemed to achieve viability if within a reasonable time in the opinion of Reserve Bank, it will be able to come out of the present difficulties if appropriate measures are taken to revive it. The measures including augmentation of equity capital through write- off/conversion/public sector injection of funds are likely to:
+# Withdrawn
+
+a. Restore depositors’/investors’ confidence;
+b. Improve rating /creditworthiness of the bank and thereby improve its borrowing capacity and liquidity and reduce cost of funds; and
+c. Augment the resource base to fund balance sheet growth in the case of fresh injection of funds.
+## IV. Other Requirements to be Met by the Non-common Equity
+
+## Capital Instruments so as to Absorb Losses at the PONV
+
+**3.4** A single instrument may have one or more of the following features:
+a. Conversion;
+b. temporary/permanent write-off in cases where there is no public sector injection of funds; and
+66 The option of temporary write-off will not be available in case there is public sector injection of funds. 67 In rare situations, a bank may also become non-viable due to non-financial problems, such as conduct of affairs of the bank in a manner which is detrimental to the interest of depositors, serious corporate governance issues, etc. In such situations raising capital is not considered a part of the solution and therefore, may not attract provisions of this framework.
+
+<!-- PAGE 126 -->
+
+c. permanent write-off in cases where there is public sector injection of funds.
+**3.5** The amount of non-equity capital to be converted / written-off will be determined by RBI.
+**3.6** When a bank breaches the PONV trigger and the equity is replenished either through conversion or write-down / write-off, such replenished amount of equity will be excluded from the total equity of the bank for the purpose of determining the proportion of earnings to be paid out as dividend in terms of rules laid down for maintaining capital conservation buffer. However, once the bank has attained total Common Equity ratio of 8% without counting the replenished equity capital, that point
+68 onwards, the bank may include the replenished equity capital for all purposes.
+
+**3.7** The provisions regarding treatment of AT1 instruments in the event of winding-up, amalgamation, acquisition, re-constitution etc. of the bank as given in paragraphs 2.9 to 2.15 will also be applicable to all non-common equity capital instruments when these events take place after conversion/write-off at the PONV.
+**3.8** The provisions regarding fixation of conversion price, capping of number of shares/voting rights applicable to AT1 instruments in terms of paragraphs
+2.16 to 2.19 above will also be applicable for conversion at the PONV.
+# Withdrawn
+
+**3.9** The provisions regarding order of conversion/write-down/write-off of AT1 instruments as given in paragraph 2.20 above will also be applicable for conversion/ write-down/write-off of non-common equity capital instruments at the PONV.
+## V. Criteria to Determine the PONV
+
+**3.10** The above framework will be invoked when a bank is adjudged by Reserve Bank of India to be approaching the point of non-viability, or has already reached the point of non-viability, but in the views of RBI:
+a) there is a possibility that a timely intervention in form of capital support, with or without other supporting interventions, is likely to rescue the bank; and
+68 If the total CET1 ratio of the bank falls again below the total Common Equity ratio of 8%, it would include the replenished capital for the purpose of applying the capital conservation buffer framework.
+
+<!-- PAGE 127 -->
+
+b) if left unattended, the weaknesses would inflict financial losses on the bank and, thus, cause decline in its common equity level.
+**3.11** The purpose of write-off and / or conversion of non-equity regulatory capital elements will be to shore up the capital level of the bank. RBI would follow a two- stage approach to determine the non-viability of a bank. The **Stage 1** assessment would consist of purely objective and quantifiable criteria to indicate that there is a *prima facie* case of a bank approaching non-viability and, therefore, a closer examination of the bank’s financial situation is warranted. The **Stage 2** assessment would consist of supplementary subjective criteria which, in conjunction with the Stage 1 information, would help in determining whether the bank is about to become non-viable. These criteria would be evaluated together and not in isolation.
+**3.12** Once the PONV is confirmed, the next step would be to decide whether rescue of the bank would be through write-off/conversion alone or write- off/conversion in conjunction with a public sector injection of funds.
+**3.13** The trigger at PONV will be evaluated both at consolidated and solo level and breach at either level will trigger conversion / write-down.
+**3.14** As the capital adequacy is applicable both at solo and consolidated levels, the **minority interests** in respect of capital instruments issued by subsidiaries of banks including overseas subsidiaries can be included in the consolidated capital of
+# Withdrawn
+
+the banking group only if these instruments have pre-specified triggers/loss 69 absorbency at the PONV. In addition, where a bank wishes the instrument issued by its subsidiary to be included in the consolidated group’s capital, the terms and conditions of that instrument must specify an additional trigger event. *The additional trigger event is the earlier of:*
+
+(1) a decision that a conversion or temporary/permanent write-off, without which the bank or the subsidiary would become non-viable, is necessary, as determined by the Reserve Bank of India; and
+(2) the decision to make a public sector injection of capital, or equivalent support, without which the bank or the subsidiary would have become non- viable, as determined by the Reserve Bank of India. Such a decision would
+69 The cost to the parent of its investment in each subsidiary and the parent’s portion of equity of each subsidiary, at the date on which investment in each subsidiary is made, is eliminated as per AS-21. So, in case of wholly-owned subsidiaries, it would not matter whether or not it has same characteristics as the bank’s capital. However, in the case of less than wholly owned subsidiaries, minority interests constitute additional capital for the banking group over and above what is counted at solo level; therefore, it should be admitted only when it (and consequently the entire capital in that category) has the same characteristics as the bank’s capital.
+
+<!-- PAGE 128 -->
+
+invariably imply that the write-off or issuance of any new shares as a result of conversion or consequent upon the trigger event must occur prior to any public sector injection of capital so that the capital provided by the public sector is not diluted. The AT1 instruments with write-off clause will be permanently written-off when there is public sector injection of funds.
+
+**3.15** In such cases, the subsidiary should obtain its regulator’s approval/no- objection for allowing the capital instrument to be converted/written-off at the additional trigger point referred to in paragraph 3.14 above.
+**3.16** Any common stock paid as compensation to the holders of the instrument must be common stock of either the issuing subsidiary or the parent bank (including any successor in resolution).
+**3.17** The conversion / write-down should be allowed more than once in case a bank hits the pre-specified trigger level subsequent to the first conversion / write- down which was partial. Also, the instrument once written-up can be written-down again.
+## Calculation of Write-Up in the Case of Temporarily
+
+## Written-down Instruments
+
+|1|Basic details|Amount|
+|---|---|---|
+|(i)|Book value of the equity|70|
+|(ii)|Market value of the debt with an assumed coupon of 10% at the time of write-|30|
+||down||
+|(iii)|Equity created from write-down|30|
+|(iv) 2|Fresh equity issued after write-down Position at the end of First Year after write-down|50|
+|(i) (ii)|Total book value of the equity in the beginning of the period: [1(i)+1(iii)+1(iv)] Equity belonging to equity holders in the beginning of the period|150|
+|||120|
+|(iii)|Balance of equity created out of write-down|30|
+|(iv)|Accretion to reserves/distributable surplus during the first year|25|
+|(v)|Dividend paid during the first year to the equity holders|Nil|
+|(vi)|Amount to be written-up|Nil|
+|(vii)|Interest payable on written-up amount|Nil|
+|(viii)|Total book value of the equity at the end of the period: [(i)+(iv)]|175|
+|(ix)|Equity belonging to equity holders at the end of the period: [2(ii)+(2(iv)]|145|
+|(x) 3|Balance of equity created out of write-down at the end of the period : 2(iii) Position at the end of end of Second Year|30|
+|(i)|Accretion to reserves/distributable surplus during the second year|40|
+|(ii)|Dividend paid during the second year to the equity holders|20|
+|(iii)|Amount to be written-up :[3(ii)/2(ix)]* 2(x): (20/145)*30|4.14|
+|(iv)|Total amount written-up at the end of the year: 3(iii)|4.14|
+|(v) (vi)|Interest payable on written-up amount Total distribution to be considered for complying with the restriction on capital|Nil|
+
+# Withdrawn
+
+<!-- PAGE 129 -->
+
+distribution under the capital conservation buffer requirement:[(3(ii)+(3(iii)]: 24.14 20+4.14 (vii) Net equity after distributions at the end of the period:[(2(viii)+3(i)-3(vi): 175+40-190.86
+
+|(vii)|Net equity after distributions at the end of the period:[(2(viii)+3(i)-3(vi): 175+40-|190.86|
+|---|---|---|
+||24.14||
+|(viii)|Equity belonging to equity holders at the end of the period: [2(ix) +3(i)- 3(vi)+(3(iii)]:145+40-24.14+4.14|165|
+|(ix) 4|Balance of equity created out of write-down at the end of the period : 2(ix)- 3(iii):30-4.14 Position at the end of end of third year|25.86|
+|(i)|Accretion to reserves/distributable surplus during the third year|75|
+|(ii)|Dividend paid during the third year to the equity holders|35|
+|(iii) (iv)|Amount to be written-up :[4(ii)/3(viii)]* 3(ix): (35/165)*25.86 Total written-up amount at the end of the year [(3(iv)+(4(iii)]: 4.14+5.49|5.49|
+|||9.63|
+|(v)|Interest payable on written-up amount: 4.14*0.1||
+|||0.414|
+|(vi)|Total distribution to be considered for complying with the restriction on capital distribution under the capital conservation buffer requirement:[(4(ii)+(4(iii)]:|40.49|
+
+35+5.49
+
+# Withdrawn
+
+70 If a bank is not comfortable with a cash outflow of 24.14, it has the discretion to reduce both the dividend and write-up proportionately. For instance, if the bank was comfortable with cash outflow of only 15, then it would have declared a dividend of only 12.43 and written-up AT1 instruments to an extent of 2.57.
+
+71 Even though the write-up is done out of distributable surplus, it is assumed to be return of the equity to the AT1 holders which was created out of the write-down. Therefore, on write-up, the balance of equity created out of write-down would come down and equity belonging to equity holders would increase to that extent.
+
+<!-- PAGE 130 -->
+
+## APPENDIX 13
+
+**#** **TRANSITIONAL ARRANGEMENTS FOR NON ‐EQUITY REGULATORY CAPITAL INSTRUMENTS**
+
+# Withdrawn
+
+<!-- PAGE 131 -->
+
+## APPENDIX 14
+
+**PRUDENTIAL GUIDELINES ON CAPITAL ADEQUACY AND MARKET** **DISCIPLINE-NEW CAPITAL ADEQUACY FRAMEWORK (MASTER CIRCULAR** **NO. DBOD.BP.BC. 11/ 21.06.001 / 2011-12 DATED JULY 1, 2011) - LIST OF** **PARAGRAPHS / SUB-PARAGRAPHS WHICH HAVE BEEN MODIFIED /** **REPLACED**
+
+|||LIST OF PARAGRAPHS||
+|---|---|---|---|
+||Master Circular||Revised Guidelines|
+|Para No.|Sub- paragraph No.|Particulars Reference||
+|4||Capital Funds|Annex 1 – Definition of capital|
+|5||Capital Charge for Credit Risk|Annex 2 – Risk Coverage-Para 1|
+||5.6|Table 4: Claims on Banks incorporated in India and Foreign Bank Branches in India|Sub-para 1.1|
+||5.13.5|Bank’s exposure on NBFCs|Sub para 1.2|
+||5.13.7|Bank’s investments in the paid up equity of financial entities (other than banks and NBFCs)|Sub para 1.3|
+||5.13.6|Banks’ significant investments in commercial entities|Sub para 1.4|
+||5.15.5 (v)|treatment of failed non-DvP Transactions (free deliveries)|Sub para 1.5|
+||5.16.2|Treatment of Securitisation Exposures|Sub para 1.6|
+||5.16.3 (ii) (b)|Implicit support to securitization Withdrawn transactions|Sub para 1.7|
+||5.16.5 (ii) and (iii),|Table 10 : Securitisation Exposures – Risk Weight Mapping to Long-Term Ratings and Table 10-A : Commercial Real Estate Securitisation Exposures – Risk Weight mapping to long-term ratings|Sub para 1.8|
+||5.16.9|Table 11:Re-securitisation Exposures – Risk Weight Mapping to Long-Term Ratings and Table 11-A : Commercial Real Estate Re-Securitisation Exposures – Risk Weight Mapping to Long-Term Ratings|Sub para 1.9|
+||5.15.3 and 5.15.4|Treatment of Total Counterparty Credit Risk|Para 2|
+|6||External Credit Assessments|Annex 2 – Risk Coverage-Para 3|
+||6.2.1|Scope of application of External Ratings|Sub para 3.1|
+
+<!-- PAGE 132 -->
+
+## LIST OF PARAGRAPHS
+
+|Master Circular||||Revised Guidelines|
+|---|---|---|---|---|
+||6.8 (ii)|Applicability of ‘Issue Rating’ to issuer/ other claims||Sub para 3.2|
+|7|7.5.5 7.3.2 7.3.5 7.3.7|Credit Risk Mitigation Additional operational requirements for Guarantees Overall framework and minimum conditions Eligible Financial Collateral Table 14: Haircuts||Sub para 3.3 Sub para 4.1 Sub para 4.2 Sub para 4.3|
+|8|8.3.5|Capital Charge for Market Risk Specific risk capital charge • •|Table 16 Part C Table 16 – Part D|Para 5 Sub para 5.1|
+
+- Table 16 – Part H
+- Table 16 – Part I
+
+||8.4.3|Specific and General Market Risk|Sub para 5.2|
+|---|---|---|---|
+|12||Guidelines for SREP of the RBI and the ICAAP of the Bank|Annex 3|
+|13|12.2.2.4|Conduct of SREP by RBI Select operational aspects of ICAAP|Sub-para (II)|
+||13.2|Credit risk|Sub-para (I)|
+
+# Withdrawn

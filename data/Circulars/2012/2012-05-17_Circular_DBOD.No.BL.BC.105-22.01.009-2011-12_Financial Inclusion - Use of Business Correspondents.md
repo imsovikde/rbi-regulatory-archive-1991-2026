@@ -1,0 +1,63 @@
+---
+doc_id: "Circulars_2012_DBOD_No_BL_BC_105_22_01_009_2011-12"
+title: "Financial Inclusion - Use of Business Correspondents"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE566FI170512.PDF"
+pdf_sha256: "2bf38c5dbcfbf121bafe07f01ba9556010f91b95b37aac387c493a2a2e89ccb1"
+md_sha256: "87ee38ae66126b671be7cef08ef658a78fbe89d05e4bd4282d25bf055557d44f"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:40:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-05-17_Circular_DBOD.No.BL.BC.105-22.01.009-2011-12_Financial%20Inclusion%20-%20Use%20of%20Business%20Correspondents.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Inclusion - Use of Business Correspondents
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बैंक
+
+### ________________________RESERVE BANK OF INDIA________________________
+
+www.rbi.org.in
+
+RBI/2011-12/566 DBOD.No.BL.BC.105/22.01.009/2011-12 May 17, 2012
+
+All Scheduled Commercial Banks (including RRBs) and Local Area Banks
+
+Dear Sir,
+
+### Financial Inclusion – Use of Business Correspondents
+
+As you are aware, with a view to promote financial inclusion, a roadmap to provide banking services in every village with population above 2000 by March 31, 2012, was drawn up. Banks have covered 74, 199 (99.7 percent) out of 74,414 such villages.
+
+2. In this context, the Hon’ble Finance Minister in his speech on Union Budget 2012-13 has stated that Ultra Small Branches are being set up at these habitations where Business Correspondents (BCs) would deal with cash transactions. Accordingly, it is advised that for furthering financial inclusion, banks may establish outlets in rural centres from which BCs may operate. These BC outlets may be in the form of low cost simple brick and mortar structures.
+# Withdrawn
+
+3. In terms of para 4 of circular <u>DBOD. No. BL.BC. 74/ 22.01.009/2007-08 dated April 24,</u> <u>2008,</u> every BC is attached to and is under the oversight of a base branch. Accordingly, the base branch will have to provide oversight to the BC outlets which will include periodic visits by officers of the base branch to these outlets as well as to other places of functioning of BCs.
+4. With expanding access to banking services, it is also important that quality services are provided through the ICT based delivery model. In this context, in para 72 (extract enclosed) of the Monetary Policy Statement 2012-13 announced on April 17, 2012, it has been stipulated that it would be necessary to have an intermediate brick and mortar structure (Ultra Small Branch) between the present base branch and BC locations so as to provide support to a cluster of BC units at a reasonable distance. These Ultra Small Branches may
+th Department of Banking Operations & Development ,Central Office ,Central Office Building, 13 Floor ,Shahid Bhagat Singh Marg, Fort ,Mumbai – 400 001 Phone: 022-2266 1602, Fax: 022-2270 1237, E-mail: <u>cgmicdbodco@rbi.org.in</u>, Website: www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+be set up between the base branch and BC locations so as to provide support to about 8-10 BC Units at a reasonable distance of 3-4 kilometres. These could be either newly set up or by conversion of the BC outlets. Such Ultra Small Branches should have minimum infrastructure such as a Core Banking Solution (CBS) terminal linked to a pass book printer and a safe for cash retention for operating large customer transaction and would have to be managed full time by bank officers/ employees. It is expected that such an arrangement would lead to efficiency in cash management, documentation, redressal of customer grievances and close supervision of BC operations. These could be satellite offices (as envisaged in circular DBOD No. BL.BC. 72/C-168(64D)-87 dated December 14, 1987) or regular branches as the case may be.
+
+5. In partial modification to the Guidelines stipulated in para 3.3 of circular <u>DBOD. No.</u> <u>BL.BC.58/22.01.001/2005-2006 dated January 25, 2006</u> which required BF/BC entities to conduct their activities at places other than bank premises, it has been decided that BCs can operate from such Ultra Small Branches as their association with the branch will increase their legitimacy and credibility in the area and give people increased confidence to use their services. However, banks should ensure that such an arrangement does not result in BCs limiting operations to serving customers at such branches only, if, due to geographical spread, such arrangements may lead to BC services not being easily available in the entire area of their operations.
+# Withdrawn
+
+Yours faithfully,
+
+(Rajesh Verma) Chief General Manager
+
+<!-- PAGE 3 -->
+
+Annex
+
+Extract of para 72 – Monetary Policy Statement for 2012-2013
+
+72. While all the efforts made for financial inclusion have expanded the access to banking services, it is also important that quality services are provided through newly set up ICT based BC delivery model. It is, therefore, necessary to have an intermediate brick and mortar structure between the present base branch and BC locations so as to provide support to about 8-10 BC units at a reasonable distance of 3-4 kilometres. This could be in the form of a low cost simple brick and mortar structure consisting of minimum infrastructure such as a core banking solution (CBS) terminal linked to a pass book printer and a safe for cash retention for operating larger customer transactions. This will lead to efficiency in cash management, documentation, redressal of customer grievances and close supervision of BC operations. These BC outlets will be treated as bank branches only when managed by full time authorised employees of banks, in which case they will be subject to regulatory reporting.
+# Withdrawn
