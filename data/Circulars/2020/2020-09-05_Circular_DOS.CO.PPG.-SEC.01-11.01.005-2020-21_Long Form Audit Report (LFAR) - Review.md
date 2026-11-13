@@ -1,0 +1,599 @@
+---
+doc_id: "Circulars_2020_DOS_CO_PPG_SEC_01_11_01_005_2020-21"
+title: "Long Form Audit Report (LFAR) - Review"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT33960A003F30AF4DB0927E15FA9E05B3AD.PDF"
+pdf_sha256: "a70922070aee8d8b810c953f2a636edf63699b9cb8722e052623b5809cf3ea97"
+md_sha256: "fe34dd83a79f9043a1ffa1bbfb08e11563bcff69f9dde361f4572967dc095332"
+total_pages: 43
+native_pages: 43
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:44:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-09-05_Circular_DOS.CO.PPG.-SEC.01-11.01.005-2020-21_Long%20Form%20Audit%20Report%20%28LFAR%29%20-%20Review.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Long Form Audit Report (LFAR) - Review
+
+<!-- PAGE 1 -->
+
+RBI/2020-21/33 Ref.No.DOS.CO.PPG./SEC.01/11.01.005/2020-21 September 05, 2020
+
+The Chairman / Managing Director / Chief Executive Officer All Scheduled Commercial Banks (Excluding RRBs) All Local Area Banks All Small Finance Banks and All Payment Banks
+
+Madam /Dear Sir,
+
+## <u>Long Form Audit Report (LFAR) - Review</u>
+
+Please refer to RBI circular No. DBS.CO.PP.BC.11/11.01.005/2001-2002 dated April 17, 2002 on revision of Long Form Audit Report (LFAR).
+
+2. Keeping in view the large scale changes in the size, complexities, business model and risks in the banking operations, a review of the LFAR formats, in consultation with the stakeholders, including the Institute of Chartered Accountants of India (ICAI), was undertaken and it has been decided to make the following
+# Withdrawn
+
+changes.
+
+3. The format of LFAR, as mentioned below, have been revised:
+a. Annex I for Statutory Central Auditors (SCA)
+b. Annex II for Branch Auditors
+c. An Appendix as part of Annex II for the specialized branches and
+d. Annex III on Large / Irregular / Critical accounts for branch auditors. The revised formats are enclosed.
+4. The revised LFAR formats are required to be put into operation for the period covering FY 2020-21 and onwards. The mandate and scope of the audit will be as per this format and if the SCA feels the need of any material additions, etc., this may be done by giving specific justification by the SCA and with the prior intimation of the bank’s Audit Committee of Board (ACB).
+पयवे�ण िवभाग, के ी य कायालय, व�� टेड सटर, सटर-1, कफ प रे ड, कोलाबा, मुंबई – 400 005 <u>टेलीफोन: 022- 2216 3395 फै � : 022-2218 0157 ई-मेल - cgmicdosco@rbi.org.in</u> Department of Supervision, Central Office, World Trade Centre, Centre I, Cuffe Parade, Colaba, Mumbai - 400 005 Tel: 022-2216 3395 Fax: 022-2218 0157 e-mail: <u>cgmicdosco@rbi.org.in</u> बक िहन्दी म प�ाचार का स्वागत करता है।
+
+<!-- PAGE 2 -->
+
+5. Regarding other operational issues relating to submission of LFAR, we further advise as under:
+a. Timely receipt of LFARs from the auditors should be ensured;
+b. The LFAR on the bank, after due examination, should be placed before the ACB / Local Advisory Board of the bank indicating the action taken/proposed to be taken for rectification of the irregularities, if any, mentioned therein; and
+c. A copy each of the LFAR (i.e. for the bank / all Indian Offices of foreign bank as a whole) and the relative agenda note, together with the Board's views or directions, should be forwarded to the concerned Senior Supervisory Manager (SSM) in the Department of Supervision, Reserve Bank of India within 60 days of submission of the LFAR by the statutory auditors.
+6. The LFAR format and other instructions issued vide RBI circular No. DBS.CO.PP.BC.11/11.01.005/2001-2002 dated April 17, 2002 stand repealed.
+## Yours faithfully,Withdrawn
+
+(Ajay Kumar Choudhary) Chief General Manager
+
+Encl: Annex I and II and III
+
+<!-- PAGE 3 -->
+
+## Annex I-Long Form Audit Report (LFAR) by the Statutory Central Auditors (SCA) to
+
+## the Management of the bank
+
+## A. Guiding principles on objectives, strategy, scope and coverage of LFAR
+
+i. The overall objective of the Long Form Audit Report (LFAR) should be to identify and assess the gaps and vulnerable areas in the business operations, risk management, compliance and the efficacy of internal audit and provide an independent opinion on the same to the Board of the bank and provide their observations. ii. This may also involve commenting on various risks to which the banks are exposed to like credit, market, operational and liquidity risk and risk management efficacy, assessment of appropriateness of procedures for preparation of supervisory returns, KYC/AML/CFT issues, cyber security, business performance, business strategy including very high growth / high ROE accompanied with high risks, etc.
+iii. Some of the matters to be dealt with by the SCA in their LFARs will be based on the LFARs received from the branches. In dealing with such matters, the SCA are expected to exercise their own judgement to make their observations on the basis of review of branch auditors' LFARs. iv. While deciding their audit strategy, the auditors may factor-in all material issues which are considered critical by looking at the size and complexity of the business operation, business strategy/models, internal controls including the controlWithdrawnculture of the bank, structure and complexity of the IT systems, etc.
+
+v. The scope and coverage of Statutory Audit and LFAR will broadly be as per the given format. However, if the SCA feels a need of some material additions, etc. in the scope, this may be done by giving specific justification and with the prior intimation to the Audit Committee of the Board of the bank. vi. SCA may resort to need based limited transaction testing as hitherto.
+vii. In deciding whether a qualification in the main report is necessary, the auditors should use their judgement based on the available evidences / facts and circumstances of each case.
+
+<!-- PAGE 4 -->
+
+## B. Coverage in the Long Form Audit Report (LFAR) by the Statutory Central Auditors
+
+## (SCA) (Indicative)
+
+## I. CREDIT RISK AREAS
+
+1. **Loan Policy:** The observations should broadly cover the sufficiency and effectiveness of the loan policy along with the compliance to instructions issued by RBI in areas like exposure norms, interest rates, statutory and other restrictions, among others. Other aspects relating to updation of the policy, system of monitoring and adherence thereto should also be commented upon. The observations should also comprise business model/business strategy as per the policy as against the actual business/income flow of the bank.
+2. **Credit Assessment:** Whether the credit assessment process is sufficiently placed to capture the risk as also the adequacy of information/data available with the bank. The quick mortality cases be closely examined.
+3. **Sanctioning / Disbursement:** Policy relating to delegation of powers at various levels, appropriateness of checks and balances, adherence to authorised limits, disbursal after complying with terms and conditions of disbursal be examined.
+4. **Documentation:** The entire process, including the system of ensuring execution as per the terms of sanction, system of documentation in respect of joint/consortium advances, availability of relevant documents to ensure creation of charge in favor of banks when
+# Withdrawn
+
+required, renewal of documents, should be examined. Defects observed along with compliance to RBI guidelines/bank’s internal policy in this regard be also examined.
+
+5. **Review / Monitoring / post sanction follow-up/Supervision:** Extent of coverage and effectiveness of credit monitoring system covering both on balance sheet and off-balance sheet exposures, along with the quality of reporting both within the bank and outside agencies (like RBI CRILC, CIBIL, etc.) be examined along with adherence to RBI instructions/bank’s own policy be examined. Special focus be given on functioning and effectiveness of system of identifying and reporting of Red Flagged Accounts, Early- Warning System (EWS), receipt of periodic balance conformation / acknowledgement of debts, stock/book debt statements, balance-sheet, audited-accounts etc. System of scrutiny of the above information and follow-up by the bank should also be examined to identify process gaps. System of periodic physical verification or inspection of stocks, equipment, machinery, other securities etc. and review/renewal of advances including enhancement of limits, overall monitoring of advances through maturity/aging analysis should also be
+
+<!-- PAGE 5 -->
+
+examined and suitably factored-in.
+
+6. **Restructuring/Resolution of Stressed Accounts:** Comments on deviations observed in restructured accounts/stressed accounts under resolution with reference to Internal / RBI guidelines should be provided. Special emphasis should be given on the stance of the bank with respect to resolution of stressed accounts, specially covering compliance to regulatory guidelines, formulation of board approved policies including timelines for resolution, the manner in which decisions are taken during review period, board approved policies regarding recovery, compromise settlements, exit of exposure through sale of stressed assets, mechanism of deciding whether a concession granted to a borrower would have to be treated as restructuring or not, implementation of resolution in accordance with the laid down conditions, among others.
+7. **Asset Quality:** Special emphasis should be given on continuous monitoring of classification of accounts into Standard, SMA, Sub-standard, Doubtful or loss as per IRAC Norms by the system, preferably without manual intervention, correct recognition of income, and adequacy of provision thereof. Effectiveness of the system for compiling data relating to NPA and their provision, data integrity, system of suspension of charging of interest and adherence thereto, should be examined and commented upon. Deviations observed, if any, should be provided along with requisite examples. Further, comments be provided on the procedure followed by the bank in upgradation of NPAs, updation of the value of securities with reference to RBIWithdrawnregulations and compliance by the bank with divergences observed during earlier RBI Inspection(s) with requisite examples of deviations, if any.
+8. **Recovery Policy:** The existence and effectiveness of recovery policy, along with regular updates, manner of appropriation of recovery, instances wherein the appropriation was not as per the recovery policy be examined and commented upon. Instances observed / reported wherein the instructions of controlling authority related to legal action for recovery or recalling of advances is not acted upon, system of compromise settlements, system of monitoring accounts under Insolvency and Bankruptcy Code 2016 (IBC), write-off be specifically commented. In respect of compromise settlement, special emphasis should be given to the systems and processes relating to cases of recovery of Rs. 1.00 crore and above and also the cases wherein limits of sacrifice laid down in the recovery policy is breached. Further, the auditors should verify the list of accounts where insolvency proceedings had been initiated under IBC, but subsequently was taken out of insolvency under Section 12A of the IBC. The auditors may satisfy themselves regarding
+
+<!-- PAGE 6 -->
+
+the reasons of the creditors, especially the bank concerned, to agree to exiting the insolvency resolution process, and may comment upon deficiencies observed, if any.
+
+9. **Large Advances:** Comment on adverse features considered significant in top 50 standard large advances and the accounts which need management’s attention be provided. In respect of advances below the threshold, the process needs to be checked and commented upon, based on a sample testing.
+10. **Audit Reports:** Major adverse features observed in the reports of all audits/inspections, internal or external, carried out at credit department during the financial year should be suitably incorporated in the LFAR, if found persisting.
+11. **Recovery Records:** Recovery from all the written-off accounts during the finance year should be examined and commented upon.
+12. **Wilful Defaulter:** System of identifying and reporting of wilful defaulter should be examined and commented upon.
+## II. MARKET RISK AREAS
+
+1. **Investments including Derivatives:** The focus should be on the merit of investment policy and adherence to RBI guidelines. Any deviations to the RBI directives, and guidelines issued by FIMMDA / FIBIL / FEDAI should be suitably highlighted. Special focus should be given on system of purchase and sale of investments, delegation of
+# Withdrawn
+
+powers, reporting systems, segregation of back, middle and front office functions, efficacy of control over investments, including periodic verification/reconciliation of investments with book records, valuation mode, changes in mode of valuation, system relating to inter-bank call money operations, system relating to unquoted investments in the portfolio, system of audit including periodic verification/verification of investment activities/portfolios, policies and systems for monitoring activities such as underwriting, derivatives, etc. among others. With respect to RBI directives, special focus should be given on compliance to exposure norms, classification of investments into HTM / AFS / HFT category and inter-category shifting of securities, compliance to valuation, asset classification and provisioning norms, along with deviation from accounting and disclosure norms, among others. In respect of investment held at foreign branches, valuation mode, regulatory reserve requirements, liquidity etc. should be examined. Comments should also be made on the composition of investment portfolio as per RBI
+
+<!-- PAGE 7 -->
+
+guidelines and the depreciations on investments, if not provided for. System of recording of income from investments, income accrued and due but not received, monitoring of mature investments and their timely encashment etc. should be examined and commented. The auditor may also comment upon the veracity of liquidity characteristics of different investments in the books, as claimed by bank in different regulatory/statutory statements. The internal control system, including all audits and inspections, IT and software being used by the bank for investment operations be examined in detail.
+
+2. **SLR/CRR Requirements:** Any discrepancies in the process of compilation and calculation of NDTL by the bank should be highlighted in the report. It should be specifically commented whether the bank has complied with CRR/SLR requirements, with the instances of non-compliance, thereof.
+3. **Asset Liability Management:** Existence of Policy on Asset-Liability Management and monitoring thereof, along with compliance with RBI guidelines and functioning of Asset Liability Management Committee should be examined.
+## III. GOVERNANCE, ASSURANCE FUNCTIONS AND OPERATIONAL RISK AREAS
+
+1. **Governance and Assurance Functions:** Observations on governance, policy and implementation of business strategy and its adequacy vis
+# Withdrawn
+
+-à-vis the risk appetite statement of the bank, effectiveness of assurance functions (risk management, compliance and internal audit) should be examined and suitably incorporated in the LFAR. Adequacy of risk-awareness, risk-taking and risk-management, risk and compliance culture per se, compliance testing, including the sustenance of the compliance, as also system of branch inspection, frequency, scope/coverage of inspection/internal audit, concurrent audit or revenue audit should also be examined along with the system of follow-up of these reports, position of compliance, corrective action taken by the bank among others.
+
+2. **Balancing of Books/Reconciliation of control and subsidiary records:** Special focus should be given on the system of control for internal accounts along with effectiveness of the system of monitoring the position of balancing of books/reconciliation of control and subsidiary records, with details of books not balanced, if any. The item wise details of system generated transitory accounts not nullified at the year-end should be given separately with ageing of such items.
+
+<!-- PAGE 8 -->
+
+3. **Inter-branch Reconciliation:** The effectiveness of the system of inter-branch / inter- office reconciliation with respect to each type of entries, along with sufficiency of audit trail should be examined and commented upon. Age-wise analysis of unreconciled entries for each type of entry covered under Inter-branch reconciliation, as on balance sheet date along with subsequent clearance, thereof if any should be provided. Any unusual entries observed in the reconciliation process along with procedure for auto and forced matching of entries should be commented. Compliance with RBI guidelines with respect to provisioning for old outstanding entries, should be factored in the observations.
+4. **Frauds / Vigilance:** Appropriateness of fraud risk management system and processes for early detection, timely reporting to RBI, investigation of frauds as also adequacy of provisioning with respect to reported frauds and deviations observed in compliance with directives issued by RBI should be examined and commented upon.. Age-wise analysis of the cases/complaints investigated/under investigation of Vigilance Department along with observations on major frauds discovered during the year under audit be provided. Special focus should be given on the potential risk areas which might lead to perpetuation of fraud (e.g. falsification of accounts/false representation by the borrower; misappropriation of funds especially through related party / shell company transactions; forgery and fabrication of financial documents like invoices, debtor lists, stock statements, trade credit documents, shipping bills, work orders and encumbrance certificates and avail credit; Use of current accounts outside consortium where Trust and Retention AccountWithdrawn (TRA) is maintained, to divert funds; List of Debtors/ Creditors were being fabricated and receivables were not followed up/ write off of debt of related parties; Fake export/shipping bill, etc.; Over statement of invoice amounts, stock statements, shipping bills, turnover; fly by night operations -including the cases where vendors, related/ associate parties, manufacturing units etc. aren’t available on the registered addresses; Round Tripping of funds, etc.).
+5. **Suspense Accounts, Sundry Deposits, etc.:** System of clearance of items debited / credited to suspense / sundry accounts should be examined with the focus on audit trail, along with age-wise analysis of un-cleared entries of suspense account, sundry deposit, etc. as on balance sheet date along with subsequent clearance, thereof, if any. Any unusual entries observed in suspense account, sundry deposit etc. should be specifically commented. An examination of inactive/ inoperative accounts may also be carried out, as it is a fraud prone area. It should also be examined, whether the bank has made adequate
+
+<!-- PAGE 9 -->
+
+provision with respect to un-cleared entries in suspense account, sundry deposits, etc. as per the RBI guidelines and to the satisfaction of the auditor.
+
+6. **KYC / AML:** It should be examined whether the bank has duly updated and approved KYC and AML policies in synchronization with RBI circulars / guidelines and whether the said policies are effectively implemented by the bank. Assessment of the effectiveness of provisions for preventing money laundering and terrorist financing may be provided for.
+7. **Cash and other security items:** System of monitoring of cash at branches, and management of cash through currency chest operations, including adequacy of insurance cover, system and procedure for physical custody of cash, systems and controls for procurement, issue and custody of valued stationary items such as Cheque Books, Demand Drafts, Pay Orders, Gold Coins etc. should be examined.
+8. **Para-Banking Activity:** It should be examined whether the bank has effective internal control system with respect to para-banking activities undertaken by the bank. A list of such para-banking activities undertaken by the bank should be provided.
+9. **Management Information System:** Existence and adequacy of management information system, method of compilation and accuracy of information, appropriateness of procedures for preparation of supervisory returns and its reliability under the Off Site Surveillance System of the RBI, reliability of information flow for the internal risk management system should be commented.WithdrawnAdditionally, comment should also be provided on whether the bank has effective system of preparation and consolidation of branch returns and financial statements.
+10. Any Other comments relating to People, Process and System Risks: Any other concerns relating to people, process and system risks may be commented upon.
+## IV. CAPITAL ADEQUACY
+
+**Capital Adequacy:** A copy of the capital adequacy certificate be provided along with comments as to whether the bank has effective system of calculation of capital adequacy as per the directives of RBI. Any concerns which is considered material relating to the bank’s solvency and capital may be commented upon. **ICAAP Document:** Whether Stress test is done as per RBI stress test Guidelines. Whether assumptions made in the document are realistic, encompassing all relevant risks. Also banks
+
+<!-- PAGE 10 -->
+
+strategies are aligned with their Board approved Risk Appetite Statements.
+
+## V. GOING CONCERN AND LIQUIDITY RISK ASSESSMENT
+
+1. **Going Concern Assessment:** The auditor should comment whether the going concern basis of preparation of financial statements is appropriate; and auditor’s evaluation of the bank’s assessment of its ability to continue to meet its obligations for the foreseeable future (for at least 12 months after the date of the financial statements) with reasonable assurance for the same. Any material uncertainties relating to going concern should be disclosed.
+2. **Profitability:** Analysis of variation in major items of income and expenditure compared to previous year should be carried out along with important ratios such as RoA, RoE, etc.
+3. **Liquidity Assessment:** As a part of assessment of the bank on going concern basis, the auditor should also consider the robustness of the bank’s liquidity risk management systems and controls for managing liquidity,, any external indicators that reveal liquidity or funding concerns, the availability of short-term liquidity support and compliance with norms relating to Liquidity Coverage Ratio (LCR) and Net Stability Funding Ratio (NSFR- as and when applicable) among others.
+## VI. INFORMATION SYSTEMS
+
+# Withdrawn
+
+1. **Robustness of IT Systems:** Auditors should comment on the robustness of IT systems covering all the software used by the bank along with functions thereof, inter- linkage/interface between different IT Systems, ATM network and its security, payment system products and services among others. Further, it should be examined whether the software used by the bank were subjected to Information System & Security Audit, Application function testing and any other audit mandated by RBI. Adequacy of IS Audit, migration audit (as and where applicable) and any other audit relating to IT and cyber security system and bank’s compliance to the findings of those audits should be commented upon.
+2. **IT Security and IS Policy:** Auditors should comment whether the bank has duly updated and approved IT Security and IS Policy and whether the bank has complied with the RBI advisory/directives relating to IS environment/cyber security, issued from time-to-time.
+
+<!-- PAGE 11 -->
+
+3. **Critical Systems / Processes:** It should be examined whether there is an effective system of inter-linkage including seamless flow of data under Straight Through Process (STP) amongst various software / packages deployed. Special emphasis should be placed on outsourced activities and bank’s control over them, including bank’s own internal policy for outsourced activities.
+## VII. OTHER MATTERS
+
+1. Comments on accounting policies including comments on changes in accounting policies made during the period.
+2. Adequacy of provisions made for statutory liabilities such as Income Tax, Gratuity, Pension, Provident Fund, etc.
+3. Adequacy of provisions made for off-balance sheet exposures and other claims against the bank.
+4. Balances with other banks- observations on outstanding items in reconciliation statements.
+5. Procedure for revaluation of NOSTRO accounts and outstanding forward exchange contracts.
+6. Comment on system related to compliance with DEAF norms be provided.
+7. Comment on compliance mechanism with regard to recommendations of specific
+# Withdrawn
+
+committees appointed by RBI such as Ghosh, Jilani, Mitra, etc.
+
+8. Observations on the working of subsidiaries/ associates/ joint ventures of the bank:
+(a) reporting system to the holding bank and
+(b) major losses of the subsidiary, if any.
+9. Comment on business conduct including customer service by the bank describing instances, if any, of wrong debit of charges from customer accounts, mis-selling, ineffective complaint disposal mechanism, etc.
+10. Any other matter, which the auditor considers should be brought to the notice of the management.
+
+<!-- PAGE 12 -->
+
+## Annex II - Long Form Audit Report (LFAR) to the Management and the Statutory
+
+## Central Auditors of the bank by the branch auditors in case of bank branches
+
+The following paragraphs list the matters which the branch auditors of the bank are required to comment upon in their Long Form Audit Reports (LFAR). The <u>appendix</u> to this questionnaire additionally contains questions, which are relevant to the specialized branches dealing in foreign exchange transactions, branches having very large advances, recovery of non- performing assets (NPA) and clearing house operations, if any. Auditors of foreign branches of Indian banks should also furnish this report. In the case of foreign branches, reference to Reserve Bank of India should be construed to include Reserve Bank of India, as well as the relevant regulating authority of the foreign country where the branch is located.
+
+## A. Guiding principles on objective, strategy, scope and coverage of LFAR for branch
+
+**auditors**
+
+i. The overall objective of the branch audit should be to have transaction testing and provide inputs to the Statutory central Auditors on adequacy of implementation of various policy and regulatory requirements, including efficacy of the system and assurance functions (risk management, compliance and internal audit) at branch level. ii. The threshold fixed for different purposes for comments in the LFAR will decide that above the threshold, the transaction detailing needs to be seen and commented upon. However, below the threshold,Withdrawnthe system and processes should be checked and commented upon.
+iii. Verification of data integrity and data related control systems and processes should be carried out and commented upon, with the special thrust on those data inputs which are to be used for MIS at corporate office level and for supervisory reporting purposes. iv. Where any of the comments made by the auditors in their LFAR is adverse, they should consider whether a qualification in their main report is necessary. It should not, however, be assumed that every adverse comment in the LFAR would necessarily result in a qualification in the main report. In deciding whether a qualification in the main report is necessary, the auditors should use their professional judgment in the facts and circumstances of each case.
+
+<!-- PAGE 13 -->
+
+## B. Indicative Format / Coverage in the Long Form Audit Report (LFAR) by the
+
+## Statutory Branch Auditors (SCB)
+
+## Name of Bank
+
+## Name of Branch
+
+## Branch Code
+
+## Zone / Circle Code
+
+## Financial Year
+
+## I. ASSETS
+
+|1.|Cash||
+|---|---|---|
+|(a)|Does the system ensure that cash maintained is in effective joint custody of two or more officials, as per the instructions of the controlling authorities of the bank?|:|
+|(b)|Have the cash balances at the branch/ATMs been checked at periodic intervals as per the procedure prescribed by the controlling Withdrawn authorities of the bank?|:|
+|(c)|(i) Does the branch generally maintain / carry cash balances, which vary significantly from the limits fixed by the controlling authorities of the bank? (ii) Does the figure of the balance in the branch books in respect of cash with its ATM(s) tally with the amounts of balances with the respective ATMs, based on the year end scrolls generated by the ATMs? If there is any difference, same should be reported.|: :|
+|(d)|Whether the insurance cover available with the branch adequately meets the requirement to cover the cash-in hand and cash-in transit?|:|
+
+<!-- PAGE 14 -->
+
+|2.|Balances with Reserve Bank of India, State Bank of India and other banks (For branches with Treasury Operations)||
+|---|---|---|
+|(a)|Were balance confirmation certificates obtained in respect of outstanding balances as at the year-end and whether the aforesaid balances have been reconciled? The nature and extent of differences should be reported.|:|
+|(b)|Observations on the reconciliation statements may be reported in the following manner:|:|
+|(i)|Cash transactions remaining un-responded (give details)|:|
+|(ii)|Revenue items requiring adjustments / write- off (give details)|:|
+|(iii)|Other credit and debit entries originated in the statements provided by RBI/other banks, remaining un-responded for more than 15 days:|:|
+|(iv)|Withdrawn Where the branch maintains an account with RBI, the following additional matter may be reported: Entries originated prior to, but communicated / recorded after the year end in relation to currency chest operations at the branch/other link branches, involving deposits into/withdrawals from the currency chest attached to such branches (Give details)|:|
+|(c)|In case, any matter deserves special attention of the management, the same may be reported.|:|
+|3.|Money at Call and Short Notice||
+
+<!-- PAGE 15 -->
+
+|(a)|Has the branch kept money-at-call and short notice during the year?|:|
+|---|---|---|
+|(b)|Has the year-end balance been duly confirmed and reconciled?|:|
+|(c)|Has interest accrued up to the year-end been properly recorded?|:|
+|(d)|Whether instructions/guidelines, if any, laid down by the controlling authorities of the bank have been complied with?|:|
+|4.|Investments (for branches outside India)||
+|(a) (b)|In respect of purchase and sale of investments, has the branch acted within its delegated authority, having regard to the instructions/ guidelines in this behalf issued by the controlling authorities of the bank? Have the investments held by the branch : whether on its own account or on behalf of the Head Office/other branches been made Withdrawn available for physical verification? Where the investments are not in the possession of the branch, whether evidences with regard to their physical verification have been produced?|:|
+|(c)|Is the mode of valuation of investments in accordance with the RBI guidelines or the norms prescribed by the relevant regulatory authority of the country in which the branch is located whichever are more stringent?|:|
+|(d)|Whether there are any matured or overdue investments which have not been encashed and / or has not been serviced? If so, give details?|:|
+
+<!-- PAGE 16 -->
+
+|5.|Advances||
+|---|---|---|
+||General Instructions (i) The answers to the following questions may be based on the auditor’s examination of all large advances. For this purpose, large advances are those in respect of which the outstanding amount is in excess of 10% of outstanding aggregate balance of fund based and non-fund based advances of the branch or Rs.10 crores, whichever is less. Care- For all accounts above the threshold, the transaction audit/account specific details to be seen and commented, whereas below the threshold, the process needs to be checked and commented upon. Comments of the branch auditor on advances with significant adverse features, which might need the attention of the management / Statutory Central Auditors, Withdrawn should be appended to the LFAR. (ii) The critical comments based on the review of the above and other test check should be given in respective paragraphs as given in LFAR given below.|: :|
+|(a)|List of accounts examined for audit||
+
+|Account No.|Account Name|Balance as at year end – Funded|Balance as at year end – Non- funded|Total|
+|---|---|---|---|---|
+|Total||A|B|C = A + B|
+
+<!-- PAGE 17 -->
+
+Total Outstanding X Y Z = X + Y of the branch Percentage A as % of X B as % of Y C as % of Z examined
+
+|(b)|Credit Appraisal||
+|---|---|---|
+|(i)|In your opinion, has the branch : generally complied with the procedures / instructions of the controlling authorities of the bank regarding loan applications, preparation of proposals for grant/ renewal of advances, enhancement of limits, etc., including adequate appraisal documentation in respect thereof. What, in your opinion, are the major shortcomings in credit appraisal, etc.||
+|(ii)|Have you come across cases of quick : mortality in accounts, where the facility Withdrawn became non-performing within a period of 12 months from the date of first sanction? Details of such accounts may be provided in following manner:- • Account No. • Account Name • Balance as at year end||
+|(iii)|Whether in borrowal accounts the : applicable interest rate is correctly fed into the system?||
+|(iv)|Whether the interest rate is reviewed periodically as per the guidelines applicable to floating rate loans linked to|:|
+
+<!-- PAGE 18 -->
+
+||MCLR / EBLR (External Benchmark Lending Rate)?||
+|---|---|---|
+|(v)|Have you come across cases of frequent renewal / rollover of short-term loans? If yes, give the details of such accounts.|:|
+|(vi)|Whether correct and valid credit rating, if available, of the credit facilities of bank's borrowers from RBI accredited Credit Rating Agencies has been fed into the system?|:|
+|(c)|Sanctioning / Disbursement||
+|(i)|In the cases examined by you, have you come across instances of: (a) credit facilities having been sanctioned beyond the delegated authority or limit fixed for the branch? (b) Are such cases promptly reported to higher authorities?|:|
+|(ii)|Whether advances have been disbursed Withdrawn without complying with the terms and conditions of the sanction? If so, give details of such cases.|:|
+|(iii)|Did the bank provide loans to companies for buy-back of shares/securities?|:|
+|(d)|Documentation In the cases examined by you, have you come across instances of:|:|
+|(i)|Credit facilities released by the branch without execution of all the necessary documents? If so, give details of such cases.|:|
+|(ii)|Deficiencies in documentation, including non-registration of charges,|:|
+
+<!-- PAGE 19 -->
+
+||non-obtaining of guarantees, etc.? If so, give details of such cases.||
+|---|---|---|
+|(iii)|Advances against lien of deposits have been granted without marking a lien on the bank’s deposit receipts and the related accounts in accordance with the guidelines of the controlling authorities of the bank.|:|
+|(e)|Review/Monitoring/Supervision||
+|(i)|Is the procedure laid down by the : controlling authorities of the bank, for periodic review of advances, including periodic balance confirmation / acknowledgement of debts, followed by the branch? Provide analysis of the accounts overdue for review/renewal. What, in your opinion, are major shortcomings in monitoring, etc. a) between 3 to 6 months, and Withdrawn b) over 6 months|: :|
+|(ii)|a) Are the stock/book debt statements and other periodic operational data and financial statements, etc., received regularly from the borrowers and duly scrutinized? Is suitable action taken on the basis of such scrutiny in appropriate cases? b) Is the DP properly computed? c) Whether the latest audited financial statements are obtained for accounts reviewed / renewed during the year?|:|
+
+<!-- PAGE 20 -->
+
+|(iii)|a) Whether there exists a system of obtaining reports on stock audits periodically? b) If so, whether the branch has complied with such system? c) Details of: Ø cases where stock audit was required but was not conducted Ø where stock audit was conducted but no action was taken on adverse features|:|
+|---|---|---|
+|(iv)|Indicate the cases of advances to non- corporate entities with limits beyond that is set by the bank where the branch has not obtained the duly audited accounts of borrowers.|:|
+|(v) (vi)|Does the branch have on its record, a due diligence report in the form and manner required by the Reserve Bank of India in Withdrawn respect of advances under consortium and multiple banking arrangements. Give the list of accounts where such certificate/report is not obtained or not available on record. (In case, the branch is not the lead bank, copy of certificate/report should be obtained from lead bank for review and record) Has the inspection or physical : verification of securities charged to the bank been carried out by the branch as per the procedure laid down by the controlling authorities of the bank?|:|
+
+<!-- PAGE 21 -->
+
+||Whether there is a substantial deterioration in value of security during financial year as per latest valuation report in comparison with earlier valuation report on record?||
+|---|---|---|
+|(vii)|In respect of advances examined by you, have you come across cases of deficiencies, including in value of securities and inspection thereof or any other adverse features such as frequent/ unauthorized overdrawing beyond limits, inadequate insurance coverage, etc.?|:|
+|(viii)|Whether the branch has any red-flagged account? If yes, whether any deviations were observed related to compliance of bank's policy related with Red Flag Accounts?|:|
+|(ix)|Comment on adverse features Withdrawn considered significant in top 5 standard large advances and which need management's attention.|:|
+|(x)|In respect of leasing finance activities, has the branch complied with the guidelines issued by the controlling authorities of the bank relating to security creation, asset inspection, insurance, etc.? Has the branch complied with the accounting norms prescribed by the controlling authorities of the bank relating to such leasing activities?|:|
+
+<!-- PAGE 22 -->
+
+|(f)|Asset Classification, Provisioning of Advances and Resolution of Stressed Assets|||
+|---|---|---|---|
+|(i)|a) Has the branch identified and : classified advances into standard / substandard / doubtful / loss assets through the computer system, without manual intervention? b) Is this identification & classification in line with the norms prescribed by the Reserve Bank of India c) Whether the branch is following the system of classifying the account into SMA-0, SMA-1, and Whether the auditor SMA-2. disagrees with the branch classification of advances into standard (Including SMA-0, SMA- Withdrawn 1, SMA-2) / sub-standard / doubtful / loss assets, the details of such advances with reasons should be given. d) Also indicate whether required changes have been incorporated/ suggested in the Memorandum of Changes. e) List the accounts (with outstanding in excess of Rs. 10.00 crore) which have either been downgraded or upgraded with regard to their classification as Non-Performing|||
+
+<!-- PAGE 23 -->
+
+||Asset or Standard Asset during the year and the reason thereof. f) Whether RBI guidelines on income recognition and provisioning have been followed.||
+|---|---|---|
+|(ii)|a) Whether the branch has reported accounts restructured or rephased during the year to Controlling Authority of the bank? b) Whether the RBI Guidelines for restructuring on all such cases have been followed. c) Whether the branch complies with the regulatory stance for resolution of stressed assets, including the compliance with board approved policies in this Withdrawn regard, tracking/reporting of defaults for resolution purposes among others?|:|
+|(iii)|a) Whether the upgradations in : non-performing advances is in line with the norms of Reserve Bank of India b) Where the auditor disagrees with upgradation of accounts? If yes, give reasons thereof.||
+|(iv)|Have you come across cases where the relevant Controlling Authority of the bank has authorized legal action for recovery of advances or recalling of|:|
+
+<!-- PAGE 24 -->
+
+|||cases.|advances, but no such action was taken by the branch? If so, give details of such||
+|---|---|---|---|---|
+|(v)|||Whether there are any accounts wherein process under IBC is mandated but not initiated by the branch? Whether there are any borrowers at the branch against whom the process of IBC is initiated by any of the creditors including bank? If yes, provide the list of such accounts and comment on the adequacy of provision made thereto?|:|
+|(vi)||a) b) c)|Have appropriate claims for : credit guarantee (ECGC and others), if any, been duly lodged and settled? Give details of claims rejected? (As per the given table) Whether the rejection is appropriately considered while determining the provisioning requirements|Particulars Number Amount Claim at the beginning of the year Further Withdrawn claim lodged during the year Total A Amounts representin g (i) Claims accepted/s ettled (ii) Claims rejected|
+
+<!-- PAGE 25 -->
+
+Total B Balance as at year end (A-B)
+
+|(vii)|In respect of non-performing assets, has the branch obtained valuation reports from approved valuers for the immovables charged to the bank, once in three years, unless the circumstances warrant a shorter duration?|:|
+|---|---|---|
+|(viii) (ix) (x) (xi)|In the cases examined by you, has the branch complied with the Recovery Policy prescribed by the controlling authorities of the bank with respect to compromise/settlement and write-off Details of the cases of cases? compromise/settlement and write-off Withdrawn cases involving write-offs/waiver s in excess of Rs. 50.00 lakhs may be given. Is the branch prompt in ensuring : execution of decrees obtained for recovery from the defaulting borrowers? Give Age-wise analysis of decrees obtained and pending execution. Whether in the cases concluded the : recoveries have been properly appropriated against the principal / interest as per the policy of the bank? In cases where documents are held at : centralized processing centres / office, whether the auditor has received the|:|
+
+<!-- PAGE 26 -->
+
+||relevant documents as asked by them on test check basis and satisfied themselves. Report the exceptions, if any|||
+|---|---|---|---|
+|(xii)|List the major deficiencies in credit : review, monitoring and supervision.|||
+|(g)|Non-Fund Based facilities|||
+|(i)|List of borrowers with details of LCs : devolved or guarantees invoked during the year.||Sr. Inv Part Bene A Recov N ocat y ficia mt ery o. ion Na ry Date Dat me Nam e e|
+|(ii)|List of borrowers where the LCs have been devolved or guarantees have been invoked but not paid with amount thereof. Withdrawn|:|Sr. Inv Part Bene A Reaso N ocat y ficia mt n for o. ion ry Na non Dat Nam Payme me e e nt|
+|(iii)|List of instances where interchangeability between fund based and non-fund-based facilities was allowed subsequent to devolvement of LC / invocation of BG.|:||
+|6.|Other Assets|||
+|(a)|Suspense Accounts/Sundry Assets|||
+
+<!-- PAGE 27 -->
+
+**(i)** Does the system of the bank ensure : expeditious clearance of items debited to Suspense Account? Details of outstanding entries in excess of 90 days may be obtained from the branch and the reasons for delay in adjusting the entries may be ascertained. Does your scrutiny of the accounts under various sub-heads reveal balances, which in your opinion are not recoverable and would require a provision/write-off? If so, give details. **(ii)** Does your test check indicate any : unusual items in these accounts? If so, report their nature and the amounts involved. Are there any intangible items under this head e.g. losses not provided / pending investigation?
+## II. LIABILITIES
+
+# Withdrawn
+
+|1.|Deposits||
+|---|---|---|
+|(a)|Does the bank have a system of : identification of dormant/ inoperative accounts and internal controls with regard to operations in such accounts? In the cases examined by you, have you come across instances where the guidelines laid down in this regard have not been followed? If yes, give details thereof.||
+|(b)|After the balance sheet date and till the date of audit, whether there have been any unusual large movements (whether|:|
+
+<!-- PAGE 28 -->
+
+||increase or decrease) in the aggregate deposits held at the year-end? If so, obtain the clarifications from the branch and give your comments thereon.|||
+|---|---|---|---|
+|(c)|Whether the scheme of automatic : renewal of deposits applies to FCNR(B) deposits? Where such deposits have been renewed, report whether the branch has satisfied itself as to the 'non-resident status' of the depositor and whether the renewal is made as per the applicable regulatory guidelines and the original receipts / soft copy have been dispatched.|||
+|(d)|Is the branch complying with the : regulations on minimum balance requirement and levy of charges on non- maintenance of minimum balance in individual savings accounts? Withdrawn|||
+|2.|Other Liabilities-Bills Payable, Sundry Deposits, etc.|||
+|(a)|The number of items and the aggregate amount of old outstanding items pending for one years or more be obtained from the branch and reported under appropriate heads. Give details thereof.|:|Year Number Amounts Remarks of Items|
+|(b)|Does your test check indicate any : unusual items or material withdrawals or debits in these accounts? If so, give details thereof.|||
+
+<!-- PAGE 29 -->
+
+## 3. Contingent Liabilities
+
+List of major items of the contingent : liabilities (other than constituent’s liabilities such as guarantees, letter of credit, acceptances, endorsements, etc.) not acknowledged by the branch?
+
+## III. PROFIT AND LOSS ACCOUNT
+
+|(a)|Has the test checking of interest/discount/ commission/ fees etc. revealed excess/short credit of a material amount? If so, give details thereof.|:|
+|---|---|---|
+|(b)|Has the branch complied with the : Income Recognition norms prescribed by R.B.I.? (The Auditor may refer to the instructions of the controlling authorities of the bank regarding charging of interest on non-performing assets).||
+|(c) (d)|Withdrawn Has the test check of interest on deposits revealed any excess/short debit of material amount? If so, give details thereof. Does the bank have a system of : estimating and providing interest accrued on overdue/matured/ unpaid/ unclaimed term deposits including in respect of deceased depositors?|:|
+|(e)|Are there any divergent trends in major items of income and expenditure, in comparison with corresponding previous year, which are not|:|
+
+<!-- PAGE 30 -->
+
+satisfactorily explained by the branch? If so, the same may be reported.
+
+## IV. GENERAL
+
+|1.|GOLD/ BULLION / SECURITY ITEMS||
+|---|---|---|
+|(a)|Does the system ensure that gold/bullion is in effective joint custody of two or more officials, as per the instructions of the controlling authorities of the bank?|:|
+|(b)|Does the branch maintain adequate : records for receipt, issues and balances of gold/bullion and updated regularly? Does the periodic verification reveal any excess/shortage of stocks as compared to book records and if any discrepancies observed have been promptly reported to controlling authorities of the bank?||
+|(c)|Withdrawn Does the system of the Bank ensure adequate internal control over issue and custody of security items (Term Deposit Receipts, Drafts, Pay Orders, Cheque Books, Traveller's Cheques, Gift Cheques, etc.)? Whether the system is being followed by the branch? Have you come across cases of missing/lost items?|:|
+|2.|Books and Records||
+|(a)|Whether there are any software / : systems (manual or otherwise) used at the branch which are not integrated with the CBS? If yes, give details thereof.||
+
+<!-- PAGE 31 -->
+
+|(b)|i) In case the branch has been subjected to IS Audit whether there are any adverse features reported and have a direct or indirect bearing on the branch accounts and are pending compliance? If yes give details.|:|
+|---|---|---|
+||ii) Whether branch is generating, and : verifying exception reports at the periodicity as prescribed by the bank iii) Whether the system of bank warrants expeditious compliance of daily exception reports and whether there are any major observations pending such compliance at the year end. iv) Whether the bank has laid down : procedures for manual intervention to system generated data and proper authentication of the related transactions arising there from along with proper Withdrawn audit trail of manual intervention has been obtained. v) Furnish your comments on data : integrity (including data entry, checking correctness/integrity of data, no back ended strategies etc.) which is used for MIS at HO / CO level.|:|
+|3.|Inter-Branch Accounts Does the branch expeditiously comply : with/respond to the communications from the designated cell/Head Office as regards unmatched transactions? As at the year-end are there any un-||
+
+<!-- PAGE 32 -->
+
+||responded/un-complied queries or communications beyond 7 days? If so, give details?||
+|---|---|---|
+|4.|Frauds Furnish particulars of: (i) Frauds detected/classified but confirmation of reporting to RBI not available on record at branch. (ii) Whether any suspected or likely : fraud cases are reported by branch to higher office during the year? If yes, provide the details thereof related to status of investigation. (iii) In respect of fraud, based on your : overall observation, please provide your comments on the potential risk areas which might lead to perpetuation of fraud (e.g. Withdrawn falsification of accounts/false representation by the borrower; misappropriation of funds especially through related party/ shell company transactions; forgery and fabrication of financial documents like invoices, debtor lists, stock statements, trade credit documents, shipping bills, work orders and encumbrance certificates and avail credit; Use of current accounts outside consortium where Trust and Retention Account (TRA) is maintained, to divert funds; List|:|
+
+<!-- PAGE 33 -->
+
+||of Debtors/ Creditors were being fabricated and receivables were not followed up/ write off of debt of related parties; Fake export/shipping bill, etc.; Over statement of invoice amounts, stock statements, shipping bills, turnover; fly by night operations -including the cases where vendors, related/ associate parties, manufacturing units etc. aren’t available on the registered addresses; Round Tripping of funds, etc.)|
+|---|---|
+||(iv) Whether the system of Early : Warning Framework is working effectively and, as required, the early warning signals form the basis for classifying an account as RFA.|
+|5.|Withdrawn Implementation of KYCAML guidelines Whether the branch has adequate : systems and processes, as required, to ensure adherence to KYC/AML guidelines towards prevention of money laundering and terrorist financing Whether the branch followed the : KYC/AML guidelines based on the test check carried out by the branch auditors|
+|6.|Management Information System|
+|(a)|Whether the branch has the proper : systems and procedures to ensure data|
+
+<!-- PAGE 34 -->
+
+||integrity relating to all data inputs which are to be used for MIS at corporate office level and for supervisory reporting purposes. Have you come across any instances where data integrity was compromised?||
+|---|---|---|
+|7.|Miscellaneous||
+|(a)|In framing your audit report/LFAR, have you considered the major adverse comments arising out of the latest reports such as: i) Previous year’s Branch Audit Report / LFAR; ii) Internal audit/ Snap Audit/ concurrent audit report(s); iii) Credit Audit Report; iv) Stock audit Report; v) RBI Inspection Report, if such Withdrawn inspection took place; vi) Income and Expenditure (Revenue) Audit; vii) IS/IT/Computer/Systems Audit; and viii) Any special inspection / investigation report?|:|
+|(b)|Are there any other matters, which you, as branch auditor, would like to bring to the notice of the management or the Statutory Central Auditors?|:|
+
+<!-- PAGE 35 -->
+
+## Appendix
+
+## <u>Additional Questionnaire Applicable to Specialised Branches</u>
+
+## A. For Branches dealing in Foreign Exchange Transactions
+
+1. Are there any material adverse features pointed out in the reports of concurrent auditors, internal auditors and/ or the Reserve Bank of India’s inspection report which continue to persist in relation to NRE/ NRO/ FCNR-B/ EEFC/ RFC and other similar deposits accounts. If so, furnish the particulars of such adverse features.
+2. Whether the branch has followed the instructions and guidelines of the controlling authorities of the bank with regard to the following in relation to the foreign exchange and, if not, state the irregularities.
+
+|(a)|deposits|
+|---|---|
+|(b)|advances|
+|(c)|export bills|
+|(d)|bills for collection|
+|(e)|dealing room operations (where a branch has one)|
+|(f) 3. NOSTRO Accounts|any other area|
+
+Obtain from the branch management, a list of all NOSTRO Accounts maintWithdrawnained/ operated by the branch.
+
+(a) Whether the bank has a system of periodic confirmation/ reconciliation of the balances in NOSTRO accounts maintained with each overseas bank/ correspondent? Has such confirmation been received and account reconciled at year end in each case. If not, give details.
+(b) Whether the system of the bank ensures that all entries originated by overseas banks/correspondents, have been duly responded promptly in the respective NOSTRO accounts maintained by the bank?
+(c) Are there any dormant/closed NOSTRO accounts in respect of which balances continue to exist in the books of the branch, at year end?
+(d) Have the NOSTRO balances been converted at year end at the rates of exchange as prescribed by controlling authorities?
+(e) In case, any matter deserves special attention of the management, the same may be reported
+
+<!-- PAGE 36 -->
+
+4. Does the branch follow the prescribed procedures in relation to maintenance of Vostro Accounts?
+## B. For branches dealing in Clearing House Operations, normally referred to as Service
+
+## Branches
+
+1. Does the branch have a system of periodic review of the outstanding entries in clearing adjustments accounts? In your view has the system generally been complied with?
+2. Whether review of the clearing adjustments accounts (inwards/ outwards) reveals any old/ large/ unusual outstanding entries, which remain unexplained? Give year-wise break-up of outstanding in number and value.
+3. Has the branch strictly followed the guidelines of the controlling authority of the bank with respect to operations related to clearing transactions? Comment on the systems and procedures followed by the branch in this regard.
+## C. For branches dealing in recovery of Non-Performing Assets such as Asset Recovery
+
+## Branches
+
+1. In respect of borrowers with outstanding of Rs. 10.00 Crores and above the information should be obtained from the Branch Management. Comments of the Branch Auditor on advances with significant adverse features and which might need the attention of theWithdrawn management / Statutory Central Auditors should be appended to the LFAR.
+2. List the accounts with outstanding in excess of Rs. 10.00 Crores, which have been upgraded from Non-Performing to Standard during the year and the reasons thereof.
+
+|Sr. No.|Name of the Unit / Account|[Rs. in crore]|Outstanding IRAC Status as on 31st March [Last Year]|IRAC Status as on 31st March [Current Year]|Reason/s|
+|---|---|---|---|---|---|
+|1||||||
+|2||||||
+|3||||||
+|4||||||
+|5||||||
+
+<!-- PAGE 37 -->
+
+3. Whether the branch has a system of updating periodically, the information relating to the valuation of security charged to the bank?
+4. Age-wise analysis of the recovery suits filed and pending may be furnished, for the last three years along with latest status thereof.
+Years No. of Accounts Amount [Rs. in crore] Upto March 2018 2018-19 2019-20 2020-21
+
+5. Is the branch prompt in ensuring execution of decrees obtained for recovery from the defaulting borrowers? Also list the time barred decrees, if any, and reasons thereof. Give age-wise analysis of decrees obtained and not executed.
+6. List the recoveries and their appropriation against the interest and the principal and the accounts settled / written off / closed during the year as per the bank’s policy. Give particulars of recoveries which are pending for appropriation as on year-end with reasons thereof.
+7. List the new borrower accounts transferred to the branch during the year. Have all the relevant documents and records relating to these borrower accounts been transferred to the branch? Has the branch obtained confirmation that all the accounts of the borrowerWithdrawn [including non-fund-based exposures and deposits pending adjustment / margin deposits] been transferred to the branch?
+## Signature of the Branch Auditor
+
+<!-- PAGE 38 -->
+
+## Annex III – Long Form Audit Report (LFAR) for Large / Irregular / Critical Advance
+
+## Accounts
+
+(To be obtained by the Branch Auditors from branches dealing in large advances/asset recovery branches)
+
+|Sr. No.|Items / Particulars|Details|
+|---|---|---|
+|1.|Name of the Borrower||
+|2.|Address||
+|3.|Nature of business/activity||
+|4.|Total exposure of the branch to the borrower (a) Fund Based (Rs. in crore) (b) Non-Fund Based (Rs. in crore)||
+|5.|Name of Proprietor / Partners / Directors (As Applicable)||
+|6.|Name of the Chief Executive, if any||
+|7.|Asset Classification by the branch (a) as on the date of current audit (b) as on the date of previous Balance Sheet||
+|8.|Withdrawn Asset Classification by the branch auditor (a) as on the date of current audit (b) as on the date of previous Balance Sheet||
+|9.|Are there any adverse features pointed out in relation to asset classification by RBI inspection or any other audit||
+|10.|Date on which the asset was first classified as NPA (where applicable)||
+|11.|Facilities sanctioned||
+
+<!-- PAGE 39 -->
+
+|Date of Sanction|Nature of facilities|Limit (Rs. in crore)|Prime Security|Collateral Security|Margin %|at the year-end|Balance outstanding|
+|---|---|---|---|---|---|---|---|
+|||||||Current Year|Previous Year|
+
+|Sr. No.|Items / Particulars|Details|
+|---|---|---|
+|12.|Whether the facility is a consortium facility or a facility made on multiple bank basis||
+|13.|If Consortium- (a) names of participating banks with their respective shares (b) name of the Lead Bank in Consortium||
+|14.|If on multiple banking basis, names of other banks||
+|15.|Has the branch classified the facility under the Credit Rating norms in accordance with the guidelines of the controlling authorities of the bank||
+|16.|(a) Details of verification of primary security Withdrawn and evidence thereof (b) Details of valuation and evidence thereof||
+
+|Date of Verification|Nature of Security|Value|Valuation done by|
+|---|---|---|---|
+||Insured for Rs. (expiring on____)|||
+
+|Sr. No.|Items / Particulars|Details|
+|---|---|---|
+|17.|(a) Details of verification of collateral security and evidence thereof (b) Details of valuation and evidence thereof||
+|18.|Give details of the Guarantee in respect of the facility||
+
+<!-- PAGE 40 -->
+
+|Sr. No.|Items / Particulars|Details|
+|---|---|---|
+||(a) Central Government Guarantee (b) State Government Guarantee (c) Bank Guarantee or Financial Institution Guarantee (d) Corporate / Personal / Other Guarantee Provide the date, validity and value of the above Guarantees.||
+|19.|Compliance with the terms and conditions of the sanction||
+
+|||Terms and Conditions|Compliance|
+|---|---|---|---|
+|(i)|a) b) c) d)|Primary Security Charge on primary security Mortgage of fixed assets Registration of charges with Registrar of Companies Insurance with date of validity of Policy||
+|(ii)|a) b) c) d)|Collateral Security Withdrawn Charge on collateral security Mortgage of fixed assets Registration of charges with Registrar of Companies Insurance with date of validity of Policy||
+|(iii)|Guarantees.|Guarantees-Existence and execution of valid||
+|(iv)|basis)|Asset coverage to the branch based upon the arrangement (i.e., consortium or multiple-bank||
+|(v)|Others|||
+
+<!-- PAGE 41 -->
+
+|(a)|Submission of Stock Statements / Quarterly Information Statements and other Information Statements|
+|---|---|
+|(b)|Last inspection of the unit by the branch officials: Give the date and details of errors/omissions noticed|
+|(c)|In case of consortium advances, whether copies of documents executed by the company favouring the consortium are available|
+|(d)|Any other area of non-compliance with the terms and conditions of sanction|
+
+20. Key financial indicators of the borrower for the last two years and projections for the current year
+
+|Indicators|Audited Year st ended 31 March _________|Audited Year st ended 31 March _________|Projections for Current Year|
+|---|---|---|---|
+|Turnover Increase in turnover % over previous year Profit before depreciation, interest and tax Less: Interest Net Cash Profit before tax Less: Depreciation Less: Tax Net Profit after Depreciation and Tax Net Profit to Turnover Ratio Capital (Paid-up)|Withdrawn|||
+|Reserves||||
+
+<!-- PAGE 42 -->
+
+Net Worth Turnover to Capital Employed Ratio (The term capital employed means the sum of Net Worth and Long Term Liabilities) Current Ratio Stock Turnover Ratio Total Outstanding Liabilities / total Net Worth Ratio In case of listed companies, market value of Share?
+
+(a) High
+(b) Low
+(c) Closing Earnings Per Share Whether the accounts were audited? If yes, up to what date; and are there any audit qualifications
+# Withdrawn
+
+21. Observations on the operations in the account
+
+|Particulars|Excess over drawing power|Excess over limit|
+|---|---|---|
+|1. No of occasions on which the balance exceeded the drawing power/sanctioned limit (give details)|||
+|Reasons for excess drawings, if any|||
+|Whether excess drawing were reported to the Controlling Authority and approved|||
+
+<!-- PAGE 43 -->
+
+## Debit Summation (Rs. in Credit Summation crore) (Rs. in crore)
+
+2. Total summation in the account during the year Less : Interest Balance
+
+|Sr. No.|Items / Particulars|Details|
+|---|---|---|
+|22.|Adverse observations in other audit reports / Inspection Reports / Concurrent Auditor's Report / Stock Audit Report / Special Audit Report or RBI inspection with regard to : (a) Documentation (b) Operations (c) Security/Guarantee (d) Others||
+|23.|Branch Manager's overview of the account and its operations||
+|24.|(a) In case the borrower has been identified / classified as NPA during the year, whether Withdrawn any unrealised income including income accrued in the previous year has been accounted as income, contrary to the income recognition norms. (b) Whether any action has been initiated towards recovery in respect of accounts identified / classified as NPA.||
+
+Date, Signature and Seal of Branch In-Charge
