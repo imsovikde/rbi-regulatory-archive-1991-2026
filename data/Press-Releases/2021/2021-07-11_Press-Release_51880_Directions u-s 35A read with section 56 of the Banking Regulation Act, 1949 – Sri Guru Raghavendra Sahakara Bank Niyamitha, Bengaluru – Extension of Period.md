@@ -1,0 +1,44 @@
+---
+doc_id: "Press-Releases_2021_51880"
+title: "Directions u/s 35A read with section 56 of the Banking Regulation Act, 1949 –  Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru – Extension of Period"
+category: "Press-Releases"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR515FE1F3235C73647CFAD8DAE6418E7C3A8.PDF"
+pdf_sha256: "3edba521827ed95182031d9146d29b066297f1b54d9a0044afee5b453906d489"
+md_sha256: "829068fee68b9e90655adaae42e42fcec399a5fcbb4f7226140b6ee029057854"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T23:09:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2021/2021-07-11_Press-Release_51880_Directions%20u-s%2035A%20read%20with%20section%2056%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%E2%80%93%20Sri%20Guru%20Raghavendra%20Sahakara%20Bank%20Niyamitha%2C%20Bengaluru%20%E2%80%93%20Extension%20of%20Period.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Directions u/s 35A read with section 56 of the Banking Regulation Act, 1949 –  Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru – Extension of Period
+
+<!-- PAGE 1 -->
+
+||�ेस �काशनी PRESS RELEASE|
+|---|---|
+||भारतीय �रज़वर् बक RESERVE BANK OF INDIA|
+|संचार िवभाग, क � ी य कायार्लय, एस.बी.एस.मागर्, मुंबई - 400001||
+|_____________________________________________________________________________________________________________________|0 वेबसाइट : www.rbi.org.in/hindi|
+|Department of Communication, Central Office, S.B.S.Marg, Mumbai-400001|Website : www.rbi.org.in|
+|फोन/Phone: 022- 22660502|ई-मेल/email : helpdoc@rbi.org.in|
+
+## July 11, 2021
+
+## Directions u/s 35A read with section 56 of the Banking Regulation Act, 1949 –
+
+## Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru – Extension of Period
+
+The Reserve Bank of India issued Directions to Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru, Karnataka under Section 35A read with Section 56 of the Banking Regulation Act, 1949 vide Directive DOS.CO.UCB.BSD-III/D-2/12.23.283/2019- 20 dated January 02, 2020, the validity of which was extended from time to time, last been vide Directive DOR.AID.No.D-51/12.23.283/2020-21 dated January 07, 2021 up to July 10, 2021.
+
+The Reserve Bank of India is satisfied that in the public interest, it is necessary to extend the period of operation of the Directive DOS.CO.UCB.BSD-III/D- 2/12.23.283/2019-20 dated January 02, 2020, issued to Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru, Karnataka, and as last modified vide DOR.AID.No.D- 51/12.23.283/2020-21 dated January 07, 2021. Accordingly, the Reserve Bank of India, in exercise of powers vested in it under sub-section (1) of Section 35A read with Section 56 of the Banking Regulation Act, 1949, hereby directs that the Directive DOS.CO.UCB.BSD-III/D-2/12.23.283/2019-20 dated January 02, 2020 issued to Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru, Karnataka, as modified vide DOR.AID.No.D-51/12.23.283/2020-21 dated January 07, 2021, the validity of which was up to July 10, 2021, shall continue to apply to the bank for a further period of six months from July 11, 2021 to January 10, 2022, subject to review.
+
+Other terms and conditions of the Directives under reference shall remain unchanged.
+
+## (Yogesh Dayal)
+
+**Press Release: 2021-2022/515** Chief General Manager
