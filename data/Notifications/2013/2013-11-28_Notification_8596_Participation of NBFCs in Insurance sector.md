@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2013_8596"
+title: "Participation of NBFCs in Insurance sector"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CS128112013EG.PDF"
+pdf_sha256: "18de58db66b85cd451bccbb90d0fea1b2d13bd113c7e1f4ef876956514e0c7d8"
+md_sha256: "ded797abf93bea966bc72800e2eb615f7fef00900bdb49dfc2b340212cf5949a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-28_Notification_8596_Participation%20of%20NBFCs%20in%20Insurance%20sector.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Participation of NBFCs in Insurance sector
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/383 DNBS.PD.CC.No.361/03.02.002/2013-14 November 28, 2013
+
+To,
+
+## All NBFCs
+
+Dear Sirs,
+
+## Participation of NBFCs in Insurance sector
+
+Please refer to the circular <u>DNBS.(PD).CC.No.13/02.01/99-2000 dated June 30,</u> <u>2000</u> which contains the Guidelines for entry of NBFCs into Insurance Business issued on June 09, 2000, and subsequent modification carried out vide Circular <u>DNBS.(PD).CCX.No.35/10.24/2003-04 dated February 10, 2004</u> and <u>CC No.</u> <u>221/03.02.002/2010-2011 dated May 27, 2011</u>. As per the extant instructions issued on May 27, 2011, in case more than one company (irrespective of doing financial activity or not) in the same group of the NBFC wishes to take a stake in the insurance company, the contribution by all companies in the same group shall be counted for the limit of 50 per cent equity investment in the Insurance JV company.
+
+2. In the operation of Insurance Company, very often, the IRDA requires an insurance company to expand its capital taking into account the stipulations of the Insurance Act and the solvency requirements of the insurance company. The restriction of a group limit of the NBFC to 50% of the equity of the insurance JV company prescribed in the above mentioned circular may act as a constraint for the insurance company in meeting the requirement of IRDA.
+3. On a review, it has been decided that in cases where IRDA issues calls for capital infusion into the Insurance JV company, the Bank may, on a case to case basis, consider need based relaxation of the 50% group limit specified in CC No 221 dated May 27, 2011. The relaxation, if permitted, will be subject to compliance by the NBFC with all regulatory conditions specified in DNBS(PD) Cc.No.35/10.24/2003-04
+
+<!-- PAGE 2 -->
+
+dated February 10, 2004 and such other conditions as may be necessary in the specific case.
+
+4. Application for such relaxation along with supporting documents may be submitted by the NBFC to the Regional Office of the Reserve Bank under whose jurisdiction its registered office is situated. Yours faithfully, (N. S. Vishwanathan) Principal Chief General Manager

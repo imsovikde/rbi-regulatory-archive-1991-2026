@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2013_8595"
+title: "Imposition of Minimum Capital Adequacy Measure of 9% for RRBs"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CICRAR27112013.pdf"
+pdf_sha256: "ecdcad82829cf99972f620f14dd64462b6e5950437b51872744eed90102ed0e1"
+md_sha256: "049d6d1454568bc8719df86bd9106606ba7a50cfb79889642707eadb7bdc76ee"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-26_Notification_8595_Imposition%20of%20Minimum%20Capital%20Adequacy%20Measure%20of%209%25%20for%20RRBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Imposition of Minimum Capital Adequacy Measure of 9% for RRBs
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/382 RPCD.CO.RRB.BC.No. 60 /03.05.33/2013-14 November 26, 2013
+
+The Chairman All Regional Rural Banks
+
+Dear Sir/Madam,
+
+## Imposition of Minimum Capital Adequacy Measure of 9% for RRBs
+
+The risk weighted assets ratio system as the basis of assessment of Capital Adequacy which takes into account the element of risk in the various types of assets in the Balance Sheet as well as off Balance-sheet exposures was made applicable to banks in India with a view to strengthening their capital base.
+
+2. Capital Adequacy norms were advised to RRBs vide our <u>circular RPCD.CO.RRB.BC.44</u> <u>/05.03.095/2007-08 dated December 28, 2007</u>. RRBs were required to disclose CRAR as ‘Notes on Accounts’ to their Balance Sheets. It was also advised that the desired level of CRAR norms would be communicated in due course.
+3. Consequent to the consolidation of RRBs by amalgamation and recapitalization of weak RRBs, it has been decided to prescribe a minimum CRAR for RRBs. All RRBs are, therefore, advised to achieve and maintain a minimum CRAR of 9% on an ongoing basis with effect from March 31, 2014.
+4. The other contents of our circular dated December 28, 2007 remain unchanged.
+5. Please acknowledge receipt to our Regional Offices concerned.
+## Yours faithfully
+
+(A. Udgata) Principal Chief General Manager
+
+गर्ामीण आयोजना और ऋण िवभाग,,कदर्ीय कायार्लय, 10व मंिज़ल,कदर्ीय कायार्लय भवन,,शहीद भगत िसह मागर्,पो.बा.स.10014,म ं ुंबई 400 001 टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22619048 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Departmen<u>t,Central Office,10th Floor,Ce</u>ntral Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400001 <u>िहदी आसान ह, इसका पर्योग बढ़ाइए</u> ै चेतावनी: िरज़वर् बैंक द्वारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जिरए िकसी की भी व् नहीं मांगी जाती है। यह धन रखने या देने का ूःताव भी नहीं करता है। ऐसे ूःतावों यिक्तगत का िकसी जानकारी भी तरीक जैसेे से बैंकजवाब के खात मते का दीिजए। ब्यौरा**,** पासवडर् आिद **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords ,** **etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**

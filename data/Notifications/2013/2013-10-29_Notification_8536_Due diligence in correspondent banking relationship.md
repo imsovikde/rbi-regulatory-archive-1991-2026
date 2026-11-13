@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2013_8536"
+title: "Due diligence in correspondent banking relationship"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CBR291013FS.pdf"
+pdf_sha256: "d88b5942a66297398dd6d16849e2222f77339baee6c30105df8dec505244381f"
+md_sha256: "d0b376f649c29ddf92db1dbdf2a6df0090ae0cf7a601a05c93a0bb4cf31c4ede"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-10-29_Notification_8536_Due%20diligence%20in%20correspondent%20banking%20relationship.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Due diligence in correspondent banking relationship
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/342 DBOD.AML.BC.No.63/ 14.01.001/ 2013-14 October 29, 2013
+
+The Chairmen / Chief Executive Officers of All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+Dear Sir,
+
+## Due diligence in correspondent banking relationship.
+
+Please refer to <u>paragraph 2.16</u> of our Master Circular DBOD. AML.BC.24/14.01.001/ 2012-13 dated July 1, 2013 on ‘Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT) / Obligation of banks under PMLA, 2002’ in terms of which banks have been advised to carry out detailed due diligence while entering into correspondent banking arrangements, including information on the other bank’s management, major business activities, level of AML/ CFT compliance, purpose of opening the account, identity of any third party entities that will use the correspondent banking services etc. Further, banks may refer to our circular DBOD.No.BP.BC.24/21.01.023/98 dated March 30, 1998 on ‘Frauds in Banks/ Grant of ‘At Par’ facility for Dividend/ Interest Warrants and Refund Orders’, in terms of which banks have been advised to put in place adequate internal control mechanism to safeguard their interests while determining the policy regarding ‘at par’ facility with the approval of their respective Boards.
+
+2. It has been observed that some commercial banks have arrangements with co- operative banks wherein the latter open current accounts with the commercial banks and use the cheque book facility to issue ‘at par’ cheques to their constituents and walk-in- customers for facilitating their remittances and payments. Since the ‘at par’ facility offered by commercial banks to co-operative banks is in the nature of correspondent banking arrangements, banks should monitor and review such arrangements to assess the risks including credit risk and reputational risk arising therefrom. For this purpose, banks should retain the right to verify the records maintained by the client cooperative banks/ societies for compliance with the extant instructions on KYC and AML under such arrangements. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager
+बैंिकं ग पिरचालन और िवकास िवभाग, कें िीय कायालय र्, कें िीय कायालय र् भवन, 13वीं मंिजल, शहीद भगत िसंह माग, र् मुंबई – 400 001 <u>फोन: 022-22701223, फै क्, वेबसाइट: www.rbi.org.in</u> Department of Banking Operations & Development,स: 022-22701239, Central Office, Central ईमेलOffice-: cgmicdbodco@rbi.org.in Building, 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022‐22701223, Fax : 022‐22701239, E‐mail : <u>cgmicdbodco@rbi.org.in</u>, Website : www.rbi.org.in
+
+"Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."

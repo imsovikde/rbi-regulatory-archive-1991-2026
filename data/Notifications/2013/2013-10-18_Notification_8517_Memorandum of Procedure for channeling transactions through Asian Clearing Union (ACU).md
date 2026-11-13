@@ -1,0 +1,86 @@
+---
+doc_id: "Notifications_2013_8517"
+title: "Memorandum of Procedure for channeling transactions through Asian Clearing Union (ACU)"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR6321102013.pdf"
+pdf_sha256: "5fc405c3ae8318a4086ab3370577b0be786ef6b1a036b6f24c42d763cef55461"
+md_sha256: "52e65717bf275bedf140e17acca671154f3f204fc2ddcbf7de4bf67e0e0df78e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-10-18_Notification_8517_Memorandum%20of%20Procedure%20for%20channeling%20transactions%20through%20Asian%20Clearing%20Union%20%28ACU%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Memorandum of Procedure for channeling transactions through Asian Clearing Union (ACU)
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA <u>Mumbai - 400 001</u>
+
+## RBI/2013-14/328 October 18, 2013 A.P. (DIR Series) Circular No.63
+
+To
+
+## All Authorised Dealer Category-I banks
+
+Madam/ Dear Sir,
+
+## Memorandum of Procedure for channeling transactions through Asian
+
+## Clearing Union (ACU)
+
+Attention of Authorised Dealer Category-I banks is invited to Para 7 and Para 8 of Annex to the <u>A.P.(DIR Series) Circular No.35 dated February 17, 2010</u>.
+
+2. The ACU Board of Directors in their meeting held on June 19, 2013 have decided to include only transactions involving export/import of goods and services among ACU countries as eligible for payment under the ACU Mechanism. Accordingly, Para 7 and sub-paragraph (b) of Para 8 of the Annex to the A.P.(DIR Series) Circular No.35 dated February 17, 2010 have been updated and given in Annex. All other instructions contained in the A.P. (DIR Series) Circular No.35 dated February 17, 2010 shall remain unchanged.
+3. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+4. The directions contained in this Circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of
+1999) and is without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+# : 2 :
+
+# [Annex to the A.P.(DIR Series) Circular No.63 of 18.10.2013]
+
+Extant Para 7 and Para 8(b) to the Annex of Revised Para 7 and Para 8 (b) to the
+
+A.P.(DIR Series) Circular No.35 dated February Annex of A.P.(DIR Series) Circular No.35 <u>17, 2010 dated February 17, 2010</u>
+## 7. Eligible Payments 7. Eligible Payments
+
+Transactions that are eligible to be made Transactions that are eligible to be made through ACU are payments – through ACU are payments –
+
+(a) from a resident in the territory of one (a) for export/import transactions participant to a resident in the
+between ACU member territory of another participant; countries including export and
+
+(b) for current international transactions
+import on deferred payment as defined by the Articles of terms; and Agreement of the International (b) not declared ineligible under Monetary Fund; paragraph 8 of this
+
+(c) permitted by the country in which the Memorandum payer resides;
+(d) not declared ineligible under paragraph 8 of this Memorandum; **Note:- Trade transactions with** and **Myanmar may be settled in any freely**
+(e) for export/import transactions **convertible currency, in addition to the** between ACU member countries on **ACU mechanism.** deferred payment terms.
+**Note:- Trade transactions with Myanmar may be settled in any freely convertible currency,**
+
+## in addition to the ACU mechanism.
+
+## 8. Ineligible Payments
+
+||8. Ineligible Payments||
+|---|---|---|
+|(b) payments which are not on account|(b) payments that are not on||
+|of current international transactions||account of export / import|
+|as defined by the International||transactions between ACU|
+|Monetary Fund, except to the extent||members countries except to|
+|mutually agreed upon between||the extent mutually agreed|
+|Reserve Bank and the other||upon between the Reserve|
+|participants; and||Bank and the other|
+
+participants; and

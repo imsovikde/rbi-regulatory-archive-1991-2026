@@ -1,0 +1,61 @@
+---
+doc_id: "Notifications_2013_8501"
+title: "Term Repo under Liquidity Adjustment Facility"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/TRRCR10082013.pdf"
+pdf_sha256: "963d7ba7495f78a1b6d1ed33ff0da6267665e9e587d69c5c4dc9561d684c6ae1"
+md_sha256: "ee27dee34cb82ea88d1526d742dbcfcdd71cf79feb16bf76b4d20b63ac939a01"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-10-08_Notification_8501_Term%20Repo%20under%20Liquidity%20Adjustment%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Term Repo under Liquidity Adjustment Facility
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/319 FMD.MOAG. No. 89 /01.01.009/2013-14 October 08, 2013
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Madam / Sir, <u>Term Repo under Liquidity Adjustment Facility</u> As announced yesterday, it has been decided to conduct auctions for term repos of 7- day and 14-day tenor for a notified amount equivalent to 0.25 per cent of net demand and time liabilities (NDTL) of the banking system through variable rate auction mechanism. The first term repo auction with a tenor of seven days would be conducted on October 11, 2013 (Friday). Thereafter, auctions for term repo of 14 days and 7 days tenor will follow on alternate Fridays subject to conditions set out in the Annexure.
+
+2. The detailed operational guidelines for term repo auction are given in the Annexure.
+3. Please acknowledge receipt.
+## Yours sincerely
+
+(G. Mahalingam) Principal Chief General Manager
+
+<!-- PAGE 2 -->
+
+Annexure
+
+## Term Repo under the Liquidity Adjustment Facility-Operational Guidelines
+
+- Term Repo under the Liquidity Adjustment Facility (LAF) for 14 days and 7 days tenors will be introduced for banks (scheduled commercial banks other than RRBs) in addition to the existing daily LAF (repo and reverse repo) and MSF.
+- Term repo auctions will be conducted on CBS (E-KUBER) platform through electronic bidding as is done in the case of OMO auctions.
+- The total amount of liquidity injected through term repos would be limited to 0.25 per cent of NDTL of the banking system.
+- While the 14 day term repo of tenor would be conducted every reporting Friday, the 7 day term repo would be conducted on every non-reporting Friday.
+- In case the notified amount for the 14-day term repo is not fully subscribed, a 7-day term repo would be conducted on the following Friday for the remaining un-subscribed amount. In case of full subscription in the 14-day term repo, there will be no 7 day term repo auction on the following Friday.
+- Banks would be required to place their bids with the term repo rate that they are willing to pay to RBI for the tenor of the repo expressed in percentage terms up to two decimal places.
+- Once the bidding time is over, all the bids would be arranged in descending order of the term repo rates quoted and the cut-off rate would be arrived at the rate corresponding to the notified amount of the auction. Successful bidders would be those who have placed their bids at or above the cut-off rate. All bids lower than the cut-off rate would be rejected. RBI will, however, reserve the right to (i) inject marginally higher amount than the notified amount due to rounding effects and (ii) inject less than the notified amount without assigning any reasons therefor.
+- No bids would be accepted at or below the prevailing Repo Rate under LAF.
+- On the day prior to the auction, RBI will announce the amount to be auctioned under term repo along with its tenor. The minimum bid amount for the auction would be Rupees one crore and multiples thereof. The allotment would be in multiples of Rupees one crore. Term repo auctions would be conducted on Fridays between 2.30 PM - 3.00 PM. In case Friday falls on a holiday, the auction would take place on the preceding working day at Mumbai.
+
+<!-- PAGE 3 -->
+
+Annexure
+
+- There will be provision of pro-rata allotment should there be more than one successful bid at the cut-off rate.
+- There will be no restriction on the maximum amount of bidding by individual bidders under term repo.
+- The reversal of term repo would take place at the ‘start of day’ on the day of completion of the term.
+- The eligible collateral for term repo and the applicable haircuts will remain the same as daily LAF repo and MSF.
+- All other terms and conditions as applicable to LAF operations will also be made applicable to term repo mutatis mutandis. These conditions will, however, be subject to review on a periodic basis.
+- The first such term repo auction will be conducted on October 11, 2013 (Friday) for 7 days. The notified amount for the auction would be communicated to the market on October 10, 2013 (Thursday).
+- As hitherto, daily LAF for individual banks would be restricted to a certain percentage of their NDTL outstanding as on the last Friday of the second preceding fortnight (currently it is at 0.50 per cent).
+---------------------------------------------------------------------------------------------------------------------------

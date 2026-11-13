@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2013_8585"
+title: "Overseas Foreign Currency Borrowings by Authorised Dealer Banks"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR77AP22112013.pdf"
+pdf_sha256: "13f96475d181ce699d5a635228dbc8ffd17a12eadadf03f8da73929a6eb4a837"
+md_sha256: "c8599aa2ccccad00b4abd97411250f7e49e8e070deb1bf5a6509ff0771a6106f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-22_Notification_8585_Overseas%20Foreign%20Currency%20Borrowings%20by%20Authorised%20Dealer%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Foreign Currency Borrowings by Authorised Dealer Banks
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2013-14/377
+
+## A.P. (DIR Series) Circular No. 77 November 22, 2013
+
+To
+
+All Category-I Authorised Dealer Banks
+
+## Madam / Sir
+
+## Overseas Foreign Currency Borrowings by Authorised Dealer Banks
+
+Attention of AD category I banks is invited to <u>AP (DIR Series) circulars no. 40 dated</u> <u>September 10, 2013</u> read with <u>AP (DIR Series) Circular no. 61 dated October 10,</u> <u>2013</u> in terms of which they were permitted to borrow from international/multilateral financial institutions up to 100 percent of their Tier-I capital subject to the conditions mentioned therein and also swap the borrowed amount with the Reserve Bank at a concessional rate as mentioned therein. As per the said circulars both the permissions to borrow from the international/multilateral financial institutions as well as to swap it with Reserve Bank were valid till November 30, 2013.
+
+2. It has been brought to the Bank’s notice that some banks may be in the process of negotiation of loans from international/multilateral financial institutions and may not be in a position to draw the loan and deliver the same to RBI as a part of the concessional swap within November 30, 2013. In this context, it has been decided that if any bank is being sanctioned any loan from any international/multilateral financial institutions and is receiving a firm commitment in this <u>regard on or before</u> <u>November 30, 2013</u>, it will be allowed to enter into a forward-forward swap under the first leg of which the bank will sell forward the contracted amount of foreign currency corresponding to the loan amount for delivery up to December 31, 2013. However, if the bank is not in a position to deliver the contracted amount of foreign currency on the contracted date, it would have to pay the difference between concessional swap rate contracted and the market swap rate plus one hundred basis points. The other terms and conditions for the swap will remain unchanged as notified earlier.
+
+<!-- PAGE 2 -->
+
+3. It is reiterated that the above relaxation is available only for the contracts entered into up to November 30, 2013 and not thereafter.
+4. The direction contained in this circular has been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+## (C.D.Srinivasan) Chief General Manager

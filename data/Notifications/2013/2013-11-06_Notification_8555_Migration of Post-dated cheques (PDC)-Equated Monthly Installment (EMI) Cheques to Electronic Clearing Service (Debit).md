@@ -1,0 +1,134 @@
+---
+doc_id: "Notifications_2013_8555"
+title: "Migration of Post-dated cheques (PDC)/Equated Monthly Installment (EMI) Cheques to Electronic Clearing Service (Debit)"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRN359NT1113.PDF"
+pdf_sha256: "a5627f8b0636b68fc116584ac3e9441912ebee2112ba3c2a6af7277239832c45"
+md_sha256: "e5df9ce3cfcee75bdb749acc50aa0a62e2e58de9f94bacf0ddd3f851d2ae2c45"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:41:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-06_Notification_8555_Migration%20of%20Post-dated%20cheques%20%28PDC%29-Equated%20Monthly%20Installment%20%28EMI%29%20Cheques%20to%20Electronic%20Clearing%20Service%20%28Debit%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Migration of Post-dated cheques (PDC)/Equated Monthly Installment (EMI) Cheques to Electronic Clearing Service (Debit)
+
+<!-- PAGE 1 -->
+
+HdlRd
+
+RESERVEBANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2013-14/359
+
+DNBS.PD/CC.NO.359/03.10.001/2013-14
+
+November 06,2013
+
+AlINBFCS
+
+Dear Sirs,
+
+Migration of Post-dated cheques (PDC)/Equated Monthly Installment
+
+(EMI) Cheques to Electronic Clearing Service (Debit)
+
+Areference  is  invited  to  our
+
+CircularNoDNBS.PD/CC.NO.316
+
+/03.10.001/2012-13December20,2012
+
+2advising allNBFCs toensure
+
+their customers for future EMl payments by March 31, 2013.
+
+2. Reference is also invited to the circular issued by our Department of
+
+Payment and Settlement System
+
+1(DPSS.CO.CHD.No133/04.07.05/2013-14
+
+datedJuly16.2013)
+
+）whereinithas beenindicated that cheques not
+
+complying with CTS-2010 standard will be cleared at less frequent intervals
+
+onwards).
+
+3.Considering the above and with a view to avoid delays in realization of
+
+non-CTS-2010 cheques, all NBFCs havebeen advised
+
+a)to migrate towards accepting only CTS-2010 standard cheques
+
+b)Not to accept fresh/ additional Post Dated Cheques (PDC)/Equated
+
+Monthly Installment (EMl) cheques (either in old format or new CTS-
+
+2010 format) in locations where the facility of ECS/RECS (Debit) is
+
+，，，，4005
+
+: 2218 2526 ,2218 9131; a : 2215 0540 ,2216 2768 ; $- : dnbs@rbi.0rg.in
+
+Department of Non-Banking Supervision, Central Office, 2nd Floor, Centre I,WTC, Cuffe
+
+Parade,Mumbai-400005
+
+Tel. No.: 2218 2526, 2218 9131 ; Fax No.: 2215 0540, 2216 2768 ; E-mail : dnbs@rbi.org.in
+
+<!-- PAGE 2 -->
+
+HdRd
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+mandates. This exercise shall be completed not later than December
+
+31,2013.
+
+4. Considering the protection available under Section 25 of the Payment and
+
+Settlement Systems Act, 2007 which accords the same rights and remedies to
+
+the payee (beneficiary) against dishonor of electronic funds transfer
+
+instructions under insufficiency of funds as are available under Section 138 of
+
+the Negotiable Instruments Act, 1881, there is no need for NBFCs to take
+
+additional cheques, if any, from customers in addition to ECS (Debit)
+
+mandates. Cheques complying with CTS-2010 standard formats shall alone
+
+be obtained in locations, where the facility of ECS/RECS is not available.
+
+5. The above instructions are issued in terms of Section 45 JA and 45K of the
+
+Reserve Bank of India Act, 1934 (Act 2 of 1934).
+
+Yours faithfully
+
+(N. S. Vishwanathan)
+
+Principal Chief General Manager
+
+，2，1，，，-40005
+
+: 2218 2526 ,2218 9131; a : 2215 0540 ,2216 2768 ; $-α : dnbs@rbi.0rg.in
+
+Department of Non-Banking Supervision, Central Office, 2nd Floor, Centre I,WTC, Cuffe
+
+Parade,Mumbai-400005
+
+Tel.No.:2218 2526, 2218 9131;Fax No.: 2215 0540,2216 2768 ;E-mail :dnbs@rbi.org.in

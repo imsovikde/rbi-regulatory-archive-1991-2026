@@ -1,0 +1,145 @@
+---
+doc_id: "Notifications_2013_8558"
+title: "Amendment to the “Issue of Foreign Currency Convertible Bonds and Ordinary shares (Through Depository Receipt Mechanism) Scheme, 1993”"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69APDIR081113.pdf"
+pdf_sha256: "c03cf7ef6523a54787d22e50ff8371e442a7d340c0b73364dda80684b4df2fa6"
+md_sha256: "363368718ae35fedf0867817f3ecdb402853239ec7c97712efd95b6460a9c15c"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-08_Notification_8558_Amendment%20to%20the%20%E2%80%9CIssue%20of%20Foreign%20Currency%20Convertible%20Bonds%20and%20Ordinary%20shares%20%28Through%20Depository%20Receipt%20Mechanism%29%20Scheme%2C%201993%E2%80%9D.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendment to the “Issue of Foreign Currency Convertible Bonds and Ordinary shares (Through Depository Receipt Mechanism) Scheme, 1993”
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2013-14/363
+
+## A.P. (DIR Series) Circular No. 69 November 8, 2013
+
+To
+
+All Category – I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Amendment to the “Issue of Foreign Currency Convertible Bonds and
+
+## Ordinary shares (Through Depository Receipt Mechanism) Scheme, 1993”
+
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to <u>A.P.</u> <u>(DIR Series) Circular No.11 dated September 5, 2005</u>s regarding issue of American Depository Receipts (ADRs)/ Global Depository Receipts (GDRs) read with Paragraph 4 of Schedule 1 to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide <u>Notification No. FEMA.20/2000-RB dated May 3, 2000</u>, as amended from time to time, in terms of which unlisted Indian companies which have not yet accessed Global Depository Receipts/ Foreign Currency Convertible Bond route for raising capital in the international market were required to have prior or simultaneous listing in the domestic market.
+
+2. On a review, it has now been decided to allow unlisted companies incorporated in India to raise capital abroad, without the requirement of prior or subsequent listing in India, initially for a period of two years, subject to conditions mentioned below. This scheme will be implemented from the date of the Government Notification of the scheme, subject to review after a period of two years. The investment shall be subject to the following conditions:
+(a) Unlisted Indian companies shall list abroad only on exchanges in IOSCO/FATF compliant jurisdictions or those jurisdictions with which SEBI has signed bilateral agreements;
+
+<!-- PAGE 2 -->
+
+(b) The ADRs/ GDRs shall be issued subject to sectoral cap, entry route, minimum capitalisation norms, pricing norms, etc. as applicable as per FDI regulations notified by the Reserve Bank from time to time;
+(c) The pricing of such ADRs/GDRs to be issued to a person resident outside India shall be determined in accordance with the captioned scheme as prescribed under paragraph 6 of Schedule 1 of Notification No. FEMA. 20 dated May 3, 2000, as amended from time to time;
+(d) The number of underlying equity shares offered for issuance of ADRs/GDRs to be kept with the local custodian shall be determined upfront and ratio of ADRs/GDRs to equity shares shall be decided upfront based on applicable FDI pricing norms of equity shares of unlisted company;
+(e) The unlisted Indian company shall comply with the instructions on downstream investment as notified by the Reserve Bank from time to time;
+(f) The criteria of eligibility of unlisted company raising funds through ADRs/GDRs shall be as prescribed by Government of India;
+(g) The capital raised abroad may be utilised for retiring outstanding overseas debt or for bona fide operations abroad including for acquisitions;
+(h) In case the funds raised are not utilised abroad as stipulated above, the company shall repatriate the funds to India within 15 days and such money shall be parked only with AD Category-1 banks recognised by RBI and shall be used for eligible purposes;
+(i) The unlisted company shall report to the Reserve Bank as prescribed under sub- paragraphs (2) and (3) of Paragraph 4 of Schedule 1 to FEMA Notification No.
+20.
+3. A copy of the Press Release dated September 27, 2013 issued by Ministry of Finance, Government of India and the Government Notification dated October 11, 2013 are annexed (Annex 1 and 2, respectively).
+4. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+
+<!-- PAGE 3 -->
+
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in-Charge
+
+<!-- PAGE 4 -->
+
+## Annex-1
+
+[A.P. (DIR Series) Circular No. 69 dated November 8, 2013]
+
+## Press Information Bureau
+
+## Government of India
+
+## Ministry of Finance
+
+27-September-2013 15:17 IST
+
+## Unlisted Indian Companies Allowed on A Pilot Basis for A Period of Two Years
+
+## to List and Raise Capital abroad without the Requirement of Prior or
+
+## Subsequent Listing in India
+
+At present, unlisted companies that are incorporated in India are not allowed to directly list in overseas markets without prior or simultaneous listing in Indian markets. It has now been decided with the approval of the Union Finance Minister that unlisted companies may be allowed to raise capital abroad without the requirement of prior or subsequent listing in India.
+
+This scheme will be implemented on a pilot basis for a period of two years from the date of notification of the scheme. After the initial two year period, the impact of this arrangement will be reviewed.
+
+The approval to list abroad is subject to the following conditions:
+
+- Unlisted companies may be allowed to list abroad only on exchanges in IOSCO/FATF compliant jurisdictions or those jurisdictions with which SEBI has signed bilateral agreements;
+- The Companies shall file a copy of the return which they submit to the proposed exchange/regulators also to SEBI for the purpose of Prevention of Money Laundering Act (PMLA). They shall comply with SEBI’s disclosure requirements in addition to that of the primary exchange prior to the listing abroad;
+- While raising resources abroad, the listing company shall be fully compliant with the FDI Policy in force;
+- The capital raised abroad may be utilised for retiring outstanding overseas debt or for operations abroad including for acquisitions;
+- In case the funds raised are not utilised abroad as stipulated above, such companies shall remit the money back to India within 15 days and such money shall be parked only in AD category banks recognised by RBI. Ministry of Finance (MoF), Department of Industrial Policy and Promotion (DIPP) and Reserve Bank of India (RBI) would be issuing the necessary notifications in due course in order to implement the required changes to the existing rules.
+## ******
+
+<!-- PAGE 5 -->
+
+## Annex-2
+
+[A.P. (DIR Series) Circular No. 69 dated November 8, 2013]
+
+MINISTRY OF FINANCE (Department of Economic Affairs) Notification New Delhi, 11th October 2013 **Foreign Currency Convertible Bonds and Ordinary Shares (Through** **Depositary Receipt Mechanism)(Amendment) Scheme, 2013**
+
+G.S.R. 684(E).—Central Government hereby amend the Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) Scheme, 1993, namely:—
+1. This Scheme may be called the issue of Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme,
+2013.
+2. The Scheme shall be deemed to have come into force from the date of publication of Notification; and
+3. In the Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) Scheme, 1993; In Paragraph 3(1)(B) the words “Unlisted Indian Companies Issuing Global Depository Receipts/Foreign Currency Convertible Bonds shall be required to simultaneously list in the Indian stock Exchanges(s)” shall be replaced by the following “Unlisted companies shall be allowed to raise capital abroad without the requirement of prior or subsequent listing in India initially for a period of two years subject to the following conditions.
+a. Unlisted companies shall list abroad only on exchanges in IOSCO/FATF compliant jurisdictions or those jurisdictions with which SEBI has signed bilateral agreements;
+b. The Companies shall file a copy of the return which they submit to the proposed exchange/regulators also to SEBI for the purpose of PMLA. They
+
+<!-- PAGE 6 -->
+
+shall comply with SEBI’s disclosure requirements in addition to that of the primary exchange prior to the listing abroad;
+
+c. While raising resources abroad, the listing company shall be fully compliant with the FDI Policy in force;
+d. The capital raised abroad may be utilised for retiring outstanding overseas debt or for operations abroad including for acquisitions;
+e. In case the funds raised are not utilised abroad as stipulated at d above, such companies shall remit the money back to India within 15 days and such money shall be parked only in AD category banks recognised by RBI and may be used domestically.
+[F. No. 4/13/2012-ECB] SHARMILA CHAVALY, Jt. Secy. Foot Note :
+
+(1). The Principal Scheme viz; Issue of Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) Scheme, 1993, was published in the Gazette of India, Extraordinary, Part II-Section 3 - Sub-section (i) on the 12th November 1993/Kartika 21, 1915). (Notification GSR No.700(E) dated 12th November, 1993).
+(2). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme, 1999, was published in the Gazette of India, Extraordinary, Part II-Section 3 - Sub-section (i) on the 11th November 1999/Kartika 20, 1921. (Notification GSR. N0.764(E), dated 10th November 1999).
+(3). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme, 1999, was published in the Gazette of India, Extraordinary, Part II-Section 3 - Sub-section (i) on the 19th June 2000/Jyaistha 29,1922. (Notification GSR. N0.544(E), dated 16m June 2000).
+(4). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme-ll, 2000, was published In The Gazette Of India ( Extraordinary ) Under. Part-ll Section-3 Sub-section(i) on 14th November, 2000/Kartika 23,1922. (Notification GSR. NO,865(E), dated 10th November 2000)
+
+<!-- PAGE 7 -->
+
+(5). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme-Ill, 2000, was published In The Gazette Of India ( Extraordinary ) Under Part-ll Section-3 Sub-section(i) on 14th November, 2000/Kartika 23,1922. (Notification GSR. N0.866(E), dated 10,h November 2000).
+(6). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme, 2001 was published in The Gazette of India ( Extraordinary ) Under Part-ll Section-3 Sub-section(i) on 21st September, 2001/Bhadra 30,1923. (Notification GSR. No.687(E), dated 18th September, 2001),
+(7). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme, 2002 was published in The Gazette of India ( Extraordinary ) Under Part-ll Section-3 Sub-section(i) on 13th February, 2002/Magha 24,1923. (Notification GSR. No. 100(E), dated 13-02-2002),
+(8). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme II, 2002 was published in The Gazette of India ( Extraordinary ) Under Part- ll Section-3 Sub-section(i) on 30th, July 2002/Sravana 8, 1924. (Notification GSR. No.532(E), dated 29-07¬2002).
+(9). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme III, 2002 was published in The Gazette of India ( Extraordinary ) Under Part- ll Section-3 Sub- section(i) on 2nd, December 2002/Agrahayana 11,1924. (Notification GSR. No.789(E), dated (10). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme I, 2005 was published in The Gazette of India ( Extraordinary ) Under Part-ll Section-3 Sub-section(i) on 31st, August 2005/Bhadra 9, 1927. (Notification GSR. No.553(E), dated 31-08¬2005). (11). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme II, 2005 was published in The Gazette of India ( Extraordinary ) Under Part- ll Section-3 Sub-section(i) on 14th, September 2005/Bhadra 23, 1927.
+
+<!-- PAGE 8 -->
+
+(Notification GSR. No.581(E), dated 14-09-2005) (12). Amendment in the Original Scheme carried in Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) (Amendment) Scheme II, 2005 was published in The Gazette of India ( Extraordinary ) Under Part- ll Section-3 Sub-section(i) on 17th, November 2005/Kartika 26, 1927. (Notification GSR. No.671(E), dated 17-11-2005)

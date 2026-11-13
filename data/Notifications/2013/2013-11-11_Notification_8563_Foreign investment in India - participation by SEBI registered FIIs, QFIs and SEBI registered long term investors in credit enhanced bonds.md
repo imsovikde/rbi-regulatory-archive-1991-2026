@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2013_8563"
+title: "Foreign investment in India - participation by SEBI registered FIIs, QFIs and SEBI registered long term investors in credit enhanced bonds"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR111113Cir.pdf"
+pdf_sha256: "23f117f0a288783a52f3c7cce103b59bba16a5bed1deed2ab77742ffd247de01"
+md_sha256: "7eebe5014b125ec769e9d557f19bf1a19b7cfa794377eff22f024b0a8479bbc2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-11_Notification_8563_Foreign%20investment%20in%20India%20-%20participation%20by%20SEBI%20registered%20FIIs%2C%20QFIs%20and%20SEBI%20registered%20long%20term%20investors%20in%20credit%20enhanced%20bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign investment in India - participation by SEBI registered FIIs, QFIs and SEBI registered long term investors in credit enhanced bonds
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2013-14/368 A. P. (DIR Series) Circular No.74 November 11, 2013
+
+To All Category-I Authorised Dealer Banks Madam / Sir,
+
+## Foreign investment in India-participation by SEBI registered FIIs, QFIs and
+
+## SEBI registered long term investors in credit enhanced bonds
+
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to Schedule 5 to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide <u>Notification No.</u> <u>FEMA.20/2000-RB dated May 3, 2000</u>, as amended from time to time, in terms of which SEBI registered Foreign Institutional Investors (FIIs), Qualified Foreign Investors (QFIs) and long term investors, such as, Sovereign Wealth Funds (SWFs), Multilateral Agencies, Pension/ Insurance/ Endowment Funds, foreign Central Banks, may purchase, on repatriation basis, Government securities and non- convertible debentures (NCDs) / bonds issued by an Indian company subject to such terms and conditions as mentioned therein and limits as prescribed for the same by RBI and SEBI from time to time. The present limits for investments by FIIs, QFIs and long term investors registered with SEBI in Government securities and corporate debt stands at USD 30 billion and USD 51 billion, respectively.
+
+2. Attention of AD Category-I banks is also invited to <u>A.P. (DIR Series) Circular</u> <u>No. 40 dated March 02, 2010</u> and <u>A.P. (DIR Series) Circular No. 120 dated June 26,</u> <u>2013</u>**,** relating to External Commercial Borrowings (ECB) Policy – Structured Obligations. In terms of A.P. (DIR Series) circular dated June 26, 2013, credit enhancement can be provided by eligible non-resident entities to the domestic debt raised through issue of INR bonds/ debentures by all borrowers eligible to raise ECB under the automatic route. All the other terms and conditions mentioned in para 4 (iv), (vi) to (viii) of A.P. (DIR Series) Circular No. 40 dated March 02, 2010 will remain unchanged.
+
+<!-- PAGE 2 -->
+
+3. On a review, it has been decided to allow SEBI registered Foreign Institutional Investors (FIIs), Qualified Foreign Investors (QFIs) and long term investors registered with SEBI – Sovereign Wealth Funds (SWFs), Multilateral Agencies, Pension/ Insurance/ Endowment Funds, foreign Central Banks - to invest in the credit enhanced bonds, as per paragraph 3 and 4 of A.P. (DIR Series) Circular No. 120 dated June 26, 2013**,** up to a limit of USD 5 billion within the overall limit of USD 51 billion earmarked for corporate debt.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers.
+5. Reserve Bank of India has since amended relevant Regulations vide <u>Notification No.FEMA.289/2013 dated October 4, 2013</u>, notified vide
+G.S.R.No.681(E) dated October 11, 2013.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar) Chief General Manager-in-Charge

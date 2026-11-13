@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2013_8553"
+title: "Formation of seven new districts in the State of Gujarat - Assignment of Lead Bank Responsibility"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRASM06112013.pdf"
+pdf_sha256: "cbaf9b9065f69c0b213d934de785a268f1abbcef162df61bf468913f18b7386e"
+md_sha256: "4392c83804e552d63feaffb2f156d8b33f46eea5efb9b638019c3cea9489ebf7"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-06_Notification_8553_Formation%20of%20seven%20new%20districts%20in%20the%20State%20of%20Gujarat%20-%20Assignment%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of seven new districts in the State of Gujarat - Assignment of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/358 RPCD.CO.LBS.BC.No. 53 /02.08.001/2013-14 November 6, 2013 The Chairmen & Managing Directors All Lead Banks
+
+Dear Sir/Madam,
+
+## Formation of seven new districts in the State of Gujarat -
+
+||Assignment of Lead Bank Responsibility|The Government of Gujarat vide The Gujarat Government Gazette Notification No. the formation of seven new districts in the State of Gujarat. It has been decided to assign the lead bank responsibility of the seven new districts as detailed below:-|GHM/2013/69 to 75 /M/PFR/102013/139/L.I dated August 13, 2013 had notified|||
+|---|---|---|---|---|---|
+|Sr No|Newly carved district|Erstwhile District|Tehsils Included in the new District|Lead Bank Responsibility assigned to|District Working Code allotted to new district|
+|1|Arvalli|Sabarkantha Bhiloda|Modasa Meghraj Malpur Dhansura Bayad|Dena Bank|370|
+|2|Botad|Ahmedabad and Bhavnagar|Botad Gadhada Barvala Ranpur|Dena Bank|371|
+|3|Chhotaudepur|Vadodara गर्ामीण आयोजना और ऋण िवभाग,,कदर्ीय कायार्लय, 10व मंिज़ल,कदर्ीय कायार्लय भवन,,शहीद भगत िसह मागर्,पो.बा.स.10014,म िहदी आसान ह, इसका पर्योग बढ़ाइए ै|Chhotaudepur Jetpur-Pavi Kavant Nasvadi Sankheda टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22619048 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400001|Bank of Baroda ं|372 ुंबई 400 001|
+|चेतावनी:|िरज़वर् बैंक द्वारा ई-मेल, डाक, एसएमएस मांगी जाती है। यह धन रखने या देने|या फोन कॉल के जिरए िकसी की का ूःताव भी नहीं करता है। ऐसे Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|भी व् यिक्तगत जानकारी जैसेे बैंक के ूःतावों का िकसी भी तरीक से जवाब|खात का ब्यौरा, पासवडर् आिद नहीं मते दीिजए।||
+
+<!-- PAGE 2 -->
+
+**4 Devbhumi** Jamnagar Khambhalia **Dena Bank 373** **Dwarka** Okhamandal (Dwarka) Bhanvad Kalyanpur **5 Gir Somnath** Junagadh Veraval **State Bank of 374** Kodinar **India** Sutrapada Talala Una **6 Mahisagar** Kheda and Lunavada **Bank of 375** Panchmahal Kadana **Baroda** Khanpur Santrampur Balasinor Virpur **376**
+
+|7 Morbi|Rajkot|Morbi|State Bank of|
+|---|---|---|---|
+||Jamnagar|Maliya|India|
+||Surendranagar|Vankaner||
+
+Tankara <u>Halvad</u>
+
+2. Further, the District Working Codes of new districts have also been allotted for the purpose of BSR reporting by banks.
+3. There is no change in the lead bank responsibilities of the erstwhile districts and of other districts in the State of Gujarat.
+## Yours faithfully
+
+(A. Udgata) Principal Chief General Manager

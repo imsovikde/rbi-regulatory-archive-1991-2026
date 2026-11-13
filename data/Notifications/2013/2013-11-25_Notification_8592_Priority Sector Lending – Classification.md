@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2013_8592"
+title: "Priority Sector Lending – Classification"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RPC251113S.pdf"
+pdf_sha256: "bcdf5cb436367e9e8e7c2569175ed588bd306dd4381c3e8ae262bf97c4088ba0"
+md_sha256: "65d39da45de9bb91cd2d392a4f994ace3129bf458b66fcf869560e50635877f6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-11-25_Notification_8592_Priority%20Sector%20Lending%20%E2%80%93%20Classification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending – Classification
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/379
+
+RPCD.CO.Plan. BC 59/04.09.01/ 2013-14 November 25, 2013
+
+The Chairman/ Managing Director/ Chief Executive Officer *[All scheduled commercial banks* *(excluding Regional Rural Banks)]*
+
+Dear Sir, <u>Priority Sector Lending – Classification</u>
+
+Please refer to the <u>press release dated November 18, 2013</u> on the above subject.
+
+2. In view of the reasons explained therein, it is decided to include incremental bank loans to medium manufacturing enterprises (as defined in the MSMED Act, 2006), extended after November 13, 2013, as priority sector advances.
+3. The incremental bank loans to medium service enterprises extended after November 13, 2013, up to the credit limit of Rs.10 crores, would qualify as priority sector advances. In line with the above, similar incremental loans to micro and small service enterprises up to the credit limit of Rs.10 crores, (as against the present ceiling of Rs.5 crores), shall also be treated as priority sector advances.
+4. The above dispensation will remain in force up to March 31, 2014. Yours faithfully, (A Udgata) Principal Chief General Manager
