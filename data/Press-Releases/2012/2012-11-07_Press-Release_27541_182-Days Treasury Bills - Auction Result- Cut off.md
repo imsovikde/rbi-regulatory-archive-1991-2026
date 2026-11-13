@@ -1,0 +1,45 @@
+---
+doc_id: "Press-Releases_2012_27541"
+title: "182-Days Treasury Bills - Auction Result: Cut off"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR182TB1112.pdf"
+pdf_sha256: "f01adcf50bf562d229ab0b641f9474da00de5a38a91a87db140eb8ce32d50ff6"
+md_sha256: "5ad17307ff81dff6bac415ddb733cbd9c421d59f71260298db9b42044e1888fe"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:06:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-11-07_Press-Release_27541_182-Days%20Treasury%20Bills%20-%20Auction%20Result-%20Cut%20off.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 182-Days Treasury Bills - Auction Result: Cut off
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website: www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## November 07, 2012
+
+## 182-Days Treasury Bills-Auction Result: Cut off
+
+## Date of Auction: November 07, 2012
+
+|I. Total Face Value Notified|` 5,000.00 crore|
+|---|---|
+|II. Cut-off Price and|` 96.09|
+|Implicit Yield at Cut-Off Price|(YTM: 8.1606 %)|
+|III. Total Face Value Accepted|` 5,000.00 crore|
+|Press Release :|Assistant General Manager|
+
+## Ajit Prasad
+
+## 2012-2013/772
