@@ -1,0 +1,95 @@
+---
+doc_id: "Notifications_2025_13189"
+title: "Reserve Bank of India (Credit Information Companies) Amendment Directions, 2025"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT119E3B6BBB56A6D4C239D0FFBD36ABDE292.PDF"
+pdf_sha256: "d676d3e718f7f8376143dce660e60e495bf302fe49ae9e3f7e82709b36f55724"
+md_sha256: "2cda4a06e70d0ba33af4aa13c277914c51df48aa63da5f8212160076204f5bc2"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13189_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Amendment%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Credit Information Companies) Amendment Directions, 2025
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+<u>RESERVE BANK OF INDIA</u>
+
+RBI/DOR/2025-26/119 DoR.FIN.REC.No.326/20.16.056/2025-26 December 04, 2025
+
+## Reserve Bank of India (Credit Information Companies)
+
+## Amendment Directions, 2025
+
+The Reserve Bank had issued <u>Reserve Bank of India (Credit Information Companies)</u> <u>Directions, 2025</u>or efficient functioning of credit information reporting system in the f country. There is a need to further amend the same based on a review of the extant instructions.
+
+2. Accordingly, in exercise of the powers conferred under Section 11 of the Credit Information Companies (Regulation) Act, 2005, the Reserve Bank being satisfied that it is necessary and expedient in the public interest to do so, hereby issues the Amendment Directions hereinafter specified.
+3. (i) These directions shall be called the Reserve Bank of India (Credit Information Companies) Amendment Directions, 2025. (ii) These directions shall come into force from July 01, 2026.
+4. These directions modify the <u>Reserve Bank of India (Credit Information Companies)</u> <u>Directions, 2025</u>, hereinafter referred to as the said Directions, as under:
+## i) The paragraph 15 (1) of the said Directions shall be substituted by the
+
+**following, namely:** *“A CIC shall keep the credit information collected / maintained by it, updated regularly* *on the following basis or at shorter intervals as mutually agreed upon between the CIC* *and CI:*
+
+*(i) A CI shall submit credit information as on 9*
+*th* *, 16* *th* *, 23* *rd* *and last day of the month* *(hereinafter referred to as the reference dates) to CICs.* *(ii) A CI shall submit the full file containing credit information records as on the last* *day of the month to the CICs, by 5* *th* *day of the next month. Full file for this purpose shall* *include all active accounts in the books of the CI and the accounts wherein relationship* *between the borrower and the CI has ended since the last reporting reference date.* _________________________________________________________________________________ वनयमन वभाग, कें द्रय कायार्लय, कें द्रय कायार्लय भवन, 12वीं/13वीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई – 400001 टेलफोन/ Tel No: 22701223 ई-मेल/ E- mail <u>cgmicdor@rbi.org.in</u> Department of Regulation, Central Office, Central Office Building, 12th/ 13thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+<!-- PAGE 2 -->
+
+*th* *(iii) For other submissions during the month, i.e., credit information records as on 9,* *th rd* *16 and 23 day of the month, a CI shall only furnish ‘incremental accounts’ to CICs.* *The CI shall submit such credit information to CICs within four (4) calendar days from* *the above-mentioned dates. Incremental accounts for this purpose shall include details* *in respect of the following accounts:*
+
+*A. Accounts opened since the last reporting reference date;*
+*B. Accounts wherein the relationship between the borrower and the CI has ended* *since the last reporting reference date;*
+*C. Accounts where there is a change from the last reporting reference date* *because of any action/ transaction initiated by the borrower, and the same shall* *include instances of repayment, change in outstanding balance, updates in* *demographic details, related party, guarantors, ownership of account, account* *type; and*
+*D. Accounts where interest and / or instalment of principal is overdue* *Explanation: Accounts with change only in days past due from the last* *reporting reference date shall also form part of the reporting.*
+*(iv) An illustration on timelines for reporting is given in* <u>Annex-IX</u>*.* **ii) The paragraph 15 (2) of the said Directions shall be substituted by the** **following, namely:** *“A CIC shall report on the DAKSH portal, a list of CIs which fail to adhere to the data* *submission timelines to Department of Supervision, Reserve Bank of India, Central* *Office, at half yearly intervals (as on March 31 and September 30 each year) for* *information and monitoring purposes.”* **iii) The paragraph 19(1) of the said Directions shall be substituted by the** **following, namely:** *“CICs shall implement uniform data acceptance validation rules and share the same* *with the CIs, so that instances of data rejection are minimised. Further, the CICs shall* *implement uniform Online Maintenance (process used by CIs to request changes in the* *credit information reported to CICs) formats and encryption standards.”* **iv) The paragraph 19(2) of the said Directions shall be substituted by the** **following, namely:**
+
+<!-- PAGE 3 -->
+
+*“The reasons for rejection shall be parameterised uniformly by the CICs and circulated* *among the CIs concerned.”*
+
+**v) A new paragraph 19 (5) shall be inserted after paragraph 19 (4) of the said** **Directions as follows, namely:** *“A CI shall rectify the rejected data shared by CICs and re-submit the same to CICs* *before/ along with submission of data of subsequent reporting reference date.”* **vi) The paragraph 20(1) of the said Directions shall be substituted by the** **following, namely:** *“A CIC shall provide file level DQI for all the reporting segments (Consumer,* *Commercial, and Microfinance) for all the files to the concerned CI within three (3)* *calendar days of their receipt. CI level DQI shall be provided by a CIC to the concerned* *CI for all the reporting segments on a monthly basis by the 10*
+*th* *day of the next month.”* **vii) The paragraph 20(3) of the said Directions shall be substituted by the** **following, namely:** *ìThe DQI scores for Commercial and Microfinance segments at CI level shall be* *computed as weighted average of file level DQI scores of all files submitted by a CI in a* *month in Commercial and Microfinance segments, respectively. An illustration on* *computation of DQI based on weighted average of files submitted by CIs is given in* <u>Annex-X</u>*.”* **viii) A new paragraph 21 (10) shall be inserted after paragraph 21 (9) of the said** **Directions as follows, namely:** *“CICs shall have a uniform table for enquiry purposes in their enquiry module.”*
+
+**ix) Paragraph 39 (1) and 39 (2) of the said Directions shall be substituted by the** **following, namely:** *“A CIC shall ingest full file and weekly incremental file, as per the data acceptance rules,* *and share rejection reports, if any, with the CI concerned within three (3) calendar days* *of their receipt.”*
+
+(J. P. Sharma) Chief General Manager-in-Charge
+
+<!-- PAGE 4 -->
+
+## Annex-IX
+
+## Illustration on the timelines for reporting credit information
+
+||Credit Information to be reported as on date|CIs to share data with CICs by|CICs to ingest and share rectification report with CIs by|CIs to share rectification in rejected data with CICs by|
+|---|---|---|---|---|
+||th 9|th 13|th 16|th 20|
+|Day of|th 16|th 20|rd 23|th 27|
+|the month|rd 23 Last day of month|th 27 th 5 of the next month|th 30 th 8 of next month|th 5 of the next month th 13 of the next month|
+
+<!-- PAGE 5 -->
+
+## Annex-X
+
+## Illustration for calculating Monthly Data Quality Index (DQI) for a CI for one segment
+
+## Date of credit Number of records in DQI of file
+
+**reporting file** th
+
+|9|100|95|
+|---|---|---|
+|16|120|98|
+|23|150|100|
+|Last day of month|500|98|
+
+th rd
+
+Calculation for DQI for the month on weighted average basis: - (100*95)+ (120*98)+ (150*100)+ (500*98) = 98 (100+120+150+500)
