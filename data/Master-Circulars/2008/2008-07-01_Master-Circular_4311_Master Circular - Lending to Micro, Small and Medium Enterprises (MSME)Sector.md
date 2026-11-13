@@ -1,0 +1,1029 @@
+---
+doc_id: "Master-Circulars_2008_4311"
+title: "Master Circular - Lending to Micro, Small and Medium Enterprises (MSME)Sector"
+category: "Master-Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85390.pdf"
+pdf_sha256: "0cbc34270c5c407c0c511b1a97cb761ba36bb032217da47a915deaa1e3daee0f"
+md_sha256: "9df2a0d51b4278e55fe4316ab203070138dc9cf44a4ab1a2d40f029b4756882e"
+total_pages: 39
+native_pages: 38
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T11:13:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2008/2008-07-01_Master-Circular_4311_Master%20Circular%20-%20Lending%20to%20Micro%2C%20Small%20and%20Medium%20Enterprises%20%28MSME%29Sector.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Lending to Micro, Small and Medium Enterprises (MSME)Sector
+
+<!-- PAGE 1 -->
+
+## <u>RBI/2008-09/ 41</u>
+
+RPCD.SME&NFS. BC. No. 2 / 06.02.31/ 2008-09 July 1, 2008
+
+## The Chairman/Managing Director/
+
+## Chief Executive Officer
+
+## All Scheduled Commercial Banks
+
+## (including Regional Rural Banks/Local Area Banks)
+
+Dear Sir,
+
+## MASTER CIRCULAR -
+
+## LENDING TO MICRO, SMALL & MEDIUM ENTERPRISES (MSME) SECTOR
+
+As you are aware, the Reserve Bank of India has, from time to time, issued a number of guidelines/instructions/directives to banks in regard to matters relating to lending to Micro, Small & Medium Enterprises Sector. To enable the banks to have current instructions at one place, a Master Circular incorporating the existing guidelines/instructions/directives on the subject has been prepared and is appended. This Master Circular consolidates the instructions issued by the RBI up to June 30, 2008, which are listed in the *Appendix,* to the extent they deal with the MSME sector lending by commercial banks.
+
+## Please acknowledge receipt.
+
+Yours faithfully,
+
+(G.Srinivasan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+|SECTION-I|LENDING TO SME SECTOR|
+|---|---|
+||1 SMALL ENTERPRISES|
+|1.1.1|Small (manufacturing) Enterprises Enterprise engaged in the manufacture/production or preservation of goods and whose investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O. 1722(E) dated October 5, 2006 as furnished in Annexure I) does not exceed Rs. 5 crore|
+||1.1.2 Small (service) Enterprises Enterprise engaged in the providing/rendering of services and whose investment in equipment (original cost excluding land and building and furniture, fittings and other not directly related to the service rendered or as may be under the Micro, Small and Medium Enterprises Development, (MSMED), Act 2006) does not exceed Rs. 2 crore. 1.2.1 Micro (manufacturing) Enterprises Enterprise engaged in the manufacture/production or preservation of goods and whose investment in plant and machinery (original cost excluding land and building and such items as in 1.1.1) does not exceed Rs. 25 lakh, irrespective of the location of the unit.|
+||1.2.2 Micro (service) Enterprises Enterprise engaged in the providing/rendering of services and whose investment in equipment (original cost excluding land and building and furniture, fittings and such items as in 1.1.2) does not exceed Rs. 10 lakh.|
+|1.3.1|Medium (manufacturing) Enterprises Enterprise engaged in the manufacture/production or preservation of goods and whose investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O. 1722(E) dated October 5, 2006) is more than Rs. 5 crore but does not exceed Rs. 10 crore.|
+
+<!-- PAGE 3 -->
+
+|1.3.2||Medium (service) Enterprises Enterprise engaged in the providing/rendering of services and whose investment in equipment (original cost excluding land and building and furniture, fittings and such items as in 1.1.2) is more than Rs. 2 crore but does not exceed Rs. 5 crore. The small and micro (service) enterprises shall include small road & water transport operators, small business, professional & self-employed persons and all other service enterprises. Bank's lending to medium enterprises will not be included for the purpose of reckoning under priority sector.||
+|---|---|---|---|
+|1.4||Khadi and Village Industries Sector (KVI) All advances granted to units in the KVI sector, irrespective of their size of operations, location and amount of original investment in plant and machinery. Such advances will be eligible for consideration under the sub-target (60 per cent) of the small enterprises segment within the priority sector. 1.5 INDIRECT FINANCE||
+|1.5.1||Persons involved in assisting the decentralised sector in the supply of inputs and marketing of outputs of artisans, village and cottage industries.||
+|1.5.2||Advances to cooperatives of producers in the decentralised sector viz. artisans, village and cottage industries.||
+|1.5.3||Existing investments as on March 31, 2007, made by banks in special bonds issued by NABARD with the objective of financing exclusively non- farm sector may be classified as indirect finance to Small Enterprises sector till the date of maturity of such bonds or March 2010, whichever is earlier. Investments in such special bonds made subsequent to March 31, 2007 will, however, not be eligible for such classification.||
+|1.5.4||Deposits placed with SIDBI by foreign banks, having offices in India, on account of non-achievement of priority sector lending targets/sub- targets and outstanding as on April 30, 2007 would be eligible for classification as indirect finance to Small Enterprises sector till the date of maturity of such deposits or March 31, 2010, whichever is earlier. However, fresh deposits placed by banks' on or after April 30, 2007 with SIDBI on account of non-achievement of priority sector lending targets/sub-targets would not be eligible for classification as indirect finance to Small Enterprises Sector.||
+|1.5.5||Loans granted by banks to NBFCs for on-lending to small and micro enterprises (manufacturing as well as service)||
+
+<!-- PAGE 4 -->
+
+|SECTION II||
+|---|---|
+||CERTAIN TYPES OF FUNDS DEPLOYMENT ELIGIBLE AS PRIORITY SECTOR|
+|ADVANCES||
+|1. 1.1|INVESTMENTS SECURITIZED ASSETS Investments made by banks in securitised assets, representing loans to various categories of priority sector, shall be eligible for classification under respective categories of priority sector (direct or indirect) depending on the underlying assets, provided the securitised assets are originated by banks and financial institutions and fulfil the Reserve Bank of India guidelines on securitisation. This would mean that the bank's investments in the above categories of securitised assets shall be eligible for classification under the respective categories of priority sector only if the securitised advances were eligible to be classified as priority sector advances before their securitisation.|
+|1.2|Outright purchases of any loan asset eligible to be categorised under priority sector, shall be eligible for classification under the respective categories of priority sector (direct or indirect), provided the loans purchased are eligible to be categorised under priority sector; the loan assets are purchased (after due diligence and at fair value) from banks and financial institutions, without any recourse to the seller; and the eligible loan assets are not disposed of, other than by way of repayment, within a period of six months from the date of purchase.|
+|1.3|Investments by banks in Inter Bank Certificates (IBPCs), on a risk sharing basis, shall be eligible for classification under respective categories of priority sector, provided the underlying assets are eligible to be categorised under the respective categories of priority sector and are held for at least 180 days from the date of investment.|
+
+**2**. **SCHEME OF SMALL ENTERPRISES FINANCIAL CENTRES (SEFCs):** As per announcement made by the Governor in the Annual Policy Statement 2005-06, a scheme for strategic alliance between branches of banks and SIDBI located in clusters, named as “Small Enterprises Financial Centres” has been formulated in consultation with the Ministry of SSI and Banking Division, Ministry of Finance, Government of India, SIDBI, IBA and select banks and circulated to all scheduled commercial banks on May 20, 2005 for implementation. Initially, SIDBI had decided to start 149 such centres. SIDBI has so far executed MoU with 15 banks so far (Bank of India, UCO Bank, YES Bank, Bank of Baroda, Oriental Bank of Commerce, Punjab National Bank, Dena Bank, Andhra Bank, Indian Bank, Corporation Bank, IDBI Bank, Indian Overseas Bank, Union Bank of India, State Bank of India and Federal Bank). List of SME clusters covered by existing SIDBI branches is furnised in ***Annexure II**.*
+
+<!-- PAGE 5 -->
+
+## SECTION III
+
+|||TARGETS FOR PRIORITY SECTOR LENDING BY DOMESTIC COMMERCIAL|
+|---|---|---|
+|BANKS (||EXCLUDING RRBS)|
+|1.||MAIN TARGETS FOR ALL DOMESTIC COMMERCIAL BANKS EXCLUDING FOREIGN BANKS|
+|1.1||The domestic commercial banks are expected to enlarge credit to priority sector and ensure that priority sector advances (which includes the small enterprises sector) constitute 40 per cent of Adjusted Net Bank Credit (ANBC) or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|
+|1.2||While there is no sub-target fixed for lending to small enterprises sector, as per the policy package announced by the Government of India for stepping up credit to MSME sector, banks may fix self set target for growth in advances to SME sector in order to achieve a minimum 20% year on year growth in credit to MSMEs with the objective to double the flow of credit to the MSME sector within a period of 5 years i.e. from 2005-06 to 2009-10.|
+|1.3||In order to ensure that credit is available to all segments of the Small Enterprises sector, banks should ensure that :- (a) 40 per cent of the total advances to small enterprises sector should go to micro (manufacturing) enterprises having investment in plant and machinery up to Rs. 5 lakh and micro (service) enterprises having investment in equipment up to Rs. 2 lakh; (b) 20 per cent of the total advances to small enterprises sector should go to micro (manufacturing) enterprises with investment in plant and machinery above Rs. 5 lakh and up to Rs. 25 lakh, and micro (service) enterprises with investment in equipment above Rs. 2 lakh and up to Rs. 10 lakh. (Thus 60 per cent of small enterprises advances should go to the micro enterprises)|
+|2.||TARGETS FOR FOREIGN BANKS|
+|2.1.1||Foreign banks are expected to enlarge credit to priority sector and ensure that priority sector advances (which includes the Small Enterprises sector) constitute 32 per cent of Adjusted Net Bank Credit (ANBC) or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|
+|2.1.2||Within the overall target of 32 per cent to be achieved by foreign banks, the advances to small enterprises sector should not be 10 per cent of the adjusted net bank credit (ANBC) or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher.|
+
+<!-- PAGE 6 -->
+
+|2.1.3|In order to ensure that credit is available to all segments of the Small Enterprises sector, banks should ensure that :- (a) 40 per cent of the total advances to small enterprises sector should go to micro (manufacturing) enterprises having investment in plant and machinery up to Rs. 5 lakh and micro (service) enterprises having investment in equipment up to Rs. 2 lakh; (b) 20 per cent of the total advances to small enterprises sector should go to micro (manufacturing) enterprises with investment in plant and machinery above Rs. 5 lakh and up to Rs. 25 lakh, and micro (service) enterprises with investment in equipment above Rs. 2 lakh and up to Rs. 10 lakh. (Thus 60 per cent of small enterprises advances should go to the micro enterprises) The net bank credit should tally with the figures reported in the [fortnightly return submitted under section 42(2) of the Reserve Bank of India Act, 1934. Outstanding deposits under the FCNR (B) and NRNR Schemes are excluded from net bank credit for computation of priority sector lending target/ sub-targets. However, as the NRNR scheme has been discontinued, the existing accounts under NRNR account scheme may be continued only up to the date of maturity as advised vide circular DBOD. DIR. BC. 93/13.01.09/2001-02 dated April 29, 2002.]|
+|---|---|
+|3.|DEPOSIT BY FOREIGN BANKS WITH SIDBI TOWARDS SHORTFALL IN PRIORITY SECTOR LENDING|
+|3.1 3.2|The foreign banks having shortfall in lending to stipulated priority sector targets /sub-targets will be required to contribute to Small Enterprises Development Fund (SEDF) to be set up by Small Industries Development Bank of India (SIDBI), or for such other purpose as may be stipulated by Reserve bank of India. For the purpose of such allocation, the achievement level of priority sector lending as on the last reporting Friday of March of the immediately preceding financial year will be taken into account.|
+
+<!-- PAGE 7 -->
+
+|3.3|The corpus of SEDF shall be decided by Reserve Bank of India on a year-to-year basis. The tenor of the deposits shall be for a period of three years or as decided by Reserve Bank from time to time. Fifty percent of the corpus shall be contributed by foreign banks having shortfall in lending to priority sector target of 32 per cent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, on a pro-rata basis. The balance fifty per cent of the corpus shall be contributed by foreign banks having aggregate shortfall in lending to Small Enterprises sector and export sector of 10 per cent and 12 per cent respectively, of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher, on a pro-rata basis. The contribution required to be made by foreign banks would, however, not be more than the amount of shortfall in priority sector lending target/sub- target of the foreign banks.|
+|---|---|
+|3.4 3.5|The concerned foreign banks will be called upon by SIDBI/or such other institution as may be decided by Reserve Bank, as and when funds are required by them, after giving one month's notice. The interest rates on foreign banks' contribution, period of deposits, etc. shall be fixed by Reserve Bank of India from time to time.|
+|3.6.|Non-achievement of priority sector targets and sub-targets will be taken into account while granting regulatory clearances/approvals for various purposes. [ANBC or credit equivalent of Off-Balance Sheet Exposures (as defined by Department of Banking Operations and Development of Reserve Bank of India from time to time) will be computed with reference to the outstanding as on March 31 of the previous year. For this purpose, outstanding FCNR (B) and NRNR deposits balances will no longer be deducted for computation of ANBC for priority sector lending purposes For the purpose of priority sector lending, ANBC denotes NBC plus investments made by banks in non-SLR bonds held in HTM category. Investments made by banks in the Recapitalisation Bonds floated by Government of India will not be taken into account for the purpose of calculation of ANBC. Existing investments, as on the date of circular RPCD.No.Plan. BC.84/04.09.01/2006-07 dated April 30, 2007, made by banks in non-SLR bonds held in HTM category will not be taken into account for calculation of ANBC, up to March 31, 2010. However, fresh. investments by banks in non-SLR bonds held in HTM category will be taken into account for the purpose. Deposits placed with NABARD/SIDBI, as the case may be, in lieu of non-achievement of priority sector lending targets/sub-targets, though shown under Schedule 8 –'Investments' in the Balance Sheet at item I (vi)- 'Others', will not be treated as investment in non-SLR bonds held under HTM category. For the purpose of calculation of credit equivalent of off-balance sheet exposures, banks may use current exposure method. Inter-bank exposures will not be taken into account for the purpose of priority sector lending targets/sub-targets.]|
+
+<!-- PAGE 8 -->
+
+## <u>SECTION IV</u>
+
+## <u>COMMON GUIDELINES/INSTRUCTIONS FOR LENDING TO SMALL ENTERPTRISES SECTOR</u>
+
+## 1. Disposal of Applications
+
+All loan applications for SSI up to a credit limit of Rs. 25,000/- should be disposed of within 2 weeks and those up to Rs. 5 lakh within 4 weeks provided the loan applications are complete in all respects and accompanied by a 'check list'.
+
+# 2 Collateral
+
+The limit for all MSME borrowal accounts for obtention of collateral security (both manufacturing or production and providing or rendering of services) is Rs 5 lakh. Banks may on the basis of good track record and financial position of the MSME units, increase the limit of dispensation of collateral requirement for loans up to Rs.25 lakh (with the approval of the appropriate authority).
+
+## 3. Composite loan
+
+A composite loan limit of Rs.1crore can be sanctioned by banks to enable the MSME entrepreneurs to avail of their working capital and term loan requirement through Single Window.
+
+## 4. Specialised SME branches
+
+Public sector banks have been advised to open at least one Specialised branch in each district. Further banks have been permitted to categorise their SME general banking branches having 60% or more of their advances to MSME sector in order to encourage them to open more specialised SME branches for providing better service to this sector as a whole. As per the policy package announced by the Government of India for stepping up credit to MSME sector, the public sector banks will ensure specialized SME branches in identified clusters/centres with preponderance of small enterprises to enable the entrepreneurs to have easy access to the bank credit and to equip bank personnel to develop requisite expertise. The existing specialised SSI branches may be also be redesignated as SME branches. Though their core competence will be utilized for extending finance and other services to MSME sector, they will have operational flexibility to extend finance/render other services to other sectors/borrowers
+
+<!-- PAGE 9 -->
+
+## 5. Delayed Payment
+
+Under the Amendment Act, 1998 of Interest on Delayed Payment to Small Scale and Ancillary Industrial Undertakings, penal provisions have been incorporated to take care of delayed payments to SSI units which inter-alia stipulates a) agreement between seller and buyer shall not exceed more than 120 days b) payment of interest by the buyers at the rate of one and a half times the prime lending rate (PLR) of SBI for any delay beyond the agreed period not exceeding 120 days. Further, banks have been advised to fix sub-limits within the overall working capital limits to the large borrowers specifically for meeting the payment obligation in respect of purchases from SSI. After the enactment of the Micro, Small and Medium Enterprises Development (MSMED), Act 2006, the existing provisions of the Interest on Delayed Payment Act, 1998 to Small Scale and Ancillary Industrial Undertakings, have been strengthened as under:
+
+(i)The buyer to make payment on or before the date agreed on between him and the supplier in writing or, in case of no agreement before the appointed day. The agreement between seller and buyer shall not exceed more than 45 days. (ii)The buyer fails to make payment of the amount to the supplier, he shall be liable to pay compound interest with monthly rests to the supplier on the amount from the appointed day or, on the date agreed on, at three times of the Bank Rate notified by Reserve Bank. (iii)For any goods supplied or services rendered by the supplier, the buyer shall be liable to pay the interest as advised at (ii) above. (iv)In case of dispute with regard to any amount due, a reference shall be made to the Micro and Small Enterprises Facilitation Council, constituted by the respective State Government.
+
+<!-- PAGE 10 -->
+
+## 6. Guidelines on rehabilitation of sick SSI units (based on Kohli Working Group recommendations)
+
+As per the definition, a unit is considered as sick when any of the borrowal account of the unit remains substandard for more than 6 months or there is erosion in the net worth due to accumulated cash losses to the extent of 50% of its net worth during the previous accounting year and the unit has been in commercial production for at least two years. The criteria will enable banks to detect sickness at an early stage and facilitate corrective action for revival of the unit. As per the guidelines, the rehabilitation package should be fully implemented within six months from the date the unit is declared as potentially viable/viable. During this six months period of identifying and implementing rehabilitation package banks/FIs are required to do “holding operation” which will allow the sick unit to draw funds from the cash credit account at least to the extent of deposit of sale proceeds
+
+Following are broad parameters for grant of relief and concessions for revival of potentially viable sick SSI units:
+
+(i) Interest on Working Capital Interest 1.5% below the prevailing fixed/ prime lending rate, wherever applicable (ii) Funded Interest Term Loan Interest Free (iii) Working Capital Term Loan Interest to be charged 1.5% below the prevailing fixed / prime lending rate, wherever applicable (iv) Term Loan Concessions in the interest to be given not
+more than 2 % (not more than 3 % in the case of tiny / decentralised sector units) below the document rate.
+
+(v) Contingency Loan Assistance The Concessional rate allowed for Working Capital Assistance
+
+<!-- PAGE 11 -->
+
+|7.|State Level Inter Institutional Committee In order to deal with the problems of co-ordination for rehabilitation of sick small scale units, State Level Inter-Institutional Committees (SLIICs) have been set up in all the States. The meetings of these Committees are convened by Regional Offices of RBI and presided over by the Secretary, Industry of the concerned State Government. It provides a useful forum for adequate interfacing between the State Government Officials and State Level Institutions on the one side and the term lending institutions and banks on the other. It closely monitors timely sanction of working capital to units which have been provided term loans by SFCs, implementation of special schemes such as Margin Money Scheme of State Government, National Equity Fund Scheme of SIDBI, and reviews general problems faced by industries and sickness in SSI sector based on the data furnished by banks. Among others, the representatives of the local state level SSI associations are invited to the meetings of SLIIC which are held quarterly. A sub- committee of SLIIC looks into the problems of individual sick SSI unit and submits its recommendations to the forum of SLIIC for consideration.|
+|---|---|
+|8.|Empowered Committee on MSMEs As part of the announcement made by the Union Finance Minister, at the Regional Offices of Reserve Bank of India, Empowered Committees on MSMEs have been constituted under the Chairmanship of the Regional Directors with the representatives of SLBC Convenor, senior level officers from two banks having predominant share in MSME financing in the state, representative of SIDBI Regional Office, the Director of Industries of the State Government, one or two senior level representatives from the MSME/SSI Associations in the state, and a senior level officer from SFC/SIDC as members. The Committee will meet periodically and review the progress in MSME financing as also rehabilitation of sick Micro Small and ME units. It will also coordinate with other banks/financial institutions and the state government in removing bottlenecks, if any, to ensure smooth flow of credit to the sector. The committees may decide the need to have similar committees at cluster/district levels.|
+|9.|Debt Restructuring Mechanism for MSMEs As part of announcement made by the Hon'ble Finance Minister for stepping up credit to small and medium enterprises, a debt restructuring mechanism for units in MSME sector has been formulated by Department of Banking Operations & Development of Reserve Bank of India and advised all commercial banks vide circular DBOD. BP. BC. No. 34 / 21.04.132/ 2005-06 dated September 8, 2005. These detailed guidelines have been issued to ensure restructuring of debt of all eligible small and medium enterprises. These guidelines would be applicable to the following entities, which are viable or potentially viable:|
+
+<!-- PAGE 12 -->
+
+a) All non-corporate MSMEs irrespective of the level of dues to banks.
+b) All corporate MSMEs, which are enjoying banking facilities from a single bank, irrespective of the level of dues to the bank.
+c) All corporate MSMEs, which have funded and non-funded outstanding up to Rs.10 crore under multiple/ consortium banking arrangement.
+(d) Accounts involving wilful default, fraud and malfeasance will not be eligible for restructuring under these guidelines.
+(e) Accounts classified by banks as “Loss Assets” will not be eligible for restructuring.
+For all corporate MSMEs, which have funded and non-funded outstanding of Rs.10 crore and above, Department of Banking Operations & Development has issued separate guidelines vide circular DBOD. No.BP. BC.45/ 21.04. 132/2005-06 dated November 10, 2005.
+
+<!-- PAGE 13 -->
+
+## 10 Cluster Approach
+
+60 clusters have been identified by the Ministry of Micro, Small and Medium Enterprises, Government of India for focused development of Small Enterprises sector. All SLBC Convenor banks have been advised to incorporate in their Annual Credit Plans, the credit requirement in the clusters identified by the Ministry of Micro, Small and Medium Enterprises, Government of India. As per Ganguly Committee recommendations banks have been advised that a full-service approach to cater to the diverse needs of the SSI sector may be achieved through extending banking services to recognized SME clusters by adopting a 4-C approach namely, Customer focus, Cost control, Cross sell and Contain risk. A cluster based approach to lending may be more beneficial:
+
+(i) in dealing with well-defined and recognized groups; (ii) availability of appropriate information for risk assessment and (iii) monitoring by the lending institutions. Clusters may be identified based on factors such as trade record, competitiveness and growth prospects and/or other cluster specific data. Government of India, Ministry of Micro, Small and Medium Enterprises has
+**11** conveyed their approval for continuation of the Credit Linked Capital Subsidy Scheme(CLCSS) for Technology Upgradation of Micro and Small Enterprises from X Plan to XI Plan (2007-12) subject to the following terms and conditions:
+
+(i) Ceiling on the loan under the scheme is Rs. 1 crore. (ii) The rate of subsidy is 15% for all units of micro and small enterprises upto loan ceiling at Sr. No. (i) above. (iii) Calculation of admissible subsidy will be done with reference to the purchase price of plant and machinery instead of the term loan disbursed to the beneficiary unit. (iv) SIDBI and NABARD will continue to be the implementing agencies for the scheme
+## 11. Committees on flow of Credit to MSME sector
+
+## 11.1Report of the Committee to Examine the Adequacy of Institutional Credit to
+
+## SME Sector and Related Aspects (Nayak Committee)
+
+The Committee was constituted by Reserve Bank of India in December 1991 under the Chairmanship of Shri P. R. Nayak, the then Deputy Governor to examine the issues confronting SSIs in the matter of obtaining finance. The Committee submitted its report in 1992. All the major recommendations of the Committee have been accepted and the banks have been inter-alia advised to:
+
+<!-- PAGE 14 -->
+
+i) give preference to village industries, tiny industries and other small scale units in that order, while meeting the credit requirements of the small scale sector; ii) grant working capital credit limits to SSI units computed on the basis of minimum 20% of their estimated annual turnover whose credit limit in individual cases is upto Rs.2 crore [ since raised to Rs.5 crore]; iii) prepare annual credit budget on the `bottom-up’ basis to ensure that the legitimate requirements of SSI sector are met in full; iv) extend ‘Single Window Scheme’ of SIDBI to all districts to meet the financial requirements (both working capital and term loan) of SSIs;
+v) ensure that there should not be any delay in sanctioning and disbursal of credit. In case of rejection/curtailment of credit limit of the loan proposal, a reference to higher authorities should be made; vi) not to insist on compulsory deposit as a `quid pro-quo’ for sanctioning the credit; vii) open specialised SSI bank branches or convert those branches which have a fairly large number of SSI borrowal accounts, into specialised SSI branches; viii) identify sick SSI units and take urgent action to put them on nursing programmes; ix) standardise loan application forms for SSI borrowers; and
+x) impart training to staff working at specialised branches to bring about attitudinal change in them.
+## 11.2 Report of the High Level Committee on Credit to SSI (Kapur Committee)
+
+Reserve Bank of India had appointed a one-man High Level Committee headed by Shri S.L. Kapur, (IAS, Retd.), Former Secretary, Government of India, Ministry of Industry to suggest measures for improving the delivery system and simplification of procedures for credit to SSI sector.The Committee made 126 recommendations covering wide range of areas pertaining to financing of SSI sector. These recommendations have been examined by the RBI and it has been decided to accept 88 recommendations which include the following important recommendations:
+
+i) Delegation of more powers to branch managers to grant ad-hoc limits; ii) Simplification of application forms; iii) Freedom to banks to decide their own norms for assessment of credit requirements; iv) Opening of more specialised SSI branches;
+v) Enhancement in the limit for composite loans to Rs. 5 lakh.(*since* *enhanced to Rs.1 crore);*
+
+<!-- PAGE 15 -->
+
+vi) Strengthening the recovery mechanism;
+
+vi) Banks to pay more attention to the backward states;
+
+viii) Special programmes for training branch managers for appraising small projects;
+
+ix) Banks to make customers grievance machinery more transparent and simplify the procedures for handling complaints and monitoring thereof.
+
+## 11.3 Report of the Working Group on Flow of Credit to SSI Sector (Ganguly Committee)
+
+As per the announcement made by the Governor, Reserve Bank of India, in the Mid-Term Review of the Monetary and Credit Policy 2003-2004, a “Working Group on Flow of Credit to SSI sector” was constituted under the Chairmanship of Dr.A.S.Ganguly
+
+The Committee made 31 recommendations covering wide range of areas pertaining to financing of SSI sector. The recommendations pertaining to RBI and banks have been examined and has accepted 8 recommendations so far and commended to banks for implementation which are as under:
+
+i) adoption of cluster based approach for financing MSME sector; ii) sponsoring specific projects as well as widely publicising successful working models of NGOs by Lead Banks which service small and tiny industries and individual entrepreneurs; iii) sanctioning of higher working capital limits by banks operating in the North East region to SSIs, based on their commercial judgement due to the peculiar situation of hilly terrain and frequent floods causing hindrance in the transportation system; iv) exploring new instruments by banks for promoting rural industry and to improve the flow of credit to rural artisans, rural industries and rural entrepreneurs, and
+v) revision of tenure as also interest rate structure of deposits kept by foreign banks with SIDBI for their shortfall in priority sector lending.
+## 11.4 Internal Group to Review Guidelines on Credit Flow to SME Sector
+
+An Internal Group was constituted under the Chairmanship of Shri C.S.Murthy, CGM-in-Charge, RPCD, Central Office, Reserve Bank of India, to inter-alia review all circulars and guidelines issued by Reserve Bank in the past regarding financing of SSIs, to suggest appropriate terms for restructuring of the borrowal accounts of SSI/Medium Enterprises and also to examine the guidelines issued by Reserve Bank for nursing sick SSIs and suggest suitable relaxation and liberalization of these norms.The Group has submitted its report on June 6,
+
+<!-- PAGE 16 -->
+
+The internal group has recommended:
+
+(i) Constitution of empowered committees at the regional office of Reserve Bank to periodically review the progress in SSI and Medium Enterprises financing and also to coordinate with other banks/financial institutions and the state government in removing bottlenecks, if any, to ensure smooth flow of credit to the sector. (ii) Opening of specialised SME branches in identified clusters/centres with preponderance of SSI and ME units to enable the entrepreneurs to have easy access to the bank credit and to equip bank personnel to develop the requisite expertise. (iii) The group has proposed to empower the boards of banks to formulate policies relating to restructuring of accounts of SME units subject to certain guidelines. Restructuring of accounts of corporate SSI/ME borrowers having credit limits aggregating Rs.10 crore or more under multiple banking arrangements will be covered under the revised CDR mechanism. (iv) While recommending continuation of the extant guidelines on definition of a sick SSI unit, the group has recommended that all other instructions relating to viability and parameters for relief and concessions to be provided to sick SSI units, as prescribed by the Reserve Bank be withdrawn and banks be given freedom to lay down their own guidelines with the approval of their Board of Directors. Majority of the recommendations of the Group have been accepted by the Government of India and incorporated as part of policy package announced by the Union Finance Minister for stepping up credit to SME sector.
+## 12. Policy Package for Stepping up Credit to Small and Medium Enterprises-
+
+## Announced by the Union Finance Minister
+
+Based on the policy package announced by the Union Finance Minister for stepping up credit to small and medium enterprises, two circulars have been issued separately to public sector banks (RPCD.PLNFS. BC.No.31/
+
+06.02.31/200506 dated August 19, 2005) and private, foreign banks and RRBs (RPCD.PLNFS. BC.No.35/ 06.02.31 / 2005 -06 dated August 25, 2005) for implementation. Some of the salient features of the policy package are:
+- Definition of Small and Medium Enterprises (SMEs)
+- Fixing of self-targets for financing to SME sector by banks
+- Measures to rationalize the cost of loans to SME sector
+- Measures to increase the outreach of formal credit to the SME sector
+- Cluster based approach for financing SME sector
+- Constitution of Empowered Committees for SMEs in the Regional Offices of Reserve Bank
+- Steps to rationalize the cost of loans to SME sector by adopting a transparent rating system with cost of credit being linked to the credit rating of enterprise.
+- Banks to consider taking advantage of Credit Appraisal & Rating Tool (CART), Risk Assessment Model (RAM) and the comprehensive rating model for risk assessment of SME proposals, developed by SIDBI for reduction of their transaction costs.
+
+<!-- PAGE 17 -->
+
+- Banks to consider the ratings of SSI units carried out through reputed credit rating agencies under the Credit Rating Scheme introduced by National Small Industries Corporation.
+- Wider dissemination and easy accessibility of the policy guidelines formulated by Boards of banks as well as instructions/guidelines issued by Reserve Bank by displaying them on the respective banks’ web sites as well as web site of SIDBI and also prominently displaying them at the bank branches. A copy of the “Policy Package for stepping up Credit to SME Sector”, announced by the Union Finance Minister in the Parliament on August 10, 2005 is furnished in ***Annexure IV**.*
+## 13. Micro, Small & Medium Enterprises Development (MSMED) Act, 2006
+
+The Government of India has enacted the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006 on June 16, 2006 which was notified on October 2, 2006. Consistent with the notification of the Micro, Small and Medium Enterprises Development (MSMED) Act 2006, the definition of micro, small and medium enterprises engaged in manufacturing or production and providing or rendering of services has been modified and is required to be implemented by the banks alongwith other policy measures with immediate effect as advised vide circular RPCD.PLNFS.BC.No.63/06.02.31/2006-07 dated April 4, 2007.
+
+## 14. Banking Codes and Standard Board of India (BCSBI)
+
+The Banking Codes and Standard Board of India (BCSBI) has formulated a Code of Bank's Commitment to Micro and Small Enterprises. This is a voluntary Code, which sets minimum standards of banking practices for banks to follow when they are dealing with Micro and Small Enterprises (MSEs) as defined in the Micro Small and Medium Enterprises Development (MSMED) Act, 2006. It provides protection to MSE and explains how banks are expected to deal with MSE for their day to-day operations and in times of financial difficulty.
+
+The Code does not replace or supersede regulatory or supervisory instructions issued by the Reserve Bank of India (RBI) and will comply with such instructions /directions issued by the RBI from time to time.
+
+## 14.1 Objectives Of The Code
+
+The Code has been developed to
+
+a. Give a positive thrust to the MSE sector by providing easy access to efficient banking services.
+b. Promote good and fair banking practices by setting minimum standards in dealing with MSE.
+c. Increase transparency so that a better understanding of what can reasonably expected of the services.
+d. Improve our understanding of business through effective communication.
+e. Encourage market forces, through competition, to achieve higher operating standards.
+f. Promote a fair and cordial relationship between MSE and banks and also
+
+<!-- PAGE 18 -->
+
+ensure timely and quick response to banking needs.
+
+g. Foster confidence in the banking system. The complete text of the Code is available at the BCSBI's website www.bcsbi.org.in
+
+<!-- PAGE 19 -->
+
+## Annexure I
+
+## MINISTRY OF SMALL SCALE INDUSTRIES
+
+## NOTIFICATION
+
+**th** **New Delhi, the 5 October, 2006**
+
+S.O. 1722(E) – In exercise of the powers conferred by sub-section (1) of 2006) herein referred to as the said Act, the Central Government specifies the following items, the cost of which shall be excluded while calculating the investment in plant and machinery in the case of the enterprises mentioned in Section 7(1)(a) of the said Act, namely:
+(i) equipment such as tools, jigs, dyes, moulds and spare parts for maintenance and the cost of consumables stores; (ii) installation of plant and machinery; (iii) research and development equipment and pollution controlled equipment (iv) power generation set and extra transformer installed by the enterprise as per regulations of the State Electricity Board;
+(v) bank charges and service charges paid to the National Small Industries Corporation or the State Small Industries Corporation; (vi) procurement or installation of cables, wiring, bus bars, electrical control panels (not mounded on individual machines), oil circuit breakers or miniature circuit breakers which are necessarily to be used for providing electrical power to the plant and machinery or for safety measures; (vii) gas producers plants; (viii) transportation charges ( excluding sales-tax or value added tax and excise duty) for indigenous machinery from the place of the manufacture to the site of the enterprise; (ix) charges paid for technical know-how for erection of plant and machinery;
+(x) such storage tanks which store raw material and finished produces and are not linked with the manufacturing process; and (xi) fire fighting equipment.
+
+<!-- PAGE 20 -->
+
+2. While calculating the investment in plant and machinery refer to paragraph 1, the original price thereof, irrespective of whether the plant and machinery are new or second handed, shall be taken into account provided that in the case of imported machinery, the following shall be included in calculating the value, namely;
+(i) Import duty (excluding miscellaneous expenses such as transportation from the port to the site of the factory, demurrage paid at the port); (ii) Shipping charges; (iii) Customs clearance charges; and (iv) Sales tax or value added tax.
+(F.No.4(1)/2006-MSME- Policy) JAWHAR SIRCAR, Addl. Secy.
+
+<!-- PAGE 21 -->
+
+## Annexure II
+
+## LIST OF SME CLUSTERS COVERED BY EXISTING
+
+## SIDBI BRANCHES
+
+## Product
+
+|Sr. Branch Offices|No.of SSI||
+|---|---|---|
+|No.|clusters||
+|1 Hyderabad|5|Ceiling Fan, Electronic Goods, Pharmaceuticals- Bulk Drugs, Hand Pump sets & Foundry|
+|2 Patna|1|Brass and German Utensils|
+|3 Delhi|19|Stainless Steel Utensils & Cutlery, Chemicals,|
+
+Electrical Engineering Equipment, Electronic Goods, Food Products, Leather Products, Mechanical Engineering Equipment, Packaging Material, Paper Products, Plastic Products, Wire Drawing, Metal Fabrication, Furniture, Electro Plating, Auto Components, Hosiery, Readymade Garments, Sanitary Fittings 4 Ahmedabad 17 Pharmaceuticals, Dyes & Intermediates, Moulded Plastic Products, Readymade Garments, Textile Machinery Parts, Diamond Processing, Machine Tools, Castings & Forging, Steel Utensils, Wood Product & Furniture, Paper Products, Leather Footwear, Washing Powder & Soap, Marble Slabs, Power Driven Pumps, Electronic Goods, Auto Parts
+
+|5 Surat|4|Diamond Processing, Powerloom, Wood|
+|---|---|---|
+|||Product & Furniture, Textile Machinery|
+|6 Baroda|3|Pharmaceutical- Bulk drugs, Plastic processing & Wood product & furniture|
+|7 Goa|1|Pharmaceutical|
+|8 Faridabad|3|Auto components, Engineering Cluster, Stone Crushing|
+|9 Gurgaon 10 Parwanoo(Baddi) 1 Engineering Equipment|5|Auto Components, Electronic Goods, Electrical Engineering Equipment, Readymade Garments, Mechanical Engineering Equipment|
+|11 Jammu|3|Steel Re-rolling, Oil mills, Rice Mills|
+|12 Jamshedpur|1|Engineering & Fabrication|
+|13 Bangalore|6|Powerloom, Electronic goods, Readymade garments, Light engineering, Leather products|
+|14 Kochi/Ernakulam|3|Rubber products, Powerlooms & Sea Food processing|
+|15 Aurangabad|2|Auto components & Pharmaceuticals- Bulk|
+
+drugs
+
+<!-- PAGE 22 -->
+
+|16|Mumbai|11|Electronic Goods, Pharmaceutical-Basic drugs, Toys (plastic), Ready made garments, Hosiery, Machine Tools, Engineering equipment, Chemicals, Packaging material, Handtools, Plastic products|
+|---|---|---|---|
+|17|Nagpur|6|Powerlooms, Engineering & Fabrication, Steel furniture, Ready made garments, Handtools, Food processing|
+|18|Pune|6|Auto components, Electronic goods, Food products, Ready made Garments, Pharmaceuticals –Bulk Drugs, Fibre glass|
+|19|Thane|2|Pharmaceuticals –Bulk Drugs & Sea food|
+||20 Bhopal|1|Engineering equipment|
+|21|Indore|4|Pharmaceuticals- Bulk drugs, Readymade garments, food processing, Auto components|
+|22|Ludhana|9|Auto Components, Bicycle Parts, Hosiery, Sewing M/C Components, Industrial Fastners, Handtools, Machine tools, Forging, Electroplating|
+|23|Jaipur|7|Gems & Jewellery, Ball Bearing, Electrical Engineering Equipment, Food Products, Garments, Lime, Mechanical Engineering Equipment|
+|24|Chennai|3|Auto components, Leather products, Electroplating|
+||25 Coimbatore|6|Diesel Engines, Agricultural Implements, Machine Tools, Castings & Forging, Powerloom, Wet Grinding Machines|
+||26 Tirupur|1|Hosiery|
+||27 Noida/Gaziabad|10|Electronic goods, Toys, Chemicals, Electrical engineering equipment, Garments, Mechanical engineering equipment, Packaging material, Plastic products, Chemicals|
+|28|Kanpur|3|Saddlery, Cotton hosiery, Leather products|
+|29|Varanasi|4|Sheetwork (Globe Lamp), Powerloom, Agriculture implements, Electric fan|
+|30 31|Dehradun Nashik (shortly to be opened) Total|1 149|Miniature Vacuum bulb 1 Steel furniture|
+
+<!-- PAGE 23 -->
+
+# Annexure III
+
+## <u>List of SME Clusters in India (identified by UNIDO)</u>
+
+|S. State|District|Location|Product|
+|---|---|---|---|
+|No.||||
+|1 Andhra|Anantpur|Rayadurg|Readymade Garments|
+|Pradesh||||
+|2 Andhra|Anantpur|Chitradurg|Jeans Garments|
+|Pradesh||||
+|3 Andhra|Chittoor|Nagari|Powerloom|
+|Pradesh||||
+|4 Andhra|Chittoor|Ventimalta, Srikalahasti, Chundur|Brass Utensils|
+|Pradesh||||
+|5 Andhra|East Godavari|East Godavari|Rice Mills|
+|Pradesh||||
+|6 Andhra|East Godavari|Rajahmundry|Graphite Crucibles|
+|Pradesh||||
+|7 Andhra|East Godavari|East Godavari|Coir & Coir Products|
+|Pradesh||||
+|8 Andhra|East Godavari|Rajahmundry|Aluminium Utensils|
+|Pradesh||||
+|9 Andhra|East Godavari &|East Godavari(EG) & West Godavari|Refractory Products|
+|Pradesh|West Godavari|||
+|10 Andhra|Guntur|Guntur|Powerloom|
+|Pradesh||||
+|11 Andhra|Guntur|Guntur|Lime Calcination|
+|Pradesh||||
+|12 Andhra|Guntur|Macherla|Wooden Furniture|
+|Pradesh||||
+|13 Andhra|Hyderabad|Hyderabad|Ceilling Fan|
+|Pradesh||||
+|14 Andhra|Hyderabad|Hyderabad|Electronic Goods|
+|Pradesh||||
+|15 Andhra|Hyderabad|Hyderabad|Pharmaceuticals- Bulk|
+|Pradesh|||Drugs|
+|16 Andhra|Hyderabad|Musheerabad|Leather Tanning|
+|Pradesh||||
+|17 Andhra|Hyderabad|Hyderabad|Hand Pumpsets|
+|Pradesh||||
+|18 Andhra|Hyderabad|Hyderabad|Foundry|
+|Pradesh||||
+|19 Andhra|Karimnagar|Sirsilla|Powerloom|
+|Pradesh||||
+|20 Andhra|Krishna|Machilipatnam|Gold Plating & Imitation|
+|Pradesh|||Jewellery|
+|21 Andhra|Krishna|Vijayawada|Rice Mills|
+|Pradesh||||
+|22 Andhra|Krishna|Chundur, Kavadiguda,|Steel Furniture|
+|Pradesh||Charminar,Vijayawada||
+|23 Andhra|Kurnool|Adoni|Oil Mills|
+|Pradesh||||
+|24 Andhra|Kurnool|Kurnool|Artificial Diamonds|
+|Pradesh||||
+|25 Andhra|Kurnool, Cuddapah|Kurnool(Banaganapalle, Polished Slabs||
+
+<!-- PAGE 24 -->
+
+|Pradesh||Bethamcheria,Kolimigundla)Cuddapah||
+|---|---|---|---|
+|26 Andhra Pradesh|Prakasam|Markapuram|Stone Slate|
+|27 Andhra Pradesh|Ranga Reddy|Balanagar, Jeedimetla & Kukatpally|Machine Tools|
+|28 Andhra Pradesh|Srikakulam|Palasa|Cashew Processing|
+|29 Andhra|Visakhapatnam,East Visakhapatnam, Kakinada||Marine Foods|
+|Pradesh|Godavari|||
+|30 Andhra Pradesh|Warangal|Warangal|Powerloom|
+|31 Andhra Pradesh|Warangal|Warangal|Brassware|
+|32 Andhra Pradesh|West Godavari|West Godavari|Rice Mills|
+|33 Bihar|Begusarai|Barauni|Engineering & Fabrication|
+|34 Bihar|Muzzafarpur|Muzzafarpur|Food Products|
+|35 Bihar|Patna|Patna|Brass and German Silver Utensils|
+|36 Chhattisgarh Durg, Rajnandgaon, Durg, Rajnandgaon, Raipur|Raipur||Steel Re-rolling|
+|37 Chhattisgarh Durg, Raipur||Durg, Raipur|Castings & Metal Fabrication|
+|38 Delhi|North West Delhi|Wazirpur, Badli|Stainless Steel Utensils & Cutlery|
+|39 Delhi|South & West Delhi|Okhla, Mayapuri|Chemicals|
+|40 Delhi|West & South|Naraina & Okhla|Electrical Engineering Equipment|
+|41 Delhi|West & South|Naraina & Okhla|Electronic Goods|
+|42 Delhi|North Delhi|Lawrence Road|Food Products|
+|43 Delhi|South Delhi|Okhla, Wazirpur Flatted Factories Complex|Leather Products|
+|44 Delhi|South, West Delhi|Okhla,Mayapuri, Anand Parbat|Mechanical Engineering Equipment|
+|45 Delhi|West,South, East|Naraina,Okhla, Patparganj|Packaging Material|
+||Delhi|||
+|46 Delhi|West & South|Naraina & Okhla|Paper Products|
+|47 Delhi|West & South|Naraina Udyog Nagar & Okhla|Plastic Products|
+|48 Delhi|West, South, North|Naraina,Okhla,Shivaji Marg,Najafgarh Rubber Products||
+||West|Road||
+|49 Delhi|North East Delhi|Shahadara & Vishwasnagar|Wire Drawing|
+|50 Delhi|West & North West|Mayapuri & Wazirpur|Metal Fabrication|
+|51 Delhi|West & North East|Kirtinagar & Tilak Nagar|Furniture|
+|52 Delhi|North West Delhi|Wazirpur|Electro Plating|
+|53 Delhi|South,West,North|Okhla, Mayapuri,Naraina, Wazirpur|Auto Components|
+||West & North West|Badli & G.T. Karnal Road||
+|54 Delhi|North East Delhi,|Shahdara,Gandhinagar, Okhla &|Hosiery|
+||East Delhi & South|Maidangari||
+|55 Delhi|South & North East|Okhla & Shahdara|Readymade Garments|
+|56 Delhi|South Delhi|Okhla|Sanitary Fittings|
+|57 Gujarat|Ahmedabad|Ahmedabad|Pharmaceuticals|
+|58 Gujarat|Ahmedabad|Ahmedabad|Dyes & Intermediates|
+|59 Gujarat|Ahmedabad|Ahmedabad|Moulded Plastic Products|
+
+<!-- PAGE 25 -->
+
+60 Gujarat Ahmedabad Ahmedabad Readymade Garments 61 Gujarat Ahmedabad Ahmedabad Textile Machinery Parts 62 Gujarat Ahmedabad Ahmedabad, Dhanduka Diamond Processing
+
+|62 Gujarat|Ahmedabad|Ahmedabad, Dhanduka|Diamond Processing|
+|---|---|---|---|
+|63 Gujarat|Ahmedabad|Ahmedabad|Machine Tools|
+|64 Gujarat|Ahmedabad|Ahmedabad|Castings & Forging|
+|65 Gujarat|Ahmedabad|Ahmedabad|Steel Utensils|
+|66 Gujarat|Ahmedabad|Ahmedabad|Wood Product & Furniture|
+|67 Gujarat|Ahmedabad|Ahmedabad|Paper Products|
+|68 Gujarat|Ahmedabad|Ahmedabad|Leather Footware|
+|69 Gujarat|Ahmedabad|Ahmedabad|Washing Powder & Soap|
+|70 Gujarat|Ahmedabad|Ahmedabad|Marble Slabs|
+|71 Gujarat|Ahmedabad|Ahmedabad|Power Driven Pumps|
+|72 Gujarat|Ahmedabad|Ahmedabad|Electronic Goods|
+|73 Gujarat|Ahmedabad|Ahmedabad|Auto Parts|
+|74 Gujarat|Amreli|Savarkundla|Weights & Measures|
+|75 Gujarat|Amrelli, Juna Garh, Rajkot|Amrelli Juna Garh Rajkot belt|Oil Mills Machinery|
+|76 Gujarat|Bhavnagar|Alang|Ship Breaking|
+|77 Gujarat|Bhavnagar|Bhavnagar|Steel Re-rolling|
+|78 Gujarat|Bhavnagar|Bhavnagar|Machine Tools|
+|79 Gujarat|Bhavnagar|Bhavnagar|Plastic Processing|
+|80 Gujarat|Bhavnagar|Bhavnagar|Diamond Processing|
+|81 Gujarat|Gandhinagar|Kalol|Powerloom|
+|82 Gujarat|Jamnagar|Jamnagar|Brass Parts|
+|83 Gujarat|Jamnagar|Jamnagar|Wood Product & Furniture|
+|84 Gujarat|Mahesana|Vijapur|Cotton Cloth Weaving|
+|85 Gujarat|Rajkot|Dhoraji, Gondal, Rajkot|Oil Mills|
+|86 Gujarat|Rajkot|Jetpur|Textile Printing|
+|87 Gujarat|Rajkot|Morvi & Wankaner|Flooring Tiles(Clay)|
+|88 Gujarat|Rajkot|Morvi|Wall Clocks|
+|89 Gujarat|Rajkot|Rajkot|Diesel Engines|
+|90 Gujarat|Rajkot|Rajkot|Electric Motors|
+|91 Gujarat|Rajkot|Rajkot|Castings & Forging|
+|92 Gujarat|Rajkot|Rajkot|Machine Tools|
+|93 Gujarat|Rajkot|Rajkot|Diamond Processing|
+|94 Gujarat|Surat|Surat, Choryasi|Diamond Processing|
+|95 Gujarat|Surat|Surat|Powerloom|
+|96 Gujarat|Surat|Surat|Wood Product & Furniture|
+|97 Gujarat|Surat|Surat|Textile Machinery|
+|98 Gujarat|Surendranagar|Surendranagar & Thangadh|Ceramics|
+|99 Gujarat|Surendranagar|Chotila|Sanitary Fittings|
+|100 Gujarat|Vadodara|Vadodara|Pharmaceuticals- Bulk|
+||||Drugs|
+|101 Gujarat|Vadodara|Vadodara|Plastic Processing|
+|102 Gujarat|Vadodara|Vadodara|Wood Product & Furniture|
+|103 Gujarat|Valsad|Pardi|Dyes & Intermediates|
+|104 Gujarat|Valsad/Bharuch|Vapi/Ankleshwar|Chemicals|
+|105 Gujarat|Valsad/Bharuch|Vapi/Ankleshwar|Pharmaceuticals- Bulk|
+||||Drugs|
+|106 Goa|South Goa|Margao|Pharmaceutical|
+
+<!-- PAGE 26 -->
+
+107 Haryana 108 Haryana 109 Haryana 110 Haryana 111 Haryana 112 Haryana 113 Haryana 114 Haryana 115 Haryana 116 Haryana
+
+117 Haryana 118 Haryana
+
+119 Haryana 120 Haryana 121 Haryana
+
+Ambala Ambala Bhiwani Bhiwani Faridabad Faridabad Faridabad Gurgaon Gurgaon Gurgaon
+
+Gurgaon Gurgaon
+
+Kaithal Karnal Karnal,
+
+Ambala Ambala Bhiwani Bhiwani Faridabad Faridabad Faridabad Gurgaon Gurgaon Gurgaon
+
+Gurgaon Gurgaon
+
+Kaithal Karnal Karnal,Kurukshetra,Panipat
+
+Mixies & Grinders Scientific Instruments Powerloom Stone Crushing Auto Components Engineering Cluster Stone Crushing Auto Components Electronic Goods Electrical Engineering Equipment Readymade Garments Mechanical Engineering Equipment Rice Mills Agricultural Implements Rice Mills
+
+|121 Haryana|Karnal,|Karnal,Kurukshetra,Panipat|Rice Mills|
+|---|---|---|---|
+||Kurukshetra,Panipat|||
+|122 Haryana|Panchkula|Pinjore|Engineering Equipment|
+|123 Haryana|Panchkula|Panchkula|Stone Crushing|
+|124 Haryana|Panipat|Panipat|Powerloom|
+|125 Haryana|Panipat|Panipat|Shoddy Yarn|
+|126 Haryana|Panipat|Samalkha|Foundry|
+|127 Haryana|Panipat|Panipat|Cotton Spinning|
+|128 Haryana|Rohtak|Rohtak|Nuts/ Bolts|
+|129 Haryana|Yamuna Nagar|Yamuna Nagar|Plywood/Board/Blackboard|
+|130 Haryana|Yamunanagar|Jagadhri|Utensils|
+|131 Himachal|Kullu & Sirmaur|Kullu & Sirmaur|Food Processing|
+|Pradesh||||
+|132 Himachal|Kangra|Damtal|Stone Crushing|
+|Pradesh||||
+|133 Himachal|Solan|Parwanoo|Engineering Equipment|
+|Pradesh||||
+|134 Jammu &|Anantnag|Anantnag|Cricket Bat|
+|Kashmir||||
+|135 Jammu &|Jammu|Jammu|Steel Re-rolling|
+|Kashmir||||
+|136 Jammu &|Jammu/ Kathua|Jammu/ Kathua|Oil Mills|
+|Kashmir||||
+|137 Jammu &|Jammu/ Kathua|Jammu/ Kathua|Rice Mills|
+|Kashmir||||
+|138 Jammu &|Srinagar|Srinagar|Timber Joinery/ Furniture|
+|Kashmir||||
+|139 Jharkhand|Sarikela-Kharsawan Adityapur||Auto Components|
+|140 Jharkhand|East Singhbhum|Jamshedpur|Engineering & Fabrication|
+|141 Jharkhand|Bokaro|Bokaro|Engineering & Fabrication|
+|142 Karnataka|Bangalore|Bangalore|Machine Tools|
+|143 Karnataka|Bangalore|Bangalore|Powerloom|
+|144 Karnataka|Bangalore|Bangalore|Electronic Goods|
+|145 Karnataka|Bangalore|Bangalore|Readymade Garments|
+|146 Karnataka|Bangalore|Bangalore|Light Engineering|
+|147 Karnataka|Bangalore|Bangalore|Leather Products|
+
+<!-- PAGE 27 -->
+
+148 Karnataka Belgaum Belgaum Foundry 149 Karnataka Belgaum Belgaum Powerloom 150 Karnataka Bellary Bellary Jeans Garments 151 Karnataka Bijapur Bijapur Oil Mills 152 Karnataka Dharwad Hubli, Dharwad Agriculture Implements
+
+|152 Karnataka|Dharwad|Hubli, Dharwad|Agriculture Implements|
+|---|---|---|---|
+||||and Tractor Trailer|
+|153 Karnataka|Gadag|Gadag Betgeri|Powerloom|
+|154 Karnataka|Gulburga|Gulburga Gadagh belt|Dal Mills|
+|155 Karnataka|Hassan|Arasikara|Coir & Coir Products|
+|156 Karnataka|Mysore|Mysore|Food Products|
+|157 Karnataka|Mysore|Mysore|Silk|
+|158 Karnataka|Raichur|Raichur|Leather Products|
+|159 Karnataka|Shimoga|Shimoga|Rice Mills|
+|160 Karnataka|South Kannada|Mangalore|Food Products|
+|161 Kerala|Alappuzha|Alappuzha|Coir & Coir Products|
+|162 Kerala|Ernakulam|Ernakulam|Rubber Products|
+|163 Kerala|Ernakulam|Ernakulam|Powerloom|
+|164 Kerala|Ernakulam|Kochi|Sea Food Processing|
+|165 Kerala|Kannur|Kannur|Powerloom|
+|166 Kerala|Kollam|Kollam|Coir & Coir Products|
+|167 Kerala|Kottayam|Kottayam|Rubber Products|
+|168 Kerala|Mallappuram|Mallappuram|Powerloom|
+|169 Kerala|Palakkad|Palakkad|Powerloom|
+|170 Kerala||Faizlure|Powerloom|
+|171 Maharashtra Ahmednagar||Ahmednagar|Auto Components|
+|172 Maharashtra Akola||Akola|Oil Mills (Cotton seed)|
+|173 Maharashtra Akola||Akola|Dal Mills|
+|174 Maharashtra Aurangabad||Aurangabad|Auto Components|
+|175 Maharashtra Aurangabad||Aurangabad|Pharmaceuticals- Bulk|
+||||Drugs|
+|176 Maharashtra Bhandara||Bhandara|Rice Mills|
+|177 Maharashtra Chandrapur||Chandrapur|Roofing Tiles|
+|178 Maharashtra Chandrapur||Chandrapur|Rice Mills|
+|179 Maharashtra Dhule||Dhule|Chilly Powder|
+|180 Maharashtra Gadchiroli||Gadchiroli|Castings & Forging|
+|181 Maharashtra Gadchiroli||Gadchiroli|Rice Mills|
+|182 Maharashtra Gondia||Gondiya|Rice Mills|
+|183 Maharashtra Jalgaon||Jalgaon|Dal Mills|
+|184 Maharashtra Jalgaon||Jalgaon|Agriculture Implements|
+|185 Maharashtra Jalna||Jalna|Engineering Equipment|
+|186 Maharashtra Kolhapur||Kolhapur|Diesel Engines|
+|187 Maharashtra Kolhapur||Kolhapur|Foundry|
+|188 Maharashtra Kolhapur||Ichalkaranji|Powerloom|
+|189 Maharashtra Mumbai||Mumbai|Electronic Goods|
+|190 Maharashtra Mumbai||Mumbai|Pharmaceutical-Basic|
+||||Drugs|
+|191 Maharashtra Mumbai||Mumbai|Toys (Plastic)|
+|192 Maharashtra Mumbai||Mumbai|Readymade Garments|
+|193 Maharashtra Mumbai||Mumbai|Hosiery|
+|194 Maharashtra Mumbai||Mumbai|Machine Tools|
+
+<!-- PAGE 28 -->
+
+|195 Maharashtra Mumbai|Mumbai|Engineering Equipment|
+|---|---|---|
+|196 Maharashtra Mumbai|Mumbai|Chemicals|
+|197 Maharashtra Mumbai|Mumbai|Packaging Material|
+|198 Maharashtra Mumbai|Mumbai|Handtools|
+|199 Maharashtra Mumbai|Mumbai|Plastic Products|
+|200 Maharashtra Nagpur|Nagpur|Powerloom|
+|201 Maharashtra Nagpur|Nagpur|Engineering & Fabrication|
+|202 Maharashtra Nagpur|Nagpur|Steel Furniture|
+|203 Maharashtra Nagpur|Nagpur(Butibori)|Readymade Garments|
+|204 Maharashtra Nagpur|Nagpur|Handtools|
+|205 Maharashtra Nagpur|Nagpur|Food Processing|
+|206 Maharashtra Nanded|Nanded|Dal Mills|
+|207 Maharashtra Nashik|Malegaon|Powerloom|
+|208 Maharashtra Nashik|Nashik|Steel Furniture|
+|209 Maharashtra Pune|Pune|Auto Components|
+|210 Maharashtra Pune|Pune|Electronic Goods|
+|211 Maharashtra Pune|Pune|Food Products|
+|212 Maharashtra Pune|Pune|Readymade Garments|
+|213 Maharashtra Pune|Pune|Pharmaceuticals- Bulk|
+|||Drugs|
+|214 Maharashtra Pune|Pune|Fibre Glass|
+|215 Maharashtra Ratnagiri|Ratnagiri|Canned & Processed Fish|
+|216 Maharashtra Sangli|Sangli|M S Rods|
+|217 Maharashtra Sangli|Madhavanagar|Powerloom|
+|218 Maharashtra Satara|Satara|Leather Tanning|
+|219 Maharashtra Sholapur|Sholapur|Powerloom|
+|220 Maharashtra Sindhudurg|Sindhudurg|Cashew Processing|
+|221 Maharashtra Sindhudurg|Sindhudurg|Copper Coated Wires|
+|222 Maharashtra Thane|Bhiwandi|Powerloom|
+|223 Maharashtra Thane|Kalyan|Confectionery|
+|224 Maharashtra Thane|Vashind|Chemicals|
+|225 Maharashtra Thane|Tarapur, Thane-Belapur|Pharmaceuticals- Bulk|
+|||Drugs|
+|226 Maharashtra Thane|Thane|Sea Food|
+|227 Maharashtra Wardha|Wardha|Solvent Oil|
+|228 Maharashtra Yavatmal|Yavatmal|Dal Mills|
+|229 Madhya|Bhopal|Engineering Equipment|
+|Pradesh|||
+|230 Madhya|Dewas|Electrical Goods|
+|Pradesh|||
+|231 Madhya|Burhanpur|Powerloom|
+|Pradesh|||
+|232 Madhya|Indore|Pharmaceuticals-Bulk|
+|Pradesh||Drugs|
+|233 Madhya|Indore|Readymade Garments|
+|Pradesh|||
+|234 Madhya|Indore|Food Processing|
+|Pradesh|||
+|235 Madhya|Pithampur|Auto Components|
+|Pradesh|||
+|236 Madhya|Jabalpur|Readymade Garments|
+
+Bhopal Dewas East Nimar Indore Indore Indore Indore Jabalpur
+
+<!-- PAGE 29 -->
+
+Pradesh 237 Madhya Jabalpur Jabalpur Powerloom Pradesh 238 Madhya Ujjain Ujjain Powerloom Pradesh 239 Orissa Balangir Balangir Rice Mills 240 Orissa Balasore Balasore Rice Mills 241 Orissa Balasore Balasore Powerloom 242 Orissa Cuttack Cuttack Rice Mills 243 Orissa Cuttack Cuttack Chemicals & Pharmaceuticals 244 Orissa Cuttack Cuttack(Jagatpur) <u>Engineering & Fabrication</u>
+
+|244 Orissa|Cuttack|Cuttack(Jagatpur)|Engineering & Fabrication|
+|---|---|---|---|
+|245 Orissa|Cuttack|Cuttack|Spices|
+|246 Orissa|Dhenkanal|Dhenkanal|Powerloom|
+|247 Orissa|Ganjam|Ganjam|Powerloom|
+|248 Orissa|Ganjam|Ganjam|Rice Mills|
+|249 Orissa|Koraput|Koraput|Rice Mills|
+|250 Orissa|Puri|Puri|Rice Mills|
+|251 Orissa|Sambhalpur|Sambhalpur|Rice Mills|
+|252 Punjab|Amritsar|Amritsar|Rice Mills|
+|253 Punjab|Amritsar|Amritsar|Shoddy Yarn|
+|254 Punjab|Amritsar|Amritsar|Powerloom|
+|255 Punjab|Fatehgarh Sahib|Mandi Govindgarh|Steel Re-rolling|
+|256 Punjab|Gurdaspur|Batala|Machine Tools|
+|257 Punjab|Gurdaspur|Batala,Gurdaspur|Rice Mills|
+|258 Punjab|Gurdaspur|Batala|Castings & Forging|
+|259 Punjab|Jalandhar|Jalandhar|Sports Goods|
+|260 Punjab|Jalandhar|Jalandhar|Agricultural Implements|
+|261 Punjab|Jalandhar|Jalandhar|Handtools|
+|262 Punjab|Jalandhar|Jalandhar|Rubber Goods|
+|263 Punjab|Jalandhar|Kartarpur|Wooden Furniture|
+|264 Punjab|Jalandhar|Jalandhar|Leather Tanning|
+|265 Punjab|Jalandhar|Jalandhar|Leather Footwear|
+|266 Punjab|Jalandhar|Jalandhar|Surgical Instruments|
+|267 Punjab|Kapurthala|Kapurthala|Rice Mills|
+|268 Punjab|Kapurthala|Phagwara|Diesel Engines|
+|269 Punjab|Ludhiana|Ludhiana|Auto Components|
+|270 Punjab|Ludhiana|Ludhiana|Bicycle Parts|
+|271 Punjab|Ludhiana|Ludhiana|Hosiery|
+|272 Punjab|Ludhiana|Ludhiana|Sewing M/C Components|
+|273 Punjab|Ludhiana|Ludhiana|Industrial Fastners|
+|274 Punjab|Ludhiana|Ludhiana|Handtools|
+|275 Punjab|Ludhiana|Ludhiana|Machine Tools|
+|276 Punjab|Ludhiana|Ludhiana|Forging|
+|277 Punjab|Ludhiana|Ludhiana|Electroplating|
+|278 Punjab|Moga|Moga|Wheat Threshers|
+|279 Punjab|Patiala|Patiala|Agricultural Implements|
+|280 Punjab|Patiala|Patiala|Cutting Tools|
+|281 Punjab|Sangrur|Sangrur|Rice Mills|
+|282 Rajasthan|Alwar,S. Madhopur, Alwar,S. Madhopur Bharatpur belt||Oil Mills|
+
+<!-- PAGE 30 -->
+
+Bharatpur
+
+|283 Rajasthan|Ajmer|Kishangarh|Marbe Slabs|
+|---|---|---|---|
+|284 Rajasthan|Ajmer|Kishangarh|Powerloom|
+|285 Rajasthan|Alwar|Alwar|Chemicals|
+|286 Rajasthan|Bikaner|Bikaner|Papad Mangodi, Namkin|
+|287 Rajasthan|Bikaner|Bikaner|Plaster of Paris|
+|288 Rajasthan|Dausa|Mahuwa|Sand Stone|
+|289 Rajasthan|Gaganagar|Ganganagar|Food Processing|
+|290 Rajasthan|Jaipur|Jaipur|Gems & Jewellery|
+|291 Rajasthan|Jaipur|Jaipur|Ball Bearing|
+|292 Rajasthan|Jaipur|Jaipur|Electrical Engineering Equipment|
+|293 Rajasthan|Jaipur|Jaipur|Food Products|
+|294 Rajasthan|Jaipur|Jaipur|Garments|
+|295 Rajasthan|Jaipur|Jaipur|Lime|
+|296 Rajasthan|Jaipur|Jaipur|Mechanical Engineering Equipment|
+|297 Rajasthan|Jhalawar|Jhalawar|Marble Slabs|
+|298 Rajasthan|Nagaur|Nagaur|Handtools|
+|299 Rajasthan|Sikar|Shikhawati|Wooden Furniture|
+|300 Rajasthan|Sirohi|Sirohi|Marble Slabs|
+|301 Rajasthan|Udaipur|Udaipur|Marble Slabs|
+|302 Tamil Nadu Chennai||Chennai|Auto components|
+|303 Tamil Nadu Chennai||Chennai|Leather Products|
+|304 Tamil Nadu Chennai||Chennai|Electroplating|
+|305 Tamil Nadu Coimbatore||Coimbatore|Diesel Engines|
+|306 Tamil Nadu Coimbatore||Coimbatore|Agricultural Implements|
+|307 Tamil Nadu Coimbatore||Tirupur|Hosiery|
+|308 Tamil Nadu Coimbatore||Coimbatore|Machine Tools|
+|309 Tamil Nadu Coimbatore||Coimbatore|Castings & Forging|
+|310 Tamil Nadu Coimbatore||Coimbatore,Palladam,Kannam Palayam|Powerloom|
+|311 Tamil Nadu Coimbatore||Coimbatore|Wet Grinding Machines|
+|312 Tamil Nadu Erode||Surampatti|Powerloom|
+|313 Tamil Nadu Karur||Karur|Powerloom|
+|314 Tamil Nadu Madurai||Madurai|Readymade Garments|
+|315 Tamil Nadu Madurai||Madurai|Rice Mills|
+|316 Tamil Nadu Madurai||Madurai|Dal Mills|
+|317 Tamil Nadu Namakkal||Thiruchengode|Rigs|
+|318 Tamil Nadu Salem||Salem|Readymade Garments|
+|319 Tamil Nadu Salem||Salem|Starch & Sago|
+|320 Tamil Nadu Thanjavur||Thanjavur|Rice Mills|
+|321 Tamil Nadu Tiruchirappalli||Tiruchirappalli|Engineering Equipment|
+|322 Tamil Nadu Tiruchirappalli||Tiruchirapalli (Rural)|Artificial Diamonds|
+|323 Tamil Nadu Tuticorin||Kovilpathi|Safety Matches|
+|324 Tamil Nadu Vellore||Ambur,Vaniyambadi, Pallar Valley|Leather Tanning|
+|325 Tamil Nadu Virdhunagar||Rajapalayam|Cotton Mills(Gauge Cloth)|
+|326 Tamil Nadu Virudhunagar||Virudhunagar|Tin Container|
+|327 Tamil Nadu Virudhunagar||Sivakasi|Printing|
+|328 Tamil Nadu Virudhunagar||Sivakasi|Safety Matches & Fire|
+
+<!-- PAGE 31 -->
+
+Works
+
+|329 Tamil Nadu Virudhunagar||Srivilliputhur|Toilet Soap|
+|---|---|---|---|
+|330 Uttar|Agra|Agra|Foundry|
+|Pradesh||||
+|331 Uttar|Agra|Agra|Leather Footwear|
+|Pradesh||||
+|332 Uttar|Agra|Agra|Mechanical Engineering|
+|Pradesh|||Equipment|
+|333 Uttar|Aligarh|Aligarh|Brass & Gunmetal Statues|
+|Pradesh||||
+|334 Uttar|Aligarh|Aligarh|Locks|
+|Pradesh||||
+|335 Uttar|Aligarh|Aligarh|Building Hardware|
+|Pradesh||||
+|336 Uttar|Allahabad|Mau|Powerloom|
+|Pradesh||||
+|337 Uttar|Allahabad|Mau Aima|Leather Products|
+|Pradesh||||
+|338 Uttar|Banda|Banda|Powerloom|
+|Pradesh||||
+|339 Uttar|Bulandshahr|Khurja|Ceramics|
+|Pradesh||||
+|340 Uttar|Firozabad|Firozabad|Glass Products|
+|Pradesh||||
+|341 Uttar|Gautam Buddha|Noida|Electronic Goods|
+|Pradesh|Nagar|||
+|342 Uttar|Gautam Buddha|Noida|Toys|
+|Pradesh|Nagar|||
+|343 Uttar|Gautam Buddha|Noida|Chemicals|
+|Pradesh|Nagar|||
+|344 Uttar|Gautam Buddha|Noida|Electrical Engineering|
+|Pradesh|Nagar||Equipment|
+|345 Uttar|Gautam Buddha|Noida|Garments|
+|Pradesh|Nagar|||
+|346 Uttar|Gautam Buddha|Noida|Mechanical Engineering|
+|Pradesh|Nagar||Equipment|
+|347 Uttar|Gautam Buddha|Noida|Packaging Material|
+|Pradesh|Nagar|||
+|348 Uttar|Gautam Buddha|Noida|Plastic Products|
+|Pradesh|Nagar|||
+|349 Uttar|Ghaziabad|Ghaziabad|Chemicals|
+|Pradesh||||
+|350 Uttar|Ghaziabad|Ghaziabad|Mechanical Engineering|
+|Pradesh|||Equipment|
+|351 Uttar|Ghaziabad|Ghaziabad|Packaging Material|
+|Pradesh||||
+|352 Uttar|Gorakhpur|Gorakhpur|Powerloom|
+|Pradesh||||
+|353 Uttar|Hathras|Hathras|Sheetwork (Globe, Lamp)|
+|Pradesh||||
+|354 Uttar|Jhansi|Jhansi|Powerloom|
+|Pradesh||||
+|355 Uttar|Kannauj|Kannauj|Perfumery & Essential Oils|
+|Pradesh||||
+|356 Uttar|Kanpur|Kanpur|Saddlery|
+
+<!-- PAGE 32 -->
+
+Pradesh 357 Uttar Kanpur Kanpur Cotton Hosiery Pradesh 358 Uttar Kanpur Kanpur Leather Products Pradesh 359 Uttar Meerut Meerut Sports Goods Pradesh 360 Uttar Meerut Meerut Scissors Pradesh 361 Uttar Moradabad Moradabad Brassware Pradesh 362 Uttar Muzaffarnagar Muzaffarnagar Rice Mills Pradesh 363 Uttar Saharanpur Saharanpur Rice Mills Pradesh 364 Uttar Saharanpur Saharanpur Woodwork Pradesh 365 Uttar Varanasi Varanasi Sheetwork (Globe, Lamp) Pradesh 366 Uttar Varanasi Varanasi Powerloom Pradesh 367 Uttar Varanasi Varanasi Agricultural Implements Pradesh 368 Uttar Varanasi Varanasi Electric Fan Pradesh 369 Uttaranchal Dehradun Dehradun Miniature Vacuum Bulb
+
+|369 Uttaranchal Dehradun||Dehradun|Miniature Vacuum Bulb|
+|---|---|---|---|
+|370 Uttaranchal Haridwar||Roorkee|Survey Instruments|
+|371 Uttaranchal Udham Singh Nagar Rudrapur|||Rice Mills|
+|372 West Bengal Bankura||Barjora|Fishing Hooks(Information awaited)|
+|373 West Bengal HMC & Bally|Municipal area|Howrah|Foundry|
+|374 West Bengal Howrah 375 West Bengal Howrah||Bargachia,Mansinghapur, Hantal, Sahadatpur & Jagatballavpur HMC & Bally Municipal area Sevok Rd Steel Re-rolling|Locks|
+|376 West Bengal Howrah||Domjur|Artificial & Real Jewellery|
+|377 West Bengal Cooch Bihar||Cooch Bihar-I, Tufanganj,Mathabangha, Mekhliganj|Sitalpati/ Furniture|
+|378 West Bengal Kolkata||Wellington, Khanpur|Electric Fans|
+|379 West Bengal Kolkata||Sovabazar, Cossipur|Hosiery|
+|380 West Bengal Kolkata||Metiaburuj Ward No. 138 to 141|Readymade Garments|
+|381 West Bengal Kolkata||Tiljala, Topsia,Phoolbagan|Leather Goods|
+|382 West Bengal Kolkata||Daspara(Ultadanga), Ahiritola|Dal Mills|
+|383 West Bengal Kolkata||Taltala, Lenin, Sarani|Mechanical Engineering Equipment|
+|384 West Bengal Kolkata||Bowbazar, Kalighat|Wood Products|
+|385 West Bengal Nadia||Matiary,Dharmada,Nabadwip|Bell/Metal Utensils|
+|386 West Bengal Nadia||Ranaghat|Powerloom|
+|387 West Bengal Purulia||Jhalda Proper, Purulia, Begunkodar & Handtools Tanasi||
+|388 West Bengal South 24 Parganas||Kalyanpur,Purandarpur, Dhopagachi|Surgical Instruments|
+
+<!-- PAGE 33 -->
+
+## Annexure IV
+
+## Policy Package for stepping up credit to Small and Medium Enterprises
+
+The small-scale industries (SSI) produce about 8000 products, contribute 40% of the industrial output and offer the largest employment after agriculture. The sector, therefore, presents an opportunity to the nation to harness local competitive advantages for achieving global dominance. In recognition of these aspects, the National Common Minimum Programme makes the following declarations for accelerating the development of small-scale sector. *“Household and artisanal manufacturing will be given greater technological, investment and* *marketing support. Small–scale industry will be freed from Inspector Raj and given full credit,* *technological and marketing support. Infrastructure upgradation in major industrial clusters will* *receive urgent attention.”*
+
+**2. From SSI to SME: Defining the New Paradigm**
+2.1 Government policy as well as credit policy has so far concentrated on manufacturing units in the small-scale sector. The lowering of trade barriers across the globe has increased the minimum viable scale of enterprises. The size of the unit and technology employed for firms to be globally competitive is now of a higher order. The definition of small-scale sector needs to be revisited and the policy should consider inclusion of services and trade sectors within its ambit. In keeping with global practice,. there is also a need to broaden the current concept of the sector and include the medium enterprises in a composite sector of Small and Medium Enterprises (SMEs). A comprehensive legislation, which would enable the paradigm shift from small-scale industry to small and medium enterprises under consideration of Parliament. The Reserve Bank of India, had meanwhile set up an Internal Group which has recommended: “Current SSI/tiny industries definition may continue. Units with investment in plant and machinery in excess of SSI limit and up to Rs.10 crore may be treated as Medium Enterprises (ME). The definition may be reviewed after enactment of the Small and Medium Enterprises Development Bill. Only SSI financing will be included in Priority Sector.”
+2.2 It is proposed to accept the recommendation with regard to the credit facilities being offered by the banking sector and accordingly request the Reserve Bank of India to advise the banks to frame a policy for enhancing the flow of credit to both small and medium enterprises, within the overall framework of credit policy of banks to small and medium enterprises.
+2.3. The challenges being faced by the small and medium scale sector may be briefly set out as follows-
+a. Small and Medium Enterprises (SME), particularly the tiny segment of the small enterprises have inadequate access to finance due to lack of financial information and non-formal business practices. SMEs also lack access to private equity and venture capital and have a very limited access to secondary market instruments.
+b.SMEs face fragmented markets in respect of their inputs as well as products and are vulnerable to market fluctuations.
+c.SMEs lack easy access to inter-state and international markets.
+d.The access of SMEs to technology and product innovations is also limited. There is lack of awareness of global best practices.
+e.SMEs face considerable delays in the settlement of dues/payment of bills by the large scale buyers. With the deregulation of the financial sector, the ability of the banks to service the credit
+
+<!-- PAGE 34 -->
+
+requirements of the SME sector depends on the underlying transaction costs, efficient recovery processes and available security. There is an immediate need for the banking sector to focus on credit and finance requirements of SMEs.
+
+**3. Measures to increase the quantum of credit to SMEs at the right price**
+3.1 Public Sector Banks will be advised to fix their own targets for funding SMEs in order to achieve a **minimum** 20% year on year growth in credit to SMEs. The objective is to **double** the flow of credit from Rs.67,600 crore in 2004-05 to Rs.135,200 crore to the SME sector by 2009-10, i.e. within a period of 5 years.
+3.2 Public Sector Banks will be advised to follow a transparent rating system with cost of credit being linked to the credit rating of the enterprise.
+3.3 SIDBI in association with Credit Information Bureau(India) Ltd. (CIBIL)will expedite setting up a credit rating agency.
+3.4 SIDBI in association with Indian Banks’ Association (IBA) would collect and pool common data on risk in each identified cluster and develop an IT-enabled application, appraisal and monitoring system for small (including tiny) enterprises. This would help reduce transaction cost as well as improve credit flow to small (including tiny) enterprises in the clusters.
+3.5 The National Small Industries Corporation has recently introduced a Credit Rating Scheme for encouraging SSI units to get themselves credit rated by reputed credit rating agencies. Public Sector Banks will be advised to consider these ratings appropriately and as per availability, and structure their rates suitably***.***
+3.6 SIDBI has developed a Credit Appraisal & Rating Tool (CART) as well as a Risk Assessment Model (RAM) and a comprehensive rating model for risk assessment of credit proposals for SMEs. Public sector banks will be advised to take advantage of these models as appropriate and reduce their transaction costs.
+## 4. Outreach of Formal Credit: Opening of New Accounts
+
+The commercial banks (including regional rural banks) with over 67,000 branches, ***will*** make concerted efforts to provide credit cover on an average to at least 5 new ***tiny,***small and medium enterprises at each of their semi urban/urban branches per year.
+
+## 5. Nursing the Sick Units Back to Health: Debt Restructuring
+
+Reserve Bank will issue detailed guidelines relating to debt restructuring mechanism so as to ensure restructuring of debt of all eligible small and medium enterprises at terms which are not less favourable than the Corporate Debt Restructuring (CDR) mechanism in the banking sector. The restructuring would follow upon a request to that effect from the borrowing unit. All accounts***,*** except those classified as ‘loss assets’ will be eligible for restructuring, provided the industrial units are viable or potentially viable.
+
+Based on the Reserve Bank’s guidelines, banks may formulate, with the approval of their Boards of Directors, more liberal policies relating to restructuring of accounts. Until the banks formulate their own policies, Reserve Bank’s guidelines will be operative.
+
+A one-time settlement scheme to apply to small-scale NPA accounts in the books of the banks as on March 31, 2004 will be introduced.The scheme will be in force upto March 31, 2006***.***
+
+<!-- PAGE 35 -->
+
+## 6. Facilitative Measures
+
+Reserve Bank had issued a detailed master circular on March 2005 on the time to be taken for disposing of loan applications of SSI units, the limit up to which banks are obliged to grant collateral-free and composite loans, norms for computation of working capital credit limits to SSI units, opening of atleast one specialized SSI branch in each district, etc. Taking these guidelines as indicative minimum, banks will formulate a comprehensive and more liberal policy relating to advances to SME sector. Untill the banks formulate such a policy, the extant instructions of Reserve Bank will be applicable to advances granted or to be granted by banks to SME units.
+
+**7. Credit Guarantee Fund Trust Scheme for Small Industries(CGTSI)** At present, Member Lending Institutions (MLIs), like banks, are provided guarantee cover of 75% of the amount of default by CGTSI,I respect of term loan and/or working capital facilities up to Rs.25 lakh extended by the MLIs to new and existing SSI units/IT/software units/small scale service business enterprises (SSSBEs), without collateral security and/or third party guarantee. One-time guarantee fee of 2.5% and annual service fee of 0.75% of the credit facility sanctioned are currently charged by CGTSI from the MLIs. In order to reduce the cost of guarantee to the weaker segments of the borrowers, particularly tiny units, the CGTSI will be advised to reduce the one-time guarantee fee from 2.5% to 1.5% for all (i) loans up to Rs.2 lakh, (ii) eligible women entrepreneurs, and (iii) eligible borrowers located in the North Eastern regions (Sikkim) and Jammu & Kashmir. Further, public sector banks will be encouraged to absorb the annual service fee in excess of 0.25% in respect of guarantee for all (i) loans up to Rs.2 lakh, (ii)eligible women entrepreneurs, and (iii) eligible borrowers located in the North Eastern regions(Sikkim) and Jammu & Kashmir.
+## 8. Cluster based approach
+
+Cluster based approach for financing SME sector offers possibilities of reduction of transaction costs and mitigation of risk. About 388 clusters have already been identified. Cluster based approach now be treated as a thrust area. Banks will increasingly adopt the cluster-based approach for SME financing. To broaden the financing options for infrastructure development in clusters through public private partnership, SIDBI will formulate a scheme in consultation with the stakeholders. SIDBI has already initiated the process of establishing Small Enterprises Financial Centres in select clusters. Risk profile of each cluster would be studied by a professional credit rating agency and such risk profile reports would be made available to commercial banks. Each lead bank of a district will consider adoption of atleast one cluster***.***
+
+## 9. Setting up of Watchdogs: Monitoring and Review
+
+The following supervisory arrangements will be ensured:
+
+a. The existing institutional arrangements for review of credit to SSI sector like the Standing Advisory Committee in Reserve Bank of India and cells at the banks’ head office level as well as at important regional centres will be made more rigorous and regular. They will also review the flow of credit to small (SSI) and medium enterprises.
+b. At the Regional offices, the Reserve Bank will constitute empowered committees with the Regional Director of the Reserve Bank as the Chairman to review the progress in SME financing and rehabilitation of sick small (SSI) and medium units and to coordinate with other banks/financial institutions and the state governments in removing bottlenecks, if any, to <u>ensure smooth flow of credit to the sector. The said Regional level committees may decide on</u>
+
+<!-- PAGE 36 -->
+
+the need to have similar committees at cluster/district levels.
+
+c. The banks will ensure specialized SME branches in identified clusters/centres with preponderance of small enterprises to enable the entrepreneurs to have easy access to the bank credit and to equip bank personnel to develop requisite expertise. The existing specialised SSI branches may be also be redesignated as SME branches.
+d. Boards of banks will be advised to review the progress in achieving the self-set targets as also rehabilitation and restructuring of SME accounts on a quarterly basis to ensure that the required emphasis is given to this sector.
+e.For wider dissemination and easy accessibility, the policy guidelines formulated by Boards of banks as well as instructions/guidelines issued by Reserve Bank will be displayed on the respective websites of Public Sector Banks as well as website of SIDBI. The banks would also be advised to prominently display all the facilities/schemes offered by them to the small entrepreneurs at each of their branches.
+
+<!-- PAGE 37 -->
+
+# Appendix Master Circular
+
+# <u>SME SECTOR LENDING</u>
+
+# List of Circulars consolidated by the Master Circular
+
+## No. Circular No.
+
+1 RPCD,SME&NFS.No,12372/06.
+
+02.31(P)/2007-08
+2 RPCD.No.Plan.BC.84/04.09.01/ 2006-07 3
+
+RPCD.PLNFS.BC.No.63/06.02. 31/2006-07
+
+4 RPCD.PLNFS.BC.No.35/06.02. 31/2005-06
+
+## Date Subject Paragraph
+
+**No.**
+
+23.05.2008
+Credit Linked Capital Subsidy 11 Scheme
+
+30.04.2007
+Guidelines on Lending to priority 1 sector-revised Credit flow to Micro, Small and Medium Enterprises Sector –
+
+04.04.2007 Enactment of the Micro, Small and 1-1,IV,13.6
+Medium Enterprises Development (MSMED), Act 2006
+
+25-08-2005 Policy Package for Stepping up Credit to Small and Medium IV,13.5 Enterprises --Announcements made by the Union Finance Minister (for private sector, foreign banks & RRBs)
+
+5 RPCD.PLNFS.BC.No.31/06.02. 31/2005-06
+
+6 RPCD.PLNFS.BC.No.101/06.0
+
+2.31/2004-05
+7 RPCD. Plan. BC. 64/04.09.01/ 2004-05
+
+8 RPCD.PLNFS.BC.61/06.02.31 (WG)/ 2004-05
+
+19-08-2005 Policy Package for Stepping up Credit to Small and Medium IV,13.5 Enterprises --Announcements made by the Union Finance Minister (for public sector banks)
+
+20.05. 2005
+Scheme for Small Enterprises
+
+1.6.4,4,II.6
+Financial Centres (SEFCs)
+
+15.12.2004 Priority Sector Lending-Investment in I.1,
+Special Bonds issued by Specified 1.1.1,1.12, Institutions 1.1.3
+
+08.12.2004 Working Group on Flow of Credit to
+SSI Sector-Interest rates on with III.3.1,3.5 SIDBI-in lieu of shortfall in priority sector obligations
+
+|9 RPCD. PLNFS. BC.|26.10.2004|Investment by banks in securitized|II,2.1,2|
+|---|---|---|---|
+|43/06.02.31/ 2004-05||assets pertaining to SSI sector|2,2.3|
+|10 RPCD.PLNFS.BC.28/06.02.31|04.09.2004|Working Group on Flow of Credit to|IV. 13.3|
+|(WG)/ 2004-05||SSI sector||
+|11 RPCD. Plan. BC. 41/04.09.01/ 2003-04|03.11.2003|Priority sector lending – Deposit of shortfall with SIDBI|III. 3.1|
+|12 RPCD. PLNFS. BC. 40/06.02.31/ 2003-04|03.11.2003|Credit facilities for SSIs – Lending by banks to NBFCs for the purpose of on-lending to SSIs|1.6.5|
+|13 RPCD. PLNFS. BC. 39/06.02.80/ 2003-04|03.11.2003|Credit facilities for SSIs – Collateral Free Loans|IV 2.4|
+|14 RPCD. PLNFS|11.09.2003|SAC meeting Implementation of|IV 5|
+|No.620/06.02.28(i)/ 2002-03||Action Points- Interest rate- Slab||
+
+<u>basis</u>
+
+<!-- PAGE 38 -->
+
+|No. Circular No.|Date|Subject|Paragraph|
+|---|---|---|---|
+||||No.|
+|15 RPCD. PLNFS.1 /06.02.28(i))/ 2003-04|01.07.2003|SAC meeting Implementation of Action Points- Identification of Clusters|IV.2.9 IV13.3|
+|16 RPCD. PLNFS. 2292/06.02. 28(i))/ 2003-04|13.06.2003|SAC meeting Implementation of Action Points- Self Set target for SSI|III.1.1,2.1.1 2.1.2|
+|17 RPCD. PLNFS. BC. 24/06.02.77/ 2002-03|04.10.2002|Flow of credit to SSIs – Time schedule for disposal of loan applications|IV. 2.2|
+|18 DBOD.No,BL.BC.74/22.01.001/ 2002|11.03.2002|Conversion of General Banking Branches to Specialised SSI Branches|IV 2.6|
+|19 RPCD. PLNFS. BC.58/ 06.02.80/ 2001-02|23.01.2002|Collateral free loans- SSIs|IV 2.4|
+|20 RPCD. PLNFS. BC.57/|16.01.2002|Guidelines for rehabilitation of Sick|IV 2.8|
+|06.04.01/ 2001-02||Small Scale Industrial Units||
+|21 IECD.No.5/08.12.01/2000-01|16.10.2000|Flow of Credit to SSI Sector- Decision of the Group of Ministers|IV 2.7|
+|22 RPCD.PLNFS.BC.No.57/06.02.|02.02.2000|Priority Sector Advances – Credit||
+|31/ 99-2000||Deployment to SSI Sector|1.1.1,1.1.2|
+|23 RPCD.No.PLNFS.BC.89/06.02.|14.06.1999|Interest on Delayed Payment to|IV 2.7|
+|31-98/99||Small Scale and Ancillary Industrial Undertakings Act, 1998||
+|24 RPCD.No.PLNFS.BC.89/06.02.|01.03.1999|Flow of Credit to SSI sector-|II 3.3|
+|31-98/99||Computation of Working Capital limits||
+|25 RPCD.No.PLNFS.BC.22/06.02. 31 (ii) -98/99|28.08.1998|High Level Committee on SSI- Kapur Committee- Implementation of recommendations|IV.13.2|
+|26 RPCD.No.PLNFS.BC.127/06.0 2. 31/97/98|08.06.1998|Flow of Credit to SSI Sector|IV 5|
+|27 RPCD.PLNFS.No.792/06.02.31 /97/98|02.03.1998|Flow of Credit to SSI Sector-Opening of Specialised SSI Branches|IV 2.6|
+|28 RPCD.No.PLNFS.BC.89/06.02.|19.02.1998|Priority Sector Advances-Credit|I 1.1, III|
+|31-97/98||Deployment to SSI Sector|1.3,1.1.2|
+|29 RPCD.No.PLNFS.BC.66/06.02.|05.01.1998|Priority Sector Advances-Credit|III 1.3,1.1,|
+|31-97/98||Deployment to SSI Sector|1.1.2|
+|30 RPCD.No.Plan.BC.74/04.09.01/|11.12.1996|Priority Sector Lending-Shortfall in|III 4.1-4.4|
+|96-97||Achievement of Target||
+|31 RPCD.No.PLNFS.BC.23/06.06. 12/94-95|01.09.1995|Bank Credit to KVI Sector|1 1.5|
+|32 RPCD.No.Plan.BC.38/04.09.09/ 94-95|22.09.1994|Lending to Priority Sector by foreign banks|III 2.1.1,2.1.3|
+|33 RPCD.No.PLNFS.BC.16/06.06. 12/94-95|28.07.1994|Bank Credit to KVI Sector|I 1.6|
+|34 RPCD.No.PLNFS.BC.84/06.06. 12/93-94|07.01.1994|Bank Credit to KVI Sector-Priority Sector Advances|I 1.5|
+|35 RPCD.No.PLNFS.BC.99/06.02 31/92-93|17.04.1993|Report of the Committee to examine the adequacy of institutional credit to SSI sector and related aspects- Nayak Committee|IV 13.1|
+|36 RPCD.No.PLNFS.BC.45/PS.72/ 86|20.01.1986|Financing of Bought Leaf Factories for Manufacturing|I 1.9|
+|37 RPCD.No.PLNFS.BC.44/PS.72/ 86|17.01.1986|Bank Finance to Ship-breaking Industry|I 1.8|
+
+<!-- PAGE 39 -->
+
+39
