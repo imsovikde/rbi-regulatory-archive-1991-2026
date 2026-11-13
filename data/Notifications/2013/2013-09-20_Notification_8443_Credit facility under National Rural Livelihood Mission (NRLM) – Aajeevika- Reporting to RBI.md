@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2013_8443"
+title: "Credit facility under National Rural Livelihood Mission (NRLM) – Aajeevika- Reporting to RBI"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NRLM200913T.pdf"
+pdf_sha256: "fdfed582f0243dbd0011cb37f4d03e80f51547a58c43340ecb97212ad8e21205"
+md_sha256: "bf0d7603db59c2bc06cc58dbdd68825ceb98df0fb9fea9ea514c0592e5aff0a7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-20_Notification_8443_Credit%20facility%20under%20National%20Rural%20Livelihood%20Mission%20%28NRLM%29%20%E2%80%93%20Aajeevika-%20Reporting%20to%20RBI.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit facility under National Rural Livelihood Mission (NRLM) – Aajeevika- Reporting to RBI
+
+<!-- PAGE 1 -->
+
+**भारतीय ररज़र्व बैंक** **-------------------------RESERVE BANK OF INDIA -----------------** www.rbi.org.in RBI/2013-14/279 RPCD. GSSD.CO. BC. No 38/ 09.01.03/2013-14 September 20, 2013
+
+The Chairman/ Managing Director All Scheduled Commercial Banks
+
+Dear Sir,
+
+## Credit facility under National Rural Livelihood Mission (NRLM) – Aajeevika-Reporting to RBI
+
+Please refer to our <u>Circular RPCD.GSSD. No.81/09.01.03/2012 – 13 dated June 27,</u> <u>2013</u> on restructuring of Swarnajayanti Gram Swarozgar Yojana (SGSY) as National Rural Livelihood Mission (NRLM).
+
+2. In partial modification of paragraph 13.5 of the circular, It has been decided that banks may send a state-wise consolidated report on the progress made on NRLM to RBI at **quarterly** intervals. The report may be <u>e-mailed</u> in the <u>enclosed format</u> within 15 days from the end of each quarter. Yours faithfully, (R. K. Moolchandani) General Manager
+## Encl: As above
+
+400 001 :Tel No.: +912222601000/ : +91-22-22621011/22610948/22610943 : cgmincrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001
+
+**चेतार्नी : ररज़र्व बैंक वर्ारा लेम-डाक, एसएलएस या फोन कॉम के जररए ककसी की भी व्यक्तिततत जानकार जससे बकैं के ााते का ्यौरा, पासर्डव आदि नह ीं लाींती जाती** **हस। यह धन राने या िेने का प्रस तार् भी नह ीं करता हस। ेसे प्रस तार्क का ककसी भी तर के से जर्ाब लत ि क्तजए।** **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details,** **passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**

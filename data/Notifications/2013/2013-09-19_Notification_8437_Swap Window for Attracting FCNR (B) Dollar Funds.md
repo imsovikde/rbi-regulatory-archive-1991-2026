@@ -1,0 +1,27 @@
+---
+doc_id: "Notifications_2013_8437"
+title: "Swap Window for Attracting FCNR (B) Dollar Funds"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SWAP190913CIR.pdf"
+pdf_sha256: "277749fe121f9f92c7e6b621459e80d3c2ceeaa9a41067881449f1cb5f04af9b"
+md_sha256: "d6a9060eb93aa6000d3a8086311518bf3de2991d5480ae9f00a7edc1513fdcdd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-19_Notification_8437_Swap%20Window%20for%20Attracting%20FCNR%20%28B%29%20Dollar%20Funds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Swap Window for Attracting FCNR (B) Dollar Funds
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/273 FMD.MOAG. No. 85 /01.06.016/2013-14 September 19, 2013 To All Scheduled Banks [excluding Regional Rural Banks (RRBs)] Dear Sir/ Madam, **Swap Window for Attracting FCNR (B) Dollar Funds** Please refer to our circular FMD.MAOG.No.84/01.06.016/2013-14 dated September 6, 2013 on the captioned subject.
+
+2. Banks have raised various queries relating to the operationalisation of the captioned swap window. These queries along with the answers/ clarifications are put up in the RBI website under the section “FAQs” and can be accessed at <u>[http://rbi.org.in/scripts/FAQView.aspx?Id=98](http://rbi.org.in/scripts/FAQView.aspx?Id=98)</u>. A copy of these questions and answers is <u>annexed</u> to this circular for your ready reference.
+Yours sincerely
+
+(G. Mahalingam) Principal Chief General Manager

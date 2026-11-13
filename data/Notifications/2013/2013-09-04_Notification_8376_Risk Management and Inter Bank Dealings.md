@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2013_8376"
+title: "Risk Management and Inter Bank Dealings"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRAPDI04092013.pdf"
+pdf_sha256: "cbee4a68907f95f9dbec595444e2187673f7896b1f1d546d181149632a4bb00e"
+md_sha256: "2604495feff88027f42d2c26c89caf05740ebfd730bec340e5d08860885754ea"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-04_Notification_8376_Risk%20Management%20and%20Inter%20Bank%20Dealings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter Bank Dealings
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001**
+
+**RBI/2013-14/227**
+
+**A.P. (DIR Series) Circular No. 36 September 4, 2013** To All Category-I Authorised Dealer Banks Madam/ Sir, **Risk Management and Inter Bank Dealings** Attention of Authorised Dealers Category-I (AD Category-I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (<u>Notification No. FEMA/25/RB-2000 dated</u> <u>May 3, 2000</u>) as amended from time to time and <u>A.P. (DIR Series) Circular no. 58</u> <u>dated December 15, 2011</u> and <u>A.P. (DIR Series) Circular no. 13 dated July 31, 2012</u>.
+2. Under the extant regulations, the facility of cancellation and rebooking is not permitted for forward contracts, involving Rupee as one of the currencies, booked by residents to hedge current and capital account transactions. However, exporters are allowed to cancel and rebook forward contracts to the extent of 25 percent of the contracts booked in a financial year for hedging their contracted export exposures.
+3. On a review of the evolving market conditions and with a view to providing operational flexibility to exporters and importers to hedge their foreign exchange risk, it has now been decided to:
+(a) allow exporters to cancel and rebook forward contracts to the extent of 50 percent of the contracts booked in a financial year for hedging their contracted export exposures, and
+
+<!-- PAGE 2 -->
+
+(b) allow importers to cancel and rebook forward contracts to the extent of 25 percent of the contracts booked in a financial year for hedging their contracted import exposures.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in-Charge

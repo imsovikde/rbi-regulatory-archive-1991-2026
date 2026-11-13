@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2013_8447"
+title: "UCBs - Change in Daily Minimum Cash Reserve Maintenance Requirement"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/284DR200913CV.pdf"
+pdf_sha256: "ab8a076c7210171de289d88ae8b07560038a0937e70cdc7c783052bfa3c06ab1"
+md_sha256: "486e9e5098f5c27e961b28f3cb3ae467136e14d1f8c4620213767d37cb6b0c3a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-20_Notification_8447_UCBs%20-%20Change%20in%20Daily%20Minimum%20Cash%20Reserve%20Maintenance%20Requirement.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - Change in Daily Minimum Cash Reserve Maintenance Requirement
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **______________________RESERVE BANK OF INDIA____________________ www.rbi.org.in** RBI/2013-14/284 UBD.BPD. (SCB). CIR. No.2 /12.03.000/2013-14 September 20, 2013
+
+The Chief Executive Officers of All Scheduled Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir, **Section 42(1) of Reserve Bank of India Act, 1934 – Change in** <u>Daily Minimum Cash Reserve Maintenance Requirement</u>
+
+Please refer to our <u>circular No.UBD.BPD. (SCB).CIR.No.1/12.03.000/2013-14 dated</u> <u>July 24, 2013</u> on the captioned subject.
+
+2. As announced in the <u>Press Release 2013-14/604 dated September 20, 2013</u>, It has been decided to reduce the minimum daily maintenance of the cash reserve ratio (CRR) from 99 per cent to 95 per cent effective from the fortnight beginning September 21, 2013. Yours faithfully, (A.K.Bera) Principal Chief General Manager शहर बक वभाग, क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ. एनी बेसट माग, वरली, मुंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई-मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India
+Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmincubd@rbi.org.in हंद आसान है**,** इसका ूयोग बढ़ाइए चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरए कसी क भी ���� क जानकार जैसे बक के खाते पासवड आद नहं मांगी जाती है। यह धन रखने या देने का ूःताव भी नहं करता है। ऐसे ूःताव का कसी भी तरके से जवाब मत Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, password never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

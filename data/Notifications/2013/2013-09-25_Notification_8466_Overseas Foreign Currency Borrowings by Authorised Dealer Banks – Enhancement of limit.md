@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2013_8466"
+title: "Overseas Foreign Currency Borrowings by Authorised Dealer Banks – Enhancement of limit"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRPD250913F.pdf"
+pdf_sha256: "c641e9fa1c63ab66a8fa922726f8311407b0dd8fa70f2085294f5b0c357de22d"
+md_sha256: "5f2b36762b8d6269831f1d3645e5a07bdcc72aa663db28439019223e2696e22e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-25_Notification_8466_Overseas%20Foreign%20Currency%20Borrowings%20by%20Authorised%20Dealer%20Banks%20%E2%80%93%20Enhancement%20of%20limit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Foreign Currency Borrowings by Authorised Dealer Banks – Enhancement of limit
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001**
+
+## RBI/2013-14/293 A.P. (DIR Series) Circular No. 54 September 25, 2013
+
+**To,**
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Overseas Foreign Currency Borrowings by Authorised Dealer Banks – Enhancement of limit
+
+Attention of Authorised Dealer Category-I (AD Category – I) banks is invited to <u>A. P.</u> <u>(DIR Series) Circular No. 40 dated September 10, 2013</u>, in terms of which AD Category I banks were allowed to borrow beyond 50 per cent of their unimpaired Tier I capital subject, inter alia, to the condition that the borrowing would have a minimum maturity of three years.
+
+2. On a review, it has been decided to lower the requirement of minimum maturity from three years to one year for the aforesaid borrowings made on or before November 30, 2013 for the purpose of availing of the Swap facility from the Reserve Bank of India. It may be noted that after the said date, foreign currency borrowing by AD Category I banks beyond 50 per cent of their Tier I Capital shall have to be of a minimum maturity of three years.
+3. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions/approvals, if any, required under any other law.
+## Yours faithfully
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in-Charge

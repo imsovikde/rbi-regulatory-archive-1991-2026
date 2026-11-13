@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2013_8395"
+title: "Overseas Foreign Currency Borrowings by Authorised Dealer Banks – Enhancement of limit"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/240APD4010913FL.pdf"
+pdf_sha256: "3e1a541ef76a68b77afd971197e8ec67fdeb8511c8d37a9db6a24b19a74f4978"
+md_sha256: "6678bcdc6ab57d9505fcf95dbf159397a8142fe5b91c5c7a7470ac91acce87e9"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-10_Notification_8395_Overseas%20Foreign%20Currency%20Borrowings%20by%20Authorised%20Dealer%20Banks%20%E2%80%93%20Enhancement%20of%20limit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Foreign Currency Borrowings by Authorised Dealer Banks – Enhancement of limit
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2013-14/240 A.P. (DIR Series) Circular No. 40 September 10, 2013
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam/ Sir,
+
+## Overseas Foreign Currency Borrowings by Authorised Dealer Banks – Enhancement of limit
+
+Attention of Authorised Dealer Category-I (AD Category – I) banks is invited to <u>A. P.</u> <u>(DIR Series) Circular No. 23 dated October 15, 2008</u>, in terms of which:
+
+(i) all categories of overseas foreign currency borrowings including existing ECBs, loans and overdrafts from their Head Office, overseas branches and correspondents and overdrafts in Nostro accounts (not adjusted within five days) shall not exceed 50 per cent of their unimpaired Tier I capital as at the close of the previous quarter or USD 10 million (or its equivalent), whichever is higher, and (ii) overseas borrowings by AD Category – I banks for the purpose of financing export credit in foreign currency, subordinated debt placed by head offices of foreign banks with their branches in India as Tier II capital, capital funds raised/augmented by the issue of innovative perpetual debt instruments and debt capital instruments in foreign currency and any other overseas borrowings with the specific approval of the Reserve Bank would be outside this limit.
+2. With a view to providing greater flexibility to AD Category-I banks in seeking access to overseas funds, it has been decided to liberalise this facility further. Accordingly, AD Category-I banks may henceforth borrow funds from their Head Office, overseas branches and correspondents and overdrafts in nostro accounts up to a limit of 100 per cent of their unimpaired Tier I capital as at the close of the previous quarter or USD 10 million (or its equivalent), whichever is higher, as against the existing limit of 50 per cent (excluding borrowings for financing of export credit in foreign currency and capital instruments).
+
+<!-- PAGE 2 -->
+
+3. In view of the prevailing market conditions, it has further been decided that AD Category I banks, at their option, can enter into a swap transaction with RBI in respect of the borrowings raised after the date of this circular. The swaps shall be available at a concessional rate of a hundred basis points below the market rate for all fresh borrowing with a minimum tenor of one year and a maximum tenor of three years, irrespective of whether such borrowings are in excess of fifty per cent of their unimpaired Tier I capital or not. Further, while the swaps shall be for the entire tenor of the borrowing, the rate shall be reset after every one year from the date of the swap at hundred basis points lower than the market rate prevailing on the date of reset. While the banks are free to borrow in any freely convertible currency, the swap will be available only for conversion of USD equivalent into Rupees and the USD equivalent shall be computed at the relevant cross rate prevailing on the date of the swap. Category I AD banks may contact the Principal Chief General Manager, Financial Markets Department, Reserve Bank of India, Central Office for availing of the swap facility. The concessional swap window shall be open till November 30, 2013. It may be noted that RBI reserves the right to decline a swap transaction or to withdraw this facility before November 30, 2013 after due notice. All other instructions contained in A. P. (DIR Series) Circular No.81 dated March 24, 2004 remain unchanged.
+4. Further, the borrowings beyond the hitherto permitted level of 50 per cent of their unimpaired Tier I capital will have to subject to the following conditions:
+(i) The bank should have a Board approved policy on overseas borrowings which shall contain the risk management practices that the bank would adhere to while borrowing abroad in foreign currency; (ii) The bank should maintain a CRAR of 12.0 per cent. (iii) The borrowings beyond the existing ceiling shall be with a minimum maturity of three years. (iv) All other existing norms (FEMA regulations, NOPL norms etc.) shall continue to be applicable.
+5. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+6. Reserve Bank of India has since amended the relevant Regulations vide <u>Notification</u> <u>No.FEMA.286/2013-RB dated September 05, 2013</u>, notified vide G.S.R.No.595(E) dated September 06, 2013.
+
+<!-- PAGE 3 -->
+
+7. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+# (C.D. Srinivasan) Chief General Manager

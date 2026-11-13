@@ -1,0 +1,24 @@
+---
+doc_id: "Notifications_2013_8375"
+title: "Secondary Market Transactions in Government Securities - Intra-day short selling"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CISS04092013F.pdf"
+pdf_sha256: "d2fc1704e7f18452531fa99895c174ca966549f58f128f1761282508f2f98c67"
+md_sha256: "d7f51f770d701429e662d26fa4810ffd32ded84ad4e0ad16659a7ba8e5883445"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-04_Notification_8375_Secondary%20Market%20Transactions%20in%20Government%20Securities%20-%20Intra-day%20short%20selling.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Secondary Market Transactions in Government Securities - Intra-day short selling
+
+<!-- PAGE 1 -->
+
+|RBI/2013-2014/226 Madam/Dear Sir, Securities - Please refer to our operations, such transactions. a) b) c) Yours faithfully, (A.K.Bera) फोन: 022 -|The Chief Executive Officers of Government Securities on to than 3%.|UBD.BPD. (PCB). Cir.No.9 /09.29.000/2013-14 All Primary (Urban) Co-operative Banks are members of NDS-OM and have undertake NDS-OM Membership. Treasury Operations. Principal Chief General Manager 2493 9930 - Urban Banks Department, Central Office, Garment House, 1 Phone: 022 - 2493 9930 - 49; Fax: 022|Secondary Market Transactions in Government Intra-day short selling 49; फै क्स: 022 - ह िंदी|intra-day Accordingly, Urban Co-operative Banks, fulfilling the following for intra-day short selling of Government Securities from time to time. शहरी बैंक विभाग, कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसेंट मागा, िरली, मंबई - आसान|भारतीय ररज़र्व बैंक _____________________RESERVE BANK OF INDIA___________________ www.rbi.org.in 13, 2003, in terms of which Urban Co-operative Banks were permitted to trade in undertake short selling of Government securities, even on an intra-day basis. 2. It has been decided to permit well managed Urban Co-operative Banks, who short required to seek permission from the Regional Offices concerned to undertake 3. Urban Co-operative Banks are advised to adhere to the instructions/directions as prescribed by Internal Debt Management Department of Reserve Bank of India ै, इसका|the Stock Exchanges, but selling Net Worth of ` 25 crore, CRAR of 9% or more and net NPA of not more Sound risk management practices and mandatory concurrent audit of their 2497 4030 / 2492 st - 2497 4030 / 2492 0231; E प्रयोग बढ़ाइए|circular UBD.BPD.PCB.Cir.39/09.29.00/2002-03 dated March regular concurrent audit of —|0231; ई-मेल: -mail:|Government cgmincubd@rbi.org.in|September 4, 2013 were not permitted to of their treasury Securities. conditions are 400018 भारत cgmincubd@rbi.org.in Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India|
+|---|---|---|---|---|---|---|---|---|---|---|
+||चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक,||||पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी|एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.||||की जानकारी जैसे बैंक के खाते का ब्यौरा, तरीके से जिाब मत िीज़जए।|

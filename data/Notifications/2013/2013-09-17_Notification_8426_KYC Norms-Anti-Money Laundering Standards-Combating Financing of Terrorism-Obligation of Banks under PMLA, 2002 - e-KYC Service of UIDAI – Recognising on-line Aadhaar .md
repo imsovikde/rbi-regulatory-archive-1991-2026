@@ -1,0 +1,78 @@
+---
+doc_id: "Notifications_2013_8426"
+title: "KYC Norms/Anti-Money Laundering Standards/Combating Financing of Terrorism/Obligation of Banks under PMLA, 2002  - e-KYC Service of UIDAI – Recognising on-line Aadhaar authentication (electronic verification process) to be accepted as an ‘Officially Valid Document’ under PML Rules - UCBs"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UBPB170913F.pdf"
+pdf_sha256: "ed8a3559933b586865efc4e66a25fec84054a63a0afab0f90f9cb005de6c96c2"
+md_sha256: "35fefe12e02cbda62b1fbda9975136da398ae8c14db42828e5f611950ba5253d"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-17_Notification_8426_KYC%20Norms-Anti-Money%20Laundering%20Standards-Combating%20Financing%20of%20Terrorism-Obligation%20of%20Banks%20under%20PMLA%2C%202002%20-%20e-KYC%20Service%20of%20UIDAI%20%E2%80%93%20Recognising%20on-line%20Aadhaar%20.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# KYC Norms/Anti-Money Laundering Standards/Combating Financing of Terrorism/Obligation of Banks under PMLA, 2002  - e-KYC Service of UIDAI – Recognising on-line Aadhaar authentication (electronic verification process) to be accepted as an ‘Officially Valid Document’ under PML Rules - UCBs
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2013-14/263 UBD.BPD (PCB) Cir. No. 15 /14.01.062/2013-14 September 17, 2013
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks.
+
+Madam / Dear Sir,
+
+**Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/** **Combating Financing of Terrorism (CFT)/Obligation of banks under Prevention** **of Money Laundering Act (PMLA), 2002 – e-KYC Service of UIDAI –** **Recognising on-line Aadhaar authentication (electronic verification process) to be accepted as an ‘Officially Valid Document’ under PML Rules – Primary**
+
+## (Urban) Cooperative Banks
+
+Please refer to paragraph 2.6 (B) of our <u>Master Circular UBD.BPD. (PCB).MC.No.16</u> <u>/12.05.001/2013-14 dated July 1, 2013</u> on Know Your Customer (KYC) Norms / Anti- Money Laundering (AML) Measures / Combating of Financing of Terrorism (CFT)/ Obligations of banks under PMLA, 2002 which states that letter issued by the Unique Identification Authority of India (UIDAI) containing details of name, address and Aadhaar number may be accepted as an ‘Officially Valid Document’. Further, in terms of paragraph 2.5 (ix) of the Master Circular, banks have been advised that while opening accounts based on Aadhaar, if the address provided by the account holder is the same as that on Aadhaar letter, it may be accepted as a proof of both identity and address.
+
+2. In order to reduce the risk of identity fraud, document forgery and have paperless KYC verification, UIDAI has launched its e-KYC service. Accordingly, it has been decided to accept e-KYC service as a valid process for KYC verification under Prevention of Money Laundering (Maintenance of Records) Rules, 2005. Further, the information containing demographic details and photographs made available from UIDAI as a result of e-KYC process (“which is in an electronic form and शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in
+<u>बक ����� म पऽाचार का ःवागत करता है —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी|यगत जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा जाता|है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|ूकार से जवाब|मत द�जए।||
+
+भी
+
+<!-- PAGE 2 -->
+
+accessible so as to be usable for a subsequent reference”) may be treated as an ‘Officially Valid Document’ under PML Rules. In this connection, it is advised that while using e-KYC service of UIDAI, the individual user has to authorize the UIDAI, by explicit consent, to release her or his identity/address through biometric authentication to the bank branches/business correspondents (BCs). The UIDAI then transfers the data of the individual comprising name, age, gender, and photograph of the individual, electronically to the bank/BCs, which may be accepted as a valid process for KYC verification. The broad operational instructions to banks on Aadhaar e-KYC service are enclosed as Annex.
+
+3. UCBs are advised to have proper infrastructure (as specified in Annex) in place to enable biometric authentication for e-KYC.
+4. Physical Aadhaar card/letter issued by UIDAI containing details of name, address and Aadhaar number received through post would continue to be accepted as an ‘Officially Valid Document’.
+5. UCBs may revise their KYC policy in the light of the above instructions and ensure strict adherence to the same. Yours faithfully, (P.K. Arora) General Manager
+- 2 -
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Operational Procedure to be followed by UCBs for e-KYC exercise
+
+The e-KYC service of the UIDAI is to be leveraged by UCBs through a secured network. Any UCB willing to use the UIDAI e-KYC service is required to sign an agreement with the UIDAI. The process flow to be followed is as follows:
+
+1. Sign KYC User Agency (KUA) agreement with UIDAI to enable the UCB to specifically access e-KYC service.
+2. UCBs to deploy hardware and software for deployment of e-KYC service across various delivery channels. These should be Standardisation Testing and Quality Certification (STQC) Institute, Department of Electronics & Information Technology, Government of India certified biometric scanners at bank branches/ micro ATMs/ BC points as per UIDAI standards. The current list of certified biometric scanners is given in the link below: <u>[http://www.stqc.gov.in/sites/upload_files/stqc/files/UID_Auth_Certlist_250613.pdf](http://www.stqc.gov.in/sites/upload_files/stqc/files/UID_Auth_Certlist_250613.pdf)</u>
+3. Develop a software application to enable the use of e-KYC across various Customer Service Points (CSP) (including bank branches, BCs etc.) as per UIDAI defined Application Programming Interface (API) protocols. For this purpose UCBs will have to develop their own software under the broad guidelines of UIDAI. Therefore, the software may differ from UCB to UCB.
+4. Define a procedure for obtaining customer authorization to UIDAI for sharing e- KYC data with the UCB. This authorization can be in physical (by way of a written explicit consent authorising UIDAI to share his/her Aadhaar data with the UCB/BC for the purpose of opening bank account) /electronic form as defined by UIDAI from time to time.
+5. Sample process flow would be as follows:
+- 3 -
+
+<!-- PAGE 4 -->
+
+a. Customer walks into CSP of a UCB with <u>his/her 12-digit Aadhaar number and</u> <u>explicit consent</u> and requests to open a bank account with Aadhaar based e- KYC.
+b. UCB representative manning the CSP enters the number into bank’s e-KYC application software.
+c. The customer inputs his/her biometrics via a UIDAI compliant biometric reader (e.g. fingerprints on a biometric reader).
+d. The software application captures the Aadhaar number along with biometric data, encrypts this data and sends it to UIDAI’s Central Identities Data Repository (CIDR).
+e. The Aadhaar KYC service authenticates customer data. If the Aadhar number does not match with the biometrics, UIDAI server responds with an error with various reason codes depending on type of error (as defined by UIDAI).
+f. If the Aadhaar number matches with the biometrics, UIDAI responds with digitally signed and encrypted demographic information [Name, year/date of birth, Gender, Address, Phone and email (if available)] and photograph. This information is captured by UCB’s e-KYC application and processed as needed.
+g. UCB’s servers auto populate the demographic data and photograph in relevant fields. It also records the full audit trail of e-KYC viz. source of information, digital signatures, reference number, original request generation number, machine ID for device used to generate the request, date and time stamp with full trail of message routing, UIDAI encryption date and time stamp, UCB’s decryption date and time stamp, etc.
+h. The photograph and demographics of the customer can be seen on the screen of computer at bank branches or on a hand held device of BCs for reference.
+i. The customer can open bank account subject to satisfying other account opening requirements.
+- 4 -

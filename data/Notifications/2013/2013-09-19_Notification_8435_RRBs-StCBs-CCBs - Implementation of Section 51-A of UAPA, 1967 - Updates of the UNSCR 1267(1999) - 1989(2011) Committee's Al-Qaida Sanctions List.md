@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2013_8435"
+title: "RRBs/StCBs/CCBs - Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267(1999) / 1989(2011) Committee's Al-Qaida Sanctions List"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AML180913RS.pdf"
+pdf_sha256: "d1896bfe40f8e63e4f9f4b39357bc232179b58c13e7fdf6d40b9bdf9f3d1384d"
+md_sha256: "729ee15a5f5f69cdcc05077192306f8b32ae6bf9942485396436dc75908ea60f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-19_Notification_8435_RRBs-StCBs-CCBs%20-%20Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967%20-%20Updates%20of%20the%20UNSCR%201267%281999%29%20-%201989%282011%29%20Committee%27s%20Al-Qaida%20Sanctions%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RRBs/StCBs/CCBs - Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267(1999) / 1989(2011) Committee's Al-Qaida Sanctions List
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/271 RPCD.CO.RRB.RCB.AML.No. 3376 /07.51.019/2013-14
+
+## September 17, 2013
+
+## The Chairmen / CEOs of all Regional Rural Banks / State and Central Co-operative Banks
+
+Dear Sir,
+
+## Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR
+
+## 1267(1999) / 1989(2011) Committee's Al-Qaida Sanctions List
+
+Please refer to our <u>circular RPCD.CO.RRB.RCB.AML.No.3107/07.51.019/2013-14 dated</u> <u>September 10, 2013</u> on the captioned subject releasing 21st update. We have since received from Government of India, Ministry of External Affairs, UNP Division, copy of twenty-second update note dated September 4, 2013 (copy enclosed) forwarded by the Chairman of UN Security Council's 1267/1989 Committee regarding deletions made in the “Al-Qaida Sanctions List”, i.e. list of Individuals and entities linked to Al-Qaida. The copy of the update is available on UN website at the following url: [http://www.un.org/News/Press/docs/2013/sc11109.doc.htm](http://www.un.org/News/Press/docs/2013/sc11109.doc.htm)
+
+2. Regional Rural Banks and State / Central Cooperative Banks are required to update the list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+3. **Banks are advised to strictly follow the procedure laid down in the UAPA Order** **dated August 27, 2009 enclosed to our** <u>circular RPCD.CO.RRB.No.39/03.05.33</u>
+<u>(E)/2009-10 dated November 05, 2009</u> **and** <u>RPCD.CO.RF.AML. BC. No. 34/07.40.00/</u> <u>2009-10 dated October 29, 2009</u> **and ensure meticulous compliance to the Order** **issued by the Government.** ग्रामीण आयोजना और ऋण विभाग,कें द्रीय कायाालय, 10िीीं मींज़िल, कें द्रीय कायाालय भिन,शहीद भगत स ींह मागा.पो.बा. ीं.10014, मींबई 400 001
+टेलीफोन:Tel: 022-22601000 फै क् Fax: 91-22-22621011/22610948 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Depar<u>tment,Central Office, 10th Floor, Central Office Building,</u> S. B. S. Marg,P. Box No.10014, Mumbai 400001 <u>हहींदी आ ान है, इ का प्रयोग बढाइए</u> **चेतावनी: रिज़वव बैंक द्वािा ई-मेल, डाक, एसएमएस या फोन कॉल के जरिए ककसी की भी व्यक्तिततत जानकाि जससे बकैं के ााते का ्यौ0िा, पासवडव** **आदि** **नह ीं माींती जाती हस। यह धन िाने या िेने का प्रस् ताव भी नह ीं किता हस। ेसे प्रस् तावक का ककसी भी ति के से जवाब मत ि क्तजए।** **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details,** **passwords,** **etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**
+
+<!-- PAGE 2 -->
+
+4. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 6 of the circulars dated November 05, 2009 and October 29, 2009 mentioned above.
+5. The complete details of the said list are available on the UN website:
+<u>[http://www.un.org/sc/committees/1267/pressreleases.shtml](http://www.un.org/sc/committees/1267/pressreleases.shtml)</u> <u>[http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml](http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml)</u>
+
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular letter to our concerned Regional Office. Yours faithfully, (A.G. Ray) General Manager Encl: As above

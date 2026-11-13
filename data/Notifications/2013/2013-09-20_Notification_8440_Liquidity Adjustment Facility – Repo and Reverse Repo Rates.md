@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2013_8440"
+title: "Liquidity Adjustment Facility – Repo and Reverse Repo Rates"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NH20092013FS.pdf"
+pdf_sha256: "f9c8ef7e4bfe4255de276d603fb3e267b52070259c0c9be2eca411299058eb57"
+md_sha256: "1f252530700a5cb43408af942e5255889e0d9ed6cb6413ffe15297015655f4d6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-20_Notification_8440_Liquidity%20Adjustment%20Facility%20%E2%80%93%20Repo%20and%20Reverse%20Repo%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility – Repo and Reverse Repo Rates
+
+<!-- PAGE 1 -->
+
+RBI/2013-2014/278 FMD.MOAG. No. 86 /01.01.001/2013-14 September 20, 2013
+
+All Scheduled Commercial Banks (excluding RRBs) and Standalone Primary Dealers
+
+Madam / Sir, <u>Liquidity Adjustment Facility – Repo and Reverse Repo Rates</u> As announced today in the <u>Mid-Quarter Review of the Monetary Policy 2013-14</u>, it has been decided to increase the Repo rate under the Liquidity Adjustment Facility (LAF) by 25 basis points from 7.25 per cent to **7.50 per cent** with immediate effect.
+
+2. Consequent to the change in the Repo rate, the Reverse Repo rate under the LAF will stand automatically adjusted to **6.50 per cent** with immediate effect.
+3. All other terms and conditions of the current LAF scheme will remain unchanged.
+4. Please acknowledge receipt.
+## Yours sincerely
+
+(G. Mahalingam) Principal Chief General Manager

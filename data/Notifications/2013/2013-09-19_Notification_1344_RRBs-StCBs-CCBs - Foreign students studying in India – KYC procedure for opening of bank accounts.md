@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2013_1344"
+title: "RRBs/StCBs/CCBs - Foreign students studying in India – KYC procedure for opening of bank accounts"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/FRES190913S.pdf"
+pdf_sha256: "9f7571151cf1a6c1ccd593184509b0b2aa5e3ef784fa080290dbcb7f9f5d72bd"
+md_sha256: "2b011d69eedc4e7075b7e8d4c0d491debb45132d5707ee56b9789bd97e624945"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-19_Notification_1344_RRBs-StCBs-CCBs%20-%20Foreign%20students%20studying%20in%20India%20%E2%80%93%20KYC%20procedure%20for%20opening%20of%20bank%20accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RRBs/StCBs/CCBs - Foreign students studying in India – KYC procedure for opening of bank accounts
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/272 RPCD.RRB.RCB.AML.BC.No. 37 /07.51.018/2013-14 September 18, 2013
+
+The Chairmen / CEOs of Regional Rural Banks / State and Central Co-operative Banks
+
+Dear Sir / Madam,
+
+## Foreign students studying in India – KYC procedure for opening of bank accounts
+
+It has been represented to us that foreign students arriving in India are facing difficulties in complying with the Know Your Customer (KYC) norms while opening a bank account due to non-availability of any proof of local address.
+
+2. The issue has been examined and it has been decided to lay down the following procedure for opening accounts of foreign students who are not able to provide an immediate address proof while approaching a bank for opening a bank account.
+a) Regional Rural Banks and State / Central Cooperative Banks authorized to open / maintain NRE/NRO accounts, may open a Non Resident Ordinary (NRO) bank account of a foreign student on the basis of his/her passport (with appropriate visa & immigration endorsement) which contains the proof of identity and address in the home country along with a photograph and a letter offering admission from the educational institution.
+b) Within a period of 30 days of opening the account, the foreign student should submit to the branch where the account is opened, a valid address proof giving local address, in the form of a rent agreement or a letter from the educational institution as a proof of living in a facility provided by the educational institution. Banks should not insist on the landlord visiting the branch for verification of ामीण आयोजना और ऋण िवभाग,कीय कायार्लय, 10व मंिज़ल, कीय कायार्लय भवन,शहीद भगत िसह मागर्.पो.बा.सं.10014, मुंबई 400 001
+टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22610948 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Departmen<u>t,Central Office, 10th Floor, Central Office Building, S. B.</u> S. Marg,P. Box No.10014, Mumbai 400001 <u>िहदी आसान ह, इसका योग बढ़ाइए</u> ै चेतावनी: रज़व बक ारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी �य�गत जानकार जैसे बक के खाते का �
+
+|चेतावनी: रज़व|बक ारा ई-मेल, डाक,|एसएमएस या|फोन कॉल के जरए|कसी क|भी �य�गत|जैसे बक के खाते|का �||
+|---|---|---|---|---|---|---|---|---|
+|नहं मांगी Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|जाती है। यह धन रखने|या देने का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी भी तरके|से जवाब मत ���जए। यौरा,|पासवड|आद|
+
+<!-- PAGE 2 -->
+
+rent documents and alternative means of verification of local address may be adopted by banks.
+
+c) During the 30 days period, the account should be operated with a condition of allowing foreign remittances not exceeding USD 1,000 into the account and a cap of monthly withdrawal to Rs. 50,000/-, pending verification of address.
+d) On submission of the proof of current address, the account would be treated as a normal NRO account, and will be operated in terms of instructions contained in RBI's Master Circular on Non-Resident Ordinary Rupee (NRO) Account No. RBI/2013-14/2 <u>Master Circular No. 2/2013-14 dated July 1, 2013</u>, and the provisions of Schedule 3 of <u>FEMA Notification 5/2000 RB dated May 3, 2000</u> may also be kept in view.
+e) Students with Pakistani nationality will need prior approval of the Reserve Bank for opening the account.
+3. Regional Rural Banks and State / Central Co-operative Banks are advised to ensure compliance with the above guidelines for the convenience of foreign students studying in India to open bank accounts.
+4. Principal Officer should acknowledge receipt of this circular letter to our concerned Regional Office. Yours faithfully, (A. Udgata) Principal Chief General Manager

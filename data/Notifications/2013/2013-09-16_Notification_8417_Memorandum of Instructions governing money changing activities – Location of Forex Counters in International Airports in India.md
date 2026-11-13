@@ -1,0 +1,57 @@
+---
+doc_id: "Notifications_2013_8417"
+title: "Memorandum of Instructions governing money changing activities – Location of Forex Counters in International Airports in India"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/45APR160913F.pdf"
+pdf_sha256: "bf41915043b5113829e665a822e6a214781f82b737583af7a5553c67ffa5c97f"
+md_sha256: "66e91e7a6289ba12ed128fea04a4802bd8eefe3217854c33bbb66ea7288a35d1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-16_Notification_8417_Memorandum%20of%20Instructions%20governing%20money%20changing%20activities%20%E2%80%93%20Location%20of%20Forex%20Counters%20in%20International%20Airports%20in%20India.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Memorandum of Instructions governing money changing activities – Location of Forex Counters in International Airports in India
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2013-14/259 September 16, 2013 A.P. (DIR Series) Circular No. 45
+
+To,
+
+## All Authorised Persons in Foreign Exchange
+
+Madam/ Dear Sir,
+
+## Memorandum of Instructions governing money changing activities –
+
+## Location of Forex Counters in International Airports in India
+
+Attention of Authorised Persons is invited to Para 2 (b) of the <u>A.P.(DIR Series)</u> <u>Circular No.38 dated October 25, 2011</u>.
+
+2. On a review, it has been decided to allow non-residents to carry Indian currency upto a maximum of `.10,000/- beyond Immigration/Customs desk to the Duty Free Area/Security Hold Area (SHA) in the departure hall in international airports in India for meeting miscellaneous expenditures subject to the condition that non-residents will not be allowed to carry any Indian Rupee beyond SHA and that they should dispose of Indian currency before boarding the plane.
+3. In order to provide money changing facility to non-residents to convert unspent Indian Rupees with them, Foreign Exchange Counters in the departure halls in international airports in India may be established in the Duty Free Area/SHA beyond the Immigration/ Customs desk. Such Foreign Exchange Counters will however, only buy Indian Rupees from non-residents and sell foreign currency to them subject to usual terms and conditions. Putting up suitable display at these counters, reminding the passengers that the area is the last point for non-
+
+<!-- PAGE 2 -->
+
+residents to possess Indian Rupees (INR) will be the responsibility of the Airport Authorities.
+
+4. Authorised Persons may bring the contents of this circular to the notice of their constituents concerned.
+5. The directions contained in this Circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and non-compliance with the guidelines would attract penal provisions of Section 11(3) of the Act, ibid.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-in-Charge

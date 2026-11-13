@@ -1,0 +1,70 @@
+---
+doc_id: "Notifications_2013_8427"
+title: "Overseas forex trading through electronic / internet trading portals"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRAPDI170913.pdf"
+pdf_sha256: "cd5d0b50c500f6af56b38e62f9dbe4d0f904b05787870d756bc3f14000fc83a4"
+md_sha256: "ed5b5d57cf62aa0f67ac649c4afd8bfdf351ca8e5e203a1acffb1367f4fe786c"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-17_Notification_8427_Overseas%20forex%20trading%20through%20electronic%20-%20internet%20trading%20portals.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas forex trading through electronic / internet trading portals
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001**
+
+**RBI/2013-14/265**
+
+**A.P. (DIR Series) Circular No. 46 September 17, 2013** To All Category-I Authorised Dealer Banks Madam/ Sir, **Overseas forex trading through electronic / internet trading portals** Attention of the Authorised Dealer Category-I (AD Category-I) banks is invited to <u>A.P. (DIR Series) Circular No. 53 dated April 07, 2011</u> and <u>A.P. (DIR</u> <u>Series) Circular No. 46 dated November 17, 2011</u> wherein AD Category I banks were advised to exercise due caution and be extra vigilant in respect of the margin payments being made by the public for online forex trading transactions through credit cards / deposits in various accounts maintained with banks in India. Further, AD Category-I banks were also advised to exercise due caution in respect of the accounts being opened in the name of individuals or proprietary concerns at different bank branches for collecting the margin money, investment money, etc. in connection with such transactions.
+2. However, it has been observed that some banking customers continue to undertake online trading in foreign exchange on portals / websites offering such schemes wherein they initially remit funds from Indian bank accounts using credit cards or other electronic channels to overseas websites / entities and subsequently receive cash refunds from the same overseas entities into their credit card or bank accounts.
+
+<!-- PAGE 2 -->
+
+3. With a view to further strengthening the restrictions on such online activities which are in violation of FEMA, 1999, AD Category I banks are hereby directed as follows:
+(i) All AD Category I banks who offer credit cards or online banking facilities to their customers should advise their customers that any person resident in India collecting and effecting / remitting payments directly /indirectly outside India in any form towards overseas foreign exchange trading through electronic/internet trading portals would make himself/ herself / themselves liable to be proceeded against with for contravention of the Foreign Exchange Management Act (FEMA), 1999 besides being liable for violation of regulations relating to Know Your Customer (KYC) norms / Anti Money Laundering (AML) standards. (ii) As and when any AD category I bank comes across any prohibited transaction undertaken by its credit card or online banking customer the bank will immediately close the card or account of the defaulting customer and report the same to Chief General Manager-in-Charge, Forex Markets Division, Foreign Exchange
+th Department, Reserve Bank of India, Central Office, 5 Floor, Amar Building, P.M. Road, Mumbai – 400001 in the format provided in the Annex to this circular.
+
+4. If it is observed that the concerned AD category I bank has failed to carry out the measures as outlined above, Reserve Bank of India may proceed against the defaulting bank under section 11(3) of FEMA, 1999 and take any action as may be deemed necessary.
+5. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned. The instructions contained in this circular may also be brought to the attention of the card issuing companies who may also be advised to remain alert against permitting payments for such unauthorized transactions.
+
+<!-- PAGE 3 -->
+
+6. The directions contained in this circular have been issued under sections 10(4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+## Chief General Manager-In-Charge
+
+<!-- PAGE 4 -->
+
+*Annex* **Reporting of Online Transactions prohibited under FEMA 1999 (Act 42 of 1999)**
+
+*Name of the AD Category I Bank*
+
+|Sr. No.||
+|---|---|
+|1|Name and Designation of the reporting official / Head of Compliance|
+|2|Contact Details of the reporting official / Head of Compliance|
+|3|Name of the Customer / Cardholder|
+|4|Card / bank account number|
+|5|Name / URL of the website / portal where the transactions were undertaken|
+|6|Date of detection by the bank|
+|7|Date wise amount of debits / credits|
+|8|Date of closing the card / bank account|
+
+## Details of the online transactions
+
+## Declaration by Authorised official of the bank
+
+I have examined the above transactions and concluded that the same were prohibited as remittance in any form towards overseas foreign exchange trading through electronic / internet trading portals is not permitted under the Foreign Exchange Management Act (FEMA), 1999.
+
+(Name & signature) Date: Place:
