@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2010_UBD_BPD_PCB_Cir_No_4_16_12_000_2010-11"
+title: "Guidelines on Trading of Currency Options on Recognised Stock / New Exchanges - Participation of UCBs"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/TCA151010E.PDF"
+pdf_sha256: "b84afdd5a0f94ebcf74eff5db8d4fe6462984095fb48d8be39da448f5b099ebf"
+md_sha256: "fb09dd05cb73f267884e7e9e0d2445c32b6f3469a99ff6a1946d4ffab3616a20"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:09:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-10-11_Circular_UBD.BPD.%28PCB%29.Cir.No.4-16.12.000-2010-11_Guidelines%20on%20Trading%20of%20Currency%20Options%20on%20Recognised%20Stock%20-%20New%20Exchanges%20-%20Participation%20of%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Trading of Currency Options on Recognised Stock / New Exchanges - Participation of UCBs
+
+<!-- PAGE 1 -->
+
+**___________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+RBI/2010-11/236 UBD.BPD.(PCB). Cir. No 4 /16.12.000/2010-11 October 11, 2010
+
+The Chief Executive Officer, All AD Category – I Primary (Urban) Cooperative Banks.
+
+Dear Sir,
+
+## <u>Guidelines on Trading of Currency Options on Recognised Stock / New</u>
+
+## <u>Exchanges – Participation of UCBs</u>
+
+Reserve Bank of India has issued Guidelines on Trading of Currency Options on Recognised Stock / New Exchanges vide <u>A.P (DIR Series) Circular No.05 dated July</u> <u>30, 2010</u> (copy enclosed). Accordingly it has been decided to allow AD Category – I UCBs, fulfilling the norms for AD – I license (listed in <u>Annexure I</u> of Circular UBD.PCB.Cir No. 21/16.12.000/06-07 dated November 27, 2006) to participate in the exchange traded currency option market of a designated exchange recognized by SEBI, **only as clients**, subject to RBI (Foreign Exchange Department) Guidelines, referred to above. Participation will be allowed only for hedging
+
+# Withdrawn
+
+underlying forex exposure arising from customer transactions.
+
+2. UCBs which are authorized to undertake forex business as AD category – I and desirous of participating in the exchange traded currency option market may approach Reserve Bank of India, Urban Banks Department, Central Office, Mumbai for specific approval in this regard.
+## Yours faithfully
+
+(A. Udgata) Chief General Manager-In-Charge
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018 Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0231, Email: rbiubdco@rbi.org.in

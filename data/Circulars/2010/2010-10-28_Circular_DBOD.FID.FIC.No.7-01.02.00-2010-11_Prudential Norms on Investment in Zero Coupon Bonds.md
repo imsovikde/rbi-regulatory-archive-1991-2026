@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2010_DBOD_FID_FIC_No_7_01_02_00_2010-11"
+title: "Prudential Norms on Investment in Zero Coupon Bonds"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/LOD281010.PDF"
+pdf_sha256: "c1f98fe7dd2a792920314cb2db718e34de0c9b45de9e77b4212e6d09dbdd6a06"
+md_sha256: "b3a6647f70f3371c02d8c8c028ae74ab6c943027bd4e0fdfa9114defa12e3937"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:09:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-10-28_Circular_DBOD.FID.FIC.No.7-01.02.00-2010-11_Prudential%20Norms%20on%20Investment%20in%20Zero%20Coupon%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Investment in Zero Coupon Bonds
+
+<!-- PAGE 1 -->
+
+## _______RESERVE BANK OF INDIA______________
+
+www.rbi.org.in
+
+RBI/2010-11/247 DBOD.FID.FIC.No 7/01.02.00 /2010-11 October 28, 2010
+
+### The CEOs of select All-India Term Lending and Refinancing Institutions
+
+### (Exim Bank, NABARD, NHB and SIDBI)
+
+Dear Sir,
+
+### Prudential Norms on Investment in Zero Coupon Bonds
+
+Please find enclosed circular <u>DBOD No. BP .BC .44 / 21.04.141</u> / 2010-11 <u>dated September 29, 2010</u> on the above subject. In this connection, it is advised that the above guidelines issued to banks, shall mutatis mutandis apply to the select All-India Financial Institutions (AIFIs)
+
+Yours faithfully,
+
+# Withdrawn
+
+(Vinay Baijal) Chief General Manager
+
+___________________________________________________________________________________________________________________ ______________________________ **Department of Banking Operations and Development, Central Office,P.O.Box No.1004,13th floor,Central Office Building, Shahid Bhagat** **Singh Marg, Mumbai -1** **Tel No: 91-22-2270 1206¸/Fax No: 91-22-2270 1238 Email ID: cgmicdbodco@rbi.org.in**

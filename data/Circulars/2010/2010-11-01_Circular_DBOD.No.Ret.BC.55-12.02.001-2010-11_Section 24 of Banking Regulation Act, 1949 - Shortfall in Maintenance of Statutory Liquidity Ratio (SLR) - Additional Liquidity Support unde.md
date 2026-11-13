@@ -1,0 +1,86 @@
+---
+doc_id: "Circulars_2010_DBOD_No_Ret_BC_55_12_02_001_2010-11"
+title: "Section 24 of Banking Regulation Act, 1949 - Shortfall in Maintenance of Statutory Liquidity Ratio (SLR) - Additional Liquidity Support under Liquidity Adjustment Facility (LAF)"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SER1112010.PDF"
+pdf_sha256: "e7347b931d5c027d337ac280ffb984aab887390a8a4e2b8f8edde87136f3ed28"
+md_sha256: "fd0965a768176a9b4b85870bc45fdbf97ebad8f0fc9459f2c11115dc82765181"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:09:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-11-01_Circular_DBOD.No.Ret.BC.55-12.02.001-2010-11_Section%2024%20of%20Banking%20Regulation%20Act%2C%201949%20-%20Shortfall%20in%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20-%20Additional%20Liquidity%20Support%20unde.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of Banking Regulation Act, 1949 - Shortfall in Maintenance of Statutory Liquidity Ratio (SLR) - Additional Liquidity Support under Liquidity Adjustment Facility (LAF)
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/252
+
+Ref.DBOD.No.Ret.BC.55/12.02.001/2010-11
+
+November 1,2010
+
+All Scheduled Commercial Banks
+
+Dear Sir,
+
+Section 24 of Banking Regulation Act, 1949- Shortfall in Maintenance of
+
+Statutory Liquidity Ratio (SLR) - Additional Liquidity support under Liquidity
+
+Adjustment Facility (LAF)
+
+Please refer toourcircular
+
+DBOD.No.Ret.BC.54/12.02.001/2010-11
+
+dated October 29,2010 on the captioned subject.
+
+2. As stated in the Reserve Bank's press release
+
+e issued on October 31,2010,in
+
+view of likely persistence of frictional liquidity
+
+extend the liquidity easing measures annou
+
+on October 29, 2010 on all days
+
+cheduled Commercial Banks may avail
+
+of additional liquidity support unde
+
+Liquidity Adjustment Facility (LAF） to the
+
+extent of up to 1.0 per cent of
+
+t Demand and Time Liabilities (NDTL) as on
+
+et
+
+October 8, 2010. As the LAF auction on November 4, 2010 will be for four days,
+
+banks may seek waiver of penal interest for any shortfall in maintenance of Statutory
+
+n o  o o  i o
+
+purely as an ad hoc, temporary measure.
+
+Yours faithfully,
+
+(P R Ravi Mohan)
+
+Chief General Manager
+
+DepartmentfBankingperationsandDevelopment,CentralOffice,Centr1CuffeParadeColabaMumbai00005
+
+Tel No: 91-22-22189131Fax No: 91-22-22183785Email ID:cgmicdbodco@rbi.org.in
