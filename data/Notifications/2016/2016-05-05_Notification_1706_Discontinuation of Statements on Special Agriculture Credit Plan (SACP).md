@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2016_1706"
+title: "Discontinuation of Statements on Special Agriculture Credit Plan (SACP)"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/C39105052016.pdf"
+pdf_sha256: "bce87223328fe3f230538bdd0e76487a077b35df610e02a909af7c24238bc570"
+md_sha256: "da287dc29fd3201f5a2e923a9f87c88612db5c99c8a0fc62549e10262ab7a2c3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-05-05_Notification_1706_Discontinuation%20of%20Statements%20on%20Special%20Agriculture%20Credit%20Plan%20%28SACP%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Discontinuation of Statements on Special Agriculture Credit Plan (SACP)
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/391 FIDD. No. FSD. BC.24/05.05.014/2015-16 May 5, 2016
+
+The Chairman/ Managing Director / Chief Executive Officer [All Scheduled Commercial Banks, (excluding Regional Rural Banks)]
+
+Madam / Dear Sir, <u>Discontinuation of Statements on Special Agriculture Credit Plan (SACP)</u>
+
+In order to monitor and augment the flow of credit to Agriculture, Special Agriculture Credit Plans (SACP) were introduced for Public Sector banks in 1994 and extended to Private Sector Banks in 2004. Under SACP, the banks are required to fix self-set targets for achievement during the year (April-March), with an increase of about 25% over the disbursement made in the previous year. The banks were required to forward half yearly statements to RBI (FIDD) indicating their progress of implementation as at the end of March and September every year.
+
+2. As we are receiving the relevant data through Priority Sector Returns, it has been decided to discontinue the submission of the above statements from April 2016. Accordingly, banks are advised not to furnish half yearly statements as above for the year 2016-17 to FIDD, Reserve Bank of India. However, the credit disbursement statements for the half year ended March 2016 may be forwarded to the Bank.
+3. Please acknowledge receipt. Yours faithfully, Sd/- (Jose J. Kattoor) Chief General Manager व त् त ी य समावेशन औरवकास वभाग, के न्द्रयकायार्लय,10वीमंिजल, कद्रयकायार्लयभवन,शहदभगतसंहमागर्,पोस्ट बॉक्ससं. 10014,मुंबई-400001 Financial Inclusion & Development Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai-1
+टेल <u>Tel:022-22601000फै क्सः91-22-22621011/22610943/22610948</u> ई-मेल: cgmincfidd@rbi.org.in
+
+||�हंद|आसान है,इसका प्रयोग बढ़ाइए।|
+|---|---|---|
+|चेतावनी|यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए।|:�रज़वर् बक द्वारा मेल डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती है। "|
+|Caution:|keeps or offers funds to anyone. Please do not respond in any manner to such offers.|RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|

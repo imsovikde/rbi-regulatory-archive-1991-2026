@@ -1,0 +1,64 @@
+---
+doc_id: "Notifications_2016_10408"
+title: "Frauds in UCBs: Changes in Monitoring and Reporting mechanism"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT39937E324F34C744CB78033AF020C1A1A5F.PDF"
+pdf_sha256: "3e090ba8fa308195b621a115b74871d5eaeccbd465a5a35244564cab65acf711"
+md_sha256: "54562b288d0c5bce2da61aa042651279a14d3fde7448d397d5351ef706e082ec"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-05-19_Notification_10408_Frauds%20in%20UCBs-%20Changes%20in%20Monitoring%20and%20Reporting%20mechanism.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Frauds in UCBs: Changes in Monitoring and Reporting mechanism
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/399 DCBS.CO.Cir.No.001/12.17.001/2015-16 May 19, 2016
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## Frauds in UCBs: Changes in Monitoring and Reporting mechanism
+
+Please refer to our <u>Master circular no. DCBR.CO.BPD.MC.No.1/12.05.001/2015-16 on</u> <u>Frauds- Classification and Reporting dated July 01, 2015</u>.
+
+2. On a review, it has been decided to change the fraud monitoring and reporting mechanism at the Regional Offices and Central Fraud Monitoring Cell (CFMC) of the RBI. Accordingly, henceforth:
+(i) Frauds below ₹ 1.00 crore will be monitored by the respective Regional Office of the Department of Co-operative Bank Supervision (DCBS), RBI under whose jurisdiction the Head Office of the bank falls and (ii) Frauds of ₹ 1.00 crore and above will be monitored by CFMC, RBI, Bengaluru.
+## 3. Reporting of frauds by UCBs:
+
+Consequently, the reporting mechanism for fraud cases will be as under:
+
+3.1 Frauds below ₹ 1.00 lakh are not to be reported individually to the RBI. However, as done earlier, statistical data in respect of such frauds should be submitted to RBI in the prescribed quarterly statement.
+3.2 Individual frauds of ₹ 1.00 lakh and above but below ₹ 1.00 crore should be reported to the Regional Office of Department of Cooperative Bank Supervision (DCBS) of RBI, under whose jurisdiction the Head Office of the bank falls, in FMR-1 format, within three weeks from the date of detection. सहकार बक पयर्वेण वभाग, कद्रय कायार्लय, बांन्द्रा कु लार् कॉम्पेक्स, बांन्द्रा (पु), मुंबई - 400051 भारत फोन: 022 – 26578100/8300/8700; फै क् स : 022 -26571117; ई-मेल: <u>cgmdcbsco@rbi.org.in</u> Department of Co-operative Bank Supervision, Central Office, C-9, Gr/ 1
+st floor, Bandra Kurla Complex, Bandra (E), Mumbai - 400051, India Phone: 022 – 26578100<u>; Fax 022-26571117 E-mail: cgmdcbsco@rbi.org.in</u> <u>�हंद आसान है, इसका प्रयोग बढ़ाइए—</u> चेतावनी: भारतीय �रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व्यिक्त क जानकार जैसे बक के खाते का ब्यौरा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस्ताव भी नहं करता है। ऐसे प्रस्ताव का कसी भी तरके से जवाब मत दिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+3.3 Individual frauds of ₹ 1.00 crore and above should be reported to Central Frauds Monitoring Cell (CFMC), Department of Banking Supervision (DBS), RBI, Bengaluru, in FMR-1 format, within three weeks from the date of detection with a copy to Regional Office of DCBS, RBI under whose jurisdiction the Head Office of the bank falls.
+3.4 Additionally, in case of frauds of ` 1.00 crore and above, a flash report in the form of DO letter addressed to Principal Chief General Manager, DBS, CO, RBI has to be submitted within a week of such fraud coming to the notice of the bank's Head Office with a copy to Regional Office of DCBS, RBI under whose jurisdiction the Head Office of the bank falls.
+4. Further, you may be aware about the discontinuance of submission of hard copy of non- statutory returns. <u>It is reiterated that FMR-1 should be submitted in soft copies through e-</u> <u>mail</u> as per reporting mechanism advised in para 3.2 and 3.3 above. However, UCBs have to submit a monthly certificate to the effect that soft copy of all the frauds of ₹ 1.00 lakh and above, to be reported to the RBI in a month, has been sent through email. The certificate may be sent to CFMC, Bengaluru with a copy to the respective Regional Office of DCBS, RBI under whose jurisdiction the Head Office of the bank falls within seven days from the end of the month. A format of the same is given in Annex-1.
+5. The above changes will be effective from the date of this circular. All other instructions contained in the <u>Master Circular on Frauds–Classification and Reporting dated July 01, 2015</u> remain unchanged.
+## Yours faithfully
+
+(Malvika Sinha) Principal Chief General Manager
+
+सहकार बक पयर्वेण वभाग, कद्रय कायार्लय, बांन्द्रा कु लार् कॉम्पेक्स, बांन्द्रा (पु), मुंबई - 400051 भारत फोन: 022 – 26578100/8300/8700; फै क् स : 022 -26571117; ई-मेल: <u>cgmdcbsco@rbi.org.in</u> Department of Co-operative Bank Supervision, Central Office, C-9, Gr/ 1 st floor, Bandra Kurla Complex, Bandra (E), Mumbai - 400051, India Phone: 022 – 26578100<u>; Fax 022-26571117 E-mail: cgmdcbsco@rbi.org.in</u> <u>�हंद आसान है, इसका प्रयोग बढ़ाइए—</u> चेतावनी: भारतीय �रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व्यिक्त क जानकार जैसे बक के खाते का ब्यौरा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस्ताव भी नहं करता है। ऐसे प्रस्ताव का कसी भी तरके से जवाब मत दिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 3 -->
+
+## Annex-1
+
+||Name of the bank: Certificate for the month:|Monthly certificate in respect of submission of fraud cases through FMR-1 It is certified that soft copy of the following fraud cases, which were to be reported to RBI during the month ------------------------, have been sent to RBI by mail.|Date:||
+|---|---|---|---|---|
+|Sr. No.|Fraud Number|Name of the Party|Amount Involved (₹ lakh)|Date sent|
+
+## Signature
+
+## Name & Designation of the authorized official

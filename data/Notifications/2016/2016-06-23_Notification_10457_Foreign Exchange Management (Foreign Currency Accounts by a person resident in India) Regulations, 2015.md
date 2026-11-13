@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2016_10457"
+title: "Foreign Exchange Management (Foreign Currency Accounts by a person resident in India) Regulations, 2015"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR773239B5929AC945BF9CB3357F7B78AA92.PDF"
+pdf_sha256: "35d6fc7645dbd7df49f1474ec9a2d604480d8c33fbcea227d1827be23001d908"
+md_sha256: "10538511f2c76ad8fa0a2ab6beafbb313b1e7451f93a0364838c337743f0d035"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-06-23_Notification_10457_Foreign%20Exchange%20Management%20%28Foreign%20Currency%20Accounts%20by%20a%20person%20resident%20in%20India%29%20Regulations%2C%202015.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management (Foreign Currency Accounts by a person resident in India) Regulations, 2015
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA Mumbai - 400 001
+
+## RBI/2015-16/430 A.P. (DIR Series) Circular No. 77 [(2)/10(R)]
+
+## June 23, 2016
+
+To All Category-I Authorised Dealers and Authorised Banks Madam / Sir, **Foreign Exchange Management (Foreign Currency Accounts by a person resident in India) Regulations, 2015**
+
+Attention of Authorised Dealers Banks is invited to the Foreign Exchange Management (Foreign Currency Accounts by a person resident in India) Regulations, 2015, notified vide <u>Notification No. FEMA 10(R)/2015-RB dated January 21, 2016</u>, and <u>A.P (DIR</u> <u>Series) Circular No. 51 dated February 11, 2016</u> with respect to regulatory relaxations for startups.
+
+2. In line with the Government of India’s startup initiative, it has been decided that an Indian startup, having an overseas subsidiary, may open a foreign currency account with a bank outside India for the purpose of crediting to the account the foreign exchange earnings out of exports/sales made by the said startup or its overseas subsidiary. The balances held in such accounts, to the extent they represent exports from India, shall be repatriated to India within the period prescribed for realization of exports, in <u>Foreign Exchange Management (Export of Goods and Services)</u> <u>Regulations, 2015 dated January 12, 2016</u>, as amended from time to time.
+3. In addition, payments received in foreign exchange by an Indian startup arising out of sales/ export made by the startup or its overseas subsidiaries will be a permissible credit to the Exchange Earners Foreign Currency (EEFC) account maintained in India by the startup.
+
+<!-- PAGE 2 -->
+
+4. A startup will mean an entity which complies with the conditions laid down in Notification No. GSR 180(E) dated February 17, 2016 issued by Department of Industrial Policy and Promotion, Ministry of Commerce and Industry, Government of India.
+5. Further, the existing facility of opening foreign currency account outside India, available to the Life Insurance Corporation of India or the General Insurance Corporation of India and their subsidiaries for the purpose of meeting the expenditure incidental to the insurance business carried on by them has now been liberalised. Accordingly, any insurance/ reinsurance company registered with the Insurance Regulatory and Development Authority of India (IRDA) may open a foreign currency account with a bank outside India to carry out insurance/ reinsurance business.
+6. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+7. Reserve Bank has since amended the subject Regulations accordingly through the Foreign Exchange Management (Foreign Currency Accounts by a person resident in India) (Amendment) Regulations, 2016 which have been notified vide <u>Notification No.</u> <u>FEMA 10(R)/(1)/2016-RB dated June 1, 2016</u>, vide G.S.R.No.570(E) dated June 1,
+2016. Necessary amendments have also been carried out in <u>Master Direction No. 14</u> on Deposits and Accounts.
+8. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(A. K. Pandey) Chief General Manager
