@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2017_DBR_No_Leg_BC_55_09_07_005_2016-17"
+title: "All Agency Banks to Remain Open for Public on All days from March 25, 2017 to April 1, 2017"
+category: "Circulars"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI25660EA7853B470494CA06A3F5ED230DB78.PDF"
+pdf_sha256: "9e9a5bc9a2b17713af409df47aac7c86557119890dc91c208e43d655da1191a0"
+md_sha256: "3b81c363934ed2d525a250d890cab07dd337c114649f2065d8173734295d8964"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:37:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-03-24_Circular_DBR.No.Leg.BC.55-09.07.005-2016-17_All%20Agency%20Banks%20to%20Remain%20Open%20for%20Public%20on%20All%20days%20from%20March%2025%2C%202017%20to%20April%201%2C%202017.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# All Agency Banks to Remain Open for Public on All days from March 25, 2017 to April 1, 2017
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/256 DBR.No.Leg.BC.55/09.07.005/2016-17 March 24, 2017
+
+## All Agency Banks
+
+Dear Sir/ Madam,
+
+**All Agency Banks to remain open for public on all days from March 25, 2017 to** **April 1, 2017**
+
+The Government of India has advised that all Pay and Account Offices will remain open on all days up to April 1, 2017 to facilitate government receipt and payment functions. Accordingly, all Agency Banks are advised to keep all their branches dealing with government business open on all days in the current financial year and on April 1, 2017 (including Saturday, Sunday and all holidays).
+
+Banks may give due publicity about availability of above banking services on these days.
+
+Yours faithfully,
+
+(Rajinder Kumar) Chief General Manager
+
+___________________________________________________________________________ बकं ग व�नयमन वभाग**,** कद्रय कायार्लय**,** 12 वी मंिजल**,** कद्रय कायार्लय भवन, शहद भगतसंह मागर् मुंबई 400001 Department of Banking Regulation, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg,, Mumbai,400001 टेलीफ़ोन/Tel No:91-22-22661602 फ़ै क् स / Fax No:91-22-22705691 Email ID:cgmicdbodco@rbi.org.in
