@@ -1,0 +1,70 @@
+---
+doc_id: "Circulars_2008_RPCD_CO_RRB_No_8483_03_05_28_B_2007-08"
+title: "Notification on Maintenance of Statutory Liquidity Ratio (SLR) - RRBs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/83121.PDF"
+pdf_sha256: "bcd2b87180b640d72e211f22422239bba16eada48b27ca8fbb45c6f51e7dd6ef"
+md_sha256: "82f5d5b3007aefe8f4ce468875e36421338b587c048e803ffb087f97bfe2f592"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:01:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-02-14_Circular_RPCD.CO.RRB.No.8483-03.05.28%28B%29-2007-08_Notification%20on%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20-%20RRBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Maintenance of Statutory Liquidity Ratio (SLR) - RRBs
+
+<!-- PAGE 1 -->
+
+RBI/2007-08/237 RPCD.CO.RRB.No.BC.47/03.05.28 (B)/2007-08 February 14, 2008
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## <u>Section 24 of the Banking Regulation Act, 1949</u>
+
+## <u>Maintenance of Statutory Liquidity Ratio (SLR) - RRBs</u>
+
+Please refer to our DBOD circular No. BC.137/12.02.001/97-98 dated October 21, 1997 on the captioned subject.
+
+The Banking Regulation (Amendment) Act, 2007 replacing the Banking Regulation (Amendment) Ordinance, 2007 came into effect from January 23,
+
+2007. Consequent upon amendment to Section 24 of the Banking Regulation Act, 1949 all Regional Rural Banks shall continue to maintain a uniform statutory liquidity ratio (SLR) of 25 per cent on their total net demand and time liabilities in the assets as specified in the enclosed notification No. RPCD.CO. RRB. No. 8483/ 03.05.28(B)/2007-08 dated February 14, 2008..
+Yours faithfully
+
+# Withdrawn
+
+(G.Srinivasan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+RPCD.CO.RRB. No.8483 / 03.05.28(B)/2007-08 February 14, 2008
+
+## <u>NOTIFICATION</u>
+
+In exercise of the powers conferred by sub-section (2A) of Section 24 of Banking Regulation Act, 1949 (10 of 1949) and, in partial modification of Notification DBOD No. BC.117/11.02. 001 /97-98 dated October 21, 1997, the Reserve Bank of India hereby specifies that every Regional Rural Bank shall continue to maintain in India assets as detailed below, the value of which shall not, at the close of business on any day, be less than 25 per cent of the total net demand and time liabilities in India as on the last Friday of the second preceding fortnight, valued in accordance with the method of valuation specified by the Reserve Bank of India from time to time:
+
+(a) Cash, or
+(b) Gold valued at a price not exceeding the current market price, or
+(c) Unencumbered investment in the following instruments which will be referred to as 'statutory liquidity ratio (SLR) securities':
+i. Dated securities as per the list given in the Annex; ii. All Treasury Bills already issued, and to be issued in future, by the Government of India;
+# Withdrawn
+
+iii. Dated Securities to be issued in future by the Government of India under the market borrowing programme and under the market stabilization scheme with SLR status incorporated in the relevant notification;
+
+iv. State Development Loans to be issued in future by State Governments under their market borrowing programme, with SLR status incorporated in the relevant notification; and
+
+v. Any other instrument as notified in future by RBI for SLR status. Explanation: 'unencumbered investment' shall include investment in the aforesaid securities lodged with another institution for an advance or any other credit arrangement to the extent to which such securities have not been drawn against or availed of.
+
+<!-- PAGE 3 -->
+
+In computing the amount for the above purpose, the following shall be deemed to be cash maintained in India:
+
+i) Any balances maintained by a Regional Rural Bank with the Reserve Bank in excess of the balance required to be maintained by it under Section 42 of the Reserve Bank of India Act, 1934 (2 of 1934); and ii) Net balances in current accounts with other scheduled commercial banks in India.
+(V.S.Das) Executive Director
+
+# Withdrawn

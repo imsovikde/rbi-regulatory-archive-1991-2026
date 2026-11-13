@@ -1,0 +1,228 @@
+---
+doc_id: "Circulars_2008_DBS_CO_BC_OSMOS_No_12_33_01_039_2007-08"
+title: "Annual Reporting System in respect of Non-SSI Sick / Weak Industrial Units"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/83665.PDF"
+pdf_sha256: "8e72ffe263fa10af01b0551bc47e1abd5daada70e355c79321613aae129bc628"
+md_sha256: "63591b20acd716c37587f1652496ca0ed2a55cd34f72f6e04a6a6f74965bf324"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:01:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-03-19_Circular_DBS.CO.BC.OSMOS%20No.12-33.01.039-2007-08_Annual%20Reporting%20System%20in%20respect%20of%20Non-SSI%20Sick%20-%20Weak%20Industrial%20Units.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Annual Reporting System in respect of Non-SSI Sick / Weak Industrial Units
+
+<!-- PAGE 1 -->
+
+## Ref RBI. No.: 264/2007-08
+
+## DBS.CO.BC.OSMOS No.12/33.01.039/2007-08
+
+## March 19, 2008
+
+The Chairman, Chief Executive Officer All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir/Madam,
+
+## <u>Annual Reporting System in respect of Non-SSI Sick/Weak Industrial Units</u>
+
+Please refer to our letter RBI.No:356/2005-06, DBS.CO.BC.OSMOS No. 5/33.01.039/2005-06 dated April 12, 2006 on the captioned subject, advising to submit the return on Non-SSI sick/weak units in a revised format on a dbase based software.
+
+2 For compilation of data, the definitions of Non-SSI sick/weak units were stipulated vide, circular IECD.No.7/IR-73/89-90 dated September 22, 1989, on the basis of definitions provided in the then "Sick Industrial Companies (Special Provisions) Act (SICA) -1985". The SICA-1985 was repealed vide SICA Repeal Act, 2003. In view of that a need was felt to redefine Non-SSI sick/weak units. The revised definitions of Non-SSI sick/weak units are as follows, which may be followed henceforth for reporting of the captioned return/data:
+
+(i) A “**Non-SSI sick unit**” is a Non-SSI industrial undertaking (regardless of type of incorporation) whose accumulated losses, as at the end of the latest financial year, equal or exceed its entire net worth (viz., paid up capital and free reserves). (ii) A “**Non-SSI weak unit**” is a Non-SSI industrial undertaking (regardless of type of incorporation) if
+a. any of its borrowal accounts (principal or interest) has remained overdue for a period exceeding one year;
+**or**
+
+b. there is erosion in the net worth due to accumulated losses to the extent of 50% of its net worth during the previous financial year.
+3. The revised definitions of **Non-SSI sick/weak units** are almost in alignment with the definitions of **SSI sick units** adopted by the RPCD as stipulated in the circular RPCD.No.PLNFS.BC.57/06.04.01/2001-2002 dated January 16, 2002. It will also enable identification of sick units at incipient stage itself and to take appropriate remedial measures.
+4. The data reporting format is given in ANNEX-I. Also, to facilitate proper industry classification, detailed descriptions of industrial activities have been provided in ANNEX-II. Banks are advised to suWithdrawnbmit the **annual return** on Non-SSI sick/weak units **as on March 31**, **within one month from the reference** **date**.
+Yours faithfully,
+
+(S Karuppasamy) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## ANNEX-I
+
+## <u>Data Reporting Format</u>
+
+## Bank's Exposure to Non-SSI Sick/Weak Industrial Units
+
+## (As at the end- March )
+
+Bank Name : Bank Code :
+
+## Summary
+
+## Category No. of Units Outstanding Advances (Rs. Lakhs)
+
+Non-SSI Sick <u>. .</u> Non-SSI Weak <u>. .</u>
+
+**a. Non-SSI Sick Industrial Units** **Sr. Category of No. of Units Advances Outstanding (Rs. Lakhs)** **No. Industry Total Of which Total Of which**
+## Private Sector Private Sector
+
+## <u>(1) (2) (3) (4) (5) (6)</u>
+
+… … <u>…</u>
+
+# Withdrawn
+
+**b. Non-SSI Weak Industrial Units** **Sr. Category of No. of Units Advances Outstanding (Rs. Lakhs)** **No. Industry Total Of which Total Of which**
+## Private Sector Private Sector
+
+## <u>(1) (2) (3) (4) (5) (6)</u>
+
+… … <u>…</u>
+
+**Note**: **The format is only indicative. Banks are required to compile the related data using the software**
+
+## provided by the RBI (available at: [http://www.rbi.org.in/osmos/](http://www.rbi.org.in/osmos/)) and submit the data only in soft copy
+
+**form through e-mail at** osmos@rbi.org.in.
+
+<!-- PAGE 3 -->
+
+## <u>ANNEX-II</u>
+
+## <u>List of Industry Groups/Codes:</u>
+
+## Industry Group
+
+|Sr.|||Industry Group Code|
+|---|---|---|---|
+|No.||||
+|I Cement|1. 2.|Manufacture of cement, lime and plaster Manufacture of articles of concrete, cement and plaster including asbestos cement and its products, hume pipes etc.|Code: 01|
+|II Chemicals|||Code: 02|
+
+1. Manufacture of basic chemicals except fertilizers and nitrogen compounds (Heavy industry organic or inorganic chemicals and gases).
+2. Manufacture of turpentine and resins of vegetable origin
+3. Manufacture of fertilizers and nitrogen compounds
+4. Manufacture of plastic in primary form and of synthetic rubber: includes manufacture of synthetic rubber, amino-resins, phenolic-resins, polyurethanes, cellulose and its chemical derivatives, natural polymers and modified natural polymer, other plastics in primary forms (including mixtures of synthetic rubber and natural rubber or rubber like gum e.g. balata)
+5. Manufacture of plastic products-includes manufacture of semi-finished products, packing products, bathing tubs, wash-basins, lavatory pans and covers, flushing cisterns and similar sanitary-ware, travel goods (suitcases, vanity bags, holdalls and similar articles), spectacle frames, moulded industrial accessories [including electrical insulating fittings of plastics], tableware, kitchenware and other household and toilet articles of plastic; vacuum flasks and other vacuum vessels, plastic headgears etc.
+6. Manufacture of pesticides and other agro chemical products
+7. Manufacture of paints, varnishes and similar coatings, printing ink and mastics
+8. Manufacture of pharmaceuticals, medicinal chemicals and botanical products (including ‘Ayurvedic’, homeopathic and ‘unani’ pharmaceutical preparations, Veterinary preparations, surgical dressings)
+9. Manufacture of soaps of all type, wa
+# Withdrawn
+
+xes & polishes, organic surface-active agents (surfactants) and preparations based thereon, detergents, auxiliary washing and cleaning preparations, perfumes, cologne, preparations for dental hygiene (tooth pastes, toothpowder etc.), cosmetics and toiletries (pre-shave, shaving or after shave preparations, anti-respirants etc.), hair oil, shampoo, hair dye and other toilet preparations; Manufacture of agarbatti and other odouriferous preparations which operate by burning
+
+10. Manufacture of Matches & fireworks, explosives, ammunitions
+11. Non-edible oils: Manufacture of essential oils, modification by chemical processes (e.g. by oxidation, polymerization etc.) of oils and fats
+12. Manufacture of photochemical, sensitised films and papers
+13. Manufacture of gelatin and gelatin derivatives, glues of animal origin, prepared glues and other prepared adhesives including adhesives based on rubber or plastics
+14. Manufacture of fine chemicals and other chemical products n.e.c. (including anti-knock preparations, anti-freeze preparations, liquids for hydraulic transmission, composite diagnostic or laboratory reagents, writing or drawing ink, processed salt (except table salt) and other chemical products)
+15. Manufacture of man-made fibres [This class includes manufacture of artificial or synthetic filament and non-filament fibres.]
+## III Electrical Code: 03
+
+1. Manufacture of computers, printers and other computer peripherals, automatic data processing machines and other computing machinery etc. including parts & accessories
+2. Manufacture of office, accounting and computing machinery [manual or electric or electronic typewriters, hectograph or stencil duplicating machines, addressing machines, printing machines, calculating machines; other calculators; accounting machines, cash registers, postage franking machines, ticket issuing machines and similar machines incorporating a calculating device; photo-copying apparatus etc.]
+3. Manufacture of electric motors, generators and transformers
+
+<!-- PAGE 4 -->
+
+4. Manufacture of electricity distribution and control apparatus [electrical apparatus for switching or protecting electrical circuits (e.g. switches, fuses, etc.); boards, panels, consoles, cabinets and other bases equipped with two or more of the above apparatus for electricity control or distribution of electricity including power capacitors]
+5. Manufacture of insulated wire and cable [insulated (including enameled or anodized) wire, cable (including COAXIAL CABLE) and other insulated conductors; insulated strip as is used in large capacity machines or control equipment; and **OPTICAL FIBRE** CABLES]
+6. Manufacture of accumulators, primary cells and primary batteries
+7. Manufacture of electric lamps and lighting equipments
+8. Manufacture of other electrical equipments n.e.c.
+9. Manufacture of electronic valves and tubes and other electronic components; all type of electronic goods and components n.e.c.
+10. Manufacture of television and radio transmitters and apparatus for line telephony and line telegraph
+11. Manufacture of related specialized parts and accessories
+12. Manufacture of television and radio receivers, sound or video recording or reproducing apparatus, and associated goods; manufacture of related specialized parts and accessory
+13. Generation of electricity: hydro-electric power plants, coal based thermal power plants, oil- based thermal power plants, atomic reactor power plants and other power plants using conventional fuels (e.g. gas based)
+14. Transmission of electricity generated from conventional sources [hydro-electric power plants, coal based thermal power plants, oil-based thermal power plants, atomic reactor power plants and other power plants using conventional fuels (e.g. gas based)]
+15. Energisation of pumpsets/wells (advances granted to State Electricity Boards for energisation of pumpsets/ wells should be shown here)
+16. Collection and distribution of electric energy to households, industrial, commercial and other users
+17. Generation and distribution of bio-gas energy
+18. Generation and distribution of solar energy and energy from other non-conventional sources (wind mills etc.)
+19. Manufacture of gas; distribution of gaseous fuels through mains
+20. Steam and hot water supply
+## IV Engineering Code: 04
+
+1. Manufacture of engines and turbines (except aircraft, vehicle and cycle engines) its parts and
+# Withdrawn
+
+accessories
+
+2. Manufacture of pumps, compressors, Industrial taps and valves
+3. Manufacture of bearings, gears, gearing and driving elements;
+4. Manufacture of ovens, furnaces and furnace burners, mechanical stokers, mechanical grates, mechanical ash dischargers and similar appliances;
+5. Manufacture of ovens, furnaces and furnace burners, mechanical stokers, mechanical grates, mechanical ash dischargers and similar appliances;
+6. Manufacture of lifting and handling equipments, lifts, elevators, liquid elevators, conveyors, teleferics etc.
+7. Manufacture of refrigerators or freezing equipments & furniture designed to accommodate it; fire extinguishers, equipment for projecting, dispersing or spraying liquids or powders, centrifuges machinery for liquids and gases other than cream separators or clothes dryers, packing and wrapping machinery, weighing machinery, filtering and purifying machinery or apparatus for liquids and gases;
+8. Manufacture of distilling and rectifying plants; heat exchangers; machinery for liquefying air or gas; producer gas or water gas and acetylene gas generators; other general purpose machinery n.e.c. including parts & accessories
+9. Manufacture of tractors, harvesters and other heavy machinery for use in agricultural and forestry
+10. Manufacture of machine-tools
+11. Manufacture of machinery (and parts) for mining, quarrying and construction
+12. Manufacture of machinery for food (including rice, sugar, flour mill etc.), beverage (tea, coffee machinery etc.) and tobacco processing
+13. Manufacture of machinery for textile, apparel and leather Production
+14. Manufacture of light agricultural and forestry machinery and equipment including forage press: ploughs, harrows, weeders, hoes, seeders, manure spreaders, thinners etc. Manufacture of parts and accessories for agricultural and forestry machinery and equipments
+
+<!-- PAGE 5 -->
+
+||15. Manufacture of other machinery and equipments for use in agriculture, horticulture or forestry, bee-keeping and fodder preparation 16. Manufacture of machinery for metallurgy: converters, ingot moulds, ladles and casting machines; metal rolling mills and rolls for such mills. 17. Manufacture of weapons and ammunition 18. Manufacture of other special purpose machinery n.e.c. including parts & accessories 19. Manufacture of domestic appliances, n.e.c. – includes oil stoves, hurricane lanterns and oil pressure lamps, gas stoves, cooking ranges and other similar appliances, electric fans, vacuum cleaners and other electro-mechanical domestic appliances with self-contained electric motors, such as food processors and juice extractors etc., domestic refrigerators/freezers & air-conditioners, Manufacture of items based on solar energy like solar cookers, air/water heating system etc. except cells.; 20. Electro-thermic domestic appliances such as immersion water heaters, hot-plates, geysers; electro-thermic hair dressing appliances; electric irons and electric/ electronic cooking appliances (ovens, microwave ovens, cookers, hot plates, toasters, coffee or tea makers etc.); electric dishwashers, household type laundry equipment, electric razors including parts and accessories for electrical domestic appliances; part and accessories for electrical and non- electric dom.|
+|---|---|
+|V|Food Processing and Manufacturing Code: 05 1. MEAT: Slaughtering, preparation and preservation of meat [includes Mutton, Beef, Pork, Poultry and other slaughtering; processing and canning of meat; Rendering and refining of lard and other edible animal fat; Production of flours and meals of meat and meat offals] 2. FISH: Processing, canning, freezing and preserving of fish, crustacean and similar foods [includes sun drying, artificial dehydration, radiation preservation of fish, sea food and similar food; manufacture of fish meal; processing & canning of froglegs etc.] 3. FRUITS & VEGETABLES: Processing, canning and preserving of fruits and vegetables [includes sun drying, artificial dehydration, radiation preservation; manufacture of fruit/vegetable juices, concentrates, squashes and powder; manufacture of sauces, jams, jellies, marmalades; pickles, chutneys, murabbas etc.; potato flour & meal and prepared meals of vegetables] 4. DAIRY PRODUCTS: Manufacture of dairy products [includes milk powder, ice-cream powder, condensed milk, baby milk foods, butter, ghee, cream, cheese, khoya etc.; manufacture of pasteurised milk (plain or flavored); Manufacture of ice-cream, kulfi and other dairy products] Withdrawn including chilling of milk. 5. GRAIN MILL PRODUCTS: Manufacture of grain mill products [includes Flour, Rice and Dal milling; husking of paddy, flour chakkies; processing and grinding of grains; vegetable milling, flour or meal of dried leguminous vegetables of roots or tubers or of edible nuts; manufacture of breakfast foods obtained by roasting or swelling cereal grains; manufacture of prepared, blended flour and dough for bread, cake, etc.] 6. STARCH AND STARCH PRODUCTS: Manufacture of starches and starch products [includes sago and sago products; glucose & glucose syrup, maltose, gluten, tapioca substitutes prepared from starch, corn oil etc.] 7. ANIMAL FEED: Manufacture of prepared animal feeds [includes cattle feed, poultry feed and other animal and bird feed] 8. Manufacture of confectionery product, bakery products, biscuits, cakes, pastries, confectionery products and other bakery products 9. Manufacture of semi-processed and already to eat food items like macaroni, noodles, corn- flakes, and other similar products 10. Tea processing and blending (including manufacturing of instant tea) units which do not have their own tea gardens/estates 11. Coffee curing, roasting, grinding and blending etc. including manufacture of instant coffee, chicory and other coffee substitutes, essence of concentrates of Coffee 12. Processing of edible nuts. 13. Manufacture of all other food products n.e.c. like grinding and processing of spices; papads, appalam and similar products; vitaminised high protein flour, frying of dals & other cereals incl. roasting of nuts; egg powder, sambar powder etc.; malted foods, common salt, table/iodised salt etc. 14. Distilling, rectifying and blending of spirits; ethyl alcohol production from fermented materials; manufacture of country liquor 15. Manufacture of wines including fenny 16. Manufacture of malt liquors (beer etc.); manufacture of Malt|
+
+<!-- PAGE 6 -->
+
+17. Manufacture of soft drinks (aerated drinks, synthetic flavored concentrates and syrups etc.); mineral water; ice and other beverages n.e.c.
+
+|VI|Gems & Jewellery||Code: 06|
+|---|---|---|---|
+|||Gems and Jewellery and related articles and cutting and polishing of diamonds/precious stones||
+|VII|Iron & Steel 1.|Manufacture of Basic Iron & Steel (smelting, rolling, re- rolling, cold rolling, wire drawing etc.)-|Code: 07|
+
+includes manufacture of ferro alloys, Direct Reduced Iron (DRI)/ Sponge Iron ,Pig Iron (hot metal), non-alloy steel primary/semi finished/finished long/flat products,
+
+2. Manufacture of alloy steel; Manufacture of stainless steel (primary, semi-finished, finished stainless steel products).
+## VIII JUTE Code: 08
+
+1. JUTE & OTHER NATURAL FIBRE TEXTILE: Preparation, pressing, bailing, spinning and weaving of jute, mesta, hemp and other natural fibre including blended natural fibres; Finishing of jute, mesta and other vegetable textiles fabrics [bleaching, dyeing and printing of jute, mesta, hemp and other vegetable textile.
+2. Manufacture of jute, mesta, hemp and other vegetable fibre products such as ropes, cordage, twine, etc. (excluding coir)
+3. Coir and coir products including coir fibre and yarn matting etc.
+## IX Leather & Leather Products Code: 09
+
+1. Tanning, Curing, finishing, embossing, japanning and dressing of leather: includes flaying and curing of raw hides and skins, tanning and finishing of sole and industrial leather, vegetable / chrome tanning of leather
+2. Manufacture of leather and leather products (excluding footwear) like suitcases, handbag, saddlery, harness etc.
+3. Manufacture of leather footwear: includes manufacture of leather shoes, leather sandals and chappals, leather- cum-rubber/plastic cloth sandals and chappals made by hand or by any process.
+4. Manufacture of all other types of footwear: includes manufacture of footwear made primarily of vulcanized or moulded rubber and plastic, manufacture of rubber footwear, plastic & PVC,
+# Withdrawn
+
+canvas-cum-rubber/plastic footwear etc. including sports footwear.
+
+## X Metal & Metal Products Code: 10
+
+1. Manufacture of basic precious and non-ferrous metals like copper, aluminum, zinc, brass etc. (smelting, rolling, re-rolling, cold rolling, wire drawing etc.)
+2. Casting of non-ferrous metals
+3. Manufacture of structural metal products.
+4. Manufacture of tanks, reservoirs and containers of metal [includes manufacture of containers of metal for compressed or liquefied gas. Also includes manufacture of central heating boilers and radiators. Manufacture of reservoirs, tanks and similar containers of types normally installed as fixtures for storage or manufacturing use of metal, closures, or lined with materials other than iron, steel or aluminium]
+5. Manufacture of steam generators, except central heating hot water boilers
+6. Forging, pressing, stamping and roll-forming of metal; powder metallurgy
+7. Treatment and coating of metals; general mechanical engineering on a fee or contract basis
+8. Manufacture of cutlery, hand tools, small tools, general and domestic hardware
+9. Manufacture of other fabricated metal products n.e.c. (excluding machinery and transport)
+## XI Paper and Paper Products Code: 11
+
+<u>1. Manufacture of pulp, paper and paper boards [includes printing and writing paper, packaging</u>
+
+<!-- PAGE 7 -->
+
+||paper, paper board, straw board, hard board, special purpose paper/ paper products for computers] except newsprint. 2. Manufacture of newsprint 3. Manufacture of corrugated paper and paper board and manufacture of containers of paper and paper board (includes sacks manufacture and paper bags, card board boxes etc.); Manufacture of craft paper 4. Manufacture of other articles of paper and paper board like paper hoops and cones, paper cups, saucers, plates and other similar products; manufacture of dolls from pulp, papier mache articles, wall paper, file cover/file board, similar articles; carbon paper & stationery items etc. 5. Publishing of books, brochure, musical books and other publications 6. Publishing of newspaper, periodicals and journals 7. Publishing of recorded media [includes publishing of records and other recorded audio media] 8. Printing of newspapers, magazines, periodicals,|
+|---|---|
+|XII|Rubber & Rubber Products Code: 12 1. Manufacture of rubber tyres, tubes; Retreading of tyres; replacing of pneumatic tyres and solid or cushion tyre, tyre parts such as interchangeable tyre treads or tyre flaps; ‘camel-back’ strips for retreading of tyres and tyres and tubes etc. 2. Manufacture of other rubber products like rubber plates, sheets, strips, rods, tubes, pipes, hoses and profile-shapes etc.; Manufacture of rubber conveyor or transmission belts or belting; manufacture of rubber contraceptives, balloons, hot water bags etc.; rubber products and components for industrial use (excluding oil cloth and rubberised cloth) 3. Manufacture of fibre glass and products XIII Sugar Code: 13 1. Manufacture and refining of sugar & sugar products (vacuum pan sugar factories) and by- products including 2. Manufacture of molasses 3. Manufacture of indigenous sugar, ‘Boora’, ‘Gur’ and ‘Khandsari’ from sugarcane or other than sugar cane, candy and indigenous sugarcane/sugarbeet/palm juice products etc. 4. Manufacture of cocoa, chocolate and sugar confectionery including manufacture of sweetmeats, chewing gum and preservation in sugar of fruits, nuts, fruit peals and other part of plants Withdrawn XIV Textiles Code: 14 1. COTTON TEXTILE: Preparation and spinning of cotton fibre including blended cotton; Weaving, manufacture of cotton and cotton mixture fabric [Blended yarn/fabric means, yarn or fabrics containing more than 50% of one fibre]; Finishing of cotton and blended cotton textiles [finishing includes operations such as bleaching, dyeing, calendering, napping, shrinking, and printing etc.] 2. SILK & SYNTHETIC TEXTILE: Preparation and spinning of silk and synthetic (man-made) fibres (rayon, nylon, terene, artsilk, etc.) including blended silk or synthetic fibre; Weaving, manufacturing of silk or synthetic fibre and silk or synthetic mixture fabrics; Finishing of silk or synthetic and blended silk or synthetic textiles. 3. WOOLEN TEXTILE: Preparation (cleaning, bailing, and processing) and spinning of wool, including other animal hair and blended wool including animal hair; weaving, manufacturing of wool and wool mixture fabrics; Finishing of wool and blended wool textiles. 4. Handloom textiles and Khadi (spinning weaving dyeing, printing, etc.) 5. Manufacture of made-up textile articles, except apparel such as curtains, bed covers, upholstery, bedding, quilts, pillows, cushions and sleeping bags, mosquito nets etc.; Manufacture of tarpaulin. 6. Manufacture of shawls, blankets, carpets, durries, druggets and rugs. 7. Manufacture of thread, including thread ball making. 8. Manufacture of nets (excluding mosquito nets); 9. Manufacture of tapes, newar and wicks; manufacture of ropes and cordage other than jute/mesta /hemp and coir 10. Embroidery work, making of laces and fringes; Zari and zari work; making of ornamental trimmings; manufacture of gas mantles; manufacture of wadding of textile materials and|
+
+<!-- PAGE 8 -->
+
+||articles of wadding such as sanitary towels and tampons; manufacture of made-up canvas goods such as tents and sails etc.; manufacture of metallised yarn or gimped yarn; manufacture of waterproof textiles excluding tarpaulin; other textile products. 11. Manufacture of knitted and crocheted fabrics and articles-cotton, woolen, synthetic etc. textile products. 12. Manufacture of wearing apparels, ready made garments (except Khadi). 13. Manufacture of Khadi Garments 14. Dressing (includes scraping, curing, tanning, bleaching) and dyeing of fur; manufacture of articles of fur and pelt products; Embroidering and embossing of leather|
+|---|---|
+|XV|Tobacco & Tobacco Products Code: 15 1. Tobacco processing [includes stemming, redrying etc. of tobacco leaves] 2. Manufacturing of tobacco products [includes Manufacture of bidies, cigarettes and cigarette tobacco, cigars and cheroots, snuff, ‘zarda’, chewing tobacco, ‘gutka’ and other tobacco products] 3. Manufacture of chewing items like pan masala, scented supari, catechu (kattha), chewing lime and related products (not containing tobacco or tobacco products)|
+|XVI|Veg Oil and Vanaspati Code: 16 OILS & FATS: Manufacture of vegetable and animal oils and fats [includes manufacture of hydrogenated oils, vanaspati, ghee and other edible oils and fats such as mustard oil, cotton seed oil, sesame & sunflower oil, soyabean oil, coconut & groundnut oil, fish oil, animal oils and fats etc.; manufacture of cakes & meals incl. residual products, e.g. Oleostearin, Palmstearin; manufacture of non-deflated flour or meals of oilseeds, oil nuts or kernels]|
+|XVII|Vehicle & Trans Equip Code: 17 1. Manufacture of motor vehicles-including passenger and commercial vehicles like motor cars, jeeps, station wagon, ordinary and special purpose lorries, trucks and goods vans; lorries with automatic discharging devices, tankers, drop frame lorries, refuse collectors, etc.; also included over-the-r 2. Manufacture of bodies (coach work) for motor vehicles; manufacture of trailers and semi- trailers; manufacture of containers for transport of goods by transport 3. Manufacture of parts and accessories for motor vehicles and their engines [brakes, gear boxes, axles, road wheels, suspension shock abs orbers, radiators, silencers, exhaust pipes, Withdrawn clutches, steering wheels, steering columns and steering boxes and other parts and accessories n.e.c.] 4. Building and repairing of ships and fishing trawlers [This class includes ship building and repairing (includes yachts and other vessels for pleasure or sports) and the construction and repair of floating structures, whether or not used in freight/passenger carriage; ship breaking] 5. Manufacture of railway and tramway locomotives and rolling stock; Manufacture of parts and accessories is also included here. 6. Manufacture of aircraft and spacecraft-including flying balloons, gliders, hang gliders and other non-powered aircraft; Manufacture of parts and accessories is also included here. 7. Manufacture of motorcycles, mopeds, scooters, scooterettes, auto-rickshaws, tempos (three- wheelers) and cycles fitted with an auxiliary engine, whether or not with an attached side car; Manufacture of engines, side cars and other specialized parts and accessories for motor cycles, scooters and three-wheelers. 8. Manufacture of bicycles (including racing bicycles and children’s bicycles), cycle rickshaws and invalid carriages whether or not motorized or otherwise mechanically propelled; Manufacture of parts and accessories for bicycles, cycle-rickshaws and invalid carriages, manufacture of bullock-carts, pushcarts, tongas and hand-carts etc.; Manufacture of other transport XVIII Miscellaneous Code: 18 Other activities not adequately described/classified elsewhere, this code should be used sparingly.|

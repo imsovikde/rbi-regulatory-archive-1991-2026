@@ -1,0 +1,37 @@
+---
+doc_id: "Circulars_2008_UBD_PCB_Cir_No_31_09_11_600_07-08"
+title: "Prudential Norms for Capital Adequacy - Risk Weight for Educational Loans-UCBs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/82798.PDF"
+pdf_sha256: "d36f637610a14ddf8c262502e3fe79d002e4bd4f3728a37c2dae9aaae90663ff"
+md_sha256: "807c51c62241ec20b10f1bcafd7d10a383b638f3456d1b37112c3db5207528ba"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:01:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-01-29_Circular_UBD.PCB.Cir.No.31-09.11.600-07-08_Prudential%20Norms%20for%20Capital%20Adequacy%20-%20Risk%20Weight%20for%20Educational%20Loans-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms for Capital Adequacy - Risk Weight for Educational Loans-UCBs
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/231
+
+UBD. PCB.Cir.No. 31 /09.11.600/07-08 January 29, 2008
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## Prudential Norms for Capital Adequacy – <u>Risk Weight for Educational Loans-UCBs</u>
+
+Please refer to our circular UBD.PCB.Cir.33/06.116.00/04-05 dated January 5, 2005 wherein the risk weight on consumer credit including personal loans was increased from 100 percent to 125 percent. At present, 'educational loans' are being classified as a part of 'consumer credit' for the purpose of capital adequacy, and accordingly attract a risk weight of 125 per cent.
+
+2. The position has since been reviewed and it has been decided that 'educational loans' will not be classified as consumer credit for the purpose of capital adequacy norms. Accordingly, the risk weight applicable to educational loans would be 100 per cent, as against 125 per cent at present. Withdrawn
+Yours faithfully,
+
+(A.K Khound) Chief General Manager
