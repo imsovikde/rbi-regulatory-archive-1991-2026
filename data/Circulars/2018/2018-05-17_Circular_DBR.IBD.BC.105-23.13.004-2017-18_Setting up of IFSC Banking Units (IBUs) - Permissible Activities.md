@@ -1,0 +1,47 @@
+---
+doc_id: "Circulars_2018_DBR_IBD_BC_105_23_13_004_2017-18"
+title: "Setting up of IFSC Banking Units (IBUs) - Permissible Activities"
+category: "Circulars"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT177361E0168DA69485FA2F9551AB4BF60AF.PDF"
+pdf_sha256: "68f5e370fa0ca650d2309fd737ab391486916570823029b87e904d281fe99a73"
+md_sha256: "16f3938385601b028eed47b30c03471009e22b205ec8c53258f56590cee6226b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:39:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2018/2018-05-17_Circular_DBR.IBD.BC.105-23.13.004-2017-18_Setting%20up%20of%20IFSC%20Banking%20Units%20%28IBUs%29%20-%20Permissible%20Activities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Setting up of IFSC Banking Units (IBUs) - Permissible Activities
+
+<!-- PAGE 1 -->
+
+RBI/2017-18/177 DBR.IBD.BC. 105/23.13.004/2017-18 May 17, 2018 All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+## Dear Sir/Madam
+
+## Setting up of IFSC Banking Units (IBUs) – Permissible activities
+
+Please refer to <u>RBI circular DBR.IBD.BC.14570/23.13.004/2014-15 dated April 01,</u> <u>2015</u>, as modified from time to time, setting out RBI directions relating to IFSC Banking Units (IBUs).
+
+**2.** In terms of para 2.3 of the circular, the parent bank will be required to provide a minimum capital of USD 20 million or equivalent in any foreign currency to start their IBU operations and the IBU should maintain the minimum prescribed regulatory capital on an on-going basis as per regulations amended from time to time.
+**3.** In this regard, we have received suggestions from the stakeholders to consider
+# Withdrawn
+
+minimum prescribed regulatory capital at the parent level rather than at the IBU level. The issue has been examined and the directions stand modified as follows:
+
+**4.** *The existing paragraph No.2.3 of* <u>Annex I</u> *of the aforesaid circular dated April 1,* *2015 is amended to read as follows:* With a view to enabling IBUs to start their operations, the parent bank will be required to provide a minimum capital of USD 20 million or equivalent in any foreign currency to its IBU which should be maintained at all times. However, the minimum prescribed regulatory capital, including for the exposures of the IBU, shall be maintained on an on-going basis at the parent level.
+**5.** *The existing paragraph No.2.3 of* <u>Annex II</u> *of the aforesaid circular dated April 1,* *2015 is amended to read as follows:*
+
+<!-- PAGE 2 -->
+
+With a view to enabling IBUs to start their operations, the parent bank will be required to provide a minimum capital of USD 20 million or equivalent in any foreign currency to its IBU which should be maintained at all times. However, the minimum prescribed regulatory capital, including for the exposures of the IBU, shall be maintained on an on-going basis at the parent level as per regulations in the home country and the IBU shall submit a certificate to this effect obtained from the parent on a half-yearly basis to RBI (International Banking Division, DBR, CO, RBI). The parent bank will be required to provide a Letter of Comfort for extending financial assistance, as and when required, in the form of capital / liquidity support to IBU.
+
+**6.** All other terms and conditions contained in the aforementioned circular remain unchanged.
+**7.** An updated copy of the <u>RBI circular on IBU dated April 01, 2015</u> incorporating the amendments made on <u>January 07, 2016</u>, <u>November 10, 2016</u>, <u>April 10, 2017</u> and May 17, 2018 is available on RBI’s website.
+## Yours faithfully
+
+(Prakash Baliarsingh)Withdrawn Chief General Manager
