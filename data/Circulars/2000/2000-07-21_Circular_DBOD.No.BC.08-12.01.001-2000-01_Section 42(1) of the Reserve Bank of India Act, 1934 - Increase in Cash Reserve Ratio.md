@@ -1,0 +1,71 @@
+---
+doc_id: "Circulars_2000_DBOD_No_BC_08_12_01_001_2000-01"
+title: "Section 42(1) of the Reserve Bank of India Act, 1934 - Increase in Cash Reserve Ratio"
+category: "Circulars"
+year: 2000
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/14577.PDF"
+pdf_sha256: "db5fc363e0a5fadfe686927b2b501776e8b739b79c44455dfdce2327dd3b8d64"
+md_sha256: "07fbee75b54236e299d45be711f3d6cee9a763e7b925f4ca83845a1d0f133305"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:40:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2000/2000-07-21_Circular_DBOD.No.BC.08-12.01.001-2000-01_Section%2042%281%29%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20Increase%20in%20Cash%20Reserve%20Ratio.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 42(1) of the Reserve Bank of India Act, 1934 - Increase in Cash Reserve Ratio
+
+<!-- PAGE 1 -->
+
+## Increase in Cash Reserve Ratio
+
+Telegrams: "BANKCHALAN" TEL No.218 9131-39 MUMBAI Post Box No. 6089 **RESERVE BANK OF INDIA** **CENTRAL OFFICE** **DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT** **WORLD TRADE CENTRE-I, CUFFE PARADE, COLABA** **MUMBAI - 400 005.**
+
+DBOD No.BC 07 /12.01.001/2000-01 July 21,2000
+
+## <u>NOTIFICATION</u>
+
+**In exercise of the powers conferred by the proviso to Sub- section (1) of Section 42** **of the Reserve Bank of India Act, 1934 (2 of 1934) and in supersession of its** **Notification DBOD No.BC 155/12.01.001/99-2000 dated April 01, 2000 the Reserve** **Bank of India hereby specifies that the average Cash Reserve Ratio (CRR) required** **to be maintained by Scheduled Commercial Banks (excluding Regional Rural** **Banks) shall, from effective dates mentioned below, be at the percentage points as** **indicated thereagainst.** **Effective date (i.e. the CRR on net demand and fortnight beginning from) time liabilities ( per cent)**
+
+## July 29, 2000 8.25 August 12, 2000 8.50
+
+## (G.P.Muniappan) Executive Director.
+
+# Withdrawn
+
+<!-- PAGE 2 -->
+
+Telegrams: "BANKCHALAN" TEL No.218 9131-39 MUMBAI Post Box No. 6089
+
+## RESERVE BANK OF INDIA
+
+**CENTRAL OFFICE** **DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT** **WORLD TRADE CENTRE-I, CUFFE PARADE, COLABA** **MUMBAI - 400 005.**
+
+DBOD No.BC.08/12.01.001/2000-01 July 21,2000
+
+<u>To All Scheduled Commercial Banks</u> <u>(Excluding Regional Rural Banks)</u>
+
+Dear Sir,
+
+<u>Section 42(1) of the Reserve Bank of India Act,1934 -</u> <u>Increase in Cash Reserve Ratio</u>
+
+Please refer to the Circular No.MPD BC 199/07.01.279/2000-2001 dated July 21, 2000 from our Monetary Policy Department on the above subject.
+
+2. Scheduled Commercial Banks { excluding Regional Rural Banks (RRBs) } are, at present, required to maintain with the Reserve Bank of India a Cash Reserve Ratio (CRR) of 8.00 per cent of the Net Demand and Time Liabilities (NDTL) (excluding liabilities subject to zero CRR prescriptions) under Section 42(1) of the Reserve Bank of India Act,1934.
+3. It has now been decided to increase CRR by one half of one percentage point in two stages, effective from fortnights as indicated below.
+# Withdrawn
+
+**Effective date (i.e. the CRR on net demand and fortnight beginning from) time liabilities (per cent)**
+
+July 29, 2000 8.25 August 12, 2000 8.50
+
+4. A copy of the relative notification DBOD No.BC.07/12.01.001/2000-01 dated July 21, 2000 is enclosed.
+5. We may reiterate that in view of the multiple prescriptions on different categories of liabilities including zero prescriptions of CRR on certain liabilities, as stipulated under the law, effective CRR maintained by Scheduled Commercial Banks on total Net Demand and Time Liabilities should not be less than 3 per cent.
+6. Please acknowledge receipt. Yours faithfully,
+## (Rajesh Verma)
+
+## Deputy General Manager
+
+Encl. : 1
