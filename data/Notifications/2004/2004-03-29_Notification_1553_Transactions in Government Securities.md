@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2004_1553"
+title: "Transactions in Government Securities"
+category: "Notifications"
+year: 2004
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/52508.pdf"
+pdf_sha256: "f7bf456890b73b32b59eabd5886fe805954d28d14a23b1b4a8836e26bf9b1c72"
+md_sha256: "f0e1a137a83ce0a78c75c4f5ba6324cb16554a4992406c75fa7d4a35bd86b6eb"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:06:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2004/2004-03-29_Notification_1553_Transactions%20in%20Government%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Transactions in Government Securities
+
+<!-- PAGE 1 -->
+
+## RBI /2004/123
+
+## IDMD.PDRS. 05 /10.02.01/2003-04 March 29, 2004
+
+## To All RBI Regulated Entities
+
+Dear Sirs,
+
+## Transactions in Government Securities
+
+Please refer to paragraph 70 of the 'Mid-term Review of Monetary and Credit Policy for the year 2003-2004' (extract enclosed), wherein certain relaxations in the current guidelines on sale of government securities were announced to facilitate deepening of government securities market. As per the current guidelines, a sale transaction in a government security is permitted only if the seller actually holds the security in its portfolio. In partial modification of these guidelines, it was proposed in the Mid-term Review that sale of a government security, already contracted for purchase, would also be permitted, provided such purchase contract was either guaranteed by an approved central counterparty like the Clearing Corporation of India Ltd (CCIL) or the counterparty thereof was the Reserve Bank. It was also indicated that, to facilitate operationalisation of the proposal, the settlement of government securities transactions would be switched over to the DVP III mode.
+
+2. The modifications in the existing guidelines in accordance with the above proposals are expected to improve the liquidity in government securities market by enabling sale of a government security on the day of purchase, reducing the price risk on the part of the market participants. Further, as the relaxation enables rollover of repos, it would facilitate non-banks to move away from the call/notice money market and also enable banks to reduce their dependence on the call money market.
+3. In accordance with the above announcement, it has now been decided:
+(a) to permit sale of a government security already contracted for purchase, provided:
+(i) the purchase contract is confirmed prior to the sale,
+
+<!-- PAGE 2 -->
+
+(ii) the purchase contract is guaranteed by CCIL or the security is contracted for purchase from the Reserve Bank and, (iii) the sale transaction will settle either in the same settlement cycle as the preceding purchase contract, or in a subsequent settlement cycle so that the delivery obligation under the sale contract is met by the securities acquired under the purchase contract(e.g. when a security is purchased on T+0 basis, it can be sold on either T+0 or T+1 basis on the day of the purchase; if however it is purchased on T+1 basis, it can be sold on T+1 basis on the day of purchase or on T+0 or T+1 basis on the next day); and,
+
+(b) to shift the settlement of government securities transactions carried out through CCIL to the DVP-III mode so that each security is deliverable/receivable on a net basis for a particular settlement cycle as against the current system of gross settlement of securities under the DVP-II mode.
+4. It is clarified that so far as purchase of securities from the Reserve Bank through Open Market Operations (OMO) is concerned, no sale transactions should be contracted prior to receiving the confirmation of the deal/advice of allotment from the Reserve Bank.
+5. As a corollary to the above changes, it is also advised that ready forward (repo) transactions in government securities, which are settled under the guaranteed settlement mechanism of CCIL, may be rolled over, provided the security prices and repo interest rate are renegotiated on roll over. It is clarified that the purchase contract referred to in paragraph 3(a)(i) above will include the second (repurchase) leg of a repo transaction. That is, the borrower of funds (i.e., seller in the first leg) in a repo may sell the securities contracted for repurchase, on T+0 or T+1 basis for a settlement cycle coinciding with the second leg of the repo or for a subsequent settlement cycle. However, the lender of funds (i.e; the buyer in the first leg) in a repo, should not sell the securities purchased in the repo, during the tenor of the repo contract.
+6. It is further clarified that the existing special dispensation pertaining to the sale of government securities allotted by the Reserve Bank under the primary auctions will continue to be available.
+7. All regulated entities are advised to exercise abundant caution to ensure adherence to these guidelines. The concurrent auditors should specifically verify the compliance with these instructions. The concurrent audit reports should contain specific
+
+<!-- PAGE 3 -->
+
+observations on the compliance with the above instructions and should be incorporated in the monthly report to the Chairman and the Managing Director/Chief Executive Officer of the entity and the half yearly review to be placed before the Board of Directors. CCIL will make available to all market participants as part of its daily reports, the time stamp of all transactions as received from NDS. The mid office/back office and the auditors may use this information to supplement their checks/scrutiny of transactions for compliance with the instructions. Any violation noticed in this regard should immediately be reported to the concerned regulatory department of the Reserve Bank and the Public Debt Office (PDO), Reserve Bank of India, Mumbai. Any violation noticed in this regard would attract penalties as currently applicable to the bouncing of Subsidiary General Ledger (SGL) forms even if the deal has been settled because of the netting benefit under DVP III, besides attracting further regulatory action as deemed necessary.
+
+8. The above revised guidelines will come into effect from April 2, 2004. The working of the arrangement will be reviewed periodically to consider modifications and continuance, as appropriate.
+Yours faithfully,
+
+## H.R.Khan
+
+## Chief General Manager-In-Charge
