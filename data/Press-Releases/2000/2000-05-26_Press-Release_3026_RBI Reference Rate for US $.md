@@ -1,0 +1,31 @@
+---
+doc_id: "Press-Releases_2000_3026"
+title: "RBI Reference Rate for US $"
+category: "Press-Releases"
+year: 2000
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/13462.pdf"
+pdf_sha256: "f4cf526d5a35e720fe2f2398252c3ec15391473324394071a460375ea99193aa"
+md_sha256: "10c6e1d0202ea28868599434d67c3da155a1ba30368bbab18a6cceea3a969a3d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T15:02:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-05-26_Press-Release_3026_RBI%20Reference%20Rate%20for%20US%20%24.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $
+
+<!-- PAGE 1 -->
+
+## RBI Reference Rate for US $
+
+## May 26, 2000
+
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.44.31 on 26.05.2000. Based on the Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon, the exchange rates of major currencies against the rupee are given below : <u>Date CURRENCY</u> **1 USD 1 GBP 1 EURO 100 YEN** 25 May 2000 44.2900 65.1705 40.0138 41.12 26 May 2000 44.3100 65.4126 40.6013 41.2200
+
+Note : The reference rate is based on 12 noon rates of a few select banks in Mumbai. The SDR- Rupee rate will be based on this rate.
+
+**P. V. Sadanandan Asstt. Manager**
+## Press Release : 1999-2000/1581
