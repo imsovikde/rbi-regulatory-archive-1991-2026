@@ -11,15 +11,15 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 ## Conversion progress
 
 - **Total PDFs:** 88236
-- **Converted to Markdown:** 12675
-- **Remaining:** 75561
-- **Progress:** [######----------------------------------] 14.3649%
+- **Converted to Markdown:** 12750
+- **Remaining:** 75486
+- **Progress:** [######----------------------------------] 14.4499%
 
 | Category | Total | Converted | Progress |
 | --- | ---: | ---: | ---: |
 | Master-Directions | 397 | 0 | 0.0000% |
 | Notifications | 10527 | 0 | 0.0000% |
-| Master-Circulars | 1013 | 439 | 43.3366% |
+| Master-Circulars | 1013 | 514 | 50.7404% |
 | Draft-Notifications-Guidelines | 546 | 546 | 100.0000% |
 | Circulars | 11690 | 11690 | 100.0000% |
 | Press-Releases | 64063 | 0 | 0.0000% |
