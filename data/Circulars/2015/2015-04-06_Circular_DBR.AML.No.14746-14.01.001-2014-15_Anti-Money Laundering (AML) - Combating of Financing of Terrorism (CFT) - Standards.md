@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2015_DBR_AML_No_14746_14_01_001_2014-15"
+title: "Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FATFS06042015.PDF"
+pdf_sha256: "bc39d19a117944cd66d0cb6c30817a234796cd92d567ca3fa70a57163150d7ed"
+md_sha256: "f110ddcb147a46bec6692c31d3c80695eb1fd3a19d53097bdc44f9144bb25472"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:26:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-04-06_Circular_DBR.AML.No.14746-14.01.001-2014-15_Anti-Money%20Laundering%20%28AML%29%20-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20-%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+
+<!-- PAGE 1 -->
+
+## RBI/2014-2015/537 DBR.AML.No.14746/14.01.001/2014-15 April 6, 2015
+
+## The Chairpersons/ CEOs of all Scheduled Commercial Banks/ Regional Rural
+
+## Banks/ Local Area Banks / All India Financial Institutions
+
+Dear Sir/ Madam,
+
+## Anti-Money Laundering (AML)/ Combating of Financing of Terrorism (CFT) -Standards
+
+Please refer to our letter <u>DBR.AML.No.6704/14.01.001/2014-15 dated November 5,</u> <u>2014</u> on risks arising from the deficiencies in AML/CFT regime of certain jurisdictions.
+
+2. Financial Action Task Force (FATF) has updated its Statement on the subject and document ‘Improving Global AML/CFT Compliance: on-going process’ on February 27, 2015 (<u>copy enclosed</u>). The statement /document can be accessed from the following URL also: <u>[http://www.fatf-gafi.org/documents/documents/fatf-compliance-february-2015.html](http://www.fatf-gafi.org/documents/documents/fatf-compliance-february-2015.html)</u> and
+# <u>Withdrawn</u>
+
+<u>[http://www.fatf-gafi.org/documents/documents/public-statement-february-2015.html](http://www.fatf-gafi.org/documents/documents/public-statement-february-2015.html)</u>
+
+3. All banks and financial institutions are accordingly advised to consider the information contained in the enclosed statement.
+4. This, however, does not preclude Indian banks or financial institutions from legitimate trade and business transactions with the countries and jurisdictions mentioned in the statement.
+5. Please advise your Principal Officer to acknowledge receipt of this circular letter. Yours faithfully, (Thomas Mathew) General Manager Encl: As above
+
+|बक ैं|िं ग विनियमि विभाग, फोि: 022-22701203, फै ्|ें द्रीय ायाालय, : 022-22701239, ई-मेल: Department of Banking Regulation, Central Office, Central Office Building, 13 Phone : 022-22701203, Fax : 022-22701239, E-mail :|ें द्रीय ायाालय भिि, 13ि िं मिंजिल, शहीद भगत स िंह मागा, मिंबई – 400 001 cgmicdbr@rbi.org.in, िेब ाइट: www.rbi.org.in th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 cgmicdbr@rbi.org.in, Website : www.rbi.org.in|
+|---|---|---|---|
+||||"Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."|

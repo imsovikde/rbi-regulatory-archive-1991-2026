@@ -1,0 +1,50 @@
+---
+doc_id: "Circulars_2015_DCBR_BPD_PCB_RCB_Cir_No_24_14_01_062_2014-15"
+title: "Know Your Customer (KYC) Guidelines - Accounts of Proprietary Concerns"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PCB24KYCNT0415.PDF"
+pdf_sha256: "b78f0c2340f92c3f66a536fd752e5a9c8d4875901bf506929d3cc189922ef6ed"
+md_sha256: "9886ff4533e7a352fa202226b5f308aa0ac0efa945ebb24eccf6922b7cafd550"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:26:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-04-01_Circular_DCBR.BPD.%28PCB-RCB%29.Cir.No.24-14.01.062-2014-15_Know%20Your%20Customer%20%28KYC%29%20Guidelines%20-%20Accounts%20of%20Proprietary%20Concerns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Guidelines - Accounts of Proprietary Concerns
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़र्व बैंक
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2014-15/532 DCBR.BPD(PCB/RCB)Cir. No.24 /14.01.062/2014-15 April 1, 2015
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks / State and Central Co-operative Banks (StCBs / CCBs)
+
+Madam / Dear Sir,
+
+## Know Your Customer (KYC) Guidelines-Accounts of Proprietary Concerns
+
+Please refer to paragraph 2.5(ii) of our <u>Master Circular no. UBD.BPD.(PCB) MC.No.16/</u>
+
+<u>12.05.001/2014-15 dated July 1, 2014</u> and paragraph 2.5 (vi) of <u>Master Circular RPCD.</u> <u>RRB.RCB.AML.BC. No. 02/07.51.018/ 2014-15 dated July 1, 2014</u> on KYC norms and our <u>Circular UBD.BPD.CO/NSB1/11/12.03.000/2009-10 dated September 29, 2009</u> and RPCD <u>Circular RPCD.CO.RF.AML.BC.No.83/07.40.00/2009-10 dated May 12, 2010</u> prescribing norms for opening of bank accounts in respect of sole proprietary firms and subsequent circulars issued in this regard.
+2. Reserve Bank has been receiving representations pointing out difficulties in complying
+# Withdrawn
+
+with the requirement of furnishing two documents as activity proof while opening accounts of sole proprietary firms in certain cases. It is possible that in some types of activities there is genuine difficulty in procuring two such documents. The matter has, therefore, been reviewed with a view to ease the process of opening bank accounts of proprietary concerns in such cases. The default rule is that any two documents, out of those listed in paragraphs of the Master Circulars mentioned above, should be provided as activity proof by a proprietary concern. However, in cases where the banks are satisfied that it is not possible
+
+सहकारी बैंक विनियमि विभाग, कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ ए बी रोड, िरली, मंबई- 400018 भारत फोि: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Department of Co-operative Bank Regulation, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बैंक हहन्दी में पत्राचार का स्िागत करता है —</u> चेताििी: भारतीय ररििा बक द्िारा ई ैं-मेल, डाक, एसएमएस या फोि कॉल के जररये कोई भी व्यज़क्तगत जािकारी जैसे बक खाते का ब्यौरा ैं, पासिडा आहद िहीं मााँगा जाता है। यह धि रखिे या देिे का प्रस्ताि भी िहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+to furnish two such documents, they would have the discretion to accept only one of those documents as activity proof. In such cases, the banks, however, would have to undertake contact point verification, collect such information as would be required to establish the existence of such firm, confirm, clarify and satisfy themselves that the business activity has been verified from the address of the proprietary concern.
+
+3. It is also clarified here that the list of registering authorities indicated in paragraph 2.5(ii) of our <u>Master Circular no. UBD.BPD.(PCB) MC. No.16/12.05.001/2014-15 dated July 1,</u> <u>2014</u> and paragraph 2. 5 (vi) of <u>Master Circular RPCD.RRB.RCB.AML.BC. No.02/07.51.</u> <u>018/2014-15 dated July 1, 2014</u> on KYC norms is only illustrative and therefore includes license / certificate of practice issued in the name of the proprietary concern by any professional body incorporated under a statute, as one of the documents to prove the activity of the proprietary concern.
+4. UCBs/DCCBs/StCBs may revise their KYC policy in the light of the above instructions and ensure strict adherence to the same. Yours faithfully,
+# Withdrawn
+
+(Suma Varma) Principal Chief General Manager

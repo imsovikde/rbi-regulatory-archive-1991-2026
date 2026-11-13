@@ -1,0 +1,100 @@
+---
+doc_id: "Circulars_2015_DCBR_CO_RCB_No_BC_29_19_51_008_2014-15"
+title: "Section 23 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) - Guidelines on Off-site / Mobile Automated Teller Machines (ATMs)"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/556BC29CIR16042015E49B08B3704B4B918B07D5105E5BF201.PDF"
+pdf_sha256: "244d2690ac8a83fcfd4e99b00b244091aa78861116bc7cdedaf493e0b023959b"
+md_sha256: "131c2d47d388a9640a212687767cdb68447c236761f806fbc3414feb915257d1"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:26:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-04-16_Circular_DCBR.CO.RCB.No.BC.29-19.51.008-2014-15_Section%2023%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%28As%20Applicable%20to%20Co-operative%20Societies%29%20-%20Guidelines%20on%20Off-site%20-%20Mobile%20Automated%20Tell.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) - Guidelines on Off-site / Mobile Automated Teller Machines (ATMs)
+
+<!-- PAGE 1 -->
+
+RBI/2014-2015/556 DCBR.CO.RCB.No.BC.29/19.51.008/2014-15 April 16, 2015
+
+## All State Co-operative Banks
+
+Dear Sir,
+
+## Section 23 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies)
+
+<u>- Guidelines on Off-site/Mobile Automated Teller Machines (ATMs)</u>
+Please refer to our circular RPCD.No.BC.114/07.06.00-94/95 dated February 1, 1995, in terms of which State Cooperative Banks (StCBs) are permitted to install on-site ATMs without obtaining prior permission from RBI. In terms of para 27 of the First Bi-monthly Monetary Policy Statement, 2015-16, it has now been decided that the State Co-operative Banks may be allowed to install Off-site ATMs/Mobile ATMs as per their need and potential in their area of operation without prior permission from RBI subject to satisfying the following criteria.
+
+(a) CRAR not being less than 9 per cent
+(b) No default in maintenance of CRR/SLR during the preceding financial year
+(c) Net NPA being less than 5 per cent
+(d) The bank should have a track record of regulatory compliance and no monetary penalty should have been imposed on the bank on account of violation of RBI directives/guidelines during last two financial years
+# Withdrawn
+
+The above parameters should be as assessed by NABARD in their latest inspection report.
+
+2. The StCBs may ensure that the proposals for the installation of Off-site/Mobile ATMs are duly approved by their Board of Directors.
+3. The conditions subject to which Off-site/Mobile ATMs can be operationalised by the StCBs are furnished in Annex-I.
+4. The StCBs shall report to the concerned Regional Office of Reserve Bank under whose jurisdiction the Head Office of the StCB is functioning immediately after operationalisation of offsite / mobile ATMs and in any case not later than 15 days, as per the format enclosed (Annex II) and obtain authorization under section 23 of the B. R. Act, 1949 (AACS) from the concerned Regional Office of Reserve Bank. Yours faithfully,
+## (Suma Varma)
+
+Principal Chief General Manager
+
+## Enclosure: Two
+
+<!-- PAGE 2 -->
+
+## <u>Annex-I</u>
+
+## <u>Conditions subjected to which Off-site/Mobile ATMs can be operationalised by StCBs</u>
+
+(i) The StCB should be CBS compliant and satisfy eligibility criteria based on latest inspection Report. (ii) The business transacted at the off-site ATMs shall be recorded in the books of the respective branch / base branch / Centralised Data Centre. (iii) Mobile ATMs will have to be linked to a branch and shall be operated strictly within the area of operation of the bank.
+
+|(iv)|No person other than the security guard should be posted at such Off Site ATM centre.|
+|---|---|
+|(v)|The StCB requirements of the ATM.|
+|(vi)|The StCB should ensure that only properly sorted and examined notes are put into|
+
+should make adequate stand-by arrangements for meeting the cash
+
+## circulation through the ATM.
+
+(vii) ATMs may be provided with ramps so that wheel chair users/persons with disabilities can easily access them and also make arrangements in such a way that the height of the ATM does not create an impediment in its use by a wheelchair user.
+
+(viii) At least one third of new ATMs installed should be talking ATMs with Braille keypads and placed strategically in consultation with other banks to ensure that at least one talking ATM with Braille keypad is generally available in each locality for catering to needs of visually impaired persons. Banks may also bring the locations of such talking ATMs to the notice of their visually impaired customers. (ix) Third party advertisement on the ATM screens / Network, such as display of products of other manufacturers / dealers / vendors is not permitted. However, there is no objection to banks utilizing the ATM screens for displaying their own products.
+
+## Submission of Returns
+
+# Withdrawn
+
+i) The StCBs should report full details of the Off-site/Mobile ATMs installed by them to the concerned Regional Office immediately after operationalisation and in any case not later than 15 days, as per the format enclosed (Annex II). ii) Similarly, details of shifting / closure etc., of Off-site/Mobile ATMs should be reported to the concerned Regional Office immediately after such shifting / closure and in any case not later than 15 days. iii) The StCB should continue to submit a quarterly statement to Department of Statistics and Information Management (DSIM), Central Office, Bandra Kurla Complex, Mumbai and to the concerned Regional Offices in the prescribed Proformae <u>I & II</u> as advised in our circular RPCD.CO.RF.No.BC.9/07.06.00/2005-06 dated July 06, 2005.
+--- XX ---
+
+<!-- PAGE 3 -->
+
+## Annex-II
+
+## Part-A:
+
+**Statement of operationalisation of off-site ATM by the bank to be submitted as and when effected.**
+
+## Name of the StCB:
+
+S.No Complete Address of Population group wise Details of base Date of opening of <u>ATM installed</u>
+<u>classification of center branch</u> ATM
+
+## Part-B:
+
+**Statement of operationalisation of mobile ATMs by the bank to be submitted as and when effected.**
+
+|S.No Centre|Details|Population|Centers/paces|Day|Date of|
+|---|---|---|---|---|---|
+|District/State|of Base|group|wise to be visited by|of|operationalisation|
+||Branch|classification of center|Mobile ATM|visit|of Mobile ATM|
+
+# Withdrawn
