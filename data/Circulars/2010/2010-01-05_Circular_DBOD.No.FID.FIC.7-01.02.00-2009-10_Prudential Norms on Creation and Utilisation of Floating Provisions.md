@@ -1,0 +1,89 @@
+---
+doc_id: "Circulars_2010_DBOD_No_FID_FIC_7_01_02_00_2009-10"
+title: "Prudential Norms on Creation and Utilisation of Floating Provisions"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FPCI060109.PDF"
+pdf_sha256: "386fbf2ab5b80319516013bb035ba2cc82c55be1e1a3b8ea92d96a28396c19ad"
+md_sha256: "84138e828e6b6ac34a09ec69e3dbc502502988999d005d270c89662ce87bbc9e"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:48:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-01-05_Circular_DBOD.No.FID.FIC.7-01.02.00-2009-10_Prudential%20Norms%20on%20Creation%20and%20Utilisation%20of%20Floating%20Provisions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Creation and Utilisation of Floating Provisions
+
+<!-- PAGE 1 -->
+
+BANK
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2009-2010/282
+
+January 5, 2010
+
+DBOD.No.FID.FIC.7 /01.02.00/2009-10
+
+The CEOs of the select All-lndia Term-lending and Refinancing Institutions
+
+(EximBank,NABARD,NHBandSIDBI)
+
+Dear Sir,
+
+Prudential Norms on Creation and Utilisation of Floating Provisions
+
+It has come to our notice that some of All India Financial Institutions (AlFls) are using
+
+floating provisions to make specific provisions to meet the prudential guidelines by
+
+writing back the provisions to income account above the line.
+
+2.As you are aware that banks are permitted
+
+ise thefloating provisions onlyfor
+
+contingencies under extraordinary circum
+
+for making specific provisions in
+
+impaired accounts after obtaining Boak
+
+approval and with prior permission of RBl.
+
+ithdraw
+
+It is felt necessary to issue similal
+
+nes to AlFls also.
+
+3. It is, therefore, advised that all AlFls should also follow extant guidelines on
+
+^Prudential Norms on Creation and Utilization of Floating Provisions' issued to banks.
+
+Accordingly, we advise that guidelines issued to banks vide our circular No.
+
+DBOD.BP.BC.89/21.04.048/2005-06
+
+dated June22, 2006 and circular No.
+
+DBOD.BP.BC.68/ 21.04.048 / 2006-07 March 13, 2007 (copy enclosed) shall mutatis
+
+mutandisapplytoAlFls.
+
+...2
+
+Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai -400005
+
+Tel No: 91-22-22189131 Fax No: 91-22-22183785 Email ID:cgmicdbodc0@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. In this connection, your attention is also invited to our Circular No. <u>DBOD. FID.</u> <u>FIC 6 / 01. 02. 00</u> dated December 8, 2009 on Provisioning Coverage for Advances. Please acknowledge receipt. Yours faithfully, (Vinay Baijal) Chief General Manager Encls : As above
+# Withdrawn

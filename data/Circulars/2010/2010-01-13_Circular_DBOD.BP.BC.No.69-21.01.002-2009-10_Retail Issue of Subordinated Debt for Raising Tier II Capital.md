@@ -1,0 +1,47 @@
+---
+doc_id: "Circulars_2010_DBOD_BP_BC_No_69_21_01_002_2009-10"
+title: "Retail Issue of Subordinated Debt for Raising Tier II Capital"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RISDSBI13012010.PDF"
+pdf_sha256: "494f738be4683d50022c9679a7b563eba62d80e4eb6534ded0a4973474f94955"
+md_sha256: "92a6a9d4918acd9dee931820f5eecddcc1518bcde230b5025075bd755b535caa"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:48:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-01-13_Circular_DBOD.BP.BC.No.69-21.01.002-2009-10_Retail%20Issue%20of%20Subordinated%20Debt%20for%20Raising%20Tier%20II%20Capital.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Retail Issue of Subordinated Debt for Raising Tier II Capital
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/287
+
+## DBOD.BP.BC.No. 69 / 21.01.002/ 2009-10 January 13, 2010
+
+All Commercial Banks (excluding RRBs )
+
+Dear Sir,
+
+## Retail Issue of Subordinated Debt for Raising Tier II Capital
+
+Please refer to our circular <u>DBOD.No.BP.BC. 38 /21.01.002/2009-10</u> September 7, 2009 on ‘Issue of Subordinated Debt for Raising Tier II Capital’.
+
+2. Some banks have indicated that they would like to issue subordinated debt to retail investors. With a view to enhancing investor education relating to risk characteristics of regulatory capital instruments, banks issuing subordinated debt to retail investors are advised to adhere to the following conditions:
+a) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks ofWithdrawn the instrument may be incorporated in the common application form of the proposed debt issue. *" **By making this application, I/We acknowledge that I/We have understood the*** ***terms and conditions of the Issue of [ insert the name of the instruments being*** ***issued] of [ Name of The Bank] as disclosed in the Draft Shelf Prospectus, Shelf*** ***Prospectus and Tranche Document** ".*
+b) For floating rate instruments, banks should not use its Fixed Deposit rate as benchmark.
+c) All the publicity material, application form and other communication with the investor should clearly state in bold letters (with font size 14) how a subordinated bond is different from fixed deposit particularly that it is not covered by deposit insurance.
+**-----------------------------------------------------------------------------------------------------------------------------------------** Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai,400001 Tel No:22661602 Fax No:22705691/22705692 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. The guidelines contained in this circular would be applicable with immediate effect.
+## Yours faithfully
+
+(B. Mahapatra) Chief General Manager
+
+# Withdrawn

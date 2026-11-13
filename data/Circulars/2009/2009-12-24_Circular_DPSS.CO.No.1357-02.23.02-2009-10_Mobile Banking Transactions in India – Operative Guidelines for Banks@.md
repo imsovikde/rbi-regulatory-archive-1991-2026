@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2009_DPSS_CO_No_1357_02_23_02_2009-10"
+title: "Mobile Banking Transactions in India – Operative Guidelines for Banks@"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/MGR241209.pdf"
+pdf_sha256: "7f4b121b3abbbbc5d7bd1cbbb4bc4fd2688d56c3eda1534bee2a080df85c0f54"
+md_sha256: "d267f8f62bd19c82e19cb2adaa676bec2c958fe1f2465fa4134a8134d92688b2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:48:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-12-24_Circular_DPSS.CO.No.1357-02.23.02-2009-10_Mobile%20Banking%20Transactions%20in%20India%20%E2%80%93%20Operative%20Guidelines%20for%20Banks%40.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Mobile Banking Transactions in India – Operative Guidelines for Banks@
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/273 DPSS.CO.No.1357/02.23.02/ 2009-10 December 24, 2009
+
+The Chairman and Managing Director / Chief Executive Officers All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks
+
+## Madam/ Dear Sir
+
+## <u>Mobile Banking Transactions in India-Operative Guidelines for Banks</u>
+
+A reference is invited to the guidelines appended to our <u>circular no. RBI/2008-09/ 208,</u> <u>DPSS.CO.No.619 /02.23.02/ 2008-09</u> dated October 08, 2008, on the captioned subject.
+
+2. Based on the requests received from the banks facilitating mobile banking transactions, the guidelines are modified as under:
+**I. Transaction limit:** In amendment of provisions of paragraph 8.1 of the above guidelines, banks are now permitted to offer this service to their customers subject to a daily cap of Rs 50,000/- per customer for both funds transfer and transactions involving purchase of goods/services. Presently, such transactions are subject to separate caps of Rs 5000/- and Rs 10000/ -respectively. II. **Technology and Security Standard:** Transactions up to Rs 1000/- can be facilitated by banks without end-to-end encryption. The risk aspects involved in such transactions may be addressed by the banks through adequate security measures.
+3. **Remittance of funds for disbursement in cash**: In order to facilitate the use of mobile phones for remittance of cash, banks are permitted to provide fund transfer services which facilitate transfer of funds from the accounts of their customers for delivery in cash to the recipients. The disbursal of funds to recipients of such services can be facilitated at ATMs or through any agent(s)
+
+<!-- PAGE 2 -->
+
+appointed by the bank as business correspondents. Such fund transfer service shall be provided by banks subject to the following conditions:-
+
+I. The maximum value of such transfers shall be Rs 5000/- per transaction. II. Banks may place suitable cap on the velocity of such transactions, subject to a maximum value of Rs 25,000/- per month, per customer.
+III. The disbursal of funds at the agent/ATM shall be permitted only after identification of the recipient. In this connection, attention of banks is drawn to the provisions of the Notification dated November 12, 2009, issued by Government of India, under Prevention of Money Laundering Act, 2002, as amended from time to time. IV. Banks may carry out proper due diligence of the persons before appointing them as authorized agents for such services.
+
+V. Banks shall be responsible as principals for all the acts of omission or commission of their agents.
+4. The directive is issued under Section 18 of Payment and Settlement Systems Act, 2007, (Act 51 of 2007). Yours faithfully, (G. Padmanabhan) Chief General Manager
+Final Guidelines, December 24, 2009

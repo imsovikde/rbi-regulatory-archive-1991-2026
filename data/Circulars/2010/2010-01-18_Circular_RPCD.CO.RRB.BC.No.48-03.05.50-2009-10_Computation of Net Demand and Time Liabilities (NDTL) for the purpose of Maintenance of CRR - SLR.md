@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2010_RPCD_CO_RRB_BC_No_48_03_05_50_2009-10"
+title: "Computation of Net Demand and Time Liabilities (NDTL) for the purpose of Maintenance of CRR / SLR"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CNDTL180110.PDF"
+pdf_sha256: "e4329ec29613847baf85c7e218a01dd26efe0a5327b7c568b715a1edfa0c9fb9"
+md_sha256: "5d077d475517c5ea0d78537cc23f0ec8b669b4e4b8e2e9337a043adf41cbd7d7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:48:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-01-18_Circular_RPCD.CO.RRB.BC.No.48-03.05.50-2009-10_Computation%20of%20Net%20Demand%20and%20Time%20Liabilities%20%28NDTL%29%20for%20the%20purpose%20of%20Maintenance%20of%20CRR%20-%20SLR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Computation of Net Demand and Time Liabilities (NDTL) for the purpose of Maintenance of CRR / SLR
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **___________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2009-10/289 RPCD.CO.RRB.BC.No.48 /03.05.50 /2009-10 January 18, 2010
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## Computation of Net Demand and Time Liabilities (NDTL) <u>for the purpose of Maintenance of CRR/SLR</u>
+
+It has been observed that the Regional Rural Banks (RRBs) are not following a uniform practice in reckoning their liability in respect of arrangements with correspondent banks (mainly sponsor banks) for remittance facilities. Under the arrangements, there is a transfer of funds by accepting bank to its correspondent bank and it is an obligation of the correspondent bank to honour the instruments. However, such transfer of funds and obligation of correspondent bank to honour the instruments in no way absolve the primary liability of the accepting bank issuing drafts and interest/dividend warrants to its customers. It is, therefore, advised that all RRBs should reckon the liability in the following manner:
+
+i) When an RRB accepts funds from a client under its remittance facility scheme, it becomes a liability (Liabilities to Others) in its books. The liability of the RRB accepting funds will extinguish only when the correspondent bank honours the drafts issued by the accepting bank to its customers. As such, the balance amount in respect of the drafts issued by the RRB on its correspondent bank under the remittance facility scheme and remaining unpaid should be reflected in the RRB’s books as an outside liability and the same should also be taken into account for computation of NDTL
+# Withdrawn
+
+for CRR/SLR purpose. ii) The amount received by correspondent banks has to be shown as ' Liabilities to the Banking System ' by them and not as ' Liabilities to Others ' and this liability could be netted off by the correspondent banks against their inter-bank assets. Likewise sums placed by banks issuing drafts/interest/duplicate warrants are to be treated as Assets within banking system in their books and can be netted off from their inter-bank liabilities.
+
+2. Please acknowledge receipt to our Regional Office concerned. Yours faithfully, (A.K.Pandey) General Manager <u>मामीण आयोजना और ऋण वभाग, के िय कायालय, 10 वी</u>ं<u>मंजल, के िय कायालय भवन, शहद भगतिसंह माग, पोःट बॉकस सं.10014, मुबई-400 001</u>
+Rural Planning & Credit Department Central Office**,** 10 th Floor, Central Office Building, post box no. 10014 Mumbai -400 01 टेिलफोन/Tel No: 91-22-22661602 फै स/Fax No: 91-22-22621011/22658273/22658276 ई-मेलEmail ID:cgmicrpcd@rbi.org.in
