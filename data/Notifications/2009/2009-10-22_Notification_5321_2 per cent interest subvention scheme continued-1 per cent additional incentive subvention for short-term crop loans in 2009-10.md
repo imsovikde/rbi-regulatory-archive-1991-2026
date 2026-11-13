@@ -1,0 +1,136 @@
+---
+doc_id: "Notifications_2009_5321"
+title: "2 per cent interest subvention scheme continued/1 per cent additional incentive subvention for short-term crop loans in 2009-10"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRTDT221009.pdf"
+pdf_sha256: "622c9cb86129f9e269077716dc0ee4b5783f48445cea73cebb5a57a0ab2ab32d"
+md_sha256: "4d0762aedda9bd26b81bfb0ca42c447f81e91095ff55a135c831542f366299a6"
+total_pages: 5
+native_pages: 4
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:04:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-10-22_Notification_5321_2%20per%20cent%20interest%20subvention%20scheme%20continued-1%20per%20cent%20additional%20incentive%20subvention%20for%20short-term%20crop%20loans%20in%202009-10.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 2 per cent interest subvention scheme continued/1 per cent additional incentive subvention for short-term crop loans in 2009-10
+
+<!-- PAGE 1 -->
+
+BANK
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/186
+
+RPCD.No.PLFS.BC.33/05.04.02/2009-10
+
+October 22, 2009
+
+The Chairman/Managing Director
+
+All Public Sector Banks
+
+Dear Sir,
+
+Union Budget - 2009-10 - Proposal for continuation of 2 per cent interest subvention
+
+scheme and 1 per cent additional incentive subvention for short-term crop loans in
+
+2009-10
+
+As you are aware, the Hon'ble Finance Minister, in his Budget Speech (paragraph 27) for
+
+2009-10had announced asfollows:
+
+"I propose to continue the interest subvention scheme for short term crop loans to farmers
+
+forloansuptoRs.3lakhperfarmerat theinterest rateof7per centper annum'
+
+2. In pursuance of this announcement, Government will provide interest subvention of 2%
+
+p.a. to Public Sector Banks in respect of short-term production credit up to Rs.3 lakh
+
+provided to farmers. This amount of subvention will be calculated on the crop loan amount
+
+from the date of its disbursement/drawal up to the date of repayment or up to the date beyond
+
+which the outstanding loan becomes overdue i.e. March 31, 2010 for Kharif and June 30,
+
+2010 for Rabi, respectively, whichever is earlier, subject to a maximum period of one year.
+
+This subvention will be available to Public Sector Banks on the condition that they make
+
+available short-term credit at ground level at 7% p.a.
+
+3. Banks are advised to immediately submit their estimates of short-term production credit to
+
+farmers up to Rs.3.00 lakh for Kharif and Rabi 2009-10 (separately) to enable us to provide
+
+Government with an estimate of the likely amount of subvention. Please note that the
+
+estimatesshouldberealisticinnature.
+
+11014
+
+-400 001
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, post box no. 10014
+
+Mumbai-400001
+
+<!-- PAGE 2 -->
+
+4. It is also advised as under :-
+i) In order to enable the Government to provide subvention, banks are required to submit their claims <u>on a half-yearly basis</u> as at September 30, 2009 and March 31, 2010, and for the quarter ending June 30, 2010 (for Rabi), within one month from the respective dates. The format for the purpose is enclosed. ii) The claims for the half-year ending March 31, 2010 and quarter ending June 30, 2010 ( for Rabi) should be accompanied by a Statutory Auditor’s certificate certifying that the claims for subvention for the entire year ended March 31, 2010 and quarter ending June 30, 2010 (as the case may be) as true and correct. Final settlement of the claims will be done only on receipt of this certificate. iii) Claims may be submitted to the Chief General Manager-in-Charge, Rural Planning and Credit Department, Reserve Bank of India, Central Office, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001.
+5. Further, the Hon’ble Finance Minister, in his Budget Speech (paragraph 27) for 2009-10 had announced as follows: ***"I am also happy to announce that, for this year, the Government shall pay an additional*** ***subvention of 1 per cent as an incentive to those farmers who repay their short term crop*** ***loans on schedule. Thus, the interest rate for these farmers will come down to 6 per cent*** ***per annum."***
+6. In pursuance of this announcement, Government will provide additional interest subvention of 1% p.a. to Public Sector Banks in respect of those prompt paying farmers who repay their short-term production credit within one year of disbursement of such loans. This subvention will be available to such farmers on the short-term production credit availed by them during the year for a maximum amount of Rs.3 lakh and the amount of subvention will be calculated from the date of disbursement/drawal up to the date of repayment subject to a maximum period of up to one year per farmer account. This subvention will be available to Public Sector Banks on the condition that the effective interest rate charged to the prompt paying farmers is 6% p.a. up to Rs. 3 lakh. This process is being adopted to incentivize the prompt payers as well as the lending institutions so that the line of credit remains declogged, thus increasing the availability of institutional credit to farmers throughout the year.
+
+<!-- PAGE 3 -->
+
+7.It is therefore advised as under :-
+i) In order to enable the Government to provide subvention, banks may credit the additional 1% subvention to the farmers account only after their prompt repayment as stated earlier and seek reimbursement subsequently. The banks may submit their <u>one-</u> <u>time</u> consolidated claims for the entire year**,** incorporating the claims pertaining to both Kharif and Rabi disbursements for the year 2009-10, latest by July 31, 2010. The format for the purpose is enclosed. ii) The claims should be accompanied by a Statutory Auditor’s certificate certifying that the claims for subvention for the entire year ended March 31, 2010, as true and correct. iii) Claims may be submitted to the Chief General Manager-in-Charge, Rural Planning and Credit Department, Reserve Bank of India, Central Office, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001.
+8. In case of RRBs and co-operatives, a separate circular will be issued by NABARD. Yours faithfully,
+(A.K.Pandey) General Manager
+
+## Encl: Two
+
+<!-- PAGE 4 -->
+
+|Name of the Bank:||Claim for 2 per cent Interest Subvention on Short-term Crop Loan for the year 2009-10||
+|---|---|---|---|
+|||Statement for the half year ended September 2009/March 2010 or, quarter ended June||
+|30, 2010 Loans up to Rs.50,000/- Loans above Rs.50,000/- and up to Rs.3 lakh. Total|Total short term production credit at 7% p.a No. of accounts.|Amount|(Amount in Rs Lakh) Amount of subvention claimed|
+
+We certify having disbursed the above loans at 7% p.a. by way of short- term production credit to the farmers during the half year ended / quarter ended ________________.
+
+## Date: Authorised Signatory
+
+<!-- PAGE 5 -->
+
+**Claim for additional one per cent Incentive Subvention for timely repayment of short-term crop loans disbursed in 2009-10**
+
+## Name of the Bank:
+
+## <u>(Accounts in thousand and amount in Rs lakh)</u>
+
+Total short term production Total short term production Amount of credit upto Rs. 3 lakh credit which were repaid in time incentive
+
+|credit upto Rs. 3 lakh|credit which were repaid in time incentive||
+|---|---|---|
+|No. of|No. of|subvention|
+|accounts.|accounts.|claimed|
+
+Amount Amount
+
+Loans up to Rs.50,000/- Loans above Rs.50,000/- and up to Rs.3 lakh. <u>Total</u>
+
+We certify that the above loans for which the claim is being made were repaid in time and the benefit of additional one percent incentive subvention has already been passed on to the account holders, thereby bringing down the interest rate for such farmers to 6 per cent per annum for short term production credit up to Rs. 3 lakh for these farmers.
+
+## Date: Authorised Signatory
+
+## (This claim format needs to be duly certified by Statutory Auditors)

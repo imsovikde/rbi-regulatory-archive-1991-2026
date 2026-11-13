@@ -1,0 +1,88 @@
+---
+doc_id: "Notifications_2009_694"
+title: "Inoperative Accounts"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CNBC55301009.pdf"
+pdf_sha256: "368e3a1d65630495d96f91b90e0472888024a425c785b90f026f0f189ad7966f"
+md_sha256: "7e5e84179a865f434b8322079e59c62cbae14f4ae5cf005ca25c109532baf71b"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:04:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-10-30_Notification_694_Inoperative%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inoperative Accounts
+
+<!-- PAGE 1 -->
+
+RESERVEBANK OF NDIA
+
+www.rbi.org.in
+
+RBI/2009-10/202
+
+DBOD.Leg.No.BC.55/09.07.005/2009-10
+
+October 30, 2009
+
+All Scheduled Commercial Banks
+
+(Excluding RRBs)
+
+Dear Sir,
+
+Inoperative Accounts
+
+Please refer to Paragraph 24.2 (iv) of our Master circular DBOD. No. Leg. BC. 9 /
+
+09.07.006/2009-10
+
+dated July 1，2009 on'Customer Service' in terms of which a
+
+savings as well as current account should be treated as inoperative / dormant if there
+
+are no transactions in the account for a period over two years. Further, in terms of
+
+Paragraph 24.2 (vi), for the purpose of classifying an account as inoperative, both the
+
+types of transactions i.e., debit as well as credit transactions induced at the instance
+
+of customers as well as third party should be considered.
+
+2. There may be instances where the customer has given a mandate for crediting the
+
+interest on Fixed Deposit account to the Savings Bank account and there are no
+
+other operations in the Savings Bank account. Some doubts have arisen whether
+
+such an account is to be treated as inoperative account after two years.
+
+3. In this connection, we clarify that since the interest on Fixed Deposit account is
+
+creditedtotheSavingsBankaccountsasperthemandateofthecustomer,thesame
+
+should be treated as a customer induced transaction. As such, the account should be
+
+treated as operative account as long as the interest on Fixed Deposit account is
+
+inoperativeaccount only after twoyears from the date of the last credit entry of the
+
+interest onFixed Deposit account.
+
+Yours faithfully,
+
+(B. Mahapatra)
+
+Chief General Manager
+
+1200001
+
+./FAXNO.22705691/TELEPHONE No.22661602
+
+DEPARTMENT OF BANKING OPERATIONS&DEVELOPMENT, CENTRAL OFFICE,12thFloor,Central
+
+Office Building, Shahid Bhagat Singh Marg, Mumbai-400 001 E-mail : cgmicdbodco@rbi.org.in

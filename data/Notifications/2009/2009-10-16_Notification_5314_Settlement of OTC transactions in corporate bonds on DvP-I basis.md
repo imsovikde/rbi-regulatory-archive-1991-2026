@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2009_5314"
+title: "Settlement of OTC transactions in corporate bonds on DvP-I basis"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CSTCB161009.PDF"
+pdf_sha256: "b7eada23059450e2bb694246bf2b867fc572cefbd1dcd672c8bf463281278666"
+md_sha256: "c0fc413389bab58c8cd284524dff6f1f56bd917c56e967e61a5552840d52ad4f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:04:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-10-16_Notification_5314_Settlement%20of%20OTC%20transactions%20in%20corporate%20bonds%20on%20DvP-I%20basis.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Settlement of OTC transactions in corporate bonds on DvP-I basis
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/184 IDMD No.**1764** /11.08.38/2009-10 October 16, 2009
+
+## To All RBI Regulated Entities
+
+Dear Sir,
+
+## Settlement of OTC transactions in corporate bonds on DvP-I basis
+
+Please refer to <u>Paragraph 106 of the Annual Policy Statement of 2009-10</u> announcing the decision to allow the Clearing Corporations of the exchanges to open transitory pooling account facility with the Reserve Bank for facilitating settlement of OTC corporate bond transactions in real-time gross settlement system (RTGS) on DvP-I basis (*i.e.*, on a trade-by-trade basis).
+
+2. In pursuance thereto, the clearing house of the National Stock Exchange (NSE),
+i.e., the National Securities Clearing Corporation Limited (NSCCL) and the clearing house of the Bombay Stock Exchange (BSE), i.e., Indian Clearing Corporation Limited (ICCL) have been permitted to open transitory pooling accounts with the Reserve Bank of India, Mumbai to which, the buyer of the securities will transfer funds through his bank under RTGS to settle OTC trades in corporate bonds on a DvP-I basis. Under the proposed settlement mechanism, it will be the responsibility of the NSCCL/ICCL to ensure DvP-I.
+3. All OTC trades in corporate bonds shall necessarily be cleared and settled through the NSCCL or ICCL under the above arrangement, as per the norms specified by the NSCCL and the ICCL from time to time, with effect from December 01, 2009.
+Yours faithfully,
+
+(**K V Rajan**) Chief General Manager
