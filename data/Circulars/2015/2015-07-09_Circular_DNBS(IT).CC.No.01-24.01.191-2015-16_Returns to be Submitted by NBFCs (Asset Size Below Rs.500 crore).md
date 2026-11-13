@@ -1,0 +1,49 @@
+---
+doc_id: "Circulars_2015_DNBS_IT_CC_No_01_24_01_191_2015-16"
+title: "Returns to be Submitted by NBFCs (Asset Size Below Rs.500 crore)"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/119NTDNBS2163025105B74844A32C422681B9C0E0.PDF"
+pdf_sha256: "f38656f772e57d501594f48474ee314da7cf2dc78df567fb9408954c602266ef"
+md_sha256: "e1a0b807049a7cfd7c07f4cb7d8287acb05d90eac8ae423db8104689dd8fe580"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:33:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-07-09_Circular_DNBS%28IT%29.CC.No.01-24.01.191-2015-16_Returns%20to%20be%20Submitted%20by%20NBFCs%20%28Asset%20Size%20Below%20Rs.500%20crore%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Returns to be Submitted by NBFCs (Asset Size Below Rs.500 crore)
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/119 DNBS (IT).CC.No. 02 /24.01.191/2015-16
+
+## July 09, 2015
+
+## To CEOs of All NBFCs (excluding RNBCs)
+
+## Dear Sir/Madam,
+
+## Returns to be submitted by NBFCs (Asset Size below Rs. 500 crore)
+
+Please refer to the <u>DNBR (PD) CC.No. 002/03.10.001/2014-15 dated November 10, 2014</u> on revised Regulatory Framework for NBFCs.
+
+2. As per the revised regulations, all non-deposit taking NBFCs (NBFCs-ND), with assets less than Rs. 500 crore are required to submit an Annual Return. Two new Return Formats have been created to capture important financial parameters of the respective category of NBFCs, i.e.
+# Withdrawn
+
+i. <u>NBS 8 for NBFCs-ND with assets size between Rs.100-500 crore</u>, and ii. <u>NBS 9 for NBFCs-ND with assets size below Rs. 100 crore</u>. These Return Formats are available on the website [https://cosmos.rbi.org.in](https://cosmos.rbi.org.in) under the menu ‘Download Blank Form’. The Return Formats are also available in the RBI main website www.rbi.org.in > Functionwise Sites > Regulation > Non Banking > Forms.
+3. The Annual Return should be submitted within 30 days of closing of the financial year, i.e. th by 30 April of every year. Considering that most of these NBFCs will be filing such return
+th for the first time, the Annual Return for the year ending March 31, 2015 may be filed by 30 September 2015. Further, Non-deposit taking NBFCs with assets of Rs. 50- 500 crore that have already submitted the prescribed returns for the quarter ending March 31, 2015 are not required to submit the annual return for the year ending March 2015 (to avoid duplication).
+
+<!-- PAGE 2 -->
+
+4. The NBFCs may get in touch with the concerned DNBS Regional Office for obtaining the Log-in ID and Password for submitting the on-line Annual Returns. The contact details of the concerned persons in various DNBS Regional Offices are available on the website [https://cosmos.rbi.org.in](https://cosmos.rbi.org.in).
+5. There is no change in the returns prescribed for deposit taking NBFCs and NDSI (with assets of Rs 500 crore and above).
+## Yours faithfully
+
+(Dr. Sathyan David) Chief General Manager
+
+# Withdrawn

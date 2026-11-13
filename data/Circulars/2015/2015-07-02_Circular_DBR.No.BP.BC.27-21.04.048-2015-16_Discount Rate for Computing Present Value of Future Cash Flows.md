@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2015_DBR_No_BP_BC_27_21_04_048_2015-16"
+title: "Discount Rate for Computing Present Value of Future Cash Flows"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/111CIRE1F4DF4B8EE14370914B8E7D08F01C12.PDF"
+pdf_sha256: "f18d5c42cd9489b41be51a1c978f467e3b572046a225dd21a595bedf2c9f6456"
+md_sha256: "f8d6469de868f2e0ce033f665b0e4e48d0a809491f16337c461e8b16c6348644"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:33:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-07-02_Circular_DBR.No.BP.BC.27-21.04.048-2015-16_Discount%20Rate%20for%20Computing%20Present%20Value%20of%20Future%20Cash%20Flows.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Discount Rate for Computing Present Value of Future Cash Flows
+
+<!-- PAGE 1 -->
+
+भारतीय ररजर्व बकैं **__________________RESERVE BANK OF INDIA _________________** <u>www.rbi.org.in</u>
+
+RBI/2015-16/111 DBR.No.BP.BC.27/21.04.048/2015-16 July 2, 2015
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Dear Sir,
+
+## Discount Rate for Computing Present Value of Future Cash Flows
+
+Please refer to paragraph 4.5 of <u>circular DBOD.BP.BC.No.99/21.04.132/2012-13 dated</u> <u>May 30, 2013</u>, in terms of which a rate equal to the bank's Benchmark Prime Lending Rate or base rate (whichever is applicable to the borrower) as on the date of restructuring plus the appropriate term premium and credit risk premium for the borrower category on the date of restructuring will be used to discount future cash flows for the purpose of determining the diminution in fair value of loans on restructuring.
+
+2. On a review, it has been decided that a rate equal to the actual interest rate charged to the borrower before restructuring may be used to discount the future cash flows for the purpose of determining the diminution in fair value of loans on restructuring. In cases where the existing credit facilities to a borrower carry different rates of interest,
+# Withdrawn
+
+the weighted average interest rate (with share of each credit facility in the total outstanding of the borrower as on the date of restructuring being used as weights) may be used as the discounting rate. This discount rate may be used to discount both the pre-restructuring cash flows as well as post-restructuring cash flows.
+
+3. The above methodology may be consistently used wherever banks are required to compute fair/present value of loans under the guidelines issued by the Reserve Bank of India, including for the purpose of computing net present value of project loans as required in terms of <u>circular DBR.No.BP.BC.53/21.04.132/2014-15 dated December 15,</u>
+<u>2014</u>. It is clarified that this instruction will be applicable to all projects where changes in amortisation schedule have been carried out under the above circular. Yours faithfully, (Sudarshan Sen) Chief General Manager-in-Charge
+बकक ैंिं ग वर्नियमि वर्भाग, के न्द्रीय कायावलय, 12र्ीिं मिंज़िल, शहीद भगत स िंह मागव, मिंबई – 400001 Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbr@rbi.org.in हहिंदी आ ाि हैं, इ का प्रयोग बड़ाइए
