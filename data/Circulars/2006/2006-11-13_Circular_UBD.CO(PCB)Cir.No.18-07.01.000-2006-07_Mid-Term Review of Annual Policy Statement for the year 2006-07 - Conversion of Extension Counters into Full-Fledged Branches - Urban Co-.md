@@ -1,0 +1,55 @@
+---
+doc_id: "Circulars_2006_UBD_CO_PCB_Cir_No_18_07_01_000_2006-07"
+title: "Mid-Term Review of Annual Policy Statement for the year 2006-07 - Conversion of Extension Counters into Full-Fledged Branches - Urban Co-operative Banks"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73819.PDF"
+pdf_sha256: "5f7858552765b55c067592e153725d8fa1eb87d39b03d62c78867f20164ca32a"
+md_sha256: "b3d861f0d184e6fae062c744e79ecb28d9b4639cbc098ad773baa0b1ec6bc81a"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:56:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-11-13_Circular_UBD.CO%28PCB%29Cir.No.18-07.01.000-2006-07_Mid-Term%20Review%20of%20Annual%20Policy%20Statement%20for%20the%20year%202006-07%20-%20Conversion%20of%20Extension%20Counters%20into%20Full-Fledged%20Branches%20-%20Urban%20Co-.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Mid-Term Review of Annual Policy Statement for the year 2006-07 - Conversion of Extension Counters into Full-Fledged Branches - Urban Co-operative Banks
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/175
+
+UBD.CO(PCB)Cir.No.18/07.01.000/2006-07 November 13, 2006 The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+Mid-Term Review of Annual Policy Statement for the year 2006- 07- Conversion of Extension Counters into full-fledged branches- Urban Co-operative Banks
+
+As you are aware, an announcement had been made in the Annual Policy Statement for the year 2004-05 that the Reserve Bank would consider issue of fresh licences for urban co-operative banks (UCBs) only after a comprehensive policy on UCBs is put in place. This was expected to include an appropriate legal and regulatory framework for the sector and the formulation of a policy for improving the financial health of the urban cooperative banking sector. Consequently, authorization for opening of branches was also put on hold.
+
+2. As a sequel to the announcement in the Mid-Term Review of the Annual Withdrawn Policy Statement for 2004-05, a Vision Document for UCBs was placed in the public domain in March 2005, and a Medium-Term Framework (MTF) for UCBs was evolved based on the feedback. The Vision Document and MTF envisaged regulatory coordination between the State Governments and the Reserve Bank by signing of a memorandum of understanding (MoU) in each state to address the problems of dual control, within the existing legal framework. Eight State Governments, viz, Andhra Pradesh, Gujarat, Karnataka, Madhya Pradesh, Uttaranchal, Rajasthan, Chhattisgarh and Goa, have since entered into an MoU with the Reserve Bank. A Task Force for Urban Co-operative Banks (TAFCUB) has been set up in each of these states for identification of and drawing up of a time bound action plan for revival of potentially viable UCBs and for non- disruptive exit for non-viable UCBs.
+
+<!-- PAGE 2 -->
+
+3. Consequent to the regulatory coordination brought about by signing of MoU with some of the state governments, it was announced in the Mid-Term Review of Annual Policy Statement for the year 2006-07 (copy of paragraph 150 enclosed) that RBI would consider permitting financially sound UCBs registered in states, which have signed MoU with the Reserve Bank and those registered under the Multi-State Cooperative Societies Act, 2002 to convert existing extension counters into full-fledged branches, subject to certain conditions.
+4. Accordingly, it is advised that UCBs, other than those in Grade III and IV, registered in states which have signed MoU and those registered under Multi- State Cooperative Societies Act, 2002 will be eligible to convert the extension counters on completion of three years of their operation into full-fledged branches. The shifting/ relocation of these branches, if considered necessary by the bank, would be permitted subject to the following conditions:
+(i) The proposal is for shifting/relocation of the converted branch within the city/town limit. (ii) Banking services to the existing customers of the extension counter, including the institutional customer, are ensured. (iii) No new extension counter will be allowed in the institution in which the extension counter is housed presently.
+# Withdrawn
+
+5. All other instructions issued in this regard remain unchanged.
+6. Requests in this regard may be forwarded to the Urban Banks Department of the Regional Office of Reserve Bank of India concerned.
+7. Please acknowledge receipt.
+Yours faithfully,
+
+(N.S.Vishwanathan) Chief General Manager-in-Charge
+
+## Encl: As above
+
+<!-- PAGE 3 -->
+
+(b) Conversion of Extension Counters into Full-Fledged Branches
+150. In view of the regulatory co-ordination brought about through signing MoU with State Governments and based on the positive experience of the TAFCUBs, it is proposed:
+- to allow financially sound UCBs registered in States that have signed MoU with the Reserve Bank and those registered under the Multi-State Co-operative Societies Act, 2002 to convert existing extension counters into full-fledged branches subject to certain conditions. Guidelines in this regard would be issued separately.
+# Withdrawn

@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2006_UBD_PCB_Cir_19_09_09_001_2006-07"
+title: "Notification No.S.O.229(E) dated February 21, 2006 Regarding Change in the List of Items Reserved for Exclusive Manufacture in the Small Scale Industries Sector - UCBs"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/74180.PDF"
+pdf_sha256: "1967347f6d330fe43ed366d3b61f59b54646a45fde9a47e6f9a30455801d78e7"
+md_sha256: "d877d25ae14e69857b781662603a25b3f82084b1ea6acfb31f63446119f21879"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:56:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-11-17_Circular_UBD%28PCB%29.Cir.19-09.09.001-2006-07_Notification%20No.S.O.229%28E%29%20dated%20February%2021%2C%202006%20Regarding%20Change%20in%20the%20List%20of%20Items%20Reserved%20for%20Exclusive%20Manufacture%20in%20the%20Small%20Scale.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification No.S.O.229(E) dated February 21, 2006 Regarding Change in the List of Items Reserved for Exclusive Manufacture in the Small Scale Industries Sector - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/ 183 UBD(PCB). Cir 19/ 09.09.001/2006-07 November 17, 2006
+
+The Chief Executive Officers of All Primary (Urban ) Co-operative Banks
+
+Dear Sir,
+
+Notification No.S.O.229(E) dated February 21, 2006 regarding Change in the list of items reserved for exclusive manufacture <u>in the Small Scale Industries Sector-UCBs</u>
+
+Please refer to our circular UBD.(PCB) Cir. No. 13/ 09.09.001/ 2005-06 dated September 29, 2005 regarding amendment to the list of reserved items for exclusive manufacture in the small scale industries sector. We advise that Government of India, Ministry of Commerce & Industry (Department of Industrial Policy and Promotion) have since issued a Gazette Notification S.O. 229(E) dated February 21, 2006 notifying the enhancement of investment limit in plant and machinery from Rs. 1 crore to Rs. 5 crore in respect of (i) 69 items reserved for exclusive manufacture in the small scale sector and (ii) all the items (whether reserved or not) in the Drugs and Pharmaceutical sector.
+
+2. The 69 items are in addition to 71 items wherein the investment limit for plant and machinery has already been enhanced from Rs.1 crore to Rs.5 crore vide notifications issued from time to time. A comprehensive list of such 140 (69+71) items is also enclosed with the Government Notification dated March 10, 2006.
+3. A copy of letter No.4(1)2006-SSI. Board.& Policy dated March 10, 2006 received from the Government of India, Ministry of Small Scale Industries, together with a copy of the Gazette Notification dated February 21, 2006 referred to above is enclosed for your information.
+4. Please acknowledge receipt to the concerned Regional Office of the Reserve Bank.
+# Withdrawn
+
+Yours faithfully,
+
+(N.S. Vishwanathan) Chief General Manager-in-Charge
