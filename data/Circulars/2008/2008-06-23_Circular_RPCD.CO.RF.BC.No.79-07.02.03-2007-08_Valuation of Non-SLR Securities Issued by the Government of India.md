@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2008_RPCD_CO_RF_BC_No_79_07_02_03_2007-08"
+title: "Valuation of Non-SLR Securities Issued by the Government of India"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85197.PDF"
+pdf_sha256: "31f6ebdc9f8a64cf9c0e1c6a68aa283ad125fd2f1844c5a93c53df336a01ed2e"
+md_sha256: "555b32b52db2d2dc74109a36fd92aa0c1e3ee1544cb4d53f48dbf3f8ce850459"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-06-23_Circular_RPCD.CO.RF.BC.No.79-07.02.03-2007-08_Valuation%20of%20Non-SLR%20Securities%20Issued%20by%20the%20Government%20of%20India.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Valuation of Non-SLR Securities Issued by the Government of India
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/376 RPCD.CO.RF.BC.No.79 /07.02.03/2007-08
+
+## June 23, 2008
+
+The Chairmen/Chief Executives of all State and Central Co-operative Banks
+
+Dear Sir,
+
+## <u>Valuation of Non-SLR securities issued by the Government of India</u>
+
+Please refer to our circular RPCD.No.BC.154/07.02.08/94-95 dated May 23, 1995 on 'Investment Portfolio of Banks –Transactions in Securities'.
+
+2. It has been observed that, over the years, the Government of India has, from time to time, issued several special securities which do not qualify for the purpose of complying with the SLR requirements of State / Central co-operative banks. Such Government securities are governed by a separate set of terms and conditions and entail a higher degree of illiquidity spread. Currently, the guidelines issued by FIMMDA regarding the valuation of such non-SLR securities provide that such securities be valued by applying a mark-up of 50 basis points (bps) above the corresponding yield on Government of India securities.
+3. The issue of valuation of such special securities has since been examined. It hasWithdrawn been decided that, for the limited purpose of valuation, all special securities issued by the Government of India, directly to the beneficiary entities, which do not carry SLR status, may be valued at a spread of 25 bps above the corresponding yield on Government of India securities. This amendment would come into force from the financial year 2008-09.
+4. It may be noted, that at present, such special securities comprise: Oil Bonds, Fertilizer Bonds, bonds issued to the State Bank of India (during the recent rights issue), Unit Trust of India, Industrial Finance Corporation of India Ltd., Food Corporation of India, Industrial Investment Bank of India Ltd., the erstwhile Industrial Development Bank of India and the erstwhile Shipping Development Finance Corporation.
+Yours faithfully,
+
+(G. Srinivasan) Chief General Manager-in-Charge

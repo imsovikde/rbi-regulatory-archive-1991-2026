@@ -1,0 +1,173 @@
+---
+doc_id: "Circulars_2008_UBD_CO_LS_Cir_No_52_07_01_000_2007-08"
+title: "Annual Policy Statement for the year 2008-09 - Branch Licensing Norms for Primary (Urban) Cooperative Banks - Liberalisation"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85056.PDF"
+pdf_sha256: "6873bcb59b9bea8756bed9685a4c549397fcfd0ff237939ee051d72ccbdb177d"
+md_sha256: "859e2de2319b41639a76dcbcacf7984341d22de147498517f0a6e9c4c063878e"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-06-16_Circular_UBD.CO.LS.Cir.No.52-07.01.000-2007-08_Annual%20Policy%20Statement%20for%20the%20year%202008-09%20-%20Branch%20Licensing%20Norms%20for%20Primary%20%28Urban%29%20Cooperative%20Banks%20-%20Liberalisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Annual Policy Statement for the year 2008-09 - Branch Licensing Norms for Primary (Urban) Cooperative Banks - Liberalisation
+
+<!-- PAGE 1 -->
+
+## RBI/2007-08/367
+
+UBD.CO.LS.Cir.No. 52 /07.01.000/2007-08 June 16, 2008
+
+## All Primary (Urban) Cooperative Banks
+
+## Dear Sir/Madam
+
+## Annual Policy Statement for the year 2008-09-Branch licensing norms for Primary (Urban) Cooperative banks-Liberalisation
+
+Please refer to para 211 of the Annual Policy Statement 2008-09 (copy enclosed) in terms of which, it has been decided to liberalise and rationalise the branch licensing norms for well managed and financially sound Primary (Urban) Cooperative Banks (UCBs) in the States that have signed MoUs with the Reserve Bank and those registered under the Multi-State Cooperative Societies Act, 2002.
+
+2. Accordingly, the instructions/guidelines contained in Master circular UBD.BL(PCB)MC.No.9/07.01.000/2004-05 dated September 1, 2004 and circular UBD.CO.LS.Cir.No.01/07.01.000/2007-08 dated July 4, 2007 have been reviewed and it has been decided that approvals for branch expansion including off site ATMs in respect of such UCBs will henceforth be considered based on their Annual Business Plans, subject to:
+i) Maintenance of a minimum CRAR of 10% on a continuous basis with minimum owned funds commensurate with entry point capital norms for the centre where branch is proposed
+# Withdrawn
+
+ii) Net NPAs being less than 10%
+
+iii) No default in the maintenance of CRR/SLR during the preceding financial year
+
+iv) Net profit in the immediate preceding financial year and
+
+v) Regulatory comfort based on inter alia, track record of compliance with the provisions of Banking Regulation Act, 1949 (AACS), RBI Act, 1934 and the instructions/directions issued by RBI from time to time.
+
+<!-- PAGE 2 -->
+
+3. UCBs, satisfying the above mentioned norms may prepare an Annual Business Plan (ABP) for opening of branches/extension counters, upgradation of extension counters into full-fledged branches, setting up of new off site Automated Teller Machines, in their **existing area of operation**, for the next 12 months, with the approval of their Board of Directors and submit the ABP, in duplicate, along with **Annexes I, II, III A, III B and IV** to the respective Regional Offices of Reserve Bank of India. For the year 2008-09, the Annual Business Plan may be submitted to RBI preferably by September 2008. From the year 2009-10 onwards, the plan may be submitted preferably by end of December of the previous financial year.
+4. All other instructions on selection of centres, approval of centres, licence and its validity period, procedural guidelines for permission to open branches, norms for opening extension counters and licensing policy for Salary Earners' banks contained in our Master circular dated September 1, 2004 remain unchanged.
+## Yours faithfully
+
+(A.K. Khound) Chief General Manager-in-Charge
+
+# Withdrawn
+
+## Annual Policy Statement for the year 2008-09
+
+## c) Branch Licensing Norms: Liberalisation
+
+As proposed in the Annual Policy Statement of April 2007, well-managed and financially sound UCBs in States that have signed MoUs with the Reserve Bank and those registered under the Multi- State Cooperative Societies Act, 2002 were permitted to open branches and extension counters subject to fulfilling certain eligibility criteria. With a view to liberalising and rationalizing the branch licensing norms for such UCBs, it is proposed:
+
+- to consider approvals for branch expansion, including off-site ATMs, based on annual business plans, subject to maintenance of minimum CRAR of 10 per cent on a continuing basis and other regulatory comfort.
+
+<!-- PAGE 3 -->
+
+## ANNEX I
+
+1. Name and address of the bank
+2. Licence No. and date of licence
+3. Area of Operation (as approved by RBI)
+4. Whether bank has an elected Board of Directors?
+5. If so, whether there are two professional directors?
+6. No. of existing branches (List of branches to be annexed), their location and the population of the centre where the branch is located as per latest census
+7. No. of existing extension counters (List to be annexed) with address
+8. No. of existing Off Site ATMs (List to be annexed) with address
+9. Whether there were / are any default in CRR/SLR (If yes, give details and the reasons for the same)
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+## ANNEX II
+
+## Financial Position as per audited balance sheet (latest)
+
+## (Rs. lakhs)
+
+## Name of the bank:
+
+|Sl.No.|Particulars|As at the end of March of the year|
+|---|---|---|
+||1 Share capital 2 Reserves 3 Deposits 4 Borrowings||
+||5 Loans and Advances||
+|6|Percentage of priority sector advances to the outstanding loans and advances||
+|7|Credit Deposit Ratio 8 Net profit 9 CRAR @ 10 Gross NPAs@ 11 Net NPAs@||
+|12|Provisions made towards NPAs as per RBI guidelines@ 13 Net Worth||
+
+## @ Certificate from the Statutory Auditors to be enclosed
+
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+## ANNEX III A
+
+## Name of the bank:
+
+## Board Resolution approving the plan of action for opening the branches
+
+## and the particulars of centres at which the bank proposes to open branches
+
+## Name of the district
+
+|Name of the centre|Population of the|Whether|the proposed|
+|---|---|---|---|
+|with address and Pincode No.|centre|centre, is within bank's area of operation||
+
+**Note : Reasons for the proposed branch including adequacy of banking facilities at the** **centre, business prospects at the proposed place of business within 12 months (an estimate** **of minimum business which the UCB expects to attract). A viability study report (as per** **proforma given below) for the proposed branch containing the potential available in the area,** **estimate of income and expenditure and likely period of break-even etc. may be submitted**
+
+Name Population No.of Population Deposits Advances of of centre bank expected centre branches to be and at centre served district 1st 2nd 3rd 1st 2nd 3rd <u>year year year Year Year Year</u>
+
+<u>Estimated Income Estimated Expenditure Profit/Loss</u> <u>1st year 2nd year 3rd year 1st year 2nd year</u> 3rd year <u>1st year 2nd year 3rd year</u>
+
+# Withdrawn
+
+<!-- PAGE 6 -->
+
+## ANNEX III B
+
+## Name of the bank:
+
+## Board Resolution approving the plan of action for opening Off Site ATMs
+
+## and the particulars of centres at which the bank proposes to Off Site ATMs
+
+Name of the district
+
+|Name of the centre|Population of the|Whether|the proposed|
+|---|---|---|---|
+|with address and Pincode No.|centre|centre, is within bank's area of operation||
+
+**Note: Indicate briefly the benefits expected to accrue by way of installation of ATMs, cost involved, etc.**
+
+# Withdrawn
+
+<!-- PAGE 7 -->
+
+## ANNEX IV
+
+## Name of the bank:
+
+## Information to be submitted along with Annual Business Plan
+
+1. Medium Term policy for branch expansion programme of the bank Bank may furnish details of the proposed Medium Term Policy for its branch expansion inclusive of branches & ATMs for a period of 3 years
+2. Expected level of business in the next 3 years-
+a. Deposits
+b. Advances
+3. Expected level of capital augmentation required for the branch expansion and measures proposed to meet the same in order to maintain CRAR at a minimum of 10% on a continuous basis
+4. Technology implementation
+a. No. of branches fully computerised
+b. No. of branches with net work connectivity
+c. No. of branches with Core Banking Solution (CBS) The bank may also submit a brief write-up on the existing technological infrastructure, various technology initiatives undertaken and the proposed enhancement/upgradation of technology for achieving its business goals in the medium term.
+5. Measures to promote financial inclusion
+6. Steps proposed to be taken by the bank to ensure that the quality of customer service does not Withdrawn get adversely affected due to expansion of branches.
+7. Details of complaints received and disposed of during the last two years
+8. Measures proposed by the bank to address the following issues arising out of scaling up of operations due to the proposed branch expansion-
+
+|•|Internal control and audit|
+|---|---|
+|•|Housekeeping and reconciliation|
+|•|Other areas of Operational risk|
+|•|HR issues|
+
+9. Any other information

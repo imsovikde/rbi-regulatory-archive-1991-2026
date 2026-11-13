@@ -1,0 +1,173 @@
+---
+doc_id: "Circulars_2008_UBD_PCB_Cir_No_58_13_05_000_2007-08"
+title: "Union Budget - 2008-09 - Agricultural Debt Waiver and Debt Relief Scheme, 2008 - Clarification - UCBs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85127.PDF"
+pdf_sha256: "ee21c69eef8c678616f792e9354ea4758cf98159d1dc522ec116c53cc97c49c0"
+md_sha256: "85cebd8d35d5e28d0cde3b9bca778505d0c1a274a4a0b25c6427ba1cd961cd37"
+total_pages: 11
+native_pages: 11
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-06-20_Circular_UBD.PCB.Cir.No.58-13.05.000-2007-08_Union%20Budget%20-%202008-09%20-%20Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008%20-%20Clarification%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget - 2008-09 - Agricultural Debt Waiver and Debt Relief Scheme, 2008 - Clarification - UCBs
+
+<!-- PAGE 1 -->
+
+RBI / 2007-08/374 UBD.PCB.Cir.No.58/13.05.000/2007-08 June 20, 2008
+
+The Chief Executive Officer of All Primary (Urban) Co-operative Banks.
+
+Dear Sir/Madam,
+
+### Union Budget – 2008-09 – Agricultural Debt Waiver and <u>Debt Relief Scheme, 2008-Clarification-UCBs.</u>
+
+Please refer to our circular UBD.PCB.Cir.No.43/13.05.000/2007-08 dated May 23, 2008, and the Agricultural Debt Waiver and Debt Relief Scheme, 2008, forwarded therewith. Your attention is also invited to our circular UBD.PCB.Cir.No.49/13.05.000/2007-08 dated June 2, 2008, and the supplementary explanatory instructions issued by Government of India, forwarded therewith.
+
+2. A set of clarifications issued by Government of India in response to the queries received from various lending institutions in this regard is appended in the ANNEX.
+3. The clarifications may be made available to all the branches for smooth implementation of the Scheme.
+Yours faithfully,
+
+(S,S Barik)
+
+## General Manager
+
+# Withdrawn
+
+<!-- PAGE 2 -->
+
+## <u>ANNEX</u>
+
+## <u>Clarifications on queries raised by Lending Institutions</u>
+
+## Queries Clarifications
+
+|Sr. No.|||
+|---|---|---|
+|1.|Interest on NPA (i) In case of NPA accounts, where the interest has not been applied since the date of NPA/or otherwise, whether interest upto 29 February 2008 can be included for interest on loans classified as NPA for determining the eligible amount for Debt any period after it is so classified can Relief/Debt Waiver (DWDR).|In the case of NPA loans, no interest will be applied from the date when the loan account was classified as NPA. Hence, neither be claimed from the Government|
+
+th
+
+nor from the farmer. (ii) The eligible amount as stated in the guideline dated 23.05.08 is inclusive of applicable interest. However, subsequently the supplemental instructions dated 28.05.08 mentioned about exclusion of unapplied interest, which may kindly be clarified.
+
+(iii) Once an account is classified as NPA, the Unapplied interest on NPA loans are interest is not being applied. However, the neither to be claimed from the unapplied interest upto the cut of date is Government nor from the farmer recoverable as long as it does not exceed the principal amount. The clarification is required whether to include unapplied portion of interest in eligible amount, if it satisfies the condition of fallen due (overdue as on the cut of date) and not exceeding the principal amount.
+
+2. (i) It is stated in the Scheme that in the case ofWithdrawnThe entire applicable interest on the an investment loan, the installments of such investment loan that is overdue as on loan that are overdue (together with applicable December 31, 2007 and remains unpaid interest on such installments) will be the as on February 29, 2008 in the account eligible amount for debt relief. Please clarify of the farmer shall be included in the in case of accounts which are not NPA but calculation of “eligible amount”. However, irregular, whether for determining the eligible paragraph 8.3 of the Scheme will apply amount, the interest on overdue installments and the amount of interest that may be which included principal as well as interest as claimed shall not, in any case, exceed
+th on 31.12.07 may be included till 29 February the principal amount of the loan.
+
+08. (ii) In case of term loans, as interest is charged on entire outstandings, the claim amount should cover entire interest overdue (not interest on overdue installments only) plus overdue installments (principal).
+
+<!-- PAGE 3 -->
+
+|3.|Whether Lift Irrigation Societies financing to farmers, financed directly by branches are Societies are not Cooperative Credit eligible under the Scheme? Whether functional societies such as dairy are not covered under the Scheme. Fishermen’s cooperative, lift irrigation society etc. can be treated as CCI.|Lift Irrigation Societies and Functional Institutions as defined under the Scheme. Loans given to and by these Societies|
+|---|---|---|
+|4.|Whether Harvesting and Transport advances granted to Individuals SF/MF/AI for Sugarcane crop given in the State of Maharashtra, where individual records are available with the branches are eligible under the Scheme.|Not covered, since these loans are not short term production loans.|
+|5.|Whether Backend Subsidy is to be adjusted from the principal loan amount to reckon the loan quantum (upto Rs. 50,000/- and above Rs. 50,000/-)?|The original loan amount, without adjusting the back- ended subsidy, will be the amount for reckoning the loan quantum for the purpose of calculating the ‘eligible amount’.|
+|6.|Whether Backend Subsidy is to be notionally adjusted for calculating the overdue amount in case of Govt. Sponsored Schemes?|The overdue amount in case of Government sponsored schemes, eligible under the Scheme, will be calculated after adjusting the back- ended subsidy.|
+|7.|Whether proprietors are covered i.e. Dairy Proprietary firms are not covered under Units in the name of a proprietorship firm? As per item no. (xiii) of the Implementation Circular 1 / 2008 dated May 28, 2008, loans to farmers for purposes other than agriculture Withdrawn and loans for agricultural purposes to companies or other legal persons like registered societies, trusts, partnerships etc. are not covered under the Scheme. What would be the status of sole proprietary firms and Hindu Undivided Families (HUFs)? 8. (i) Whether Motorcycle/Jeep/Truck/ Harvester/JCB financed under Agriculture a Direct Agricultural Investment Loan will Finance schemes are covered under the be included. Motor Cycles, Jeeps, Scheme? (ii) Finance to transport vehicles for transportation of agri produce to a farmer- Corporate Centre has made a reference to RBI as to whether such advances are covered not, under the Scheme.|the Scheme. HUFs are included in the Scheme. Harvesters and Combines, if financed as Trucks are not included.|
+|9.|“Our bank has financed to farmers service Since the interest subvention has been societies in Rajasthan. These Societies provided through the Bank, the claim provide finance to member farmers for short term production credit and investment credit and are eligible for 2% interest subvention”.|should also be lodged through the Bank.|
+
+<!-- PAGE 4 -->
+
+||The Agriculture Debt Waiver & Debt Relief Scheme 2008 clause 3.4 covers the cooperative societies which provide short term credit to farmers and are eligible for interest subvention. We request you to clarify whether such farmer service society will lodge the claim through our bank or directly to NABARD.||
+|---|---|---|
+|10.|Whether the short term finance for cultivation of Banana and Sugarcane crops will be are covered under Short Term Production considered under plantation crops or other Credit with the repayment schedule short term crops.|Loans to sugarcane and banana crops varying from 12 to 18 months.|
+|11.|(i) Whether the amount debited as crop Insurance premium debited in the loan insurance premium paid to AICL is to be accounts can be included in the ‘eligible considered for debt relief while arriving at amount’. eligible amount. (ii) Whether insurance premium debited in the loan accounts are eligible for coverage. (iii) Whether Crop Insurance premium amount and premium under PAIS debited to the eligible loan accounts are to be treated as Misc. charges and excluded from the claims? (iv) Whether Crop Insurance claims received after 29.02.2008 are to be adjusted to eligible claims and only the net amount submitted to RBI for reimbursement? Withdrawn|Yes, the amount of crop insurance claims received are to be adjusted before claiming reimbursement from the Central Govt.|
+|12.|Loans provided directly to the groups of Direct Agricultural Loan as defined in individual farmers (for example SHGs) paragraph 3.1 of the Scheme would also provided banks maintain disaggregated data of the loan extended to each farmer belonging to that group. Whether the debt waiver and debt relief scheme is applicable, in such cases if the banks have not maintained books of accounts of the SHG. However, disaggregated data but built up the same it must be ensured that the disaggregated subsequently by obtaining required documents from the SHGs? Disaggregated data of the agri loan extended t each farmer in respect of SHGs may not b available with branches since loans are given t SHGs as Group loan. Therefore, disaggregate data (borrower-wise) may not be available at th branch. But such data may be available with th SHGs. Will such loans qualify for benefits? Disaggregated data of the agri loan extended t each farmer in respect of SHGs may not b available with branches since loans are given t SHGs as Group loan. Therefore, disaggregate|include loans extended to SHGs of individual farmers even if the disaggregated data is maintained at the level of the SHG and reflected on the data is maintained to the satisfaction of the lending institution concerned.|
+
+<!-- PAGE 5 -->
+
+data (borrower-wise) may not be insisted upon All overdues in SHGs should qualify under ‘loan to SF/MF’ and Scheme benefits made available Overdue percentage is also very low in case o SHGs.
+
+13. (i) Whether the scheme is applicable for short Dairy, poultry, fisheries etc are treated as term credit extended to agriculture and allied allied activities. Investment credit for activities for dairy, poultry, fishery etc. Or is it allied activities is governed by paragraph restricted to only investment credit for allied 3.3 of the Guidelines. Paragraph 3.3(b) activities. makes it clear that the loan must be
+extended for “acquiring assets”. Hence, (ii) Whether term loan for purchase of fodder fo only investment credit for allied activities dairy units during the period of drought to b intended for acquiring assets in respect classified as investment loan/allied activities? of such allied activities will be covered.
+
+(iii) Whether working capital loan given for allied activities like poultry, dairy etc. are eligible.
+
+(iv) Whether the Scheme is applicable for short-term credit extended to allied activities for dairy, poultry, fishery etc. or is it restricted to only investment credit for allied activities.
+
+|14.|There are 12 societies which are under If these societies are lending institutions||
+|---|---|---|
+||various stages of liquidation. Whether claims of these societies would be eligible for would be eligible for reimbursement reimbursement from GoI?|as defined under the Scheme, they irrespective of the stage of liquidation.|
+|15.|Small farmers having meager land holding of|Only direct agricultural loans given to|
+
+less than 2.5 acres form Samithis of 100 to farmers by lending institutions as defined 150 farmers for taking cultivation of paddy of in the Scheme are covered. If ‘Samithis’ large scale. However, of the total number ofWithdrawnis not a lending institution as defined in famers, a few farmers may be having land the Scheme and the loans are not direct holding of more than 5 acres. In such case, agricultural loans to each farmer, this as per the scheme, the size of the largest land does not fall within the scope of the holding in the pool will be the basis for the Scheme. classification of all farmers. As such, these accounts will be treated as “Other Farmers”, consequently a large number of small farmers would be denied benefit of waiver of agricultural loan.
+
+16. The adoption of EMI system of repayment by LTInterest claims should not be excess of Cooperative Structure results in higher quantumthe original amount of principal of interest in the EMI during first two or thre disbursed. years of loan repayment. Insistence of interes The amount of interest in excess of the <u>claim</u> not exceeding principal amount claime principal disbursed will be borne by the may result in many of the SCARDBS bein lending institutions. affected adversely. Reimbursement of claim of interest shall not exceed the principal amount of loan (item No.8-3). This clause may prove disastrous for Co-op. <u>Banks and PACS, because the loans which</u>
+
+<!-- PAGE 6 -->
+
+||are overdue are of earlier years when the normal lending rates were high. Now, restricting its re-imbursement of interest upto principal amount of loan will give rise to the following situations: (i) PACS/Banks have to recover from the borrowers otherwise they cannot be certified as debt-free. Hence remains ineligible for fresh finance. (ii) PACS/Banks have to write off which is normally not allowed under the Co-op. Societies Act.||
+|---|---|---|
+|17.|(i) A farmer who has availed OTS benefit an fails to honour the commitment of paying in installments whether banks can charge interes eligible amount for any period between at contracted rate on loan account with effec February 29, 2008 and June 30, 2009. In st from 1 March, 2007? (ii) The lending institutions have been asked no to debt relief and, in the case of that to charge any interest on ‘other farmers’ fromfarmer, the lending institution may charge 29.02.2008 to 30.06.2009. Whether the interes interest for the period after June 30, for this period would be reimbursed to the bank in case of default by such farmers?|Paragraph 8.1 of the Guidelines is clear. No interest shall be charged on the the case of a farmer who defaults on the OTS commitment, he will not be entitled 2009.|
+|18.|(i) Working capital loan not exceeding Rs.1 lakh, for traditional plantations and horticulture is eligible. If the limit exceeds one lakh, the investment loans are dealt with in whether the amount in excess of one lakh may be considered as investment loan as another kind of loan, namely, working Withdrawn discussed in the SLBC conveners meeting held on 27.05.2008 (ii) We are of the view that short-term credits provided to farmers for traditional and non- traditional horticulture field crops (not orchard crops) other annual crops (up to 18 months) will have the upper ceiling of Rs. 1 lac prescribed under clause no. (xiv) of circular no RPCD. NO. waiver or debt relief, subject to the th PLFS. BC. 73 / 05.04.02/ 2007-08 dated 30 May 2008. Beyond Rs 1 lac for such horticulture in excess of Rs.100,000, debt waiver or (vegetable crops) is a kind of commercial debt relief will not apply to any amount in activity. (iii) Please clarify, whether Rs. 1 lac is the Limit sanctioned or loan amount outstanding. Most farmers availing short-term production credit have limits above Rs. 1 lac. Whether such farmers are eligible for relief.|Short-term production loans are dealt with in paragraph 3.2 of the Scheme and paragraph 3.3 of the Scheme. There is capital loan. Paragraph 3.2 deals with working capital loan for traditional and non-traditional plantations and horticulture. In such cases, the working capital loan account could become an irregular account and some amount may like vegetables, potato, jasmine and have become overdue as on December 31, 2007. That overdue amount of working capital loan qualifies for debt condition that the amount is limited to Rs.100,000. If the working capital loan is excess of Rs.100,000.|
+|19|(i) Whether loans eligible under the scheme but repaid partly or closed after 29.02.2008|The debt waiver/debt relief admissible on the eligible amount paid after 29.02.2008|
+
+<!-- PAGE 7 -->
+
+are eligible. should be credited to the account of the borrower by September 30, 2008. (ii) What treatment is to be given to those accounts (where disbursements took place prior to March 31, 2007, which were overdue The eligible amount outstanding as on as on Dec 31, 2007 and remained unpaid as 29.02.2008 qualifies for debt waiver/debt on Feb 29, 2008), but were paid in full or in relief. Hence, any amount written off part after Feb 29, 2008? Whether, they are to after 29.2.2008 which would, otherwise, be made eligible for the benefits of the have been eligible for reimbursement Scheme. under the Scheme, will qualify for reimbursement. (iii) What treatment is to be given to those accounts (where disbursements took place prior to March 31, 2007, which were overdue as on Dec 31, 2007 and remained unpaid as on Feb 29, 2008), but were written-off after Feb 29, 2008? Whether, they are to be made <u>eligible for the benefits of the Scheme?</u>
+
+20. Whether loans disbursed on 31.03.1997 are The Scheme does not apply to any loan eligible as the scheme says prior to disbursed by lending institutions prior to
+31.03.1997. close of business on 31.03.1997. While declaring the guidelines for implementation of the scheme, it is incorporated as item 4.3 as under : “Nothing contained in this scheme shall apply to any loan disbursed by a lending institution prior to March 31, 1997”. GSCB Ltd. has further viewed that most of the PACS under liquidation are having overdues
+st
+
+# Withdrawn March, 1997.
+
+on the period before 31 Problem is further aggravated by no further finance by such PACS. These has put the borrowers of such PACS in a critical situation that –
+
+(i) They are not able to repay the loan (ii) They are not able to renew it as PACS has stopped financing because of liquidation proceedings (iii) They are not able to get other loan from other banking institution as they considered as defaulters.
+As such it has been requested for removal of item No.4.3 of the ADWDR Scheme 2008, restricting the loans disbursed before March 1997 and give <u>the unqualified effect to the budget speech.</u>
+
+<!-- PAGE 8 -->
+
+|21.|Para 4.1.(ii) of the Scheme says that loans restructured and rescheduled by banks in 2004 and 2006 through special packages by Central Government, whether overdue or not, are eligible for the benefits under the present Scheme. Para 4.3 of the Scheme also says that nothing contained in the Scheme shall apply to any loan disbursed prior to 31.03.1997. Since, under the PM’s package in 2006, loans were rescheduled irrespective of age, what treatment is to be given to loans which were originally disbursed prior to 31.03.1997?|The cut-off date of 31.03.1997 will not apply to loans restructured and rescheduled by lending institutions in 2004 and 2006 through special packages and in the normal course as per RBI guidelines.|
+|---|---|---|
+|22.|Gold (Jewel) Loans for Investment Credit under agriculture should also qualify under the Scheme.|Yes, short-term loans for investment credit for agricultural purposes sanctioned against pledge of gold jewels are covered under the Scheme. However, the applicable interest will not be in excess of what is normally charged for agricultural loans by the lending institution in the corresponding year.|
+|23.|In case of NPA accounts (other farmers), where suit has been filed, whether suit has to be withdrawn without payment of their entire 75% share.|No. An adjournment of the case beyond 30.06.2009 may be taken in view of the farmers undertaking. However, the ‘other farmer’ will be eligible for fresh crop loan on payment of his first installment.|
+|24.|In case of ‘other farmers’, they are eligible for rd fresh production credit once they pay 1/3 share of eligible amount of overdue production credit and fresh investment credit once they Withdrawn pay the full share of the eligible amount of overdue investment credit. However, in case the other farmer pays only rd share of production credit but does his 1/3 not pay his share in investment loan, whether he would be eligible for fresh production credit.|A short-term production loan and an investment loan taken by a farmer shall be counted as two distinct loans and the Scheme will apply to the two loans separately as such the farmers will be eligible for fresh production loan.|
+|25.|Item 4.1 (a) and (b) of the Scheme, indicate that the benefit would include applicable institutions are eligible to charge and interest. As per item 8 of the Scheme, lending institutions were asked not to charge interest on the eligible amounts beyond 29.02.2008. Item no.(ix) of the Implementation Circular 1 / 2008 dated May 28, 2008 prohibits the lending institutions from claiming unapplied interest. Now banks mostly charge interest on a half yearly basis in September and March. Therefore, are the banks eligible to charge and claim interest on the eligible amounts in the standard accounts from October 2007 to 29.02.2008, which has not been applied so far.|In the standard accounts, lending claim interest on the eligible amount from Oct. 2007 to February 29, 2008. However, no interest shall be applied in NPA accounts from the date of classification of these accounts as NPA.|
+
+<!-- PAGE 9 -->
+
+26. (i) It has been stated in Para 6 of the Scheme The proviso to paragraph 6.1 of the that in the case of 237 revenue districts listed Scheme applies in the Annexure-I in **Annex-I**, ‘other farmers’ will be given OTS districts. The debt relief will be 25 per rebate of 25 per cent of the ‘eligible amount’ or cent of the ‘eligible amount’ or Rs.20,000, **whichever is higher**, subject to Rs.20,000, whichever is higher. the condition that the farmer pays the balance However, if the ‘eligible amount’ is, say, of the ‘eligible amount’. Rs.12,000, while 25 per cent of the
+‘eligible amount’ will result in Rs.3,000, (ii) What happens when the outstanding in the debt relief will be Rs.12,000. It is such cases is less than Rs. 20, 000/-? obvious that the amount of debt relief cannot be more than the ‘eligible (iii) In case 25% of the eligible amount for amount’ itself. ‘other farmers’ is less than Rs.20,000 per account/facility, exact amount for each of the accounts/facility will be reckoned so that there is no profit made on account of the Scheme. Each account of ‘other farmer’ will be treated <u>separate for the claim.</u>
+
+27. (i) As per item (ix) (b) of the Implementation The cap on the rate of interest @ 7% Circular 1 / 2008 dated May 28, 2008, interest per annum is applicable only on Crop on crop loans disbursed after April 1, 2006 Loans up to Rs.3 lakhs for all lending will be calculated at a rate not exceeding 7% institutions. For other loans, the rate of per annum. The amount of interest in excess interest charged by the banking of 7% per annum on crop loans will be borne institutions would be applicable. by the lending institutions. However, in order to make credit available at a reasonable cost to the farmers, the Union Finance Minister, in his budget speech for 2006-07 announced the Government’s decision to ensure that the farmer receives short term credit at an interest rate of 7 per cent per annum, with an upper limit of Rs.3,00,000 on the principal amount. Withdrawn Accordingly, only Public Sector Banks, RRBs and co-operatives have been implementing this ever since. The above Scheme was not applicable to Private Sector Banks. Therefore, in the present Scheme, is it that the Public Sector Banks, RRBs and co- operatives would be required to bear the interest burden in respect of the amount beyond Rs. 3 lakh and private sector banks would be required to bear the entire interest burden in excess of 7%? (ii) Clarification is required whether the Scheme instructions to claim interest upto 7% on crop loans disbursed after April 1, 2006 will be applicable to all the crop loans, irrespective of the limit. As the interest at applicable rates have already been applied and booked by the Banks. Any changes in these instructions will lead to reversal of interest booked/applied and involves accounting issues. We suggest that charging <u>of interest up to 7% may be applicable to the</u>
+
+<!-- PAGE 10 -->
+
+crop loans upto Rs. 3 lakh limit as per the extent instructions.
+
+28. If a farmer owns less than 2.5 acres and has Paragraphs 3.5, 3.6 and 3.7 describe taken 10 acres on lease, whether he should the status of the farmer, namely, be treated as a small farmer or ‘other’ farmer? marginal or small or other farmer. That In other words, is it the land ownership or the status is determined on the basis of the area of cultivation that need to be reckoned? agricultural land that is in the possession
+of the farmer as owner or tenant or sharecropper. Hence, all land in the possession of the farmer as owner or tenant or sharecropper should be taken into account for determining whether he <u>is a marginal or small or other farmer.</u>
+
+|29.|Whether Crop Insurance claims received after|Yes, the amount of crop insurance|
+|---|---|---|
+||29.02.2008 are to be adjusted to eligible claims and only the net amount submitted to|claims received are to be adjusted before claiming reimbursement from the|
+||RBI for reimbursement?|Central Govt.|
+|30.|As fresh crop loans are to be given to 'other It is the intention of the Government that||
+
+farmers' on payment of first installment under once the debt waiver or debt relief has been OTS by September, 2008, the RBI may allow granted, the account should be treated as a banks to classify such accounts as Standard standard account with effect from June 30, Assets (even though the account remains 2008. Government has promised to overdue as on September, 2008) Otherwise, reimburse the banks the loan amount that it will tantamount to financing to overdue has been waived or accorded relief in borrowers. Further, in the event of such accordance with the Scheme. Hence, the farmers given fresh loans, however, fail to issue of classification will be suitably honour their commitment under OTS to pay addressed by the RBI. the balance amount by June 2009 - the asset classification issue may be further clarified.
+
+31. Corporate Centre has also referred to RBI that Since, these loans are not provided directly Agri Clinics and Agri Business Centres, which to farmers for agricultural purposes, these are treated as Direct Agri Advances as perWithdrawnare not included under the Scheme. RBI guidelines under Agri Priority Sector, should also be brought under the ambit of the Scheme. RBI is yet to clarify on the issue.
+32. i) Whether in case of written off accounts, the No charges of any kind may be included in suit / RCs filed are to be withdrawn. If so, who the computation of ‘eligible amount’. will pay the recovery charges be payable to Paragraph 8 of the Scheme is clear. revenue authorities? Supplemental instructions in this behalf
+have also clarified the position. Lending ii) Revenue authorities may demand recovery institutions may apply to the revenue charges hence we feel necessary instructions authorities for refund of charges if there is a for waiver of such charges should be issued to provision for such refund. Govt. Authorities in case of written off cases and banks may be permitted to include such charges in the eligible amount claimed in <u>cases other than written off cases.</u>
+
+<!-- PAGE 11 -->
+
+33. In horticulture, poultry and dairy advances, The ‘eligible amount’ will be calculated after construction of shed financing are included in excluding the amounts of loan advanced for the composite scheme. There is no separate construction of shed, farm house, fencing repayment for these items and hence cannot etc. which are not included under the be bifurcated / separated while eligible amount Scheme. is calculated. Please clarify whether above loans can be exempt from the clause (xii) of is *RPCD*. NO. PLFS. BC. 73 / 05.04.02/ 2007-08
+th <u>dated 30 May 2008.</u>
+
+34. (i) whether all the items mentioned in para Paragraph 4 of the Scheme defines what 2(ix)(a) of Implementation Circular 1/2008 put would be the ‘eligible amount’. A difficulty together should not exceed the principal arising in respect of paragraph 4.1(b) has amount or the only interest-applied portion. been removed by an order issued today. Alternatively, interest applied & accrued / Hence, the principal and the applicable unapplied interest *(which has fallen due)* interest alone would qualify for inclusion in should not exceed the principal amount the calculation of ‘eligible amount’. The *(excluding other charges)*. ‘eligible amount’ will be the basis for
+determining the amount of debt waiver or (ii) Whether to include unapplied portion of debt relief. The amount so waived or interest in ‘eligible amount’, if it satisfies the accorded relief may be claimed as condition of fallen due (overdue as on the reimbursement from the Central cutoff date) and not exceeding principal Government, subject to the stipulation amount. (paragraph 8.3) that in no case shall the interest claimed exceed the principal amount of the loan.
+
+Para 2(ix)(a) of the Implementation Circular 1/2008 clearly states that lending institutions shall neither claim from the Central Government, nor recover from the farmer, (i) interest in excess of the principal
+
+# Withdrawnamount, (ii) unapplied interest, (iii) penal
+
+interest, (iv) legal charges, (v) inspection charges and (vi) miscellaneous charges, etc. All such interest/charges will be borne <u>by the lending institutions.</u>

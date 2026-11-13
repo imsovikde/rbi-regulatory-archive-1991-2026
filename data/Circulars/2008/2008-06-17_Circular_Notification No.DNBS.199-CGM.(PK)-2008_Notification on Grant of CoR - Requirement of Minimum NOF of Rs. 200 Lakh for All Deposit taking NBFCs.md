@@ -1,0 +1,96 @@
+---
+doc_id: "Circulars_2008_Notification_No_DNBS_199_CGM_PK_-2008"
+title: "Notification on Grant of CoR - Requirement of Minimum NOF of Rs. 200 Lakh for All Deposit taking NBFCs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85065.PDF"
+pdf_sha256: "268561d1f8523a5572044063e62d65d372d847a9c1e157d35655011808abd305"
+md_sha256: "5bd6c4262c5df79828daee973d6f90fe47d495564d117c60e14299a96ca0beac"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-06-17_Circular_Notification%20No.DNBS.199-CGM.%28PK%29-2008_Notification%20on%20Grant%20of%20CoR%20-%20Requirement%20of%20Minimum%20NOF%20of%20Rs.%20200%20Lakh%20for%20All%20Deposit%20taking%20NBFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Grant of CoR - Requirement of Minimum NOF of Rs. 200 Lakh for All Deposit taking NBFCs
+
+<!-- PAGE 1 -->
+
+## RBI/2007-08/369 DNBS (PD) C.C. No. 114 /03. 02.059 / 2007-08
+
+## June 17, 2008
+
+To
+
+## All deposit taking NBFCs
+
+Dear Sir,
+
+**Section 45-IA, 45K and 45L of the RBI Act – Grant of CoR – Requirement of minimum NOF** **of Rs. 200 lakh for all deposit taking NBFCs**
+
+The companies engaged in the business of non-banking financial institution (NBFI) are required to obtain a Certificate of Registration (CoR) from Reserve Bank of India to commence/carry on business of NBFI in terms of Section 45-IA of the RBI Act, 1934. The said section also prescribes the minimum Net Owned Fund requirement. In terms of Notification No.DNBS.132/CGM (VSNM) – 99 dated April 21, 1999, the minimum NOF requirement for the new companies applying for grant of CoR to commence business of an NBFI is stipulated at Rs.200 lakh.
+
+2. The need for strengthening of financial system in general and deposit taking entities in particular cannot be overemphasised. It is desirable that not only should NBFCs accepting deposits be adequately capitalised, but they should also have a uniform minimum NOF. Therefore, it was considered necessary in public interest to review the minimum net owned fund prescription applicable to such companies.
+# Withdrawn
+
+3. In accordance with the consultative approach adopted by the Bank in framing of guidelines, a draft circular on enhancement of minimum NOF level for deposit taking NBFCs was placed on web-site www.rbi.org.in on May 21, 2007. The suggestions/comments received in this regard were considered. To ensure a measured movement towards strengthening the financials of all deposit taking NBFCs by increasing their NOF to a minimum of Rs.200 lakh in a gradual, non-disruptive and non-discriminatory manner, it has been decided to prescribe that:
+(a) As a first step, NBFCs having minimum NOF of less than Rs. 200 lakh may freeze their deposits at the level currently held by them.
+(b) Further, Asset Finance Companies (AFC) having minimum investment grade credit rating and CRAR of 12% may bring down public deposits to a level that is 1.5
+
+<!-- PAGE 2 -->
+
+times their NOF while all other companies may bring down their public deposits to a level equal to their NOF by March 31, 2009.(As per Annex).
+
+(c) Those companies which are presently eligible to accept public deposits upto a certain level, but have, for any reason, not accepted deposits upto that level will be permitted to accept public deposits upto the revised ceiling prescribed above.
+(d) Companies on attaining the NOF of Rs.200 lakh may submit statutory auditor's certificate certifying its NOF.
+(e) The NBFCs failing to achieve the prescribed ceiling within the stipulated time period, may apply to the Reserve Bank for appropriate dispensation in this regard which may be considered on case to case basis.
+Yours faithfully,
+
+(P. Krishnamurthy) Chief General Manager In-Charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+|Category of NBFC|Present Ceiling on public deposits|Revised Ceiling on public deposits|
+|---|---|---|
+|AFCs maintaining CRAR of 15% without credit rating and having NOF more than Rs 25 lakh but less than Rs 200 lakh|1.5 times of NOF or Rs 10 crore whichever is less|Equal to NOF|
+|AFCs with CRAR of 12% and having minimum investment grade credit rating and having NOF more than Rs 25 lakh but less than Rs 200 lakh|4 times of NOF|1.5 times of NOF|
+|LCs/ICs with CRAR of 15% and having minimum investment grade credit rating and having NOF more than Rs 25 lakh but less than Rs 200 lakh|1.5 times of NOF|Equal to NOF|
+
+AFCs – Asset Finance Companies LCs – Loan Companies ICs – Investment Companies
+
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+RESERVE BANK OF INDIA DEPARTMENT OF NON-BANKING SUPERVISION CENTRAL OFFICE CENTRE I, WORLD TRADE CENTRE, CUFFE PARADE, COLABA, MUMBAI 400 005.
+
+## NOTIFICATION No. DNBS. 199/CGM (PK) - 2008 dated
+
+## June 17, 2008
+
+The Reserve Bank of India having considered it necessary in the public interest and being satisfied that for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to give the directions set out below, hereby, in exercise of powers conferred by Sections 45-IA, 45K and 45L of the Reserve Bank of India Act, 1934 ( 2 of 1934), and of all the powers enabling it in this behalf, gives to every non-banking financial company the directions hereinafter specified.
+
+(a) NBFCs having minimum NOF of less than Rs. 200 lakh and eligible to accept public deposits may freeze their deposits at the level currently held by them.
+(b) Further, Asset Finance Companies, Loan and Investment NBFCs may bring down public deposits to a level as per table below latest by March 31, 2009.
+
+|Category of NBFC|Present Ceiling on public deposits Withdrawn|Revised ceiling on public deposits|
+|---|---|---|
+|Asset Finance Companies with CRAR of 12% and having minimum investment grade credit rating and having NOF of more than Rs 25 lakh but less than Rs 200 lakh|4 times of NOF|1.5 times of NOF|
+|Asset Finance Companies maintaining CRAR of 15% crore whichever is less without credit rating and having NOF of more than Rs 25 lakh but less than Rs 200 lakh|1.5 times of NOF or Rs 10|Equal to NOF|
+|Loan / Investment Companies with CRAR of 15% and having minimum investment grade credit rating and having NOF of more than Rs 25 lakh but less than Rs 200 lakh|1.5 times of NOF|Equal to NOF|
+
+<!-- PAGE 5 -->
+
+(c) NBFCs which are presently eligible to accept public deposits upto a certain level, but have, for any reason, not accepted public deposits on the date of Notification will be permitted to accept public deposits upto the revised ceiling prescribed in the Table under paragraph (b) above.
+(d) NBFCs on attaining the NOF of Rs.200 lakh may submit statutory auditor's certificate certifying its NOF.
+(e) The NBFCs failing to achieve the prescribed ceiling within the stipulated time period, may apply to the Reserve Bank for appropriate dispensation in this regard which may be considered on case to case basis.
+(P. Krishnamurthy) Chief General Manager In-Charge
+
+# Withdrawn

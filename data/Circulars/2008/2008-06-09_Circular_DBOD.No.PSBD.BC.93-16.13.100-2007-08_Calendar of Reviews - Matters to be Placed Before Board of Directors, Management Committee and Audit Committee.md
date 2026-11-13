@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2008_DBOD_No_PSBD_BC_93_16_13_100_2007-08"
+title: "Calendar of Reviews - Matters to be Placed Before Board of Directors, Management Committee and Audit Committee"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84885.PDF"
+pdf_sha256: "bf7853041000739c023109821bcfae2d95157f1b0b0411c5382e1ee7e34cc1f4"
+md_sha256: "371c3f03fb216b243c97fb4a0bc25b11817a9ff014ef7dcabff843c0547459c1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-06-09_Circular_DBOD.No.PSBD.BC.93-16.13.100-2007-08_Calendar%20of%20Reviews%20-%20Matters%20to%20be%20Placed%20Before%20Board%20of%20Directors%2C%20Management%20Committee%20and%20Audit%20Committee.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Calendar of Reviews - Matters to be Placed Before Board of Directors, Management Committee and Audit Committee
+
+<!-- PAGE 1 -->
+
+RBI/2007-08/360 DBOD.No.PSBD.BC. 93/16.13.100/2007-08
+
+## June 9, 2008
+
+The Chief Executives of All Private Sector Banks
+
+Dear Sir,
+
+## Calendar of Reviews-Matters to be Placed Before
+
+## <u>Board of Directors, Management Committee and Audit Committee</u>
+
+Please refer to our circular DBOD.No.BP.BC. 71/21.03.038/2007-08 dated April 22, 2008 (copy enclosed), addressed by us to the Chief Executives of public sector banks indicating a revised list of reviews to be placed before the Board of Directors, the Management Committee and the Audit Committee of banks respectively.
+
+2. We advise that the private sector banks may also adhere to the aforesaid calendar of reviews to the extent applicable.
+3. In case there is no Management Committee in your bank, the reviews on the matters enumerated in Annexure II of the circular DBOD.No.BP.BC. 71/21.03.038/2007-08 dated April 22, 2008 may be placed before the Board of Directors of the bank. It is emphasised that the above calendar outlines the critical minimum requirements of review and the banks' Boards will have discretion to prescribe additional reviews to suit their requirements.
+4. The revised schedule may please be brought inWithdrawnto force with effect from July 1, 2008.
+5. This supersedes our circular DBOD.No.PSBD.BC.19/16.13.100/2005-06 dated July 22, 2005 on the subject.
+Yours faithfully,
+
+(Murli Radhakrishnan) General Manager

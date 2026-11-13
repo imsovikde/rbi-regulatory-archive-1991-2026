@@ -1,0 +1,60 @@
+---
+doc_id: "Circulars_2008_DBOD_No_Ret_BC_95_12_01_001_2007-2008"
+title: "Notification on Maintenance of CRR"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85230.PDF"
+pdf_sha256: "f5bcdcfa14e08a6ffe9f148f92962b5872a437133252b4eaa2e7740f682a4cef"
+md_sha256: "055e27dc0f1f3c4bb01a4b4d868e3932856a5f8aae39f850641bb83891a2abed"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-06-26_Circular_DBOD.No.Ret.BC.95-12.01.001-2007-2008_Notification%20on%20Maintenance%20of%20CRR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Maintenance of CRR
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/ 383
+
+Ref: DBOD.No. Ret. BC. 96 /12.01.001/2007-08 June 26, 2008
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+## Section 42(1) of Reserve Bank of India Act, 1934 - Maintenance of CRR
+
+Please refer to our Circular DBOD.No.Ret.BC.79/12.01.001/2007-2008 dated April 29, 2008 on the captioned subject. On review of current global and domestic macroeconomic and financial developments, it has been decided to increase cash reserve ratio (CRR) of Scheduled Commercial Banks by 50 basis points to 8.75 per cent of its net demand and time liabilities in two stages, effective from fortnights as indicated below:
+
+|Effective date (i.e., the|CRR on net demand and time||
+|---|---|---|
+|fortnight beginning from)|liabilities (per cent)||
+|July 5, 2008||8.50|
+|July 19, 2008||8.75|
+
+A copy of the relative notification DBOD. No. Ret. BC.95 /12.01.001/2007-2008 dated June 26, 2008 is enclosed.
+
+## Please acknowledge receipt.Withdrawn
+
+## Yours faithfully
+
+(P.K. Mahapatra) General Manager
+
+<!-- PAGE 2 -->
+
+DBOD.No.Ret.BC.95 /12.01.001/2007-2008 June 26, 2008
+
+## <u>NOTIFICATION</u>
+
+In exercise of the powers conferred under sub-section (1) of Section 42 of the Reserve Bank of India Act, 1934 and in partial modification of its notification DBOD.No.Ret.BC.78/12.01.001/2007-08 dated April 29, 2008, the Reserve Bank of India hereby notifies that the average Cash Reserve Ratio (CRR) required to be maintained by every Scheduled Commercial Bank of its net demand and time liabilities shall, from effective dates mentioned below, be at the percentage points as indicated there against.
+
+Effective date CRR on net demand and time liabilities (i.e., the fortnight beginning from) (per cent) July 5, 2008 8.50 July 19, 2008 8.75
+
+(Anand Sinha) Executive Director
+
+# Withdrawn
