@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2020_11814"
+title: "Short Term Crop Loans eligible for Interest Subvention Scheme (ISS) and Prompt Repayment Incentive (PRI) through KCC"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/166KCCC30D3EA2CC7647BF83D492824BC9AE3A.PDF"
+pdf_sha256: "6ae7a0016e4dd4c55335c9ea45d38a5b4912d833a5e5865d607a20a68ac79e3a"
+md_sha256: "ee4aef518edbe59ce71dc69464e9bbe6d673a4f5aacc2cc093b01aab940aa320"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-02-26_Notification_11814_Short%20Term%20Crop%20Loans%20eligible%20for%20Interest%20Subvention%20Scheme%20%28ISS%29%20and%20Prompt%20Repayment%20Incentive%20%28PRI%29%20through%20KCC.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Short Term Crop Loans eligible for Interest Subvention Scheme (ISS) and Prompt Repayment Incentive (PRI) through KCC
+
+<!-- PAGE 1 -->
+
+## भारतीय �रज़वर् बक RESERVE BANK OF INDIA <u>www.rbi.org.in</u>
+
+## ---------------------------------------------------------------------------------------------------------------------
+
+RBI/2019-20/166 FIDD.CO.FSD.BC.No.1785/05.02.001/2019-20 February 26, 2020
+
+The Chairman/Managing Director/Executive Officer All Public & Private Sector Scheduled Commercial Banks (Excluding Regional Rural Banks and Small Finance Banks)
+
+Madam/Sir,
+
+## Short Term Crop Loans eligible for Interest Subvention Scheme (ISS) and Prompt
+
+## Repayment Incentive (PRI) through KCC
+
+Ministry of Agriculture & Farmers Welfare vide their Office Memorandum, No. F. 1- 20/2018-Credit-I, dated January 23, 2020 has advised that Short Term Crop Loans eligible for Interest Subvention Scheme (ISS) and Prompt Repayment Incentive (PRI) should be extended only through KCC thus making KCC a prerequisite for claiming Interest Subvention (IS) and Prompt Repayment Incentive (PRI) by farmers w.e.f. April 1,
+
+2020.
+2. In view of this, banks are advised to ensure that all Short Term Crop Loans eligible for Interest Subvention (IS) and Prompt Repayment Incentive (PRI) benefit are extended only through KCC w.e.f. April 1, 2020. The existing Short Term Crop Loans which are not extended through KCC shall be converted to KCC loans by March 31, 2020.
+3. Accordingly, reimbursement of interest subvention for Short Term Crop Loans through non-KCC accounts shall not be considered beyond March 31, 2020. Yours faithfully, (Sonali Sen Gupta) Chief General Manager

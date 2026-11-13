@@ -1,0 +1,26 @@
+---
+doc_id: "Notifications_2020_11858"
+title: "Rupee Drawing Arrangement – Remittance to the Prime Minister’s Citizen Assistance and Relief in Emergency Situations (PM-CARES) Fund"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2087A69F5158C174585A46C69B78BD96DBD.PDF"
+pdf_sha256: "8a991bbbbc45fa4f2608e6df68b89e8d75a7324b0815381867fdfe9dfc5872a5"
+md_sha256: "e7f536bc9dc288242523afb5e56fc41fa6ef21ca6ec2332fbb6832a056417182"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-04-03_Notification_11858_Rupee%20Drawing%20Arrangement%20%E2%80%93%20Remittance%20to%20the%20Prime%20Minister%E2%80%99s%20Citizen%20Assistance%20and%20Relief%20in%20Emergency%20Situations%20%28PM-CARES%29%20Fund.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Drawing Arrangement – Remittance to the Prime Minister’s Citizen Assistance and Relief in Emergency Situations (PM-CARES) Fund
+
+<!-- PAGE 1 -->
+
+||RBI/2019-20/208||
+|---|---|---|
+|To,|A. P. (DIR Series) Circular No. 28 All Authorised Dealer Category-I Banks Madam / Sir, (RDA) channel.|April 03, 2020 Rupee Drawing Arrangement – Remittance to the Prime Minister’s Citizen Assistance and Relief in Emergency Situations (PM-CARES) Fund Attention of Authorised Dealer Category – I (AD Cat – I) banks is invited to Paragraph 4 of the Master Direction – Opening and Maintenance of Rupee/Foreign currency Vostro Accounts of Non-Resident Exchange Houses dated January 01, 2016 (as amended from time to time), regarding permitted transactions under the Rupee Drawing Arrangement 2. In the wake of outbreak of the novel coronavirus (COVID-19) pandemic, it has been decided in consultation with the Government of India, to permit receipt of foreign inward remittances from non-residents through non-resident exchange houses in favour of the|
+|‘|Fund’ Fund and maintain the full details of the remitters. updated to reflect the above change.|Prime Minister’s Citizen Assistance and Relief in Emergency Situations (PM-CARES), subject to the condition that AD Cat-I banks shall directly credit the remittances to the 3. The Master Direction – Opening and Maintenance of Rupee/Foreign currency Vostro Accounts of Non-Resident Exchange Houses dated January 01, 2016 shall accordingly be|
+|4.|prejudice to permissions / approvals, if any, required under any other law.|The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without Yours faithfully, (Ajay Kumar Misra) Chief General Manager-in-Charge|

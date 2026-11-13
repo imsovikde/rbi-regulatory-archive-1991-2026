@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2020_11850"
+title: "‘Fully Accessible Route’ for Investment by Non-residents in Government Securities - (specified securities)"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DIRECTION3619B5C52DDD4542A40C86D4B6B9F66D.PDF"
+pdf_sha256: "7977cce0e3a13855b743abb58f84161071b663e03e30a5da5f6bffeab9454b42"
+md_sha256: "b7f2ea67907335711242d829ad007d3a32b46a029b0af8f82f6b0e044cf735b5"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-03-30_Notification_11850_%E2%80%98Fully%20Accessible%20Route%E2%80%99%20for%20Investment%20by%20Non-residents%20in%20Government%20Securities%20-%20%28specified%20securities%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# ‘Fully Accessible Route’ for Investment by Non-residents in Government Securities - (specified securities)
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2019-20/201 FMRD.FMSD.No.25/14.01.006/2019-20 March 30, 2020
+
+To All participants in Government Securities market
+
+Madam/Sir,
+
+## ‘Fully Accessible Route’ for Investment by Non-residents in Government Securities
+
+A reference is invited to the announcement made in the Union Budget 2020-21 that certain specified categories of Central Government securities would be opened fully for non-resident investors without any restrictions, apart from being available to domestic investors as well. Accordingly, a separate route viz., Fully Accessible Route (FAR) for investment by non- residents in securities issued by the Government of India has been notified in terms of <u>A.P.</u> <u>(DIR Series) Circular No. 25 dated March 30, 2020</u>, issued today.
+
+2. The Reserve Bank shall notify the Government securities that shall be eligible for investment under the FAR (hereinafter, ‘specified securities’). These securities will continue to be eligible for investment by residents. ‘Specified securities’, once so designated, shall remain eligible for investment under the FAR until maturity.
+3. The Government securities listed in the <u>Annex</u> will be eligible for investment under the FAR, from the date on which the scheme comes into effect. <u>In addition, all new issuances of</u> <u>Government securities of 5-year, 10-year and 30-year tenors from the financial year 2020-21</u> <u>will be eligible for investment under the FAR as ‘specified securities’</u>. The Reserve Bank may add new tenors or change the tenors of new securities to be designated as ‘specified securities’ from time to time.
+िवीय बाज़ार िविनयमन िवभाग,क �ीय कायार्लय भवन, नौव मंिजल, शहीद भगत �संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+4. The directions contained in this circular have been issued under Section 45W of Chapter IIID of the Reserve Bank of India Act, 1934 and are without prejudice to permissions/ approvals, if any, required under any other law.
+5. The directions shall come into effect from April 1, 2020.
+Yours faithfully,
+
+(Dimple Bhandia) General Manager–in–Charge
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## ‘Specified securities’ under the Fully Accessible Route with effect from April 1, 2020
+
+|S No.|ISIN|Security|
+|---|---|---|
+|1|IN0020190396|6.18% GS 2024|
+|2|IN0020180488|7.32% GS 2024|
+|3|IN0020190362|6.45% GS 2029|
+|4|IN0020180454|7.26% GS 2029|
+|5|IN0020190032|7.72% GS 2049|

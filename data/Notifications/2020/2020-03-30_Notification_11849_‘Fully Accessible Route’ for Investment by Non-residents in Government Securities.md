@@ -1,0 +1,62 @@
+---
+doc_id: "Notifications_2020_11849"
+title: "‘Fully Accessible Route’ for Investment by Non-residents in Government Securities"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT20002D420738201429395C108665A28EF27.PDF"
+pdf_sha256: "99f423da97421d3e7df522904182db913cd4018aedb0ead828e7e62c3a6f9a45"
+md_sha256: "3b64015815ed989ff476764701a3db1a6389ef74fbea8f9050ed1b725590a1be"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-03-30_Notification_11849_%E2%80%98Fully%20Accessible%20Route%E2%80%99%20for%20Investment%20by%20Non-residents%20in%20Government%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# ‘Fully Accessible Route’ for Investment by Non-residents in Government Securities
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in RBI/2019-20/200
+
+A.P. (DIR Series) Circular No. 25 March 30, 2020 To All Authorized Persons Madam / Sir **‘Fully Accessible Route’ for Investment by Non-residents in Government Securities** Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to the following regulations / directions, as amended from time to time, and the relevant directions issued thereunder:
+(i) Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified vide <u>Notification No. FEMA. 396/2019-RB dated October 17, 2019</u> (hereinafter, Debt Regulations); (ii) The <u>A.P. (DIR Series) Circular No. 31 dated June 15, 2018</u> read with <u>A.P. (DIR</u> <u>Series) Circular No. 18 dated January 23, 2020</u>; and (iii) The directions <u>FMRD.FMSD.No.25/14.01.006/2019-20 dated March 30, 2020</u> issued today (hereinafter, FAR Directions).
+2. A reference is also invited to the announcement made in the Union Budget 2020-21 that certain specified categories of Central Government securities would be opened fully for non-resident investors without any restrictions, apart from being available to domestic investors as well. Accordingly, it has been decided, in consultation with the Government of India, to introduce a separate route viz., Fully Accessible Route (FAR) for investment by non-residents in securities issued by the Government of India. The details of the scheme are attached (see <u>Annex</u>).
+3. These directions shall come into effect from April 1, 2020.
+िवीय बाज़ार िविनयमन िवभाग,क �ीय कायार्लय भवन, नौव मंिजल, शहीद भगत �संह मागर्, फोटर् ,मुंबई400001–.भारत फोन: ((22-91 2260 1000,फै क् स (22-91) : 22702290 ई :मेल-<u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## ‘Fully Accessible Route’ (FAR) for investment by non-residents in Government Securities
+
+The Reserve Bank, in consultation with the Government of India, introduces a separate channel, called the ‘Fully Accessible Route’ (FAR), to enable non-residents to invest in specified Government of India dated securities. Eligible investors can invest in specified Government securities without being subject to any investment ceilings. This scheme shall operate along with the two existing routes, viz., the Medium Term Framework (MTF) and the Voluntary Retention Route (VRR). The details of the scheme are as under-
+
+## 2. Definitions
+
+**a) ‘Eligible investors’** shall mean any “person resident outside India” as defined in section 2(w) of the Foreign Exchange Management Act, 1999 (42 of 1999) (FEMA).
+**b) ‘Specified securities’** shall mean Government Securities as periodically notified by the Reserve Bank for investment under the FAR route. In this regard, a reference is invited to FAR Directions, issued today by the Reserve Bank.
+**3.** The words and expressions used but not defined in these directions shall have the same meaning respectively assigned to them in the FEMA, 1999 or rules and regulations made thereunder.
+## 4. Features
+
+a. *Investment limits*: There shall be no quantitative limit on investment by eligible investors in the specified securities. Investments made under FAR shall also not be subject to the limits specified in paragraphs 4(b), (c) and (e) respectively, of <u>A.P. (DIR Series) Circular</u> <u>No. 31 dated June 15, 2018</u> (read with <u>A.P. (DIR Series) Circular No. 18 dated January</u> <u>23, 2020)</u>. All investments by eligible investors in the specified securities will be under the FAR from the date on which the FAR comes into effect.
+b. *Treatment of existing investments in specified securities:* Existing investments by eligible investors in specified securities shall be reckoned under the FAR.
+c. *Process for Investment and reporting:*
+
+<!-- PAGE 4 -->
+
+i. FPIs, Non-Resident Indians (NRIs), Overseas Citizens of India (OCIs) and other entities permitted to invest in Government Securities under the Debt Regulations can invest under this route as hitherto under existing arrangements. ii. Eligible investors other than those referred to in 4(c)(i) above, may invest through International Central Securities Depositories. The process for such investments will be notified in due course.
+**5. Transition for FPIs:** FPIs who currently hold investments in the specified securities shall, within one year from the date on which the FAR comes into effect, readjust their investments under the MTF to comply with requirements mandated in <u>A.P. (DIR Series) Circular No. 31</u> <u>dated June 15, 2018</u> (read with <u>A.P. (DIR Series) Circular No. 18 dated January 23, 2020)</u>.
+**6.** Investments by eligible investors under the route shall be governed by other applicable provisions of FEMA and the rules, regulations and directions issued thereunder by the Reserve Bank from time to time, unless otherwise specified.

@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2020_11796"
+title: "Implementation of Section 51A of Unlawful Activities Prevention Act (UAPA), 1967- Updates to ISIL (Da'esh) & Al-Qaida Sanctions List"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI14954FEF840DE8341A7B922B0AEBFE31C2F.PDF"
+pdf_sha256: "a4b0e1ecf7883d46771e229b1f82a7ad4210108423d8a73c533832fb8b16df1d"
+md_sha256: "b8ccac6bce4f4b24353f5be209371b5708d3a4766fb5bdadabe69b347b39ea02"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-01-22_Notification_11796_Implementation%20of%20Section%2051A%20of%20Unlawful%20Activities%20Prevention%20Act%20%28UAPA%29%2C%201967-%20Updates%20to%20ISIL%20%28Da%27esh%29%20%26%20Al-Qaida%20Sanctions%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of Unlawful Activities Prevention Act (UAPA), 1967- Updates to ISIL (Da'esh) & Al-Qaida Sanctions List
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/149 DOR.AML.BC. No. 29/14.06.001/2019-20 January 22, 2020
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+## Implementation of Section 51A of Unlawful Activities Prevention Act (UAPA), 1967-
+
+## Updates to ISIL (Da'esh) & Al-Qaida Sanctions List
+
+Please refer to Section 51 of our <u>Master Direction on Know Your Customer dated February 25,</u> <u>2016 as amended on January 09, 2020</u>, in terms of which “*Regulated Entities* (*REs) shall ensure* *that in terms of Section 51A of the Unlawful Activities (Prevention) (UAPA) Act, 1967, they do* *not have any account in the name of individuals/entities appearing in the lists of individuals and* *entities, suspected of having terrorist links, which are approved by and periodically circulated by* *the United Nations Security Council (UNSC).”*
+
+2. In this regard, Ministry of External Affairs (MEA) has now forwarded a press release SC/14078 dated 14 January 2020 titled ‘Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends 85 Entries on Its Sanctions List’, issued by the United Nations Security Council (UNSC). The UNSC press releases concerning amendments to the list are available at URL: <u>[https://www.un.org/securitycouncil/sanctions/1267/press-releases](https://www.un.org/securitycouncil/sanctions/1267/press-releases)</u>
+3. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: [https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list](https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list) [https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)
+4. In view of the above, Regulated Entities (REs) are advised to ensure meticulous compliance with the aforementioned instruction pertaining to UAPA and ensure that they do not have any account in the name of individuals/entities appearing in the lists of individuals and entities, suspected of having terrorist links, circulated by the UNSC. Yours faithfully, (Dr. S. K. Kar) Chief General Manager िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई-400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."

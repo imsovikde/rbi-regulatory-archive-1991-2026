@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2020_11802"
+title: "Cash withdrawal using Point of Sale (PoS) terminals"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT15495FA50CD30234C5E8513286094F91CCB.PDF"
+pdf_sha256: "516fc9beca26a18616c894a65781db7b22c6c3901114f5fadcdfb5d2cc91947e"
+md_sha256: "0e1d508ed6f32eecafa073cf37772a843696636982da462e608237718754b80d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-01-31_Notification_11802_Cash%20withdrawal%20using%20Point%20of%20Sale%20%28PoS%29%20terminals.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Cash withdrawal using Point of Sale (PoS) terminals
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2019-20/154 DPSS.CO.PD No.1465/02.14.003/2019-20 January 31, 2020
+
+The Chairman / Managing Director / Chief Executive Officer All Scheduled Commercial Banks (SCBs) including Regional Rural Banks (RRBs) / Urban Co-operative Banks (UCBs) / State Co-operative Banks (StCBs) / District Central Co-operative Banks (DCCBs) / Payments Banks (PBs) / Small Finance Banks (SFBs) / Authorised Card Payment Networks
+
+Madam / Dear Sir,
+
+## Cash withdrawal using Point of Sale (PoS) terminals
+
+Please refer to our <u>circulars DPSS.CO.PD.No.147/02.14.003/2009-10 dated July 22, 2009</u>, <u>DPSS.CO.PD.No.563/02.14.003/2013-14 dated September 5, 2013</u>, <u>DPSS.CO.PD.No.449/02.14.003/2015-16 dated August 27, 2015</u> and <u>DPSS.CO.PD.No.501/02.14.003/2019-20 dated August 29, 2019</u>, in terms of which banks are required to obtain one time permission from the Reserve Bank of India (RBI) for offering the facility of cash withdrawal at PoS terminals deployed by them.
+
+2. It has been decided that the requirement of obtaining permission from the RBI be dispensed with and that henceforth, banks may, based on the approval of their Board, provide cash withdrawal facility at PoS terminals. The designated merchant establishments may be advised to clearly indicate / display the availability of this facility along with the charges, if any, payable by the customer.
+3. All other provisions, including those pertaining to the submission of data / reports to RBI, shall continue as hitherto.
+4. These directions are issued under Section 10(2) of Payment and Settlement Systems Act, 2007 (Act 51 of 2007). Yours faithfully, (P Vasudevan) Chief General Manager
+भुगतान और िनपटान �णाली िवभाग, क ीयकायार्लय, 14वीमंिजल, क ीयकायार्लयभवन,शहीदभगतसंहमागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फ ै क् स Fax: (91-22) 22691557; ई-मेलe-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central Office, 14thFloor, Central Office Building, ShahidBhagat Singh Road, Fort, Mumbai - 400001 <u>हंदी आसान है, इसकायोगबढ़ाइए</u>

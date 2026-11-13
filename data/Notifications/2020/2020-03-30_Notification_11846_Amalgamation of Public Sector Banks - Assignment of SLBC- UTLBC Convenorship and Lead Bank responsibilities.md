@@ -1,0 +1,136 @@
+---
+doc_id: "Notifications_2020_11846"
+title: "Amalgamation of Public Sector Banks - Assignment of SLBC/ UTLBC Convenorship and Lead Bank responsibilities"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1978026F148C28D4BED9EADCAD322C41289.PDF"
+pdf_sha256: "f6d4b5274e283ebc36f3cdc055debdbede3a17a43d04a932d6e7cb11dc283d1a"
+md_sha256: "9e1dbf8359fa7dd0c5455c84b3b304ec41b513dfe485abf4a698b51d93210684"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-03-30_Notification_11846_Amalgamation%20of%20Public%20Sector%20Banks%20-%20Assignment%20of%20SLBC-%20UTLBC%20Convenorship%20and%20Lead%20Bank%20responsibilities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amalgamation of Public Sector Banks - Assignment of SLBC/ UTLBC Convenorship and Lead Bank responsibilities
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/197 FIDD.CO.LBS.BC.No.22/02.01.001/2019-20 March 30, 2020 The Chairmen/ Managing Directors & CEOs SLBC/ UTLBC Convenor Banks and Lead Banks Madam / Dear Sir, **Amalgamation of Public Sector Banks-Assignment of SLBC/ UTLBC Convenorship and Lead Bank responsibilities**
+
+The amalgamations of Oriental Bank of Commerce and United Bank of India with Punjab National Bank; Andhra Bank and Corporation Bank with Union Bank of India; Syndicate Bank with Canara Bank and Allahabad Bank with Indian Bank have been notified vide the Gazette of India Notifications G.S.R. 153(E), G.S.R. 154(E), G.S.R. 155(E) and G.S.R. 156(E) dated March 4, 2020, respectively. The abovementioned notifications shall come into force on April 1, 2020.
+
+2. In view of the above, it has been decided to assign the SLBC/ UTLBC Convenorship for the following States/ UTs as under:
+## Existing SLBC/ UTLBC SLBC/ UTLBC
+
+## Sr. No. State/ UT
+
+## Convenor Bank Convenorship assigned to:
+
+1. Andhra Pradesh Andhra Bank Union Bank of India
+2. Karnataka Syndicate Bank Canara Bank
+3. Tripura United Bank of India Punjab National Bank
+4. West Bengal United Bank of India Punjab National Bank
+5. Delhi Oriental Bank of Commerce Punjab National Bank
+6. Lakshadweep Syndicate Bank Canara Bank
+3. Further, it has been decided to assign the Lead Bank responsibilities of the 111 districts hitherto held by Oriental Bank of Commerce, United Bank of India, Andhra Bank, Corporation Bank, Syndicate Bank and Allahabad Bank as per the <u>Annex</u>**.**
+4. There is no change in the SLBC/ UTLBC Convenorship of other States/ Union Territories and Lead Bank responsibilities of other districts across the country. Yours faithfully, (Gautam Prasad Borah) Chief General Manager-In-Charge
+## Encl.: As above
+
+|िवत् तीय|समावेशन और िवकास|िवभाग, के न् � ी य|कायार्लय,10 वी|मंिजल, क � ी य|कायार्लय भवन,|शहीद भगतसह|मागर्,पोस्ट|बॉक्स सं. 10014,|मुंबई-400001||
+|---|---|---|---|---|---|---|---|---|---|---|
+|Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh|टेली Tel:022-22601000 फै क् स ः||91-22-22621011/22610943/22610948 ई-मेल �हदी|P.B.No.10014, Mumbai-1 आसान है, इसका|�योग बढ़ाइए।||: cgmincfidd@rbi.org.in|||Marg,|
+|“चेतावनी:|बक �रज़वर्�ारा|मेल-डाक, एसएमएस|या फोन कॉल|के ज�रए �कसी|क भी व् यि�गत|जानकारी|जैसे बक के|खाते का ब् यौरा,|पासवडर् आद|नह|
+|मांगी जाती Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन रखने|या देने का �स् ताव|भी नह करता|है। ऐसे �स् ताव|का �कसी भी|त र ी के से जवाब|मत दीिजए।"||||
+
+<!-- PAGE 2 -->
+
+## Annex
+
+**Sr.** **State/ UT District Existing Lead Bank New Lead Bank** **No.**
+
+|||Anantapur|Syndicate Bank|Canara Bank|
+|---|---|---|---|---|
+|||Kadapa Kurnool Nellore|Syndicate Bank Syndicate Bank Syndicate Bank|Canara Bank Canara Bank Canara Bank|
+|1.|Andhra Pradesh|Prakasam East Godavari Guntur Srikakulam West Godavari Biswanath Cachar Charaideo Dhemaji Dibrugarh Golaghat Hailakandi|Syndicate Bank Andhra Bank Andhra Bank Andhra Bank Andhra Bank United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India|Canara Bank Union Bank of India Union Bank of India Union Bank of India Union Bank of India Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank|
+|2.|Assam|Hojai Jorhat Karimganj Lakhimpur Majuli Morigaon Nagaon Sivasagar Tinsukia|United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India|Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank|
+|3.|Delhi|North Delhi Palwal|Oriental Bank of Commerce Oriental Bank of Commerce|Punjab National Bank Punjab National Bank|
+|4.|Haryana|Faridabad Gurgaon Mewat|Syndicate Bank Syndicate Bank Syndicate Bank|Canara Bank Canara Bank Canara Bank|
+
+<!-- PAGE 3 -->
+
+|5.|Jharkhand|Dumka|Allahabad Bank|Indian Bank|
+|---|---|---|---|---|
+|||Godda Bagalkot Belgaum Bellary Bijapur|Allahabad Bank Syndicate Bank Syndicate Bank Syndicate Bank Syndicate Bank|Indian Bank Canara Bank Canara Bank Canara Bank Canara Bank|
+|6.|Karnataka|Dakshin Canara Udupi Uttar Canara Chickmagalur Kodagu Ramanagara|Syndicate Bank Syndicate Bank Syndicate Bank Corporation Bank Corporation Bank Corporation Bank|Canara Bank Canara Bank Canara Bank Union Bank of India Union Bank of India Union Bank of India|
+|7.|Kerala|Kannur Kasaragod|Syndicate Bank Syndicate Bank|Canara Bank Canara Bank|
+|8.|Lakshadweep|Lakshadweep|Syndicate Bank|Canara Bank|
+|9.|Madhya Pradesh|Satna Bishnpur Imphal East Jiribam|Allahabad Bank United Bank of India United Bank of India United Bank of India|Indian Bank Punjab National Bank Punjab National Bank Punjab National Bank|
+|10.|Manipur|Kamjong Noney Temenglong Tengnoupal Ukhrul|United Bank of India United Bank of India United Bank of India United Bank of India United Bank of India|Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank Punjab National Bank|
+|11.|Odisha|Gajapati Ganjam|Andhra Bank Andhra Bank|Union Bank of India Union Bank of India|
+|12.|Punjab|Ferozepur|Oriental Bank of Commerce|Punjab National Bank|
+|13.|Rajasthan|Shri Ganganagar Kamareddy|Oriental Bank of Commerce Syndicate Bank|Punjab National Bank Canara Bank|
+|14.|Telangana|Sangareddy Jagitial|Syndicate Bank Andhra Bank|Canara Bank Union Bank of India|
+
+<!-- PAGE 4 -->
+
+||Jogulamba|Andhra Bank|Union Bank of India|
+|---|---|---|---|
+||Mancherial|Andhra Bank|Union Bank of India|
+||Nagarkurnool|Andhra Bank|Union Bank of India|
+||Peddapalli|Andhra Bank|Union Bank of India|
+||Rajanna|Andhra Bank|Union Bank of India|
+||Siddipet|Andhra Bank|Union Bank of India|
+||Wanaparthy|Andhra Bank|Union Bank of India|
+||Warangal (Rural)|Andhra Bank|Union Bank of India|
+||Dhalai|United Bank of India|Punjab National Bank|
+||Gomati|United Bank of India|Punjab National Bank|
+||Khowai|United Bank of India|Punjab National Bank|
+|15. Tripura|North Tripura|United Bank of India|Punjab National Bank|
+||Sepahijala|United Bank of India|Punjab National Bank|
+||South Tripura|United Bank of India|Punjab National Bank|
+||Unakoti|United Bank of India|Punjab National Bank|
+||West Tripura|United Bank of India|Punjab National Bank|
+||Baghpat|Syndicate Bank|Canara Bank|
+||Bhim Nagar|Syndicate Bank|Canara Bank|
+||Gautam Buddha Nagar|Syndicate Bank|Canara Bank|
+||Ghaziabad|Syndicate Bank|Canara Bank|
+||Jyotiba Phule Nagar (Amroha)|Syndicate Bank|Canara Bank|
+|16. Uttar Pradesh|Mathura|Syndicate Bank|Canara Bank|
+||Meerut|Syndicate Bank|Canara Bank|
+||Moradabad|Syndicate Bank|Canara Bank|
+||Panchsheel Nagar|Syndicate Bank|Canara Bank|
+||Bahraich|Allahabad Bank|Indian Bank|
+||Balrampur|Allahabad Bank|Indian Bank|
+||Banda|Allahabad Bank|Indian Bank|
+||Chitrakoot|Allahabad Bank|Indian Bank|
+
+<!-- PAGE 5 -->
+
+||Gonda|Allahabad Bank|Indian Bank|
+|---|---|---|---|
+||Hamirpur|Allahabad Bank|Indian Bank|
+||Jalaun|Allahabad Bank|Indian Bank|
+||Lakhimpur- Kheri|Allahabad Bank|Indian Bank|
+||Mahoba|Allahabad Bank|Indian Bank|
+||Mirzapur|Allahabad Bank|Indian Bank|
+||Shravasti|Allahabad Bank|Indian Bank|
+||Sitapur|Allahabad Bank|Indian Bank|
+||Sonbhadra|Allahabad Bank|Indian Bank|
+||Bankura|United Bank of India|Punjab National Bank|
+||Dakshin Dinajpur|United Bank of India|Punjab National Bank|
+||Jhargram|United Bank of India|Punjab National Bank|
+||Malda|United Bank of India|Punjab National Bank|
+||Murshidabad|United Bank of India|Punjab National Bank|
+||Nadia|United Bank of India|Punjab National Bank|
+|17. West Bengal|Pashchim Medinapur|United Bank of India|Punjab National Bank|
+||Purba Medinapur|United Bank of India|Punjab National Bank|
+||Purulia|United Bank of India|Punjab National Bank|
+||Uttar Dinajpur|United Bank of India|Punjab National Bank|
+||South 24 Parganas|United Bank of India|Punjab National Bank|
+||North 24 Parganas|Allahabad Bank|Indian Bank|
+
+***************************************

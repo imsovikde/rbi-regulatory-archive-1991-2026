@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2020_11843"
+title: "Risk Management and Inter-bank Dealings- Participation of Banks in Offshore Non-deliverable Rupee Derivative Markets"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SOLONDF01A3A921152B4A388D6A9C46B2D4FE4F.PDF"
+pdf_sha256: "4e80d054cb8af0f7b85711028b5d7fa0f8afc3f7890fcef8cf051b0b31c176c2"
+md_sha256: "ca4ebffb4329b4812fc8efbd049623d84e5f3c031c778e08f4c0e635c43afeb5"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-03-27_Notification_11843_Risk%20Management%20and%20Inter-bank%20Dealings-%20Participation%20of%20Banks%20in%20Offshore%20Non-deliverable%20Rupee%20Derivative%20Markets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter-bank Dealings- Participation of Banks in Offshore Non-deliverable Rupee Derivative Markets
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in RBI/2019-20/193
+
+A.P. (DIR Series) Circular No.23 March 27, 2020
+## All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Risk Management and Inter-bank Dealings- Participation of Banks in Offshore Non-deliverable Rupee Derivative Markets
+
+Attention is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (<u>Notification no. FEMA.25/RB-2000 dated May 3, 2000</u>), as amended from time to time, and <u>Master Direction- Risk Management and Inter-bank</u> <u>Dealings dated July 06, 2016, as updated from time to time</u> (Master Direction)
+
+2. As stated in paragraph 10 of the <u>Statement on Developmental and Regulatory Policies</u> <u>dated March 27, 2020</u>, banks in India having an Authorised Dealer Category-1 license under Foreign Exchange Management Act (FEMA), 1999, and operating International Financial Services Centre (IFSC) Banking Units (IBUs), shall be eligible to offer non- deliverable derivative contracts involving the Rupee, or otherwise, to persons not resident in India. Banks can undertake such transactions through their branches in India, through their IBUs or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank).
+3. Accordingly, the following amendments are being made to the Master Direction. The amendments shall come into effect from June 1, 2020.
+(a) In Part-A (Section II) of the Master Direction, a new paragraph (9A) is added as follows:
+िवीय बाज़ार िविनयमन िवभाग,क �ीय कायार्लय भवन, नौव मंिजल, शहीद भगत �संह मागर्, फोटर्, मुंबई–400001.भारत <u>फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+## “9A. Non-deliverable derivative contracts (NDDC)
+
+i. Non-deliverable derivative contract (NDDC) means a foreign exchange derivative contract involving the Rupee, entered into with a person not resident in India and which is settled without involving delivery of Rupee. ii. Banks in India having an Authorised Dealer Category-1 license under FEMA, 1999, and operating International Financial Services Centre (IFSC) Banking Units (IBUs) (as specified in <u>circular no. RBI/2014- 15/533.DBR.IBD.BC.14570/ 23.13.004/2014-</u> <u>15 dated April 1, 2015</u> (as amended from time to time)), shall be eligible to offer non- deliverable derivative contracts involving the Rupee, or otherwise, to persons not resident in India. Banks can undertake such transactions through their IBUs or through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank).
+(b). In Part C of the Master Direction, a new paragraph is added as follows: “3A. Transaction in Non-deliverable derivative contracts (NDDC) Authorised dealers having an IFSC Banking Unit (IBU) (as specified in <u>circular</u> <u>no.RBI/2014-15/533.DBR.IBD.BC.14570/23.13.004/2014-15 dated April 1,</u> <u>2015</u> (as amended from time to time)) may transact in Non-deliverable derivative contracts (NDDCs) with other AD Category 1 banks having IBUs and banks overseas. Banks can undertake such transactions through their IBUs or through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank).”
+4. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions /approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) General Manager (O-i-C)

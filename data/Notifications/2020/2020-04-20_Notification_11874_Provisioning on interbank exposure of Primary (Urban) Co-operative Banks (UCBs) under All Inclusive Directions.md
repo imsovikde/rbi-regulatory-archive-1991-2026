@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2020_11874"
+title: "Provisioning on interbank exposure of Primary (Urban) Co-operative Banks (UCBs) under All Inclusive Directions"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/222UCMAID55C3376CDF274A3282503B53EC0F7A06.PDF"
+pdf_sha256: "721f49109c250360f343913f1df27d795cd8702362fc54f4b970c82ea3867625"
+md_sha256: "e506961c370d357e467b0d3c57d9c60abdf344f3196c9c8dd7e05242c639fb3c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-04-20_Notification_11874_Provisioning%20on%20interbank%20exposure%20of%20Primary%20%28Urban%29%20Co-operative%20Banks%20%28UCBs%29%20under%20All%20Inclusive%20Directions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Provisioning on interbank exposure of Primary (Urban) Co-operative Banks (UCBs) under All Inclusive Directions
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/222 DOR.(PCB).BPD.Cir.No.11/16.20.000/2019-20 April 20, 2020
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Madam / Dear Sir,
+
+## Provisioning on interbank exposure of Primary (Urban) Co-operative Banks (UCBs) under All Inclusive Directions
+
+As you are aware, the imposition of All-inclusive Directions (AID) on an Urban Co-operative Bank (UCB), *inter alia*, restricts the bank from discharging its liabilities except as permitted by RBI. This impacts the withdrawal of interbank deposits placed by other UCBs with such bank as also timely discharge of interbank exposures such as discounted bills drawn under Letter of Credit (LC) issued by the UCB under AID.
+
+2. In order to ensure that such exposures are objectively recognised in the financial statements of UCBs and also with a view to addressing the systemic impact of provisioning requirements on such exposures, it has been decided as under:
+a) The interbank exposures arising from deposits placed by UCBs with a UCB under AID and their non-performing exposures arising from discounted bills drawn under LCs issued by a UCB under AID shall be fully provided within five years at the rate of 20% annually. Further, the interest receivable on the deposits shall not be recognised as income by the UCBs.
+b) If the UCBs choose to convert such deposits into long term perpetual debt instruments (e.g. Innovative Perpetual Debt Instrument-IPDI) which may be recognised as capital instrument under a scheme of restructuring/ revival of a UCB under AID, provision on the portion of deposits converted into such instruments shall not be required.
+3. The above instructions will come into force with immediate effect.
+## Yours faithfully
+
+(Neeraj Nigam) Chief General Manager
+
+िविनयमन िवभाग, क द्र ी य कायालय, सी -7, पहली/दू सरी मंिज़ल,बांद्रा-कु ल ा स ं कु ल, बांद्रा (पूव), मुंबई ñ 400 051 टेलीफोन/ Tel No: 022-26571112 फै � / Fax No: 022-26571117 Department of Regulation, Central Office, C-7, 1 st /2 nd Floor, Bandra-Kurla Complex, Bandra (East), Mumbai – 400 051 <u>िहंदी आसान है, इसका प्रयोग बढ़ाइए</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरए िकसी की भी ��� की जानकारी जैसे बक के खाते का ौरा, पासवड आिद नहीं मांगी जाती है। यह धन रखने या देने का प्राव भी नहीं करता है। ऐसे प्र�ावों का िकसी भी तरीके से जवाब मत दीिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It <u>never keeps or offers funds to anyone. Please do not respond in any manner to such offers.</u>

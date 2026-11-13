@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2020_11840"
+title: "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT192925EFFEAB1B44D0BA813013B4B00A359.PDF"
+pdf_sha256: "a690e756050cafdf210733c1244d4d291f253cbf5e3bd0f7be3c63549d8e6bf4"
+md_sha256: "2f1c3ccf67fea15640c01964267388a4bdbcb60dbae2e736fb25cba03c6b4873"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-03-27_Notification_11840_Section%2042%281%29%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20Change%20in%20Daily%20Minimum%20Cash%20Reserve%20Maintenance%20Requirement.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक
+
+## ______________________RESERVE BANK OF INDIA ______________________ <u>www.rbi.org.in</u>
+
+RBI/2019-20/192 DOR.No.Ret.BC.51/12.01.001/2019-20 March 27, 2020
+
+## All Scheduled Banks
+
+## Dear Sir / Madam
+
+## Section 42(1) of the Reserve Bank of India Act, 1934 - Change in
+
+## Daily Minimum Cash Reserve Maintenance Requirement
+
+|Please refer to our|Circular DBR.No.Ret.BC.91/12.01.001/2015-16 dated April 05, 2016 on|
+|---|---|
+|the captioned subject.|2. As announced in the Seventh Bi-monthly Monetary Policy Statement, 2019-20, March 27,|
+|2020|, it has been decided to reduce the minimum daily maintenance of the Cash Reserve|
+|Ratio from 90|per cent of the requirement to 80 per cent effective from the fortnight beginning March 28, 2020. This is a one-time dispensation available up to June 26, 2020.|
+
+## Yours faithfully
+
+(Dr. S K Kar) Chief General Manager
+
+___________________________________________________________________________________________________________________ िविनयमन िवभाग, क द्र ी य कायालय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, फोट, मुंबई 400001 टेलीफ़ोन /Tel No: 22661602/2260100 फै � / Fax No.: 022-22705691 Department of Regulation, Central Office, 5th floor, Amar Building, Sir P.M. Road, Fort, Mumbai – 400001. िही आसान है, इसका प्रयोग बढाइये

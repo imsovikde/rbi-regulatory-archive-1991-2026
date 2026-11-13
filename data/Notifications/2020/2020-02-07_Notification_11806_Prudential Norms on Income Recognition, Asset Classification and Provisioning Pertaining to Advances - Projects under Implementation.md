@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2020_11806"
+title: "Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Projects under Implementation"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT158312115D332614C97B20F467F1B97256B.PDF"
+pdf_sha256: "539fe51f048f3a09cf5f200f2252809bdc6cf6e28f1733977680fa4f1052fd08"
+md_sha256: "64fb656dd613f6ea0040dca62eb25df706b66af83d848d60b81830929b700cda"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-02-07_Notification_11806_Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%20and%20Provisioning%20Pertaining%20to%20Advances%20-%20Projects%20under%20Implementation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Projects under Implementation
+
+<!-- PAGE 1 -->
+
+भारतीय रजवर् बक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI/2019-20/158 DOR.No.BP.BC.33/21.04.048/2019-20 February 07, 2020
+
+The Chairman / Chief Executive Officer All Scheduled Commercial Banks (excluding RRBs) All Small Finance Banks
+
+Madam/Dear Sir,
+
+## Prudential Norms on Income Recognition, Asset Classification and Provisioning
+
+## Pertaining to Advances-Projects under Implementation
+
+Please refer to the <u>circular DBR.No.BP.BC.84/21.04.048/2014-15 dated April 6, 2015</u> on the subject. It has been decided to harmonise the guidelines for deferment of date of commencement of commercial operations (DCCO) for projects in non-infrastructure and commercial real estate (CRE) sectors. Accordingly, the revised guidelines for deferment of DCCO for CRE projects are as under:
+
+i. Revisions of the date of DCCO and consequential shift in repayment schedule for equal or shorter duration (including the start date and end date of revised repayment schedule) will not be treated as restructuring provided that:
+a. The revised DCCO falls within the period of one year from the original DCCO stipulated at the time of financial closure for CRE projects; and
+b. All other terms and conditions of the loan remain unchanged.
+ii. In case of CRE projects delayed for reasons beyond the control of promoter(s), banks may restructure them by way of revision of DCCO up to another one year (beyond the one-year period quoted at paragraph i (a) above) and retain the ‘standard’ asset classification if the account continues to be serviced as per the revised terms and conditions under the restructuring. iii. Banks while restructuring such CRE project loans under instructions at (ii) above will have to ensure that the revised repayment schedule is extended only by a period equal to or shorter than the extension in DCCO.
+
+<!-- PAGE 2 -->
+
+iv. Banks may fund cost overruns that arise on account of extension of DCCO (within the limits at (i) and (ii) above), subject to the instructions issued vide <u>circular</u> <u>DBOD.No.BP.BC.33/21.04.048/2014-15 dated August 14, 2014</u> and the mailbox clarification dated April 20, 2016.
+
+v. It is re-iterated that a loan for a project may be classified as NPA during any time before commencement of commercial operations as per record of recovery (90 days overdue). It is further re-iterated that the dispensation at (ii) above is subject to the condition that the application for restructuring should be received before the expiry of period mentioned at paragraph (i) (a) above and when the account is still standard as per record of recovery. vi. At the time of extending DCCO, Boards of banks should satisfy themselves about the viability of the project and the restructuring plan.
+vii. All other aspects related to restructuring, income recognition, asset classification, provisioning as applicable for projects under implementation shall continue to apply. viii. Banks shall ensure that all provisions of the Real Estate (Regulation and Development) Act, 2016 are complied with.
+
+2. The project loans to CRE sector shall be identified on the basis of instructions issued vide <u>circulars DBOD.BP.BC.No.42/08.12.015/2009-10 dated September 9, 2009</u> and <u>DBOD.BP.BC. No.104/08.12.015/2012-13 dated June 21, 2013</u>.
+## Yours faithfully
+
+(Saurav Sinha) Chief General Manager-in-Charge

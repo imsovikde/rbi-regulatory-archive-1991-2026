@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2020_11878"
+title: "Electronic Cards for Overdraft Accounts"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT225F53F5A3AFB6245B3AB7BF621C11AA588.PDF"
+pdf_sha256: "0a33939e1f9f11dcc7b792642a302b3e5703cf06dc987925c7156ac51578e5c3"
+md_sha256: "c82959d5a859dee5be3065e937ea65e072dd99f94f8f26c267d91c298650c134"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-04-23_Notification_11878_Electronic%20Cards%20for%20Overdraft%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Electronic Cards for Overdraft Accounts
+
+<!-- PAGE 1 -->
+
+### भारतीय रजव बक
+
+## __________________RESERVE BANK OF INDIA__________________
+
+<u>www.rbi.org.in</u> RBI/2019-20/225 DOR.FSD.BC.No.67/24.01.041/2019-20 April 23, 2020
+
+#### All Scheduled Commercial Banks
+
+Madam / Dear Sir,
+
+#### <u>Electronic Cards for Overdraft Accounts</u>
+
+Please refer to Para II.2 of <u>‘Master Circular on Credit Card, Debit Card and Rupee Denominated Co-</u> <u>branded Pre-paid Card Operations of Banks and Credit Card issuing NBFCs’ dated July 1, 2015</u> wherein banks have been permitted to issue debit cards to customers having Saving Bank/Current Accounts but not to cash credit/loan account holders. In this connection, it has been decided to permit banks to issue electronic cards to natural persons having Overdraft Accounts that are only in the nature of personal loan without any specific end-use restrictions. The card shall be issued for a period not exceeding the validity of the facility and shall also be subject to the usual rights of the banks as lenders.
+
+2. The electronic card for Overdraft Accounts in the nature of personal loans shall be allowed to be used for domestic transactions only. Further, adequate checks and balances shall be put in place to ensure that the usage of such cards is restricted to facilitate online/ non-cash transactions. The restriction on cash transaction will not apply to overdraft facility provided along with Pradhan Mantri
+# Withdrawn
+
+Jan Dhan Yojana (PMJDY) accounts.
+
+3. Prior to launching the product, the banks shall frame a Board approved policy on issuance of electronic cards to above mentioned Overdraft Accounts, encompassing appropriate risk management, periodic review procedures, grievance redressal mechanism, etc., which will be subject to supervisory review.
+4. The card shall be issued subject to instructions on terms and conditions, security, grievance redressal, confidentiality of customer information as applicable for debit cards and all other relevant instructions on card operations issued by the Reserve Bank.
+#### Yours faithfully
+
+#### (Dr. S. K. Kar)
+
+Chief General Manager

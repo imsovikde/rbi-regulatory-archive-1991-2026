@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2020_11879"
+title: "Non-achievement of Priority Sector Lending Targets by Primary (Urban) Co-operative Banks (UCBs) - Contribution to the Rural Infrastructure Development Fund (RIDF) and other funds"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT226FD2E4397048A41499B165F33AA4294C8.PDF"
+pdf_sha256: "887c67a1531654ea1884fd74cbc455d4c3861dc914dc96e6d14a223338351445"
+md_sha256: "932e8143ab8cef55ff2305edbcda390572ba7345642290a7ff17ee33029e4d7e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-04-24_Notification_11879_Non-achievement%20of%20Priority%20Sector%20Lending%20Targets%20by%20Primary%20%28Urban%29%20Co-operative%20Banks%20%28UCBs%29%20-%20Contribution%20to%20the%20Rural%20Infrastructure%20Development%20Fund%20%28RIDF%29%20and.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-achievement of Priority Sector Lending Targets by Primary (Urban) Co-operative Banks (UCBs) - Contribution to the Rural Infrastructure Development Fund (RIDF) and other funds
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक
+
+## __________________________RESERVE BANK OF INDIA________________________
+
+<u>www.rbi.org.in</u> RBI/2019-20/226 DOR (PCB).BPD.Cir.No.12/09.09.002/2019-20 April 24, 2020
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## Non-achievement of Priority Sector Lending Targets by Primary (Urban) Co-operative
+
+## Banks (UCBs) - Contribution to the Rural Infrastructure Development Fund (RIDF) and other funds
+
+Please refer to the <u>circular DCBR.BPD (PCB).Cir.No.07/09.09.002/2017-18 dated May 10,</u> <u>2018</u> on Revised Guidelines on Lending to Priority Sector for Primary (Urban) Co-operative Banks (UCBs).
+
+2. On a review of the extant guidelines, it has been decided that, with effect from **March 31,** **2021**, all UCBs (excluding those under all-inclusive directions) will be required to contribute to Rural Infrastructure Development Fund (RIDF) established with NABARD and other Funds with NABARD / NHB / SIDBI / MUDRA Ltd., against their priority sector lending (PSL) shortfall vis-à-vis the prescribed target. The operational details in this regard are as under:
+i. The PSL achievement will be determined at the end of the financial year based on the average of priority sector target / sub-target achievement as at the end of each quarter of the year. UCBs (excluding those under all-inclusive directions) having shortfall in PSL lending targets will be allocated amounts for contribution to the Rural Infrastructure Development Fund (RIDF) established with NABARD and other relevant funds, as decided by the Reserve Bank from time to time. ii. The interest rates on UCBs’ contribution to RIDF and other funds, tenure of deposits, etc. will be fixed by Reserve Bank of India from time to time. iii. The misclassifications reported by the Reserve Bank's Department of Supervision, if any, would be adjusted / reduced from the achievement of that year to which the amount of declassification / misclassification pertains, for allocation to various funds in subsequent years.
+िविनयमन िवभाग, क �ीय कायार्लय, सी-7, पहली मंिज़ल, बान्ा-कु ल ा र् स ं कु ल, बान्ा (पूवर्), मुंबई - 400051, भारत फोन: (022) 26571112; ई मेल: <u>cgmdcbrco@rbi.org.in</u> Department of Regulation, Central Office, C-7, 1stFloor, Bandra-Kurla Complex, Mumbai - 400051, India Phone: (<u>022) 26571112; E-mail: cgmdcbrco@rbi.org.in</u> <u>बक िहन्दी म प�ाचार का स्वागत करता है —</u> चेतावनी: भारतीय �रज़वर् बक �ारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रये कोई भी ि�गत जानकारी जैसे बक खाते का ब्यौरा, पासवडर् आद नह माँगा जाता है। यह धन रखने या देने का �स्ताव भी नह करता है। ऐसे स्ताव� का कसी भी कार से जवाब मत दीिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+3. It has also been decided that, non-achievement of PSL targets will not be included as one of the criteria for classifying a UCB as Financially Sound and Well Managed (FSWM) with effect from March 31, 2021. However, it will continue to be taken into account while granting regulatory clearances/approvals for various purposes.
+4. A copy of this circular should be placed before the Board of Directors of your bank in its next meeting and a confirmation thereof should be sent to the concerned Regional Office of Department of Supervision of Reserve Bank of India.
+## Yours faithfully
+
+(Neeraj Nigam) Chief General Manager

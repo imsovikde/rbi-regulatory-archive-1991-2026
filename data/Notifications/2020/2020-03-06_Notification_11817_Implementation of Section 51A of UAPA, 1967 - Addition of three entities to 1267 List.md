@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2020_11817"
+title: "Implementation of Section 51A of UAPA, 1967 - Addition of three entities to 1267 List"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1691720471CC44E4CCB8651D4AEEE5121A9.PDF"
+pdf_sha256: "08e1536803a50fc557bb70f664eb5f69b6ac2e3939cf46b83a544868ae85a22a"
+md_sha256: "2c163e9b766f5f3e7ee8b5ae4a1ea91409c40293a42823a34ec7a85bc3db21bd"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-03-06_Notification_11817_Implementation%20of%20Section%2051A%20of%20UAPA%2C%201967%20-%20Addition%20of%20three%20entities%20to%201267%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of UAPA, 1967 - Addition of three entities to 1267 List
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/169 DOR.AML.BC.No.40/14.06.001/2019-20 March 06, 2020
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+## Implementation of Section 51A of UAPA, 1967 - Addition of three entities to 1267 List
+
+Please refer to Section 51 of our <u>Master Direction on Know Your Customer dated</u> <u>February 25, 2016 as amended on January 09, 2020</u>, in terms of which “*Regulated* *Entities* (*REs) shall ensure that in terms of Section 51A of the Unlawful Activities* *(Prevention) (UAPA) Act, 1967, they do not have any account in the name of* *individuals/entities appearing in the lists of individuals and entities, suspected of having* *terrorist links, which are approved by and periodically circulated by the United Nations* *Security Council (UNSC).”*
+
+2. In this regard, Ministry of External Affairs (MEA) has now forwarded the following <u>notification</u> issued by the United Nations Security Council (UNSC) Committee established pursuant to Resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al-Qaida, and associated individuals, groups, undertakings and entities: *Note SCA/2/20 (06) dated 06 March, 2020 regarding addition of three entities* [*QDe.164:* *JAMAAH ANSHARUT DAULAH, QDe.165: ISLAMIC STATE IN IRAQ AND THE* *LEVANT - LIBYA, and QDe. 166: ISLAMIC STATE IN IRAQ AND THE LEVANT –* *YEMEN] in UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List.* The UNSC press releases concerning amendments to the list are available at URL: <u>[https://www.un.org/securitycouncil/sanctions/1267/press-releases](https://www.un.org/securitycouncil/sanctions/1267/press-releases)</u>
+िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई-400001 टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+3. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+4. In view of the above, Regulated Entities (REs) are advised to ensure meticulous compliance with the aforementioned instruction pertaining to UAPA and ensure that they do not have any account in the name of individuals/entities appearing in the lists of individuals and entities, suspected of having terrorist links, circulated by the UNSC. Yours faithfully, (Dr. S. K. Kar) Chief General Manager

@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2020_11811"
+title: "Implementation of Section 51A of UAPA, 1967 - Removal of two entries from 1267 List"
+category: "Notifications"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UNSC200220208C140133FF8844CB9A8BCBAD3E982412.PDF"
+pdf_sha256: "4929173c422b06d7c9d7a1fcd44751ca03c6400bd41ffb540fb139375bcbbb52"
+md_sha256: "adf71bd103a16f763d5b4dff88f274ec459fc1f2bef2d895f9bf7bacdb62eb1f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:04:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2020/2020-02-20_Notification_11811_Implementation%20of%20Section%2051A%20of%20UAPA%2C%201967%20-%20Removal%20of%20two%20entries%20from%201267%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of UAPA, 1967 - Removal of two entries from 1267 List
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/163 DOR.AML.BC.No.36/14.06.001/2019-20 February 20, 2020
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+## Implementation of Section 51A of UAPA, 1967 - Removal of two entries from 1267 List
+
+Please refer to Section 51 of our <u>Master Direction on Know Your Customer dated February 25,</u> <u>2016 as amended on January 09, 2020</u>, in terms of which “*Regulated Entities* (*REs) shall ensure* *that in terms of Section 51A of the Unlawful Activities (Prevention) (UAPA) Act, 1967, they do* *not have any account in the name of individuals/entities appearing in the lists of individuals and* *entities, suspected of having terrorist links, which are approved by and periodically circulated by* *the United Nations Security Council (UNSC).”*
+
+2. In this regard, Ministry of External Affairs (MEA) has now forwarded a press release “Security Council document No. SC/14113 (Note SCA/2/20(03)) dated 18 February 2020 regarding **removal of two entries** [QDi.063; AL-MOKHTAR BEN MOHAMED BEN AL-MOKHTAR BOUCHOUCHA of Tunisian origin and QDi.176 IMAD BEN BECHIR BEN HAMDA AL-JAMMALI of Tunisian origin] to its Sanctions List”, issued by the United Nations Security Council (UNSC). The UNSC press release(s) concerning amendments to the list are available at URL: <u>[https://www.un.org/securitycouncil/sanctions/1267/press-releases](https://www.un.org/securitycouncil/sanctions/1267/press-releases)</u>
+3. Updated list of individuals and entities linked to ISIL (Da'esh) and Al-Qaida is available at: <u>[https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list](https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list)</u>
+4. In view of the above, Regulated Entities (REs) are advised to take note of the aforementioned UNSC communication and ensure meticulous compliance. Yours faithfully, (Dr. S. K. Kar) Chief General Manager िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई-400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
