@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2009_4827"
+title: "RRBs – Delay in Cheque Collection"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/cir11.pdf"
+pdf_sha256: "2397cc2dc282094656490dea0c109fbe69276602422a0338bd0e65ecb7e3ca91"
+md_sha256: "139764c92128abd1d5e676c7fff0a2b9aa9f74677e7ff60e27c270eb44be0689"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:48:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-02-05_Notification_4827_RRBs%20%E2%80%93%20Delay%20in%20Cheque%20Collection.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RRBs – Delay in Cheque Collection
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बैंक **__________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2008-09/377 RPCD.CO.RRB.BC.No. 87 /03.05.33 /2008-09 February 05, 2009
+
+## The Chairman All Regional Rural Banks
+
+Dear Sir / Madam,
+
+## Delays in Cheque Clearing-Case No. 82 of 2006 before
+
+## <u>National Consumer Disputes Redressal Commission</u>
+
+As you may be aware, during August 2006, a case was filed before National Consumer Disputes Redressal Commission, New Delhi (the Commission) under the Consumer Protection Act, 1986 inviting attention to the delays in cheque clearing and, specially, to the issue of float in local and inter-city clearing. Admitted in public interest as Case No. 82 of 2006, the complaint had named Reserve Bank of India (the Bank) and all Scheduled Commercial Banks (the banks) as respondents and sought adequate compensation by way of interest for delay in collection.
+
+A number of affidavits were filed by the Bank and by the banks at various points of time and the case was finally disposed off by the Commission on August 27,
+
+2008., with the Commission observing that the Bank with its wide range of powers under the Payment & Settlement Systems Act, 2007 would try to control the float, if any, arising due to delay in collection of outstation cheques. During the course of hearings, orders were passed by the Commission culminating in the final order on 'timeframe for collection of outstation cheques' which is available @http:www.ncdrc.nic.in/CC820605.htm. Notwithstanding the above, in the interest of better clarity as also to ensure compliance with the orders of the Commission, we reiterate the following:-
+i) RRBs shall frame/ reframe their Cheque Collection Policies (CCPs) covering local and outstation cheque collection as per the timeframe prescribed by the Commission.
+Rural Planning & Credit Department Central Office, 10 th Floor, Central Office Building, Shahid Bhagat Singh Marg Mumbai - 1 ìsfueHeÀesôe /Tel No: 91-22-22661602 HewÀkeÌme/Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+<u>fnôor Deemeeôe nw, FmekeÀe he´³eesäe yeŸeF³es~</u>
+
+ii) For local cheques, credit and debit shall be given on the same day or at the most the next day of their presentation in clearing. Ideally, in respect of local clearing, banks shall permit usage of the shadow credit afforded to the customer accounts immediately after closure of relative return clearing and in any case withdrawal shall be allowed on the same day or maximum within an hour of commencement of business on the next working day, subject to usual safeguards. iii) Timeframe for collection of cheques drawn on state capitals/major cities/other locations to be 7/10/14 days respectively. If there is any delay in collection beyond this period, interest at the rate specified in the CCPs of the bank, shall be the interest rate on Fixed Deposits for the corresponding maturity. The timeframe for collection specified by the Commission shall be treated as outer limit and credit shall be afforded if the process gets completed earlier**.** iv) RRBs shall give wide publicity to the CCPs by prominently displaying salient features thereof in bold and visible letters on the notice board at their branches.
+
+v) A copy of the complete CCPs shall be made available by the branch manager, if the customers require so.
+## Yours faithfully
+
+(B.P.Vijayendra) Chief General Manager

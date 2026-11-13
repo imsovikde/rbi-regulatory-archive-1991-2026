@@ -1,0 +1,69 @@
+---
+doc_id: "Notifications_2009_4823"
+title: "Hedging of Freight Risk by domestic oil-refining, shipping companies and other companies"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP DIR-50-Hedging of freight0.pdf"
+pdf_sha256: "52cb8eafeebb0979337350f11a1f179f6591d4efc4042ac964ecaaa3c585ea51"
+md_sha256: "b692e4831081a16c3c6768542efda838e0f39318affe0b8919ff672f804ff4e6"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:48:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-02-04_Notification_4823_Hedging%20of%20Freight%20Risk%20by%20domestic%20oil-refining%2C%20shipping%20companies%20and%20other%20companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Hedging of Freight Risk by domestic oil-refining, shipping companies and other companies
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2008-09/373
+
+## A. P. (DIR Series) Circular No. 50 February 04, 2009
+
+To
+
+All Authorised Dealer Category – I Banks
+
+Madam / Sir,
+
+## Hedging of Freight Risk by domestic oil-refining, shipping companies and other companies
+
+Attention of Authorised Dealer Category – I (AD Category – I) banks is invited to Regulation 6 of Notification No. FEMA.25/RB-2000 dated May 3, 2000, as amended from time to time, in terms of which a person resident in India is permitted to enter into a contract in a commodity exchange or market outside India, to hedge price risk in a commodity subject to certain terms and conditions. Further, in terms of A. P.(DIR Series) Circular No. 03, dated July 23, 2005, select AD Category-I banks have been delegated the authority to grant permission to listed companies to hedge commodity price risk in the international commodity exchanges / markets, subject to the conditions mentioned therein.
+
+2. As announced in the Mid-term review of Annual Policy Statement for the Year 2008-09 (Para 146), it has been decided to delegate powers to AD Category-I banks, which have been granted permission by the Reserve Bank to approve commodity hedging, to allow hedging of freight risk by domestic oil-refining companies and shipping companies on the following terms and conditions:
+i) The hedging can be undertaken as plain vanilla Over the Counter (OTC) or exchange traded products in the international market / exchange. ii) The exchanges on which the products are purchased must be a regulated entity. iii) The maximum tenor permissible will be one year forward.
+
+<!-- PAGE 2 -->
+
+iv) The basis of underlying exposure is as follows:
+
+(a) <u>In the case of oil refining companies</u> –
+(i) The freight hedging will be on the basis of underlying contracts
+i.e., import/export orders for crude oil/petroleum products. Additionally, AD Category-I banks may permit domestic oil refining companies to hedge their freight risk on anticipated imports of crude oil on the basis of their past performance up to 50 per cent of the volume of actual imports of crude oil during the previous year or 50 per cent of the average volume of imports during the previous three financial years, whichever is higher. (ii) Contracts booked under the past performance facility will have to be regularized by production of underlying documents during the currency of the hedge. An undertaking may be obtained from the company to this effect.
+(b) <u>In the case of shipping companies :-</u>
+(i) The hedging will be on the basis of owned / controlled ships of the shipping company which have no committed employment. The quantum of hedge will be determined by the number and capacity of these ships. The same may be certified by a Chartered Accountant to the AD Category-I bank. (ii) Contracts booked will have to be regularized by production of underlying documents i.e. employment of the ship during the currency of the hedge. An undertaking may be obtained from the company to this effect. (iii) AD Category-I banks may also ensure that the freight derivatives being entered into by the shipping companies are reflective of the underlying business of the shipping companies.
+v). AD Category – I banks should ensure that the entities hedging their freight exposures should have Board approved Risk Management policies which define the overall framework within which derivative transactions should be undertaken and the
+
+<!-- PAGE 3 -->
+
+risks contained. AD Category-I banks should approve this facility only after ensuring that the sanction of the company's Board has been obtained for the specific activity and also for dealing in overseas exchanges / markets. The Board approval must include explicitly the authority/ies permitted to undertake the transactions, the mark- to-market policy, the counterparties permitted for OTC derivatives, etc. and a list of transactions undertaken should be put up to the Board on a half-yearly basis. The AD Category-I bank must obtain a copy of Risk Management Policy from the company incorporating the above details at the time of permitting the transaction itself and as and when changes made therein.
+
+3. In the case of other companies which are exposed to freight risk, AD Category
+- I banks may approach the Reserve Bank for permission on behalf of their customers. Applications may be forwarded to the Chief General Manager, Reserve Bank of India, Foreign Exchange Department, Forex Markets Division, Amar Building, 5th floor, Mumbai 400 001.
+4. Necessary amendments to Notification No.FEMA.25/RB-2000 dated May 3, 2000 [Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000] are being issued separately.
+5. AD Category – I banks may bring the contents of the circular to the notice of their constituents and customers concerned.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan) Chief General Manager-in-Charge

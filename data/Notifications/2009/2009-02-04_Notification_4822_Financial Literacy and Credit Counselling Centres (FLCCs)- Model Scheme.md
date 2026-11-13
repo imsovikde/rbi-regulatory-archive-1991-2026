@@ -1,0 +1,161 @@
+---
+doc_id: "Notifications_2009_4822"
+title: "Financial Literacy and Credit Counselling Centres (FLCCs)- Model Scheme"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FLCCCIR1.pdf"
+pdf_sha256: "a395debb79522d73546426c37372d995070faf4f45cb98c13d3421bed58e6196"
+md_sha256: "8722c6b0a09ef020021d91b641de3001ad2f684fe021a7b46b817c2528902b99"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:48:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-02-04_Notification_4822_Financial%20Literacy%20and%20Credit%20Counselling%20Centres%20%28FLCCs%29-%20Model%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Literacy and Credit Counselling Centres (FLCCs)- Model Scheme
+
+<!-- PAGE 1 -->
+
+## ______________________ RESERVE BANK OF INDIA___________________
+
+**www.rbi.org.in**
+
+## RBI/ 2008-09/371 RPCD.CO.MFFI.BC.No.86 /12.01.18/2008-09 February 4, 2009
+
+The Chairman/ Managing Director/ Chief Executive Officer All Scheduled Commercial Banks (Including RRBs)
+
+## Dear Sir/Madam
+
+<u>Financial Literacy and Credit Counselling Centres (FLCCs)- Model Scheme</u>
+
+The <u>Working Group to Examine the Procedures and Processes of Agricultural Loans</u> (Chairman: Shri C. P. Swarnakar), appointed by Reserve Bank, had recommended in its report (April 2007) that banks should actively consider opening of counselling centres, either individually or with pooled resources, for credit and technological counselling. This would make the farmers aware of their rights and responsibilities to a great extent. Further, an earlier <u>Working Group constituted by Reserve Bank to suggest measures for</u> <u>assisting distressed farmers</u> (Chairman: Shri S.S. Johl) had also suggested that financial and livelihood counselling are important for increasing viability of credit. Based on the recommendations of the above working groups, and as announced in the <u>Annual Policy</u> <u>Statement for the year 2007-08</u>, Reserve Bank advised the SLBC convenor banks on May 10, 2007, to set up a FLCC on a pilot basis in any one district in the State/ Union Territory coming under their jurisdiction and, based on the experience gained, the Lead Banks may set up couselling centres in other districts.
+
+2. Consequent upon the announcement in the <u>Mid-term Review of the Annual Policy for</u> <u>the year 2007-08</u>, a concept paper on FLCCs was placed on the Reserve Bank's website and feedback received from public as also from banks that had started operating the counselling centres. The feedback revealed the following:
+(i) With the exception of a few, most of the centres were not performing the intended role and were promoting the bank's products, providing investment advice, etc.
+**th** **Rural Planning & Credit Department Central Office, 10 Floor, Central Office Building, post box no. 10014** **Mumbai -400001** **Tel No: 91-22-22661602/Fax No: 91-22-22621011/22610948/22610943 Email ID:cgmicrpcd@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+(ii) Most centres were manned only by the bank staff who, in addition to their normal duties, acted as counsellors which often led to conflict of interest. (iii) No formal inputs in financial management or attitudinal training was provided to the counsellors. (iv) Arm's length distance with the parent bank was not maintained by some centres which often gave an impression that such centres were an integral part of the bank.
+
+From the above, it has become necessary to clarify the concept and the expectations from the financial literacy and credit counselling centres. Accordingly, a Model Scheme for "Financial Literacy and Credit Counseling Centres" has been formulated and is annexed.
+
+3. In order to make Financial Literacy and Credit Counselling initiative a success, it is necessary to create widespread awareness about the concept and, more importantly, for banks to appreciate the overall benefits of such initiatives. It is necessary to have the total and complete involvement of the top management of banks in this initiative.
+4. The counselling centres supported/ proposed to be supported by the banks would have to be in conformity with the enclosed Model Scheme so that the objectives of setting up such centres are achieved.
+5. Kindly acknowledge receipt.
+## Yours faithfully
+
+Sd/-
+
+(B.P.Vijayendra) Chief General Manager
+
+## Encl.: 6 pages
+
+<!-- PAGE 3 -->
+
+## <u>Annex</u>
+
+## <u>Financial Literacy and Credit Counselling Centres (FLCCs) - Model Scheme</u>
+
+## 1. Objectives
+
+The broad objective of the FLCCs will be to provide **free** financial literacy/education and credit counselling. The specific objectives of the FLCCs would be:
+
+(i) To provide financial counselling services through face-to-face interaction as well as through other available media like e-mail, fax, mobile, etc. as per convenience of the interested persons, including education on responsible borrowing, proactive and early savings, and offering debt counselling to individuals who are indebted to formal and/or informal financial sectors; (ii) To educate the people in rural and urban areas with regard to various financial products and services available from the formal financial sector; (iii) To make the people aware of the advantages of being connected with the formal financial sector; (iv) To formulate debt restructuring plans for borrowers in distress and recommend the same to formal financial institutions, including cooperatives, for consideration;
+(v) To take up any such activity that promotes financial literacy, awareness of the banking services, financial planning and amelioration of debt-related distress of an individual;
+FLCCs should not, however, act as investment advice centres /marketing centres for products of any particular bank/banks. Counsellors may refrain from marketing / providing advice regarding investment in insurance policies, investment in securities, value of securities, purchase/ sale of securities, etc., or promoting investments only in bank’s own products.
+
+## 2. Organisational / Administrative Set-up
+
+To start with, banks may set up Trusts/Societies for running the FLCCs, singly or jointly with other banks. A bank may induct respected local citizens on the Board of such a Trust/Society. Serving bankers may not be included in the Board. The trust may also be represented by senior citizens. To begin with, FLCCs may be fully funded by the bank/s.
+
+<!-- PAGE 4 -->
+
+The counselling centres should maintain arm's length relationship with the parent bank and, preferably not be located in the bank's premises. This is to avoid any impression that such centres are a part of the bank itself. The centres should not promote the products of their parent banks. Initially, if the branch premises are used to minimize cost, the FLCC should be kept completely separated with a separate entrance and different look and feel from that of the bank's branch so as to maintain a distinct identity from the parent bank. The banks' officers may, for effective supervision and monitoring of activities of such Trusts /Societies, make dummy calls or incognito visits.
+
+It is necessary that these centres should not be perceived as recovery or marketing agents of the bank concerned, and the general public / banks' constituents should feel comfortable in voluntarily approaching the centres. The independence of the counselling centres has to be ensured so that non-partisan and objective guidance is provided to the customers.
+
+## 3. Coverage
+
+While credit counselling services may be provided in rural, semi urban, urban and metropolitan areas, banks may adopt a segmented approach specific to different categories of borrowers, rather than broad-based generalized one. For instance, the centres in rural and semi urban areas could concentrate on financial literacy and counselling for farming communities and those engaged in allied activities. The centres in metro/urban areas could focus on individuals with overdues in credit cards, personal loans, housing loans, etc. In the initial phase, considering their network and reach, public sector banks and Regional Rural Banks could consider focusing on the rural areas, while the private and foreign banks could consider setting up counselling centres in urban areas.
+
+In order to have maximum coverage, FLCCs may need to be set up at all levels viz. block, district, town and city levels. SLBCs may discuss and coordinate with banks, both in public and private sectors, and arrive at a plan for setting up of FLCCs at different levels in a phased manner. However, to begin with, lead banks may take the initiative for setting up FLCCs in the district headquarters. The SLBCs could oversee the activities of FLCCs and provide support and guidance wherever required.
+
+FLCCs may not take up cases of wilful defaulters.
+
+<!-- PAGE 5 -->
+
+## 4. Charges
+
+Counselling and debt management services may be provided **free** of charge to the customers so as to put no additional burden on them.
+
+## 5. Infrastructure
+
+Proper infrastructure would have to be put in place by banks with adequate communication and networking facilities. Separate cubicles could be set up to maintain the privacy/ confidentiality of the discussions with the clients.
+
+## 6. Types of Credit Counselling
+
+Debt counselling/credit counselling can be both preventive and curative. In case of preventive counselling, the centres could provide awareness regarding cost of credit, availability of backward and forward linkages, where warranted, etc. The clients could be encouraged to avail of credit on the basis of their repaying capacity. Preventive counselling can be through the media, workshops and seminars.
+
+FLCCS may consider introducing a generic financial education module in vernacular language. Broadly, the module content can include the need for savings, budgeting, advantages of banking with formal financial institutions, concept of risk and rewards and time value of money, various products offered by banks, insurance companies, etc. The module may also cover aspects relating to deposits and various other financial products, the method of calculation of interest on S.B A/c, fixed deposits, etc., and method of compounding. Time value of money could be emphasized in the module.
+
+Since promoting awareness is one of the primary objectives, the FLCCs should give due emphasis to customers' rights under fair practices code, benefits of nomination facilities, operation of accounts, etc.
+
+In the case of curative counselling, the clients may approach the counselling centres to work out individual debt management plans for resolving their unmanageable debt portfolio. Here, the centres could work out effective debt restructuring plans that could include repayment of debt to informal sources, if necessary, in consultation with the bank branch.
+
+Preventive counselling may be made mandatory for individual borrowers based on their income level or size of loan. Such mandatory credit counselling could be made a part of fair lending practice of banks.
+
+<!-- PAGE 6 -->
+
+While the FLCCs centres would provide financial literacy and credit counselling, the activities of the Rural Development and Self Employed Training Institutes (RUDSETI) towards skill development/capacity building could be dovetailed with FLCCs initiatives, for increasing the earnings/debt repaying ability of the distressed borrowers' families
+
+## 7. Mechanism for Credit Counselling and Debt Settlement
+
+Banks may encourage their own customers in distress or customers of any bank to approach the FLCCs set up by them. Information about such FLCCs can be provided through the various fora available under the Lead Bank Scheme. Banks may evolve trigger points to refer cases, where there are early warning signals, to the counselling centres before taking measures for recovery. Timely intervention will help to arrest any further financial deterioration of the borrower.
+
+The counsellors should be mandated to refer cases to banks and work out Debt Management Plans for distressed borrowers with a view to facilitating restructuring/ rescheduling their debts.
+
+The FLCCs may conduct open-house seminars either at the centre or at various places in the district for group counselling. Banks operating in the district can sponsor, wholly or partly, such seminars in areas predominantly covered by them.
+
+For single-creditor-debts, the FLCCs could assist the borrower in negotiating with the bank concerned. In case of multiple credits availed of by individuals, the FLCCs may negotiate with the bank/s having the largest exposure to restructure the debt and the recoveries to be shared on a pro-rata basis. For the above purpose, and if deemed necessary, the FLCCs may call for a joint meeting with the concerned bank/banks for putting forward their concerns / proposals for restructuring of debts. The bank/s, on review of the recommendations/proposal made by the FLCC, may make their independent and informed decision to accept the proposal in its original form or in such other modified form as deemed fit.
+
+The choice of finally accepting or rejecting a debt restructuring proposal suggested by the FLCCs may be left to the bank/ banks concerned. However, in case of non- acceptance or rejection of restructuring proposals forwarded by FLCCs by banks, they may give the reasons in writing to FLCC in the interests of transparency.
+
+<!-- PAGE 7 -->
+
+The FLCCs would, however, not involve themselves in recovering and distributing money. This may be left to the bank concerned, or the bank having the largest exposure to act on behalf of all the banks.
+
+## 8. Qualification and Training of Counsellors
+
+As FLCCs are expected to play a crucial role in assisting and guiding the distressed individual-borrowers, it is necessary that only well qualified / trained counsellors are selected to man the centre on a full time basis. The FLCCs could consider appointing people with domain knowledge in agriculture for counselling related to agriculture and allied activities.
+
+To ensure that there is no conflict of interest, persons managing the FLCC should not be staff of the bank.
+
+Individuals such as retired bank officers, ex-servicemen, etc. may be allowed to be appointed, among others, as credit counsellors. Credit counsellors should have sound knowledge of banking, law, finance, requisite communication and team building skills, etc.
+
+At present, knowledge and skill upgradation is mostly dependant on the initiative of the individual counsellors. Some training at the time of joining is being given by the banks, but this is focused only on the services provided rather than a full course on financial management. Proper training and skill upgradation is essential for the counsellors to keep themselves abreast of the latest developments in the banking industry. Training is also required to be provided to the counsellors on an on going basis to constantly upgrade their skills.
+
+The Reserve Bank's College of Agriculture Banking, Pune, Bankers' Institute of Rural Development, Lucknow or the training colleges of banks may consider conducting training programmes for the counsellors.
+
+## 9. Types of interface
+
+Counselling centres should be equipped to deal with requests received in person, by phone, e-mails, post, etc. They should have a toll free line, e-mail and fax facilities for easy contact. To maximize the outreach of the counselling centre, mobile units should also be set up to service all the blocks in the districts.
+
+<!-- PAGE 8 -->
+
+## 10. Monitoring
+
+The functioning of the FLCCs in each State may be monitored by a Committee headed by the Regional Director of the Reserve Bank of India and feedback provided to the banks on a regular basis. The Committee may comprise SLBC convenor bank, other banks, NABARD, IBA, consumer organizations, NGOs working in the area, etc.
+
+## 11. Transparency / Disclosure of Information
+
+To help the customers make informed decisions, all banks may display on their websites necessary information regarding fees, charges, etc. as prescribed vide Reserve Bank circular DBOD.No.Leg.BC.75/09.07.005/2008-09 dated November 3, 2008. The details of the services offered by the FLCCs opened by the banks may also be placed on the websites of banks concerned.
+
+## 12. Publicity
+
+A great deal of emphasis needs to be given by all institutions to educate the public of the various schemes/ facilities. All forms of publicity, viz. press conferences, workshops, publications, websites, road shows, mobile units, village fairs, etc. should be actively explored. A suitable budget needs to be provided by all banks for the purpose. As part of ongoing measures for publicity, banks may ensure that the list of counselling centres is appropriately publicised.
+
+***
