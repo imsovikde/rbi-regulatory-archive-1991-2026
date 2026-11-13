@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2018_2629"
+title: "Relief for MSME Borrowers registered under Goods and Services Tax (GST)"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT129ML070218.PDF"
+pdf_sha256: "9e74477b2f844683d8ebfcdc3b3ca2c8e3ad689fdcaaab8b7bf1f9d65eb93e0e"
+md_sha256: "bfe45b5f3aa234a9800a90b0487e7dbd9310f4a7515a7bfe50f179bafc6478b2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:00:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-02-07_Notification_2629_Relief%20for%20MSME%20Borrowers%20registered%20under%20Goods%20and%20Services%20Tax%20%28GST%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Relief for MSME Borrowers registered under Goods and Services Tax (GST)
+
+<!-- PAGE 1 -->
+
+## RBI/2017-18/129 DBR.No.BP.BC.100/21.04.048/2017-18 February 07, 2018
+
+All banks and NBFCs regulated by the Reserve Bank of India
+
+Madam / Dear Sir,
+
+## <u>Relief for MSME Borrowers registered under Goods and Services Tax (GST)</u>
+
+Presently, banks and NBFCs in India generally classify a loan account as Non-Performing Asset (NPA) based on 90 day and 120 day delinquency norms, respectively. It has been represented to us that formalisation of business through registration under GST had adversely impacted the cash flows of the smaller entities during the transition phase with consequent difficulties in meeting their repayment obligations to banks and NBFCs. As a measure of support to these entities in their transition to a formalised business environment, it has been decided that the exposure of banks and NBFCs to a borrower classified as micro, small and medium enterprise under the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006, shall continue to be classified as a standard asset in the books of banks and NBFCs subject to the following conditions:
+
+(i) The borrower is registered under the GST regime as on January 31, 2018. (ii) The aggregate exposure, including non-fund based facilities, of banks and NBFCs, to the borrower does not exceed ` 250 million as on January 31, 2018. (iii) The borrower’s account was standard as on August 31, 2017. (iv) The amount from the borrower overdue as on September 1, 2017 and payments from the borrower due between September 1, 2017
+
+<!-- PAGE 2 -->
+
+and January 31, 2018 are paid not later than 180 days from their respective original due dates.
+
+(v) A provision of 5% shall be made by the banks/NBFCs against the exposures not classified as NPA in terms of this circular. The provision in respect of the account may be reversed as and when
+1 no amount is overdue beyond the 90/120 day norm, as the case may be. (vi) The additional time is being provided for the purpose of asset classification only and not for income recognition, i.e., if the interest 2 from the borrower is overdue for more than 90/120 days, the same shall not be recognised on accrual basis.
+
+Yours faithfully,
+
+(S. K. Kar) Chief General Manager
+
+1 Consequent upon transition to 90 day delinquency norm with effect from March 31, 2018 for NBFCs, provision reversal will be with reference to the 90 day norm 2 Consequent upon transition to 90 day norm with effect from March 31, 2018 for NBFCs, restriction on income recognition on accrual basis will be with reference to interest overdue for more than 90 days.

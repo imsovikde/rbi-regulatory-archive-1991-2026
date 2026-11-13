@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2018_11244"
+title: "Storage of Payment System Data"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/153PAYMENTEC233862ECC4424893C558DB75B3E2BC.PDF"
+pdf_sha256: "00d7e3d9d7a9b93a5acaa5dc710b2c4d3ee0c881811eaf6e30cc6f3615321409"
+md_sha256: "913de22056f470dc614f4882893824cadf88eecae58452ca805be4f884f4188d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:00:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-04-06_Notification_11244_Storage%20of%20Payment%20System%20Data.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Storage of Payment System Data
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2017-18/153 DPSS.CO.OD No. 2785/06.08.005/2017-2018 6 April 2018
+
+The Chairman and Managing Director / Chief Executive Officers, Authorised Payment Systems / All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks/State Co-operative Banks / District Central Co-operative Banks /Payment Banks / Small Finance Banks and Local Area Banks
+
+Madam / Sir,
+
+### Storage of Payment System Data
+
+Please refer to paragraph 4 of the <u>Statement on Development and Regulatory Policies</u> of the First Bi- monthly Monetary Policy Statement for 2018-19 dated April 5, 2018. In recent times, there has been considerable growth in the payment ecosystem in the country. Such systems are also highly technology dependent, which necessitate adoption of safety and security measures, which are best in class, on a continuous basis.
+
+2. It is observed that not all system providers store the payments data in India. In order to ensure better monitoring, it is important to have unfettered supervisory access to data stored with these system providers as also with their service providers / intermediaries/ third party vendors and other entities in the payment ecosystem. It has, therefore, been decided that:
+i. All system providers shall ensure that the entire data relating to payment systems operated by them are stored in a system only in India. This data should include the full end-to-end transaction details / information collected / carried / processed as part of the message / payment instruction. For the foreign leg of the transaction, if any, the data can also be stored in the foreign country, if required. ii. System providers shall ensure compliance of (i) above within a period of six months and report compliance of the same to the Reserve Bank latest by October 15, 2018. iii. System providers shall submit the System Audit Report (SAR) on completion of the requirement at (i) above. The audit should be conducted by CERT-IN empaneled auditors certifying completion of activity at (i) above. The SAR duly approved by the Board of the system providers should be submitted to the Reserve Bank not later than December 31,
+2018.
+3. The directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007, (Act 51 of 2007).
+### Yours faithfully
+
+(Nanda S. Dave) Chief General Manager-in-charge
+
+भगतान और नपटान प्रणाल वभाग ु, कद्रय कायार्लय, 14वीमंिजल, कद्रय कायार्लय भवन,शहद भगतसंह मागर्, फोटर्, मम्बई ु- 400001 फोनTel: (91-22) 2264 4995; फ ै क् स Fax: (91-22) 22691557; ईमेल-e-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central Office, 14thFlr, Central Office Building, Shahid Bhagat <u>Singh Road, Fort, Mumbai -</u>400001 <u>�हंद आसान है, इसका प्रयोग बढ़ाइए</u>

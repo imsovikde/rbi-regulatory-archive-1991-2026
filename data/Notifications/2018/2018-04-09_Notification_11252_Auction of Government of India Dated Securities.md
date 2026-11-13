@@ -1,0 +1,57 @@
+---
+doc_id: "Notifications_2018_11252"
+title: "Auction of Government of India Dated Securities"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1593C60B191647A4B019716D11875A54671.PDF"
+pdf_sha256: "9e217092d4fc140bf3d64db272ac26c703c95e768a33671915e72bc3b1ad1d1c"
+md_sha256: "8c8dc29f95fc43c463233a137a3f0896f440c3dbdb476e1afbbf6db2f2830018"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:00:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-04-09_Notification_11252_Auction%20of%20Government%20of%20India%20Dated%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Auction of Government of India Dated Securities
+
+<!-- PAGE 1 -->
+
+RBI/2017-18/159 Ref. No.IDMD/2584/08.02.032/2017-18 **April 09, 2018**
+
+All Scheduled Commercial Banks All State Co-operative Banks/All Scheduled Primary (Urban) Co-operative Banks /All Financial Institutions/ All Primary Dealers.
+
+## Dear Sir/Madam,
+
+## <u>Auction of Government of India Dated Securities</u>
+
+Government of India has offered to sell (issue/re-issue) four dated securities for notified amount of **Rs. 12,000 crore** as per the following details:
+
+|Sr No|Security|Notified Amount (in Rs crore)|GoI Notification|Auction Date|Settlement date|
+|---|---|---|---|---|---|
+|1|NI GS 2023|3,000||||
+|2|6.68% GS 2031|4,000|F.No.4(6) W&M/2018 dated|April 13, 2018|April 16, 2018|
+|3 4|7.73% GS 2034 7.06% GS 2046 Total|2,000 3,000 12,000|April 09, 2018|(Friday)|(Monday)|
+
+Subject to the limit of Rs 12000 Cr being total notified amount, GoI will have the option to retain additional subscription up to Rs 1000 Cr each against any one or more of the above securities.
+
+The auction for the new security will be <u>yield based</u> and for other securities it will be <u>price</u> <u>based using multiple price method</u>. The Reserve Bank of India at Mumbai will conduct the auctions. The salient features of the auctions and the terms and conditions governing the issue of the Stocks are given in the notifications (copies enclosed), which should be read along with the <u>General Notification F. No.4(2)–W&M/2018, dated March 26, 2018</u> issued by Government of India.
+
+2. We wish to draw your attention, in particular, to the following:
+(i) The Stocks will be issued for a minimum amount of Rs.10,000/- (nominal) and in multiples of Rs 10,000/- thereafter.
+
+<!-- PAGE 2 -->
+
+(ii) In all the auctions, Government Stock up to 5% of the notified amount of sale will be allotted to the eligible individuals and institutions under the <u>Scheme for Non-competitive Bidding</u> <u>Facility</u> in the Auctions of Government Securities. Each bank or PD on the basis of firm orders received from their constituents will submit a single consolidated non-competitive bid on behalf of all its constituents in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system. Allotment under the non-competitive segment to the bank or PD will be at the weighted average rate of yield/price that will emerge in the auction on the basis of the competitive bidding.
+
+(iii) Both competitive and non-competitive bids for the auction should be submitted in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system on **April 13, 2018**. Bids in physical form will not be accepted except in extraordinary circumstances. The non- competitive bids should be submitted between 10.30 a.m. and 11.30 a.m. and the competitive bids should be submitted between 10.30 a.m. and 12.00 noon.
+
+(iv) An investor can submit more than one competitive bid at different prices in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system. However, the aggregate amount of bids submitted by a person in an auction should not exceed the notified amount of auction.
+
+(v) On the basis of bids received, the Reserve Bank will determine the minimum price up to which tenders for purchase of Government Stock will be accepted at the auctions. Bids quoted at rates lower than the minimum price determined by the Reserve Bank of India will be rejected. Reserve Bank of India will have the full discretion to accept or reject any or all bids either wholly or partially without assigning any reason. (vi) The result of the auctions will be announced on **April 13, 2018 (Friday)** and payment by successful bidders will be on **April 16, 2018 (Monday)**. (vii) The Government Stocks will be issued by credit to Subsidiary General Ledger Account (SGL) of parties maintaining such account with Reserve Bank of India or in the form of Stock Certificate. Interest on the Government Stock will be paid half-yearly. (viii) The Government Stocks will be repaid at par on **April 16, 2023; September 17, 2031;** **December 19, 2034 and October 10, 2046** respectively. (ix) The Stocks will qualify for the ready forward facility.
+(x) The Stocks will be eligible for “When Issued” trading during the period **April 10 – April 13,** **2018** in accordance with guidelines on ‘When Issued’ transactions in Central Government Securities issued by Reserve Bank of India vide <u>circular No.RBI/2006-07/178 dated November</u> <u>16, 2006</u> as amended from time to time.
+## Yours faithfully
+
+(Arvind Kumar) General Manager

@@ -1,0 +1,140 @@
+---
+doc_id: "Notifications_2018_11226"
+title: "Hedging of Commodity Price Risk and Freight Risk in Overseas Markets (Reserve Bank) Directions"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT138A834B2C3C0344C87AEEE6BB497891621.PDF"
+pdf_sha256: "6834db34f104c793c95e7f3f8f4a480b478b9a0c1c8955e963ee3d4d3dd43540"
+md_sha256: "15faa7d5b8b990c72186b70bc8c3e042a6c59c3426336e9a1ad01d5f961dd295"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:00:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-03-12_Notification_11226_Hedging%20of%20Commodity%20Price%20Risk%20and%20Freight%20Risk%20in%20Overseas%20Markets%20%28Reserve%20Bank%29%20Directions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Hedging of Commodity Price Risk and Freight Risk in Overseas Markets (Reserve Bank) Directions
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बैंक
+
+## RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+### RBI/2017-18/138 A.P. (DIR Series) Circular No. 19 March 12, 2018
+
+To
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+### Hedging of Commodity Price Risk and Freight Risk in Overseas Markets
+
+### (Reserve Bank) Directions
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to regulation 6 and 6A of the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (<u>Notification No.FEMA. 25/RB-2000 dated May 3, 2000</u>) issued under clause (h) of sub-section (2) of Section 47 of FEMA, 1999 (Act 42 of 1999), as amended from time to time.
+
+2. RBI had earlier constituted a <u>Working Group to review the guidelines for Hedging of</u> <u>Commodity Price Risk by Residents in overseas markets</u> (Chairman: Shri Chandan Sinha). Based on the report of the working group and comments received on the report, <u>draft directions</u> <u>for hedging of commodity price risk and freight risk were released for comments on Jan 12,</u>
+<u>2018</u>. Based on the feedback to the draft directions, the Hedging of Commodity Price Risk and Freight Risk in Overseas Markets (Reserve Bank) Directions, 2018 have been finalized and are enclosed herewith. The revised directions shall come into force from April 1, 2018.
+िव�ीय बाज़ार िविनयमन िवभाग, कें द्र ी य कायार्लय, पहली मंिजल, मख्यु भवन, शहीद भगत िसंह मागर्, फोटर्, मबई ुं 400001 –, भारत फोन: (+91-22) 2260 3000 ,फै क् स : (+91-22) 2270 2290, ई-मेल :cgmfmrd@rbi.org.in
+
+Financial Markets Regulation Department, Central Office, 1 st Floor, Main Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400001, India Tel: (+91-22) 2260 3000, Fax: (+91-22) 2270 2290, E-mail: <u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+3. Residents hedging their commodity price risk and freight risk under a specific approval from RBI given under the approval route based on the previous set of guidelines would be permitted to continue hedging under the said approval till June 30, 2018 or the last date specified in the approval, whichever is earlier.
+4. The relevant instructions on the subject contained in the following circulars stand withdrawn as on April 1, 2018:
+i. <u>A. P. (DIR Series) Circular No. 68 dated January 17, 2012</u> on “Risk Management and Inter-Bank Dealings-Commodity Hedging” ii. Section E and F of <u>A. P. (DIR Series) circular no. 32 dated December 28, 2010</u> on “Comprehensive Guidelines on Foreign Exchange Derivatives and Overseas Hedging of Commodity Price and Freight Risks” and the relevant appendices. iii. <u>A. P. (DIR Series) Circular No.35 dated November 10, 2008</u> on “Remittance related to Commodity Derivative Contract Issuance of Standby Letter of Credit / Bank Guarantee”
+5. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions /approvals, if any, required under any other law.
+## Yours faithfully
+
+(T. Rabi Sankar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+RESERVE BANK OF INDIA FINANCIAL MARKETS REGULATION DEPARTMENT 1st FLOOR, CENTRAL OFFICE, FORT MUMBAI 400 001
+
+## Hedging of Commodity Price Risk and Freight Risk in Overseas Markets
+
+## (Reserve Bank) Directions, 2018
+
+The Reserve Bank of India, in exercise of the powers conferred under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) hereby issues the Hedging of Commodity Price Risk and Freight Risk in Overseas Markets (Reserve Bank) Directions, 2018 dated March 12, 2018 (the Directions).
+
+## 1. Short Title and commencement
+
+1.1 These directions shall be referred to as the Hedging of Commodity Price Risk and Freight Risk in Overseas Markets (Reserve Bank) Directions, 2018 and they shall come into force on April 1, 2018.
+## 2. Definitions:
+
+i. Hedging – The activity of undertaking a derivative transaction to reduce an identifiable and measurable risk. For the purpose of these directions the relevant risks are commodity price risk and freight risk. ii. Eligible entities – Eligible entities refers to residents other than Individuals. iii. Direct Exposure to Commodity Price Risk – An eligible entity will be said to have direct exposure to commodity price risk if
+a. It purchases/sells a commodity (in India or abroad) whose price is fixed by reference to an international benchmark; or
+b. It purchases/sells a product (in India or abroad) which contains a commodity and the price of the product is linked to an international benchmark of the commodity.
+iv. Indirect Exposure to Commodity Price Risk – An eligible entity will be said to have indirect exposure to commodity price risk if it purchases/sells a product (in India or abroad) which contains the commodity and the price of the product is not linked to an international benchmark of the commodity.
+
+v. Exposure to Freight Risk – An eligible entity will be said to have exposure to freight risk if it is engaged in the business of refining oil or is engaged in the business of shipping.
+
+<!-- PAGE 4 -->
+
+vi. Bank(s) – Bank(s) refer to banks licensed as Authorised Dealer – Category I under section 10 of FEMA, 1999.
+
+**3. Eligible Commodities** – Commodities whose price risk may be hedged are:
+a. In case of direct exposures to commodity price risk: All commodities (except Gold, Gems and precious stones)
+b. In case of indirect exposures to commodity price risk: Aluminum, Copper, Lead, Zinc, Nickel, and Tin. This list of eligible commodities would be reviewed annually.
+**4. Permitted Products -**Permitted products refer to the following:
+a. Generic Products
+i. Futures and forwards ii. Vanilla options (call option and put option) iii. Swaps
+b. Structured Products
+i. Products which are combination of either cash instrument and one or more generic products ii. Products which are combination of two or more generic products
+**5. Hedging of Commodity Price Risk:** Eligible entities having exposure to commodity price risk for any eligible commodity may hedge such exposure in overseas markets using any of the permitted products.
+**6. Hedging of Freight Risk:** Eligible entities having exposure to freight risk may hedge such exposure in overseas markets by using any of the permitted products.
+## 7. Other Operational Guidelines:
+
+i. Banks may permit eligible entities to hedge commodity price risk and freight risk overseas using permitted products and may remit outside India foreign exchange in respect of such transactions after satisfying themselves that :
+a. The entity has exposure to commodity price risk or freight risk, contracted or anticipated.
+b. The quantity proposed to be hedged and the tenor of the hedge are in line with the exposure.
+
+<!-- PAGE 5 -->
+
+c. In case of OTC derivatives, the requirement to undertake OTC hedges is justified.
+d. In case of hedging using a benchmark price other than that of the commodity exposed to, the requirement to undertake such hedges is justified.
+e. Such hedging is taken up by the management of the entity under a policy approved by the Board of Directors of a company or equivalent forum for other.
+f. The entity has the necessary risk management policies in place.
+g. The entity has reasonable understanding of the utility and likely risks associated with the products proposed to be used for hedging.
+ii. OTC contracts shall be booked with a bank or with non-bank entities which are permitted to offer such derivatives by their regulators. For this purpose, a list of acceptable jurisdictions shall be specified by FEDAI. iii. Structured products may be permitted to eligible entities who are (a) listed on recognized domestic stock exchanges or (b) fully owned subsidiaries of such entities or (c) unlisted entities whose net worth is higher than INR 200 crores, subject to the condition that such product are used for the purpose of hedging as defined under these directions. iv. All payments/receipts related to hedging of exposure to commodity price risk and freight risk shall be routed through a special account with the bank for this purpose.
+
+v. Banks shall keep on their records full details of all hedge transactions and related remittances made by the entity. vi. Banks shall obtain an annual certificate from the statutory auditors of the entity confirming that the hedge transactions and the margin remittances are in line with the exposure of the entity. The statutory auditor shall also comment on the risk management policy of the entity for hedging exposure to commodity price risk and freight risk and the appropriateness of the methodology to arrive at the quantum of these exposures. vii. Banks shall undertake immediate corrective action in case of any irregularity or misuse of these directions. All such cases should be reported to Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India.
+**8. Standby Letters of Credit (SBLC) / Guarantees**-Banks are permitted to issue Standby Letters of Credit (SBLC) / Guarantees, for a maximum period of one year, on behalf of their clients in lieu of making a remittance of margin money for commodity hedging transactions entered into by their customers. Banks should ensure that these SBLCs / Guarantees are used by their clients for the intended purposes.
+
+<!-- PAGE 6 -->
+
+**9. Realisation and repatriation of foreign exchange**- Realisation and repatriation of foreign exchange due or accruing to an eligible entity resulting from permitted transactions under this direction shall be guided by the provisions of the Foreign Exchange Management (Realisation, repatriation and surrender of foreign exchange) Regulations, 2015.
+**10. Report to Reserve Bank**- Banks shall submit a quarterly report to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, in the format provided in Annexure I in the form of an excel file to <u>email</u>. In case of no transactions, a “Nil” report may be submitted by the bank.
+
+<!-- PAGE 7 -->
+
+## Annexure I
+
+**Report – Hedging of Commodity Price Risk and Freight Risk in Overseas Markets during the Quarter ending _____**
+
+## Name of the Authorised Dealer:
+
+**1.**
+
+|Commodity||Exposure (Quantity)||Hedges Booked (Quantity)|Gross Outflow (USD Million)|Gross Inflow (USD Million)|
+|---|---|---|---|---|---|---|
+||Direct|Indirect|OTC|Exchanges|||
+
+## 2. Total outstanding SBLCs / Guarantees issued for hedging of commodity price risk:
+
+## SBLCs outstanding Guarantees
+
+## (USD Million) outstanding(USD Million)
+
+## 3. SBLCs / Guarantees invoked by the overseas counterparty (Customer wise):
+
+## Date Customer SBLC / Guarantee Amount invoked (USD Million)
