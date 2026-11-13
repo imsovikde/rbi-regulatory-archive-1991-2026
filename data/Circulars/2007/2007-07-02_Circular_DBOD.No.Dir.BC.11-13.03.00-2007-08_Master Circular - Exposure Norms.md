@@ -1,0 +1,636 @@
+---
+doc_id: "Circulars_2007_DBOD_No_Dir_BC_11_13_03_00_2007-08"
+title: "Master Circular - Exposure Norms"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78411.PDF"
+pdf_sha256: "a593177d165590cfd70f52fbd0a8d4db7fb38b2386f3728a56a867ba01ce5dd1"
+md_sha256: "4f205397926ac311ac7f49ad6da04109591a64551d962a3d8db22f9f10ae0646"
+total_pages: 31
+native_pages: 31
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:58:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-07-02_Circular_DBOD.No.Dir.BC.11-13.03.00-2007-08_Master%20Circular%20-%20Exposure%20Norms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Exposure Norms
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/45 DBOD No. Dir. BC. 11/13.03.00/ 2007-08
+
+## July 2, 2007
+
+## Aashadha 11, 1929(Saka)
+
+## All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Master Circular – Exposure Norms</u>
+
+Please refer to the Master Circular DBOD No. Dir. BC. 33/13.03.00/2006-07 dated October 10, 2006 consolidating the instructions / guidelines issued to banks till that date relating to Exposure Norms. The Master Circular has been suitably updated by incorporating the instructions issued up to **June 30, 2007** and has also been placed on the RBI website **([http://www.rbi.org.in](http://www.rbi.org.in)).**
+
+Yours faithfully,
+
+# Withdrawn
+
+## (P. Vijaya Bhaskar) Chief General Manager
+
+<!-- PAGE 2 -->
+
+## TABLE OF CONTENTS
+
+1. General	4
+2. Credit Exposures to Individual / Group Borrowers	4
+2.1 Ceilings	4
+2.2 Exemptions	5
+2.3 Definitions	6
+2.4 Review	9
+3. Credit Exposure to Industry or Certain Sectors	10
+3.1 Internal Exposure Limits	10
+3.2 Exposure to Leasing, Hire Purchase and Factoring Services	11
+3.3 Exposure to Indian JVs / Wholly Owned Subsidiaries Abroad	11
+and Overseas Step-Down Subsidiaries of Indian Corporates
+4. Banks' Exposure to Capital Market – Rationalisation of Norms	12
+4.1 Components of Capital Market Exposure (CME)	12
+4.2 Limits on Banks’ Exposure to Capital Markets	13
+4.3 Definition of Net Worth	14
+4.4 Items excluded from Capital Market Exposure	15
+4.5 Computation of exposure	16
+4.6 Intra-day Exposures	16
+4.7 Enhancement in limits	16
+5. Financing of equities and investments in shares	16
+5.1 Advances against shares to individuals	16
+5.2 Financing of Initial Public Offerings (IPOs)	17
+5.3 Bank finance to assist employees to	17
+buy shares of their own companies
+5.4 Advances against shares to Stock Brokers & Market Makers	17
+5.5 Bank financing to individuals against shares	18
+to joint holders or third party beneficiaries
+5.6 Advances against units of mutual funds	18
+5.7 Advances to other borrowers	19
+against shares/debentures/bonds
+5.8 Bank Loans for Financing Promoters' Contributions	19
+5.9 Bridge Loans	20
+5.10 Investments in Venture Capital Funds (VCFs)	20
+5.11 Margins on advances against shares/ issue of guarantees	20
+5.12 Disinvestment programme of the Government of India	20
+5.13 Refinance scheme of Export Import bank of India (EXIM Bank)	21
+5.14 Arbitrage Operations	21
+5.15 Margin Trading	21
+6. Risk Management and Internal Control System	22
+6.1 Investment Policy	22
+6.2 Investment Committee	22
+6.3 Risk Management	23
+6.4 Audit Committee	23
+
+Withdrawn
+
+<!-- PAGE 3 -->
+
+|7.|Valuation and Disclosure|24|
+|---|---|---|
+|8.|Cross holding of capital among banks / financial institutions|24|
+|9.|Banks' Exposure to Commodity Markets – Margin Requirements|24|
+|10.|Limits on exposure to unsecured guarantees and unsecured advances|25|
+|11. 12. Annex|'Safety Net' Schemes for Public Issues of Shares, Debentures, etc. Annex 1 - Definition of infrastructure lending and list of items included under infrastructure sector Annex 2 - List of All-India Financial Institutions guaranteeing bonds of corporates Annex 3 - List of All-India Financial Institutions whose instruments are exempted from Capital Market Exposure ceiling Annex 4 - List of circulars consolidated|25 27 29 30 31|
+
+Withdrawn
+
+<!-- PAGE 4 -->
+
+# MASTER CIRCULAR ON EXPOSURE NORMS
+
+## 1. General
+
+As a prudential measure aimed at better risk management and avoidance of concentration of credit risks, the Reserve Bank of India has advised the banks to fix limits on their exposure to specific industry or sectors and has prescribed regulatory limits on banks’ exposure to individual and group borrowers in India. In addition, banks are also required to observe certain statutory and regulatory exposure limits in respect of advances against / investments in shares, debentures and bonds.
+
+## 2. Credit Exposures to Individual/Group Borrowers
+
+## 2.1 Ceilings
+
+**2.1.1** The exposure ceiling limits would be 15 percent of capital funds in case of a single borrower and 40 percent of capital funds in the case of a borrower group. The capital funds for the purpose will comprise of Tier I and Tier II capital as defined under capital adequacy standards (please also refer to para 2.3.5 of this Master Circular).
+**5.4.1** Credit exposure to a single borrower may exceed the exposure norm of 15 percent of the bank's capital funds by an additional 5 percent (i.e. up to 20 percent) provided the additional credit exposure is on account of extension of credit to infrastructure projects. CrWithdrawnedit exposure to borrowers belonging to a group may exceed the exposure norm of 40 percent of the bank's capital funds by an additional 10 percent (i.e., up to 50 percent), provided the additional credit exposure is on account of extension of credit to infrastructure projects. The definition of infrastructure lending and the list of items included under infrastructure sector are furnished in **Annex 1**.
+**2.1.3** In addition to the exposure permitted under paragraphs 2.1.1 and 2.1.2 above, banks may, in exceptional circumstances, with the approval of their Boards, consider enhancement of the exposure to a borrower up to a further 5 percent of capital funds.
+**1.0.0** The bank should make appropriate disclosures in the ‘Notes on account’ to the annual financial statements in respect of the exposures where the bank had exceeded the prudential exposure limits during the year.
+
+<!-- PAGE 5 -->
+
+## 2.1.5 Exposures to NBFCs
+
+The exposure (both lending and investment, including off balance sheet exposures) of a bank to a single NBFC / NBFC-AFC (Asset Financing Companies) should not exceed 10% / 15% respectively, of the bank's capital funds as per its last audited balance sheet. Banks may, however, assume exposures on a single NBFC / NBFC-AFC up to 15%/20% respectively, of their capital funds provided the exposure in excess of 10%/15% respectively, is on account of funds on-lent by the NBFC / NBFC- AFC to the infrastructure sector. Further, banks may also consider fixing internal limits for their aggregate exposure to all NBFCs put together. Infusion of capital funds after the published balance sheet date may also be taken into account for the purpose of reckoning capital funds. Banks should obtain an external auditor’s certificate on completion of the augmentation of capital and submit the same to the Reserve Bank of India (Department of Banking Supervision) before reckoning the additions to capital funds.
+
+## 2.1.6 Lending under Consortium Arrangements
+
+The exposure limits will also be applicable to lending under consortium arrangements.
+
+## 2.1. 7 Bills discounted under Letter of Credit (LC)
+
+Bills purchased / discounted / negotiated under LC (where the payment to the beneficiary is not made 'under reserve') will be treated as an exposure on the LC issuing bank and not on the borrower. In the case of negotiations ' under reserve' the exposure should be treated as on the borrower.
+
+# Withdrawn
+
+## 2.2 Exemptions
+
+## 2.2.1 Rehabilitation of Sick/Weak Industrial Units
+
+The ceilings on single/group exposure limits are not applicable to existing/additional credit facilities (including funding of interest and irregularities) granted to weak/sick industrial units under rehabilitation packages.
+
+## 2.2.2 Food credit
+
+Borrowers, to whom limits are allocated directly by the Reserve Bank for food credit, will be exempt from the ceiling.
+
+## 1.1.1 Guarantee by the Government of India
+
+The ceilings on single /group exposure limit would not be applicable where principal and interest are fully guaranteed by the Government of India.
+
+<!-- PAGE 6 -->
+
+## 2.2.4 Loans against Own Term Deposits
+
+Loans and advances (both funded and non-funded facilities) granted against the security of a bank’s own term deposits may not be reckoned for computing the exposure to the extent that the bank has a specific lien on such deposits.
+
+## 2.3 Definitions
+
+## 2.3.1 Exposure
+
+Exposure shall include credit exposure (funded and non-funded credit limits) and investment exposure (including underwriting and similar commitments). The sanctioned limits or outstandings, whichever are higher, shall be reckoned for arriving at the exposure limit. However, in the case of fully drawn term loans, where there is no scope for re-drawal of any portion of the sanctioned limit, banks may reckon the outstanding as the exposure.
+
+## 2.3.2 Measurement of Credit Exposure of Derivative Products
+
+Derivative products such as Forward Rate Agreements and Interest Rate Swaps are also captured for computing exposure by applying the conversion factors to notional principal amounts. Banks should also include forward contracts in foreign exchange and other derivative products like Currency Swaps, options etc. at their replacement cost value in determining individual / group borrower exposure. The methodology to be adopted by banks for arriving at the replacement cost value is given below.
+
+Banks may adopt, either of the two methods viz. (i) Original Exposure Method, and (ii) Current Exposure Method, consistently, for all derivative Withdrawn products such as Forward Rate Agreements (FRAs) and Interest Rate Swaps (IRSs), forward contracts in foreign exchange and other derivative products like currency swaps, options, etc., in determining individual / group borrower exposure.
+
+Under the Original Exposure Method, credit exposure is calculated at the beginning of the derivative transaction by multiplying the notional principal amount with a conversion factor. In order to arrive at the credit equivalent amount using the Original Exposure Method, a bank would apply the following credit conversion factors to the notional principal amounts of each instrument according to the nature of the instrument and its original maturity:
+
+<!-- PAGE 7 -->
+
+## Original Maturity Conversion factor to be applied on Notional Principal Amount
+
+Interest Rate Exchange Rate Contract Contract Less than one year 0.5% 2.0% One year and less than 1.0% 5.0%(2% +3%) two years <u>For each additional year 1.0% 3.0%</u>
+
+The other method (Current Exposure Method) to assess the exposure on account of credit risk on interest rate and exchange rate derivative contracts is to calculate periodically the current replacement cost by marking these contracts to market, thus capturing the current exposure without any need for estimation and then adding a factor (“add-on”) to reflect the potential future exposure over the remaining life of the contract. Therefore, in order to calculate the credit exposure equivalent of off-balance sheet interest rate and exchange rate instruments under Current Exposure Method, a bank would sum: (ii) the total of replacement cost (obtained by “marking to market”) of all its contracts with positive value (i.e. when the bank has to receive money from the counter party), and (ii) an amount for potential future changes in credit exposure calculated on the basis of the total notional principal amount of the contract multiplied by the following credit conversion factors according to the residual maturity:
+
+# Withdrawn
+
+## Residual Maturity Conversion factor to be applied on
+
+## Notional Principal amount
+
+## Interest Rate Exchange Rate
+
+## Contract Contract
+
+Less than one year Nil 1.0%
+
+## One year and over 0.5% 5.0%
+
+Banks should mark to market the derivative products at least on a monthly basis and they may follow their internal methods of determining the marked to market value of the derivative products.
+
+Banks would not be required to calculate potential credit exposure for single currency floating / floating interest rate swaps. The credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value.
+
+<!-- PAGE 8 -->
+
+Banks are encouraged to follow the Current Exposure Method, which is an accurate method of measuring credit exposure in a derivative product. In case a bank is not in a position to adopt the Current Exposure method, it may follow the Original Exposure Method. However, its endeavour should be to move over to the Current Exposure Method in course of time.
+
+## 1.1.1 Credit Exposure
+
+Credit exposure comprises of the following elements:
+
+(a) all types of funded and non-funded credit limits.
+(b) facilities extended by way of equipment leasing, hire purchase finance and factoring services.
+## 2.3.4 Investment Exposure
+
+Investment exposure comprises of the following elements:
+
+|(b)|investments in shares and debentures of companies.|
+|---|---|
+|(c)|investment in PSU bonds|
+|(d)|investments in Commercial Papers (CPs).|
+|(d)|Banks’ / FIs’ investments in debentures/ bonds / security receipts /|
+
+pass-through certificates (PTCs) issued by a SC / RC as compensation consequent upon sale of financial assets will constitute exposure on the SC / RC. In view of the extraordinary nature of the event, banks / FIs will be allowed, in the initial years, to exceed the prudential exposure ceiling on a case-to-case basis.Withdrawn
+
+The investment made by the banks in bonds and debentures of corporates 1 which are guaranteed by a PFI (as per list given in **Annex 2**) will be treated as an exposure by the bank on the PFI and not on the corporate.
+
+1 With the merger of ICICI Ltd. with ICICI Bank Ltd. effective from 30.03.2002, the entire liabilities of ICICI Ltd. have been taken over by ICICI Bank Ltd. As per the scheme of merger all loans and guarantee facilities to ICICI Ltd. provided by Government would be transferred to the merged entity. Similarly, the investments made in erstwhile ICICI Ltd. by banks would be treated outside the ceiling of 40% till redemption.
+
+1 With the merger of IDBI Bank Ltd. with IDBI Ltd., effective April 2, 2005, the entire liabilities of the erstwhile IDBI Bank Ltd. have been taken over by the new, combined entity Industrial Development Bank of India Ltd. Therefore, for the purpose of exposure norms, investments made by the banks in the bonds and debentures of corporates guaranteed by the erstwhile IDBI Ltd. would continue to be treated as an exposure of the banks on IDBI Ltd. and not on the corporates, till redemption. Similarly, investments made in the erstwhile IDBI Ltd. by banks would be treated as outside the capital market exposure ceiling of 40%, till redemption.
+
+<!-- PAGE 9 -->
+
+Guarantees issued by the PFI to the bonds of corporates will be treated as an exposure by the PFI to the corporates to the extent of 50 percent, being a non-fund facility, whereas the exposure of the bank on the PFI guaranteeing the corporate bond will be 100 percent. The PFI before guaranteeing the bonds/debentures should, however, take into account the overall exposure of the guaranteed unit to the financial system.
+
+## 2.3.5 Capital Funds
+
+Capital funds for the purpose will comprise of Tier I and Tier II capital as defined under capital adequacy standards and as per the published accounts as on March 31 of the previous year. The infusion of capital under Tier I and Tier II, either through domestic or overseas issue, after the published balance sheet date will also be taken into account for determining the exposure ceiling. Other accretion to capital funds by way of quarterly profits etc. would not be eligible to be reckoned for determining the exposure ceiling. Banks are also prohibited from taking exposure in excess of the ceiling in anticipation of infusion of capital at a future date.
+
+## 2.3.6 Group
+
+The concept of 'Group' and the task of identification of the borrowers belonging to specific industrial groups is left to the perception of the banks/financial institutions. Banks/financial institutions are generally aware of the basic constitution of their clientele for the purpose of regulating their exposure to risk assets. The group to which a particular borrowing unit belongs, may, therefore, be decided by them on the basis of the relevant information available with them, the guiding principle being commonality of Withdrawn management and effective control.
+
+In the case of a split in the group, if the split is formalised the splinter groups will be regarded as separate groups. If banks and financial institutions have doubts about the bona fides of the split, a reference may be made to RBI for its final view in the matter to preclude the possibility of a split being engineered in order to prevent coverage under the Group Approach.
+
+## 1.2 Review
+
+An annual review of the implementation of exposure management measures may be placed before the Board of Directors before the end of June.
+
+<!-- PAGE 10 -->
+
+## 3. CREDIT EXPOSURE TO INDUSTRY AND CERTAIN SECTORS
+
+## 3.1 Internal Exposure Limits
+
+## 3.1.1 Fixing of Sectoral Limits
+
+Apart from limiting the exposures to an individual or a Group of borrowers, as indicated above, banks may also consider fixing internal limits for aggregate commitments to specific sectors, e.g. textiles, jute, tea, etc., so that the exposures are evenly spread over various sectors. These limits could be fixed by the banks having regard to the performance of different sectors and the risks perceived. The limits so fixed may be reviewed periodically and revised, as necessary.
+
+## 3.1.2 Exposure to Real Estate
+
+(i) Banks should frame comprehensive prudential norms relating to the ceiling on the total amount of real estate loans, single/group exposure limits for such loans, margins, security, repayment schedule and availability of supplementary finance and the policy should be approved by the banks' Boards. (iii) While appraising loan proposals involving real estate, banks should ensure that the borrowers have obtained prior permission from government / local governments / other statutory authorities for the project, wherever required. In order that the loan approval process is not hampered on
+# Withdrawn
+
+account of this, while the proposals could be sanctioned in the normal course, the disbursements should be made only after the borrower has obtained requisite clearances from the government authorities. Banks' Boards may also consider incorporation of aspects relating to adherence to National Building Code (NBC) in their policies on exposure to real estate. The information regarding the NBC can be accessed from the website of Bureau of Indian Standards (<u>www.bis.org.in</u>).
+
+(iii) The exposure of banks to entities for setting up Special Economic Zones (SEZs) or for acquisition of units in SEZs which includes real estate would be treated as exposure to commercial real estate sector and banks would have to make provisions, as also assign appropriate risk weights for such exposures, as per the existing guidelines.
+
+(iv) While framing the bank's policy, the guidelines issued by the Reserve Bank should be taken into account. Banks should ensure that the bank credit is used for productive construction activity and not for any activity connected with speculation in real estate.
+
+<!-- PAGE 11 -->
+
+## 3.2 Exposure to Leasing, Hire Purchase and Factoring Services
+
+**3.2.1** Banks should maintain a balanced portfolio of equipment leasing, hire purchase and factoring services vis-à-vis the aggregate credit. Their exposure to each of these activities should not exceed 10 percent of total advances.
+## 3.3 Exposure to Indian Joint Ventures/Wholly-owned Subsidiaries Abroad and Overseas Step-down Subsidiaries of Indian Corporates
+
+**1.1.1** Banks are allowed to extend credit/non-credit facilities (viz. letters of credit and guarantees) to Indian Joint Ventures/Wholly-owned Subsidiaries abroad and step-down subsidiaries which are wholly owned by the overseas subsidiaries of Indian Corporates. Banks are also permitted to provide at their discretion, buyer's credit/acceptance finance to overseas parties for facilitating export of goods & services from India.
+**1.1.2** The above exposure will, however, be subject to a limit of 20 percent of banks’ unimpaired capital funds (Tier I and Tier II capital), subject to the following conditions:
+i. Loan will be granted only to those joint ventures where the holding by the Indian company is more than 51%. ii. Proper systems for management ofWithdrawn credit and interest rate risks arising out of such cross border lending are in place. iii. While extending such facilities, banks will have to comply with Section 25 of the Banking Regulation Act, 1949, in terms of which the assets in India of every banking company at the close of business on the last Friday of every quarter shall not be less than 75 percent of its demand and time liabilities in India. In other words, aggregate assets outside India should not exceed 25 percent of the bank's demand and time liabilities in India. iv. The resource base for such lending should be funds held in foreign currency accounts such as FCNR(B), EEFC, RFC, etc. in respect of which banks have to manage exchange risk.
+v. Maturity mismatches arising out of such transactions are within the overall gap limits approved by RBI. vi. Adherence to all existing safeguards / prudential guidelines relating to capital adequacy, exposure norms etc. applicable to domestic credit / non-credit exposures.
+
+<!-- PAGE 12 -->
+
+vii. The set up of the step-down subsidiary should be such that banks can effectively monitor the facilities granted by them.
+
+Further, the loan policy for such credit / non-credit facility should be, inter alia, in keeping with the following:
+
+(a) Grant of such loans is based on proper appraisal and commercial viability of the projects and not merely on the reputation of the promoters backing the project. Non-fund based facilities should be subjected to the same rigorous scrutiny as fund-based limits.
+(b) The countries where the joint ventures / wholly owned subsidiaries are located should have no restrictions applicable to these companies in regard to obtaining foreign currency loans or for repatriation, etc. and should permit non-resident banks to have legal charge on securities / assets abroad and the right of disposal in case of need.
+(c) Banks should also comply with all existing safeguards/prudential guidelines relating to capital adequacy, and exposure norms indicated in paragraph 2.1, ibid.
+## 4. Banks’ Exposure to Capital Markets – Rationalisation of Norms
+
+As announced in the Mid-Term Review of Annual Policy Statement for the year 2005-2006, the prudential capital market exposure norms prescribed for banks have been rationalized in terms of base and coverage. Accordingly, the existing guidelines on banks’ exposure to capital markets were modified and the revised guidelines, which
+
+# Withdrawn
+
+came into effect from **April** **1, 2007**, are as under.
+
+## 4.1 Components of Capital Market Exposure (CME)
+
+Banks' capital market exposures would include both their direct exposures and indirect exposures. The aggregate exposure (both fund and non-fund based) of banks to capital markets in all forms would **include** the following:
+
+i. direct investment in equity shares, convertible bonds, convertible debentures and units of equity-oriented mutual funds the corpus of which is not exclusively invested in corporate debt; ii. advances against shares/bonds/debentures or other securities or on clean basis to individuals for investment in shares (including IPOs/ESOPs), convertible bonds, convertible debentures, and units of equity-oriented mutual funds; *iii.* advances for any other purposes where shares or convertible bonds or convertible debentures or units of equity oriented mutual funds are taken
+
+<!-- PAGE 13 -->
+
+as primary security*;*
+
+iv. advances for any other purposes to the extent secured by the collateral security of shares or convertible bonds or convertible debentures or units of equity oriented mutual funds i.e. where the primary security other than shares/convertible bonds/convertible debentures/units of equity oriented mutual funds does not fully cover the advances;
+
+v. secured and unsecured advances to stockbrokers and guarantees issued on behalf of stockbrokers and market makers; vi. loans sanctioned to corporates against the security of shares / bonds/ debentures or other securities or on clean basis for meeting promoter’s contribution to the equity of new companies in anticipation of raising resources; vii. bridge loans to companies against expected equity flows/issues; viii. underwriting commitments taken up by the banks in respect of primary issue of shares or convertible bonds or convertible debentures or units of equity oriented mutual funds; ix. financing to stockbrokers for margin trading;
+x. all exposures to Venture Capital Funds (both registered and unregistered).
+## 1.0 Limits on Banks’ Exposure to Capital Markets
+
+## 4.2.1 Statutory limit on shareholding in companies
+
+# Withdrawn
+
+In terms of Section 19(2) of the Banking Regulation Act, 1949, no banking company shall hold shares in any company, whether as pledgee, mortgagee or absolute owner, of an amount exceeding 30 percent of the paid-up share capital of that company or 30 percent of its own paid-up share capital and reserves, whichever is less, except as provided in sub-section (1) of Section 19 of the Act. Shares held in demat form should also be included for the purpose of determining the exposure limit. This is an aggregate holding limit for each company. While granting any advance against shares, underwriting any issue of shares, or acquiring any shares on investment account or even in lieu of debt of any company, these statutory provisions should be strictly observed.
+
+<!-- PAGE 14 -->
+
+## 4.2.2 Regulatory Limit
+
+## 4.2.2.1 Solo Basis
+
+The aggregate exposure of a bank to the capital markets in all forms (both fund based and non-fund based) should not exceed 40 per cent of its net worth (as defined in para 4.3), as on March 31 of the previous year. Within this overall ceiling, the bank’s direct investment in shares, convertible bonds / debentures, units of equity-oriented mutual funds and all exposures to Venture Capital Funds (VCFs) [both registered and unregistered] should not exceed 20 per cent of its net worth.
+
+## 4.2.2.2 Consolidated Basis
+
+The aggregate exposure of a consolidated bank to capital markets (both fund based and non-fund based) should not exceed 40 per cent of its consolidated net worth as on March 31 of the previous year. Within this overall ceiling, the aggregate direct exposure by way of the consolidated bank’s investment in shares, convertible bonds / debentures, units of equity- oriented mutual funds and all exposures to Venture Capital Funds (VCFs) [both registered and unregistered] should not exceed 20 per cent of its consolidated net worth.
+
+**Note** For the purpose of application of prudential norms on a group-wise basis, a 'consolidated bank' is defined as a group of entities, which include a licensed bank, which may orWithdrawnmay not have subsidiaries.
+
+**4.2.2.3**The above-mentioned ceilings (para 4.2.2.1 and 4.2.2.2) are the maximum permissible and a bank’s Board of Directors is free to adopt a lower ceiling for the bank, keeping in view its overall risk profile and corporate strategy. Banks are required to adhere the ceilings on an ongoing basis.
+## 4.3 Definition of Net Worth
+
+Net worth would comprise of Paid-up capital plus Free Reserves including Share Premium but excluding Revaluation Reserves, plus Investment Fluctuation Reserve and credit balance in Profit & Loss account, less debit balance in Profit and Loss account, Accumulated Losses and Intangible Assets. No general or specific provisions should be included in computation of net worth. Infusion of capital through equity shares, either through domestic issues or overseas floats after the published balance sheet date, may also be taken into account for determining the ceiling on exposure to capital market. Banks should obtain an external auditor’s certificate on completion of the augmentation of capital and submit the same to the
+
+<!-- PAGE 15 -->
+
+Reserve Bank of India (Department of Banking Supervision) before reckoning the additions, as stated above.
+
+## 4.4 Items excluded from Capital Market Exposure
+
+The following items would be excluded from the aggregate exposure ceiling of 40 per cent of net worth and direct investment exposure ceiling of 20 per cent of net worth (wherever applicable) :
+
+i. Banks’ investments in own subsidiaries, joint ventures, sponsored Regional Rural Banks (RRBs) and investments in shares and convertible debentures, convertible bonds issued by institutions forming crucial financial infrastructure such as National Securities Depository Ltd. (NSDL), Central Depository Services (India) Ltd. (CDSL), National Securities Clearing Corporation Ltd. (NSCCL), National Stock Exchange (NSE), Clearing Corporation of India Ltd., (CCIL), Credit Information Bureau of India Ltd. (CIBIL), Multi Commodity Exchange Ltd. (MCX), National Commodity and Derivatives Exchange Ltd. (NCDEX), National Multi-Commodity Exchange of India Ltd. (NMCEIL), National Collateral Management Services Ltd. (NCMSL) and other All India Financial Institutions as given in **Annex 3**. After listing, the exposures in excess of the original investment (i.e. prior to listing) would form part of the Capital Market Exposure. ii. Tier I and Tier II debt instruments issued by other banks; iii. Investment in Certificate of Deposits (CDs) of other banks; Withdrawn iv. Preference Shares;
+v. Non-convertible debentures and non-convertible bonds; vi. Units of Mutual Funds under schemes where the corpus is invested exclusively in debt instruments; vii. Shares acquired by banks as a result of conversion of debt/overdue interest into equity under Corporate Debt Restructuring (CDR) mechanism; viii Term loans sanctioned to Indian promoters for acquisition of equity in overseas joint ventures / wholly owned subsidiaries under the refinance scheme of Export Import Bank of India (EXIM Bank).
+
+<!-- PAGE 16 -->
+
+## 4.5 Computation of exposure
+
+For computing the exposure to the capital markets, loans/advances sanctioned and guarantees issued for capital market operations would be reckoned with reference to sanctioned limits or outstanding, whichever is higher. However, in the case of fully drawn term loans, where there is no scope for re-drawal of any portion of the sanctioned limit, banks may reckon the outstanding as the exposure. Further, banks’ direct investment in shares, convertible bonds, convertible debentures and units of equity- oriented mutual funds would be calculated at their cost price.
+
+## 4.6 Intra-day Exposures
+
+At present, there are no explicit guidelines for monitoring banks’ intra-day exposure to the capital markets, which are inherently risky. It has been decided that the Board of each bank should evolve a policy for fixing intra- day limits and put in place an appropriate system to monitor such limits, on an ongoing basis. The position will be reviewed after an year.
+
+4.7 Enhancement in limits Banks having sound internal controls and robust risk management systems can approach the Reserve Bank for higher limits together with details thereof.
+# Withdrawn
+
+## 5. Financing of equities and investments in shares
+
+## 5.1 Advances against shares to individuals
+
+Loans against security of shares, convertible bonds, convertible debentures and units of equity oriented mutual funds to individuals from the banking system should not exceed the limit of Rs.10 lakh per individual if the securities are held in physical form and Rs. 20 lakhs per individual if the securities are held in demat form. Such loans are meant for genuine individual investors and banks should not support collusive action by a large group of individuals belonging to the same corporate or their inter- connected entities to take multiple loans in order to support particular scrips or stock-broking activities of the concerned firms. Such finance should be reckoned as an exposure to capital market. Banks should formulate, with the approval of their Board of Directors, a Loan Policy for granting advances to individuals against shares, debentures, and bonds keeping in view the RBI guidelines. As a prudential measure, banks may also consider laying
+
+<!-- PAGE 17 -->
+
+down appropriate aggregate sub-limits of such advances.
+
+## 5.2 Financing of Initial Public Offerings (IPOs)
+
+Banks may grant advances to individuals for subscribing to IPOs. Loans/advances to any individual from the banking system against security of shares, convertible bonds, convertible debentures, units of equity oriented mutual funds and PSU bonds should not exceed the limit of Rs.10 lakh for subscribing to IPOs. The corporates should not be extended credit by banks for investment in other companies’ IPOs. Similarly, banks should not provide finance to NBFCs for further lending to individuals for IPOs. Finance extended by a bank for IPOs should be reckoned as an exposure to capital market.
+
+## 5.3 Bank finance to assist employees to buy shares of their own companies
+
+Banks may extend finance to employees for purchasing shares of their own companies under Employees Stock Option Plan(ESOP) to the extent of 90% of the purchase price of the shares or Rs.20 lakh, whichever is lower. Finance extended by banks for ESOPs would be treated as an exposure to capital market within the overall ceiling of 40 per cent of their net worth. These instructions will not be applicable for extending financial assistance by banks to their own employees for acquisition of shares under ESOPs/ IPOs, as banks are not allowed to extend advances including advances to
+
+# Withdrawn
+
+their employees / Employees' Trusts set up by them for the purpose of purchasing their own banks' shares under ESOPs / IPOs or from the secondary market. This prohibition will apply irrespective of whether the advances are secured or unsecured.
+
+**5.3.1** Banks should obtain a declaration from the borrower indicating the details of the loans / advances availed against shares and other securities specified above, from any other bank/s in order to ensure compliance with the ceilings prescribed for the purpose.
+## 1.0 Advances against shares to Stock Brokers & Market Makers
+
+Banks are free to provide credit facilities to stockbrokers and market makers on the basis of their commercial judgment, within the policy framework approved by their Boards. However, in order to avoid any nexus emerging between inter-connected stock broking entities and banks, the Board of each bank should fix, within the overall ceiling of 40 percent of their net worth as on March 31 of the previous year, a sub-ceiling for total advances
+
+<!-- PAGE 18 -->
+
+to –
+
+i. all the stockbrokers and market makers (both fund based and non- fund based, i.e. guarantees); and ii. to any single stock broking entity, including its associates/ inter- connected companies. Further, banks should not extend credit facilities directly or indirectly to stockbrokers for arbitrage operations in Stock Exchanges**.**
+## 2.0 Bank financing to individuals against shares to joint holders or third party beneficiaries
+
+While granting advances against shares held in joint names to joint holders or third party beneficiaries, banks should be circumspect and ensure that the objective of the regulation is not defeated by granting advances to other joint holders or third party beneficiaries to circumvent the above limits placed on loans/advances against shares and other securities specified above.
+
+## 5.6 Advances against units of mutual funds
+
+While granting advances against units of mutual funds, the banks should adhere to the following guidelines:
+
+i) The units should be listed inWithdrawnthe stock exchanges or repurchase facility for the units should be available at the time of lending. ii) The units should have completed the minimum lock-in-period stipulated in the relevant scheme. iii) The amount of advances should be linked to the Net Asset Value (NAV) / repurchase price or the market value, whichever is less and not to the face value of the units. iv) Advances against units of mutual funds (except units of exclusively debt oriented mutual funds) would attract the quantum and margin requirements as are applicable to advances against shares and debentures. However, the quantum and margin requirement for loans/ advances to individuals against units of exclusively debt-oriented mutual funds may be decided by individual banks themselves in accordance with their loan policy.
+v) The advances should be purpose oriented taking into account the credit requirement of the investor. Advances should not be granted for subscribing to or boosting up the sales of another scheme of a mutual
+
+<!-- PAGE 19 -->
+
+fund or for the purchase of shares/ debentures/ bonds etc.
+
+## 5.7 Advances to other borrowers against shares/debentures/bonds
+
+The question of granting advances against primary security of shares and debentures including promoters’ shares to industrial, corporate or other borrowers should not normally arise. However, such securities can be accepted as collateral for secured loans granted as working capital or for other productive purposes from borrowers other than NBFCs. In such cases, banks should accept shares only in dematerialised form. Banks may accept shares of promoters only in dematerialised form wherever demat facility is available.
+
+In the course of setting up of new projects or expansion of existing business or for the purpose of raising additional working capital required by units other than NBFCs, there may be situations where such borrowers may not able to find the required funds towards margin, in anticipation of mobilising of long-term resources. In such cases, there would be no objection to the banks’ obtaining collateral security of shares and debentures by way of margin. Such arrangements would be of a temporary nature and may not be continued beyond a period of one year. Banks have to satisfy themselves regarding the capacity of the borrower to raise the required funds and to repay the advance within the stipulated period.
+
+# Withdrawn
+
+## 5.8 Bank Loans for Financing Promoters' Contributions
+
+**5.8.1** Loans sanctioned to corporates against the security of shares (as far as possible, demat shares) for meeting promoters' contribution to the equity of new companies in anticipation of raising resources, should be treated as a bank’s investments in shares which would thus come under the ceiling of 40 percent of the bank's net worth as on March 31 of the previous year prescribed for the bank’s total exposure including both fund based and non- fund based to capital market in all forms.
+**1.0.0** These loans will also be subject to individual/group of borrowers exposure norms as well as the statutory limit on shareholding in companies, as detailed above.
+
+<!-- PAGE 20 -->
+
+## 2.0.0
+
+## 5.9 Bridge Loans
+
+**5.9.1** Banks have been permitted to sanction bridge loans to companies for a period not exceeding one year against expected equity flows/issues. Such loans should be included within the ceiling of 40 percent of the banks’ net worth as on March 31 of the previous year prescribed for total exposure, including both fund-based and non-fund based exposure to capital market in all forms.
+**5.9.2** Banks should formulate their own internal guidelines with the approval of their Board of Directors for grant of such loans, exercising due caution and attention to security for such loans.
+**5.9.3** Banks may also extend bridge loans against the expected proceeds of Non- Convertible Debentures, External Commercial Borrowings, Global Depository Receipts and/or funds in the nature of Foreign Direct Investments, provided the banks are satisfied that the borrowing company has already made firm arrangements for raising the aforesaid resources/funds.
+## 5.10 Investments in Venture Capital Funds (VCFs)
+
+As announced in the Annual Policy Statement for the year 2006-2007 and advised in our circulars DBOD.BP.BC.84 & 27/21.01.002/2005-2006 dated May 25 and August 23, 2006 respective
+
+# Withdrawn
+
+ly, banks’ exposures to VCFs (both registered and unregistered) will be deemed to be on par with equity and hence will be reckoned for compliance with the capital market exposure ceilings (both direct and indirect).
+
+## 5.11 Margins on advances against shares/ issue of guarantees
+
+A uniform margin of 50 per cent shall be applied on all advances / financing of IPOs / issue of guarantees on behalf of stockbrokers and market markers. A minimum cash margin of 25 per cent (within the margin of 50%) shall be maintained in respect of guarantees issued by banks for capital market operations.
+
+## 5.12 Disinvestment Programme of the Government of India
+
+In the context of the Government of India’s programme of disinvestments of its holdings in some public sector undertakings (PSUs), banks can extend finance to the successful bidders for acquisition of shares of these PSUs. If
+
+<!-- PAGE 21 -->
+
+on account of banks’ financing acquisition of PSU shares under the Government of India’s disinvestment programmes, any bank is likely to exceed the regulatory ceiling of 40 per cent of its net worth as on March 31 of the previous year, such requests for relaxation of the ceiling would be considered by RBI on a case by case basis, subject to adequate safeguards regarding margin, bank’s overall exposure to capital market, internal control and risk management systems, etc. The relaxation would be considered in such a manner that the bank’s exposure to capital market in all forms, net of its advances for financing of acquisition of PSU shares, shall be within the regulatory ceiling of 40 per cent. RBI would also consider relaxation on specific requests from banks in the individual / group credit exposure norms on a case by case basis, provided that the bank’s total exposure to the borrower, net of its exposure due to acquisition of PSU shares under the Government of India disinvestments programme, should be within the prudential individual/ group borrower exposure ceiling prescribed by RBI.
+
+## 5.13 Refinance scheme of Export Import Bank of India (EXIM Bank)
+
+Under the refinance scheme of Export Import Bank of India (EXIM Bank), the banks may sanction term loans on merits of eligible Indian promoters for acquisition of equity in overseas joint ventures / wholly owned subsidiaries, provided that the term loans have been approved by the EXIM Bank for refinance. Further, the banks may extend financial assistance to Indian companies for acquisition of equity in overseas joint ventures / wholly owned subsidiaries or in other overseas companies, new or existing, as strategic investment,Withdrawnin terms of a Board approved policy duly incorporated in the Loan Policy of the banks. Such policy should include overall limit on such financing, terms and conditions of eligibility of borrowers, security, margin, etc.
+
+## 5.14 Arbitrage Operations
+
+Banks should not undertake arbitrage operations themselves or extend credit facilities directly or indirectly to stockbrokers for arbitrage operations in Stock Exchanges. While banks are permitted to acquire shares from the secondary market, they should ensure that no sale transaction is undertaken without actually holding the shares in their investment accounts.
+
+## 5.15 Margin Trading
+
+Banks may extend finance to stockbrokers for margin trading. The Board of each bank should formulate detailed guidelines for lending for margin
+
+<!-- PAGE 22 -->
+
+## trading, subject to the following parameters:
+
+(i) The finance extended for margin trading should be within the overall ceiling of 40% of net worth prescribed for exposure to capital market. (ii) A minimum margin of 50 per cent should be maintained on the funds lent for margin trading. (iii) The shares purchased with margin trading should be in dematerialised mode under pledge to the lending bank. The bank should put in place an appropriate system for monitoring and maintaining the margin of 50% on an ongoing basis. (iv) The bank’s Board should prescribe necessary safeguards to ensure that no "nexus" develops between inter-connected stock broking entities/ stockbrokers and the bank in respect of margin trading. Margin trading should be spread out by the bank among a reasonable number of stockbrokers and stock broking entities.
+The Audit Committee of the Board should monitor periodically the bank’s exposure by way of financing for margin trading and ensure that the guidelines formulated by the bank’s Board, subject to the above parameters, are complied with. Banks should disclose the total finance extended for margin trading in the "Notes on Account" to their Balance Sheet.
+
+## 6. Risk Management and Internal Control System
+
+# Withdrawn
+
+Banks desirous of making investment in equity shares/ debentures, financing of equities and issue of guarantees etc., within the above ceiling, should observe the following guidelines:
+
+## 6.1 Investment Policy
+
+(i) The banks should formulate transparent policy and procedure for investment in shares etc., with the approval of their Board. (ii) The banks should build up adequate expertise in equity research by establishing a dedicated equity research department, wherever warranted by their scale of operations.
+## 6.2 Investment Committee
+
+The decision in regard to direct investment should be taken by an Investment Committee set up by the bank’s Board. The Investment Committee should be held accountable for all investments made by the
+
+<!-- PAGE 23 -->
+
+bank.
+
+## 6.3 Risk Management
+
+(i) Banks should ensure that their exposure to stockbrokers is well diversified in terms of number of broker clients, individual inter-connected broking entities. (ii) While sanctioning advances to stockbrokers, the banks should take into account the track record and credit worthiness of the broker, financial position of the broker, operations on his own account and on behalf of clients, average turnover period of stocks and shares, the extent to which broker’s funds are required to be involved in his business operations, etc. (iii) While processing proposals for loans to stockbrokers, banks should obtain details of facilities enjoyed by the broker and all his connected companies from other banks. (iv) While granting advances against shares and debentures to other borrowers, banks should obtain details of credit facilities availed by them or their associates / inter-connected companies from other banks for the same purpose (i.e. investment in shares etc.) in order to ensure that high leverage is not built up by the borrower or his associate or inter-connected companies with bank finance.
+## 1.0 Audit Committee
+
+# Withdrawn
+
+(i) The surveillance and monitoring of investment in shares / advances against shares shall be done by the Audit Committee of the Board, which shall review in each of its meetings, the total exposure of the bank to capital market both fund based and non-fund based, in different forms and ensure that the guidelines issued by RBI are complied with and adequate risk management and internal control systems are in place; (ii) The Audit Committee shall keep the Board informed about the overall exposure to capital market, the compliance with the RBI and Board guidelines, adequacy of risk management and internal control systems; (iii) In order to avoid any possible conflicts of interest, it should be ensured that the stockbrokers as directors on the Boards of banks or in any other capacity, do not involve themselves in any manner with the Investment Committee or in the decisions in regard to making investments in shares, etc., or advances against shares.
+
+<!-- PAGE 24 -->
+
+## 7. Valuation and Disclosure
+
+Equity shares in a bank’s portfolio-as primary security or as collateral for advances or for issue of guarantees and as an investment-should be marked to market preferably on a daily basis, but at least on weekly basis. Banks should disclose the total investments made in equity shares, convertible bonds and debentures and units of equity oriented mutual funds as also aggregate advances against shares in the “Notes on Account” to their balance sheets.
+
+## 8. Cross holding of capital among banks / financial institutions
+
+(i) Banks' / FIs' investment in the following instruments, which are issued by other banks / FIs and are eligible for capital status for the investee bank / FI, should not exceed 10 percent of the investing bank's capital funds (Tier I plus Tier II):
+
+|a.|Equity shares;|
+|---|---|
+|b.|Preference shares eligible for capital status;|
+|c.|Subordinated debt instruments;|
+|d.|Hybrid debt capital instruments; and|
+|e.|Any other instrument approved as in the nature of capital.|
+
+# Withdrawn
+
+Banks / FIs should not acquire any fresh stake in a bank's equity shares, if by such acquisition, the investing bank's / FI's holding exceeds 5 percent of the investee bank's equity capital.
+
+(ii) Banks’ / FIs’ investments in the equity capital of subsidiaries are at present deducted from their Tier I capital for capital adequacy purposes. Investments in the instruments issued by banks / FIs which are listed at paragraph 7(i) above, which are not deducted from Tier I capital of the investing bank/ FI, will attract 100 percent risk weight for credit risk for capital adequacy purposes.
+
+## 9. Banks' Exposure to Commodity Markets – Margin Requirements
+
+In terms of extant instructions, banks may issue guarantees on behalf of share and stock brokers in favour of stock exchanges in lieu of margin requirements as per stock exchange regulations. While issuing such guarantees banks should obtain a minimum margin of 50 percent. A
+
+<!-- PAGE 25 -->
+
+minimum cash margin of 25 percent (within the above margin of 50 percent) should be maintained in respect of such guarantees issued by banks. The above minimum margin of 50 percent and minimum cash margin requirement of 25 percent (within the margin of 50 percent) will also apply to guarantees issued by banks on behalf of commodity brokers in favour of the national level commodity exchanges, viz., National Commodity & Derivatives Exchange (NCDEX), Multi Commodity Exchange of India Limited (MCX) and National Multi-Commodity Exchange of India Limited (NMCEIL), in lieu of margin requirements as per the commodity exchange regulations.
+
+## 10. Limits on exposure to unsecured guarantees and unsecured advances
+
+The instruction that banks have to limit their commitment by way of unsecured guarantees in such a manner that 20 percent of the bank’s outstanding unsecured guarantees plus the total of outstanding unsecured advances do not exceed 15 percent of total outstanding advances has been withdrawn to enable banks’ Boards to formulate their own policies on unsecured exposures. Simultaneously, all exemptions allowed for computation of unsecured exposures also stand withdrawn.
+
+With a view to ensuring uniformity in approach and implementation, ‘unsecured exposure’ is defined as an exposure where the realisable value of the security, as assessed by the bank /approved valuers / Reserve Bank’s inspecting officers, is not more than 10 percent, ab-initio*,* of the outstanding exposure. ‘Exposure’ shall include all funded and non-funded
+
+# Withdrawn
+
+exposures (including underwriting and similar commitments). ‘Security’ will mean tangible security properly charged to the bank and will not include intangible securities like guarantees, comfort letters, etc.
+
+11. 'Safety Net' Schemes for Public Issues of Shares, Debentures, etc.
+## 11.1 'Safety Net' Schemes
+
+Reserve Bank had observed that some banks/their subsidiaries were providing buy-back facilities under the name of ‘Safety Net’ Schemes in respect of certain public issues as part of their merchant banking activities. Under such schemes, large exposures are assumed by way of commitments to buy the relative securities from the original investors at any time during a stipulated period at a price determined at the time of issue, irrespective of the prevailing market price. In some cases, such schemes were offered *suo motto* without any request from the company whose issues are supported under the schemes. Apparently, there was no undertaking in such cases from the issuers to buy the securities. There is also no income commensurate with the risk of loss built into these schemes, as the investor
+
+<!-- PAGE 26 -->
+
+will take recourse to the facilities offered under the schemes only when the market value of the securities falls below the pre-determined price. Banks/their subsidiaries have therefore been advised that they should refrain from offering such ‘Safety Net’ facilities by whatever name called.
+
+## 11.2 Provision of buy back facilities
+
+In some cases, the issuers provide buy-back facilities to original investors up to Rs. 40,000/- in respect of non-convertible debentures after a lock-in- period of one year, to provide liquidity to debentures issued by them. If, at the request of the issuers, the banks or their subsidiaries find it necessary to provide additional facilities to small investors subscribing to new issues, such buy-back arrangements should not entail commitments to buy the securities at pre-determined prices. Prices should be determined from time to time, keeping in view the prevailing stock market prices for the securities. Commitments should also be limited to a moderate proportion of the total issue in terms of the amount and should not exceed 20 percent of the owned funds of the banks/their subsidiaries. These commitments will also be subject to the overall exposure limits which have been or may be prescribed from time to time.
+
+# Withdrawn
+
+<!-- PAGE 27 -->
+
+## Annex 1
+
+**The definition of infrastructure lending and the list of the items included under infrastructure sector [vide paragraph 2.1.2]**
+
+Any credit facility in whatever form extended by lenders (i.e. banks, FIs or NBFCs) to an infrastructure facility as specified below falls within the definition of "infrastructure lending". In other words, a credit facility provided to a borrower company engaged in:
+
+o developing or o operating and maintaining, or o developing, operating and maintaining any infrastructure facility that is a project in any of the following sectors, or any infrastructure facility of a similar nature :
+
+i. a road, including toll road, a bridge or a rail system; ii. a highway project including other activities being an integral part of the highway project;
+# Withdrawn
+
+iii. a port, airport, inland waterway or inland port; iv. a water supply project, irrigation project, water treatment system, sanitation and sewerage system or solid waste management system;
+
+v. telecommunication services whether basic or cellular, including radio paging, domestic satellite service (i.e., a satellite owned and operated by an Indian company for providing telecommunication service), network of trunking, broadband network and internet services; vi. an industrial park or special economic zone;
+vii. generation or generation and distribution of power viii. transmission or distribution of power by laying a network of new
+
+<!-- PAGE 28 -->
+
+transmission or distribution lines. ix. construction relating to projects involving agro-processing and supply of inputs to agriculture;
+
+x. construction for preservation and storage of processed agro-products, perishable goods such as fruits, vegetables and flowers including testing facilities for quality; xi. construction of educational institutions and hospitals. xii. any other infrastructure facility of similar nature.
+# Withdrawn
+
+<!-- PAGE 29 -->
+
+## Annex 2
+
+## List of All-India Financial Institutions
+
+## (Counter party exposure-List of institutions guaranteeing bonds of corporates) [vide paragraphs 2.3.4]
+
+|1.|Industrial Finance Corporation of India Ltd.|
+|---|---|
+|2.|Industrial Investment Bank of India Ltd.|
+|3.|Tourism Finance Corporation of India Ltd.|
+|4. 5. Technology Development and Information Company of India Ltd.|Risk Capital and Technology Finance Corporation Ltd.|
+|6.|Power Finance Corporation Ltd.|
+|7.|National Housing Bank|
+|8.|Small Industries Development Bank of India|
+|9. 10. Indian Railways Finance Corporation Ltd.|Rural Electrification Corporation Ltd.|
+|11.|National Bank for Agriculture and Rural Development|
+|12. 13. Infrastructure Development Finance Company Ltd.|Export Import Bank of India|
+|14.|Housing and Urban Development Corporation Ltd.|
+|15.|Indian Renewable Energy Development Agency Ltd.|
+
+# Withdrawn
+
+<!-- PAGE 30 -->
+
+## Annex 3
+
+## List of All-India Financial Institutions
+
+## [Investment in equity/convertible bonds/ convertible debentures by banks -
+
+**List of FIs whose instruments are exempted from Capital Market Exposure ceiling-vide paragraph 4.4(i)]**
+
+1. Industrial Finance Corporation of India Ltd. (IFCI)
+2. Tourism Finance Corporation of India Ltd. (TFCI)
+3. Risk Capital and Technology Finance Corporation Ltd. (RCTC)
+4. Technology Development and Information Company of India Ltd. (TDICI)
+5. National Housing Bank (NHB)
+6. Small Industries Development Bank of India (SIDBI)
+7. National Bank for Agriculture and Rural Development (NABARD)
+8. Export Import Bank of India (EXIM Bank)
+9. Industrial Investment Bank of India (IIBI)Withdrawn
+10. Life Insurance Corporation of India (LIC)
+11. General Insurance Corporation of India (GIC)
+**N.B.** The names of State Bank of India Discount and Finance House of India Ltd. (SBIDFHI), Unit Trust of India (UTI) and Securities Trading Corporation of India Ltd. (STCI) have been deleted from the list, as these are not All-India Financial Institutions
+
+<!-- PAGE 31 -->
+
+## Annex 4
+
+## List of circulars consolidated by the Master Circular on 'Exposure Norms'
+
+|1. DBOD.No.IBD.BC. 96/23.37.001/2006-07|||dated 10.05.2007|
+|---|---|---|---|
+|2. DBOD.No.Dir..BC. 51/13.03.00/2006-07 dated 09.01.2007||||
+|3. DBOD.No.Dir.BC. 47/13.07.05/2006-07 dated 15.12.2006||||
+|4. DBOD.No.FSD.BC. 46/24.01.028/2006-07|||dated 12.12.2006|
+|5. DBOD.No.IBD.BC. 41/23.37.001/2006-07 6. DBOD. No.Dir.BC. 33/13.03.00/2006-07 dated 10.10.2006|||dated 06.11.2006|
+|7.|DBOD. No.BP.BC.|45/21.04.137/2001-02|dated 15.11.2001|
+|8.|DBOD No.BP.BC.|119/21.04.137/2000-01|dated 11.05.2001|
+|9.|DBOD. No.BP.BC.|45/21.04.137/2001-02|dated 15.11.2001|
+|10. DBOD.No.Dir.BC.||90/13.07.05/1998-99 dated 28.08.1998||
+
+# Withdrawn
