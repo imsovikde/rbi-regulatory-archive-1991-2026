@@ -1,0 +1,47 @@
+---
+doc_id: "Circulars_2014_DBOD_No_BP_BC_35_21_04_048_2014-15"
+title: "Timelines for Credit Decisions"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CTCDNT01092014.PDF"
+pdf_sha256: "d89605ae911a519ddd439cdb1cde581ed5a563fa4dae68085dd5eb5a33ee52db"
+md_sha256: "5a75e44e62375a04903480a38cbe7f63a8becf0db263cb4ba7d2d71b50a7ce77"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:19:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-09-01_Circular_DBOD.No.BP.BC.35-21.04.048-2014-15_Timelines%20for%20Credit%20Decisions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Timelines for Credit Decisions
+
+<!-- PAGE 1 -->
+
+भारतीय रजव बक **__________________RESERVE BANK OF INDIA _________________** <u>www.rbi.org.in</u>
+
+RBI/2014-15/199 DBOD.No.BP.BC. 35/21.04.048/2014-15 September 1, 2014
+
+The Chairman and Managing Director/Chief Executive Officer All Scheduled Commercial Banks (Excluding Local Area Banks and Regional Rural Banks)
+
+Dear Sir/Madam,
+
+## <u>Timelines for Credit Decisions</u>
+
+Please refer to our circulars IECD.No.24/08.13.08/96-97 dated April 15, 1997 and IECD.No.12/08.13.08/96-97 dated October 29, 1996 in terms of which instructions relating to formation of consortium by banks beyond a threshold limit were withdrawn. Banks were allowed to evolve appropriate mechanism for adoption of sole bank/multiple bank/consortium or syndication approach, by framing necessary ground rules on operational aspects. The objective of granting operational freedom was to expedite the process of credit decisions.
+
+2. It has, however, been brought to our notice that there have been inordinate delays
+# Withdrawn
+
+on part of banks in conveying their credit decisions leading to delays in project implementation. While banks are required to carry out necessary due diligence before arriving at credit decisions, timely and adequate availability of credit is a pre-requisite for successful implementation of large projects. In this connection, banks’ attention is drawn to the guidelines contained in <u>circular DBOD.Leg.No.BC.104/ 09.07.007/2002-</u> <u>03 dated May 5, 2003</u> on ‘Guidelines on Fair Practices Code for Lenders’, wherein we have stipulated that the time frame within which loan applications up to Rs.2 lakh will be disposed of should be indicated at the time of acceptance of loan applications. It is felt that a similar practice of time bound decision making may be required in the case of other loans too.
+
+3. It is, therefore, advised that banks should clearly delineate the procedure for disposal of loan proposals, with appropriate timelines, and institute a suitable monitoring mechanism for reviewing applications pending beyond the specified period.
+बकं ग परचालन और वकास वभाग, के ���य कायालय, 12वीं मंज़ल, शहद भगत िसंह माग, मुंबई – 400001 Department of Banking Operations and Development, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai ‐ 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbodco@rbi.org.in �हंद आसान ह, इसका ूयोग बड़ाइए
+
+<!-- PAGE 2 -->
+
+It is, however, reiterated that there should not be any compromise on due diligence requirements. Banks may also make suitable disclosures on the timelines for conveying credit decisions through their websites, notice-boards, product literature, etc.
+
+4. Banks may put in place the above system within 30 days from the date of this circular. Yours faithfully, (Sudarshan Sen) Chief General Manager-in-Charge
+# Withdrawn

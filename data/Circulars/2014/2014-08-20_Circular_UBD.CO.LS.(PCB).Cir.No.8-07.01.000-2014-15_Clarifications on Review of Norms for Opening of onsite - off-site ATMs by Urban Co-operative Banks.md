@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2014_UBD_CO_LS_PCB_Cir_No_8_07_01_000_2014-15"
+title: "Clarifications on Review of Norms for Opening of onsite / off-site ATMs by Urban Co-operative Banks"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PCBCIR8NT0814.PDF"
+pdf_sha256: "94043d7b8fc7fa407a3d0020c4566d718065526cfba1d53f08ab213670b2f01a"
+md_sha256: "a78df18c520f5235cb64c566fac3db59e667f18b0988c13660acbec48be76004"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:19:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-08-20_Circular_UBD.CO.LS.%28PCB%29.Cir.No.8-07.01.000-2014-15_Clarifications%20on%20Review%20of%20Norms%20for%20Opening%20of%20onsite%20-%20off-site%20ATMs%20by%20Urban%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Clarifications on Review of Norms for Opening of onsite / off-site ATMs by Urban Co-operative Banks
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2014-15/185 UBD.CO.LS (PCB) Cir.No.8 /07.01.000/2014-15 August 20, 2014
+
+Chief Executive Officers of all Primary (Urban) Co-operative Banks
+
+## Madam / Dear Sir
+
+## Clarifications on review of norms for opening of onsite/off-site ATMs by Urban Co- operative Banks
+
+Please refer to our <u>circular UBD.CO.LS.(PCB).Cir.No.1/07.01.000/2014-15 dated July 2,</u> <u>2014</u> permitting CBS-enabled Urban Co-operative Banks (UCBs) having a minimum assessed networth (ANW) of ` 50 crore satisfying the FSWM criteria and with an impeccable record of regulatory compliance to open on-site/off-site/mobile ATMs **without** **the prior approval** of RBI.
+
+2. In view of the representations received from various state federations of UCBs, it is clarified that the existing instructions issued vide <u>circular</u> <u>No.UBD.PCB.Cir.No.46/09.69.000/07-08 dated May 26, 2008</u> read with para 5.1 of the Master Circular dated July 1, 2014 will continue to be applicable for opening on-site ATMs under the automatic route and FSWM UCBs may set up on-site ATMs without the priorWithdrawn approval of Reserve Bank of India. Further, FSWM UCBs which are not eligible to open off-site ATMs as per revised criteria stated in para 1 above may seek prior approval of Reserve Bank as envisaged in our <u>circular UBD.CO.LS.Cir.No.64/07.01.000/2009-10</u> <u>dated May 4, 2010</u>. Yours faithfully, (P. K. Arora) General Manager शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in
+<u>बक ����� म पऽाचार का ःवागत करता है —</u>
+
+|चेतावनी: भारतीय|रज़व बक ारा|ई-मेल, डाक,|एसएमएस या|फोन कॉल के|जरये कोई|भी यगत|जानकार जैसे|बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद नहं Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|जाता है। यह keeps or offers funds to anyone. Please do not respond in any manner to such offers.|धन रखने|या देने का ूःताव|भी नहं|करता है। ऐसे|ूःताव का|कसी भी ूकार|से जवाब|मत द�जए।||
+
+चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड माँगा
