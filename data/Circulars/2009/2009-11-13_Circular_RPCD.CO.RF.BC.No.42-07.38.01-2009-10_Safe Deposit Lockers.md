@@ -1,0 +1,34 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RF_BC_No_42_07_38_01_2009-10"
+title: "Safe Deposit Lockers"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BCN42131109.PDF"
+pdf_sha256: "fbc82fc021f1128024143a1ce16256cd6dfb53874fb4bf009d0f691b888d86f0"
+md_sha256: "0a0cec9dc3a7a10310e493e0c4175fe212d946ae215fb9fc6116bf4b4d7a0c10"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:45:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-11-13_Circular_RPCD.CO.RF.BC.No.42-07.38.01-2009-10_Safe%20Deposit%20Lockers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Safe Deposit Lockers
+
+<!-- PAGE 1 -->
+
+## RBI / 2009-10/ 218 RPCD.CO.RF. BC. No.42/07.38.01/ 2009-10 November 13, 2009
+
+## All State and Central Co-operative Banks
+
+Dear Sir,
+
+## Safe Deposit Lockers
+
+Please refer to Paragraph 5 of our circular <u>RPCD.CO.RF.BC.No.95/ 07.38.01/2006-07</u> dated May 18, 2007, wherein banks were advised to ensure that the identification code of the bank / branch is embossed on all the locker keys with a view to facilitate Authorities in identifying the ownership of the locker keys.
+
+2. In view of practical difficulties reportedly faced by the banks in doing this in respect of lockers which had already been hired out, the Government of India, Ministry of Finance, Central Economic Intelligence Bureau, New Delhi has suggested that locker keys could be embossed with identification code of the bank / branch whenever a party comes to the bank to operate the locker. The parties could also be contacted telephonically or through the post for this purpose.
+3. You are, therefore, requested to issue necessary instructions to branches to introduce a system whereby the locker keys could be embossed with the identification code of the bank /branch as and when the customer visits the branch for operating the locker. You may also make arrangement for installation of necessary machinery at the bank/ branch with the help of the vendor c Withdrawn ompany of the locker cabinet for doing this work. All the locker-hirers should also be advised about the embossing of the locker keys by the concerned branches. It may be ensured that the identification code is embossed on the locker keys in the presence of the locker holder only.
+4. Please submit compliance to our Regional Office concerned. Yours faithfully, (R.C.Sarangi) Chief General Manager

@@ -1,0 +1,33 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RF_BC_No_40_07_02_01_2009-10"
+title: "Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ICRR4091109.PDF"
+pdf_sha256: "de3d63bc3911a408f44a6695387c7cd4e367ab3923ad1a2d55a420594f9c6f74"
+md_sha256: "668358fb99a29ca7d38d81114dce793051132f93176277bf5ad9c4376fba8656"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:45:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-11-09_Circular_RPCD.CO.RF.BC.No.40-07.02.01-2009-10_Maintenance%20of%20Cash%20Reserve%20Ratio%20%28CRR%29%20on%20Exempted%20Categories.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/212 RPCD.CO.RF.BC.No.40/07.02.01/2009-10 November 09, 2009
+
+## All Scheduled State Co-operative Banks
+
+Dear Sir,
+
+## <u>Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories</u>
+
+Please refer to our circular <u>RPCD.CO.RF.BC.No.77/07.02.01/2006-07</u> dated April 24, 2007 on the captioned subject.
+
+2. As announced in the <u>Second Quarter Review of Monetary Policy 2009-10</u> released on October 27, 2009, it has been decided that liabilities of scheduled state co-operative banks arising out of transactions in Collateralised Borrowing and Lending Obligations (CBLO) with Clearing Corporation of India Ltd. (CCIL) shall be subject to maintenance of CRR with effect from the fortnight beginning November 21, 2009. Accordingly, net demand and time liabilities (NDTL) reckoned for CRR shall include liabilities arising out of CBLO transactions for the reporting Friday of November 6, 2009 which forms the base for computation of CRR for the fortnight beginning November 21, 2009. For the subsequent fortnights, NDTL reckoned for CRR maintenance will continue to include liabilities arising out of CBLO transactions.
+3. Accordingly, with effect from fortnight Withdrawn beginning November 21, 2009, only liabilities to the banking system in India as computed under clause (e) of the Explanation to Section 42(1) of the Reserve Bank of India Act, 1934 would be exempted for computation of NDTL under Section 42(1) of RBI Act, 1934. Yours faithfully, (R.C.Sarangi) Chief General Manager

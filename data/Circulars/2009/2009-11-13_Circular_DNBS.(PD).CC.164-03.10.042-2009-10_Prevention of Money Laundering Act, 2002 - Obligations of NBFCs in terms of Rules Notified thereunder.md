@@ -1,0 +1,51 @@
+---
+doc_id: "Circulars_2009_DNBS_PD_CC_164_03_10_042_2009-10"
+title: "Prevention of Money Laundering Act, 2002 - Obligations of NBFCs in terms of Rules Notified thereunder"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PMA121109I.PDF"
+pdf_sha256: "fb70e02e9becdcfe6a84320498ae93da0a670c1f1e836bd5e1114aba1bc48843"
+md_sha256: "84f6b6099c6c5bc30bdf72007d61bee2482fa4ef4891350a0575079bb5c49c7b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:45:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-11-13_Circular_DNBS.%28PD%29.CC.164-03.10.042-2009-10_Prevention%20of%20Money%20Laundering%20Act%2C%202002%20-%20Obligations%20of%20NBFCs%20in%20terms%20of%20Rules%20Notified%20thereunder.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prevention of Money Laundering Act, 2002 - Obligations of NBFCs in terms of Rules Notified thereunder
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/ 220
+
+## DNBS(PD). CC 164/03.10.042/ 2009- 10 November 13, 2009
+
+All Non-Banking Financial Companies, Residuary Non-Banking Companies
+
+Dear Sir,
+
+**"Prevention of Money laundering Act, 2002 – Obligations of NBFCs in terms of Rules notified thereunder'**
+
+Please refer to the Master Circular No. 152 dated July 01, 2009 on the captioned subject. All NBFCs (including RNBCs) are advised to take note of modifications to the above circular as under:
+
+## Preservation Period of Records
+
+2. The Prevention of Money Laundering (Amendment) Act, 2009 (No. 21 of
+2009) has come into force with effect from June 01, 2009 as notified by the Government. In terms of Sub-Section 2(a) of Section 12 of The Prevention of Money Laundering (Amendment) Act, 2009 (PMLA, 2009), the records referred
+# Withdrawn
+
+to in clause (a) of Sub-Section (1) of Section 12 shall be maintained for a period of ten years from the date of transaction between the clients and the banking company and in terms of Sub-Section 2(b) of Section 12 of the Act ibid, the records referred to in clause (c) of Sub-Section (1) of Section 12 shall be maintained for a period of ten years from the date of cessation of transaction between the clients and the banking company.
+
+3. Accordingly, in modification of paragraph 4 of the <u>Master Circular</u> <u>No.152/03.10.42/2009-10</u> dated July 1, 2009, NBFCs (including RNBCs) are advised to maintain for at least ten years from the date of transaction between the NBFC (including RNBC) and the client, all necessary records of transactions referred to at Rule 3 of the Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of
+
+<!-- PAGE 2 -->
+
+Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005 (PMLA Rules), both domestic or international, which will permit reconstruction of individual transactions (including the amounts and types of currency involved, if any) so as to provide, if necessary, evidence for prosecution of persons involved in criminal activity.
+
+4. However, records pertaining to the identification of the customer and his address (e.g. copies of documents like passports, identity cards, driving licenses, PAN card, utility bills etc.) obtained while opening the account and during the course of business relationship, as indicated in paragraph 4 of the of the above said Master Circular dated July 1, 2009, would continue to be preserved for at least ten years after the business relationship is ended as required under Rule 10 of the Rules ibid. Yours faithfully, (A. Narayana Rao)
+# Withdrawn
+
+Chief General Manager In-Charge

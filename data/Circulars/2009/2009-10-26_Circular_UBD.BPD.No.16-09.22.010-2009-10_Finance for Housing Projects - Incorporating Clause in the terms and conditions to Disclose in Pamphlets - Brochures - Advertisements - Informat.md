@@ -1,0 +1,95 @@
+---
+doc_id: "Circulars_2009_UBD_BPD_No_16_09_22_010_2009-10"
+title: "Finance for Housing Projects - Incorporating Clause in the terms and conditions to Disclose in Pamphlets / Brochures / Advertisements - Information Regarding Mortgage of Property to the Bank"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIGDM271009.PDF"
+pdf_sha256: "a2333b749080a69e4119bc4df87f1fe2b8c8c850390db543c2e2a8247cb82d27"
+md_sha256: "bbdb1a9e6b18d7703e96685a985ad2b6a7785a062037cc0e5148c0b96f1583de"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:44:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-10-26_Circular_UBD.BPD.No.16-09.22.010-2009-10_Finance%20for%20Housing%20Projects%20-%20Incorporating%20Clause%20in%20the%20terms%20and%20conditions%20to%20Disclose%20in%20Pamphlets%20-%20Brochures%20-%20Advertisements%20-%20Informat.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Finance for Housing Projects - Incorporating Clause in the terms and conditions to Disclose in Pamphlets / Brochures / Advertisements - Information Regarding Mortgage of Property to the Bank
+
+<!-- PAGE 1 -->
+
+y
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/191
+
+UBD.BPD.No.16 / 09.22.010/2009-10
+
+October 26,2009
+
+Chief Executive Officer
+
+Primary (Urban) Cooperative Banks
+
+Dear Sir / Madam,
+
+conditions to disclose in pamphlets / brochures / advertisements - information
+
+regarding mortgage of property to the bank
+
+Please refer to para 9 and Annex 1 of our circular UBD.PCB.MC.No. 2 / 09.22.010 /
+
+Housing   Finance)  regarding
+
+2009-10 dated July 1， 2009 (Master circul
+
+on
+
+g finance for housing schemes.
+
+In a case which came
+
+2.
+
+the Hon'ble High Court of Judicatureat
+
+Bombay, the Hon'ble Court observed that the bank granting finance to housing/
+
+on the plot, in the brochure, pamphlets etc., which may be published by developer/
+
+that this obviously would be part of the terms and conditions on which the loan may
+
+be sanctioned by the bank.
+
+3. Keeping in view the above observations, while granting finance for eligible
+
+housing schemes, Urban Cooperative Banks are advised to stipulate as part of terms
+
+and conditions that:
+
+(i)
+
+The builder / developer / company, disclosed / would disclose in the
+
+pamphlets / brochures etc., the name(s) of the bank(s) to which the
+
+property is mortgaged
+
+<!-- PAGE 2 -->
+
+(ii) The builder / developer / company would append the information relating to mortgage while publishing advertisement of a particular scheme in newspapers / magazines etc
+
+(iii) The builder / developer / company would indicate in their pamphlets/ brochures that they would provide No Objection Certificate (NOC)/ permission of the mortgagee bank for sale of flats / property if required.
+
+4. Banks are also advised to ensure compliance of the above terms and conditions and funds should not be released unless the builder / developer / company fulfils the above requirements.
+## Yours faithfully
+
+(A.K. Khound) Chief General Manager-in-Charge
+
+# Withdrawn
+
+Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in

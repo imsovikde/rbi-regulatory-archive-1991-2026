@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RRB_BC_No_41_03_05_28_B_2009-10"
+title: "Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BC4191109.PDF"
+pdf_sha256: "c66e1a40969930b070485008a4b3be846681910b8b01ea893a088ba49071a491"
+md_sha256: "8ff17ddd69e7cff521347c2363dd1df8548548ce33d55cf2cfad9114515c0586"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:45:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-11-09_Circular_RPCD.CO.RRB.BC.No.41-03.05.28%28B%29-2009-10_Maintenance%20of%20Cash%20Reserve%20Ratio%20%28CRR%29%20on%20Exempted%20Categories.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बक _________________________ RESERVE BANK OF INDIA______________________ <u>www.rbi.org.in</u>
+
+RBI/2009-10/ 214 RPCD.CO.RRB.BC No. 41/ 03.05.28(B)/ 2009-10 November 9, 2009
+
+## The Chairman
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## <u>Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories</u>
+
+Please refer to our circular <u>RPCD.RRB.CO.BC.No.72/03.05.28(B)/2006-07</u> dated April
+
+## 24, 2007 on the captioned subject.
+
+2. As announced in the <u>Second Quarter Review of Monetary Policy 2009-10</u> released on October 27, 2009, it has been decided that liabilities of Regional Rural Banks (RRBs) arising out of transactions in Collateralised Borrowing and Lending Obligations (CBLO) with Clearing Corporation of India Ltd. (CCIL) shall be subject to maintenance of CRR with effect from the fortnight beginning NovemWithdrawnber 21, 2009. Accordingly, net demand and time liabilities (NDTL) reckoned for CRR shall include liabilities arising out of CBLO transactions for the reporting Friday of November 6, 2009 which forms the base for computation of CRR for the fortnight beginning November 21, 2009. For the subsequent fortnights, NDTL reckoned for CRR maintenance will continue to include liabilities arising out of CBLO transactions. **___________________________________________________________________** ामीण आयोजना और ऋण िवभाग,कीय कायार्लय, 10 व मंिजल, क ीय कायार्लय भवन, पोस्ट बॉक्स नं.
+th 10014, मुंबई- 400 001 Rural Planning & Credit Department Central Office**,** 10 Floor
+
+Central Office Building, post box no.10014, Mumbai-1 टेलीफोन/Tel No: 91-22-22661602
+
+## फै क्स/Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+## िहदी आसान है, इसका योग बढ़ाइए।
+
+<!-- PAGE 2 -->
+
+3. Accordingly, with effect from fortnight beginning November 21, 2009, only the Liabilities to the banking system in India as computed under clause (d) of the Explanation to Section 42(1) of the Reserve Bank of India Act, 1934 would be exempted for computation of NDTL under section 42(1) of Reserve Bank of India Act, 1934. Yours faithfully,
+## (R.C.Sarangi)
+
+Chief General Manager
+
+# Withdrawn
+
+## ___________________________________________________________________
+
+ामीण आयोजना और ऋण िवभाग,क ीय कायार्लय, 10 व मंिजल, क ीय कायार्लय भवन, पोस्ट बॉक्स नं. th 10014, मुंबई- 400 001 Rural Planning & Credit Department Central Office**,** 10 Floor Central Office Building, post box no.10014, Mumbai-1 टेलीफोन/Tel No: 91-22-22661602 फै क्स/Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in <u>िहदी आसान ह,</u> ै<u>इसका योग बढ़ाइए।</u>
