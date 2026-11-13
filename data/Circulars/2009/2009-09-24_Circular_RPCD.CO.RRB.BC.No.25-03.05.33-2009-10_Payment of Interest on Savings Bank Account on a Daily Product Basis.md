@@ -1,0 +1,80 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RRB_BC_No_25_03_05_33_2009-10"
+title: "Payment of Interest on Savings Bank Account on a Daily Product Basis"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FCN240909.PDF"
+pdf_sha256: "d8081f444b5554061a83bf1fcfe88a2ecec142269f0807b21318ee1a9aabbf4b"
+md_sha256: "ae8bffa24404cca05710e3ae3846d5f0f950cf87a1444e3ba7958857f69b290d"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:43:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-09-24_Circular_RPCD.CO.RRB.BC.No.25-03.05.33-2009-10_Payment%20of%20Interest%20on%20Savings%20Bank%20Account%20on%20a%20Daily%20Product%20Basis.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Payment of Interest on Savings Bank Account on a Daily Product Basis
+
+<!-- PAGE 1 -->
+
+PLATINUM JUBILEE
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/169
+
+September 24, 2009
+
+RPCD.CO.RRB.BC.No.25/03.05.33/2009-10
+
+The Chairman
+
+All Regional Rural Banks
+
+Dear Sir,
+
+Payment of Interest on Savings Bank Account on a Daily Product Basis
+
+Please refer to para 2(ii) of the directive DBOD.No.Dir.BC.151/C.347-85
+
+dated December 27,1985, in terms of which interest in the case of savings
+
+deposits, shall be calculated on the minimum balance to the credit of the
+
+deposit account during the period from the 1oth to the last day of each
+
+calendar month.
+
+2. On a review, it has been decided
+
+the interest on balances in savings
+
+bank accounts would be calcula
+
+a daily product basis with effect from
+
+/ithdrawn
+
+April 1,2010. Regional Rur
+
+nksareadvisedtoworkoutmodalitiesto
+
+effect a smooth transition to the revised procedure.
+
+Yours faithfully
+
+(R.C.Sarangi)
+
+Chief General Manager
+
+Rural Planning & Credit Department Central Office,1oth Floor, Central Office Building,Shahid Bhagat
+
+Singh Marg Mumbai - 1
+
+f/TelNo:91-22-22661602/FaxNo:91-22-22621011/22610948/22610943Email
+
+ID:cgmicrpcd@rbi.org.in

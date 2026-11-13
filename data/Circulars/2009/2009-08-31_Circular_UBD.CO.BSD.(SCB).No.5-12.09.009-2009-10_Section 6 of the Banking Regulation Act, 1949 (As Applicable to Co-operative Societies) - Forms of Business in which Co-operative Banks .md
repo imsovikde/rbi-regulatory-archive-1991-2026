@@ -1,0 +1,82 @@
+---
+doc_id: "Circulars_2009_UBD_CO_BSD_SCB_No_5_12_09_009_2009-10"
+title: "Section 6 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) - Forms of Business in which Co-operative Banks may engage"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DP5S310809.PDF"
+pdf_sha256: "7ef954e6bdd331fc208386bf752266e39035640c05aeeb87d67545df5c072957"
+md_sha256: "aa7cd7e3cf0efec14752fa29808db1c86acb3bd22454fd36843220f8ffa8e949"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:41:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-08-31_Circular_UBD.CO.BSD.%28SCB%29.No.5-12.09.009-2009-10_Section%206%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%28As%20Applicable%20to%20Co-operative%20Societies%29%20-%20Forms%20of%20Business%20in%20which%20Co-operative%20Banks%20.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 6 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) - Forms of Business in which Co-operative Banks may engage
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/138
+
+UBD.CO.BSD.(SCB).No.5/12.09.009/2009-10
+
+August 31, 2009
+
+The Chief Executive Officer
+
+All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+Section 6 of the Banking Regulation Act, 1949 (As Applicable to Co-operative
+
+Societies)-Forms of Business in which banking companies may engage
+
+A reference is invited to Section 6 (1)(f) of the Banking Regulation Act (B.R.
+
+Act), 1949 (AACS), in terms of which banks may also engage in managing,
+
+selling and realizing any property which may come into its possession in
+
+satisfaction, or part satisfaction, of any of its
+
+2.
+
+The Reserve Bank hereby
+
+UCBs not to acquire any property
+
+which is not meant for their
+
+Vithdraw
+
+dentifiable / justifiable use.Further, non-
+
+banking assets acquired by UCBs in satisfaction of claims are to be disposed
+
+of within the period stipulated under Section 9 of the B.R. Act, 1949 (AACS).
+
+These instructions and directions must be noted for meticulous compliance.
+
+Yours faithfully,
+
+(Smt. Uma Shankar)
+
+Chief General Manager
+
+,, , ,, - 400 018
+
+:022 -2493 9930 - 49,: 022 -2497 4030 / 2492 0231,:
+
+cgmincubd@rbi.org.in
+
+Urban Banks Department, Central Office, 1st Floor, Garment House, Worli, Mumbai - 18
+
+Phone: 022 - 2493 9930 - 49,Fax: 022 - 2497 4030/2492 0231, Email: cgmincubd@rbi.org.in

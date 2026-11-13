@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2009_RPCD_CO_RF_BC_No_26_07_07_11_2009-10"
+title: "Section 6 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) - Forms of Business in which Co-operative Banks may engage"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/STCBFBC300909.PDF"
+pdf_sha256: "413ba178112f07162aee767f6b0e0d44078a899acfa0899e3cab6e5487c94625"
+md_sha256: "63a82b94bda6312b037a766795bf274c5273989e9cebf6ba80de3d112b4fd8fe"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:43:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-09-29_Circular_RPCD.CO.RF.BC.No.26-07.07.11-2009-10_Section%206%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%28As%20Applicable%20to%20Co-operative%20Societies%29%20-%20Forms%20of%20Business%20in%20which%20Co-operative%20Banks%20may.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 6 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) - Forms of Business in which Co-operative Banks may engage
+
+<!-- PAGE 1 -->
+
+## Yeejler³e fjeJeõ yeQkeÀ
+
+____________________ **RESERVE BANK OF INDIA**____________________ <u>www.rbi.org.in</u>
+
+RBI/2009-10/172
+
+### RPCD.CO.RF.BC.No. 26 /07.07.11/2009-10 September 29, 2009
+
+All State Co-operative Banks (StCBs) and District Central Co-operative Banks (DCCBs)
+
+Dear Sir,
+
+### Section 6 of the Banking Regulation Act, 1949 (As Applicable to Co-operative
+
+### <u>Societies) – Forms of Business in which co-operative banks may engage</u>
+
+A reference is invited to Section 6 (1)(f) of the Banking Regulation Act, 1949 (AACS), in terms of which co-operative banks may engage in managing, selling and realizing any property which may come into their possession in satisfaction or part satisfaction of any of their claims. As per Section 9 of the said Act, banks should not hold any immovable property howsoever acquired, except such as is required for its own use, for any period exceeding seven years from the acquisition thereof. A number of cases of violation of the provisions of Section 9 by co-operative banks have been reported to us.
+
+# Withdrawn
+
+2. It is hereby directed that State and Central Co-operative banks should not acquire any property which is not required for their own identifiable / justifiable use. In case, non-banking assets acquired by the banks in satisfaction of claims cannot be put to such use, they should be disposed of within the period stipulated under Section 9 of the Act, ibid. These instructions must be noted for meticulous compliance. Yours faithfully, (R C Sarangi) Chief General Manager
+th Rural Planning & Credit Department, Central Office, Central Office Building, 13 Floor, Post Box no. 10014, Mumbai -400 001 Tel No: 91-22-22661602 Fax No: 91-22-22621011/22658273/22658276 email - <<u>cgmicrpcd@rbi.org.in</u> >
