@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2012_7733"
+title: "Migrating to CTS 2010 standard - Submission of compliance report"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CTS061212CIRF.pdf"
+pdf_sha256: "990ffc721ca078e74915f2a4c82e45bf8653a96c4e7686dd89c63c4aabe09f38"
+md_sha256: "1cd833453f3bc911889c6654d381ef94f92ecf77e611af463361fc0f4b3e53e6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:35:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-12-06_Notification_7733_Migrating%20to%20CTS%202010%20standard%20-%20Submission%20of%20compliance%20report.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Migrating to CTS 2010 standard - Submission of compliance report
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+RBI/2012-13/315 UBD.BPD.(PCB).Cir.No. 26 /12.05.001 /2012-13 December 6, 2012
+
+The Chief Executive Officer, All Primary (Urban) Co-operative Banks.
+
+Madam/Dear Sir,
+
+## Migrating to CTS 2010 standard-Submission of compliance report
+
+We invite a reference to circulars <u>DPSS.CO.CHD.No. 399/04.07.05/2012-13 dated</u> <u>September 3, 2012</u> and DPSS.CO.CHD.No. 668/04.07.05/2012-13 dated October 19, 2012 issued under section 18 of the Payment and Settelement System Act, 2007. In terms of which all UCBs were advised to issue only multi-city/payable at par (applicable to CBS enabled Banks with multiple branches) CTS-2010 standard cheques not later than September 30, 2012 and submit confirmation to Department of Payment and Settlement System (DPSS) to the effect that necessary arrangements have been put in place in their respective bank latest by September 14, 2012.
+
+However, it is observed that some banks are yet to submit this confirmation report to DPSS. You are therefore, once again advised to send the confirmation to paragraph 3 (i) and 3 (ii) of the circular dated September 3, 2012 immediately and to paragraphs 3(iii) within the target date indicated in the circular to DPSS, CO without any further delay
+
+## Yours faithfully
+
+(Kamala Rajan) Chief General Manager
+
+शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बक ����� म पऽाचार का ःवागत करता है —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी यगत|जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा जाता|है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव भी|नहं करता|है। ऐसे ूःताव|का कसी भी|ूकार से जवाब|मत द�जए।||

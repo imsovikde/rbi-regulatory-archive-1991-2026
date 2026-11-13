@@ -1,0 +1,94 @@
+---
+doc_id: "Notifications_2012_7765"
+title: "KYC norms /AML Standards/CFT)/Obligation of banks under PMLA, 2002"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE342KC191212.pdf"
+pdf_sha256: "895893e2e0a7b408722eea87920407948918702ed3ae8b8df1154ba4b2030947"
+md_sha256: "c5a4dcc339b4dac2d46b3297b98d744e4ccafa1a9e17faaecb71d749fa168649"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-12-19_Notification_7765_KYC%20norms%20-AML%20Standards-CFT%29-Obligation%20of%20banks%20under%20PMLA%2C%202002.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# KYC norms /AML Standards/CFT)/Obligation of banks under PMLA, 2002
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+RBI/2012-13/342 UBD.BPD (PCB) Cir. No. 28/14.01.062/2012-13 December 19, 2012
+
+The Chief Executive Officer of All Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+## Know Your Customer (KYC) norms /Anti-Money Laundering (AML)
+
+**Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002**
+
+Please refer to our <u>Master Circular UBD.BPD. (PCB) MC.No.16/12.05.001/2012-13</u> <u>dated July 2, 2012</u> on Know Your Customer (KYC) norms / Anti-Money Laundering (AML) Standards/Combating of Financing of Terrorism (CFT)/Obligations of banks under PMLA, 2002. The KYC guidelines were formulated to protect the financial system against threat of money laundering/terror financing and frauds. However, it has been brought to the notice of Reserve Bank that some of the provisions made in this regard or their implementation by banks have led to avoidable inconvenience to public and also hindered the efforts at financial inclusion.
+
+2. In this connection, we invite your attention to paragraph 101 (extract enclosed) of the Second Quarter Review of Monetary Policy 2012-13 announced on October 30, 2012, proposing to review the existing KYC norms for simplifying them within the provisions of PML Act/Rules and international standards. Accordingly, it has been decided to effect the following modifications in the existing provisions:
+## (i) Opening of new accounts – Proof of identity and address
+
+An indicative list of the nature and type of documents/ information that may be relied upon for customer identification is given in Annex I of the aforesaid Master Circular. Paragraphs 2.4 (d) and (e) of the Master Circular clearly state that the said list is only indicative and not exhaustive. For accounts of individuals, separate sets of indicative documents have been listed for identity and for address verification in Annex I. Consequently, banks have been calling for separate documents for verification of
+
+शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in <u>बक ����� म पऽाचार का ःवागत करता है —</u>
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी|यगत जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा|जाता है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|ूकार से जवाब|मत द�जए।||
+
+चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड भी
+
+<!-- PAGE 2 -->
+
+- 2 -
+identity and address even though the documents for identity proof (Passport, Drivers’ Licence etc.) also carry the address of the individual concerned. In view of this, customers frequently complain about the requirement of producing two sets of documents, one each for identity and address proof.
+
+To ease the burden on the prospective customers in complying with KYC requirements for opening new accounts, it has now been decided that:
+
+(a) If the address on the document submitted for identity proof by the prospective customer is same as that declared by him/her in the account opening form, the document may be accepted as a valid proof of both identity and address.
+(b) If the address indicated on the document submitted for identity proof differs from the current address mentioned in the account opening form, a separate proof of address should be obtained. For this purpose, apart from the indicative documents listed in Annex I of the Master Circular, a rent agreement indicating the address of the customer duly registered with State Government or similar registration authority may also be accepted as a proof of address.
+## (ii) Introduction not Mandatory for opening accounts
+
+Before implementation of the system of document-based verification of identity, as laid down in PML Act/Rules, introduction from an existing customer of the bank was considered necessary for opening of bank accounts. In many banks, obtaining of introduction for opening of accounts is still a mandatory part of customer acceptance policy even though documents of identity and address as required under our instructions are provided. This poses difficulties for prospective customers in opening accounts as they find it difficult to obtain introduction from an existing account holder.
+
+Since introduction is not necessary for opening of accounts under PML Act and Rules or Reserve Bank’s extant KYC instructions, banks should not insist on introduction for opening bank accounts of customers.
+
+## (iii) Acceptance of Aadhaar letter for KYC purposes
+
+Unique Identification Authority of India (UIDAI) has advised Reserve Bank that banks are accepting Aadhaar letter issued by it as a proof of identity but not of address, for opening accounts. As indicated at paragraph 2 (i) above, if the address provided by the account holder is the same as that on Aadhaar letter, it may be accepted as a proof of both identity and address.
+
+<!-- PAGE 3 -->
+
+- 3 -
+## (iv) Acceptance of NREGA Job Card as KYC for normal accounts
+
+In terms of paragraph 2.7 (B) (b) of the Master Circular, accounts opened only on the basis of NREGA Job Card are subject to limitation applicable to ‘Small Accounts’ as prescribed in our <u>circular UBD.BPD.(PCB) No.38/12.05.001/2010-11 dated March</u> 15, 2011. This has caused inconvenience to customers, who are mostly from rural areas.
+
+In modification of instructions quoted above, banks are advised that they may now accept NREGA Job Card as an ‘officially valid document’ for opening of bank accounts without the limitations applicable to ‘Small Accounts’.
+
+## (v) Accounts with Introduction
+
+The provisions for opening of bank accounts with restrictions on total credits and outstanding balance, with introduction from an existing account holder or other evidence of identity and address to the satisfaction of the bank, were made to help persons who were not able to provide ‘officially valid documents’ for opening accounts. In view of provisions for 'Small Accounts' being included in the PML Rules, the extant instructions for opening of 'Accounts with Introduction' as prescribed in our <u>circular UBD.BPD.PCB.Cir.11/09.16.100/2005-06 dated August 23, 2005</u> and in paragraph 2.6 of the Master Circular stand withdrawn.
+
+It has been brought to our notice that banks are not promoting opening of ‘Small Accounts’ for greater financial inclusion. Banks are, therefore, advised to open ‘Small Accounts’ for all persons who so desire. It is reiterated that all limitations applicable to ‘Small Accounts’ should be strictly observed.
+
+3. Banks should review their KYC policy in the light of the above instructions and ensure strict adherence to the same. Yours faithfully, (A. Udgata) Chief General Manager-in-Charge
+## Encl: As above
+
+<!-- PAGE 4 -->
+
+- 4 -
+## <u>Second Quarter Review of Monetary Policy-Extract</u>
+
+## Review of KYC Instructions
+
+101. The Reserve Bank has received complaints pertaining to KYC norms relating to areas such as documentary proof of identity/address, need for introduction for opening of bank accounts, and periodicity for review of KYC documents. In view of these developments, it is proposed:
+- to review the existing KYC norms for simplifying them within the provisions of Prevention of Money Laundering Act/Rules (PML Act/Rules) and international standards.

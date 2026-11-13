@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2012_7746"
+title: "Progress report on frauds"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCPRF131212.pdf"
+pdf_sha256: "0979e24304b0855e23f143e7607782d7eaa498543816c3ac398e5ff4e24ddd82"
+md_sha256: "ca4cd0d9cd43affab569265c9aa5e68944f4fd1df96f46b11460aa21b32143b8"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-12-13_Notification_7746_Progress%20report%20on%20frauds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Progress report on frauds
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/328 DNBS.PD.CC. No. 314 /03.10.042 / 2012-13 December 13, 2012
+
+## All Non-Deposit taking NBFCs-ND-SIs
+
+Dear Sir/Madam,
+
+## <u>Progress report on frauds</u>
+
+A reference is invited to <u>Master Circular DNBS (PD)CC.No.283/03.10.042/2012-13</u> <u>dated July 2, 2012</u> on future approach towards monitoring of frauds in NBFCs.
+
+2. As per Para 3.1.4 of the said Circular, the fraud reports in the prescribed format should be sent by the NBFCs to the Central Office (CO) of the Reserve Bank of India, Department of Banking Supervision, Frauds Monitoring Cell where the amount involved in fraud is Rs 25 lakhs and above and to Regional Office of the Reserve Bank of India, Department of Non-Banking Supervision under whose jurisdiction the Registered Office of the NBFC falls where the fraud amount involved in fraud is less than Rs 25 lakh, in the format given in FMR – 1, within three weeks from the date of detection. A copy of FMR-1 where the amount involved in the Fraud is Rs 25 lakhs and above should also be submitted to the Regional Office of the Department of Non-Banking Supervision of Reserve Bank of India under whose jurisdiction the Registered Office of the NBFC falls.
+3. It has been observed that in some cases the eligible NBFCs are not furnishing the FMR-1 in respect of cases involving an amount of Rs 25.00 lakh and above in individual cases of fraud to Fraud Monitoring Cell (FrMC),DBS,CO at all and the incidence of fraud is detected on scrutiny of FMR -II and FMR-III statements pertaining to a quarter received at the end of the relevant quarter. Since FMR1 in respect of cases involving amount of Rs 25.00 lakh and above is used by FrMC DBS, Central Office for issuance
+
+<!-- PAGE 2 -->
+
+of Caution Advices against the borrowers, all NBFCs have to necessarily furnish FMR-1 in respect of cases involving an amount of Rs 25.00 lakh and above in individual cases of fraud to Fraud Monitoring Cell (FrMC),DBS,CO within 21 days of detection of the fraud. A copy of the same should also be submitted to the Regional Office of the Department of Non-Banking Supervision of Reserve Bank of India under whose jurisdiction the Registered Office of the NBFC falls.
+
+4. Further some NBFC-ND-SIs have started filing the FMR-3 in respect of cases involving amount less than Rs 25.00 lakh with DBS, CO, Fr MC which is causing avoidable duplicity without any material benefit. NBFCs should furnish case-wise quarterly progress reports on frauds involving Rs. 1 lakh and above in the format given in FMR – 3 only to Regional Office of the Reserve Bank of India, Department of Non- Banking Supervision under whose jurisdiction the Registered Office of the NBFC falls within 15 days of the end of the quarter to which it relates. NBFCs are advised to file FMR-3 with DBS,CO FrMC in respect of only those fraud cases where the amount involved in particular account is Rs 25.00 lakh or above.
+5. It has also been observed from the fraud reports submitted by some of the NBFCs that they are closing the fraud cases even when police complaint in the fraud case is pending or not filed at all and/or staff side action is yet to be completed /initiated by the NBFC concerned. Accordingly it is advised that NBFCs are permitted to close the fraud cases only where the actions as stated below are complete and prior approval is obtained from the respective Regional Offices of DNBS.
+i. The fraud cases pending with CBI / Police / Court are finally disposed of. ii. The examination of staff accountability has been completed iii. The amount of fraud has been recovered or written off. iv. Insurance claim wherever applicable has been settled.
+v. The NBFC has reviewed the systems and procedures, identified as the causative factors and plugged the lacunae and the fact of which has been certified by the appropriate authority (Board / Audit Committee of the Board)
+
+<!-- PAGE 3 -->
+
+vi. NBFCs should also pursue vigorously with CBI for final disposal of pending fraud cases especially where they have completed staff side action. Similarly, NBFCs may vigorously follow up with the police authorities and / or court for final disposal of fraud cases.
+
+6. NBFCs are allowed, for limited statistical / reporting purposes, to close those fraud cases involving amounts upto Rs.25.00 lakh, where :
+a) The investigation is on or challan / charge sheet not filed in the Court for more than three years from the date of filing of First Information Report (FIR) by the CBI / Police., or
+b) The trial in the courts, after filing of charge sheet / challan by CBI / Police, has not started, or is in progress.
+## Yours faithfully
+
+(**Uma Subramanian**) Chief General Manager In-Charge

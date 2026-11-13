@@ -1,0 +1,59 @@
+---
+doc_id: "Notifications_2012_7717"
+title: "Review of the Prudential Guidelines on Restructuring of Advances by Banks/Financial Institutions"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRR261112F.pdf"
+pdf_sha256: "d593a948268af5257c7901d94c851a691f42d9d7f2d82a09f2dede131fb9eeb4"
+md_sha256: "3565156f7b047908f4af2928d1ebad0fdc8dddfb643681acd20197067cc8c663"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:35:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-11-26_Notification_7717_Review%20of%20the%20Prudential%20Guidelines%20on%20Restructuring%20of%20Advances%20by%20Banks-Financial%20Institutions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of the Prudential Guidelines on Restructuring of Advances by Banks/Financial Institutions
+
+<!-- PAGE 1 -->
+
+भारतीय रजव बक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI 2012-13/309 DBOD.No.BP.BC.63/21.04.048/2012-13 November 26, 2012 All Scheduled Commercial Banks (excluding RRBs) Dear Sir, **Review of the Prudential Guidelines on** <u>Restructuring of Advances by Banks/Financial Institutions</u> Please refer to the paragraph 90 to 92 (extract enclosed) of the Second Quarter Review of Monetary Policy 2012-13 announced on October 30, 2012, wherein it was proposed to enhance the provisioning requirements on restructured advances from the existing rates as prescribed in our <u>circular DBOD.No.BP.BC.94/21.04.048/2011-</u> <u>12 dated May 18, 2011</u>.
+
+2. Accordingly, it has been decided:
+i) To enhance the provisioning requirement for restructured accounts classified as standard advances from the existing 2.00 per cent to 2.75 per cent in the first two years from the date of restructuring. In cases of moratorium on payment of interest/principal after restructuring, such advances will attract a provision of 2.75 per cent for the period covering moratorium and two years thereafter; and that ii) Restructured accounts classified as non-performing advances, when upgraded to standard category will attract a provision of 2.75 per cent in the first year from the date of upgradation instead of the existing 2.00 per cent. बकं ग परचालन और वकास वभाग, के ���य कायालय, 12वीं मंज़ल, शहद भगत िसंह माग, मुंबई Ð400001
+Department of Banking Operations and Development,Central Office, 12th Floor, Central Office, ShahidBhagat Singh Marg, Mumbai - 400001 ’½¥¸úûÅø›¸ /Tel No: 22661602 û¾ÅÆ¬¸/Fax No: 22705691 Email ID: cgmicdbodco@rbi.org.in �हंद आसान ह, इसका ूयोग बड़ाइए
+
+<!-- PAGE 2 -->
+
+3. In accordance with the above, loans to projects under implementation, when restructured due to change in the date of commencement of commercial operations (DCCO) beyond the original DCCO as envisaged at the time of financial closure and
+
+|classified as standard advances in terms of our guidelines contained in our DBOD.No.BP.BC.85 /21.04.048/2009-10 dated March 31, 2010|circular, would attract higher|
+|---|---|
+|provisioning at 2.75 per cent as against the present requirement of 2.00 per cent as per the details given below: Infrastructure projects||
+|Particulars If the revised DCCO is within two years from the original DCCO prescribed at the time of financial 0.40 per cent closure|Provisioning Requirement|
+|If the DCCO is extended beyond two years and upto 2.75 per cent – From four years or three years from the original DCCO, as the date of such the case may be, depending upon the reasons for such delay (Ref.: DBOD.No.BP.BC.85 /21.04.048/2009-10 revised DCCO or 2 dated March 31, 2010) Non-infrastructure projects|restructuring till the years from the date of restructuring, whichever is later.|
+|Particulars If the revised DCCO is within six months from the original DCCO prescribed at the time of financial 0.40 per cent closure|Provisioning Requirement|
+|If the DCCO is extended beyond six months and upto one year from the original DCCO prescribed at the time of financial closure (Ref.: DBOD.No.BP.BC.85 restructuring for 2 /21.04.048/2009-10 dated March 31, 2010)|2.75 per cent – From the date of such years.|
+
+<!-- PAGE 3 -->
+
+4. All other extant guidelines on Income Recognition, Asset Classification and Provisioning pertaining to advances remain unchanged. Yours faithfully, (Rajesh Verma) Chief General Manager Encl.: As above
+
+<!-- PAGE 4 -->
+
+## Reserve Bank of India
+
+## Second Quarter Review of Monetary Policy 2012-13
+
+## Review of the Prudential Guidelines on Restructuring of Advances by Banks/Financial Institutions
+
+90. As indicated in the Monetary Policy Statement of April 2012, a Working Group (Chairman: Shri B. Mahapatra) reviewed the existing prudential guidelines on restructuring of advances by banks/financial institutions. The report of the Working Group was submitted in July and was placed on the website of the Reserve Bank inviting comments from the stakeholders.
+91. The recommendations of the Working Group as also the comments/suggestions received in this regard are under examination and draft guidelines will be issued by end-January 2013. As an immediate measure, it has been decided to:
+- increase the provision for restructured standard accounts from the existing 2.0 per cent to 2.75 per cent.
+92. Detailed guidelines in this regard are being issued separately.

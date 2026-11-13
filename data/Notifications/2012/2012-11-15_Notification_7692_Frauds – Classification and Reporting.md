@@ -1,0 +1,87 @@
+---
+doc_id: "Notifications_2012_7692"
+title: "Frauds – Classification and Reporting"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE2FC1511112.pdf"
+pdf_sha256: "c1313b6c2b956a9d88f42026070a3507727267017f129648e979690cc987814c"
+md_sha256: "4bac8a3b745ab7549648c35efa044917212d0043668891578d1f33d5cefa43eb"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:35:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-11-15_Notification_7692_Frauds%20%E2%80%93%20Classification%20and%20Reporting.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Frauds – Classification and Reporting
+
+<!-- PAGE 1 -->
+
+BANK
+
+RESERVEBANK OF INDIA
+
+www.rbi.org.in
+
+RBI2012-13/293
+
+DBS.FrMC.BC.No.04/23.04.001/2012-13
+
+November15,2012
+
+TheChairmen&ChiefExecutiveOfficers of all
+
+Scheduled Commercial Banks (excluding RRBs)
+
+andAllIndiaSelectFinancialInstitutions
+
+Dear Sir,
+
+Frauds -Classification and Reporting
+
+Please refer to our circular DBS. FrMC. BC. No.1 /23.04.001/2012-13 dated July 02.
+
+2. As per para 3.4 of the above mentioned circular, cases of attempted fraud, where
+
+the likely loss would have been ? 10.o0 million or more had the fraud taken place,
+
+should be reported by the banks to the Fraud Monitoring Cell, Department of Banking
+
+banks coming to know that the attempt to defraud the bank had failed or was foiled.
+
+3. On a review and as a part of rationalisation of process and procedures, it has been
+
+practice of reporting attempted fraud cases of  10 million and above to Reserve
+
+e
+
+office maybe discontinued from the date of the circular.
+
+4. However, the banks should continue to place the individual cases involving 10
+
+millionand above beforetheAudit Committee of its Board as hitherto as per the
+
+attempted frauds whichis tobe placedbefore theAudit committee of theBoard
+
+should cover the following viz.
+
+Department of Banking Supervision, Central Office, World Trade Centre 1, Cuffe Parade, Colaba, Mumbai - 400 005, INDIA
+
+Tele:(9122) 22181281 Fax: 022 22152461 e-mail: cgmicdbsco@rbi.org.in
+
+"Caution: RBl never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.
+
+It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+- The modus operandi of the attempted fraud.
+- How the attempt did not materialize in the fraud or how the attempt failed / was foiled.
+- The measures taken by the bank to strengthen the existing systems and controls
+- New systems and controls put in place in the area where fraud was attempted.
+- In addition yearly consolidated review of such cases detected during the year containing information such area of operations where such attempts were made, effectiveness of new process and procedures put in place during the year, trend of such cases during the last three years, need for further change in process and procedures, if any, etc as on March 31 every year starting from the year ending March 31, 2013 within three months of the end of the relative year.
+## Yours faithfully
+
+(A. Madasamy) Chief General Manager

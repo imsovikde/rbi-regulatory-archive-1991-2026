@@ -1,0 +1,72 @@
+---
+doc_id: "Notifications_2012_7684"
+title: "Readiness of major service providers to migrate from IPv4 to IPv6"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCBD081112FL.PDF"
+pdf_sha256: "5b845dda20687654e716e90eade327f9d6095683c19c184744bb2e4d1050f772"
+md_sha256: "09fb9fb422eee82387ec1d641191a28bb538250ff1d8eaa787a433472562ed72"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:35:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-11-08_Notification_7684_Readiness%20of%20major%20service%20providers%20to%20migrate%20from%20IPv4%20to%20IPv6.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Readiness of major service providers to migrate from IPv4 to IPv6
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/289
+
+DNBS(Inf.).CC.No309/24.01.022/2012-13
+
+November08,2012
+
+All Non Banking Financial Companies /
+
+ResiduaryNonBanking Companies
+
+Dear Sir/Madam,
+
+Readiness of major service providers to migrate from IPv4 to IPv6
+
+As you may be aware, the Government has envisaged providing “Broadband on Demand" by
+
+2015 in the recently unveiled National Telecom Policy (NTP) - 2012 emphasizing the role of
+
+Internet as catalyst for socio-economic development of a country and serves as an effective
+
+version of Internet Protocol (IPv4) has almost run out of addresses, the broadband revolution
+
+s
+
+futuristic role of IPv6 and aims to achieve substantial transition to IPv6 in the country.
+
+Department of Telecommunication under the Ministry of Communication and Information
+
+Technology, Government of India has undertaken the initiative of migration from IPv4 to IPv6.
+
+Since migration to IPv6 is an eventuality that has to be accepted and manage proactively,
+
+government wants it to be done in a planned way rather than against time. They have
+
+expressed that the migration of all payment gateways, banks, financial institutions, insurance
+
+companies etc. including their web sites should be completed preferable by December 2012.
+
+You may initiate necessary action by constituting a special team to complete the migration
+
+within the stipulated time.
+
+<!-- PAGE 2 -->
+
+-2- In case you need any clarifications/assistance on IPv6 implementation, kindly contact Shri R.
+
+M. Agarwal, DDG (NT), DoT (Mobile number 9868133440) who is heading the team which is providing relevant support to all stakeholders. Yours faithfully, (Uma Subramaniam) Chief General Manager-in-charge

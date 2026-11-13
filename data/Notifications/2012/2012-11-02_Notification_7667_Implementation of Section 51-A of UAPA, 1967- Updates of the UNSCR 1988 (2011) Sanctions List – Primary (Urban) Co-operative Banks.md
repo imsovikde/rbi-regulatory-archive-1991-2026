@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2012_7667"
+title: "Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988 (2011) Sanctions List – Primary (Urban) Co-operative Banks"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UBP23021112FS.pdf"
+pdf_sha256: "3bfb14b34e937ed4c21c732062c0e66ffe2f8fb5a704e2676c3da576b41b00dc"
+md_sha256: "404575423d555d2037b69cc14b321ca08f4549be5e8d401aa3d04db213dea84c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:35:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-11-02_Notification_7667_Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967-%20Updates%20of%20the%20UNSCR%201988%20%282011%29%20Sanctions%20List%20%E2%80%93%20Primary%20%28Urban%29%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988 (2011) Sanctions List – Primary (Urban) Co-operative Banks
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़र्व बैंक
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2012-13/276 UBD.BPD (PCB) Cir. No.23/14.01.062/2012-13 November 2, 2012
+
+The Chief Executive Officer of All Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+## Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988
+
+## (2011) Sanctions List – Primary (Urban) Co-operative Banks
+
+Please refer to our <u>circular UBD.BPD (PCB) Cir. No.22/14.01.062/2012-13 dated</u> <u>November 1, 2012</u>. We have since received from Government of India, Ministry of External Affairs, UNP Division, copy of note dated October 25, 2012 forwarded by the Chairman of UN Security Council's 1988 (2011) Committee (<u>copy enclosed</u>) regarding changes made in the ‘1988 Sanctions List’, i.e. list of individuals and entities linked to Taliban.
+
+2. Primary (Urban) Co-operative Banks (UCBs) are required to update the list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+3. UCBs are advised to strictly follow the procedure laid down in the UAPA Order dated August 27, 2009 enclosed to our <u>circular UBD.CO.BPD. PCB. Cir. No.</u> <u>21/12.05.001/2009-10 dated November 16, 2009</u> and ensure meticulous compliance to the Order issued by the Government.
+4. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 7 of the circular dated November 16, 2009, mentioned above. शहरी बैंक विभाग,कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ ए बी रोड, िरली, मंबई- 400018 भारत फोन: 022 -2493 9930-49; फै क्स: 022 -2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 -<u>49; Fax: 022 - 2497 4030 / 2492 0231; Email:</u> cgmincubd@rbi.org.in
+<u>बैंक हहन्दी में पत्राचार का स्िागत करता है —</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररये कोई भी व्यज़क्तगत जानकारी जैसे बैंक खाते का ब्यौरा, पासिडा आहद नहीं मााँगा जाता है। यह धन रखने या देने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+5. The complete details of the said list are available on the UN website: <u>[http://www.un.org/sc/committees/1988/list.shtml](http://www.un.org/sc/committees/1988/list.shtml)</u>
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular to the Regional Office concerned. Yours faithfully, (Scenta Joy) Deputy General Manager Encl: As above
+- 2 -

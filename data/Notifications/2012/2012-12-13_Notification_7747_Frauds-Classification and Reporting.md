@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2012_7747"
+title: "Frauds-Classification and  Reporting"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCN315131212.pdf"
+pdf_sha256: "dc0a4322f711a8d176bc61861e8598f86b5aaa03ef30b1ca70474e37d380ec23"
+md_sha256: "f9630ba903d4bfab1763a9aad2530b1bbaf4e4a1d57d1dc6d3823dc45c951c16"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-12-13_Notification_7747_Frauds-Classification%20and%20Reporting.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Frauds-Classification and  Reporting
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/329 DNBS (PD).CC. No. 315 /03.10.42 /2012-13 December 13, 2012
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir / Madam, <u>Frauds-Classification and Reporting</u>
+
+Please refer to our <u>Circular No 283 dated July 2, 2012</u> i.e. the Master Circular-Frauds – Future approach towards monitoring of frauds in NBFCs.
+
+2. As per para 3.4 of the above mentioned circular, cases of attempted fraud, involving likely loss of Rs 25 lakh or more should be reported to the Central Office of the Reserve Bank, Department of Banking Supervision, Frauds Monitoring Cell and a copy endorsed to Central Office of the Reserve Bank, Department of Non-Banking Supervision indicating the modus operandi and how the fraud came to light. Such cases should not be included in the other returns to be submitted to the Reserve Bank.
+3. On a review and as a part of rationalisation of process and procedures, it has been decided to amend para 3.4 of Master Circular DNBS.PD.CC. No.283/03.10.042/2012-13 dated July 02, 2012 on Frauds – Future approach towards monitoring of frauds in NBFCs. Accordingly, the practice of reporting attempted fraud cases of Rs 25 lakh or more to Reserve Bank of India, Fraud Monitoring Cell, Department of Banking Supervision, Central office may be discontinued from **the date of the circular**.
+4. However, the NBFCs should continue to place the individual cases involving Rs 25 lakh or more before the Audit Committee of its Board as hitherto as per the instructions contained in above mentioned Master Circular. The report containing attempted frauds which is to be placed before the Audit committee of the Board should cover inter alia the following viz,
+
+<!-- PAGE 2 -->
+
+- The modus operandi of the attempted fraud. ‘
+- How the attempt did not materialize in the fraud or how the attempt failed / was foiled.
+- The measures taken by the NBFC to strengthen the existing systems and controls
+- New systems and controls put in place in the area where fraud was attempted.
+- In addition yearly consolidated review of such cases detected during the year containing information such area of operations where such attempts were made, effectiveness of new process and procedures put in place during the year, trend of such cases during the last three years, need for further change in process and procedures, if any, etc as on March 31 every year starting from the year ending March 31, 2013 within three months of the end of the relative year.
+Yours faithfully,
+
+(Uma Subramaniam) Chief General Manager-in-Charge
