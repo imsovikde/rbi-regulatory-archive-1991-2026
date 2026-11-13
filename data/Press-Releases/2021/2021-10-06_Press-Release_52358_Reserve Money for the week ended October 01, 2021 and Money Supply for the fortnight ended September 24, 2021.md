@@ -1,0 +1,38 @@
+---
+doc_id: "Press-Releases_2021_52358"
+title: "Reserve Money for the week ended October 01, 2021 and Money Supply for the fortnight ended September 24, 2021"
+category: "Press-Releases"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR99388D1D36A7CB040128A56424147866252.PDF"
+pdf_sha256: "53e2edb05a044f187a2e518e83b7f345f412cc3f731ec09405f56826ab2b7de6"
+md_sha256: "bdeec6f4ca539a0506ce219f69d28930e79e628b13e037c25f2561fff2a98ae5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T23:16:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2021/2021-10-06_Press-Release_52358_Reserve%20Money%20for%20the%20week%20ended%20October%2001%2C%202021%20and%20Money%20Supply%20for%20the%20fortnight%20ended%20September%2024%2C%202021.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Money for the week ended October 01, 2021 and Money Supply for the fortnight ended September 24, 2021
+
+<!-- PAGE 1 -->
+
+�ेस काशनी **PRESS RELEASE**
+
+# भारतीय �रज़वर् बक
+
+**RESERVE BANK OF INDIA** संचार िवभाग, क � ी य कायार्लय, एस.बी.एस.मागर्, मुंबई**-**400001 0वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **Department of Communication,** Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 022- 22660502 ई-मेल/email **:** <u>helpdoc@rbi.org.in</u>
+
+## October 06, 2021
+
+## Reserve Money for the week ended October 01, 2021 and
+
+## Money Supply for the fortnight ended September 24, 2021
+
+The Reserve Bank has today released data on <u>Reserve Money</u> for the week ended October 01, 2021 and <u>Money Supply</u> for the fortnight ended September 24, 2021.
+
+## Ajit Prasad
+
+**Press Release** : **2021-2022/993** Director
