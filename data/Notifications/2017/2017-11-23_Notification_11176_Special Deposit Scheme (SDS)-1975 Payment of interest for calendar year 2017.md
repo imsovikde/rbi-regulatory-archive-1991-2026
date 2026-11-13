@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2017_11176"
+title: "Special Deposit Scheme (SDS)-1975 Payment of interest for calendar year 2017"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT100204B9C87945142BD98D96752B70B2173.PDF"
+pdf_sha256: "937827831d31e2f46361ff6b1da2aab524d83ee676886c93f401b3a567ff8335"
+md_sha256: "9d638484b2008dd5d07cdb449ff87a9380e456887659b31ad3b0dc19676fa111"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-11-23_Notification_11176_Special%20Deposit%20Scheme%20%28SDS%29-1975%20Payment%20of%20interest%20for%20calendar%20year%202017.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Special Deposit Scheme (SDS)-1975 Payment of interest for calendar year 2017
+
+<!-- PAGE 1 -->
+
+RBI/2017-18/100 DGBA.GBD.No.1387/15.01.001/2017-18 November 23, 2017
+
+The Chairman/Managing Director/Chief Executive Officer/ Agency Banks Handling the Special Deposit Scheme 1975 Dear Sir
+
+## Special Deposit Scheme (SDS)-1975 Payment of interest for calendar year 2017
+
+We want to inform that gazette notifications related to interest rates for SDS 1975 are available in Government of India website viz. <u>egazette.nic.in</u> which can be perused for guidance. You may please ensure that interest for the calendar year 2017 for SDS 1975 is disbursed to the account holders as per the rates mentioned in the gazette.
+
+2. We advise that interest for the calendar year 2017 may be disbursed to the SDS account holders through electronic mode or by way of account payee cheques on **January 01, 2018** itself, subject to instructions, as applicable now, contained in our circular CO.DT.No.15.01.001/H-3527/2003-04 dated December 30, 2003.
+3. Please issue suitable instructions to all your Deposit Offices.
+## Yours faithfully
+
+(Harsha Vardhan) Manager
+
+_______________________________________________________________ सरकारी और बक लेखा िवभाग, क � ी य कायार्लय, मुंबई स�ल रेलवे स्टेशन के सामने, चौथी मंिजल, भायखला, मुंबई -400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, 4thFloor, Byculla, Mumbai - 400 008 Telephone: (022) 23016214,(022)23001670 Fax No. (022) 2300 8764/23009126/2301 0095, e-mail : <u>pcgmdgbaco@rbi.org.in</u> <u>�हदी आसान है, इसका योग बढ़ाइए ।</u>

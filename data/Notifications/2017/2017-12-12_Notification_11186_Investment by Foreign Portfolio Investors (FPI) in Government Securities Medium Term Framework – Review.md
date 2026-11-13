@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2017_11186"
+title: "Investment by Foreign Portfolio Investors (FPI) in Government Securities Medium Term Framework – Review"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1082168B7EA8E6A4B95AE83D9F797415645.PDF"
+pdf_sha256: "4171870fc5bd5add330d1c2cc49bded6760cccaf70688776e87c53a02d6b8d67"
+md_sha256: "5190dc889adb5d1a0606f1908d9e38bcbe6c461b54d203d3c5228f4f009298b3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-12-12_Notification_11186_Investment%20by%20Foreign%20Portfolio%20Investors%20%28FPI%29%20in%20Government%20Securities%20Medium%20Term%20Framework%20%E2%80%93%20Review.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Foreign Portfolio Investors (FPI) in Government Securities Medium Term Framework – Review
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2017-18/108
+
+A.P. (DIR Series) Circular No. 14 December 12, 2017 To, All Authorized Persons Madam / Sir
+## Investment by Foreign Portfolio Investors (FPI) in Government Securities
+
+## Medium Term Framework – Review
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule 5 to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide <u>Notification No. FEMA.20/2000-RB dated May 3, 2000</u>, as amended from time to time.
+
+## Revision of Limits for the next quarter Jan-Mar 2018
+
+2. The limits for investment by FPIs for the quarter January – March 2018 is increased by INR 64 billion in Central Government Securities (Central G-Secs) and INR 58 billion in State Development Loans (SDLs). The revised limits are allocated as per the modified framework prescribed in the <u>RBI/2017-18/12 A.P.(Dir Series) Circular No.1 dated July 3, 2017</u>, and given as under.
+
+||||Limits for FPI investment in Government Securities||||(₹ Billion)|
+|---|---|---|---|---|---|---|---|
+|||Central Government Securities|||State Development Loans||Aggregate|
+||General|Long Term|Total|General|Long Term|Total||
+|Existing limits|1,897|603|2,500|300|93|393|2,893|
+|Revised limits|1,913|651|2,564|315|136|451|3,015|
+
+3. The revised limits will be effective from January 01, 2018.
+4. The operational guidelines relating to allocation and monitoring of limits will be issued by the Securities and Exchange Board of India (SEBI).
+वत्तीय बाज़ार व�नयमन वभाग, मुख्य भवन, पहल मंिज़ल, शहद भगत संह मागर्, फोटर्, मुंबई – 400001. फोन: (91-22) 22603000, फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in
+
+Financial Markets Regulation Department, Main Building, 1 st Floor, Shahid Bhagat Singh Road, Fort, Mumbai – 400001. Tel: (91-22) 22603000, Fax: (91-22) 22702290 e-mail- cgmfmrd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+5. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approval, if any, required under any other law.
+## Yours faithfully
+
+(T. Rabi Sankar) Chief General Manager

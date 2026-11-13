@@ -1,0 +1,106 @@
+---
+doc_id: "Notifications_2017_11144"
+title: "Risk Management and Inter-Bank Dealings – Facilities for Hedging Trade Exposures invoiced in Indian Rupees"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI751110171AF373C2E2B94324A3592F20457739FE.PDF"
+pdf_sha256: "6c124240476fb3997f8f830e151cfb9c8e18036a3a285be534d893ca92541531"
+md_sha256: "7cddf2b7252e1bda16c2c9665d993eef003d99f31779168eaa20ca3242d041b9"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-10-12_Notification_11144_Risk%20Management%20and%20Inter-Bank%20Dealings%20%E2%80%93%20Facilities%20for%20Hedging%20Trade%20Exposures%20invoiced%20in%20Indian%20Rupees.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter-Bank Dealings – Facilities for Hedging Trade Exposures invoiced in Indian Rupees
+
+<!-- PAGE 1 -->
+
+## RBI/2017-18/75 A.P. (DIR Series) Circular No. 08 October 12, 2017
+
+To
+
+All Authorized Dealer Category-I Banks
+
+Madam / Sir,
+
+## Risk Management and Inter-Bank Dealings – Facilities for Hedging Trade
+
+## Exposures invoiced in Indian Rupees
+
+Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (<u>Notification No. FEMA. 25/RB-2000 dated May 3, 2000</u>) and <u>Master Directions on Risk Management and Inter-Bank Dealings dated July 5, 2016</u> as amended from time to time.
+
+2. In terms of para 6 under Section II (Facilities for Persons Residents outside India) of the aforementioned master direction, non-residents are permitted to hedge the currency risk arising out of INR invoiced exports from and imports to India with AD Category I banks in India. On a review of this facility, it has been decided to permit the central treasury (of the group and being a group entity) of such non-residents to undertake hedges for and behalf of such non-residents with AD Category I banks in India as per the existing Model I and Model II. The revised operational guidelines, terms and conditions are placed at <u>Annex</u> to this circular.
+3. The directions contained in this circular have been issued under Sections 10 (4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(T Rabi Sankar) Chief General Manager
+
+<!-- PAGE 2 -->
+
+Annex
+
+## Facilities for Hedging Trade Exposures, invoiced in Indian Rupees in India
+
+## Purpose
+
+To hedge the currency risk arising out of genuine trade transactions involving exports from and imports to India, invoiced in Indian Rupees, with AD Category I banks in India.
+
+## Products
+
+Forward foreign exchange contracts with rupee as one of the currencies, foreign currency-INR options.
+
+## Operational Guidelines, Terms and Conditions
+
+The AD Category I banks can opt for either Model I or Model II as given below:
+
+## Model I
+
+Non-resident exporter / importer or its central treasury (of the group and being a group entity) dealing through their overseas bank (including overseas branches of AD banks in India)
+
+i. Non-resident exporter / importer, or its central treasury approaches his banker overseas with appropriate documents with a request for hedging their Rupee exposure arising out of a confirmed import or export order invoiced in Rupees. ii. The overseas bank in turn approaches its correspondent in India (i.e. the AD bank in India) for a price to hedge the exposure of its customer along with documentation furnished by the customer that will enable the AD bank in India to satisfy itself that there is an underlying trade transaction (scanned copies would be acceptable). The following undertakings also need to be taken from the customer:
+a. That the same underlying exposure has not been hedged with any other AD Category I bank/s in India
+b. If the underlying exposure is cancelled, the customer will cancel the hedge contract immediately
+c. In case of a central treasury, an authorization from the entity having INR exposure to hedge on its behalf
+iii. A certification on the end client KYC may also be taken as a one-time document from the overseas bank by the AD bank in India.
+
+<!-- PAGE 3 -->
+
+iv. The AD bank in India based on documents received from the overseas correspondent should satisfy itself about the existence of the underlying trade transaction and offer a forward price (no two-way quotes should be given) to the overseas bank who, in turn, will offer the same to its customer. The AD bank, therefore, will ‘not be’ dealing directly with the overseas importer / exporter.
+
+v. The amount and tenor of the hedge should not exceed that of the underlying transaction and should be in consonance with the extant regulations regarding tenor of payment / realization of the proceeds. vi. On due date, settlement is to be done through the correspondent bank’s Vostro or the AD bank’s Nostro accounts.
+vii. The contracts, once cancelled, cannot be rebooked.
+
+viii. The contracts may, however, be rolled over on or before maturity subject to maturity of the underlying exposure.
+
+ix. On cancellation of the contracts, gains may be passed on to the customer subject to the customer providing a declaration that he is not going to rebook the contract or that the contract has been cancelled on account of cancellation of the underlying exposure.
+
+x. In case the underlying trade transaction is extended, rollover can be permitted once based on the extension of the underlying trade transaction for which suitable documentation is to be provided by the overseas bank and the same procedure followed as in case of the original contract.
+## Model II
+
+Non-resident exporter / importer or its central treasury (of the group and being a group entity) dealing directly with the AD bank in India
+
+i. The overseas exporter / importer or its central treasury approaches the AD bank in India with a request for forward cover in respect of underlying transaction for which he furnishes appropriate documentation (scanned copies would be acceptable), on a pre-deal basis to enable the AD bank in India to satisfy itself that there is an underlying trade transaction, and details of his overseas banker, address etc. The following undertakings also need to be taken from the customer
+a. That the same underlying exposure has not been hedged with any other AD Category I bank/s in India.
+b. If the underlying exposure is cancelled, the customer will cancel the hedge contract immediately.
+c. In case of a central treasury, an authorization from the entity having INR exposure to hedge on its behalf
+
+<!-- PAGE 4 -->
+
+ii. The AD bank may obtain certification of KYC/AML in the format in Annex XVIII. The format can be obtained through the overseas correspondent / bank through SWIFT authenticated message. In case the AD bank has a presence outside India, the AD may take care of the KYC/AML through its bank’s offshore branch.
+
+iii. AD banks should evolve appropriate arrangements to mitigate credit risk. Credit limits can be granted based on the credit analysis done by self / the overseas branch.
+
+iv. The amount and tenor of the hedge should not exceed that of the underlying transaction and should be in consonance with the extant regulations regarding tenor of payment / realization of the proceeds.
+
+v. On due date, settlement is to be done through the correspondent bank’s Vostro or the AD bank’s Nostro accounts. AD banks in India may release funds to the beneficiaries only after sighting funds in Nostro / Vostro accounts. vi. The contracts, once cancelled, cannot be rebooked.
+vii. The contracts may, however, be rolled over on or before maturity subject to maturity of the underlying exposure.
+
+viii. On cancellation of the contracts, gains may be passed on to the customer subject to the customer providing a declaration that he is not going to rebook the contract or that the contract has been cancelled on account of cancellation of the underlying exposure.
+
+ix. In case the underlying trade transaction is extended, rollover can be permitted once based on the extension of the underlying trade transaction for which suitable documentation is to be provided by the overseas bank and the same procedure followed as in case of the original contract.
+
+x. AD banks shall report hedge contracts booked under this facility to CCIL’s trade repository with a special identification tag.
