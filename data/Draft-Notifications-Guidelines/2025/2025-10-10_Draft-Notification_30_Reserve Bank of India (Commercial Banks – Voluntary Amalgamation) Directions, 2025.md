@@ -1,0 +1,203 @@
+---
+doc_id: "Draft-Notifications-Guidelines_2025_30"
+title: "Reserve Bank of India (Commercial Banks – Voluntary Amalgamation) Directions, 2025"
+category: "Draft-Notifications-Guidelines"
+year: 2025
+source_rbi_url: "http://rbidocs.rbi.org.in/rdocs/notification/PDFs/30VOLUNTARYAMALGAMATION101025F67B7A1E4145475FB7D36274D7E931EC.PDF"
+pdf_sha256: "524e681c3496b1287b8e3f328bd7012faef1fe6fcc611533993b45a6b11e4c10"
+md_sha256: "599c521aae3ead506486cc80b9793d6d6f11aa9688822a4d8fa10cdf7562a0e3"
+total_pages: 14
+native_pages: 14
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T11:06:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_30_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Voluntary%20Amalgamation%29%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks – Voluntary Amalgamation) Directions, 2025
+
+<!-- PAGE 1 -->
+
+# Draft Reserve Bank of India (Commercial Banks-Voluntary Amalgamation) Directions
+
+# DRAFT FOR COMMENTS
+
+RBI/2025-26/-- DoR.HOL.REC.No./00-00-000/2025-26 XX, 2025
+
+# Draft Reserve Bank of India (Commercial Banks-Voluntary Amalgamation) Directions
+
+# Table of Contents
+
+**Chapter I-Preliminary**.................................................................................................... 2
+
+**A. Short Title and Commencement**............................................................................. 2
+**B. Applicability**............................................................................................................. 2
+**C. Definitions**................................................................................................................ 2
+**D. Scope**....................................................................................................................... 3
+**Chapter II – Approval by Board of Directors and Shareholders**................................... 4
+
+**A. Approval by Board of Directors**.............................................................................. 4
+**B. Approval by Shareholders**...................................................................................... 5
+**Chapter III – Approval or sanction by RBI**..................................................................... 7
+**Chapter IV – Entitlement of dissenting shareholders**................................................... 8
+**Chapter V – Norms for buying / selling of shares by promoters**.................................. 9
+**Chapter VI – Repeal and Other Provisions**.................................................................. 10
+
+**A. Repeal and saving**................................................................................................. 10
+**B. Application of other laws not barred**.................................................................... 10
+**C. Interpretations**....................................................................................................... 10
+**Annex**............................................................................................................................. 11
+
+<!-- PAGE 2 -->
+
+In exercise of the powers conferred by Section 44A and Section 35A of the Banking Regulation Act, 1949 and all other provisions / laws enabling the Reserve Bank of India (‘RBI’) in this regard, RBI being satisfied that it is necessary and expedient in the public interest to do so, hereby issues the Directions hereinafter specified. **Chapter I-Preliminary**
+
+**A. Short Title and Commencement**
+1. These Directions shall be called the Reserve Bank of India (Commercial Banks – Voluntary Amalgamation) Directions, 2025.
+2. These Directions shall come into force with immediate effect.
+## B. Applicability
+
+3. These Directions shall be applicable to all private sector banks (hereinafter collectively referred to as 'banks' and individually as a 'bank') excluding Small Finance Banks (SFBs), Local Area Banks (LABs), Payments Banks (PBs) and Regional Rural Banks (RRBs).
+## C. Definitions
+
+4. In these directions, unless the context states otherwise, the terms herein shall bear the meanings assigned to them below:
+(1) ‘**Amalgamated Entity**’ means the entity which is proposed to transfer its business to another entity under the scheme of amalgamation.
+(2) ‘**Amalgamating Entity**’ means the entity which is to acquire the business of the amalgamated entity under the scheme of amalgamation.
+(3) ‘**Amalgamation**’ refers to one or more entities merging with another entity under the relevant statutes / regulations through a scheme of amalgamation (or whatever name called), which sets out the terms and modalities of the process.
+(4) **‘Private Sector Banks’** means banks licensed to operate in India under Banking Regulation Act, 1949, other than Urban Co-operative Banks, Foreign Banks and banks licensed under specific Statutes.
+
+<!-- PAGE 3 -->
+
+(5) ‘**Tribunal**’ means the National Company Law Tribunal constituted under Section 408 of the Companies Act, 2013 (as defined in sub-section (90) of Section 2 of the said Act), as amended from time to time.
+5. All other expressions, unless defined herein, shall have the same meaning as have been assigned to them under the Reserve Bank of India Act, 1934, or the Banking Regulation Act, 1949, or any statutory modification or re-enactment thereto, or <u>Glossary</u> of Terms published by the RBI, or as used in commercial parlance, as the case may be.
+## D. Scope
+
+6. The undernoted cases of amalgamation shall be covered under these Directions:
+
+<!-- PAGE 4 -->
+
+## Chapter II – Approval by Board of Directors and Shareholders
+
+## A. Approval by Board of Directors
+
+7. The decision of amalgamation shall be approved by two-third majority of the total number of Board members (not merely of those present and voting) of both the amalgamating and the amalgamated banks. *Provided that,* it shall be ensured that ‘Deeds of Covenants’, as indicated in <u>Reserve Bank of India (Commercial Banks-Governance) Directions, 2025</u>, have been obtained from all independent and non-executive directors participating in the said meetings.
+8. While giving approval, the Boards of the banks concerned shall give particular consideration to the following matters:
+(i) Whether due diligence exercise has been undertaken in respect of the amalgamated entity. (ii) The changes which are proposed to be made in the composition of the Board of Directors of the amalgamating entity, consequent upon amalgamation, and the resultant composition of the Board are in conformity with the Reserve Bank guidelines / directives in this regard. (iii) The nature of the consideration that the amalgamating entity will pay to the shareholders of the amalgamated entity. (iv) Whether the swap ratio has been determined by independent valuers having required competence and experience and whether, in the opinion of the Board, such swap ratio is fair and proper.
+(v) The shareholding pattern in the concerned entities and whether, as a result of the amalgamation and the swap ratio, the shareholding of any person, entity or group in the amalgamating entity will be in contravention of RBI guidelines or any other applicable statute, or regulatory instruction, requiring prior approval from RBI or any other regulatory or administrative authority. (vi) The values at which the assets, liabilities and reserves of the amalgamated entity are proposed to be incorporated into the books of
+
+<!-- PAGE 5 -->
+
+the amalgamating entity and whether such incorporation will result in a revaluation of assets upwards, or credit being taken for unrealised gains. (vii) The impact of amalgamation on the profitability and capital adequacy ratio of the amalgamating entity.
+
+9. In case of amalgamation of an NBFC with a bank or vice versa, the Board of the bank shall, in addition to the requirement stipulated in paragraph 8, also examine whether:
+(i) The NBFC has violated or is likely to violate any of the RBI / SEBI norms and if so, the Board shall ensure that these norms are complied with before the scheme of amalgamation is approved. (ii) The NBFC has complied with the ‘Know Your Customer’ norms for all the accounts. (iii) If the NBFC has availed of credit facilities from a bank / FI, whether the loan agreements mandate the NBFC to seek consent of the bank / FI concerned for the proposed merger / amalgamation.
+## B. Approval by Shareholders
+
+10. The draft scheme of amalgamation, having been approved separately by the Boards of Directors of each of the entities under amalgamation, in accordance with paragraph 7 to paragraph 9 of these Directions, as applicable, shall be approved by the shareholders of the banks undergoing amalgamation by a resolution passed by a majority in number, representing two-thirds in value of the shareholders of the said bank, present in person or by proxy at a meeting called for the purpose. *Provided that* the ceiling on voting rights under Section 12(2) of the Banking Regulation Act, 1949, shall apply when there is a poll to determine whether the resolution has been passed by required majority.
+11. The notices of every meeting of the shareholders called for approving the draft scheme of amalgamation shall be published in newspapers at least once a week for three consecutive weeks in not less than two newspapers circulating in the locality or localities where the registered offices of the banks are situated, and
+
+<!-- PAGE 6 -->
+
+one of the newspapers shall be in a language commonly understood in the locality or localities.
+
+<!-- PAGE 7 -->
+
+## Chapter III – Approval or sanction by RBI
+
+12. Subsequent to the scheme of amalgamation being approved by the requisite majority of shareholders as specified under Paragraph 10 of these Directions, it shall be submitted to RBI for approval or sanction, as applicable. *Provided that* for voluntary amalgamation of an NBFC with a bank or vice versa, scheme of amalgamation shall require approval by the Tribunal in terms of Sections 230 to 234 of the Companies Act, 2013. However, No-Objection Certificate’ from RBI shall be obtained before approaching any Court or Tribunal for approval of amalgamation of a bank and an NBFC.
+13. For this purpose, information and documents shall be submitted to RBI through the PRAVAAH portal (<u>[https://pravaah.rbi.org.in](https://pravaah.rbi.org.in)</u>) as under:
+(i) Amalgamation of two banks: The amalgamating and amalgamated banks shall submit the information and documents in accordance with the requirements specified in <u>Annex</u>. (ii) Amalgamation of an NBFC with a bank or *vice versa*: The bank shall submit the information and documents in accordance with <u>Annex</u>, excluding item 4.
+
+<!-- PAGE 8 -->
+
+## Chapter IV – Entitlement of dissenting shareholders
+
+14. In terms of Section 44A (3) of the Banking Regulation Act, 1949, a dissenting shareholder is entitled, in the event of the scheme being sanctioned by RBI, to claim within three months from the date of sanction, from the entity concerned, the value of the shares held by the shareholder in that entity, as determined by RBI when sanctioning the scheme. Such determination by the RBI of the value of the shares shall be final for all purposes.
+
+<!-- PAGE 9 -->
+
+## Chapter V – Norms for buying / selling of shares by promoters
+
+15. In case of amalgamation of listed companies, SEBI regulations on Prohibition of Insider Trading shall be adhered to, as the information relating to amalgamation and transfer of shares are price sensitive. Even in cases of amalgamation of unlisted companies, the SEBI regulations and guidelines should be followed in spirit and to the extent applicable.
+
+<!-- PAGE 10 -->
+
+## Chapter VI – Repeal and Other Provisions
+
+## A. Repeal and saving
+
+16. With the issue of these Directions, the existing Directions, instructions, and guidelines relating to voluntary amalgamation as applicable to private sector banks stand repealed, as communicated vide notification dated XX, 2025. The directions, instructions, and guidelines repealed prior to the issuance of these Directions shall continue to remain repealed.
+17. Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as governed by these Directions.
+## B. Application of other laws not barred
+
+18. The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force.
+## C. Interpretations
+
+19. For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the RBI may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the RBI shall be final and binding.
+
+<!-- PAGE 11 -->
+
+## Annex
+
+## Information and documents to be furnished along with the application of
+
+## Scheme of Amalgamation
+
+## A. Approval by Shareholders
+
+1. Draft scheme of amalgamation as placed before the shareholders of the respective companies for approval.
+2. Copies of the notices of every meeting of the shareholders called for approval of scheme of amalgamation, together with newspaper cuttings evidencing compliance with the notice publication requirements set out in paragraph 11 of these Directions.
+3. Certificates signed by each of the officers presiding at the meeting of shareholders certifying the following:
+(1) A copy of the resolution passed at the meeting;
+(2) The number of shareholders present at the meeting in person, or by proxy;
+(3) The number of shareholders who voted in favour of the resolution, and the aggregate number of shares held by them;
+(4) The number of shareholders who voted against the resolution, and the aggregate number of shares held by them;
+(5) The number of shareholders whose votes were declared as invalid, and the aggregate number of shares held by them;
+(6) The names and ledger folios of the shareholders who voted against the resolution, and the number of shares held by each such shareholder;
+(7) The names and designations of the scrutineers appointed for counting the votes at the meeting together with certificates from such scrutineers confirming the information given in items (3) to (6) above;
+(8) The name of shareholders who have given notice in writing to the Presiding Officer that they dissented from the scheme of amalgamation together with the number of shares held by each of them.
+
+<!-- PAGE 12 -->
+
+4. Certificates from the concerned officers of the companies giving names of shareholders, if any, who have given notice in writing at or prior to the meeting of the bank that they dissented from the scheme of amalgamation together with the number of shares held by each of them.
+## B. Governance-related information
+
+5. The names, addresses, and occupations of the Directors of the amalgamating company as proposed to be reconstituted after the amalgamation and indicating how the composition will be in compliance with the RBI regulations.
+6. The details of the proposed Chief Executive Officer of the amalgamating company after the amalgamation.
+## C. Financial information of each company separately
+
+7. All relevant information for consideration of the scheme of amalgamation including the following particulars:
+(1) annual reports of each of the companies for each of the three completed financial years immediately preceding the Appointed Date for amalgamation.
+(2) financial results, if any, published by each of the companies for any period subsequent to the financial statements prepared for the financial year immediately preceding the Appointed Date.
+## D. Post-amalgamation financial information
+
+8. Pro-forma combined balance sheet of the amalgamating company as it will appear as of the Appointed Date consequent on the amalgamation.
+9. Computation based on such pro-forma balance sheet of the following:
+
+<!-- PAGE 13 -->
+
+## E. Report of valuers
+
+10. Reports of the valuers including report on the valuation of the shares of the amalgamating / amalgamated company for the determination of the swap ratio.
+11. Information certified by the valuers as is considered relevant to understand the proposed swap ratio including the following particulars:
+(1) the methods of valuation used by the valuers;
+(2) the information and documents on which the valuers have relied and the extent of the verification, if any, made by the valuers to test the accuracy of such information;
+(3) if the valuers have relied upon projected information, the names and designations of the persons who have provided such information and the extent of verification, if any, made by the valuers in relation to such information;
+(4) details of the projected information on which the valuers have relied;
+(5) detailed computations of the swap ratios containing explanations for adjustments made to the published financial information for the purposes of the valuation;
+(6) if these adjustments are made based on valuations made by third parties, details regarding the persons who have made such valuations;
+(7) capitalization factor and Weighted Average Cost of Capital (WACC) used for the purposes of the valuation and justification for the same;
+(8) if market values of shares have been considered in the computation of the swap ratio, the market values considered and the source from which such values have been derived;
+(9) if there are more than one valuer, whether each of the valuers have recommended a different swap ratio and if so, the above details shall be
+
+<!-- PAGE 14 -->
+
+given separately in respect of each valuer, and it may be indicated how the final swap ratio is arrived at.
+
+12. Where the shares of the amalgamating / amalgamated entity are quoted on the stock exchange:
+(1) Details of the monthly high and low of the quotes on the exchange where the shares are most widely traded together with number of shares traded during the six months immediately preceding the date on which the scheme of amalgamation is approved by the Boards;
+(2) The quoted price of the share at close on each of the fourteen days immediately preceding the date on which the scheme of amalgamation is approved by the Boards.
+## F. Other information
+
+13. Such other information and documents as RBI may require.
