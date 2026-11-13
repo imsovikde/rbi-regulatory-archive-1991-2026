@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2011_6716"
+title: "Meeting of Medical expenses of NRIs close relatives by Resident Individuals"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/C20APDM0911.pdf"
+pdf_sha256: "8226259f77047b0f6689f7af177313fa4c1f0601ac3fda106e6c9a21b4e06a67"
+md_sha256: "f7cbaadbaab0067f54c594308e39e1273c11ef63d06a37fba5fbc9a0d47587c9"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:24:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-09-16_Notification_6716_Meeting%20of%20Medical%20expenses%20of%20NRIs%20close%20relatives%20by%20Resident%20Individuals.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Meeting of Medical expenses of NRIs close relatives by Resident Individuals
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2011-12/184 September 16, 2011 A.P. (DIR Series) Circular No. 20
+
+To
+
+All Banks Authorised to Deal in Foreign Exchange
+
+Madam / Sir,
+
+## Meeting of Medical expenses of NRIs close relatives by Resident Individuals
+
+Attention of Authorised Dealer (AD) banks is invited to para 2 of the <u>Notification</u> <u>No. FEMA 16/RB-2000 dated May 3, 2000</u> viz. Receipt from and Payment to, a Person Resident Outside India, as amended from time to time, in terms of which a resident may make payment in rupees towards meeting expenses on account of boarding, lodging and services related thereto or travel to and from and within India of a person resident outside India who is on a visit to India.
+
+2. The Committee to review the facilities for individuals under the Foreign Exchange Management Act (FEMA), 1999 has in its Report recommended that the ambit of FEMA Notification No.16/RB-2000 dated May 3, 2000 may be expanded to include permission to residents to bear medical expenses of visiting NRIs/PIOs.
+3. The extant position has been reviewed and it has been decided that where the medical expenses in respect of NRI close relative (relative as defined in Section 6 of the Companies Act, 1956) are paid by a resident individual, such a payment being in the nature of a resident to resident transaction may be covered
+
+<!-- PAGE 2 -->
+
+under the term “services related thereto” under Regulation 2(i) of Notification No. FEMA 16 /2000- RB dated May 3, 2000, ibid.
+
+4. AD banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Meena Hemchandra) Chief General Manager In-Charge

@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2011_6710"
+title: "Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML) Standards/ Combating the Financing of Terrorism (CFT)"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCNO150911K.pdf"
+pdf_sha256: "156aceabcadf125e960621fbca59aa5f65f9ee9e0a76c345152573959a436f89"
+md_sha256: "5eafeb8f71d5313a2fd2bd49ec712f038b34b7e37fb80e1ac186208cc749ff36"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:24:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-09-15_Notification_6710_Know%20Your%20Customer%20%28KYC%29%20Norms-%20Anti-%20Money%20Laundering%20%28AML%29%20Standards-%20Combating%20the%20Financing%20of%20Terrorism%20%28CFT%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML) Standards/ Combating the Financing of Terrorism (CFT)
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/178 DNBS(PD).CC. No 242 /03.10.42 /2011-12 September 15, 2011
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir,
+
+## Know Your Customer (KYC) Norms/ Anti- Money Laundering (AML) Standards/
+
+## Combating the Financing of Terrorism (CFT)
+
+Please refer to our Circular <u>DNBS (PD) CC No 216 /03.10.42/2010-11 dated May 02,</u> <u>2011</u> on the captioned subject. The Financial Action Task Force (FATF) as a part of its ongoing review of compliance with the AML/CFT Standards, has identified certain jurisdictions which have strategic AML//CFT deficiencies.
+
+2. FATF, has issued a statement dated June 24, 2011 (<u>copy enclosed</u>) calling upon jurisdictions listed in the statement to complete the implementation of their action plan within the timeframe. The FATF, in the statement, has called upon its members to consider the information given in the statement.
+3. All NBFCs/RNBCs are accordingly advised to consider the information contained in the enclosed statement. Yours faithfully, (Dr Tuli Roy) Deputy General Manager Encl: as above

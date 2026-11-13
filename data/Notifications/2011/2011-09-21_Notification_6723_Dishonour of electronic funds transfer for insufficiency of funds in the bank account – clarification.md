@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2011_6723"
+title: "Dishonour of electronic funds transfer for insufficiency of funds in the bank account – clarification"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CDEFT210911.PDF"
+pdf_sha256: "413e5040ab8609c467ae2c17d498bc77d0792b9f1bf3c87142540d31c512c6ff"
+md_sha256: "69acfca7c1d45b1479b0fc36465dd8eaaf0e08f2f810432cde6df8eeabcf003f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:24:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-09-21_Notification_6723_Dishonour%20of%20electronic%20funds%20transfer%20for%20insufficiency%20of%20funds%20in%20the%20bank%20account%20%E2%80%93%20clarification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Dishonour of electronic funds transfer for insufficiency of funds in the bank account – clarification
+
+<!-- PAGE 1 -->
+
+## DOC/2011-12/191 DPSS. CO.PD.No.497/02.12.004/2011-12 September 21, 2011
+
+The Chairman and Managing Director / Chief Executive Officers All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks
+
+Dear Sir/Madam,
+
+## Dishonour of electronic funds transfer for insufficiency of funds in the bank account – clarification
+
+As you may be aware section 25 of the Payment and Settlement Systems Act, 2007 accords the same rights and remedies to the payee (beneficiary) against dishonour of electronic funds transfer instructions for insufficiency of funds in the account of the payer (remitter), as are available to the payee under section 138 of the Negotiable Instruments Act, 1881.
+
+2. The sub-section (5) of the section 25 of the Payment and Settlement Systems Act, 2007 provides for punishment of two years and twice the amount of electronic funds transfer instruction, or both for dishonour of such electronic funds transfer on par with the penalties stipulated for dishounour of cheques under the Negotiable Instruments Act, 1881.
+3. We accordingly advise you to popularise the electronic fund transfer modes amongst your customers by allaying any apprehensions on the rights and remedies available to the payees against dishonour of electronic funds transfer instructions.
+## Yours faithfully
+
+(Vijay Chugh) Chief General Manager
