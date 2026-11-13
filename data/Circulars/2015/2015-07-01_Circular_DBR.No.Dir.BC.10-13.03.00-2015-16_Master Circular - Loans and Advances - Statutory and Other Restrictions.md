@@ -1,0 +1,1529 @@
+---
+doc_id: "Circulars_2015_DBR_No_Dir_BC_10_13_03_00_2015-16"
+title: "Master Circular - Loans and Advances - Statutory and Other Restrictions"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/95MND246C0F34D0041F6831205AB5D695422.PDF"
+pdf_sha256: "8c5587ab410fbb0aa41b644646ce1c006c14140f67fdab4908ab7f153f4d8943"
+md_sha256: "c5c583aea4ec44b1d4600c8dbf9f956ef525df6b01dd81a3c75996b37209e1ef"
+total_pages: 84
+native_pages: 84
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:28:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-07-01_Circular_DBR.No.Dir.BC.10-13.03.00-2015-16_Master%20Circular%20-%20Loans%20and%20Advances%20-%20Statutory%20and%20Other%20Restrictions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Loans and Advances - Statutory and Other Restrictions
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक _______________________ **RESERVE BANK OF INDIA____________________** **www.rbi.org.in** **RBI/2015-16 /95** **DBR.No.Dir.BC.10/13.03.00/2015-16 July 1, 2015** **Ashadha 10, 1937(Saka)** **All Scheduled Commercial Banks (Excluding RRBs)**
+
+## Dear Sir / Madam
+
+## Master Circular- Loans and Advances – Statutory and Other Restrictions
+
+Please refer to the <u>Master Circular DBOD.No.Dir. BC.16/13.03.00/2014-15 dated July</u> <u>1, 2014</u> consolidating the instructions/guidelines issued to banks till June 30, 2014 relating to statutory and other restrictions on Loans and Advances. This Master Circular consolidates instructions on the above matters issued up to June 30, 2015.
+
+## Yours faithfully
+
+## (Lily Vadera) Chief General Manager
+
+# Withdrawn
+
+<u>बैक</u>ं<u>ग व�नयमन वभाग, के न्द्रय कायार्लय, 13 माला,शहद भगतसंह मागर्, फोटर्,मुम्बई 400001</u> Department Of Banking Regulations 13th Floor, NCOB,Shahid Bhagat Singh Marg, Fort, Mumbai- 400001 FAX NO. 0091-22-22701241 Tel. No.022-22601000 E-mail address <u>cgmicdbr@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+# CONTENTS
+
+Para No Particulars Page No.
+A Purpose	1
+B Classification	1
+C Previous instructions	1
+D Application	1
+1. Introduction	2
+2. Guidelines	2
+2.1 Statutory Restrictions	2
+2.1.1 Advances against bank's own shares	2
+2.1.2 Advances to bank's Directors	2
+2.1.3 Restrictions on Holding Shares in Companies	5
+2.1.4 Restrictions on Credit to Companies for Buy-back of their Securities	5
+2.2 Regulatory Restrictions	5
+2.2.1 Granting loans and advances to relatives of Directors	5
+2.2.2 Restrictions on Grant of Loans & Advances to Officers and Relatives of Senior Officers of Banks	9
+2.2.3 Restrictions on Grant of Financial Assistance to Industries Producing / Consuming Ozone Depleting Substances (ODS)	12
+2.2.4 Restrictions on Advances against Sensitive Commodities under Selective Credit Control (SCC)	12
+2.2.5 Restriction on payment of commission to staff members including officers	13
+2.2.6 Restrictions on offering incentives on any banking products	13
+2.3 Restrictions on other loans and advances	14
+2.3.1 Withdrawn Loans and Advances against Shares, Debentures and Bonds	14
+2.3.2 Advances against Fixed Deposit Receipts (FDRs) Issued by Other Banks	25
+2.3.3 Advances to Agents/Intermediaries based on consideration of Deposit Mobilisation	26
+2.3.4 Loans against Certificate of Deposits (CDs)	26
+2.3.5 Finance for and Loans / Advances against Indian Depository Receipts(IDRs)	26
+2.3.6 Bank Finance to Non-Banking Financial Companies (NBFCs)	26
+2.3.7 Financing Infrastructure/ Housing Projects	26
+2.3.8 Issue of Bank Guarantees in favour of Financial Institutions	35
+2.3.9 Discounting/Rediscounting of Bills by Banks	38
+2.3.10 Advances for purchase of gold and lending against gold Bullion/coins/ Primary gold	41
+2.3.11 Advances against Gold Ornaments & Jewellery	42
+2.3.12 Gold (Metal) Loans	44
+2.3.13 Loans and advances to Real Estate Sector	47
+2.3.14 Loans and advances to Micro & Small Enterprises (MSEs)	48
+2.3.15 Loan system for delivery of bank credit	48
+
+i DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 3 -->
+
+Para No Particulars Page No.
+2.3.16 Lending under Consortium Arrangement/Multiple Banking Arrangement	48
+2.3.17 Working Capital Finance to Information Technology and Software Industry	50
+2.3.18 Guidelines for bank finance for PSU disinvestments of Government of India	51
+2.3.19 Grant of Loans for acquisition of Kisan Vikas Patras (KVPs)	54
+2.3.20 7% Savings Bonds, 2002; 6.5% Savings Bonds 2003 (Non- Taxable) and 8% Savings (Taxable) Bonds 2003- Collateral Facility	55
+2.3.21 Guidelines on Settlement of Non Performing Assets- Obtaining Consent Decree from Court	56
+2.3.22 Project Finance Portfolio of Banks	56
+2.3.23 Bridge Loans against receivables from Government	57
+2.3.24 Fund/Non-Fund based credit Facilities to Overseas Joint Ventures/Wholly –owned Subsidiaries Abroad and overseas Step- down Subsidiaries of Indian Companies	58
+2.4 Transfer of borrowal accounts from one bank to another	59
+2.5 Guidelines on Fair Practices Code for Lenders	60
+2.6 Guidelines on Recovery Agents engaged by banks	65
+Annex 1 List of banks nominated to import Gold	70
+Annex 2 FAQs-Issues and Clarifications with Regard to Applicability of Section 20 of Banking Regulation Act, 1949	71
+Appendix List of circulars consolidated	74
+
+# Withdrawn
+
+ii DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 4 -->
+
+## Master Circular on Loans and Advances -Statutory and Other Restrictions
+
+## A. Purpose
+
+This Master Circular consolidates the instructions issued by the Reserve Bank of India to banks on statutory and other restrictions on loans and advances.
+
+**B. Classification** A statutory guideline issued by the Reserve Bank in exercise of the powers conferred by the Banking Regulation Act, 1949.
+## C. Previous instructions
+
+This Master Circular consolidates and updates the instructions on the above subject contained in the circulars listed in **APPENDIX.**
+
+**D. Application** To all Scheduled Commercial Banks, excluding Regional Rural Banks.
+# Withdrawn
+
+DBOD – MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 5 -->
+
+## 1. <u>INTRODUCTION</u>
+
+This Master Circular provides a framework of the rules/regulations/instructions issued to Scheduled Commercial Banks on statutory and other restrictions on loans and advances.
+
+Banks should implement these instructions and adopt adequate safeguards in order to ensure that the banking activities undertaken by them are run on sound, prudent and profitable lines.
+
+## 2. <u>GUIDELINES</u>
+
+## <u>2.1 Statutory Restrictions</u> 2.1.1 <u>Advances against bank's own shares</u>
+
+In terms of Section 20(1) of the Banking Regulation Act, 1949, a bank cannot grant any loans and advances on the security of its own shares.
+
+## 2.1.2 <u>Advances to bank's Directors</u>
+
+2.1.2.1 Section 20(1) of the Banking Regulation Act, 1949 also lays down the restrictions on loans and advances to the directors and the firms in which they hold substantial interest. Purchase of or discount of bills from directors and their concerns, which is in the nature of clean accommodation, is reckoned as ‘loans and advances’ for the purpose of Section 20 of the Banking RegulationWithdrawn Act, 1949.FAQs regarding applicability of Section 20 of BR Act, 1949 is given in ‘**Annex 2’.**
+2.1.2.2 Banks are prohibited from entering into any commitment for granting any loans or advances to or on behalf of any of its directors, or any firm in which any of its directors is interested as partner, manager, employee or guarantor, or any company [not being a subsidiary of the banking company or a company registered under Section 8 of the Companies Act, 2013, or a Government company] of which, or the subsidiary or the holding company of which any of the directors of the bank is a director, managing agent, manager, employee or guarantor or in which he holds substantial interest, or any individual in respect of whom any of its directors is a partner or guarantor.
+2.1.2.3 For the above purpose, the term 'loans and advances' shall not include the following:
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 6 -->
+
+(a) loans or advances against Government securities, life insurance policies or fixed deposit;
+(b) loans or advances to the Agricultural Finance Corporation Ltd;
+(c) such loans or advances as can be made by a banking company to any of its directors (who immediately prior to becoming a director, was an employee of the banking company) in his capacity as an employee of that banking company and on the same terms and conditions as would have been applicable to him as an employee of that banking company, if he had not become a director of the banking company. The banking company includes every bank to which the provisions of Section 20 of the Banking Regulation Act, 1949 apply;
+(d) such loans or advances as are granted by the banking company to its Chairman and Chief Executive Officer, who was not an employee of the banking company immediately prior to his appointment as Chairman/ Managing Director/CEO, for the purpose of purchasing a car, personal computer, furniture or constructing/ acquiring a house for his personal use and festival advance, with the prior approval of the RBI and on such terms and conditions as may be stipulated by it;
+(e) such loans or advances as are granted by a banking company to its
+# Withdrawn
+
+whole-time director for the purpose of purchasing furniture, car, Personal Computer or constructing/acquiring house for personal use, festival advance with the prior approval of RBI and on such terms & conditions as may be stipulated by it;
+
+(f) call loans made by banking companies to one another;
+(g) facilities like bills purchased/discounted (whether documentary or clean and sight or usance and whether on D/A basis or D/P basis), purchase of cheques, other non-fund based facilities like acceptance/co- acceptance of bills, opening of L/Cs and issue of guarantees, purchase of debentures from third parties, etc.;
+(h) line of credit/overdraft facility extended by settlement bankers to National Securities Clearing Corporation Ltd.(NSCCL) / Clearing Corporation of India Ltd. (CCIL) to facilitate smooth settlement; and
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 7 -->
+
+(i) a credit limit granted under credit card facility provided by a bank to its directors to the extent the credit limit so granted is determined by the bank by applying the same criteria as applied by it in the normal conduct of the credit card business***.***
+Note: For obtaining the prior approval of the Reserve Bank as stipulated in
+ clauses (d) and (e) on pre-page, the bank should make an application to the Department of Banking Regulation, Central Office, Mumbai.
+2.1.2.4 As regards giving guarantees and opening of L/Cs on behalf of the bank’s directors, it is pertinent to note that in the event of the principal debtor committing default in discharging his liability and the bank being called upon to honour its obligations under the guarantee or L/C, the relationship between the bank and the director could become one of the creditor and debtor. Further, it is possible for the directors to evade the provisions of Section 20 by borrowing from a third party against the guarantee given by the bank. Such transactions may defeat the very purpose of restrictions imposed under Section 20, if the bank does not take appropriate steps to ensure that the liabilities there under do not devolve on them. In view of the above, while extending non-fund based facilities such as guarantees, L/Cs, acceptance on behalf of directors and the companies/firms in which the directors are Withdrawn interested; it should be ensured that:
+(a) adequate and effective arrangements have been made to the satisfaction of the bank that the commitments would be met by the openers of L/Cs, or acceptors, or guarantors out of their own resources,
+(b) the bank will not be called upon to grant any loan or advance to meet the liability consequent upon the invocation of guarantee, and
+(c) no liability would devolve on the bank on account of L/Cs/ acceptances.
+2.1.2.5 In case, such contingencies arise as at (b) & (c) above, the bank will be deemed to be a party to the violation of the provisions of Section 20 of the Banking Regulation Act, 1949.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 8 -->
+
+## 2.1.3 <u>Restrictions on Holding Shares in Companies</u>
+
+While granting loans and advances against shares, statutory provisions contained in Sections 19(2) and 19(3) of the Banking Regulation Act, 1949 should be strictly observed.
+
+## 2.1.4 <u>Restrictions on Credit to Companies for Buy-back of their Securities</u>
+
+In terms of provisions of the Companies Act, 2013, companies are permitted to purchase their own shares or other specified securities out of their
+
+- free reserves, or
+- securities premium account, or
+- the proceeds of any shares or other specified securities, subject to compliance of various conditions specified therein. Therefore, banks should not provide loans to companies for buy-back of shares/securities.
+## 2.2 <u>Regulatory Restrictions</u>
+
+## 2.2.1 <u>Granting loans and advances to relatives of Directors</u>
+
+# Withdrawn
+
+Without prior approval of the Board or without the knowledge of the Board, no loans and advances should be granted to relatives of the bank's Chairman/Managing Director or other Directors, Directors (including Chairman/Managing Director) of other banks and their relatives, Directors of Scheduled Co-operative Banks and their relatives, Directors of Subsidiaries/Trustees of Mutual Funds/Venture Capital Funds set up by the financing banks or other banks, as per details given below.
+
+## 2.2.1.1 <u>Lending to directors and their relatives on reciprocal basis</u>
+
+There have been instances where certain banks have developed an informal understanding or mutual/reciprocal arrangement among themselves for extending credit facilities to each other’s directors, their relatives, etc. By and large, they did not follow the usual procedures and norms in sanctioning credit limits to the borrowers, particularly those belonging to certain groups or directors, their relatives, etc. Facilities far in excess of the sanctioned limits
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 9 -->
+
+and concessions were allowed in the course of operation of individual accounts of the parties. Although, there is no legal prohibition on a bank from giving credit facilities to a director of some other banks or his relatives, serious concern was expressed in Parliament that such *quid pro quo* arrangements are not considered to be ethical. The banks should, therefore, follow the guidelines indicated below in regard to grant of loans and advances and award of contracts to the relatives of their directors and directors of other banks and their relatives:
+
+2.2.1.2 Unless sanctioned by the Board of Directors/Management Committee, banks should not grant loans and advances aggregating Rupees twenty five lakhs and above to -
+(a) directors (including the Chairman/Managing Director) of other banks *;
+(b) any firm in which any of the directors of other banks * is interested as a partner or guarantor; and
+(c) any company in which any of the directors of other banks * holds substantial interest or is interested as a director or as a guarantor.
+2.2.1.3 The restrictions as contained in Section 20 of the Banking Regulation Act, 1949 would apply to grant of loans and advances to spouse and minor / dependent children of the Directors of banks. However, banks may grant loanWithdrawn or advance to or on behalf of spouses of their Directors in cases where the spouse has his / her own independent source of income arising out of his / her employment or profession and the facility so granted is based on standard procedures and norms for assessing the creditworthiness of the borrower. Such facility should be extended on commercial terms. All credit proposals for Rupees twenty five lakhs and above should be sanctioned by the bank's Board of Directors / Management Committee of the Board. The proposals for less than Rupees twenty five lakhs may be sanctioned by the appropriate authority in banks in terms of the powers delegated to them.
+2.2.1.4 Unless sanctioned by the Board of Directors/Management Committee, banks should also not grant loans and advances aggregating Rupees twenty five lakhs and above to -
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 10 -->
+
+(a) any relative other than spouse (spouse as specified in para 2.2.1.3 above) and minor / dependent children of their own Chairmen/Managing Directors or other Directors;
+(b) any relative other than spouse (spouse as specified in para 2.2.1.3 above) and minor / dependent children of the Chairman/Managing Director or other directors of other banks *;
+(c) any firm in which any of the relatives other than spouse (spouse as specified in para 2.2.1.3 above) and minor / dependent children as mentioned in (a) & (b) above is interested as a partner or guarantor; and
+(d) any company in which any of the relatives other than spouse (spouse as specified in para 2.2.1.3 above) and minor / dependent children as mentioned in (a) & (b) above hold substantial interest or is interested as a director or as a guarantor.
+* including directors of Scheduled Co-operative Banks, directors of subsidiaries/trustees of mutual funds/venture capital funds.
+2.2.1.5 The proposals for credit facilities of an amount less than Rupees twenty five lakh to these borrowers may be sanctioned by the appropriate authority in the financing bank under powers vested in such authority, but the matter should beWithdrawn reported to the Board.
+2.2.1.6 The Chairman/Managing Director or other director who is directly or indirectly concerned or interested in any proposal should disclose the nature of his/her interest to the Board when any such proposal is discussed. He/she should not be present in the meeting unless his/her presence is required by the other directors for the purpose of eliciting information and the director so required to be present shall not vote on any such proposal.
+2.2.1.7 The above norms relating to grant of loans and advances will equally apply to awarding of contracts.
+2.2.1.8 The scope of the term ‘relative’ will be as under:
+- Spouse
+- Father
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 11 -->
+
+|•|Mother (including step-mother)|
+|---|---|
+|•|Son (including step-son)|
+|•|Son's Wife|
+|•|Daughter (including step-daughter)|
+|•|Daughter's Husband|
+|•|Brother (including step-brother)|
+|•|Brother’s wife|
+|•|Sister (including step-sister)|
+|•|Sister’s husband|
+|•|Brother (including step-brother) of the spouse|
+|•|Sister (including step-sister) of the spouse|
+|•|Government securities|
+|•|Life insurance policies|
+|•|Fixed or other deposits|
+|•|Stocks and shares|
+|•|Temporary overdrafts for small amounts, i.e. upto Rupees twenty five thousand -|
+|•|Casual purchase of cheques up to Rupees five thousand at a time|
+|• The term ‘substantial interest’ shall have the same meaning as assigned to it|Housing loans, car advances, etc. granted to an employee of the bank under any scheme applicable generally to employees.|
+
+2.2.1.9 The term ‘loans and advances’ will not include loans or advances against -
+# Withdrawn
+
+2.2.1.10
+in Section 5(ne) of the Banking Regulation Act, 1949.
+
+2.2.1.11 Banks should evolve, inter alia, the following procedure for ascertaining the
+interest of a director of a financing bank or of another bank, or his relatives, in credit proposals/award of contracts placed before the Board/Committee or other appropriate authority of the financing banks:
+
+(i) Every borrower should furnish a declaration to the bank to the effect that -
+(a) (where the borrower is an individual) he is not a director or specified near relation of a director of a banking company;
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 12 -->
+
+(b) (where the borrower is a partnership firm) none of the partners is a director or specified near relation of a director of a banking company; and
+(c) (where the borrower is a joint stock company) none of its directors, is a director or specified near relation of a director of a banking company.
+(ii) The declaration should also give details of the relationship of the borrower to the director of the bank.
+
+2.2.1.12 In order to ensure compliance with the instructions, banks should forthwith
+recall the loan when it transpires that the borrower has given a false declaration.
+
+2.2.1.13 The above guidelines should also be followed while granting loans/ advances
+or awarding contracts to directors of scheduled co-operative banks or their relatives.
+
+2.2.1.14 These guidelines should also be followed by banks when granting loans and
+advances and awarding of contracts to directors of subsidiaries/trustees of mutual funds/venture capital funds set up by them as also other banks.
+
+2.2.1.15 These guidelines should be duly brought to the notice of all directors and also
+# Withdrawn
+
+placed before the bank's Board of Directors.
+
+**2.2.2** <u>Restrictions on Grant of Loans & Advances to Officers and Relatives of Senior Officers of Banks</u>
+2.2.2.1 The statutory regulations and/or the rules and conditions of service applicable to officers or employees of public sector banks indicate, to a certain extent, the precautions to be observed while sanctioning credit facilities to such officers and employees and their relatives. In addition, the following guidelines should be followed by all the banks with reference to the extension of credit facilities to officers and the relatives of senior officers:
+(i) <u>Loans & advances to officers of the bank</u> No officer or any Committee comprising, inter alia, an officer as member, shall, while exercising powers of sanction of any credit facility, sanction any credit facility to his/her relative. Such a facility shall ordinarily be sanctioned
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 13 -->
+
+only by the next higher sanctioning authority. Credit facilities sanctioned to senior officers of the financing bank should be reported to the Board. (ii) <u>Loans and advances and award of contracts to relatives of senior</u> <u>officers of the bank</u> Proposals for credit facilities to the relatives of senior officers of the bank sanctioned by the appropriate authority should be reported to the Board. Further, when a credit facility is sanctioned by an authority, other than the Board to -
+
+- any firm in which any of the relatives of any senior officer of the financing bank holds substantial interest, or is interested as a partner or guarantor; or
+- any company in which any of the relatives of any senior officer of the financing bank holds substantial interest, or is interested as a director or as a guarantor, such transaction should also be reported to the Board.
+2.2.2.2 The above norms relating to grant of credit facility will equally apply to the
+awarding of contracts.
+
+2.2.2.3 Application of the Guidelines in case of Consortium Arrangements
+# Withdrawn
+
+In the case of consortium arrangements, the above norms relating to grant of credit facilities to relatives of senior officers of the bank will apply to the relatives of senior officers of all the participating banks.
+
+2.2.2.4 Scope of certain expressions
+(i) The scope of the term ‘relative’ is the same as mentioned at paragraph
+2.2.1.8. (ii) The term ‘Senior Officer’ will refer to -
+a) any officer in senior management level in Grade IV and above in a nationalised bank, and
+b) any officer in equivalent scale
+- in the State Bank of India and associate banks, and
+- in any banking company incorporated in India.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 14 -->
+
+(iii) The term ‘credit facility’ will not include loans or advances against -
+
+a. Government securities
+b. Life Insurance policies Fixed or other deposits
+c. Temporary overdrafts for small amount i.e. upto Rupees twenty five thousand, and
+d. Casual purchase of cheques up to Rupees five thousand at a time.
+e. Credit facility will also not include loans and advances such as housing loans, car advances, consumption loans, etc. granted to an officer of the bank under any scheme applicable generally to officers.
+f. The term ‘substantial interest’ shall have the same meaning assigned to it in Section 5(ne) of the Banking Regulation Act, 1949.
+2.2.2.5 In this context, banks may, inter alia,
+(i) evolve a procedure to ascertain the interest of the relatives of a senior officer of the bank in any credit proposal/award of contract placed before the Board Committee or other appropriate authority of the financing bank; (ii) obtain a declaration from every borrower to the effect that -
+# Withdrawn
+
+(a) if he is an individual, that he is not a specified, near relation to any senior officer of the bank,
+(b) if it is a partnership or HUF firm, that none of the partners, or none of the members of the HUF, is a near, specified relation of any senior officer of the bank, and
+(c) if it is a joint stock company, that none of its directors, is a relative of any senior officer of the bank.
+(iii) ensure that the declaration gives details of the relationship, if any, of the borrower to any senior officer of the financing bank.
+
+(iv) make a condition for the grant of any credit facility that if the declaration made by a borrower with reference to the above is found to be false, then the bank will be entitled to revoke and/or recall the credit facility.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 15 -->
+
+(v) consider in consultation with their legal advisers, amendments, if any, required to any applicable regulations or rules, *inter alia*, dealing with the service conditions of officers of the bank to give effect to these guidelines.
+## 2.2.3 <u>Restrictions on Grant of Financial Assistance to Industries Producing /</u>
+
+## <u>Consuming Ozone Depleting Substances (ODS)</u>
+
+2.2.3.1 Banks should not extend finance for setting up of new units consuming/producing the Ozone Depleting Substances (ODS). No financial assistance should be extended to small/medium scale units engaged in the manufacture of the aerosol units using chlorofluorocarbons (CFC) and no refinance would be extended to any project assisted in this sector.
+## 2.2.4 <u>Restrictions on Advances against Sensitive Commodities under Selective Credit Control (SCC)</u>
+
+With a view to preventing speculative holding of essential commodities with the help of bank credit and the resultant rise in their prices, in exercise of powers conferred by Section 21 & 35A of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest to do so, issues, from time to time, directives to all commercial banks, stipulating specific
+
+# Withdrawn
+
+restrictions on bank advances against specified sensitive commodities. The commodities, generally treated as sensitive commodities are the following:
+
+(a) food grains i.e. cereals and pulses,
+(b) selected major oil seeds indigenously grown, viz. groundnut, rapeseed/mustard, cottonseed, linseed and castor seed, oils thereof, vanaspati and all imported oils and vegetable oils,
+(c) raw cotton and kapas,
+(d) sugar/gur/khandsari,
+(e) Cotton textiles which include cotton yarn, man-made fibres and yarn and fabrics made out of man-made fibres and partly out of cotton yarn and partly out of man-made fibres.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 16 -->
+
+Banks are free to fix prudential margins on advances against these sensitive commodities. However, in case of advance against Levy Sugar, a minimum margin of 10% will apply.
+
+(ii) <u>Valuation of sugar stocks</u>
+
+(a) The unreleased stocks of the levy sugar charged to banks as security by the sugar mills shall be valued at levy price fixed by Government.
+(b) The unreleased stocks of free sale sugar including buffer stocks of sugar charged to the bank as security by sugar mills, shall be valued at the average of the price realised in the preceding three months (moving average) or the current market price, whichever is lower; the prices for this purpose shall be exclusive of excise duty.
+## 2.2.5 <u>Restriction on payment of commission to staff members including officers</u>
+
+Section 10(1)(b)(ii) of Banking Regulation Act, 1949, stipulates that a banking company shall not employ or continue the employment of any person whose remuneration or part of whose remuneration takes the form of commission or a share in the profits of the company. Further, clause (b) of Section 10(1)(b)(ii)
+
+# Withdrawn
+
+permits payment of commission to any person who is employed only otherwise than as a regular staff. Therefore, banks should not pay commission to staff members and officers for recovery of loans.
+
+## 2.2.6 <u>Restrictions on offering incentives on any banking products</u>
+
+Banks should not offer any banking products, including online remittance schemes etc., with prizes /lottery/free trips (in India and/or abroad), etc. or any other incentives having an element of chance, except inexpensive gifts costing not more than Rupees two hundred fifty, as such products involve non-transparency in the pricing mechanism and therefore go against the spirit of the guidelines. Such products, if offered, by banks would be considered as violation of the extant guidelines and the banks concerned would be liable for penal action.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 17 -->
+
+## 2.3 <u>Restrictions on other loans and advances</u>
+
+## 2.3.1 <u>Loans and Advances against Shares, Debentures and Bonds</u>
+
+2.3.1.1 <u>Advances to individuals</u>
+Banks may grant advances against the security of shares, debentures or bonds to individuals subject to the following conditions:
+
+(i) <u>Purpose of the Loan :</u> Loan against shares, debentures and bonds may be granted to individuals to meet contingencies and personal needs or for subscribing to new or rights issues of shares / debentures / bonds or for purchase in the secondary market, against the security of shares / debentures / bonds held by the individual. (ii) <u>Amount of advance :</u> Loans against the security of shares, debentures and bonds should not exceed the limit of Rupees ten lakhs per individual if the securities are held in physical form and Rupees twenty lakhs per individual if the securities are held in dematerialised form. Such loans are meant for genuine individual investors, and banks should not support collusive action by a large group of individuals belonging to the same corporate or their inter-connected entities to take multiple loans in order to support particular
+# Withdrawn
+
+scrip or stock-broking activities of the connected firms. Such finance should be reckoned as an exposure to capital market.
+
+(iii) <u>Margin :</u> Banks should maintain a minimum margin of 50 percent of the market value of equity shares / convertible debentures held in physical form. In the case of shares / convertible debentures held in dematerialised form, a minimum margin of 25 percent should be maintained. These are minimum margin stipulations and banks may stipulate higher margins for shares whether held in physical form or dematerialised form. The margin requirements for advances against preference shares / non-convertible debentures and bonds may be determined by the banks themselves.
+
+(iv) <u>Lending Policy:</u> Each bank should formulate with the approval of their Board of Directors a Loan Policy for grant of advances to individuals against shares / debentures / bonds keeping in view the RBI guidelines. Banks should obtain a declaration from the borrower indicating the extent of loans availed of
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 18 -->
+
+by him from other banks as input for credit evaluation. It would also be necessary to ensure that such accommodation from different banks is not obtained against shares of a single company or a group of companies. As a prudential measure, each bank may also consider laying down appropriate aggregate sub-limits of such advances.
+
+2.3.1.2 <u>Advances to Share and Stock Brokers/ Commodity Brokers</u>
+(i) Banks and their subsidiaries should not undertake financing of 'Badla' transactions. (ii) Share and stock brokers/commodity brokers may be provided need based overdraft facilities / line of credit against shares and debentures held by them as stock-in-trade. A careful assessment of need based requirements for such finance should be made taking into account the financial position of the borrower, operations on his own account and on behalf of clients, income earned, the average turnover period of stocks and shares and the extent to which the broker's funds are required to be involved in his business operations. Large scale investment in shares and debentures on own account by stock and share brokers with bank finance, should not be encouraged. The securities lodged as collateral should be easily marketable.
+# Withdrawn
+
+(iii) The ceiling of Rupees ten lakhs / Rupees twenty lakhs for advances against shares/debentures to individuals will not be applicable in the case of share and stock brokers / commodity brokers and the advances would be need based.
+
+(iv) Banks may grant working capital facilities to stock brokers registered with SEBI and who have complied with capital adequacy norms prescribed by SEBI / Stock exchanges to meet the cash flow gap between delivery and payment for DVP transactions undertaken on behalf of institutional clients viz. FIs, Flls, mutual funds and banks, the duration of such a facility will be short and would be based on an assessment of the financing requirements keeping in view the cash flow gaps, the broker's funds required to be deployed for the transaction and the overall financial position of the broker. The utilisation will be monitored on the basis of individual transactions. Banks may institute adequate safeguards and monitoring mechanisms.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 19 -->
+
+(v) A uniform margin of 50 per cent shall be applied on all advances / financing of IPOs / issue of guarantees on behalf of share and stockbrokers. A minimum cash margin of 25 per cent (within the margin of 50%) shall be maintained in respect of guarantees issued by banks for capital market operations. The above minimum margin will also apply to guarantees issued by banks on behalf of commodity brokers in favour of commodity exchanges viz. National Commodity & Derivatives Exchange (NCDEX), Multi Commodity Exchange of India Ltd. (MCX) and National Multi Commodity Exchange of India Ltd. (NMCEIL), in lieu of margin requirements as per the commodity exchange regulations. These margin requirements will also be applicable in respect of bank finance to stock brokers by way of temporary overdrafts for DVP transactions. (vi) Banks may issue guarantees on behalf of share and stock brokers/commodity brokers in favour of stock exchanges in lieu of security deposit to the extent it is acceptable in the form of bank guarantee as laid down by stock exchanges. Banks may also issue guarantees in lieu of margin requirements as per stock exchange regulations. The bank should assess the requirement of each applicant borrower; observe usual and necessary safeguards including the exposure ceilings. (vii) The requirement relating to transfer of shares in bank's name in respect
+# Withdrawn
+
+of shares held in physical form mentioned at Sl. No. (ix) of paragraph 2.3.1.14 shall not apply in respect of advances granted to share and stock brokers provided such shares are held as security for a period not exceeding nine months. In the case of dematerialised shares, the depository system provides a facility for pledging and banks may avail themselves of this facility and in such cases there will not be need to transfer the shares in the name of the bank irrespective of the period of holding. The share and stock brokers are free to substitute the shares pledged by them as and when necessary. In case of a default in the account, the bank should exercise the option to get the shares transferred in its name.
+
+(viii) Banks shall grant advances only to share and stock brokers registered with SEBI and who comply with capital adequacy norms prescribed by SEBI / Stock Exchanges.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 20 -->
+
+2.3.1.3 <u>Bank Finance for Market Makers</u> Banks may provide need based finance to meet the genuine credit requirements of approved Market Makers. For this purpose, they should lay down appropriate norms for financing them including exposure limits, method of valuation, etc. They should also follow the guidelines given below:
+a) Market Makers approved by stock exchange would be eligible for grant of advances by scheduled commercial banks.
+b) Market Making may not only be for equity but also for debt securities including State and Central Government securities.
+c) Banks should exercise their commercial judgement in determining the need based working capital requirements of Market Markers by taking into account the Market Making operations.
+d) A uniform margin of 50 per cent shall be applied on all advances / financing of IPOs / issue of guarantees on behalf of market makers. A minimum cash margin of 25 per cent (within the margin of 50%) shall be maintained in respect of guarantees issued by banks for capital market operations.
+# Withdrawn
+
+e) Banks may accept, as collateral for the advances to the Market Makers, scrips other than the scrips in which the market making operations are undertaken.
+f) Banks should ensure that advances provided for Market Making are not diverted for investment in shares other than the scrip earmarked for Market Making purpose. For this purpose, a suitable follow-up and monitoring mechanism must be evolved.
+g) The ceiling of Rupees ten lakhs / Rupees twenty lakhs for advances against shares/debentures to individuals will not be applicable in the case of Market Makers.
+2.3.1.4 Each bank should lay down a detailed loan policy for granting advances to Stock Brokers and Market Makers and also a policy for grant of guarantees on
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 21 -->
+
+behalf of brokers which should keep in view the general guidelines given in para
+
+2.3.1.14 and include, inter alia, the following:
+- Purpose and use of such advances / guarantees
+- Pricing of such advances
+- Control features that specifically recognise the unique characteristics and risks of such financing
+- Method of valuation of collateral
+- Frequency of valuation of shares and other securities taken as collateral. Frequency of valuation of shares may at least be once in a quarter.
+- Guidelines for transfer of shares in bank’s name
+- Maximum exposure for individual credits (within the RBI prescribed prudential Single Borrower Limit). The Board may also consider laying down a limit on the aggregate exposure of the bank to this sector.
+- The aggregate portfolio, its quality and performance should be reviewed and put up at least on a half-yearly basis to the Board.
+2.3.1.5 <u>Advances to Individuals against shares</u>
+## <u>to Joint holders or third party beneficiaries</u>
+
+# Withdrawn
+
+While granting advances against Shares held in joint names to joint holders or third party beneficiaries, banks should be circumspect and ensure that the objective of the regulation is not defeated by granting advances to other joint holders or third party beneficiaries to circumvent the above limits placed on loans/advances against shares and other securities.
+
+2.3.1.6 <u>Financing of Initial Public Offerings (IPOs)</u>
+Banks may grant advances to individuals for subscribing to IPOs. Loans/advances to any individual from banking system against security of shares, convertible bonds, convertible debentures, units of equity oriented mutual funds and PSU bonds should not exceed the limit of Rs. 10 lakh for subscribing to IPOs. The corporate should not be extended credit by banks for investment in other companies’ IPOs. Similarly, banks should not provide finance to NBFCs for futher lending to individuals for IPOs.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 22 -->
+
+2.3.1.7 <u>Bank Finance to assist employees to</u>
+## <u>Buy shares of their own companies</u>
+
+(i) Banks may extend finance to employees for purchasing shares of their own companies under Employees Stock Option Plan (ESOP)/ reserved by way of employees’ quota under IPO to the extent of 90% of the purchase price of the shares or Rs. 20.00 lakh, whichever is lower. Banks are not allowed to extend advances including advances to their employees/ Employees’ Trusts set up by them for the purpose of purchasing their own banks’ share under ESOPs/IPOs or from the secondary market. This prohibition will apply irrespective of whether the advances are secured or unsecured. (ii) Banks should obtain declaration from the borrower indicating the details of the loan/advances availed against shares and other securities specified above, from any other bank/s in order to ensure compliance with the ceilings prescribed for the purpose. (iii) Follow – on Public Offers (FPOs) will also be included under IPO.
+2.3.1.8 <u>Advances to other borrowers against shares / debentures / bonds</u>
+(i) The question of granting advances against Primary Security* of shares and debenture including promoters’ shares to industrial, corporate or otherWithdrawn borrowers should not normally arise. However, such securities can be accepted as collateral for secured loans granted as working capital or for other productive purposes from borrowers other than NBFCs. In such cases, banks should accept shares only in dematerialised form. Banks may accept shares of promoters only in dematerialised form wherever demat facility is available. (ii) In the course of setting up of new projects or expansion of existing business or for the purpose of raising additional working capital required by units other than NBFCs, there may be situations where such borrowers are not able to find the required funds towards margin, pending mobilisation of long term resources. In such cases, there would be no objection to the banks obtaining collateral security of shares and debentures by way of margin. Such arrangements would be of a temporary nature and may not be continued beyond a period of one year. Banks have to satisfy themselves regarding the
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 23 -->
+
+capacity of the borrower to raise the required funds and to repay the advance within the stipulated period.
+
+* Primary security-the asset created out of the credit facility extended to the borrower.
+2.3.1.9 <u>Bank Loans for Financing Promoters Contribution</u>
+The promoters’ contribution towards the equity capital of a company should come from their own resources and the bank should not normally grant advances to take up shares of other companies. However, banks are permitted to extend loans to corporates against the security of shares (as far as possible in dematerialised form) held by them to meet the promoters’ contribution to the equity of new companies in anticipation of raising resources subject to the following terms and conditions, in addition to the general guidelines given in para 2.3.1.14:
+
+i. The margin and period of repayment of the loans may be determined by the banks. ii. Loans sanctioned to corporates against the security of shares (as far as possible, demat shares) for meeting promoters' contribution to the equity of new companies in anticipation of raising resources, should beWithdrawn treated as a bank’s investments in shares which would thus come under the ceiling of 40 percent of the bank's net worth as on March 31 of the previous year prescribed for the bank’s total exposure including both fund based and non-fund based to capital market in all forms. These loans will also be subject to individual/group of borrowers exposure norms as well as the statutory limit on shareholding in companies, as detailed in the Master Circular on Exposure Norms dated July 1, 2015.
+iii. Banks may extend financial assistance to Indian companies for acquisition of equity in overseas joint ventures / wholly owned subsidiaries or in other overseas companies, new or existing, as strategic investment, in terms of a Board approved policy, duly incorporated in the loan policy of the banks. Such policy should include overall limit on such financing, terms and conditions of eligibility of
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 24 -->
+
+borrowers, security, margin, etc. While the Board may frame its own guidelines and safeguards for such lending, such acquisition(s) should be beneficial to the company and the country. The finance would be subject to compliance with the statutory requirements under Section 19(2) of the Banking Regulation Act, 1949. iv. Under the refinance scheme of Export-Import Bank of India, the banks may sanction term loans on merits to eligible Indian promoters for acquisition of equity in overseas joint ventures / wholly owned subsidiaries, provided the term loans have been approved by the EXIM Bank for refinance.
+
+v. The restriction on grant of bank advances for financing promoters' contribution towards equity capital would also extend to bank finance to activities related to such acquisitions like payment of non compete fee, etc. Further, these restrictions would also be applicable to bank finance to such activities by overseas branches / subsidiaries of Indian banks. vi. With the approval of the Board of Directors, the banks should formulate internal guidelines with appropriate safeguards for this purpose.
+2.3.1.10 <u>Advances against Units of Mutual Funds</u>
+# Withdrawn
+
+While granting advances against Units of mutual funds, the banks should adhere to the following guidelines:
+
+i) The Units should be listed in the Stock Exchanges or repurchase facility for the Units of mutual fund should be available at the time of lending. ii) The Units should have completed the minimum lock-in-period stipulated in the relevant scheme. iii) The amount of advances should be linked to the Net Asset Value (NAV) / repurchase price or the market value, whichever is less and not to the face value. iv) Advance against units of mutual funds (except units of exclusively debt oriented funds) would attract the quantum and margin requirements as applicable to advance against shares and debentures. However, the
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 25 -->
+
+quantum and margin requirement for loans/ advances to individuals against units of exclusively debt-oriented mutual funds may be decided by individual banks themselves in accordance with their loan policy.
+
+v) The advances should be purpose oriented, taking into account the credit requirement of the investor. Advances should not be granted for subscribing to or boosting up the sales of another scheme of the mutual funds or for the purchase of shares / debentures / bonds etc.
+2.3.1.11 <u>Margin Trading</u>
+(i) Banks may extend finance to stockbrokers for margin trading. The Board of each bank should formulate detailed guidelines for lending for margin trading, subject to the following parameters:
+(a) The finance extended for margin trading should be within the overall ceiling of 40% of net worth prescribed for exposure to capital market.
+(b) A minimum margin of 50 per cent should be maintained on the funds lent for margin trading.
+(c) The shares purchased with margin trading should be in dematerialised
+# Withdrawn
+
+mode under pledge to the lending bank. The bank should put in place an appropriate system for monitoring and maintaining the margin of 50% on an ongoing basis.
+
+(d) The bank's Board should prescribe necessary safeguards to ensure that no "nexus" develops between inter-connected stock broking entities/ stockbrokers and the bank in respect of margin trading. Margin trading should be spread out by the bank among a reasonable number of stockbrokers and stock broking entities. (ii) The Audit Committee of the Board should monitor periodically the bank's exposure by way of financing for margin trading and ensure that the guidelines formulated by the bank's Board, subject to the above parameters, are complied with. Banks should disclose the total finance extended for margin trading in the "Notes on Account" to their Balance Sheet.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 26 -->
+
+2.3.1.12 <u>(a) Financing for Acquisition of Equity in Overseas Companies</u> Banks may extend financial assistance to Indian companies for acquisition of equity in overseas joint ventures / wholly owned subsidiaries or in other overseas companies, new or existing, as strategic investment, in terms of a Board approved policy, duly incorporated in the loan policy of the banks. Such policy should include overall limit on such financing, terms and conditions of eligibility of borrowers, security, margin, etc. While the Board may frame its own guidelines and safeguards for such lending, such acquisition(s) should be beneficial to the company and the country. The finance would be subject to compliance with the statutory requirements under Section 19(2) of the Banking Regulation Act, 1949.
+## <u>(b) Refinance Scheme of Export Import Bank of India</u>
+
+Under the refinance scheme of Export Import Bank of India (EXIM Bank), the banks may sanction term loans on merits to eligible Indian promoters for acquisition of equity in overseas joint ventures / wholly owned subsidiaries, provided that the term loans have been approved by the EXIM Bank for refinance.
+
+2.3.1.13 <u>Arbitrage Operations</u>
+# Withdrawn
+
+Banks should not undertake arbitrage operations themselves or extend credit facilities directly or indirectly to stockbrokers for arbitrage operations in Stock Exchanges. While banks are permitted to acquire shares from the secondary market, they should ensure that no sale transaction is undertaken without actually holding the shares in their investment accounts.
+
+2.3.1.14 <u>General guidelines applicable to advances against shares / debentures /</u> <u>bonds</u>
+(i) Statutory provisions regarding the grant of advances against shares contained in Sections 19(2) and (3) and 20(1) (a) of the Banking Regulation Act 1949 should be strictly observed. Shares held in dematerialised form should also be included for the purpose of determining the limits under Section 19(2) and 19(3) ibid.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 27 -->
+
+(ii) Banks should be concerned with what the advances are for, rather than what the advances are against. While considering grant of advances against shares / debentures banks must follow the normal procedures for the sanction, appraisal and post sanction follow-up.
+
+(iii) Advances against the primary security of shares / debentures / bonds should be kept distinct and separate and not combined with any other advance.
+
+(iv) Banks should satisfy themselves about the marketability of the shares / debentures and the networth and working of the company whose shares / debentures / bonds are offered as security.
+
+(v) Shares / debentures / bonds should be valued at prevailing market prices when they are lodged as security for advances. (vi) Banks should exercise particular care when advances are sought against large blocks of shares by a borrower or a group of borrowers. It should be ensured that advances against shares are not used to enable the borrower to acquire or retain a controlling interest in the company / companies or to facilitate or retain inter-corporate investments.
+# Withdrawn
+
+(vii) No advance against partly paid shares shall be granted.
+
+(viii) No loans to be granted to partnership / proprietorship concerns against the primary security of shares and debentures.
+
+(ix) Whenever the limit/limits of advances granted to a borrower exceeds Rupees ten lakhs, it should be ensured that the said shares / debentures / bonds are transferred in the bank's name and that the bank has exclusive and unconditional voting rights in respect of such shares. For this purpose the aggregate of limits against shares / debentures / bonds granted by a bank at all its offices to a single borrower should be taken into account. Where securities are held in dematerialised form, the requirement relating to transfer of shares in bank's name will not apply and banks may take their own decision in this regard. Banks should, however, avail of the facility provided in the depository system for pledging securities held in dematerialised form under
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 28 -->
+
+which the securities pledged by the borrower get blocked in favour of the lending bank. In case of default by the borrower and on the bank exercising the option of invocation of pledge, the shares and debentures get transferred in the bank's name immediately.
+
+(x) Banks may take their own decision in regard to exercise of voting rights and may prescribe procedures for this purpose. (xi) Banks should ensure that the scrips lodged with them as security are not stolen / duplicate / fake / benami. Any irregularities coming to their notice should be immediately reported to RBI. (xii) The Boards of Directors may decide the appropriate level of authority for sanction of advances against shares / debentures. They may also frame internal guidelines and safeguards for grant of such advances. (xiii) Banks operating in India should not be a party to transactions such as making advances or issuing back-up guarantees favouring other banks for extending credit to clients of Indian nationality / origin by some of their overseas branches, to enable the borrowers to make investments in shares and debentures / bonds of Indian companies.
+# Withdrawn
+
+(xiv) A uniform margin of 50% shall be applied on all advances against shares/financing of IPOs/issue of Guarantees. A minimum cash margin of 25% (within margin of 50%) shall be maintained in respect of guarantees issued by banks for capital market operations. These margin requirements will also be applicable in respect of bank finance to stock brokers by way of temporary overdrafts for DVP transactions.
+
+## 2.3.2 <u>Advances against Fixed Deposit Receipts (FDRs) Issued by Other Banks</u>
+
+2.3.2.1 There have been instances where fake term deposit receipts, purported to have been issued by some banks, were used for obtaining advances from other banks. In the light of these happenings, the banks should desist from sanctioning advances against FDRs, or other term deposits of other banks.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 29 -->
+
+2.3.2.2 <u>Restrictions on advances against NR(E)RA and FCNR (B) Deposits -</u> <u>Quantum of loans</u> Grant of advance against NR(E) and FCNR(B) deposits would be subject to the guidelines issued under Foreign Exchange Management Act, 1999
+## 2.3.3 <u>Advances to Agents/Intermediaries based on</u>
+
+## <u>Consideration of Deposit Mobilisation</u>
+
+Banks should desist from being party to unethical practices of raising of resources through agents/intermediaries to meet the credit needs of the existing/prospective borrowers or from granting loans to intermediaries, based on the consideration of deposit mobilisation, who may not require the funds for their genuine business requirements.
+
+## 2.3.4 <u>Loans against Certificate of Deposits (CDs)</u>
+
+Banks may lend against CDs and buy back their own CDs, until further notice, only in respect of CDs held by mutual funds, subject to the provisions of paragraph 44(2) of the SEBI (Mutual Funds) Regulations, 1996. Further, such finance if extended to equity-oriented mutual funds will form part of banks’ capital market exposure, as hitherto.
+
+## 2.3.5 <u>Finance for and Loans/Advances against Indian Depository Receipts</u>
+
+<u>(IDRs)</u>Withdrawn
+
+No bank should grant any loan / advance for subscription to Indian Depository Receipts (IDRs). Further, no bank should grant any loan / advance against security / collateral of IDRs issued in India.
+
+## 2.3.6 <u>Bank Finance to Non-Banking Financial Companies (NBFCs)</u>
+
+Banks may be guided by the Master Circular on Bank Finance to Non- Banking Financial Companies (NBFCs) dated July 1, 2015 in this regard.
+
+**2.3**.**7** <u>Financing Infrastructure/ Housing Projects</u>
+2.3.7.1 <u>Housing Finance</u>
+Banks may refer to the Master Circular on Housing Finance dated July 1, 2015 in this regard.
+
+2.3.7.2 <u>Guidelines for Financing Infrastructure Projects</u>
+In order to harmonise the definition of 'infrastructure lending for the purpose of financing of infrastructure by the banks and Financial Institutions' with that of
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 30 -->
+
+the Master List of Infrastructure sub-sectors' notified by the Government of India on October 7, 2013, the definition of 'infrastructure lending' has been revised as below: (As amended from time to time) *A credit facility extended by lenders (i.e. banks and select All India Term-Lending* *and Refinancing Institutions) to a borrower for exposure in the following* *infrastructure sub-sectors will qualify as 'infrastructure lending' :*
+
+|Category||Infrastructure sub-sectors|
+|---|---|---|
+|Transport|i ii iii iv v vi|Roads and bridges 1 Ports Inland Waterways Airport Railway Track, tunnels, viaducts, 2 bridges Urban Public Transport (except rolling stock in case of urban road transport)|
+|Energy|i ii iii iv v vi|Electricity Generation Electricity Transmission Electricity Distribution Oil pipelines Oil / Gas / Liquefied Natural Gas (LNG) 3 storage facility 4 Gas pipelines|
+|Water & Sanitation|i ii iii iv v vi vii|Solid Waste Management Water supply pipelines Water treatment plants Sewage collection, treatment and Withdrawn disposal system Irrigation (dams, channels, embankments etc) Storm Water Drainage System Slurry Pipelines|
+|Communication|i ii iii|5 Telecommunication (Fixed network) Telecommunication towers Telecommunication & Telecom Services|
+|Social and Commercial Infrastructure|i ii iii iv v vi|Education Institutions (capital stock) 6 Hospitals (capital stock) Three-star or higher category classified hotels located outside cities with population of more than 1 million Common infrastructure for industrial parks, SEZ, tourism facilities and agriculture markets Fertilizer (Capital investment) Post harvest storage infrastructure for agriculture and horticultural produce|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 31 -->
+
+||||including cold storage||
+|---|---|---|---|---|
+|||vii viii ix x xi|Terminal markets Soil-testing laboratories 7 Cold Chain 8 Hotels with project cost of more than Rs.200 crores each in any place in India and of any star rating; 8 Convention Centres with project cost of more than Rs.300 crore each.||
+|1.|Includes Capital Dredging||||
+|2.|terminals, stations and buildings||Includes supporting terminal infrastructure such as loading / unloading||
+|3.|Includes strategic storage of crude oil||||
+|4.|Includes city gas distribution network||||
+|5.|||Includes optic fibre / cable networks which provide broadband / internet||
+|6.|Diagnostics Centres||Includes Medical Colleges, Para Medical Training Institutes and||
+|7.|||Includes cold room facility for farm level pre-cooling, for preservation or storage of agriculture and allied produce, marine products and meat.||
+|8.|charges but include interest during construction.||Applicable with prospective effect from November 25, 2013 i.e. the date of issue of circular by RBI in this regard and available for eligible projects for a period of three years; Eligible costs exclude cost of land and lease||
+
+# Withdrawn
+
+The revised definition of ‘infrastructure lending’ are in effect from November 20, 2012. The exposure of banks to projects under sub-sectors which were included under our previous definition of infrastructure, vide our <u>Master</u> <u>Circular DBR.No.Dir.BC.12/13.03.00/2015-16 dated July 1, 2015</u> on ‘Exposure Norms’ but not included under the revised definition, will continue to get the benefits under 'infrastructure lending' for such exposures till the completion of the projects. However, any fresh lending to those sub-sectors from the date of this circular will not qualify as 'infrastructure lending'. The definition of infrastructure lending and the list of items included under infrastructure sector is revised vide <u>circular DBOD.BP.BC.No.58/08.12.014</u> <u>/2012-13 dated November 20, 2012</u>. Vide <u>circular DBOD.BP.BC.No.106</u> <u>/08.12.014 /2012-13 dated June 28, 2013</u> three more sectors were added to the list. Further, vide <u>circular DBOD.BP.BC.No.66/08.12.014/2013-14 dated</u> <u>November 25, 2013</u>, two more sectors were added to the list.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 32 -->
+
+2.3.7.3 <u>Criteria for Financing</u>
+Banks/FIs are free to finance technically feasible, financially viable and bankable projects undertaken by both public sector and private sector undertakings subject to the following conditions:
+
+(i) The amount sanctioned should be within the overall ceiling of the prudential exposure norms prescribed by RBI for infrastructure financing. (ii) Banks/ FIs should have the requisite expertise for appraising technical feasibility, financial viability and bankability of projects, with particular reference to the risk analysis and sensitivity analysis. (iii) In respect of projects undertaken by public sector units, term loans may be sanctioned only for corporate entities (i.e. public sector undertakings registered under Companies Act or a Corporation established under the relevant statute). Further, such term loans should not be in lieu of or to substitute budgetary resources envisaged for the project. The term loan could supplement the budgetary resources if such supplementing was contemplated in the project design. While such public sector units may include Special Purpose Vehicles (SPVs) registered under the Companies Act set up for financing infrastructure
+# Withdrawn
+
+projects, it should be ensured by banks and financial institutions that these loans/investments are not used for financing the budget of the State Governments. Whether such financing is done by way of extending loans or investing in bonds, banks and financial institutions should undertake due diligence on the viability and bankability of such projects to ensure that revenue stream from the project is sufficient to take care of the debt servicing obligations and that the repayment/servicing of debt is not out of budgetary resources. Further, in the case of financing SPVs, banks and financial institutions should ensure that the funding proposals are for specific monitorable projects. It has been observed that some banks have extended financial assistance to State PSUs which is not in accordance with the above norms. Banks/FIs are, therefore, advised to follow the above
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 33 -->
+
+instructions scrupulously, even while making investment in bonds of sick State PSUs as part of the rehabilitation effort. (iv) Banks may also lend to SPVs in the private sector, registered under the Companies Act for directly undertaking infrastructure projects which are financially viable and not for acting as mere financial intermediaries. Banks may ensure that the bankruptcy or financial difficulties of the parent/ sponsor should not affect the financial health of the SPV.
+
+2.3.7.4 <u>Types of Financing by Banks</u>
+(i) In order to meet financial requirements of infrastructure projects, banks may extend credit facility by way of working capital finance, term loan, project loan, subscription to bonds and debentures/ preference shares/ equity shares acquired as a part of the project finance package which is treated as "deemed advance” and any other form of funded or non-funded facility. (ii) <u>Take-out Financing</u> Banks may enter into take-out financing arrangement with IDFC/ other financial institutions or avail of liquidity support from IDFC/ other FIs. A brief write-up on some of the important features of the arrangement is given in
+# Withdrawn
+
+paragraph 2.3.7.7(i). Banks may also be guided by the instructions regarding take-out finance contained in Circular No.DBOD.BP.BC.144/21.04.048/2000 dated February 29, 2000. (iii) <u>Inter-institutional Guarantees</u> Banks are permitted to issue guarantees favouring other lending institutions in respect of infrastructure projects, provided the bank issuing the guarantee takes a funded share in the project at least to the extent of 5 per cent of the project cost and undertakes normal credit appraisal, monitoring and follow-up of the project. For detailed instructions on inter-institutional guarantee, please see paragraph 2.3.8.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 34 -->
+
+(iv) <u>Financing promoter's equity</u> In terms of Circular No.DBOD.Dir.BC.90/13.07.05/ 98 dated August 28, 1998, banks were advised that the promoters’ contribution towards the equity capital of a company should come from their own resources and the bank should not normally grant advances to take up shares of other companies. In view of the importance attached to the infrastructure sector, it has been decided that, under certain circumstances, an exception may be made to this policy for financing the acquisition of the promoters’ shares in an existing company, which is engaged in implementing or operating an infrastructure project in India. The conditions, subject to which an exception may be made, are as follows:
+
+(i) The bank finance would be only for acquisition of shares of existing companies providing infrastructure facilities. Further, acquisition of such shares should be in respect of companies where the existing foreign promoters (and/ or domestic joint promoters) voluntarily propose to disinvest their majority shares in compliance with SEBI guidelines, where applicable. (ii) The companies to which loans are extended should, inter alia, have a satisfactory net worth.
+# Withdrawn
+
+(iii) The company financed and the promoters/ directors of such companies should not be a defaulter to banks/ FIs.
+
+(iv) In order to ensure that the borrower has a substantial stake in the infrastructure company, bank finance should be restricted to 50% of the finance required for acquiring the promoter's stake in the company being acquired.
+
+(v) Finance extended should be against the security of the assets of the borrowing company or the assets of the company acquired and not against the shares of that company or the company being acquired. The shares of the borrower company / company being acquired may be accepted as additional security and not as primary security. The security charged to the banks should be marketable.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 35 -->
+
+(vi) Banks should ensure maintenance of stipulated margins at all times.
+
+(vii) The tenor of the bank loans may not be longer than seven years. However, the Boards of banks can make an exception in specific cases, where necessary, for financial viability of the project.
+
+(viii) This financing would be subject to compliance with the statutory requirements under Section 19(2) of the Banking Regulation Act,
+
+1949.
+(ix) The banks financing acquisition of equity shares by promoters should be within the regulatory ceiling of 40 per cent of their net worth as on March 31 of the previous year for the aggregate exposure of the banks to the capital markets in all forms (both fund based and non- fund based).
+
+(x) The proposal for bank finance should have the approval of the Board.
+2.3.7.5 <u>Appraisal</u>
+(i) In respect of financing of infrastructure projects undertaken by Government owned entities, banks/Financial Institutions should undertake due diligence on the viability of the projects. Banks shouldWithdrawn ensure that the individual components of financing and returns on the project are well defined and assessed. State Government guarantees may not be taken as a substitute for satisfactory credit appraisal and such appraisal requirements should not be diluted on the basis of any reported arrangement with the Reserve Bank of India or any bank for regular standing instructions/periodic payment instructions for servicing the loans/bonds. (ii) Infrastructure projects are often financed through Special Purpose Vehicles. Financing of these projects would, therefore, call for special appraisal skills on the part of lending agencies. Identification of various project risks, evaluation of risk mitigation through appraisal of project contracts and evaluation of creditworthiness of the contracting entities and their abilities to fulfill contractual obligations will be an integral part of the appraisal exercise. In this connection, banks/FIs may consider
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 36 -->
+
+constituting appropriate screening committees/special cells for appraisal of credit proposals and monitoring the progress/performance of the projects. Often, the size of the funding requirement would necessitate joint financing by banks/FIs or financing by more than one bank under consortium or syndication arrangements. In such cases, participating banks/ FIs may, for the purpose of their own assessment, refer to the appraisal report prepared by the lead bank/FI or have the project appraised jointly.
+
+2.3.7.6 <u>Prudential requirements</u>
+(i) <u>Prudential credit exposure limits</u> Banks may be guided by DBR Master Circular on Exposure Norms dated July 1, 2015. (ii) <u>Assignment of risk weight for capital adequacy purposes</u> Banks are required to be guided by the Guidelines on ‘Basel III Capital Regulations’ as amended from time to time in the matter of capital adequacy. (iii) <u>Asset-Liability Management</u>
+# Withdrawn
+
+The long-term financing of infrastructure projects may lead to asset – liability mismatches, particularly when such financing is not in conformity with the maturity profile of a bank’s liabilities. Banks would, therefore, need to exercise due vigil on their asset-liability position to ensure that they do not run into liquidity mismatches on account of lending to such projects.
+
+## (iv) <u>Administrative arrangements</u>
+
+Timely and adequate availability of credit is the pre-requisite for successful implementation of infrastructure projects. Banks/ FIs should, therefore, clearly delineate the procedure for approval of loan proposals and institute a suitable monitoring mechanism for reviewing applications pending beyond the specified period. Multiplicity of appraisals by every institution involved in financing, leading to delays, has to be avoided and banks should be prepared to broadly accept technical parameters laid down by leading public financial
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 37 -->
+
+institutions. Also, setting up a mechanism for an ongoing monitoring of the project implementation will ensure that the credit disbursed is utilised for the purpose for which it was sanctioned.
+
+2.3.7.7 <u>Take-out financing/liquidity support</u>
+(i) <u>Take-out financing arrangement</u> Take-out financing structure is essentially a mechanism designed to enable banks to avoid asset-liability maturity mismatches that may arise out of extending long tenor loans to infrastructure projects. Under the arrangements, banks financing the infrastructure projects will have an arrangement with IDFC or any other financial institution for transferring to the latter the outstandings in their books on a pre- determined basis. IDFC and SBI have devised different take-out financing structures to suit the requirements of various banks, addressing issues such as liquidity, asset-liability mismatches, limited availability of project appraisal skills, etc. They have also developed a Model Agreement that can be considered for use as a document for specific projects in conjunction with other project loan documents. The agreement between SBI and IDFC could provide a reference point for other banks to enter into somewhat similar arrangements with IDFC or
+# Withdrawn
+
+other financial institutions.
+
+## (ii) <u>Liquidity support from IDFC</u>
+
+As an alternative to take-out financing structure, IDFC and SBI have devised a product, providing liquidity support to banks. Under the scheme, IDFC would commit, at the point of sanction, to refinance the entire outstanding loan (principal+ unrecovered interest) or part of the loan, to the bank after an agreed period, say, five years. The credit risk on the project will be taken by the bank concerned and not by IDFC. The bank would repay the amount to IDFC with interest as per the terms agreed upon. Since IDFC would be taking a credit risk on the bank, the interest rate to be charged by it on the amount refinanced would depend on the IDFC’s risk perception of the bank (in most of the cases, it may be close to IDFC’s PLR). The refinance support from
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 38 -->
+
+IDFC would particularly benefit the banks which have the requisite appraisal skills and the initial liquidity to fund the project.
+
+2.3.7.8 <u>Issue of Long Term Bonds by Banks – Financing of Infrastructure</u>
+<u>and Affordable Housing</u>
+
+In response to the Budget announcement on July 10, 2014, RBI has allowed banks to issue long-term bonds with a minimum maturity of seven years to raise resources for lending to (i) long term projects in infrastructure sub-sectors, and (ii) affordable housing with exemptions from certain regulatory pre-emptions. Detailed instructions in this regard are given in circular DBOD.BP.BC.No.25/08.12.014/2014-15 dated July 15, 2014. The investment will be subject to guidelines on cross holding
+
+## 2.3.8 <u>Issue of Bank Guarantees in favour of Financial Institutions</u>
+
+2.3.8.1 Banks may issue guarantees favouring other banks/FIs/other lending agencies for the loans extended by the latter, subject to strict compliance with the following conditions.
+(i) The Board of Directors should reckon the integrity/robustness of the bank’s risk management systems and, accordingly, put in place a well-
+# Withdrawn
+
+laid out policy in this regard.
+
+The Board approved policy should, among others, address the following issues:
+
+a) Prudential limits, linked to bank’s Tier I capital, up to which guarantees favouring other banks/FIs/other lending agencies may be issued.
+b) Nature and extent of security and margins
+c) Delegation of powers
+d) Reporting system
+e) Periodical reviews
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 39 -->
+
+(ii) The guarantee shall be extended only in respect of borrower constituents and to enable them to avail of additional credit facility from other banks/FIs/lending agencies.
+
+(iii) The guaranteeing bank shall assume a funded exposure of at least 10% of the exposure guaranteed.
+
+(iv) Banks should not extend guarantees or letters of comfort in favour of overseas lenders including those assignable to overseas lenders, except for the relaxations permitted under FEMA.
+
+(v) The guarantee issued by the bank will be an exposure on the borrowing entity on whose behalf the guarantee has been issued and will attract appropriate risk weight as per the extant guidelines. (vi) Banks should ensure compliance with the recommendations of the Ghosh Committee and other internal requirements relating to issue of guarantees to obviate the possibility of frauds in this area.
+2.3.8.2 <u>Lending banks</u>
+A. Banks extending credit facilities against the guarantees issued by other banks/FIs should ensure strict compliance with the following conditions:
+# Withdrawn
+
+(i) The exposure assumed by the bank against the guarantee of another bank/FI will be deemed as an exposure on the guaranteeing bank/FI and will attract appropriate risk weight as per the extant guidelines. (ii) Exposures assumed by way of credit facilities extended against the guarantees issued by other banks should be reckoned within the inter bank exposure limits prescribed by the Board of Directors. Since the exposure assumed by the bank against the guarantee of another bank/FI will be for a fairly longer term than those assumed on account of inter bank dealings in the money market, foreign exchange market and securities market, the Board of Directors should fix an appropriate sub-limit for the longer term exposures since these exposures attract greater risk. (iii) Banks should monitor the exposure assumed on the guaranteeing bank/FI, on a continuous basis and ensure strict compliance with the
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 40 -->
+
+prudential limits/sub limits prescribed by the Boards for banks and the prudential single borrower limits prescribed by RBI for FIs.
+
+(iv) Banks should comply with the recommendations of the Ghosh Committee and other internal requirements relating to acceptance of guarantees of other banks to obviate the possibility of frauds in this area.
+
+B. However, the above conditions will not be applicable in the following cases:
+(a) In respect of infrastructure projects, banks may issue guarantees favouring other lending institutions, provided the bank issuing the guarantee takes a funded share in the project at least to the extent of 5 percent of the project cost and undertakes normal credit appraisal, monitoring and follow up of the project.
+(b) Issuance of guarantees in favour of various Development Agencies/Boards, like Indian Renewable Energy Development Agency, National Horticulture Board, etc. for obtaining soft loans and/or other forms of development assistance from such Agencies/Boards with the objective of improving efficiency, productivity, etc., subject to the following conditions:Withdrawn
+- Banks should satisfy themselves, on the basis of credit appraisal, regarding the technical feasibility, financial viability and bankability of individual projects and/or loan proposals i.e. the standard of such appraisal should be the same, as is done in the case of a loan proposal seeking sanction of term finance/loan.
+- Banks should conform to the prudential exposure norms prescribed from time to time for an individual borrower/group of borrowers.
+- Banks should suitably secure themselves before extending such guarantees.
+(c) Issue of guarantees favouring HUDCO/State Housing Boards and similar bodies for loans granted by them to private borrowers who are unable to offer clean or marketable title to property, provided banks are
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 41 -->
+
+otherwise satisfied about the capacity of borrowers to adequately service such loans.
+
+d) Issuance of guarantees by consortium member banks unable to participate in rehabilitation packages on account of temporary liquidity constraints, in favour of the banks which take up their share of the limit.
+C. Banks should not grant co-acceptance/guarantee facilities under Buyers Lines of Credit Schemes introduced by IDBI, SIDBI, Exim Bank, Power Finance Corporation (PFC) or any other financial institution, unless specifically permitted by the RBI.
+## 2.3.9 <u>Discounting/Rediscounting of Bills by Banks</u>
+
+Banks may adhere to the following guidelines while purchasing / discounting / negotiating / rediscounting of genuine commercial / trade bills:
+
+(i) Since banks have already been given freedom to decide their own guidelines for assessing / sanctioning working capital limits of borrowers, they may sanction working capital limits as also bills limit to borrowers after proper appraisal of their credit needs and in accordance with the loan policy as approved by their Board of Directors.
+# Withdrawn
+
+(ii) Banks should clearly lay down a bills discounting policy approved by their Board of Directors, which should be consistent with their policy of sanctioning of working capital limits. In this case, the procedure for Board approval should include banks’ core operating process from the time the bills are tendered till these are realised. Banks may review their core operating processes and simplify the procedure in respect of bills financing. In order to address the often-cited problem of delay in realisation of bills, banks may take advantage of improved computer / communication networks like the Structured Financial Messaging system (SFMS) and adopt the system of ‘value dating’ of their clients’ accounts.
+
+(iii) Banks should open letters of credit (LCs) and purchase / discount / negotiate bills under LCs only in respect of genuine commercial and trade transactions of their borrower constituents who have been sanctioned regular credit facilities by the banks. Banks should not,
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 42 -->
+
+therefore, extend fund-based (including bills financing) or non-fund based facilities like opening of LCs, providing guarantees and acceptances to non-constituent borrower or / and non-constituent member of a consortium / multiple banking arrangement. However, in cases where negotiation of bills drawn under LC is restricted to a particular bank, and the beneficiary of the LC is not a constituent of that bank, the bank concerned may negotiate such an LC, subject to the condition that the proceeds will be remitted to the regular banker of the beneficiary. The prohibition regarding negotiation of unrestricted LCs of non-constituents will continue to be in force. Bank Guarantee (BG) / LC may be issued by scheduled commercial banks to clients of co- operative banks against counter guarantee of the co-operative bank. In such cases, banks may be guided by the provisions of paragraph
+
+2.3.8.2 of the Master Circular. Further, banks must satisfy themselves that the concerned co-operative banks have sound credit appraisal and monitoring systems as well as robust Know Your Customer (KYC) regime. Before issuing BG / LCs to specific constituents of co-operative banks, they must satisfy themselves that KYC has been done properly in these cases.
+(iv) Sometimes, a beneficiary of the LC may want to discount the bills with
+
+# Withdrawn
+
+the LC issuing bank itself. In such cases, banks may discount bills drawn by beneficiary only if the bank has sanctioned regular fund- based credit facilities to the beneficiary. With a view to ensuring that the beneficiary’s bank is not deprived of cash flows into its account, the beneficiary should get the bills discounted / negotiated through the bank with whom he is enjoying sanctioned credit facilities.
+
+(v) Bills purchased / discounted / negotiated under LC (where the payment to the beneficiary is not made ‘under reserve’) will be treated as an exposure on the LC issuing bank and not on the borrower. All clean negotiations as indicated above will be assigned the risk weight as is normally applicable to inter-bank exposures, for capital adequacy purposes. In the case of negotiations ‘under reserve’, the exposure should be treated as on the borrower and risk weight assigned accordingly. However, in cases where the bills discounting/ purchasing/
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 43 -->
+
+negotiating bank and LC issuing bank are part of the same bank, i.e. where LC is issued by the Head Office or branch of the same bank, then the exposure should be taken on the third party/ borrower and not on the LC issuing bank.
+
+(vi) While purchasing / discounting / negotiating bills under LCs or otherwise, banks should establish genuineness of underlying transactions / documents.
+
+(vii) Banks should ensure that blank LC forms are kept in safe custody as in case of security items like blank cheques, demand drafts etc. and verified / balanced on daily basis. LC forms should be issued to customers under joint signatures of the bank’s authorised officials.
+
+(viii) The practice of drawing bills of exchange claused ‘without recourse’ and issuing letters of credit bearing the legend ‘without recourse’ should be discouraged because such notations deprive the negotiating bank of the right of recourse it has against the drawer under the Negotiable Instruments Act. Banks should not, therefore, open LCs and purchase / discount / negotiate bills bearing the ‘without recourse’ clause. On a review it has been decided that banks may negotiate bills drawn under LCs, on ‘with recourse ‘or ‘without recourse ‘basis, as per
+
+# Withdrawn
+
+their discretion and based on their perception about the credit worthiness of the LC issuing bank. However, the restriction on purchase/discount of other bills (the bills drawn otherwise than under LC) on ‘without recourse ‘basis will continue to be in force.
+
+(ix) Accommodation bills should not be purchased / discounted / negotiated by banks. The underlying trade transactions should be clearly identified and a proper record thereof maintained at the branches conducting the bills business.
+
+(x) Banks should be circumspect while discounting bills drawn by front finance companies set up by large industrial groups on other group companies. (xi) Bills rediscounts should be restricted to usance bills held by other banks. Banks should not rediscount bills earlier discounted by non-
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 44 -->
+
+bank financial companies (NBFCs) except in respect of bills arising from sale of light commercial vehicles and two / three wheelers. (xii) Banks may exercise their commercial judgment in discounting of bills of the services sector. However, while discounting such bills, banks should ensure that actual services are rendered and accommodation bills are not discounted. Services sector bills should not be eligible for rediscounting***.*** Further, providing finance against discounting of services sector bills may be treated as unsecured advance and, therefore, should be within the norm prescribed by the Board of the bank for unsecured exposure limit. (xiii) In order to promote payment discipline which would, to a certain extent, encourage acceptance of bills, all corporates and other constituent borrowers having turnover above threshold level as fixed by the bank’s Board of Directors should be mandated to disclose ‘aging schedule’ of their overdue payables in their periodical returns submitted to banks. (xiv) Banks should not enter into Repo transactions using bills discounted / rediscounted as collateral.
+
+## 2.3.10 <u>Advances for purchase of Gold and lending against Gold Bullion/Coins/Primary gold</u>
+
+# Withdrawn
+
+(a) The significant rise in imports of gold in recent years is a cause for concern as direct bank financing for purchase of gold in any form viz. Bullion/ primary gold/ jewellery/ gold coin etc. could lead to fuelling of demand for gold. Accordingly, it is advised that with effect from November 19, 2012 no advances should be granted by banks for purchase of gold in any form including primary gold, gold bullion, gold jewellery, gold coins, units of Gold Exchange Traded Funds (ETF) and units of gold Mutual Funds. However, banks can provide finance for genuine working capital requirements of jewellers. The scheme of Gold (Metal) Loan detailed vide our circular DBOD. No. IBS. BC. 1519/ 23.67.001/ 1998-99 dated December 31, 1998 as amended from time to time, will continue to be in force.
+(b) Banks should not grant any advance against bullion/ Primary gold. However, as specially minted gold coins sold by banks may not be in the nature of "bullion" or "primary gold", it was indicated in the mailbox clarification
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 45 -->
+
+dated April 5, 2011 that there would be no objection to the bank granting loans against these coins. However, as pointed out in the monetary policy statement 2013-14, there is a risk that some of these coins would be weighing much more, thereby circumventing the Reserve Bank's guidelines regarding restriction on grant of advance against gold bullion. Accordingly, it is advised that while granting advance against the security of specially minted gold coins sold by them, banks should ensure that the weight of the coin(s) does not exceed 50 grams per customer and the amount of loan to any customer against gold ornaments, gold jewellery and gold coins (weighing up to 50 grams) should be within the Board approved limit. Such loans to be granted by the bank, may be covered under the policy framed by the bank's Board, in terms of our circular DBOD.No.BC.138/21.01.023/94 dated November 22,
+
+1994. Further, while granting advances against the gold coins, they may ensure, without fail that the end use of the funds is for approved, non- speculative purposes.
+(c) Further, as units of gold Exchange Traded Funds (ETF) and gold Mutual Funds are backed by bullion/ primary gold, it is clarified that the restriction on grant of loan against ‘gold bullion’ stipulated as per extant instructions will also be applicable to grant of advance against units of gold ETFs and units of gold Mutual Funds.
+# Withdrawn
+
+(d) Banks should desist from granting advances to the silver bullion dealers which are likely to be utilised for speculative purposes.
+## 2.3.11 <u>Advances against Gold Ornaments & Jewellery</u>
+
+a) <u>Loan to Value Ratio</u> Loans (including bullet repayment loans) sanctioned by banks against pledge of gold ornaments and jewellery for non-agricultural purposes should not exceed 75 per cent of the value of gold ornaments and jewellery. Further, LTV of 75 per cent shall be maintained throughout the tenure of the loan for all loans extended against pledge of gold ornaments and jewellery for non-agricultural end uses. The LTV ratio shall be computed against the total outstanding in the account, including accrued interest, and current
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 46 -->
+
+value of gold jewellery accepted as security/ collateral, determined as given below. In order to standardize the valuation and make it more transparent to the borrower, gold ornaments and jewellery accepted as security / collateral will have to be valued at the average of the closing price of 22 carat gold for the preceding 30 days as quoted by the India Bullion and Jewellers Association Ltd. [Formerly known as the Bombay Bullion Association Ltd. (BBA)] or the historical spot gold price data publicly disseminated by a commodity exchange regulated by the Forward Markets Commission on a consistent manner as per their Board approved policy. If the gold is of purity less than 22 carats, the bank should translate the collateral into 22 carat and value the exact grams of the collateral. In other words, jewellery of lower purity of gold shall be valued proportionately.
+
+b) Loans extended against pledge of gold ornaments and jewellery for other than agricultural purposes, where both interest and principal are due for payment at maturity of the loan will be subject to the following conditions :
+(i) Banks, as per their Board approved policy, may Withdrawn decide upon the ceiling with regard to the quantum of loans that may be granted against the pledge of gold jewellery and ornaments for non-agricultural end uses; (ii) The tenor of the loans shall not exceed 12 months from the date of sanction; (iii) Interest will be charged to the account at monthly rests and may be recognised on accrual basis provided the account is classified as ‘standard’ account. This will also apply to existing loans; (iv) Such loans shall be governed by extant norms pertaining to income recognition, asset classification and provisioning which shall be applicable once the principal and interest become overdue.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 47 -->
+
+c) Hallmarking of gold jewellery ensures the quality of gold used in the jewellery as to caratage, fineness and purity. Therefore, banks would find granting of advances against the security of such hallmarked jewellery safer and easier. Preferential treatment of hallmarked jewellery is likely to encourage practice of hallmarking which will be in the long-term interest of consumer, lenders and the industry. Therefore, banks while considering granting advances against jewellery may keep in view the advantages of hallmarked jewellery and decide on the margin and rates of interest thereon.
+## 2.3.<u>12 Gold (Metal) Loans</u>
+
+2.3.12.1 Presently, nominated banks **(as per Annex 1)** can extend Gold (Metal) Loans
+to exporters of jewellery who are customers of other scheduled commercial banks, by accepting stand-by letter of credit or bank guarantee issued by their bankers in favour of the nominated banks subject to authorised banks' own norms for lending and other conditions stipulated by RBI. Banks may also extend the facility to domestic jewellery manufacturers, subject to the following conditions:
+
+# Withdrawn
+
+(i) The stand-by LC / BG shall be extended only on behalf of domestic jewellery manufacturers and shall cover at all times the full value of the quantity of gold borrowed by these entities. The stand-by LC / BG shall be issued by scheduled commercial banks in favour of a nominated bank (list appended) only and not to any other entity which may otherwise be having permission to import gold. (ii) The bank issuing the stand-by LC / BG (only inland letter of credit / bank guarantee) should do so only after carrying out proper credit appraisal. The bank should ensure that adequate margin is available to it at all times consistent with the volatility of the gold prices. (iii) The stand-by LC / BG facilities will be denominated in Indian Rupees and not in foreign currency.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 48 -->
+
+(iv) Stand-by LC / BG issued by the non-nominated banks will be subject to extant capital adequacy and prudential norms.
+
+(v) The banks issuing stand-by LC / BG should also carefully assess the overall risks on granting these facilities and lay down a detailed lending policy with the approval of their Board. (vi) Stand-by LC/BG issuing bank should carry out rigorous credit appraisal exercise and treat stand-by LC/BG limit (Non-fund based limit) at par with the fund based limit. Similarly, bank disbursing GML should carry out independent credit appraisal of the borrower. It should not rely solely on stand-by LC/BG issued by other banks. (vii) Stand-by LC/BG issuing bank and bank disbursing GML while assessing the credit requirement of the borrower may, among others, take into account the following aspects:
+a. Track record of the borrower,
+b. Trade cycle of the manufacturing activity,
+c. Credit worthiness of the borrower,
+# Withdrawn
+
+d. Collateral security offered by the borrower, etc. (viii) The manufacturer of the gold jewellery availing GML, irrespective of whether through stand-by LC/BG issued by another bank or directly from a nominated bank, should have good credentials and standing in the market. This should be established by inputs from the market as well as from other sources including from the Credit Information Companies. (ix) In the case of GML against revolving stand-by LC/BG, i.e., where the original loan limit is restored after repayment of previous loan without any further reference to the stand-by LC/BG issuing bank, both the banks, i.e., GML providing bank and the stand-by LC/BG issuing bank may evolve a mechanism to carefully monitor the borrowing arrangement. In such cases GML providing bank may seek confirmation of stand-by LC/BG issuing bank before restoring the loan limit. Existing guidelines in respect of verifying the genuineness of the guarantee with the issuing bank as provided in the Master
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 49 -->
+
+Circular on Guarantees and Co-acceptances (<u>DBR. No. Dir. BC.11/13.03.00/</u> <u>2015-16 dated July 1, 2015</u>) may be followed by the banks in this regard.
+
+(x) Bank disbursing GML should open current account of the borrower with the consent of stand-by LC/BG issuing bank so that funds can be arranged by the borrower in the account for monthly servicing of interest and repayment of loan on due date. (xi) The GML providing bank may obtain all relevant information from the borrower viz., daily sales/stock position, deposit of sales proceeds etc., at stipulated intervals and there should be proper sharing of the above information between GML providing bank and stand-by LC/BG issuing bank. (xii) Inspection of stocks, quality check of the gold stock, verification of insurance cover, etc, may be undertaken jointly or on rotation basis by the GML providing bank and stand-by LC/BG issuing bank. (xiii) In case GML is given by the nominated bank to its own existing customers, gold metal loans under the scheme may be carved out within the credit limit sanctioned by the bank. In case of new borrowers, the gold metal loan limit may be fixed after carrying out a detailed credit appraisal and due
+# Withdrawn
+
+diligence.
+
+(xiv) GML can be availed of only by gold jewellers who are themselves manufacturers of gold jewellery. The jewellers cannot sell the gold borrowed under GML scheme to any other party for manufacture of jewellery.
+
+2.3.12.2 The nominated banks may continue to extend Gold (Metal) Loans to jewellery exporters subject to the following conditions:
+- The exposure assumed by the nominated bank extending the Gold (Metal) Loan against the stand-by LC / BG of another bank will be deemed as an exposure on the guaranteeing bank and attract appropriate risk weight as per the extant guidelines.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 50 -->
+
+- The transaction should be purely on back-to-back basis i.e. the nominated banks should extend Gold (Metal) Loan directly to the customer of a non-nominated bank, against the stand-by LC / BG issued by the latter.
+- Gold (Metal) Loans should not involve any direct or indirect liability of the borrowing entity towards foreign suppliers of gold.
+- The banks may calculate their exposure and compliance with prudential norms daily by converting into Rupee the gold quantity by crossing London AM fixing for Gold / US Dollar rate with the rupee- dollar reference rate announced by RBI.
+2.3.12.3. There will be no change in the existing policy on lending against bullion. Banks should recognise the overall risks in extending Gold (Metal) Loans as also in extending SBLC / BG. Banks should lay down an appropriate risk management / lending policy in this regard and comply with the recommendations of the Ghosh Committee and other internal requirements relating to acceptance of guarantees of other banks to obviate the possibility of frauds in this area.
+2.3.12.4. Nominated banks are not permitted to enter into any tie up arrangements
+# Withdrawn
+
+for retailing of gold / gold coins with any other entity including non-banking financial companies / co-operative banks / non-nominated banks.
+
+2.3.12.5. The above guidelines are subject to the directions issued under Foreign Exchange Management Act (FEMA) from time to time.
+## 2.3.13 <u>Loans and advances to Real Estate Sector</u>
+
+While appraising loan proposals involving real estate, banks should ensure that the borrowers have obtained prior permission from government / local governments / other statutory authorities for the project, wherever required. In order that the loan approval process is not hampered on account of this, while the proposals could be sanctioned in normal course, the disbursements should be made only after the borrower has obtained requisite clearances from the government authorities.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 51 -->
+
+## 2.3.14 <u>Loans and advances to Micro and Small Enterprises (MSEs)</u>
+
+MSE units having working capital limits of up to Rupees five crore from the banking system are to be provided working capital finance computed on the basis of 20 percent of their projected annual turnover. The banks should adopt the simplified procedure in respect of all MSE units (new as well as existing).
+
+## 2.3.15 <u>Loan system for delivery of bank credit</u>
+
+(a) In the case of borrowers enjoying working capital credit limits of Rupees ten crore and above from the banking system, the loan component should normally be 80 percent. Banks, however, have the freedom to change the composition of working capital by increasing the cash credit component beyond 20 percent or to increase the ‘Loan Component’ beyond 80 percent, as the case may be, if they so desire. Banks are expected to appropriately price each of the two components of working capital finance, taking into account the impact of such decisions on their cash and liquidity management.
+(b) In the case of borrowers enjoying working capital credit limit of less than Rupees ten crore, banks may persuade them to go in for the ‘Loan System’ by offering an incentive in the form of lower rate of interest on the loan
+# Withdrawn
+
+component, as compared to the cash credit component. The actual percentage of ‘loan component’ in these cases may be settled by the bank with its borrower clients.
+
+(c) In respect of certain business activities, which are cyclical and seasonal in nature or have inherent volatility, the strict application of loan system may create difficulties for the borrowers. Banks may, with the approval of their respective Boards, identify such business activities, which may be exempted from the loan system of delivery.
+## 2.3.16 <u>Lending under Consortium Arrangement/Multiple Banking Arrangement</u>
+
+(a) Various regulatory prescriptions regarding conduct of consortium / multiple banking / syndicate arrangements were withdrawn by Reserve Bank of India in October 1996 with a view to introducing flexibility in the credit delivery system and to facilitate smooth flow of credit. However, Central Vigilance
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 52 -->
+
+Commission, Government of India, in the light of frauds involving consortium / multiple banking arrangements which have taken place recently, has expressed concerns on the working of Consortium Lending and Multiple Banking Arrangements in the banking system. The Commission has attributed the incidence of frauds mainly to the lack of effective sharing of information about the credit history and the conduct of the account of the borrowers among various banks.
+
+Banks are encouraged to strengthen their information back-up about the borrowers enjoying credit facilities from multiple banks as under:
+
+(i) At the time of granting fresh facilities, banks may obtain declaration from the borrowers about the credit facilities already enjoyed by them from other banks in the format prescribed in <u>circulars DBOD.No.BP.BC.46/08.12.001</u> <u>/2008-09 dated September 19, 2008</u> and <u>DBOD.No.BP.BC.94/08.12.001</u> <u>/2008-09 dated December 08, 2008</u>. In the case of existing lenders, all the banks may seek a declaration from their existing borrowers availing sanctioned limits of Rupees five crore and above or wherever, it is in their knowledge that their borrowers are availing credit facilities from other banks, and introduce a system of exchange of information with other banks as indicated above.
+# Withdrawn
+
+(ii) Subsequently, banks should exchange information about the conduct of the borrowers' accounts with other banks in the format given in <u>circulars</u> <u>DBOD.No.BP.BC.46/08.12.001/2008-09 dated September 19, 2008</u> and <u>DBOD.No.BP.BC.94/08.12.001/2008-09 dated December 08, 2008</u> at least at quarterly intervals.
+
+(iii) Obtain regular certification by a professional, preferably a Company Secretary, Chartered Accountant or Cost Accountant, regarding compliance of various statutory prescriptions that are in vogue, as per specimen given in <u>circulars DBOD.No.BP.BC.46/08.12.001/2008-09 dated September 19, 2008</u>, <u>DBOD.No.BP.BC.94/08.12.001/2008-09 dated December 08, 2008</u> and <u>DBOD.No.BP.BC.110/08.12.001/2008-09 dated February 10, 2009</u>**.**
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 53 -->
+
+(iv) Make greater use of credit reports available from a credit information company which has obtained Certificate or Registration from RBI and of which the bank is a member.
+
+(v) The banks should incorporate suitable clauses in the loan agreements in future (at the time of next renewal in the case of existing facilities) regarding exchange of credit information so as to address confidentiality issues.
+(b) In terms of our extant instructions on 'Lending under Consortium Arrangement / Multiple Banking Arrangements' banks were advised to strengthen their information back-up about the borrowers enjoying credit facilities from multiple banks by obtaining declaration from the borrowers about the credit facilities already enjoyed by them from other banks. Banks were also advised to exchange information about the conduct of borrowers' accounts with other banks in the specified format at least at quarterly intervals. The format specified in the circular was finalised in consultation with Indian Banks' Association. Banks were further advised on 'Lending under Consortium Arrangement / Multiple Banking Arrangements', that the information exchange should also, inter alia, cover information relating to borrowers' derivative transactions and unhedged foreign currency exposures. In terms of <u>circular DBOD.BP.BC.No.62/ 21.04.103/ 2012-13 dated November</u>
+# Withdrawn
+
+<u>21, 2012</u>, banks are advised to strictly adhere to the instructions regarding sharing of information relating to credit, derivatives and unhedged foreign currency exposures among themselves and put in place an effective mechanism for information sharing by end-December 2012. Any sanction of fresh loans / ad hoc loans / renewal of loans to new / existing borrowers with effect from January 1, 2013 should be done only after obtaining / sharing necessary information. Non-adherence to the above instructions by banks would be viewed seriously by the Reserve Bank and they would be liable to action, including imposition of penalty, wherever considered appropriate.
+
+## 2.3.17 <u>Working Capital Finance to Information Technology and Software</u>
+
+## <u>Industry</u>
+
+Following the recommendations of the “National Task Force on Information Technology and Software development“, Reserve Bank has framed guidelines for extending working capital to the said industry. Banks are however free to
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 54 -->
+
+modify the guidelines based on their own experience without reference to the Reserve Bank of India to achieve the purpose of the guidelines in letter and spirit. The salient features of these guidelines are set forth below:
+
+(i) Banks may consider sanction of working capital limits based on the track record of the promoters group affiliation, composition of the management team and their work experience as well as the infrastructure. (ii) In the case of the borrowers with working capital limits of up to Rs 2 crore, assessment may be made at 20 percent of the projected turnover. However, in other cases, the banks may consider assessment of MPBF on the basis of the monthly cash budget system. For the borrowers enjoying working capital limits of Rs 10 crore and above from the banking system the guidelines regarding the loan system would be applicable. (iii) Banks can stipulate reasonable amount as promoters’ contribution towards margin. (iv) Banks may obtain collateral security wherever available. First/ second charge on current assets, if available, may be obtained.
+(v) The rate of interest as prescribed for general category of borrowersWithdrawn may be levied. Concessional rate of interest as applicable to pre- shipment/post-shipment credit may be levied. (vi) Banks may evolve tailor-made follow up system for such advances. The banks could obtain quarterly statements of cash flows to monitor the operations. In case the sanction was not made on the basis of the cash budgets, they can devise a reporting system, as they deem fit.
+## 2.3.18 <u>Guidelines for bank finance for PSU</u>
+
+## <u>Disinvestments of Government of India</u>
+
+2.3.18.1 The instructions contained in the circular DBOD No. Dir. BC .90/13.07.05/98
+dated August 28, 1998, would not apply in the case of bank finance to the successful bidders under the PSU disinvestment programme of the Government, subject to the following:
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 55 -->
+
+- Banks’ proposals for financing the successful bidders in the PSU disinvestment programme should be approved by their Board of Directors.
+- Bank finance should be for acquisition of shares of PSU under a disinvestment programme approved by Government of India, including the secondary stage mandatory open offer, wherever applicable and not for subsequent acquisition of the PSU shares. Bank finance should be made available only for prospective disinvestments by Government of India.
+- The companies, including the promoters, to which bank finance is to be extended, should have adequate net worth and an excellent track record of servicing loans availed from the banking system.
+- The amount of bank finance thus provided should be reasonable with reference to the banks' size, its net worth and business and risk profile.
+2.3.18.2 In case the advances against the PSU disinvestment is secured by the
+shares of the disinvested PSUs or any other shares, banks should follow RBI's extant guidelines on capital market exposures on margin, ceiling on overall exposure to the capital market, risk management and internal control
+
+# Withdrawn
+
+systems, surveillance and monitoring by the Audit Committee of the Board, valuation and disclosure, etc. In this regard, banks may be guided by the Master Circular on Exposure Norms dated July 1, 2015
+
+2.3.18.3 Stipulation of lock-in period for shares
+i) Banks should, while deciding to extend finance to the borrowers who participate in the PSU disinvestment programme, advise such borrowers to execute an agreement whereby they undertake to:
+(a) Produce the letter of waiver by the Government for disposal of shares acquired under PSU disinvestment programme during the lock-in period, or
+(b) Include a specific provision in the documentation with the Government permitting the pledgee to liquidate the shares during the lock-in period, in case of shortfall in margin requirement or default by the borrower.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 56 -->
+
+(ii) Banks may extend finance to the successful bidders even though the shares of the disinvested company acquired/ to be acquired by the successful bidder are subjected to a lock-in period/ other such restrictions which affect their liquidity, subject to fulfillment of following conditions:
+
+(a) The documentation between the Government of India and the successful bidder should contain a specific provision permitting the pledgee to liquidate the shares even during lock-in period that may be prescribed in respect of such disinvestments, in case of shortfall in margin requirements or default by the borrower.
+(b) If the documentation does not contain such a specific provision, the borrower (successful bidder) should obtain waiver from the Government for disposal of shares acquired under PSU disinvestment programme during the lock-in period.
+2.3.18.4 As per the terms and conditions of the PSU disinvestments by the
+Government of India, the pledgee bank will not be allowed to invoke the pledge during the first year of the lock-in period. During the second and third year of the lock-in period, in case of inability of the borrower to restore theWithdrawn margin prescribed for the purpose by way of additional security or non- performance of the payment obligations as per the repayment schedule agreed upon between the bank and the borrower, the bank would have the right to invoke the pledge. The pledgee bank’s right to invoke the pledge during the second and third years of the lock-in period, would be subject to the terms and conditions of the documentation between Government and the successful bidder, which might also cast certain responsibilities on the pledgee banks.
+
+2.3.18.5 It is clarified that the concerned bank must make a proper appraisal and
+exercise due caution about creditworthiness of the borrower and the financial viability of the proposal. The bank must also satisfy itself that the proposed documentation, relating to the disposal of shares pledged with the bank, are fully acceptable to the bank and do not involve unacceptable risks on the part of the bank.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 57 -->
+
+2.3.18.6 In terms of IECD Circular No. 10/ 08.12.01/ 2000- 2001 dated 8 January 2001,
+banks are precluded from financing investments of NBFCs in other companies and inter-corporate loans / deposits to/ in other companies. The position has been reviewed and banks are advised that SPVs which comply with the following conditions would not be treated as investment companies and therefore would not be considered as NBFCs:
+
+a. They function as holding companies, special purpose vehicles, etc. with not less than 90 per cent of their total assets as investment in securities held for the purpose of holding ownership stake,
+b. They do not trade in these securities except for block sale,
+c. They do not undertake any other financial activities, and
+d. They do not hold/accept public deposits
+2.3.18.7 SPVs, which satisfy the above conditions, would be eligible for bank finance
+for PSU disinvestments of Government of India.
+
+2.3.18.8 In this context, it may be mentioned that Government of India, Ministry of
+# Withdrawn
+
+Finance (DEA), Investment Division, vide its Press Note dated July 8, 2002, on guidelines for Euro issues, has permitted an Indian company utilizing ADR/GDR/ECB proceeds for financing disinvestment programme of the Government of India, including the subsequent open offer. Banks may, therefore, take into account proceeds from such ADR/GDR/ECB issues, for extending bank finance to successful bidders of the PSU disinvestment programme.
+
+## 2.3.19 <u>Grant of Loans for acquisition of Kisan Vikas Patras (KVPs)</u>
+
+(i) Certain instances have come to notice where banks have sanctioned loans to individuals (mostly High Networth Individuals-HNIs) for acquisition of Kisan Vikas Patras (KVPs). The HNIs were first required to bring in 10% of the total face value of the proposed investment in the KVPs as margin and the remaining 90% of the investment was treated as loan and funded by the bank
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 58 -->
+
+for acquisition of the KVPs. Once the KVPs were acquired in the borrower’s name, the same were pledged thereafter to the bank.
+
+(ii) The sanction of loans as described above is not in conformity with the objectives of small savings schemes. The basic objective of small savings schemes is to provide a secure avenue of savings for small savers and promote savings, as well as to inculcate the habit of thrift among the people. The grant of loans for acquiring/investing in KVPs does not promote fresh savings and, rather, channelises the existing savings in the form of bank deposits to small savings instruments and thereby defeats the very purpose of such schemes. Banks should, therefore, ensure that no loans are sanctioned for acquisition of/investing in Small Savings Instruments including Kisan Vikas Patras*.*
+
+## 2.3.20 <u>7% Savings Bonds 2002, 6.5% Savings Bonds 2003 (Non-taxable) & 8%</u>
+
+## <u>Savings (Taxable) Bonds 2003-Collateral facility</u>
+
+It has been decided by the Government of India to allow pledge or hypothecation or lien of the bonds issued under the captioned schemes as collateral for obtaining loans from scheduled banks. Accordingly, the holders of the said bonds will be entitled to create pledge or hypothecation or lien in
+
+# Withdrawn
+
+favour of scheduled banks in accordance with section 28 of the Government Securities Act, 2006 (the G S Act) and regulations 21 and 22 of the Government Securities Regulations, 2007 (the G S Regulations). A copy each of the amending notification numbers No. F.4(13)-W & M/2002 dated August 19, 2008 for 7% Savings Bonds, 2002, No. F.4(9)-W & M/2003 dated August 19, 2008 for 6.5% Savings Bonds, 2003 (Non-taxable), and No. F.4(10)-W & M/2003 dated August 19, 2008 for 8% Savings (Taxable) Bonds, 2003 issued by the Government of India is enclosed with RBI circular DBOD. No. Dir.BC.66/13.03.00/2008-09 dated October 24, 2008. In view of the above amendments, banks are advised to facilitate extension of collateral facility through pledge or hypothecation or lien as per the procedure laid down in Section 28 of the GS Act and Regulations 21 and 22 of the GS Regulations. Relevant extracts of the Act / Regulations along with the forms and the relative press release issued by the Government of India are also enclosed in the above circular for ready reference. It may be noted that collateral facility is
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 59 -->
+
+available only for the loans extended to the holders of the bonds and, as such, the facility is not available in respect of the loans extended to third parties.
+
+## 2.3.21 <u>Guidelines on Settlement of Non Performing Assets</u>-
+
+## <u>Obtaining Consent Decree from Court</u>
+
+The Debt Recovery Tribunal, Ernakulam has observed in a case that although the bank and the defendant borrowers had reached a settlement under the compromise Settlement Scheme, the bank had not only failed to obtain the consent decree from the DRT, but had also suppressed from the DRT the fact of settlement for more than two and half years thereby violating the aforesaid RBI guidelines and causing the Tribunal to unnecessarily waste its valuable time. Banks are, therefore, advised to invariably ensure that once a case is filed before a Court / DRT / BIFR, any settlement arrived at with the borrower is subject to obtaining a consent decree from the Court / DRT / BIFR concerned.
+
+## 2.3.22 <u>Project Finance Portfolio of Banks</u>
+
+2.3.22.1 At the time of financing projects banks generally adopt one of the following
+methodologies for determining the level of promoters’ equity:
+
+# Withdrawn
+
+1) Promoters bring their entire contribution upfront before the bank starts disbursing its commitment.
+2) Promoters bring certain percentage of their equity (40% – 50%) upfront and balance is brought in stages.
+3) Promoters agree, ab-initio, that they will bring in equity funds proportionately as the banks finance the debt portion.
+2.3.22.2 While it is appreciated that such decisions are to be taken by the boards of the
+respective banks, it has been observed that the last method has greater equity funding risk. In order to contain this risk, banks are advised in their own interest to have a clear policy regarding the Debt Equity Ratio (DER) and to ensure that the infusion of equity/fund by promoters should be such that the stipulated level of DER is maintained at all times. Further they may adopt funding sequences so that possibility of equity funding by banks is obviated.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 60 -->
+
+## 2.3.23 <u>Bridge Loans against receivables from Government</u>
+
+(i) Banks should not extend bridge loans against amounts receivable from Central/State Governments by way of subsidies, refunds, reimbursements, capital contributions, etc. The following exemptions are, however, made:
+a) Banks may continue to finance subsidy receivable under the normal Retention Price Scheme (RPS) for periods upto 60 days in case of fertilizer industry. It is clarified that the facility is being allowed as a purely temporary measure and the fertilizer companies should strengthen their financial position gradually so that they do not depend on the banks for finance against subsidy. No other subsidy receivables such as, those in respect of claims raised by units on the basis of expected revision in retention price because of escalation in costs of inputs and in respect of freight, etc., should be financed by the banks.
+b) Banks may continue to grant finance against receivables from Government by exporters (viz. Duty Draw Back and IPRS) to the extent covered by the existing instructions. (ii) Banks have been permitted to sanction to companies for a period not exceeding one year against expected equity flows/issues. Withdrawn (iii) Banks should formulate their own internal guidelines with the approval of their Board of Directors for grant of such loans, exercising due caution and attention to security of such loans. (iv) Banks may extend bridge loans against the expected proceeds of Non- Convertible debentures, External Commercial Borrowings, Global Depository receipts and/or funds in the nature of Foreign Direct Investments, provided the banks are satisfied that the borrowing company has already made firm arrangements for raising the aforesaid resources/funds.
+## 2.3.24 <u>Fund/Non-Fund based credit Facilities to Overseas Joint</u>
+
+## <u>Ventures/Wholly –owned Subsidiaries Abroad and overseas Step- down</u>
+
+## <u>Subsidiaries of Indian Companies</u>
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 61 -->
+
+2.3.24.1 Banks are allowed to extend credit/non-credit facilities (viz. letters of credit and guarantees) to Indian Joint Ventures/Wholly –owned Subsidiaries abroad and Step-down subsidiaries which are wholly owned by overseas subsidiaries of Indian Corporates. Banks are also permitted to provide at their discretion, buyer’s credit/acceptances finance to overseas parties for facilitating export of goods and services from India, subject to the following conditions:
+(i) Loan will be granted only to those joint ventures where the holding by the Indian company is more than 51%. (ii) Proper systems for management of credit and interest rate risks arising out of such cross border lending are in place. (iii) While extending such facilities, banks will have to comply with Section 25 of the Banking Regulation Act, 1949, in terms of which the assets in India of every quarter shall not be less than 75% of its demand and time liabilities in India. (iv) The resource base for such lending should be funds held in foreign currency accounts such as FCNR(B), EEFC, RFC, etc. in respect of which banks have to manage exchange risk.
+# Withdrawn
+
+(v) Maturity mismatches arising out of such transactions are within the overall gap limits approved by RBI. (vi) Adherence to all existing safeguards/prudential guidelines relating to capital adequacy, exposure norms etc. applicable to domestic credit/non- credit exposures. (vii) The setup of the step-down subsidiary should be such that banks can effectively monitor the facilities granted by them.
+2.3.24.2 Further, the loan policy for such credit/non-credit facility should be, interalia, in keeping with the following:
+(i) Grant of such loans is based on proper appraisal and commercial viability of the projects and not merely on the reputation of the promoters
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 62 -->
+
+backing the project. Non-fund based facilities should be subjected to the same rigorous scrutiny as fund-based limits.
+
+(ii) The countries where the joint ventures/ wholly owned subsidiaries are located should have no restrictions applicable to these companies in regard to obtaining foreign currency loans or for repatriation etc. and should permit non- resident banks to have legal charge on securities/assets abroad and the right disposal in case of need.
+
+2.3.24.3 In terms of our Foreign Exchange Department circular <u>A.P.(DIR Series)</u> <u>Circular No 134 dated June 25, 2012</u>, Indian companies in the manufacturing and infrastructure sector were allowed to avail of external commercial borrowings (ECBs) for repayment of Rupee loans availed of from domestic banking system and / or for fresh Rupee capital expenditure, under the approval route, subject to satisfying certain conditions. However, if the ECB is availed from overseas branches / subsidiaries of Indian banks, the risk remains within the Indian banking system. It has, therefore, been decided that repayment of Rupee loans availed of from domestic banking system through ECBs extended by overseas branches / subsidiaries of Indian banks will not be permitted with effect from April 22, 2014.
+# <u>Withdrawn</u>
+
+## 2.4 <u>Transfer of borrowal accounts from one bank to another</u>
+
+Of late RBI has been receiving references / complaints that critical information on the health of the borrowal accounts being taken over is not being shared by the transferor bank with the transferee bank, resulting in inadequate due diligence at the time of taking over of accounts. Therefore, banks are advised that:
+
+a) Banks should put in place a Board approved policy with regard to take- over of accounts from another bank. The policy may include norms relating to the nature of the accounts that may be taken over, authority levels for sanction of takeover, reporting of takeover to higher authorities, monitoring mechanism of taken over accounts, credit audit of taken over accounts, examination of staff accountability especially in case of quick mortality of such cases after takeover, periodic review of taken over accounts at Board / Board Committee level, Top Management level, etc.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 63 -->
+
+b) In addition, before taking over an account, the transferee bank should obtain necessary credit information from the transferor bank as per the format prescribed in Annex II of RBI <u>circular DBOD.No.BP.BC.94/ 08.12.001/2008-09</u> <u>dated December 8, 2008</u> on "Lending under Consortium Arrangement / Multiple Banking Arrangements". This would enable the transferee bank to be fully aware of the irregularities, if any, existing in the borrower's account(s) with the transferor bank. The transferor bank, on receipt of a request from the transferee bank, should share necessary credit information as per the prescribed format at the earliest.
+## 2.5 <u>Guidelines on Fair Practices Code for Lenders</u>
+
+2.5.1. On the basis of the recommendations of the Working Group on Lenders’ Liability Laws constituted by the Government of India, the feasibility of introducing the Fair Practices Code for Lenders was examined in consultation with Government, select banks and financial institutions. The guidelines have since been finalised and banks/ all India Financial Institutions are advised to adopt the following broad guidelines and frame the Fair Practices Code duly approved by their Board of Directors.
+2.5.2 <u>Guidelines</u>Withdrawn
+(i) <u>Applications for loans and their processing</u>
+(a) Loan application forms in respect of all categories of loans irrespective of the amount of loan sought by the borrower should be comprehensive. With a view to bringing in fairness and transparency, banks are advised that they must transparently disclose to the borrower all information about fees / charges payable for processing the loan application, the amount of fees refundable if loan amount is not sanctioned / disbursed, pre-payment options and charges, if any, penalty for delayed repayments if any, conversion charges for switching loan from fixed to floating rates or vice versa, existence of any interest reset clause and any other matter which affects the interest of the borrower. Such information should also be displayed on the website of the banks for all categories of loan products. It has come to our notice that some banks levy, in addition to a processing fee, certain charges which are not
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 64 -->
+
+initially disclosed to the borrower. It may be mentioned that levying such charges subsequently without disclosing the same to the borrower is an unfair practice. Banks/FIs should ensure that all information relating to charges/fees for processing are invariably disclosed in the loan application forms. Further, the banks must inform ‘all-in-cost’ to the customer to enable him to compare the rates charges with other sources of finance. It should also be ensured that such charges / fees are non-discriminatory.
+
+(b) Banks and financial institutions should devise a system of giving acknowledgement for receipt of all loan applications.
+<u>(c) Timelines for Credit Decisions</u> While banks are required to carry out necessary due diligence before arriving at credit decisions, timely and adequate availability of credit is a pre-requisite for successful implementation of large projects. Therefore, banks are advised that they should clearly delineate the procedure for disposal of loan proposals, with appropriate timelines, and institute a suitable monitoring mechanism for reviewing applications pending beyond the specified period. It is, however, reiterated that there should not be any compromise on due diligence requirements. Banks may also make suitable disclosures on the timelines for
+# Withdrawn
+
+conveying credit decisions through their websites, notice-boards, product literature, etc.
+
+(d) Banks / financial institutions should verify the loan applications within a reasonable period of time. If additional details / documents are required, they should intimate the borrowers immediately.
+(e) In case of all categories of loans irrespective of any threshold limits, including credit card applications, the lenders should convey in writing, the main reason/reasons which, in the opinion of the bank after due consideration, have led to rejection of the loan applications within stipulated time.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 65 -->
+
+## (ii) <u>Loan appraisal and terms/conditions</u>
+
+a) Lenders should ensure that there is proper assessment of credit application by borrowers. They should not use margin and security stipulation as a substitute for due diligence on credit worthiness of the borrower.
+b) The lender should convey to the borrower the credit limit along with the terms and conditions thereof and keep the borrower's acceptance of these terms and conditions given with his full knowledge on record.
+c) Terms and conditions and other caveats governing credit facilities given by banks/ financial institutions arrived at after negotiation by lending institution and the borrower should be reduced in writing and duly certified by the authorised official. A copy of the loan agreement along with a copy each of all enclosures quoted in the loan agreement should be furnished to the borrower. It is reiterated that banks should invariably furnish a copy of the loan agreement along with a copy each of all enclosures quoted in the loan agreement to all the borrowers at the time of sanction / disbursement of loans.
+# Withdrawn
+
+d) As far as possible, the loan agreement should clearly stipulate credit facilities that are solely at the discretion of lenders. These may include approval or disallowance of facilities, such as, drawings beyond the sanctioned limits, honouring cheques issued for the purpose other than specifically agreed to in the credit sanction, and disallowing drawing on a borrowal account on its classification as a non-performing asset or on account of non-compliance with the terms of sanction. It may also be specifically stated that the lender does not have an obligation to meet further requirements of the borrowers on account of growth in business etc. without proper review of credit limits.
+e) In the case of lending under consortium arrangement, the participating lenders should evolve procedures to complete appraisal of proposals in the time bound manner to the extent feasible, and communicate their decisions on financing or otherwise within a reasonable time.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 66 -->
+
+(iii) <u>Disbursement of loans including changes in terms and conditions</u>
+
+Lenders should ensure timely disbursement of loans sanctioned in conformity with the terms and conditions governing such sanction. Lenders should give notice of any change in the terms and conditions including interest rates, service charges etc. Lenders should also ensure that changes in interest rates and charges are effected only prospectively**.**
+
+## (iv) <u>Post disbursement supervision</u>
+
+a) Post disbursement supervision by lenders, particularly in respect of loans up to Rupees two lakh, should be constructive with a view to taking care of any" lender-related" genuine difficulty that the borrower may face.
+b) Before taking a decision to recall / accelerate payment or performance under the agreement or seeking additional securities, lenders should give notice to borrowers, as specified in the loan agreement or a reasonable period, if no such condition exits in the loan agreement.
+c) Lenders should release all securities on receiving payment of loan orWithdrawn realisation of loan subject to any legitimate right or lien for any other claim lenders may have against borrowers. If such right of set off is to be exercised, borrowers shall be given notice about the same with full particulars about the remaining claims and the documents under which lenders are entitled to retain the securities till the relevant claim is settled/ paid.
+(v) <u>General</u>
+a) Lenders should restrain from interference in the affairs of the borrowers except for what is provided in the terms and conditions of the loan sanction documents (unless new information, not earlier disclosed by the borrower, has come to the notice of the lender).
+b) Lenders must not discriminate on grounds of sex, caste and religion in the matter of lending. However, this does not preclude lenders from
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 67 -->
+
+participating in credit-linked schemes framed for weaker sections of the society.
+
+c) In the matter of recovery of loans, the lenders should not resort to undue harassment viz. persistently bothering the borrowers at odd hours, use of muscle power for recovery of loans, etc.
+d) In case of receipt of request for transfer of borrowal account, either from the borrower or from a bank/financial institution, which proposes to take- over the account, the consent or otherwise i.e, objection of the lender, if any, should be conveyed within 21 days from the date of receipt of request.
+2.5.3. Fair Practices Code based on the guidelines outlined in the paragraph 2.5.2 above should be put in place in respect of all lending. Banks and financial institutions will have the freedom of drafting the Fair Practices Code, enhancing the scope of the guidelines but in no way sacrificing the spirit underlying the above guidelines. For this purpose, the Boards of banks and financial institutions should lay down a clear policy.
+2.5.4 The Board of Directors should also lay down the appropriate grievance redressal mechanism within the organization to resolve disputes arising in thisWithdrawn regard. Such a mechanism should ensure that all disputes arising out of the decisions of lending institutions' functionaries are heard and disposed of at least at the next higher level. The Board of Directors should also provide for periodical review of the compliance of the Fair Practices Code and the functioning of the grievances redressal mechanism at various levels of controlling offices. A consolidated report of such reviews may be submitted to the Board at regular intervals, as may be prescribed by it.
+2.5.5 The adoption of the Code, printing of necessary loan application forms and circulation thereof among the branches and controlling offices should also be duly completed. The Fair Practices Code, which may be adopted by banks and financial institutions, should also be put on their website and given wide publicity. A copy may also be forwarded to the Reserve Bank of India.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 68 -->
+
+## 2.6 <u>Guidelines on Recovery Agents engaged by banks</u>
+
+2.6.1 In view of the rise in the number of disputes and litigations against banks for engaging recovery agents in the recent past, it is felt that the adverse publicity would result in serious reputational risk for the banking sector as a whole. A need has therefore arisen to review the policy, practice, and procedure involved in the engagement of recovery agents by banks in India. In this backdrop, Reserve Bank issued draft guidelines which were placed on the web-site for comments of all concerned. Based on the feedback received from a wide spectrum of banks / individuals / organizations, the draft guidelines have been suitably revised and the final guidelines are issued vide our <u>circular</u> <u>DBOD.No.Leg.BC.75/09.07.005/2007-08 dated April 24, 2008</u>.
+2.6.2 Banks are advised to take into account the following specific considerations while engaging recovery agents:
+(i) ‘Agent’ in these guidelines would include agencies engaged by the bank and the agents/ employees of the concerned agencies. (ii) Banks should have a due diligence process in place for engagement of recovery agents, which should be so structured to cover, among others, individuals involved in the recovery process. The due diligence process
+# Withdrawn
+
+should generally conform to the guidelines issued by RBI on outsourcing of financial services vide <u>circular DBOD.No.BP.40/21.04.158/ 2006-07 dated</u> <u>November 3, 2006</u>. Further, banks should ensure that the agents engaged by them in the recovery process carry out verification of the antecedents of their employees, which may include pre-employment police verification, as a matter of abundant caution. Banks may decide the periodicity at which re- verification of antecedents should be resorted to.
+
+(iii) To ensure due notice and appropriate authorization, banks should inform the borrower the details of recovery agency firms / companies while forwarding default cases to the recovery agency. Further, since in some of the cases, the borrower might not have received the details about the recovery agency due to refusal / non-availability / avoidance and to ensure identification, it would be appropriate if the agent also carries a copy of the notice and the authorization letter from the bank along with the identity card
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 69 -->
+
+issued to him by the bank or the agency firm / company. Further, where the recovery agency is changed by the bank during the recovery process, in addition to the bank notifying the borrower of the change, the new agent should carry the notice and the authorization letter along with his identity card.
+
+(iv) The notice and the authorization letter should, among other details, also include the telephone numbers of the relevant recovery agency. Banks should ensure that there is a tape recording of the content / text of the calls made by recovery agents to the customers, and vice-versa. Banks may take reasonable precaution such as intimating the customer that the conversation is being recorded, etc.
+
+(v) The up to date details of the recovery agency firms / companies engaged by banks may also be posted on the bank’s website. (vi) Where a grievance/ complaint has been lodged, banks should not forward cases to recovery agencies till they have finally disposed of any grievance / complaint lodged by the concerned borrower. However, where the bank is convinced, with appropriate proof, that the borrower is continuously making frivolous / vexatious complaints, it may continue with the recovery proceedings through the Recovery Agents even if a grievance / complaint is pending with them. In cases where the subject matter of the borrower’s duesWithdrawn might be *sub judice*, banks should exercise utmost caution, as appropriate, in referring the matter to the recovery agencies, depending on the circumstances. (vii) Each bank should have a mechanism whereby the borrowers' grievances with regard to the recovery process can be addressed. The details of the mechanism should also be furnished to the borrower while advising the details of the recovery agency as at item (iii) above.
+## <u>Incentives to Recovery Agents</u>
+
+(viii) It is understood that some banks set very stiff recovery targets or offer high incentives to recovery agents. These have, in turn, induced the recovery agents to use intimidatory and questionable methods for recovery of dues. Banks are, therefore, advised to ensure that the contracts with the recovery
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 70 -->
+
+agents do not induce adoption of uncivilized, unlawful and questionable behaviour or recovery process.
+
+<u>Methods followed by Recovery Agents</u> (ix) A reference is invited to (a) Circular DBOD.Leg.No.BC.104/09.07.007 /2002-03 dated May 5, 2003 regarding Guidelines on Fair Practices Code for Lenders (b) <u>Circular DBOD.No.BP. 40/21.04.158/ 2006-07 dated November</u> <u>3, 2006</u> regarding outsourcing of financial services and (c) <u>Master Circular</u> <u>DBOD.FSD.BC.17/24.01.011/2007-08 dated July 2, 2007</u> on Credit Card Operations. Further, a reference is also invited to paragraph 6 of the "Code of Bank's Commitment to Customers" (BCSBI Code) pertaining to collection of dues. Banks are advised to strictly adhere to the guidelines / code mentioned above during the loan recovery process.
+
+<u>Training for Recovery Agents</u>
+
+(x) In terms of Para 5.7.1 of our <u>Circular DBOD.NO.BP. 40/ 21.04.158/</u> <u>2006-07 dated November 3, 2006</u> on guidelines on managing risks and code of conduct in outsourcing of financial services by banks, banks were advised that they should ensure that, among others, the recovery agents are properly trained to handle with care and sensitivity, their responsibilities, in particular aspects like hours of calling, privacy of customer information etc.
+# Withdrawn
+
+(xi) Reserve Bank has requested the Indian Banks’ Association to formulate, in consultation with Indian Institute of Banking and Finance (IIBF), a certificate course for Direct Recovery Agents with minimum 100 hours of training. Once the above course is introduced by IIBF, banks should ensure that over a period of one year all their Recovery Agents undergo the above training and obtain the certificate from the above institute. Further, the service providers engaged by banks should also employ only such personnel who have undergone the above training and obtained the certificate from the IIBF. Keeping in view the fact that a large number of agents throughout the country may have to be trained, other institutes/ bank’s own training colleges may provide the training to the recovery agents by having a tie-up arrangement with Indian Institute of Banking and Finance so that there is uniformity in the standards of training. However, every agent will have to pass the examination conducted by IIBF all over India.
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 71 -->
+
+<u>Taking possession of property mortgaged / hypothecated to banks</u> (xii) In a recent case which came up before the Honourable Supreme Court, the Honourable Court observed that we are governed by rule of law in the country and the recovery of loans or seizure of vehicles could be done only through legal means. In this connection it may be mentioned that the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) and the Security Interest (Enforcement) Rules, 2002 framed thereunder have laid down well defined procedures not only for enforcing security interest but also for auctioning the movable and immovable property after enforcing the security interest. It is, therefore, desirable that banks rely only on legal remedies available under the relevant statutes while enforcing security interest without intervention of the Courts. (xiii) Where banks have incorporated a re-possession clause in the contract with the borrower and rely on such re-possession clause for enforcing their rights, they should ensure that the re-possession clause is legally valid, complies with the provisions of the Indian Contract Act in letter and spirit, and ensure that such repossession clause is clearly brought to the notice of the borrower at the time of execution of the contract. The terms and conditions of the contract should be strictly in terms of the Recovery Policy and should
+
+# Withdrawn
+
+contain provisions regarding (a) notice period before taking possession (b) circumstances under which the notice period can be waived (c) the procedure for taking possession of the security (d) a provision regarding final chance to be given to the borrower for repayment of loan before the sale / auction of the property (e) the procedure for giving repossession to the borrower and (f) the procedure for sale / auction of the property.
+
+<u>Use of forum of Lok Adalats</u> (xiv) The Honourable Supreme Court also observed that loans, personal loans, credit card loans and housing loans with less than Rupees ten lakh can be referred to Lok Adalats. In this connection, banks' attention is invited to Circular DBOD.No.Leg.BC.21/09.06.002/ 2004-05 dated August 3, 2004 wherein they were advised to use the forum of Lok Adalats organized by Civil Courts for recovery of loans. Banks are encouraged to use the forum of Lok
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 72 -->
+
+Adalats for recovery of personal loans, credit card loans or housing loans with less than Rupees ten lakh as suggested by the Honourable Supreme Court.
+
+<u>Utilisation of credit counsellors</u> (xv) Banks are encouraged to have in place an appropriate mechanism to utilise the services of the credit counsellors for providing suitable counselling to the borrowers where it becomes aware that the case of a particular borrower deserves sympathetic consideration.
+
+2.6.3 <u>Complaints against the bank / its recovery agents</u> Banks, as principals, are responsible for the actions of their agents. Hence, they should ensure that their agents engaged for recovery of their dues should strictly adhere to the above guidelines and instructions, including the BCSBI Code, while engaged in the process of recovery of dues.
+2.6.4 Complaints received by Reserve Bank regarding violation of the above guidelines and adoption of abusive practices followed by banks’ recovery agents would be viewed seriously. Reserve Bank may consider imposing a ban on a bank from engaging recovery agents in a particular area, either jurisdictional or functional, for a limited period. In case of persistent breach of above guidelines, Reserve Bank may consider extending the period of ban or
+# Withdrawn
+
+the area of ban. Similar supervisory action could be attracted when the High Courts or the Supreme Court pass strictures or impose penalties against any bank or its Directors/ Officers/ agents with regard to policy, practice and procedure related to the recovery process.
+
+2.6.5 It is expected that banks would, in the normal course ensure that their employees also adhere to the above guidelines during the loan recovery process.
+2.6.6 <u>Periodical Review</u> Banks engaging recovery agents are advised to undertake a periodical review of the mechanism to learn from experience, to effect improvements, and to bring to the notice of the Reserve Bank of India suggestions for improvement in the guidelines.
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 73 -->
+
+## <u>ANNEX 1</u>
+
+## List of banks nominated to import Gold
+
+**(paragraph 2.3.12.1)**
+
+|S. No.|Name of the Bank|
+|---|---|
+|1.|Axis Bank Limited|
+|2.|Bank of Baroda|
+|3.|Bank of India|
+|4.|Bank of Nova Scotia|
+|5.|Corporation Bank|
+|6.|Federal Bank Limited|
+|7.|HDFC Bank Limited|
+|8.|ICICI Bank Limited|
+|9.|Indian Overseas Bank|
+|10.|IndusInd Bank Limited|
+|11.|Karur Vysya Bank Limited|
+|12.|Kotak Mahindra Bank Limited|
+|13.|Oriental Bank of Commerce|
+|14.|Punjab National Bank|
+|15.|South Indian Bank Limited|
+|16.|State Bank of Hyderabad|
+|17.|State Bank of India|
+|18.|Union Bank of India|
+|19.|Yes Bank Limited|
+|20.|The Ratnakar Bank Limited|
+
+# Withdrawn
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 74 -->
+
+## <u>ANNEX2</u>
+
+## FAQs
+
+## <u>Issues and Clarifications with regard to Applicability of Section 20 of Banking Regulation Act, 1949</u>
+
+## (Paragraph 2.1.2.1)
+
+## <u>Query</u>
+
+Can a foreign bank sanction loan or advance to firms and companies in India when one of the Directors, whether a foreign or an Indian national, on the foreign bank's Board of Directors abroad has an interest in said firms or companies in India or are on the Board of such companies ? <u>Response</u> It is clarified that the sanction or grant of credit facilities to Companies in India by foreign banks having branches in India should be in compliance with the spirit of Section 20 of the Banking Regulation Act, 1949. Accordingly, a foreign bank branch in India should not lend to a firm / company in India, if a director in the foreign bank's Board abroad has (i) an interest in the firm / company or (ii) if the company is a subsidiary of any Indian / foreign parent in which the director is interested. It may be noted that as per Section 20 of the Banking Regulation Act, 1949, a director would be considered to have interest in a company if he is a director / managing agent / manager / employee or guarantor in the concerned company and would be considered to have interest in a firm if he is a partner / manager / employeeWithdrawn or guarantor in the concerned firm. <u>Query</u> To whom Sec 20 (1) (b) of the B. R. Act, 1949 will not apply? <u>Response</u> Section 20 (1) (b) of the B. R. Act, 1949 will not apply to
+
+a) subsidiary of the banking company, or
+b) a company registered under Section 8 of the Companies Act, 2013 or
+c) a Government company.
+## <u>Query</u>
+
+Whether the provisions of Section 20 is applicable to Subsidiary Companies / Holding Companies? <u>Response</u> In case a banking company is granting any loan or advance to a subsidiary of the holding company, the provisions of Section 20 would be attracted if any of the
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 75 -->
+
+directors of the banking company is a director of the holding company, irrespective of whether any of the directors of the banking company is a director of the subsidiary or not. <u>Query</u> Whether the provisions of Section 20 would apply to advances granted / Commitments made prior to appointment of the common director? <u>Response</u> The provisions of Section 20(1)(b)(iii) of the B R Act, 1949 are not attracted in case of advances granted or commitment made by the bank to a company prior to appointment of the Director of the company on the Board of the bank. <u>Query</u> Whether the provisions of the Section 20 would apply if the loan is renewed / loan limits have been enhanced after the Director of the Company is taken on the Board of the bank? <u>Response</u> The bank is precluded from renewing the loan / limit after its expiry or enhancing the limit that may have been sanctioned prior to the date of company's Director becoming a Director of the bank as renewal / enhancement / change in terms would mean entering into fresh commitment by the bank. Alternatively, the director has to relinquish the directorship of either the bank or the company.
+
+# Withdrawn
+
+## <u>Query</u>
+
+Whether Section 20 would apply to Nominee Director? <u>Response</u> Section 20 does not make any distinction between the directors on the basis of the interest they represent. Therefore, the prohibitions stipulated under Section 20 are applicable to nominee directors also. <u>Query</u> Whether Withdrawal against uncleared effects would attract Section 20? <u>Response</u> Purchase of cheques is specifically exempted from prohibitory provisions of section
+
+20. However, withdrawal against uncleared effects (cheques presented for clearing) amounts to grant of advance and therefore will attract provisions of Section 20. <u>Query</u> Whether Section 20 applies to derivative transactions?
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 76 -->
+
+## <u>Response</u>
+
+Derivative transactions are off balance sheet items and are treated on similar lines with non-fund based transactions and are out of purview of Section 20 provided it is ensured by banks that the transactions are genuine hedge transactions arising out of normal business requirements (not speculative ones) and no liability devolves on banks. The bank has to satisfy about the genuineness of the underlying exposure of the concerns. Banks also have to adhere to the instructions contained in Paragraph
+
+1.2.7 of Master Circular DBOD.Dir.BC.20/13.03.00/2002-03 dated 30th July, 2004 and guidelines on 'Measurement of credit exposure of Derivative products contained in Circular DBOD.BP.BC.48/21.03.054/2002-03 dated 13th December, 2002. <u>Query</u> Whether Section 20 will apply to priority sector lending? <u>Response</u> The priority Sector lending by itself is not given any exemption under Section 20. As such, provisions of Section 20 will also apply to priority Sector lending. <u>Query</u> Whether the provisions of Section 20 will be attracted if a trustee of a borrowing trust is on the Board of the lending bank? <u>Response</u> In case the trust is a public trust, the provisions of Section 20 are not attracted.
+# Withdrawn
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 77 -->
+
+## <u>Appendix</u>
+
+## List of Circulars consolidated in the Master Circular on Loans and Advances –
+
+## Statutory and Other Restrictions
+
+## Part A
+
+|Sl. No.|Circular No.|Date|Subject|
+|---|---|---|---|
+|1.|DBR.BP.BC.No.98/08.12.014/20 14-15|01.06.2015|Issue of Long Term Bonds by banks for Financing of Infrastructure and Affordable Housing – Cross Holding|
+|2.|AP (Dir Series) Circular No. 79|18.02.2015|Guidelines on Import of Gold by Nominated Banks / Agencies|
+|3.|DBR.BP.BC.No.50/08.12.04/201 4-15|27.11.2014|Issue of Long term Bonds by banks- Financing of Infrastructure and Affordable Housing|
+|4.|DBOD.No.BP.BC.35/21.04.048/2 014-15|01.09.2014|Timelines for credit decisions|
+|5.|DBOD.No.BP.BC.27/21.04.048/2 014-15|22.07.2014|Loan Against Gold Ornaments and Jewellery for Nan-agricultural end uses.|
+|6.|DBOD.BP.BC.No.25/08.12.04/20 14-15|15.07.2014|Issue of Long term Bonds by banks- Financing of Infrastructure and Affordable Housing|
+|7.|AP (DIR Series) Circular No. 133|Withdrawn 21.05.2014|Import of Gold by Nominated Banks/ Agencies/ Entities|
+|8.|DBOD. No. BP.BC.107/ 21.04.048/2013-14|22.04.2014|Fund/ Non-fund Based Credit Facilities to Overseas Joint Ventures/ Wholly Owned Subsidiaries/ Wholly owned Step-down Subsidiaries of Indian Companies|
+|9.|DBOD. No. IBD. BC. 104/ 23.67.001/ 2013-14|02.04.2014|Gold (Metal) Loans (GMLs)|
+|10.|DBOD.BP.BC. No. 86/ 21.01.023/ 2013-14|20.01.2014|Lending against Gold Jewellery|
+|11.|DBOD. BP. BC. No. 66/ 08.12.014/2013-14|25.11.2013|Financing of Infrastructure- Definition of ‘Infrastructure Lending’|
+|12.|DBOD.BP.BC.No.106/ 08.12.014/2012-13|28.06.2013|Financing of Infrastructure- Definition of Infrastructure Lending|
+|13.|DBOD.No.Dir.Bc.96/13.03.00/20 12-13|27.05.2013|Lending against Gold|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 78 -->
+
+|14.|DBOD.BP.BC.No.62/21.04.103/2 012-13|21.11.2012|Second Quarter Review of Monetary Policy 2012-13 Non-Performing Assets (NPAs) and Restructuring of Advances|
+|---|---|---|---|
+|15.|DBOD.BP.No.58/08.12.014/2012 -13|20.11.2012|Second Quarter Review of Monetary Policy 2012-13- Definition of ‘Infrastructure Lending’|
+|16.|DBOD.No.Dir.BC.57/13.03.00/20 12-13|19.11.2012|Bank Finance for Purchase of Gold|
+|17.|A.P. (DIR Series) Circular No. 44|12.10.2012|Loans to Non Residents/ third parties against security of NR(E)RA/ FCNR(B) deposits|
+|18.|DBOD.No.BP.BC.104/ 21.4.48/2011-12|10.05.2012|Transfer of Borrowal Accounts from one Bank to Another.|
+|19.|DBOD.No.BP.BC.79/21.01.001/2 011-12|03.02.2012|Grant of Loans and Advances and award of Contracts to Directors of Banks and their Relatives.|
+|20.|DBOD.Dir.BC.96/13.03.00/2010- 11|25.05.2011|Finance for and Loans / Advances against Indian Depository Receipts (IDRs)|
+|21.|Mail-Box Clarification|19.05.2011|Issue of Bank Guarantee (BG) /Letter of Credit(LC) by commercial banks to constituents of Co-operative banks|
+|22.|Mail-Box Clarification|05.04.2011 Withdrawn|Advance against specially minted gold coins|
+|23.|DBOD.No.CID.BC.64/20.16.042/ 2011-12|01.12.2010|Grant of CoR for commencing business of credit information- High Mark Credit Information Services Pvt. Ltd.|
+|24.|DBOD.No.BP.BC.42/21.04.141/2 010-11|27.09.2010|Bank Loans for Financing Promoters Contribution|
+|25.|DBOD.DIR.BC.88/13.3.00/2009- 10|09.04.2010|Guidelines on the Base Rate|
+|26.|Mail-Box Clarification|09.04.2010|Definition of Infrastructure Lending|
+|27.|DBOD.BP.BC.110/08.12.001/200 8-09|10.02.2009|Lending under Consortium Arrangement / Multiple Banking Arrangements|
+|28.|DBOD.BP.BC.94/08.12.001/2008 -09|08.12.2008|Lending under Consortium Arrangement / Multiple Banking Arrangements|
+|29.|DBOD.Leg.No.BC.86/09.07.005/ 2008-09|25.11.2008|Guidelines on fair Practices Code for Lenders- Disclosing of all information relating to|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 79 -->
+
+||||processing fees/ charges|
+|---|---|---|---|
+|30.|DBOD.Dir.BC.66/13.03.00/2008- 09|24.10.2008|7% Savings Bonds 2002, 6.5% Savings Bonds 2003 (Non-Taxable) & 8% Savings (Taxable) Bonds 2003 - Collateral Facility|
+|31.|DBOD.BP.BC.65/21.06.001/2008 -09|20.10.2008|Loans to Mutual Funds against and Buy-back of Certificates of Deposits (CDs)|
+|32.|DBOD.BP.BC.59/21.03.009/2008 -09|14.10.2008|Loans to Mutual Funds against and Buy Back of Certificates of Deposits (CDs)|
+|33.|DBOD.BP.BC.46/08.12.001/2008 -09|19.09.2008|Lending under Consortium Arrangement / Multiple Banking Arrangements|
+|34.|DBOD.BP.BC.30/08.12.14/2008- 09|06.08.2008|Infrastructure-Criteria for Financing|
+|35.|DBOD.No.Leg.BC.75/09.07.05/2 007-08|24.04.2008|Mid-Term Review of the Annual Policy for the Year 2007-08 - Recovery Agents Engaged by Banks|
+|36.|DBOD.BP.BC.55/21.04.117/2007 -08|30.11.2007|Guidelines on Settlement of Non Performing Assets-Obtaining Consent Decree from Court|
+|37.|DBOD.BP.48/21.04.048/2007-08|06.11.2007|Project Finance Portfolio of Banks|
+|38.|DBOD. IBD. BC.71/23.67.001/ 2006-07|03.04.2007 Withdrawn|Gold (Metal) Loan-Tenor of|
+|39.|DBOD. Dir BC.69/13.03.00/2006- 07|14.03.2007|Grant of Loans for Acquisition of Kisan Vikas Patras (KVPs)|
+|40.|DBOD.No.Leg.BC.65.09.07.005/ 2007-08|06.03.2007|Guidelines on Fair Practices Code for Lenders|
+|41.|DBOD.No.Leg.BC.28.09.07.005/ 2007-08|22.08.2007|Guidelines on Fair Practices Code for Lenders – Furnishing copy of Loan Agreement.|
+|42.|DBOD.No.Dir.BC.47.13.07.05/20 06-07|15.12.2006|Bank exposure to Capital market- rationalization of Norms.|
+|43.|DBOD.No.BP.40/21.04.158/2006 -07|03.11.2006|Outsourcing of financial services|
+|44.|DBOD. No.Leg. BC.81/09.11.013/2005-06|20.04.2006|Exemption from Applicability of Section 20 of the Banking Regulation Act, 1949 - Issue of Credit Cards to Directors of Banks|
+|45.|DBOD. No.BP. BC.65/08.12.01/2005-06|01.03.2006|Banks' Exposure to Real Estate Sector|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 80 -->
+
+|46.|DBOD.No.Dir.BC.51/13.07.05/20 05-06|27.12.2005|Guidelines for Bank finance to employees/employee trust for purchasing bank’s own shares|
+|---|---|---|---|
+|47.|DBOD.No.IBD.BC.663/23.67.001 /2005-06|02.11.2005|Advances against Gold Ornaments and Jewellery|
+|48.|DBOD. No.IBD. BC.33/23.67.001/2005-06|05.09.2005|Gold (Metal) Loan|
+|49.|DBOD No.Leg.BC.30/09.11.013 /2005-06|31.08.2005|Section 20 of the Banking Regulation Act, 1949 - Line of Credit / Overdraft Facility to Clearing Corporation of India Ltd. (CCIL)|
+|50.|DBOD.No.Leg. BC.98/09.11.013/2004-05|24.06.2005|Section 20 of the Banking Regulation Act, 1949 - Line of Credit / Overdraft Facility to National Securities Clearing Corporation Ltd. (NSCCL)|
+|51.|DBOD.Dir.No.BC.93/13.07.05/20 04-05|07.06.2005|Financing of Acquisition of Equity in Overseas Companies|
+|52.|Mail Box Clarification|10.02.2005|Classification of payment of additional interest on NRE/FCNR(B) deposits of bank’s staff members|
+|53.|DBOD.No.Dir.BC.90/13.07.05/20 04-05|24.12.2004|Bank finance to assist Employees to buy shares of their own companies.|
+|54.|Mail –Box Clarification|18.10.2004 Withdrawn|Issues and Clarifications with regard to Applicability of Section 20 of Banking Regulation Act, 1949|
+|55.|DBOD BP. BC.100/21.03. 054/2003-04|21.6.2004|Annual Policy Statement for the year 2004-05 - Prudential Credit Exposure Limits by Banks|
+|56.|DBOD BP.BC.97/21.04.141/03- 04|17.6.2004|Annual Policy Statement for the year 2004-05 - Prudential Guidelines on Unsecured Exposures|
+|57.|DBOD BP.BC.92/21.04.048/03- 04|16.6.2004|Annual Policy Statement for the year 2004-05 : Guidelines on Infrastructure Financing|
+|58.|IECD No.9/08/12.01/2003-04|11.3.2004|Master Circular-Lending to Non-Banking Financial Companies (NBFCs)|
+|59.|DBOD.No.Dir.BC.61/13.07.05/20 03-04|03.01.2004|Bank financing of Equities and Investments in Shares|
+|60.|DBOD BP.BC.34/21.04.0137/03-|15.10.2003|Guidelines for Bank Finance for PSU Disinvestments|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 81 -->
+
+||04|||
+|---|---|---|---|
+|61.|DBOD.No.Leg.BC.104/09.07.007 /2007-08|05.05.2003|Guidelines on Fair Practices Code for Lenders|
+|62.|IECD.No.17/08.12.01/2002-03|05.04.2003|Guarantees and Co- acceptances|
+|63.|DBOD.BP.BC.83/21.04.137/02- 03|21.03.2003|Guidelines for Bank Finance for PSU Disinvestments-Stipulation of Lock-in period for Shares|
+|64.|DBOD.BP.BC.67/21.04.048/02- 03|04.02.2003|Guidelines on Infrastructure Financing|
+|65.|DBOD.No.Dir.BC.62/13.07.09/20 02-03|24.01.2003|Discounting/Rediscounting of Bills by Banks|
+|66.|DBOD.BP.BC.17/21.04.137/02- 03|16.08.2002|Guidelines for Bank Finance for PSU Disinvestments of Government of India|
+|67.|IECD No.16/08.12.01/2001-02|20.02.2002|Financing of Infrastructure Projects|
+|68.|DBOD.BP.BC.119/21.04.137/200 0-2001|11.05.2001|Bank financing of equities and investments in shares- Revised Guidelines|
+|69.|DBOD.No.DIR.BC.72/13.03.00/2 000-2001|17.01.2001|Master Circular-Guarantees and Co-acceptances|
+|70.|IECD No.10/08.12.01/2000-2001|08.01.2001 Withdrawn|Master Circular-Lending to Non-Banking Financial Companies (NBFCs)|
+|71.|DBOD.BP.BC.51/21.04.137/2000 -2001|10.11.2000|Bank Financing of Equities and Investments in Shares|
+|72.|DBOD/FSC/BC.145/24.01.013- 2000|07.03.2000|Guidelines relating to Money Market Mutual Funds (MMMF)|
+|73.|DBOD.BP.BC.144/21.04.048/200 0|29.02.2000|Take-out Financing|
+|74.|DBOD.No.Dir.CS.BC.2/13.07.05/ 99-2000|16.08.99|Restriction on Credit to Companies for Buy-back of its Securities|
+|75.|IECD.No.29/08.12.01/98-99|25.05.99|Lending to Non-Banking Financial Companies (NBFCs)|
+|76.|IECD.No.26/08.12.01/98-99|23.04.99|Financing of Infrastructure Projects|
+|77.|DBOD.No.26/08.95.005/99|01.04.99|Section 20 of the Banking Regulation Act, 1949 - General Order|
+|78.|RPCD PLNFS BC.73/06.02.31/97-98|01.03.99|Loans and Advances to Small Scale Industries SSI|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 82 -->
+
+|79.|DBOD.No.BC.11/08.95.005/98- 99|15.02.99|Section 20 of the Banking Regulation Act, 1949 - Special Order/General Order|
+|---|---|---|---|
+|80.|DBOD.No.938/08.95.005/99|08.02.99|General Order|
+|81.|DBOD.No.Dir.BC.2/13.07.05-99|29.01.1999|Bridge Loans|
+|82.|DBOD.No.Dir.BC.107/13.07.05/9 8-99|11.11.98|Rediscounting of Bills by Banks|
+|83.|DBOD.No.415/08.95.005/98|29.09.98|General Order|
+|84.|DBOD.No.Dir.BC.90/13.07.05/98|28.08.98|Bank Finance Against Shares and Debentures-Master Circular|
+|85.|IECD/6/08.12.01/96-97|08.08.98|Working capital finance to Information Technology and Software Industry|
+|86.|IECD/12/08.12.01/96-97|21.10.97|Loan system for delivery of bank credit|
+|87.|DBOD.No.Dir.BC.138/13.07.05/9 7-98|21.10.1997|Bridge Loans|
+|88.|DBOD.No.BP.BC.102/21.01.001/ 97|05.09.97|Financial Assistance to Industries Producing/ Consuming Ozone Depleting Substances (ODS)|
+|89.|IECD/22/08.12.01/96-97|15.04.97|Loan system for delivery of bank credit|
+|90.|DBOD.No.733/09.11.013/97|14.02.97|Special Order|
+|91.|IECD.No.17/03.27.026/96-97|Withdrawn 06.12.96|Bank Finance for Purchase/ Lease of Existing Assets|
+|92.|DBOD.No.Dir.BC.53/13.01.04/96|15.04.1996|Advances against FDR issued by Other banks|
+|93.|DBOD.No.Dir.BC.45/13.01.04/96|08.04.96|Deposit Linked Advances|
+|94.|DBOD.No.BP.BC.23/21.01.001/9 6|01.03.96|Grant of Loans & Advances and Award of Contracts to Directors of Other Banks|
+|95.|IECD.No.37/08.12.01/94-95|23.02.95|Issue of Bank Guarantees in Favour of Financial Institutions|
+|96.|DBOD.No.Dir.BC.139/13.07.05/9 4|26.11.94|Advances Against Shares and Debentures|
+|97.|IECD.No.15/08.12.01/94-95|06.10.94|Financing of Projects Involving Creation/ Expansion/Modernisation of Infrastructural Facilities|
+|98.|DBOD.No.FSC.BC.28/24.01.001/ 94|09.03.94|Directors/Trustees of Subsidiaries/Mutual Funds of Banks-Borrowing Arrangements with Sponsor|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 83 -->
+
+||||Banks|
+|---|---|---|---|
+|99.|DBOD.No.GC.BC.25/C.408C(59) S-86|03.03.86|Grant of Loans & Advances and Award of Contracts to Directors of Banks and their Relatives|
+|100.|DBOD.No.Leg.BC.77/C.235C-85|05.07.85|Section 20 of the Banking Regulation Act, 1949|
+|101.|DBOD.No.GC.BC.21/C.408C(59) S-85|28.02.85|Advance to Officers and the Relatives of Senior Officers of Banks|
+|102.|DBOD.No.GC.BC.34/C.408C(59) S-84|12.04.84|Guidelines in regard to Grant of Loans & Advances and Award of Contracts to Directors of Banks and their Relatives|
+|103.|DBOD.No.App.BC.22/318(B)-84|16.03.84|Guidelines on the Role and Functions of Non-official Directors on the Boards of Private Sector Banks|
+|104.|ICD.No.CAD(PMS).48//C.446 (PMS) -83|14.01.83|Construction of Infrastructural Facilities|
+|105.|DBOD.No.Dir.BC.13/C.96-80|22.01.80|Advances Against Gold/Silver Bullion-Curbing of Speculative Tendencies|
+|106.|DBOD.No.Leg.BC.96/C.235C-78|25.07.78|Section 20 of the Banking Regulation Act, 1949 - General Order|
+|107.|DBOD.No.Leg.320/C.235C-78|25.07.78|General Order|
+|108.|DBOD.No.Leg.BC.95/C.124(P) - 78|Withdrawn 22.07.78|Advances Against Gold and Gold Ornaments|
+|109.|DBOD.No.Leg.BC.35/C.235-75|30.04.75|Section 20 of the Banking Regulation Act, 1949 - General Order|
+|110.|DBOD.No.Leg.195/C.235-75|29.04.75|General Order|
+|111.|DBOD.No.Leg.BC.108/C.235C- 74|24.10.74|Section 20 of the Banking Regulation Act, 1949 - General Order|
+|112.|DBOD.No.Leg.417/C.235C-74|24.10.74|General Order|
+|113.|DBOD.No.Sch.1140/C.96-69|12.07.69|Advances Against Silver|
+|114.|DBOD.No.Leg.39/C.233-69|01.02.69|The Banking Regulation Act, 1949, as amended by the Banking Laws (Amended) Act, 1968|
+|115.|DBOD.No.Leg.33/C.233-69|01.02.69|General Order|
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
+
+<!-- PAGE 84 -->
+
+## Part B
+
+## List of Circulars on Selective Credit Controls consolidated by the Master
+
+## Circular
+
+|S.No.|Circular No.|Date|Subject|
+|---|---|---|---|
+|1.|IECD.No.11/03.27.04/96-97|22.10.96|Bank Credit to Sugar Industry-Valuation of Stocks|
+|2.|DBOD.No.Dir.BC.139/13.07.05/94|26.11.94|Advances Against Shares and Debentures|
+|3.|DBOD.No.Dir.BC.115/13:07:01/ 94|17.10.94|Interest Rates on Advances|
+|4.|DBOD.No.Dir.BC.114/13:07:01/ 94|17.10.94|Interest Rates on Advances|
+|5.|DBOD.No.Dir.BC.7/C.218(J)-84|30.01.84|Advances against Sugar- Valuation of Sugar Stock|
+
+# Withdrawn
+
+DBR– MC on Loans & Advances – Statutory & Other Restrictions - 2015
