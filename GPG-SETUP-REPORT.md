@@ -3,11 +3,12 @@
 Repository: `imsovikde/rbi-regulatory-archive-1991-2026`
 Owner: Souvik Dey (`imsovikde`)
 Report date: 2026-11-13
+Last verified: 2026-11-13 (Actions run `43377069291`, commit `e053334`)
 Machine: Windows 11, Git for Windows 2.55.0.windows.5
 
 This report is written for human maintainers and for AI agents working in this
-repository. It records what is verified, what is still pending, and how to
-finish or revoke the setup.
+repository. It records what was verified, how it was proven, and how to rotate
+or revoke the setup.
 
 **No private key, passphrase, or access token appears in this file, and none
 may ever be added to this repository.**
@@ -25,13 +26,12 @@ may ever be added to this repository.**
 | Public key on GitHub | PASS | Key added on the account; key ID confirmed on `settings/keys` |
 | Commit Verified on GitHub | PASS | API: `verified: true`, `reason: valid` |
 | Actions workflow committed | PASS | `.github/workflows/archive-update.yml`, state `active` |
-| Actions secrets created | **PENDING** | `GET /actions/secrets` → `total_count: 0` |
-| Actions-signed commit proven | **PENDING** | No workflow run has executed yet |
+| Actions secrets created | PASS | `GH_PAT`, `GPG_PASSPHRASE`, `GPG_PRIVATE_KEY` present (3/3) |
+| Actions-signed commit proven | PASS | Run `43377069291` green; commit `e053334` → `verified: true`, `reason: valid` |
 
-Local and manual signing are fully operational. Actions signing is fully
-configured in code but **cannot run until the three repository secrets exist**
-and has therefore **not yet been proven**. Do not describe Actions signing as
-active until section 7 has been completed and verified.
+All gates pass as of 2026-11-13. Local commits are signed with the primary key;
+Actions commits are signed with the signing subkey (see section 4.1). Both
+chain to the same primary fingerprint and both verify on GitHub.
 
 ---
 
@@ -110,6 +110,26 @@ A second signed commit hardened the workflow's push target:
 - Message: `Harden workflow push target for detached HEAD`
 - GitHub API verification: `verified: true`, `reason: valid`
 
+### 4.1 Actions-signed commit (end-to-end proof)
+
+Workflow run: `43377069291` (`workflow_dispatch`, conclusion `success`, all
+steps green).
+
+- SHA: `e0533340ba0befea404d7b3bc595c2395756dd79`
+- Message: `chore: archive update 2026-11-13`
+- URL: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/commit/e0533340ba0befea404d7b3bc595c2395756dd79
+- Author: `Souvik Dey <imsovikde@gmail.com>`
+- Committer account: `imsovikde`
+- GitHub API: `verified: true`, `reason: valid`, `verified_at`
+  `2026-11-13T06:12:31Z`
+- Runner log: `Signing key fingerprint: 6AD3CFAE64F0C29C79EB4094E3A0ABB6FBEC5840`
+
+**Subkey detail:** the Actions signature names the signing subkey
+`F9BF935234936DB36BCA5BAF72BA468A855F34E2` (`ssb`, RSA 4096, expires
+2028-11-12). Local commits name the primary key because `user.signingkey` ends
+with `!`. Both are the same key pair, both produce `Good signature`, and GitHub
+verifies both. Do not treat the subkey ID as a different identity.
+
 ---
 
 ## 5. GitHub account configuration
@@ -172,13 +192,17 @@ the signing and commit steps should stay as they are.
 | `GPG_PASSPHRASE` | Passphrase protecting that key |
 | `GH_PAT` | Fine-grained PAT used by `actions/checkout` to push |
 
-Current state: **none of the three exist yet.** `gh api
+Current state: **all three exist.** `gh api
 repos/imsovikde/rbi-regulatory-archive-1991-2026/actions/secrets` returns
-`total_count: 0`.
+`total_count: 3` with names `GH_PAT`, `GPG_PASSPHRASE`, `GPG_PRIVATE_KEY`.
+Values are write-only and were never recorded here.
 
 ---
 
-## 7. Remaining work — exact steps
+## 7. Actions enablement — completed steps (kept for rotation)
+
+These steps were completed on 2026-11-13 and are retained so the secrets can be
+rotated later without rediscovering the procedure.
 
 ### 7.1 Create `GPG_PRIVATE_KEY`
 
@@ -209,7 +233,7 @@ Fine-grained token at https://github.com/settings/personal-access-tokens/new:
   starts modifying files under `.github/workflows/`.
 - Generate, copy once, paste as secret `GH_PAT`.
 
-### 7.4 Prove the Actions path
+### 7.4 Prove the Actions path (completed — run `43377069291`)
 
 ```bash
 gh workflow run archive-update.yml \
@@ -304,11 +328,11 @@ GPG key.
 
 ## 11. Handoff summary
 
-- Manual commits from this machine are signed and Verified **now**.
-- The Actions workflow is committed and syntactically valid, and will produce
-  signed commits **once the three secrets exist**.
-- Three secrets remain to be created: `GPG_PRIVATE_KEY`, `GPG_PASSPHRASE`,
-  `GH_PAT`.
-- After creating them, run the workflow once and check
-  `commit.verification.verified` on the resulting commit. Only then is the
-  Actions path proven.
+- Manual commits from this machine are signed and Verified.
+- Actions commits are signed and Verified. Proof: run `43377069291`, commit
+  `e0533340ba0befea404d7b3bc595c2395756dd79` (`verified: true`,
+  `reason: valid`, author `Souvik Dey <imsovikde@gmail.com>`).
+- All three secrets exist: `GPG_PRIVATE_KEY`, `GPG_PASSPHRASE`, `GH_PAT`.
+- Nothing is pending. Routine maintenance only: rotate `GH_PAT` before its
+  90-day expiry, and renew the GPG key before 2028-11-12.
+- To re-verify at any time, run the read-only commands in section 8.
