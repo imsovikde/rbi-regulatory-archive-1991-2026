@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2005_DBOD_BP_BC_20_21_01_002_2005-06"
+title: "Prudential Norms on Capital Adequacy - Risk Weight on Commercial Real Estate Exposures"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/64979.PDF"
+pdf_sha256: "192ae0b18458889402d6aff05a9031302e2219131a14469b67a6f6fe03d75f8e"
+md_sha256: "03410d2a0833e6ae6f8ac74c3b180d422475d2fb90fb25cabe5968f69191a86f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:49:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-07-26_Circular_DBOD.BP.BC.20-21.01.002-2005-06_Prudential%20Norms%20on%20Capital%20Adequacy%20-%20Risk%20Weight%20on%20Commercial%20Real%20Estate%20Exposures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Capital Adequacy - Risk Weight on Commercial Real Estate Exposures
+
+<!-- PAGE 1 -->
+
+## RBI No. 2005-06/ 78
+
+DBOD. BP.BC. 20 / 21.01.002/ 2005-06 July 26, 2005
+
+## All Commercial Banks
+
+Dear Sir,
+
+<u>Prudential norms on capital adequacy – Risk weight on commercial real</u> <u>estate exposures</u>
+
+Please refer to our circular No. DBDO.BP.BC.61/21.01.002/2004-05 dated December 23, 2004 in terms of which the risk weights for banks’ exposure on (i) housing loans, which are fully secured by mortgage of residential properties, extended to individuals by banks and (ii) investments in Mortgage Backed Securities (MBS) of Housing Finance Companies (HFCs), recognized and supervised by NHB were increased from 50 per cent to 75 per cent for capital adequacy purposes. The risk weights for commercial real estate exposure were kept unchanged at 100 percent.
+
+2. It has now been decided to increase the risk weight on banks’ exposure to the commercial real estate. Commercial real estate exposure is defined as under, as indicated in our circular RBI/2004-05/ 503 (DBS.CO.PP.BC.21/ 11.01.005/ 2004-
+05) dated June 29, 2005:
+## <u>Commercial Real Estate Exposure – Definition</u>
+
+a) Fund based and non-fund based exposures secured by mortgages on commercial real estates (office buildings, retail space, multi-purposeWithdrawn commercial premises, multi-family residential buildings, multi-tenanted commercial premises, industrial or warehouse space, hotels, land acquisition, development and construction, etc.).
+b) Investments in Mortgage Backed Securities (MBS) and other securitised exposures backed by exposures as at (a) above.
+3. Accordingly, the risk weight on banks’ exposure to the commercial real estate is increased from 100 per cent to 125 per cent with immediate effect and would be applicable on an on-going basis.
+Yours faithfully,
+
+(Anand Sinha) Chief General Manager-in-Charge

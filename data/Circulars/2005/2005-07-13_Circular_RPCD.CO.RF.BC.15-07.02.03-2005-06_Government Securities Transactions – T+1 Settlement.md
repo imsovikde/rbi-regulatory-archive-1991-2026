@@ -1,0 +1,52 @@
+---
+doc_id: "Circulars_2005_RPCD_CO_RF_BC_15_07_02_03_2005-06"
+title: "Government Securities Transactions – T+1 Settlement"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/64674.PDF"
+pdf_sha256: "76d52ac528fccc1b8cc504b29042fd763325e42689dfc9522ed4b673ed90d344"
+md_sha256: "6c1f227a186ef49625f8eaac26254e7df1d03735966f8f43072e4abd3bc759ca"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:49:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-07-13_Circular_RPCD.CO.RF.BC.15-07.02.03-2005-06_Government%20Securities%20Transactions%20%E2%80%93%20T%2B1%20Settlement.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Government Securities Transactions – T+1 Settlement
+
+<!-- PAGE 1 -->
+
+## RBI/2005-06/56 RPCD.CO.RF.BC.15/07.02.03/2005-06
+
+## July 13, 2005
+
+All State and District Central Co-operative Banks
+
+## Dear Sir/Madam
+
+## <u>Government Securities Transactions – T+1 Settlement</u>
+
+In the Annual Policy Statement for the Year 2005-06, announced on April 28, 2005 (<u>extract of para 74 enclosed</u>), it was proposed that the settlement system for transactions in government securities would be standardised to T+1 basis.
+
+2. Accordingly, a standardised settlement on T+1 basis of all outright secondary market transactions in government securities has been made operational from May 24, 2005.
+3. In the case of repo transactions in government securities, however, market participants will have the choice of settling the first leg on either T+0 basis or T+1 basis, as per their requirements.
+# Withdrawn
+
+4. Please acknowledge receipt to our concerned Regional Office.
+Yours faithfully,
+
+## (C.S.Murthy)
+
+## Chief General Manager In-Charge
+
+<!-- PAGE 2 -->
+
+## <u>Extract of Annual Policy Statement for the year 2005-06</u>
+
+**74.** In terms of the stipulation of FRBM Act, RBI will not be participating in primary issuance of government securities with effect from April 1, 2006. In this context, the mid-term Review of October 2004 emphasised that open market operations (OMO) would become a more active policy instrument necessitating review of processes and technological infrastructure consistent with market advancement. In order to address these emerging needs and equip RBI as well as the market participants appropriately, a Technical Group on Central Government Securities Market was constituted. Earlier, another Group (Chairman: Dr.R.H. Patil) had examined the role of primary dealers (PDs) in the government securities market. The Reports were discussed in TAC and certain recommendations have been accepted for implementation. Accordingly, the following measures are proposed: The number of actively traded securities need to be enlarged to enhance liquidity and improve pricing in the market. It is proposed to consolidate debt and build up large liquid securities in consultation with the Government while continuing the programme of reissuances. Post-FRBM, RBI will reorient government debt management operations while simultaneously strengthening monetary operations. This will entail functional separation between debt management and monetary operations within RBI. For this purpose, RBI will have discussions with market players on the modalities and procedures of market operations. The settlement system for transactions in government securities will be standardised to T+1 basis.
+# Withdrawn
+
+The Reserve Bank would continue to resort to multiple and uniform price methods flexibly in the auction of government securities. Permitted structures of PD business will be expanded to include banks which fulfil certain minimum criteria subject to safeguards and in consultation with banks, PDs and the Government.
