@@ -1,0 +1,48 @@
+---
+doc_id: "Circulars_2014_UBD_BPD_PCB_Cir_No_26_14_01_062_2014-15"
+title: "Names as Appearing in the Certificate of Registration and the Licence - Use of - Primary (Urban) Co-operative Banks (UCBs)"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NACRL3012014.PDF"
+pdf_sha256: "681d852f59a2ff9690e72bc130e5953833eab47b4e15786af19a0942c4adb9ca"
+md_sha256: "be37e8e44205668295dcaa99bf10f58393ccc1e2a6763bad25a6c838129f0b66"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:21:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-10-30_Circular_UBD.BPD.%28PCB%29.Cir.No.26-14.01.062-2014-15_Names%20as%20Appearing%20in%20the%20Certificate%20of%20Registration%20and%20the%20Licence%20-%20Use%20of%20-%20Primary%20%28Urban%29%20Co-operative%20Banks%20%28UCBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Names as Appearing in the Certificate of Registration and the Licence - Use of - Primary (Urban) Co-operative Banks (UCBs)
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2014-15/286 UBD.BPD (PCB).Cir.No.26/14.01.062/2014-15 October 30, 2014
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks Madam/Dear Sir,
+
+## Names as Appearing in the Certificate of Registration and the Licence -
+
+## <u>Use of-Primary (Urban) Co-operative Banks (UCBs)</u>
+
+Please refer to our circular UBD.No.BR/11/16.51.00/98-99 dated December 11, 1998 and subsequent <u>circulars UBD.CO.BR.No.538/16.51.00/2000-01 dated May 21, 2001</u> and <u>UBD(PCB).Cir.34/16.51.00/2004-05 dated January 10, 2005</u> on the above subject advising UCBs to display only their full name in the form in which it appears in the Certificate of Registration issued by the Registrar of Co-operative Societies (RCS) and the licence granted by Reserve Bank of India. The above instructions were issued under Section 35 A of the Banking Regulation Act,1949(AACS).
+
+2. Pursuant to the deliberations in the Standing Advisory Committee meeting held in February 2006, Reserve Bank of India (RBI) decided to allow UCBs to use Withdrawn abbreviations/abridged names/logo etc., as part of their brand building effort so long as the full name as appearing in the banking licence is also shown along with such abbreviated/abridged names in all publicity material/stationery. However, it has come to the notice of RBI that some UCBs are not following this principle strictly by either not ensuring that their full name appears alongside their abridged/abbreviated name or using too small fonts for their full name which renders it unreadable. With a view to ensuring that the efforts towards brand building do not compromise with the larger issue of proper disclosure to the public, UCBs are advised to ensure that wherever abbreviated/abridged version of their name is used for Logo/brand building, the full name of the bank as appearing in the Certificate of Registration and the licence granted by RBI should also be displayed शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत
+फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बक ����� म पऽाचार का ःवागत करता है —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी यगत|जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा जाता|है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव भी|नहं करता|है। ऐसे ूःताव|का कसी भी|ूकार से जवाब|मत द�जए।||
+
+<!-- PAGE 2 -->
+
+prominently. Besides, the font size used for the full name shall not be smaller than the one used for their abbreviated name/abridged name/Logo.
+
+3. These instructions are issued under Section 35A of the Banking Regulation Act, 1949 (AACS) and any contravention of or non-compliance to the same will attract penalties under the relevant provisions of the Act.
+## Yours faithfully
+
+(A.K.Bera) Principal Chief General Manager
+
+# Withdrawn
