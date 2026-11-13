@@ -1,0 +1,653 @@
+---
+doc_id: "Notifications_2014_1397"
+title: "Master Circular on Money Transfer Service Scheme"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/13MTSS010714FL.pdf"
+pdf_sha256: "5d0debad2d1bde52b0f12b50c7b22eead4fd4db94e674fcb5ead270a57c6bb3a"
+md_sha256: "1ea4e51c017c2098af8eb4b36aff38fe7eed40bd52d1f03e3a5eb4cb17dfeeb9"
+total_pages: 44
+native_pages: 44
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:44:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-07-01_Notification_1397_Master%20Circular%20on%20Money%20Transfer%20Service%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Money Transfer Service Scheme
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/13 Master Circular No.1/2014-15
+
+## July 1, 2014
+
+## (As updated on January 28, 2015)
+
+To All Authorised Persons, who are Indian Agents under the Money Transfer Service Scheme Madam / Sir, **Master Circular on Money Transfer Service Scheme** Money Transfer Service Scheme (MTSS) is a quick and easy way of transferring personal remittances from abroad to beneficiaries in India. Only inward personal remittances into India such as remittances towards family maintenance and remittances favouring foreign tourists visiting India are permissible. No outward remittance from India is permissible under MTSS.
+
+2. This Master Circular is being updated from time to time as and when the fresh instructions are issued. The date up to which the Master Circular has been updated is suitably indicated.
+3. This Master Circular may be referred to for general guidance. The Authorised Persons and the Authorised Dealer Category – I banks may refer to respective circulars/ notifications for detailed information, if so needed.
+Yours faithfully,
+
+## (B. P. Kanungo)
+
+## Principal Chief General Manager
+
+<!-- PAGE 2 -->
+
+## <u>INDEX</u>
+
+PART-A............................................................................................................................................3
+SECTION I.......................................................................................................................................3
+Guidelines for permitting(authorising) Indian Agents under Money Transfer Service Scheme (MTSS) ……………………………………………………………………………..3
+SECTION II.....................................................................................................................................6
+Guidelines for Overseas Principals..............................................................................................6
+SECTION III.....................................................................................................................................8
+Guidelines for appointment of Sub-Agents by Indian Agents...................................................8
+SECTION IV..................................................................................................................................11
+Guidelines for renewal of permission (authorisation) of existing Indian Agents.....................11
+SECTION V...................................................................................................................................12
+Inspection of Indian Agents.......................................................................................................12
+SECTION VI..................................................................................................................................12
+KYC/ AML/ CFT Guidelines for Indian Agents......................................................................12
+SECTION VII ………………………………………………………………………………..13
+General Instructions…………………………………………………………………………....13
+PART-B..........................................................................................................................................14
+Reports / Statements....................................................................................................................14
+Annex-I: KYC/ AML/ CFT Guidelines for Indian Agents.......................................................14
+Annex-II: Format for Sub Agents of Indian Agents of MTSS……………………………40 Annex-III: Statement showing details of quantum of remittances received through Money
+Transfer Scheme during the quarter ended _________............................................................44
+Annex-IV: Statement of Collateral kept by Indian Agents ………………………………….45 Appendix ……………………………………………………………………………………...46
+
+<!-- PAGE 3 -->
+
+## PART-A
+
+## SECTION I
+
+## <u>Guidelines for permitting (authorising) Indian Agents under Money Transfer Service</u>
+
+## <u>Scheme (MTSS):</u>
+
+## 1. Introduction
+
+1.1 Money Transfer Service Scheme (MTSS) is a quick and easy way of transferring personal remittances from abroad to beneficiaries in India. Only inward personal remittances into India such as remittances towards family maintenance and remittances favouring foreign tourists visiting India are permissible. No outward remittance from India is permissible under MTSS. The system envisages a tie-up between reputed money transfer companies abroad known as Overseas Principals and agents in India known as Indian Agents who would disburse funds to beneficiaries in India at ongoing exchange rates. The Indian Agent is not allowed to remit any amount to the Overseas Principal. Under MTSS the remitters and the beneficiaries are individuals only.
+## Statutory Basis
+
+1.2 In terms of the powers granted under Section 10 (1) of the Foreign Exchange Management Act (FEMA), 1999, the Reserve Bank of India may accord necessary permission (authorization) to any person to act as an Indian Agent under the Money Transfer Service Scheme. No person can handle the business of cross-border money transfer to India in any capacity unless specifically permitted by the Reserve Bank.
+1.3 These guidelines lay down basic conditions for grant of permission (authorisation) to Indian Agents and renewal of existing MTSS permissions given to them. These guidelines also include guidelines for Overseas Principals and appointment of Sub-Agents by the Indian Agents. The guidelines are not exhaustive and other relevant information, security considerations, *etc.,* will be factored into the decision of permitting an entity. These guidelines will apply to all applications pending with the Reserve Bank for new arrangements, renewal of permissions given to Indian Agents, *etc*. Existing Indian Agents who do not meet the eligibility norms will have to meet the norms in a phased manner with the approval of the Reserve Bank or wind up the business of money transfer immediately.
+
+<!-- PAGE 4 -->
+
+## 2. Guidelines
+
+## Entry Norms
+
+(i) The applicant to become an Indian Agent should be an Authorised Dealer Category-I bank or an Authorised Dealer Category-II or a Full Fledged Money Changer (FFMC), as defined in the <u>A.P. (DIR Series) Circular No. 25 [A.P. (FL Series) Circular No. 02] dated March 6,</u> <u>2006</u>, or a Scheduled Commercial Bank or the Department of Posts. (ii) The applicant should have minimum Net Owned Funds of `50 lakh. **Note :- (i) Owned Funds :- (Paid-up Equity Capital + Free reserves + Credit balance in** **Profit & Loss A/c) minus (Accumulated balance of loss, Deferred revenue expenditure** **and Other intangible assets)** **(ii) Net Owned Funds :- Owned funds minus the amount of investments in shares of its** **subsidiaries, companies in the same group, all (other) non-banking financial companies** **as also the book value of debentures, bonds, outstanding loans and advances made to** **and deposits with its subsidiaries and companies in the same group in excess of 10 per** **cent of the Owned funds.**
+## 3. Procedure for making Applications to the Reserve Bank
+
+Application for necessary permission to act as an Indian Agent may be made to the respective Regional Office of the Foreign Exchange Department of the Reserve Bank 1 of India, under whose jurisdiction the registered office of the applicant falls and should be accompanied by the documents pertaining to its proposed Overseas Principal, as detailed in **Section II** below and the following documents:
+
+a. A declaration to the effect that no proceedings have been initiated by / are pending with the Directorate of Enforcement (DoE) / Directorate of Revenue Intelligence (DRI) or any other law enforcing authorities, against the applicant or its directors and that no criminal cases are initiated / pending against the applicant or its directors.
+b. A declaration to the effect that proper policy framework on KYC / AML / CFT, in accordance with the guidelines issued vide <u>A.P.(DIR Series) Circular No. 18[ A.P.(FL/RL</u> <u>Series) Circular No. 05] dated November 27, 2009</u>, as amended from time to time, will be put
+<u>A. P. (DIR Series) Circular No. 8 dated July 18, 2014</u>
+
+<!-- PAGE 5 -->
+
+in place on obtaining permission (authorization) of the Reserve Bank and before commencement of money transfer operations.
+
+c. Name and address of the Overseas Principal with whom the MTSS will be conducted.
+d. Full details of the operation of the scheme by the Overseas Principal.
+e. List of branches in India and their addresses where MTSS will be conducted by the applicant.
+f. Estimated volume of business per month/year under the scheme.
+g. Audited Balance Sheet and Profit and Loss Account for the last two financial years of the applicant, if available or a copy of the latest audited accounts, with a certificate from Statutory Auditors regarding the position of the Net Owned Funds as on the date of application.
+h. Memorandum and Articles of Association of the applicant where either a provision exists for taking up money transfer business or an appropriate amendment thereto has been filed with the Company Law Board.
+i. Confidential Report from at least two of the applicant's bankers in sealed cover.
+j. Details of sister/ associated concerns of the applicant functioning in the financial sector.
+k. A certified copy of the board resolution for undertaking money transfer business by the applicant.
+l. A letter from the proposed Overseas Principal, agreeing to enter into tie up with the applicant and also to provide necessary collateral.
+## 4. Collateral requirement
+
+Collateral equivalent to 3 days' average drawings or US $ 50,000, whichever is higher, may be kept by the Overseas Principal in favour of the Indian Agent with a designated bank in India. The minimum amount of US $ 50,000 shall be kept as a foreign currency deposit while the balance amount may be kept in the form of a Bank Guarantee. The adequacy of collateral should be reviewed by Indian Agents at quarterly intervals on the basis of remittances received during the past three months.
+
+## 5. Other conditions
+
+a. Only cross-border personal remittances, such as, remittances towards family maintenance and remittances favouring foreign tourists visiting India shall be allowed under this
+
+<!-- PAGE 6 -->
+
+arrangement. Donations/contributions to charitable institutions/trusts, trade related remittances, remittance towards purchase of property, investments or credit to NRE Accounts shall not be made through this arrangement.
+
+b. A cap of US $ 2500 has been placed on individual remittance under the scheme. Amounts up to `50,000/- may be paid in cash to a beneficiary in India. Any amount exceeding this limit shall be paid by means of account payee cheque/ demand draft/ payment order, *etc.*, or credited directly to the beneficiary's bank account only. However, in exceptional circumstances, where the beneficiary is a foreign tourist, higher amounts may be disbursed in cash. Full details of such transactions should be kept on record for scrutiny by the auditors/ inspectors.
+c. Only 30 remittances can be received by a single individual beneficiary under the scheme during a calendar year.
+## 6. Criteria for RBI decisions
+
+(i) The Indian Agents need to have strength and efficiency to function profitably in a highly competitive environment. As a number of Indian Agents are already functioning, permission (authorization) will be issued on a very selective basis to those who meet the above requirements, have necessary outreach and who are likely to conform to the best international and domestic standards of customer service and efficiency. (ii) The Indian Agent should commence its money transfer operations under the scheme within a period of **six months** from the date of issuance of permission (authorization) and inform the Regional Office concerned of the Foreign Exchange Department of the Reserve Bank.
+## SECTION II <u>Guidelines for Overseas Principals:</u>
+
+Indian Agents entering into arrangements with Money Transfer Operators overseas, known as Overseas Principals, may note that Overseas Principals with adequate volume of business, track record and outreach will only be considered under the scheme. Further, since the primary objective of permitting the business of money transfer business in the country is to facilitate cheaper and more efficient means of receipt of remittances, operators with limited
+
+<!-- PAGE 7 -->
+
+outreach in terms of branch network in the country and localized operations overseas will not be entertained.
+
+Applicant Indian Agents should submit the following documents / comply with the following requirements, in respect of their Overseas Principals:
+
+a. The Overseas Principal should obtain necessary authorisation from the Department of Payment and Settlement Systems, Reserve Bank of India under the provisions of the Payment and Settlement Systems Act (PSS Act), 2007 to commence/ operate a payment system. Prior to such authorization, the Reserve Bank will verify the background and antecedents of the Overseas Principal with the help of Govt. of India,
+b. The Overseas Principal should be a registered entity, licenced by the Central Bank / Government or financial regulatory authority of the country concerned for carrying on Money Transfer Activities. The country of registration of the Overseas Principal should be AML compliant.
+c. The minimum Net Worth of Overseas Principals should be at least US $ 1 million as per the latest audited balance sheet, which should be maintained at all times. However, the Reserve Bank may consider relaxing the minimum Net Worth criterion in case of Overseas Principals incorporated in FATF member countries and are supervised by the concerned Central Bank/ Government or financial regulatory authority.
+d. The Overseas Principal should be well established in the money transfer business with a track record of operations in well regulated markets.
+e. The arrangement with Overseas Principal should result in considerably increasing access to formal money transfer facilities at both ends.
+f. The Overseas Principal should be registered with the overseas trade / Industry bodies.
+g. The Overseas Principal should have a good rating from one of the international credit rating agencies.
+h. The Overseas Principal should submit confidential reports from at least two of its bankers.
+i. The Overseas Principal should submit a report certified by independent Chartered Accountants, regarding steps taken to comply with anti money laundering norms in the home/ host country.
+
+<!-- PAGE 8 -->
+
+j. The Overseas Principals will be fully responsible for the activities of their Agents and Sub Agents in India.
+k**.** Proper records of remitters as also beneficiaries pertaining to all pay-outs in India are to be maintained by the Overseas Principals. All records must be made accessible on demand to the Reserve Bank or other agencies of the Government of India, *viz.*, Ministry of Finance, Ministry of Home Affairs, FIU-IND, *etc.* Full details of the remitters and the beneficiaries should be provided by the Overseas Principals, if called for.
+## SECTION III <u>Guidelines for appointment of Sub Agents by Indian Agents</u>:
+
+1**. The Scheme** Under the Scheme, Indian Agents can enter into Sub Agency agreements with entities, fulfilling certain conditions, for the purpose of undertaking money transfer business.
+2**. Sub Agents** A Sub Agent should have a place of business, and whose bonafides are acceptable to the Indian Agent. Indian Agents are free to decide on the tenor of the arrangement as also the commission or fee through mutual agreement with the Sub Agent. The audit and on-site inspection of premises and records of the Sub Agents by the Indian Agent to be conducted at least once in a month and in a year respectively.
+3. **Procedure for Submission of information in respect of Sub Agents by Indian Agents**. Indian Agents should submit on a quarterly basis necessary information in the prescribed format (Annex-II) in soft copy form pertaining to their Sub Agents appointed during a quarter within 15 days of the end of the quarter, to the respective Regional Offices of the Foreign Exchange Department of the Reserve Bank under whose jurisdiction the registered office of the Indian Agent falls for onward submission to the Ministry of Home Affairs (MHA), Govt. of India (GoI) through the Ministry of Finance (MoF), Govt. of India (GoI). In case of any objection by the MHA, the Sub Agency arrangement concerned should be terminated immediately.
+
+<!-- PAGE 9 -->
+
+Indian Agents should also furnish certificates along with the information in Annex-II that the Sub Agents appointed by them comply with the eligibility norms and also they have done due diligence, wherever applicable, in respect of them.
+
+4. **Due Diligence of Sub Agents** The Indian Agents and the Overseas Principals should undertake the following minimum checks while conducting due diligence of the Sub Agents, other than ADs Cat-I, ADs Cat-II, Scheduled Commercial Banks, FFMCs and the Deptt. of Posts. existing business activities of the Sub Agent/ its position in area Shop & Establishment/ other applicable municipal certification in favour of the Sub Agent verification of physical existence of location of the Sub Agent conduct certificate of the Sub Agent from the local police authorities. (certified copy of Memorandum and Articles of Association and Certificate of Incorporation in respect of incorporated entities).
+**Note: Although obtaining of conduct certificate of the Sub Agent from the local police**
+ **authorities is non-mandatory for the Indian Agents, the Indian Agents must take due** **care to avoid appointing individuals/ entities as Sub Agents who have cases / proceedings** **initiated / pending against them by any law enforcing agencies.** declaration regarding past criminal cases, cases initiated/ pending against the Sub Agent and/or its directors/ partners by any law enforcing agency, if any PAN Card of the Sub Agents and its directors/ partners Photographs of the directors/ partners and the key persons of the Sub Agent The above checks should be done on a regular basis, at least once in a year. The Indian Agents should obtain from the Sub Agents proper documentary evidence confirming the location of the Sub Agents in addition to personal visits to the site. The Indian Agents should
+
+<!-- PAGE 10 -->
+
+discontinue agreements with Sub Agents who do not meet the criteria laid down above within three months from the date of this circular.
+
+5. **Selection of Centers** The Indian Agents are free to select centers for operationalising the Scheme. However, this may be advised to the Reserve Bank.
+6**. Training** The Indian Agents would be expected to impart training to the Sub Agents as regards operations and maintenance of records.
+7. **Reporting, Audit and Inspection** The Indian Agents would be expected to put in place adequate arrangements for reporting of transactions by the Sub Agents to the Indian Agents (on a regular basis) in a simple format to be prescribed by them, say at monthly intervals. Regular spot audits of all locations of Sub Agents, at least on a monthly basis, should be conducted by Indian Agents. Such audits should involve a dedicated team and **'mystery** **customer'(Individuals acting as potential customers to experience and measure the** **extent up to which people and process perform as they should)** concept should be used to test the compliance carried out by Sub Agents. As mentioned above, a system of inspection of the books of the Sub Agents should be put in place. The purpose of such inspection, which should be done at least once a year, would be to ensure that the money transfer business is being carried out by the Sub Agents in conformity with the terms of agreement/prevailing RBI guidelines and that necessary records are being maintained by the Sub Agents.
+**Note:- As of now, the Indian Agents are fully responsible for the activities of their Sub**
+ **Agents. While the Indian Agents will be encouraged to act as self-regulated entities, the** **onus of ensuring the conduct of activities of the Sub Agents in the prescribed manner** **will lie solely on the Indian Agents concerned and Reserve Bank of India can in no way** **be held responsible for the activities of the Sub Agents. Each Indian Agent would be** **required to conduct due diligence before appointing a Sub Agent and any irregularity** **observed could render the Indian Agent’s permission liable for cancellation.**
+## SECTION IV
+
+<!-- PAGE 11 -->
+
+## <u>Guidelines for renewal of permission(authorization) of existing Indian Agents</u>:
+
+1. Necessary permission to Indian Agents will be issued initially for a period of one year, which may be renewed for one to three years at a time on the basis of fulfilment of all conditions and other directions/ instructions issued by the Reserve Bank from time to time by Indian Agents.
+2. The applicant should be an Authorised Dealer Category-I bank or an Authorised Dealer Category-II or a Full Fledged Money Changer (FFMC), as defined in the A.P. (DIR Series) Circular No. 25 [A.P. (FL Series) Circular No. 02] dated March 6, 2006, or a Scheduled Commercial Bank or the Department of Posts.
+3. The Indian Agent should have minimum Net Owned Funds of `50 lakh.
+4. Application for renewal of permission should be submitted to the Regional Office concerned of the Foreign Exchange Department of the Reserve Bank under whose jurisdiction the registered office of the Indian Agent falls along-with the documents pertaining to the Overseas Principal as detailed in **Section II** above and the following documents:
+a. A declaration to the effect that no proceedings have been initiated by / are pending with the Directorate of Enforcement (DoE) / Directorate of Revenue Intelligence (DRI) or any other law enforcing authorities, against the Indian Agent or its directors and that no criminal cases are initiated / pending against the Indian Agent or its directors.
+b. A write up on the KYC / AML / CFT, risk management and internal control policy framework, put in place by the Indian Agent.
+c. Audited Balance Sheet and Profit and Loss Account for the last two financial years of the Indian Agent, if available or a copy of the latest audited accounts, with a certificate from statutory auditors regarding the position of the Net Owned Funds as on the date of application.
+d. Confidential Reports from at least two of the bankers of the Indian Agent in sealed cover.
+e. Details of sister/ associated concerns of the Indian Agent functioning in the financial sector.
+f. A certified copy of the board resolution for renewal of permission.
+
+<!-- PAGE 12 -->
+
+**Note :- An application for the renewal of permission under MTSS shall be made not** **later than one month, or such other period as the Reserve Bank may prescribe, before** **the expiry of the permission. Where an entity submits an application for the renewal of** **its MTSS permission, the permission shall continue in force until the date on which the** **permission is renewed or the application for renewal of permission is rejected, as the** **case may be. No application for renewal of MTSS permission shall be made after the** **expiry of the permission.**
+
+## SECTION V
+
+## <u>Inspection of Indian Agents</u>
+
+Inspections of the Indian Agents may be conducted by the Reserve Bank under the provisions of Section 12(1) of the FEMA, 1999. **SECTION VI** <u>KYC/ AML/ CFT Guidelines for the Indian Agents</u> Detailed instructions on Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating the Financing of Terrorism (CFT) for Indian Agents under MTSS in respect of cross-border inward remittance activities, in the context of the FATF Recommendations on Anti Money Laundering standards and on Combating the Financing of Terrorism have been prescribed **(Annex-I).** **SECTION VII** <u>General Instructions</u> All Overseas Principals are required to submit their annual audited balance sheet along with a certificate on Net Worth from their Statutory Auditors to the concerned Regional Office of the Foreign Exchange Department and the Department of Payment and Settlement Systems of the Reserve Bank. Similarly, all Indian Agents are required to submit their annual audited balance sheet along with a certificate from their Statutory Auditors on Net Owned Funds to the Regional offices concerned of the Foreign Exchange Department of the Reserve Bank. As the Overseas Principals and the Indian Agents are expected to maintain minimum Net Worth and Net Owned Funds respectively on an ongoing basis, they are required to bring it to the notice of the Reserve Bank immediately along with a detailed plan of restoring the Net Worth/ Net Owned Funds to the minimum required level, if there is any reduction in their Net Worth/ Net Owned Funds below the minimum level. **PART-B**
+
+<!-- PAGE 13 -->
+
+## <u>Reports / Statements</u>
+
+1. A quarterly statement of the quantum of remittances received, as per the enclosed format (**Annex-III**) should be furnished by the Indian Agents to the Regional Offices (ROs) concerned of the Foreign Exchange Department (FED) of the Reserve Bank, under whose jurisdiction their registered offices fall **within 15 days** from the close of the quarter to which it relates.
+2. List of their additional locations should be furnished by the Indian Agents to the ROs concerned of the FED of the Reserve Bank, under whose jurisdiction their registered offices fall, on **quarterly** basis **within 15 days** from the close of the quarter to which it relates.
+3. Indian Agents should forward the list of their Sub Agents, Overseas Principal-Indian Agent wise along with the addresses of all the locations of their Sub Agents in excel format in soft form by emailing the same. Indian Agents should e-mail in excel format in soft form and to the concerned FED Regional Office, full updated list (names and addresses of all the locations) of the Sub Agents, whenever they appoint/ remove any Sub Agent. Indian Agents should visit the RBI website and verify the list of Sub Agents on regular intervals and any aberration to the list observed may immediately be brought to the notice of the concerned FED ROs. Further, Indian Agents should confirm the veracity on quarterly basis of the list placed on RBI wesbite to their respective FED ROs either in form of a letter or by e-mail **within 15 days** of the end of a quarter.
+4. A **half-yearly** statement of the collateral held as at the end of June and December every year, as per the enclosed format (**Annex-IV**) should be furnished by the Indian Agents to the ROs concerned of the FED of the Reserve Bank, under whose jurisdiction their registered offices fall **within 15 days** from the close of the half-year to which it relates.
+**Note**<u>: All Authorised Persons, who are Indian agents under MTSS are required to make</u>
+ <u>all their correspondence with Reserve Bank including submission of prescribed</u> <u>statements to the Regional Office of the Foreign Exchange Department of the Reserve</u> <u>Bank, under whose jurisdiction their registered offices function.</u>
+
+<!-- PAGE 14 -->
+
+## Annex-I
+
+## <u>KYC/ AML/ CFT Guidelines for Indian Agents</u>
+
+## SECTION-I
+
+**Know Your Customer (KYC) norms/Anti-Money Laundering (AML)** **standards/Combating of Financing of Terrorism (CFT)/Obligation of Authorised** **Persons (Indian Agents) under Prevention of Money Laundering Act, (PMLA), 2002, as** **amended by Prevention of Money Laundering (Amendment) Act, 2009 - Cross Border** **Inward Remittance under Money Transfer Service Scheme**
+
+## 1. Introduction
+
+The offence of Money Laundering has been defined in Section 3 of the Prevention of Money Laundering Act, 2002 (PMLA) as "whosoever directly or indirectly attempts to indulge or knowingly assists or knowingly is a party or is actually involved in any process or activity connected with the proceeds of crime and projecting it as untainted property shall be guilty of offence of money laundering". Money Laundering can be called a process by which money or other assets obtained as proceeds of crime are exchanged for "clean money" or other assets with no obvious link to their criminal origins.
+
+## 2. The objective
+
+The objective of prescribing KYC/AML/CFT guidelines is to prevent the system of cross border inward money transfer into India from all over the world under the MTSS from being used, intentionally or unintentionally, by criminal elements for money laundering or terrorist financing activities. KYC procedures also enable Authorised Persons, who are Indian Agents under MTSS [referred as APs (Indian Agents) hereinafter] to know/understand their
+
+<!-- PAGE 15 -->
+
+customers and their financial dealings better, which in turn help them manage their risks prudently.
+
+## 3. Definition of Customer
+
+For the purpose of KYC policy, a ‘Customer’ is defined as : a person who receives occasional/ regular cross border inward remittances under MTSS; one on whose behalf a cross border inward remittance under MTSS is received (*i.e.,* the beneficial owner)
+
+[In view of Government of India Notification dated February 12, 2010 - Rule 9, sub-rule (1A) of PML Rules - 'Beneficial Owner' means the natural person who ultimately owns or controls a client and or the person on whose behalf a transaction is being conducted, and includes a person who exercises ultimate effective control over a juridical person].
+
+## 4. Guidelines
+
+## 4.1 General
+
+APs (Indian Agents) should keep in mind that the information collected from the customer while making payment of cross border inward remittances is to be treated as confidential and details thereof are not to be divulged for cross selling or any other like purposes. APs (Indian Agents) should, therefore, ensure that information sought from the customer is relevant to the perceived risk, is not intrusive, and is in conformity with the guidelines issued in this regard. Any other information from the customer, wherever necessary, should be sought separately with his/her consent.
+
+## 4.2 KYC Policy
+
+APs (Indian Agents) should frame their KYC policies incorporating the following four key elements:
+
+a. Customer Acceptance Policy;
+b. Customer Identification Procedures;
+
+<!-- PAGE 16 -->
+
+c. Monitoring of Transactions; and
+d. Risk Management.
+## 4.3 Customer Acceptance Policy (CAP)
+
+**a)** Every AP (Indian Agent) should develop a clear Customer Acceptance Policy laying down explicit criteria for acceptance of customers. The Customer Acceptance Policy must ensure that explicit guidelines are in place on the following aspects of customer relationship in the AP (Indian Agent).
+i. No remittance is received in anonymous or fictitious/ benami name(s). [APs (Indian Agents) should not allow any transaction in any anonymous or fictitious name (s) or on behalf of other persons whose identity has not been disclosed or cannot be verified in view of Government of India Notification dated June 16, 2010 Rule 9, sub-rule (1C)]. ii. Parameters of risk perception are clearly defined in terms of the nature of business activity, location of customer and his clients, mode of payments, volume of turnover, social and financial status, etc. to enable categorisation of customers into low, medium and high risk (APs may choose any suitable nomenclature, *viz*., level I, level II and level III). Customers requiring very high level of monitoring, *e.g.,* Politically Exposed Persons (PEPs) may, if considered necessary, be categorised even higher. iii. Documentation requirements and other information to be collected in respect of different categories of customers depending on perceived risk and keeping in mind the requirements of Prevention of Money Laundering Act, (PMLA), 2002, as amended by Prevention of Money Laundering (Amendment) Act, 2009, Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005, as amended from time to time, as well as instructions / guidelines issued by the Reserve Bank, from time to time.
+
+<!-- PAGE 17 -->
+
+iv. Not to make payment of any remittance where the AP (Indian Agent) is unable to apply appropriate customer due diligence measures, *i.e.,* AP (Indian Agent) is unable to verify the identity and /or obtain documents required as per the risk categorisation due to non- cooperation of the customer or non reliability of the data/information furnished to the AP (Indian Agent). It is, however, necessary to have suitable built in safeguards to avoid harassment of the customer. In the circumstances when an AP (Indian Agent) believes that it would no longer be satisfied that it knows the true identity of the customer, the AP (Indian Agent) should file an STR with FIU-IND.
+
+v. Circumstances, in which a customer is permitted to act on behalf of another person/entity, should be clearly spelt out, the beneficial owner should be identified and all reasonable steps should be taken to verify his identity.
+**b)** APs (Indian Agents) should prepare a profile for each new customer, where regular cross- border inward remittances are/ expected to be received, based on risk categorisation. The customer profile may contain information relating to customer’s identity, social / financial status, *etc.* The nature and extent of due diligence will depend on the risk perceived by the AP (Indian Agent). However, while preparing customer profile, APs (Indian Agents) should take care to seek only such information from the customer, which is relevant to the risk category and is not intrusive. The customer profile is a confidential document and details contained therein should not be divulged for cross selling or any other purposes.
+**c)** For the purpose of risk categorisation, individuals (other than High Net Worth) and entities whose identities and sources of wealth can be easily identified and transactions by whom by and large conform to the known profile, may be categorised as low risk. Customers that are likely to pose a higher than average risk should be categorised as medium or high risk depending on customer's background, nature and location of activity, country of origin, sources of funds and his client profile, *etc.* APs(Indian Agents) should apply enhanced due diligence measures based on the risk assessment, thereby requiring intensive ‘due diligence’ for higher risk customers, especially those for whom the sources of funds are not clear. Examples of customers requiring enhanced due diligence include (a) nonresident customers;
+(b) customers from countries that do not or insufficiently apply the FATF standards; (c) high
+
+<!-- PAGE 18 -->
+
+net worth individuals; (d) politically exposed persons (PEPs); (e) non-face to face customers; and (f) those with dubious reputation as per public information available, *etc.*
+
+d) It is important to bear in mind that the adoption of customer acceptance policy and its implementation should not become too restrictive and must not result in denial of cross border inward remittance facilities to general public.
+e) With a view to preventing the system of cross border inward money transfer into India from all over the world under the MTSS from being used, intentionally or unintentionally, by criminal elements for money laundering or terrorist financing activities, whenever there is suspicion of money laundering or terrorist financing or when other factors give rise to a belief that the customer does not, in fact, pose a low risk, APs (Indian Agents) should carry out full scale customer due diligence (CDD) before making payment of any remittance.
+## 4.4 Customer Identification Procedure (CIP)
+
+**a)** The policy approved by the Board of APs (Indian Agents) should clearly spell out the Customer Identification Procedure while making payment to a beneficiary or when the AP has a doubt about the authenticity/veracity or the adequacy of the previously obtained customer identification data. Customer identification means identifying the customer and verifying his/her identity by using reliable, independent source documents, data or information. APs (Indian Agents) need to obtain sufficient information necessary to establish, to their satisfaction, the identity of each new customer, whether regular or occasional. Being satisfied means that the AP must be able to satisfy the competent authorities that due diligence was observed based on the risk profile of the customer in compliance with the extant guidelines in place. Such risk based approach is considered necessary to avoid disproportionate cost to APs (Indian Agents) and a burdensome regime for the customers. The APs (Indian Agents) should obtain sufficient identification data to verify the identity of the customer and his address/location. For customers that are natural persons, the APs (Indian Agents) should obtain sufficient identification document /s to verify the identity of the customer and his address/location. For customers that are legal persons, the AP (Indian Agent) should (i) verify the legal status of the legal person through proper and relevant documents; (ii) verify that any person purporting to act on behalf of the legal person is so authorised and identify and verify the identity of that person; and (iii) understand the ownership and control structure of the
+
+<!-- PAGE 19 -->
+
+customer and determine who are the natural persons who ultimately control the legal person. Customer identification requirements in respect of a few typical cases, especially, legal persons requiring an extra element of caution are given in paragraph 4.5 below for guidance of APs (Indian Agents). APs (Indian Agents) may, however, frame their own internal guidelines based on their experience of dealing with such persons, their normal prudence and the legal requirements as per established practices. If the AP (Indian Agent) decides to undertake such transactions in terms of the Customer Acceptance Policy, the AP (Indian Agent) should take reasonable measures to identify the beneficial owner(s) and verify his/her/their identity in a manner so that it is satisfied that it knows who the beneficial owner(s) is/are [in view of Government of India Notification dated June 16, 2010 - Rule 9 sub-rule (1A) of PML Rules].
+
+***Note**: Rule 9(1A) of Prevention of Money Laundering Rules, 2005 requires that every AP*
+
+*(Indian Agent) under MTSS shall identify the beneficial owner and take all reasonable steps* *to verify his identity. The term "beneficial owner" has been defined as the natural person who* *ultimately owns or controls a client and/or the person on whose behalf the transaction is* *being conducted, and includes a person who exercises ultimate effective control over a* *juridical person. Government of India has since examined the issue and has specified the* *procedure for determination of Beneficial Ownership. The procedure as advised by the* *Government of India is as under:*
+
+*A. Where the client is a person other than an individual or trust, the AP (Indian Agents) shall* *identify the beneficial owners of the client and take reasonable measures to verify the identity* *of such persons, through the following information:*
+*(i) The identity of the natural person, who, whether acting alone or together, or through one* *or more juridical person, exercises control through ownership or who ultimately has a* *controlling ownership interest.* *Explanation: Controlling ownership interest means ownership of/entitlement to more than 25* *percent of shares or capital or profits of the juridical person, where the juridical person is a* *company; ownership of/entitlement to more than 15% of the capital or profits of the juridical* *person where the juridical person is a partnership; or, ownership of/entitlement to more than* *15% of the property or capital or profits of the juridical person where the juridical person is* *an unincorporated association or body of individuals.*
+
+<!-- PAGE 20 -->
+
+*(ii) In cases where there exists doubt under (i) as to whether the person with the controlling* *ownership interest is the beneficial owner or where no natural person exerts control through* *ownership interests, the identity of the natural person exercising control over the juridical* *person through other means.* *Explanation: Control through other means can be exercised through voting rights,* *agreement, arrangements, etc.*
+
+*(iii) Where no natural person is identified under (i) or (ii) above, the identity of the relevant* *natural person who holds the position of senior managing official.*
+
+*B. Where the client is a trust, the AP (Indian Agent) shall identify the beneficial owners of the* *client and take reasonable measures to verify the identity of such persons, through the identity* *of the settler of the trust, the trustee, the protector, the beneficiaries with 15% or more interest* *in the trust and any other natural person exercising ultimate effective control over the trust* *through a chain of control or ownership.*
+*C. Where the client or the owner of the controlling interest is a company listed on a stock* *exchange, or is a majority-owned subsidiary of such a company, it is not necessary to identify* *and verify the identity of any shareholder or beneficial owner of such companies.*
+**b)** Some close relatives, *e.g.,* wife, son, daughter and parents, *etc.,* who live with their husband, father / mother and son / daughter, as the case may be, may find it difficult to undertake transactions with APs (Indian Agents) as the utility bills required for address verification are not in their name. It is clarified, that in such cases, APs (Indian Agents) can obtain an identity document and a utility bill of the relative with whom the prospective customer is living along with a declaration from the relative that the said person (prospective customer) wanting to undertake a transaction is a relative and is staying with him/her. APs (Indian Agents) can use any supplementary evidence such as a letter received through post for further verification of the address. While issuing operational instructions to the branches on the subject, APs (Indian Agents) should keep in mind the spirit of instructions issued by the Reserve Bank and avoid undue hardships to individuals who are, otherwise, classified as low risk customers.
+
+<!-- PAGE 21 -->
+
+**c)** APs (Indian Agents) should introduce a system of periodical updation of customer identification data, if there is a continuing relationship.
+**d**) An indicative list of the type of documents / information that may be relied upon for customer identification is given in SECTION-II. It is clarified that permanent correct address, as referred to in SECTION-II means the address at which a person usually resides and can be taken as the address as mentioned in a utility bill or any other document accepted by the AP for verification of the address of the customer. When there are suspicions of money laundering or financing of the activities relating to terrorism or where there are doubts about the adequacy or veracity of previously obtained customer identification data, APs (Indian Agents) should review the due diligence measures including verifying again the identity of the client and obtaining information on the purpose and intended nature of the business relationship, as the case may be. [In view of Government of India Notification dated June 16, 2010- Rule 9 sub-rule (1D) of PML Rules].
+## e) Payment to Beneficiaries
+
+**i)** For payment to beneficiaries, the identification documents, as mentioned at SECTION-II, should be verified and a copy retained. The copy of identification documents obtained should contain current and legible photograph of beneficiaries. This shall continue for a period of next six months from March 12, 2013, subject to submission of a copy of the identifications documents during every payment. Further, in the event of a beneficiary being discovered to have received funds on the basis of a photo ID which did not sport his/ her photograph, action would also be initiated against the Agent/ Sub Agent. Thereafter, in addition to this, the identification requirements for cash payment to beneficiary shall also include biometric identification of the beneficiary. This stipulation will ultimately be linked to UID when it is fully implemented. **ii)** A cap of US $ 2500 has been placed on individual remittances under the scheme. Amounts up to `50,000 may be paid in cash. Any amount exceeding this limit shall be paid only by means of cheque/D.D. /P.O., *etc.*, or credited directly to the beneficiary's bank account. However, in exceptional circumstances, where the beneficiary is a foreign tourist, higher amounts may be disbursed in cash. Only 30 remittances can be received by a single individual during a calendar year.
+
+<!-- PAGE 22 -->
+
+**iii)** Foreign inward remittances received by the bank acting as Indian Agent under MTSS (termed as ‘Partner Bank’), may be credited through electronic mode, such as, NEFT,IMPS,etc., directly to the account of the beneficiary, held with a bank other than the Indian Agent Bank (termed as ‘Recipient Bank’), subject to the following conditions:
+
+A. The Recipient Bank will credit the amount transferred by the Partner bank only to KYC compliant bank accounts.
+B. In respect of the bank accounts which are not KYC compliant, the Recipient Bank shall carry out KYC/CDD of the recipient before the remittance to such account is credited or allowed to be withdrawn.
+C. The Partner Bank shall appropriately mark the direct-to-account remittances to indicate to the Recipient Bank that it is a foreign inward remittance.
+D. The Partner Bank shall ensure that accurate originator information and necessary beneficiary information is included in the electronic message while transferring the fund to the Recipient Bank. This information should be available in the remittance message throughout the payment chain i.e. the overseas principal, the Partner Bank and the Recipient Bank. The Partner Bank should add an appropriate alert in the electronic message indicating that this is a foreign inward remittance and should not be credited to KYC non-compliant account and NRE/NRO account.
+E. The identification and other documents of the recipient shall be maintained by the Recipient Bank as per the provisions of Prevention of Money Laundering (Maintenance of Records) Rules, 2005. All other requirements under KYC/AML/CFT guidelines issued by the Reserve Bank of India for MTSS from time to time shall be adhered to by the Partner Bank.
+F. The Recipient Bank may seek additional information from the Partner Bank and shall report suspicious transactions to the FIU-IND with details of the Partner Bank through which they received the remittances.
+3
+
+**f) Officially Valid Documents under Government of India notifications**
+i. As per the Government of India notification, the physical Aadhaar Card/ letter issued by the Unique Identification Authority of India (UIDAI) containing details of name, address and Aadhaar number can now be accepted as an ‘Officially Valid Document’. If the address provided by the customer is same as that on the Aadhaar letter, it may be accepted as a proof of both identity and address.
+<u>A.P.(DIR Series) Circular No.110 dated March 4, 2014</u>
+<u>A. P. (DIR Series) Circular No. 10 dated July 21, 2014</u>
+
+<!-- PAGE 23 -->
+
+ii. E-KYC service of UIDAI may be accepted as a valid process for KYC verification under the PML Rules. The information containing demographic details and photographs made available from UIDAI as a result of e-KYC process may be treated as an ‘Officially Valid Document’. However, the individual user has to authorize to UIDAI, by explicit consent, to release her/his identity/address through biometric authentication to the Indian Agents/ Sub- Agents. iii. Further, e-Aadhaar downloaded from UIDAI website may be accepted as an ‘Officially Valid Document’ subject to the following:
+
+A. If the prospective customer knows only his/her Aadhaar number, the Indian Agent may print the prospective customer’s e-Aadhaar letter directly from the UIDAI portal; or adopt e-KYC procedure as mentioned in the para ii above.
+B. If the prospective customer carries a copy of the e-Aadhaar downloaded elsewhere, the Indian Agent may print the prospective customer’s e- Aadhaar letter directly from the UIDAI portal; or adopt e-KYC procedure as mentioned in the para ii above; or confirm identity and address of the resident through simple authentication service of UIDAI.
+## 4.5 Customer Identification Requirements – Transactions by Politically Exposed Persons (PEPs) - Indicative Guidelines
+
+Politically exposed persons are individuals who are or have been entrusted with prominent public functions in a foreign country, *e.g.,* Heads of States or of Governments, senior politicians, senior government/judicial/military officers, senior executives of state-owned corporations, important political party officials, *etc.* APs (Indian Agents) should gather sufficient information on any person/customer of this category intending to undertake a transaction and check all the information available on the person in the public domain. APs (Indian Agents) should verify the identity of the person and seek information about the source /s of wealth and source /s of funds before accepting the PEP as a customer. The decision to undertake a transaction with a PEP should be taken at a senior level which should be clearly spelt out in the Customer Acceptance Policy. APs (Indian Agents) should also subject such transactions to enhanced monitoring on an ongoing basis. The above norms may also be applied to transactions with the family members or close relatives of PEPs. The above norms
+
+<!-- PAGE 24 -->
+
+may also be applied to customers who become PEPs subsequent to establishment of the business relationship. These instructions are also applicable to transactions where a PEP is the ultimate beneficial owner. Further, in regard to transactions in case of PEPs, it is reiterated that APs (Indian Agents) should have appropriate ongoing risk management procedures for identifying and applying enhanced CDD to PEPs, customers who are family members or close relatives of PEPs and transactions of which a PEP is the ultimate beneficial owner.
+
+## 4.6 Monitoring of Transactions
+
+Ongoing monitoring is an essential element of effective KYC procedures. APs (Indian Agents) can effectively control and reduce their risk only if they have an understanding of the normal and reasonable receipt of remittances of the beneficiary so that they have the means of identifying receipts that fall outside the regular pattern of activity. However, the extent of monitoring will depend on the risk sensitivity of the remittance. APs (Indian Agents) should pay special attention to all complex, unusually large receipts and all unusual patterns which have no apparent economic or visible lawful purpose. APs (Indian Agents) may prescribe threshold limits for a particular category of receipts and pay particular attention to the receipts which exceed these limits. High-risk receipts have to be subjected to intense monitoring.
+
+Every AP (Indian Agent) should set key indicators for such receipts, taking note of the background of the customer, such as the country of origin, sources of funds, the type of transactions involved and other risk factors. APs (Indian Agents) should put in place a system of periodical review of risk categorization of customers and the need for applying enhanced due diligence measures. Such review of risk categorisation of customers should be carried out periodically.
+
+APs (Indian Agents) should exercise ongoing due diligence with respect to the business relationship with every client and closely examine the transactions in order to ensure that they are consistent with their knowledge of the client, his business and risk profile and where necessary, the source of funds [In view of Government of India Notification dated June 16, 2010 -Rule 9, sub-rule (1B)]
+
+APs (Indian Agents) should examine the background and purpose of transactions with persons (including legal persons and other financial institutions) from jurisdictions included in the
+
+<!-- PAGE 25 -->
+
+FATF Statements and countries that do not or insufficiently apply the FATF Recommendations. Further, if the transactions have no apparent economic or visible lawful purpose, the background and purpose of such transactions should, as far as possible, be examined and written findings together with all the documents should be retained and made available to the Reserve Bank/ other relevant authorities, on request.
+
+## 4.7 Attempted transactions
+
+Where the AP (Indian Agent) is unable to apply appropriate KYC measures due to non- furnishing of information and /or non-cooperation by the customer, the AP should not undertake the transaction. Under these circumstances, APs should make a suspicious transactions report to FIU-IND in relation to the customer, even if the transaction is not put through.
+
+## 4.8 Risk Management
+
+**a)** The Board of Directors of the AP (Indian Agent) should ensure that an effective KYC programme is put in place by establishing appropriate procedures and ensuring effective implementation. It should cover proper management oversight, systems and controls, segregation of duties, training and other related matters. Responsibility should be explicitly allocated within the AP (Indian Agent) for ensuring that the APs’ policies and procedures are implemented effectively. APs (Indian Agents) should, in consultation with their Boards, devise procedures for creating risk profiles of their existing and new customers and apply various anti money laundering measures keeping in view the risks involved in a transaction.
+**b)** APs’ (Indian Agents) internal audit and compliance functions have an important role in evaluating and ensuring adherence to the KYC policies and procedures. As a general rule, the compliance function should provide an independent evaluation of the AP’s (Indian Agent’s) own policies and procedures, including legal and regulatory requirements. APs (Indian Agents) should ensure that their audit machinery is staffed adequately with individuals who are well- versed in such policies and procedures. The concurrent auditors should check all cross border inward remittance transactions under MTSS to verify that they have been undertaken in compliance with the anti-money laundering guidelines and have been reported whenever required to the concerned authorities. Compliance on the lapses, if any, recorded by the
+
+<!-- PAGE 26 -->
+
+concurrent auditors should be put up to the Board. A certificate from the Statutory Auditors on the compliance with KYC / AML / CFT guidelines should be obtained at the time of preparation of the Annual Report and kept on record.
+
+## 4.9 Introduction of New Technologies
+
+APs (Indian Agents) should pay special attention to any money laundering threats that may arise from new or developing technologies including transactions through internet that might favour anonymity and take measures, to prevent their use for money laundering purposes and financing of terrorism activities.
+
+## 4.10 Combating of Financing of Terrorism
+
+**a)** In terms of PML Rules, suspicious transaction should include *inter alia* transactions which give rise to a reasonable ground of suspicion that these may involve the proceeds of an offence mentioned in the Schedule to the PMLA, regardless of the value involved. APs (Indian Agents) should, therefore, develop suitable mechanism through appropriate policy framework for enhanced monitoring of transactions suspected of having terrorist links and swift identification of the transactions and making suitable reports to the FIU-IND on priority.
+**b)** APs (Indian Agents) are advised to take into account risks arising from the deficiencies in AML/CFT regime of certain jurisdictions, *viz.*, Iran, Uzbekistan, Pakistan, Turkmenistan, Sao Tome and Principe, Democratic People’s Republic of Korea (DPRK), Bolivia, Cuba, Ethiopia, Kenya, Myanmar, Sri Lanka, Syria, Turkey and Nigeria, as identified in FATF Statement (<u>www.fatf-gafi.org</u>) issued from time to time, while dealing with individuals from these jurisdictions. In addition to FATF Statements circulated by the Reserve Bank of India from time to time, (latest as on October 24, 2014, circulated vide the <u>A.P. (DIR Series) Circular No.67 dated</u>
+4 <u>January 28, 2015</u>), APs (Indian Agents) should also consider using publicly available information for identifying countries, which do not or insufficiently apply the FATF Recommendations. All APs (Indian Agents) are accordingly advised to take into account risks arising from the deficiencies in AML/CFT regime of these countries, while entering into business relationships and transactions with persons (including
+
+<u>A.P.(DIR Series) Circular No. 67 dated January 28, 2015</u>
+
+<!-- PAGE 27 -->
+
+legal persons and other financial institutions) from or in these countries/ jurisdictions and give special attention to these cases.
+
+## 4.11 Designated Director and Principal Officer
+
+a) Designated Director APs (Indian Agents) are required to nominate a Director on their Boards as “Designated Director”, as per the provisions of the Prevention of Money Laundering (Maintenance of Records) Rules, 2005 (Rules), to ensure overall compliance with the obligations under the Act and Rules. The name, designation and address of the Designated Director is to be
+5 communicated to the Director, Financial Intelligence Unit – India (FIU-IND).
+
+b) Principal Officer APs (Indian Agents) should appoint a senior management officer to be designated as Principal Officer. Principal Officer shall be located at the head/corporate office of the AP and shall be responsible for monitoring and reporting of all transactions and sharing of information as required under the law. The role and responsibilities of the Principal Officer should include overseeing and ensuring overall compliance with regulatory guidelines on KYC/ AML/ CFT issued from time to time and obligations under the Prevention of Money Laundering Act, 2002, as amended by Prevention of Money Laundering (Amendment) Act, 2009, rules and regulations made there under, as amended from time to time. The Principal Officer should also be responsible for developing appropriate compliance management arrangements across the full range of AML/CFT areas (e.g. CDD, record keeping, etc.). He will maintain close liaison with enforcement agencies, APs (Indian Agents) and any other institution which are involved in the fight against money laundering and combating financing of terrorism. To enable the Principal Officer to discharge his responsibilities, it is advised that the Principal Officer and other appropriate staff should have timely access to customer identification data and other CDD information, transaction records and other relevant information. Further, APs (Indian Agents) should ensure that the Principal Officer is able to act independently and report directly to the senior management or to the Board of Directors. The Principal Officer will be responsible for timely submission of CTR and STR to the FIU-IND.
+<u>A.P.(DIR Series) Circular No. 144 dated June 16, 2014</u>
+
+<!-- PAGE 28 -->
+
+**4.12 Maintenance of records of transactions/Information to be preserved/ Maintenance** **and preservation of records/ Cash and Suspicious Transactions Reporting to Financial** **Intelligence Unit- India (FIU-IND)** Section 12 of the Prevention of Money Laundering Act (PMLA), 2002**,** as amended by Prevention of Money Laundering (Amendment) Act, 2009, casts certain obligations on the APs (Indian Agents) in regard to preservation and reporting of transaction information. APs (Indian Agents) are, therefore, advised to go through the provisions of Prevention of Money Laundering Act, (PMLA), 2002, as amended by Prevention of Money Laundering (Amendment) Act, 2009 and the Rules notified there under and take all steps considered necessary to ensure compliance with the requirements of Section 12 of the Act ibid*.*
+## (i) Maintenance of records of transactions
+
+APs (Indian Agents) should introduce a system of maintaining proper record of transactions prescribed under Rule 3, as mentioned below:
+
+a. all cash transactions of the value of more than Rupees ten lakh or its equivalent in foreign currency;
+b. all series of cash transactions integrally connected to each other which have been valued below Rupees ten lakh or its equivalent in foreign currency where such series of transactions have taken place within a month and the aggregate value of such transactions exceeds Rupees ten lakh;
+c. all transactions involving receipts by non-profit organisations of value more than Rupees ten lakh or its equivalent in foreign currency [In view of Government of India Notification dated November 12, 2009 - Rule 3, sub-rule (1) clause (BA) of PML Rules];
+d. all cash transactions where forged or counterfeit currency notes or bank notes have been used as genuine and where any forgery of a valuable security or a document has taken place facilitating the transaction; and
+e. All suspicious transactions whether or not made in cash and by way of as mentioned in the Rules.
+
+<!-- PAGE 29 -->
+
+## (ii) Information to be preserved
+
+APs (Indian Agents) are required to maintain all necessary information in respect of transactions referred to in Rule 3 to permit reconstruction of individual transactions including the following information:
+
+a. the nature of the transaction;
+b. the amount of the transaction and the currency in which it was denominated;
+c. the date on which the transaction was conducted; and
+d. the parties to the transaction.
+## (iii) Maintenance and Preservation of Records
+
+a) APs (Indian Agents) are required to maintain the records containing information of all transactions including the records of transactions detailed in Rule 3 above. APs (Indian Agents) should take appropriate steps to evolve a system for proper maintenance and preservation of transaction information in a manner that allows data to be retrieved easily and quickly whenever required or when requested by the competent authorities.
+6 Further, APs (Indian Agents) should maintain for at least **five years** from the date of transaction between the AP and the client, all necessary records of transactions, both with residents and non-residents, which will permit reconstruction of individual transactions (including the amounts and types of currency involved, if any) so as to provide, if necessary, evidence for prosecution of persons involved in criminal activity.
+
+**b)** APs (Indian Agents) should ensure that records pertaining to the identification of the customer and his address (e.g. copies of documents like passport, driving license, PAN card, voter identity card issued by the Election Commission, utility bills, etc.) obtained while
+4 undertaking the transaction, are properly preserved for at least **five years** from the date of
+
+<u>A.P.(DIR Series) Circular No. 150 dated June 25, 2014</u>
+
+<!-- PAGE 30 -->
+
+cessation of the business relationship. The identification records and transaction data should be made available to the competent authorities upon request.
+
+**c)** In paragraph 4.6 of this Circular, APs (Indian Agents) have been advised to pay special attention to all complex, unusual large transactions and all unusual patterns of transactions, which have no apparent economic or visible lawful purpose. It is further clarified that the background including all documents/office records / memoranda pertaining to such transactions and purpose thereof should, as far as possible, be examined and the findings at branch as well as Principal Officer’s level should be properly recorded. Such records and related documents should be made available to help auditors in their day-to-day work relating to scrutiny of transactions and also to Reserve Bank/other relevant authorities. These records
+4 are required to be preserved for **five years** as is required under Prevention of Money Laundering Act, (PMLA), 2002, as amended by Prevention of Money Laundering (Amendment) Act, 2009 and Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005, as amended from time to time. **(iv) Reporting to Financial Intelligence Unit – India**
+
+**a)** In terms of the PML rules, APs (Indian Agents) are required to report information relating to cash and suspicious transactions to the Director, Financial Intelligence Unit-India (FIU-IND) in respect of transactions referred to in Rule 3 at the following address: The Director, Financial Intelligence Unit-India (FIU-IND), 6th Floor, Hotel Samrat, Chanakyapuri, **New Delhi-110021**. Website -<u>[http://fiuindia.gov.in/](http://fiuindia.gov.in/)</u>
+**b)** APs (Indian Agents) should carefully go through all the reporting formats. There are altogether four reporting formats, as detailed in SECTION-III, viz. i) Cash Transactions Report (CTR); ii) Electronic File Structure-CTR; iii) Suspicious Transactions Report (STR); and iv) Electronic File Structure-STR. The reporting formats contain detailed guidelines on the compilation and manner/procedure of submission of the reports to FIU-IND. It would be
+
+<!-- PAGE 31 -->
+
+necessary for APs (Indian Agents) to initiate urgent steps to ensure electronic filing of all types of reports to FIU-IND. The related hardware and technical requirement for preparing reports in an electronic format, the related data files and data structures thereof are furnished in the instructions part of the formats concerned.
+
+**c)** In terms of instructions contained in paragraph 4.3(b) of this Circular, APs (Indian Agents) are required to prepare a profile for each customer based on risk categorisation. Further, vide paragraph 4.6, the need for periodical review of risk categorisation has been emphasized. It is, therefore, reiterated that APs (Indian Agents), as a part of transaction monitoring mechanism, are required to put in place an appropriate software application to throw alerts when the transactions are inconsistent with risk categorization and updated profile of customers. It is needless to add that a robust software throwing alerts is essential for effective identification and reporting of suspicious transactions.
+## 4.13 Cash and Suspicious Transaction Reports
+
+## A) Cash Transaction Report (CTR)
+
+While detailed instructions for filing all types of reports are given in the instructions part of the related formats, APs (Indian Agents) should scrupulously adhere to the following:
+
+**i)** The Cash Transaction Report (CTR) for each month should be submitted to the FIU-IND by 15th of the succeeding month. Cash transaction reporting by branches to their controlling offices should, therefore, invariably be submitted on a **monthly** basis and APs (Indian Agents) should ensure to submit CTR for every month to FIU-IND within the prescribed time schedule. **ii)** While filing CTR, details of individual transactions below `50,000 need not be furnished. **iii)** CTR should contain only the transactions carried out by the AP on behalf of their customers excluding transactions between the internal accounts of the AP.
+
+<!-- PAGE 32 -->
+
+**iv**) A cash transaction report for the AP as a whole should be compiled by the Principal Officer of the AP every month in physical form as per the format specified. The report should be signed by the Principal Officer and submitted to the FIU-IND.
+
+**v)** In case of Cash Transaction Reports (CTR) compiled centrally by APs (Indian Agents) for the branches at their central data centre level, APs (Indian Agents) may generate centralised Cash Transaction Reports (CTR) in respect of branches under central computerized environment at one point for onward transmission to FIU-IND, provided:
+a. The CTR is generated in the format prescribed by Reserve Bank in Para 4.12(iv)(b) of this Circular.
+b. A copy of the monthly CTR submitted on its behalf to the FIU-IND is available at the branch concerned for production to auditors/inspectors, when asked for.
+c. The instruction on ‘Maintenance of records of transactions’, ‘Information to be preserved’ and ‘Maintenance and Preservation of records’ as contained above in this circular at Para 4.12
+(i), (ii) and (iii) respectively are scrupulously followed by the branch. However, in respect of branches not under central computerized environment, the monthly CTR should be compiled and forwarded by the branch to the Principal Officer for onward transmission to the FIU-IND.
+## B) Suspicious Transaction Reports (STR)
+
+**i)** While determining suspicious transactions, APs (Indian Agents) should be guided by definition of suspicious transaction contained in PML Rules, as amended from time to time. **ii)** It is likely that in some cases, transactions are abandoned/ aborted by customers on being asked to give some details or to provide documents. It is clarified that APs (Indian Agents) should report all such attempted transactions in STRs, even if not completed by customers, irrespective of the amount of the transaction. **iii)** APs (Indian Agents) should make STRs if they have reasonable ground to believe that the transaction, including an attempted transaction, involves proceeds of crime generally
+
+<!-- PAGE 33 -->
+
+irrespective of the amount of transaction and/or the threshold limit envisaged for predicate offences in part B of Schedule of Prevention of Money Laundering Act, (PMLA), 2002, as amended by Prevention of Money Laundering (Amendment) Act, 2009.
+
+**iv)** The Suspicious Transaction Report (STR) should be furnished within 7 days of arriving at a conclusion that any transaction, including an attempted transaction, whether cash or non- cash, or a series of transactions integrally connected are of suspicious nature. The Principal Officer should record his reasons for treating any transaction or a series of transactions as suspicious. It should be ensured that there is no undue delay in arriving at such a conclusion once a suspicious transaction report is received from a branch or any other office. Such report should be made available to the competent authorities on request.
+
+**v)** In the context of creating KYC/ AML awareness among the staff and for generating alerts for suspicious transactions, APs (Indian Agents) may consider the following indicative list of suspicious activities. Some possible suspicious activity indicators are given below: Customer is reluctant to provide details / documents on frivolous grounds. The transaction is undertaken by one or more intermediaries to protect the identity of the beneficiary or hide their involvement.
+## Large amount of remittances.
+
+Size and frequency of transactions is high considering the normal business of the customer.
+
+The above list is only indicative and not exhaustive.
+
+**vi)** APs (Indian Agents) should not put any restrictions on payment to beneficiaries where an STR has been made. Moreover, it should be ensured that employees of APs shall keep the fact of furnishing such information as strictly confidential and there is no **tipping off to** the customer at any level.
+
+## 4.14 Customer Education/Employees’ Training/Employees’ Hiring
+
+## a) Customer Education
+
+<!-- PAGE 34 -->
+
+Implementation of KYC procedures requires APs (Indian Agents) to demand certain information from customers which may be of personal nature or which has hitherto never been called for. This can sometimes lead to a lot of questioning by the customer as to the motive and purpose of collecting such information. There is, therefore, a need for APs (Indian Agents) to prepare specific literature/ pamphlets, *etc.*, so as to educate the customer of the objectives of the KYC programme. The front desk staff needs to be specially trained to handle such situations while dealing with customers.
+
+## b) Employees’ Training
+
+APs (Indian Agents) must have an ongoing employee training programme so that the members of the staff are adequately trained to be aware of the policies and procedures relating to prevention of money laundering, provisions of the PMLA and the need to monitor all transactions to ensure that no suspicious activity is being undertaken under the guise of remittances. Training requirements should have different focuses for frontline staff, compliance staff and staff dealing with new customers. It is crucial that all those concerned fully understand the rationale behind the KYC policies and implement them consistently. The steps to be taken when the staff come across any suspicious transactions (such as asking questions about the source of funds, checking the identification documents carefully, reporting immediately to the Principal Officer, *etc*.) should be carefully formulated by the APs (Indian Agents) and suitable procedure laid down. The APs (Indian Agents) should have an ongoing training programme for consistent implementation of the AML measures.
+
+## c) Hiring of Employees
+
+It may be appreciated that KYC norms/AML standards/CFT measures have been prescribed to ensure that criminals are not allowed to misuse the system of money transfer under MTSS. It would, therefore, be necessary that adequate screening mechanism is put in place by APs (Indian Agents) as an integral part of their recruitment/hiring process of personnel to ensure high standards.
+
+<!-- PAGE 35 -->
+
+**Note:- (i) The Government of India had constituted a National Money Laundering /**
+
+**Financing of Terror Risk Assessment Committee to assess money laundering and terror** **financing risks, a national AML/CFT strategy and institutional framework for** **AML/CFT in India. Assessment of risk of Money Laundering /Financing of Terrorism** **helps both the competent authorities and the regulated entities in taking necessary steps** **for combating ML / FT adopting a risk-based approach. This helps in judicious and** **efficient allocation of resources and makes the AML / CFT regime more robust. The** **Committee has made recommendations regarding adoption of a risk-based approach,** **assessment of risk and putting in place a system which would use that assessment to take** **steps to effectively counter ML / FT. The recommendations of the Committee have since** **been accepted by the Government of India and need to be implemented. Accordingly,** **APs (Indian Agents) should take steps to identify and assess their ML/TF risk for** **customers, countries and geographical areas as also for products/ services/** **transactions/delivery channels, in addition to what has been prescribed in the paragraph** **4 above. APs (Indian Agents) should have policies, controls and procedures, duly** **approved by their boards, in place to effectively manage and mitigate their risk adopting** **a risk-based approach as discussed above. As a corollary, APs (Indian Agents) would be** **required to adopt enhanced measures for products, services and customers with a** **medium or high risk rating. APs (Indian Agents) may design risk parameters according** **to their activities for risk based transaction monitoring, which will help them in their** **own risk assessment.**
+
+**(ii) The above KYC/ AML/ CFT Guidelines would also be applicable mutatis mutandis to** **all Sub Agents of the Indian Agents under MTSS and it will be the sole responsibility of** **the APs (Indian Agents) to ensure that their Sub Agents also adhere to these guidelines.**
+
+<!-- PAGE 36 -->
+
+## <u>Section –II</u>
+
+## Customer Identification Procedure: Features to be verified and documents that may be obtained from customers
+
+|Features|Documents|
+|---|---|
+|- Legal name and any other names used|(i) Passport (ii) PAN card (iii) Voter’s Identity Card (iv) Driving licence (v) Identity card (subject to the AP’s satisfaction) (vi) Letter from a recognized public authority or public servant verifying the identity and residence of the customer to the satisfaction of the AP(Indian Agent) (vii) Physical Aadhaar Card/ letter issued by the Unique Identification Authority of India 7 (UIDAI) (viii) e-KYC service of UIDAI|
+|- Correct permanent address|(i) Telephone bill (ii) Bank account statement (iii) Letter from any recognized public authority (iv) Electricity bill (v) Ration card (vi) Letter from employer (subject to satisfaction of the AP) (vii) Physical Aadhaar Card/ letter issued by the Unique Identification Authority of India (UIDAI) 7 (viii) e-KYC Service of UIDAI (any one of the documents, which provides customer information to the satisfaction of the AP (Indian Agent) will suffice). Note :- If the address on the document submitted for identity proof by the prospective customer is same as that declared by him/her, the document may be accepted as a valid proof of both identity|
+
+A. P. (DIR Series) Circular No. 10 dated July 21, 2014
+
+<!-- PAGE 37 -->
+
+and address. If the address indicated on the document submitted for identity proof differs from the current address declared by the customer, a separate proof of address should be obtained.
+
+<!-- PAGE 38 -->
+
+## <u>Section-III</u>
+
+## <u>List of various reports and their formats</u>
+
+1. Cash Transaction Report (CTR)
+2. Electronic File Structure- CTR
+3. Suspicious Transaction Report (STR)
+4. Electronic File Structure-STR
+***Note:** FIU-IND have now advised that the 'go-live' date is October 20, 2012 and that*
+
+*Authorised Persons, who are Indian agents under MTSS may discontinue submission of reports* *in CD format after October 20, 2012, using only FINnet gateway for uploading of reports in the* *new XML reporting format. Any report in CD format received after October 20, 2012 will not* *be treated as a valid submission by FIU-IND.*
+
+***With the amendments to Prevention of Money Laundering (PML) Rules, notified by the*** ***Government of India vide Notification No. 12 of 2013 dated August 27, 2013 and in terms of*** ***amended Rule 3, every reporting entity is required to maintain the record of all transactions*** ***including the record of all cross border wire transfers of more than Rs. 5 lakh or its*** ***equivalent in foreign currency, where either the origin or destination of the fund is in India.*** ***FIU-IND has advised that the information of all such transactions may be furnished to*** ***Director, FIU-IND by 15th of the succeeding month. The ‘Transaction Based Reporting*** ***Format’ (TRF) already developed by FIU-IND and being used for reporting Cash*** ***Transaction Reports (CTRs), Suspicious Transaction Reports (STRs) and Non-Profit*** ***Organizations Transaction Reports (NTRs) may be used for reporting the Cross Border Wire*** ***Transfers.The information may be furnished electronically in the FIN-Net module developed*** ***by FIU-IND. All APs (Indian Agents) are accordingly advised to take action as required by*** ***8*** ***FIU-IND and ensure that reports are submitted in time as per the schedule.***
+
+<u>A.P. (DIR Series) Circular No.125 dated April 25, 2014</u>
+
+<!-- PAGE 39 -->
+
+## Annex-II
+
+||Format for Sub Agents of Indian Agents of MTSS||
+|---|---|---|
+|1.|Name of the Sub Agent||
+|2.|Sub Agent Category (AD Cat-I bank/ AD Cat-II/ Other Scheduled Commercial Bank/ Full Fledged Money Changer/ Department of Posts/ Registered NBFC/ Others)||
+|3.|Address of the registered/corporate/administrative office with telephone number/s, Fax number/s and e-mail id/s.||
+|4.|Registered with||
+|5.|Registration Number||
+|6.|Details of Registration (papers to be attached as at Annex- IIa)||
+|7.|PAN Number (copy as at Annex-IIa)||
+|8.|Name/s of Banker/s and Bank Account Number/s (enclosures as at Annex-IIa)||
+|9.|Details (Name, Nationality, Residential address, Controlling interest in any other company, PAN Number) of each promoter with more than 10% equity holding||
+|10.|Paid up capital in ` and Number of shares||
+|11.|Accounts certified by which Chartered Accountant? Details (Enclosures as at Annex-IIa)||
+|12.|Whether prosecuted/ convicted for criminal/ economic offence? If yes, particulars thereof (Enclosures as at Annex-IIa)||
+|13.|Whether the Sub Agent is solvent as on date||
+|14.|Details (Name, Designation, Nationality, Residential address, PAN No., Name/s of other company/ies in which the person has held any post, Details of equity shareholding in the company, if any) of Chairman/Managing Director/Director/Chief Executive Officer (Details as at Annex-IIa) Note: With reference to point 9, ownership of the Sub Agent should be detailed up to the last layer of equity holding ending in mentioning the name of the individual/ entity that owns beneficial interest in the company. Date: Signature of Chartered Accountant Place: Signature of Managing Director Annex-IIa : List of Certified copies of Documents to be submitted||
+
+<!-- PAGE 40 -->
+
+1. Certificate of Incorporation
+2. Memorandum (up-to-date) and Articles of Association
+3. Board resolution for conducting money transfer activities, submission of application and its contents including authorization of an official to make the application.
+*4.* Details of associates, group companies, *etc.*
+5. PAN Card/s of the Director/s.
+6. Bank Account details and sealed confidential reports from banks.
+7. A certificate from Chartered Accountant certifying Net Owned Funds
+8. Balance Sheet and P&L A/c statement for the last three years.
+9. Business plan for the next three years.
+10. Conduct certificate from the local police authorities.
+11. Declaration regarding past criminal cases, cases initiated/ pending against the company or its Directors by any law enforcing agencies.
+12. Photographs of the Directors and key persons.
+13. Information about the management.
+14. Shop and establishment certificate/ other municipal certificate.
+
+<!-- PAGE 41 -->
+
+## Annex-III
+
+||Statement showing details of quantum of remittances received through Money Transfer Service Scheme during the quarter ended __________________||
+|---|---|---|
+||Name of the Indian Agent ______________________________________||
+|Principal|Name of the Overseas Total quantum of remittances received INR equivalent in US $||
+
+***Note: This statement is required to be submitted to the Regional Office concerned of the***
+
+***Foreign Exchange Department of the Reserve Bank within 15 days from the close of the*** ***quarter to which it relates.***
+
+<!-- PAGE 42 -->
+
+## Annex-IV
+
+## <u>Statement of Collateral kept by Indian Agents</u>
+
+Name of the Indian Agent __________________________
+
+|Name of Total quantum of||Amount of|Collateral kept in|Last review of|
+|---|---|---|---|---|
+|the|remittances received|collateral held in|various forms|adequacy of|
+|Overseas|during the past 6 US $||(Foreign|collateral along|
+|Principal|months in US $||Currency Deposit/ Bank|with observations|
+
+Guarantee)
+
+***Note: This statement as at the end of June and December every year is required to be***
+
+***submitted to the Regional Office concerned of the Foreign Exchange Department of the*** ***Reserve Bank within 15 days from the close of the half year to which it relates.***
+
+<!-- PAGE 43 -->
+
+## Appendix
+
+## List of Circulars/ Notifications which have been consolidated in the Master Circular on
+
+## Money Transfer Service Scheme
+
+|Sl. No.|Notification/ Circular|Date|
+|---|---|---|
+|1.|Notification on MTSS|June 4, 2003|
+|2.|A.P. (DIR Series) Circular No. 18 [ A.P.(FL Series) Circular No. 05]|November 27, 2009|
+|3.|A.P. (DIR Series) Circular No. 19 [ A.P.(FL Series) Circular No. 02]|November 25, 2010|
+|4.|A.P. (DIR Series) Circular No. 21 [ A.P.(FL Series) Circular No. 04]|November 30, 2010|
+|5.|A.P. (DIR Series) Circular No. 24 [ A.P.(FL Series) Circular No. 05]|December 13, 2010|
+|6.|A.P.(DIR Series) Circular No.26 [A.P.(FL Series) Circular No. 07]|December 22, 2010|
+|7.|A.P.(DIR Series) Circular No.28 [A.P.(FL Series) Circular No. 09]|December 22, 2010|
+|8.|A.P.(DIR Series) Circular No.50 [A.P.(FL Series) Circular No. 12]|April 6, 2011|
+|9.|A.P.(DIR Series) Circular No. 52[A.P.(FL Series) Circular No. 14]|April 6, 2011|
+|10.|A.P. (DIR Series) Circular No. 62|May 16, 2011|
+|11.|A.P. (DIR Series) Circular No. 64|May 20, 2011|
+|12.|A.P.(DIR Series) Circular No. 66|May 20, 2011|
+|13.|A.P.(DIR Series) Circular No. 22|September 19, 2011|
+|14.|A.P.(DIR Series) Circular No. 24|September 19, 2011|
+|15.|A.P.(DIR Series) Circular No. 78|February 15, 2012|
+|16.|A.P.(DIR Series) Circular No. 87|February 29, 2012|
+|17.|A.P.(DIR Series) Circular No. 108|April 17, 2012|
+|18.|A.P.(DIR Series) Circular No. 132|June 8, 2012|
+|19.|A.P.(DIR Series) Circular No. 49|November 7, 2012|
+|20.|A.P.(DIR Series) Circular No. 67|January 2, 2013|
+|21.|A.P.(DIR Series) Circular No. 71|January 10, 2013|
+|22.|A.P.(DIR Series) Circular No. 73|January 10, 2013|
+|23.|A.P.(DIR Series) Circular No. 89|March 12, 2013|
+|24|A.P.(DIR Series) Circular No.102|May 3, 2013|
+|25|A.P.(DIR Series) Circular No.35|September 4, 2013|
+
+<!-- PAGE 44 -->
+
+|26|A.P.(DIR Series) Circular No.110|March 4, 2014|
+|---|---|---|
+|27|A.P. (DIR Series) Circular No.125|April 25, 2014|
+|28|A. P. (DIR Series) Circular No. 144|June 16, 2014|
+|29|A. P. (DIR Series) Circular No. 150|June 25, 2014|
+|30.|A. P. (DIR Series) Circular No. 8|July 18, 2014|
+|31.|A. P. (DIR Series) Circular No. 10|July 21, 2014|
+|32.|A. P. (DIR Series) Circular No. 49|December 16, 2014|
+|33.|A. P. (DIR Series) Circular No.67|January 28, 2015|
