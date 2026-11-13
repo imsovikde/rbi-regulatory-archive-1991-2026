@@ -1,0 +1,48 @@
+---
+doc_id: "Press-Releases_2023_55388"
+title: "RBI imposes monetary penalty on Smriti Nagrik Sahakari Bank Maryadit, Mandsaur (Madhya Pradesh)"
+category: "Press-Releases"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR18903F05D774CB0545F28DA7E2D4F99C28EF.PDF"
+pdf_sha256: "1fa62a082c884407cce43e8f5f92e8621efc7b5630b03f38891dbf32be3f73d3"
+md_sha256: "21fcde238f13efe28a0743c3bc04dfb9771979ed3098b0387bba44cfdfc69972"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T23:57:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-03-20_Press-Release_55388_RBI%20imposes%20monetary%20penalty%20on%20Smriti%20Nagrik%20Sahakari%20Bank%20Maryadit%2C%20Mandsaur%20%28Madhya%20Pradesh%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI imposes monetary penalty on Smriti Nagrik Sahakari Bank Maryadit, Mandsaur (Madhya Pradesh)
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़वर् बक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई-400001|
+|Website : www.rbi.org.in ई-मेल/email : helpdoc@rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort, Mumbai-400001 फोन/Phone: 022- 22660502|
+
+## March 20, 2023
+
+## RBI imposes monetary penalty on Smriti Nagrik Sahakari Bank Maryadit, Mandsaur
+
+## (Madhya Pradesh)
+
+The Reserve Bank of India (RBl) has imposed, by an order dated March 14, 2023, a monetary penalty of ₹4.00 lakh (Rupees Four lakh only) on Smriti Nagrik Sahakari Bank Maryadit, Mandsaur, (Madhya Pradesh) (the bank) for contravention of/non-compliance with directions issued by RBI on Exposure Norms & Statutory/Other Restrictions on UCBs and Know Your Customer (KYC). This penalty has been imposed in exercise of powers vested in RBI under the provisions of Section 47 A (1) (c) read with Section 46 (4)
+
+(i) and Section 56 of the Banking Regulation Act, 1949, taking into account the failure of the bank to adhere to the aforesaid directions issued by RBI. This action is based on deficiencies in regulatory compliance and is not intended to pronounce upon the validity of any transaction or agreement entered into by the bank with its customers.
+## Background
+
+The Inspection Reports of the bank based on its financial position as on March 31, 2020 & March 31, 2021, revealed, *inter alia*, that the bank had (i) sanctioned loans beyond the prescribed ceiling to nominal members, (ii) no system of periodical review of risk categorization of customers, (iii) not done periodic updation of KYC of its customers as per risk categorisation, (iv) no system to generate alerts for monitoring and reporting suspicious transactions in contravention of/non-compliance with the aforesaid directions issued by RBI. Based on the same, a Notice was issued to the bank advising it to show cause as to why penalty should not be imposed for non-compliance with the directions.
+
+After considering the bank's replies, oral submissions made during personal hearing and additional submissions made thereafter, RBI came to the conclusion that the aforesaid charges of non-compliance with RBI directions were substantiated and warranted imposition of monetary penalty.
+
+## (Yogesh Dayal)
+
+## Press Release: 2022-2023/1890
+
+Chief General Manager
