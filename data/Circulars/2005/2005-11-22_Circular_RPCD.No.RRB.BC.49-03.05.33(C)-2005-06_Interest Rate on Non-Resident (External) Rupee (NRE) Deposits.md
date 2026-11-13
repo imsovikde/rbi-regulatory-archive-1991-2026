@@ -1,0 +1,52 @@
+---
+doc_id: "Circulars_2005_RPCD_No_RRB_BC_49_03_05_33_C_2005-06"
+title: "Interest Rate on Non-Resident (External) Rupee (NRE) Deposits"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67430.PDF"
+pdf_sha256: "c12c52026a7ce104d5f86322e20388e37b1a2e634ab24aafedbf744c5adc1574"
+md_sha256: "fcd43bc87eb0eaece9626dec41402da2eccb38273f59c82ae230e6fc77a7a9d0"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:51:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-11-22_Circular_RPCD.No.RRB.BC.49-03.05.33%28C%29-2005-06_Interest%20Rate%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate on Non-Resident (External) Rupee (NRE) Deposits
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/213 RPCD.No.RRB.BC.49/03.05.33(C)/2005-06 November 22, 2005
+
+## All Regional Rural Banks/Sponsor Banks
+
+Dear Sir,
+
+<u>Interest Rate on Non-Resident (External) Rupee (NRE) Deposits</u>
+
+Please refer to our circulars RPCDNo.RRB.BC.89 & 56/03.05.33(C)/2003-04/2004-05 dated June 8, 2004 and November 01, 2004 respectively on Interest Rates on NRE Deposits. On a review, it has been decided that until further notice and with effect from close of business in India on November 17, 2005, the interest rates on Non-Resident (External) Rupee (NRE) Savings and Term Deposits will be as under:
+
+1. NRE Savings Account The interest rates on NRE Savings deposit accounts shall be at the rate applicable to domestic savings deposits (as against LIBOR/ SWAP rate for six months maturity on US dollar deposits).
+2. Term Deposits The interest rates on fresh repatriable Non-Resident (External) Rupee (NRE) Term deposits for one to three years should not exceed the LIBOR/SWAP rates, as on the lastWithdrawn working day of the previous month, for US dollar of corresponding maturity plus 75 basis points (as against 50 basis points effective since November 1, 2004). The interest rates as determined above for three year deposits should also be applicable in case the maturity period exceeds three years. The changes in interest rates will also apply to NRE deposits renewed after their present maturity period.
+3. All other instructions issued earlier shall remain unchanged. An amending directive RPCD.No.RRB.DIR.391/03.05.33 (C)/2005-06 dated November 22, 2005 is enclosed.
+4. Please acknowledge receipt to our concerned Regional Office.
+Yours faithfully, (C.S. Murthy) Chief General Manager-In-Charge
+
+<!-- PAGE 2 -->
+
+## RPCD.No.RRB.DIR. 391/03.05.33(C)/ 2005-06 November 22, 2005
+
+<u>Interest Rate on Non-Resident (External) Rupee (NRE) Deposits</u>
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, and in partial modification of our Directives RPCD.No.Dir.BC.90/03.05.33(C)/2003-04 dated June 8, 2004 and RPCD.No.RRB.DIR.246/03.05.33(C)/2004-05 dated November 01, 2004 on Interest Rates on Deposits, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs undernoted changes in the interest rates on NRE savings and term deposit accounts:
+
+1.NRE Savings Account “The interest rates on NRE Savings deposit accounts shall be at the rate applicable to domestic savings deposit accounts (as against LIBOR/SWAP rate for six months maturity on US dollar deposits), effective close of business in India on November 17, 2005”.
+2.NRE Term Deposits “The interest rates on Non-Resident (External) Rupee (NRE) deposits for one to three years maturity contracted with effect from close of business in India on November 17,
+# Withdrawn
+
+2005 shall not exceed the LIBOR/ SWAP rates of the last working day of the previous month for US dollar of corresponding maturities plus 75 basis points. The interest rate as determined above shall also be applicable in case the maturity period exceeds three years. The above changes in interest rates will also apply to NRE term deposits renewed after their present maturity period”.
+
+(V.S.Das) Executive Director

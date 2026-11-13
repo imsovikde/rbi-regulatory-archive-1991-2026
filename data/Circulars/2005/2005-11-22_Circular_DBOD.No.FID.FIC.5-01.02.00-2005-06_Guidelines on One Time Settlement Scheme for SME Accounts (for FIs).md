@@ -1,0 +1,29 @@
+---
+doc_id: "Circulars_2005_DBOD_No_FID_FIC_5_01_02_00_2005-06"
+title: "Guidelines on One Time Settlement Scheme for SME Accounts (for FIs)"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67422.PDF"
+pdf_sha256: "dad9321157db78f48c0719c8be1a2d445883fedade1afc98f4283b56a849c1d6"
+md_sha256: "4e43467eb30e2081a5ad1951bce48fba3754ffe84fcef8f8a56d248a64cf08bc"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:51:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-11-22_Circular_DBOD.No.FID.FIC.5-01.02.00-2005-06_Guidelines%20on%20One%20Time%20Settlement%20Scheme%20for%20SME%20Accounts%20%28for%20FIs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on One Time Settlement Scheme for SME Accounts (for FIs)
+
+<!-- PAGE 1 -->
+
+RBI/2005-2006/214 Ref: DBOD. No. FID. FIC. 5 /01.02.00/2005-06 November 22, 2005
+
+The CEOs of the all-India Term-lending and Refinancing Institutions (Exim Bank, IDFC Ltd., IFCI Ltd., IIBI Ltd., NABARD, NHB, SIDBI and TFCI Ltd.) Dear Sir, <u>Guidelines on One Time Settlement Scheme for SME Accounts (for FIs)</u> Please find enclosed RPCD Circular RPCD.PLNFS.BC.No.39/06.02.31/2005-06 dated September 3, 2005 on the captioned subject. The Circular has also been placed on the RBI web-site (http:// www.rbi.org.in). t is advised that the above guidelines issued to public sector banks, should 2. I also be uniformly implemented by the financial institutions, as applicable.
+
+3. Kindly acknowledge receipt.
+Yours faithfully, (Dr. K. Jayanthi Anand ) General Manager
+
+# Withdrawn

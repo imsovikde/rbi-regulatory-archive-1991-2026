@@ -1,0 +1,82 @@
+---
+doc_id: "Circulars_2005_UBD_No_DIR_2_13_05_000_05-06"
+title: "Maximum Limit on Advances - Limits on Unsecured Advances to Single Party / Connected Group"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67585.PDF"
+pdf_sha256: "2db5524d470a0d317c13981a647c85404d4cf37a017b9a54dec9cf7ba896e0f5"
+md_sha256: "120760b623caf4a313e03c613a301ac75a0626a98077b6b09741ce02ad2dc14d"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:51:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-12-05_Circular_UBD.No.DIR.2-13.05.000-05-06_Maximum%20Limit%20on%20Advances%20-%20Limits%20on%20Unsecured%20Advances%20to%20Single%20Party%20-%20Connected%20Group.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maximum Limit on Advances - Limits on Unsecured Advances to Single Party / Connected Group
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/226 UBD. PCB.Cir. No.22/13.05.000/05-06 December 5, 2005.
+
+The Chief Executive Officers of All Primary (urban) Co-operative Banks
+
+## Dear Sir/Madam
+
+Maximum Limit on Advances-Limits on Unsecured Advances to Single Party/Connected Group-
+
+Please refer to our directives UBD.No.DS.PCB.Dir/16/13.05.00/96-97 dated November 11, 1996 on the above subject.
+
+2. As per the extant instructions, Primary (Urban) Co-operative Banks (UCB) are permitted to grant unsecured advances not exceeding Rs.5,000/- without sureties for a temporary period up to 30 days, in emergent cases. Of late, we have been receiving representations of the UCBs and their Federations for increasing the limit on unsecured advances without surety, as UCBs are finding it difficult to confine purchase/discount of third party cheques within this limit fixed quite some time back.
+# Withdrawn
+
+3. The instructions on the subject have been reviewed and it has been decided to enhance the limit on unsecured advances without surety from Rs.5,000/- to the under noted levels only in respect of purchase/discount/withdrawal against third party cheques for a temporary period of 30 days in emergent cases.
+
+|Category of banks|Grade|Limit|Grade|Limit|
+|---|---|---|---|---|
+|Scheduled|Banks in Gr-III & IV|Rs25,000/-|Banks other than Gr-III & IV|Rs 50,000/-|
+|Non- Scheduled|-do-|Rs 10,000/-|-do-|Rs 20,000/-|
+
+It is, however, advised that where purchase/discount/withdrawal against third party cheques are to be allowed, the names and details of such parties whose cheques are to be lodged should be obtained and their market standing
+
+<!-- PAGE 2 -->
+
+ascertained to ensure that the cheques presented would represent genuine trade transactions and would also be paid in the normal course of business. Strict vigilance should be observed against assisting kite flying operations of any kind.
+
+4. The ceiling on temporary unsecured advances without sureties for other class of unsecured advances, viz., clean bills, multani hundis, upto a period of 30 days, would however, continue to be limited to a maximum of Rs 5,000/-.
+5. It has further been decided that the total unsecured advances (with surety and without surety) granted by a bank to its members should not exceed 15 % of its demand and time liabilities (DTL) as against the present limit of 33.33 % However, banks are permitted to conform to the lower limit in a gradual manner,
+i.e. 20 % of DTL by March 31, 2006 and further to 15 % of DTL by March 31,
+2007.
+6. All other instructions on unsecured advances (with surety or without surety) issued from time to time remain unchanged.
+7. An amending directive UBD. No. DIR. 2/13.05.000/05-06 dated December 5,
+# Withdrawn
+
+2005 is enclosed.
+
+8. Please acknowledge receipt of the circular to the concerned Regional Office of the Reserve Bank of India.
+## Yours faithfully
+
+(N.S.Vishwanathan) Chief General Manager –in-Charge.
+
+<!-- PAGE 3 -->
+
+UBD.No. DIR 2 /13.05.000/05-06 December 5, 2005.
+
+|Party/Connected Group-|Maximum Limit on Advances-Limits on Unsecured Advances to Single||||
+|---|---|---|---|---|
+|so, hereby surety within of 30 days in emergent cases:|In exercise of the powers conferred under Section 21 read with Section 56 of the Banking Regulation Act 1949, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest and in the interest of depositors to directs in partial No.UBD.No.DS.PCB.Dir/16/13.05.00/96-97 dated November 11, 1996 that: (i) Primary (Urban) Co-operative Banks may grant unsecured advances without the under noted purchase/discount/withdrawal against third party cheques for a temporary period|modification limits|of its only in|directive respect of|
+|Category of banks|Grade|Limit|Grade|Limit|
+|Scheduled|Banks in Gr-III & IV|Rs25,000/-|Banks other than Gr-III & IV|Rs 50,000/-|
+|Non- Scheduled|-do-|Rs 10,000/-|-do-|Rs 20,000/-|
+
+do
+
+# Withdrawn
+
+(ii) The total unsecured advances (with surety and without surety ) granted by a bank to its members should not exceed 15 % of its demand and time liabilities (DTL) as against the present instruction of 33.33 %. However, banks are permitted to conform to the lower limit in a gradual manner, i.e. 20 % of DTL by March 31, 2006 and further to 15 % of DTL by March 31, 2007.
+
+(iii) All other instructions on unsecured advances (with surety or without surety) issued from time to time remain unchanged.
+
+(V.S Das) Executive Director.

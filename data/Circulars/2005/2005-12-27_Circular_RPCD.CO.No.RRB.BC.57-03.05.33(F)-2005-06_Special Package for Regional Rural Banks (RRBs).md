@@ -1,0 +1,69 @@
+---
+doc_id: "Circulars_2005_RPCD_CO_No_RRB_BC_57_03_05_33_F_2005-06"
+title: "Special Package for Regional Rural Banks (RRBs)"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67939.PDF"
+pdf_sha256: "c6103fd44543a0a5df0117502f99b41d90ca6b1738a0af117a1792578fbb3571"
+md_sha256: "81560a5ee601a7d69394a14f35d46c8093a952ca5b534b5872b720ead6472a49"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:52:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-12-27_Circular_RPCD.CO.No.RRB.BC.57-03.05.33%28F%29-2005-06_Special%20Package%20for%20Regional%20Rural%20Banks%20%28RRBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Special Package for Regional Rural Banks (RRBs)
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/243 RPCD.CO.No.RRB.BC.57/03.05.33 (F)/2005-06 December 27, 2005
+
+## All Regional Rural Banks/Sponsor Banks
+
+Dear Sir/Madam,
+
+<u>Special package for Regional Rural Banks (RRBs)</u>
+
+In the Bank's Annual Policy Statement for the year 2005-06 (paragraph 88), it was announced to reposition RRBs as an effective instrument of credit delivery in the Indian financial system. Towards this end, some steps have already been taken in the recent past including amalgamation of some RRBs. In order to extend further support to RRBs for accelerating the flow of credit to their clientele, it has been decided to take the following measures:
+
+<u>1) Enhancing resource base of RRBs</u> Currently, the sources of funds for RRBs are owned funds, deposits, borrowings, refinance from NABARD, etc. In order to enlarge resources available for a variety of purposes, especially in the context of programme of financial inclusion, General Credit Card (GCC), etc., it has been decided to provide additional sources of fund as under:
+<u>i) Line of credit from sponsor banks</u>
+# Withdrawn
+
+Sponsor banks should effectively use the RRBs sponsored by them to increase flow of credit to the rural areas. To supplement the resources of the RRBs, sponsor banks may provide to RRBs lines of credit at a reasonable rate of interest.
+
+## <u>ii) Access to inter-RRB term money/borrowings</u>
+
+As there are no restrictions on RRBs’ access to term money markets, it is clarified that within this framework RRBs can borrow from/place funds with other RRBs including those sponsored by other banks, subject to counter-party credit risk policy and limits.
+
+## <u>iii) Access to repo/CBLO markets</u>
+
+RRBs can enter into ready forward transactions in government securities with SGL/CSGL account holders, subject to the conditions specified in IDMD Circular No.IDMD/PDRS/4779/10.02.01/2004-05 dated May 11, 2005 (copy enclosed). Further, they can participate in CBLO market with the settlement undertaken
+
+<!-- PAGE 2 -->
+
+through their Gilt Account. RRBs desirous of participating in repos/CBLO market may approach the sponsor banks for guidance. Sponsor banks, in turn, may actively facilitate such access and provide necessary training to RRB staff.
+
+With a view to equipping RRBs' staff with necessary skill, the Reserve Bank and NABARD will help in organising training programme/s for them in the regulatory and operational aspects of the repo/CBLO market. Sponsor banks/RRBs interested in such training may get in touch with our Regional Offices (RPCD).
+
+<u>2) Issue of credit/debit cards and setting-up of ATMs</u> In collaboration with their sponsor banks or other banks, RRBs may issue credit cards/debit cards to their constituents to be able to provide better facilities. In case any RRB wishes to set up an off-site ATM in its area of operation, it may do so after assessing the cost and benefit. Prior approval of RBI need not be obtained, but on opening of such ATMs, RRBs should immediately inform the respective Regional Office of the Reserve Bank (Rural Planning and Credit Department) for the purpose of getting a formal authorisation for the place of business.
+3) <u>Opening of Currency Chests</u> Requests from RRBs for opening of currency chests would be considered by the Reserve Bank, on case-by-case basis, taking into account their financial position, compliance with SLR/CRR/inspection findings, general position of management, grading, etc. Such requests should be submitted to the respective Regional
+# Withdrawn
+
+Offices of the Reserve Bank (RPCD).
+
+4) <u>Forex business</u> Reserve Bank is in the process of reviewing the existing norms for conduct of various types of foreign exchange transactions by RRBs with a view to allowing them to undertake non-trade related current account transactions pertaining to release of foreign exchange for certain specified purposes such as private visits, business travel, medical treatment, overseas education, visa fees, etc, as per the report of our Foreign Exchange Department, which has been posted on the website (<u>www.rbi.org.in</u>) on December 1, 2005. A communication in this regard will follow.
+5) <u>Pension/ Government business</u> Banks authorised to handle government business are permitted to appoint sub- agents in terms of the agency agreements. Accordingly RRBs which are desirous
+
+<!-- PAGE 3 -->
+
+of handling pension and other government business as sub-agents may contact the concerned banks.
+
+Yours faithfully,
+
+(G, Srinivasan) Chief General Manager
+
+# Withdrawn
