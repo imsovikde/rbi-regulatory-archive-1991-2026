@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2012_7050"
+title: "Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIA09032012F.pdf"
+pdf_sha256: "253c59c0cd6574d05c9c50646f6fa99f8a408d76aa6d3455ac67545e2ded8b40"
+md_sha256: "ba7aa14d18e27ceb57c35c4751a13376e1f1f896bfb4d55c811070da0f7fe468"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-09_Notification_7050_Reporting%20Platform%20for%20OTC%20Foreign%20Exchange%20and%20Interest%20Rate%20Derivatives.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/433 FMD.MSRG.No.67/02.05.002/2011-12 March 9, 2012
+
+All Category – I Authorised Dealer Banks and Primary Dealers
+
+Madam/Sir,
+
+## Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives
+
+As you are aware, the Reserve Bank of India has taken several steps in the past to improve the transparency of the OTC derivatives market in India. It may be recalled that in August 2007, the Bank had mandated reporting of inter-bank/PD Rupee Forward Rate Agreement (FRA) and Interest Rate Swap (IRS) trades to the reporting platform developed by Clearing Corporation of India Limited (CCIL) for the purpose. In this context, following an announcement in the Annual Policy for the year 2010-11, a Working Group was constituted in June 2010 to work out the modalities for an efficient, single point reporting mechanism for all OTC interest rate and forex derivative transactions. The report of the Working Group was placed on the Bank’s website on May 25, 2011.
+
+As recommended by the Working Group, it has now been decided that:
+
+(a) All inter-bank OTC inter-bank foreign exchange derivatives shall be reported on a platform to be developed by the CCIL.
+
+<!-- PAGE 2 -->
+
+(b) All/selective trades in OTC foreign exchange and interest rate derivatives between the Category–I Authorised Dealer Banks/market makers (banks/PDs) and their clients shall be reported on the CCIL platform subject to a mutually agreed upon confidentiality protocol.
+We have since advised CCIL to undertake development of reporting platform for the purpose mentioned above. Besides, we have also advised the market representative bodies, viz. Foreign Exchange Dealers Association of India (FEDAI), Fixed Income, Money Market and Derivatives Association of India (FIMMDA) and Primary Dealers Association of India (PDAI) to assist the CCIL in development of the confidentiality protocol.
+
+The CCIL will, in due course, keep the banks/PDs informed of the technology upgradation required for the purpose along with the time lines for completion of various milestones. You are requested to extend the necessary co-operation to CCIL in this project so that the reporting can commence seamlessly from a date to be advised in due course.
+
+## Yours sincerely
+
+(G. Mahalingam) Chief General Manager

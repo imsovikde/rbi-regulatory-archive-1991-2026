@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2012_983"
+title: "Relief and Savings bonds-Compensation structure for delay in payment of interest and/or principal"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/RSB4910412.pdf"
+pdf_sha256: "632f62d4484eaf4ad882861105942767f8fc0c3f5824cda55218fb2e8a193c6d"
+md_sha256: "827d973491814f467e5c8a2ab256ca748f1c95f3c3856eb4b37d0f8575aba2ad"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-04-10_Notification_983_Relief%20and%20Savings%20bonds-Compensation%20structure%20for%20delay%20in%20payment%20of%20interest%20and-or%20principal.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Relief and Savings bonds-Compensation structure for delay in payment of interest and/or principal
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बक
+
+____________________RESERVE BANK OF INDIA____________________ www.rbi.org.in **RBI/2011-12/491** **DGBA.CDD.H- 6614 /13.01.298/2011-12** April 10, 2012
+
+The Chairman and Managing Director/Managing Director Head Office (Government Accounts Department) State Bank of India and Associates, All Nationalized Banks *(excluding Punjab and Sind Bank & Andhra Bank),* IDBI Bank Ltd. /ICICI Bank Ltd./Axis Bank Ltd./HDFC Bank Ltd., SHCIL
+
+Dear Sir/Madam,
+
+## Relief and Savings bonds-Compensation structure for delay in payment of interest and/or principal
+
+Please refer to our <u>circulars RBI/2005/477</u> and <u>RBI/2011-12/294</u> dated May 20, 2005 and December 09, 2011 respectively, on the above subject. As per the circular dated December 09, 2011 it was advised that agency banks may compensate an investor in Relief/Savings bonds, for the financial loss due to late receipt/delayed credit of interest warrants/maturity value, at their own savings bank rate for respective amounts (i.e. upto ` 1 lakh and over ` 1 lakh) without any discrimination.
+
+2. Under the present scenario of deregulated interest rate on the savings bank account, in order to avoid ambiguity and variation in compensation rates across different agency banks, these instructions have been reviewed. It has now been decided that with effect from the date of this circular, an agency bank shall compensate an investor in Relief/Savings bonds, for the financial loss due to late receipt/delayed credit of interest warrants/maturity value, at a fixed rate of 8% per annum.
+3. It may be added that the Reserve Bank may review the above compensation rate as and when considered appropriate.
+4. Please acknowledge receipt. Yours faithfully, (Sangeeta Lalwani) Deputy General Manager
+यह िवभाग आईएसओ 9001:2000 पर्मािणत ह । ै सरकारी एवं बक लेखा िवभाग,के न्दर्ीय कायार्लय, 4 थी मंिजल ,मबई स ुं टर्ल रेल्वे स्टेशन के सामने, भायखला, मुंबई-400008 **This department is ISO 9001:2000 certified** Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, Byculla, Mumbai – 8. Telephone: (022)2300 3660, Fax No. (022) 2301 0095, e‐mail: cgmicdgbaco@rbi.org.in

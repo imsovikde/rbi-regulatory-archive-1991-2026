@@ -1,0 +1,426 @@
+---
+doc_id: "Notifications_2012_7026"
+title: "Compilation of R-Returns: Reporting under FETERS"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ASAP840212FL.pdf"
+pdf_sha256: "053ae4f121ac164b7d508ee707a39cd1c5f2a351d8df36c6376a41050ad2df4b"
+md_sha256: "e8acaadcbef533770882174c5dee35fad5a11f59a3d2a954dcf1be9a1db3cf7a"
+total_pages: 20
+native_pages: 20
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:27:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-02-29_Notification_7026_Compilation%20of%20R-Returns-%20Reporting%20under%20FETERS.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Compilation of R-Returns: Reporting under FETERS
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2011-12/413 February 29, 2012
+
+## A.P. (DIR Series) Circular No. 84
+
+To All Authorised Dealers in Foreign Exchange
+
+Madam / Sir,
+
+## Compilation of R-Returns: Reporting under FETERS
+
+Attention of Authorised Dealer (Category I) banks is invited to <u>A.P.(DIR Series)</u> <u>Circular No.77 dated March 13, 2004</u> giving guidelines for compilation of R-Returns and reporting under the *Foreign Exchange Transactions – Electronic Reporting* *System (FETERS),* and also the <u>A.P.(DIR Series) Circular No. 30 dated February 25,</u> <u>2008</u> on the move from the system of ‘branch-wise’ reporting to ‘bank-wise’ reporting under the FETERS.
+
+2. Several subsequent developments have necessitated further modifications in FETERS. These include:
+a) The Working Group on Balance of Payments (BoP) Manual for India (Chairman: Shri Deepak Mohanty) constituted by the Reserve Bank reviewed, *inter alia,* the existing methodology for compilation of India’s BoP with a view to making it consistent with the guidelines contained in the Sixth edition of *Balance of Payments and International Investment Position Manual (BPM6)* of the International Monetary Fund (IMF). The Working Group made several recommendations for improving the present compilation procedure as well as presentation of India’s BoP statistics conforming to international best practices.
+b) With the transition to core banking system (CBS), move to complete transaction reporting is warranted instead of relying on the unclassified receipts survey (URS) for purpose-wise distribution of the consolidated amount under non-export receipts below a threshold.
+
+<!-- PAGE 2 -->
+
+c) Directorate General of Systems (Customs and Central Excise), Govt.of India now issues 6-digit port-code as per UNLOCODE scheme in place of 2-digit port-code earlier issued by RBI.
+3. In view of the above, the following changes shall be effected in reporting of R-Returns from the next financial year (*i.e.,* transactions taking place from April 1,
+2012):
+i) The purpose codes for classification and reporting of foreign exchange transactions in FETERS should be as per the revised classification. Accordingly, all AD category-I banks are advised to report all foreign exchange transactions as per the revised purpose code list with effect from first fortnight of April 2012 <u>as per the attached guidelines</u>. ii) AD banks may indicate purpose codes for all foreign exchange transactions (including receipts under non-export transactions below Rs. 5 lakhs) under FETERS. The present system of reporting of non-export transactions below Rs. 5 lakhs (a) on a consolidated basis in BoP file and
+(b) submission of purpose-wise distribution of a sample of such small receipt transactions (as part of R-return in the URS file under FETERS), will be discontinued for transactions beyond March 31, 2012.
+iii) The amount field in all FETERS files will be increased to 15-digit format. iv) 6-digit port code will be used uniformly for reporting under FETERS.
+
+4. The revised Guidelines for Submission of Data under the FETERS are attached herewith.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rashmi Fauzdar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Guidelines for Submission of Data:
+
+## Foreign Exchange Transactions Electronic Reporting System (FETERS)
+
+Nodal offices of Authorised Dealer (AD) banks are required to report purpose, country, currency and other details of their foreign exchange sale and purchase transactions in Foreign Exchange Transaction Electronic Reporting System (FETERS) to the Reserve Bank on a fortnightly basis in the prescribed format since October 1997. These are primarily required for compilation of India’s Balance of Payments (BoP) statistics as per international guidelines given by the International Monetary Fund (IMF), and other policy making by the Reserve Bank and are also used for other macroeconomic management purposes. With the signing of General Agreement on Trade in Services (GATS) under World Trade Organisation (WTO), the member countries are required to disseminate the data on international trade in services as per Manual on Statistics on International Trade in Services (MSITS). Accordingly, detailed BoP statistics is released on a quarterly basis and BoP for services is released on a monthly basis.
+
+In order to meet the requirement of compilation of BoP Statistics as per the guidelines under the Balance of Payments and International Investment Position Manual (6th edition) (BPM6) of the IMF, the scope of collection of data on foreign exchange transactions has to be widened. The *Working Group on* *Balance of Payments Manual for India (Chairman: Shri Deepak Mohanty)* constituted by the Reserve Bank *inter alia* reviewed the existing methodology for compilation of India’s BoP consistent with BPM6 guidelines. The Working Group made several recommendations for improving the present compilation procedure as well as presentation of India’s BoP statistics conforming to international best practices (For details, see report at web-link: <u>[http://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/IBPM221110R.pdf](http://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/IBPM221110R.pdf)</u>)
+
+In order to meet those national perspectives, the purpose codes have been revised and given in Annex I and the structures of four ASCII files to be submitted under FETERS are given in Annex II. The revised system is for reporting of R-Returns for forex transactions performed w.e.f. April 1, 2012.
+
+**Reporting to RBI:** Banks may submit datafiles on a fortnightly basis (i.e., 15th and end-month), as at present, by email to rreturn@rbi.org.in within one week of the last date of the fortnight. The electronic reporting system is in addition to the submission of R-Return cover page.
+
+**Naming Convention:** The file name should start with “BANKCODE_” for each FETERS file to be submitted to the Reserve Bank. For example, if bank code is 639, the file name should be:
+
+- 639_BOP6.TXT for BoP6 file
+- 639_ENC.txt for ENC file
+- 639_sch3to6.txt for SCH3to6 file
+- 639_QE.txt for QE file
+**File Layout Changes:** A comparison of the file layouts with the previous version is given below:
+
+## File Name Reason
+
+|Sl.|Previous|Revised||
+|---|---|---|---|
+|No.|Width|Width||
+|1 BankCode_BOP6.txt|59|63|Amount width increased to 15|
+|2 BankCode_ENC.txt|92|103|Invoice value width increased to 15 Shipping_bill_No. width increased to 13 CSN width increased to 14|
+|3 BankCode_SCH3TO6.txt|83|95|Invoice Value width increased to 15 Realised Value width increased to 15 Shipping_bill_No. width increased to 13|
+|4 BankCode_QE.txt|41|45|Amount width increased to 15|
+|5 BankCode_URS6.txt|||Discontinued|
+
+<!-- PAGE 4 -->
+
+**Delimiter:** The FETERS files should be ASCII files with one record per line. All fields in each file should be delimited with the delimiter “|”
+
+**Reporting of Non-applicable items:** In cases where an item is not be relevant for a set of transactions of certain purposes, irrelevant fields/ data items may be kept blank in the text file. Structure of this file has been designed in such a way that, many blank fields do not appear in between two relevant fields.
+
+**Consistency Checks:** In order to ensure accurate reporting of data by ADs, FETERS contains consistency checks. These checks need to be ensured for the entire fortnight and relevant with currency-wise x item- wise cover-page totals. Checks are also introduced for checking the closing balances using the following relationship before submitting data to the Reserve Bank: Closing Balances = Opening Balances + Total Purchases-Total Sales
+
+**Inter-relationship among FETERS files:** The following inter-relationship among files BOP6.TXT, QE.TXT and R-Return cover page should be ensured.
+
+|Name|Coverage (Transactions to be reported ) in File|Coverage in File|Item No.|
+|---|---|---|---|
+||BOP6.TXT|QE.TXT*|R-Return (Nostro)|
+|Imports|All the individual transactions below Rs.5 lakh|Purpose code S0190 ~|I. A. (i)|
+|(S0101, S0102, S0103||Aggregate figure||
+|& S0109)|All the individual transactions above or equivalent of Rs.5 lakh|Purpose code S0191 ~ Aggregate figure|I. A. (ii)|
+|Intermediary imports|All the individual transactions|Purpose code S0144 ~|I. B.|
+|(S0104 & S0108)||Aggregate figure||
+|Non-import (Other than|All the individual transactions below Rs.5 lakh|Purpose code S1590 ~|I. C. (i)|
+|Imports)||Aggregate figure||
+||All the individual transactions above or equivalent of Rs.5 lakh|Purpose code S1591 ~ Aggregate figure|I. C. (ii)|
+|Sale to Other ADs in|No individual Transaction to be Reported|Purpose code S0092 ~|I. D|
+|India||Aggregate figure||
+|Sale to RBI|No individual Transaction to be Reported|Purpose code S0091 ~ Aggregate figure|I. E|
+|Sales to Overseas|No individual Transaction to be Reported|Purpose code S0093 ~|I. F|
+|Banks / correspondents||Aggregate figure||
+|Sales to branches by A-|No individual Transaction to be Reported|Purpose code S0095 ~|No|
+|Category||Aggregate figure|reporting|
+|Exports|All the individual transactions (i.e. N/P/D, advance|Purpose code P0100 ~|Total of II.|
+|(P0101, P0102, P0103 & P0109)|received during fortnight, Collection realised during fortnight)|Aggregate figure|A(i) (a), II. A(i) (b), II.|
+||||A(ii)|
+|Intermediary exports|All the individual transactions|Purpose code P0144 ~|II. B.|
+|(P0104 & P0108)||Aggregate figure||
+
+<!-- PAGE 5 -->
+
+|Non-Export (Other than Exports)|All the individual transactions related to Non- Export (Other than Exports) below equivalent of Rs.5 lakh|Purpose code P1590 ~ Aggregate figure|II. C(i).|
+|---|---|---|---|
+||All the individual transactions related to Non- Export (Other than Exports) above or equivalent of Rs 5 lakh|Purpose code P1591 ~ Aggregate figure|II. C(ii).|
+|Purchase from Other ADs in India|No individual Transaction to be Reported|Purpose code P0092 ~ Aggregate figure|II. D|
+|Purchase from RBI|No individual Transaction to be Reported|Purpose code P0091 ~ Aggregate figure|II. E|
+|Purchases from Overseas Banks / correspondents|No individual Transaction to be Reported|Purpose code P0093 ~ Aggregate figure|II. F|
+|Purchases from branches by A- Category|No individual Transaction to be Reported|Purpose code P0095 ~ Aggregate figure|No reporting|
+|Opening Balance||With purpose code P2088/S2088|Net amount (Total III A to III H)|
+|Closing Balance Helpdesk: The Director, Reserve Bank of India, Mumbai - 400 051 Helpdesk Contacts: e-mail :|*In case of Nostro, Currency wise fortnightly aggregate; in case of Vostro, Currency X Country of Vostro A/C holder wise fortnightly aggregate To ensure accuracy of the format of the ASCII file generated by their interface, if necessary, ADs may contact us for guidance at the following address: Balance of Payments Statistics Division, Department of Statistics and Information Management (DSIM) C-8/9, Bandra-Kurla Complex, feters@rbi.org.in|With purpose code P2199/S2199|Net amount (Total IV A to IV H)|
+
+Tel No. : (022) 26578700 / 26578359 / 26572695 Fax No. : (022) 26570848 / 26571265 / 26572319
+
+<!-- PAGE 6 -->
+
+# Annex I: Purpose Codes for Reporting under FETERS
+
+**A. Payment Purposes** (for use in BOP file)
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+|Group Name|Code||
+|---|---|---|
+|Capital|S0017|Acquisition of non-produced non-financial assets (Purchase of|
+|Account||intangible assets like patents, copyrights, trademarks etc., land acquired by government, use of natural resources) – Government|
+||S0019|Acquisition of non-produced non-financial assets (Purchase of intangible assets like patents, copyrights, trademarks etc., use of natural resources) – Non-Government|
+||S0026|Capital transfers ( Guarantees payments, Investment Grand given by the government/international organisation, exceptionally large Non- life insurance claims) – Government|
+||S0027|Capital transfers ( Guarantees payments, Investment Grand given by the Non-government, exceptionally large Non-life insurance claims) – Non-Government|
+|Financial Account|S0099|Other capital payments not included elsewhere|
+|Foreign Direct|S0003|Indian Direct investment abroad (in branches & wholly owned|
+|Investments||subsidiaries) in equity Shares|
+||S0004|debt instruments|
+||S0005|Indian investment abroad – in real estate|
+||S0006|Repatriation of Foreign Direct Investment made by overseas Investors in India – in equity shares|
+||S0007|Repatriation of Foreign Direct Investment in made by overseas Investors India – in debt instruments|
+||S0008|Repatriation of Foreign Direct Investment made by overseas Investors in India – in real estate|
+|Foreign|S0001|Indian Portfolio investment abroad – in equity shares|
+|Portfolio|S0002|Indian Portfolio investment abroad – in debt instruments|
+|Investments|S0009|Repatriation of Foreign Portfolio Investment made by overseas Investors in India – in equity shares|
+||S0010|Repatriation of Foreign Portfolio Investment made by overseas Investors in India – in debt instruments|
+|External|S0011|Loans extended to Non-Residents|
+|Commercial|S0012|Repayment of long & medium term loans with original maturity|
+|Borrowings||above one year received from Non-Residents|
+|Short term|S0013|Repayment of short term loans with original maturity up to one year|
+|Loans||received from Non-Residents|
+|Banking|S0014|Repatriation of Non-Resident Deposits (FCNR(B)/NR(E)RA etc)|
+|Capital|S0015|Repayment of loans & overdrafts taken by ADs on their own account.|
+||S0016|Sale of a foreign currency against another foreign currency|
+
+Indian Direct investment abroad (in subsidiaries and associate<s>s)</s> in
+
+<!-- PAGE 7 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+Financial S0020 Payments made on account of margin payments, premium payment Derivatives and and settlement amount etc. under Financial derivative transactions. Others S0021 Payments made on account of sale of share under Employee stock option S0022 Investment in Indian Depositories Receipts (IDRs) S0023 Remittances made under Liberalised Remittance Scheme (LRS) for Individuals External S0024 External Assistance extended by India. *e.g.* Loans and advances Assistance extended by India to Foreign governments under various agreements S0025 Repayments made on account of External Assistance received by India. 01 *Imports* S0101 Advance payment against imports made to countries other than Nepal and Bhutan S0102 Payment towards imports- settlement of invoice other than Nepal and Bhutan S0103 Imports by diplomatic missions other than Nepal and Bhutan S0104 Intermediary trade/transit trade, *i.e.,* third country export passing through India S0108 Goods acquired under merchanting / Payment against import leg of merchanting trade* S0109 Payments made for Imports from Nepal and Bhutan, if any 02 Transport S0201 Payments for surplus freight/passenger fare by foreign shipping companies operating in India S0202 Payment for operating expenses of Indian shipping companies operating abroad S0203 Freight on imports – Shipping companies S0204 Freight on exports – Shipping companies S0205 Operational leasing/Rental of Vessels (with crew) –Shipping companies S0206 Booking of passages abroad – Shipping companies S0207 Payments for surplus freight/passenger fare by foreign Airlines companies operating in India S0208 Operating expenses of Indian Airlines companies operating abroad S0209 Freight on imports – Airlines companies S0210 Freight on exports – Airlines companies S0211 Operational leasing / Rental of Vessels (with crew) – Airline companies S0212 Booking of passages abroad – Airlines companies S0214 Payments on account of stevedoring, demurrage, port handling charges etc.(Shipping companies) S0215 Payments on account of stevedoring, demurrage, port handling charges, etc.(Airlines companies) ___ ____________ S0216 Payments for Passenger-Shipping companies
+
+<!-- PAGE 8 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+S0217 Other payments by Shipping companies S0218 Payments for Passenger-Airlines companies 02 Transport S0219 Other Payments by Airlines companies S0220 Payments on account of freight under other modes of transport (Internal Waterways, Roadways, Railways, Pipeline transports and others) S0221 Payments on account of passenger fare under other modes of transport (Internal Waterways, Roadways, Railways, Pipeline transports and others) S0222 Postal & Courier services by Air S0223 Postal & Courier services by Sea S0224 Postal & Courier services by others 03 Travel S0301 Business travel. S0303 Travel for pilgrimage S0304 Travel for medical treatment S0305 Travel for education (including fees, hostel expenses etc.) S0306 Other travel (including holiday trips and payments for settling international credit cards transactions) 05 Construction S0501 Construction of projects abroad by Indian companies including Services import of goods at project site abroad S0502 cost of construction etc. of projects executed by foreign companies in India.
+
+06 Insurance and S0601 Life Insurance premium except term insurance Pension S0602 Freight insurance – relating to import & export of goods Services S0603 Other general insurance premium including reinsurance premium; and term life insurance premium S0605 Auxiliary services including commission on insurance S0607 Insurance claim Settlement of non-life insurance; and life insurance (only term insurance) S0608 Life Insurance Claim Settlements S0609 Standardised guarantee services S0610 Premium for pension funds S0611 Periodic pension entitlements e.g. monthly quarterly or yearly payments of pension amounts by Indian Pension Fund Companies. S0612 Invoking of standardised guarantees
+
+07 Financial S0701 Financial intermediation, except investment banking-Bank charges, Services collection charges, LC charges etc.
+
+S0702 Investment banking – brokerage, under writing commission etc. S0703 Auxiliary services – charges on operation & regulatory fees, custodial services, depository services etc.
+
+<!-- PAGE 9 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+08 Telecommunic S0801 Hardware consultancy/implementation ation, <u>S0802</u> Software consultancy / implementation Computer & S0803 Data base, data processing charges Information S0804 Repair and maintenance of computer and software Services S0805 News agency services S0806 Other information services- Subscription to newspapers, periodicals S0807 Off-site software imports S0808 Telecommunication services including electronic mail services and voice mail services S0809 Satellite services including space shuttle and rockets etc.
+
+09 Charges for the S0901 Franchises services use of S0902 Payment for use, through licensing arrangements, of produced intellectual originals or prototypes (such as manuscripts and films), patents, property n.i.e copyrights, trademarks and industrial processes etc.
+
+10 Other Business S1002 Trade related services – commission on exports / imports Services S1003 Operational leasing services (other than financial leasing) without operating crew, including charter hire- Airlines companies
+
+S1004 Legal services S1005 Accounting, auditing, book-keeping services S1006 Business and management consultancy and public relations services S1007 Advertising, trade fair service S1008 Research & Development services S1009 Architectural services S1010 Agricultural services like protection against insects & disease, increasing of harvest yields, forestry services. S1011 Payments for maintenance of offices abroad S1013 Environmental Services S1014 Engineering Services S1015 Tax consulting services S1016 Market research and public opinion polling service S1017 Publishing and printing services <u>S1018</u> Mining services like on–site processing services analysis of ores etc. S1020 Commission agent services S1021 Wholesale and retailing trade services. S1022 Operational leasing services (other than financial leasing) without operating crew, including charter hire- Shipping companies S1023 Other Technical Services including scientific/space services. S1099 Other services not included elsewhere
+
+<!-- PAGE 10 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+11 Personal, S1101 Audio-visual and related services like Motion picture and video tape Cultural & production, distribution and projection services. Recreational S1103 Radio and television production, distribution and transmission services services <u>S1104</u> Entertainment services S1105 Museums, library and archival services S1106 Recreation and sporting activities services S1107 Education (e.g. fees for correspondence courses abroad ) S1108 Health Service (payment towards services received from hospitals, doctors, nurses, paramedical and similar services etc. rendered remotely or on-site) S1109 Other Personal, Cultural & Recreational services 12 Govt. not S1201 Maintenance of Indian embassies abroad included S1202 Remittances by foreign embassies in India elsewhere (G.n.i.e.) 13 Secondary S1301 Remittance for family maintenance and savings Income S1302 Remittance towards personal gifts and donations
+
+S1303 Remittance towards donations to religious and charitable institutions abroad S1304 Remittance towards grants and donations to other governments and charitable institutions established by the governments. S1305 Contributions/donations by the Government to international institutions S1306 Remittance towards payment / refund of taxes. S1307 Outflows on account of migrant transfers including personal effects 14 Primary S1401 Compensation of employees In**co**me S1402 Remittance towards interest on Non-Resident deposits (FCNR(B)/NR(E)RA, etc.) S1403 Remittance towards interest on loans from Non-Residents (ST/MT/LT loans) e.g. External Commercial Borrowings, Trade Credits, etc. S1405 Remittance towards interest payment by ADs on their own account (to VOSTRO a/c holders or the OD on NOSTRO a/c.) S1408 Remittance of profit by FDI enterprises in India (by branches of foreign companies including bank branches) S1409 Remittance of dividends by FDI enterprises in India (other than branches) on equity and investment fund shares S1410 Payment of interest by FDI enterprises in India to their Parent company abroad. S1411 Remittance of interest income on account of Portfolio Investment in India S1412 Remittance of dividends on account of Portfolio Investment in India on equity and investment fund shares
+
+<!-- PAGE 11 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+15 Others S1501 Refunds / rebates / reduction in invoice value on account of exports S1502 Reversal of wrong entries, refunds of amount remitted for non- exports S1503 Payments by residents for international bidding S1504 Notional sales when export bills negotiated/ purchased/ discounted are dishonored/ crystallised/ cancelled and reversed from suspense account S1505 Deemed Imports (exports between SEZ, EPZs and Domestic tariff areas) 16 Maintenance S1601 Payments on account of maintenance and repair services rendered for and repair Vessels, ships, boats, warships, etc. services n.i.e S1602 Payments on account of maintenance and repair services rendered for aircrafts, space shuttles, rockets, military aircrafts, helicopters, etc. 17 Manufacturing S1701 Payments for processing of goods services (goods <u>for processing)</u>
+
+<!-- PAGE 12 -->
+
+**B. Receipt Purposes** (for use in BOP file)
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+|No.|Group Name|Code|
+|---|---|---|
+|00|Capital|P0017|
+
+Receipts on account of Sale of non-produced non-financial assets Account (Sale of intangible assets like patents, copyrights, trademarks etc., land acquired by government, use of natural resources) – Government P0019 Receipts on account of Sale of non-produced non-financial assets (Sale of intangible assets like patents, copyrights, trademarks *etc*., use of natural resources) – Non-Government P0028 Capital transfer receipts (Guarantee payments, Investment Grant given by the government/international organisation, exceptionally large Non-life insurance claims including claims arising out of natural calamity) - Government P0029 Capital transfer receipts ( Guarantee payments, Investment Grant given by the Non-government, exceptionally large Non-life insurance claims including claims arising out of natural calamity) – Non-Government P0099 Other capital receipts not included elsewhere <u>Financial Account</u> Foreign Direct P0003 Repatriation of Indian Direct investment abroad (by branches & Investment wholly owned subsidiaries and associates) in equity shares P0004 Repatriation Indian Direct investment abroad (by branches & wholly owned subsidiaries and associates) in debt instruments P0005 Repatriation of Indian investment abroad in real estate P0006 Foreign Direct Investment made by overseas Investors in India in equity shares P0007 Foreign Direct Investment made by overseas Investors in India in debt instruments. P0008 Foreign Direct Investment made by overseas Investors in India in real estate Repatriation of Indian Portfolio investment abroad in equity capital
+
+|Foreign|P0001|
+|---|---|
+|Portfolio||
+|Investment|P0002|
+||P0009|
+||P0010|
+|External|P0011|
+|Commercial Borrowings|P0012|
+|Short term|P0013|
+
+(shares) Repatriation of Indian Portfolio investment abroad in debt instruments. Foreign Portfolio Investment made by overseas Investors in India in equity shares Foreign Portfolio Investment made by overseas Investors in India in debt Instruments.
+
+Repayment of loans extended to Non-Residents Long & medium term loans, with original maturity of above one year, from Non-Residents to India (External Commercial Borrowings) Short term loans with original maturity upto one year from Non- credits Residents to India (Short-term Trade Credit)
+
+<!-- PAGE 13 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+Banking P0014 Receipts o/a Non-Resident deposits (FCNR(B)/NR(E)RA, etc.) Capital {ADs should report these even if funds are not “swapped” into Rupees} P0015 Loans & overdrafts taken by ADs on their own account. (Any amount of loan credited to the NOSTRO account which may not be swapped into Rupees should also be reported) P0016 Purchase of a foreign currency against another currency. Receipts on account of margin payments, premium payment and
+
+|Financial|P0020|
+|---|---|
+|Derivatives and||
+|Others|P0021|
+||P0022|
+|External Assistance|P0024|
+||P0025|
+|01 Exports (of|P0101|
+
+settlement amount etc. under Financial derivative transactions Receipts on account of sale of share under Employee stock option Receipts on account of other investment in ADRs/GDRs External Assistance received by India
+
+e.g. Multilateral and bilateral loans received by Govt. of India under agreements with other govt. / international institutions. Repayments received on account of External Assistance extended by India Value of export bills negotiated / purchased/discounted etc.
+Goods) (covered under GR/PP/SOFTEX/EC copy of shipping bills etc.) – Other than Nepal and Bhutan P0102 Realisation of export bills (in respect of goods) sent on collection (full invoice value) – Other than Nepal and Bhutan P0103 Advance receipts against export contracts, which will be covered later by GR/PP/SOFTEX/SDF – other than Nepal and Bhutan P0104 Receipts against export of goods not covered by the GR /PP /SOFTEX /EC copy of shipping bill etc. (under Intermediary/transit trade, i.e., third country export passing through India P0105 Export bills (in respect of goods) sent on collection – other than Nepal and Bhutan P0107 Realisation of NPD export bills (full value of bill to be reported) – other than Nepal and Bhutan P0108 Goods sold under merchanting / Receipt against export leg of merchanting trade* P0109 <u>Export realisation on account of exports to Nepal and Bhutan, if any</u> 02 Transport P0201 Receipts of surplus freight/passenger fare by Indian shipping companies operating abroad P0202 Receipts on account of operating expenses of Foreign shipping companies operating in India P0205 Receipts on account of operational leasing (with crew) – Shipping companies P0207 Receipts of surplus freight/passenger fare by Indian Airlines companies operating abroad. P0208 Receipt on account of operating expenses of Foreign Airlines companies operating in India P0211 Receipt on account of operational leasing (with crew) – Airlines companies ____ _____________ P0214 Receipts on account of other transportation services (stevedoring,
+
+<!-- PAGE 14 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+|No.|Group Name|Code|
+|---|---|---|
+|||P0215|
+|02|Transport|P0216|
+
+demurrage, port handling charges etc).(Shipping Companies) Receipts on account of other transportation services (stevedoring, demurrage, port handling charges etc).( Airlines companies) Receipts of freight fare -Shipping companies operating abroad P0217 Receipts of passenger fare by Indian Shipping companies operating abroad P0218 Other receipts by Shipping companies P0219 Receipts of freight fare by Indian Airlines companies operating abroad P0220 Receipts of passenger fare –Airlines P0221 Other receipts by Airlines companies P0222 Receipts on account of freights under other modes of transport (Internal Waterways, Roadways, Railways, Pipeline transports and Others) P0223 Receipts on account of passenger fare under other modes of transport (Internal Waterways, Roadways, Railways, Pipeline transports and Others) P0224 Postal & Courier services by Air P0225 Postal & Courier services by Sea P0226 Postal & Courier services by others 03 Travel P0301 Purchases towards travel (Includes purchases of foreign TCs, currency notes etc over the counter, by hotels, Emporiums, institutions etc. as well as amount received by TT/SWIFT transfers or debit to Non-Resident account). <u>P0302</u> Business travel P0304 Travel for medical treatment including TCs purchased by hospitals P0305 Travel for education including TCs purchased by educational institutions P0306 Other travel receipts P0308 Foreign Currencies/TCs surrendered by returning Indian tourists. 05 Construction P0501 Receipts on account of services relating to cost of construction of Services projects in India P0502 Receipts on account of construction works carried out abroad by Indian Companies 06 Insurance and P0601 Life Insurance premium except term insurance Pension P0602 Freight insurance – relating to import & export of goods Services P0603 Other general insurance premium including reinsurance premium; and term life insurance premium P0605 Auxiliary services including commission on insurance P0607 Insurance claim Settlement of non-life insurance; and life insurance (only term insurance) P0608 Life insurance claim settlements (excluding term insurance) received by residents in India P0609 Standardised guarantee services P0610 Premium for pension funds
+
+<!-- PAGE 15 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+P0611 Periodic pension entitlements e.g. monthly quarterly or yearly payments of pension amounts by Indian Pension Fund Companies. P0612 Invoking of standardised guarantees 07 Financial P0701 Financial intermediation except investment banking – Bank charges, Services collection charges, LC charges, etc. P0702 Investment banking – brokerage, under writing commission etc. P0703 Auxiliary services – charges on operation & regulatory fees, custodial services, depository services etc. 08 Telecommunica P0801 Hardware consultancy/implementation tion, Computer P0802 Software consultancy/implementation (other than those covered in & Information SOFTEX form) Services P0803 Data base, data processing charges P0804 Repair and maintenance of computer and software P0805 News agency services P0806 Other information services- Subscription to newspapers, periodicals, etc. P0807 Off-site Software Exports P0808 Telecommunication services including electronic mail services and voice mail services P0809 Satellite services including space shuttle and rockets, etc. 09 Charges for the P0901 Franchises services use of P0902 Receipts for use, through licensing arrangements, of produced intellectual originals or prototypes (such as manuscripts and films), patents, property n.i.e copyrights, trademarks, industrial processes, franchises etc. 10 Other Business P1002 Trade related services – commission on exports / imports Services P1003 Operational leasing services (other than financial leasing) without operating crew, including charter hire- Airlines companies <u>P1004</u> Legal services P1005 Accounting, auditing, book keeping services P1006 <u>Business and management consultancy and public relations services</u> P1007 Advertising, trade fair service P1008 Research & Development services <u>P1009</u> Architectural services P1010 Agricultural services like protection against insects & disease, increasing of harvest yields, forestry services. P1011 Inward remittance for maintenance of offices in India P1013 Environmental Services P1014 Engineering Services P1015 Tax consulting services P1016 Market research and public opinion polling service P1017 Publishing and printing services P1018 <u>Mining services like on–site processing services analysis of ores etc.</u> P1019 Commission agent services P1020 Wholesale and retailing trade services. P1021 Operational leasing services (other than financial leasing) without operating crew, including charter hire- Shipping companies
+
+<!-- PAGE 16 -->
+
+## Gr. Purpose Purpose Description
+
+## No. Group Name Code
+
+|No.|Group Name|Code|
+|---|---|---|
+|||P1022|
+|||P1099|
+|11|Personal, Cultural &|P1101|
+||Recreational|P1103|
+
+Other Technical Services including scientific/space services. Other services not included elsewhere Audio-visual and related services like Motion picture and video tape production, distribution and projection services. Radio and television production, distribution and transmission services services <u>P1104</u> Entertainment services P1105 Museums, library and archival services P1106 Recreation and sporting activity services P1107 Educational services (e.g. fees received for correspondence courses offered to non-resident by Indian institutions) P1108 Health Service (Receipts on account of services provided by Indian hospitals, doctors, nurses, paramedical and similar services etc. rendered remotely or on-site) P1109 Other Personal, Cultural & Recreational services Maintenance of foreign embassies in India
+
+|12|Govt. not|P1201|
+|---|---|---|
+||included elsewhere (G.n.i.e.)|P1203|
+|13|Secondary|P1301|
+
+Maintenance of international institutions such as offices of IMF mission, World Bank, UNICEF etc. in India.
+
+Inward remittance from Indian non-residents towards family Income maintenance and savings P1302 Personal gifts and donations P1303 Donations to religious and charitable institutions in India P1304 Grants and donations to governments and charitable institutions established by the governments P1306 Receipts / Refund of taxes P1307 Receipts on account of migrant transfers including Personal Effects 14 Primary P1401 Compensation of employees Income P1403 Inward remittance towards interest on loans extended to non- residents (ST/MT/LT loans) P1405 Inward remittance towards interest receipts of ADs on their own account (on investments.) P1408 Inward remittance of profit by branches of Indian FDI Enterprises (including bank branches) operating abroad. P1409 Inward remittance of dividends (on equity and investment fund shares) by Indian FDI Enterprises, other than branches, operating abroad P1410 Inward remittance on account of interest payment by Indian FDI enterprises operating abroad to their Parent company in India. P1411 Inward remittance of interest income on account of Portfolio Investment made abroad by India P1412 Inward remittance of dividends on account of Portfolio Investment made abroad by India on equity and investment fund shares P1499 Other income receipts
+
+<!-- PAGE 17 -->
+
+|Gr. No.|Purpose Group Name|Purpose Code|Description|
+|---|---|---|---|
+|15 16|Others Maintenance P1601 and repair|P1501 P1502 P1503 P1505|Refunds / rebates on account of imports Reversal of wrong entries, refunds of amount remitted for non- imports Remittances (receipts) by residents under international bidding process. Deemed Exports (exports between SEZ, EPZs and Domestic Tariff Areas) Receipts on account of maintenance and repair services rendered for Vessels, Ships, Boats, Warships, etc.|
+||services n.i.e|P1602|Receipts of maintenance and repair services rendered for aircrafts, Space shuttles, Rockets, military aircrafts, etc.|
+|17|Manufacturing services|P1701|Receipts on account of processing of goods|
+
+<!-- PAGE 18 -->
+
+**C. Cover Page Purpose Codes** (for use in QE file)
+## Gr. Purpose Group Purpose Description
+
+## No. Name Code
+
+99 Cover Page Total P0091 Purchase from Reserve Bank of India (Currency-wise Totals) P0092 Purchase from other ADs in India (Currency-wise Totals) Purchase from Overseas banks & correspondents (Currency-wise P0093 Totals) debit from the vostro a/c of overseas bank or correspondents P0094 (Country-wise Totals) P0095 Aggregate Purchases at Branches (Currency-wise Totals) Exports (Totals) {N/P/D + Collection bills Realised during Fortnight + Advance received during Fortnight} (Purchases from P0100 Public against exports (Currency-wise Totals)} Purchases from Public against third country exports (Currency-wise P0144 Totals) P1590 receipts below Rs. 5 lakhs (Currency-wise Totals) P1591 <u>Non-Exports equivalent & above Rs.5 lakhs (Currency-wise Totals)</u> S0091 Sales to Reserve Bank of India (Currency-wise Totals) S0092 Sales to other ADs in India (Currency-wise Totals) S0093 Sales to Overseas banks & correspondents (Currency-wise Totals) credit to the vostro a/c of overseas bank or correspondents S0094 (Country-wise Totals) S0095 Aggregate Sales at Branches (Currency-wise Totals) Sales to Public against Imports into other countries (Currency-wise S0144 Totals) S0190 Imports below Rs.5 lakhs(Currency-wise Totals) S0191 Imports equivalent & above Rs.5lLakhs (Currency-wise Totals) S1590 Non-Imports payment below Rs 5 lakhs (Currency-wise Totals) S1591 <u>Non-Imports equivalent & above Rs.5 lakhs (Currency-wise Totals)</u> Cover Page P2088 <u>Opening Balance (Debit Balance in Mirror/Debit Balance in Vostro)</u> Balance P2199 <u>Closing Balance (Debit Balance in Mirror/Debit Balance in Vostro)</u> Opening Balance (Credit Balance in Mirror/Credit Balance in S2088 Vostro) Closing Balance (Credit Balance in Mirror/Credit Balance in S2199 Vostro)
+
+* - ‘Merchanting’ here refers to purchase/sale of goods from/to a non-resident combined with subsequent resale of the same goods to another non-resident without goods being present in the compiling economy (resident’s economy). Essentially, goods transaction would be termed as ‘merchanting’ if goods acquired do not enter the territory of the compiling (resident’s) economy and secondly, goods being acquired do not undergo any transformation before being resold or repurchased
+
+<!-- PAGE 19 -->
+
+## Annex II: FETERS File Layouts
+
+**1. BANKCODE_BOP6.TXT** relating to transactions involving sale and purchase of foreign exchange (excluding inter-office, inter-bank, RBI transactions) during the reporting fortnight
+
+|Field|Format|Remarks|
+|---|---|---|
+|AD Code|Char (7)|BSR Part-1 Uniform Code|
+|Fortnight-end Date|YYYYMMDD||
+|Transaction Date|YYYYMMDD|Valid date within fortnight|
+|Serial No.|Num. (4)||
+|Purpose Code|Char (5)|Purpose code starting with P/S (Part A/B of Annex I)|
+|Country Code|Char (2)|SWIFT code|
+|Currency Code|Char (3)|SWIFT code|
+|Amount [in Foreign Currency (FC)]|Num. (15)||
+|Date of Shipment|YYYYMMDD||
+|LC|char (1)|1 for Yes; 0 for No|
+|Country of Vostro a/c Holder|char (2)|SWIFT code|
+
+**2. BANKCODE_ENC.TXT** relating to physical exports, bills in respect of which were negotiated, purchased, discounted or sent for collection during the reporting period
+
+|Field|Format|Remarks|
+|---|---|---|
+|A.D. Code|Char (7)||
+|Fortnight-end date|YYYYMMDD||
+|Date of Negotiation|YYYYMMDD||
+|Bill Number|Char (7)|Internal to the Bank (e.g. N000001)|
+|Importer Exporter Code|Char (10)|As given by DGFT|
+|GR/PP/SOFTEX Form Number|Char (8)|e.g. AA000001 (for EDI transactions, pl indicate ZZ)|
+|Shipping Bill Number|Char (13)|EDI transactions: 7-digit Shipping bill|
+
+preceded by 6-digit port code (e.g.,INNSA19999999) <u>Non-EDI transactions</u>: 7-digit Shipping bill preceded by 6 zeros (e.g.,0000009999999)
+
+|Shipping Bill Date|YYYYMMDD|
+|---|---|
+|Custom Serial Number|Char (14)|
+|Currency|Char (3)|
+|Invoice Value (in Currency)|Num. (15)|
+|Country of Destination|Char (2)|
+
+6-digit port code + 2-digit calendar year of export + 6-digit Serial No.
+
+<!-- PAGE 20 -->
+
+**3. BANKCODE_SCH3TO6.TXT** (Schedules 3 to 6) relating to exports where full / part value has been realised / received in advance *[Sch.3: Realisation of Full amount (bill sent for collection); Sch.4:* *Realisation of Partial amount (bill sent for collection); Sch.5: Receipt of full advance; Sch.6: Receipt of* *partial advance]*
+
+|Field|Format|Remarks|
+|---|---|---|
+|A.D. Code|Char (7)||
+|Fortnight-end date|YYYYMMDD||
+|Transaction Date|YYYYMMDD||
+|Bill Number|Char (7)||
+|GR/PP/SOFTEX Form|Char (8)||
+|Number|||
+|Shipping Bill Number|Char (13)||
+|Shipping Bill Date|YYYYMMDD||
+|Currency|Char (3)||
+|Invoice Value|Num. (15)||
+|Realised Value|Num. (15)||
+|Country of Destination|Char (2)||
+|Schedule No.|Char (1)|e.g. 5 for Schedule 5|
+
+**4. BANKCODE_QE.TXT** for Cover Page Totals
+
+|Field|Format|Remarks|
+|---|---|---|
+|A.D. Code|Char (7)||
+|Fortnight-end date|YYYYMMDD||
+|Serial Number|Num. (4)||
+|Purpose Code|Char (5)|As per Part C of Annex I|
+|Country of Vostro A/c holder|Char (2)||
+|Currency|Char (3)||
+|Amount in Currency|Num. (15)||
+|Return (Vostro/Nostro)|Char (1)|V for Vostro; N for Nostro|
+
+## Related Press Release
+
+<u>Feb 29, 2012 Compilation of R-Returns : Reporting under FETERS</u>

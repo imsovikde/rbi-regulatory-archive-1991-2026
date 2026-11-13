@@ -1,0 +1,66 @@
+---
+doc_id: "Notifications_2012_7074"
+title: "Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – National Australia Bank"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NABIS190312.pdf"
+pdf_sha256: "60b7842e96ee2560b0e286ea7697a5804b4c9bce53a3695b485e1c87d87fd64e"
+md_sha256: "011ae2843319ddf8c1a9fb61012e95ad8b778081b50e0bf6bddb53e35d25361c"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:28:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-19_Notification_7074_Inclusion%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20National%20Australia%20Bank.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – National Australia Bank
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/456
+
+Ref:DBOD.No.Ret.BC.88/12.06.134/2011-12
+
+March 19, 2012
+
+All Scheduled Commercial Banks
+
+Dear Sir,
+
+InclusionintheSecondScheduletotheReserveBankofIndiaAct,1934-
+
+National Australia Bank
+
+We advise that the name of "National Australia Bank" has been included in the Second
+
+Schedule to the Reserve Bank of India Act, 1934 by notification DBOD. IBD. No. 10193 /
+
+23.13.085/2011-12 dated January 09, 2012, published in the Gazette of India (Part Ill -
+
+Section 4) dated February 04, 2012.
+
+Yours faithfully,
+
+(P. R. Ravi Mohan)
+
+Chief General Manager
+
+Department of Banking Operations and Development,Central Office, Centre 1, Cuffe Parade, Colaba,Mumbai -400005
+
+TelNo:91-22-22150409FaxNo:91-22-22150772EmailID:returnsc0@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## DBOD.IBD.No.10193/23.13.085/2011-12 January 9, 2012
+
+## Notification
+
+In pursuance of Clause (a) of sub-section (6) of Section 42 of the Reserve Bank of India Act, 1934 (2 of 1934), the Reserve Bank of India hereby directs the inclusion in the Second Schedule to the said Act of the following bank namely: **“National Australia Bank”**
+
+(B. Mahapatra) Executive Director

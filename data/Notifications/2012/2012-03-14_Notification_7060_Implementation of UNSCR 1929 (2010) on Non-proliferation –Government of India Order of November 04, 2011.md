@@ -1,0 +1,30 @@
+---
+doc_id: "Notifications_2012_7060"
+title: "Implementation of UNSCR 1929 (2010) on Non-proliferation –Government of India Order of November 04, 2011"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CNPGI140312.pdf"
+pdf_sha256: "2f17ec41345d9c0150b08226bc286adbdefe41afabca97887f67e8e671d89b5b"
+md_sha256: "7d86f36dbea98db88af60f6fbd3cdabda746fe10af1675e94800ec2c48b96da1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-14_Notification_7060_Implementation%20of%20UNSCR%201929%20%282010%29%20on%20Non-proliferation%20%E2%80%93Government%20of%20India%20Order%20of%20November%2004%2C%202011.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of UNSCR 1929 (2010) on Non-proliferation –Government of India Order of November 04, 2011
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/442 DNBS(PD).CC. No 258 /03.10.42 /2011-12 March 14, 2012
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir, **Implementation of UNSCR 1929 (2010) on Non-proliferation –Government of India** **Order of November 04, 2011**
+
+Please find <u>enclosed a copy</u> of Ministry of External Affairs Order dated November 4, 2011 published in the Gazette of India on implementation of United Nations Security Council Resolution 1929 (2010).
+
+2. Utmost care should be taken by NBFCs/RNBCs to ensure to cross check all account opening applications and transactions carried out in the existing accounts with the list of individuals / entities enlisted in the Gazette and report those accounts to Reserve Bank of India and Financial Intelligence Unit-India which bear resemblance with the individuals / entities listed therein. Yours faithfully, (Dr Tuli Roy) Deputy General Manager Encl: as above

@@ -1,0 +1,118 @@
+---
+doc_id: "Notifications_2012_7047"
+title: "Clarification - Liberalised Remittance Scheme for Resident Individuals"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR90060312.pdf"
+pdf_sha256: "97fb8ba3abd74f2a4cbffe6cde740ef3bbb0fe840d9b829942cd57dec605daa2"
+md_sha256: "c114f3d871133d148ae9b3f213a40d87212216229abe5d5ca01581565a15ca95"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-06_Notification_7047_Clarification%20-%20Liberalised%20Remittance%20Scheme%20for%20Resident%20Individuals.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Clarification - Liberalised Remittance Scheme for Resident Individuals
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2011-12/430 March 06, 2012 A.P. (DIR Series) Circular No. 90
+
+To, All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Clarification-Liberalised Remittance Scheme for Resident Individuals
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to
+
+<u>A. P. (DIR Series) Circular No. 64 dated February 4, 2004</u>, as amended form time to time, <u>A. P. (DIR Series) Circular No. 24 dated December 20, 2006</u>, <u>A.P. (DIR</u> <u>Series) Circular No. 9 dated September 26, 2007</u>, <u>A.P. (DIR Series) Circular No.</u> <u>51 dated May 8, 2007</u> and <u>A.P. (DIR Series) Circular No. 32 dated October 10,</u> <u>2011</u> on the Liberalised Remittance Scheme for Resident Individuals (the Scheme).
+2. In this regard, it is clarified that:
+i. The facility is available to all resident individuals including minors. In case of remitter being a minor, the LRS declaration form should be countersigned by the minor’s natural guardian. Accordingly, the modified LRS application cum declaration form is enclosed; ii. Remittances under the facility can be consolidated in respect of family members subject to individual family members complying with the terms and conditions of the scheme; and
+iii. Remittances under the scheme can be used for purchasing objects of art subject to the provisions of other applicable laws such as the extant Foreign Trade Policy of the Government of India.
+
+3. All other terms and conditions mentioned in the afore-mentioned Circulars shall remain unchanged.
+
+<!-- PAGE 2 -->
+
+4. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this Circular have been issued under sections 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Meena Hemchandra)
+
+## Chief General Manager In-Charge
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## [Annex to A. P. (DIR Series) Circular No. 90 dated March 06, 2012]
+
+## Application cum Declaration for purchase of foreign exchange under the
+
+## Liberalised Remittance Scheme of USD 200,000 for Resident individuals
+
+(To be completed by the applicant)
+
+## I. Details of the applicant
+
+a. Name …………………………..
+b. Address…………………………
+c. Account No……………………..
+d. PAN No………………………….
+## II. Details of the foreign exchange required
+
+1. Amount (Specify currency)………………………………
+2. Purpose ……………………………………………………
+## III. Source of funds: ………………………………………….
+
+## IV. Nature of instrument
+
+Draft……………………….. Direct remittance…………
+
+## V. Details of the remittance made under the Scheme in the financial year
+
+## (April- March) 20__ – 20__
+
+Date :……………… Amount :………….
+
+## VI. Details of the Beneficiary
+
+1. Name ……………………..
+2. Address ……………………
+3. Country …………………… 4*. Name and address of the bank………………………. 5*. Account No…………………………………………….. (* Required only when the remittance is to be directly credited to the bank account of the beneficiary)
+## This is to authorize you to debit my account and effect the foreign exchange
+
+## remittance/ issue a draft as detailed above (strike out whichever is not applicable).
+
+## Declaration
+
+*I, ………………. …………(Name), hereby declare that the total amount of foreign*
+
+*exchange purchased from or remitted through, all sources in India during the*
+
+*financial year as per item No. V of the Application, including utilisation of the said*
+
+*limit on account of loan extended or gift made in rupees credited to NRO account*
+
+*of non-resident close relative(s), is within the limit of USD 200,000/- (US Dollar*
+
+*Two hundred thousand only), which is the limit prescribed by the Reserve Bank*
+
+<!-- PAGE 4 -->
+
+*for the purpose and certify that the source of funds for making the said remittance* *belongs to me and will not be used for prohibited purposes.*
+
+Signature of the applicant (Name) Signature of the natural guardian of the applicant @ (Name) @ Where the applicant is minor, the application should be countersigned by minor’s natural guardian **Certificate by the Authorised Dealer** This is to certify that the remittance is not being made by/ to ineligible entities and that the remittance is in conformity with the instructions issued by the Reserve Bank from time to time under the Scheme. Name and designation of the authorised official: Place: Signature: Date: Stamp and Seal

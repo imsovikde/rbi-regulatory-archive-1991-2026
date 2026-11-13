@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2012_7090"
+title: "Implementation of Section 51-A of UAPA, 1967-Updates of the UNSCR 1267 (1999) /2989 (2011) Committee's Al Qaida Sanctions List"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC267_260312.PDF"
+pdf_sha256: "83273883aecae0ed6de03d073b48db22e7cce9bf3d30b5852ed13d3aa3014fea"
+md_sha256: "b4eb32b122a99ee0e78dbd2cfc6e0d0a550b26e4e5204c80d599e2989b2b8543"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-26_Notification_7090_Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967-Updates%20of%20the%20UNSCR%201267%20%281999%29%20-2989%20%282011%29%20Committee%27s%20Al%20Qaida%20Sanctions%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51-A of UAPA, 1967-Updates of the UNSCR 1267 (1999) /2989 (2011) Committee's Al Qaida Sanctions List
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/471 DNBS(PD).CC. No 267 /03.10.42 /2011-12 March 26, 2012
+
+All Non Banking Financial Companies / Residuary Non Banking Companies
+
+Dear Sir, **Implementation of Section 51-A of UAPA, 1967 -Updates of the UNSCR 1267** **(1999) /2989( 2011) Committee's Al Qaida Sanctions List** Please refer to <u>DNBS (PD).CC. No 261 /03.10.42 /2011-12 dated March 20, 2012</u>. The Chairman of UN Security Council's 1267/ 1989 Committee has issued note on January 26, 2012 (<u>copy enclosed</u>) regarding changes made in the “Al-Qaida Sanctions List”, i.e. list of Individuals and entities linked to Al-Qaida.
+
+2. All NBFCs are required to update the list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear in the list. Further, NBFCs should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+# Withdrawn with effect from February 18, 2022
+
+3. The complete details of the said list are available on the UN website: <u>[http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml](http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml)</u> Yours faithfully, (Dr Tuli Roy) Deputy General Manager Encl: as above

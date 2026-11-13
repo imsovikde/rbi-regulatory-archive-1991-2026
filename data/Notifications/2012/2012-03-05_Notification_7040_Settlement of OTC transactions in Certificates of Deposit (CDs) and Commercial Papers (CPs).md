@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2012_7040"
+title: "Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RCSO050312.PDF"
+pdf_sha256: "c36a81085a408bbd52d8765a3d4f8c180e546d082aaf76fc3b39ca191f98ebb6"
+md_sha256: "a05f26fc91daf92dd296f9964da5c880a1bf92da7941ec7ff10a22c619c73aaf"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-05_Notification_7040_Settlement%20of%20OTC%20transactions%20in%20Certificates%20of%20Deposit%20%28CDs%29%20and%20Commercial%20Papers%20%28CPs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/427 IDMD.PCD. 20 /14.01.02/2011-12 March 5, 2012
+
+To
+
+## All RBI-regulated Entities
+
+## Dear Sir/Madam
+
+## Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)
+
+In terms of <u>circular IDMD.DOD.11/11.08.36/2009-10 dated June 30, 2010</u>, all RBI-regulated entities are mandated to report their OTC transactions in CDs and CPs on the FIMMDA reporting platform within 15 minutes of the trade for online dissemination of market information. Such trades, however, are being settled between the counterparties on a bilateral basis.
+
+2. It has now been decided to introduce DvP I based settlement for all OTC trades in CDs and CPs on the lines already existing in case of settlement of OTC trades in corporate bonds, i.e., settlement through the pooling accounts of the National Securities Clearing Corporation Limited (NSCCL) and Indian Clearing Corporation Limited (ICCL).
+3. Accordingly, with effect from April 1, 2012, all OTC trades in CDs and CPs shall necessarily be cleared and settled through the NSCCL or ICCL under the above arrangement, as per the norms specified by them from time to time.
+Yours faithfully,
+
+(K K Vohra) Chief General Manager

@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2012_7063"
+title: "Non- Reckoning Fixed Deposits with Banks as Financial Assets"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC259FD150312.PDF"
+pdf_sha256: "63c1212655aab170bfafd251cbc27c2ddd56d643970f7639014890c73af68e4f"
+md_sha256: "49c39cbacabc05e3929782a81b93fb273470127962c84ea61fafce3d814c6fa9"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-15_Notification_7063_Non-%20Reckoning%20Fixed%20Deposits%20with%20Banks%20as%20Financial%20Assets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non- Reckoning Fixed Deposits with Banks as Financial Assets
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/446 DNBS (PD)CC.No.259 /03.02.59/2011-12 March 15, 2012
+
+All Non Banking Financial Companies (excluding Residuary Non Banking Companies)
+
+Dear Sir, <u>Non- Reckoning Fixed Deposits with Banks as Financial Assets</u>
+
+In terms of Section 45IA (1) of the RBI Act 1934, no non-banking financial company shall commence business or carry on the business of a non-banking financial institution without (a) obtaining a certificate of registration (CoR) from the Reserve Bank and (b) having a net owned fund of twenty five lakh rupees, which was increased to Rs. 200 lakh with effect from April 21, 1999.
+
+2. It has, however, come to the notice of the Reserve Bank that some NBFCs obtain registration from the Bank, park their funds in fixed deposits with commercial banks but do not commence NBFI activities for several years thereafter. The Auditors of the companies have in these cases also certified that the companies are conducting NBFI activities, justifying the continued holding of the CoR issued by the Bank.
+3. It is clarified, that the Reserve Bank issues a Certificate of Registration for the specific purpose of conducting NBFI activities. Investments in fixed deposits cannot be treated as financial assets and receipt of interest income on fixed deposits with banks cannot be treated as income from financial assets as these are not covered under the activities mentioned in the definition of “financial Institution” in Section 45I(c) of the RBI Act 1934. Besides, bank deposits constitute near money and can be used only for temporary parking of idle funds, and/or in the above cases, till commencement of NBFI business.
+
+<!-- PAGE 2 -->
+
+4. In addition, the NBFC which is in receipt of a CoR from the Bank must necessarily commence NBFC business within six months of obtaining CoR. If the business of NBFC is not commenced by the company within the period of six months from the date of issue of CoR, the CoR will stand withdrawn automatically. Further, there can be no change in ownership of the NBFC prior to commencement of business and regularization of its CoR.
+## Yours sincerely
+
+(Uma Subramaniam) Chief General Manager-in-Charge

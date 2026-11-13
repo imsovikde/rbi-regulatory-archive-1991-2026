@@ -1,0 +1,64 @@
+---
+doc_id: "Notifications_2012_7035"
+title: "Assignment of Lead Bank responsibility- Newly formed district of Prabudh Nagar in the State of Uttar Pradesh"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR62020312F.pdf"
+pdf_sha256: "ae07bbed957aebda16ba884cb6b48e6c960aa9260e75130f87989dc847c35d74"
+md_sha256: "4ed39ab9868d9b329a95a3f6c837da17b516d234274c9a4c4559141541a4c779"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:28:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-01_Notification_7035_Assignment%20of%20Lead%20Bank%20responsibility-%20Newly%20formed%20district%20of%20Prabudh%20Nagar%20in%20the%20State%20of%20Uttar%20Pradesh.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Assignment of Lead Bank responsibility- Newly formed district of Prabudh Nagar in the State of Uttar Pradesh
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/422
+
+RPCD.CO.LBS.BC.No.62/02.08.01/2011-12
+
+01 March, 2012
+
+The Chairmen/CMD
+
+All Lead Banks
+
+Dear Sir/Madam,
+
+Assignment of Lead Bank responsibility-
+
+Newly formed district of Prabudh Nagar in the State of Uttar Pradesh
+
+155/2011-R-5 dated September 28, 2011 has advised about the constitution of a new
+
+district viz. Prabudh Nagar with effect from September 28, 2011. The new district with
+
+its headquarter at Shamli has been carved out from the existing Mujaffarnagar and
+
+comprises of two Tehsils viz. Shamli & Kairana.
+
+2. It has been decided to assign the lead bank responsibility of the new district Prabudh
+
+ss       i      s
+
+other districts in the State.
+
+for the purpose of reporting.
+
+Yours faithfully,
+
+(Ajay Kumar Misra)
+
+General Manager
+
+Tel No: 91-22-22601000 Fax No: 91-22-22621011/22610948/22610943 Email ID:cgmincrpcd@rbi.org.in

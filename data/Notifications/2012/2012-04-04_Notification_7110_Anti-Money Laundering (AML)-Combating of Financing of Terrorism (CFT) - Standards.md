@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2012_7110"
+title: "Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) - Standards"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CI27040412.pdf"
+pdf_sha256: "98467f3edfe96f7d62ba1672765a807532277ae9820cc5800a006b142fb1dcd1"
+md_sha256: "02a8399b5e5cbe99606643387d9b4cd6cba200efa3cf7d3bd10fab5996e7cfb6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:28:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-04-04_Notification_7110_Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20-%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) - Standards
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/487
+
+**DNBS(PD).CC. No.270 /03.10.42 /2011-12** April 04, 2012
+
+All Non Banking Financial Companies / Residuary Non Banking Companies Dear Sir, **Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) -** **Standards** Please refer to <u>DNBS(PD).CC.No.257/03.10.42/ 2011-12 dated March 14, 2012</u> on risks arising from the deficiencies in AML/CFT regime of certain jurisdictions.
+
+2. Financial Action Task Force (FATF) has updated its Statement on February 16, 2012 on the subject (<u>copy enclosed</u>).
+3. All NBFCs/RNBCs are accordingly advised to consider the information contained in the enclosed statement.
+4. This, however, does not preclude financial institutions from legitimate trade and business transactions with these countries and jurisdictions. Yours faithfully,
+## (Dr Tuli Roy)
+
+Deputy General Manager Encl: as above
