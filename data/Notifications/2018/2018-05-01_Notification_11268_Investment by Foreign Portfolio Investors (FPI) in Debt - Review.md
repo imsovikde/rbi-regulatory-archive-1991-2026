@@ -1,0 +1,54 @@
+---
+doc_id: "Notifications_2018_11268"
+title: "Investment by Foreign Portfolio Investors (FPI) in Debt - Review"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/170FPI85A621943FC94443AB5B7373E1F34667.PDF"
+pdf_sha256: "4452f8efc0c8976b96f457e7d47986b44e0b5caef7e0b8d80153696573f84d45"
+md_sha256: "87900886bd1ad77a16c37ae6f56334e8313824e416c070eda59bc90f8c7e15fa"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:00:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-05-01_Notification_11268_Investment%20by%20Foreign%20Portfolio%20Investors%20%28FPI%29%20in%20Debt%20-%20Review.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Foreign Portfolio Investors (FPI) in Debt - Review
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2017-18/170
+
+A.P. (DIR Series) Circular No. 26 May 1, 2018 To All Authorized Persons Madam / Sir
+## Investment by Foreign Portfolio Investors (FPI) in Debt-Review
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule 5 to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide <u>Notification No. FEMA.20/2000-RB dated May 3, 2000,</u> as amended from time to time and the relevant directions issued thereunder.
+
+2. In this regard a reference is invited to <u>AP (DIR Series) Circular No. 24 dated April 27, 2018</u>, notifying changes affecting operational aspects of FPI investments in debt. Paragraph 3 (a) (i) of the circular announced the withdrawal of the minimum residual maturity requirement for Central Government securities (G-secs) and State Development Loans (SDLs) categories, subject to the condition that investment in securities with residual maturity below one year by an FPI under either category shall not exceed, at any point of time, 20% of the total investment of that FPI in that category. Further, in terms of paragraph 3 (a) (ii), FPIs were permitted to invest in corporate bonds with minimum residual maturity of above one year but no cap on investment in securities with residual maturity below one year was stipulated for FPI investments in corporate bonds.
+3. While the FPIs are only permitted to invest in corporate bonds with minimum residual maturity of above one year, in order to bring consistency across debt categories, it is stipulated that investments by an FPI in corporate bonds with residual maturity below one year shall not exceed, at any point in time, 20% of the total investment of that FPI in corporate bonds.
+वत्तीय बाज़ार व�नयमन वभाग,मुख्य भवन,पहल मंिज़ल,शहद भगत संह मागर्, फोटर्,मुंबई–400001. फोन: (91-22) 22603000,फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in
+
+Financial Markets Regulation Department,Main Building, 1 st Floor, Shahid Bhagat Singh Road, Fort, Mumbai – 400001. Tel: (91-22) 22603000, Fax: (91-22) 22702290 e-mail- cgmfmrd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. In addition, the following clarifications are issued with respect to the provisions in the <u>AP</u> <u>(DIR Series) Circular No. 24 dated April 27, 2018</u>:
+(i) FPIs are permitted to invest in treasury bills issued by the Central Government. (ii) The requirement that investment in securities of any category (G-secs, SDLs or, in terms of this circular, corporate bonds) with residual maturity below one year shall not exceed 20% of total investment by an FPI in that category applies, on a continuous basis. At any point in time, all securities with residual maturity of less than one year will be reckoned for the 20% limit, regardless of the maturity of the security at the time of purchase by the FPI. (iii) In case investments in securities with less than one year residual maturity, as on 02 May 2018 (beginning of day), is more than 20% of total investment in any category, the FPI shall bring such share below 20% within a period of six months from the date of this circular; however, the FPI shall ensure that no further additions are made to the portfolio of securities with residual maturity of less than one year as on 02 May 2018 (beginning of day), either through fresh purchases or through roll-down of investments with current tenor of more than one year, until the share of such portfolio of securities falls below 20% of the total investment in that category. (iv) The term “related FPIs” in paragraph 3 (e) (i) of the circular dated April 27, 2018 refers to all FPIs registered by a non-resident entity. Illustratively, if a non-resident entity has set up five funds, each registered as an FPI for investment in debt, total investment by the five FPIs will be considered for application of concentration and other limits.
+(v) As regards the concentration limit for an FPI for its corporate bond portfolio to a single corporate (paragraph 3 (e) (ii) of the circular dated April 27, 2018) the following clarifications may be noted:
+a. The term “related entities” shall have the same meaning as defined in section 2(76) of the Companies Act, 2013.
+b. A newly registered FPI would mean FPIs registered after April 27, 2018.
+(vi) The implementation date of online monitoring of utilization of G-sec limits has been set as June 1, 2018. The existing process for monitoring of limits as well as allocation of limit through auction mechanism will continue in the meantime.
+
+<!-- PAGE 3 -->
+
+5. These directions would be applicable with immediate effect.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully
+
+(T. Rabi Sankar) Chief General Manager

@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2018_11270"
+title: "Monitoring of foreign investment limits in listed Indian companies"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR2736319E1A15B14AAE8CC60CC3E77ED283.PDF"
+pdf_sha256: "cd5eec2f984927738d160315f754fb43619e2123396ec9787133c6772b0a0b2b"
+md_sha256: "913d79128461ecf48ec12c78934f54348f84af396b8f3c582e96fb9cafac19c2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:00:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-05-03_Notification_11270_Monitoring%20of%20foreign%20investment%20limits%20in%20listed%20Indian%20companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Monitoring of foreign investment limits in listed Indian companies
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA <u>Mumbai - 400 001</u>
+
+# RBI/2017-18/172 A.P. (DIR Series) Circular No. 27 [(1)/20(R)] May 03, 2018
+
+To
+
+All Category – I Authorised Dealer Banks
+
+## Madam/ Sir
+
+## Monitoring of foreign investment limits in listed Indian companies
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Foreign Exchange Management (Transfer or Issue of Security by a person Resident outside India) Regulations, 2017 notified vide <u>Notification No. FEMA 20(R)/2017-RB dated</u> <u>November 07, 2017</u> and as amended from time to time, in terms of which the onus of compliance with the sectoral/ statutory caps on foreign investment lies with the Indian investee company.
+
+2. Currently, Reserve Bank of India receives data on investment made by Foreign Portfolio Investors (FPI) and Non-resident Indians (NRI) on stock exchanges from the custodian banks and Authorised Dealer Banks for their respective clients, based on which restrictions beyond a threshold limit is imposed on FPI/ NRI investment in listed Indian companies.
+3. In order to enable listed Indian companies to ensure compliance with the various foreign investment limits, Reserve Bank in consultation with Securities and Exchange Board of India (SEBI), has decided to put in place a new system for monitoring foreign investment limits, for which the necessary infrastructure and systems for operationalizing the monitoring mechanism, shall be made available by the depositories. The same has been notified by SEBI vide Circular- IMD/FPIC/CIR/P/2018/61 dated April 05, 2018 read with Circular- IMD/FPIC/CIR/P/2018/74 dated April 27, 2018.
+4. In terms of para 6 of Annexure A of the circular dated April 05, 2018, all listed Indian companies are required to provide the specified data/ information on foreign investment to the depositories. The requisite information may be provided before May 15, 2018. The listed Indian companies, in non-compliance with the above
+
+<!-- PAGE 2 -->
+
+instructions will not be able to receive foreign investment and will be non-compliant with Foreign Exchange Management Act, 1999 (FEMA) and regulations made thereunder.
+
+5. All Authorised Dealer Banks are advised to instruct their clients and respective Indian companies, about the system requirement at para 4 of this circular.
+6. Further, upon implementation of the new monitoring system, all Authorised Dealer banks would be required to provide the details of investment made by their respective NRI clients to the depositories in the format as provided by the depositories/ SEBI. In addition, the reporting to Reserve Bank in the existing system, viz., LEC (NRI) and LEC (FII), would continue.
+7. AD Category-I banks may bring the contents of this circular to the notice of their customers / constituents concerned.
+8. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+## (Shekhar Bhatnagar)
+
+## Chief General Manager in Charge
