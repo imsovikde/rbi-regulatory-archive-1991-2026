@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2016_1830"
+title: "Facility for Exchange of Soiled/ Mutilated/ Imperfect Notes"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/TN14072016.pdf"
+pdf_sha256: "48d0b631b74b2249b2dbd283f35d4673d7ed7c6796b5175906ce6a2986ebb8c9"
+md_sha256: "67ec0fc6adeb382cb2051a57d47ffc824f89360cfd5f3680d2ab6f0a0519f663"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-07-14_Notification_1830_Facility%20for%20Exchange%20of%20Soiled-%20Mutilated-%20Imperfect%20Notes.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Facility for Exchange of Soiled/ Mutilated/ Imperfect Notes
+
+<!-- PAGE 1 -->
+
+## RBI/2016-17/15
+
+**DCM (NE) No.120/08.07.18/2016-17** July 14, 2016
+
+Chairman and Managing Director/ Managing Director / Chief Executive Officer All Banks
+
+Dear Sir / Madam,
+
+## Facility for Exchange of Soiled/ Mutilated/ Imperfect Notes
+
+Please refer to <u>Reserve Bank of India (Note Refund) Rules, 2009</u> (NRR, 2009) and <u>Master Circular DCM (NE) No.G-2/08.07.18/2015-16 dated July 1, 2015</u> on the captioned subject.
+
+2. The facility of exchanging mutilated/ imperfect notes is available under Note Refund Rules, 2009 at designated bank branches and the same has been extended to non-chest branches vide <u>circular DCM (NE) No.3498/08.07.18/2012-13 dated</u> <u>January 28, 2013</u>. Thus, the facility is available across the banking system. Similarly, exchange of soiled notes is available at all the bank branches. On a review, based on feedback, it has been decided to modify the procedure as follows in order to improve customer service and enhance customer protection:
+3.1 **Exchange of soiled notes**
+3.1.1 *Notes presented in small number*: Where the number of notes presented by a person is up to 20 pieces with a maximum value of Rs.5000 per day, banks should exchange them over the counter, free of charge.
+3.1.2 *Notes presented in bulk*: Where the number of notes presented by a person exceeds 20 pieces or Rs.5000 in value per day, banks may accept them, against receipt, for value to be credited later. Banks may levy service charges as permitted in Master Circular on Customer Service in Banks (<u>DBR.No.Leg.BC.21/09.07.006/</u> <u>2015-16 dated July 1, 2015</u>). In case tendered value is above Rs.50000, banks are expected to take the usual precautions. मुद्रा प्रबंध वभाग, कद्रय कायार्लय, चौथी मंिजल, अमर भवन, सर पी.एम.रोड, पी.बी.सं.1379, मुंबई – 400 001 (भारत)
+फोन: + 91-22-2266 1644 फ़ै क्स: + 91-22-2266 2442 ई-मेल: <u>helpdcm@rbi.org.in</u> ----------------------------------------------------------------------------------------------------------------------------------------- Department of Currency Management, Central Office, 4th Floor, Amar Building, Sir P.M.Road, P.B.No.1379, Mumbai- 400 001(India) Tel: + 91-22-2266 1644 Fax : + 91-22-2266 2442 E-mail : <u>helpdcm@rbi.org.in</u> <u>(</u>�हंद आसान है, इसका प्रयोग बढ़ाइए<u>)</u>
+
+<!-- PAGE 2 -->
+
+3.2 **Exchange of mutilated and imperfect notes**
+3.2.1 While designated branches may continue to follow the procedure as laid down in Part III of NRR, 2009 (<u>www.rbi.org.in</u> →Publications→Occassional) for exchanging mutilated and imperfect notes and issue receipt for the notes presented for adjudication, non-chest branches are required to follow the following procedure for notes presented in small numbers and in bulk.
+3.2.2 *Notes presented in small number*: Where the number of notes presented by a person is up to 5 pieces per day, non-chest branches should normally adjudicate the notes as per the procedure laid down in Part III of NRR, 2009 and pay the exchange value over the counter. If the non-chest branches are not able to adjudicate the mutilated notes, the notes may be received against a receipt and sent to the linked currency chest branch for adjudication. The probable date of payment should be informed to the tenderers on the receipt itself and the same should not exceed 30 days. Bank account details should be obtained from the tenderers for crediting the exchange value by electronic means.
+3.2.3 *Notes presented in bulk*: Where the number of notes presented by a person is more than 5 pieces not exceeding Rs.5000 in value, the tenderer should be advised to send such notes to nearby currency chest branch by insured post giving his / her bank account details (a/c no, branch name, IFSC, etc) or get them exchanged thereat in person. All other persons tendering mutilated notes whose value exceeds Rs.5000 should be advised to approach nearby currency chest branch. Currency chest branches receiving mutilated notes through insured post should credit the exchange value to the account of sender by electronic means within 30 days of receipt of notes.
+4. Tenderers aggrieved with the service provided by the banks in this regard may approach Banking Ombudsman concerned, following the procedure as laid under Banking Ombudsman Scheme, 2006 with the bank /postal receipts as proof for necessary action.
+## Yours faithfully
+
+(P Vijaya Kumar) Chief General Manager मुद्रा प्रबंध वभाग, कद्रय कायार्लय, चौथी मंिजल, अमर भवन, सर पी.एम.रोड, पी.बी.सं.1379, मुंबई – 400 001 (भारत) फोन: + 91-22-2266 1644 फ़ै क्स: + 91-22-2266 2442 ई-मेल: <u>helpdcm@rbi.org.in</u> ----------------------------------------------------------------------------------------------------------------------------------------- Department of Currency Management, Central Office, 4th Floor, Amar Building, Sir P.M.Road, P.B.No.1379, Mumbai- 400 001(India) Tel: + 91-22-2266 1644 Fax : + 91-22-2266 2442 E-mail : <u>helpdcm@rbi.org.in</u> <u>(</u>�हंद आसान है, इसका प्रयोग बढ़ाइए<u>)</u>

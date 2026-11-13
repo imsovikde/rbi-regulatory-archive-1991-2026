@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2016_1730"
+title: "Revision of interest rates for Small Savings Schemes"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI0607072016.pdf"
+pdf_sha256: "9e44d4b3fbf0740ffc200df72f45d7017557eadb2788b6094a301d178fef5f3a"
+md_sha256: "023e4f1918b19f05cf97ed2657a5fd6d494e88ab980bfa011413f627d2b9b851"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-07-07_Notification_1730_Revision%20of%20interest%20rates%20for%20Small%20Savings%20Schemes.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revision of interest rates for Small Savings Schemes
+
+<!-- PAGE 1 -->
+
+भारतीय ररज़र्व बकैं **______________________RESERVE BANK OF INDIA______________________** <u>www.rbi.org.in</u>
+
+RBI/2016-17/6 DGBA. GAD.13/15.02.005/2016-17 July 7, 2016
+
+The Chairman/Chief Executive Officer Agency Banks handling Public Provident Fund, Kisan Vikas Patra- 2014, Sukanya Samriddhi Account, Senior Citizen Savings Scheme-2004
+
+Dear Sir **Revision of interest rates for Small Savings Schemes**
+
+Please refer to our <u>circular DGBA.GAD.3175/15.02.005/2015-16 dated April 7, 2016</u> on the above subject. The Government of India, have vide their Office Memorandum (OM) No.F.No. 1/04/2016 –NS.II dated June 20, 2016, advised the revised rate of interest on various small savings schemes for the second quarter of the financial year 2016-17 (<u>copy enclosed</u>).
+
+2. The contents of this circular may be brought to the notice of the branches of your bank operating Government Small Saving Schemes for necessary action. These should also be displayed on the notice boards of your branches for information of the subscribers to these Schemes.
+## Yours faithfully
+
+(V.S. Prajish) Assistant General Manager
+
+## Encl : as above
+
+**यह विभाग आईएसओ 9001:2008 प्रमाणित है ।** सरकारी एर्ं बकैं लेखा वर्भाग,के न्द्रीय कायावलय, 4 थी मंजिल, मंबई सेंट्रल रेल्र्े स्टेशन के सामने, भायखला, मंबई 400008 Department of Government & Bank Accounts, Opp. Mumbai Central Railway Station, Byculla, Mumbai 400 008. Telephone : (022) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-mail : p<u>cgmdgbaco@rbi.org.in</u> **हहिंदी आसान है, इसका प्रयोग बढाइए ।**

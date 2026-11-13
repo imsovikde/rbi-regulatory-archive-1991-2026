@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2016_10520"
+title: "Master Direction on Currency Distribution & Exchange Scheme (CDES) based on performance in rendering customer service to the members of public"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD3602551968629E4303BE4C26205A6A4D1E.PDF"
+pdf_sha256: "61818c5103d34feb78a6c742684eb5856ce87ac32d9adf6a2070685fae9860b8"
+md_sha256: "d5752f17d4664ba93009a001aacb922bb8c372cafd7b29a9ee045c9c6217bdee"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:56:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-07-20_Notification_10520_Master%20Direction%20on%20Currency%20Distribution%20%26%20Exchange%20Scheme%20%28CDES%29%20based%20on%20performance%20in%20rendering%20customer%20service%20to%20the%20members%20of%20public.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Direction on Currency Distribution & Exchange Scheme (CDES) based on performance in rendering customer service to the members of public
+
+<!-- PAGE 1 -->
+
+RBI/DCM/2016-17/36 Master Direction DCM (CC) No.G-4/03.41.01/2016-17 July 20, 2016
+
+The Chairman and Managing Director / Chief Executive Officers, All Banks
+
+Madam / Dear Sir,
+
+## Master Direction on Currency Distribution & Exchange Scheme (CDES) based on
+
+## performance in rendering customer service to the members of public
+
+In terms of the Preamble and under Section 45 of the RBI Act, 1934, and 35 A of the Banking Regulation Act, 1949, the Bank issues guidelines / instructions for realising the objectives of our Clean Note Policy. With a view to sustain these objectives, the Bank has formulated a scheme of incentives titled **Currency Distribution and Exchange** **Scheme (CDES)** in order to ensure that all bank branches provide better customer services to member of public.
+
+2. The Master Direction enclosed incorporates updated guidelines / circulars on the Withdrawn subject. The Direction will be updated from time to time as and when fresh instructions are issued.
+3. This Master Direction has been placed on RBI website at <u>www.rbi.org.in</u>. Yours faithfully, (P. Vijaya Kumar) Chief General Manager
+## Encl : As above
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## 1. Introduction –
+
+The Currency Distribution & Exchange Scheme (CDES) for bank branches including currency chests has been formulated in order to ensure that all bank branches provide better customer service to members of public with regard to exchange of notes and coins, in keeping with the objectives of Clean Note Policy.
+
+2. **Incentives**
+As per the scheme, banks are eligible for the following financial incentives for providing facilities for exchange of notes and coins:
+
+|Sr. No.|Nature of Service||Particulars of Incentives|
+|---|---|---|---|
+|i)|Opening of and maintaining a. currency chests at centers having population of less than 1 lakh in under banked States|Withdrawn|Capital Cost: Reimbursement of 50% of capital expenditure subject to a ceiling of ` 50 lakh per currency chest. In the North Eastern region up to 100% of capital expenditure is eligible for reimbursement subject to the ceiling of ` 50 lakh. b. Revenue cost: Reimbursement of 50% of revenue expenditure for the first 3 years. In the North Eastern region 50% of revenue expenditure will be reimbursed for the first 5 years.|
+|ii)|Exchange of soiled notes/ adjudication of mutilated banknotes over the counter at bank branches||a. Exchange of soiled notes – ` 2 per packet for exchange of soiled notes up to denomination ` 50 b. Adjudication of mutilated notes – ` 2 per piece|
+
+<!-- PAGE 3 -->
+
+|iii)|Distribution of coins over counter|i. ` 25 per bag for distribution of coins over the counter. ii. The incentives would be paid on the basis of withdrawal from currency chest, without waiting for claims from banks. iii. Banks may put in place a system of checks and balances to ensure that coins are distributed to retail customers in small lots and not to bulk customers. iv. The distribution of coins shall be verified by RBI Regional Offices through inspection of currency chest / incognito visits to branches etc.|
+|---|---|---|
+|iv)|extend cash related retail services to the public like – 1. Cash Recyclers; 2. ATMs dispensing lower denomination notes (i.e. up to denomination ` 100) Note - ATMs distributing higher denominations of ` 500 and above are not eligible for this reimbursement|Installation of Machines which The maximum amount of reimbursement for the machines will be as follows – For Metro / Urban areas – 1. Cash Recyclers – 50% of the actual cost of the machine or ` 2,00,000 Withdrawn whichever is lower 2. ATMs dispensing lower denomination notes (up to denomination ` 100) – 50% of the actual cost of the machine or ` 2,00,000 whichever is lower For Semi-urban / Rural areas – 1. Cash Recyclers – 60% of the actual cost of the machine or ` 2,50,000 whichever is lower 2. ATMs dispensing lower denomination notes (up to denomination ` 100) – 60% of the actual cost of the machine or ` 2,50,000 whichever is lower|
+
+<!-- PAGE 4 -->
+
+## 3. Operational Guidelines to avail the incentives -
+
+## 3.1 Performance based incentives -
+
+i) The incentives will be paid on the soiled notes actually received in the Issue Office of the RBI. Banks need not submit a separate claim in this regard. Currency chest branch will have to pass on the incentive to the linked branches for the soiled notes tendered by them on a pro-rata basis. ii) Similarly, incentive will be paid in respect of the adjudicated notes received along with the soiled note remittances / sent separately by registered / insured post in a sealed cover to the RBI. No separate claim is required to be made.
+## 3.2 Incentives for installation of machines
+
+i) The banks intending to purchase various machines as also establish currency
+st th chests during the period from July 01 to June 30 of a year, may submit their Annual Plans containing the details of the machines and the cost, to **our Issue Offices** latest by April 15 of every year on an ongoing basis. Our Issue offices, on receipt of the plans, may advise the maximum amount of reimbursement permissible to each bank for that year.
+
+ii) The claims for incentives for installation of Cash Recyclers and ATMs dispensing lower denomination notes should be submitted to the respective Issue Office of RBI on quarterly basis within 30 days from the close of the respective quarter through the Link Office of the bank concerned. Such claims may however be submitted only after full payment is made to the vendors for the machines.
+
+# Withdrawn
+
+___________________

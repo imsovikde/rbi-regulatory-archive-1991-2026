@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2016_1729"
+title: "Pre-2005 series of Banknotes - Revision of exchange facility"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI44330062016.pdf"
+pdf_sha256: "ef8805eec1875b81ab4d3cc877db8d37dbe626d78a7835a006614b97386c18c1"
+md_sha256: "223dc602b3664d1fb9547927ba48483042029bd29063f24c4b1035dfbedfc04b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-06-30_Notification_1729_Pre-2005%20series%20of%20Banknotes%20-%20Revision%20of%20exchange%20facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Pre-2005 series of Banknotes - Revision of exchange facility
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/443 DCM (Plg) No.G-12/4297/10.27.00/2015-16 June 30, 2016
+
+The Chairman / Managing Director / Chief Executive Officer All Scheduled Commercial Banks Primary (Urban) Co-operative Banks / RRBs /State Co-operative Banks / District Central Co-operative Banks
+
+Madam / Dear Sir,
+
+## Pre-2005 series of Banknotes-Revision of exchange facility
+
+Please refer to our <u>circular DCM (Plg) No.G-8/2331/10.27.00/2015-16 dated December 23, 2015</u>, <u>DCM (Plg) No.G-9/2856/10.27.00/2015-16 dated February 11, 2016</u> and the <u>Press Release dated</u> <u>December 23, 2015</u> on the captioned subject.
+
+2. As you all may be aware, from January 2014, Pre-2005 banknotes are being withdrawn from circulation and through sustained efforts a large percentage of these notes have since been withdrawn. A small percentage of these notes, however, still remains in circulation. On a review thereof, it has since been decided that from July 01, 2016 onwards, the facility for the members of Public to exchange the pre-2005 banknotes will be available only at the following offices of Reserve Bank of India: Ahmedabad, Bengaluru, Belapur, Bhopal, Bhubaneswar, Chandigarh, Chennai, Guwahati, Hyderabad, Jaipur, Jammu, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, New Delhi, Patna, Thiruvananthapuram and Kochi. These instructions have been specified in a Press Release dated June 30, 2016 (<u>copy enclosed</u>).
+3. Pre-2005 banknotes will continue to remain legal tender.
+4. You are advised to suitably guide the members of public who may approach your branches for exchange of such notes.
+5. Please ensure that these notes are not allowed to go back into circulation either through the ATMs or over the counters.
+6. Please acknowledge receipt. Yours faithfully, (P. Vijayakumar) Chief General Manager
+## Encl: 1 sheet

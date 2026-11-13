@@ -1,0 +1,72 @@
+---
+doc_id: "Notifications_2016_1831"
+title: "Sovereign Gold Bonds, 2016-17 - Operational Guidelines"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/19TN14072016.pdf"
+pdf_sha256: "04f18a08c2a9c0f737c7b545fe45e2589bcf4d44cb180b053b9126b0314544b6"
+md_sha256: "7a977d6d2446f98b34d8be40470b46eccc356c219b3b5d351a66bb832d9b0723"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:55:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-07-14_Notification_1831_Sovereign%20Gold%20Bonds%2C%202016-17%20-%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sovereign Gold Bonds, 2016-17 - Operational Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/19 IDMD.CDD.No.112/14.04.050/2016-17 July 14, 2016
+
+The Chairman & Managing Director All Scheduled Commercial Banks (Excluding RRBs) Designated Post Offices Stock Holding Corporation of India ltd.(SHCIL) National Stock Exchange of India Ltd. & Bombay Stock Exchange
+
+Dear Sir/Madam,
+
+## Sovereign Gold Bonds, 2016-17 - Operational Guidelines
+
+This has reference to the <u>GoI notification F.No.4(7)-W&M/2016</u> and <u>RBI circular</u> <u>IDMD.CDD.No.2020/14.04.050/2016-17 dated July 14, 2016</u> on the Sovereign Gold Bonds, 2015-16. FAQs in this regard have been placed on our website (www.rbi.org.in). Operational guidelines with regard to this scheme are given below:
+
+## 1. Application
+
+Application forms from investors will be received at branches during normal banking hours from July 18-22, 2016. Relevant additional details may be obtained from the applicants, where necessary. Receiving offices need to ensure that the application is complete in all respects.
+
+## 2. Joint holding and nomination
+
+Multiple joint holders and nominees (of first holder) are permitted. Necessary details may be obtained from the applicants as per practice.
+
+## 3. Interest on application money
+
+Applicants will be paid interest at prevailing savings bank rate from the date of realization of payment to the settlement date, i.e. the period for which they are out of funds. In case the applicant’s bank account is not with the receiving bank, the interest has to be credited by electronic fund transfer to the account details provided by the applicant.
+
+## 4. Cancellation
+
+Cancellation of application is permitted till the closure of the issue, i.e., July 22, 2016. Part cancellation of submitted request for purchase of gold bonds is not permitted. No interest on application money needs to be paid if the application is cancelled.
+
+## 5. Lien marking
+
+As the bonds are government securities, lien marking, etc. will be as per the extant legal provisions of Government Securities Act, 2006 and rules framed there under.
+
+<!-- PAGE 2 -->
+
+## 6. Agency arrangement
+
+Scheduled commercial banks may engage NBFCs, NSC agents and others to collect application forms on their behalf. Banks may enter into arrangements or tie-ups with such entities. Commission for distribution shall be paid at the rate of rupee one per hundred of the total subscription received by the receiving offices on the applications received and receiving offices shall share at least 50% of the commission so received with the agents or sub-agents for the business procured through them.
+
+7. **Processing through RBI’s e-kuber system** Sovereign Gold Bonds will be available for subscription at the branches of scheduled commercial banks and designated post offices through RBI’s e-kuber system. The e-kuber system can be accessed either through Infinet or Internet. The receiving offices need to enter the data or carry out bulk upload for the subscriptions received by them. They may ensure accuracy of entry of data to prevent occurrence of any inadvertent errors. An immediate confirmation will be provided to them for receipt of application. In addition, a confirmation scroll will be provided for file uploads to enable the receiving offices to update their database. On the date of allotment, i.e., August 5, 2016, Holding Certificates will be generated for all the subscriptions. The receiving offices can download the same and take printouts. The Holding Certificates will also be sent through e-mail to the investors who have provided their email address. For the investors who have specified their demat account details, the securities will be credited in their demat accounts on the allotment date.
+## 8. Printing of Holding Certificate
+
+Holding Certificate needs to be printed in colour on A4 size 100 GSM paper.
+
+## 9. Servicing and follow up
+
+Receiving offices, i.e., branches of the scheduled commercial banks and designated post offices will “own” the customer and provide necessary services with regards to this bond e.g. update contact details, receive requests for premature encashment, etc. Receiving offices will be required to preserve applications till the bonds are matured and are repaid.
+
+## 10. Contact details
+
+Any queries/clarifications may be e-mailed to the following:
+
+(a) Sovereign Gold Bond related: Please click here to send email.
+(b) IT related: Please <u>click here</u> to send email. Yours faithfully, (Rajendra Kumar) General Manager
