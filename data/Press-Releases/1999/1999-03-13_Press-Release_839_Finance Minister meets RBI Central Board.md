@@ -1,0 +1,40 @@
+---
+doc_id: "Press-Releases_1999_839"
+title: "Finance Minister meets RBI Central Board"
+category: "Press-Releases"
+year: 1999
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/5654.pdf"
+pdf_sha256: "9a95e09913aea71b7d5e36ec9ff1156e123b714c3ceac1ae814600ef7db5ae32"
+md_sha256: "c00a73b57e9adf09236a937698d55033c590382643482f06ab8fefb761d9cdae"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:54:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-13_Press-Release_839_Finance%20Minister%20meets%20RBI%20Central%20Board.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Finance Minister meets RBI Central Board
+
+<!-- PAGE 1 -->
+
+# Finance Minister meets RBI Central Board
+
+## March 13, 1999
+
+The post-budget meeting of the Central Board of the Reserve Bank of India with Shri Yashwant Sinha, Union Finance Minister was held in New Delhi today. Shri K.M.R. Janarthanan, Minister of State for Finance was also present. The meeting was attended by Dr. Vijay Kelkar, Finance Secretary, Shri J.A. Chowdhary, Revenue Secretary, Dr. E.A.S. Sarma, Expenditure Secretary, Shri C.M. Vasudev, Special Secretary (Banking) and Dr. Shankar N. Acharya, Chief Economic Adviser. Among the Board Members present were Shri P.N.Dhar, Shri Y.H. Malegam, Shri E.A. Reddy, Shri Mumtaz Ahmad, Dr. C.H. Hanumantha Rao, Dr. Bhai Mohan Singh, Dr. M.L. Shahare, Dr. Amrita Patel, Shri Vipin Malik and Shri G. Ramachandran, Shri S.P. Talwar, Dr.
+
+Y.V. Reddy and Shri Jagdish Capoor, Deputy Governors of the Reserve Bank of India were also present. In his opening remarks, the Finance Minister explained the strategy of the budget and was pleased that this has been well received. He said that the Government was fully committed to ensuring fiscal stability and had taken critical decisions to that end. He hoped that after the budget and, in view of the excellent response, including that of the financial markets, the economy will revive. He expressed confidence that there would be resurgence of economic growth in the country. While reviewing the past, he expressed satisfaction that, despite the sanctions imposed on India last May and, an extremely difficult external situation, India was able to fare well. He pointed out that, many economic indicators, including those relating to the external sector, were much stronger now than in the beginning of the year. He appreciated all the measures taken by the Reserve Bank, in particular on the external front. The Finance Minister reiterated the commitment of the Government to ensure the autonomy of the Central Bank, that he has expressed on so many occasions earlier. He stated that, in the national interest, both the Ministry of Finance and the Reserve Bank of India have been working towards a stable and vibrant economy. The recent actions taken in the budget and those taken by the Reserve Bank have reinforced the country's confidence in the ability of both, in economic and monetary management. Shri Sinha added that though the growth in exports has been a matter of concern for quite some time, there has been some improvement in the recent past and hope that this positive trend would continue. The Finance Minister highlighted the need for development of rural economy from where the bulk of industrial demands also emanate and which accounts for 70 per cent of India's population. Simultaneously, growth in industry, services and exports need to be given equal importance. These aspects have also been taken care of in the current budget. The Finance Minister mentioned about the second-generation reforms proposed in his budget speech, which, inter alia, seek to consolidate on the gains of the first phase reforms. He said that
+
+<!-- PAGE 2 -->
+
+the direction of reforms in medium term and long term have to be clearly defined through a consensus, while evolving the details of second-generation reforms.
+
+In response to the Finance Minister's opening remarks, Dr. Bimal Jalan, Governor, Reserve Bank of India and the members of the Board expressed their appreciation of the budget strategy of the Finance Minister and the Government's commitment to reduce fiscal and revenue deficits in the medium term. They affirmed that this would greatly facilitate the task of monetary management and would also help the Reserve Bank in ensuring the strengthening of the balance of payments position.
+
+The Directors of the Reserve Bank expressed their deep appreciation of the continued support of the Government to the Reserve a bank during the difficult period which helped in ensuring success of the various measures taken by the Central Bank. On their part, they expressed full support for the strategy outlined n the budget for the revival of the economy and stressed the implementation aspects. The directors fully shared the optimism generated by the budget and were hopeful of revival and resurgence of the economy.
+
+## Alpana Killawala General Manager
+
+## Press Releases : 1998-99/1174
