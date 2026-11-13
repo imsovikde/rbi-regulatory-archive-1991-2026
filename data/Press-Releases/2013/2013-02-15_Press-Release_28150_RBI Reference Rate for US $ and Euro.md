@@ -1,0 +1,44 @@
+---
+doc_id: "Press-Releases_2013_28150"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1380 RR0213.pdf"
+pdf_sha256: "d06e8b0e986e72ca4178ccca722891fe1f8c1e0e57e1efdf3e7ba971b569d757"
+md_sha256: "ee6772df87aabd9cf1957e72ffe81fe24cd0bfa50537616af9f2d47ea726ab11"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:10:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-02-15_Press-Release_28150_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website: www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u> February 15, 2013
+
+## RBI Reference Rate for US $ and Euro
+
+The Reserve Bank of India’s Reference Rate for the US dollar is `53.9885 and the Reference Rate for Euro is `72.0865 on February 15, 2013. The corresponding rates for the previous day (February 14, 2013) were `53.8715 and `72.3760 respectively. Based on the Reference Rate for the US dollar and middle rates of the cross-currency quotes, the exchange rates of GBP and JPY against the Rupee are given below:
+
+## Date
+
+## Currency
+
+## February 14, 2013 February 15, 2013
+
+## 1 GBP 83.5870 83.7200
+
+<u>100 YEN 57.60 58.38</u> **Note :** The SDR-Rupee rate will be based on the reference rate.
+
+**Ajit Prasad** **Press Release : 2012-2013/1380** Assistant General Manager
