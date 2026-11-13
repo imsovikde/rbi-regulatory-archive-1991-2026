@@ -1,0 +1,30 @@
+---
+doc_id: "Press-Releases_2002_6637"
+title: "Liquidity Adjustment Facility : Auction Results"
+category: "Press-Releases"
+year: 2002
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/27675.pdf"
+pdf_sha256: "bee8357164e920ad72473f0823d32c2228de32118493887be3a18052d9c6a5d4"
+md_sha256: "6febd112ead3b36f8c30e23ea833c2809aa645a7cb5c8d519d3e3db5b4e0ef5d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T15:16:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2002/2002-04-02_Press-Release_6637_Liquidity%20Adjustment%20Facility%20-%20Auction%20Results.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility : Auction Results
+
+<!-- PAGE 1 -->
+
+# Liquidity Adjustment Facility : Auction Results
+
+The results of the RBI repo/reverse repo auctions held on April 2, 2002 are :
+
+|Item|Repo Auction (Sale of securities by RBI)|Reverse Repo Auction (Purchase of securities by RBI)|
+|---|---|---|
+|1. Applications received for one day repo period: (i) Number (ii) Amount (Face value in Rs. crore)|05 10310|Nil N.A.|
+|2. Applications accepted for one day repo period: (i) Number (ii) Amount (Face Value in Rs.crore) (iii) Cut-off Rate (per cent)|05 5155 6.00|Nil N.A. N.A.|
+|3. Weighted average Cut-off Rate (per cent)|6.00|N.A.|
