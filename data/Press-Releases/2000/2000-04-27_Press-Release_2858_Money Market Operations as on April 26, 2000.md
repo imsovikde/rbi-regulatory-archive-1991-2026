@@ -1,0 +1,53 @@
+---
+doc_id: "Press-Releases_2000_2858"
+title: "Money Market Operations as on April 26, 2000"
+category: "Press-Releases"
+year: 2000
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/12929.pdf"
+pdf_sha256: "9c19d681a2eba4eb44b497773b9a1f0aa60f0f6da2d95f5dc3c0da22cc7c7428"
+md_sha256: "0d7a64ee36bf526fc83a16fd3bcd3c83a986ed8d48bdfab63fa5abf244780b89"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T15:01:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-04-27_Press-Release_2858_Money%20Market%20Operations%20as%20on%20April%2026%2C%202000.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on April 26, 2000
+
+<!-- PAGE 1 -->
+
+## Money Market Operations as on April 26, 2000
+
+(Amounts in Rupees crore and rates in per cent per annum)
+
+**1. Call/Notice Money Market***
+**(i) Volumes**
+## Banks Primary Non-Bank Total
+
+## Dealers Institutions
+
+**Borrowings** 11216 10036 21252 **Lendings** 15825 **(ii) Interest Rates Borrowings Lendings**
+
+(a)Weighted average rate 7.02 7.11
+(b) Range of rates 6.80-7.30 6.80-8.00
+## 2 <u>Term Money Market*</u>
+
+## <u>Volume(Turnover) Range of Rates</u>
+
+1081 7.75-11.50
+
+**3.** <u>Liquidity Support availed from RBI #</u>
+## <u>Amount (outstanding) Rate of Interest</u>
+
+7741 at Bank Rate 0 at Bank Rate plus
+
+**4.** <u>RBI's OMO net sales(-)/purchases(+)</u> 0
+## 5. <u>RBI's Repo</u>
+
+## <u>Amount (outstanding) Repo Rate</u>
+
+2581.00 5.00
+* Data cover 75-80 per cent of total transactions reported by major participants. # Data relate to Mumbai centre.
