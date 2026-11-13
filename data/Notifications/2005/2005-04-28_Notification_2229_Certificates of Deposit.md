@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2005_2229"
+title: "Certificates of Deposit"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62696.pdf"
+pdf_sha256: "9257cf5ef527a5f2370f911e9f4299c61f98441ce3487b8776f21f5f5f22b581"
+md_sha256: "38c0237471a874be16dde1c18acfbc4d159060663ae89717c483bcc07d396d00"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-04-28_Notification_2229_Certificates%20of%20Deposit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Certificates of Deposit
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/440
+
+## Ref.No. MPD.263 /07.01.279/2004-05 April 28, 2005
+
+## Vaishakha 8, 1927 (S)
+
+The Chairmen/Chief Executives of All Scheduled Commercial Banks (excluding RRBs and LABs)
+
+## Dear Sirs
+
+## Certificates of Deposit
+
+Please refer to paragraph 72 (iii) of the annual policy Statement for the year 2005- 06 dated April 28, 2005 (copy of the paragraph enclosed). On a review, the minimum maturity period of certificates of deposit (CDs) has been reduced from 15 days to 7 days with immediate effect.
+
+## Yours faithfully
+
+(Deepak Mohanty) Adviser-in-Charge
+
+<!-- PAGE 2 -->
+
+## <u>Extract from the annual policy Statement for the year 2005-06</u>
+
+## 72 (iii) Certificates of Deposit
+
+The minimum maturity period of certificates of deposit (CDs) reduced from 15 days to 7 days with immediate effect.

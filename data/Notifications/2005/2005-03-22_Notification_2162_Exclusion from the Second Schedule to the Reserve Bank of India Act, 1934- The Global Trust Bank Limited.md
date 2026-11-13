@@ -1,0 +1,64 @@
+---
+doc_id: "Notifications_2005_2162"
+title: "Exclusion from the Second Schedule to the Reserve Bank of India Act, 1934- The Global Trust Bank Limited"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61804.pdf"
+pdf_sha256: "072d19abfe3ff3a16f1ff4d2537a29d8f8c13d64f6bcff763b08f8fd7f7dcf73"
+md_sha256: "6949678b65284d01c92ab1fdc9f144f6d7ab667bd039298f42c593dcb872dba7"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:13:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-03-22_Notification_2162_Exclusion%20from%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934-%20The%20Global%20Trust%20Bank%20Limited.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exclusion from the Second Schedule to the Reserve Bank of India Act, 1934- The Global Trust Bank Limited
+
+<!-- PAGE 1 -->
+
+SANK
+
++ 1..'}3"!n'32
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2004-05/399
+
+DBOD.Ret.BC.No.77/12.06.092/2004-05
+
+March 22,2005
+
+All Scheduled Commercial Banks
+
+Dear Sirs,
+
+Exclusion from the Second Schedule to the Reserve Bank of India Act,
+
+1934-The Global Trust Bank Limited
+
+from the Second Schedule to the Reserve Bank of India Act, 1934 with effect
+
+from November 20, 2004,i.e. the date on which the relative notification
+
+published in the Gazette of India (Part Ill - Section 4).
+
+Yours faithfully
+
+Sd/-
+
+(S.Oram )
+
+Deputy General Manager
+
+is, ,E, ,",A, "之,S, ~n, ~Ai￥i,  1,~aA g,”",~, Y-400005
+
+Department of Banking Operations and Development, Central Offce, Centre 1, Cuffe Parade, Colaba, Mumbai -400005
+
+"ub,/Tel No: 91-22-22189131OiE-/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in
+
+LMi ,, -,f,A, eli,S fio

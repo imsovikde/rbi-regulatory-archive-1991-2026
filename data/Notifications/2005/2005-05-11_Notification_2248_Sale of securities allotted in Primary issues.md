@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2005_2248"
+title: "Sale of securities allotted in Primary issues"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62944.pdf"
+pdf_sha256: "af6d3217438c77cfa567c9ae131aa7d8d9e063e4e099f6c61a24ba32d2591fa9"
+md_sha256: "3ff6de9c6f3ba983dcfb3c74641e15e8cc855c6a1807f78b8058fc8e362de44d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-05-11_Notification_2248_Sale%20of%20securities%20allotted%20in%20Primary%20issues.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sale of securities allotted in Primary issues
+
+<!-- PAGE 1 -->
+
+RBI/2005/461 IDMD/PDRS /4777/10.02.01/2004-05 May 11, 2005
+
+## All RBI Regulated Entities
+
+## Dear Sirs
+
+## Sale of securities allotted in Primary issues
+
+It was proposed in the ‘Annual Policy Statement for the year 2005-06’ dated April 28, 2005 (paragraph 76) to permit sale of Government Securities allotted in primary issues with and between CGSL account holders also on the same day of allotment.
+
+2. As per the extant instructions of the Reserve Bank of India (RBI), (cf. IDMD.PDRS.No.PDS1/03.64.00/2000-01 dated October 6, 2000) the sale contract in respect of securities allotted to successful bidders in primary issues on the day of allotment, can be entered into, inter-alia, only between entities having SGL Account and settled under the RBI’s DVP system.
+3. As proposed in the ‘Annual Policy Statement’, in order to facilitate further deepening of the Government Securities market, it has been decided with immediate effect, to permit, sale of Government Securities allotted to successful bidders in primary issues on the day of allotment, with and between CSGL constituent account holders.
+4. All other instructions on sale of securities allotted in primary issues on the same day remain unchanged.
+5. Please acknowledge receipt.
+## Yours faithfully
+
+(B. Mahapatra) Chief General Manager-in-Charge

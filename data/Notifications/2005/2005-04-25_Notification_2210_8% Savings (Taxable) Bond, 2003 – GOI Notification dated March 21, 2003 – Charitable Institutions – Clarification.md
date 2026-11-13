@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2005_2210"
+title: "8% Savings (Taxable) Bond, 2003 – GOI Notification dated March 21, 2003 – Charitable Institutions – Clarification"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62543.PDF"
+pdf_sha256: "1edce0e3262692746a0d9679e466bb4491ede8447672c7d7127160f1dccb37cb"
+md_sha256: "9ef90d0056be3726bb40c315d94b4ce721471c5cb82e8290b15d6068adf34fdd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-04-25_Notification_2210_8%25%20Savings%20%28Taxable%29%20Bond%2C%202003%20%E2%80%93%20GOI%20Notification%20dated%20March%2021%2C%202003%20%E2%80%93%20Charitable%20Institutions%20%E2%80%93%20Clarification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 8% Savings (Taxable) Bond, 2003 – GOI Notification dated March 21, 2003 – Charitable Institutions – Clarification
+
+<!-- PAGE 1 -->
+
+RBI/2004-05/432 DGBA.CO.DT.No.13.01.299 /H. /2004-05 April 25, 2005
+
+The Chairman/ Managing Director State Bank of India/Associate Banks/ 17 Nationalised Banks/ 4 Private Sector Banks & SHCIL.
+
+Dear Sir, <u>8% Savings (Taxable) Bond, 2003 – GOI Notification dated March 21, 2003 –</u> <u>Charitable Institutions – Clarification</u>
+
+Please refer to our Circular RBI/2005/415 DGBA.CO.DT.No.13.01.299 /H.8563- 8609/2004-05 dated April 7, 2005 on the captioned subject. We advise that the concluding sentence of paragraph 2 of the above letter may please be read as, “only such institutions which have obtained Certificate under **Section 80G or 35(1) (ii) or** **(iii)** of Income Tax Act will be eligible for investment in 8% Savings (Taxable) Bonds, 2003 Scheme” instead of “only such institutions which have obtained Certificate under Section **80G and the 35(1) (ii) or (iii) of Income Tax Act** will be eligible for investment in 8% Savings (Taxable) Bonds, 2003 Scheme”.
+
+2. Please acknowledge receipt.
+Yours faithfully,
+
+(D. Rajagopala Rao) Deputy General Manager

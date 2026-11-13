@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2005_2268"
+title: "Enhancement in SSI Investment Limit in respect of Sports Goods- UCBs"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/63157.pdf"
+pdf_sha256: "9992217c0843ab707ca8aae197d4b23c49d9f2b6249bea3ad169fc98af2fcf47"
+md_sha256: "c11ab7f2ad421bb6b9b6e6e355e1820965578b9a68ecefb3e5b57f63e38f2fda"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-05-17_Notification_2268_Enhancement%20in%20SSI%20Investment%20Limit%20in%20respect%20of%20Sports%20Goods-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Enhancement in SSI Investment Limit in respect of Sports Goods- UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2004-05/472
+
+## UBD(PCB). Cir 48 /09.09.01/2004-05
+
+## May 17, 2005
+
+The Chief Executive Officers of All Primary (Urban ) Co-operative Banks
+
+Dear Sir, <u>Enhancement in SSI Investment Limit in respect of Sports Goods- UCBs</u>
+
+Please refer to our circular UBD.CO. BPD. 38/09.09.01/2003-04 dated March 19, 2004 regarding enhancement in the ceiling on investment in plant and machinery from Rs.1 crore to Rs.5 crore in respect of certain items reserved for manufacture in the SSI Sector.
+
+2. We advise that Government of India have since issued a Gazette Notification No.
+S.O 1109 (E) dated 13 October 2004 detailing the list of seven items belonging to **Sports Goods** which are reserved for manufacture in the Small Scale Industries (SSI) Sector, investment limit in plant and machinery for which has been enhanced from Rs.1 crore to Rs. 5 crore.. These items are in addition to 13 Stationery and 10 Drugs & Pharmaceutical items listed in the reserved items for manufacture in the SSI sector investment limit for which has already been enhanced (cf. Order S.O.655(E) dated 5 June 2003).
+3. You may accordingly reckon the bank advances to such SSI units for the purpose of classification under priority sector.
+4. A copy of Government of India, Ministry of SSI letter No.4(1)/2002-SSI Board & Pol dated 26 October 2004 together with a copy of Gazette Notification dated 13 October 2004 referred to above is enclosed.
+5. Please acknowledge receipt.
+Yours faithfully,
+
+(G. N. Rath) Deputy General Manager

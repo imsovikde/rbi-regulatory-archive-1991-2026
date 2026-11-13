@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2005_2193"
+title: "Rural Infrastructure Development Fund (RIDF) – Rates of Interest in respect of disbursed amounts of RIDF IV to VII"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62308.pdf"
+pdf_sha256: "5729d15033a79a31ecc128c0c5a72fab4f5f2ad5a6e6fac840ac7650e696b982"
+md_sha256: "1c0708d7fc95661b66b4fa8145dd600aeca2fc8c28a0282217bcdc54c6f47180"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-04-07_Notification_2193_Rural%20Infrastructure%20Development%20Fund%20%28RIDF%29%20%E2%80%93%20Rates%20of%20Interest%20in%20respect%20of%20disbursed%20amounts%20of%20RIDF%20IV%20to%20VII.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rural Infrastructure Development Fund (RIDF) – Rates of Interest in respect of disbursed amounts of RIDF IV to VII
+
+<!-- PAGE 1 -->
+
+## <u>RBI/2004-05/414</u>
+
+RPCD. Plan. BC. 91 /04.09.42/2004-05 April 7, 2005
+
+## The Chairman / Managing Director/
+
+## Chief Executive Officer
+
+*(All Domestic Scheduled Commercial Banks)*
+
+Dear Sir/ Madam, <u>Rural Infrastructure Development Fund (RIDF) – Rates of Interest in respect of disbursed amounts of RIDF IV to VII</u>
+
+Please refer to our circular No. RPCD. Plan. BC. 43/ 04.09.41/ 2003-04 dated November 4, 2003 communicating the revised interest rates on deposits and advances in respect of undisbursed amounts under RIDF-IV to IX with effect from November 1, 2003.
+
+It has been decided, with the approval of the Government of India, to restructure the lending and deposit rates in respect of the amounts disbursed on or before October 31, 2003 out of RIDF IV to VII with effect from April 16, 2005. The revised rates would be as under:
+
+## RID Deposit rates payable to banks (per cent per annum)
+
+**F** **Existing Revised** IV 11.5 8.0 V 11.5 8.0 VI 11.0 8.0 VII Interest rate linked to shortfall in agricultural 7.5 lending (varying between 10 and 7 per cent)
+
+3. Please acknowledge receipt.
+Yours faithfully,
+
+## (C.S. Murthy)
+
+## Chief General Manager-in-Charge

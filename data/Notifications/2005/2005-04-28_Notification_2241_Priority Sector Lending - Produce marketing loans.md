@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2005_2241"
+title: "Priority Sector Lending - Produce marketing loans"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62800.pdf"
+pdf_sha256: "4670cd6ebc916ae624767137dc27455d05509c8519b2fdddc1dad42ca575c304"
+md_sha256: "02904b8f44f07c44735c7b2a665473e961031e9c219a1c303246665c81618046"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-04-28_Notification_2241_Priority%20Sector%20Lending%20-%20Produce%20marketing%20loans.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending - Produce marketing loans
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/439
+
+RPCD.PLFS.BC.No.96/05.02.02/2004-05
+
+## April 28, 2005
+
+The Chairman/Managing Director/Chief Executive Officer All Scheduled Commercial Banks (Including RRBs and Local Area Banks)
+
+Dear Sir/Madam, **Priority Sector Lending-Produce marketing loans**
+
+Please refer to paragraph No. 1.1.1 of Master Circular RPCD.No. Plan BC 7/04.09.01/2004-05 dated July 20, 2004, on lending to Priority Sector, in terms of which advances granted by banks up to Rs. 5 lakh to farmers against pledge/ hypothecation of agricultural produce including warehouse receipts for a period not exceeding 12 months are treated as direct agricultural advances under the Priority Sector.
+
+2.In this connection, a reference is invited to Paragraph No. 82 of the Governor's Annual Policy Statement for the year 2005-06 (extract enclosed). Keeping in view the importance of post-harvest operations, the above credit limit has been increased to Rs.10 lakh.
+3.In view of the increasing business opportunities in financing agriculture, banks are requested to put in concerted efforts to step up credit flow to agriculture.
+4. Please acknowledge receipt.
+Yours faithfully,
+
+( C.S. Murthy ) Chief General Manager-in-Charge Encl: 1
+
+<!-- PAGE 2 -->
+
+## Paragraph No. 82 Flow of Credit to Agriculture
+
+- Keeping in view the importance of post-harvest operations, it is proposed to increase the limit on loans to farmers through the produce marketing scheme from Rs.5 lakh to Rs.10 lakh under priority sector lending.
+- There is a realisation amongst bankers that there are increasing business opportunities in financing agriculture, banks are, therefore, urged to continue their efforts to step up credit to agriculture.

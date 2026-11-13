@@ -1,0 +1,118 @@
+---
+doc_id: "Notifications_2005_2208"
+title: "Target under the Prime Minister Rozgar Yojana (PMRY) for the year 2005-2006"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62467.pdf"
+pdf_sha256: "9b3d3eb933a110349fa4066dceb163007147952b93857418705c65bc10b94e98"
+md_sha256: "01ebbaf2c39a1753a6ba7cdf1a45d6a23d4208efe6d6e809c890b5bbde0372f9"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-04-20_Notification_2208_Target%20under%20the%20Prime%20Minister%20Rozgar%20Yojana%20%28PMRY%29%20for%20the%20year%202005-2006.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Target under the Prime Minister Rozgar Yojana (PMRY) for the year 2005-2006
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/ 427 RPCD.PLNFS.BC.No. 95 /09.04.01/ 2004 –2005
+
+## April 20, 2005
+
+The Chairman / Managing Director All Indian Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Target under the Prime Minister Rozgar Yojana (PMRY) for the year</u>
+
+## <u>2005-2006</u>
+
+We advise that Government of India have set a target of 4,08,600, self-employment ventures for the country as a whole under PMRY for the year 2005 –2006. The State/ Union territory – wise physical targets are indicated in the Annexure ‘A’. In order to prevent bunching of cases at the end of the year, banks should aim at achieving quarterly progress of sponsoring of applications/Sanctioning and disbursement of loans /subsidies during 2005 –2006 as per the schedule prescribed in the Annexure ‘B’. Sponsoring shall be limited to 125 % of targets and completed by December end. Thereafter, States/ UTs may only replace rejected applications received from banks.
+
+2. We further advise that: _
+(i) The scheme will be implemented in the rural as well as in the urban areas of the country. (ii) All efforts should be made to achieve the target by the end of the year 2005 –2006. (iii) While processing the applications, you may instruct the DICs of your States/ UTs to take into account applications aIready pending with them so that such persons need not apply afresh. (iv) The scheme envisages 22.5 % reservation for SC/STs and 27 % reservation for Other Backward Classes (OBCs). A fair and adequate share may be ensured for women and the minorities.
+# (v) The States /UTs should continue to make efforts to improve loan recovery under the
+
+scheme.
+
+# (vi) Quarterly Progress of sponsoring and sanctioning of applications and disbursement of
+
+loans / subsidies during 2005 –2006 should be aimed at to prevent bunching of applications at the end of the year. Sponsoring shall be limited to 125 % of target and completed till December end. Thereafter, States /UTs may only replace rejected applications received from the banks. A schedule is prescribed at Annexure ‘B’.
+
+<!-- PAGE 2 -->
+
+(vii) The implementing agencies should try to sponsor /sanction maximum number of applications for Self –employment projects in the Industry Sector, in view of higher employment potential in this sector.
+
+3. Other terms and conditions of the scheme will remain the same as during the year 2004 –2005 subject to instructions from time to time.
+4. You may issue necessary instructions to your Regional /Controlling Offices/ Branches for active participation and achievement of allocated targets by 31.03.2006.
+5. Please acknowledge receipt.
+Yours faithfully,
+
+(G.P.Borah) Deputy General Manager
+
+<!-- PAGE 3 -->
+
+## <u>Annexure-A</u>
+
+## <u>Target (provisional) under the prime minister's Rozgar Yojana (PMRY) for the year 2005-2006</u>
+
+Target 2005-
+
+|Sr. No.|States/UTs||
+|---|---|---|
+|1.|Andhra Pradesh|43000|
+|2.|Assam|15000|
+|3.|Arunachal Pradesh|850|
+|4.|Bihar|16000|
+|5.|Delhi|4500|
+|6.|Goa|500|
+|7.|Gujarat|9600|
+|8|Haryana|10600|
+|9.|Himachal Pradesh|3550|
+|10.|Jammu & Kashmir|3000|
+|11.|Karnataka|24000|
+|12.|Kerala|28000|
+|13.|Madhya Pradesh|32000|
+|14.|Maharashtra|36000|
+|15.|Manipur|1500|
+|16.|Meghalaya|1400|
+|17.|Mizoram|300|
+|18.|Nagaland|1200|
+|19.|Orissa|18000|
+|20.|Punjab|9200|
+|21.|Rajasthan|18700|
+|22.|Tamil Nadu|27000|
+|23.|Tripura|3000|
+|24.|Uttar Pradesh|52500|
+|25.|West Bengal|24500|
+|26.|Andaman & Nicobar|400|
+|27.|Chandigarh|350|
+|28.|Daman & Diu|50|
+|29.|Dadra & Nagar Haveli|50|
+|30.|Lakshadweep|50|
+|31.|Pondicherry|900|
+|32.|Sikkim|100|
+|33.|Uttaranchal|7000|
+|34.|Jharkhand|9000|
+|35.|Chattisgarh Total|6800 408600|
+
+2006 (Nos.)
+
+<!-- PAGE 4 -->
+
+## <u>Annexure B</u>
+
+|Quarter|Sponsoring|Sanction|Disbursement|
+|---|---|---|---|
+|1|50%|25%|10%|
+|2|100%|50%|25%|
+|3|125% *|90%|75%|
+|4|--|100%|100%|
+
+st nd rd th
+
+*** After 31.12.2005 only cases rejected by banks may be replaced**

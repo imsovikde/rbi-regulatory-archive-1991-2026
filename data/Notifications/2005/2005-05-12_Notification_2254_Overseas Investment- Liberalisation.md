@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2005_2254"
+title: "Overseas Investment: Liberalisation"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62960.PDF"
+pdf_sha256: "e87c806f62913f9c6745b2454dad42114fc7f5c757fc05fa8ae3060173be3c14"
+md_sha256: "6fbe977976c7b71bb17a68b9c52afa75acbdfa81ed2fcc615677f60cabe89306"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-05-12_Notification_2254_Overseas%20Investment-%20Liberalisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Investment: Liberalisation
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2005/463 A.P.(DIR Series) Circular No. 42
+
+## May 12, 2005
+
+To All Banks Authorised to Deal in Foreign Exchange
+
+Madam/Sirs, **Overseas Investment: Liberalisation**
+
+Attention of authorised dealer (AD) banks is invited to Regulation 6 of the Notification No.FEMA.120/RB-2004 dated July 7, 2004 in terms of which an Indian entity is permitted to invest upto 100 per cent of their net worth in overseas Joint Ventures and/or Wholly Owned Subsidiaries (JV/WOS) in any bonafide business activity under automatic route.
+
+# 2022
+
+2. With a view to promoting Indian investment abroad and to enable Indian companies to reap the benefits of globalisation, it has been decided to raise the22, above ceiling from the present 100 per cent of the net worth to 200 per cent of the net worth of the investing company. Accordingly, under the automatic route for overseas investment, eligible Indian entities are now permitted to invest in overseas in JV/WOS upto 200 per cent of their net worth. All other provisions of the Notification mentioned
+# August
+
+above applicable to such investment shall remain unchanged. It is further clarified that the ceiling is not applicable to the investments made out of balances held in EEFC accounts and out of the proceeds of ADR / GDR issue, as hitherto.
+
+w.e.f.
+3. AD banks may, accordingly, allow remittances under automatic route upto 200 per cent of the net worth as on the date of the last audited balance sheet of the investing companies, after considering the proposals received in form ODA.
+4. Necessary amendments to the Foreign Exchange Management (Transfer or Issue of any foreign security) Regulations, 2004 are being issued separately.
+# Withdrawn
+
+5. AD banks may bring the contents of this Circular to the notice of their constituents and customers concerned.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999), and is without prejudice to permission / approvals, if any, required under any other law.
+## Yours faithfully,
+
+## (Vinay Baijal )
+
+## General Manager-in-Charge
