@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2022_DOR_CAP_REC_No_97_21_06_201_2021-22"
+title: "Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential Guidelines"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BILATERALNETTING9E666F30F72D4EC3B669762511D18636.PDF"
+pdf_sha256: "9bb9d5fa86847a08b2f2c0981c7c05de7b438a150918a188bb5974fdc2f350c7"
+md_sha256: "947bfe2a41ffa22d8fad92258b3b6ed95b572a55e05e16220ed6f4d232edeb96"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:46:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-03-31_Circular_DOR.CAP.REC.No.97-21.06.201-2021-22_Bilateral%20Netting%20of%20Qualified%20Financial%20Contracts%20-%20Amendments%20to%20Prudential%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential Guidelines
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2021-22/189 DOR.CAP.REC.No.97/21.06.201/2021-22 March 31, 2022
+
+Dear Sir/ Madam,
+
+### Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential Guidelines
+
+The Bilateral Netting of Qualified Financial Contracts Act, 2020 (hereafter referred to as “the Act”), has been notified by the Government of India vide Gazette Notification No. S.O. 3463(E) dated October 1, 2020. The Act provides a legal framework for enforceability of bilateral netting of qualified financial contracts (QFC).
+
+2. In exercise of the powers conferred by section 4(a) of the Act, the Reserve Bank, vide Notification no. FMRD.DIRD.2/14.03.043/2020-21 dated March 9, 2021, has since notified (a) “derivatives”; and (b) “repo” and “reverse repo” transactions as defined under Section 45(U) of Chapter III-D of the Reserve Bank of India Act, 1934 as a QFC.
+# Withdrawn
+
+3. Accordingly, select instructions contained in the following circulars/ Directions have been modified/ amended appropriately:
+a) <u>Master Direction DNBR.PD.004/03.10.119/2016-17 dated August 23, 2016</u> - Master Direction-Standalone Primary Dealers (Reserve Bank) Directions, 2016 as provided in <u>Annex 1</u>;
+b) <u>Master Circular DCBR.BPD.(PCB). MC.No.10/09.18.201/2015-16 dated July 1, 2015</u> on Prudential Norms on Capital Adequacy – UCBs as provided in <u>Annex 2</u>;
+c) <u>Circular RPCD.RCB.BC.No.37/07.51.012/2014-15 dated October 29, 2014</u> on Risk Weights for calculation of CRAR as provided in <u>Annex 3</u>;
+d) <u>Master Direction DOR.CAP.REC.No.61/21.01.002/2021-22 dated October 26, 2021</u>- Prudential Norms on Capital Adequacy for Local Area Banks (Directions), 2021 as provided in <u>Annex 4</u>; िविनयमन िवभाग,क �ीय कायार्लय, 12 व और 13 व मंिजल, क ीय कायार्लय भवन, शहीद भगत संह मागर्,फोटर्,मुंबई-400001
+दूरभाष: 022-22601000 फै क् स : 022-22705691 ई-मेल: cgmicdor@rbi.org.in _____________________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+e) <u>Master Circular RPCD.CO.RRB.No.BC.44/05.03.095/2007-08 dated December 28,</u> <u>2007</u> on Application of Capital Adequacy Norms to Regional Rural Banks as provided in <u>Annex 5</u>;
+f) <u>Master Direction DNBR.PD.008/03.10.119/2016-17 dated September 01, 2016</u> - Non- Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016 as provided in <u>Annex</u> <u>6</u>; and
+g) <u>Master Direction DOR.FIN.HFC.CC.No.120/03.10.136/2020-21 dated February 17,</u> <u>2021</u> - Non-Banking Financial Company – Housing Finance Company (Reserve Bank) Directions, 2021 as provided in <u>Annex 7</u>.
+The Directions mentioned above shall be accordingly updated.
+
+## Applicability
+
+4. This circular is applicable to All Standalone Primary Dealers, Primary (Urban) Co-operative Banks, State and District Central Cooperative Banks, Local Area Banks, Regional Rural Banks, Systemically Important Non-Deposit taking Non-Banking Financial Companies (NBFC- ND-SIs) and Deposit taking Non-Banking Financial Companies (NBFC-Ds) and Housing Finance Companies (HFCs), as mentioned in Annex 1 to 7 respectively. The revised instructions come into force with immediate effect.
+# Withdrawn
+
+Yours faithfully,
+
+(Usha Janakiraman) Chief General Manager
