@@ -1,0 +1,50 @@
+---
+doc_id: "Press-Releases_2018_45655"
+title: "364-Days Treasury Bills: Full Auction Result"
+category: "Press-Releases"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1298E323EA1ACDF74EFE9074A9B19DFC2A3E.PDF"
+pdf_sha256: "51fd6e09107e493abd99791094c6ab843ac5a9899b8b1404dd82fd495afa7d9a"
+md_sha256: "575dbfbb7c2a5883c7b8a84d6811fbd6698171c2bd9409161f35a755624f0b88"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T21:34:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-12-05_Press-Release_45655_364-Days%20Treasury%20Bills-%20Full%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 364-Days Treasury Bills: Full Auction Result
+
+<!-- PAGE 1 -->
+
+||प्रेस प्रकाशनी|PRESS RELEASE|
+|---|---|---|
+|||भारतीय �रज़वर् बक|
+|संचार वभाग, कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई _____________________________________________________________________________________________________________________|- 400001 0 वेबसाइट|RESERVE BANK OF INDIA : www.rbi.org.in/hindi|
+|DEPARTMENT OF COMMUNICATION|, Central Office, S.B.S.Marg, Mumbai-400001|Website : www.rbi.org.in|
+|फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358|इ-मेल email|: helpdoc@rbi.org.in|
+
+## December 05, 2018
+
+## 364-Days Treasury Bills: Full Auction Result
+
+## Date of Auction: December 05, 2018
+
+|I.|Notified Amount||4,000.00 crore|
+|---|---|---|---|
+|II.|Underwriting Notified Amount||0.00|
+|III.|Competitive Bids Received (i) (ii)|Number Amount|72 18,976.50 crore|
+|IV.|Cut-off price||93.34(YTM: 7.1548%)|
+|V.|Competitive Bids Accepted (i) (ii)|Number Amount|13 3,991.499 crore|
+|VI.|Partial Allotment Percentage of Competitive Bids||63.69% (9 Bids)|
+|VII.|Weighted Average Price||93.34|
+|VIII.|Non-Competitive Bids Received (i) (ii)|Number Amount|2 8.501 crore|
+|IX.|Non-Competitive Bids Accepted (i) (ii) (iii)|Number Amount Partial Allotment Percentage|2 8.501 crore 100% (0 Bids)|
+|X.|Amount of Underwriting Accepted from Primary Dealers||0.00|
+|XI.|Devolvement on Primary Dealers||0.00|
+
+## Ajit Prasad
+
+**Press Release : 2018-2019/1298** Assistant Adviser

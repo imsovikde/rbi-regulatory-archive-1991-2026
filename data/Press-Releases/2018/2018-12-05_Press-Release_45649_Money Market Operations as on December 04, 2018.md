@@ -1,0 +1,70 @@
+---
+doc_id: "Press-Releases_2018_45649"
+title: "Money Market Operations as on December 04, 2018"
+category: "Press-Releases"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1291175326220A794F549AB4BAE54B9CE79A.PDF"
+pdf_sha256: "63b0d85b62c288c088a5f12c6c28e7be4dcdfd9a769fa1528caf757da93f4ff1"
+md_sha256: "7a8b166d820c6e4816b995559b257b5ebdd273ddefc654109a30706b4d27e2cd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T21:34:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-12-05_Press-Release_45649_Money%20Market%20Operations%20as%20on%20December%2004%2C%202018.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on December 04, 2018
+
+<!-- PAGE 1 -->
+
+## ेस काशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+संचार िवभाग**,** क � ी य कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 0वेबसाइट :www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S. Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 222266 0502 फै क् स /Fax: 91 222266 0358 इ-मेलemail **:** <u>helpdoc@rbi.org.in</u>
+
+December 05, 2018 **Money Market Operations as on December 04, 2018** (Amount in Rupees billion, Rate in Per cent)
+
+||@ MONEY MARKETS|Volume (One Leg)|Weighted Average Rate|Range|
+|---|---|---|---|---|
+|A.|Overnight Segment (I+II+III+IV)|2,276.17|6.31|5.00-6.85|
+||I. Call Money|199.52|6.35|5.00-6.50|
+||II. Triparty Repo|1,575.54|6.30|6.15-6.36|
+||III. Market Repo IV. Repo in Corporate Bond|496.11 5.00|6.31 6.85|5.50-6.50 6.85-6.85|
+|B.|Term Segment||||
+||I. Notice Money**|1.05|6.29|5.65-6.50|
+||@@ II. Term Money|1.12|-|6.40-6.90|
+||III. Triparty Repo|0.50|6.01|6.01-6.05|
+||IV. Market Repo V. Repo in Corporate Bond|18.40 5.80|6.66 8.90|5.75-6.75 7.90-9.20|
+
+||@ RBI OPERATIONS|Auction Date|Tenor (Days)|Maturity Date|Amount Outstanding|Current Rate/Cut off Rate|
+|---|---|---|---|---|---|---|
+||C. Liquidity Adjustment Facility (i) Repo (Fixed Rate) (ii) Repo (Variable Rate)|04/12/2018 13/11/2018|1 56|05/12/2018 08/01/2019|31.41 200.02|6.50 6.60|
+|||13/11/2018|28|11/12/2018|200.01|6.55|
+|||22/11/2018|15|07/12/2018|235.01|6.52|
+|||27/11/2018|14|11/12/2018|107.20|6.51|
+|||30/11/2018|14|14/12/2018|110.50|6.51|
+||(iii) Reverse Repo (Fixed Rate) (iv) Reverse Repo (Variable Rate)|04/12/2018 04/12/2018 29/11/2018|14 1 7|18/12/2018 05/12/2018 06/12/2018|126.50 163.24 144.55|6.51 6.25 6.49|
+|||30/11/2018|7|07/12/2018|121.71|6.49|
+|||03/12/2018|7|10/12/2018|177.59|6.49|
+|||04/12/2018|7|11/12/2018|19.93|6.49|
+|||04/12/2018|1|05/12/2018|348.93|6.49|
+|D.|Marginal Standing Facility|04/12/2018|1|05/12/2018|0.50|6.75|
+|E.|Standing Liquidity Facility Availed from RBI|$|||21.04||
+
+<u>RESERVE POSITION</u> **@**
+
+|F.|Cash Reserves Position of Scheduled Commercial Banks|||
+|---|---|---|---|
+||(i) Cash balances with RBI as on# (ii) Average daily cash reserve requirement for the fortnight ending|November 30, 2018 December 01, 2018 December 07, 2018|5,017.79 5,105.08 4,868.56|
+|G.|¥ Government of India Surplus Cash Balance Reckoned for Auction as on|December 04, 2018|0|
+
+@ Based on Reserve Bank of India (RBI) / Clearing Corporation of India Limited (CCIL) / Fixed Income Money Market and Derivatives Association of India (FIMMDA) Data. -Not Applicable / No Transaction ** Relates to uncollateralized transactions of 2 to 14 days tenor. @@ Relates to uncollateralized transactions of 15 days to one year tenor # The figure for the cash balances with RBI on Sunday is same as that of the previous day (Saturday). $ Includes refinance facilities extended by RBI ¥ As per the Press Release No. 2014-2015/1971 dated March 19, 2015
+
+### Ajit Prasad
+
+**Press Release : 2018-2019/1291** Assistant Adviser
