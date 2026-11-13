@@ -1,0 +1,271 @@
+---
+doc_id: "Notifications_2013_8149"
+title: "Revision to the Guidelines on Securitisation Transactions-Reset of Credit Enhancement"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RCE01072013.pdf"
+pdf_sha256: "54771a2b565fb4ac87e561279b024bf4966c3cf415731c1c64e7997a55c60d2b"
+md_sha256: "bc1039558e77dd768e02cf2aceed63be4a42c878b92fb78dec9b9362a1ef4eda"
+total_pages: 13
+native_pages: 12
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:40:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-07-01_Notification_8149_Revision%20to%20the%20Guidelines%20on%20Securitisation%20Transactions-Reset%20of%20Credit%20Enhancement.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revision to the Guidelines on Securitisation Transactions-Reset of Credit Enhancement
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2013-14/111
+
+July 1,2013
+
+DBOD.No.BP.BC-25/21.04.177/2013-14
+
+TheChairmanandManagingDirector/
+
+ChiefExecutiveOfficerof
+
+AllScheduled CommercialBanks
+
+(Excluding RRBs and Local Area Banks)
+
+and All-lndia Term Lending and
+
+Refinancing Institutions
+
+(EximBank,NABARD,NHB and SIDBI)
+
+Dear Sir,
+
+Revision to the Guidelines on SecuritisationTransactions-Reset of Credit
+
+Enhancement
+
+Please refer to the Paragraph 83 (extract enclosed) of the Monetary Policy Statement 2013-
+
+14 announced on May 3, 2013 on issuance of 'Guidelines on Reset of Credit Enhancement
+
+in Securitisation'.
+
+2. In the draft guidelines issued on securitisation transactions in September 2011, the
+
+Reserve Bank had proposed to permit reset of credit enhancement subject to certain
+
+conditions. However, in view of certain issues, it was indicated in Reserve Bank's final
+
+guidelines on securitization titled 'Revisions to the Guidelines on Securitisation Transactions'
+
+dated May 7, 2012 that guidelines on resetting of credit enhancements would be issued
+
+separately.
+
+3. Taking into account the comments received from various stakeholders in response to the
+
+draftguidelinesmentioned above,guidelinesonresetofcreditenhancementhavenowbeen
+
+finalised andare enclosed inAnnex.Theoriginalamountofcreditenhancementcanbe
+
+reset and excesswithdrawnby thecreditenhancementprovidersubject to theconditions
+
+prescribed in this circular.
+
+4. All other guidelines on securitisation of assets including those contained in our 'Master
+
+Circular on Basel Ill Capital Regulations' dated July 1, 2013 remain unchanged.
+
+Yours faithfully,
+
+(Chandan Sinha)
+
+PrincipalChiefGeneral Manager
+
+Department of Banking Operations & Development, Central Office, 12th Floor, Central Office Building,
+
+Shahid Bhagat Singh Marg, Mumbai - 400 001, E-mail : cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Extract from Monetary Policy Statement for the Year 2013-14
+
+## Guidelines on Reset of Credit Enhancement in Securitisation
+
+83. The Reserve Bank issued guidelines on 'Revisions to the Guidelines on Securitisation Transactions' in May 2012. The guidelines introduced norms on minimum holding period, minimum retention ratio, loan origination standards and standards of due diligence with regard to securitisation transactions to ensure orderly growth of the Indian securitisation market. While the extant guidelines do not permit reset of credit enhancements during the life of the securities issued by the special purpose vehicle, it was indicated in May 2012 that guidelines on resetting of credit enhancement would be issued separately. Accordingly, it is proposed to:
+* issue the final guidelines on reset of credit enhancement in securitisation by end-June
+2013.
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Guidelines on Reset of Credit Enhancements in Securitisation Transactions
+
+1. Credit enhancement is the process of enhancing credit profile of a structured financial transaction through provision of additional security/financial support, for covering losses on securitized assets in adverse conditions. The enhancements can be broadly divided into two types viz. internal credit enhancement and external credit enhancement. A credit enhancement which, for the investors, creates exposure to entities other than the underlying borrowers is called the external credit enhancement. For instance, cash collaterals and first/second loss guarantees are external forms of credit enhancements. Investment in subordinated tranches, over-collateralisation, excess spreads, credit enhancing interest-only strips are internal forms of credit enhancements.
+2. Resets can be applied to external forms of credit enhancement provided by a third party or the originator, which is in first or second loss position. The original amount of external credit enhancements provided at the time of initiation of securitisation transaction can be reset by the credit enhancement provider subject to the conditions enumerated below.
+(i) At the time of reset, all the outstanding tranches of securities should be re-rated (other than equity tranches which are not rated). The first reset of credit enhancement will not be permitted if the rating of any of the tranches has deteriorated vis-a-vis the original rating of these securitization positions. Subsequent resets would not be permitted if the rating of any of the tranches has deteriorated vis-à-vis the rating at the time of previous reset. (ii) If reset is permissible in terms of (i) above, the amount of credit enhancement required for retaining the original or current outstanding rating, whichever is higher should be determined by the concerned
+1 rating agency for the first reset. Similarly, for subsequent resets, the
+
+Only the rating agency which had rated the securitization transaction initially shall re-rate it for the purpose of reset of credit enhancement.
+
+<!-- PAGE 4 -->
+
+amount of credit enhancement required for retaining the higher of the rating at the time of previous reset and current outstanding rating should be determined by the concerned rating agency. (iii) The reset of credit enhancement would be subject to the consent of trustees. (iv) The reset of credit enhancement should be provided for in the contractual terms of the transaction and the initial rating of the transaction should take into account the likelihood of resets. In respect of the transactions already entered into in terms of <u>circular DBOD.No.</u> <u>BP.BC-103/21.04.177/2011-12 dated May 07, 2012</u>, reset can be carried out subject to the consent of all investors of outstanding securities. In respect of the transactions entered into prior to May 2012 guidelines, the stipulation pertaining to MRR will also have to be complied with in addition to other conditions for reset of CE mentioned in this circular.
+
+(v) The reset may be carried out simultaneously between first loss credit enhancement (FLCE) and second loss credit enhancement (SLCE) in a proportion such that the reset maintains the outstanding rating [as envisaged in Para 2(ii) above] of second loss credit enhancement (SLCE). However, reset of equity tranche is not allowed as it would tantamount to internal credit enhancement.
+3. The pool of underlying loans must demonstrate satisfactory performance before reset is permitted. Accordingly, the reset of credit enhancement and release of collateral/guarantee/ any other exposure constituting external credit enhancement should be based on the compliance with all the terms and conditions/triggers defined as under:
+a. At the time of first reset, at least 50% of the total principal amount assigned at the time of initiation of the securitization transaction
+2 must have been amortised. The subsequent resets may be carried out after the Pool principal has amortised up to at least 60%, 70%
+
+Amortisation means repayment and write off, if any, of principal.
+
+<!-- PAGE 5 -->
+
+and 80% of the original level. However, a minimum gap of six
+
+months and one year should be maintained between successive
+
+resets for transactions of up to 5 years' tenor and more than 5
+
+## years' tenor, respectively.
+
+b. No reset should happen if the ‘Delinquency Trigger’ is breached. The Delinquency Trigger for this purpose shall be treated as having
+## been breached if:
+
+## The total amount of:
+
+3 All overdues up to 180 days (for transactions of up to 2 years' tenor) or 365 days (for transactions of more than 2 years' tenor) ***Plus*** Total value at risk (overdues plus future principal outstanding) in deeper buckets (greater than 180 or 365 days for transactions of tenor up to 2 years and exceeding 2 years, respectively) ***Plus*** 4 Other losses not captured in above two categories (irrespective of whether they are written off or not),
+
+## exceed 50% of the ‘amortisation-adjusted amount of first loss
+
+**5** **and second loss position cover**’**.**
+
+**and**
+
+## The total amount of:
+
+All overdues up to 180 days (for transactions of up to 2 years' tenor) or 365 days (for transactions of more than 2 years' tenor)
+
+## Plus
+
+**3** ‘Overdues’ refer to the sum total of all the installments (interest and principal) that have already fallen due and have not been serviced by the borrowers i.e. the amount that has fallen due for payment but remains unpaid by the borrower.
+
+4 'Other Losses' refer to all losses/shortfalls that might have crystallized such as losses on sale of repossessed assets or other events rendering the accounts irrecoverable in the view of the concerned rating agency even prior to the completion of the specified overdue period of 180 days or 365 days as the case may be.
+
+5 Amortisation adjusted amount of first loss and second position cover is ‘the original amount of first loss and second position cover available at the time of undertaking securitisation transaction’ multiplied by ‘percentage of principal already amortised’.
+
+<!-- PAGE 6 -->
+
+Total value at risk (overdues plus future principal outstanding) in deeper buckets (greater than 180 or 365 days for transactions of tenor up to 2 years and exceeding 2 years, respectively) **Plus** Other losses not captured in above two categories and not written off
+
+## exceed 50% of the ‘available first loss and second loss position
+
+**6 cover’ .**
+
+4. The excess credit enhancement can be released subject to the following conditions :
+a. The release of credit enhancement would be subject to a reserve floor as a percentage of the initial credit enhancement provided at the time of transaction. The stipulation of the floor may be based on the transaction structure, depending on asset class, the track record of the originator and other pool specific factors such as concentration of long term contracts in a pool, and in no case should be less than **30%** of the initial credit enhancement.
+b. A maximum of 60% of the credit enhancement in excess of that required to retain the credit rating of all the tranches as referred to in para 2 (ii) above assigned to them can be considered for release, at any point of time subject to fulfilling the reserve floor indicated at Para 4(a) above.
+c. The reset should not lead to exposures retained by originators along with credit enhancements offered by them falling below the level of MRR prescribed in Section A Para 1.3.1 of RBI's Securitisation Guidelines dated May 7, 2012. In respect of securitization transactions initiated prior to the issue of the revised guidelines of May 2012, the MRR requirement must be fulfilled for availing the reset facility.
+6 Available first loss and second position cover is the amount of first loss and second position cover remaining after any prior reset or absorption of losses.
+
+<!-- PAGE 7 -->
+
+5. In order to facilitate a common understanding amongst stakeholders and to allow the market to understand the linkage between good pool performance and CE reset, CRAs may disseminate information pertaining to CE reset via press release and may confirm that ratings will be unaffected by such reset.
+6. An illustration of reset of credit enhancement is given in Appendix.
+--------x--------
+
+<!-- PAGE 8 -->
+
+## Appendix
+
+## Reset of Credit Enhancement-Example
+
+## Transaction Balance Sheet
+
+|Capital Structure|Rating|Rs. Crore|
+|---|---|---|
+|Senior Tranche|AAA|1000|
+|Second Loss Credit Enhancement (SLCE)|BBB|50|
+|First Loss Credit Enhancement (FLCE)|NR*|150|
+
+## Liabilities Assets
+
+Senior Tranche 1000 Receivables 1000 (PTCs) Reserve 200 FLCE+SLCE 200
+
+## 1200 1200
+
+* Not Rated
+## Sr.No. Circular Particulars Compliance Non-compliance
+
+## <u>Para No.</u>
+
+I. **Position at the time of Initial Transaction**
+## Scenario I Scenario II
+
+1 **Amount of Loans transferred 1000** **(Original Pool Principal Balance)** 2 **Amount of PTCs issued 1000** 3 **Ratings**
+
+a. Senior tranche **AAA**
+b. SLCE **BBB**
+**c.** FLCE **NR**
+4 **Original Credit Enhancement** A **Amount of first loss credit 150** **enhancement**
+
+<!-- PAGE 9 -->
+
+|||a. b.|By originator By third parties|50% 50%|75 75|||
+|---|---|---|---|---|---|---|---|
+|B||a. b.|Amount of second loss credit enhancement By originator By third parties|50% 50%|50 25|25||
+|5 II.||a. b.|Investment by originator as part of MRR (10% of 1000) First Loss Senior Tranche Position at the time of reset of credit enhancement|75 40|115|MRR Complied|Position at the time of reset of credit enhancement|
+|6|||Amount of Loans outstanding||400||400|
+|7 8|||Amount of PTC outstanding Available Credit Enhancement||420||500|
+|A||a. b.|Amount of first loss credit enhancement available By originator By third parties||100 50 50||80 40 40|
+|B 9||a. b. a.|Amount of second loss credit enhancement available By originator By third parties Amount of interest and principal over due for delinquencies up to 365|i|50 25 15|25|50 25 25 25|
+|||b.|days delinquencies in deeper ii buckets (>365 days)||10||20|
+
+<!-- PAGE 10 -->
+
+||10||||||||||||||||||Amount|||||||||||of||||future|||||||||principal|||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||11 III. 12 13 14 15 16||||||||Para 2 2 (i) 2(iii) 2(iv) 2(ii)||||||||||outstanding for delinquencies in deeper buckets(>365 days) Amount of Other losses not captured in (9) and (10) above Compliance with various terms and conditions Form of Credit Enhancement Ratings Whether reset is being carried out subject to the consent of trustees a. b. Amount of credit enhancement required to retain the rating of the tranches as determined by the Rating Agency|||Whether contemplated in the original terms of the contract In contracts), carried consent of all investors of outstanding securities|a. Senior tranche b. Second Loss|Total [9(a)+9(b)+10+11]||||case|||out||the||is|No subject|||reset reset (provided by||||(existing|to||being|was|the||||||
+||17||||||||3 (a)||||||||||CRA) Amount of principal amortised (pool amortisation)|||||||||||||||||||||||||||||||||||
+
+## 25 70 5 10 55 125
+
+External <u>Complied</u> External Complied AAA Complied AAA Complied BBB <u>Complied</u> BBB Complied Yes Complied Yes Complied Yes Complied
+
+NA **100 120**
+
+600 60% -60%-Complied [(1-6)/1] <u>Complied</u>
+
+<!-- PAGE 11 -->
+
+||18||||||||3 (b)||||||||||(i)Trigger 1||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||||||a. b. c. d. e. f. (ii)Trigger 2 a. b. c. d. e. f.|||Loans Overdue up to 365 days) Value at risk for delinquencies in deeper buckets Other losses Total Losses Amortisation-adjusted Enhancement 50% Credit Enhancement Loans Overdue up to 365 days) Value at risk for delinquencies in deeper buckets Other losses less write offs Total Losses Available Credit enhancement 50%||||||of||of||Amortisation-adjusted||Available||||(Delinquencies (Delinquencies||||||||Credit Credit||||||||||[(600/1000 200]|||||35 (10+25)|[9 (b)+10] [9 (b)+10]||(10+25)|||||15 35 15|5 of 3||||[8 A +8 B]|||||150 breached|120|55 60 53||||Trigger I is not breached as 55<60 Trigger 2 is not as 53<75|||||||||||[9 (b)+10]|90(20+70) [9 (b)+10] [8 A +8 B]||(20+70)|||120 125>60 120 130|125|25 90 10 60 25|5|||Trigger I breached as Trigger 2 breached as 120>65|||||||||is is||||||
+||19||||||||4 (a)||||||||||Reserve Floor (30% of 200)|||enhancement|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||75 60||||Complied as 60<|||||||||||||||||||65||||Not relevant as no reset can|||||||||||||||
+
+<!-- PAGE 12 -->
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||100|||||||||||||||||||||||take place due|||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||20||||||||4 (b)|||||||||||Amount withdrawn||||||||||||||which||||||||can|||||||be|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||to breach of Trigger 1 & 2|||||||||||||||
+||21||||||||4 (c)|||||||||||||a. b. a. b.|||Excess enhancement Withdrawable amount MRR required Amount released from FLCE, such that maintained||||||rating|||||that||of (provided||||can SLCE||||credit|||be is by|||||||[60% of 20(a)]|||[18(ii) (e)-16]||(60% of 50) 10% of 420|(10% of 7)|(150-100)|||||||||||||||||50|30 42 20|iii|||Complied with as 42<57 (See 21 (j))||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||c. d. e. f.|||CRA) Amount withdrawal from First loss Share of originator Amount from SLCE Amount withdrawal||||||||||to|available available||from|be||||released|second|||after after|||||||||||[50% of 21(c)]||[20(b)-21(b)]|100-20= 80 [8 A-21(b)]|50% of 80 [8 B-21(e)]||||30-20 50-10|||||||||||||||80 40 10 40||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||g.|||loss Share of originator||||||||||||||||||||||||||||||||||[50% of 21(f)]|||50% of 40|||||||||||||||||||20||||||||||||||||||||||||||||||||||||||||||
+
+<!-- PAGE 13 -->
+
+|||h. Investment of Originator in Senior Tranche i. Total investment by the originator j. Total investment by the originator eligible for MRR|[(40/1000)*420] [(5(b)/1)*7] 17+40+20 [21(h)+21(d)+21(g)] 17+40 [21(h)+21(d)]|17 77 57||||
+|---|---|---|---|---|---|---|---|
+|21||a. Amount of first loss credit enhancement which is finally withdrawable b. Amount of second loss credit enhancement which is finally withdrawable||20 10||||
+
+i The tenor of the transaction has been assumed to be greater than 2 years
+
+ii In case, a few assets are rendered irrecoverable even before the completion of 365 days (say after 90 days only), then the entire value at risk (overdues plus future principal outstanding) pertaining to these assets would be captured immediately without waiting till 365 days
+
+iii The excess amount available for reset will be computed subject to the fulfilment of Reserve Floor. So even if Credit Enhancement required to retain the ratings as per this circular is less than 60 (say 40), the reserve floor requirement of 60, as calculated in this example, will still have to be adhered to i.e. the excess amount available for reset would be 150-60=90 and not 150-40=110.

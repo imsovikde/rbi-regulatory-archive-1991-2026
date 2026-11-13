@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2013_8235"
+title: "Unsolicited Commercial Communications – National Customer Preference Register (NCPR)"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UCCNCR150713.PDF"
+pdf_sha256: "680b79521b3b3d361815074190998acf69ea5b5f9b1bacf61edd00a237d6e02a"
+md_sha256: "5ff37c4832283c4dec4d1778e220e83c81787c29554ac7114c91673fc7d993b2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-07-15_Notification_8235_Unsolicited%20Commercial%20Communications%20%E2%80%93%20National%20Customer%20Preference%20Register%20%28NCPR%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Unsolicited Commercial Communications – National Customer Preference Register (NCPR)
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/136 DBOD.No.FSD.BC.30/24.01.001/2013-14 July 15, 2013
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/ Madam, **Unsolicited Commercial Communications – National Customer Preference** **Register (NCPR)**
+
+Please refer to our <u>circular Nos. DBOD.FSD.BC.49/24.01.011/2005-06 dated November</u> <u>21, 2005</u>, <u>DBOD.FSD.BC.19/24.01.011/2007-08 dated July 3, 2007</u>, <u>DBOD.FSD.BC.35/24.01.011/2007-08 dated October 19, 2007</u> and <u>DBOD.No.FSD.</u> <u>BC.45/24.01.011/2008-09 dated September 17, 2008</u> on the above subject in terms of which banks were advised to employ only those DMAs/ DSAs / call centres who are registered as telemarketers with DoT, Govt. of India, as per Telecom Regulatory Authority of India (TRAI) Regulations, 2007 for the purpose of soliciting or promoting
+
+# Withdrawn
+
+any commercial transaction.
+
+2. As per the “Telecom Commercial Communications Customer Preference Regulations, 2010” issued by TRAI, any person involved in sending of commercial communications has to register with TRAI as a telemarketer. It has, however, been brought to our notice that many banks, financial institutions as also their franchisees are engaging telemarketers who are not registered with TRAI, for marketing their services and these unregistered telemarketers use their normal telephone connections for making commercial calls to customers registered in the National Customer Preference Register. This is resulting in a lot of customer grievance.
+__________________________________________________________________________________________________________ **Department of Banking Operations and Development, Central Office, 13th floor, Shahid Bhagat Singh Marg, Fort, Mumbai** **400 001** **Tel No: 91-22-22661602/Fax No: 91-22-22701240 Email ID:** cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. It is, therefore, reiterated that banks should engage only those telemarketers who are registered in terms of the guidelines issued by TRAI, from time to time, for all their promotional/ telemarketing activities. These guidelines should be strictly complied with. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager
+# Withdrawn

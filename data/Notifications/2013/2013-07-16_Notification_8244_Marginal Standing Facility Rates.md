@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2013_8244"
+title: "Marginal Standing Facility Rates"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CMSFR16072013HC.pdf"
+pdf_sha256: "998acd45365f51663dc9ab68ad6c43faf82b8c3d0d425613bce94fa2799a2518"
+md_sha256: "e664fe1bcb8a3ae96b2ff3914ce588533177e0db180c10dee3f40b48295129b5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-07-16_Notification_8244_Marginal%20Standing%20Facility%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Marginal Standing Facility Rates
+
+<!-- PAGE 1 -->
+
+RBI/2013-2014/140 FMD.MOAG. No.79 /01.01.001/2013-14 July 16, 2013
+
+All Scheduled Commercial Banks (excluding RRBs) and Primary Dealers
+
+Dear Sir, <u>Marginal Standing Facility Rates</u> As you are aware, Reserve Bank of India announced various measures yesterday to address the exchange rate volatility. As a part of the measures, it has been decided to recalibrate the Marginal Standing Facility (MSF) rate at 300 basis points above the policy Repo rate under the Liquidity Adjustment Facility (LAF) with immediate effect. Consequently, the Marginal Standing Facility (MSF) rate will now be **10.25 per cent**.
+
+2. All other terms and conditions of the current MSF Scheme will remain unchanged.
+3. Please acknowledge receipt.
+## Yours sincerely
+
+(G. Mahalingam) Principal Chief General Manager

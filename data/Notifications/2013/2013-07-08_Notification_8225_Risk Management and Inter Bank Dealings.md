@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2013_8225"
+title: "Risk Management and Inter Bank Dealings"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/07APDCF080713.pdf"
+pdf_sha256: "383bb99bd3892e40fa47fd66ebc982331c777c732c14b22b153fa966f95c9672"
+md_sha256: "206ade597e3d421cca0e37b95edc05d2b539e6a5d4eb59f3d3f110d2051c1442"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-07-08_Notification_8225_Risk%20Management%20and%20Inter%20Bank%20Dealings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter Bank Dealings
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/127
+
+A.P. (DIR Series) Circular No. 7
+July 8, 2013 To, All Authorised Dealer Category-I Banks Madam / Sir, <u>Risk Management and Inter Bank Dealings</u> Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to the
+
+<u>A.P.(DIR Series) Circular No.129 dated May 21, 2012</u> regarding participation in Currency Futures / Exchange Traded Currency Options markets.
+2. On a review of the evolving market conditions, it has been decided that AD Category – I banks should not carry out any proprietary trading in the currency futures / exchange traded currency options markets. In other words, any transaction by the AD Category – I banks in these markets will have to be necessarily on behalf of their clients.
+3. These instructions shall come in to effect immediately and shall be in force till further orders.
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+(Rudra Narayan Kar) Chief General Manager-in-Charge

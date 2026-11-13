@@ -1,0 +1,86 @@
+---
+doc_id: "Notifications_2013_8234"
+title: "Know Your Customer Norms/Anti-Money Laundering Standards/Combating of Financing of Terrorism/Obligations under PMLA, 2002"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/KYC12072013F.pdf"
+pdf_sha256: "72ef9409db4d809f62626457aef90f87148496f1b9649d60ed949b7a2a493264"
+md_sha256: "6452f0c921ec9142032e08bf89b287e41c550243c5213d01c1c579ac788f0c7d"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-07-12_Notification_8234_Know%20Your%20Customer%20Norms-Anti-Money%20Laundering%20Standards-Combating%20of%20Financing%20of%20Terrorism-Obligations%20under%20PMLA%2C%202002.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer Norms/Anti-Money Laundering Standards/Combating of Financing of Terrorism/Obligations under PMLA, 2002
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/135 DBOD.AML.BC. No.29 /14.01.001/2013-14 July 12, 2013
+
+The Chairmen / CEOs of all Scheduled Commercial Banks (Excluding RRBs)/Local Area Banks / All India Financial Institutions
+
+Dear Sir,
+
+**Know Your Customer (KYC) Norms/Anti-Money Laundering (AML)** **Standards/Combating of Financing of Terrorism (CFT)/Obligations under** **Prevention of Money Laundering Act (PMLA), 2002**
+
+We invite a reference to paragraph 89 (extracts enclosed) of the Monetary Policy Statement 2013-14 announced on May 3, 2013, wherein it was indicated that banks were not carrying out customer due diligence and maintaining details of records, as required under KYC/AML/CFT guidelines, while marketing and distributing third party products as agents. It was also indicated that some banks were not filing Cash Transaction Reports (CTRs) or Suspicious Transaction Reports (STRs) in such cases, wherever required. Additionally, recent investigations by the Reserve Bank in the light of alleged violation of KYC/AML guidelines by several banks have shown that these guidelines have been violated, particularly in the case of walk-in customers. In this background, it has been found necessary to reiterate and strengthen certain existing guidelines on KYC/AML/CFT for strict compliance.
+
+2. The Reserve Bank has issued various guidelines from time to time on the captioned subject, which includes, inter alia, the following:
+(a) In terms of <u>Master Circular DBOD.AML.BC. No. 24/14.01.001/2013-14</u> <u>dated July 1, 2013</u>, banks are required to have in place a KYC policy, which includes, among other things, customer acceptance policy and customer identification procedures. Among other things, in terms of circular DBOD.BP.BC.110/21.02.051/98 dated November 19, 1998, quoting of PAN number is mandatory while opening an account or making a time deposit exceeding Rs. 50,000 and any person who has not been allotted a PAN number shall make a declaration in Form No. 60/61. बकैं किं ग परिचालन औि विकास विभाग, कें द्रीय कायाालय, कें द्रीय कायाालय भिन, 13ि िं मिंजिल, शहीद भगत ससिंह मागा, मबिंई – 400 001
+<u>फोन: 022-22701223, फैक् स: 022-22701239, ईमेल-: cgmicdbodco@rbi.org.in, िेबसाइट: www.rbi.org.in</u> Department of Banking Operations & Development, Central Office, Central Office Building, 13thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22701223, Fax : 022-22701239, E-mail : <u>cgmicdbodco@rbi.org.in</u>, Website : www.rbi.org.in "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+(b) A customer is defined in paragraph 1.2 of the Master Circular, inter alia, as “a person or entity that maintains an account and/or has a business relationship with the bank” and “any person or entity connected with a financial transaction which can pose significant reputational or other risks to the bank, say, a wire transfer or issue of a high value demand draft as a single transaction”. Further, as per paragraph 2.5 (i) of the Master Circular, “In case of transactions carried out by a non-account based customer, that is a walk-in customer, where the amount of transaction is equal to or exceeds rupees fifty thousand, whether conducted as a single transaction or several transactions that appear to be connected, the customer's identity and address should be verified. However, if a bank has reason to believe that a customer (account based or walk-in) is intentionally structuring a transaction into a series of transactions below the threshold of Rs.50,000/- the bank should verify the identity and address of the customer and also consider filing a suspicious transaction report (STR) to FIU-IND”. In terms of Clause (b)(ii) of sub-Rule (1) of Rule 9 of the PML Rules, 2005 banks and financial institutions are required to verify the identity of the customers for all international money transfer operations.
+(c) In terms of paragraph 2.1(ii) of the Master Circular, banks should ensure that any remittance of funds and issue of travellers’ cheques for value of Rs. 50,000/- and above is effected by debit to the customer’s account or against cheques. In terms of paragraph 4(i) of our <u>circular DBOD.AML.BC.18/</u>
+<u>14.01.001/2002-03 dated August 16, 2002</u>, the applicants (whether customers or not) for the above transactions for amount exceeding Rs. 50,000 should affix PAN number on the applications. The instruction, first issued in 1991, was extended to purchase of gold/silver/platinum by customers for Rs. 50,000 and above, vide our circular DBOD No. IBS.1816/23.67.001/98-99 dated February 4, 1999.
+(d) In terms of paragraph 2.5 and 2.21 of the Master Circular, banks are required to file Cash Transaction Reports (CTRs) and Suspicious Transaction Reports (STRs), wherever required (i.e. structuring a transaction into a series of transactions below the threshold limit).
+
+<!-- PAGE 3 -->
+
+(e) In terms of paragraph 2.20(iv)(c) of the Master Circular, banks are required to put in place appropriate software to throw alerts when the transactions are inconsistent with risk categorisation and updated profile of customers. Further, it was added that a robust software throwing alerts is essential for effective identification and reporting of suspicious transactions.
+(f) The Master Circular, at paragraph 2.20, requires banks to maintain proper record of transactions in compliance with the relative legal requirements.
+(g) In addition, in terms of Rule 114B of the Income Tax Rules, every person shall quote his PAN number in all documents pertaining to various transactions listed in the Rules, which includes, at sub-Rule (j), deposit in cash aggregating fifty thousand rupees or more with a bank during any one day.
+3. While the guidelines in paragraph 2(b) are specific to walk-in customers, paragraphs 2 (c), (d), (e), (f) and (g) above are applicable in equal measure to both account based and walk-in customers.
+4. A number of banks were found to have violated the above instructions. Illustrative instances are given below:
+(a) Walk-in customers’ identity and address were not verified where cash transactions exceeded Rs. 50,000 in the sale of insurance products/third party products.
+(b) In many cases, demand draft/ gold coins/ third party products were issued/ sold to customers/ walk-in customers against cash in excess of Rs. 50,000.
+(c) Banks were not verifying the identity and address of the walk-in customer or filing CTR/STR to FIU-IND even when there was reason to believe that the customer was intentionally structuring cash transactions below Rs. 50,000/- in order to avoid reporting or monitoring.
+(d) Non-filing of CTR/STR was also observed in the case of account based customers who were intentionally structuring cash transactions below Rs. 50,000/- in order to avoid reporting or monitoring.
+
+<!-- PAGE 4 -->
+
+(e) PAN number/Form 60/61 was not being obtained in the case of transactions of Rs. 50,000 and above. In some cases, dummy/fictitious PAN numbers were being quoted.
+(f) The software in use at some banks was not capable of capturing cash deposited by walk-in customers parked in internal accounts like sundry deposit account, cash collection account, etc., pending transfer to appropriate accounting heads, sale of gold/silver/platinum and third party products, so as to generate alerts for filing the CTR/STR.
+(g) Some banks were not maintaining records in respect of walk-in customers.
+In this connection, it is reiterated that banks should meticulously follow the instructions in letter and spirit and ensure that violations of the above nature do not recur. Such violations would be viewed seriously by the Reserve Bank and would involve imposition of penalties.
+
+5. When banks sell third party products as agents, the responsibility for ensuring compliance with KYC/AML/CFT regulations lies with the third party. However, to mitigate reputational risk to banks and to enable a holistic view of a customer’s transactions, banks are advised to follow the instructions given below:
+(a) Even while selling third party products as agents, banks should verify the identity and address of the walk-in customer.
+(b) Banks should also maintain transaction details with regard to sale of third party products and related records for a period and in the manner prescribed in paragraph 2.20 of the Master Circular.
+(c) Banks’ AML software should be able to capture, generate and analyse alerts for the purpose of filing CTR/STR in respect of transactions relating to third party products with customers including walk-in customers.
+(d) The instructions to make payment by debit to customers’ accounts or against cheques for remittance of funds/issue of travellers’ cheques, sale of gold/silver/platinum and the requirement of quoting PAN number for transactions of Rs. 50,000 and above, as detailed in paragraph 2.(c) above, would also be applicable to sale of third party products by banks as agents to customers, including walk-in customers.
+
+<!-- PAGE 5 -->
+
+6. The above instructions in respect of third party products would also apply to sale of banks’ own products, payment of dues of credit cards/sale and reloading of prepaid/travel cards and any other product above the threshold of Rs. 50,000/-.
+7. Banks should verify the PAN numbers given by the account based as well as walk-in customers in view of the reported findings that dummy/fictitious PAN numbers were quoted for transactions of Rs.50,000 and above. It is reiterated that bank’s internal audit and compliance function should evaluate and ensure adherence to the KYC policies and procedures. Concurrent/Internal auditor should specifically check and verify the application of KYC procedures at the branches and comment on the lapses observed. The compliance in this regard should be put up before the Audit Committee of the Board on quarterly intervals.
+8. It is reiterated that the AML software in use at banks needs to be comprehensive and robust enough to capture all cash and other transactions, including those relating to walk-in customers, sale of gold/silver/platinum, payment of dues of credit cards/reloading of prepaid/travel cards, third party products, and transactions involving internal accounts of the bank. The utility of the CTR/STR alerts for risk categorisation of customers should also be examined.
+9. In terms of paragraph 2.11(b) of the Master Circular, banks were advised to ensure that their audit machinery is staffed adequately with individuals who are well- versed in KYC policies and procedures. Banks are expected to ensure that all KYC/AML/CFT related processes, especially scrutiny and analysis of suspicious transaction alerts, are adequately staffed with individuals conversant with KYC/AML/CFT regulation and procedures.
+10. Banks may review their KYC/AML/CFT policy in the light of the above instructions and ensure strict compliance with the same. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager
+## Encl: As above
+
+<!-- PAGE 6 -->
+
+## Monetary Policy Statement 2013-14
+
+## Know Your Customer (KYC) Norms/Anti-Money Laundering (AML) Standards/Combating Financing of Terrorism (CFT)
+
+89. During the investigations referred to [in paragraph 86], it was observed that banks are not carrying out customer due diligence as required under KYC/AML/CFT guidelines while marketing and distributing third party products as agents. Some banks are also not filing Cash Transaction Reports (CTRs) or Suspicious Transaction Reports (STRs) in such cases, wherever required. In this context, it is proposed to advise banks to:
+- carry out customer due diligence as required under extant KYC/AML/C FT guidelines wherever third party products are sold as agents as a measure of abundant precaution, even though KYC/AML/CFT regulations are also applicable to the principal, *i.e.,* the third party vendor of the products;
+- maintain details of third party products sold and related records for a period and in the manner as prescribed in the KYC/AML/CFT guidelines; and
+- file CTRs and STRs wherever required, under the extant KYC/AML/CFT guidelines while marketing and distributing third party products as agents.
