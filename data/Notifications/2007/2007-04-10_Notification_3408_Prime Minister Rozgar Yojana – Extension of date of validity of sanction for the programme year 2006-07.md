@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2007_3408"
+title: "Prime Minister Rozgar Yojana – Extension of date of validity of sanction for the programme year 2006-07"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76684.pdf"
+pdf_sha256: "da4255e64b652d5c5716f6ccee8dd36597e52a8b66d9fb9b3e1c2f3981b700b4"
+md_sha256: "1efbb445341aff07a1a78a9e6dd4dcb65b40af04b7cea12f190e00b4cf54b1bd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-04-10_Notification_3408_Prime%20Minister%20Rozgar%20Yojana%20%E2%80%93%20Extension%20of%20date%20of%20validity%20of%20sanction%20for%20the%20programme%20year%202006-07.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prime Minister Rozgar Yojana – Extension of date of validity of sanction for the programme year 2006-07
+
+<!-- PAGE 1 -->
+
+## RBI/2006- 2007/316 RPCD.PLNFS.BC.No. 68/09.04.01/ 2006 – 2007
+
+## April 10, 2007
+
+The Chairman / Managing Director All Indian Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+**Prime Minister Rozgar Yojana – Extension of date of** <u>validity of sanction for the programme year 2006-07</u>
+
+Please refer our circular **RBI / 2005-06 / 358 / RPCD.PLNFS.BC.No.74/ 09.04.01/2005 –2006 dated** **April 13, 2006.** In view of the unsatisfactory performance of the implementing banks of PMRY for the programme year 2006-07, the Ministry of Agro & Rural Industries, Government of India has decided to extend the validity of sanction and completion of disbursements for the Programme Year 2006-07 to **June 30, 2007.**
+
+2. All implementing banks of PMRY are requested to strictly adhere to this deadline and complete the disbursements of sanctioned cases under the programme year 2006-07 by **June 30, 2007** without fail.
+3. You may issue necessary instructions to your Regional /Controlling Offices/ Branches in this regard.
+4. Please acknowledge receipt.
+Yours faithfully,
+
+(G.P. Borah) Deputy General Manager

@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2007_3417"
+title: "Exim Bank's Line of Credit (LOC) of USD 11 million to the Government of the Republic of Senegal"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76841.pdf"
+pdf_sha256: "0eeb80a12293499680fc979c016a88655d9d563e97070af4f4c1fb165ae47ba6"
+md_sha256: "1f7adbce637a0504faa57cba04ea1f0209b5d43d80562c197b51e25383edc994"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-04-16_Notification_3417_Exim%20Bank%27s%20Line%20of%20Credit%20%28LOC%29%20of%20USD%2011%20million%20to%20the%20Government%20of%20the%20Republic%20of%20Senegal.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank's Line of Credit (LOC) of USD 11 million to the Government of the Republic of Senegal
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/323 A.P. (DIR Series) Circular No. 39
+
+## April 16, 2007
+
+To,
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+**Exim Bank's Line of Credit (LOC) of USD 11 million to the Government of the Republic of Senegal**
+
+Export-Import Bank of India (Exim Bank) has concluded an agreement dated January 15, 2007 with Government of the Republic of Senegal, making available to the latter, a Line of Credit (LOC) of USD 11 million (USD Eleven million only) for financing Indian exports to Senegal to support the women poverty alleviation programme and acquisition of 400 vehicles from India which are eligible for export under the Foreign Trade Policy of the Government of India and whose purchase may be agreed to be financed by Exim Bank under this Agreement. Out of the total credit, not less than 85 per cent shall be utilised for financing purchase of eligible goods from India or be of Indian origin.
+
+2. The Credit Agreement under the LOC is effective from February 20, 2007. Under the LOC, the terminal utilisation period will expire at the end of 48 months from the scheduled completion date(s) of contract(s) in case of project exports and January 14, 2013 (72 months from date of execution of Credit Agreement i. e. January 15, 2007) in case of other supply contracts.
+3. Shipments under the credit will have to be declared on GR / SDF Forms as per instructions issued by Reserve Bank from time to time.
+4. No agency commission shall be payable in respect of exports financed under the line of credit. However, if required, the exporter may use his own resources or utilise balances of his EEFC account for payment of commission in free foreign exchange. Authorised Dealer Category-I (AD Category-I) banks may allow such remittance after realisation of full payment of contract value subject to compliance of prevailing instructions on payment of agency commission.
+5. AD Category-I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain full details of the Line of Credit from Exim Bank's office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005.
+6. The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangaharan)
+
+## Chief General Manager-in-Charge

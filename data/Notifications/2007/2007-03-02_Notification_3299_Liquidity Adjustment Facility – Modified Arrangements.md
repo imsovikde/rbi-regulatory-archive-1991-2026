@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2007_3299"
+title: "Liquidity Adjustment Facility – Modified Arrangements"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76101.pdf"
+pdf_sha256: "49968abe8d1b181f465be4b2a705801cf50697dc9be40345b589ca8304a190bf"
+md_sha256: "fed9e09d979b28f4746d36377a783add1eccdc997439535f87c6e0e4b68a0e7d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-03-02_Notification_3299_Liquidity%20Adjustment%20Facility%20%E2%80%93%20Modified%20Arrangements.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility – Modified Arrangements
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/279 FMD.MOAG No. 12/01.01.01/2006-07
+
+## March 2, 2007
+
+## All Scheduled Commercial Banks (excluding RRBs) and Primary Dealers
+
+Dear Sir,
+
+## <u>Liquidity Adjustment Facility – Modified Arrangements</u>
+
+Please refer paragraphs 89 and 95 of the Third Quarter Review of Annual Statement on Monetary Policy for the Year 2006-07 and the press release issued today on 'Liquidity Management – Modified Arrangements'. The existing arrangements for LAF in place vide our circulars IDMD.OMO No.7/03.75.00/2004-05 dated October 27, 2004 and FMD.MOAG.No.4/01.01.01/2005-06 dated February 10, 2006 are being modified in accordance with today's announcement. The revised modifications would come into force starting the First LAF of March 5, 2007 and would continue till further notice.
+
+2. Accordingly, starting March 5, 2007 (Monday), daily reverse repo absorptions would be limited to a maximum of Rs.3,000 crore each day, comprising Rs.2,000 crore in the First LAF and Rs. 1,000 crore in the Second LAF. Allocations would normally be made proportionately on a *pro-rata* basis in case the tenders exceed these amounts.
+3. While bidding in LAF auctions, scheduled commercial banks (excluding RRBs) and primary dealers should ensure that clear funds are available with them to cover the bid at the time of its submission.
+4. All other terms and conditions remain the same as notified earlier.
+## Yours faithfully
+
+(Chandan Sinha) Chief General Manager

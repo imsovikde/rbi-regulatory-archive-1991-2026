@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2007_3314"
+title: "StCBs - Maintenance of CRR"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/76119.pdf"
+pdf_sha256: "d2edad23d3a8486499bbb07bfaa5f85114c11d5a7e6c920232024f0a2a9d78db"
+md_sha256: "5b478180c4c4bd88699eb6d06cf04f810cbb7ad36c2fcf1698cfcd02971cb777"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-03-02_Notification_3314_StCBs%20-%20Maintenance%20of%20CRR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# StCBs - Maintenance of CRR
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/276
+
+RPCD.RF.BC.54/07.02.01/2006-07 March 02, 2007
+
+## All Scheduled State Co-operative Banks
+
+Dear Sir,
+
+## <u>Section 42(1) of Reserve Bank of India Act, 1934-Maintenance of Cash Reserve Ratio (CRR)</u>
+
+Please refer to our Circular RBI/2005-2006/424 RPCD.RF.BC/93/07.02.01/ 2005-06 dated June 22, 2006 on the captioned subject. Government of India in their Extraordinary Gazette notification No.S.O.21(E) dated January 9, 2007 have notified January 9, 2007 as the date on which all the provisions, except Section 3 of the Reserve Bank of India (Amendment) Act, 2006 shall come into force.
+
+Section 3 of Reserve Bank of India (Amendment) Act, 2006 provided for the removal of:
+
+(1) the ceiling and floor on the CRR to be prescribed by the RBI having regard to the need for securing monetary stability in the country: and
+(2) the provision for interest payment on eligible CRR balances [i.e., the amount of reserves between the statutory minimum CRR and the CRR prescribed by the RBI]. Since the above Section 3 is not notified so far, the minimum CRR level of 3 per cent and the maximum CRR level of 20 per cent of total of bank's demand and time liabilities shall remain in force from June 22, 2006 as per the extant provisions of Section 42 (1) of the Reserve Bank of India Act, 1934. Accordingly effective CRR maintained by Scheduled State Co-operative Banks on total demand and time liabilities shall not be less than 3 per cent subject to the exemptions as indicated in our circular RPCD.RF.BC.56/07.02.01/2006-07 March 02, 2007. Further in exercise of the powers conferred on Reserve Bank of India under sub section (1) of section 42 of the Reserve Bank of India Act, 1934, it has been decided that every Scheduled State Co-operative Bank should continue to maintain a Cash Reserve Ratio of 5.75 per cent effective from the fortnight beginning from February 17, 2007 and 6.00 per cent effective from the fortnight beginning from March 3, 2007 of its total demand and time liabilities.
+2. In terms of the powers conferred on the Reserve Bank under sub-Section 42(5)(c) of the Reserve Bank of India Act, 1934, it has been decided to exempt such banks from payment of the penal interest who have breached the statutory minimum CRR level of 3 per cent during June 22,
+
+<!-- PAGE 2 -->
+
+2006 to March 2, 2007 on account of CRR exemptions reckoned for computation of demand and time liabilities for CRR.
+
+3. It has also been decided that the Reserve Bank of India will pay interest to all Scheduled State Co-operative Banks on the eligible CRR balances at the rate of:
+(a) 3.50 per cent per annum on eligible cash balances maintained with the Reserve Bank of India under CRR requirement from the fortnight beginning June 24, 2006 to December 8, 2006.
+(b) 2.00 per cent on eligible cash balances maintained with the Reserve Bank of India under CRR requirement from the fortnight beginning from December 9, 2006 to February 16, 2007.
+(c) 1.00 per cent on eligible cash balances maintained with the Reserve Bank of India under CRR requirement from the fortnight beginning from February 17, 2007.
+4. A copy of the relevant notification RPCD.RF.BC53/07.02.01/ 2006-07/ dated March 02, 2007 is enclosed.
+5. Please acknowledge receipt to our Regional Office concerned..
+## Yours faithfully
+
+(K.Bhattacharya) General Manager
