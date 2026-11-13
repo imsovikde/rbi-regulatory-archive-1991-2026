@@ -1,0 +1,563 @@
+---
+doc_id: "Draft-Notifications-Guidelines_2025_168"
+title: "Reserve Bank of India (Rural Co-operative Banks – Asset Liability Management) Directions, 2025"
+category: "Draft-Notifications-Guidelines"
+year: 2025
+source_rbi_url: "http://rbidocs.rbi.org.in/rdocs/notification/PDFs/16RCBALM101020251AEDFCCC7C164E62975A62AA2526C077.PDF"
+pdf_sha256: "1e54f6e33348de0cb605d1d2417b0dc74a6ebbed862f42217e2633a34ab72527"
+md_sha256: "c03900ac0c38868a9e52bef1348a863176e5b037ff57af87950187e745e1b8a3"
+total_pages: 31
+native_pages: 30
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T11:04:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_168_Reserve%20Bank%20of%20India%20%28Rural%20Co-operative%20Banks%20%E2%80%93%20Asset%20Liability%20Management%29%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Rural Co-operative Banks – Asset Liability Management) Directions, 2025
+
+<!-- PAGE 1 -->
+
+# Draft Reserve Bank of India (Rural Co-operative Banks – Asset Liability Management) Directions, 2025
+
+# DRAFT FOR COMMENTS
+
+RBI/2025-26/-- DOR.LRG.REC.No./ 00-00-000/2025-26 XX, 2025
+
+# Reserve Bank of India (Rural Co-operative Banks – Asset Liability Management) Directions, 2025
+
+# Table of Contents
+
+**Chapter I: Preliminary........................................................................................................... 3**
+
+**A. Short Title and Commencement............................................................................... 3**
+**B. Applicability................................................................................................................ 3**
+**C. Definitions................................................................................................................... 3**
+**Chapter II- Role of the Board............................................................................................... 4**
+
+**A. Responsibilities of the Board ................................................................................... 4**
+**B. Board approved policies, limits, and reviews......................................................... 4**
+**Chapter III-Asset Liability Management Governance........................................................ 5**
+
+**A. Introduction................................................................................................................ 5**
+**B. ALM Information Systems......................................................................................... 6**
+**C. ALM Organization ...................................................................................................... 6**
+**D. ALM Process .............................................................................................................. 7**
+**Chapter IV- Liquidity Risk Management ............................................................................. 8**
+
+**A. Introduction................................................................................................................ 8**
+**B. Maturity/Cash flow mismatches ............................................................................... 8**
+**C. Dynamic Liquidity Assessment................................................................................ 9**
+**D. Liquidity Adjustment Facility (LAF) and Marginal Standing Facility (MSF) for**
+**Scheduled StCB .............................................................................................................. 10**
+**Chapter V- Interest Rate Risk (IRR) Management.............................................................11**
+
+**A. Introduction...............................................................................................................11**
+**B. Traditional Gap Analysis..........................................................................................11**
+**C. Statement of Interest Rate Sensitivity.................................................................... 12**
+**Chapter VI- General ............................................................................................................ 13**
+
+**A. Behavioural Patterns............................................................................................... 13**
+
+<!-- PAGE 2 -->
+
+**B. Embedded Options.................................................................................................. 13**
+**C. Transfer Price Mechanism....................................................................................... 13**
+**D. Financial Reporting and Role of Auditors ............................................................. 13**
+**Chapter- VII- Monitoring and Reporting............................................................................ 15**
+**Chapter- VIII- Repeal and Other Provisions ..................................................................... 16**
+
+**A. Repeal and Saving................................................................................................... 16**
+**B. Application of other laws not barred...................................................................... 16**
+**C. Interpretations.......................................................................................................... 16**
+**Annex-I: Statement of Structural Liquidity................................................................... 17**
+**Annex-II: Statement of Short-term Dynamic Liquidity................................................. 19**
+**Annex-III: Statement of Interest Rate Sensitivity.......................................................... 22**
+**Annex IV: Maturity Profile-Liquidity............................................................................. 25**
+**Annex V: Interest Rate Sensitivity................................................................................. 29**
+
+<!-- PAGE 3 -->
+
+In exercise of the powers conferred by Section 35A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in public interest to do so, hereby, issues the Directions hereinafter specified.
+
+## Chapter I: Preliminary
+
+## A. Short Title and Commencement
+
+1 These Directions shall be called the Reserve Bank of India (Rural Co-operative Banks – Asset Liability Management) Directions, 2025. 2 These Directions shall come into effect from the date of issue.
+
+**B. Applicability** 3 These Directions shall be applicable to Rural Co-operative Banks (hereinafter collectively referred to as 'banks' and individually as a 'bank'). *In this context, rural co-operative banks shall mean State Co-operative Banks* *and Central Co-operative Banks, as defined in the National Bank for Agriculture* *and Rural Development Act, 1981*.
+## C. Definitions
+
+4 In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them below:
+
+(1) ‘**Defeasance period**’ means time taken to liquidate the investment in securities on the basis of liquidity in the secondary market.
+(2) ‘**Interest Rate Risk**’ is the risk where changes in market interest rates might adversely affect a bank's financial condition.
+(3) ‘**Embedded Options**’ means customers exercising their options (premature closure of deposits and prepayment of loans and advances).
+5 All other expressions unless defined herein shall have the same meaning as have been assigned to them under the BR Act, the RBI Act, rules/regulations made thereunder, or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+
+<!-- PAGE 4 -->
+
+## Chapter II- Role of the Board
+
+## A. Responsibilities of the Board
+
+6 The Board shall have an overall responsibility for risk management and shall decide the risk management policy of a bank including ALM Policy, and set limits for liquidity, interest rate and equity price risks. 7 The Managing Committee of the Board or any other specific committee constituted by the Board shall oversee the implementation of the ALM system and review its functioning periodically. 8 The Board shall be responsible for providing adequate information to the stakeholders.
+
+## B. Board approved policies, limits, and reviews
+
+9 The Board / Management Committee shall approve internal prudential limits for cumulative mismatches (running total) across all time buckets of the structural liquidity statement (SLS) for monitoring by a bank. 10 The business and risk management strategy of the bank should ensure that the bank operates within the limits / parameters set by the Board. 11 The Board / ALCO of a bank shall approve the volume, composition, holding/ defeasance period and cut-loss limits of the ‘current category’. 12 The Board / Management Committee shall approve prudential limits on individual gaps in Statement of Interest Rate Sensitivity (IRS) for a bank. The prudential limits shall have a bearing on the Total Assets, Earning Assets or Equity. The Board / Management Committee shall also approve a prudent level of Earnings at Risk (EaR) or Net Interest Margin (NIM) for the bank. 13 The Board / ALCO shall approve the estimates of behavioural pattern, embedded options, rolls-in and rolls-out, etc. of various components of assets and liabilities on the basis of past data / empirical studies for classification of the same in the appropriate time buckets.
+
+<!-- PAGE 5 -->
+
+## Chapter III-Asset Liability Management Governance
+
+## A. Introduction
+
+14 A bank shall establish an Asset Liability Management (ALM) system that offers a comprehensive and dynamic framework for measuring, monitoring, and managing liquidity, interest rate, currency/ foreign exchange and equity price risks. The ALM framework shall be closely aligned with the bank’s business strategy. 15 The bank shall use the ALM function to promote risk management discipline by making informed business decisions that account for inherent risks. ALM decisions shall be integrated, addressing asset-liability mix and maturity structure simultaneously. 16 The ALM system shall be developed into a strategic tool for a bank’s management, clearly specifying the risk policies and tolerance limits. 17 A bank shall ensure that the ALM process encompasses the following:
+
+(1) Planning, directing and controlling the flow, mix, cost and yield of the consolidated funds.
+(2) Assessment of various asset mixes, funding combinations, price volume relations, and their implications on Liquidity, Income and Capital ratio.
+(3) Planning procedure covering all assets and liabilities by rate, amount and maturity.
+(4) Management of the Net Margin to ensure that its level and riskiness are comparable with the risk / return objectives of a bank.
+(5) Simultaneous management of assets and liabilities for the purpose of mitigating the impact of the interest rate risk, providing liquidity, and enhancing the market value of equity.
+(6) Managing the income spread while controlling the related risks.
+18 A bank shall implement the ALM system on the following three pillars:
+
+(1) ALM Information Systems
+(2) ALM Organisation
+(3) ALM Process
+
+<!-- PAGE 6 -->
+
+## B. ALM Information Systems
+
+19 A bank shall align its ALM operations within the risk policies and tolerance limits approved by the Board. Top Management of the bank shall put in place a robust Management Information System (MIS) to facilitate timely and accurate data collection. A bank shall evolve the MIS to better capture the risk parameters, measurements of identified risks and their management. 20 A bank shall supplement its balance sheet, income and cash flow statements with risk disclosures to promote efficient resource allocation, enforce financial discipline, enhance transparency and reflect its true financial health.
+
+## C. ALM Organization
+
+21 A bank shall establish an Asset-Liability Management Committee (ALCO) comprising Top Management, including CEO. The ALCO shall meet regularly, ensure compliance with Board-approved limits and align asset-liability strategies with budget and risk objectives. 22 The size (number of members) of ALCO shall depend on the size of the bank’s business mix and organisational complexity. The CEO / MD or General Manager shall head the ALCO, and Heads of Investment, Credit and Strategy, Resources Management, Treasury, Risk Management can be members of the ALCO, along with other members, as deemed suitable. The Head of the IT will be a special invitee. An RCB, at its discretion, may have Sub-Committees and Support Groups. 23 The ALM Support Groups consisting of operating staff shall be responsible for analysing, monitoring and reporting the risk profiles to the ALCO. The staff shall also prepare forecasts (simulations) showing the effects of various possible changes in market conditions related to the balance sheet and recommend the action needed to adhere to prescribed internal limits. 24 The ALCO shall be responsible for balance sheet planning from risk-return perspective, including the strategic management of interest rate and liquidity risks. A bank shall define the roles and responsibilities of its ALCO, as also the decisions to be taken by it. A bank’s business and risk management strategy shall ensure that it operates within the limits / parameters set by the Board. 25 The agenda/ typical business of ALCO shall include the following:
+
+<!-- PAGE 7 -->
+
+(1) Review of progress in implementation of the decisions made in the previous meetings.
+(2) Review of Assets and Liabilities position
+(3) Review of Structural Liquidity position periodically
+(4) Review of Dynamic Liquidity Statement
+(5) Review of Interest Rate Sensitivity Statement
+(6) Pricing of both deposits and advances and suggest desired maturity profile and mix of the incremental assets and liabilities.
+(7) Review of various risks likely to be faced by the banks such as Liquidity, Interest Rate, Forex risk, etc.
+(8) Review of the impact of the regulatory changes on the industry
+(9) Review of the variances in actual and projected performances with regard to Net Interest Margin (NIM), spreads, and other balance sheet ratios. (10) Decide the introduction of any new loan / deposit product and its impact on interest rate / exchange rate and other market risks (11) Oversee the budgetary process
+26 The agenda indicated above is illustrative and not exhaustive. A bank shall incorporate such other issues which, in its opinion, need to be discussed in the committee based on the local conditions. A bank shall take a view on whether all the agenda items are required to be discussed in all the meetings, and agenda can be fixed for each meeting depending upon the emergent needs and priority. 27 A bank shall decide the frequency for holding its ALCO meetings, as also take steps for capacity building of the Nodal Officer and other officers involved in ALM functions.
+
+## D. ALM Process
+
+28 The bank shall ensure that the ALM process covers the following functional areas with focus on liquidity and interest rate risks
+
+(1) Liquidity risk management
+(2) Management of market risks
+(3) Trading risk management
+(4) Funding and capital planning
+(5) Profit planning and growth projection
+
+<!-- PAGE 8 -->
+
+## Chapter IV- Liquidity Risk Management
+
+## A. Introduction
+
+29 A bank’s management shall measure its liquidity position on an ongoing basis, as also evaluate liquidity requirements under different assumptions by putting in place a system for ascertaining its cash flow mismatches periodically.
+
+## B. Maturity/Cash flow mismatches
+
+30 A bank shall use maturity ladder tool to measure and manage net funding requirements. A bank shall use Structural Liquidity Statement (SLS) at Annex-I of the Directions for calculation of cumulative surplus or deficit of funds at selected maturity dates. 31 A bank shall use the Maturity Profile as given in Annex-IV of the Directions for measuring the future cash flows in different time buckets. The time buckets shall be distributed as under:
+
+(1) 1 to 14 days
+(2) 15 to 28 days
+(3) 29 days and upto 3 months
+(4) Over 3 months and upto 6 months
+(5) Over 6 months and upto 1 year
+(6) Over 1 year and upto 3 years
+(7) Over 3 years and upto 5 years
+(8) Over 5 years.
+32 The SLS shall place all cash inflows and outflows in the maturity ladder according to the expected timing of cash flows. A maturing liability shall be a cash outflow while a maturing asset shall be a cash inflow. A bank shall make appropriate assumptions according to its asset-liability profile while determining the likely cash inflows and outflows. A bank shall also take into account all relevant factors, based on its asset-liability base and nature of business while determining the tolerance levels.
+
+<!-- PAGE 9 -->
+
+33 A bank shall primarily focus on the short-term mismatches (1-14 days and 15-28 days). The mismatches (negative gap) during 1-14 days and 15-28 days shall not exceed 20 per cent of the cash outflows in each time bucket. 34 A bank shall monitor its cumulative mismatches (running total) across all time buckets by establishing internal prudential limits with the approval of the Board / Management Committee. 35 A bank’s investment in SLR securities and other investments in permanent category shall be shown under respective maturity buckets, corresponding to the residual maturity. 36 A bank maintaining securities in the ‘current’ category, distinct from investments made for complying with the Statutory Reserve requirements and for retaining relationship with customers, shall be permitted to place such trading securities into 1-14 days, 15-28 days and 29-90 days buckets on the basis of the defeasance periods, provided following conditions are met:
+
+(1) Composition and value are clearly defined;
+(2) Maximum maturity/ duration of the portfolio is restricted;
+(3) The holding period does not exceed 90 days;
+(4) Defeasance period is prescribed product-wise;
+(5) Securities are ‘Marked to market’ as per extant regulatory instructions.
+37 The Board / ALCO of a bank shall approve the volume, composition, holding / defeasance period and cut-loss limits of the ‘current category’. A copy of the approved policy note shall be forwarded to the Department of Supervision, NABARD, and Financial Inclusion and Development Department (FIDD), RBI under advice to the respective Regional Office. 38 A bank may also be guided by the Guidance Note on Liquidity Risk Management issued by NABARD dated July 30, 2024.
+
+## C. Dynamic Liquidity Assessment
+
+39 A bank shall estimate its short-term liquidity profiles on the basis of business projections and other commitments for planning purposes, to monitor its short- term liquidity on a dynamic basis over a time horizon spanning from 1-90 days, as per format of Statement of Dynamic Liquidity provided in Annex-II of the Directions.
+
+<!-- PAGE 10 -->
+
+## D. Liquidity Adjustment Facility (LAF) and Marginal Standing Facility (MSF) for
+
+## Scheduled StCB
+
+40 A Scheduled State Cooperative Bank (StCB) which is Core Banking Solution (CBS) enabled and maintains a Capital to Risk-weighted Assets Ratio (CRAR) of at least 9 per cent shall be eligible to access the Liquidity Adjustment Facility (LAF) and the Marginal Standing Facility (MSF). 41 The terms and conditions for availing LAF and MSF would be as per the instructions issued by Financial Markets Operations Department (FMOD) of the Reserve Bank of India from time to time. 42 The Department of Regulation (DoR) shall communicate to the FMOD, the list of Scheduled StCBs eligible to participate in LAF and MSF (“Positive List”) and the list of Scheduled StCBs found ineligible (“Negative List”). 43 The eligibility status of a Scheduled StCB in the Positive List shall be reviewed on an ongoing basis to ensure that the CRAR requirement is being complied with.
+
+<!-- PAGE 11 -->
+
+## Chapter V- Interest Rate Risk (IRR) Management
+
+## A. Introduction
+
+44 Interest rate risk from ‘earnings perspective’ is the immediate impact of interest rate changes on bank’s earnings (i.e. reported profits) through changes in its Net Interest Income (NII). Interest rate risk from ‘economic value’ perspective is long- term impact of interest rates changes on bank’s Market Value of Equity (MVE) or Net Worth as the economic value of bank’s assets, liabilities and off-balance sheet positions get affected due to variation in market interest rates. The risk from the earnings perspective can be measured as changes in the Net Interest Income (NII) or Net Interest Margin (NIM). A bank shall follow the Traditional Gap Analysis to measure the Interest Rate Risk. 45 A bank is expected to gain sufficient expertise and sophistication in acquiring/ handling MIS and transit to the modern techniques of Interest Rate Risk measurement like Duration Gap Analysis, Simulation and Value at Risk (VaR).
+
+## B. Traditional Gap Analysis
+
+46 The Gap or Mismatch risk shall be measured by calculating Gaps over different time intervals as at a given date, by preparing the Statement of Interest Rate Sensitivity as per format given in Annex-III of the Directions. 47 Gap analysis’ means measurement of “Gap”, i.e., mismatches between rate sensitive liabilities and rate sensitive assets (including off-balance sheet positions) through a Gap Report generated by grouping rate sensitive liabilities, assets and off-balance sheet positions into time buckets according to residual maturity or next repricing period, whichever is earlier. 48 The Gap reports shall cover the following aspects:
+
+(1) Segregations of assets and liabilities into various time buckets based on residual maturity or next repricing period, whichever is earlier.
+(2) Calculation of gaps within the bucket.
+(3) Calculation of cumulative gaps.
+(4) Review assets and liabilities that reprice in different time buckets.
+
+<!-- PAGE 12 -->
+
+## C. Statement of Interest Rate Sensitivity
+
+49 The rate sensitive liabilities, assets and off-balance sheet positions shall be grouped into time buckets based on residual maturity or next repricing period, whichever is earlier to prepare a gap report. The Gaps shall be identified in the following time buckets.
+
+||(1)|1-28 days|
+|---|---|---|
+||(2) (3) (4) (5) (6) (7) (8)|29 days and upto 3 months Over 3 months and upto 6 months Over 6 months and upto 1 year Over 1 year and upto 3 years Over 3 years and upto 5 years Over 5 years Non-sensitive.|
+|50|The various items of rate sensitive assets and liabilities and OBS items shall be classified as explained in Annex-V of the Directions.||
+|51|A positive Gap (RSA > RSL) indicates that bank is in a position to benefit from rising interest rates, while a negative Gap (RSL > RSA) indicate that bank is in a position to benefit from declining interest rates.||
+|52|A bank shall set prudential limits on individual Gaps with the approval of the||
+
+Board / Management Committee. The prudential limits shall have a bearing on the Total Assets, Earning Assets or Equity. A bank shall also work out Earnings at Risk (EaR) or Net Interest Margin (NIM), based on its views on interest rate movements and fix a prudent level with the approval of the Board / Management Committee.
+
+<!-- PAGE 13 -->
+
+## Chapter VI- General
+
+## A. Behavioural Patterns
+
+53 Notwithstanding guidance provided in Annex-IV and Annex-V of the Directions, a bank which is better equipped to reasonably estimate the behavioural pattern, embedded options, rolls-in and rolls-out, etc., of various components of assets and liabilities on the basis of past data / empirical studies shall classify the same in the appropriate time buckets, subject to approval from the ALCO / Board. A copy of the note approved by the ALCO / Board shall be sent to the Department of Supervision, NABARD and FIDD, RBI under advice to the respective Regional Office.
+
+## B. Embedded Options
+
+54 A bank shall evolve suitable mechanism, supported by empirical studies and behavioral analysis to estimate the future behaviour of assets, liabilities and off- balance sheet items to the changes in market variables and estimate the embedded options.
+
+## C. Transfer Price Mechanism
+
+**55** A bank shall follow a well-defined 'transfer pricing system' which provides a rational framework for pricing of assets and liabilities. A scientifically evolved 'internal transfer pricing model', that assigns values on the basis of current market rates to the funds provided/ used, is an important component for effective implementation of ALM system. The 'Transfer Price Mechanism' (TPM) would enhance the management of margin i.e. lending or credit spread, the funding or liability spread and mismatch spread. It also helps centralising interest rate risk at one place which facilitates effective control and management of interest rate risk.
+
+## D. Financial Reporting and Role of Auditors
+
+56 The Board shall ensure that adequate financial information is disclosed to stakeholders in order to promote market discipline. The authenticity of financial statements shall be certified by the auditors, whose independence shall be
+
+<!-- PAGE 14 -->
+
+ensured by the bank. Auditors shall exhibit the highest standards of integrity in the conduct of their responsibilities.
+
+<!-- PAGE 15 -->
+
+## Chapter- VII- Monitoring and Reporting
+
+57 A bank may submit the two ALM returns viz. Statement of Structural Liquidity (SSL) and Statement of Interest Rate Sensitivity (SIRS) at quarterly intervals. Formats of the returns are as per Annex I and Annex III. Further, bank shall refer to relevant supervisory guidelines from NABARD for submission timelines for all ALM returns.
+
+<!-- PAGE 16 -->
+
+## Chapter- VIII- Repeal and Other Provisions
+
+## A. Repeal and Saving
+
+58 With the issue of these Directions, the existing Directions, instructions, and guidelines relating to Asset Liability Management as applicable to Rural Co- operative Banks stands repealed, as communicated vide notification dated XX,
+
+2025. The Directions, instructions and guidelines already repealed shall continue to remain repealed.
+59 Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as governed by these Directions.
+
+## B. Application of other laws not barred
+
+60 The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force.
+
+## C. Interpretations
+
+61 For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the RBI may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the RBI shall be final and binding.
+
+`
+
+<!-- PAGE 17 -->
+
+## Annex-I: Statement of Structural Liquidity
+
+Name of the bank:
+
+|Statement of Structural Liquidity as on …||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sr. No.|Outflows/ Inflows Outflows||1 to 14 days|15 to 28 days|29 days and up to 3 months|Residual Maturity Over 3 months and up to 6 months|Over 6 months and up to 1 year|Over 1 year and up to 3 years|Over 3 years and up to 5 years|(Amount in ₹ lakhs) Over 5 years|Total|
+|1|Capital|||||||||||
+|2|Reserves & Surplus|||||||||||
+|3|Deposits|||||||||||
+|3.1|Current Deposits|||||||||||
+|3.2|Savings Deposits|||||||||||
+|3.3|Term Deposits|||||||||||
+|3.4|Recurring Deposit|||||||||||
+|4|Borrowings|||||||||||
+|4.1|Call and Short Notice|||||||||||
+|4.2|Inter-bank (Term)|||||||||||
+|4.3|Refinances|||||||||||
+|4.4|Others Specify|||||||||||
+|5|Other Liabilities & Provisions|||||||||||
+|5.1|Bills Payable|||||||||||
+|5.2|Inter-Office Adjustments|||||||||||
+|5.3|Provisions|||||||||||
+|5.4|Others|||||||||||
+
+<!-- PAGE 18 -->
+
+|6|Lines of Credit Committed to|
+|---|---|
+|6.1|Institutions|
+|6.2|Customers|
+|7|Unavailed Protion of Cash Credit/ Overdraft/ Demand Loan Component of Working Capital|
+|8|Letters of Credit/ Guarantees|
+|9|Interest Payable|
+|10|Others specify|
+|A|Total Outfolws Inflows|
+|1|Cash|
+|2|Balances with RBI|
+|3|Balances with Other Banks|
+|3.1|Current Account|
+|3.2|Money at Call & Short Notice, Term Deposits|
+|4|Investments|
+|5|Advances (Performing)|
+|5.1|Bills Purchased and Discounted|
+|5.2|Cash Credits, Overdrafts and Loans repayable on demand|
+|5.3|Term Loans|
+|6|NPAs (Advances & Investments)*|
+|7|Fixed Assets|
+|8|Other Assets|
+
+<!-- PAGE 19 -->
+
+|8.1|Inter-Office Adjustments|
+|---|---|
+|8.2|Leased Assets|
+|8.3|Others|
+|9|Interest Receivable|
+|10|Committed Lines of Credit|
+|11|Others Specify|
+|B|Total Inflows|
+|C|Mismatch (B-A)|
+|D|Cumulative Mismatch|
+|E|C as % to A|
+
+## Notes:
+
+*Net of provisions, interest suspense and claims received from ECGC / DICGC.
+
+## Annex-II: Statement of Short-term Dynamic Liquidity
+
+## Name of the Bank : _________________________
+
+<!-- PAGE 20 -->
+
+Statement of Short Term Dynamic Liquidity as on ...
+
+|||||(Amounts in ₹ lakh)|
+|---|---|---|---|---|
+||Particulars|1-14 Days|15-28 Days|29-90 Days|
+|A.|Outflows||||
+|1.|Net increase in loans and advances||||
+|2.|Net increase in investments: (i) Approved securities (ii) Money market instruments (other than Treasury bills) (iii) Bonds / Debentures / shares (iv) Others||||
+|3.|Inter-bank obligations||||
+|4.|Off-balance sheet items (Letters of credit, bank guarantee etc.)||||
+|5.|Others Total Outflows||||
+|B.|Inflows||||
+|1.|Net cash position||||
+|2.|Net increase in deposits (less CRR obligations)||||
+|3|Interest on investments||||
+|4.|Inter-bank claims||||
+|5.|Refinance eligibility||||
+|6.|Off-balance sheet items (Letters of credit, bank guarantee etc.)||||
+|7.|Others Total Inflows||||
+|C.|Mismatch (B-A)||||
+|D.|Cumulative mismatch||||
+|E.|C as a % to total outflows||||
+
+<!-- PAGE 21 -->
+
+21
+
+<!-- PAGE 22 -->
+
+## Annex-III: Statement of Interest Rate Sensitivity
+
+Name of the bank:
+
+|Statement on Interest Rate Sensitivity as on …..||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||Interest Sensitivity||||(Amount in ₹ lakhs)||
+|Sr.||||||||||||
+||Liabilities / Assets||||Over 3|||||||
+|No.|Liabilities||Upto 1 month|29 days to 3 months|months and up to 6 months|Over 6 months and up to 1 year|Over 1 year and up to 3 years|Over 3 years and up to 5 years|Over 5 years|Non- Sensitive|Total|
+|1|Capital|||||||||||
+|2|Reserves & Surplus|||||||||||
+|3|Deposits|||||||||||
+|3.1|Current Deposits|||||||||||
+|3.2|Savings Deposits|||||||||||
+|3.3|Term Deposits|||||||||||
+|3.4|Recurring Deposit|||||||||||
+|4|Borrowings|||||||||||
+|4.1|Call and Short Notice|||||||||||
+|4.2|Inter-bank (Term)|||||||||||
+|4.3|Refinances|||||||||||
+|4.4|Others|||||||||||
+|5|Other Liabilities & Provisions|||||||||||
+|5.1|Bills Payable|||||||||||
+|5.2|Inter-Office Adjustments|||||||||||
+|5.3|Provisions*|||||||||||
+|5.4|Others|||||||||||
+
+<!-- PAGE 23 -->
+
+|||||||Interest Sensitivity||||(Amount in ₹ lakhs)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Sr. No.|Liabilities / Assets|Upto 1 month|29 days to 3 months|Over 3 months and up to 6 months|Over 6 months and up to 1 year|Over 1 year and up to 3 years|Over 3 years and up to 5 years|Over 5 years|Non- Sensitive|Total|
+|6|Others specify||||||||||
+
+* <u>Excluding provisions for NPAs and Investments.</u>
+
+|A|Total Liabilities|
+|---|---|
+||Assets|
+|1|Cash|
+|2|Balances with RBI|
+|3|Balances with Other Banks|
+|3.1|Current Account|
+|3.2|Money at Call and Short Notice, Term Deposits|
+|4|Investments|
+|5|Advances (Performing)|
+|5.1|Bills Purchased and Discounted|
+|5.2|Cash Credits, Overdrafts and Loans repayable on demand|
+|5.3|Term Loans|
+|6|NPAs (Advances & Investments)*|
+|7|Fixed Assets|
+|8|Other Assets|
+|8.1|Inter-office Adjustments|
+|8.2|Leased Assets|
+
+<!-- PAGE 24 -->
+
+|||||||Interest Sensitivity||||(Amount in ₹ lakhs)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Sr. No.|Liabilities / Assets|Upto 1 month|29 days to 3 months|Over 3 months and up to 6 months|Over 6 months and up to 1 year|Over 1 year and up to 3 years|Over 3 years and up to 5 years|Over 5 years|Non- Sensitive|Total|
+|8.3|Others||||||||||
+|9|Interest receivable||||||||||
+|10|Others specify||||||||||
+|B|Total Assets||||||||||
+|C|GAP (B-A)||||||||||
+|D|Total Other Products, if any||||||||||
+|E|Net Gap (C-D)||||||||||
+|F|Cumulative GAP||||||||||
+|G|E as % to B||||||||||
+
+*** Amounts to be shown net of provisions, interest suspense and claims received from DICGC.**
+
+<!-- PAGE 25 -->
+
+## Annex IV: Maturity Profile-Liquidity
+
+|Heads of Account|Classification into Time Buckets|
+|---|---|
+|A. Outflows||
+|Capital, Reserves and Surplus|Over 5 years bucket|
+|Demand Deposits (Current and Savings Bank Deposits)|Savings Bank and Current Deposits may be classified into volatile and core portions. Savings Bank (10%) and Current (15%) Deposits are generally withdrawable on demand. This portion may be treated as volatile. While volatile portion can be placed in the first time bucket i.e., 1-14 days, the core portion may be placed in over 1- 3 years time bucket. The above classification of Savings Bank and Current Deposits is only a benchmark. Bank which is better equipped to estimate the behavioural pattern on renewals, premature closures, etc. on the basis of past data / empirical studies could classify them in the appropriate time buckets, i.e. behavioural maturity instead of contractual maturity, subject to the approval of the Board / ALCO.|
+|Term Deposits|Respective residual (remaining period to maturity) time buckets. Bank which is better equipped to estimate the behavioural pattern on renewals, premature closures, etc. on the basis of past data / empirical studies could classify the retail deposits in the appropriate time buckets on the basis of behavioural maturity rather than residual maturity. However, the wholesale deposits (deposits over Rs.15 lakhs and inter-bank deposits) should be shown under respective residual time buckets.|
+|Other Liabilities and Provisions i. Bills Payable ii. Inter-office Adjustments iii. Provisions other than for loan loss and depreciation in investments. iv. Other Liabilities|1-14 days time bucket. The net credit balance may be shown in 1-14 days time bucket. Respective time buckets depending on the purpose.|
+
+<!-- PAGE 26 -->
+
+|Heads of Account|Classification into Time Buckets|
+|---|---|
+||Respective time buckets. Items not representing cash payables (i.e. guarantee fee received in advance, etc.) may be placed in over 5 years time buckets.|
+|B. Inflows||
+|Cash|1-14 days time buckets.|
+|Balances with RBI / Public Sector Banks for CRR/ SLR purpose Balances with other Banks|While the excess balance over the required CRR / SLR may be shown under 1-14 days time buckets, the Statutory Balances may be distributed amongst various time buckets corresponding to the maturity profile of DTL with a time-lag of 28 days.|
+|i. Current Account|Non-withdrawable portion on account of stipulations of minimum balances may be shown under over 1-3 years time bucket and the remaining balances may be shown under 1-14 days time bucket.|
+|ii. Money at Call and Short Notice, Term Deposits Investments (Net of provisions)|Respective residual maturity time buckets.|
+|i. Approved securities|Respective residual maturity time buckets excluding the amount required to be reinvested to maintain SLR corresponding to the DTL profile in various time buckets.|
+|ii. PSU bonds, CDs and CPs, Units of UTI (close ended), etc.|Respective residual maturity time buckets excluding the amount required to be reinvested to maintain SLR corresponding to the DTL profile in various time buckets.|
+|iii. Equity of All India FIs, Units of UTI (open ended)|Over 5 years time buckets|
+|iv. Securities in the Trading Book Advances (Performing)|1-14, 15-28 and 29-90 time buckets corresponding to defeasance periods.|
+|i. Bills Purchased and Discounted|Respective residual maturity time buckets|
+
+<!-- PAGE 27 -->
+
+|Heads of Account|Classification into Time Buckets|
+|---|---|
+|i. TOD) and Demand Loan Component of Working Capital|Cash Credit / Overdraft (including Bank should undertake a study of behavioural and seasonal pattern of availments based on outstandings and the core and volatile portion should be identified. While the volatile portion could be shown in the near-term maturity time buckets, the core portion may be shown under over 1-3 year time bucket.|
+|ii. Term Loans NPAs (Net of provisions, Overdue Interest Reserves and claims received from ECGC / DICGC)|Interim cash flows (instalments) should be shown under respective maturity time buckets.|
+|i. Sub-standard|Over 3-5 years time bucket|
+|Doubtful and Loss|Over 5 years time bucket|
+|Fixed Assets|Over 5 years time bucket|
+|Other Assets i. Inter-Office Adjustments|The net debit balance may be shown in 1-14 days time bucket. Intangible assets and assets not representing cash receivables may be* shown in over 5 years time bucket. C. Contingent Liabilities / Lines of Credit committed / available and other Inflows / Outflows|
+|Unavailed portion of Cash Credit / Overdraft / Demand loan component of Working Capital limits (outflow)|i. 1-14 days time bucket|
+|(outflow)|Letters of Credit / Guarantees devolvement Based on past history, these should be distributed across time buckets.|
+
+<!-- PAGE 28 -->
+
+|Heads of Account|Classification into Time Buckets|
+|---|---|
+|Bills Rediscounted (outflow / inflow)||
+|Interest payable / receivable (outflow / inflow) - Accrued interest which are appearing in the books on the, reporting day|Respective time buckets.|
+
+**Note:**
+
+1. Liability on account of event cash flows i.e. short fall in CRR / SLR balance on reporting Fridays, wage settlement, capital expenditure, etc. which are known to the banks and any other contingency may be shown under respective maturity buckets.
+2. All overdue liabilities should be placed in the 1-14 days time bucket.
+3. Interest and instalments from advances and investments, which are overdue for less than one month may be placed in over 3-6 months, time bucket. Further, interest and instalments due (before classification as NPAs) may be placed in over 6-12 months time bucket if the earlier receivables remain uncollected.
+## Financing of Gap:
+
+In case the negative gap exceeds the prudential limit of 20% of outflows, (1-14 and 15-28 days time bucket) the bank shall show by way of a foot note as to how it proposes to finance the gap to bring the mismatch within the prescribed limits. The gap can be financed from market borrowings (call / term), Bills Rediscounting, Repos and deployment of foreign currency resources after conversion into rupees (unswapped foreign currency funds), etc.
+
+<!-- PAGE 29 -->
+
+## Annex V: Interest Rate Sensitivity
+
+|||Heads of Accounts||Rate sensitivity and time bucket|
+|---|---|---|---|---|
+|Liabilities|||||
+|1.||Capital, Reserves and Surplus||Non-sensitive.|
+|2.||Current Deposits||Non-sensitive.|
+|3.||Savings Bank Deposits||Sensitive to the extent of interest paying (core) portion. This should be included in over 3-6 months time bucket. The non-interest-paying portion may be shown in non-sensitive bucket.|
+|4.||Term Deposits||Sensitive; reprices or resetting of interest rates on maturity. The amounts should be distributed to different time buckets on the basis of remaining term to maturity.|
+|5.||Borrowings-Fixed||Sensitive; reprices on maturity. The amounts should be distributed to different time buckets on the basis of remaining maturity.|
+|6.||Borrowings-Floating||Sensitive; reprices when interest rate is reset. The amounts should be distributed to the appropriate time bucket that refers to the resetting date.|
+|7.||Borrowings-Zero Coupon||Sensitive; reprices on maturity. The amounts should be distributed td the respective maturity time bucket.|
+|8.||Borrowings from RBI||Upto 3 months time bucket.|
+|9.||Refinances from other Agencies.||Fixed rate : As per respective Maturity. Floating rate : Reprices when Interest rate is Reset.|
+|10.|i) ii) iii)|Other Liabilities and Provisions Bills Payable Inter-office Adjustments Provisions|i) ii) iii)|Non-sensitive. Non-sensitive. Non-sensitive.|
+
+<!-- PAGE 30 -->
+
+||iv)|Others|iv)|Non-sensitive.|
+|---|---|---|---|---|
+|11||Repos / Bills Re-discounted (DUPN),||Sensitive reprices only on maturity and should be distributed to the respective maturity buckets.|
+|Assets|||||
+|1.|Cash|||Non-sensitive.|
+|2.||Balances with RBI||Interest earning portion may be shown in over 3-6 months time bucket. The balance amount is non-sensitive.|
+|3. 4. 5 6|i) ii) i) ii)|Balances with other Banks Current Account Money at Call and Short Notice, Term Deposits Investments (Performing). Fixed Rate / Zero Coupon Floating Rate Shares of ALL India FIs/ Units of UTI Advances (Performing) Bills Purchased and Discounted Cash Credits / Overdrafts (including ii) TODs) / Loans repayable on demand and Term Loans|i) ii) i) ii) i)|Non-sensitive Sensitive on maturity. The amounts should be distributed to the respective maturity buckets. Sensitive on maturity. Sensitive at the next repricing date Non – sensitive Sensitive on maturity. Sensitive; may be shown under over 3-6 months time bucket.|
+|7.|i) ii)|NPAs (Advances and Investments) * Sub-Standard Doubtful and Loss|i) ii)|Over 3-5 years time bucket. Over 3-5 years time bucket.|
+
+<!-- PAGE 31 -->
+
+|8.||Fixed Assets||Non-sensitive.|
+|---|---|---|---|---|
+|9.||Other Assets. Inter-office Adjustment||Non-sensitive.|
+||Others|||Non-sensitive.|
+|10|(i)|Other products (Interest Rate) Other|(ii)|Should be suitably classified as and when introduced. * Amounts to be shown net of provisions, Overdue Interest Reserve and claims received from ECGC / DICGC.|
