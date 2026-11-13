@@ -1,0 +1,123 @@
+---
+doc_id: "Circulars_2011_DBOD_No_BC_No_95_29_39_001_2010-11"
+title: "Fit and Proper' Criteria for Directors on the Boards of Banks"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FPC230511F.PDF"
+pdf_sha256: "e1f91fadda2ca5dc81f0f3695cbed6680f96cc360e0e5c4e134251c42cc83d59"
+md_sha256: "ad95084f3e46d6350ef7720be2696b505116e2f0e8f6a8274bac317a2727fe52"
+total_pages: 4
+native_pages: 3
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:19:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-05-23_Circular_DBOD.No.BC.No.95-29.39.001-2010-11_Fit%20and%20Proper%27%20Criteria%20for%20Directors%20on%20the%20Boards%20of%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Fit and Proper' Criteria for Directors on the Boards of Banks
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/541
+
+DBOD.No.BC.No.95/29.39.001/2010-11
+
+May 23, 2011
+
+To,
+
+The Chairmen & Managing Directors of all Nationalised Banks /
+
+Managing Directors & CEOs of all Private Sector Banks /
+
+The Managing Directors of all the Associate Banks of State Bank of India
+
+Dear Sir / Madam,
+
+'Fit and Proper' Criteria for Directors on the Boards of Banks
+
+Pleaserefer toDBODcircularsNo.BC.104&105/08.139.001/2003-04datedJune
+
+25.2004
+
+addressed to all private sector banks,
+
+DBOD.No.BC.No.46&
+
+47/29.39.001/ 2007-08 dated November 1, 2007 addressed to all nationalized banks
+
+and DBOD.No.BC.No. 50/29.39.001/2007-08 datea November 14, 2007 issued to all
+
+Associate Banks of SBl, on the captioned su
+
+2.
+
+It has been decided to
+
+par
+
+modify the format of ‘Declaration and
+
+Undertaking'prescribed for the
+
+VithdraW
+
+of conducting due diligence to determine the
+
+(IV)(g) of the said format which is given in Annexure 1. Henceforth, banks should
+
+use the revised format for obtaining declaration and undertaking from existing
+
+directors as well as the person to be appointed / elected as director.
+
+3.
+
+Please acknowledge receipt.
+
+Yours faithfully,
+
+(A K Khound)
+
+Chief General Manager
+
+Encl. As above
+
+12400001
+
+Marg,Mumbai-400001
+
+时 /Tel No: 22661602 aH/Fax No: 22705691 Email ID: cgmicdbodco @ rbi.org.in
+
+<!-- PAGE 2 -->
+
+# Annexure 1
+
+## Name of Bank : ___________________________________
+
+## Declaration and Undertaking by Director*
+
+|||(with enclosures as appropriate as on __________)||
+|---|---|---|---|
+|I.|c.|Personal details of director a. Full name b. Date of Birth Educational Qualifications d. Relevant Background and Experience e. Permanent Address f. Present Address g. E-mail Address / Telephone Number h. Permanent Account Number under the Income Tax Act and name and address of Income Tax Circle i. Relevant knowledge and experience (Refer Section 9(3-A) of the Banking Companies (Acquisition & Transfer of Undertakings) Act, 1970 / 1980 j. Any other information relevant to Directorship Withdrawn of the Bank||
+|II||Relevant Relationships of director a. List of Relatives if any who are connected with the Bank (Refer Section 6 and Schedule 1A of the Companies Act, 1956) b. List of entities if any in which he / she is considered as being interested (Refer Section 299(3)(a) and Section 300 of the Companies Act, 1956) c. List of entities in which he / she is considered as holding substantial interest within the meaning of Section 5(ne) of the Banking Regulation Act, 1949 proposed and existing d. Name of Bank in which he / she is or has been a member of the board (giving details of period during which such office was held) e. Fund and non-fund facilities, if any, presently availed of by him / her and / or by entities listed in II (b) and (c) above from the bank||
+
+<!-- PAGE 3 -->
+
+|||f. Cases, if any, where the director or entities listed in II (b) and (c) above are in default or have been in default in the past in respect of credit facilities obtained from the bank or any other bank.||
+|---|---|---|---|
+|III|a.|Records of professional achievements Professional achievements relevant||
+|IV.||Proceedings, if any, against the director a. If the director is a member of a professional association / body, details of disciplinary action, if any, pending or commenced or resulting in conviction in the past against him / her or whether he / she has been banned from entry of at any profession / occupation at any time. b. Details of prosecution, if any, pending or commenced or resulting in conviction in the past against the director and / or against any of the entities listed in II (b) and (c) above for violation of economic laws and regulations c. Details of criminal prosecution, if any, pending or commenced or resulting in conviction in the past against the director d. Whether the director attracts any of the disqualifications envisaged under Section 274 of the Company's Act 1956? Withdrawn e. Has the director or any of the entities at II (b) and (c) above been subject to any investigation at the instance of Government department or agency? f. Has the director at any time been found guilty of violation of rules / regulations / legislative requirements by customs / excise / income tax / foreign exchange / other revenue authorities, if so give particulars g. Whether the director at any time come to the adverse notice of a regulator such as SEBI, IRDA, DCA. (Though it shall not be necessary for a candidate to mention in the column about orders and findings made by regulators which have been later on reversed / set aside in toto, it would be necessary to make a mention of the same, in case the reversal / setting aside is on technical reasons like limitation or lack of||
+
+<!-- PAGE 4 -->
+
+|||jurisdiction, etc, and not on merit. If the order of the regulator is temporarily stayed and the appellate / court proceedings are pending, the same also should be mentioned).||
+|---|---|---|---|
+|V.||Any other explanation / information in regard to items I to III and other information considered relevant for judging fit and proper Undertaking I confirm that the above information is to the best of my knowledge and belief true and complete. I undertake to keep the bank fully informed, as soon as possible, of all events which take place subsequent to my appointment which are relevant to the information provided above. I also undertake to execute the deed of covenant required to be executed by all directors of the bank. Place : Date :|Signature of director|
+|VI.||Remarks of Nomination Committee of the Bank Withdrawn Place : Date :|Signature|
+
+-------------------------------------------
