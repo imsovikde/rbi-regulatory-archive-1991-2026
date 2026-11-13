@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2016_10271"
+title: "Foreign Exchange Management (Possession and Retention of Foreign Currency) Regulations, 2015"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT312EF952B9DDC244A51B62AF936E53CBF11.PDF"
+pdf_sha256: "b776971fe70d4447e4fb706a1cd0a6150d12aa6ac9a53798e3b7a6d3084bfed2"
+md_sha256: "5b0e1d85468929556f78974ddf382decceb4d31da8344e9a94a56e80abf42fd1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:54:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-02-04_Notification_10271_Foreign%20Exchange%20Management%20%28Possession%20and%20Retention%20of%20Foreign%20Currency%29%20Regulations%2C%202015.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management (Possession and Retention of Foreign Currency) Regulations, 2015
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA <u>Mumbai - 400 001</u>
+
+## RBI/2015-16/312 February 04, 2016
+
+## A.P. (DIR Series) Circular No.47/2015-16 [(1)/11(R)]
+
+To All Category-I Authorised Dealers and Authorised Banks
+
+Madam/ Sir **Foreign Exchange Management (Possession and Retention of Foreign Currency)** **Regulations, 2015**
+
+Attention of Authorised Dealers (ADs) is invited to Foreign Exchange Management (Possession and Retention of Foreign Currency) Regulations, 2015 notified vide <u>Notification No. FEMA. 11(R)/2015-RB dated December 29, 2015</u>, c.f. G.S.R. No.1006
+
+(E) dated December 29, 2015, which supersedes the Foreign Exchange Management (Possession and Retention of Foreign Currency) Regulations, 2000 and all amendments thereto.
+2. Synopsis of the new regulations is given as under:
+A. Following are the limits for possession or retention of foreign currency or foreign coins, namely :-
+i. possession without limit of foreign currency and coins by an authorised person within the scope of his authority; ii. possession without limit of foreign coins by any person;
+iii. retention by a person resident in India of foreign currency notes, bank notes and foreign currency travellers' cheques not exceeding US$ 2000 or its equivalent in aggregate, provided that such foreign exchange in the form of currency notes, bank notes and travellers cheques;
+
+a. was acquired by him while on a visit to any place outside India by way of payment for services not arising from any business in or anything done in India; or
+
+<!-- PAGE 2 -->
+
+b. was acquired by him, from any person not resident in India and who is on a visit to India, as honorarium or gift or for services rendered or in settlement of any lawful obligation; or
+c. was acquired by him by way of honorarium or gift while on a visit to any place outside India; or
+d. represents unspent amount of foreign exchange acquired by him from an authorised person for travel abroad.
+B. A person resident in India but not permanently resident therein may possess without limit foreign currency in the form of currency notes, bank notes and travellers cheques, if such foreign currency was acquired, held or owned by him when he was resident outside India and, has been brought into India in accordance with the regulations made under the Act. **Explanation**: for the purpose of this clause, 'not permanently resident' means a person resident in India for employment of a specified duration (irrespective of length thereof) or for a specific job or assignment, the duration of which does not exceed three years.
+3. The new regulations have been notified vide <u>Notification No. FEMA. 11(R)/2015-RB</u> <u>dated December 29, 2015</u>, c.f. G.S.R. No.1006 (E) dated December 29, 2015 and shall come into force with effect from December 29, 2015.
+4. AD Category- I banks may bring the contents of the circular to the notice of their constituents concerned.
+5. The directions contained in this circular have been issued under Section 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(B P Kanungo) Principal Chief General Manager

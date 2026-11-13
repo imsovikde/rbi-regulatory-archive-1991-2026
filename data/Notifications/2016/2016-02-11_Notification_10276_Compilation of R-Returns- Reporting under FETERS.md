@@ -1,0 +1,334 @@
+---
+doc_id: "Notifications_2016_10276"
+title: "Compilation of R-Returns: Reporting under FETERS"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/50CN110216E856B839D2C7437FA5E8E6919203E068.PDF"
+pdf_sha256: "22e9df047e129367f2fd6a898c2e7e5479441eef722cb0e49f8103cdece9d269"
+md_sha256: "5bf57024fc2b1944496802e00d4be2c0cde118a29012f9033066022f1f51ca1c"
+total_pages: 14
+native_pages: 14
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:54:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-02-11_Notification_10276_Compilation%20of%20R-Returns-%20Reporting%20under%20FETERS.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Compilation of R-Returns: Reporting under FETERS
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA <u>Mumbai - 400 001</u>
+
+## RBI/2015-16/317 A.P. (DIR Series) Circular No. 50 February 11, 2016
+
+To, All Authorised Dealers in Foreign Exchange
+
+Madam / Sir, **Compilation of R-Returns: Reporting under FETERS** Attention of Authorised Dealer (Category I) banks is invited to <u>A.P.(DIR Series) Circular No.84</u> <u>dated February 29, 2012</u> giving guidelines for compilation of R-Returns for reporting under the *Foreign Exchange Transactions Electronic Reporting System (FETERS),* <u>A.P.(DIR Series)</u> <u>Circular No.101 dated February 4, 2014</u> on *Export of Goods and Services: Export Data* *Processing and Monitoring System (EDPMS)* for facilitating banks to submit export-related information through EDPMS platform and <u>A.P.(DIR Series) Circular No.15 dated July 28, 2014</u> which discontinued separate reporting of information in ENC (Export Bills Negotiated / sent for collection) for acknowledgement of receipt of export documents and Sch.3 to 6 (realization of export proceeds) under FETERS.
+
+## <u>Web based data submission by AD banks</u>
+
+2. In order to enhance the security-level in data submission and further improve data quality, the following modifications shall be effected in the guidelines for submission of data under the
+st FETERS from 1 fortnight of April 2016 (*i.e.,* reporting of those transactions which take place from April 1, 2016):
+
+i) The present email-based submission will be replaced by web-portal based data submission. However, there are no changes in periodicity, file-layout, delimiter, consistency checks, and inter-relationship among BOP6.TXT and QE.TXT files as well as their naming convention.
+
+<!-- PAGE 2 -->
+
+ii) Nodal offices of banks have to access the web-portal <u>[https://bop.rbi.org.in](https://bop.rbi.org.in)</u> with the RBI-provided login-name and password, to submit data (Contact and other details are given in the above-mentioned Circular dated February 29, 2012). iii) Banks may download RBI-provided validator template from this portal on their computer and perform off-line check of their FETERS data-file for error, if any, before its submission on the portal. Both Java-based and Excel-based validators are provided: Use of Java-based validator is advised for larger files. This portal also gives relevant master files (*e.g.*, country, currency, AD code, purpose code masters). iv) On uploading validated files, banks will get acknowledgment. They can view the data- files submitted by them during the previous two fortnights, with download facility. They can also revise the purpose codes for transaction submitted earlier, if required, which will be authenticated by RBI in the system.
+
+v) Banks may report (a) addition of AD code for their bank and (b) update AD category, which will be incorporated in the AD-master database by RBI after due authentication. vi) With the discontinuation of ENC.TXT and SCH3to6.TXT files in FETERS, the purpose codes P0105 [*Export bills (in respect of goods) sent on collection – other than Nepal* *and Bhutan*] and P0107 [*Realisation of NPD export bills (full value of bill to be* *reported) – other than Nepal and Bhutan*] have become defunct and are, therefore, discontinued.
+## <u>Revision in Form A2</u>
+
+3. Further, in-order to streamline the reporting of the transactions relating to the Liberalised Remittance Scheme (LRS) in FETERS and On-line Return Filing System (ORFS), it has been decided that transactions relating to LRS may be reported under respective FETERS purpose codes (*e.g.* travel, medical treatment, purchase of immovable property, studies abroad, maintenance of close relatives; etc.) instead of reporting collectively under the purpose code S0023. This would help AD banks in classification of transactions for similar activity under single purpose code. Therefore, the purpose code S0023 would be revised as follows to enable reporting of ‘Opening of foreign currency account abroad with a bank’:
+
+<!-- PAGE 3 -->
+
+|Purpose|Description as per the A.P.(DIR|Revised Description|
+|---|---|---|
+|Code|Series) Circular No.84 dated February 29, 2012 and in Form A2||
+|S0023|Remittances made under Liberalised Opening of foreign currency Remittance Scheme (LRS) for Individuals|account abroad with a bank|
+
+i. For facilitating the existing monthly reporting of LRS transactions under ORFS, AD banks may use the following purpose codes only:
+
+|Sr. No.|Items under LRS||Corresponding FETERS purpose codes, if transaction is identified under LRS|
+|---|---|---|---|
+|1|Opening of foreign currency S0023 account abroad with a bank under LRS|||
+|2|Purchase of immovable property||S0005|
+|3|Investment in equity, debt, JV, WoS, ESOPs, IDRs||S0001, S0002, S0003, S0004, S0021, S0022|
+|4|Gift||S1302|
+|5|Donations||S1303|
+|6|Travel medical treatment, education, employment, personal)||(business, pilgrimage, S0301, S0303, S0304 ,S0305 & S0306|
+|7|Maintenance of close relatives||S1301|
+|8|Medical Treatment||S1108|
+|9|Studies abroad||S1107|
+|10 11|Emigration ‘Others’ such as loan to NRI S0011, S0603 close relatives and health insurance||S1307|
+
+ii. AD banks should also ensure that the data pertaining to LRS transactions reported by them in FETERS tallies with that reported by them in ORFS.
+
+iii. The Form A2 is also being revised (as per Annex) by introducing a check-box for LRS transactions in the relevant block as follows:
+
+<!-- PAGE 4 -->
+
+|Sr. No.|Whether under LRS (Yes/No)|Purpose Code|Description|
+|---|---|---|---|
+||||As per the Annex|
+
+iv. Further, the ‘Application cum Declaration for purchase of foreign exchange under the Liberalised Remittance Scheme of USD 250,000’ has been clubbed with Form A2 inorder to reduce multiplicity of forms to be filled in by the customers.
+
+## <u>Online submission of Form A2 by the remitter</u>
+
+4. With a view to facilitating miscellaneous remittances and reducing paperwork associated with payment transactions, it has been decided that Authorised Dealer banks, offering internet banking facilities to their customers may allow online submission of Form A2. Besides, they may also enable uploading/submission of documents, if and as may be necessary, to establish the permissibility of the remittances under the extant rules or regulations framed under the Foreign Exchange Management Act, 1999 (FEMA). Remittances that do not require any documentation (e.g. certain transactions under the LRS) may be put through on the basis of the Form A2 alone. To start with, remittances on the basis of online submission alone will be available for transactions with an upper limit of USD 25,000 (or its equivalent) for individuals and USD 100,000 (or its equivalent) for corporates. It may be noted that the remittance will be subject to satisfaction of the Authorised Dealer banks as laid down in Section 10 (5) of FEMA. Accordingly, Authorised Dealer banks are advised to frame appropriate guidelines for customer interface personnel to ensure ease of transactions for the customers within the ambit of the statutory/regulatory provisions. It may be further noted that reporting of transactions in FETERS shall continue, as hitherto, by the Authorised Dealer banks.
+5. Appropriate changes in technology and/or operating procedure may be carried out by Authorised dealer banks immediately and compliance in this regard furnished to RBI.
+6. The changes introduced through this circular may be implemented with immediate effect and in any case not later than April 1, 2016.
+
+<!-- PAGE 5 -->
+
+7. Authorised Dealer banks may bring the contents of this circular to the notice of their constituents.
+8. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(B.P.Kanungo) Principal Chief General Manager
+
+<!-- PAGE 6 -->
+
+## Annex
+
+## FORM A2
+
+(To be completed by the applicant)
+
+<u>FORM A2</u> AD Code No.__________________________ Form No._____________________________ (For payments other (To be filled in by the Authorised Dealer) than imports and remittances covering intermediary trade) Currency_____ Amount ___Equivalent to Rs. ____ (To be completed by the Authorised Dealer) <u>Application for Remittance Abroad</u>
+
+I/We _____________________________________________________________ (Name of applicant remitter) PAN No. __________________________________________________________ *(For remittances exceeding USD 25,000 and for all capital account transactions)*
+
+Address___________________________________________________________
+
+authorize __________________________________________________________________ (Name of AD branch) To debit my Savings Bank/ Current/ RFC/ EEFC A/c. No. ____________________ together with their charges and
+
+* a) Issue a draft : Beneficiary's Name _________________________________
+Address _________________________________
+
+* b) Effect the foreign exchange remittance directly –
+1) Beneficiary's Name __________________________________
+2) Name and address of the bank __________________________________
+3) Account No. __________________________________
+* c) Issue travelers cheques for __________________________________
+* d) Issue foreign currency notes for __________________________________ Amount (specify currency) __________________________________
+** (Strike out whichever is not applicable) for the purpose/s indicated below*
+## Sr. Whether under LRS Purpose Code Description No. (Yes/No)
+
+<u>As per the Annex</u> (Remitter should put a tick (√) against an appropriate purpose code. In case of doubt/ difficulty, the AD bank should be consulted).
+
+<!-- PAGE 7 -->
+
+## Declaration
+
+## (Under FEMA 1999)
+
+*1. # I, ………………. …………(Name), hereby declare that the total amount of foreign* *exchange purchased from or remitted through, all sources in India during the* *financial year* including this application *is within the overall limit of the Liberalised* *Remittance Scheme prescribed by the Reserve Bank of India and certify that the* *source of funds for making the said remittance belongs to me and the foreign* *exchange will not be used for prohibited purposes.*
+## Details of the remittances made/transactions effected under the Liberalised
+
+***Remittance Scheme in the current financial year (April- March)**..……..* ***Sl. Date Amount Name and address of AD branch/FFMC through*** ***No which the transaction has been effected***
+
+*2. # The total amount of foreign exchange purchased from or remitted through, all* *sources in India during this calendar year including this application is within USD* *_______________________ (USD ____________) the annual limit prescribed by* *Reserve Bank of India for the said purpose.*
+*3. # Foreign exchange purchased from you is for the purpose indicated above.* *# (Strike out whichever is not applicable)*
+## Signature of the applicant
+
+(Name) Date:
+
+<!-- PAGE 8 -->
+
+## Certificate by the Authorised Dealer
+
+This is to certify that the remittance is not being made by/ to ineligible entities and that the remittance is in conformity with the instructions issued by the Reserve Bank from time to time under the Scheme.
+
+Name and designation of the authorised official: Stamp and seal Signature: Date: Place:
+
+<!-- PAGE 9 -->
+
+## Purpose Codes for Reporting under FETERS
+
+**A. Payment Purposes** (for use in BOP file)
+
+|Gr. No.|Purpose Group Name|Purpose Code|Description|
+|---|---|---|---|
+|00|Capital Account S0017 Financial Account|S0019 S0026 S0027 S0099|Acquisition of non-produced non-financial assets (Purchase of intangible assets like patents, copyrights, trademarks etc., land acquired by government, use of natural resources) – Acquisition of non-produced non-financial assets (Purchase of intangible assets like patents, copyrights, trademarks etc., use of natural resources) – Non-Government Capital transfers (Guarantees payments, Investment Grand given by the government/international organisation, exceptionally large Non-life insurance claims) – Government Capital transfers (Guarantees payments, Investment Grand given by the Non-government, exceptionally large Non-life insurance claims) – Non-Government Other capital payments not included elsewhere|
+||Foreign Direct Investments|S0003 S0004 S0005 S0006 S0007 S0008|Indian Direct investment abroad (in branches & wholly owned subsidiaries) in equity Shares Indian Direct investment abroad (in subsidiaries and associates) in debt instruments Indian investment abroad – in real estate Repatriation of Foreign Direct Investment made by overseas Investors in India – in equity shares Repatriation of Foreign Direct Investment in made by overseas Investors India – in debt instruments Repatriation of Foreign Direct Investment made by overseas Investors in India – in real estate|
+||Foreign Portfolio Investments|S0001 S0002 S0009 S0010|Indian Portfolio investment abroad – in equity shares Indian Portfolio investment abroad – in debt instruments Repatriation of Foreign Portfolio Investment made by overseas Investors in India – in equity shares Repatriation of Foreign Portfolio Investment made by overseas Investors in India – in debt instruments|
+||External Commercial Borrowings|S0011 S0012|Loans extended to Non-Residents Repayment of long & medium term loans with original maturity above one year received from Non-Residents|
+||Short term Loans|S0013|Repayment of short term loans with original maturity up to one year received from Non-Residents|
+||Banking Capital S0014|S0015 S0016|Repatriation of Non-Resident Deposits (FCNR(B)/NR(E)RA Repayment of loans & overdrafts taken by ADs on their own Sale of a foreign currency against another foreign currency|
+
+<!-- PAGE 10 -->
+
+## Description
+
+|Gr. No.|Purpose Group Name|Purpose Code|
+|---|---|---|
+||Financial Derivatives and Others|S0020|
+|||S0021|
+|||S0022|
+|||S0023|
+||External Assistance|S0024|
+|||S0025|
+|01|Imports|S0101|
+|||S0102|
+|||S0103|
+|||S0104|
+|||S0108|
+|||S0109|
+|02|Transport|S0201|
+|||S0202|
+|||S0203|
+|||S0204|
+|||S0205|
+|||S0206|
+|||S0207|
+|||S0208|
+|||S0209|
+|||S0210|
+|||S0211|
+|||S0212|
+|||S0214|
+|||S0215|
+|||S0216|
+
+Payments made on account of margin payments, premium payment and settlement amount etc. under Financial derivative Payments made on account of sale of share under Employee stock option Investment in Indian Depositories Receipts (IDRs) Opening of foreign currency account abroad with a bank
+
+External Assistance extended by India. *e.g.* Loans and advances extended by India to Foreign governments under Repayments made on account of External Assistance received by India. Advance payment against imports made to countries other than Nepal and Bhutan Payment towards imports- settlement of invoice other than Nepal and Bhutan Imports by diplomatic missions other than Nepal and Bhutan Intermediary trade/transit trade, *i.e.,* third country export passing through India Goods acquired under merchanting / Payment against import leg of merchanting trade* Payments made for Imports from Nepal and Bhutan, if any Payments for surplus freight/passenger fare by foreign shipping companies operating in India Payment for operating expenses of Indian shipping companies operating abroad Freight on imports – Shipping companies Freight on exports – Shipping companies Operational leasing/Rental of Vessels (with crew) –Shipping companies Booking of passages abroad – Shipping companies Payments for surplus freight/passenger fare by foreign Airlines companies operating in India Operating expenses of Indian Airlines companies operating Freight on imports – Airlines companies Freight on exports – Airlines companies Operational leasing / Rental of Vessels (with crew) – Airline companies Booking of passages abroad – Airlines companies Payments on account of stevedoring, demurrage, port handling charges etc.(Shipping companies) Payments on account of stevedoring, demurrage, port handling charges, etc.(Airlines companies) Payments for Passenger-Shipping companies
+
+<!-- PAGE 11 -->
+
+## Description
+
+|Gr. No.|Purpose Group Name|Purpose Code|
+|---|---|---|
+|02|Transport|S0217|
+|||S0218|
+|||S0219|
+|||S0220|
+|||S0221|
+|||S0222|
+|||S0223|
+|||S0224|
+|03|Travel|S0301|
+|||S0303|
+|||S0304|
+|||S0305|
+|||S0306|
+|05|Construction Services|S0501|
+|||S0502|
+|06|Insurance and Pension Services|S0601|
+|||S0602|
+|||S0603|
+|||S0605|
+|||S0607|
+|||S0608|
+|||S0609|
+|||S0610|
+|||S0611|
+|||S0612|
+|07|Financial Services|S0701|
+|||S0702|
+|||S0703|
+
+Other payments by Shipping companies Payments for Passenger-Airlines companies Other Payments by Airlines companies Payments on account of freight under other modes of transport (Internal Waterways, Roadways, Railways, Pipeline transports and others) Payments on account of passenger fare under other modes of transport (Internal Waterways, Roadways, Railways, Pipeline transports and others) Postal & Courier services by Air Postal & Courier services by Sea Postal & Courier services by others Business travel. Travel for pilgrimage Travel for medical treatment Travel for education (including fees, hostel expenses etc.) Other travel (including holiday trips and payments for settling international credit cards transactions) Construction of projects abroad by Indian companies including import of goods at project site abroad cost of construction etc. of projects executed by foreign companies in India.
+
+Life Insurance premium except term insurance Freight insurance – relating to import & export of goods Other general insurance premium including reinsurance premium; and term life insurance premium Auxiliary services including commission on insurance Insurance claim Settlement of non-life insurance; and life insurance (only term insurance) Life Insurance Claim Settlements Standardised guarantee services Premium for pension funds Periodic pension entitlements e.g. monthly quarterly or yearly payments of pension amounts by Indian Pension Fund Invoking of standardised guarantees
+
+Financial intermediation, except investment banking-Bank charges, collection charges, LC charges etc.
+
+Investment banking – brokerage, under writing commission Auxiliary services – charges on operation & regulatory fees, custodial services, depository services etc.
+
+<!-- PAGE 12 -->
+
+## Description
+
+|Gr. No.|Purpose Group Name|Purpose Code|
+|---|---|---|
+|08|Telecommunic S0801 ation, Computer S0802 & Information Services||
+|||S0803|
+|||S0804|
+|||S0805|
+|||S0806|
+|||S0807|
+|||S0808|
+|||S0809|
+|09|Charges for the S0901 use of intellectual property n.i.e||
+|||S0902|
+|10|Other Business S1002 Services||
+|||S1003|
+|||S1004|
+|||S1005|
+|||S1006|
+|||S1007|
+|||S1008|
+|||S1009|
+|||S1010|
+|||S1011|
+|||S1013|
+|||S1014|
+|||S1015|
+|||S1016|
+|||S1017|
+|||S1018|
+|||S1020|
+|||S1021|
+|||S1022|
+|||S1023|
+|||S1099|
+
+Hardware consultancy/implementation Software consultancy / implementation Data base, data processing charges Repair and maintenance of computer and software News agency services Other information services- Subscription to newspapers, Off-site software imports Telecommunication services including electronic mail services and voice mail services Satellite services including space shuttle and rockets etc.
+
+Franchises services Payment for use, through licensing arrangements, of produced originals or prototypes (such as manuscripts and films), patents, copyrights, trademarks and industrial processes etc.
+
+Trade related services – commission on exports / imports Operational leasing services (other than financial leasing) without operating crew, including charter hire- Airlines companies Legal services Accounting, auditing, book-keeping services Business and management consultancy and public relations Advertising, trade fair service Research & Development services Architectural services Agricultural services like protection against insects & disease, increasing of harvest yields, forestry services. Payments for maintenance of offices abroad Environmental Services Engineering Services Tax consulting services Market research and public opinion polling service Publishing and printing services Mining services like on–site processing services analysis of Commission agent services Wholesale and retailing trade services. Operational leasing services (other than financial leasing) without operating crew, including charter hire- Shipping Other Technical Services including scientific/space services. Other services not included elsewhere
+
+<!-- PAGE 13 -->
+
+## Description
+
+|Gr. No.|Purpose Group Name|Purpose Code|
+|---|---|---|
+|11|Personal, Cultural & Recreational services|S1101|
+|||S1103|
+|||S1104|
+|||S1105|
+|||S1106|
+|||S1107|
+|||S1108|
+|||S1109|
+|12|Govt. not included elsewhere (G.n.i.e.)|S1201|
+|||S1202|
+|13|Secondary Income|S1301|
+|||S1302|
+|||S1303|
+|||S1304|
+|||S1305|
+|||S1306|
+|||S1307|
+|14|Primary Income S1401||
+|||S1402|
+|||S1403|
+|||S1405|
+|||S1408|
+|||S1409|
+|||S1410|
+|||S1411|
+|||S1412|
+
+Audio-visual and related services like Motion picture and video tape production, distribution and projection services. Radio and television production, distribution and transmission services Entertainment services Museums, library and archival services Recreation and sporting activities services Education (e.g. fees for correspondence courses abroad) Health Service (payment towards services received from hospitals, doctors, nurses, paramedical and similar services etc. rendered remotely or on-site) Other Personal, Cultural & Recreational services Maintenance of Indian embassies abroad Remittances by foreign embassies in India
+
+Remittance for family maintenance and savings Remittance towards personal gifts and donations Remittance towards donations to religious and charitable institutions abroad Remittance towards grants and donations to other governments and charitable institutions established by the Contributions/donations by the Government to international institutions Remittance towards payment / refund of taxes. Outflows on account of migrant transfers including personal Compensation of employees Remittance towards interest on Non-Resident deposits (FCNR(B)/NR(E)RA, etc.) Remittance towards interest on loans fromNon-Residents (ST/MT/LT loans) e.g. External Commercial Borrowings, Trade Credits, etc. Remittance towards interest payment by ADs on their own account (to VOSTRO a/c holders or the OD on NOSTRO a/c.)
+
+Remittance of profit by FDI enterprises in India (by branches of foreign companies including bank branches) Remittance of dividends by FDI enterprises in India (other than branches) on equity and investment fund shares Payment of interest by FDI enterprises in India to their Parent company abroad. Remittance of interest income on account of Portfolio Investment in India Remittance of dividends on account of Portfolio Investment in India on equity and investment fund shares
+
+<!-- PAGE 14 -->
+
+|Gr. No.|Purpose Group Name|Purpose Code|Description|
+|---|---|---|---|
+|15|Others|S1501 S1502 S1503 S1504 S1505|Refunds / rebates / reduction in invoice value on account of Reversal of wrong entries, refunds of amount remitted for non- exports Payments by residents for international bidding Notional sales when export bills negotiated/ purchased/ discounted are dishonored/ crystallised/ cancelled and reversed from suspense account Deemed Imports (exports between SEZ, EPZs and Domestic tariff areas)|
+|16|Maintenance and repair services n.i.e|S1601 S1602|Payments on account of maintenance and repair services rendered for Vessels, ships, boats, warships, etc. Payments on account of maintenance and repair services rendered for aircrafts, space shuttles, rockets, military aircrafts,|
+|17|Manufacturing services (goods for processing)|S1701|Payments for processing of goods|

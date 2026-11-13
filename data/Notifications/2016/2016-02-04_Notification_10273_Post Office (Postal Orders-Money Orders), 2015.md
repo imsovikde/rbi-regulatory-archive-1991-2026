@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2016_10273"
+title: "Post Office (Postal Orders/Money Orders), 2015"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT314761FCE06BFC744A6B6025538848B1A6B.PDF"
+pdf_sha256: "47972343b4487031f58fd4302d6d5594520b2c4d6f53acd22f7f7641f0499a8c"
+md_sha256: "3f3f4caa6c5c1cd36a6d0f045b9ae45b41d8a81c5b62f7586c91c853bc34291c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:54:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-02-04_Notification_10273_Post%20Office%20%28Postal%20Orders-Money%20Orders%29%2C%202015.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Post Office (Postal Orders/Money Orders), 2015
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2015-16/314 February 04, 2016
+
+## A.P. (DIR Series) Circular No.49/2015-16 [(1)/18(R)]
+
+To All Category-I Authorised Dealers and Authorised Banks
+
+Madam/ Sir **Post Office (Postal Orders/Money Orders), 2015**
+
+Attention of Authorised Dealers (ADs) is invited to <u>Notification No. FEMA. 18(R)/2015-</u> <u>RB dated December 29, 2015</u> notified vide G.S.R. No.1009 (E) dated December 29, 2015, which supersedes the Notification No. FEMA. 18/2000-RB.
+
+2. Synopsis of the new regulations is given as under: General permission has been given to any person to buy foreign exchange from any post office in India in the form of postal order or money order.
+3. The new regulations have been notified vide <u>Notification No. FEMA.18(R)/2015-RB</u> <u>dated December 29, 2015</u>, c.f. G.S.R. No.1009 (E) dated December 29, 2015 and shall come into force with effect from December 29, 2015.
+4. AD Category- I banks may bring the contents of the circular to the notice of their constituents concerned.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(B P Kanungo) Principal Chief General Manager

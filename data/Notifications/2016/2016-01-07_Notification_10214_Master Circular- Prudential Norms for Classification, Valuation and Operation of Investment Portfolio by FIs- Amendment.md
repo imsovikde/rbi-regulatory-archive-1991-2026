@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2016_10214"
+title: "Master Circular- Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs- Amendment"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT283CEE5764FD97E4B3280AA82CC99B89EAE.PDF"
+pdf_sha256: "53231eabd9b803eaf7e4d0bddd104e543375ba710121e94c8de5986a64473188"
+md_sha256: "c0ae8e5a19d5a75af49cf9fec206e46fef2f357ec17cf129d009599f7ab2108f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:54:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-01-07_Notification_10214_Master%20Circular-%20Prudential%20Norms%20for%20Classification%2C%20Valuation%20and%20Operation%20of%20Investment%20Portfolio%20by%20FIs-%20Amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular- Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs- Amendment
+
+<!-- PAGE 1 -->
+
+भारतीय ररजर्व बकैं RESERVE BANK OF INDIA <u>www.rbi.org.in</u> --------------------------------------------------------------------------------------------------------------------- RBI/2015-16/283 DBR.No.FID.FIC 5/01.02.00/2015-16 January 07, 2016
+
+## All-India Term-Lending and Refinancing Institutions (EXIM Bank, NABARD, NHB and SIDBI)
+
+## Dear Sir/ Madam
+
+## Master Circular-Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs- Amendment
+
+Please refer to Paragraph No.2.5.3.4 (iii) of <u>Master Circular DBR.No.FID.FIC.3/01.02.00/2015-</u> <u>16 dated July 01, 2015</u> on Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs.
+
+2. The position has been reviewed with a view to aligning the asset classification norms applicable to All India Financial Institutions with those for banks. Accordingly, the Paragraph No.2.5.3.4 (iii) of the above Master Circular is amended as follows:-
+
+|Existing Paragraph 2.5.3.4(iii)|Revised Paragraph 2.5.3.4(iii)||||
+|---|---|---|---|---|
+|If any credit facility availed by the|If any credit facility availed of by the issuer is||||
+|issuer of the security is classified as|classified as NPA in the books of the FI, investment in||||
+|NPA in the books of the FI, investment|any of the securities, including preference shares||||
+|in any of the securities issued by the|issued by the same issuer would also be treated as||||
+|same issuer would also be treated as|NPI and vice versa. However, if only the preference||||
+|NPI.|shares are classified as NPI, the investment in any of the other performing securities issued by the same issuer|not be|classified|as NPI|
+
+may and any performing credit facilities granted to that borrower need not be treated as NPA. 1
+
+Yours faithfully,
+
+(Rajinder Kumar) Chief General Manager
+
+|1|The preference share are subordinate to bank loans and therefore it is possible that the borrowing company is generating enough|
+|---|---|
+||surplus to service the bank loan, but not to pay dividend on the preference shares. In addition, the non-payment of dividend on preference shares does not expose the borrowing entity to the risk of initiation of bankruptcy proceedings by the holders of the preference shares. Therefore, it is not necessary to downgrade loans in a situation where the investments in the preference shares had become non-performing investments. However, the converse is not true. If a loan becomes non-performing, the investment in preference shares being subordinate to bank loans will have certainly turned non-performing.|
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- बैंक िं ग किकियमि किभाग, ें द्रीय ायाालय, 12िीं और 13िीं मकिं ़िल, ें द्रीय ायाालय भिि, शहीद भगत क िंह मागा, मबिं ई 400001 टेलीफोि /Tel No: 22661602, 22601000 फै क् / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Banking Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 <u>बक</u>ैं<u>ह िंदी म</u>ें<u>पत्राचार का स्र्ागत करता ै</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or <u>offers funds to anyone. Please do not respond in any manner to such offers.</u>
