@@ -1,0 +1,52 @@
+---
+doc_id: "Circulars_2007_UBD_CO_BPD_PCB_No_2_09_18_300_2007-08"
+title: "Annual Policy Statement for the year 2007-08 - IT-Enabled Financial Inclusion"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78499.PDF"
+pdf_sha256: "47534423f4adf8bd586ad9653667bc62cafc9a7633fef7fa6f5083e8de3f98de"
+md_sha256: "b17f5aac704c6f3994f40ae7e86aa6d5df1f971225a0737be1e4654521d5c4e0"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-07-04_Circular_UBD.CO.BPD.%28PCB%29.No.2-09.18.300-2007-08_Annual%20Policy%20Statement%20for%20the%20year%202007-08%20-%20IT-Enabled%20Financial%20Inclusion.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Annual Policy Statement for the year 2007-08 - IT-Enabled Financial Inclusion
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/80
+
+UBD. CO. BPD. (PCB). No. 2 / 09.18.300/ 2007-08 July 4, 2007
+
+To Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## Annual Policy Statement for the year 2007-08 – IT- enabled Financial Inclusion
+
+Please refer to Paragraph 163 of the Annual Policy Statement for the Year 2007-08, a copy of which is enclosed.
+
+2. With a view to achieving the objective of greater financial inclusion, all UCBs were advised vide our circular UBD. BPD. Cir. No. 19/13.01.000/2005-06 dated November 24, 2005, to make available a basic banking 'no-frills' account either with 'nil' or very low minimum balances as well as charges that would make such accounts accessible to vast sections of population. The efforts of the banks in this regard have enabled the common person to open bank accounts. However, financial inclusion objectives would not be fully met if the banks do not increase the banking out reach to the remote corners of the country. This has to be done with affordable infrastructure and low operational costs with the use of appropriate technology. This would enable banks to lower the transaction costs to make small ticket transactions viable.
+3. Banks are, therefore, urged to scale up their financial inclusion efforts by utilizing appropriate technology. Care must be taken to ensure that the solutions developed are:
+- highly secure;
+- amenable to audit; and
+- follow widely accepted open standards to allow inter-operability among the different systems adopted by different banks.
+# Withdrawn
+
+Yours faithfully,
+
+(N.S.Vishwanathan) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## Paragraph 163 of the Annual Policy Statement for the year 2007-08
+
+(v) IT-enabled Financial Inclusion
+163. Introduction of ‘zero balance’ or ‘no frills’ accounts has enabled the common person to open bank accounts. However, providing banking facilities closer to the customer, especially in remote and unbanked areas, while keeping transaction costs low, remains a challenge. Recognising that IT- enabled services have the potential for effectively meeting this challenge, banks have initiated pilot projects utilising smart cards/mobile technology to increase their outreach. Biometric methods for uniquely identifying customers are also being increasingly adopted. Accordingly:
+- banks are urged to scale up IT initiatives for financial inclusion speedily while ensuring that solutions are highly secure, amenable to audit, and follow widely-accepted open standards to ensure eventual inter-operability among the different systems.
+# Withdrawn

@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2007_DBOD_BP_BC_NO_26_21_02_070_2007-08"
+title: "Discounting / Rediscounting of Bills by Banks"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/79116.PDF"
+pdf_sha256: "afe41120931fcaebcd6edf7e2c2d062737d534325400a66ce98b4581ab758dda"
+md_sha256: "ff42a4ea1e7cc8bbe403086259e266295f44bdf9a036d455724d5e6f74b89e0a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-08-03_Circular_DBOD.BP.BC.NO.26-21.02.070-2007-08_Discounting%20-%20Rediscounting%20of%20Bills%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Discounting / Rediscounting of Bills by Banks
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/111 DBOD.BP.BC.NO.26/21.02.070/2007-08 August 3, 2007
+
+To All Scheduled Commercial Banks (excluding RRBs/LABs)
+
+Dear Sir, <u>Discounting / Rediscounting of Bills by banks</u> Please refer to our Mater Circular RBI/2006-2007/43. DBOD.No.Dir.BC.9/13.03.00/ 2007-08 dated July 2, 2007 on Loans and Advances-Statutory and Other Restrictions.
+
+2. In terms of para 3.10 (iii) of the circular, banks should purchase / discount / negotiate bills under Letter of Credit (LC) only in respect of genuine commercial and trade transactions of their borrower constituents who have been sanctioned regular credit facilities by the banks. Banks should not, therefore, extend fund-based credit facilities (including bills financing) to a non-constituent borrower or a non-constituent member of a consortium / multiple banking arrangement. Further, in terms of para 3.10 (viii) of the circular the practice of drawing bills of exchange claused 'without recourse' and issuing letters of credit bearing the legend 'without recourse' should be discouraged because such notations deprive the negotiating bank of the right of recourse it has against the drawer under the Negotiable Instruments Act. Banks should not, therefore, open LCs and purchase / discount / negotiate bills bearing the 'without recourse' clause.
+3. The above instructions have been reviewed and it has been decided that:
+(i) In cases where negotiation of bills drawn under LC is restricted to a particular bank, and the
+# Withdrawn
+
+beneficiary of the LC is not a constituent of that bank, the bank concerned may negotiate such an LC, subject to the condition that the proceeds will be remitted to the regular banker of the beneficiary. However, the prohibition regarding negotiation of unrestricted LCs of non-constituents will continue to be in force.
+
+(ii) The banks may negotiate bills drawn under LCs, on ‘with recourse’ or ‘without recourse’ basis, as per their discretion and based on their perception about the credit worthiness of the LC issuing bank. However, the restriction on purchase/discount of other bills (the bills drawn otherwise than under LC) on 'without recourse' basis will continue to be in force.
+
+4. The above guidelines will come into operation with immediate effect.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-in-Charge

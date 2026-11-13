@@ -1,0 +1,677 @@
+---
+doc_id: "Circulars_2007_UBD_BPD_PCB_MC_No_12_13_01_000_2007-08"
+title: "Master Circular on Maintenance of Deposit Accounts - UCBs"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78492.PDF"
+pdf_sha256: "116bf823a89d5e9f0c980e5c607c5608d33e6566aa9cebe2ed718593169316a0"
+md_sha256: "bc64a2952f9cdde603d2a30f8356cf3af516772d382867f755b0fb78c6a8e5fb"
+total_pages: 33
+native_pages: 33
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-07-04_Circular_UBD.BPD%28PCB%29MC.No.12-13.01.000-2007-08_Master%20Circular%20on%20Maintenance%20of%20Deposit%20Accounts%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Maintenance of Deposit Accounts - UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/85 UBD.BPD(PCB) MC.No: 12/13.01.000/2007-08 July 4, 2007
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+## Master Circular on
+
+## <u>Maintenance of Deposit Accounts-UCBs</u>
+
+Please refer to our Master Circular UBD BPD (PCB) MC.No.11/13.01.00/2006-07 dated August 23, 2006 on the captioned subject (available at RBI website www.rbi.org.in). The enclosed Master Circular consolidates and updates all the instructions/guidelines on the subject up to June 30,
+
+2007.
+Yours faithfully,
+
+(N.S.Vishwanathan) Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 2 -->
+
+## Master Circular
+
+**on**
+
+## Maintenance of Deposit Accounts-UCBs (Updated up to June 30, 2007)
+
+**(The Master Circular is also available at RBI website www..rbi.org.in and may be down loaded from there)**
+
+# Withdrawn
+
+## RESERVE BANK OF INDIA
+
+### Urban Banks Department,
+
+### Central Office
+
+### Mumbai
+
+<!-- PAGE 3 -->
+
+## Master Circular
+
+## <u>Maintenance of Deposit Accounts</u>
+
+## Contents
+
+**1. Introduction**
+**2. Opening of Deposit Accounts**
+2.1 Introduction of New Depositors
+2.2 Photographs of Account Holders
+2.3 Address of Account Holders
+2.4 Other Safeguards
+2.5 Opening of NRO/NRE accounts
+**3. Restrictions on Opening Certain Types of Deposit Accounts**
+3.1 Minor's Account with Mother as Guardian
+**4. Nomination Facilities**
+4.1 Operational Instructions
+4.2 The Act Provisions
+Withdrawn
+
+4.3 The Rules
+4.4 Record of Nomination
+4.5 Nomination Facility in respect of Articles in Safe Custody
+4.6 Nomination in respect of Safe Deposit Locker Accounts
+**5. Operations in Accounts**
+5.1 Joint Accounts
+5.2 Monitoring Operations in New Accounts
+5.3 Monitoring Operations in all Accounts
+5.4 Issue of Cheque Books
+5.5 Dormant Accounts
+5.6 Operation of Banks Accounts by Old/Sick/ Incapacitated Customers
+5.7 Receipt of Foreign Contributions
+
+<!-- PAGE 4 -->
+
+## 6. Deceased Constituents' Accounts
+
+## 7. Deposit Mobilisation
+
+7.1 Deposit Collection Agents
+7.2 Acceptance of Deposits by Unincorporated Bodies/Private Ltd. Companies with "Bank Guarantee"
+7.3 Deposit Collection Schemes Floated by Private Organizations
+## 8. Other Aspects
+
+8.1 Greater Co-ordination between Banking System and Income-Tax Authorities
+8.2 Register for Unclaimed Deposits
+## 9. "Know Your Customer" (KYC)
+
+- Annex I
+- Annex II
+- Appendix
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+## Master Circular
+
+## <u>Maintenance of Deposit Accounts</u>
+
+## 1. INTRODUCTION
+
+Acceptance of deposits and maintenance of deposit accounts is the core activity in any bank. The very basic legal interpretation of the word 'banking" as defined in the Banking Regulation Act, 1949 means accepting deposits of money, for the purpose of lending or investment, from the public, repayable on demand or otherwise, and withdrawable by cheque, draft, order or otherwise. Thus, deposits are the major resource and mainstay of a bank and the main objective of a bank is to mobilise adequate deposits. Various instructions, guidelines, etc. issued from time to time to primary (urban) co- operative banks in regard to opening and conduct/monitoring of deposit accounts are detailed hereunder.
+
+## 2. OPENING OF DEPOSIT ACCOUNTS
+
+## 2.1 Introduction of New Depositors
+
+A large number of frauds are perpetrated in banks mainly through opening of accounts in fictitious names, irregular payment of cheques, manipulation of accounts and unauthorised operations in accounts. Considering the fact that opening of an account is the first entry point for any person to become a customer of the bank, utmost vigilance in opening of accounts and operations in the accounts is called for. Even the legal protection under the Negotiable Instruments Act, 1881 whicWithdrawnh governs payment and collection of negotiable instruments and provides certain rights, liabilities (obligations) and protections to the issuers/drawers, payees, endorsees, drawees, collecting banks and paying/drawee banks, will be available, only if the bank makes the payment or receives payment of a cheque/draft payable to order in due course. Any payment or collection of a negotiable instrument is deemed in due course only when the bank acts in good faith and without negligence and does so for a customer.
+
+## 2.1.1 Necessity of Introduction
+
+(i) Introduction of an account is obtained not merely as a formality to get protection under section 131 of the Negotiable Instruments Act 1881, but also to enable proper identification of the person opening an account, so that it would be possible, to trace the person later when required. (ii) It is necessary for banks to know their customers and to put in place proper systems and procedures. The practice of obtaining proper introduction should not be treated as a mere formality, but as a measure of safe-guard against opening of accounts by undesirable
+
+<!-- PAGE 6 -->
+
+persons or in fictitious names with a view, *inter alia*, to depositing unaccounted money.
+
+2.1.2 **Proper Introduction**
+(i) The account should not be normally opened without a meeting between the bank official and the customer. (ii) The banks should invariably insist upon prospective depositors to furnish introduction (from either any of the existing account holders or a respectable member of the local community known to the bank or the bank's staff) for opening not only current and cheque operated savings bank accounts but also all deposit accounts including call, short-term and fixed deposits. The banks should take steps to satisfy themselves about the identity of their depositors. (iii) The role of the introducers should be made more specific. It is not sufficient to state that he has known the person for a sufficient length of time. (iv) The person giving introduction should be of some standing and have an account with the bank for at least six months to ensure that the accounts are not opened on the introduction of new account holders or persons having small and marginal balances. The interval will also enable the bank to monitor the account closely to satisfy itself that the transactions in the introducer's account are satisfactory.
+(v) Branch Managers/staff members should be discouraged from giving the introduction. Withdrawn (vi) Where the party is not able to provide an introduction satisfactorily, it must be made incumbent upon him to provide sufficient proof of his antecedents before the account is allowed to be opened. (vii) Customers of good standing should be educated to realise the implications of introducing an account without knowing the new parties. (viii) In the case of a customer who will be getting credits, say by way of salary, and making payments by cheques to government/ semi- government agencies/individuals, simple introduction along with photograph, may suffice. (ix) In case of accounts, which are likely to be used for putting through remittance transactions and for collection of cheques of substantial
+
+<!-- PAGE 7 -->
+
+amounts besides business payments, deeper enquiries would be necessary on the part of the bank.
+
+2.1.3 **Introduction in Absentia** When an introducer does not personally call at the branch to introduce an account, the fact of having introduced a new account should be got confirmed from him in writing. In cases where the account opening forms bear the signatures of manager/officials of other branches of the bank for introduction, apart from verifying the signatures of such introducers with the specimen signatures available on record, the branch concerned should obtain written confirmation of the introduction from the officials of the branches who introduced the account. Till such time the confirmation is received, the banks should not collect cheques/draft through the newly opened accounts. The same procedures should be adopted in cases where the introducers of accounts are not officials of the bank and do not personally call at the bank to introduce an account. The bank should send a letter by post both to the customer and the introducer and seek their confirmation for opening the account/giving introduction. Cheque book may be issued after receipt of confirmation from both.
+## 2.2 Photographs of Account Holders
+
+## 2.2.1 Mandatory Obtention of Photographs
+
+# Withdrawn
+
+(i)The banks should obtain photographs of the depositors/account holders who are authorised to operate the accounts at the time of opening of all new accounts. The customers' photographs should be recent and the cost of photographs to be affixed on the account opening forms may be borne by the customers.
+(ii)Only one set of photographs need be obtained and separate photographs should not be obtained for each category of deposit. The applications for different types of deposit accounts should be properly referenced.
+
+(iii)Photographs of persons authorised to operate the deposit accounts viz. S.B. and Current accounts should be obtained. In case of other deposits viz. Fixed/Recurring, Cumulative etc. photographs of all depositors in whose names the deposit receipt stands may be obtained, except in the case of deposits in the name of minor, where guardians' photographs could be obtained.
+
+(iv)The banks should also obtain photographs of 'Pardanashin" Women.
+
+(v)The banks should also obtain photographs of NRE, NRO, FCNR account holders.
+
+<!-- PAGE 8 -->
+
+For operations in the accounts, banks should not ordinarily insist on the presence of account holder unless the circumstances so warrant. Photographs cannot be a substitute for specimen signatures.
+
+2.2.2 **Exceptions**
+(i) The photographs need not be insisted upon by banks in the under noted cases:
+(a) new savings bank accounts where cheque facility is not provided; and
+(b) fixed and other term deposits upto an amount and inclusive of Rs. 10,000/- (ii) However, the banks should take usual and necessary precautions/safeguards in regard to opening and operation of these accounts. (iii) Where a depositor has a term deposit of less than Rs. 10,000/- but he/she is also having a savings bank account with cheque facility or a current account, it will be necessary to have the photograph of the depositor. (iv) Banks, local authorities and government departments (excluding public sector undertakings or quasi-government bodies) are exempt from the requirement of photographs.
+(v) The photographs need not be obtained for borrowal accounts viz. Cash Credit, Overdrafts accounts, etc. (vi) The banks may not insist for photographs in case of accounts of staff members (Single/Joint).
+## 2.3 Address of Account Holders
+
+# Withdrawn
+
+It is not proper for banks even unwittingly to allow themselves to be utilised by unscrupulous persons for the purpose of tax evasion. Therefore, banks should obtain full and complete address of depositors and record these in the books and the account opening forms so that the parties could be traced without difficulty, in case of need. Independent confirmation of the address of the account holder should be obtained in all cases.
+
+## 2.4 Other Safeguards
+
+## 2.4.1 PAN/GIR Number
+
+The banks are required to obtain PAN/GIR number of a depositor opening an account with an initial deposit of Rs.50,000/- and above.
+
+<!-- PAGE 9 -->
+
+## 2.4.2 Authorisation
+
+The opening of new accounts should be authorised only by the Branch Manager or by the Officer-in-Charge of the concerned deposit accounts department at bigger branches.
+
+## 2.4.3 Completion of Formalities
+
+The banks should ensure that all account opening formalities are undertaken at the bank's premises and no document is allowed to be taken out for execution. Where it is absolutely necessary to make exception of the above rule, banks may take precaution such as deputing an officer to verify the particulars, obtaining a signed photograph on a suitably formatted verification sheet, forwarding by registered
+
+A.D., mailing a copy of the account opening form and accompanying instructions to the client for necessary verification before any operations are conducted in the accounts.
+## 2.4.4 Opening of current account – Need for discipline:
+
+Keeping in view the importance of credit discipline for reduction in NPA level of banks, banks should insist on a declaration from the account-holder to the effect that he is not enjoying any credit facility with any other bank or obtain a declaration giving particulars of credit facilities enjoyed by him with any other bank(s). The account-opening bank should ascertain all the details and should also inform the concerned lending bank(s). The account-opening bank should obtain No-objection certificate from such banks.
+
+# Withdrawn
+
+However, in case no response is received from the existing bankers after a minimum period of a fortnight, banks may open current accounts of prospective customers.
+
+Further, where the due diligence is carried out on the request of a prospective customer who is a corporate customer or a large borrower enjoying credit facilities from more than one bank, the bank may inform the consortium leader, if under consortium, and the concerned banks, if under multiple banking arrangement.
+
+Banks are advised to be guided by the need for effective due diligence in these matters as also the objective of customer satisfaction and ensure that suitable arrangements are in place for prompt and serious attention to references received from banks in this regard.
+
+## <u>2.4.5 Financial Inclusion</u>
+
+While recognizing the role of primary (urban) co-operative banks in providing basic and affordable banking services in their respective area of operation, it is observed that in some UCBs, the requirement of minimum balance continues to deter a sizeable section of population from opening / maintaining bank accounts.
+
+<!-- PAGE 10 -->
+
+With a view to achieving the objective of greater financial inclusion, all UCBs are advised to make available a **basic banking 'no-frills' account** either with 'nil' or very low minimum balances as well as charges that would make such accounts accessible to vast sections of population. The nature and number of transactions in such accounts could be restricted, but made known to the customer in advance in a transparent manner. All UCBs are advised to give wide publicity to the facility of such 'no-frills' account including on their web sites indicating the facilities and charges in a transparent manner.
+
+**2.5 Opening of NRO/NRE accounts**:
+**2.5.1** UCBs may maintain NRO accounts arising from their redesignation as such, upon the existing resident account holders becoming non-resident and in such accounts only, periodical credit of interest will be permitted. UCBs are not permitted to open any fresh NRO accounts. (with the exception of Category I Authorized Dealers)
+2.5.2 UCBs registered in States that have entered into a Memorandum of Understanding (MOU) with Reserve Bank for supervisory and regulatory co- ordination and those registered under the Multi State Co-operative Societies Act, 2002 and complying with the following norms are eligible for authorization to maintain NRE accounts.
+
+|(i)|Minimum net worth of Rs 25 crore.|
+|---|---|
+|(ii)|CRAR of not less than 9%|
+|(iii)|Net NPAs to be less than 10%|
+|(iv)|Compliance with CRR/SLR requirements|
+|(v)|Net profit for preceding three years without any accumulated losses.|
+|(vi) (vii) Satisfactory compliance with KYC/AML guidelines|Sound internal control systems|
+|(viii)|Presence of at least two professional directors on the Board.|
+|3|RESTRICTIONS ON OPENING OF CERTAIN TYPES OF DEPOSIT|
+
+# Withdrawn
+
+## ACCOUNTS
+
+3.1 **Minor's Account with Mother as Guardian**
+3.1.1 Generally, the banks are reluctant to open deposit account in the name of minor, with mother as a guardian. Presumably, reluctance to allow mother as a guardian when the father is alive, is based on section 6 of the Hindu Minority and Guardianship Act, 1956 which stipulates that, during his lifetime, father alone should be the natural guardian of a Hindu minor.
+3.1.2 The legal and practical aspects of the problem have been examined by the Reserve Bank of India. If the idea underlying the demand for allowing mothers to be treated as guardians related only to the opening of fixed, recurring deposit and savings banks accounts, notwithstanding the legal
+
+<!-- PAGE 11 -->
+
+provisions, such accounts could be opened by banks provided they take adequate safeguards in allowing operations in the accounts by ensuring that minors' account opened with mothers as guardians are not allowed to be overdrawn and that they always remain in credit. In this way, the minor's capacity to enter into contract would not be a subject matter of dispute.
+
+3.1.3 Further, in cases where the amount involved is large, and if the minor is old enough to understand the nature of the transaction, the banks could take his acceptance also for paying out money from such account.
+4**. NOMINATION FACILITIES**
+4.1 **Operational Instructions**
+(i) Nomination facility should be made available to all types of deposit accounts irrespective of the nomenclature used by different banks. (ii) Unless the customer prefers not to nominate, (this may be recorded, without giving scope for conjecture of non-compliance) nomination should be a rule, to cover all existing and new accounts. (iii) Nomination facility is available for saving bank accounts opened for credit of pension. However, Co-operative Societies (Nomination) Rules, 1985, are distinct from the Arrears of Pension (Nomination) Rules, 1983, and the nomination exercised by the pensioner under the latter Rules for receipt of arrears of pension will not be valid for the purpose of deposit accounts held by the pensioners with banks for which a separate nomination is
+# Withdrawn
+
+necessary in terms of Co- operative Societies (Nomination) Rules, 1985, in case a pensioner desires to avail of nomination facility.
+
+(iv) Banks are advised to generally insist that the person opening a deposit account makes a nomination. In case the person opening an account declines to fill in nomination, the banks should explain the advantages of nomination facility. If the person opening the account still does not want to nominate, the banks should ask him to give a specific letter to th effect that he does not want to make nomination. In case the person opening the account declines to give such a letter, the bank should record the fact on the account opening form and proceed with opening of the account if otherwise found eligible. Under no circumstances, a bank should refuse to open an account solely on the ground that the person opening the account refused to nominate. This procedure should be adopted in respect of deposit accounts in the name of Sole Proprietary Concerns also.
+
+<!-- PAGE 12 -->
+
+4.2 **The Act Provisions** Sections 45ZA to 45ZF of the Banking Regulation Act, 1949 (As applicable to co-operative societies) provide, *inter alia*, for the following matters:
+(i) to enable a co-operative bank to make payment to the nominee of a deceased depositor, of the amount standing to the credit of the depositor. (ii) to enable a co-operative bank to return the articles left by a deceased person in its safe custody to his nominee, after making an inventory of the articles in the manner directed by the Reserve Bank. (iii) to enable a co-operative bank to release the contents of a safety locker to the nominee, of the hirer of such locker, in the event of the death of the hirer after making an inventory of the contents of the safety locker in the manner directed by the Reserve Bank.
+4.3 **The Rules** The Co-operative Banks (Nomination) Rules, 1985 provide for:
+(i) Nomination forms for deposit accounts, articles kept in safe custody and the contents of safety lockers, (ii) Forms for cancellation and variation of the nomination, (iii) Registration of nominations and cancellation and variation of nominations, and matters related to the above.
+# Withdrawn
+
+The Nomination Rules in respect of Deposit Accounts provide as under:
+
+(a) The nomination to be made by the depositor or, as the case may be, all the depositors together in respect of a deposit held by a co- operative bank to the credit of one or more individuals.
+(b) The said nomination may be made only in respect of a deposit, which is held in the individual capacity of the depositor and not in any representative capacity as the holder of an office or otherwise.
+(c) Where the nominee is a minor, the depositor or, as the case may be, all the depositors together, may, while making the nomination, appoint another individual not being a minor, to receive the amount of the deposit on behalf of the nominee in the event of the death of the depositor or, as the case may be, all the depositors during the minority of the nominee.
+(d) In the case of a deposit made in the name of a minor, the nomination shall be made by a person-lawfully entitled to act on behalf of the minor..
+
+<!-- PAGE 13 -->
+
+(e) The cancellation of the said nomination to be made by the depositor or, as the case may be, all the depositors together.
+(f) A variation of the said nomination to be made by the depositor or, as the case may be, all the depositors together.
+(g) The said nomination shall be made in favour of only one individual.
+(h) A nomination, cancellation of nomination or variation of nomination may be made as aforesaid at any time during which the deposit is held by a co-operative bank to the credit of the depositor or depositors, as the case may be.
+(i) In the case of a deposit held to the credit of more than one depositor, the cancellation or variation of a nomination shall not be valid unless it is made by all the depositors surviving at the time of the cancellation or variation of the nomination.
+(j) The co-operative bank shall acknowledge in writing, to the concerned depositor or depositors the filing of the relevant duly completed Form of nomination or cancellation of nomination or variation of nomination, as the case may be, in respect of a deposit.
+(k) The relevant duly completed Form of Nomination or cancellation of nomination or variation of nomination filed with the co-operative bank shall be registered in the books of the co-operative bank.
+(l) A nomination or cancellation of nomination or variation of nomination shall not cease to be in force merely by reason of the renewal of the deposit.
+# Withdrawn
+
+4**.**4 **Record of Nomination** The Rules 2(10), 3(9) and 4(10) require a bank to register in its books the nomination, cancellation and/or variation of the nomination. The banks should accordingly take action to register nominations or changes therein, if any, made by their depositor(s) hirer(s) of lockers. The following aspects may be adhered to while recording nominations:
+(i) In addition to obtaining nomination form, banks may provide for mentioning name and address of the nominee in the account opening form. Publicity about nomination facility is needed, including printing compatible message on chequebook, passbook and any other literature reaching the customer as well as launching periodical drives to popularise the facility. (ii) In case of joint deposits, after the death of one of the depositors, the banks may allow variation/cancellation of a subsisting nomination by other surviving depositor (s) acting together. This is also applicable to deposits having operating instructions “either or survivor”. It may be
+
+<!-- PAGE 14 -->
+
+noted that in the case of a joint deposit account, the nominee’s right arises only after the death of all the depositors
+
+(iii) The banks may introduce a practice of recording on the face of the pass book the position regarding availment of nomination facility with the legend ‘Nomination Registered’. This may be done in the case of term deposit receipts also.
+
+4.5 **Nomination Facility in respect of Articles in Safe Custody**
+4.5.1 **Legal Provisions** The legal provisions providing for nomination and return of articles kept in safe custody to the nominee and protection against notice of claims of other persons are detailed in Sections 45ZC and 45ZD.
+4.5.2 **Nomination Rules in respect of Articles in Safe Custody** The Nomination Rules in respect of articles kept in safe custody provides as under:
+(a) The nomination to be made by an individual (hereinafter referred to as the “depositor”) in respect of articles left in safe custody with a co-operative bank.
+(b) Where the nominee is minor, the depositor may, while making the nomination, appoint another individual not being a minor, to receive the said articles on behalf of the nominee in the event of the death of the depositor during the minority of the nominee.
+(c) Where the articles are left in safe custody with a co-operative bank in the name of a minor, the nomination shall be made by a person lawfully entitled to act on behalf of the minor.
+# Withdrawn
+
+(d) The nomination should be made in favour of only one individual.
+(e) A nomination, cancellation of nomination or variation of nomination may be made by the depositor at any time during which the articles so deposited are held in safe custody by the co-operative bank.
+(f) The co-operative bank should acknowledge in writing, to the depositor, the filing of the relevant duly completed Form of nomination or cancellation of nomination or variation of nomination, as the case may be, in respect of the articles so deposited.
+(g) The duly completed Form of nomination or cancellation of nomination or variation of nomination filed with the co-operative bank should be registered in the books of the co-operative bank.
+
+<!-- PAGE 15 -->
+
+4.5.3 **Operational Instructions**
+(i) Nomination facilities are available only in the case of individual depositors and not in respect of persons jointly depositing articles for safe custody. (ii) While returning articles kept in safe custody to the nominee or nominees and surviving hirers, banks are not required to open sealed/closed packets left with them for safe custody while releasing them. (iii) In the matter of returning articles left in safe custody by the deceased depositor to the nominee, the Reserve Bank of India, in pursuance of sections 45ZC(3) and 45ZE(4), read with section 56, of the Banking Regulation Act, 1949, has specified the formats for the purpose. (iv) In order to ensure that the articles left in safe custody are returned to the genuine nominee, as also to verify the proof of death, co-operative banks may devise their own claim formats or follow the procedure, if any, suggested for the purpose either by their own federation/association or by the Indian Banks' Association. As regards proof of death of depositor, the IBA has advised its member banks to follow the procedures as prevalent in banks viz. production of the death certificate or any other satisfactory mode of proof of death.
+4.6 **Nomination in respect of Safe Deposit Locker Accounts**
+4.6.1 **Legal Provisions**
+4.6.2 The legal provisions providing for nomination and release of contents of safety lockers to the nominee and protection against notice of claims of other persons are detailed in Sections 45ZE and 45ZF of the Act ibid.
+# Withdrawn
+
+## The Nomination Rules in respect of Safety Locker
+
+The Nomination Rules in respect of Safety Lockers provide as under:
+
+(a) Where the locker is hired from a co-operative bank by two or more individuals jointly, the nomination to be made by such hirers.
+(b) In the case of a sole hirer of a locker, nomination shall be made in favour of only one individual.
+(c) Where the locker is hired in the name of a minor, the nomination shall be made by a person lawfully entitled to act on behalf of the minor.
+(d) The cancellation of the said nomination to be made by the sole hirer or, as the case may be, joint hirers of a locker.
+(e) A variation of the said nomination to be made by the sole hirer of a locker.
+(f) A variation of the said nomination to be made by the joint hirers of a locker.
+(g) A nomination, cancellation of nomination or variation of nomination may be made as aforesaid at any time during which the locker is under hire.
+
+<!-- PAGE 16 -->
+
+(h) A co-operative bank shall acknowledge in writing to the sole hirer or joint hirers, the filling of the relevant duly completed Form of nomination or cancellation of nomination or variation of nomination, as the case may be, in respect of the locker so hired.
+(i) The relevant duly completed Form of nomination or cancellation of nomination or variation of nomination filed with the co-operative bank shall be registered in the books of the co-operative bank.
+4.6.3 **Operational Instructions**
+(i) In the matter of allowing the nominee(s) to have access to the locker and permitting him/them to remove the contents of the locker, the Reserve Bank of India, in pursuance of sections 45ZC(3) and 45ZE (4), read with section 56, of the Banking Regulation Act, 1949, has specified the Formats for Banking Regulation Act, 1949. (ii) In order to ensure that the amount of deposits, articles left in safe custody and contents of lockers are returned to the genuine nominee, banks may take action as indicated in para 4.5.3 (iv) above. (iii) While releasing contents of lockers to the nominee or nominees and surviving hirers, banks are not required to open sealed/closed packets found in locker. (iv) As regards locker hired jointly, on the death of any one of the joint hirers, the contents of the locker are only allowed to be removed (jointly by the nominee and the survivors) after an inventory is taken in the prescribed manner. In such a case, after such removal preceded by an inventory, the nominee and surviving hirer(s) may still keep the entire contents with the same bank, if they so desire by
+# Withdrawn
+
+entering into a fresh contract of hiring a locker.
+
+(v) Section 45ZE, read with section 56, of the Banking Regulation Act, 1949, does not preclude a minor from being a nominee for obtaining delivery of the contents of a locker. However, the responsibility of the banks in such cases is to ensure that when the contents of a locker are sought to be removed on behalf of the minor nominee, the articles are handed over to a person who, in law, is competent to receive the articles on behalf of the minor.
+## 5 OPERATIONS IN ACCOUNTS
+
+5.1 **Joint Accounts**
+5.1.1 **Modes of Operations in Joint Accounts** A copy of the letter No. LA.C/19-96-29 dated 28 August 1980, received from the Indian Banks’ Association, Bombay is given in the *Annex I*. Banks may consider the desirability of issuing suitable instructions to their branches for their information and necessary guidance on the subject.
+
+<!-- PAGE 17 -->
+
+5.1.2 **Precautions in Opening Joint Accounts**
+(i) In the case of too many joint account holders, the banks should keep the following guidelines in view, while opening joint accounts and permitting operations thereon:
+(a) While there are no restrictions on the number of account holders in a joint account, it is incumbent upon the banks to examine, every request for opening joint accounts very carefully. In particular, the purpose, nature of business handled by the parties and other relevant aspects relating to the business, and the financial position of the account holders, need to be looked into before opening such accounts. Care has also to be exercised when the number of account holders is large.
+(b) The account payee cheques payable to third parties should not be collected.
+(c) Cheques that are “crossed generally” and payable to "order" should be collected only on proper endorsement by the payee.
+(d) Care should be exercised in collection of cheques for large amounts.
+(e) The transactions put through in joint accounts should be scrutinised by the banks periodically and action taken as may be appropriate in the matter. Care should be exercised to ensure that the joint accounts are not used for benami transactions. (ii) The internal control and vigilance machinery should be tightened to cover the above aspects relating to the openi
+# Withdrawn
+
+ng and operation of joint accounts.
+
+5.2 **Monitoring Operations in New Accounts**
+5.2.1 A system of maintaining a close watch over the operations in new accounts should be introduced. While at branches, primarily the responsibility for monitoring newly opened accounts would rest with the in-charges of the concerned Department/Section, the Branch Managers or the Managers of Deposit Accounts Department at larger branches should at least for the first six months, from the date of opening of such accounts, keep a close watch, so as to guard against fraudulent or doubtful transactions taking place therein. If any transaction of suspicious nature is revealed, banks should enquire about the transaction from the account holder, and if no convincing explanation is forthcoming, they should consider reporting such transactions to the appropriate investigating agencies.
+5.2.2 Caution should be exercised whenever cheques/ drafts for large amounts are presented for collection, or Telegraphic Transfers (TTs)/Mail Transfers (MTs) are received for credit of new accounts immediately/within a short period after opening of account. In such cases, genuineness of the
+
+<!-- PAGE 18 -->
+
+instruments and the account holder should be thoroughly verified. If necessary the paying bank should check with the collecting bank about the genuineness of any large value cheques/drafts issued. Demand Drafts (DDs)/Cheques for large amounts presented for collection should be verified under ultra violet lamps to safe guard against chemical alterations.
+
+5.3 **Monitoring Operations in all Accounts**
+5.3.1 A system of close monitoring of cash withdrawal for large amounts should be put in place. Where third party cheques, drafts, etc. are deposited in the existing and newly opened accounts followed by cash withdrawals for large amounts, the banks should keep a proper vigil over the requests of their clients for such cash withdrawals for large amounts.
+5.3.2 The banks should introduce a system of closely monitoring cash deposits and withdrawals for Rs. 5 lakh and above not only in deposit accounts but also in all other accounts like cash credit/overdraft etc. The banks/branches should also maintain a separate register to record details of individual cash deposits and withdrawals for Rs. 5 lakh and above. The details recorded should include, in the case of deposits, the name of the account holder, account number, amount deposited and in the case of withdrawals, the name of the account holder, account number, amount of withdrawal and name of the beneficiary of the cheque. Further, any cash deposits or withdrawals of Rs. 5 lakh and above should be reported by the Branch Manager to the Head Office on a fortnightly basis along with full particulars, such as name of the account holder, account number, date of opening the account, etc. On receipt of these statements from branches, the Head Office should immediately scr
+# Withdrawn
+
+utinise the details thereof and have the transactions looked into by deputing officials, if the transactions prima facie appear to be dubious or giving rise to suspicion. The inspecting officials from the Reserve Bank of India during the course of their inspections will also be looking into the statements submitted by the branches.
+
+5.3.3 The other important areas in the payment of cheques wherein due caution need to be exercised are verification of drawer's signature, custody of specimen signature cards, supervision over issue of cheque books and control over custody of blank cheque books/leaves. While need for examining cheques for large amounts under Ultra Violet Ray Lamps is recognised by all banks, in practice it is rarely done as there is often a tendency to be lax in the matter resulting in avoidable loss. In addition, due care should be exercised in regard to issue and custody of tokens, movement of cheques tendered across the counter and custody of all instruments after they are paid by the banks. Depositors/ Customers should be asked to surrender unused cheque books before closing/transferring the accounts. Also safe custody of specimen signature cards is of utmost importance, especially when operating instructions are
+
+<!-- PAGE 19 -->
+
+changed, the change should be duly verified by a senior official in the branch.
+
+5.4 **Issue of Cheque Books** Fresh cheque books should be issued only against production of duly signed requisition slips from previous cheque book issued to the party. In case the cheque book is issued against a requisition letter, the drawer should be asked to come personally to the bank or cheque book should be sent to him under registered post directly without being delivered to the bearer. Loose cheques should be issued to account holder only when they come personally with a requisition letter and on production of passbooks.
+5.5 **Dormant Accounts**
+The accounts which have not been operated upon over a period two years should be segregated and maintained in separate ledgers. The relative ledger(s) and the specimen signature cards should be held under the custody of the Manager or one of the senior officials. The first withdrawal in such segregated accounts should be allowed only with the approval of the Manager.
+
+5.6 **Operation of Banks Accounts by Old/Sick/Incapacitated Customers**
+5.6.1 In order to facilitate old/sick/incapacitated bank customers to operate their bank accounts, procedure as laid down in para 5.6.2 below may be followed. The cases of sick/old/incapacitated account holders fall into the following categories:
+(j) an account holder who is too ill to sign a chWithdrawneque/cannot be physically present in the bank to withdraw money from his bank account but can put his/her thumb impression on the cheque/withdrawal form, and (ii) an account holder who is not only unable to be physically present in the bank but is also not even able to put his/her thumb impression on the cheque/withdrawal form due to certain physical defect/incapacity.
+5.6.2 The banks may follow the procedure as under:
+(i) Wherever thumb or toe impression of the sick/old/incapacitated account holder is obtained, it should be identified by two independent witnesses known to the bank, one of whom should be a responsible bank official. (ii) Where the customer cannot even put his/her thumb impression and also would not be able to be physically present in the bank, a mark obtained on the cheque/withdrawal form which should be identified by two independent witnesses, one of whom should be a responsible bank official.
+5.6.3 In such cases, the customer may be asked to indicate to the bank as to who would withdraw the amount from the bank on the basis of cheque/withdrawal form as obtained above and that person should be
+
+<!-- PAGE 20 -->
+
+identified by two independent witnesses. The person who would be actually drawing the money from the bank should be asked to furnish his signature to the bank.
+
+5.6.4 In this context, according to an opinion obtained by the Indian Banks' Association from their consultant on the question of opening of a bank account of a person who had lost both his hands and could not sign the cheque/withdrawal form, there must be physical contact between the person who is to sign and the signature or the mark put on the document. Therefore, in the case of the person who has lost both his hands, the signature can be by means of a mark. This mark can be placed by the person in any manner. It could be the toe impression, as suggested. It can be by means of mark which anybody can put on behalf of the person who has to sign, the mark being put by an instrument which has had a physical contact with the person who has to sign.
+5.7 **Receipt of Foreign Contributions by various Associations/** **Organisations in India under Foreign Contribution (Regulation) Act,** **1976**
+5.7.1 The Foreign Contribution (Regulation) Act, requires that the associations having a definite cultural, economic, educational, religious and social programme and receiving foreign contribution should get themselves registered with the Ministry of Home Affairs, Government of India and receive foreign contribution only through such one of the branches of a bank, as an association may specify in its application for registration with the Ministry of Home Affairs.
+# Withdrawn
+
+5.7.2 Further, the said Act provides that every association referred to in sub- section (1) of Section (6) may, if it is not registered with the Central Government, accept any foreign contribution only after obtaining prior permission of the Central Government.
+5.7.3 There are also certain organisations of a political nature, not being political parties (including their branches/units) specified by the Central Government under Section 5(l) of the Act. These organisations require prior Permission of the Central Government for accepting any foreign contribution. In this regard, the banks should take the following precautions:
+(i) To afford credit of the proceeds of cheques/drafts representing foreign contribution only if the association is registered with the Ministry of Home Affairs, Government of India. (ii) To insist on production of a communication from the Ministry of Home Affairs conveying prior permission of the Central Government for acceptance of specific amount of foreign contribution in case the association is not registered under the Foreign Contribution (Regulation) Act, 1976.
+
+<!-- PAGE 21 -->
+
+(iii) Not to afford credit to the account of such associations as are not registered with the Ministry of Home Affairs separately for the purpose of accepting foreign contribution under the Foreign Contribution (Regulation) Act, 1976.
+
+(iv) Not to afford credit to the account of such associations as have been directed to receive foreign contributions only after obtaining prior permission of the Central Government.
+
+(v) Not to allow the credit of the proceeds of the cheques/ demand drafts etc. to the organisations of a political nature, not being political parties (including their branches and units) unless a letter containing the prior permission of the Central Government under the Foreign Contribution (Regulation) Act, 1976 is produced by such organisations. (vi) To note the registration number as conveyed by the Ministry of Home Affairs to the various associations in the relevant records particularly the pages of the ledgers in which the foreign contribution accounts of associations are maintained to ensure that no unwanted harassment is caused to such associations. (vii) In case any cheque/demand draft has been tendered to the bank for realisation of its proceeds and credit to the account of the association/organisation by an association or organisation which is not registered or which requires prior permission, as the case may be, the concerned branch of the bank may approach the Ministry of Home Affairs for further instructions. In no case the banks should credit the account of association/organisation of a political nature, not being a political party, as specified by the Central Government and of an unregistered association, unless the association/ organisation produces a letter of the Ministry of Home Affairs conveying permission of the Central Government to
+# Withdrawn
+
+accept the foreign contribution.
+
+(viii) Where prior permission has been granted such permission is to accept only the specific amount of the foreign contribution which would be mentioned in the relevant letter. The Ministry of Home Affairs is invariably endorsing a copy of the order of registration or prior permission for each association/organisation to the concerned branch of the bank through which the foreign contributions are to be received for credit to the Associations/ Organisations deposit account.
+
+5.7.4 For the above purpose, appropriate systems may be devised within the bank to ensure meticulous compliance with these instructions and completely eliminate instances of non-compliance. The system so devised may be intimated to all the branches of the bank for proper implementation and strict compliance and the same should be effectively monitored at Head Office level.
+5.7.5 Further, banks are also required to submit a return furnishing details of the foreign contributions credited to the accounts of associations/ organisations on a half yearly basis for the period ending 30th September and 31st March
+
+<!-- PAGE 22 -->
+
+every year as per the format given in the *Annex II* to Government of India, Ministry of Home Affairs within a period of two months from the close of half year. To facilitate timely submission of half yearly returns to the Government, the banks may designate a 'Nodal Officer' at the Head Office who should be responsible for ensuring accurate and timely submission of returns.
+
+5.7.6 Non-adherence to these instructions will tantamount to violation of the provisions of the said Act. Even non-submission of the prescribed return in time to the Government of India would be viewed very seriously.
+## 6. Settlement of claims in respect of deceased depositors
+
+To facilitate expeditious and hassle-free settlement of claims on the death of a depositor, the following guidelines may be followed:
+
+## ACCESS TO BALANCE IN DEPOSIT ACCOUNTS
+
+## 6.1 Accounts with survivor/ nominee clause
+
+In the case of deposit accounts where the depositor had utilized the nomination facility and made a valid nomination or where the account was opened with the survivorship clause ("either or survivor", or "anyone or survivor", or "former or survivor" or "latter or survivor"), the payment of the balance in the deposit account to the survivor(s)/nominee of a deceased deposit account holder represents a valid discharge of the bank's liability provided
+
+# Withdrawn
+
+:
+
+(a) the bank has exercised due care and caution in establishing the identity of the survivor(s) / nominee and the fact of death of the account holder, through appropriate documentary evidence;
+(b) there is no order from the competent court restraining the bank from making the payment from the account of the deceased; and
+(c) it has been made clear to the survivor(s) / nominee that he would be receiving the payment from the bank as a trustee of the legal heirs of the deceased depositor, i.e., such payment to him shall not affect the right or claim which any person may have against the survivor(s) / nominee to whom the payment is made.
+**6.2** It may be noted that since payment made to the survivor(s) / nominee, subject to the foregoing conditions, would constitute a full discharge of the bank's liability, insistence on production of legal representation is superfluous and unwarranted and only serves to cause entirely avoidable inconvenience to the survivor(s) / nominee and would, therefore, invite serious supervisory disapproval. In such case, therefore, while making payment to the survivor(s) / nominee of the deceased depositor, the banks are advised to desist from insisting on production of
+
+<!-- PAGE 23 -->
+
+succession certificate, letter of administration or probate, etc., or obtain any bond of indemnity or surety from the survivor(s)/nominee, **irrespective of the amount** standing to the credit of the deceased account holder.
+
+## 6.3 Accounts without the survivor/ nominee clause
+
+In case where the deceased depositor had not made any nomination or for the accounts other than those styled as "either or survivor" (such as single or jointly operated accounts), banks are advised to adopt a simplified procedure for repayment to legal heir(s) of the depositor keeping in view the imperative need to avoid inconvenience and undue hardship to the common person. In this context, banks may, keeping in view their risk management systems, fix a minimum threshold limit, for the balance in the account of the deceased depositors, up to which claims in respect of the deceased depositors could be settled without insisting on production of any documentation other than a letter of indemnity.
+
+## 6.4 Premature Termination of term deposit accounts
+
+In the case of term deposits, banks are advised to incorporate a clause in the account opening form itself to the effect that in the event of the death of the depositor, premature termination of term deposits would be allowed. The conditions subject to which such premature withdrawal would be permitted may also be specified in the account opening form. Such premature withdrawal would not attract any penal charge.
+
+## 6.5. Treatment of flows in the name of the deceased depositor
+
+In order to avoid hardship to the survivor(s) / nominee of a deposit account, banks
+
+# Withdrawn
+
+are advised to obtain appropriate agreement / authorization from the survivor(s) / nominee with regard to the treatment of pipeline flows in the name of the deceased account holder. In this regard, banks could consider adopting either of the following two approaches:
+
+- The bank could be authorized by the survivor(s) / nominee of a deceased account holder to open an account styled as 'Estate of Shri ________________, the Deceased' where all the pipeline flows in the name of the deceased account holder could be allowed to be credited, provided no withdrawals are made.
+**OR**
+
+- The bank could be authorized by the survivor(s) / nominee to return the pipeline flows to the remitter with the remark "Account holder deceased" and to intimate the survivor(s) / nominee accordingly. The survivor(s) / nominee / legal heir(s) could then approach the remitter to effect payment through a negotiable instrument or through ECS transfer in the name of the appropriate beneficiary.
+
+<!-- PAGE 24 -->
+
+## 6.6 Access to the safe deposit lockers / safe custody articles
+
+For dealing with the requests from the nominee(s) of the deceased locker-hirer / depositors of the safe-custody articles (where such a nomination had been made) or by the survivor(s) of the deceased (where the locker / safe custody article was accessible under the survivorship clause), for access to the contents of the locker / safe custody article on the death of a locker hirer / depositor of the article, the banks are advised to adopt generally the foregoing approach, *mutatis mutandis,* as indicated for the deposit accounts. Detailed guidelines in this regard are, however, being issued separately.
+
+## 6.7 Time limit for settlement of claims
+
+Banks are advised to settle the claims in respect of deceased depositors and release payments to survivor(s) / nomi<u>nee(s) within a period not exceeding 15</u> <u>days</u> from the date of receipt of the claim subject to the production of proof of death of the depositor and suitable identification of the claim(s), to the bank's satisfaction. Banks should report to the Customer Service Committee of the Board, at appropriate intervals, on an ongoing basis, the details of the number of claims received pertaining to deceased depositors / locker-hirers / depositors of safe custody article accounts and those pending beyond the stipulated period, giving reasons therefor.
+
+## 6.8 Provisions of the Banking Regulation Act, 1949
+
+In this connection, attention is also invited to the provisions of Sections 45 ZA to 45 ZF read with Section 56 of the Banking Regulation Act, 1949 and the Co-operative Banks (Nomination) Rules, 1985. Withdrawn
+
+## 6.9 Customer Guidance and Publicity
+
+Banks are advised to give wide publicity and provide guidance to deposit account holders on the benefits of the nomination facility and the survivorship clause. Illustratively, it should be highlighted in the publicity material that in the event of the death of one of the joint account holders, the right to the deposit proceeds does not automatically devolve on the surviving joint deposit account holder, unless there is a survivorship clause.
+
+## 7 DEPOSIT MOBILISATION
+
+7.1 **Deposit Collection Agents**
+7.1.1 Banks are prohibited from paying brokerage on deposits in any form to any individual, firm, company, association, institution or any other person.
+7.1.2 Banks should not employ/engage outside persons even through firms/ companies for collection of deposits including Non-Resident deposits or for
+
+<!-- PAGE 25 -->
+
+selling any other deposit linked products on payment of fees/ commission in any form or manner, except to the extent permitted vide RBI Interest Rate Directives.
+
+7.2 **Acceptance of Deposits by Unincorporated Bodies/ Private Ltd.** **Companies with "Bank Guarantee"** Banks should not accept deposits at the instance of private financiers or unincorporated bodies under any arrangement, which provides for either the issue of deposit receipts favouring the clients of private financiers or giving of an authority by power of attorney, nomination otherwise for such clients receiving such deposits at maturity.
+7.3 **Deposit Collection Schemes Floated by Private Organisations** It may be noted that the Prize Chits and Money Circulation Schemes (Banning) Act, 1978 (No. 43 of 1978) imposes a total ban on the promotion and conduct of prize chit scheme except by charitable and educational institutions notified in that behalf by the State Governments concerned. The lottery falls within the expression "prize chit" under the Act referred to above. Further, sale of lottery tickets on bank counters could be open to abuse and avoidable complaints from members of public. Therefore, the banks should not associate themselves directly or indirectly with lottery schemes of organisations of any description.
+## 8 OTHER ASPECTS
+
+8.1 **Greater Co-ordination between Banking System and Income-Tax**Withdrawn **Authorities**
+8.1.1 **Safe Deposit Lockers** In order to facilitate the identification of locker keys by the Income-tax officials, the banks should emboss on all locker keys an identification code which would indicate the bank and the branch which had hired the lockers.
+8.1.2 **Co-ordination with Officers of Central Board of Direct Taxes** There is a need for greater co-ordination between the Income Tax Department and the banking system. As such, the banks may ensure that they extend necessary help/co-ordination to tax officials whenever required. Further, the banks will have to view with serious concern cases where their staff connives/assists in any manner with offences punishable under the Income Tax Act. In such cases, in addition to the normal criminal action, such staff member should also be proceeded against departmentally.
+
+<!-- PAGE 26 -->
+
+8.2 **Register for Unclaimed Deposits**
+8.2.1 The banks are required to submit to the Reserve Bank, a return in Form VIII showing unclaimed deposit accounts in India which have not been operated upon for 10 years or more, as at the end of each calendar year. In order to ensure accuracy and timely reporting, it is desirable to maintain a separate register for this purpose at all the branches of each bank.
+8.2.2 The banks should, therefore, advise their branches to maintain a register for unclaimed deposits in a separate register.
+8.2.3 The branches may also be advised that entries therein may be made in respect of deposit accounts not operated upon for 10 year. A separate folio may be opened in the register for different types of deposit accounts.
+8.2.3.1.1 The branches should ensure to note in the folio in which the relative unclaimed deposit account is maintained, that the unclaimed deposits register should be referred to before allowing operations in the account, so as to caution the bank not to allow operations on such accounts in the usual course but to do so after obtaining the authorisation of a higher official.
+## 9 "Know Your Customer" (KYC) guidelines and Anti Money Laundering
+
+## Standards
+
+As part of 'Know Your Customer' (KYC) principle, Reserve Bank has issued several guidelines relating to identification of depositors and advised the banks to put in place systems and procedures to prevent financial frauds,
+
+# Withdrawn
+
+identify money laundering and suspicious activities, and for scrutiny/ monitoring of large value cash transactions. Instructions have also been issued from time to time advising banks to be vigilant while opening accounts for new customers to prevent misuse of the banking system for perpetration of frauds. ‘Know Your Customer’ guidelines have been revisited in the context of the Recommendations made by the Financial Action Task Force (FATF) on Anti Money Laundering (AML) standards and on Combating Financing of Terrorism (CFT). These standards have become the international benchmark for framing Anti Money Laundering and Combating Financing of Terrorism policies by the regulatory authorities. Banks are advised to ensure that a proper policy framework on ‘Know Your Customer’ and Anti-Money Laundering measures is formulated and put in place with the approval of the Board. While preparing operational guidelines, banks may ensure that information sought from the customer is relevant to the perceived risk, is not intrusive, and is conformity with the guidelines issued in this regard from time to time. Any other information from the customer should be sought separately with his/her consent and after opening the account.
+
+<!-- PAGE 27 -->
+
+## Annex I
+
+## Master Circular
+
+## Maintenance of Deposit Accounts
+
+## Joint Accounts – ‘Either or Survivor’, ‘Latter or Survivor’
+
+## ‘Former or Survivor’, etc.
+
+*{Ref.Para 5.1.1 (i)}*
+
+LAC/19-96-29 28 August 1980
+
+## Chief Executives of all member banks
+
+Dear Sirs,
+
+## Joint Accounts ‘Either or Survivor’, <u>Latter or Survivor’ ‘Former or Survivor’ etc.</u>
+
+In the recent past, several letters have appeared in the press highlighting the difficulties experienced by the joint holders of Savings Bank or Term Deposit accounts, especially in regard to payment before maturity or in the settlement of claims when one of the account holders dies. There appears to be some confusion and misunderstanding about the procedure to be followed in respect of such accounts and the legal implications of the expressions ‘Either or Survivor’, ‘Latter of Survivor’, ‘Former or Survivor’ etc.
+
+# Withdrawn
+
+2. **Joint Accounts** In the case of joint accounts (Current, Savings or Deposits) in the names of two or more persons, the terms relating to which do not provide for payment of the amount due under the account to the Survivor(s) in the event of death of one of them, for the banks to obtain a valid discharge payment should be made jointly to Survivor(s) and the legal heirs of the deceased joint account holder. In such a case, in view of the difficulty in ascertaining with certainty as to who the legal heirs of the deceased are, it is the practice of the banks to insist on the production of legal representation (to the estate of the deceased) before settling the claim. As obtaining a grant of legal representation would entail delay and expenses, banks should encourage the opening of joint accounts on terms such as, payable to (a) Either or Survivor, (b) Former/Latter or Survivor, (c) Anyone or Survivors, or Survivor, etc. This point has been emphasised in the Recommendation NO. 6 of the Working Group on Customer Service in banks.
+
+<!-- PAGE 28 -->
+
+3. **Benefits of Survivorship** If the benefit of survivorship is provided, the survivor can give a valid discharge to the bank. Even though payment to the survivor will confer a valid discharge to the bank, the survivor will, however, hold the money only as trustee for the legal heirs (who may include the survivor as well) unless he is the sole beneficial owner of the balance in the account or the sole legal heir of the deceased. Thus, the survivor’s right unless he is the sole owner of the balance in the account/sole legal heir of the deceased, is only in the nature of a mere right to collect the money from the bank. If the legal heirs of the deceased lay a claim to the amount in the bank, they should be advised that in terms of the contract applicable to the account, the survivor is the person entitled to payment by the bank and that, unless the bank is restrained by an order of a competent court, the bank would be within its rights to make the payment to the survivors) named in the account. The position, briefly, is that a payment to survivor can be made if there are no orders from a competent court restraining the bank from making such payments.
+4. **Joint Savings Bank Account – Either or Survivor/** **Any one or Survivors or Survivor** As stated in para 3 above, the survivor can give a valid discharge to the bank. If the legal heirs claim the amount, the bank can inform them that unless they obtain and have served on the bank an order of competent court restraining the bank from effecting payment to the survivor, the bank will be within its rights to do so.
+# Withdrawn
+
+5. **Joint Term Deposit Account – Premature/Payment or Loan on death of** **one of the account holders**
+5.1 **Account in the style of ‘Either or Survivor or ‘Anyone or Survivors or** **Survivor’** In a joint term deposit account which has been opened in the style of either or survivor/any one or survivors or survivor, the bank often receives a request, on the death of one of the joint account holders, from the surviving depositors) to allow premature encashment or the grant of a loan against the term deposit receipt. It would be in order to accede to the request of the surviving depositors) for premature payment if (i) there is an option included in the contract of deposit to repay before maturity and (ii) “either/any one or survivorship” man- date has been obtained from original depositors. Requests for loans from surviving depositor(s) could also be considered in special cases, though in the case of such loans, the bank may face a possible risk if the legal representatives of the deceased depositor lay an effective claim to the deposit before it is paid on maturity. In such an event, the bank will have to look to the borrower(s) for repayment. This position
+
+<!-- PAGE 29 -->
+
+for premature payment or grant of loan is applicable also in respect of a joint account (in the style of either or survivor/any one or survivors or survivor), where all the account holders are alive.
+
+As a measure of operational prudence, a clause to the effect that loan/premature payment can be permitted to either/any one of the depositors any time during the deposit period can, however, be included in the term deposit contract, i.e. the account opening or application form itself, in the manner indicated in para 6 below.
+
+5.2 **Joint Term Deposit – Former or Survivor/Latter or Survivor etc**. In the case of these term deposits, the intention of the owner depositor (former/latter) is to facilitate repayment of the term deposit to the survivor only in the event of his death. He (the owner depositor) is in a position to retain with him at all times, the right to dispose of the monies until his death or maturity of the deposit receipt, whichever is earlier. There should, therefore, be no objection to the bank permitting premature payment of such deposits or granting advances against them at the request of the former/latter without insisting on the production of a consent letter from the other party/parties to the term deposit receipt. Here also it is preferable to make this position explicit to the joint depositors, by incorporating suitable clause in the term deposit account opening or application form.
+6. **Special clause in the application/account opening form for Term** **Deposit Receipt** Banks may consider incorporating a clause to the following effect in the account opening form/application form establishing the contract of term deposit:
+# Withdrawn
+
+‘The Bank may, on receipt of written application from Shri -------------------- the former/the latter/**the first** name the second name etc. of us or **Either or** **Survivor of us,** in its Any one or Survivors of Survivor of us, absolute discretion and subject to such terms and conditions as the Bank may stipulate, (a) grant a loan/advance against the security of the term deposit receipt to be issued in our joint names or (b) make premature payment of the proceeds of the deposit to the former/the latter/**the first named of us**/either the second or survivor of us etc. named of us/any one of us or survivors or survivor of us”.
+
+<!-- PAGE 30 -->
+
+## Annex II
+
+## Master Circular
+
+||||Maintenance of Deposit Accounts Details of Foreign Contribution received by Associations covered under Foreign Contributions (Regulations) Act, 1976||||
+|---|---|---|---|---|---|---|
+|||Name and address of the branch of the Bank :|[Ref. Para 5.7.5] Receipts of Foreign Contribution by various Associations/ Organisation in India under FC(R) Act, 1976||||
+|Sr.|Name & No. Address of the Association and under Account Number|Registratio n Number FC(R) Act, 1976|Letter(s) No. Date of & Date of MHA granting permission under FC(R) Act, 1976|Credit to (in Rs.) the Account|Amount|Details of Donor(s), if available|
+|1 2||3|4 5 6 7 Withdrawn||||
+
+<!-- PAGE 31 -->
+
+## Appendix
+
+## Master Circular
+
+## <u>Maintenance of Deposit Accounts</u>
+
+## A. List of Circulars consolidated in the Master Circular
+
+## No Circular No. Date Subject
+
+|1 UBD CO BPD Cir No: 36 /|19-04-|Nomination Facility in Single Deposit|
+|---|---|---|
+|13.01.000 / 2006-07|2007|Accounts – UCBs|
+|2. UBD CO BPD Cir No: 46 /|19-04-|Norms for maintaining NRE/NRO accounts-|
+|16.12..000 / 2006-07|2007|UCBs|
+|3 UBD PCB Cir No.19 /|24-11-|Financial inclusion – UCBs|
+|13.01.000// 2005-06|2005||
+|4 UBD PCB Cir No.4|14-07-|Settlement of claims in respect of deceased|
+|/13.01.000/ 2005-06|2005|depositors – simplified procedure- UCBs|
+|5 UBD PCB Cir No.|29-07-|Opening of current account by banks- need|
+|7/09.11.01/2004-05|2004|for discipline|
+|6 UBD PCB Cir No.|24-08-|Opening of current account by banks- need|
+|14/09.11.01/2004-05|2004|for discipline|
+|7 UBD.CO.BR.29/16.48.00/2|29-01-|Payment of balances in accounts of the|
+|000-01|2001|deceased customers to legal survivors/claimants|
+|8 UBD.BR.15/16.48.00/2000|21-11-|Payment of balances in accounts of the|
+|-2001|2000|Deceased Customers to survivors/claimants|
+|9 UBD.CO.BSD.I/11/12.05.0|15-11-|Opening of deposit accounts-Completion|
+|0/2000-2001|2000|of formalities|
+|10 UBD.BR.Cir.3/16.48.00/20|25-08-|Payment of balance in accounts of the|
+|00-2001|2000|Deceased customers to survivors/claimants|
+|11 UBD No BSD.I/|28-10-|Receipt of foreign contributions by various|
+|12/12.05.00/99-2000|1999|Associations/Organisations in India under Foreign Contribution (Regulation) Act, 1976|
+|12 .UBD.No.BR.32/16.04.00/|28-06-|Nomination Facility in Deposit Accounts|
+|98-99|1999||
+|13 UBD|30-01-|Recent of Foreign Contributions by various|
+|No.BSD.I/PCBs.18/12.05. 01/98-99|1999|Associations /Organisations in India under Foreign Contribution (Regulation ) Act,|
+|||1976|
+|14 UBD.No.DS.PCB.Cir.12/1|21-12-|Operation of Banks Accounts by|
+
+# Withdrawn
+
+<!-- PAGE 32 -->
+
+3.01.00/98-99 1998 Old/Sick/Incapacitated Customers
+
+|15 UBD.No.Plan.PCB.Cir.23/||28-11-|Issue of cheque books|
+|---|---|---|---|
+||09.50.00/97-98|1997||
+|16 UBD.No.BSD.I/PCB/09/12.|05.00/97-98|18-09- 1997|Opening of fictitious/benami deposit accounts and collection of stolen/forged instruments etc.|
+|17 UBD.No.I&L.49/12.05.00/9||14-03-|Frauds in banks - -Extension Counters|
+||5-96|1996||
+|18 UBD.No.I&L.51/12.05.00/9||14-03-|Frauds in banks through fictitious accounts|
+||5-96|1996||
+|19 UBD.No.I&L.PCB.44/12.05|.00/95-96|22-02- 1996|Monitoring of deposit accounts|
+|20 UBD.No.I&L.PCB.36/12.05|.00/95-96|05-01- 1996|Committee to enquire into various aspects relating to frauds and malpractices in banks|
+|21 UBD.No.I&L.PCB.28/12.05|.00/95-96|10-11- 1995|Monitoring of deposit accounts|
+|22 UBD.No.I&L/PCB/65/12.05|.00/94-95|28-06- 1995|Frauds in banks-Monitoring of deposit accounts|
+|23 UBD.No.I&L(PCB)38/12.1|5.00/94-95|10-01- 1995|34th Report of the Estimates Committee on the Ministry of Finance (Department of Economic Affairs) - Prevention of frauds|
+|24 UBDNo.I&L27/12.05.00/94|-95|31-10- 1994|Committee to enquire into various aspects relating to frauds and malpractices in banks obtaining photographs of depositors|
+|25 UBD.No.I&L/PCB24/12.05.|00/94-95|19-10- 1994|Fraudulent encashment of payment instruments|
+|26 UBD.No.I&L74/12.05.00/9|3/94|27-05- 1994|Committee to enquire into various aspects relating to frauds and malpractices in banks|
+|27 UBDNo.36/12.05.00/93-94||08-12- 1993|Committee to enquire into various aspects relating to frauds and malpractices in banks Primary Co-operative Banks|
+|28 UBD.DC.1/V.1-89/90||02-01- 1990|Opening of Bank Accounts in the Names of Minors with Mothers as Guardians|
+|29 UBD.No.BR.695/B.1-88/89||19-12- 1988|Payment of Balance in Accounts of the Deceased Customers to|
+
+# Withdrawn
+
+Survivors/Claimants-Non-insistence on Production of Succession Certificate-Extension to Other Assets
+
+30 Ref.UBD.No.DC.18/V.1-10-08-Deposit Collection Schemes floated by 88/89 1988 Private Organisations-Sale of Lottery <u>Tickets by Banks</u>
+
+<!-- PAGE 33 -->
+
+|31 UBD.No.BR.483/B1-87/88 21-10-||Payment of Balance in Accounts of the|
+|---|---|---|
+||1987|Deceased Customers to Survivors/Claimants|
+|32 UBD.No.I&L.88/J.1-87/88 08-06-|1987|Matters relating to Greater Co-ordination between Banking System and Income-tax Authorities|
+|33 UBD.DC.19/V.1.86/87|03-09- 1986|Acceptance of Deposits by Unincorporated Bodies/ Private Ltd. Companies with "Bank Guarantee"|
+|34 UBD.BR.13/A6-86/87|11-08- 1986|Banking Laws (Amendment) Act, 1983 - Sections 45ZA to 45ZF read with Section|
+
+56 of the Banking Regulation Act, 1949 - Co-operative Banks Nomination Rules, 1985 - Nomination Facilities
+
+|35 UBD.No.I&L.110/J.I-85/86 02-06-|||Deposit Accounts – Opening of|
+|---|---|---|---|
+|||1986||
+|36 UBD.BR.764A/A-6-84/85||29-03- 1985|Banking Laws (Amendments) Act, 1983-84 -Bringing into force of remaining provisions|
+|37 UBD.(DC)1148/V.1-84/85 22-02-||1985|Opening of a bank account in the name of minor with mother as guardian|
+|38 UBD.BR.16/A.6-84/85||09-07-|Banking Laws (Amendment) Act, 1983|
+|||1984||
+|39|DBOD.UBD.(I & L) No.2584/J1-82/83|22-03- 1983|Opening of various deposit accounts in primary co-operative banks-introduction|
+|40 ACD.ID(P)6428/J.1/80-81 17-02-||1981|Joint accounts 'either or survivor', latter or survivor, 'former or survivor' etc.|
+|41|ACD: ID: 4998-J: 17-76-7|09-12-|Deposit Accounts: Introduction|
+|||1976||
+|42 ACD:INSP: 5173/F:15/70-||17-06-|Register for Unclaimed Deposits|
+||71|1971||
+|43 ACD.BR.1454/A.1/67-8||08-04- 1968|Position of term deposits accepted prior to the commencement of the banking laws|
+
+# Withdrawn
+
+(application to co-operative societies) act 1965 by a co-operative society other than a primary credit society or a co-operative <u>bank</u>

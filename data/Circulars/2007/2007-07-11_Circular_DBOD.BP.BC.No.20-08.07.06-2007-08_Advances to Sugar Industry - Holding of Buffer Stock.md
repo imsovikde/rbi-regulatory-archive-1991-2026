@@ -1,0 +1,122 @@
+---
+doc_id: "Circulars_2007_DBOD_BP_BC_No_20_08_07_06_2007-08"
+title: "Advances to Sugar Industry - Holding of Buffer Stock"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78619.PDF"
+pdf_sha256: "a91b819a3d790438e6fd9415a586625cb3842b6f4a8067738729516038933231"
+md_sha256: "67098da4415c5b99fd8d562edba040928c89904393b120a3f67cda93b1dd5cac"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-07-11_Circular_DBOD.BP.BC.No.20-08.07.06-2007-08_Advances%20to%20Sugar%20Industry%20-%20Holding%20of%20Buffer%20Stock.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances to Sugar Industry - Holding of Buffer Stock
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/ 91 DBOD.BP.BC.No.20 / 08.07.06 / 2007-08
+
+## July 11, 2007
+
+## All Scheduled Commercial Banks
+
+Dear Sirs,
+
+## <u>Advances to Sugar Industry – Holding of Buffer Stock</u>
+
+Please find enclosed a copy of the notification dated April 20, 2007 issued by Government of India, Ministry of Consumer Affairs, Food & Public Distribution, Department of Food & Public Distribution on the captioned subject.
+
+2. It may be observed therefrom that Government has decided to create a buffer stock of 20 lakh tones of sugar for a period of one year with effect from May 01, 2007. Under the arrangement, the Government will release subsidy of Rs. 378 crore out of Sugar Development Fund and the banks will have to sanction additional credit limits amounting to Rs. 420 crore to release the margin consequent upon creation of the buffer stock from the existing stocks of sugar. In this connection, you may please refer to instructions contained in para 2.4.4 of DBOD Circular No.Dir.BC.8/13.03.00/2006-07 dated July 1, 2006 advising the banks that no margin is to be kept in respect of buffer stocks of sugar. As advised by Government, the entire amount of Rs. 798 crore will be used exclusively by the sugar mills for payment of cane price to farmers.
+3. A copy of Ministry of Consumer Affairs, Food and Public Distribution Notification dated December 6, 2001 setting out guidelines in regard to creation of buffer stock is
+# Withdrawn
+
+enclosed for guidance of banks.
+
+4. For operation of the Scheme, it would be necessary for sugar mills to segregate the stocks meant for buffer stock operations from the stock of sugar already held by them. The banks should allocate out of the regular limits separate sub-limits representing 100% value of buffer stocks held by sugar mills. The amount released as a result of providing 100% drawings against buffer stocks i.e. the amount in lieu of the margin money should be credited to a special account. It would be necessary for the banks to ensure that the amount available in this account is utilized for making cane payments.
+
+<!-- PAGE 2 -->
+
+5. Directorate of Sugar, Ministry of Consumer Affairs, Food & Public Distribution, New Delhi have, vide their Notification No. 6-5/2007-CC dated April 30, 2007 advised all sugar mills individually of the quantity and quality of sugar stocks to be held by them as buffer stock. It will be in order for the banks to take appropriate action on the strength of such a communication received by the sugar mills. The banks should ensure that no operations on the separate account kept for buffer stocks are allowed and no withdrawals from stocks earmarked as buffer stocks are permitted.
+6. Interest on the separate account for buffer stock may be debited to the regular cash credit account.'
+7. The stocks earmarked as buffer stocks may be valued in the same manner as free- sale stocks.
+Yours faithfully,
+
+(P.Vijaya Bhaskar) Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+|No.452]|NEW DELHI, FRIDAY, APRIL 20, 2007/CHAITRA 30, 1929|
+|---|---|
+||MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION (Department of Food and Public Distribution) Withdrawn NOTIFICATION New Delhi, the 20th April, 2007 S.O.627(E). – In pursuance of sub-rule (1) of rule 19 of the Sugar Development Fund Rules, 1983 read with clause (bb) of Sub-section (1) of Section 4 of the Sugar Development Fund Act, 1982 (4 of 1982), the Central Government hereby creates and requires to be maintained twenty lakh tonnes of sugar as the quantum of buffer stock for a period of one year on and from the 1st May, 2007 to the 30th April, 2008. [F.No.1(5)/2007-SP] S.K.SRIVASTAVA, Jt. Secy.|
+
+<!-- PAGE 4 -->
+
+## MINISTRY OFCONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION
+
+## (Department of Food and Public Distribution)
+
+## NOTIFICATION
+
+New Delhi, the 6th December, 2001
+
+G.S.R.886(E) - In exercise of the powers conferred by section 9 of the Sugar Development Fund Act, 1982 (4 of 1982), the Central Government hereby makes the following rules further to amend the Sugar Development Fund Rules, 1983 namely :-
+1. (1) These rules may be called the Sugar Development Fund (Second Amendment) Rules, 2001
+(2) They shall come into force on the date of their publication in the Official Gazette.
+2. In the Sugar Development Fund Rules, 1983( hereinafter referred to as the said rules), in rule 19, after sub-rule (13), the following sub-rule shall be inserted, namely :- "(13 A) Maintenance of funds received by way of subsidy towards interest, storage and insurance and utilisation thereof;
+(a) Every occupier of a sugar factory shall set apart the amount, if any, received from the Central Government by way of subsidy towards interest, storage and
+# Withdrawn
+
+insurance on the quantity of buffer stock of sugar and credit the amount so set apart to a separate account with his banker with whom he has a separate account under clause (a) and sub-rule (13), for the purpose provided in clause
+
+(b) of this sub-rule.
+(b) The amount credited to the separate account shall not be used by the said occupier for any purpose other than for payment of price, payable for the sugarcane purchased by the sugar factory; Provided that where the State Government Authority/officer furnishes a
+certificate in Form VI to the banker referred to in clause (a) above to the effect that the concerned sugar factory has no sugarcane price dues including arrears of price outstanding against it on the date of credit of the amount of subsidy towards interest, storage and insurance into the separate account, the bank may allow the said
+
+<!-- PAGE 5 -->
+
+occupier to use the said amount for any other purpose under intimation to the Central
+
+Government."
+
+## 18. THE GAZETTE OF INDIA EXTRAORDINARY (Part II)
+
+( c ) Floods where the premises of the sugar undertaking are ordinarily exposed to the risk of floods.
+
+(8) In case of any deterioration, damaged or loss to the buffer stock, every
+occupier of a sugar factory shall send to the Central Government a full and detailed report in writing indicating the reasons therefore and the extent of such damage, deterioration or loss.
+
+(9) Every occupier of a sugar factory shall make available to the Central
+Government or the Chief Director or an Officer deputed by the Central Government, access to the buffer stock of sugar for purposes of inspection as regards its manner of maintenance, its quantity and quality including grade and sugar year relevant to its production and also all books, records and accounts relating to the buffer stock.
+
+(10) No occupier of a sugar factory shall, except for the purposes provided under this rule, remove, dispatch or replace or dispose of any buffer stock without obtaining prior written permission of the Central Government or the Chief Director.
+
+(11) The Central Government or the Chief Director may, at any time, require an occupier of a sugar factory to release such quantity and quality/grade of sugar out of the buffer stock for sale, consumption, replacement of old or damaged stock of sugar or sugar not conforming to the Indian Sugar Standards as laid down by the Indian
+
+# Withdrawn
+
+Standards Institution as may be specified**(12)
+
+(13) Maintenance of funds received by way of additional credit and utilisation thereof;
+
+(a) Every occupier of a sugar factory shall set apart the amount, if any received
+from his bankers by way of additional credit on the quantity of buffer stock of sugar and credit the amount so set apart to a separate account with the same banker, for the purpose provided in clause (b).
+
+(b) the amount credited to the separate account shall not be used by the said
+occupier for any purpose other than for payment of price, including arrears of price, payable for the sugarcane purchased by the sugar factory.
+
+***(14) Subsidy towards interest, storage and insurance;
+
+<!-- PAGE 6 -->
+
+The Central Government may authorize payment for every quarter year or part thereof to every sugar factory, which has -
+
+(a) Set apart the required quantity of sugar (or a part thereof) as buffer stock.
+(b) pledged the buffer stock with any scheduled bank for the time being included in the second schedule to the Reserve Bank of India Act, 1934(2 of 1934) or any, State Co- operative bank or Central Co-operative bank as defined in the National Bank for Agricultural and Rural Development Act, 1981 (61 of 1981);
+# Withdrawn

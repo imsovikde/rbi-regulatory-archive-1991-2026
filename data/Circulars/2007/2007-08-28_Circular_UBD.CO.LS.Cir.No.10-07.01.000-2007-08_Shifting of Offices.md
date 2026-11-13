@@ -1,0 +1,50 @@
+---
+doc_id: "Circulars_2007_UBD_CO_LS_Cir_No_10_07_01_000_2007-08"
+title: "Shifting of Offices"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/79508.PDF"
+pdf_sha256: "e90d8999379ef2127eddd764e00f18f9a5838343c6176486e8332168c0b3cbfb"
+md_sha256: "a16d8f8192e702c275e6103d1dcf78031a84917be6944555b487b3eef3cc4ae1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-08-28_Circular_UBD.CO.LS.Cir.No.10-07.01.000-2007-08_Shifting%20of%20Offices.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Shifting of Offices
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/124
+
+UBD.CO.LS. Cir. No.10/07.01.000/2007-08 August 28, 2007 To
+
+The Chief Executive Officer of All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## Shifting of offices
+
+Please refer to our Master circular No.UBD.BL (PCB) MC.No.9/07.01.000/2004-05 dated September 1, 2004 on Area of Operation, Branch Licensing, opening/Upgradation of Extension Counters, ATMs and Shifting /Splitting/Closure of Offices. In terms of para 5.2 of the circular, UCBs, other than those unlicensed and categorized as Grade III/IV and not complying with Section 11 (1) of B.R. Act, 1949 (AACS), may shift their place of business, including administrative office, located in the semi-urban areas anywhere within the same town, irrespective of distance vis-à-vis other banks/offices, etc. without prior permission of the Reserve Bank. As regards banks located in urban/metropolitan centres, shifting within the same locality/municipal ward is permitted in respect of banks, other than those unlicensed and categorized as Grade III/IV and not complying with Section 11 (1)
+
+# Withdrawn
+
+of the B.R. Act, 1949 (AACS), without prior permission of the Reserve Bank. But for shifting to a different locality/municipal ward, banks are required to obtain our prior permission.
+
+2. We have been receiving representations to consider granting permission to UCBs to shift their branches from one city to another in their area of operation. It has now been decided to consider requests from UCBs (other than Unit banks) to **shift their branches from one city to another in their area of operation within** **the same State** subject to the following conditions:
+i) The new centre is of the same or lower population group as the existing centre
+e.g. a branch at a 'D' centre can be shifted to another 'D' centre only; and ii) A branch located in underbanked district can be shifted to another centre in underbanked district only.
+
+<!-- PAGE 2 -->
+
+iii) The shifting should be beneficial to the bank in terms of cost and business.
+
+3. Banks are advised to submit their applications in this regard to the Regional Office of Urban Banks Department in whose jurisdiction the Head Office of the bank is situated.
+4. Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully (K.P.V. Karunakaran) General Manager
+
+# Withdrawn
