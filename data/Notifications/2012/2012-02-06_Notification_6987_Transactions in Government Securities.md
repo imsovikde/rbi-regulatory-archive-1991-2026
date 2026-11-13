@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2012_6987"
+title: "Transactions in Government Securities"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DPIIIC060212.PDF"
+pdf_sha256: "e8f971ef9f73b0e0ee2d1cd142b4f0a6b6e179a9786215839b16242d94cd9ca4"
+md_sha256: "9979283c2c30782985374c5f04bdcc95bf272814365d0e71dd71ad5d1cdf3231"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:27:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-02-06_Notification_6987_Transactions%20in%20Government%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Transactions in Government Securities
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/387 IDMD.PCD. **19** /14.03.07/2011-12 February 6, 2012
+
+## All market participants
+
+## Dear Sir/Madam
+
+## Transactions in Government Securities
+
+Please refer to circular <u>IDMD.PDRS.5/10.02.01/2003-04 dated March 29, 2004</u> on the captioned subject.
+
+2. In terms of para 3 and 4 of the aforementioned circular, sale of G-Sec already contracted for purchase is permitted and that the forward leg of a repo transaction is also treated as a ‘purchase’ contract. Accordingly, sale of G-Sec (on T+1 basis) that have been repoed (on T+0 basis) is permitted since the sale and the forward leg of the repo will settle on the same settlement cycle.
+3. In this regard, it has now been decided to permit repo of G-Sec (on T+0 basis) that have already been contracted for sale (on T+1 basis). Participants, while undertaking such transactions, shall ensure that adequate balances are available in their SGL/CSGL accounts to ensure settlement of the transactions on the date of settlement. Any failure in settlement would attract the penal provisions as outlined vide circular <u>IDMD.DOD.17/11.01.01(B)/2010-11 dated July 14, 2010</u>.
+4. All other terms and conditions contained in the aforementioned circulars remain unchanged.
+## Yours faithfully
+
+(**K K Vohra**) Chief General Manager

@@ -1,0 +1,86 @@
+---
+doc_id: "Notifications_2012_6965"
+title: "Deregulation of Savings Bank Deposit Interest Rate - Guidelines"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DSDR250112.pdf"
+pdf_sha256: "feb3ff87240363180f591f1aae35ce60eb4711188399b3f6edbe546f46a7ecd0"
+md_sha256: "4a4162661fb247d3e235edc35227742268974a5e161aa105ca96d3af073e97b0"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:27:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-01-25_Notification_6965_Deregulation%20of%20Savings%20Bank%20Deposit%20Interest%20Rate%20-%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Deregulation of Savings Bank Deposit Interest Rate - Guidelines
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/368
+
+DBOD.Dir.BC.75/13.03.00/2011-12
+
+January 25, 2012
+
+AllScheduledCommercialBanks
+
+(Excluding RRBs)
+
+Dear Sir/Madam,
+
+Deregulation of Savings Bank Deposit Interest Rate- Guidelines
+
+Please refer to our circular DBOD.Dir.BC. 42 /13.03.00/2011-12 dated October 25.
+
+2011.
+
+2. Based on the references received from banks, we clarify that the revised
+
+guidelines issued vide our circular referred to above would be applicable to domestic
+
+savings bank deposits held by residents in India. Further, the interest rates
+
+applicable on the domestic savings deposit will be determined on the basis of
+
+end-of-day balance in the account. Accordingly, while calculating interest on
+
+domestic savings bank deposits, banks are required to apply the uniform rate set by
+
+them on end-of-day balance up to Rs. 1 lakh and for any end-of-day balance
+
+exceeding Rs.1 lakh, banks may apply the differential rate(s) as fixed by them.
+
+3. Banks may ensure that interest rate is applied, as stated above, on the end-of-day
+
+balances of all domestic savings deposits accounts and no discrimination is made at
+
+any of its offices. Prior approval of the Board/Asset Liability Management Committee
+
+(if powers are delegated by the Board) may be obtained by a bank while fixing
+
+interest rates on such deposits.
+
+4. All other instructions in this regard, as amended from time to time, will remain
+
+unchanged.
+
+Yours faithfully
+
+(P. R. Ravi Mohan)
+
+Chief General Manager
+
+14
+
+Department of Banking Operations and Development,Central Office,13th floor,NCOB,Shahid Bhagat Singh Marg,Mumbai-400001
+
+f/Tel No:91-22-22601000a/Fax No: 91-22-22701241EmailID:cgmicdbodco@rbi.org.in
+
+3 , SHT YT T

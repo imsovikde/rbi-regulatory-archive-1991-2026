@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2012_6959"
+title: "Implementation of UNSCR 1929 (2010) on Non-proliferation Government of India Order of November 04, 2011"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRB240112.pdf"
+pdf_sha256: "271decd7fee7fa7402ad4af4a307f8d0650e9431f4de48401eb42c19eb55faf7"
+md_sha256: "a6174d58d30aacf0e128778d08b2504aa43dca08640585485d7e0cef4679b91f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:27:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-01-24_Notification_6959_Implementation%20of%20UNSCR%201929%20%282010%29%20on%20Non-proliferation%20Government%20of%20India%20Order%20of%20November%2004%2C%202011.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of UNSCR 1929 (2010) on Non-proliferation Government of India Order of November 04, 2011
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **__________________RESERVE BANK OF INDIA______________________** <u>www.rbi.org.in</u>
+
+RBI/2011‐12/362 RPCD.CO RRB.AML.No.7306 /03.05.28(A)/2011‐12 January 24, 2012
+
+## The Chairmen All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+## Implementation of UNSCR 1929 (2010) on Non‐proliferation Government of India Order of November 04, 2011
+
+Please find enclosed a <u>copy of Ministry of External Affairs Order dated November 4,</u> 2011 published in the Gazette of India on implementation of United Nations Security Council Resolution 1929 (2010).
+
+2. Utmost care should be taken by RRBs to ensure to cross check all account opening applications and transactions carried out in the existing accounts with the list of individuals / entities enlisted in the Gazette and report those accounts to Reserve Bank of India and Financial Intelligence Unit‐India which bear resemblance with the individuals / entities listed therein.
+3. Compliance Officer/Principal Officer should acknowledge receipt of this letter to our Regional Office concerned.
+## Yours faithfully
+
+(I.S.Negi) General Manager Encls: As above
+
+Rural Planning & Credit Department Central Office**,** 10 th Floor, Central Office Building, Shahid Bhagat Singh Marg Mumbai - 1 Tel No: 91-22-22661602 Fax No: 91-22-22621011/22610943/22610948 Email ID:cgmicrpcd@rbi.org.in

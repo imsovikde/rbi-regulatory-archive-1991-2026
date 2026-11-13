@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2012_6949"
+title: "Implementation of UNSCR 1929(2010) on Non-proliferation Government of India Order of November 04, 2011"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR200112FL.pdf"
+pdf_sha256: "65a1cbf0eef0d13acccf9a3b5477a2f0d441c83b289fbcb01c351d923e8d76e5"
+md_sha256: "21f8825d99f43b8e98c27f07e35915e148c07279c1dadf1322fd8079ecc4cd55"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:27:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-01-20_Notification_6949_Implementation%20of%20UNSCR%201929%282010%29%20on%20Non-proliferation%20Government%20of%20India%20Order%20of%20November%2004%2C%202011.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of UNSCR 1929(2010) on Non-proliferation Government of India Order of November 04, 2011
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/ 358 DBOD. AML. No. 10874 /14.06.001/2011-12 January 20, 2012
+
+## The Chairman / CEOs of all Scheduled Commercial Banks (Excluding RRBs)/
+
+## Local Area Banks / Financial Institutions
+
+Dear Sir,
+
+## Implementation of UNSCR 1929(2010) on Non-proliferation Government of India Order of November 04, 2011
+
+Please find enclosed a <u>copy of Ministry of External Affairs Order dated November 4,</u> <u>2011</u> published in the Gazette of India on implementation of United Nations Security Council Resolution 1929(2010).
+
+2. Utmost care should be taken by banks to ensure to cross check all account opening applications and transactions carried out in the existing accounts with the list of individuals / entities enlisted in the Gazette and report those accounts to Reserve Bank of India and Financial Intelligence Unit-India which bear resemblance with the individuals / entities listed therein.
+3. Compliance Officer/Principal Officer should acknowledge receipt of this circular letter. Yours faithfully, (S. K. Jha) Deputy General Manager
+## Encl: As above
+
+_______________________________________ Department of Banking Operations and Development, Central Office, C.O. Building, 13th Floor, Fort, Mumbai,400001 ’½¹¥¸ûÅø›¸ /Tel No:022-22601000 û¾ÅÆ¬¸/Fax No:022-22701239 Email ID:cgmicdbodco@rbi.org.in

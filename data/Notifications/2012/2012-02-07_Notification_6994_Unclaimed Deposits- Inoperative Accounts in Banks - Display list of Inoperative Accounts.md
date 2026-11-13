@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2012_6994"
+title: "Unclaimed Deposits/ Inoperative Accounts in Banks - Display list of Inoperative Accounts"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IOC07022012.pdf"
+pdf_sha256: "b46584479617e4ef34e87a68a1f37e509dddd1a5a9e21101d5b04767d3ffb2e2"
+md_sha256: "f0a398f998bc01afd8c4623c3ea67832cc1c12d9fb052224b71761f641afcfb2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:27:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-02-07_Notification_6994_Unclaimed%20Deposits-%20Inoperative%20Accounts%20in%20Banks%20-%20Display%20list%20of%20Inoperative%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Unclaimed Deposits/ Inoperative Accounts in Banks - Display list of Inoperative Accounts
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/389 DBOD.No.Leg.BC. 81 /09.07.005/2011-12 February 7, 2012 All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir, **Unclaimed Deposits/ Inoperative Accounts in Banks -** **Display list of Inoperative Accounts**
+
+Please refer to our <u>Circular DBOD.No.Leg.BC.34/09.07.005/2008-09 dated August</u> <u>22, 2008</u>, wherein detailed instructions have been given to banks on dealing with unclaimed deposits / inoperative accounts. They have been advised to find the whereabouts of the customers and their legal heirs. These instructions, inter alia, include i) annual review of accounts in which there are no operations, ii) operations in such accounts to be allowed after due diligence and iii) no charge to be levied for activation of inoperative account, etc.
+
+2. Keeping in view public interest, it has been decided that banks should, in addition to the instructions contained in the above mentioned circular, play a more pro-active role in finding the whereabouts of the accountholders of unclaimed deposits/ inoperative accounts. Banks are, therefore, advised that they should display the list of unclaimed deposits/inoperative accounts which are <u>inactive / inoperative for ten</u> <u>years or more</u> on their respective websites. The list so displayed on the websites must contain <u>only</u> the names of the account holder(s) and his/her address in respect of unclaimed deposits/inoperative accounts. In case such accounts are not in the name of individuals, the names of individuals authorized to operate the accounts should also be indicated. However, the account number, its type and the name of the branch shall not be disclosed on the bank’s website. The list so published by the banks should also provide a **“Find”** option to enable the public to search the list of accounts by name of the account holder.
+_________________________________________________________________________________________________________________ **Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005** **Tel No: 91-22-22189131 Fax No: 91-22-22183785 Email ID: cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+3. Banks should also give on the same website, the information on the process of claiming the unclaimed deposit/activating the inoperative account and the necessary forms and documents for claiming the same. Banks are required to have adequate operational safeguards to ensure that the claimants are genuine.
+4. Banks should complete action as above by June 30, 2012 and keep their websites updated at regular intervals. Yours faithfully, (Deepak Singhal) Chief General Manager –in-Charge

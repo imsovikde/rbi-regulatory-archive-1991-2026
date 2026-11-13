@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2012_6922"
+title: "Issue of Acknowledgement of Loan Applications to MSME borrowers"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IOA040112FL.pdf"
+pdf_sha256: "145042b29094bf7d2235bef5f3f342285a7eca946b7586461378f5a69c1c381d"
+md_sha256: "d7bb1f7af7cb6c010323e598b0684b61945d6dae1ab66db1860c7eff149421e9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:26:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-01-04_Notification_6922_Issue%20of%20Acknowledgement%20of%20Loan%20Applications%20to%20MSME%20borrowers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Issue of Acknowledgement of Loan Applications to MSME borrowers
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/337 RPCD.MSME & NFS. BC. No. 53 /06.02.31/ 2011-12 January 4, 2012
+
+The Chairman/Managing Director/ Chief Executive Officer All Scheduled Commercial Banks *(excluding Regional Rural Banks)*
+
+## Dear Sir
+
+## <u>Issue of Acknowledgement of Loan Applications to MSME borrowers</u>
+
+Please refer to paragraph 2 (b) of <u>Circular DBOD.Leg.No.BC.104/09.07.007/2002-03 dated</u> <u>May 5, 2003</u> on 'Guidelines on Fair Practices Code for Lenders' wherein banks were advised to devise a system of giving acknowledgement for receipt of all loan applications. The banks were also advised vide our <u>circular RPCD.SME & NFS.BC.No.102/06.04.01/2008-09 dated</u> <u>May 4, 2009</u> to put in place a Central Registration of loan applications and to use of same technology for online submission of loan applications as also for online tracking of loan applications as recommended by the Working Group on Rehabilitation of sick MSME Units (Chairman: Dr. K. C. Chakrabarty).
+
+2. In this connection, we have been receiving complaints from the Industry Associations/Chambers that banks are not acknowledging loan applications. It is therefore, reiterated that the banks should mandatorily acknowledge all loan applications, submitted manually or online, by their MSME borrowers and ensure that a running serial number is recorded on the application form as well as on the acknowledgement receipt.
+3. Banks are further encouraged to start Central Registration of loan applications. The same technology may be used for online submission of loan applications as also for online tracking of loan applications.
+4. You are requested to issue suitable instructions to your branches / controlling offices for meticulous compliance.
+5. Please acknowledge receipt and forward an Action Taken Report by January 30, 2012. Yours faithfully,
+## (C.D. Srinivasan)
+
+Chief General Manager ___________________________________________________________________ th Rural Planning & Credit Dept., Central Office, 10 Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014, Mumbai 400 001 Tel : 2266 1602 Fax : 2262 1011/2261 0943/2261 0948 E-mail : <u>cgmincrpcd@rbi.org.in</u>

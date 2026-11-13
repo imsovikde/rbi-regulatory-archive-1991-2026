@@ -1,0 +1,104 @@
+---
+doc_id: "Notifications_2012_6951"
+title: "Clarification on regulation of interest rates for Small Savings Schemes"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/359C200112A.PDF"
+pdf_sha256: "acdc397a130397e32ca18265e12b4b33616ccd49ba813e003acd5b2f4986bf66"
+md_sha256: "9f7ff02a19cb9e92ad272f1b3cb4ede9351baf9f4585615f5a1f7e3f397703c8"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:27:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-01-20_Notification_6951_Clarification%20on%20regulation%20of%20interest%20rates%20for%20Small%20Savings%20Schemes.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Clarification on regulation of interest rates for Small Savings Schemes
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/359
+
+January 20, 2012
+
+DGBA.CDD.No.H- 4836 /15.02.001/2011-12
+
+TheChairman andManagingDirector/ManagingDirector
+
+Head Office,Government Accounts Department
+
+StateBankofIndia/StateBankofPatiala/
+
+StateBankofBikaner&Jaipur/StateBankofTravancore/StateBankofHyderabad/
+
+StateBankofMysore/AndhraBank/AllahabadBank/BankofBaroda/BankofIndia/
+
+BankofMaharashtra/CanaraBank/CentralBankofIndia/
+
+CorporationBank/DenaBank/lndianBank/IndianOverseasBank/
+
+PunjabNational Bank/SyndicateBank/UCO Bank/
+
+Union Bank of India/United Bank of India/ Vijaya Bank/IDBl Bank Ltd./ICICI Bank Ltd.
+
+Dear Sir/Madam,
+
+ClarificationonregulationofinterestratesforSmallSavingsSchemes
+
+Asper thedecisionof theGovernmenton therecommendationsof theCommitteeforComprehensive
+
+Review of National Small Savings Fund (NSSF), the rate of interest on small savings schemes will be
+
+aligned with G-Sec rates of similar maturity with a spread of 25 basis points (bps), with two exceptions.
+
+The spread on 10 year National Savings Certificate (NSC) will be 50 bps and on Senior Citizens Savings
+
+April 01st of that year. Notifications on changes in the interest rates, in various small savings schemes
+
+with effect from December 01, 2011 have already been issued by Government of India. We have also,
+
+videourcircularNo.RBl/2011-12/291datedDecember05,2011circulatedGovernment'sNotification
+
+dated November25,2011indicatingchangeintheinterestrateonPublicProvident FundScheme,1968
+
+(PPF, 1968).
+
+2. It is observed that news items are appearing in certain sections of the press, which convey an
+
+impression that the interest rates on small savings schemes linked to G-Sec rates, are floating in nature
+
+39001-2000
+
+0
+
+ThisDepartmentisISO9001-2000Certified.
+
+Telephone: (022) 23084121,Fax: (022) 2301 0095/2300 0370,e-mail: cgmicdgbaco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+3. As per the rules of small savings schemes, the rate of interest on an investment made in all schemes
+
+except PPF, 1968 on a particular date, remains unchanged for the entire duration of the investment, till
+
+maturity,irrespectiveof therevisionsinsubsequentyears.
+
+4. The above clarification may be brought to the notice of the branches of your bank operating the PPF
+
+Scheme, 1968 and SCSS, 2004 advising them to display the same on their notice boards.
+
+Yoursfaithfully
+
+(P S Ranga Rao)
+
+AssistantGeneral Manager

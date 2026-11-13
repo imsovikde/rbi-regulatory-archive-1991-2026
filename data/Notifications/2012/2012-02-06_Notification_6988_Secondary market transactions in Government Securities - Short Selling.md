@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2012_6988"
+title: "Secondary market transactions in Government Securities - Short Selling"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/EPSC060212F.PDF"
+pdf_sha256: "fc1f3c4d83e5ce99f9cafde8523f1e1d7b8f464667609a5f293adbee100ca4d4"
+md_sha256: "3a7215b06884c1fe640735a61fcdd4b8dd0937cc258a31b3109581b9edc9c033"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:27:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-02-06_Notification_6988_Secondary%20market%20transactions%20in%20Government%20Securities%20-%20Short%20Selling.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Secondary market transactions in Government Securities - Short Selling
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/386 IDMD.PCD. **18** /14.03.07/2011-12 February 6, 2012 **All market participants** Dear Sir/Madam **Secondary market transactions in Government Securities-Short Selling** Please refer to circular <u>IDMD.PCD.14/14.03.07/2011-12 dated December 28, 2011</u> on the captioned subject.
+
+2. In this regard, the monthly report on short selling has been modified to capture the changes in the regulatory limits during the month (due to change in the outstanding amount of the G-Sec and/or its benchmark status) and the same is enclosed as *Annex*. Further, the monthly report (soft copy and duly certified hard copy) shall be submitted to the Financial Markets Department th by 8 of every month.
+3. All other terms and conditions contained in the aforementioned circulars remain unchanged.
+## Yours faithfully
+
+(**K K Vohra**) Chief General Manager
+
+<!-- PAGE 2 -->
+
+# Annex
+
+## Monthly reporting of Short Sale transactions in GoI Securities
+
+## Report for the month of _____________
+
+## Name of the bank/PD: ______________________ Security: ______________________
+
+|||Short|Securities||Short position covered through|Short|Maximum||
+|---|---|---|---|---|---|---|---|---|
+|||position at|||||short||
+|Sl.|Trade|the|Short Sold|||position|position|Regulatory|
+|No.|Date|beginning of the day|during the Day|NDS-OM WI|Primary NDS auction|at the end of the day|during the day|limit|
+
+# 0.25% and 0.50% of the outstanding stock for illiquid and liquid securities respectively. The categorization of liquid/illiquid securities shall be as determined by FIMMDA.
+
+Note: Each security to be tabulated separately; Amounts in Rs. Crore
+
+Certified that there were no violations of extant regulatory guidelines on short sale in G-Sec
+
+## [Concurrent / Internal Auditor]
