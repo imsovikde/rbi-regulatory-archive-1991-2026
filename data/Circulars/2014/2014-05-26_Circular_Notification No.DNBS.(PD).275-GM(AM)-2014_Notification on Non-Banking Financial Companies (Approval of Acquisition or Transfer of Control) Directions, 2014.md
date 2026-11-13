@@ -1,0 +1,148 @@
+---
+doc_id: "Circulars_2014_Notification_No_DNBS_PD_275_GM_AM_-2014"
+title: "Notification on Non-Banking Financial Companies (Approval of Acquisition or Transfer of Control) Directions, 2014"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CM376260514F.PDF"
+pdf_sha256: "492356699f4131e606aab20098945089169f71c22f4faa50767f545d6a0c1603"
+md_sha256: "b16f0d3e473169676cd611584cbbeeee680e804b1749f03a6a4459d5822a574e"
+total_pages: 4
+native_pages: 3
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T10:10:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-05-26_Circular_Notification%20No.DNBS.%28PD%29.275-GM%28AM%29-2014_Notification%20on%20Non-Banking%20Financial%20Companies%20%28Approval%20of%20Acquisition%20or%20Transfer%20of%20Control%29%20Directions%2C%202014.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Non-Banking Financial Companies (Approval of Acquisition or Transfer of Control) Directions, 2014
+
+<!-- PAGE 1 -->
+
+HR
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2013-14/606
+
+DNBS (PD) CC.No.376/03.10.001/2013-14
+
+May 26, 2014
+
+All NBFCs (excluding Primary Dealers)
+
+Dear Sirs,
+
+Requirement for obtaining prior approval of RBl in cases of acquisition/ transfer
+
+of control of NBFCs
+
+Under Section 45 IA (4)(c) of the RBl Act, 1934, a certificate of Registration can only be
+
+given to a company if the Bank is satisfied, inter alia, that the general character of the
+
+management or the proposed management of the non-banking financial company shall
+
+not be prejudicial to the public interest or the intel
+
+of its depositors.
+
+2.
+
+In this connection attention is dra
+
+DNBS(PD)C.C.No.160/03.10.001/2009-
+
+10datedSeptember17,2009
+
+litrrdrawn
+
+rior approval of the Reserve Bank in cases of
+
+regu
+
+acquisition/ transfer of control of NBFCs accepting deposits. In supersession of those
+
+instructions, and to enable RBl to ensure that the 'fit and proper' character of the
+
+management of NBFCs, both deposit accepting and non-deposit accepting, is
+
+continuously maintained, it has been decided as under:
+
+The prior written permission of the Reserve Bank of India shall be required for -
+
+(i) any takeover or acquisition of control of an NBFC, whether by acquisition of shares
+
+or otherwise;
+
+(ii)
+
+any   merger/amalgamation  of   an  NBFC  with  another  entity   or  any
+
+merger/amalgamation of an entity with an NBFC that would give the acquirer / another
+
+entity control of the NBFC;
+
+，240005
+
+时:22182526, a :22162768 $-:dnbs @rbi.org.in
+
+Department of Non Banking Supervision, Central Office, 2" Floor, Centre I, WTC, Cuffe Parade, Mumbai 3 400
+
+Tel No:22182526, Fax No:22162768 Email :dnbs @rbi.org.in
+
+<!-- PAGE 2 -->
+
+(iii) any merger/amalgamation of an NBFC with another entity or any merger/amalgamation of an entity with an NBFC which would result in acquisition/transfer of shareholding in excess of 10 percent of the paid up capital of the NBFC. (iv) Prior written approval of the Reserve Bank would also be required before approaching the Court or Tribunal under Section 391-394 of the Companies Act, 1956 or Section 230-233 of Companies Act, 2013 seeking order for mergers or amalgamations with other companies or NBFCs.
+
+3. Applications in this regard may be submitted to the Regional Office of the Department of Non-Banking Supervision in whose jurisdiction the Registered Office of the Company is located.
+4. Notification No.DNBS(PD) 275/GM(AM)/2013-14 dated May 26, 2014, issued in this regard by the Reserve Bank in exercise of powers under Sections 45K and 45L of the RBI Act, 1934 is enclosed for meticulous compliance.
+5. Any transfer of shares in violation of the notification would result in adverse
+# Withdrawn
+
+regulatory action including cancellation of Certificate of Registration (CoR).
+
+Yours faithfully,
+
+(A.Mangalagiri) General Manager
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE,
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI 400 005.
+
+## Notification No. DNBS.(PD) 275/ GM(AM)-2014 dated May 26, 2014
+
+The Reserve Bank of India, having considered it necessary in the public interest, and being satisfied that for the purpose of enabling it to regulate the credit system to the advantage of the country, it is necessary to give the directions as set out below, in exercise of the powers conferred by sections 45K and 45L of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, gives to every non-banking financial company the directions hereinafter specified.
+
+## <u>Short title and commencement of the Directions</u>
+
+1. (1) These Directions shall be known as the ‘Non-Banking Financial Companies (Approval of Acquisition or Transfer of Control) Directions, 20 Withdrawn 14’.
+(2) These Directions shall be applicable to every non banking financial company whether accepting deposits or not, except Primary Dealers.
+(3) These Directions shall come into force with immediate effect.
+## <u>Definitions</u>
+
+2. For the purpose of these Directions, unless the context otherwise requires,-
+(a) "control" shall have the same meaning as is assigned to it under clause (e) of sub-regulation (1) of regulation 2 of Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.
+(b) "NBFC" means a non-banking financial company as defined in clause (f) of section 45-I of the Reserve Bank of India Act, 1934.
+
+<!-- PAGE 4 -->
+
+3. <u>Requirement to obtain prior approval of Reserve Bank of India for</u> <u>acquisition or transfer of control of NBFCs</u>**. -** The prior written permission of the Reserve Bank of India shall be required for –
+(i) any takeover or acquisition of control of an NBFC, whether by acquisition of shares or otherwise; (ii) any merger/amalgamation of an NBFC with another entity or any merger/amalgamation of an entity with an NBFC that would give the acquirer / another entity control of the NBFC; (iii) any merger/amalgamation of an NBFC with another entity or any merger/amalgamation of an entity with an NBFC which would result in acquisition/transfer of shareholding in excess of 10 percent of the paid up capital of the NBFC. (iv) Prior written approval of the Reserve Bank would also be required before approaching the Court or Tribunal under Section 391-394 of the Companies Act, 1956 or Section 230-233 of Companies Act, 2013 seeking order for mergers or amalgamations with other companies or NBFCs.
+# <u>Withdrawn</u>
+
+4. <u>Application of other laws not barred. -</u>The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+5. <u>Repeal and saving</u>.-(i) The Non-Banking Financial Companies (Deposit Accepting) (Approval of Acquisition or Transfer of Control) Directions, 2009 issued vide Notification No. DNBS.(PD) 208/ CGM(ANR)-2009 dated September 17, 2009 shall stand repealed. (ii) Notwithstanding such repeal, any action taken, purported to have been taken or initiated under the directions hereby repealed shall continue to be governed by the provisions of the said directions.
+(A.Mangalagiri) General Manager
