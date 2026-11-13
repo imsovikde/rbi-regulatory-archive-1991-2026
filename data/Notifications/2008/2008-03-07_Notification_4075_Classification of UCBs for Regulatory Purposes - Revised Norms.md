@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2008_4075"
+title: "Classification of UCBs for Regulatory Purposes - Revised Norms"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/83408.pdf"
+pdf_sha256: "8928cc87e8d8e8e8e36bf66e775bc960a1c7640b38627aee648ffc892e884571"
+md_sha256: "ed2cd2558fa66aa970cc060f3500bc579b25917e3d38cedfb3a5f0c53a1500f1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-03-07_Notification_4075_Classification%20of%20UCBs%20for%20Regulatory%20Purposes%20-%20Revised%20Norms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Classification of UCBs for Regulatory Purposes - Revised Norms
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/259
+
+UBD (PCB).Cir.No.35 /09.20.001/07-08
+
+March 7, 2008 The Chief Executives of all Primary( Urban) Cooperative Banks
+
+Dear Sir/Madam,
+
+## <u>Classification of UCBs for Regulatory Purposes-Revised Norms</u>
+
+As you are aware, banks are being categorized for regulatory purposes as under:
+
+(a) **Tier I Banks:** Unit banks i.e. banks having a single branch / HO with deposits up to Rs. 100 crore and banks having multiple branches within a single district with deposits up to Rs. 100 crore
+(b) **Tier II Banks**: All other banks.
+2. Based on the representations received from the UCB sector, it has been decided to amend the definition of Tier I banks and accordingly banks may be classified in Tier I category for regulatory purposes as under:
+(a) **Tier I banks** :
+i) Unit banks i.e. banks having a single branch / Head Office and banks with deposits below Rs.100 crore, whose branches are located in a single district. ii) Banks with deposits below Rs.100 crore having branches in more than one district, provided the branches are in contiguous districts and deposits <u>and</u> advances of branches in one district *separately* constitute at least 95% of the total deposits and advances respectively of the bank. iii) Banks with deposits below Rs.100 crore, whose branches were originally in a single district but subsequently, became multi-district due to reorganization of the district.
+(b) **Tier II Banks**: All other banks. As hitherto, the deposit base of Rs. 100 crore will be determined on the basis of average of the fortnightly Net Demand and Time Liabilities in the financial year concerned. Similarly, advances will be determined on the basis of fortnightly average in the financial year concerned.
+3. The revised instructions shall be applicable with immediate effect.
+Yours faithfully,
+
+(A.K Khound) Chief General Manager

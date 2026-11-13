@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2008_4114"
+title: "Mandatory electronic payment of tax by certain  Categories of taxpayers w.e.f. 1.4.2008"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84019.PDF"
+pdf_sha256: "784df1a8d2d83f8d7542742c1290ffbf2967e625469cc863451bb42cc1beccb7"
+md_sha256: "f20d65b8946d8f8bceca6c68eb2d9956e0716db96ab5b1fbe5f99bf5bee4ca7a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-04-10_Notification_4114_Mandatory%20electronic%20payment%20of%20tax%20by%20certain%20Categories%20of%20taxpayers%20w.e.f.%201.4.2008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Mandatory electronic payment of tax by certain  Categories of taxpayers w.e.f. 1.4.2008
+
+<!-- PAGE 1 -->
+
+## RBI/2007-08/280
+
+DGBA.GAD. No. H. 10875 / 42.01.038 /2007-08 April 10, 2008
+
+The Chairman & Managing Director/Managing Director State Bank of India and its Associates/ All Nationalised banks/ Axis Bank Ltd/ HDFC Bank Ltd/ ICICI Bank Ltd/ IDBI Ltd/ J&K Bank Ltd.
+
+Dear Sir,
+
+## Mandatory electronic payment of tax by certain Categories of taxpayers w.e.f. 1.4.2008
+
+As you are aware, the Central Board of Direct Taxes vide their Notification No. 34/2008 dated 13-3-2008 (copy enclosed) have made electronic payment of taxes mandatory for the following categories of tax payers w.e.f. 01.04.2008 :
+
+a. A company
+b. A person (other than a company), to whom provisions of Section 44AB are applicable.
+2. In this regard the following instructions may be kept in mind while implementing the Government Notification:
+th
+
+i) the status of all corporate taxpayers can be identified from the name itself. Further, the 4 digit of the PAN of all corporate assessee would necessary be **“C”**. **Physical challans from such** **assessees shall not be accepted across the counter.** ii) In case of tax payers covered under Section 44AB, there should be no insistence of any proof of eligibility to pay tax through physical challans at the bank counters. The responsibility of making e- payment rests primarily with the taxpayer. Hence, the word of taxpayers should be taken as final. iii) the acknowledgement for e-payment should be made available immediately on screen by the bank concerned. iv) the transaction id of e-payment should be reflected in the bank’s statement.
+v) each bank should prominently display on its e-payment gateway page, the official /s to be contacted in case the taxpayer faces any difficulty in making the payment, completing the e- transaction, generating the counterfoil etc. vi) each bank should give the ITD and NSDL a list of officials with contact particulars, to be contacted if required for any problems faced by ITD or taxpayers.
+4. Necessary instructions may be issued to your branches concerned.
+Yours faithfully,
+
+(M.T.Varghese) General Manager

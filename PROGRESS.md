@@ -226,3 +226,4 @@ real-time percentage in its commit message. See README.md for the live dashboard
 - 2026-11-13T12:19:15Z batch #219: chore(convert): [18.6149%] 16425/88236 PDFs -> MD | Notifications/2007 Batch #219 | 75 anydoc + 0 OCR verified
 - 2026-11-13T12:19:33Z batch #220: chore(convert): [18.6999%] 16500/88236 PDFs -> MD | Notifications/2007 Batch #220 | 75 anydoc + 0 OCR verified
 - 2026-11-13T12:45:29Z batch #221: chore(convert): [18.7848%] 16575/88236 PDFs -> MD | Notifications/2007 Batch #221 | 75 anydoc + 0 OCR verified
+- 2026-11-13T12:45:49Z batch #222: chore(convert): [18.8698%] 16650/88236 PDFs -> MD | Notifications/2008 Batch #222 | 74 anydoc + 1 OCR verified

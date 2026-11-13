@@ -1,0 +1,272 @@
+---
+doc_id: "Notifications_2008_4120"
+title: "Self Employment Scheme for Rehabilitation of Manual Scavengers"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84043.pdf"
+pdf_sha256: "bc644b2aa816a1ed1152f7adb3c52e1fdac722a56570a1284732d6e104c70c53"
+md_sha256: "8a980629c27b42bc457daf1971b7276d801485500163934d0c4aac95798a3085"
+total_pages: 15
+native_pages: 15
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-04-15_Notification_4120_Self%20Employment%20Scheme%20for%20Rehabilitation%20of%20Manual%20Scavengers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Self Employment Scheme for Rehabilitation of Manual Scavengers
+
+<!-- PAGE 1 -->
+
+RBI/ 2008-2009/ 283 RPCD.SP. BC. No 57/09.03.01/2007-08 April 15, 2008
+
+The Chairman/ Managing Director All Indian Public Sector banks (Excluding RRBs)
+
+Dear Sir,
+
+<u>New “ Self Employment Scheme for Rehabilitation of Manual Scavengers” (SRMS) from the Ministry of</u> <u>Social Justice & Empowerment for rehabilitation of all the remaining scavengers and their dependents</u> <u>by March 2009</u>
+
+As you are aware, the National Scheme for Liberation and Rehabilitation of Scavengers (NSLRS) is being implemented by all Public Sector banks since 1993 with an objective to liberate all scavengers and their dependents from their existing hereditary and obnoxious occupation of manually removing night soil and filth and to provide for and engage them in alternative and dignified occupations within a period of five years. Government of India has stopped funding the existing NSLRS since 2005-06, and has recently approved a new and improved scheme named “Self Employment Scheme for Rehabilitation of Manual Scavengers” (SRMS) aimed at rehabilitating the remaining scavengers and their dependents by March 2009. The approved scheme contains provisions for capital subsidy, concessional loans and capacity building for rehabilitation of manual scavengers in alternative occupations. Further, Government of India desires that the scheme should be administered as a national priority with a resolute sense of purpose for surmounting any obstacles in its implementation.
+
+2. Particulars of the Scheme as well as the broad guidelines to be followed by the banks in implementing this Scheme are given in the Annexure I to this circular. The reporting proforma of the new scheme is given at Annexure II.
+3. The successful implementation of the Scheme would depend upon effective participation and monitoring of the scheme by public sector banks at all controlling levels. Banks should therefore pay particular attention to this aspect since the scheme is to be implemented in fixed time period by identifying scavengers and their dependents and their aptitude for alternative trade by March 2009.
+4. Please issue suitable guidelines to your branch offices /controlling offices to implement the captioned scheme immediately and advise us the action taken by your bank in the matter urgently.
+5. Please acknowledge receipt.
+Yours faithfully,
+
+(G. Srinivasan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+## <u>Annex1</u>
+
+## <u>SELF EMPLOYMENT SCHEME FOR REHABILITATION OF MANUAL SCAVENGERS</u> ( SRMS)
+
+## <u>1. Introduction</u>
+
+1.The Ministry of Social Justice and Empowerment ( MSJ& E) had been considering the proposal to introduce a new Self Employment Scheme for Rehabilitation of Manual Scavengers ( SRMS) for rehabilitation of all the remaining scavengers and their dependents by March 2009. As per survey reports received from States, there are 7,70,338 scavengers and their dependents in India. Taking into account manual scavengers numbering 4,27,870 already assisted under NSLRS and ineligible for assistance the number of Manual Scavengers yet to be rehabilitated is 3,42,468 as per State wise details given in **Appendix-I.** The Statement of Fund Requirement for Rehabilitation of the remaining nos. (342468) of Manual Scavengers has been provided in <u>Appendix-II.</u> Accordingly, while approving the new scheme, the Cabinet in its meeting held on 28.12.2006, had inter alia directed that the scheme be administered as a national priority with a resolute sense of purpose for surmounting any obstacles in implementation.
+1.1 <u>Objective of the Scheme</u>
+a) Objective of the scheme is to assist the remaining scavengers for rehabilitation, which are yet to be assisted, in a time bound manner by March 2009.
+## <u>Eligibility:</u>
+
+Scavengers and their dependents, irrespective of their income, who are yet to be provided assistance for rehabilitation, under any scheme of Government of India/State Governments will be eligible for assistance.
+
+## <u>Definition of scavenger</u>
+
+A “Scavenger” means one who is partially or wholly engaged in the obnoxious and inhuman occupation of manually removing night soil and filth. The dependent of Scavengers is one who is a member of their family or is dependent on them irrespective of the fact whether they are partially or wholly engaged in the said occupation. Each individual scavenger and his/her children who are of 18 years of age and above, who are not employed (other than scavengers) will be identified and rehabilitated”.
+
+<!-- PAGE 3 -->
+
+**2**. <u>Salient features</u>
+2.1 The Self Employment Scheme for rehabilitation of Manual Scavengers is applicable to Public Sector Banks.
+2.2. The scheme is being implemented through the apex corporations of the Ministry of Social Justice and Empowerment as per the list enclosed at **Appendix III.** The eligible beneficiaries will be sponsored by the State Channelising Agencies for availing loans from banks. Self Help Groups ( SHGs) may be involved in implementation of the new scheme, within the overall parameters of the scheme. Since it is a time bound scheme, norms applicable to SHGs under other schemes will not apply.
+2.3 The identified scavengers will be provided training, loan, and subsidy. Banks will provide loans to candidates sponsored by State Channelising agencies only. After sanction of the loan, Bank will claim amount of capital subsidy from the State Channelising Agencies who in turn will provide admissible capital subsidy, which will be disbursed to the beneficiary alongwith the loan amount. After disbursement of loan to the beneficiaries, the concerned branch of the bank will claim interest subsidy from the State Channelising Agency on a quarterly basis.
+2.4 Credit will be provided by the banks, which will charge interest from the beneficiaries at the rates prescribed under the scheme. National Safai Karmacharis Finance and Development Corporation (NSKFDC) or any other identified agency at the apex level, will provide interest subsidy to the banks through its State Chanelising Agencies (SCAs) or any other identified agency at the State level, for the difference between the interest chargeable by bank and the interest to be charged from the beneficiaries under the scheme. However, the procedures indicated for claiming interest and capital subsidy are suggestive in nature. The concerned State Governments and SLBC have the option of evolving any alternative procedure in the interest of smoother implementation of the scheme with mutual consent.
+## <u>3. Funding</u>
+
+3.1 The scheme provides for projects costing upto Rs. 5.00 lakh. The loan amount will be the remaining portion of the project cost, after deducting the admissible capital subsidy. No margin money/ promoter’s contribution is required to be provided under the scheme.
+3.2 Both, term loan (upto a maximum cost of Rs. 5 lakhs) and micro financing (upto a maximum of Rs. 25,000) will be admissible under the scheme. Micro financing will also be done through self help groups (SHGs) and reputed Non Governmental Organisations(NGOs)
+3.3 The rate of interest chargeable from the beneficiaries will be as follows:-
+4% per annum ( for women beneficiaries)
+
+(a) For projects upto Rs. 25,000/-
+5% per annum
+
+(b) For projects above Rs. 25,000/ 6% per annum
+
+<!-- PAGE 4 -->
+
+3.4 Where the rate of interest chargeable by the banks on loans will be higher than the rates prescribed in the scheme, interest subsidy to the extent of the difference will be given to the banks and this will be administered by NSKFDC**/** other agencies identified by the Ministry.
+3.5 In every state annual targets of each bank will be fixed by State Level Bankers Committees (SLBC’s) as per statewise scheme targets.
+4. <u>Repayment</u>
+
+||The period of repayment loan will be three years for projects upto Rs. 25,000 and 5 years for projects above Rs. 25,000. The moratorium period to start the repayment of loan will be six months. The State Channelising Agencies (SCAs) would distribute the funds within a period of three months to the beneficiaries.|
+|---|---|
+||5.1 Credit linked capital subsidy will be provided upfront to the beneficiaries in a scaled manner:|
+|(a) For projects costing upto Rs. 25,000|@ 50% of the project cost.|
+|(b) For projects costing more than Rs. 25,000/-,|@ 25% of the project cost, with a minimum of Rs. 12,500 and maximum of Rs. 20,000/-|
+|subsidy and interest subsidy and other grants under the scheme.|5.2 Beneficiaries will be allowed to avail second and subsequent loan from banks if required, without capital|
+
+5. <u>Subsidy</u>
+6. <u>Implementing Agencies</u>
+6.1 National Safai Karmacharis Finance and Development Corporation (NSKFDC) or any other agency identified under the scheme, will undertake all activities under the scheme and will co-ordinate with the concerned agencies to ensure optimum benefits to the beneficiaries. NSKFDC or other identified agency will have freedom to meet admissible expenditure under the scheme out of their own funds, which will be reimbursable to them. NSKFDC or any other identified agency, will have option to provide loan to the target group at the rates prescribed in the scheme, out of their own funds and recover them. Such amounts, however, will not be reimbursable from Government. In such cases, they will be entitled to claim assistance for training, interest subsidy(if required), capital subsidy etc, as provided under the scheme.
+
+<!-- PAGE 5 -->
+
+6.2 The scheme is proposed to be implemented at the national level through the NSKFDC or other identified agencies for this purpose. At the State level, the implementing agencies will be the state channelising agencies identified for the purpose, which may include government agencies and reputed non-governmental organisations. It is also provided to encourage involvement of reputed micro finance institutions and NGOs for micro financing schemes through the SHGs. For training of the beneficiaries, it is envisaged to involve reputed specialised training institutions, in addition to government institutions.
+6.3 The existing institutions under the Ministry such as the NSKFDC and its SCAs have the requisite experience to implement the proposed scheme. However, their limited infrastructure capacity would need to be enhanced. They would be expected to implement the scheme, in addition to their existing activities and would, therefore, need to be supported for building their capacity to cope up with the increased work and will need to devise innovative mechanisms to achieve the task assigned. Similarly, there would be a need to support other identified agencies involved at various levels. A facility fund of Rs. 5.00 crore is earmarked to provide financial support to the implementing agencies at various levels.
+6.4 The progress of implementation will be monitored by NSKFDC and other apex level agencies, identified for the purpose. The National Commission for Safai Karamcharis may, in accordance with its terms of reference, review the implementation of programmes and schemes, social and economic rehabilitation of the manual scavengers. The scheme will be concurrently evaluated by an independent agency for which 1% of the total cost of the scheme (i.e. 7.35 crore) is earmarked under Monitoring and Concurrent Evaluation.
+## 7. Role of banks
+
+7.1 The approach towards the scheme should be employment / income oriented instead of target oriented. The successful implementation of the scheme depends on effective participation and monitoring by banks at all levels. Banks should therefore pay particular attention to this aspect and ensure that sufficient number of branches effectively participate in the implementation of the scheme in close association with the State Local Scheduled Caste Development & Finance Corporations. Banks should allocate targets for financing of beneficiaries by proportionately distributing the total target under the scheme for the districts under annual Credit Plan (ACP), among all bank branches covered for District Credit Plan (DCP) as per the availability of eligible beneficiaries within the area of operation of the branches. Bank may issue suitable instructions to their branches / controlling offices for implementation of the scheme.
+7.2 The banks should ensure that their branches extend all co-operation to the applicant beneficiaries and not ask for documents, guarantees etc. not envisaged in the scheme.
+7.3 The banks should not insist for deposit amount in the fixed deposit from the beneficiary.
+7.4 The banks should adopt simple and transparent procedure to eliminate middlemen operating between the beneficiaries and the banks and expedite disposal of applications timely.
+
+<!-- PAGE 6 -->
+
+7.5 All loan applications up to a credit limit of Rs. 25,000/- should be disposed of within a fortnight and those for over Rs. 25,000/- within 8 to 9 weeks.
+7.6 Proper record of receipt and disposal of applications as required should be maintained.
+7.7 Branch Managers may reject applications ( except in respect of SC / ST ) provided the cases of rejections are verified subsequently by the Divisional / Regional Manager. Applications should not be rejected on flimsy grounds. In case of rejection of application reasons for rejection of application should invariably be recorded.
+7.8 All loan applications pending beyond prescribed time limit should be disposed of on priority basis.
+7.9 The performance of banks under the scheme may be periodically reviewed at different for a under the Lead Bank Scheme, at SLBC meetings etc.
+7.10 To encourage lending to the beneficiaries efforts should be made to educate and reorient the attitude of the banks’ staff for an attitudinal shift.
+7.11 To meet the target banks should improve their pre-sanction scrutiny and tighten post disbursement follow up.
+7.12 In the course of implementation of the scheme, there would be a need to take timely decisions on several important aspects. To facilitate implementation and timely decisions on critical issues, a special mechanism is envisaged. A committee under the chairmanship of Secretary, Ministry of Social Justice and Empowerment shall be constituted with the following composition:-
+- Additional Secretary, Ministry of Social Justice and Empowerment – Member
+- Joint Secretary and Financial Advisor, Ministry of Social Justice and Empowerment - Member
+- Advisor concerned in the Planning Commission – Member
+- Joint Secretary(Scheduled Caste Development) – Convenor. The committee can call special invitees, if felt necessary, to attend its meeting. The recommendations of the committee would be within the broad parameters of the scheme and would be implemented with the approval of Minister, Social Justice and Empowerment.
+8. <u>Types of projects</u>
+8.1 The beneficiaries are free to select any viable income generating self employment project. Given below is the indicative list of projects, which are usually selected by the beneficiaries which are sustainable and have a good potential of regular income.:-
+
+<!-- PAGE 7 -->
+
+|Sl. No.|Projects|Indicative cost of the Project|
+|---|---|---|
+|1|Fruit & Vegetables Vendor & Meat Shop, Paan Shop, Watch Repairing Shop and Wet Grinder etc.|Upto Rs.25,000 each|
+|2|Barber Shop, Tailoring Shop, Flour Mill, Bicycle Hiring and Repairing and STD/PCO Booth etc.|Rs.25,001 to Rs.50,000 each|
+|3|Autorickshaw (Petrol), Automobile Repair Shop, PCO/Photocopier Booth, General Provision Store, Beauty Parlour and Music Store etc.|Rs.50,001 to Rs.1,00,000 each|
+|4.|Transport, Denting & Painting of Vehicles and Domestic Gadgets, Laundry & Dry Cleaning Shop, Sanitary & Hardware Shop, Servicing & Repair of Domestic Electrical Appliances, Tent House, Band Party, Readymade Garments Shop, Agriculture and allied activities including Non-land based schemes like Tractor, Trolley, Poultry Farming|Rs.1,00,001 to Rs.5,00,000 each|
+
+9. <u>Training</u>
+9.1 Since the scavengers will be rehabilitated in non-traditional professions, they will require training to acquire new skills and entrepreneurship capabilities. This can be given by government agencies/institutes as well as by reputed specialised training agencies. Synergies with selected industries/business establishment would be encouraged for facilitating gainful employment of the trainees. The average training cost has been taken as Rs. 14,000 per beneficiary, which includes provision for training fee, kits and stipend to trainees.
+9.2 A comprehensive programme of publicity with a view to awareness generation at all levels will be undertaken so as to ensure that optimum benefit reaches to the beneficiaries in the shortest possible time.
+
+<!-- PAGE 8 -->
+
+10. <u>Monitoring and Evaluation</u> In order to bridge the gap between liberation and rehabilitation of manual scavengers, the scheme will be linked with the programme of conversion of dry latrines in co-ordination with the Ministry of Housing and Urban Poverty Alleviation (MoH&UPA) and municipal bodies at State/local levels. As various Ministries of Government of India and State Governments are implementing different developmental programmes, efforts will be made to converge the benefits with other existing programmes so as to give a meaningful package to the target group. The existing mechanism of Central Monitoring Committee (CMC) to monitor the implementation of the National Action Plan for Total Eradication of Manual Scavenging by 2007, under the chairpersonship of Secretary(MSJ&E) with inter- ministrial representation will be utilised for this purpose.
+10.1 The implementing agencies at the national, State, district and town levels monitor and evaluate the implementation of the scheme and take corrective action so that the programme is implemented according to targets fixed.
+10.2 The implementing branch shall submit a monthly statement as per Annexure II to the Lead Bank Officer (in the case of branches of the lead bank) or to the District Co-ordinator (in the case of branches of other banks) as also to their respective controlling offices. The concerned Lead Bank Officer/District Co-ordinator should consolidate the data in the same format in respect of all the branches of his bank in the district so that the performance data of each bank in each district under the scheme is available. The District Co-ordinators should also send the consolidated data in respect of their branches in the district to the Lead Bank Officer so that bank- wise data can be placed before the District Consultative Committee, for review at its Meetings.
+10.3 The controlling offices of banks should consolidate the data in respect of all the branches under their jurisdiction and furnish the same to the Regional/Zonal Offices at the State-level. The Regional/Zonal Offices of the banks at the State-level should review the progress in implementation of the scheme by their branches for the State as a whole. The State/Union Territory level data should be made available by the Regional/Zonal offices of each bank to the convenor of the State Level Bankers' Committee for review at the SLBC meetings. One copy of this statement will also be furnished to the concerned Regional Office of RPCD of Reserve Bank of India.
+10.4 The Regional/Zonal Offices of banks should make available the State/Union Territory-wise data to the Head Offices of the banks for review. Head Offices of the banks should review the performance of the banks under the scheme on the basis of such statements. The Head Offices of banks shall send to Rural Planning and Credit Department, Reserve Bank of India, Central Office, Mumbai their performance data giving State/Union Territory- wise details by the end of the next month to which the data is related.
+10.5 The format given in Annexure II will be used for reporting of data by the Controlling/ Regional/Zonal/Head Offices of banks as well as the SLBC convenors.
+10.6. Any further clarification/ instruction regarding the smooth implementation of the scheme as received from the Ministry of Social Justice and Empowerment will be issued subsequently.
+
+<!-- PAGE 9 -->
+
+# <u>Appendix-I to Scheme</u>
+
+## <u>Statement showing State-wise population of Scavengers, Scavengers rehabilitated by M/o SJ&E,</u>
+
+## <u>NSKFDC etc. and no. of Scavengers to be rehabilitated</u>
+
+**Total scavengers** **Population of Addition rehabilitated and Remaining scavengers** <u>Sl. Name of the State</u> **Scavengers (Resurvey)** <u>Total</u> **ineligible** **to be rehabilitated** **1 2 3 4 5 6 7**
+
+|30921||14901 45822||45822||0|
+|---|---|---|---|---|---|---|
+|40413||40413||1594||38819|
+|12226||12226||285||11941|
+|17420||17420||2941||14479|
+|64195||64195||11653||52542|
+|36362||36362||15558||20804|
+|4757||4757||2023||2734|
+|4150||4150||211||3939|
+|14555||14555||12597||1958|
+|1339||1339||141||1198|
+|80072||1235 81307||77512||3795|
+|64785||64785||19086||45699|
+|607||607||0||607|
+|1800||1800||0||1800|
+|35049||35049||10681||24368|
+|476||476||129||347|
+|531|2457|2988||2988||0|
+|57736||57736||14169||43567|
+|35561||35561||23687||11874|
+|149202||64773 213975|180719|||33256|
+|23852||23852||2338||21514|
+||3243|3243||3243||0|
+||5750|5750||0||5750|
+||1970|1970||493||1477|
+|676009|94329|770338|427870||342468||
+
+1 Andhra Pradesh 2 Assam 3 Bihar 4 Delhi 5 Gujarat 6 Haryana 7 <u>Himachal Pradesh</u> 8 <u>Jammu & Kashmir</u> 9 Karnataka 10 Kerala 11 <u>Madhya Pradesh</u> 12 Maharashtra 13 Meghalaya 14 Nagaland 15 Orissa 16 Pondicherry 17 Punjab 18 Rajasthan 19 Tamil Nadu 20 Uttar Pradesh 21 West Bengal 22 Chhattisgarh 23 Jharkhand 24 Uttranchal **Total**
+
+<!-- PAGE 10 -->
+
+# Appendix II to Scheme
+
+## Statement of Fund Requirement for Rehabilitation of the remaining nos. (342468) of Manual Scavengers
+
+## Assumptions: - No. of Manual scavengers
+
+(On the basis of experience of NSKFDC)
+
+1. No. of Scavengers (25%) likely to opt for Micro Credit Finance (MCF) i.e. upto Rs.25,000/- = 85617
+2. No. of Scavengers (40%) likely to opt for Term Loan
+i.e. from Rs.25,001/- to Rs.50,000/- =136987
+3. No. of Scavengers (35%) likely to opt for Term Loan
+i.e. from Rs.50,001/- to Rs.5,00,000/- =119864
+
+|average basis, on average basis.|Cost of Projects under the scheme:- (a) The cost of project has been taken Rs.25,000/- under MCF,|The details of loan and capital subsidy is given as under: (Amt. Rs. in crores)|Total (b) For the project costing from Rs.25,001/- to Rs.50,000/-, the average cost of Rs.37,500/- has been taken. on (c) For the project costing from Rs.50,001/- to Rs.5,00,000/-, the average cost of Rs.62,500/- has been taken||=342468|
+|---|---|---|---|---|---|
+|Sl.|Project Cost|Upto|From Rs.25001|From Rs.50001|Total|
+|No.|Ratio of projects|Rs.25000 25%|to Rs.50000 40%|to Rs.500000 35%||
+|1|No. of Scavengers|85617|136987|119864|342468|
+|2|Loan Amount (to be arranged from banks)|107.02|342.46|561.86|1011.34|
+|3|Subsidy|107.02|171.23|187.30|465.55|
+|4.|Total (2) + (3)|214.04|513.69|749.16|1476.89|
+
+4.
+5.
+
+<!-- PAGE 11 -->
+
+## 6. Total requirements
+
+|Particulars|Amount|
+|---|---|
+|Capital Subsidy Training Average cost per person (i) Course fee Rs.6,000 (ii) Tool Kit etc. Rs. 2,000 (iii) Stipend Rs. 6,000 Total Rs.14,000|465.55|
+|Average Rs.14,000 No. of Beneficiaries (40% out of 3,42,468 as per NSLRS experience 1,26,987 X Rs. 14,000 =Rs.191.78 crore|191.78|
+|Monitoring and Evaluation (1% of total cost)|7.35|
+|Facility Fund|5.00|
+|Publicity and Awareness Camps|Rs. 2.52|
+|Facility Fund|5.00|
+|Interest subsidy|63.40|
+|Total|735.60|
+
+Note: The above estimates have been worked out on average basis and may vary due to variations in
+
+individual projects on account of course fee, duration of the training course, loan availed etc.
+
+<!-- PAGE 12 -->
+
+||Details of the implementing agencies under the Self Employment Scheme for||Appendix -III|
+|---|---|---|---|
+||Rehabilitation of Manual Scavengers|||
+||Name and address of Apex||Name of State Scheduled Castes|
+||Corporation||Development Corporation (SCDC)|
+|S.No.||S.No.|Address|
+|1.|Chairman cum Managing Director, National Scheduled Castes Finance and Development Corporation, 14th Floor, SCOPE Minar, Core-1 & 2, North Tower, Laxmi Nagar District Centre, Laxmi Nagar, Delhi-110092|1. 2. 3. 4. 5. 6. 7.|Managing Director, Assam State Development Corporation for Scheduled Castes Ltd., Sahid Dilip Hozori Path, Sarumotoria, Dispur,Guwahati-7810006 Managing Director, Bihar State Scheduled Castes Co-operative Development Corporation Ltd., Malya Nil Bhavan, Budha Colony, Patna – 800 001. Managing Director Chhattisgarh State Co-op. Scheduled Castes Finance & Development Corporation Ltd., 68, Jal Vihar Colony Raipur (Chhattisgarh) Managing Director Haryana SCs Finance & Dev. Corporation Ltd, SCO No. 2427-28, Sector-22 Chandigarh - 160022 Managing Director, Himachal Pradesh Scheduled Castes and Scheduled Tribes Development Corporation Jain Bhawan, Hospital Road, Solan – 173212 Managing Director Kerala State Development Corporation fcor SCs & STs Ltd.,Town Hall Road, Trichur – 680020 Executive Director Punjab Scheduled Castes Land Development Corporation Ltd., SCO No. 101-103, Sector 17- C,Chandigarh – 160 017|
+
+<!-- PAGE 13 -->
+
+|||8.|Managing Director West Bengal Scheduled Castes & Scheduled Tribes Development & Finance Corporation, 2nd Floor, 135A, Biplabi Rashbehari Basu Road Calcutta 700 001|
+|---|---|---|---|
+|2.|Managing Director National Safai Karamcharis Finance & Development Corporation, st B-2 1 Floor, Greater Kailash Enclave-II New Delhi.|S.No. 1. 2. 3. 4. 5.|Address Managing Director A.P.Scheduled Castes Co- operative Finance Corporation Ltd., 5th Floor, Telugu Samkshema Bhawan, Masab Tank, Hyderabad- 500028 Managing Director Gujarat Safai Kamdar Vikas Nigam Block No.3, GF Dr.Jivraj Mehta Bhavan Gandhinagar – 382010 Managing Director Karnataka Scheduled Castes & Scheduled Tribes Development Corporation Ltd., 9th & 10th Floor, Vishveswaaraiah Mini Tower, Dr.Ambedkar Veedhi, Bangalore 560001 Managing Director M.P.State Co-operative Scheduled Castes Finance & Development Corporaltion, Rajiv Gandhi Bhavan, 35, Shyamala Hills, Bhopal - 462002 Managing Director Mahatma Phule Backward Classes Dev elopement Corporation Ltd. Supreme Shopping Centre, Gulmohar Cross Road No.9 J.V.P.D.Scheme, Juhu, Mumbai - 400049|
+
+<!-- PAGE 14 -->
+
+|||6.|Managing Director Orissa Scheduled Castes & Scheduled Tribes Development Finance Corporation Ltd., Lewis Road, Bhubaneshwar- 751014.|
+|---|---|---|---|
+|||7. 8. 9. 10. 11. 12.|Managing Director Pudducheri Adi Dravidar Development Corporation Ltd., No. 23, V.Cross, Sithankudi Pondicherry- 605013 Managing Director Rajasthan Scheduled Castes & Scheduled Tribes Development Corporation Ltd., Nehru Sahkar Bhavan Central Block, IIIrd Floor, Bhawani Singh Road, Jaipur - 302002 Managing Director Tamil Nadu Adi Dravidar Housing & Development Corporation Ltd., Tamil Nadu Housing Board Shopping Complex 2nd Floor, Thirumangalam (Anna Nagar) Chennai- 600 010. Jharkhand State SC Cooperative Developement Corporation, Balihar Road, Mortabadi Ranchi - 834008 The Managing Director Meghalaya Urban Development Agency Raitong Building Shilong 793001 Secretary Social Welfare Department Govt. of NAGALAND Kohima|
+|3.|Managing Director|S.No.|Address|
+||National Backward Classes Finance and Development Corporation, NCUI Building, August Kranti Marg Houz Khas, New Delhi|1.|Managing Directgor J & K Scheduled Castes & Backward Class Development Corporation, Romesh Market, Shastri Nagar Jammu- 180004|
+
+<!-- PAGE 15 -->
+
+2. Managing Director
+U.P.Scheduled Castes Finance & Development Corporaltion Ltd., B-912, Sector-C, Mahanagar Lucknow – 226006
+3. Managing Director Bahu Udasay Vita avam Vikas Nigam Sector – 1-C-10, Defence Colony Dehradun (Uttaranchal)
+
+|Chairman cum Managing|S.No.|Address|
+|---|---|---|
+|Director, National Handicap|1.|Managing Director,|
+|Finance and Development||Delhi Scheduled Castes|
+|Corporation, Red Cross||Financial and Development|
+|Bhawan, Opp. Mini Sectt.,||Corporation, Ambedkar|
+|Sector 12, Faridabad 127007||Bhavan, Institutional Areas,|
+
+4.
+## Sector 16, Rohini, Delhi

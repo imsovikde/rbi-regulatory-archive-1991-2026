@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2008_4134"
+title: "Regulation of SCs/RCs-disclosure while issuing Security Receipts"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84121.pdf"
+pdf_sha256: "4f53b84ffaad5ee1dff65533468cfdc4d90c434610aa0ba43ced616b704a4538"
+md_sha256: "77b98d64d41d529679c1cbf913dd40a7601e1107cb60558f740d5458cfe92615"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-04-22_Notification_4134_Regulation%20of%20SCs-RCs-disclosure%20while%20issuing%20Security%20Receipts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulation of SCs/RCs-disclosure while issuing Security Receipts
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/ 291 DNBS (PD) CC. No. 9/SCRC /10.30.000/ 2007-2008
+
+## April 22, 2008
+
+## All registered Securitisation Companies/Reconstruction Companies
+
+## <u>Regulation of SCs/RCs-disclosure while issuing Security Receipts(SRs)</u>
+
+Please refer to paragraph 8 of the Securitisation Companies/ Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003 vide Notification No. DNBS. 2/CGM(CSM)-2003 dated April 23,2003(the Directions) and paragraph 7 of circular DNBS (PD) CC. No. 6/SCRC/10.30.049/2006-07 dated May 28, 2007 (the circular) containing Guidelines on declaration of Net Asset Value of Security Receipts issued by Securitisation Companies/Reconstruction Companies vide which Securitisation Companies/Reconstruction Companies are required to make certain disclosures in the offer documents of Security Receipts as per the annexure to notification dated April 23,
+
+2003.
+2. It is clarified that to enable the investors to make informed investment decision in the SRs, the disclosure in respect of underlying basket of assets required to be made by SCs/RCs in the offer documents as above, include disclosure in respect of the date of acquisition of the assets, valuation of the assets and the interest of SCs/RCs in such assets at the time of issue of SRs.
+Yours faithfully,
+
+(P.Krishnamurthy) Chief General Manager-in-Charge

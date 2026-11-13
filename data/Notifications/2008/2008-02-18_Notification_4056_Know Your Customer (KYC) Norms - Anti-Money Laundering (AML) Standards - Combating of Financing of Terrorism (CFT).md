@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2008_4056"
+title: "Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating of Financing of Terrorism (CFT)"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/83175.pdf"
+pdf_sha256: "6aa09d218944287abff56ae1509964cb5c0be3253377c2512d9688de24d5fe59"
+md_sha256: "82c28264053cf02b9ad5219f8bb269e0ed7fc9bbc5f09a91c9c217ac2bce5b6c"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-02-18_Notification_4056_Know%20Your%20Customer%20%28KYC%29%20Norms%20-%20Anti-Money%20Laundering%20%28AML%29%20Standards%20-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating of Financing of Terrorism (CFT)
+
+<!-- PAGE 1 -->
+
+## RBI / 2007- 08 / 239 DBOD.AML.BC. No.63/ 14.01.001 / 2007- 08
+
+## February 18, 2008
+
+## All Scheduled Commercial Banks/FIs (Excluding RRBs)
+
+Dear Sir, **Know Your Customer (KYC) Norms / Anti-Money Laundering (AML)** **Standards / Combating of Financing of Terrorism (CFT)**
+
+Banks have been advised vide our circular DBOD.NO.AML.BC.58/14.01.001 /2004-05 dated November 29, 2004 that the adoption of customer acceptance policy and its implementation should not result in denial of banking services to general public, especially to those, who are financially or socially disadvantaged. It was also clarified to the banks that a risk based approach has been followed in the KYC guidelines issued by Reserve Bank to avoid disproportionate cost to banks and a burdensome regime for the customers. Banks were accordingly advised that customer identification means identifying the customer and verifying his/her identity by using reliable, independent source documents, data or information to their satisfaction.
+
+2. It was further clarified to banks that **'being satisfied'** means that the bank must be able to satisfy the competent authorities that due diligence was observed based on the risk profile of the customer in compliance with the extant guidelines in place. An **indicative list** of the nature and type of documents/ information that may be relied upon for customer identification was also given in the Annex-II to the aforesaid circular. It has been brought to our notice that Annex-II, which was clearly termed as an indicative list, is being treated by some banks as an exhaustive list as a result of which a section of public is being denied access to banking services. Banks are, therefore, advised to take a review of their extant internal instructions in this regard.
+3. It is clarified that permanent correct address, as referred to in Annex-II of our said circular, means the address at which a person usually resides and can be taken as the address as mentioned in a utility bill or any other document accepted by the bank for verification of the address of the customer. It has been observed that some close relatives, e.g. wife, son, daughter and parents etc. who live with their husband, father/mother and son, as the case may be, are finding it difficult to open account in some banks as the utility bills required for address verification are not in their name. It is clarified, that in such cases, banks can obtain an identity document and a utility bill of the relative with whom the prospective customer is living along with a declaration from the relative that the said person (prospective customer) wanting to open an account is a relative and is staying with him/her. Banks can use any supplementary evidence such as a letter received through post for further verification of the address. While issuing operational instructions to the branches on the subject, banks should keep in mind the spirit of instructions issued by the Reserve Bank and avoid undue hardships to individuals who are, otherwise, classified as low risk customers.
+
+<!-- PAGE 2 -->
+
+4. The instructions contained in paragraph 4 of the circular dated November 29, 2004, also require banks to put in place a system of periodical review of risk categorisation of accounts and the need for applying enhanced due diligence measures in case of higher risk perception on a customer. Banks are further advised that such review of risk categorisation of customers should be carried out at a periodicity of <u>not less</u> than once in six months. Banks should also introduce a system of periodical updation of customer identification data (including photograph/s) after the account is opened. The periodicity of such updation should not be less than once in five years in case of low risk category customers and not less than once in two years in case of high and medium risk categories.
+5. Banks have been further advised, vide paragraph 9 of our circular dated November 29, 2004, that KYC/AML guidelines issued by Reserve Bank of India shall also apply to their branches and majority owned subsidiaries located outside India, especially, in countries which do not or insufficiently apply the FATF Recommendations, to the extent local laws permit. It is further clarified that in case there is a variance in KYC/AML standards prescribed by the Reserve Bank and the host country regulators, branches/overseas subsidiaries of banks are required to adopt the more stringent regulation of the two.
+6. <u>Combating financing of terrorism</u>
+a) In terms of PMLA Rules, suspicious transaction should include *inter alia* transactions which give rise to a reasonable ground of suspicion that these may involve financing of the activities relating to terrorism. Banks are, therefore, advised to develop suitable mechanism through appropriate policy framework for enhanced monitoring of accounts suspected of having terrorist links and swift identification of the transactions and making suitable reports to the Financial Intelligence Unit – India (FIU-IND) on priority.
+b) As and when list of individuals and entities, approved by Security Council Committee established pursuant to various United Nations' Security Council Resolutions (UNSCRs), are received from Government of India, Reserve Bank circulates these to all banks and financial institutions. Banks/Financial Institutions should ensure to update the consolidated list of individuals and entities as circulated by Reserve Bank. Further, the updated list of such individuals/entities can be accessed in the United Nations website at <u>[http://www.un.org/sc/committees/1267/consolist.shtml](http://www.un.org/sc/committees/1267/consolist.shtml)</u>. Banks are advised that before opening any new account it should be ensured that the name/s of the proposed customer does not appear in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list. Full details of accounts bearing resemblance with any of the individuals/entities in the list should immediately be intimated to RBI and FIU-IND.
+
+<!-- PAGE 3 -->
+
+7. It may be appreciated that KYC norms/AML standards/CFT measures have been prescribed to ensure that criminals are not allowed to misuse the banking channels. It would, therefore, be necessary that adequate screening mechanism is put in place by banks as an integral part of their recruitment/hiring process of personnel.
+8. These guidelines are issued under Section 35A of the Banking Regulation Act, 1949 and any contravention thereof may attract penalties under the relevant provisions of the Act.
+Yours faithfully,
+
+## ( Vinay Baijal )
+
+## Chief General Manager

@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2008_4113"
+title: "Differential Rate of Interest Scheme- Revision of the income limits"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/83958.pdf"
+pdf_sha256: "289b7e3c7f4d5bcb95ef9e6d268fee3793873d98a8b326df5e4747ab8dbf14f9"
+md_sha256: "652a8e67b45fd60fd46c78a8d2109fe42e65adbc6b6084454c5ea1e5e112f8e6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-04-10_Notification_4113_Differential%20Rate%20of%20Interest%20Scheme-%20Revision%20of%20the%20income%20limits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Differential Rate of Interest Scheme- Revision of the income limits
+
+<!-- PAGE 1 -->
+
+RBI /2007-2008/ 279 RPCD. SP. BC. No 55 / 09. 07. 01/ 2007-08
+
+## April, 10, 2008
+
+The Chairman / Managing Directors Indian Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Differential Rate of Interest Scheme- Revision of the income limits</u>
+
+Please refer to our circular ref. RPCD.SP. BC. No. 101/ 09.07.01/2006-07 dated June 13, 2007 intimating the revised loan limits of the captioned scheme being presently implemented by all scheduled commercial banks.
+
+2. In para 95 of the Union Budget Speech for 2008-09, it has been proposed that borrower’s eligibility criteria for availing loan under the (DRI) Scheme will be increased. Accordingly, borrowers with annual family income of Rs.18000 in rural areas and Rs.24000 in urban areas will now be eligible to avail of the facility as against the earlier annual income criteria of Rs.6400 in rural areas and Rs.7200 in urban areas, fixed by the Government of India in 1986.
+3. You are, therefore, advised to issue necessary instructions to your controlling offices and branch offices to ensure that the revised guidelines regarding the borrowers' eligibility criteria are implemented immediately. The other terms and conditions of the DRI scheme remain unchanged
+4. The target for lending under the DRI scheme will continue to be 1 per cent of the previous years’ total advances as hitherto (para III of our circular RPCD No Plan BC 84/04.09.01/2006-07 dated April 30, 2007)
+## 5 Please acknowledge receipt.
+
+Yours faithfully,
+
+(G.Srinivasan) Chief General Manager
