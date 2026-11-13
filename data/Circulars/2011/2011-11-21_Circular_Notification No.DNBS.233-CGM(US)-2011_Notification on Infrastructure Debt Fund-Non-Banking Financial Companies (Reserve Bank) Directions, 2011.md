@@ -1,0 +1,140 @@
+---
+doc_id: "Circulars_2011_Notification_No_DNBS_233_CGM_US_-2011"
+title: "Notification on Infrastructure Debt Fund-Non-Banking Financial Companies (Reserve Bank) Directions, 2011"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/LDD21111CI.PDF"
+pdf_sha256: "d84086f192146023dec7543810727043b84fa3d9368bef8bab95c947d56aab82"
+md_sha256: "5d29402fb7f080453a072477a9a030aa7d9687340153a59c5b5d4c5eb2372a18"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:32:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-11-21_Circular_Notification%20No.DNBS.233-CGM%28US%29-2011_Notification%20on%20Infrastructure%20Debt%20Fund-Non-Banking%20Financial%20Companies%20%28Reserve%20Bank%29%20Directions%2C%202011.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Infrastructure Debt Fund-Non-Banking Financial Companies (Reserve Bank) Directions, 2011
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/268 DNBS.PD.CC.No.249 /03.02.089/2011-12 November 21, 2011
+
+## To All NBFCs excluding RNBCs
+
+## <u>Infrastructure Debt Funds (IDFs)</u>
+
+The Finance Minister had in his budget speech for the year 2011-2012 announced the setting up of Infrastructure Debt Funds (IDFs), to facilitate the flow of long-term debt into infrastructure projects. The IDF will be set up either as a trust or as a company. A trust based IDF would normally be a Mutual Fund (MF) while a company based IDF would normally be a NBFC. IDF- NBFC would raise resources through issue of either Rupee or Dollar denominated bonds of minimum 5 year maturity. The investors would be primarily domestic and off-shore institutional investors, especially insurance and
+
+# Withdrawn
+
+pension funds which would have long term resources. IDF-MF would be regulated by SEBI while IDF-NBFC would be regulated by the Reserve Bank.
+
+2. The Reserve Bank had vide its Press Release dated September 23, 2011, issued broad parameters for banks and NBFCs to set up IDFs. Detailed guidelines are set out in the following paragraphs prescribing the regulatory framework for Non Banking Financial Companies (NBFCs) to sponsor IDFs which are to be set up as Mutual Funds (MFs) and NBFCs. Such entities would be designated as “Infrastructure Debt Fund – Mutual Funds (IDF-MF) and “Infrastructure Debt Fund – Non-Banking Financial Company (IDF-NBFC)”. All NBFCs, including Infrastructure Finance Companies (IFCs) registered with the Bank may sponsor IDFs to be set up as Mutual Funds. However, only IFCs can sponsor IDF-NBFCs.
+
+<!-- PAGE 2 -->
+
+## Eligibility Parameters for NBFCs as Sponsors of IDF-MFs
+
+3. All NBFCs would be eligible to sponsor (sponsorship as defined by SEBI Regulations for Mutual Funds) IDFs as Mutual Funds with prior approval of RBI subject to the following conditions, in addition to those prescribed by SEBI, in the newly inserted Chapter VI B to the MF Regulations :
+i. The NBFC should have a minimum Net Owned Funds (NOF) of Rs. 300 crore and Capital to Risk Weighted Assets (CRAR) of 15%; ii. Its net NPAs should be less than 3% of net advances; iii. It should have been in existence for at least 5 years. iv. It should be earning profits for the last three years and its performance should be satisfactory;
+# Withdrawn
+
+v. The CRAR of the NBFC post investment in the IDF-MF should not be less than the regulatory minimum prescribed for it; vi. The NBFC should continue to maintain the required level of NOF after accounting for investment in the proposed IDF and vii. There should be no supervisory concerns with respect to the NBFC.
+
+<!-- PAGE 3 -->
+
+## Eligibility Parameters for IFCs setting up IDF-NBFCs
+
+4. Only NBFC-IFCs can sponsor IDF-NBFC with prior approval of the Reserve Bank and subject to the following conditions.
+i. Sponsor IFCs would be allowed to contribute a maximum of 49 percent to the equity of the IDF-NBFCs with a minimum equity holding of 30 percent of the equity of IDF-NBFCs,: ii. Post investment in the IDF-NBFC, the sponsor NBFC-IFC must maintain minimum CRAR and NOF prescribed for IFCs iii. There are no supervisory concerns with respect to the IFC.
+## Tripartite Agreement
+
+5. IDF-NBFCs will enter into Tripartite Agreements to which, the Concessionaire, the Project Authority and IDF-NBFC shall be parties. Tripartite Agreement binds all the parties thereto to the terms and conditions of Withdrawn the other Agreements referred to therein also and which collectively provide, inter alia, for the following:-
+i. take over a portion of the debt of the Concessionaire availed from Senior Lenders, ii. a default by the Concessionaire, shall trigger the process for termination of the agreement between Project Authority and Concessionaire, iii. the Project Authority shall redeem the bonds issued by the Concessionaire which have been purchased by IDF-NBFC, from out of the termination payment as per the Tripartite Agreement and other Agreements referred to therein (compulsory buyout), iv. the fee payable by IDF-NBFC to the Project Authority as mutually agreed upon between the two.
+
+<!-- PAGE 4 -->
+
+6. NBFC and IFCs that fulfill the eligibility criteria as above may approach the Central Office of the Department of Non-Banking Supervision, Reserve Bank of India, Centre I, World Trade Centre, Cuffe Parade, Mumbai – 400 005 for sponsoring IDFs as MFs and NBFCs, as applicable.
+## Investment by NBFCs and IFCs in IDFs
+
+7. The exposure of sponsor NBFCs / IFCs and non-sponsor NBFCs / IFCs to the equity and debt of the IDFs would be governed by the extant credit concentration norms as given in para 18 of the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007.
+8. Notification containing the detailed guidelines issued with regard to regulation of IDF-NBFCs viz; DNBS.PD.No.233/CGM (US)-2011, dated November 21, 2011 are enclosed for meticulous compliance. As regards foreign exchange related aspects of the functioning of IDF-NBFCs, a separate circular is being issued.
+# Withdrawn
+
+Yours faithfully,
+
+(Uma Subramaniam) Chief General Manager-In-Charge
+
+<!-- PAGE 5 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE,
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI 400 005.
+
+## Notification No. DNBS.233 / CGM(US)-2011 dated November 21, 2011
+
+The Reserve Bank of India having considered it necessary in the public interest and being satisfied that for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to give the Directions set out below, hereby, in exercise of the powers conferred by sections 45JA, 45K, 45L and 45M of the Reserve Bank of India Act, 1934 (2 of 1934), and of all the powers enabling it in this behalf, hereby gives the Directions hereinafter specified.
+
+## Short title and Commencement of the Directions
+
+# Withdrawn
+
+1. These Directions shall be known as the Infrastructure Debt Fund-Non-Banking Financial Companies (Reserve Bank) Directions, 2011 and shall come into force with immediate effect.
+## Applicability of Directions
+
+2. These Directions shall apply to every Infrastructure Debt Fund-Non-Banking Financial Company (IDF-NBFC),
+## Definitions
+
+3. For the purpose of these directions, unless the context otherwise requires,-
+(a) “Concessionaire” means a party which has entered into an agreement called ‘Concession Agreement’ with a Project Authority, for developing infrastructure.
+
+<!-- PAGE 6 -->
+
+(b) “Infrastructure Debt Fund-Non-Banking Financial Company” or “IDF-NBFC” means a non-deposit taking NBFC that has Net Owned Fund of Rs 300 crores or more and which invests only in Public Private Partnerships (PPP) and post commencement operations date (COD) infrastructure projects which have completed at least one year of satisfactory commercial operation and becomes a party to a Tripartite Agreement.
+(c) “Project Authority” means an authority constituted by a statute for the development of infrastructure in the country.
+(d) “Tripartite Agreement” means an agreement between three parties, namely, the Concessionaire, the Project Authority and IDF-NBFC that also binds all the parties thereto to the terms and conditions of the other Agreements referred to therein
+4. Words and expressions used but not defined herein and defined in Reserve Bank of India Act, 1934 or the Directions issued under Chapter III thereof shall, unless the context otherwise requires, have the meaning assigned to them thereunder.
+## Credit Rating
+
+# Withdrawn
+
+5. IDF-NBFC shall have at the minimum, a credit rating grade of 'A' of CRISIL or equivalent rating issued by other accredited rating agencies such as FITCH, CARE and ICRA;
+## Capital Adequacy
+
+6. The IDF-NBFC shall have at the minimum CRAR of 15 percent and Tier II Capital of IDF–NBFC shall not exceed Tier I.
+## Investment
+
+7. IDF-NBFCs shall invest only in PPP and post COD infrastructure projects which have completed at least one year of satisfactory commercial operation and are a party to a Tripartite Agreement with the Concessionaire and the Project Authority for ensuring a compulsory buyout with termination payment.
+
+<!-- PAGE 7 -->
+
+## Credit Concentration Norms:
+
+8. i. The maximum exposure that an IDF-NBFC can take on individual projects will be at 50 percent of its total Capital Funds (Tier I plus Tier II as defined in Para 2 (xx) and (xxi) for the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007). ii. An additional exposure up to 10 percent could be taken at the discretion of the Board of the IDF-NBFC. iii. RBI may, upon receipt of an application from an IDF-NBFC and on being satisfied that the financial position of the IDF-NBFC is satisfactory, permit additional exposure up to 15 percent (over 60 percent) subject to such conditions as it may deem fit to impose regarding additional prudential safeguards.
+## Risk Weights for the Purpose of Capital Adequacy:
+
+# Withdrawn
+
+9. For the purpose of computing capital adequacy of the IDF-NBFC,
+i. bonds covering PPP and post commercial operations date (COD) projects in existence over a year of commercial operation shall be assigned a risk weight of 50 percent. ii. All other assets shall be risk weighted as per the extant regulations as given in para 16 of the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007.
+## Other Prudential Norms
+
+10. All other prudential norms as specified in Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007
+
+<!-- PAGE 8 -->
+
+including income recognition, asset classification and provisioning norms will be applicable for IDF-NBFCs.
+
+(Uma Subramaniam) Chief General Manager In-Charge
+
+# Withdrawn

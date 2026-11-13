@@ -1,0 +1,69 @@
+---
+doc_id: "Circulars_2011_UBD_BPD_DIR_No_2_13_01_000_2011-12"
+title: "Interest Rates on Non-Resident (External) Rupee (NRE) Deposits"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIN12251111F.PDF"
+pdf_sha256: "8523d8e49cc647779fc7adc75a0753ac7f263750ee8b22ee4ce807b108160030"
+md_sha256: "071c3673de7cc17d8ab509a3cf4d96906b85b1a86f018017dc981f43dccae04a"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:32:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-11-23_Circular_UBD.BPD.DIR.No.2-13.01.000-2011-12_Interest%20Rates%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Non-Resident (External) Rupee (NRE) Deposits
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/ 279
+
+UBD.BPD. (PCB) CIR No. 12 /13.01.000/2011-12 November 24, 2011
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+## Dear Sir/Madam
+
+## Interest Rates on Non-Resident <u>(External) Rupee (NRE) Deposits-UCBs</u>
+
+Please refer to our circular UBD(PCB) CO BPD Cir No.25/13.01.000/2008-09 dated <u>November 17, 2008</u> on the captioned subject.
+
+2. In view of the prevailing market conditions, it has been decided that until further notice and with effect from close of business in India as on November 23, 2011, the interest rates on Non- Resident (External) Rupee (NRE) Term Deposits will be as under:
+# Withdrawn
+
+The Interest rates on fresh Non-Resident (External) Rupee (NRE) Term Deposits for one to three years maturity should not exceed the LIBOR/SWAP rates plus 275 basis points, as on the last working day of the previous month, for US dollar of corresponding maturities (as against LIBOR/SWAP rates plus 175 basis points effective from close of business on November 15, 2008). The interest rates as determined above for three year deposits will also be applicable in case the maturity period exceeds three years. The changes in interest rates will also apply to NRE deposits renewed after their present maturity period.
+
+..2/‐
+
+|शहर|बक वभाग,क िय|कायालय, गारमट||हाऊस, पहली|मंज़ल, डॉ|ए बी|रोड, वरली, मुंबई- 400018 भारत|
+|---|---|---|---|---|---|---|---|
+|फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India|Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in|बक|�����|म पऽाचार|का ःवागत|करता है —|मेल: rbiubdco@rbi.org.in|
+
+<!-- PAGE 2 -->
+
+3. All other instructions in this regard, as amended from time to time, will remain unchanged.
+4. An amending directive UBD.BPD.DIR. No.2 /13.01.000/2011-12 dated November 23, 2011 is enclosed. Yours faithfully (A.Udgata) Chief General Manager-in-Charge Encls: As above
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## UBD.BPD.DIR. No. 2 /13.01.000/2011-12 November 23, 2011
+
+## Interest Rates on Non-Resident (External) Rupee (NRE) Deposits
+
+In exercise of the powers conferred by Section 35A read with Section 56 of the Banking Regulation Act, 1949, and in modification of the directive UBD.No.Dir 8/13.01.000/2008- 09 dated November 15, 2008 on Interest Rates on Deposits held in Non-Resident (External) (NRE) Accounts, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that Interest Rates on Non-Resident (External) Rupee (NRE) Deposits shall be as under:
+
+“With effect from close of business as on November 23, 2011, interest rates on fresh Non‐Resident (External) Rupee (NRE) Term Deposits for one to three years maturity should not exceed the LIBOR/SWAP rates plus 275 basis points, as on the last working day of the previous month, for US dollar of corresponding maturities (as against LIBOR/SWAP
+
+# Withdrawn
+
+rates plus 175 basis points effective from the close of business on November 15, 2008). The interest rates as determined above for three year deposits will also be applicable in case the maturity period exceeds three years. The changes in interest rates will also apply to NRE deposits renewed after their present maturity period.”
+
+## (S. Karuppasamy)
+
+Executive Director
+
+<u>शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत</u> <u>फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 <u>4030 / 2492</u> 0231; Email: rbiubdco@rbi.org.in <u>बक ����� म पऽाचार का ःवागत करता है —</u>

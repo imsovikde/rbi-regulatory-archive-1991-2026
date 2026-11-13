@@ -1,0 +1,265 @@
+---
+doc_id: "Circulars_2011_Notification_No_DNBS_PD_No_236_CGM_US_-2011"
+title: "Notification on Non-Banking Financial Companies Auditor's Report (Reserve Bank) Directions, 2008"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC250021211.PDF"
+pdf_sha256: "46947fcaf92dedb7b5a5fd85041877c2c00b4bbb302e5716f517c87c450b673d"
+md_sha256: "25a897086b2c40b6d917d35e1d3ec3d8561f722b1b9357f95b1aa251442c2c50"
+total_pages: 12
+native_pages: 12
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:33:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-12-02_Circular_Notification%20No.DNBS.PD.No.236-CGM%28US%29-2011_Notification%20on%20Non-Banking%20Financial%20Companies%20Auditor%27s%20Report%20%28Reserve%20Bank%29%20Directions%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Non-Banking Financial Companies Auditor's Report (Reserve Bank) Directions, 2008
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/290 DNBS.CC.PD.No. 250/03.10.01/2011-12 December 02, 2011
+
+## To All NBFCs(excluding RNBCs)
+
+## Dear Sir,
+
+## Introduction of New Category of NBFCs - ‘Non Banking Financial Company-Micro Finance Institutions’(NBFC-MFIs) - Directions
+
+As indicated in the <u>Second Quarter Review of Monetary Policy in November 2010</u>, a Sub-Committee of the Central Board of the Reserve Bank (Chairman: Shri Y. H. Malegam) was constituted to study issues and concerns in the MFI sector. The Committee submitted its report in January 2011. In the <u>Monetary Policy Statement</u> <u>2011-12</u>, it was announced that the broad framework of regulations recommended by the Committee has been accepted by the Bank.
+
+# Withdrawn
+
+## 2. Creation of a Separate Category of NBFC-MFI
+
+It has been decided to create a separate category of NBFCs viz; Non Banking Financial Company-Micro Finance Institution(NBFC-MFI). Consequently there would be following categories of NBFCs:
+
+i. Asset Finance Company (AFC) ii. Investment Company (IC) iii. Loan Company (LC) iv. Infrastructure Finance Company (IFC)
+v. Core Investment Company (CIC) vi. Infrastructure Debt Fund- Non- Banking Financial Company (IDF-NBFC) vii. Non-Banking Financial Company-Micro Finance Institution (NBFC-MFI).
+
+<!-- PAGE 2 -->
+
+**3.** The Sub-Committee had recommended a role for industry associations in monitoring of compliance by NBFC-MFIs with the regulations. Separate guidelines in this regard will follow.
+4. The Notification DNBS.PD.No.234 CGM(US)2011 dated December 02, 2011 containing the regulatory framework for NBFC-MFIs, the amending notifications DNBS.PD.No.235/CGM(US) 2011 dated December 02, 2011 amending the Non- Banking Financial (Non-Deposit accepting or holding) Companies Prudential Norms (Reserve Bank) directions, 2007 and DNBS.PD.No.236/CGM(US)2011 dated December 02, 2011 amending the Non-Banking Financial Companies Auditor’s Report (Reserve Bank) Directions, 2008 are enclosed for meticulous compliance.
+## Yours faithfully
+
+(Uma Subramaniam)
+
+# Withdrawn
+
+Chief General Manager in Charge
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE,
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI 400 005
+
+## Notification DNBS. PD.No.234 / CGM(US)-2011 dated December 02, 2011
+
+The Reserve Bank of India having considered it necessary in the public interest and being satisfied that for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to give the directions set out below, hereby, in exercise of the powers conferred by sections 45JA, 45K, 45L and 45M of the Reserve Bank of India Act, 1934 (2 of 1934), and of all the powers enabling it in this behalf, hereby gives the Directions hereinafter specified.
+
+<u>PART I</u> PRELIMINARY
+
+## 1. Short title and commencement of the Directions
+
+i. These Directions shall be known as the Non-Banking Financial Company -Micro Finance Institutions (Reserve Bank) Directions, 2011.
+# Withdrawn
+
+ii. These Directions shall come into force with immediate effect.
+
+## 2. Extent of the Directions
+
+These Directions shall apply to every Non Banking Financial Company-Micro Finance Institution (NBFC-MFI) as defined in these Directions.
+
+## 3. Definition of NBFC-MFI
+
+An NBFC-MFI is defined as a non-deposit taking NBFC(other than a company licensed under Section 25 of the Indian Companies Act, 1956) that fulfils the following conditions:
+
+<!-- PAGE 4 -->
+
+i. Minimum Net Owned Funds of Rs.5 crore. (For NBFC-MFIs registered in the North Eastern Region of the country, the minimum NOF requirement shall stand at Rs. 2 crore). ii. Not less than 85% of its net assets are in the nature of “qualifying assets.” *For the purpose of ii. above,* *“Net assets” are defined as total assets other than cash and bank balances and money* *market instruments.* *“Qualifying asset” shall mean a loan which satisfies the following criteria:-*
+*a. loan disbursed by an NBFC-MFI to a borrower with a rural household* *annual income not exceeding Rs. 60,000 or urban and semi-urban* *household income not exceeding Rs. 1,20,000;*
+*b. loan amount does not exceed Rs. 35,000 in the first cycle and Rs. 50,000* *in subsequent cycles;*
+*c. total indebtedness of the borrower does not exceed Rs. 50,000;*
+*d. tenure of the loan not to be less than 24 months for loan amount in excess* *of Rs. 15,000 with prepayment without penalty;*
+*e. loan to be extended without collateral;*
+*f. aggregate amount of loans, given for income generation, is not less than*
+# Withdrawn
+
+*75 per cent of the total loans given by the MFIs;*
+
+g. *loan is repayable on weekly, fortnightly or monthly instalments at the* *choice of the borrower* iii. Further the income an NBFC-MFI derives from the remaining 15 percent of assets shall be in accordance with the regulations specified in that behalf. iv. An NBFC which does not qualify as an NBFC-MFI shall not extend loans to micro finance sector, which in aggregate exceed 10% of its total assets.
+**4. Regulatory Framework for NBFC-MFIs**
+A. <u>Entry Point Norm</u> As stated above, all new NBFC-MFIs except those in the North Eastern Region of the country should have a minimum Net Owned Funds(NoF) of Rs 5 crore; those located in the North eastern region should have a minimum NoF of Rs. 2 crore for purposes of registration. The
+
+<!-- PAGE 5 -->
+
+existing NBFCs to be classified as NBFC-MFIs will be required to comply with this norm w.e.f April 01, 2012.
+
+B. <u>Prudential Norms</u>
+a. Capital Requirement All new NBFC-MFIs shall maintain a capital adequacy ratio consisting of Tier I and Tier II Capital which shall not be less than 15 percent of its aggregate risk weighted assets. The total of Tier II Capital at any point of time, shall not exceed 100 percent of Tier I Capital. The risk weights for on-balance sheet assets and the credit conversion factor for off-balance sheet items will be as provided in para 16 of the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve bank) Directions 2007.
+*Note:*
+
+*i. Among the existing NBFCs to be classified as NBFC-MFIs, those with asset size less than* *Rs. 100 crore will be required to comply with this norm w.e.f April 01, 2012. Those with asset* *size of Rs. 100 crore and above are already required to maintain minimum CRAR of* *15%.* *ii. The CRAR for NBFC-MFIs which have more than 25% loan portfolio in the state of* *Andhra Pradesh will be at 12% for the year 2011-2012 only. Thereafter they have to*
+# Withdrawn
+
+*maintain CRAR at 15%.*
+
+b. Asset Classification and Provisioning Norms: With effect from April 01, 2012 all NBFC-MFIs shall adopt the following norms(till then they shall follow the asset classification and provisioning norms as given in the Non- Banking Financial (Non-Deposit accepting or holding) Companies Prudential Norms (Reserve Bank) Directions, 2007).
+## Asset Classification Norms:
+
+i. Standard asset means the asset in respect of which, no default in repayment of principal or payment of interest is perceived and which does not disclose any problem nor carry more than normal risk attached to the business; ii. Nonperforming asset means an asset for which, interest/principal payment has remained overdue for a period of 90 days or more.
+
+<!-- PAGE 6 -->
+
+Provisioning Norms:
+
+The aggregate loan provision to be maintained by NBFC-MFIs at any point of time shall not be less than the higher of a) 1% of the outstanding loan portfolio or b) 50% of the aggregate loan instalments which are overdue for more than 90 days and less than 180 days and 100% of the aggregate loan instalments which are overdue for 180 days or more.
+
+c. All other provisions of the Non-Banking Financial (Non-Deposit accepting or holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 will be applicable to NBFC-MFIs except as indicated therein.
+## C. Other Regulations
+
+## a. Pricing of Credit
+
+i. All NBFC-MFIs shall maintain an aggregate margin cap of not more than 12%. The interest cost will be calculated on average fortnightly balances of outstanding borrowings and interest income is to be calculated on average fortnightly balances of outstanding loan portfolio of qualifying assets. ii. Interest on individual loans will not exceed 26% per annum and calculated on a reducing balance basis.
+# Withdrawn
+
+iii. Processing charges shall not be more than 1 % of gross loan amount. Processing charges need not be included in the margin cap or the interest cap.
+
+iv. NBFC-MFIs shall recover only the actual cost of insurance for group, or livestock, life, health for borrower and spouse. Administrative charges where recovered, shall be as per IRDA guidelines.
+
+## b. Fair Practices in Lending
+
+I. **Transparency in Interest Rates**
+a. There shall be only three components in the pricing of the loan viz., the
+interest charge, the processing charge and the insurance premium (which includes the administrative charges in respect there of).
+
+b. There will be no penalty charged on delayed payment.
+
+<!-- PAGE 7 -->
+
+c. NBFC-MFIs shall not collect any Security Deposit/ Margin from the borrower.
+d. There should be a standard form of loan agreement.
+e. Every NBFC-MFI should provide to the borrower a loan card reflecting
+(i) the effective rate of interest charged (ii) all other terms and conditions attached to the loan (iii) information which adequately identifies the borrower and (iv) acknowledgements by the NBFC-MFI of all repayments including instalments received and the final discharge.
+(v) All entries in the Loan Card should be in the vernacular language.
+f. The effective rate of interest charged by the NBFC-MFI should be prominently displayed in all its offices and in the literature issued by it and on its website.
+II. **Multiple-lending, Over-borrowing and Ghost-borrowers**
+
+a. NBFC-MFIs can lend to individualWithdrawnborrowers who are not member of Joint Liability Group(JLG)/Self Help Group(SHG) or to borrowers that are members of JLG/SHG.
+b. a borrower cannot be a member of more than one SHG/JLG.
+c. not more than two NBFC-MFIs should lend to the same borrower.
+d. there must be a minimum period of moratorium between the grant of the loan and the due date of the repayment of the first instalment. The moratorium shall not be less than the frequency of repayment. For eg: in the case of weekly repayment, the moratorium shall not be less than one week.
+e. recovery of loan given in violation of the regulations should be deferred till all prior existing loans are fully repaid.
+
+<!-- PAGE 8 -->
+
+f. All sanctioning and disbursement of loans should be done only at a central location and more than one individual should be involved in this function. In addition, there should be close supervision of the disbursement function.
+III. **Non- Coercive Methods of Recovery**
+
+- NBFC-MFIs shall ensure that a Code of Conduct and systems are in place for recruitment, training and supervision of field staff. The Code of Conduct should also incorporate the Guidelines on Fair Practices Code issued for NBFCs vide circular <u>CC No.80 dated September 28,</u> <u>2006</u> as amended from time to time.
+- Recovery should normally be made only at a central designated place. Field staff shall be allowed to make recovery at the place of residence or work of the borrower only if borrower fails to appear at central designated place on 2 or more successive occasions.
+- All other elements of the Fair Practices Code issued for NBFCs vide CC No 80 dated September 28, 2006 as amended from time to time shall be adhered to.
+# Withdrawn
+
+## c. Corporate Governance
+
+The Master Circular issued for NBFCs on Corporate Governance vide CC No. 187 dated July 01, 2011 shall be applicable to NBFC-MFIs also.
+
+## d. Improvement of Efficiency
+
+NBFC-MFIs shall review their back office operations and make the necessary
+
+investments in Information Technology and systems to achieve better control, simplify procedures and reduce costs.
+
+**e. Others** All NBFCs may refer to the circular <u>RPCD.CO.Plan BC. 66 /04.09.01/2010-11 dated May</u> <u>3, 2011</u> issued by the Rural Planning and Credit Department of RBI titled “Bank loans to
+
+<!-- PAGE 9 -->
+
+Micro Finance Institutions (MFIs) – Priority Sector status” issued to banks with regard to guidelines on priority sector.
+
+**5.** Existing NBFCs that satisfy the above conditions may approach the Regional Office in the jurisdiction of which their Registered Office is located, along with the original Certificate of Registration (CoR) issued by the Bank for change in their classification as NBFC-MFIs. Their request must be supported by their Statutory Auditor's certificate indicating the asset (loan) pattern as on March 31, 2011. The onus of including only eligible assets for the purpose of classification as NBFC-MFI shall be that of the company concerned. The change in classification would be incorporated in the Certificate of Registration issued by the Bank as NBFC-MFI.
+**6.** In terms of paragraph 15 of the Non-Banking Financial (Non-Deposit accepting or holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 all NBFCs are required to submit Statutory Auditors Certificate with reference to the position of the company as at end of the financial year ended March 31 every year. For an NBFC-MFI, such Certificate will also indicate that the company fulfils all conditions stipulated to be classified as an NBFC-MFI in this circular.
+**7.** Non-compliance with these Directions shall invite penal provisions under the RBI
+# Withdrawn
+
+Act, 1934.
+
+## Yours sincerely
+
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+<!-- PAGE 10 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE
+
+## CUFFE PARADE, COLABA
+
+## MUMBAI 400 005
+
+## Notification DNBS.PD.No.235/ CGM(US)-2011 dated December 02, 2011
+
+In exercise of the powers conferred by Sections 45JA of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, and in partial modification of Notification No. DNBS. 193 dated DG (VL)-2007 dated February 22, 2007, the Reserve Bank hereby notifies as follows, namely-
+
+**1. Amendment of paragraph 1**–
+i. In sub paragraph (3) clause (vii) may be inserted to read as follows: ‘The provisions of paragraph 18 of these Directions shall not apply to an NBFC-MFI as defined in the Non-Banking Financial Company- Micro Finance Institutions (Reserve Bank)Directions 2011’.
+# Withdrawn
+
+‘The provisions of paragraphs 8 and 9 will not be applicable to an NBFC-MFI w.e.f April 01, 2012.
+
+## 2 Amendment of paragraph 2 –
+
+(1) In sub-paragraph (1), after clause (viii), the following clause (viii a) shall be inserted`. An NBFC-MFI means a non-deposit taking NBFC(other than a company licensed under Section 25 of the Indian Companies Act, 1956) that fulfils the following conditions:
+i. Minimum Net Owned Funds of Rs.5 crore. (For NBFC-MFIs registered in the North Eastern Region of the country, the minimum NOF requirement shall stand at Rs. 2 crore). ii. Not less than 85% of its net assets are in the nature of “qualifying assets.” *For the purpose of ii. above,*
+
+<!-- PAGE 11 -->
+
+*“Net assets” are defined as total assets other than cash and bank balances and money* *market instruments.* *“Qualifying asset” shall mean a loan which satisfies the following criteria:-*
+
+i. loan disbursed by an NBFC-MFI to a borrower with a rural household annual income not exceeding Rs. 60,000 or urban and semi-urban household income not exceeding Rs. 1,20,000; ii. loan amount does not exceed Rs. 35,000 in the first cycle and Rs. 50,000 in subsequent cycles; iii. total indebtedness of the borrower does not exceed Rs. 50,000; iv. tenure of the loan not to be less than 24 months for loan amount in excess of Rs. 15,000 with prepayment without penalty;
+v. loan to be extended without collateral; vi. aggregate amount of loans, given for income generation, is not less than 75 per cent of the total loans given by the MFIs; vii. loan is repayable on weekly, fortnightly or monthly instalments at the choice of the borrower
+(2) In para 15, after the last sentence the following sentence shall be added: "For an NBFC-MFI, such Certificate will also indicate that the company fulfils all conditions stipulated to be classified as an NBFC-MFI in the notification DNBS.PD.No.234/CGM(US)- 2011 dated December 02, 2011".Withdrawn
+(Uma Subramaniam) Chief General Manager In-Charge
+
+<!-- PAGE 12 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI 400 005
+
+## Notification DNBS.PD.No.236 /CGM(US)-2011 dated December 02, 2011.
+
+The Reserve Bank of India (hereinafter referred to as "the Bank"), having considered it necessary in the public interest and for the purpose of proper assessment of books of accounts of NBFCs, in exercise of the powers conferred by Section 45MA of the Reserve Bank of India Act, 1934 (Act 2 of 1934) and of all the powers enabling it in this behalf, amend the Non-Banking Financial Companies Auditor’s Report (Reserve Bank) Directions, 2008 as specified below.
+
+**1.** In paragraph 3A, the following sentence may be added as sub clause No.(IV) “Based on the criteria set forth by the Bank in the Notification viz; Non-Banking Financial Company- Micro Finance Institutions (Reserve Bank) Directions, 2011 dated December 02, 2011 for classification of NBFCs as NBFC-MFIs, whether the non-banking financial company has been correctly classified as NBFC-MFI
+# Withdrawn
+
+as defined in the said Directions with reference to the business carried on by it during the applicable financial year”.
+
+## Yours faithfully
+
+(Uma Subramaniam) Chief General Manager-in-Charge
