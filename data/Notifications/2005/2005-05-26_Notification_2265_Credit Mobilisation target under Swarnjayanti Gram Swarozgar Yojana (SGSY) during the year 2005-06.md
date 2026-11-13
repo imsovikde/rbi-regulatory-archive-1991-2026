@@ -1,0 +1,90 @@
+---
+doc_id: "Notifications_2005_2265"
+title: "Credit Mobilisation target under Swarnjayanti Gram Swarozgar Yojana (SGSY) during the year 2005-06"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/63376.pdf"
+pdf_sha256: "51083061e442f7d7e33702d8c6d6237bc6af38ebb352f78b85afefe5bc7219e2"
+md_sha256: "aab60694232477ffcde3b6cdbb1ae7608f0289fb5ee5b25a0f2a9ebf3f3c3a79"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-05-26_Notification_2265_Credit%20Mobilisation%20target%20under%20Swarnjayanti%20Gram%20Swarozgar%20Yojana%20%28SGSY%29%20during%20the%20year%202005-06.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit Mobilisation target under Swarnjayanti Gram Swarozgar Yojana (SGSY) during the year 2005-06
+
+<!-- PAGE 1 -->
+
+## RBI/2004/ 481 RPCD.SP.BC.No. 102 /09.01.01/2004-05
+
+## May 26, 2005
+
+The Chairman /Managing Director All Indian Scheduled Commercial Banks (Excluding RRBs) Dear Sir,
+
+## <u>Credit Mobilisation target under Swarnjayanti Gram Swarozgar Yojana</u>
+
+## <u>(SGSY) during the year 2005-06</u>
+
+Government of India have finalised the credit mobilisation target for the year 2005-06 under SGSY. The State /UT wise credit mobilisation targets for the year 2005-06 are enclosed. The credit mobilisation as fixed would be indicative in nature. However, if needed, the States/UTs in consultation with their respective State Level Banker’s Committee/DCC may enhance the targets, as may deem necessary.
+
+2. We advise that the State wise targets indicated may be allocated among the commercial banks, co-operative banks and Regional Rural Banks by State Level Bankers’ Committees (SLBCs). The SLBCs should finalise the targets of individual banks on the basis of acceptable parameters like resources, number of rural / semi urban branches etc. so that each bank will be in a position to arrive at its corporate target. We will be monitoring the achievement of the credit targets by the banks.
+3. You may put in all efforts to achieve the credit targets, minimum subsidy credit ratio fixed and maintain per family investment of Rs. 25000/-.
+4. The Lead Banks may review the performance of credit mobilisation at regular intervals in each State/UT through the respective SLBC/DCC.
+5. Please issue suitable instructions to your controlling offices and branches under advice to us.
+Yours faithfully, Sd/-
+
+## (Sujatha Elizabeth Prasad)
+
+## General Manager
+
+<!-- PAGE 2 -->
+
+## <u>Tentative Credit Mobilisation Targets under SGSY during 2005-2006</u>
+
+## (Rs. in lakhs)
+
+## Sl. No. States/U.T. Credit Target for 2005-
+
+## 06 (Tentative)
+
+2.
+
+|1.||3.||
+|---|---|---|---|
+|1.|Andhra Pradesh|18178.690||
+|2.|Arunachal Pradesh|664.596||
+|3.|Assam|17268.444||
+|4.|Bihar|30280.23||
+|5.|Chattisgarh|6722.136||
+|6.|Goa|140.8||
+|7.|Gujarat|5589.213||
+|8.|Haryana|4330.57||
+|9.|Himachal Pradesh|2244.9||
+|10.|Jammu & Kashmir|3113.25||
+|11.|Jharkhand|11412.774||
+|12.|Karnataka|11766.35||
+|13.|Kerala|5279.51||
+|14.|Madhya Pradesh|16812.831||
+|15.|Maharashtra|18998.417||
+|16.|Manipur|1157.634||
+|17.|Meghalaya|1296.99||
+|18.|Mizoram|300.114||
+|19.|Nagaland|889.74||
+|20.|Orissa|14557.32||
+|21.|Punjab|1598.037||
+|22.|Rajasthan|8514.219||
+|23.|Sikkim|332.28||
+|24.|Tamil Nadu|13777.67||
+|25.|Tripura|2438.562||
+|26.|Uttar Pradesh|40000||
+|27.|Uttaranchal|3436.29||
+|28.|West Bengal|10000||
+|29.|A & N Islands|90.08||
+|30.|D & N Haveli||90|
+|31.|Daman & Diu||90|
+|32.|Lakshadweep|90.34||
+|33.|Pondicherry Total|103.48 251565.47||

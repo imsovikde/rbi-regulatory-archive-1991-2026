@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2005_2292"
+title: "Relief/Savings Bonds - Payment of half-yearly Interest"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/63865.pdf"
+pdf_sha256: "e6bce79030f6424823806af695012cc1208d764fc1e0023ffac2241d79e02941"
+md_sha256: "063a85135e5eb937636993312774c7cf98f5bba87ab21b0d6daf6f154aa000ce"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-06-17_Notification_2292_Relief-Savings%20Bonds%20-%20Payment%20of%20half-yearly%20Interest.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Relief/Savings Bonds - Payment of half-yearly Interest
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/494
+
+CO.DT.13.01.298/H.10753-10782/2004-05
+
+June 17, 2005 Jyeshtha 27, 1927 (S)
+
+The Chairman and Managing Director, State Bank of India and its Associates Nationalised Banks ICICI Bank Ltd., HDFC Bank Ltd., UTI Bank Ltd. IDBI Bank Ltd., & SHCIL
+
+Dear Sir,
+
+## <u>Issue and servicing of Relief / Savings Bonds - - Payment of half-yearly interest</u>
+
+Please refer to our circular RBI/2004/152 CO.DT.13.01.298/H.5894/2003-04 dated April 16, 2004 advising you, *inter alia,* to despatch Interest warrants in respect of half-yearly interest due on the captioned bonds, to the investors one month in advance to avoid any complaints from them. As we have not prescribed any **"Shut Period"** for the transactions relating to the captioned bonds, the request received for transfers of Bonds held under the Bond Ledger Account in respect of non-cumulative bonds after despatch of half- yearly interest warrants
+
+i.e., during the months of June / December may be accepted and processed in due course. However, the tenderer of the transfer deed may be apprised that the half-yearly interest for the ensuing half-year ending has already been despatched to the transferor and the transfer can be effected <u>ex-interest for the relevant half-year.</u> The following legend may be affixed on the counter receipt issued to the tenderer of transfer deed during the above period – "The non-cumulative bonds covered by this receipt will be transferred in favour of the transferee (s) indicated in the transfer deed ex-interest for the current half-year".
+2. Please issue necessary instructions to all the designated branches which are issuing and servicing Relief / Savings Bonds to follow these instructions scrupulously.
+3. Please acknowledge receipt.
+Yours faithfully,
+
+(B.B.Sangma) General Manager

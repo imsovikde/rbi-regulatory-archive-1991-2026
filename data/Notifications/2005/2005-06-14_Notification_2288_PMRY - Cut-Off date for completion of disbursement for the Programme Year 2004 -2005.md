@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2005_2288"
+title: "PMRY - Cut-Off date for completion of disbursement for the Programme Year 2004 -2005"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/63780.pdf"
+pdf_sha256: "8e515b9ad4cc2ae0e9ebbe054391931e04abcd5a08dab4f15198b8faf898bce2"
+md_sha256: "554a1c49447fa91a7f697b3cce4d39a46328274202faa41273b98320e269d294"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-06-14_Notification_2288_PMRY%20-%20Cut-Off%20date%20for%20completion%20of%20disbursement%20for%20the%20Programme%20Year%202004%20-2005.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# PMRY - Cut-Off date for completion of disbursement for the Programme Year 2004 -2005
+
+<!-- PAGE 1 -->
+
+## RBI / 2004-05/ 491 RPCD.PLNFS.BC.No. 104 /09.04.01/ 2004 –2005
+
+## June 14, 2005
+
+The Chairman / Managing Director All Indian Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir, <u>PMRY-Cut-Off date for completion of disbursement for the Programme Year</u> <u>2004 -2005</u>
+
+Please refer to para 2 of our circular RPCD.PLNFS.BC.No.100/09.04.01/2004 – 2005 dated May 16, 2005. In partial modification of the circular, the Ministry of Agro & Rural Industries, Govt. of India has since decided to extend the cut-off date for completion of disbursement for the cases sanctioned for the Programme Year 2004- 05 in case of **dairy loans** under PMRY from **31 July 2005 to 30 November 2005.**
+
+2. You may issue necessary instructions to your Regional /Controlling Offices/ Branches in this regard.
+3. Please acknowledge receipt.
+Yours faithfully,
+
+(G.P.Borah) Deputy General Manager
