@@ -125,6 +125,13 @@ def commit_batch(paths, message, cwd=None):
     without committing. Otherwise ``git commit -S -m <message>``,
     ``git pull --rebase origin main``, then ``git push origin HEAD:main``
     with up to 3 retries and a 5 second pacing pause between attempts.
+    Before each retry after the first, it re-runs
+    ``git pull --rebase origin main``: main may have moved since the last
+    attempt (another commit landed while this batch was pushing), and a
+    push retried without re-syncing fails every time with the same
+    "fetch first" rejection. That exact failure killed run 43427571590
+    at batch #320. A rebase conflict during a retry is fatal: the rebase
+    is aborted so the tree is left clean, then CommitError is raised.
     Returns True when a commit was pushed, False when there was nothing
     to commit. Raises CommitError on any failure. Never force-pushes.
     """
@@ -145,6 +152,17 @@ def commit_batch(paths, message, cwd=None):
     for attempt in range(_MAX_PUSH_RETRIES):
         if attempt:
             time.sleep(_PUSH_PACING_SECONDS)
+            # Main may have moved since the last attempt. Re-sync
+            # before retrying the push, or the retry fails with the
+            # same rejection. See the docstring above.
+            try:
+                _run(["pull", "--rebase", "origin", "main"], cwd)
+            except CommitError as exc:
+                _run(["rebase", "--abort"], cwd, check=False)
+                raise CommitError(
+                    "git pull --rebase failed during push retry "
+                    f"(attempt {attempt + 1}): {exc}"
+                ) from exc
         try:
             _run(["push", "origin", "HEAD:main"], cwd)
             return True
