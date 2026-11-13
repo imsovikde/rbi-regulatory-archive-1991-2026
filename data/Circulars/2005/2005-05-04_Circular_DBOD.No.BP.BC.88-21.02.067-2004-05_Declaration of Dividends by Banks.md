@@ -1,0 +1,166 @@
+---
+doc_id: "Circulars_2005_DBOD_No_BP_BC_88_21_02_067_2004-05"
+title: "Declaration of Dividends by Banks"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62794.PDF"
+pdf_sha256: "b69e96e02fb33152033c8245ee58e41ebf9eea428bd059206a53cfe9dbf8ad26"
+md_sha256: "eb25caebdad8380cd10d609a81601a1129f00ae2423d53c284203b7f4f87db17"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:47:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-05-04_Circular_DBOD.No.BP.BC.88-21.02.067-2004-05_Declaration%20of%20Dividends%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Declaration of Dividends by Banks
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/451 DBOD.NO.BP.BC. 88 / 21.02.067 / 2004-05
+
+## May 04, 2005
+
+All scheduled commercial banks (except RRBs)
+
+Dear Sir, <u>Declaration of dividends by banks</u>
+
+The policy approach adopted by the Reserve Bank with regard to payment of dividends by banks was reviewed in consultation with the Standing Technical Advisory Committee on Financial Regulation and the regulatory focus was shifted from the ‘quantum of dividend’ to the ‘dividend payout ratio’ in terms of our guidelines issued vide our circular DBOD. No. BC.80 / 21.02.67 / 2003-04 dated April 23, 2004. These guidelines permitted banks to declare dividends subject to a ceiling of 33.33% on the dividend payout ratio, without obtaining the prior approval of RBI, subject to the fulfilment of the laid down criteria.
+
+**2.** On the basis of the experience gained, **it has been decided to grant** **general permission to banks to declare dividends**, subject to compliance with the guidelines laid down below:
+# Withdrawn
+
+## 3. Eligibility criteria for declaration of dividend
+
+Only those banks, which comply with the following minimum prudential requirements, would be eligible to ***declare*** dividends:
+
+i) The bank should have:
+- CRAR of at least 9 % for preceding two completed years and the accounting year for which it proposes to declare dividend.
+- Net NPA less than 7 %. In case any bank does not meet the above CRAR norm, but is having a CRAR of at least 9 % for the accounting year for which it proposes to declare dividend, it would be eligible to declare dividend provided its Net NPA ratio is less than 5%.
+
+<!-- PAGE 2 -->
+
+ii) The bank should comply with the provisions of Sections 15 and 17 of the Banking Regulation Act, 1949.
+
+iii) The bank should comply with the prevailing regulations/ guidelines issued by RBI, including creating adequate provisions for impairment of assets and staff retirement benefits, transfer of profits to Statutory Reserves etc.
+
+iv) The proposed dividend should be payable out of the current year's profit.
+
+v) The Reserve Bank should not have placed any explicit restrictions on the bank for declaration of dividends.
+## In case any bank does not meet the above eligibility criteria no special
+
+## dispensation shall be available from the Reserve Bank.
+
+## 4. Quantum of dividend payable
+
+Banks, which fulfil the eligibility criteria set out at paragraph 3 above, may declare and paydividends, subject to the following:
+
+(i) The dividend <u>payout ratio</u> shall not exceed 40 % and shall be as per the matrix furnished in Annex 1.
+# Withdrawn
+
+[ Dividend payout ratio shall be calculated as a percentage of ‘dividend payable in a year’ (excluding dividend tax) to ‘net profit during the year’.]
+
+(ii) In case the profit for the relevant period includes any extra-ordinary profits/ income, the payout ratio shall be computed after excluding such extra-ordinary items for reckoning compliance with the prudential payout ratio.
+
+(iii) The financial statements pertaining to the financial year for which the bank is declaring a dividend should be free of any qualifications by the statutory auditors, which have an adverse bearing on the profit during that year. In case of any qualification to that effect, the net profit should be suitably adjusted while computing the dividend payout ratio.
+
+<!-- PAGE 3 -->
+
+(iv) For 2004-05 if the Investment Fluctuation Reserve is less than 4% of securities included in the HFT & AFS categories, the dividend payout ratio shall be computed with respect to the Adjusted Net Profit. [Adjusted Net Profit = Net Profit – ({4% of (HFT + AFS)} – IFR)] **The Reserve Bank will not entertain any application for a higher dividend** **payout ratio than the one for which the banks qualify.**
+
+## 5. Board Oversight
+
+A copy of these guidelines may be placed before the Board at its next meeting. Banks’ Boards should take into account the interests of <u>all</u> stake holders and the following aspects while deciding on the proposals for declaring dividend:
+
+a) the interim dividend paid,
+b) the Annual Financial Inspection findings of the Reserve Bank with regard to divergence in identification of NPAs, shortfall in provisioning, etc.,
+c) the auditors’ qualifications pertaining to the statement of accounts
+d) the Basel II capital requirements, and
+e) the bank’s long term growth plans.
+## 6. Reporting System
+
+All banks declaring dividends should report details of dividend declared during the
+
+# Withdrawn
+
+accounting year as per the proforma furnished in Annex 2. The report should be furnished within a fortnight after declaration of dividends.
+
+## 7. General
+
+The above guidelines will be applicable to the dividends declared for the accounting year ended March 31, 2005 onwards. In case any bank violates the above guidelines, the violation would be viewed very seriously and such violation would attract penal action under Section 46 of the Banking Regulation Act, 1949.
+
+8. Please acknowledge receipt.
+Yours faithfully,
+
+(Anand Sinha) Chief General Manager-in-Charge
+
+<!-- PAGE 4 -->
+
+## ANNEX 1
+
+## Matrix of Criteria for maximum permissible range of
+
+## Dividend Payout Ratio
+
+## Net NPA Ratio
+
+## Zero
+
+|More|From 3 %|From 5%|
+|---|---|---|
+|than|to less|to less|
+|zero but|than 5%|than 7 %|
+
+## Category CRAR less than
+
+**3%** **Range of Dividend Payout Ratio**
+
+|A|11% or more for each|Up to 40|Up to 35|Up to 25|Up to 15|
+|---|---|---|---|---|---|
+||of the last 3 years|||||
+|B|10% or more for each of the last 3 years|Up to 35|Up to 30|Up to 20|Up to 10|
+|C|9% or more for each of the last 3 years|Up to 30|Up to 25|Up to 15|Up to 5|
+|D|9% or more in the|||Up to 5|Nil|
+
+Up to 10 **Current year**
+
+## Notes
+
+1. Banks should have a **CRAR** of <u>at least</u> 9% for preceding two completed years and the accounting year for which it proposes to declare dividend and **Net NPA** <u>less than</u> 7% to be eligible to declare dividends. In case any bank does not meet the above CRAR norm, but is having a CRAR of at least 9 % for the accounting year for which it proposes to declare dividend, it would be eligible to declare dividend provided its Net NPA ratio is less than 5%.
+2. For 2004-05, if the Investment Fluctuation Reserve is less than 4 % of securities included in HFT & AFS categories, Dividend
+# Withdrawn
+
+Payout Ratio will be computed with respect to the Adjusted Net Profit **Adjusted Net Profit = Net Profit – [ {4% of (HFT+ AFS)} – IFR]**
+
+## <u>Illustrations</u>
+
+## Bank CRAR (%) Net NPA Category Maximum ratio (%) dividend pay-
+
+## as on out ratio (%) for March 31, which the bank 2005 would qualify
+
+## <u>2004-05 2003-04 2002-03</u>
+
+**V** 12 11 11 2.3 **A** Up to 35 **W** 12 10 11 3.8 **B** Up to 20 **X** 11 9 10 6.2 **C** Up to 5 **Y** 9 8 10 4.2 **D** Up to 5 **Z** 12 11 12 zero **A** Up to 40
+
+<!-- PAGE 5 -->
+
+## ANNEX 2
+
+## <u>Reporting format for banks declaring dividend</u>
+
+## Details of dividend declared during the financial year beginning on April 1, 20__
+
+## Name of the Bank – _________
+
+|Accountin|Net profit for|Rate of|Amount|Pay out|
+|---|---|---|---|---|
+|g period *|the accounting period (Rs. in crore)|dividend|of dividend (excludin g|ratio|
+
+## dividend tax) (Rs.
+
+**in Crore)** 1 2 3 4 5
+
+* quarter or half year or year ended ----- as the case may be
+# Withdrawn

@@ -1,0 +1,99 @@
+---
+doc_id: "Circulars_2005_DBOD_Dir_Exp_No_83_04_02_01_2004-05"
+title: "Rupee Export Credit Interest Rates"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62720.PDF"
+pdf_sha256: "5edab11f5709b8c3e0dbf41601f66c579fa883b5f3c9f0673d8758a63d79ba31"
+md_sha256: "2d31fe3927e97fb178cf9df87bff21a6e55f25e1d69e0ea73cf050439840b176"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:47:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-04-29_Circular_DBOD.Dir%28Exp%29.No.83-04.02.01-2004-05_Rupee%20Export%20Credit%20Interest%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Export Credit Interest Rates
+
+<!-- PAGE 1 -->
+
+## RBI / 2004-05/ 443 DBOD.Dir (Exp). No.83 / 04.02.01/ 2004-05 April 29, 2005
+
+The Chairmen / Chief sExecutives of all Commercial Banks
+
+Dear Sir <u>Rupee Export Credit Interest Rates</u> Please refer to our circular IECD. No. 10 / 04.02.01 / 2003-04 dated April 24, 2004 on the captioned subject.
+
+2. The validity of the interest rates on rupee export credit indicated in the above circular would now remain in force upto October 31, 2005. In this connection, you may also refer to RBI circular No. MPD.BC.264/ 07.01.279/ 2004-05 dated April 29, 2005. The rates of interest applicable have been incorporated in the Annex to the Directive DBOD. No.BC. 84/ 13.07.01/ 2004-05 dated April 29, 2005 enclosed to this circular.
+3. Please acknowledge receipt.
+## Yours faithfully
+
+## (P.VIJAYA BHASKAR)
+
+# Withdrawn
+
+Chief General Manager **Encls**: As above.
+
+<!-- PAGE 2 -->
+
+DIRECTIVE DBOD. No. BC. 84 /13.07.01/ 2004-05
+
+April 29, 2005 <u>Interest Rates on Advances</u>
+
+In exercise of the powers conferred by Sections 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that, with effect form May 1, 2005, the interest rates on rupee export credit would be as indicated in the Annex enclosed to this Directive.
+
+(Usha Thorat) Executive Director **Encl :as above**
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## <u>ANNEX</u>
+
+## Interest Rates on Rupee Export Credit of Scheduled Commercial Banks----------------------------------------------------------
+
+**Categories of export credit Interest Rates@** (Per cent per annum)
+
+Effective from May 1, 2005 to October 31, 2005
+
+1. <u>Pre-Shipment Credit</u>
+a) i) Upto 180 days Not exceeding BPLR <u>minus</u> 2.5
+percentage points ii) Beyond 180 days and Free* upto 270 days
+
+b) Against incentives Not exceeding BPLR <u>minus</u> 2.5 receivable from Government percentage points covered by ECGC guarantee upto 90 days
+2. <u>Post-Shipment Credit</u>
+a) On demand bills for transit Not exceeding BPLR <u>minus</u> 2.5 period (as specified by FEDAI) percentage points
+b) Usance Bills (for total period comprising usance period of export bills, transit period as specified by FEDAI and grace period wherever applicable)
+
+|i) Upto 90 days|Not exceeding BPLR minus 2.5|
+|---|---|
+||percentage points|
+|ii) Beyond 90 days and upto 6 months from the date of shipment|Free*|
+|c) Against incentives receivable|Not exceeding BPLR minus 2.5|
+|from Government covered by ECGC guarantee upto 90 days|percentage points|
+|d) Against undrawn balances|Not exceeding BPLR minus 2.5|
+|(upto 90 days)|percentage points|
+|e) Against retention money (for|Not exceeding BPLR minus 2.5|
+|supplies portion only) payable|percentage points|
+
+# Withdrawn
+
+within one year from the date of shipment (Upto 90 days)
+
+<!-- PAGE 4 -->
+
+|3. Deferred Credit||
+|---|---|
+|Deferred credit for the period beyond 180 days|Free*|
+|4. Export Credit Not Otherwise||
+|Specified (ECNOS)||
+|a) Pre-shipment credit|Free*|
+|b) Post-shipment credit|Free*|
+
+## BPLR : Benchmark Prime Lending rate
+
+@ **Note** : Since these are ceiling rates, banks would be free to charge any rate below the ceiling rates.
+
+* Free : The banks are free to decide the rate of interest to be charged, keeping in view the BPLR and spread guidelines
+# Withdrawn

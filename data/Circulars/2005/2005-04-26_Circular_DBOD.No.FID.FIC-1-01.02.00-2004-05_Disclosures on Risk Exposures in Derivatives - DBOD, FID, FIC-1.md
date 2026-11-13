@@ -1,0 +1,103 @@
+---
+doc_id: "Circulars_2005_DBOD_No_FID_FIC-1_01_02_00_2004-05"
+title: "Disclosures on Risk Exposures in Derivatives - DBOD, FID, FIC-1"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/62595.PDF"
+pdf_sha256: "efcb7a8b46659c59d7dbae21c654dfd80b912ae0d1c5b3dad6b33375bfc27375"
+md_sha256: "1a8e80bc385774ff18093f5e8f9ef32b0e96eec51867cfdd76a17f673c4c288b"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:47:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-04-26_Circular_DBOD.No.FID.FIC-1-01.02.00-2004-05_Disclosures%20on%20Risk%20Exposures%20in%20Derivatives%20-%20DBOD%2C%20FID%2C%20FIC-1.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Disclosures on Risk Exposures in Derivatives - DBOD, FID, FIC-1
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/436 DBOD.No.FID.FIC- 1 /01.02.00/2004-05
+
+## April, 26 2005
+
+To The CEOs of the all-India Term Lending and Refinancing Institutions (Exim Bank, IDFC Ltd., IFCI Ltd., IIBI Ltd., NABARD, NHB, SIDBI and TFCI Ltd.)
+
+## Dear Sir,
+
+## <u>Disclosures on Risk Exposures in Derivatives-DBOD.FID. FIC-1</u>
+
+The Reserve Bank has been periodically reviewing the prudential disclosures made by FI's as a part of the Notes on Accounts to the Balance Sheets. Best international practices require meaningful and appropriate disclosures of FI's exposures to risk and their strategy towards managing the risk. In this direction, it has been decided that FI's should be required to make meaningful disclosures of their derivatives portfolio.
+
+2. A minimum framework for disclosures by FI's on their risk exposures in derivatives is furnished in the Annex. The disclosure format includes both qualitative and quantitative aspects and has been devised to provide a clear picture of the exposure to risks in
+# Withdrawn
+
+derivatives, risk management systems, objectives and policies. FI's should make these disclosures as a part of the 'Notes on Accounts' to the Balance Sheet with effect from March 31, 2005 (June 30,2005 in the case of National Housing Bank).
+
+3. Please acknowledge receipt.
+Yours faithfully,
+
+(K.Prasad) Chief General Manager
+
+## Encls: as above
+
+<!-- PAGE 2 -->
+
+## <u>Annex</u>
+
+## <u>Disclosures on risk exposure in derivatives</u>
+
+## <u>Qualitative Disclosure</u>
+
+FIs shall discuss their risk management policies pertaining to derivatives with particular reference to the extent to which derivatives are used, the associated risks and business purposes served. The discussion shall also include:
+
+- the structure and organization for management of risk in derivatives trading,
+- the scope and nature of risk measurement, risk reporting and risk monitoring systems,
+- policies for hedging and / or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges / mitigants, and
+- accounting policy for recording hedge and non-hedge transactions; recognition of income, premiums and discounts; valuation of outstanding contracts; provisioning, collateral and credit risk mitigation.
+## <u>Quantitative Disclsoures</u>
+
+## (Rupees in Crore)
+
+## Sl. Particular Currency Interest rate
+
+## No Derivatives derivatives
+
+1 **Derivatives (Notional Principal** **Amount)**
+
+a) For hedging
+# Withdrawn
+
+b) For trading
+## 2 Marked to Market Positions[1]
+
+a) Asset (+)
+b) Liability (-)
+## 3 Credit Exposure [2]
+
+4 **Likely impact of one percentage** **change in interest rate (100*PV01)**
+
+a) on hedging derivatives
+b) on trading derivatives
+5 **Maximum and Minimum of 100*PV01** **observed during the year**
+
+a) on hedging
+b) on trading
+
+<!-- PAGE 3 -->
+
+<u>Note:</u>
+
+**1.** The net position may be shown either under asset or liability, as the case may be, for each type of derivatives.
+**2.** FIs may adopt the Current Exposure Method prescribed vide Circular DBS.FID.No.C- 12/01.02.00/2002-03 dated January,20,2003 on Measurement of Credit Exposure of Derivative Products. In brief the method to be adopted is as follows: In order to calculate the credit exposure equivalent of off-balance sheet interest rate and exchange rate instruments under Current Exposure Method, a FI would sum:
+- the total replacement cost (obtained by “marking to market”) of all its contracts with positive value (i.e. when the FI has to receive money from the counterparty), and
+- an amount for potential future changes in credit exposure calculated on the basis of the total notional principal amount of the contract multiplied by the following credit conversion factors according to the residual maturity of the contract : **Residual Maturity**Withdrawn**Conversion Factor to be applied on**
+## Notional Principal Amount
+
+## Interest Rate Exchange Rate
+
+## Contract Contract
+
+**Less than one year** Nil 1.0 % **One year and over** 0.5% 5.0 %
