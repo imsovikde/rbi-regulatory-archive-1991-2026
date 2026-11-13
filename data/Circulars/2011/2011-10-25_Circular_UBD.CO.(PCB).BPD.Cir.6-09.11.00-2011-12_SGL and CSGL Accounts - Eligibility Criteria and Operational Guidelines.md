@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2011_UBD_CO_PCB_BPD_Cir_6_09_11_00_2011-12"
+title: "SGL and CSGL Accounts - Eligibility Criteria and Operational Guidelines"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/6SGLCSGL1011.PDF"
+pdf_sha256: "ed363b97760bccb8aa474075a6e2eb2ec61aa376768b2e325d5b8f7fe37256d0"
+md_sha256: "e2b7e9b0229e84659fb5a1be00fc44c89cbb482a39f9fbd20da78520fdcd6d18"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:31:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-10-25_Circular_UBD.CO.%28PCB%29.BPD.Cir.6-09.11.00-2011-12_SGL%20and%20CSGL%20Accounts%20-%20Eligibility%20Criteria%20and%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# SGL and CSGL Accounts - Eligibility Criteria and Operational Guidelines
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बैंक
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+RBI/2011-12/230
+
+### UBD.CO.(PCB).BPD.Cir. 6/09.11.00/2011-12 October 25, 2011
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+SGL and CSGL Accounts – Eligibility <u>Criteria and Operational Guidelines</u>
+
+Please refer to our <u>circulars UBD.BPD.(PCB).Cir.24/12.05.001/2010-11 dated</u> <u>November 16, 2010</u> and UBD.CO.(PCB).BPD.Cir.52/09.11.00/2009-10 dated April 5, <u>2010</u> in terms of which all UCBs were advised the eligibility criteria for opening and maintenance of SGL and CSGL Accounts respectively.
+
+2. We forward herewith copies of two Noti
+# Withdrawn
+
+fications No.183 dated September 5, 2011 issued by the Reserve Bank and notified in the Gazette of India on the eligibility criteria and operational guidelines for opening <u>SGL</u> and CSGL Accounts. We advise that the eligibility criteria applicable for opening of SGL and CSGL Accounts by UCBs would continue to be the same as laid down in our above mentioned circulars.
+
+3. Please acknowledge receipt of this circular to our Regional Office concerned. Yours faithfully, (L.M.Kamble) General Manager-Officer-in-Charge
+### Encl: As above
+
+शहरी बैंक िवभाग,कें िीय कायालय र्**,** गारमेंट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत <u>फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> **Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India** **Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in** <u>बैंक िहन्दी में पऽाचार का ःवागत करता है —</u>
