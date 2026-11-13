@@ -1,0 +1,80 @@
+---
+doc_id: "Circulars_2006_DBOD_No_BL_BC_72_22_01_009_2005-2006"
+title: "Financial Inclusion by Extension of Banking Services - Use of Business Facilitators and Correspondents"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69492.PDF"
+pdf_sha256: "9deb05a1c17aa307a2afe851e908cb33bb9e8ee45d86539eece796ffa1ad8aae"
+md_sha256: "5ff835b16d29c0989f79234be6713bef8ef70e48508277d64863c72e855686cb"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T07:52:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-03-22_Circular_DBOD.No.BL.BC.72-22.01.009-2005-2006_Financial%20Inclusion%20by%20Extension%20of%20Banking%20Services%20-%20Use%20of%20Business%20Facilitators%20and%20Correspondents.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Inclusion by Extension of Banking Services - Use of Business Facilitators and Correspondents
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/331
+
+DBOD.No.BL.BC.72/22.01.009/2005-2006
+
+March22,2006
+
+Chaitra 01, 1928 (S)
+
+TheChairmen&CEOs
+
+(All Scheduled Commercial Banks including
+
+Regional Rural Banks and Local Area Banks)
+
+Dear Sir,
+
+Financial Inclusion by Extension of Banking Services - Use of Business Facilitators and
+
+Correspondents
+
+Please refer to our Circular DBOD.No.BL.BC. 58/22.01.001/2005-2006 dated January 25, 2006 on
+
+the above subject.
+
+2. In terms of the above circular, under the "Business Correspondent" Model, registered NBFCs
+
+not accepting public deposits are among the eligible entities that can be engaged as intermediaries
+
+by banks. RBl is in the process of examining the eligibility criteria, etc. of NBFCs who can be
+
+assigned the role of Business Correspondent/s by ba
+
+Pending the exercise, banks are advised
+
+WI
+
+to defer selection/use of NBFCs as Business
+
+spondent/s. However, banks can use NBFCs
+
+licensed under Section 25 of the Companies
+
+956 as Business Correspondents.
+
+Vithdrai
+
+Yours faithfully,
+
+(P. Vijaya Bhaskar)
+
+Chief General Manager
+
+400005
+
+Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005
+
+f /Tel No: 91-22-22189131 aH/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in
+
+->TMu,>,-34, f,A, celi,oS,,o,fi0—

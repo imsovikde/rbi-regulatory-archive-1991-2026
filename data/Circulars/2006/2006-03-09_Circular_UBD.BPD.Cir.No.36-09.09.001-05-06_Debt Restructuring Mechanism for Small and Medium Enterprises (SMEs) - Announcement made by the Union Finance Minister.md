@@ -1,0 +1,98 @@
+---
+doc_id: "Circulars_2006_UBD_BPD_Cir_No_36_09_09_001_05-06"
+title: "Debt Restructuring Mechanism for Small and Medium Enterprises (SMEs) - Announcement made by the Union Finance Minister"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69247.PDF"
+pdf_sha256: "d84e55bd557248f7c9d22f50f32a910cd13da8cb3dd9cbc54986e0468990ec39"
+md_sha256: "bd03026109ece94b11d5cadf8df7c97eeb2e672ff28c589cefe355ceba69f77d"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:52:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-03-09_Circular_UBD.BPD.Cir.No.36-09.09.001-05-06_Debt%20Restructuring%20Mechanism%20for%20Small%20and%20Medium%20Enterprises%20%28SMEs%29%20-%20Announcement%20made%20by%20the%20Union%20Finance%20Minister.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Debt Restructuring Mechanism for Small and Medium Enterprises (SMEs) - Announcement made by the Union Finance Minister
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/323 UBD.BPD.Cir.No.36/09.09.001/05-06 March 9, 2006
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+Debt restructuring mechanism for Small and Medium Enterprises (SMEs)
+
+- Announcement made by the Union Finance Minister As part of announcement made by the Hon'ble Finance Minister for improving flow of credit to small and medium enterprises, the following guidelines are issued for restructuring of debt of all eligible small and medium enterprises (SMEs).
+2. Definition of SMEs SMEs are as defined below: “ At present, a small scale industrial unit is an undertaking in which investment in plant and machinery does not exceed Rs.1 crore, except in respect of certain specified items under hosiery, hand tools, drugs and pharmaceuticals, stationery items and sports goods, where this investment Withdrawn limit has been enhanced to Rs. 5 crore. Units with investment in plant and machinery in excess of SSI limit and up to Rs. 10 crore may be treated as Medium Enterprises (ME). “
+3. Eligibility criteria
+(i) These guidelines would be applicable to the following entities, which are viable or potentially viable :
+a) All non-corporate SMEs irrespective of the level of dues to banks.
+b) All corporate SMEs, which are enjoying banking facilities from a single bank, irrespective of the level of dues to the bank.
+c) All corporate SMEs, which have funded and non-funded outstanding up to Rs.10 crore under multiple/ consortium banking arrangement.
+
+<!-- PAGE 2 -->
+
+(ii) Accounts involving wilful default, fraud and malfeasance will not be eligible for restructuring under these guidelines.
+
+(iii) Accounts classified by banks as “Loss Assets” will not be eligible for restructuring.
+
+(iv) In respect of BIFR cases banks should ensure completion of all formalities in seeking approval from BIFR before implementing the package.
+
+4. Viability criteria Banks may decide on the acceptable viability benchmark, consistent with the unit becoming viable in 7 years and the repayment period for restructured debt
+## not exceeding 10 years.
+
+5. Prudential norms for restructured accounts
+i) Treatment of ‘standard’ accounts subjected to restructuring
+a) A rescheduling of the instalments of principal alone, would not cause a standard asset to be classified in the sub-standard category, provided the borrower’s outstanding is fully covered by tangible security.
+b) A rescheduling of interest element would not cause an asset to be downgraded to sub-standard category subject to the condition that the amount of sacrifice, if any, in the element of interest, measured in present value terms, is either written off or provision is made to the
+# Withdrawn
+
+extent of the sacrifice involved.
+
+ii) Treatment of ‘sub-standard’ / ‘doubtful’ accounts subjected to restructuring
+
+a) A rescheduling of the instalments of principal alone, would render a ‘sub-standard’ / ‘doubtful’ asset eligible to continue in the ‘sub- standard’ / ‘doubtful’ category for the specified period ( as defined in paragraph 7 below), provided the borrower’s outstanding is fully covered by tangible security.
+b) A rescheduling of interest element would render a sub-standard / ‘doubtful’ asset eligible to be continued to be classified in sub- standard /‘doubtful’ category for the specified period subject to the condition that the amount of sacrifice, if any, in the element of interest, measured in present value terms, is either written off or provision is made to the extent of the sacrifice involved.
+
+<!-- PAGE 3 -->
+
+c) Even in cases where the sacrifice is by way of write off of the past interest dues, the asset should continue to be treated as sub-standard / ‘doubtful’.
+## iii) Treatment of Provision
+
+a) Provision made towards interest sacrifice should be created by debit to Profit & Loss account and held in a distinct account. For this purpose, the future interest due as per the current BPLR in respect of an account should be discounted to the present value at a rate appropriate to the risk category of the borrower (i.e., current PLR + the appropriate term premium and credit risk premium for the borrower- category) and compared with the present value of the dues expected to be received under the restructuring package, discounted on the same basis.
+b) Sacrifice may be re-computed on each balance sheet date till satisfactory completion of all repayment obligations and full repayment of the outstanding in the account, so as to capture the changes in the fair value on account of changes in BPLR, term premium and the credit category of the borrower. Consequently, banks may provide for the shortfall in provision or reverse the amount of excess provision held in the distinct account.
+c) The amount of provision made for NPA, may be reversed when the account is re-classified as a ‘standard asset’.
+# Withdrawn
+
+6. Additional finance Additional finance, if any, may be treated as ‘standard asset’ in all accounts viz; standard, sub-standard, and doubtful accounts, up to a period of one year after the date when first payment of interest or of principal, whichever is earlier, falls due under the approved restructuring package. If the restructured asset does not qualify for upgradation at the end of the above period, additional finance shall be placed in the same asset classification category as the restructured debt.
+7. Upgradation of restructured accounts The sub-standard / doubtful accounts at para 5 (ii) (a) & (b) above, which have been subjected to restructuring, whether in respect of principal instalment or interest, by whatever modality, would be eligible to be upgraded to the standard category after the specified period, i.e., a period of one year after the
+
+<!-- PAGE 4 -->
+
+date when first payment of interest or of principal, whichever is earlier, falls due under the rescheduled terms, subject to satisfactory performance during the period.
+
+8. Asset classification status During the specified one-year period, the asset classification status of rescheduled accounts will not deteriorate if satisfactory performance of the account is demonstrated during the period. In case, however, the satisfactory performance during the one year period is not evidenced, the asset classification of the restructured account would be governed as per the applicable prudential norms with reference to the pre-restructuring payment schedule. The asset classification would be bank-specific based on record of recovery of each bank, as per the existing prudential norms applicable to banks.
+9. Repeated restructuring The special dispensation for asset classification as available in terms of paragraphs 5, 6 and 7 above, shall be available only when the account is restructured for the first time.
+# Withdrawn
+
+10. Procedure
+(i) Based on these guidelines, banks registered under the State Acts may formulate, with the approval of the concerned Registrar of the Co- operative Societies, a debt restructuring scheme for SMEs. However, in the case of Multi State Co-operative banks, the above guidelines may be formulated with the approval of the Board of Directors. (ii) The restructuring would follow a receipt of a request to that effect from the borrowing units. (iii) In case of eligible SMEs which are under consortium/multiple banking arrangements, the bank with the maximum outstanding may work out the restructuring package, along with the bank having the second largest share.
+11. Time frame Banks should work out the restructuring package and implement the same within a maximum period of 60 days from date of receipt of requests.
+
+<!-- PAGE 5 -->
+
+12. Review Banks may review the progress in rehabilitation and restructuring of SME accounts on a quarterly basis and keep the Board and the concerned RCS informed.
+13. Disclosure It may be ensured that the scheme formulated in this regard as enumerated in para 10 above is brought to the notice of all beneficiaries. The bank may place the scheme on its website and give adequate publicity through other means. A copy may also be forwarded to SIDBI and the concerned Regional Offices of Reserve Bank of India Banks should also disclose in their published annual Balance Sheets, under "Notes on Accounts", the following information in respect of restructuring undertaken during the year for SME accounts:
+(a) Total amount of assets of SMEs subjected to restructuring. [(a) = (b)+(c)+(d)].
+(b) The amount of standard assets of SMEs subjected to restructuring.
+# Withdrawn
+
+(c) The amount of sub-standard assets of SMEs subjected to restructuring.
+(d) The amount of doubtful assets of SMEs subjected to restructuring.
+14. Please acknowledge receipt to the concerned Regional Offices of the Reserve Bank of India.
+Yours faithfully, (N.S.Vishwanathan) Chief General Manager In-Charge

@@ -1,0 +1,59 @@
+---
+doc_id: "Circulars_2006_DBOD_Dir_Exp_BC_No_61_04_02_02_WG_2005-06"
+title: "Recommendations of the Working Group to Review Export Credit"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/68703.PDF"
+pdf_sha256: "a003a7b1891d91877e5533b56a69a54bc5611c778ec03833d2922b8cd0d1f1d1"
+md_sha256: "fe8e1189a4ed98080d3b1d8c87578b72e7a8a39f64a3cf555d9d7c170124ef5d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:52:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-02-07_Circular_DBOD.Dir.%28Exp%29BC.No.61-04.02.02%28WG%29-2005-06_Recommendations%20of%20the%20Working%20Group%20to%20Review%20Export%20Credit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Recommendations of the Working Group to Review Export Credit
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/297 DBOD. Dir. (Exp) BC.No. 61/ 04.02.02 (WG)/2005-06 February 7, 2006
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+<u>Recommendations of the Working Group to Review Export Credit</u>
+
+The Reserve Bank of India had constituted a Working Group to review Export Credit, consisting of select banks and exporters' organisations, chaired by the Chief General Manager-in-Charge, Department of Banking Operations and Development, Central Office to review the various aspects of the functioning of the export credit scheme.
+
+2. In the light of the recommendations of the Working Group, banks are advised as under:
+(a)Review of the existing procedure for export credit
+(i) There is a need for attitudinal change in the approach of banks’ officials in dealing with small and medium exporters. Banks may take suitable steps in this regard. (ii) Banks should put in place a control and reporting mechanism to ensure that the applications for export credit especially from Small and Medium Exporters are disposed of within the prescribed time frame. Banks should ensure that this recommendation is implemented in letter and spirit. The internal / concurrent audit in banks should comment on whether or not the prescribed time
+# Withdrawn
+
+frame for disposal of export credit applications is being adhered to by the banks. The Regional Managers of banks during branch visits, should also look into this aspect.
+
+(iii) While processing the applications for export credit, banks should raise all queries in one shot and should avoid piece-meal queries in order to avoid delays in sanctioning credit.
+
+(iv) Small and Medium Exporters especially in the upcountry centres should be properly trained by SSI / export organizations with technical assistance from banks regarding correct filling up of forms and furnishing all required information to banks to avoid delay. Banks may take lead in getting such training sessions organized by SSI / Export organisations in their areas of operation.
+
+(v) Indian Banks Association (IBA) has been advised to devise a simplified loan application form in consultation with the Federation of Indian Export Organisations (FIEO) and other export promotion agencies. The application form devised by IBA should serve a model for all banks. (vi) Banks may evolve guidelines so that collateral security is not insisted upon as far as possible. (vii)State Level Export Promotion Committees (SLEPCs) which have been reconstituted as sub- committees of the SLBCs should play a greater role in promoting coordination between banks and
+
+<!-- PAGE 2 -->
+
+exporters, in the respective states and Export Promotion Organizations should take initiative in coordinating the meetings. Convenor banks of SLEPCs may take suitable action in this regard.
+
+(b) Review of the Gold Card Scheme
+(i) Since the number of Gold cards issued by banks is low, banks are advised to speed up the process of issue of the Cards to all the eligible exporters especially the SME exporters and ensure that the process is completed within a period of three months. Banks may confirm compliance of the above requirement to the Department of Banking Operations and Development, Central Office, Reserve Bank of India, Cuffe Parade, Mumbai-400005, specifying the total number of Gold Cards issued by them and the number of Gold Cards issued to the Small and Medium exporters and Export Oriented Units and the SEZ Units. This information may be furnished within 15 days from the date of expiry of 3 months period mentioned above. (ii) Simplified procedure for issue of Gold Cards as envisaged under the scheme should be implemented by all banks. IBA has been requested to devise a simplified format of application. The simplified format of application devised by IBA may be adopted by the banks. Information / particulars already available with the banks may not be called for from the exporters. (iii) Banks may consider implementing the instructions at para 3.4.3 of the Gold Card scheme regarding exempting all deserving Gold Card holder exporters from the Packing Credit Guarantee—Sectoral schemes of ECGC, on the basis of their track record. (c ) Review of export credit for non-star exporters Banks should post nodal officers at Regional / Zonal Offices and major branches having
+# Withdrawn
+
+substantial export credit for attending to the credit related problems of SME exporters
+
+(d) Review of other issues
+(i). The interest rates prescribed by RBI are ceiling rates. Since the banks are at liberty to charge lesser rates of interest, taking into account the cost of funds, margin requirements, risk perception etc, banks may consider extending export credit at rates lesser than the ceiling rates prescribed by RBI. (ii). Banks should give priority for the foreign currency export credit requirements of exporters over foreign currency loans to non-exporter borrowers.
+Yours faithfully,
+
+(P. Vijaya Bhaskar) Chief General Manager

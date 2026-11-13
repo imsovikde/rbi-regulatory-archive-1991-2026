@@ -1,0 +1,85 @@
+---
+doc_id: "Circulars_2006_RPCD_CO_RF_BC_No_69_07_02_03_2005-06"
+title: "Investment Portfolio of State and District Central Co-operative Banks (StCBs / DCCBs) - Irregularities observed by NABARD"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69525.PDF"
+pdf_sha256: "9775abeb5761861084d433af223f8327a1b7fbd361cb00bad3965dc1c9f46c9b"
+md_sha256: "3b759f905e610bc8767a6a852bcb73f6786c80e41140385324ec31c9de1c315c"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:52:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-03-21_Circular_RPCD.CO.RF.BC.No.69-07.02.03-2005-06_Investment%20Portfolio%20of%20State%20and%20District%20Central%20Co-operative%20Banks%20%28StCBs%20-%20DCCBs%29%20-%20Irregularities%20observed%20by%20NABARD.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment Portfolio of State and District Central Co-operative Banks (StCBs / DCCBs) - Irregularities observed by NABARD
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/329 RPCD.CO.RF.BC.No.69/07.02.03/2005-06 March 21, 2006
+
+All State and District Central Co-operative Banks (StCBs/DCCBs)
+
+Dear Sir,
+
+<u>Investment Portfolio of State and District Central Co-operative Banks</u> <u>(StCBs/DCCBs)- Irregularities observed by NABARD</u>
+
+NABARD has forwarded a list of irregularities observed in the half-yearly review of investment portfolios of StCBs/DCCBs. In this connection, your attention is invited to our guidelines listed in Annex, relating to investment portfolio of banks. The major deficiencies observed by NABARD and the steps to be taken in the matter are as under:
+
+<u>1) Many banks have not undertaken the half-yearly review of their</u> <u>investment portfolio.</u> You may diligently undertake half-yearly review of the investment portfolio. If any bank does not invest in government securities, PSU bonds etc, it should submit a 'NIL' report in this regard to the Regional Office of NABARD and RBI concerned within one month from the end of the respective half-year.
+<u>2) Some banks have not framed their investment policy.</u>
+# Withdrawn
+
+As per extant instructions, all StCBs/DCCBs have been instructed to frame their investment policy. If any bank is not undertaking investment in government securities, PSU bonds, etc, it should adopt a resolution in this regard and forward the same to Regional Office of NABARD and RBI concerned.
+
+<u>3) Some banks do not have approved panel of brokers.</u> Many StCBs/DCCBs have written that as they do not involve brokers in any transaction, no panel for the purpose has been approved. All StCBs are advised to prepare an approved panel of brokers, which can be used by all the DCCBs also as and when they undertake any transaction through any broker. No StCB/DCCB should undertake any transaction involving a broker who is not in the approved panel.
+<u>4)StCBs/DCCBs have placed funds as deposits with PSU/Companies /</u> <u>Corporations/ UCBs/NBFCs etc.</u> As you are aware, placing of funds as deposits with PSUs/ Companies/ Corporations/UCBs/NBFCs, etc is not allowed as per extant instructions. If any
+
+<!-- PAGE 2 -->
+
+bank is violating the same, it should frame a realistic time-bound programme to retire such excess investments with the approval of Regional Offices of RBI and NABARD and submit a quarterly progress report for the same.
+
+<u>5) Some StCBs/DCCBs are not submitting the quarterly certificate of</u> <u>securities actually held by them to the Regional Office of RBI.</u> All StCBs/DCCBs have been advised to submit certificate of holding of securities to the Regional Office of RBI each quarter. It should be ensured that the certificate is submitted within one month from the end of each quarter.
+<u>6) Irregularities in non-SLR investments</u> As per extant instructions, StCBs/DCCBs are allowed to place their genuine surplus funds in non-SLR investments as under:
+a) bonds of public sector undertakings
+b) bonds / equity of All-India Financial Institutions (AFIs)
+The total investment in (a) and (b) above should not exceed 10 per cent of the bank’s total deposits as on March 31 of the previous year, with a sub-ceiling of 5 per cent for investments covered under (a).
+
+Investment in mutual funds, non-PSU bonds, etc, is not allowed. If any bank has made such investments, it should frame a realistic time-bound programme to retire the same with the approval of Regional Offices of RBI and NABARD concerned and submit quarterly progress report of the same.
+
+# Withdrawn
+
+<u>7) Concurrent audit of SLR investment portfolio is not undertaken and the</u> <u>monthly audit of treasury transaction is not forwarded to NABARD/RBI.</u> All StCBs/DCCBs are advised to comply with the above requirement without fail.
+<u>8) Violation of Section 19 of the B.R.Act, 1949 (AACS), - investments in</u> <u>shares of other co-operative institutions in violation of the prescribed</u> <u>limits.</u> All StCBs/DCCBs are advised to follow the extant instructions in the matter.
+Yours faithfully,
+
+(Molina Chowdhury) Deputy General Manager
+
+<!-- PAGE 3 -->
+
+<u>ANNEX</u>
+
+<u>S.No</u> Circular number Circular date Subject 1 RPCD.CO.RF.BC September 21, Investment portfolio of banks- non- 40/07.02.03/2005-06 2005 SLR investments 2 RPCD.CO.RF.BC. August 4, Investment portfolio of banks- non- 26/07.02.03/2005-06 2005 SLR investments 3 RPCD.CO.RF.BC. July 13, 2005 Investment portfolio of State and 14/07.02.03/2005-06 District Central Co-operative
+Banks (StCBs /DCCBs) - Classification and valuation of investment
+
+|4|RPCD.CO.RF.BC.|July 13, 2005|Government Securities|
+|---|---|---|---|
+||15/07.02.03/2005-06||Transactions – T+1 Settlement|
+|5|RPCD.CO.RF.BC. 16/07.02.03/2005-06|July 13, 2005|Sale of Securities allotted in Primary issues|
+|6|RPCD.CO.RF.BC No. 19/07.02.03/2004-05|August 17, 2004|Investment of surplus funds by State/District Central Co-operative Banks- All India Financial Institutions.|
+|7|RPCD.CO.RF.BC 65/07.02.03/2003-04|February 23, 2004|Prudential guidelines on investment in non-SLR debt securities.|
+|8|RPCD.RF.BC.No 62/07.02.03/2002-03|January 20,2003|Investment in non-SLR securities by State/District Central Co-operative Banks|
+|9|RPCD.No.RF.BC 22/07.02.03/2002-03|September 27, 2002|Certification of holding of securities in bank’s investment portfolio|
+|10|RPCD.CO.RF.BC 19/07.02.03/2002-03|September 16, 2002|Investment portfolio of banks – Transactions in securities.|
+|11|RPCD.RF.BC.No 107/07.02.03/2001-02|June 18, 2002|Certification of Holding of Securities.|
+|12|RPCD.CO.RF.BC.No 98/07.37.02/2001-02|May 30, 2002|Investments in government securities.|
+|13|RPCD.CO.RF.BC 92/07.02.03/2001-02|May 18, 2002|Investment of surplus funds as deposits with urban co-operative banks.|
+|14 15|RPCD.CO.RF.BC 93/07.37.02/2001-02 ACD.BR.|May 06, 2002 March 1, 1966 Section 19 of the B.R.Act, 1949|Investment Portfolio of Banks – Transactions in Securities.|
+||388/A.11(19)/65-66||(AACS)- Restriction on holding|
+
+# <u>Withdrawn</u>
+
+shares in other co-operative societies.

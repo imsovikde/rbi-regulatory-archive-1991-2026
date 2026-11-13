@@ -1,0 +1,37 @@
+---
+doc_id: "Circulars_2006_DBOD_BP_BC_73_21_03_054_2005-06"
+title: "Bills Discounted under LC - Risk Weight and Exposure Norms"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/69569.PDF"
+pdf_sha256: "ca7e5f1097dfd5303caaae778b2f3538a3f40ced85ab330696295af4d1bc3313"
+md_sha256: "4cdbaf91ed7dbbf22372b90b65ccff488aeafcc9c3c4843241d397feb7b49679"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:52:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-03-24_Circular_DBOD.BP.BC.73-21.03.054-2005-06_Bills%20Discounted%20under%20LC%20-%20Risk%20Weight%20and%20Exposure%20Norms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Bills Discounted under LC - Risk Weight and Exposure Norms
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/332
+
+DBOD.BP.BC. 73/21.03.054/2005-06 March 24, 2006
+
+All Scheduled Commercial Banks (excluding RRBs / LABs)
+
+Dear Sir,
+
+<u>Bills discounted under LC – Risk Weight and Exposure Norms</u>
+
+Please refer to our circular DBOD.Dir.BC.62/13.07.09/2002-2003 dated January 24, 2003. In terms of para 2(iv) of the circular, the credit exposure on account of bills purchased / discounted / negotiated under LCs or otherwise should be reckoned on the bank’s borrower constituent. Accordingly, the exposure should attract a risk weight appropriate to the borrower constituent (viz. 100% for firms, individuals, corporate, etc.) for capital adequacy purposes.
+
+2. The above instructions have been reviewed and it has now been decided that :
+(i) Bills purchased / discounted / negotiated under LC (where the payment to the beneficiary is not made ‘under reserve’) will be treated as an exposureWithdrawn on the LC issuing bank and not on the borrower. (ii) All clean negotiations as indicated above in para (i) above, will be assigned the risk weight as is normally applicable to inter-bank exposures, for capital adequacy purposes. (iii) In the case of negotiations ‘under reserve’ the exposure should be treated as on the borrower and risk weight assigned accordingly.
+3. The above guidelines will come into operation with immediate effect.
+Yours faithfully, (Prashant Saran) Chief General Manager-in-Charge
