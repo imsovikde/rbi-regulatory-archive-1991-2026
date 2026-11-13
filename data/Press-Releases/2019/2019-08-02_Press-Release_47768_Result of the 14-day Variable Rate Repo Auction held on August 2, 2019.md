@@ -1,0 +1,45 @@
+---
+doc_id: "Press-Releases_2019_47768"
+title: "Result of the 14-day Variable Rate Repo Auction held on August 2, 2019"
+category: "Press-Releases"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR316B4838AD8E6664897AE09108A7E825DEB.PDF"
+pdf_sha256: "217a0f054ea7548ff462cc1a1b4f4400276c58dfde916705c24615e62f7d3bc6"
+md_sha256: "ffd646a96e4ea493229f511052d4c7400d270710534d6efa339bc8d6c84b740b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T22:07:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2019/2019-08-02_Press-Release_47768_Result%20of%20the%2014-day%20Variable%20Rate%20Repo%20Auction%20held%20on%20August%202%2C%202019.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the 14-day Variable Rate Repo Auction held on August 2, 2019
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 0वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **Department of Communication**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 022-22660502 इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## August 02, 2019
+
+## Result of the 14-day Variable Rate Repo Auction held on August 2, 2019
+
+|Tenor|14-day|
+|---|---|
+|Notified Amount (in ` billion)|250.00|
+|Total amount of bids received (in ` billion)|25.50|
+|Amount allotted (in ` billion)|25.50|
+|Cut off Rate (%)|5.76|
+|Weighted Average Rate (%)|5.76|
+|Partial Allotment Percentage of bids received at cut off rate (%)|NA|
+
+## Ajit Prasad
+
+**Press Release : 2019-2020/316** Director (Communications)

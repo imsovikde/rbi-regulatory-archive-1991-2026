@@ -1,0 +1,30 @@
+---
+doc_id: "Press-Releases_2019_47766"
+title: "Results of Underwriting Auctions Conducted on August 02, 2019"
+category: "Press-Releases"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR3134DB2AE0B058447EEAE8D6B4AF8279E4A.PDF"
+pdf_sha256: "8235ea6eec980f3ce30d7e2f24a178184dc4b00eea68c9f8066f9854616e6886"
+md_sha256: "9679b1db2356ac20e862da8d54da2aa4ecd67ab6d65a35edbec02ca5ea52b788"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T22:07:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2019/2019-08-02_Press-Release_47766_Results%20of%20Underwriting%20Auctions%20Conducted%20on%20August%2002%2C%202019.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Results of Underwriting Auctions Conducted on August 02, 2019
+
+<!-- PAGE 1 -->
+
+|||||||प्रेस प्रकाशनी PRESS RELEASE||||
+|---|---|---|---|---|---|---|---|---|---|
+||संचार वभाग, _____________________________________________________________________________________________________________________ Department of Communication In the underwriting auctions conducted on August 02, 2019|कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई, Central Office, S.B.S.Marg, Mumbai-400001 Results of Underwriting Auctions Conducted on August 02, 2019 Underwriting (ACU) of the undernoted Government securities, the Reserve Bank of India has set the cut-off rates for underwriting commission payable to Primary Dealers as given below:|- 400001 फोन/Phone: 022-22660502||0|भारतीय �रज़वर् बक RESERVE BANK OF INDIA वेबसाइट : www.rbi.org.in/hindi Website : www.rbi.org.in इ-मेल email : helpdoc@rbi.org.in August for Additional Competitive|02, 2019|(` crore)||
+|Nomenclature of the Security|Notified Amount|Minimum Underwriting Commitment (MUC) Amount|Additional Competitive Underwriting Amount Accepted|||Total Amount underwritten|Cut-off rate (paise per 100)|ACU Commission|`|
+|7.32% GS 2024|5,000|2520|2480|||5,000|0.06|||
+|7.26% GS 2029|6,000|3003|2997|||6,000|0.07|||
+|7.69% GS 2043|2,000|1008|992|||2,000|0.65|||
+|7.72% GS 2049|4,000|2016|1984|||4,000|1.5|||
+|Press Release : 2019-2020/314|Auction for the sale of securities will be held on August 02, 2019.|||||Director (Communications)|Ajit Prasad|||
