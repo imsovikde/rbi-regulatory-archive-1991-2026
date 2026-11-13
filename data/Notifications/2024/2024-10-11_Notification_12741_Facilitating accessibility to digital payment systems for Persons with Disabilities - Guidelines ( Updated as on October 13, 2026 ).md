@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2024_12741"
+title: "Facilitating accessibility to digital payment systems for Persons with Disabilities - Guidelines ( Updated as on October 13, 2026 )"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT838196C0F37571427181419D7ADF9FFCC0.PDF"
+pdf_sha256: "e4539583f96d4b24c1807d41c2af326a84ae8ef0005e2c723a77c26abcd2b969"
+md_sha256: "50589697f78555ec38c8e33ca9db7ea7f656f5cb2282123836b7bb5c2c8e5297"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-10-11_Notification_12741_Facilitating%20accessibility%20to%20digital%20payment%20systems%20for%20Persons%20with%20Disabilities%20-%20Guidelines%20%28%20Updated%20as%20on%20October%2013%2C%202026%20%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Facilitating accessibility to digital payment systems for Persons with Disabilities - Guidelines ( Updated as on October 13, 2026 )
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बकैं RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2024-25/83 CO.DPSS.POLC.No.S-708/02-12-004/2024-25 October 11, 2024 (Updated as on October 13, 2026)
+
+## All Payment System Participants
+
+Madam / Dear Sir,
+
+## <u>Facilitating accessibility to digital payment systems for Persons with Disabilities -Guidelines</u>
+
+A reference is invited to the Reserve Bank of India’s instructions on <u>Responsible Business</u> <u>Conduct for Banks</u>, as applicable to the respective bank category, which, inter alia, prescribe requirements for commercial banks to ensure equitable and accessible banking services for Persons with Disabilities. In this context, reference is also invited to ‘<u>Accessibility Standards and Guidelines for the Banking Sector</u>’ as notified by the Ministry of Finance, Government of India on February 02, 2024.
+
+2. All sections of population, including differently abled persons, are increasingly adopting digital payment systems. To promote effective access, payment system participants (PSPs, that is, banks and authorised non-bank payment system providers) are advised to review their payment systems / devices in terms of accessibility to Persons with Disabilities. Based on the review they may carry out the necessary modifications, such that all their payment systems and devices, such as Point-of-Sale machines, can be accessed and used by Persons with Disabilities with ease. In this connection, the Accessibility Standards issued by the Ministry of Finance referred to above may also be adhered to, as applicable, by all PSPs. While selecting potential solutions for the purpose, care should be taken to ensure that the modifications / enhancements do not compromise security aspects of their systems.
+3. PSPs shall submit to the Reserve Bank, within one month of the date of issue of this circular, details of their systems / devices that need to be modified, along with a time bound plan of action for achieving the same. The action plan may be sent to the Department of Payment and Settlement Systems, Reserve Bank of India at <u>dpssfeedback@rbi.org.in</u> along with details of a Nodal Officer who could be contacted, if required, for further queries / clarifications.
+4. This directive is issued under Section 18 read with Section 10 (2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007). Yours faithfully, (Gunveer Singh) Chief General Manager-in-Charge

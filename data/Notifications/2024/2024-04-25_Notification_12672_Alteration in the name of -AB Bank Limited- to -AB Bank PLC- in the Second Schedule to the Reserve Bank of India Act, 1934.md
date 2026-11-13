@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2024_12672"
+title: "Alteration in the name of \"AB Bank Limited\" to \"AB Bank PLC\" in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2665FEDF3A18AE423D813D09AEF41FD6CD.PDF"
+pdf_sha256: "8e8f12479ea994621e50d069a7469c3415c6aaf378eef0341abc7f8a45d4c4be"
+md_sha256: "243fae560e7488460389a74c69b46a02108c5839ff54d8299cd88398f463982e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-04-25_Notification_12672_Alteration%20in%20the%20name%20of%20-AB%20Bank%20Limited-%20to%20-AB%20Bank%20PLC-%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Alteration in the name of "AB Bank Limited" to "AB Bank PLC" in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक RESERVE BANK OF INDIA
+
+RBI/2024-25/26 DOR.RET.REC.18/12.07.160/2024-25 April 25, 2024
+
+## All Commercial and Co-operative Banks
+
+Madam / Dear Sir,
+
+**Alteration in the name of "AB Bank Limited" to "AB Bank PLC" in the Second Schedule** **to the Reserve Bank of India Act, 1934** It is advised that the name of "AB Bank Limited" has been changed to "AB Bank PLC" in the Second Schedule to the Reserve Bank of India Act, 1934 by Notification DOR.LIC.No.S6222/23.13.048/2023-24 dated January 25, 2024, which is published in the Gazette of India (Part III-Section 4) dated March 06, 2024.
+
+Yours faithfully,
+
+(Manoranjan Padhy) Chief General Manager
+
+________________________________________________________________________________________________________________________________________________________ िविनयमन िवभाग, क द्र ी य कायालय, 12वीं और 13वीं मंिज़ल, नरीमन भवन, नरीमन पॉइं ट, मुंबई 400021 Department of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 बक िहंदी म पत्राचार का ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

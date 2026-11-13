@@ -1,0 +1,55 @@
+---
+doc_id: "Notifications_2024_12671"
+title: "Unauthorised foreign exchange transactions"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIRSERIESCIRCULARNO02909A6DAF2C1D4EF695D8EA7622E4B8FE.PDF"
+pdf_sha256: "dd329840c6f8128b465bc271973448e60ab10ae7b6f08bc289543631311905d4"
+md_sha256: "fb267ef1f8715895912bea36c557f211fcec6f2d910b296155db7dd02faa4ea9"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-04-24_Notification_12671_Unauthorised%20foreign%20exchange%20transactions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Unauthorised foreign exchange transactions
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बैंक <u>RESERVE BANK OF INDIA</u>
+
+RBI/2024-25/25
+
+A.P. (DIR Series) Circular No.02
+April 24, 2024 To,
+
+The Authorised Dealer Category – I Banks
+
+Madam / Sir,
+
+## Unauthorised foreign exchange transactions
+
+The Reserve Bank of India (RBI) has come across instances of unauthorised entities offering foreign exchange (forex) trading facilities to Indian residents with promises of disproportionate/exorbitant returns. On investigation, it has been observed that to facilitate unauthorised forex trading, these entities have taken recourse to engaging local agents who open accounts at different bank branches for collecting money towards margin, investment, charges, etc. These accounts are opened in the name of individuals, proprietary concerns, trading firms etc. and the transactions in such accounts are not found to be commensurate with the stated purpose for opening the account in several cases. It is also observed that these entities are providing options to residents to remit/deposit funds in Rupees for undertaking unauthorised forex transactions using domestic payment systems like online transfers, payment gateways, etc.
+
+2. In this context, attention of Authorised Dealer Category-I (AD Cat-I) banks is invited to:
+a) Section 3 (a) of the Foreign Exchange Management Act (FEMA), 1999, in terms of which, no person shall deal in or transfer any foreign exchange or foreign security to any person not being an ‘Authorised Person’, unless under general or special permission of the Reserve Bank; वित्तीय बाज़ार विवियमि विभाग, कें द्रीय कायाालय, 9िी मंविल, के न्द्द्रीय कायाालय भिि, शहीद भगत स ंह मागा, फोर्ा, म ंबई – 400 001
+फोि: (91-22) 2260 1000, फै क् : (91-22) 22702290, ई-मेल: cgmfmrd@rbi.org.in Financial Markets Regulation Department, Central Office, 9thFloor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001 Tel: (91-22) 2260 1000, Fax: (91-22) 22702290, E-mail: <u>cgmfmrd@rbi.org.in</u> <u>हिन्दी आसान िै, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+b) Regulation 4 read with Schedule I of the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (<u>Notification No.</u> <u>FEMA 25/2000-RB dated May 3, 2000</u>), as amended from time to time, in terms of which, a person, whether resident in India or resident outside India, may enter into a foreign exchange derivative contract with an authorised dealer or on recognised exchanges, only;
+c) Para 3 (1) of <u>the Electronic Trading Platforms (Reserve Bank) Directions, 2018</u> <u>dated October 05, 2018</u>, in terms of which, no entity shall operate an Electronic Trading Platform (ETP) without obtaining prior authorisation of the Reserve Bank;
+d) <u>Press releases dated February 03, 2022</u>, <u>September 07, 2022</u> and <u>February</u> <u>10, 2023</u> issued by the Reserve Bank, cautioning against unauthorised forex trading platforms; and
+e) ‘<u>Alert List</u>’ issued by the Reserve Bank containing names of entities which are neither authorised to deal in forex under FEMA, 1999 nor authorised to operate ETP for forex transactions under <u>the Electronic Trading Platforms (Reserve</u> <u>Bank) Directions, 2018</u>.
+3. There is a need for greater vigilance to prevent the misuse of banking channels in facilitating unauthorised forex trading. AD Cat-I banks are, therefore, advised to be more vigilant and exercise greater caution in this regard. As and when AD Cat-I banks come across an account being used to facilitate unauthorised forex trading, they shall report the same to the Directorate of Enforcement, Government of India, for further action, as deemed fit.
+4. AD Cat-I banks may bring the contents of this circular to the notice of their constituents and customers concerned. AD Cat-I banks may advise their customers to deal in forex only with ‘Authorised Persons’ and on ‘authorised ETPs’ and give wide publicity to the list of ‘<u>Authorised Persons</u>’ and the list of ‘<u>authorised ETPs</u>’ available on the RBI website. AD Cat-I banks are also advised to give publicity to the ‘<u>Alert List</u>’ and Press Releases issued by the RBI in this regard.
+
+<!-- PAGE 3 -->
+
+5. The directions contained in this circular have been issued under sections 10(4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager

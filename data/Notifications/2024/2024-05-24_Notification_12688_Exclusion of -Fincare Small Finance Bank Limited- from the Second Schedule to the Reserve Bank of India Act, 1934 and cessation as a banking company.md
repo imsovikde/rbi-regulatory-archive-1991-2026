@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2024_12688"
+title: "Exclusion of \"Fincare Small Finance Bank Limited\" from the Second Schedule to the Reserve Bank of India Act, 1934 and cessation as a banking company"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT38E38FC9AB9EA245539F614DE46F302020.PDF"
+pdf_sha256: "4414a97904d27d690a6fa44242068891eb463568ae0d5950fdac0ce6b22257be"
+md_sha256: "a947889876ee9ee2e4a11d6ec12ed80310563c4d168d8d6462a9ea58a29c8ae5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-05-24_Notification_12688_Exclusion%20of%20-Fincare%20Small%20Finance%20Bank%20Limited-%20from%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20and%20cessation%20as%20a%20banking%20company.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exclusion of "Fincare Small Finance Bank Limited" from the Second Schedule to the Reserve Bank of India Act, 1934 and cessation as a banking company
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2024-25/38 DOR.RET.REC.23/12.07.160/2024-25 May 24, 2024
+
+## All Banks
+
+Madam / Dear Sir,
+
+## Exclusion of “Fincare Small Finance Bank Limited” from the Second Schedule to the
+
+## Reserve Bank of India Act, 1934 and cessation as a banking company
+
+It is informed that “Fincare Small Finance Bank Limited” has been excluded from the Second Schedule to the Reserve Bank of India Act, 1934 with effect from April 01, 2024, as the bank has ceased to carry on banking business with effect from April 01, 2024 vide Notification DOR.HOL.No.S173/16-02-003/2024-25 dated April 08, 2024, which is published in the Gazette of India (Part III-Section 4) dated May 14, 2024.
+
+Yours faithfully,
+
+(Latha Vishwanath) Chief General Manager
+
+________________________________________________________________________________________________________________________________________________________ िविनयमन िवभाग, कें द्र ी य कायार्लय, 12वीं और 13वीं मंिज़ल, नरीमन भवन, नरीमन पॉइं ट, मुंबई 400021 Department of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 बैंक िहंदी में पत्राचार का ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

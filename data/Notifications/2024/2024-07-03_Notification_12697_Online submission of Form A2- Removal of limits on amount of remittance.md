@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2024_12697"
+title: "Online submission of Form A2: Removal of limits on amount of remittance"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/12APDIR030720245720DBC684E04D6D87BC44340C925C4B.PDF"
+pdf_sha256: "af70d11f2be51bd5df030645bacd311f31a9a0d485c574c14c3bea3d87cfae83"
+md_sha256: "2559096468043f7ca5b155fda2edc6a669447c8fcc2c1d144e241f425091d90a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-07-03_Notification_12697_Online%20submission%20of%20Form%20A2-%20Removal%20of%20limits%20on%20amount%20of%20remittance.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Online submission of Form A2: Removal of limits on amount of remittance
+
+<!-- PAGE 1 -->
+
+**भारतीय रज़वर् बैंक** RESERVE BANK OF INDIA <u>www.rbi.org.in</u> RBI/2024-25/46
+
+A.P. (DIR Series) Circular No. 12 July 03, 2024 To All Authorised Dealers in Foreign Exchange
+## Madam / Dear Sir
+
+## Online submission of Form A2: Removal of limits on amount of remittance
+
+Attention of Authorised Dealer (AD) Category-I banks and AD Category-II entities is invited to paragraph 4 of <u>A.P. (DIR Series) Circular No. 50 dated February 11, 2016</u> (Compilation of R-Returns: Reporting under FETERS) and <u>A.P. (DIR Series) Circular</u> <u>No. 02 dated April 12, 2023</u> (Authorised Dealers Category-II – Online Submission of Form A2), wherein AD Category-I banks and AD Category-II entities were permitted to allow submission of Form A2 through online mode by their customers, subject to certain conditions and limits.
+
+2. On a review, and to improve ease of doing business, it is now decided to permit all Authorised Dealers (AD Category-I banks and AD Category-II entities) to facilitate remittances on the basis of online / physical submission of Form A2 and other related documents, if and as may be necessary, subject to the conditions laid down in Section 10(5) of FEMA 1999. Accordingly, there shall not be any limit on the amount being remitted on the basis of ‘online’ Form A2.
+3. Authorised Dealers shall frame appropriate guidelines for the purpose, with the approval of their Board within the ambit of extant statutory and regulatory framework. The Authorised Dealers shall continue to comply with the relevant provisions of FEMA 1999 and ‘<u>Master Direction – Know Your Customer (KYC) Direction, 2016</u>’ as updated from time to time, issued by Department of Regulation, RBI, for all transactions. It may be further noted that reporting of transactions in FETERS shall continue, as hitherto, by the Authorised Dealer banks.
+4. Authorised Dealers may bring the contents of this circular to the notice of their constituents.
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+## Yours faithfully
+
+(N. Senthil Kumar) General Manager

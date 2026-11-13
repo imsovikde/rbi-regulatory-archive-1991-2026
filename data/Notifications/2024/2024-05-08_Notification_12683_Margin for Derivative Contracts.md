@@ -1,0 +1,87 @@
+---
+doc_id: "Notifications_2024_12683"
+title: "Margin for Derivative Contracts"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIRMARGINFORDERIVATIVECONTRACTS510D25D5E922401ABB3415821EF532F5.PDF"
+pdf_sha256: "cec1819019743cc86e85839fe388b1c9c9aaa503539a6cb9387fee4688639ccf"
+md_sha256: "3de3ca10fe478ebb95dac6a8cb4bb4a3486a8888eb358937c91f39931292541f"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-05-08_Notification_12683_Margin%20for%20Derivative%20Contracts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Margin for Derivative Contracts
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक RESERVE BANK OF INDIA
+
+RBI/2024-25/34
+
+A. P. (DIR Series) Circular No.05 May 08, 2024 To,
+## The Authorised Dealers
+
+Madam/Sir,
+
+## Margin for Derivative Contracts
+
+Attention of Authorised Dealers is invited to the Foreign Exchange Management (Margin for Derivative Contracts) Regulations, 2020 notified in the Gazette of India vide <u>notification no. FEMA.399/RB-2020 dated October 23, 2020</u>, the amendment to the Foreign Exchange Management (Margin for Derivative Contracts) Regulations, 2020 notified in the Gazette of India vide <u>notification no. FEMA.399(1)/2024-RB dated April 30,</u> <u>2024</u> and the <u>A. P. (DIR Series) Circular No. 10 dated February 15, 2021</u> on Margin for Derivative Contracts.
+
+2. The <u>A. P. (DIR Series) Circular No.10 dated February 15, 2021</u> on Margin for Derivative Contracts were issued to allow posting and collection of margin for permitted derivative contracts between a person resident in India and a person resident outside India. The instructions have been reviewed based on market feedback and the <u>Reserve Bank of</u> <u>India (Margin for Derivative Contracts) Directions, 2024</u> are being issued herewith.
+3. These Directions shall come into force with immediate effect and shall supersede the <u>A. P. (DIR Series) Circular No. 10 dated February 15, 2021</u>. वत्तीय बाज़ार व�नयमन वभाग, कद्रय कायार्लय, पहल मंिजल, मुख्य भवन, शहद भगत संह मागर्, फोटर्, मुंबई ñ 400 001, भारत Financial Markets Regulation Department, Central Office, 9th Floor, Central Office Building, Shahid Bhagat Singh Road,
+Fort, Mumbai – 400 001, India फोन/Tel: (91-22) 2260 3000, फै क् स /Fax: (91-22) 22702290, ई-मेल /E-Mail: cgmfmrd@rbi.org.in <u>�हन्द आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+4. For the purpose of these Directions, Authorised Dealers shall mean Authorised Dealer Category-I (AD Cat-I) banks and Authorised Dealer Category – III Standalone Primary Dealers (AD Cat-III SPDs).
+5. The Directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## FINANCIAL MARKETS REGULATION DEPARTMENT
+
+## A. P. (DIR Series) Circular No.06 dated May 08, 2024
+
+## Reserve Bank of India (Margin for Derivative Contracts) Directions, 2024
+
+The Reserve Bank of India, in exercise of the powers conferred under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) hereby issues the following Directions.
+
+## 1. Short title, Commencement and applicability of the Directions
+
+(i) These Directions shall be called the Reserve Bank of India (Margin for Derivative Contracts) Directions, 2024.
+(i) These Directions shall come into force with immediate effect. (ii) These Directions shall apply to Authorised Dealer Category-I (AD Cat-I) banks and Authorised Dealer Category – III Standalone Primary Dealers (AD Cat-III SPDs).
+## 2. Definitions
+
+2.1 In these Directions, unless the context otherwise requires:
+(i) “Permitted derivative contract” shall have the same meaning as assigned to it in the Foreign Exchange Management (Margin for Derivative Contracts) Regulations, 2020 (<u>Notification no. FEMA.399/RB-2020 dated October 23, 2020</u>), as amended from time to time. (ii) “Certificate of Deposit” shall have the meaning assigned in paragraph 2(a)(iii) of the <u>Master Direction – Reserve Bank of India (Certificate of Deposit) Directions, 2021 dated</u> <u>June 04, 2021</u>, as amended from time to time. (iii) “Commercial Paper” shall have the meaning assigned in paragraph 2(a)(iv) of the <u>Master Direction -Reserve Bank of India (Commercial Paper and Non-Convertible</u> <u>Debentures of original or initial maturity upto one year) Directions, 2024 dated January</u> <u>03, 2024</u>, as amended from time to time.
+2.2 Words and expressions used, but not defined in these Directions, shall have the same meaning as assigned to them in the Act and Rules / Regulations issued thereunder.
+
+<!-- PAGE 4 -->
+
+3. Authorised Dealers may:
+(i) Post and collect margin, in India and outside India, for a permitted derivative contract entered into with a person resident outside India and receive and pay interest on such margin; and (ii) Post and collect margin, in India and outside India, for derivative transactions of their overseas branches and IFSC Banking Units and receive and pay interest on such margin.
+4. Authorised Dealer Category-I banks may post and collect margin, in India and outside India, on behalf of their customers for a permitted derivative contract entered into with a person resident outside India and receive and pay interest on such margin.
+5. Margin posted and collected in India shall be in the form of:
+(i) Indian currency; (ii) Freely convertible foreign currency; (iii) Debt securities issued by Indian Central Government and State Governments; (iv) Rupee bonds issued by persons resident in India which are:
+(a) Listed on a recognized stock exchange in India; and
+(b) Assigned a credit rating of AAA issued by a rating agency registered with the Securities and Exchange Board of India. If different ratings are accorded by two or more credit rating agencies, then the lowest rating shall be reckoned.
+(v) Certificate of Deposits; and (vi) Commercial Papers which are assigned a minimum credit rating of A1 issued by a rating agency registered with the Securities and Exchange Board of India. If different ratings are accorded by two or more credit rating agencies, then the lowest rating shall be reckoned.
+6. Margin posted and collected outside India shall be in the form of:
+(i) Freely convertible foreign currency; and (ii) Debt securities issued by foreign sovereigns with a credit rating of AA- and above issued by S&P Global Ratings / Fitch Ratings or Aa3 and above issued by Moody’s Investors Service. If different ratings are accorded by two or more credit rating agencies, then the lowest rating shall be reckoned.
+
+<!-- PAGE 5 -->
+
+7. In case of Authorised Dealers choosing to comply with the margin requirements of a foreign jurisdiction for Non-Centrally Cleared Derivative (NCCD) transactions with a person resident outside India or for NCCD transactions between two Authorised Dealers, at least one of which is a branch of a foreign bank, in terms of Para 11 of the <u>Master</u> <u>Direction – Reserve Bank of India (Margining for Non-Centrally Cleared OTC Derivatives)</u> <u>Directions, 2024</u>:
+(i) Authorised Dealer may post and collect margin outside India, and receive and pay interest on such margin in the form and manner permitted by the laws and regulations of the foreign jurisdiction; and (ii) Posting and collection of margin and receipt and payment of interest on such margin may be undertaken by the Authorised Dealer or by its overseas branches or head office (including its overseas branches) as part of a global margin arrangement.
+8. Authorised Dealer Category-I banks shall maintain a separate account in the name of persons resident outside India for the purpose of posting and collecting cash margin in India, and transactions incidental thereto.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager

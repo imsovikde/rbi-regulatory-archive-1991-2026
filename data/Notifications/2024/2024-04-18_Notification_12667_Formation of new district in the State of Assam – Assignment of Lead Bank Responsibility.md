@@ -1,0 +1,28 @@
+---
+doc_id: "Notifications_2024_12667"
+title: "Formation of new district in the State of Assam – Assignment of Lead Bank Responsibility"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT220497AA3BFAEE4243B29D9FD985F3EB06.PDF"
+pdf_sha256: "8416ba897e6337346e7a7291000b1e355bcab78c76accd78f5ebb3d84223e127"
+md_sha256: "cd5f0ff6342518528690fabe8c1543956ac32ddba03a5e072bcef366a93730d2"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-04-18_Notification_12667_Formation%20of%20new%20district%20in%20the%20State%20of%20Assam%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new district in the State of Assam – Assignment of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+||||||||||बेटी बचाओ बेटी पढ़ाओ|
+|---|---|---|---|---|---|---|---|---|---|
+||RBI/2024-25/22 Lead Banks Concerned Madam/ Dear Sir,|FIDD.CO.LBS.BC.No.05/02.08.001/2024-25 Assignment of Lead Bank Responsibility|The Chairman / Managing Director & Chief Executive Officer Formation of new district in the State of Assam – has been decided to designate the Lead Bank of the new district as below:||भारतीय रज़व ______________________ RESERVE BANK OF INDIA________________________ www.rbi.org.in The Government of Assam has notified formation of a new district, viz., Tamulpur in the state of Assam vide Gazette Notification ECF.No.367433/27 dated September 07, 2023. Accordingly, it|बक|||April 18, 2024|
+|Sr No||Newly Created District|||Lead Bank Responsibility assigned to|||allotted to new district|District Working Code|
+|1||Tamulpur|||State Bank of India|||02Q numeral two, alphabet Q’)|(to be read as ‘numeral zero,|
+||Yours faithfully, (Nisha Nambiar)|Chief General Manager-in-Charge||2. There is no change in the Lead Banks of the other districts in the state of Assam.||||||
+|“चेतावनी : Caution:|रज़वर् बक द्वारा|व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, टेल Tel:022-22601000 फै क्सः मेल, डाक, offers funds to anyone. Please do not respond in any manner to such offers.|�हंद आसान धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए।"|Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh|कद्रय कायार्लय भवन, 91-22-22621011/22610943/22610948 है, इसका प्रयोग बढ़ाइए। एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौरा, RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or|ई -मेल|शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014, :|cgmincfidd@rbi.org.in|मुंबई -400001 Marg, P.B.No.10014, Mumbai-1 पासवडर् आ�द नहं मांगी जाती है। यह|

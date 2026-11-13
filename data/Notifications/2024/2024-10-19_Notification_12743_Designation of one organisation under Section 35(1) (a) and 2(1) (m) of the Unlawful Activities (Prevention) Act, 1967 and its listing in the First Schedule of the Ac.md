@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2024_12743"
+title: "Designation of one organisation under Section 35(1) (a) and 2(1) (m) of the Unlawful Activities (Prevention) Act, 1967 and its listing in the First Schedule of the Act- Reg."
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT84C2136375F75045ABBBF01CADB0CE81A5.PDF"
+pdf_sha256: "6c246026337fe85c7a661f67728869513e090e522ec51e42a5adc2324cf5e0e6"
+md_sha256: "8a440fd485b4150641cf4533d53c7a8488e5170d2120f2675426b44ad83d2ed9"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-10-19_Notification_12743_Designation%20of%20one%20organisation%20under%20Section%2035%281%29%20%28a%29%20and%202%281%29%20%28m%29%20of%20the%20Unlawful%20Activities%20%28Prevention%29%20Act%2C%201967%20and%20its%20listing%20in%20the%20First%20Schedule%20of%20the%20Ac.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Designation of one organisation under Section 35(1) (a) and 2(1) (m) of the Unlawful Activities (Prevention) Act, 1967 and its listing in the First Schedule of the Act- Reg.
+
+<!-- PAGE 1 -->
+
+RBI/2024-25/84 DOR.AML.REC.48/14.06.001/2024-25 October 19, 2024
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir, **Designation of one organisation under Section 35(1) (a) and 2(1) (m) of the** **Unlawful Activities (Prevention) Act, 1967 and its listing in the First** <u>Schedule of</u> **the Act- Reg.**
+
+In terms of Section 51(c) of our <u>Master Direction on Know Your Customer dated February</u> <u>25, 2016</u> as amended on January 04, 2024, *“The procedure laid down in the UAPA Order* *dated February 2, 2021 (Annex II of this Master Direction) shall be strictly followed and* *meticulous compliance with the Order issued by the Government shall be ensured.”* Further, Section 51(b) of the aforementioned Master Direction states that, “*Details of* *accounts resembling any of the individuals/entities in the lists shall be reported to FIU-* *IND apart from advising Ministry of Home Affairs as required under UAPA notification* *dated February 2, 2021 (Annex II of this Master Direction)”.* In this regard, it is reiterated that the UAPA Order in Annex II of the <u>MD on KYC, 2016</u> shall also apply to amendments carried out in Schedule IV and I of the UAPA, 1967 apart from the UNSC lists mentioned in the Order.
+
+2. In this connection, please refer to the Gazette notification dated October 10, 2024 of the MHA in respect of one organization which has been declared as ‘Terrorist Organsiation’ and has been listed in the Schedule I of the UAPA 1967, under Section 35
+(1) (a) and 2(1) (m) of UAPA 1967. The Statutory Order (S.O.) number and the respective entry are as provided below:
+## S.O. Number Entries
+
+4391(E) “45. Hizb-Ut-Tahrir (HuT)' and all its manifestations and front organisations”
+
+िविनयमन िवभाग, कें द्र ी य कायार्लय, 12वीं और13वीं मंिज़ल, नरीमन भवन, िवनय के शाह मागर्, नरीमन पॉइंट के पास, मुंबई-400021 Department of Regulation, Central Office, 12th& 13thFloor, Nariman Bhavan, Vinay K Shah Marg, Near Nariman Point, Mumbai – 400021 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+3. Regulated Entities (REs) are advised to take note of the aforementioned Gazette notification issued by MHA for necessary compliance. REs shall also take note of any future amendments to Schedule I of the UAPA, 1967, for immediate necessary compliance. Yours faithfully, (Veena Srivastava) Chief General Manager
