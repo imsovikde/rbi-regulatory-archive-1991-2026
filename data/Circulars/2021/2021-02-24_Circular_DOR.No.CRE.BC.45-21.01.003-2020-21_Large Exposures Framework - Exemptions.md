@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2021_DOR_No_CRE_BC_45_21_01_003_2020-21"
+title: "Large Exposures Framework - Exemptions"
+category: "Circulars"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT104B18B864DB546470F94BBBD241515EB6C.PDF"
+pdf_sha256: "f5136a9485b634cdd3aaaa60301f20ff0a6fff55d2c41bbae8ecc4f0a7051461"
+md_sha256: "227951dafbd67085779dddd2ff0d04205864c63e6986473e5af02794f6da40ce"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:44:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2021/2021-02-24_Circular_DOR.No.CRE.BC.45-21.01.003-2020-21_Large%20Exposures%20Framework%20-%20Exemptions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Large Exposures Framework - Exemptions
+
+<!-- PAGE 1 -->
+
+भारतीय रजवर् बक **__________________RESERVE BANK OF INDIA _________________** <u>www.rbi.org.in</u>
+
+RBI/2020-21/104 DOR.No.CRE.BC.45/21.01.003/2020-21 February 24, 2021
+
+All Scheduled Commercial Banks (Excluding Small Finance Banks, Payments Banks Local Area Banks and Regional Rural Banks)
+
+Dear Sir/Madam,
+
+## Large Exposures Framework – Exemptions
+
+Please refer to <u>circular No.DBR.No.BP.BC.43/21.01.003/2018-19 dated June 03, 2019</u> on Large Exposures Framework (LEF)
+
+2. Paragraph 3 of the Annex to the above circular specifies the exposures that are exempt from the LEF. On a review, it has been decided to further exempt the following exposures from the LEF:
+- Exposures to foreign sovereigns or their central banks that are:
+# Withdrawn
+
+i. subject to a 0% risk weight under Table 2 of paragraph 5.3.1 of the <u>Master</u> <u>Circular – Basel III Capital Regulations dated July 1, 2015</u>, as modified vide circular dated October 8, 2015; and, ii. denominated in the domestic currency of that sovereign and met out of resources of the same currency.
+Yours faithfully,
+
+(Manoranjan Mishra) Chief General Manager
+
+______________________________________________________________________ िविनयमन िवभाग, क �ीय कायार्लय, क �ीय कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001 टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान है, इसका �योग बढ़ाइए
