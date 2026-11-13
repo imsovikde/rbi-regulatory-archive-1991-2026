@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2014_RPCD_RRB_RCB_AML_BC_No_12_07_51_018_2014-15"
+title: "Know Your Customer (KYC) / Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for Banks' Customers in India"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/12UCICE030714.PDF"
+pdf_sha256: "091d4a6830fac8818bd2c60ecd908e5f088e8d594d0806954560070a6a52d5fa"
+md_sha256: "d263f20f34f4bef44bd1593aab1efd7b10c5dfcf6dda9d9658bcf0e12d6cfbf2"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:18:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-07-03_Circular_RPCD.RRB.RCB.AML.BC.No.12-07.51.018-2014-15_Know%20Your%20Customer%20%28KYC%29%20-%20Anti-Money%20Laundering%20%28AML%29%20-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-%20Unique%20Customer%20Iden.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) / Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for Banks' Customers in India
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/115 RPCD.RRB.RCB.AML.BC.No. 12 /07.51.018/2014-15 July 03, 2014
+
+The Chairmen / Chief Executive Officers All Regional Rural Banks (RRBs) and State/Central Cooperative Banks (StCBs/CCBs)
+
+Madam/Dear Sir,
+
+**Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines-Unique Customer Identification Code (UCIC) for**
+
+## banks’ customers in India
+
+Please refer to our <u>circular RPCD.CO.RRB.RCB.AML.BC.No.82/03.05.33(E)/2011-</u> <u>12 dated June 11, 2012</u>, on the captioned subject, advising RRBs and StCBs/CCBs to initiate steps for allotting UCIC to all their customers while entering into any new relationships for individual customers to begin with, and to existing individual customers by end-May 2013. The period for completion of allotment of UCIC was extended upto March 31, 2014, vide our <u>circular RPCD.RCB.RRB.AML.BC.No.76/07.51.018/2012-</u>
+
+# Withdrawn
+
+<u>13 dated June 04, 2013</u>.
+
+2. In this regard, it has come to the notice of Reserve Bank that some banks are yet to complete the allotment of UCIC and accordingly have sought some more time. In view the requests received, it has been decided to extend the time for completing the process of allotting UCIC to existing customers up to December 31, 2014.
+3. RRBs and StCBs/CCBs are, therefore, advised to expedite the procedure and complete the work of allotting UCIC to all the existing individual customers, within the stipulated timeframe. They may chalk out a plan for completing the work and furnish the monthly progress report to their Board. Considering the fact that a period of two years has been allotted for completion of the task, no further extension in this regard would be considered. �ामीण आयोजना और ऋण िवभाग,क�ीय कायालय, 10व मंिज़ल, क�ीय कायालय भवन,शहीद भगत �सह माग.पो.बा.सं.10014, मुंबई 400 001
+टेलीफोन:Tel: 022-22601000 फै स Fax: 91-22-22621011/22610948 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department,Central Office, 10th Floor, Central Office Building, S. B. S. Marg,P. Box No.10014, Mumbai 400001 चेतावनी: रज़व बक ारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी य��गत जानकार जैसे बक के खाते का यौरा**,** पासवड आद नहं मांगी जाती है। यह धन रखने या देने का ताव भी नहं करता है। ऐसे ताव का कसी भी तरके से जवाब मत द��जए। **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords,** **etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**
+
+<!-- PAGE 2 -->
+
+4. It is mandatory for RRBs and StCBs/CCBs to comply with these instructions and non- compliance would invite penal consequences. Yours faithfully, (A. Udgata) Principal Chief General Manager Withdrawn
