@@ -1,0 +1,90 @@
+---
+doc_id: "Press-Releases_2020_49648"
+title: "Money Market Operations as on April 08, 2020"
+category: "Press-Releases"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2196BD07A593294143EDAE43A158AC3687E7.PDF"
+pdf_sha256: "8139b792d4e3fa548970806a3164f2065a8a9f5aeb3ff259e8e81b4a51011349"
+md_sha256: "2200d38569246e18507a1f02038c2a42c0d6258daf8f935fca918e6ca9b46a1b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T22:36:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2020/2020-04-09_Press-Release_49648_Money%20Market%20Operations%20as%20on%20April%2008%2C%202020.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on April 08, 2020
+
+<!-- PAGE 1 -->
+
+## <u>�ेस �काशनी PRESS RELEASE</u>
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+संचार िवभाग, क � ी य कायार्लय, एस.बी.एस.मागर्, मुंबई**-**400001 0वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **Department of Communication,** Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 022- 22660502 ई-मेल/email **:** <u>helpdoc@rbi.org.in</u>
+
+## April 09, 2020
+
+## Money Market Operations as on April 08, 2020
+
+(Amount in Rupees Crore, Rate in Per cent)
+
+||@ MONEY MARKETS|Volume (One Leg)|Weighted Average Rate|Range|
+|---|---|---|---|---|
+|A.|Overnight Segment (I+II+III+IV)|2,65,574.67|2.45|0.01-5.25|
+||I. Call Money II. Triparty Repo|11,021.24 1,79,132.10|4.25 2.22|2.40-5.25 1.50-4.10|
+||III. Market Repo IV. Repo in Corporate Bond|74,671.33 750.00|2.72 5.00|0.01-4.25 5.00-5.00|
+|B.|Term Segment||||
+||I. Notice Money**|209.70|3.85|3.10-5.00|
+||@@ II. Term Money|602.05|-|3.30-5.00|
+||III. Triparty Repo|1,150.00|3.75|3.25-4.00|
+||IV. Market Repo V. Repo in Corporate Bond|4,229.00 1,150.00|4.71 5.00|4.50-4.75 5.00-5.00|
+
+||@ RBI OPERATIONS|Auction Date|Tenor (Days)|Maturity Date|Amount|Current Rate/Cut off Rate|
+|---|---|---|---|---|---|---|
+|||C. Liquidity Adjustment Facility (LAF) & Marginal Standing Facility (MSF)|||||
+|I|1. Fixed Rate (i) Reverse Repo & 2. Variable Rate (I) Main Operation (a) Reverse Repo (II) Fine Tuning Operations (a) Repo|Today's Operations Wed, 08/04/2020|1|Thu, 09/04/2020|5,76,741.00|4.00|
+||(b) Reverse Repo|-|-|-|-|-|
+||3. MSF|Wed, 08/04/2020|1|Thu, 09/04/2020|7,552.00|4.65|
+||4. Long-Term Repo Operations|-||-||-|
+||5. Targeted Long Term Repo Operations 6. Net liquidity injected from today's operations [injection (+)/absorption (-)]*||||-5,69,189.00||
+
+<!-- PAGE 2 -->
+
+|II||Outstanding Operations|||||
+|---|---|---|---|---|---|---|
+||1. Fixed Rate||||||
+||(i) Reverse Repo|-|-|-|-|-|
+||& 2. Variable Rate||||||
+||(I) Main Operation (a) Reverse Repo|Fri, 27/03/2020|13|Thu, 09/04/2020|1,18,029.00|4.39|
+||(II) Fine Tuning Operations (a) Repo|Tue, 24/03/2020|16|Thu, 09/04/2020|46,160.00|5.16|
+||(b) Reverse Repo|-|-|-|-|-|
+||3. MSF|-|-|-|-|-|
+||4. Long-Term Repo Operations|Mon, 24/02/2020|365|Tue, 23/02/2021|25,021.00|5.15|
+|||Mon, 17/02/2020|1095|Thu, 16/02/2023|25,035.00|5.15|
+|||Mon, 02/03/2020|1094|Wed, 01/03/2023|25,028.00|5.15|
+|||Mon, 09/03/2020|1093|Tue, 07/03/2023|25,021.00|5.15|
+|||Wed, 18/03/2020|1094|Fri, 17/03/2023|25,012.00|5.15|
+||5. Targeted Long Term Repo Operations|Fri, 27/03/2020|1092|Fri, 24/03/2023|25,009.00|4.40|
+|||Fri, 03/04/2020|1095|Mon, 03/04/2023|25,016.00|4.40|
+|D.|Standing Liquidity Facility (SLF) $ Availed from RBI||||5,647.44||
+|E.|Net liquidity injected from outstanding operations [injection (+)/absorption (-)]* F. Net liquidity injected (outstanding including today's operations) [injection (+)/absorption (-)]*||||1,08,920.44 -4,60,268.56||
+
+<u>RESERVE POSITION</u> **@**
+
+|G.|Cash Reserves Position of Scheduled Commercial Banks|||
+|---|---|---|---|
+||(i) Cash balances with RBI as on (ii) Average daily cash reserve requirement for the fortnight ending|April 08, 2020 April 10, 2020|4,01,754.48 4,11,781.00|
+|H.|¥ Government of India Surplus Cash Balance Reckoned for Auction as on|April 08, 2020|0.00|
+|I.|Net durable liquidity [surplus (+)/deficit (-)] as on|March 13, 2020|2,61,748.00|
+
+@ Based on Reserve Bank of India (RBI) / Clearing Corporation of India Limited (CCIL). -Not Applicable / No Transaction ** Relates to uncollateralized transactions of 2 to 14 days tenor. @@ Relates to uncollateralized transactions of 15 days to one year tenor $ Includes refinance facilities extended by RBI & As per the <u>Press Release: 2019-2020/1900 dated February 06, 2020</u> ¥ As per the <u>Press Release No. 2014-2015/1971 dated March 19, 2015</u>
+
+* Net liquidity is calculated as Repo+MSF+SLF-Reverse Repo
+## Ajit Prasad
+
+**Press Release : 2019-2020/2196** Director
