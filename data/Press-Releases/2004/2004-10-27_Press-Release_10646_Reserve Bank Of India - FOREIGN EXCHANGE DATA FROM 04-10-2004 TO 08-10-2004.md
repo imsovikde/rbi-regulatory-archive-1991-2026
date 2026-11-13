@@ -1,0 +1,36 @@
+---
+doc_id: "Press-Releases_2004_10646"
+title: "Reserve Bank Of India - FOREIGN EXCHANGE DATA FROM  04/10/2004 TO 08/10/2004"
+category: "Press-Releases"
+year: 2004
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/57150.pdf"
+pdf_sha256: "9497ad349102258d4fedf313c83e5b24ef01f95a882d1c1355bc46f2e721456f"
+md_sha256: "d221a6ad8ceb8aa5d57dfbd08a532d5240f781f5e363457e438b1f60b2e7eda4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T15:36:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-10-27_Press-Release_10646_Reserve%20Bank%20Of%20India%20-%20FOREIGN%20EXCHANGE%20DATA%20FROM%2004-10-2004%20TO%2008-10-2004.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank Of India - FOREIGN EXCHANGE DATA FROM  04/10/2004 TO 08/10/2004
+
+<!-- PAGE 1 -->
+
+## Reserve Bank Of India-FOREIGN EXCHANGE DATA FROM 27/09/2004 TO 01/10/2004
+
+## All Figures are in USD Millions
+
+## MERCHANT INTER BANK
+
+## FCY/INR FCY/FCY FCY/INR FCY/FCY
+
+## POSITION SPOT FORWD FORWD SPOT FORWD FORWD SPOT SWAP FORWD SPOT SWAP FORWD
+
+## DATE CANCEL CANCEL
+
+## PURCHASES
+
+04/10/2004 562 205 22 11 47 61 1,073 1,217 71 621 153 7 05/10/2004 581 220 101 15 64 64 994 1,263 67 586 374 5 06/10/2004 583 264 78 35 74 69 1,124 1,197 59 648 165 4 07/10/2004 449 234 41 10 78 42 906 1,231 180 398 158 24 08/10/2004 626 251 52 18 28 55 1,132 983 98 553 268 25 **SALES** 04/10/2004 570 196 159 18 34 39 1,022 1,225 88 626 160 7 05/10/2004 510 240 124 15 62 50 951 1,407 155 611 326 3 06/10/2004 581 192 168 40 78 47 1,027 1,247 139 660 217 2 07/10/2004 424 229 125 9 89 50 850 1,073 184 429 174 29 08/10/2004 561 281 194 15 40 54 1,036 982 102 536 282 10
