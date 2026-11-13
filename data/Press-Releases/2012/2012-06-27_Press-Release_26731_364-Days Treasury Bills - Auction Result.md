@@ -1,0 +1,52 @@
+---
+doc_id: "Press-Releases_2012_26731"
+title: "364-Days Treasury Bills : Auction Result"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR2075TB0612.pdf"
+pdf_sha256: "86f65816c6b8af87803e1bb2450bdd008d5bad92d2fdfcb3f8fb66e852a7bed4"
+md_sha256: "cc28f8762ddff56a72a037a5c612c88f4253d3457c2e07b23e60c020c780e331"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:01:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-06-27_Press-Release_26731_364-Days%20Treasury%20Bills%20-%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 364-Days Treasury Bills : Auction Result
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय िरज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार िवभाग,** कद्रीय कायार्लय, एस.बी.एस.माग,र् मुंबई‐ 400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+June 27, 2012 **364-Days Treasury Bills : Auction Result**
+
+## Date of Auction : June 27, 2012
+
+**I. Notified Amount** ` 5000.00 crore **II. Underwriting notified amount** N.A.
+## III. Competitive Bids received
+
+(i) Number 82 (ii) Amount ` 16567.51 crore
+**IV. Cut-off price** ` 92.51 (YTM is 8.1187%)
+
+**V. Competitive bids accepted**
+(i) Number 23 (ii) Amount ` 5000.00 crore
+**VI. Partial Allotment Percentage of** 28.85 (8 Bids) **Competitive Bids** **VII. Weighted Average Price** ` 92.53 **VIII. Non-competitive bids received**
+
+(i) Number
+Nil (ii) Amount Nil **IX. Non-competitive bids accepted**
+
+(i) Number
+Nil (ii) Amount Nil <u>(iii) Partial Allotment Percentage Nil</u>
+
+## J.D. Desai
+
+**Press Release : 2011-2012/2075** Assistant Manager

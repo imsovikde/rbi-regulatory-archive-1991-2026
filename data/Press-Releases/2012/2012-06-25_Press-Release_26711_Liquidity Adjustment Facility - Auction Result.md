@@ -1,0 +1,39 @@
+---
+doc_id: "Press-Releases_2012_26711"
+title: "Liquidity Adjustment Facility : Auction Result"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR2054LM0612.pdf"
+pdf_sha256: "c4d77bb21d2fa109dee2b1e5201ae8987c9ccf8c8d54c47e1ac990fbb5ba6231"
+md_sha256: "7fd7de7fde0fec822e1ad547ef2772c310906d31849492547633fe0cfc92d20f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:01:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-06-25_Press-Release_26711_Liquidity%20Adjustment%20Facility%20-%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility : Auction Result
+
+<!-- PAGE 1 -->
+
+## ेस काशनी PRESS RELEASE
+
+भारतीय रज़व बक **RESERVE BANK OF INDIA** संचार �वभाग**,** क ��� कायालय, एस.बी.एस.माग, मुंबई-400001 ________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u>
+
+June 25, 2012 **Liquidity Adjustment Facility : Auction Result** The result of the RBI Repo (morning) auction held today is as under: <u>Amount (face value in ` crore)</u> **Item 1 day Repo Auction** **(Purchase of securities by RBI)**
+
+**8.00% Fixed Rate**
+## 1. Bids received
+
+(i) Number 40 (ii) Amount 99,930
+## <u>2. Bids accepted</u>
+
+(i) Number 40 (ii) Amount 99,930
+## Ajit Prasad
+
+## Press Release: 2011-2012/2054
+
+Assistant General Manager
