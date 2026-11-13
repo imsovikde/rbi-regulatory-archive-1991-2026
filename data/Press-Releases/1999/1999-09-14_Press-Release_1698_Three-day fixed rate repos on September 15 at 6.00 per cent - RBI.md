@@ -1,0 +1,31 @@
+---
+doc_id: "Press-Releases_1999_1698"
+title: "Three-day fixed rate repos on September 15 at 6.00 per cent : RBI"
+category: "Press-Releases"
+year: 1999
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/8951.pdf"
+pdf_sha256: "00c046a3ed0425d2fe3705dab5d7c049d7e8f35a0c5a9972e69ba25f4d9073a9"
+md_sha256: "b5424f2d7ec9423ed447a7dc54e0dfa4315e9e0e10dea5958e76d60d7e6e1506"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:57:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-09-14_Press-Release_1698_Three-day%20fixed%20rate%20repos%20on%20September%2015%20at%206.00%20per%20cent%20-%20RBI.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Three-day fixed rate repos on September 15 at 6.00 per cent : RBI
+
+<!-- PAGE 1 -->
+
+# Three-day fixed rate repos on September 15 at 6.00 per cent : RBI
+
+## September 14, 1999
+
+The Reserve Bank has announced a three-day fixed rate repos in Government of India dated securities on September 15, 1999 for parties holding SGL Account and current account with it at Mumbai. The repo rate is 6.00 per cent per annum. The eligible banks/institutions may submit their applications indicating the volume of repos (face value) in the prescribed form obtainable at th the Internal Debt Management Cell, Reserve Bank of India, Central Office Building (16 Floor), Mumbai. The applications should be addressed to the Chief General Manager, Internal Debt Management Cell, Reserve Bank of India, Central Office, Mumbai and submitted to him **before**
+
+**1.30 p.m. on September 15, 1999.** The applications may be accepted fully or partially. Payment by applicants will be on September 15, 1999 up to 2.30 p.m. and the repurchase by the RBI on September 18, 1999.
+## P.V. Sadanandan Asstt. Manager
+
+## Press Release : 1999-2000/378
