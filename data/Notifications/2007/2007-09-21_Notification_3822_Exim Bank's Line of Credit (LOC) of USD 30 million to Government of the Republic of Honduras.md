@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2007_3822"
+title: "Exim Bank's Line of Credit (LOC) of USD 30 million to Government of the Republic of Honduras"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/80047.pdf"
+pdf_sha256: "134e577ab9ab15ba9ebc3154235f5d17b6d94f29d9896296e9cc332eab6d754a"
+md_sha256: "b7150f682ad4af42162d2477aee337f1f911f7f709ac0c95435f22d51694eb52"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:19:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-09-21_Notification_3822_Exim%20Bank%27s%20Line%20of%20Credit%20%28LOC%29%20of%20USD%2030%20million%20to%20Government%20of%20the%20Republic%20of%20Honduras.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank's Line of Credit (LOC) of USD 30 million to Government of the Republic of Honduras
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/145 A. P. (DIR Series) Circular No. 08
+
+## September 21, 2007
+
+To, All Category-I Authorised Dealer Banks
+
+Madam / Sir, **Exim Bank's Line of Credit (LOC) of USD 30 million to Government of the Republic of Honduras**
+
+Export-Import Bank of India (Exim Bank) has concluded an Agreement dated August 17, 2006 with the Government of the Republic of Honduras, making available to the latter, a Line of Credit (LOC) of USD 30 million (USD Thirty million) for financing exports of eligible goods and services in terms of the said Agreement relating to projects for communication, medical and transportation equipments (including vehicles, trucks, etc.), which are eligible for export under the Foreign Trade Policy of the Government of India. Out of the total credit by Exim Bank under this Agreement, at least 85 per cent of the goods and services shall be supplied by the seller from India or be of Indian origin.
+
+2. The Credit Agreement under the LOC is effective from August 21, 2007. Under the LOC, the last date of opening of Letters of Credit will be 48 months from scheduled completion date(s) of contract(s) in case of project exports and 72 months from execution of the Credit Agreement in case of supply contracts (August16, 2012).
+3. Shipments under the credit will have to be declared on GR / SDF Forms as per instructions issued by Reserve Bank from time to time.
+4. No agency commission is payable under the above line of credit. However, if required, the exporter may use his own resources or utilise balances of his EEFC account for payment of commission in free foreign exchange. Authorised Dealer Category-l (AD Category-l) banks may allow such remittance after realization of full payment of contract value subject to compliance with the prevailing instructions on payment of agency commission.
+5. AD Category-I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain full details of the Line of Credit from Exim Bank's office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+<!-- PAGE 2 -->
+
+## (Salim Gangadharan) Chief General Manager
