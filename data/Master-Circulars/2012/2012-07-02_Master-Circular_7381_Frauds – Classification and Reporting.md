@@ -1,0 +1,785 @@
+---
+doc_id: "Master-Circulars_2012_7381"
+title: "Frauds – Classification and Reporting"
+category: "Master-Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/80CR010712FL.PDF"
+pdf_sha256: "71f7ba8088955baa361b4f9d92b20addd4f47b01289455a99a95a25a536dd611"
+md_sha256: "903e3177bc9dffcaa0f2c8efa6fec64d6d00fd58e1c244b68b360700cec75e87"
+total_pages: 44
+native_pages: 43
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T11:36:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2012/2012-07-02_Master-Circular_7381_Frauds%20%E2%80%93%20Classification%20and%20Reporting.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Frauds – Classification and Reporting
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/80
+
+DBS.FrMC.BC.No.1/23.04.001/2012-13
+
+July 02, 2012
+
+The Chairmen & Chief Executive Officers of all
+
+Scheduled Commercial Banks (excluding RRBs)
+
+and All India Select Financial Institutions
+
+Dear Sir,
+
+Frauds - Classification and Reporting
+
+issification and Reporting'. It may be
+
+forwarding the Master Circular on'Frauds
+
+noted that the Master Circular consolid?
+
+and updates all the instructions issued
+
+during the year since the date of
+
+Master Circular dated July 1, 2011. The
+
+Vithdrawk
+
+Master Circular also incorporates
+
+ructions contained in certain clarifications issued
+
+as on June 30,2012 and has been placed on the web-site of the Reserve Bank of
+
+India (www.rbi.org.in).
+
+Yours faithfully
+
+(A. Madasamy)
+
+Chief General Manager
+
+Departmentof Banking Supervision,Central Office,WorldTradeCentre1,CuffeParade,Colaba,Mumbai-400005,INDIA
+
+<!-- PAGE 2 -->
+
+## CONTENTS
+
+**1. INTRODUCTION.............................................................................................. 2-3**
+**2. CLASSIFICATION OF FRAUDS...................................................................... 4-5**
+**3. REPORTING OF FRAUDS TO RBI.................................................................5-10**
+3.1 Frauds involving Rs. 1.00 lakh and above…………......................... 6-7
+3.2 Frauds committed by unscrupulous borrowers ................................ 7-9
+3.3 Frauds involving Rs. 100.00 lakh and above ................................. 9-10
+3.4 Cases of attempted frauds…… …….................................................10
+**4. QUARTERLY RETURNS..............................................................................10-13**
+4.1 Report on Frauds Outstanding……............................................. 10-12
+4.2 Progress Report on Frauds………............................................... 12-13
+**5. REPORTS TO THE BOARD.........................................................................13-16**
+5.1 Reporting of frauds………………. .....................................................13
+5.2 Quarterly Review of Frauds…… Withdrawn …........................................ 13-15
+5.3 Annual Review of Frauds…………............................................. 15-16
+**6. GUIDELINES FOR REPORTING FRAUDS TO POLICE/CBI.......................16-19**
+**7. REPORTING CASES OF THEFT,BURGLARY,DACOITY AND BANK**
+**ROBBERIES .................................................................................................19-20**
+**ANNEX ......................................................................................................................21**
+**FRAUD MONITORING RETURNS**
+
+FMR-1: Report on Actual or suspected Frauds in Banks....................**22-28**
+FMR-2: Quarterly Report on Frauds Outstanding ...............................**29-36**
+FMR-3: Quarterly Progress Report on Frauds ....................................**37-39**
+FMR-4: Report on Dacoities/Robberies/Thefts/Burglaries ..................**40-41**
+
+<!-- PAGE 3 -->
+
+## 1. INTRODUCTION
+
+1.1 Incidence of frauds, dacoities, robberies, etc., in banks is a matter of concern. While the primary responsibility of preventing frauds lies with banks themselves, Reserve Bank of India (RBI) has been advising them from time to time about the major fraud prone areas and the safeguards necessary for prevention of frauds. RBI has also been circulating to banks, the details of frauds of an ingenious nature, not reported earlier so that banks could introduce necessary safeguards / preventive measures by way of appropriate procedures and internal checks. Banks are also being advised about the details of unscrupulous borrowers and related parties who have perpetrated frauds on banks so that banks could exercise caution while dealing with them. To facilitate this ongoing process, it is essential that banks report to RBI complete information about frauds and the follow-up action taken thereon. Banks may, therefore, adopt the reporting system for frauds as prescribed in following paragraphs**.**
+1.2 The Chairmen and Managing Directors(CMD)/Chief Executive Officers (CEOs) of banks must provide focus on the "Fraud Prevention and Management Function" to enable, among others, effective investigation of fraud cases and prompt as well as accurate reporting of them to appropriate regulatory
+# Withdrawn
+
+and law enforcement authorities including Reserve Bank of India.
+
+1.3 The fraud risk management, fraud monitoring and fraud investigation function must be owned by the bank's CEO, its Audit Committee of the Board and the Special Committee of the Board, at least in respect of large value frauds.
+1.4 Banks may, with the approval of their respective Boards, frame internal policy for fraud risk management and fraud investigation function, based on the governance standards relating to the ownership of the function and accountability for malfunctioning of the fraud risk management process in their banks. The broad governance framework driven by the above standard for ownership and accountability may rest on defined and dedicated organizational set up and operating processes.
+1.5 A reference is invited to paragraph 5.2.4, as regards reporting of frauds involving Rs. 100.00 lakh and above to Special Committee of the Board.
+
+<!-- PAGE 4 -->
+
+1.6 It has been observed that frauds are, at times, detected in banks long after their perpetration. Sometimes, fraud reports are also submitted to RBI with considerable delay and without complete information. On some occasions, RBI comes to know about frauds involving large amounts only through press reports. Banks should, therefore, ensure that the reporting system is suitably streamlined so that frauds are reported without any delay. Banks must fix staff accountability in respect of delays in reporting fraud cases to RBI.
+1.7 Delay in reporting of frauds and the consequent delay in alerting other banks about the modus operandi and issue of caution advices against unscrupulous borrowers could result in similar frauds being perpetrated elsewhere. Banks may, therefore, strictly adhere to the timeframe fixed in this circular for reporting fraud cases to RBI failing which they would be liable for penal action prescribed under Section 47(A) of the Banking Regulation Act, 1949.
+1.8 A software package on 'Frauds Reporting and Monitoring System' was supplied to banks in June 2003 and subsequent revisions carried out in the above package were advised to banks vide RBI Circular DBS.FGV
+(F) No. 8897/23.10.001/2005-06 dated December 20, 2005. Banks are required to send the FMR returns and data, as prescribed, in soft copy only (except in case of FMR-1 return pertaining to fraud cases involving amount of Rs. 1.00 lakh and above which is required to be submitted both in hard and soft copies) to RBI, Central Office as well as the concerned Regional Office of the Department of Banking Withdrawn Supervision/Financial Conglomerate Monitoring Division (FCMD) (12 banks listed in the Annex) at Central Office under whose jurisdiction the bank's Head Office/branch is situated as per the reporting requirements specified in Para 3.1.4 below.
+1.9 Banks should specifically nominate an official of the rank of General Manager who will be responsible for submitting all the returns referred to in this circular.
+1.10 Fraud Monitoring Cell, Department of Banking Supervision, Central Office will publish a directory of officers of all banks/Financial Institutions (FI) responsible for reporting of Frauds etc All banks/Financial Institutions should furnish to Department of Banking Supervision, Central Office, Fraud Monitoring Cell any changes in the names of officials that will be necessary for inclusion in the directory on priority basis as and when called for.
+
+<!-- PAGE 5 -->
+
+## 2. CLASSIFICATION OF FRAUDS
+
+2.1 In order to have uniformity in reporting, frauds have been classified as under, based mainly on the provisions of the Indian Penal Code:
+a) Misappropriation and criminal breach of trust.
+b) Fraudulent encashment through forged instruments, manipulation of books of account or through fictitious accounts and conversion of property.
+c) Unauthorised credit facilities extended for reward or for illegal gratification.
+d) Negligence and cash shortages.
+e) Cheating and forgery.
+f) Irregularities in foreign exchange transactions.
+g) Any other type of fraud not coming under the specific heads as above.
+2.2 Cases of 'negligence and cash shortages' and ‘irregularities in foreign exchange transactions’ referred to in items (d) and (f) above are to be reported as fraud if the intention to cheat/defraud is suspected/ proved. However, the following cases where fraudulent intention is not suspected/proved at the time of detection will be treated as fraud and reported accordingly:
+# Withdrawn
+
+(a) cases of cash shortage more than Rs. 10,000/-, and
+(b) cases of cash shortage more than Rs.5,000/- if detected by management / auditor/ inspecting officer and not reported on the day of occurrence by the persons handling cash.
+2.3 To ensure uniformity and to avoid duplication, frauds involving forged instruments may be reported only by the paying banker and not by the collecting banker. However, in the case of collection of an instrument which is genuine but the amount is collected fraudulently by a person who is not the true owner, the collecting bank, which is defrauded, will have to file fraud report with the RBI. In case of collection of instrument where the amount has been credited before realisation and subsequently the instrument is found to be fake/forged and returned by the paying bank, it is the collecting bank that has to file FMR-1 with the RBI as the collecting bank is at loss by parting the amount before realisation of the instrument.
+
+<!-- PAGE 6 -->
+
+2.3.1 The reporting of fraud in respect of truncated instruments will continue to be done to RBI Central Office as well as the concerned Regional Office of the Department of Banking Supervision/FCMD under whose jurisdiction the bank's Head Office/branch is situated by the paying banks as hitherto. In cases of frauds due to fake/forged instruments sent in clearing, the presenting bank will be required to immediately hand over the underlying instrument to drawee/paying bank as and when demanded to enable it to file an FIR with the police authorities and report the fraud to RBI.
+2.4 Encashment of altered / fake cheques involving two or more branches of the same bank
+2.4.1 In case of collection of altered/fake cheque involving two or more branches of the same bank, the branch where the altered/fake cheque has been encashed, should report the fraud to its Head Office. Thereafter, Head Office of the bank will file the fraud report with RBI.
+2.4.2 In the event of an altered/fake cheque having been paid/encashed involving two or more branches of a bank under Core Banking Solution (CBS), there could be a possibility of dispute/difference of opinion as to whether the branch where the drawer of the cheque maintains the account or the branch where the encashment has taken place should report the matteWithdrawnr to the Head Office of the bank. In such cases also the branch which has released the payment against an altered / fake cheque should report the fraud to the Head Office. Thereafter, Head Office of the bank will file the fraud report with RBI.
+2.5 Cases of theft, burglary, dacoity and robbery should not be reported as fraud. Such cases may be reported separately as detailed in paragraph
+7.
+2.6 Banks (other than foreign banks) having overseas branches/offices should report all frauds perpetrated at such branches/offices also to RBI as per the format and procedure detailed under Paragraph 3 below.
+## 3. REPORTING OF FRAUDS TO RESERVE BANK OF INDIA
+
+Banks need not furnish FMR-1 return in fraud cases involving amount below Rs. 1.00 lakh to RBI in either hard or soft copy. However, banks at
+
+<!-- PAGE 7 -->
+
+their end should make the data entry in respect of such cases through the FRMS package individually in FMR-1 format (less than Rs. 1.00 lakh) which will get automatically captured in FMR-2 return and will form part of the consolidated database relating to frauds for the respective bank.
+
+3.1 **Frauds involving Rs. 1 lakh and above**
+3.1.1 Fraud reports should be submitted in all cases of fraud of Rs. 1 lakh and above perpetrated through misrepresentation, breach of trust, manipulation of books of account, fraudulent encashment of instruments like cheques, drafts and bills of exchange, unauthorised handling of securities charged to the bank, misfeasance, embezzlement, misappropriation of funds, conversion of property, cheating, shortages, irregularities, etc.
+3.1.2 Fraud reports should also be submitted in cases where central investigating agencies have initiated criminal proceedings suo motto and/or where the Reserve Bank has directed that such cases be reported as frauds.
+3.1.3 Banks may also report frauds perpetrated in their subsidiaries and affiliates/joint ventures in FMR -1 format in hard copy only. Such frauds should, however, not be included in the report on outstanding frauds and the quarterly progress reports referred to in paragraph 4 below. Such frauds will not be entered in the FRMS package at any stage.
+# Withdrawn
+
+3.1.4 Soft copy of the reports on frauds in FMR formats in respect of fraud cases involving amount of Rs. 1.00 lakh and above should be submitted to the Central Office of the Department of Banking Supervision (DBS) Fraud Monitoring Cell as well as to Regional Office (RO) of DBS/FCMD under whose jurisdiction the Head office of the bank falls within three weeks of detection of fraud. Reporting of fraud cases in hard copies to RBI will be as under:-
+## a) Fraud cases involving an amount more than Rs. 1 lakh and upto
+
+## Rs. 50 lakh
+
+i) To the R.O under whose jurisdiction the branch where the fraud has taken place is located. ii) To the R.O under whose jurisdiction the Head Office where the fraud has taken place is located.
+Note: - In case the bank falls under the supervisory purview of
+ Financial Conglomerate Monitoring Division (FCMD) (12 banks listed in the Annex.), the reporting is to be done to Reserve Bank of India, Financial Conglomerate Monitoring Division (FCMD), Department of
+
+<!-- PAGE 8 -->
+
+<u>th</u> Banking Supervision, Central office, <u>4 Floor</u>, Centre 1, World Trade Centre, Cuffe Parade Mumbai-400005 instead of R.O under whose jurisdiction the Head Office where the fraud has taken place is located.
+
+## b) Fraud cases involving an amount of Rs. 50 lakh and above.
+
+i) To the concerned R.O of DBS under whose jurisdiction the Head Office where the fraud has taken place is located.
+Note: - In case the bank falls under the supervisory purview of
+ Financial Conglomerate Monitoring Division (FCMD) (12 banks listed in the Annex.), the reporting is to be done to Reserve Bank of India, Financial Conglomerate Monitoring Division (FCMD), Department of
+<u>th</u> Banking Supervision, Central office, <u>4 Floor</u>, Centre 1, World Trade Centre, Cuffe Parade Mumbai-400005 instead of R.O under whose jurisdiction the Head Office where the fraud has taken place is located.
+
+ii) To Reserve Bank of India, Fraud Monitoring Cell, Department of <u>nd</u> Banking Supervision, Central office, <u>2 Floor</u>, Centre 1, World Trade Centre, Cuffe Parade Mumbai-400005
+
+3.1.5 It is observed while scrutinizing FMR 1 returns from the banks, that certain vital fields in the returns are left blank. As the complete particulars on frauds perpetrated in the banks are vital for monitoring and supervisory purposes, banks should ensure that the data furnished are complete/accurate and up-to-date. Incidentally, if no data is to be provided
+# Withdrawn
+
+in respect of any of the items, or if details of any of the items are not available at the time of reporting of FMR 1 return, the bank may indicate as “no particulars to be reported” or “details not available at present” etc. In such a situation, the banks have to collect the data and report the details invariably through FMR 3 return on quarterly basis.
+
+3.2 **Frauds committed by unscrupulous borrowers**
+3.2.1 It is observed that a large number of frauds are committed by unscrupulous borrowers including companies, partnership firms/proprietary concerns and/or their directors/partners by various methods including the following:
+(i) Fraudulent discount of instruments or kite flying in clearing effects. (ii) Fraudulent removal of pledged stocks/disposing of hypothecated stocks without the bank’s knowledge/inflating the
+
+<!-- PAGE 9 -->
+
+value of stocks in the stock statements and drawing excess bank finance.
+
+(iii) Diversion of funds outside the borrowing units, lack of interest or criminal neglect on the part of borrowers, their partners, etc. and also due to managerial failure leading to the unit becoming sick and due to laxity in effective supervision over the operations in borrowal accounts on the part of the bank functionaries rendering the advance difficult to recover.
+
+3.2.2 In respect of frauds in borrowal accounts, additional information as prescribed under Part B of FMR – 1 should also be furnished.
+3.2.3 Banks should exercise due diligence while appraising the credit needs of unscrupulous borrowers, borrower companies, partnership/ proprietorship concerns and their directors, partners and proprietors, etc. as also their associates who have defrauded the banks. In addition to above borrower- fraudsters, third parties such as builders, warehouse/cold storage owners, motor vehicle/tractor dealers, travel agents, etc. and professionals such as architects, valuers, chartered accountants, advocates, etc. are also to be held accountable if they have played a vital role in credit sanction/disbursement or facilitated the perpetration of frauds. Banks are advised to report to In Withdrawndian Banks Association (IBA) the details of such third parties involved in frauds as advised vide circular DBS.CO.FrMC.BC.No.3/23.08.001/2008-09 dated March 16, 2009. Before reporting to IBA, banks have to satisfy themselves of the involvement of third parties concerned and also provide them with an opportunity of being heard. In this regard the banks should follow normal procedures and the processes followed should be suitably recorded. On the basis of such information, IBA would, in turn, prepare caution lists of such third parties for circulation among the banks.
+3.2.4*.* Frauds in borrowal accounts having multiple banking arrangements Certain unscrupulous borrowers enjoying credit facilities under "multiple banking arrangement” after defrauding one of the
+
+<!-- PAGE 10 -->
+
+financing banks, continue to enjoy the facilities with other financing banks and in some cases avail even higher limits at those banks. In certain cases the borrowers use the accounts maintained at other financing banks to siphon off funds by diverting from the bank on which the fraud is being perpetrated. This is due to lack of a formal arrangement for exchange of information among various lending banks/FIs. In some of the fraud cases, the securities offered by the borrowers to different banks are the same.
+
+In view of this, all the banks which have financed a borrower under 'multiple banking' arrangement should take co-ordinated action, based on commonly agreed strategy, for legal / criminal actions, follow up for recovery, exchange of details on modus operandi, achieving consistency in data / information on frauds reported to Reserve Bank of India. Therefore, bank which detects a fraud is required to immediately share the details with all other banks in the multiple banking arrangements.
+
+3.2.5 Forensic scrutinies at certain identified banks were conducted by RBI due to occurrence of large value frauds and sharp increase in number of frauds at such banks to primarily identify the policy gaps, if any, and adequacy of controls. During the scrutinies, systemic factors were also sought to be identified. Based on the findings of the scrutinies, the
+# Withdrawn
+
+operating framework for tracking frauds and dealing with them were advised to be structured along the tracks of detection and reporting of frauds, corrective action and preventive and punitive action vide our circular dated May 31, 2011.
+
+3.2.6 Banks may ensure to place the copy of the circular on modus- operandi of fraud issued by them for alerting their branches/controlling offices etc., on specific frauds before the Audit Committee of Board (ACB) in its periodical meetings.
+3.3 **Frauds involving Rs. 100.00 lakh and above** In respect of frauds involving Rs. 100 lakh and above, in addition to the requirements given at paragraphs **3.1** and **3.2** above, banks may report the fraud by means of a D.O. letter addressed to the Chief General Manager-In-charge, Department of Banking Supervision, RBI, Central Office, within a week of such frauds coming to the notice of the bank’s Head Office. The letter may
+
+<!-- PAGE 11 -->
+
+contain brief particulars of the fraud such as amount involved, nature of fraud, modus operandi in brief, name of the branch/office, names of parties involved (if they are proprietorship/ partnership concerns or private limited companies, the names of proprietors, partners and directors), names of officials involved, and whether the complaint has been lodged with the Police/CBI. A copy of the D.O. letter should also be endorsed to the Regional Office of RBI/FCMD under whose jurisdiction the bank's branch, where the fraud has been perpetrated, is functioning.
+
+3.4 **Cases of attempted fraud** Cases of attempted fraud, where the likely loss would have been Rs. 100.00 lakh or more had the fraud taken place, should be reported by the bank to the Fraud Monitoring Cell, Department of Banking Supervision, Reserve Bank of India, Central Office, Mumbai within two weeks of the bank coming to know that the attempt to defraud the bank failed or was foiled. The report should cover the following: •The modus operandi of the attempted fraud. •How the attempt did not materialise in the fraud or how the attempt failed / was foiled.
+# Withdrawn
+
+•The measures taken by the bank to strengthen the existing systems and controls
+
+•New systems and controls put in place in the area where fraud was attempted.
+
+Reports on such attempted frauds should be placed before the Audit Committee of the Board.
+
+Such cases should not be included in the other returns to be submitted to RBI.
+
+## 4.ly Returns Quarter
+
+4.1 Report on Frauds Outstanding
+4.1.1 Banks should submit a copy of the Quarterly Report on Frauds Outstanding in the format given in FMR – 2 to the Central Office Department of Banking Supervision Fraud Monitoring Cell and the
+
+<!-- PAGE 12 -->
+
+Regional Office of the Department of Banking Supervision/FCMD under whose jurisdiction the Head Office of the bank falls within 15 days of the end of the quarter to which it relates. The data should be submitted in soft copy only. Banks which may not be having any fraud outstanding as at the end of a quarter should submit a <u>nil</u> report.
+
+4.1.2 Part-A of the report covers details of frauds outstanding as at the end of the quarter. Parts B and C of the report give category-wise and perpetrator-wise details of frauds reported during the quarter respectively. The total number and amount of fraud cases reported during the quarter as shown in Parts B and C should tally with the totals of columns 4 and 5 in Part – A of the report
+4.1.3 Banks should furnish a certificate, as part of the above report, to the effect that all individual fraud cases of Rs. 1 lakh and above reported to the Reserve Bank in FMR – 1 during the quarter have also been put up to the bank’s Board and have been incorporated in Part – A (columns 4 and 5) and Parts B and C of FMR – 2.
+4.1.4 Closure of fraud cases
+Banks will report to the FrWithdrawnaud Monitoring Cell, RBI, Department of Banking Supervision (DBS), Central Office, Mumbai and the respective Regional offices of the DBS/FCMD, the details of fraud cases of Rs. 1.00 lakh and above closed along with reasons for the closure after completing the process as given below..
+
+Fraud cases closed during the quarter are required to be reported in quarterly return FMR- 3 and cross checked with relevant column in FMR-2 return before sending to RBI.
+
+Banks should report only such cases as closed where the actions as stated below are complete and prior approval is obtained from the respective Regional Offices of DBS/FCMD.
+
+i. The fraud cases pending with CBI/Police/Court are finally disposed of.
+
+<!-- PAGE 13 -->
+
+ii. The examination of staff accountability has been completed
+
+iii. The amount of fraud has been recovered or written off.
+
+iv. Insurance claim wherever applicable has been settled.
+
+v. The bank has reviewed the systems and procedures, identified as the causative factors and plugged the lacunae and the fact of which has been certified by the appropriate authority (Board / Audit Committee of the Board)
+Banks should also pursue vigorously with CBI for final disposal of pending fraud cases especially where the banks have completed staff side action. Similarly, banks may vigorously follow up with the police authorities and/or court for final disposal of fraud cases.
+
+Banks are allowed, for limited statistical / reporting purposes, to close those fraud cases involving amounts upto Rs.25.00 lakh, where:
+
+a) The investigation is on or challan/ charge sheet not filed in the Court for more than three years from the date of filing of First
+# Withdrawn
+
+Information Report (FIR) by the CBI/Police., or
+
+b) The trial in the courts, after filing of charge sheet / challan by CBI / Police, has not started, or is in progress.
+The banks are required to follow the guidelines relating to seeking prior approval for closure of such cases from RO of DBS under whose jurisdiction the Head Office of the bank is located/ FCMD and follow up of such cases after closure for limited statistical purpose as enumerated in RBI <u>circular</u> <u>DBS.CO.FrMC BC.NO. 7/ 23.04.001/ 2008-09 dated June 05, 2009</u>.
+
+4.2 Progress Report on Frauds (FMR-3)
+4.2.1 Banks should furnish case-wise quarterly progress reports on frauds involving Rs. 1.00 lakh and above in the format given in FMR – 3 to the Central Office of RBI, Department of Banking Supervision as well as the concerned Regional Office of the Department of Banking Supervision/FCMD under whose jurisdiction the bank’s Head Office is
+
+<!-- PAGE 14 -->
+
+situated, within 15 days of the end of the quarter to which they relate.
+
+4.2.2 In the case of frauds where there are no developments during a quarter, a list of such cases with a brief description including name of branch and date of reporting may be furnished in Part – B of FMR – 3.
+4.2.3 Banks which do not have any fraud involving Rs. 1.00 lakh and above outstanding may submit a <u>nil</u> report.
+## 5. REPORTS TO THE BOARD
+
+5.1 **Reporting of Frauds**
+5.1.1 Banks should ensure that all frauds of Rs. 1.00 lakh and above are reported to their Boards promptly on their detection.
+5.1.2 Such reports should, among other things, take note of the failure on the part of the concerned branch officials and controlling authorities, and initiate appropriate action against the officials responsible for the fraud.
+5.2 **Quarterly Review of Frauds**
+5.2.1 Information relating to frauds for the quarters ending March, June and September may be placed before the Audit Committee of the
+# Withdrawn
+
+Board of Directors during the month following the quarter to which it pertains, irrespective of whether or not these are required to be placed before the Board/Management Committee in terms of the Calendar of Reviews prescribed by RBI.
+
+5.2.2 These should be accompanied by supplementary material analysing statistical information and details of each fraud so that the Audit Committee of the Board would have adequate material to contribute effectively in regard to the punitive or preventive aspects of frauds.
+5.2.3 A separate review for the quarter ending December is not required in view of the Annual Review for the year-ending December prescribed below.
+5.2.4 Banks are required to constitute a Special Committee for monitoring and follow up of cases of frauds involving amounts of Rs. 100.00 lakh and above exclusively, while Audit Committee of the Board (ACB) may continue to monitor all the cases of frauds
+
+<!-- PAGE 15 -->
+
+in general. The Special Committee should consist of CMD in case of public sector banks and MD in case of SBI/its Associates. In case of private sector banks, two members from ACB, two members from Board excluding RBI nominee.
+
+5.2.5 The major functions of the Special Committee would be to monitor and review all the frauds of Rs. 100.00 lakh and above so as to: •Identify the systemic lacunae if any that facilitated
+perpetration of the fraud and put in place measures to plug the same.
+
+Identify the reasons for delay in • detection, if any, reporting to top management of the bank and RBI.
+
+•Monitor progress of CBI/Police investigation and recovery position.
+
+•Ensure that staff accountability is examined at all levels in all the cases of frauds and staff side action, if required, is completed quickly without loss of time.
+
+•Review the efficacy of the remedial action taken to prevent recurrence of frauds, such as strengthening of internal controls.
+
+•Put in place other measur Withdrawnes as may be considered relevant to strengthen preventive measures against frauds.
+
+All the frauds involving an amount of Rs 100.00 lakh and above should be monitored and reviewed by the Special Committee of the Board in case of all Indian commercial banks. The periodicity of the meetings of the Special Committee may be decided according to the number of cases involved. In addition, the Committee should meet and review as and when a fraud involving an amount of Rs 100.00 lakh and above comes to light.
+
+<!-- PAGE 16 -->
+
+5.2.6 The banks may delineate in a policy document the processes for implementation of the Committee's directions and the document may enable a dedicated outfit of the bank to implement the directions in this regard.
+5.3 **Annual Review of Frauds**
+5.3.1 Banks should conduct an annual review of the frauds and place a note before the Board of Directors/Local Advisory Board for information. The reviews for the year-ended December may be put up to the Board before the end of March the following year. Such reviews need not be sent to RBI. These may be preserved for verification by the Reserve Bank’s inspecting officers.
+5.3.2 The main aspects which may be taken into account while making such a review may include the following:
+(a) Whether the systems in the bank are adequate to detect frauds, once they have taken place, within the shortest possible time.
+(b) Whether frauds are examined from staff angle and, wherever necessary, the cases are reported to the Vigilance Cell for further action in the case of public sector banks.
+(c) Whether deterrent punishment is meted out, wherever warranted, to the persons found responsible.
+# Withdrawn
+
+(d) Whether frauds have taken place because of laxity in following the systems and procedures and, if so, whether effective action has been taken to ensure that the systems and procedures are scrupulously followed by the staff concerned.
+(e) Whether frauds are reported to local Police or CBI, as the case may be, for investigation, as per the guidelines issued in this regard to public sector banks by Government of India.
+5.3.3 The annual reviews should also, among other things, include the following details:
+(a) Total number of frauds detected during the year and the amount involved as compared to the previous two years.
+(b) Analysis of frauds according to different categories detailed in Paragraph 2.1 and also the different business areas indicated in the Quarterly Report on Frauds Outstanding (vide FMR – 2).
+
+<!-- PAGE 17 -->
+
+(c) Modus operandi of major frauds reported during the year along with their present position.
+(d) Detailed analysis of frauds of Rs. 1 lakh and above.
+(e) Estimated loss to the bank during the year on account of frauds, amount recovered and provisions made.
+(f) Number of cases (with amounts) where staff are involved and the action taken against staff.
+(g) Region-wise/Zone-wise/State-wise break-up of frauds and amount involved.
+(h) Time taken to detect frauds (number of cases detected within three months, six months and one year of their taking place).
+(i) Position with regard to frauds reported to CBI/Police.
+(j) Number of frauds where final action has been taken by the bank and cases disposed of.
+(k) Preventive/punitive steps taken by the bank during the year to reduce/minimise the incidence of frauds.
+5.3.4 To align the vigilance function in Private sector and Foreign Banks to that of the Public Sector Banks the existing vigilance functions of a few private sector and foreign banks were mapped with the existing guidelines in the
+# Withdrawn
+
+matter and it was observed that the practices vary widely among the banks. The detailed guidelines for private sector and foreign banks were issued on May 26, 2011 to address all issues arising out of lapses in the functioning of the private sector and foreign banks especially relating to corruption, malpractices, frauds etc. for timely and appropriate action. The detailed guidelines are aimed at bringing uniformity and rationalization in the function of internal vigilance. Private sector banks (including foreign banks operating in India) were advised to put in place a system of internal vigilance machinery as per the guidelines.
+
+<!-- PAGE 18 -->
+
+## 6. GUIDELINES FOR REPORTING FRAUDS TO POLICE/CBI
+
+6.1 Private sector banks (including foreign banks operating in India) should follow the following guidelines for reporting of frauds such as unauthorised credit facilities extended by the bank for illegal gratification, negligence and cash shortages, cheating, forgery, etc. to the State Police authorities:
+(a) In dealing with cases of fraud/embezzlement, banks should not merely be actuated by the necessity of recovering expeditiously the amount involved, but should also be motivated by public interest and the need for ensuring that the guilty persons do not go unpunished.
+(b) Therefore, as a general rule, the following cases should invariably be referred to the State Police:
+<u>Cases of fraud involving an amount of Rs. 1.00 lakh and above, committed</u> <u>by outsiders on their own and/or with the connivance of bank staff/officers.</u> <u>Cases of fraud committed by bank employees, when it involves bank funds exceeding Rs. 10,000/-.</u>
+
+<u>Fraud cases involving amounts of Rs 100.00 lakh and above should also</u> <u>be reported to the Director, Serious Fraud Investigation Office (SFIO),</u> <u>Ministry of Company Affairs, Government of India. Second Floor,</u> <u>Paryavaran Bhavan, CGO Complex, Lodhi Road, New Delhi 110 003. Details</u> <u>of the fraud are to be reporWithdrawnted to SFIO in FMR-1 Format.</u>
+
+6.2 Public sector banks should report fraud cases involving amount of Rs. 300.00 lakh and above to CBI and those below Rs. 300.00 lakh to local police, as detailed below:
+## <u>Cases to be referred to CBI</u>
+
+(a) Cases involving Rs. 300.00 lakh and above and upto Rs.
+1500.00 lakh •Where staff involvement is prima facie evident – CBI (Anti Corruption Branch) •Where staff involvement is prima facie not evident – CBI (Economic Offences Wing)
+
+<!-- PAGE 19 -->
+
+(b) All cases involving more than Rs.1500.00 lakh – Banking Security and Fraud Cell of the respective centres, which is specialised cell of the Economic Offences Wing of the CBI for major bank fraud cases. <u>Cases to be referred to Local Police</u>
+Cases below Rs.300.00 lakh – Local Police.
+
+i) Cases of financial frauds of the value of Rs.1.00 lakh and above, which involve outsiders and bank staff, should be reported by the Regional Head of the bank concerned to a senior officer of the State CID/Economic Offences Wing of the State concerned. ii) Cases of frauds above Rs.10,000/- but below Rs.1.00 lakh should be reported to the local police station by the bank branch concerned. iii) All fraud cases of value below Rs.10,000/- involving bank officials, should be referred to the Regional Head of the bank, who would scrutinize each case and direct the bank branch concerned on whether it should be reported to the local police station for further legal action.
+6.3 Filing of Police complaint in
+# Withdrawn
+
+case of fraudulent encashment of DDs/TTs/Pay Orders/Cheques/ Dividend Warrants, etc.
+
+6.3.1 In case of frauds involving forged instruments including those cleared under CTS, the paying banker has to file the police complaint and not the collecting banker.
+6.3.2 However, in case of collection of instrument which is genuine but the amount collected fraudulently by a person who is not the owner, the collecting bank which is defrauded has to file a police complaint.
+6.3.3 In case of collection of instruments where the amount has been credited before realisation and subsequently the instrument is found to be fake/forged and returned by the paying bank, it is the collecting bank that has to file a police complaint as they are at loss by paying the amount before realisation of the instrument.
+
+<!-- PAGE 20 -->
+
+6.3.4 In cases of collection of altered/fake cheque involving two or more branches of the same bank, the branch where the altered/fake instrument has been encashed, should file a Police complaint.
+6.3.5 In the event of an altered/fake cheque having been paid/encashed involving two or more branches of a bank under CBS, the branch which has released the payment against a fraudulent withdrawal, should file a Police complaint.
+## 7. REPORTING CASES OF THEFT, BURGLARY, DACOITY AND BANK ROBBERIES
+
+7.1 Banks should arrange to report by fax / e-mail instances of bank robberies, dacoities, thefts and burglaries to the following authorities immediately on their occurrence.
+a) The Chief General Manager-in-Charge, Reserve Bank of India, Department of Banking Supervision, Central Office, Mumbai.
+b) Regional Office of the Department of Banking Supervision, Reserve Bank of India under whose jurisdiction the Head Office of the bank falls.
+c) Financial Conglomerate Monitoring Division (FCMD) in respect of 12 large banks in the country under whose jurisdiction the Head Office of the bank falls. The names of which are given in Annex.Withdrawn
+d) Regional Office of Reserve Bank of India, Department of Banking Supervision, Reserve Bank of India, under whose jurisdiction the affected bank branch is located to enable the Regional Office to take up the issues regarding security arrangements in affected branch/es during the State Level Security Meetings with the concerned authorities (endorsements).
+e) The Security Adviser, Central Security Cell, Reserve Bank of India, Central Office Building, Mumbai – 400001.
+f) Ministry of Finance, Department of Financial Services Government of India, Jeevan Deep, Parliament Street, New Delhi.-110001.
+The report should include details of modus operandi and other information as at columns 1 to 11 of FMR – 4.
+
+7.2 Banks should also submit to the Reserve Bank, Department of Banking Supervision, Central Office Fraud Monitoring Cell as well as the concerned Regional Office of the Reserve Bank/FCMD under
+
+<!-- PAGE 21 -->
+
+whose jurisdiction the bank’s Head Office is situated a quarterly consolidated statement in the format given in FMR – 4 (soft copy) covering all cases pertaining to the quarter. This may be submitted within 15 days of the end of the quarter to which it relates.
+
+7.3 Banks which do not have any instances of theft, burglary, dacoity and / or robbery to report during the quarter, may submit a <u>nil</u> report.
+# Withdrawn
+
+<!-- PAGE 22 -->
+
+## <u>Annex</u>
+
+List of banks under the supervisory purview of Financial Conglomerate Monitoring Division (FCMD):
+
+1. State Bank of India.
+2. Bank of Baroda.
+3. Bank of India.
+4. Canara Bank.
+5. Punjab National Bank.
+6. Axis Bank.
+7. HDFC Bank.
+8. Kotak Mahindra Bank.
+9. ICICI Bank.
+10. Citi Bank.
+11. HSBC.
+12. Standard Chartered Bank.
+# Withdrawn
+
+<!-- PAGE 23 -->
+
+## <u>FMR – 1</u>
+
+## <u>Report on Actual or Suspected Frauds in Banks</u>
+
+(Vide Paragraph 3)
+
+## Part A: Fraud Report
+
+|1.|Name of the bank|
+|---|---|
+|2.|Fraud number|
+|3.|Details of the branch|
+
+(a) Name of the branch
+(b) Branch type
+(c) Place
+(d) District
+# Withdrawn
+
+(e) State
+## <u>Instructions for compiling the Fraud Report (FMR 1):</u>
+
+1 <u>Fraud number</u>: This has been introduced with a view to facilitate computerisation and cross- reference. The number will be an alphanumeric field consisting of the following: four alphabets (to indicate name of bank), two digits for the year (02, 03, etc.), two digits for the quarter (01 for January – March quarter, etc.) and the final four digits being a distinctive running number for the fraud reported during the quarter. 2 <u>Name of the branch</u>: In case the fraud relates to more than one branch, indicate the name of only one branch where the amount involved has been the highest and/or which is mainly involved in following up the fraud. The names of the other branches may be given in the brief history/modus operandi against item number 9.
+
+<!-- PAGE 24 -->
+
+## 4. Name of the Principal party/account
+
+## 5.a Area of operation where the
+
+## fraud has occurred
+
+## 5.b Whether fraud has occurred in Yes/No a borrowal account ?
+
+## 6.a Nature of fraud 6.b Whether computer is used in
+
+## committing the fraud? 6.c If yes, details
+
+## 7. Total amount involved (Rs. In lakh)
+
+# Withdrawn
+
+3 <u>Name of party</u>: A distinctive name may be given to identify the fraud. In the case of frauds in borrowal accounts, name of the borrowers may be given. In the case of frauds committed by employees, the name(s) of the employee(s) could be used to identify the fraud. Where fraud has taken place, say, in clearing account/inter-branch account, and if it is not immediately possible to identify the involvement of any particular employee in the fraud, the same may be identified merely as “Fraud in clearing/inter-branch account”.
+
+4 <u>Area of operation where the fraud has occurred</u>: Indicate the relevant area out of those given in column 1 of statement FMR 2 (Part A) (Cash; Deposits (Savings/Current/Term); Non- resident accounts; Advances (Cash credit/Term Loans/Bills/Others); Foreign exchange transactions; Inter-branch accounts; Cheques/demand drafts, etc.; Clearing, etc. accounts; Off-balance sheet (Letters of credit/Guarantee/Co-acceptance/Others); Card/Internet-Credit Cards; ATM/Debit Cards; Internet Banking; Others).
+
+5 <u>Nature of fraud</u>: Select the number of the relevant category from the following which would best describe the nature of fraud: (1) Misappropriation and criminal breach of trust,
+
+(2) Fraudulent encashment through forged instruments/manipulation of books of account or through fictitious accounts and conversion of property, (3) Unauthorised credit facilities extended for reward or for illegal gratification, (4) Negligence and cash shortages,
+(5) Cheating and forgery, (6) Irregularities in foreign exchange transactions, (7) Others. 6 <u>Total amount involved</u>: Amounts should, at all places, be indicated in Rs. lakh up to two decimal places.
+
+<!-- PAGE 25 -->
+
+|8.a|Date of occurrence||
+|---|---|---|
+|b|Date of detection||
+|c|Reasons for delay, if any, in detecting the fraud||
+|d|Date on which reported to RBI||
+|e|Reasons for delay, if any, in reporting the fraud to RBI||
+|9.a|Brief history||
+|b|modus operandi||
+|10.|Fraud committed by||
+|a|Staff|Yes/No|
+|b|Customers|Yes/No|
+|c|Outsiders|Yes/No|
+|11.a|Whether the controlling office Yes/No||
+
+# (Regional/Zonal) could detect Withdrawn the fraud by a scrutiny of control
+
+# returns submitted by the branch
+
+7 <u>Date of occurrence</u>: In case it is difficult to indicate the exact date of occurrence of fraud (for instance, if pilferages have taken place over a period of time, or if the precise date of a borrower’s specific action, subsequently deemed to be fraudulent, is not ascertainable), a notional date may be indicated which is the earliest likely date on which the person is likely to have committed the fraud (say, January 1, 2002, for a fraud which may have been committed anytime during the year 2002). The specific details, such as the period over which the fraud has occurred, may be given in the history/modus operandi. 8 <u>Date of detection</u>: If a precise date is not available (as in the case of a fraud detected during the course of an inspection/audit or in the case of a fraud being reported such on the directions of the Reserve Bank), a notional date on which the same may be said to have been recognised as fraud may be indicated.
+
+9 <u>Date of reporting to RBI</u>: The date of reporting shall uniformly be the date of sending the detailed fraud report in form FMR 1 to the RBI and not any date of fax or DO letter that may have preceded it.
+
+* Banks have to categorically mention the nature of audit the branch is subjected to viz, concurrent audit, internal inspection, etc.
+
+<!-- PAGE 26 -->
+
+b Whether there is need to Yes/No improve the information system?
+
+12.a Whether internal inspection/ Yes/No***** audit (including concurrent audit) was conducted at the branch(es) during the period between the date of first occurrence of the fraud and its detection? b If yes, why the fraud could not have been detected during such inspection/audit. c What action has been taken for non-detection of the fraud during such inspection/audit
+13. Action taken/proposed to be taken
+## a Complaint with Police/CBI
+
+i)Whether any complaint has Yes/No been lodged with the
+# Withdrawn
+
+Police/CBI?
+
+ii)If yes, name of office/ branch of CBI/ Police
+
+1 Date of reference
+
+2 Present position of the case
+
+3 Date of completion of Police/CBI investigation
+
+Date of submission of investigation report by 4 Police/CBI
+
+<!-- PAGE 27 -->
+
+iii) If not reported to Police/CBI, reasons therefor b Recovery suit with DRT/Court
+
+i) Date of filing ii) Present position
+c Insurance claim
+
+i) Whether any claim has been Yes/No lodged with an insurance company ii) If not, reasons therefor
+d Details of staff-side action
+
+|i) Whether any internal|Yes/No|
+|---|---|
+|investigation has been/is iii) Whether any departmental enquiry has been/is proposed to iv) If yes, give details as per Steps taken/proposed to be i) Amount recovered from|Withdrawn|
+
+proposed to be conducted ii) If yes, date of completion
+
+be conducted format given below:
+
+v) If not, reasons therefor
+e taken to avoid such incidents
+
+14. (a) Total amount recovered party/parties concerned ii) From insurance
+
+<!-- PAGE 28 -->
+
+|||iii) From other sources|||||||||
+|---|---|---|---|---|---|---|---|---|---|---|
+||(b) (d)|(c) Provision held Amount written off|Extent of loss to the bank||||||||
+|15.|of RBI Staff – side action||Suggestions for consideration||||||||
+|No.|Name|Desg n.|suspen- ded/Dt. of suspensi on|of charge sheet|Whether Date of Date of Date of Date of Punish issue commen comple of domesti c inquiry|-cement -tion of of final awar- inquiry orders|issue|ded|Details of -ment prosecution/ conviction/ acquittal, etc.||
+
+***** Mention the type/s of inspection / audit the branch is subjected to
+# Withdrawn
+
+<!-- PAGE 29 -->
+
+## Part B: Additional Information on Frauds in Borrowal Accounts
+
+(This part is required to be completed in respect of frauds in all borrowal accounts involving an amount of Rs. 5 lakh and above) **Sr. No. Type of Name of Party Address party party/account**
+
+## Borrowal accounts details:
+
+|Party|Name|Borrowal|Nature|Date of|Sanctione|Balance|
+|---|---|---|---|---|---|---|
+|Sr.|of|account|of|Sanction|d limit|outstandi|
+|No.|party/a|Sr. No.|Account|||ng|
+
+**ccount**
+
+**Borrowal account Director/proprietor details:**Withdrawn **Name of Sr.No. Name of Address party/account Director/Proprietor**
+
+## Associate Concerns:
+
+## Name of Sr. No. Name of Address
+
+|party/account||Associate|
+|---|---|---|
+||Associate||
+
+## Concern
+
+<!-- PAGE 30 -->
+
+## Concern
+
+## Associate Concern Director/proprietor details:
+
+## Name of Sr. No. Name of Director Address Associate Concern
+
+# Withdrawn
+
+<!-- PAGE 31 -->
+
+|||||||FMR – 2 Quarterly Report on Frauds Outstanding|||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Name of the bank _ ________________________|||___ __________||(Vide Paragraph 4.1)|||||||
+|Report for the quarter ended||||____________________________||_||||||DomesticOverseas|
+|Part – A: Frauds Outstanding|||||||||(Amount in Rs. lakh)||||
+|Category||Cases outstanding as at the end of the previous quarter||New cases reported during the current quarter||Cases closed during the Withdrawn|current quarter at the end of the|Cases outstanding as amount quarter|Total recover ed|Provision Amount held for cases outstandi ng as at the the end of the Qtr.|Recover ed during current Qtr.|Amou nt Writte n off during the curren t quarte r|
+||N o.|Amount|N o.|Amount|N o.|Amount|No. (2+4- 6)|Amount (3+5-7)|Amoun t|Amount|Amount|Amou nt|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|
+
+<!-- PAGE 32 -->
+
+|Category||Cases outstanding as at the end of the previous quarter||New cases reported during the current quarter||Cases closed during the|current quarter at the end of the|Cases outstanding as amount quarter|Total recover ed|Provision Amount held for cases outstandi ng as at the the end of the Qtr.|Recover ed during current Qtr.|Amou nt Writte n off during the curren t quarte r|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|N o.|Amount 2 3 4 5 6 7 8 9 10 11 12 13|N o.|Amount|N o.|Amount No.|(2+4- 6)|Amount (3+5-7)|Amoun t|Amount Amount Amou||nt|
+|Cash Deposits i) Savings (i) Current (ii) Term||||||Withdrawn|||||||
+|Non-resident accounts|||||||||||||
+
+<!-- PAGE 33 -->
+
+|Category||Cases outstanding as at the end of the previous quarter||New cases reported during the current quarter||Cases closed during the|current quarter at the end of the|Cases outstanding as amount quarter|Total recover ed|Provision Amount held for cases outstandi ng as at the the end of the Qtr.|Recover ed during current Qtr.|Amou nt Writte n off during the curren t quarte r|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|N o.|Amount 2 3 4 5 6 7 8 9 10 11 12 13|N o.|Amount|N o.|Amount No.|(2+4- 6)|Amount (3+5-7)|Amoun t|Amount Amount Amou||nt|
+|Advances (i) Cash credit (ii) Term Loans (iii) Bills (iv) Others||||||Withdrawn|||||||
+|Foreign exchange transactions|||||||||||||
+|Inter-branch accounts|||||||||||||
+
+<!-- PAGE 34 -->
+
+|Category||Cases outstanding as at the end of the previous quarter||New cases reported during the current quarter||Cases closed during the|current quarter at the end of the|Cases outstanding as amount quarter|Total recover ed|Provision Amount held for cases outstandi ng as at the the end of the Qtr.|Recover ed during current Qtr.|Amou nt Writte n off during the curren t quarte r|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|N o.|Amount 2 3 4 5 6 7 8 9 10 11 12 13|N o.|Amount|N o.|Amount No.|(2+4- 6)|Amount (3+5-7)|Amoun t|Amount Amount Amou||nt|
+|Cheques/Demand drafts, etc. Clearing, etc., accounts||||||Withdrawn|||||||
+
+<!-- PAGE 35 -->
+
+|Category||Cases outstanding as at the end of the previous quarter||New cases reported during the current quarter||Cases closed during the|current quarter at the end of the|Cases outstanding as amount quarter|Total recover ed|Provision Amount held for cases outstandi ng as at the the end of the Qtr.|Recover ed during current Qtr.|Amou nt Writte n off during the curren t quarte r|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|N o.|Amount 2 3 4 5 6 7 8 9 10 11 12 13|N o.|Amount|N o.|Amount No.|(2+4- 6)|Amount (3+5-7)|Amoun t|Amount Amount Amou||nt|
+|Off-balance sheet (i) Letters of credit (ii) Guarantees (iii) Co- acceptance (iv) Others Card / Internet - (i) Creit Cards (ii) ATM/Debit Cards||||||Withdrawn|||||||
+
+<!-- PAGE 36 -->
+
+|Category||Cases outstanding as at the end of the previous quarter||New cases reported during the current quarter||Cases closed during the|current quarter at the end of the|Cases outstanding as amount quarter|Total recover ed|Provision Amount held for cases outstandi ng as at the the end of the Qtr.|Recover ed during current Qtr.|Amou nt Writte n off during the curren t quarte r|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1 (iii) Internet Banking (iv) Others|N o.|Amount 2 3 4 5 6 7 8 9 10 11 12 13|N o.|Amount|N o.|Amount No. Withdrawn|(2+4- 6)|Amount (3+5-7)|Amoun t|Amount Amount Amou||nt|
+|Total|||||||||||||
+
+**Note:** For Indian banks with overseas offices/branches, the above figures re late to the domestic position. The figures in respect of
+
+overseas branches/offices may be shown in a separ ate sheet in the same format as above.
+
+<!-- PAGE 37 -->
+
+||Part – B: Category-wise classification Name of the bank _ ________________________||||___ __________|of frauds reported during the quarter||||______________|||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Category Less than Rs. 1 lakh||Misappropriati on and criminal breach of trust|encashment/|Fraudulent manipulation of books of account and conversio n of gratification property||Unauthorise d credit facility extended for illegal|No.|Negligence and cash shortages Amt.|forgery No.|Amt.|Cheating and Irregularities exchang No.|in foreign e transactions Amt.|No.|Others Amt.|No.|Total Amt.|
+|Rs. 1 lakh and above but less than Rs. 100 lakh Rs. 100 lakh and above||||||Withdrawn|||||||||||
+|To tal|||||||||||||||||
+
+<!-- PAGE 38 -->
+
+||Part – C: Perpetrator-wise classification Name of the bank _ ________________________|||||of frauds reported during the quarter ___ __________||||___________|||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Category||Staff|Customers|||Outsiders|Customers|Staff and||Staff and Outsiders||Customers and Outsiders|Customers and Outsiders|Staff,||Total|
+|Less than Rs. 1 lakh Rs. 1 lakh and above but less than Rs. 100 lakh|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|
+|Rs. 100 lakh and above|||||||Withdrawn||||||||||
+|Tot al|||||||||||||||||
+
+Note: Certificate 1. The above category-wise clas 2. All amounts may be furnished in Rs. lakh up to two decimals. sification is mostly based on various provisions of the Indian Penal Code.
+
+<!-- PAGE 39 -->
+
+Certified that all frauds of Rs. 1 lakh and above reported to the Reserve Bank during the last quarter have also been reported to the bank’s Board and have been incorporated in Part A (Col umns 4 and 5) and Parts B and C above.
+
+Signature: Name and Designation:
+
+Place: Date:
+
+# Withdrawn
+
+<!-- PAGE 40 -->
+
+## <u>FMR – 3</u>
+
+## <u>Quarterly Progress Report on Large Value Frauds</u>
+
+(Vide Paragraph 4.2)
+
+## Name of the bank: ______________________________ Statement for quarter ended _______________________
+
+## <u>Part A: Summary information</u>
+
+## Number Amount involved
+
+## (Rs. In lakh)
+
+1. Cases outstanding
+2. Cases where there is no progress (furnish case- wise details as per format at Part B below)
+3. Cases where there is progress (furnish case- wise details as per format at Part C below)
+## <u>Part – B: Details of cases where there is no progress</u>
+
+# Withdrawn
+
+## No. Name of Fraud No. Name of party/account Amount branch
+
+## (Rs. in lakh)
+
+<!-- PAGE 41 -->
+
+## <u>Part – C: Case-wise details of progress</u>
+
+## Name of party/account: ____________________________________ Name of branch/office: ____________________________________ Amount involved
+
+|(Rs in lakh)||______________________________|
+|---|---|---|
+|Fraud No :||______________________________|
+|1.|Date of first reporting||
+|2.a|Date of filing recovery suit with DRT/Court||
+|b|Present position||
+|3.|Recoveries made up to the end of the last quarter (Rs. in lakh)||
+|4.|Recoveries made during the||
+
+quarter (Rs. In lakh)
+
+a) From party/parties concerned
+# Withdrawn
+
+b) From insurance
+c) From other sources
+
+|5.|Total recoveries (3+4) (Rs. in|
+|---|---|
+||lakh)|
+|6.|Loss to the bank (Rs in lakh)|
+|7.|Provision held (Rs in lakh)|
+|8.|Amount written off (Rs in lakh)|
+|9.|a) Date of reporting case to|
+
+## Police/ CBI
+
+<!-- PAGE 42 -->
+
+b) Date of completion of Police/CBI investigation
+c) Date of submission of investigation report by Police/CBI
+10. Details of staff-side action **No. Nam Desg Wheth Date Date of Date Date of Punis Details of**
+## e n. er of comme of issue h-prosecuti suspen issue n-compl of final ment on/convic
+
+## -of cement e-tion orders awar-tion/acqui ded/Dt. charge of of ded ttal, etc.
+
+## of sheet domesti inquir suspen c y
+
+**s-ion inquiry**
+
+1.
+2.
+3.
+4.
+11. Other developments
+# Withdrawn
+
+12. Whether case closed during the Yes/No quarter
+13. Date of closure:
+
+<!-- PAGE 43 -->
+
+||||||||FMR – 4 Report on Dacoities/Robbe ries/Theft/Burglaries|||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Report for the quarter||Name of the bank ________________________|ended __________||______________ ___________________|(Vide Paragraph 7)|||||||
+|Name|Addre|Distric|State|Type of|Risk|Whether|Type of|Date and|Amount|Amount|Insuran||Arrested|
+|of branc h|ss|t||branch 10|classif i- cation 11|a currenc y chest branch|12 Case|time of occurrenc e|involved (Rs. In lakh)|recover ed (Rs. In lakh)|ce claim settled (Rs. In lakh)|Staff Robber|s|
+|1|2|3|4|5|6|7|Withdrawn 8|9|10|11|12|13|14|
+
+Rural/Semi-urban/Urban/Metropolitan High/Normal/Low Dacoity/Robbery/Theft/Burglary
+
+<!-- PAGE 44 -->
+
+||Killed|||Injured|Convicted||Compensation|paid (Actual in Rs.)|Actio n|Crime No. and name of|Remarks|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Staff Robbe|rs|Others||Staff Others|Staff|Robbers|Staff|Others|taken|police station at wh ich offence has been registered||
+|15|16|17|18|19|20|21|22|23|24|25|26|
+
+Withdrawn
