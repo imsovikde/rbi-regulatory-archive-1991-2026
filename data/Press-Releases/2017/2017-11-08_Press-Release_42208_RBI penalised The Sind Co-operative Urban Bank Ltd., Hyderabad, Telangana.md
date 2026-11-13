@@ -1,0 +1,41 @@
+---
+doc_id: "Press-Releases_2017_42208"
+title: "RBI  penalised The Sind Co-operative Urban Bank Ltd., Hyderabad, Telangana"
+category: "Press-Releases"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12763FBED365FA6D43D48018BB5953B3D997.PDF"
+pdf_sha256: "c7f77d0dfd020aa349b6e48b1e701870539b6cd42995387e615632b4fae814b5"
+md_sha256: "a5036bf68d67f243b4c9ca6511c954f14c6876ed5bead13b069c888716736f32"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T20:46:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2017/2017-11-08_Press-Release_42208_RBI%20penalised%20The%20Sind%20Co-operative%20Urban%20Bank%20Ltd.%2C%20Hyderabad%2C%20Telangana.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI  penalised The Sind Co-operative Urban Bank Ltd., Hyderabad, Telangana
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 0वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358 इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## November 08, 2017
+
+## RBI penalised The Sind Co-operative Urban Bank Ltd.,
+
+## Hyderabad, Telangana
+
+The Reserve Bank of India has imposed a monetary penalty of ` 0.50 lakh (Rupees Fifty thousand only) on The Sind Co-operative Urban Bank Ltd., Hyderabad, Telangana, in exercise of the powers vested in it under the provisions of Section 47A
+
+(1) (b) read with Section 46 (4) of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies), for violation of Reserve Bank of India directives and guidelines on Exposure Norms and Statutory/Other Restrictions. The Reserve Bank of India had issued a show-cause notice to the bank, in response to which the bank submitted a written reply. After considering the facts of the case, the bank’s reply in the matter and personal hearing, the Reserve Bank of India came to the conclusion that the violations were substantiated and warranted imposition of penalty.
+## Anirudha D. Jadhav
+
+**Press Release : 2017-2018/1276** Assistant Manager
