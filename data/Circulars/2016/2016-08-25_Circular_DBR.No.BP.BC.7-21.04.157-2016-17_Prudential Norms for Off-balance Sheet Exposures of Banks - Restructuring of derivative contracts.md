@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2016_DBR_No_BP_BC_7_21_04_157_2016-17"
+title: "Prudential Norms for Off-balance Sheet Exposures of Banks - Restructuring of derivative contracts"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR456D36A918C54D4F2E9E453ABCF9F83471.PDF"
+pdf_sha256: "233f7cfb9120142da3053e842f8e940c9ce48de5db88aaa56884b669984b8408"
+md_sha256: "5382e41b5873cd7e415d55bd0a5d95d285eb32eb4a750d67ea0b01928d6655a6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:36:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-08-25_Circular_DBR.No.BP.BC.7-21.04.157-2016-17_Prudential%20Norms%20for%20Off-balance%20Sheet%20Exposures%20of%20Banks%20-%20Restructuring%20of%20derivative%20contracts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms for Off-balance Sheet Exposures of Banks - Restructuring of derivative contracts
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/45 DBR.No.BP.BC.7/21.04.157/2016-17 August 25, 2016
+
+All Scheduled Commercial Banks (Excluding Local Area Banks and Regional Rural Banks)
+
+Dear Sir/Madam,
+
+## <u>Prudential Norms for Off-balance Sheet Exposures of Banks – Restructuring of derivative contracts</u>
+
+Please refer to <u>circular DBOD.No.BP.BC.57/21.04.157/2008-09 dated October 13,</u> <u>2008</u> on the captioned subject. Para 2.2 of the circular requires that in cases where a derivative contract is restructured, the mark-to-market value of the contract on the date of restructuring should be cash settled. In this context, it is clarified that cash settlement of only the change in mark-to-market value of the restructured derivative contract is required. It may, however, be ensured that the restructuring of the derivative contract is carried out at prevalent market rates, and not on the basis of off-market rates.
+
+# Withdrawn
+
+Yours faithfully,
+
+(Ajay Kumar Choudhary) Chief General Manager
+
+Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbr@rbi.org.in �हंद आसान ह, इसका प्रयोग बड़ाइए

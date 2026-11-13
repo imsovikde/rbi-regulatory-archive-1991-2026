@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2016_DCBR_BPD_PCB_Cir_No_20_12_05_001_2015-16"
+title: "Amendment in rules for implementation of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR437154093A7EAD34A34B9E051D564531E5B.PDF"
+pdf_sha256: "e45bd9aca7d353da03d0297041ac736a271f6b6a0fcc4f1e8975d8553ef27c52"
+md_sha256: "5b3dab95283d1e4d174420e260277a146e18a1ba2a2186edb4de44c69f0fc736"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:36:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-06-30_Circular_DCBR.BPD%28PCB%29Cir.No.20-12.05.001-2015-16_Amendment%20in%20rules%20for%20implementation%20of%20Pradhan%20Mantri%20Jeevan%20Jyoti%20Bima%20Yojana%20%28PMJJBY%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendment in rules for implementation of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/437 DCBR.BPD (PCB) Cir.No.20/12.05.001/2015-16 Ashadha 9, 1938 June 30, 2016
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks.
+
+Dear Sir/ Madam,
+
+## Amendment in rules for implementation of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)
+
+Please refer to our <u>circular DCBR. BPD(PCB)Cir.No.8/12.05.001/2014-15 dated May 5, 2015</u> on modalities for Implementation of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY).
+
+2. The Rules for Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) have since been reviewed by the Government of India and it has been decided by the Competent Authority to incorporate a lien clause in the rules of PMJJBY with effect from June 1, 2016 whereby claims for deaths which occur during the first 45 days from the date of enrolment will not be paid, effectively meaning that the risk cover will commence only after the completion of 45 days from the date of enrolment into the scheme by the member. However, deaths due to
+# Withdrawn
+
+accidents will be exempt from the Lien Clause.
+
+3. All Primary (Urban) Co-operative Banks are requested to initiate necessary action to implement the above-mentioned amendment. Yours faithfully,
+## (Suma Varma)
+
+## Principal Chief General Manager
+
+सहकार बक व�नयमन वभाग, कद्रय कायार्लय, पहल व दसर ू मंिज़ल, सी-7, बांद्रा कु लार् कॉम्प्लेक्स, बांद्रा (पूवर्), मुंबई-400051 भारतफोन: 022 – 26578100/8300/8500/8700- 49;ई मेल: cgmdcbrco@rbi.org.in Department of Co-operative Bank Regulation, Central Office, 1 st & 2 nd Floor,BandraKurlaCpmplex,Bandra (East), Mumbai–400051 IndiaPhone: 022 –26578100/8300/8500/8700; Email: cgmdcbrco@rbi.org.in
+
+<u>�हंद आसान है, इसका प्रयोग बढ़ाइए</u>— चेतावनी: भारतीय �रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व्यिक्त क जानकार जैसे बक के खाते का ब्यौरा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस्ताव भी नहं करता है। ऐसे प्रस्ताव का कसी भी तरके से जवाब मत दिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

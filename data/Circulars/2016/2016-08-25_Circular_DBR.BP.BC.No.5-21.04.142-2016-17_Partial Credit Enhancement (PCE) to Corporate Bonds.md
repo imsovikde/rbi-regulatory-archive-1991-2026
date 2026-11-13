@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2016_DBR_BP_BC_No_5_21_04_142_2016-17"
+title: "Partial Credit Enhancement (PCE) to Corporate Bonds"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR43172853DC997D47A9BBDC824F66859E94.PDF"
+pdf_sha256: "b27313100a66eb5fd8a71d7dc3f881735ff08f04369d2261cbede56cb8f32801"
+md_sha256: "e474e1aae250fbf27dbf15863f2de96247707b2fcd13c2db6c812bb08ec3c2b1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:36:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-08-25_Circular_DBR.BP.BC.No.5-21.04.142-2016-17_Partial%20Credit%20Enhancement%20%28PCE%29%20to%20Corporate%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Partial Credit Enhancement (PCE) to Corporate Bonds
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u>
+
+RBI/2016-17/43 DBR.BP.BC.No.5/21.04.142/2016-17 August 25, 2016
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+## Partial Credit Enhancement (PCE) to Corporate Bonds
+
+Please refer to the <u>circular DBR.BP.BC.No.40/21.04.142/2015-16 dated September</u> <u>24, 2015</u> on the captioned subject.
+
+2. In terms of para II.6 of the above-mentioned circular, the aggregate exposure limit of all banks towards the PCE for a given bond issue has been capped at 20 per cent of the bond issue size. On a review, it has been decided to increase the aggregate exposure limit from the banking system to 50 per cent of the bond issue size, with a limit up to 20 per cent of the bond issue size for an individual bank.
+3. As the purpose of PCE by banks is to enable wide investor participation in the corporate bond market, banks are exWithdrawnpected not to invest in corporate bonds which are credit enhanced by other banks.
+4. All other instructions contained in the above-mentioned circular, including the single and group borrower limits and aggregate PCE exposure norms as per the para III.24 (a) and (b), remain unchanged. Yours faithfully, (Ajay Kumar Choudhary) Chief General Manager
+क ब ं ग व�नयमन वभाग, के न् द्र य कायार्लय, 12वीं मंिज़ल, शहद भगत संह मागर्, मुंबई – 400001 Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbr@rbi.org.in �हंद आसान ह, इसका प्रयोग बड़ाइए

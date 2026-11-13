@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2016_DBS_CO_PPD_15123_11_01_021_2015-16"
+title: "Quarterly reporting system - Foreign branches/ subsidiaries/ joint ventures/ associates of Indian banks"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT4355BA654DA835C4EB4911AF4B86D257A9F.PDF"
+pdf_sha256: "daac9febacfd75818a6b87818098e1578fc2e81b7b98f2fa6a45885a83ae1296"
+md_sha256: "c78ec08a9d438beaff7bb2027162866ba85fe62e070a7d968e7ab9df7e68c2c6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:36:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-06-30_Circular_DBS.CO.PPD.15123-11.01.021-2015-16_Quarterly%20reporting%20system%20-%20Foreign%20branches-%20subsidiaries-%20joint%20ventures-%20associates%20of%20Indian%20banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Quarterly reporting system - Foreign branches/ subsidiaries/ joint ventures/ associates of Indian banks
+
+<!-- PAGE 1 -->
+
+RBI/2015-16/435 DBS.CO.PPD.15123/11.01.021/2015-16 June 30, 2016
+
+The Chief Executives of Scheduled Commercial Banks
+
+Dear Sir/ Madam,
+
+## Quarterly reporting system- Foreign branches/ subsidiaries/ joint ventures/ associates of Indian banks
+
+Kindly refer to our circular DBS.CO.PP.BC 11/11.01.005/2007-08 dated March 24, 2008 on Quarterly reporting system- foreign branches/ subsidiaries/ joint ventures/ associates of Indian banks in terms of which you were required to submit quarterly return for reporting of profit and asset size of overseas operations of the bank.
+
+**2.** On a review it has been decided to discontinue the submission of the said return with
+# Withdrawn
+
+effect from June 30, 2016.
+
+Yours faithfully,
+
+--sd-- (Parvathy V. Sundaram) Chief General Manager-in-Charge
+
+बकं ग पयर्वे�ण वभाग, के न्द्रय कायार्लय, वल्डर् ट्रे ड सटर, सटर - 1, कफ परे ड, कोलाबा, मुंबई – 400005 फोन : (91) 22 2218 9131-39<u>,</u> फै क् स : 022 2218 0157 e-mail- cgmicdbsco@rbi.org.in Department of Banking Supervision, Central Office, World Trade Centre 1,Cuffe Parade, Colaba, Mumbai - 400 005, INDIA Tele: (9122) 2218 2638 Fax: 022 2218 0157 e-mail: <u>cgmicdbsco@rbi.org.in</u>
