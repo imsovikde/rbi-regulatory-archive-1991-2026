@@ -1,0 +1,141 @@
+---
+doc_id: "Notifications_2010_816"
+title: "Master Circular – Facility for Exchange of Notes and Coins"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/102EN020710F.pdf"
+pdf_sha256: "e6582d41bfd01d3fc1045527d2578b0359fa8cfbb461c009deb852e35d213486"
+md_sha256: "19352df2c432c5700ca1af97a9e07af15e0ee8b0e609b3f5942e2d5e9c91a970"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:13:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-07-01_Notification_816_Master%20Circular%20%E2%80%93%20Facility%20for%20Exchange%20of%20Notes%20and%20Coins.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular – Facility for Exchange of Notes and Coins
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/102 DCM (NE) No.G-3 /08.07.18/2010-11 July 01, 2010 The Chairman and Managing Director / The Chief Executive Officer All Banks Dear Sir / Madam <u>Master Circular – Facility for Exchange of Notes and Coins</u> Please refer to the Master Circular pertaining to the facility for exchange of notes and coins issued vide our letter <u>DCM(NE)No.G-2/08.07.18/2002-03 dated July 5, 2002</u>. Pursuant to the changes brought in the matter, we forward a revised Master Circular on the subject for your information and taking appropriate action, where required. This Master Circular is available on our website www.rbi.org.in.
+
+Yours faithfully
+
+R. Gandhi Chief General Manager
+
+<!-- PAGE 2 -->
+
+## Facility for exchange of notes and coins at bank branches
+
+**1.(a)** All branches of banks in all parts of the country should provide the following customer services, more actively and vigorously to the members of public so that there is no need for them to approach the RBI Regional Offices only for this purpose:
+**(i)** meeting the demands for fresh / good quality notes and coins of all denominations, **(ii)** exchanging soiled notes, and **(iii)** accepting coins and notes either for transactions or exchange.
+**(b)** All the designated bank branches should provide facility for exchange of damaged / mutilated notes. The names and addresses of such bank branches are available the respective banks. Availability of such facilities at the branches should be published for information of the public at large.
+**(c)** None of the bank branches / staff should refuse to accept small denomination notes and / or coins tendered at their counters.
+## Reserve Bank of India (Note Refund) Rules, 2009 Delegation of full powers
+
+**2. (a)**In terms of Section 28 read with Section 58 (2) of Reserve Bank of India Act, 1934, no person is entitled as a right to recover from the Government of India or RBI the value of any lost, stolen, mutilated or imperfect currency note of the GOI or banknote. However, with a view to mitigating the hardship to the public in genuine cases, it has been provided that the RBI may, with the previous sanction of the Central Government, prescribe the circumstances in, and the conditions and limitations subject to which, the value of such currency notes or banknotes may be refunded as a matter of grace.
+**(b)** With a view to extending the facility for the benefit and convenience of public, designated branches of banks have been delegated powers under Reserve Bank of India (Note Refund) Rules, 2009 for exchange of torn / mutilated / defective notes free of cost. For the present, the currency chest branches are the “designated branches”, for this purpose.
+## Liberalised definition of Cut Notes
+
+**3.** In order to facilitate quicker exchange facilities, the following types of soiled and cut notes should be freely exchanged by all bank branches. They should also be accepted over bank counters in payment of Government dues and for credit of accounts of the public maintained with banks.
+I. <u>Single numbered notes – Re.1/-, Rs.2/- & Rs.5/-</u> Note presented should not be in more than two pieces. No essential feature of the note should be missing and complete number should be available in an undivided area on one of the pieces. Both the pieces should be of the same note
+
+<!-- PAGE 3 -->
+
+<u>II. Double numbered notes–Rs.10/-,Rs.20/-,Rs.50/-,Rs.100/-,Rs.500/-& Rs.1000/-</u> The note presented should not be in more than two pieces. No essential feature of the note should be missing. Both the pieces should be of the same note. The above types of notes will be treated as soiled notes and be kept along with soiled notes. These unfit notes shall, in no case, be issued to the public as reissuable notes but shall be deposited in currency chests for onward transmission to RBI offices as chest remittances.
+
+## Mutilated Notes – Presentation and Passing
+
+**4.** A mutilated note is a note of which a portion is missing or which is composed of more than two pieces. Mutilated notes may be presented either at designated bank branches of commercial banks. Mutilated notes so presented may be passed as per the Rules framed under Reserve Bank of India (Note Refund) Rules2009.
+## Extremely brittle, burnt, charred, stuck up Notes
+
+**5.**Notes which have turned extremely brittle or badly burnt, charred or inseparably stuck up together and, therefore, cannot withstand normal handling, shall not be accepted by the branches for exchange. Instead, the holders may be advised to tender these notes to the concerned Issue Office where they will be adjudicated under a Special Procedure.
+## Notes bearing "PAY"/"PAID" "REJECT" stamps
+
+**6.** Every Officer-in-charge of the branch, i.e. the Branch Manager and every Officer-in- charge of the Accounts or Cash Wing of the Branch shall act as 'Prescribed Officer' in each designated branch to adjudicate the notes received at the branch for exchange in accordance with Reserve Bank of India (Note Refund) Rules, 2009After adjudicating mutilated notes, the Prescribed Officer is required to record his order by subscribing his initials to the dated 'PAY'/ 'PAID'/ 'REJECT' stamp. The 'PAY' & 'REJECT' stamps should also carry the name of the bank and branch concerned. Defective notes bearing 'PAY'/'PAID' (or 'REJECT') stamp of any RBI Issue Office or any bank branch, if presented for payment again at any of the designated bank branches should be rejected under Rule 6(2) of Reserve Bank of India (Note Refund) Rules, 2009and the tenderer should be advised that the value of such (defective) note/s cannot be paid since the same has already been paid as is evident from the PAY/PAID stamps affixed on it/them. All bank branches have instructions not to issue notes bearing PAY/PAID stamps to the public even through oversight. The branches should caution their customers not to accept such notes from any bank or anybody else.
+## Notes bearing slogans / political messages, etc.
+
+**7.** Any note with slogans and message of a political nature written across it ceases to be a legal tender and the claim on such a note will be rejected under Rule 6(3)(iii) of Reserve Bank of India (Note Refund) Rules, 2009 Similarly, notes which are
+
+<!-- PAGE 4 -->
+
+disfigured may also be rejected under Rule 6(3)(iii) of Reserve Bank of India (Note Refund) Rules, 2009
+
+## Deliberately cut notes
+
+**8.** The notes, which are found to be deliberately cut or tampered with, if presented for payment of exchange value should be rejected under Rule 6(3)(ii) of the Reserve Bank of India (Note Refund) Rules, 2009 Although it is not possible to precisely define deliberately cut, a close look at such notes will clearly reveal any deliberate fraudulent intention, as the manner in which such notes are mutilated will follow a broad uniformity in the shape / location of missing portions of the notes, especially when the notes are tendered in large numbers. The details of the case such as the name of the tenderer, the number of notes tendered and their denominations should be reported thereafter to the Deputy/General Manager, Issue Department, under whose jurisdiction the branch falls. The matter should also be reported to local police in case a large number of such notes are tendered.
+## Training
+
+**9.** Our Issue Offices conduct training programmes for 'Prescribed Officers' of designated bank branches on a priority basis. As the training programmes are intended to provide knowledge and instil confidence in the Prescribed Officers in the process of adjudication of defective notes, it is imperative that the Prescribed Officers of the branches are deputed for such programmes.
+## Display of Notice Board
+
+**10.** All designated bank branches are required to display at their branch premises, at a prominent place, a board indicating the availability of note exchange facility with the legend, "MUTILATED NOTES ARE ACCEPTED AND EXCHANGED HERE". Banks should ensure that all their designated branches provide facilities for exchange of notes and coins. The branches should ensure that the note exchange facility is not cornered by private money changers / professional dealers in defective notes.
+## Disposal of notes adjudicated at designated branches
+
+**11.** Regarding audit of the notes adjudicated by designated bank branches, the full value paid notes have to be remitted by designated branches to the Issue Office together with the next soiled note remittance in the manner already laid down. The half value paid notes and rejected notes, which are held by the designated bank branches in its cash balance, may either be remitted separately packed together with the full value paid notes or sent by registered and insured post as and when required. The full value paid notes will be treated as chest remittance by the Issue Office while the half value paid notes and rejected notes will be treated as notes tendered for adjudication and processed accordingly. All designated bank branches are required to submit to our Issue Offices a monthly statement showing the number of notes adjudicated by them.
+
+<!-- PAGE 5 -->
+
+## Agreement between RBI and commercial banks
+
+**12 (i).** The bank branches should accept coins in exchange of notes. **(ii)** They should accept coins of all denominations from any member of public without any restriction and pay the value in notes. **(iii)** They should use counting machines or accept coins by weight for large receipts, as hitherto.
+
+## Withdrawn Coins
+
+**13(i)** Considering that aluminium coins of 5 paise, 10 paise, 20 paise, aluminum- bronze coins of 10 paise, stainless steel coins of 10 paise, cupronickel coins of 25 paise, 50 paise and rupee one denominations are being withdrawn and remitted to the mints, customers may be requested, and not insisted, to pack each of these denominations separately and also metal-wise with 100 coins in each sachet before they are tendered at the counters. Similar arrangements may also be made for acceptance of current coins of 25 paise, 50 paise and one rupee of stainless steel and two rupees and five rupees coins of cupronickel. In case of large variations of weight, counting machines may be used.
+
+**(ii)** In order to obviate the problem of storage of coins at the branches, aluminum coins of 5 paise, 10 paise, 20 paise, aluminium-bronze coins of 10 paise, stainless steel coins of 10 paise and cupronickel coins of 25 paise, 50 paise and Re.1 may be remitted to Government of India Mints at Mumbai/ Kolkata / Hyderabad with prior intimation to them through the designated branches of the bank concerned (or through link branches of other banks) as per the existing procedure. Stainless steel coins of 25 paise, 50 paise, Re.1 and Rs.2 and cupronickel / stainless steel coins of Rs.5 denominations should, however, be put back in circulation. Rs.2 cupronickel coins may not be issued to the public but retained at the designated branches till further instructions. In case, the stocks of these coins reach beyond the holding capacity for lack of demand the Issue Department of the Circle should be approached for remittance of coins.
+
+## Monitoring and Control
+
+**14(i)** The Regional Managers / Zonal Managers of the banks may pay surprise visits to the branches and report the position of compliance in this regard to the Head Office which will review such reports and take prompt remedial action, wherever necessary. **(ii)** Any non-compliance in this regard shall be viewed as violation of instructions issued by the Reserve Bank of India.
+
+<!-- PAGE 6 -->
+
+ANNEX
+
+## <u>Master Circular</u>
+
+Subject : Master Circular – Facility for Exchange of Notes and Coins <u>List of circulars consolidated by the Master Circular</u>
+
+|G-67/08.07.18/96-97|18.2.1997|RBI (Note Refund) Rules, 1975,|
+|---|---|---|
+|||Delegation of full powers to private sector banks maintaining currency chests|
+|G-52/08.07.18/96-97|11.1.1997|RBI (NR) Rules Scheme of delegation of powers to PSBs for exchange of defective notes – Disposal of notes bearing PAY/PAID stamp.|
+|G-24/08.01.01/96-97||03.12.1996 Acceptance of Exchange of Cut Notes – Liberalisation.|
+|G-64/08.07.18/95-96|18.5.1996|RBI(NR) Rules – Delegation of full powers to branches PSBs and publicity for exchange of defective notes.|
+|G-71/08.07.18/92-93|22.6.1993|RBI(NR) Rules – Scheme of delegation of full powers for exchange of defective notes to the branches of PSBs – Publicity.|
+|G-83/CL-1(PSB)-91/92|06.5.1992|RBI(NR) Rules – Delegation of powers to chest branches of PSBs.|
+|G-74/CL-(PSB)(Gen)-90/91|05.9.1991|RBI(NR) Rules – Delegation of full powers there under to PSBs.|
+|5.5/CL-1(PSB)-90/91|25.9.1990|RBI(NR) Rules – Scheme of delegation of full poweres to PSBs.|
+|8/CL-1(PSB)-90/91|17.8.1990|RBI(NR) Rules – Scheme of delegation of full powers to PSBs.|
+|G-123/CL-1(PSB)(Gen)-89/90|07.5.1990|RBI(NR) Rules – Scheme of delegation of full powers to PSBs (Amendment).|
+|G-108/CL-1(PSB)(Gen)-89/90|03.4.1990|RBI(NR) Rules 1989 – Bank notes of Rs.500/- denomination – Exchange of defective notes at branches of PSBs.|
+|G-8/CL-1(PSB)-89/90|12.7.1989|RBI(NR) Rules – Defective notes branded with 'To Claims' stamp of RBI Issue Offices.|
+|G.84/CL.1(PSB)-88/89|17.3.1989|RBI(NR) Rules – Delegation of full note exchange powers to PSBs.|
+|G.66/CL.1(PSB)-88/89||09.02.1989 RBI(NR) Rules – Delegation of powers to PSBs – Training.|
+
+<!-- PAGE 7 -->
+
+|S.12/CL-1(PSB)-88/89|30.9.1988|RBI(NR) Rules – Deliberately|
+|---|---|---|
+|||mutilated notes – Adjudication.|
+|G.134/CL-1(PSB)-87/89|25.5.1988|Implementation of the Scheme of delegation of full powers under RBI(NR) Rules.|
+|192/CL-1-(PSB)-86/87|02.6.1987|RBI(NR) Rules – Scheme of delegation of full powers to PSBs.|
+|189/CL.2/86/87|02.6.1987|Defacing currency notes by writing on them or inscribing messages, slogans etc. thereon.|
+|185/CL-1(PSB)-86/87|20.5.1987|RBI(NR) Rules – Affixing of 'PAY' and 'REJECT' stamps on defective notes.|
+|173/CL.1/84/85|02.4.1985|Delegation of full powers to PSBs for exchange of defective notes/procedures of the same.|
+|Cy.No.1064/CL.1/76/77|09.8.1976|Facilities to the public for exchange of soiled notes and slightly mutilated notes.|
+|Cy.No.386/08.07.13/2000-2001||16.11.2000 Reserve Bank of India (Note Refund) Rules, 1975 – Delegation of full note exchange powers to currency chest branches of Public/ Private Sector Banks.|
+|G-11/08.07.18/2001-02||02.11.2001 Reserve Bank of India (Note Refund) Rules, 1975 – Delegation of note exchange powers to currency chest branches of Public/Private Sector Banks.|
+|DCM(RMMT)No.404/||09.10.2003 Acceptance of coins and availability|
+|11.37.01/2003-04||of notes.|
+|DCM(NE)No.310/||19.01.2004 Providing facilities to public for|
+|08.07.18/2003-04||exchange of notes, coins, etc.|
+|DCM(RMMT)No.1181/ 11.37.01/2003-04||05.04.2004 Acceptance of coins.|
+|RBI/2006-07/349/DCM||25.04.2007 Acceptance of Small Denomination|
+|(NE)No.7488/08.07.18/ 2006-07||Notes and Coins.|
+|DCM(NE)No.1612/08.01.01/||13.09.2009 Notification of Note Refund(Rules),|
+|2009-10||2009|
