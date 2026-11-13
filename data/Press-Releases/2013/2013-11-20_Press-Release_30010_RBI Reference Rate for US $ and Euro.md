@@ -1,0 +1,48 @@
+---
+doc_id: "Press-Releases_2013_30010"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1024R1113.pdf"
+pdf_sha256: "4eacd2cd9873571539cd6869c00ffd814af8a0b7a0a305c60a2b20f69cdbf6e8"
+md_sha256: "7dcea9fd9c132dcdf9a769c6ff9ce28156d738401d19a209be5553c89b2c9c11"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:21:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-11-20_Press-Release_30010_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय ररज़िव बैंक
+
+## RESERVE BANK OF INDIA
+
+**संचार विभाग,** कें द्रीय कायाालय, एस.बी.एस.मार्ा, मुंबई-400001 ________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website: www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 2266 0358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u>
+
+## November 20, 2013
+
+## RBI Reference Rate for US $ and Euro
+
+The Reserve Bank of India’s Reference Rate for the US dollar is `62.5580 and the Reference Rate for Euro is `84.7104 on November 20, 2013. The corresponding rates for the previous day (November 19, 2013) were `62.2311 and `84.0585 respectively. Based on the Reference Rate for the US dollar and the middle rates of the cross-currency quotes, the exchange rates of GBP and JPY against the Rupee are given below:
+
+|Currency|Date||
+|---|---|---|
+||November 19, 2013|November 20, 2013|
+|1 GBP|100.1796|100.7747|
+|100 YEN|62.32|62.51|
+
+**Note :** The SDR-Rupee rate will be based on the reference rate.
+
+## Ajit Prasad
+
+## Press Release : 2013-2014/1024
+
+Assistant General Manager
