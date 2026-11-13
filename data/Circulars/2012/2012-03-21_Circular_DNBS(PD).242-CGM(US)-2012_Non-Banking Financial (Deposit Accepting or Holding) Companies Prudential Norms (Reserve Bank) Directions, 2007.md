@@ -1,0 +1,106 @@
+---
+doc_id: "Circulars_2012_DNBS_PD_242_CGM_US_-2012"
+title: "Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC265_210312.PDF"
+pdf_sha256: "c01e6fd4d01072b58c5a565eb0dae7f2d9ea79af61b0e2ac5f47203086954253"
+md_sha256: "f5d4bf6ae3ce9cc019761d67f39634e1cadeec86e0c0d2e90dcf1a217d386e6f"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:39:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-03-21_Circular_DNBS%28PD%29.242-CGM%28US%29-2012_Non-Banking%20Financial%20%28Deposit%20Accepting%20or%20Holding%29%20Companies%20Prudential%20Norms%20%28Reserve%20Bank%29%20Directions%2C%202007.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007
+
+<!-- PAGE 1 -->
+
+## RBI / 2011-12/467 DNBS.CC.PD.No.265/03.10.01/2011-12 March 21, 2012
+
+**To**
+
+## All NBFCs
+
+## Dear Sir,
+
+## Lending Against Security of Single Product – Gold Jewellery
+
+It is observed that NBFCs that are predominantly engaged in lending against the collateral of gold jewellery have recorded significant growth in recent years both in terms of size of their balance sheet and physical presence. This in turn, has led to their increased dependence on public funds including bank finance and non-convertible debentures issued to retail investors.
+
+2. Given the rapid pace of their business growth and the nature of their business model, which has inherent concentration risk and is exposed to adverse movement of gold prices, as a prudential measure, it has been decided that all NBFCs shall
+# Withdrawn
+
+i. hereafter maintain a Loan-to-Value(LTV) ratio not exceeding 60 percent for loans granted against the collateral of gold jewellery and ii. disclose in their balance sheet the percentage of such loans to their total assets.
+3. NBFCs primarily engaged in lending against gold jewellery (such loans comprising 50 percent or more of their financial assets) shall maintain a minimum Tier l capital of 12 percent by April 01,
+2014.
+4. NBFCs should not grant any advance against bullion / primary gold and gold coins.
+5. Copies of Amending Notifications No. DNBS.241/CGM (US)-2012 and DNBS.242/ CGM (US)- 2012 of date are enclosed for meticulous compliance.
+Yours sincerely,
+
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE,
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI, 400 005.
+
+## Notification No.DNBS(PD).241/ CGM(US)-2012 dated March 21, 2012
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007(hereinafter referred to as the said Directions), contained in <u>Notification No. DNBS.</u> <u>193/DG(VL)-2007 dated February 22, 2007</u>, in exercise of the powers conferred by section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows, namely –
+
+## Insertion of new paragraph 17 A-
+
+After paragraph 17 of the said Directions, the following paragraph 17A shall be inserted.
+
+## “Loans against security of single product-gold jewellery”
+
+# Withdrawn
+
+a. All NBFCs shall
+i. maintain a Loan-to-Value(LTV) ratio not exceeding 60 percent for loans granted against the collateral of gold jewellery and ii. disclose in their balance sheet the percentage of such loans to their total assets.
+b. NBFCs should not grant any advance against bullion / primary gold and gold coins. NBFCs primarily engaged in lending against gold jewellery (such loans comprising 50 percent or more of their financial assets) shall maintain a minimum Tier l capital of 12 percent by April 01, 2014.
+(Uma Subramaniam) Chief General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF NON-BANKING SUPERVISION
+
+## CENTRAL OFFICE
+
+## CENTRE I, WORLD TRADE CENTRE,
+
+## CUFFE PARADE, COLABA,
+
+## MUMBAI, 400 005.
+
+## Notification No. DNBS(PD).242/ CGM(US)-2012 dated March 21, 2012
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007(hereinafter referred to as the said Directions), contained in <u>Notification No.</u> <u>DNBS.192/DG(VL)-2007 dated February 22, 2007</u>, in exercise of the powers conferred by sections 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows, namely -
+
+## Insertion of new paragraph 17 A-
+
+After paragraph 17 of the said Directions, the following paragraph 17A shall be inserted.
+
+## “Loans against security of single product-gold jewellery”
+
+# Withdrawn
+
+a. All NBFCs shall
+i. maintain a Loan-to-Value(LTV) ratio not exceeding 60 percent for loans granted against the collateral of gold jewellery and ii. disclose in their balance sheet the percentage of such loans to their total assets.
+b. NBFCs should not grant any advance against bullion / primary gold and gold coins. NBFCs primarily engaged in lending against gold jewellery (such loans comprising 50 percent or more of their financial assets) shall maintain a minimum Tier l capital of 12 percent by April 01, 2014.
+(Uma Subramaniam) Chief General Manager-in-Charge
