@@ -1,0 +1,364 @@
+---
+doc_id: "Notifications_2010_5542"
+title: "Guidelines for Accounting of Repo / Reverse Repo Transactions"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/REPO23032010.PDF"
+pdf_sha256: "a5ef6aeb1dd3b795c2ad3beb2ed4d07e8e3d5ef3f88acfe1e8a967229bb573b0"
+md_sha256: "7f23d942e4f6ff57fddfc6674f46d4a1bdcab0c51ea925ac1997d53e6b5c6d69"
+total_pages: 11
+native_pages: 11
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:07:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-03-23_Notification_5542_Guidelines%20for%20Accounting%20of%20Repo%20-%20Reverse%20Repo%20Transactions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines for Accounting of Repo / Reverse Repo Transactions
+
+<!-- PAGE 1 -->
+
+## This circular has been superseded by <u>Repurchase Transactions (Repo) (Reserve</u>
+
+## <u>Bank) Directions, 2018 dated July 24, 2018</u>.
+
+## RBI/2009-2010/356 IDMD/4135/11.08.43/2009-10 March 23, 2010
+
+To All RBI regulated entities (Commercial Banks, Co-operative Banks, Primary Dealers, Financial Institutions, RRBs and NBFCs)
+
+Dear Sir,
+
+## Guidelines for Accounting of Repo / Reverse Repo Transactions
+
+Please refer to our <u>Circular IDMC.3810/11.08.10/2002-03</u> dated March 24, 2003 setting out uniform guidelines for accounting of repo/reverse repo transactions. These guidelines captured the character of repo/reverse repo transaction as outright sale and outright purchase as per the market convention prevailing then. The Reserve Bank of India (Amendment) Act, 2006 (Act No. 26 of 2006) provides a legal definition of 'repo' and 'reverse repo' (vide sub-sections (c) and (d) of section 45 U of Chapter III D of the Act) as an instrument for borrowing (lending) funds by selling (purchasing) securities with an agreement to repurchase (resell) the securities on a mutually agreed future date at an agreed price which includes interest for the funds borrowed (lent). Accordingly, to bring such transactions onto the balance sheet in their true economic sense and enhance transparency, the accounting guidelines have been reviewed and the draft guidelines were put in the public domain on November 14, 2008 for comments to be received by December 15, 2008. The guidelines, revised in the light of the feedback received, are set out below.
+
+2. **Applicability of the accounting guidelines**: The revised accounting guidelines will apply to market repo transactions in government securities and corporate debt securities. These accounting norms will, however, not apply to repo / reverse repo transactions conducted under the Liquidity Adjustment Facility (LAF) with RBI.
+3. Market participants may undertake repos from any of the three categories of investments, viz., **Held For Trading**, **Available For Sale** and **Held To Maturity**.
+4. The economic essence of a repo transaction, viz., borrowing (lending) of funds by selling (purchasing) securities shall be reflected in the books of the repo participants, by accounting the same as collateralized lending and borrowing transaction, with an agreement to repurchase, on the agreed terms. Accordingly, the repo seller, i.e., borrower of funds in the first leg, shall not exclude the securities sold under repo but continue to carry the same in his investment account (please see the illustration given in the Annex) reflecting his continued economic interest in the securities during the repo period. On the other hand, the repo buyer, i.e., lender of funds in the first leg, shall not include the securities purchased under repo in his investment account but show it in a separate sub- head (please see the Annex). The securities would, however, be transferred from the repo seller to repo buyer as in the case of normal outright sale/purchase transactions and such movement of securities shall be reflected using the Repo/Reverse Repo Accounts and contra entries. In the case of repo seller, the Repo Account is credited in the first leg for the
+
+<!-- PAGE 2 -->
+
+securities sold (funds received), while the same is reversed when the securities are repurchased in the second leg. Similarly, in the case of repo buyer, the Reverse Repo Account is debited for the amount of securities purchased (funds lent) and the same is reversed in the second leg when the securities are sold back.
+
+5. The first leg of the repo transaction should be contracted at the prevailing market rates. The reversal (second leg) of the transaction shall be such that the difference between the consideration amounts of first and second legs should reflect the repo interest.
+6. The accounting principles to be followed while accounting for repo / reverse repo transactions are as under:
+(i) **Coupon /Discount**
+a) The repo seller shall continue to accrue the coupon/discount on the securities sold under repo even during the repo period while the repo buyer shall not accrue the same.
+b) In case the interest payment date of the security offered under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller of the security on the date of receipt as the cash consideration payable by the seller in the second leg does not include any intervening cash flows.
+(ii) **Repo Interest Income / Expenditure** After the second leg of the repo / reverse repo transaction is over,
+
+a) the difference between consideration amounts of the first leg and second leg of the repo shall be reckoned as Repo Interest Income / Expenditure in the books of the repo buyer / seller respectively; and
+b) the balance outstanding in the Repo Interest Income / Expenditure account should be transferred to the Profit and Loss account as an income or an expenditure. As regards repo / reverse repo transactions *outstanding on the* *balance sheet date*, only the accrued income / expenditure *till the balance* *sheet date* should be taken to the Profit and Loss account. Any repo income / expenditure for the remaining period should be reckoned for the next accounting period.
+(iii) **Marking to Market** The repo seller shall continue to mark to market the securities sold under repo transactions as per the *investment classification of the security*. To illustrate, in case the securities sold by banks under repo transactions are out of the **Available** **for Sale** category, then the mark to market valuation for such securities should be done at least once a quarter. For entities which do not follow any investment classification norms, the *valuation for securities sold under repo transactions may* *be in accordance with the valuation norms followed by them in respect of securities* *of similar nature.*
+
+7. **Accounting Methodology** The accounting methodology to be followed along with the illustrations is given in **Annexes** **I and II**. Participants using more stringent accounting principles may continue using the same principles. Further, to obviate the disputes arising out of repo transactions, the participants should enter into bilateral Master Repo Agreement as per the documentation finalized by Fixed Income Money Market and Derivatives Association of India (FIMMDA).
+
+<!-- PAGE 3 -->
+
+8. **Classification of Accounts** Banks shall classify the balances in Repo A/c under Schedule 4 under item I (ii) or I (iii) as appropriate. Similarly, the balances in Reverse Repo A/c shall be classified under Schedule 7 under item I (ii) a or I (ii) b as appropriate. The balances in Repo interest expenditure A/c and Reverse Repo interest income A/c shall be classified under Schedule 15 (under item II or III as appropriate) and under Schedule 13 (under item III or IV as appropriate) respectively. The balance sheet classification for other participants shall be governed by the guidelines issued by the respective regulators.
+9. **Disclosure** The following disclosures should be made by banks in the “Notes on Accounts’ to the Balance Sheet: (in face value terms)
+(Rs. In crore)
+
+|||||Minimum|Maximum|Daily Average||
+|---|---|---|---|---|---|---|---|
+||i. ii. i. ii.|reverse repo|Securities sold under repo Government securities Corporate debt securities Securities purchased under Government securities Corporate debt securities|outstanding during the year|outstanding during the year|outstanding during the year|Outstanding as on March 31|
+
+10. **Treatment for Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)**
+***(i) Government securities**:* The regulatory treatment of market repo transactions in Government securities will continue as hitherto, i.e., the funds borrowed under repo will continue to be exempt from CRR/SLR computation and the security acquired under reverse repo shall continue to be eligible for SLR.
+## (ii) Corporate debt securities:
+
+In respect of repo transactions in corporate debt securities, as already advised vide <u>IDMD.DOD.05/11.08.38/2009-10</u> dated January 8, 2010,
+
+a. The amount borrowed by a bank through repo shall be reckoned as part of its Demand and Time Liabilities (DTL) and the same shall attract CRR/SLR as per the provisions of the Master Circular <u>DBOD.Ret.BC.45/12.01.001/2009-10</u> dated September 18, 2009.
+b. The borrowings of a bank through repo in corporate bonds shall be reckoned as its liabilities for reserve requirement and, to the extent these liabilities are to the banking system, they shall be netted as per clause (d) of the explanation under section 42(1) of the RBI Act, 1934. Such borrowings shall, however, be subject to the prudential limits for inter-bank liabilities prescribed vide circular <u>DBOD.BP.BC.66/21.01.002/2006-07</u> dated March 06, 2007.
+
+<!-- PAGE 4 -->
+
+11. **Effective Date** The revised accounting principles for market repo will be applicable from April 01, 2010. The outstanding repo/reverse repo transactions would however, continue to be accounted as hither to, till maturity.
+## Yours faithfully
+
+(**Sanjay Hansda**) Director
+
+<!-- PAGE 5 -->
+
+## ANNEX-I
+
+## Recommended Accounting Methodology for accounting of Repo / Reverse Repo transactions
+
+i The following accounts may be maintained, viz. i) Repo Account, ii) Reverse Repo Account, iii) Reverse Repo Interest Income Account, iv) Repo Interest Expenditure Account v) Reverse Repo Interest Receivable Account and vi) Repo Interest Payable Account.
+
+ii In addition to the above, the following 'contra' accounts may also be maintained, viz. i) Securities Sold under Repo Account, (ii) Securities Purchased under Reverse Repo Account, (iii) Securities Receivable under Repo Account and (iv) Securities Deliverable under Reverse Repo Account.
+
+## Repo
+
+iii In a repo transaction, the securities should be sold in the first leg at market related prices and re-purchased in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The sale and repurchase should be reflected in the Repo Account. iv Though the securities are not excluded from the repo seller's investment account and not included in the repo buyer's investment account, the transfer of securities shall be reflected by using the necessary contra entries.
+
+## Reverse Repo
+
+v In a reverse repo transaction, the securities should be purchased in the first leg at prevailing market prices and sold in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The purchase and sale should be reflected in the Reverse Repo Account. vi The balances in the Reverse Repo Account shall not be a part of the Investment Account for balance sheet purposes but can be reckoned for SLR purposes if the securities acquired under reverse repo transactions are approved securities.
+
+## Other aspects relating to Repo/Reverse Repo
+
+vii In case the interest payment date of the securities sold under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller on the date of receipt as the cash consideration payable by the seller in the second leg does not include any intervening cash flows. viii To reflect the accrual of interest in respect of the outstanding repo transactions at the end of the accounting period, appropriate entries should be passed in the Profit and Loss account to reflect Repo Interest Income / Expenditure in the books of the buyer / seller respectively and the same should be debited / credited as an expenditure payable/income receivable. Such entries passed should be reversed on the first working day of the next accounting period. ix Repo seller continues to accrue coupon/discount as the case may be, even during the repo period while the repo buyer shall not accrue the same.
+
+x Illustrative examples are given in ***Annex II***
+
+<!-- PAGE 6 -->
+
+## ANNEX-II
+
+## Illustrative examples for accounting of Repo / Reverse repo transactions (Encl. to
+
+## RBI Circular on guidelines for accounting for repo/reverse repo transactions)
+
+***While in the body of the circular, the term "repo" is used generically to include both*** ***repo and reverse repo (which is simply a mirror image of a repo transaction), in this*** ***Annex the accounting guidelines have been set out separately for repo and reverse repo for clarity.***
+
+## A. Repo/Reverse Repo of dated security 1. Details of Repo in a coupon bearing security:
+
+|Security offered under repo|6.35% 2020||
+|---|---|---|
+|Coupon payment dates|02 January and 02 July||
+|Market Price of security|Rs.90.9100|(1)|
+|Date of the repo|28-Mar-2010||
+|Repo interest rate|5.00%||
+|Tenor of the repo Reversal date for the repo|5 days 02-Apr-2010||
+|Broken period interest for the first leg*|6.35% x 86 / 360 x 100 = 1.5169|(2)|
+|Cash consideration for the first leg|(1) + (2) = 92.4269|(3)|
+|Repo interest**|92.4269 x5/365x5.00%= 0.0633|(4)|
+|Cash Consideration for the second leg|(3)+(4) = 92.4269 + 0.0633 = 92.4902||
+
+**** Using 30/360 day count convention ** Using Actual/365 day count convention***
+## 2. Accounting for Repo Seller (Borrower of Funds)
+
+<u>First leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash|92.4269||
+|Repo A/c||92.4269|
+|Securities Receivable under Repo A/c (by contra)|92.4269||
+|Securities Sold under Repo A/c (by contra)||92.4269|
+
+## <u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Repo A/c|92.4269||
+|Repo Interest Expenditure A/c|0.0633||
+|Cash A/c||92.4902|
+|Securities Sold under Repo A/c (by contra)|92.4269||
+|Securities Receivable under Repo A/c (by contra)||92.4269|
+
+<!-- PAGE 7 -->
+
+## 3. Accounting for Repo Buyer (Lender of Funds)
+
+<u>First leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Reverse Repo A/c|92.4269||
+|Cash A/c||92.4269|
+|Securities Purchased under Reverse Repo A/c (by contra)|92.4269||
+|Securities Deliverable under Reverse Repo A/c (by contra)||92.4269|
+
+## <u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash A/c|92.4902||
+|Reverse Repo A/c||92.4269|
+|Reverse Repo Interest Income A/c||0.0633|
+|Securities Deliverable under Reverse Repo A/c (by contra)|92.4269||
+|Securities Purchased under Reverse Repo A/c (by contra)||92.4269|
+
+***4. Ledger entries for the adjustment accounts*** ***Securities Receivable under Repo A/c***
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Sold under Repo st A/c (repo 1 leg)|92.4269|By Securities Sold under Repo nd A/c (repo 2 leg)|92.4269|
+
+***Securities Sold under Repo A/c***
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Receivable under nd Repo A/c (repo 2 leg)|92.4269|By Securities Receivable under st Repo A/c (repo 1 leg)|92.4269|
+
+***Securities Purchased under Repo A/c***
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Deliverable under Reverse Repo A/c (reverse st repo 1 leg)|92.4269|By Securities Deliverable under Reverse Repo A/c nd (reverse repo 2 leg)|92.4269|
+
+***Securities Deliverable under Repo A/c***
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Purchased under Reverse Repo A/c (reverse nd repo 2 leg)|92.4269|By Securities Purchased under Reverse repo A/c (Reverse st Repo 1 leg)|92.4269|
+
+<!-- PAGE 8 -->
+
+5. If the balance sheet date falls during the tenor of the repo, participants may use the transit accounts, i.e., Repo Interest Payable A/c and Reverse Repo Interest Receivable A/c to record the accrued interest and reverse the same the following day. The balances in the repo interest receivable and payable shall be taken to the P & L Account with appropriate entries passed in the Balance sheet, as below:- **Transaction Leg 1st leg Balance Sheet Date 2nd leg** **Dates 28-Mar-10 31-Mar-10 02-Apr-10**
+**a) Entries in the Books of Repo Seller (borrower of funds) on 31-Mar-10**
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Expenditure [Balances under the account to be transferred to P & L]|A/c 0.0506 (being the repo interest for 4 days)||
+|Repo Interest Payable A/c||0.0506|
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|P & L A/c|0.0506||
+|Repo Interest Expenditure A/c||0.0506|
+
+## b) Reversal of entries in the Books of Repo Seller (borrower of funds) on 01-Apr-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Payable A/c|0.0506||
+|Repo Interest Expenditure||0.0506|
+
+# <u>c) Entries in books of Repo Buyer (Lender of Funds)on 31-Mar</u>-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Receivable A/c|0.0506||
+|Reverse Repo Interest Income A/c [Balances under the account to be transferred to P & L]||0.0506 (Being the repo interest for 4 days)|
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.0506||
+|P & L A/c||0.0506|
+
+## d) Reversal of entries in the Books of Repo Buyer (Lender of Funds) on 01-Apr-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.0506||
+|Reverse Repo Interest Receivable A/c||0.0506|
+
+<!-- PAGE 9 -->
+
+## B. Repo/ Reverse Repo of Treasury Bill 1. Details of Repo on a Treasury Bill
+
+|Security offered under Repo|GOI 91 day Treasury Bill maturing on 07 May 2010||
+|---|---|---|
+|Price of the security offered under Repo|Rs.99.0496|(1)|
+|Date of the Repo|28-Mar-2010||
+|Repo interest rate|5%||
+|Tenor of the repo|5 days||
+|Total cash consideration for the first leg|99.0496|(2)|
+|Repo interest *|99.0496 X 5%X 5 /365 = 0.0678|(3)|
+|Cash consideration for the second leg|(2)+(3) = 99.0496 + 0.0678 = 99.1174||
+
+**** Using Actual/365 day count convention***
+## 2. Accounting for Repo Seller (Borrower of Funds)
+
+<u>First leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash|99.0496||
+|Repo A/c||99.0496|
+|Securities Receivable under Repo A/c (by contra)|99.0496||
+|Securities Sold under Repo A/c (by contra)||99.0496|
+
+## <u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Repo A/c|99.0496||
+|Repo Interest Expenditure A/c|0.0678||
+|Cash A/c||99.1174|
+|Securities Sold under Repo A/c (by contra)|99.0496||
+|Securities Receivable under Repo A/c (by contra)||99.0496|
+
+## 3. Accounting for Repo Buyer (Lender of Funds)
+
+<u>First leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Reverse Repo A/c|99.0496||
+|Cash A/c||99.0496|
+|Securities Purchased under Reverse Repo A/c (by contra)|99.0496||
+|Securities Deliverable under Reverse Repo A/c (by contra)||99.0496|
+
+<!-- PAGE 10 -->
+
+<u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash A/c|99.1174||
+|Reverse Repo A/c||99.0496|
+|Reverse Repo Interest Income A/c||0.0678|
+|Securities Deliverable under Reverse Repo A/c (by contra)|99.0496||
+|Securities Purchased under Reverse Repo A/c (by contra)||99.0496|
+
+## 4. Ledger entries for the adjustment accounts Securities Receivable under Repo A/c
+
+|Debit||Credit|
+|---|---|---|
+|To Securities Sold under Repo st A/c (repo 1 leg)|99.0496|By Securities Sold under 99.0496 nd Repo A/c (repo 2 leg)|
+
+## Securities Sold under Repo A/c
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Receivable under nd Repo A/c (repo 2 leg)|99.0496|By Securities Receivable st under Repo A/c (repo 1 leg)|99.0496|
+
+## Securities Purchased under Repo A/c
+
+|Debit||Credit|
+|---|---|---|
+|To Securities Deliverable under Reverse Repo A/c (reverse st repo 1 leg)|99.0496|By Securities Deliverable 99.0496 under Reverse Repo A/c nd (reverse repo 2 leg)|
+
+## Securities Deliverable under Repo A/c
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Purchased under Reverse Repo A/c (reverse nd repo 2 leg)|99.0496|By Securities Purchased under Reverse Repo A/c st (reverse repo 1 leg)|99.0496|
+
+5. If the balance sheet date falls during the tenor of the repo, participants may use the transit accounts, i.e. Repo Interest Payable A/c and Reverse Repo Interest Receivable A/c to record the accrued interest and reverse the same the following day. The balances in the repo interest receivable and payable shall be taken to the P & L Account with appropriate entries passed in the Balance sheet, as below:- **Transaction Leg 1st leg Balance Sheet Date 2nd leg** **Dates 28-Mar-10 31-Mar-10 02-Apr-10**
+
+<!-- PAGE 11 -->
+
+## a) Entries in the Books of Repo Seller (borrower of funds) on 31-Mar-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Expenditure A/c 0.0543 (being the repo [Balances under the account to be transferred to P & L]|interest for 4 days)||
+|Repo Interest payable A/c||0.0543|
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|P & L A/c|0.0543||
+|Repo Interest Expenditure A/c||0.0543|
+
+## b) Reversal of entries in the Books of Repo Seller (borrower of funds) on 01-Apr-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Payable A/c|0.0543||
+|Repo Interest Expenditure||0.0543|
+
+## c) Entries in books of Repo Buyer (Lender of Funds) on 31-Mar-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Receivable A/c|0.0543||
+|Reverse Repo Interest Income A/c [Balances under the account to be transferred to P & L]||0.0543 (Being the repo interest for 4 days)|
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.0543||
+|P & L A/c||0.0543|
+
+## d) Reversal of entries in the Books of Repo Buyer (Lender of Funds) on 01-Apr-10
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.0543||
+|Reverse Repo Interest Receivable A/c||0.0543|

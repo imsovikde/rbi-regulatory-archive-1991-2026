@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2010_5509"
+title: "Standardisation and Enhancement of Security Features in Cheque Forms"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CBCF220210F.PDF"
+pdf_sha256: "a0b5ee7572ac5478faf777e518ab3b60241df5c64fe82f3942bd0c6faa0195d8"
+md_sha256: "2cc6060664b8ffb075ceb756552ee554060175c7326e5d02c668cfec16eaf4c8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:06:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-02-22_Notification_5509_Standardisation%20and%20Enhancement%20of%20Security%20Features%20in%20Cheque%20Forms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standardisation and Enhancement of Security Features in Cheque Forms
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/323 DPSS.CO.CHD.No. 1832 / 04.07.05 / 2009-10 February 22, 2010
+
+The Chairman and Managing Director / Chief Executive Officer All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks
+
+Madam / Dear Sir,
+
+## <u>Standardisation and Enhancement of Security Features in Cheque Forms</u>
+
+Paper-based cheque clearing continues to be one of the popular modes of initiating payment transactions in the country. During the period April-December 2009, clearing houses in the country have processed on an average around 4.5 million cheques every day. Several measures have been initiated by Reserve Bank of India to ensure that this retail payment product functions in a safe and efficient manner.
+
+2. Introduction of Magnetic Ink Character Recognition (MICR) technology during the mid- eighties has been the single-most important development responsible for making the cheque clearing popular and efficient – volume-wise, speed-wise and convenience-wise. At the banks’ end too, cheques in MICR format have facilitated post-processing ease in operations, affording credit to customer accounts and reducing reconciliation issues, thus improving customer service. Standardisation of cheque forms (leaves) in terms of size, MICR band, quality of paper, etc., was one of the key factors that enabled mechanisation of cheque processing.
+3. Over a period of time, banks have added a variety of patterns and design of cheque forms to aid segmentation, branding, identification, etc., as also incorporated therein a number of security features to reduce the incidence of cheque misuse, tampering, alterations, etc. Growing use of multi-city and payable-at-par cheques for handling of cheques at any branches of a bank, introduction of Cheque Truncation System (CTS) at New Delhi for image-based cheque processing, increasing popularity of Speed Clearing for local processing of outstation cheques, etc., are a few aspects that led to looking into the need, if any, for prescription of certain minimum security features in cheques printed, issued and handled by banks and customers uniformly across the banking industry.
+4. Against the above backdrop, a Working Group was set-up by the Reserve Bank of India for examining further standardisation of cheque forms and enhancement of security features therein. The Working Group comprised various stakeholders viz. commercial banks, paper manufacturers, security printers, etc., apart from Reserve Bank of India. Recommendations of the Working Group were discussed internally as also forwarded to Indian Banks’ Association (IBA), National Payments Corporation of India (NPCI) and select banks for their views. The feedback from these institutions has been received and duly considered.
+5. It has since been decided to prescribe certain benchmarks towards achieving standardisation of cheques issued by banks across the country. These include provision of mandatory minimum security features on cheque forms like quality of paper, watermark, bank’s logo in invisible ink, void pantograph, etc., and standardisation of field placements on cheques. In addition, certain desirable features are also being suggested which could be implemented by banks based on their need and risk perception. The set of minimum security features would not only ensure uniformity across all cheque forms issued by banks in the country but also help presenting banks while scrutinising / recognising cheques of drawee banks in an image-based processing scenario. The
+
+<!-- PAGE 2 -->
+
+homogeneity in security features is expected to act as a deterrent against cheque frauds, while the standardisation of field placements on cheque forms would enable straight- through-processing by use of optical / image character recognition technology.
+
+6. The benchmark prescriptions shall be known as "**CTS-2010 standard**", specifications of which are annexed. Effective date of implementation of the standard will be advised to you in due course. It is our intention that the revised cheque standard is implemented by banks before the roll-out of CTS at Chennai. IBA and NPCI will be co-ordinating and advising banks on introduction of additional security features on cheques as also other aspects relating to implementation of the standard across the country.
+7. Please acknowledge receipt of the circular and indicate your readiness for implementing the "**CTS-2010 standard**".
+## Yours faithfully
+
+(G Padmanabhan) Chief General Manager
+
+## <u>Encl</u>. : CTS-2010 Standard Specifications
+
+## <u>Related Notification</u>

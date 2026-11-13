@@ -1,0 +1,70 @@
+---
+doc_id: "Notifications_2010_5499"
+title: "UCBs - List of Terrorist individuals / organizations – under UNSCR 1267 (1999) and 1822(2008) on Taliban / Al-Qaida organisation"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR44100210.pdf"
+pdf_sha256: "60e062df00c4a182e323e62ecad2ccf6bbd7068ab3840b1c7f8804151718aa2c"
+md_sha256: "17fe7e02609b3049742f7a9a70831847693dc4532262d85bd833277dcc3b9f2a"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:06:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-02-10_Notification_5499_UCBs%20-%20List%20of%20Terrorist%20individuals%20-%20organizations%20%E2%80%93%20under%20UNSCR%201267%20%281999%29%20and%201822%282008%29%20on%20Taliban%20-%20Al-Qaida%20organisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - List of Terrorist individuals / organizations – under UNSCR 1267 (1999) and 1822(2008) on Taliban / Al-Qaida organisation
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/313
+
+February 10, 2010
+
+UBD (PCB) CO.BPD.Cir.No.44 /14.01.062/2009-10
+
+TheChiefExecutiveOfficersof
+
+All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+List of Terrorist individuals / organizations - under UNSCR 1267 (1999) and
+
+1822(2008)onTaliban / Al-Qaidaorganisation
+
+Please refer to our circular UBD(PCB)CO.BPD.Cir.No.43 /14.01.062/2009-10
+
+dated February 9, 2010.
+
+2. Please find enclosed a copy of the corrigendum received from Government of
+
+India (Ministry of External Affairs) as forwarded by the Chairman of UN Security
+
+Council's 1267 Committee regarding a technical error in the Arabic script of one
+
+of names referred tointhe notedatedJanuary 19,2010{Al-Qaida in theArabian
+
+Peninsula (AQAP) (QE.A.129.10)} for information and necessary action.
+
+Yours faithfully
+
+(Monisha Chakraborty)
+
+Deputy General Manager
+
+Encl: As above.
+
+,  q, , e, ..., ,  - 400 018,
+
+:022 - 2493 9930 - 49;a: 022 - 2497 4030/2492 0231; : rbiubdc0@rbi.org.in
+
+Urban Banks Department,Central Office,Garment House,1Floor,Dr.A.B.Road,Worli,Mumbai-400018,India
+
+Phone:022- 2493 9930 -49;Fax: 022 - 2497 4030/ 2492 0231; Email: rbiubdco@rbi.org.in

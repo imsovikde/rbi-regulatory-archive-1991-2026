@@ -1,0 +1,66 @@
+---
+doc_id: "Notifications_2010_5586"
+title: "Collateral Free Loans - Educational Loan Scheme"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CLE130410.pdf"
+pdf_sha256: "076d2f3d6e01f59af6a1c3290931a5ff655a00817e241c6378d0b61af6ff446a"
+md_sha256: "5ada23627bf43cafaa968c02e8b1b3abe07768e1a2377f9dd30d5fa2a3693789"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:07:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-04-12_Notification_5586_Collateral%20Free%20Loans%20-%20Educational%20Loan%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Collateral Free Loans - Educational Loan Scheme
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/396
+
+RPCD.SME&NFS.BC.No.69/06.12.05/2009-10
+
+April 12, 2010
+
+The Chairman/Managing Director
+
+AllScheduledCommercialBanks
+
+Dear Sir,
+
+Collateral Free Loans - Educational Loan Scheme
+
+regarding educational loan scheme, wherein it was advised that no security may be insisted
+
+quarters that collateral security is being demanded even for loans upto Rs.4 lakh.
+
+2. In this connection, we advise that banks must not, mandatorily, obtain collateral security
+
+in the case of educational loans upto Rs. 4 lakh.
+
+3. You are requested to issue suitable instructions to your branches/controlling offices for
+
+meticulous and strict compliance in this regard.
+
+4. Please acknowledge receipt.
+
+Yours faithfully,
+
+(B.P.Vijayendra)
+
+Chief General Manager
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, post box no. 10014
+
+Mumbai -400 001
+
+f/TelNo:91-22-22610261aH/FaxNo:91-22-22621011/22658273/22658276Email
+
+ID:cgmicrpcd@rbi.org.in

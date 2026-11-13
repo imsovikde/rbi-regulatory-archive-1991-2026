@@ -1,0 +1,80 @@
+---
+doc_id: "Notifications_2010_5554"
+title: "Classification in the Balance Sheet - Capital Instruments"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NCBCI300310.pdf"
+pdf_sha256: "3b17826e520c3174a2a9a67f91332fa2a7293726d02e364e096f442d9410dd46"
+md_sha256: "13fac98b486e43956d98be72d55d6fd309403ae62e57bf59b5645d8f5c4632c1"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:07:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-03-30_Notification_5554_Classification%20in%20the%20Balance%20Sheet%20-%20Capital%20Instruments.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Classification in the Balance Sheet - Capital Instruments
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/368
+
+DBOD.BP.BCNo.81/21.01.002/2009-10
+
+March 30, 2010
+
+The Chairmen/Chief Executives of
+
+All Commercial Banks
+
+(excluding RRBs)
+
+Dear Sir
+
+Classification in the Balance Sheet - Capital Instruments
+
+It has been observed that there is no uniformity in the accounting practice followed
+
+by banks in classifying the various regulatory capital instruments for the purpose of
+
+presentation in the Balance Sheet. We have recently examined the issue and advise
+
+that the following classification may be adopted in the balance sheet from the
+
+financial year ending March 31, 2010:
+
+Under Schedule 1-Capital
+
+(1) Perpetual Non-Cumulative Preference Share (PNCPS)
+
+Under Schedule 4 - Borrowings
+
+(2) Innovative Perpetual Debt Instruments (IPDl)
+
+(3) Hybrid debt capital instruments issued as bonds/debentures
+
+(4) Perpetual Cumulative Preference Shares (PCPS)
+
+(5) Redeemable Non-Cumulative Preference Shares (RNCPS)
+
+(6) Redeemable Cumulative Preference Shares (RCPS)
+
+(7) Subordinated Debt
+
+Yours faithfully,
+
+(B. Mahapatra)
+
+Chief General Manager
+
+400001
+
+Department of Banking Operations and Development, Central Office, 12" floor, Shahid Bhagat Singh Marg,Mumbai - 400001
+
+fta /Tel No: 91-22-22661602 haH/Fax No: 91-22-22705691/22705693 Email ID:cgmicdbodco@rbi.org.in

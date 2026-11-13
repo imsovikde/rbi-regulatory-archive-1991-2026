@@ -1,0 +1,206 @@
+---
+doc_id: "Notifications_2010_5517"
+title: "Report of the High Level Committee to Review Lead Bank Scheme - Implementation of the recommendations"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/HLCLBS190310.pdf"
+pdf_sha256: "4879f9c4a3a9038f9d6c511a6df2298fe7a54daf8260eca487da55ecce8960d8"
+md_sha256: "08090efa7072e1a5261f4a7ed435dcf6fe0a3e6edd1b8e273d8d231eaade4dd5"
+total_pages: 11
+native_pages: 10
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:06:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-03-02_Notification_5517_Report%20of%20the%20High%20Level%20Committee%20to%20Review%20Lead%20Bank%20Scheme%20-%20Implementation%20of%20the%20recommendations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Report of the High Level Committee to Review Lead Bank Scheme - Implementation of the recommendations
+
+<!-- PAGE 1 -->
+
+SS6T
+
+PLATINUM JUBILEE
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/331
+
+RPCD.CO.LBS.HLC.BC.No.57/02.19.10/2009-10
+
+March 2, 2010
+
+The Chairmen/ CMDs
+
+All Lead Banks/All Scheduled Commercial Banks
+
+Dear Sir,
+
+Report of the High Level Committee to Review Lead Bank Scheme-
+
+Implementation of therecommendations
+
+Over a period of four decades, since the inception of the Lead Bank Scheme (LBS),
+
+several changes have taken place necessitating a relook at the scheme to make it
+
+more effective in the changed economic scenario with sharper focus on financial
+
+inclusion and recent developments in the banking sector. A High level Committee to
+
+review the Lead Bank Scheme was, therefore, constituted by Reserve Bank of India.
+
+2. The Committee recommended that the Lead Bank Scheme is useful and needs
+
+to continue. The overarching objective of the Scheme is to enable banks and State
+
+Governments to work together for inclusive growth.
+
+3. All the action points emanating from the recommendations of the Committee
+
+requiring action to be taken by the Lead Banks/commercial banks are appended at
+
+Annex. You are advised to initiate actions for speedy implementation of the
+
+recommendations and also closely monitor the progress made by commercial banks
+
+in this regard.
+
+10.10014400001
+
+Rural Planning & Credit Department Central Office, 10" Floor, Central Office Building, Post Box No. 10014 Mumbai -400 001
+
+/Te1 No: 91-22-22610923 a/Fax No:91-22-22610943/22610948/22621011 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. With a view to improving the efficacy of the LBS, we advise that the various fora under the LBS need to be strengthened. More time of the SLBC/DCC machinery may be utilized to discuss specific issues inhibiting and enabling financial inclusion. At the District Consultative Committee (DCC) level, sub committees as appropriate may be set up to work intensively on specific issues and submit reports to the DCC for its consideration. Illustrative guidelines on the conduct of District Consultative Committee (DCC) meetings are detailed below:
+## I. Conduct of DCC Meetings
+
+i) District Consultative Committee (DCC) meeting may be convened by the Lead Banks at quarterly intervals as per the extant instructions. ii) At the District Consultative Committee (DCC) level, sub-committees as appropriate may be set up to work intensively on specific issues and submit reports to the DCC for its consideration. iii) DCC should give adequate feedback to the SLBC on various issues that needs to be discussed on a wider platform, so that, these receive adequate attention at the State Level.
+## II. Agenda items
+
+While all Lead Banks are expected to address the problems particular to the concerned districts, some of the important areas which are common to all the districts on which the Lead Banks should invariably discuss in the fora are as under:
+
+i. monitoring mechanism to periodically assess and evaluate the progress made in achieving the road map to provide banking services within the time frame prescribed. ii. identification of unbanked/under banked areas for providing banking services in a time bound manner with a view to achieve 100% financial inclusion
+iii. the specific issues inhibiting and enabling IT enabled financial inclusion iv. issues to facilitate 'enablers' and remove/minimise 'impeders' for banking development for inclusive growth
+
+<!-- PAGE 3 -->
+
+v. monitoring initiatives for providing 'Credit Plus' activities by banks and State Governments such as setting up of Credit Counselling Centres and RSETI type Training Institutes for providing skills and capacity building to manage businesses. vi. review of performance of banks under Annual Credit Plan (ACP)
+vii. flow of credit to priority sector and weaker sections of the society viii. assistance under Government sponsored schemes ix. grant of educational loans
+
+x. progress under SHG-bank linkage xi. SME financing & bottlenecks thereof, if any
+xii. timely submission of data by banks xiii. review of relief measures (in case of natural calamities wherever applicable)
+
+The above list is illustrative and not exhaustive. The Lead Banks may include any other agenda item considered necessary.
+
+## III. Role of LDMs
+
+As the effectiveness of the Lead Bank Scheme depends on the dynamism of the District Collector and the LDM, with supportive role of the Regional/Zonal Office, the office of Lead District Managers (LDMs) should be sufficiently strengthened with appropriate infrastructural support being the focal point for successful implementation of the Lead Bank Scheme. Officers of appropriate level and attitude should be posted as LDMs. Apart from the usual role of LDMs like convening meetings of the DCC and DLRC, periodical meetings of DDM/LDO/ Government officials for resolving outstanding issues etc., the new functions envisaged for LDMs include the following:
+
+i. drawing up the road map for banking penetration ii. monitoring implementation of annual credit plan
+iii. associate with the setting up of Financial Literacy and Credit Counselling Centres (FLCCs), RSETIs by banks
+
+<!-- PAGE 4 -->
+
+iv. holding annual sensitisation workshops for banks and government officials with participation by NGOs/Panchayati Raj Institutions (PRIs)
+
+v. arranging for quarterly awareness and feedback public meetings, grievance redressal etc.
+5. Further, we draw your attention the following major recommendations:
+## I. BANKING PENETRATION
+
+Lead Banks are advised to focus attention on the urgent need for achieving 100% financial inclusion through penetration of banking services in the rural areas. Such banking services may not necessarily be extended through a brick and mortar branch but can be provided through any of the various forms of ICT- based models, including through BCs. However, ICT connectivity should not be an issue of consideration for not pursuing financial inclusion by commercial banks/RRBs. In this connection you may be guided by our Circular <u>RPCD.CO.LBS.HLC.BC.No.43/</u>
+
+<u>02.19.10/2009-10</u> dated November 27, 2009.
+## II. GREATER ROLE FOR PRIVATE SECTOR BANKS
+
+The private sector banks should involve themselves more actively by bringing in their expertise in strategic planning and leveraging on Information Technology. The Lead Banks, on their part, should also ensure that private sector banks are more closely involved in the LBS, both while drawing up and in implementing the ACP.
+
+## III. PREPARATION OF DISTRICT CREDIT PLAN/ANNUAL CREDIT PLAN
+
+i) Preparation of Potential Linked Plan (PLP) by NABARD may be advanced to be completed by August every year so that the State Governments may factor in the projection made by the PLP in the state/district plan. While preparing the PLP, the District Development Managers (DDMs) of NABARD along with the Lead District Managers (LDMs) of the Lead Banks may discuss with the concerned development departments of the State Governments and the banks having significant presence in the districts. The District Credit Plan/Annual Credit Plan may be prepared by the LDMs taking into account the PLP for agriculture and allied activities. For other
+
+<!-- PAGE 5 -->
+
+sectors (i.e. other than agriculture and allied activities), the LDM should work out a similar action plan based on the commitments made by the State Government, other stakeholders and banks.
+
+ii) The Zonal/controlling offices of banks, while finalizing their business plans for the year, should take into account the commitments made in the **ACP which should be** **ready well in time before the performance budgets are finalized.** It may be ensured that there is little or no divergence between the PLP and the DCP/ACP.
+
+## IV. QUARTERLY PUBLIC MEETING AND GRIEVANCE REDRESSAL
+
+The Lead District Manager may convene a quarterly public meeting at various locations in the district, in coordination with the Reserve Bank, banks having presence in the area and other stakeholders to generate awareness of the various banking policies and regulations relating to the common person, obtain feedback from the public and provide grievance redressal to the extent possible at such meetings or facilitate approaching the appropriate machinery for such redressal.
+
+## V. FINANCIAL LITERACY & CREDIT COUNSELLING
+
+i) Each Lead Bank is expected to open a Financial Literacy and Credit Counselling Centre (FLCC) in every district where it has lead responsibility by following the recent guidelines issued by RBI in this regard. Suitable grant may be considered out of the Financial Inclusion Fund (FIF) to set up such centres in districts identified as being financially excluded by the Committee on Financial Inclusion. ii) The State Government machinery may support the efforts made by banks for financial literacy. Towards this, State Governments may proactively provide assistance of the government machinery, especially at the grass root level such as schools, panchayats, etc., for this purpose.
+6. All other instructions issued prior to this circular will continue to remain operative /effective.
+
+<!-- PAGE 6 -->
+
+7. We shall be glad if you will please keep our respective Regional Offices informed of the action taken by you on the various recommendations at quarterly intervals.
+8. Please acknowledge receipt. Yours faithfully Sd/- (Deepali Pant Joshi) Chief General Manager Encl: As above
+
+<!-- PAGE 7 -->
+
+## Annex
+
+## High Level Committee to review Lead Bank Scheme - Action Points for Lead Banks/Commercial Banks
+
+||Sr. No. Reco. No.|Recommendations|
+|---|---|---|
+|1.|1|The Lead Bank Scheme (LBS) is useful and needs to continue. T he State Level Bankers Committee (SLBC) and various fora under LBS should focus on addressing the ‘enablers’ and ‘impeders’ in advancing greater financial inclusion and flow of credit to priority sectors, while monitoring Govt. Sponsored Schemes. (Para 3.1, 3.8)|
+|2.|2|Penetration of banking in several parts of the country is still limi ted. Hence, it is critical that banking services are seen as a public good an d are also made accessible to all sections of population and regions of the country at affordable cost. The State development machinery has to ensure the av ailability of backward and forward linkages to ensure that credit is gainfully deployed and income levels enhanced. (Para 3.3)|
+|3|3|The overarching objective of LBS shall be to enable banks and State Governments to work together for inclusive growth. (Para 3.4)|
+|4|4|It is necessary to broad base the scope of the scheme to cover in itiatives for financial inclusion, role of State Governments, financ ial literacy and credit counselling as also 'credit plus' activities, formulate action plans to facilitate 'enablers' and remove /minimise 'impeders' for banking development for incl usive growth, develop grievance redressal mechanism, etc.(Para 3.7)|
+|5|7|Banks need to take the maximum advantag e of available IT solutions. The funding arrangements available under Financial Incl usion Technology Fund (with NABARD) or other options such as the support offered for distribution of Government payments by RBI may be explored for the purpose. However, connectivity should not be an issue of consideration for not pursuing Financial In clusion by commercial banks/RRBs (Para 3.13)|
+|6|9|Although permitted, Primary Agricultural Credit Societies (PACS) are not being used as BCs. Concerted efforts may be made for usin g PACS as BCs where such PACS are running well. (Para 3.16).|
+|7|11|State Governments to ensure road/ digital connectivity to all centres where penetration|
+
+<!-- PAGE 8 -->
+
+|||by the formal banking system is required. The achievement of such connectivity may be monitored by a sub-committee of the DCC. Advantage may be taken of the special scheme offered by RBI of satellite connectivity through small V-SATs in remote areas. (Para 3.19)|
+|---|---|---|
+|8|17|Lead banks to open a Financial Literacy and Credit Counselling Centre (FLCC) in every district where they have lead responsibility. (Para 3.25)|
+|9|18|The DLCCs/SLBCs may monitor initiatives for providing 'credit plus' services by banks and State Government. The lead banks would need to take expeditious steps to set up RSETIs as per the plan projections. As recommended by the Working Group on Rehabilitation of Sick SMEs (Chairman: Dr. K.C. Chakrabarty, April 2008), a scheme fo r utilising specified NGOs for providing training and other serv ices to tiny micro enterprises may be considered by the SLBC convenor banks in co nsultation with State Governments as per the guidelines contained in RBI circul ar RPCD.SME&NFS.BC.No. 102/06.04.01/2008-09 dated May 04, 2009. (Para 3.26)|
+|10|23|The present planning process envisages prepar ation of PLPs by NABARD for all the districts of the country. These plans are to be prepared by October-November every year and provide inputs both to the dist rict planning authorities for preparing their budgetary plans and to the lead banks for preparing the Di strict Credit Plans (DCP), respectively. Preparation of PLP may be advanced to be completed by August every year to enable the State Governments factor in the PLP projections. (Para 3.31)|
+|11|25|The Zonal / Controlling offices of banks, while finalising th eir business plans for the year, should take into account the PLPs prepared by NABARD and plans prepared by the LDMs for sectors other than agriculture and allied activities which should be ready well before the performance budgets are finalised. (Para3.33)|
+|12|26|The Annual Credit Plan would be prepared by the Lead District Manager of the Lead banks concerned taking into account the PLPs. The Annual Credit Plans, among others, should clearly indicate the proposed coverage for SCs/STs, minorities and promotion of SHGs in the district. (Para 3.34)|
+|13|30|Banks should involve themselves actively in the selection of beneficia ries and focus on the bankability and viability of th e scheme in the overall interest of ensuring better recovery and ensuring that the subsidy is effectively used for the intended purpose. Governments|
+
+<!-- PAGE 9 -->
+
+|||should evaluate outcomes rather than w hether the amounts allocated are fully spent. (Para 3.43)|
+|---|---|---|
+|14|32|The activities of NGOs in facilitating and channelling cred it to the low income households are expected to increase in the coming year s. Bank's linkage with such NGOs/Corporate houses operating in the area to ensure that the NGOs/Corporates provide the necessary 'credit plus' services can help leverage bank credit for inclusive growth. Success stories could be presented in DCC/SLBC meetings to serve as models that could be replicated.(Para 3.45)|
+|15|33|SLBC/DCC to identify academicians and researchers engaged in research and development studies to be invited occasiona lly to the meetings of these bodies. (Para 3.46)|
+|16|34|Private sector banks to involve themselves more actively in LBS by bringing in their expertise in strategic planning and leveraging on Information Technology. The Lead banks may involve private sector banks more cl osely in the LBS while drawing up and implementing the ACP. (Para 3.47)|
+|17|35|State Governments should be able to leverage on the benef its of undertaking government business by bank s to incentivize in Government sponsored schemes. Private sector banks may actively involve with t he DCC and Action Plans where they have a presence and extend their services throug h permitted channels in underbanked and unbanked area. (Para 3.49)|
+|18|41|The various fora at lower levels should give adequate feedback to the SLBC on issues needed to be discussed on a wider platform. Important issues/ decisions of the BLBC, DCC and DLRC should be placed before the next meeting of the SLBC, so that these receive adequate attention at the State Level. (Para 4.6)|
+|19|49|A Sub-Committee of DCC may be formed to work intensively on specific issues. There could be different sub-committees to deal wi th role of SHGs/MFIs, IT based financial inclusion, MSE sector, etc.(Para 4.14)|
+|20|50|The role of LDM should cover convening meetings of the DCC and DLRC, periodical meetings of DDM/LDO/Government officials for resolving outstanding issues, facilitating|
+
+<!-- PAGE 10 -->
+
+|||setting up of Financial Literacy and Credit Counselling Centres (FLCCs), RSETIs by banks, holding annual sensitisatio n workshops for banks and government officials with participation by NGOs/PRIs, grievance redressal, credit planning at the district level and monitoring implementation of the annual credit plan. (Para 4.15)|
+|---|---|---|
+|21|51|LDM’s office being the focal point for successful implementation of the Lead Bank Scheme, due care should be taken in select ing the incumbent and t he posting should be made a coveted one. (Para 4.16(i))|
+|22|53|There is a need for putting in place a me chanism to facilitate greater co-ordination between LDM, LDO and DDM outs ide the scheduled DCC/DLRC meetings, on an ongoing basis, which will, inter alia, also help in re dressal of grievances of the users of banking services. LDMs should be sufficiently empowered and delegated with powers to discharge their responsibilities.RDs/CGMs to revi ew adequacy of support available. (Para 4.16(iv)(v)(vi))|
+|23|54|As soon as Reserve Bank, Government of In dia, NABARD and IBA’s instructions are placed on their websites, banks may communicate the same to their branches electronically so that the relative instructions come into operation immediately. (Para 5.2)|
+|24|56|Bank officials posted as Lead District Managers may be given two to three weeks attachment at Zilla Parishad/Collectorate for familiarization with government’s role and functioning with regard to the developmental programmes. (Para 5.4)|
+|25|57|Exposure visits may be a rranged by the Lead Bank for District Collectors, Block Development Officers, bank officials, SHGs at various levels to leverage upon success stories. (Para 5.5)|
+|26|58|Bank Managers should also visit the SHG meet ing places to help understand SHGs better. (Para 5.6)|
+|27|59|Functionaries of PRIs, especially gram panchayats should be familiarized with preparation of bankable schemes, so that budgetary fund s for livelihood promotion can be leveraged for promoting financial inclusion and increasing credit absorption capacity. The LDM/ DDM could take initiatives in this regard. (Para 5.7)|
+
+<!-- PAGE 11 -->
+
+|28|64|Every quarter, the lead bank may organi|ze an awareness and feedback public meeting|
+|---|---|---|---|
+|||in its district. (Para 5.14)||
+|29|65|The LDM may invite the Banking Ombudsman same at his/her convenience. (Para 5.15 & 5.16)|(BO) for such meetings who may attend the|
+|30|66|Each lead bank is expected to open a Fina (FLCC) in every district where it has lead resp issued by RBI in this regard. The State Government machinery may support the efforts made by banks for financial literacy. Towa provide assistance of the gove rnment machinery, especially at the grass root level such as schools, panchayats, etc., for|ncial Literacy and Credit Counselling Centre onsibility by following the recent guidelines rds this, State Government may proactively|
+
+## this purpose. (Para 5.18)

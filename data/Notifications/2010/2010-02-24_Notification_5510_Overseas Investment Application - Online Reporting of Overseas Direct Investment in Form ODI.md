@@ -1,0 +1,77 @@
+---
+doc_id: "Notifications_2010_5510"
+title: "Overseas Investment Application - Online Reporting of Overseas Direct Investment in Form ODI"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APICR36240210.PDF"
+pdf_sha256: "fbc7b78adccf819fc5c8030230c98e30085addc844d36f49cfe704d522bae12e"
+md_sha256: "3451c33d3a6bf99efae0fdc9dc1b518eea562a3bfc291cc12ca101434549b587"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:06:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-02-24_Notification_5510_Overseas%20Investment%20Application%20-%20Online%20Reporting%20of%20Overseas%20Direct%20Investment%20in%20Form%20ODI.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Investment Application - Online Reporting of Overseas Direct Investment in Form ODI
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2009-10/36 A.P. (DIR Series) Circular No.36 February 24, 2010
+
+To All Category – I Authorised Dealer Banks Madam / Sir,
+
+## Overseas Investment Application-Online Reporting of
+
+## Overseas Direct Investment in Form ODI
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to
+
+A.P. (DIR Series) Circular No. 68 dated June 1, 2007, revising the reporting package on Overseas Direct Investment (ODI) by the Indian Parties. Further, it
+# 2022
+
+was also mentioned in the circular that the ODI forms would be received on-line 22, by the Reserve Bank, in due course.
+
+2. Accordingly, it has been decided to operationalise the on-line reporting
+# August
+
+system in a phased manner, with effect from **March 2, 2010,** to simplify the existing reporting framework. The new system would enable on-line generation of
+
+w.e.f.
+the Unique Identification Number (UIN), acknowledgment of remittance/s and filing of the Annual Performance Reports (APRs) and easy accessibility to data at the AD level for reference purposes.
+
+3. As per the plan, initially, Part I Withdrawn (Sections A to D), II and III of form ODI should be filed on-line in the Overseas Investment Application for allotment of UIN, reporting of subsequent remittances, filing of APRs, etc. AD Category –I banks would continue to receive the ODI forms in physical form, as stipulated in the <u>A. P. (DIR Series) Circular No. 68 dated June 1, 2007</u>, which should be preserved, UIN wise, for onward submission to the Reserve Bank, if specifically required. Transactions in respect of Mutual Funds, Portfolio Investment Scheme (PIS) and Employees Stock Options Scheme (ESOPS) are also required to be reported on-line in the Overseas Investment Application.
+
+<!-- PAGE 2 -->
+
+4. The on-line reporting would be required to be made by the Centralized Unit/Nodal Office of AD Category-I banks. The Overseas Investment Application would be hosted on the Reserve Bank's Secured Internet Website (SIW) [https://secweb.rbi.org.in](https://secweb.rbi.org.in) and a link would be made available for accessing the Application on the main page of the website. AD Category – I banks would be responsible for the validity of the information reported on-line. The detailed operational guidelines for accessing the Overseas Investment Application are being communicated to the AD Category-I banks separately.
+5. The application for overseas investment under the approval route would continue to be submitted to the Reserve Bank in physical form as hitherto, in addition to the on-line reporting of Part I as contemplated above, for approval purposes. Further, the transactions relating to closure / disinvestment/ winding up/ voluntary liquidation of the overseas Joint Ventures/Wholly Owned Subsidiaries2022 (JVs / WOSs) under the automatic and approval routes (Part IV of form ODI)
+22, would continue to be submitted to the Reserve Bank in physical form as is being done at present.
+
+# August
+
+6. As per the new reporting system, AD Category – I banks would be able generate the UIN on-line under the automatic route. However, subsequent remittances under the automatic route
+w.e.f. and remittances under the approval route
+should be made and reported on-line in Part II, only after receipt of the letter, confirming the UIN from the Reserve Bank.
+
+7. AD Category-I banks may bring the contents of this circular to the notice
+# Withdrawn
+
+of their constituents and customers concerned.
+
+8. The directions contained in this Circular have been issued under Section 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+## Chief General Manager-in-Charge
