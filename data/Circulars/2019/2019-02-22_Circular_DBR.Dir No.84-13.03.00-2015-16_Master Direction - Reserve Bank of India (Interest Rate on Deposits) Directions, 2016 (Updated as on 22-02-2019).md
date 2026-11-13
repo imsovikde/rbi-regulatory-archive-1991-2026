@@ -1,0 +1,605 @@
+---
+doc_id: "Circulars_2019_DBR_Dir_No_84_13_03_00_2015-16"
+title: "Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016 (Updated as on 22-02-2019)"
+category: "Circulars"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/19MD136AF73A742648C4B28FDEADCBA16D23.PDF"
+pdf_sha256: "b0c45f2aab127d2f439bd37f94635d98e472cf2d55650edb1a6b055807dae1fe"
+md_sha256: "7fc262cd3fd7fa848a4934d4ca60cfc18a21ff8d4696e2124e0e5d7122e1fc52"
+total_pages: 28
+native_pages: 28
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:40:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2019/2019-02-22_Circular_DBR.Dir%20No.84-13.03.00-2015-16_Master%20Direction%20-%20Reserve%20Bank%20of%20India%20%28Interest%20Rate%20on%20Deposits%29%20Directions%2C%202016%20%28Updated%20as%20on%2022-02-2019%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016 (Updated as on 22-02-2019)
+
+<!-- PAGE 1 -->
+
+## RBI/DBR/2015-16/19
+
+## Master Direction DBR.Dir.No.84/13.03.00/2015-16 March 03, 2016
+
+**(**<u>Updated as on June 07, 2024</u>**)** **(**<u>Updated as on October 26, 2023</u>**)** **(**<u>Updated as on September 16, 2022</u>**)** **(**<u>Updated as on November 11, 2021</u>**)** **(**<u>Updated as on July 02, 2021</u>**)** **(**<u>Updated as on February 22, 2019</u>**)**
+
+## Master Direction-Reserve Bank of India (Interest Rate on Deposits)
+
+## Directions, 2016
+
+In exercise of the powers conferred by conferred by Sections 21 and 35 A of the
+
+Banking Regulation Act, 1949, the Reserve Bank of India being satisfied that it is
+
+necessary and expedient in the public interest so to do, hereby, issues the Directions
+
+hereinafter specified.
+
+## INDEX
+
+## <u>Section</u> Particulars
+
+# <u>Withdrawn</u>
+
+## <u>CHAPTER – I</u>
+
+|||PRELIMINARY|
+|---|---|---|
+|1.|Short Title and Commencement||
+|2.|Applicability||
+|3.|Definitions|CHAPTER – II|
+|4.|Interest Rate framework|CHAPTER – III|
+|5.|Interest rate on domestic Current Account||
+|6.|Interest Rate on domestic Saving Deposits||
+|7.|Interest Rates on domestic Term Deposits||
+|8.|Payment of Additional Interest on domestic deposits||
+|9.|Interest on overdue domestic deposits||
+
+## <u>GENERAL GUIDELINES</u>
+
+## <u>DOMESTIC RUPEE DEPOSITS</u>
+
+<!-- PAGE 2 -->
+
+10. <u>Floating rate domestic term deposits</u>
+11. <u>Periodicity of payment of Interest on domestic savings deposits</u> <u>Interest payable on the domestic deposit account of deceased</u>
+12. <u>depositor</u> <u>Discretion to pay interest on the minimum credit balance in the</u>
+13. <u>composite cash credit account of a farmer</u>
+14. <u>Penalty on premature withdrawal of domestic term deposit</u>
+## <u>CHAPTER – IV</u>
+
+## <u>RUPEE DEPOSITS OF NON-RESIDENTS</u>
+
+15. <u>Interest rates on Rupee Deposits-Non-Residents</u>
+16. <u>Prohibition on marking lien</u>
+17. <u>Penalty on premature withdrawal of NRE deposits</u> <u>Interest payable on the NRE term deposit account of deceased</u>
+18. <u>depositor</u>
+## <u>CHAPTER – V</u>
+
+## <u>FOREIGN CURRENCY DEPOSITS</u>
+
+|19.|Foreign Currency (Non-resident) Accounts (Banks) Scheme|
+|---|---|
+|20.|Manner of calculation of interest on FCNR(B) deposits|
+|21.|Calculation of interest on renewal of FCNR (B) deposits|
+|22.|Interest payable on the deposit of a deceased FCNR(B) depositor|
+|23.|Payment of interest on FCNR (B) deposits of NRIs on return to India|
+|24.|Conversion of FCNR (B) Accounts of Returning Indians into RFC Accounts/Resident Rupee Accounts- Payment of interest|
+|25.|Premature withdrawal of deposits|
+|26.|Penalty on Premature Withdrawal of deposits|
+|27.|Resident Foreign Currency Accounts Scheme|
+|28.|Prohibitions|
+|29.|Exemptions|
+
+# <u>Withdrawn</u>
+
+## <u>CHAPTER – VI</u>
+
+## <u>PROHIBITIONS AND EXEMPTIONS</u>
+
+<u>SCHEDULE- I</u> <u>CHAPTER – VII</u> <u>REPEAL AND OTHER PROVISIONS</u>
+
+30. <u>List of circulars</u>
+
+<!-- PAGE 3 -->
+
+## CHAPTER – I PRELIMINARY
+
+## 1. Short Title and Commencement.
+
+(a) These Directions shall be called the Reserve Bank of India (Interest Rate on Deposits) Directions, 2016.
+(b) These directions shall come into effect on the day it is placed on the official website of the Reserve Bank of India.
+## 2. Applicability
+
+The provisions of these Directions shall apply to every Scheduled Commercial Bank {including Regional Rural Banks (RRBs)}, Small Finance Banks, Payment Banks and Local Area Banks <u>1</u>. These directions shall not be applicable to operations of foreign branches of Indian banks.
+
+**3.efinitions D**
+(a) In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them below:
+(i) “Bulk Deposit” means :Withdrawn
+(i) Single Rupee term deposits of Rupees three crore and above for Scheduled Commercial Banks (excluding Regional Rural banks) and Small Finance Banks. (ii) Single Rupee term deposits of Rupees one crore and above for Regional Rural Banks and Local Area Banks.
+(ii) “Composite Cash Credit” means a type of loan product having a cash credit limit with a fully savings module designed to take care of farmer’s interest. (iii) “Current Account” means a form of non-interest bearing demand deposit where from withdrawals are allowed any number of times depending upon the balance in the account or up to a particular agreed amount. and shall also be deemed to include other deposit accounts which are neither Savings Deposit nor Term Deposit; (iv) “Daily product” means the interest applied on the end of day balance.
+
+<!-- PAGE 4 -->
+
+(v) “Demand deposit” means a deposit received by the bank, which is withdrawable on demand; (vi) “Domestic Rupee Deposits” mean rupee deposits maintained in India in the form of current account, savings deposits or term deposit. (vii) “Family” includes members as mentioned in the bank’s Service/Staff Regulations. (viii) “FCNR(B) account” means a Foreign Currency Non-Resident (Bank) account referred to in Foreign Exchange Management (Deposit) Regulations, 2000, as amended from time to time. (ix) “Individual” means a natural person.
+(x) “Member of the bank’s staff” means a person employed on a regular basis, whether full-time or part-time, and includes a person recruited on probation or employed on a contract of a specified duration or on deputation and an employee taken over in pursuance of any scheme of amalgamation, but does not include a person employed on casual basis. (xi) “Notice deposit” means term deposit for specific period but withdrawable on giving at least one complete banking day’s notice.
+# Withdrawn
+
+(xii) “NRE account” means a Non-resident External deposit account referred to in Foreign Exchange Management (Deposit) Regulations, 2000, as amended from time to time. (xiii) “NRO account” means a Non-resident ordinary deposit account referred to in Foreign Exchange Management (Deposit) Regulations, 2000, as amended from time to time. (xiv) “Retired member of the bank’s staff” means an employee retiring whether on superannuation or otherwise as provided in the bank’s Service/Staff Regulations. (xv) “RFC account” means a Resident Foreign Currency account referred to in Foreign Exchange Management (Foreign currency accounts by a person resident in India) Regulations, 2000, as amended from time to time. (xvi) “Savings deposit” means a form of interest bearing demand deposit which is a deposit account whether designated as “Savings Account”, “Savings Bank
+
+<!-- PAGE 5 -->
+
+Account”, “Savings Deposit Account”, “Basic Savings Bank Deposit Account (BSBDA)” or other account by whatever name called which is subject to the restrictions as to the number of withdrawals as also the amounts of withdrawals permitted by the bank during any specified period; (xvii) “Scheduled commercial Bank” means banks other than co-operatives banks included in second schedule of Reserve Bank of India Act, 1934. (xviii) “Term deposit” means a interest bearing deposit received by the bank for a fixed period and shall also include deposits such as Recurring /Cumulative /Annuity /Reinvestment deposits and Cash Certificates;
+
+(b) All other expressions unless defined herein shall have the same meaning as have been assigned to them under the Banking Regulation Act or the Reserve Bank of India Act, or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+# Withdrawn
+
+<!-- PAGE 6 -->
+
+## CHAPTER – II GENERAL GUIDELINES
+
+## 4. Interest Rate framework
+
+Scheduled commercial banks shall pay interest on deposits of money (other than current account deposits) accepted by them or renewed by them in their Domestic, Ordinary Non-Resident (NRO), Non-Resident (External) Accounts (NRE) and Foreign Currency (Non-resident) Accounts (Banks) Scheme {FCNR(B)} deposit account on the terms and conditions specified in these directions:
+
+(a) There shall be a comprehensive policy on interest rates on deposits duly approved by the Board of Directors or any committee of the Board to which powers have been delegated.
+(b) The rates shall be uniform across all branches and for all customers and there shall be no discrimination in the matter of interest paid on the deposits, between one deposit and another of similar amount, accepted on the same date, at any of its offices.
+(c) Interest rates payable on deposits shall be strictly as per the schedule of interest rates disclosed in advance. The banks shall maintain the bulk deposit interest rate card in their Core banking system to facilitate supervisory review.
+# Withdrawn
+
+(d) The rates shall not be subject to negotiation between the depositors and the bank.
+(e) The interest rates offered shall be reasonable, consistent, transparent and available for supervisory review/scrutiny as and when required.
+(f) All transactions, involving payment of interest on deposits shall be rounded off to the nearest rupee for rupee deposits and to two decimal places for FCNR (B) deposits.
+(g) <u>eposits D</u>
+<u>maturing on non-business working day</u>
+
+(i) If a term deposit is maturing for payment on a non-business working day, Scheduled Commercial Banks shall pay interest at the originally contracted rate on the original principal deposit amount for the non-business working day, intervening between the date of the maturity of the specified term of the deposit
+
+<!-- PAGE 7 -->
+
+and the date of payment of the proceeds of the deposit on the succeeding working day. (ii) In case of reinvestment deposits and recurring deposits, Scheduled Commercial Banks shall pay interest for the intervening non-business working day on the maturity value. <u>onsequence</u> (h) <u>C</u> <u>of transfer of branch of one bank to another bank</u> Deposits accounts transferred from one bank branch to another bank branch on account of takeover of bank branches in rural and semi-urban centres shall adhere to the following conditions:
+
+(i) deposit accounts shall deemed to be transferred to the new bank and will continue to be governed by the terms of contract agreed to between the customer and the bank branch that is being taken over. (ii) the same rate of interest shall be payable till maturity on such transferred deposits, as was payable at the time of takeover of the branch.
+# Withdrawn
+
+<!-- PAGE 8 -->
+
+## CHAPTER – III
+
+## DOMESTIC RUPEE DEPOSITS
+
+## 5. Interest rate on domestic Current Account
+
+No interest shall be paid on deposits held in current accounts. **Provided** that balances lying in current account standing in the name of a deceased individual depositor or sole proprietorship concern shall attract interest from the date of death of the depositor till the date of repayment to the claimant/s at the rate of interest applicable to savings deposit as on the date of payment.
+
+## 6. Interest Rate on domestic Saving Deposits
+
+In addition to the conditions laid down in section 4 of these Directions, interest on domestic rupee savings deposits shall be subject to the following:
+
+(a) Interest on domestic rupee savings deposits shall be calculated on a daily product basis as under:
+interest rate shall one lakh,
+
+|(i) A uniform||be set|on balance|up to|Rupees|
+|---|---|---|---|---|---|
+||irrespective of the amount in the account within this limit.|||||
+|(ii) Differential rates of interest may be provided for any end-of-day savings bank|balance exceeding Rupees one lakh.|||||
+|7.|Interest Rates on domestic Term Deposits|||||
+|(a)|In addition to the conditions laid down in section 4 of these Directions, interest|||||
+
+# Withdrawn
+
+rates on term deposits shall vary only on account of one or more of the following reasons:
+
+*(i) Tenor of Deposits:* Banks shall have the freedom to determine the maturity/tenor of the deposit subject to the condition that minimum tenor of the deposit offered shall be seven days. *(ii) Size of Deposits* Differential interest rate shall be offered only on bulk deposits. **Provided** that differential interest shall not be applicable on deposit schemes framed on the basis of the Bank Term Deposit Scheme, 2006 or the deposits received under the Capital Gains Accounts Scheme, 1988.
+
+<!-- PAGE 9 -->
+
+*(iii) Non- availability of Premature withdrawal option* Banks shall have the freedom to offer term deposits without premature withdrawal option. **Provided** that all term deposits accepted from individuals (held singly or jointly) for amount of Rupees one crore and below shall have premature-withdrawal- facility.
+
+(b) Payment of Interest on pre-mature withdrawal: The interest rates applicable on term deposits withdrawn before the maturity date shall be as under:
+(i) Interest shall be paid at the rate applicable to the amount and period for which the deposit remained with the bank and not at the contracted rate. (ii) No interest shall be paid, where premature withdrawal of deposits takes place before completion of the minimum period specified in section 7(a)(i).
+## 8. Payment of Additional Interest on domestic deposits
+
+(a) Scheduled Commercial Banks shall, at their discretion, allow additional interest of one per cent per annum, over and above the rate of interest mentioned in the
+# Withdrawn
+
+schedule of interest rates on savings or a term deposits of bank’s staff and their exclusive associations as well as on deposits of Chairman, Chairman & Managing Director, Executive Director or such other Executives appointed for a fixed tenure, subject to the following conditions:
+
+(i) The additional interest is payable till the person continues to be eligible for the same and in case of his ceasing to be so eligible, till the maturity of a term deposit account. (ii) In case of employees taken over pursuant to the scheme of amalgamation, the additional interest is allowed only if the interest at the contractual rate together with the additional interest does not exceed the rate, which could have been allowed if such employees were originally employed by the bank. (iii) In the case of employees taken on deputation from another bank, the bank from which they are deputed may allow additional interest in respect of the savings or term deposit account opened with it during the period of deputation.
+
+<!-- PAGE 10 -->
+
+(iv) In the case of persons taken on deputation for a fixed tenure or on a contract of a fixed tenure, the benefit will cease to accrue on the expiry of the term of deputation or contract, as the case may be.
+
+(v) Bank Employees’ Federations, in which bank employees are not direct members, shall not be eligible for additional interest. (vi) The additional interest may be paid on the following deposits after obtaining a declaration from the depositor concerned, that the monies deposited or which may be deposited from time to time into such account belong to the depositor:
+(a) member or a retired member of the bank’s staff, either singly or jointly with any member or members of his/her family; or
+(b) the spouse of a deceased member or a deceased retired member of the bank’s staff; and
+(c) an Association or a fund, members of which are members of the bank’s staff;
+(b) Scheduled Commercial Banks shall, at their discretion, formulate term deposit schemes specifically for resident Indian senior citizens, offering higher and fixed rates of interest as compared to normal
+# Withdrawn
+
+deposits of any size. **Provided** that this facility is not offered on the term deposit standing in the name of an HUF or the Karta of the Hindu Undivided Family (HUF), even if the Karta is a resident Indian senior citizen.
+
+(c) Scheduled Commercial Banks shall, at their discretion, give their resident Indian retired staffs, who are senior citizens, the benefit of additional interest rates as admissible to senior citizens over and above the additional interest payable to them by virtue of their being retired members of the banks’ staff.
+## 9. Interest on overdue domestic deposits
+
+(a) The rate of interest to be paid on renewal of overdue term deposits shall be subject to the stipulation contained in the section 4 of these Directions.
+(b) If a Term Deposit (TD) matures and proceeds are unpaid, the amount left unclaimed with the bank shall attract rate of interest as applicable to savings account or the contracted rate of interest on the matured TD, whichever is lower.
+
+<!-- PAGE 11 -->
+
+## 10. Floating rate domestic term deposits
+
+Floating rate domestic term deposits shall be linked to a directly observable and transparent market determined external benchmark.
+
+## 11. Periodicity of payment of Interest on domestic savings deposits
+
+(a) Interest on savings deposit shall be credited at quarterly or shorter intervals.
+(b) Interest on savings bank accounts, including those frozen by the enforcement authorities, shall be credited on regular basis irrespective of the operational status of the account.
+## 12. Interest payable on the domestic deposit account of deceased depositor
+
+The rate of interest on matured deposits standing in the name of a deceased individual depositor, or two or more joint depositors, where one of the depositors has died, shall be subject to the conditions laid down in section 4 of these Directions.
+
+## 13. Discretion to pay interest on the minimum credit balance in the
+
+## composite cash credit account of a farmer
+
+Interest on the minimum credit balance in the composite cash credit account of a farmer during the period from the 10 th to the last day of each calendar month shall be
+
+# Withdrawn
+
+paid, subject to the conditions given in section 4 of these Directions.
+
+## 14. Penalty on premature withdrawal of domestic term deposit
+
+(a) There shall be a comprehensive policy on penalties for premature withdrawal of term deposits approved by the Board of Directors or any committee of the Board to which powers have been delegated.
+(b) The components of penalty shall be clearly brought to the notice of the depositors at the time of acceptance of deposits. If not, no penalty shall be levied.
+(c) In case of splitting of the amount of term deposit at the request from the claimant/s of deceased depositors or Joint account holders, no penalty for premature withdrawal of the term deposit shall be levied if the period and aggregate amount of the deposit do not undergo any change.
+(d) No penalty for premature withdrawal shall be levied, where depositors of the branch as mentioned in section 4(h) of this direction desires premature withdrawal of deposit consequent to the transfer of business to another bank.
+
+<!-- PAGE 12 -->
+
+## CHAPTER – IV
+
+## RUPEE DEPOSITS OF NON-RESIDENTS
+
+## 15. Interest rates on Rupee Deposits-Non-Residents
+
+Interest on deposits of money accepted or renewed under NRE/NRO deposit scheme shall be on the terms and conditions specified in the ensuing paragraphs:
+
+(a) The interest rates shall be subject to the conditions laid down in section 4 of these Directions.
+(b) Interest rates on savings deposits under Non-Resident (External) Rupee (NRE) Deposit / Ordinary Non-Resident (NRO) Deposits shall be in accordance with section 6 of these Directions.
+(c) Interest rates on NRE/NRO term deposits shall vary only on account of one or more of the following reasons:
+*(i) Tenor of Deposits:* Banks shall have the freedom to determine the maturity/tenor of the deposit subject to the condition that minimum tenor of NRE term deposits shall be one year and that of NRO term deposits shall be seven days. *(ii) Size of Deposits*
+# Withdrawn
+
+Differential interest rate shall be offered only on bulk deposits
+
+## (iii) Non-availability of Premature withdrawal option:
+
+Banks shall have the freedom to offer NRE / NRO term deposits without premature withdrawal option, provided that all NRE / NRO term deposits accepted from individuals (held singly or jointly) for amount of Rupees one crore and below shall have premature-withdrawal-facility.
+
+(d) Interest rates on NRE/ NRO deposits shall not be higher than those offered by the banks on comparable domestic rupee term deposits.
+(e) The benefit of additional interest rate on deposits on account of being bank’s own staff or senior citizens shall not be available to NRE and NRO deposits.
+(f) Interest on savings deposits shall be credited at quarterly or shorter intervals.
+
+<!-- PAGE 13 -->
+
+(g) If an NRE account holder, immediately on return to India, requests for conversion of the NRE term deposit into Resident Foreign Currency Account (RFC), interest shall be paid as under:
+(i) if the NRE deposit has not run for a minimum period of one year, interest shall be paid at a rate not exceeding the rate payable on savings deposits held in RFC accounts. (ii) In all other cases, interest shall be paid at the contracted rate.
+## 16. Prohibition on marking lien
+
+Scheduled Commercial Banks shall not mark any type of lien, direct or indirect, against NRE saving deposits.
+
+## 17. Penalty on premature withdrawal of NRE deposits
+
+There shall be a comprehensive policy on penalties for premature withdrawal of NRE term deposits approved by the Board of Directors or any committee of the Board to which powers have been delegated, subject to the following:
+
+(a) The components of penalty shall be clearly brought to the notice of the depositors at the time of acceptance of the deposits.
+# Withdrawn
+
+(b) No penalty shall be levied for premature withdrawal of NRE term deposits for conversion into Resident Foreign Currency (RFC) Account.
+(c) Penalties for premature withdrawal shall be levied for conversion of NRE deposit into FCNR (B) deposit and vice versa.
+(d) No penalty for premature withdrawal shall be levied, where depositors of the branch as mentioned in section 4(h) of this direction desires premature withdrawal of deposit consequent to the transfer of business to another bank.
+## 18. Interest payable on the NRE term deposit account of deceased
+
+**depositor** In case the claimants of an NRE term deposit account of a deceased depositor are residents, the deposit on maturity shall be treated as a domestic rupee term deposit and interest shall be paid for the subsequent period at a rate applicable to a domestic term deposit of similar maturity.
+
+<!-- PAGE 14 -->
+
+## CHAPTER – V
+
+## FOREIGN CURRENCY DEPOSITS
+
+## 19. Foreign Currency (Non-resident) Accounts (Banks) Scheme
+
+Interest on deposits of money accepted or renewed under the Foreign Currency (Non-Resident) Accounts (Banks) Scheme shall be in accordance with the terms and conditions specified in the ensuing paragraphs:
+
+(a) The interest rates shall be subject to the conditions laid down in section 4 of these Directions.
+(b) Interest rates on term deposits under the FCNR (B) scheme shall vary only on account of one or more of the following reasons:
+(i) *Tenor of deposits* The maturity period for term deposits under the FCNR (B) scheme shall be as under:
+a. One year and above but less than two years
+b. Two years and above but less than three years
+c. Three years and above but less than four years
+d. Four years and above but less than five years
+e. Five years only
+# Withdrawn
+
+**Provided** that, no bank shall accept or renew FCNR (B) deposits over five years and no recurring deposits shall be accepted under the FCNR (B) Scheme. (ii) *Size of deposits* Scheduled Commercial Banks shall, at their discretion, decide the currency-wise minimum quantum on which differential rates of interest may be offered.
+
+(c) The interest rates on all deposits, including where differential rates of interest are offered, shall be subject to the overall ceiling prescribed at 19 (g) below.
+(d) Interest on floating rate deposits shall be paid within the ceiling of swap rates for the respective currency/ maturity and in case of fixed rate deposits, interest shall be paid within the ceiling of Overnight Alternative Reference Rate
+<u>2</u> for the respective currency / maturity.
+
+(e) The interest reset period shall be six months for all floating rate deposits.
+
+<!-- PAGE 15 -->
+
+(f) The Overnight Alternative Reference Rate for the respective currency /SWAP rates as on the last working day of the preceding month shall form the base for fixing ceiling rates for the interest rates offered effective in the following month.
+(g) The interest rates ceiling on FCNR (B) deposits shall be as under:
+
+|Period of deposit|Ceiling rate|
+|---|---|
+|1 year to less than 3 years|Overnight Alternative Reference 2 Rate for the respective currency/ Swap plus 250 basis points|
+|3 years and above upto and including 5 years|Overnight Alternative Reference 2 Rate for the respective currency / Swap plus 350 basis points|
+
+(h) The Overnight Alternative Reference Rate
+<u>2</u> for the respective currency / Swap rates quoted/displayed by Financial Benchmarks India Pvt. Ltd. (FBIL) shall be used as the reference for arriving at the interest rates on FCNR(B) deposits.
+
+**20. anner M of calculation of interest on FCNR(B) deposits**
+(a) Interest on the deposits accepted under the scheme shall be calculated on the basis of 360 days to a year.
+(b) The interest on FCNR (B) deposits shall be calculated and paid at intervals of 180 days each and thereafter for the remaining actual number of days.
+# Withdrawn
+
+**Provided** that the option to receive the interest on maturity with compounding effect shall vest with the depositor.
+
+**21. Calculation of interest on renewal of FCNR (B) deposits** Interest calculation on renewal of FCNR(B) deposits shall be as under:
+(a) If the period from the date of maturity till the date of renewal (both days inclusive) does not exceed 14 days, the rate of interest payable on the amount of the deposit so renewed shall be the appropriate rate of interest for the period of renewal as prevailing on the date of maturity or on the date when the depositor seeks renewal, whichever is lower.
+(b) In all other cases of renewal, interest rates for the overdue period on the renewed amount shall be determined by treating it as a fresh term deposit.
+(c) If, after renewal, the deposit is withdrawn before completion of the minimum stipulated period under the scheme, scheduled commercial banks may, at their discretion, recover the interest paid for the overdue period i.e. period beyond the original date of maturity.
+
+<!-- PAGE 16 -->
+
+## 22. Interest payable on the deposit of a deceased FCNR(B) depositor
+
+Scheduled commercial banks shall pay interest on the term deposits standing in the name(s) of a deceased FCNR(B) individual depositor or two or more joint depositors where one of the depositors has died, as under: -
+
+(a) If paid on the maturity of the deposit, interest shall be paid at the contracted rate;
+(b) If the deposit is claimed before the maturity date, interest shall be paid not at the contracted rate but at the rate applicable to the period for which the deposit remained with the bank and without charging penalty for pre-payment;
+(c) In case the depositor dies before the date of maturity of the deposit but the amount of the deposit is claimed after the date of maturity, interest shall be paid at the contracted rate till the date of maturity and simple interest at the applicable rate operative on the date of maturity for the period for which the deposit remained with the bank beyond the date of maturity.
+(d) In case of death of the depositor after the date of maturity of the deposit, the interest rate operative on the date of maturity in respect of savings deposits held under Resident Foreign Currency (RFC) Account Scheme shall be paid from the date of maturity till the date of payment.
+(e) In case the claimants are residents, the maturity proceeds shall be converted into Indian Rupees on the date of maturity and interest shall be paid for the
+# Withdrawn
+
+subsequent period at the rate applicable to a domestic term deposit of similar maturity.
+
+**23. Payment of interest on FCNR (B) deposits of NRIs on return to India** Scheduled commercial banks may, at their discretion, on receipt of the request from the depositor, allow FCNR (B) deposits of persons of Indian nationality/origin who return to India for permanent settlement to continue till maturity at the contracted rate of interest subject to the conditions that:
+(a) The rate of interest as applicable to FCNR(B) deposits shall continue.
+(b) Such deposits shall be treated as resident deposits from the date of return of the account holder to India.
+(c) The FCNR (B) deposits on maturity shall be converted into Resident Rupee Deposit Account or RFC Account (if eligible) at the option of the account holder. ate (d) The r of interest on the new deposit (Rupee account or RFC Account) shall be the relevant rate applicable for such deposit account.
+
+<!-- PAGE 17 -->
+
+## 24. Conversion of FCNR (B) Accounts of Returning Indians into RFC
+
+## Accounts/Resident Rupee Accounts- Payment of interest
+
+Subject to the conditions given in section 4 of these Directions, a Scheduled Commercial Bank shall pay interest at the time of conversion of FCNR(B) Account into RFC/Resident Rupee Account even if the deposit has not completed the minimum maturity period mentioned in section 19(b)(i) above. **Provided** that the rate of interest shall not exceed the rate payable on savings bank deposits held under RFC Account Scheme.
+
+**25. Premature withdrawal of deposits**
+(a) Scheduled Commercial Banks shall, on request from the depositor, permit premature withdrawal of deposits under the FCNR(B) Scheme.
+(b) If the premature withdrawal of FCNR(B) deposits takes place before completion of the minimum stipulated period as mentioned in section 19(b)(i) above, no interest shall be paid.
+## 26. Penalty on Premature Withdrawal of deposits
+
+There shall be a comprehensive policy on penalties for premature withdrawal of FCNR(B) term deposits approved by the Board of Directors or any committee of the Board to which powers have been delegated, subject to the following:
+
+(a) The components of penalty shall be clearly brought to the notice of the depositors
+# Withdrawn
+
+at the time of acceptance of the deposits. If not, the exchange loss arising out of premature withdrawal shall be borne by the Scheduled Commercial Banks.
+
+(b) Penalty shall be levied on premature withdrawal of FCNR(B) deposits
+(i) when the depositors return to India for permanent settlement. (ii) for conversion of FCNR (B) deposits into NRE deposits or vice-versa.
+(c) In case of splitting of the amount of term deposit at the request from the claimant/s, no penalty for premature withdrawal of the term deposit shall be levied if the period and aggregate amount of the deposit do not undergo any change.
+(d) Scheduled Commercial Banks shall, at their discretion, levy penalty to recover the swap cost in the case of premature withdrawal of FCNR(B) deposits.
+
+<!-- PAGE 18 -->
+
+(e) No penalties shall be levied in the case of premature conversion of balances held in FCNR (B) deposits into RFC Accounts by Non-Resident Indians on their return to India.
+(f) No penalty for premature withdrawal shall be levied, where depositors of the branch as mentioned in section 4(h) of this direction desires premature withdrawal of deposit consequent to the transfer of business to another bank.
+## 27. Resident Foreign Currency Accounts Scheme
+
+A Scheduled Commercial Bank shall have the freedom to determine interest on deposits of money accepted by it or renewed by it under the Resident Foreign Currency Account Scheme, in accordance to the comprehensive policy on interest rates on deposits duly approved by the Board of Directors or any committee of the Board to which powers have been delegated.
+
+# Withdrawn
+
+<!-- PAGE 19 -->
+
+## CHAPTER – VI
+
+## PROHIBITIONS AND EXEMPTIONS
+
+## 28. Prohibitions
+
+Scheduled commercial banks shall not:
+
+(a) Pay any remuneration or fees or commission or brokerage or incentives on deposits in any form or manner to any individual, firm, company, association, institution or any other person except:
+(i) commission paid to agents employed to collect door-to-door deposits under a special scheme. (ii) commission paid to Direct Selling agents/Direct Marketing Agents as part of the outsourcing arrangements. (iii) remuneration paid to Business facilitators or Business Correspondents.
+(b) Offer prize/lottery/free trips (in India and/or abroad), etc or any other initiative having element of chance for mobilizing deposits. However, inexpensive gifts costing not more than Rupees 250/- which is the amount prescribed by the Indian Banks’ Association (IBA) as part of the Ground Rules and Code of Ethics framed by them may, at the bank’s discretion, be given to depositors at the time of accepting deposits.
+(c) Resort to unethical practices of
+# Withdrawn
+
+raising of resources through agents/third parties to meet the credit needs of the existing/prospective borrowers or to grant loans to the intermediaries based on the consideration of deposit mobilisation.
+
+(d) Issue any advertisement/literature soliciting deposits from public highlighting only the compounded yield on term deposits without indicating the actual rate of simple interest offered by the bank for the particular period. Simple rate of interest per annum for the period of deposit should be indicated invariably.
+(e) Accept interest-free deposit other than in current account or pay compensation indirectly.
+(f) Accept deposits from/at the instance of private financiers or unincorporated bodies under any arrangement which provides for either issue of deposit receipt/s favouring client/s of private financiers or giving of an authority by power of attorney, nomination or other-wise, for such clients receiving such deposits on maturity.
+(g) Grant advances against term deposits maintained with other banks.
+
+<!-- PAGE 20 -->
+
+(h) Open a savings deposit account in the name of Government departments / bodies depending upon budgetary allocations for performance of their functions / Municipal Corporations or Municipal Committees / Panchayat Samitis / State Housing Boards / Water and Sewerage / Drainage Boards / State Text Book Publishing Corporations / Societies / Metropolitan Development Authority / State / District Level Housing Co-operative Societies, etc. or any political party or any trading/business or professional concern, whether such concern is a proprietary or a partnership firm or a company or an association and entities other than individuals, Karta of HUF and organisations/agencies listed in Schedule -I. Explanation For the purposes of this clause, ‘political party’ means an association or body of individual citizens of India, which is, or is deemed to be registered with the Election Commission of India as a political party under the Election Symbols (Reservation and Allotment) Order, 1968 as in force for the time being.
+(i) Create any fund to be utilized for charitable purposes in consultation with the depositors.
+## 29. Exemptions
+
+The provisions in the above paragraphs shall not be applicable to:
+
+(a) A deposit received by the bank:
+# Withdrawn
+
+(i) from the institutions permitted to participate in the Call/Notice/Term Money Market both as lenders and borrowers. (ii) for which it has issued a participation certificate; (iii) under the Capital Gains Accounts Scheme, 1988, framed by the Government of India in pursuance of sub-section (2) of Section 54, sub-section (2) of Section 54B, sub-section (2) of Section 54D, sub-section (4) of Section 54F and sub-section (2) of Section 54G of the Income-Tax Act, 1961; and (iv) under the Certificate of Deposit Scheme.
+(b) Payment of interest on delayed collection of outstation instruments like cheques, drafts, bills, telegraphic/mail transfers, etc.
+
+<!-- PAGE 21 -->
+
+## SCHEDULE- I
+
+(1) Primary Co-operative Credit Society which is being financed by the bank.
+(2) Khadi and Village Industries Boards.
+(3) Agriculture Produce Market Committees.
+(4) Societies registered under the Societies Registration Act, 1860 or any other corresponding law in force in a State or a Union Territory except societies registered under the State Co-operative Societies Acts and specific state enactment creating Land Mortgage Banks.
+(5) Companies licensed by the Central Government under Section 8 of Companies Act, 2013 or Section 25 of Companies Act, 1956 or under the corresponding provision in the Indian Companies Act, 1913 and permitted, not to add to their names the words ‘Limited’ or the words ‘Private Limited’.
+(6) Institutions other than those mentioned in Section 28(h) and whose entire income is exempt from payment of Income-tax under the Income-Tax Act, 1961.
+(7) Government departments / bodies / agencies in respect of grants/ subsidies
+# Withdrawn
+
+released for implementation of various programmes / Schemes sponsored by Central Government / State Governments subject to production of an authorization from the respective Central / State Government departments to open savings bank account.
+
+(8) Development of Women and Children in Rural Areas (DWCRA).
+(9) Self-help Groups (SHGs), registered or unregistered, which are engaged in promoting savings habits among their members. (10) Farmers’ Clubs – Vikas Volunteer Vahini – VVV.
+
+<!-- PAGE 22 -->
+
+## CHAPTER – VII
+
+## REPEAL AND OTHER PROVISIONS
+
+**30.** With the issue of these directions, the instructions / guidelines contained in the following circulars issued by the Reserve Bank stand repealed:
+## A. List of circulars on Interest Rates on Rupee Deposits held in
+
+## Domestic/NRO/NRE Accounts
+
+|Sl|Circular No.|Date|Subject|
+|---|---|---|---|
+|1.|DBOD.No.Dir.BC.46 & 47/13.03.00/2000-2001|4.11.2000*|Master Directive on Interest Rates on Rupee Deposits held in Domestic, Ordinary Non- Resident (NRO), Non- Resident Special Rupee (NRSR) and Non-Resident (External)(NRE) Accounts|
+|2.|DBOD. No.FSC.BC.61/24.91.001/200 0|29.12.2000|Permission to Participate in Call/Notice Money Market and Bills Rediscounting Scheme-Private Sector MutualFunds|
+|3.|DBOD.No.Dir.BC.62/13.03.00 /2000-01|03.01.2001|Interest Rates on Deposits|
+|4.|DBOD.No.Dir.BC.64/13.03.00 /2000-01|03.01.2001|Payment of Interest on theTerm Deposit of a DeceasedDepositor|
+|5.|DBOD. No.FSC.BC.80/24.103.001/20 00|20.02.2001 Withdrawn|Permission to Participate in Call/Notice Money Market and Bills Rediscounting Scheme-InsuranceCompanies|
+|6.|DBOD. No.FSC.BC.85/24.103.001/20 01|01.03.2001|Permission to Participate in Call/Notice Money Market and Bills Rediscounting Scheme-InsuranceCompanies|
+|7.|DBOD.No.Dir.BC.104 & 107/13.03.00/2000-01|19.04.2001|Monetary and Credit Policy for the year 2001-2002 - Interest Rate Policy|
+|8.|DBOD.No.FSC.BC.125/24.92. 001/2000-01|25.05.2001|Permission to Participate in Call/Notice/Term MoneyMarket and Bills Rediscounting Scheme-Primary Dealers|
+
+<!-- PAGE 23 -->
+
+|9.|DBOD. No.FSC.BC.01/24.91.001/20 01-02|05.07.2001|Permission to Participate in Call/ Notice Money Market and Bills Rediscounting Scheme-Private Sector MutualFunds|
+|---|---|---|---|
+|10.|DBOD.No.FSC.BC.30/24.91. 001/2001-02|28.09.2001|Permission to Participate in Call/Notice Money Market and Bills Rediscounting Scheme-Private Sector MutualFunds|
+|11.|DBOD.No.FSC.BC.31/24.92. 001/2001-02|28.09.2001|Permission to Participate in Call/Notice/Term Money Market and Bills Rediscountinq Scheme-Primary Dealers|
+|12.|DBOD.No.FSC.BC.41/24.91. 001/2001-02|01.11.2001|Permission to Participate in Call/Notice Money Market and Bills Rediscounting Scheme-Private Sector MutualFunds|
+|13.|DBOD.No.FSC.BC.49/24.92. 001/2001-02|24.11.2001|Permission to Participate in Call/Notice/Term Money Market and Bills Rediscounting Scheme-Primary Dealers|
+|14.|DBOD.No.FSC.BC.51/24.92. 001/2001-02|04.12.2001|Permission to Participate in Call/Notice/Term Money Market and Bills Rediscounting Scheme-Primary Dealers|
+|15.|DBOD.No.FSC.BC.85/24.92. 001/2001-02|03.04.2002 Withdrawn|Permission to Participate in Call/Notice/Term Money Market and Bills Rediscounting Scheme-Primary Dealers|
+|16.|DBOD.No.Dir.BC.93/13.01.0 9/2001-02|29.04.2002|Full Convertibility of Deposit Schemes - Non-Resident Indians-NRNR Accounts & NRSR Accounts|
+|17.|DBOD.No.Dir.BC.38/13.03.0 0/2002-03|05.11.2002|Mid-term Review of Monetary and Credit Policy for the year 2002-03 - Interest Rates on Deposits by Banks/RRBs/Local Area Banks|
+|18.|DBOD.No.FSC.BC.45/24.92. 001/2002-03|03.12.2002|Permission to Participate in Call/Notice/Term Money Market and Bills RediscountingScheme-Primary Dealers|
+
+<!-- PAGE 24 -->
+
+|19.|DBOD.No.Dir.BC.50 & 51/13.03.00/2002-03|14.12.2002|Opening of Saving Bank Accounts in the Name of certain Bodies/Organizations|
+|---|---|---|---|
+|20.|DBOD.No.Dir.BC.75 & 76/13.03.00/2002-03|28.02.2003|Interest Rates on Deposits|
+|21.|DBOD.No.FSC.BC.85 & 86/24.91.001/2002-03|26.03.2003|Permission to Participate in Call/Notice/Term Money Market and Bills Rediscounting Scheme-Primary Dealers|
+|22.|DBOD.No.FSC.BC.86/24.92.001/2002-03|26.03.2003|Permission to Participate in Call/Notice Money Market and Bills Rediscounting Scheme-Private Sector Mutual Funds|
+|23.|DBOD.No.Dir.BC.101 & 102/13.01.09/2002-03|29.04.2003|Deposit under Non-Resident (External) Rupee Accounts (NRE Accounts)|
+|24.|DBOD.No.Dir.BC.1 & 2/13.01.09/2003-04|17.07.2003|Interest Rate on Deposits under Non-Resident (External) Rupee Accounts (NRE Accounts)|
+|25.|MPD.BC.237/07.01.279/2003-04|17.07.2003|Interest Rate on Deposits under Non-resident (External) Rupee Account (NRE Accounts)|
+|26.|DBOD.BL.BC.13/22.01.001/2003 Withdrawn|18.08.2003|Section 23 of Banking Regulation Act, 1949 - Takeover of Bank Branches|
+|27.|DBOD No.Dir.BC.25 & 26/13.01.09/2003-04|15.09.2003|Interest Rate on Deposits under Non-Resident (External) Rupee Accounts (NRE Accounts)|
+|28.|DBOD No.Dir.BC.35 & 36/13.01.09/2003-04|18.10.2003|Interest Rate on Deposits under Non-Resident (External) Rupee Accounts (NRE Accounts)|
+|29.|DBOD No.Dir.BC.68 & 69/13.03.00/2003-04|13.02.2004|Interest Rates on Rupee Deposits held in Domestic, Ordinary Non-Resident (NRO) and Non-Resident (External) (NRE) Accounts|
+|30.|DBOD No Dir.BC.75 & 76/13.01.09/2003-04|17.04.2004|Interest Rates on Rupee Deposits held in Domestic, Ordinary Non-Resident (NRO) and Non-Resident (External) (NRE) Accounts|
+
+<!-- PAGE 25 -->
+
+|31.|DBOD No.Dir.BC.78/13.03.00/2003-04|22.04.2004|Committee on Procedures and Performances Audit on Public Services – Report No. III – Banking Operations : Deposit Accounts & Other Facilities relating to Individuals (Non-business)|
+|---|---|---|---|
+|32.|DBOD No.Dir.53 & 54/13.03.00/2004-05|01.11.2004|Interest rates on Non- Resident (External) Rupee(NRE) Deposits|
+|33.|DBOD No.Dir.48/13.03.00/2005-06|17.11.2005|Interest Rate on Non- Resident (External) Rupee (NRE) Deposits|
+|34.|DBOD.No.BL.BC.58/22.01.001/2005-06|25.01.2006|Financial Inclusion by Extension of Banking Services - Use of Business Facilitators and Correspondents|
+|35.|DBOD No. Dir. 62/13.03.00/2005-06|08.02.2006|Interest Rates on Non- Resident Deposits|
+|36.|DBOD No. Dir. 80/13.03.00/2005-06|18.04.2006|Interest Rate on Non- Resident (External) Rupee (NRE) Deposits|
+|37.|DBOD.No.Dir.BC.54 & 55/13.03.00/2006-07|31.01.2007|Interest Rates on Non- Resident (External) Rupee (NRE) Deposits and FCNR(B) deposits|
+|38.|DBOD.No.Dir.BC.70/13. 01.01/2006-07|30.03.2007|Rounding off cheques to the nearest rupee|
+|39.|DBOD.No.Dir.BC.88 & 89/13.03.00/2006-07|24.04.2007|Interest Rates on Non- Resident (External) Rupee (NRE) Deposits and FCNR(B) deposits|
+|40.|DBOD No.Dir.BC.39/13.03.00/2007-08|25.10.2007|Deposit schemes with lock-in period|
+|41.|DBOD.No.Leg.BC.47/09.07.005/2008-09|19.09.2008|Payment of interest on accounts frozen by banks|
+|42.|DBOD.No.Dir.BC.82/13.03.00/2008-09|15.11.2008|Interest Rates on Non- Resident (External) Rupee (NRE) Deposits and FCNR(B) deposits|
+|43.|DBOD.No.Dir.BC.128/13.03.00/2008-09|24.04.2009|Payment of Interest on Savings Bank Account on a Daily Product Basis|
+|44.|DBOD.No.Dir.BC.77/13.03.00/2009-10|19.02.2010|Payment of Interest on Savings Bank Account on Daily Product Basis|
+
+<!-- PAGE 26 -->
+
+|45.|DBOD.No.Dir.BC.91/13.03.00/2009-10|20.04.2010|Conversion of term deposits, daily deposits or recurring deposits for reinvestment in term deposits|
+|---|---|---|---|
+|46.|DBOD.Dir.BC.89 & 90/13.03.00/2010-11|03.05.2011|Interest Rates on Deposits|
+|47.|A.P.(Dir Series) Circular No.70|09.06.2011|Remittance of assets by foreign nationals- Opening of NRO Accounts|
+|48.|DBOD.Dir.BC.42/13.03.00/2011-12|25.10.2011|Deregulation of Savings Bank Deposit Interest Rate- Guidelines|
+|49.|DBOD.Dir.BC.59/13.03.00/2011-12|23.11.2011|Interest Rates on Non- resident (external) Rupee (NRE) Deposits and FCNR(B) Deposits|
+|50.|DBOD.Dir.BC.64/13.03.00/2011-12|16.12.2011|Deregulation of Interest Rates on NRE Deposits and NRO Accounts|
+|51.|DBOD.Dir.BC.75/13.03.00/2011-12|25.01 2012|Deregulation of Savings Bank Deposit Interest Rate- Guidelines|
+|52.|DBOD.Dir.BC.29/13.03.00/ 2012-13|18.07.2012|Interest Rates on Rupee Deposits held in Domestic, NRO and NRE Accounts|
+|53.|Mail Box Clarification|22.10.2012|Interest Rates on Non- Resident (External) Rupee (NRE) Deposits|
+|54.|DBOD.No.Dir.BC.74/13.03.00/2012-13|24.01.2013|Interest Rates on and Premature Withdrawal of Rupee Term Deposits|
+|55.|Mail Box Clarification|03.04.2013|Issue of Term Deposit Receipt|
+|56.|DBOD.Dir.BC.40/13.03.00/2013-14|14.08.2013|Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits|
+|57.|DBOD.No.Dir.BC.69/13.03.00/2013-14|29.11.2013|Periodicity of Payment of Interest on Rupee Savings/ Term Deposits|
+|58.|DBOD.No.Dir.BC.71/13.03.00/2013-14|29.11.2013|Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits|
+|59.|DBOD.No.Dir.BC.90/13.03.00/2013-14|31.01.2014|Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits|
+|60.|DBR.No.Dir.BC.87/13.03.00/2014-15|16.04.2015|Interest Rates on Deposits|
+
+<!-- PAGE 27 -->
+
+61. <u>DBR.Dir.BC.No.33/13.03.00/2015-16</u> 06.08.2015 Interest Rates on Deposits -
+Deposits of Army Group Insurance Directorate (AGID),Naval Group Insurance Fund (NGIF) and Air Force Group Insurance Society (AFGIS)
+
+*The circular dated November 4, 2000 replaces the basic directive dated December
+
+27, 1985 and incorporates all amendments made/instructions issued upto that date.
+
+## B. List of circulars on Interest Rates on FCNR(B) Deposits
+
+## Sl Circular No. Date Subject
+
+|1.|DBOD.No.Dir.BC.63&64/13.03. 00/2000-01|03.01.2001|Foreign Currency (Non- Resident) Accounts (Banks)Scheme|
+|---|---|---|---|
+|2.|DBOD.No.Dir.BC.105 & 107/13.0 3.00/2000-01|19.04.2001|Foreign Currency (Non- Resident) Accounts (Banks)Scheme|
+|3.|DBOD.No.Dir.BC.09/13.03.00/2 001-02|11.08.2001|Deposits held in FCNR(B)Accounts|
+|4.|DBOD.No.Dir.BC.97 & 98/13.03. 00/2001-02|29.04.2002|Interest Rate on FCNR(B)Deposits|
+|5.|DBOD.No.Dir.BC.30 & 31/13.03.00/2002-03|08.10.2002|Interest Rate on FCNR(B)Deposits|
+|6.|DBOD.No.Dir.BC.51/13.03.00/2 004-05|01.11.2004|Mid- term Review of Annual Policy Statement for the year 2004-05 – Foreign Currency Non-Resident (Banks) Accounts|
+|7.|Mailbox clarification|13.05.2005|Clarification on Payment of Additional Interest on NRE / FCNR(B) Deposits of Banks' Staff Members /Senior Citizens|
+|8.|DBOD.No.Dir.BC.22/13.03.00/2 005-06|26.07.2005|FCNR (B) Deposit Scheme|
+|9.|Mailbox clarification|29.12.2005|Interest Rates on FCNR(B)Deposits|
+|10.|DBOD.No.Dir.BC.62/13.03.00/2 005-06|08.02.2006|Interest Rates on Non- Resident Deposits|
+|11.|DBOD.No.Dir.BC.75/13.03.00/2 005-06|29.03.2006|Interest Rate on FCNR(B)Deposits|
+|12.|Mailbox clarification|4.10.2006|Rounding Off the Interest Rates on Domestic, NRE and FCNR(B) Deposits|
+|13.|DBOD.No.Dir.BC.55/13.03.00/2 006-07|31.01.2007|Interest Rates on Non- Resident (External) Rupee (NRE) Deposits and FCNR(B) Deposits|
+
+<!-- PAGE 28 -->
+
+|14.|DBOD.No.Dir.BC.44/13.03.00/2 008-09|16.09.2008|Interest Rates on Non- Resident (External) Rupee (NRE) Deposits and FCNR(B) Deposits|
+|---|---|---|---|
+|15.|DBOD.No.Dir.BC.64/13.03.00/2 008-09|15.10.2008|Interest Rates on Non- Resident (External) Rupee(NRE) Deposits and FCNR (B) Deposits|
+|16.|DBOD.No.Dir.BC.58 & 59/13.03.00/2011-12|23.11.2011|Interest rates on Non- Resident (External) Rupee (NRE) Deposits and FCNR(B) Deposits|
+|17.|DBOD.No.Dir.BC.101 & 102/13.0 3.00/2011-12|04.05.2012|Interest Rates on FCNR(B)Deposits|
+|18.|DBOD.Dir.BC.30/13.03.00/2012 -13|18.07.2012|Interest Rates on Depositsheld in FCNR(B) Accounts|
+|19.|DBOD.Dir.BC.38/13.03.00/ 2013-14|14.08.2013|Interest Rates on FCNR (B) Deposits|
+|20.|DBOD.No.Dir.BC.73/13.03.00/2 013-14|29.11.2013|Interest Rates on FCNR (B) Deposits|
+|21.|DBOD.No.Dir.BC.92/13.03.00/2 013-14|31.01.2014|Interest Rates on FCNR (B) Deposits|
+
+**31.** All approvals / acknowledgements given under the above circulars shall be deemed as given under these Directions.
+**32.** All deposits accepted by banks based on the guidelines contained in the above circulars prior to issue of these Directions shall be deemed as covered under these Directions.
+1 The words “licensed to operate in India by Reserve Bank of India” appearing at the end of the sentence deleted. 2 Alternative Reference Rate (ARR) refers to any widely accepted ARR for the respective currency (Ref: <u>RBI circular</u> <u>CO. FMRD. DIRD.S39/14.02.001/2021-22</u>ated July 08, 2021 on ‘Roadmap for LIBOR Transition’). d
