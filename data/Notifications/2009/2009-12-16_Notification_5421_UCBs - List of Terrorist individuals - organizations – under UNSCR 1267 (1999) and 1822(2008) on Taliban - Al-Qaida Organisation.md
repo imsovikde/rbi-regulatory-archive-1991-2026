@@ -1,0 +1,57 @@
+---
+doc_id: "Notifications_2009_5421"
+title: "UCBs - List of Terrorist individuals / organizations – under UNSCR 1267 (1999) and 1822(2008) on Taliban / Al-Qaida Organisation"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/258DBC1712.pdf"
+pdf_sha256: "b2d86f4fc3696ceeacee0c6caaafd3e956a3a63bd164b82395cd4a46b01fc58b"
+md_sha256: "a7713d223ad6561f4629a5b2657f73a6af51074b9bd34411bce58e2042be849c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:05:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-12-16_Notification_5421_UCBs%20-%20List%20of%20Terrorist%20individuals%20-%20organizations%20%E2%80%93%20under%20UNSCR%201267%20%281999%29%20and%201822%282008%29%20on%20Taliban%20-%20Al-Qaida%20Organisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - List of Terrorist individuals / organizations – under UNSCR 1267 (1999) and 1822(2008) on Taliban / Al-Qaida Organisation
+
+<!-- PAGE 1 -->
+
+Yeejler³e fjeJeõ yeQkeÀ _______________________ RESERVE BANK OF INDIA_____________________ <u>www.rbi.org.in</u> RBI/2009-10/258
+
+UBD (PCB) CO.BPD. Cir. No. 31 /14.01.062/2009-10 December 16, 2009
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## List of Terrorist individuals / organizations – under UNSCR 1267 (1999) and
+
+## 1822(2008) on Taliban / Al-Qaida organisation
+
+Please refer to our circular UBD (PCB) CO.BPD. Cir. No. 15 / 14.01.062 / 2009- 10 dated October 22, 2009 on the above subject. We have since received from Government of India (Ministry of External Affairs) copies of notes dated September 3, 2009; September 23, 2009 and October 22, 2009 from the Chairman of UN Security Council's 1267 Committee regarding changes made in the Consolidated List of Individuals and entities linked to Al-Qaida and Taliban as specified below:
+
+i. Amendments specified with strike –through and underline in the four entries to the Consolidated List and an update of the review of names of the Consolidated List as per <u>Annex-I</u> ii. Amendments made through deletion of one entry and amendment specified with strike –through and underline in the two entries to the Consolidated List and an update of the review of names of the Consolidated List as per <u>Annex-II</u>
+iii. Amendments made through deletion of the four entries specified from its Consolidated List and an update of the review of names of the Consolidated List as per <u>Annex- III</u>
+
+2. Banks/Financial Institutions are required to update the consolidated list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+
+<!-- PAGE 2 -->
+
+3. Banks are advised to strictly follow the procedure laid down in the UAPA Order dated August 27, 2009 enclosed to our circular <u>UBD.CO.BPD. PCB.Cir.</u> <u>No.21/12.05.001/2009-10</u> dated November 16, 2009 and ensure meticulous compliance to the Order issued by the Government.
+4. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 6 of the circular dated November 16, 2009, mentioned above.
+5. The complete details of the said consolidated list are available on the UN website:
+<u>[http://www.un.org/sc/committees/1267/consolist.shtml](http://www.un.org/sc/committees/1267/consolist.shtml)</u>
+
+6. The Compliance Officer / Principal Officer of the bank should acknowledge receipt of this circular to our Regional Office concerned.
+## Yours faithfully
+
+(Monisha Chakraborty) Deputy General Manager
+
+## Encl: As above.
+
+Menjr yeQkeÀ fJeYeeäe, kesÀêr³e keÀe³eeõue³e, äeejceWì neGme, henuer cebfpeue, [eö.S.yer.jes›, Jejuer, cegbyeFõ - 400 018, Yeejle <u>HeÀesôe: 022 - 2493 9930 - 49; HewÀkeÌme: 022 - 2497 4030 / 2492 0231; Fõ cesue: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in
+
+<u>yeQkeÀ fnôor ceW he°ee®eej keÀe mJeeäele keÀjlee nw ~</u>

@@ -1,0 +1,106 @@
+---
+doc_id: "Notifications_2009_5443"
+title: "UCBs - List of Terrorist Individuals / Organisations – under UNSCR 1267 (1999) and 1822(2008) on Taliban / Al-Qaida Organisation"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBOD211209.pdf"
+pdf_sha256: "f836dd5c58520a5bfcea96811c30f35a14960b7ed0e142cc6342e3986fd15bcb"
+md_sha256: "723c1ad9e759da5ad4ce070b89f55ce9e115b1ee17122e832c6aaa17e0f908dd"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:05:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-12-31_Notification_5443_UCBs%20-%20List%20of%20Terrorist%20Individuals%20-%20Organisations%20%E2%80%93%20under%20UNSCR%201267%20%281999%29%20and%201822%282008%29%20on%20Taliban%20-%20Al-Qaida%20Organisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - List of Terrorist Individuals / Organisations – under UNSCR 1267 (1999) and 1822(2008) on Taliban / Al-Qaida Organisation
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/280
+
+UBD (PCB) CO.BPD. Cir. No. 40 /14.01.062/2009-10
+
+December31,2009
+
+The Chief Executive Officers of
+
+All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+List of Terrorist individuals / organizations - under UNSCR 1267 (1999) and
+
+1822(2008) on Taliban / Al-Qaida organisation
+
+Please refer to our circular UBD(PCB)CO.BPD.Cir. No.32 / 14.01.062 / 2009-
+
+10 dated December 17, 2009 on the above subject. We have since received from
+
+Government of India (Ministry of External Affairs) copy of note dated November
+
+17, 2009 from the Chairman of UN Security Council's 1267 Committee regarding
+
+changes made in the Consolidated List of Individuals and entities linked to Al-
+
+Qaida and Taliban (copy enclosed).
+
+individuals/entities as circulated by Reserve Bank and before opening any new
+
+account, it should be ensured that the name/s of the proposed customer does not
+
+appear in the list. Further, banks should scan all existing accounts to ensure that
+
+no account is held by or linked to any of the entities or individuals included in the
+
+list.
+
+3. Banks are advised to strictly follow the procedure laid down in the UAPA
+
+Order dated August 27, 2009 enclosed to our circular UBD.CO.BPD.
+
+PCB.Cir.No.21/12.05.001/2009-10datedNovember 16,2009andensure
+
+meticulous compliance to the Order issued by the Government.
+
+4. As far as freezing of funds, financial assets or economic resources or related
+
+services held in the form of bank accounts of the designated individuals/entities
+
+dated November 16,2009, mentioned above.
+
+5. The complete details of the said consolidated list are available on the UN website:
+
+http://www.un.org/sc/committees/1267/consolist.shtml
+
+<!-- PAGE 2 -->
+
+this circular to our Regional Office concerned.
+
+Yours faithfully
+
+(Monisha Chakraborty)
+
+Deputy General Manager
+
+Encl: As above.
+
+@fu ayA c"S, VA>iui, ~AsiAi, S,&Y,Ve' i,, ce,iu Yc ￥,"A.t.a,u.E,V2"o,
+
+"￥,u, Y,α,fA - 400 018, ,,
+
+0A,V2> : 022 - 2493 9930 - 49; 0%AAE- : 022 - 2497 4030 / 2492 0231; fA Y,/2¥,:
+
+rbiubdco@rbi.org.in
+
+Urban Banks Department,Central Office,Garment House,1Floor,Dr.A.B.Road,Worli,Mumbai-400018,India
+
+Phone:022-2493 9930-49;Fax:022-24974030/2492 0231;Email:rbiubdco@rbi.org.in
+
+yA ci, TMu Y,/2 0e,°,, ~A, -,S,÷,~A÷, 134

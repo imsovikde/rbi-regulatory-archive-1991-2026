@@ -1,0 +1,90 @@
+---
+doc_id: "Notifications_2009_5379"
+title: "Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DOIPS241109.pdf"
+pdf_sha256: "1115785771546fe798c1d5a375ff29a69ce4c6633db92eaad33f5373f701cb68"
+md_sha256: "d77346b1d13488332a5a5510d1c230dad22d0aed892426d63b30d939a17596f8"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:05:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-11-24_Notification_5379_Directions%20for%20opening%20and%20operation%20of%20Accounts%20and%20settlement%20of%20payments%20for%20electronic%20payment%20transactions%20involving%20intermediaries.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/231 DPSS.CO.PD.No.1102 /02.14.08/ 2009-10 November 24, 2009
+
+To
+
+All Banks, Payment System Providers and System Participants
+
+Dear Sir,
+
+**Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries**
+
+The use of Electronic/Online Payment modes for payments to merchants for goods and services like bill payments, online shopping etc. has been gaining popularity in the country. With a view to safeguard the interests of the customers and to ensure that the payments made by them using Electronic/Online Payment modes are duly accounted for by the intermediaries receiving such payments and remitted to the accounts of the merchants who have supplied the goods and services without undue delay, it is considered necessary to frame suitable directions for the safe and orderly conduct of these transactions. Accordingly, following directions are being issued under Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+
+## Yours faithfully
+
+(G.Padmanabhan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+**Directions for opening and operation of Accounts and settlement of payments for electronic payment transactions involving intermediaries**
+
+## 1. Introduction
+
+1.1 The use of Electronic/Online Payment modes for payments to merchants for goods and services like bill payments, online shopping etc. has been gaining popularity in the country. The increased facilitation by banks and prepaid payment instrument issuers of the use of electronic modes by customers for payments to merchants generally involves the use of intermediaries like aggregators and payment gateway service providers. Further, Electronic Commerce and Mobile Commerce (e-commerce and m-commerce) service providers have also been acting as intermediaries by providing platforms for facilitating such payments.
+1.2 In most existing arrangements involving such intermediaries, the payments made by customers (for settlement of e-commerce/m-commerce/bill payment transactions), are credited to the accounts of these intermediaries, before the funds are transferred to the accounts of the merchants in final settlement of the obligations of the paying customers. Any delay in the transfer of the funds by the intermediaries to the merchants account will not only entail risks to the customers and the merchants but also impact the payment system.
+1.3 With a view to safeguard the interests of the customers and to ensure that the payments made by them are duly accounted for by the intermediaries receiving such payments and remitted to the accounts of the merchants who have supplied the goods and services without undue delay, it is considered necessary to frame these directions for the safe and orderly conduct of these transactions. Accordingly, following directions are being issued under Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+## 2. Definitions
+
+**2.1 Intermediaries:** Intermediaries would include all entities that collect monies received from customers for payment to merchants using any electronic/online payment mode, for goods and services availed by them and subsequently facilitate the transfer of these monies to the merchants in final settlement of the obligations of the paying customers. Explanation: For the purpose of these directions, all intermediaries who facilitate delivery of goods/services immediately/simultaneously (e.g. Travel tickets/movie tickets etc) on the completion of payment by the customer shall not fall within the definition of the expression “intermediaries”. These transactions which are akin to a Delivery versus Payment (DvP) arrangement will continue to be facilitated as per the contracts between the merchants and the intermediaries as hitherto and banks shall satisfy themselves
+
+<!-- PAGE 3 -->
+
+that such intermediaries do not fall within the definition of the “intermediaries” when they open accounts other than internal accounts.
+
+**2.2 Merchants**: For the purpose of these directions, merchants shall include all Electronic commerce/Mobile commerce service providers and other persons (including but not limited to utility service providers) who accept payments for goods and service provided by them, through Electronic/Online Payment modes.
+## 3. Maintaining of accounts for collection of payments
+
+3.1 All accounts opened and maintained by banks for facilitating collection of payments by intermediaries from customers of merchants, shall be treated as internal accounts of the banks. While it is left to the banks to decide on the exact nomenclature of such accounts it shall be ensured that such accounts are not maintained or operated by the intermediaries.
+3.2 Banks shall ensure that the process of converting all the existing accounts maintained and operated by intermediaries for the purpose covered in these directions shall be completed within three months of issuance of these directions.
+3.3 For the sake of further clarity, the permitted credits/debits in these accounts are set out below:
+**i. Credits**
+a) Payments from various persons towards purchase of goods/services.
+b) Transfers from other banks as per pre-determined agreement into the account, if this account is the nodal bank account for the intermediary.
+c) Transfers representing refunds for failed/disputed transactions.
+**ii. Debits**
+
+a) Payments to various merchants/service providers.
+b) Transfers to other banks as per pre-determined agreement into the account, if that account is the nodal bank account for the intermediary.
+c) Transfers representing refunds for failed/disputed transactions.
+d) Commissions to the intermediaries. These amounts shall be at pre- determined rates/frequency.
+**Note**: No payment other than the commissions at the pre-determined
+ rates/frequency shall be payable to the intermediaries. Such transfers shall only be effected to a bank account intimated to the bank by the intermediary during the agreement.
+
+<!-- PAGE 4 -->
+
+3.4 Pending conversion of the existing accounts to internal accounts, banks shall ensure that only transactions as stated at paragraph 3.3 are permitted in these accounts. **This process shall be implemented with immediate effect.**
+## 4. Settlement
+
+4.1 The final settlements of funds to the merchants are presently guided by business practices followed by the intermediaries/merchants. In order to increase the efficiency of the payment process, it is necessary that banks transfer funds to the ultimate beneficiaries with minimum time delay. It is therefore mandated that banks shall implement the following settlement cycle for all final settlements to merchants. This settlement arrangement shall be implemented within three months of issuance of this circular:-
+i. All payments to merchants which do not involve transfer of funds to nodal banks shall be effected within a maximum of T+2 settlement cycle (where T is defined as the day of intimation regarding the completion of transaction). ii. All payments to merchants involving nodal banks shall be effected within a maximum of T+3 settlement cycle.
+## 5. Treatment of balances by banks
+
+5.1 As the funds held in the accounts as indicated in paragraph 3.1 would be in the nature of outside liability of the bank, the balances in these accounts shall be reckoned as such for the purpose of computation of Net Demand and Time Liabilities of the bank.
+## 6. Concurrent Audit
+
+6.1 Banks shall subject these accounts to concurrent audit and a certificate to the effect that these accounts are operated in accordance with these directions shall be submitted to Department of Payment and Settlement System, Reserve Bank of India, on a quarterly basis.
+## 7. Instruction applicable to other payment system operators
+
+7.1 All persons authorized to operate payment system for issuance of prepaid payment instruments and card schemes shall facilitate compliance with these directions.
+********************

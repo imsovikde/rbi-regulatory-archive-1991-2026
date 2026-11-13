@@ -1,0 +1,73 @@
+---
+doc_id: "Notifications_2010_5468"
+title: "Guidelines on trading of Currency Futures in Recognized Stock Exchanges"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CFAP190110.pdf"
+pdf_sha256: "6946c90d0bebd2620214c55a2a096a48e7ae5036f673bad5a6298d1aef0fea33"
+md_sha256: "2837c31d81acaaf0461a3c37d7a489d395ffd4025517b2a08800e17329f09a06"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:05:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-01-19_Notification_5468_Guidelines%20on%20trading%20of%20Currency%20Futures%20in%20Recognized%20Stock%20Exchanges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on trading of Currency Futures in Recognized Stock Exchanges
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2009-10/ 290 January 19, 2010 A.P. (DIR Series) Circular No. 27
+
+To All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Guidelines on trading of Currency Futures in Recognized Stock Exchanges
+
+Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to
+
+<u>A.P.(DIR Series) Circular No. 05</u> dated August 06, 2008, permitting persons resident in India to participate in the currency futures market in India, subject to the directions contained in Currency Futures (Reserve Bank) Directions, 2008 [<u>Notification No. FED.1/ DG (SG)-2008 dated August 6, 2008</u>].
+2. Currently, persons resident in India are permitted only to trade in US Dollar (USD) - Indian Rupee (INR) currency futures contracts in recognized stock exchanges. In order to facilitate direct hedging of currency risk in other currency pairs as well, it has been decided, as announced in the Second Quarter Review of Monetary Policy 2009-10 (Para 117), to permit the recognized stock exchanges to offer currency futures contracts in the currency pairs of Euro-INR, Japanese Yen (JPY)-INR and Pound Sterling (GBP)-INR, in addition to the USD- INR contracts, with immediate effect.
+3. Accordingly, the Notification No.FED. 2 / ED (HRK)-2009 dated January 19, 2010 viz. Currency Futures (Reserve Bank) (Amendment) Directions, 2010, amending the Directions notified vide <u>Notification No.FED.1/DG(SG)-2008</u> dated August 6, 2008 has been issued. A copy of the Notification is annexed.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers, concerned.
+
+<!-- PAGE 2 -->
+
+5. This circular has been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully, **Salim Gangadharan** **Chief General Manager-in-charge**
+
+<!-- PAGE 3 -->
+
+# Annex
+
+## [A.P.(DIR Series) Circular No.27 dated January 19, 2010]
+
+## Currency Futures (Reserve Bank) (Amendment) Directions, 2010
+
+## Notification No. FED. 2/ ED (HRK)-2010 dated January 19, 2010
+
+The Reserve Bank of India having considered necessary in the public interest and having regard to the need for regulating the financial system of the country to its advantage, in exercise of its powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby makes the following amendments to the Currency Futures (Reserve Bank) Directions, 2008 which were notified vide <u>Notification No. FED.1/ DG (SG)-2008</u> dated August 6, 2008 and published in Part III, Section 4 of the Gazette of India (Weekly) dated October 11, 2008.
+
+## 1. Short title and commencement of the directions
+
+These Directions may be called the Currency Futures (Reserve Bank) (Amendment) Directions, 2010 and they shall come into force with effect from January 19, 2010.
+
+## 2. Amendment of the directions
+
+In paragraph 4 of the Currency Futures (Reserve Bank) Directions, 2008,
+
+(i) in clause (a), after the words “Only USD-INR”, the comma and words, “, Euro- INR, Pound Sterling (GBP)-INR and Japanese Yen (JPY)-INR ” shall be inserted. (ii) in clause (b), after the words “USD 1000”, the words, “ for USD-INR contracts, Euro 1000 for Euro-INR contracts, GBP 1000 for GBP-INR contracts and JPY 100,000 for JPY-INR contracts." shall be inserted. (iii) for clause (e), the following clause shall be substituted, namely :- "e. The settlement price for USD-INR and Euro-INR contracts shall be the Reserve Bank’s Reference Rates and for GBP-INR and JPY-INR contracts shall be the exchange rates published by the Reserve Bank in its press release on the last trading day.”
+## (H. R. Khan) Executive Director
+
+Foot Note:- The principal regulations were published in the Official Gazette No. 41 dated October 11 - October 17, 2008 in Part III-Section 4 [ Miscellaneous Notifications including Notifications, Orders, Advertisements and Notices issued by Statutory Bodies] vide No. FED.1 / DG (SG) – 2008.

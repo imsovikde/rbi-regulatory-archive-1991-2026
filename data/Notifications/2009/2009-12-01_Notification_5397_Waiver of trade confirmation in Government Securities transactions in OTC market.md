@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2009_5397"
+title: "Waiver of trade confirmation in Government Securities transactions in OTC market"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IOTC011209.pdf"
+pdf_sha256: "63acd26836f3d2e7295881c59ca1581edb3f9521e5a983b362d1492d303462c1"
+md_sha256: "5ad09e36630f3d22c9cd8800bc13f5dd1a42611d489f216f18fa99b3c4175558"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:05:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-12-01_Notification_5397_Waiver%20of%20trade%20confirmation%20in%20Government%20Securities%20transactions%20in%20OTC%20market.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Waiver of trade confirmation in Government Securities transactions in OTC market
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/242
+
+IDMD.PDRD.No. 2424 / 03.64.00 / 2009-10 December 1, 2009
+
+## All Standalone Primary Dealers
+
+## Dear Sir
+
+## Waiver of trade confirmation in Government Securities transactions in OTC market
+
+Please refer to Section I <u>para 6.1 (ix)</u> of the Master Circular No RBI/2009-10/56 IDMD.PDRS.01/03.64.00/2009-10 dated July 1, 2009 on Operational Guidelines to the Primary Dealers, in terms of which, for each transaction in Government securities, there must be a system of issue of confirmation from the counter-party. The timely receipt of requisite written confirmation from the counter party, which must include all essential details of the contract, should be monitored by the back office.
+
+2. The extant guidelines with reference to the trade confirmation in Government Securities transactions in OTC market have been reviewed. In view of the reporting and confirmation of OTC trades on Negotiated Dealing System (NDS) and guaranteed settlement through Clearing Corporation of India Limited (CCIL), it has been decided to dispense with the requirement to exchange written confirmation for OTC trades in Government securities.
+3. PDs are, however, advised to ensure clear functional separation between front and back offices as specified in the above guidelines. The trade reporting on NDS should be followed meticulously as per the NDS regulations.
+4. Banks undertaking PD activities departmentally may be guided by the extant guidelines issued by our Department of Banking Operations & Development in this regard.
+5. The above guidelines are effective from the date of this circular. Yours faithfully, (R.N.Kar) General Manager

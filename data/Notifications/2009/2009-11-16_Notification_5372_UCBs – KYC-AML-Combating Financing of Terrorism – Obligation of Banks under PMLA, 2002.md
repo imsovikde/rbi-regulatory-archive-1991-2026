@@ -1,0 +1,97 @@
+---
+doc_id: "Notifications_2009_5372"
+title: "UCBs – KYC/AML/Combating Financing of Terrorism – Obligation of Banks under PMLA, 2002"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/KYCA161109.pdf"
+pdf_sha256: "fa5466eed323f07ffec70720d92255f0f1748dddd28ace6b0cdcc6dd763f027a"
+md_sha256: "5a8349d41a802a46ab0db9c529fd06a1a01b8302675144d1ddfec8f50c5b5201"
+total_pages: 3
+native_pages: 2
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:04:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-11-16_Notification_5372_UCBs%20%E2%80%93%20KYC-AML-Combating%20Financing%20of%20Terrorism%20%E2%80%93%20Obligation%20of%20Banks%20under%20PMLA%2C%202002.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs – KYC/AML/Combating Financing of Terrorism – Obligation of Banks under PMLA, 2002
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/224
+
+UBD.CO.BPD.PCB.Cir.No.23/12.05.001/2009-10
+
+November 16, 2009
+
+The Chief Executive Officers of
+
+All Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir
+
+Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards /
+
+Combating Financing of Terrorism (CFT) / Obligation of banks under
+
+Prevention of Money Laundering Act, 2002 - Urban Co-operative Banks
+
+Please refer to our circulars UBD.PCB.Cir.30/09.16.100/2004-05 dated December
+
+15, 2004 on Know Your Customer (KYC) Guidelines - Anti Money Laundering
+
+Prevention of Money Laundering Act, 2002 - Obligation of banks in terms of Rules
+
+notified thereunder.
+
+Preservationperiod ofrecords
+
+2. The Prevention of Money Laundering (Amendment) Act, 2009 (No. 21 of 2009)
+
+has come into force with effect from June 01, 2009 as notified by the Government. In
+
+terms of Sub-Section 2 (a) of Section 12 of The Prevention of Money Laundering
+
+(Amendment) Act, 2009, the records referred to in clause (a) of Sub-Section (1) of
+
+Section 12 shall be maintained for a period of ten years from the date of transaction
+
+between the clients and the banking company and in terms of Sub-Section 2 (b) of
+
+Section 12 of the Act ibid, the records referred to in clause (c) of Sub-Section (1) of
+
+Section 12 shall be maintained for a period of ten years from the date of cessation of
+
+transaction between the clients and the banking company.
+
+,,,-400018
+
+: 022 - 2493 9930 - 49, a: 022 - 2497 4030 / 2492 0231, $: cgmincubd@rbi.org.in
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018
+
+Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0231, Email: cgmincubd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. Accordingly, in modification of paragraph 5 of the circular No. 38 dated March 21, 2006, banks are advised to maintain for at least ten years <u>from the date of</u> <u>transaction</u> between the bank and the client, all necessary records of transactions referred to at Rule 3 of the Prevention of Money Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005 (PMLA Rules), both domestic or international, which will permit reconstruction of individual transactions (including the amounts and types of currency involved, if any) so as to provide, if necessary, evidence for prosecution of persons involved in criminal activity.
+4. However, records pertaining to the identification of the customer and his address (eg. copies of documents like passports, identity cards, driving licenses, PAN card, utility bills etc.) obtained while opening the account and during the course of business relationship, as indicated in paragraph 5 of the above said circular dated March 21, 2006, would continue to be preserved for at least ten years <u>after the</u> <u>business relationship is ended</u> as required under Rule 10 of the Rules *ibid*.
+## Accounts of the Politically Exposed Persons (PEPs)
+
+5. Detailed guidelines on CDD measures to be made applicable to Politically Exposed Person and their family members or close relatives are contained in <u>Annex</u> <u>I of UBD.PCB. Cir.30/09.16.100/2004-05</u> dated December 15, 2004. It is further advised that in the event of an existing customer or the beneficial owner of an existing account, subsequently becoming a PEP, banks should obtain senior management approval to continue the business relationship and subject the account to the CDD measures as applicable to the customers of PEP category including enhanced monitoring on an ongoing basis.
+## Principal Officer
+
+6. Banks have been advised in paragraph 9 of ‘Guidelines on ‘Know Your Customer’ norms and Anti Money Laundering Measures’ contained in <u>UBD.PCB.</u> <u>Cir.30/06.161.000/2004-05</u> dated December 15, 2004 that banks should appoint a
+
+<!-- PAGE 3 -->
+
+senior management officer to be designated as Principal Officer and the role and responsibilities of the Principal Officer have been detailed therein. With a view to enable the Principal Officer to discharge his responsibilities, it is advised that the Principal Officer and other appropriate staff should have timely access to customer identification data and other CDD information, transaction records and other relevant information. Further, banks should ensure that the Principal Officer is able to act independently and report directly to the senior management or to the Board of Directors.
+
+Yours faithfully,
+
+(A. K. Khound) Chief General Manager-in-Charge
