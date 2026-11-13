@@ -1,0 +1,59 @@
+---
+doc_id: "Notifications_2019_11596"
+title: "Discontinuation of the requirement of Paper to Follow (P2F) for State Government Cheques"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULAR217197073F37A1545CABBFB9E60471555AB.PDF"
+pdf_sha256: "97d6b95991390ab1e3f92b05776ba5ba1b88808df190cb0020e00b3fe6f85abf"
+md_sha256: "52b7b8a605f8fffd05c3d1e18a2ec62fff2fc50d50ac4646a74bcd5411d062b4"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-06-20_Notification_11596_Discontinuation%20of%20the%20requirement%20of%20Paper%20to%20Follow%20%28P2F%29%20for%20State%20Government%20Cheques.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Discontinuation of the requirement of Paper to Follow (P2F) for State Government Cheques
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक ________________RESERVE BANK OF INDIA __________________
+
+**www.rbi.org.in** RBI/2018-19/216 DGBA.GBD.No.3136/42.01.035/2018-2019 June 20, 2019
+
+The Chairman and Managing Director/ The Chief Executive Officer All Agency Banks
+
+Madam / Dear Sir,
+
+## Discontinuation of the requirement of Paper to Follow (P2F) for State Government Cheques
+
+With a view to enhancing efficiency in cheque clearing, Reserve Bank has introduced Cheque Truncation System (CTS) for clearance of cheques, facilitating the presentation and payment of cheques without their physical movement. P2F has been discontinued for CG cheques with effect from February 2016. Taking this initiative forward, it has now been decided in consultation with the Office of the Comptroller & Auditor General of India (C&AG), Government of India, to dispense with the current requirement of forwarding the paid State Government cheques in physical form (commonly known as P2F) to the State Government departments/treasuries.
+
+2. Accordingly, it has been decided to modify the “Memorandum of Instructions on Accounting and Reconciliation – State Government transactions (February 2003)” as under:
+a) This circular may be treated as an addendum to the instructions and inserted as para 5.16 of the Memorandum of Instructions titled “Procedure to be followed by Agency Bank branches for discontinuing P2F for cheque based payments of State Governments”.
+सरकारी एवं बक लेखा िवभाग**,** के न्ीय कायार्लय**,** मुंबई स��ल रेल्वे स्टेशन के सामने**,** भायखला**,** मुंबई 400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, 4 th Floor, Byculla, Mumbai 400 008 Telephone: (022<u>) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-</u>mail: cgmicdgbaco@rbi.org.in िहन्दी आसान है**,** इसका �योग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+b) In Cheque Truncation System, the ‘drawee bank’ means the dealing branch of a bank accredited to a Ministry/ Department/Treasury/Sub-Treasury on which the cheques are drawn. The ‘presenting bank’ means a branch of any bank where the cheques are presented for payment by the clients. Both the presenting banks and drawee banks would continue to discharge their duties prescribed under various Acts/Regulations/Rules such as the Negotiable Instruments Act 1881, Bankers’ Books Evidence Act 1891, Uniform Regulations and Rules for Bankers’ Clearing Houses, Procedural Guidelines for Cheque Truncation System etc. with respect to payment of cheques. The government cheques would henceforth be paid in CTS clearing solely based on their electronic images. The paid cheques in physical form would be retained by the presenting bank.
+c) In case any drawee bank desires to verify the government cheque in physical form before passing it for payment, the image would be returned unpaid under the reason “present with document”. The presenting bank on such instances shall ensure that the instrument is presented again in the next applicable clearing session without any reference to the account holder (payee).
+d) The presenting banks are required to preserve the physical instruments in their custody securely for a period of 10 years as required under Procedural Guidelines for CTS. In case some specific cheques are required for the purpose of any investigation, enquiry, etc., under the law, they may be preserved beyond 10 years. Drawee banks shall make necessary arrangements to preserve the images of all government cheques for a period of 10 years with themselves or through the National Archival System put in place by National Payments Corporation of India (NPCI).
+e) The government cheques paid by a drawee bank across its counter by way of cash withdrawal or transfer also need to be truncated and preserved for 10
+
+<!-- PAGE 3 -->
+
+years. Adequate safeguards shall be built to ensure that these images are captured separately by the drawee banks and not mixed up with the images of the instruments received for payment in clearing. A common electronic file containing the images of all the paid cheques shall be created on a daily basis for onward transmission to State Government Departments/Treasuries/Sub-Treasuries.
+
+f) As prescribed in para 5.1 of the Memorandum of Instructions, the branch handling the State Government transactions shall continue to send the Payment Scrolls on a daily basis in the prescribed form to the Sub- Treasury/Treasury to whom they are attached as hitherto. However, as the paid cheques would no longer be available with the accredited branch, the same will not be attached with the payment scroll, but the electronic images of paid cheques (by way of cash, clearing and transfer), preserved by the presenting bank, shall be provided to the Office of AG/State Government Departments/Treasuries/Sub-Treasuries by way of secured electronic communication/ e-mail, etc., as per their requirement.
+g) At any time during the preservation period of cheques, for the purpose of reconciliation, enquiry, investigation, etc., the Office of AG/State Government Departments/Treasuries/Sub-Treasuries may require any paid cheque in physical form for which the concerned State Government Department/Treasury/Sub-Treasury would approach the dealing branch. Whenever so demanded, the dealing branch shall arrange to furnish the cheques paid by it by way of cash and transfer immediately. In case of cheques paid by way of clearing, the same shall be supplied to the Office of AG/State Government Departments/Treasuries/Sub-Treasuries within a reasonable period after obtaining it from the presenting bank. It is the responsibility of the presenting bank in such instances to comply with the request of the Office of AG/State Government Departments/Treasuries/Sub- Treasuries / drawee bank for any physical cheque and provide the same to the respective drawee bank within a reasonable period.
+
+<!-- PAGE 4 -->
+
+h) At present, the CTS is operated on grid basis. Hence, the government cheques drawn on RBI / agency banks shall be presented in the grid within whose jurisdiction the accredited/authorised branch of paying bank is located.
+i) As hitherto, the drawee bank shall ensure through the dealing branch that the mistakes/ discrepancies pointed out in payment scrolls, monthly DMS etc are rectified as per procedure, missing images of paid cheques are submitted immediately, the copies of the scrolls duly verified by the Sub- Treasury/Treasury are kept on its record, etc.
+3. The revised guidelines would be effective in respect of cheques issued by the State Governments from July 01, 2019 and made applicable for those State Governments which give their consent for withdrawal of P2F arrangement. As and when State Governments give their consent, the same will be advised to the banks. In case any SG desires to have a parallel run, the same may be done for a period not exceeding three months. During the parallel run period, P2F shall continue to remain operational and the drawee banks should forward both the physical instruments and their images to concerned Treasury/Sub-treasury as desired by them. After completion of the parallel run, P2F shall be discontinued and only images shall be sent as outlined above.
+## Yours faithfully
+
+(Charulatha S. Kar) Chief General Manager

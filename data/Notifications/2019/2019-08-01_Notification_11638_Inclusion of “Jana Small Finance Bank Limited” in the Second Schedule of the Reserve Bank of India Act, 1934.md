@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2019_11638"
+title: "Inclusion of “Jana Small Finance Bank Limited” in the Second Schedule of the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT22A28B4F79C0E0492CB99AD1DF15130E70.PDF"
+pdf_sha256: "75ef8cd8105f9028b852242520068edf6eefd6a13f30e3d5b8a10f958bf71b73"
+md_sha256: "f0d5d55cd037467c030caa7f1c01b6a5d4a8f94eb2f7e79c5f326c82320c54dc"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:03:25Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-08-01_Notification_11638_Inclusion%20of%20%E2%80%9CJana%20Small%20Finance%20Bank%20Limited%E2%80%9D%20in%20the%20Second%20Schedule%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of “Jana Small Finance Bank Limited” in the Second Schedule of the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+## RBI/2019-20/22
+
+**DBR.No.Ret.BC.05/12.06.173/2019-20** August 01, 2019
+
+## All Scheduled Commercial Banks
+
+## Dear Sir/Madam
+
+<u>Inclusion of “Jana Small Finance Bank Limited” in the Second Schedule of</u> <u>the Reserve Bank of India Act, 1934</u>
+
+We advise that the “Jana Small Finance Bank Limited” has been included in the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.NBD.No.499/16.02.011/2019-20 dated July 16, 2019 and published in the Gazette of India (**Part III-Section 4**) dated July 27 – August 02, 2019.
+
+## Yours faithfully
+
+(S M Parida) General Manager
+
+<u>म</u>**ु**<u>ंबई - 400001</u>
+
+|बकं ग व�नयमन वभाग, कद्रय कायार्लय,|5वीं मंिजल, अमर भवन,|सर पी एम रोड,|
+|---|---|---|
+|Department of Banking Regulation, Central Office, 5|floor, Amar Building, Sir P.M.Road, Mumbai-400001||
+
+**th** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**

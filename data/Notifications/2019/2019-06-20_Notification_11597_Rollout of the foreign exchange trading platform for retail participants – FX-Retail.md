@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2019_11597"
+title: "Rollout of the foreign exchange trading platform for retail participants – FX-Retail"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/217FXPLRP8E60A698FFCA4C3A8A4D1E4642825594.PDF"
+pdf_sha256: "d1bb65b0f057bbc4157bc8d1d87721afd33362df7c6d0fa16a00fb830ed0c21e"
+md_sha256: "262194ee9e5eb156d21596ad48b31289a3dd7f432d8e1814a8520a6323b468b5"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-06-20_Notification_11597_Rollout%20of%20the%20foreign%20exchange%20trading%20platform%20for%20retail%20participants%20%E2%80%93%20FX-Retail.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rollout of the foreign exchange trading platform for retail participants – FX-Retail
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/217 FMRD.FMD.16/02.03.225/2018-19 June 20, 2019
+
+All Eligible Market Participants Dear Sir/Madam,
+
+## Rollout of the foreign exchange trading platform for retail participants – FX-Retail
+
+Please refer to the <u>Statement on Developmental and Regulatory Policies dated June</u> <u>06, 2019</u>, announcing the introduction of an electronic trading platform for buying/selling foreign exchange by retail customers of banks. The platform, *FX-* *Retail*, is ready for rollout by the Clearing Corporation of India Limited (CCIL) on August 05, 2019.
+
+2. The issue of transparent and fair pricing for retail users (individuals and Micro, Small and Medium Enterprises) in the foreign exchange market has been raised in various fora and in public interactions. Such a mechanism will provide transparency while enhancing competition and lead to better pricing for retail customers. Banks may charge their retail customers a pre-agreed flat fee towards administrative expenses, which should be publicly declared. Overall, this would bring down the total cost faced by the retail customer in the foreign exchange market. Facilitating direct access of retail customers to the market, rather than through price-setting by their banks, would also bring down the risk that banks face in warehousing transactions.
+3.The *FX-Retail* platform can be accessed by any customer of a bank (through the website <u>[https://www.fxretail.co.in](https://www.fxretail.co.in)</u>) who has a need to purchase or sell US Dollar against the Rupee for delivery on *cash* basis (same day), *tom* basis (next day) or *spot* basis (two days after date of transaction), subject to the following:
+i. There is no cap on the number of transactions per customer during a day. The total amount of transactions of a customer shall be subject to the limit assigned by its bank. ii. The size of a single transaction is not allowed to exceed $5 million.
+
+<!-- PAGE 2 -->
+
+iii. As a further facility for retail clients, no transaction charges shall be levied by the CCIL on transactions of customers if such transactions do not exceed USD 50,000 per day. iv. A transaction charge of 0.0004% shall be charged by the CCIL for transactions in excess of USD 50,000 per day.
+
+4. Fees charged by banks, if any, shall be indicated on the *FX-Retail* platform. Banks may recover from customers transaction and settlement charges levied by the CCIL.
+5. In view of the advantages of transparency and pricing to retail customers, as well as the systemic advantage of improved price discovery, banks shall facilitate on- boarding of retail customers to the platform expeditiously. A quarterly return shall be submitted by all banks on the distribution of customer transactions (across *FX-Retail*, other electronic trading platforms and other channels) and the fees charged by them as per the format given in the <u>annexure</u>.
+6. Detailed guidelines regarding the operation of the platform, including the process of customer registration, shall be issued by the CCIL. Customers can obtain further details about the platform on the CCIL website (<u>[https://www.ccilindia.com](https://www.ccilindia.com)</u>)
+7. The customer registration process on the platform shall commence on July 01, 2019 and the platform shall be available for transactions from August 05, 2019.
+8. The directions contained in this circular have been issued under section 45W of the Reserve Bank of India Act, 1934 and are without prejudice to permissions/ approvals, if any, required under any other law.
+## Yours faithfully
+
+(T. Rabi Sankar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## <u>ANNEXURE</u>
+
+## <u>REPORT ON FX TRANSACTIONS WITH CLIENTS ACROSS VARIOUS CHANNELS</u>
+
+## <u>(Amount in USD Millions</u>)
+
+|||ON FX RETAIL|||||||THROUGH OTHER ELECTRONIC TRADING PLATFORMS||||||THROUGH OTHER CHANNELS (include all other transactions)|||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||CASH|TOM|||SPOT|CASH|||TOM||SPOT||CASH|TOM|||SPOT|
+|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|No.|Amt.|
+
+## <u>REPORT ON CHARGES LEVIED FOR FX TRANSACTIONS</u>
+
+## (in ` Crore)
+
+||ON FX RETAIL|ON OTHER PLATFORMS|
+|---|---|---|
+|Processing charges|||
+|Charges for market risk|||
+|Other charges|||

@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2019_11664"
+title: "Foreign Exchange Management (Deposit) (Amendment) Regulations, 2019 – Acceptance of Deposits by issue of Commercial Papers"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT44FE210817A13946D18FA6AEB30C37811E.PDF"
+pdf_sha256: "73a94ae309a38bbe1a4252a0a318f1c084641c9643c00a8f0e6550ea4fc2130f"
+md_sha256: "79e89bf24bf4347073afbbb88a704ac9269744afa524a04cfaf7e63c6c328d57"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:03:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-08-16_Notification_11664_Foreign%20Exchange%20Management%20%28Deposit%29%20%28Amendment%29%20Regulations%2C%202019%20%E2%80%93%20Acceptance%20of%20Deposits%20by%20issue%20of%20Commercial%20Papers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management (Deposit) (Amendment) Regulations, 2019 – Acceptance of Deposits by issue of Commercial Papers
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/44
+
+A.P. (DIR Series) Circular No. 06 August 16, 2019 To All Category-I Authorised Dealers and Authorised Banks
+## Dear Sir / Madam
+
+## Foreign Exchange Management (Deposit) (Amendment) Regulations, 2019 –
+
+## Acceptance of Deposits by issue of Commercial Papers
+
+Attention of Authorised Dealers (ADs) is invited to the Foreign Exchange Management (Deposit) Regulations, 2016 notified vide <u>Notification No. FEMA 5(R)/2016-RB dated April 1,</u> <u>2016</u>, as amended from time to time and the relevant directions issued thereunder.
+
+2. We advise that Sub-regulation (3) of Regulation 6 of the above Regulations, in terms of which a Company may accept deposits through issue of Commercial Paper (CP), has been reviewed vis-à-vis other Statutes/Regulations – notably Section 45 U(b) of RBI Act, 1934 describing CP as one of the Money Market Instruments and Section 2(c) of Companies (Acceptance of Deposits), Rules 2014 which excludes any amount received against issue of, inter alia, CPs from definition of deposits. It has also been considered that Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2017 – FEMA 20(R), already allow investments in CPs issued by the Indian Companies.
+3. Therefore, with a view to bring in consistency in statutory provisions/regulations relating to Commercial Papers (CPs), we advise that sub-regulation (3) of Regulation 6 of FEMA 5(R)/2016-RB has been deleted vide GOI Notification No. FEMA 5(R)(2)/2019-RB dated July 16, 2019.
+4. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully
+
+(R. K. Moolchandani) Chief General Manager
