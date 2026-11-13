@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2017_2184"
+title: "Inclusion of “The Royal Bank of Scotland plc” in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI244EN09032017.PDF"
+pdf_sha256: "a0f3c64f800cdae723b822115244dc4c886ce1aff3fc2d7c10a063eef57f5464"
+md_sha256: "0e6201885ebcd335203a7f9c253a786202c183842182879b30a04818d1636b86"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-03-09_Notification_2184_Inclusion%20of%20%E2%80%9CThe%20Royal%20Bank%20of%20Scotland%20plc%E2%80%9D%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of “The Royal Bank of Scotland plc” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक _____________ RESERVE BANK OF INDIA_____________
+
+<u>www.rbi.org.in</u> **RBI/2016-17/244** **DBR.No.Ret.BC.54/12.07.150/2016-17 March 09, 2017**
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+**Inclusion of** “**The Royal Bank of Scotland plc**” **in the Second** **Schedule to the Reserve Bank of India Act, 1934**
+
+We advise that the “**The Royal Bank of Scotland plc**” has been included in the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.IBD.No.3878/23.13.020/2016-17 dated September 29, 2016, and published in the Gazette of India (**Part III -Section 4**) dated January 21- January 27, 2017
+
+## Yours faithfully
+
+(M.G.Suprabhat) Deputy General Manager
+
+**Department of Banking Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**

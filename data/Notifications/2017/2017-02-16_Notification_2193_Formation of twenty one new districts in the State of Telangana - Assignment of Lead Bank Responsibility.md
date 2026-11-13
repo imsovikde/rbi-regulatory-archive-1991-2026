@@ -1,0 +1,145 @@
+---
+doc_id: "Notifications_2017_2193"
+title: "Formation of twenty one new districts in the State of Telangana - Assignment of Lead Bank Responsibility"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/227NTEN16022017.PDF"
+pdf_sha256: "b59651fd444c87c8feba56b21d14213876170e809805705eec6d0fdf1b5adc10"
+md_sha256: "9d1648302c09f36b5ec3ac1f4ff1289288c01d8261f4471db2ce6c252a27de27"
+total_pages: 15
+native_pages: 15
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-02-16_Notification_2193_Formation%20of%20twenty%20one%20new%20districts%20in%20the%20State%20of%20Telangana%20-%20Assignment%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of twenty one new districts in the State of Telangana - Assignment of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+||RBI/2016-17/227 All Lead Banks Dear Sir/Madam, detailed below:-|FIDD.CO.LBS.BC.No.21/02.08.001/2016-17 The Chairmen & Managing Directors Formation of twenty one new districts in the State of Telangana-Assignment of Lead Bank Responsibility|The Government of Telangana vide Gazette Notification dated October 11, 2016 had notified the formation of twenty one new districts in the State of Telangana. It has been decided to assign the lead bank responsibility of the twenty one new districts as|February 16, 2017||
+|---|---|---|---|---|---|
+|Sr No|Newly carved district|Erstwhile District|Mandals in the district including New Mandals|Lead Bank Responsibility assigned to|District Working Code allotted to new district|
+|1|Adilabad|Adilabad|Adilabad (Urban) Adilabad Rural (New) Mavala (New) Gudihatnoor Bazarhatnoor Bela Boath Jainath Tamsi Bheempur Talamadugu Neradigonda Ichoda Sirikonda (New)|State Bank of Hyderabad|805|
+|“चेतावनी : Caution:|वततीय समावेशन और वकास वभाग ् Financial Inclusion & Development Dept, मेल रज़वर् बक द्वारा-डाक,|, के न्द्रय कायार्लय,10 टेल Tel:022-22601000 फै क्सः �हंद आसान है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए। keeps or offers funds to anyone. Please do not respond in any manner to such offers.|वी मंिजल, कद्रय कायार्लय भवन, Central Office,10th Floor, Central Office Building, 91-22-22621011/22610943/22610948 ई है,इसका प्रयोग बढ़ाइए। एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती " RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014,मुंबई Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai-1 -मेल : cgmincfidd@rbi.org.in|-400001|
+
+<!-- PAGE 2 -->
+
+||||2|||
+|---|---|---|---|---|---|
+||||Indravelly Narnoor Gadiguda (New) Utnoor|||
+|2|Nirmal|Adilabad|Nirmal Rural Soan Dilawarpur Narsapur G Kaddam Peddur Dasturabad Khanapur Mamada Pembi Laxmanchanda Sarangapur Kubeer Kuntala Bhainsa Mudhole Basar Lokeshwaram Tanoor|State Bank of Hyderabad|801|
+|3|Komram Bheem (H Q at Asifabad)|Adilabad|Sirpur (U) Lingapur Jainoor Tiryani Asifabad Kerameri Wankidi Rebbena Bejjur Penchicalpet Kagaznagar Koutala Chintalamanepally Dahegoan Sirpur-T|State Bank of Hyderabad|804|
+|4|Mancherial|Adilabad|Chennur Jaipur Bheemaram (New) Kotapally Luxettipet Mancherial|Andhra Bank|806|
+
+<!-- PAGE 3 -->
+
+||||3|||
+|---|---|---|---|---|---|
+||||Naspur(New) Hajipur(New) Mandamarri Dandepally Jannaram Kasipet Bellampally Vemanpally Nennel Tandur Bheemini Kannepally (New)|||
+|5|Karimnagar|Karimnagar|Karimnagar Kothapally Karimnagar Rural Manakondur Thimmapur Ganneruvaram Gangadhara Ramadugu Choppadandi Chigurumamidi Huzurabad Veenavanka V. Saidapur Jammikunta Ellandakunta Shankarapatnam|State Bank of Hyderabad|807|
+|6|Jagitial|Karimnagar|Jagitial Jagitial Rural Raikal Sarangapur Beerpur Dharmapuri Buggaram Pegadapalli Gollapalli Mallial Kodimial Velgatur Korutla Metpalli|Andhra Bank|811|
+
+<!-- PAGE 4 -->
+
+||||4|||
+|---|---|---|---|---|---|
+||||Mallapur Ibrahimpatnam Medipalli Kathlapur|||
+|7|Peddapalli|Karimnagar|Peddapalli Odela Sulthanabad Julapalli Eligaid Dharmaram Ramagundam Anthergaon Palakurthy Srirampur Kamanpur Ramagiri H. Qtrs at Centenary Colony Manthani Mutharam (MNT)|Andhra Bank|813|
+|8|Rajanna|Karimnagar|Sircilla Thangallapalli Gambhiraopet Vemulawada Vemulawada Rural Chandurthi Rudrangi Boinpalli Yellareddipet Veernapalli Mustabad Illanthakunta Konaraopet|Andhra Bank|814|
+|9|Khammam|Khammam|Khammam (Urban) Khammam (Rural) Tirumalayapalem Kusumanchi Nelakondapalli Bonakal Chinthakani Mudigonda Konijerla Singareni|State Bank of Hyderabad|809|
+
+<!-- PAGE 5 -->
+
+||||5|||
+|---|---|---|---|---|---|
+||||Kamepalli Madhira Yerrupalem Wyra Raghunadhapalem Sathupalli Vemsoor Penuballi Kalluru Thallada Enkoor|||
+|10|Bhadradri|Khammam|Kothagudem Palvoncha Tekulapalli Yellandu Chandrugonda Aswaraopeta Mulkalapally Dammapeta Gundala Julurpadu Sujathanagar Chunchupalli Laxmidevipalli Allapalli Annapureddypalli Bhadrachalam Dummugudem Cherla Burgampahad Aswapuram Manuguru Pinapaka Karakagudem|State Bank of Hyderabad|816|
+|11|Medak|Medak|Medak Havelighanapur Papannatpet Shankarampet- R Ramayampet Nizampet Shankarampet- A Tekmal|State Bank of India|802|
+
+<!-- PAGE 6 -->
+
+||||6|||
+|---|---|---|---|---|---|
+||||Alladurg Regode Yeldurthy Chegunta Narsingi Toopran Manoharabad Narsapur Kowdipally Kulcharam Chilpched Shivampet|||
+|12|Sangareddy|Medak|Sangareddy Kandi Kondapur Sadasivpet Patancheru Ameenpur Ramchandrapuram Munipally Jinnaram Gummadidala Pulkal Andole Vatpally Hathnoora Zahirabad Mogudampally Nyalkal Jharasangam Kohir Raikode Narayankhed Kangti Kalher Sirgapoor Manoor Nagilgidda|Syndicate Bank|817|
+|13|Siddipet|Medak|Siddipet (Urban) Siddipet (Rural) Nangnoor Chinnakodur|Andhra Bank|819|
+
+<!-- PAGE 7 -->
+
+||7||
+|---|---|---|
+||Thoguta Doultabad Mirdoddi Dubbak Cherial Komuravelli Gajwel Jagdevpur Kondapak Mulug Markook Wargal Raipole||
+|Karimnagar|Husnabad Akkannapet Koheda Bejjanki||
+|Warangal|Maddur||
+|Nalgonda 14 Nalgonda|Chandur Chityal Kanagal Kattangur Munugode Nakrekal Nalgonda Narketpally Thipparthy Kethepally Shaligouraram Dameracherla Adavidevulapalli Miryalaguda Vemulapally Anumula (Haliya) Nidmanoor Peddavoora Tripuraram Madugulapalli Tirumalagiri Sagar Chandampeta Chinthapally Devarakonda|State Bank of 832 Hyderabad|
+
+<!-- PAGE 8 -->
+
+||||8|||
+|---|---|---|---|---|---|
+||||Gundlapally Gurrampode Konda Mallepally Marriguda Nampally Pedda Adesherlapally Neredugommu|||
+|15|Suryapet|Nalgonda|Athmakur (S) Chivemla Mothey Jajireddygudem Nuthanakal Penpahad Suryapet Thirumalagiri Thungaturthy Garidepally Nereducherla Nagaram Maddirala Palakeedu Chilkur Huzurnagar Kodad Mattampally Mellachervu Munagala Nadigudem Ananthagiri Chinthalapalem (Mallareddygudem)|State Bank of Hyderabad|821|
+|16|Yadadri Head Quarter at Bhongiri|Nalgonda|Alair Motakonduru Rajapeta Mothkur Thurkapally Yadagirigutta Bhongir Bibinagar Bommala Ramaram Athmakur (M)|Canara Bank|823|
+
+<!-- PAGE 9 -->
+
+||||9|||
+|---|---|---|---|---|---|
+||||Addaguduru B. Pochmpally Ramannapet Valigonda Choutuppal Narayanpur|||
+|17|Nizamabad|Nizamabad|Nizamabad South Nizamabad North Nizamabad Rural Mugpal “New” Dichpally Dharpally Indalwai Sirikonda Navipet Makloor Armoor Balkonda Mendora Mupkal Kammarpally Vailpoor Morthad Yergatla Bheemgal Nandipet Jakranpally Bodhan Yedapally Renjal Kotagiri Varni Rudrur|State Bank of Hyderabad|803|
+|18|Kamareddy|Kamareddy|Kamareddy Bhiknoor Tadwai Rajampet Domakonda Bibipet Machareddy Sadashivanagar Ramareddy|Syndicate Bank|827|
+
+<!-- PAGE 10 -->
+
+||||10|||
+|---|---|---|---|---|---|
+||||Banswada Birkur Nasrullabad Bichkunda Jukkal Pitlam Pedda Kodapgal Madnoor Nizamsagar Yellareddy Nagireddypet Lingampet Gandhari|||
+|19|Warangal (Urban)|Warangal Karimnagar|Warangal Khila Warangal Hanamkonda Khazipet Dharmasagar Velair Inavole Hasanparthy Elkathurthy Bheemadevarpalli Kamalapur|State Bank of India|808|
+|20|Warangal (Rural)|Warangal|Rayaparthy Wardhannapet Sangem Parvathagiri Geesugonda Athmakur Shayampet Duggondi Damera Parkal Narsampet Chennaraopet Nallabelli Duggondi Khanapur Nekkonda|Andhra Bank|831|
+|21|Mahabubabad|Warangal|Mahabubabad Kuravi|State Bank of India|833|
+
+<!-- PAGE 11 -->
+
+||||11|||
+|---|---|---|---|---|---|
+|||Khammam Warangal|Kesamudram Dornakal Gudur Kothaguda Gangaram Bayyaram Garla Chinnagudur Danthalapalle Thorrur Nellikudur Maripeda Narsimhulapet Peddavangara|||
+|22|Jangaon (New)|Warangal Nalgonda Warangal|Jangoan Lingala Ghanpur Bachannapet Devaruppula Narmetta Tharigoppula Ragunathpally Gundala Ghanpur (Stn) Chilpur Zaffergadh Palakurthy Kodakandla|State Bank of Hyderabad|835|
+|23|Jayashankar District HQ at Bhupalpalli|Warangal Karimnagar Warangal|Bhupalpally Ghanpur (Mulug) Regonda Mogullapally Chityal Tekumatla Malhalrao Kataram Mahadevpur Palimela Mahamutharam Mulug Venkatapur Govindaraopet Tadvai|State Bank of Hyderabad|837|
+
+<!-- PAGE 12 -->
+
+||||12||
+|---|---|---|---|---|
+|||Khammam|Eturunagaram Kannaigudem Mangapet Venkatapuram Wajedu||
+|24|Mahabubnagar|Mahabubnagar Ranga Reddy Mahabubnagar|Mahabubnagar (R) Mahabubnagar (U) Moosapet Addakal Bhoothpur Hanwada Koilkonda Rajapur Balanagar Nawabpet Jadcherla Midjil Devarakadra Chinnachintha- Kunta Gandeed Narayanpet Damargidda Dhanwada Marikal Kosgi Maddur Utkoor Narwa Makthal Maganoor Krishna|State Bank of India 834|
+|25|Nagarkurnool|Mahabubnagar|Bijinapally Nagarkurnool Peddakothapally Telkapally Thimmajipet Tadoor Kollapur Pentlavelli Kodair Kalwakurthy|Andhra Bank 839|
+
+<!-- PAGE 13 -->
+
+||||13|||
+|---|---|---|---|---|---|
+||||Urkonda Veldanda Vangoor Charakonda Achampet Amrabad Padara Balmoor Lingal Uppununthala|||
+|26|Wanaparthy|Mahabubnagar|Wanaparthy Gopalpet Revally Peddamandadi Ghanpoor Pangal Pebbair Srirangapur Weepanagandla Chinnambavi Kothakota Madanapur Atmakoor Amarachintha|Andhra Bank|841|
+|27|Jogulamba Hq at Gadwal|Mahabubnagar|Gadwal Dharoor Ghattu Itikyala Undavelly Manopad Ieeja Alampur Waddepally Rajoli Kaloor Thimmandoddi Maldakal|Andhra Bank|844|
+|28|Ranga Reddy|Ranga Reddy|Hayathnagar Abdullapurmet Ibrahimpatnam Manchal Yacharam|State Bank of Hyderabad|838|
+
+<!-- PAGE 14 -->
+
+||||14|||
+|---|---|---|---|---|---|
+|||Mahabubnagar Ranga Reddy Mahabubnagar Ranga Reddy Mahabubnagar Ranga Reddy|Madgul Serilingampally Rajendranagar Gandipet Shamshabad Nandigama Kothur Farooqnagar Keshampet Kondurg Choudergudem Saroornagar Balapur Maheshwaram Kandukur Kadthal Amangal Thalakondapally Shankarpalle Moinabad Shabad Chevella|||
+|29|Medchal- Malkajgiri|Ranga Reddy|Medchal Shamirpet Keesara Kapra Ghatkesar Medipally Uppal Malkajgiri Alwal Qutballapur Dundigal Gandimaisamma Bachupally Balanagar Kukatpally|Canara Bank|845|
+|30|Vikarabad|Ranga Reddy|Marpalle Mominpet Nawabpet Vikarabad Pudur|State Bank of Hyderabad|847|
+
+<!-- PAGE 15 -->
+
+||||15|||
+|---|---|---|---|---|---|
+|||Mahabubnagar Ranga Reddy|Kulkacherla Doma Pargi Dharur Kotepally Bantwaram Peddemul Yelal Kodangal Bommaraspet Basheerabad Doulthabad Tandur|||
+|31|Hyderabad|There is no change to the existing district of Hyderabad||State Bank of Hyderabad|800|
+
+2. Further, the District Working Codes of new districts have also been allotted for the purpose of BSR reporting by banks.
+3. There is no change in the lead bank responsibilities of the erstwhile districts in the State of Telangana. Yours faithfully (Ajay Kumar Misra) Chief General Manager

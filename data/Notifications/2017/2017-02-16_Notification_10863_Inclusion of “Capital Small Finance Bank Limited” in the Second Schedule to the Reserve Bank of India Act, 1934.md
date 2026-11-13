@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2017_10863"
+title: "Inclusion of “Capital Small Finance Bank Limited” in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTO131521D2A7FA7BA4D28AC6E7F32CE349BEE.PDF"
+pdf_sha256: "9b3e2739188276044c9140462659e4580bfb079b1bc9d01b0dc668e0951de964"
+md_sha256: "2f7706293c1c3a001007aa9a1e39c09b44e333210148ac17cab2ee4deff9f0f7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-02-16_Notification_10863_Inclusion%20of%20%E2%80%9CCapital%20Small%20Finance%20Bank%20Limited%E2%80%9D%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of “Capital Small Finance Bank Limited” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक _____________ RESERVE BANK OF INDIA_____________
+
+**www.rbi.org.in** **RBI/2016-17/231** **DBR.No.Ret.BC.51/12.07.145A/2016-17 February 16, 2017**
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+**Inclusion of** “**Capital Small Finance Bank Limited**” **in the Second** <u>Schedule to the Reserve Bank of India Act, 1934</u>
+
+We advise that the “**Capital Small Finance Bank Limited**” has been included in the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.PSBD.No.5201/16.02.001/2016-17 dated November 8, 2016, and published in the Gazette of India (**Part III -Section 4**) dated February 4- February 10, 2017.
+
+## Yours faithfully
+
+(M.G.Suprabhat) Deputy General Manager
+
+<u>बकं ग व�नयमन वभाग, कद्रय कायार्लय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, Ÿé¿¤¸ƒÄ 400001</u> **Department of Banking Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**

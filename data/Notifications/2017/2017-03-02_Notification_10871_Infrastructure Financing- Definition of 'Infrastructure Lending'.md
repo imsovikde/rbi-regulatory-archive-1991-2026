@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2017_10871"
+title: "Infrastructure Financing- Definition of 'Infrastructure Lending'"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI24257EE955485B94BD9BC0AF635817506D2.PDF"
+pdf_sha256: "fb427b83db2dfcf6e2c9ad81db4e662c085ba28875e32ebaab19c4f00ff97c3e"
+md_sha256: "11f6ec481c6661e812b8da2d14be2a154d7f73478179ac0a79aeeb515b4a81ff"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-03-02_Notification_10871_Infrastructure%20Financing-%20Definition%20of%20%27Infrastructure%20Lending%27.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Infrastructure Financing- Definition of 'Infrastructure Lending'
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/242 DNBR.PD.CC.No.085/03.10.001/2016-17 March 2, 2017
+
+## All Non-Banking Financial Companies
+
+Dear Sir/ Madam,
+
+## <u>Infrastructure Financing- Definition of 'Infrastructure Lending'</u>
+
+Please refer to the definition of 'Infrastructure Lending' contained in the <u>Non-</u> <u>Banking Financial Company-Systemically Important Non-Deposit taking</u> <u>Company and Deposit taking Company (Reserve Bank) Directions, 2016</u> and <u>Non-Banking Financial Company – Non-Systemically Important Non-Deposit</u> <u>taking Company (Reserve Bank) Directions, 2016</u>.
+
+2. The Government of India has further updated the Harmonised Master List of Infrastructure sub-sectors vide Gazette Notifications dated October 13, 2014, April 8, 2016 and August 1, 2016. In this regard, it is advised that for the purpose of definition of ‘Infrastructure Lending’, NBFCs may henceforth be guided by the Gazette Notifications issued by the Department of Economic Affairs, Ministry of Finance, Government of India, from time to time.
+3. Updated <u>Non-Banking Financial Company-Systemically Important Non-</u> <u>Deposit taking Company and Deposit taking Company (Reserve Bank) Directions,</u> <u>2016</u> and <u>Non-Banking Financial Company – Non-Systemically Important Non-</u> <u>Deposit taking Company (Reserve Bank) Directions, 2016</u> are enclosed.
+## Yours faithfully
+
+(C.D.Srinivasan) Chief General Manager
