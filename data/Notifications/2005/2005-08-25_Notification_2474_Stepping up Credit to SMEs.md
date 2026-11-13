@@ -1,0 +1,113 @@
+---
+doc_id: "Notifications_2005_2474"
+title: "Stepping up Credit to SMEs"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65623.pdf"
+pdf_sha256: "e50b6b2da774676c322b6463a0dbeb0ab9c4f6d1a6fafd973df82c4d2cdfc1d7"
+md_sha256: "0187f5f119085de72873de0dde90271c9ebe8711c9c9d095ce6f7ce9214316f1"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-08-25_Notification_2474_Stepping%20up%20Credit%20to%20SMEs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Stepping up Credit to SMEs
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/140 RPCD.PLNFS. BC.No. 35/ 06.02.31/ 2005-06 August 25, 2005
+
+The Chairman/ Managing Director/ Chief Executive Officer All Private Sector Banks All Foreign Banks All Regional Rural Banks/Local Area Banks
+
+Dear Sir,
+
+Policy Package for Stepping up Credit to Small and Medium Enterprises --Announcements made by the Union Finance Minister
+
+The Hon'ble Finance Minister, Government of India has announced certain measures in the Parliament on August 10, 2005 for stepping up credit to small and medium enterprises, which are required to be implemented by banks. Accordingly, banks may take action as under:
+
+Measures for improving credit flow to the sector:
+
+2. At present, a small scale industrial unit is an industrial undertaking in which investment in plant and machinery, does not exceed Rs.1 crore except in respect of certain specified items under hosiery, hand tools, drugs and pharmaceuticals, stationery items and sports goods where this investment limit has been enhanced to Rs.5 crore. A comprehensive legislation which would enable the paradigm shift from small scale industry to small and medium enterprises is under consideration of Parliament. Pending enactment of the above legislation, current SSI/tiny industries definition may continue. Units with investment in plant and machinery in excess of SSI limit and up to Rs.10 crore may be treated as Medium Enterprises (ME). Only SSI financing will be included in Priority Sector.
+3. All banks may fix self-targets for financing to SME sector so as to reflect a higher disbursement over the immediately preceding year, while the sub- targets for financing tiny units and smaller units to the extent of 40% and 20% respectively may continue. Banks may arrange to compile data on
+
+<!-- PAGE 2 -->
+
+outstanding credit to SME sector as on March 31, 2005 as per new definition and also showing the break up separately for tiny, small and medium enterprises.
+
+4. Banks may initiate necessary steps to rationalize the cost of loans to SME sector by adopting a transparent rating system with cost of credit being linked to the credit rating of enterprise. SIDBI has developed a Credit Appraisal & Rating Tool (CART) as well as a Risk Assessment Model (RAM) and a comprehensive rating model for risk assessment of proposals for SMEs. The banks may consider to take advantage of these models as appropriate and reduce their transaction costs. The National Small Industries Corporation has recently introduced a Credit Rating Scheme for encouraging SSI units to get themselves credit rated by reputed credit rating agencies. Banks may consider these ratings as per availability and wherever appropriate structure their rates of interest depending on the ratings assigned to the borrowing SME units. SIDBI in association with Credit Information Bureau (India) Ltd. is initiating necessary steps to set up a credit rating agency expeditiously.
+5. In order to increase the outreach of formal credit to the SME sector, all banks, including Regional Rural Banks may make concerted efforts to provide credit cover on an average to at least 5 new small/medium enterprises at each of their semi urban/urban branches per year.
+6. Reserve Bank had issued a master circular on lending to SSI sector vide circular RPCD.PLNFS.BC.No.03/06.02.31/2005-06 dated July 1, 2005 incorporating instructions on the time to be taken for disposing of loan applications of SSI units, the limit up to which banks are obliged to grant collateral-free loans, etc. Based on the above guidelines, the Boards of banks may formulate a comprehensive and more liberal policies than the existing policies in respect of loans to SME sector. Till the banks formulate such a
+
+<!-- PAGE 3 -->
+
+policy, the current instructions of Reserve Bank will be applicable to advances granted/to be granted by banks to SME units.
+
+7. Cluster based approach for financing SME sector offers possibilities of reduction in transaction costs, mitigation of risk and also provide an appropriate scale for improvement in infrastructure. About 388 clusters have already been identified. In view of the benefits accruing on account of cluster based approach for financing SME sector, banks may treat it as a thrust area and increasingly adopt the same for SME financing. SIDBI in association with Indian Banks’ Association will initiate necessary steps to collect and pool common data on risks in each identified clusters and develop an IT-enabled application, appraisal and monitoring system for small (including tiny) enterprises. It is expected that this measure will help in reducing transaction costs as well as improve credit flow to the small and tiny enterprises in the clusters. To broaden the financing options for infrastructure development in clusters through public private partnership, SIDBI will formulate a scheme in consultation with the stakeholders. In the meantime, SIDBI has already initiated the process of establishing Small Enterprises Financial Centres (SEFCs) in select clusters. Risk profile of each cluster will be studied by professional credit rating agency and such risk profile reports will be made available to commercial banks. Each lead bank of a district may consider adoption of at least one cluster.
+8. Monitoring and Review Mechanism
+a. The existing institutional arrangements for review of credit to SSI sector like the Standing Advisory Committee in Reserve Bank and cells at the bank head office level as also at important regional centres will review periodically flow of credit to SME, including tiny sector as whole.
+b. At the Regional offices, the Reserve Bank is constituting empowered committees with the Regional Director of the Reserve Bank as the Chairman to review the progress in SME financing and rehabilitation of sick SSI and ME
+
+<!-- PAGE 4 -->
+
+units and to coordinate with other banks/financial institutions and the state government in removing bottlenecks, if any, to ensure smooth flow of credit to the sector. These Regional level committees may decide the need to have similar committees at cluster/district levels.
+
+c. For wider dissemination and easy accessibility, the policy guidelines formulated by Boards of banks as well as instructions/guidelines issued by Reserve Bank may be displayed on the respective web sites of banks as well as web site of SIDBI. The banks may also prominently display all the facilities/schemes offered by them to small entrepreneurs at each of their branches.
+9. The above instructions and the guidelines to be formulated by your Board of Directors may please be advised to your controlling offices and branches for immediate implementation.
+10. Boards of banks may review the progress in achieving the self-set targets as also financing of SME accounts (including tiny sector) on a quarterly basis to ensure that the required emphasis at the highest forum of the banks is given to this sector. A copy of the “Policy Package for Stepping up Credit to Small and Medium Enterprises” announced by the Union Finance Minister is enclosed for information.
+11. Please acknowledge receipt.
+Yours faithfully,
+
+(G.Srinivasan) Chief General Manager
+
+<!-- PAGE 5 -->
+
+Policy Package for stepping up credit to Small and Medium Enterprises
+
+The small-scale industries (SSI) produce about 8000 products, contribute 40% of the industrial output and offer the largest employment after agriculture. The sector, therefore, presents an opportunity to the nation to harness local competitive advantages for achieving global dominance. In recognition of these aspects, the National Common Minimum Programme makes the following declarations for accelerating the development of small-scale sector.
+
+“Household and artisanal manufacturing will be given greater technological, investment and marketing support. Small–scale industry will be freed from Inspector Raj and given full credit, technological and marketing support. Infrastructure upgradation in major industrial clusters will receive urgent attention.”
+
+2. From SSI to SME: Defining the New Paradigm
+2.1 Government policy as well as credit policy has so far concentrated on manufacturing units in the small-scale sector. The lowering of trade barriers across the globe has increased the minimum viable scale of enterprises. The size of the unit and technology employed for firms to be globally competitive is now of a higher order. The definition of small-scale sector needs to be revisited and the policy should consider inclusion of services and trade sectors within its ambit. In keeping with global practice,. there is also a need to broaden the current concept of the sector and include the medium enterprises in a composite sector of Small and Medium Enterprises (SMEs). A comprehensive legislation, which would enable the paradigm shift from small-scale industry to small and medium enterprises under consideration of Parliament. The Reserve Bank of India, had meanwhile set up an Internal Group which has recommended: “Current SSI/tiny industries definition may continue. Units with investment in plant and machinery in excess of SSI limit and up to Rs.10 crore may be treated as Medium Enterprises (ME). The definition may be reviewed after enactment of the Small and Medium Enterprises Development Bill. Only SSI financing will be included in Priority Sector.”
+2.2 It is proposed to accept the recommendation with regard to the credit facilities being offered by the banking sector and accordingly request the Reserve Bank of India to advise the banks to frame a policy for enhancing the flow of credit to both small and medium enterprises, within the overall framework of credit policy of banks to small and medium enterprises.
+2.3. The challenges being faced by the small and medium scale sector may be briefly set out as follows-
+a. Small and Medium Enterprises (SME), particularly the tiny segment of the small enterprises have inadequate access to finance due to lack of financial information and non-formal business practices. SMEs also lack access to private equity and venture capital and have a very limited access to secondary market instruments.
+b.SMEs face fragmented markets in respect of their inputs as well as products and are vulnerable to market fluctuations.
+c.SMEs lack easy access to inter-state and international markets.
+d.The access of SMEs to technology and product innovations is also limited. There is lack of awareness of global best practices.
+e.SMEs face considerable delays in the settlement of dues/payment of bills by the large scale buyers.
+
+<!-- PAGE 6 -->
+
+With the deregulation of the financial sector, the ability of the banks to service the credit requirements of the SME sector depends on the underlying transaction costs, efficient recovery processes and available security. There is an immediate need for the banking sector to focus on credit and finance requirements of SMEs.
+
+3. Measures to increase the quantum of credit to SMEs at the right price
+3.1 Public Sector Banks will be advised to fix their own targets for funding SMEs in order to achieve a minimum 20% year on year growth in credit to SMEs. The objective is to double the flow of credit from Rs.67,600 crore in 2004-05 to Rs.135,200 crore to the SME sector by 2009-10, i.e. within a period of 5 years.
+3.2 Public Sector Banks will be advised to follow a transparent rating system with cost of credit being linked to the credit rating of the enterprise.
+3.3 SIDBI in association with Credit Information Bureau(India) Ltd. (CIBIL)will expedite setting up a credit rating agency.
+3.4 SIDBI in association with Indian Banks’ Association (IBA) would collect and poo common data on risk in each identified cluster and develop an IT-enabled application, appraisal and monitoring system for small (including tiny) enterprises. This would help reduce transaction cost as well as improve credit flow to small (including tiny) enterprises in the clusters.
+3.5 The National Small Industries Corporation has recently introduced a Credit Rating Scheme for encouraging SSI units to get themselves credit rated by reputed credit rating agencies. Public Sector Banks will be advised to consider these ratings appropriately and as per availability, and structure their rates suitably.
+3.6 SIDBI has developed a Credit Appraisal & Rating Tool (CART) as well as a Risk Assessment Model (RAM) and a comprehensive rating model for risk assessment of credit proposals for SMEs. Public sector banks will be advised to take advantage of these models as appropriate and reduce their transaction costs.
+4. Outreach of Formal Credit: Opening of New Accounts The commercial banks (including regional rural banks) with over 67,000 branches, will make concerted efforts to provide credit cover on an average to at least 5 new tiny,small and medium enterprises at each of their semi urban/urban branches per year.
+5. Nursing the Sick Units Back to Health: Debt Restructuring Reserve Bank will issue detailed guidelines relating to debt restructuring mechanism so as to ensure restructuring of debt of all eligible small and medium enterprises at terms which are not less favourable than the Corporate Debt Restructuring (CDR) mechanism in the banking sector. The restructuring would follow upon a request to that effect from the borrowing unit. All accounts, except those classified as ‘loss assets’ will be eligible for restructuring, provided the industrial units are viable or potentially viable. Based on the Reserve Bank’s guidelines, banks may formulate, with the approval of their Boards of Directors, more liberal policies relating to restructuring of accounts. Until the banks formulate their own policies, Reserve Bank’s guidelines will be operative.
+
+<!-- PAGE 7 -->
+
+A one-time settlement scheme to apply to small-scale NPA accounts in the books of the banks as on March 31, 2004 will be introduced.The scheme will be in force upto March 31, 2006.
+
+6. Facilitative Measures Reserve Bank had issued a detailed master circular on March 2005 on the time to be taken for disposing of loan applications of SSI units, the limit up to which banks are obliged to grant collateral-free and composite loans, norms for computation of working capital credit limits to SSI units, opening of atleast one specialized SSI branch in each district, etc. Taking these guidelines as indicative minimum, banks will formulate a comprehensive and more liberal policy relating to advances to SME sector. Untill the banks formulate such a policy, the extant instructions of Reserve Bank will be applicable to advances granted or to be granted by banks to SME units.
+7. Credit Guarantee Fund Trust Scheme for Small Industries(CGTSI) At present, Member Lending Institutions (MLIs), like banks, are provided guarantee cover of 75% of the amount of default by CGTSI,I respect of term loan and/or working capital facilities up to Rs.25 lakh extended by the MLIs to new and existing SSI units/IT/software units/small scale service business enterprises (SSSBEs), without collateral security and/or third party guarantee. One-time guarantee fee of 2.5% and annual service fee of 0.75% of the credit facility sanctioned are currently charged by CGTSI from the MLIs. In order to reduce the cost of guarantee to the weaker segments of the borrowers, particularly tiny units, the CGTSI will be advised to reduce the one-time guarantee fee from 2.5% to 1.5% for all (i) loans up to Rs.2 lakh, (ii) eligible women entrepreneurs, and (iii) eligible borrowers located in the North Eastern regions (Sikkim) and Jammu & Kashmir. Further, public sector banks will be encouraged to absorb the annual service fee in excess of 0.25% in respect of guarantee for all (i) loans up to Rs.2 lakh, (ii)eligible women entrepreneurs, and (iii) eligible borrowers located in the North Eastern regions(Sikkim) and Jammu & Kashmir.
+8. Cluster based approach Cluster based approach for financing SME sector offers possibilities of reduction of transaction costs and mitigation of risk. About 388 clusters have already been identified. Cluster based approach now be treated as a thrust area. Banks will increasingly adopt the cluster-based approach for SME financing. To broaden the financing options for infrastructure development in clusters through public private partnership, SIDBI will formulate a scheme in consultation with the stakeholders. SIDBI has already initiated the process of establishing Small Enterprises Financial Centres in select clusters. Risk profile of each cluster would be studied by a professional credit rating agency and such risk profile reports would be made available to commercial banks. Each lead bank of a district will consider adoption of atleast one cluster.
+9. Setting up of Watchdogs: Monitoring and Review The following supervisory arrangements will be ensured:
+a. The existing institutional arrangements for review of credit to SSI sector like the Standing Advisory Committee in Reserve Bank of India and cells at the banks’ head office level as well as at important regional centres will be made more rigorous and regular. They will also review the flow of credit to small (SSI) and medium enterprises.
+
+<!-- PAGE 8 -->
+
+b. At the Regional offices, the Reserve Bank will constitute empowered committees with the Regional Director of the Reserve Bank as the Chairman to review the progress in SME financing and rehabilitation of sick small (SSI) and medium units and to coordinate with other banks/financial institutions and the state governments in removing bottlenecks, if any, to ensure smooth flow of credit to the sector. The said Regional level committees may decide on the need to have similar committees at cluster/district levels.
+c. The banks will ensure specialized SME branches in identified clusters/centres with preponderance of small enterprises to enable the entrepreneurs to have easy access to the bank credit and to equip bank personnel to develop requisite expertise. The existing specialised SSI branches may be also be redesignated as SME branches.
+d. Boards of banks will be advised to review the progress in achieving the self-set targets as also rehabilitation and restructuring of SME accounts on a quarterly basis to ensure that the required emphasis is given to this sector.
+e.For wider dissemination and easy accessibility, the policy guidelines formulated by Boards of banks as well as instructions/guidelines issued by Reserve Bank will be displayed on the respective websites of Public Sector Banks as well as website of SIDBI. The banks would also be advised to prominently display all the facilities/schemes offered by them to the small entrepreneurs at each of their branches.

@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2005_2523"
+title: "Advisory Committee on Flow of Credit"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66489.pdf"
+pdf_sha256: "43a9223b92d06303c21701d825d0061b8e62a9964fdea9f175824ccb19756677"
+md_sha256: "35a04f9b1cac4b1f64bce1f16a6a3e414d61dd8bb546600ef10411fe1736f41b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-10-01_Notification_2523_Advisory%20Committee%20on%20Flow%20of%20Credit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advisory Committee on Flow of Credit
+
+<!-- PAGE 1 -->
+
+RBI/ 2005-06/172 RPCD. PLFS. BC.No. 42 / 05.02.02/ 2005-06 October 1, 2005
+
+The Chairman/ Managing Director/Chief Executive Officer (All scheduled commercial banks) Dear Sir/Madam, The Advisory Committee on Flow of Credit to Agriculture and Related Activities from the Banking System The Advisory Committee on Flow of Credit to Agriculture and related activities from the Banking System (Vyas Committee) in terms of paragraph 5.11 of the report had recommended as follows: “To avoid delays, the Lead District Managers of the lead bank should arrange to get from the district authorities timely information on crop losses in the district caused by flood/drought, etc. On the basis of such information, a Committee headed by the district manager of the lead bank and comprising District Development Manager of NABARD, district agriculture officer and managers of a few major banks operating in the district as members, may consider crop losses due to weather aberrations in the district, in consultation with agricultural scientists/local agricultural university and take a decision on conversion / restructuring of agricultural loans. All banks operating in the district should extend the facility of restructuring of loans to eligible farmers on this basis once such a decision is made. It should be promptly reported to the convenor of SLBC and may be recorded in the proceedings of the immediately following meeting of the SLBC. Banks may authorise their branches to take up conversion/rescheduling of loans based on the recommendations of the above district level committee.’’ The issue relating to providing relief measures by banks through rescheduling of loans in the case of natural calamities, when there is delay in declaration of Annewari by the State Government, has been referred to in our guidelines and it has been mentioned therein that a certificate from the District Collector can be accepted by the banks in such cases. Such certificates were, however,
+
+<!-- PAGE 2 -->
+
+not always forthcoming, as a result of which provision of relief by banks got delayed. As an alternative to the present system of Annewari, it has, therefore, been decided that the task can be assigned to the District Consultative Committee (DCC) which has representatives from banks as well as the State Government and is headed by the District Collector. Our guidelines on the subject envisage that the convenors of the District Consultative Committee/s of the affected district/s should convene a meeting immediately after the occurrence of natural calamities, to facilitate coordination and expeditious action by the financing institutions. In the event of the calamity covering a larger part of a State, the convenor of the State Level Bankers’ Committee will also convene a meeting immediately, to evolve a coordinated programme of action for implementation of the programme in collaboration with the State/ <u>district authorities. Therefore, the following procedure may be followed as an</u> <u>alternative to the present system of Annewari declaration:</u> The District Collector, on occurrence of the natural calamity such as drought, flood etc., may ask the Lead Bank Officer to convene a meeting of the DCC, and submit a report to the DCC on the extent of crop loss in the area affected by the natural calamity. If the DCC is satisfied that there has been extensive crop loss on account of the natural calamity, the relief including conversion/restructuring facilities of agricultural loans as per the standing guidelines may be extended to the farmers affected by the natural calamity ,without declaring Annewari.
+
+2.Banks are requested to issue instructions as above to their controlling offices and branches. The action taken may please be communicated to us at the earliest.
+3. Please acknowledge receipt. Yours faithfully, (C.S. Murthy) Chief General Manager-in-Charge

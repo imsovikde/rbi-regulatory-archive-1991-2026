@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2005_2403"
+title: "PMRY - Cut-off date extended"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65081.pdf"
+pdf_sha256: "d4473d89aec7e816977b26f8f87ea9d4393ebd42fdb4e43bd662b04c6bcb3fa5"
+md_sha256: "2e62705d20425992221220c0b6a317cf79ebedcb02ac9908216027a963614571"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-08-01_Notification_2403_PMRY%20-%20Cut-off%20date%20extended.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# PMRY - Cut-off date extended
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/88 RPCD.PLNFS.BC.No.25/09.04.01/ 2005 –2006 August 01, 2005
+
+The Chairman / Managing Director All Indian Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir, <u>PMRY-Cut-Off date for lapsing of sanctions and completion of disbursement</u> <u>of loans in the cases sanctioned during 2004-05</u>
+
+Please refer to para 2 of our circular RBI / 2004-05/469/ RPCD.PLNFS .BC .No. 100 /09.04.01/ 2004 –2005 dated May 16, 2005.
+
+2. The Ministry of A & RI, Govt. of India has since decided to extend the cut-off date for lapsing of sanction and completion of disbursement for the cases sanctioned under the Programme Year 2004-05 by a further period of one month, i.e., from 31 July 2005 to 31 August 2005.
+3. All implementing banks are requested to complete disbursement of loan in all the cases sanctioned by them during 2004-05 by 31.08.2005 as well as ensure achievement of allocated targets by completing activities of sanction and disbursement for the year 2005-06 by 31.03.2006.
+4. You may issue necessary instructions to your Regional/Controlling Offices/branches in this regard. Please acknowledge receipt.
+Yours faithfully, (G.P.Borah) Deputy General Manager

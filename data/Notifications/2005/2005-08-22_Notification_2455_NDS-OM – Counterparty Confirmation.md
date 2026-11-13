@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2005_2455"
+title: "NDS-OM – Counterparty Confirmation"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65464.PDF"
+pdf_sha256: "5f72ff55eb7edeaf21e33a6e55a8ff5b92ca3d727088c2d49c91902b1e12783e"
+md_sha256: "a123bd246ca8f65836bae81d7eaab463ddd941bdee33278c40166916b231141b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-08-22_Notification_2455_NDS-OM%20%E2%80%93%20Counterparty%20Confirmation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# NDS-OM – Counterparty Confirmation
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/132 IDMD.No. 766/10.26.65A/2005-06 August 22, 2005
+
+## All RBI Regulated Entities
+
+## NDS-OM – Counterparty Confirmation
+
+The Negotiated Dealing System (NDS) for electronic dealing and reporting of transactions in government securities was introduced in February 2002. Subsequently, on August 1, 2005, RBI introduced the anonymous screen based order matching module on NDS, called NDS-OM.
+
+2. As per extant guidelines, all government securities transactions have to be physically confirmed by the back offices of counterparties. With respect to transactions matched on the NDS-OM module, since CCIL is the central counterparty to all deals, exposure of any counterparty for a trade is only to CCIL, and not to the entity with whom a deal matches. Besides, details of all deals matched on NDS-OM are available to the counterparties as and when required by way of reports on NDS-OM itself. In view of the above, the need for counterparty confirmation of deals matched on NDS-OM does not arise.
+3. However, all government securities transactions, other than those matched on NDS- OM, will continue to be physically confirmed by the back offices of the counterparties, as hitherto.
+## Yours faithfully
+
+(B. Mahapatra) Chief General Manager –in-Charge

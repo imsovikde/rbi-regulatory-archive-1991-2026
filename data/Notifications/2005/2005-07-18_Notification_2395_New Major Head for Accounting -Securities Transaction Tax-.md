@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2005_2395"
+title: "New Major Head for Accounting \"Securities Transaction Tax\""
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/64992.pdf"
+pdf_sha256: "ca9b82446368f9e9aa909373cfacdbb3a9ab045144d85a93a3835c5b623bcaf5"
+md_sha256: "a7ef7efcc11f40324804bff2201738a8885f17286cfd6e4391cb0a78902de6aa"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:13:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-07-18_Notification_2395_New%20Major%20Head%20for%20Accounting%20-Securities%20Transaction%20Tax-.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# New Major Head for Accounting "Securities Transaction Tax"
+
+<!-- PAGE 1 -->
+
+RBI/2005/68
+
+DGBA. GAD. No. H- 297 /42.01.001/ 2005-06 July 18, 2005
+
+The Chairman/Chairman and Managing Director All Agency Banks including Jammu and Kashmir Bank Ltd.
+
+Dear Sir,
+
+<u>New Major Head for Accounting “Securities Transaction Tax”</u>
+
+Please refer to our circular RBI/2004/281, DGBA.GAD.No.H-1793-1826/ 42.01.001/ 2004- 05 dated November 20, 2004 on the above subject.
+
+2. In this connection, we advise that the Office of the Controller General of Accounts has issued correction slip No. 572 and 573 dated June 17, 2005 relating to “Securities Transaction Tax.” Accordingly, new Major Head Code No. ‘0025’ allotted to Securities Transaction Tax earlier has been changed to ‘0034’. As such the new major head alongwith minor heads thereunder will be as follows:
+(a) Major Head - 0034 Securities Transaction Tax
+(b) Minor Head – 101- Collection under Securities Transaction Tax 102- Penalty 103- Interest 901- Share of net proceeds assigned to States
+(1) The Minor Head 101 will have the following sub heads:
+(a) Tax Collection - 00 3400 101 01
+(b) Deduct- Refunds- 00 3400 101 02
+(2) The Minor Head 901 will figure as a “ Minus-entry” in the Central accounts and as “Plus-entry” in the State accounts.
+4. We shall be glad if you please issue suitable instructions to all your authorized branches immediately, so as to enable them to account the transactions under the appropriate Head of Account.
+Yours faithfully, Sd/- (M.T.Varghese) General Manager

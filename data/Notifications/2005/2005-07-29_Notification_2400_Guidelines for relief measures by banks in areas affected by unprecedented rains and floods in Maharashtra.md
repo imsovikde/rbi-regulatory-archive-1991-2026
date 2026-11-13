@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2005_2400"
+title: "Guidelines for relief measures by banks in areas affected by unprecedented rains and floods in Maharashtra"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65020.pdf"
+pdf_sha256: "9b23ed7eb20c43c31159c2393ef65d5c472bb92c335a51ba6b09f20ef6f21f00"
+md_sha256: "7654224bd1915e63c7abaea7eae0369b7c05ebf45da64d81f6b9be1701d2646e"
+total_pages: 3
+native_pages: 2
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + Tesseract (eng+hin)"
+converted_at_utc: "2026-11-13T12:13:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-07-29_Notification_2400_Guidelines%20for%20relief%20measures%20by%20banks%20in%20areas%20affected%20by%20unprecedented%20rains%20and%20floods%20in%20Maharashtra.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines for relief measures by banks in areas affected by unprecedented rains and floods in Maharashtra
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/82 RPCD. PLFS. BC. No. 23/05.04.02/ 2005-06 July 29, 2005
+
+The Chairman/Managing Director/Chief Executive Officer All scheduled commercial banks
+
+Dear Sir,
+
+Guidelines for relief measures by banks in areas affected by unprecedented rains and floods in Maharashtra
+
+As you are aware, the State of Maharashtra has been affected by unprecedented rains and floods, resulting in heavy damage to life and property. The convenor bank of the State Level Bankers’ Committee (SLBC) of the state has been advised to assess the situation and take immediate measures to provide appropriate relief to the affected people in terms of our standing guidelines,vide our Master Circular RPCD.No.PS.BC.6 /05.04.02-2005-06 dated July 1,2005. In particular, we draw attention of banks to paragraph 26 to 30 of the said circular regarding financial assistance to artisan, self-employed, traders, tiny and small scale industrial units affected by the unprecedented calamity.
+
+2. In terms of paragraph 25 of the above circular, banks may extend general consumption loans upto Rs.1000 to eligible persons in the areas affected by natural calamity in the states where the state governments have constituted risk funds for such lendings by commercial banks. In view of the situation prevailing in the state of Maharashtra, banks may consider increasing the limit of consumption loan to be provided to the affected persons in the state upto Rs. 5,000 without any collateral. This limit may be enhanced to Rs.10,000 at the discretion of the branch manager, depending on the repaying capacity of the borrower.
+3. Banks may also consider provision of financial assistance for the purpose of repairs/reconstruction of dwelling units and also to small road transport operators including taxi, auto rickshaw operators affected by the calamity, keeping in view the viability of the proposals.
+
+<!-- PAGE 2 -->
+
+4. Banks are, therefore, requested to take immediate action in this regard and advise their controlling offices/ branches to provide appropriate relief to the affected persons.
+5. Banks are also requested to take necessary action to expeditiously restore banking services in the affected areas.
+6. Please acknowledge receipt.
+Yours faithfully,
+
+(G. Srinivasan) Chief General Manager
+
+<!-- PAGE 3 -->
+
+<!-- OCR_EMPTY_PAGE -->

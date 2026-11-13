@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2005_2461"
+title: "Credit Flow to SCs/STs"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/65482.pdf"
+pdf_sha256: "1c2d0be856a9ebebea11793a4fbdeefe56a1f3fb000205919a2b0f3bbb3be747"
+md_sha256: "6edc07da2d8a5804656fee29df91400ff2681d55742b2042355bae59fd91aeb7"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-08-23_Notification_2461_Credit%20Flow%20to%20SCs-STs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit Flow to SCs/STs
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/136
+
+RPCD.SP.BC.No.34 /09.09.01/2005-06 August 23, 2005
+
+The Chairman and Managing Director All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+Meeting of Parliamentary Committee on the Welfare of Scheduled Castes and Scheduled Tribes held on July 18, 2005
+
+As Banks are aware, Reserve Bank of India monitors closely credit flow to the Scheduled Castes and Scheduled Tribes and detailed instructions in this regard have been issued in the form of Master Circular to banks.
+
+2. In the recent meeting of the Parliamentary Committee on the Welfare of Scheduled Castes and Scheduled Tribes, held on July 18, 2005, to review the credit flow to SCs/STs, members have made certain observations/ suggestions. In the light of the concern expressed by the Committee, banks are advised
+a) to ensure that sufficient publicity is given on the facilities extended to SCs/STs so as to bring awareness among the poorer sections of the society.
+b) to make all out efforts in achieving the targets set for increasing the credit flow to SCs/STs under priority sector advances as well as under the Government Sponsored Schemes such as SGSY, SJSRY, SLRS and PMRY.
+c) to ensure that all the instructions contained in the Master Circular on Credit facilities to SC/STs are strictly followed by your bank branches while granting loans, the failure of which should be brought to the notice of Banks’ Board of Directors.
+d) to ensure adherence to the guidelines issued by RBI (i) for providing relief measures by banks in the areas affected by natural calamities vide Master Circular Ref. RBI/2005-06/35/ RPCD. PLFS. BC. 6/ 05. 04. 02/ 2005-06 dated July 1, 2005, (ii) on relief measures to farmers indebted to non-institutional lenders vide our circular Ref.RBI/2004/266; RPCD. No. Plan. BC. 92 / 04.09.01/ 2004-05 dated
+
+<!-- PAGE 2 -->
+
+June 24, 2004 and (iii) on participation of public representatives in District Level Meetings vide our circular RBI/2005- 06/45;RPCD.CO.LBS. BC.No.11/02.01.01/2005-06 dated July 6, 2005.
+
+3. Banks are requested to play a pro-active role in achieving the targets set for the SCs/STs under priority sector advances keeping in view the significance attached to them.
+th
+
+4.. Please acknowledge receipt and advise us the action taken by 15 September, 2005.
+Yours faithfully, (G.Srinivasan) Chief General Manager
