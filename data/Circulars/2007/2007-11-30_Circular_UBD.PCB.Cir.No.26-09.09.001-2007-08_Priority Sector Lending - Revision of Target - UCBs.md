@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2007_UBD_PCB_Cir_No_26_09_09_001_2007-08"
+title: "Priority Sector Lending - Revision of Target - UCBs"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/81569.PDF"
+pdf_sha256: "3abe2ab48f086485f3731eebc9b6bf800edfc6780dea6e743725cbb912736174"
+md_sha256: "e7ea2a1ecc834c4edad6d7cfc5fa8886895eb5088bc867833698b7ff6fd670bc"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-11-30_Circular_UBD.PCB.Cir.No.26-09.09.001-2007-08_Priority%20Sector%20Lending%20-%20Revision%20of%20Target%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending - Revision of Target - UCBs
+
+<!-- PAGE 1 -->
+
+## RBI/2007-08/ 198
+
+UBD.PCB.Cir.No.26 /09.09.001/ 2007-08 November 30, 2007
+
+The Chief Executive Officer All Primary (Urban) Co-operative Bank
+
+Dear Sir/Madam,
+
+## Priority Sector Lending -Revision of Target-UCBs
+
+Please refer to the revised guidelines on lending to priority sectors, issued vide our circular UBD.PCB.Cir.No.11/09.09.01/ 2007-08 dated August 30, 2007 (available on www.rbi.org.in)
+
+2. As you may be aware, as per the recommendation of the Standing Advisory Committee for UCBs constituted by Reserve Bank of India in 1983 under the chairmanship of the then Deputy Governor, Dr. M.V. Hate, the target for priority sector advances was made applicable to UCBs. The Standing Advisory Committee had recommended, *inter alia,* that UCBs should provide 60% of their total advances to priority sectors. This recommendation was later again endorsed by the High Power Committee on UCBs, 1999 (Madhav Rao Committee). The Committee had, in its report, suggested *inter alia* that there was no need for reduction in the priority sector targets to 40 %, as applicable to commercial banks, on account of lower CRAR for non scheduled UCBs and exemptions available to UCBs from income tax.
+3. Since the introduction of priority sector target for UCBs in 1983, the regulatory framework for UCBs has undergone significant changes and it has become more or less comparable with th Withdrawn at of commercial banks, specially on CRAR and income recognition, asset classification and provisioning (IRAC) norms. The exemption hitherto enjoyed by UCBs from payment of income tax has also been withdrawn. Further, the justification for a higher target of priority sector advances for UCBs vis a vis commercial banks on the ground of lower statutory preemption of funds by way of CRR and SLR on their NDTL no more holds good in view of the gradual reduction of CRR and SLR requirements for commercial banks over the years.
+4. In view of the above and at the request of the UCBs and their Federations, it has been decided to bring down the priority sector lending target for UCBs to 40 % of the adjusted bank credit (ABC) ( total loan and advances plus investments made by UCBs in non-SLR bonds) **or** credit equivalent amount of off balance sheet exposure (OBE), whichever is higher, as on March 31 of the previous year.
+
+<!-- PAGE 2 -->
+
+5. The revised target shall come into effect from April 1, 2008.
+6. All other instructions contained in our revised guidelines forwarded under the cover of our circular UBD.PCB.Cir.No.11/09.09.01/ 2007-08 dated August 30, 2007 remain unchanged.
+Yours faithfully, (A.K. Khound) Chief General Manager
+
+# Withdrawn
