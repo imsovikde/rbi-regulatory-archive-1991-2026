@@ -1,0 +1,72 @@
+---
+doc_id: "Notifications_2014_9313"
+title: "RRBs/StCBs/CCBs - Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1988(2011) Taliban Sanctions List"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIT311014TALNOT.pdf"
+pdf_sha256: "a832d5ca45331d3b4dc7ddfe80c29d1d6883e2be70d2cdb4f80b6d38c1f12630"
+md_sha256: "c9b068057753e56cb0ab3570d5f161eedf5e23b50b2e49c25547fc9f41d515e4"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-10-31_Notification_9313_RRBs-StCBs-CCBs%20-%20Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967%20-%20Updates%20of%20the%20UNSCR%201988%282011%29%20Taliban%20Sanctions%20List.pdf"
+verification_status: "NEEDS_REVIEW"
+---
+# RRBs/StCBs/CCBs - Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1988(2011) Taliban Sanctions List
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/291 RPCD.CO.RRB.RCB.AML.No.2246 /07.51.019/2014-15 October 31, 2014
+
+Regional Rural Banks (RRBs) / State and Central Co-operative Banks (StCBs/CCBs)
+
+Madam / Dear Sir,
+
+## Implementation of Section 51-A of UAPA, 1967 -
+
+## Updates of the UNSCR 1988(2011) Taliban Sanctions List
+
+Please refer to our circular <u>RPCD.CO.RRB.RCB.AML.No.1209/07.51.019/2013-14 dated</u> th <u>July 30, 2013</u> on the captioned subject, releasing 7 update of 2013 and <u>RPCD.CO.RRB.RCB.AML.No.2229/07.51.019/2014-15 dated August 26, 2014</u> releasing th 4 update of 2014 regarding UNSCR “1988 Sanctions List”, i.e. list of Individuals and entities linked to Taliban.
+
+th th
+
+2. Ministry of External Affairs (MEA), UNP Division has forwarded 8 and 10 updates of
+st nd 2013 and 1 and 2 updates of 2014 as detailed in the Annex, regarding amendment to the entries in the Taliban sanction list. Links to the press releases also have been provided in the Annex.
+
+Press Releases in which the relevant changes to the list are announced are posted on the Committee’s website at the following URL: <u>[http://www.un.org/sc/committees/1988/pressreleases.shtml](http://www.un.org/sc/committees/1988/pressreleases.shtml)</u>
+
+A link to the updated list of individuals and entities linked to Taliban incorporating all the above updates was circulated vide circular dated August 26, 2014 referred above and the same is available at <u>[http://www.un.org/sc/committees/1988/pdf/1988List.pdf](http://www.un.org/sc/committees/1988/pdf/1988List.pdf)</u>
+
+3. Regional Rural Banks and State / Central Cooperative Banks are required to update the list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear �ामीण आयोजना और ऋण िवभाग, क�ीय कायालय, 10व मंिज़ल, क�ीय कायालय भवन, शहीद भगत �सह माग. पो.बा.सं.10014, मुंबई 400 001
+टेलीफोन: Tel: 022-22601000 फै स Fax: 91-22-22621011/22610948 ईमेल e-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Department, Central Office, 10th Floor, Central Office Building, S. B. S. Marg, P.B.No. 10014, Mumbai 400001 चेतावनी: रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरए कसी क भी यिगत जानकारी जैसे बक के खाते का यौरा, पासवड आद नह मांगी जाती है। यह धन रखने या देने का ताव भी नह करता है। ऐसे��� ताव का कसी भी तरीके से जवाब मत दीिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+
+**4. Banks are advised to strictly follow the procedure laid down in the UAPA Order** **dated August 27, 2009 enclosed to our** <u>circulars RPCD.CO.RRB.No.39/03.05.33</u>
+<u>(E)/2009-10 dated November 05, 2009</u> **and** <u>RPCD.CO.RF.AML.BC.No.34/07.40.00/</u> <u>2009-10 dated October 29, 2009</u> **and ensure meticulous compliance to the Order** **issued by the Government.**
+5. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 6 of the circulars mentioned in paragraph 4 above.
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular to our Regional Office concerned. Yours faithfully, (A.G. Ray) General Manager
+## Encl. as above
+
+<!-- PAGE 3 -->
+
+# Annex
+
+## UNSCR 1988(2011) Taliban Sanctions List
+
+## Sl. Update No. Date Link to the Press Release
+
+**No.** th
+
+|1|8 of 2013|Sept. 24, 2013|[http://www.un.org/press/en/2013/sc11130.doc.htm|](http://www.un.org/press/en/2013/sc11130.doc.htm|)
+|---|---|---|---|
+|2|10 of 2013|January 2, 2014|[http://www.un.org/press/en/2014/sc11237.doc.htm|](http://www.un.org/press/en/2014/sc11237.doc.htm|)
+|3|1 of 2014|February 11, 2014|[http://www.un.org/press/en/2014/sc11272.doc.htm|](http://www.un.org/press/en/2014/sc11272.doc.htm|)
+|4|2 of 2014|March 19, 2014|[http://www.un.org/press/en/2014/sc11329.doc.htm|](http://www.un.org/press/en/2014/sc11329.doc.htm|)
+
+th st nd

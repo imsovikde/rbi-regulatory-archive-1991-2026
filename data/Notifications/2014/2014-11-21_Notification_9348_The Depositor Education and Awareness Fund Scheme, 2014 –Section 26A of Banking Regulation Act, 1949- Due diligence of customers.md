@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2014_9348"
+title: "The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Due diligence of customers"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DUC21112014F.pdf"
+pdf_sha256: "75d7131fd9507bb7ba2fad239039813104f2678679e57261894138f90d3292dd"
+md_sha256: "124860685cd77701fdef2c6fc22acdbb4e8260c8fc6355be8f17b4b6c644a632"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-11-21_Notification_9348_The%20Depositor%20Education%20and%20Awareness%20Fund%20Scheme%2C%202014%20%E2%80%93Section%2026A%20of%20Banking%20Regulation%20Act%2C%201949-%20Due%20diligence%20of%20customers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Due diligence of customers
+
+<!-- PAGE 1 -->
+
+भारतीय ररज़र्व बैंक **_________________RESERVE BANK Of INDIA ___________________** <u>www.rbi.org.in</u> RBI/2014-15/311 DBR.No.DEA Fund Cell.BC. 49/30.01.002/2014-15 November 21, 2014
+
+The Chairman and Managing Director / Chief Executive Officer All Scheduled Commercial Banks including RRBs and LABs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks.
+
+Dear Sir/Madam, **The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of** **Banking Regulation Act, 1949- Due diligence of customers**
+
+Please refer to <u>circular DBOD.No.DEAF Cell.BC.114/30.01.002/2013-14 dated May 27,</u> <u>2014</u> on the Depositor Education and Awareness Fund Scheme, 2014.
+
+2. In terms of Paragraph 4 (i) of the Scheme, in case of demand from a customer/ depositor whose unclaimed amount/deposit had been transferred to the Fund, banks shall repay the customer/depositor, along with interest, if applicable, and lodge a claim for refund from the Fund for an equivalent amount paid to the customer/depositor.
+3. In this regard, banks are once again advised to follow the detailed instructions issued by us vide <u>circular DBOD.No. Leg BC.34/09.07.005/2008-09 dated August 22, 2008</u> (for all Scheduled commercial banks (excluding RRBs), <u>circular UBD.BPD. (PCB) Cir. No.</u> <u>9/13.01.000/2008-09 dated September 1, 2008</u> (for all Primary (Urban) Co-operative Banks), <u>circular RPCD.CO.RF.BC.No. 89/07.38.01/2008-09 dated February 18, 2009</u> (for all State and Central Co-operative Banks) and <u>circular RPCD.CO. RRB.BC. No.108</u> <u>/ 03. 05. 33 / 2008-09 dated May 22, 2009</u> (for all Regional Rural Banks), wherein it was advised that special efforts may be made to trace the customers in respect of inoperative accounts.
+बकैं िं ग विनियमि विभाग, े ि्द्रीय ायाालय, े ि्द्रीय ायाालय भिि,मिंजंल ि िं 12, शहीद भगत स िंह मागा, फोर्ा, मबिंई-400 001 फोि: 022-2266 1602, फै ् : 022-2270 5691, ईमेल-: <u>cgmicdbodco@rbi.org.in</u>, िेब ाइर्: www.rbi.org.in Department of Banking Regulation, Central Office ,Central Office Building, 12 th Floor ,Shahid Bhagat Singh Marg, Fort ,Mumbai – 400 001 Phone: 022-2266 1602, Fax: 022-2270 5691, E-mail: <u>cgmicdbodco@rbi.org.in</u>, Website: www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. However, it is observed that, while accounts remained inoperative for ten years or more and the customers/ claimants concerned were non-traceable, some banks have claimed substantial refunds from the Depositor Education and Awareness Fund, much too soon after transferring the amounts due to the Fund. It is not clear as to how customers / claimants, who did not operate the account for ten years or more, approached the banks for repayment immediately after the balances in their inoperative accounts were transferred to the Fund. Banks should, therefore, follow all instructions meticulously in respect of inoperative accounts.
+5. Further, proper due diligence as per the risk category of the customers may also be carried out before making payments to the customers approaching the banks for repayment. Banks are advised to invariably verify the genuineness of the transactions and ensure that the amounts paid to the customers are properly audited by the internal auditors/statutory auditors. Yours faithfully, (A. K.Pandey) Chief General Manager
