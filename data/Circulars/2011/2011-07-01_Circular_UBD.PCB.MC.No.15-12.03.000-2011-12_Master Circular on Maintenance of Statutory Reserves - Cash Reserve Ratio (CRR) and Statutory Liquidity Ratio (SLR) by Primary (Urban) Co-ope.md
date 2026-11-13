@@ -1,0 +1,1324 @@
+---
+doc_id: "Circulars_2011_UBD_PCB_MC_No_15_12_03_000_2011-12"
+title: "Master Circular on Maintenance of Statutory Reserves - Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) by Primary (Urban) Co-operative Banks"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/40MCI280611.PDF"
+pdf_sha256: "a2b3e2c71d15036135a1d4fb07f59eeee719655e67eef9e2deae563d0858f8a4"
+md_sha256: "144749a079cfe8322503759a4d7c505f33c52509d62c17c416791add723eccb3"
+total_pages: 59
+native_pages: 59
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:28:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-07-01_Circular_UBD.PCB.MC.No.15-12.03.000-2011-12_Master%20Circular%20on%20Maintenance%20of%20Statutory%20Reserves%20-%20Cash%20Reserve%20Ratio%20%28CRR%29%20and%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20by%20Primary%20%28Urban%29%20Co-ope.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Maintenance of Statutory Reserves - Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) by Primary (Urban) Co-operative Banks
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बैंक
+
+### _____________________RESERVE BANK OF INDIA___________________ <u>www.rbi.org.in</u>
+
+RBI/2011-12/40 UBD.PCB. MC.No:15 /12.03.000/2011-12 July 1, 2011
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir, **Master Circular on Maintenance of Statutory Reserves-** **Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) by Primary (Urban) Co-operative Banks**
+
+Please refer to our <u>Master Circular UBD CO.PCB.MC.No.15/12.03.000/2010-11 dated</u> <u>July 1, 2010</u> on the captioned subject. The enclosed Master Circular consolidates and updates all the instructions/guidelines on the subject issued up to June 30, 2011 and mentioned in the Appendix.
+
+# Withdrawn
+
+Yours faithfully,
+
+(Uma Shankar) Chief General Manager
+
+### Encls: As above
+
+शहरी बैंक िवभाग,कें िीय कायालय र्, गारमेंट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in <u>बैंक िहन्दी में पऽाचार का ःवागत करता है —</u>
+
+<!-- PAGE 2 -->
+
+## Master Circular
+
+## Maintenance of Statutory Reserves
+
+## Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)
+
+## Contents
+
+1. Introduction	1
+2. General	1
+3. Cash Reserves for Scheduled UCBs	2
+4. Cash Reserves for Non-Scheduled UCBs.	7
+5. Statutory Liquidity Reserves for scheduled and non-scheduled UCBs	8
+6. Annex 1	16
+7. Annex 2	21
+8. Annex 3	26
+9. Annex 4	31
+10. Annex 5	37
+11. Annex 6	39
+12. Annex 7	40
+13. Annex 8	42
+14. Annex 9	45
+15. Appendix	49
+
+Withdrawn
+
+<!-- PAGE 3 -->
+
+## Master Circular
+
+## Maintenance of Statutory Reserves
+
+## Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) by
+
+## Primary (Urban) Co-operative Banks
+
+## 1. Introduction
+
+1.1 All primary (urban) co-operative banks (UCBs) (scheduled as well as non- scheduled) are required to maintain stipulated level of cash reserve ratio (CRR) and statutory liquidity ratio (SLR).
+1.2 In regard to cash reserve, the provisions of section 42 (1) of the Reserve Bank of India Act, 1934 (RBI Act, 1934), governs scheduled UCBs whereas, non scheduled UCBs are governed by the provisions of section 18 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) [BR Act, 1949(AACS)].
+1.3 The provisions of section 24 of the Act *ibid* govern maintenance of SLR for all banks (scheduled as well as non-scheduled).
+1.4 The instructions on all these aspects which are operational as on date of this circular are detailed in the following paragraphs.
+## 2. General
+
+# Withdrawn
+
+2.1 The various Forms/Returns are given in the Banking Regulation (Co-operative Societies) Rules, 1966.
+2.2 In order to monitor the day-to-day position of liquidity of the bank, all UCBs are required to maintain a register, as per format given in Annex 8, showing the daily position of cash reserve and liquid assets maintained under sections 18 and 24 of the BR Act, 1949 (AACS).
+2.3 The work of maintaining the register on daily basis may be entrusted to a responsible official and it should be put up daily to the Chief Executive Officer, who is responsible for ensuring compliance with the statutory liquidity requirements at the close of business every day.
+2.4 To facilitate compilation of figures under various heads of the register, the explanations in respect of each item which form part of the Rules, as footnotes to Form I are given in the Annex 9. However, it may be noted that Scheduled UCBs are required to compute CRR requirements as per Section 42 of RBI Act, 1934.
+
+<!-- PAGE 4 -->
+
+## 3 Cash Reserves for Scheduled UCBs
+
+## 3.1 Statutory CRR Requirements
+
+Earlier, in terms of section 42(1) of the RBI Act, 1934, the scheduled UCBs were required to maintain with the Reserve Bank of India (Reserve Bank) during the fortnight, a minimum average daily balance of 3% of their total demand and time liabilities (DTL) in India obtaining on the last Friday of the second preceding fortnight. Further, Reserve Bank was empowered to increase, through Gazette notification, the said rate up to 15% of the DTL. The RBI Act, 1934 was amended by Parliament in June 2006 and the Reserve Bank of India (Amendment) Bill, 2006 came into force with effect from April 1, 2007. As per the amendment, sub- section (1) of Section 42 of the RBI Act, 1934 was amended enabling the Reserve Bank, having regard to the needs of securing monetary stability in the country, to prescribe CRR for scheduled banks without any floor or ceiling rate. Accordingly, with effect from April 1, 2007, Reserve Bank having regard to the needs of securing the monetary stability in the country, prescribes the CRR for Scheduled UCBs without any floor or ceiling rate.
+
+## 3.2 Incremental CRR
+
+In terms of section 42(1) A of the RBI Act 1934, the Scheduled UCBs are required to maintain, in addition to the balances prescribed under Section 42(1) of the Act, an additional average daily balance, the amount of which shall not be less than the rate specified by the Reserve Bank in the notification published in the Gazette of India from time to time. Such additional balance will be calculated with reference to the excess of the total of demand and time liabilities (DTL) of the bank as shown in the retuWithdrawnrn referred to in Section 42(2) of the RBI Act, 1934 over the total of its DTL at the close of the business on the date specified in the notification.
+
+Currently Reserve Bank has not prescribed any incremental CRR.
+
+## 3.3 Multiple Prescriptions for CRR
+
+For the purpose of maintenance of CRR and SLR the Reserve Bank may specify from time to time with reference to any transaction or class of transactions that such transaction or transactions shall be treated as liability in India of a scheduled UCB.
+
+## 3.4 Maintenance of CRR
+
+At present with effect from the fortnight beginning from April 24, 2010 the CRR prescribed by the Reserve Bank is 6.00 per cent of a bank's total of demand and time liabilities adjusted for the exemptions discussed in the following section
+
+3.11*.* The schedule of changes brought about in the CRR prescription has been detailed in the table below:
+
+<!-- PAGE 5 -->
+
+|Effective date|CRR on net demand and|
+|---|---|
+|(from the fortnight beginning)|time liabilities (per cent)|
+|January 6, 2007|5.50|
+|February 17, 2007|5.75|
+|March 3, 2007|6.00|
+|April 14, 2007|6.25|
+|April 28, 2007|6.50|
+|August 04, 2007|7.00|
+|November 10, 2007|7.50|
+|April 26, 2008|7.75|
+|May 10, 2008|8.00|
+|May 24, 2008|8.25|
+|July 05, 2008|8.50|
+|July 19, 2008|8.75|
+|August 30, 2008|9.00|
+|October 11, 2008|6.50|
+|October 25, 2008|6.00|
+|November 08, 2008|5.50|
+|January 17, 2009|5.00|
+|February 13, 2010|5.50|
+|February 27, 2010|5.75|
+|April 24, 2010|6.00|
+
+# Withdrawn
+
+## 3.5 Maintenance of CRR on a daily basis
+
+In order to provide flexibility to banks and enable them to choose an optimum strategy of holding reserves depending upon their intra period cash flow, scheduled UCBs are presently required to maintain on average daily balance, a minimum of 70 per cent of the prescribed CRR balance based on their Net Demand and Time Liabilities (NDTL), as on the last Friday of the second preceding fortnight.
+
+## 3.6 Calculation of CRR
+
+In order to improve the cash management by banks, as a measure of simplification, a lag of two weeks has been introduced in the maintenance of stipulated CRR by the scheduled banks. Thus, with effect from the fortnight beginning from November 6, 1999, the prescribed CRR during a fortnight has to be maintained by every bank based on its NDTL as on the last Friday of the second preceding fortnight i.e. based on the NDTL as on reporting Friday, October 22, 1999 and so on.
+
+<!-- PAGE 6 -->
+
+## 3.7 Computation of NDTL for CRR
+
+i) Liabilities of a bank may be in the form of demand or time deposits or borrowings or other miscellaneous items of liabilities. As defined under Section 42 of RBI Act, 1934, liabilities of a bank may be towards banking system or towards others. ‘Demand Liabilities’ include all liabilities which are payable on demand. ‘Time Liabilities’ are those which are payable otherwise than on demand. Reserve Bank has been authorised in terms of Section 42 (1)
+(c) of RBI Act, 1934 to classify any particular liability and hence for any doubt regarding classification of a particular liability, banks are advised to approach Reserve Bank for necessary clarifications.
+ii) The computation of DTL, liabilities to the banking system, and assets with the banking system, NDTL etc. are explained in detail in Annex I.
+
+## 3.8 Borrowings from Banks abroad
+
+Loans/borrowings from abroad by banks in India will be considered as 'liabilities to others' and will be subject to reserve requirements.
+
+## 3.9 Arrangements with Correspondent Banks for remittance facilities
+
+When a bank accepts funds from a client under its remittance facilities scheme, it becomes a liability (liability to others) in its books. The liability of the bank accepting funds will extinguish only when the correspondent bank honours the drafts issued by the accepting bank to its customers. As such, the balance amount in respect of the drafts issued by the accepting bank on its correspondent bank under the remittance facilitieWithdrawns scheme and remaining unpaid should be reflected in the accepting bank's books as an outside liability under the head ' Liability to others in India' and the same should also be taken into account for computation of NDTL for CRR/SLR purpose.
+
+The amount received by correspondent banks has to be shown as 'Liability to the Banking System' by them and not as 'Liability to others' and this liability could be netted off by the correspondent banks against the inter-bank assets. Likewise sums placed by banks issuing drafts/interest/dividend warrants are to be treated as 'Assets with Banking System' in their books and can be netted off from their inter- bank liabilities.
+
+**3.10 Loans out of Foreign Currency Non-Resident (Banks) (FCNR [B]) Deposits and Inter-Bank Foreign Currency (IBFC) Deposits** Loans out of FCNR [B] Deposits Scheme and IBFC Deposits should be included as part of bank credit while reporting in Form ’A’. For the purpose of reporting banks should convert their FCNR (B) Deposits, Overseas foreign currency assets
+
+<!-- PAGE 7 -->
+
+and bank credit in India in foreign currency in 4 major currencies into rupees at Foreign Exchange Dealers’ Association of India (FEDAI) noon mean rate on the reporting Friday.
+
+## 3.11 Exempted categories
+
+Scheduled UCBs are exempted from maintaining CRR on the following liabilities:
+
+(i) The liabilities to the Banking System as computed under clause (d) of explanation to section 42(1) of the RBI Act, 1934. (ii) Credit balances in ACU (US$) accounts. (iii) UCBs are exempted, till further orders, from the obligation of maintenance of CRR under Section 18 of the BR Act, 1949 (AACS) or assets in the form of cash, gold or unencumbered approved securities under section 24 read with section 56 of the BR Act, 1949 (AACS) to the extent of the amounts deposited by them with IDBI Bank Ltd. in current account (vide circular UBD.BPD. (PCB) Cir. No.41/12.05.001/2008-09 dated January 29, 2009 read with notification dated December 15, 2008).
+## 3.12 Maintenance of Cash Balances
+
+For the purpose of maintaining CRR, every scheduled bank is required to maintain a Principal Account with the Deposit Accounts Department (DAD) of the Reserve Bank at the centre where the principal office of the bank is located.Withdrawn
+
+## 3.13 No Interest on CRR balances maintained with Reserve Bank
+
+In view of the amendment carried out to RBI Act 1934, omitting sub-section (1B) of section 42, the Reserve Bank does not pay any interest on the CRR balances maintained by Scheduled UCBs with effect from the fortnight beginning March 31, 2007.
+
+## 3.14 Reporting Requirements
+
+(i) In terms of Section 42(2) of the RBI Act, 1934 every scheduled bank is required to send to the Reserve Bank, a Return [Form B (Annex 2)] at the close of business on each alternate Friday within seven days after the date of which it relates, duly signed by two responsible officers of bank containing the relevant information. Where such alternate Friday is a public holiday under the Negotiable Instruments Act, 1881, for one or more offices of the bank, the Return should give the preceding day's figures in respect of such office or offices, but should nevertheless be deemed to relate to that Friday.
+
+<!-- PAGE 8 -->
+
+(ii) Where the last Friday of a month is not an alternate Friday for the purpose of the above Return, the banks should send to Reserve Bank, a Special Return in Form B giving the same details as specified above as at the close of business on such last Friday or where such last Friday is a public holiday under the Negotiable Instruments Act, 1981, as at the close of business on the preceding working day and such return should also be submitted within seven days after the date to which it relates. (iii) Banks are required to calculate the proportion of their savings bank deposits as at the close of business on March 31 and September 30, into demand and time liabilities in terms of Regulation 7 of the RBI Act, 1934, Scheduled Bank's Regulations, 1951 and report in the prescribed form given in Annex 2.
+
+(iv) Whenever there are wide variations between the sources and uses of funds as being reported in the fortnightly Return and the variations exceed 20 per cent, the banks concerned should advise the reasons for such wide variations in the return.
+
+(v) In terms of Regulation 5(1)(c) of the Scheduled Banks Regulations, the banks are required to furnish a list of the names, the official designations and specimen signatures of the officers of the bank who are authorized to sign on behalf of the bank Returns prescribed under Section 42(2) of the RBI Act, 1934 of whom only two may sign such return. The bank has to submit to Reserve Bank fresh set of signatures whenever there is change in the incumbency.
+## 3.15 Penalty for Non submission /delayed submission of Return
+
+Failure to submit the Return/late submission of the Return attracts the provisions of section 42 (4) of RBI Act, 1934 and the banks are liable for imposition of penalties as indicated therein.Withdrawn
+
+(a)From the fortnight beginning June 24, 2006, the penal interest for default in maintenance of CRR is charged as under:
+(i) In case of default in maintenance of CRR requirement on daily basis, which is presently 70 per cent of the total CRR requirement, penal interest will be recovered for that day at the rate of three per cent per annum above the bank rate on the amount by which the amount actually maintained falls short of the prescribed minimum on that day and if short fall continues on the next succeeding days, penal interest will be recovered at a rate of five per cent per annum above the bank rate. (ii) In case of default in maintenance of CRR on average basis during a fortnight, penal interest will be recovered as envisaged in sub-section (3) of Section 42 of RBI Act, 1934.
+(b) When under the provisions of Section 42 (3) of the RBI Act, 1934 penal interest at the increased rate of 5 per cent above bank rate has become payable -
+
+<!-- PAGE 9 -->
+
+(i) Every Director, manager or secretary of the scheduled bank who is knowingly and wilfully a party to the default, shall be punishable with fine which may extend to five hundred Rupees and with a further fine which may extend to five hundred Rupees for each subsequent fortnight during which default continues. (ii) The Reserve Bank may prohibit the scheduled bank from receiving any fresh deposit after the said fortnight, and if default is made by the bank in complying with the prohibition referred to in this clause, every director and officer of the bank who is knowingly and wilfully a party to such default or who through negligence or otherwise contributes to such default shall in respect of each such default be punishable with fine which may extend to five hundred rupees and with a further fine which may extend to five hundred rupees for each day after the first, on which a deposit received in contravention of such prohibition is retained by the scheduled bank.
+## 4. Cash Reserves for Non-Scheduled UCBs.
+
+In terms of section 18 of the BR Act, 1949, (AACS), every UCB (not being a scheduled bank) is required to maintain on daily basis a cash reserve, an amount not less that 3 per cent of its DTL as obtaining on the last Friday of the second preceding fortnight and shall submit to the Reserve Bank before fifteenth day of every month a Return showing the amount so held on alternate Fridays during a month with particulars of DTL in India on such Fridays and if any such Friday is a public holiday under Negotiable Instruments Act, 1881, at the close of business on the preceding working day. This balance may be maintained by way of cash resources with itself or by way of balaWithdrawnnce in a current account with the Reserve Bank or the State Co-operative Bank of the State concerned or by way or net balance in current accounts, or with the Central Co-operative Bank of the district concerned or in one or more of the aforesaid ways. The net balance in current accounts shall in relation to a co-operative bank mean the excess, if any, of the aggregate of the credit balances in current account maintained by that co- operative bank with the State Bank of India or a subsidiary bank or a corresponding new bank, over the aggregate of the credit balances in current accounts held by the said banks with such co-operative bank. With effect from January 29, 2009, UCBs are exempted, till further orders, from the obligation of maintenance of CRR under Section 18 of the BR Act, 1949 (AACS) to the extent of the amounts of deposits maintained by them with IDBI Bank Ltd. in current accounts.
+
+## 4.1 Computation of NDTL for CRR
+
+The computation of DTL, liabilities to the banking system, assets with the banking system, and NDTL, etc. are explained in detail in Annex 3.
+
+## 4.2 Reporting Requirements
+
+<!-- PAGE 10 -->
+
+Non-scheduled banks are required to submit a Return in Form I, as per proforma given in Annex 4, to the Regional Office concerned of Reserve Bank not later than 20 days after the end of the month to which it relates showing the position, *inter alia,* of cash reserve maintained by the banks under section 18 of the BR Act, 1949 (AACS) as at the close of business on each alternate Friday during the month, with particulars of its DTL in India on such Fridays or if any such Friday is a public holiday under the Negotiable Instruments Act, 1881, at the close of business on the preceding working day. Non-scheduled banks are required to furnish in Appendix I, as per proforma given in Annex 5, along with the Return in Form I showing the position of the
+
+(a) cash reserve required to be maintained under section 18 of the BR Act, 1949 (AACS)
+(b) cash reserve actually maintained, and the
+(c) extent of deficit/surplus for each day of the month.
+## 4.3 Penalty
+
+Non-scheduled banks should ensure to maintain the required cash reserve and submit the prescribed return along with Appendix I (Annex 5) within the stipulated time to the concerned Regional Offices. Failure to submit the Return in time attracts the provisions of section 46(4) of the BR Act, 1949 (AACS), and the banks are liable to imposition of penalties as indicated therein. The banks should, therefore, in their own interest ensure that the stipulations of the section 18 of the BR Act, 1949 (AACS) referred to above are strictly adhered to.
+
+# Withdrawn
+
+## 5. Statutory Liquidity Reserves (Scheduled and Non-Scheduled UCBs)
+
+In term of section 24 (1) and 24 (2A)(a) of the BR Act, 1949 (AACS), every bank (scheduled and non-scheduled), is required to maintain, on daily basis, liquid assets, the amount of which shall not be less than 25 per cent or such other percentage not exceeding 40 per cent, as may be notified by Reserve Bank, of its DTL in India as on the last Friday of the second preceding fortnight.
+
+## 5.1 Current Prescription for SLR
+
+Presently the UCBs are required to maintain a uniform SLR of 25 per cent on their total DTL in India.
+
+## 5.2 Calculation of SLR
+
+The compliance with a daily statement to banks/Reserve Bank listing the securities lodged/utilised this obligation is monitored ordinarily with reference to the position of the SLR as on the relevant alternate Friday as shown in the return in Form I.
+
+<!-- PAGE 11 -->
+
+Banks are also required to maintain SLR on borrowing through CBLO. However, securities lodged in the Gilt Account of the bank maintained with Clearing Corporation of India Ltd. (CCIL) under Constituent Subsidiary General Ledger account (CSGL) facilities remaining unencumbered at the end of any day can be reckoned for SLR purposes by the bank concerned. For this purpose, CCIL will provide a daily statement to banks/Reserve Bank listing the securities lodged/utilised/remaining unencumbered.
+
+The details on computation of SLR are furnished in the Annex 3.
+
+## 5.3 Manner of Maintaining Statutory Liquidity Reserves
+
+The liquid assets may be maintained –
+
+(i) in cash, or (ii) in gold valued at a price not exceeding the current market price, or (iii) in unencumbered approved securities valued at a price determined in accordance with such one or more of, or combination of the methods of valuation, namely, valuation with reference to cost price, market price, book value or face value, as may be specified by the Reserve Bank from time to time. (In terms of circular No. IDMD.3426/11.01.01/(D) 225-06 dated March 03, 2006, all Negotiated Dealing System-Order Matching (NDS-OM) segment members were allowed to undertake ‘When Issued transactions’ on NDS-OM platform. The securities bought in the ‘When Issued’ market would be eligible for SLR purposes, only on delivery.)
+# Withdrawn
+
+The following shall be deemed to be ‘cash maintained in India’:
+
+(i) any excess balance maintained, by a UCB with Reserve Bank over and above CRR requirement, and (ii) any cash or balances maintained in India by a co-operative bank, with itself or with the state co-operative bank of the state concerned, or by way of net balance in the current accounts and, also any balances maintained with central co-operative bank of the district concerned, in excess of the cash or balances required to be maintained under section 18 of the BR Act, 1949 (AACS). (iii) any net balance in the current account. Further, vide circular UBD.BPD.(PCB) Cir. No.41/12.05.001/2008-09 dated January 29, 2009 read with notification dated December 15, 2008, primary (urban) co-operative banks, are exempted, till further order, from the obligation of maintenance of cash reserve ratio (CRR) under section 18 or assets in the form of cash, gold or unencumbered approved securities under section 24 read with
+
+<!-- PAGE 12 -->
+
+section 56 of the Banking Regulation Act, 1949, to the extent of the amounts deposited by them with IDBI Bank Limited, in current account.
+
+Note: Unencumbered deposits with state/district central co-operative bank of the
+
+state/district concerned:
+
+a) Wherever a district is served by more than one central co-operative bank, the area of operations of each central co-operative bank within the district is quite distinct and separate as per the provisions of the by-laws of the central co-operative bank concerned. The primary cooperative banks operating in the area of the central co-operative bank concerned in the district will be normally affiliated to that central co-operative bank. Therefore, the central co-operative bank concerned in the district to which the primary co-operative bank is affiliated, or in whose area the primary co-operative bank has its registered office, will be the central cooperative bank of the district concerned for the purposes of Sections 18 & 24 of the BR Act, 1949 (AACS).
+b) Where a primary co-operative bank operates beyond such area, by opening branches in areas served by other central co-operative banks in the district, it can treat its balances with latter also as cash reserve or liquid assets, as the case may be.
+(Legally speaking, the banks may invest in gold (including gold ornaments) to maintain liquid assets. However, such investments are of unproductive nature and yield no income, except price increase, which is subject to speculative forces. Keeping these aspects in view as well as the difficulties involved in valuation, safekeeping, etc., the banks should not inveWithdrawnst in gold to maintain liquid assets for SLR purposes.)
+
+## 5.4 Explanations / Requirements regarding Approved Securities
+
+(i) In terms of section 5(a) of BR Act, 1949 (AACS), approved securities for the purpose of section 24 of BR Act, 1949 (AACS) means securities in which a trustee may invest money under clause (a), (b), (bb), (c) or (d) of section 20 of the Indian Trusts Act, 1882, and; (ii) Such of the securities authorised by the Central Government under clause
+(f) of section 20 of the Indian Trusts Act, 1882. (Note: all securities under section 20 of the Indian Trusts Act, 1882 cannot be considered as approved securities for the purpose of section 24 of the BR Act, 1949 (AACS). Approved securities should be such trustee securities, which have been specified as eligible securities for the purpose of section 24, *ibid* by Reserve Bank. The SLR status of securities issued by Government of India and the State Governments will be indicated in the Press Release issued by the Reserve Bank at the time of issuance of the securities. An updated and current list of the SLR securities is
+
+<!-- PAGE 13 -->
+
+available on the Reserve Bank’s website (www.rbi.org.in) under the link ‘Database on Indian Economy’. In case of any doubt regarding the classification of a security for the purpose of section 24, the banks may seek clarifications from Reserve Bank.)
+
+(iii) Banks may reckon their reserve fund investments in fixed deposits, or the investments in approved securities as SLR assets provided they are unencumbered.
+
+(iv) Unencumbered approved securities include such securities lodged with another institution for an advance or any other credit arrangement to the extent to which such securities have not been drawn against or availed of.
+
+## 5.5 Minimum SLR holding in Government Securities:
+
+(i) In terms of circular UBD.No.BR. Cir.42/16.26.00/2000-01 dated April 19, 2001, it was decided that UCBs shall invest in government and other approved securities as indicated below:
+
+|Sr. No.|Category of banks|Minimum SLR holding in Government and|
+|---|---|---|
+|||other approved securities as percentage of|
+|||NDTL|
+|1|Scheduled banks|25 per cent|
+|2|Non-Scheduled banks (a) With NDTL of Rs. 25 crore &|15 per cent|
+||above (b) With NDTL of less than Rs. 25|10 per cent|
+||crore||
+
+# Withdrawn
+
+(ii) Vide circular <u>UBD (PCB).CO.BPD.Cir. No.28/16.26.00/2008-09 dated</u> <u>November 26, 2008</u>, it was decided to increase the proportion of SLR holdings in the form of Government Securities as percentage of NDTL as under:
+
+(a) Non scheduled Tier I banks shall maintain SLR in the form of Government and other approved securities not less than 7.5 per cent of their NDTL by September 30, 2009 and 15 per cent by of their NDTL by March 31, 2010.
+(b) The current prescription of holding SLR in Government and other approved securities not less than 15 per cent of their NDTL in respect of non-scheduled Tier II banks shall continue up to March 31, 2010.
+(c) From March 31, 2011 onwards all non-scheduled UCBs shall be required to maintain SLR in Government and other approved securities up to 25 per cent of their NDTL.
+
+<!-- PAGE 14 -->
+
+(iii) The definition for Tier I banks has been since amended vide circular dated March 07, 2008 as under:
+
+Tier I Primary (urban) Co-operative Bank means:
+
+(a)Unit banks i.e. banks having a single branch / Head Office and banks with deposits below Rs.100 crore, whose branches are located in a single district.
+(b) Banks with deposits below Rs.100 crore having branches in more than one district, provided the branches are in contiguous districts and deposits <u>and</u> advances of branches in one district *separately* constitute at least 95 per cent of the total deposits and advances respectively of the bank.
+(c)Banks with deposits below Rs.100 crore, whose branches were originally in a single district but subsequently, became multi-district due to reorganization of the district.
+(iv) Exemption under Section 24A-up to March 31, 2008 - Considering the difficulties faced by the UCBs in making investment in Government Securities it was decided that limited exemption from the requirements could be granted to a class of UCBs. Accordingly, vide UBD (PCB) Cir. Mo. 31/16.26.00/2005-06 dated February 17, 2006 through a Gazette Notification dated December 26, 2005, non-scheduled UCBs classified as Tier I banks, were exempted from maintaining SLR in prescribed assets up to 15 per cent of their DTL on keeping the required amount, in interest bearing deposits, with State Bank of India and its subsidiary banks and the public sector banks including InWithdrawndustrial Development Bank of India Ltd. (name changed to IDBI Bank Ltd). The exemption was available from February 17, 2006 in respect of above categories of UCBs and was in force up to March 31, 2008. Subsequently, vide circular <u>UBD. (PCB).</u> <u>Cir. No 37/16.26.000/2008-09 dated January 21, 2009</u>, read with notification dated November 26, 2008, it was decided to continue the exemption provided that with effect from October 1, 2009, such exemption shall not exceed 7.5 per cent of NDTL. The exemption shall stand withdrawn effective from April 1, 2010.
+
+(v) All UCBs are required to maintain investments in Government Securities only in Subsidiary General Ledger (SGL) Accounts with Reserve Bank or in CSGL Accounts of scheduled commercial banks, Primary Dealers (PDs), State Co-operative Banks, and Stock Holding Corporation of India Ltd.(SHCIL) or in the dematerialised accounts with depositories such as National Securities Depositories Ltd (NSDL), Central Depository Services Ltd. (CDSL), and National Securities Clearing Corporation Ltd. (NSCCL).
+## 5.6 Classification and Valuation of Securities for SLR
+
+<!-- PAGE 15 -->
+
+(i) The Classification and Valuation of Securities for SLR will be done as specified by the Reserve Bank from time to time. For detailed instruction on classification and valuation of securities for SLR, please refer to Master circular No UBD.BPD. MC. No.12/16.20.000/2009-10 dated July 01, 2010. (ii) A format for reporting the data is given in Annex 6. Information in the format may be furnished as an Annex, to return in Form I, only to the Regional Office concerned of this department with effect from 2003.The monthly Return should contain information of the fortnights following in the respective months.
+## 5.7 Computation of NDTL for SLR
+
+(i) The net liabilities to the ‘Banking System’ as computed under clause (d) of explanation to section 18(1) of the BR Act, 1949 (AACS) are exempted from maintenance of SLR. (ii) The procedure followed for working out net inter-bank liabilities for the purpose of SLR should be in accordance with clause (d) of explanation to section 18(1) of the BR Act, 1949(AACS). The procedure to compute total NDTL for the purpose of SLR and minimum SLR of 25 per cent under section 24(1) of BR Act, 1949 (AACS) must be similar to the procedure followed for CRR purposes as detailed in Annex 3. (iii) In terms of clause (d) of explanation to section 18(1) of the BR Act, 1949 (AACS) the amount of net inter-bank liabilities is to be calculated after reducing 'assets with banking system' from 'liabilities to the banking system'. If it is a positive figure, it should be added to 'liabilities to others' to arrive at total NDTL. If it is a neWithdrawngative figure, net inter-bank liabilities would be considered as zero and 'liabilities to others' would be considered as total NDTL. For the purpose of working out liabilities, subject to a prescribed SLR under the law, if net inter-bank liabilities are positive it should be deducted from total NDTL. However, for the purpose of working out minimum SLR of 25 per cent on total NDTL, net inter-bank liabilities should also be included. (iv) The computation of DTL, liabilities to the banking system, assets with the banking system, and NDTL, etc. are explained in detail in Annex 3.
+(v) In case a UCB has availed a loan from DCCB/SCB with which it maintains deposits, for the computation of SLR, the amount of loan availed should be deducted from deposits irrespective of whether a lien has been marked on such deposits or not, as in case of default the lender bank can exercise the lien and the deposits may not be available to meet the liquidity needs. In case of Salary Earners Co-operative Banks, time up to March 31, 2009 was granted to comply with the instructions (vide circular <u>UBD.CO.BPD. (PCB).No 20/12.05.001/2008-09 dated</u> <u>September 30, 2008</u>).
+
+<!-- PAGE 16 -->
+
+## 5.8 Reporting Requirements
+
+(i) All UCBs (scheduled and non-scheduled), are required to submit a Return in Form I ( as detailed in Annex 4) under section 24 of the BR Act, 1949 (AACS) every month showing the position of liquid assets maintained under the said section as at the close of business on each alternate Friday during the month. [Note: In respect of Non-Scheduled UCBs, Return in Form I is common for reporting cash reserves and statutory liquid assets.] (ii) All UCBs (scheduled and non-scheduled) are required to furnish Appendix II, as per proforma given in Annex 7, along with the Return in Form I showing the position of -
+(a) statutory liquid assets required to be maintained under Section 24 of the BR Act,1949 (AACS).
+(b) liquid assets actually maintained, and
+(c) the extent of deficit/surplus for each day of the month.
+## 5.9 Penal Provisions
+
+(i) In terms of section 24(4)(a) of the BR Act, 1949 (AACS), if on any alternate Friday or, if such Friday is a public holiday, on the preceding working day, the amount maintained by any bank at the close of business on that day falls below the minimum prescribed by or under clause 24(2A)(a), the bank shall be liable to pay to the Reserve Bank in respect of that day’s default, penal interest for that day at the rate of 3 per cent per annum above the bank rate on the amount by which the amount
+# Withdrawn
+
+actually maintained falls short of the prescribed minimum on that day.
+
+(ii) Further, vide section 24(4)(b), if the default occurs again on the next succeeding alternate Friday, or, if such Friday is a public holiday, on the preceding working day, and continues on succeeding alternate Fridays or preceding working days, as the case may be, the rate of penal interest shall be increased to a rate of 5 per cent per annum above the bank rate on each such shortfall in respect of that alternate Friday and each succeeding alternate Friday or preceding working day, if such Friday is a public holiday, on which the default continues.
+
+(iii) Without prejudice to the provisions of section 24(4), on the failure of any bank to maintain on any day, the amount so required to be made by or under clause (a) of section 24(2A), the Reserve Bank under Section 24(5)(a) may, in respect of such default, require the concerned bank to pay penal interest for that day as provided in section 24(4)(a) and if the default continues on the next succeeding working day, the penal interest may be increased as provided in section 24(4)(b) for the days concerned.
+
+(iv) In terms of the provisions of Section 24 (6) (a) the penalty payable under sub Sections (4) and (5) is to be paid by the banks within a period of
+
+<!-- PAGE 17 -->
+
+thirty days from the date on which the notice is issued by the Reserve Bank.
+
+(v) Banks should invariably ensure to maintain the required SLR and submit the prescribed Return along with Appendix II (Annex 8) within the stipulated time to Regional Offices concerned. Failure to submit the Return in time will attract the provisions of section 46(4) of the Act *ibid* and the banks will be liable to imposition of penalties as indicated therein. (vi) Where it is observed that banks are persistently defaulting despite instructions and repeated advice, the Reserve Bank in addition to levy of penalty on such defaulting banks, may be constrained to consider cancelling the license in case of licensed banks and refuse license in case of unlicensed banks under section 22 of the Act, *ibid*. The banks should, therefore, in their own interest ensure maintenance of statutory liquidity ratio at prescribed rates and be very prompt in submission of Return in Form I, Form IX, Form 'B' to Regional Office concerned of Reserve Bank.
+## 5.10 Other Penal Provisions
+
+i) Apart from maintenance of CRR and SLR at the prescribed rates, banks are also required to submit relative statutory Returns well in time to the Regional Office concerned of Reserve Bank. Any violation of these statutory requirements, apart from levy of penal interest would also attract penalties under Section 46(4), read with Section 56 of the BR Act, 1949 (AACS). ii) Whenever any bank fails to maintain the requisite amount of Cash Reserve/Liquid Assets, it should explain the reasons for such default in theWithdrawn letter forwarding the Return.
+
+<!-- PAGE 18 -->
+
+## Annex - 1
+
+## Master Circular
+
+## <u>Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)</u>
+
+## <u>Computation of Demand & Time Liabilities for CRR</u>
+
+## [Applicable to Scheduled Primary (Urban) Co-operative Banks]
+
+## [Vide paragraph 3.7 (ii)]
+
+|1.|Definition of Various Terms||
+|---|---|---|
+||(Vide Explanation to Section 18(1) read with Section 56 of the Banking||
+||Regulation Act, 1949)||
+|(i)||"Average Daily Balance" It shall mean the average of the balances held at the close of business on each day of a fortnight.|
+|(ii)||"Fortnight" It shall mean the period from Saturday days inclusive.|
+|2.|'Banking System' comprises of - (i)|State Bank of India|
+|(ii) (iii) Nationalised Banks||Subsidiary banks of State Bank of India|
+|(iv)||Regional Rural Banks|
+|(v)||Banking Companies as defined in clause (c) of Section 5 of the Banking|
+
+# Withdrawn
+
+to second following Friday, both
+
+Regulation Act, 1949. These include -
+
+* Private Sector Banks
+
+<!-- PAGE 19 -->
+
+* Foreign Banks
+**[Note :** Foreign banks having no branch in India are not part of 'banking system'.] (vi) Co-operative banks as defined in clause (cci) of Section 56 of the Banking Regulation Act, 1949. **[Note :** Co-operative Land Mortgage / Development Banks are not part of 'banking system'] viii) Any other financial institution 'notified' by the Central Government in this behalf 'Banking System' does not include the following :
+
+|(i)|EXIM Bank|
+|---|---|
+|(ii)|NABARD|
+|(iii) (iv) IFCI|SIDBI|
+|(v) Liabilities do not include -|IIBI|
+|(i)|Paid-up capital|
+|(ii)|Reserves|
+|(iii)|Credit balance in Profit & Loss Account|
+
+**3.**
+# Withdrawn
+
+(iv) Loans from State Government, RBI, IDBI, EXIM Bank, NABARD, SIDBI, NHB, Reconstruction Bank, National Co-op. Development Corporation, or any advance taken from State Co-operative Bank of the State concerned or District Central Co-operative Bank of the district concerned as also any advance or credit arrangement drawn or availed of against approved securities.
+
+**4. Net Liabilities** While computing liabilities for the purpose of CRR and SLR, the net liabilities of the bank to other banks in India in the 'banking system' shall be reckoned,
+i.e., assets in India with other banks in the 'banking system' will be reduced from total liabilities to the 'banking system'.
+## 5. Liabilities to the 'Banking System' include -
+
+(i) Deposits of the banks.
+
+<!-- PAGE 20 -->
+
+(ii) Borrowings from Banks (Call Money / Notice deposits). (iii) Other miscellaneous items of liabilities to the banks like Participation Certificates issued to banks, interest accrued on bank deposits, etc.
+
+**6. Classification of Liabilities to the 'Banking System'**
+(i) Liabilities of the bank to the 'banking system' are classified into two broad categories viz. 'Demand Liabilities' and 'Time Liabilities'. (ii) Demand Liabilities' to the 'banking system' are further classified as under
+(a) Balances in current accounts maintained with UCBs, by
+* SBI
+* SBI Subsidiary Banks
+* Nationalised Banks
+(b) Other demand liabilities comprising of
+(1) Balances in current accounts maintained with UCBs by
+*Withdrawn RRB
+* Banking Companies i.e. Private Sector Banks & Foreign Banks * Co-operative Banks * Other 'Notified' financial institutions
+(2) Balances of overdue time deposits of above named banks.
+(3) Participation Certificates payable on Demand issued to banks.
+(4) Interest accrued on deposits of banks (RRBs).*
+(5) Call Money Borrowings from the banks.
+
+<!-- PAGE 21 -->
+
+## Within the definition of 'banking system
+
+(iii) Time liabilities to the 'banking system' include
+
+(a) All types of time deposits from the banks
+(b) Certificates of deposits from the banks
+(c) Participation Certificates issued to banks which are not payable on demand
+(d) Interest accrued on time deposits / CDs of banks*
+## Within the definition of 'banking system'
+
+* If it is not possible to classify / segregate this amount from interest accrued on deposits, the aggregate interest accrued may be shown under 'Other Demand and Time Liabilities'.
+## 7. Assets with the 'Banking System'
+
+(i) Balances with 'banking system' in current accounts - (ii) Balances with the banks and notified financial institutions, within banking systems, in other accounts.
+# Withdrawn
+
+(iii) Money at call and short notice upto 14 days lent to banks and notified financial institutions, within the banking system (iv) Loans, other than money at call and short notice, made available to the 'banking system'.
+
+(v) Any other amounts due from the 'banking system', like amount held by the bank with other banks (in transit or other accounts) under inter-bank remittance facility, etc.
+**8.** (i) Lending by the banks to the following financial institutions in the term
+money market cannot be reckoned as assets with the 'Banking System'. Hence, these borrowings should not be netted against the liabilities towards the 'Banking System'.
+
+* EXIM Bank
+* NABARD
+
+<!-- PAGE 22 -->
+
+* IFCI
+* IIBI
+* SIDBI
+(ii) The borrowing of the bank other than refinance from these financial institutions should form part of liabilities to others and therefore, form part of net demand and time liabilities for the purpose of reserve requirements.
+
+## 9. Classification of Certain items under Liabilities
+
+(i) **Inter-Branch Accounts**
+(a) Net balance in inter-branch account, when in credit, is to be shown under 'Other Liabilities and Provisions' which is included in total Demand and Time Liabilities for CRR and SLR purpose.
+(b) After 27.07.98, the bank should segregate the credit entries
+outstanding for more than five years in inter-branch account as 'Blocked Account' and show it under 'Others' under 'Other Liabilities and Provisions'. Thereafter, while arriving at net amount of inter- branch transactions for inclusion under 'Other Liabilities and Provisions' if in credit, or 'Other Assets' if in debit, the aggregate amount of 'Blocked Account' should be excluded and only the amount representing the remaining
+
+# Withdrawn
+
+credit entries should be netted against debit entries. Thus, the balance in the 'Blocked Account' will be reckoned for the purpose of maintenance of CRR and SLR, even though the net of inter-branch entries is a debit balance.
+
+(ii) **Margin Money on Bills Discounted / Purchased**
+
+The bank should follow uniform procedure in treating margin money on bills purchased / discounted as outside liabilities and should include it in other demand and time liabilities for the purpose of maintenance of reserve requirements.
+
+## (iii) Interest Accrued on Deposits
+
+(a) The interest accrued on all deposit accounts (such as, savings, fixed,
+recurring, cash certificates, reinvestment plans, etc.), by whatever name called, should be treated by the bank as its liability for the purpose of maintaining CRR and SLR irrespective of whether the accrued interest has become actually payable or is not payable till
+
+<!-- PAGE 23 -->
+
+due dates for repayment of deposits.
+
+(b) The interest accrued on deposits should be classified under 'Other
+Demand and Time Liabilities' in the Form I & VIII.
+
+**10. Amount not to be treated as Outside Liabilities for CRR and SLR**
+(i) Claim amounts received from the DICGC in respect of guarantees
+invoked, pending their adjustment towards the relative advances. (ii) Amounts received from the Court Receiver.
+
+(iii) Amounts received from Insurance Company on ad-hoc settlement of claims pending the judgement of the Court. (iv) Amounts received from ECGC on invocation of guarantees, pending their setoff against the relative advances.
+
+---------------------------------------
+
+# Withdrawn
+
+<!-- PAGE 24 -->
+
+# Annex - 2
+
+# Master Circular
+
+# <u>Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)</u> Form 'B'
+
+**[To be submitted by a Scheduled Bank which is a State Co-op. Bank] # [Vide paragraph 3.14]**
+
+## Statement of Position as at the Close of Business on Friday @ the _________
+
+## (Rupees Rounded off to the nearest Thousand)
+
+## Name of the Bank :
+
+**I. Liabilities to the Banking System in India** Withdrawn *
+(a) Demand and time deposits from banks*
+(i) Demand (ii) Time
+(b) Borrowings from banks *
+(c) Other demand and time liabilities @@ **Total of I**
+## II. Liabilities to Others in India
+
+(a) Aggregate deposits (other than from banks* and also other than any deposit of money representing the reserve fund or any part thereof maintained by any co- operative society within the State Co-operative bank's
+
+<!-- PAGE 25 -->
+
+area of operation)
+
+(i) Demand (ii) Time
+(b) Borrowings (other than Reserve Bank of India, Industrial Development Bank of India, National Bank for Agriculture and Rural Development, Export-Import Bank of India, the State Government and the National Co- operative Development Corporation, State Co-operative Bank of the State concerned or the Central Co- operative Bank of the District concerned)
+(c) Other demand and time liabilities **Total of II**
+## Total of I + II
+
+**III**. **Assets with the Banking System in India***
+
+(a) Balance with banks*
+(i) in current account (ii) in other accounts
+(b) Money at call and short notice
+(c) Advances to banks* i.e. due from banks*Withdrawn
+(d) Other assets **Total of III**
+**IV. Cash in India** (i.e. cash in hand)
+
+**V. Investments in India** (at book value)
+(a) Central and State Government securities including treasury bills, treasury deposit receipts, treasury savings deposit certificates and postal obligations
+(b) Other approved securities **Total of V**
+**VI. Bank Credit in India** (excluding inter-bank advances)
+
+<!-- PAGE 26 -->
+
+(a) Loans, cash credits and overdrafts
+(b) Inland bills purchased and discounted
+(i) Bills purchased (ii) Bills discounted
+(c) Foreign bills purchased and discounted
+(i) Bills purchased (ii) Bills discounted
+## Total of VI
+
+## Total of III + IV + V + VI
+
+A. Net Liabilities for the purpose of Section 42 of (I-III) + II, if (I-III) is a plus Reserve Bank of India Act, 1934 = Net Liability to the figure or II only, if Banking System + Liability to Others in India (I-IIII) is a minus figure
+B. Amount of minimum deposit required to be kept with = Rs. the Reserve Bank of India under the Act (rounded off to the nearest rupee)
+C. Savings Bank Account (vide Regulation 7)
+# Withdrawn
+
+Demand liabilities in India Time liabilities in India
+
+Sd/- Signature of Officers
+
+1. (Designation) ________________
+2. (Designation) ________________
+## Station :
+
+<!-- PAGE 27 -->
+
+## Date :
+
+1. **Borrowings in India from the Reserve Bank of India under the Reserve Bank of** **India Act, 1934** **Section :**
+(i) 17(2)(a) (ii) 17(2)(b) or (4)(c) (iii) 17(2)(bb) or (4)(c) (iv) 17(4)(c)
+(v) 17(4)(a)
+## Total of item (1)
+
+2. Borrowings from
+(i) National Bank under the National Bank for Agriculture and Rural Development Withdrawn Act, 1981 under Section :
+(a) 21
+(b) 22
+(c) 23
+(d) 24
+(e) 25 (ii) State Bank of India (iii) Other banks (iv) Industrial Development Bank of India
+
+<!-- PAGE 28 -->
+
+(v) State Government
+
+|(vi)|National Co-operative Development Corporation|
+|---|---|
+|(vii)|Export-Import Bank of India|
+|(viii)|State Co-operative Bank of the State concerned|
+|(ix) Total of item (2) Balance with the Reserve Bank of India|District Central Co-operative Bank of the District concerned|
+
+**3.**
+# Withdrawn
+
+<!-- PAGE 29 -->
+
+## Footnotes
+
+# Scheduled primary (urban) co-operative banks are also required to submit the statement in the same format.
+
+@ Where Friday is a public holiday under the Negotiable Instruments Act, 1881 (26 of
+
+1881) for one or more offices of a scheduled State Co-operative bank, the Return shall give the preceding working day's figures in respect of such office or offices, but shall nevertheless be deemed to relate to that Friday.
+* The expression "Banking System" or "Banks" wherever it appears in the return means the banks and any other financial institutions referred to in regulations (i) to
+(v) of clause (e) of the Explanation below Section 42(1) of the Reserve Bank of India Act, 1934.
+@@ If it is not possible to provide the figure against I(c) separately from II(c), the same may be included in the figure against II(c). In such a case, the net liability to the banking system will be worked out as the excess, if any, of the aggregate of I(a) and I(b) over the aggregate of III.
+
+---------------------------------------
+
+# Withdrawn
+
+<!-- PAGE 30 -->
+
+**Annex – 3**
+
+## Master Circular
+
+## <u>Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)</u>
+
+## Computation of Demand & Time Liabilities for CRR & SLR
+
+**[Applicable to Non-Scheduled Primary (Urban) Co-operative Banks for CRR and all Primary (Urban) Co-operative Banks for SLR purposes]** **[Vide paragraph 4.1]**
+
+**1.Definition of Various Terms** (Vide Explanation to Section 18(1) read with Section 56 of the Banking Regulation Act, 1949)
+(i)**"Average Daily Balance"**
+(a)It shall mean the average of the balances held at the close of business on
+each day of a fortnight. (ii)**"Fortnight"**
+
+(b)It shall mean the period from Saturday to second following Friday, both
+days inclusive.
+
+# Withdrawn
+
+**2.'Banking System' comprises of -**
+(i)State Bank of India (ii)Subsidiary banks of State Bank of India (iii)Nationalised Banks (iv)Regional Rural Banks
+(v)Banking Companies as defined in clause (c) of Section 5 of the Banking
+Regulation Act, 1949. These include -
+
+* Private Sector Banks
+* Foreign Banks
+**Note :** Foreign banks having no branch in India are not part of 'banking system'. (vi)Any other financial institution 'notified' by the Central Government in this behalf.
+
+**3.'Banking System' does not include the following *-***
+
+<!-- PAGE 31 -->
+
+(i)EXIM Bank (ii)NABARD (iii)SIDBI (iv)IFCI
+(v)IIBI
+## 4.Liabilities do not include -
+
+(i)Paid-up capital (ii)Reserves (iii)Credit balance in Profit &Loss Account (iv)Loans from RBI, EXIM Bank, NABARD, SIDBI, NHB, IIBI.
+## 5.Net Liabilities
+
+# While computing liabilities for the purpose of CRR and SLR, the net liabilities of
+
+# the bank to other banks in India in the 'banking system' shall be reckoned, i.e.,
+
+assets in India with other banks in the 'banking system' will be reduced from total liabilities to the 'banking system'.
+
+## 6.Liabilities to the 'Banking System' include -
+
+(i)Deposits of the banks. (ii)Borrowings from Banks (Call Money / Notice deposits). (iii)Other miscellaneous items of liabilities to the Banks like Participation
+# Certificates issued to banks, inteWithdrawnrest accrued on bank deposits, etc.
+
+## 7.Classification of Liabilities to the 'Banking System'
+
+(i)Liabilities of the bank to the 'banking system' are classified into two broad
+# categories viz. 'Demand Liabilities' and 'Time Liabilities'.
+
+(ii)'Demand Liabilities' to the 'banking system' are further classified as under :
+
+(a)Balances in current accounts of *-*
+* SBI * SBI Subsidiary Banks
+* Nationalised Banks
+(b)Other demand liabilities comprising of -
+(1)Balances in current accounts of -
+* RRB * Banking Companies i.e. Private Sector Banks and Foreign
+
+<!-- PAGE 32 -->
+
+Banks
+
+* Other 'Notified' financial institutions
+(2)Balances of overdue time deposits of above named banks.
+(3)Participation Certificates payable on demand issued to banks.
+(4)Interest accrued on deposits of banks (RRBs).*
+(5)Call Money Borrowings from the banks.
+Within the definition of 'banking system' iii)Time liabilities to the 'banking system' include *-*
+
+(a)All types of time deposits from the banks
+(b)Certificates of deposits from the banks
+(c)Participation Certificates issued to banks which are not payable on
+demand
+
+(d)Interest accrued on time deposits / CDs of banks *
+Within the definition of 'banking system'
+
+* If it is not possible to classify / segregate this amount from interest accrued on deposits, the aggregate interest accrued may be showWithdrawnn under 'Other Demand and Time Liabilities' in Form I & VIII.
+**8.Assets with the 'Banking System'**
+(i)Balances with 'banking system' in current accounts -
+* SBI
+* SBI subsidiaries
+* Nationalised banks
+* Banking Companies i.e. Private Sector Banks and Foreign Banks
+* Other Notified Financial Institutions
+(ii)Balances with above referred banks and notified financial institutions in other accounts.
+
+<!-- PAGE 33 -->
+
+(iii)Money at call and short notice upto 14 days lent to the above referred banks and notified financial institutions. (iv)Loans other than money at call and short notice made available to the 'banking system'.
+
+(v)Any other amounts due from the 'banking system', like amount held by the
+bank with other banks (in transit or other accounts) under inter-bank remittance facility, etc.
+
+**9.** (i)Lending by the bank to the following financial institutions in the term money
+market cannot be reckoned as assets with the 'Banking System'. Hence, these borrowings cannot be netted against the liabilities towards the 'Banking System'.
+
+* EXIM Bank
+* NABARD
+* SIDBI
+* IFCI
+* IIBI
+(ii)The borrowing of the bank other than refinance from these financial institutions should form part of liabilities to others and therefore, form part of net demand and time liabilities for the purpose of reserve requirements.
+
+**10.**Deposits kept with SIDBI / NABARD for shortfalls in attaining priority sector
+# Withdrawn
+
+targets should not be shown as assets with Banking System and such deposits cannot be netted in arriving at net DTL for the purpose of CRR and SLR requirements. The amount kept with SIDBI / NABARD may be shown by way of a footnote in Form I and Form VIII with an explanatory note.
+
+**11.Classification of Certain items under Liabilities**
+**(i)Inter-Branch Accounts**
+(a)Net balance in inter-branch account, when in credit, is to be shown under
+'Other Liabilities and Provisions' which is included in total Demand and Time Liabilities for CRR and SLR purpose.
+
+(b)After 27.07.98, the bank should segregate the credit entries outstanding
+for more than five years in inter-branch account as 'Blocked Account' and show it under 'Others' under 'Other Liabilities and Provisions'. Thereafter, while arriving at net amount of inter-branch transactions for inclusion under 'Other Liabilities and Provisions' if in credit, or 'Other Assets' if in debit, the aggregate amount of 'Blocked Account' should be excluded and only the amount representing the remaining credit entries should be
+
+<!-- PAGE 34 -->
+
+netted against debit entries. Thus, the balance in the 'Blocked Account' will be reckoned for the purpose of maintenance of CRR and SLR, even though the net of inter-branch entries is a debit balance. **(ii)Margin Money on Bills Discounted / Purchased**
+
+The bank should follow uniform procedure in treating margin money on bills purchased/discounted as outside liabilities and should include it in other demand and time liabilities for the purpose of maintenance of reserve requirements. **(iii)Interest Accrued on Deposits**
+
+a)The interest accrued on all deposit accounts (such as, savings, fixed,
+recurring, cash certificates, reinvestment plans, etc.), by whatever name called, should be treated by the bank as its liability for the purpose of maintaining CRR and SLR irrespective of whether the accrued interest has become actually payable or is not payable till due dates for repayment of deposits.
+
+b)The interest accrued on deposits should be classified under 'Other
+Demand and Time Liabilities' in the Form I & VIII.
+
+**12.Amount not to be treated as Outside Liabilities for CRR and SLR**
+(i)Claim amounts received from the DICGC in respect of guarantees invoked,
+pending their adjustment towards the relative advances. (ii)Amounts received from the Court Receiver.
+
+# Withdrawn
+
+(iii)Amounts received from Insurance Company on ad-hoc settlement of claims pending the judgement of the Court. (iv)Amounts received from ECGC on invocation of guarantees, pending their set off against the relative advances.
+
+---------------------------------------
+
+<!-- PAGE 35 -->
+
+## Annex – 4
+
+## Master Circular
+
+|||Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR) The Banking Regulation Act, 1949 Form-I (See Rule 5) [Sections 18(1) and 24(3)] [Vide paragraph 4.2, 5.2 &, 5.9] Name of the Co-operative Bank : Name(s) and Designation(s) of the Officer(s) submitted the Return : Statement of Demand and Time liabilities in India and Amount maintained in India in Cash, Gold and unencumbered Securities for the Month of ___________ Withdrawn The amounts of various items in this return should be worked out after taking into account, where necessary, the adjustments indicated in the footnotes at the end of the return.||||
+|---|---|---|---|---|---|
+||||(Rounded off to the nearest Thousand Rupees) First Friday (Date)|As at the close of Business on Second Alternate Alternate Alternate Friday (Date)|Third Friday (Date)|
+|||1|2 3 4|||
+|Part-A||||||
+|I.||Liabilities in India(£) to the banking system $ (a) Demand liabilities||||
+
+<!-- PAGE 36 -->
+
+||||(i) Total of credit balances in current accounts maintained with the Co-operative Bank by the State Bank of India, subsidiary banks and corresponding new banks||||
+|---|---|---|---|---|---|---|
+|||Total of I|(ii) Total of other demand liabilities to the banking system (b) Time liabilities to the banking system$||||
+|II.||Total of II|Liabilities in India to others X (a) Demand liabilities (b) Time liabilities||||
+|III.||viz., assets.|Assets in India with the banking system (a) Total of credit balances (%) in current accounts maintained with State Bank of India, subsidiary banks and corresponding new banks. (b) Total of other assets with the banking system, (i) balances in all accounts other than those included in item III(a), (ii) money at call and Withdrawn short notice, (iii) advances, and (iv) any other||||
+|IV.|||Total (net) demand and time liabilities for the purposes of Sections 18 and 24 of the Act = (I-III) + II, if (I-III) is a plus figure, OR II only, if (I-III) is a minus figure||||
+|V.|||Cash in hand (&)||||
+|VI.||(+) Total of VI|Balances in current accounts with (a) Reserve Bank of India++ (b) State Co-operative Bank of the State concerned (c) Central Co-operative Bank of the district concerned (%)||||
+
+<!-- PAGE 37 -->
+
+|||VII Balances with all other types with||||
+|---|---|---|---|---|---|
+|||(a) State Co-operative Bank of the State (b) District Central Co-operative Bank Total of VII VIII Net balance in current accounts, i.e., excess of III(a) over I(a)(i)||||
+|Part-B||Compliance with Section 18 (Not applicable to scheduled State Co-operative Banks)||Information need not be furnished||
+|IX.||3 per cent of IV as on the last Friday of the second preceding fortnight|}}}}}}|||
+|X.|Part-C :|Cash reserve actually maintained = V + VI + VIII Compliance with Section 24 : (Not applicable to scheduled State Co-operative Banks)|} }}|||
+|XI.||25 per cent (or a higher specified percentage) of IV as on the last Friday of the second preceding fortnight Withdrawn|}}}|||
+|XII.||Assets actually maintained (a) Cash and other balances maintained in India X- IX + VII (b) Gold ££ (c) Unencumbered approved securities $$ Total of XII|} }}} }}|||
+|Part -D :||Compliance with Section 24 : (Applicable to Scheduled / State Co-operative Banks) XIII 25 per cent (or a higher specified percentage) of IV as on the last Friday of the second preceding fortnight XIV Assets actually maintained||||
+
+<!-- PAGE 38 -->
+
+||||(a) Cash in hand||||
+|---|---|---|---|---|---|---|
+|||(d) Gold ££ (i) (ii)|(b) Balance maintained with the Reserve Bank of India in excess of the balance required to be maintained under Section 42 of the Section of India Act, 1934 [i.e., VI(a)] (c) Net balance in current accounts (i.e., VIII) (e) Unencumbered approved securities $$ (f) Balances of all other types with : State Co-op. Bank of the State concerned (+) Central Co-op. Bank of the district concerned (X)||||
+
+Sd/-
+
+Signature
+
+Date :
+
+# Withdrawn
+
+## Footnotes
+
+1. Return in this Form is to be submitted to the Reserve Bank of India under Section 24 of the banking Regulation Act, 1949 (As application to co- operative societies) by scheduled State Co-operative Banks and Sections 18 and 24 of the Act ibid. by the other "Co-operative Banks" not later than 15 days after the end of the months to which it relates.
+2. If an alternate Friday is a holiday under the Negotiable Instruments Act, 1881 (26 of 1881), the figures as at the close of business on the preceding working day should be furnished. £. For the purposes of this return, "Liabilities in India" shall not include.
+(i) The paid-up capital or the reserves or any credit balance in the profit and loss account of the Co-operative Bank - (ii) In the case of a State Co-operative Bank or a Central Co-operative Bank, any deposit of money with it, representing the reserve fund or any part
+
+<!-- PAGE 39 -->
+
+thereof maintained with it, by any other Co-operative Society within its area of operation;
+
+(iii) in the case of a Central Co-operative Bank, any advance taken from the State co-operative bank of the State concerned;
+
+(iv) Any advance taken by a primary Co-operative Bank from the State Cooperative Bank of the State concerned or the Central Co-operative Bank of the district concerned;
+
+(v) Amount of, any advance or other credit arrangement drawn and availed of by a Co-operative Bank against approved securities; (vi) In the case of any Co-operative Bank which has granted an advance against any balance maintained with it, such balance to the extent of the amount outstanding in respect of such advance.
+$ For the purpose of this return, the expression "Banking system" shall comprise the following banks and financial institutions, viz.
+
+(i) State Bank of India (ii) Subsidiary banks; (iii) Corresponding new banks; (iv) Regional Rural Banks
+(v) Banking companies; (vi) Other financial institutionsWithdrawn, if any, notified by the Central Government in this behalf under clause (d) of the Explanation to sub-section (1) of Section 18 of the Banking Regulation Act, 1949 (As applicable to co- operative societies).
+X. For the purpose of this return, "liabilities in India to others" shall not include borrowings from a State Government, the Reserve Bank, Industrial Development Bank of India, Export-Import Bank of India, National Bank for Agriculture and Rural Development, or from the National Co-operative Development Corporation established under Section 3 of the National Co- operative Development Act, 1962. % (i) Any balance held by Co-operative Bank with another bank shall not, to the extent such balance represents the investment of Agricultural Credit Stabilisation Fund of such Co-operative Bank, be deemed to be cash maintained in India. (ii) In case the co-operative bank has taken an advance against any balance maintained with the State Co-operative bank of the State concerned or with the Central Co-operative Bank of the district concerned, such balance to the extent to which it has been drawn against or availed of shall not be deemed to be such cash maintained in India.
+
+<!-- PAGE 40 -->
+
+& (i) For the purpose of this return, any cash with a Co-operative Bank shall not, to the extent such cash represents the balance in Agricultural Credit Stabilisation Fund of such Co-operative Bank, be deemed to be cash maintained in India.
+
+(ii) Cash must not include balance with other banks or any item other than bank / currency notes, rupee coin (including one rupee notes) and subsidiary coins current on the date of this return.
+
+++ Scheduled State Co-operative Banks should show here only the amount in excess of the balance required to be maintained with the Reserve Bank of India under Section 42 of the Reserve Bank of India Act, 1934.
+
++ Applicable to State industrial Co-operative Banks, central Co-operative Bank, district industrial Co-operative Banks and primary Co-operative Banks only.
+
+x Applicable to primary Co-operative Banks only.
+
+$$ (i) Valued on the basis of the method of valuation determined by the Reserve Bank.
+
+(ii) Approved securities, or a portion thereof, representing investment of monies of Agricultural Credit Stabilisation Fund of a Co-operative Bank, shall not be deemed to be unencumbered approved securities.
+
+££ Valued at a price not exceeding the current market price.]
+
+---------------------------------------
+
+# Withdrawn
+
+<!-- PAGE 41 -->
+
+## Annex – 5
+
+## Master Circular
+
+## <u>Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)</u>
+
+**Monthly statement showing the daily position of maintenance of** **Cash Reserve under Section 18 of the Banking Regulation Act, 1949** **(As applicable to Co-operative Societies) during the Month of _________**
+
+[Applicable to Non-Scheduled Primary (Urban) Co-operative Banks] [Vide paragraph 4.3]
+
+## Name of the Bank :
+
+(Rupees rounded off to the nearest Thousand) <u>Amount of Cash Reserve</u> **Required to** **Date Deficit Surplus Remarks** **Actually** Withdrawn **be maintained** <u>maintained</u>
+
+1 2 3 4 5 6 7 1 2 3 4 5 6 7 8 9
+
+<!-- PAGE 42 -->
+
+11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29<u>Withdrawn</u> 30 <u>31</u>
+
+Signature of CEO : Name : Designation :
+
+**NB :** Where there is a public holiday under Negotiable Instruments Act, 1881 (26 of 1881), figures in respect of such day should relate to the preceding working day.
+
+<!-- PAGE 43 -->
+
+## Annex – 6
+
+## Master Circular
+
+## Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)
+
+## Statement of Valuation of SLR Securities
+
+(Fortnight ended Friday ________) [Vide paragraph 5.7]
+
+## Name of the Bank :___________________________________________________________
+
+||||(Rs. in Lakhs up to two Decimals)||
+|---|---|---|---|---|
+|Particulars|Face Value Value||Book Depreciation Held|Net Value for SLR Purpose (2- 3)|
+|Part I|1. 2.||3.|4.|
+|Government Securities|||||
+|Opening Balance|||||
+|Addition during the fortnight (+)|||||
+|Deduction during the fortnight (-)|||||
+|Closing Balance (a) Withdrawn|||||
+|Part II|||||
+|Other Approved Securities|||||
+|Opening Balance|||||
+|Addition during the fortnight (+)|||||
+|Deduction during the fortnight (-)|||||
+|Closing balance (b)|||||
+|Total (a+b)|||||
+
+---------------------------------------
+
+<!-- PAGE 44 -->
+
+**Annex – 7** **Master Circular** <u>Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)</u>
+
+**(Appendix-II)**
+
+**Monthly statement showing the daily position of maintenance of liquid assets under Section 24 of the Banking Regulation Act, 1949**
+
+**(As applicable to Co-operative Societies) during the month of __________**
+
+**[Applicable to all Primary (Urban) Co-operative Banks (Scheduled and Non-** **Scheduled)]**
+
+**[Vide paragraph 5.7]**
+
+## Name of the Bank :
+
+(Rupees rounded off to the nearest Thousand) <u>Amount of Liquid Assets</u> **Required to**Withdrawn**Deficit** **Date Surplus Remarks** **Actually be maintained** <u>maintained</u> 1 2 3 4 5 6 7 1 2 3 4 5 6 7 8 9 10
+
+<!-- PAGE 45 -->
+
+12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 <u>31</u>
+
+# Withdrawn
+
+Signature of CEO :
+
+## Name :
+
+## Designation :
+
+**NB :** Where there is a public holiday under Negotiable Instruments Act, 1881 (26 of 1881), figures in respect of such day should relate to the preceding working day.
+
+---------------------------------------
+
+<!-- PAGE 46 -->
+
+### Annex – 8 Master Circular
+
+### Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)
+
+**Register showing the daily position of cash reserve and liquid assets maintained under Sections 18 and 24 respectively**
+
+## of the Banking Regulation Act, 1949 (As applicable to Co-operative Societies)
+
+**Part-A**
+
+system
+
+(a) Demand liabilities
+(i) Total of credit balances in current accounts maintained with the Co- operative Bank by the State Bank of India, subsidiary banks and corresponding new banks (ii) Total of other demand liabilities to the banking system
+(b) Time liabilities to the banking system Total of I
+II. Liabilities in India £, X to others
+
+(a) Demand liabilities
+(b) Time liabilities Total of II
+III. Assets in India with the banking system
+
+(a) Total of credit balances % in current accounts maintained
+## (For Primary Co-operative Banks) [Vide paragraph 2.2]
+
+(Rounded off to the nearest Thousand) **Month and Year** **1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31**
+
+# Withdrawn
+
+I. Liabilities in India £$ to the banking
+
+<!-- PAGE 47 -->
+
+with State Bank of India, subsidiary banks and corresponding new banks.
+
+(b) Total of other assets with the banking system, viz., (i) balances in all accounts other than those included in item III*(a),* (ii) money at call and short notice, (iii) advances, and (iv) any other assets.
+IV. Total (net) demand and time liabilities for the purposes of Sections 18 and 24 of the Act = (I- III) + II, if (I-III) is a plus figure, OR II only, if (I-III) is a minus figure
+
+V. Cash in hand VI. Balances in current accounts with
+(a) Reserve Bank of India ++
+(b) State Co-operative Bank of the State concerned *+%
+(c) Central Co-operative Bank of the district concerned *% Total of VI
+VII. Balances of all other types with
+
+(a) State Co-operative Bank of the State concerned *+%
+(b) Central Co-operative Bank of the district concerned *+% Total of VII
+VIII. Net balance in current accounts, *i.e.,* excess of III*(a)* over I(a)(i) **Part-B**
+
+Withdrawn
+
+Compliance with Section 18 (Not applicable to Scheduled State Co- operative Banks) of the second preceding fortnight
+
+X. Cash reserve actually maintained = V + VI + VIII **Part-C** Compliance with Section 24: (Not applicable to scheduled State Co- operative Banks) IX. 3 per cent of IV as on the last Friday
+
+<!-- PAGE 48 -->
+
+XI. 25 per cent (or a higher specified percentage) of IV as on the last Friday of the second preceding fortnight XII. Assets actually maintained
+
+(a) Cash and other balances maintained in India X-IX + VII
+(b) Gold ££
+(c) Unencumbered approved securities $$ Total of XII
+**Part-D**
+
+Compliance with Section 24: (Applicable to Scheduled / State Co- operative Banks) XIII 25 per cent (or a higher specified percentage) of IV as on the last Friday of the second preceding fortnight XIV Assets actually maintained
+
+(a) Cash in hand
+(b) Balance maintained with the Reserve Bank of India in excess of the balance required to be maintained under Section
+# 42 of the Section of India Act,
+
+1934 [i.e., VI(a)] Withdrawn
+
+(c) Net balance in current accounts (i.e., VIII)
+(d) Gold ££
+(e) Unencumbered approved securities $$ Total of XIV
+# ---------------------------------------
+
+<!-- PAGE 49 -->
+
+## Annex – 9
+
+## Master Circular
+
+## Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)
+
+**Explanations for Compilation of the figures under various heads of the Register showing Daily Position of Cash Reserve and**
+
+## <u>Liquid Assets maintained by Primary Co-operative Banks</u>
+
+## [Vide paragraph 2.4]
+
+## 1. "Liabilities in India" shall not include -
+
+(i) the paid-up capital or reserves or, any credit balance in the profit and loss
+account of the co-operative bank;
+
+(ii) any advances taken by a primary co-operative bank from the State Cooperative Bank of the State concerned or the central co-operative bank of the district concerned;
+
+(iii) any advance taken from a State Government, Reserve Bank, Industrial Development Bank of India, Export-Import Bank of India, National Bank for Agriculture and Rural Development, or from the National Co-op. Development Corporation established under Section 3 of the National Cooperative Development Corporation Act, 1962.
+
+# Withdrawn
+
+(iv) amount of any advance or other credit arrangement drawn and availed of by a co-operative bank against approved securities;
+
+(v) in the case of any co-op. bank which has granted an advance against any
+balance maintained with it, such balance to the extent of the amount outstanding in respect of such advance.
+
+## 2. The expression 'Banking System' shall comprise the following banks and financial institutions, viz.
+
+(i)
+State Bank of India;
+
+(ii) Subsidiary banks;
+
+(iii) Corresponding new banks;
+
+(iv) Regional Rural banks;
+
+<!-- PAGE 50 -->
+
+(v)
+Banking Companies;
+
+Other financial institutions, if any, notified by the Central Government in this (vi) behalf under clause (d) of the Explanation to subsection (1) of Section 18 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies).
+
+3. Time liabilities include fixed deposits, cash certificates, cumulative and recurring deposits, time liabilities portion of savings bank. deposits, staff security deposits, margins hold against letters of credit if not payable on demand and fixed deposits held as security for advances subject to item l(v) above.
+4. Fixed deposits will include (i) employees' provident fund deposits, (ii) staff security deposits, (iii) recurring deposits, (iv) cash certificates, (v) call deposits requiring notice period of more than 14 days, (vi) provident deposits, (vii) other miscellaneous deposits like earnest money deposits of contractors etc.
+5. Demand liabilities include current deposits, demand liabilities portion of savings bank deposits, margins held, against letters of credit / guarantees, balances in overdues fixed deposits, cash certificates and cumulative, / recurring deposits, outstanding telegraphic and mail transfers, demand drafts, unclaimed deposits, credit balances in the cash credit accounts and deposits held as security for advances which are payable on demand.
+6. Current deposits will include (i) call deposit which require a notice period of 14 days or less (ii) credit balance in cash credit account, (iii) fixed deposits matured but. not withdrawn etc.
+7. "Net balance in current accounts" shall, in relation to a co-op. bank, mean the excess, if any, of the aggregate of the credit balances in current account maintained by that co-op. bank with the St Withdrawn ate Bank of India or a subsidiary bank or a corresponding new bank over the aggregate of the credit balances in current accounts held by the said banks with such co-op bank;
+8. For the purpose of computation of liabilities, the aggregate of the liabilities of a co-op. bank to the State Bank of India, a subsidiary bank, a corresponding new bank, a Regional Rural bank, a banking company or any other financial institution notified by the Central Government in this behalf shall be reduced by the aggregate of the liabilities of all such banks and institutions to the co-op. bank;
+9. Other demand and time liabilities include interest accrued on deposits, bills payable, unpaid dividends and suspense account balances representing amounts due to other banks or public.
+10. Money at call and short notice obtained from outside the 'Banking System' (say from Life Insurance Corporation, Unit Trust of India, etc.) should be shown against Item No. II.
+11. If a bank cannot segregate from the total of 'other demand liabilities' and 'time liabilities', the liabilities to the 'Banking System', the entire 'other demand liabilities' and 'time liabilities' may be shown against Item viz., Liabilities in India to
+
+<!-- PAGE 51 -->
+
+others -
+
+(i)
+demand liabilities, and
+
+(ii) time liabilities as the case may be.
+
+12. Only demand and time borrowings other than those excluded under clause (a) (ii) and (iii) of the explanation to Section 18(l) of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) should be shown against this item.
+13. 'Other demand liabilities' and 'other time liabilities ' as the case may be, will include deposits unclaimed for more than ten years, provisions in the nature of outside liabilities (such as provision for income tax and other taxes payable, audit fees payable, establishment charges payable etc.), interest payable, bonus payable, bills payable, dividend payable, share suspense, other suspense and sundry, items (which are outside liabilities) etc.
+14. In case the co-op. bank has taken an advance against any balance maintained with the State Co-operative Bank of the State concerned or with the central cooperative bank of the district concerned, such balance to the extent to which it has been drawn against or availed of shall not be deemed to be cash maintained in India.
+15. In computing the amount for the purpose the following shall be deemed to be cash maintained in India, namely;
+(i) any cash or balances maintained in India by a co-operative bank, with itself
+or with the State Co-operative Bank of the State concerned, or in current account with the Reserve Bank or by way of net balance in current accounts, and, in the case of a
+
+# Withdrawn
+
+primary co-operative bank, also any balances maintained with the central co- operative bank of the district concerned, in excess of the aggregate of the cash or balances required to be maintained under Section 18;
+
+(ii) any net balance in current account.
+
+## 16. Assets with the 'Banking System' in India comprise;
+
+(i) Balances with the 'Banking System' in current accounts (a) with public
+sector banks and (b) with all other banks and notified financial institutions;
+
+(ii) Balances with banks and notified financial institutions, in all other accounts,
+
+(iii) Funds made available to the 'Banking System' by way of loans or deposits repayable at call or short notice of a fortnight or less;
+
+(iv) Loans, other than 'Money at call and short notice' made available to the 'banking system'; and
+
+<!-- PAGE 52 -->
+
+(v) Any other amounts due from the 'Banking System' which cannot be
+classified under any of the above items, for example in the case of inter bank remittance facility scheme, as on date, the total amount held by a bank with other banks (in transit or other account) would be shown here as such sums cannot be constructed as 'balances' or 'call; money' or 'advances'.
+
+(vi) In this context, it may be clarified, that if a bank has lodged securities with another bank for borrowal arrangements, then such securities or the unencumbered position of the same should not be shown by the borrowing bank as 'assets' with 'Banking System'. Similarly, the bank which has received the securities should not show them as 'other liabilities', to the 'Banking System'.
+
+(vii) Currency and rupee notes and coins held as till money should be shown as cash in India (i.e. cash in hand). However, currencies of foreign countries held with a bank should not be included.
+
+17. Cash must not include balances with other banks or any item other than bank / currency notes, rupee coin (including one rupee notes) and subsidiary coins current on the date of the posting of the register.
+18. Unencumbered approved securities to be valued on the basis of the method of valuation determined by the Reserve Bank (at present being valued at a price not exceeding current market price).
+19. "unencumbered approved securities" of a co-op. bank shall include its approved securities lodged with another institution for an advance or any other credit arrangement to the extent to which such securities have not been drawn against or availed of.
+20. Gold to be valued at a price not
+# Withdrawn
+
+exceeding the current market price.
+
+<!-- PAGE 53 -->
+
+## Appendix
+
+## Master Circular
+
+## Cash Reserve Ratio (CRR) & Statutory Liquidity Ratio (SLR)
+
+## List of circulars consolidated in the master circular
+
+|No.|Circular No.|Date|Subject|
+|---|---|---|---|
+|1|UBD. (PCB). No. 3/ 12.03.000 /2009-10||21.04.2010 Section 42 (1) of Reserve Bank of India Act, 1934 – Maintenance of Cash Reserve Ratio|
+||||(CRR)|
+|2|UBD.(PCB).No.2/12.03.000/2009-10||01.02.2010 UCBs- Section 42 (1) of Reserve Bank of India Act, 1934 – Maintenance of Cash Reserve Ratio (CRR)|
+|3 4 5 6 7 8 9|UBD.(PCB).Cir.No.1/12.03.003/ UBD.BPD(PCB)Cir.No.9/12.03.000/2008-09 UBD.BPD(PCB)Cir No.8/12.03.000/2008-09 UBD.BPD(PCB)Cir No.7/12.03.000/2008-09|UBD.BPD(PCB)Cir No.41/12.05. 001 /2008-09 29.01.2009 Balances with IDBI Bank Ltd- treatment for UBD.BPD(PCB)Cir No.37/16. 26. 000/ 2008-09 21.01.2009 Investments in Govt and other approved UBD.BPD(PCB)Cir No.28/16.26. 000/ 2008-09 26.11.2008 Section 24- Investments in Govt and other|09.11.2009 Maintenance of Cash Reserve Ratio (CRR) on exempted categories CRR/SLR purposes securities- exemption under section 24A 05.01.2009 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR) approved securities 03. 11.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR) 16.10. 2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||10 UBD.BPD(PCB)Cir No.5/12.03.000/2008-09|Withdrawn|10.10.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||11 UBD.BPD(PCB)Cir No.4/12.03.000/2008-09||07.10.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||12 UBD CO (PCB) No.20/12.05.001/2008-09||30.09.2008 Treatment of deposits with DCCB/SCB as|
+||||SLR|
+||13 UBD.BPD(PCB)Cir No.1/12.03.000/2008-09||31.07.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||14 UBD.BPD(PCB)Cir No.3/12.05.001/2008-09||11.07.2008 Balances with IDBI Bank Ltd- treatment for CRR/SLR purposes|
+||15 RBI/2007-2008/ 386Ref: UBD (PCB). No. /6 /12.03.000/2007-08||26.6.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||16 RBI/2007-2008/307 Ref: UBD (PCB). No. /5 /12.03.000/2007-08||30.4.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||17 RBI/2007-2008/293 Ref: UBD (PCB).No./4 /12.03.000/2007-08||22.4.2008 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||18 RBI/2007-2008/177 UBD (PCB).No./ 3 /12.03.000/2007-08||1.11.2007 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||19 RBI/2007-2008/142Ref: UBD (PCB) .No ./17/12.05.001/2007- 08 20 RBI/2007-2008/110Ref: UBD (PCB). No./9/12.03.000/2007-08||20.9.2007 Treatment of deposits with DCCB/SCBs as SLR 31.7.2007 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+||21 UBD(PCB)Cir No.7/12.03.000/2006-07||25.04.2007 Section 42(1) of RBI Act, 1934- Maintenance|
+
+<!-- PAGE 54 -->
+
+|||of Cash Reserve Ratio (CRR)|
+|---|---|---|
+|22 UBD(PCB)Cir No.6/12.03.000/2006-07||25.04.2007 Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories|
+|23 UBD(PCB)Cir No.5/12.03.000/2006-07||05.04.2007 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+|24 UBD(PCB)Cir No.4/12.03.000/2006-07||01.03.2007 Maintenance of Cash Reserve Ratio (CRR) on Exempted Categories|
+|25 UBD(PCB)Cir No.3/12.03.000/2006-07||01.03.2007 Section 42(1) of RBI Act, 1934- Maintenance of Cash Reserve Ratio (CRR)|
+|26 UBD(PCB)Cir No.2/12.03.000/2006-07||14.02.2007 Section 42(1) of RBI Act, 1934- Maintenance of CRR|
+|27 UBD(PCB)Cir No.22/16.26.000/2006-07||11.12.2006 Section 42(1) of RBI Act, 1934- Maintenance of CRR|
+|28 UBD (PCB)Cir.No.6/16.26.000/2006-07||16.08.2006 Section 42(1)of RBI Act.1934-Maintenance of CRR|
+|29 UBD (PCB)Cir.No.59/16.26.000/2005-06||22.06.2006 RBI Act.1934(Amendment) -maintenance of|
+|||CRR|
+|30 UBD(PCB)CIr.60/16.26.000/2005-06||22.06.2006 RBI Act.1934(Amendment) -maintenance of|
+|||CRR|
+|31 UBD (PCB).Cir.No.31/16.26.00/2005-06||17.02.2006 BR Act.1949 (AACS)- Investment in Government and other Approved Securities by PCBs- Exemption under Section 24A|
+|32 UBD(PCB).BPD.Cir.41/16.20.000/2005-06||29.03.2006 Investment portfolio of Urban Co operative Banks (PCBs)- Classification and Valuation of Investments.|
+|33 UBD(PCB). Cir.41/16.20.00/2004-05||28.03.2005 Investment portfolio of Urban Cooperative Bank (PCBs)-Classification and valuation of Investments.|
+|34 UBD. PCB.Cir 19/16.11.00/2004-05|Withdrawn|13.09.2004 Section 42(1) of Reserve Bank of India Act. 1934- Maintenance of Cash Reserve Ratio (CRR) by Scheduled Primary (Urban) Co- operative Banks|
+|35 UBD.IP.(PCB)Cir No.16.11.00/2002-03||29.04.2003 Section 42(1) of RBI Act, 1934 – Maintenance of CRR by scheduled primary (urban) co-op. banks|
+|36 UBD.BR.No.7/16.11.00/2002-03||12.12.2002 Section 42 of the RBI Act, 1934 – payment of interest on eligible CRR balances on monthly basis|
+|37 UBD.BR.Cir. No.12/16.11.00/2001-02||20.05.2002 Section 42(1) of RBI Act, 1934 – Maintenance of CRR by scheduled primary (urban) co-op. banks|
+|38 UBD.BR.Cir.No.11/16.11.00/2001-02||29.04.2002 -do-|
+|39 UBD.BR.(PCB)Cir No.20/16.11.00/2001-02||22.10.2001 Change in Bank Rate|
+|40 UBD.No.BR.Cir/42/16.26.00/2000-01||19.04.2001 Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – Section 24 – Investment in Government and other approved Securities by Urban Co-operative Banks (PCBs)|
+|41 UBD.No.CO.BR.6/16.26.00/99-2000||27.04.2000 Cash balances required to be maintained by Scheduled Primary (urban) Co-operative|
+|||Banks|
+
+<!-- PAGE 55 -->
+
+|42 UBD.No.BR.13A/16.11.00/99-2000||29.10.1999 Section 42(1) of the Reserve Bank of India|
+|---|---|---|
+|||Act, 1934|
+|43 UBD.No.BSD-I.28/12.05.01/98-99||23.04.1999 Inter-branch Accounts – Old outstandings credit entries|
+|44 UBD.No.BR.PCB.CIR.21/16.26.00/98-99||01.03.1999 Penal Rate of Interest on the shortfall in the maintenance of CRR/SLR|
+|45 UBD(SUB)BR.21/16.26.00/97-98||20.06.1998 Maintenance of Cash Reserve Ratio (CRR) under Section 42 of the Reserve Bank of India Act, 1934 and Statutory Liquidity Ratio (SLR) under section 24 of the Banking Regulation Act, 1949 (AACS)|
+|46 UBD.No.(Cir)BR.60/16.26.00/97-98||25.05.1998 Sections 18 and 24 of the B.R. Act, 1949 (AACS)- Maintenance of Cash Reserve Ratio and Statutory Liquidity Ratio and Submission of Return in Form I|
+|47 UBD.No.BR.PCB.Cir.52/16.26.00/97-98||29.04.1998 Penal Rate of interest on the shortfall in the maintenance of CRR/SLR|
+|48 UBD.No.BR.PCBCIR.51/16.26.00/97-98|11.04.98|Penal Rate of interest on the shortfall in the maintenance of CRR/SLR|
+|49 UBD.No.16/24.00/97/98||18.03.1998 Penal Rate of interest on the shortfall on the maintenance of CRR/SLR|
+|50 UBD.No.BR.PCB.CIR.36/16.11.00/97-98||16.01.1998 Penal Rate of interest on the shortfall in the maintenance of CRR/SLR|
+|51 UBD.No.BR.SUB.18/16.11.00/97-98||02.12.1997 Section 42(1A) of the Reserve Bank of India Act, 1934 – Cash Reserve Ratio (CRR) on Non-Resident (External) Rupee Accounts (NRE) Accounts Scheme|
+|52 UBD.No.BR.16/16.04.00/97-98||06.11.1997 Section 42 of the Reserve Bank of India Act,|
+||Withdrawn|1934 – Maintenance of Cash Reserve Ratio|
+|||(CRR)|
+|53 UBD.No.BR.PCB.CIR.17/16.11.00/97-98||06.11.1997 Penal Rate of interest on the shortfalls in the maintenance of CRR/SLR|
+|54 UBD.No.BR.SUB 10/16.11.00/96-97||15.04.1997 Section 42 (1A) of the Reserve Bank of India Act, 1934 – Cash Reserve Ratio (CRR) on Non-Resident (External) Rupee Accounts (NRE Accounts) Scheme|
+|55 UBD.No.BR.SUB.12/16.11.00/96-97||15.04.1997 Section 42(1) of the Reserve Bank of India Act, 1934 – Change of Cash Reserve Ratio on Liabilities to the Banking System|
+|56 UBD.No.BR.Ad/18/16.11.00/96-97||15.04.1997 Section 42(1A) of Act, 1934 – Cash the Reserve Bank of India Reserve Ratio (CRR) on Foreign Currency Non-Resident Accounts (Banks) [(FCNR)(B)] Scheme Non-Resident (Non-Repatriable) Rupee Deposit (NRNR)|
+|57 UBD.No.BR.PCB.CIR.53/16.11.00/96-97||15.04.1997 Penal Rate of Interest on the shortfalls in the maintenance of CRR/SLR|
+|58 UBD.No.BR.70/16.04.00/95-96||29.06.1996 Netting Concept for Reserve Requirements – Dealings with Primary Dealers|
+|59 UBD.No.BR.SUB.5/16.11.00/95-96||03.04.1996 Cash Reserve Ratio on Deposits under Non- Resident (External) Rupee Accounts (NRE Accounts)|
+|60 UBD.No.BR.Ad-5/16.11.00/95-96||06.01.1996 Cash Reserve Ratio (CRR) on Non-resident|
+
+<!-- PAGE 56 -->
+
+|||(Non-Repatriable) Rupee Deposit (NRNR)|
+|---|---|---|
+|||Scheme and on Foreign Currency Non- Resident Accounts (Banks) FCNR (B) Scheme|
+|61 UBD.No.BR.Cir.33/16.26.00/95-96||03.01.1996 Banking Regulation Act, 1949 (As applicable to Co-operative Societies) Section 24- Investment in Government and other approved securities by primary co-operative|
+|||banks|
+|62 UBD.No.BR.AD-4/16.11.00/95-96||06.12.1995 Cash Reserve Ratio on Foreign Currency Non-Resident Accounts (Banks) FCNR(B) Scheme|
+|63 UBD.No.BR/AD/2/16.11.00/95-96||11.11.1995 Cash Reserve Ratio on Foreign Currency (Non-Resident) Accounts (Banks) Scheme|
+|64 UBD.No.BR.AD.1/16.11.00/95-96||02.11.1995 Cash Reserve Ratio (CRR) on Non-resident (Non-Repatriable) Rupee Deposit (NRNR) Scheme|
+|65 UBD.No.BR.SUB.2/16.11.00/95-96||02.11.1995 Cash Reserve Ratio on Deposits under Non- Resident (External) Rupee Accounts (NRE Accounts)|
+|66 UBD.No.BR(CIR)21/16.26.00/95-96||12.10.1995 Valuation of Securities for Statutory Liquidity Ratio (SLR)|
+|67 UBD.No.CO(BR)AD.3/16.05.00/95-96||29.09.1995 Section 42 of the Reserve Bank of India Act, 1934 – Cash Reserve Ratio (CRR) – Maintenance of minimum level of 85 per cent on a daily basis.|
+|68 UBD.No.Cir.63/16.26.00/94-95||16.06.1995 Banking Regulation Act, 1949 (As applicable to Co-operative Societies) – Section 24 – Investment in Government and other approved securities by Primary Co-operative|
+|||Banks|
+|69 UBD.No.CO.(Br)SUB.5/16.26.00/94-95||28.03.1995 Cash balances required to be maintained by|
+||Withdrawn|Scheduled Primary Co-operative Banks|
+|70 UBD.No.BR.35/16.04.00/94-95||31.12.1994 Netting concept for Reserve Requirements – Dealings with Securities Trading Corporation or India Limited (STCI)|
+|71 UBD.BR.3/16.26.4/94-95||13.12.1994 Cash balances required to be maintained by Scheduled primary co-operative banks|
+|72 UBD.BR.379/16.11.00/94-95||13.12.1994 Section 42(1) of the RBI Act, 1934 – Returns in Form 'B' Exempted Categories of deposits from maintenance of reserve requirements|
+|73 UBD.No.BR.2/16.26.00/94-95||24.11.1994 Auction of Government Stock 2002, for which the payment is made in instalments|
+|74 UBD.BR.44/16.26.00/94-95||22.07.1994 Maintenance of Cash Reserve Ratio and Statutory Liquidity Ratio|
+|75 UBD.Cir (PCB)No.53/16.26.00/93-94||08.02.1994 Maintenance of cash reserve and statutory liquid assets under Sections 18 and 24 respectively of Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – Submission of daily position|
+|76 UBD.No.Cir(SUC)No.158/16.26.00/93-94||08.02.1994 Maintenance of liquid assets under Section 24 of the banking Regulation Act (As Applicable to Co-operative Societies) – Submission of daily position along with Return in Form I.|
+
+<!-- PAGE 57 -->
+
+|77 UBD.No.155/16,.26.00/93-94||25.01.1994 Section 18 & 24 of the Banking Regulation|
+|---|---|---|
+|||Act, 1949 (As Applicable to Co-operative Societies) Penalty|
+|78 UBD.BR.48,49/16.11.00/93-94||14-07-1993 Section 42(1) of the Reserve Bank of India Act, 1934 – Returns in Form 'B' – Exempted categories of deposits from maintenance of reserve requirements|
+|79 UBD.No.BR.72/A.12(24)92/93||12.05.1993 Maintenance of cash reserve and statutory liquid assets under Sections 18 and 24 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) with Section 42 of the Reserve Bank of India|
+|80 UBD.No.BR.86/A.9/92-93||09.10.1992 Section 42 of the Reserve Bank of India Act, 1934 Maintenance of Cash Reserve Ratio|
+|||(CRR)|
+|81 UBD.No.RBL.125/i/91-92||03.06.1992 Scheduled Primary Co-operative Banks – Clarifications on Returns under Section 42 of the Reserve Bank of India Act, 1934|
+|82 UBD.No.BR.773/A.9-91/92||05.05.1992 Section 42 of the Reserve Bank of India Act, 1934 – Maintenance of Cash Reserve Ratio|
+|||(CRR)|
+|83 UBD.BR.349/A.9-91-92||08.11.1991 Section 42 of the Reserve Bank of India Act, 1934 – Maintenance of Cash Reserve Ratio|
+|||(CRR)|
+|84 UBD.No.BR.762/A-9/90-91||29.05.1991 Section 42 of the Reserve Bank of India Act, 1934 – Maintenance of Cash Reserve Ratio|
+|||(CRR)|
+|85 UBD.BR.581/A.9-90/91||04.03.1991 The Reserve bank of India Scheduled Bank's Regulations, 1951 – Classification of Deposits Accepted under the Home Loan Accounts Scheme of the National Housing Bank in Form|
+|||'B'|
+|86 UBD.BR.400/A.9-90-91|Withdrawn|24.12.1990 Maintenance of Minimum Average Balance under Section 42(1) of the Reserve Bank of India Act, 1934|
+|87 UBD.No.BR.194/A.9-90-91||28.08.1990 Minimum Average Balance under Section 42(1) of the Reserve Bank of India Act, 1934|
+|88 UBD.BR.19/A.6-89/90||10.03.1990 Netting Concept for Reserve Requirements – Dealings with Discount and Finance House of India Ltd. (DFHI)|
+|89 UBD.BR.50/A.12(24)-89/90||18.01.1990 Section 24 of the Banking Regulation Act, 1949 – Eligible Securities for the purpose of Statutory Liquidity Ratio – Kisan Vikas Patras and Fixed Deposits with Sardr Sarovar Narmada Nigam Ltd.|
+|90 UBD.No.RBL.835/1.88/89||27.03.1989 Grant of Scheduled Status to Urban Co- operative Banks – Computation of Cash Reserve and Liquid Assets as well as Submission of various statutory Returns|
+|91 UBD.RBL.315/1-88-89||10.10.1988 Submission of Fortnightly Returns by Scheduled Primary Co-operative Banks under Section 42(2) of the Reserve Bank of India Act, 1934|
+|92 UBD.No.BR.229/A-9-88/89||09.09.1988 Inclusion of the Select Primary Urban Co-|
+
+<!-- PAGE 58 -->
+
+|||operative Banks in the Second Schedule to|
+|---|---|---|
+|||the Reserve Bank of India Act, 1934|
+|93 UBD.BR.163/A-9/99-89||19.08.1988 Inclusion of the Name of Your Bank in the Second Schedule to the Reserve Bank of India Act, 1934|
+|94 UBD.No.BR.35/A 12 (24)-86/87||18.10.1986 Banking Regulation Act, 1949 (as applicable to co-operative societies) – Section 18 and 24 – Computation of Demand and Time Liabilities|
+|||(DTL)|
+|95 UBD.No.BR.1455/A12(24)-85/86||31.05.1986 Banking Regulation Act, 1949 (as applicable to co-operative societies) – Section 24 – Investment in Units issued by the Unit Trust of|
+|||India|
+|96 UBD.BR.871/A.12(24)-84/85||10.05.1985 Banking Regulation Act, 1949 (as applicable to co-operative societies) – Section 24 – Investment made under national deposit scheme|
+|97 UBD.BR.764A/A-6-84/85||29.03.1985 Banking Laws (amendment) Act, 1983-84 – Bringing into force of remaining provisions|
+|98 UBD.BR.498/A.12(24)-84-85||08.01.1985 Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – Section 24 – Investment in Government and Other Trustee Securities by Primary Co-operative Banks|
+|99 UBD.BR.16/A.6-84-85||09.07.1984 Banking Law (Amendment) Act, 1983|
+|100 DBOD.No.UBD.BR.180/A.6-82/83||21.09.1982 Amendment in the banking regulation act, (as applicable to co-operative societies)|
+|101 ACD.ID.(DC)1800/R.36-79/80||10.01.1980 Directive relating to subscription/purchase of 7 year national rural development bonds|
+|102 ACD.BR.277/B.1-74-5|Withdrawn|30.09.1974 The banking regulation (co-operative societies) rules, 1966 amendment to rules 5 and 9 and change in the forms I and VII of the returns prescribed there under|
+|103 ACD.BRL.612/C/71-2||24.01.1972 Register showing the daily position of cash reserves and liquid assets maintained under Section 18 and 24 of the banking regulation act, 1949 (as applicable to co-operative societies) primary co-operative bank|
+|104 ACD.BR.760/A.1/68-9||23.01.1969 The Banking Laws (Amendment) Act, 1968|
+|105 ACD.BR.750/B.I/67-8||24.11.1967 The Banking Laws (application to co-operative societies) Act, 1965|
+|106 ACD.BR.474/A.12(24)/67-8||27.09.1967 Section 24 of the Banking Regulation Act, 1949 (As applicable to co-operative Societies) – Maintenance of Liquid Assets|
+|107 ACOD.BR.392/B.1-65/66||01.03.1966 The Banking Laws (application to co-operative societies) Act, 1965|
+|108 ACD.BR.333/A.1-65/66||09.02.1966 e Banking Laws (application to co-operative societies) Act, 1965|
+
+<!-- PAGE 59 -->
+
+## List of other Circulars from which instructions relating to Maintenance of CRR,
+
+## SLR and other related matters have also been consolidated in the Master Circular
+
+|1 UBD.DC(SUC)156A/13.02.00/93-94|31-01-1994|Pre-shipment Credit in Foreign Currency|
+|---|---|---|
+|||(PCFC)|
+|2 UBD.No.DC(SUC)/153(13.02.00)/93-94|30-12-1993|Rediscounting of Export Bills Abroad|
+|3 UBD.No.(SUC)117/DC.V.1(B)/92-93|10-05-1993|Foreign Currency (Non-Resident)|
+
+Accounts (Banks) Scheme
+
+# Withdrawn
