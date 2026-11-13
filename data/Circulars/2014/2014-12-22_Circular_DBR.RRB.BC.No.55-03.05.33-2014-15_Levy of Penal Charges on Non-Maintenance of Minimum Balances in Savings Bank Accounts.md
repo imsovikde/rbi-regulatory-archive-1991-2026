@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2014_DBR_RRB_BC_No_55_03_05_33_2014-15"
+title: "Levy of Penal Charges on Non-Maintenance of Minimum Balances in Savings Bank Accounts"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/55LPCMBC1214.PDF"
+pdf_sha256: "bf9ef0e614531c4d04273509fa82849fdd3c6cb41fb3721b3a19df371a7012d6"
+md_sha256: "a4016206db7ae9d9eb6b809eecfa1c59a757be9b5f118b6f2ad6521ae8488341"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:22:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-12-22_Circular_DBR.RRB.BC.No.55-03.05.33-2014-15_Levy%20of%20Penal%20Charges%20on%20Non-Maintenance%20of%20Minimum%20Balances%20in%20Savings%20Bank%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Levy of Penal Charges on Non-Maintenance of Minimum Balances in Savings Bank Accounts
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/363 DBR.RRB.BC.No.55/03.05.33/2014-15 December 22, 2014
+
+## All Regional Rural Banks
+
+Dear Sir/Madam,
+
+## Levy of penal charges on non-maintenance of minimum balances in savings bank accounts
+
+Please refer to our <u>circular RPCD.CO.RRB.BC.No.100/03.05.33/2013-14 dated May</u> <u>12, 2014</u> on ‘Customer Service in Regional Rural Banks’ advising RRBs to inform customers, in a transparent manner, regarding the requirement of minimum balance in savings bank account and levy of penal charges for non-maintenance of the same at the time of opening the account.
+
+2. In this connection, a reference is invited to <u>paragraph 30</u> of Part B of First Bi- monthly Monetary Policy Statement, 2014-15 announced on April 1, 2014, regarding ‘Developmental and Regulatory Policies’ proposing certain measures towards consumer protection. One of the proposals contained therein was that banks should
+# Withdrawn
+
+not take undue advantage of customer difficulty or inattention. Instead of levying penal charges for non-maintenance of minimum balance in ordinary savings bank accounts, banks should limit services available on such accounts to those available to Basic Savings Bank Deposit Accounts and restore the services when the balances improve to the minimum required level. A reference is also invited to the recommendations of Damodaran Committee on customer service in banks which, inter-alia, recommended that ‘*banks should inform the customer immediately on the* *balance in the account breaching minimum balance and the applicable penal charges* *for not maintaining the balance by SMS/email/letter. Further, the penal charges* *levied should be in proportion to the shortfall observed’.*
+
+____________________________________________________________________________________ बक ैंिं ग विनियमि विभाग, ें द्रीय ायाालय, 12ि िं और 13ि िं मिंज़िल, ें द्रीय ायाालय भिि, शहीद भगत स िंह मागा, मिंबई 400001 टे लीफोि /Tel No: 22661602, 22601000 फै क् /Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Banking Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692
+
+<!-- PAGE 2 -->
+
+3. The policy announcement has been reviewed after extensive consultation with banks. Consequent to these deliberations and after taking into consideration the recommendation of Damodaran Committee, it has been decided that while levying charges for non-maintenance of minimum balance in savings bank account, RRBs shall adhere to the additional guidelines given in Annex. The guidelines come into effect from April 1, 2015.
+4. These guidelines should be brought to the notice of all customers apart from being disclosed on the bank’s website.
+5. In the meantime, all RRBs are advised to take immediate steps to update customer information so as to facilitate sending alerts through electronic modes (SMSs/emails etc.) for effective implementation of the guidelines. Yours faithfully, (Sudha Damodar) Chief General Manager
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+Levy of charges for non-maintenance of minimum balance in savings bank account shall be subject to the following additional guidelines:
+
+(i) In the event of a default in maintenance of minimum balance/average minimum balance as agreed to between the bank and customer, the bank should notify the customer clearly by SMS/ email/ letter etc. that in the event of the minimum balance not being restored in the account within a month from the date of notice, penal charges will be applicable. (ii) In case the minimum balance is not restored within a reasonable period, which shall not be less than one month from the date of notice of shortfall, penal charges may be recovered under intimation to the account holder. (iii) The policy on penal charges to be so levied may be decided with the approval of the Board of the bank. (iv) The penal charges should be directly proportionate to the extent of shortfall observed. In other words, the charges should be a fixed percentage levied on the amount of difference between the actual balance maintained and the minimum balance as agreed upon at the time of opening of account. A suitable slab structure for recovery of charges may be finalized.
+(v) It should be ensured that such penal charges are reasonable and not out of line
+# Withdrawn
+
+with the average cost of providing the services.
+
+(vi) It should be ensured that the balance in the savings account does not turn into negative balance solely on account of levy of charges for non-maintenance of minimum balance.

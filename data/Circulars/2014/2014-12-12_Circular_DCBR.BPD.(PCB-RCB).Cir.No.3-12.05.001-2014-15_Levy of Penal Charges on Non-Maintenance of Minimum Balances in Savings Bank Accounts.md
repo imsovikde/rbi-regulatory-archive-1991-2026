@@ -1,0 +1,67 @@
+---
+doc_id: "Circulars_2014_DCBR_BPD_PCB_RCB_Cir_No_3_12_05_001_2014-15"
+title: "Levy of Penal Charges on Non-Maintenance of Minimum Balances in Savings Bank Accounts"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR349NT122014.PDF"
+pdf_sha256: "d46afc5c90af9271c12ff7b2ace6c136af9260fe968575680277283ec743eaf0"
+md_sha256: "3ef6587e36bcbc9c922d904d8d5dadb59f8fc051878e10ea373563a1679cf623"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:22:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-12-12_Circular_DCBR.BPD.%28PCB-RCB%29.Cir.No.3-12.05.001-2014-15_Levy%20of%20Penal%20Charges%20on%20Non-Maintenance%20of%20Minimum%20Balances%20in%20Savings%20Bank%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Levy of Penal Charges on Non-Maintenance of Minimum Balances in Savings Bank Accounts
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2014-15/349 DCBR.BPD (PCB/RCB) Cir. No. 3/12.05.001/2014-15 December 12, 2014
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks / State and Central Co-operative Banks (St CBs / CCBs)
+
+Madam / Dear Sir,
+
+## <u>Levy of Penal Charges on Non-maintenance of Minimum Balances in Savings Bank Accounts</u>
+
+Please refer to UBD circular UBD.PCB.Cir.No.15/12.05.001/2008-09 dated September 18, <u>2008</u> on ‘Display of information relating to interest rate and service charges’ and RPCD <u>Circular RPCD.CO. RCB. BC. No. 36/07.51.010/2014-15 dated October 22, 2014</u> on ‘Customer Service in State /District Central Co-operative Banks’ advising Primary (Urban) Cooperative Banks and State and Central Co-operative Banks to display information relating to interest rates and service charges including minimum balance in savings bank account in a prescribed format in their premises as well as websites.
+
+# Withdrawn
+
+2. In this connection, a reference is invited to <u>paragraph 30</u> of Part B of First Bi-monthly Monetary Policy Statement, 2014-15 announced on April 1, 2014, regarding 'Developmental and Regulatory Policies' proposing certain measures towards consumer protection. One of the proposals contained therein was that banks should not take undue advantage of customer difficulty or inattention. Instead of levying penal charges for non-maintenance of minimum balance in ordinary savings bank accounts, banks should limit services available on such accounts to those available to Basic Savings Bank Deposit Accounts and restore the services when the balances improve to the minimum required level. A reference is also invited to the recommendations of Damodaran Committee on customer service in banks which, inter-alia, recommended that 'banks should inform the customer immediately on the
+
+|सहकार|बक विनयमन वभाग,||क िय कायालय, गारमट हाऊस,||पहली मंज़ल, डॉ||ए बी रोड, वरली, मुंबई- 400018 भारत||||
+|---|---|---|---|---|---|---|---|---|---|---|
+|Department of Co-operative Bank Regulation, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India|फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in||बक �����|म पऽाचार|का ःवागत|करता है —|मेल: cgmincubd@rbi.org.in||||
+|चेतावनी: भारतीय|रज़व बक|ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी यगत|जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds|नहं माँगा जाता|है। यह धन|रखने या देने to anyone. Please do not respond in any manner to such offers.|का ूःताव भी|नहं करता|है। ऐसे ूःताव|का कसी|ूकार से जवाब|मत द�जए।||
+
+भी
+
+<!-- PAGE 2 -->
+
+balance in the account breaching minimum balance and the applicable penal charges for not maintaining the balance by SMS / Email / letter. Further, the penal charges levied should be in proportion to the shortfall observed'.
+
+3. Taking into consideration the recommendations of Damodaran Committee and in the interest of customers, it has been decided that while levying charges for non-maintenance of minimum balance in savings bank account, Primary (Urban) Cooperative Banks and State and Central Co-operative Banks shall adhere to the additional guidelines given in the Annex. The guidelines will come into effect from April 1, 2015.
+4. These guidelines should be brought to the notice of all customers apart from being disclosed on the bank's website.
+5. In the meantime, all banks are advised to take immediate steps to update customer information so as to facilitate sending alerts through electronic modes (SMSs / emails etc) for effective implementation of the guidelines. Yours faithfully,
+# Withdrawn
+
+(Suma Varma) Principal Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Annex
+
+Levy of charges for non-maintenance of minimum balance in savings bank account shall be subject to the following additional guidelines :
+
+i) In the event of a default in maintenance of minimum balance / average minimum balance as agreed to between the bank and customer, the bank should notify the customer clearly by SMS / email / letter etc. that in the event of the minimum balance not being restored in the account within a month from the date of notice, penal charges will be applicable. ii) In case the minimum balance is not restored within a reasonable period, which shall not be less than one month from the date of notice of shortfall, penal charges may be recovered under intimation to the account holder. iii) The policy on penal charges to be so levied may be decided with the approval of the Board of the bank. iv) The penal charges should be directly proportionate to the extent of shortfall observed. In other words, the charges should be a fixed percentage levied on the amount of difference
+# Withdrawn
+
+between the actual balance maintained and the minimum balance as agreed upon at the time of opening of account. A suitable slab structure for recovery of charges may be finalized.
+
+v) It should be ensured that such penal charges are reasonable and not out of line with the average cost of providing the services. vi) It should be ensured that the balance in the savings account does not turn into negative balance solely on account of levy of charges for non-maintenance of minimum balance.
+- 3 -

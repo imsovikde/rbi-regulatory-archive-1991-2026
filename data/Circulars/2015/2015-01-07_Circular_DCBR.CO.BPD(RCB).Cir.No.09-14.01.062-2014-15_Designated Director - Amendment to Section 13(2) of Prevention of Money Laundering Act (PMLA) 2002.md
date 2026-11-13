@@ -1,0 +1,33 @@
+---
+doc_id: "Circulars_2015_DCBR_CO_BPD_RCB_Cir_No_09_14_01_062_2014-15"
+title: "Designated Director - Amendment to Section 13(2) of Prevention of Money Laundering Act (PMLA) 2002"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT070115DISCIRF.PDF"
+pdf_sha256: "aa8c273630f03ab918824a63dc98091adc0ce923c032ce839360c0b9ad20bca1"
+md_sha256: "8940a0c612a24677b5d973d1f9aa394d84a72bb76ba2f17250c83667ac6967ac"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:23:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-01-07_Circular_DCBR.CO.BPD%28RCB%29.Cir.No.09-14.01.062-2014-15_Designated%20Director%20-%20Amendment%20to%20Section%2013%282%29%20of%20Prevention%20of%20Money%20Laundering%20Act%20%28PMLA%29%202002.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Designated Director - Amendment to Section 13(2) of Prevention of Money Laundering Act (PMLA) 2002
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/389 DCBR.CO.BPD (RCB).Cir.No.09/14.01.062/2014-15 January 07, 2015
+
+The Chief Executive Officer All State / Central Cooperative Banks (StCBs/CCBs)
+
+Madam / Dear Sir,
+
+## Designated Director – Amendment to section 13(2) of Prevention of Money Laundering Act (PMLA) 2002
+
+Please refer to our <u>circular RPCD.RRB.RCB.AML.BC.No.75/07.51.018/2013-14 dated</u> <u>January 9, 2014</u> wherein State / Central cooperative banks were advised to nominate a Director on their Boards as ‘Designated Director’ to ensure compliance with the obligations under the Prevention of Money Laundering (Amendment) Act, 2012.
+
+2. In this connection, it is clarified that StCBs/CCBs can also designate a person who holds the position of senior management or equivalent as a ‘Designated Director’. However, in no case, the Principal Officer should be nominated as the ‘DesignatedWithdrawn Director’. Yours faithfully, (Suma Varma) Principal Chief General Manager
+सहकारी बक िविनयमन िवभाग, कदर्ीय कायार्लय, गारमट हाउस. पहली मंिजल, डॉ. ए.बी.रोड वरली, मुंबई 400 018 टेलीफोन: Tel: 022-2493 9930 फै क्स Fax: 2497 4030/2492 0231, ईमेल e-mail: cgm@rbi.org.in Department of Co-operative Bank Regulation, Central Office, Garment House, 1st Floor Dr. A.B. Road, Worli, Mumbai 400018 चेतावनी: िरज़व बर्क ारा ई-मल, डाक, एसएमएस या फोन कॉल क े े जिरए िकसी की भी व् यिक्तगत जानकारी जैसे बक के खात का ब् े यौरा, पासवड आिद र् नह मागी जाती ह ं । यह धन रखन ै या द े ेने का पर्स् ताव भी नह करता ह। ऐस ै पर्स् े ताव का िकसी भी तरीके स जवाब मत दीिजए। े Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
