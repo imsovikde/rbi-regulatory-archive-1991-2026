@@ -1,0 +1,57 @@
+---
+doc_id: "Notifications_2026_13358"
+title: "Reporting under Foreign Exchange Management Act, 1999 – Returns pertaining to Foreign Exchange Management (Guarantees) Regulations, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR027C34873255BF491DA45D5776BEE4C3D4.PDF"
+pdf_sha256: "7e44d9432e86c3d0ede3be79e5b0f134fdca13f9191f872f4342e1bdfdbbb151"
+md_sha256: "d241b9bf6a68aec7d19dedfa9f8a2b1498d5858e47e1626d334dc31fb68ad0a3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-01_Notification_13358_Reporting%20under%20Foreign%20Exchange%20Management%20Act%2C%201999%20%E2%80%93%20Returns%20pertaining%20to%20Foreign%20Exchange%20Management%20%28Guarantees%29%20Regulations%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reporting under Foreign Exchange Management Act, 1999 – Returns pertaining to Foreign Exchange Management (Guarantees) Regulations, 2026
+
+<!-- PAGE 1 -->
+
+## बेटी बचाओ बेटी पढ़ाओ
+
+# भारतीय रज़वर् बैंक <u>RESERVE BANK OF INDIA</u>
+
+RBI/2026-27/02
+
+A.P. (DIR Series) Circular No. 01 April 01, 2026
+## All Authorised Persons
+
+Madam / Sir,
+
+## Reporting under Foreign Exchange Management Act, 1999 – Returns pertaining to
+
+## Foreign Exchange Management (Guarantees) Regulations, 2026
+
+Attention of Authorised Persons is invited to <u>Foreign Exchange Management (Guarantees)</u> <u>Regulations, 2026</u> [FEMA 8 (R)] and <u>Master Direction – Reporting under Foreign Exchange</u> <u>Management Act, 1999</u>.
+
+2. A person having the obligation to report a guarantee in terms of Regulation 7 of FEMA 8 (R), may use the following files provided on the RBI website (<u>List of Returns Submitted to RBI</u>) for submissions to the authorised dealer bank:
+a) ‘Form GRN Issue’ – For reporting issuance of Guarantee.
+b) ‘Form GRN Modification’ – For reporting any subsequent change in guarantee terms, namely-guarantee amount, extension of period or pre-closure.
+c) ‘Form GRN Invocation’ – For reporting invocation of guarantee.
+3. The authorised dealer bank shall thereby submit the returns to the Reserve Bank of India within thirty calendar days from the end of the respective quarter through Centralised Information Management System (CIMS) (URL: <u>[https://sankalan.rbi.org.in](https://sankalan.rbi.org.in)</u>). Operational guidelines are being provided therein.
+4. For each guarantee issuance, reported through ‘Form GRN Issue’, the authorised dealer bank shall provide a unique Guarantee Transaction Number before submission of the return to the Reserve Bank in the manner provided in the operational guidelines
+5. For the purpose of computation of Late Submission Fees for delayed reporting of ‘Form GRN Invocation’, the amount involved in the delayed reporting (A) shall be the amount of liability created towards the surety on invocation. For Delayed reporting of ‘Form GRN Issue’ and ‘Form GRN
+वदे शी मुद्रा वभाग**,** के न् द्र य कायार्लय**,** के न् द्र य कायार्लय भवन**,** शहद भगतस ंह मागर्**,** फोटर्**,** मुंबई**-400 001** भारत Foreign Exchange Department, Central Office ,Central Office building, Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Telephone No.022-22601000, ईमेल: <u>fedcoecbd@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+Modification’, ‘A’ shall be considered to be ‘Nil’ since these returns do not capture flows.
+
+6. Authorised Persons may bring the contents of the circular to the notice of their customers/ constituents concerned.
+7. The directions contained in this circular have been issued under sections 10(4), 11(1) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+8. These directions shall come into force with immediate effect.
+Yours faithfully,
+
+(Dr. Aditya Gaiha) Chief General Manager-in-Charge

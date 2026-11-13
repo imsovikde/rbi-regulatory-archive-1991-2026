@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2026_13373"
+title: "Risk Management and Inter-Bank Dealings"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT141CBCF8D96C7D43FCB43D649F2653DF96.PDF"
+pdf_sha256: "e0fb4744bb2413b6fe4bf61e4a689cf159b2a01df4fde7e06d7a45e68318e3ea"
+md_sha256: "d4459eb9e1a68135fe8b565e763a038e871c418e69032c7c8201282625815f13"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-20_Notification_13373_Risk%20Management%20and%20Inter-Bank%20Dealings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter-Bank Dealings
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+## RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2026-27/14
+
+A.P. (DIR Series) Circular No. 07 April 20, 2026 To,
+### All Authorised Dealers
+
+Madam/Sir,
+
+### Risk Management and Inter-Bank Dealings
+
+Attention of Authorised Dealers is invited to the <u>A.P. (DIR Series) Circular No. 24</u> <u>dated March 27, 2026</u>, the <u>A.P. (DIR Series) Circular No. 03 dated April 01, 2026</u>, and the <u>Master Direction-Risk Management and Inter-Bank Dealings dated July 05,</u> <u>2016</u>, as amended from time to time.
+
+2. On a review, it has now been decided to withdraw the instructions issued *vide* <u>A.P.</u> <u>(DIR Series) Circular No. 03 dated April 01, 2026</u>. Further, it has been decided that Authorised Dealers shall not undertake any foreign exchange derivative contract involving INR with their related parties except for the following:
+(i) cancellation and rollover of existing contracts; and (ii) transactions undertaken with non-related non-resident users on a back-to- back basis in terms of the <u>Master Direction-Risk Management and Inter-Bank</u> <u>Dealings dated July 05, 2016</u>, as amended from time to time.
+3. ‘Related parties’ shall have the same meaning as assigned to it under the Indian Accounting Standard (Ind AS) 24 – Related Party Disclosures or International Accounting Standard (IAS) 24 – Related Party Disclosures or any other equivalent accounting standards.
+4. These instructions shall be applicable with immediate effect.
+वत्तीय बाज़ार व�नयमन वभाग,कें द्रय कायार्लय भवन, नौवीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई–400001.भारत <u>फोन: (91-22) 2260 1000, ई-मेल: cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िही आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under Sections 10(4), 11(1) and 11(2) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager

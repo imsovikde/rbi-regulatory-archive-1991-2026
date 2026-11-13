@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2026_13355"
+title: "Reserve Bank of India (Trade Relief Measures) Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26385773BD85FBE44B89940CA71BC181E54.PDF"
+pdf_sha256: "9456d335289b45a978dbfa390d2806e43b355ffd7e314d917eae19b7cdb3d7b3"
+md_sha256: "5fdbbb45f8f1652db1d84c64617a0c423b4ef482cc8f5fccea1633a144559c92"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-03-31_Notification_13355_Reserve%20Bank%20of%20India%20%28Trade%20Relief%20Measures%29%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Trade Relief Measures) Directions, 2026
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बकैं **________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2025-26/263 DOR.STR.REC.No.455/21.04.048/2025-26 March 31, 2026
+
+## Reserve Bank of India (Trade Relief Measures) Directions, 2026
+
+1. Reserve Bank is statutorily mandated to operate the credit system of the country to its advantage. In this endeavour, and with a view to mitigating the burden of debt servicing brought about by geopolitical tensions caused by West Asian crisis and to ensure the continuity of viable businesses, Reserve Bank being satisfied that it is necessary and expedient in the public interest to do so, issues these Directions hereinafter specified.
+2. These Directions are being issued in exercise of powers conferred by sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, and section 6 of the Factoring Regulation Act,
+2011.
+## Short Title and Commencement
+
+3. These Directions shall be called the Reserve Bank of India (Trade Relief Measures) Directions, 2026.
+4. These Directions shall come into force immediately. **Applicability**
+5. These Directions shall be applicable to the following regulated entities (REs) eligible to undertake export financing business:
+i. Commercial Banks ii. Primary (Urban) Co-operative Banks, State Co-operative Banks and Central Co-operative Banks
+iii. Non-Banking Financial Companies – Factors iv. All-India Financial Institutions
+
+<!-- PAGE 2 -->
+
+## Extension of tenor for Export Credit
+
+6. A RE may permit an enhanced credit period of up to 450 days for pre-shipment and post-shipment export credit disbursed till June 30, 2026.
+7. In respect of packing credit facilities already availed by exporters on or before the date of issuance of these Directions, where dispatch of goods could not take place, a RE may allow liquidation of such facilities from any legitimate alternate sources, including domestic sale proceeds of such goods or substitution of contract with proceeds of another export order. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager

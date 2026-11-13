@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2026_13382"
+title: "Reserve Bank of India (Non-Operative Financial Holding Companies)- Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/9NOFHC_27042026724CCE0A9AB64C55A3F06207CDC7830E.PDF"
+pdf_sha256: "b590523fc1c7a4c9802d86b4cc710e2871cabe7781e3fccac8b7eed4ed92d55a"
+md_sha256: "df15eadb9fd6bb32e7e0d06548035f1603156843cc5f478dff0829f75c40f5d3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-27_Notification_13382_Reserve%20Bank%20of%20India%20%28Non-Operative%20Financial%20Holding%20Companies%29-%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Non-Operative Financial Holding Companies)- Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2026-27/31 DOR.STR.REC.14/16-13-218/2026-27 April 27, 2026 **Reserve Bank of India (Non-Operative Financial Holding Companies)-** **Amendment Directions, 2026** Please refer to <u>Reserve Bank of India (Non-Operative Financial Holding Companies)</u> <u>Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. Consequent to the issuance of <u>Reserve Bank of India (Commercial Banks-Asset</u> <u>Classification, Provisioning and Income Recognition) Directions, 2026</u> and in exercise of the powers conferred by the section 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions shall modify paragraph 20 as below: “Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances as specified under <u>Reserve Bank of India (Commercial Banks</u>
+<u>- Asset Classification, Provisioning and Income Recognition) Directions, 2026</u>.”
+4. The above amendments shall come into force from April 01, 2027. (Vaibhav Chaturvedi) Chief General Manager
+व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए

@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2026_13397"
+title: "Reserve Bank of India (Commercial Banks – Credit Risk Management) - Second Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/26DOR27042026733E2D2A91BF47259B26D589A70CA528.PDF"
+pdf_sha256: "48a6826b10a7e603384910b402598fde31f15009e7a0016d6d162fb076a10650"
+md_sha256: "fb07ea9b4f64e65b0581f649ac7804d9e30d64102c790c960350c1ee9e31fed6"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-27_Notification_13397_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Risk%20Management%29%20-%20Second%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks – Credit Risk Management) - Second Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2026-27/26 DOR.STR.REC.10/07-02-001/2026-27 April 27, 2026 **Reserve Bank of India (Commercial Banks – Credit Risk Management) - Second** **Amendment Directions, 2026** Please refer to <u>Reserve Bank of India (Commercial Banks – Credit Risk Management)</u> <u>Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. Consequent to the issuance of <u>Reserve Bank of India (Commercial Banks-Asset</u> <u>Classification, Provisioning and Income Recognition) Directions, 2026</u> and in exercise of the powers conferred by the section 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions shall modify the Directions as below:
+(1) The paragragh 51 of the Directions shall be modified as below : “51. Till such time, as banks move over to internal rating system, a bank may use the seven-category classification followed by Export Credit Guarantee Corporation of India Ltd. (ECGC) for the above purpose. ECGC shall provide to a bank, on request, quarterly updates of their country classifications and shall also inform all banks in case of any sudden major changes in country classification in the interim period.”
+(2) The paragraph 56 of the Directions, shall be modified as below: “56. A bank shall assess and monitor the Unhedged Foreign Currency Exposure (UCFE) of entities and maintain adequate capital for the same. An explanatory note providing the background of these instructions is furnished in Annex I.”
+(3) The paragragh 58(3) and Table 1 of the Directions shall be modified as below: “3) Accordingly, a bank shall apply incremental capital requirements to all exposures to such entities as under. व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001
+टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+**Table 1: Incremental Capital Requirements for UFCE**
+
+|Potential Loss / EBID (per cent)|Incremental Capital Requirement|
+|---|---|
+|Upto 15 per cent|0|
+|More than 15 per cent and upto 30 per cent|0|
+|More than 30 per cent and upto 50 per cent|0|
+|More than 50 percent and upto 75 per cent|0|
+|More than 75 per cent|25 per centage point increase in the risk|
+
+weight
+
+(4) The Explanation (i) to paragraph 58(3) of the Directions, shall be modified as below: *“(i) Incremental capital requirements shall be over and above the extant applicable* *credit risk weights as per* <u>Reserve Bank of India (Commercial Banks-Capital</u> <u>Charge for Credit Risk – Standardised Approach) Directions, 2026</u>*.* *(ii) As an example for the 25 per centage point increase in the risk weight in case* *of Potential Loss / EBID exceeding 75 per cent, for an entity which otherwise* *attracts a risk weight of 50 per cent, the applicable risk weight would become 75* *per cent.*
+*Note: The incremental capital requirements for UFCE shall be based on the total*
+ *exposure amount which is used for computing credit risk capital requirements.”*
+(5) The paragragh 58(4) of the Directions shall be modified as below: “A bank shall calculate the incremental capital requirements at a minimum on a quarterly basis.”
+(6) The paragraph 58(5) of the Directions shall be modified as below: “For projects under implementation and for new entities, a bank shall calculate the incremental capital requirement<s>s</s> based on projected average annual EBID for the three years from the date of commencement of commercial operations.”
+(7) The paragraph 58(6) of the Directions shall be modified as below: “In cases where a bank is not able to get sufficient data to assess UFCE and compute incremental capital, the bank shall take a conservative view and place the exposure to the entity at the last bucket (in <u>Table 1</u> above) which requires a 25 per centage point increase in risk weight.”
+(8) The paragraph 58(7) of the Directions shall stand deleted.
+(9) The Paragraph 58(8) of the Directions shall stand deleted. (10) The paragraph 92(4) of the Directions, shall be modified as below:
+
+<!-- PAGE 3 -->
+
+*“Banks / consortia / syndicates will have the discretion to stipulate repayment of the* *WCLs in instalments or by way of a 'bullet' repayment, subject to* <u>Reserve Bank of</u> <u>India (Commercial Banks-Asset Classification, Provisioning and Income Recognition)</u> <u>Directions, 2026</u> *and* <u>Reserve Bank of India (Commercial Banks – Resolution of</u> <u>Stressed Assets) Directions, 2025</u>*. A bank may consider rollover of the WCLs at the* *request of the borrower, subject to compliance with the directions ibid.”*
+
+4. The above amendments shall come into force from April 01, 2027. (Vaibhav Chaturvedi) Chief General Manager

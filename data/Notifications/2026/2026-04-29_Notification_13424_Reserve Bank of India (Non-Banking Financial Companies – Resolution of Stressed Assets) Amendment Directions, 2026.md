@@ -1,0 +1,109 @@
+---
+doc_id: "Notifications_2026_13424"
+title: "Reserve Bank of India (Non-Banking Financial Companies – Resolution of Stressed Assets) Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT68BFB45413680C4BC0B7435DA1DCED5EA0.PDF"
+pdf_sha256: "6b5749960c7da3316c80ffe05eaf20c72730283224d9ccec994c79536c984692"
+md_sha256: "8b877b207d33017c3acd917e90428634d9e88ff9c4e3445e35badc1f032959df"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-29_Notification_13424_Reserve%20Bank%20of%20India%20%28Non-Banking%20Financial%20Companies%20%E2%80%93%20Resolution%20of%20Stressed%20Assets%29%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Non-Banking Financial Companies – Resolution of Stressed Assets) Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2026-27/68 DOR.STR.REC.57/21-04-048/2026-27 April 29, 2026 **Reserve Bank of India (Non-Banking Financial Companies – Resolution of** **Stressed Assets) Amendment Directions, 2026**
+
+Please refer to Reserve Bank of India (Non-Banking Financial Companies – Resolution of Stressed Assets) Directions, 2025 (hereinafter referred to as ‘the Directions’).
+
+2. Reserve Bank had announced, as part of the Statement on Developmental and Regulatory Policies dated June 08, 2023, to issue guidelines rationalising the extant prudential norms for implementation of resolution plans in respect of exposures affected by natural calamities, inter alia harmonising the regulatory instructions applicable to different Regulated Entities (REs). Subsequently, based on a comprehensive review of the existing regulatory instructions, including the scope, coverage and prudential requirements, draft Directions were issued for public comments.
+3. On examination of the feedback received and in exercise of the powers conferred by the sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934; sections 30A and 32 of the National Housing Bank Act, 1987 and section 3 read with section 31A and section 6 of the Factoring Regulation Act, 2011, and all other laws enabling the Reserve Bank of India (hereinafter called the Reserve Bank) in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+4. These Amendment Directions modify the Directions as under:
+i. Paragraph 10(3A) and 10(8A) shall be inserted as below: *(3A) ‘date of invocation’ shall mean the date on which the borrower and the NBFC* *agree to proceed with a resolution plan under Chapter VI-A of these Directions* *through a documented arrangement, other than in case of deemed invocation as* *specified in paragraph 122J of these Directions.* व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001
+टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+*(8A) ‘natural calamity’ shall mean an event recognized under the National* *Disaster Response Fund (NDRF) / State Disaster Response Fund (SDRF)*
+
+ii. Paragraph 13A shall be inserted as under
+
+13A. The board approved policy of the NBFC shall incorporate provisions for resolution as provided for under Chapter VI-A of these Directions, including the following:
+
+(1) the objective principles for the terms of relief to be granted to various borrower / loan categories.
+(2) the potential relief measures and the verifiable parameters for making such determination.
+(3) the delegation matrix for deciding and implementing relief measures (if any), including for restructuring, sanction of additional finance etc., with focus on the timely implementation of relief measures.
+iii. Part D of the Chapter VI – Special Cases of Restructuring shall be deleted.
+
+iv. A new chapter VI-A as under shall be inserted:
+
+## Chapter VI-A – Resolution of Accounts Impacted by Calamities
+
+122A. The instructions contained in this Chapter shall be applicable to resolution of exposures of borrowers impacted by a natural calamity or, *mutatis mutandis*, exposures of borrowers impacted by external events such as riots / disturbances that result in loss to economic activity (hereinafter collectively referred to as ‘**calamity**’), upon the declaration of such calamity by the Central / State Governments (in accordance with the framework placed by the concerned Government for this purpose).
+
+122B. These instructions shall not apply to borrower accounts where relief measures have already been provided as on the effective date of these Amendment Directions, and such accounts shall continue to be guided by the existing prudential guidelines. However, any fresh resolution in such accounts
+
+<!-- PAGE 3 -->
+
+subsequent to the effective date of these Amendment Directions shall be as per the guidelines contained in this Chapter. 122C. The decisions taken in the special State Level Bankers’ Committee (SLBC) / Union Territory Level Bankers' Committee (UTLBC) / District Consultative Committee (DCC) meeting shall be communicated to the NBFCs by the convenor of the respective SLBC/ DCC.
+
+122D. The decisions taken in the special SLBC / UTLBC / DCC meeting(s) shall be given adequate publicity by NBFCs through various methods such as brochures, banners, advertisement in newspapers, visits by field staff, and other suitable modes, for the benefit of affected borrowers.
+
+## A. Implementation of Resolution Plan by the NBFCs
+
+122E. Where the SLBC / UTLBC / DCC, as the case may be, recommends extending relief measures to the impacted borrowers, NBFC may implement resolution plans in respect of such borrowers in terms of the provisions of this Chapter.
+
+*(a) Eligibility* 122F. Those borrowers shall be eligible for resolution under this Chapter whose accounts are classified as ‘Standard’, but which are not in default for more than 30 days with the NBFC in respect of any of their facilities, as on the date of occurrence of the calamity. *Explanation*: In case no specific date of occurrence is ascertainable in respect of a calamity, the date of declaration of such calamity by the Central / State Governments shall be treated as the date of occurrence. 122G. Borrowers, whose loan accounts do not fulfil the required eligibility conditions for resolution under this Chapter may continue to be considered for resolution under other provisions of these Directions. 122H. The provisions of this Chapter shall not apply to the refinance portfolio of a NBFC.
+*(b) Invocation and Implementation*
+
+<!-- PAGE 4 -->
+
+122I. Resolution under this Chapter shall be invoked no later than 45 days from the date of the declaration of calamity and shall be implemented within 135 days from the date of the declaration.
+
+122J. A NBFC need not wait for receipt of a formal request from a borrower and may decide to *suo moto* implement a resolution plan for the impacted borrowers consequent to the recommendation of SLBC / UTLBC / DCC. The resolution in such cases shall be deemed to have been invoked from the said date.
+
+*Provided that,* in such cases of deemed invocation, a NBFC shall communicate the same to the borrower, and shall also make available the option for the borrower to opt out of the resolution plan at any point till the end of 135 days from the date of declaration of calamity.
+
+*(c) Nature of Resolution Plan* 122K. The resolution plan to be implemented by a NBFC, taking into account *inter* *alia* the recommendation of the SLBC / UTLBC / DCC, may include rescheduling of payments; conversion of any interest accrued or to be accrued into another credit facility, etc. based on an assessment of the viability prospects of the borrower, etc. 122L. The resolution plan may also include proposal for sanction of additional finance to address the financial stress of the borrower, subject to due assessment of the viability prospects of the borrower.
+## B. Ancillary Measures
+
+122M. While restructuring various types of loans in an area affected by a calamity, NBFC may also take into account the insurance proceeds, if any, receivable from insurance companies in respect of those loans. The insurance proceeds upon receipt shall be adjusted towards the ‘restructured accounts' in cases where fresh loans have been granted to the borrower. However, a NBFC may consider restructuring and sanctioning fresh loans without waiting for the actual receipt of the claim.
+
+<!-- PAGE 5 -->
+
+122N. Interest Subvention / Prompt Repayment Incentive benefits as notified by the Government from time to time shall be made available to the eligible categories of borrowers without any exception.
+
+122O. While extending the relief measures under this Chapter, a NBFC shall ensure that the relief measures already provided / being provided by GoI / States are duly factored in.
+
+122P. For agricultural loans, where land is taken as security, certificate issued by the Revenue Department officials, in the absence of original title record, shall be accepted for financing to farmers who have lost proof of their title such as title deed or registration certificate issued to registered share-croppers. In the areas covered by the Sixth Schedule of the Constitution, whereby the land is owned by the community, certificate issued by community authorities shall be accepted.
+
+**C. Reporting Requirements** 122Q. NBFC shall upload the data on relief measures on a half-yearly basis within 30 days from the end of the half-year (September 30
+th and March 31 st of every year) on the CIMS portal.
+
+122R. In case no relief measures are extended, a ‘NIL’ statement shall be uploaded by the NBFC.
+
+5. Consequential amendments have also been made vide following:
+
+|i.|Reserve Bank of India (Non-Banking Financial Companies|– Credit Risk|
+|---|---|---|
+||Management) Second Amendment Directions, 2026 dated April 29, 2026.||
+|ii.|Reserve Bank of India (Non-Banking Financial Companies –||
+||Recognition, Asset Classification and Provisioning) Second Directions, 2026 dated April 29, 2026.|Amendment|
+|iii.|Reserve Bank of India (Non-Banking Financial Companies –|Responsible|
+
+<u>Income</u>
+
+<u>Business Conduct) Amendment Directions, 2026</u> dated April 29, 2026.
+
+6. The above amendments shall come into force with effect from July 1, 2026. (Vaibhav Chaturvedi) Chief General Manager

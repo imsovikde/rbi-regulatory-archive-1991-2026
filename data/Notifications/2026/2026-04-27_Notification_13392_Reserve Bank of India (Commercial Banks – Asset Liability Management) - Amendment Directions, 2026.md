@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2026_13392"
+title: "Reserve Bank of India (Commercial Banks – Asset Liability Management) - Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3015E65B51BC974DE09522B15EBF0A1A8D.PDF"
+pdf_sha256: "4f163ebba15c5dd7e48a94f59a6928a0de5d0a0013bea8ef056a56063f4dbe6a"
+md_sha256: "c1e198ac10a1c7b92bed2729865ad5bbf46face8fc24eff0cf9b3b1a5e322c9a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-27_Notification_13392_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Asset%20Liability%20Management%29%20-%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks – Asset Liability Management) - Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2026-27/30 DOR.STR.REC.12/13-10-001/2026-27 April 27, 2026 **Reserve Bank of India (Commercial Banks – Asset Liability Management)-** **Amendment Directions, 2026** Please refer to <u>Reserve Bank of India (Commercial Banks – Asset Liability</u> <u>Management) Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. Consequent to the issuance of <u>Reserve Bank of India (Commercial Banks-Asset</u> <u>Classification, Provisioning and Income Recognition) Directions, 2026</u> and in exercise of the powers conferred by the section 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions modify Explanation to paragraph 237(5) as below: “Explanation: The classification of loans shall be as per <u>Reserve Bank of India</u> <u>(Commercial Banks-Asset Classification, Provisioning and Income Recognition)</u> <u>Directions, 2026</u>.”
+4. The above amendments shall come into force from April 01, 2027. (Vaibhav Chaturvedi) Chief General Manager
+व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए

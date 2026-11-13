@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2026_13388"
+title: "Reserve Bank of India (Commercial Banks – Credit Cards and Debit Cards: Issuance and Conduct) - Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI29250DAA33E8FD4FB0B7680453870F9447.PDF"
+pdf_sha256: "bad0fbbdc74d2ee2f9aac653a37d1ebc03027d109ae093543529a9c21d8a2f05"
+md_sha256: "f968287267d6bf5e746f2e232d94b90b5d70753be63b5695537319dca3fd2438"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-27_Notification_13388_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Cards%20and%20Debit%20Cards-%20Issuance%20and%20Conduct%29%20-%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks – Credit Cards and Debit Cards: Issuance and Conduct) - Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2026-27/29 DOR.STR.REC.11/24-01-041/2026-27 April 27, 2026 **Reserve Bank of India (Commercial Banks – Credit Cards and Debit Cards:** **Issuance and Conduct) - Amendment Directions, 2026** Please refer to <u>Reserve Bank of India (Commercial Banks – Credit Cards and Debit</u> <u>Cards: Issuance and Conduct) Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. Consequent to the issuance of <u>Reserve Bank of India (Commercial Banks-Asset</u> <u>Classification, Provisioning and Income Recognition) Directions, 2026</u> and in exercise of the powers conferred by the section 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions shall modify the paragraph 23(5) as below: “Card-issuers shall report a credit card account as 'past due' to credit information companies (CICs) or levy penal charges, viz. late payment charges and other related charges, if any, only when a credit card account remains 'past due' for more than three days. The number of 'days past due' and late payment charges shall, however, be computed from the payment due date mentioned in the credit card statement, as specified under the <u>Reserve Bank of India (Commercial Banks-Asset Classification,</u> <u>Provisioning and Income Recognition) Directions, 2026</u> amended from time to time. Late payment charges and other related charges shall be levied, only on the outstanding amount after the due date, and not on the total amount due.”
+4. The above amendments shall come into force from April 01, 2027. (Vaibhav Chaturvedi) Chief General Manager
+व�नयमन वभाग, कें द्र य कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए

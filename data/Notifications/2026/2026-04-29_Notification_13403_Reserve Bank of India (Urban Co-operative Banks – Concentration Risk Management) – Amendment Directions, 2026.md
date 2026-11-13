@@ -1,0 +1,74 @@
+---
+doc_id: "Notifications_2026_13403"
+title: "Reserve Bank of India (Urban Co-operative Banks – Concentration Risk Management) – Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT39A1D30B6B73E84F329B13ACBE4895E0F3.PDF"
+pdf_sha256: "e60d79219feb01cd4709c6bb325ebf3278590c8e2562221becb446fda6fbc9d8"
+md_sha256: "1712d76d484b20bb759e8434f06170ea09b7e5222bd706b6ee19cad0ef011823"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-29_Notification_13403_Reserve%20Bank%20of%20India%20%28Urban%20Co-operative%20Banks%20%E2%80%93%20Concentration%20Risk%20Management%29%20%E2%80%93%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Urban Co-operative Banks – Concentration Risk Management) – Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक <u>RESERVE BANK OF INDIA</u>
+
+RBI/2026-27/39 DOR.CRE.REC.29/07-03-005/2026-27 April 29, 2026
+
+## Reserve Bank of India (Urban Co-operative Banks – Concentration Risk
+
+## Management) – Amendment Directions, 2026
+
+Please refer to <u>Reserve Bank of India (Urban Co-operative Banks – Concentration</u> <u>Risk Management) Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. On a review and in exercise of the powers conferred by the Sections 21 and 35A, read with Section 56 of the Banking Regulation Act, 1949; and all other enabling provisions / laws in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions modifies the Directions as under: 3(1). In ‘Chapter I-Preliminary’ of the Directions, the following modifications shall be effected in Paragraph 4:-
+(i) Sub-paragraph 4 (6) shall be substituted with following sub-paragraph: **‘Unsecured advances’** shall mean loans and advances, or a portion thereof, not covered by the realisable value of a security (primary as well as collateral) to which the UCB has a valid recourse.
+
+|Explanation 1:|The realisable value of security shall be estimated on a realistic|
+|---|---|
+|basis.||
+|Explanation 2:|Clean overdrafts; loans against personal guarantee; clean bills purchased or discounted; cheques purchased; and drawals allowed against cheques sent for collection shall be treated as unsecured advances.|
+|Explanation 3:|Advances granted to salaried employees against their personal guarantee may be treated as secured advances, if the UCB has a legally enforceable agreement with the borrower and the employer of the borrower|
+
+<!-- PAGE 2 -->
+
+Reserve Bank of India (Urban Co-operative Banks –Concentration Risk Management) – Amendment Directions, 2026 which ensures deduction of periodic loan instalments by the employer out of the employee's salary / wages to meet the UCB's claims.
+
+*Explanation 4:* Advances against receivables shall be treated as secured advances provided that such receivables *ab initio* have a tenure of not more than 180 days.
+
+(ii) Sub-paragraph 4 (7) shall be substituted with following sub-paragraph: “**Nominal member**” shall include any person who is a co-parcener or who desires to stand surety for a borrowing member of the bank or who desires to avail of the permitted credit facilities occasionally for a temporary period not exceeding three years. Such person may be enrolled as a nominal member upon his application and on payment of prescribed non-refundable entrance fee, provided that such a person resides or is gainfully engaged in any occupation within the area of operation of the bank. A co-operative society registered under any law shall not be eligible to become a nominal member. The nominal member shall not be entitled to receive a share certificate, audited accounts, annual report and dividend from the UCB. The nominal member shall also not be entitled to attend, participate and vote in the General Meeting and/or Special General Meeting of the Bank. 3(2). In ‘Chapter II – Exposure Norms’ of the Directions, the following modifications shall be effected:
+
+(i) Paragraph 19 shall be replaced with following paragraph: The aggregate unsecured loans and advances granted by a UCB shall not exceed 20 per cent of its total loans and advances as per the audited balance- sheet as on March 31 of the preceding financial year.
+*Provided that* in cases of UCBs, which are compliant with the Eligibility Criteria for Business Authorization (ECBA), as specified in the <u>Reserve Bank</u> <u>of India (Urban Co-operative Banks-Branch Authorisation) Directions, 2025</u>, unsecured advances granted up to ₹50,000 per borrower, which are eligible to
+
+<!-- PAGE 3 -->
+
+Reserve Bank of India (Urban Co-operative Banks –Concentration Risk Management) – Amendment Directions, 2026 be categorised as priority sector loans, shall not be reckoned for the purpose of computing the above prudential ceiling.
+
+|(ii) Paragraphs 20, 21 and 22 shall be deleted.||
+|---|---|
+||(iii) In Paragraph 23, the words ‘ranging from ₹0.25 lakh to ₹5 lakh’ shall be replaced|
+|with the words ‘as specified in Paragraph 203 of the|Reserve Bank of India (Urban Co-|
+|operative Banks – Credit Facilities) Directions, 2025|(as amended from time to time)’.|
+|(iv) Paragraph 24 shall be deleted.|(v) Paragraph 25 shall be replaced with following paragraph:|
+
+A UCB may sanction loans to its nominal members only if it has an enabling provision in its by-laws (in conformity with the applicable co-operative societies acts) for extending credit facility to nominal members. Subject to the above, a UCB may grant the following loans to its nominal members:
+
+(i) loans for purchase of consumer durables subject to a monetary ceiling of ₹2.5 lakh per borrower; (ii) loans against deposits, gold and silver ornaments, life insurance policies, and government securities, within the monetary ceiling as per its Board approved policy.
+4. The above amendments shall come into force from October 1, 2026, or an earlier date when adopted by a UCB in entirety. It is clarified that adoption by a UCB in entirety shall entail adoption of amendments contained in these Amendment Directions as well as those contained in the <u>Reserve Bank of India (Urban Co-operative Banks – Credit</u> <u>Facilities) – Amendment Directions, 2026</u>.
+5. With a view to ensuring non-disruptive implementation of amendments issued vide these Amendment Directions, a UCB is permitted to let its existing loans, which are not in conformity with these amendments as on the effective date of these Amendment Directions, to run-off till maturity. However, the UCB shall not review/renew such loans/ limits after their expiry on same or different terms, even if such renewal is provided in the contract, or enhance the limits sanctioned prior to the date of these
+
+<!-- PAGE 4 -->
+
+Reserve Bank of India (Urban Co-operative Banks –Concentration Risk Management) – Amendment Directions, 2026 Amendment Directions coming into force, unless they are in compliance with amendments issued *vide* these Amendment Directions*.*
+
+6. Consequent to the above amendments, corresponding amendment directions viz., <u>Reserve Bank of India (Urban Cooperative Banks – Financial Statements:</u> <u>Presentation and Disclosures) – Second Amendment Directions, 2026</u> have been separately issued. Vaibhav Chaturvedi (Chief General Manager)

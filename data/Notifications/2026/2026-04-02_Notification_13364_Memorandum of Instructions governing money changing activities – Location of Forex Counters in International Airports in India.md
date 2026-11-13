@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2026_13364"
+title: "Memorandum of Instructions governing money changing activities – Location of Forex Counters in International Airports in India"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR04020420266F9D9C9439404E2AA9005E7A55A2B4D5.PDF"
+pdf_sha256: "9d5b7b12022e999059bb0b20048fdb1d2bfba0001a9cc34a62cb065fe858a67f"
+md_sha256: "93431096b893ee3441a690f4260a9e49e6bb74b2cce7abdaf16c47e5f3e375a6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-02_Notification_13364_Memorandum%20of%20Instructions%20governing%20money%20changing%20activities%20%E2%80%93%20Location%20of%20Forex%20Counters%20in%20International%20Airports%20in%20India.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Memorandum of Instructions governing money changing activities – Location of Forex Counters in International Airports in India
+
+<!-- PAGE 1 -->
+
+RBI/2026-27/05
+
+A.P. (DIR Series) Circular No. 04 April 2, 2026 To All Authorised Persons Madam/Sir, **Memorandum of Instructions governing money changing activities – Location of**
+## Forex Counters in International Airports in India
+
+Please refer to Paragraph 3 of <u>A.P. (DIR Series) Circular No. 45 dated September 16, 2013</u>, on the above subject.
+
+2. On a review, it has been decided to allow residents (along with non-residents) to exchange Indian Rupee notes at foreign exchange counters at the departure halls in the international airports established in the Duty-Free Area or Security Hold Area beyond the Immigration or Customs desk. The <u>Master Direction on Money Changing Activities</u> is being amended accordingly.
+3. Authorised Persons may bring the contents of this circular to the notice of their constituents and customers.
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(N Senthil Kumar) Chief General Manager
+
+वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।

@@ -1,0 +1,62 @@
+---
+doc_id: "Notifications_2026_13366"
+title: "Limits for investment in debt and sale of Credit Default Swaps by Foreign Portfolio Investors (FPIs)"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT071E04EF8ADA5E444B865AFAC3F1AD85F5.PDF"
+pdf_sha256: "a5f92b0b13d051e6d87003ef354c2dc594b1b2af9399ecb6ca8d3f7cad2670e5"
+md_sha256: "19ff6d1a484f2f16d1ad5bc51065161c1a6e05dbabb20919aef217dfce1998f1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-06_Notification_13366_Limits%20for%20investment%20in%20debt%20and%20sale%20of%20Credit%20Default%20Swaps%20by%20Foreign%20Portfolio%20Investors%20%28FPIs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Limits for investment in debt and sale of Credit Default Swaps by Foreign Portfolio Investors (FPIs)
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2026-27/07
+
+A.P. (DIR Series) Circular No. 05 April 06, 2026 To, All Authorised Persons Madam / Sir **Limits for investment in debt and sale of Credit Default Swaps by Foreign** **Portfolio Investors (FPIs)** Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule 1 to the Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified *vide* <u>Notification No. FEMA. 396/2019-RB dated October 17, 2019</u> as amended from time to time and the relevant Directions issued thereunder. Reference is also invited to the <u>Master Direction-Reserve Bank of India (Non-resident Investment in Debt</u> <u>Instruments) Directions, 2025 dated January 07, 2025</u>; [hereinafter “Master Direction”] and the <u>A.P. (DIR Series) Circular No. 01 dated April 03, 2025</u>.
+## 2. Investment Limits for the financial year 2026-27:
+
+a) The limits for FPI investment in Government Securities (G-Secs), State Government Securities (SGSs) and corporate bonds shall remain unchanged at 6 per cent, 2 per cent and 15 per cent respectively, of the outstanding stocks of securities for 2026-27 for the General Route.
+b) The allocation of incremental changes in the G-Sec limit (in absolute terms) over the two sub-categories – ‘General’ and ‘Long-term’ – has been retained at 50:50 for 2026-27.
+c) The entire increase in limits for SGSs (in absolute terms) has been added to the ‘General’ sub-category of SGSs.
+d) As hitherto, all investments by eligible investors in the ‘specified securities’ shall be reckoned under the Fully Accessible Route (FAR).
+वत्तीय बाज़ार वनयमन वभाग,कें द्रय कायार्लय भवन, नौवीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िही आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+e) With effect from April 01, 2026, all existing and future investments under the Voluntary Retention Route shall be subject to the investment limits stipulated for FPI investments under the General Route.
+**3.** The revised limits (in absolute terms) for the different categories, are in <u>Table 1</u>:
+
+|||Table - 1: Investment limits for FY 2026-27|||
+|---|---|---|---|---|
+|||||all figures in ₹ Crore|
+|G-Sec General|G-Sec Long Term|SGS General|SGS Long Term|Corporate Total Debt Bonds|
+
+|Current FPI limits|2,89,488|1,58,488|1,34,744|7,100|8,80,835|14,70,655|
+|---|---|---|---|---|---|---|
+|Revised limit for|||||||
+|the HY Apr 2026-Sept 2026|2,96,745|1,65,745|1,45,943|7,100|9,36,113|15,51,646|
+|Revised limit for|||||||
+|the HY Oct|3,04,003|1,73,003|1,57,142|7,100|9,91,392|16,32,640|
+
+2026-Mar 2027
+
+**4.** In terms of <u>A.P. (DIR Series) Circular No. 23 dated February 10, 2022</u>, the aggregate limit of the notional amount of Credit Default Swaps sold by FPIs shall be 5 per cent of the outstanding stock of corporate bonds. Accordingly, an additional limit of ₹3,30,464 crore is set out for 2026-27.
+**5.** AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+**6.** The <u>A.P. (DIR Series) Circular No. 01 dated April 03, 2025</u>, which notified the limits for investment in debt instruments and sale of Credit Default Swaps by FPIs for financial year 2025-26 stands withdrawn.
+**7.** The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) without prejudice to permissions/approval, if any, required under any other law.
+## Yours faithfully
+
+(Dimple Bhandia) Chief General Manager

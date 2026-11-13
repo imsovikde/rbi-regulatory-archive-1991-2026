@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2026_13369"
+title: "Master Direction - Reserve Bank of India (Non-resident Investment in Debt Instruments) Directions, 2025 – amendment"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT10BD72BEB5FFC146F8A132627547ECB89B.PDF"
+pdf_sha256: "ee393c1df3c48fe877cc3a68d43a9b8c6404ef8e3447de9a9d0243615b35c926"
+md_sha256: "4c98d1b488a177733cf90e4b724b1ed7dfcf6ea517393b1bc0ffd88b5cbe6c7d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-10_Notification_13369_Master%20Direction%20-%20Reserve%20Bank%20of%20India%20%28Non-resident%20Investment%20in%20Debt%20Instruments%29%20Directions%2C%202025%20%E2%80%93%20amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Direction - Reserve Bank of India (Non-resident Investment in Debt Instruments) Directions, 2025 – amendment
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+## RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2026-27/10
+
+A.P. (DIR Series) Circular No. 06 April 10, 2026 To All Authorised Dealer Category-I banks Madam / Sir, **Master Direction -Reserve Bank of India (Non-resident Investment in Debt** **Instruments) Directions, 2025 – amendment** Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to the Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified, *vide* <u>Notification No. FEMA. 396/2019-RB dated October 17, 2019</u> (hereinafter “FEMA 396”) and the <u>Master Direction-Reserve Bank of India (Non-resident Investment in</u> <u>Debt Instruments) Directions, 2025 dated January 07, 2025</u> (hereinafter “Master Direction”), as amended from time to time.
+**2.** Over the years, the Reserve Bank has issued directions relating to, *inter alia*, investments in debt instruments by Non-Resident Indians (NRIs) and offering of debt instruments acquired in terms of FEMA 396 as collateral to recognized Stock Exchanges in India for transactions in exchange traded derivative contracts. These instructions have now been consolidated in the aforesaid Master Direction.
+**3.** The updated Master Direction is <u>enclosed</u>.
+**4.** AD Category–I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+वत्तीय बाज़ार वनयमन वभाग,कें द्रय कायार्लय भवन, नौवीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000, ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, e-mail-<u>cgmfmrd@rbi.org.in</u> <u>�हन्द आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+**5.** The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approval, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager

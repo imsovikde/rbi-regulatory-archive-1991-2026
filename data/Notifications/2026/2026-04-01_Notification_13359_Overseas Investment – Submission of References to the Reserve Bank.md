@@ -1,0 +1,63 @@
+---
+doc_id: "Notifications_2026_13359"
+title: "Overseas Investment – Submission of References to the Reserve Bank"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/02APDIR01042026CC321D9006BC43E1B5E7FF31EC93E8D3.PDF"
+pdf_sha256: "5e9fd860602f7123f41498b3ad594dc77bd34d3a776e557a4b2f99539787edb0"
+md_sha256: "bfe20d727e31fb8610a6979f7b42faa2732b277c615b8178aa10e0f66dd21f63"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-01_Notification_13359_Overseas%20Investment%20%E2%80%93%20Submission%20of%20References%20to%20the%20Reserve%20Bank.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Investment – Submission of References to the Reserve Bank
+
+<!-- PAGE 1 -->
+
+**बेटी बचाओ** **बेटी पढ़ाओ**
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2026-27/03
+
+A.P. (DIR Series) Circular No. 02 April 01, 2026
+## All Authorised Dealer Category I Banks
+
+Madam / Sir,
+
+## Overseas Investment – Submission of References to the Reserve Bank
+
+As you are aware, references pertaining to Overseas Investment received from Persons Resident in India through AD banks are currently processed centrally at Foreign Exchange Department, Central Office of the Reserve Bank. It has now been decided that such references shall be processed at seven Regional Offices of the Reserve Bank as specified in the following paragraph, with effect from April 01, 2026.
+
+2. AD banks, which were hitherto forwarding such references to the Central Office of the Reserve Bank, are now advised to submit the same to the designated Regional Offices through PRAVAAH portal of the Reserve Bank as per the UIN (Unique Identification Number of the foreign entity) mapping given below:
+## Sr. Regional Office of RBI to which
+
+## UIN with prefix
+
+## No the reference is to be sent to
+
+1. AH Ahmedabad
+
+|2.|BG|Bengaluru|
+|---|---|---|
+|3.|BL or BY or PJ|Mumbai|
+|4.|BN or CA or GA or GH|Kolkata|
+|5.|CG or JM or JR or KA or ND or PT or|New Delhi|
+|6.|HY|Hyderabad|
+|7.|KO or MA|Chennai|
+
+वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+3. Necessary amendments are being carried out in the <u>Master Direction-Overseas</u> <u>Investment dated July 24, 2024</u>.
+4. AD banks may bring the contents of the circular to the notice of their customers/ constituents concerned.
+5. The directions contained in this circular have been issued under sections 10(4), 11(1) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(N Senthil Kumar) Chief General Manager

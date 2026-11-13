@@ -1,0 +1,86 @@
+---
+doc_id: "Notifications_2026_13371"
+title: "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 04 Entries"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT12418472C86AEE41FBB4A2E7A60D7AA01A.PDF"
+pdf_sha256: "a692975ed4d8c0d2004da9754c95066c8a04ae430138c17da685791992f00fd3"
+md_sha256: "4556de3cd62861b2f15563a33006036b9065f66e5eaa1d54cd75780ea7e8650b"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-15_Notification_13371_Implementation%20of%20Section%2051A%20of%20UAPA%2C%201967-%20Updates%20to%20UNSC%E2%80%99s%201988%20%282011%29%20Taliban%20Sanctions%20List-%20Amendment%20of%2004%20Entries.pdf"
+verification_status: "NEEDS_REVIEW"
+---
+# Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 04 Entries
+
+<!-- PAGE 1 -->
+
+RBI/2026-27/12 DOR.AML.REC.2/14.06.001/2026-27 April 15, 2026
+
+The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Financial Institutions
+
+Madam/Dear Sir, **Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011)** **Taliban Sanctions List: Amendment of 04 Entries**
+
+Please refer to Chapter IX on “*Requirements/obligations under International Agreements*
+
+*- Communications from International Agencies*” of the Reserve Bank of India-Know Your Customer, Directions, 2025 dated November 28, 2025 (amended as on December 29, 2025) (“Directions”), as per which, regulated entity shall ensure that in terms of section 51A of the Unlawful Activities (Prevention) (UAPA) Act, 1967 and amendments thereto, it does not have any account in the name of individuals / entities appearing in the lists of individuals and entities, suspected of having terrorist links, which are approved by and periodically circulated by the United Nations Security Council (UNSC).
+2. In this connection, Ministry of External Affairs (MEA), Government of India has informed about the UNSC press release SC/16336 dated April 13, 2026 wherein the Security Council Committee established and maintained pursuant to Security Council resolution 1988 (2011) has enacted amendments to the ‘Taliban Sanctions List’, which includes names of individuals and entities associated with the Taliban.
+2.1 The Security Council Committee pursuant to resolution 1988 (2011) enacted the amendments specified with strikethrough and/or underline in the entries below on its 1988 List of individuals and entities subject to the assets freeze, travel ban and arms embargo set out in paragraph 1 of Security Council resolution 2816 (2026), and adopted under Chapter VII of the Charter of the United Nations. िविनयमन िवभाग, कें द्र ी य कायार्लय, कें द्र ी य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह मागर्, फोटर्, मुंबई-400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+## A. <u>Individuals</u>
+
+**TAi.002 Name:** 1: MOHAMMAD 2: HASSAN 3: AKHUND 4: na
+
+## Name (original script): محمد حسن آخوند
+
+**Title: a)** Mullah **b)** Haji **Designation: a)** First Deputy, Council of Ministers under the Taliban regime (1996-2001) **b)** Foreign Minister under the Taliban regime (1996-
+
+2001) **c)** Governor of Kandahar under the Taliban regime(1996-2001) **d)** Political Advisor of Mullah Mohammed Omar **DOB: a)** Between 1955 and 1958 **b)** Between 1945 and 1950 **POB:** Pashmul village, Panjwai District, Kandahar Province, Afghanistan **Good quality a.k.a.:** na **Low quality**
+**a.k.a.:** na **Nationality:** Afghanistan **Passport no:** Afghanistan number P04581926, issued on 7 Aug. 2024, issued in Kandahar, Afghanistan (expires 7 Aug. 2034) **National** **identification no:** na **Address:** Kabul, Afghanistan **Listed on:** 25 Jan. 2001 (amended on 3 Sep. 2003, 20 Dec. 2005, 9 Jul. 2007, 21 Sep. 2007, 29 Nov. 2011, 10 Mar. 2026, <u>13 Apr. 2026</u>) **Other information:** A close associate of Mullah Mohammed Omar (TAi.004). Member of Taliban Supreme Council as at Dec. 2009. Belongs to <s>Kakar</s> <u>Baabar</u> tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: [https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals](https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals) **TAi.024 Name:** 1: ABDUL GHANI 2: BARADAR 3: ABDUL AHMAD TURK 4: na
+عبدالغنی برادر عبد االحمد ترک **Name (original script):**
+
+**Title:** Mullah **Designation:** Deputy Minister of Defence under the Taliban regime (1996-
+
+2001) **DOB: a)** Approximately 1968 **b)** 29 Sep. 1963 **POB:** Yatimak village, Dehrawood District, Uruzgan Province, Afghanistan **Good quality a.k.a.: a)** Mullah Baradar Akhund **b)** Abdul Ghani Baradar (previously listed as) **Low quality**
+**a.k.a.:** na **Nationality:** Afghanistan **Passport no: a)** Afghanistan number D0009751, issued on 16 Oct. 2021, issued in Kabul, Afghanistan (expires 16 Oct.
+2026) **b)** Afghanistan number P04999950, issued on 4 Feb. 2025 (expires 4 Feb.
+2035) **National identification no:** na **Address:** Kabul, Afghanistan **Listed on:** 23 Feb. 2001 ( amended on 3 Sep. 2003, 18 Jul. 2007, 21 Sep. 2007, 13 Feb. 2012, 10 Mar. 2026<u>, 13 Apr. 2026</u> ) **Other information:** Belongs to Popalzai tribe. <s>Senior Taliban</s> military commander and member of Taliban Quetta Council as of May 2007. Height 173cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: [https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals](https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals) **TAi.026 Name:** 1: AMIR KHAN 2: MOTAQI 3: na 4: na
+## Name (original script): امیر خان متقی
+
+<!-- PAGE 3 -->
+
+|Title:|Mullah||Designation: a)||||Minister of Education under the Taliban regime (1996-|||
+|---|---|---|---|---|---|---|---|---|---|
+|||Paktia Province, Afghanistan||b)|||Shin Kalai village, Nad-e-Ali District, Helmand Province,|||
+|link:|Afghanistan quality a.k.a.:|Council Special Notice.|na|Good quality a.k.a.: a) Nationality: Amir Khan Mutaqi, name in original script: متقي|Amir Khan Muttaqi Afghanistan D0009716, issued on 25 Sep. 2021, issued in Kabul, Afghanistan (Name in Latin script: 2001 (amended on 3 Sep. 2003, 21 Sep. 2007, 29 Nov. 2011, 10 Mar. 2026 2007. Believed to be in Afghanistan/Pakistan border area. Belongs to Sulaimankhel tribe. Height 170 cm. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security [https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals|b](https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals|b)) Passport no: a) INTERPOL-UN Security Council Special Notice web||AMIR KHAN MUTAQI امیرخان; expires 25 Sep.|Low Afghanistan number, 13 Apr.|
+
+2001) b) Taliban representative in UN-led talks under the Taliban regime (1996-
+2001) DOB: a) Approximately 1968 b) 25 Dec. 1970 c) 1971 POB: a) Zurmat District,
+2026) b) Afghanistan number D0009803, issued on 13 Dec. 2021 (expires on 13 Dec.
+2026) National identification no: na Address: Kabul, Afghanistan Listed on: 25 Jan.
+2026) Other information: Member of the Taliban Supreme Council as of June
+
+**TAi.147 Name:** 1: GUL 2: AGHA 3: ISHAKZAI 4: na
+
+**Name (original script):** ل آغا اسحاقزی كُ
+
+**Title:** na **Designation:** na **DOB: a)** Approximately 1972 **b)** 27 Jul. 1976 **POB:** Band-e Temur, Maiwand District, Kandahar Province, Afghanistan **Good quality a.k.a.: a)** Mullah Gul Agha **b)** Mullah Gul Agha Akhund **c)** HIDAYATULLAH BADRI **d)** HEDAYATULLAH HEDAYAT **e)** HEDAYATULLAH BADRI (name in original script: ھدایت هللا بدري) **Low quality**
+
+**a.k.a.: a)** Hidayatullah **b)** Haji Hidayatullah **c)** Hayadatullah **Nationality:** Afghanistan **Passport** **no: a)** Afghanistan number D0010408, issued on 26 Aug. 2024, issued in Kabul, Afghanistan (Name in Latin script: Hedayatullah Badri; name in original script: ھدایت هللا بدري; expires 26 Aug.
+2029) **b)** Afghanistan number P03318995, issued on 29 Jul. 2020 (Name in Latin script: Hedayatullah Hedayat, expires 29 Jul. 2025) **National identification no:** na **Address:** Ibni- Sina Watt, Kabul, Afghanistan **Listed on:** 20 Jul. 2010 (amended on 29 Nov. 2011, 31 Dec. 2013, 10 Mar. 2026,<u>13 Apr. 2026</u>) **Other information:** <s>Member of a Taliban Council that</s> coordinates the collection of zakat (Islamic tax) from Baluchistan Province, Pakistan. Head of Taliban Financial Commission as at mid-2013. Associated with Mullah Mohammed Omar (TAi.004). Served as Omar's principal finance officer and one of his closest advisors. Belongs to Ishaqzai tribe. Height: 156cm. <u>Photo available for inclusion in the INTERPOL-UN Security</u> <u>Council Special Notice.</u> INTERPOL-UN Security Council Special Notice web link: <u>[https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals](https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals)</u>
+3. Press release dated April 13, 2026 regarding the above can be found at <u>[https://press.un.org/en/2026/sc16336.doc.htm](https://press.un.org/en/2026/sc16336.doc.htm)</u>
+4. In view of the above, regulated entities are advised to take appropriate action in terms of Chapter IX of the aforementioned Directions and strictly follow the procedure as laid down in the UAPA Order dated February 02, 2021 (amended on April 22, 2024) annexed
+## to the directions.
+
+<!-- PAGE 4 -->
+
+5. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+6. Further, as per the instructions from the Ministry of Home Affairs (MHA), any request for de-listing received by any bank, stock exchanges/ depositories, intermediaries regulated by SEBI and Insurance companies is to be forwarded electronically to Joint Secretary (CTCR), MHA for consideration. Individuals, groups, undertakings or entities seeking to be removed from the Security Council’s Taliban Sanctions List can submit their request for delisting to either directly to the Focal Point for Delisting established pursuant to resolution 1730 (2006) or through his/her State of residence or nationality. More details are available at the following URL: <u>[https://main.un.org/securitycouncil/en/sanctions/1988/materials/procedures_delisting](https://main.un.org/securitycouncil/en/sanctions/1988/materials/procedures_delisting)</u>
+7. Regulated entities are advised to take note of the aforementioned UNSC communications and ensure meticulous compliance. Yours faithfully, (Veena Srivastava) Chief General Manager
