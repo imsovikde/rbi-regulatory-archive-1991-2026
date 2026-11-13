@@ -1,0 +1,43 @@
+---
+doc_id: "Press-Releases_2013_29696"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR710RR1013.pdf"
+pdf_sha256: "a2d73ffdc5ffcf8482556672aec33464478980f67cae14ee2cab2f6c785e5f6c"
+md_sha256: "17f029c274f311dcb24e296e097595e28e448075e7b9841878223838c05485b6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:19:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-10-04_Press-Release_29696_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website: www.rbi.org.in
+
+|against the Rupee are given below:|फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 RBI Reference Rate for US $ and Euro The Reserve Bank of India’s Reference Rate for the US dollar is `61.4050 and the Reference Rate for Euro is `83.6790 on October 4, 2013. The corresponding rates for the previous day (October 3, 2013) were `61.9348 and `84.2360 respectively. Based on the Reference Rate for the US dollar and the middle rates of the cross-currency quotes, the exchange rates of GBP and JPY|इ‐मेल email : helpdoc@rbi.org.in|
+|---|---|---|
+|||Date|
+|Currency|October 3, 2013|October 4, 2013|
+|1 GBP|100.4397|99.2857|
+|100 YEN|63.43|63.25|
+
+## October 4, 2013
+
+**Note :** The SDR-Rupee rate will be based on the reference rate.
+
+## Ajit Prasad
+
+**Press Release : 2013-2014/710** Assistant General Manager
