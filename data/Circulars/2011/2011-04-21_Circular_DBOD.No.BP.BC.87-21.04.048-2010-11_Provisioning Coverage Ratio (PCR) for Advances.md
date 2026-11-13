@@ -1,0 +1,114 @@
+---
+doc_id: "Circulars_2011_DBOD_No_BP_BC_87_21_04_048_2010-11"
+title: "Provisioning Coverage Ratio (PCR) for Advances"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PCR220411E.PDF"
+pdf_sha256: "18954039d2976d55580ef0fedfe3df2f8afc1a41a2a24b3ed62c8947c2cafcb9"
+md_sha256: "5f1c0f6238d2057dcc30439cfe242a39265ef0accbf947c366c9ac8df4bacfa0"
+total_pages: 3
+native_pages: 2
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:18:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-04-21_Circular_DBOD.No.BP.BC.87-21.04.048-2010-11_Provisioning%20Coverage%20Ratio%20%28PCR%29%20for%20Advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Provisioning Coverage Ratio (PCR) for Advances
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/485
+
+DBOD.No.BP.BC.87/21.04.048/2010-11
+
+April 21, 2011
+
+The Chairman and ManagingDirector/ Chief Executive Officer
+
+AllScheduled CommercialBanks
+
+(Excluding RRBs)
+
+DearSir/Madam
+
+Provisioning CoverageRatio(PcR)forAdvances
+
+terms of which a Provisioning Coverage Ratio
+
+of 70 percent of gross NPAs was
+
+prescribed, as a macro-prudential measure,
+
+view to augmenting provisioning buffer in a
+
+counter-cyclical manner when the banks
+
+aking good profits.
+
+thdrawr
+
+2. Majority of the banks have since achieved the PCR of 70 percent and have been representing
+
+to RBl whether the prescribed PCR is required to be maintained on an ongoing basis.
+
+3. The matter has been examined by us and till such time RBl introduces a more comprehensive
+
+methodology of countercyclical provisioning taking into account the international standards as
+
+are being currently developed by Basel Committee on Banking Supervision (BCBS) and other
+
+provisioning norms, banks are advised that :
+
+the PCR of 70 percent may be with reference to the gross NPA position in banks as on
+
+i.
+
+September 30, 2010;
+
+ii.
+
+the surplus of the provision under PCR vis-a-vis as required as per prudential norms
+
+computation of which may be undertaken as per the annexed format; and
+
+Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building,
+
+Shahid Bhagat Singh Marg,
+
+Mumbai - 400001 FAX No.22705692./Telephone No.2260 1000Email ID: cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+iii. this buffer will be allowed to be used by banks for making specific provisions for NPAs during periods of system wide downturn, with the prior approval of RBI.
+
+4. Some of the banks that had been granted extension of time beyond the stipulated date i.e. September 30, 2010 for achieving the PCR of 70 percent on their request, should calculate the required provisions for 70 percent PCR as on September 30, 2010 and compute the shortfall therefrom. This shortfall should be built up at the earliest and these banks should reassess the further time required beyond March 31, 2011, if any, to build up the buffer and seek approval from RBI.
+5. As hitherto, the PCR should be disclosed in the Notes to Accounts to the Balance Sheet.
+## Yours faithfully
+
+(B. Mahapatra) Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+||||Format for Computing Countercyclical Provisioning Buffer||||Annex|
+|---|---|---|---|---|---|---|---|
+|||Computing Countercyclical Provisioning Buffer as on September 30, 2010||||Amount in Rs. in Crores||
+|1|2 1. Sub-Standard Advances|3 Gross NPA @ Plus Technical / Prudential Write-off *|4 Specific Provisions for NPAs held/required|5 Provisions for diminution in fair value of the restructured accounts calssified as NPAs|6 Technical write-off|7 Total (4+5+6)|8 Ratio of (7) to (3)|
+|2.|Doubtful Advances (a+b+c) a < 1 year b 1-3 Years c >3 years|||||||
+|3.|Advances classified as Loss Assets|||||||
+|4.|Total|||||||
+|5.|Floating Provisions for Advances (only to the extent they are not used as Tier II Capital)|||||||
+|6.|DICGC / ECGC claims received and held pending adjustment|||||||
+|7.|Part payment received and kept in Suspense Account or any other similar account||Withdrawn|||||
+|8.|Total (Sum of column 7 of Row 4+ Row 5 + Row 6+ Row 7)|||||||
+|9.|Provision Coverage Ratio {(Row 8/Total of Column 3 of Row 4)*100}|||||||
+|10.|If PCR < 70%, shortfall in provisioning to achieve PCR of 70% (70% of Column 3 of Row 4 – Row 8)|||||||
+|11.a|Countercyclical Provisioning Buffer, if bank has achieved PCR of 70% - Floating Provisions for advances to the extent not used as Tier II capital (Row 5)|||||||
+|11.b|Countercyclical Provisioning Buffer, if bank has not achieved PCR of 70% - Floating Provisions for advances to the extent not used as Tier II capital (Row 5) + Shortfall in provisioning to achieve PCR of 70%, if any (Row 10) which needs to be built up at the earliest.|||||||

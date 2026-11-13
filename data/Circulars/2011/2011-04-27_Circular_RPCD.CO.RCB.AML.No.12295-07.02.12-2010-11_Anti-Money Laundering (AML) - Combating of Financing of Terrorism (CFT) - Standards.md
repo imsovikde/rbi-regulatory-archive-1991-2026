@@ -1,0 +1,37 @@
+---
+doc_id: "Circulars_2011_RPCD_CO_RCB_AML_No_12295_07_02_12_2010-11"
+title: "Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AS1270411ES.PDF"
+pdf_sha256: "45871f7b040d98a15588a4b8f1b29c830bc0f09dff9e968307545f4bcc326733"
+md_sha256: "bbf45ab8efc92c260e02865ca3d31db8c2fc17c7e58464daada7e453af07d964"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:18:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-04-27_Circular_RPCD.CO.RCB.AML.No.12295-07.02.12-2010-11_Anti-Money%20Laundering%20%28AML%29%20-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20-%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/490 RPCD.CO.RCB.AML.No.12295 /07.02.12/2010-11 April 27, 2011
+
+The Chairmen / CEOs of all State / Central Co-operative Banks
+
+Dear Sir,
+
+## <u>Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) -</u>
+
+## <u>Standards</u>
+
+Please refer to our letter <u>RPCD.CO.RCB.AML.No. 9886/07.02.12/2010-11 dated March</u> <u>7, 2011</u> on risks arising from the deficiencies in AML/CFT regime of Iran and Democratic People's Republic of Korea (DPRK).
+
+2. Financial Action Task Force (FATF) has issued a further Statement on February 25, 2011 on the subject (<u>copy enclosed</u>) calling its members and other jurisdictions to apply counter-measures to protect the international financial system from the ongoing and substantial money laundering and terrorist financing (ML/FT) risks emanating from Iran and Democratic People’s Republic of Korea(DPRK).
+3. All banks are accordingly advised to take into account risks arising from the deficiencies in AML/CFT regime of these countries, while entering into business Withdrawn relationships and transactions with persons (including legal persons and other financial institutions) from or in these countries/ jurisdictions.
+4. Please advise Principal Officer of your bank to acknowledge receipt of this letter to our concerned Regional Office. Yours faithfully, (C.D.Srinivasan) Chief General Manager
+## Encl: As above
