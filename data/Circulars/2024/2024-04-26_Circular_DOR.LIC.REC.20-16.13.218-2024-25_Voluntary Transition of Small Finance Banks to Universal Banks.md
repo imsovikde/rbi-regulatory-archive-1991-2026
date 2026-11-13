@@ -1,0 +1,60 @@
+---
+doc_id: "Circulars_2024_DOR_LIC_REC_20_16_13_218_2024-25"
+title: "Voluntary Transition of Small Finance Banks to Universal Banks"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARVOLUNTARYTRANSITIONFROMSFBTOUBDC5035CA4F8C4761AF5A5069859F4340.PDF"
+pdf_sha256: "22729f7b141c3bec3d403cace8b6bf364350e111e5013c41c3910805f468d224"
+md_sha256: "fccbfc7403cd7cc657a84785f65b05da8d2d500e4d45d88cf55807ec3a4e4121"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:54:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-04-26_Circular_DOR.LIC.REC.20-16.13.218-2024-25_Voluntary%20Transition%20of%20Small%20Finance%20Banks%20to%20Universal%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Voluntary Transition of Small Finance Banks to Universal Banks
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक **_____________________ RESERVE BANK OF INDIA ______________________** <u>www.rbi.org.in</u> RBI/2024-25/28 DOR.LIC.REC.20/16.13.218/2024-25 April 26, 2024
+
+## All Small Finance Banks
+
+Madam/ Dear Sir,
+
+## Voluntary transition of Small Finance Banks to Universal Banks
+
+Please refer to Paragraph 14 of the <u>“Guidelines for ‘on-tap’ Licensing of Small Finance</u> <u>Banks in Private Sector” dated December 5, 2019</u>, which provides a transition path for Small Finance Banks (SFBs) to convert into Universal Banks. Such conversion shall be subject to the SFB’s fulfilling minimum paid-up capital/ net worth requirement as applicable to Universal Banks, satisfactory track record of performance as an SFB for a minimum period of five years and RBI’s due diligence exercise.
+
+2. These instructions are issued in exercise of the powers conferred on the Reserve Bank of India under Section 22 (1) of the Banking Regulation Act, 1949. **Commencement**
+3. The provisions contained in the circular shall be effective from the date of this
+# Withdrawn
+
+circular. **Applicability**
+
+4. This circular is applicable to all Small Finance Banks. **Provisions**
+5. With the objective of bringing better clarity, the eligibility criteria for an SFB to transition into a Universal bank will now be as follows:
+a) scheduled status with a satisfactory track record of performance for a minimum period of five years;
+b) shares of the bank should have been listed on a recognised stock exchange;
+c) having a minimum net worth of ₹1,000 crore as at the end of the previous quarter (audited);
+d) meeting the prescribed CRAR requirements for SFBs; िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001
+<u>टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691</u> Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+<!-- PAGE 2 -->
+
+e) having a net profit in the last two financial years; and
+f) having GNPA and NNPA of less than or equal to 3 percent and 1 percent respectively in the last two financial years.
+6. The following conditions shall be applicable with regard to shareholding pattern:
+a) There is no mandatory requirement for an eligible SFB to have an identified promoter. However, the existing promoters of the eligible SFB, if any, shall continue as the promoters on transition to Universal Bank.
+b) Addition of new promoters or change in promoters shall not be permitted for an eligible SFB while transitioning to Universal Bank.
+c) There shall be no new mandatory lock-in requirement of minimum shareholding for existing promoters in the transitioned Universal Bank.
+d) There shall be no change to the promoter shareholding dilution plan already approved by the Reserve Bank.
+e) The eligible SFBs having diversified loan portfolio will be preferred.
+7. The eligible SFB shall be required to furnish a detailed rationale for such transition. The application for transition from SFB to Universal Bank shall be assessed in accordance with the <u>Guidelines for ‘on tap’ Licensing of Universal Banks in the Private</u> <u>Sector dated August 1, 2016</u>, as applicable, and <u>Reserve Bank of India (Acquisition</u> <u>and Holding of Shares or Voting Rights in Banking Companies) Directions, 2023 Withdrawn dated</u> <u>January 16, 2023</u>, as amended from time to time. Further, on transition the bank will be subjected to all the norms including NOFHC structure (as applicable) as per the said Guidelines.
+8. The eligible SFB may submit its application for transition to Universal Bank, in the prescribed form (Form III) in terms of Rule 11 of the Banking Regulation (Companies) Rules, 1949, along with other requisite documents, to Department of Regulation, Reserve Bank of India, Central Office, 12
+th Floor, Central Office Building, Shahid Bhagat Singh Road, Mumbai - 400001. Yours faithfully,
+
+(Manoranjan Padhy) Chief General Manager

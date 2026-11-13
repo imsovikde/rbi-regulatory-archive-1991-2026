@@ -1,0 +1,37 @@
+---
+doc_id: "Circulars_2024_DOR_CRE_REC_28_07_10_002_2024-25"
+title: "Small Value Loans - Primary (Urban) Co-operative Banks (UCBs)"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT5344988C6BA27643EBB1E210A27C13CCD3.PDF"
+pdf_sha256: "4e83ffc047814f6f7e656f5e7e01828c699865655f7d7b1e04d007b04e9f17ab"
+md_sha256: "78b0b9d35d65d97d414e8d8a1d2c32fb23a82f72eabc9f2fe1765320a639c8d5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:54:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-07-25_Circular_DOR.CRE.REC.28-07.10.002-2024-25_Small%20Value%20Loans%20-%20Primary%20%28Urban%29%20Co-operative%20Banks%20%28UCBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Small Value Loans - Primary (Urban) Co-operative Banks (UCBs)
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2024-25/53 DOR.CRE.REC.28/07.10.002/2024-25 July 25, 2024
+
+All Primary (Urban) Co-operative Banks Madam / Dear Sir, **Small Value Loans – Primary (Urban) Co-operative Banks (UCBs)** Please refer to paras 2.2 and 2.2.1 of the <u>circular DOR (PCB).BPD.Cir</u> <u>No.10/13.05.000/2019-20 dated March 13, 2020</u>, in terms of which, UCBs were required, *inter alia*, to have at least 50 per cent of their aggregate loans and advances comprising of Small Value Loans, i.e., loans of value not more than ₹25 lakh or 0.2 per cent of their Tier I capital, whichever is higher, subject to a maximum of ₹1 crore, per borrower. The target date for complying with the above requirement was March 31, 2024.
+
+2. Taking into account the representations received by the Bank citing certain difficulties being faced by the UCBs in this regard, it has been decided to extend the glide path to achieve the aforementioned target by two years as given below:
+# Withdrawn
+
+|Target Date →|March 31, 2025|March 31, 2026|
+|---|---|---|
+|Minimum percentage of|||
+|Small Value Loans in aggregate loans and advances →|40%|50%|
+
+3. All other provisions with regard to prudential limits prescribed in the <u>circular dated</u> <u>March 13, 2020</u> referred to above remain unchanged. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager __________________________________________________________________ िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत संह मागर्, फोटर्, मुंबई - 400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 हंदी आसान है, इसका �योग बढ़ाइए

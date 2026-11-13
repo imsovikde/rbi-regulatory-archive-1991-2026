@@ -1,0 +1,37 @@
+---
+doc_id: "Circulars_2024_DOR_MRG_REC_15_00_00_018_2024-25"
+title: "Dealing in Rupee Interest Rate Derivative Products - Small Finance Banks"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DEALINGINRUPEEINTERESTRATEDERIVATIVEPRODUCTSA7E7D3DFC3074657A497E0A237BD391B.PDF"
+pdf_sha256: "22619d9c7ef9214aeece4bd4a243cbf20d26d10d71c863be60caa0c812c25285"
+md_sha256: "4be6e317c1dc00afc8650328cbbd2d7d4b3ddb4d12e5dd025309556a8a2a99dc"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:54:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-04-23_Circular_DOR.MRG.REC.15-00.00.018-2024-25_Dealing%20in%20Rupee%20Interest%20Rate%20Derivative%20Products%20-%20Small%20Finance%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Dealing in Rupee Interest Rate Derivative Products - Small Finance Banks
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2024-25/23 DOR.MRG.REC.15/00.00.018/2024-25 April 23, 2024
+
+### Dealing in Rupee Interest Rate Derivative products-Small Finance Banks
+
+Please refer to paragraph 4 of <u>Statement on Developmental and Regulatory Policies</u> issued as a part of the <u>Bi-monthly Monetary Policy Statement for 2024-25 dated April</u> <u>05, 2024</u> read with Paragraph 1.10 of the <u>‘Operating Guidelines for Small Finance</u> <u>Banks’ dated October 6, 2016</u>.
+
+2. Extant guidelines permit Small Finance Banks (SFBs) to use only Interest Rate Futures (IRFs) for the purpose of proprietary hedging. In order to expand the avenues available to the SFBs for hedging interest rate risk in their balance sheet and commercial operations more effectively as well as with a view to provide them with greater flexibility, it has now been decided to allow them to deal in permissible rupee interest rate derivative products for hedging interest rate risk in terms of the <u>Rupee</u> <u>Interest Rate Derivatives (Reserve Bank) Directions, 2019 dated June 26, 2019</u>, as
+# Withdrawn
+
+amended from time to time. **Applicability**
+
+3. This circular is applicable to all Small Finance Banks.
+4. These instructions shall come into force with immediate effect. Yours faithfully, (Usha Janakiraman) Chief General Manager
+_____________________________________________________________________________-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------_______ वनयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत स ंह मागर्, मंबई ु 400001 टे लफोन /Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691, 5692

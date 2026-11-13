@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2024_DOR_STR_REC_26_21_06_008_2024-25"
+title: "Basel III Capital Regulations - Eligible Credit Rating Agencies (ECAI)"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARBRIPL6FB6F5B6CE5A482B8C68DE63CAB98A18.PDF"
+pdf_sha256: "e330d778348435eb680717de05642842ea8198e6dc4234c08deadc256ec57418"
+md_sha256: "3622ef6a23082bd834457d41ba53c4a2ecf93a3fb41fcaaab1b84e4c50f0d692"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:54:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-07-10_Circular_DOR.STR.REC.26-21.06.008-2024-25_Basel%20III%20Capital%20Regulations%20-%20Eligible%20Credit%20Rating%20Agencies%20%28ECAI%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Basel III Capital Regulations - Eligible Credit Rating Agencies (ECAI)
+
+<!-- PAGE 1 -->
+
+RBI/2024-25/50 DOR.STR.REC.26/21.06.008/2024-25 July 10, 2024
+
+All Scheduled Commercial Banks (including Small Finance Banks) (excluding Local Area Banks, Payments Banks and Regional Rural Banks)
+
+Dear Sir/ Madam,
+
+## Basel III Capital Regulations-Eligible Credit Rating Agencies (ECAI)
+
+Please refer to paragraph 6.1.2 of the <u>Master Circular</u> <u>DOR.CAP.REC.4/21.06.201/2024-25 dated April 1, 2024</u> on **Basel III Capital** **Regulations**, wherein the list of domestic credit rating agencies accredited for the purpose of risk weighting banks' claims for capital adequacy purposes has been prescribed.
+
+2. A reference is also invited to the <u>Press Release: 2022-2023/1033 dated October</u> <u>12, 2022</u> in terms of which, regulated entities/market participants were advised that
+# Withdrawn
+
+in respect of ratings/credit evaluations required in terms of any guidelines issued by the Reserve Bank, no such fresh ratings/evaluations shall be obtained from Brickwork Ratings India Private Limited (the CRA).
+
+3. On a review, banks are hereby permitted to use the ratings of the CRA for risk weighting their claims for capital adequacy purposes, subject to the following:
+a) In respect of fresh rating mandates, rating may be obtained from the CRA for bank loans not exceeding Rs.250 crore.
+b) In respect of existing ratings, the CRA may undertake rating surveillance irrespective of the rated amount, till the residual tenure of such loans. *Provided that* in case of existing ratings assigned to working capital facilities exceeding Rs.250 crore, the CRA shall undertake rating surveillance only till the next renewal of such facility by the banks.
+
+<!-- PAGE 2 -->
+
+4. All other provisions regarding external credit ratings stipulated in the Master Circular *ibid* remain unchanged. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager
+# Withdrawn
