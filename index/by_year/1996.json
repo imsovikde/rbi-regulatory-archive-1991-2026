@@ -1,0 +1,62 @@
+{
+  "documents": [
+    {
+      "category": "Circulars",
+      "document_id": "RPCD.No.BC.36/07.38.01/96-97",
+      "file_path": "Circulars/1996/1996-09-10_Circular_RPCD.No.BC.36-07.38.01-96-97_Operation of Safe Deposits Lockers by Customers.pdf",
+      "folder": "Circulars",
+      "headline": "Operation of Safe Deposits Lockers by Customers",
+      "listing_date": "September 10, 1996",
+      "listing_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=8802&Mode=0",
+      "md_path": "data/Circulars/1996/1996-09-10_Circular_RPCD.No.BC.36-07.38.01-96-97_Operation of Safe Deposits Lockers by Customers.md",
+      "pdf_sha256": "4a04f048ca0a9c85d0bf429a625aa97f321ee76d27a5827c87b1e282c809ccdb",
+      "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/OSDCC10091996.PDF",
+      "status": "DONE",
+      "year": 1996
+    },
+    {
+      "category": "Notifications",
+      "document_id": "203",
+      "file_path": "Notifications/1996/1996-09-06_Notification_203_Schedule IIB.pdf",
+      "folder": "Notifications",
+      "headline": "Schedule IIB",
+      "listing_date": "September 6, 1996",
+      "listing_url": "https://rbi.org.in/scripts/NotificationUser.aspx?Id=203&Mode=0",
+      "md_path": "data/Notifications/1996/1996-09-06_Notification_203_Schedule IIB.md",
+      "pdf_sha256": "039db8fbada5ec58699b4b207e6df0863fa51a6f762ec27f86d47286213b3ba1",
+      "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/14261.pdf",
+      "status": "DONE",
+      "year": 1996
+    },
+    {
+      "category": "Notifications",
+      "document_id": "1354",
+      "file_path": "Notifications/1996/1996-09-10_Notification_1354_Operation of Safe Deposits Lockers by Customers.pdf",
+      "folder": "Notifications",
+      "headline": "Operation of Safe Deposits Lockers by Customers",
+      "listing_date": "September 10, 1996",
+      "listing_url": "https://www.rbi.org.in/commonman/english/Scripts/Notification.aspx?Id=1354",
+      "md_path": "data/Notifications/1996/1996-09-10_Notification_1354_Operation of Safe Deposits Lockers by Customers.md",
+      "pdf_sha256": "915d69792c9ae2374e81f40f76e9ed8f62ca857778605df27f81b42c98d45c73",
+      "pdf_url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/OSDCC10091996.pdf",
+      "status": "DONE",
+      "year": 1996
+    },
+    {
+      "category": "Press-Releases",
+      "document_id": "5817",
+      "file_path": "Press-Releases/1996/1996-08-24_Press-Release_5817_Guidelines for Setting up of Local Area Banks in the Private Sector.pdf",
+      "folder": "Press-Releases",
+      "headline": "Guidelines for Setting up of Local Area Banks in the Private Sector",
+      "listing_date": "Aug 24, 1996",
+      "listing_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=5817",
+      "md_path": null,
+      "pdf_sha256": "1a72a5dff8f6b1a16953b101cfa2d13e0a1a4333aa0c0a5f1805f58f5647ea18",
+      "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/23726.pdf",
+      "status": "PENDING",
+      "year": 1996
+    }
+  ],
+  "total": 4,
+  "year": 1996
+}

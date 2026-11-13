@@ -1,36 +1,31 @@
-# RBI Regulatory Archive 1991-2026
+# RBI Regulatory Archive 1991-2026 - llms.txt
 
-Agent-first Markdown index of every Reserve Bank of India regulatory PDF, 1991-2026.
-88,236 PDFs converted to GitHub-Flavored Markdown with 1:1 path parity under data/.
-Source PDFs (byte-identical, upstream): https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
+Agent entry point. Every RBI regulatory PDF, 1991-2026, converted to GitHub-Flavored Markdown. PDFs are the source of truth and live on Hugging Face; this repository holds the Markdown and indexes.
 
-## Start here
+Total PDFs: 88236. Converted: 16500 (18.6999%).
+Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
-- [Master index](INDEX.md): counts, layout, how to resolve any document
-- [Progress](PROGRESS.md): live conversion percentage
-- [Architecture](ARCHITECTURE.md): pipeline design, batch protocol, failure modes
-- [Manifest: 88,236-file inventory](manifest/hf_88236_inventory.jsonl)
-- [Manifest: conversion ledger](manifest/sha256_conversion_ledger.csv)
-- [Manifest: master catalog](manifest/master_catalog.jsonl)
-- [Manifest: 81,828 direct RBI PDF URLs](manifest/pdf_final_direct_urls.txt)
-- [URL to Markdown path map](index/url_to_path_map.json): O(1) lookup from any RBI or Hugging Face URL to its .md file
+## Indexes
 
-## Categories (0 / 88,236 converted)
+- Master index: INDEX.md
+- URL lookup (any RBI or Hugging Face URL to .md path): index/url_to_path_map.json
+- Full catalog (one JSON object per document): manifest/master_catalog.jsonl
 
-- [Master-Directions](index/by_category/Master-Directions.md): 397 PDFs
-- [Notifications](index/by_category/Notifications.md): 10527 PDFs
-- [Master-Circulars](index/by_category/Master-Circulars.md): 1013 PDFs
-- [Draft-Notifications-Guidelines](index/by_category/Draft-Notifications-Guidelines.md): 546 PDFs
-- [Circulars](index/by_category/Circulars.md): 11690 PDFs
-- [Press-Releases](index/by_category/Press-Releases.md): 64063 PDFs
+## Categories
 
-## Years (1991-2026)
+- Master-Directions: 397/397 converted, index/by_category/Master-Directions.md
+- Notifications: 2854/10527 converted, index/by_category/Notifications.md
+- Master-Circulars: 1013/1013 converted, index/by_category/Master-Circulars.md
+- Draft-Notifications-Guidelines: 546/546 converted, index/by_category/Draft-Notifications-Guidelines.md
+- Circulars: 11690/11690 converted, index/by_category/Circulars.md
+- Press-Releases: 0/64063 converted, index/by_category/Press-Releases.md
 
-Per-year indexes: index/by_year/<YYYY>.md. Years with inventoried PDFs: 1992-2026 (1991 has none).
+## Years
+
+Per-year indexes: index/by_year/<YYYY>.md and index/by_year/<YYYY>.json for 1991 through 2026.
 
 ## How to find a document
 
-1. You have an RBI URL (rbidocs.rbi.org.in or www.rbi.org.in): look it up in index/url_to_path_map.json.
-2. You have a Hugging Face path: the same map covers resolve/main/<path> URLs.
-3. You have a headline or document ID: search manifest/master_catalog.jsonl.
-4. Converted files live at data/<Category>/<Year>/<exact PDF stem>.md, with YAML frontmatter (pdf_sha256, md_sha256, total_pages, engine).
+1. If you have an RBI URL, look it up in index/url_to_path_map.json to get the data/<path>.md file.
+2. If you have a category and year, open the matching index/by_year/<YYYY>.md table.
+3. Converted Markdown lives under data/<Folder>/<Year>/ with the exact PDF stem and a .md extension.

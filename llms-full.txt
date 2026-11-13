@@ -1,307 +1,50 @@
-# RBI Regulatory Archive 1991-2026: Full Agent Directory
+# RBI Regulatory Archive 1991-2026 - llms-full.txt
 
-Exhaustive link map for AI agents. Every category and every year, 1991-2026.
-Converted Markdown files live under data/<Category>/<Year>/<exact PDF stem>.md.
-Per-year and per-category index files below are the authoritative navigation layer.
+Exhaustive agent directory. Every category index and every yearly index, with conversion counts.
 
-## Root files
+## Category indexes
 
-- [README.md](README.md)
-- [INDEX.md](INDEX.md)
-- [PROGRESS.md](PROGRESS.md)
-- [ARCHITECTURE.md](ARCHITECTURE.md)
-- [STATE.json](STATE.json)
-- [llms.txt](llms.txt)
+- index/by_category/Master-Directions.md
+- index/by_category/Notifications.md
+- index/by_category/Master-Circulars.md
+- index/by_category/Draft-Notifications-Guidelines.md
+- index/by_category/Circulars.md
+- index/by_category/Press-Releases.md
 
-## Manifests
+## Yearly indexes
 
-- [manifest/hf_88236_inventory.jsonl](manifest/hf_88236_inventory.jsonl)
-- [manifest/sha256_conversion_ledger.csv](manifest/sha256_conversion_ledger.csv)
-- [manifest/master_catalog.jsonl](manifest/master_catalog.jsonl)
-- [manifest/pdf_final_direct_urls.txt](manifest/pdf_final_direct_urls.txt)
-- [index/url_to_path_map.json](index/url_to_path_map.json)
-- [index/url_collisions.json](index/url_collisions.json)
-
-## Categories
-
-- [Master-Directions (397 PDFs)](index/by_category/Master-Directions.md) | files: data/Master-Directions/
-- [Notifications (10527 PDFs)](index/by_category/Notifications.md) | files: data/Notifications/
-- [Master-Circulars (1013 PDFs)](index/by_category/Master-Circulars.md) | files: data/Master-Circulars/
-- [Draft-Notifications-Guidelines (546 PDFs)](index/by_category/Draft-Notifications-Guidelines.md) | files: data/Draft-Notifications-Guidelines/
-- [Circulars (11690 PDFs)](index/by_category/Circulars.md) | files: data/Circulars/
-- [Press-Releases (64063 PDFs)](index/by_category/Press-Releases.md) | files: data/Press-Releases/
-
-## Years
-
-- [1991](index/by_year/1991.md)
-- [1992](index/by_year/1992.md)
-- [1993](index/by_year/1993.md)
-- [1994](index/by_year/1994.md)
-- [1995](index/by_year/1995.md)
-- [1996](index/by_year/1996.md)
-- [1997](index/by_year/1997.md)
-- [1998](index/by_year/1998.md)
-- [1999](index/by_year/1999.md)
-- [2000](index/by_year/2000.md)
-- [2001](index/by_year/2001.md)
-- [2002](index/by_year/2002.md)
-- [2003](index/by_year/2003.md)
-- [2004](index/by_year/2004.md)
-- [2005](index/by_year/2005.md)
-- [2006](index/by_year/2006.md)
-- [2007](index/by_year/2007.md)
-- [2008](index/by_year/2008.md)
-- [2009](index/by_year/2009.md)
-- [2010](index/by_year/2010.md)
-- [2011](index/by_year/2011.md)
-- [2012](index/by_year/2012.md)
-- [2013](index/by_year/2013.md)
-- [2014](index/by_year/2014.md)
-- [2015](index/by_year/2015.md)
-- [2016](index/by_year/2016.md)
-- [2017](index/by_year/2017.md)
-- [2018](index/by_year/2018.md)
-- [2019](index/by_year/2019.md)
-- [2020](index/by_year/2020.md)
-- [2021](index/by_year/2021.md)
-- [2022](index/by_year/2022.md)
-- [2023](index/by_year/2023.md)
-- [2024](index/by_year/2024.md)
-- [2025](index/by_year/2025.md)
-- [2026](index/by_year/2026.md)
-
-## Category by year
-
-### Master-Directions
-
-- [Master-Directions 1991](index/by_year/1991.md) | data/Master-Directions/1991/
-- [Master-Directions 1992](index/by_year/1992.md) | data/Master-Directions/1992/
-- [Master-Directions 1993](index/by_year/1993.md) | data/Master-Directions/1993/
-- [Master-Directions 1994](index/by_year/1994.md) | data/Master-Directions/1994/
-- [Master-Directions 1995](index/by_year/1995.md) | data/Master-Directions/1995/
-- [Master-Directions 1996](index/by_year/1996.md) | data/Master-Directions/1996/
-- [Master-Directions 1997](index/by_year/1997.md) | data/Master-Directions/1997/
-- [Master-Directions 1998](index/by_year/1998.md) | data/Master-Directions/1998/
-- [Master-Directions 1999](index/by_year/1999.md) | data/Master-Directions/1999/
-- [Master-Directions 2000](index/by_year/2000.md) | data/Master-Directions/2000/
-- [Master-Directions 2001](index/by_year/2001.md) | data/Master-Directions/2001/
-- [Master-Directions 2002](index/by_year/2002.md) | data/Master-Directions/2002/
-- [Master-Directions 2003](index/by_year/2003.md) | data/Master-Directions/2003/
-- [Master-Directions 2004](index/by_year/2004.md) | data/Master-Directions/2004/
-- [Master-Directions 2005](index/by_year/2005.md) | data/Master-Directions/2005/
-- [Master-Directions 2006](index/by_year/2006.md) | data/Master-Directions/2006/
-- [Master-Directions 2007](index/by_year/2007.md) | data/Master-Directions/2007/
-- [Master-Directions 2008](index/by_year/2008.md) | data/Master-Directions/2008/
-- [Master-Directions 2009](index/by_year/2009.md) | data/Master-Directions/2009/
-- [Master-Directions 2010](index/by_year/2010.md) | data/Master-Directions/2010/
-- [Master-Directions 2011](index/by_year/2011.md) | data/Master-Directions/2011/
-- [Master-Directions 2012](index/by_year/2012.md) | data/Master-Directions/2012/
-- [Master-Directions 2013](index/by_year/2013.md) | data/Master-Directions/2013/
-- [Master-Directions 2014](index/by_year/2014.md) | data/Master-Directions/2014/
-- [Master-Directions 2015](index/by_year/2015.md) | data/Master-Directions/2015/
-- [Master-Directions 2016](index/by_year/2016.md) | data/Master-Directions/2016/
-- [Master-Directions 2017](index/by_year/2017.md) | data/Master-Directions/2017/
-- [Master-Directions 2018](index/by_year/2018.md) | data/Master-Directions/2018/
-- [Master-Directions 2019](index/by_year/2019.md) | data/Master-Directions/2019/
-- [Master-Directions 2020](index/by_year/2020.md) | data/Master-Directions/2020/
-- [Master-Directions 2021](index/by_year/2021.md) | data/Master-Directions/2021/
-- [Master-Directions 2022](index/by_year/2022.md) | data/Master-Directions/2022/
-- [Master-Directions 2023](index/by_year/2023.md) | data/Master-Directions/2023/
-- [Master-Directions 2024](index/by_year/2024.md) | data/Master-Directions/2024/
-- [Master-Directions 2025](index/by_year/2025.md) | data/Master-Directions/2025/
-- [Master-Directions 2026](index/by_year/2026.md) | data/Master-Directions/2026/
-
-### Notifications
-
-- [Notifications 1991](index/by_year/1991.md) | data/Notifications/1991/
-- [Notifications 1992](index/by_year/1992.md) | data/Notifications/1992/
-- [Notifications 1993](index/by_year/1993.md) | data/Notifications/1993/
-- [Notifications 1994](index/by_year/1994.md) | data/Notifications/1994/
-- [Notifications 1995](index/by_year/1995.md) | data/Notifications/1995/
-- [Notifications 1996](index/by_year/1996.md) | data/Notifications/1996/
-- [Notifications 1997](index/by_year/1997.md) | data/Notifications/1997/
-- [Notifications 1998](index/by_year/1998.md) | data/Notifications/1998/
-- [Notifications 1999](index/by_year/1999.md) | data/Notifications/1999/
-- [Notifications 2000](index/by_year/2000.md) | data/Notifications/2000/
-- [Notifications 2001](index/by_year/2001.md) | data/Notifications/2001/
-- [Notifications 2002](index/by_year/2002.md) | data/Notifications/2002/
-- [Notifications 2003](index/by_year/2003.md) | data/Notifications/2003/
-- [Notifications 2004](index/by_year/2004.md) | data/Notifications/2004/
-- [Notifications 2005](index/by_year/2005.md) | data/Notifications/2005/
-- [Notifications 2006](index/by_year/2006.md) | data/Notifications/2006/
-- [Notifications 2007](index/by_year/2007.md) | data/Notifications/2007/
-- [Notifications 2008](index/by_year/2008.md) | data/Notifications/2008/
-- [Notifications 2009](index/by_year/2009.md) | data/Notifications/2009/
-- [Notifications 2010](index/by_year/2010.md) | data/Notifications/2010/
-- [Notifications 2011](index/by_year/2011.md) | data/Notifications/2011/
-- [Notifications 2012](index/by_year/2012.md) | data/Notifications/2012/
-- [Notifications 2013](index/by_year/2013.md) | data/Notifications/2013/
-- [Notifications 2014](index/by_year/2014.md) | data/Notifications/2014/
-- [Notifications 2015](index/by_year/2015.md) | data/Notifications/2015/
-- [Notifications 2016](index/by_year/2016.md) | data/Notifications/2016/
-- [Notifications 2017](index/by_year/2017.md) | data/Notifications/2017/
-- [Notifications 2018](index/by_year/2018.md) | data/Notifications/2018/
-- [Notifications 2019](index/by_year/2019.md) | data/Notifications/2019/
-- [Notifications 2020](index/by_year/2020.md) | data/Notifications/2020/
-- [Notifications 2021](index/by_year/2021.md) | data/Notifications/2021/
-- [Notifications 2022](index/by_year/2022.md) | data/Notifications/2022/
-- [Notifications 2023](index/by_year/2023.md) | data/Notifications/2023/
-- [Notifications 2024](index/by_year/2024.md) | data/Notifications/2024/
-- [Notifications 2025](index/by_year/2025.md) | data/Notifications/2025/
-- [Notifications 2026](index/by_year/2026.md) | data/Notifications/2026/
-
-### Master-Circulars
-
-- [Master-Circulars 1991](index/by_year/1991.md) | data/Master-Circulars/1991/
-- [Master-Circulars 1992](index/by_year/1992.md) | data/Master-Circulars/1992/
-- [Master-Circulars 1993](index/by_year/1993.md) | data/Master-Circulars/1993/
-- [Master-Circulars 1994](index/by_year/1994.md) | data/Master-Circulars/1994/
-- [Master-Circulars 1995](index/by_year/1995.md) | data/Master-Circulars/1995/
-- [Master-Circulars 1996](index/by_year/1996.md) | data/Master-Circulars/1996/
-- [Master-Circulars 1997](index/by_year/1997.md) | data/Master-Circulars/1997/
-- [Master-Circulars 1998](index/by_year/1998.md) | data/Master-Circulars/1998/
-- [Master-Circulars 1999](index/by_year/1999.md) | data/Master-Circulars/1999/
-- [Master-Circulars 2000](index/by_year/2000.md) | data/Master-Circulars/2000/
-- [Master-Circulars 2001](index/by_year/2001.md) | data/Master-Circulars/2001/
-- [Master-Circulars 2002](index/by_year/2002.md) | data/Master-Circulars/2002/
-- [Master-Circulars 2003](index/by_year/2003.md) | data/Master-Circulars/2003/
-- [Master-Circulars 2004](index/by_year/2004.md) | data/Master-Circulars/2004/
-- [Master-Circulars 2005](index/by_year/2005.md) | data/Master-Circulars/2005/
-- [Master-Circulars 2006](index/by_year/2006.md) | data/Master-Circulars/2006/
-- [Master-Circulars 2007](index/by_year/2007.md) | data/Master-Circulars/2007/
-- [Master-Circulars 2008](index/by_year/2008.md) | data/Master-Circulars/2008/
-- [Master-Circulars 2009](index/by_year/2009.md) | data/Master-Circulars/2009/
-- [Master-Circulars 2010](index/by_year/2010.md) | data/Master-Circulars/2010/
-- [Master-Circulars 2011](index/by_year/2011.md) | data/Master-Circulars/2011/
-- [Master-Circulars 2012](index/by_year/2012.md) | data/Master-Circulars/2012/
-- [Master-Circulars 2013](index/by_year/2013.md) | data/Master-Circulars/2013/
-- [Master-Circulars 2014](index/by_year/2014.md) | data/Master-Circulars/2014/
-- [Master-Circulars 2015](index/by_year/2015.md) | data/Master-Circulars/2015/
-- [Master-Circulars 2016](index/by_year/2016.md) | data/Master-Circulars/2016/
-- [Master-Circulars 2017](index/by_year/2017.md) | data/Master-Circulars/2017/
-- [Master-Circulars 2018](index/by_year/2018.md) | data/Master-Circulars/2018/
-- [Master-Circulars 2019](index/by_year/2019.md) | data/Master-Circulars/2019/
-- [Master-Circulars 2020](index/by_year/2020.md) | data/Master-Circulars/2020/
-- [Master-Circulars 2021](index/by_year/2021.md) | data/Master-Circulars/2021/
-- [Master-Circulars 2022](index/by_year/2022.md) | data/Master-Circulars/2022/
-- [Master-Circulars 2023](index/by_year/2023.md) | data/Master-Circulars/2023/
-- [Master-Circulars 2024](index/by_year/2024.md) | data/Master-Circulars/2024/
-- [Master-Circulars 2025](index/by_year/2025.md) | data/Master-Circulars/2025/
-- [Master-Circulars 2026](index/by_year/2026.md) | data/Master-Circulars/2026/
-
-### Draft-Notifications-Guidelines
-
-- [Draft-Notifications-Guidelines 1991](index/by_year/1991.md) | data/Draft-Notifications-Guidelines/1991/
-- [Draft-Notifications-Guidelines 1992](index/by_year/1992.md) | data/Draft-Notifications-Guidelines/1992/
-- [Draft-Notifications-Guidelines 1993](index/by_year/1993.md) | data/Draft-Notifications-Guidelines/1993/
-- [Draft-Notifications-Guidelines 1994](index/by_year/1994.md) | data/Draft-Notifications-Guidelines/1994/
-- [Draft-Notifications-Guidelines 1995](index/by_year/1995.md) | data/Draft-Notifications-Guidelines/1995/
-- [Draft-Notifications-Guidelines 1996](index/by_year/1996.md) | data/Draft-Notifications-Guidelines/1996/
-- [Draft-Notifications-Guidelines 1997](index/by_year/1997.md) | data/Draft-Notifications-Guidelines/1997/
-- [Draft-Notifications-Guidelines 1998](index/by_year/1998.md) | data/Draft-Notifications-Guidelines/1998/
-- [Draft-Notifications-Guidelines 1999](index/by_year/1999.md) | data/Draft-Notifications-Guidelines/1999/
-- [Draft-Notifications-Guidelines 2000](index/by_year/2000.md) | data/Draft-Notifications-Guidelines/2000/
-- [Draft-Notifications-Guidelines 2001](index/by_year/2001.md) | data/Draft-Notifications-Guidelines/2001/
-- [Draft-Notifications-Guidelines 2002](index/by_year/2002.md) | data/Draft-Notifications-Guidelines/2002/
-- [Draft-Notifications-Guidelines 2003](index/by_year/2003.md) | data/Draft-Notifications-Guidelines/2003/
-- [Draft-Notifications-Guidelines 2004](index/by_year/2004.md) | data/Draft-Notifications-Guidelines/2004/
-- [Draft-Notifications-Guidelines 2005](index/by_year/2005.md) | data/Draft-Notifications-Guidelines/2005/
-- [Draft-Notifications-Guidelines 2006](index/by_year/2006.md) | data/Draft-Notifications-Guidelines/2006/
-- [Draft-Notifications-Guidelines 2007](index/by_year/2007.md) | data/Draft-Notifications-Guidelines/2007/
-- [Draft-Notifications-Guidelines 2008](index/by_year/2008.md) | data/Draft-Notifications-Guidelines/2008/
-- [Draft-Notifications-Guidelines 2009](index/by_year/2009.md) | data/Draft-Notifications-Guidelines/2009/
-- [Draft-Notifications-Guidelines 2010](index/by_year/2010.md) | data/Draft-Notifications-Guidelines/2010/
-- [Draft-Notifications-Guidelines 2011](index/by_year/2011.md) | data/Draft-Notifications-Guidelines/2011/
-- [Draft-Notifications-Guidelines 2012](index/by_year/2012.md) | data/Draft-Notifications-Guidelines/2012/
-- [Draft-Notifications-Guidelines 2013](index/by_year/2013.md) | data/Draft-Notifications-Guidelines/2013/
-- [Draft-Notifications-Guidelines 2014](index/by_year/2014.md) | data/Draft-Notifications-Guidelines/2014/
-- [Draft-Notifications-Guidelines 2015](index/by_year/2015.md) | data/Draft-Notifications-Guidelines/2015/
-- [Draft-Notifications-Guidelines 2016](index/by_year/2016.md) | data/Draft-Notifications-Guidelines/2016/
-- [Draft-Notifications-Guidelines 2017](index/by_year/2017.md) | data/Draft-Notifications-Guidelines/2017/
-- [Draft-Notifications-Guidelines 2018](index/by_year/2018.md) | data/Draft-Notifications-Guidelines/2018/
-- [Draft-Notifications-Guidelines 2019](index/by_year/2019.md) | data/Draft-Notifications-Guidelines/2019/
-- [Draft-Notifications-Guidelines 2020](index/by_year/2020.md) | data/Draft-Notifications-Guidelines/2020/
-- [Draft-Notifications-Guidelines 2021](index/by_year/2021.md) | data/Draft-Notifications-Guidelines/2021/
-- [Draft-Notifications-Guidelines 2022](index/by_year/2022.md) | data/Draft-Notifications-Guidelines/2022/
-- [Draft-Notifications-Guidelines 2023](index/by_year/2023.md) | data/Draft-Notifications-Guidelines/2023/
-- [Draft-Notifications-Guidelines 2024](index/by_year/2024.md) | data/Draft-Notifications-Guidelines/2024/
-- [Draft-Notifications-Guidelines 2025](index/by_year/2025.md) | data/Draft-Notifications-Guidelines/2025/
-- [Draft-Notifications-Guidelines 2026](index/by_year/2026.md) | data/Draft-Notifications-Guidelines/2026/
-
-### Circulars
-
-- [Circulars 1991](index/by_year/1991.md) | data/Circulars/1991/
-- [Circulars 1992](index/by_year/1992.md) | data/Circulars/1992/
-- [Circulars 1993](index/by_year/1993.md) | data/Circulars/1993/
-- [Circulars 1994](index/by_year/1994.md) | data/Circulars/1994/
-- [Circulars 1995](index/by_year/1995.md) | data/Circulars/1995/
-- [Circulars 1996](index/by_year/1996.md) | data/Circulars/1996/
-- [Circulars 1997](index/by_year/1997.md) | data/Circulars/1997/
-- [Circulars 1998](index/by_year/1998.md) | data/Circulars/1998/
-- [Circulars 1999](index/by_year/1999.md) | data/Circulars/1999/
-- [Circulars 2000](index/by_year/2000.md) | data/Circulars/2000/
-- [Circulars 2001](index/by_year/2001.md) | data/Circulars/2001/
-- [Circulars 2002](index/by_year/2002.md) | data/Circulars/2002/
-- [Circulars 2003](index/by_year/2003.md) | data/Circulars/2003/
-- [Circulars 2004](index/by_year/2004.md) | data/Circulars/2004/
-- [Circulars 2005](index/by_year/2005.md) | data/Circulars/2005/
-- [Circulars 2006](index/by_year/2006.md) | data/Circulars/2006/
-- [Circulars 2007](index/by_year/2007.md) | data/Circulars/2007/
-- [Circulars 2008](index/by_year/2008.md) | data/Circulars/2008/
-- [Circulars 2009](index/by_year/2009.md) | data/Circulars/2009/
-- [Circulars 2010](index/by_year/2010.md) | data/Circulars/2010/
-- [Circulars 2011](index/by_year/2011.md) | data/Circulars/2011/
-- [Circulars 2012](index/by_year/2012.md) | data/Circulars/2012/
-- [Circulars 2013](index/by_year/2013.md) | data/Circulars/2013/
-- [Circulars 2014](index/by_year/2014.md) | data/Circulars/2014/
-- [Circulars 2015](index/by_year/2015.md) | data/Circulars/2015/
-- [Circulars 2016](index/by_year/2016.md) | data/Circulars/2016/
-- [Circulars 2017](index/by_year/2017.md) | data/Circulars/2017/
-- [Circulars 2018](index/by_year/2018.md) | data/Circulars/2018/
-- [Circulars 2019](index/by_year/2019.md) | data/Circulars/2019/
-- [Circulars 2020](index/by_year/2020.md) | data/Circulars/2020/
-- [Circulars 2021](index/by_year/2021.md) | data/Circulars/2021/
-- [Circulars 2022](index/by_year/2022.md) | data/Circulars/2022/
-- [Circulars 2023](index/by_year/2023.md) | data/Circulars/2023/
-- [Circulars 2024](index/by_year/2024.md) | data/Circulars/2024/
-- [Circulars 2025](index/by_year/2025.md) | data/Circulars/2025/
-- [Circulars 2026](index/by_year/2026.md) | data/Circulars/2026/
-
-### Press-Releases
-
-- [Press-Releases 1991](index/by_year/1991.md) | data/Press-Releases/1991/
-- [Press-Releases 1992](index/by_year/1992.md) | data/Press-Releases/1992/
-- [Press-Releases 1993](index/by_year/1993.md) | data/Press-Releases/1993/
-- [Press-Releases 1994](index/by_year/1994.md) | data/Press-Releases/1994/
-- [Press-Releases 1995](index/by_year/1995.md) | data/Press-Releases/1995/
-- [Press-Releases 1996](index/by_year/1996.md) | data/Press-Releases/1996/
-- [Press-Releases 1997](index/by_year/1997.md) | data/Press-Releases/1997/
-- [Press-Releases 1998](index/by_year/1998.md) | data/Press-Releases/1998/
-- [Press-Releases 1999](index/by_year/1999.md) | data/Press-Releases/1999/
-- [Press-Releases 2000](index/by_year/2000.md) | data/Press-Releases/2000/
-- [Press-Releases 2001](index/by_year/2001.md) | data/Press-Releases/2001/
-- [Press-Releases 2002](index/by_year/2002.md) | data/Press-Releases/2002/
-- [Press-Releases 2003](index/by_year/2003.md) | data/Press-Releases/2003/
-- [Press-Releases 2004](index/by_year/2004.md) | data/Press-Releases/2004/
-- [Press-Releases 2005](index/by_year/2005.md) | data/Press-Releases/2005/
-- [Press-Releases 2006](index/by_year/2006.md) | data/Press-Releases/2006/
-- [Press-Releases 2007](index/by_year/2007.md) | data/Press-Releases/2007/
-- [Press-Releases 2008](index/by_year/2008.md) | data/Press-Releases/2008/
-- [Press-Releases 2009](index/by_year/2009.md) | data/Press-Releases/2009/
-- [Press-Releases 2010](index/by_year/2010.md) | data/Press-Releases/2010/
-- [Press-Releases 2011](index/by_year/2011.md) | data/Press-Releases/2011/
-- [Press-Releases 2012](index/by_year/2012.md) | data/Press-Releases/2012/
-- [Press-Releases 2013](index/by_year/2013.md) | data/Press-Releases/2013/
-- [Press-Releases 2014](index/by_year/2014.md) | data/Press-Releases/2014/
-- [Press-Releases 2015](index/by_year/2015.md) | data/Press-Releases/2015/
-- [Press-Releases 2016](index/by_year/2016.md) | data/Press-Releases/2016/
-- [Press-Releases 2017](index/by_year/2017.md) | data/Press-Releases/2017/
-- [Press-Releases 2018](index/by_year/2018.md) | data/Press-Releases/2018/
-- [Press-Releases 2019](index/by_year/2019.md) | data/Press-Releases/2019/
-- [Press-Releases 2020](index/by_year/2020.md) | data/Press-Releases/2020/
-- [Press-Releases 2021](index/by_year/2021.md) | data/Press-Releases/2021/
-- [Press-Releases 2022](index/by_year/2022.md) | data/Press-Releases/2022/
-- [Press-Releases 2023](index/by_year/2023.md) | data/Press-Releases/2023/
-- [Press-Releases 2024](index/by_year/2024.md) | data/Press-Releases/2024/
-- [Press-Releases 2025](index/by_year/2025.md) | data/Press-Releases/2025/
-- [Press-Releases 2026](index/by_year/2026.md) | data/Press-Releases/2026/
+- 1992: 2/100 converted, index/by_year/1992.md, index/by_year/1992.json
+- 1993: 9/53 converted, index/by_year/1993.md, index/by_year/1993.json
+- 1994: 5/36 converted, index/by_year/1994.md, index/by_year/1994.json
+- 1995: 0/18 converted, index/by_year/1995.md, index/by_year/1995.json
+- 1996: 3/4 converted, index/by_year/1996.md, index/by_year/1996.json
+- 1997: 8/132 converted, index/by_year/1997.md, index/by_year/1997.json
+- 1998: 27/668 converted, index/by_year/1998.md, index/by_year/1998.json
+- 1999: 124/1772 converted, index/by_year/1999.md, index/by_year/1999.json
+- 2000: 206/2360 converted, index/by_year/2000.md, index/by_year/2000.json
+- 2001: 258/2136 converted, index/by_year/2001.md, index/by_year/2001.json
+- 2002: 506/2220 converted, index/by_year/2002.md, index/by_year/2002.json
+- 2003: 467/2124 converted, index/by_year/2003.md, index/by_year/2003.json
+- 2004: 685/2154 converted, index/by_year/2004.md, index/by_year/2004.json
+- 2005: 928/2463 converted, index/by_year/2005.md, index/by_year/2005.json
+- 2006: 938/2737 converted, index/by_year/2006.md, index/by_year/2006.json
+- 2007: 1236/3081 converted, index/by_year/2007.md, index/by_year/2007.json
+- 2008: 861/3158 converted, index/by_year/2008.md, index/by_year/2008.json
+- 2009: 744/3295 converted, index/by_year/2009.md, index/by_year/2009.json
+- 2010: 869/3271 converted, index/by_year/2010.md, index/by_year/2010.json
+- 2011: 860/3423 converted, index/by_year/2011.md, index/by_year/2011.json
+- 2012: 938/3788 converted, index/by_year/2012.md, index/by_year/2012.json
+- 2013: 935/4001 converted, index/by_year/2013.md, index/by_year/2013.json
+- 2014: 910/4110 converted, index/by_year/2014.md, index/by_year/2014.json
+- 2015: 838/4405 converted, index/by_year/2015.md, index/by_year/2015.json
+- 2016: 509/4564 converted, index/by_year/2016.md, index/by_year/2016.json
+- 2017: 297/4548 converted, index/by_year/2017.md, index/by_year/2017.json
+- 2018: 240/3892 converted, index/by_year/2018.md, index/by_year/2018.json
+- 2019: 328/3971 converted, index/by_year/2019.md, index/by_year/2019.json
+- 2020: 288/2415 converted, index/by_year/2020.md, index/by_year/2020.json
+- 2021: 271/2375 converted, index/by_year/2021.md, index/by_year/2021.json
+- 2022: 312/2431 converted, index/by_year/2022.md, index/by_year/2022.json
+- 2023: 215/2510 converted, index/by_year/2023.md, index/by_year/2023.json
+- 2024: 244/2880 converted, index/by_year/2024.md, index/by_year/2024.json
+- 2025: 814/3913 converted, index/by_year/2025.md, index/by_year/2025.json
+- 2026: 625/3228 converted, index/by_year/2026.md, index/by_year/2026.json
