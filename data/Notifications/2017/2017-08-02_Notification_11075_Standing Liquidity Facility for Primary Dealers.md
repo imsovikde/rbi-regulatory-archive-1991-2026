@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2017_11075"
+title: "Standing Liquidity Facility for Primary Dealers"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NTI33D0542B1B79D74E8288C34A6DC9903457.PDF"
+pdf_sha256: "f5980d4470bb5d65c0acf183b68ae1e78f313bf1716723e57922cd01dd6cae72"
+md_sha256: "da76415c1e6952a9aadc99ad68e3ee479a122852ed5f583adb002de4e016ce06"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-08-02_Notification_11075_Standing%20Liquidity%20Facility%20for%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standing Liquidity Facility for Primary Dealers
+
+<!-- PAGE 1 -->
+
+## RBI/2017-2018/33 Shravana 11,1939 (Saka) REF.No.MPD.BC.382/07.01.279/2017-18 August 2, 2017
+
+To
+
+## All Primary Dealers
+
+Dear Sir/Madam,
+
+## Standing Liquidity Facility for
+
+## Primary Dealers
+
+Please refer to the <u>Third Bi-monthly Monetary Policy Statement, 2017-</u> <u>18 - Resolution of the Monetary Policy Committee (MPC)</u>, in terms of which the repo rate under the Liquidity Adjustment Facility (LAF) has been reduced by 25 basis points from 6.25 per cent to 6.0 per cent with immediate effect.
+
+2. Accordingly, the Standing Liquidity Facility provided to Primary Dealers (PDs) (collateralised liquidity support) from the Reserve Bank would be available at the revised repo rate, *i.e.,* at 6.0 per cent with effect from August 2, 2017.
+Yours faithfully,
+
+## (Janak Raj) Principal Adviser
+
+_________________________________________________________________________________________ Monetary Policy Department, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.406, Mumbai-400 001 Tel.: (91-22) 2270 4227 Fax : (91-22) 2270 0849 / 2261 0430 E-mail : helpmpd@rbi.org.in

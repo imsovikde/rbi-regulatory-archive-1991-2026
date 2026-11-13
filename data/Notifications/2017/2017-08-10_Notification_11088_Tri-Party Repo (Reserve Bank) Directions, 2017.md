@@ -1,0 +1,144 @@
+---
+doc_id: "Notifications_2017_11088"
+title: "Tri-Party Repo (Reserve Bank) Directions, 2017"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI4230FD85135E6C4A36AE1986EDC0CE8CB9.PDF"
+pdf_sha256: "231c2d09c478acff3dc8e2d15e92f29d675246196c41c6773aa9d3d7cf7264ae"
+md_sha256: "ca81c78aec3fb55fee49889a8c74740d0577084ca0d64137e9b2ea4888142281"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-08-10_Notification_11088_Tri-Party%20Repo%20%28Reserve%20Bank%29%20Directions%2C%202017.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Tri-Party Repo (Reserve Bank) Directions, 2017
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> **This circular has been superseded by Repurchase Transactions (Repo) (Reserve Bank)** **Directions, 2018 dated July 24, 2018.**
+
+RBI/2017-18/42 FMRD.DIRD.4/14.03.024/2017-18 August 10, 2017
+
+To All market participants
+
+Dear Sir/Madam <u>Tri-Party Repo (Reserve Bank) Directions, 2017</u> Please refer to Paragraph 6 of the <u>statement on Developmental and Regulatory</u> <u>Policies</u>, Reserve Bank of India issued as part of the <u>third Bi-monthly Monetary Policy</u> <u>Statement for 2017-18 dated August 2, 2017</u> regarding introduction of tri-party repos.
+
+2. The draft tri-party directions were released for public comments on <u>April 11, 2017</u>. Based on the feedback, the Tri-Party Repo (Reserve Bank) Directions, 2017 have been finalised. The Directions are enclosed herewith.
+## Yours faithfully
+
+(T. Rabi Sankar) Chief General Manager
+
+वत्तीय बाज़ार व�नयमन वभाग,कद्रय कायार्लय, पहल मंिजल, मुख्य भवन,शहद भगत संह मागर्, फोटर्,मुंबई–400001.भारत फोन: (91-22) 2260 3000,फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in Financial Markets Regulation Department, Central Office, 1 st Floor, Main Building,ShahidBhagat SinghMarg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 3000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+## RESERVE BANK OF INDIA
+
+## FINANCIAL MARKETS REGULATION DEPARTMENT
+
+## 1st FLOOR, CENTRAL OFFICE, FORT
+
+## MUMBAI 400 001
+
+## FMRD.DIRD.3/CGM (TRS) - 2017 dated August 10, 2017 Tri-Party Repo (Reserve Bank) Directions, 2017
+
+The Reserve Bank of India having considered it necessary in public interest and to promote the development of the financial system of the country, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby issues the Tri-Party Repo (Reserve Bank) Directions, 2017 dated August 10, 2017 (the Directions).
+
+1. **Short Title and commencement**
+1.1 These directions shall be referred to as the Tri-Party Repo (Reserve Bank) Directions, 2017.
+## 2. Definitions:
+
+a. "Repo" means an instrument for borrowing funds by selling securities with an agreement to repurchase the securities on a mutually agreed future date at an agreed price which includes interest for the funds borrowed.
+b. "Reverse repo" means an instrument for lending funds by purchasing securities with an agreement to resell the securities on a mutually agreed future date at an agreed price which includes interest for the funds lent.
+c. Tri-party repo is a type of repo contract where a third entity (apart from the borrower and lender), called a Tri-Party Agent, acts as an intermediary between the two parties to the repo to facilitate services like collateral selection, payment and settlement, custody and management during the life of the transaction.
+**3. Eligible Collateral:** Eligible collateral for tri-party repo shall be securities as specified in Repo Directions FMRD.DIRD.03/14.03.002/2014-15 dated February 3, 2015 and FMRD.DIRD.6/14.03.002/2016-17 dated August 25, 2016 or such other directions issued by the Reserve Bank from time to time.
+
+<!-- PAGE 3 -->
+
+**4. Eligible Participants:** Eligible participants will be as specified in Repo Directions FMRD.DIRD.03/14.03.002/2014-15 dated February 3, 2015; FMRD.DIRD.6/14.03.002/2016-17 dated August 25, 2016, or such other directions issued by the Reserve Bank from time to time.
+**5. Trading Process:** Tri-party repo may be traded using any trading process authorised under these directions by the Reserve Bank, including Bilateral/ Multilateral, anonymous or otherwise, quote driven or order driven.
+**6. Trading Venue:** Tri-party repo may be traded Over-the-counter (OTC) including on electronic platforms, or, on stock exchanges.
+**7. Reporting of Trades:** All tri-party repos shall be reported within 15 minutes of the trade for public dissemination to CCIL or to exchanges or any other reporting platform authorised for the purpose by the Reserve Bank.
+**8. Documentation:** Participants shall enter into standard bilateral master repo agreements unless the agent provides a multilateral trading platform. Separate agreements between a participant and a tri-party agent would be required as per the documentation prescribed by the tri-party agent.
+**9. Settlement:** All settlements will be on Delivery vs Payment (DvP) basis, with or without netting of securities and/or cash. Settlement can also be guaranteed or non-guaranteed Bilateral/Multilateral, through clearing houses of exchanges or any other clearing arrangement approved under the Payment and Settlement Systems Act, 2007.
+**10. Tenor, Haircut and Disclosures:** The tenor, minimum haircut, and disclosure requirements for tri-party repos will be identical to those applicable to normal repos, in terms of the Reserve Bank directions FMRD.DIRD.03/14.03.002/2014-15 dated February 3, 2015, FMRD.DIRD.6/14.03.002/2016-17 dated August 25, 2016, or such other directions, issued by the Reserve Bank from time to time.
+## 11. Tri-Party Agent:
+
+I. Eligible Tri-Party Agents
+A. All tri-party agents need prior authorisation from the Reserve Bank to act in that capacity.
+B. Scheduled commercial banks, recognised stock exchanges and clearing corporations of stock exchanges or clearing corporations authorised under PSS Act., are eligible to be tri- party agents.
+
+<!-- PAGE 4 -->
+
+C. Other entities regulated by the Reserve Bank or SEBI are eligible, subject to meeting the following criteria:
+(a) Regulatory Approval
+(i) The applicant should have approval from the regulator concerned to conduct business of a tri-party agent. (ii) An applicant will not be eligible for authorisation as an agent, if within the last 5 years, it has been subject to adverse regulatory action or other punitive action that the Reserve Bank considers material.
+(b) Financial Criteria
+(i) The applicant should have minimum paid up equity share capital of Rs. 25 crore which should be maintained at all times. (ii) The foreign shareholding, if any, of the applicant entity would be as per the extant foreign investment policy.
+
+|(c) Experience||
+|---|---|
+||The applicant should have past experience of at least five years in the financial sector, in India or abroad, preferably in custody, clearing or settlement services.|
+|(d) Infrastructure|Tri-party agents should put in place adequate system infrastructure to carry out their functions.|
+
+D. Roles and Obligations:
+(i) The agent shall provide equitable access for trading to all its members/market participants. (ii) The trading process should be transparently specified. (iii) All trades may be reported as indicated in Para 7 above. (iv) In case the agent undertakes settlement of trades itself, it would seek approval under the PSS Act 2007. Agents not settling trades themselves will be responsible for routing the trades for settlement.
+
+<!-- PAGE 5 -->
+
+(v) The agent shall be responsible for revaluation of the collateral, margining, income payments on the collateral, as well as substitution of any collateral as per terms and conditions prescribed in the member agreement. (vi) The agent shall be required to put in place transparent and reliable collateral valuation norms. (vii) The agent shall be required to maintain records of trades in easily retrievable media for at least 8 years. (viii) The agent shall ensure adherence to the Reserve Bank’s repo directions. (ix) The agent shall submit to the Reserve Bank such returns, documents and other information as may be required by the Reserve Bank from time to time.
+E. Application Procedure for Authorisation of Tri-Party Agent:
+(i) Entities meeting the eligibility criteria as outlined in para 11 (I) (B) and (C) above may apply in the prescribed format (Annex) to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, 1st Floor, Main Building, Shaheed Bhagat Singh Marg, Mumbai – 400001 (ii) The decision to authorise entities to act as Tri-Party Agent in repo market will be taken by the Reserve Bank based on its assessment of market needs, suitability of the applicant and the likely value addition to the repo market. (iii) Any significant change(s) in processes, risk management framework, settlement arrangement, or in any other conditions specified at the time of approval, shall require prior approval by the Reserve Bank.
+## II. Exit Procedure
+
+If an authorised Tri-Party agent intends to terminate operations, it should abide by the timing and date of termination of Tri-Party operations, and any other condition stipulated by the Reserve Bank.
+
+**12.** Triparty agents shall adhere to such terms and conditions as the Reserve Bank may specify at the time of approval or at any other time.
+
+<!-- PAGE 6 -->
+
+**13.** The provisions in these directions shall prevail if they conflict with the earlier repo directions issued by the Reserve Bank.
+## (T. Rabi Sankar)
+
+## Chief General Manager
+
+<!-- PAGE 7 -->
+
+## Annex
+
+## APPLICATION FORM FOR AUTHORISATION OF TRI-PARTY AGENT IN REPO MARKET
+
+From Name and address of registered office/ principal place of business of applicant (By Registered Post AD/ Hand Delivery)
+
+To Chief General Manager Financial Markets Regulation Department Reserve Bank of India Central Office 1st Floor RBI Main Building Shaheed Bhagat Singh Marg Mumbai –400001
+
+Dear Sir, Application for authorization as Tri-Party Agent in Repo Market We hereby submit an application for authorization as Tri-Party Agent for repos in corporate debt securities and/ or Government securities (Strike out whichever is not applicable). The required information and documents have been furnished as per instructions.
+
+2. We declare that to the best of our knowledge and belief the information furnished in the statements/annexes enclosed are true, correct and complete. Yours faithfully Signature: Name: Designation: Company Seal:
+Date and Place: Encl: sheets
+
+<!-- PAGE 8 -->
+
+## APPLICATION FOR AUTHORISATION AS TRI-PARTY AGENT IN REPO MARKET
+
+## PART – A
+
+1. Name of applicant
+2. Constitution of applicant
+(a) Is the applicant a company or firm or any other entity
+(b) If the applicant is a company, is it a private limited company or public limited company
+(c) If the applicant is any other entity please specify the statute under which it is incorporated/established
+3. Address of Registered Office and Principal Offices (if applicant is a company)
+4. Whether approval of regulator (RBI/SEBI) obtained? Please attach original approval
+## PART – B
+
+1. Name of the segment for authorization as tri-party agent: Government Securities and/ or Corporate Debt Securities.
+2. Full details of the proposal for tri-party repo to be furnished, including trading process, trading venue, necessary infrastructure for reporting of trades, connectivity to the authorised clearing corporation, settlement arrangements and other details as required in these directions.
+3. Previous experience of applicant in financial market (Please specify experience in custody business, if any)
+4. An undertaking by the CEO of the applicant company that it has not been subject to litigation or adverse regulatory action or punitive action in the last 5 years

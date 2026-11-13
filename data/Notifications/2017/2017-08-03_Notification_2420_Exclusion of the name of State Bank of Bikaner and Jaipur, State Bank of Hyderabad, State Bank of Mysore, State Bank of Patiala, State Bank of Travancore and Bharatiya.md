@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2017_2420"
+title: "Exclusion of the name of State Bank of Bikaner and Jaipur, State Bank of Hyderabad, State Bank of Mysore, State Bank of Patiala, State Bank of Travancore and Bharatiya Mahila Bank from the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI38394C3924FD904602A80C7ECF1E3E996F.PDF"
+pdf_sha256: "7fc2ef659db6cc2816fae337e4e89ee7e7a417f8ce1a1a6d1c0445218110df26"
+md_sha256: "49332aba2de1d9c2de75daff71aec935c4e622fa830883f9f5b23c141a3286ef"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-08-03_Notification_2420_Exclusion%20of%20the%20name%20of%20State%20Bank%20of%20Bikaner%20and%20Jaipur%2C%20State%20Bank%20of%20Hyderabad%2C%20State%20Bank%20of%20Mysore%2C%20State%20Bank%20of%20Patiala%2C%20State%20Bank%20of%20Travancore%20and%20Bharatiya.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exclusion of the name of State Bank of Bikaner and Jaipur, State Bank of Hyderabad, State Bank of Mysore, State Bank of Patiala, State Bank of Travancore and Bharatiya Mahila Bank from the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+## RBI/2017-18/37 DBR.No.Ret.BC.80/12.06.004/2017-18 August 03, 2017
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+<u>Exclusion of the name of State Bank of Bikaner and Jaipur, State Bank of</u> <u>Hyderabad, State Bank of Mysore, State Bank of Patiala, State Bank of</u> <u>Travancore and Bharatiya Mahila Bank from the Second Schedule to the</u> <u>Reserve Bank of India Act, 1934</u>
+
+We advise that the names of State Bank of Bikaner and Jaipur, State Bank of Hyderabad, State Bank of Mysore, State Bank of Patiala, State Bank of Travancore and Bharatiya Mahila Bank have been excluded from the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.No.Ret.BC.57/12.06.004/ 2017-18 dated March 30, 2017, and published in the Gazette of India (**Part III -** **Section 4**) dated July 15 – July 21, 2017.
+
+## Yours faithfully
+
+(M.G.Suprabhat) Deputy General Manager
+
+**बकं ग व�नयमन वभाग, कद्रय कायार्लय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, 400001** **Department of Banking Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**

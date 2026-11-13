@@ -1,0 +1,24 @@
+---
+doc_id: "Notifications_2017_11122"
+title: "Change in name of “Gopinath Patil Parsik Janata Sahakari Bank, Ltd., Thane ” to “GP Parsik Sahakari Bank Ltd, Kalwa, Thane “ in the Second Schedule to the Reserve Bank of India,1934"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/59NT2109178EB1E5911C2547479440EBF68A79C740.PDF"
+pdf_sha256: "75616fb6d961c2483df309a40dce746d25110d4ef2678bba5d4d4f0f6186da6c"
+md_sha256: "8692566db4c7047815558778828b81821dd89cdd5a084fe6f086921b0ff7f91a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-09-21_Notification_11122_Change%20in%20name%20of%20%E2%80%9CGopinath%20Patil%20Parsik%20Janata%20Sahakari%20Bank%2C%20Ltd.%2C%20Thane%20%E2%80%9D%20to%20%E2%80%9CGP%20Parsik%20Sahakari%20Bank%20Ltd%2C%20Kalwa%2C%20Thane%20%E2%80%9C%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Ban.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in name of “Gopinath Patil Parsik Janata Sahakari Bank, Ltd., Thane ” to “GP Parsik Sahakari Bank Ltd, Kalwa, Thane “ in the Second Schedule to the Reserve Bank of India,1934
+
+<!-- PAGE 1 -->
+
+|RBI/2017-18/59 Dear Sir/ Madam Yours faithfully, (Neeraj Nigam)|All Co-operative Banks Chief General Manager|the Reserve Bank of India,1934 We advise that the name of सहकार बक व�नयमन वभाग, कद्रय कायार्लय, सी- 7, पहल/ दसर Phone: 022 – 26578300/ 26578100|DCBR.RAD. (PCB/RCB) Cir. No. 4/07.12.001/2017-18 of India (Part III-Section 4) dated September 2, 2017. Department of Co-operative Bank Regulation, Central Office, C-7, 1 �हंद|फोन: 022–26578300/ 26578100; फै क् स : 022-26571117; ई-मेल: आसान|_____________________RESERVE BANK OF INDIA___________________ Change in name of “Gopinath Patil Parsik Janata Sahakari Bank, Ltd., Thane Thane” has been changed to “GP Parsik Sahakari Bank Ltd, Kalwa, Thane“ in the Second Schedule to the Reserve Bank of India,1934 by Notification DCBR.RAD. Mumbai – 400 051 है,|भारतीय रज़वर् बक www.rbi.org.in to “GP Parsik Sahakari Bank Ltd, Kalwa, Thane “ in the Second Schedule to (PCB). Not. No. 1/08.02.205/2016-17 dated March 15, 2017 published in the Gazette ू; Fax: 022 - 26571117; E इसका प्रयोग|st / 2 बढ़ाइए|nd —|“Gopinath Patil Parsik Janata Sahakari Bank, Ltd., मंिज़ल, बांद्रा कु लार् संकु ल, बांद्रा (पूवर्), मुंबई – 400 051 cgmdcbrco@rbi.org.in Floor, Bandra Kurla Complex, Bandra (E), -mail: cgmdcbrco@rbi.org.in|September 21, 2017 ”|
+|---|---|---|---|---|---|---|---|---|---|---|
+|चेतावनी: भारतीय �रज़वर् बक द्वारा ई-मेल, नहं मांगी जाती||डाक, है। यह धन रखने या देने का||एसएमएस या फोन कॉल के ज�रए कसी क|Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.||प्रस्ताव भी नहं करता है। ऐसे प्रस्ताव का कसी भी तरके|भी व्यिक्त|क जानकार जैसे बक के खाते का ब्यौरा,|पासवडर् आ�द से जवाब मत दिजए।|

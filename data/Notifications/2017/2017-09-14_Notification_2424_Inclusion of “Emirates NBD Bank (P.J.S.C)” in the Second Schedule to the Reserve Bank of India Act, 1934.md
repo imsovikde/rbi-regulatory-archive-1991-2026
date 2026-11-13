@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2017_2424"
+title: "Inclusion of “Emirates NBD Bank (P.J.S.C)” in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT56140917C08568222307448E92C82B71A306F121.PDF"
+pdf_sha256: "c4734eefebc61eb748754fe739d3ec8f125bb5ca3e8ab470ac6a8275cdc97796"
+md_sha256: "c478a4fe01214e89c2fe8e0dcb646aa32e97525c2cf02a118d493ef30371e41a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-09-14_Notification_2424_Inclusion%20of%20%E2%80%9CEmirates%20NBD%20Bank%20%28P.J.S.C%29%E2%80%9D%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of “Emirates NBD Bank (P.J.S.C)” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+## RBI/2017-18/56 DBR.No.Ret.BC.86/12.07.150/2017-18 September 14, 2017
+
+## All Scheduled Commercial Banks
+
+Dear Sir/Madam,
+
+<u>Inclusion of “Emirates NBD Bank (P.J.S.C)” in the Second Schedule to the</u> <u>Reserve Bank of India Act, 1934</u>
+
+We advise that the “**Emirates NBD Bank (P.J.S.C)**” has been included in the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.IBD.No.855/23.13.014/2017-18 dated July 26, 2017, and published in the Gazette of India (**Part III-Section 4**) dated September 02 – September 08, 2017.
+
+## Yours faithfully
+
+(M.G.Suprabhat) Deputy General Manager
+
+<u>बकं ग व�नयमन वभाग, कद्रय कायार्लय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, मुंबई 400001</u> **Department of Banking Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**
