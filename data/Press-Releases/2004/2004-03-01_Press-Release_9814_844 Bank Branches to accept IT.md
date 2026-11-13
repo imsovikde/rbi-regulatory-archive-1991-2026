@@ -1,0 +1,38 @@
+---
+doc_id: "Press-Releases_2004_9814"
+title: "844 Bank Branches to accept IT"
+category: "Press-Releases"
+year: 2004
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/51888.pdf"
+pdf_sha256: "88014abd752bab6b9fc1b194778603666020c6eadd6a1869a55aed868f88c236"
+md_sha256: "a0730e78da87aa0c194ba81f85ca17b51844d3fe0bc7210b1b4a2f1a12d10c08"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T15:28:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-03-01_Press-Release_9814_844%20Bank%20Branches%20to%20accept%20IT.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 844 Bank Branches to accept IT
+
+<!-- PAGE 1 -->
+
+**PRESS RELATIONS DIVISION**, Central Office, Post Box 406, Mumbai 400001**RESERVE BANK OF** Phone: 2266 0502 Fax: 2266 0358, 2270 3279**INDIA** **RBI On Internet:** <u>[http://www.rbi.org.in](http://www.rbi.org.in)</u>
+
+# Email: <u>helpprd@rbi.org.in</u>
+
+## March 1, 2004
+
+## 844 Bank Branches to accept IT
+
+The Reserve Bank of India has advised income-tax assessees in the cities of Mumbai and Navi Mumbai to take advantage of paying their income tax dues at any of the designated bank branches. The income-tax department has authorised 844 computerised branches of public sector banks and private sector banks in Mumbai and Navi Mumbai to accept payment of income- tax dues. Of these, 790 are public sector bank branches, 23 branches of HDFC Bank, 9 branches each of ICICI Bank and IDBI Bank and 13 branches of UTI Bank.
+
+The Reserve Bank has also advised income-tax assessees to avoid last minute rush at the Reserve Bank's/designated banks' counters and to deposit the income-tax dues sufficiently in advance.
+
+## P. V. Sadanandan
+
+## Manager
+
+## Press Release: 2003-2004/1039
