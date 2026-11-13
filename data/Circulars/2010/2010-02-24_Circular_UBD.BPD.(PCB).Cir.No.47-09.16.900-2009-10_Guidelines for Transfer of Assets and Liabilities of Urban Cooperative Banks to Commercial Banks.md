@@ -1,0 +1,260 @@
+---
+doc_id: "Circulars_2010_UBD_BPD_PCB_Cir_No_47_09_16_900_2009-10"
+title: "Guidelines for Transfer of Assets and Liabilities of Urban Cooperative Banks to Commercial Banks"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IRMCB240210.PDF"
+pdf_sha256: "0041c827cc1d0147faf1507fd23776c9ac40c47b7da0db780d5ffb22f76e6c1a"
+md_sha256: "ad544a5793ce88c8ab1dd492d238bbb50a2b3421ce7e838acf908217c342a417"
+total_pages: 8
+native_pages: 6
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T08:50:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-02-24_Circular_UBD.BPD.%28PCB%29.Cir.No.47-09.16.900-2009-10_Guidelines%20for%20Transfer%20of%20Assets%20and%20Liabilities%20of%20Urban%20Cooperative%20Banks%20to%20Commercial%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines for Transfer of Assets and Liabilities of Urban Cooperative Banks to Commercial Banks
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.
+
+RBI/2009-10/325
+
+UBD.BPD(PCB).Cir.No.47/09.16.900 /2009-10
+
+February 24,2010
+
+The Chief Executive Officer
+
+Primary (Urban) Cooperative Banks
+
+Dear Sir / Madam
+
+Guidelines for transfer of assets and liabilities of Urban Cooperative Banks to
+
+commercialbanks
+
+Please refer to our circular PCB.Cir.43/09.16.900/08-09 dared January 30, 2009 on
+
+guidelines for merger / amalgamation of Urban Cogp
+
+guidelines inter alia provide that in legacy c
+
+.e. for UCBs having negative net
+
+worth as on March 31，2007，the
+
+Bank may consider scheme of
+
+amalgamation that provides for paymx
+
+depositors under Section 16(2) of the
+
+Deposit Insurance and Credit Gua
+
+Corporation Act, 1961, financial contribution
+
+by the transferee bank and sacrifice by large depositors. It has since been decided
+
+that the Reserve Bank may also consider scheme of transfer of assets and liabilities
+
+(including branches) of UCBs to commercial banks with DICGC support in legacy
+
+cases, as an additional option for resolution of weak banks, where proposals for
+
+amalgamation within the UCB sector were not forthcoming. The scheme should
+
+ensure 1o0 per cent protection to depositors and DicGC support would be restricted
+
+to the amount provided under Section 16(2) of the DlCGC Act, 1961. The UCB
+
+continues to have negative net worth as on the date of transfer.
+
+2. The guidelines for transfer of assets and liabilities of UCBs to commercial banks are
+
+given in Annex I. Further, guidelines for valuations of assets and liabilities of the
+
+transferor bank are detailed in Annex ll. The incentives that may be provided to the
+
+transferee bank are listed in Annex Ill.
+
+1
+
+<!-- PAGE 2 -->
+
+3. The new guidelines may be placed before the Board of Directors of your bank for
+
+their information.
+
+4.
+
+Please acknowledge receipt to the Regional Office of Reserve Bank.
+
+Yours faithfully
+
+(A.K. Khound)
+
+Chief General Manager-in-Charge
+
+Encl:asabove
+
+Withdrawn
+
+e f, aqq,  34, e , .g.., 可,  - 400 018,
+
+>l
+
+时T: 022 - 2493 9930 - 49; aH: 022 - 2497 4030 / 2492 0231; $: rbiubdco@rbi.org.in
+
+Urban BanksDepartment,Central Office,Garment House,1 Floor,Dr.A.B.Road,Worli,Mumbai-40o018,India
+
+Phone:022-2493 9930-49;Fax:022-2497 4030/ 2492 0231;Email:rbiubdco@rbi.0rg.in
+
+2
+
+<!-- PAGE 3 -->
+
+## Annex I
+
+## Guidelines for transfer of assets and liabilities of Urban Cooperative Banks
+
+## (having negative net worth) to commercial banks with DICGC support
+
+The following guidelines are laid down for considering sanction of scheme of transfer of assets and liabilities (including branches) of UCBs (having negative net worth) to commercial banks with DICGC support.
+
+## 1. Eligibility
+
+1.1 The transfer of assets and liabilities of UCBs to commercial banks with DICGC support may be considered by the Reserve Bank in legacy cases, i.e. in case of UCBs, whose net worth was assessed negative through statutory inspections with reference to their financial position as on March 31, 2007 or earlier and which continue to have negative net worth as on the date of transfer.
+1.2 The UCB concerned should be registered either in a State, which has signed MOU with the Reserve Bank or under the Multi-State Cooperative Societies Act, 2002, where RCS/CRCS concerned assures to order such transfers in public interest.
+1.3 The proposals may be considered where the transferee bank has obtained regulatory approval for the same.
+# Withdrawn
+
+## 2. Essential conditions
+
+## 2.1 Audit-cum-Due diligence
+
+The audit-cum-due diligence should be carried out in respect of the transferor bank with reference to the financial position as at the close of business of the day immediately preceding the effective date of transfer. For this purpose, independent auditors (chartered accountants) may be appointed by the transferee bank with the concurrence of DICGC.
+
+## 2.2 Valuation of assets & liabilities
+
+The valuations of assets and liabilities of the transferor bank should be as per the guidelines given in Annex II. The assets should be grouped into two categories, viz. readily realizable (hereafter called as “readily realizable assets”) and non-readily realizable (hereafter called as “non-readily realizable assets”). Loans and advances which are ‘standard’ assets and ‘substandard’ assets will be classified as ‘readily
+
+<!-- PAGE 4 -->
+
+realizable’ assets and loans and advances which are ‘doubtful’ assets and ‘loss’ assets will be classified as ‘non-readily realizable’ assets.
+
+## 2.3 Deposit coverage ratio
+
+2.3.1 The scheme of transfer should provide the proportion of deposits of the transferor bank, which will be taken over by the transferee bank out of the ‘’readily realizable assets’’ of the transferor bank and from its own initial contribution, hereafter referred to as ”deposit coverage ratio”. The deposit coverage ratio shall not be less than 65 per cent. Higher deposit coverage ratio may be insisted upon depending upon the RBI assessment.
+2.3.2 The “deposit coverage ratio” may be worked out in the following manner:
+(a) The amount due to preferred and secured creditors should be deducted from the “readily realizable assets”, to determine the “net readily realizable asset”. Similarly, the amount due to preferred and secured creditors should be deducted from the total outside liabilities (i.e. the sum of the total liabilities to depositors and all other creditors, including provisions for expenses, taxes, etc.) to arrive at “net outside liabilities”.
+(b) The “net readily realizable assets” (say x) plus the amount of initial contribution to be made by the transferee bank (say y) divided by the “net amount of outside liabilities” (say z), may be called the “depos
+# Withdrawn
+
+it coverage ratio” [(say x + y) / z].
+
+## 2.4 Protection for depositors whose deposits are upto Rs. One lakh
+
+The scheme should provide for 100 per cent protection to the depositors whose deposits are upto Rs. One lakh out of the net readily realizable assets, initial contribution made by the transferee bank and support from DICGC. Accordingly, to the extent of the deposit coverage ratio, the deposits will be taken over by the transferee bank and for the balance DICGC will make payment in accordance with paragraph 2.6 below.
+
+## 2.5 Protection for depositors whose deposits exceed Rs. One lakh
+
+In respect of depositors whose deposits exceed Rs. One lakh, deposits to the extent of the deposit coverage ratio will be taken over by the transferee bank and DICGC will make payment in accordance with para 2.6 below. The excess of deposits remaining after the deposits taken over by the transferee bank and the DICGC
+
+<!-- PAGE 5 -->
+
+payment will be paid or provided for by the transferee bank by an additional contribution.
+
+## 2.6 Claims on DICGC
+
+DICGC may pay to the depositors to the extent and in the manner prescribed under Section 16(2) of the DICGC Act, 1961. Only in respect of the insured depositors, the transferee bank may lodge claim with DICGC for the amount equivalent to the difference between (a) the balance in deposit accounts of each depositor up to Rs One lakh or Rs. One lakh in case the balance exceeds Rs One lakh and (b) amount paid or credited to every such depositor as per the deposit coverage ratio specified in the scheme, on the date on which the scheme comes into force (a-b).
+
+## 2.7 Protection for preferred and secured creditor
+
+The liabilities to preferred and secured creditors will be fully taken over by the transferee bank.
+
+## 2.8 Protection for unsecured creditors (other than depositors)
+
+In respect of unsecured creditors (other than depositors), all liabilities will be taken over by transferee bank by an additional contribution.
+
+## 2.9 Sharing of the recoveries from “non readily realizable assets”
+
+All recoveries against ‘non-readily realiz Withdrawn able’ assets will be kept in a separate ‘collection’ account. As per provisions of the DICGC Act, 1961 and the DICGC General Regulations, 1961, the transferee bank shall repay the amount paid by the Corporation out of recoveries made from non readily realizable assets after making provision for expenses in respect of such realizations. Though the Corporation has priority in appropriation of recoveries out of non readily realizable assets, it may consider sharing the recoveries from the “non readily realizable assets” net of expenses with the transferee bank, keeping in view the financial contribution made by the transferee bank. If any balance remains after settling the claims of DICGC and the transferee bank, the same will be distributed pro-rata among the shareholders of the transferor bank.
+
+## 3. Operational procedures
+
+The transferor and the transferee bank may be guided by the operational procedures laid down vide circular PCB.Cir.36/09.169.00/04-05 dated February 2, 2005. ********
+
+<!-- PAGE 6 -->
+
+## Annex II
+
+## Guidelines for valuation of assets & liabilities in case of transfer of assets and
+
+## liabilities of Urban Cooperative Banks to commercial banks
+
+The independent auditors (Chartered Accountants) appointed by the transferee bank with the concurrence of DICGC should value the assets and reckon the liabilities of the transferor bank in accordance with the following provisions:
+
+## 1. Cash & bank balances
+
+Cash & bank balances are to be reckoned at their book value unless there is reasonable doubt about the repayment of deposits by the banks with which such balances are held. In the latter case, the realizable value of the deposits may be ascertained and reckoned, taking into account the financial position of the bank concerned and the facts and circumstances relevant for such assessment.
+
+## 2. Investments
+
+i) Investments including Government securities shall be valued at the market rates prevailing on the day immediately preceding the date of merger or at the rate as prescribed by Reserve Bank of India under investment guidelines, provided that the securities of the Central Government such as Post Office Certificates, Treasury Savings Deposit Certificates and any other securities or certificates issued under the
+# Withdrawn
+
+Small Saving Scheme of the Central Government shall be valued at their face value or the encashable value as on the date of merger, whichever is higher.
+
+ii) Where the market value of any Government Security such as the Zamindari Abolition Bonds or other similar security in respect of which the Principal is payable in installments, is not ascertainable or is for any reason not considered reflecting the fair value thereof or as otherwise appropriate, the security shall be valued at such an amount as is considered reasonable having regard to the installments of principal and interest remaining to be paid, the period during which such installments are payable, the yield of any security issued by the Govt., to which the security pertains and having the same or approximately the same maturity and other relevant factors.
+
+iii) Where the market value of any security, share, debenture, bond or other investment is not considered reasonable by reason of its having been affected by
+
+<!-- PAGE 7 -->
+
+abnormal factors, the investment may be valued as per the extant valuation guidelines endorsed by Reserve Bank of India.
+
+iv) Where the market value of any security, share, debenture, bond or other investment is not ascertainable, only such value, if any, shall be taken into account as is considered reasonable, having regard to the financial position of the issuing concern, the dividends paid by it during the preceding five years and other relevant factors and neither the transferor bank nor the transferee bank shall question the said valuation as from the date of the merger.
+
+## 3. Loans & advances
+
+The loans and advances including bills purchased and discounted will be classified as per existing prudential norms as ‘standard’, ‘sub-standard’, ‘doubtful’ and ‘loss’ assets and the appropriate provisions made there against. ‘Standard’ assets and ‘sub-standard’ assets will be considered as ‘readily realizable’ assets and ‘doubtful’ assets and ‘loss’ assets will be considered as ‘non-readily realizable’ assets. All loans and advances will be valued at their book value net of the provisions created there against.
+
+## 4. Furniture & fixtures
+
+Furniture and fixtures, computer, all related hardware and peripherals etc. stationery
+
+# Withdrawn
+
+in stock and other assets, if any, shall be valued at the written down value as per books or the realizable value as may be considered reasonable, whichever is lower.
+
+## 5. Premises & immovable properties
+
+Premises and all other immovable properties and any assets acquired in satisfaction of claims shall be valued at their market value.
+
+## 6. Other assets
+
+All other assets will be valued at the lower of their book value or realizable value.
+
+## 7. Liabilities
+
+Liabilities for purpose of this scheme shall include all contingent liabilities, which the transferee bank may reasonably be expected or required to meet after the said date of merger. ********
+
+<!-- PAGE 8 -->
+
+## Annex III
+
+## Incentives to transferee banks
+
+The Reserve Bank may consider the following incentives to the transferee (commercial) bank in case of transfer of assets and liabilities of UCBs.
+
+The transferee bank may be permitted to take over the branches and close down the loss incurring branches (net loss for last three years) of the transferor bank <u>with the</u> <u>prior approval of Reserve Bank of India (DBOD).</u> The shifting / relocation of the branches of the transferor bank may also be permitted by RBI (DBOD) subject to making the banking facilities available to the customers through the existing / relocated branches of the transferor / transferee bank. The transferee bank should submit a detailed proposal for taking over and rationalization of the acquired branches of the concerned UCBs.
+
+********
+
+# Withdrawn
