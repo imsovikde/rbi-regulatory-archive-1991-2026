@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2015_DCBR_BPD_PCB_RCB_Cir_No_37_16_11_00_2014-15"
+title: "Revision in Bank Rate"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR625DA52529500034233A6395F1347163EF1.PDF"
+pdf_sha256: "7763ea7a9bcf8f1d8d2b8e7bfaa7c4314e0bdfe47e605c99b34e3382e0f4cd2e"
+md_sha256: "d577b7593830dc660fd352d8d74766dc072d281d180ba0e5597a07fc472c8f56"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:27:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-06-02_Circular_DCBR.BPD.%28PCB-RCB%29.Cir.No.37-16.11.00-2014-15_Revision%20in%20Bank%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revision in Bank Rate
+
+<!-- PAGE 1 -->
+
+|2. 3.|2015.|RBI/2014-15/625 Madam / Dear Sir, Please refer to our March 4, 2015 June 2, 2015. Yours faithfully, (Suma Varma) फोि : 022 - Department of|The Chief Executive Officer Revision in Bank Rate Principal Chief General Manager Co-operative|All Primary (Urban) Co-operative Banks/ सहकारी बैंक विनियम विभाग, कें द्रीय कायाालय 2493 9930 - 49;|DCBR.BPD.(PCB/RCB).Cir.No.37/16.11.00/2014-15 State and Central Co-operative Banks (StCBs/ CCBs) on the captioned subject. फै क्स|_________________________RESERVE BANK OF INDIA_______________________ As announced in the Monetary Policy Statement dated June 2, 2015, गारमेंट हाऊस हहीदी आसाि है|भारतीय ररज़र्व बैंक www.rbi.org.in stands adjusted by 25 basis points from 8.5 per cent to 8.25 per cent with effect from linked to the Bank Rate, also stand revised as indicated in the Annex. The interest rate Withdrawn on refinance for SSI under Section 17(2) (bb) read with Section 17(4)(c) of the Reserve Bank of India Act, 1934, also stands revised to 8.25 per cent with effect from June 2, : 022 - 2497 4030 / 2492 Bank Regulation, Central Office, Garment House, 1st Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmdcbrco@rbi.org.in,|All penal interest rates on shortfall in reserve requirements, which are specifically 800004 - इसका प्रयोग|circular DCBR.BPD.(PCB/RCB).Cir.No.19/16.11.00/2014-15 dated 0231; बढ़ाइग —|ममटल-|मबीबम ,िरलं ,गिं बटसेंट मागा .ॉड ,लहलं मीलहल ,भारत Floor, Dr. Annie|June 2, 2015, the Bank Rate : cgmdcbrco@rbi.org.in Besant Road,|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||चटताििं: Caution: RBI||भारतंय ररहिा बैंक द्वारा म passwords, etc.It never keeps or|- मटल never sends mails, SMSs or|, ॉाक,|offers funds to||गसगमगस या फोि कडल कट जररग हकसं की भं व्यवि लासिॉा आहद िहीी माीगं जातं है। यह धि रखिट या दटिट का प्रस्ताि भं िहीी करता है। ऐसट प्रस्तािों का हकसं भं तरीकट सट जिाब मत दीलजग। anyone. Please|makes calls asking for personal information like do|not|respond in|की जािकारी जैसट बैंक कट खातट का ब्यौरा, bank account details, any manner to such offers.|
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Penal Interest Rates which are linked to the Bank Rate
+
+|Item|Existing Rate|Revised Rate|
+|---|---|---|
+|||(Effective from June 2,|
+|||2015)|
+|Penal interest rates on|Bank Rate plus 3.0|Bank Rate plus 3.0|
+|shortfalls in reserve|percentage points (11.5|percentage points (11.25|
+|requirements (depending|per cent) or Bank Rate|per cent) or Bank Rate plus|
+|on duration of shortfalls)|plus 5.0 percentage points (13.5 per cent)|5.0 percentage points (13.25 per cent)|
+
+# Withdrawn

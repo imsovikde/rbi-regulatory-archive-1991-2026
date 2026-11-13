@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2015_DBR_No_BAPD_BC_92_22_01_003_2014-15"
+title: "Acquisition of Accommodation on Lease / Rental basis by Commercial Banks for their use (i.e. for Office and Residence of Staff) - Liberalization of Guidelines"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PDRCB30042015EE018C7EB80D4CD2B95AF36337616DF8.PDF"
+pdf_sha256: "f8da50d3caf0ddabc73d8fc374555ed1a352217c1cd61e82bcdd6258697e9789"
+md_sha256: "63f7fd829709a566b9e8018ac608d0e8db2738cdb006758e14ea0a5ab47f4385"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:26:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-04-30_Circular_DBR.No.BAPD.BC.92-22.01.003-2014-15_Acquisition%20of%20Accommodation%20on%20Lease%20-%20Rental%20basis%20by%20Commercial%20Banks%20for%20their%20use%20%28i.e.%20for%20Office%20and%20Residence%20of%20Staff%29%20-%20Liberaliza.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Acquisition of Accommodation on Lease / Rental basis by Commercial Banks for their use (i.e. for Office and Residence of Staff) - Liberalization of Guidelines
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बकैं
+
+## ________________________RESERVE BANK OF INDIA________________________
+
+www.rbi.org.in RBI/2014-15/582 DBR.No.BAPD.BC.92/22.01.003/2014-15 April 30, 2015
+
+## All Commercial Banks (including RRBs)
+
+**Dear Sir/Madam,** **Acquisition of Accommodation on Lease/Rental basis by Commercial Banks** **for their use (i.e. for Office and Residence of Staff) – Liberalization of guidelines**
+
+Please refer to Circulars DBOD.No.BL.BC.105/22.01.03/98 dated November 11, 1998, <u>DBOD.No.BL.BC.32/22.01.003/2008-09 dated August 21, 2008</u> and <u>DBOD.</u> <u>No.BAPD.BC.59/22.01.003/2012-13 dated November 20, 2012</u> on the above subject.
+
+2. In terms of these circulars banks were advised to lay down and formulate detailed operational guidelines covering all areas in respect of acquisition of premises. These norms and procedures for acquisition of accommodation on lease / rental basis by commercial banks for their own use have been in operation for a number of years.Withdrawn Since then branch authorization has been liberalized and Domestic Scheduled Commercial Banks (excluding RRBs) have been given general permission to open branches at any place in India, without seeking prior approval of RBI in each case, subject to certain conditions in terms of <u>circular Nos.DBOD.BAPD.BC.54</u> <u>/22.01.001/2013-14 dated September 19, 2013</u> and <u>DBOD.BAPD.BC.</u> <u>60/22.01.001/2013-14 dated October 21, 2013</u>. In keeping with the current liberalized environment with regard to opening of branches, it has been decided to do away with the periodic statements on disputed premises to the Regional Directors of RBI or to Department of Banking Regulation, Central Office.
+3. In view of the above, it is reiterated and banks are advised that norms and procedures for acquisition of accommodation on lease / rental basis by commercial banks for their use are left to be determined by the banks themselves. Banks must ensure that their branches are not functioning from premises unauthorized in law. **बकक ैंिं ग वर्नियमि वर्भाग**, **के ि्द्रीय कायावलय**, **के ि्द्रीय कायावलय भर्ि**, 13**र्ी मिंजिल**, **शहीद भगत स िंह मागव**, **फोर्व**, **मिंबई**-400 001
+**फोि**: 022-22661602, **फै क्** : 022-22701237, **ई**-**मेल**: <u>cgmicdbodco@rbi.org.in</u>,**र्ेब ाइर्**: www.rbi.org.in Department of Banking Regulation, Central Office, CentralOfficeBuilding, 13 th Floor, ShahidBhagatSinghMarg, Fort, Mumbai – 400 001 Phone: 022-2266 1602, Fax: 022-2270 1237, E-mail: <u>cgmicdbodco@rbi.org.in</u>, Website: www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+Further, banks are advised that the legitimate grievances of owners of property leased to the bank should be examined at appropriately senior level in the bank and expeditious action should be taken to redress such grievances.
+
+4. All other instructions remain unchanged. Yours faithfully, Sd/- (Lily Vadera) Chief General Manager
+# Withdrawn

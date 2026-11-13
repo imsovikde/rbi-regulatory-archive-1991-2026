@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2015_DBR_No_BC_93_29_67_001_2014-15"
+title: "Calendar of Reviews"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR592C15735E9F2CC41FF98DC0EF6B930A980.PDF"
+pdf_sha256: "0285a18f86aa3cbe27a54425c721ad60c520a02a8321bb397fbbce07f0ef7d68"
+md_sha256: "452b111f68e8477b4283558ccec37015e0233a2e80640c6a1ce46082719a1d04"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:27:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-05-14_Circular_DBR.No.BC.93-29.67.001-2014-15_Calendar%20of%20Reviews.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Calendar of Reviews
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/592 DBR No.BC.93/29.67.001/2014-15 May 14, 2015
+
+## The Chairman & Managing Directors /
+
+## Managing Director & Chief Executive Officers
+
+**- All Public Sector Banks** Dear Sir / Madam, <u>Calendar of Reviews</u> Please refer to our <u>circular No.DBOD.BP.BC.71/21.03.038/2007-08 dated April 22, 2008</u> advising banks regarding Calendar of Reviews to be put up to the Board / Management Committee.
+2. RBI has prescribed comprehensive ‘Calendar of Reviews’ to be deliberated by the Boards of banks and has made significant additions to the same over the years. It has been observed that Calendar of Reviews uses considerable Board time and as a result the Board may not be in a position to give focused attention to matters of strategic and financial importance. In this connection, the Committee to Review Governance of Boards of Banks in India (Chairman-Dr. P J Nayak) had also recommended that discussions in the Boards of banks need to be upgraded and greater focus should be on strategic issues.
+3. Accordingly, in the first bi-monthly monetary policy statement 2015-16, it was
+# Withdrawn
+
+proposed to do away with the Calendar of Reviews and instead, replace it with the seven critical themes prescribed by the Nayak Committee namely, business strategy, financial reports and their integrity, risk, compliance, customer protection, financial inclusion and human resources (as illustrated in **Annex**), and leave it to the banks’ Boards to determine other list of items to be deliberated and periodicity thereof.
+
+4. Banks are advised to determine the Board agenda items and the periodicity thereof, with the approval of their Boards, such that there is adequate focus on matters of strategic and financial importance, including the seven broad themes indicated above.
+5. This supersedes our circular No.DBOD.BP.BC.71/21.03.038/2007-08 dated April 22,
+2008. Yours faithfully, Sd/ (Sudha Damodar) Chief General Manager
+## Encl. As above
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Critical themes in board deliberations
+
+|Category|Description|
+|---|---|
+|Business Strategy|Development of new products; competitiveness of individual businesses; business reviews in relation to targets.|
+|Risk|Policies concerning credit, operational, market, liquidity risks; assessing the independence of the risk function.|
+|Financial Reports and their integrity|Detailed scrutiny of quarterly and annual financial results; NPA management and reported NPA and provisioning integrity.|
+|Compliance|Regulatory requirements; adherence to RBI and SEBI norms; observations from the annual financial inspection by RBI, and from the Long Form Audit Report; review of decisions in previous minutes of meetings, and key decisions within subsidiaries; review of action taken reports; appointments to board committees.|
+|Customer Protection|Mis-selling, particularly third-party products; laying down the appropriateness of products to different customer segments; understanding the broad trends and concentration in the growth of Withdrawn customer grievances and their resolution.|
+|Financial Inclusion|Review of priority sector lending; payments for the disadvantaged; deposit mobilization from weaker sections; support to microfinance institutions; and other issues.|
+|Human Resources|Appointments and approvals of directors, perks and perquisites for employees, incentive schemes for employees, promotion policies for employees, training and skill development of employees.|
