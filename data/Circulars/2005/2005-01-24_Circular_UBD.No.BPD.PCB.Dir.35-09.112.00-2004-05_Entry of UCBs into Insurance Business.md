@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2005_UBD_No_BPD_PCB_Dir_35_09_112_00_2004-05"
+title: "Entry of UCBs into Insurance Business"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/60506.PDF"
+pdf_sha256: "5c9e5f7e2011483450d5f31d07b23b51066c4ec1cd63b3c90998f4952a1cdf5d"
+md_sha256: "04cd4bd85df5a28a66a5755f9322123aca97726e0e4d888ff7f3e13a8f496d89"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:46:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-01-24_Circular_UBD.No.BPD.PCB.Dir.35-09.112.00-2004-05_Entry%20of%20UCBs%20into%20Insurance%20Business.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Entry of UCBs into Insurance Business
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/351
+
+BPD.PCB.Dir. 35/09.112.00/2004-05 24 January 2005 The Chief Executive Officers of all Primary (Urban) Co-operative Banks Dear Sir
+
+## <u>Entry of UCBs into insurance business</u>
+
+A reference is invited to our circular UBD.NO.BPD.PCB.Cir.9/09.112.00/ 2003-04 dated August 18, 2003 allowing financially strong Scheduled Primary (Urban) Co- operative Banks having a minimum net worth of Rs.100 crore as per the latest RBI Inspection Report and complying with certain other norms to undertake insurance business as corporate agent without risk participation.
+
+2. On a review it has been decided to allow Scheduled Primary (Urban) Co-operative Banks having a minimum net worth of Rs.50 crore instead of Rs.100 crore as at present, to undertake insurance agency business without risk participation. Other terms and conditions stated in our circular dated August 18, 2003 referred to above would remain unchanged. We reiterate that no UCBs should undertake insurance agency business without obtaining prior permission of the Reserve Bank of India.
+# Withdrawn
+
+3. It has also been decided to allow <u>all</u> Primary (Urban) Co-operative Banks to undertake insurance business on a referral basis, without any risk participation through their network of branches. Under the referral arrangement, banks provide physical infrastructure within their select branch premises to insurance companies for selling their insurance products to the bank's customers with adequate disclosure and transparency, and in turn earn referral fees on the basis of premia collected. The above permission is subject to the following conditions:
+(i) The bank should comply with the IRDA regulations for undertaking referral business with insurance companies. (ii) The bank should not adopt any restrictive practice of forcing its customers to go in only for a particular insurance company in respect of assets financed by the bank. The customers should be allowed to exercise their own choice.
+
+<!-- PAGE 2 -->
+
+(iii) The bank desirous of entering into referral arrangement, besides complying with IRDA regulations, should also enter into an agreement with the insurance company concerned for allowing use of its premises and making use of the existing infrastructure of the bank. The agreement should be for a period <u>not</u> exceeding three years at the first instance and the bank should have the discretion to renegotiate the terms depending on its satisfaction with the service or replace it by another agreement after the initial period. Thereafter, the bank will be free to sign a longer term contract with the approval of its Board. (iv) As the participation by a bank's customer in insurance products is purely on a voluntary basis, it should be stated in all publicity material distributed by the bank in a prominent way. There should be no 'linkage' either direct or indirect between the provision of banking services offered by the bank to its customers and use of the insurance products.
+
+(v) The risk, if any involved in referral arrangement should not get transferred to the business of the bank.
+The banks need not obtain prior approval of the RBI to undertake referral business.
+
+4. Please acknowledge receipt of the circular to our Regional Offices.Withdrawn
+## Yours faithfully
+
+## (N.S. Vishwanathan) Chief General Manager

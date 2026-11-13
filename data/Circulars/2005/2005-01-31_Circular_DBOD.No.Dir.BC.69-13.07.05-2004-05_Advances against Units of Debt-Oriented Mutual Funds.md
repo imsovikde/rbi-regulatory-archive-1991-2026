@@ -1,0 +1,37 @@
+---
+doc_id: "Circulars_2005_DBOD_No_Dir_BC_69_13_07_05_2004-05"
+title: "Advances against Units of Debt-Oriented Mutual Funds"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/60671.PDF"
+pdf_sha256: "ff14e5e286fe1d53478c84cc9d904cbe240339606ae025ae003e7c527841e9b1"
+md_sha256: "9a8e944edee10982b3fcff6772cb1ab51f3627b770e1c97de3d2493107a8dd7d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:46:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-01-31_Circular_DBOD.No.Dir.BC.69-13.07.05-2004-05_Advances%20against%20Units%20of%20Debt-Oriented%20Mutual%20Funds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances against Units of Debt-Oriented Mutual Funds
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/353
+
+DBOD. No. Dir. BC. 69/13.07.05/2004-05 January 31, 2005 **All Commercial Banks (excluding RRBs)**
+
+Dear Sir, **Advances against units of debt-oriented Mutual Funds**
+
+Please refer to paragraph 3.4.3 of our Master Circular DBOD.No.Dir.BC.14/13.03.00/2004-05 dated July 21, 2004 on Exposure Norms in terms of which banks have been advised to apply the same quantum and margin for granting loans/ advances against the units of mutual funds including units of US-64 scheme, as are applicable to loans/ advances against shares/ debentures. These guidelines do not distinguish between debt-oriented and equity-oriented mutual funds. Therefore, the banks’ lending to individuals is limited to Rs.10 lakh and Rs.20 lakh even against units of debt-oriented mutual funds held in physical and dematerialised form, respectively.
+
+**2.** We have been receiving representation from banks that banks' lending to individuals against units of exclusively debt-oriented mutual funds may be exempted from Rs.10 lakh/ Rs.20 lakh ceiling as such advances are not reckoned as part of the banks’ exposure to capital market. The matter has been reviewed and it has been decided that
+# Withdrawn
+
+the quantum and margin requirement for loans/ advances to individuals against units of exclusively debt-oriented mutual funds may be decided by the individual banks themselves in accordance with their loan policy. However, at the time of extending credit facility, the banks should satisfy themselves about the acceptability of credit needs of the borrower and end use of the funds. As regards loans and advances against units of other mutual funds (other than exclusively debt-oriented mutual funds), our existing guidelines shall remain unchanged.
+
+Yours faithfully,
+
+## (P. Vijaya Bhaskar) Chief General Manager

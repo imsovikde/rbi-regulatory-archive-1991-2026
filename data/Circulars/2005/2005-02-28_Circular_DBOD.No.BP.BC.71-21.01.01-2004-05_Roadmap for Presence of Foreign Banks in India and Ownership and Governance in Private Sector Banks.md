@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2005_DBOD_No_BP_BC_71_21_01_01_2004-05"
+title: "Roadmap for Presence of Foreign Banks in India and Ownership and Governance in Private Sector Banks"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61301.PDF"
+pdf_sha256: "79405ff49b382d33abd784215c738c3f4b69994f58db40fe6d19062607ad4a81"
+md_sha256: "d5e831d8aa5c25a653b68f4812d100ece9236603074f311f1e383a06970e5a9d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:46:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-02-28_Circular_DBOD.No.BP.BC.71-21.01.01-2004-05_Roadmap%20for%20Presence%20of%20Foreign%20Banks%20in%20India%20and%20Ownership%20and%20Governance%20in%20Private%20Sector%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Roadmap for Presence of Foreign Banks in India and Ownership and Governance in Private Sector Banks
+
+<!-- PAGE 1 -->
+
+RBI/2004-05/377 DBOD.No.BP.BC.71/21.01.01/2004-05
+
+February 28, 2005 To The Chairmen and Chief Executive Officers, all Scheduled Commercial Banks
+
+Dear Sir,
+
+## <u>Roadmap for presence of Foreign Banks in India and Ownership and</u>
+
+## <u>Governance in Private Sector banks</u>
+
+Reserve Bank of India has today released a Roadmap for presence of Foreign Banks in India and Guidelines on Ownership and Governance in Private Sector banks. These documents are enclosed for guidance of all concerned. A copy of the Press Release summarizing the salient features of the above mentioned documents is also enclosed. Yours faithfully,
+
+# Withdrawn
+
+(C.R. Muralidharan) Chief General Manager-in-Charge
