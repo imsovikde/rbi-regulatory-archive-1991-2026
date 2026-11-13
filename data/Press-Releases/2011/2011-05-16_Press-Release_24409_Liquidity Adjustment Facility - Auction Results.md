@@ -1,0 +1,41 @@
+---
+doc_id: "Press-Releases_2011_24409"
+title: "Liquidity Adjustment Facility : Auction Results"
+category: "Press-Releases"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1666L0511.pdf"
+pdf_sha256: "a126a78031b847cf5e8cd2d283d20f98649aebbf0a8f4c5f944231914ca0146f"
+md_sha256: "e4d5dc833420db41ab9bdbd8be30d09cf04bca949181d0feafda9c330ce833c9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T17:48:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2011/2011-05-16_Press-Release_24409_Liquidity%20Adjustment%20Facility%20-%20Auction%20Results.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility : Auction Results
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई-400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001Website : www.rbi.org.in
+
+||फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 Liquidity Adjustment Facility : Auction Results The results of the RBI Repo/Reverse Repo auctions held on May 16, 2011 are:|इ-मेल email : helpdoc@rbi.org.in May 16, 2011 Amount (face value in ` crore)|
+|---|---|---|
+|Item|2 days Reverse Repo Auction (Sale of securities by RBI)|2 days Repo Auction (Purchase of securities by RBI)|
+||6.25% Fixed Rate|7.25% Fixed Rate|
+|1. Bids received (i) Number (ii) Amount|1 375|31 56,400|
+|2. Bids accepted (i) Number (ii) Amount|1 375|31 56,400|
+
+## Ajit Prasad
+
+## Press Release: 2010-2011/1666
+
+Assistant General Manager
