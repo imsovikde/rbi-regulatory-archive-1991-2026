@@ -1,0 +1,34 @@
+---
+doc_id: "Press-Releases_2022_54369"
+title: "Reserve Money for the week ended September 09, 2022"
+category: "Press-Releases"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR87162FCAB94244F4B539DC531CC4BF5FB04.PDF"
+pdf_sha256: "f0832860e52d53c89d8bd99e9856f306ad94a6b53290c5e1447609130668ae7b"
+md_sha256: "856a546d8c236594bd60981a68a2da3452cc334e4cc7e3cb4af8ee592dcee030"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T23:42:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2022/2022-09-14_Press-Release_54369_Reserve%20Money%20for%20the%20week%20ended%20September%2009%2C%202022.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Money for the week ended September 09, 2022
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, एस.बी.एस. मागर्, फोटर्, मुंबई-400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, S.B.S. Marg, Fort, Mumbai-400001|
+|ई-मेल/email : helpdoc@rbi.org.in|फोन/Phone: 022- 2266 0502|
+
+September 14, 2022 **Reserve Money for the week ended September 09, 2022** The Reserve Bank has today released data on <u>Reserve Money</u> for the week ended September 09, 2022.
+
+## Rupambara
+
+**Press Release: 2022-2023/871** Director (Communications)
