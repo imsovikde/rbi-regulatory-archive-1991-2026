@@ -1,0 +1,122 @@
+---
+doc_id: "Notifications_2011_6480"
+title: "Credit Mobilisation Targets under the Swarnajayanti Gram Swarozgar Yojana (SGSY) for the year 2011 - 12"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CSGSYT280611.pdf"
+pdf_sha256: "e585a33dd094be219985afba4b85fa040b1dde045654d09217738a33783b17e6"
+md_sha256: "9e41005afd22798e9ff97d9bd0bea30b8f317d4028198070342f19b5aed540e1"
+total_pages: 3
+native_pages: 2
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:20:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-06-28_Notification_6480_Credit%20Mobilisation%20Targets%20under%20the%20Swarnajayanti%20Gram%20Swarozgar%20Yojana%20%28SGSY%29%20for%20the%20year%202011%20-%2012.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit Mobilisation Targets under the Swarnajayanti Gram Swarozgar Yojana (SGSY) for the year 2011 - 12
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/582
+
+RPCD.GSSD.CO. No.14360/ 09.01.01 CM/ 2010-11
+
+June 14, 2011
+
+The Chairman / Managing Director
+
+All Indian Scheduled Commercial Banks
+
+(Excluding RRBs)
+
+Dear Sir,
+
+Credit Mobilisation Targets under the Swarnajayanti Gram Swarozgar Yojana
+
+(SGSY) for the year 2011 - 12
+
+The Government of India has finalized the Credit Mobilisation Targets for the year 2011
+
+- 12 under the Swarnajayanti Gram Swarozgar Yojana (SGSY). The State / Union
+
+Territory - wise credit mobilisation targets for the year 2011 - 12 are enclosed.
+
+2. We advise that the State - wise targets indicated may be allocated among the banks
+
+working under the jurisdiction of the SLBC Convenor bank of the State, under advice to
+
+us. The SLBCs should finalise the targets of individual banks on the basis of acceptable
+
+parameters like resources, number of rural / semi urban branches, etc., so that each of
+
+the banks will be in a position to arrive at its corporate target. We will be monitoring the
+
+achievement of the credit targets by the scheduled commercial banks through receipt of
+
+returns.
+
+可 .10014,-400 001
+
+:22601000 $aH : 22610943/22610948  -α : cgmincrpcd@rbi.org.in
+
+Mumbai 400 001 Tel : 22601000 Fax:22610943/22610948 E-mail : cgmincrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+intervals in each State / Union Territory through the respective SLBC / UTLBC in order to ensure that efforts are being made by the banks to achieve the credit targets.
+
+4. Monthly / quarterly / half-yearly reports may be submitted to us in terms of para 22 of our <u>Master Circular RBI /2010-11 /56 - RPCD. SP. BC. No.7 /09.01.01/2010-11</u> <u>dated July 1, 2010</u> on Priority Sector Lending-Special Programmes-Swarnajayanti Gram Swarozgar Yojana (SGSY).
+5. Further, as you are aware, we have introduced an upgraded system (PCRPCD) of on
+- line submission of data by banks in respect of SGSY. The state-wise targets allocated to scheduled commercial banks for the year 2011 - 12 will be updated in our system, at Central Office, on receipt of the same from your bank. Subsequently, you have to update the state-wise / bank-wise financial targets for the year 2011 - 12 in your system. This will enable the member banks to submit the returns on-line to us.
+6. You may please ensure to submit the progress reports in hardcopy and on-line under PCRPCD simultaneously and continue to do so until further instructions from us.
+7. Please issue suitable instructions to your controlling offices and branches, under advice to us. Yours faithfully, Smt. (A. S. Telang) Deputy General Manager Encl: As above
+
+<!-- PAGE 3 -->
+
+# Credit Mobilisation Targets under SGSY during 2011‐2012
+
+## (Rs. in lakhs)
+
+## Credit Target for 2011‐2012
+
+|S.No|States/U.T|||
+|---|---|---|---|
+|1|Andhra Pradesh||32130|
+|2||Bihar|76420|
+|3|Chhattisgarh||16980|
+|4||Goa|500|
+|5|Gujarat||12090|
+|6|Haryana||7130|
+|7|Himachal Pradesh||3010|
+|8J||&K|3710|
+|9|Jharkhand||28820|
+|10|Karnataka||24260|
+|11|Kerala||10890|
+|12|Madhya Pradesh||36370|
+|13|Maharashtra||47950|
+|14|Orissa||36750|
+|15|Punjab||3470|
+|16|Rajasthan||18430|
+|17|Tamil Nadu||28410|
+|18|Uttar Pradesh||110020|
+|19|Uttaranchal||5800|
+|20|West Bengal||40840|
+|21|A& N Island||60|
+|22|D& N Haveli||60|
+|23|Daman & Diu||60|
+|24|Lakshadweep||60|
+|25|Puducherry||580|
+|26|Arunachal Pradesh||1590|
+|27|Assam||41140|
+|28|Meghalaya||3090|
+|29|Manipur||2760|
+|30|Nagaland||2120|
+|31|Sikkim||800|
+|32|Tripura||4980|
+|33|Mizoram TOTAL||720 602000|
