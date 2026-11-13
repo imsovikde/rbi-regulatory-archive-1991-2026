@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2026_13465"
+title: "Submission of statement/return on Centralized Information Management System (CIMS)"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/12APDIR050620260924D775A2294FCD9E1CE9A27D6140F1.PDF"
+pdf_sha256: "5cd398e3dbd8b33072c38c7a16e051d05f4979266ddf173e941825aa83dfebfe"
+md_sha256: "8998587c67329f2cc3a507312ce1ddbe9848aff307e3827c86e10476a03574d7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-05_Notification_13465_Submission%20of%20statement-return%20on%20Centralized%20Information%20Management%20System%20%28CIMS%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Submission of statement/return on Centralized Information Management System (CIMS)
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बैंक <u>RESERVE BANK OF INDIA</u> www.rbi.org.in
+
+RBI/2026-27/98
+
+A.P. (DIR Series) Circular No. 12 June 05, 2026 All Category-I Authorised Dealer Banks Madam/Sir,
+## Submission of statement/return on
+
+## Centralized Information Management System (CIMS)
+
+Attention of Authorised Dealer Category – I (AD Category – I) banks is invited to the
+
+<u>A.P. (DIR Series) Circular No.69 dated May 12, 2016</u>, in terms of which AD Category – I banks were required to submit a consolidated list of all the BOs/LOs/ POs opened and closed by them during a month, by the fifth of the succeeding month, to the General Manager, Reserve Bank of India, Foreign Exchange Department, Central Office Cell, Sansad Marg, New Delhi.
+2. It has now been decided that with effect from June 30, 2026, the above-mentioned statement shall be submitted on the Centralized Information Management System (CIMS) portal. The statement has been assigned return code - ‘R343’ on CIMS portal. Accordingly, all AD Category – I banks shall upload the above-mentioned statement on CIMS portal (URL: <u>[https://sankalan.rbi.org.in](https://sankalan.rbi.org.in)</u>) from the month ending June 2026. In case no data is to be furnished, AD Category – I banks shall upload a ‘NIL’ report.
+3. Attention of Authorised Dealer Category – I (AD Category – I) banks is further invited to the <u>A.P. (DIR Series) Circular No.67 dated May 05, 2016</u>, in terms of which AD Category – I banks were required to furnish on a monthly basis, a statement on the number of applicants and total amount remitted from the Non-Resident (Ordinary) Rupee (NRO) Account in the requisite format to General Manager-in-Charge, Foreign Exchange Department, Reserve Bank of India, Foreign Investments Division (NRFAD), Central Office Cell, Parliament Street, New Delhi.
+4. Submission of the above-mentioned statement has been shifted to CIMS portal with return code - ‘R006’. Accordingly, all AD Category – I banks shall upload the above- mentioned statement on CIMS portal (URL: <u>[https://sankalan.rbi.org.in](https://sankalan.rbi.org.in)</u>).
+5. The Master Direction on ‘<u>Reporting under Foreign Exchange Management Act,</u> <u>1999</u>’ is being updated to reflect the changes.
+6. The directions contained in this circular have been issued under section 10(4) and 11(2) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(N Senthil Kumar) Chief General Manager

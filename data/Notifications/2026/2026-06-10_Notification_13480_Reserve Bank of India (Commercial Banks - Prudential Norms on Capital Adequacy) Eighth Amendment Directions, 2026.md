@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2026_13480"
+title: "Reserve Bank of India (Commercial Banks - Prudential Norms on Capital Adequacy) Eighth Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT111B28BD500C4CA4A6E87ADAA3A22B98B67.PDF"
+pdf_sha256: "4d64a87ef8287e59c7a0c63cbae159c4c57799f188bee0384488ad0097a6f40b"
+md_sha256: "1889da799ae81d71636b7bc9459e6c0e6fddc4cee4e9f225c2acfafe8a61bd35"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-10_Notification_13480_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20-%20Prudential%20Norms%20on%20Capital%20Adequacy%29%20Eighth%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks - Prudential Norms on Capital Adequacy) Eighth Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2026-27/111 DOR.CRE.REC.91/21-01-002/2026-27 June 10, 2026
+
+## Reserve Bank of India (Commercial Banks-Prudential Norms on Capital
+
+## Adequacy) Eighth Amendment Directions, 2026
+
+Please refer to the <u>Reserve Bank of India (Commercial Banks – Prudential Norms on</u> <u>Capital Adequacy) Directions, 2025</u> (hereinafter referred to as ‘**Directions**’).
+
+2. On a review, Consequent to the issuance of the <u>Reserve Bank of India (Commercial</u> <u>Banks – Credit Facilities) Third Amendment Directions, 2026</u>, and in exercise of the powers conferred by Sections 21 and 35A of the Banking Regulation Act, 1949 and all other provisions / laws enabling the Reserve Bank of India in this regard, the Reserve Bank of India, being satisfied that it is necessary and expedient in public interest so to do, hereby, issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions insert paragraph 61A in Chapter IV- ‘Risk Weighted Assets (RWAs)’ of the Directions, as under: “61A. Exposures to Real Estate Investment Trusts (REITs) shall be treated as Commercial Real Estate (CRE) exposures and shall attract a risk weight of 100 per cent. However, if such exposures qualify as capital market exposures in terms of paragraph 95A of the <u>Reserve Bank of India (Commercial Banks-Concentration Risk</u> <u>Management) Directions, 2025</u>, the applicable risk weight shall be 125 per cent. 61B. Lending to REITs undertaken by overseas branches of an Indian bank shall attract a risk weight of 150 per cent.”
+4. These Directions shall come into force from **October 1, 2026**, or an earlier date if the directions contained in the <u>Reserve Bank of India (Commercial Banks – Credit</u> <u>Facilities) Third Amendment Directions, 2026</u> are adopted by a bank in entirety. (Vaibhav Chaturvedi) Chief General Manager

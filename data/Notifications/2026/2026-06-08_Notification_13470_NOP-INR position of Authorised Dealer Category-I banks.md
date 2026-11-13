@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2026_13470"
+title: "NOP-INR position of Authorised Dealer Category-I banks"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT101006035F74F4F498BB485CB28A998F8ED.PDF"
+pdf_sha256: "cd7c7abaa5652b0b28740772e0f07043c26a0333970fd881b29fea3727629932"
+md_sha256: "18302110b3254faf88abfb8d64c1e806d43539b4cde5aa60441d000ae9819e03"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-08_Notification_13470_NOP-INR%20position%20of%20Authorised%20Dealer%20Category-I%20banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# NOP-INR position of Authorised Dealer Category-I banks
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+## RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2026-27/101
+
+A.P. (DIR Series) Circular No. 13 June 8, 2026 To,
+### All Authorised Dealer Category-I Banks
+
+Madam/Sir,
+
+### NOP-INR position of Authorised Dealer Category-I banks
+
+Attention of Authorised Dealer Category (AD Cat)-I banks is invited to circulars <u>FMOD.MAOG.No.S-56/01.06.016/2026-27 dated June 8, 2026</u>, on ‘Swap Facility for FCNR (B) Deposits’ and <u>FMOD.MAOG.No.S-57/01.06.016/2026-27 dated June 8,</u> <u>2026</u>, on ‘Swap Facility for External Commercial Borrowings and Overseas Foreign Currency Borrowings’.
+
+2. AD Cat-I banks may exclude the swap positions arising out of FCNR (B) deposits, External Commercial Borrowings and Overseas Foreign Currency Borrowings raised in terms of the aforesaid circulars while ensuring compliance with the provisions of the <u>A.P. (DIR Series) Circular No. 24 dated March 27, 2026</u>.
+3. The directions contained in this circular have been issued under Sections 10(4), 11(1) and 11(2) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+वत्तीय बाज़ार व�नयमन वभाग,कें द्रय कायार्लय भवन, नौवीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000, ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, e-mail-<u>cgmfmrd@rbi.org.in</u> <u>�हन्द आसान है, इसका प्रयोग बढ़ाइए</u>

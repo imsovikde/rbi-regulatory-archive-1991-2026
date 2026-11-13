@@ -1,0 +1,62 @@
+---
+doc_id: "Notifications_2026_13469"
+title: "Swap Facility for External Commercial Borrowings and Overseas Foreign Currency Borrowings"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI100C5CEAED4D95F444CA98447B5B98150F3.PDF"
+pdf_sha256: "efe6c280c4d185815bd059804cf6518809f996d0dba490c3be4dbc9f978cd7bb"
+md_sha256: "9ecf4aaad242b1dbfba97f0e090f91edd7571eb6782251555dc04a6b190aad21"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-08_Notification_13469_Swap%20Facility%20for%20External%20Commercial%20Borrowings%20and%20Overseas%20Foreign%20Currency%20Borrowings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Swap Facility for External Commercial Borrowings and Overseas Foreign Currency Borrowings
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक **RESERVE BANK OF INDIA** <u>www.rbi.org.in</u>
+
+RBI/2026-27/100 FMOD.MAOG.No.S-57/01.06.016/2026-27 June 8, 2026
+
+## All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Swap Facility for External Commercial Borrowings and Overseas Foreign Currency Borrowings
+
+Please refer to the <u>Governor’s Statement dated June 5, 2026</u>.
+
+2. It has been decided to introduce a US Dollar-Rupee Forex Swap Facility for,
+(a) External Commercial Borrowings (ECBs) of average maturity of three years and above, drawn on after the date of this circular till December 31, 2026, (i) by Public Sector Undertakings (PSUs) viz., whose majority ownership is with central and / or state government (other than banks), or (ii) such PSUs which are incorporated, established or registered under a Central or State Act and controlled by the Central / State Government. The facility will also be available for the undrawn portion as on date for any existing ECB but will not be available for borrowings with embedded options, or ECBs raised for refinancing / repayment of existing ECBs, and
+(b) Overseas Foreign Currency Borrowings (OFCBs) raised by Authorised Dealer Category I banks for a minimum maturity of 3 years.
+3. The salient features of the new Swap Facility are as under:
+(a) The Swap Facility will be available to the PSU ECB borrowers through their AD Category-I banks for eligible ECBs and eligible OFCBs raised by the AD Category I banks, raised in any currency. However, the Swap Facility with RBI will be available in
+
+<!-- PAGE 2 -->
+
+US Dollars only. The maximum tenor of swap will be coterminous with the repayment schedule / maturity of the ECB/ OFCB, subject to maximum period of five years.
+
+(b) The swap facility will be operated daily on all working days in Mumbai (except Saturdays and holidays). During any week, the maximum amount of US Dollars that a bank would be eligible to swap with RBI would be equal to the eligible ECB/ OFCB inflows raised in equivalent US Dollar terms during the preceding week(s).
+(c) Under the swap arrangement, a bank can sell US Dollars to RBI and simultaneously agree to buy the same amount of US Dollars at the end of the swap period, in multiples of 1 million US Dollars. The swap will be undertaken at a fixed rate of 1.5 per cent per annum compounded semi-annually. In the first leg of the transaction, the bank will sell US Dollars to RBI at the FBIL Reference Rate. The settlement of the first leg of the swap will take place on spot basis. In the reverse leg of the swap transaction, Rupee funds will have to be returned to RBI along with the swap premium to obtain the US Dollars back.
+(d) Banks desirous of availing the Swap Facility will have to furnish a declaration duly signed by their authorised signatories that they are availing the swap facility for having facilitated hedging of eligible ECB inflows and received eligible OFCB flows during the preceding week(s).
+(e) The Swap Facility will be operationalised by the Financial Markets Operations Department of RBI at Mumbai, who will announce a schedule for banks to avail the facility, in an orderly manner keeping in view the market conditions and other relevant factors.
+(f) The Swap Facility comes into effect from the date of this circular and will remain open up to January 15, 2027 for eligible ECB drawdowns made and OFCB flows received up to December 31, 2026.
+(g) The terms and conditions governing the ECB raised during the above period shall remain as specified in the <u>Foreign Exchange Management (Borrowing and Lending)</u> <u>(First Amendment) Regulations, 2026 dated February 09, 2026</u>.
+
+<!-- PAGE 3 -->
+
+(h) The OFCBs raised for the purpose of this swap facility should conform to the terms of the provisions of Paragraph 5 in part C of the <u>Master Direction on Risk Management</u> <u>and Interbank Dealings dated July 5, 2016</u>, as amended from time to time.
+(i) Eligible banks can approach the Financial Markets Operations Department by <u>e-</u> <u>mail</u> with their request for US Dollar Swap Facility indicating the amount of US Dollars to be swapped, tenor of the swap along with the declaration as mentioned at (d) above.
+(j) Banks are not required to enter into any ISDA agreement with RBI.
+Yours sincerely,
+
+## (T. Kiran Kumar)
+
+General Manager
+
+िवीय बाजार परचालन िवभाग ,क � ी य कायार्लय ,पहली मंिजल, मुख्य भवन, शहीद भगत संह मागर्,फोटर्, मुंबई - 400 001 <u>फोन : 022-22610642, फै क् स : 022-22630981 ,ईमेल: cgmfmod@rbi.org.in</u> Financial Markets Operations Department, Central Office, First Floor, Main Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel: (022)- 22610642, Fax: 022-22630981, E-mail: <u>cgmfmod@rbi.org.in</u> हंदी आसान है ,इसका �योग बढ़ाइए

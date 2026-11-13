@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2026_13457"
+title: "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Sixth Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI90470E837E915C4182AE0C9D8C5718A66B.PDF"
+pdf_sha256: "3271c1f4d42f544e041a0acf52864ba18ebc2208baaa2cd85aa55b994bcc20bc"
+md_sha256: "537648433c2204254bb0df45c19d4ef56007915f20483bc241a54e6fdf138ada"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-05-18_Notification_13457_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Prudential%20Norms%20on%20Capital%20Adequacy%29%20Sixth%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Sixth Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+______________________**RESERVE BANK OF INDIA** _______________________ <u>www.rbi.org.in</u> RBI/2026-27/90 DOR.MRG.REC.No.78/21-01-002/2026-27 May 18, 2026
+
+## Reserve Bank of India (Commercial Banks – Prudential Norms on Capital
+
+## Adequacy) Sixth Amendment Directions, 2026
+
+Please refer to <u>Reserve Bank of India (Commercial Banks – Prudential Norms on</u> <u>Capital Adequacy) Directions, 2025, dated November 28, 2025</u>.
+
+2. On a review, consequent to the issuance of Reserve Bank of India (Commercial Banks -Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026, and in exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 (hereinafter called the Act) and all other laws enabling the Reserve Bank in this regard, the Reserve Bank, being satisfied that it is necessary and expedient in the public interest so to do, hereby, issues the Amendment Directions hereinafter specified.
+3. (i) These Directions shall be called the Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Sixth Amendment Directions, 2026. (ii) These Amendment Directions shall come into effect from the date of issue.
+4. The <u>Reserve Bank of India (Commercial Banks-Prudential Norms on Capital</u> <u>Adequacy) Directions, 2025</u>, are amended as provided below.
+(i) Sub-paragraph 21(i)(b) shall be deleted. (Sunil T S Nair) Chief General Manager

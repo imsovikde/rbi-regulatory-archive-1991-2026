@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2026_13477"
+title: "Withdrawal of old series of banknotes issued prior to 2005: Consolidation of instructions"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT108C6364975A7034ECB83673C669F4DBC15.PDF"
+pdf_sha256: "16b2259e6801ff73c118f536455f8ff923681e96c6693b91574d0a31f6b9ca47"
+md_sha256: "f395009d6767832682a352ee6585b8a2b1656a1dcd99fd2361357c9b04d0a11c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-09_Notification_13477_Withdrawal%20of%20old%20series%20of%20banknotes%20issued%20prior%20to%202005-%20Consolidation%20of%20instructions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Withdrawal of old series of banknotes issued prior to 2005: Consolidation of instructions
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+<u>RESERVE BANK OF INDIA</u>
+
+RBI/2026-27/108 DCM(Plg) No.S737/10.02.060/2026-27 June 09, 2026
+
+The Chairman / Managing Director / Chief Executive Officer All Banks
+
+Madam/ Dear Sir,
+
+## Withdrawal of old series of banknotes issued prior to 2005: Consolidation of instructions
+
+The Reserve Bank of India follows a policy of phasing out certain series of banknotes from time to time with a view to introduce banknotes with upgraded security features, in alignment with standard international practice of withdrawing old series banknotes. Accordingly, it was decided on January 23, 2014 that all old series of banknotes issued prior to 2005 would be completely withdrawn from circulation, and banks were advised to extend all necessary cooperation to the members of public for the withdrawal exercise to be carried out in a smooth and non-disruptive manner.
+
+2. Based on a review, it was decided that from July 01, 2016, the facility of exchanging the pre-2005 banknotes would be available only at the 19 RBI Issue Offices¹.
+3. As advised at Paragraph 3 of the <u>circular dated January 23, 2014</u>, banks shall continue to ensure that pre-2005 series banknotes are not re-issued through ATMs or over-the- counter transactions. Such notes shall be sorted and deposited in currency chests under the Linkage Scheme or forwarded to the nearest RBI Issue Office for disposal.
+4. Pre-2005 series banknotes (other than those whose legal tender status was withdrawn vide <u>Government of India Notification no. 2652 dated November 8, 2016</u>) continue to be legal tender.
+5. This consolidates the instructions issued earlier on the subject, as detailed hereunder².
+## Yours faithfully
+
+(Sanjeev Prakash) Chief General Manager-In-Charge ----------------------------------------------------------------------------------------------------------------------------- Ahmedabad, Bangalore, Belapur, Bhopal, Bhubaneswar, Chandigarh, Chennai, Guwahati, Hyderabad, Jaipur, Jammu, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, New Delhi, Patna and Thiruvananthapuram
+
+<!-- PAGE 2 -->
+
+## Related Notifications:
+
+|SL.|Subject|Circular No.|Date|Withdrawn/ In vogue/ Partially applicable|
+|---|---|---|---|---|
+|1|Withdrawal of All Old Series of DCM(Plg).No.G- Banknotes issued Prior to 2005 17/3231/10.27.00/2013-14||January 23, 2014|Partially applicable|
+|2|Withdrawal of All Old Series of DCM.(Plg).No.G- Banknotes issued Prior to 2005 19/3880/10.27.00/2013-14||March 03, 2014|Withdrawn|
+|3|Withdrawal of All Old Series of DCM(Plg).No.G- Banknotes issued Prior to 2005 8/3004/10.27.00/2014-15||December 31, 2014|Withdrawn|
+|4|Withdrawal of All Old Series of DCM(Plg).No.G- Banknotes issued Prior to 2005 15/5486/10.27.00/2014-15||June 26, 2015|Withdrawn|
+|5|Withdrawal of All Old Series of DCM (Plg)No.G Banknotes issued Prior to 2005 8/2331/10.27.00/2015-16||-December 23, 2015|Withdrawn|
+|6|Withdrawal of All Old Series of DCM(Plg)No.G- Banknotes issued Prior to 2005 9/2856/10.27.00/2015-16||February 11, 2016|Withdrawn|
+|7|Revision of exchange facility|Pre-2005 series of Banknotes-DCM (Plg) No.G-June 30, 2016 12/4297/10.27.00/2015-16||In vogue|

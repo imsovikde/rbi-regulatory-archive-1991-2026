@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2026_13450"
+title: "Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT83024DCDBEA7DE44C8AF2C0025AB1177DE.PDF"
+pdf_sha256: "51d3ccd63e4452375c2b6579d51d4a8eac743fe3dd63f584de4f2561da0a5fed"
+md_sha256: "240e69bc44fcd6c323301e483f7193ec8fa88113cabc183a7ace53cbd6303813"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-05-18_Notification_13450_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20-%20Classification%2C%20Valuation%2C%20and%20Operation%20of%20Investment%20Portfolio%29%20Second%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_______________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2026-27/83 DOR.MRG.REC.No.71/00-00-001/2026-27 May 18, 2026
+
+## Reserve Bank of India (Commercial Banks -Classification, Valuation, and
+
+## Operation of Investment Portfolio) Second Amendment Directions, 2026
+
+Please refer to paragraph 105 of <u>Reserve Bank of India (Commercial Banks -</u> <u>Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025,</u> <u>dated November 28, 2025</u>, on Investment Fluctuation Reserve (IFR). In view of the developments in the prudential frameworks governing market risk and investments for commercial banks, there is a need to amend the extant instructions.
+
+2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 (hereinafter called the Act) and all other laws enabling the Reserve Bank in this regard, the Reserve Bank, being satisfied that it is necessary and expedient in the public interest so to do, hereby, issues the Amendment Directions hereinafter specified.
+3. (i) These Directions shall be called the Reserve Bank of India (Commercial Banks – Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026. (ii) These Amendment Directions shall come into effect from the date of issue.
+4. The <u>Reserve Bank of India (Commercial Banks-Classification, Valuation, and</u> <u>Operation of Investment Portfolio) Directions, 2025</u>, are amended as provided below.
+(i) Paragraph 105 shall be substituted by the following, namely: - “105. The requirement of Investment Fluctuation Reserve (IFR) has been discontinued
+w.e.f. May 18, 2026. The balance in the IFR as on May 17, 2026, shall be transferred ‘below the line’ to Statutory Reserve, General Reserve, or Balance of Profit & Loss Account. For a foreign bank operating in India in branch mode, the balance in IFR shall
+
+<!-- PAGE 2 -->
+
+be transferred directly to ‘statutory reserves kept in Indian books’ or ‘remittable surplus retained in Indian books which is not repatriable so long as the bank functions in India’.”.
+
+(ii) Paragraphs 106 to 108 shall be deleted.
+
+(Sunil T S Nair) Chief General Manager

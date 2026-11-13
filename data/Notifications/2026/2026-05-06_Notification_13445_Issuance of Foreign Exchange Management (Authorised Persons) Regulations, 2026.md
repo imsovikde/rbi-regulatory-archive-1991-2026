@@ -1,0 +1,91 @@
+---
+doc_id: "Notifications_2026_13445"
+title: "Issuance of Foreign Exchange Management (Authorised Persons) Regulations, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT7871494C59CE3B455BBD0D18770BBB1408.PDF"
+pdf_sha256: "438e439d5f6c39c6c7b23a24aab74156061e8899c8fa7c99e2e60fd473523b95"
+md_sha256: "bd979d5a73edd02096a71b9a1da424754b98f8826629f26678a3906263af2663"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-05-06_Notification_13445_Issuance%20of%20Foreign%20Exchange%20Management%20%28Authorised%20Persons%29%20Regulations%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Issuance of Foreign Exchange Management (Authorised Persons) Regulations, 2026
+
+<!-- PAGE 1 -->
+
+## बेटी बचाओ बेटी पढ़ाओ
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2026-27/78
+
+A.P. (DIR Series) Circular No. 09 May 06, 2026 All Authorised Persons, Madam / Sir,
+## Issuance of Foreign Exchange Management (Authorised Persons) Regulations, 2026
+
+The Reserve Bank has reviewed the existing framework for authorisation of any person as an Authorised Person under the Foreign Exchange Management Act, 1999, with the objective to rationalise the framework to improve delivery of foreign exchange services as well as easing compliance requirements. Accordingly, the Foreign Exchange Management (Authorised Persons) Regulations, 2026 has been notified vide <u>Notification No. FEMA 401/2026-RB dated</u> <u>April 30, 2026</u> (published in the Official Gazette on May 06, 2026). All authorised persons shall comply with aforementioned regulations as applicable to them.
+
+2. Upon issuance of the aforementioned regulations, instructions, as per <u>Annex I</u>, contained in <u>Master Directions – Money Changing Activities</u> and <u>Master Direction – Other Remittance</u> <u>Facilities</u> are being amended. Further, the A.P. (DIR Series) Circulars as per the <u>Annex II</u> are being superseded.
+3. These directions are being issued under Section 10(4) and Section 11 of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours Sincerely,
+
+(N Senthil Kumar) Chief General Manager
+
+वदे शी मुद्रा वभाग**,** के न् द्र य कायार्लय**,** के न् द्र य कायार्लय भवन**,** शहद भगतस ंह मागर्**,** फोटर्**,** मुंबई**-400 001** भारत Foreign Exchange Department, Central Office ,Central Office building, Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Telephone No.022-22601000, ईमेल: <u>fedcopcd@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+## Annex I
+
+## Amendments to <u>Master Direction – Money Changing Activities</u>
+
+1. The following instructions are being omitted:
+(a) Para 2 of the cover letter
+(b) Para 2 & 3 of Section I
+(c) Section II. However, Para 5 of Section II is being reinserted as Para 24 under Section V
+(d) Para 4 of Section III
+(e) Note under Para 9 of Section III
+(f) Section IV
+(g) Para 19 of Section V
+(h) Section VII
+(i) Section VIII
+2. The following instructions are being modified:
+
+|Para No.|Existing instructions|New instructions|
+|---|---|---|
+|the cover letter|Para 3 of The directions relating to the subject including authorisation and functioning of FFMCs, non-bank ADs Category II, and franchisees of Authorised Persons as well as the transactions with their through the Master Direction if any, required under any other law. enclosed herewith, under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.|The directions relating to money of money changing activities changing activities as well as the conduct of foreign exchange transactions are being issued in a consolidated form through the Master Direction enclosed herewith, under conduct of foreign exchange Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, customers/constituents are being 1999 (42 of 1999) and is without issued in a consolidated form prejudice to permissions / approvals,|
+|Section III|Para 1 of Under the Scheme, the Reserve Under the Scheme, the Reserve Bank Bank permits ADs Category-I, ADs Category - II and FFMCs to enter I, ADs Category-into agency or franchisee notes, coins or travellers' cheques franchisees of AD Category-I / AD Category -|permits had permitted ADs Category-II and FFMCs to enter into agency or franchisee agreements at their option for the agreements at their option for the purpose of carrying restricted purpose of carrying restricted money money changing business i.e. changing business i.e. conversion of conversion of foreign currency foreign currency notes, coins or travellers' cheques into Indian into Indian Rupees. However, Rupees. However, franchisees of AD Category - I / AD Category-II / II / FFMCs functioning FFMCs functioning within 10 kms from|
+
+<!-- PAGE 3 -->
+
+||within 10 kms from the borders of Pakistan and Bangladesh may also the Regional Office concerned of the Reserve Bank. Other franchisees of AD Category-I / AD Category-II / FFMCs cannot sell foreign currency.|the borders of Pakistan and Bangladesh may also sell the sell the currency of the bordering currency of the bordering country, with country, with the prior approval of the prior approval of the Regional Office concerned of the Reserve Bank. Other franchisees of AD Category - I / AD Category - II / FFMCs cannot sell foreign currency. Notwithstanding anything contained in these directions, an authorised person shall not enter into any fresh franchisee arrangements henceforth, and the existing franchisee arrangements shall be discontinued gradually, in any case within two years from May 06, 2026.|
+|---|---|---|
+|Para 22 of Section V|22. Submission of Balance Sheet and maintenance of NOF All FFMCs/non-bank ADs Category- II shall submit their annual audited balance sheet to the concerned Regional Office of the Reserve Bank NOF as on the date of the balance sheet, latest by October 31 of the year concerned. As FFMCs/ non- bank ADs Category-II are expected to maintain the minimum NOF on an ongoing basis, if there is any erosion in their NOF below the minimum every year. level, they are required to bring it to the notice of the Reserve Bank immediately along with a detailed time bound plan for restoring the Net Owned Funds to the minimum required level.|22. Submission of Balance Sheet and certificate for maintenance of Net Worth and Forex Turnover An FFMC/non-bank AD Category II shall submit to the Regional Office concerned of the Reserve Bank, a along with a certificate from their copy of annual audited balance sheet statutory auditors regarding the along with a certificate from the statutory auditors regarding the net worth as on the date of the balance sheet by 31st October every year, and a certificate from the statutory auditors regarding annual forex turnover during the financial year, by 30th April|
+|Amendments to|Master Direction – Other Remittance Facilities||
+
+Para 2 of the Master Direction – Other Remittance Facilities is being omitted.
+
+<!-- PAGE 4 -->
+
+## Annex II
+
+## List of A.P. (DIR Series) Circulars superseded
+
+|S.N.|A.P. (DIR Series) Circular|Date|
+|---|---|---|
+|1.|A.P. (DIR Series) Circular No. 20|November 16, 2000|
+|2.|A.P. (DIR Series) Circular No. 11|November 13, 2001|
+|3.|A.P. (DIR Series) Circular No. 25|March 06, 2006|
+|4.|A.P. (DIR Series) Circular No. 40|December 10, 2008|
+|5.|A.P. (DIR Series) Circular No. 61|May 16, 2011|
+|6.|A.P. (DIR Series) Circular No. 41|November 01, 2011|
+|7.|A.P. (DIR Series) Circular No. 60|December 22, 2011|
+|8.|A.P. (DIR Series) Circular No. 71|January 30, 2012|
+|9.|A.P. (DIR Series) Circular No. 33|September 24, 2012|
+|10.|A.P. (DIR Series) Circular No. 87|March 25, 2015|
+|11.|A.P. (DIR Series) Circular No. 12|September 10, 2015|

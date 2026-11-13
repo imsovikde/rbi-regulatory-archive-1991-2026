@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2026_13462"
+title: "Reserve Bank of India (Rural Co-operative Banks - Governance) Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT95F6FFC4FD4E3947CB92EF7020B07B54DD.PDF"
+pdf_sha256: "5e4f983adb8a30dc7b1fd5868737e0ef72a313797cc096a90d654b88ba81c6e0"
+md_sha256: "6e32782d323e68e1c83bdf1f4339dfa127d5f72aa0d7afd0a3b8171d15da3bad"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-05-25_Notification_13462_Reserve%20Bank%20of%20India%20%28Rural%20Co-operative%20Banks%20-%20Governance%29%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Rural Co-operative Banks - Governance) Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बैंक RESERVE BANK OF INDIA <u>www.rbi.org.in</u>
+
+RBI/DOR/2026-27/95 DOR.GOV.REC.No.83/18.10.015/2026-27 May 25, 2026
+
+## Reserve Bank of India (Rural Co-operative Banks-Governance) Amendment
+
+## Directions, 2026
+
+The Reserve Bank had issued <u>Reserve Bank of India (Rural Co-operative Banks -</u> <u>Governance) Directions, 2025 on November 28, 2025</u>. Chapter-II of these directions contain provisions regarding the Constitution of Board.
+
+2. The Banking Regulation (Amendment) Act, 2020 had made Section 10A(2A)(i) of the Banking Regulation Act, 1949 (in short, *“the Act”*), which prescribed a ceiling on continuous tenure of directors, applicable to State Co-operative Banks (hereinafter collectively referred to as ‘StCBs’ and individually as ‘StCB’) and Central Co-operative Banks (hereinafter collectively referred to as ‘CCBs’ and individually as ‘CCB’). The provision had come into force for StCBs and CCBs with effect from April 1, 2021. This provision was further amended by the Banking Laws (Amendment) Act, 2025 to increase the maximum continuous tenure of directors of StCBs and CCBs from eight years to ten years and the amended provision has come into effect on August 1, 2025.
+3. In a few cases, directors have been found to be resorting to certain methods to circumvent the provisions of the Act, such as resigning briefly from office and being re- elected / co-opted to the Board within a short period of time, thereby continuing to be on the Board of an StCB / CCB for an extended period beyond the legally permissible tenure, which defeats the intent and spirit of the statutory provision.
+4. Accordingly, in exercise of the powers conferred by Section 35A read with Section 10A(2A)(i) and Section 56 of the Act, and all other provisions / laws enabling the Reserve Bank of India (‘RBI’) in this regard, RBI being satisfied that it is necessary and expedient in the public interest so to do, hereby issues these Directions hereinafter specified.
+(1) These Directions shall be called the Reserve Bank of India (Rural Co-operative Banks-Governance) Amendment Directions, 2026.
+(2) These Directions shall come into force with immediate effect.
+
+<!-- PAGE 2 -->
+
+(3) These Directions shall modify the <u>Reserve Bank of India (Rural Co-operative</u> <u>Banks-Governance) Directions, 2025</u> in the manner as specified hereinafter.
+(4) After paragraph 7 of the <u>Reserve Bank of India (Rural Co-operative Banks -</u> <u>Governance) Directions, 2025</u>, the following shall be inserted, namely: “7A. A director on the Board of an RCB, after completing a continuous tenure of ten years in office, shall be eligible to be re-appointed, whether by election or co-option or in any other manner, as a director on the Board of the same RCB only after undergoing a minimum cooling-off period of three years. During the cooling-off period, the said director shall not be associated with the RCB in any capacity / manner other than as a member / customer. This, however, shall not preclude him / her from being appointed as a director on the Board of another bank, if otherwise eligible. *Explanation:* For calculating the period of continuous tenure, the total time served on the Board of the RCB including the period of directorship preceding an interruption of less than three years but excluding the period of directorship preceding at least a three-year interruption shall be reckoned.” (Scenta Joy) Chief General Manager

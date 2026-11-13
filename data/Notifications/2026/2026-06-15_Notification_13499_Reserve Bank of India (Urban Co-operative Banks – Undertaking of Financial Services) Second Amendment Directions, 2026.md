@@ -1,0 +1,107 @@
+---
+doc_id: "Notifications_2026_13499"
+title: "Reserve Bank of India (Urban Co-operative Banks – Undertaking of Financial Services) Second Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI129F427A11538D8405098A9689480FED853.PDF"
+pdf_sha256: "6e84ff601486cf1a24f4217321395adecf5ed4297e604c24e15e5508cf6d84b0"
+md_sha256: "bcc6df5a551689b71730e26a7e7dd0f521cd865071e82a78bad77bfa88c5e527"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-15_Notification_13499_Reserve%20Bank%20of%20India%20%28Urban%20Co-operative%20Banks%20%E2%80%93%20Undertaking%20of%20Financial%20Services%29%20Second%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Urban Co-operative Banks – Undertaking of Financial Services) Second Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बैंक RESERVE BANK OF INDIA <u>www.rbi.org.in</u>
+
+RBI/DoR/2026-27/129 DOR.RAUG.AUT.REC.No.108/24.01.041/2026-27 June 15, 2026
+
+## Reserve Bank of India (Urban Co-operative Banks – Undertaking of Financial
+
+## Services) Second Amendment Directions, 2026
+
+In exercise of the powers conferred by Section 35A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest to do so, hereby, amends the directions issued vide <u>Reserve Bank of India (Urban Co-operative Banks – Undertaking of Financial</u> <u>Services) Directions, 2025</u>**“the Master Direction”) (**.
+
+**2.** The extant regulations governing agency business and referral services have been reviewed and, accordingly, the Master Direction shall be amended. The revised regulatory framework is provided below. Further, the regulatory instructions on customer service and conduct aspects shall be consolidated in the <u>Reserve Bank of</u> <u>India (Urban Co-operative Banks-Responsible Business Conduct) Directions, 2025</u>.
+## 3. Short Title and Commencement
+
+(1) These Directions shall be called the Reserve Bank of India (Urban Co-operative Banks-Undertaking of Financial Services) Second Amendment Directions, 2026.
+(2) These Directions shall come into effect on **January 01, 2027**.
+**4.** These Amendment Directions shall modify the <u>Reserve Bank of India (Urban Co-</u> <u>operative Banks – Undertaking of Financial Services) Directions, 2025</u> as under:
+**(i) In paragraph 4 of the Master Direction**,
+a) Sub-para (1) shall be substituted by the following, namely: - *“(1) ‘**Agency Business’** means an arrangement under which a bank acts as an agent* *of a third-party product or service provider (TPPSP), without risk participation, to* *facilitate the sale of the latter’s financial products or services (e.g., insurance, mutual* *fund, pension fund, etc.) to its own customers. The activities covered under agency*
+
+<!-- PAGE 2 -->
+
+*business arrangements may inter-alia include marketing, sales, promotion, initial point* *of contact for redressal of grievance and other after-sale services related to the* *product or service*
+
+*Note: UCBs can only undertake agency businesses as permitted in Chapter III of these*
+
+*directions”.*
+
+b) the existing sub-para (1) in the Master Direction, which defines **Debtor Company**, shall be renumbered as (1A).
+c) Sub-para (10) shall be substituted by the following, namely:- “(10) ‘Referral Services’ means an arrangement under which a UCB may refer its customers to a TPPSP by making available information about the financial products or services offered by the TPPSP. UCBs may undertake only such third-party product or services under Referral route where continued customer interactions such as distribution, grievance redressal, post sales services are not undertaken.
+*Note: UCBs can only undertake referral business as permitted in Chapter III of these*
+ *directions”.*
+d) after sub-para (10), following sub-para shall be inserted, namely:- *“(10A) ‘**Regulated financial products and services**’ means financial products and* *services which fall under the regulatory framework of any of the financial sector* *regulators viz. Reserve Bank of India, Securities and Exchange Board of India (SEBI),* *Insurance Regulatory and Development Authority of India (IRDAI), Pension Fund* *Regulatory and Development Authority (PFRDA) and Overseas Regulatory Authorities* *including IFSCA”.*
+e) after sub-para (11), following sub-paras shall be inserted, namely:- *“(12) ‘**Third-party Product and Service (TPPS)’** means a product or service as* *defined under* <u>Reserve Bank of India (Urban Co-operative Banks - Responsible</u> <u>Business Conduct) Directions, 2025</u>*.* *(13) ‘**Third-party Product and Service Provider (TPPSP)’** means an entity which* *has entered into agency business or referral arrangement with a UCB to offer its*
+
+<!-- PAGE 3 -->
+
+*regulated financial product or service (Third-party Product or Service (TPPS)) to a* *customer of the concerned bank”.*
+
+**(ii) For paragraph 19 of the Master Direction,** the following shall be substituted, namely:- *“19. A UCB shall be permitted to enter into agreements with Mutual Funds for* *marketing their units subject to the following terms and conditions:*
+
+*(1) A UCB shall comply with the SEBI guidelines / regulations, including its code* *of conduct, for distribution of mutual fund products.*
+*(2) A UCB shall ensure that it is in full compliance with the instructions on* <u>Reserve Bank of India (Urban Co-operative Banks-Responsible Business</u> <u>Conduct) Directions, 2025</u>*.*
+*(3) The business shall be undertaken on fee basis without any risk participation.* *This shall be explicitly disclosed upfront to the customers.*
+*(4) It shall be ensured that Mutual Funds whose products are being sold have* *robust customer grievance redressal arrangements in place. The bank may* *facilitate the redressal of grievances.*
+*(5) Only such mutual fund products which are covered under the arrangement* *shall be listed or displayed on websites or any other digital banking channels* *offered by the UCBs”.*
+**(iii)** Paragraph 21 of the Master Direction shall be omitted.
+
+**(iv) For paragraph 22 of the Master Direction,** the following shall be substituted, namely:-
+
+*“22. A UCB shall be permitted to undertake insurance business as corporate agent* *with appropriate Board Resolution in this regard subject to the following conditions:*
+
+*(1) A UCB shall not have violated individual and group exposure norms* *prescribed by RBI.*
+*(2) A UCB shall have complied with RBI instructions on loans and advances to* *directors, their relatives, and associated firms.*
+*(3) A UCB complies with the minimum CRAR regulatory requirement.*
+
+<!-- PAGE 4 -->
+
+*(4) A UCB should comply with the Insurance Regulatory and Development* *Authority of India (IRDAI) regulations for corporate agents.*
+*(5) A UCB shall ensure that it is in full compliance with the instructions on* <u>Reserve Bank of India (Urban Co-operative Banks-Responsible Business</u> <u>Conduct) Directions, 2025</u>*.*
+*(6) The business shall be undertaken on fee basis without any risk participation.* *This shall be explicitly disclosed upfront to the customers.*
+*(7) It shall be ensured that insurance companies whose products are being sold* *have robust customer grievance redressal arrangements in place. The UCB* *may facilitate the redressal of grievances.*
+*(8) Only such insurance products which are covered under the arrangement* *shall be listed or displayed on websites or any other digital banking channels* *offered by the UCBs”.*
+**(v)** Paragraph 23 of the Master Direction shall be omitted. **(vi) In paragraph 25 of the Master Direction,** sub-para (1) shall be substituted by the following, namely:- *“(1) A UCB shall comply with the instructions on* <u>Reserve Bank of India (Urban Co-</u> <u>operative Banks - Responsible Business Conduct) Directions, 2025</u> *and relevant* *IRDAI regulations for undertaking referral business with insurance companies”.* **(vii) In paragraph 25 of the Master Direction**, sub-paras (2) and (6) shall be omitted. **(viii)** Paragraph 27 of the Master Direction shall be omitted. **(ix) In paragraph 31 of the Master Direction,** sub-para (2) shall be substituted by the following, namely:- *“(2) A UCB shall fulfil Eligibility Criteria for Business Authorization, as per criteria* *prescribed in our* <u>Reserve Bank of India (Urban Co-operative Banks - Branch</u> <u>Authorisation) Directions, 2025</u>*”.*
+**(x) For paragraph 32 of the Master Direction,** the following shall be substituted, namely:-
+
+<!-- PAGE 5 -->
+
+*“32. A UCB fulfilling the criteria prescribed in paragraph 31 above and desirous of* *providing online trading facility to its demat account holders shall submit its application* *through PRAVAAH Portal (*<u>[https://pravaah.rbi.org.in](https://pravaah.rbi.org.in)</u>*) to Department of Regulation, RBI* *with a copy of Board Resolution to the effect that they shall not be offering tips/* *recommendations to their customers for on-line trading and shall also not be* *undertaking portfolio management services. Further, a UCB offering online trading* *facility in tie-up with a broking entity shall adhere to the following conditions:*
+
+*(1) A UCB shall ensure that it is in full compliance with the instructions on* <u>Reserve Bank of India (Urban Co-operative Banks-Responsible Business</u> <u>Conduct) Directions, 2025</u>*.*
+*(2) The business shall be undertaken on fee basis without any risk participation.* *This shall be explicitly disclosed upfront to the customers.*
+*(3) It shall be ensured that the broking companies whose products are being* *sold have robust customer grievance redressal arrangements in place. The* *bank may facilitate the redressal of grievances”.*
+**(xi) In paragraph 33 of the Master Direction,** the following shall be substituted for the introductory paragraph only, namely:-
+
+*“33. A Scheduled UCB which fulfils Eligibility Criteria for Business Authorization in* *terms of the criteria given in our* <u>Reserve Bank of India (Urban Co-operative Banks</u>*-* <u>Branch Authorisation) Directions, 2025</u>*, shall be eligible to undertake the activity of* *providing Point of Presence (PoP) Services for National Pension System (NPS)* *regulated by Pension Fund Regulatory and Development Authority (PFRDA) subject* *to the following conditions:”*
+
+**(xii) For paragraph 35 of the Master Direction,** the following shall be substituted, namely:- *“35. A UCB acting as PoP shall ensure adherence to the following:*
+
+*(1) A UCB conducting PoP services shall strictly adhere to the instructions on* <u>Reserve Bank of India (Urban Co-operative Banks - Responsible Business</u> <u>Conduct) Directions, 2025</u>*.*
+
+<!-- PAGE 6 -->
+
+*(2) The business shall be undertaken on fee basis without any risk participation.* *This shall be explicitly disclosed upfront to the customers.*
+*(3) It shall be ensured that the Pension Funds whose products are being sold have* *robust customer grievance redressal arrangements in place. The UCB may* *facilitate the redressal of grievances.*
+*(4) A UCB should comply with all the instructions issued by PFRDA from time to* *time”.*
+(Manoranjan Padhy) Chief General Manager

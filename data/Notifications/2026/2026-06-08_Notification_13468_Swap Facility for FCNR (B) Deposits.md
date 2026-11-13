@@ -1,0 +1,65 @@
+---
+doc_id: "Notifications_2026_13468"
+title: "Swap Facility for FCNR (B) Deposits"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/99NT1723C9DF80134A538854DA7B2DA84F37.PDF"
+pdf_sha256: "8dd2483256704d573cbdf6358c2f6e688b97c7bb02f67b33a61a2906e5437dc7"
+md_sha256: "8a84d953be1a9c7935dbbc1da8885f18b5c12cea39554ca5bd658b6da0207182"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-08_Notification_13468_Swap%20Facility%20for%20FCNR%20%28B%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Swap Facility for FCNR (B) Deposits
+
+<!-- PAGE 1 -->
+
+RBI/2026-27/99 FMOD.MAOG.No.S-56/01.06.016/2026-27 June 8, 2026
+
+## All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Swap Facility for FCNR (B) Deposits
+
+Please refer to the <u>Governor’s Statement dated June 5, 2026</u>.
+
+2. It has been decided to introduce a US Dollar-Rupee Forex Swap Facility for fresh FCNR
+(B) deposits, mobilised for a minimum tenor of three years and maximum tenor of five years.
+3. The salient features of the swap facility are as under:
+a) The swap facility will be available to the AD Category I banks for fresh FCNR(B) deposits mobilized in any freely convertible currency, including deposits that are renewed upon maturity, for a minimum tenor of three years and maximum tenor of five years. However, the swap facility with RBI will be available in US Dollars only.
+b) The tenor of the swap will be in alignment with the tenor of the underlying deposits.
+c) Banks are advised to maintain separate records for FCNR (B) deposits that are covered under this scheme along with proper audit trail of transactions.
+d) Banks would be free to price these deposits as per their internal policy, but within the overall ceiling as per the extant guidelines issued by RBI.
+e) For FCNR (B) deposits mobilized in permissible foreign currencies other than US Dollar, banks may arrive at the equivalent US Dollar amount eligible to be swapped by converting the same at the prevailing market rates on the day of the swap deal.
+
+<!-- PAGE 2 -->
+
+Banks may follow a consistent policy as far as conversion is concerned and should maintain a proper documentation (audit trails) of the procedure followed for such conversions.
+
+f) The Swap Facility will be operated daily on all working days in Mumbai (except Saturdays and holidays). However, a bank can avail of the swap facility only once in a week. During any week, the maximum amount of US Dollars that a bank would be eligible to swap with RBI would be equal to all eligible FCNR(B) deposits mobilized in equivalent US Dollar terms during the preceding week(s) for which the facility has not been availed earlier.
+g) Under the swap arrangement, a bank can sell US Dollars in multiples of USD one million to RBI and simultaneously agree to buy the same amount of US Dollars at the end of the swap period. In the first leg of the transaction, the bank will sell US Dollars to RBI at FBIL Reference Rate. The settlement of the first leg of the swap will take place on spot basis from the date of transaction. The second leg of the swap will take place at the same rate as the first leg. The swap will be undertaken at par.
+h) Banks while submitting their request for availing the swap facility will have to furnish a declaration duly signed by their authorised signatories that the said deposits have been mobilised in conformity with the scheme guidelines.
+i) The swap facility will be operationalised by the Financial Markets Operations Department of RBI at Mumbai, who will draw a schedule for banks to avail the facility in an orderly manner, keeping in view the market conditions and other relevant factors.
+j) The underlying deposits will have a lock-in period of one year. The banks may at their discretion allow premature withdrawal of such deposits after one year, as per their internal policy. However, swaps undertaken with RBI cannot be cancelled.
+k) The Swap Facility comes into effect immediately and will remain open up to October 16, 2026 for deposits mobilized between the date of this circular and September 30, 2026.
+l) The FCNR (B) deposits mobilized during the period of the Swap Facility shall be undertaken as per the extant guidelines applicable to such deposits. However, the provisions under para 402 of the <u>Reserve Bank of India (Commercial Banks –</u>
+
+<!-- PAGE 3 -->
+
+<u>Credit Facilities) Directions, 2025 dated November 28, 2025</u> will not be applicable to such deposits.
+
+m) Eligible banks can approach the Financial Markets Operations Department by <u>e-</u> <u>mail</u>ith their request for US Dollar swap facility indicating the amount of US w Dollars to be swapped, tenor of the swap along with the declaration as mentioned at (h) above.
+n) Banks are not required to enter into any ISDA agreement with RBI for this purpose.
+Yours sincerely,
+
+## (T. Kiran Kumar)
+
+General Manager
+
+िवीय बाजार परचालन िवभाग, क � ी य कायार्लय ,पहली मंिजल, मुख्य भवन, शहीद भगत संह मागर्,फोटर्, मुंबई - 400 001 <u>फोन : 022-22610642, फै क् स : 022-22630981, ईमेल: cgmfmod@rbi.org.in</u> Financial Markets Operations Department, Central Office, First Floor, Main Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel: (022)- 22610642, Fax: 022-22630981, E-mail: <u>cgmfmod@rbi.org.in</u> हंदी आसान है ,इसका �योग बढ़ाइए
