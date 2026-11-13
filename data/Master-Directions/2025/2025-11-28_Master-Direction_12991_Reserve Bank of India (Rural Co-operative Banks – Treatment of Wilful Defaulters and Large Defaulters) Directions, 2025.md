@@ -1,0 +1,185 @@
+---
+doc_id: "Master-Directions_2025_12991"
+title: "Reserve Bank of India (Rural Co-operative Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025"
+category: "Master-Directions"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/313MD02F712F901B74064B5DFB5389AAF4635.PDF"
+pdf_sha256: "be8c1e9355ffe784c7966c7230fd7a4fed041b8ec1f0f98527005949593cde85"
+md_sha256: "da31f4508f6a338e35ad3f765146d5cfc51152b235a763d2128b3f280cba43ea"
+total_pages: 12
+native_pages: 12
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T11:53:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_12991_Reserve%20Bank%20of%20India%20%28Rural%20Co-operative%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Rural Co-operative Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक <u>RESERVE BANK OF INDIA</u>
+
+RBI/DOR/2025-26/313 DOR.FIN.REC.No.232/20-16-003/2025-26 November 28, 2025
+
+## Reserve Bank of India (Rural Co-operative Banks – Treatment of Wilful Defaulters
+
+## and Large Defaulters) Directions, 2025
+
+## Table of Contents
+
+**Chapter I-Preliminary..........................................................................................................3**
+**Chapter II-Treatment of Wilful Defaulters.........................................................................4**
+**Chapter III-Reporting of Wilful Defaulters and Large Defaulters....................................5**
+**Chapter IV-Repeal and Other Provisions..........................................................................8**
+**Annex I-Format for submission of List of Large Defaulters.......................................10**
+
+<!-- PAGE 2 -->
+
+## Introduction
+
+The directions aim to put in place a system to disseminate credit information about wilful defaulters for cautioning lenders to ensure that further institutional finance is not made available to them.
+
+Accordingly, in exercise of the powers conferred by the Sections 21 and 35A read with Section 56 of the Banking Regulation Act, 1949; and Section 11 of the Credit Information Companies (Regulation) Act, 2005, the Reserve Bank, being satisfied that it is necessary and expedient in public interest so to do, hereby, issues these Directions hereinafter specified.
+
+<!-- PAGE 3 -->
+
+## Chapter I-Preliminary
+
+## 1. Short title and commencement
+
+(1) These directions shall be called the Reserve Bank of India (Rural Co-operative Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025.
+(2) These directions shall come into force with immediate effect.
+## 2. Applicability
+
+(1) These Directions shall be applicable to Rural Co-operative Banks (hereinafter collectively referred to as 'RCBs' and individually as a 'RCB'). *For the purpose of these Directions, ‘Rural Co-operative Banks’ mean State Co-* *operative Banks and Central Co-operative Banks, as defined in the National Bank for* *Agriculture and Rural Development Act, 1981.*
+(2) The restrictions on further financial accommodation to wilful defaulters and provisions regarding large defaulters contained in these Directions, shall apply to all entities regulated by the Reserve Bank, irrespective of whether they fall within the definition of ‘lender’ as provided in these Directions or not.
+## 3. Definitions
+
+(1) All the expressions used in these Directions shall have the same meaning as have been assigned to them under the <u>Reserve Bank of India (Urban Co-operative Banks</u> <u>– Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025</u> or the Banking Regulation Act, 1949 or the Reserve Bank of India Act, 1934 or the Credit Information Companies (Regulation) Act, 2005, or the Companies Act, 2013, or any statutory modification or re-enactment thereto or other regulations issued by the Reserve Bank of India or the Glossary of Terms published by Reserve Bank or as used in commercial parlance, as the case may be.
+
+<!-- PAGE 4 -->
+
+## Chapter II-Treatment of Wilful Defaulters
+
+## 4. Penal and other measures against wilful defaulters
+
+(1) The penal measures mentioned below shall be implemented by a RCB in the case of any person / entity classified as wilful defaulter by any lender:
+(i) No additional credit facility shall be granted by the RCB to the wilful defaulter or any entity with which the wilful defaulter is associated. (ii) The bar on additional credit facility to the wilful defaulter or any entity with which the wilful defaulter is associated shall be effective for a period of one year after the name of the wilful defaulter has been removed from the List of Wilful Defaulters by the lenders. (iii) No credit facility shall be granted by the RCB for floating of new ventures to the wilful defaulter or any entity with which the wilful defaulter is associated for a period of five years after the name of wilful defaulter has been removed from the List of Wilful Defaulters by the lenders. (iv) The restructuring of wilful defaulters or any entity with which a wilful defaulter is associated shall be as per the stipulations contained in the <u>Reserve Bank of India</u> <u>(Rural Co-operative Banks – Resolution of Stressed Assets) Directions, 2025</u>.
+*Provided that* the penal provisions mentioned above shall cease to be applicable on the associated entities when they are no longer associated with the wilful defaulters. *Explanation 1:* If the wilful defaulter is a company, another company will be deemed to be associated with it, if that company is –
+
+i. a 'subsidiary company' as defined under clause 2 (87) of the Companies Act, 2013. ii. falls within the definition of a 'joint venture' or an 'associate company' under clause
+(6) of section 2 of the Companies Act, 2013.
+*Explanation 2:* If the wilful defaulter is a natural person, all entities in which he is associated as promoter, or director, or as one in charge and responsible for the management of the affairs of the entity shall be deemed to be associated.
+
+<!-- PAGE 5 -->
+
+## Chapter III-Reporting of Wilful Defaulters and Large Defaulters
+
+## 5. Reporting and Dissemination of Credit Information on Large Defaulters
+
+(1) A RCB shall submit information in <u>Annex I</u> to all credit information companies (CICs) in respect of the large defaulters at monthly intervals:
+(i) a list of suit filed accounts of large defaulters; and (ii) a list of non-suit filed accounts of large defaulters whose account has been classified as doubtful or loss (in accordance with the instructions issued by the Reserve Bank from time to time).
+(2) For calculating the threshold of ₹1 crore, the unapplied interest, if any, shall also be included. In the case of suit-filed accounts, the threshold shall relate to the amount for which the suits have been filed.
+**6. Treatment of accounts where resolution is done under Insolvency and** **Bankruptcy Code (IBC) / resolution framework Directions issued by the Reserve** **Bank**
+(1) The penal measures as detailed in Paragraph 4 shall not be applicable to such entities / business enterprises after implementation of the resolution plan involving change in ownership, under the IBC or the resolution framework Directions issued by the Reserve Bank. ***Explanation*:** The resolution framework Directions issued by the Reserve Bank shall mean any of the following Directions:
+(i) <u>Reserve Bank of India (Commercial Banks – Resolution of Stressed Assets)</u> <u>Directions</u> (ii) <u>Reserve Bank of India (Small Finance Banks – Resolution of Stressed Assets)</u> <u>Directions</u> (iii) <u>Reserve Bank of India (All India Financial Institutions – Resolution of Stressed</u> <u>Assets) Directions</u>
+
+<!-- PAGE 6 -->
+
+(iv)<u>Reserve Bank of India (Non-Banking Financial Companies – Resolution of</u> <u>Stressed Assets) Directions</u>.
+
+(2) The penal measures detailed in Paragraph 4 (ii) and (iii) shall continue to apply to the erstwhile promoter(s) / director(s) / guarantor(s) / persons who were in charge and responsible for the management of the affairs of the entity / business enterprise, and to the entities they are associated as a promoter or director or as one in charge and responsible for its management.
+## 7. Responsibility for Correct Reporting
+
+(1) The responsibility for reporting correct information and also ensuring the accuracy of facts and figures rests with the reporting RCB.
+(2) A RCB, while furnishing information to credit information companies, shall ensure the accuracy of the particulars of the directors, and wherever possible, by cross-checking with the database maintained by the Registrar of Companies.
+## 8. Reporting of Guarantors
+
+A RCB shall report to credit information companies the details of guarantors who have failed to honour the commitments thereunder when invoked, as large defaulters. The details shall be reported as per <u>Annex I</u>.
+
+## 9. Preventive Measures
+
+(1) Credit appraisal
+(i) While carrying out the credit appraisal, a RCB shall verify as to whether the name of any of the directors of a company / guarantors / persons in charge of the management of affairs of the entity appears in the list of large defaulters / LWD by way of reference to DIN / PAN, etc. (ii) In case of any doubt arising on account of identical names, the RCB shall use independent sources for confirmation of the identity of directors rather than seeking a declaration from the borrowing company.
+
+<!-- PAGE 7 -->
+
+(2) Monitoring End Use of Funds
+(i) A RCB shall closely monitor the end-use of funds and obtain certificates from borrowers certifying that the funds have been utilised for the purpose for which they were obtained. In case of the wrong certification by the borrowers, the RCB shall consider initiating appropriate legal proceedings, including criminal proceedings wherever necessary, against the borrowers. (ii) The requirements and related appropriate measures in ensuring the end-use of funds by a RCB shall form a part of its loan policy document. An illustrative list of measures for monitoring and ensuring end-use of funds by a RCB are:
+(a) Meaningful scrutiny of quarterly progress reports / operating statements / balance sheets of the borrowers;
+(b) Regular inspection of borrowers' assets charged to the RCB as security;
+(c) Periodic scrutiny of borrowers' books of accounts and the 'no-lien' accounts maintained with other lenders;
+(d) Periodic visits to the assisted units;
+(e) System of periodic stock audit, in case of working capital finance;
+(f) Periodic comprehensive management audit of the 'credit' function of the RCB, so as to identify the systemic weaknesses in their credit administration.
+(iii) A RCB must not just depend on the certificates issued by the Chartered Accountants for ensuring end use of funds but also strengthen their credit risk management system and internal controls to enhance the quality of their loan portfolio. Further, in all cases, especially in the case of short-term corporate / clean loans, such an approach must be supplemented by 'due diligence' on the part of the RCB itself, and to the extent possible, such loans must be limited only to those borrowers whose integrity and reliability are above board.
+
+<!-- PAGE 8 -->
+
+## Chapter IV-Repeal and Other Provisions
+
+## 10. Repeal and saving
+
+(1) With the issue of these Directions, the existing directions, instructions, and guidelines relating Treatment of Wilful Defaulters and Large Defaulters as applicable to Rural Co-operative Banks stands repealed, as communicated vide <u>circular</u> <u>DOR.RRC.REC.302/33-01-010/2025-26 dated November 28, 2025</u>. The directions, instructions and guidelines already repealed vide any of the directions, instructions, and guidelines listed in the above notification shall continue to remain repealed.
+(2) Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed lists shall be deemed as governed by these Directions. Further, the repeal of these directions, instructions, or guidelines shall not in any way prejudicially affect:
+i. any right, obligation or liability acquired, accrued, or incurred thereunder; ii. any, penalty, forfeiture, or punishment incurred in respect of any contravention committed thereunder;
+iii. any investigation, legal proceeding, or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid; and any such investigation, legal proceedings or remedy may be instituted, continued, or enforced and any such penalty, forfeiture or punishment may be imposed as if those directions, instructions, or guidelines had not been repealed.
+
+**11. Application of other laws not barred**
+(1) The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations, or directions, for the time being in force.
+## 12. Interpretations
+
+(1) For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the Reserve Bank may, if it considers necessary, issue necessary
+
+<!-- PAGE 9 -->
+
+clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the Reserve Bank shall be final and binding.
+
+(J.P. Sharma) Chief General Manager
+
+<!-- PAGE 10 -->
+
+## Annex I-Format for submission of List of Large Defaulters
+
+## Format for submission of List of Large Defaulters of ₹1 crore and above (suit-
+
+## filed and non-suit filed accounts) to all CICs on monthly basis
+
+|Field|Field Name|Type|Max Field Length|Description|Remarks|
+|---|---|---|---|---|---|
+|1.|Reporting Cycle|Alpha Numeric|5|Month for which data is reported|the The reporting cycle data for month of January 2024, should be filled as ‘JAN24’|
+|2.|Member ID|Alpha Numeric|10|to include Reporting Member Code as assigned by CICs.|The field is required Contains ID of the member reporting the data|
+|3.|Member Name|Character|200|Name of the member|Must contain the name of the member who is reporting the data.|
+|4.|Member Branch|Character|30|member|Branch name of the Name of the branch should be fed.|
+|5.|STATE|Character|35|Name of state|Name of state in which branch is situated.|
+|6.|Borrower Name|Alpha Numeric|1000|Minimum length the Name 2 characters for individual borrowers and 4 characters for non- individual.|of The legal name of the should be borrower to be reported.|
+|7.|Borrower PAN|Alpha Numeric|10|Must be 10 be letters, followed by four numbers, and Department followed by a letter.|Permanent Account characters. The first Number (PAN) as five characters must defined by the Income Tax|
+
+<!-- PAGE 11 -->
+
+|8.|Borrower Address|Alpha Numeric|1000|Permanent Address / Registered address of the borrower||
+|---|---|---|---|---|---|
+|9.|Outstanding Amount|Numeric|8|Should be a Numeric Value|Outstanding amount in ₹ lakh (rounded- off)|
+|10.|Suit Status|Numeric|2|Valid Values 01 - Suit filed – Non-Suit Filed|Indicates whether suit has been filed or not.|
+|11.|Asset Classification|Character|5|Valid Values For Non-Suit Filed Accounts. 'DOUBT' for doubtful accounts. 'LOSS' for loss accounts. For Suit Filed Accounts 'DOUBT' for doubtful accounts. 'LOSS' for loss accounts. 'SUBST' for substandard accounts. 'STD' for standard accounts.|Asset classification|
+|12.|Asset Classification Date|Alpha Numeric|5|Month in which the Indicates account was Classified as 'DOUBT'/'LOSS/ SUBSTD/STD' in The format 'mmmyy' where mmm stand for the first 3 characters of the month. The date of classification 'march 2000' should be filled up as 'MAR00'.|the date of asset classification|
+|13.|Other Member|Character|1000|The names may fed in abbreviated for State Bank of India etc.|be The names of other lenders from whom the form e.g., BOB for borrower has availed Bank of Baroda, SBI credit facility should be indicated.|
+
+<!-- PAGE 12 -->
+
+|14.|Director/ Promoter Name|Character|1000|Minimum length of Name name should be 2 Director/Promoter. characters|of|
+|---|---|---|---|---|---|
+|15.|Director/ Promoter DIN|Alpha Numeric|8|DIN Number length DIN should be 8|of the Director/ Promoter.|
+|16.|Director/ Promoter PAN|Alpha Numeric|10|Must be a minimum PAN of 10 characters. The Director/Promoter. first five characters must be letters, followed by four numbers, and followed by a letter.|of the|
+|17.|Guarantor Name Character||1000|name should be 2 Guarantor should characters|Minimum length of Full name of the be indicated.|
+|18.|G uarantor CIN|Alpha numeric|21|Corporate identification number entities of guarantor entity|Only in case of legal|
+|19.|Guarantor PAN|Alpha Numeric|10|Must be a of 10 characters. The /legal entities first five characters must be letters, followed by four numbers, and followed by a letter.|minimum In case of individual|
+
+## NOTE:
+
+- Reporting structure of the data would be row level, which would enable members/ lenders to report multiple directors and guarantors of the borrower.
+- A director other than whole-time director, including an independent director/ nominee director shall not be included.
+- In case of Government undertakings, instead of giving names of Chairman/Director, etc., a legend 'Govt. of undertaking' should be mentioned.
+- Separate files for suit filed and non-suit filed accounts shall be submitted.
