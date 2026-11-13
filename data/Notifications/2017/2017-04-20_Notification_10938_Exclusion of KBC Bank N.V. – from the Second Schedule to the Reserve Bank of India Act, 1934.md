@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2017_10938"
+title: "Exclusion of KBC Bank N.V. – from the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI28850F3DEBAB2B5422C977698204E37FE88.PDF"
+pdf_sha256: "9f317b74f7d5929f64b1198be4ea3636a4500f8ba068d389642c1d6f629f87f4"
+md_sha256: "37b217dab204855a321cdcaaa3c6a2358d9a4ee9bf1e131cc424b0796422c942"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-04-20_Notification_10938_Exclusion%20of%20KBC%20Bank%20N.V.%20%E2%80%93%20from%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exclusion of KBC Bank N.V. – from the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/288 DBR.No.Ret.BC.24/12.07.118A/2016-17 April 20, 2017
+
+## <u>All Scheduled Commercial Banks</u>
+
+Dear Sir/Madam,
+
+## Exclusion of KBC Bank N.V. – from the Second Schedule to the
+
+## Reserve Bank of India Act, 1934
+
+We advise that the **KBC Bank N.V.** has been excluded from the Second Schedule to the Reserve Bank of India Act, 1934 vide Notification DBR.IBD.No.16137/23.13.077/ 2015-16 dated June 24, 2016 and published in the Gazette of India (Part III Section
+
+4) dated August 27 - September 02, 2016.
+## Yours faithfully
+
+(M.G. Suprabhat) Deputy General Manager
+
+**Department of Banking Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**

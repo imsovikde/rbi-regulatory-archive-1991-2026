@@ -1,0 +1,65 @@
+---
+doc_id: "Notifications_2017_10919"
+title: "Security Substitution Facility for term repos conducted by Reserve Bank of India under the Liquidity Adjustment Facility"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2744AF1FC05542B461DA3CFA4BFBD733A6B.PDF"
+pdf_sha256: "cd4226e50b75a34deba361bdc58d41669a8397694eceb69b6894d415ff6f956c"
+md_sha256: "4e0f89877b75d43ae10ed02d6a288fd37027fa8a46cdff2db3dd249c68237aa5"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-04-12_Notification_10919_Security%20Substitution%20Facility%20for%20term%20repos%20conducted%20by%20Reserve%20Bank%20of%20India%20under%20the%20Liquidity%20Adjustment%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Security Substitution Facility for term repos conducted by Reserve Bank of India under the Liquidity Adjustment Facility
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI/2016-17/274 FMOD.MAOG.No.120/01.01.001/2016-17 April 12, 2017
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks), Scheduled Urban Co-operative Banks and Standalone Primary Dealers
+
+Dear Sir/Madam,
+
+## Security Substitution Facility for term repos conducted by Reserve Bank of
+
+## India under the Liquidity Adjustment Facility
+
+As announced in the <u>First Bi-monthly Monetary Policy Statement for 2017-18</u>, it has been decided to allow substitution of collateral (security) by the market participants during the tenor of the term repos conducted by Reserve Bank of India under the Liquidity Adjustment Facility, from April 17, 2017.
+
+2. The securities offered for substitution by the market participants shall be of similar market value based on the latest prices published by the Fixed Income Money Market and Derivatives Association of India (FIMMDA).
+3. The facility will be available in the e-kuber portal from Monday to Friday between 9:00 a.m. and 5:00 p.m. on all working days in Mumbai.
+4. Market participants facing genuine technical problem on any specific day can submit the security substitution request through <u>e-mail</u> or by fax (no. 022-22630981) before 4:45 p.m.
+5. An illustration regarding security substitution is furnished in the Annex. Yours faithfully, (Radha Shyam Ratho) Chief General Manager
+
+|िवीय बाज़ार एवं परचालन िवभाग, कें द्र ी य कायार्लय,1 ली मंिजल,मख||य् ु|भवन, शहीद भगत िसंह मागर्, मम्बई -400001 ु|
+|---|---|---|---|
+|Financial Markets Operations Department, Central Office, 1 Tel: (022)- 22610642 TeleFax: (022)- 2263 0981 E-mail: िहदी ं|nd आसान है, इसका प्रयोग बढाऍ||floor, Main Building, Shahid Bhagat Singh Marg, Mumbai-400001 cgmfmod@rbi.org.in|
+
+<!-- PAGE 2 -->
+
+# Annex
+
+## <u>Illustration: Substitution of securities in term repos under the liquidity</u>
+
+<u>adjustment facility</u> **April 18, 2017**
+
+i. For a successful bid of Rs.200 crore in 14 day Term Repo auction on April 18, 2017, a participant provides a Central Govt. security 8.40% GS 2024 worth Rs. 208 crore market value (including 4% margin for Central Government security). ii. The dirty price of the security is calculated based on the latest file published by FIMMDA i.e. of April 17, 2017. Assume the price to be Rs.110.
+iii. Therefore, the face value of security 8.40% GS 2024 that is debited from Repo Constituent (RC) account (after rounding-up) would be Rs.189.091 crore (208 x 100 /110). **April 20, 2017** iv. The participant chooses to **substitute Rs.100 crore face value** of the security
+
+8.40% GS 2024 with a new security 8.83% GS 2023 on April 20, 2017.
+v. The dirty price of 8.83% GS 2023 would be based on the latest available FIMMDA price in the system i.e. the file published on April 19, 2017. Assume the price to be 115. vi. The amount of security 8.83% GS 2023 which has to be provided by the market participant in his Repo Constituent in order to substitute the security 8.40% GS 2024 would be calculated as follows: Required face value of new security to be substituted = (Market Value of the security intended to be withdrawn, i.e. 8.40 % GS 2024, based on April 17, 2017 price) x 100 / (latest market price of the security offered as substitution, i.e. 8.83% GS 2023, based on April 19, 2017 price = 110 * 100/115 = 95.652
+vii. Therefore, in order to substitute Rs.100 crore face value of security 8.40% GS 2024, the participant has to provide Rs. 95.652 crore face value of new security
+
+8.83% GS 2023.
+## State Government security
+
+viii. If a State government security is offered for substitution, then it would attract 6% margin as hitherto.
