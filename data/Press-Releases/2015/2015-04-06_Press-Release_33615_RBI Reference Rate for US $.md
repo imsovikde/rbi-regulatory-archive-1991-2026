@@ -1,0 +1,52 @@
+---
+doc_id: "Press-Releases_2015_33615"
+title: "RBI Reference Rate for US $"
+category: "Press-Releases"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR2089RR0415.pdf"
+pdf_sha256: "67873e4ae5b3bf5d4566c97357c83ee175ad0a68ca5801a17b58be705bb229cd"
+md_sha256: "ee8665e35a995eedbd588c991809d1db8392c0255e42a0d5c54e6e175499785a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:44:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2015/2015-04-06_Press-Release_33615_RBI%20Reference%20Rate%20for%20US%20%24.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय ररज़िव बकैं
+
+## RESERVE BANK OF INDIA
+
+**संचार विभाग,** कें द्रीय कायाालय, एस.बी.एस.मार्ा, मुंबई-400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 22660358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u>
+
+## April 06, 2015
+
+## RBI Reference Rate for US $
+
+The Reserve Bank of India’s Reference Rate for the US Dollar is 62.1580 on April 06, 2015.
+
+The corresponding rate for the previous day (March 31, 2015) was 62.5908.
+
+Based on the reference rate for the US Dollar and the middle rates of the cross-currency quotes, the exchange rate of EUR, GBP and JPY against the Rupee are given below:
+
+|Currency|Date||
+|---|---|---|
+||March 31, 2015|April 06, 2015|
+|1 EUR|67.5104|68.2308|
+|1 GBP|92.4591|92.7335|
+|100 YEN|52.11|52.23|
+|Note :|The SDR-Rupee rate will be based on the reference rate.||
+
+## Ajit Prasad
+
+## Press Release: 2014-2015/2089
+
+Assistant General Manager
