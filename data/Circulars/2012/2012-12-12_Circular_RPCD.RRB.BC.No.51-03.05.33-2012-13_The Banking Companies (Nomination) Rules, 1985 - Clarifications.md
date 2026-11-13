@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2012_RPCD_RRB_BC_No_51_03_05_33_2012-13"
+title: "The Banking Companies (Nomination) Rules, 1985 - Clarifications"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BCC14122012.PDF"
+pdf_sha256: "ead33b7ec10e77af46b4ad269f4ae6c3f049a6b27923edfeb19886bdc29a1f23"
+md_sha256: "85c91d280fff1d58ccb000ce4df4c7b237649496b4e6a8614943dceca3a93691"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:54:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-12-12_Circular_RPCD.RRB.BC.No.51-03.05.33-2012-13_The%20Banking%20Companies%20%28Nomination%29%20Rules%2C%201985%20-%20Clarifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Banking Companies (Nomination) Rules, 1985 - Clarifications
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+______________________________**RREESSEERRVVEE BBAANNKK OOFF IINNDDIIAA** _______________________________ www.rbi.org.in RBI/2012-13/333 RPCD.RRB.BC.No. 51/ 03.05.33/2012-13 December 12, 2012
+
+### All Regional Rural Banks
+
+### Dear Sir
+
+### The Banking Companies (Nomination) Rules, 1985 - Clarifications
+
+### 1. Witness in nomination forms
+
+As you are aware, the Banking Companies (Nomination) Rules, 1985 have been framed in exercise of powers conferred by Section 52 read with Sections 45ZA, 45ZC and 45ZE of the Banking Regulation Act, 1949. The nomination forms (DA1, DA2 and DA3) have also been prescribed in the Nomination Rules. These forms, inter alia, prescribe that the thumb impression of the accountholder is required to be attested by two witnesses. It has come to our notice that some banks also insist on attestation of signature by witnesses.
+
+We have examined the issue in consultation with Indian Banks' Association and clarify that for the various Forms (DA1, DA2 and DA3 for Bank Deposits, Forms SC1, SC2 and SC3 for Articles left in Safe Custody, Forms SL1, SL1A, SL2, SL3 and SL3A for Safety Lockers) prescribed under Banking Companies Nomination Rules, 1985 only thumb-impressions(s) shall be attested by two witnesses. Signatures of the account holders need not be attested by witnesses.
+
+### 2. Nomination in case of joint deposit accounts
+
+# Withdrawn
+
+It is understood that sometimes the customers opening joint accounts with or without "Either or Survivor " mandate, are dissuaded from exercising the nomination facility. It is clarified that nomination facility is available for joint deposit accounts also. Banks are, therefore, advised to ensure that their branches offer nomination facility to all deposit accounts including joint accounts opened by the customers.
+
+Banks are advised to ensure strict compliance of the instructions as per the clarification given above.
+
+### Yours faithfully
+
+(C.D. Srinivasan) Chief General Manager
+
+Rural Planning & Credit Department Central Office, 10 th Floor, Central Office Building, Post Box no. 10014 Mumbai ‐ 400 001 **Tel No**: +91 22 2261 0261| **Fax No:** +91 22 2262 1011/2265 8273/2265 8276| **Email:** cgmicrpcd@rbi.org.in
+
+|“चेतावनी Caution: -मेल रज़व बक ारा|||डाक, एसएमएस|या फोन कॉल|के जरए कसी|क भी ����गत|जानकार|जैसे बक के खाते|का �यौरा, पासवड|आद नहं|
+|---|---|---|---|---|---|---|---|---|---|---|
+|मांगी जाती Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन रखने|या देने का ूःताव भी|नहं करता|है। ऐसे ूःताव का|कसी भी तरके|से जवाब|मत ���जए।"|passwords, etc.. It never|||

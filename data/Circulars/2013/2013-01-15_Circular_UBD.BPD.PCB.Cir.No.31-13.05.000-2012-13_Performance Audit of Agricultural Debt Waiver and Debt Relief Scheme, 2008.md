@@ -1,0 +1,67 @@
+---
+doc_id: "Circulars_2013_UBD_BPD_PCB_Cir_No_31_13_05_000_2012-13"
+title: "Performance Audit of Agricultural Debt Waiver and Debt Relief Scheme, 2008"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ADWDR150113_F.PDF"
+pdf_sha256: "d8ddf0d33e75821e983ffc9b7c8506af25f07978e380035c23aae94fa5e9f690"
+md_sha256: "ee4790838b0fe063669431e2501a62fd7cdcd0f78f2908b112d91d15c5308c5b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:54:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-01-15_Circular_UBD.BPD.PCB.Cir.No.31-13.05.000-2012-13_Performance%20Audit%20of%20Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Performance Audit of Agricultural Debt Waiver and Debt Relief Scheme, 2008
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़र्व बैंक
+
+## ___________________________RESERVE BANK OF INDIA________________________ <u>www.rbi.org.in</u>
+
+RBI/2012-13/381 UBD. BPD.PCB. Cir. No. 31/13.05.000/2012-13 January 15, 2013
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+## <u>Performance Audit Of Agricultural Debt Waiver And Debt Relief Scheme, 2008</u>
+
+As you are aware, the Performance Audit of the Agricultural Debt Waiver and Debt Relief Scheme (ADWDRS), 2008 is being undertaken by the Office of the Comptroller and Auditor General (CAG). During the Exit Conference held with Officers of CAG on December 7, 2012, the following major observations were made with regard to implementation of the Scheme :
+
+(i) Ineligible accounts of farmers extended benefits under the Scheme. The audit has noted that to provide benefit to ineligible farmers, instances of tampering and over-writing, inadequate documentation, etc. had taken place. (ii) Benefit was only extendable to farmers directly but in some cases loans extended to MFIs were claimed and disbursed. (iii) Less/Excess benefit extended to eligible accounts. (iv) Reimbursement of inadmissible charges to banks.
+(v) Non-issuance of Debt Waiver and Debt Relief Certificates. (vi) Outcome relating to fresh loans not monitored.
+# Withdrawn
+
+2. In view of the above, the Government of India has desired that immediate corrective measures be taken by all the banks since the specific cases scrutinized by CAG and their observations thereon are already available with the banks. You are, therefore, requested to take following action in such areas :
+
+|Sr.|Audit Observation|Remedial Measures|
+|---|---|---|
+|No|||
+|1. Ineligible accounts of farmers extended||(i) Recovery of such money from|
+|benefits under the Scheme. The||audit such ineligible beneficiaries.|
+|has noted that to provide benefit to||(ii) Fixing of responsibility of bank|
+|ineligible farmers, instances of tampering||officials as well as auditors.|
+|and documentation, etc. had taken place.|over-writing, inadequate|(iii) Considering lodging of FIRs in cases of tampering of records.|
+
+शहरी बैंक विभाग,कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ ए बी रोड, िरली, मंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बैंक हहन्दी में पत्राचार का स्िागत करता है —</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररये कोई भी व्यज़क्तगत जानकारी जैसे बैंक खाते का ब्यौरा, पासिडा आहद नहीं मााँगा जाता है। यह धन रखने या देने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+-2 –
+
+|2.|Benefit was only extendable to farmers directly but in some cases loans extended to MFIs were claimed and disbursed.|(i) Fixing of responsibility of the officials responsible for such disbursal. (ii) Recovery of such money.|
+|---|---|---|
+|3.|Less/Excess benefit extended to eligible accounts|(i) Recovery in cases of excess payment. (ii) Fixing responsibility of banks’ officials as well as auditor responsible for such act.|
+|4.|Reimbursement of inadmissible charges to banks.|(i) Recovery of such money (ii) Fixing of the responsibility of claimant institutions and disbursing officials.|
+|5.|Non-issuance of Debt Waiver and Debt Relief Certificates.|(i) In cases where such certificates have not been issued, these should be immediately issued. This should be completed by February 28, 2013.|
+|6.|Outcome relating to fresh loans not monitored.|(i) Such monitoring should be immediately undertaken in respect of beneficiaries granted relief under the Scheme.|
+
+3. Please ensure that the action, as indicated above, is completed within 15 days from the date of issue of this Circular and reported to the concerned Regional Office of Reserve Bank of India.
+# Withdrawn
+
+4. Please acknowledge the receipt to the Regional Office concerned. Yours faithfully, (A. Udgata) Chief General Manager-in-Charge
