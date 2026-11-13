@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2005_2656"
+title: "Participation in various fora under Lead Bank Scheme"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67596.pdf"
+pdf_sha256: "eeebabb3bdc22aa4c9886162bdbd826406b8643789f3f039af2f33ddf870df57"
+md_sha256: "1c65f2cf83ae7a3e8eed1cf802505c2ee510403ebff3bda99073b0edbd50e52d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-12-06_Notification_2656_Participation%20in%20various%20fora%20under%20Lead%20Bank%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Participation in various fora under Lead Bank Scheme
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/229
+
+## No. RPCD. LBS. BC. No.50/02.01.01/2005-06
+
+## December 06, 2005
+
+The Chairman/Managing Director/Chief Executive Officer (All Indian Private Sector Banks)
+
+Dear Sir,
+
+<u>Participation in various fora under Lead Bank Scheme</u>
+
+Please refer to our Circular letter No.RPCD.LBS.BC.76/02.01.01/2004-05 dated th 28 January, 2005 on the captioned subject through which private sector banks were requested to take active part in various for a under Lead Bank Scheme and Government sponsored schemes and cooperate with the Lead Bank concerned in the district and take appropriate steps to improve the flow of credit to the priority sector/weaker sections so that comprehensive credit planning and monitoring can be done at various levels.
+
+2. In this connection, we observe : -
+a) Non-participation/low level participation by banks in district/block level meetings,
+b) Participants attending the meetings having no feed back on the progress of their bank branches in the district;
+c) Participants attending the meeting often not having decision making powers;
+d) Non acceptance of targets by new generation banks, approved by District Level Consultative Committee.
+In view of the above, you are once again advised to ensure that your bank actively participates in these fora and increases the flow of credit to agriculture, priority sector and weaker sections of the society.
+
+Yours faithfully,
+
+(A.K.Bhandari) Deputy General Manager

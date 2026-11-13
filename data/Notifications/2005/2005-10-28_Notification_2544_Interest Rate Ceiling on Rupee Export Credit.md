@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2005_2544"
+title: "Interest Rate Ceiling on Rupee Export Credit"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66967.pdf"
+pdf_sha256: "9f10cdb2e56a34f6774996b4df9f17c2ef553dde28ff5b5458c0b124a0ca9ac3"
+md_sha256: "47ec720eb93ea255b95bc83a111f5d283b1a140230d0e6c524b4b9aae6fe3e6e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:14:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-10-28_Notification_2544_Interest%20Rate%20Ceiling%20on%20Rupee%20Export%20Credit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate Ceiling on Rupee Export Credit
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/194 Ref.No.MPD.BC.276/07.01.279/2005-06 October 28, 2005 Kartika 6, 1927(Saka)
+
+To,
+
+## All Scheduled Commercial Banks
+
+Dear Sir,
+
+<u>Interest Rate Ceiling on Rupee Export Credit</u>
+
+On September 24, 2001, it was decided to effect reduction in the ceiling of interest rates charged by scheduled commercial banks on pre-shipment and post-shipment rupee export credit by one percentage point (linked to BPLR) with effect from September 26, 2001. This dispensation was earlier extended up to October 31, 2005.
+
+2. Subject to the review of the BPLR system afresh, as indicated in the Mid- term Review of the Annual Policy Statement for the year 2005-06, it has been decided to extend the validity of the reduction in the interest rates (linked to BPLR) on pre-shipment rupee export credit up to 180 days and post-shipment rupee export credit up to 90 days announced on September 24, 2001 for a further period of six months up to April 30, 2006 (Annex).
+3. Kindly acknowledge receipt.
+Yours faithfully,
+
+(K.Kanagasabapathy) Adviser-in-Charge
+
+<!-- PAGE 2 -->
+
+|Annex||
+|---|---|
+|Category|With effect from November 01, 2005 (up to April 30, 2006)|
+|Pre-shipment Rupee Export Credit||
+|(i) Up to 180 days (ii) Beyond 180 days and up to 270 days|Not exceeding BPLR minus 2.5 percentage points. Free.|
+|Post-shipment Rupee Export Credit||
+|(a) On demand bills for transit period (as specified by FEDAI) (b) Usance bills (i) Up to 90 days (ii) Beyond 90 days and up to 6 months from the date of shipment|Not exceeding BPLR minus 2.5 percentage points. Not exceeding BPLR minus 2.5 percentage points. Free.|
+
+## BPLR : Benchmark Prime Lending Rate
+
+Note : Since these are ceiling rates, banks would be free to charge any rate below the ceiling rates.

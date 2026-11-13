@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2005_2540"
+title: "Liquidity Adjustment Facility – Repo and Reverse Repo Rates"
+category: "Notifications"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66912.pdf"
+pdf_sha256: "91f6d06d484c7f7080ba188260a45f45060dc2a6f8a68b797bea77e4f2df1512"
+md_sha256: "c93635446ca044888009c4dcdb72cfc00689fb1ba9799adafee4cd5753217190"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T12:14:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-10-25_Notification_2540_Liquidity%20Adjustment%20Facility%20%E2%80%93%20Repo%20and%20Reverse%20Repo%20Rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility – Repo and Reverse Repo Rates
+
+<!-- PAGE 1 -->
+
+HRdla Rad ae
+
+RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RB1/2005-06/189
+
+FMD.No.1 /01.01.01/2005-06
+
+October25,2005
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+and Primary Dealers
+
+Dear Sir,
+
+LIQUIDITYADJUSTMENTFACILITY-REPOANDREVERSEREPORATES
+
+Please refer to paragraphs 52 and 53 of the Mid-Term Review of Annual Policy Statement for the
+
+year 2005-06 dated October 25, 2005 and our circular IDMD.OMO.No.09/03.75.00/2004-05 dated
+
+April 28, 2005.
+
+2. In view of the current macroeconomic and overall monetary conditions, it has been decided, to
+
+increase the fixed reverse repo rate under the liquidity adjustment facility (LAF) of the Reserve
+
+Bank by 25 basis points with effect from October 26, 2005 to 5.25 per cent from 5.0 per cent.
+
+4. All other terms and conditions of the current LAF Scheme will remain unchanged.
+
+Yours faithfully
+
+(Chandan Sinha)
+
+Chief General Manager
+
+,, 22,,-400001,
+
+: 22661859 qH  : 22630090 - 3Hss :<cgmfmd@rbi.org.in>
+
+Financial Markets Dept., Central Office Building, 22nd Floor, Shahid Bhagat Singh Road, Fort,Mumbai - 400 001, India
+
+Tel : 22661859 Fax No:22630090 E-Mail :<cgmfmd@rbi.0rg.in>
