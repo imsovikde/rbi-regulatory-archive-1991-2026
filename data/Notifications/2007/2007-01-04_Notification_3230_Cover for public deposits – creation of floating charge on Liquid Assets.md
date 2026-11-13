@@ -1,0 +1,162 @@
+---
+doc_id: "Notifications_2007_3230"
+title: "Cover for public deposits – creation of floating charge on Liquid  Assets"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75104.pdf"
+pdf_sha256: "1f15d975fc089852914978a98248194a40b529827783583b77489c022d13d9bf"
+md_sha256: "31b10959a25117035fab1f17758733baf184b44108ae5d2e48c56c04156002bc"
+total_pages: 10
+native_pages: 10
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-01-04_Notification_3230_Cover%20for%20public%20deposits%20%E2%80%93%20creation%20of%20floating%20charge%20on%20Liquid%20Assets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Cover for public deposits – creation of floating charge on Liquid  Assets
+
+<!-- PAGE 1 -->
+
+## RBI/2006-07/225 DNBS (PD) C.C No. 87 /03.02.004/2006-07
+
+## January 4, 2007.
+
+To All deposit taking Non- Banking Financial Companies (Excluding Residuary Non-Banking Companies)
+
+Dear Sir,
+
+## <u>Cover for public deposits – creation of floating charge on Liquid Assets</u>
+
+Please refer to our circular DNBS (PD) C.C No. 47/02.01/ 2004-05 dated February 07, 2005 on the captioned subject. In terms of paragraph 3 of the said circular, all NBFCs accepting/ holding public deposits were advised to create floating charge on the statutory liquid assets invested in terms of Section 45- IB of the RBI Act, 1934, in favour of their depositors.
+
+2. In view of the practical difficulties expressed by the NBFCs in creating charge on the statutory liquid assets in favour of large number of depositors, it has been decided that NBFCs accepting/ holding public deposits may create the floating charge on the statutory liquid assets maintained in terms of Section 45-IB of the RBI Act, 1934 and notifications issued by the Bank from time to time, in favour of their depositors through the mechanism of ‘Trust Deed’. The charge is required to be registered with the Registrar of Companies and the information in this regard is required to be furnished to the trustees and the Reserve Bank of India. A copy of the ‘Draft Trust Deed’ containing the details in this regard is enclosed as Annex-I for the guidance of the NBFCs. The 'Trustee Guidelines' are also enclosed as per Annex-II. The instructions contained in this circular may be placed before the Board of Directors and the system may be put in place latest by March 31, 2007.
+3. All other provisions of our circular DNBS (PD) C.C No. 47/ 02.01/ 2004-05 dated February 07, 2005 shall continue to be in force. Please acknowledge receipt and report
+
+<!-- PAGE 2 -->
+
+compliance to the Regional Offices of the Bank in whose jurisdiction the registered office of your company is situated.
+
+Yours faithfully,
+
+(P. Krishnamurthy) Chief General Manager-in- Charge.
+
+<!-- PAGE 3 -->
+
+## Annex-I
+
+<u>DRAFT TRUST DEED</u>
+
+This Trust Deed is made at ………………………. this ………. day ……… 2007 between. …………………..Company Ltd. incorporated under the Companies Act,1956 having its registered office at ………………… …………………. (hereinafter referred to as "The Company") of the One Part, and ………………………………. Company Ltd. incorporated under the Companies Act, 1956/………………………Bank constituted/incorporated under the…………………………………………… Act, and having its registered office at …………. ………………………….. the trustees (hereinafter referred to as "The Trustees") of the Other Part.
+
+Whereas by its Articles of Association, the Company is authorized to borrow, or raise and secure the payment of money by inviting deposits.
+
+And Whereas the Directors of the Company being duly empowered by the Articles of Association of the Company have decided by a resolution passed in the meeting of the Board held on the …………….. day of ………. 200…to raise deposits from the public under various schemes.
+
+And as per the instructions of the Reserve Bank of India ,the Company has to create charge of the Deposit Holders on the securities purchased by it under the provisions of Section 45-IB of the Reserve Bank of India Act,1934 and the amount deposited in term deposits with the banks in terms of Notification No.DFC.121/ED(G)-1998 dated January 31, 1998 as amended by the Reserve Bank of India from time to time
+
+And Whereas the Company proposes to create charge of the Deposit Holders on the securities purchased by the Company as required under Section 45-IB of the Reserve Bank of India Act 1934 and the amount deposited in term deposits with the banks in terms of Notification No.DFC.121/ED(G)-1998 dated January 31, 1998 as amended by the Reserve Bank of India from time to time
+
+And whereas the said Trustees mentioned above have consented to act as Trustee of the Deposit Holders by its resolution dated ……… passed by its Board of Directors.
+
+NOW THIS DEED WITNESSETH AND IT IS HEREBY MUTUALLY AGREED TO AND DECLARED BY AND BETWEEN THE PARTIES HERETO AS FOLLOWS:
+
+1. Unless there be something in the subject or context inconsistent therewith, the following expressions shall have the meaning hereinafter mentioned that is to say :
+(a) "The Company" means M/s………………….. Company Ltd.
+
+<!-- PAGE 4 -->
+
+(b)" The Trustees" means ………………….. Company Ltd. incorporated under the Companies Act, 1956/…………… Bank constituted/incorporated under the …………Act, and having its registered Office at ………………………... (c ) "Deposits" means a deposit accepted by the Company for the time being outstanding and entitled to the benefits of these presents.
+(d)" Deposit holders" means holders for the time being of the deposit receipt and entered in the register of deposit holders mentioned on the conditions endorsed on the deposit certificates for the holder of the deposits.
+(e) "Charged Securities" means the securities owned by the Company and invested by it under the provisions of Section 45-IB of the Reserve Bank of India Act, 1934 ( in CSGL Account No. ……………….. maintained with …………….. and/or in Account in Demat securities deposited with M/s ,the Depository and in physical form and/ or the amount deposited in fixed deposits with the banks in terms of notifications issued by the Bank from time to time in this regard.
+(f) "Act" means the Companies Act, 1956 (1 of 1956) and any modification or re-enactment thereof.
+(g) “Specified bankers’ means the banks in which the company keeps the charged securities and any part thereof, an intimation to which will be given to the trustees and the Reserve Bank of India.
+The words denoting the singular include the plural and vice-versa, unless the contrary
+
+## appears from the context.
+
+2. The deposits entitled to the benefit of these presents shall consist of total amount already deposited by the depositors with the company and to be deposited in future to rank pari passu without preference or priority by reason of the date of issue or otherwise and secured by the charge hereby created on securities.
+3. The Company hereby covenants with the trustees that the Company on the maturity of the deposits or such earlier days (the maturity of these deposits will take place after the completion of the maturity period of the respective deposits) as amounts shall become payable, will pay the deposit holders the amount secured by their deposit respectively and in the meantime will pay interest to the deposit holders on the day it become due in case, the deposit holders have opted for monthly or periodical payment of interest.
+4. All payments due by the Company in respect of the deposits certificates issued hereunder whether of interest or principal shall be made by cheque/warrant/DD/pay
+
+<!-- PAGE 5 -->
+
+order by the Company and the Company shall make at its own expenses all arrangements for the smooth payment of the principal as well as the interest amount on the said deposits.
+
+5. In consideration of the deposits hereby authorized and the deposits to be collected in future the Company as the beneficial owner, hereby create charge with the trustees on all the securities purchased by it under the provisions of Section 45-IB of the Reserve Bank of India Act 1934, and the amount deposited in term deposits with the banks in terms of Notification No.DFC.121/ED(G)-1998 dated January 31, 1998 as amended by the Reserve Bank of India from time to time amounting to Rs…………… (Rupees only) existing as well as the securities purchased by the Company in future under the provisions of Section 45-IB of the Reserve Bank of India Act ,1934 and the amount deposited in term deposits with the banks in terms of Notification No.DFC.121/ED(G)-1998 dated January 31, 1998 as amended by the Reserve Bank from time to time for the benefit of deposit holders for the amounts due and all other charges, expenses and other dues, the payment of which has been secured by a charge on the securities under these presents and the charge as created has been as the floating charge. The trustees may at any time, by notice in writing to the Company, convert the said floating charge into a fixed charge and get it registered as legal charge in case the trustees are of the opinion that the said securities are in danger of being seized or sold under any sort of distress or execution leveled or threatened or in any other case.
+6. The Company hereby undertakes that after the execution of these presents, it shall register the charge hereby created, with the Registrar of Companies under section 125 of the Companies Act, 1956 and furnish the information of the registration of the charge to the Trustees and the Reserve Bank of India .The Company shall also register the trustee's lien on the securities with the concerned bank/ depository or any other authority and will advise the Trustees and the Reserve Bank of India about the same.
+7. The Company shall hold and enjoy all the charged securities until the security hereby constituted shall become enforceable under the terms of these presents in which case the Trustees may in their discretion as next hereinafter mentioned or shall upon the request in writing of the 90% deposit holders by value take possession of the charged securities or any of them and may in the like discretion and shall sell, call in, collect and convert into money the same or any part thereof with full power to sell any of the said securities either together or in parcels, and either for a lump sum or for a sum payable by instalments or for a sum on account and a mortgage or charge for the balance and with full power sale to make any special or other stipulations as to title or evidence or commencement of the title, or otherwise, which the Trustees shall deem proper and with full powers to modify or rescind or vary any contract for sale of the said securities or any part thereof and to re-sell the same without being responsible for any loss which may be occasioned thereby and with full power to compromise and effect compositions and for the purposes aforesaid or any of them to execute and do all such assurances and things as they think fit.
+
+<!-- PAGE 6 -->
+
+8.The amounts due to the deposit holders under this indenture shall become immediately payable and the security hereby constituted shall become enforceable within the meaning of these presents in each and any of the following events:
+(a) If the Company makes default in ensuring the full cover for public deposits as stipulated in Circular No. DNBS (PD) C.C.No.47/02.01/2004-05 dated February 7, 2005 issued by the Reserve Bank of India as amended by the Reserve Bank of India from time to time.
+(b) If the Company without the consent of the deposit holders ceases to carry on its business or indicates its intentions to do so.
+(c) If an order has been passed by the Court of competent jurisdiction or a special resolution has been passed by the members of the Company for winding up of the company.
+(d) If the Company makes defaults in complying with the orders passed by Company Law Board or any other authority constituted under the Companies Act, 1956 directing the company to pay the amount to the deposit holders.
+(e) If in the opinion of the Trustees, the security of the deposit holders is in jeopardy.
+9. As soon as the amount shall become payable and the security enforceable under the preceding clause 8 (and unless the time for payment and the security to be enforced has been expressly extended by the deposit holders by a resolution passed with simple majority), the Trustees shall take possession of the charged securities and shall forthwith take steps to realize the charged securities and distribute the amount to the deposit holders on pro rata basis.
+10. Until the happening of any of the events mentioned in clauses No. 8 & 9 of this Indenture, the Trustees shall not in any manner interfere with the management of affairs of the said business except to the extent he may consider necessary for the preservation of the charged property or any part thereof or ensuring the full cover for deposits as indicated in Clause 8 (a) of these presents.
+11. The Trustees shall apply the proceeds of such sale or other mode of realization in the following manner, that is to say, that the Trustees shall pay:
+(a) In the first place all costs, charges and expenses in or about such sale or the performance or execution of trust or otherwise in relation to these presents or otherwise in respect of the security, including the remuneration of the trustee, if any.
+(b ) Secondly, the amount then due and owing to deposit holders
+
+(c) And lastly, the surplus, if any, to the Company or its assignee.
+
+<!-- PAGE 7 -->
+
+Provided that if the said money shall be insufficient to pay all such amounts in full, then the said amounts shall be paid rateably and without preference or priority among all deposit holders according to the amount due in respect of the deposits held by them.
+
+12. When all the amount secured by these presents been paid and satisfied, the Trustees shall forth with upon the request and at the cost of the Company and on being paid all the costs, charges and expenses properly incurred by the said Trustees in relation to the security, re-convey, reassign, release and surrender the charged securities or so much of the same as shall not have been sold or disposed of to the Company or its assigns.
+13. The Company hereby covenants with the Trustees:
+(a) That the moneys secured by this deed shall have the first charge on the charged securities
+(b) That the Company shall keep the said charged securities and any part thereof with the specified bankers.
+(c) That the Trustees will have a right to verify the charged securities at any time and the Company will give its full co-operation to the Trustees in this regard.
+(d) The company shall file a copy of the quarterly return on Statutory Liquid Assets in Form NBS-3 to the Trustees.
+14. The Company shall pay to the Trustees all legal, travelling and other costs, charges and expenses incurred by them in connection with execution of trust of these presents including costs, charges and expenses of and incidental to the approval and execution of these presents and all other documents affecting the security herein and will indemnify them against all actions, proceedings, costs, charges, expenses, claims and demands whatsoever which may arise or be brought or made against or incurred by him in respect of any matter or thing done or permitted to be done without their wilful default in respect of or in relation to the charged securities.
+15. The Trustees of the deposit holders will execute and exercise all or any of the trusts power, authorities and discretion so vested in them by these presents in a judicious and fair manner and will not be held responsible except for the breach of trust knowingly and intentionally committed by them.
+16. In the event of winding up of the Trustees, another Trustee will be appointed having all the powers, authorities as stated under these presents and such appointment will be made by the board of directors of the Company.
+
+<!-- PAGE 8 -->
+
+17. The Trustees may by agreement with the directors of the Company modify the terms of this deed in any manner that may be necessary to meet any requirement or contingency, provided that they are satisfied that such modifications are in the interest of the deposit holders
+18. The Company hereby covenants with the Trustees that Company will at all times during the continuance of the security carry on and conduct its business in proper and efficient manner with due diligence and efficiency and will take all possible steps to keep the charged securities intact and will keep proper books of account as required under the Act and give all information to the said Trustees in relation to discharge of his duties under these presents.
+19. The Company hereby further covenants with the Trustees that the Company shall duly perform and observe the obligations, hereby imposed upon it by this Trust. IN WITNESS WHEREOF THE COMPANY has caused its common seal to be affixed to these presents and the Trustees have hereto set their hands the day and year above written. Witnesses
+Common Seal of the Company affixed in the presence of
+
+(Director)
+
+(Director)
+
+(Trustee)
+
+## (Trustee )
+
+<!-- PAGE 9 -->
+
+## Annex-II
+
+## Liquid Assets (Non-Banking Finance Companies) Trustees Guidelines
+
+1. These Guidelines may be called the Reserve Bank of India Guidelines for Trustees of deposit holders of the Non-Banking Finance Companies (NBFC).
+2. No company/bank shall be entitled to act as a Trustee of deposit holders unless it is a scheduled commercial Bank or Limited company engaged in trust business with minimum capital of Rs 50 lakh and who are independent and have no relationship with the company its principal share holders or Directors of the Company..
+3. The duties of every trustee of deposit holders will be
+(i) To execute the trust deed with the company for the protection of interest of the deposit holders. (ii) To do the duties of the trustees as enshrined in the Trust Deed executed with the company. (iii) To take possession of the property charged in accordance with the provisions of the trust deed. (iv) Enforce security in the interest of deposit holders.
+(v) To do such acts or as are necessary in the event the security becomes enforceable. (vi) To carry out such acts as are necessary for the protection of interest of the depositors. (vii) Ascertain and satisfy himself that the
+(a) The interest due on the deposits had been paid by the company on or before the due dates.
+(b) The deposit holders had been paid the monies due to them on the date of maturity of the deposit.
+(c) Exercise due diligence to ensure compliance by the company of the provisions of the trust deed.
+(d) To take appropriate measures for protecting the interest of the deposit holders, as soon as any breach of the trust deed comes to the notice.
+(e) To inform the Reserve Bank of India as soon as any breach of the trust deed comes to his notice.
+(f) To communicate with the Regional Office of RBI, under whose jurisdiction the company is registered, on half yearly basis the compliance of trust deed by the company, defaults if any in payment of interest to the deposit holders and action taken.
+4. The trustees for the deposit holders shall call or cause to be called by the company a meeting of all deposit holders.
+
+<!-- PAGE 10 -->
+
+(a) On a requisition in writing signed by at least 51% of the deposit holders in value for the time being outstanding.
+(b) The happening of any event which constitute a default for which in the opinion of the trustees the security of the deposit holders is in jeopardy. A report of such meeting may be forwarded to the Regional Office of the Reserve Bank of India, Department of Non-Banking Supervision under whose jurisdiction the company is registered.
+5. The trustee may inspect books of account, records, register of the company and the trust property to the extent necessary for discharging his obligations with prior intimation to the Regional Office of RBI in whose jurisdiction the NBFC is registered.
+6. The trustees for deposit holders shall not make untrue statement or suppress any material in any documents, reports, papers or information furnished to the Reserve Bank of India.
+7. The trustee for deposit holders shall ensure that the Reserve Bank of India is promptly informed about any action, legal proceedings etc. initiated against him in respect of any material breach or non-compliance by it, of any law, rules directions of the Reserve Bank of India or of any other regulatory authority.’
+8. The trustee for deposit holders shall not delegate any of his functions to any employee or agent. However, the trustee may employ employees, agents, Advocates or any other professional for any routine or clerical functions. In case the trustee employs any employee, he will be responsible for his /their acts or omissions in respect of the conduct of his/their business.

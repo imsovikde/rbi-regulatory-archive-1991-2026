@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2007_3243"
+title: "Exim Bank's Line of Credit of USD 2.10 million to the Government of the Cooperative Republic of Guyana"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75347.pdf"
+pdf_sha256: "c4050fc92cb3787e34ceebbabf565c04bb46a731c59e6f8041ffe1f88b5a57fb"
+md_sha256: "98876ab533a32f6c25279a1916cbbe5f953b2fb57f217ee285bb83bae9c85039"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-01-15_Notification_3243_Exim%20Bank%27s%20Line%20of%20Credit%20of%20USD%202.10%20million%20to%20the%20Government%20of%20the%20Cooperative%20Republic%20of%20Guyana.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank's Line of Credit of USD 2.10 million to the Government of the Cooperative Republic of Guyana
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/232 A. P. (DIR Series) Circular No. 28
+
+## January 15, 2007
+
+To,
+
+All Authorised Dealer Category – I Banks
+
+Madam / Sir,
+
+**Exim Bank's Line of Credit of USD 2.10 million to the Government of the Cooperative Republic of Guyana**
+
+Export-Import Bank of India (Exim Bank) has concluded an agreement with the Government of the Cooperative Republic of Guyana, making available to the latter a Line of Credit (LOC) up to an aggregate sum of USD 2.10 Million (US Dollar Two Million and One Hundred Thousand only) under the credit agreement dated November 07, 2006 to finance setting up a traffic signalling system by M/s. CMS Traffic System Ltd. (an Indian Company) in Georgetown, Guyana. The credit is available for financing export of equipment, goods and services from India, which are eligible for export under the Foreign Trade Policy of the Government of India and whose purchase may be agreed to be financed by Exim Bank. Out of the total credit, not less than 85 per cent shall be utilised for financing purchase of 'Eligible Indian Goods' as defined in the Credit Agreement.
+
+2. The credit agreement under the LOC is effective from December 15, 2006. The terminal date for opening Letters of Credit will be December 14, 2008 (24 months from the effective date) and the terminal date for disbursements will be June 14, 2009 (30 months from the effective date).
+3. Shipments under the credit will have to be declared on GR / SDF Forms as per instructions issued by Reserve Bank from time to time.
+4. No agency commission is payable under the above line of credit. However, if required, the exporter may use his own resources or utilise balances of his EEFC account for payment of commission in free foreign exchange. Authorised Dealer Category-I (AD Category-I) banks may allow such remittance after
+
+<!-- PAGE 2 -->
+
+realisation of full payment of contract value subject to compliance of prevailing instructions on payment of agency commission.
+
+5. AD Category-I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain full details of the Line of Credit from Exim Bank's office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of
+1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (M. Sebastian)
+
+## Chief General Manager

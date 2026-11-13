@@ -1,0 +1,180 @@
+---
+doc_id: "Notifications_2007_3255"
+title: "Secondary Market Transactions in Government Securities - Short-selling"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75565.PDF"
+pdf_sha256: "ffeafae76a2add0e755311398371aa5b4b2d36567d34e477eb4fb82c90fbc5a9"
+md_sha256: "ffe928e5afa87391e2317c31dcb40c364446836937c247124002ca941c3c66ba"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-01-31_Notification_3255_Secondary%20Market%20Transactions%20in%20Government%20Securities%20-%20Short-selling.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Secondary Market Transactions in Government Securities - Short-selling
+
+<!-- PAGE 1 -->
+
+RBI /2006-2007/243 IDMD.No /11.01.01(B) / 2006-07
+
+## January 31, 2007
+
+## All Scheduled Commercial Banks (except RRBs) & Primary Dealers
+
+Dear Sirs,
+
+## <u>Secondary Market Transactions in Government Securities-Short-selling</u>
+
+Please refer to our circular IDMD.No. 03/11.01.01 (B)/2005-06 dated February 28, 2006 in terms of which intra-day short sale in Central Government dated securities was permitted to enhance liquidity in the G-sec markets and to provide participants with a tool to express two way view on interest rate. As a part of the phased implementation of short sale in Govt. securities market and in terms of the announcement made vide paras 88 & 89 of the Mid-Term Review of Annual Policy Statement for the Year 2006-07, it has now been decided to extend the period of maintenance of short positions beyond the trading day.
+
+## Definition
+
+2. Short Sale is defined as sale of securities one does not own. A bank can also undertake 'notional' short sale where it can sell a security short from HFT even if the security is held under its AFS/HTM book. The resultant 'notional' short position would be subject to the same regulatory requirements as in the case of a short sale. For the purpose of these guidelines, short sale would include 'notional' short sale as well. The short sale by banks and the cover transaction shall not affect the holdings and valuation of the same security in AFS/HTM categories in any way.
+## Extended period for holding Short Positions
+
+3. It has now been decided that Scheduled Commercial Banks and Primary Dealers (PDs) may undertake short sale of Central Government dated securities, subject to the **short position being** **covered within a maximum period of five trading days, including the day of trade. In other** **words, the short sale position initiated today (trade date, T+0) will have to be covered on** **or before close of T+4 day.** It may be noted that such short positions shall be covered only by outright purchase of an equivalent amount of the same security. The short positions may be reflected in Securities Short Sold (SSS) A/c specifically created for this purpose. **(Annex 1 for an** **illustration).**
+## Minimum requirements
+
+4. In respect of short sales, banks and PDs shall ensure adherence to the following conditions:
+a. The sale leg as well as the cover leg of the transaction should be executed only on the Negotiated Dealing System – Order Matching (NDS-OM) platform.
+b. The sale leg as well as the cover leg of the transaction should be accounted in the HFT category.
+c. Under no circumstances, should participants fail to deliver, on settlement date, the securities sold short. Failures to deliver securities short sold shall be treated as an
+
+<!-- PAGE 2 -->
+
+instance of ‘SGL bouncing’ and the concerned banks or PDs will be liable to disciplinary action prescribed in respect of SGL bouncing, besides attracting such further regulatory action as may be considered necessary.
+
+d. At no point of time should a bank/PD accumulate a short position (face value) in any security in the HFT category in excess of the following limits:
+a. 0.25% of the total outstanding stock issued of each security in case of securities other than liquid securities.
+b. 0.50% of the total outstanding stock issued of each security in case of liquid securities
+Banks and PDs shall be entirely responsible for ensuring strict compliance with the above prudential limits on real time basis for which they may put in place appropriate systems and internal controls. The controls provided in the trading platform (NDS-OM) are merely in the nature of additional tools and should not be cited as a reason for any breach of internal or regulatory limits. The information regarding the outstanding stock of each Government of India dated security is being made available on the RBI website (URL: [http://rbi.org.in/Scripts/NDSUserXsl.aspx](http://rbi.org.in/Scripts/NDSUserXsl.aspx)). The list of liquid securities for compliance with the limits shall be provided by FIMMDA from time to time.
+
+e. Banks and PDs which undertake short sale transactions shall mark-to-market their entire HFT portfolio, including the short positions, ***on a daily basis*** and account for the resultant mark-to-market gains / losses as per the relevant guidelines for marking-to- market of the HFT portfolio.
+f. Gilt Accounts Holders (GAHs), under CSGL facility, are not permitted to undertake short sales. Entities maintaining CSGL Accounts are required to ensure that no short-sale is undertaken by the GAHs.
+## Borrowing security (through the repo market) to meet delivery obligations
+
+5. Since securities that are short sold are to be ***invariably*** delivered on the settlement date, participants are permitted to meet their delivery obligations by acquiring securities in the repo market. Accordingly,, with a view to enable participants to run short positions across settlement cycles, banks / PDs are now permitted to use the securities acquired under a reverse repo to meet the delivery obligation of the short sale transaction. While the reverse repos can be rolled over, it is emphasised that the delivery obligations under the successive reverse repo contracts are also to be invariably met, failing which the concerned banks / PDs shall attract the regulatory action specified in para 4(c) above. It may, however, be noted that the permission to use securities acquired under reverse repo as above applies only to securities acquired under market repo and <u>not</u> to securities acquired under Reserve Bank’s Liquidity Adjustment Facility.
+## Policy and internal control mechanisms
+
+6. **Before actually undertaking transactions in terms of this circular**, banks/PDs shall put in place a written policy on short sale which should be approved by their respective Boards of Directors. The policy should lay down the internal guidelines which should include, inter alia, risk limits on short position, an aggregate nominal short sale limit (in terms of Face Value) across all eligible securities, stop loss limits, the internal control systems to ensure adherence to regulatory and internal guidelines, reporting of short selling activity to the Board and the RBI, procedure to deal with violations, etc. Banks / PDs shall also put in place a system to detect violations if any, immediately, certainly within the same trading day.
+
+<!-- PAGE 3 -->
+
+7. In addition to the internal control mechanisms, the concurrent auditors should specifically verify compliance with these instructions, as well as with internal guidelines and report violations, if any, within a reasonably short time, to the appropriate internal authority. As part of their monthly reporting, concurrent auditors may verify whether the independent back/mid office has taken cognizance of lapses, if any, and whether they have reported the same within the required time frame to the appropriate internal authority. Any violation of regulatory guidelines noticed in this regard should immediately be reported to the respective Public Debt Office (PDO) where the SGL account is maintained and Internal Debt Management Department, Reserve Bank of India, Mumbai.
+## Reporting requirements
+
+8. Banks / PDs shall submit a report of the daily security-wise short sale position, as per the format in Annex 2, to the Internal Debt Management Department, RBI on a monthly basis, on the first working day of the succeeding month.
+## Effective date
+
+9. These guidelines come into effect from the date of this circular and shall supersede the guidelines issued vide circular IDMD.No 03/11.01.01(B)/2005-06 February 28, 2006. The guidelines will be reviewed periodically to consider modifications and continuance, as appropriate.
+Yours faithfully, **(G.Mahalingam)** Chief General Manager
+
+<!-- PAGE 4 -->
+
+## ANNEX 1
+
+## Short Sale – Illustration
+
+Scrip: 8.07% 2017. 20 and 21, Jan are trading holidays. It is assumed that the position is held for the maximum 5 days.
+
+## Short
+
+## Impact
+
+## Position(
+
+## Value Settle-on
+
+## Trans-as SGL
+
+## (Rs. ment Invest-Remarks
+
+## Date action reflected Flow crore) date ment in SSS
+
+**account** **A/c**
+
+Assumed a short position, which needs to be covered by an outright sale on or before 19 Jan
+
+2007. The delivery
+**15 Jan** 16 Jan obligation could be Short sale 50 **(-) 50**-- -- **2007** 2007 met by borrowing under reverse repo either on 15 Jan 07 ( T+1) or 16 Jan 07 ( T+0) or buying outright on 15 Jan 2007 (T+1)
+
+## At day end (-) 50 Nil Nil
+
+Acquired stock of the security under a Reverse one day reverse Repo No.1 16 Jan 50 (+) 50 (+) 50 repo to meet the (1st leg – 2007 **16 Jan** delivery buy) **2007** commitment under the short sale
+
+Delivery into Delivery into Short sale 50 (-) 50 (-) 50 (Settlement of) short <u>(settlement)</u> sale
+
+## At day end (-) 50 Nil Nil
+
+Acquired stock of the security under a one day reverse
+
+||Reverse||repo to meet the|
+|---|---|---|---|
+|17 Jan|Repo No.2 (1st leg –|17 Jan 2007|delivery commitment of the|
+|2007|buy)||second leg of|
+
+## 50 (+) 50 (+) 50
+
+reverse repo no.1 done on 16 Jan
+
+2007.
+Delivery into 50 (-) 50 (-) 50 <u>Bank meets the</u>
+
+<!-- PAGE 5 -->
+
+|Reverse|delivery|
+|---|---|
+|Repo No.1|commitment under|
+|(2nd leg –|the second leg of|
+|Sell)|the Reverse Repo|
+||No.1|
+|At day end|Nil|
+
+## (-) 50 Nil
+
+Acquired stock of the security under a one day reverse Reverse repo to meet the Repo No.3 18 Jan delivery 50 (+) 50 (+) 50 (1st leg – 2007 commitment of the buy) second leg of **18 Jan** reverse repo no.2 **2007** done on 17 Jan
+
+2007. Bank meets the
+Delivery into delivery Reverse commitment under Repo No.2 50 (-) 50 (-) 50 the second leg of (2nd leg – the Reverse Repo Sell) No.2
+
+## At day end (-) 50 Nil Nil
+
+Acquired stock of the security under three day reverse repo to meet the Reverse delivery Repo No.4 19 Jan 50 (+) 50 (+) 50 commitment under (1st leg – 2007 the reverse repo 3 buy) done on 17 Jan
+
+2007.
+
+|19 Jan|Delivery into|Bank meets the sale|
+|---|---|---|
+|2007|Reverse Repo No.3 50 (2nd leg –|commitment under the second leg of the Reverse Repo|
+||Sell)|No.3|
+
+(-) 50 (-) 50
+Acquired stock of the security through an outright purchase to square the short Outright 22 Jan 50 **(+) 50**-- --position assumed purchase 2007 on 15 Jan 2007 and to meet the delivery commitment of <u>Reverse Repo no.4.</u>
+
+<!-- PAGE 6 -->
+
+||At day end|||Nil|Nil|Nil||
+|---|---|---|---|---|---|---|---|
+||Settlement of outright purchase|50|||(+) 50|(+) 50||
+|22 Jan 2007|Delivery into Reverse Repo No.4 (2nd leg – Sell)|50|||(-) 50|(-) 50|Bank receives the stock purchased outright on 19 Jan 2007 and uses it to settle the sale leg of the Reverse Repo No.4.|
+||At day end||0|0|0|0||
+
+<!-- PAGE 7 -->
+
+## Annex 2
+
+## Monthly report of the daily security-wise maximum short sale position
+
+Name of the reporting institution: Report for the month of:
+
+|||||||(in Rs. Crores)|
+|---|---|---|---|---|---|---|
+|S.No|Trade Date|Name of the Security|Regulatory Limit * (0.25% /0.50%) of the outstanding stock issued**|Short position at the beginning of the day|Maximum short position during day|Short position at the end of the day|
+|Total|||||||
+
+* For liquid securities 0.50% of outstanding stock issued of each security shall be shown under this head. For all other securities 0.25% of outstanding stock issued of each security shall be shown. **particulars of total stock available on RBI website
+- A NIL statement may be submitted in case there is no transaction during the reporting period.

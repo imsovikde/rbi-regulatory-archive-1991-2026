@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2006_3209"
+title: "Booking Forward Contracts for the Customs Duty Component of Imports"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/74625.pdf"
+pdf_sha256: "62680d20e2433166fceb56f92787699fe11375dbee6659e18b31172a192e0a10"
+md_sha256: "188ac9f611b12c91b3ccbcf41852ba43dbae0f297fa140583624026373a697c0"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-12-13_Notification_3209_Booking%20Forward%20Contracts%20for%20the%20Customs%20Duty%20Component%20of%20Imports.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Booking Forward Contracts for the Customs Duty Component of Imports
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/207
+
+A.P. (DIR Series) Circular No. 21 December 13, 2006 To All Category-I Authorised Dealer Banks Madam/Sir, Booking Forward Contracts for the Customs Duty Component of Imports Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule – 1 [A.1.(j)] to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 notified vide Notification No. FEMA.25/RB-2000 dated 3rd May 2000, as amended from time to time and A.P. (DIR Series) Circular No.98 dated April 29, 2003, in terms of which a resident in India may enter into a forward contract with AD Category-I banks in India to hedge exposures to exchange risk in respect of transactions denominated in foreign currency but settled in Indian Rupees, subject to terms and conditions specified therein.
+2. As announced in the Mid-term Review of Annual Policy for the Year 2006-07 (para
+103), with a view to liberalising the procedure further and providing greater flexibility, it has been decided that AD Category-I banks may provide forward cover to hedge the economic (currency indexed) exposure of importers in respect of customs duty payable on imports. Accordingly, importers will henceforth be permitted to book forward contract for the customs duty component of the import. These contracts shall be held till maturity and cash settlement would be made on the maturity date by cancellation of the contracts. Forward contracts covering such transactions once cancelled are not eligible for rebooking. However, in case of changes in the rate of customs duties, due to Government Notifications, importers may be allowed to cancel and/or rebook the forward contracts before maturities.
+3. Necessary amendments to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 are being issued separately.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The Directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Salim Gangadharan) Chief General Manager-in-Charge

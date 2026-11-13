@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2007_3281"
+title: "UCBs – CRR Increased"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75753.pdf"
+pdf_sha256: "f7f60f2e6e1ad5d3fc2944cec880df24c01b240de7ce921a71f0fc93711cfe4c"
+md_sha256: "57345c9cdf0aeea07440923560532c2f208192fc27ee4c78324ef663b2dac27b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-02-14_Notification_3281_UCBs%20%E2%80%93%20CRR%20Increased.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs – CRR Increased
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/258 UBD(PCB) No 2/ 12.03.000/2006-07 February 14, 2007
+
+The chief Executive Officers of All scheduled Primary (urban)Co-operative Banks
+
+Dear Sir/Madam,
+
+## <u>Section 42(1) of Reserve Bank of India Act, 1934- maintenance of CRR</u>
+
+Please refer to our circular UBD(PCB)No22/16.26.000/2006-07 dated December 11, 2006 on the captioned subject. On review of the current macroeconomic and monetary conditions, it has been decided to increase the Cash Reserve Ratio (CRR) of scheduled primary (urban) Co-operative banks by one half of one percentage point of their net Demand and Time Liabilities (NDTL) in two stages, effective from fortnights as indicated below.
+
+## Effective date CRR on net demand and time liabilities
+
+## (ie the fortnight beginning from) (percent)
+
+February 17, 2007 5.75 March 03, 2007 6.00
+
+A copy of the relative notification UBD(PCB)No 2/12.03.000/2006-07 dated February 14, 2007 is enclosed. Please acknowledge receipt.
+
+Yours faithfully,
+
+(K.P.V.Karunakaran) General Manager

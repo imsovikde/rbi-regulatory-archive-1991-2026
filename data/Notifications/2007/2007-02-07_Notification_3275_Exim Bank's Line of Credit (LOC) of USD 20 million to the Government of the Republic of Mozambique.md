@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2007_3275"
+title: "Exim Bank's Line of Credit (LOC) of USD 20 million to the Government of the Republic of Mozambique"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/75653.pdf"
+pdf_sha256: "a23fc5533849ed255aef4eabb1f8562f1bfc2e01b204698c53703262dc45279c"
+md_sha256: "0670c311ed4737b897ebc8826e94ec0ff0c099c01847b59cf4d0452e01073a7c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-02-07_Notification_3275_Exim%20Bank%27s%20Line%20of%20Credit%20%28LOC%29%20of%20USD%2020%20million%20to%20the%20Government%20of%20the%20Republic%20of%20Mozambique.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank's Line of Credit (LOC) of USD 20 million to the Government of the Republic of Mozambique
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/251
+
+**A.P. (DIR Series) Circular No**. **31**
+## February 07, 2007
+
+To,
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+**Exim Bank's Line of Credit (LOC) of USD 20 million to the Government of the Republic of Mozambique**
+
+Export-Import Bank of India (Exim Bank) has concluded an agreement dated August 17, 2006 with the Government of the Republic of Mozambique, making available to the latter, a Line of Credit (LOC) for USD 20 million (USD Twenty million) to facilitate purchase of eligible goods by Buyers in the Borrower's country for the electrification of the Gaza province in Mozambique.
+
+2. The credit is available for financing export of Indian goods and services including consultancy services, which are eligible for export under the Foreign Trade Policy of the Government of India and whose purchase may be agreed to be financed by Exim Bank in terms of this agreement. Goods and services of the value of at least 85 per cent of the contract price shall be supplied by the seller from India or be of Indian origin and the remaining (other than consultancy services) may be procured by the seller from outside India to be eligible for financing out of the Credit.
+3. The Credit Agreement under the LOC is effective from December 27, 2006. Under the LOC, the utilisation period will expire at the end of 48 months from the scheduled completion date(s) of contract(s) in case of project exports and August 16, 2012 (72 months from date of execution of Credit Agreement in case of supply contracts).
+4. Shipments under the credit will have to be declared on GR / SDF Forms as per instructions issued by Reserve Bank from time to time.
+5. No agency commission shall be payable in respect of exports financed under the above line of credit. However, if required, the exporter may use his own resources or utilise balances in his EEFC account for payment of commission in free foreign exchange. Authorised Dealer Category-I (AD Category-I) banks may allow such remittance after realisation of full payment of contract value subject to compliance of prevailing instructions on payment of agency commission.
+
+<!-- PAGE 2 -->
+
+6. AD Category-I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain full details of the Line of Credit from Exim Bank's office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005.
+7. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (M. Sebastian)
+
+## Chief General Manager

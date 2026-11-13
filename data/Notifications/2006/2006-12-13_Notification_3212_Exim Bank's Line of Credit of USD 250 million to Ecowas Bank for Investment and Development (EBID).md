@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2006_3212"
+title: "Exim Bank's Line of Credit of USD 250 million to Ecowas Bank for Investment and Development (EBID)"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/74715.pdf"
+pdf_sha256: "22761e1b8edd941566c09efcdfd8e306e8d8d0c64e73a7838e62ba4b884587db"
+md_sha256: "bf6d8c0be7fe60f5100fb8a2705a4b0d34e5d88674cae5b11a4cdedc9dc4c595"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-12-13_Notification_3212_Exim%20Bank%27s%20Line%20of%20Credit%20of%20USD%20250%20million%20to%20Ecowas%20Bank%20for%20Investment%20and%20Development%20%28EBID%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank's Line of Credit of USD 250 million to Ecowas Bank for Investment and Development (EBID)
+
+<!-- PAGE 1 -->
+
+## RBI/2006-07/ 209 A. P. (DIR Series) Circular No. 20
+
+## December 13, 2006
+
+To,
+
+## All Category I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Exim Bank's Line of Credit of USD 250 million to
+
+## Ecowas Bank for Investment and Development (EBID)
+
+The Export-Import Bank of India (Exim Bank) has extended a Line of Credit (LOC) to Ecowas Bank for Investment and Development (EBID) headquartered at Lome', Togo, for US$ 250 Million (US Dollars two hundred fifty million only) under the Credit Agreement dated May 25, 2006 (as amended) for financing export of equipment, goods and services eligible for export under the Foreign Trade Policy of India, from India to member countries of EBID viz. Benin, Burkina Faso ,Cape Verde, Cote d'Ivoire, Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo.
+
+2. The Credit Agreement has become effective on October 17, 2006. Accordingly, under the LOC, the utilization period will expire at the end of 48 months from the scheduled completion date(s) of contract(s), in the case of project contracts and on May 24, 2012 (72 months from date of execution of Credit Agreement ) in case of supply contracts.
+3. The above LOC facility is available only for public sector projects in the member countries of EBID. For each project, EBID would need to first forward the project proposal to Ministry of External Affairs, Government of India, for consideration before final approval by Exim Bank.
+4. Shipments under the credit will have to be declared on GR / SDF Forms as per instructions issued by Reserve Bank from time to time.
+5. No agency commission is payable under the above line of credit. However, if required the exporter may use his own resources or utilize balances of his EEFC account for payment of commission in free foreign exchange. Authorised Dealer Category I (AD Category I) banks may allow such remittance after realisation of full payment of contract value subject to compliance of prevailing instructions on payment of agency commission.
+6. AD Category I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain full details of the Line of Credit from Exim Bank's office at Centre One Building, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005.
+
+<!-- PAGE 2 -->
+
+7. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(M. Sebastian) Chief General Manager
