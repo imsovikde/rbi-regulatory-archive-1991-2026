@@ -1,0 +1,42 @@
+---
+doc_id: "Press-Releases_2014_31416"
+title: "RBI launches Consumer Confidence Survey (CCS) – June 2014"
+category: "Press-Releases"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR2430CCS0614.pdf"
+pdf_sha256: "929afa6960fda4a131cf8847b89375aaab3fc6077fb13cc473bc815c4f833e1b"
+md_sha256: "6015fc7a0fb95813a22691859be9c802f2a86cef11ad45ab58bcd436b601d31a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:30:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2014/2014-06-16_Press-Release_31416_RBI%20launches%20Consumer%20Confidence%20Survey%20%28CCS%29%20%E2%80%93%20June%202014.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI launches Consumer Confidence Survey (CCS) – June 2014
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## June 16, 2014
+
+**RBI launches Consumer Confidence Survey (CCS)** – **June 2014**
+
+The Reserve Bank of India has been conducting Consumer Confidence Survey of Households (CCS) on a quarterly basis since June 2010. The survey aims at capturing subjective assessments of around 5,400 respondents across 6 metropolitan cities *viz*., Bangalore, Chennai, Hyderabad, Kolkata, Mumbai and New Delhi. The results of this Survey are being used by Reserve Bank as one of the important inputs for the monetary policy formulation. The survey seeks responses on questions pertaining to economic conditions, household circumstances, income & spending, perceptions on prices, employment prospects, and outlays for major purchases such as gold, car, house, durable goods etc.
+
+The current round of the Survey is being launched on June 17, 2014. The agency M/s Sigma Research & Consulting Pvt. Ltd. has been engaged to conduct the field work of the Survey on behalf of the Reserve Bank of India. For this purpose, the respondents will be approached by the agency and the selected respondents are requested to provide the required information. Other individuals who are not approached by the agency can also participate in this survey round by downloading the survey schedule from <u>the link</u>. The filled in survey schedule may be e-mailed to us as per contact details given below. In case of any query/clarification, kindly contact at the following address:
+
+The Director, Department of Statistics and Information Management, Reserve Bank of India, New Delhi, 6 Sansad Marg, New Delhi – 110001, Phone: 011- 23716327, Fax: 011-23356628*,* <u>e-mail</u>.
+
+## Sangeeta Das
+
+**Press Release : 2013-2014/2430** Director
