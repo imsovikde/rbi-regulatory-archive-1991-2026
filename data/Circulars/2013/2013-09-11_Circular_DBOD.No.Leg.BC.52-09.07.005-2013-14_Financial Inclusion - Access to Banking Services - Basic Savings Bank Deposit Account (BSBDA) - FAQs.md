@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2013_DBOD_No_Leg_BC_52_09_07_005_2013-14"
+title: "Financial Inclusion - Access to Banking Services - Basic Savings Bank Deposit Account (BSBDA) - FAQs"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/BSBC52_11092013.PDF"
+pdf_sha256: "707f49b7a332f961837eb760640415dc988cca2261b196a9945dfc9f3c352c9c"
+md_sha256: "995c02bc43ac0d59a3ba2ba606cb1d2aa0af7c0f92d35902ec6f17b9c0dea945"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:05:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-09-11_Circular_DBOD.No.Leg.BC.52-09.07.005-2013-14_Financial%20Inclusion%20-%20Access%20to%20Banking%20Services%20-%20Basic%20Savings%20Bank%20Deposit%20Account%20%28BSBDA%29%20-%20FAQs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Inclusion - Access to Banking Services - Basic Savings Bank Deposit Account (BSBDA) - FAQs
+
+<!-- PAGE 1 -->
+
+RBI /2013-14/246 DBOD.No. Leg.BC.52 / 09.07.005/2013-14 September 11, 2013
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam,
+
+## Financial Inclusion- Access to Banking Services – Basic Savings Bank Deposit Account (BSBDA) - FAQs
+
+Please refer to Circular <u>DBOD.No. Leg.BC.35 / 09.07.005/2012-13 dated August</u> <u>10, 2012</u> on the above subject wherein banks have been advised to offer ‘Basic Savings Bank Deposit Account’ with certain minimum common facilities to all their customers without the requirement of any minimum balance and any charges.
+
+2. In view of several queries received in this regard from banks and public, we are enclosing a list of “<u>Frequently Asked Questions (FAQs)</u>” on the subject. Regarding accounts opened and operated at Business Correspondent (BC) outlets, a separate set of FAQs will be issued.
+# Withdrawn
+
+Yours faithfully,
+
+(Rajesh Verma) Chief General Manager
+
+## Encl: As above
+
+________________________________________________________________________________________________________Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai,400001 Tel No:22661602 /Fax No:22705691 Email ID:cgmicdbodco@rbi.org.in
