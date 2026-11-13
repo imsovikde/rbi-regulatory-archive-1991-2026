@@ -1,0 +1,61 @@
+---
+doc_id: "Notifications_2009_4930"
+title: "Prudential guidelines on restructuring of advances"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FCR_170409.pdf"
+pdf_sha256: "5edb6e2b2e32777194c7c2527d3a68e6d3bcc25705975204a1b44bfe417ec786"
+md_sha256: "0ce746fe7510be26e3654591b911f705ce0b22549afea8aab31556e5a2487e88"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:48:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-04-17_Notification_4930_Prudential%20guidelines%20on%20restructuring%20of%20advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential guidelines on restructuring of advances
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/435
+
+DBOD. No. BP.BC.No. 124 / 21.04.132/ 2008-09 April 17, 2009
+
+The Chairman and Managing Directors/ Chief Executive Officers of All Scheduled Commercial Banks (excluding RRBs & LABs)
+
+Dear Sir,
+
+## <u>Prudential guidelines on restructuring of advances</u>
+
+Please refer to our circular <u>DBOD.No.BP.BC.No.37/ 21.04.132/2008-09</u> dated August 27, 2008 and subsequent circulars on the captioned subject. Queries have been raised whether in terms of the above circulars mere receipt of an application for restructuring of an advance will entitle a bank to classify it as standard asset, if the account was standard as on September 1, 2008 and had turned NPA subsequently.
+
+**2.** In this connection, we advise that in terms of <u>Para 3.1.2 of the circular dated</u> <u>August 27, 2008</u>, during the pendency of the application for restructuring of the advance, the usual asset classification norms continue to apply. The process of reclassification of an asset should not stop merely because the application is under consideration. However, as an incentive for quick implementation of the package, if the approved package is implemented by the bank as per the following time schedule, the asset classification status may be restored to the position which existed when the reference was made to the CDR Cell in respect of cases covered under the CDR Mechanism or when the restructuring application was received by the bank in non-CDR cases:
+(i) Within 120 days from the date of approval under the CDR Mechanism.
+
+<!-- PAGE 2 -->
+
+(ii) Within 90 days from the date of receipt of application by the bank in cases other than those restructured under the CDR Mechanism.
+
+**3.** Since the spill over effects of the global downturn had started affecting the Indian economy, particularly from September 2008 onwards, creating stress for the otherwise viable units / activities, certain modifications were made to the provisions of the circular dated August 27, 2008, by circulars dated January 2, 2009 and February 4, 2009. The modifications provided that accounts which were standard accounts on September 1, 2008 would be treated as standard accounts on restructuring provided the restructuring is taken up on or before March 31, 2009 and the restructuring package is put in place within a period of 120 days from the date of taking up the restructuring package. This modification means that the incentive for quick implementation as envisaged in terms of para 6.2.1 of the circular dated August 27, 2008 is available even in those cases where the accounts were standard as on September 1, 2008 but had turned NPA as on the date of receipt of application for restructuring by banks or as on date when reference was made to the CDR Cell, as the case may be. However, this modification appears to have been interpreted by some banks to mean that the account will not slip to NPA category just because an application for restructuring is received, which is not the correct position.
+**4.** In this connection, it is further clarified that the cases where the accounts were
+st standard as on September 1, 2008 but slipped to NPA category before 31 March 2009, these can be reported as standard as on March 31, 2009 only if the st restructuring package is implemented before 31 March 2009 and all conditions prescribed in <u>para 6.2.2 of the circular dated August 27, 2008</u> ( as amended till date) are also complied with. All those accounts in case of which the packages are in process or have been approved but are yet to be implemented fully will have to be reported as NPA as on March 31, 2009 if they have turned NPA in the normal course. However, in any regulatory reporting made by the bank after the date of implementation of the package within the prescribed period, these accounts can be reported as standard assets with retrospective effect from the date when the reference was made to the CDR Cell in respect of cases covered under the CDR Mechanism or when the restructuring application was received by the bank in non- CDR cases. In this regard, it may be clarified that reporting with retrospective effect
+
+<!-- PAGE 3 -->
+
+does not mean reopening the balance sheet which is already finalised; what it means is that in all subsequent reporting, the account will be reported as standard and any provisions made because of its interim slippage to NPA can be reversed.
+
+**5.** The circulars dated December 8, 2008, January 2, 2009 and February 4, 2009 will cease to operate from July 1, 2009. Thereafter, restructuring of all accounts will be governed **only** by the provisions of circulars dated August 27, 2008, November 3, 2008 and April 9, 2009.
+**6.** In addition to the disclosures required in terms of our circular dated August 27, 2008, banks may also disclose the information in the balance sheet as detailed in **Annex.** Yours faithfully, (Prashant Saran) Chief General Manager-in-Charge
+
+<!-- PAGE 4 -->
+
+||Additional disclosures regarding restructured accounts||Annex|
+|---|---|---|---|
+|S.No|Disclosures|Number|Amount (in crore of Rs.)|
+|1.|Application received up to March 31, 2009 for restructuring, in respect of accounts which were standard as on September 1, 2008.|||
+|2.|Of (1), proposals approved and implemented as on March 31, 2009 and thus became eligible for special regulatory treatment and classified as standard assets as on the date of the balance sheet.|||
+|3.|Of (1), proposals approved and implemented as on March 31, 2009 but could not be upgraded to the standard category.|||
+|4.|Of (1), proposals under process/implementation which were standard as on March 31, 2009.|||
+|5.|Of (1), proposals under process/implementation which turned NPA as on March 31, 2009 but are expected to be classified as standard assets on full implementation of the package.|||

@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2009_4952"
+title: "Clarification regarding repossession of vehicles financed by NBFCs"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCRA240409.PDF"
+pdf_sha256: "817cf5b7023a7d1fdb1c7901d886cb857cde579c202d4d7a4329f472869cb199"
+md_sha256: "8732801029f69312320d84425f979dade4e5fbbd4d828430aca0094c8154667c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-04-24_Notification_4952_Clarification%20regarding%20repossession%20of%20vehicles%20financed%20by%20NBFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Clarification regarding repossession of vehicles financed by NBFCs
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/454 DNBS (PD) CC.No.139 /03.10.001/2008-09 April 24, 2009
+
+## All Non-Banking Finance Companies
+
+Dear Sir,
+
+## Clarification regarding repossession of vehicles financed by NBFCs
+
+Please refer to <u>DNBS (PD) CC No. 80 / 03.10.042 / 2005-06</u> dated September 28, 2006, advising NBFCs to put in place a Fair Practices Code with the approval of their Boards which, inter alia, covers recovery of loans.
+
+2. In this connection, it is further clarified that, with particular reference to queries raised regarding repossession of vehicles, NBFCs must have a built in re-possession clause in the contract/loan agreement with the borrower which must be legally enforceable. To ensure transparency, the terms and conditions of the contract/loan agreement should also contain provisions regarding: (a) notice period before taking possession; (b) circumstances under which the notice period can be waived; (c) the procedure for taking possession of the security; (d) a provision regarding final chance to be given to the borrower for repayment of loan before the sale / auction of the property; (e) the procedure for giving repossession to the borrower and (f) the procedure for sale / auction of the property. A copy of such terms and conditions must be made available to the borrowers in terms of DNBS.PD/ CC. No. 107 /
+03.10.042 /2007-08 dated October 10, 2007 wherein it was stated that NBFCs may invariably furnish a copy of the loan agreement along with a copy each of all enclosures quoted in the loan agreement to <u>all</u> the borrowers at the time of sanction / disbursement of loans, which may form a key component of such contracts/loan agreements.
+Yours sincerely,
+
+(P.Krishnamurthy) Chief General Manager-In-Charge

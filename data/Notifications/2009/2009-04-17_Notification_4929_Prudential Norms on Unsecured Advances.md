@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2009_4929"
+title: "Prudential Norms on Unsecured Advances"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CUA_170409.pdf"
+pdf_sha256: "a1e85b6d9b0cce65c036dde8895d098285885e7995cdf78daf95ed72fa627713"
+md_sha256: "9aa3a98e2826c731f794a81449e1ec01aa71e78821f1c554eadd9b8e5f39dcc3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:48:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-04-17_Notification_4929_Prudential%20Norms%20on%20Unsecured%20Advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Unsecured Advances
+
+<!-- PAGE 1 -->
+
+# ¸¸£·¸ú¡¸ ¹£{¸¨¸Ä yeQkeÀ ____________________ RESERVE BANK OF INDIA___________________
+
+www.rbi.org.in RBI/2008-09/434 DBOD.No.BP.BC. 125 /21.04.048/2008-09 April 17, 2009
+
+The Chairman / CMD / MD / CEO All Scheduled Commercial Banks (including Local Area Banks) (Excluding RRBs)
+
+## Dear Sir
+
+## <u>Prudential Norms on Unsecured Advances</u>
+
+Please refer to paragraph 5.4 of the Master Circular <u>DBOD.No.BP.BC. 20/21.04.048/2008-09</u> dated July 1, 2008, on prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances, which, inter alia, defines ‘Unsecured Exposure’ and ‘Security’
+
+2. In order to enhance transparency and ensure correct reflection of the unsecured advances in Schedule 9 of the banks’ balance sheet, it is advised as under:
+a) For determining the amount of unsecured advances for reflecting in schedule 9 of the published balance sheet, the rights, licenses, authorisations, etc., charged to the banks as collateral in respect of projects (including infrastructure projects) financed by them, should not be reckoned as tangible security. Hence such advances shall be reckoned as unsecured.
+b) Banks should also disclose the total amount of advances for which intangible securities such as charge over the rights, licenses, authority, etc. has been taken as also the estimated value of such intangible collateral. The disclosure may be made under a separate head in “Notes to Accounts”. This would differentiate such loans from other entirely unsecured loans.
+3. This circular would be applicable from the financial year 2009-10 onwards.
+## Yours faithfully
+
+(Prashant Saran) Chief General Manager-in- Charge
+
+yeQEkeÀäe hefj®eeueôe Deewj fJekeÀeme fJeYeeäe, kesÀêr³e keÀe³eeõue³e, 12Jer cebfpeue, kesÀêr³e keÀe³eeõue³e YeJeôe, Menro YeäeleEmen ceeäeõ, cegbyeFõ - 400 001. _______________________________________________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 12 th floor, Central Office Building, Mumbai – 400 001. ìsfueHeÀesôe /Tel No: (91-22) 22601000 HewÀkeÌme/Fax No. (91-22) 22705691 & (91-22) 22705692 - Email ID:cgmicdbodco@rbi.org.in <u>fnôor Deemeeôe nw, FmekeÀe he´³eesäe yeŸeF³es~</u>

@@ -1,0 +1,197 @@
+---
+doc_id: "Notifications_2009_4947"
+title: "Foreign Direct Investment in India - Transfer of Shares / Preference Shares / Convertible Debentures by way of Sale - Modified Reporting Mechanism"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DFCTRS630409.PDF"
+pdf_sha256: "07a418d4c793698372f61473a779ccfc114b0ffc1469a6222497f03a235234ed"
+md_sha256: "10805d6a6c3645906a286cb370ff4efd15b8106310f537ec1b005c9b5560965c"
+total_pages: 10
+native_pages: 10
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-04-22_Notification_4947_Foreign%20Direct%20Investment%20in%20India%20-%20Transfer%20of%20Shares%20-%20Preference%20Shares%20-%20Convertible%20Debentures%20by%20way%20of%20Sale%20-%20Modified%20Reporting%20Mechanism.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Direct Investment in India - Transfer of Shares / Preference Shares / Convertible Debentures by way of Sale - Modified Reporting Mechanism
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2008-09/447 A. P. (DIR Series) Circular No.63 April 22, 2009
+
+To
+
+## All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Foreign Direct Investment in India -
+
+**Transfer of Shares / Preference Shares / Convertible Debentures by way of Sale-Modified Reporting Mechanism**
+
+Attention of the Authorised Dealer Category – I (AD Category-I) banks is invited to <u>paragraph 6 of the Annex to A. P. (DIR Series) Circular No.16</u> dated October 4, 2004, wherein, it has been stipulated that in case of transfer of shares from a resident to a non-resident / non-resident Indian and vice versa, the transferee / his duly appointed agent is required to approach the investee company to record the transfer in their books along with the certificate in form FC-TRS from the
+
+# Withdrawn
+
+designated AD branch that the remittances have been received by the transferor / payment has been made by the transferee. In addition, the designated AD branch is also required to submit two copies of the form FC-TRS received from their constituents / customers together with the statement of inflows / outflows on account of remittances received / made in connection with transfer of shares, by way of sale, to IBD/FED or the nodal office designated for the purpose by the AD Category – I bank. The IBD/FED or the nodal office of the AD Category – I bank in turn submits a consolidated monthly statement in respect of all the transactions reported by the branches to the Reserve Bank, in the prescribed proforma. Further, it may be noted that in terms of Regulation 2 of <u>Notification No. FEMA</u> <u>20/2000-RB</u> dated 3rd May 2000, as amended from time to time, "preference shares" mean compulsorily and mandatorily convertible preference shares and "debenture" means compulsorily and mandatorily convertible debentures.
+
+<!-- PAGE 2 -->
+
+2. In order to capture the details of investment received by way of transfer of the existing shares / compulsorily and mandatorily convertible preference shares (CMCPS) / debentures [hereinafter referred to as equity instruments], of an Indian company, by way of sale, in a more comprehensive manner, the form FC-TRS has been revised (format in Annex I). Accordingly, the proforma for reporting of inflows / outflows on account of remittances received / made in connection with the transfer of equity instruments by way of sale, submitted by IBD/FED/nodal branch of the AD Category – I bank to the Reserve Bank has also been modified (format in Annex III).
+3. The sale consideration in respect of equity instruments purchased by a person resident outside India, remitted into India through normal banking channels, shall be subjected to a KYC check (format in Annex II) by the remittance receiving AD Category – I bank at the time of receipt of funds. In case, the remittance receiving AD Category – I bank is different from the AD Category-I bank handling the transfer transaction, the KYC check should be carried out by the remittance receiving bank and the KYC report be submitted by the customer to the AD Category – I bank carrying out the transaction along with the form FC-TRS.
+4. Further, in order to ensure that the form FC-TRS is submitted within a
+# Withdrawn
+
+reasonable timeframe, it has been decided that henceforth, the form FC-TRS should be submitted to the AD Category – I bank, within 60 days from the date of receipt of the amount of consideration. The onus of submission of the form FC- TRS within the given timeframe would be on the transferor / transferee, resident in India.
+
+5. In case of transfer of equity instruments where the non-resident acquirer proposes deferment of payment of the amount of consideration, prior approval of the Reserve Bank would be required, as hitherto. Further, in case approval is granted for a transaction, the same should be reported in form FC-TRS, duly certified by the AD Category – I bank, within 60 days from the date of receipt of the full and final amount of consideration.
+5. These directions will become operative with immediate effect.
+
+<!-- PAGE 3 -->
+
+6. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+7. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully, **Salim Gangadharan** **Chief General Manager-in-Charge**
+
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+# Annex I
+
+[A. P. (DIR Series) Circular No.63 dated April 22, 2009]
+
+|||Form FC-TRS|
+|---|---|---|
+||The following documents are enclosed debentures by a person resident in India i. ii. by a person resident outside India. iii. iv. v. complied with. vi. account ceiling as prescribed has not been breached. vii. viii. Account.|Declaration regarding transfer of shares / compulsorily and mandatorily convertible preference shares (CMCPS) / debentures by way of sale from resident to non resident / non-resident to resident (to be submitted to the designated AD branch in quadruplicate within 60 days from the date of receipt of funds) For sale of shares / compulsorily and mandatorily convertible preference shares / Consent Letter duly signed by the seller and buyer or their duly appointed agent and in the latter case the Power of Attorney Document. The shareholding pattern of the investee company after the acquisition of shares Certificate indicating fair value of shares from a Chartered Accountant. Copy of Broker's note if sale is made on Stock Exchange. Declaration from the buyer to the effect that he is eligible to acquire shares / compulsorily and mandatorily convertible preference shares / debentures under FDI policy and the existing sectoral limits and Pricing Guidelines have been Declaration from the FII/sub account to the effect that the individual FII / Sub Additional documents in respect of sale of shares / compulsorily and mandatorily Withdrawn convertible preference shares / debentures by a person resident outside India If the sellers are NRIs/OCBs, the copies of RBI approvals, if applicable, evidencing the shares held by them on repatriation/non-repatriation basis. No Objection/Tax Clearance Certificate from Income Tax Authority/Chartered|
+|1|Name of the company Address (including e-mail, telephone Number, Fax no)||
+
+<!-- PAGE 5 -->
+
+||Activity||
+|---|---|---|
+||NIC Code No.||
+|2|Whether FDI is allowed under Automatic route Sectoral Cap under FDI Policy||
+|3|Nature of transaction (Strike out whichever is not applicable)|Transfer from resident to non resident / Transfer from non resident to resident|
+|4|Name of the buyer Constitution / Nature of the investing Entity Specify whether 1. Individual 2. Company 3. FII 4. FVCI 5. Foreign Trust 6. Private Equity Fund 7. Pension/ Provident Fund 8. Sovereign Wealth Fund π) (SWF 9. Partnership / Proprietorship firm 10. Financial Institution 11. NRIs / PIOs 12. others Date and Place of Incorporation Address of the buyer (including e-mail, telephone number. Fax no.)|Withdrawn|
+|5|Name of the seller||
+
+π SWF means a Government investment vehicle which is funded by foreign exchange assets, and which manages those assets separately from the official reserves of the monetary authorities.
+
+<!-- PAGE 6 -->
+
+## Constitution / Nature of the disinvesting entity
+
+## (Specify whether
+
+1. Individual
+2. Company
+3. FII
+4. FVCI
+5. Foreign Trust
+6. Private Equity Fund
+7. Pension/ Provident Fund
+8. Sovereign Wealth Fund ∏ (SWF)
+9. Partnership/ Proprietorship firm
+10. Financial Institution
+11. NRIs/PIOs
+12. others)
+Date and Place of Incorporation Address of the seller *(including* *e-mail, telephone Number Fax* *no)*
+
+## 6 Particulars of earlier Reserve Bank / FIPB approvals
+
+**7 Details regarding shares / compulsorily and mandatorily convertible preference shares (CMCPS) / debentures to be transferred**
+
+# Withdrawn
+
+|Number of|Face|Negotiated|Amount of|
+|---|---|---|---|
+|shares|value in|Price for|consideration|
+|CMCPS / debentures|Rs.|the transfer**in|in Rs.|
+
+## Date of the transaction
+
+***Rs.***
+
+**8 Foreign Investments in the** *No of shares Percentage* **company** Before the transfer After the transfer **9 Where the shares / CMCPS /** <u>debentures are listed on</u>
+
+∏ SWF means a Government investment vehicle which is funded by foreign exchange assets, and which manages those assets separately from the official reserves of the monetary authorities.
+
+<!-- PAGE 7 -->
+
+||Stock Exchange||
+|---|---|---|
+||Name of the Stock exchange||
+||Price Quoted on the Stock exchange Where the shares / CMCPS / debentures are Unlisted||
+||Price as per Valuation guidelines * Price as per Chartered Accountants * / ** Valuation report (CA Certificate to be attached)||
+|i. ii. iii. iv. Date: Note|Declaration by the transferor / transferee I / We hereby declare that : belief. repatriation/non repatriation basis. general permission is not available. to. non-resident seller.|The particulars given above are true and correct to the best of my/our knowledge and I/ We was/were holding the shares compulsorily and mandatorily convertible preference shares / debentures as per FDI Policy under FERA/ FEMA Regulations on I/ We am/are eligible to acquire the shares compulsorily and mandatorily convertible preference shares / debentures of the company in terms of the FDI Policy. It is not a transfer relating to shares compulsorily and mandatorily convertible preference shares / debentures of a company engaged in financial services sector or a sector where The Sectoral limit under the FDI Policy and the pricing guidelines have been adhered Withdrawn Signature of the Declarant or his duly authorised agent In respect of the transfer of shares / compulsorily and mandatorily convertible preference shares / compulsorily and mandatorily convertible debentures from resident to non resident the declaration has to be signed by the non resident buyer, and in respect of the transfer of shares / compulsorily and mandatorily convertible preference shares / compulsorily and mandatorily convertible debentures from non-resident to resident the declaration has to be signed by the|
+
+<!-- PAGE 8 -->
+
+## Certificate by the AD Branch
+
+It is certified that the application is complete in all respects. The receipt /payment for the transaction are in accordance with FEMA Regulations / Reserve Bank guidelines. Signature
+
+Name and Designation of the Officer Date: Name of the AD Branch <u>AD Branch Code</u>
+
+# Withdrawn
+
+<!-- PAGE 9 -->
+
+## Annex II
+
+[A. P. (DIR Series) Circular No.63 dated April 22, 2009]
+
+## Know Your Customer (KYC) Form in respect of the non-resident investor
+
+Registered Name of the Remitter / Investor (Name, if the investor is an Individual) Registration Number (Unique Identification Number* in case remitter is an Individual) Registered Address (Permanent Address if remitter Individual) Name of the Remitter’s Bank Remitter’s Bank Account No. Period of banking relationship with the remitter
+
+*Passport No., Social Security No, or any Unique No. certifying the bonafides of the remitter as prevalent in the remitter’s country.
+
+## We confirm that all the information furnished above is true and accurate as
+
+## provided by the overseas remitting bank of the non-resident investor.
+
+# Withdrawn
+
+(Signature of the Authorised Official of the AD bank receiving the remittance)
+
+Date: Place:
+
+## Stamp :
+
+<!-- PAGE 10 -->
+
+# Annex III
+
+[A. P. (DIR Series) Circular No 63 dated April 22, 2009]
+
+# Proforma
+
+**Statement of inflows/outflows on account of remittance received/made in connection with transfer of shares / compulsorily and mandatorily convertible** **preference shares / debentures, by way of sale**
+
+# Category-wise
+
+# Part A-NRI/erstwhile OCB
+
+# Part B-Foreign National/non-resident incorporated entity
+
+# Part C-Foreign Institutional Investors
+
+||||Inflow -Transfer from resident to non-resident||||||[Amount in Rs.]|||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Date of Transaction|y Name of the Compan|Activity|NIC Code Outflow-Transfer from non-resident to resident|r Name of the Buye|uyer re of B Constitution/ Natu Business of the|Name of the Seller|Seller Constitution/ Nature of Business of the|No. of Shares transferred|Face Value [Amount in Rs.]|re Sale price per sha|Total Inflow|
+|Date of Transaction|y Name of the Compan|Activity|NIC Code|Name of the Seller|eller re of S Constitution/ Natu Business of the|Name of the Buyer|uyer B Constitution/ Nature of Business of the|No. of Shares transferred|Face Value|re Sale price per sha|Total outflow|
+
+(1) (2) (3) (4) (5) Withdrawn (6) (7) (8) (9) (10) (11) (12)
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12)

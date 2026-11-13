@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2009_4942"
+title: "Special Term Repo Facility"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ESTREA2109.pdf"
+pdf_sha256: "caaaf54c65b4bb5d2e42ebb8fbd6a3ecf156175d8a2e145d8e692a10fb9ca32b"
+md_sha256: "3270a193210029552be1380da71282892461e0c202fd18f05d1b37637c148d7c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-04-21_Notification_4942_Special%20Term%20Repo%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Special Term Repo Facility
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/444 FMD.MOAG. No. 35/01.01.01/2008-09
+
+## April 21, 2009
+
+All Scheduled Commercial Banks (excluding RRBs) and Primary Dealers
+
+Dear Sir,
+
+## SPECIAL TERM REPO FACILITY
+
+Please refer to our circular <u>FMD.MOAG. No. 30/01.01.01/2008-09</u> dated November 17, 2008 and Press Release dated November 28, 2008 allowing banks to avail liquidity support under the LAF at the extant repo rate through relaxation in the maintenance of SLR to the extent of up to 1.5 per cent of their NDTL and apportioning such accommodation between MFs, NBFCs, and HFCs flexibly as per their business requirements. Banks can avail of this facility either on incremental or on rollover basis.
+
+2. As announced in the Annual Policy Statement for the year 2009-10, it has been decided to extend the time for availability of the special term repo facility for banks up to March 31, 2010 as also to conduct these 14-day term repo auctions on a weekly basis.
+3. Accordingly, with effect from April 27, 2009 (Monday), Reserve Bank shall now conduct the special 14-day fixed rate term repo every Monday till March 31, 2010 up to a *cumulative* amount of Rs 60,000 crore on outstanding basis. The details of the repo including the rate, the notified amount and the date of reversal shall be announced every Monday through a press release. In case any Monday is a holiday, the reversal shall take place on the next working day.
+4. However, with a view to enabling seamless transition to the new schedule, this facility will be available daily as hitherto till April 24, 2009, but with a fixed date reversal of April 27, 2009 (Monday).
+5. The other terms and conditions for the special repo would remain as notified by our earlier circulars on the Liquidity Adjustment Facility.
+Yours faithfully,
+
+(Chandan Sinha) Chief General Manager

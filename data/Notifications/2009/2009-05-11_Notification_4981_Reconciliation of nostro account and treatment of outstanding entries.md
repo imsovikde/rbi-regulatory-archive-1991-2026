@@ -1,0 +1,63 @@
+---
+doc_id: "Notifications_2009_4981"
+title: "Reconciliation of nostro account and treatment of outstanding entries"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBOD110509.pdf"
+pdf_sha256: "40f59dc01bddde5fa9014b70c802f169f2f06190054e469cbddc02e1128c7d2f"
+md_sha256: "c238406ae3b1cdba70bfc34fa352379b2651a93ebfe19b87fe65156843dfbd9b"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-05-11_Notification_4981_Reconciliation%20of%20nostro%20account%20and%20treatment%20of%20outstanding%20entries.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reconciliation of nostro account and treatment of outstanding entries
+
+<!-- PAGE 1 -->
+
+# Yeejler³e fjeJeõ yeQkeÀ
+
+___________**RESERVE BANK OF INDIA**____________ www.rbi.org.in
+
+RBI/2008-09/475
+
+## DBOD.BP.BC.No.133/21.04.018/2008-09 May 11, 2009
+
+The Chairmen/Chief Executives All Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## Reconciliation of nostro account and treatment of outstanding entries
+
+----------------------------------------------------------------------------------------------------
+
+Please refer to our circular DBOD No.BP.BC.67/21.04.048/99 dated July 1, 1999 and <u>DBOD.BP.BC.16/21.04.018/2001-02</u> dated August 24, 2001 in terms of which banks were allowed to reconcile their 'nostro` accounts by adopting a prescribed netting procedure in respect of entries pertaining to the period up to March 31, 1996 and remaining unreconciled as on March 31, 2000. The aggregate net debit was transferred to profit & loss account and the aggregate net credit to Sundry Creditors Account in the banks’ accounts for the year ended March 31, 2000. Banks were also advised to make 100 per cent provision each year in respect of unreconciled debit entries in the nostro accounts which were originated on or after April 1, 1996 and are outstanding for more than 3 years. Credit entries originated on or after April 1, 1996 and are outstanding for more than 3 years were to be transferred to Blocked Account and shown as outstanding liabilities.
+
+2. We have been receiving representations from banks expressing practical difficulties and involvement of substantial expenditure in the elimination of outstanding entries in nostro accounts after the lapse of certain time. The position regarding long pending outstanding debit and credit entries in nostro accounts of banks was reviewed and it has been decided as under: ----------------------------------------------------------------------------------------------------------------------------------------------- **DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT, CENTRAL OFFICE, 12**
+**th** **Floor, Central** **Office Building, Shahid Bhagat Singh Marg, Mumbai-400 001 E-mail : cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+RBI,DBOD,CO - 2 - continuation sheet
+
+a) In respect of outstanding debit/credit entries of individual value USD 2500 and above or equivalent in nostro accounts, banks will continue to make efforts for reconciliation.
+b) In respect of outstanding credit entries of individual value less than USD 2500 or equivalent in nostro account originated upto March 31, 2002:
+(i) Banks may transfer to profit and loss account
+- the credit balance arising out of the netting of entries pertaining to the period prior to April 1, 1996 in terms of DBOD circular BP.BC.67/21.04.048/99 dated July 1, 1999 parked in blocked account.
+- aggregate of individual unreconciled credit entries in nostro and mirror accounts originated between April 1, 1996 and March 31, 2002 and parked in the blocked account in terms of circular <u>DBOD.BP.BC.16/</u>
+<u>21.04.018/ 2001-02</u> dated August 24, 2001.
+(ii) The amount credited to the profit and loss account should be appropriated to the general reserve and will not be available for declaration of dividend. (iii) Appropriate disclosure should be made in the Notes to Accounts including the impact on the profit and loss account. (iv) Any future claim in respect of these entries should be honoured.
+
+c) Banks may at their discretion, write off the unreconciled debit entries of individual value less than USD 2500 or equivalent in nostro and mirror accounts originated upto March 31, 2002 against the provision already held in terms of the circular dated July 1, 1999.
+d) All unreconciled credit entries in the nostro accounts originated on or after April 1, 2002 which are outstanding for more than 3 years may be transferred to Blocked Account and shown as outstanding liabilities which will be reckoned for the purpose of CRR/SLR.
+e) Make 100 per cent provision in respect of all unreconciled debit entries in the nostro accounts originated on or after April 1, 2002 which are outstanding for more than two years (instead of three years as at present).
+
+<!-- PAGE 3 -->
+
+RBI,DBOD,CO - 3 - continuation sheet
+
+3. Banks are advised to minimize the number of nostro accounts to have a better control over reconciliation and put in place a system of fast reconciliation and close monitoring of pending items in nostro accounts by top management at short intervals. Banks are also advised to leverage technology to avoid building up of such unreconciled balances. Yours faithfully, (Prashant Saran) Chief General Manager-in-Charge
