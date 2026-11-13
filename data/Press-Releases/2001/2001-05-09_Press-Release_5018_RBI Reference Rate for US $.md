@@ -1,0 +1,40 @@
+---
+doc_id: "Press-Releases_2001_5018"
+title: "RBI Reference Rate for US $"
+category: "Press-Releases"
+year: 2001
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/20638.pdf"
+pdf_sha256: "96f8af8f3ae4be5aa27c92d4cae0cfea4aa4f594d6bcf9d7f1cd98c5a01d2be3"
+md_sha256: "e22cd30853fc0e096b7c9805339bdfa8040a9d148443230626a6bc0b1076bfc5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T15:09:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-05-09_Press-Release_5018_RBI%20Reference%20Rate%20for%20US%20%24.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $
+
+<!-- PAGE 1 -->
+
+## RBI Reference Rate for US $
+
+## May 9, 2001
+
+The Reserve Bank of India’s Reference Rate for the US dollar is Rs.46.83 on
+
+09.05.2001. Based on the Reference Rate for US dollar and middle rates of the cross currency quotes at 12 noon, the exchange rates of major currencies against the rupee are given below :
+
+|Date||CURRENCY|||
+|---|---|---|---|---|
+||1 USD|1 GBP|1 EURO|100 YEN|
+|08 May, 2001|46.8100|67.2753|41.6398|38.58|
+|09 May, 2001|46.8300|66.8545|41.4516|38.5000|
+
+**Note :** The reference rate is based on 12 noon rates of a few select banks in Mumbai. The SDR-Rupee rate will be based on this rate.
+
+## P.V. Sadanandan Asst. Manager
+
+## Press Release : 2000-01/1526
