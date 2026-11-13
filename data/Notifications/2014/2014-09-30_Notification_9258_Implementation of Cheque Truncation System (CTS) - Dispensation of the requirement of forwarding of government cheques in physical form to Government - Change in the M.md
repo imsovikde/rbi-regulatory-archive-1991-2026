@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2014_9258"
+title: "Implementation of Cheque Truncation System (CTS) - Dispensation of the requirement of forwarding of government cheques in physical form to Government - Change in the Memorandum of Instructions for reporting of government transactions"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CADP2FNT092014.pdf"
+pdf_sha256: "41cf2513391c58cca0c0f5a2d3d3a119260f2fbeacc5a0b4a5495d45ab3cb56e"
+md_sha256: "00b3f1178992945ffcbae07d148f0b93fb3478afb40deaf08e870cb0c5471b65"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-30_Notification_9258_Implementation%20of%20Cheque%20Truncation%20System%20%28CTS%29%20-%20Dispensation%20of%20the%20requirement%20of%20forwarding%20of%20government%20cheques%20in%20physical%20form%20to%20Government%20-%20Change%20in%20the%20M.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Cheque Truncation System (CTS) - Dispensation of the requirement of forwarding of government cheques in physical form to Government - Change in the Memorandum of Instructions for reporting of government transactions
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **________________ RESERVE BANK OF INDIA ________________** <u>www.rbi.org.in</u>
+
+RBI/2014-15/246 DGBA.GAD.No.H -1463/42.01.035/2014 -15 September 30, 2014
+
+The Chairman & Managing Director / The Chief Executive Officer All Banks
+
+Dear Sir / Madam,
+
+**Implementation of Cheque Truncation System (CTS) - Dispensation of the requirement of forwarding of government cheques in physical form to**
+
+## Government-Change in the Memorandum of Instructions for reporting of government transactions
+
+Please refer to our <u>circular DGBA.GAD.No.H-1204/42.01.035/2014-15 dated</u> <u>September 18, 2014</u> on the captioned subject.
+
+2. We advise that the date of implementation of the revised procedure in respect of government cheques has been extended by three months to January 1, 2015.
+## Yours faithfully
+
+(Sunita S. Ratanpal) General Manager
+
+सरकार एवं बक लेखा वभाग, के िय कायालय, मुंबई सशल रेवे ःटेशन के सामने, भायखला, मुंबई - 400 008 **Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station, Byculla, Mumbai - 400 008** **Telephone: (022) 2308 4121, Fax No. (022) 2300 0370/2301 6072/2301 0095, e-mail : cgmicdgbaco@rbi.org.in** <u>िहन्दी आसान ह, इसका �योग बढ़ाइए ।</u> ै चेतावनी: भारतीय िरज़व बर्क ारा ई-मल, डाक, एसएमएस या फोन-कॉल क े े जिरय िकसी की भी िगत जानकारी ज े ैसे बक के खात का ब्यौरा, पासवड े र्, आिद नह मागी जाती ह ं । यह धन रखन ै या द े ेने का स्ताव भी नह करता ह । ऐस ै �स्ताव का िकसी भी तिरक े े स जवाब मत दीिजय े । े **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details,** **passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**

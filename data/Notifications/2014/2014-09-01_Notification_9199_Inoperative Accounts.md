@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2014_9199"
+title: "Inoperative Accounts"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBC36010914F.pdf"
+pdf_sha256: "0eb254c9bf0760642f6f1c7184b7ccac533fd9525316c1e19fb0f09fb09eb68f"
+md_sha256: "18abc071bbd7e24ef572ae9225b8063e1d92273f8177e7e85d7e30cc780f29ed"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-01_Notification_9199_Inoperative%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inoperative Accounts
+
+<!-- PAGE 1 -->
+
+## भारतीय ररजर्व बैंक
+
+# ___________RESERVE BANK OF INDIA____________
+
+www.rbi.org.in RBI /2014-15/200 DBOD.No. Leg. BC. 36 /09.07.005/2014-15 September 1, 2014
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam, **Inoperative Accounts**
+
+Please refer to paragraph 2(iv) of our <u>Circular DBOD.No.Leg.BC.34/09.07.005/2008-09</u> <u>dated August 22, 2008</u> on Unclaimed Deposits/Inoperative Accounts in Banks in terms of which a savings as well as current account should be treated as inoperative/dormant if there are no transactions in the account for over a period of two years. Further, in terms of paragraph 2(vi), for the purpose of classifying an account as inoperative, both the types of transactions i.e. debit as well as credit transactions induced at the instance of customers as well as third party should be considered.
+
+2. There may be instances where the customer has given a mandate for crediting dividend on shares to Savings Bank account and there are no other operations in the Savings Bank account. Some doubts have arisen whether such an account is to be treated as inoperative account after two years.
+3. In this connection, we clarify that since dividend on shares is credited to Savings Bank accounts as per the mandate of the customer, the same should be treated as a customer induced transaction. As such, the account should be treated as operative account as long as the dividend is credited to the Savings Bank account. The Savings Bank account can be treated as inoperative account only after two years from the date of the last credit entry of the dividend, provided there is no other customer induced transaction. Yours faithfully, (Sudarshan Sen) Chief General Manager– in–Charge ___________________________________________________________________________ बकैं किं ग परिचालन औि विकास विभाग**,** कें द्रीय कायाालय**,** 12 िी मिंजिल**,** कें द्रीय कायाालय भिन, शहीद भगतससहिं मागा मिंबई 400001
+Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg,, Mumbai,400001 टेलीफ़ोन/Tel No:91-22-22661602 फ़ै क्स/Fax No:91-22-22705691 Email ID:cgmicdbodco@rbi.org.in

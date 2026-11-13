@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2014_9227"
+title: "StCBs/DCCBs - Opening of Bank Accounts in the Names of Minors"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/OBM090914FC.pdf"
+pdf_sha256: "674b6730b9bec594a4a13a2498c2169f13e27e4a14b13149f484f662783c826e"
+md_sha256: "1ee9406ddc9b9d44dccea6b7567e789cbfcda7848ffffe3ec645fccf179cb8b8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-09_Notification_9227_StCBs-DCCBs%20-%20Opening%20of%20Bank%20Accounts%20in%20the%20Names%20of%20Minors.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# StCBs/DCCBs - Opening of Bank Accounts in the Names of Minors
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **-----------------RESERVE BANK OF INDIA------------------ www.rbi.org.in** RBI/2014-15/225 RPCD.CO.RCB.BC.No.29/07.51.010/2014-15 September 09, 2014
+
+All State Co-operative Banks and Central Co-operative Bank
+
+Dear Sir/Madam,
+
+## Opening of Bank Accounts in the Names of Minors
+
+Please refer to our circular RPCD.No.RF.DIR.BC.32/D.1-85 dated January 8, 1985 wherein State / Central Co-operative Banks (StCBs / DCCBs) were advised to allow minors’ accounts (fixed and savings deposit accounts) with mothers as guardians to be opened subject to safeguards in allowing operations in such accounts by ensuring that the minors’ accounts opened with guardian are not allowed to be overdrawn and that these always remain in credit.
+
+2. Further, with a view to promote the objective of financial inclusion and also to bring uniformity among banks in opening and operating minors’ accounts, StCBs / DCCBs are advised as under:
+a. A savings /fixed / recurring bank deposit account can be opened by a minor of any age through his/her natural or legally appointed guardian.
+b. Minors above the age of 10 years may be allowed to open and operate savings bank accounts independently, if they so desire. StCBs / DCCBs may, however, keeping in view their risk management systems, fix limits in terms of age and amount up to which minors may be allowed to operate the deposit accounts independently. They can also decide, in their own discretion, as to what minimum documents are required for opening of accounts by minors.
+c. On attaining majority, the erstwhile minor should confirm the balance in his/her account and if the account is operated by the natural guardian / legal guardian, fresh operating instructions and specimen signature of erstwhile minor should be obtained and kept on record for all operational purposes.
+
+|मामीण आयोजना और||ऋण वभाग,क िय कायालय, 10वीं||मंज़ल,क िय|कायालय ब��डंग,शहद|भगत|िसंह माग,पो.बा.सं.10014,मुंबई||400 001|
+|---|---|---|---|---|---|---|---|---|---|
+|||टेलीफोन:Tel No.: 022-22610261/ फै स: 022-22610943 ईमेल: audgata@rbi.org.in||||||||
+|Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001|||हंद आसान है, इसका|ूयोग|बढ़ाइए|||||
+|चेतावनी : Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रज़व बक ारा मेल-डाक, जाती|एसएमएस है। यह धन रखने|या फोन कॉल या देने का ूःताव भी|के जरए कसी क नहं करता|भी �य�गत है। ऐसे ूःताव|जानकार जैसे का कसी भी तरके|बक के खाते का से जवाब|�यौरा, पासवड मत द�जए।|आद नहं मांगी|
+
+<!-- PAGE 2 -->
+
+3. StCBs / DCCBs are free to offer additional banking facilities like ATM/debit card, cheque book facility etc., subject to the safeguards that minor accounts are not allowed to be overdrawn and that these always remain in credit. Yours faithfully, (A. Udgata) Principal Chief General Manager

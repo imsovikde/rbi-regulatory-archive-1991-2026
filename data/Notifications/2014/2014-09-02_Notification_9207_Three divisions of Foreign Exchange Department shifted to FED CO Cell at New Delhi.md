@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2014_9207"
+title: "Three divisions of Foreign Exchange Department shifted to FED CO Cell at New Delhi"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP23020914F.pdf"
+pdf_sha256: "d0f07e416b765ee8dc853016d622f6ef3436400c50f4e9fe569b079bbe1403f5"
+md_sha256: "0957b63cd22ab2c56fa18185d246108ca24d090390220251af07ffef616f142e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-02_Notification_9207_Three%20divisions%20of%20Foreign%20Exchange%20Department%20shifted%20to%20FED%20CO%20Cell%20at%20New%20Delhi.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Three divisions of Foreign Exchange Department shifted to FED CO Cell at New Delhi
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001**
+
+**RBI/2014-15/204 September 2, 2014**
+
+**A.P. (DIR Series) Circular No.23** To All Category-I Authorised Dealer Banks Madam / Sir,
+## Three divisions of Foreign Exchange Department shifted to
+
+## FED CO Cell at New Delhi
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to the <u>Press Release dated June 17, 2014</u> which mentions the shifting of three divisions of Foreign Investment Division (FID) viz. Liaison/Branch/Project Office (LO/BO/PO) Division, Non Resident Foreign Account Division (NRFAD) and Immovable Property (IP) Division to New Delhi with effect from July 15, 2014. The address for correspondence for the three divisions is FED, CO Cell, Foreign Exchange Department, Reserve Bank of India, New Delhi Regional Office, 6, Parliament Street, New Delhi - 110 001, India.
+
+2. Attention is also invited to <u>A.P (DIR Series) Circular No 106 dated February 18,</u> <u>2014</u> in terms of which AD-Category I banks are required to furnish on a monthly basis, a statement on the number of applicants and total amount remitted from NRO account, as per proforma annexed, to the Chief General Manager-in- Charge, Foreign Exchange Department, Foreign Investments Division (NRFAD), Reserve Bank of India, Central Office, Mumbai-400001 within 7 days of the end of the reporting month.
+3. Attention is also invited to Para 5(ii) and Para 5(iii) of <u>A.P (DIR Series) Circular</u> <u>No 24 dated December 30, 2009</u> in terms of which A.D Category-I banks are required to report (i) the extension of validity of the Liaison Offices to the Regional Office concerned as well as to the Central Office, and (ii) closure of the Liaison
+
+<!-- PAGE 2 -->
+
+Offices to the concerned Regional Office and closure of Branch Offices to the Central Office.
+
+4. It is advised that all cases pertaining to these three divisions and the monthly statements as per circulars ibid/reporting for extension or closure of LOs/BOs shall be sent to the FED CO Cell at the address mentioned above. Reporting, by email, for NRFAD shall continue at the same email address.
+5. AD Category- I banks may bring the contents of the circular to the notice of their constituents concerned.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+## Yours faithfully,
+
+## (C D Srinivasan) Chief General Manager

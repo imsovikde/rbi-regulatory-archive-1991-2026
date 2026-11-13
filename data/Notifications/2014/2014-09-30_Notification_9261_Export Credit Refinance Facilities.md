@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2014_9261"
+title: "Export Credit Refinance Facilities"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ECRLC300914.pdf"
+pdf_sha256: "9bf786edeb6181ab8936eb1e14f3f9258d15dbb14badcf0f8cb1bb2392e80ffb"
+md_sha256: "776c5735428f3b93f3afe07d22cacb3bab49f9278880ff7e0a6a737d18172c30"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-30_Notification_9261_Export%20Credit%20Refinance%20Facilities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Export Credit Refinance Facilities
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/249 Ashwina 8,1936(Saka) REF.No.MPD.BC. 374 /07.01.279/2014-15 September 30, 2014
+
+To All Scheduled Banks [excluding Regional Rural Banks(RRBs)]
+
+Dear Sir/Madam,
+
+## Export Credit Refinance Facilities
+
+Please refer to our <u>circular No.MPD.372/07.01.279/2013-14 dated June 3, 2014</u> whereby the eligible limit of export credit refinance (ECR) facility for schedule banks (excluding RRBs) was reduced from the level of 50 per cent of the outstanding rupee export credit eligible for refinance as at the end of the second preceding fortnight to 32 per cent.
+
+2. As indicated in the <u>Fourth Bi-Monthly Monetary Policy Statement, 2014-15</u> announced today, it has been decided to reduce the eligible limit of ECR facility from the level of 32 per cent of the outstanding rupee export credit eligible for refinance as at the end of the second preceding fortnight to 15 per cent **effective from October 10, 2014**.
+3. Accordingly, part A of the reporting format appearing in Annex III of the <u>Master</u> <u>Circular No.MPD. 373/07.01.279/2014-15 dated July 1, 2014</u> is modified and enclosed.
+Yours faithfully,
+
+## (Michael Debabrata Patra) Principal Adviser
+
+<!-- PAGE 2 -->
+
+## Annex III
+
+## Reporting Formats
+
+## Form DAD 389
+
+## Name of the Bank _______________________________________________
+
+## Statement showing the Export Credit Refinance Limit for the fortnight ended_______
+
+## <u>PART – A</u>
+
+(Rs. in lakh)
+
+1. Outstanding Export Credit as on the last Friday of the ____________
+second preceding reporting fortnight *
+
+2. Export Credit Refinance Limit (15 per cent of item no. 1) ____________
+* Outstanding Export Credit for the purpose of working out refinance limits will be aggregate outstanding export credit <u>minus</u> Export bills rediscounted with other banks/Exim Bank/Financial Institutions, Export Credit against which refinance has been obtained from NABARD/Exim Bank, Pre- shipment Credit in Foreign Currency (PCFC), Export bills discounted/rediscounted under the scheme of 'Rediscounting of Export Bills Abroad' (EBR), Overdue Rupee Export Credit and other Export Credit not eligible for refinance.

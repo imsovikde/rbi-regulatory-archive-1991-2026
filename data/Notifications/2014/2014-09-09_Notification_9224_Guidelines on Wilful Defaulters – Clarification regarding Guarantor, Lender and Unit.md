@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2014_9224"
+title: "Guidelines on Wilful Defaulters – Clarification regarding Guarantor, Lender and Unit"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CGC090914FC.pdf"
+pdf_sha256: "4b7c9d452a25bf2e121af5c3971c8863195a6ac8a78829ef0b4cc6446bfc365b"
+md_sha256: "55f3df6d2a8c77c271ee4eef05237226cc09ef08b6afff9b07b3ec1866ad8044"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-09_Notification_9224_Guidelines%20on%20Wilful%20Defaulters%20%E2%80%93%20Clarification%20regarding%20Guarantor%2C%20Lender%20and%20Unit.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Wilful Defaulters – Clarification regarding Guarantor, Lender and Unit
+
+<!-- PAGE 1 -->
+
+**_**
+
+# भारतीय रजव बक ___________RESERVE BANK OF INDIA_____________
+
+www.rbi.org.in RBI/2014-15/221 DBOD.No.CID. 41/20.16.003/2014-15 September 9, 2014
+
+All Scheduled Commercial Banks (excluding RRBs and LABs) and All India Notified Financial Institutions (FIs)
+
+Dear Sir/ Madam **Guidelines on Wilful Defaulters –** <u>Clarification regarding Guarantor, Lender and Unit</u> Please refer to the <u>Master Circular on Wilful Defaulters DBOD.No.CID.BC.3</u> <u>/20.16.003/2014-15 dated July 1, 2014</u>.
+
+2. Paragraph 2.1 of the circular lists out various events when a “wilful default” would be deemed to have occurred. In view of references received from a few banks regarding scope/definition of “wilful default”, it is clarified as follows:
+a) The term ‘lender’ appearing in the circular covers all banks/FIs to which any amount is due, provided it is arising on account of any banking transaction, including off balance sheet transactions such as derivatives, guarantee and Letter of Credit.
+b) The term ‘unit’ appearing therein has to be taken to include individuals, juristic persons and all other forms of business enterprises, whether incorporated or not. In case of business enterprises (other than companies), banks/FIs may also report (in the Director column) the names of those persons who are in charge and responsible for the management of the affairs of the business enterprise.
+3. Paragraph 2.6 of the circular is amended to read as follows: “While dealing with wilful default of a single borrowing company in a Group, the banks /FIs should consider the track record of the individual company, with reference
+______________________________________________________________________________________________________________________ ___________________________ बै�कं ग परचालन और वकास वभाग, के �य कायालय, 13वी मंजील, के ��य कायालय भवन, श. भगत िसंग माग, मुंबई- 400 001 Department of Banking Operations and Development, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेिलफोन/Tel.No.:91-22-22601000,टेिलफोन/Tel.No.(D):91-22-22701236,फै स/Fax No. 91-22-22701239, email ID: <u>cgmicdbodco@rbi.org.in</u> <u>�ह�द आसान हैइसका योग बढाइये ,</u>
+
+<!-- PAGE 2 -->
+
+to its repayment performance to its lenders. However, in cases where guarantees furnished by the companies within the Group on behalf of the wilfully defaulting units are not honoured when invoked by the banks /FIs, such Group companies should also be reckoned as wilful defaulters”.
+
+4. In connection with the guarantors, banks have raised queries regarding inclusion of names of guarantors who are either individuals (not being directors of the company) or non-group corporates in the list of wilful defaulters. It is advised that in terms of Section 128 of the Indian Contract Act, 1872, the liability of the surety is co- extensive with that of the principal debtor unless it is otherwise provided by the contract. Therefore, when a default is made in making repayment by the principal debtor, the banker will be able to proceed against the guarantor/surety even without exhausting the remedies against the principal debtor. As such, where a banker has made a claim on the guarantor on account of the default made by the principal debtor, the liability of the guarantor is immediate. In case the said guarantor refuses to comply with the demand made by the creditor/banker, despite having sufficient means to make payment of the dues, such guarantor would also be treated as a wilful defaulter. It is clarified that this would apply only prospectively and not to cases where guarantees were taken prior to this circular. Banks/FIs may ensure that this position is made known to all prospective guarantors at the time of accepting guarantees.
+5. Banks/FIs may take due care to follow the provisions set out in paragraph 3 of the Master Circular on Wilful Defaulters dated July 1, 2014 in identifying and reporting instances of wilful default in respect of guarantors also. While reporting such names to RBI, banks/FIs may include “Guar” in brackets i.e. (Guar) against the name of the guarantor and report the same in the Director column.
+6. This circular is issued in exercise of the powers conferred upon Reserve Bank of India under Section 35A of the Banking Regulation Act, 1949.
+## Yours faithfully
+
+(A K Pandey) Chief General Manager

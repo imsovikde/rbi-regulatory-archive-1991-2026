@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2014_9240"
+title: "Know Your Customer (KYC) Norms – Creating Public Awareness"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/16KYCUBD0914.pdf"
+pdf_sha256: "3431da065424b01e4f0dd7be7f366065a46d3b17b20c9c799da947ddfad81e73"
+md_sha256: "6375890d22523b0a00451e49bb7187c5ceb35811a7e10cf0cc2a394fdda9681b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:48:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-09-16_Notification_9240_Know%20Your%20Customer%20%28KYC%29%20Norms%20%E2%80%93%20Creating%20Public%20Awareness.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms – Creating Public Awareness
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2014-15/233 UBD. BPD (PCB).Cir.No.16/14.01.062/2014-15 September 16, 2014
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+## Know Your Customer (KYC) Norms – Creating Public Awareness
+
+The Reserve Bank of India, in the recent times, has been taking several measures to simplify KYC requirements to help the common man open bank accounts. It is, however, observed that despite such measures the general public is still facing problems in opening a bank account as these measures have not been given adequate publicity and the common man still lacks awareness on the basics of opening a bank account.
+
+2. In order to address these issues, create public awareness and give wide publicity to these KYC simplification measures, Reserve Bank has issued a Press Release together with <u>a poster</u> and <u>a booklet</u> comprising a few common questions relating to Know Your Customer (KYC) norms for opening bank accounts. These are available on our website at <u>[http://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=31935](http://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=31935)</u>.
+3. In this regard, banks are also advised to initiate steps to create awareness and give wider publicity by circulating the poster and booklet amongst all their branches. Branches may be advised to make available the booklet to the customers/ general public and display the poster prominently in their premises. Progress made in this regard would be reviewed by Reserve Bank in due course.
+शहर बक वभाग,क य कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बक ह��� म पाचार का वागत करता है —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी य�गत जानकार जैसे बक खाते का यौरा, पासवड आद नहं माँगा जाता है। यह धन रखने या देने का ताव भी नहं करता है। ऐसे ताव का कसी भी कार से जवाब मत द��जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+- 2 - 4. Banks may ensure strict compliance of these instructions Yours faithfully (Suma Varma) Chief General Manager
