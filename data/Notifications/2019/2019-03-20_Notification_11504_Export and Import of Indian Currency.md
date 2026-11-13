@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2019_11504"
+title: "Export and Import of Indian Currency"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1440034498893D34FCDB5967FCE70E26ACC.PDF"
+pdf_sha256: "9100715841dd6da25fd57b1ce4e16321ba12031ebf1613a44c1031a4e8813abc"
+md_sha256: "e16603d3cf7e5d3cdf6b4967daff8f167ca7497f2f8b96f0556c6522a8bc4dde"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-03-20_Notification_11504_Export%20and%20Import%20of%20Indian%20Currency.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Export and Import of Indian Currency
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/144
+
+A.P. (DIR Series) Circular No. 24 March 20, 2019 To All Authorised Persons Madam/ Sir,
+## Export and Import of Indian Currency
+
+Attention of Authorised Persons is invited to Regulation 8 of Foreign Exchange Management (Export and import of currency) Regulations, 2015, in terms of which a person may take or send out of India to Nepal or Bhutan and bring into India from Nepal or Bhutan, currency notes of Government of India and Reserve Bank of India for any amount in denominations up to `100/-. Further, an individual may carry to Nepal or Bhutan, currency notes of Reserve Bank of India denominations above `100/-, i.e. currency notes of `500/- and/or `1000/- denominations, subject to a limit of `25,000/-.
+
+2. It has now been decided that an individual travelling from India to Nepal or Bhutan may carry Reserve Bank of India currency notes in Mahatma Gandhi (New) Series of denominations `200/- and/or `500/- subject to a total limit of `25,000/- Instructions regarding currency notes of Government of India and Reserve Bank of India for any amount in denominations up to `100/- shall continue as hitherto.
+3. Authorised Persons may bring the contents of this circular to the notice of their constituents and customers.
+4. Necessary amendments to Foreign Exchange Management (Export and import of currency) Regulations, 2015 (<u>Notification No. FEMA 6(R) /RB-2015 dated</u> <u>December 29, 2015</u>) have been notified as Foreign Exchange Management (Export and import of Currency) (Amendment) Regulations, 2019 [<u>Notification 6(R)/(1)/2019-</u> <u>RB dated February 26, 2019</u>] in the Official Gazette vide G.S.R. No.151(E) dated February 26, 2019, a copy of which is <u>annexed</u>.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Ajay Kumar Misra)
+
+## Chief General Manager-in-Charge

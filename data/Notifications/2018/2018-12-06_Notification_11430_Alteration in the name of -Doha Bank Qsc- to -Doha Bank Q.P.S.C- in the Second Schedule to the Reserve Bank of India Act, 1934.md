@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2018_11430"
+title: "Alteration in the name of \"Doha Bank Qsc\" to \"Doha Bank Q.P.S.C\" in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI90298F07AD39794E5D835C3E39993C1054.PDF"
+pdf_sha256: "979382e1a5eab7a463fb73a7783df0ee21a935aeb506a60142ddcc09a1909915"
+md_sha256: "6e95b7fac017f99ec6ac170660bc46d874f2eb5d86feb7722b7c84f9ba01badd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:01:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-12-06_Notification_11430_Alteration%20in%20the%20name%20of%20-Doha%20Bank%20Qsc-%20to%20-Doha%20Bank%20Q.P.S.C-%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Alteration in the name of "Doha Bank Qsc" to "Doha Bank Q.P.S.C" in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक ____________ RESERVE BANK OF INDIA ________________
+
+**www.rbi.org.in** **RBI/2018-19/90** **DBR.No.Ret.BC.13/12.06.071/2018-19 December 06, 2018**
+
+All Scheduled Commercial Banks Dear Sir/Madam **Alteration in the name of "Doha Bank Qsc" to** "**Doha Bank Q.P.S.C" in the** **Second Schedule to the Reserve Bank of India Act, 1934** We advise that the name of " Doha Bank Qsc " has been changed to "Doha Bank
+
+Q.P.S.C" in the Second Schedule to the Reserve Bank of India Act, 1934 by Notification DBR.IBD.No.2963/23.03.029/2018-19 dated October 11, 2018 published in the Gazette of India (Part III-Section 4) dated November 10 – November 16, 2018.
+## Yours faithfully
+
+(M.G. Suprabhat) Deputy General Manager
+
+**Department of Banking Regulation, Central Office, 5** **th floor, Amar Building, Sir P.M.Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**

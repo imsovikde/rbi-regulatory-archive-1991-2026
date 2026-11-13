@@ -1,0 +1,108 @@
+---
+doc_id: "Notifications_2019_11499"
+title: "Trade Credit Policy – Revised framework"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/23APDIR13032019BA5502742BB441DBBEEC54C9D4E04213.PDF"
+pdf_sha256: "d715c4bac8165c92e5398ac4af3bc7783edfc2ef6c91cc4a84d7cd9a8ccdd0a0"
+md_sha256: "7676361a03626b85a4d5d072ba633664085774b34ee0ccf065786ca6d384b94e"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:02:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-03-13_Notification_11499_Trade%20Credit%20Policy%20%E2%80%93%20Revised%20framework.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Trade Credit Policy – Revised framework
+
+<!-- PAGE 1 -->
+
+||RESERVE BANK OF INDIA Mumbai - 400 001|
+|---|---|
+|RBI/2018-2019/140|A.P. (DIR Series) Circular No. 23 March 13, 2019|
+|To|All Category-I Authorised Dealer Banks|
+|Madam / Sir,||
+
+## Trade Credit Policy – Revised framework
+
+Attention of Authorised Dealers is invited to the rationalised principal regulation governing the External Commercial Borrowings (ECB) and Trade Credits already notified on December 17, 2018 through the Foreign Exchange Management (Borrowing and Lending) Regulations, 2018 gazetted vide <u>Notification No. FEMA.3R/2018-RB dated December 17, 2018</u>. The new ECB framework based on the above regulation was issued on January 16, 2019 vide <u>A. P. (DIR Series)</u> <u>Circular No. 17</u>. The Trade Credit framework based on the aforementioned notified regulation is being issued now. Detailed instructions are set out in the Annex to this circular.
+
+2. Trade Credits can be raised under the automatic route up to the amount specified in the Annex to this circular and in compliance with the other applicable norms. The designated AD Category I bank while considering the Trade Credit proposal is expected to ensure compliance with applicable Trade Credit guidelines by their constituents. Any contravention of the applicable provisions will invite penal action or adjudication under the Foreign Exchange Management Act, 1999.
+3. The amended Trade Credit policy will come into force with immediate effect. Authorised Dealer banks may bring the contents of this circular to the notice of their constituents and customers. The Master Direction No. 5 dated January 01, 2016 on the subject is being revised to reflect the above changes.
+4. The direction contained in this circular has been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully
+
+Ajay Kumar Misra Chief General Manager – in- Charge
+
+<!-- PAGE 2 -->
+
+## ANNEX
+
+## Trade Credit Policy-Revised framework
+
+## {c.f.: A.P. (DIR Series) Circular No. 23 dated March 13, 2019}
+
+Trade Credits (TC) refer to the credits extended by the overseas supplier, bank, financial institution and other permitted recognised lenders for maturity, as prescribed in this framework, for imports of capital/non-capital goods permissible under the Foreign Trade Policy of the Government of India. Depending on the source of finance, such TCs include suppliers’ credit and buyers’ credit from recognised lenders.
+
+## 1. Important terms used:
+
+**1.1. All-in-Cost:** It includes rate of interest, other fees, expenses, charges, guarantee fees whether paid in foreign currency or INR. Withholding tax payable in INR shall not be a part of all-in-cost.
+**1.2. Approval route:** TC can be raised either under the automatic route or the approval route. Under the approval route, the prospective importers are required to send their requests to the Foreign Exchange Department, Central Office, Reserve Bank of India through their Authorised Dealer (AD) Banks for examination.
+**1.3. Automatic route:** For the automatic route, the cases are examined by the Authorised Dealer Category-I banks.
+**1.4. Special Economic Zone & Free Trade Warehousing Zone:** They shall have the same meaning as assigned to them in Special Economic Zones Act 2005 as amended from time to time.
+**Note:** Other important terms like Authorised Dealer, Benchmark Rate and Foreign Equity
+ Holder used in this circular shall have the same meaning as assigned to them in the New External Commercial Borrowings framework (<u>A. P. (DIR Series) Circular No. 17 dated January 16,</u>
+<u>2019</u>).
+**2. Trade Credit Framework:** TC can be raised in any freely convertible foreign currency (FCY denominated TC) or Indian Rupee (INR denominated TC), as per the framework given in the table below:
+
+|Sr. No.|Parameters|FCY denominated TC|INR denominated TC|
+|---|---|---|---|
+|i|Forms of TC|Buyers’ Credit and Suppliers’ Credit||
+|ii|Eligible borrower|Person resident in India acting as an importer||
+
+<!-- PAGE 3 -->
+
+|iii|Amount under automatic route|Up to USD 150 million or equivalent per import transaction for oil/gas refining & marketing, airline and shipping companies. For others, up to USD 50 million or equivalent per import transaction.||
+|---|---|---|---|
+|iv|Recognised lenders|1. For suppliers’ credit: 2. For buyers’ credit: holder(s) located outside India and financial institutions in International Financial Services Centres located in India. Note: companies (operating from IFSCs) as lenders will be subject to the prudential guidelines issued by the concerned departments of the Reserve Bank. branches/subsidiaries of Indian banks are permitted as recognised lenders only for FCY TC.|Supplier of goods located outside India. Banks, financial institutions, foreign equity Participation of Indian banks and non-banking financial regulatory Further, foreign|
+|v|Period of TC|The period of TC, reckoned from the date of shipment, shall be up to three years for import of capital goods. For non-capital goods, this period shall be up to one year or the operating cycle whichever is less. For shipyards / shipbuilders, the period of TC for import of non-capital goods can be up to three years.||
+|vi|per annum|All-in-cost ceiling Benchmark rate plus 250 bps spread.||
+|vii|Exchange rate|Change of currency of FCY TC into INR TC can be at the exchange exchange rate shall be the rate rate prevailing on the date of the agreement between the parties settlement. concerned for such change or at an exchange rate, which is less than the rate prevailing on the date of agreement, if consented to by the TC lender.|For conversion to Rupee, prevailing on the date of|
+|viii|Hedging provision|The entities raising TC are The overseas investors are required to follow the guidelines eligible to hedge their for hedging, if any, issued by the concerned sectoral or prudential permitted derivative products regulator in respect of foreign with AD Category I banks in currency exposure. Such entities shall have a board approved risk management policy.|exposure in Rupee through India. The investors can also access the domestic market through branches / subsidiaries of Indian banks abroad or branches of foreign banks with Indian presence on|
+
+<!-- PAGE 4 -->
+
+|||a back to back basis.|
+|---|---|---|
+|ix Change of|Change of currency of TC currency of|from Change of currency from INR one freely convertible foreign to any freely convertible|
+|borrowing|well as to INR is freely permitted.|currency to any other freely foreign currency is not convertible foreign currency as permitted.|
+
+## 3. Trade Credits in Special Economic Zone (SEZ)/Free Trade Warehousing Zone (FTWZ)/
+
+## Domestic Tariff Area (DTA):
+
+3.1. TC can be raised by a unit or a developer in a SEZ including FTWZ for purchase of non- capital and capital goods within an SEZ including FTWZ or from a different SEZ including FTWZ subject to compliance with parameters given at paragraph 2 above. Further, an entity in DTA is also allowed to raise TC for purchase of capital / non-capital goods from a unit or a developer of a SEZ including FTWZ.
+3.2. TC transactions in respect of SEZs and DTAs as permitted above should also be in compliance with applicable provisions of SEZ Act, 2005 as amended from time to time. For TC transactions related to SEZ, date of transfer of ownership of goods will be treated as TC date. As there will be no bill of entry for sale transactions within SEZ, the inter unit receipt generated through NSDL can be treated as an import document.
+**4. Security for trade credit**: The provisions regarding security for raising TC are as under:
+4.1. Bank guarantees may be given by the ADs, on behalf of the importer, in favour of overseas lender of TC not exceeding the amount of TC. Period of such guarantee cannot be beyond the maximum permissible period for TC. TC may also be secured by overseas guarantee issued by foreign banks / overseas branches of Indian banks. Issuance of such guarantees i.e. guarantees by Indian banks and their branches/subsidiaries located outside India will be subject to compliance with the provisions contained in Department of Banking Regulation Master Circular No.DBR.No.Dir.BC.11/13.03.00/2015-16 dated July 1, 2015 on “Guarantees and Co- acceptances”, as amended from time to time.
+4.2. For the purpose of raising TC, the importer may also offer security of movable assets (including financial assets) / immovable assets (excluding land in SEZs) / corporate or personal guarantee for raising TC. ADs may, therefore, be allowed to permit creation of charge on security offered / accept corporate or personal guarantee, duly ensuring that (i) there exists a security clause in the loan agreement requiring the importer to create charge, in favour of overseas lender / security trustee on immovable assets / movable assets / financial securities / issuance of corporate and / or personal guarantee; (ii) No Objection Certificate, wherever necessary, from the existing lenders in India has been obtained; (iii) such arrangement is co-
+
+<!-- PAGE 5 -->
+
+terminus with underlying TC; (iv) In case of invocation, the total payments towards guarantee should not exceed the dues towards TC; and (v) Creation/ enforcement / invocation of charge shall be as per the provisions contained in Foreign Exchange Management (Acquisition and Transfer of Immovable Property in India) Regulations, 2000 and Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000 or any other relative Regulations framed under the Foreign Exchange Management Act, 1999 and should also comply with FDI/FII/SEZ policy/ rules/ guidelines. The directions on issuance of guarantee mentioned under this provision shall come into force from the date of publication, in the Official Gazette, of the relative Regulations issued under FEMA.
+
+**5. Reporting requirements:** TC transactions are subject to the following reporting requirements:
+**5.1. Monthly reporting:** AD Category I banks are required to furnish details of TCs like drawal, utilisation, and repayment of TC approved by all its branches, in a consolidated statement, during a month, in Form TC to the Director, Division of International Trade and Finance, Department of Economic Policy and Research, RBI, Central Office, Fort, Mumbai – 400 001 (and
+th in MS-Excel file through email) so as to reach not later than 10 day of the following month. Each TC may be given a unique identification number by the AD bank. Format of Form TC is available at Annex IV of Part V of <u>Master Directions – Reporting under Foreign Exchange</u> <u>Management Act dated January 1, 2016</u>, as amended from time to time.
+
+**Note**: Suppliers’ credit beyond 180 days and up to one year/three years from the date of
+
+shipment for non-capital/capital goods respectively, should also be reported by the AD banks. Further, permissions granted by the AD banks/Regional offices of Reserve Bank for settlement of delayed import dues in terms of paragraphs B.5 and C.2 of the <u>Master Direction on Import of</u> <u>Goods and Services dated January 1, 2016</u>, as amended from time to time, should also be reported by the AD banks as per the aforesaid procedure.
+
+**5.2. Quarterly reporting:** AD Category I banks are also required to furnish data on issuance of bank guarantees for TCs by all its branches, in a consolidated statement, at quarterly intervals on the eXtensible Business Reporting Language (XBRL) platform. For the above purpose AD banks may login to the site [https://secweb.rbi.org.in/orfsxbrl/](https://secweb.rbi.org.in/orfsxbrl/) using their User name, Password and Bank code. For downloading the relevant form, AD banks may follow the link ‘Download Returns Package’ and download the form. After following the successive steps, AD banks may upload the file. For User name and Password, AD banks may write by <u>email</u> along with contact details. Clarification required, if any, may also be sent to the aforesaid email of the Reserve Bank and/ or may be communicated at Telephone No. 022-22601000 (extension- 2715). Guide for using XBRL website is also available under the Help option on the same page. Format of this statement is also available at Annex V of Part V of Master Directions – Reporting under Foreign Exchange Management Act dated January 1, 2016, as amended from time to time.
+
+<!-- PAGE 6 -->
+
+**6. Role of ADs**: While the primarily responsibility of ensuring adherence to the TC policy lies with the importer, the ADs are also expected to ensure compliance with applicable parameters of the TC policy / provisions of Foreign Exchange Management Act, 1999 by their constituents. As the Reserve Bank has not prescribed any format or manner in which TC arrangements / loan agreements are to be documented, ADs may consider any document to satisfy themselves with the underlying TC arrangement. ADs should ensure that there is no double financing on account of these transactions between a unit or a developer in a SEZ including FTWZ for purchase of non-capital and capital goods within an SEZ including FTWZ or from a different SEZ including FTWZ. ADs should also ensure that for import of non-capital goods, the period of TC, as applicable, is lower of operating cycle or one year (three years for shipyards / shipbuilders).

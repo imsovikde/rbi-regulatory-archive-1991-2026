@@ -1,0 +1,232 @@
+---
+doc_id: "Notifications_2019_11635"
+title: "Auction for Sale (Re-issue) of Government Stock (GS)"
+category: "Notifications"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MER29041F5BA98E98142BB914BE21A97C328DA.PDF"
+pdf_sha256: "dbba983e4d2f46578e66644f7c42f935760f88a4b6028d3b71917c36197c80d3"
+md_sha256: "a0e207a8682d7fecbba2726061d2fc72697c6629d143584099a74fcaaad48cb4"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T14:01:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-01-28_Notification_11635_Auction%20for%20Sale%20%28Re-issue%29%20of%20Government%20Stock%20%28GS%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Auction for Sale (Re-issue) of Government Stock (GS)
+
+<!-- PAGE 1 -->
+
+Government of India
+
+Ministry of Finance
+
+Department of Economic Affairs
+
+Budget Division
+
+New Delhi,dated:July 29,2019
+
+NOTIFICATION
+
+Auction for Sale (Re-issue) of Government Stock (GS)
+
+F.No.4(6)W&M/2019. Government of India hereby notifies sale(re-issue)of the following Government Stocks:
+
+Name of the
+
+Date of Original
+
+Original Tenure
+
+Dateof
+
+Auction
+
+Auction
+
+Notified Amount
+
+Security
+
+Issue
+
+(yy-mm-dd)
+
+Maturity
+
+Basis
+
+Method
+
+(inCrore)
+
+Jan.28,2024
+
+Price
+
+Multiple
+
+5,000
+
+7.32%GS2024
+
+Jan,28,2019
+
+05-00-00
+
+7.26%GS2029
+
+Jan.14,2019
+
+10-00-00
+
+Jan.14,2029
+
+Price
+
+Multiple
+
+6,000
+
+7.69%GS2043
+
+Apr.30,2019
+
+24-01-17
+
+Jun.17,2043
+
+Price
+
+Multiple
+
+2,000
+
+30-02-00
+
+Jun.15.2049
+
+Price
+
+Multiple
+
+4,000
+
+7.72%GS 2049
+
+Apr.15,2019
+
+Subject to the limit of  17,oo0 crore,being total notified amount,Government of lndia will have the option to retain
+
+additional subscription up to  1,oo0 crore each against any one or more of the above securities.The sale will be subject
+
+to the terms and conditions spelt out in this notification (called Specific Notification'). The Stock will be sold through
+
+Reserve Bank of India,Mumbai Office,Fort,Mumbai-400 001 as per the terms and conditions specified in the General
+
+Notification F.No.4(2)-W&M/2018,dated March27.2018 issuedbyGovernmentof India
+
+Allotment to Non-competitive Bidders
+
+2.The Government Stock up to5%of the notified amount of the sale will be allotted to eligible individuals and institutions
+
+as per the enclosed Scheme for Non-competitive Bidding Facility in the Auctions of Government Securities (Annex)
+
+Place and date of auction
+
+August 02,2019. Bids for the auction should be submitted in electronic format on the Reserve Bank of India Core
+
+a.m.and 12.00 noon and the competitive bids should be submitted between 11.30 a.m.and 12.30 p.m.
+
+When Issued Trading
+
+4.The Stocks willbe eligible for When Issued trading in accordance with the guidelines issued by the Reserve Bank of
+
+India.
+
+Date ofissue and payment for thestock
+
+5.The result of the auction shall be displayed by the Reserve Bank of India at its Fort, Mumbai Office on
+
+August 02,2019. The payment by successful bidders will be on August 05,2019 i.e. the date of re-issue. The payment
+
+for the Stocks will include accrued interest on the nominal value of the Stock allotted in the auction from the date of
+
+original issue/last coupon payment date to the date upto which accrued interest is due as mentioned in the table in para
+
+6.
+
+Paymentof Interest and Re-paymentof Stock
+
+6. Interest will accrue on the nominal value of the Stock from the date of original issue/last coupon payment and will
+
+be paid half yearly.The Stocks will berepaid at par on date of maturity.
+
+Name of the
+
+Coupon rate
+
+Date of Last
+
+Date upto which
+
+Date of Coupon
+
+Security
+
+(%)
+
+Coupon payment
+
+accrued interest is due
+
+payments (month/date)
+
+7.32%GS2024
+
+7.32
+
+Jul.28,2019
+
+Aug.04,2019
+
+Jan.28and Jul.28
+
+7.26
+
+Aug.04,2019
+
+Jan.14 andJul.14
+
+7.26%GS2029
+
+Jul.14,2019
+
+7.69%GS2043
+
+7.69
+
+Jun.17,2019
+
+Aug.04.2019
+
+Dec.17 and Jun.17
+
+7.72%GS2049
+
+7.72
+
+Jun.15.2019
+
+Aug.04,2019
+
+Dec.15 and Jun.15
+
+By Order of thePresident of India
+
+(Arvind Shrivastava)
+
+Joint Secretary to the Government of India
