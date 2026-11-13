@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2018_DCBR_BPD_PCB_RCB_Cir_No_3_16_27_000_2018-19"
+title: "Introduction of Liquidity Adjustment Facility (LAF) and Marginal Standing Facility (MSF) for Scheduled Co-operative Banks"
+category: "Circulars"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT38222A9BDD3B184A03911A781E9FC3B461.PDF"
+pdf_sha256: "c6440dba609e60e9af20646f7be601794c047e89245322a8e7292765247ad5ab"
+md_sha256: "bc146c236ec21acac4d9f26fcc8a3ced37e6c0fd96929e87faf49a4b3a6e7305"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:40:24Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2018/2018-08-16_Circular_DCBR.BPD.%28PCB-RCB%29.Cir.No.3-16.27.000-2018-19_Introduction%20of%20Liquidity%20Adjustment%20Facility%20%28LAF%29%20and%20Marginal%20Standing%20Facility%20%28MSF%29%20for%20Scheduled%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Introduction of Liquidity Adjustment Facility (LAF) and Marginal Standing Facility (MSF) for Scheduled Co-operative Banks
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक _______________________RESERVE BANK OF INDIA_______________________
+
+<u>www.rbi.org.in</u>
+
+RBI/2018-19/38 DCBR.BPD.(PCB/RCB).Cir.No.3/16.27.000/2018-19 August 16, 2018 The Chief Executive Officers of All Scheduled Primary (Urban) Co-operative Banks/ All Scheduled State Co-operative Banks
+
+Madam / Dear Sir,
+
+## Introduction of Liquidity Adjustment Facility (LAF) and Marginal Standing Facility (MSF) for Scheduled Co-operative Banks
+
+Please refer to our <u>circular UBD.BPD.(SCB).Cir.No.1/16.27.000/2014-15 dated October 29,</u> <u>2014</u> regarding Introduction of Liquidity Adjustment Facility (LAF) for Scheduled Primary (Urban) Co-operative Banks (UCBs).
+
+2. In this connection, it has been decided that with effect from August 20, 2018, LAF will also be extended to Scheduled State Co-operative Banks (StCBs) which are CBS enabled and have CRAR of at least 9 percent.
+3. Further, in order to provide an additional window for liquidity management over and aboveWithdrawn what is available under LAF, it has also been decided that with effect from August 20, 2018, Marginal Standing Facility (MSF) will be extended to Scheduled UCBs and Scheduled StCBs which are CBS enabled and have CRAR of at least 9 percent.
+4. The terms and conditions for availing LAF and MSF would be as per the instructions issued by Financial Markets Operation Department (FMOD) of the Reserve Bank of India from time to time.
+5. The names of such Scheduled Co-operative Banks which meet the eligibility norms to participate in LAF and MSF (Positive List), and of those Scheduled Co-operative Banks found ineligible (Negative List) will be communicated shortly to the FMOD by Department of Co- operative Bank Regulation (DCBR) under intimation to the banks concerned.
+सहकारी बक िविनयमन िवभाग, क � ी य कायार्लय, सी-7, पहली/ दूसरी मंिज़ल, बां�ा कु ल ा र् स ं कु ल, बां�ा (पूवर्), मुंबई – 400 051 फोन: 022 – 26578300/ 26578100; फै क् स : 022 - 26571117; ई-मेल: <u>cgmdcbrco@rbi.org.in</u> Department of Co-operative Bank Regulation, Central Office, C-7, 1 st / 2 nd Floor, Bandra-Kurla Complex, Bandra (E), Mumbai – 400 051 Phone: 022 – 26578300/ 26578100; Fax: 022 - 26571117; E-mail: <u>cgmdcbrco@rbi.org.in</u> <u>�हदी आसान है, इसका �योग बढ़ाइए—</u> **चेतावनी: �रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी वयिक्तगत ् जानकार जैसे बक के खाते का बयौरा ्, पासवडर् आद** **नहं मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए।** **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords,etc. It never** **keeps or offers funds to anyone. Please do not respond in any manner to such offers.**
+
+<!-- PAGE 2 -->
+
+6. The eligibility status of the banks in the Positive List will be reviewed on an ongoing basis to ensure that the CRAR requirement is being complied with. Yours faithfully, (Neeraj Nigam) Chief General Manager
+# Withdrawn

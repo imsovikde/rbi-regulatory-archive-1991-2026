@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2018_DBR_BP_BC_No_002_21_04_141_2018-19"
+title: "Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks - Valuation of State Development Loans"
+category: "Circulars"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI282018554F21B04441B735BF7D5C83C65A.PDF"
+pdf_sha256: "9cd50cd2145d5b9e9914ae06e3759dcce901be7f0ae0b9e5fbecde6057116b52"
+md_sha256: "e088bb5cb92486d9dba499963b4eff0f12cee194a0d02e2248dd54a76b69ffd1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:40:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2018/2018-07-27_Circular_DBR.BP.BC.No.002-21.04.141-2018-19_Prudential%20Norms%20for%20Classification%2C%20Valuation%20and%20Operation%20of%20Investment%20Portfolio%20by%20Banks%20-%20Valuation%20of%20State%20Development%20Loans.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks - Valuation of State Development Loans
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक **_________________RESERVE BANK OF INDIA _________________** <u>www.rbi.org.in</u> RBI/2018-19/28 DBR.BP.BC.No.002 /21.04.141/2018-19 July 27, 2018
+
+All Banks and All India Financial Institutions,
+
+Dear Sir,
+
+## Prudential Norms for Classification, Valuation and
+
+## Operation of Investment Portfolio by banks –
+
+## <u>Valuation of State Development Loans</u>
+
+Please refer to paragraph 2 of the <u>Statement on Developmental and Regulatory</u> <u>Policies</u>, issued as part of the <u>second Bi-monthly Monetary Policy Statement for</u> <u>2018-19 dated June 06, 2018</u>, wherein it was announced that securities issued by each state government should be valued based on observed prices.
+
+2. It has now been decided that securities issued by each state government,
+i.e., State Development Loans (SDLs), shall be valued in a manner which would objectively reflect their fair value based on observed prices/yields.
+# Withdrawn
+
+3. Financial Benchmarks India Pvt. Ltd. (FBIL) shall make available prices for valuation of SDLs based on the above principles with effect from September 30, 2018 which should be used for valuation of SDLs from that date.
+4. Till then banks shall continue to value SDLs as detailed in the <u>circular</u> <u>DBR.No.BP.BC.6/21.04.141/2015-16 dated July 1, 2015</u>.
+## Yours faithfully
+
+(Saurav Sinha) Chief General Manager-in-Charge
+
+बकं ग व�नयमन वभाग, के न् द्र य कायार्लय, 12वीं मंिज़ल, शहद भगत संह मागर्, मुंबई – 400001 Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22601000 Fax No: 22705691 Email ID: <u>cgmicdbr@rbi.org.in</u>
