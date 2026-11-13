@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2015_DBR_No_BP_BC_76_21_04_158_2014-15"
+title: "Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/497OGCC0315.PDF"
+pdf_sha256: "6197e77f56d5144e4ca066373ad9a219c5a92c6e490a9bb09b6b63a1e775b19f"
+md_sha256: "43da7464216c1ef574a25ea8fa7d5796fa54108859abb0281b9e5c9dda3375a8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:25:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-03-11_Circular_DBR.No.BP.BC.76-21.04.158-2014-15_Guidelines%20on%20Managing%20Risks%20and%20Code%20of%20Conduct%20in%20Outsourcing%20of%20Financial%20Services%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks
+
+<!-- PAGE 1 -->
+
+## भारतीय ररजर्व बकैं
+
+### RESERVE BANK OF INDIA
+
+**www.rbi.org.in**
+
+#### RBI/2014-15/497
+
+#### DBR.No.BP.BC.76/21.04.158/2014-15 March 11, 2015
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir, **Guidelines on Managing Risks and Code of Conduct in Outsourcing of** **Financial Services by Banks** Please refer to our <u>circular DBOD.No.BP.40/21.04.158/2014-15 dated</u> <u>November 3, 2006</u> forwarding the final guidelines on managing risks as applicable in outsourcing of financial services.
+
+2. In view of concerns raised that these instructions are not being adhered to, we reiterate that outsourcing of any activity by the bank does not diminish its obligations, and those of its Board and senior management, who have the ultimate responsibility for the outsourced activity. Banks have been advised to take steps to ensure that the service provider employs the same high standard of care in performing the
+# Withdrawn
+
+services as would be employed by the banks, if the activities were conducted within the banks and not outsourced. Further, banks should not engage in outsourcing that would result in their internal control, business conduct or reputation being compromised or weakened.
+
+3. Instances of non adherence with the aforementioned guidelines have been observed with regard to subcontracting by the primary outsourced vendors and the engagement of subcontractors by the outsourced service providers without the prior consent of the bank. It is clarified that the Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks apply *mutatis mutandis* to बकक ैंिं ग वर्नियमि वर्भाग (पर्व म ू ें बकक ैंिं ग पररचालि और वर्कास वर्भाग, कें द्रीय कायावलय, 12 र्ीिं और 13 र्ीिं मिंजजल, कें द्रीय कायावलय भर्ि, शहीद भगत ससिंह
+मागव, फोर्व, मिंबई -400 001 दरभाष: ू 022-2266 1602, 2260 1000 फै क्स: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 _______________________________________________________________________________________________________________________________________ th th Department of Banking Regulation (formerly Department of Banking Operations and Development), Central Office, 12 and 13 Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022-2266 1602, 2260 1000 Fax: 022-2270 5670,2270 5671, 2270 5691, 2270 5692 <u>हहिंदी आसाि है इसका प्रयोग बढाइए</u>
+
+<!-- PAGE 2 -->
+
+subcontracted activities, as well. Attention is invited to paragraph 5.5.1 of the guidelines, wherein banks have *inter-alia* been advised that the outsourcing contract should provide for prior approval/ consent by the bank of the use of subcontractors by the service provider for all or part of an outsourced activity. Before giving their consent, banks should review the subcontracting arrangements and ensure that these arrangements are compliant with the extant guidelines on outsourcing.
+
+4. Certain cases, like outsourcing of cash management, might involve reconciliation of transactions between the bank, the service provider and its sub-contractors. In such cases, banks should ensure that reconciliation of transactions between the bank and the service provider (and/ or its subcontractor), are carried out in a timely manner. An ageing analysis of entries pending reconciliation with outsourced vendors should be placed before the Audit Committee of the Board (ACB) and banks should make efforts to reduce the old outstanding items therein at the earliest.
+5. A robust system of internal audit of all outsourced activities should also be put in place and monitored by the ACB of the bank.
+Yours faithfully,
+
+# Withdrawn-sd-
+
+(Sudarshan Sen) Chief General Manager-in- Charge
