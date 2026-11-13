@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2026_13323"
+title: "Reserve Bank of India (Payment Banks – Prudential Norms on Declaration of Dividends) Repeal Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/032365CB0CCE9D21A4C6C89E5371E29840D06.PDF"
+pdf_sha256: "9222f91f1d9f0724c03cc3c41ce6f0ec95c4cb6f4394d5f2c968d91e31ef9b3e"
+md_sha256: "eada5c629d7175c4574750a4671f929a2c2da8b904312e2e9f83920549cc05c7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-03-10_Notification_13323_Reserve%20Bank%20of%20India%20%28Payment%20Banks%20%E2%80%93%20Prudential%20Norms%20on%20Declaration%20of%20Dividends%29%20Repeal%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Payment Banks – Prudential Norms on Declaration of Dividends) Repeal Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+RESERVE BANK OF INDIA
+
+RBI/DOR/2025-26/236 DOR.ACC.REC.No.425/21.02.067/2025-26 March 10, 2026
+
+## Reserve Bank of India (Payment Banks – Prudential Norms on Declaration of
+
+## Dividends) Repeal Directions, 2026
+
+The Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby repeals the <u>Reserve Bank of India (Payment Banks</u> <u>– Prudential Norms on Declaration of Dividends) Directions, 2025</u> <u>(DOR.ACC.REC.136/21-02-067/2025-26) issued on November 28, 2025</u>, with effect from Financial Year (FY) 2026-27. The Directions shall be replaced with <u>Reserve</u> <u>Bank of India (Payment Banks – Prudential Norms on Declaration of Dividends)</u> <u>Directions, 2026 issued on March 10, 2026</u>, with effect from FY 2026-27.
+
+2. Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions shall continue to be governed by the provisions thereof. All approvals or acknowledgments granted under these repealed Directions shall be deemed as governed by these Directions. Further, the repeal of these Directions shall not in any way prejudicially affect:
+(1) any right, obligation or liability acquired, accrued, or incurred thereunder;
+(2) any, penalty, forfeiture, or punishment incurred in respect of any contravention committed thereunder; and
+(3) any investigation, legal proceeding, or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid; and any such investigation, legal proceedings or remedy may be instituted, continued, or enforced and any such penalty, forfeiture or punishment may be imposed as if those directions, instructions, or guidelines had not been repealed.
+(Sunil T S Nair) Chief General Manager

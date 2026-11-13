@@ -1,0 +1,59 @@
+---
+doc_id: "Notifications_2026_13310"
+title: "Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Delisting of 01 entry"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2252FD42E94886F4BFCBC7FF7C1E6A301C3.PDF"
+pdf_sha256: "217f5afeadf41aade7de315adfe7d7ccbe42176dc48e67eefa5a690d18869017"
+md_sha256: "c0764b8e9cc1ba2aad1821d5d1c62cb24344fc9aa40d4d803251ead1d198a43c"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-03-02_Notification_13310_Implementation%20of%20Section%2051A%20of%20UAPA%2C1967-%20Updates%20to%20UNSC%E2%80%99s%201267-%201989%20ISIL%20%28Da%27esh%29%20%26%20Al-Qaida%20Sanctions%20List-%20Delisting%20of%2001%20entry.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Delisting of 01 entry
+
+<!-- PAGE 1 -->
+
+RBI/2025-26/225 DOR.AML.REC.415/14.06.001/2025-26 March 02, 2026
+
+The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Financial Institutions
+
+Madam/Dear Sir, **Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/ 1989 ISIL** **(Da'esh) & Al-Qaida Sanctions List: Delisting of 01 entry**
+
+Please refer to Chapter IX on “*Requirements/obligations under International Agreements*
+
+*- Communications from International Agencies*” of the Reserve Bank of India-Know Your Customer, Directions, 2025 dated November 28, 2025 as amended on December 29, 2025 (“Directions”), as applicable, in terms of which, regulated entity shall ensure that in terms of section 51A of the Unlawful Activities (Prevention) (UAPA) Act, 1967 and amendments thereto, it does not have any account in the name of individuals / entities appearing in the lists of individuals and entities, suspected of having terrorist links, which are approved by and periodically circulated by the United Nations Security Council (UNSC).
+2. In this connection, Ministry of External Affairs (MEA), Government of India has informed about the UNSC press release SC/16306 dated February 27, 2026 wherein the Security Council Committee has decided to remove the entry below from the ISIL (Da’esh) and Al-Qaida Sanctions List.
+2.1 The Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al-Qaida and associated individuals, groups, undertakings and entities removed the entry below from the ISIL (Da’esh) and Al-Qaida Sanctions List. Therefore, the assets freeze, travel ban and arms embargo set out in िविनयमन िवभाग, कें द्र ी य कायार्लय, कें द्र ी य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह मागर्, फोटर्, मुंबई-400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+paragraph 1 of Security Council resolution 2734 (2024) and adopted under Chapter VII
+
+of the Charter of the United Nations, no longer apply to the name set out below:
+
+## Entities and groups
+
+**QDe.137 Name:** AL-NUSRAH FRONT FOR THE PEOPLE OF THE LEVANT جبھة النصرة ألھل الشام **Name (original script):**
+
+**A.k.a.: a)** Hay’at Tahrir al-Sham (HTS) (ھیئة تحریر الشام (original script); Hay’at Tahrir al- Sham; Hay’et Tahrir al-Sham; Hayat Tahrir al-Sham; Assembly for the Liberation of Syria; Assembly for the Liberation of the Levant; Liberation of al-Sham Commission; Liberation of the Levant Organisation Tahrir al-Sham; Tahrir al-Sham Hay’at) **b)** جبھة النصرةthe Victory Front; Jabhat al (-Nusrah; Jabhet al-Nusra; Al-Nusrah Front; Al-Nusra Front) **c)** جبھة فتح الشام (Jabhat Fath al Sham; Jabhat Fath al-Sham; Jabhat Fatah al-Sham; Jabhat Fateh Al-Sham; Fatah al-Sham Front; Fateh al-Sham Front) **d)** Conquest of the Levant Front **e)** The Front for the Liberation of al Sham **f)** Front for the Conquest of Syria/the Levant **g)** Front for the Liberation of the Levant **h)** Front for the Conquest of Syria **i)** شبكة أنصار المجاھدین (Ansar al-Mujahideen Network-sub-unit name) **j)** مجاھدو الشام في الجھاد ساحات Levantine Mujahideen on the Bat (
+tlefields of Jihad -sub-unit name) **F.k.a.:** na **Address: a)** Syrian Arab Republic (Operates in) **b)** Iraq (Support network) **Listed on:** 14 May 2014 ( amended on 7 Jun. 2017, 5 Jun. 2018, 15 Nov. 2021 ) **Other information:** Associated with Al-Qaida (QDe.004). Brought Syrian and foreign Al-Qaida in Iraq (QDe.115) and Asbat al-Ansar (QDe.007) fighters, along with other foreign Al-Qaida operatives, to join local elements in Syrian Arab Republic to carry out terrorist and guerrilla operations there. Previously associated with the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), and its leader Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai (QDi.299) but separated from that group in 2013. In Jul. 2016, Abu Mohammed Al-Jawlani (QDi.317), the leader of Al-Nusrah Front for the People of the Levant, announced the group had changed its name to Jabhat Fath al- Sham and was no longer affiliated with any external entity. Despite the announcement and attempts to distinguish itself from Al-Nusrah Front for the People of the Levant, the group remains aligned with Al-Qaida and continues to carry out terrorist operations under this new name. In January 2017, Al-Nusrah Front created Hay’at Tahrir al-Sham (HTS) as a vehicle to advance its position in the Syrian insurgency and further its own goals as Al-Qaida’s affiliate in Syria. Previously listed between 30 May 2013 and 13 May 2014 as an aka of Al-Qaida in Iraq (QDe.115). Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link: <u>[https://www.interpol.int/en/How-we-work/Notices/View-UN-](https://www.interpol.int/en/How-we-work/Notices/View-UN-)</u> <u>Notices-Individuals</u>.
+
+3. Press release dated February 27, 2026 regarding the above can be found at <u>[https://press.un.org/en/2026/sc16306.doc.htm](https://press.un.org/en/2026/sc16306.doc.htm)</u> The details of the sanction measures and exemptions are available at the following
+## URL: <u>[https://www.un.org/securitycouncil/sanctions/1267#further_information](https://www.un.org/securitycouncil/sanctions/1267#further_information)</u>
+
+4. In view of the above, regulated entities are advised to take appropriate action in terms of Chapter IX of the aforementioned Directions and strictly follow the procedure as laid
+
+<!-- PAGE 3 -->
+
+down in the UAPA Order dated February 02, 2021 (amended on April 22, 2024) annexed to the directions.
+
+5. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+6. Further, as per the instructions from the Ministry of Home Affairs (MHA), any request for de-listing received by any regulated entity is to be forwarded electronically to Joint Secretary (CTCR), MHA for consideration. Individuals, groups, undertakings or entities seeking to be removed from the Security Council’s ISIL (Da'esh) and Al-Qaida Sanctions List can submit their request for delisting to an independent and impartial Ombudsperson who has been appointed by the United Nations Secretary-General. More details are available at the following URL: <u>[https://www.un.org/securitycouncil/ombudsperson/application](https://www.un.org/securitycouncil/ombudsperson/application)</u>
+7. Regulated entities are advised to take note of the aforementioned UNSC communications and ensure meticulous compliance. Yours faithfully, (Veena Srivastava) Chief General Manager

@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2026_13304"
+title: "Formation of new district in the State of Haryana – Assignment of Lead Bank Responsibility"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/220NT30AFCDECA9DE41EDBFEEBFA423D28BC9.PDF"
+pdf_sha256: "a9f2a3d842bf54a9f95e18630db3ffe018f208d59c01179db0ecdb248dc52ef0"
+md_sha256: "c4aa3796c9995e67469131617504d9ae1592741b14654bba347a9e5345725af8"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-02-16_Notification_13304_Formation%20of%20new%20district%20in%20the%20State%20of%20Haryana%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new district in the State of Haryana – Assignment of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ भारतीय रज़वर् बैंक ______________________ RESERVE BANK OF INDIA________________________ <u>www.rbi.org.in</u>
+
+RBI/2025-26/220 FIDD.CO.LBS.BC.No.13/02.08.001/2025-26 February 16, 2026
+
+The Chairman / Managing Director & Chief Executive Officer Lead Banks Concerned
+
+Madam/ Dear Sir,
+
+## Formation of new district in the State of Haryana – <u>Assignment of Lead Bank Responsibility</u>
+
+The Government of Haryana has notified formation of new district, viz., Hansi in the state of
+
+Haryana vide Gazette Notification No. 682-ARIC-03-2025/7392 dated December 19, 2025.
+
+Accordingly, it has been decided to designate the Lead Bank of the new district as below:
+
+## Sr Newly Created Lead Bank Responsibility District Working Code No District assigned to
+
+## allotted to new district
+
+02V (to be read as ‘Numeral 1 Hansi Punjab National Bank Zero, Numeral Two and Alphabet V’)
+
+2. There is no change in the Lead Banks of the other districts in the state of Haryana. Yours faithfully, (Nisha Nambiar) Chief General Manager-in-Charge
+व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, कें द्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014, मुंबई-400001 Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai-1 टेल Tel:022-22601000 फै क्सः 91-22-22621011/22610943/22610948 ई-मेल : <u>cgmincfidd@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए। “चेतावनी**:** �रज़वर् बैंक द्वारा मेल-डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बैंक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् तावों का कसी भी तरके से जवाब मत दिजए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

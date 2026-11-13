@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2026_13329"
+title: "Reserve Bank of India (Small Finance Banks - Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2397FD7794FBE4849118C2951F082FE494F.PDF"
+pdf_sha256: "d59a2da2dd0c33ce1d70498779f8e20c0991e15c836705d48265cdabe3d97dd5"
+md_sha256: "cd069d18b63bffe2e7197a0246703ca74ad24a2439380be5ca0e51552962464f"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-03-10_Notification_13329_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20-%20Prudential%20Norms%20on%20Capital%20Adequacy%29%20Third%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Small Finance Banks - Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2025-26/239 DOR.MRG.REC.No.434/21-01-002/2025-26 March 10, 2026
+
+## Reserve Bank of India (Small Finance Banks - Prudential Norms on Capital
+
+## Adequacy) Third Amendment Directions, 2026
+
+Please refer to paragraph 75 on ‘Treatment of total Counterparty Credit Risk’ of the <u>Reserve Bank of India (Small Finance Banks-Prudential Norms on Capital Adequacy)</u> <u>Directions, 2025</u>. It has been decided to amend these instructions to provide greater clarity and to largely align the guidelines with international standards.
+
+2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India (RBI) in this regard, RBI being satisfied that it is necessary and expedient in the public interest so to do, hereby, issues the Amendment Directions hereinafter specified.
+3. (i) These instructions shall be called the Reserve Bank of India (Small Finance Banks-Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026. (ii) These Amendment Directions shall come into effect from the date of issue.
+4. The <u>Reserve Bank of India (Small Finance Banks-Prudential Norms on Capital</u> <u>Adequacy) Directions, 2025</u>, are amended as provided below.
+4.1. Table 14 in paragraph 75(2) shall be substituted by the following, namely: –
+िविनयमन िवभाग,क ीय कायार्लय, 12 व और 13 व मंिजल, क ीय कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001 दूरभाष: 022-22601000 फै क् स : 022-22705691 ई-मेल: cgmicdor@rbi.org.in _____________________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+“**Table 14: Add-on factors for market-related off-balance sheet items**
+
+||||Add-on Factor (Per Cent)|||
+|---|---|---|---|---|---|
+||Interest Rate Contracts|Exchange Rate Contracts and Gold|Equities|Precious Metals except Gold|Other Commodities|
+|One year or less|0.25|1.00|6.00|7.00|10.00|
+|Over one year to five years|0.50|5.00|8.00|7.00|12.00|
+|Over five years|1.50|7.50|10.00|8.00|15.00|
+
+”.
+
+4.2. Note (b) in paragraph 75(2) shall be substituted by the following, namely: – *“For contracts that are structured to settle outstanding exposure following specified* *payment dates and where the terms are reset such that the market value of the* *contract is zero on these specified dates, the residual maturity shall be set equal to* *the time until the next reset date. However, in the case of interest rate contracts* *which have residual maturities of more than one year and meet the above criteria,* *the add-on factor shall be subject to a floor of 0.50 per cent.”.*
+4.3. The following notes shall be inserted after note (d) in paragraph 75(2), namely:– *“(e) Add-on factors as per Table 14 shall be applicable to all outstanding CCR* *exposures.*
+*(f) A bank acting as a clearing member of SEBI-recognised stock exchanges in* *the equity derivatives and commodity derivatives segments shall compute and* *maintain capital charge for CCR, in terms of paragraph 75 of these Directions. The* *add-on factors prescribed in Table 14 for ‘Equities’, ‘Precious Metals except Gold’,* *and ‘Other Commodities’ are applicable only in such cases.*
+*(g) In Table 14, ‘Precious Metals’ include Silver, Platinum and Palladium. ‘Other* *Commodities’ include energy contracts, agricultural contracts, base metals (e.g.,* *aluminium, copper, and zinc), and any other non-precious metal commodity* *contracts.”.*
+
+<!-- PAGE 3 -->
+
+4.4. In paragraph 75(5)(i), sub-paragraph (a) shall be substituted by the following, namely: – *“(a) Where a bank acts as a clearing member of a QCCP for its own purposes, a* *risk weight of 2 per cent shall be applied to the bank’s trade exposure to the QCCP* *in respect of OTC derivatives transactions, exchange traded derivatives* *transactions, and SFTs. Where the clearing member (bank) offers clearing services* *to clients, the 2 per cent risk weight also applies to the clearing member’s (bank)* *trade exposure to the QCCP that arises in cases where the clearing member (bank)* *is obligated to reimburse the client for any losses on such transactions in the event* *that the QCCP defaults.* *Provided that, a clearing member (bank) is not required to maintain capital for such* *transactions, for the trade exposure to the QCCP, if it is not obligated to reimburse* *the client for such losses, provided the bank obtains and maintains an independent,* *written, and reasoned legal opinion that it is protected from any such liability in case* *of QCCP defaults.”.* (Sunil T S Nair) Chief General Manager

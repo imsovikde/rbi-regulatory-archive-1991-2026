@@ -1,0 +1,26 @@
+---
+doc_id: "Notifications_2026_13288"
+title: "All Agency Banks to remain open for public on March 31, 2026 (Tuesday)"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT204567C37DC64144E63A57CE7413AB9CBD7.PDF"
+pdf_sha256: "add13b14a9873f6afe23d64339302908a726fa567e224c5a83a8fb60aca1aae6"
+md_sha256: "ffe72b73fb77eaec5132edbb462a577ec6f61bcc698d218ad14d83b674699fbc"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-02-03_Notification_13288_All%20Agency%20Banks%20to%20remain%20open%20for%20public%20on%20March%2031%2C%202026%20%28Tuesday%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# All Agency Banks to remain open for public on March 31, 2026 (Tuesday)
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक ैं RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2025-26/204 DoR.CO.SOG(Leg) No.401/09.08.024/2025-26 February 03, 2026 All Agency Banks Madam / Dear Sir <u>All Agency Banks to remain open for public on March 31, 2026 (Tuesday)</u> The Government of India has made a request to keep all branches of the banks dealing with Government receipts and payments open for transactions on March 31, 2026 (Tuesday-Public Holiday) so as to account for all the Government transactions relating to receipts and payments in the Financial Year 2025-26 itself. Accordingly, Agency Banks are advised to keep all their branches dealing with government business open on March 31, 2026 (Tuesday).
+
+2. Banks shall give due publicity about the availability of above banking services on this day. Yours faithfully (Dr. Sudarsana Sahoo) Chief General Manager

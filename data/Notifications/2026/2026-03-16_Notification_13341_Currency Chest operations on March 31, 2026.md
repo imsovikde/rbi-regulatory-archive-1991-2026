@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2026_13341"
+title: "Currency Chest operations on March 31, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2506906EF76186A4CAAB7B172C87B724E33.PDF"
+pdf_sha256: "2c31d5c7b0c93638b271fe1ef2b66d41e1b28a5f46f419e277af4616b92dc5b2"
+md_sha256: "c6f5f8136c5d27d7fc2ec5087fe2e85b066f1906315c04b42bc27f8d7492f27e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:15:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-03-16_Notification_13341_Currency%20Chest%20operations%20on%20March%2031%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Currency Chest operations on March 31, 2026
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ
+
+## भारतीय रज़वर् बैंक
+
+_______________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2025-26/250 DCM(CC)No.S4781/03.51.01/2025-26 March 16, 2026
+
+## All Currency Chest (CC) holding banks
+
+## Madam / Dear Sir
+
+## Currency Chest operations on March 31, 2026
+
+In terms of instructions contained in <u>circular DoR.CO.SOG(Leg)No.401/09.08.024/</u> <u>2025-26 dated February 03, 2026</u>, all branches of the banks dealing with Government receipts and payments are to be kept open for transactions on March 31, 2026 (Tuesday-Public Holiday), so as to account for the Government transactions in FY 2025-26 itself. Since such transactions might necessitate operations at CCs, the banks are advised to keep their CCs open on March 31, 2026, akin to a normal working day.
+
+2. The CC holding banks shall keep the linked branches suitably informed. Yours faithfully, (Suman Nath) Chief General Manager
+**_______________________________________________________________________________________________________________________________________**
+
+||मुद्रा प्रबंध|िवभाग, कें|द्र ी य कायार्लय, चौथी|मंिजल, अमर|भवन, सर|पी .एम .रोड,|मुंबई- 400 001|
+|---|---|---|---|---|---|---|---|
+|DEPARTMENT OF CURRENCY MANAGEMENT, CENTRAL OFFICE, AMAR BUILDING, 4TH FLOOR, SIR P M ROAD, MUMBAI - 400001|||फोन TELEPHONE No. 22663000 / 22604000 ई-मेल िही आसान|E-mail: cgmincdcm@rbi.org.in है, इसका|प्रयोग|बढ़ाइए ।||
+
+**मुद्रा प्रबंध िवभाग**, **कें द्र ी य कायार्लय**, **चौथी मंिजल**, **अमर भवन**, **सर पी** .**एम** .**रोड**, **मुंबई**- 400 001

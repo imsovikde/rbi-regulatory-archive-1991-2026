@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2026_13292"
+title: "Reserve Bank of India (Rural Co-operative Banks – Income Recognition, Asset Classification and Provisioning) Amendment Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2081D2A46DFA0CE4C228316DEB86F68BDF3.PDF"
+pdf_sha256: "4d78fa78ca2b234d179e0647d8ba6381017f8210d750bdd0396aa20c5568bc04"
+md_sha256: "ef9d583657c7233a0ea216b7da72ce2c2a886e48f7ac44c2d3ad2de03c39d01b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-02-13_Notification_13292_Reserve%20Bank%20of%20India%20%28Rural%20Co-operative%20Banks%20%E2%80%93%20Income%20Recognition%2C%20Asset%20Classification%20and%20Provisioning%29%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Rural Co-operative Banks – Income Recognition, Asset Classification and Provisioning) Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2025-26/208 DOR.STR.REC.411/21-04-048/2025-26 February 13, 2026
+
+## Reserve Bank of India (Rural Co-operative Banks – Income Recognition, Asset
+
+## Classification and Provisioning) Amendment Directions, 2026
+
+Please refer to <u>Reserve Bank of India (Rural Co-operative Banks – Income</u> <u>Recognition, Asset Classification and Provisioning) Directions, 2025</u> (hereinafter referred to as ‘the Directions’).
+
+2. With a view to ensuring uniformity in the recognition of overdue income (interest, fee, commission or other income) in Standard advances by Rural Co- operative Banks as well as to harmonise the same in line with other Regulated Entities, it has been decided that in case of Standard advances, banks shall recognise income on accrual basis without the requirement of making any matching provision.
+3. Accordingly, in exercise of the powers conferred by the sections 21, 35A and 56 of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+4. The Amendment Directions modifies the Directions as under:
+i. Paragraph 52 shall be deleted. ii. After paragraph 52, a new paragraph 52A shall be inserted, as under: *52A.The policy on income recognition should be based on record of* *recovery. A bank may recognise income, including interest, fee,* *commission or other income, on accrual basis in respect of credit* *facilities which are classified as ‘Standard’, without the requirement of* *making any matching provision. For credit facilities which are not* *classified as ‘Standard’, including those guaranteed by Government,* *income shall be recognized on actual receipt basis i.e. cash basis.*
+व�नयमन वभाग, कें द्रय कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+|iii.|Paragraphs 53 - 56 shall be deleted.|
+|---|---|
+|iv.|Paragraph 58 shall be deleted.|
+|v.|After paragraph 58, a new paragraph 58A shall be inserted, as under:|
+
+*58A. If any credit facility, including bills purchased and discounted, as well as those* *guaranteed by Government, becomes NPA, the entire interest, fees, commission* *and other income accrued and credited to income account in the past periods, shall* *be reversed if the same is not realised.*
+
+5. The above amendments shall come into force with immediate effect. (Vaibhav Chaturvedi) Chief General Manager

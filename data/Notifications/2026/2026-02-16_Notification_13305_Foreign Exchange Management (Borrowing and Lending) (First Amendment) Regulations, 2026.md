@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2026_13305"
+title: "Foreign Exchange Management (Borrowing and Lending) (First Amendment) Regulations, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/22APDIR160220265A80967793994EF9850D8E35EDDF7D45.PDF"
+pdf_sha256: "3b93427c51c89f66a9b1122b35148d3ba120edadbf0f862783caee9b4acdc7d4"
+md_sha256: "7fd4c8b6a910132921ce727e516c406fb9eb2102c6db6ef1bc6b807d71b86d11"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:14:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-02-16_Notification_13305_Foreign%20Exchange%20Management%20%28Borrowing%20and%20Lending%29%20%28First%20Amendment%29%20Regulations%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management (Borrowing and Lending) (First Amendment) Regulations, 2026
+
+<!-- PAGE 1 -->
+
+**बेटी बचाओ** **बेटी पढ़ाओ**
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2025-26/221
+
+A.P. (DIR Series) Circular No. 22 February 16, 2026 All Authorised Dealer Category I Banks, Madam / Sir,
+## Foreign Exchange Management (Borrowing and Lending) (First Amendment)
+
+## Regulations, 2026
+
+The Reserve Bank of India had released draft amendment to Foreign Exchange Management (Borrowing and Lending) Regulations, 2018 pertaining to changes in the External Commercial Borrowing (ECB) Framework on <u>October 03, 2025</u> for public feedback. The <u>Foreign Exchange Management (Borrowing and Lending) (First</u> <u>Amendment) Regulations, 2026 dated February 09, 2026</u> have now been published in the <u>official gazette</u> on February 16, 2026. Authorised Dealer Category I banks are directed to be guided by the amended Regulations while facilitating borrowing and lending transactions governed by these Regulations.
+
+2. Provisions pertaining to ECB contained in <u>Master Direction – External Commercial</u> <u>Borrowings, Trade Credits and Structured Obligations</u> and related provisions pertaining to borrowing in Indian Rupees (INR) by persons resident in India contained in <u>Master</u> <u>Direction – Borrowing and Lending transactions in Indian Rupee between Persons</u> <u>Resident in India and Non-Resident Indians/ Persons of Indian Origin</u> have been reviewed and consolidated in the Regulations.
+3. In view of the above, the following amendments are being made to the aforesaid master directions and Frequently Asked Questions (FAQs):
+(a) Para 1 to 12 of <u>Master Direction – External Commercial Borrowings, Trade</u> <u>Credits and Structured Obligations</u> shall be deleted;
+(b) Para 2 of <u>Master Direction – Borrowing and Lending transactions in Indian</u> वदे शी मुद्रा वभाग**,** के न् द्र य कायार्लय**,** के न् द्र य कायार्लय भवन**,** शहद भगतस ंह मागर्**,** फोटर्**,** मुंबई**-400 001** भारत
+Foreign Exchange Department, Central Office ,Central Office building, Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Telephone No.022-22601000, ईमेल: <u>fedcopcd@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+<u>Rupee between Persons Resident in India and Non-Resident Indians/ Persons of</u> <u>Indian Origin</u> shall be deleted; and
+
+(c) Part I of <u>FAQs on External Commercial Borrowings (ECB) and Trade Credits</u> shall be deleted.
+4. Authorised Dealer banks may bring the contents of the circular to the notice of their customers/ constituents concerned.
+5. The directions contained in this circular have been issued under sections 10(4), 11(1) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dr. Aditya Gaiha) Chief General Manager-in-Charge
