@@ -1,0 +1,106 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_PCB_Cir_No_3_14_01_062_2012-13"
+title: "Intra-bank Deposit Accounts Portability"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CE12210072012B.PDF"
+pdf_sha256: "914aa88e90042891b23c638c9f4c101f0f90e2f21df1af84de6330de053c7224"
+md_sha256: "ba00a56aef59628689ff4c9b26972697b61c74b15aab5711ddfbec126504e44e"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:49:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-07-10_Circular_UBD.BPD.%28PCB%29Cir.No.3-14.01.062-2012-13_Intra-bank%20Deposit%20Accounts%20Portability.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Intra-bank Deposit Accounts Portability
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/122
+
+UBD.BPD (PCB)Cir.No.3/14.01.062/2012-13
+
+July 10, 2012
+
+The Chief Executive Officer of
+
+AllPrimary (Urban) Co-operative Banks
+
+Madam/DearSir,
+
+Intra-bank Deposit Accounts Portability
+
+It has been brought to our notice that some banks are insisting on opening of fresh
+
+from one branch of the bank to another branch of the same bank. In such cases,
+
+insisting on opening of a fresh account or subjecting the customers to the full KYC
+
+procedure again causes inconvenience to them resulting in poor customer service.
+
+Further,incaseofbanksthatareCBSenabled,theKYCrecordsofacustomer
+
+could be accessed by any branch of the bank and hence it is not reasonable for such
+
+banks to subject the customer again to the full
+
+procedure.
+
+2. Banks are advised that KYC once done
+
+one branch of the bank should be valid
+
+for transfer of the account within the.
+
+as long as full KYC procedure has been
+
+done for the concerned account
+
+ustomershouldbeallowedtotransferhis
+
+accountfromonebranchtoanot
+
+branch without restrictions. In order to comply
+
+with KYC requirements of correct address of the person, fresh address proof may be
+
+obtained from him/her upon such transfer by the transferee branch. It may be noted
+
+that instructions regarding periodical updation of KYC data in terms of paragraph
+
+2.4(c) and those on maintenance of records of identity and transaction in terms of
+
+paragraph2.15ofour
+
+MasterCircularUBD.BPD.(PCB).MC.No.16
+
+/12.05.001/2012-13datedJuly02,2012
+
+2 remain unchanged and banks will be
+
+required to carry out the updation at prescribed intervals as also maintain records of
+
+transactions and verification of identity as prescribed.
+
+3. Please acknowledge receipt to our Regional Office concerned.
+
+Yours faithfully,
+
+(A. Udgata)
+
+Chief General Manager-in-Charge
+
+,-400018
+
+:022- 2493 9930- 49,a:022-24974030/ 2492 0231,: rbiubdc0@rbi. 0rg.in
+
+UrbanBanksDepartment,Central Office,1Floor,Garment House,Worli,Mumbai-400018
+
+Phone:022-2493 9930-49,Fax:022-24974030/24920231,Email:rbiubdco@rbi.org.in

@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2012_RPCD_CO_RRB_BC_No_10_03_05_033_2012-13"
+title: "Section 42 of the RBI Act, 1934 - Maintenance of CRR on Foreign Currency (Non-Resident) [FCNR (B)] Scheme"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/109EBC020712F.PDF"
+pdf_sha256: "abc4a9f361f12d21545fa66076e87fca95947c737d2368681310ac6095d22435"
+md_sha256: "541414e29a300ae31096686f96cfe1a7b27f5e338f9e5701c73d92728ef32a89"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:47:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-07-02_Circular_RPCD.CO.RRB.BC.No.10-03.05.033-2012-13_Section%2042%20of%20the%20RBI%20Act%2C%201934%20-%20Maintenance%20of%20CRR%20on%20Foreign%20Currency%20%28Non-Resident%29%20%5BFCNR%20%28B%29%5D%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 42 of the RBI Act, 1934 - Maintenance of CRR on Foreign Currency (Non-Resident) [FCNR (B)] Scheme
+
+<!-- PAGE 1 -->
+
+## भारतीय िरज़वर् बक
+
+## -----------------RESERVE BANK OF INDIA------------------
+
+**www.rbi.org.in** RBI/2012-13/109 RPCD CO. RRB. BC. No.10/03.05.033/2012-13
+
+## July 2, 2012
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## Section 42 of the RBI Act, 1934 – Maintenance of CRR on Foreign Currency (Non-
+
+## Resident) [FCNR (B)] Scheme
+
+As per extant guidelines in order to determine the rupee equivalent liability under FCNR
+
+(B) Scheme for the purpose of Cash Reserve Ratio (CRR), Regional Rural Banks (RRBs) may use the FEDAI indicative rate for all the four major currencies (viz. US dollar, GBP, Japanese Yen, and DM/Euro) on relevant reporting Friday which is available at 12.00 noon on any working day.
+2. We advise that RRBs may be guided by the RBI Reference rate announced on the Reserve Bank’s web site at around 12:30 pm (instead of indicative rates announced by FEDAI at 12 noon) for the purpose of converting foreign assets/deposits for reporting inWithdrawn Form A Return. The change may be brought into effect from the reporting fortnight ending July 13, 2012. Yours faithfully,
+I.S. Negi (General Manager)
+ग्रामीण आयोजना और ऋण िवभाग,कद्रीय कायार्लय, 10वीं मंिज़ल,कद्रीय कायार्लय िबिडंग,शहीद भगत िसंह माग,र् पो.बा.सं.10014,मंबई ु 400 001 <u>टेलीफोन:022-22601000 फै क्स: 91-22-22621011/22619048 ईमेल: cgminrpcd@rbi.org.in</u> Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001 Tel:022-22601000 Fax:91-22-22621011/22619048 E-mail :cgminrpcd@rbi.org.in <u>िहदी</u>ं <u>आसान है, इसका प्रयोग बढ़ाइए</u>

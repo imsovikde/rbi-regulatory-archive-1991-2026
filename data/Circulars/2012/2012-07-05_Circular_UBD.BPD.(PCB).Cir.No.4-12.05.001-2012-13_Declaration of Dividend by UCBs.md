@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2012_UBD_BPD_PCB_Cir_No_4_12_05_001_2012-13"
+title: "Declaration of Dividend by UCBs"
+category: "Circulars"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CDDU050712.PDF"
+pdf_sha256: "2064e8a0c5ccf86c7a3717010a5230b5f27095c3370c3c402449823f76447779"
+md_sha256: "2ae2b2ffc4337d22438c4e105a0e3548b3432af46313bae5aeaca4f637669d37"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:49:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-07-05_Circular_UBD.BPD.%28PCB%29.Cir.No.4-12.05.001-2012-13_Declaration%20of%20Dividend%20by%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Declaration of Dividend by UCBs
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2012-13/113 UBD.BPD. (PCB). Cir.No. 4 /12.05.001/2012-13 July 5, 2012 The Chief Executive Officer, All Primary (Urban) Co-operative Banks. Madam / Dear Sir, **Declaration of dividend by UCBs** Please refer to our <u>circular UBD.CO.BPD (PCB) Cir. No. 70 /12.05.001/2008-09 dated</u> <u>June 15, 2009</u> on the captioned subject advising the criteria for declaration of dividend by UCBs.
+
+2. It has now been decided to revise the criteria for declaring dividend without prior permission of the Reserve Bank. Accordingly, UCBs may henceforth declare dividend subject to compliance with the following parameters:
+# Withdrawn
+
+i) Compliance with CRAR norms as prescribed by RBI. ii) Net NPA of less than 5% after making all necessary provisions (including provisions required as per assessment made by RBI in the last inspection report). iii) There is no default in CRR/SLR during the year for which dividend is proposed. iv) All required provisions have been made for NPAs, investments and other assets as per prudential norms. शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत <u>फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in
+<u>बक ����� म पऽाचार का ःवागत करता है —</u>
+
+<!-- PAGE 2 -->
+
+v) Dividend is paid out of the net profit and after making all statutory and other provisions and adjustment for accumulated losses in full.
+3. UCBs complying with all the above parameters except net NPA, and desirous of declaring dividend may approach the respective Regional office of the Reserve Bank for permission for declaring dividend provided the Net NPA is less than 10%.
+4. The criteria for declaration of dividend would be reviewed after three years from the date of this circular or earlier, if necessary.
+5. Please acknowledge receipt of the circular to the Regional office concerned.
+## Yours faithfully
+
+(A. Udgata)
+
+# Withdrawn
+
+Chief General Manager- in- Charge
