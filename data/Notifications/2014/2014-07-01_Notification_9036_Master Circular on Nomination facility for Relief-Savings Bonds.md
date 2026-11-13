@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2014_9036"
+title: "Master Circular on Nomination facility for Relief/Savings Bonds"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/107MN071013SB.PDF"
+pdf_sha256: "db1d1bbb7faa930c857c6a55a21ff08773365d0e28929f6c45737da07c8b68af"
+md_sha256: "78c81baae0452fde7c75de1cacb7350f0bc463cc03da32f6bc9c529e8d48c9fa"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-07-01_Notification_9036_Master%20Circular%20on%20Nomination%20facility%20for%20Relief-Savings%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Nomination facility for Relief/Savings Bonds
+
+<!-- PAGE 1 -->
+
+<u>RBI/2014-15/107</u> DGBA.CDD. No.**7917**/13.01.299/2014-15 July 01, 2014
+
+The Chairman/Managing Director Head Office (Government Accounts Department) State Bank of India and Associates, All Nationalized banks (Excluding Punjab and Sind Bank & Andhra Bank), Axis Bank Ltd./ICICI Bank Ltd./HDFC Bank Ltd., Stock Holding Corporation of India Ltd. (SHCIL) Dear Sir/Madam, <u>Master Circular on Nomination facility for Relief/Savings Bonds</u> Please refer to our <u>Master Circular RBI/2013-14/82 dated July 1, 2013</u> on the above subject.
+
+2. In order to facilitate availability of all the current operative instructions on the above subject at one place, instructions issued up to June 30, 2014 by us are enclosed. This circular has also been placed on RBI website <u>[http://www.rbi.org.in](http://www.rbi.org.in)</u>. Yours faithfully, (Sunita S. Ratanpal) General Manager Encl. : One
+
+<!-- PAGE 2 -->
+
+Master Circular on Nomination facility for Relief/Savings Bonds
+
+# <u>Master Circular on Nomination facility for Relief/Savings Bonds</u>
+
+1. A sole holder or all the joint holders (investors) of a Relief/Savings bond other than in the form of promissory note or bearer bond may nominate one or more persons who in the event of death of the sole holder/all the joint holders, as the case may be, would be entitled to the Relief/Savings bond and to the payment thereon, provided that the person or each of the persons nominated is himself/herself competent to hold a similar bond.
+## 2. The nomination should be made before maturity of the bond.
+
+3. When nomination has been made in favour of two or more nominees, in the event of the death of either or any of them, the surviving nominee or nominees, as the case may be, shall be entitled to the Relief/Savings bond and payment thereon.
+4. A nomination made by the holder(s) of a Relief/Savings bond may be varied or cancelled by making a fresh nomination in the prescribed manner and intimating the same in writing to the designated branch of the authorised public/private sector bank.
+5. If the nominee is a minor, the holder(s) of the Relief/Savings bond may appoint any person, not being a minor, to receive the proceeds of a Relief/Savings bond on behalf of the nominee in the event of his/her/their death during the minority of the nominee.
+6. The investor(s) can make separate nomination for each investment in a Bond Ledger Account (BLA) (subject to 2 above).
+7. Agency banks to issue ‘Acknowledgement of Nomination.'
+8. In case of 8 % Savings (Taxable) Bonds, 2003 (currently the only scheme open for subscription) the sole holder or all the joint holders can also nominate a Non-resident Indian (NRI) as his/her/their nominee(s) and remittance of interest payment and/or maturity value, as the case may be, will be governed by the regulations as applicable to NRIs. <u>Exceptions</u> **–** No nomination is permissible in the following cases:-
+(a) When the BLA is held by an adult on behalf of a minor;
+(b) When the holder has no beneficial interest in the BLA but holds it in an official or fiduciary capacity.
+
+<!-- PAGE 3 -->
+
+Master Circular on Nomination facility for Relief/Savings Bonds
+
+<u>Cancellation of Nomination</u>**-**A nomination previously made will stand automatically cancelled -
+
+(a) If the holder(s) applies to the agency banks for substitution or cancellation of the nomination and the substitution or cancellation is duly registered by the office;
+(b) If the holder(s) transfers the Certificate to another party.
+## ________________
+
+The various circulars/instructions issued by RBI based on which the above Master Circular is prepared are listed below:
+
+i) Ref. 'Memorandum of Procedure' for Relief bonds. ii) Ref. CO.DT.13.01.201/4087/2000-01 dated February 16, 2001 iii) Ref. CO.DT.13.01.201/4854/2000-01 dated March 19, 2001 iv) Ref. CO.DT.13.01.298/H-3410/2003-04 dated December 20, 2003
+v) Ref. CO.DT.13.01.299/H-3426/2003-04 dated December 20, 2003 vi) <u>Ref. DGBA.CDD. No.H-2173/13.01.299/2008-09 dated September 2, 2008</u>
+*(In case detailed clarifications are required on specific issues, the circulars indicated* *above may please be referred to)*

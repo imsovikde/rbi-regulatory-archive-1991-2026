@@ -1,0 +1,186 @@
+---
+doc_id: "Notifications_2014_9102"
+title: "Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PC4150714FLC.pdf"
+pdf_sha256: "146ae172ff534f4c7cf014ac0d1e77f7d7327cc619115239044cece05a4f8622"
+md_sha256: "aa44f2b11d1fb406d6a5fe4757bf571bdfe93226c8cb7e3e292dc398de16c7f0"
+total_pages: 10
+native_pages: 10
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-07-15_Notification_9102_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20and%20other%20Regulatory%20Measures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+
+<!-- PAGE 1 -->
+
+|2.|viewed|RBI/2014-15/125 Dear Sir / Madam UrlPage=&ID=763 On i. ii. शहरी बक ैं|The Chief Executive Officer using|examination|All Primary (Urban) Co-operative Banks the. consumer borrower segment. [विभाग, कें द्रीय कायाल|UBD. CO. BPD. PCB. Cir. No. 4 /16.74.000/2014-15 link of Decisions and Account Opening ा Urban Banks Department, Central Office, Garment House, 1|the recommendations with modifications, wherever appropriate:|ह िंदी आसान|Populating Commercial Data Records in Databases of all CICs ै|भारतीय ररजिा बक RESERVE BANK OF INDIA www.rbi.org.in Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures A Committee to Recommend Data Format for Furnishing of Credit Information to Credit Information Companies (Chairman: Shri Aditya Puri) was constituted by the Reserve Bank of India (RBI). The Report of the Committee was placed on RBI’s website on March 22, 2014 inviting comments on the recommendations of the Committee. The Report of the Committee is available for reference on RBI’s website which can be recommendations comments/suggestions received, it has been decided to implement the following य, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसट फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई-मेल: cgmincubd@rbi.org.in 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmincubd@rbi.org.in, इसका|ैं Credit Information Reports (CIRs) / Credit Bureau Usage in all Lending include in their credit appraisal processes/loan policies, suitable provisions for obtaining CIRs from one or more Credit Information Companies (CICs) so that the credit decisions are based on information available in the system. In this context, as commercial borrowers’ data is not adequately populated with the CICs, to start with, UCBs may institute board approved policies for credit bureau usage in all lending decisions and account opening to retail borrowers/ Recommendation 8.9 regard to CICs populating their databases in respect to corporate borrowers is st प्रयोग बढ़ाइए|of ें —|http://rbi.org.in/scripts/PublicationReportDetails.aspx? the : Urban Cooperative Banks (UCBs)] Floor, Dr. Annie Besant Road, Worli, Mumbai -|Committee मागा, िरली, मंबई - 400018 भारत|July 15, 2014 and the should : A roadmap in|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल,|||||||Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.|डाक, एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत िीज़जए। keeps or offers funds to anyone. Please do not respond in any manner to such offers.|||की||जानकारी जैसे बैंक के खाते का ब्यौरा,|It never|
+
+<!-- PAGE 2 -->
+
+required to be laid out. For this purpose, UCBs are advised to report data in respect of their corporate borrowers to the CICs in a timely manner with immediate effect. After a period of six months, UCBs should start using data available with the CICs in respect of commercial / corporate borrowers, under a Board approved policy. [<u>Recommendation 8.8</u>]
+
+iii. <u>Standardisation of Data Format</u>: With a view to streamlining the process of data submission by UCBs to CICs, it has been decided to standardise the formats for data submission by the UCBs to the CICs. The data format as per **Annex I** should be taken as the base for standardisation of data format for consumer and commercial borrowers. These formats should be put in use by the UCBs for reporting to CICs with immediate effect. The data format would be a non-proprietary reporting format and henceforth would be known as “Uniform Credit Reporting Format”. The segment viz. consumer and commercial will be denoted appropriately in parentheses, for example, “Uniform Credit Reporting Format (Consumer)”. These should be uniformly adopted by the UCBs. [<u>Recommendation 8.10 (a)</u>]
+
+iv. <u>Technical Working Group</u>: It has been decided to constitute a Technical Working Group comprising of representatives from Scheduled Commercial Banks (a member each from a Public Sector Bank, a Private Sector Bank and a Foreign Bank), Urban Cooperative Banks, Regional Rural Banks (RRBs), All India Notified Financial Institutions, CICs, NBFCs, HFCs, IBA and MFIN to institutionalise a continuing mechanism for reviewing and making changes where necessary to the data formats. This Working Group should review the data formats periodically, say once a year, and suggest modifications to the same. It would frame rules on all data fields for various data formats, viz. consumer, commercial and MFI. The data formats after finalisation by the Group will be submitted to RBI for approval. In order to implement the recommendations relating to the Technical Working Group, CIBIL will act as the convenor of the Group and take the lead to operationalize the recommendation. To start with, the Working Group may take up, on a priority basis, changes in the commercial borrower segment, where there is an urgent need to capture data required for sharing of information among member banks/FIs under consortium/multiple banking arrangements and to aid in implementation of the instructions at paragraph 2 (ii) above. The Working Group should also incorporate the additional fields as detailed in **Annex II**. [<u>Recommendations 8.10</u>
+
+<u>(b)</u> and <u>8.11</u>]
+शहरी बकैं विभाग, कें द्रीय कायाला य, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसटेंमागा, िरली, मंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई-मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmincubd@rbi.org.in <u>ह िंदी आसान ै, इसका प्रयोग बढ़ाइए—</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त की जानकारी जैसे बैंक के खाते का ब्यौरा, पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत िीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 3 -->
+
+v. <u>Rectification of Rejected Data</u>: CICs are required to share with UCBs the logic and validation processes involved in data acceptance so that instances of data rejection can be minimised. The reasons for rejection need to be parameterised and circulated among the UCBs concerned. Rejection reports should be made simple and understandable so that they can be used for fixing reporting and data level issues. UCBs should rectify the rejected data and upload the same with the CICs within seven days of receipt of such rejection report. [<u>Recommendation 8.15</u>] vi. <u>Data Quality Index</u>: A common Data Quality Index would assist UCBs in determining the gaps in their data and also move towards improving their performance over a period of time. In addition, they would also be able to rank their own performance against that of their peers and identify their relative position. UCBs may adopt this Data Quality Index for assessing the quality of data submissions and make efforts towards improving data quality and minimising data rejections, within a time period of six months. [<u>Recommendation</u>
+<u>8.16</u>] vii. <u>Best Practices for UCBs</u>: Every UCB should take into account the best practices as detailed in **Annex III** while formulating or reviewing the policy and procedure under the Credit Information Companies (Regulation) Act, 2005 (CICRA) with the approval of their Board of Directors. [<u>Recommendation 8.25</u>]
+3. The other recommendations of the Committee would be further examined before taking a decision on their implementation. UCBs are advised to implement the instructions contained in this circular, as per the time schedule indicated. Yours faithfully, (Scenta Joy) General Manager
+शहरी बकैं विभाग, कें द्रीय कायाला य, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसटेंमागा, िरली, मंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई-मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022<u>- 2497 4030 / 2492 0231; E</u>-mail: cgmincubd@rbi.org.in <u>ह िंदी आसान ै, इसका प्रयोग बढ़ाइए—</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त की जानकारी जैसे बैंक के खाते का ब्यौरा, पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत िीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 4 -->
+
+## Annex I
+
+## (Ref: Para 2 (iii)]
+
+## Uniform Credit Reporting Format for Consumer and Commercial Borrowers
+
+## A. Consumer Bureau
+
+|Segments||||Fields||||
+|---|---|---|---|---|---|---|---|
+|Header|Reporting Member /|Reporting Member /||Date Reported|Reporting|Authentication||
+||Processor User ID|Processor Short Name Cycle Identification||and Certified|Password|Method|Member Data|
+|Name|Consumer Name|Date of Birth|Gender|||||
+|ID|ID Type|ID Number|Issue Date|Expiration Date||||
+|Telephone|Telephone Number|Telephone Extension|Telephone Type|||||
+|Email|E-Mail ID|||||||
+|Address|Consumer Address Current/New|State Code|PIN Code|Address Category|Residence Code|||
+|Account|Reporting Member|Current/New Member|Current/New||Ownership|Date Opened/|Date of Last|
+||Code|Short Name Date Reported and|Account Number High Credit/|Account Type|Indicator|Disbursed Number of Days|Payment Old Reporting|
+||Date Closed|Certified|Sanctioned Amount|Current Balance|Amount Overdue|Past Due|Member Code|
+||Old Member Short|||Old Ownership Suit Filed/ Wilful||Written-off and|Asset|
+||Name|Old Account Number|Old Account Type|Indicator|Default|Settled Status|Classification|
+||Value of Collateral|Type of Collateral|Credit Limit|Cash Limit|Rate Of Interest|Repayment Tenure|EMI Amount|
+||Written-off Amount|Written-off Amount||Payment|Actual Payment|||
+||(Total)|(Principal)|Settlement Amount|Frequency|Amount|Occupation Code|Income|
+||Net/Gross Income|Monthly/Annual Income||||||
+||Indicator|Indicator||||||
+
+## B. Commercial Bureau
+
+|Segments||||Fields||||
+|---|---|---|---|---|---|---|---|
+|Header|Member ID|Previous Member ID|Date of Creation & Certification of Input Cycle Date File|Reporting /|Information Type Company|Filler||
+|Borrower|Member Branch|Previous Member||Borrower Short|Registration|Date of||
+||Code|Branch Code|Borrower s Name|Name|Number|Incorporation Borrower s Legal|Business|
+||PAN|CIN|TIN|Service Tax #|Other ID|Constitution|Category|
+||Business/ Industry|||Class of Activity||||
+||Type|Class of Activity 1|Class of Activity 2|3|SIC Code|Sales Figure|Financial Year|
+||Number of||Assessment Agency|Credit Rating As|Credit Rating|||
+||Employees|Credit Rating|/ Authority|On|Expiry Date|Filler||
+|Address|Borrower Office|Borrower Office DUNS||||||
+||Location Type|Number|Address Line 1|Address Line 2 Mobile|Address Line 3 Telephone Area|City/Town Telephone|District|
+||State/Union Territory|Pin Code|Country|Number(s)|Code|Number(s)|Fax Area Code|
+||Fax Number(s)|Filler||||||
+|Relationship|Relationship DUNS|||Business Entity Business||Business / Industry|Individual Name|
+||Number|Related Type|Relationship Company|Name Date of|Category|Type|Prefix|
+||Full Name|Gender|Registration Number|Incorporation|Date of Birth|PAN|Voter ID|
+||Passport Number|Driving Licence ID|UID Percentage of|Ration Card No|CIN|DIN|TIN|
+||Service Tax #|Other ID|Control|Address Line 1|Address Line 2|Address Line 3 Telephone|City/Town Telephone Area|
+||District|State/Union Territory|Pin Code|Country|Mobile Number(s)|Number(s)|Code|
+||Fax Number(s)|Fax Area Code|Filler|||||
+
+<!-- PAGE 5 -->
+
+|Segments||||Fields||||
+|---|---|---|---|---|---|---|---|
+||||Facility / Loan|Sanctioned Amount/ Notional|||Tenure / Weighted Average maturity|
+|Credit Facility||Previous Account|Activation / Sanction|Amount of|||period of|
+||Account Number|Number|Date Current Balance /|Contract Notional Amount of Out- standing|Currency Code|Credit Type|Contracts|
+||Repayment||Limit Utilized /Mark Restructured||Loan Expiry /||Asset|
+||Frequency|Drawing Power|to Market|Contracts Overdue Bucket|Maturity Date|Loan Renewal Date|Classification Overdue Bucket|
+||Asset Classification Amount Overdue /|Limit|Overdue Bucket 01 02 (31 – 60 (||Overdue Bucket|Overdue Bucket 04|05 (Above 180|
+||Date|Overdue|1 – 30 days)|days)|03 (61 – 90 days) Account Status|(91 – 180 days)|days)|
+||High Credit|Installment Amount|Last Repaid Amount|Account Status|Date|Written Off Amount|Settled Amount|
+||Major reasons for|Amount of Contracts|Asset based|Guarantee|Bank Remark|Wilful Default|Date Classified|
+||Restructuring|Classified as NPA|Security coverage Suit Amount in|Coverage|Code|Status Transaction Type|as Wilful Default|
+||Suit Filed Status|Suit Reference Number|Rupees|Date of Suit|Dispute ID No.|Code|Filler|
+|Guarantor||||Business /|Guarantor Entity Individual Name|||
+||Guarantor DUNS|Guarantor Type Company Registration|Business Category|Industry Type|Name|Prefix|Full Name|
+||Gender|Number|Date of Incorporation|Date of Birth|PAN|Voter ID|Passport Number|
+||Driving Licence ID|UID|Ration Card No|CIN|DIN|TIN|Service Tax # State/Union|
+||Other ID|Address Line 1|Address Line 2|Address Line 3 City/Town Telephone Area|Telephone|District|Territory|
+||Pin Code Filler|Country|Mobile Number(s)|Code|Number(s)|Fax Area Code|Fax Number(s)|
+|Security||||Security||||
+||Value of Security|Currency Type|Type of Security|Classification|Date of Valuation|Filler||
+|Dishonour of||||Instrument /|Number of times||Reason for|
+|Cheques|Segment Identifier Filler|Date of Dishonour|Amount|Cheque Number|dishonoured|Cheque Issue Date|Dishonour|
+|File Closure|Number of Borrower|Number of Credit||||||
+||Segments|Facility Segments|Filler|||||
+
+********
+
+<!-- PAGE 6 -->
+
+## Annex II
+
+## [Refer Para 2 (iv)]
+
+## Changes in Data Format
+
+## [Recommendations 8.10, 8.11, 8.12 (b), 8.13 (c), and 8.15]
+
+The Technical Working Group [please see paragraph 2 (iv) of the circular] of banks, All India Notified Financial Institutions, CICs, NBFCs and HFCs, in association with IBA/MFIN, should review the data format periodically, say once a year and suggest modifications to the same. To start with, the Working Group may take up on priority basis changes required in the commercial segment and also in the following areas:
+
+i. <u>Additional Fields in Data Format:</u> Annex 5 of the Report contains certain additional fields for inclusion in data format (field names and their benefits). Accordingly, except for priority sector indicator field, other fields may be incorporated in the consumer data format. For vehicles, only vehicle make and registration number would be compulsory and not the chassis number. The registration number of property registered with Central Registry of Securitisation Asset Reconstruction and Security Interest of India (CERSAI) needs to be added by the CICs. [Recommendation 8.10 (b)] ii. <u>Compromise Settlements:</u> Data formats should include cases where compromise settlements have taken place and the reason for such compromise settlements. [Recommendation 8.10 (c)]
+iii. <u>Detailed Product Classification:</u> Urban Cooperative Banks (UCBs) should report detailed product classification to the CICs, e.g., car loans, commercial vehicles and construction equipment vehicles, under auto loans. CICs should also include the same in their reports to the UCBs. [Recommendation 8.10 (d)] iv. <u>Information Regarding Relationship/Guarantor</u>: UCBs should capture certain information pertaining to relationship/guarantor fields of the Corporates viz. the Business category/type, Mobile/Telephone number, State/PIN-code/Country in their Core Banking Solutions/System and report the same to the commercial bureau of the CICs. [Recommendation 8.10 (e)]
+
+v. <u>Members of Self Help Groups (SHG):</u> Credit information on individual members of SHGs is critical to establish their credit history which would in turn foster growth of credit to the sector and promote financial inclusion. Therefore,
+
+<!-- PAGE 7 -->
+
+UCBs may obtain data on individual members of SHGs and start reporting the same to CICs within six months. [Recommendation 8.10 (f)] vi. <u>Cross Reporting</u>: Guidelines for cross reporting, e.g., where individual is borrower and corporate is co-borrower, or vice versa, should be clearly intimated by CICs. The formats have fields to incorporate the data where consumer data will be reported in the consumer bureau and co-borrower will be reported in commercial bureau. [Recommendation 8.10 (h)] vii. <u>Reporting Days Past Due</u>: UCBs are mandated to report Days Past Due (DPD), for the credit facilities extended by them to consumers and corporates, while reporting to the CICs. [Recommendation 8.10 (i)] viii. <u>Treatment of Part Instalment Due:</u> UCBs are required to submit data as it is while qualitative information on what filters to apply based on amount and period could be done by the specified users and others who make use of the data. [Recommendation 8.10 (j)] ix. <u>Income Data:</u> Income data of the borrowers under the consumer bureau may continue to be reported by the UCBs to the CICs. [Recommendation 8.10 (k)]
+
+x. <u>Identification Numbers</u>*:* In the commercial segment, corporate identification number (CIN) and credit history of the directors of the company (based on DIN number) should be reported by the UCBs to the CICs and included by the CICs in their reports. [Recommendation 8.10 (l)] xi. <u>Software for Reporting:</u> RBI is generally in agreement that there should be only one format for uploading and reverting reject data from the CIC as conversions/reconversions between formats like Excel/TUDF/Notepad, etc., during the process of furnishing data create validation issues. However, the Technical Working Group [please see paragraph 2 (iv) of the circular] of banks, CICs, NBFCs, etc. may further deliberate on this issue and make suitable suggestions, if considered necessary to RBI in this regard. [Recommendation
+8.10 (m)]
+xii. <u>Written-off and Settled Status of Accounts:</u> While reporting their credit data, UCBs should use 'settled' status for denoting only specific situations where due to financial inability to repay as per original terms and conditions, either a principal or an interest waiver or both is provided to the customer. UCBs need to be aware of such a situation prior to extending fresh credit to such a customer. Cases of wrong debits or contested charges should not be reported
+
+<!-- PAGE 8 -->
+
+by UCBs as 'settled' but as 'disputed' as per the new field suggested for inclusion in the data format at Annex 5 of the Report. [Recommendation 8.12
+
+(b)]
+xiii. <u>Major Reasons for Restructuring</u>: This field in the commercial data format helps in understanding whether the restructuring of loan of the borrower was due to external/extraneous factors such as external environment, general downturn in economy, etc., or company / borrower specific issues such as change in management, performance of promoters, etc. [Recommendation 8.13 (c)] xiv. <u>Minimum of One Identifier Field in Data:</u> Data submitted by UCBs should be populated with at least one of the identifier fields, viz., PAN Card No., Passport No., Driving Licence No., Voter ID Card No., Aadhaar No., Telephone number, etc. [Recommendation 8.15]
+
+## *********
+
+<!-- PAGE 9 -->
+
+## Annex III
+
+## [Ref: Para 2 (vii)]
+
+## Best Practices for Urban Cooperative Banks
+
+## [Recommendations 8.25, 8.31 and 8.34]
+
+Every UCB should take the following best practices into account while formulating or reviewing the policy and procedure under the CICRA with the approval of their Board of Directors:
+
+i. UCBs should ensure that the records submitted to CICs are updated regularly and that no instances of repayment, including that of the last instalment, are left unreported. ii. Instances of non-updation of repayment information could be avoided by centralising the issue of NOCs and providing information to CICs.
+iii. All UCBs should have nodal officers for dealing with CICs. iv. Customer grievance redressal should be given top priority especially in respect of complaints relating to updation/alteration of credit information.
+
+v. Grievance redressal in respect of credit information should be integrated with the existing systems for grievance redressal. Aspects relating to customer grievances pertaining to credit information may also be an integral part of customer service policy of UCBs. vi. UCBs should abide by the period stipulated under CICRA and the Rules and Regulations framed hereunder in respect of updation, alteration of credit information, resolving disputes, etc. Procedure prescribed under Rule 20 and 21 of the Credit Information Companies Rules, 2006 in this regard should be adhered to. Deviations from stipulated time limits should be monitored and commented upon in the periodical reports/reviews put up to the Board/Committees of Board on customer service.
+vii. Updation of credit information should take place on a monthly basis or at such shorter intervals as may be mutually agreed upon between the UCB and the CIC. viii. All UCBs should give full customer information to the CICs. For instance, identifier information like PAN No., Aadhaar No., Voters ID Card No., etc., is not provided by UCBs for all records. ix. UCBs should mandate the usage of CIRs in their credit appraisal process.
+
+<!-- PAGE 10 -->
+
+x. First time borrowers’ loan applications should not be rejected just because they have no credit history. xi. UCBs and CICs should ensure that the credit records of borrowers are regularly updated by UCBs and that issues such as where repayment of the last instalment of a loan does not get reported does not arise. [Recommendation
+8.31]
+xii. With a view to decreasing court cases involving UCBs and CICs, complaints need to be addressed by them on an urgent basis. UCBs and CICs should have a structured process of complaint redressal for which a Consumer Protection Committee under the Board should be constituted. [Recommendation 8.34]
+
+## *********

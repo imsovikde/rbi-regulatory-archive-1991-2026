@@ -1,0 +1,124 @@
+---
+doc_id: "Notifications_2014_9160"
+title: "Modification of Guidelines on Mortgage Guarantee Companies (MGCs)"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR20080814FL.PDF"
+pdf_sha256: "157773194b7734478d38d565e402fe619ee77b90abc403cfb8cda08b7f207d05"
+md_sha256: "073192fff2d350890441a546356b22e922fbd63e05bbfd03b8e048a126f77f0b"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:47:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-08-08_Notification_9160_Modification%20of%20Guidelines%20on%20Mortgage%20Guarantee%20Companies%20%28MGCs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Modification of Guidelines on Mortgage Guarantee Companies (MGCs)
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/170 DNBS (PD) CC. No. 20 /MGC / 03.011.001/ 2014-15 August 08, 2014
+
+## All registered Mortgage Guarantee Companies
+
+Dear Sir,
+
+## <u>Modification of Guidelines on Mortgage Guarantee Companies (MGCs)</u>
+
+Please refer to the “Guidelines on Registration and Operations of Mortgage Guarantee Companies under Section 45L(1)(b) of the Reserve Bank of India Act, 1934” (herein after called Guidelines) issued vide <u>notifications no. DNBS (PD) MGC No. 3</u>,<u>4</u> and <u>5/CGM (PK)-2008</u> dated February 15, 2008.
+
+2. In the wake of representations received from the industry and keeping in view the long – term beneficial impact of development of the Mortgage Guarantee industry, it has been decided to make certain modifications to the existing Guidelines as under:
+a) **Capital Adequacy** While calculating the capital adequacy of the MGC, the mortgage guarantees provided by the MGCs may be treated as Contingent Liabilities and the credit conversion factor applicable to these Contingent Liabilities will be fifty percent as against the present applicable credit conversion factor of hundred percent.
+b) **Contingency Reserve**
+i. The extant guidelines provide for a lower appropriation to Contingency Reserves if provision made towards losses exceed 35% of the premium or fee earned during a financial year. It does not specify the exact level of Contingency Reserves to be created. It is now clarified that in such a case, the Contingency Reserves could go to a minimum of **24% of the premium or fee earned,** such that the aggregate of Provisions made towards Losses and Contingency Reserves is at least 60% of the premium or fee earned during a financial year. ii. As per the extant instructions, a MGC can utilize the Contingency Reserves only with
+
+<!-- PAGE 2 -->
+
+the prior approval of the Reserve Bank of India. The instruction is now modified to the extent that Contingency reserve can be used **without** the prior approval of RBI for the purpose of meeting and making good the losses suffered by the mortgage guarantee holders. Such a measure can be initiated only after exhausting all other avenues and options to recoup the losses.
+
+c) **Classification on Investments** As per the extant instructions, MGCs may invest in Government securities, securities of corporate bodies / public sector undertakings guaranteed by Government, Fixed Deposit / CDs / bonds of SCBs / PFIs, listed and rated debentures / bonds of corporate, fully debt oriented Mutual Fund Units and unquoted Govt. securities and Govt. guaranteed bonds. It has now been decided that investments made towards Government securities, quoted or otherwise, government guaranteed securities and bonds **not exceeding the MGC’s** **capital** may be treated as “Held To Maturity (HTM)” for the purpose of valuation and accounted for accordingly. Investment classified under HTM need not be marked to market and will be carried at acquisition cost, unless it is more than the face value, in which case the premium should be amortised over the period remaining to maturity. The book value of the security should continue to be reduced to the extent of the amount amortised during the relevant accounting period**.** However, if any security out of this HTM category is traded before maturity, the entire lot will be treated as securities held for trade and will have to be marked to market.
+d) **Provision for Loss on invoked Guarantees** In case the provisions already held for loss on invoked guarantees are in excess of the contract wise aggregate of ‘amount of invocation’ (after adjusting the realizable value of the assets held by the company in respect of each housing loan), the excess may be reversed; as against the extant instruction which states that the excess cannot be reversed. However, the reversal can be done only after full recovery /closure of the invoked guarantee amount or after the account becomes standard.
+Yours sincerely,
+
+(K.K. Vohra) Principal Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Reserve Bank of India
+
+## Department of Non-Banking Supervision
+
+## Central Office
+
+## World Trade Centre
+
+## Mumbai 400 005
+
+## Notification DNBS (PD) MGC No. 7 / PCGM (KKV)-2014 dated August 08, 2014.
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Mortgage Guarantee Company (Reserve Bank) Guidelines 2008, (<u>Notification</u> <u>No. DNBS (MGC) 3/ CGM (PK) - 2008 dated February 15, 2008</u>) (hereinafter referred to as ‘the Guidelines’) in exercise of the powers conferred by sections 45JA and 45 (L) of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the Guidelines shall be amended with immediate effect as follows, namely -
+
+**2**. **Amendment of paragraph 18** – In paragraph 18,
+(i) for clause ( c ), the following shall be substituted, namely, - “( c) *May appropriate a lower percentage of the premium or fee earned* *during any accounting year subject to a minimum of at least 24% of the* *premium or fee earned when the provisions made each year towards* *losses on account of settlement of mortgage guarantee claims exceeds* *thirty-five percent (35%) of the premium or fee earned during that* *accounting year".* *(ii) for clause (f), the following shall be substituted, namely, -* *“(f) Shall utilize the Contingency Reserve without the prior approval of*
+
+<!-- PAGE 4 -->
+
+*the Reserve Bank of India solely for the purpose of meeting and making* *good the losses suffered by the mortgaged guarantee holders only* *after exhausting all other avenues and options to recoup the losses; in* *all other cases of utilization, prior approval of Reserve Bank of India shall* *be obtained.”*
+
+**3**. **Amendment of paragraph 20** – In paragraph 20, for the words “ In case the amount of provisions already held is in excess of the amount as computed above, the excess shall not be reversed”, the words “In case the amount of provisions already held is in excess of the amount as computed above, the excess provision may be reversed after full recovery or closure of the invoked guarantee amount or after the account becomes standard” shall be substituted.
+(K.K. Vohra) Principal Chief General Manager
+
+<!-- PAGE 5 -->
+
+## Reserve Bank of India
+
+## Department of Non-Banking Supervision
+
+## Central Office
+
+## World Trade Centre
+
+## Mumbai 400 005
+
+## <u>Notification DNBS (PD) MGC No. 8 / PCGM (KKV)-2014 dated August 08, 2014</u>
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Mortgage Guarantee Companies Prudential Norms (Reserve Bank) Directions, 2008 (<u>Notification No. DNBS (PD) MGC No.</u> <u>4/CGM (PK) -2008 dated February 15, 2008</u>) (hereinafter referred to as ‘the Directions”) in exercise of the powers conferred by sections 45JA and 45 (L) of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the Directions shall be amended with immediate effect as follows, namely, -
+
+**2**. **Amendment of paragraph 6.** – In paragraph 6, in sub. paragraph (1), for the words “In case the amount of provisions already held is in excess of the amount as computed above, the excess provision shall not be reversed”, the words “In case the amount of provisions already held is in excess of the amount as computed above, the excess provision may be reversed after full recovery or closure of the invoked Guarantee amount or after the account becomes standard” shall be substituted.
+3. **Amendment of paragraph 12.-**In paragraph 12, in Explanations, in clause (2), under the title “Nature of item”, in item i), for the words and symbol “Financial & other guarantees”, the words “ Mortgage Guarantees” shall be substituted and against the item so amended, for the figure “100” relating to credit conversion factor, the figure “50” shall be substituted.
+(K.K. Vohra) Principal Chief General Manager
+
+<!-- PAGE 6 -->
+
+## Reserve Bank of India
+
+## Department of Non-Banking Supervision
+
+## Central Office
+
+## World Trade Centre
+
+## Mumbai 400 005
+
+## Notification DNBS (PD) MGC No. 9 / PCGM (KKV)-2014 dated August 08, 2014.
+
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Mortgage Guarantee Companies Investment (Reserve Bank) Directions, 2008 (<u>Notification No. DNBS (PD) MGC No.</u> <u>5/CGM (PK)-2008 dated February 15, 2008</u>) (hereinafter referred to as “the Directions”) in exercise of the powers conferred by sections 45JA and 45 (L) of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the Directions shall be amended with immediate effect as follows, namely, -
+
+**2**. **Amendment of paragraph 6** – In paragraph 6, for sub. paragraph (1), the following shall be substituted, namely, - “(1) (i) Quoted investments shall, for the purposes of valuation, be grouped into the following categories, viz.,
+(a) Government securities including treasury bills,
+(b) Government guaranteed bonds/securities;
+(c) bonds of banks/ PFIs;
+(d) debentures/bonds of corporates; and
+(e) Units of mutual fund.
+
+<!-- PAGE 7 -->
+
+(ii) Quoted investments for each category except Government securities including treasury bills, Government guaranteed bonds or securities shall be valued at cost or market value whichever is lower. For this purpose, the investments made towards Government securities, quoted or otherwise, government guaranteed securities and bonds not exceeding the capital may be treated as “held to maturity” for the purpose of valuation and accounted for accordingly. Investments classified under “Held to Maturity” need not be marked to market and will be carried at acquisition cost, unless it is more than the face value, in which case the premium should be amortised over the period remaining to maturity. The book value of the security should continue to be reduced to the extent of the amount amortised during the relevant accounting period. However, if any security out of this bouquet is traded before maturity the entire category will be treated as securities held for trade and will have to be marked to market to as detailed in clause (iii) herein below.
+
+(iii) The investments in each category shall be considered scrip-wise and the cost and market value aggregated for all investments in each category. If the aggregate market value for the category is less than the aggregate cost for that category, the net depreciation shall be provided for or charged to the profit and loss account. If the aggregate market value for the category exceeds the aggregate cost for the category, the net appreciation shall be ignored. Depreciation in one category of investments shall not be set off against appreciation in another category.
+
+(iv) All other investments shall be marked to market in accordance with these Directions.
+
+(K.K. Vohra) Principal Chief General Manager
