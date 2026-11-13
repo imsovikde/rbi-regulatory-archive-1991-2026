@@ -1,0 +1,78 @@
+---
+doc_id: "Notifications_2008_4260"
+title: "Overseas Direct Investment by Registered Trust / Society"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85248.PDF"
+pdf_sha256: "8fd77342139c381edacc94f770472f5533cd04cb31f1385c5d26d3f025c2a4bf"
+md_sha256: "987119242b8e06a878701f996aa169eb92c0221c009fe75c3ebc18cc952a8db1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-06-27_Notification_4260_Overseas%20Direct%20Investment%20by%20Registered%20Trust%20-%20Society.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investment by Registered Trust / Society
+
+<!-- PAGE 1 -->
+
+## RBI/2007-08/ 387 A. P. (DIR Series) Circular No. 53
+
+## June 27, 2008
+
+To,
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Overseas Direct Investment by Registered Trust / Society
+
+Attention of Authorised Dealer Category-I (AD Category-I) Banks is invited to Notification No.FEMA120/RB-2004 dated 7th July 2004, as amended from time to time, in terms of which a company incorporated in India, or a body created under an Act of Parliament or a partnership firm registered under Indian Partnership Act, 1932, or any other entity as may be notified by the Reserve Bank is eligible to invest in a Joint Venture or Wholly Owned Subsidiary abroad.
+
+2. With a view to further liberalising the policy on overseas investments, it has been decided, in consultation with the Government of India, to allow Registered Trusts and Societies engaged in manufacturing / educational sector to make investment in the same sector(s) in a Joint Venture or Wholly Owned Subsidiary outside India, with the prior approval of the Reserve Bank. Trusts / Societies satisfying the eligibility criteria as prescribed in the Annex, may submit the application/s in Form ODI-Part I, through their AD Category-I bank/s. The AD Category – I bank, after ensuring that the applicant satisfies the prescribed criteria, may forward the application/s with their comments / recommendations, to the Chief General Manager, Reserve Bank of India,
+th Foreign Exchange Department, Overseas Investment Division, Central Office, Amar Building, 5 Floor, Fort, Mumbai 400 001, for consider
+
+# Withdrawn w.e.f. August 22, 2022
+
+ation.
+
+3. Necessary amendments to the Foreign Exchange Management (Transfer or Issue of any Foreign Security), Regulations, 2004 notified vide Notification No.FEMA120/RB-2004 dated 7th July 2004 are being issued separately.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this Circular have been issued under Section 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+Chief General Manager-in-Charge
+
+## Annex
+
+[Annex to A. P. DIR (Series) Circular No. 53 dated June 27, 2008]
+
+## Criteria for Overseas Investment by Registered Trust / Society
+
+## Trust
+
+i) The Trust should be registered under the Indian Trust Act, 1882. ii) The Trust deed permits the proposed investment overseas.2022 iii) The proposed investment should be approved by the trustee/s. vv iv) The Authorised Dealer bank is satisfied that the Trust is KYC (Know Your
+22, Customer) compliant and is engaged in a bonafide activity.
+
+v) The Trust has been in existence at least for a period of three years. vi) The Trust has not come under the adverse notice of any Regulatory / Enforcement agency like the Directorate of Enforcement, CBI etc.
+# August
+
+## Society
+
+i) The Society should be registered under the Societies Registration Act, 1860. ii) The Memorandum of Association and rules an
+w.e.f. d regulations permit the Society to make the
+proposed investment which should also be approved by the governing body / council or a managing / executive committee. iii) The Authorised Dealer bank is satisfied that the Society is KYC (Know Your Customer) compliant and is engaged in a bonafide activity. iv) The Society has been in existence at least for a period of three years.
+
+v) The Society has not come under the adverse notice of any Regulatory / Enforcement agency like the Directorate of Enforcement, CBI etc.
+# Withdrawn
+
+In addition to the registration, the activities which require special license / permission either from the Ministry of Home Affairs, Government of India or from the relevant local authority, as the case may be, the Authorised Dealer Category – I bank should ensure that such special license / permission has been obtained by the applicant.

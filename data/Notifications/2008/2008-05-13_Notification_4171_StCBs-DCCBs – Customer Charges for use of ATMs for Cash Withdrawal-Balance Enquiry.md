@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2008_4171"
+title: "StCBs/DCCBs – Customer Charges for use of ATMs for Cash Withdrawal/Balance Enquiry"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84478.PDF"
+pdf_sha256: "9c8cdb81320872071d79e744043da5d9699ac24ad2423708539c456c7a8251ad"
+md_sha256: "f312e25571eb70730b3281df0ac27a7ca6b2121f9dbfa361272cdd11d4b33352"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-05-13_Notification_4171_StCBs-DCCBs%20%E2%80%93%20Customer%20Charges%20for%20use%20of%20ATMs%20for%20Cash%20Withdrawal-Balance%20Enquiry.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# StCBs/DCCBs – Customer Charges for use of ATMs for Cash Withdrawal/Balance Enquiry
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/318 RPCD.CO.RF.BC.No. 69 / 07.06.00 / 2007-08 May 13, 2008 23 Vaishakha, Saka 1930
+
+To
+
+## All State and Central Co-operative Banks
+
+Dear Sir, <u>Customer charges for use of ATMs for cash withdrawal and balance enquiry</u>
+
+Automated Teller Machines (ATMs) have gained prominence as a delivery channel for banking transactions in India. Banks have been deploying ATMs to increase their reach. While ATMs facilitate a variety of banking transactions for customers, their main utility has been for cash withdrawal and balance enquiry. As at the end of December 2007, the number of ATMs deployed in India was 32,342. Commensurate with the branch network, larger banks have deployed more ATMs. Most banks prefer to deploy ATMs at locations where they have a large customer base or expect considerable use. To increase the usage of ATMs as a delivery channel, banks have also entered into bilateral or multilateral arrangements with other banks to have inter-bank ATM networks.
+
+2. It is evident that the charges levied on the customers vary from bank to bank and also vary according to the ATM network that is used for the transaction. Consequently, a customer is not aware, beforehand, of the charges that will be levied for a particular ATM transaction, while using an ATM of another bank. This generally discourages the customer from using the ATMs of other banks. It is, therefore, essential to ensure greater transparency.
+3. International experience indicates that in countries such as UK, Germany and France, bank customers have access to all ATMs in the country, free of charge except when cash is withdrawn from white label ATMs or from ATMs managed by non-bank entities. There is also a move, internationally, to regulate the fee structure by the regulator from the public policy angle. The ideal situation is that a customer should be able to access any ATM installed in the country free of charge through an equitable cooperative initiative by banks.
+4. In view of this, RBI had placed on its website an Approach Paper and sought public comments. The comments received have been analysed. Based on the feedback a framework of service charges would be implemented by all banks as under:
+
+<!-- PAGE 2 -->
+
+|Sr. No.|Service|Charges|
+|---|---|---|
+|1.|For use of own ATMs for any purpose|Free (with immediate effect)|
+|2.|For use of other bank ATMs for balance enquiry|Free (with immediate effect)|
+|3.|For use of other bank ATMs for cash withdrawals|• Banks which are charging more than Rs. 20 per transaction shall reduce the charges to a maximum of Rs. 20 per transaction with immediate effect. • Free with effect from April 1, 2009|
+
+5. For the services at (1) and (2) above, the customer will not be levied any charge under any other head and the service will be totally free.
+6. For the service number (3) the charge of Rs.20/- indicated will be all inclusive and no other charges will be levied on the customers under any other head irrespective of the amount of withdrawal.
+7. The service charges for the following types of cash withdrawal transactions may be determined by the banks themselves:
+(a) cash withdrawal with the use of credit cards.
+(b) cash withdrawal in an ATM located abroad.
+8. Please acknowledge the receipt of the circular to our Regional Office concerned.
+Yours faithfully, (K.Bhattacharya) General Manager

@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2008_4167"
+title: "Formation of new districts in Jharkhand – Assignment of Lead Bank responsibility"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84317.pdf"
+pdf_sha256: "08f29b3fa1d90610d828eff3d3007756471753d73b5247341465cf84c818504a"
+md_sha256: "1b0bde2d5bbdfc008fd2582c5e08af2e77205512e2fe9efc8390fbead6a715ad"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:45:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-05-06_Notification_4167_Formation%20of%20new%20districts%20in%20Jharkhand%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new districts in Jharkhand – Assignment of Lead Bank responsibility
+
+<!-- PAGE 1 -->
+
+RBI/2007-08/315 RPCD.CO.LBS.BC.No. 67/02.08.01/2007-08 May 06, 2008
+
+The Chairman, All Lead Banks
+
+Dear Sir,
+
+## Formation of new districts in Jharkhand – <u>Assignment of Lead Bank responsibility</u>
+
+The Department of Personnel & Administrative Reforms and Rajbhasha Department, Government of Jharkhand, Ranchi vide their Gazette Notification Nos. A.S.7/pra.E.Pu-05.07/2004Ka. 4961 & 4960/Jharkhand September 12, 2007 have advised about the formation of two new districts viz. Ramgarh and Khunti. The newly reconstituted Ramgarh district shall cover the same areas which was earlier included in Ramnagar Division of earstwhile Hazirabagh district. Whereas newly created Khunti district shall consist of areas of whole part of Adaki and Khunti sub-division coming under Bundu Division which was earlier a part of erstwhile Ranchi district, with effect from <u>September 12, 2007</u>.
+
+2. It has been decided to assign the Lead Bank responsibility of the new Ramgarh and Khunti districts to Bank of India. The Lead Bank responsibility of the reorganised Hazaribagh & Ranchi districts will, however, continue to be with Bank of India as hitherto.
+3. There is no change in the lead bank responsibilities of other districts in the State.
+Yours faithfully,
+
+(R. Sebastian) General Manager

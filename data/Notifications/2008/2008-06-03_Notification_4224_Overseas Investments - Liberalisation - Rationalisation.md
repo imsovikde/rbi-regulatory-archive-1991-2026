@@ -1,0 +1,69 @@
+---
+doc_id: "Notifications_2008_4224"
+title: "Overseas Investments - Liberalisation / Rationalisation"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84773.PDF"
+pdf_sha256: "67b074daa3362edf7311eeac669d144b6d3a8adf2eecc97a51fe1dd89532b035"
+md_sha256: "c7bd18e198e4f0e9b2db399e196ba47d45a174c83d66fc5289feb98b5d4026c8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-06-03_Notification_4224_Overseas%20Investments%20-%20Liberalisation%20-%20Rationalisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Investments - Liberalisation / Rationalisation
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/352 A. P. (DIR Series) Circular No. 48
+
+## June 03, 2008
+
+To,
+
+All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## <u>Overseas Investments-Liberalisation / Rationalisation</u>
+
+Attention of Authorised Dealer Category – I (AD Category – I) banks is invited to A. P. (DIR Series) Circular No. 59 dated May 18, 2007, A. P. (DIR Series) Circular No. 68 dated June 01, 2007, A. P. (Dir Series) Circular No. 11 dated September 26, 2007 and Notification No. FEMA 120/RB-2004 dated July 7, 2004, as amended from time to time, on Overseas Direct Investments. As announced in the Annual Policy Statement for the Year 2008-09 (paras 131 and 132), the Regulations governing overseas investments have been further liberalised as under :
+
+2. **Overseas Investment in Energy and Natural Resources Sectors** In terms of A. P. (Dir Series) Circular No. 11 dated September 26, 2007, an Indian Party is allowed to make direct investment in Joint Ventures and / or Wholly Owned Subsidiaries outside India up to 400 per cent of the net worth as on the date of the last audited balance sheet, under the Automatic Route. With a view to provide greater flexibility to Indian parties for investment abroad, it has been decided, in consultation with the Government of India, to allow Indian companies to invest in excess of 400 per cent of their net worth, as on the date of the last audited balance sheet, in the energy and natural resources sectors such as oil, gas, coal and mineral ores. The investments in excess of 400 per cent of the net worth shall be made only with the prior approval of the Reserve Bank. AD Category-I banks may, therefore, refer such cases to the Reserve Bank in terms of the procedures laid down in A. P. (Dir Series) Circular No. 68 dated June 1, 2007.
+# Withdrawn w.e.f. August 22, 2022
+
+3. **Investment in Overseas Unincorporated Entities in Oil Sector**
+(i) In terms of A. P. (DIR Series) Circular No. 59 dated May 18, 2007, Navaratna Public Sector Undertakings (PSUs) are allowed to invest in overseas unincorporated entities in oil sector (i.e. for exploration and drilling for oil and natural gas, etc.), which are duly approved by the Government of India, without any limits, under the automatic route. This facility is now extended to ONGC Videsh Ltd (OVL) and Oil India Ltd (OIL). (ii) With a view to further liberalise the procedure, it has now been decided, in consultation with the Government of India, to allow a similar facility to other Indian entities to invest in overseas unincorporated entities in oil sector. AD Category – I banks may allow remittance up to 400 per cent of the net worth of the Indian company after ensuring that the proposal has been approved by the competent authority and is duly
+
+<!-- PAGE 2 -->
+
+supported by a certified copy of the Board Resolution approving such investment. Applications by Indian companies, other than by Navaratna PSUs, ONGC Videsh Ltd (OVL) and Oil India Ltd (OIL), for investment in excess of 400 per cent of the net worth of the company as on the date of the last audited balance sheet, in overseas unincorporated entities, where such investments are approved by the Competent authority, should be referred by AD Category-I banks to the Reserve Bank for prior approval, as per the procedure laid down in A. P. (DIR Series) Circular No. 68 dated June 1, 2007.
+
+(iii) All investments in unincorporated entities overseas would be required to comply with the reporting requirements as prescribed in Regulation 15 (iii) of Notification No. FEMA 120/RB-2004 dated July 7, 2004 [Foreign Exchange Management (Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004], as amended from time to time. Further, all such investments in unincorporated entities overseas by both Navaratna PSUs and other entities will be required to be reported in form ODI, including Annual Performance Report (APR) [cf A. P. (Dir Series) Circular No. 68 dated June 1, 2007].
+
+4. <u>Capitalisation of Exports</u>
+# 2022
+
+In terms of Regulation 11(1) of Notification No. FEMA 120/RB-2004 dated July 7, 2004 [Foreign Exchange 22, Management (Transfer or Issue of any Foreign Security) Regulations, 2004], as amended from time to time, an Indian Party making direct investment outside India in accordance with the Regulations, by way of capitalization, in full or part of the amount due to the Indian Party from the foreign entity on account of payment for export of plant, machinery, equipment and
+
+# August
+
+other goods / software to the foreign entity, has to obtain the prior approval of the Reserve Bank where such export proceeds have remained unrealized beyond a period of six months from the date of exports. In order to align this provision with the Foreign
+
+w.e.f.
+Trade Policy, Indian parties may, henceforth, approach the Reserve Bank for capitalization of export proceeds only in cases where the exports remain outstanding beyond the prescribed period of realisation.
+
+5. Necessary amendments to Notification No. FEMA 120/RB-2004 dated July 7, 2004 [Foreign Exchange Management (Transfer or Issue of any Foreign Security), Regulations, 2004] are being issued separately.
+# Withdrawn
+
+6. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+7. The directions contained in this Circular have been issued under Section 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+Chief General Manager-in-Charge

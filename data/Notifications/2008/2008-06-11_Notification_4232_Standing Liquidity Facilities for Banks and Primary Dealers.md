@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2008_4232"
+title: "Standing Liquidity Facilities for Banks and Primary Dealers"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84891.pdf"
+pdf_sha256: "08e2cf4378bcf5660cd9bbc3d6c1e37292da937d4ca530814f18d5e9e0836ca8"
+md_sha256: "14a952de8da9ebe120f688f05702b77f8a892c7b7512b4bb4684fdea6e7852bd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-06-11_Notification_4232_Standing%20Liquidity%20Facilities%20for%20Banks%20and%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standing Liquidity Facilities for Banks and Primary Dealers
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/363 REF.No.MPD.BC. 300/07.01.279/2007-08
+
+June 11, 2008 To
+
+All Scheduled Banks [excluding Regional Rural Banks (RRBs)] and Primary Dealers
+
+Dear Sir,
+
+## Standing Liquidity Facilities for Banks and Primary Dealers
+
+Please refer to Financial Markets Department Circular FMD. MOAG No. 18 / 01.01.01/ 2007-08 dated June 11, 2008 on Liquidity Adjustment Facility – Repo and Reverse Repo Rates.
+
+2. The fixed repo rate under the LAF has been revised to 8.00 per cent with immediate effect. Accordingly, the Standing Liquidity Facilities provided to Banks (export credit refinance) and Primary Dealers (PDs) (collateralised liquidity support) from the Reserve Bank would be available at the repo rate
+*i.e.* at 8.00 per cent with effect from June 12, 2008.
+Yours faithfully,
+
+## (A. B. Chakraborty)
+
+Adviser

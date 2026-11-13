@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2008_4269"
+title: "Priority Sector Lending –Revision of Reporting Formats-UCBs"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/85304.pdf"
+pdf_sha256: "fb0b56272bb7e888bdb6ffc8bc3eb51339ec927bff2c3ef13feeb185154f003a"
+md_sha256: "eec2da7c26251a7eb6dff144cd5cb430fdfc4403bf7232b2a8c1c2476eb9ec2e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-06-30_Notification_4269_Priority%20Sector%20Lending%20%E2%80%93Revision%20of%20Reporting%20Formats-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending –Revision of Reporting Formats-UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2007-08/388 UBD.PCB.Cir.No. 58 A /09.09.01/ 2007-08 June 30,2008.
+
+The Chief Executive Officer All Primary (Urban) Co-operative Bank
+
+Dear Sir/Madam,
+
+## Priority Sector Lending –Revision of Reporting Formats-UCBs.
+
+Please refer to our circular UBD.PCB.Cir.No.11/09.09.01/ 2007-08 dated August 30, 2007 forwarding therewith revised guidelines for priority sector lending (PSL) by UCBs and the reporting formats (Statements I,II and III) there under for reporting data on priority sector advances and credit flow to minority communities.
+
+2. As prescribed therein, UCBs are required to submit memorandum to the Board of Directors at half-yearly intervals i.e. as on September 30 and March 31 of each year, giving a detailed critical account of the performance of the bank during the period, showing increase/decrease over the previous half-year (Statement I). Further, annual review of the performance under priority sector advances as on March 31st is also placed before the Board (Statement II). Data on PSL to SC/STs forms part B of the Statement II and no separate format is prescribed. A copy of the annual review as on March 31 is required to be forwarded to the concerned Regional Office of the Reserve Bank with the Board's observations, indicating the steps taken/proposed to be taken for improving the bank's performance, in case of shortfall. The report should reach the Regional Office within a month from the end of the period to which it relates. Further, the banks are also required to submit a half yearly statement as on March 31/ September 30 within 15 days of the close of the relevant half year, showing the progress made in deployment of credit to minority communities, to the concerned Regional Office of this department under whose jurisdiction they function, in the given format (Statement III).
+3. The existing reporting formats have been reviewed. The revised formats in Statement-II (Part A to E) and Statement – III (Part A and B) for reporting data under priority sector lending to the Reserve Bank of India are enclosed. The data under these reporting formats may be submitted to the Regional Office concerned on a yearly basis within 15 days of close of the financial year to which it pertains**. The 1**
+**st set of returns (Statement II and III) may therefore be** **submitted by April 15, 2009 to the Regional Office concerned.**
+
+<!-- PAGE 2 -->
+
+<u>4. Return to be submitted to bank’s Board</u>: It may however be noted that there is no change in Statement I forwarded under the cover of our circular UBD.PCB.Cir.No.11/09.09.01/ 2007-08 dated August 30, 2007 and banks may continue to submit the return to the Board of Directors at half-yearly intervals i.e. as on September 30 and March 31 of each year. Further, annual review of the performance under priority sector advances, Statement II- part A, as on March 31st may also be placed before the Board by April 15
+th of the following financial year.
+
+4. Please acknowledge receipt to the Regional Office concerned.
+Yours Faithfully,
+
+(A.K. Khound) Chief General Manager-in-Change.

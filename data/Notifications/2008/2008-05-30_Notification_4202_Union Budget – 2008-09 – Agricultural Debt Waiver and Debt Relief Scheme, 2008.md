@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2008_4202"
+title: "Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84722.pdf"
+pdf_sha256: "dd2afcf23e87cc856ef40414ee6710ba2ca89bc4735585478179779c5f5cfce7"
+md_sha256: "5bb00861bb28b1e9879e0007571d5546d4179891c7439cb58329097ed6137a8d"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-05-30_Notification_4202_Union%20Budget%20%E2%80%93%202008-09%20%E2%80%93%20Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/340 RPCD.No.PLFS.BC. 73/05.04.02/2007-08 May 30, 2008 The Chairman/Managing Director All Scheduled Commercial Banks (including Local Area Banks) Dear Sir, <u>Union Budget – 2008-09 – Agricultural Debt Waiver and Debt Relief Scheme, 2008</u> Please refer to our circular RPCD.No.PLFS.BC. 72 /05.04.02/2007-08 dated May 23, 2008, and the Agricultural Debt Waiver and Debt Relief Scheme, 2008, forwarded therewith.
+
+2. In this connection, supplementary explanatory instructions issued by Government of India vide, Implementation Circular 1/2008 dated May 28, 2008 are given in the ANNEX. Scheduled Commercial Banks (including Local Area Banks) are advised to immediately take note and circulate the same among the field level officials/functionaries for immediate implementation of the Scheme.
+3. In case of RRBs and co-operatives, instructions are being issued by NABARD.
+4. A separate circular on submission of claims, monitoring, audit, etc. is being issued shortly.
+Yours faithfully, (G.Srinivasan) Chief General Manager – in – Charge
+
+<!-- PAGE 2 -->
+
+## <u>ANNEX</u>
+
+Ministry of Finance Department of Financial Services
+
+New Delhi, *dated 28* *th* *May 2008*
+
+## <u>Agricultural Debt Waiver and Debt Relief Scheme, 2008</u>
+
+## <u>Implementation Circular 1 / 2008</u>
+
+The Agricultural Debt Waiver and Debt Relief Scheme is comprehensive and self-explanatory. Chief Executives of all Banks are requested to ensure that all those concerned in the implementation of the Scheme are fully acquainted with the provisions, and ensure its speedy, efficient and timely implementation.
+
+2. This circular contains certain supplementary instructions of an explanatory nature. Implementing agencies will find these instructions useful to address doubts which may be raised by field level functionaries :-
+(i) Only those direct agricultural loans which fulfill all the three conditions, i.e., (a) disbursed between March 31, 1997 and March 31, 2007, (b) overdue on December 31, 2007, and (c) remaining unpaid until February 29, 2008 will be eligible for debt waiver/debt relief under the Scheme. <u>Illustrations:</u>,
+1. An instalment of investment credit for allied activity overdue on December 31, 2007 will not be eligible if it has been disbursed after March 31, 2007.
+2. A short-term production loan disbursed up to March 31, 2007 for raising crops with repayment period of 18 months will not be eligible for debt waiver/debt relief if it has not become overdue on December 31,
+2007. (ii) Only the instalments of Investment Credit (not the total loan) which were overdue on the date of restructuring and the instalments of the portion of the Investment Credit which had not fallen due on the date of restructuring but have subsequently fallen due on December 31, 2007, are eligible for debt waiver/debt relief. Hence, in the case of restructured Investment Credit, the overdue instalments on the date of restructuring plus the instalments which were not due on the date of restructuring but have subsequently fallen due on 31.12.07 will be eligible for debt waiver/debt relief. Even in cases where the total Investment Credit has been restructured, only the overdue instalments on the date of restructuring and the instalments of the un-restructured portion that have fallen overdue on December 31, 2007 will be eligible for debt waiver/debt relief. (iii) Loans granted by banks to such agricultural credit co-operative societies which are lending institutions (as defined in the Scheme) for advancing direct agricultural loans to farmers are covered under the Scheme. (iv) A single eligible borrower may have more than one agricultural loan account. The overdue loans in all these accounts will be independently covered under the Scheme. The OTS Relief of 25% (relief up to Rs.20,000 or 25%, whichever is higher, in 237 stressed districts) is also to be separately applied in the case of crop loans and investment loans.
+(v) Separate sectoral definitions for ‘marginal farmer’, ‘small farmer’ and ‘other farmer’ may exist in some other context, as for example in the case of plantations crops. However, for the implementation of this Scheme, classification as a ‘marginal farmer’ or ‘small farmer’ or ‘other farmer’ will be done using the criteria of size of landholding as prescribed in the Scheme.
+
+<!-- PAGE 3 -->
+
+However, in the case of investment credit for allied activities, the size of the landholding is not germane. If the principal amount of the loan is Rs.50,000 or less, the farmer will be classified as ‘small and marginal farmer’ and if the principal amount of the loan is more than Rs.50,000, the farmer will be classified as ‘other farmer’.
+
+(vi) In partially disbursed loan accounts, the ‘eligible amount’ shall be restricted to the overdues in respect of the portion/instalments of the loan actually disbursed up to March 31, 2007 and overdue on December 31, 2007 and unpaid until February 29, 2008.
+
+(vii) The accounting norms provide that in case of NPA accounts, ‘suit-filed’ accounts and ‘recalled’ loans, the whole loan will be classified as such. However, for the purposes of the Scheme, only instalments of such loans that were disbursed up to March 31, 2007 and overdue on December 31, 2007 and remain unpaid until February 29, 2008 will be eligible for debt waiver/debt relief.
+
+(viii) The amount of loans written off (prudentially or actually) by the lending institutions will not be covered under the Scheme. Such written-off loans shall neither be claimed from the Central Government nor will they be recovered from the farmer. However, the farmers whose loans have been written off (prudentially or actually) by the lending institutions will be eligible for fresh finance from the lending institutions.
+
+(ix) (a) Lending institutions shall neither claim from the Central Government, nor recover from the farmer, interest in excess of the principal amount, unapplied interest, penal interest, legal charges, inspection charges and miscellaneous charges, etc. All such interest/charges will be borne by the lending institutions.
+
+(b) Interest on crop loans disbursed after April 1, 2006 will be calculated at a rate not exceeding 7% per annum. The amount of interest in excess of 7% per annum on crop loans will be borne by the lending institutions.
+(c) Normal interest will continue to accrue on the amount of loan not eligible for debt waiver/debt relief.
+(x) Short-term loans sanctioned against pledge of gold jewels are covered under the Scheme, provided such loans were given for agricultural purposes. However, the applicable interest will not be in excess of what is normally charged for agricultural loans by the lending institution in the corresponding year and not in excess of 7 per cent per annum in respect of loans disbursed after April 1, 2006. (xi) Marine fisheries would come within the ambit of pisciculture and loans given to marine fishermen by lending institutions would be covered under investment loans for allied activities. (xii) Loans for construction of storage facilities are not covered under the Scheme. Loans for purchase of land, construction of farmhouses, sheds, fencing, etc. are also not covered under the Scheme. (xiii) Only direct agricultural loans to farmers are covered under the Scheme. Loans to farmers for purposes other than agriculture and loans for agricultural purposes to companies or other legal persons like registered socities, trusts, partnerships etc. are not covered under the Scheme. (xiv) Short-term production credit will include working capital loan up to Rs.1 lakh for traditional and non- traditional plantations and horticulture. This means that working capital loans for these categories will be reckoned only up to Rs. 1 lakh and of this reckoned sum, only the irregular amounts (overdues) as on December 31, 2007 will be eligible for waiver or OTS relief (and not the entire sum of Rs.1 lakh). (xv) (xv) The Scheme shall be implemented by June 30, 2008 and RBI and NABARD are requested to put in place a system for monitoring the progress in the implementation of the Debt Waiver and Debt Relief Scheme on a <u>daily</u> basis up to July 31, 2008 and thereafter on a weekly basis. (xvi) Lending institutions shall appoint Grievance Redressal Officers in every State as indicated in the Scheme and report compliance to RBI and NABARD by June 5, 2008.
+
+<!-- PAGE 4 -->
+
+(xvii) CMDs of Scheduled Commercial Banks, Chairpersons of RRBs and Chief Executives of Cooperative Credit Institutions should identify senior officers who should visit the branches of the lending institutions and ensure smooth implementation of the Scheme. Every branch of the lending institution should be visited atleast once by a designated officer in the second and third weeks of June 2008. In addition, CMDs of Scheduled Commercial Banks, Chairpersons of RRBs and Chief Executives of Co-operative Credit Institutions should, in the months of June and July, undertake extensive tours to oversee the process of implementation of the Debt Waiver and Debt Relief Scheme. The primary object of these tours and visits shall be the preparation of accurate lists of beneficiaries together with the particulars of debt waiver or debt relief in each case, display of the lists on or up to June 30, 2008 and the issue of certificates to the farmers.
+
+(xviii) It should be ensured that the lists are displayed without fail on or before June 30, 2008. The list should be signed after careful verification by the Branch Manager and after supercheck by an officer superior to him, preferably the senior officer assigned as per the instructions in para (xvii) above. Every effort must be made to eliminate errors of inclusion as well as errors of exclusion. The two officers shall be responsible for the correctness and integrity of the lists of beneficiaries.
+
+(xix) All officers of the lending institutions may be advised about paragraph 11 of the Scheme that deals with audit. It may be impressed upon all officers that, since the claims of the lending institutions upon the Central Government will be processed on the basis of the audited books of accounts, it is important that due care is taken while preparing the lists of beneficiaries.
+
+(xx) RBI, in consultation with NABARD, may prescribe necessary formats including that of the OTS undertaking to be obtained from the ‘other farmer’ and the certificate of waiver or relief to be given to a farmer together with a provision for obtaining his/her acknowledgement of receipt of the certificate.
+
+(xxi) RBI and NABARD are requested to reissue these instructions to the lending institutions and take immediate steps to supervise the implementation of the Scheme. They may ensure that the Scheduled Commercial Banks, Local Area Banks, RRBs and the relevant cooperative credit institutions, including urban cooperative banks, as defined in the Scheme, are sensitised to the importance of a diligent and time- bound implementation of the Scheme.

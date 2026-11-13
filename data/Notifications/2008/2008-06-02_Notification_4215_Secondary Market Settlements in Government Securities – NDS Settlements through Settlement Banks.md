@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2008_4215"
+title: "Secondary Market Settlements in Government Securities – NDS Settlements through Settlement Banks"
+category: "Notifications"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84760.pdf"
+pdf_sha256: "1ed7fe9e44face8f9f83dc09ff358107eb31f0d288116e9853ed850330702129"
+md_sha256: "d824ac0411815271bee6408ae39d6e3464cb12ff3c10701c36195def9b1d7a71"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:46:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2008/2008-06-02_Notification_4215_Secondary%20Market%20Settlements%20in%20Government%20Securities%20%E2%80%93%20NDS%20Settlements%20through%20Settlement%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Secondary Market Settlements in Government Securities – NDS Settlements through Settlement Banks
+
+<!-- PAGE 1 -->
+
+RBI /2007-08/ 345 IDMD.DOD.No. 5985 /10.25.66/ 2007-08 June 2, 2008
+
+## All NDS and NDS-OM members (except Scheduled Commercial Banks and Primary Dealers)
+
+## Secondary Market Settlements in Government Securities – NDS Settlements through Settlement Banks
+
+Currently, holding a current account and SGL account with RBI is mandatory for settlement of Government security transactions by NDS members. However, the medium term objective of the RBI is to allow current account facility only to banks and Primary Dealers which necessitates phasing out of current accounts currently held by the non-bank and non-PD entities.
+
+2. As announced in paragraph 121 of the Annual Policy Statement 2008-09, it has been decided to put in place a system of ‘Multi Modal Settlements’ (MMS) in Government securities market to facilitate the settlement of Government security transactions undertaken by the non-bank and non-PD NDS members. Under this arrangement, the funds leg of the transactions shall settle through the fund accounts maintained by these entities with select commercial banks chosen as ‘Designated Settlement Banks’ (DSB). All government securities related transactions, viz., secondary market, primary market and servicing of Government securities (interest payments and repayments) for these entities will be carried out through the current account of the ‘DSB’ with whom the non-bank and non-PD entities open the settlement account. A brief write-up on the settlement procedure is annexed.
+3. The system will be effective from Monday, June 16, 2008. Mutual Funds, who have been advised to close their current account with the RBI, may approach one of the DSBs chosen by the Clearing Corporation of India Limited (CCIL) for the purpose and make settlement arrangements under the above system by June 30, 2008. For further details, participants may approach the Chief General Manager, Reserve Bank of India, Internal Debt Management Department, Central rd Office, 23 Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001.
+Yours faithfully
+
+(K V Rajan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+Currently, holding a current account and SGL account with RBI is mandatory for settlement of Government security transactions by NDS members. However, the medium term objective of the RBI is to allow current accounts only to banks and Primary Dealers which necessitates phasing out of current accounts currently held by non bank and non PD entities. Accordingly, the settlement system under NDS has been modified for entities that do not maintain current accounts with RBI.
+
+2. Under the new settlement arrangement for NDS members without current account with the Reserve Bank, they would be required to open a settlement account with one of the Designated Settlement Banks (DSBs). All payments obligations pertaining to primary auctions, interest and redemption payments of Government securities of these members, shall settle through their accounts with the DSBs. RBI shall debit/credit the current accounts of the DSBs maintained in DAD, RBI and these DSBs would in turn, debit/credit the accounts maintained by such members with them, as per the agreement between the DSBs and such members.
+3. A mandate in the prescribed format (which can be obtained from RBI) should be submitted by the DSB to the Reserve Bank of India to enable the RBI to operate their current account towards the settlement of the transactions undertaken by their clients.
+4. For facilitating the settlement of primary auction allotments to such clients, the DSBs will be provided with reports giving details of funds obligations of their clients once this feature is developed on NDS. Till then, it shall be the responsibility of the settlement banks to ensure that there is sufficient balance in their current accounts with the RBI to meet the payments obligations of their clients.
+5. For secondary market settlements, the settlement banks will have an interface with the Clearing Corporation of India Ltd. (CCIL) through which information on their fund obligations and confirmations of availability of funds with the DSBs are exchanged.
+6. Servicing (payments related to interest and redemptions) of Government securities held by such NDS members will be made by way of credit to the current account of the DSBs who in turn will pass on the credit to their clients. RBI, PDO will provide details of member-wise credits to the DSBs. NDS members not having current accounts with RBI are required to submit an undertaking (format can be obtained from RBI) to the RBI for sharing information on the details of amounts due to them with their DSBs. The agreement between the settlement banks and their client NDS members may cover aspects related to modalities of receipt of such payments by the client members.
