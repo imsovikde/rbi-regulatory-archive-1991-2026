@@ -1,0 +1,104 @@
+---
+doc_id: "Circulars_2025_DoR_AUT_REC_71_23_67_001_2024-25"
+title: "Gold Monetization Scheme (GMS), 2015 - Amendment"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT132FF04041E12E04871A2995D5D698CF636.PDF"
+pdf_sha256: "bae9f87442df0fe91ef5d7665bf152268e9a1a10a8a37c38f9646ac03b197285"
+md_sha256: "ada7e0aa08303e783b8f8c8ec8a717efe10ba1f70867a7a6c9f8e4b84b9a4605"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:56:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-03-25_Circular_DoR.AUT.REC.71-23.67.001-2024-25_Gold%20Monetization%20Scheme%20%28GMS%29%2C%202015%20-%20Amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Gold Monetization Scheme (GMS), 2015 - Amendment
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक **_____________________ RESERVE BANK OF INDIA ______________________** <u>www.rbi.org.in</u> RBI/2024-25/132 DoR.AUT.REC.71/23.67.001/2024-25 March 25, 2025
+
+## Madam/Dear Sir
+
+## Gold Monetization Scheme (GMS), 2015 - Amendment
+
+Government of India, vide its press release ID 2115009 dated March 25, 2025 regarding Gold Monetization Scheme (GMS) has decided to discontinue the Medium Term and Long Term Government Deposit (MLTGD) components of GMS with effect from March 26, 2025. Accordingly, any gold deposits tendered at the designated Collection and Purity Testing Centre (CPTC) or GMS Mobilisation, Collection & Testing Agent (GMCTA) or the designated bank branches towards MLTGD component of GMS shall not be accepted after March 25,
+
+2025. The designated banks, at their discretion, may offer Short Term Bank Deposits (STBD) under GMS. The MLTGD mobilized till March 25, 2025 shall continue till redemption as per the extant guidelines.
+2. Accordingly, in exercise of the powers conferred on the Reserve Bank of India under Section 35A of the Banking Regulation Act, 1949, the <u>Master Direction</u> <u>No.DBR.IBD.No.45/23.67.003/2015-16 dated October 22, 2015</u> on Gold Monetization Scheme, 2015 is being amended. The amended provisions of the Master Direction are enclosed in the <u>Annex</u> to this circular.
+3. <u>Frequently Asked Questions</u> relating to the provisions contained in the Master Direction
+# Withdrawn
+
+are also being updated.
+
+## Commencement
+
+4. The amended provisions contained in this circular shall come into effect from March 26,
+2025. The Master Direction is hereby updated to reflect the changes effected by the amendments to the Scheme.
+## Applicability
+
+5. This circular is applicable to all Scheduled Commercial Banks (other than Regional Rural Banks).
+िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001 <u>टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691</u> Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 हंदी आसान है, इसका �योग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+Yours faithfully,
+
+Manoranjan Padhy Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## List of amendments to the existing provisions of the Master Direction
+
+|Para of MD|Existing Provision|Amended Provision|
+|---|---|---|
+||In exercise of the powers conferred on the Reserve Bank of India (RBI) under Section 35A of the Banking Regulation Central Government notification issued vide Office Memorandum 15, 2015 regarding “Gold Monetization Scheme (GMS)”, the RBI being satisfied that it is in the public interest, so to do, Scheduled Commercial Banks (excluding Regional Rural Banks).|In exercise of the powers conferred on the Reserve Bank of India (RBI) under Section 35A of the Banking Regulation Act, 1949 and in pursuance of the Act, 1949 and in pursuance of the Central Government notification issued vide Office Memorandum F.No.20/6/2015-FT F.No.20/6/2015-FT dated September dated September 15, 2015 and press release ID 2115009 dated March 25, 2025 regarding “Gold Monetization Scheme (GMS)”, the RBI being satisfied hereby issues these Directions to all that it is in the public interest, so to do, hereby issues these Directions to all Scheduled Commercial Banks (excluding Regional Rural Banks).|
+|1.3. (v)|Deposit (MLTGD) - The deposit of gold made under the GMS with a designated Government for a medium term period of 5-7 years or a long term period of 12-15 years or for such period as may be years decided from time to time by the Central Government. Withdrawn|Medium and Long Term Government Medium and Long Term Government Deposit (MLTGD) - The deposit of gold made under the GMS with a designated bank in the account of the Central bank in the account of the Central Government for a medium term period of 5-7 years or a long term period of 12-15 or for such period as may be decided from time to time by the Central Government. Government of India has discontinued mobilization of MLTGD, including renewals, with effect from March 26, 2025.|
+|2.2.2. (ii)|The deposit under this category will be behalf of the Central Government. The and the deposit certificate issued by the designated banks shall state this clearly.|The deposit under this category will be accepted by the designated banks on accepted by the designated banks on behalf of the Central Government. The receipts issued by the CPTC/GMCTA receipts issued by the CPTC/GMCTA and the deposit certificate issued by the designated banks shall state this clearly. The mobilization of a deposit under this category, including renewal, has been discontinued with effect from March 26, 2025. The MLTGD as on March 25, 2025 (read with para 2.3 below) will continue to be governed by the relevant provisions of this Direction.|
+|2.2.2 (vii)|designated banks will be paid handling refining, transportation, storage and any|Central Government has decided that Central Government has decided that with effect from November 5, 2016, with effect from November 5, 2016, designated banks will be paid handling charges (including gold purity testing, charges (including gold purity testing, refining, transportation, storage and any|
+
+<!-- PAGE 4 -->
+
+## Annex
+
+||other relevant costs) for a new MLTGD at a flat rate of 1.5% and commission at the rate of 1% of the rupee equivalent of the amount of gold mobilized under the scheme until further notice. In case of renewal of deposits, as banks will not given a fixed commission of 1% of the rupee equivalent of the amount of gold administrative and account maintenance cost.|other relevant costs) for a new MLTGD at a flat rate of 1.5% and commission at the rate of 1% of the rupee equivalent of the amount of gold mobilized under the scheme until deposits are accepted. In case of renewal of deposits on or before incur any expenses on purity testing, March 25, 2025, as banks will not incur refining, transportation, storage and any expenses on purity testing, refining, insurance etc., the banks will only be transportation, storage and insurance etc., the banks will only be given a fixed commission of 1% of the rupee equivalent on the date of renewal towards their of the amount of gold on the date of renewal towards their administrative and account maintenance cost.|
+|---|---|---|
+|2.3.|Opening of gold deposit accounts shall be subject to the same rules with regard to customer identification as are applicable to any other deposit account. Depositors who do not already have any other account with the designated bank, shall open a gold deposit account with the designated banks with zero balance at any time prior to tendering gold at the KYC norms as prescribed by Reserve Bank of India. STBD or MLTGD, as the case may be, Withdrawn with the amount of 995 fineness gold as CPTC/GMCTA, after 30 days of receipt of gold at the CPTC/GMCTA, regardless certificate or not.|Opening of gold deposit accounts The opening of gold deposit accounts The opening of gold deposit accounts shall be subject to the same rules with regard to customer identification as are applicable to any other deposit account. Depositors who do not already have any other account with the designated bank, shall open a gold deposit account with the designated banks with zero balance at any time prior to tendering gold at the CPTC/GMCTA after complying with CPTC/GMCTA after complying with KYC norms as prescribed by Reserve Bank of India. The designated banks will credit the The designated banks will credit the STBD or MLTGD, with the amount of 995 fineness gold as indicated in the advice indicated in the advice received from received from CPTC/GMCTA, after 30 days of receipt of gold at the CPTC/GMCTA, regardless of whether the of whether the depositor submits the depositor submits the receipt for issuance receipt for issuance of the deposit of the deposit certificate or not; provided that in case of MLTGD, the deposit receipt issued by CPTC/GMCTA is dated on or before March 25, 2025.|
+|2.4.|Guidelines for Renewal/Redemption of MLTGD|Guidelines for Redemption of MLTGD|
+|2.4.i. (c)|letter and other means (such as SMS, email, phone call etc. wherever details are available), at least 120 days prior to redemption date and ask them to submit|Designated banks shall inform the Designated banks shall inform the depositors about redemption through depositors about redemption through letter and other means (such as SMS, email, phone call etc. wherever details are available), at least 120 days prior to redemption date and ask them to submit|
+
+<!-- PAGE 5 -->
+
+## Annex
+
+||their response within 30 days on their The bank, in its communication, should include a list of its state-wise branches where the facility of redemption in gold is the additional administrative charges to be borne by the depositor for redemption depositor, the bank shall ask for options on the following: i. Renewal or Redemption ii. Redemption in gold or in INR (only for depositors who sought redemption in gold at the time of deposit), along with the name of the branch from where the depositor will collect the gold, as applicable|their response within 30 days on their preference for redemption or renewal. preference for redemption. The bank, in its communication, should include a list of its state-wise branches where the facility of redemption in gold is available while available while also clearly specifying also clearly specifying the additional administrative charges to be borne by the depositor for redemption in gold. In its in gold. In its communication to the communication to the depositor, the bank shall ask for option on redemption in gold or in INR (only for depositors who sought redemption in gold at the time of deposit), along with the name of the branch from where the depositor will collect the gold, as applicable.|
+|---|---|---|
+|2.4.i. (d)|present the original deposit certificate issued by the corresponding designated bank for redemption/ renewal/premature closure of the MLTGD.|The depositor shall be required to The depositor shall be required to present the original deposit certificate issued by the corresponding designated bank for redemption/premature closure of the MLTGD.|
+|2.4.i. (h)|The renewal of deposits with retrospective effect shall not be allowed. Designated banks shall seek the option for renewal from existing customers in the letter which is to be issued as at para Withdrawn 2.4.i.(c) above.|The renewal of MLTGD has been discontinued with effect from March 26, 2025. The renewal of deposits with retrospective effect shall not be allowed.|
+|2.4.ii. (c)|choice for mode of redemption (gold or INR) to the bank in response to its 120- day prior communication (issued as at indicated at the time of account opening will prevail. Further, in case the gold is not redeemed by the customer on the maturity date, such stock will continue to be kept in the custody of the bank for a maximum period of 60 days. The depositor can renew the deposit during this 60-day period but would be liable to pay the applicable administrative charge depositor does not redeem the deposit on the due date or within 60 days from renewed the deposit, the redemption will|If the depositor does not indicate any If the depositor does not indicate any choice for mode of redemption (gold or INR) to the bank in response to its 120- day prior communication (issued as at para 2.4.i.(c) above), the option para 2.4.i.(c) above), the option indicated at the time of account opening will prevail. Further, in case the gold is not redeemed by the customer on the maturity date, such stock will continue to be kept in the custody of the bank for a maximum period of 60 days. If the depositor does not redeem the deposit on the due date or within 60 days from the maturity date, the redemption will automatically be made in (refer para 2.4.ii.(b) above). If the INR and the money shall be credited in the linked saving/current account of the depositor in the concerned bank. In case the maturity date and has also not of non-availability of an active bank|
+
+<!-- PAGE 6 -->
+
+## Annex
+
+||automatically be made in INR and the money shall be credited in the linked RBI, on priority. saving/current account of the depositor in the concerned bank. In case of non- availability of an active bank account, the banks will report the same to RBI, on priority.|account, the banks will report the same to|
+|---|---|---|
+|2.4.ii.e. (i)|Each bank shall maintain the stock of redemption due in next 3 months, out of the gold mobilised under MLTGD. Each bank before giving MLTGD gold for March permission from RBI. RBI, on behalf of permission after assessing the redemption requirement of MLTGD for the next three months and the total stock of gold available with all the banks.|Each bank shall maintain the stock of gold, at least equivalent to the gold gold, at least equivalent to the gold redemption due in next 3 months, out of the gold mobilised under MLTGD till 25, 2025. In case of non- auction to MMTC, shall seek prior availability of sufficient gold for redemption, the bank shall bring it to the Government of India, will give such notice of Government of India through the Reserve Bank at least 3 months in advance.|
+|2.4. (iv)|Renewal of Deposits – Modalities a. If a depositor is interested to continue the deposit under GMS either as a MTGD or LTGD, he may be allowed to renew his deposit irrespective of the option exercised at the time of original gold deposit. However, renewal with retrospective effect shall not be allowed. b. The depositor may inform about his Withdrawn willingness for the renewal of the deposit to the designated bank in response to the bank’s communication (refer para 2.4.i.(c) above). The bank shall obtain relevant instructions regarding the period of the deposit, redemption option (gold or INR), and interest payment (periodically or on maturity), etc. c. Deposit will be accepted at the prevailing rate on the date of receipt of such request and not from the date of maturity. The customer will not be eligible to claim interest for intervening period.|Deleted.|
+|2.4. (v)|Partial Renewal and Partial Redemption in gold/INR – Modalities a. Part of the deposit may also be allowed to be renewed as per the|Deleted.|
+
+<!-- PAGE 7 -->
+
+## Annex
+
+process and terms mentioned above in para 2.4.(iv).
+
+b. The redemption of the remaining gold deposit as per the option exercised by the depositor may be permitted. Such redemption request for the remaining portion may be processed as per the respective terms mentioned above in para 2.4.(ii) and 2.4.(iii) for redemption in gold and INR respectively.
+# Withdrawn
