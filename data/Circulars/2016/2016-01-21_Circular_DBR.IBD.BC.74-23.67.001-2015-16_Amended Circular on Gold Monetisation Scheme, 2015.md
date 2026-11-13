@@ -1,0 +1,192 @@
+---
+doc_id: "Circulars_2016_DBR_IBD_BC_74_23_67_001_2015-16"
+title: "Amended Circular on Gold Monetisation Scheme, 2015"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR3004ADF82BF33C24CFD8D361890D9E500D2.PDF"
+pdf_sha256: "25ef056ec582eb1d35204a015c5424d92859d4f8d07566c92b56c42a7a6c7e5d"
+md_sha256: "83dfd6286df935a1c38c29d1e33aa06c54e989617be14b5392f9a6723f5e9315"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-01-21_Circular_DBR.IBD.BC.74-23.67.001-2015-16_Amended%20Circular%20on%20Gold%20Monetisation%20Scheme%2C%202015.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amended Circular on Gold Monetisation Scheme, 2015
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Department of Banking Regulation** **Central Office** **Mumbai-400 001**
+
+RBI/2015-16/300 DBR.IBD.BC.74/23.67.001/2015-16 January 21, 2016
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam,
+
+*In exercise of the powers conferred under Section 35A of the Banking Regulation* *Act, 1949, the Reserve Bank of India hereby directs that the Reserve Bank of India* *(**Gold Monetisation Scheme, 2015)*** <u>Master Direction No.DBR.IBD.No.45/</u>
+
+<u>23.67.003/ 2015-16 dated October 22, 2015</u> *be modified as under:*
+(i) The existing sub-paragraph 2.1.1 (iii) shall be amended to read as follows: The principal and interest on STBD shall be denominated in gold. In the case of MLTGD, the principal will be denominated in gold. However, the interest on MLTGD shall be calculated in Indian Rupees with reference to the value of gold at the time of
+# Withdrawn
+
+the deposit. (ii) The existing sub-paragraph 2.1.1 (iv) shall be amended to read as follows:
+
+Persons eligible to make a deposit-Resident Indians (Individuals, HUFs, Proprietorship & Partnership firms, Trusts including Mutual Funds/Exchange Traded Funds registered under SEBI (Mutual Fund) Regulations and Companies) can make deposits under the scheme. Joint deposits of two or more eligible depositors are also allowed under the scheme and the deposit in such case shall be credited to the joint deposit account opened in the name of such depositors. The existing rules regarding joint operation of bank deposit accounts including nominations shall apply to these gold deposits.
+
+<!-- PAGE 2 -->
+
+(iii) The existing sub-paragraph 2.1.1 (v) shall be amended as under:
+
+All deposits under the scheme shall be made at the CPTC. Provided that at their discretion, banks may accept the deposit of gold at the designated branches, especially from the larger depositors. Provided further that banks may, at their discretion, also allow the depositors to deposit their gold directly with the refiners that have facilities to carry out final assaying and to issue the deposit receipts of the standard gold of 995 fineness to the depositor.
+
+(iv) The existing sub-paragraph 2.1.1 (ix) shall be amended to read as under:
+
+Designated banks shall inform the RBI of their decision to participate in the Scheme as soon as the policy to implement the Scheme is approved by their Board. They shall also report to the RBI the gold mobilized under the Scheme by all branches in a consolidated manner on a monthly basis as per the format given in the Annex-2.
+
+(v) A para No.2.1.1 (x) shall be included as under: Tax implications on GMS shall be as notified by the Central Government from time to time.
+# Withdrawn
+
+(vi) A para No.2.1.1 (xi) shall be included as under:
+
+The quantity of gold will be expressed up to three decimals of a gram.
+
+(vii) The existing sub-paragraph 2.2.2 (iv) shall be amended to read as under:
+
+(a) The Medium Term Government Deposit (MTGD) can be made for 5-7 years and Long Term Government Deposit (LTGD) for 12-15 years or for such period as may be decided by the Central Government from time to time.
+(b) The rate of interest on such deposit will be decided by Central Government and notified by Reserve Bank of India from time to time. The current rate of interest as notified by the Central Government are as under:
+
+<!-- PAGE 3 -->
+
+(i) On medium term deposit – 2.25% p.a. (ii) On long term deposit – 2.50% p.a.
+(c) The designated banks may allow whole or part premature withdrawal of the deposit subject to minimum lock-in period and penalties as under:
+<u>(i) Minimum lock-in period</u> A Medium Term Government Deposit (MTGD) is allowed to be withdrawn any time after 3 years and a Long Term Government Deposit (LTGD) after 5 years. <u>(ii) Penalty on premature withdrawal</u> The amount payable to the depositor on premature withdrawal shall be calculated as a sum of **(A) and (B),** as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+1
+
+(B) Interest payable on the value of the gold at the time of deposit as under.
+
+|Type of deposit|Lock-in period (years)|Actual period for which the deposit has run (years)||
+|---|---|---|---|
+|||>3 and < 5|≥5 and < 7|
+|MTGD|3|Applicable rate for MTGD at the time of deposit - 0.375%|Applicable rate for MTGD at the time of deposit - 0.25%|
+
+|Type of deposit|Lock-in period (years)|Withdrawn|Actual period for which the deposit has run (years)||
+|---|---|---|---|---|
+|||>5 and < 7|≥ 7 and < 12|≥12 and < 15|
+|LTGD|5|Applicable rate for MTGD at the time of deposit - 0.25%|Applicable rate for LTGD at the time of deposit - 0.375%|Applicable rate for LTGD at the time of deposit - 0.25%|
+
+1 An illustration of the interest calculation as under:
+
+|Type of deposit|Lock-in period (years)|Actual period for which the deposit has run (years)||
+|---|---|---|---|
+|||>3 and < 5|≥5 and < 7|
+|MTGD|Position as on date|2.250%-0.375% = 1.875%|2.250%-0.250% = 2.00%|
+
+||>5 and < 7|≥ 7 and < 12|≥12 and < 15|
+|---|---|---|---|
+|Position|2.250%-0.250%|= 2.500%-|2.500%-|
+|as date|on 2.00%|0.375%=2.125%|0.250%=2.25%|
+
+LTGD
+
+<!-- PAGE 4 -->
+
+(viii) A para No.2.2.2 (ix) shall be included as under: Central Government has decided that for initial period of one year from the date of launch of the Scheme i.e. November 5, 2015, designated banks will be paid handling charges (including gold purity testing, refining, transportation, storage and any other relevant costs) for MLTGD at a flat rate of 1.5% and commission at the rate of 1% of the rupee equivalent of the amount of gold mobilized under the scheme.
+
+<u>Explanation: For the purpose of computing the charges and commission payable to</u> <u>banks, the rupee equivalent of the gold deposited shall be calculated based on the</u> <u>price of gold prevailing at the time of deposit.</u>
+
+(ix) The existing sub-paragraph 2.4 (i) shall be amended to read as under:
+
+The Central Government will notify the list of BIS certified CPTC / Refiners under the Scheme and shall be communicated to the banks through Indian Banks’ Association (IBA).
+
+(x) A para No. 2.6 (iii) shall be included as under: The tripartite agreement shall have enabling provision for direct deposit of gold with the refineries as well. In the alternate, banks shall enter into bipartite agreements
+# Withdrawn
+
+with the refiners, stating out the terms of that arrangements besides the tripartite agreement.
+
+Rajinder Kumar Chief General Manager
+
+<!-- PAGE 5 -->
+
+## Annex- 2
+
+## GMS MONTHLY STATEMENT <u>Short Term Bank Deposit (STBD)</u>
+
+|A.||Gold mobilized under STBD during the month (based on gold deposit intimation received from CPTC)||
+|---|---|---|---|
+|Sl.No|Detail of depositors|No. of depositors|Quantity of gold (weight in grams)|
+|1.|Opening balance|||
+|2.|Addition during the month|||
+|a)|Individual/HUF|||
+|b)|MF/Gold ETFs|||
+|c)|Other Trusts (e.g. Temples)|||
+|d)|Others||Withdrawn|
+|3.|Redemption|||
+|a)|Individual /HUF|||
+|b)|MF/GOLD ETF|||
+|c)|Other Trusts (e.g. Temples)|||
+|d)|Others|||
+
+<!-- PAGE 6 -->
+
+|4.||Premature Withdrawal|
+|---|---|---|
+|a)||Individual /HUF|
+|b)||MF/GOLD ETF|
+|c)||Other Trusts (e.g. Temples)|
+|d)||Others|
+|5.|B) 1. 2. a) b) c) d) e) f) 3. 4.|Closing Balance Deployment of gold mobilised during the month (Weight in grams) Opening balance Deployment during the month Sale to other designated banks Sale to jewellers Sale to MMTC for minting India Gold Coins (IGC) Loan to MMTC for minting IGC Loan to domestic jewellers Withdrawn Loan to jewellery exporter Less repayments/premature withdrawal during the month Closing balance C. Summary of transactions Total Gold mobilized under the Scheme in grams|
+
+<!-- PAGE 7 -->
+
+||||GMS Monthly Statement|||
+|---|---|---|---|---|---|
+|||Gold Mobilised under Medium Term Deposit (5-7) years|A) Gold Mobilised under MLTGD during the month||Gold mobilised under Long term Deposit (12-15) years|
+|Sr. No.|Detail of depositors|No. of depositors|Weight in grams|No. of depositors|Weight in grams|
+|1.|Opening balance|||||
+|2.|Addition during the month|||||
+|a.|Individual / HUF|||||
+|b.|MF/Gold ETFs|||||
+|c.|Other Trusts (e.g. Temples)|||||
+|d.|Others|||||
+|3.|Redemption|||||
+|a.|Individual / HUF|||||
+|b.|MF/Gold ETFs|||||
+|c.|Other Trusts (e.g. Temples)||Withdrawn|||
+|d.|Others|||||
+|4.|Premature Withdrawal|||||
+|a.|Individual / HUF|||||
+|b.|MF/Gold ETFs|||||
+|c.|Other Trusts (e.g. Temples)|||||
+|d.|Others|||||
+|5.|Closing Balance|||||
+
+<!-- PAGE 8 -->
+
+||B) Auction of MLTGD gold during the month|
+|---|---|
+|1.|Opening Balance|
+|2.|Auctioned during the month|
+|3.|Closing balance|
+
+||C) Deployment of gold purchased by the bank under the auction of MLTGD during the month (Weight in grams)|
+|---|---|
+|a)|Sale to other designated banks|
+|b)|Sale to jewellers|
+|c)|Sale to MMTC for minting India Gold Coins (IGC)|
+|d)|Loan to MMTC for minting IGC|
+|e)|Loan to domestic jewellers Withdrawn|
+|f)|Loan to jewellery exporter|
+
+1) Opening balance
+2) Deployment during the month
+3) Less repayments/premature withdrawal during the month
+4) Closing balance
+1) Opening balance
+2) Deployment during the month
+
+## D. Summary of transactions Total Gold mobilized under the Scheme in grams

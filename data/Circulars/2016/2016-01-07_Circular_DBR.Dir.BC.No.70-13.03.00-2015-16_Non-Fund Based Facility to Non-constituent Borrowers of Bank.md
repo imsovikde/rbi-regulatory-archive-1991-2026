@@ -1,0 +1,62 @@
+---
+doc_id: "Circulars_2016_DBR_Dir_BC_No_70_13_03_00_2015-16"
+title: "Non-Fund Based Facility to Non-constituent Borrowers of Bank"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR281B440343677B44DF28FBD006DC69D1B9A.PDF"
+pdf_sha256: "5a53ed92edfea4ce79bf09fbb4b5ca6e18232a9fc75f4eccd4850b90a71c94c9"
+md_sha256: "cb8a8db491fa50d9ec00249e643bb3819f0d502e04261390d48d27171606b2a5"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-01-07_Circular_DBR.Dir.BC.No.70-13.03.00-2015-16_Non-Fund%20Based%20Facility%20to%20Non-constituent%20Borrowers%20of%20Bank.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Fund Based Facility to Non-constituent Borrowers of Bank
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक _____________________ **RESERVE BANK OF INDIA**____________________ **www.rbi.org.in** **RBI/2015-16/281** **DBR.Dir.BC.No.70/13.03.00/2015-16** January 07, 2016 All Scheduled Commercial Banks (Excluding RRBs)
+
+## Dear Sir/Madam
+
+## Non-Fund Based Facility to Non-constituent Borrowers of Bank
+
+Please refer to paragraph 2(iii) of our <u>circular DBOD.Dir.BC.62/13.07.09/2002-03</u> <u>dated January 24, 2003</u> on ‘Discounting/Rediscounting of Bills by banks’ advising banks not to extend any non-fund based facilities to non-constituents borrowers of the banks. The restriction was imposed to prevent frauds, diversion of funds etc. in case bank sanctions “one-off” transaction facilities without assessment of credit needs of the borrowers on well established credit norms.
+
+2. The above restriction has led to the problems faced by those customers, who require Non-Fund based facilities like Letter of Credits (LCs), Bank Guarantees, but do not avail of any Fund based facility from any bank. In view of recent
+# Withdrawn
+
+developments in strengthening the system of collection and maintenance of credit information, the above restrictions have been reviewed. Accordingly, it has been decided that Scheduled Commercial Banks can grant non-fund based facilities including Partial Credit Enhancement (PCE) to those customers, who do not avail any fund based facility from any bank in India, subject to the following conditions:
+
+## a) Board Approved Policy
+
+Banks shall formulate a comprehensive Board approved loan policy for grant of non- fund based facility to such borrowers.
+
+## b) Verification of Customer credentials
+
+The banks shall ensure that the borrower has not availed any fund based facility from any bank operating in India. However, at the time of granting non-fund based
+
+<u>बैक</u>ं<u>ग वनयमन वभाग, के न्द्रय कायार्लय, 13 माला,शहद भगतसंह मागर्, फोटर्,मुम्बई 400001</u> Department of Banking Regulation, 13th Floor, NCOB, Shahid Bhagat Singh Marg, Fort, Mumbai- 400001 Tel. No.022-22701241 E-mail address <u>cgmicdbr@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+facilities, banks shall obtain declaration from the customer about the non- fund based credit facilities already enjoyed by them from other banks.
+
+## c) Credit Appraisal and due-diligence
+
+Banks shall undertake the same level of credit appraisal as has been laid down for fund based facilities.
+
+**d) Compliance with Know Your Customer (KYC) Norms / Anti-Money** **Laundering (AML) Standards / Combating of Financing of Terrorism (CFT) /** **Obligation of banks under PMLA, 2002** The instructions/ guidelines on KYC/AML/ CFT applicable to banks, issued by RBI from time to time, shall be adhered to in respect of all such credit facility.
+## e) Submission of Credit Information to CICs
+
+Credit information relating to grant of such facility shall mandatorily be furnished to the Credit Information Companies (specifically authorized by RBI). Such reporting shall be subject to the guidelines under Credit Information Companies (Regulation) Act, 2005.
+
+## f) Exposure Norms
+
+Banks shall adhere to the exposure norms as pres Withdrawncribed by RBI from time to time.
+
+3. As hitherto, banks are, however, prohibited from negotiating unrestricted LCs of non-constituents in terms of <u>para 2.3.9 of our Master Circular RBI/2015-16/95.</u> <u>DBR.No.Dir.BC.10/13.03.00/2015-16 dated July 1, 2015</u> on Loans and Advances- Statutory and Other Restrictions. In cases where negotiation of bills drawn under LC is restricted to a particular bank and the beneficiary of the LC is not a constituent of that bank, the bank shall have the option to negotiate such LCs, subject to the condition that the proceeds are remitted to the regular banker of the beneficiary. Yours faithfully, (Lily Vadera) Chief General Manager

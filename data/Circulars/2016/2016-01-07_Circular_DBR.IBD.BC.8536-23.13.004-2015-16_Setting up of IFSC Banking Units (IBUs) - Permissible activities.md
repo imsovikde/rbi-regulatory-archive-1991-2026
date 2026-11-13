@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2016_DBR_IBD_BC_8536_23_13_004_2015-16"
+title: "Setting up of IFSC Banking Units (IBUs) - Permissible activities"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR282D7DD3A3DB1CB4227B6F78313FAE00228.PDF"
+pdf_sha256: "68247b7cce4ff4a52f66b1039a390d656f4d0c71ecf1afc1e0c03d226f3773d0"
+md_sha256: "1449cc75c07657dab9daf667e41c4581a502f840e4f12739cf09da985a08f3e4"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-01-07_Circular_DBR.IBD.BC.8536-23.13.004-2015-16_Setting%20up%20of%20IFSC%20Banking%20Units%20%28IBUs%29%20-%20Permissible%20activities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Setting up of IFSC Banking Units (IBUs) - Permissible activities
+
+<!-- PAGE 1 -->
+
+## RBI/2015-16/282 DBR.IBD.BC. 8536/23.13.004/2015-16 January 07, 2016
+
+All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+Dear Sir/Madam,
+
+## Setting up of IFSC Banking Units (IBUs) – Permissible activities
+
+Please refer to our <u>circular DBR.IBD.BC.14570/23.13.004/2014-15 dated April 01, 2015</u> setting out RBI directions relating to financial institutions set up in the International Financial Services Centres (IFSC). Based on the feedback and requests received from various stakeholders, certain provisions of the directions have been reviewed and are modified as follows:
+
+2. In terms of paragraph No.2.6 (v) of Annex I and II of the aforesaid directions, the IBUs
+# Withdrawn
+
+are not allowed to open any current or savings accounts. It has now been decided that the IBUs can open foreign currency current accounts of units operating in IFSCs and of non-resident institutional investors to facilitate their investment transactions. It is again clarified that the IBUs cannot raise liabilities from retail customers including high net worth individuals (HNIs). Also, no cheque facility will be available for holders of current accounts in the IBUs. All transactions through these accounts must be undertaken via bank transfers.
+
+3. In terms of paragraph No. 2.6 (iv) of Annex I and II of the above mentioned directions, the IBUs can raise short-term liabilities from banks subject to a limit prescribed by RBI. On a review, it has been decided that RBI will not prescribe any limit for raising short- term liabilities from banks. However, the IBUs must maintain LCR as applicable to Indian banks on a stand alone basis and strictly follow the liquidity risk management guidelines
+
+<!-- PAGE 2 -->
+
+issued by RBI to banks. Further, NSFR will also be applicable to the IBUs as and when it is applied to Indian banks.
+
+4. With a view to providing greater flexibility to the IBUs in their business transactions, it has been decided that exposure ceiling for IBUs shall be 5 percent of the parent bank’s Tier-I capital in case of a single borrower and 10 percent of parent bank’s Tier-1 capital in the case of a borrower group.
+5. All other terms and conditions contained in the aforementioned directions remain unchanged. Yours faithfully, (Rajinder Kumar) Chief General Manager
+# Withdrawn

@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2016_DBR_IBD_BC_75_23_67_001_2015-16"
+title: "Sale of India Gold Coin (IGC)"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2986CF3A5D6EFD64EAEAEC762F7974825A3.PDF"
+pdf_sha256: "c3efe9a1f1d6e79149f80ee1df62285d301b30b9de44f4ef4b3cb9a967eb4259"
+md_sha256: "975649bac609b4e84b0fa1bfcc16d0d2b0a30645dddb6d54b1853b5e88bed77f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:34:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-01-21_Circular_DBR.IBD.BC.75-23.67.001-2015-16_Sale%20of%20India%20Gold%20Coin%20%28IGC%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sale of India Gold Coin (IGC)
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Department of Banking Regulation** **Central Office** **Mumbai-400 001**
+
+RBI/2015-16/298
+
+## DBR.IBD.BC. 75/23.67.001/2015-16 January 21, 2016
+
+All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+Dear Sir/Madam,
+
+## Sale of India Gold Coin (IGC)
+
+As you are aware, MMTC has been authorized by the Central Government to manufacture India Gold Coins (IGC) with Ashok Chakra and supply these coins to the domestic market. MMTC has clarified to the Reserve Bank that the gold used for the IGC will be only that mobilized domestically under the existing Gold Deposit Scheme (GDS) and Gold Monetization Scheme (GMS).
+
+# Withdrawn
+
+2. In view of this, it has been decided to allow the designated banks as defined in the Master Direction on <u>Gold Monetization Scheme, dated October 22, 2015</u>, to sell the IGCs minted by MMTC. The terms and conditions shall be as per the contract between the designated bank and MMTC.
+3. The current restriction on selling of imported gold coin by the banks as contained in <u>FED (AP. Dir) circular No.79 dated February 18, 2015</u> will continue.
+## Yours faithfully
+
+(Rajinder Kumar) Chief General Manager
