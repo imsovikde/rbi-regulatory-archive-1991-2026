@@ -1,0 +1,78 @@
+---
+doc_id: "Circulars_2024_DoR_AUT_REC_74_24_01_041_2023-24"
+title: "Participation of Indian Banks on India International Bullion Exchange IFSC Limited (IIBX)"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PARTICIPATIONINDIANBANKSIIBX7A2F78D93E9C4DD5B344C2F3D19569A2.PDF"
+pdf_sha256: "305820f41617370e7ebdd7947dbaa8af15e494a9d135bda667aa107351993678"
+md_sha256: "5030195738123657a029485030fc72417f4d36697eaac29cc2edfdb3447cd651"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:52:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-02-09_Circular_DoR.AUT.REC.74-24.01.041-2023-24_Participation%20of%20Indian%20Banks%20on%20India%20International%20Bullion%20Exchange%20IFSC%20Limited%20%28IIBX%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Participation of Indian Banks on India International Bullion Exchange IFSC Limited (IIBX)
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक **_____________________ RESERVE BANK OF INDIA ______________________** <u>www.rbi.org.in</u> RBI/2023-24/120 DoR.AUT.REC.74/24.01.041/2023-24 February 09, 2024 All Scheduled Commercial Banks Madam/Dear Sir, **Participation of Indian Banks on India International Bullion Exchange IFSC** **Limited (IIBX)**
+
+Please refer to the circular <u>Branches of Indian Banks operating in GIFT-IFSC – acting</u> <u>as Professional Clearing Member (PCM) of India International Bullion Exchange IFSC</u> <u>Limited (IIBX) dated June 07, 2022</u>. On review, it has been decided to additionally allow:
+
+a) Branch/subsidiary/joint venture of an Indian bank in GIFT-IFSC to act as a Trading Member (TM)/Trading and Clearing Member (TCM) of IIBX, and
+b) Indian banks authorized to import gold/silver to act as Special Category Client¹ (SCC) of IIBX. The detailed instructions in this regard are at <u>ANNEX</u> to this Circular.
+2. These instructions are issued in exercise of the powers conferred on the Reserve Bank of India under Section 35A of the Banking Regulation Act, 1949. In the event of non-compliance with extant guidelines, or if the Reserve Bank is satisfied that it is
+# Withdrawn
+
+necessary and expedient in the public interest to do so, it may issue further necessary directions (including revocation of approval) and/or impose additional conditions, as it deems fit. **Commencement**
+
+3. The provisions contained in the circular shall be effective from the date of this circular. **Applicability**
+4. This circular is applicable to all Scheduled Commercial Banks (other than Regional Rural Banks). Yours faithfully, (Manoranjan Padhy) Chief General Manager 1 As is defined in IFSCA’s circular F.No.329/IFSCA/Bullion MIIs/2023-24/02 dated December 11, 2023
+िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001 <u>टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691</u> Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+<!-- PAGE 2 -->
+
+## ANNEX
+
+[Encl. to circular DoR.AUT.REC.74/24.01.041/2023-24 dated February 09, 2024]
+
+## A. Permitted Activity
+
+## 1. Trading Member/Trading and Clearing Member (TM/TCM) of IIBX
+
+a) The TM/TCM shall execute trades only on behalf of clients (without proprietary trading).
+b) The bank in its role as TM/TCM shall ensure adherence to the terms and conditions as outlined in para 5 of the circular on <u>Branches of Indian Banks operating in GIFT-</u> <u>IFSC – acting as PCM of IIBX dated June 07, 2022</u>.
+c) The bank shall ensure adherence to extant RBI instructions as contained in the <u>Master Circular – Loans and Advances – Statutory and Other Restrictions dated</u> <u>July 01, 2015</u> (as updated from time to time).
+d) The bank shall comply with the conditions, if any, stipulated by other regulatory bodies that may be relevant for its role.
+## 2. Special Category Client (SCC) of IIBX
+
+As per the extant Foreign Trade Policy, the Reserve Bank grants annual import authorization to banks for import of gold/silver. Such banks, in addition to the consignment model in domestic tariff area, are hereby allowed to operate as a SCC on IIBX for import of gold/silver. Withdrawn
+
+a) The SCC shall execute only buy trades on behalf of clients.
+b) The bank shall ensure adherence to extant RBI instructions as contained in the <u>Master Circular – Loans and Advances – Statutory and Other Restrictions dated July</u> <u>01, 2015</u> (as updated from time to time).
+c) The SCCs will appoint one of the IFSC Banking Units (IBUs) to act as clearing member on their behalf.
+d) The bank shall comply with the conditions, if any, stipulated by other regulatory bodies that may be relevant for its role.
+## B. Risk Management
+
+a) All client trades placed on the exchange shall be against 110% advance pay-in of funds (buy order) of the expected value of bullion (quantity & quality specification)
+-2-
+
+<!-- PAGE 3 -->
+
+intended to be purchased and securities (sell order) in the account of the bank, as is applicable.
+
+b) With reference to the Net Open Overnight Position Limit (NOOPL) for a bank as prescribed in <u>Master Direction - Risk Management and Inter-Bank Dealings dated</u> <u>July 05, 2016</u> (as updated from time to time), the Board may determine a global sub- limit for net overnight open position in gold/silver, which shall not exceed one tonne of gold equivalent.
+## C. Procedure of Application to RBI
+
+a) For TM/TCM activities, the parent bank (‘bank’) shall seek a No Objection Certificate (NOC) from the Reserve Bank prior to its branch/subsidiary/joint venture in GIFT- IFSC seeking TM/TCM status on IIBX, subject to fulfilment of the prudential regulations as set out in Para 21 of the <u>Master</u> <u>Direction/DBR.FSD.No.101/24.01.041/2015-16 dated May 26, 2016</u> (as updated from time to time). An eligible bank shall, with prior approval of its Board, make an application to the Department of Regulation, Reserve Bank of India with details of its proposed business plan as a TM/TCM for facilitating client trade along with particulars of the risk management architecture. [*A bank which has already been granted NOC by the Reserve Bank for its branch in* *GIFT-IFSC to act as Professional Clearing Member (PCM) of IIBX (as on date) need*
+# Withdrawn
+
+*not take a separate approval from the Reserve Bank for obtaining TM/TCM status* *on IIBX. They should, however, give a prior intimation to the Department of* *Regulation, Reserve Bank of India while seeking to take up activities as TM/TCM on* *the IIBX*].
+
+b) Banks authorized to import gold/silver can undertake the activities of an SCC by sending prior intimation to the Department of Regulation, Reserve Bank of India.
+c) A bank acting as a TM/TCM/SCC of IIBX shall be required to seek additional approval from the Department of Regulation, Reserve Bank of India in case of any change in their role or scope of activities at IIBX from those permitted by this circular.
+***

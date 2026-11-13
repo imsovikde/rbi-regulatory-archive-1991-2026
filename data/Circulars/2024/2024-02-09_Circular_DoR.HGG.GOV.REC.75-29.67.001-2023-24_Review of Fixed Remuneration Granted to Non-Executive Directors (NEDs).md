@@ -1,0 +1,55 @@
+---
+doc_id: "Circulars_2024_DoR_HGG_GOV_REC_75_29_67_001_2023-24"
+title: "Review of Fixed Remuneration Granted to Non-Executive Directors (NEDs)"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/REVIEWOFNEDE25205D476A940618D50B603F12553D5.PDF"
+pdf_sha256: "e554162e1a39d9d3e60594735a043330a901395f9c74a3181cf74503de3939e1"
+md_sha256: "f9b6c79778d5ba0c5f9a7e831a5b70a50b7e5624cf7a23aac471a77830b81c83"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:52:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-02-09_Circular_DoR.HGG.GOV.REC.75-29.67.001-2023-24_Review%20of%20Fixed%20Remuneration%20Granted%20to%20Non-Executive%20Directors%20%28NEDs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Fixed Remuneration Granted to Non-Executive Directors (NEDs)
+
+<!-- PAGE 1 -->
+
+बेट बचाओ बेट पढ़ाओ भारतीय �रज़वर् बक **________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u> RBI/2023-24/121 DoR.HGG.GOV.REC.75/29.67.001/2023-24 February 9, 2024
+
+## Dear Sir/ Madam
+
+## Review of Fixed Remuneration granted to Non-Executive Directors (NEDs)
+
+Please refer to paragraph 9 of circular dated April 26, 2021 (<u>Corporate Governance in</u> <u>Banks-Appointment of Directors and Constitution of Committees of the Board</u>) as per which ceiling of ₹20 lakh per annum was specified in respect of remuneration of Non- Executive Directors (NEDs), other than the Chair of the Board.
+
+2. Considering the crucial role of NEDs in efficient functioning of bank Boards and its various Committees and in order to further enable the banks to sufficiently attract qualified competent individuals on their Boards, it has been decided to revise the aforementioned ceiling to ₹30 lakh per annum.
+3. The banks are required to have suitable criteria for granting fixed remuneration to its NEDs, with the approval of its Board before any review of the extant remuneration.
+# Withdrawn
+
+The Board of the bank may fix a lower amount within the ceiling limit of ₹30 lakh per annum depending upon the size of the bank, experience of the NED and other relevant factors.
+
+4. As hitherto, private sector banks would be required to obtain regulatory approval regarding remuneration to Part-time Chairman in terms of Section 10B(1A)(i) and 35B of the Banking Regulation Act, 1949.
+5. Banks are required to make disclosure on remuneration paid to the directors on an annual basis at a minimum, in their Annual Financial Statements. **Applicability and Commencement**
+6. The instructions would be applicable to all the Private Sector Banks including Small Finance Banks (SFBs) and Payment Banks (PBs) as also the wholly owned _________________________________________________________________________________________________ व�नयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत संह मागर्, फोटर्, मुंबई - 400001
+Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 ई-मैल / E-mail: govbanksdor@rbi.org.in �हंद आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+subsidiaries of Foreign Banks. The instructions would come into force with immediate effect.
+
+## Power exercised
+
+7. The instructions have been issued in exercise of powers conferred by Section 35B of the Banking Regulation Act, 1949.
+## Repeal
+
+8. The instructions on Guidelines on Compensation of Non-executive Directors of Private Sector Banks issued vide <u>circular DBR.No.BC.97/29.67.001/2014-15 dated</u> <u>June 1, 2015</u> stand repealed.
+## Yours faithfully
+
+(Scenta Joy) Chief General Manager
+
+# Withdrawn

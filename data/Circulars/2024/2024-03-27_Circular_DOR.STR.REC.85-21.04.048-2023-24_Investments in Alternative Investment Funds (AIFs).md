@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2024_DOR_STR_REC_85_21_04_048_2023-24"
+title: "Investments in Alternative Investment Funds (AIFs)"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI14027032024A0474453CF9549A69FFB3EA0CA948602.PDF"
+pdf_sha256: "1819c7d0f31ef907e9b8a8699fd19c365a90e69e05ee4599996f04575a1764c6"
+md_sha256: "9c63b4e3f68a0c850eea96147f2d54d5947fe3bd209bb1d9f4eb984f17bfc78e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:52:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-03-27_Circular_DOR.STR.REC.85-21.04.048-2023-24_Investments%20in%20Alternative%20Investment%20Funds%20%28AIFs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investments in Alternative Investment Funds (AIFs)
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/140 DOR.STR.REC.85/21.04.048/2023-24 March 27, 2024
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) All Primary (Urban) Co-operative Banks/State Co-operative Banks/ Central Co- operative Banks All All-India Financial Institutions All Non-Banking Financial Companies (including Housing Finance Companies)
+
+## Investments in Alternative Investment Funds (AIFs)
+
+Please refer to the <u>circular DOR.STR.REC.58/21.04.048/2023-24 dated December</u> <u>19, 2023</u> (‘Circular’) on the captioned subject, in terms of which instructions were issued to address certain regulatory concerns relating to investment by regulated entities (REs) in the AIFs.
+
+2. With a view to ensuring uniformity in implementation among the REs, and to address the concerns flagged in various representations received from stakeholders, it is
+# Withdrawn
+
+advised as under:
+
+(i) Downstream investments referred to in paragraph 2 (i) of the Circular shall exclude investments in equity shares of the debtor company of the RE, but shall include all other investments, including investment in hybrid instruments. (ii) Provisioning in terms of paragraph 2(iii) of the Circular shall be required only to the extent of investment by the RE in the AIF scheme which is further invested by the AIF in the debtor company, and not on the entire investment of the RE in the AIF scheme. (iii) Paragraph 3 of the Circular shall only be applicable in cases where the AIF does not have any downstream investment in a debtor company of the RE. If the RE has investment in subordinated units of an AIF scheme, which also has downstream exposure to the debtor company, then the RE shall be required to comply with paragraph 2 of the Circular.
+
+<!-- PAGE 2 -->
+
+(iv) Further with regard to paragraph 3 of the Circular:
+
+- proposed deduction from capital shall take place equally from both Tier- 1 and Tier-2 capital.
+- reference to investment in subordinated units of AIF Scheme includes all forms of subordinated exposures, including investment in the nature of sponsor units.
+(v) Investments by REs in AIFs through intermediaries such as fund of funds or mutual funds are not included in the scope of the Circular.
+3. The above instructions have been issued in exercise of the powers conferred by Sections 21 and 35A of the Banking Regulation Act, 1949 read with Section 56 of the Act ibid; Chapter IIIB of the Reserve Bank of India Act, 1934 and Sections 30A, 32 and 33 of the National Housing Bank Act, 1987. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager
+# Withdrawn

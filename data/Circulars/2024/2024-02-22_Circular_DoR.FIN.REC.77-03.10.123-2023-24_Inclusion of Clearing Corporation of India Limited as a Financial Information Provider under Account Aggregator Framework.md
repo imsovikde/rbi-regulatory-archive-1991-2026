@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2024_DoR_FIN_REC_77_03_10_123_2023-24"
+title: "Inclusion of Clearing Corporation of India Limited as a Financial Information Provider under Account Aggregator Framework"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARINCLUSIONCCIL9520A6BC53544F7C823581B782E5A2C6.PDF"
+pdf_sha256: "64cfe6398c98b765c7618e735103bbd739cd0d897be8e626e7d53def25509b76"
+md_sha256: "ef6ba9b37842bd1bc80d1d3396a6ddf6116d96dfd7183f498039b8df4269934f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:52:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-02-22_Circular_DoR.FIN.REC.77-03.10.123-2023-24_Inclusion%20of%20Clearing%20Corporation%20of%20India%20Limited%20as%20a%20Financial%20Information%20Provider%20under%20Account%20Aggregator%20Framework.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of Clearing Corporation of India Limited as a Financial Information Provider under Account Aggregator Framework
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक **RESERVE BANK OF INDIA** RBI/2023-24/125 DoR.FIN.REC.77/03.10.123/2023-24 February 22, 2024
+
+All Regulated Entities of the Bank Madam/ Dear Sir,
+
+## Inclusion of Clearing Corporation of India Limited as a Financial Information
+
+## Provider under Account Aggregator Framework
+
+Please refer to the <u>Master Direction – Non-Banking Financial Company - Account</u> <u>Aggregator (Reserve Bank) Directions, 2016</u>.
+
+2. The <u>RBI Retail Direct Scheme (‘Scheme’)</u> was launched on November 12, 2021 to facilitate retail investors to invest in Government Securities. The Scheme enables individuals to open Retail Direct Gilt Accounts with the Bank and access the Government Securities market - both primary and secondary. To enable aggregation of financial information on Government Securities held by retail investors in their Retail Direct Gilt accounts under the Scheme, Clearing Corporation of India Limited has been included as
+# Withdrawn
+
+a Financial Information Provider.
+
+3. The <u>Master Direction – Non-Banking Financial Company - Account Aggregator</u> <u>(Reserve Bank) Directions, 2016</u> is being modified accordingly. Yours faithfully, (J.P. Sharma) Chief General Manager
+िविनयमन िवभाग, क द्रीय कायालय ,ितीय तल ,मु� भवन, शहीद भगत िसंह रोड ,फोट, मुंबई -400001 Department of Regulation, Central Office, 2nd Floor, Main Building, Shaheed Bhagat Road, Fort, Mumbai-400 001 Email: <u>cgmicdor@rbi.org.in</u> िही आसान है, इसका प्रयोग बढाइए।
