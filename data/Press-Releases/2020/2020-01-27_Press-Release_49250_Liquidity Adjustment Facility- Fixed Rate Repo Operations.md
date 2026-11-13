@@ -1,0 +1,41 @@
+---
+doc_id: "Press-Releases_2020_49250"
+title: "Liquidity Adjustment Facility: Fixed Rate Repo Operations"
+category: "Press-Releases"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1798201D5994C3D3482390090BC024630540.PDF"
+pdf_sha256: "e3abb2a915a71ea88436a342aa391d4c78831ebe0c9845985c95278f29f7aefa"
+md_sha256: "f041df1d0cfe8a6f16b9f372c0cc1f11cdb39b520e8969864203167c01efdf09"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T22:30:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2020/2020-01-27_Press-Release_49250_Liquidity%20Adjustment%20Facility-%20Fixed%20Rate%20Repo%20Operations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility: Fixed Rate Repo Operations
+
+<!-- PAGE 1 -->
+
+||�ेस �काशनी PRESS RELEASE|
+|---|---|
+||भारतीय �रज़वर् बक|
+|संचार िवभाग, क � ी य कायार्लय, एस.बी.एस.मागर्, मुंबई - 400001|RESERVE BANK OF INDIA|
+|_____________________________________________________________________________________________________________________|0 वेबसाइट : www.rbi.org.in/hindi|
+|Department of Communication, Central Office, S.B.S.Marg, Mumbai-400001|Website : www.rbi.org.in|
+|फोन /Phone: 022- 22660502|ई-मेल/email : helpdoc@rbi.org.in|
+
+January 27, 2020 **Liquidity Adjustment Facility: Fixed Rate Repo Operations**
+
+|is as under:|||The result of the RBI Fixed Rate Repo Operations held on January 27, 2020 Amount (Face Value in ` Crore)|
+|---|---|---|---|
+|1. Bids received|Items (i) Number||Overnight Repo Operations 5.15% Fixed Rate 7|
+|(ii) 2. Bids Accepted|Amount||2,894|
+|(i)|Number||7|
+|(ii)|Amount||2,894|
+
+## Ajit Prasad
+
+**Press Release: 2019-2020/1798** Director
