@@ -1,0 +1,57 @@
+---
+doc_id: "Circulars_2008_RPCD_CO_RRB_No_BC_25_03_05_33_2008-09"
+title: "Acquisition of Accommodation on Lease / Rental Basis by Regional Rural Banks for their Branches / Offices - Liberalisation of Guidelines"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86965.PDF"
+pdf_sha256: "a7f4bd9867bc132a02af2ab0259312d9ad756a4fa899a0ef798d51696aa1ded5"
+md_sha256: "56a1b19e19b652b3e30768a305758df7730c713cdd26b300dbede7a4ea2ed8f7"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:05:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-12_Circular_RPCD.CO.RRB.No.BC.25-03.05.33-2008-09_Acquisition%20of%20Accommodation%20on%20Lease%20-%20Rental%20Basis%20by%20Regional%20Rural%20Banks%20for%20their%20Branches%20-%20Offices%20-%20Liberalisation%20of%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Acquisition of Accommodation on Lease / Rental Basis by Regional Rural Banks for their Branches / Offices - Liberalisation of Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/162 RPCD.CO.RRB.No. BC.25 /03.05.33/2008-09 September 12, 2008
+
+## All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+<u>Acquisition of Accommodation on Lease / Rental basis by Regional Rural Banks for their branches / offices -</u>
+
+## <u>Liberalisation of guidelines</u>
+
+It has been decided that the guidelines issued to Scheduled Commercial Banks vide DBOD Circulars DBOD.No.BL.BC.105/22.01.03/98 and DBOD. No. BL.BC. 13/22.01.03/2000-01 dated November 11, 1998 and August 4, 2000 respectively (copies enclosed) on the captioned subject, be made applicable to Regional Rural Banks (RRBs) as well. RRBs may therefore take guidance from the instructions contained in above circulars dated November 11, 1998 and August 4, 2000.
+
+2. As regards the instructions contained in paragraph 4 of the same circular regarding reporting of negotiated contracts in respect of rentals beyond certain cut-off limits to Central Bureau of Investigation (CBI), RRBs may be guided by the extant instructions of Govt. of India in this regard, till the instructions are replaced by fresh guidelines from the Government of India.
+3. As RRBs may be aware, the authorizations issued for opening of bank branches/offices are location-specific, inasmuch as, after issue of authorization/permission by Reserve Bank of India for opening a bank branch/office at a particular centre, the banks are required to report details including the exact address of the branch/office, not later than two weeks after the opening of the branch/office, to Reserve Bank of India. In the circumstances, it is incumbent upon RRBs to ensure that all their branches/offices are operating from premises which have a subsisting and valid lease agreement, free of any disputes between the Withdrawnbank and the landlords concerned. Such disputes may relate to non-renewal of lease agreements in time leading to unauthorized occupation, rental value etc., We therefore advise that RRBs may immediately undertake a review in this regard and ensure that all their branches/offices are operating from premises which have a valid and subsisting lease agreement.
+4. RRBs are also advised to report immediately and **in any case not later than** **September 30, 2008**, the list of their branches / offices, that are operating in premises in respect of which a dispute is pending with the landlord, to the Regional Director(RD) of Reserve Bank of India concerned (i.e., RD of the Regional Office of RBI under whose jurisdiction the branch/office in respect of which a dispute is pending is functioning), as per the format enclosed <u>(Annex</u>**)** to enable RBI to take a view on the appropriateness or otherwise of continuing the authorization for the branch/office which is functioning in a ‘disputed’ premises. Further, RRBs are also required to furnish quarterly progress reports (as at the end of March, June, September and December) in the same format to the RD of the Regional Office of RBI concerned, within a period of one month from the close of the respective quarter to which the report relates. The first such quarterly report will be for the quarter ended December 31, 2008 which will have to be furnished to the Regional Directors concerned by January 31, 2009. It may be noted in this regard that in respect of branches/offices situated in Maharashtra, the information will be furnished by RRBs to the Chief General Manager, Rural Planning and Credit Department, Reserve Bank of India, Mumbai Regional Office, Garment House Worli, Mumbai - 400018.
+
+<!-- PAGE 2 -->
+
+5. Please acknowledge the receipt to our concerned Regional Office.
+## Yours faithfully
+
+(G.Srinivasan) Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Name of the Regional Rural Bank:__________________________
+
+**Particulars of Branches/Offices where there is a dispute relating to acquisition of premises on lease/rental basis**
+
+|Sl. No.|Name of Branch/Office|Exact Address of Branch/ Office|District/ State|Particulars of landlord/ landlady (Name, address, contact telephone number)|Nature of dispute In brief|Whether the matter is pending before a Court of Law; If so, brief particulars thereof|Remarks|
+|---|---|---|---|---|---|---|---|
+|||||Withdrawn||||

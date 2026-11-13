@@ -1,0 +1,136 @@
+---
+doc_id: "Circulars_2008_UBD_PCB_Cir_No_15_12_05_001_2008-09"
+title: "Display of Information relating to Interest Rates and Service Charges - Rates at a Quick Glance"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87055.PDF"
+pdf_sha256: "de40b87a7d35a5d3de408658c4540d1ca517057a295be1280053113440a12663"
+md_sha256: "625a02925b63d8c1af41a77467ed1178abf48816e25779b1d0c4a347fc8c63df"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:05:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-18_Circular_UBD.PCB.Cir.No.15-12.05.001-2008-09_Display%20of%20Information%20relating%20to%20Interest%20Rates%20and%20Service%20Charges%20-%20Rates%20at%20a%20Quick%20Glance.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Display of Information relating to Interest Rates and Service Charges - Rates at a Quick Glance
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/ 181 UBD. PCB. Cir. No. 15 /12.05.001/2008-09 September 18, 2008
+
+To
+
+Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## Display of information relating to
+
+## Interest Rates and Service Charges –
+
+## Rates at a quick glance
+
+Please refer to our Circular UBD. PCB. Cir. No. 10/12.05.001/2008-09 dated September 1, 2008 wherein we had forwarded to banks a format of Comprehensive Notice Board and advised them to display information in their branches as per the format given in the Circular. Further, banks were also advised to publish detailed information by way of booklets and also by placing them on their web- sites, if any.
+
+2. In this connection, we have devised a format for display of information relating to interest rates and service charges which would enable the customer to obtain the desired information at a glance. The format is given in the **Annex.** Banks are advised to display the information as per the format given in the Annex in their premises as well as post it on their web-sites. Banks are, however, free to modify the format to suit their requirements, without impairing the basic structure or curtailing the scope of disclosures.
+# Withdrawn
+
+3. Banks may also ensure that only latest updated information in the above format is displayed in the bank / branch premises and placed on their web-sites, if any and the same is easily accessible from the Home Page of their web-sites.
+## Yours faithfully
+
+(A. K. Khound) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Name of the Bank
+
+## RATES AT A QUICK GLANCE
+
+## AS ON ________________
+
+## Deposit Accounts
+
+## Rate of Interest Minimum Balance
+
+## Nature Senior Semi
+
+## Normal Rural Urban
+
+## <u>Citizen</u> Urban
+
+**Account**
+
+1. **Savings Bank A/c**
+A. Domestic
+a. With cheque book facility
+<u>b. Without cheque book facility</u>
+c. No Frills Account
+B. Non Resident
+a. NRO
+b. NRE
+2. **Term Deposits**
+A. Domestic Rate of Interest
+Upto & including For Deposits above Rs.15 Term Deposits (All Maturities) Rs.15 Lakhs <u>Lakhs but less than Rs.1.Crore</u>
+
+# <u>Withdrawn</u>
+
+B. Non-Resident Accounts
+a. NRO (All Maturities)
+b. NRE (All Maturities)
+Rate of Interest 1 year & 2 years & 3 years & 4 years & For 5 above but above but above but above but years <u>< 2 years < 3 years < 4 years < 5 years (Maximum)</u>
+
+c. FCNR(B)
+i) USD ii) GBP iii) EUR
+
+<!-- PAGE 3 -->
+
+|||iv) CAD||||||
+|---|---|---|---|---|---|---|---|
+|||v) AUD||||||
+|||Loans||Loans Rate of Interest|||Processing Charges|
+|1.||Housing Loan Floating Category Upto 5 years More than 5 Yrs & upto 10 Yrs More than 10 Yrs Fixed Category Upto 5 years More than 5 Yrs & upto 10 Yrs More than 10 Yrs|Upto Rs. _ lakhs|More than Rs.__ lakhs Upto Rs.__ lakhs|Above Rs.__ lakhs Upto Rs.__ lakhs|Above Rs.__ lakhs||
+|2.||Personal Loan (a) Consumer Durable Loan (b) Senior Citizen Loan Scheme (c) Personal Loan Scheme||Withdrawn||||
+||(d)|||||||
+|3.||Vehicle Loan (a) Two Wheeler Loans (b) Three Wheeler Loans (c) For New Cars (d) For Old Cars||||||
+|4.||Educational Loans|Upto Rs.4.00 lakhs Repayable in _ years|Repayable in more than _ years|Rs.4.00 lakhs upto Rs.20 lakhs Repayable in _ years|in more than _ years|Repayable For studies in India = For Studies Abroad =|
+
+<!-- PAGE 4 -->
+
+## Charges
+
+## Fee Based Services 1. Lockers
+
+## Metro / Urban/
+
+## Rural
+
+## Type <u>Semi Urban</u> of Locker
+
+## 1 2 3 1 2 3 yr yrs yrs yr. yrs yrs.
+
+## 2. Debit Cards
+
+International Debit Card.
+
+# Withdrawn
+
+## 3 Drafts / TT / MT
+
+Issue Cancellatiion **4 Outstation cheque collection**
+
+|5 NEFT Money Transfer|Inward =|Outward =|
+|---|---|---|
+|6. RTGS Money Transfer|Inward =|Outward =|
+|7. Cheque return charges|Outward Returns|Inward Returns|
+|For Savings Accounts|||
+|For Current, Overdraft|||
+
+Cash Credit Accounts Dishonour of outstation / local bills & cheques
+
+**8. Cheque Book Issue**
+**9.** No Dues Certificate

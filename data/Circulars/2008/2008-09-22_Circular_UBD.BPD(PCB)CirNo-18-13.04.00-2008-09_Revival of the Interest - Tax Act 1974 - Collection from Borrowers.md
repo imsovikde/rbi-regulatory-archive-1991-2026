@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2008_UBD_BPD_PCB_CirNo_18_13_04_00_2008-09"
+title: "Revival of the Interest - Tax Act 1974 - Collection from Borrowers"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87084.PDF"
+pdf_sha256: "95c464a40d7b4e62a39d1fda6039adf2e968308235809fdce027d854a8990c64"
+md_sha256: "19a9b4f212343480f55dce467e53b5cdde156d24e8b59ab8d2dc9959887b72ee"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:05:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-22_Circular_UBD.BPD%28PCB%29CirNo-18-13.04.00-2008-09_Revival%20of%20the%20Interest%20-%20Tax%20Act%201974%20-%20Collection%20from%20Borrowers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revival of the Interest - Tax Act 1974 - Collection from Borrowers
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/188 UBD.BPD (PCB) Cir No: 18 /13.04.00/2008-09 September 22, 2008
+
+Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+## Dear Sir
+
+## <u>Revival of the Interest –tax Act 1974-Collection from borrowers</u>
+
+Please refer to our circulars UBD (PCB)17/DC.(V.1).91/92 dated September 04, 1991 and UBD.No.PCB.CIR.5/13.04.00/97-98 dated August 11, 1997 on the above subject.
+
+2. The Hon'ble Supreme Court in its judgement dated April 16, 2004 has ordered that excess interest collected by the banks from the borrowers through rounding off the applicable interest rate should be recovered from the banks and be credited to a Trust to be created for the benefit of disadvantaged people. The Hon'ble Court had also directed that each concerned bank shall contribute to the extent of Rs.50 lakh to the said Fund. (Relevant extracts of Order of Supreme Court dated April 16, 2004 in Civil Appeal No. 4655 of 2004 and copy each of Government letters dated January 10, 2006, November 24, 2006 and February 5, 2008 in this regard are enclosed).
+3. Accordingly, UCBs are advised that excess amount realised, if any, from their borrowers towards interest tax by way of rounding off, may be deposited with the above referred Trust
+# Withdrawn
+
+Fund. The Ministry of Social Justice and Empowerment has opened Saving Bank Account No. 65012067356 with the State Bank of Patiala, Shastri Bhavan Branch, New Delhi in the name of the Trust. UCBs, which have realised excess amount from the borrowers, towards interest tax by way of rounding off to the next higher 0.25%, are liable to deposit the said amount to the Trust Fund.
+
+4. As regards contribution to the extent of Rs.50 lakh to the trust fund, it is for the UCBs concerned, which have collected excess amount, to decide depending upon the facts and circumstances of the case.
+5. UCBs are advised to report their compliance to the respective Regional Office of Reserve Bank.
+(**A.K. Khound**) Chief General Manager-in-Charge.

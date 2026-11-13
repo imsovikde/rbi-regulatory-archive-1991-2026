@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2008_DBOD_No_BP_BC_48_21_04_048_2008-09"
+title: "Prudential Norms on Utilisation of Floating Provisions - Agricultural Debt Waiver and Debt Relief Scheme, 2008"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87083.PDF"
+pdf_sha256: "1d0dd3beafdcfdad9870471a0bec7cfaf30c2aa2d9c795d7847ef2318c084929"
+md_sha256: "3461d33a3fb6dadeb2813e8a0ea4f7a0de3762b18b3fdcfcab71c0fe9bd62f54"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:05:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-22_Circular_DBOD.No.BP.BC.48-21.04.048-2008-09_Prudential%20Norms%20on%20Utilisation%20of%20Floating%20Provisions%20-%20Agricultural%20Debt%20Waiver%20and%20Debt%20Relief%20Scheme%2C%202008.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Utilisation of Floating Provisions - Agricultural Debt Waiver and Debt Relief Scheme, 2008
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/189 DBOD.No.BP.BC. 48 /21.04.048/2008-09 September 22, 2008
+
+The Chairman / CMD / MD / CEO All Scheduled Commercial Banks (including Local Area Banks) (Excluding RRBs)
+
+## Dear Sir
+
+## Prudential Norms on utilisation of Floating Provisions-Agricultural Debt Waiver and Debt
+
+## Relief Scheme, 2008
+
+Please refer to paragraph 5.6 of the Master Circular DBOD.No.BP.BC. 20/21.04.048/2008-09 dated July 1, 2008, on prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances, which stipulates the norms governing the utilisation of Floating Provisions by the banks.
+
+2. In terms of paragraph 2 (ix) (a) of the Annex to circular RPCD.No.PLFS.BC.73 /05.04.02/2007- 08 dated May 30, 2008, on Agricultural Debt Waiver and Debt Relief Scheme, 2008, lending institutions shall neither claim from the Central Government, nor recover from the farmer, interest in excess of the principal amount, unapplied interest, penal interest, legal charges, inspection charges and miscellaneous charges, etc. All such interest / charges will be borne by the lending institutions.
+3. In view of the extraordinary circumstances in which the banks are required to bear the interest/ charges mentioned at paragraph 2 above, it has been decided to allow the banks to utilise, at their discretion, the Floating Provisions held for ‘advances’ portfolio, only to the extent of meeting the interest /charges referred to in paragraph 2 above. The Floating Provisions should not, however, be utilised for meeting any other provisioning requirements without RBI’s prior approval, as
+# Withdrawn
+
+hitherto.
+
+## Yours faithfully
+
+## (P. Vijaya Bhaskar) Chief General Manager

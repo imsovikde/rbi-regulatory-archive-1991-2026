@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2008_UBD_BPD_AD_Cir_No_17_13_01_000_2008-09"
+title: "Interest Rate on FCNR (B) Deposits - UCBs (ADs)"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/87070.PDF"
+pdf_sha256: "d9ec9bdb94623c38f99bc4820de6e94c3ef4bc5acfa95039e2ae9827a09722c4"
+md_sha256: "d107437ec70fc4ed7fab9092ead1a1ed69f1dc3fa60f9fe6cbe8abc2d48c4877"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:05:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-19_Circular_UBD%20BPD.AD%20Cir%20No.17-13.01.000-2008-09_Interest%20Rate%20on%20FCNR%20%28B%29%20Deposits%20-%20UCBs%20%28ADs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate on FCNR (B) Deposits - UCBs (ADs)
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/185 UBD BPD. AD Cir No.17 /13.01.000/2008-09
+
+## September 19, 2008
+
+Chief Executive Officer of All AD Category-I UCBs
+
+## Dear Sir/Madam,
+
+## Interest Rate on FCNR (B) Deposits- UCBs (ADs)
+
+Please refer to UBD BPD. AD Cir No.2 /13.01.000/2006-07 dated April 26, 2007 on the captioned subject.
+
+2. On a review, it has been decided that until further notice and with effect from close of business in India as on September 16, 2008, the interest rates on FCNR (B) Deposits will be as under:
+3. In respect of FCNR (B) deposits of all maturities contracted effective from the close of business in India as on September 16, 2008, interest shall be paid within the ceiling rate of LIBOR / SWAP rates minus 25 basis points for the respective currency /corresponding maturities (as against LIBOR/ SWAP rates minus 75 basis points effective from close of business on April 24, 2007). On floating rate deposits, interest shall be paid within the ceiling of SWAP rates for the respective currency / maturity minus 25 basis points. For floating rate deposits, the interest reset period shall be six months Withdrawn.
+4. A Directive to this effect is enclosed. All other terms and conditions applicable to FCNR (B) deposits remain unchanged.
+5. Please acknowledge receipt to our Regional Office concerned.
+Yours faithfully,
+
+## (A. K. Khound)
+
+Chief General Manager in-Charge
