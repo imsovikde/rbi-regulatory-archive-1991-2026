@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2016_10804"
+title: "Closure of the scheme of exchange of  Specified Bank Notes (SBNs) at banks  on December 30th 2016- Accounting"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI2014364A1F24BCB43C88084BC75572FA855.PDF"
+pdf_sha256: "71e69e16d72daadddc1b8ca1b1983a61f49b710c9639a32c21b80c5d58386466"
+md_sha256: "973b4045162aa6c4efc1a5ded41892e2eb15a82a192627749ba6a6e52798d108"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-12-30_Notification_10804_Closure%20of%20the%20scheme%20of%20exchange%20of%20Specified%20Bank%20Notes%20%28SBNs%29%20at%20banks%20on%20December%2030th%202016-%20Accounting.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Closure of the scheme of exchange of  Specified Bank Notes (SBNs) at banks  on December 30th 2016- Accounting
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/201 DCM (Plg) No.2103/10.27.00/2016-17 December 30, 2016
+
+The Chairman / Managing Director / Chief Executive Officer Public Sector Banks / Private Sector Banks / Foreign Banks / Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-op Banks
+
+Dear Sir,
+
+## Closure of the scheme of exchange of Specified Bank Notes (SBNs) at banks on
+
+## December 30th 2016- Accounting
+
+Please refer to Para 3 (C) of our <u>Circular DCM (Plg) No.1226/10.27.00/2016-17 dated</u> <u>November 08, 2016</u> on “Withdrawal of Legal Tender Character of existing ₹ 500/- and ₹ 1000/- Bank Notes”.
+
+2. With the closure of the facility of exchange of SBNs as at the close of business on December 30, 2016, all banks should report information on collection of SBNs on December 30, 2016 itself at <u>email</u>. Banks should make arrangements to gather the information from all its branches accordingly.
+3. All bank branches (other than those of DCCBs) who have accumulated SBNs as at the close of business on December 30, 2016 are required to deposit the same in any Issue Office of the Reserve Bank or a currency chest **on December 31, 2016** itself.
+4. **SBNs cannot form part of banks’ cash balances from the close of business as on** **December 31, 2016.**
+5. However, DCCBs may retain the SBNs received between November 10 and 14, 2016 till receipt of further instructions. (Please refer to our circular DCM (Plg) No. 1294/10.27.00/2016-17 dated November 17, 2016 in this regard).
+
+<!-- PAGE 2 -->
+
+6. Banks maintaining currency chests may make necessary arrangements to facilitate the deposit of SBNs received through linked branches /other branches of banks /post offices. Reporting of the transactions in ICCOMS will be enabled beyond 9.00 PM till all the deposits are received and accounted for.
+7. To facilitate storage of SBNs, banks maintaining currency chests may utilise additional space in their existing currency chest or additional storage space at the same centre with the proviso that it is as safe and secure as a currency chest. Please refer to our circular DCM (Plg) No. 1294/10.27.00/2016-17 dated November 17, 2016 in this regard.
+8. Please acknowledge receipt. Yours faithfully, (P Vijaya Kumar) Chief General Manager

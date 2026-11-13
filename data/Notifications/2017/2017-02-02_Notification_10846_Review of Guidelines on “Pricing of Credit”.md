@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2017_10846"
+title: "Review of Guidelines on “Pricing of Credit”"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI219FBB3F22797C24AB59CB856334687ECA1.PDF"
+pdf_sha256: "3a4e568e9d9f8ec8eca1b3a68c5169ad5ff45c067e24858e5e395c60d25d820c"
+md_sha256: "5733122b3fc96cdff5fdb4d16224d8ad8751c266a0ffc42cccfbfaea404bb6d8"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-02-02_Notification_10846_Review%20of%20Guidelines%20on%20%E2%80%9CPricing%20of%20Credit%E2%80%9D.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Guidelines on “Pricing of Credit”
+
+<!-- PAGE 1 -->
+
+## RBI/2016-17/219 DNBR.CC.PD.No. 084/22.10.038/2016-17 February 02, 2017
+
+To
+
+All NBFC-MFIs,
+
+Madam/Sir,
+
+## Review of Guidelines on “Pricing of Credit”
+
+As per extant instructions on “Pricing of Credit” issued to NBFC-MFIS under “<u>Master</u> <u>Direction-Non-Banking Financial Company-Non-Systemically Important Non-Deposit</u> <u>taking Company (Reserve Bank) Directions, 2016</u>” and “<u>Master Direction-Non-Banking</u> <u>Financial Company-Systemically Important Non-Deposit taking Company and Deposit</u> <u>taking Company (Reserve Bank) Directions, 2016</u>” dated September 01, 2016, it has been advised that-
+
+“NBFC-MFIs shall ensure that the average interest rate on loans during a financial year does not exceed the average borrowing cost during that financial year plus the margin, within the prescribed cap.”
+
+2. Since average base rate of banks is published by RBI on quarterly basis, it has been decided to modify the above mentioned instructions as under: “NBFC-MFIs shall ensure that the average interest rate on loans sanctioned during a quarter does not exceed the average borrowing cost during the preceding quarter plus the margin, within the prescribed cap.”
+3. The “<u>Master Direction -Non-Banking Financial Company-Non-Systemically Important</u> <u>Non-Deposit taking Company (Reserve Bank) Directions, 2016</u>” and “<u>Master Direction -</u> <u>Non-Banking Financial Company-Systemically Important Non-Deposit taking Company</u> <u>and Deposit taking Company (Reserve Bank) Directions, 2016</u>” dated September 01, 2016 are being updated to reflect the changes.
+Yours faithfully,
+
+(C.D.Srinivasan) Chief General Manager

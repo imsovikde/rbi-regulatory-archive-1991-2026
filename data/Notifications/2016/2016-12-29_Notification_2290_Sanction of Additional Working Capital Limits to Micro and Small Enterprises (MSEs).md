@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2016_2290"
+title: "Sanction of Additional Working Capital Limits to Micro and Small Enterprises (MSEs)"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI200AC07DFD09E8E4039B41DB4EEA0318300.PDF"
+pdf_sha256: "3bdf2714f89a14dc795362834e17569f218e88adc48126638c63a103de75ac0a"
+md_sha256: "e1f76d23319ab4f3e14144140c5bd14e623437a8b5e4614fd5cc217829de261e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-12-29_Notification_2290_Sanction%20of%20Additional%20Working%20Capital%20Limits%20to%20Micro%20and%20Small%20Enterprises%20%28MSEs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sanction of Additional Working Capital Limits to Micro and Small Enterprises (MSEs)
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/200 FIDD.MSME & NFS.BC.No.20/06.02.31/2016-17 December 29, 2016
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Dear Sir / Madam,
+
+## Sanction of Additional Working Capital Limits to Micro and Small Enterprises (MSEs)
+
+Please refer to our <u>circular FIDD.MSME & NFS.BC.No.60/06.02.31/2015-16 dated August 27</u>, <u>2015</u> on ‘Streamlining flow of credit to Micro and Small Enterprises (MSEs) for facilitating timely and adequate credit flow during their ‘Life Cycle’. In terms of para 3 (ii) of the above circular, banks were advised, inter alia, to incorporate with their Boards’ approval, in their lending policy to MSEs, a clause for fixing a separate additional limit, at the time of sanction / renewal of working capital limits, specifically for meeting the temporary increase in working capital requirements arising mainly due to unforeseen / seasonal increase in demand for products produced by them. Banks have since confirmed to us having put such a policy in place.
+
+2. Consequent upon withdrawal of legal tender status of Specified Bank Notes (SBN) of ₹ 500 and ₹ 1000 denominations and based on feedback that some MSEs are facing temporary difficulties in carrying out their normal business due to cash flow mismatches, it has been decided to review the above instructions.
+3. Accordingly, banks are hereby advised that they may use the facility of providing above ‘additional working capital limit’ (approved by their boards as above) to their MSE borrowers, to overcome the difficulties arising out of such cash flow mismatches also. This would be a onetime measure up to March 31, 2017 and should thereafter be normalised in fresh working capital assessment cycle.
+4. Please acknowledge receipt. Yours faithfully, (A. Udgata) Principal Chief General Manager वित्तीय सावेिन औ विकेाविभेग,कन न्द्रीय स केय सेालय स,10 िी वंजिल,कें रीय स केय सेालय स भिऔ, हीद भगतसांह वेगा,पोस्टबॉक्ा ां. 10014,वंबई -400001 Financial Inclusion & Development Dept., Central Office,10th Floor, Central Office Building Shahid Bhagat SinghMarg, P.B.No.10014,Mumbai-1
+टनली Tel:022-22601000 फै क्ाः 91-22-22621011/22610943/22610948 ई-वनल : cgmincfidd@rbi.org.in
+
+||||ह िंदी आसान ै,इसका प्रयोग बढ़ाइए।||
+|---|---|---|---|---|
+|“चेतावनी|: ाेा द्ेकवब|बक र् ै। य धन ेाने या|रवाेा-डाक, एसएाएस या फोन कॉा के जद्ेए ककसी की भी व् यक्तितगत जानकाेी जैसे बक देने का प्रस् ताव भी न ीिं केता ै। ेसे प्रस् तावक का ककसी भी तेीके से जवाब ात दीक्तजए।|के ााते का ्यौेा, पासवडब आहद न ीिं ाािंगी जाती र् "|
+|Caution:|||RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.||
