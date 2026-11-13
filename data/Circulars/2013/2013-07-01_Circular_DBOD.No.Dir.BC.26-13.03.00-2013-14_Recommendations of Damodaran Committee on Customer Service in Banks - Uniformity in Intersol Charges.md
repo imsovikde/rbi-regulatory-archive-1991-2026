@@ -1,0 +1,62 @@
+---
+doc_id: "Circulars_2013_DBOD_No_Dir_BC_26_13_03_00_2013-14"
+title: "Recommendations of Damodaran Committee on Customer Service in Banks - Uniformity in Intersol Charges"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/510CRCC010713.PDF"
+pdf_sha256: "e44cdde84b397b38f8da9cfa3245ab1d06b1ef85700cc93846e0ee0f846539c2"
+md_sha256: "e5ba8e3f2b07de40283a03e34f2053ae231cfe20ac382bcb3229bb19cf06796b"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:58:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-07-01_Circular_DBOD.No.Dir.BC.26-13.03.00-2013-14_Recommendations%20of%20Damodaran%20Committee%20on%20Customer%20Service%20in%20Banks%20-%20Uniformity%20in%20Intersol%20Charges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Recommendations of Damodaran Committee on Customer Service in Banks - Uniformity in Intersol Charges
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक __________ RESERVE BANK OF INDIA__________
+
+<u>www.rbi.org.in</u> RBI/ 2013-14/110 DBOD. No. Dir. BC. 26/13.03.00/ 2013-14 July 1, 2013
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+### Dear Sir/ Madam
+
+### Recommendations of Damodaran Committee on Customer Service in Banks-Uniformity in Intersol Charges
+
+Please refer to paragraph 74 of the Monetary Policy Statement 2013-14 announced on May 3, 2013 (extract enclosed) on ‘Recommendations of Damodaran Committee- Uniformity in Intersol Charges’.
+
+2. In this connection, a reference is also invited to our <u>circular DBOD. No. Dir. BC. 56/</u>
+# <u>Withdrawn</u>
+
+<u>13.03.00/ 2006-2007 dated February 2, 2007</u> on ‘Report of the Working Group to Formulate a Scheme for Ensuring Reasonableness of Bank Charges’ whereby banks were advised to identify basic services on the basis of broad parameters indicated by the Working Group constituted by Reserve Bank of India for the purpose and the principles to be adopted/ followed by them for ensuring reasonableness in fixing and communicating the service charges for the basic banking services.
+3. With the introduction of Core Banking Solution (CBS), it is expected that customers of banks would be treated uniformly at any sales or service delivery point. It is, however, observed that some banks are discriminating against their own customers on the basis of one branch being designated as the ‘home’ or ‘base’ branch where charges are not levied for products/ services and other branches of the same bank being referred to as ‘non-home’ branches where charges are levied for the same products/ services. The charges generally referred to as ‘Intersol’ charges, are also not uniform across home/
+
+<!-- PAGE 2 -->
+
+non-home branches. This practice followed by some banks is contrary to the spirit of the Reserve Bank’s guidelines on reasonableness of bank charges. As ‘Intersol’ charges are charges levied by the bank to cover the cost of extending services to customers by using the CBS/Internet/Intranet platform, the cost should be branch/customer agnostic in- principle. It is clarified that cash handling charges may not be included under intersol charges.
+
+4. In order to ensure that bank customers are treated fairly and reasonably without any discrimination and in a transparent manner at all branches of banks/service delivery locations under CBS environment, banks are advised to follow a uniform, fair and transparent pricing policy and not discriminate between their customers at home branch and non-home branches. Accordingly, if a particular service is provided free at home branch the same should be available free at non home branches also. There should be no discrimination as regards intersol charges between similar transactions done by customers at home branch and those done at non-home branches. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager Withdrawn
+## Encl: As above
+
+माग, मुबई 400001
+
+||बैकं ग परचालन|और वकास|वभाग, क िय|कायालय, 13 माला, शहद||भगतिसंह|
+|---|---|---|---|---|---|---|
+|_____________________________________________________________________________________________________|||||||
+|Department of Banking Operations and Development, Central Office, 13|/Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in||हंद आसान|400001 है, इसका|floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - ूयोग बढ़ाइए||
+
+th
+
+<!-- PAGE 3 -->
+
+## Extract of Monetary Policy Statement 2013-14
+
+74. With the introduction of Core Banking Solution (CBS), it is expected that customers of banks would be treated uniformly at any sales or service delivery point. It is observed, however, that some banks are discriminating against their own customers on the basis of one branch being designated as the ‘home branch’ where charges are not levied for products/services and other branches being referred to as ‘non-home’ branches where charges are levied for the same products/services. This practice is contrary to the spirit of the Reserve Bank’s guidelines on reasonableness of bank charges. With a view to ensuring that bank customers are treated fairly and reasonably without any discrimination and in a transparent manner at all branches of banks/service delivery locations, banks are advised to:
+- follow a uniform, fair and transparent pricing policy and not discriminate between their customers at home branch and non-home branches. Detailed guidelines will be issued by end-June 2013.
+# Withdrawn
