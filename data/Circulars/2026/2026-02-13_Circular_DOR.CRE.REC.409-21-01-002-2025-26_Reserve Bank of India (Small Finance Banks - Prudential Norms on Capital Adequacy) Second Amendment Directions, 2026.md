@@ -1,0 +1,47 @@
+---
+doc_id: "Circulars_2026_DOR_CRE_REC_409_21-01-002_2025-26"
+title: "Reserve Bank of India (Small Finance Banks - Prudential Norms on Capital Adequacy) Second Amendment Directions, 2026"
+category: "Circulars"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2189798F01292CA4F6696F6796717C628A7.PDF"
+pdf_sha256: "55909ca2cc9ddcbdefff957c33c5d2b03ba4926ce77ce1abfd586534461affee"
+md_sha256: "e16209ae564c444671724a3c6f57dcf3b7d5adc2bf9465e887fe4c4764e4e05b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:59:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-02-13_Circular_DOR.CRE.REC.409-21-01-002-2025-26_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20-%20Prudential%20Norms%20on%20Capital%20Adequacy%29%20Second%20Amendment%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Small Finance Banks - Prudential Norms on Capital Adequacy) Second Amendment Directions, 2026
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बैंक
+
+_________________________ **RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2025-26/218 DOR.CRE.REC.409/21-01-002/2025-26 February 13, 2026
+
+### Reserve Bank of India (Small Finance Banks - Prudential Norms on Capital
+
+### Adequacy) Second Amendment Directions, 2026
+
+Please refer to the <u>Reserve Bank of India (Small Finance Banks – Prudential Norms</u> <u>on Capital Adequacy) Directions, 2025</u> (hereinafter referred to as ‘the **Directions**’).
+
+2. On a review, consequent to the issuance of the <u>Reserve Bank of India (Small</u> <u>Finance Banks – Credit Facilities) Amendment Directions, 2026</u> and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949 and all other laws enabling the Reserve Bank of India (hereinafter called the Reserve Bank) in this regard, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified.
+3. The Amendment Directions modify paragraph 74(6) in ‘Chapter IV-Risk weighted assets (RWAs)’ of the Directions as under:
+# Withdrawn
+
+“Issue of irrevocable payment commitment by a bank to clearing corporations of stock exchanges on behalf of its client is a financial guarantee with a CCF of 100 per cent. However, capital shall be maintained only on the exposure reckoned as capital market exposure (CME) in terms of paragraph of the <u>Reserve Bank of India (Small Finance Banks -Concentration Risk</u> <u>Management) Directions, 2025</u>. Thus, capital is to be maintained on the amount taken for CME and the risk weight shall be 125 per cent thereon.”
+
+व�नयमन वभाग, कें द्रय कायार्लय, कें द्र य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान ह, इसका �योग बड़ाइए
+
+<!-- PAGE 2 -->
+
+4. The above amendment shall come into force from the date a bank decides to implement the provisions of the <u>Reserve Bank of India (Small Finance Banks – Credit</u> <u>Facilities) Amendment Directions, 2026</u> or from April 1, 2026, whichever is earlier. (Vaibhav Chaturvedi) Chief General Manager
+# Withdrawn
