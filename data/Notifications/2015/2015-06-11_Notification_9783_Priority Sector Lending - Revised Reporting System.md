@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2015_9783"
+title: "Priority Sector Lending - Revised Reporting System"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CI639E367D7FC3AE6447CA0A82D40DDC8218B.PDF"
+pdf_sha256: "c75bcd27ede3270bf6abf8f23743e3cf91d04a31a451f8cfe0bae6208fd8230d"
+md_sha256: "4c0b8f955e8f1a8fc921a3f53a38ad3b9f36562c5a3882441e9768d17d89e3fd"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:51:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-06-11_Notification_9783_Priority%20Sector%20Lending%20-%20Revised%20Reporting%20System.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending - Revised Reporting System
+
+<!-- PAGE 1 -->
+
+**भारतीय �रज़वर् बक** **----------------------RESERVE BANK OF INDIA-----------------** **www.rbi.org.in** RBI/2014-15/639 FIDD.CO.Plan.BC.No.58/04.09.001/2014-15 June 11, 2015
+
+The Chairman / Managing Director / Chief Executive Officer [All scheduled commercial banks (excluding regional rural banks)]
+
+Madam/Dear Sir,
+
+## <u>Priority Sector Lending-Revised Reporting System</u>
+
+As you are aware, priority sector guidelines have been revised vide <u>circular</u> <u>FIDD.CO.Plan.BC.54/04.09.01/2014-15 dated April 23, 2015</u>, wherein it was advised that separate guidelines relating to priority sector data reporting system will be issued in due course. Accordingly, it has been decided to revise our <u>circular</u> <u>RPCD.CO.Plan.BC.56/04.09.01/2012-13 dated January 7, 2013</u> on the captioned subject. It has also been decided to discontinue Monthly Statement on Priority Sector Advances and Sectoral Deployment of Credit.
+
+2. The banks are, therefore, requested to furnish data on priority sector advances, as mentioned above, in the enclosed revised formats. The revised <u>quarterly</u> and <u>yearly</u> statements should be furnished to Reserve Bank of India, Financial Inclusion and Development Department, Statistics Division, Central Office, 3rd floor, Amar Building, Fort, Mumbai 400001, within fifteen days and one month, respectively, from the reference date starting from June 2015 for quarterly statement and March 31, 2016 for the yearly one. Yours faithfully, � व त् त ी य समावेशन और �वकास �वभाग**,** के न्य कायार्लय**,10** वी मं�जल**,** क य कायार्लय भवन**,** शहद भगतिसंह मागर्**,**पोस्ट बॉक्स सं. **10014,**मुंबई**-**400001 **Financial Inclusion & Development Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh** **Marg,P.B.No.10014,Mumbai-1** टेली Tel**:022-22601000** फै क्सः **91-22-22621011/22610943/22610948** ई**-**मेल **: cgmincfidd@rbi.org.in**
+
+|||�हंद आसान|है,इसका प्रयोग बढ़ाइए।|
+|---|---|---|---|
+|“चेतावनी|: मेल �रज़वर् बक ारा-डाक,|है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का �कसी|एसएमएस या फोन कॉल के ज�रए �कसी क भी व् य��गत जानकार जैसे बक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती भी तरके से जवाब मत दिजए। "|
+|Caution:||keeps or offers funds to anyone. Please do not respond in any manner to such offers.|RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|
+
+<!-- PAGE 2 -->
+
+P.Manoj (Deputy General Manager)

@@ -1,0 +1,73 @@
+---
+doc_id: "Notifications_2015_9717"
+title: "Ready Forward Contracts in Corporate Debt Securities"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR5952890C4F94DAB48389C2443088A80E6DD.PDF"
+pdf_sha256: "e2922c5e716aa2e798a85d23466e3c08d553bf9d57014e4ba008cb73e95c3128"
+md_sha256: "38083625a9e6a1355eecdbcb582cb18a57346a2345fe8c7829f42a4a399a0547"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:51:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-05-14_Notification_9717_Ready%20Forward%20Contracts%20in%20Corporate%20Debt%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Ready Forward Contracts in Corporate Debt Securities
+
+<!-- PAGE 1 -->
+
+**This circular has been superseded by** <u>Repurchase Transactions (Repo) (Reserve Bank)</u> <u>Directions, 2018 dated July 24, 2018</u>**.**
+
+RBI/2014-15/595 FMRD.DIRD.08/14.03.002/2014-15 May 14, 2015
+
+## To All Market Participants
+
+## Ready Forward Contracts in Corporate Debt Securities
+
+A reference is invited to our <u>circular FMRD.DIRD.04/14.03.002/2014-15 dated February</u> <u>3, 2015</u> enclosing the Repo in Corporate Debt Securities (Reserve Bank) Directions,
+
+2015. As indicated under paragraph 4 of the Directions, the following entities are eligible to enter into ready forward contracts in corporate debt securities:
+i. Any scheduled commercial bank excluding RRBs and LABs; ii. Any Primary Dealer authorised by the Reserve Bank of India; iii. Any non-banking financial company registered with the Reserve Bank of India (other than Government companies as defined in sub-section (45) of section 2 of the Companies Act, 2013); iv. All-India Financial Institutions, namely, Exim Bank, NABARD, NHB and SIDBI;
+v. India Infrastructure Finance Company Limited (IIFCL)**;** vi. Any scheduled urban cooperative bank subject to adherence to conditions prescribed by Reserve Bank of India; vii. Other regulated entities, subject to the approval of the regulators concerned, viz.,
+a) Any mutual fund registered with the Securities and Exchange Board of India;
+b) Any housing finance company registered with the National Housing Bank; and
+c) Any insurance company registered with the Insurance Regulatory and Development Authority
+
+<!-- PAGE 2 -->
+
+viii. Any other entity specifically permitted by the Reserve Bank.
+
+2. It has now been decided to permit NBFCs registered with RBI including Government companies as defined in sub-section (45) of section 2 of the Companies Act, 2013 which adhere to the prudential norms prescribed for NBFCs by the Department of Non-Banking Regulation, Reserve Bank of India, to undertake ready forward contracts in corporate debt securities.
+3. The directions (Repo in Corporate Debt Securities (Amendment) Directions
+2015) issued in this regard vide FMRD.DIRD.07/14.03.002/2014-15 dated May 14, 2015 are enclosed. The modifications shall be deemed to be effective from May 14, 2015.
+Yours faithfully,
+
+(R. Subramanian) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## FINANCIAL MARKETS REGULATION DEPARTMENT rd
+
+## 23 FLOOR CENTRAL OFFICE
+
+## FORT MUMBAI 400 001
+
+## Mumbai, May 14, 2015
+
+**Repo in Corporate Debt Securities (Amendment) Directions, 2015**
+
+In exercise of the powers conferred by Section 45 W of the Reserve Bank of India Act, 1934 and in partial modification of the <u>notification No FMRD.DIRD.03/14.03.002/2014-</u> <u>15 dated February 3, 2015</u>, the Reserve Bank hereby makes the following amendments in the Repo in Corporate Debt Securities (Reserve Bank) Directions, 2015 dated February 3, 2015 (hereinafter referred to as the said Directions) namely:
+
+1. Short title and commencement:
+(i) These directions may be called the Repo in Corporate Debt Securities (Amendment) Directions, 2015
+th (ii) They shall be deemed to come into force with effect from the 14 day of May, 2015.
+
+2. In paragraph 4, for item (c), the following shall be substituted, namely:
+“(c) Any non-banking financial company registered with the Reserve Bank of India, including Government companies as defined in sub-section (45) of section 2 of the Companies Act, 2013, which adhere to the prudential norms for NBFCs prescribed by Department of Non-Banking Regulation, Reserve Bank of India from time to time” **(G. Padmanabhan) Executive Director**
+
+## Ref. FMRD.DIRD.07/14.03.002/2014-15

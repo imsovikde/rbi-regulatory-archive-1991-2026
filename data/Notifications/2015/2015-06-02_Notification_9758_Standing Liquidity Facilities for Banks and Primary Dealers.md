@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2015_9758"
+title: "Standing Liquidity Facilities for Banks and Primary Dealers"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR621FA67C51C4F1A46E89AD4619A3C4193F0.PDF"
+pdf_sha256: "114e67ff517244cc36405a2f7c645ad98018b3415e92bd85e8431bfb7c524da2"
+md_sha256: "160f69c1c524f24c8a5fb75f285b8a8948527a0c4237539f610edfd1a981dd89"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:51:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-06-02_Notification_9758_Standing%20Liquidity%20Facilities%20for%20Banks%20and%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standing Liquidity Facilities for Banks and Primary Dealers
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/621 Jyeshtha 12,1937(Saka) REF.No.MPD.BC.378/07.01.279/2014-15 June 2, 2015
+
+To All Scheduled Banks [excluding Regional Rural Banks (RRBs)] and Primary Dealers
+
+Dear Sir/Madam,
+
+## Standing Liquidity Facilities for Banks and Primary Dealers
+
+Please refer to the <u>Second Bi-monthly Monetary Policy Statement, 2015 -</u> <u>16 by Dr. Raghuram G. Rajan, Governor dated June 2, 2015</u>, in terms of which the repo rate under the Liquidity Adjustment Facility (LAF) has been reduced by 25 basis points from 7.5 per cent to 7.25 per cent with immediate effect.
+
+2. Accordingly, the Standing Liquidity Facilities provided to Primary Dealers (PDs) (collateralised liquidity support) from the Reserve Bank would be available at the revised repo rate, *i.e.,* at 7.25 per cent with effect from June 2, 2015. 3 As per the <u>circular No. MPD.BC.376/07.01.279/2014-15 dated February 3,</u> <u>2015</u>, the Export Credit Refinance (ECR) facility was merged with the system level liquidity provision with effect from February 7, 2015, but refinancing availed up to February 6, 2015 may continue till its maturity. In consonance with the reduced LAF repo rate, the interest rate applicable to outstanding ECR will be at the revised rate of 7.25 per cent with effect from June 2, 2015.
+Yours faithfully,
+
+## (B.K. Bhoi)
+
+## Adviser-in- Charge

@@ -1,0 +1,71 @@
+---
+doc_id: "Notifications_2015_9793"
+title: "The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Operational Guidelines"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CR6455370D91415114973AAF801B93C3F751A.PDF"
+pdf_sha256: "4b6851a59a4926b5788ebef7c62b8ed0807f843927c48f0000d858ccea925edd"
+md_sha256: "2c5a6f5d0edb3ee4a84b0d8257e8c754c14ed74c5143ce7dece8897758f434f8"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:51:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-06-18_Notification_9793_The%20Depositor%20Education%20and%20Awareness%20Fund%20Scheme%2C%202014%20%E2%80%93Section%2026A%20of%20Banking%20Regulation%20Act%2C%201949-%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Operational Guidelines
+
+<!-- PAGE 1 -->
+
+भारतीय ररज़र्व बैंक **_________________RESERVE BANK Of INDIA ___________________** <u>www.rbi.org.in</u> RBI/2014-15/645 DBR.No.DEAF Cell.BC.105/30.01.002/2014-15 June 18, 2015
+
+The Chairman and Managing Director / Chief Executive Officers All Scheduled Commercial Banks (including RRBs) and LABs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks Dear Sir/Madam,
+
+## The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of
+
+## Banking Regulation Act, 1949- Operational Guidelines
+
+Please refer to instructions contained in paragraph 4 of the <u>circular DBOD.No.DEAF</u> <u>Cell.BC.114/30.01.002/2013-14 dated May 27, 2014</u> regarding returns to be submitted to RBI in connection with the captioned Scheme.
+
+2. Since there is a considerable overlap between Form I and Form II, it has been decided to club Form I and Form II together in a new form, “Form I & II” as annexed. The periodicity, the last date of submission and all other instructions contained in paragraphs 4 and 5 of the said circular dated May 27, 2014, as applicable to the existing Form II, will be applicable to the new “Form I & II”. Yours faithfully, (Rajinder Kumar) Chief General Manager
+## Encl: As above
+
+Department of Banking Regulation **,**Central Office **,**Central Office Building, 12 th Floor **,**Shahid Bhagat Singh Marg, Fort **,**Mumbai – 400 001 Phone: 022-2266 1602, Fax: 022-2270 5691, E-mail: <u>cgmicdbodco@rbi.org.in</u>, Website: www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+# Form I & II
+
+Monthly Return of unclaimed deposits/credits/ accounts/ in India which have not been operated upon/remaining unclaimed for 10 years or more as on the date of the return and transferred to **th** the DEAF Account. **(To be submitted to the Reserve Bank by 15 of the succeeding** **month)**
+
+## Name of the bank __________________________
+
+**Bank DEAF Code allotted by RBI**-------------------------------------------------
+
+## If remitted through sponsor bank Name of the Sponsor Bank ---------------------------------------------------------Month ______ Year__________
+
+## Date of Transfer to the Fund-
+
+## <u>(Amount in Rupees)</u>
+
+|Sr. No|Particulars|Interest bearing Deposits||Non-interest bearing Deposits||Other Credits (Non- interest bearing)||Total||
+|---|---|---|---|---|---|---|---|---|---|
+|1 2 3 4 5 6|Opening balance of accounts transferred to the Fund at the beginning of the month. Accounts, if any, inadvertently omitted in the previous month and transferred during this month. Accounts transferred to the Fund during this month. (Other than those reported at 2). Claims settled and refund received from the Fund during this month (only the principal amount to be mentioned). Net amount transferred to the Fund during the month. (2+3-4) Total amount with the Fund at the end of the ….…(month) 20 …..(1+5)|(a) Number of Accounts|Amount|(b) Number of Accounts|Amount|(c) Number of Accounts|Amount|(d) = (a) + (b) + (c) Number of Accounts|Amo unt|
+
+<!-- PAGE 3 -->
+
+## Signature:
+
+## Name:
+
+## Designation of Officer (With Stamp):
+
+## Place:
+
+## Date:
+
+**Certificate- Details given above are true as per the records of the bank and verified by me** **and found to be correct.**
+
+## Signature: Name of Concurrent Auditor (With Stamp): Address:
