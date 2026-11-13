@@ -1,0 +1,50 @@
+---
+doc_id: "Circulars_2013_RPCD_CO_RCB_BC_No_43_07_51_013_2013-14"
+title: "Housing Sector : Innovative Housing Loan Products - Upfront Disbursal of Housing Loans"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRRCB08102013.PDF"
+pdf_sha256: "7bea7835e65f4ede34bc4a48bae5a0969bf0f7c1e5ce37ee810015669a9ba23b"
+md_sha256: "610aecc28efbd0afc566b46c1805b8fd84ee9fdb799949dd4d05b93e3c7457fc"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:06:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-10-08_Circular_RPCD.CO.RCB.BC.No.43-07.51.013-2013-14_Housing%20Sector%20-%20Innovative%20Housing%20Loan%20Products%20-%20Upfront%20Disbursal%20of%20Housing%20Loans.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Housing Sector : Innovative Housing Loan Products - Upfront Disbursal of Housing Loans
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **-----------------RESERVE BANK OF INDIA------------------ www.rbi.org.in** RBI/2013-14/320 RPCD.CO.RCB.BC.No.43/07.51.013/2013-14 October 8, 2013
+
+The Chairman All State and Central Co-operative Banks (StCBs and CCBs) Dear Sir, <u>Housing Sector: Innovative Housing Loan Products – Upfront disbursal of housing loans</u>
+
+It has been observed that some banks have introduced certain innovative Housing Loan Schemes in association with developers/builders, e.g. upfront disbursal of sanctioned individual housing loans to the builders without linking the disbursals to various stages of construction of housing project, interest/EMI on the housing loan availed of by the individual borrower being serviced by the builders during the construction period/specified period, etc. This might include signing of tripartite agreements between the bank, the builder and the buyer of the housing unit. These loan products are popularly known by various names like 80:20, 75:25 Schemes.
+
+2. Such housing loan products are likely to expose the banks as well as their home loan borrowers to additional risks e.g. in case of disputes between individual borrowers and developers/builders, default/delayed payment of interest/EMI by the developer/builder during the agreed period
+# Withdrawn
+
+on behalf of the borrower, non-completion of the project on time, etc. Further, any delayed payments by developers/builders on behalf of individual borrowers to banks may lead to lower credit rating/scoring of such borrowers by credit information companies (CICs) as information about servicing of loans gets passed on to the CICs on a regular basis. In cases where bank loans are also disbursed upfront on behalf of their individual borrowers in a lump-sum to builders/developers without any linkage to stages of construction, banks run disproportionately higher exposures with concomitant risks of diversion of funds.
+
+3. In view of the higher risks associated with such lump-sum disbursal of sanctioned housing loans and customer suitability issues, StCBs and CCBs are advised that
+
+|मामीण आयोजना और||ऋण वभाग,क िय कायालय, 10वीं||मंज़ल,क िय|कायालय ब��डंग,शहद|भगत|िसंह माग,पो.बा.सं.10014,मुंबई||400 001|
+|---|---|---|---|---|---|---|---|---|---|
+|||टेलीफोन:Tel No.: 022-22610261/ फै स: 022-22610943 ईमेल: audgata@rbi.org.in||||||||
+|Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001|||हंद आसान है, इसका|ूयोग|बढ़ाइए|||||
+|चेतावनी : Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रज़व बक ारा मेल-डाक, जाती|एसएमएस है। यह धन रखने|या फोन कॉल या देने का ूःताव भी|के जरए कसी क नहं करता|भी �य�गत है। ऐसे ूःताव|जानकार जैसे का कसी भी तरके|बक के खाते का से जवाब|�यौरा, पासवड मत द�जए।|आद नहं मांगी|
+
+<!-- PAGE 2 -->
+
+disbursal of housing loans sanctioned to individuals should be closely linked to the stages of construction of the housing project/houses and upfront disbursal should not be made in cases of incomplete/under-construction/green field housing projects.
+
+4. It is emphasized that StCBs / CCBs while introducing any kind of product should take into account the customer suitability and appropriateness issues and also ensure that the borrowers/ customers are made fully aware of the risks and liabilities under such products.
+## Yours faithfully
+
+(A. Udgata) Principal Chief General Manager
+
+# Withdrawn

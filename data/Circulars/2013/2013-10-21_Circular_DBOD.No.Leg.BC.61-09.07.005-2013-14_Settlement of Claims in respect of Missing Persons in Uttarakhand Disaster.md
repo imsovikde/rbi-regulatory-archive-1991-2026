@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2013_DBOD_No_Leg_BC_61_09_07_005_2013-14"
+title: "Settlement of Claims in respect of Missing Persons in Uttarakhand Disaster"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CID211013FR.pdf"
+pdf_sha256: "debf0c0c5ccbe58b855fbc46a1dcb87fbab37d901a81da00b9c9fafa63954864"
+md_sha256: "f0cd80e58138c54a3bef098fd85479cfa58bde9d9a8162e6cc4367e3d2ca71b2"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:06:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-10-21_Circular_DBOD.No.Leg.BC.61-09.07.005-2013-14_Settlement%20of%20Claims%20in%20respect%20of%20Missing%20Persons%20in%20Uttarakhand%20Disaster.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Settlement of Claims in respect of Missing Persons in Uttarakhand Disaster
+
+<!-- PAGE 1 -->
+
+भारतीय िरजवर् बैंक
+
+# ___________RESERVE BANK OF INDIA____________
+
+www.rbi.org.in RBI/2013-14/331 DBOD.No.Leg.BC. 61 /09.07.005/2013-14 October 21, 2013 All Scheduled Commercial Banks (excluding RRBs) Dear Sir/Madam, **Settlement of Claims in respect of Missing Persons in Uttarakhand Disaster** In the aftermath of Uttarakhand Natural Disaster during June 14-20, 2013 the Office of the Registrar General of India, Ministry of Home Affairs, Government of India has devised a procedure for Registration of Death of Missing persons in Natural Calamities affected areas in Uttarakhand vide its circular F.No. 1/2/(Uttarakhand)/2011-VS-CRS dated August 16, 2013 (MHA Circular). A copy of MHA Circular is <u>enclosed</u> for reference. The MHA Circular has devised detailed procedure for registration and issue of ‘Death Certificate’ of a person reportedly missing since his/her visit to the site of disaster in Uttarakhand in June 2013.
+
+2. In view of the above, banks are advised to settle the claims in respect of missing persons, covered by MHA Circular, without insisting on production of any documentation other than (i) the ‘Death Certificate’ issued by the Designated Officer under MHA Circular and (ii) letter of indemnity.
+3. Banks are further advised that the provisions of <u>Circular</u> <u>DBOD.No.Leg.BC.80/09.07.005/2007-08 dated May 2, 2008</u> on ‘Settlement of claims in respect of missing persons’ would be applicable in other cases which are not covered by MHA Circular. Yours faithfully, (Rajesh Verma) Chief General Manager ___________________________________________________________________________
+
+|बैंिकं ग पिरचालन|और िवकास|िवभाग,|कें िीय कायार्लय, 12 वी|भवन, शहीद|भगतिसंह|
+|---|---|---|---|---|---|
+||||Marg,, Mumbai,400001|||
+|टेलीफ़ोन/Tel No:91-22-22661602 फ़ै क्स/Fax No:91-22-22705691 Email ID:cgmicdbodco@rbi.org.in||||||
+
+मंिजल**,** कें िीय कायार्लय मागर् मुंबई 400001 Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh

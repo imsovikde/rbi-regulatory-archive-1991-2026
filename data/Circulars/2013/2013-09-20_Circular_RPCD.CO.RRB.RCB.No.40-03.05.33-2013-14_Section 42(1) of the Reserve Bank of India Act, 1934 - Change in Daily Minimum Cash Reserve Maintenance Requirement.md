@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2013_RPCD_CO_RRB_RCB_No_40_03_05_33_2013-14"
+title: "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR95CR22092013.PDF"
+pdf_sha256: "357feca70e4a3f32bd7ecc1a38db4b8eb52e6fe31604262ae2b620a842d89ba7"
+md_sha256: "7850b8efe1be386caa1be2890d0aa5bd31fe5bff220f1692f1154f2bade95eab"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:06:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-09-20_Circular_RPCD.CO.RRB.RCB.No.40-03.05.33-2013-14_Section%2042%281%29%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20-%20Change%20in%20Daily%20Minimum%20Cash%20Reserve%20Maintenance%20Requirement.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/288 RPCD.CO.RRB.RCB.No.40 /03.05.33/2013-14 September 20, 2013
+
+All Scheduled State Cooperative Banks/ Regional Rural Banks
+
+Dear Sir,
+
+## Section 42(1) of the Reserve Bank of India Act, 1934 – Change in
+
+## Daily Minimum Cash Reserve Maintenance Requirement
+
+Please refer to our <u>Circular RPCD.CO.RRB.No.16/03.05.33/2013-14 dated July 24, 2013</u> on the captioned subject.
+
+2. As announced in the <u>Press Release 2013-14/604 dated September 20, 2013</u>, it has been decided to reduce the minimum daily maintenance of the Cash Reserve Ratio from 99 per cent of the requirement to 95 per cent effective from the fortnight beginning September 21, 2013.
+## Yours faithfully,Withdrawn
+
+(A.Udgata) Principal Chief General Manager
+
+ामीण आयोजना और ऋण िवभाग,,कीय कायार्लय, 10व मंिज़ल,कीय कायार्लय भवन,,शहीद भगत िसह मागर्,पो.बा.स.10014,म ं ुंबई 400 001 टेलीफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22619048 ईमेल E-mail: cgmicrpcd@rbi.org.in Rural Planning & Credit Departmen<u>t,Central Office,10th Floor,Ce</u>ntral Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400001 <u>िहदी आसान ह, इसका योग बढ़ाइए</u> ै चेतावनी: रज़व बक ारा ई-मेल, डाक**,** एसएमएस या फोन कॉल के जरए कसी क भी ����गत जानकार जैसे बक के खाते का �यौरा**,** पासवड आद
+
+|चेतावनी: रज़व|बक ारा ई-मेल, डाक,|एसएमएस|या फोन कॉल|के जरए कसी|क भी ����गत|जानकार|जैसे बक के खाते|का �यौरा,|पासवड आद|
+|---|---|---|---|---|---|---|---|---|---|
+|नह ं मांगी Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|जाती है। यह|धन रखने या देने|का ूःताव भी|नहं करता है। ऐसे|ूःताव|का कसी भी तरके|से जवाब मत|���जए।||
