@@ -1,0 +1,421 @@
+---
+doc_id: "Master-Circulars_2010_5760"
+title: "Master Circular on Finance For Housing Schemes-UCBs"
+category: "Master-Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/44MCHF2400610.PDF"
+pdf_sha256: "ee60e089b9f438947275388b814e71bc95c14a2d827d057214930b7e7256e6f3"
+md_sha256: "8df7e36702f8bab287caa1c028397f8e65376b4687f2ca95cd5b7ab640cfac59"
+total_pages: 17
+native_pages: 17
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T11:28:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2010/2010-07-01_Master-Circular_5760_Master%20Circular%20on%20Finance%20For%20Housing%20Schemes-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular on Finance For Housing Schemes-UCBs
+
+<!-- PAGE 1 -->
+
+Yeejler³e fjeJeõ yeQkeÀ **_____________________RESERVE BANK OF INDIA___________________ www.rbi.org.in**
+
+RBI/2010-11/44 UBD.PCB. MC. No. 2 /09.22.010/2010-11 July 1, 2010
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## <u>Master Circular on Finance For Housing Schemes-UCBs</u>
+
+Please refer to our <u>Master Circular UBD.PCB. MC. No. 2 / 09.22.010 /2009-10 dated</u> <u>July 1, 2009</u> on the captioned subject (available at RBI website www.rbi.org.in)<u>.</u> The enclosed Master Circular consolidates and updates all the instructions / guidelines on the subject up to June 30, 2010.
+
+# Withdrawn
+
+Yours faithfully,
+
+(Uma Shankar) Chief General Manager Encl: As above
+
+Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbicgmic@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## MASTER CIRCULAR
+
+## FINANCE FOR HOUSING SCHEMES
+
+## CONTENTS
+
+1. General .. .. .. .. .. .. .. .. .. 1
+2. Eligible Category of Borrowers .. .. .. .. .. .. 1
+3. Eligible Housing Schemes .. .. .. .. .. .. 1
+
+4. .. .. .. ..	2
+4.1 Maximum Loan Amount & Margins .. .. .. .. ..	2
+4.2 Interest .. .. .. .. .. .. .. ..	3
+4.3 Charging of Penal Interest .. .. .. .. .. ..	3
+4.4 Security .. .. .. .. .. .. .. .. ..	3
+4.5 Period of Loan .. .. .. .. .. .. .. ..	3
+4.6 Graduated Instalments .. .. .. .. .. ..	4
+4.7 Aggregate Limit for Housing Finnace. .. .. .. .. ..	4
+ Terms and Conditions for Housing Loans
+5. Additional/Supplementary Finance .. .. .. .. .. 4
+6. Lending to Housing Boards .. .. .. .. .. .. 5
+7. Advances to Builders/Contractors .. .. .. .. .. 5
+8. Housing Loans under Priority Sector ..
+Withdrawn .. .. .. .. 6
+
+9. Precautions .. .. .. .. .. .. .. .. .. 7
+10. National Building Code… … .. .. .. .. .. 8
+- Annex 1 .. .. .. .. .. .. .. .. .. 9
+- Annex 2 13
+- Appendix .. .. .. .. .. .. .. .. 14
+
+<!-- PAGE 3 -->
+
+## Master Circular
+
+## Finance For Housing Schemes
+
+## GENERAL
+
+1.1 The role of primary (urban) co-operative banks (UCBs) in providing housing finance has been reviewed from time to time. These banks, with their vast network, occupy a very strategic position in the financial system and have an important role to play in providing credit to the housing sector. Further, housing finance to specified categories up to prescribed limits is treated as priority sector lending, and the need for UCBs providing credit to priority sector has come to be increasingly recognised consistent with the social objectives placed before the banking system.
+1.2 Therefore, with a view to enabling the UCBs to play a more positive role in providing finance for housing schemes, particularly to the weaker sections of the community, these banks are permitted to grant loans for housing schemes up to certain limits from their own resources subject to the guidelines detailed hereunder.
+1.3 The bigger banks that have large surplus resources may undertake larger lending for housing, as this will provide a remunerative avenue for investment of their surplus funds.
+1.4 Wherever, banks are still required to obtain special permission of the Registrar for financing housing societies, in each and every case, it is suggested that these banks should obtain general permission to finance housing societies subject to such other terms and conditions as have been prescribed for the purpose.
+## 2 ELIGIBLE CATEGORY OF BORROWERS
+
+# Withdrawn
+
+UCBs may grant loans to the following categories of borrowers:
+
+i. Individuals and co-operative / group housing societies. ii. Housing boards undertaking housing projects or schemes for economically weaker sections (EWS), low income groups (LIG) and middle income groups (MIG).
+iii. Owners of houses / flats for extension and up-gradation, including major repairs.
+
+## 3 ELIGIBLE HOUSING SCHEMES
+
+The borrowers in the above categories will be eligible for finance for the following types of housing schemes:
+
+(a) Construction / purchase of houses / flats by individuals
+(b) Repairs, alterations and additions to houses / flats by individuals
+(c) Schemes for housing and hostels for scheduled castes and scheduled tribes
+(d) Under slum clearance schemes -
+
+<!-- PAGE 4 -->
+
+directly to the slum dwellers on the guarantee of the Government, or indirectly through Statutory Boards established for this purpose
+
+(e) Education, health, social, cultural or other institutions / centres which are part of a housing project and considered necessary for the development of settlements or townships
+(f) Shopping centres, markets and such other centres catering to the day- today needs of the residents of the housing colonies and forming part of a housing project
+## 4. TERMS AND CONDITIONS FOR HOUSING LOANS
+
+Finance provided by the UCBs to the eligible categories of borrowers for eligible housing schemes will be subject to the following terms and conditions:
+
+## 4.1 Maximum Loan Amount & Margins
+
+(i) UCBs based on their commercial judgement and other prudential business considerations, with the approval of their Board of Directors, are free to identify the eligible borrowers, decide margins and grant housing loans depending upon repaying capacity of the borrowers. (ii) The banks may grant housing loans up to a maximum of Rs.
+25.00 lakh per beneficiary of a dwelling unit. However, Tier II UCBs ( all other UCBs which are not Tier I UCBs*) may extend individual housing loans up to a maximum of Rs.50.00 lakh per beneficiary of a dwelling unit subject to extant prudential exposure limits
+# Withdrawn
+
+(iii) The maximum loan should not exceed 15 percent of capital funds of the bank in case of individual borrowers and 40 per cent of the capital funds in case of group of borrowers. The capital funds for the purpose shall include both Tier I Capital and Tier II capital.
+
+** Tier I UCBs are categorised as under :*
+- *Banks having deposits below Rs. 100 crore operating in* *a single district.*
+- *Banks with deposits below Rs.100 crore operating in* *more than one district will be treated as Tier I provided* *the branches are in contiguous districts and deposits and* *advances of branches in one district separately* *constitute at least 95% of the total deposits and* *advances respectively of the bank and*
+- *Banks with deposits below Rs.100 crore, whose* *branches were originally in a single district but* *subsequently, became multi-district due to* *reorganization of the district*
+
+<!-- PAGE 5 -->
+
+*Deposits and advances as referred to in the above definition may be* *st* *reckoned as on 31 March of the immediate preceding financial* *year.*
+
+## 4.2 Interest
+
+Banks may, with the approval of their Boards, determine the rate of interest, keeping in view the size of accommodation, degree of risk and other relevant considerations.
+
+## 4..3 Charging of Penal Interest
+
+Banks may formulate, with the approval of their Boards, transparent policy for charging penal interest rates to be levied for reasons such as default in repayment, non-submission of financial statements, etc. The policy should be governed by well accepted principles of transparency, fairness, incentive to service the debt and due regard to genuine difficulties of customers.
+
+4..4 **Security**
+
+|(i)|UCBs may secure housing loans either||
+|---|---|---|
+||(a) (b) (c) by both.|by mortgage of property, or by government guarantee where forthcoming, or|
+|(ii)|Where this is not feasible, banks may accept security of||
+
+adequate value in the form of LIC policies, Government Promissory Notes, shares/debentures, gold ornaments or such other security as they deem appropriate.
+
+## 4.5 Period of Loan
+
+# Withdrawn
+
+(i) Housing loans may be repayable within a maximum period of 15 years, including moratorium or repayment holiday.
+(ii) The moratorium or repayment holiday may be granted
+
+(a) at the option of the beneficiary, or
+(b) till completion of constructions, or 18 months from the date of disbursement of first instalment of the loan, whichever is earlier.
+4.6 **Graduated Instalments**
+(i) The instalments should be fixed on a realistic basis taking into account the repaying capacity of the borrower. (ii) In order to make housing finance affordable, banks may consider fixing the instalments on a graduated basis, if there is reasonable expectation of growth in the income of the borrower in the coming years. Graduated basis means fixing lower repayment instalments in the initial years and gradually increasing the instalment amount in subsequent years coinciding with expected increase in income in the subsequent years.
+
+<!-- PAGE 6 -->
+
+## 4.7 AGGREGATE LIMIT FOR HOUSING FINANCE
+
+4.7.1 UCBs may utilise up to 15 per cent of their total deposit resources to provide housing, real estate and Commercial Real Estate loans. Finance extended to the eligible category of borrowers mentioned in paragraph 2 above will only be eligible to be categorised as housing finance. While the purpose of the loan shall determine whether the loans granted against the security of immovable property need to be classified as real estate loans, the source of repayment will determine whether the exposure is against commercial real estate. For classification of such loans as Real Estate / Commercial Real Estate, UCBs may be guided by the instructions contained in Annex 1.
+4.7.2 The ceiling of 15% may be reckoned on the total deposits of a bank based on the audited balance sheet as on March 31 of the previous financial year. The exposure for the purpose of computing the prescribed limit of 15% should take into account both fund based and non fund based facilities.
+4.7.3 Working capital loans given by UCBs against hypothecation of construction materials provided to the contractors who undertake comparatively small construction on their own without receiving advance payments as provided for in paragraph 7 of this circular is exempted from the prescribed limit of 15%.
+4.7.4 The above limit may be exceeded to the extent of funds obtained for the purpose from higher financing agencies and refinance from the National Housing Bank.
+## 5 ADDITIONAL / SUPPLEMENTARY FINANCE Withdrawn
+
+5.1 UCBs may extend additional finance to carry out alterations, additions, repairs to houses / flats already financed by them subject to repayment capacity of borrowers.
+5.2 In the case of individuals who might have raised funds for construction / acquisition of accommodation from other sources and need supplementary finance, banks may extend credit after obtaining *pari* *passu* or second mortgage charge over the property mortgaged in favour of other lenders and / or against such other security as they may deem appropriate after due assessment of aggregate repayment capacity of borrowers.
+5.3 The banks may also extend need-based credit up to a maximum of Rs.1.00 lakh in rural and semi-urban areas and Rs.2.00 lakh in urban areas to the owner of a house / flat only for repairs, additions, alterations, etc., irrespective of whether the house / flat is owner occupied or tenant occupied, after obtaining such security as the bank may deem appropriate. They should satisfy themselves regarding the estimated cost of repairs, additions, etc. having regard to the extent of such repairs or additions, materials to be used, cost of labour and other
+
+<!-- PAGE 7 -->
+
+charges and after obtaining certificate/s from qualified engineers / architects in respect thereof, considered necessary.
+
+5.4 The terms and conditions relating to margin, interest rates, repayment period etc. in respect of additional / supplementary finance may be same as indicated in respect of loans for construction / acquisition.
+## 6 LENDING TO HOUSING BOARDS
+
+6.1 UCBs may extend loans to housing boards within their States. The rate of interest to be charged on the loans to such boards may be fixed at the discretion of the banks.
+6.2 While extending loans to housing boards, banks may not only keep in view the past performance of the housing boards in the matter of recovery from the beneficiaries but should also stipulate that the boards will ensure prompt and regular recovery of loan instalments from the beneficiaries.
+7. **ADVANCES TO BUILDERS / CONTRACTORS**
+7.1 The builders / contractors generally require huge funds, take advance payments from the prospective buyers or from those on whose behalf construction is undertaken and, therefore, they may not normally require bank finance for the purpose. Any financial assistance extended to them by primary (urban) co-operative banks may result in dual financing. The banks should, therefore, normally refrain from sanctioning loans and advances to this category of borrowers.
+7.2. However, where contractors undertake comparatively small
+construction work on their own, (i.e. when no advance payments are received by them for the purpose), the banks may consider extending financial assistance to them against
+
+# Withdrawn
+
+the hypothecation of construction materials, provided such loans and advances are in accordance with the by-laws of the bank and instructions / directives issued by the Reserve Bank from time to time.
+
+7.3 Banks should undertake a proper scrutiny of the relevant loan applications, and satisfy themselves, among other things, about the genuineness of the purpose, the quantum of financial assistance required, creditworthiness of the borrower, repayment capacity, etc. and also observe the usual safeguards, such as, obtaining periodical stock statements, carrying out periodical inspections, determining drawing power strictly on the basis of the stock held, maintaining a margin of not less than 40 to 50 percent, etc. They should also ensure that materials used up in the construction work are not included in the stock statements for the purpose of determining the drawing power.
+7.4 **Valuation of land**: It has been observed that while financing builders / contractors, certain banks are found to be valuing the land for the purpose of security, on the basis of the discounted value of the property after it is developed, less the cost of development. This is not in conformity with established norms. In this connection, it is clarified that UCBs should not extend fund based / non-fund based facilities to
+
+<!-- PAGE 8 -->
+
+builders / contractors for acquisition of land even as a part of a housing project. Further, wherever land is accepted as collateral, valuation of such land should be at the current market price only.
+
+7.5 Banks may also take collateral security, wherever available. As the construction work progresses, the contractors will get paid and such payments should be applied to reduce the balance in the borrowal accounts. If possible, the banks could perhaps enter into a tripartite agreement with the borrower and his clients, particularly when no collateral securities are available for such advances.
+## 8 HOUSING LOANS UNDER PRIORITY SECTOR
+
+8.1 The following type of loans for housing purposes are eligible for categorisation under priority sector :
+i) Loans up to Rs. 20 lakh to individuals for purchase / construction of dwelling unit per family, (excluding loans granted by banks to their own employees). *Family for this purpose* *means and includes the spouse of the member and the children,* *parents, brothers and sisters of the member who are dependent* *on such member, but shall not include legally separated spouse.* ii) Loans given for repairs to the damaged dwelling units of families up to Rs. 1 lakh in rural and semi-urban areas and up to Rs. 2 lakh in urban and metropolitan areas. iii) Assistance given to any governmental agency for construction of dwelling units or for slum clearance and rehabilitation of slum dwellers, subject to a ceiling of Rs. 5 lakh of loan amount per dwelling unit. iv) Assistance given to a non-governmental agency
+# Withdrawn
+
+approved by the NHB for the purpose of refinance for construction / reconstruction of dwelling units or for slum clearance and rehabilitation of slum dwellers, subject to a ceiling of loan component of Rs. 5 lakh per dwelling unit
+
+8.2 Investments made by UCBs in bonds issued by NHB / HUDCO on or after April, 1, 2007 shall not be eligible for classification under priority sector lending.
+9. **PRECAUTIONS**
+9.1 A number of cases have come to the notice of Reserve Bank, where unscrupulous persons have defrauded the banks by obtaining multiple bank finance against the same property by preparing a number of sets of the original documents and submitting the same to various banks for obtaining housing finance. Similarly the salary certificates of employees of certain public sector undertakings were fabricated, so as to match the requirement of banks for availing higher amounts of loan.
+
+<!-- PAGE 9 -->
+
+The estimates given were also on the higher side, so as to avoid contribution of margin money by the borrowers.
+
+Such frauds could take place on account of the laxity on the part of the bank officials to follow the laid down procedures for verifying the genuineness of the documents submitted by the borrowers independently through their own advocates / solicitors. The banks should, therefore, take due precaution while accepting various documents.
+
+9.2 Banks would need to satisfy themselves that the loans extended by them are not for unauthorised construction or for misuse of properties/ encroachment on public land. For this purpose, they should ensure strict compliance with the procedure laid down in Annex 2.
+9.3 In a case which came up before the Hon’ble High Court of Judicature at Bombay, the Hon’ble Court observed that the bank granting finance to housing / development projects should insist on disclosure of the charge / or any other liability on the plot, in the brochure, pamphlets etc., which may be published by developer / owner inviting public at large to purchase flats and properties. The Court also added that this obviously would be part of the terms and conditions on which the loan may be sanctioned by the bank. Keeping in view the above observations, while granting finance for eligible housing schemes, UCBs are advised to stipulate as part of terms and conditions that:
+(a) The builder / developer shall disclose in the pamphlets / brochures etc.,the name(s) of the bank(s) to which the property is mortgaged.
+# Withdrawn
+
+(b) The builder / developer would append the information relating to mortgage while advertising for a particular scheme in newspapers / magazines etc.
+(c) The builder / developer would indicate in the pamphlets / brochures that he would provide No Objection Certificate (NOC) / permission of the mortgagee bank for sale of flats / property if required. UCBs are also advised to ensure compliance of the above terms and conditions and funds should not be released unless the builder / developer fulfil the above requirements.
+10. **NATIONAL BUILDING CODE**
+Bureau of Indian Standards (BIS) has formulated a comprehensive building Code namely National Building Code (NBC) of India 2005,
+
+<!-- PAGE 10 -->
+
+providing guidelines for regulating the building construction activities across the country. The Code contains all the important aspects relevant to safe and orderly building development such as administrative regulations, development control rules and general building requirements; fire safety requirements; stipulations regarding materials, structural design and construction (including safety); and building and plumbing services. Adherence to NBC will be advisable in view of the importance of safety of buildings especially against natural disasters. Banks' boards may consider this aspect for incorporation in their loan policies. Further information regarding the NBC can be accessed from the website of Bureau of Indian Standards (<u>www.bis.org.in</u>).
+
+*******************
+
+# Withdrawn
+
+<!-- PAGE 11 -->
+
+## Annex 1
+
+## Definition of Commercial Real Estate Exposure (CRE)
+
+## (vide paragraph 4.7)
+
+Real Estate is generally defined as an immovable asset-land (earth space) and the permanently attached improvements to it. Income-producing real estate (IPRE) is defined in para 226 of the Basel II Framework as under :
+
+"Income-producing real estate (IPRE) refers to a method of providing funding to real estate (such as, office buildings to let, retail space, multifamily residential buildings, industrial or warehouse space, and hotels) where the prospects for repayment and recovery on the exposure depend primarily on the cash flows generated by the asset. The primary source of these cash flows would generally be lease or rental payments or the sale of the asset. The borrower may be, but is not required to be, an SPE (Special Purpose Entity), an operating company focused on real estate construction or holdings, or an operating company with sources of revenue other than real estate. The distinguishing characteristic of IPRE versus other corporate exposures that are collateralised by real estate is the strong positive correlation between the prospects for repayment of the exposure and the prospects for recovery in the event of default, with both depending primarily on the cash flows generated by a property".
+
+2. The Income Producing Real Estate (IPRE) is synonymous with Commercial Real Estate (CRE). From the definition of IPRE given above, it may be seen that for an exposure to be classified as IPRE / CRE, the essential feature would be that the funding will result in the creation / acquisition of real estate (such as, office buildings to let, retail space, multifamily residential buildings, industrial or warehouse space, and hotels) where the prospects for repayment would depend primarily on the cash flows generated by the asset. Additionally, the prospect of recovery in the event of default would also depend primarily on the cash flows generated from such funded asset which is taken as security, as would generally be the case. The primary source of cash flow (i.e. more than 50% of cash
+# Withdrawn
+
+flows) for repayment would generally be lease or rental payments or the sale of the assets as also for recovery in the event of default where such asset is taken as security.
+
+3. In certain cases where the exposure may not be directly linked to the creation or acquisition of CRE but the repayment would come from the cash flows generated by CRE. For example, exposures taken against existing commercial real estate whose prospects of repayments primarily depend on rental / sale proceeds of the real estate should be classified as CRE. Other such cases may include; extension of guarantees on behalf of companies engaged in commercial real estate activities, corporate loans extended to real estate companies etc.
+4. It follows from the definition at para 2 and 3 above that if the repayment primarily depends on other factors such as operating profit from business operations, quality of goods and services, tourist arrivals etc., the exposure would not be counted as Commercial Real Estate.
+5. UCBs should not extend finance for acquisition of land even if it is part of a project. However, finance can be granted to individuals for purchase of a plot, provided a declaration is obtained from the borrower that he intends to construct a house on the said plot, within such period as may be laid down by the banks themselves.
+## Simultaneous Classification of CRE into other Regulatory Categories
+
+<!-- PAGE 12 -->
+
+6. It is possible for an exposure to get classified simultaneously into more than one category, real estate, CRE, infrastructure etc as different classifications are driven by different considerations. In such cases, the exposure would be reckoned for regulatory / prudential exposure limit, if any, fixed by RBI or by the bank itself, for all the categories to which the exposure is assigned. For the purpose of capital adequacy, the largest of the risk weights applicable among all the categories would be applicable for the exposure. The rationale for such an approach is that, while at times certain classifications / categorizations could be driven by socio-economic considerations and may be aimed at encouraging flow of credit towards certain activities, these exposures should be subjected to appropriate risk management / prudential / capital adequacy norms so as to address the risk inherent in them. Similarly, if an exposure has sensitivity to more than one risk factor it should be subjected to the risk management framework applicable to all the relevant risk factors.
+7. In order to assist banks in determining as to whether a particular exposure should be classified as CRE or not, some examples based on the principles described above are given below. Based on the above principles and illustrations given, banks should be able to determine, whether an exposure not included in the illustrative examples is a CRE or not and should record a reasoned note justifying the classification.
+## Illustrative Examples
+
+**A. Exposures which should be classified as CRE**
+1. Loans extended to builders for construction of any property which is intended to be sold or given on lease (e.g. loans extended to builders for housing buildings, hotels, restaurants, gymnasiums, hospitals, condominiums, shopping malls, office blocks, theatres, amusement parks, cold storages, warehouses, educational institutions, industrial parks) In such cases, the source of repayment in normal course would be the cash flows generated by the sale / lease rentals of the property. In case of default of the loan, the recoveWithdrawnry will also be made from sale of the property if the exposure is secured by these assets as would generally be the case.
+2. Loans for Multiple Houses intended to be rented out The housing loans extended in cases where houses are rented out need to be treated differently. If the total number of such units is more than two, the exposure for the third unit onwards may be treated as CRE Exposure as the borrower may be renting these housing units and the rental income would be the primary source of repayment.
+3. Loans for integrated Township Projects Where the CRE is part of a big project which has small non-CRE component, it will be classified as CRE exposure since the primary source of repayment for such exposures would be the sale proceeds of buildings meant for sale.
+4. Exposures to Real Estate Companies
+
+<!-- PAGE 13 -->
+
+In some cases exposure to real estate companies is not directly linked to the creation or acquisition of CRE, but the repayment would come from the cash flows generated by Commercial Real Estate. Such exposures illustratively could be :
+
+Corporate Loans extended to these companies •
+
+•Investments made in the debt instruments of these companies
+
+•Extension of guarantees on behalf of these companies
+
+5. General Purpose loans where repayment is dependent on real estate prices Exposures intended to be repaid out of rentals / sale proceeds generated by the existing CRE owned by the borrower, where the finance may have been extended for a general purpose.
+**B. Exposures which may not be classified as CRE**
+1. Exposures to entrepreneurs for acquiring real estate for the purpose of their carrying on business activities, which would be serviced out of the cash flows generated by those business activities. The exposure could be secured by the real estate where the activity is carried out, as would generally be the case, or could even be unsecured.
+(a) Loans extended for construction of a cinema theatre, establishment of an amusement park, hotels and hospitals, cold storages, warehouses, educational institutions, running haircutting saloons and beauty parlours, restaurant, gymnasium etc. to those entrepreneurs who themselves run these ventures would fall in this category. Such loans would generally be secured by these properties. For instance, in the case of hotels and hospitals, the source of repayment in normal course would be the cash flows generated by the services rendered by the hotel and hospital. In the case of a hotel, the cash flows would
+# Withdrawn
+
+be mainly sensitive to the factors influencing the flow of tourism, not directly to the fluctuations in the real estate prices. In the case of a hospital, the cash flows in normal course would be sensitive to the quality of doctors and other diagnostic services provided by the hospital. In these cases, the source of repayment might also depend to some extent upon the real estate prices to the extent the fluctuation in prices influence the room rents, but it will be a minor factor in determining the overall cash flows. In these cases, however, the recovery in case of default, if the exposure is secured by the Commercial Real Estate, would depend upon the sale price of the hotel / hospital as well as upon the maintenance and quality of equipment and furnishings.
+
+The above principle will also be applicable in the cases where the developers / owners of the real estate assets (hotels, hospitals, warehouses, etc.) lease out the assets on revenue sharing or profit sharing arrangement and the repayment of exposure depends upon the cash flows generated by the services rendered, instead of fixed lease rentals.
+
+(b) Loans extended to entrepreneurs, for setting up industrial units will also fall in this category. In such cases, the repayment would be made from the cash flows generated by the industrial unit from sale of the material produced which would mainly depend upon demand and supply factors. The recovery in case of default may partly depend upon the sale of land and building if secured by these assets.
+
+<!-- PAGE 14 -->
+
+Thus, it may be seen that in these cases the real estate prices do not affect repayment though recovery of the loan could partly be from sale of real estate.
+
+2. Loans extended to a company for a specific purpose, not linked to a real estate activity, which is engaged in mixed activities including real estate activity. For instance, a company has two divisions. One division is engaged in real estate activity, and other division is engaged in power production. An infrastructure loan, for setting up of a power plant extended to such a company, to be repaid by the sale of electricity would not be classified as CRE. The exposure may or may not be secured by plant and machinery
+3. Loans extended against the Security of future rent receivables A few banks have formulated schemes where the owners of existing real estate such as shopping malls, office premises, etc. have been offered finance to be repaid out of the rentals generated by these properties. Even though such exposures do not result in funding / acquisition of commercial real estate, the repayment might be sensitive to fall in real estate rentals and such exposures should be classified as CRE. However, if there are certain in built safety conditions which have the effect of delinking the repayments from real estate price volatility like, the lease rental agreement between the lessor and lessee has a lock in period which is not shorter than the tenor of loan and there is no clause which allows a downward revision in the rentals during the period covered by the loan banks can classify such exposures as non CRE. Banks may, however, record a reasoned note in all such cases.
+4. Credit facilities provided to construction companies which work as Contractors The working capital facilities extended to construction companies working as contractors, rather than builders, will not be treated as CRE exposures because the repayment would depend upon the contractual payments received in accordance with the progress in completion of work.Withdrawn
+5. Financing of acquisition / renovation of self-owned office / company premises Such exposures will not be treated as CRE exposures because the repayment will come from company revenues. The exposures to industrial units towards setting up of units or projects and working capital requirement, etc. would not be treated as CRE Exposures.
+## Annex 2
+
+## <u>Direction of the Hon’ ble High Court of Delhi –</u>
+
+## <u>Procedure for ensuring the loan sought is for authorised structure</u>
+
+(vide paragraph 9.2)
+
+## A. Housing Loan for building construction
+
+<!-- PAGE 15 -->
+
+i) In cases where the applicant owns a plot / land and approaches the banks / FIs for a credit facility to construct a house, a copy of the sanctioned plan by competent authority in the name of a person applying for such credit facility must be obtained by the Banks / FIs before sanctioning the home loan. ii) An affidavit-cum-undertaking must be obtained from the person applying for such credit facility that he shall not violate the sanctioned plan, construction shall be strictly as per the sanctioned plan and it shall be the sole responsibility of the executant to obtain completion certificate within 3 months of completion of construction, failing which the bank shall have the power and the authority to recall the entire loan with interest, costs and other usual bank charges. iii) An Architect appointed by the bank must also certify at various stages of construction of building that the construction of the building is strictly as per sanctioned plan and shall also certify at a particular point of time that the completion certificate of the building issued by the competent authority has been obtained.
+## B. Housing Loan for purchase of constructed property / built up property
+
+i) In cases where the applicant approaches the bank / FIs for a credit facility to purchase a built up house / flat, it should be mandatory for him to declare by way of an affidavit-cum-undertaking that the built up property has been constructed as per the sanctioned plan and / or building bye-laws and as far as possible has a completion certificate also. ii) An Architect appointed by the bank must also certify before disbursement of the loan that the built up property is strictly as per sanctioned plan and / or building bye- laws. **C**. No loan should be given in respect of those properties which fall in the category of unauthorized colonies unless and until they have been regularized and development and other charges paid.
+# Withdrawn
+
+**D.** No loan should be given in respect of properties meant for residential use but which the applicant intends to use for commercial purposes and declares so while applying for loan.
+**E.** The above directions will not be applicable to construction of farmhouses on agricultural land since the agricultural land is outside the limit of Grampanchayats and Municipal Councils and as these authorities neither sanction plans nor issue completion certificates for farmhouses constructed by the farmers on the agricultural land. In all such cases, local rules will apply.
+***************
+
+<!-- PAGE 16 -->
+
+## Appendix
+
+### <u>MASTER CIRCULAR-FINANCE FOR HOUSING SCHEMES</u>
+
+|A. List of Circulars consolidated in the Master Circular|||
+|---|---|---|
+|No.|Date||
+|1 UBD(PCB)BPD.Cir.No. 69 /|09.06.2010|Exposure to Real Estate and Commercial Real|
+|09.22.010 / 2009-10||Estate Sector|
+|2 UBD.BPD.No. 16 /|26.10.2009|Builders to disclose mortgage in pamphlets etc –|
+|09.22.010 / 2009-10||clause in terms & conditions of loans|
+|3 UBD.PCB.Cir.No.30/09.09.|08.12.2008 Housing Loans-Orders||
+|001/08-09||Kalyan Sanstha Welfare Orgn against Union of India and Ors-Implementation of Directions|
+|4 UBD.UCB.Cir.No. 42/|15.05.2008|Revision of Individual Housing Loan Limits- Annual|
+|09.09.001 / 08-09||Policy|
+|5 UBD.BPD.No.33/13.05.000|29.02.2008|Advances to builders /contractors|
+|/07-08|||
+|6 UBD. UCB.Cir No. 40/|04.05.2007|Annual Policy Statement for the year 2007-08-|
+|13.05.000/ 06-07||residentail housing loans: reduction of risk weight|
+|7 UBD.UCB.Cir.No.20/09.09.|22.11.2006 Housing Loans-Orders||
+|001/06-07||Kalyan Sanstha Welfare Orgn against Union of India and Ors-Implementation of Directions|
+|8 UBD.UCB.Cir.no.58/09.09.|19.06.2006|Adherence to National Building Code (NBC)-|
+|01/05-06||specifications necessary for lending institutions.|
+|9 UBD.UCB.Cir.No.55/09.11.|01.06.2006|Annual Policy Statement for the year 2006-07-risk|
+|600/05-06||weight on exposures to commercial real estate.|
+|10 UBD.UCB.Cir.No.|09.08.2005|Prudential Norms on capital adequacy-risk weigh|
+|8/09.11.600/05-06||on housing finance/commercial real estate exposures.|
+|11 UBD. BPD(UCB)Cir|14.12.2004|Priority sector lending-Housing Loan-enhancement|
+|29/09.09.01/2004-05||of ceiling for UCBs|
+|12 UBD.UCB.No.30 /|16.01.2004|Frauds by deposit of fake title deeds of the|
+|09.22.01/2003-04||property / fake salary certificates in housing loans|
+|13 UBD.BPD.No.45/|14-05-2003|Credit Policy for the year 203-04 – Priority Sector|
+|09.09.01/2002-03||Advances|
+|14 UBD.BPD.No.31/09.09.01/|30-12-02|Priority Sector Advances|
+|2002-03|||
+|15 UBD.No.Plan.Cir.RCS.2 /|15-03-1999|Finance for Housing Schemes-Primary (Urban)|
+|09.22.01 / 98-99||Co-operative Banks|
+|16 UBD.No.Plan/.RO.49 /|17-06-1998|Finance for Housing Scheme-Primary (Urban)|
+|09.22.01 / 97-98||Co-operative Banks|
+|17 UBD.No. Plan .CIR|1/9/1995|Finance for Housing Schemes – Primary (Urban)|
+|(RCS).9 / 09.22. 01/95-96||Co-operative Banks|
+|18 UBD.Plan.CIR(RCS)8/09.2|11/1/1995|Finance for Housing Schemes – Primary (Urban)|
+|2.01/94-95||Co-operative Banks|
+|19 UBD.No.P&O.10/UB-31/91-|26-03-1992|Finance for Housing Schemes – Primary (Urban)|
+|92||Co-operative Banks|
+|20 UBD.No.P&O.108/UB.31-|5/4/1989|Finance for Housing Schemes – Primary (Urban)|
+|88/89||Co-operative Banks|
+|21 UBD.DC1/R.1-87/88|3/7/1987|Maximum Limit on Advances|
+|22 UBD.No.(DC)2/R.1-87/88|3/7/1987|Maximum Limit on Advances|
+|23 DBOD.UBD.P&O.161/UB.3|2/9/1983|Urban co-operative bank finance for housing|
+|1-83/84||schemes|
+|24 DBOD.UBD.P&O.229/UB.3|5/11/1982|Co-operative bank finance for housing schemes|
+|1-82/83|||
+|25 DBOD.UBD.P&O|5/11/1982|Co-operative bank finance for housing schemes for|
+|230/UB.31-82/83||the economically weaker sections of the|
+
+### Circular No. Subject
+
+of Delhi High Court-WP by
+
+of Delhi High Court-WP by
+
+# Withdrawn
+
+<u>community</u>
+
+<!-- PAGE 17 -->
+
+|26 ACD.Plan.(SZ)401/PR.338-||17-08-1981|Co-operative Bank Finance For Housing Schemes|
+|---|---|---|---|
+||81/2|||
+|27 ACD.Plan.1502/PR.338-|76/7|11/10/1976|Co-operative bank finance for housing schemes for the economically weaker sections of the community|
+|28 ACD.Plan.(781)/PR.338-|76/77|24-08-1976|Co-operative bank finance for housing schemes for the economically weaker sections of the|
+
+<u>community</u>
+
+**B. List of Other Circulars from which instructions relating to Housing Finance have also been consolidated in the Master Circular**
+## No. Circular No. Date Subject
+
+|1|UBD.CO.LS.Cir.No.66/ 07.01.000 06.05.2009||Annual Policy for 2009-10-Extension of|
+|---|---|---|---|
+||/ 2008-09||Area of Operation-Liberalisation|
+|2|UBD.UCB.Cir.No. 11 / 09.09.01 / 07-08|30.08.2007|Revised guidelines on lending to priority sector.|
+|3|UBD.UCB.BPD.1 / 09.09.001 / 06-07|11.07.2006|Priority Sector lending-investments in special bonds issued by NHB/HUDCO|
+|4|UBD.UCB.Cir.No.16 / 09.09.001 / 06-07|17.10.2006|Priority Sector lending-housing loans- enhancement of ceiling.|
+|5|UBD.DS.CirNo.44 / 13.05.00 / 2004-05|15.04.2005|Maximum Limit on Advances-Limit on Credit Exposure|
+|6|UBD.No.DS.CIR.31 / 13.05.00 / 01-04-2000 99-2000||Maximum Limit on Advances-Limit on Credit Exposure|
+|7|UBD.Plan.UCB. / 7 / 09.09.01 / 22-12-1999 99-2000||Priority Sector lending – Housing Finance|
+|8|UBD.No.Plan.UCB.24 / 09.09.01 / 01-12-1997 97-98||Priority Sector Lending by Primary (Urban) Co-operative Banks|
+|9|UBD.No.DS.UCB.CIR.39/ 13.05.00 / 95-96|16-01-1996|Maximum Limit on Advances by Primary (Urban) Co-operative Banks|
+|10|UBD.No.Plan.(UCB) 6 / 09.09.01 22-07-1994 / 94-95||Priority Sector Lending by Primary (Urban) Co-operative Banks|
+|11|UBD.No.Plan.68 / 09.09-01 / 93- 94|09-05-1994|Priority Sector Lending by Primary (Urban) Co-operative Banks|
+|12|UBD.DC.536/R.1-84 / 84|16-10-1984|Maximum Limits on Advances|
+
+# Withdrawn
+
+**************
