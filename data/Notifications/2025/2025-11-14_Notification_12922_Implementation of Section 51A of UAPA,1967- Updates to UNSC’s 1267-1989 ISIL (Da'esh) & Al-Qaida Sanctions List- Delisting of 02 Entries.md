@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2025_12922"
+title: "Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Delisting of 02 Entries"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT978AB28DBE30F440049F0EEC7EEEE9D3C5.PDF"
+pdf_sha256: "fc62d1a3e6f68c99999c8c78fd217b1a2927b8182a3c50ec24257b502ee5ce0c"
+md_sha256: "df7d89e95c045e700b3323d3626e7113001bd6baec2bb419e37e2d793e6ea244"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:09:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-14_Notification_12922_Implementation%20of%20Section%2051A%20of%20UAPA%2C1967-%20Updates%20to%20UNSC%E2%80%99s%201267-1989%20ISIL%20%28Da%27esh%29%20%26%20Al-Qaida%20Sanctions%20List-%20Delisting%20of%2002%20Entries.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Delisting of 02 Entries
+
+<!-- PAGE 1 -->
+
+RBI/2025-26/97 DOR.AML.REC.61/14.06.001/2025-26 November 14, 2025
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir, **Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/1989 ISIL** **(Da'esh) & Al-Qaida Sanctions List: Delisting of 02 Entries**
+
+Please refer to paragraph 51 of the <u>RBI Master Direction on Know Your Customer dated</u> <u>February 25, 2016</u> as amended on August 14, 2025 (MD on KYC), in terms of which “*Regulated Entities* (*REs) shall ensure that in terms of Section 51A of the Unlawful* *Activities (Prevention) (UAPA) Act, 1967 and amendments thereto, they do not have any* *account in the name of individuals/entities appearing in the lists of individuals and* *entities, suspected of having terrorist links, which are approved by and periodically* *circulated by the United Nations Security Council (UNSC).”*
+
+2. In this connection, Ministry of External Affairs (MEA), Government of India has informed about the UNSC press release SC/16214 dated November 06, 2025 wherein the Security Council Committee has decided to remove two individuals from its Islamic State in Iraq and the Levant (ISIL/Da’esh) and Al-Qaida sanctions list.
+2.1 The Committee recalling its previous resolutions on the Syrian Arab Republic and those relating to the ISIL (Da’esh) and Al-Qaida sanctions regime, including 1267 (1999), 1989 (2011), 2178 (2014), 2253 (2015), 2368 (2017), 2396 (2017), 2462 (2019), 2664 (2022), 2734 (2024), and 2761 (2024), as well as the main principles and objectives embodied in its resolution 2254 (2015), adopted Resolution 2799 (2025) under Chapter VII of the Charter of the United Nations: **Deciding that Ahmed al-Sharaa, included on the ISIL (Da’esh) and Al-Qaida** **Sanctions List as Ahmad Hussain Al-Sharaa (QDi.317), and Anas Hasan** **Khattab (QDi.336) are delisted from the ISIL (Da’esh) and Al-Qaida** **Sanctions List.** िविनयमन िवभाग, कें द्र ी य कायार्लय, कें द्र ी य कायार्लय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह मागर्, फोटर्, मुंबई-400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+3. Press release dated November 06, 2025 regarding the above can be found at <u>[https://press.un.org/en/2025/sc16214.doc.htm](https://press.un.org/en/2025/sc16214.doc.htm)</u> The details of the sanction measures and exemptions are available at the following URL: <u>[https://www.un.org/securitycouncil/sanctions/1267#further_information](https://www.un.org/securitycouncil/sanctions/1267#further_information)</u>
+4. In view of the above, REs are advised to take appropriate action in terms of paragraph 51 of the MD on KYC and strictly follow the procedure as laid down in the UAPA Order dated February 02, 2021 (amended on April 22, 2024) annexed to the MD on KYC.
+5. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+6. Further, as per the instructions from the Ministry of Home Affairs (MHA), any request for de-listing received by any RE is to be forwarded electronically to Joint Secretary (CTCR), MHA for consideration. Individuals, groups, undertakings or entities seeking to be removed from the Security Council’s ISIL (Da'esh) and Al-Qaida Sanctions List can submit their request for delisting to an independent and impartial Ombudsperson who has been appointed by the United Nations Secretary-General. More details are available at the following URL: <u>[https://www.un.org/securitycouncil/ombudsperson/application](https://www.un.org/securitycouncil/ombudsperson/application)</u>
+7. REs are advised to take note of the aforementioned UNSC communications and ensure meticulous compliance. Yours faithfully, (Veena Srivastava) Chief General Manager

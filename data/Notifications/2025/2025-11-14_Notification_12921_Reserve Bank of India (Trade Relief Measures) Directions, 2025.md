@@ -1,0 +1,117 @@
+---
+doc_id: "Notifications_2025_12921"
+title: "Reserve Bank of India (Trade Relief Measures) Directions, 2025"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/96NT64128BCA543F4D898521AAB983AE8F1E.PDF"
+pdf_sha256: "11df0d7a24afb1eef0d45d3ce7ca8b27977ac22a0239592675348f9cee9c0346"
+md_sha256: "9318108c057fc6d56ab6d5eba05cbb7f3db2338df78c483c2ef869ca787cdfd2"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:09:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-14_Notification_12921_Reserve%20Bank%20of%20India%20%28Trade%20Relief%20Measures%29%20Directions%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Trade Relief Measures) Directions, 2025
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बकैं **________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2025-26/96 DOR.STR.REC.60/21.04.048/2025-26 November 14, 2025
+
+# Reserve Bank of India (Trade Relief Measures) Directions, 2025
+
+## Chapter I: Preliminary
+
+## Preamble
+
+1. Reserve Bank is statutorily mandated to operate the credit system of the country to its advantage. In this endeavour, and with a view to mitigating the burden of debt servicing brought about by trade disruptions caused by global headwinds and to ensure the continuity of viable businesses, Reserve Bank being satisfied that it is necessary and expedient in the public interest to do so, issues these Directions hereinafter specified.
+2. These Directions are being issued in exercise of powers conferred by sections 21, 35A and 56 of the Banking Regulation Act, 1949, sections 45JA, 45L and 45M of the Reserve Bank of India Act, 1934, section 6 of the Factoring Regulation Act, 2011, sections 30A, 32 and 33 of the National Housing Bank Act, 1987 and section 11 of the Credit Information Companies (Regulation) Act, 2005. **Short Title and Commencement**
+3. These Directions shall be called the Reserve Bank of India (Trade Relief Measures) Directions, 2025.
+4. These Directions shall come into force immediately. **Applicability**
+5. These Directions shall be applicable to the following entities, hereinafter referred to as a Regulated Entity (RE) and collectively as Regulated Entities (REs), as the context may require:
+
+<!-- PAGE 2 -->
+
+i. Commercial Banks, ii. Primary (Urban) Co-operative Banks, State Co-operative Banks and Central Co-operative Banks,
+iii. Non-Banking Financial Companies (including Housing Finance Companies), iv. All-India Financial Institutions, and
+
+v. Credit Information Companies (only with reference to paragraph 16 of these Directions).
+## Chapter II: Eligibility Criteria
+
+6. REs shall frame a policy for providing the relief measures specified hereinafter in these Directions, *inter-alia*, including the objective criteria for considering the reliefs and the same shall be disclosed in public domain. A RE shall satisfy itself that the borrower’s business is impacted by trade disruptions caused by global headwinds.
+7. For the purpose of considering relief under these Directions, a borrower shall be deemed to be eligible upon fulfilment of all of the following conditions:
+i. The borrower is engaged in exports relating to any of the sectors specified at <u>Annex</u>. ii. The borrower had an outstanding export credit facility from a RE as of August 31, 2025.
+iii. The account(s) of the borrower with all REs was/were classified as ‘Standard’ as on August 31, 2025.
+
+8. REs other than those which have sanctioned the export credit facility to the borrower may satisfy themselves that the borrower qualifies under the criteria stipulated at paragraph 7(ii) above, basis a certification to be obtained from the RE(s) which has/have extended export credit to the borrower.
+## Chapter III: Relief Measures
+
+## A. Moratorium/Deferment
+
+9. For eligible borrowers, the following relief measures may be extended by a RE:
+i. In respect of all term loans, a RE may grant a moratorium on payment of all instalments [principal and/or interest] falling due between September 1, 2025 and December 31, 2025 (“**Effective Period”**).
+
+<!-- PAGE 3 -->
+
+ii. In respect of working capital facilities sanctioned in the form of cash credit/ overdraft (“CC/ OD”), a RE may defer the recovery of interest applied in respect of all such facilities during the effective period. iii. During the moratorium/ deferment period, interest shall continue to accrue. However, interest application shall be on simple interest basis, without compounding effect, i.e., there shall be no interest on interest. iv. The accumulated accrued interest during moratorium/ deferment period may be converted into a funded interest term loan which shall be repayable in one or more instalments after March 31, 2026, but not later than September 30, 2026.
+
+v. In respect of working capital facilities, a RE may, at its discretion, recalculate ‘drawing power’ by reducing the margins and/ or reassess the working capital limits, during the effective period. Any such review, after the expiry of the effective period shall be based on regular assessments.
+## B. Extension of tenor for Export Credit
+
+10. A RE eligible to undertake export financing business may permit an enhanced credit period of up to 450 days for pre-shipment and post-shipment export credit disbursed till March 31, 2026.
+11. In respect of packing credit facilities already availed by exporters on or before August 31, 2025, where dispatch of goods could not take place, a RE may allow liquidation of such facilities from any legitimate alternate sources, including domestic sale proceeds of such goods or substitution of contract with proceeds of another export order.
+## Chapter IV: Asset Classification and Provisioning
+
+## A. Asset Classification
+
+12. The moratorium period/ deferment, wherever granted, shall be excluded by the RE while calculating the number of days past-due for the purpose of asset classification under the extant IRACP norms applicable to the RE.
+13. Grant of moratorium/ deferment of instalments and recalculation of the ‘drawing power’ in accordance with these Directions shall not be treated as an event of restructuring in terms of extant regulations. Consequently, such a measure, by itself, shall not result in asset classification downgrade.
+
+<!-- PAGE 4 -->
+
+14. After the expiry of the moratorium/deferment period, the asset classification shall be as per the extant IRACP norms applicable to the respective RE.
+15. REs shall report to the Credit Information Companies (CICs) as per the extant instructions, duly taking into account the above provisions.
+16. CICs shall ensure that the actions taken by REs pursuant to these Directions do not adversely impact the credit history of the borrowers.
+## B. Provisioning
+
+17. In respect of eligible borrower accounts which were in default but classified as ‘standard’ as on August 31, 2025, and where relief measures have been extended pursuant to these Directions, a RE shall make a general provision of not less than 5 per cent of the total outstanding in such accounts, by December 31, 2025.
+18. The above general provision may be adjusted against the actual specific provisioning requirements for slippages from these borrower accounts. Any residual general provisions at the end of the financial year 2025-26 shall be either written back or adjusted against the provisions required for all other borrower accounts by June 30, 2026.
+19. The above general provisions shall not be reckoned for arriving at net NPAs till they are adjusted against the actual provisioning requirements as under paragraph 18 above. Further, till such adjustments, these provisions shall not be netted from gross advances but shown separately in the balance sheet as appropriate.
+## Chapter V: Disclosure Requirements
+
+20. A RE shall develop an MIS on the reliefs provided to its borrowers which shall include *inter alia* borrower-wise and credit-facility wise information regarding the
+th nature and amount of relief granted. RE shall submit a fortnightly report (as on 15 and at the end of each month), in a format to be hosted by Reserve Bank on its DAKSH platform.
+
+<!-- PAGE 5 -->
+
+## Annex
+
+## List of Eligible Sectors
+
+|2-Digit HS Code|Description|
+|---|---|
+|03|Fish and crustaceans, molluscs and other aquatic invertebrates.|
+|29|Organic chemicals|
+|38|Miscellaneous chemical products.|
+|39|Plastic and articles thereof.|
+|40|Rubber and articles thereof.|
+|42|Articles of leather, saddlery and harness; travel goods, handbags and similar containers, articles of animal gut (other than silk-worm) gut.|
+|57|Carpets and other textile floor coverings.|
+|61|Articles of apparel and clothing accessories, knitted or crocheted.|
+|62|Articles of apparel and clothing accessories, not knitted or crocheted.|
+|63|Other made-up textile articles; sets; worn clothing and worn textile articles; rags|
+|64|Footwear, gaiters and the like; parts of such articles.|
+|68|Articles of stone, plaster, cement, asbestos, mica or similar materials.|
+|71|Natural or cultured pearls, precious or semiprecious stones, precious metals, clad with precious metal and articles thereof; imitation jewellery; coin.|
+|73|Articles of iron or steel|
+|76|Aluminium and articles thereof.|
+|84|Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof.|
+|85|Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts.|
+|87|Vehicles other than railway or tramway rolling stock, and parts and accessories thereof.|
+|90|Optical, photographic cinematographic measuring, checking precision, medical or surgical inst. And apparatus parts and accessories thereof;|
+|94|Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishing; lamps and lighting fittings not elsewhere specified or included|

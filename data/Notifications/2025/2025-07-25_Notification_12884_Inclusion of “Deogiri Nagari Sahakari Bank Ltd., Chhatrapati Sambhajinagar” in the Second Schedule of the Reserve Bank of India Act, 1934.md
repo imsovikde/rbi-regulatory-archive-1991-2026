@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2025_12884"
+title: "Inclusion of “Deogiri Nagari Sahakari Bank Ltd., Chhatrapati Sambhajinagar” in the Second Schedule of the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/42NTE4B04ED4A65D46B9AAA75EA7FC0829F4.PDF"
+pdf_sha256: "a1ffab822682b94b650be2535e5c0cd12fd069c3ab5550235500b10d371e7f2a"
+md_sha256: "33270de33324d1939d8626d660436792be084925ba1e7ccef4ef26723e795094"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:09:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-07-25_Notification_12884_Inclusion%20of%20%E2%80%9CDeogiri%20Nagari%20Sahakari%20Bank%20Ltd.%2C%20Chhatrapati%20Sambhajinagar%E2%80%9D%20in%20the%20Second%20Schedule%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of “Deogiri Nagari Sahakari Bank Ltd., Chhatrapati Sambhajinagar” in the Second Schedule of the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2025-26/70 DoR.RET.REC.42/12.07.160/2025-26 July 25, 2025
+
+All Banks,
+
+Madam / Sir,
+
+## Inclusion of “Deogiri Nagari Sahakari Bank Ltd., Chhatrapati Sambhajinagar” in the
+
+## Second Schedule of the Reserve Bank of India Act, 1934
+
+It is advised that “Deogiri Nagari Sahakari Bank Ltd., Chhatrapati Sambhajinagar” has been included in the Second Schedule of the Reserve Bank of India Act, 1934 vide Notification CO.DOR.RAUG.No.S2018/08.02.636/2025-2026 dated June 12, 2025 and published in the Gazette of India (Part III-Section 4) dated July 8, 2025.
+
+Yours faithfully,
+
+(Manoranjan Padhy) Chief General Manager
+
+________________________________________________________________________________________________________________________________________________________ िविनयमन िवभाग, कें द्र ी य कायार्लय, 12वीं और 13वीं मंिज़ल, नरीमन भवन, नरीमन पॉइं ट, मुंबई 400021 Department of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 <u>बैंक िहंदी में पत्राचार का ागत करता है</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds <u>to anyone. Please do not respond in any manner to such offers.</u>

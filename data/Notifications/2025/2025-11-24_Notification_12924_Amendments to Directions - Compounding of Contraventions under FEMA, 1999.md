@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2025_12924"
+title: "Amendments to Directions - Compounding of Contraventions under FEMA, 1999"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT982EE0FA9FD61B49589A734579B17F1598.PDF"
+pdf_sha256: "9cae356ee0d84dbc16d718606da76820c1fc21d9d7fe61299f917952edf05a67"
+md_sha256: "adc98021d2addb49cea517132594fcc0692a0e67680fc144260508d495ce0419"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:09:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-24_Notification_12924_Amendments%20to%20Directions%20-%20Compounding%20of%20Contraventions%20under%20FEMA%2C%201999.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendments to Directions - Compounding of Contraventions under FEMA, 1999
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/FED/2025-26/98
+
+A.P. (DIR Series) Circular. No 15/2025-26 November 24, 2025 To, All Authorised Persons Madam / Sir, <u>Amendments to Directions-Compounding of Contraventions under FEMA, 1999</u> Attention of Authorised Persons is invited to <u>Master Directions on compounding of</u> <u>contraventions under FEMA, 1999, dated April 22, 2025</u>.
+2. In order to streamline the receipt of compounding application fee and ‘sum for which a contravention is compounded’ (‘compounding amount’), it has been decided to change the account details of account where compounding application fee and compounding amount will be received through National Electronic Fund Transfer (NEFT), Real Time Gross Settlement (RTGS). Accordingly, <u>Annexure I</u> of the aforesaid <u>Master Directions</u> has been modified to include the revised account details.
+3. All Authorised Persons may bring the guidelines contained in this circular to the notice of their constituents.
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approval, if any, required under any other law.
+Yours faithfully,
+
+(Dr. Aditya Gaiha) Chief General Manager in Charge
+
+वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
