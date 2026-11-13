@@ -1,0 +1,49 @@
+---
+doc_id: "Circulars_2019_DBR_BP_BC_No_34_21_04_098_2018-19"
+title: "Basel III Framework on Liquidity Standards - Liquidity Coverage Ratio (LCR) Liquidity Risk Monitoring Tools and LCR Disclosure Standards"
+category: "Circulars"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1648FD5CC75B17C42438678AE6AD1218C77.PDF"
+pdf_sha256: "c9d047a710acca497e8524196ff692b01ab28a45cdc12566f5e8f1ee659fd8f2"
+md_sha256: "6fa61b02b334fdfae1f3090a08230f12c8364fdcec9adcc282661033347e84fc"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:41:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2019/2019-04-04_Circular_DBR.BP.BC.No.34-21.04.098-2018-19_Basel%20III%20Framework%20on%20Liquidity%20Standards%20-%20Liquidity%20Coverage%20Ratio%20%28LCR%29%20Liquidity%20Risk%20Monitoring%20Tools%20and%20LCR%20Disclosure%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Basel III Framework on Liquidity Standards - Liquidity Coverage Ratio (LCR) Liquidity Risk Monitoring Tools and LCR Disclosure Standards
+
+<!-- PAGE 1 -->
+
+भारतीय रजवर् बक
+
+# __________________RESERVE BANK OF INDIA _________________
+
+<u>www.rbi.org.in</u> RBI/2018-19/164 DBR.BP.BC.No.34/21.04.098/2018-19 April 4, 2019
+
+All Scheduled Commercial Banks (Excluding RRBs) & Small Finance Banks
+
+Dear Sir/Madam,
+
+## Basel III Framework on Liquidity Standards-Liquidity Coverage Ratio (LCR),
+
+## <u>Liquidity Risk Monitoring Tools and LCR Disclosure Standards</u>
+
+Please refer to our <u>circular DBR.BP.BC.No.4/21.04.098/2018-19 dated September</u> 27, 2018, other associated circulars on the captioned subject and para I (1) of the <u>First Bi-Monthly Monetary Policy 2019-20 dated April 4, 2019</u>.
+
+2. Presently, the assets allowed as Level 1 High Quality Liquid Assets (HQLAs) for the purpose of computing the LCR of banks, *inter alia*, include (a) Government securities in excess of the minimum SLR requirement and, (b) within the mandatory SLR requirement, Government securities to the extent allowed by RBI under (i) Marginal Standing Facility (MSF) [presently 2 per cent of the bank's NDTL] and (ii) Facility to Avail Liquidity for Liquidity Coverage Ratio (FALLCR) [presently 13 per cent of the bank's NDTL].
+3. It has been decided to permit banks to reckon an additional 2.0 percent Government securities held by them under FALLCR within the mandatory SLR Withdrawn requirement as Level 1 HQLA for the purpose of computing LCR, in a phased manner, as under:
+
+|Effective Date|FALLCR (per cent of NDTL)|Total HQLA carve out from SLR (per cent of NDTL)|
+|---|---|---|
+|April 4, 2019|13.50|15.50|
+|August 1, 2019|14.00|16.00|
+|December 1, 2019|14.50|16.50|
+|April 1, 2020|15.00|17.00|
+
+4. For the purpose of LCR, banks shall continue to value such government securities reckoned as HQLA at an amount not greater than their current market value (irrespective of the category under which the security is held, i.e., HTM, AFS or HFT). Yours faithfully, [[**(Saurav Sinha)** Chief General Manager-in-Charge
+कं ग िविनयमन िवभाग ब, के न् � ी य कायार्लय, 12व मंिज़ल, शहीद भगत �संह मागर्, मुंबई – 400001 Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602 Fax No: 22705691 Email ID: cgmicdbr@rbi.org.in हंदी आसान ह, इसका �योग बड़ाइए
