@@ -1,0 +1,688 @@
+---
+doc_id: "Notifications_2012_1060"
+title: "Master Circular - Guarantees and Co-acceptances"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/69MG010712CF.pdf"
+pdf_sha256: "fe81a2dc14f7eec9a89cf44c52cfb3b7481b00abded3b7171979ed3bea6ec156"
+md_sha256: "a7997afa54f959db946fdad9e604b23f0a0d0e537c0e574418a6c7ce7887a60e"
+total_pages: 33
+native_pages: 33
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:32:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-07-02_Notification_1060_Master%20Circular%20-%20Guarantees%20and%20Co-acceptances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Guarantees and Co-acceptances
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+_________________________ RESERVE BANK OF INDIA_______________________ **www.rbi.org.in**
+
+## RBI/2012-13/69
+
+## DBOD. No. Dir. BC.02 /13.03.00/2012-13 July 2, 2012
+
+## 11 Ashadha 1934 (Saka)
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+## Dear Sir / Madam
+
+## Master Circular-Guarantees and Co-acceptances
+
+Please refer to the <u>Master Circular DBOD.No.Dir.BC.8/13.03.00/2011-12 dated July 1, 2011</u> consolidating the instructions / guidelines issued to banks till that date relating to Guarantees and Co-acceptances. The Master Circular has been suitably updated by incorporating the instructions issued up to June 30, 2012 and has also been placed on the RBI website (<u>[http://www.rbi.org.in](http://www.rbi.org.in)</u>). A copy of the Master Circular is enclosed.
+
+## Yours faithfully
+
+## ( Sudha Damodar ) Chief General Manager
+
+## Encl: as above
+
+<u>बैकं ग परचालन और वकास वभाग, के िय कायालय, 13 माला,शहद भगतिसंह माग, फोट,मुबई 400001</u> DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT 13th Floor, NCOB,Shahid Bhagat Singh Marg, Fort, MUMBAI- 400001 FAX NO. 0091-22-22701241 Tel. No.022-22601000 E-mail address <u>cgmicdbodco@rbi.org.in</u> हंद आसान है, इसका ूयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+## <u>CONTENTS</u>
+
+**Particulars**
+
+Para No Page
+No.
+A Purpose	1
+B Classification	1
+C Previous instructions	1
+D Application	1
+1 Introduction	2
+2 Guidelines	2
+2.1 General Guidelines	2
+2.2 Guidelines relating to conduct of guarantee business	2
+2.2.1 Norms for unsecured advances & guarantees	2
+2.2.2 Precautions for issuing guarantees	3
+2.2.3 Precautions for Averting Frauds	3
+2.2.4 Ghosh Committee Recommendations	4
+2.2.5 Internal Control Systems	4
+2.2.6 Guarantees on behalf of Banks' Directors	4
+2.2.7 Bank Guarantee Scheme of Government of India	5
+2.2.8 Guarantees on Behalf of Share and Stock Brokers/ Commodity	6
+Brokers
+2.2.9 Guidelines relating to obtaining of personal guarantees of directors	6
+and other managerial personnel of borrowing concerns
+2.2.10 Guarantees of State Government	8
+2.3 Guarantees governed by regulations issued under Foreign Exchange	9
+Management (Guarantees) Regulations
+2.3.1 Bid bonds and performance bonds or guarantees for exports	9
+2.3.2 Issue of Bank Guarantee	9
+2.3.3 Other Stipulations	10
+2.3.4 Unconditional Guarantees in favour of Overseas Employers/ Importers	11
+on behalf of Indian Exporters
+2.3.5 Certain Precautions in case of Project Exports	11
+2.3.6 Guarantees for Export Advance	12
+2.3.7 Review of Banks’ Procedures	12
+2.3.8 Other Guarantees regulated by Foreign Exchange Management	12
+Rules
+2.4 Restrictions on guarantees of inter-company deposits/loans	16
+2.4.1 Restriction on guarantees for placement of funds with NBFCs	16
+2.4.2 Restrictions on Inter-Institutional Guarantees	16
+2.5 Payment of invoked guarantees	19
+2.6 Co-acceptance of bills	21
+2.6.1 General	21
+2.6.2 Safeguards	21
+2.7 Precautions to be taken in the case of Letters of Credit	23
+Annex1 Model Form of Bank Guarantee Bond	24
+Annex 2 Guarantees / LoUs/ LoCs invoked by ADs	26
+Appendix List of circulars consolidated	27
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 3 -->
+
+## <u>Master Circular-Guarantees and Co-acceptances</u>
+
+## A. <u>Purpose</u>
+
+This Master Circular provides a framework of the rules/regulations/instructions issued by the Reserve Bank of India relating to the conduct of guarantee business by banks.
+
+## B. <u>Classification</u>
+
+A statutory directive issued by the Reserve Bank in exercise of the powers conferred by the Banking Regulation Act, 1949.
+
+## C. <u>Previous instructions</u>
+
+This Master Circular updates the previous instructions on the above subject contained in the Master Circular dated July 1, 2011.
+
+## D. <u>Application</u>
+
+To all Scheduled Commercial Banks, excluding Regional Rural Banks. **Structure** **1 INTRODUCTION** **2 GUIDELINES**
+
+2.1 General Guidelines
+2.2 Guidelines relating to conduct of Guarantee Business
+2.3 Guarantees governed by regulations issued under the Foreign Exchange Management (Guarantees) Regulations
+2.4 Restrictions on guarantees of inter-company deposits/loans
+2.5 Payment of invoked guarantees
+2.6 Co-acceptance of Bills
+2.7 Precautions to be taken in the case of Letters of Credit
+## 3 ANNEX
+
+Annex 1 Model Form of Bank Guarantee Bond Annex 2 Guarantees / LoUs/ LoCs invoked by ADs **4 Appendix** List of circulars consolidated
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 4 -->
+
+## <u>INTRODUCTION</u>
+
+An important criterion for judging the soundness of a banking institution is the size and character, not only of its assets portfolio but also, of its contingent liability commitments such as guarantees, letters of credit, etc. As a part of business, banks issue guarantees on behalf of their customers for various purposes. The guarantees executed by banks comprise both performance guarantees and financial guarantees. The guarantees are structured according to the terms of agreement, viz., security, maturity and purpose. With the introduction of risk weights for both on- Balance Sheet and off-Balance Sheet exposures, banks have become more risk sensitive, resulting in structuring of their business exposures in a more prudent manner. Banks should comply with the following guidelines in the conduct of their guarantee business.
+
+|2|GUIDELINES|
+|---|---|
+|2.1|General Guidelines|
+|2.1.1|As regards the purpose of the guarantee, as a general rule, the banks should confine themselves to the provision of financial guarantees and exercise due caution with regard to performance guarantee business.|
+|2.1.2|As regards maturity, as a rule, banks should guarantee shorter maturities and leave|
+
+longer maturities to be guaranteed by other institutions.
+
+2.1.3 No bank guarantee should normally have a maturity of more than 10 years. However, in view of the changed scenario of the banking industry where banks extend long term loans for periods longer than 10 years for various projects, it has been decided to allow banks to also issue guarantees for periods beyond 10 years. While issuing such guarantees, banks are advised to take into account the impact of very long duration guarantees on their Asset Liability Management. Further, banks may evolve a policy on issuance of guarantees beyond 10 years as considered appropriate with the approval of their Board of Directors.
+## 2.2 <u>Guidelines relating to conduct of guarantee business</u>
+
+2.2.1 <u>Norms for unsecured advances & guarantees</u>
+(i) Until June 17, 2004, banks were required to limit their commitments by way of unsecured guarantees in such a manner that 20 percent of a bank’s outstanding unsecured guarantees plus the total of its outstanding unsecured advances should not exceed 15 percent of its total outstanding advances. In order to provide further flexibility to banks on their loan policies, the above limit on unsecured exposure of banks was withdrawn and banks’ Boards have been given the freedom to fix their own policies on their unsecured exposures. "Unsecured exposure" is defined as an exposure where the realisable value of the security, as assessed by the bank/ approved valuers/ Reserve Bank’s inspecting officers, is not more than 10 per cent, ab-initio, of the outstanding exposure. Exposure shall include all funded and non-funded exposures (including underwriting and similar commitments). ‘Security’ will mean tangible security properly charged to the bank and will not include intangible securities like guarantees, comfort letters, etc.
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 5 -->
+
+(ii) For determining the amount of unsecured advances for reflecting in schedule 9 of the published balance sheet, the rights, licenses, authorisations, etc., charged to the banks as collateral in respect of projects (including infrastructure projects) financed by them, should not be reckoned as tangible security. Banks, may however, treat annuities under build-operate –transfer (BOT) model in respect of road/highway projects and toll collection rights where there are provisions to compensate the project sponsor if a certain level of traffic is not achieved, as tangible securities, subject to the condition that banks’ right to receive annuities and toll collection rights is legally enforceable and irrevocable.
+
+(iii) All exemptions allowed for computation of unsecured advances stand withdrawn.
+
+2.2.2 <u>Precautions for issuing guarantees</u> Banks should adopt the following precautions while issuing guarantees on behalf of their customers.
+i. As a rule, banks should avoid giving unsecured guarantees in large amounts and for medium and long-term periods. They should avoid undue concentration of such unsecured guarantee commitments to particular groups of customers and/or trades. ii. Unsecured guarantees on account of any individual constituent should be limited to a reasonable proportion of the bank’s total unsecured guarantees. Guarantees on behalf of an individual should also bear a reasonable proportion to the constituent’s equity. iii. In exceptional cases, banks may give deferred payment guarantees on an unsecured basis for modest amounts to first class customers who have entered into deferred payment arrangements in consonance with Government policy. iv. Guarantees executed on behalf of any individual constituent, or a group of constituents, should be subject to the prescribed exposure norms. It is essential to realise that guarantees contain inherent risks and that it would not be in the bank’s interest or in the public interest, generally, to encourage parties to over-extend their commitments and embark upon enterprises solely relying on the easy availability of guarantee facilities.
+2.2.3 <u>Precautions for averting frauds</u> While issuing guarantees on behalf of customers, the following safeguards should be observed by banks:
+i. At the time of issuing financial guarantees, banks should be satisfied that the customer would be in a position to reimburse the bank in case the bank is required to make payment under the guarantee. ii. In the case of performance guarantee, banks should exercise due caution and have sufficient experience with the customer to satisfy themselves that the customer has the necessary experience, capacity and means to perform the obligations under the contract, and is not likely to commit any default. iii. Banks should refrain from issuing guarantees on behalf of customers who do not enjoy credit facilities with them. However, BG /LC may be issued by scheduled commercial banks to clients of co-operative banks against counter guarantee of the co-operative bank. In such cases, banks may be guided by
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 6 -->
+
+the provisions of paragraph 2.3.9.2 of the Master Circular on Loans and Advances-Statutory and Other Restrictions dated July 2, 2012. Further, banks must satisfy themselves that the concerned co-operative banks have sound credit appraisal and monitoring systems as well as robust Know Your Customer (KYC) regime. Before issuing BG/LCs to specific constituents of co-operative banks, they must satisfy themselves that KYC has been done properly in these cases.
+
+2.2.4 <u>Ghosh Committee Recommendations</u> Banks should implement the following recommendations made by the High Level Committee (Chaired by Shri A. Ghosh, the then Dy. Governor of RBI):
+i. In order to prevent unaccounted issue of guarantees, as well as fake guarantees, as suggested by IBA, bank guarantees should be issued in serially numbered security forms. ii. Banks should, while forwarding guarantees, caution the beneficiaries that they should, in their own interest, verify the genuineness of the guarantee with the issuing bank.
+2.2.5 <u>Internal control systems</u> Bank guarantees issued for Rs.50,000/- and above should be signed by two officials jointly. A lower cut-off point, depending upon the size and category of branches, may be prescribed by banks, where considered necessary. Such a system will reduce the scope for malpractices/ losses arising from the wrong perception/ judgement or lack of honesty/ integrity on the part of a single signatory. Banks should evolve suitable systems and procedures, keeping in view the spirit of these instructions and allow deviation from the two signatures discipline only in exceptional circumstances. The responsibility for ensuring the adequacy and effectiveness of the systems and procedures for preventing perpetration of frauds and malpractices by their officials would, in such cases, rest on the top managements of the banks. In case, exceptions are made for affixing of only one signature on the instruments, banks should devise a system for subjecting such instruments to special scrutiny by the auditors or inspectors at the time of internal inspection of branches.
+2.2.6 <u>Guarantees on behalf of Banks' Directors</u>
+2.2.6.1 Section 20 of the Banking Regulation Act, 1949 prohibits banks from granting loans or advances to any of their directors or any firm or company in which any of their directors is a partner or guarantor. However, certain facilities which, inter alia, include issue of guarantees, are not regarded as 'loan and advances' within the meaning of Section 20 of the Act, ibid. In this regard, it is pertinent to note with particular reference to banks giving guarantees on behalf of their directors, that in the event of the principal debtor committing default in discharging his liability and the bank being called upon to honour its obligation under the guarantee, the relationship between the bank and the director could become one of creditor and debtor. Further, directors would also be able to evade the provisions of Section 20 by borrowing from a third party against the guarantee given by the bank. These types of transactions are likely to defeat the very purpose of enacting Section 20, if banks do not take appropriate steps to ensure that the liabilities thereunder do not devolve on them.
+2.2.6.2 In view of the above, banks should, while extending non-fund based facilities such as guarantees, etc. on behalf of directors and the companies/firms in which the
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 7 -->
+
+## director is interested, ensure that:
+
+i. adequate and effective arrangements have been made to the satisfaction of the bank that the commitments would be met out of their own resources by the party on whose behalf guarantee was issued, and ii. the bank will not be called upon to grant any loan or advance to meet the liability, consequent upon the invocation of guarantee.
+2.2.6.3 In case, such contingencies arise as at (ii) above, the bank will be deemed to be a party to the violation of the provisions of Section 20 of the Banking Regulation Act,
+1949.
+2.2.7 <u>Bank Guarantee Scheme of Government of India</u>
+2.2.7.1 The Bank Guarantee Scheme formulated by the Government of India for the issuance of bank guarantees in favour of Central Government Departments, in lieu of security deposits, etc. by contractors, has been modified from time to time. Under the scheme, it is open to Government Departments to accept freely guarantees, etc. from all scheduled commercial banks.
+2.2.7.2 Banks should adopt the Model Form of Bank Guarantee Bond given in **Annex 1.** The Government of India have advised all the Government departments/ Public Sector Undertakings, etc. to accept bank guarantees in the Model Bond and to ensure that alterations/additions to the clauses whenever considered necessary are not one-sided and are made in agreement with the guaranteeing bank. Banks should mention in the guarantee bonds and their correspondence with the various State Governments, the names of the beneficiary departments and the purposes for which the guarantees are executed. This is necessary to facilitate prompt identification of the guarantees with the concerned departments. In regard to the guarantees furnished by the banks in favour of Government Departments in the name of the President of India, any correspondence thereon should be exchanged with the concerned ministries/ departments and not with the President of India. In respect of guarantees issued in favour of Directorate General of Supplies and Disposal, the following aspects should be kept in view:
+i. In order to speed up the process of verification of the genuineness of the bank guarantee, the name, designation and code numbers of the officer/officers signing the guarantees should be incorporated under the signature(s) of officials signing the bank guarantee. ii. The beneficiary of the bank guarantee should also be advised to invariably obtain the confirmation of the concerned banks about the genuineness of the guarantee issued by them as a measure of safety. iii. The initial period of the bank guarantee issued by banks as a means of security in Directorate General of Supplies and Disposal contract administration would be for a period of six months beyond the original delivery period. Banks may incorporate a suitable clause in their bank guarantee, providing automatic extension of the validity period of the guarantee by 6 months, and also obtain suitable undertaking from the customer at the time of establishing the guarantee to avoid any possible complication later.
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 8 -->
+
+iv. A clause would be incorporated by Directorate General of Supplies and Disposal (DGS&D) in the tender forms of Directorate General of Supplies and Disposal 229 (Instruction to the tenderers) to the effect that whenever a firm fails to supply the stores within the delivery period of the contract wherein bank guarantee has been furnished, the request for extension for delivery period will automatically be taken as an agreement for getting the bank guarantee extended. Banks should make similar provisions in the bank guarantees for automatic extension of the guarantee period.
+
+v. The Public Notice issued by the Customs Department stipulates, inter alia, that all bank guarantees furnished by an importer should contain a self- renewal clause inbuilt in the guarantee itself. As the stipulation in the Public Notice issued by the Customs Department is akin to the notice in the tender form floated by the DGS&D, the provision for automatic extension of the guarantee period in the bank guarantees issued to DGS&D, as at sub- paragraph (iv) above, should also be made applicable to bank guarantees issued favouring the Customs Houses. vi. The bank guarantee, as a means of security in the Directorate General of Supplies and Disposal contract administration and extension letters thereof, would be on non-judicial stamp paper.
+2.2.8 <u>Guarantees on behalf of Share and Stock Brokers/ Commodity Brokers</u> Banks may issue guarantees on behalf of share and stock brokers in favour of stock exchanges in lieu of security deposit to the extent it is acceptable in the form of bank guarantee as laid down by stock exchanges. Banks may also issue guarantees in lieu of margin requirements as per stock exchange regulations. Banks have further been advised that they should obtain a minimum margin of 50 percent while issuing such guarantees. A minimum cash margin of 25 per cent (within the above margin of 50 per cent) should be maintained in respect of such guarantees issued by banks. The above minimum margin of 50 percent and minimum cash margin requirement of 25 percent (within the margin of 50 percent) will also apply to guarantees issued by banks on behalf of commodity brokers in favour of the national level commodity exchanges, viz., National Commodity & Derivatives Exchange (NCDEX), Multi Commodity Exchange of India Limited (MCX) and National Multi-Commodity Exchange of India Limited (NMCEIL), in lieu of margin requirements as per the commodity exchange regulations. Banks should assess the requirement of each applicant borrower and observe usual and necessary safeguards including the exposure ceilings.
+2.2.9 <u>Guidelines relating to obtaining of personal guarantees of directors</u> <u>and other managerial personnel of borrowing concerns</u>
+2.2.9.1 <u>Personal guarantees of directors</u> Banks should take personal guarantees of directors for the credit facilities, etc. granted to corporates, public or private, only, when absolutely warranted after a careful examination of the circumstances of the case and not, as a matter of course. In order to identify the circumstances under which the guarantee may or may not be considered necessary, banks should be guided by the following broad considerations:
+A. <u>Where guarantees need not be considered necessary</u>
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 9 -->
+
+i. Ordinarily, in the case of public limited companies, when the lending institutions are satisfied about the management, its stake in the concern, economic viability of the proposal and the financial position and capacity for cash generation, no personal guarantee need be insisted upon. In fact, in the case of widely owned public limited companies, which may be rated as first class and satisfying the above conditions, guarantees may not be necessary even if the advances are unsecured. Also, in the case of companies, whether private or public, which are under professional management, guarantees may not be insisted upon from persons who are connected with the management solely by virtue of their professional/technical qualifications and not consequent upon any significant shareholding in the company concerned. ii. Where the lending institutions are not so convinced about the aspects of loan proposals mentioned above, they should seek to stipulate conditions to make the proposals acceptable without such guarantees. In some cases, more stringent forms of financial discipline like restrictions on distribution of dividends, further expansion, aggregate borrowings, creation of further charge on assets and stipulation of maintenance of minimum net working capital may be necessary. Also, the parity between owned funds and capital investment and the overall debt-equity ratio may have to be taken into account.
+B. <u>Where guarantees may be considered helpful</u>
+i. Personal guarantees of directors may be helpful in respect of companies, whether private or public, where shares are held closely by a person or connected persons or a group (not being professionals or Government), irrespective of other factors, such as financial condition, security available, etc. The exception being in respect of companies where, by court or statutory order, the management of the company is vested in a person or persons, whether called directors or by any other name, who are not required to be elected by the shareholders. Where personal guarantee is considered necessary, the guarantee should preferably be that of the principal members of the group holding shares in the borrowing company rather than that of the director/managerial personnel functioning as director or in any managerial capacity. ii. Even if a company is not closely held, there may be justification for a personal guarantee of directors to ensure continuity of management. Thus, a lending institution could make a loan to a company whose management is considered good. Subsequently, a different group could acquire control of the company, which could lead the lending institution to have well-founded fears that the management has changed for the worse and that the funds lent to the company are in jeopardy. One way by which lending institutions could protect themselves in such circumstances is to obtain guarantees of the directors and thus ensure either the continuity of the management or that the changes in management take place with their knowledge. Even where personal guarantees are waived, it may be necessary to obtain an undertaking from the borrowing company that no change in the management would be made without the consent of the lending institution. Similarly, during the formative stages of a company, it may be in the interest of the company, as well as the lending institution, to obtain guarantees to ensure continuity of management. iii. Personal guarantees of directors may be helpful with regard to public limited companies other than those which may be rated as first class, where the advance is on an unsecured basis. iv. There may be public limited companies, whose financial position and/or
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 10 -->
+
+capacity for cash generation is not satisfactory even though the relevant advances are secured. In such cases, personal guarantees are useful.
+
+v. Cases where there is likely to be considerable delay in the creation of a charge on assets, guarantee may be taken, where deemed necessary, to cover the interim period between the disbursement of loan and the creation of the charge on assets. vi. The guarantee of parent companies may be obtained in the case of subsidiaries whose own financial condition is not considered satisfactory. vii. Personal guarantees are relevant where the balance sheet or financial statement of a company discloses interlocking of funds between the company and other concerns owned or managed by a group.
+C. <u>Worth of the guarantors, payment of guarantee commission, etc.</u> Where personal guarantees of directors are warranted, they should bear reasonable proportion to the estimated worth of the person. The system of obtaining guarantees should not be used by the directors and other managerial personnel as a source of income from the company. Banks should obtain an undertaking from the borrowing company as well as the guarantors that no consideration whether by way of commission, brokerage fees or any other form, would be paid by the former or received by the latter, directly or indirectly. This requirement should be incorporated in the bank's terms and conditions for sanctioning of credit limits. During the periodic inspections, the bank's inspectors should verify that this stipulation has been complied with. There may, however, be exceptional cases where payment of remuneration may be permitted e.g. where assisted concerns are not doing well and the existing guarantors are no longer connected with the management but continuance of their guarantees is considered essential because the new management's guarantee is either not available or is found inadequate and payment of remuneration to guarantors by way of guarantee commission is allowed.
+D. <u>Personal guarantees in the case of sick units</u> As the personal guarantees of promoters/ directors generally instill greater accountability and responsibility on their part and prompt the managements to conduct the running of the assisted units on sound and healthy lines and to ensure financial discipline, banks, may in their discretion, obtain guarantees from directors (excluding the nominee directors) and other managerial personnel in their individual capacities. In case, for any reasons, a guarantee is not considered expedient by the bank at the time of sanctioning the advance, an undertaking should be obtained from the individual directors and a covenant should invariably be incorporated in the loan agreement that in case the borrowing unit show cash losses or adverse current ratio or diversion of fund, the directors would be under an obligation to execute guarantees in their individual capacities, if required by the banks. Banks may also obtain guarantees at their discretion from the parent/holding company when credit facilities are extended to borrowing units in the same Group.
+2.2.10 <u>Guarantees of State Government</u> The guidelines laid down in paragraph 2.2.9 above, for taking personal guarantees of directors and other managerial personnel, should also be followed in respect of proposal of State Government undertakings/projects and guarantees may not be insisted upon unless absolutely warranted. In other words, banks could obtain
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 11 -->
+
+guarantees of State Governments on merits and only in circumstances absolutely necessary after thorough examination of the circumstances of each case, and not as matter of course.
+
+## 2.3 <u>Guarantees governed by regulations issued under Foreign Exchange Management (Guarantees) Regulations</u>
+
+2.3.1 <u>Bid bonds and performance bonds or guarantees for exports</u>
+i. In terms of Notification No.FEMA.8/2000-RB dated May 3, 2000, Authorised Dealer banks have the permission to give performance bond or guarantee in favour of overseas buyers on account of bona fide exports from India. ii. Prior approval of RBI should be obtained by the Authorised Dealer banks for issue of performance bonds/ guarantees in respect of caution-listed exporters. Before issuing any such guarantees, they should satisfy themselves with the bona fides of the applicant and his capacity to perform the contract and also that the value of the bid/ guarantee as a percentage of the value of the contract/ tender is reasonable and according to the normal practice in international trade, and that the terms of the contract are in accordance with the Foreign Exchange Management Regulations. iii. Authorised Dealer banks, should also, subject to what has been stated above, issue counter-guarantees in favour of their branches/ correspondents abroad in cover of guarantees required to be issued by the latter on behalf of Indian exporters, in cases where guarantees of only resident banks are acceptable to overseas buyers in accordance with local laws/ regulations. iv. If and when the bond/ guarantee is invoked, Authorised Dealer banks may make payments due thereunder to non-resident beneficiaries.
+2.3.2 <u>Issue of Bank Guarantee</u> In terms of Regulation 4 of the Foreign Exchange Management (Guarantees) Regulations, 2000 notified by <u>Notification no. FEMA.8/2000-RB dated May 3, 2000</u>, AD banks are allowed to give guarantees in certain cases, as stated therein.
+(i) <u>Issue of Bank Guarantee in favour of Foreign Airlines/IATA</u> Indian agents of foreign airline companies who are members of International Air Transport Association (IATA), are required to furnish bank guarantees in favour of foreign airline companies/IATA, in connection with their ticketing business. As this is a standard requirement in this business, Authorised Dealer banks in their ordinary course of business can issue guarantees in favour of the foreign airline companies/IATA on behalf of Indian agents of foreign airline companies, who are members of IATA, in connection with their ticketing business. (ii) <u>Issue of Bank Guarantee on behalf of Service Importers</u> With a view to further liberalise the procedure (other than in respect of a Public Sector Company or a Department / Undertaking of the Government of India / State Governments) for import of services, it has been decided to increase the limit for issue of guarantee by AD Category-I Banks from USD 100,000 to USD 500,000.
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 12 -->
+
+Accordingly, AD Category-I banks are now permitted to issue guarantee for amount not exceeding USD 500,000 or its equivalent in favour of a non-resident service provider, on behalf of a resident customer who is a service importer, provided:
+
+(a) the AD Category-I bank is satisfied about the bonafides of the transaction;
+(b) the AD Category-I bank ensures submission of documentary evidence for import of services in the normal course; and
+(c) the guarantee is to secure a direct contractual liability arising out of a contract between a resident and a non-resident. In the case of a Public Sector Company or a Department/ Undertaking of the Government of India/ State Governments, approval from the Ministry of Finance, Government of India for issue of guarantee for an amount exceeding USD 100,000 (USD One hundred thousand) or its equivalent would be required.
+## (iii) <u>Issue of Bank Guarantee-commodity hedging</u>
+
+An Authorised Dealer Category I bank in India may give guarantee or standby Letter of Credit in respect of an obligation incurred by a person resident in India and owed to a person resident outside India in connection with payment of margin money in respect of approved commodity hedging transaction of such person residing in India subject to terms and conditions as may be stipulated by the Reserve Bank from time to time. Banks are advised to refer to the Master Circular on “ Risk Management & Inter Bank Dealings” dated July 2, 2012 for the conditions and guidelines based on which a standby letter of credit /bank guarantee under the facility may be issued by Authorised Dealer Category I banks.
+
+## (iv) <u>Invocation of guarantee</u>
+
+In case of invocation of the guarantee, the authorised dealer bank should send a detailed report to the Chief General Manager-in-Charge, Foreign Exchange Department, External Payments Division(EPD), Reserve Bank of India, Central Office, Mumbai – 400 001, explaining the circumstances leading to the invocation of the guarantee.
+
+2.3.3 <u>Other stipulations</u>
+i. With a view to boost exports, banks should adopt a flexible approach in the matter of obtaining cover and earmarking of assets/ credit limits, drawing power, while issuing bid bonds and performance guarantees for export purposes. Banks may, however, safeguard their interests by obtaining an Export Performance Guarantee of ECGC, wherever considered necessary. ii. Export Credit Guarantee Corporation of India Ltd. (ECGC) would provide 90 percent cover for bid bonds, provided the banks give an undertaking not to insist on cash margins. iii. Banks may not, therefore, ask for any cash margin in respect of bid bonds and guarantees which are counter-guaranteed by ECGC. iv. In other cases, where such counter-guarantees of ECGC are not available,
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 13 -->
+
+for whatever reasons, the banks may stipulate a reasonable cash margin only where it is considered absolutely necessary, as they satisfy themselves generally about the capacity and financial position of the exporter while issuing such bid bonds/ guarantees.
+
+v. Banks may consider sanctioning separate limits for issue of bid bonds. Within the limits so sanctioned, bid bonds against individual contracts may be issued, subject to usual considerations.
+2.3.4 <u>Unconditional Guarantees in favour of Overseas Employers/</u> <u>Importers on behalf of Indian Exporters</u>
+i. While agreeing to give unconditional guarantee in favour of overseas employers/importers on behalf of Indian Exporters, banks should obtain an undertaking from the exporter to the effect that when the guarantee is invoked, the bank would be entitled to make payment, notwithstanding any dispute between the exporter and the importer. Although, such an undertaking may not prevent the exporter from approaching the Court for an injunction order, it might weigh with the Court in taking a view whether injunction order should be issued. ii. Banks should, while issuing guarantees in future, keep the above points in view and incorporate suitable clauses in the agreement, in consultation with their legal advisers. This is considered desirable as non-honouring of guarantees on invocation might prompt overseas banks not to accept guarantees of Indian banks, thus hampering the country's export promotion effort.
+2.3.5 <u>Certain precautions in case of Project Exports</u>
+i. Banks are aware that the Working Group mechanism has been evolved for the purpose of giving package approvals in principle at post-bid stages for high value overseas project exports. The role of the Working Group is mainly regulatory in nature, but the responsibility of project appraisal and that of monitoring the project lies solely on the sponsor bank. ii. As the Working Group approvals are based on the recommendations of the sponsor banks, the latter should examine the project proposals thoroughly with regard to the capacity of the contractor/ sub-contractors, protective clauses in the contracts, adequacy of security, credit ratings of the overseas sub-contractors, if any, etc. iii. Therefore, the need for a careful assessment of financial and technical demands involved in the proposals vis-à-vis the capability of the contractors (including sub-contractors) as well as the overseas employers can hardly be under- rated to the financing of any domestic projects. In fact, the export projects should be given more attention, in view of their high values and the possibilities of foreign exchange losses in case of failure, apart from damage to the image of Indian entrepreneurs. iv. While bid bonds and performance guarantees cannot be avoided, it is to be considered whether guarantees should be given by the banks in all cases of overseas borrowings for financing overseas projects. Such guarantees should not be executed as a matter of course, merely because of the participation of Exim Bank and availability of counter-guarantee of ECGC. Appropriate arrangements should
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 14 -->
+
+also be made for post-award follow-up and monitoring of the contracts.
+
+2.3.6 <u>Guarantees for Export Advance</u>
+(i) It had come to the notice of Reserve Bank that exporters with low export turnover are receiving large amounts as export advances, in low interest rate currencies, against domestic bank guarantees and are depositing such advances with banks in Indian Rupees for interest rate arbitrage. Further, the guarantees are being issued even before the receipt of the advances, with a proviso that the guarantees would be operational only upon receipt of the advances. The guarantees have been issued at par values, against the discounted values of the export advances. The exporters have also been allowed to freely book, cancel and rebook forward contracts without any crystallized exports and / or past performances, in contravention of the FEMA regulations. It has also been observed that the exporters keep a substantial part of their Indian Rupee – US Dollar leg of the currency exposure open, thereby exposing both the exporters and the domestic banks to foreign exchange risk. In such cases, generally no exports have taken place and the exporters have neither the track record nor the ability to execute large export orders. The transactions have basically been designed for taking advantage of the interest rate differential and currency movements and have implications for capital flows. (ii) Guarantees are permitted in respect of debt or other liability incurred by an exporter on account of exports from India. It is therefore intended to facilitate execution of export contracts by an exporter and not for other purposes. In terms of extant instructions banks have also been advised that guarantees contain inherent risks, and that it would not be in the banks' interest or in the public interest generally to encourage parties to over-extend their commitments and embark upon enterprises solely relying on the easy availability of guarantee facilities. It is, therefore, reiterated that as guarantees contain inherent risks, it would not be in the interest of the banks or the financial system if such transactions, as mentioned at paragraph 2.3.6(i) above, are entered into by banks. Banks should, therefore, be careful while extending guarantees against export advances so as to ensure that no violation of FEMA regulations takes place and banks are not exposed to various risks. It will be important for the banks to carry out due diligence and verify the track record of such exporters to assess their ability to execute such export orders. (iii) Banks should also ensure that the export advances received by the exporters are in compliance with the regulations/ directions issued under the Foreign Exchange Management Act, 1999.
+2.3.7 <u>Review of banks’ procedures</u> Banks may periodically review the position regarding delegation of powers and their procedures, and take such action as may be necessary with a view to expediting decision on export proposals. They may also consider designating a specified branch, equipped with adequately qualified and trained staff, in each important centre to deal expeditiously with all export credit proposals at the centre.
+2.3.8 <u>Other Guarantees regulated by</u> <u>Foreign Exchange Management Rules</u> Issue of the following types of guarantees are governed by the Foreign Exchange Management Regulations:
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 15 -->
+
+i. Minor Guarantees ii. Bank Guarantees-Import under Foreign Loans/Credits iii. Guarantees for Non-Residents For operative instructions, a reference may be made to the notification issued under FEMA.8/ 2000 dated May 3, 2000 cited above, as well as to the guidelines issued by the Foreign Exchange Department in its Master Circulars. However, for ease of reference, instructions/ guidelines in regard to issue of these guarantees are reproduced hereunder.
+2.3.8.1 <u>Minor guarantees</u> Authorised Dealer banks may freely give on behalf of their customers and overseas branches and correspondents, guarantees in the ordinary course of business in respect of missing or defective documents, authenticity of signatures and for other similar purposes.
+2.3.8.2 <u>Bank guarantees-Import under foreign loans/credits</u> Banks / Financial Institutions are not permitted to issue guarantees/ standby letters of credit or letters of comfort in favour of overseas lenders relating to External Commercial Borrowing (ECB). Applications for providing guarantees/ standby letters of credit or letters of comfort by banks relating to ECB in the case of SMEs will be considered by the Reserve Bank on merit under the Approval Route, subject to prudential norms. Applications by banks for issue of guarantees, standby letters of credit, letters of undertaking or letter of comfort in respect of ECB by textile companies for modernization or expansion of the textile units, after the phasing out of Multi Fibre Agreements, will be considered by Reserve Bank under the Approval Route subject to prudential norms.
+2.3.8.3 <u>Trade Credits for imports into India –</u> <u>Issue of Guarantees-Delegation of powers</u>
+i. Credit extended for imports directly by the overseas supplier, bank and financial institution for maturity of less than three years is hereinafter referred to as ‘trade credit’ for imports. Depending on the source of finance, such trade credit will include suppliers’ credit or buyers’ credit. It may be noted that buyers’ credit and suppliers’ credit for three years and above come under the category of External Commercial Borrowings (ECB), which are governed by ECB guidelines issued vide
+A. P. (DIR Series) Circular No. 60 dated January 31, 2004 and modified from time to time. ii. AD banks can approve trade credits for imports into India up to USD 20 million per import transaction for imports permissible under the current Foreign Trade Policy of DGFT with a maturity period up to one year from the date of shipment. For import of capital goods classified by DGFT, AD banks may approve trade credits up to USD 20 million per import transaction with a maturity period of more than one year and less than three years. No roll-over/ extension will be permitted by the AD banks beyond the permissible period. iii. General permission has been granted to Authorised Dealer banks to issue guarantees/ Letter of Undertaking (LoU)/ Letter of Comfort (LoC) in favour of the
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 16 -->
+
+overseas supplier, bank and financial institution up to USD 20 million per import transaction for a period up to one year for import of all non-capital goods permissible, under the Foreign Trade Policy (except gold) and up to three years for import of capital goods, subject to prudential norms issued by the Reserve Bank from time to time. The period of such guarantees/LoUs/LoCs has to be co-terminus with the period of credit, reckoned from the date of shipment.
+
+iv. As regards reporting arrangements, AD banks are required to furnish data on issuance of guarantees/LoUs/LoCs by all its branches, in a consolidated statement, at quarterly intervals (format in **Annex 2**) to the Chief General Manager-in-Charge, Foreign Exchange Department, ECB Division, Reserve Bank of India, Central Office Building, 11 th floor, Fort, Mumbai – 400 001 (and in MS-Excel file through <u>email</u>) from December, 2004 onwards so as to reach the department not later than the 10 th
+
+## of the following month.
+
+2.3.8.4 <u>Loans abroad against securities provided in India</u> In terms of Regulation 4(2) of Notification No. FEMA.8/2000-RB dated May 3, 2000, an AD may give guarantee in respect of any debt, obligations or other liability incurred by a person resident outside India, among others, where such debt, obligation or liability is owed to a person resident in India in connection with a bona fide trade transaction, provided that the guarantee is covered by a counter guarantee of a bank of international repute resident abroad.
+2.3.8.5 <u>Guarantees for non-residents</u>
+i. Reserve Bank has granted general permission to Authorised Dealer banks, vide its Notification No. FEMA/8/ 2000 dated 3
+rd May 2000, to give guarantees in favour of persons resident in India in respect of any debt or other obligation or liability of a person resident outside India, subject to such instructions as may be issued by RBI from time to time.
+
+ii. Authorised Dealer banks may, accordingly, give on behalf of their overseas branches/ correspondents or a bank of international repute, guarantees/ performance bonds in favour of residents of India in connection with genuine transactions involving debt, liability or obligation of non-residents, provided the bond/ guarantee is covered by a counter-guarantee of the overseas Head Office/ branch/ correspondent or a bank of international repute.
+
+iii. Authorised Dealer banks should ensure that counter-guarantees are properly evaluated and their own guarantees against such guarantees are not issued in a routine manner. Before issuing a guarantee against the counter-guarantee from an overseas Head Office/branch/ correspondent/ bank of international repute, Authorised Dealer banks should satisfy themselves that the obligations under the counter-guarantee, when invoked, would be honoured by the overseas bank promptly. If the Authorised Dealer bank desires to issue guarantee with the condition that payment will be made, provided reimbursement has been received from the overseas bank which had issued the counter-guarantee, this fact should be made clearly known to the beneficiary in the guarantee document itself.
+
+iv. Authorised Dealer banks may make rupee payments to the resident beneficiaries immediately when the guarantee is invoked and, simultaneously, arrange to obtain the reimbursement from the overseas bank concerned, which had issued the counter-guarantee.
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 17 -->
+
+v Cases where payments are not received by the Authorised Dealer banks when the guarantees of overseas banks are invoked, should be reported to RBI indicating the steps being taken by the bank to recover the amount due under the guarantee.
+
+vi. Authorised Dealer banks may issue guarantees in favour of overseas organisations issuing travellers cheques in respect of blank travellers cheques stocked for sale by them or on behalf of their constituents who are full-fledged money changers holding valid licences from Reserve Bank, subject to suitable counter-guarantee being obtained from the latter. In the event of the guarantee being invoked, Authorised Dealer banks may effect remittance but should send a separate report thereon furnishing full details to the Chief General Manager, Foreign Exchange Department, (Forex Markets Division), Reserve Bank of India, Central Office, Mumbai - 400 001.
+
+2.3.8.6 <u>Overseas Investment – Guarantee on behalf of</u> <u>Wholly Owned Subsidiaries (WOSs)/Joint Ventures (JVs) abroad</u>
+(i) An Indian party may have financial commitment to its JV / WOS to the limit of 400 percent of the net worth of the Indian party as on the date of the last audited balance sheet. The financial commitment may be in the form of
+(a) capital contribution and loan to the JV / WOS;
+(b) corporate guarantee (only 50 percent value in case of performance guarantee) and / or bank guarantee (which is backed by a counter guarantee / collateral by the Indian party) on behalf of the JV / WOS and
+(c) charge on immovable / movable property and other financial assets of the Indian party (including group company) on behalf of JV / WOS.
+(ii) An Indian party may offer any form of guarantee on behalf of the JV / WOS [corporate or personal / primary or collateral / guarantee by the promoter company / guarantee by group company, sister concern or associate company in India] provided that:
+
+a) The total financial commitment of the Indian party, including all forms of guarantees, are within the overall ceiling prescribed for overseas direct investment;
+b) No guarantee should be 'open ended' i.e. the amount and period of the guarantee should be specified upfront.
+c) In the case of performance guarantee, time specified for the completion of the contract shall be the validity period of the related performance guarantee;
+d) In cases where invocation of the performance guarantee breaches the specified ceiling for the financial commitment of 400 per cent, the Indian party shall seek prior approval of the Reserve Bank before remitting funds from India;
+e) All forms of guarantees are required to be reported to the Reserve Bank in Form ODI Part II.
+(iii) An Indian party may extend corporate guarantee on behalf of the first generation step down operating subsidiary under the Automatic Route within the prevailing limit for the overseas direct investments. (iv) An Indian party may issue corporate guarantee on behalf of second generation or subsequent generation step down operating subsidiaries with prior approval from the Reserve Bank, provided the Indian party indirectly holds 51 percent or more stake in the overseas subsidiary for which such guarantee is intended to be issued.
+
+(v) The bank guarantee issued by a resident bank on behalf of an overseas JV / WOS of the Indian party, which is backed by a counter guarantee / collateral by the Indian party, shall be reckoned for computation of the financial commitment of the Indian party for overseas direct investments. The bank guarantee to be issued would be subject to the prudential norms issued by the Reserve Bank (DBOD) from time to time.”
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 18 -->
+
+## 2.4 <u>Restrictions on guarantees of inter-company deposits/loans</u>
+
+Banks should not execute guarantees covering inter-company deposits/loans thereby guaranteeing refund of deposits/loans accepted by NBFC/firms from other NBFC/firms.
+
+2.4.1 <u>Restriction on guarantees for placement of funds with NBFCs</u> These instructions would cover all types of deposits/ loans irrespective of their source, including deposits/loans received by NBFCs from trusts and other institutions. Guarantees should not be issued for the purpose of indirectly enabling the placement of deposits with NBFCs.
+2.4.2 <u>Restrictions on Inter-Institutional Guarantees</u>
+2.4.2.1 Banks should not execute guarantees covering inter-company deposits/ loans. Guarantees should not, also, be issued for the purpose of indirectly enabling the placement of deposits with non-banking institutions. This stipulation will apply to all types of deposits/loans irrespective of their source, e.g. deposits/ loans received by non-banking companies from trusts and other institutions.
+2.4.2.2 Transactions of the following type are in the nature of guarantees executed by banks in respect of funds made available by one non-banking to another non- banking company and banks should therefore, desist from such practices:
+a) A seller drew bills, normally of 120 to 180 days usance, on the buyer which were accepted by the buyer and co-accepted by his banker. The bills were discounted by the seller with the accommodating company, which retained the bills till the due date. The bank which gave co-acceptance invariably earmarked funds for the liability under the bills against the drawing power in respect of stocks held in the cash credit account of its client, the buyer, or
+b) The accommodating company kept deposits for a specific period with the bank's borrowers under a guarantee executed by the bank. In such a case also, the bank earmarked the amount against drawing power available in the cash credit account.
+2.4.2.3 (a) Banks may issue guarantees favouring other banks/ FIs/ other lending agencies for the loans extended by the latter, subject to strict compliance with the following conditions.
+i. The Board of Directors should reckon the integrity/ robustness of the bank’s risk management systems and, accordingly, put in place a well-laid out policy in this regard. The Board approved policy should, among others, address the following issues:
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 19 -->
+
+a. Prudential limits, linked to bank’s Tier I capital, up to which guarantees favouring other banks/FIs/other lending agencies may be issued
+b. Nature and extent of security and margins
+c. Delegation of powers
+d. Reporting system
+e. Periodical reviews
+ii. The guarantee shall be extended only in respect of borrower constituents and to enable them to avail of additional credit facility from other banks/FIs/lending agencies.
+
+iii. The guaranteeing bank should assume a funded exposure of at least 10% of the exposure guaranteed.
+
+iv. Banks should not extend guarantees or letters of comfort in favour of overseas lenders including those assignable to overseas lenders. However, AD banks may also be guided by the provisions contained in Notification No. FEMA 8/2000-RB dated May 3, 2000.
+
+v. The guarantee issued by the bank will be an exposure on the borrowing entity on whose behalf the guarantee has been issued and will attract appropriate risk weight, as per the extant guidelines. vi. Banks should ensure compliance with the recommendations of the Ghosh Committee and other internal requirements relating to issue of guarantees, to obviate the possibility of frauds in this area. vii. Of late, certain banks have been issuing guarantees on behalf of corporate entities in respect of non-convertible debentures issued by such entities. It is clarified that the extant instructions apply only to loans and not to bonds or debt instruments. Guarantees by the banking system for a corporate bond or any debt instrument not only have significant systemic implications but also impede the development of a genuine corporate debt market. Banks are advised to strictly comply with the extant regulations and in particular, not to provide guarantees or equivalent commitments for issuance of bonds or debt instruments of any kind.
+2.4.2.3 (b) <u>Lending banks</u> Banks extending credit facilities against the guarantees issued by other banks/FIs should ensure strict compliance with the following conditions:
+i. The exposure assumed by the bank against the guarantee of another bank/FI will be deemed as an exposure on the guaranteeing bank/FI and will attract appropriate risk weight as per the extant guidelines. ii. Exposures assumed by way of credit facilities extended against the guarantees issued by other banks should be reckoned within the inter bank exposure limits prescribed by the Board of Directors. Since the exposure assumed by the bank against the guarantee of another bank/FI will be for a fairly longer term than those assumed on account of inter-bank dealings in the money market, foreign exchange market and securities market, the Board of Directors should fix an appropriate sub-limit for the longer term exposures, since these exposures attract
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 20 -->
+
+greater risk.
+
+iii. Banks should monitor the exposure assumed on the guaranteeing bank/ FI, on a continuous basis and ensure strict compliance with the prudential limits/ sub limits prescribed by the Board for banks and the prudential single borrower limits prescribed by RBI for FIs.
+
+iv. Banks should comply with the recommendations of the Ghosh Committee and other internal requirements relating to acceptance of guarantees of other banks, to obviate the possibility of frauds in this area.
+
+2.4.2.4 <u>Exceptions</u>
+i. In regard to rehabilitation of sick/weak industrial units, in exceptional cases, where banks are unable to participate in rehabilitation packages on account of temporary liquidity constraints, the concerned banks could provide guarantees in favour of the banks which take up their additional share. Such guarantees will remain extant until such time that the banks providing additional finance against guarantees are re-compensated. ii. In respect of infrastructure projects, banks may issue guarantees favouring other lending institutions, provided the bank issuing the guarantee takes a funded share in the project at least to the extent of 5 percent of the project cost and undertakes normal credit appraisal, monitoring and follow up of the project. iii. In cases of Sellers Line of Credit Scheme (since renamed as Direct
+1 Discounting Scheme) operated by IDBI Bank Ltd. and all India financial institutions like SIDBI, PFC, etc for sale of machinery, the primary credit is provided by the seller’s bank to the seller through bills drawn on the buyer and the seller’s bank has no access to the security covered by the transaction which remains with the buyer. As such, buyer’s banks are permitted to extend guarantee/ co-acceptance facility for the bills drawn under seller’s line of credit.
+
+iv. Similarly, guarantees can be issued in favour of HUDCO/ State Housing Boards and similar bodies/ organisations for the loans granted by them to private borrowers who are unable to offer clear and marketable title to property, provided banks are otherwise satisfied with the capacity of the borrowers to adequately service such loans.
+
+(v)Banks may sanction issuance of guarantees on behalf of their constituents, favouring Development Agencies/ Boards like Indian Renewable Energy Development Agency, National Horticulture Board, etc., for obtaining soft loans and/or other forms of development assistance.
+2.4.2.5 <u>Infrastructure projects</u> Keeping in view the special features of lending to infrastructure projects viz., the high degree of appraisal skills on the part of lenders and availability of resources of a maturity matching with the project period, banks have been given discretion in the matter of issuance of guarantees favouring other lending agencies, in respect of infrastructure projects alone, subject to the following conditions: The scheme which was being operated by the erstwhile IDBI is being continued by IDBI Bank Ltd.
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 21 -->
+
+(i) The bank issuing the guarantee takes a funded share in the project at least to the extent of 5 percent of the project cost and undertakes normal credit appraisal, monitoring and follow-up of the project. (ii) The guarantor bank has a satisfactory record in compliance with the prudential regulations, such as, capital adequacy, credit exposure, norms relating to income recognition, asset classification and provisioning, etc.
+## 2.5. <u>Payment of invoked guarantees</u>
+
+2.5.1 Where guarantees are invoked, payment should be made to the beneficiaries without delay and demur. An appropriate procedure for ensuring such immediate honouring of guarantees should be laid down so that there is no delay on the pretext that legal advice or approval of higher authorities is being obtained.
+2.5.2 Delays on the part of banks in honouring the guarantees when invoked tend to erode the value of the bank guarantees, the sanctity of the scheme of guarantees and image of banks. It also provides an opportunity to the parties to take recourse to courts and obtain injunction orders. In the case of guarantees in favour of Government departments, this not only delays the revenue collection efforts but also gives an erroneous impression that banks are actively in collusion with the parties, which tarnish the image of the banking system.
+2.5.3 There should be an effective system to process the guarantee business to ensure that the persons on whose behalf the guarantees are issued will be in a position to perform their obligations in the case of performance guarantees and honour their commitments out of their own resources, as and when needed, in the case of financial guarantees.
+2.5.4 The top management of the banks should bestow their personal attention to the need to put in place a proper mechanism for making payments in respect of invoked guarantees promptly, so that no room is given for such complaints. When complaints are made, particularly by the Government departments for not honouring the guarantees issued, the top management of the bank, including its Chief Executive Officer, should personally look into such complaints.
+2.5.5 In this regard, the Delhi High Court has made adverse remarks against certain banks in not promptly honouring the commitment of guarantees when invoked. It has been observed that a bank guarantee is a contract between the beneficiary and the bank. When the beneficiary invokes the bank guarantee and a letter invoking the same is sent in terms of the bank guarantee, it is obligatory on the bank to make payment to the beneficiary.
+2.5.6 The Supreme Court had observed [U.P. Co-operative Federation Private Ltd. versus Singh Consultants and Engineers Private Ltd. (1988 IC SSC 174)] that the commitments of the banks must be honoured, free from interference by the courts. The relevant extract from the judgement of the Supreme Court in a case is as under: *'We are, therefore, of the opinion that the correct position of law is that commitment* *of banks must be honoured free from interference by the courts and it is only in* *exceptional cases, that is, to say, in case of fraud or any case where irretrievable* *injustice would be done if bank guarantee is allowed to be encashed, the court* *should interfere'.*
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 22 -->
+
+2.5.7 In order to avoid such situations, it is absolutely essential for banks to appraise the proposals for guarantees also with the same diligence, as in the case of fund based limits, and obtain adequate cover by way of margin so as to prevent the constituents to develop a tendency of defaulting in payments when invoked guarantees are honoured by the banks.
+2.5.8 i. In the interest of the smooth working of the Bank Guarantee Scheme, it is essential to ensure that there is no discontentment on the part of the Government departments regarding its working. Banks are required to ensure that the guarantees issued by them are honoured without delay and hesitation when they are invoked by the Government departments in accordance with the terms and conditions of the guarantee deed, unless there is a Court order restraining the banks. ii. Any decision not to honour the obligation under the guarantee invoked may be taken after careful consideration, at a fairly senior level, and only in the circumstances where the bank is satisfied that any such payment to the beneficiary would not be deemed a rightful payment in accordance with the terms and conditions of the guarantee under the Indian Contract Act. iii. The Chief Executive Officers of banks should assume personal responsibility for such complaints received from Government departments. Sufficient powers should be delegated to the line functionaries so that delay on account of reference to higher authorities for payment under the guarantee does not occur. iv. Banks should also introduce an appropriate procedure for ensuring immediate honouring of guarantees, so that there is no delay on the pretext that legal advice or approval of higher authorities is being obtained.
+v. For any non-payment of guarantee in time, staff accountability should be fixed and stern disciplinary action including award of major penalty such as dismissal, should be taken against the delinquent officials at all levels. vi. Where banks have executed bank guarantees in favour of Customs and Central Excise authorities to cover differential duty amounts in connection with interim orders issued by High Courts, the guarantee amount should be released immediately when they are invoked on vacation of the stay orders by Courts. Banks should not hold back the amount on the pretext that it would affect their liquidity position.
+2.5.9 There have also been complaints by Ministry of Finance that some of the departments such as Department of Revenue, Government of India are finding it difficult to execute judgements delivered by various Courts in their favour as banks do not honour their guarantees, unless certified copies of the Court judgements are made available to them. In this regard, the banks may follow the following procedure:
+i. Where the bank is a party to the proceedings initiated by Government for enforcement of the bank guarantee and the case is decided in favour of the Government by the Court, banks should not insist on production of certified copy of the judgement, as the judgement/ order is pronounced in open Court in presence of the parties/ their counsels and the judgement is known to the bank. ii. In case the bank is not a party to the proceedings, a signed copy of the minutes of the order certified by the Registrar/ Deputy or Assistant Registrar of the High Court or the ordinary copy of the judgement/ order of the High Court, duly
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 23 -->
+
+attested to be true copy by Government Counsel, should be sufficient for honouring the obligation under guarantee, unless the guarantor bank decides to file any appeal against the order of the High Court.
+
+iii. Banks should honour the guarantees issued by them as and when they are invoked in accordance with the terms and conditions of the guarantee deeds. In case of any disputes, such honouring can be done under protest, if necessary, and the matters of dispute pursued separately.
+
+iv. The Government, on their part, have advised the various Government departments, etc. that the invocation of guarantees should be done after careful consideration at a senior-level that a default has occurred in accordance with the terms and conditions of the guarantees and as provided in the guarantee deed.
+
+v. Non-compliance of the instructions in regard to honouring commitments under invoked guarantees will be viewed by Reserve Bank very seriously and Reserve Bank will be constrained to take deterrent action against the banks.
+## 2.6 <u>Co-acceptance of bills</u>
+
+2.6.1 <u>General</u> Reserve Bank has observed that some banks co-accept bills of their customers and also discount bills co-accepted by other banks in a casual manner. These bills subsequently turn out to be accommodation bills drawn by groups of sister concerns on each other where no genuine trade transaction takes place. Banks, while discounting such bills, appear to ignore this important aspect presumably because of the co-acceptance given by other banks. The bills, on maturity, are not honoured by the drawees and the banks which co-accept the bills have to make payment of these bills, and they find it difficult to recover the amount from the drawers/ drawees of bills. Banks also discount bills for sizeable amounts, which are co-accepted by certain Urban Co-operative Banks. On maturity, the bills are not honoured and the co-operative banks, which co-accept the bills, also find it difficult to make the payment. The financial position and capacity of the co-accepting bank to honour the bills, in the event of need, is not being gone into. Cases have also been observed where the particulars regarding co-acceptance of bills are not recorded in the bank's books, with the result that the extent thereof cannot be verified during inspections, and the Head Office becomes aware of the co-acceptance only when a claim is received from the discounting bank.
+2.6.2 <u>Safeguards</u> In the light of the above, banks should keep in view the following safeguards:
+i. While sanctioning co-acceptance limits to their customers, the need therefor should be ascertained, and such limits should be extended only to those customers who enjoy other limits with the bank. ii. Only genuine trade bills should be co-accepted and the banks should ensure that the goods covered by bills co-accepted are actually received in the stock accounts of the borrowers. iii. The valuation of the goods as mentioned in the accompanying invoice should be verified to see that there is no over-valuation of stocks.
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 24 -->
+
+iv. The banks should not extend their co-acceptance to house bills/ accommodation bills drawn by group concerns on one another.
+
+v. The banks discounting such bills, co-accepted by other banks, should also ensure that the bills are not accommodation bills and that the co-accepting bank has the capacity to redeem the obligation in case of need. vi. Bank-wise limits should be fixed, taking into consideration the size of each bank for discounting bills co-accepted by other banks, and the relative powers of the officials of the other banks should be got registered with the discounting banks. vii. Care should be taken to see that the co-acceptance liability of any bank is not disproportionate to its known resources position. viii. A system of obtaining periodical confirmation of the liability of co-accepting banks in regard to the outstanding bills should be introduced. ix. Proper records of the bills co-accepted for each customer should be maintained, so that the commitments for each customer and the total commitments at a branch can be readily ascertained, and these should be scrutinised by Internal Inspectors and commented upon in their reports.
+x. It is also desirable for the discounting bank to advise the Head Office/ Controlling Office of the bank, which has co-accepted the bills, whenever such transactions appear to be disproportionate or large. xi. Proper periodical returns may be prescribed so that the Branch Managers report such co-acceptance commitments entered into by them to the Controlling Offices. xii. Such returns should also reveal the position of bills that have become overdue, and which the bank had to meet under the co-acceptance obligation. This will enable the Controlling Offices to monitor such co-acceptances furnished by the branches and take suitable action in time, in difficult cases. xiii. Co-acceptances in respect of bills for Rs.10,000/- and above should be signed by two officials jointly, deviation being allowed only in exceptional cases, e.g. non- availability of two officials at a branch. xiv. Before discounting/ purchasing bills co-accepted by other banks for Rs. 2 lakh and above from a single party, the bank should obtain written confirmation of the concerned Controlling (Regional/ Divisional/ Zonal) Office of the accepting bank and a record of the same should be kept. xv. When the value of the total bills discounted/ purchased (which have been co- accepted by other banks) exceeds Rs. 20 lakh for a single borrower/ group of borrowers, prior approval of the Head Office of the co-accepting bank must be obtained by the discounting bank in writing.
+2.6.3 In addition to the above safeguards to be observed by banks in co-accepting the bills, it must be noted that the banks are precluded from co-accepting bills drawn under Buyers Line of Credit Schemes introduced by IDBI Bank Ltd. and all India financial institutions like SIDBI, Power Finance Corporation Ltd. (PFC), etc. Similarly, banks should not co-accept bills drawn by NBFCs. In addition, banks are advised not to extend co-acceptance on behalf of their buyers/constituents under the
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 25 -->
+
+## SIDBI Scheme.
+
+2.6.4 However, banks may co-accept bills drawn under the Sellers Line of Credit Schemes (since renamed as Direct Discounting Scheme) operated by IDBI Bank Ltd. and all India financial institutions for Bill Discounting operated by IDBI Bank
+3 Ltd. and all India financial institutions like SIDBI, PFC, etc. without any limit, subject to the buyer’s capability to pay, and compliance with the exposure norms prescribed by the bank for individual/ group borrowers.
+
+2.6.5 There have been instances where branches of banks open L/Cs on behalf of their constituents and also co-accept the bills drawn under such L/Cs. Legally, if a bank co-accepts a bill drawn under its own L/C, the bill so co-accepted becomes an independent document. The special rules applicable to commercial credits do not apply to such a bill and the bill is exclusively governed by the law relating to Bills of Exchange, i.e. the Negotiable Instruments Act. The negotiating bank of such a bill is not under any obligation to check the particulars of the bill with reference to the terms of the L/C. This practice is, therefore, superfluous and defeats the purpose of issuing the L/C. The discounting banks should first ascertain from the co-accepting banks, the reason for such co-acceptance of bills drawn under their own L/C and only after satisfying themselves of genuineness of such transactions, they may consider discounting such bills.
+2.6.6 It should be ensured that the branch officials strictly adhere to the above referred instructions at the time of co-acceptance of bills. It would be advisable to determine clear accountability in this respect and officials found to be not complying with the instructions must be dealt with sternly.
+## 2.7 <u>Precautions to be taken in the case of Letters of Credit</u>
+
+2.7.1 Banks should not extend any non-fund based facilities or additional/ad-hoc credit facilities to parties who are not their regular constituents, nor should they discount bills drawn under LCs, or otherwise, for beneficiaries who are not their regular clients. In the case of LCs for import of goods, banks should be very vigilant while making payment to the overseas suppliers on the basis of shipping documents. They should exercise precaution and care in comparing the clients. The payments should be released to the foreign parties only after ensuing that the documents are strictly in conformity with the terms of the LCs. There have been many irregularities in the conduct of LC business, such as the LC transactions not being recorded in the books of the branch by officials issuing them, the amount of LCs being much in excess of the powers vested in the officials, fraudulent issue of LCs involving a conspiracy/collusion between the beneficiary and the constituent. In such cases, the banks should take action against the concerned officials as well as the constituent on whose behalf the LCs were opened and the beneficiary of LCs, if a criminal conspiracy is involved.
+2.7.2 <u>Settlement of claims under Letters of Credits(LCs)</u> In case the bills drawn under LCs are not honoured, it would adversely affect the character of LCs and the relative bills as an accepted means of payment. This could also affect the credibility of the entire payment mechanism through banks and affect the image of the banks. Banks should, therefore, honour their commitments under LCs and make payments promptly. The scheme which was being operated by the erstwhile IDBI is being continued by IDBI Bank Ltd. The Scheme which was being operated by the erstwhile IDBI is being continued by IDBI Bank Ltd.
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 26 -->
+
+# ANNEX 1
+
+## Model Form of Bank Guarantee Bond
+
+## [ paragraph 2.2.7.2]
+
+## GUARANTEE BOND
+
+1. In consideration of the President of India (hereinafter called 'the Government') having agreed to exempt _______________________________ [hereinafter called 'the said Contractor(s)'] from the demand, under the terms and conditions of an Agreement dated ___________ made between _______________________________________________ and___________________________________for_____________ (hereinafter called 'the said Agreement'), of security deposit for the due fulfilment by the said Contractor(s) of the terms and conditions contained in the said Agreement, on production of a bank Guarantee for Rs. __________ (Rupees______________________________________ Only) We, ______________________________________________________________, (hereinafter referred (indicate the name of the bank) to as 'the Bank') at the request of _________________________________________________ [contractor(s)] do hereby undertake to pay to the Government an amount not exceeding Rs. ______________ against any loss or damage caused to or suffered or would be caused to or suffered by the Government by reason of any breach by the said Contractor(s) of any of the terms or conditions contained in the said Agreement.
+2. We _______________________________________________________ (indicate the name of the bank) do hereby undertake to pay the amounts due and payable under this guarantee without any demur, merely on a demand from the Government stating that the amount claimed is due by way of loss or damage caused to or would be caused to or suffered by the Government by reason of breach by the said contractor(s) of any of the terms or conditions contained in the said Agreement or by reason of the contractor(s)' failure to perform the said Agreement. Any such demand made on the bank shall be conclusive as regards the amount due and payable by the Bank under this guarantee. However, our liability under this guarantee shall be restricted to an amount not exceeding Rs. _______________.
+3. We undertake to pay to the Government any money so demanded notwithstanding any dispute or disputes raised by the contractor(s)/supplier(s) in any suit or proceeding pending before any Court or Tribunal relating thereto our liability under this present being absolute and unequivocal. The payment so made by us under this bond shall be a valid discharge of our liability for payment thereunder and the contractor(s)/supplier(s) shall have no claim against us for making such payment.
+4. We,_____________________________________________________________ (indicate the name of bank) further agree that the guarantee herein contained shall remain in full force and effect during the period that would be taken for the performance of the said Agreement and that it shall continue to be enforceable till all the dues of the Government under or by virtue of the said Agreement have been fully paid and its claims satisfied or discharged or till__________________________________ Office/Department/Ministry of________________________________ certifies that the terms and conditions of the said Agreement have been fully and properly carried out by the said contractor(s) and accordingly discharges this guarantee. Unless a demand or claim under this guarantee is made on us in writing on or before the ___________________________________________ we shall be discharged from all
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 27 -->
+
+## liability under this guarantee thereafter.
+
+5. We, _______________________________________________ (indicate the name of bank) further agree with the Government that the Government shall have the fullest liberty without our consent and without affecting in any manner our obligations hereunder to vary any of the terms and conditions of the said Agreement or to extend time of performance by the said contractor(s) from time to time or to postpone for any time or from time to time any of the powers exercisable by the Government against the said Contractor(s) and to forbear or enforce any of the terms and conditions relating to the said agreement and we shall not be relieved from our liability by reason of any such variation, or extension being granted to the said Contractor(s) or for any forbearance, act or omission on the part of the Government or any indulgence by the Government to the said Contractor(s) or by any such matter or thing whatsoever which under the law relating to sureties would, but for this provision, have effect of so relieving us.
+6. This guarantee will not be discharged due to the change in the constitution of the Bank or the Contractor(s)/Supplier(s).
+7. We, ________________________________________ (indicate the name of bank) lastly undertake not to revoke this guarantee during its currency except with the previous consent of the Government in writing.
+8. Dated the ____________ day of ___________ _____ for ______________________________ (indicate the name of the Bank).
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 28 -->
+
+## ANNEX 2
+
+## Annex to A. P. DIR Series Circular No. 24 dated November 1, 2004
+
+**[paragraph 2.3.8.3(iv)]** Guarantees / Letter of Undertaking / Letter of Comfort issued / invoked by ADs As on quarter ended ………………. **Name of the AD :** Contact Person: **Address : Tel:** e-mail: **Fax:**
+
+## (USD million)
+
+## Guarantees / Letter of Undertaking /
+
+## Letter of Comfort
+
+## On behalf of Residents
+
+## Issued
+
+## Buyer’s Credit Supplier’s Credit
+
+## Trade Credits (less than 3 years)
+
+# a. Up to one year b. Above one year and less than
+
+## three years **
+
+## ** (Limited to Import of Capital Goods)
+
+|Place:-------------------|Signature of the Authorised|
+|---|---|
+|---- Date: --------------------|Signatory|
+
+[ Stamp] ---
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 29 -->
+
+## Appendix
+
+## List of Circulars consolidated by the Master Circular on Guarantees and
+
+## Co-acceptances
+
+|Sl. No.|Circular No.|Date|Subject|
+|---|---|---|---|
+|1.|A.P.(DIR Series)Circular No.96||28.03.2012 Overseas Direct Investments by Indian Party-Rationalisation|
+|2|A.P.(DIR Series)Circular No.69||27.05.2011 Overseas Direct Investment-Liberalisation / Rationalisation|
+||3 Mail-Box Clarification||19.05.2011 Issue of Bank Guarantee (BG) / Letter of Credit (LC) by Commercial Banks to constituents of Co-operative Banks|
+|4|DBOD.BP.BC.96/08.12.014/2009-10||23.04.2010 Prudential Norms on Advances to Infrastructure Sector|
+|5|DBOD.No.Dir.BC.136/13.03.00/2008-||29.05.2009 Issue of Guarantees by Banks|
+||09|||
+|6|DBOD.No.BP.BC.127/21.04.009/2008- 09||22.04.2009 Extension of Guarantee-Maturity Beyond Ten Years|
+|7|Mail-Box Clarification||15.04.2009 Bank Guarantee with Auto Renewal Clause|
+|8|Mail-Box Clarification||27.05.2008 Signing of Bank Guarantee|
+|9|DBOD.No.Dir.BC.72/13.03.00/2006-07||03.04.2007 Guarantees for Export Advance|
+|10|DBOD.No.Dir.BC.51/13.03.00/2006-07||09.01.2007 Banks’ Exposure to Commodity Markets – Margin Requirements|
+|11|AP(DIR Series)Circular No.13||17.11.2006 Issue of Bank Guarantee on behalf of Service Importers|
+|12|DBOD.No.Dir.BC.35/13.07.10/2006-07||11.10.2006 Guarantees and Co- acceptances|
+|13|A.P.(DIR Series) Circular No.29||27.03.2006 Overseas Investment – Liberalisation|
+|14|FEMA Notification No. 8/2000-RB||03.05.2000 Foreign Exchange Management (Guarantees) Regulations, 2000|
+|15|A.P.(DIR Series) Circular No.24||01.11.2004 Trade Credits for Imports into India-Issue of Guarantees- Delegation of Powers|
+|16|A.P. (DIR Series) Circular No.17||16.10.2004 Issue of Bank Guarantee in favour of Foreign Airlines/IATA|
+|17|FED Master Circular No.8/2004-05||01.07.2004 Master Circular – Export of Goods and Services|
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 30 -->
+
+|18|FED Master Circular No.7/2004-05||01.07.2004 Master Circular – Import of|
+|---|---|---|---|
+||||Goods and Services|
+|19|DBOD.BP.BC.No.97/21.04.141/2003- 04||17.06.2004 Annual Policy Statement for the year 2004-05 - Prudential Guidelines on Unsecured Exposures|
+|20|IECD.No.17/08.12.01/2002-03||05.04.2003 Guarantees and Co- acceptances|
+|21|DBOD.No.BP.BC.47/21.04.141/2002||13.12.2002 Limit of Unsecured Guarantees and Advances|
+||22 DBOD.No.BP.BC.39/21.04.141/2002- 03|06.11.02|Exemption of Advances granted to Self Help Groups (SHGs) against Group Guarantee from the Limit of Unsecured Guarantees and Advances|
+|23|DBOD.No.BP.BC.90/21.04.141/2001- 02|18.04.02|Exclusion of Credit Card Outstanding from the Norms relating to Unsecured Advances and Guarantees|
+|24|IECD No 16/08.12.01/2001-02|20.02.02|Financing of Infrastructure Projects|
+|25|DBOD.BP.BC.119/21.04137/2000-02|11.05.01|Bank Financing of Equities and Investment in Shares – Revised Guidelines|
+||26 DBOD.No.BP.BC.78/21.04.009/99|04.08.99|Bank Guarantees|
+|27|IECD.No.26/08.12.01/98-99|23.04.99|Financing of Infrastructure Projects|
+|28|DBOD.No.BP.BC.16/21.04.009/97|28.02.97|Payment under Bank Guarantees-Immediate Settlement of Cases|
+||29 DBOD.No.Dir.BC.90/13.07.05/98|28.08.98|Bank Finance against Shares and Debentures-Master CircularBank|
+|30|IECD.No.21/08.12.01/96-97|21.02.97|Bill Discounting Scheme/ Rediscounting Schemes Operated by Power Finance Corporation Ltd. (PFC)|
+|31|IECD.No.37/08.12.01/94-95|23.02.95|Issue of Bank Guarantees in favour of Financial Institutions|
+|32|IECD.No.21/08.12.01/94-95|01.11.94|Bill Discounting Schemes Operated by Small Industries Development Bank of India (SIDBI)|
+|33|DBOD.No.BP.BC.194/21.04.009/ 93|22.11.93|Payment under Bank Guarantees-Immediate Settlement of Cases|
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 31 -->
+
+## 34 DBOD.No.BC.185/21.04.009-93
+
+## 35 DBOD.No.BC.20/17.04.001/92
+
+## 36 DBOD.No.BP.BC.53/C.473-91
+
+37 DBOD.No.Dir.BC.35/C.96 (Z)-90 38 IECD.No.PMD.BC.12/C.446 (C&P)- 90/91
+
+39 DBOD.No.Dir.BC.11/C.96-89 40 DBOD.No.BP.BC.124/C.473-89
+
+41 DBOD.No.Inf.BC.73/C.109(H)-89 42
+
+## 44 DBOD.No.BP.BC.71/C.473-87
+
+## 45 DBOD.No.BP.BC.11/C.473-87
+
+## 46 DBOD.SIC.BC.5A/C.739 (A-1)-87
+
+47 DBOD.No.BP.BC.130/C.473-86 48 DBOD.No.Inf.BC.45/C.109(H)-86 49 DBOD.NO.BP.BC.28/C.469(W)-86
+
+50 DBOD.No.BP.BC.18/C.473-86 51 IECD.No.PMS.129/C.446 (PL)-85
+
+## 52 DBOD.NO.BP.BC.111/C.469(W)-85
+
+## 53 DBOD.No.Leg.BC.77/C.235C-85
+
+21.10.93
+25.08.92
+27.11.91
+22.10.90
+09.08.89
+31.05.89
+15.02.89
+29.06.88
+30.01.88
+10.12.87
+10.02.87
+29.01.87
+15.11.86
+09.04.86
+07.03.86
+24.02.86
+11.10.85
+02.09.85
+05.07.85
+Bank Guarantee-Delay in Obtaining Certified Copies of Judgements Committee to Enquire into Various Aspects Relating to Frauds and Malpractices in Banks Payment under Bank Guarantees-Immediate Settlement of Cases Bank Guarantee Scheme
+
+Guarantee Favouring Financial Institutions-Buyers' Line of Credit Scheme (BLCS) Bank Guarantee Scheme Payment under Bank Guarantees-Immediate Settlement of Cases Bank Guarantee Scheme Advances on Consortium Basis-Co-ordination Between Banks and All-India Financial Institutions in Dealing with New Investment Project Exports – Grant of Credit Facilities to Indian Contractors Payment under Bank Guarantees-Immediate Settlement of Cases Payment of Invoked Guarantees Co-acceptance of Bills Drawn under Letters of Credit by Banks Bank Guarantee Bank Guarantee Scheme Safeguards for Issue of Banks Instruments, etc. Bank Guarantee CAS-IDBI Bills Rediscounting Scheme Safeguards for Issue of Banks Instruments, etc. Section 20 of the Banking Regulation Act, 1949
+
+21.09.90 Co-acceptance/Issuance of
+## IECD.No.PMS.207/C.446 (C&P)-87/88
+
+IECD.No.EFD.197/822-WGM-MOD-88
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 32 -->
+
+26.03.84
+02.02.84
+## DBOD.No.GC.SIC.BC.97/C.408 (A)-83 26.11.83
+
+## 54 DBOD.No.Dir.BC.25/C.96-84
+
+## 55 IECD.No.CAD.82/C.446(HF-P)-84
+
+## 57 DBOD.No.Dir.BC.44/C.96-83
+
+58 DBOD.No.BP.678/C.473-83 59 DBOD.No.Clg.BC.91/C.109(H)-82 60 ICD.No.CAD.18/C.446-82
+
+61 DBOD.No.Inf.BC.103/C.109-80 62 DBOD.No.Clg.BC.21/C.109(H)-80 63 DBOD.No.Dir.BC.122/C.107(N)-78
+
+64 DBOD.No.Clg.BC.1/C.109-78 65 DBOD.No.ECC.BC.77/C.297L(1-A)-78
+
+## 66 DBOD.No.ECC.BC.89/C.297L(1-D)-76
+
+## 67 DBOD.No.Fol.BC.9/C.249-76
+
+## 68 DBOD.No.GCS.BC.25/C.107(N)-74
+
+## 69 DBOD.No.Sch.BC.88/C.96(S)-72
+
+## 70 DBOD.No.BM.BC.81/C.297(P)-72
+
+71 DBOD.No.Sch.BC.68/C.109-72 72 DBOD.No.Sch.BC.27/C.96(S)-72
+
+30.05.83
+11.01.83
+30.09.82
+10.02.82
+11.09.80
+08.02.80
+20.09.78
+02.01.78
+07.06.78
+04.08.76
+20.01.76
+01.04.74
+10.10.72
+14.09.72
+31.07.72
+24.03.72
+Guarantee of Inter-company Deposits/Loans by Commercial Banks Guarantee Furnished by Banks in favour of HUDCO in respect of Loans to State Housing Boards and similar Bodies Opening of Letters of Credit Issue of Guarantees and Co- acceptance of Bills by Banks Guarantee of Inter-company Deposits/Loans by Commercial Banks Bank Guarantee Bank Guarantee Scheme Bank Guarantee-Honouring of Bank Guarantee Scheme Bank Guarantee Scheme Guarantee of Inter-company Deposits/Loans by Commercial Banks Bank Guarantee Scheme Unconditional Guarantee Issued by Indian Banks in favour of Overseas Employers/ Importers on Behalf of Indian Exporters Bid Bonds and Performance Guarantees Co-acceptance of Bills/Guarantees by Commercial Banks on Inter- company Deposits/ Loans Guarantee of Inter-company Deposits/Loans by Commercial Banks Unsecured Advances Guaranteed by Credit Guarantee Corporation of India Ltd-- Bid Bonds and Performance Guarantees Bank Guarantee Scheme Continuance of Exemption in respect of Inland D/A Bills for the purpose of Norm relating to Unsecured Advances/Guarantees
+
+DBOD – MC on Guarantees & Co-acceptances 2012
+
+<!-- PAGE 33 -->
+
+|73 DBOD.No.Sch.BC.1610/C.96(S)-70|23.10.70|Unsecured Advances and|
+|---|---|---|
+|||Guarantees|
+|74 Nat 2002/c.473-70|29.7.70|Guidelines under which guarantees may or may not be considered|
+|75 DBOD.No.Sch.BC.1051/C.96(S)-69|01.07.69|Unsecured Advances made to Exporters on Consignment Basis to be Excluded for the Purpose of Norm|
+|76 DBOD.No.Sch.BC.1001/C.96Z-69|23.06.69|Bank Guarantees|
+|77 DBOD.No.Sch.BC.2381/C.96(Z)-68|14.08.68|Bank Guarantees|
+|78 DBOD.No.Sch.BC.2342/C.96S-68|08.08.68|Advances against Book Debts|
+|79 DBOD.No.Sch.BC.481/C.96S-68|30.03.68|Unsecured Advances|
+|80 DBOD.No.Sch.BC.421/C.96(S)-68|19.03.68|Unsecured Advances-Advances against Supply Bills Drawn on Central/State Governments|
+|81 DBOD.No.Sch.BC.359/C.96S-68|07.03.68|Unsecured Advances-Inland D/A Bills having a Usance of 90 Days|
+|82 DBOD.No.Sch.BC.68/C.96(S)-68|12.01.68|Unsecured Advances-Guidelines|
+|83 DBOD.No.Sch.BC.1850/C.96Z-67|07.12.67|Bank Guarantees|
+|84 DBOD.No.Sch.BC.1794/C.96Z-67|29.11.67|Bank Guarantees|
+|85 DBOD.No.Sch.BC.1693/C.96S-67|08.11.67|Advances against Shares and Unsecured Advances-Guidelines|
+|86 DBOD.No.Sch.BC.1296/C.96Z-67|21.08.67|Bank Guarantees|
+|87 DBOD.No.Sch.BC.1069/C.96Z-67|11.07.67|Guarantee Business of Banks-Guidelines-Clarification|
+|88 DBOD.No.Sch.BC.666/C.96Z-67|03.05.67|Guidelines and Norms for|
+
+Guarantee Business Undertaken by Banks
+
+DBOD – MC on Guarantees & Co-acceptances 2012
