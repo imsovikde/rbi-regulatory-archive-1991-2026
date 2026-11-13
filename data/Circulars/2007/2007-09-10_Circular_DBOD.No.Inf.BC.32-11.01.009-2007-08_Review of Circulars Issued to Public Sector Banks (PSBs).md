@@ -1,0 +1,70 @@
+---
+doc_id: "Circulars_2007_DBOD_No_Inf_BC_32_11_01_009_2007-08"
+title: "Review of Circulars Issued to Public Sector Banks (PSBs)"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/79774.PDF"
+pdf_sha256: "566efb659eca859c5c2d6f21e35c3638c529f959593ccc95cf1d2e590f5b979a"
+md_sha256: "f320774b7220da8378b2fc6350663721cb8cec6d44d8b4e02dc5a3bf47d42f40"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-09-10_Circular_DBOD.No.Inf.BC.32-11.01.009-2007-08_Review%20of%20Circulars%20Issued%20to%20Public%20Sector%20Banks%20%28PSBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Circulars Issued to Public Sector Banks (PSBs)
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/134 DBOD. No. Inf. BC.32 /11.01.009/2007-08 September 10, 2007
+
+To Chairman & Managing Director of all Public Sector Banks
+
+Dear Sir,
+
+## Review of circulars issued to Public Sector Banks (PSBs)
+
+In continuation of our circular letter DBOD.No.Inf.BC.48/11.01.009/2006-07 dated December 18, 2006 on the above subject, it has been decided in consultation with the Government of India to withdraw 5 more circulars, as detailed in the enclosed statement. You are advised to carefully go through the list of circulars in the enclosed statement and in case it is felt that the instructions in the circular are relevant, kindly ensure that suitable Board approved policies/procedures are drawn up for substituting the same.
+
+Yours faithfully,
+
+(Malvika Sinha) General Manager
+
+# Withdrawn
+
+<!-- PAGE 2 -->
+
+## Annexure
+
+## Circulars issued to PSBs during the period January 1991 to June 2004 for withdrawal
+
+## I. Circulars on delegation of powers to CMD/ED of Nationalised banks
+
+|Sr. No.|Circular No.|Subject Matter in brief|Gist of Circular|
+|---|---|---|---|
+|1|DBOD No. BP.BC.24/ 21.01. 040 / 97 dated 25.3.97|Delegation of powers to CMD/ED of nationalised banks|The circular has laid down that Board may delegate suitable powers to CMD subject to a ceiling of Rs 15 crore in case of banks having advances upto Rs. 5000 crore and Rs.30 crore in respect of banks having advances beyond Rs.5000 crore. The circular also laid down that the Board may delegate suitable powers to CMD for write off/waiver, remission etc. upto Rs.10 lakh. Further, it was stipulated that the ED may be delegated powers to the extent of 75 percent of those delegated to the CMD.|
+|2|DBOD No. BP.BC. 91/ 21.01.040/99 dated 22.9.99|Delegation of powers to CMD/ED for compromise/write off. Withdrawn|Regarding enhancement of powers delgated to CMDs of public sector banks for waiver/write off from Rs.10 lakh to Rs.50 lakh. After the Board takes a review, ED to be delegated powers equal to 75% of those delegated to the CMD.|
+
+<!-- PAGE 3 -->
+
+## II. Circulars on vigilance, security arrangements at banks
+
+No. SIC BC.23/C
+
+|3 DBOD|Vigilance arrangements in banks.|Advising banks of the measures to strengthen and revitalize|
+|---|---|---|
+|739(A-1)91 dated 5.9.91||the internal control and vigilancel machinery.|
+|4. DBOD No. GC BC. 30/C408-|Reporting of cases of bank|Regarding reporting of cases of bank robberies /dacoities/|
+|A(88)-91 dated 26.9.91|robberies/dacoities/burglaries|burglaries.|
+
+## III. Circulars on other matters
+
+5 DBOD No. BC.79/ Meeting of Standing Committee Issues relating to payment of fraudulent instrument- Practice to
+
+09.07.001/96 dated 22.6.96 on Customer Services be followed in respect of dispute between two banks –
+Settlement procedures in respect Reimbursement to account holder once forgery established - of payment of fraudulent delegation of powers to deal with such cases. instruments.
+
+# Withdrawn

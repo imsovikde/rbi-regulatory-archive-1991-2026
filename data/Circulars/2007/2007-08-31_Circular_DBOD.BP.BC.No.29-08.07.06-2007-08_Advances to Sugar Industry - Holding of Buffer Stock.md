@@ -1,0 +1,69 @@
+---
+doc_id: "Circulars_2007_DBOD_BP_BC_No_29_08_07_06_2007-08"
+title: "Advances to Sugar Industry - Holding of Buffer Stock"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/79659.PDF"
+pdf_sha256: "40f09f7a6350d731744b1eafe44c72942ebe7fe7f23a54ec5f98f911c9221d5a"
+md_sha256: "649310162941200510ea2a2d2b43765088f7dbf645b69ddb6ccdc2066654b864"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-08-31_Circular_DBOD.BP.BC.No.29-08.07.06-2007-08_Advances%20to%20Sugar%20Industry%20-%20Holding%20of%20Buffer%20Stock.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances to Sugar Industry - Holding of Buffer Stock
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/127 DBOD.BP.BC. No. 29 / 08.07.06 / 2007-08 August 31, 2007
+
+## All Scheduled Commercial Banks
+
+Dear Sirs,
+
+## Advances to Sugar Industry – Holding of Buffer Stock
+
+Please refer to our circular RBI/2007–08/91 DBOD.BP.BC.No.20/08.07.06/ 2007-08 dated July 11, 2007 on the captioned subject.
+
+2. Government of India, Ministry of Consumer Affairs, Food & Public Distribution, Department of Food & Public Distribution vide their order dated August 1, 2007(copy enclosed) have decided to create a buffer stock of 30 lakh tons of sugar for a period of one year with effect from August 01, 2007 to July 31,2008. This is in addition to the buffer stock of 20 lakh tons created earlier vide their notification dated April 20, 2007. The creation of this buffer stock of 30 lakh tons will involve an outgo of Rs.567 crore from Sugar Development Fund. Further Rs.630 crore is to be released by the scheduled banks to the concerned sugar mills as additional credit on their buffer stock quantity. The entire amount of Rs.1197 crore including Rs.630 crore to be released by the commercial banks is to be used exclusively by the sugar mills for payment of cane price to the sugarcane farmers.
+3. The Managing Director, National Federation of Co-operative Sugar Factories Ltd, New Delhi; The Director General, Indian Sugar Mills Association, New Delhi, All State level sugar
+# Withdrawn
+
+federations/associations of sugar mills have been advised by the Government to inform their member sugar factories of the Government’s decision conveyed vide order dated August 1, 2007.
+
+4. Banks are advised to finance the creation of Buffer Stock as per instructions issued by Government of India. In this connection, banks may please refer to instructions contained in para 2.4.4 of DBOD Circular No.Dir.BC.8/13.03.00/2006-07 dated July 1, 2006 advising the banks that no margin is to be kept in respect of buffer stocks of sugar. They may also refer to and continue to be guided by the operational instructions issued vide our Circular DBOD.BP.BC.No.20 / 08.07.06 / 2007-08 dated July 11, 2007 in this regard.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-In-Charge
+
+<!-- PAGE 2 -->
+
+F.No. 1(5)/2007-SP Government of India
+Ministry of Consumer Affairs, Food and PD Department of Food and PD Directorate of Sugar
+
+Krishi Bhavan, New Delhi Dated 1st August, 2007
+
+## <u>O R D E R</u>
+
+Subject : Creation of buffer stock of 30 lac tons – reg.
+
+The Central Government hereby creates a buffer stock of 30 lac tons of sugar for a period of one year with effect from 1st August, 2007 to 31st July,
+
+2008. This buffer stock of 30 lac tons is in addition to the buffer stock of 20 lac tons created vide notification dated 20th April, 2007.
+2. Consistent with the objectives of food security, the total actual quantity held in buffer stock shall be released by the Central Government through the Public Distribution System or through sales to the domestic market.
+# Withdrawn
+
+(S.K. Srivastava) Joint Secretary to the Government of India
+
+## <u>Distribution</u> :
+
+1. The Managing Director, National Federation of } Coop. Sugar Factories Ltd., 'C' Block, II Floor, } Ansal Plaza, August Kranti Marg, New Delhi – }With the request to inform 110 048 }their member sugar
+2. The Director General, Indian Sugar Mills }factories of the above Association, 'C' Block, II Floor, Ansal Plaza, }decision of the Govern- August Kranti Marg, New Delhi – 110 048 }ment
+3. All State levels sugar federations/associations } of sugar mills }
+4. All Chief Secretaries / Principal Secretaries / Cane Commissioners of sugar producing states.
+5. Director, National Sugar Institute, Kanpur.
+6. Director General, Vasantdada Sugar Institute, Pune.

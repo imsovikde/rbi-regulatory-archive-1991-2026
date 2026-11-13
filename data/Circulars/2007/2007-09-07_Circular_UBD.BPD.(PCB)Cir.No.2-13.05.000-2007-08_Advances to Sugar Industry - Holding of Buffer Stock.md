@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2007_UBD_BPD_PCB_Cir_No_2_13_05_000_2007-08"
+title: "Advances to Sugar Industry - Holding of Buffer Stock"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/79772.PDF"
+pdf_sha256: "44d8f066101fb42bf25f2895d4c42475fc5adbc64e21c576b8d37f7bb2614825"
+md_sha256: "a61a3d697fdfea780aab2b32d77a5ff939a52e50c8dd2f2774bdfc4b935b6a0f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:00:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-09-07_Circular_UBD.BPD.%28PCB%29Cir.No.2-13.05.000-2007-08_Advances%20to%20Sugar%20Industry%20-%20Holding%20of%20Buffer%20Stock.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Advances to Sugar Industry - Holding of Buffer Stock
+
+<!-- PAGE 1 -->
+
+## RBI/2007-2008/133 UBD.BPD. (PCB) Cir.No. 2/ 13.05.000 / 2007-08
+
+## September 7, 2007
+
+To Chief Executive Officers, All Scheduled Urban Co-operative Banks
+
+Dear Sirs,
+
+## Advances to Sugar Industry – Holding of Buffer Stock
+
+Please refer to our circular UBD.BPD(PCB) No. 1/13.05.000/2007-08 dated August 14, 2007 on the captioned subject.
+
+2. Government of India, Ministry of Consumer Affairs, Food & Public Distribution, Department of Food & Public Distribution vide their order dated August 1, 2007 (copy enclosed) have decided to create a buffer stock of 30 lakh tons of sugar for a period of one year with effect from August 01, 2007 to July 31, 2008. This is in addition to the buffer stock of 20 lakh tons created earlier vide their notification dated April 20,
+2007. The creation of this buffer stock of 30 lakh tons will involve an outgo of Rs. 567 crore from Sugar Development Fund. Further, Rs. 630 crore is to be released by the Scheduled banks to the concerned sugar mills as additional credit on their buffer stock quantity. The entire amount of Rs. 1197 crore including Rs. 630 crore to be released by the banks will be used exclusively by the sugar mills for payment of cane price to the sugarcane farmers.
+3. The Managing Director, National Federation of Cooperative Sugar factories Ltd., New Delhi, The Director General, Indian Sugar Mills Association, New Delhi, All State level sugar federations/ associations of sugar mills have been advised by the Government to inform their member sugar factories of the Government’s decision conveyed vide order dated August 1, 2007.
+# Withdrawn
+
+4. Banks are advised to finance the creation of Buffer Stock as per instructions issued by Government of India. In this connection banks are advised that no margin is to be kept in respect of buffer stocks of sugar. They may also refer to and continue to be guided by the instructions issued vide our circular UBD.BPD(PCB) No. 1/13.05.000/2007-08 dated August 14, 2007 in this regard
+Yours faithfully,
+
+(N. S. Vishwanathan) Chief General Manager-in-Charge
