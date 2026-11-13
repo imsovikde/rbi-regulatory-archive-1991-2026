@@ -1,0 +1,80 @@
+---
+doc_id: "Notifications_2015_10037"
+title: "Processing and settlement of import and export related payments facilitated by Online Payment Gateway Service Providers"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/A1636C5639BB6044DC08858EA3B0AE670FA.PDF"
+pdf_sha256: "fb991f7e93e7f43b25f0ea53a3a71de32421d916e4d843d1fb0620b99dba54f4"
+md_sha256: "f8bf4f1e6bf6eefe1fb5412629516dde9084e9c61ba9042c4b4ef2c78879b714"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-09-24_Notification_10037_Processing%20and%20settlement%20of%20import%20and%20export%20related%20payments%20facilitated%20by%20Online%20Payment%20Gateway%20Service%20Providers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Processing and settlement of import and export related payments facilitated by Online Payment Gateway Service Providers
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA Mumbai - 400 001
+
+RBI/2015-16/185 September 24, 2015
+
+A.P. (DIR Series) Circular No.16 To All Category-I Authorised Dealer Banks Madam / Sir,
+## <u>Processing and settlement of import and export related payments</u>
+
+## <u>facilitated by Online Payment Gateway Service Providers</u>
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to the <u>A. P. (DIR Series) Circular No.109 dated June 11, 2013</u> read with <u>A.P.</u> <u>(DIR Series) Circular No.17 dated November 16, 2010</u> in terms of which AD Category-I banks have been permitted to offer the facility to repatriate export related remittances by entering into standing arrangements with Online Payment Gateway Service Providers (OPGSPs) in respect of export of goods and services.
+
+**2**. To facilitate e-commerce, it has been decided to permit AD Category-l banks to offer similar facility of payment for imports by entering into standing arrangements with the OPGSPs. The revised consolidated guidelines on such imports and exports are as under:
+## General:
+
+**2.1** AD Category-I banks desirous of entering into such an arrangement/s should report the details of each such arrangement as and when entered into to the Foreign Exchange Department, Central Office, Reserve Bank of India, Mumbai. For operationalising such arrangements, AD Category-I banks shall:
+
+<!-- PAGE 2 -->
+
+(i) carry out the due diligence of the OPGSP; (ii) maintain separate Export and Import Collection accounts in India for each OPGSP; (iii) satisfy themselves as to the bonafides of the transactions and ensure that the related purpose codes reported to the Reserve Bank are appropriate; (iv) submit all the relevant information relating to any transaction under such arrangements to the Reserve Bank, as and when advised to do so; and
+(v) conduct the reconciliation and audit of the collection accounts on a quarterly basis.
+**2.2** Foreign entities, desirous of operating as OPGSP, shall open a liaison office in India with the approval of the Reserve Bank before operationalising the arrangement with any AD category-I bank. It would be incumbent upon the OPGSP to:
+(i) ensure adherence to the Information Technology Act, 2000 and all other relevant laws / regulations in force; (ii) put in place a mechanism for resolution of disputes and redressal of complaints; (iii) create a Reserve Fund appropriate to its return and refund policy and (iv) onboard sellers, Indian as well as foreign, following appropriate due diligence procedure. Resolution of all payment related complaints in India shall remain the responsibility of the OPGSP concerned.
+**2.3** Domestic entities functioning as intermediaries for electronic payment transactions in terms of the guidelines stipulated by our Department of Payment and Settlement Systems and intending to undertake cross border
+
+<!-- PAGE 3 -->
+
+transactions shall maintain separate accounts for domestic and cross border transactions.
+
+## 3. Import transactions
+
+(i) The facility shall only be available for import of goods and software (as permitted in the prevalent Foreign Trade Policy) of value not exceeding USD 2,000 (US Dollar Two Thousand) only. (ii) The balances held in the Import Collection account shall be remitted to the respective overseas exporter's account immediately on receipt of funds from the importer and, in no case, later than two days from the date of credit to the collection account. (iii) The AD Category –I bank will obtain a copy of invoice and airway bill from the OPGSP containing the name and address of the beneficiary as evidence of import and report the transaction in R-Return under the foreign currency payment head. (iv) The permitted credits in the OPGSP Import Collection account will be:
+a) collection from Indian importers for online purchases from overseas exporters electronically through credit card, debit card and net banking and
+b) charge back from the overseas exporters.
+(v) The permitted debits in the OPGSP Import Collection account will be:
+a) payment to overseas exporters in permitted foreign currency;
+b) payment to Indian importers for returns and refunds;
+c) payment of commission at rates/frequencies as defined under the contract to the current account of the OPGSP; and
+d) bank charges
+
+<!-- PAGE 4 -->
+
+## 4. Export transactions
+
+As already notified vide our <u>A. P. (DIR Series) Circular No.109 dated June 11,</u> <u>2013</u> and <u>A.P. (DIR Series) Circular No. 17 dated November 16, 2010</u> referred to earlier:
+
+(i) the facility shall only be available for export of goods and services (as permitted in the prevalent Foreign Trade Policy) of value not exceeding USD 10,000 (US Dollar ten thousand) per transaction. (ii) AD Category-I banks providing such facilities shall open a NOSTRO collection account for receipt of the export related payments facilitated through such arrangements. Where the exporters availing of this facility are required to open notional accounts with the OPGSP, it shall be ensured that no funds are allowed to be retained in such accounts and all receipts should be automatically swept and pooled into the NOSTRO collection account opened by the AD Category-I bank. (iii) The balances held in the NOSTRO collection account shall be repatriated to the Export Collection account in India and then credited to the respective exporter's account with a bank in India immediately on receipt of the confirmation from the importer and, in no case, later than seven days from the date of credit to the NOSTRO collection account. (iv) The permitted debits to the OPGSP Export Collection account maintained in India will be:
+a) payment to the respective Indian exporters’ accounts;
+b) payment of commission at rates/frequencies as defined under the contract to the current account of the OPGSP; and
+c) charge back to the overseas importer where the Indian exporter has failed in discharging his obligations under the sale contract.
+(v) The only credit permitted in the same OPGSP Export Collection account will be repatriation from the NOSTRO collection accounts electronically.
+
+<!-- PAGE 5 -->
+
+**5**. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+**6**. The directions contained in this circular have been issued under Section 10
+(4) and Section 11 (1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (A. K. Pandey) Chief General Manager

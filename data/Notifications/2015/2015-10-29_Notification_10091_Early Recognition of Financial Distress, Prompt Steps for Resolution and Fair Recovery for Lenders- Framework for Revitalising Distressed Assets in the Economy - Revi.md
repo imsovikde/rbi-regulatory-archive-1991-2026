@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2015_10091"
+title: "Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair Recovery for Lenders: Framework for Revitalising Distressed Assets in the Economy - Review of the Guidelines on Joint Lenders' Forum (JLF) and Corrective Action Plan (CAP)"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/N2146E634F99681A403C85AE5B457BA3A895.PDF"
+pdf_sha256: "7c0a0194a9c4768fa8912630a8415184b4ba591332af3fe24cd0a97c4a72c1d6"
+md_sha256: "d993c462a3a25a563bfb64d01e0989eaf2c116a64a7baddc8d29304f4247df67"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-10-29_Notification_10091_Early%20Recognition%20of%20Financial%20Distress%2C%20Prompt%20Steps%20for%20Resolution%20and%20Fair%20Recovery%20for%20Lenders-%20Framework%20for%20Revitalising%20Distressed%20Assets%20in%20the%20Economy%20-%20Revi.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair Recovery for Lenders: Framework for Revitalising Distressed Assets in the Economy - Review of the Guidelines on Joint Lenders' Forum (JLF) and Corrective Action Plan (CAP)
+
+<!-- PAGE 1 -->
+
+## RBI/2015-16/214 DNBR.CC.PD.No. 070 /03.10.01/2015-16 October 29, 2015
+
+To All Non-Banking Financial Companies (NBFCs)
+
+Madam/ Sir,
+
+**Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair** **Recovery for Lenders: Framework for Revitalising Distressed Assets in the** **Economy-Review of the Guidelines on Joint Lenders' Forum (JLF) and Corrective** **Action Plan (CAP)**
+
+The Framework for Revitalising Distressed Assets in the Economy was issued by the Reserve Bank on <u>January 30, 2014</u>. To the extent applicable, the said Framework was made applicable to NBFCs vide <u>circular dated March 21, 2014</u>. Subsequently the reviews carried out by the Department of Banking Regulation vide circulars dated October 21, December 22, 2014 and June 8, 2015 were made applicable to NBFCs vide <u>Circular</u> <u>DNBR.CC.PD.No.066/ 03.10.01/2015-16 dated July 23, 2015</u>.
+
+2. The Department of Banking Regulation, Reserve Bank has made certain modifications to the Framework vide circulars <u>DBR.BP.BC.No.39/21.04.132/2015-16</u> and <u>DBR.BP.BC.No.41/21.04.048/2015-16 dated September 24, 2015</u>. It has been decided that the modifications made in the Framework vide the above mentioned circulars shall also be, mutatis mutandis, applicable to NBFCs.
+## Yours faithfully
+
+(C.D.Srinivasan) Chief General Manager

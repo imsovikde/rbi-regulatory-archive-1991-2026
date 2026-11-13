@@ -1,0 +1,30 @@
+---
+doc_id: "Notifications_2015_10046"
+title: "Marginal Standing Facility"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NS395B038FCAB94EEC98BC27F223FB63A5.PDF"
+pdf_sha256: "b14c92964084962465676c94efa7b1ce594a6a42c0d5cb89753ef6ac8dfc5527"
+md_sha256: "bc46ac46d878b7b7abae13c86345d202f0aaeee980c73819814cf0216e35f43f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-09-29_Notification_10046_Marginal%20Standing%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Marginal Standing Facility
+
+<!-- PAGE 1 -->
+
+RBI/2015-2016/191 FMOD.MAOG. No. 111/01.18.001/2015-16 September 29, 2015
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Madam / Sir, <u>Marginal Standing Facility</u> <u>As announced by the Governor today</u>, it has been decided to reduce the Repo rate under the Liquidity Adjustment Facility (LAF) by 50 basis points from 7.25 per cent to **6.75 per cent** with immediate effect. Consequent to the change in the Repo rate, the Marginal Standing Facility (MSF) rate will stand adjusted to **7.75 per cent** with immediate effect. All other terms and conditions of the current MSF scheme will remain unchanged.
+
+## Yours sincerely
+
+(M. Rajeshwar Rao) Chief General Manager

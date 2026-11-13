@@ -1,0 +1,75 @@
+---
+doc_id: "Notifications_2015_10038"
+title: "Half yearly/Quarterly Review of Accounts of Public Sector Banks"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/C186242EACA8BA914188A9EA9640C135403E.PDF"
+pdf_sha256: "a723e3a92523afb7c9edf48795dfb653b88ae98432e94e18216502a9594c0005"
+md_sha256: "676f400961a38742ca78ef273436d29837a333cfa126850a1c92dd51e17037b9"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-09-24_Notification_10038_Half%20yearly-Quarterly%20Review%20of%20Accounts%20of%20Public%20Sector%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Half yearly/Quarterly Review of Accounts of Public Sector Banks
+
+<!-- PAGE 1 -->
+
+## <u>ारतीय भ �रजवर् बक</u>
+
+<u>______________________</u> **RESERVE BANK OF INDIA**<u>_________________</u> RBI/2015-16/186 DBS. ARS.No. BC. 5/08.91.001/2015-16 September 23, 2015
+
+## All Public Sector Banks
+
+Dear Sir/Madam,
+
+## <u>Half yearly/Quarterly Review of Accounts of Public Sector Banks</u>
+
+Please refer to our circulars DBS.ARS.No.BC.13/08.91.001/2000-01 dated May 17, 2001, DBS.ARS.No.BC. 4/08.91.001/2001-02 dated October 25, 2001 and DBS.ARS.No. BC.17/08.91.001/2002-03 dated June 5, 2003 on conduct of Half yearly/Quarterly Review of Accounts of Public Sector Banks.
+
+2. It is clarified that Concurrent Auditors shall henceforth submit their NPA review reports to the banks and not to Statutory Central Auditors (SCAs) undertaking the half yearly/quarterly review. Concurrent Auditors will therefore give their opinion on NPA figures to the banks and not to the SCAs, who for audit purpose will treat the branches covered by Concurrent Auditors as unaudited branches [para I (ii) of Annexure III of circular dated May 17, 2001].
+3. SCAs, as in the past, will continue to review top 20 branches for half yearly/quarterly
+# Withdrawn w.e.f. March 01, 2024
+
+reviews and take into account review reports of overseas branches of public sector banks audited by the respective statutory auditor. SCAs will necessarily cover advances adversely commented upon in the latest inspection report of RBI, special audit/special scrutiny, if any carried out by the bank, RBI or any other agency, so that all problem accounts are taken care of during half yearly/quarterly review.
+
+ब��कग पयर्वेक्षण िवभाग, क �ीय कायार्लय, िव� ापार क �, कफ परेड, मुंबई -400005 Department of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Mumbai - 400005 Tel: (022) 22189131-39 Fax: (022) 22180157 email: <u>cgmicdbsco@rbi.org.in</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+4. The balance portion of stipulated 50% of advances and NPAs, to be covered for half yearly/quarterly review, will be reviewed by SCAs through Core Banking System of the banks and management inputs viz. internal inspection reports, review reports by concurrent auditors etc. made available to them by banks. Consequently, the format for “Specimen of the Review Report” to be submitted by SCAs is revised and enclosed as Annex II.
+5. The other instructions, as amended from time to time, shall remain unchanged.
+6. Please acknowledge receipt. Yours faithfully
+# 2024 01,
+
+(Indrani Banerjee) Chief General Manager
+
+# March w.e.f.
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+Annexure II <u>Specimen of the Review Report</u> REVIEW REPORT TO We have reviewed the accompanying financial results of ABC bank for the period ended September 30 xxxx. These financial results are the responsibility of the Bank's management and have been taken on record by the Board of Directors.
+
+The financial results incorporate the relevant returns of___ (*number*) branches reviewed by us, ____ (number) foreign branches reviewed by other auditors specially appointed for this purpose and unreviewed returns in respect of ___ (*number*) branches. In the conduct of our review, we have taken note of the review reports in respect of non-performing assets submitted by the concurrent auditors of ___ branches to the bank management, inspection teams of the bank of _____ branches and other firms of auditors of _____ branches specifically appointed for this purpose. These review reports cover _____ per cent of the advances portfolio of the bank.
+
+# 2024
+
+A review of Financial Results consists principally of applying analytical procedures to01, financial data and making enquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with theMarch generally accepted auditing standards, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not w.e.f. express an audit opinion.
+
+Based on our review as aforesaid, nothing has come to our attention that causes us to
+
+# Withdrawn
+
+believe that the accompanying statement of unaudited financial results prepared in accordance with accounting standards and the relevant prudential norms issued by the Reserve Bank of India in respect of income recognition, asset classification, provisioning and other related matters, (*has not disclosed the information required to be disclosed in* *terms of clause 41 of the Listing Agreement including the manner in which it is to be* *disclosed or that it*)* contains any material misstatements.
+
+Date: Address:
+
+For X & Co., Signature (Name of the Partner) Partner Chartered Accountants
+
+* Reference to this sentence be made only in case of banking companies required to make disclosures as per clause 41 of the Listing Agreement.
