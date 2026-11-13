@@ -1,0 +1,35 @@
+---
+doc_id: "Circulars_2006_DBOD_PSBD_BC_88_16_13_100_2005-06"
+title: "Foreign Exchange Dealers - Appointment / posting of"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/70897A.PDF"
+pdf_sha256: "594ef12cbb65facde25598b87fae5382f2fbdb40ef4d8839eaac9e522e6df298"
+md_sha256: "53b61216e63989d0a387601980c69e67bf7290e9f60e578aafb7823561ad90be"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:53:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-06-14_Circular_DBOD.PSBD.BC.88-16.13.100-2005-06_Foreign%20Exchange%20Dealers%20-%20Appointment%20-%20posting%20of.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Dealers - Appointment / posting of
+
+<!-- PAGE 1 -->
+
+RBI.No.2005-06/410 DBOD.PSBD. BC.88 /16.13.100/2005-06 June 14, 2006 To The Chairmen and Chief Executive Officers, all Scheduled Commercial Banks Dear Sir,
+
+<u>Foreign Exchange Dealers – Appointment/posting of</u>
+
+Please refer to letter DO.No.EC.AD&EM.883/02.03.71/95-96 dated May 27, 1996 issued by our erstwhile Exchange Control Department advising banks to obtain prior concurrence of Reserve Bank for the posting of Head of Treasury / International Division and persons recruited from outside the banking industry as Dealer / Chief Dealer.
+
+2. The matter has been reviewed and it has been decided to dispense with the requirement of RBI approval for appointment of Head of Treasury /International Division /Chief Dealer/Dealer. Henceforth, postings/appointments to the above posts may be made without any reference to the Reserve Bank.
+# Withdrawn
+
+Banks may however ensure to exercise due care and caution while making appointment to the above posts. The Boards of the banks should be fully satisfied with the credentials of the appointees before posting. Banks are advised to put in place a rigorous due diligence process to ensure the ‘fit and proper’ status of the applicants before appointment to the above posts.
+
+Yours faithfully,
+
+(P.Vijaya Bhaskar) Chief General Manager

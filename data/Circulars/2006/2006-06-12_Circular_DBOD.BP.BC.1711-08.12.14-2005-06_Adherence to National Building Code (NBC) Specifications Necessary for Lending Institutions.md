@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2006_DBOD_BP_BC_1711_08_12_14_2005-06"
+title: "Adherence to National Building Code (NBC) Specifications Necessary for Lending Institutions"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/70882A.PDF"
+pdf_sha256: "ba2d9c97eb7fdb9045598e20fd0e05508e2b81374ad93c6a734d29cbceb4799a"
+md_sha256: "ce2c80b045f9860f98e1be6040d59cd324a569bf8574978641a45fcc12171f00"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:53:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-06-12_Circular_DBOD.BP.BC.1711-08.12.14-2005-06_Adherence%20to%20National%20Building%20Code%20%28NBC%29%20Specifications%20Necessary%20for%20Lending%20Institutions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Adherence to National Building Code (NBC) Specifications Necessary for Lending Institutions
+
+<!-- PAGE 1 -->
+
+## RBI 2005-06/407
+
+DBOD.BP.BC. 1711 /08.12.14/2005-06 June 12, 2006
+
+The Chairman / Chief Executives of all Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+<u>Adherence to National Building Code (NBC) specifications necessary for</u> <u>lending Institutions</u>
+
+Bureau of Indian Standards (BIS) has formulated a comprehensive building Code namely National Building Code (NBC) of India 2005, providing guidelines for regulating the building construction activities across the country. The Code contains all the important aspects relevant to safe and orderly building development such as administrative regulations, development control rules and general building requirements; fire safety requirements; stipulations regarding materials, structural design and construction (including safety); and building and plumbing services.
+
+2. Adherence to NBC will be advisable in view of the importance of safety of buildings especially against natural disasters. Banks' boards may consider this aspect for incorporation in their loan policies.
+3. Further information regarding the NBC can be accessed from the website of Bureau of Indian Standards (www.bis.org.in).
+# Withdrawn
+
+Yours faithfully,
+
+Sd/- (Prashant Saran) Chief General Manager-in-Charge

@@ -1,0 +1,157 @@
+---
+doc_id: "Circulars_2006_DBOD_BP_No_18_08_12_01_2006-2007"
+title: "Master Circular - Bank Finance to Non-Banking Financial Companies (NBFCs)"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/71223.PDF"
+pdf_sha256: "56f780d5aea62f9b88958b05f26c3cacded7e266ad8005dc36d90bd0f833335f"
+md_sha256: "fe46577e6a446d63d531e1870bdbd0751b2566e56de4da3b4c38f000a9ba8799"
+total_pages: 9
+native_pages: 9
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:53:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-07-01_Circular_DBOD.BP.No.18-08.12.01-2006-2007_Master%20Circular%20-%20Bank%20Finance%20to%20Non-Banking%20Financial%20Companies%20%28NBFCs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Bank Finance to Non-Banking Financial Companies (NBFCs)
+
+<!-- PAGE 1 -->
+
+RBI /2006-07/34 DBOD .BP. No.18/08.12.01/2006-2007 July 1, 2006
+
+Chairman and Managing Director/ Chief Executives of all Commercial Banks
+
+Dear Sir,
+
+<u>Master Circular – Bank Finance to Non-Banking Financial Companies</u> <u>(NBFCs)</u>
+
+Please refer to our Master circular No. DBOD.BP.No.17/08.12.01/2004-2005 dated July 14, 2005 on the captioned subject. As there are no changes in our instructions on the subject the enclosed Master Circular is only a reproduction of our Master Circular referred to above.
+
+Yours faithfully,
+
+-sd- (Prashant Saran)
+
+# Withdrawn
+
+Chief General Manager-In-Charge
+
+<!-- PAGE 2 -->
+
+Withdrawn
+
+<!-- PAGE 3 -->
+
+<u>MASTER CIRCULAR ON BANK FINANCE TO NBFCS</u>
+
+1. GENERAL
+1.1 Reserve Bank of India has been regulating the financial activities of the Non-Banking Financial Companies under the provisions of Chapter III B of the Reserve Bank of India Act, 1934.
+1.2 With the amendment of the Reserve Bank of India Act, 1934 in January 1997, in terms of Section 45 IA of the said Act, all Non-Banking Financial Companies have to be mandatorily registered with the Reserve Bank of India.
+2. BANK FINANCE TO REGISTERED NBFCS
+2.1 In the context of mandatory registration of NBFCs with the Reserve Bank, as also consistent with the policy of bestowing greater operational freedom to banks in the matter of credit dispensation, the ceiling on bank credit linked to Net Owned Fund (NOF) of such companies has been withdrawn in respect of all NBFCs which are statutorily registered with RBI and are engaged in principal business of equipment leasing, hire-purchase, loan and investment
+# Withdrawn
+
+activities.
+
+2.2. Accordingly, banks may extend need based working capital facilities as well as term loans to all NBFCs registered with RBI and engaged in equipment leasing, hire-purchase, loan and investment activities.
+2.3. In the light of the experience gained by NBFCs in financing second hand assets, banks may also extend finance to NBFCs against second hand assets financed by them.
+
+<!-- PAGE 4 -->
+
+2.4. Banks may formulate suitable loan policy with the approval of their Boards of Directors within the prudential guidelines and exposure norms prescribed by the Reserve Bank to extend various kinds of credit facilities to NBFCs subject to the condition that the activities indicated in paragraph 6 are not financed by them.
+3. BANK FINANCE TO NBFCS NOT REQUIRING REGISTRATION In respect of NBFCs which do not require to be registered with RBI, [viz. i) Insurance Companies registered under Section 3 of the Insurance Act, 1938; ii) Nidhi Companies notified under Section 620A of the Companies Act, 1956; iii) Chit Fund Companies carrying on Chit Fund business as their principal business as per Explanation to Clause (vii) of Section 45-I(bb) of the Reserve Bank of India Act, 1934; iv) Stock Broking Companies/Merchant Banking Companies registered under Section 12 of the Securities & Exchange Board of India Act; and v) Housing Finance Companies being regulated by the National Housing Bank (NHB) which have been exempted from the requirement of registration by RBI], banks may take their credit decisions on the basis of usual factors like the purpose of credit, nature and quality of underlying assets, repayment capacity of borrowers as also risk perception, etc.Withdrawn
+4. BANK FINANCE TO RESIDUARY NON-BANKING COMPANIES (RNBCS)
+4.1 Residuary Non-Banking Companies (RNBCs) are also required to be mandatorily registered with Reserve Bank of India. In respect of such companies registered with RBI, bank finance would be restricted to the extent of their Net Owned Fund (NOF).
+4.2 Net Owned Fund (NOF)
+4.2.1 Banks should follow the definition of NOF as given in the explanation to Section 45-IA of the Reserve Bank of India Act, 1934, i.e.,
+I. Net Owned Fund means
+
+<!-- PAGE 5 -->
+
+|(a)|the aggregate of the paid-up equity capital and free reserves as|||
+|---|---|---|---|
+|disclosed in the latest balance sheet of the company after deducting||||
+|therefrom||(i) (ii) (iii)|accumulated balance of loss; deferred revenue expenditure; and other intangible assets; and|
+|(b)|further reduced by the amounts representing (1)|investment of such company in shares of (i) (ii) (iii)|its subsidiaries; companies in the same group; all other Non-Banking Financial Companies; and|
+
+(2) the book value of debentures, bonds, outstanding loans and advances (including hire purchase and lease finance) made to, and deposits with
+(i) subsidiaries of such company; and (ii) companies in the same group,
+# Withdrawn
+
+to the extent such amount exceeds ten percent of (a) above
+
+II. "subsidiaries" and "companies in the same group" shall have the same meanings assigned to them in the Companies Act, 1956 (1of
+
+1956).
+5. ACTIVITIES NOT ELIGIBLE FOR BANK CREDIT
+5.1 The following activities undertaken by NBFCs, are not eligible for bank credit:
+(i) Bills discounted/rediscounted by NBFCs, except for rediscounting of bills discounted by NBFCs arising from sale of -
+a) commercial vehicles (including light commercial vehicles), and
+b) two wheeler and three wheeler vehicles, subject to the following conditions:
+
+<!-- PAGE 6 -->
+
+- the bills should have been drawn by the manufacturer on dealers only;
+- the bills should represent genuine sale transactions as may be ascertained from the chassis/engine number; and
+- before rediscounting the bills, banks should satisfy themselves about the bona fides and track record of NBFCs which have discounted the bills.
+(ii) Investments of NBFCs both of current and long-term nature, in any company/entity by way of shares, debentures, etc. However, Stock Broking Companies may be provided need- based credit against shares and debentures held by them as stock-in-trade.
+
+(iii) Unsecured loans/ inter-corporate deposits by NBFCs to/in any company.
+
+(iv) All types of loans and advances by NBFCs to their subsidiaries, group companies/entities.
+
+(v) Finance to NBFCs for further lending to individuals for subscribing to Initial Public Offerings (IPOs) Withdrawn
+5.2 Leased and Sub-Leased Assets As banks can extend financial assistance to equipment leasing companies, they should not enter into lease agreements departmentally with such companies as well as other Non-Banking Financial Companies engaged in equipment leasing.
+6. OTHER PROHIBITION ON BANK FINANCE TO NBFCS
+6.1 Bridge loans/interim finance Banks should not grant bridge loans of any nature, or interim finance against capital/debenture issues and/or in the form of loans of a bridging nature pending raising of long-term funds from the market by way of capital, deposits, etc. to all
+
+<!-- PAGE 7 -->
+
+categories of Non-Banking Financial Companies, i.e., equipment leasing and hire-purchase finance companies, loan and investment companies and also Residuary Non-Banking Companies (RNBCs). Banks should strictly follow these instructions and ensure that these are not circumvented in any manner whatsoever by purport and/or intent by sanction of credit under a different nomenclature like unsecured negotiable notes, floating rate interest bonds, etc., as also short-term loans, the repayment of which is proposed/expected to be made out of funds to be or likely to be mobilised from external/other sources and not out of the surplus generated by the use of the asset(s).
+
+6.2. Advances against collateral security of shares to NBFCs Shares and debentures cannot be accepted as collateral securities for secured loans granted to NBFCs borrowers for any purpose.
+6.3 Restriction on guarantees for placement of funds with NBFCs Banks should not execute guarantees covering inter-company deposits/loans thereby guaranteeing refund of deposits/loans accepted by NBFC/firms from other NBFC/firms. The restriction would cover all types of deposits/loans irrespective of their source, including deposits/loans received by NBFCs from trusts and other institutions. Guarantees should not be issued for the purpose of indirectly enabling the placement of deposits with NBFCs.
+# Withdrawn
+
+<!-- PAGE 8 -->
+
+Appendix
+
+## Master Circular
+
+## Bank Finance To Non-Banking
+
+||Financial Companies (NBFCs) List of Circulars Consolidated in the Master Circular||
+|---|---|---|
+|No|Circular No|Date|
+|1|IECD.No.29/08.12.01/98-99|25.05.99|
+|2|IECD.No.15/08.12.01/97-98|04.11.97|
+|3|IECD.No.17/03.27.026/96-97|06.12.96|
+|4|DBOD.No.FSC.BC.101/24.01.001/95-96|20.09.95|
+|5|IECD.No.42/08.12.01/94-95|21.04.95|
+|6|DBOD.No.FSC.BC.71/C.469/91-92|22.01.92|
+|7|IECD.No.14/08.12.01/94-95|28.09.94|
+|8|RBI/273/2004-05. DBOD.IECS.BC.No.57/ 08.12.01(N) / 2004-05.|19.11.04|
+
+# Withdrawn
+
+<!-- PAGE 9 -->
+
+List of Other Circulars containing Instructions/Guidelines/ Directives related to Non-Banking Financial Companies (NBFCs)
+
+## Circular No Subject
+
+|No|Date||
+|---|---|---|
+|1 DBOD.No.Dir.BC.107/13.07.05/98|11.11.1998|Rediscounting of Bills by|
+|-99||Banks|
+|2 DBOD.No.Dir.BC.173/13.07.05/99|12.05.2000|Rediscounting of Bills by|
+|-2000||Banks|
+|3 DBOD.No.Dir.BC.90/13.07.05/98|28.08.1998|Bank Finance against Shares & Debentures|
+|4 DBOD.No.BP.BC.51/21.04.137/|10.11.2000|Bank Financing of Equities|
+|2000-01||and Investment in Shares|
+|5 RBI/2004-05/68|23.07. 2004|Restriction on placement of|
+|DBOD.No.Dir. 13.03.00/2004-05||funds with NBFCs|
+
+# Withdrawn
