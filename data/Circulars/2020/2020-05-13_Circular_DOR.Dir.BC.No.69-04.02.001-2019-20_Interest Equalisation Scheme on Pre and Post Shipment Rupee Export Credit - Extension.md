@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2020_DOR_Dir_BC_No_69_04_02_001_2019-20"
+title: "Interest Equalisation Scheme on Pre and Post Shipment Rupee Export Credit - Extension"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/231IESB366F6A1C1074B599555190440E745DF.PDF"
+pdf_sha256: "5921952cbafa493ab7baf6c99e6382521e7a3338f87cacbcc5780611c6ac911c"
+md_sha256: "d1486292bf3bd982fa9a61558af376a618edfd9ade031cb813b0b3c1805ebf12"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:43:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-05-13_Circular_DOR.Dir.BC.No.69-04.02.001-2019-20_Interest%20Equalisation%20Scheme%20on%20Pre%20and%20Post%20Shipment%20Rupee%20Export%20Credit%20-%20Extension.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Equalisation Scheme on Pre and Post Shipment Rupee Export Credit - Extension
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/231 DOR.Dir.BC.No.69/04.02.001/2019-20 May 13, 2020
+
+All Scheduled Commercial Banks (excluding RRBs) Small Finance Banks, Primary (Urban) Cooperative Banks and EXIM Bank
+
+Dear Sir / Madam,
+
+## Interest Equalisation Scheme on Pre and Post Shipment Rupee Export Credit-Extension
+
+Please refer to the operational instructions for the captioned Scheme contained in RBI circular on Interest Equalisation Scheme on Pre and Post Shipment Rupee Export Credit issued vide <u>DBR.Dir.BC.No.62/04.02.001/2015-16 dated December 4, 2015</u>; <u>DCBR.CO.SCB.Cir.No.1/13.05.000/2015-16 dated February 11, 2016</u>, <u>DBR.Dir.BC.No.09/04.02.001/2018-19 dated November 29, 2018</u> and <u>DBR.Dir.BC.No.22/04.02.001/2018-19 dated January 11, 2019</u>.
+
+2. In this connection, Government of India has approved the extension of Interest Equalization Scheme for pre and post shipment Rupee export credit, with same scopeWithdrawn and coverage, for one more year i.e. upto March 31, 2021. The extension shall take effect from April 01, 2020 and end on March 31, 2021 covering a period of one year.
+3. Consequently, the extant operational instructions issued by the RBI under the captioned Scheme shall continue to remain in force upto March 31, 2021.
+## Yours faithfully
+
+(Dr.S.K. Kar) Chief General Manager
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- िविनयमन िवभाग, क � ी य कायार्लय, 12व और 13व मंिज़ल, क � ी य कायार्लय भवन, शहीद भगत संह मागर्, मुंबई 400001 टेलीफोन /Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 बक �हंदी म पाचार का स्वागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

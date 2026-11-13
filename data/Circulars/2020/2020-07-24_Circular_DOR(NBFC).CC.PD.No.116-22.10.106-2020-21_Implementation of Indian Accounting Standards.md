@@ -1,0 +1,32 @@
+---
+doc_id: "Circulars_2020_DOR_NBFC_CC_PD_No_116_22_10_106_2020-21"
+title: "Implementation of Indian Accounting Standards"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/INDASBF34D2B6BC6D49DFB2F428174034CC9C.PDF"
+pdf_sha256: "7980ae6a71ac083abd51bba5bf77a49c253b5947cea4d8492762f4e3760f8c65"
+md_sha256: "131f5ef68e7f017c8aba8ae36522c35198cd52957ff5e16a968b79df2711fdfd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:43:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-07-24_Circular_DOR%28NBFC%29.CC.PD.No.116-22.10.106-2020-21_Implementation%20of%20Indian%20Accounting%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Indian Accounting Standards
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक **RESERVE BANK OF INDIA www.rbi.org.in**
+
+RBI/2020-21/15 DOR (NBFC).CC.PD.No.116/22.10.106/2020-21 July 24, 2020
+
+To Non-Banking Financial Companies and Asset Reconstruction Companies implementing Indian Accounting Standards
+
+Madam / Sir, **Implementation of Indian Accounting Standards** Please refer to paragraph 3 of the Annex to our <u>circular DOR (NBFC).CC.PD.No.109</u> <u>/22.10.106/2019-20 dated March 13, 2020</u>, on the captioned subject, in terms of which any net unrealised gains arising on fair valuation of financial instruments, should not be included in owned funds whereas all such net losses should be considered.
+
+2. On a review, it has been decided that the unrealised gain/loss on a derivative transaction undertaken for hedging may be offset against the unrealised loss/gain recognized in the capital (either through Profit or Loss or through OtherWithdrawn Comprehensive Income) on the corresponding underlying hedged instrument. If after such offset and netting with unrealised gains/losses on other financial instruments, there are still net unrealised gains, the same should be excluded from regulatory capital as required by paragraph 3 of the annex to the said circular.
+3. It is also clarified that unrealized gains/losses shall be considered net of the effect of taxation. All other instructions remain unchanged. Yours faithfully, -sd- (Manoranjan Mishra) Chief General Manager िविनयमन िवभाग (गैर-ब � कं ग िवीय कं पिनयां), क � ी य कायार्लय, 2री मंिज़ल, मुख्य कायार्लय भवन, शहीद भगत संह मागर्, फोट, मुंबई-400 001
+<u>टेलीफोन:+91-22-22709038, ईमेल:helpdnbr@rbi.org.in</u> Department of Regulation (Non-Banking Financial Companies), Central Office, 2ndFloor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel No: +91-22-22709038, Email :helpdnbr@rbi.org.in हंदी आसान है, इसका �योग बढ़ाइए ।
