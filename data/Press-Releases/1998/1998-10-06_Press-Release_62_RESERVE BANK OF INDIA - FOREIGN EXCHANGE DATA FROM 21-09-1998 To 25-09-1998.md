@@ -1,0 +1,41 @@
+---
+doc_id: "Press-Releases_1998_62"
+title: "RESERVE BANK OF INDIA - FOREIGN EXCHANGE DATA FROM 21/09/1998 To 25/09/1998"
+category: "Press-Releases"
+year: 1998
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/3225.pdf"
+pdf_sha256: "5085b18efbda484df9ccc524c1d3f47899e4f24d6e1a12cf6d005c3a67a33b43"
+md_sha256: "3ab4c73ea29649c4bad70d90588ef18561519f874c03fd5e3ae0cde8c76316a4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:51:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-06_Press-Release_62_RESERVE%20BANK%20OF%20INDIA%20-%20FOREIGN%20EXCHANGE%20DATA%20FROM%2021-09-1998%20To%2025-09-1998.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RESERVE BANK OF INDIA - FOREIGN EXCHANGE DATA FROM 21/09/1998 To 25/09/1998
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA-FOREIGN EXCHANGE DATA FROM 21/09/1998 To 25/09/1998
+
+**All Figures Are in USD Millions** **PURCHASES** **MERCHANT INTER BANK** **Position FCY/INR FCY/FCY FCY/INR FCY/FCY** **SPOT SPOT SPOT FORWARD**
+
+|21/09/1998|206|52|63|46|38|67|261|535|81|1203|229|27|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|22/09/1998|222|52|78|44|36|75|337|521|66|1102|189|37|
+|23/09/1998|197|93|115|58|133|65|494|914|139|815|278|43|
+|24/09/1998|182|49|74|59|101|93|370|657|90|1204|386|19|
+|25/09/1998|224|90|193|70|97|91|529|673|75|1650|311|40|
+|SALES|||||||||||||
+|21/09/1998|203|126|49|46|35|169|221|525|92|1141|223|26|
+|22/09/1998|239|124|27|46|35|72|321|442|76|1106|234|37|
+|23/09/1998|182|168|45|58|85|115|490|887|143|963|228|42|
+|24/09/1998|228|136|30|59|53|138|326|660|101|1191|424|19|
+|25/09/1998|311|330|82|66|82|163|461|728|63|1614|345|38|
+
+|Date|FORWARD|FORWARD|FORWARD|FORWARD|SWAP|FORWARD|SPOT SWAP|
+|---|---|---|---|---|---|---|---|
+|||CANCELLATION||CANCELLATION||||

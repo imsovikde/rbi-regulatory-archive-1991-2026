@@ -1,0 +1,37 @@
+---
+doc_id: "Press-Releases_1998_39"
+title: "RESERVE BANK OF INDIA - FOREIGN EXCHANGE DATA FROM 14/09/1998 To 18/09/1998"
+category: "Press-Releases"
+year: 1998
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/3200.pdf"
+pdf_sha256: "b1c6287545a3d986b3a9365f662382036c4c6bb0bc26d6a646f7654a1aa3fc53"
+md_sha256: "ab2c2e97ed3b86dfa5dfdbc8d3d5c1d71cacbc149d7b230e7fe76cb5970a8a6b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:51:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-09-29_Press-Release_39_RESERVE%20BANK%20OF%20INDIA%20-%20FOREIGN%20EXCHANGE%20DATA%20FROM%2014-09-1998%20To%2018-09-1998.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RESERVE BANK OF INDIA - FOREIGN EXCHANGE DATA FROM 14/09/1998 To 18/09/1998
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA-FOREIGN EXCHANGE DATA FROM 14/09/1998 To 18/09/1998
+
+## All Figures Are in USD Millions
+
+<u>PURCHASES</u> MERCHANT Position FCY/INR FCY/FCY FCY/INR Date SPOT FORWARD FORWARD SPOT FORWARD FORWARD SPOT SWAP <u>CANCELLATION CANCELLATION</u>
+
+14/09/1998 274 57 48 38 111 76 491 597 15/09/1998 161 53 55 57 182 72 255 394 16/09/1998 158 72 31 115 121 110 338 691 17/09/1998 178 57 65 74 192 101 460 543 18/09/1998 220 52 78 48 124 107 336 555
+
+SALES
+
+|14/09/1998|303|62|42|39|93|87|486|653|
+|---|---|---|---|---|---|---|---|---|
+|15/09/1998|158|95|25|58|107|248|266|418|
+|16/09/1998|203|79|32|115|71|111|302|686|
+|17/09/1998|236|95|31|74|150|164|417|555|
+|18/09/1998|173|109|30|49|55|127|379|599|
