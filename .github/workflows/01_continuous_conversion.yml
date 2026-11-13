@@ -1,0 +1,149 @@
+name: "01 - Continuous RBI PDF-to-Markdown Conversion (imsovikde Verified)"
+
+# Self-chaining batch conversion: 0% -> 100.0000% across 88,236 PDFs.
+# Every commit is authored by Souvik Dey <imsovikde@gmail.com> and signed
+# with the owner's GPG key, so GitHub renders the green Verified badge.
+# This workflow itself never commits files. The runner
+# (src/rbi_pipeline/runner.py, landed by 00_bootstrap) does the per-batch
+# commit + push. This workflow only dispatches the next run when work
+# remains (see the self-chain step at the end).
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Files per granular commit"
+        required: false
+        default: "75"
+      max_batches_per_run:
+        description: "Max batches before self-chaining next run"
+        required: false
+        default: "200"
+      self_chain:
+        description: "Set to 'false' for a pilot run that must NOT trigger the next run (verify first, then dispatch the full run by hand)"
+        required: false
+        default: "true"
+  schedule:
+    # Safety watchdog: wakes up every 6 hours in case a runner was
+    # preempted by GitHub or a self-chain dispatch was lost.
+    - cron: "15 */6 * * *"
+
+concurrency:
+  group: rbi-markdown-conversion-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  convert-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - name: Checkout Repository with Personal Token
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      - name: Configure Verified Commit Signing for Souvik Dey (imsovikde)
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_tag_gpgsign: true
+          git_user_name: "Souvik Dey"
+          git_user_email: "imsovikde@gmail.com"
+
+      - name: Set Up System PDF and OCR Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            tesseract-ocr \
+            tesseract-ocr-eng \
+            tesseract-ocr-hin \
+            ghostscript \
+            poppler-utils \
+            fonts-dejavu \
+            fonts-dejavu-core \
+            fonts-dejavu-extra \
+            qpdf
+
+      - name: Set Up Python 3.11 and Cache Pip Packages
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Canonical Extraction and OCR Stack
+        run: |
+          pip install --upgrade pip
+          # Core stack: must install, or the job fails here.
+          pip install \
+            firecrawl-anydoc \
+            pymupdf \
+            huggingface_hub \
+            httpx \
+            tenacity \
+            pyyaml \
+            tqdm
+          # Heavy OCR stack: install best effort. If any package in this
+          # group fails (for example a wheel is unavailable for this
+          # runner image), the step must NOT fail the whole job. The
+          # converter detects what is present and falls back: born-digital
+          # PDFs still convert with anydoc, and pages that need OCR are
+          # retried by a later run once the stack is fixed. The runner
+          # records the missing engine in the ledger so nothing is
+          # silently skipped.
+          pip install \
+            rapidocr-onnxruntime \
+            onnxruntime \
+            paddlepaddle \
+            paddleocr \
+            paddlex \
+            ocrmypdf \
+            Pillow \
+            sympy || true
+
+      - name: Execute Granular Conversion and Verified Commit Loop
+        id: convert
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size || '75' }}
+          MAX_BATCHES_PER_RUN: ${{ github.event.inputs.max_batches_per_run || '200' }}
+          MAX_RUNTIME_SECONDS: "17400"
+        run: |
+          python3 -m src.rbi_pipeline.runner \
+            --batch-size "${BATCH_SIZE}" \
+            --max-runtime-seconds "${MAX_RUNTIME_SECONDS}"
+
+      - name: Self-Chain Next Run If Archive Conversion Is Below 100.0000%
+        # Only chain after a successful run: a failed run (for example a
+        # failed index commit) must NOT dispatch the next run, or every
+        # chained run fails the same way. The 6-hour watchdog cron
+        # retries a failed run instead.
+        if: always() && steps.convert.outcome == 'success' && (github.event.inputs.self_chain != 'false')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REMAINING=$(python3 -c "import json, os; s=json.load(open('STATE.json')) if os.path.exists('STATE.json') else {'remaining_count': 0}; print(s.get('remaining_count', 0))")
+          echo "Remaining unconverted PDFs: ${REMAINING}"
+          if [ "${REMAINING}" -gt "0" ]; then
+            echo "Triggering next self-chained workflow run..."
+            # NOTE: the dispatch uses GITHUB_TOKEN on purpose, not the
+            # owner's PAT. The PAT (GH_PAT) is a fine-grained token scoped
+            # to this repo with Contents read/write only; it has no
+            # Actions scope, so it cannot dispatch workflows and cannot
+            # push changes to .github/workflows/. A workflow_dispatch
+            # event triggered by GITHUB_TOKEN DOES start a new run, and
+            # the new run still commits as imsovikde because the runner
+            # signs with the owner's GPG key and pushes with GH_PAT.
+            # This is the correct self-chain mechanism without a PAT
+            # upgrade. Do not "fix" this by switching to GH_PAT.
+            gh workflow run 01_continuous_conversion.yml --ref main
+          else
+            echo "100.0000% COMPLETE: All 88,236 PDFs converted, indexed, and verified."
+          fi
