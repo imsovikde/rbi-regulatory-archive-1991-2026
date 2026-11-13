@@ -33,6 +33,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
+          # Always check out the tip of main at job start, not the commit
+          # that triggered the run. A run dispatched while another run is
+          # active waits behind the concurrency group; without this, it
+          # checks out a stale commit, its startup index-recovery commit
+          # is built from stale state, and the pull --rebase onto the
+          # newer main conflicts (run 43394196880 failed exactly this way
+          # after 3h46m queued). With ref: main a queued run can never
+          # go stale. Do not remove this line.
+          ref: main
           fetch-depth: 0
 
       - name: Configure Verified Commit Signing for Souvik Dey (imsovikde)
