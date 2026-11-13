@@ -1,0 +1,114 @@
+---
+doc_id: "Circulars_2014_UBD_BPD_PCB_Cir_No_68_16_26_000_2013-14"
+title: "The Banking Laws (Amendment) Act 2012 - Amendments to Section 18 & 24 of Banking Regulation (B.R.) Act, 1949 (AACS) - Maintenance of Cash Reserve Ratio (CRR) for Non-Scheduled UCBs and Statutory Liquidity Ratio (SLR) for UCBs"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CN68050614MC.PDF"
+pdf_sha256: "6410c8aff23ab2d2ed2052e25cb2969b0f37345db6e9bfb60af6efb18f71876e"
+md_sha256: "545e66eaa8a2c1699f72e73940050267be1d943899fe4b9478d915cfff46ca12"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:11:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-06-05_Circular_UBD.BPD.%28PCB%29.Cir.No.68-16.26.000-2013-14_The%20Banking%20Laws%20%28Amendment%29%20Act%202012%20-%20Amendments%20to%20Section%2018%20%26%2024%20of%20Banking%20Regulation%20%28B.R.%29%20Act%2C%201949%20%28AACS%29%20-%20Maintenance%20of%20C.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Banking Laws (Amendment) Act 2012 - Amendments to Section 18 & 24 of Banking Regulation (B.R.) Act, 1949 (AACS) - Maintenance of Cash Reserve Ratio (CRR) for Non-Scheduled UCBs and Statutory Liquidity Ratio (SLR) for UCBs
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़र्व बकैं
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2013-14/628 UBD.BPD.(PCB).Cir.No. 68 /16.26.000/2013-14 June 5, 2014
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+**The Banking Laws (Amendment) Act 2012 – Amendments to** **Section 18 & 24 of Banking Regulation (B.R.) Act, 1949 (AACS)** **– Maintenance of Cash Reserve Ratio (CRR) for Non-Scheduled** <u>UCBs and Statutory Liquidity Ratio (SLR) for UCBs</u>
+
+Pursuant to the enactment of the Banking Laws (Amendment) Act, 2012, giving powers to RBI to specify the percentage of CRR for Non-scheduled UCBs and the percentage of SLR as well as the form and manner of holding SLR by co- operative banks, it has been decided to increase the CRR for Non-Scheduled Primary (Urban) Co-operative Banks by 100 basis points from 3.00 per cent to
+
+4.00 per cent of their total demand and time liabilities, on par with Scheduled Primary (Urban) Co-operative Banks, with effect from the fortnight beginning July 12, 2014.
+# Withdrawn
+
+2. Further, it has been decided to reduce the SLR for all primary (Urban) Co- operative Banks by 250 basis points from 25.00 per cent to 22.50 per cent of their total demand and time liabilities with effect from the fortnight beginning July 12,
+2014. Primary (Urban) Co-operative Banks not maintaining SLR in three forms i.e. cash, gold and approved securities are given time upto March 31, 2015 to comply with instructions contained in the enclosed Notification. In the interim period, Primary (Urban) Co-operative Banks may continue to maintain SLR as per
+..2/-
+शहरी बक विभाग,क ैं ें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ ए बी रोड, िरली, मंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बक हहन्दी म</u> ैं ें <u>पत्राचार का स्िागत करता है —</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररये कोई भी व्यज़क्तगत जानकारी जैसे बैंक खाते का ब्यौरा, पासिडा आहद नहीं मााँगा जाता है। यह धन रखने या देने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी प्रकार से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+-2 -
+instructions contained in circulars UBD.BR.Cir.19/16.26.00/2001-02 dated October 22, 2001 and <u>UBD.(PCB).CO.BPD.Cir.28/16.26.00/2008-09 dated</u> <u>November 26, 2008</u>. However, term deposits held by Primary (Urban) Co- operative Banks with Public Sector Banks will also be eligible for being reckoned for SLR purpose in the interim period, upto March 31, 2015.
+
+3. It may be noted that balances kept with State Co-operative Banks / District Central Co-operative Banks as also term deposits with public sector banks will not be eligible for being reckoned for SLR purpose w.e.f April 1, 2015.
+4. The copies of relative notifications UBD.BPD.(PCB).Not.No.1/16.26.000 /2013- 14 dated June 5, 2014 and UBD.BPD.(PCB).Not. No. 2 /16.26.000/2013-14 dated June 5, 2014 are enclosed. Yours faithfully, (A.K.Bera) Principal Chief General Manager
+# Withdrawn
+
+Encl: As above.
+
+<!-- PAGE 3 -->
+
+**भारतीय ररज़र्व बकैं** **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+UBD.BPD.(PCB).Not. No. 1 /16.26.000/2013-14 June 5, 2014
+
+## NOTIFICATION
+
+In exercise of the powers conferred by sub-section (1) of section 18 of the Banking
+
+Regulation Act, 1949 (10 of 1949) read with section 56 thereof, the Reserve Bank,
+
+having regard to the needs for securing monetary stability in India, hereby specifies
+
+that the Cash Reserve Ratio (CRR) required to be maintained by every primary
+
+(urban) co-operative bank, whether a scheduled co-operative bank or not, shall be 4
+
+per cent of the total of demand and time liabilities, from the fortnight beginning from
+
+## July 12, 2014.
+
+# Withdrawn
+
+(N.S.Vishwanathan) Executive Director
+
+शहरी बक विभाग, ैं कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसट मागा ें, िरली, मंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई-मेल: <u>cgmincubd@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: <u>cgmincubd@rbi.org.in</u> <u>ह िंदी आसान ै, इसका प्रयोग बढ़ाइए —</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त की जानकारी जैसे बैंक के खाते का ब्यौरा, पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत िी ज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 4 -->
+
+## भारतीय ररज़र्व बकैं
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+UBD.BPD.(PCB).Not. No. 2 /16.26.000/2013-14 June 5, 2014
+
+## NOTIFICATION
+
+In exercise of the powers conferred by sub-section (2A) of section 24 of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof, the Reserve Bank hereby specifies that every primary (urban) co-operative bank shall continue to maintain in India assets as detailed below, the value of which shall not, at the close of business on any day, be less than 22.50 per cent of the total of demand and time liabilities in India as on the last Friday of the second preceding fortnight, from the fortnight beginning from July 12, 2014, valued in accordance with the method of valuation specified by the Reserve Bank from time to time.
+
+(a) Cash, or
+(b) Gold valued at a price not exceeding the current market price, or
+(c) Unencumbered investment in approved securities as defined in section 5(a) of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof.
+# Withdrawn
+
+2. Notwithstanding anything contained hereinabove, -
+(i) Unencumbered balances maintained by a primary co-operative bank with the central co-operative bank of the district concerned or with the State co- operative bank of the State concerned, in excess of the balance required to be maintained by it under section 18 of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof; or शहरी बक विभाग, ैं कें द्रीय कायाालय, गारमेंट हाऊस, पहली मंज़िल, डॉ. एनी बेसट मागा ें, िरली, मंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई-मेल: <u>cgmincubd@rbi.org.in</u>
+Urban Banks Department, Central Office, Garment House, 1 st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: <u>cgmincubd@rbi.org.in</u> <u>ह िंदी आसान ै, इसका प्रयोग बढ़ाइए —</u> चेतािनी: भारतीय ररििा बैंक द्िारा ई-मेल, डाक, एसएमएस या फोन कॉल के जररए ककसी की भी व्यज़क्त की जानकारी जैसे बैंक के खाते का ब्यौरा, पासिडा आदि नहीं मांगी जाती है। यह धन रखने या िेने का प्रस्ताि भी नहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत िी ज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 5 -->
+
+(ii) unencumbered term deposits held by a primary co-operative bank with State Bank of India or a subsidiary bank or a corresponding new bank or IDBI Bank Ltd. shall also be deemed to be assets for the purpose of calculating the percentage specified under this notification, till March 31, 2015. **Explanation:**
+
+A. "Unencumbered investment" of a primary co-operative bank shall include its investment in the approved securities lodged with another institution for an advance or any other credit arrangement to the extent to which such securities have not been drawn against or availed of.
+B. “Term deposit” shall mean a deposit which is withdrawable after the expiry of a fixed period and includes deposits such as recurring deposit, cumulative deposit, annuity deposit, reinvestment deposit and cash certificate.
+C. In computing the amount for the above purpose, the following shall be deemed to be cash maintained in India:
+(i) Any balances maintained by a primary co-operative bank, which is a scheduled bank, with the Reserve Bank in excess of the balance required to be maintained by it under section 42 of the Reserve Bank of India Act, 1934 (2 of 1934); and
+# Withdrawn
+
+(ii) Any balances maintained by a primary co-operative bank, not being a scheduled bank, with the Reserve Bank in excess of the balance required to be maintained by it under section 18 of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof; and (iii) “Net balances in current accounts” as defined in the Explanation to sub- section (1) of section 18 of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof, in excess of the balance required to be maintained by it under the said section.
+
+(N.S.Vishwanathan) Executive Director

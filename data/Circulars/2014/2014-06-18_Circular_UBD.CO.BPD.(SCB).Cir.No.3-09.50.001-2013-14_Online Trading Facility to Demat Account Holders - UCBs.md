@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2014_UBD_CO_BPD_SCB_Cir_No_3_09_50_001_2013-14"
+title: "Online Trading Facility to Demat Account Holders - UCBs"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SCBC18062014.PDF"
+pdf_sha256: "085c9a78063f97f566fd7b021394ae6488cc073f5ff754f07d3cd249aacc9b1b"
+md_sha256: "8f945f8df5cb176f999748e16bfc28445fc67d77602c9d2cbd3c53d3b9ef00ad"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:11:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-06-18_Circular_UBD.CO.BPD.%28SCB%29.Cir.No.3-09.50.001-2013-14_Online%20Trading%20Facility%20to%20Demat%20Account%20Holders%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Online Trading Facility to Demat Account Holders - UCBs
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2013-14/645 UBD.CO.BPD.(SCB) Cir No.3/09.50.001/2013-14 June 18, 2014
+
+The Chief Executive Officers All Scheduled Primary (Urban) Co-operative Banks
+
+Madam / Dear Sir,
+
+## Online Trading Facility to Demat Account Holders-UCBs
+
+We have received requests from Indian Banks’ Association and Cooperative Federations to allow UCBs to provide online trading facility to their Demat Account holders.
+
+2**.** The matter has been examined by us. However, considering the high risk involved in such services, it has been decided to allow only Scheduled Primary (Urban) Co-operative Banks, with prior approval of the Reserve Bank, to provide online trading facility to their demat account holders by entering into a tie-up with a broking entity subject to fulfilling the following criteria:
+(i) Assessed networth of such UCBs should not be less than Rs 500 crore as per last inspection. (ii) UCBs are Financially Sound and Well Managed, as per criteria prescribed in our <u>circular UBD.CO.LS.(PCB).Cir.No.24/07.01.000/2013-14 dated October 1, 2013</u>. (iii) UCBs should be registered with SEBI as Depository Participants.
+# Withdrawn
+
+(iv) UCBs should have implemented Core Banking Solutions (CBS) fully and are offering Internet Banking services to their customers.
+
+3. For obtaining regulatory approval, UCBs, fulfilling the above criteria, may submit their applications to the Reserve Bank with a copy of Board Resolution to the effect that they would not be offering tips/ recommendations to their customers for on-line trading and would also not be undertaking portfolio management services. Yours faithfully, (A K Bera) Principal Chief General Manager शहर बक वभाग,क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in
+<u>बक ����� म पऽाचार का ःवागत करता है —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड
+
+|चेतावनी: भारतीय|रज़व बक|ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरये|कोई भी|यगत जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद नहं Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|माँगा जाता keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन|रखने या देने|का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|ूकार से जवाब|मत द�जए।||
+
+भी

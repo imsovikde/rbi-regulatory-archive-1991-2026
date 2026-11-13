@@ -1,0 +1,51 @@
+---
+doc_id: "Circulars_2014_UBD_BPD_Cir_No_70_13_03_000_2013-14"
+title: "Need for bank branches / ATMs to be made Accessible to persons with Disabilities"
+category: "Circulars"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CA110614FSM.PDF"
+pdf_sha256: "27ede3c11dfe6e9de07e841775bff5a80b574be341e39338e910ddfe4bfa25d4"
+md_sha256: "7adc8b22655d4670b341a6c2c16ff84d05a1aeb5cf566041a9de2fff82ed79bd"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:11:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2014/2014-06-11_Circular_UBD.BPD.Cir.No.70-13.03.000-2013-14_Need%20for%20bank%20branches%20-%20ATMs%20to%20be%20made%20Accessible%20to%20persons%20with%20Disabilities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Need for bank branches / ATMs to be made Accessible to persons with Disabilities
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2013-14/ 637
+
+## UBD.BPD.Cir.No. 70/13.03.000/2013-14 June 11, 2014
+
+The Chief Executive Officer All Primary (Urban) Co-operative Banks
+
+## Dear Sir / Madam
+
+## Need for bank branches/ATMs to be made <u>Accessible to persons with disabilities</u>
+
+Please refer to our <u>circular UBD.CO.BPD.(PCB) Cir. No.63/9.39.000/2008-09</u> <u>dated April 29, 2009</u> on the captioned subject, wherein banks were advised to provide, inter alia, ramps in all existing and future ATMs, and make at least one third of new ATMs installed as talking ATMs with Braille keypads. It was also advised to ensure that at least one talking ATM with Braille keypad is generally available in each locality for catering to the needs of visually impaired persons.
+
+2. UCBs are now advised to take appropriate steps to provide ramps at the entrance of the bank branches so that persons with disabilities / wheel chair users can enter bank branches and conduct business without difficulty. Banks are advised to report the progress made in this regard periodically to their Board of Directors/Customer Service Committee of the Board and ensure compliance.
+# Withdrawn
+
+However, in cases where it is impracticable to provide such ramp facilities, whether permanently fixed to earth or otherwise, the requirement may be dispensed with, for reasons recorded or displayed in branches or ATMs concerned.
+
+3. It is observed that some banks have not yet made at least one third of the new ATMs installed as talking ATMs with Braille keypads as advised vide our circular referred to above. It is, therefore, advised that banks should make all new ATMs installed from July 1, 2014 as talking ATMs with Braille keypads and lay down a road map for converting existing ATMs as talking ATMs with Braille keypads as advised in our circular dated April 24, 2009 ibid and the same may be reviewed from time to time by the Board of Directors/Customer Service Committee of the Board. शहर बक वभाग, क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ. एनी बेसट माग, वरली, मुंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई-मेल: rbiubdco@rbi.org.in Urban Banks Department, Central Office, Garment House, 1
+st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: rbiubdco@rbi.org.in <u>ह</u>ं<u>द आसान है, इसका ूयोग बढ़ाइए —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरए कसी क भी ���� क जानकार जैसे बक के खाते का यौरा,
+
+|चेतावनी: भारतीय|रज़व बक ारा|ई-मेल, डाक,|या फोन|कॉल के जरए|कसी क भी|���� क जानकार|जैसे बक|के खाते का यौरा,|
+|---|---|---|---|---|---|---|---|---|
+|पासवड आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|मांगी जाती keeps or offers funds to anyone. Please do not respond in any manner to such offers.|है। यह धन रखने|या देने का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|भी तरके से जवाब|मत द�जए।|
+
+नहं
+
+<!-- PAGE 2 -->
+
+4. In addition to the above, magnifying glasses should also be provided in all bank branches for the use of persons with low vision, wherever they require, for carrying out banking transactions with ease. Branches should display at a prominent place notice about the availability of magnifying glasses and other facilities available for persons with disabilities. Yours faithfully, (P.K.Arora) General Manager
+# Withdrawn
