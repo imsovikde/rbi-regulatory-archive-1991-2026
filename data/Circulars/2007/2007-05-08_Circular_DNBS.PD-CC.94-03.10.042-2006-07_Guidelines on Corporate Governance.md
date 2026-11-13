@@ -1,0 +1,120 @@
+---
+doc_id: "Circulars_2007_DNBS_PD_CC_94_03_10_042_2006-07"
+title: "Guidelines on Corporate Governance"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77182.PDF"
+pdf_sha256: "0da3a8a4cba652fe120de5e4a5d63049c1248a136826a6f0d473e0d2f7682244"
+md_sha256: "dbfbada427ba47004191784ee6dc1a800cb3eb23a45e061d6db15dfb7face3ba"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-05-08_Circular_DNBS.PD-CC.94-03.10.042-2006-07_Guidelines%20on%20Corporate%20Governance.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Corporate Governance
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/385 DNBS.PD/CC 94/03.10.042/2006-07
+
+## May 8, 2007
+
+## The Chairman/CEO
+
+1. All Deposit taking NBFCs with deposit size of Rs 20 crore and above
+2. All non-deposit taking NBFCs with asset size of Rs 100 crore and above (NBFC-ND-SI). Dear Sir,
+## <u>Guidelines on Corporate Governance</u>
+
+As it is evident, the need for good corporate governance has been gaining increased emphasis over the years. Globally, companies are adopting best corporate practices to increase the investors confidence as also that of other stakeholders. Corporate Governance is the key to protecting the interests of the stake-holders in the corporate sector. Its universal applicability has no exception to the Non-Banking Financial Companies (NBFCs) which too are essentially corporate entities. Listed NBFCs which are required to adhere to listing agreement and rules framed by SEBI on Corporate Governance are already required to comply with SEBI prescriptions on Corporate Governance.
+
+2. In order to enable NBFCs to adopt best practices and greater transparency in their operations following guidelines are proposed for consideration of the Board of Directors of the class of NBFCs to whom this circular is addressed.
+## Constitution of Audit Committee Withdrawn
+
+i ) In terms of extant instructions, an NBFC having assets of Rs. 50 crore and above as per its last audited balance sheet is already required to constitute an Audit Committee, consisting of not less than three members of its Board of Directors, the instructions shall remain valid. ii) In addition, NBFC-D with deposit size of Rs 20 crore may also consider constituting an Audit Committee on similar lines.
+
+## Constitution of Nomination Committee
+
+iii) The importance of appointment of directors with ‘fit and proper’ credentials is well recognised in the financial sector. In terms of Section 45-IA(4)(c) of the RBI Act, 1934, while considering the application for grant of Certificate of Registration to undertake the business of non-banking financial institution it is necessary to ensure that the general character of the management or the proposed management of the non-banking financial company shall not be prejudicial to the interest of its present and future depositors. In view of the interest evinced by various entities in this segment, it would be desirable that NBFC-D with deposit size of Rs 20 crore and above and NBFC-ND-SI may form a Nomination Committee to ensure ‘fit and proper’ status of proposed/existing Directors.
+
+<!-- PAGE 2 -->
+
+## Constitution of Risk Management Committee
+
+iv) The market risk for NBFCs with Public Deposit of Rs.20 crore and above or having an asset size of Rs.100 crore or above as on the date of last audited balance sheet is addressed by the Asset Liability Management Committee (ALCO) constituted to monitor the asset liability gap and strategize action to mitigate the risk associated. To manage the integrated risk, a risk management committee may be formed, in addition to the ALCO in case of the above category of NBFCs.
+
+## Disclosure and transparency
+
+v) The following information should be put up by the NBFC to the Board of Directors at regular intervals as may be prescribed by the Board in this regard:
+- progress made in putting in place a progressive risk management system, and risk management policy and strategy followed
+- conformity with corporate governance standards viz. in composition of various committees, their role and functions, periodicity of the meetings and compliance with coverage and review functions, etc.
+## Connected Lending
+
+vi) The companies should comply with the instructions on connected lending relationships, as detailed in Annex. The instructions relate to credit facilities to the Directors, loans and advances to relatives of the NBFC's Directors or to the Directors of other companies and their relatives and other entities, timeframe for recovery of such loans, etc.
+
+# Withdrawn
+
+3. NBFCs shall frame their internal guidelines on corporate governance, enhancing the scope of the guidelines without sacrificing the spirit underlying the above guidelines and it shall be published on the company’s web-site, if any, for the information of various stakeholders.
+Yours faithfully,
+
+(P. Krishnamurthy) Chief General Manager In-Charge
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Instructions on Connected Lending Relationships
+
+The NBFCs should evolve appropriate operating procedures and information systems for ascertaining the interest of their own Directors as also the interest of the Directors of other companies for the purpose of implementing these instructions and for monitoring ongoing compliance therewith.
+
+## 1. Credit facilities to the Directors
+
+1.1 In order to obviate conflict of interest in the lending operations of the NBFC, it should not grant any loan, advance or non-fund based facility or any other financial accommodation / facility to:
+a) its directors or their relatives;
+b) to any firm in which any of its Directors is interested as Partner, Manager, Employee or Guarantor;
+c) any individual in respect of whom any of its Directors is a Guarantor;
+d) any company of which, or the subsidiary or the holding company of which, any of the Directors of the NBFC is a Director, Managing Agent, Manager, Employee or Guarantor or any firm in which he holds substantial interest;
+e) any entity, whether incorporated or not which uses as a part of its name or in connection with its business, the name of the NBFC or any such word as would show its association with the NBFC.
+1.2 Any existing arrangements may be allowed to continue up to the date when they are due. They should, however, not be renewed or extended any further.
+# Withdrawn
+
+1.3 NBFCs are required to submit information pertaining to loans and advances granted to their
+st directors, relatives and other entities referred to in item 1.1 above for each quarter end (i.e. as on 31 th th st March, 30 June, 30 September and 31 December) in the enclosed Proforma 1 to the Regional Office concerned of the Department of Non-Banking Supervision within 15 days from the close of the respective quarter. If there is nothing to report, a nil statement may be submitted.
+
+## 2. Timeframe for recovery of loans
+
+2.1 In cases where the NBFC has already provided credit facilities to its directors as prohibited in 1.1 above, immediate steps should be initiated to recover the amounts of the loan or advance together with interest, if any, as soon as the loan or advance falls due for repayment in terms of the loan agreement.
+2.2 In case there is no repayment date fixed for any facility, the same may be recovered within a period of one year from the date of this circular.
+
+<!-- PAGE 4 -->
+
+## 3. Definitions
+
+3.1 The term "substantial interest" for the purpose of these guidelines:
+(i) in relation to a company, means the holding of a beneficial interest by an individual or his spouse or minor child, whether singly or taken together, in the shares thereof, the amount paid-up on which exceeds five lakhs of rupees or ten per cent of the paid-up capital of the company, whichever is less; (ii) in relation to a firm, means the beneficial interest held therein by an individual or his spouse or minor child, whether singly or taken together, which represents more than ten per cent of the total capital subscribed by all the partners of the said firm;
+3.2 The scope of the term "relative" shall be as defined in the Companies Act, 1956.
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+## Proforma 1
+
+## Information in respect of loans and advances sanctioned to the Directors of NBFCs, their relatives
+
+## and other entities mentioned in paragraph 1.3 of Annex
+
+Name of the NBFC : Position as on :
+
+||||||||Limits Sanctioned (Rs. in lakhs)|||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sr.|Name of the Borrowers (relationship)||Date of Sanction/ Renewal||Type of Facility Funded|Non- funded|Secure d|Un- secure d||Nature and Value of Security|Due Date/ Date of Maturity|
+|1|2||3||4|5 Amount Outstanding (Rs. in Lakhs)|6|7||8|9|
+||Secured||Unsecured||Total (100% of Funded and 50% of Non-funded Limits)|||Whether in excess of exposure norms/limits stipulated by RBI|||Action initiated in case of Overdue/ NPA Accounts|
+||10||11||12|Withdrawn||13|||14|
+
+Note:
+
+Different types of facilities sanctioned to a borrower should be indicated separately against columns 4 and 5.

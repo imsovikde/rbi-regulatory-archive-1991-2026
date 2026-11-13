@@ -1,0 +1,51 @@
+---
+doc_id: "Circulars_2007_UBD_CO_LS_Cir_No_43_07_01_000_2006-07"
+title: "Section 23 of Banking Regulation Act, 1949 (AACS) - Branch Banking Statistics - Submission of Quarterly Returns - Revision of Proformae I & II"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77347.PDF"
+pdf_sha256: "9407e59aa0b9118e43847220ad2138d17ba79f09e6ebe96f63b6679f1a283f0e"
+md_sha256: "f171661af8b9e9b5354f6560c8dbb976304b0c73951e9f6af15de7eb77692f8c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-05-09_Circular_UBD.CO.LS.Cir.No.-43-07.01.000-2006-07_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20%28AACS%29%20-%20Branch%20Banking%20Statistics%20-%20Submission%20of%20Quarterly%20Returns%20-%20Revision%20of%20Proformae%20I.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of Banking Regulation Act, 1949 (AACS) - Branch Banking Statistics - Submission of Quarterly Returns - Revision of Proformae I & II
+
+<!-- PAGE 1 -->
+
+RBI/2006-2007/**387** UBD.CO.LS. Cir. No./ **43** /07.01.000/2006-07 May 9, 2007 Vaishakha 7, 1929 (S)
+
+The Chief Executive Officers of All Primary (Urban ) Co-operative Banks
+
+## Dear Sir / Madam
+
+**Section 23 of Banking Regulation Act, 1949 (AACS) –** **Branch Banking Statistics-Submission of Quarterly Returns-** <u>Revision of Proformae I & II</u>
+
+With a view to streamlining and updating the system of compilation of branch banking data, maintained by the Department of Statistical Analysis and Computer Services (DESACS), Central Office, Bandra Kurla Complex, Mumbai and Regional Offices of UBD, the Proformae I & II submitted by banks have been revised in order to include details in respect of Not Administratively Independent Offices (NAIOs) like Extension Counters, Satellite Offices, ATMs etc.
+
+2. It has been decided to consolidate database on Not Administratively Independent Offices (NAIOs) by DESACS. For this purpose, a consolidated list of NAIOs, existing as on March 31, 2007 shall be submitted by the banks **in the format given in Annex B,** <u>preferably in MS Excel</u> <u>Sheet</u>. Later on from the quarter ended June 30,2007 these details would be collected as a part of Proformae I, II and the banks would not be required to submit separately.
+# Withdrawn
+
+3. It is also proposed to allot 9-digit Part I code to NAIOs (first 7-digits from the left will be that of the base branch to which the NAIOs will be linked, last two digits will be allotted as per date of opening). As Part I code of the base branch forms an important part of the code of NAIOs, to facilitate appropriate coding and further processing, banks **should furnish, along with other** **particulars, the Part I code of base branch in their application submitted to the Regional** **Office concerned of UBD for licence/permission for opening/closing/ shifting NAIOs.**
+4. As the Uniform Codes-Parts I and II are assigned to bank offices/ branches/ NAIOs by DESACS, CO, Mumbai on the basis of the data received in the Proformae, banks are requested to strictly follow the instructions appended thereto while filling and submitting the Proformae. It may also be ensured that all mandatory items of Proformae-I and II, a list of which is enclosed (Annex-A) are filled up properly and correctly.
+
+<!-- PAGE 2 -->
+
+5. The quarterly proformae I and II should be submitted from one office only i.e. **head** **office/central office/corporate office/principal office etc. of the bank** to DESACS and the Regional Offices of the Urban Banks Department. In case there is nothing to report a **NIL** statement should be submitted.
+6. First, such Returns in the revised Proformae I & II should relate to the quarter ending June 30, 2007 and should be submitted preferably, in soft copy by July 31, 2007. You may please ensure that the subsequent quarterly Returns are submitted within 14 days of the month succeeding the quarter to which they relate. **‘NIL’** Returns must be sent to DESACS and Regional Offices of Urban Banks Department in case there is nothing to report on opening/closing/change in status, etc., of any office/branch/NAIO during a quarter. While submitting the current quarter Returns, the previous quarter’s reference must be quoted in the forwarding letter.
+7. In view of what is stated above, the statements/advices in the existing format prescribed by the Regional Offices of Urban Banks Department need be submitted only up to the quarter ending March 31, 2007 and thereafter in the revised proformae enclosed to this letter.
+## Yours faithfully
+
+## ( K.P.V. Karunakaran) General Manager
+
+**Encls**:
+
+# Withdrawn
+
+(i) Revised Proformae I & II and associated instructions (ii) List of mandatory items, required to be filled up in the Proformae (Annex A) (iii) Specimen proforma for collection of NAIO details existing as on March 31, 2007 (Annex B)

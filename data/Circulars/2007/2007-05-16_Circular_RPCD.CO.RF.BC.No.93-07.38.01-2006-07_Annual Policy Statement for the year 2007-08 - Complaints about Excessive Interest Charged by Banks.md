@@ -1,0 +1,62 @@
+---
+doc_id: "Circulars_2007_RPCD_CO_RF_BC_No_93_07_38_01_2006-07"
+title: "Annual Policy Statement for the year 2007-08 - Complaints about Excessive Interest Charged by Banks"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77398.PDF"
+pdf_sha256: "c257d7090b54d0f3c5789e3a47b28b35e4059bb8886e762fb096b89095a7c62e"
+md_sha256: "65a974efbdd6668c89aefcbdb48528995458bd3ffc8edc96ff746cc162200a52"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-05-16_Circular_RPCD.CO.RF.BC.No.93-07.38.01-2006-07_Annual%20Policy%20Statement%20for%20the%20year%202007-08%20-%20Complaints%20about%20Excessive%20Interest%20Charged%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Annual Policy Statement for the year 2007-08 - Complaints about Excessive Interest Charged by Banks
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/395 RPCD.CO.RF.BC.No.93/07.38.01/2006-07
+
+## May 16, 2007
+
+The Chairman / Chief Executive Officer/Managing Director,
+
+All State Co-operative Banks (StCBs) and District Central Co-operative Banks (DCCBs)
+
+Dear Sir,
+
+## Annual Policy Statement for the year 2007- 08 –
+
+## <u>Complaints about excessive interest charged by banks</u>
+
+Please refer to the paragraph 168 of the Annual Policy Statement for the year 2007-08 (a copy of the extract enclosed).
+
+2. The Reserve Bank of India has been receiving several complaints regarding levying of excessive interest and charges on certain loans and advances. In this connection, a reference is invited to our Circular RPCD.CO.No.RF.BC. Cir.No.85/ 07.38.02/2001-02 dated April 29, 2002, withdrawing the stipulation of Minimum Lending Rate for all state/central co-operative banks and advising that these banks were free to determine their lending rates taking into account their cost of funds, transaction cost, etc. with the approval of their Managing Committee subject to adherence of transparency.
+3. It will be appreciated that though interest rates have been deregulated, rates of interest beyond a certain level may be seen to be usurious and can neither be sustainable nor conforming to normal banking practice.
+# Withdrawn
+
+4. Boards of banks are, therefore, advised to lay down appropriate internal principles and procedures so that usurious interest, including processing and other charges, are not levied by them on loans and advances. In laying down such principles and procedures in respect of small value loans, particularly, personal loans and such other loans of similar nature, banks may take into account, inter-alia, the following broad guidelines:
+- An appropriate prior-approval process for sanctioning such loans, which should take into account, among others, the cash flows of the prospective borrower;
+- Interest rates charged by banks, inter-alia, to incorporate risk premium, as considered reasonable and justified, having regard to the internal rating of the borrower and in considering the question of risk, to take into account the presence or absence of security and the value thereof;
+- The total cost to the borrower, including interest and all other charges levied on a loan, to be justifiable having regard to the total cost incurred by the bank in extending the loan, sought to be defrayed and the extent of return reasonably expected from the transaction;
+- An appropriate ceiling on the interest, including processing and other charges to be levied on such loans, which may be suitably publicised.
+
+<!-- PAGE 2 -->
+
+5. Banks may confirm having put in place suitable principles and procedures in this regard within a period of three months from the date of this circular.
+6. In the meantime, please acknowledge receipt to our Regional Office concerned
+Yours faithfully, (C.S.Murthy) Chief General Manager-in-Charge
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annual Policy Statement for the Year 2007-08 <u>Complaints about Excessive Interest Charged by Banks</u>
+
+168. The Reserve Bank and the Banking Ombudsmans’ offices have been receiving several complaints regarding levying of excessive interest rates and charges on certain loans and advances. Although interest rates have been deregulated, rates of interest beyond a certain level may be seen to be usurious and can neither be sustainable nor in conformity with the normal banking prudence.
+- The boards of banks are, therefore, advised to lay down internal principles and procedures so that such usurious interest, including processing and other charges, are not charged.
+# Withdrawn

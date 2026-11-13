@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2007_RPCD_RRB_BC_No_87_03_05_34_2006-07"
+title: "Valuation of Investment in SLR / Approved Securities by Regional Rural Banks (RRBs)"
+category: "Circulars"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77181.PDF"
+pdf_sha256: "9f1e3e1b834a6ded38cc4f13fdb75e4d0ca5c2ade9e35cc1bded91c5a44eb450"
+md_sha256: "aa0153282171d66e39513d9fcab3bd9a25989be353e5e83fb7374cba3a0f8380"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:57:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-05-08_Circular_RPCD.RRB.BC.No.87-03.05.34-2006-07_Valuation%20of%20Investment%20in%20SLR%20-%20Approved%20Securities%20by%20Regional%20Rural%20Banks%20%28RRBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Valuation of Investment in SLR / Approved Securities by Regional Rural Banks (RRBs)
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/383 RPCD.RRB.BC.No.87/03.05.34/2006-07 May 8, 2007
+
+## The Chairmen All Regional Rural Banks/Sponsor Banks
+
+Dear Sir,
+
+## <u>Valuation of investment in SLR/Approved Securities by Regional Rural Banks (RRBs)</u>
+
+Please refer to our circular RPCD.RRB.BC.No.71/03.05.34/2005-06 dated March 31, 2006 on the above subject.
+
+2. The matter has been reviewed and it has been decided that the exemption granted to RRBs up to the financial year 2006-07 from 'mark to market' norms in respect of their investments in SLR securities be extended by one more year i.e. for the financial year 2007-08. Accordingly, RRBs will have the freedom to classify their entire investment portfolio of SLR securities under 'Held to Maturity' for the financial year 2007-08 with valuation on book value basis and amortisation of premium, if any, over the remaining life of securities.
+3. To enable us to analyse the impact of moving towards 'mark to market', please let us know latest by May 31, 2007, the book value and market value of your SLR investments as on March 31, 2007.
+4. Please acknowledge receipt to the respective Regional Office.
+Yours faithfully,
+
+(C.S. Murthy)
+
+# Withdrawn Chief General Manager-in-Charge
