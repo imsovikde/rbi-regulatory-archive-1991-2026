@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2008_DBOD_Dir_Exp_BC_No_95_04_02_01_2008-09"
+title: "Rupee Export Credit Interest Rates - Interest on Overdue Export Bills"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/88800.PDF"
+pdf_sha256: "6eefc8ba6a7b836f0a315544df8a62bba0fb50ccd90be59bc5a04683102a8874"
+md_sha256: "402db0bf0eb6fc39814b04639eb6afad61ef6616282c753e22f9544b22a2e1c7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:06:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-12-08_Circular_DBOD.Dir.%28Exp%29.BC.No.95-04.02.01-2008-09_Rupee%20Export%20Credit%20Interest%20Rates%20-%20Interest%20on%20Overdue%20Export%20Bills.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Export Credit Interest Rates - Interest on Overdue Export Bills
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/314 DBOD.Dir.(Exp).BC.No.95/04.02.01/2008-09
+
+December 8, 2008
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## <u>Rupee Export Credit Interest Rates – Interest on overdue export bills</u>
+
+Please refer to para 4.2.5 of our Master Circular DBOD. No. Dir.(Exp.)BC.No.09/
+
+04.02.02/2008-09 dated July 1, 2008 on the captioned subject. In respect of overdue bills, banks have been permitted to charge the rates fixed for Export Credit Not Otherwise Specified (ECNOS) for the period beyond the due date. In view of the difficulties faced by exporters on account of the weakening of external demand, it has now been decided that the prescribed interest rate as applicable to post- shipment rupee export credit (not exceeding BPLR minus 2.5 percentage points) may also be extended to overdue bills up to 180 days from the date of advance till further notice.
+Yours faithfully,
+
+## (P.Vijaya Bhaskar) Chief General Manager
+
+# Withdrawn

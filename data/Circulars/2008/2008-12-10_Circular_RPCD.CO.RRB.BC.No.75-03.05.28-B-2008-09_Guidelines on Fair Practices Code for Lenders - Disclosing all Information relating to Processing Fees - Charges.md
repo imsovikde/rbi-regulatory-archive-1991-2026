@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2008_RPCD_CO_RRB_BC_No_75_03_05_28-B_2008-09"
+title: "Guidelines on Fair Practices Code for Lenders - Disclosing all Information relating to Processing Fees / Charges"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/88920.PDF"
+pdf_sha256: "a2cc8b41335fba58d164f6f7fe1ae7fa77a9f579128bb5821a8bca2437efca54"
+md_sha256: "637c833890cf2bc9661be65db76bc40fe056c3d2443a6b8cfc9abe197edd4ecd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:06:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-12-10_Circular_RPCD.CO.RRB.BC.No.75-03.05.28-B-2008-09_Guidelines%20on%20Fair%20Practices%20Code%20for%20Lenders%20-%20Disclosing%20all%20Information%20relating%20to%20Processing%20Fees%20-%20Charges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Fair Practices Code for Lenders - Disclosing all Information relating to Processing Fees / Charges
+
+<!-- PAGE 1 -->
+
+RBI / 2008-09/320 RPCD.CO.RRB.BC.No.75 /03.05.28-B/2008-09 December 10, 2008
+
+## All Regional Rural Banks
+
+Dear Sir,
+
+## <u>Guidelines on Fair Practices Code for Lenders-</u>
+
+## <u>Disclosing all information relating to processing fees / charges</u>
+
+Please refer to our circular RPCD.BOS./81/13.33.01/2005-06 dated May 16, 2006 on the captioned subject in respect of which all commercial banks including RRBs were advised to display charges related to certain services in their offices/branches.
+
+2. It has come to our notice that some banks levy in addition to a processing fee, certain charges which are not initially disclosed to the borrower. It may be mentioned that levying such charges subsequently without disclosing the same to the borrower is an unfair practice.
+**3. Regional Rural Banks are therefore advised to ensure that all information** **relating to charges / fees for processing are invariably disclosed in the loan** **application forms. Further, the banks must inform ‘all-in-cost’ to the customer to** **enable him to compare the rates charged with other sources of finance.**
+Yours faithfully
+
+# Withdrawn
+
+(**G.Srinivasan**) Chief General Manager-in-Charge
