@@ -1,0 +1,47 @@
+---
+doc_id: "Press-Releases_2015_33515"
+title: "Liquidity Adjustment Facility : Auction Result"
+category: "Press-Releases"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1990LF0315.pdf"
+pdf_sha256: "7688d148ea4475a9209fdd2ac4f1511568f0c7c1ef2b2189213c5a62795bd852"
+md_sha256: "407388c89b6094db4e7931e1ac5605a62ce07b1a9bd42ae14eb03cc429fd1641"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:43:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2015/2015-03-23_Press-Release_33515_Liquidity%20Adjustment%20Facility%20-%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility : Auction Result
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय िरज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+संचार िवभाग**,** कें िीय कायार्लय, एस.बी.एस.माग,र् मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 2266 0358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## March 23, 2015
+
+## Liquidity Adjustment Facility : Auction Result
+
+The result of the RBI Repo (morning) auction held today is as under: Amount (face value in ` Billion) **Item 1 day Repo Auction (Purchase of securities by RBI)**
+
+**7.50% Fixed Rate**
+## 1. Bids received
+
+(i) Number 35 (ii) Amount 126.04
+## 2. Bids accepted
+
+(i) Number 35
+## <u>(ii) Amount</u> 126.04
+
+## Ajit Prasad
+
+**Press Release**: 2014-2015/1990 Assistant General Manager
