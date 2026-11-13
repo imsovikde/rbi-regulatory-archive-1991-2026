@@ -1,0 +1,72 @@
+---
+doc_id: "Press-Releases_2016_35945"
+title: "RBI releases the Monthly Bulletin for January 2016"
+category: "Press-Releases"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1626AB2E5DA077094855A0E00C624C759365.PDF"
+pdf_sha256: "4d9fda92cea70533dfb66042ed978706178134e0f3dff242a94b10e285bf446b"
+md_sha256: "ec5e3a84e050806646a542da72eec6a6c1f06464b7158e6add2781a9ae742149"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T19:00:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2016/2016-01-11_Press-Release_35945_RBI%20releases%20the%20Monthly%20Bulletin%20for%20January%202016.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI releases the Monthly Bulletin for January 2016
+
+<!-- PAGE 1 -->
+
+||प्रेस प्रकाशनी|PRESS RELEASE|
+|---|---|---|
+|||भारतीय ररज़िव बक ैं|
+|संचार विभाग, कें द्रीय कायाालय, एस.बी.एस.मार्ा, मुंबई _____________________________________________________________________________________________________________________|- 400001 वेबसाइट|RESERVE BANK OF INDIA : www.rbi.org.in/hindi|
+|DEPARTMENT OF COMMUNICATION|, Central Office, S.B.S.Marg, Mumbai-400001|Website : www.rbi.org.in|
+|फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 22660358|इ-मेल email|: helpdoc@rbi.org.in|
+
+## January 11, 2016
+
+## RBI releases the Monthly Bulletin for January 2016
+
+The Reserve Bank of India today released <u>January 2016</u> issue of its monthly Bulletin. The Bulletin includes Speeches by the Top Management and Current Statistics. This issue also includes three articles on: (1) <u>Census on Foreign Liabilities and Assets of</u> <u>Indian Direct investment Companies: 2014-15</u>; (2) <u>Survey on International Trade in</u> <u>Banking Services: 2014-15</u>; and (3) <u>Survey on Computer Software & Information</u> <u>Technology Enabled Services Exports: 2014-15</u>. <u>The Report on Trend and Progress of</u> <u>Banking in India 2014-15</u> and <u>Financial Stability Report – December 2015</u> are being issued with the Bulletin as a Supplement.
+
+## 1. Census on Foreign Liabilities and Assets of Indian Direct Investment Companies: 2014-15
+
+This article presents comprehensive information on overseas liabilities and assets of Indian companies, arising on account of foreign direct investment (FDI) in India, their overseas direct investment (ODI) and other investments. In the latest round of the Census, 17,642 companies have reported, of which 16,242 companies had FDI /ODI in their balance sheet in March 2015.
+
+## Main Findings:
+
+- The total inward FDI stock stood at ₹19,629.7 billion whereas total ODI was placed at ₹5,320.1 billion at market value in March 2015. FDI stock at market value in the manufacturing and services sectors stood at ₹10,208.1 billion and ₹7,748.4 billion, respectively in March 2015.
+- Other investment liabilities with unrelated non-resident entity stood at ₹12,821.8 billion in March 2015. Corresponding overseas assets amounted to 33.4 per cent of such liabilities.
+- Among the source countries for FDI, Mauritius had the largest share (21.9 per cent) followed by the USA (16.9 per cent) and the UK (15.3 per cent). The destination for ODI by Indian companies was largely shared by Singapore (24.7 per cent) in March
+2015.
+- Total sales of Indian subsidiary companies in foreign countries (including exports of ₹940.8 billion) stood at ₹3,529.7 billion in 2014-15 while their total purchase (including imports of ₹1,257.6 billion) was placed at ₹2,692.4 billion.
+- Total sales of foreign subsidiaries in India (including exports of ₹5,637.4 billion) stood at ₹16,590.4 billion in 2014-15 while their purchases (including imports of ₹4,695.2 billion) were placed at ₹10,465.6 billion.
+
+<!-- PAGE 2 -->
+
+## 2. Survey on International Trade in Banking Services: 2014-15
+
+This article provides information on International Trade in Banking Services for India pertaining to branches/subsidiaries of Indian banks operating abroad and foreign banks operating in India. Consistent and comparable data are captured for various financial services rendered by the banks based on explicit/implicit fee/commission charged to customers. The survey covered 178 overseas branches, 235 overseas subsidiaries of Indian banks and 313 branches of foreign banks operating in India.
+
+## Main Findings:
+
+- The cross-border presence of Indian banks has increased over the years in line with the growing demands from cross-border trade and other activities. The number of branches of foreign banks in India increased marginally in 2014-15 after a decline in 2013-14, with an associated increase in their employee-strength.
+- The business of both overseas branches of Indian banks as well as foreign banks operating in India continued to grow (13.5 per cent and 2.8 per cent respectively) *albeit* at a slower pace than witnessed in the previous year.
+- Total fee income generated by 178 overseas branches of Indian banks increased to ₹94.3 billion (US$ 1.5 billion) in 2014-15 from ₹89.6 billion (US$ 1.5 billion) in the previous year. In the case of foreign banks operating in India, total fee income generated by 313 branches reduced to ₹72.7 billion (US$ 1.2 billion) in 2014-15 from ₹78.8 billion (US$ 1.3 billion) in 2013-14.
+- In terms of fee income, branches of Indian banks in the UK, UAE, Hong Kong and Singapore were the major source countries of banking services. Overseas subsidiaries of Indian banks were mainly present in the UK and Canada.
+## 3. Survey on Computer Software & Information Technology Enabled Services Exports: 2014-15
+
+The article presents information on export of software services as per the activity, type of services (on-site/off-site) and country of destination along with the four modes of supply (cross-border supply, consumption abroad, commercial presence and presence of natural person). The current round of survey covered 1,095 companies, which includes most of the large software companies, covering 76.7 per cent of the total estimated software exports during 2014-15.
+
+## Main findings:
+
+- During 2014-15, India’s export of software services were estimated at ₹5,014 billion (US$ 82.0 billion), of which computer services exports accounted for 72.0 per cent.
+- The global software export of India (including the services rendered by overseas subsidiaries/affiliates) was estimated at ₹5,855.7 billion (US$ 95.8 billion).
+- Mode-1 (cross-border supply) continued to be the major mode for export of software services.
+- The USA continued to remain the top destination for software exports and US dollar remained the major invoice currency for software exports during 2014-15.
+## Sangeeta Das
+
+**Press Release : 2015-2016/1626** Director
