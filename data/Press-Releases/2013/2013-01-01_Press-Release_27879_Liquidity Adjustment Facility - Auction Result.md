@@ -1,0 +1,39 @@
+---
+doc_id: "Press-Releases_2013_27879"
+title: "Liquidity Adjustment Facility : Auction Result"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1109LA0113.pdf"
+pdf_sha256: "b40774ab52800b8a8a727976f1a28fa1595d5250d28de6b440e7e2a642803977"
+md_sha256: "5267c6593fe68bf71f33f996c334f03732d60434797b7eb2e19ce0aa68985a81"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:08:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-01-01_Press-Release_27879_Liquidity%20Adjustment%20Facility%20-%20Auction%20Result.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility : Auction Result
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u> January 1, 2013 **Liquidity Adjustment Facility : Auction Result** The result of the RBI Reverse Repo (Evening) auction held today is as under: Amount (face value in ` Billion) **Item 1 day Reverse Repo Auction** **(Sale of securities by RBI)**
+
+**7.00% Fixed Rate**
+## 1. Bids received
+
+(i) Number 3 (ii) Amount 24.30
+## 2. Bids accepted
+
+(i) Number 3 <u>(ii) Amount</u> 24.30
+## Ajit Prasad
+
+**Press Release : 2012-2013/1109** Assistant General Manager
