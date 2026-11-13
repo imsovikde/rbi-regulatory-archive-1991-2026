@@ -1,0 +1,71 @@
+---
+doc_id: "Notifications_2026_13746"
+title: "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF"
+pdf_sha256: "6507f32084d7325769ebf9ef44a07ba20bd1240295add75c369377128d0cdc45"
+md_sha256: "bf9b073d88eebd89f7e9dcec48124c7f884e80b3c05faca65e3763233459be38"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:34:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-10-27_Notification_13746_Re-organisation%20of%20districts%20in%20the%20NCT%20of%20Delhi%20%E2%80%93%20Assignment%20and%20Review%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ भारतीय रज़वर् बैंक ______________________ RESERVE BANK OF INDIA________________________ www.rbi.org.in
+
+RBI/2026-27/300 FIDD.CO.LBS.BC.No.12/02.08.001/2026-27 October 26, 2026
+
+The Chairman / Managing Director & Chief Executive Officer Lead Banks concerned
+
+Madam/ Dear Sir,
+
+## Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead
+
+## Bank Responsibility
+
+The Government of National Capital Territory (NCT) of Delhi has notified re-organisation
+
+of districts in the NCT of Delhi vide Gazette Notification No. F.223/ SDM-II (HQ)/
+
+Land/2025/285 dated December 25, 2025, whereby three new districts, viz., Old Delhi,
+
+Central North and Outer North have been formed and Shahdara district has ceased to
+
+exist.
+
+2. Lead Bank responsibilities in the newly created districts have been assigned as follows:
+
+|Sr. No|Newly Created District|Lead Bank|District Working Code|
+|---|---|---|---|
+|1.|Old Delhi|Canara Bank|03E (to be read as ‘Numeral Zero, Numeral Three and Alphabet E’)|
+|2.|Central North|State India|Bank of 03F (to be read as ‘Numeral Zero, Numeral Three and Alphabet F’)|
+|3.|Outer North|Punjab National Bank|03G (to be read as ‘Numeral Zero, Numeral Three and Alphabet G’)|
+
+व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, कें द्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014, मुंबई -400001 Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai-1 टेल Tel:022-22601000 फै क् स ः 91-22-22621011/22610943/22610948 ई-मेल: <u>cgmincfidd@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए। “चेतावनी**:** मेल �रज़वर् बैंक-द्वारा डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बैंक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् तावों का कसी भी तरके से जवाब मत दिजए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+बेटी बचाओ बेटी पढ़ाओ भारतीय रज़वर् बैंक ______________________ RESERVE BANK OF INDIA________________________ www.rbi.org.in
+
+3. Lead Bank responsibilities of some of the existing districts in the NCT of Delhi have been reviewed, consequent upon re-organisation and stand modified as follows:
+
+|Sr. No|Name of District|Existing Lead Bank|District Working Code|Newly Assigned Lead Bank|
+|---|---|---|---|---|
+|1.|Central|Canara Bank|358|State Bank of India|
+|2.|Northwest|Punjab National Bank|362|Union Bank of India|
+
+4. As Shahdara district has ceased to exist, the Lead Bank responsibility notified in respect of the district vide <u>circular RPCD.CO.LBS.BC.No.12/02.08.001/2013-14 dated</u> <u>July 11, 2013</u> as follows, stands revoked:
+**Sr. No. District (Erstwhile) Lead Bank District Working Code**
+
+1 Shahdara Bank of Baroda 369
+
+5. In the remaining districts, the existing Lead Banks shall remain unchanged, till further communication. Yours faithfully, (Nisha Nambiar) Chief General Manager-in-Charge व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, कें द्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014, मुंबई -400001
+Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai-1 टेल Tel:022-22601000 फै क् स ः 91-22-22621011/22610943/22610948 ई-मेल: <u>cgmincfidd@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए। “चेतावनी**:** मेल �रज़वर् बैंक-द्वारा डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बैंक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् तावों का कसी भी तरके से जवाब मत दिजए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

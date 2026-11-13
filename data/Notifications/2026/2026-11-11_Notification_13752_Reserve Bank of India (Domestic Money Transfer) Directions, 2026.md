@@ -1,0 +1,115 @@
+---
+doc_id: "Notifications_2026_13752"
+title: "Reserve Bank of India (Domestic Money Transfer) Directions, 2026"
+category: "Notifications"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/476MDDC5A297B05094F8096910FE97E1AD34D.PDF"
+pdf_sha256: "deab70e199919f3db6fecabbccb9bf75cdf54a46a5d93ae700648badf48bbd13"
+md_sha256: "8e334ae3e0e3420a32a39d92c6d607a110835ab2145af2bbe70fa7b759484d74"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:34:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-11-11_Notification_13752_Reserve%20Bank%20of%20India%20%28Domestic%20Money%20Transfer%29%20Directions%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Domestic Money Transfer) Directions, 2026
+
+<!-- PAGE 1 -->
+
+RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027 November 11, 2026
+
+All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks / Authorised Payment System Operators and Participants (Banks and Non-banks)
+
+Madam / Dear Sir,
+
+## Reserve Bank of India (Domestic Money Transfer) Directions, 2026
+
+With a view to harmonising and consolidating the extant instructions relating to Domestic Money Transfer (DMT), it has been decided to issue the <u>Reserve Bank of India (Domestic</u> <u>Money Transfer) Directions, 2026</u>.
+
+2. These Directions are issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007. Yours faithfully, (Sara Rajendra Kumar Neti) Chief General Manager-in-Charge Encl.: As above
+
+<!-- PAGE 2 -->
+
+## Reserve Bank of India (Domestic Money Transfer) Directions, 2026
+
+## Table of Contents
+
+**Chapter I – Preliminary........................................................................................................ 3**
+
+A. Short Title and Commencement .................................................................................... 3
+B. Applicability.................................................................................................................... 3
+**Chapter II – Conduct of Business....................................................................................... 3**
+
+C. Payment of amounts transferred from a bank account (Cash Pay-out Service)............. 3
+D. Payment of amounts to be credited to bank accounts (Cash Pay-in Service) ................ 4
+E. Operational Safeguards and Monitoring......................................................................... 4
+F. Inter-bank Settlement..................................................................................................... 4
+G. Charges ......................................................................................................................... 5
+H. Customer Grievance Redressal...................................................................................... 5
+**Chapter III – Repeal.............................................................................................................. 5**
+
+I. Repeal........................................................................................................................... 5
+
+<!-- PAGE 3 -->
+
+The framework for Domestic Money Transfer (DMT) was introduced by the Reserve Bank of India (RBI) with a view to facilitating small-value fund transfers through formal banking channels, particularly for persons, including migrant workers, who lack access to such channels for want of proof of identity/address. Such transfers are subject to prescribed transaction limits, monthly ceilings, monitoring and safeguards.
+
+In exercise of the powers conferred by Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, hereby consolidates the extant instructions relating to Domestic Money Transfer and issues the Directions hereinafter specified.
+
+## Chapter I – Preliminary
+
+## A. Short Title and Commencement
+
+1. These Directions shall be called the Reserve Bank of India (Domestic Money Transfer) Directions, 2026.
+2. These Directions shall be effective immediately.
+## B. Applicability
+
+3. These Directions shall be applicable to all Scheduled Commercial Banks, including Regional Rural Banks (RRBs), Urban Co-operative Banks, State Co-operative Banks, District Central Co-operative Banks, and Authorised Payment System Operators and System Participants, to the extent applicable to the respective Domestic Money Transfer services.
+4. Card-to-card transfers shall be excluded from the purview of these Directions and shall be governed by the guidelines/approvals granted for the respective payment instruments.
+## Chapter II – Conduct of Business
+
+## C. Payment of amounts transferred from a bank account (Cash Pay-out Service)
+
+5. Banks are permitted to provide services which facilitate transfer of funds from the accounts of their customers for delivery in cash to the recipients not having bank accounts at an ATM or through an agent appointed as Business Correspondent, or through any other authorised payment channels.
+6. The remitting bank shall obtain and keep a record of the name and address of the beneficiary.
+
+<!-- PAGE 4 -->
+
+7. The maximum amount that may be transferred under the Cash Pay-out Service shall be ₹10,000 per transaction, subject to an overall monthly ceiling of ₹25,000 per beneficiary.
+## D. Payment of amounts to be credited to bank accounts (Cash Pay-in Service)
+
+8. A walk-in customer at a bank branch can remit funds up to ₹50,000 to the bank account of a beneficiary through NEFT.
+9. Banks are also permitted to allow such customers to transfer funds to a bank account of a beneficiary through Business Correspondents (BCs), ATMs, etc., up to a maximum amount of ₹5,000 per transaction with a monthly cap of ₹25,000 per remitter.
+10. Remitting banks / BCs shall register the remitter based on a verified cell phone number and a self-certified Officially Valid Document (OVD), as prescribed under the applicable <u>Know Your Customer Directions, 2025</u> issued by the Reserve Bank, as amended from time to time.
+11. Every transaction undertaken by a remitter shall be validated by an Additional Factor of Authentication (AFA).
+12. Remitting banks and their BCs shall comply with the applicable provisions of the Income- Tax Act, 2025, and the rules/regulations framed thereunder, as amended from time to time, pertaining to cash deposits.
+13. The remitting bank shall include the details of the remitter as part of the IMPS/NEFT transaction message.
+14. The transaction message shall include an identifier to identify the fund transfer as a cash- based remittance.
+## E. Operational Safeguards and Monitoring
+
+15. Banks and non-banks, as applicable, shall put in place robust systems of safeguards, including velocity checks and alerts to customers regarding credits into accounts using the facilities provided under these Directions.
+16. Any unusual spurt in the volume of credits in a particular account or group of accounts shall be investigated immediately.
+17. Appropriate authorities shall be alerted regarding suspicious transactions.
+18. Fund transfers under these Directions are expected to be effected on a real-time or near- real-time basis.
+## F. Inter-bank Settlement
+
+19. Inter-bank settlement of funds under the Domestic Money Transfer framework shall be effected using only RBI-approved payment systems.
+
+<!-- PAGE 5 -->
+
+## G. Charges
+
+20. Banks and non-banks, as applicable, may fix reasonable charges for Domestic Money Transfer services with a view to popularising the facility.
+## H. Customer Grievance Redressal
+
+21. Banks and non-banks, as applicable, may put in place appropriate systems for redressal of customer grievances arising from Domestic Money Transfer services.
+
+|22.|Customer grievances under these Directions shall fall within the purview of the Bank-Integrated Ombudsman Scheme, 2026||Reserve as amended from time to time.|
+|---|---|---|---|
+|I.|stand subsumed in these Directions and repealed.|Chapter III – Repeal With the issuance of these Directions, the following circulars issued by the Reserve Bank||
+|No.|Circular number|Date|Subject|
+|1|DPSS.PD.CO.No. 622/02.27.019/2011-2012|October 5, 2011|Domestic Money Transfer – Relaxations|
+|2|CO.DPSS.POLC.No.S415/02.27.01 9/2024-25|July 24, 2024|Domestic Money Transfer – Review of Framework|
