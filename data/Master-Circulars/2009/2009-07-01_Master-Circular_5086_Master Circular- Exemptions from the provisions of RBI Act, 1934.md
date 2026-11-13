@@ -1,0 +1,178 @@
+---
+doc_id: "Master-Circulars_2009_5086"
+title: "Master Circular- Exemptions from the provisions of RBI Act, 1934"
+category: "Master-Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NTN6_010709.PDF"
+pdf_sha256: "128343b3404ba2b27a705b18fd9e341a4659dbddec9ecb62dac2e44b8d8d87be"
+md_sha256: "e566fa8b9c6ae6384b1dc0518b667442ec347452d483553121d5e25412c8f040"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T11:26:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2009/2009-07-01_Master-Circular_5086_Master%20Circular-%20Exemptions%20from%20the%20provisions%20of%20RBI%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular- Exemptions from the provisions of RBI Act, 1934
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/6
+
+## July 1, 2009
+
+|DNBS.PD. CC.No. 148 /03. 02.004 / 2009-10||
+|---|---|
+|(i)|The Secretary, Ministry of Finance|
+|(ii)|The Chairman, Securities and Exchange Board of India|
+|(iii)|President of the Institute of Chartered Accountants of India|
+|(iv)|President of the Institute of Company Secretaries of India|
+|(v)|Associations of NBFCs|
+
+Dear Sir,
+
+## Master Circular- Exemptions from the provisions of RBI Act, 1934
+
+As you are aware, in order to have all current instructions on the subject at one place, the Reserve Bank of India had issued a Master Circular No. 120 on the captioned subject, which is now updated up to 30th June 2009. It may be noted that the Master Circular consolidates and updates
+
+# Withdrawn
+
+all the instructions contained in the notifications listed in the Appendix in so far they relate to the subject. The Master Circular has also been placed on the RBI web-site (<u>[http://www.rbi.org.in](http://www.rbi.org.in)</u>). A copy of the revised Master Circular is enclosed.
+
+Yours sincerely,
+
+(P. Krishnamurthy) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+1. **Introduction** The Bank has issued notifications from time to time exempting some entities from the requirements of Chapter III B of the RBI Act, 1934 or part thereof. A Master Circular on the basis of notifications issued upto June 30, 2006 has been prepared. While the Master circular has been prepared to enable the users to have the benefit of a consolidated circular, for the purpose of operations, they should refer to the instructions/directions contained in the relevant notification. The Master Circular is based on notifications listed in the Annex.
+## 2 (i) Exemption from provisions of Chapter III B of the RBI Act, 1934 –
+
+## Housing Finance Institutions.
+
+The Bank has exempted a non-banking financial company which is a housing
+
+finance institution as defined in Section 2(d) of the National Housing Bank Act, 1987 1 from the provisions of Chapter III B of the RBI Act, 1934.
+
+**2** **2(ii) Merchant Banking company :**
+
+A merchant banking company has been exempted from the provisions of Section
+
+45-IA [Requirement of registration and net owned fund], Section 45-IB [Maintenance
+
+# Withdrawn
+
+3 of liquid assets] and 45-IC [Creation of Reserve Fund] of the RBI Act, 1934, Non-
+
+Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) 4 Directions, 1998 and Non-Banking Financial Companies Prudential Norms
+
+(Reserve Bank) Directions, 1998 subject to compliance with the following
+
+conditions:
+
+(a) It is registered with the Securities and Exchange Board of India as a Merchant Banker under Section 12 of the Securities and Exchange Board of India Act, 1992 and is carrying on the business of merchant Banker in accordance with the Securities and Exchange Board of India Merchant Banking (Rules) 1992 and Securities and Exchange Board of India Merchant Banking (Regulations) 1992;
+1 Notification DFC(COC) No 112 ED(SG)/97 read with circular DFC(COC) No. 4438/02.04/96-97 dated June 18, 1997 2 Notification No. DFC 123/ED(G)-98, dated February 3, 1998 Notification DFC(COC) No 118 DG(SPT)-98 dated January 31, 1998 4 Notification DFC(COC) No 119 DG(SPT)-98 dated January 31, 1998
+
+<!-- PAGE 3 -->
+
+(b) acquires securities only as a part of its merchant banking business;
+(c) does not carry on any other financial activity referred to in Section 45I(c) of the RBI Act, 1934; and
+(d) does not accept or hold public deposits as defined in paragraph 2(1)(xii) of the Notification No. DFC 118/DG(SPT)-98 dated January 31,
+1998.
+## 2 (iii) Micro Finance Companies
+
+Sections 45-IA, 45-IB and 45-IC of the Reserve Bank of India Act, 1934 (2 of 1934) shall not apply to any non-banking financial company
+
+which is • 5
+
+(a) engaged in micro financing activities, providing credit not exceeding Rs. 50,000 for a business enterprise and Rs. 1,25,000 for meeting the cost of a dwelling unit to any poor person for enabling him to raise his level of income and standard of living; and
+(b) licensed under Section 25 of the Companies Act, 1956; and
+(c) not accepting public deposits as defined in paragraph
+# Withdrawn
+
+2(1)(xii) of Notification No. 118 /DG(SPT)-98 dated January 31, 1998.
+
+## Mutual Benefit Companies
+
+Sections 45-IA, 45-IB and 45-IC of the Reserve Bank of India Act, 1934 (2 of 1934) shall not apply to any non-banking financial company which
+
+being a mutual benefit co • mpany as defined in paragraph 2(1) (ixa) of the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998 contained in Notification No. DFC.118/DG(SPT)-98 dated January 31, 1998*)*. A “mutual benefit company” means a company not notified under section 620A of the
+
+Notification No.DNBS.138/CGM(VSNM)-2000 read with DNBS.(PD).CC.No. 12 /02.01/99-2000dated January 13, 2000
+
+<!-- PAGE 4 -->
+
+Companies Act, 1956 (1 of 1956) and carrying on the business of a non- banking financial institution, -
+
+th
+
+(a) on 9 January 1997; and
+(b) having the aggregate of net owned funds and preferential share capital of not less than ten lakhs of rupees; and
+(c) has applied for issue of certificate of registration to the Bank on
+th or before 9 July 1997; and
+
+(d) is complying with the requirements contained in the relevant provisions of the Directions issued under Section 637A of the Companies Act, 1956 to Nidhi Companies by the Central Government.
+## 2(iv) Government Companies
+
+Sections 45-IB and 45-IC of the Reserve Bank of India Act, 1934 (2 of 1934), paragraphs 4 to 7 of the Non-Banking Financial Companies Acceptance of Public Deposits ( Reserve Bank) Directions, 1998 and Non-Banking Financial Companies Prudential Norms (Reserve Bank) Directions, 1998 except paragraph 13 A of the said directions relating to submission of information to Reserve Bank in regard to change of address, directors, auditors, etc. shall not apply to any non-banking financial company as defined in section 45-I(f) of the Reserve Bank of India Act, 6 1934 (2 of 1934) being a Government company as defined in section 617 of the
+
+# Withdrawn
+
+Companies Act, 1956. A Government Company is a company in which not less than 51% of the paid up capital is held by the Central Government, or by any State Government or Governments or partly by the Central Government and partly by one or more State Governments and includes a company which is subsidiary of a Government Company as thus defined.
+
+7 **2(v) Venture Capital Fund Companies** Section 45-IA and Section 45-IC of the Reserve Bank of India Act, 1934 (2 of 1934); Notification No. DFC.118/DG(SPT)-98 dated January 31, 1998; and Notification No. DFC.119 / DG(SPT)-98 dated January 31, 1998 shall not apply to a non-banking financial company, which is a venture capital fund company holding a certificate of registration obtained under Section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992) and not holding or accepting public deposit as
+
+Notification No.DNBS.134, 135, 138/CGM(VSNM)-2000 read with DNBS.(PD).CC.No. 12 /02.01/99-2000dated January 13,
+
+<!-- PAGE 5 -->
+
+defined in paragraph 2(1)(xii) of the Notification No. DFC.118/DG(SPT)-98 dated January 31, 1998.
+
+## 2(vi) Insurance/Stock Exchange/Stock Broker/Sub-Broker
+
+The provisions of Section 45-IA, 45-IB, 45-IC, 45MB and 45MC of the Reserve Bank of India Act, 1934 (2 of 1934) and provisions of Non-Banking Financial Companies Acceptance of Public Deposit (Reserve Bank) Directions contained in Notification No. DFC.118 / DG(SPT)-98 dated January 31. 1998, the Non-Banking Financial Companies Prudential Norms (Reserve Bank) Directions, 1998 dated January 31, 1998 shall not apply to any non-banking financial company not holding or accepting public deposit as defined in paragraph 2(1)(xii) of the Notification No. DFC.118/DG(SPT)-98 dated January 31, 1998, and -
+
+(a) doing the business of insurance, holding a valid certificate of registration issued under Section 3 of the Insurance Act, 1938 (IV of 1938);
+(b) being a stock exchange, recognised under Section 4 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956); and
+(c) doing the business of a stock-broker or sub-broker holding a valid certificate of registration obtained under Section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992) Withdrawn
+**9** **2(vii) Nidhi Companies**
+
+The provisions of Sections 45-IA, 45-IB and 45-IC of the Reserve Bank of India Act, 1934 (2 of 1934) shall not apply to any non-banking financial company
+
+(a) Notified under Section 620A of the Companies Act, 1956 (1 of
+1956), known as Nidhi Companies; and
+## Chit Companies
+
+(b) doing the business of chits, as defined in clause (b) of Section 2 of the Chit Funds Act, 1982 (No. 40 of 1982).
+7 Notification No.DNBS.163/CGM(CSM)-2002 read with DNBS(PD)CC No.22 /02.59/ 2002-03 dated November 28, 2002 Notification No.DNBS.164/CGM(CSM)-2003 read with DNBS (PD) CC No. 23 / 01.18 / 2002-03 dated January 8, 2003 Notification No.DNBS.164/CGM(CSM)-2003 read with DNBS (PD) CC No. 23 / 01.18 / 2002-03 dated January 8, 2003
+
+<!-- PAGE 6 -->
+
+## Securitisation and Reconstruction Companies
+
+(c) Securitisation company or Reconstruction company registered with the Reserve Bank of India under Section 3 of the Securitisation and Reconsruction of Financial Assets and Enforcement of Security Interest Act,2002.
+**11** **Mortgage Guarantee Companies**
+
+(d) Mortgage Guarantee Companies notified as non-banking financial company in terms of Section 45 I (f)(iii) of the Reserve Bank of India Act, 1934 (2 of 1934) with the prior approval of the Central Government, and a company registered with the Bank under the scheme for registration of Mortgage Guarantee Companies.
+## סּסּסּסּ
+
+# Withdrawn
+
+10 Notification No.DNBS. 3/CGM(OPA)-2003 dated August 28, 2003. Notification No.DNBS.(MGC) 2/CGM(PK)-2008 read with DNBS (PD)(MGC) CC No. 111 / 03.11.001 / 2007-08 dated January 15, 2008.
+
+<!-- PAGE 7 -->
+
+## Appendix
+
+|Sr. No.|Notification No.|Date|
+|---|---|---|
+||1. Notification No. DFC(COC) No. 112 ED(SG)/97 June 18, 1997 read with circular DFC(COC) No. 4438/02.04/96- 97||
+||2. Notification No. DFC 123/ED(G)-98|February 3, 1998|
+|3.|Notification No 134, 135,138 / CGM(VSNM)- 2000 read with DNBS.(PD).CC. No. 12 /02.01/99-2000 4. Notification No. 163 / CGM(CSM) – 2002 read with DNBS(PD)CC No.22 /02.59/ 2002-03|January 13, 2000 November 28, 2002|
+|5.|Notification No. 164 / CGM(CSM) – 2003 read with DNBS (PD) CC No. 23 / 01.18 / 2002-03|January 8, 2003|
+|6.|Notification No. DNBS 3/CGM(OPA)-2003|August 28,2003|
+|7.|Notification No.DNBS.(MGC) 2/CGM(PK)-2008 read with DNBS (PD)(MGC) CC No. 111 / 03.11.001 / 2007-08|January 15, 2008.|
+
+# Withdrawn
