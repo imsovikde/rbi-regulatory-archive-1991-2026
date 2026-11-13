@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2019_DBR_BP_BC_No_2_21_04_098_2019-20"
+title: "Basel III Framework on Liquidity Standards - Liquidity Coverage Ratio (LCR), FALLCR against credit disbursed to NBFCs and HFCs"
+category: "Circulars"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1220CEE80F0D1A46E393C8F7E04E083F3C.PDF"
+pdf_sha256: "e29ce3175c689b1bf31cd5d22348a9b8bc107b0a16f19cae7690ef64f8f2aa02"
+md_sha256: "7ab3285de5b60718006111515c3afb55ec1b60c9234e2e1aee868dcfbe8fb248"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:41:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2019/2019-07-05_Circular_DBR.BP.BC.No.2-21.04.098-2019-20_Basel%20III%20Framework%20on%20Liquidity%20Standards%20-%20Liquidity%20Coverage%20Ratio%20%28LCR%29%2C%20FALLCR%20against%20credit%20disbursed%20to%20NBFCs%20and%20HFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Basel III Framework on Liquidity Standards - Liquidity Coverage Ratio (LCR), FALLCR against credit disbursed to NBFCs and HFCs
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/12 DBR.BP.BC.No.2/21.04.098/2019-20
+
+## July 5, 2019
+
+All Scheduled Commercial Banks (Excluding RRBs) & Small Finance Banks (SFBs)
+
+## Dear Sir/Madam
+
+## Basel III Framework on Liquidity Standards-Liquidity Coverage Ratio (LCR),
+
+## FALLCR against credit disbursed to NBFCs and HFCs
+
+Please refer to our <u>DBR.BP.BC.No.34/21.04.098/2018-19 dated April 4, 2019</u> wherein banks have been permitted to reckon, in a phased manner, an additional 2 per cent of government securities held by them under Facility to Avail Liquidity for Liquidity Coverage Ratio (FALLCR) within the mandatory SLR requirement, as Level 1 HQLA for the purpose of computing Liquidity Coverage Ratio (LCR).
+
+2. As per the roadmap, FALLCR is scheduled to increase by 0.50 per cent of NDTL on August 1 and December 1, 2019
+# Withdrawn
+
+, respectively. It has been decided that, with immediate effect, banks will be permitted to reckon this increase in FALLCR of 1.0 per cent of the bank’s NDTL as Level 1 HQLA for computing LCR, to the extent of incremental outstanding credit to NBFCs and Housing Finance Companies (HFCs) over and above the amount of credit to NBFCs/HFCs outstanding on their books as on date. The frontloading of FALLCR of one per cent, exclusively meant for incremental exposure to NBFCs/HFCs, will form part of general FALLCR as and when the increase in FALLCR takes place as per original schedule on August 1 and December 1, 2019.
+
+3. All other instructions as per our circular ibid remain unchanged. Yours faithfully, (Saurav Sinha) Chief General Manager-in-Charge

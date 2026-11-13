@@ -1,0 +1,34 @@
+---
+doc_id: "Circulars_2019_DBR_Dir_BC_No_48_04_02_002_2018-19"
+title: "Gold Card Scheme for Exporters"
+category: "Circulars"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2244671863BA99C4CFC8AB6953E2A27F64F.PDF"
+pdf_sha256: "8eab94331d8ea845e35c64acbb5fea97b296985ffa31d39e661860cf903a9385"
+md_sha256: "068976b270477da7067c258ed51ab360d6fa6e69707d42e9cb2da8f271d2f3c3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:41:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2019/2019-06-27_Circular_DBR.Dir.BC.No.48-04.02.002-2018-19_Gold%20Card%20Scheme%20for%20Exporters.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Gold Card Scheme for Exporters
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/224 DBR.Dir.BC.No.48/04.02.002/2018-19 June 27, 2019
+
+To All Scheduled Commercial Banks (Excluding RRBs) All Small Finance Banks All Local Area Banks
+
+Dear Sir / Madam,
+
+## <u>Gold Card Scheme for Exporters</u>
+
+Please refer to para 8.1.3 of the <u>Master Circular DBR No.DIR.BC.14/04.02.002/2015-16</u> <u>dated July 01, 2015</u> wherein detailed instructions on ‘Gold Card Scheme for Exporters’ have been given.
+
+2. We have been receiving representations from exporters and their Associations thatWithdrawn the banks are not extending the benefits under the Gold Card Scheme as per extant instructions. It is, therefore, reiterated that the instructions relating to the Gold Card Scheme for Exporters as contained in above-mentioned Master Circular shall be strictly implemented and the branch level functionaries suitably sensitised in this regard.
+3. Further, you are advised to give adequate publicity to the Scheme for the benefit of exporters. Yours faithfully, (Dr. S. K. Kar) Chief General Manager
+बै�कग िविनयमन िवभाग, क �ीय कायार्लय, 13 माला, शहीद भगत�सह मागर्, मुम्बई 400001 _____________________________________________________________________________________________________ Department of Banking Regulation, Central Office, 13 th floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbr@rbi.org.in हदी आसान है, इसका योग बढ़ाइए

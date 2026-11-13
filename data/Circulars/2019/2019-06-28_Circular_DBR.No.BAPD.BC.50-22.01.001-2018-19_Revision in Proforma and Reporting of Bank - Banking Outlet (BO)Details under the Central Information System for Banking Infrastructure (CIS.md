@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2019_DBR_No_BAPD_BC_50_22_01_001_2018-19"
+title: "Revision in Proforma and Reporting of Bank / Banking Outlet (BO)Details under the Central Information System for Banking Infrastructure (CISBI)"
+category: "Circulars"
+year: 2019
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI228C2ABEF85C0D54395BAAC577250FC403B.PDF"
+pdf_sha256: "36ab17854cb9f3b447b7c6d0c703ac3123f295353b75618501130c5045ab017e"
+md_sha256: "c561609fe47d7c4708cebc761efb38cc325ac7c51ad2317c4cbc44bc66051ee1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:41:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2019/2019-06-28_Circular_DBR.No.BAPD.BC.50-22.01.001-2018-19_Revision%20in%20Proforma%20and%20Reporting%20of%20Bank%20-%20Banking%20Outlet%20%28BO%29Details%20under%20the%20Central%20Information%20System%20for%20Banking%20Infrastructure%20%28CIS.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revision in Proforma and Reporting of Bank / Banking Outlet (BO)Details under the Central Information System for Banking Infrastructure (CISBI)
+
+<!-- PAGE 1 -->
+
+RBI/2018-19/228 DBR.No.BAPD.BC.50/22.01.001/2018-19 June 28, 2019
+
+The Chairman and Managing Director/Chief Executive Officer All Commercial Banks (including Regional Rural Banks, Small Finance Banks, Payments Banks and, Local Area Banks) and All India Financial Institutions (AIFIs)
+
+Madam/Dear Sir,
+
+**Revision in Proforma and Reporting of Bank/Banking Outlet (BO) details under the Central Information System for Banking Infrastructure (CISBI)**
+
+Please refer to our circulars (i) Master Circular on Branch Authorisation <u>DBOD.No.BAPD.</u> BC.7/22.01.001/2014-15 dated July 01, 2014, (ii) <u>DBR.CO.RRB.BL.BC.No.40/31.01.002/2018-19 dated May 31, 2019</u> on Circular on Rationalisation of Branch Authorisation Policy-Revision of Guidelines and (iii) <u>DBR.No.BAPD.BC.69/22.01.001/2016-17 dated May 18, 2017</u> on Rationalisation of Branch Authorisation Policy–Revision of Guidelines.
+
+2. The Reserve Bank maintains the directory of all BOs/offices in India, [known as the “Master Office File” (MOF) system], which is updated based on Proforma-I and Proforma-II, submitted by banks through email. The system allots Basic Statistical Return (BSR) code /
+# Withdrawn
+
+Authorised Dealer (AD) code to BOs/offices.
+
+3. Consistent with the needs of branch licencing and financial inclusion policies as well as the need for requisite coverage of additional dimensions/features, a new reporting system, *viz.,* Central Information System for Banking Infrastructure (CISBI) (<u>[https://cisbi.rbi.org.in](https://cisbi.rbi.org.in)</u>), has been web-deployed to replace the legacy MOF system.
+4. Under the new system, all entities are required to submit their information in one proforma (<u>Annex-I</u>), unlike the earlier system of collecting Proforma-I & Proforma-II separately. The instructions for submission of new Proforma, online are given in <u>Annex-II</u>. All the past information reported by banks have been migrated to CISBI and additional information should be reported in CISBI henceforth. The CISBI portal also contains the relevant circulars, user manuals and other relevant documents to facilitate the reporting.
+5. CISBI has provision to maintain complete details of banks and AIFIs (*e.g.*, bank category, bank-group, bank code, type of license issued, various contact details of offices/senior **---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**बकं ग व�नयमन वभाग**, **कद्रय कायार्लय**, **13वीं मंिज़ल**, **कद्रय कायार्लय भवन**, **शहद भगतसंग मागर्**, **फोटर्**, **मंबई ु –400 001** **फोन**: 022-22705688 **फ़ै क् स** : 022-22705691 **ईमेल** : <u>cgmicdbr@rbi.org.in</u> **वेबसाइट** : www.rbi.org.in Department of Banking Regulation, Central Office, 13 th floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai–400 001 Phone: 022-22705688 Fax: 022-22705691 E-mail: <u>cgmicdbr@rbi.org.in</u> Website: www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+officials, Lead-bank Districts) and history of all the changes with time stamp. Banks/AIFIs shall submit a monthly report through CISBI that their information in CISBI is correct and updated; they can also use the facility to access/download the data relating to their bank/AIFI.
+
+6. The Reserve Bank has provided login credentials to nodal offices of banks/AIFIs for submitting their information in CISBI. Other institutions requiring BSR/AD code can seek access to CISBI by making <u>email</u> request. Banks as well as AIFIs should submit the information as per the guidelines given in the <u>Annex-III</u> and thereafter bank/BO/Offices/ Non- Administratively Independent Office (NAIO)/ other fixed Customer Service Points (CSPs) i.e. other than BOs like ATMs, Cash Deposit Machines, Other Customer Services, etc., code would be allotted by CISBI after due validations. This is also applicable to public sector banks who were allotting BSR-Part-1 code at their level so far. The BSR code for the new BOs, offices etc. would be allotted as alpha-numeric codes (instead of numeric codes as hitherto) to accommodate the increasing number of outlets. In case of status change, banks need to edit only the relevant part.
+7. All banks/AIFIs should submit immediately and in any case not later than one week, the information relating to opening, closure, merger, shifting and conversion of BOs/Offices/ATMs/NAIO, etc. online through CISBI portal to DSIM, Banking Statistics Division, RBI, Central Office, C-8/9, Bandra-Kurla Complex, Mumbai-400051. At the CISBI
+# Withdrawn
+
+portal, these changes are being implemented with immediate effect.
+
+Yours faithfully,
+
+(Shrimohan Yadav) Chief General Manager
+
+## Encls.: As above
+
+-----
