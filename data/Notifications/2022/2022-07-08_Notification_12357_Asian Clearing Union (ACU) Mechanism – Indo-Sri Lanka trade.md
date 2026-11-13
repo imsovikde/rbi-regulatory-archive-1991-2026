@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2022_12357"
+title: "Asian Clearing Union (ACU) Mechanism – Indo-Sri Lanka trade"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIRACUD7FA0A22C87F43B3937A2C9930034250.PDF"
+pdf_sha256: "000c47410ea5865f46c3cf7592ecf22a4fe0ffa93413eb9607fe81e3f24ba3c1"
+md_sha256: "2d9b870ada6cd5a054f09a8961bb4588c2be0181404d82e90f6941a816fb3e56"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-07-08_Notification_12357_Asian%20Clearing%20Union%20%28ACU%29%20Mechanism%20%E2%80%93%20Indo-Sri%20Lanka%20trade.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Asian Clearing Union (ACU) Mechanism – Indo-Sri Lanka trade
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+RBI/2022-2023/89 July 08, 2022
+
+A.P. (DIR Series) Circular No. 09 To All Category-I Authorised Dealer Banks Madam/Sir,
+## Asian Clearing Union (ACU) Mechanism – Indo-Sri Lanka trade
+
+Attention of Authorised Dealer Category – I (AD Category-I) banks is invited to Regulations 3 and 5 of <u>Foreign Exchange Management (Manner of Receipt and</u> <u>Payment) Regulations, 2016</u> in terms of which export / import transactions between ACU member countries are to be routed through the ACU mechanism.
+
+2. The extant provisions have been reviewed and in terms of clause b of sub-Regulation 2 of Regulation 3 and clause c of sub-Regulation 2 of Regulation 5 of <u>Foreign Exchange</u> <u>Management (Manner of Receipt and Payment) Regulations, 2016</u>, it has been decided that all eligible current account transactions including trade transactions with Sri Lanka may be settled in any permitted currency outside the ACU mechanism until further notice.
+3. The above instructions shall come into force with immediate effect. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Vivek Srivastava) Chief General Manager

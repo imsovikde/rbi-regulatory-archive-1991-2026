@@ -1,0 +1,69 @@
+---
+doc_id: "Notifications_2022_12245"
+title: "Regulations Review Authority (RRA 2.0) – Interim Recommendations – Online Submission of Returns"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/173FMRD10BB25D288FA4B0AA9E0AC8DD26A074D.PDF"
+pdf_sha256: "78d3cf04b1a685419112524ede8c23fe3769a0e9311b4810b7378c5fb27d659d"
+md_sha256: "4784766762abc5b582f4de46b7f2dc5cf326118048e3b42b35ea65b188b85f2d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-02-18_Notification_12245_Regulations%20Review%20Authority%20%28RRA%202.0%29%20%E2%80%93%20Interim%20Recommendations%20%E2%80%93%20Online%20Submission%20of%20Returns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulations Review Authority (RRA 2.0) – Interim Recommendations – Online Submission of Returns
+
+<!-- PAGE 1 -->
+
+RBI/2021-22/173 FMRD.DIRD.13/14.03.59/2021-22 February 18, 2022
+
+To
+
+## All Eligible Market Participants
+
+## Madam / Dear Sir
+
+## Regulations Review Authority (RRA 2.0) – Interim Recommendations – Online Submission of Returns
+
+Please refer to the <u>press release dated February 18, 2022</u> issued on the captioned subject.
+
+2. As part of the implementation of the interim recommendations of the RRA 2.0, it is proposed to convert the paper based/ e-mail-based returns listed in the <u>Annex</u> to online filing. The exact date of online filing of the returns listed in the Annex would be notified in due course. Till such time, the returns may continue to be submitted as hitherto.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+## Encl: As above
+
+िवीय बाज़ार िविनयमन िवभाग,क द्र ी य कायालय भवन, नौवीं मंिजल, शहीद भगत िसंह माग, फोट, मुंबई–400001.भारत <u>फोन: (91-22) 2260 1000,फै � : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> िही आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+# Annex
+
+# List of Returns to be converted into Online submission
+
+## Reference regulatory
+
+## S.No. Return Name Return Description provision
+
+1. FCY-Rupee Option Return contains the details related to i) Option Part E, Para (v) of the Transactions Transaction Report related to trade and client, ii) Option <u>Master Direction – Risk</u>
+Position Report of FCY/INR includes USD/ EUR/ JPY to <u>Management and Inter-</u> INR, iii) Change in Portfolio Delta Report and iv) Strike <u>Bank Dealings dated</u> Concentration Report at different maturity buckets for <u>July 05, 2016</u>. AD-I banks.
+
+2. List of Return contains the granular level information on list of Part E, Para (x) of the Offices/Branches of all offices/branches, of an AD bank, which are <u>Master Direction – Risk</u> AD Bank Maintaining maintaining Rupee accounts of non-resident banks. <u>Management and Inter-</u> Rupee Accounts of <u>Bank Dealings dated</u> Non-Resident Banks <u>July 05, 2016</u>.
+3. Suspicious Returns covers the information pertaining to Doubtful Part E, Para (xiii) of the Transactions transactions involving frequent cancellation of hedge <u>Master Direction – Risk</u> undertaken by Non-transactions and / or the underlying trade transactions. <u>Management and Inter-</u> Resident <u>Bank Dealings dated</u> Importer/Exporter <u>July 05, 2016</u>.
+4. Interest Rate Risk Return captures the details related to Interest Rate Risk Para 13(3) of the Positions for clients (IRR) Positions for clients having outstanding derivative <u>Rupee Interest Rate</u>
+of Rs.10 billion. <u>Derivatives (Reserve</u> <u>Bank) Directions, 2019</u> <u>dated June 26, 2019</u>.
+
+|5. Cross-border|Return contains the details related to Cross-border|Para 13(4) of the|
+|---|---|---|
+|remittances arising|remittances arising out of Rupee interest rate derivatives|Rupee Interest Rate|
+|out of Rupee interest rate derivatives transactions|transactions undertaken by non-residents.|Derivatives (Reserve Bank) Directions, 2019 dated June 26, 2019.|
+
+undertaken by non- residents
+
+6. FX transactions with Return captures the information on distribution of Para 5 of <u>notification</u> clients across various customer transactions (across FX-Retail, other <u>no.</u> channels electronic trading platforms and other channels) and the <u>FMRD.FMD.16/02.03.</u>
+fees charged for them. 225/2018-19 dated <u>June 20, 2019</u>.

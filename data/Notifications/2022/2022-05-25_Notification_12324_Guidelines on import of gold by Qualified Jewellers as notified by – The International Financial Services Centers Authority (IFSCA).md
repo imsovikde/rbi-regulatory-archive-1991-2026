@@ -1,0 +1,64 @@
+---
+doc_id: "Notifications_2022_12324"
+title: "Guidelines on import of gold by Qualified Jewellers as notified by – The International Financial Services Centers Authority (IFSCA)"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR5736998BB416FA4828A5D1200573D7BC64.PDF"
+pdf_sha256: "3ce5a05d9662a7b67b4e90e707920d4093cf01fe674c093d7b22ac4b4847dc8e"
+md_sha256: "3f3859127291e8eb41dfc457fd7c5b3728d38552c38bc1e36332ecdaef85fe18"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-05-25_Notification_12324_Guidelines%20on%20import%20of%20gold%20by%20Qualified%20Jewellers%20as%20notified%20by%20%E2%80%93%20The%20International%20Financial%20Services%20Centers%20Authority%20%28IFSCA%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on import of gold by Qualified Jewellers as notified by – The International Financial Services Centers Authority (IFSCA)
+
+<!-- PAGE 1 -->
+
+RBI/2022-2023/57
+
+A.P. (DIR Series) Circular No.04 May 25, 2022 To
+## All Category-I Authorised Dealer Banks
+
+Madam/Sir,
+
+## Guidelines on import of gold by Qualified Jewellers as notified by – The
+
+## International Financial Services Centers Authority (IFSCA)
+
+Directorate General of Foreign Trade (DGFT) formulate and implement the Foreign Trade Policy and Procedures in terms of Foreign Trade (Development and Regulation) Act, 1992, (FTDR Act 1992, hereinafter) as amended from time to time. In exercise of powers conferred by Section 3 read with Section 5 of FTDR Act 1992, read with paragraph 1.02 and 2.01 of the Foreign Trade Policy, 2015-2020, as amended from time to time, the Central Government has amended the import policy conditions for gold in any form, other than monetary gold and silver in any form under Chapter 71 of ITC (HS), 2017, Schedule- I (Import Policy) vide Notification No. 49/2015-2020 dated January 5, 2022.
+
+2. Attention of Authorised Dealer Category-I (AD) bank is invited to (a) Notification No. 49/2015-2020 dated January 5, 2022, in terms of which, in addition to nominated agencies as notified by RBI (in case of banks) and nominated agencies as notified by DGFT, Qualified Jewellers (QJ) as notified by International Financial Services Centers Authority (IFSCA) will be permitted to import gold under specific ITC(HS) Codes through India International Bullion Exchange IFSC Ltd. (IIBX); (b) <u>Master Direction – Import of</u> <u>Goods and Services</u> and the AP Dir Series Circulars issued for import of Gold by Reserve Bank of India under FEMA, 1999; (c) regulations issued by the International Financial Services Centers Authority (IFSCA) under International Financial Services Centers Authority Act, 2019.
+
+<!-- PAGE 2 -->
+
+3. In order to enable resident Qualified Jewellers to import gold through IIBX or any other exchange approved by IFSCA and the DGFT, Government of India the following directions under FEMA are being issued.
+i. AD banks may allow Qualified Jewellers to remit advance payments for eleven days for import of Gold through IIBX in compliance to the extant Foreign Trade Policy and regulations issued under IFSC Act. AD banks shall ensure that advance remittance for such import through exchange/s authorised by IFSCA shall be as per the terms of the sale contract or other document in the nature of an irrevocable purchase order in terms of IFSC Act and regulations made thereunder by IFSCA. AD bank shall carry out all the due diligence and ensure the remittances sent are only for the bona fide import transactions through exchange/s authorised by IFSCA. ii. The advance remittance for import of Gold should not be leveraged in what-so- ever form for importing Gold worth more than the advance remittance made.
+iii. In case the import of Gold through IFSCA authorised exchange, for which advance remittance has been made, does not materialize, or the advance remittance made for the purpose is more than the amount required, the unutilised advance remittance shall be remitted back to the same AD bank within the specified time limit of eleven days. iv. For gold imported through IIBX, QJ shall submit the Bill of Entry (or any other such applicable document issued/approved by Customs Department for evidence of import), issued by Customs Authorities to the AD bank from where advance payment has been remitted.
+
+v. All payments by qualified jewellers for imports of gold through IIBX, shall be made through exchange mechanism as approved by IFSCA in terms of IFSC Act and regulations. Any deviation from the extant guidelines for import of Gold through IIBX need to be approved in advance by IFSCA and other applicable and appropriate authority/ies.
+4. IFSC Authority (IFSCA) will conduct all required due diligence on the exchange-IIBX including all other entities involved in enabling import of Gold by QJs in terms of the IFSCA regulations. IFSCA shall also put in place necessary system to ensure that the advance remittance received from QJs are solely for the purpose for the import of gold through IIBX.
+
+<!-- PAGE 3 -->
+
+5. AD bank shall ensure that:
+a. all required documentation, custom duty related procedures and filing Bill of Entry as evidence of import, etc. is complete for the import of Gold by QJ within the specified applicable period.
+b. single/multiple ORMs created and matched with corresponding BoEs (Bill of Entry) and closed appropriately in IDPMS.
+c. the importer-that is QJs comply with the related extant instructions relating to imports under FEMA, 1999, FTDR Act 1992, Foreign Trade Policy and regulations of IFSCA.
+AD banks may frame their own internal guidelines to deal with such cases, with the approval of their Board of Directors.
+
+6. <u>Reporting requirement by AD banks</u>:
+i. AD bank shall create Outward Remittance Message (ORM) for all such outward remittances in IDPMS in terms of extant guidelines. ii. All these transactions need to be reported in FETERS in terms of extant guidelines.
+iii. AD bank shall report the import of gold through QJ in XBRL as prescribed in para
+
+C.11.1 of <u>Master Direction – Import of Goods and Services</u>.
+7. The abovementioned arrangement is for the sole purpose of facilitating physical import of gold through IIBX or any similar exchange authorised by IFSCA, by Qualified Jewellers in India.
+8. The above instructions shall come into force with immediate effect. AD banks may bring the contents of this Circular to the notice of their constituents and customers concerned.
+9. The directions contained in this Circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+(Vivek Srivastava) Chief General Manager

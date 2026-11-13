@@ -1,0 +1,94 @@
+---
+doc_id: "Notifications_2022_12294"
+title: "Loans and Advances – Regulatory Restrictions - NBFCs"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI2987E2C200D1474DE2B85DE2A74B9EC579.PDF"
+pdf_sha256: "4e0b3e3bdb68e1c22e8d04bdb7a6ade62bfaaea1e2a30c3c89e5bd1aef33b0cb"
+md_sha256: "be40c220fa863127dfb48cc7bb4a6334042c4a5b7ed29ebaeb31eab3e9240803"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-04-19_Notification_12294_Loans%20and%20Advances%20%E2%80%93%20Regulatory%20Restrictions%20-%20NBFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Loans and Advances – Regulatory Restrictions - NBFCs
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/29 DOR.CRE.REC.No.25/03.10.001/2022-23 April 19, 2022 All Non-Banking Financial Companies
+
+Madam/ Dear Sir,
+
+## <u>Loans and Advances – Regulatory Restrictions-NBFCs</u>
+
+In terms of para 3.2.2 (c) and para 3.2.3 (b) & (c) of the <u>circular on Scale Based Regulation</u> <u>(SBR): A Revised Regulatory Framework for NBFCs issued on October 22, 2021</u>, certain regulatory restrictions on lending were introduced in respect of NBFCs placed in different layers. Detailed guidelines in this regard are placed as <u>Annex</u> to this circular.
+
+2. These guidelines shall be effective from October 01, 2022. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+िविनयमन िवभाग, क �ीय कायार्लय, 2री मंिज़ल, मुख्य कायार्लय भवन, शहीद भगत संह मागर्, फोटर्, मुंबई-400 001 <u>टेलीफोन:+91-22-22709038, ईमेल:cgmicdor@rbi.org.in</u> Department of Regulation, Central Office, 2ndFloor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel No:+91<u>-22-22709038, Email :cgmicdor</u>@rbi.org.in
+
+|Tel No:+91-22-22709038, Email :cgmicdor@rbi.org.in|||
+|---|---|---|
+||हंदीआसानहै|, इसका�योगबढाइये।|
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## 1. Definitions
+
+For the purpose of this circular:
+
+i) The term “control” shall have the meaning assigned to it under Clause (27) of Section 2 of the Companies Act, 2013. ii) The term “relative” shall have the meaning assigned to it under Clause (77) of Section 2 of the Companies Act, 2013. iii) The term “major shareholder” shall mean a person holding 10 % or more of the paid-up share capital or five crore rupees in paid-up shares, whichever is lower. iv) The term “Senior Officer” shall have the same meaning as assigned to “Senior Management” under Section 178 of the Companies Act, 2013.
+## A. <u>Guidelines applicable to NBFC-Middle Layer (ML) and NBFC-Upper</u>
+
+## <u>Layer (UL) - Regulatory Restrictions on Loans and Advances</u>
+
+**2. Loans and advances to Directors**-Unless sanctioned by the Board of Directors/ Committee of Directors, NBFCs shall not grant loans and advances aggregating Rupees five crores and above to -
+i) their directors (including the Chairman/ Managing Director) or relatives of directors. ii) any firm in which any of their directors or their relatives is interested as a partner, manager, employee or guarantor. iii) any company in which any of their directors, or their relatives is interested as a major shareholder, director, manager, employee or guarantor.
+Provided that a director or her relatives shall be deemed to be interested in a company, being the subsidiary or holding company, if she is a major shareholder or is in control of the respective holding or subsidiary company.
+
+Provided that the director who is directly or indirectly concerned or interested in any proposal should disclose the nature of her interest to the Board when any such proposal is discussed. She should recuse herself from the meeting unless her presence is required by the other directors for the purpose of eliciting information and the director so required to be present shall not vote on any such proposal.
+
+The proposals for credit facilities of an amount less than Rupees five crore to these borrowers may be sanctioned by the appropriate authority in the NBFC under powers vested in such authority, but the matter should be reported to the Board.
+
+**3. Loans and advances to Senior Officers of the NBFC-**NBFCs shall abide by the following when granting loans and advances to their senior officers:
+
+<!-- PAGE 3 -->
+
+i) Loans and advances sanctioned to senior officers of the NBFC shall be reported to the Board. ii) No senior officer or any Committee comprising, *inter alia*, a senior officer as member, shall, while exercising powers of sanction of any credit facility, sanction any credit facility to a relative of that senior officer. Such a facility shall be sanctioned by the next higher sanctioning authority under the delegation of powers.
+**4. Loans and advances to Real Estate Sector -**While appraising loan proposals involving real estate, NBFCs shall ensure that the borrowers have obtained prior permission from government/ local government/ other statutory authorities for the project, wherever required. To ensure that the loan approval process is not hampered on account of this, while the proposals may be sanctioned in normal course, the disbursements shall be made only after the borrower has obtained requisite clearances from the government / other statutory authorities.
+**5.** In respect of grant of aforementioned loans mentioned at para 2 and 3 above –
+i) NBFCs shall obtain a declaration from the borrower giving details of the relationship of the borrower to their directors/ senior officers for loans and advances aggregating Rupees five crore and above. NBFCs shall recall the loan if it comes to their knowledge that the borrower has given a false declaration. ii) These guidelines shall be duly brought to the notice of all directors and placed before the NBFC’s Board of Directors. iii) NBFCs shall disclose in their Annual Financial Statement, aggregate amount of such sanctioned loans and advances as per template provided in the Appendix.
+**6.** The above norms as mentioned at para 2, 3 & 5 relating to grant of loans and advances will equally apply to awarding of contracts. Explanation: The term ‘loans and advances’ will not include loans or advances against -
+a) Government securities
+b) Life insurance policies
+c) Fixed deposits
+d) Stocks and shares
+e) Housing loans, car advances, etc. granted to an employee of the NBFC under any scheme applicable generally to employees. Provided that NBFC’s interest/lien is appropriately marked with legal enforceability.
+
+<!-- PAGE 4 -->
+
+## B. <u>Guidelines applicable to NBFC-Base Layer (BL) - Loans to Directors,</u>
+
+## <u>Senior Officers and relatives of Directors</u>
+
+**7.** NBFCs shall have a Board approved policy on grant of loans to directors, senior officers and relatives of directors and to entities where directors or their relatives have major shareholding. The Board approved policy shall include a threshold beyond which loans to abovementioned persons shall be reported to the Board. Further, NBFCs shall disclose in their Annual Financial Statement, aggregate amount of such sanctioned loans and advances as per template provided in the <u>Appendix</u>.
+***
+
+<!-- PAGE 5 -->
+
+## Appendix
+
+## <u>Loans to Directors, Senior Officers and relatives of Directors</u>
+
+(₹ crore)
+
+||Current Year|Previous Year|
+|---|---|---|
+|Directors and their relatives|||
+|Entities associated with directors and their relatives|||
+|Senior Officers and their relatives|||

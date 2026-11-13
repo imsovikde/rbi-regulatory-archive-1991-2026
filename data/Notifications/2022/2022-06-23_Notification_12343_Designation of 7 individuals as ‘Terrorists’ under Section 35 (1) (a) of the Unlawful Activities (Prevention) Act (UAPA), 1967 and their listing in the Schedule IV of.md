@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2022_12343"
+title: "Designation of 7 individuals as ‘Terrorists’ under Section 35 (1) (a) of the Unlawful Activities (Prevention) Act (UAPA), 1967 and their listing in the Schedule IV of the Act- Reg."
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULAR7INDIVIDUALS9C4C2F58A6F44E8A9BCD55A6E098421F.PDF"
+pdf_sha256: "e8a3e04fc1caa648d7498ddf565bcc005b295ed2dd1f32991f0fe997ce6901eb"
+md_sha256: "ab8f53895ff6b11e8ac295619083a32adf52e37c58ab127192f1a2bb4154aa01"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-06-23_Notification_12343_Designation%20of%207%20individuals%20as%20%E2%80%98Terrorists%E2%80%99%20under%20Section%2035%20%281%29%20%28a%29%20of%20the%20Unlawful%20Activities%20%28Prevention%29%20Act%20%28UAPA%29%2C%201967%20and%20their%20listing%20in%20the%20Schedule%20IV%20of.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Designation of 7 individuals as ‘Terrorists’ under Section 35 (1) (a) of the Unlawful Activities (Prevention) Act (UAPA), 1967 and their listing in the Schedule IV of the Act- Reg.
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/75 DOR.AML.REC.50/14.06.001/2022-23 June 23, 2022
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir, **Designation of 7 individuals as ‘Terrorists’ under Section 35 (1) (a) of the Unlawful** **Activities (Prevention) Act (UAPA), 1967 and their listing in the Schedule IV of the** **Act- Reg.**
+
+In terms of Section 53 of our Master Direction on Know Your Customer dated February <u>25, 2016</u> as amended on May 10, 2021, *“The procedure laid down in the UAPA Order* *dated February 2, 2021 (Annex II of this Master Direction) shall be strictly followed and* *meticulous compliance with the Order issued by the Government shall be ensured.”* Further, please also refer to Section 52 of the aforementioned <u>Master Direction on Know</u> Your Customer.
+
+2. In this connection, please refer to the Gazette notification of the MHA in respect of seven individuals who have been declared as ‘Terrorists’ and have been listed in the Schedule IV of the UAPA 1967, under Section 35 (1) (a) of UAPA 1967. The link to the aforementioned Gazette notification is provided below: <u>[https://mha.gov.in/sites/default/files/UAPAlistGazette_25042022.pdf](https://mha.gov.in/sites/default/files/UAPAlistGazette_25042022.pdf)</u> The Statutory Order (S.O.) numbers and the respective entries are in the table below:
+
+|S.O. Numbers|Entries|
+|---|---|
+|1729(E)|32. Hafiz Talha Saeed|
+|1735(E)|33. Mohiuddin Aurangzeb Alamgir @ Maktab Ameer @ Mujahid Bhai @Muhammad Bhai @M.Ammar @Abu Ammar Madam @ Orangzaib Anzar @ Maulana Ammar Madni @ Maulana Ammar @ Abu Ammar @ Ammar Alvi|
+
+|िविनयमन िवभाग, क|द्र ी य कायालय, क|द्र ी य कायालय|भवन, 12वीं/|13वीं मंिज़ल, शहीद|भगत िसंह|माग, फोट,|मुंबई-400001|
+|---|---|---|---|---|---|---|---|
+|Department of Regulation, Central Office, Central Office Building, 12 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please|टेलीफोन/|Tel No: 22661602, 22601000|do not respond in any manner to such offers."|फै � / Fax No: 022-2270 5691 / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001||||
+
+th
+
+<!-- PAGE 2 -->
+
+|1768(E)|34. Ali Kashif Jan @ Jan Ali Kashif|
+|---|---|
+|1820(E)|35. Mushtaq Ahmed Zargar @Latram|
+|1737(E)|36. Ashiq Ahmed Nengroo @Nengroo @Ashaq Hussain Nengroo @Ashaq Moulvi|
+|1857(E)|37. Sheikh Sajad @Sheikh Sajjad Gul @Sajjad Gul @Sajjad Ah Sheikh|
+|1876(E)|38. Arjumand Gulzar Dar @Hamza Burhan @Doctor|
+
+3. REs are advised to take note of the aforementioned Gazette notification issued by MHA for necessary action. Further, REs shall also take note of any amendments to Schedule IV of the UAPA, 1967, in the future, for necessary action. Yours faithfully, (Santosh Kumar Panigrahy) Chief General Manager

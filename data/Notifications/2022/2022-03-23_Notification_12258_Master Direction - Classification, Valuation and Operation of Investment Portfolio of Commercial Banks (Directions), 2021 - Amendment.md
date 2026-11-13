@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2022_12258"
+title: "Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2021 - Amendment"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT185AC68D3334544456A817A53F266B87FA8.PDF"
+pdf_sha256: "c6095dc9cf26d1401e2aac3fd031de48b679e70d1de52dbfdb6db6d6886bde7d"
+md_sha256: "8c311b2803daa3beb6bf43d2c1aba42677e65ca2218659ac4ebd7c468e55e2f4"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-03-23_Notification_12258_Master%20Direction%20-%20Classification%2C%20Valuation%20and%20Operation%20of%20Investment%20Portfolio%20of%20Commercial%20Banks%20%28Directions%29%2C%202021%20-%20Amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2021 - Amendment
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021.
+
+RBI/2021-22/185 DOR.MRG.REC.96/21.04.141/2021-22 March 23, 2022
+
+Dear Sir / Madam,
+
+## Master Direction - Classification, Valuation and Operation of Investment
+
+## Portfolio of Commercial Banks (Directions), 2021 - Amendment
+
+Please refer to the <u>Master Direction DOR.MRG.42/21.04.141/2021-22 dated August</u> <u>25, 2021</u> – ‘Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2021’ (hereinafter referred as ‘Master Direction’).
+
+2. The Master Direction outlines the prudential treatment for investment in Venture Capital Funds (VCFs). We have received queries from banks regarding the applicability of these instructions for investment in Alternative Investment Funds (AIFs).
+3. Accordingly, on a review, it has been decided that the investment in Category I and Category II AlFs, which includes VCFs, shall receive the same prudential treatment as applicable for investment in VCFs.
+# Withdrawn
+
+4. In addition, based on feedback from banks, clarifications / updates have been provided regarding section 4(a)(vii), 10(c)(ix), 12(ii)(b), 12(ii)(d)(ix), 13(iv)(b), 16(i), 16(ii), 18(ii)(e)(ii) and Annex II of the Master Direction.
+5. The relevant sections of the Master Direction have been amended to reflect the aforementioned changes.
+## Applicability
+
+6. This circular is applicable to all Commercial Banks (excluding Regional Rural Banks).
+_____________________________________________________________________________-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------_______ वनयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत स ंह मागर्, मंबई ु 400001 टे लफोन /Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022<u>-</u>2270 5670, 2260 5671, 5691, 5692 <u>िहंदी आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+7. These instructions shall come into force with immediate effect. Yours faithfully, (Usha Janakiraman) Chief General Manager
+# Withdrawn

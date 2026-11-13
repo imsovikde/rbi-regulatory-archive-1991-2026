@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2022_12345"
+title: "Restriction on Storage of Actual Card Data [i.e. Card-on-File (CoF)]"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DPSSC09B09841EF3746A0A7DC4783AC90C8F3.PDF"
+pdf_sha256: "f0627576ec7c93964635ff7e8da4ef5409b10ab937c94626f719758f0896ed89"
+md_sha256: "bbee59a7b766e585c195a7e28261e1b6e1fd7b2fef105548487db9fe5b1b7808"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-06-24_Notification_12345_Restriction%20on%20Storage%20of%20Actual%20Card%20Data%20%5Bi.e.%20Card-on-File%20%28CoF%29%5D.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Restriction on Storage of Actual Card Data [i.e. Card-on-File (CoF)]
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/77 CO.DPSS.POLC.No.S-567/02-14-003/2022-23 June 24, 2022
+
+All Payment System Providers and Payment System Participants
+
+Madam / Dear Sir,
+
+## Restriction on Storage of Actual Card Data [i.e. Card-on-File (CoF)]
+
+Reference is invited to <u>Reserve Bank of India (RBI) circulars DPSS.CO.PD.No.1810/02.14.008</u>/ <u>2019-20 dated March 17, 2020</u> and <u>CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March</u> <u>31, 2021</u> on “*Guidelines on Regulation of Payment Aggregators and Payment Gateways*”, and <u>CO.DPSS.POLC.No.S-516/02-14-003/2021-22 dated September 07, 2021</u> on “*Tokenisation –* *Card Transactions: Permitting Card-on-File Tokenisation (CoFT) Services*”.
+
+2. In terms of these circulars, with effect from January 1, 2022, no entity in the card transaction / payment chain, other than the card issuers and / or card networks, shall store the CoF data, and any such data stored previously shall be purged. Subsequently, to allow more time to the industry stakeholders for devising alternate mechanism(s) to handle any use case or post- transaction activity, this timeline was extended to June 30, 2022, vide <u>circular</u> <u>CO.DPSS.POLC.No.S-1211/02-14-003/2021-22 dated December 23, 2021</u> on “*Restriction on* *storage of actual card data [i.e. Card-on-File (CoF)]*”.
+3. On a review of the issues involved and after detailed discussions with all stakeholders, it is observed that considerable progress has been made in terms of token creation. Transaction processing based on these tokens has also commenced, though it is yet to gain traction across all categories of merchants. Further, an alternate system in respect of transactions where cardholders decide to enter the card details manually at the time of undertaking the transaction (commonly referred to as “*guest checkout transactions*”) has not been implemented by the industry stakeholders, so far.
+भुगतान और िनपटान �णाली िवभाग, क ीय कायार्लय, 14वीमंिजल, क ीयकायार्लयभवन,शहीदभगतसंहमागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फ ै क् स Fax: (91-22) 22691557; ई-मेलe-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central Office, 14thFloor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - <u>400001</u> <u>हंदी आसान है, इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+4. Given the above, it has been decided to extend the timeline for storing of CoF data by three months, i.e., till September 30, 2022, after which such data shall be purged.
+5. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007). Yours faithfully, (P. Vasudevan) Chief General Manager

@@ -1,0 +1,67 @@
+---
+doc_id: "Notifications_2022_12295"
+title: "Limits for investment in debt and sale of Credit Default Swaps by Foreign Portfolio Investors (FPIs)"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT284DF5A349996C482E88A65207E71FF077.PDF"
+pdf_sha256: "8e4673bea425cb9bab3ccc1a1e901904c6ddcbd7b305923fcec1fa4b078e969b"
+md_sha256: "d02918b3106c42137f9764dbaeb62bc4c40675161fc6895212bf5bb225b2bfb3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-04-19_Notification_12295_Limits%20for%20investment%20in%20debt%20and%20sale%20of%20Credit%20Default%20Swaps%20by%20Foreign%20Portfolio%20Investors%20%28FPIs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Limits for investment in debt and sale of Credit Default Swaps by Foreign Portfolio Investors (FPIs)
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2022-23/28
+
+A.P. (DIR Series) Circular No. 01 (revised number) April 19, 2022 To, All Authorized Persons
+## Madam / Sir
+
+## Limits for investment in debt and sale of Credit Default Swaps by Foreign Portfolio
+
+## Investors (FPIs)
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule 1 to the Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified, *vide* <u>Notification No. FEMA. 396/2019-RB dated October 17, 2019</u>, as amended from time to time and the relevant Directions issued thereunder.
+
+2. A reference is also invited to the following directions issued by the Reserve Bank:
+a) <u>A.P. (DIR Series) Circular No. 25 dated March 30, 2020</u>;
+b) <u>Circular No. FMRD.FMSD.No.25/14.01.006/2019-20 dated March 30, 2020</u>;
+c) <u>A.P. (DIR Series) Circular No. 05 dated May 31, 2021</u>; and
+d) <u>A.P. (DIR Series) Circular No. 23 dated February 10, 2022</u>.
+## 3. Investment Limits for the financial year (FY) 2022-23:
+
+a) The limits for FPI investment in Government securities (G-secs), State Development Loans (SDLs) and corporate bonds shall remain unchanged at 6%, 2% and 15% respectively, of outstanding stocks of securities for FY 2022-23.
+b) As hitherto, all investments by eligible investors in the ‘specified securities’ shall be reckoned under the Fully Accessible Route (FAR) in terms of <u>A.P. (DIR Series) Circular</u> <u>No. 25 dated March 30, 2020</u>.
+c) The allocation of incremental changes in the G-sec limit (in absolute terms) over the two sub-categories – ‘General’ and ‘Long-term’ – shall be retained at 50:50 for FY 2022-23.
+d) The entire increase in limits for SDLs (in absolute terms) has been added to the ‘General’ sub-category of SDLs.
+िवीय बाज़ार िविनयमन िवभाग,क �ीय कायार्लय भवन, नौव मंिजल, शहीद भगत �संह मागर्, फोटर्, मुंबई–400001.भारत <u>फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+4. The revised limits (in absolute terms) for the different categories, are in <u>Table-1</u>:
+
+|||Table - 1: Investment limits for FY 2022-23|||||
+|---|---|---|---|---|---|---|
+|||||||all figures in ₹ Crore|
+||G-Sec General|G-Sec Long Term|SDL General|SDL Long Term|Corporate Bonds|Total Debt|
+|Current FPI limits|2,53,298|1,22,298|85,902|7,100|6,07,039|10,75,637|
+|Revised limit for the HY Apr 2022-Sept 2022|2,60,594|1,29,594|89,365|7,100|6,37,455|11,24,107|
+|Revised limit for the HY Oct 2022-Mar 2023|2,67,890|1,36,890|92,828|7,100|6,67,871|11,72,578|
+
+5. In terms of <u>A.P. (DIR Series) Circular No. 23 dated February 10, 2022</u>, the aggregate limit of the notional amount of CDS sold by FPIs shall be 5% of the outstanding stock of corporate bonds. Accordingly, an additional limit of ₹2,22,623 crore is set out for FY 2022-23.
+6. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+7. The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approval, if any, required under any other law.
+## Yours faithfully
+
+(Dimple Bhandia) Chief General Manager

@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2022_12318"
+title: "Kisan Credit Card Scheme - Eligibility criteria for farmers engaged in fisheries/ aquaculture"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT51A59DE060FA734DA6AB1F8FF11A9D2834.PDF"
+pdf_sha256: "3b125587338c8fec455e6979811bfe2be7e98e61b7b5f24dac4b6c72b0aceb52"
+md_sha256: "46f2842b9305aa6cb4cfe4e27a97835913a0f0c94b527c3e3b54096cd6e4d971"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-05-18_Notification_12318_Kisan%20Credit%20Card%20Scheme%20-%20Eligibility%20criteria%20for%20farmers%20engaged%20in%20fisheries-%20aquaculture.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Kisan Credit Card Scheme - Eligibility criteria for farmers engaged in fisheries/ aquaculture
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/51 FIDD.CO.FSD.BC.No.6/05.05.010/2022-23 May 18, 2022 The Chairman/Managing Director/Chief Executive Officer All Scheduled Commercial Banks (including Small Finance Banks and excluding Regional Rural Banks)
+
+Madam/ Dear Sir,
+
+## Kisan Credit Card Scheme-Eligibility criteria for farmers engaged in fisheries/ aquaculture
+
+Please refer to Para 3.1.1.2 of our <u>circular FIDD.CO.FSD.BC.12/05.05.010/2018-19</u> <u>dated February 04, 2019</u> on Kisan Credit Card (KCC) Scheme: Working Capital for Animal Husbandry and Fisheries. It has been brought to our notice that licensing/authorisation related requirements pertaining to fishing/aquaculture in inland water bodies vary across states. Accordingly, the eligibility criteria for inland fisheries and aquaculture under Para 3.1.1.2 of the circular stand modified as follows:
+
+The beneficiaries must own or lease any fisheries related assets such as ponds, tanks, open water bodies, raceways, hatcheries, rearing units, *boats, nets and such other* *fishing gear as the case may be and possess necessary authorisation/certification as* *may be applicable in respective states* for fish farming and fishing related activities and for any other state specific fisheries and allied activities.
+
+2. All other terms and conditions of the scheme remain unchanged. Yours faithfully, (Nisha Nambiar) Chief General Manager िवत् तीय समावेशन और िवकास िवभाग,क �ीय कायार्लय, 10वीमंिजल, क �ीय कायार्लय भवन, पो.बा.सं.10014, मुंबई 400 001
+टेलीफोन /Tel.No: 91-22-22661000 फै क् स /FaxNo: 91-22-22621011/22610948/22610943 ई-मेल/ Email ID:cgmincfidd@rbi.org.in Financial Inclusion & Development Department, Central Office, 10thFloor, C.O. Building, Post Box No.10014, Mumbai 400 हंदी आसान है*,* इसका �योग बढ़ाइये ***“***चेतावनीरज़वर् बक �ारा - :मेल***,*** डाक***,*** एसएमएस या फोन कॉल के जरए कसी क भी व् यिगत जानकारी जैसे बक के खाते का ब् यौरा***,*** पासवडर् आ�द नह मांगी जाती है। यह धन रखने या देने का स् ताव भी नह करता है। ऐसे स् ताव का कसी भी तरीके से जवाब मत दीिजए।***"*** ***Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It*** ***never keeps or offers funds to anyone. Please do not respond in any manner to such offers.***
