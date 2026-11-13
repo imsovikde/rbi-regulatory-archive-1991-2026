@@ -1,0 +1,47 @@
+---
+doc_id: "Circulars_2015_DBR_No_DEA_Fund_Cell_BC_66_30_01_002_2014-15"
+title: "Unclaimed Deposits / Inoperative Accounts in Banks - Display list of Inoperative Accounts"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT437LAB020215.PDF"
+pdf_sha256: "ba00f532e9b9f5e09c9fcdc5fe8f7fc56ef764648db64f2f00649c8527670cff"
+md_sha256: "66afe1e034a51cf0df78883aa0f66f0908dea6be176f0a0b61fe59d2ee3795aa"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:23:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-02-02_Circular_DBR.No.DEA.Fund.Cell.BC.66-30.01.002-2014-15_Unclaimed%20Deposits%20-%20Inoperative%20Accounts%20in%20Banks%20-%20Display%20list%20of%20Inoperative%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Unclaimed Deposits / Inoperative Accounts in Banks - Display list of Inoperative Accounts
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बक **_________________RESERVE BANK Of INDIA ___________________** <u>www.rbi.org.in</u>
+
+RBI/2014-15/437 DBR.No. DEA Fund Cell.BC.66/30.01.002/2014-15 February 2, 2015
+
+## All Local Area Banks
+
+Dear Sir,
+
+## Unclaimed Deposits/ Inoperative Accounts in Banks -
+
+## Display list of Inoperative Accounts
+
+Please refer to our <u>circular DBOD.No.DEAF Cell.BC.114/30.01.002/2013-14 dated May</u> <u>27, 2014</u> on the Depositor Education and Awareness Fund Scheme, 2014(Scheme) and the Scheme notified by Government of India.
+
+2. Keeping in view public interest, it has been decided that banks should play a more pro-active role in finding the whereabouts of the accountholders of unclaimed deposits/ inoperative accounts. Banks are, therefore, advised that they should display the list of unclaimed deposits/inoperative accounts which are <u>inactive / inoperative for ten years or</u>
+# Withdrawn
+
+<u>more</u> on their respective websites. The list so displayed on the websites must contain <u>only</u> the names of the account holder(s) and his/her address in respect of unclaimed deposits/inoperative accounts. In case such accounts are not in the name of individuals, the names of individuals authorized to operate the accounts should also be indicated. However, the account number, its type and the name of the branch shall not be disclosed on the bank’s website. The list so published by the banks should also provide a **“Find”** option to enable the public to search the list of accounts by name of the account holder.
+
+बकं ग विनयमन वभाग, के �िय कायालय, के �िय कायालय भवन, 12 वीं मंजल, शहद भगत िसंह माग, फोट, मुंबई-400 001 <u>फोन: 022-2266 1602, फै �स: 022-2270 5691, ई-मेल: cgmicdbodco@rbi.org.in, वेबसाइट: www.rbi.org.in</u> Department of Banking Regulation, Central Office, Central Office Building, 12 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone: 022‐2266 1602, Fax: 022‐2270 5691, E‐mail: <u>cgmicdbodco@rbi.org.in</u>, Website: <u>www.rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+3. Banks should also give on the website, the information on the process of claiming the unclaimed deposit/activating the inoperative account and the necessary forms and documents for claiming the same. Banks are required to have adequate operational safeguards to ensure that the claimants are genuine.
+4. Banks should complete action as above by March 31, 2015 and keep their websites updated at regular intervals.
+5. Banks are also advised to put in place a Board approved policy on classification of unclaimed deposits; grievance redressal mechanism for quick resolution of complaints; record keeping; and periodic review of such accounts. The first periodic review of unclaimed deposits/inoperative accounts should be put up to their respective bank Boards by March 31, 2015. Yours faithfully, (A.K.Pandey) Chief General Manager Withdrawn

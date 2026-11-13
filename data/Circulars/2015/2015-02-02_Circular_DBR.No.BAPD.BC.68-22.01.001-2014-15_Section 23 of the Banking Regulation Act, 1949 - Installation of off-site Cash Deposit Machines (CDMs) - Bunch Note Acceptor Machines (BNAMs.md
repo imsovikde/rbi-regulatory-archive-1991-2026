@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2015_DBR_No_BAPD_BC_68_22_01_001_2014-15"
+title: "Section 23 of the Banking Regulation Act, 1949 - Installation of off-site Cash Deposit Machines (CDMs) / Bunch Note Acceptor Machines (BNAMs)"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/68BAPDBC020215.PDF"
+pdf_sha256: "0aada6a0fe1f2079f4779545785f70edf629eecd202d8b1327d0ee46ed630420"
+md_sha256: "ef397705f5709b678b0379fea392f7e3e9c326ac0fc43e1a9244ea0e306f6e68"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:23:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-02-02_Circular_DBR.No.BAPD.BC.68-22.01.001-2014-15_Section%2023%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Installation%20of%20off-site%20Cash%20Deposit%20Machines%20%28CDMs%29%20-%20Bunch%20Note%20Acceptor%20Machines%20%28BNAMs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of the Banking Regulation Act, 1949 - Installation of off-site Cash Deposit Machines (CDMs) / Bunch Note Acceptor Machines (BNAMs)
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बकैं
+
+## ________________________RESERVE BANK OF INDIA________________________
+
+www.rbi.org.in RBI/2014-15/438 DBR.No.BAPD.BC.68/22.01.001/2014-15 February 2, 2015
+
+## All Scheduled Commercial Banks (including RRBs)
+
+**Dear Sir/Madam,** **Section 23 of the Banking Regulation Act, 1949 – Installation of off-site Cash** **Deposit Machines (CDMs) / Bunch Note Acceptor Machines (BNAMs)**
+
+Please refer to <u>circular DBOD.No.BL.BC.137/22.01.001/2008-09 dated June 12, 2009</u> wherein all SCBs have been permitted to install off-site ATMs at centers / places identified by them without having the need to take permission from the Reserve Bank in each case. RRBs were also advised vide <u>paragraph 7.2</u> of Master Circular RPCD.CO.RRB.No.BL.BC.4/03.05.90/2014-15 dated July 1, 2014 on Branch Licensing that they need not obtain prior permission of RBI for setting up off-site ATMs.
+
+2. We have been receiving references from banks seeking permission for **i**nstallation of Cash Deposit Machines/ Bunch Note Acceptor Machines. The issue has beenWithdrawn examined and it is advised that Scheduled Commercial Banks (including RRBs) are permitted to install Cash Deposit Machines / Bunch Note Acceptor Machines at centres / places identified by them without having the need to take permission from Reserve Bank in each case, subject to following conditions:
+a) CDMs/BNAMs may be installed at any place identified by banks with adequate security arrangements.
+b) CDMs/BNAMs should not return any note which is suspect / counterfeit to the customer.
+c) An audit trail of transactions should be available to enable reporting detection of counterfeit notes. बक ैंिं ग विनियमि विभाग, े िद्रीय ् ायाालय, े िद्रीय ् ायाालय भिि, 13िी मिंजिल, शहीद भगत स िंह मागा, फोर्ा, मिंबई-400 001
+<u>फोि: 022-22661602, फै ् : 022-22701237, ई-मेल: cgmicdbrco@rbi.org.in,िेब ाइर्: www.rbi.org.in</u> Department of Banking Regulation, Central Office, CentralOfficeBuilding, 13 th Floor, ShahidBhagatSinghMarg, Fort, Mumbai – 400 001 Phone: 022-2266 1602, Fax: 022-2270 1237, E-mail: <u>cgmicdbrco@rbi.org.in</u>, Website: www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. The banks (including RRBs) should report full details of opening such off-site CDMs / BNAMs (that are not installed in existing branch premises / ATM rooms) to the Regional Office of concerned DBS or DBR, CO (in respect of CDMs / BNAMs installed in Maharashtra and Goa) immediately after installation, and in any case not later than two weeks after making the machines active / live. Yours faithfully, Sd/- (Lily Vadera) Chief General Manager
+# Withdrawn

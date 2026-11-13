@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2015_DCBR_BPD_PCB_RCB_Cir_No_14_16_26_000_2014-15"
+title: "Section 24 of the Banking Regulation Act, 1949 (AACS) - Maintenance of Statutory Liquidity Ratio (SLR)"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/14SLRCBRCB0215.PDF"
+pdf_sha256: "f38b838bfb1cda9664252d8985b1bbede1081721fe6c8302b0cfb0580535553a"
+md_sha256: "5ea3f6718ed699b3896db25799e2d90cbb64b4d79bc320507232917d1cbf57f7"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:24:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-02-03_Circular_DCBR.BPD.%28PCB-RCB%29.Cir.No.14-16.26.000-2014-15_Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%28AACS%29%20-%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of the Banking Regulation Act, 1949 (AACS) - Maintenance of Statutory Liquidity Ratio (SLR)
+
+<!-- PAGE 1 -->
+
+|– 2.|Dear Sir, 5, 2014 Encl: 1|RBI/2014-15/446 Please refer to our and captioned subject. Yours faithfully, (Suma Varma) ैं|_____________________ The Chief Executive Officers of State and Central Co-operative Banks As announced in the 15 dated February 3, 2015 is enclosed. Principal Chief General Manager सहकारी बक विनियम विभाग फोि: 022 - 2493 9930 - 49;|All Primary (Urban) Co-operative Banks/ Reserve Bank of India on February 3, 2015,|DCBR.BPD.(PCB/RCB).Cir.No.14/16.26.000//2014-15 Section 24 of the Banking Regulation Act, 1949 (AACS) Maintenance of Statutory Liquidity Ratio (SLR) ै क्स|cent with effect from the fortnight beginning February 7, 2015. कें द्रीय कायाालय, गारमेंट हाऊस फ|ह िंदी आसान ै,|भारतीय ररज़र्व बक RESERVE BANK OF INDIA www.rbi.org.in Withdrawn Liquidity Ratio (SLR) of Urban Co-operative Banks, State and Central Co-operative Banks from 22.0 per cent of their Net Demand and Time Liabilities (NDTL) to 21.5 per 3. A copy of the relative notification DCBR.BPD.(PCB/RCB).Not.No.2/16.26.000/2014- 400018 Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmdcbrco@rbi.org.in इसका|RPCD.RCB.BC.No.22/07.51.020/2014-15 dated August 6, 2014 - Department of Co-operative Banking Regulation, Central Office, Garment House, 1st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India प्रयोग|ैं circular UBD.BPD.(PCB).Cir.No.7/16.26.000/2014-15 dated August Sixth Bi-Monthly Monetary Policy Statement 2014-15 by, it has been decided to reduce the Statutory : 022 - 2497 4030 / 2492 0231; ममाल-: cgmdcbrco@rbi.org.in बढ़ाइए—|___________________ February 3, 2015 on the मबीबम ,िरली ,ॉि बासेंट मागा नए.,लहली मीलहल ,भारत|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||चातािि :||भारत य ररहिा बक द्िारा म ैं|-माल,|नाक,||ॉसॉमॉस या फोि कएल का|keeps or offers funds to anyone. Please do not respond in any manner to such offers.|लासिना आदि िहीी माीग जात है। यह धि रखिा या िािा का प्रस्ताि भ िहीी करता है। ऐसा प्रस्तािों का ककस भ तरीका सा जिाब मत िीलजॉ। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|जररॉ ककस की भ व्यलक्त|की जािकारी जैसा बक का खाता का ब्यौरा, ैं|
+
+<!-- PAGE 2 -->
+
+**भारतीय ररज़र्व बकैं** **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u>
+
+## DCBR.BPD.(PCB/RCB).Not.No.2/16.26.000/2014-15 February 3, 2015
+
+## NOTIFICATION
+
+In exercise of the powers conferred by sub-section (2A) of section 24 of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof, and, in partial modification of the <u>Notification UBD.BPD.(PCB).Not.No.1/16.26.000/2014-15 dated</u> <u>August 5, 2014</u> and <u>RPCD.RCB.BC.No.21/07.51.020/2014-15 dated August 6, 2014</u>, the Reserve Bank hereby specifies that with effect from the fortnight beginning February 7, 2015, every Primary (Urban) Co-operative Bank shall maintain in India assets as detailed in <u>notification UBD.BPD.(PCB).Not.No.2/16.26.000/2013-14 dated June 5,</u> <u>2014</u> and every State Co-operative Bank and Central Co-operative Bank shall maintain in India assets as detailed in the <u>Notifications RPCD.RCB.BC.No.109/07.51.020/2013-</u> <u>14 dated June 5, 2014</u> and <u>RPCD.RCB.BC.No.15/07.51.020/2014-15 dated July 21,</u> <u>2014</u>, the value of which shall not at the close of business on any day be less than 21.5 per cent of the net demand and time liabilities in India as on the last Friday of theWithdrawn second preceding fortnight.
+
+(Chandan Sinha) Executive Director
+
+सहकारी बक विनियम विभाग ैं, कें द्रीय कायाालय, गारमेंट हाऊस 400018 -मबीबम ,िरली ,ॉि बासेंट मागा नए.,लहली मीलहल ,भारत फोि: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ममाल-: cgmdcbrco@rbi.org.in Department of Co-operative Banking Regulation, Central Office, Garment House, 1st Floor, Dr. Annie Besant Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmdcbrco@rbi.org.in <u>ह िंदी आसान ै, इसका प्रयोग बढ़ाइए—</u> चातािि : भारत य ररहिा बक द्िारा म ैं-माल, नाक, ॉसॉमॉस या फोि कएल का जररॉ ककस की भ व्यलक्त की जािकारी जैसा बक का खाता का ब्यौरा ैं, लासिना आदि िहीी माीग जात है। यह धि रखिा या िािा का प्रस्ताि भ िहीी करता है। ऐसा प्रस्तािों का ककस भ तरीका सा जिाब मत िीलजॉ। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

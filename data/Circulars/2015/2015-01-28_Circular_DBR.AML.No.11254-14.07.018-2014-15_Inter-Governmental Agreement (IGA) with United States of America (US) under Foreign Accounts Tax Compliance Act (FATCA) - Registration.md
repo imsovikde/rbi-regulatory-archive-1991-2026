@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2015_DBR_AML_No_11254_14_07_018_2014-15"
+title: "Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) - Registration"
+category: "Circulars"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FATCA431NT0115.PDF"
+pdf_sha256: "ecae4f2b48983ac571114dc81d4e28c74969ee045770419fe44b5f782136099a"
+md_sha256: "124f2e4516106e132598617b1ef33099c672c79d566f462231b4af72a848c140"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:23:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2015/2015-01-28_Circular_DBR.AML.No.11254-14.07.018-2014-15_Inter-Governmental%20Agreement%20%28IGA%29%20with%20United%20States%20of%20America%20%28US%29%20under%20Foreign%20Accounts%20Tax%20Compliance%20Act%20%28FATCA%29%20-%20Registration.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) - Registration
+
+<!-- PAGE 1 -->
+
+## RBI/2014-15/431 DBR.AML.No.11254/14.07.018/2014-15 January 28, 2015
+
+## The Chairmen of all RRBs
+
+## Madam/Dear Sir
+
+**Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA)- Registration**
+
+Please refer to our <u>circular DBR.AML.No.9644/14.07.018/2014-15 dated December</u> <u>30, 2014</u>, on the captioned subject.
+
+2. In partial modification to the above circular, it is clarified that those RRBs which do not have more than $175 million in assets on its balance sheet, and the RRB and any related entities, taken together, do not have more than $500 million in total assets on their consolidated or combined balance sheet are treated as Local Banks, i.e. ‘deemed compliant FFIs’ within the meaning of the Agreement provided that the asset test in paragraph 4 of III.B of Annex II of IGA. Such RRBs, therefore, need not register with United States – Internal Revenue Service (US IRS).
+3. RRBs, which have more than $175 million in assets on its balance sheet, and the RRB and any related entities, taken together, is more than $500 million in total Withdrawn assets on their consolidated or combined balance sheet and are authorised to open accounts or accept deposits from NRIs, however, are required to register with US IRS, obtain Global Intermediary Identification Number (GIIN) and comply with the requirements of FATCA.
+4. Accordingly, RRBs may take action appropriately and forward the GIIN number so obtained to the Reserve Bank immediately.
+5. Kindly acknowledge receipt of this circular. Yours faithfully, (Lily Vadera) Chief General Manager
+बैंक िं ग विनियमि विभाग, ें द्रीय ायाालय, ें द्रीय ायाालय भिि, 13ि िं मिंजिल, शहीद भगत स िंह मागा, मिंबई – 400 001 <u>फोि: 022-22701203, फै</u> ् <u>: 022-22701239, ई-मेल: cgmicdbr@rbi.org.in, िेब ाइट: www.rbi.org.in</u> Department of Banking Regulation, Central Office, Central Office Building, 13thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22701203, Fax : 022-22701239, E-mail : <u>cgmicdbr@rbi.org.in</u>, Website : <u>www.rbi.org.in</u> "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
