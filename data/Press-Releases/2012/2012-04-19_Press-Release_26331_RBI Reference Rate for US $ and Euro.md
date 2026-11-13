@@ -1,0 +1,43 @@
+---
+doc_id: "Press-Releases_2012_26331"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1674R0412.pdf"
+pdf_sha256: "9551dc54d064ff06e8f0eee38c157a9f47f54ef2572547da74f889a6e52e93e3"
+md_sha256: "26d5b6ced76f8f2967a7a71641aec28fd03f175b313bd7c5e966072e47a6185e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T17:59:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-04-19_Press-Release_26331_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## ेस काशनी PRESS RELEASE
+
+भारतीय रज़व बक **RESERVE BANK OF INDIA** संचार �वभाग**,** क ��� कायालय, एस.बी.एस.माग, मुंबई-400001 ________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website: www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u> April 19, 2012
+
+## RBI Reference Rate for US $ and Euro
+
+The Reserve Bank of India’s Reference Rate for the US dollar is `51.8930 and the Reference Rate for Euro is `68.0630 on April 19, 2012. The corresponding rates for the previous day (April 18, 2012) were `51.5035 and `67.5415 respectively. Based on the Reference Rate for the US dollar and middle rates of the cross-currency quotes, the exchange rates of GBP and JPY against the Rupee are given below:
+
+## Currency
+
+## Date
+
+||1 GBP|100 JPY|
+|---|---|---|
+|April 18, 2012|81.9884|63.31|
+|April 19, 2012|83.1845|63.65|
+
+**Note :** The SDR-Rupee rate will be based on the reference rate.
+
+## J.D. Desai
+
+Assistant Manager **Press Release** : **2011-2012/1674**
