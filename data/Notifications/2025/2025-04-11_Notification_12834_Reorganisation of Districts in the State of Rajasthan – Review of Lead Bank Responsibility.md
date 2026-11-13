@@ -1,0 +1,71 @@
+---
+doc_id: "Notifications_2025_12834"
+title: "Reorganisation of Districts in the State of Rajasthan – Review of Lead Bank Responsibility"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT25CA38902E30F7465FBF5005ADFD061761.PDF"
+pdf_sha256: "d365005a91bfa2cf4e46abeb5120721fef0328e73bc44b600552d70e3b8f7aa8"
+md_sha256: "c9e86cc2ac9dc296e510ce118ae47e418cf39a0e55c1f23f42b70c2817616273"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-11_Notification_12834_Reorganisation%20of%20Districts%20in%20the%20State%20of%20Rajasthan%20%E2%80%93%20Review%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reorganisation of Districts in the State of Rajasthan – Review of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ भारतीय रज़वर् बैंक ______________________ RESERVE BANK OF INDIA________________________ <u>www.rbi.org.in</u>
+
+RBI/2025-26/25 FIDD.CO.LBS.BC.No.05/02.08.001/2025-26 April 11, 2025
+
+The Chairman / Managing Director & Chief Executive Officer Lead Banks concerned
+
+Madam/ Dear Sir,
+
+## <u>Reorganisation of Districts in the State of Rajasthan – Review of Lead Bank Responsibility</u>
+
+The Government of Rajasthan had notified reorganisation of districts in the State vide
+
+Gazette Notifications Sr.P.9(21)Raj-1/2024-(1 to 9), all dated December 29, 2024.
+
+2. As nine districts have been merged into 12 existing districts, the lead bank responsibility notified in respect of these nine districts vide <u>circular FIDD.CO.LBS.BC.No.11</u> /02.08.001/2023-24 dated November 10, 2023 as follows, stands revoked:
+
+|Sr. No.|Districts (Erstwhile)|Lead Bank|District Working Code|
+|---|---|---|---|
+|1|Kekri|Bank of Baroda|01Z|
+|2|Shahpura|Bank of Baroda|02M|
+|3|Anupgarh|Punjab National Bank|01W|
+|4|Sanchore|State Bank of India|02L|
+|5|Neem ka Thana|State Bank of India|02J|
+|6|Gangapur City|Bank of Baroda|02E|
+|7|Dudu|UCO Bank|02C|
+|8|Jaipur (Rural)|State Bank of India|02D|
+|9|Jodhpur (Rural)|ICICI Bank|02G|
+
+व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, कें द्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014, मंबु ई -400001 Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai-1 टेल Tel:022-22601000 फै क् स ः 91-22-22621011/22610943/22610948 ई-मेल: <u>cgmincfidd@rbi.org.in</u> �हंद आसान है,इसका प्रयोग बढ़ाइए। “चेतावनी**:** �रज़वर् बकैं-द्वारा मेल डाक, एसएमएस या फोन कॉल के जरए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौ ैं रा, पासवडर् आ�द नहं मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् तावों का कसी भी तरके से जवाब मत दिजए।" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+3. The Lead Bank responsibilities of the following districts, which have been affected as a result of the reorganisation, have been reviewed and have been retained/modified as follows:
+
+|Sr. No|Present District|Lead Bank|District Working Code|Remarks|
+|---|---|---|---|---|
+|1|Ajmer|Bank of Baroda|510|Retained|
+|2|Tonk|Bank of Baroda|507|Retained|
+|3|Bhilwara|Bank of Baroda|508|Retained|
+|4|Bikaner|State Bank of India|520|Retained|
+|5|Sri Ganganagar|Punjab National Bank|518|Retained|
+|6|Jalore|State Bank of India|525|Retained|
+|7|Jhunjhunu|Bank of Baroda|515|Retained|
+|8|Sikar|Punjab National Bank|513|Retained|
+|9|Karauli|Bank of Baroda|519|Retained|
+|10|Sawai Madhopur|Bank of Baroda|506|Retained|
+|11|Jaipur|State Bank of India|500|Modified|
+|12|Jodhpur|ICICI Bank|530|Modified|
+
+4. There is no change in the Lead Banks of other districts in the state of Rajasthan. Yours sincerely, (Nisha Nambiar) Chief General Manager-in-Charge

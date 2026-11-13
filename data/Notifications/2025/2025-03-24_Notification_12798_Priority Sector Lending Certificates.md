@@ -1,0 +1,25 @@
+---
+doc_id: "Notifications_2025_12798"
+title: "Priority Sector Lending Certificates"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PSLC24032025CCC0651929684FA7AA161A1942D958EB.PDF"
+pdf_sha256: "0cead9136a12fbceaa8413de3786a75baff4d61e59d18dddc6b56b7b86acde65"
+md_sha256: "450c62625302a2813238af4635f9fd9f8c12dc300294f562d6d836a4ba089efc"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-03-24_Notification_12798_Priority%20Sector%20Lending%20Certificates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending Certificates
+
+<!-- PAGE 1 -->
+
+||Banks] subject.|RBI/2024-25/131 Madam/ Dear Sir, Please refer to|Chief Executive Officer|The Chairman / Managing Director/ [All Scheduled Commercial Banks|FIDD.CO.PSD.BC.No.12/04.09.001/2024-25 para||(v) of the FIDD.CO.Plan.BC.23/04.09.01/2015-16 dated April 07, 2016|भारतीय �रज़वर् बक RESERVE BANK OF INDIA (including Regional Rural Banks)/ Primary (Urban) Co-operative Banks/ Local Area Priority Sector Lending Certificates Annex to 2. The item at serial no. 2 of the table in the above para may be read as follows:|circular|March 24, 2025 RBI/2015-16/366/ on the captioned|
+|---|---|---|---|---|---|---|---|---|---|---|
+||S. No. 2.|Yours faithfully, (Nisha Nambiar)|PSLC-SF/MF|Type of PSLCs Chief General Manager-in-Charge िवीय समावेशन||farmers 3. Other contents of the circular shall remain the same.|Representing small/ marginal टेलीफोन:Tel No.: +912222601000/ फै क् स : +91-22-22621011/22610948/22610943 ईमेल:|PSL target और िवकास िवभाग,क �ीय कायार्लय, 10व मंिज़ल,क � ी य कायार्लय िब�ल्डंग,शहीद भगत �संह मागर्, Financial Inclusion and Development Department, Central Office,10th Flr, Central Office Building, Shahid Bhagat Singh Marg,Mumbai 400001 हंदी आसान है, इसका �योग बढ़ाइए|All eligible loans to Achievement of SF/MF sub-target,|Counting for Weaker Sections sub-target, NCF sub- target, agriculture target and overall मुंबई 400 001 cgmincfidd@rbi.org.in|
+|चेतावनी|:|�रज़वर् बक ारा -डाक,|मेल|||||एसएमएस या फोन कॉल के जरए कसी क भी व् यि�गत जानकारी जैसे बक के खाते का ब् यौरा, पासवडर् आद नह मांगी जाती है। यह धन रखने या देने का �स् ताव भी नह करता है। ऐसे स् ताव का कसी भी तरीके से जवाब मत दीिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|||

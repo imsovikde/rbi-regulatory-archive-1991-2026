@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2025_12797"
+title: "Review of Priority Sector Lending (PSL) Target – Urban Co-operative Banks (UCBs)"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI13007E38B1400B348A5807E941624DC0F87.PDF"
+pdf_sha256: "ca7d0b45b4e04b203aa59411eb365ca9d880f08f33b61e71cfbe99fcf9dcbc9a"
+md_sha256: "2eca966cd2e06e2688cf45586263c3e24bc14a7923aabe2773d2793736a7b215"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-03-24_Notification_12797_Review%20of%20Priority%20Sector%20Lending%20%28PSL%29%20Target%20%E2%80%93%20Urban%20Co-operative%20Banks%20%28UCBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Priority Sector Lending (PSL) Target – Urban Co-operative Banks (UCBs)
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2024-25/130 DOR.CRE.REC.69/07.10.002/2024-25 March 24, 2025
+
+Primary (Urban) Co-operative Banks other than Salary Earners’ Banks
+
+Madam / Dear Sir, **Review of Priority Sector Lending (PSL) Target – Urban Co-operative Banks** **(UCBs)**
+
+In terms of paragraph 3 of the <u>circular DOR (PCB).BPD.Cir No.10/13.05.000/2019-20</u> <u>dated March 13, 2020</u>, read with paragraph 2 of the <u>circular</u> <u>DOR.CRE.REC.18/07.10.002/2023-24 dated June 8, 2023</u>, UCBs are required to achieve an overall PSL target of 75 per cent of ANBC¹ or CEOBSE², whichever is higher, by FY2025-26, with interim targets of 60 per cent (FY2023-24) and 65 per cent (FY2024-25).
+
+2. On a review, it has been decided that the overall PSL target for UCBs shall stand revised, FY2024-25 onwards, to **60 per cent** of ANBC or CEOBSE, whichever is higher. The other provisions contained in the <u>circular</u> <u>DOR.CRE.REC.18/07.10.002/2023-24 dated June 8, 2023</u>, shall remain unchanged.
+3. Instructions contained in this circular supersede the extant relevant instructions as given in <u>Annex</u> to this circular. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager 1 Adjusted Net Bank Credit. 2 Credit Equivalent Amount of Off-balance Sheet Exposure. __________________________________________________________________ िविनयमन िवभाग, क � ी य
+
+||कायार्लय, क � ी य|कायार्लय|भवन, 12व/|13व मंिज़ल, शहीद|भगत �संह|मागर्, फोटर्,|मुंबई-400001|
+|---|---|---|---|---|---|---|---|
+||टेलीफोन/ Tel No: 22661602, 22601000|||फै क् स / Fax No: 022-2270 5691||||
+|Department of Regulation, Central Office, Central Office Building, 12||हंदी आसान है|, इसका �योग बढ़ाइए|/ 13 Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001||||
+
+th th
+
+<!-- PAGE 2 -->
+
+**Annex** – **Specific paragraphs of certain circulars that stand superseded**
+
+|Sr. No.|Circular|Date of Issue|Subject|
+|---|---|---|---|
+|1.|Provisions relating to June 8, 2023 overall PSL target contained in paragraph 2 of the circular DOR.CRE.REC.18 / 07.10.002/2023-24||Priority Sector Lending (PSL) targets / sub-targets and contribution against shortfall in achievement of PSL targets – Primary (Urban) Co-operative Banks (UCBs) - Extension of time|
+|2.|Provisions relating to March 13, overall PSL target contained in paragraph 3 of the circular DOR (PCB).BPD.Cir No.10/13.05.000/2019-20|2020|Limits on exposure to single and group borrowers/parties and large exposures and Revision in the target for priority sector lending – UCBs.|

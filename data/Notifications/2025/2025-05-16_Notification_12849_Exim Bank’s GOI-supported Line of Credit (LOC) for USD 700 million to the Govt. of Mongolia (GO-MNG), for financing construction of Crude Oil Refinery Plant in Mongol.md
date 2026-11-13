@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2025_12849"
+title: "Exim Bank’s GOI-supported Line of Credit (LOC) for USD 700 million to the Govt. of Mongolia (GO-MNG), for financing construction of Crude Oil Refinery Plant in Mongolia"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/37NT3C2BF84FCB57483DA25130C54759AB81.PDF"
+pdf_sha256: "bd3e4b7cf9ea34873c3688b28217034e6139440464b076cf120974fac9b246e7"
+md_sha256: "e920e400a36f056246c2817a00e9546d91e19f07a4f2edd2868dd2c23e93479c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-05-16_Notification_12849_Exim%20Bank%E2%80%99s%20GOI-supported%20Line%20of%20Credit%20%28LOC%29%20for%20USD%20700%20million%20to%20the%20Govt.%20of%20Mongolia%20%28GO-MNG%29%2C%20for%20financing%20construction%20of%20Crude%20Oil%20Refinery%20Plant%20in%20Mongol.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank’s GOI-supported Line of Credit (LOC) for USD 700 million to the Govt. of Mongolia (GO-MNG), for financing construction of Crude Oil Refinery Plant in Mongolia
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2025-2026/37
+
+A.P. (DIR Series) Circular No. 05/2025-26 May 16, 2025 All Category – I Authorised Dealer Banks Madam/Sir
+## Exim Bank’s GOI-supported Line of Credit (LOC) for USD 700 million
+
+## to the Govt. of Mongolia (GO-MNG), for financing construction of
+
+## Crude Oil Refinery Plant in Mongolia
+
+Export-Import Bank of India (Exim Bank) has entered into an agreement dated January 16, 2025, with the Government of Mongolia (GO-MNG), for making available to the latter, Government of India supported Line of Credit (LoC) of USD 700 Mn(USD Seven Hundred Million only) for financing construction of Crude Oil Refinery Plant in Mongolia.
+
+2. The export of eligible goods and services from India, as defined under the agreement, would be allowed, subject to their eligibility under the Foreign Trade Policy of the Government of India and whose purchase may be agreed to be financed by the Exim Bank under this agreement.
+3. The Agreement under the LoC is effective from May 06, 2025. Under the LoC, the last date for disbursement will be 48 months after scheduled completion date of the contract.
+4. Shipments under the LoC shall be declared in Export Declaration Form/Shipping Bill as per instructions issued by the Reserve Bank from time to time.
+5. No agency commission is payable for export under the above LoC. However, if required, the exporter may use his own resources or utilize balances in his Exchange Earners’ Foreign Currency Account for payment of commission in any foreign currency. Authorised Dealer (AD) Category- I banks may allow such remittance after realization of full eligible value of export, subject to compliance with the extant instructions for payment of agency commission.
+6. AD Category – I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain complete details of the LoC from the Exim Bank’s office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005 or from their website <u>www.eximbankindia.in</u>.
+
+<!-- PAGE 2 -->
+
+7. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+## Yours faithfully
+
+(N Senthil Kumar) Chief General Manager
+
+वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।

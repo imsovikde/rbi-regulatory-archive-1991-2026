@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2025_12837"
+title: "Circular - Migration to '.bank.in' domain"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2898A050AD36214AFAA5D63AC889B3FD4C.PDF"
+pdf_sha256: "1f33c843e30abfd6cb8ff1564ed190ee519b99ebafcd612b5faed846b0527ab5"
+md_sha256: "9daf65f264020d150ebcbd7e01e2588436967916d6f63c93be6bbeba05904605"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-22_Notification_12837_Circular%20-%20Migration%20to%20%27.bank.in%27%20domain.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Circular - Migration to '.bank.in' domain
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2025-26/28 CO.DIT.DCD.No.S81/01-71-110/2025-26 April 22, 2025
+
+All Commercial Banks All Primary (Urban) Co-operative Banks All State Co-operative Banks and District Central Co-operative Banks
+
+Dear Sir/Madam,
+
+## <u>Circular-Migration to '.bank.in' domain</u>
+
+Please refer to para 4 of the <u>Statement on Developmental and Regulatory Policies dated</u> <u>February 7, 2025</u>, on "Enhancing Trust in the Financial Sector through 'bank.in' and 'fin.in' domains" wherein the introduction of exclusive Internet Domain, ‘.bank.in’ for banks to combat the increased instances of fraud in digital payments was announced. This initiative is aimed at strengthening the cybersecurity framework and enhancing public confidence in digital banking and payment systems.
+
+2. It has now been decided to operationalise the ‘. bank.in’ domain for banks through the Institute for Development and Research in Banking Technology (IDRBT), which has been authorised by National Internet Exchange of India (NIXI), under the aegis of the Ministry of Electronics and Information Technology (MeitY), to serve as the exclusive registrar for this domain. Banks may contact IDRBT at <u>sahyog@idrbt.ac.in</u> to initiate the registration process. IDRBT shall guide the banks on various aspects related to application process and migration to new domain.
+3. All banks are advised to commence the migration of their existing domains to the ‘.bank.in’ domain and complete the process at the earliest and in any case, not later than October 31, 2025. Yours faithfully, (Shailendra Trivedi) Chief General Manager-in-Charge

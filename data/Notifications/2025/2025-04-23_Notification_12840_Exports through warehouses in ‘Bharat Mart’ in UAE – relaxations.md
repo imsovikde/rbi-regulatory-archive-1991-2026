@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2025_12840"
+title: "Exports through warehouses in ‘Bharat Mart’ in UAE – relaxations"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/03APDIR2304202563F1C840B9C445EC88ACE954E0CF1CD3.PDF"
+pdf_sha256: "633a88167e6ac3a341bf333a418da229099be6aaafd2cff56e027fff94a7825e"
+md_sha256: "0257b394146200967439b8b9e3d50dddfbf74dbd0bb53d72f915f7581e2f5ebf"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:45Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-23_Notification_12840_Exports%20through%20warehouses%20in%20%E2%80%98Bharat%20Mart%E2%80%99%20in%20UAE%20%E2%80%93%20relaxations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exports through warehouses in ‘Bharat Mart’ in UAE – relaxations
+
+<!-- PAGE 1 -->
+
+**बेटी बचाओ** **बेटी पढ़ाओ**
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2025-26/30
+
+A.P. (DIR Series) Circular No. 03 April 23, 2025 To, All Authorised Dealer Category-I banks Madam / Sir,
+## Exports through warehouses in ‘Bharat Mart’ in UAE – relaxations
+
+Attention of Authorised Dealer Category – I banks (AD banks) is invited to Clause (a) of Sub regulation 1 of Regulation 9 of Foreign Exchange Management (Export of Goods & Services) Regulations, 2015 {<u>Notification No. FEMA 23(R)/2015-RB</u>} and Para C.6 and
+
+C.13 of <u>Master Direction – Export of Goods & Services</u>.
+2. To facilitate export through warehouses in ‘Bharat Mart’, a multimodal logistics network based marketplace in United Arab Emirates (UAE) that will provide Indian traders, exporters, and manufacturers access to the markets in UAE as well as worldwide, it has been decided to provide the following relaxations:
+a) AD banks may allow exporters to realise and repatriate full export value of goods exported to ‘Bharat Mart’ within nine months from the date of sale of the goods from the warehouse.
+b) AD banks may allow the following without any pre-conditions, after verifying the reasonableness of the same:
+(i) Opening/hiring of a warehouse in ‘Bharat Mart’ by an Indian exporter with a valid Importer Exporter Code. (ii) Remittances by the Indian exporter for initial as well as recurring expenses for setup and continuing business operations of its offices.
+3. The above instructions shall come into force with immediate effect. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+िवदेशी मुद्रा िवभाग**,** कें द्रीय कायार्लय**,** 5वींमंिजल**,** अमर भवन**,** सर पी**.**एम**.**रोड**,** फोटर् मुंबई**-**400 001 Foreign Exchange Department, Central Office, 5thFloor, Amar Building, Sir P.M.Road, Fort, Mumbai – 400 001 <u>Telephone: (91-22) 22603000, Email Id – fedcotrade@rbi.org.in</u> **िहंदी आसान है**, **इसका प्रयोग बढाइए** चेतावनी : भारतीय रजवर् बैंक द्वारा ई-मेल**,** डाक**,** एसएमएस या फोन-कॉल के जरए िकसी की भी ���गत जानकारी जैसे बैंक के खाते का ौरा**,** पासवडर् आिद नहीं माँगी जाती है। यह धन रखने या देने का प्र�ाव भी नहीं करता है। ऐसे प्र�ावों का िकसी भी तरीके में जबाब मत दीिजए Caution: RBI never sends mails, SMSs or makes calls asking for personal information like banks account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers
+
+<!-- PAGE 2 -->
+
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(N. Senthil Kumar) Chief General Manager

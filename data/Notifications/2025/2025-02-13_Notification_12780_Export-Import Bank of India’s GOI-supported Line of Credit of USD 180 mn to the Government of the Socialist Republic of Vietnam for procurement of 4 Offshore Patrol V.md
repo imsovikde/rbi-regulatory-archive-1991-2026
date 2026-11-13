@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2025_12780"
+title: "Export-Import Bank of India’s GOI-supported Line of Credit of USD 180 mn to the Government of the Socialist Republic of Vietnam for procurement of 4 Offshore Patrol Vessels (OPV) in the Borrower’s Country"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/20APDIR1302202593BA8C9846644B3ABE1E902A8FC00DCA.PDF"
+pdf_sha256: "b899c8b081945680d10a3402d830cc9610817bbd59dfb91bd20a39b368a5b388"
+md_sha256: "471825f9371ca03ef05a1cdf35045ee0d93b868ba544d1638bda9822b4d30b46"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-02-13_Notification_12780_Export-Import%20Bank%20of%20India%E2%80%99s%20GOI-supported%20Line%20of%20Credit%20of%20USD%20180%20mn%20to%20the%20Government%20of%20the%20Socialist%20Republic%20of%20Vietnam%20for%20procurement%20of%204%20Offshore%20Patrol%20V.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Export-Import Bank of India’s GOI-supported Line of Credit of USD 180 mn to the Government of the Socialist Republic of Vietnam for procurement of 4 Offshore Patrol Vessels (OPV) in the Borrower’s Country
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI//2024-2025/113
+
+A.P. (DIR Series) Circular No. 20 February 13, 2025 All Category – I Authorised Dealer Banks Madam/Sir
+## Export-Import Bank of India’s GOI-supported Line of Credit of USD 180 mn to the
+
+## Government of the Socialist Republic of Vietnam for procurement of 4 Offshore Patrol
+
+## Vessels (OPV) in the Borrower’s Country
+
+Export-Import Bank of India (Exim Bank) has entered into an agreement dated July 31, 2024, with the Government of the Socialist Republic of Vietnam (GO-VNM), for making available to the latter, Government of India supported Line of Credit (LoC) of USD 180 mn (USD One Hundred Eighty Million Only) for procurement of 4 Offshore Patrol Vessels (OPV) in the Borrower’s Country. The export of eligible goods and services from India, as defined under the agreement, would be allowed subject to their eligibility under the Foreign Trade Policy of the Government of India and whose purchase may be agreed to be financed by the Exim Bank under this agreement.
+
+2. The Agreement under the LoC is effective from January 20, 2025. Under the LoC, the last date for disbursement will be 60 months after scheduled completion date of the project.
+3. Shipments under the LoC shall be declared in Export Declaration Form/Shipping Bill as per instructions issued by the Reserve Bank from time to time.
+4. No agency commission is payable for export under the above LoC. However, if required, the exporter may use his own resources or utilize balances in his Exchange Earners’ Foreign Currency Account for payment of commission in free foreign exchange. Authorised Dealer (AD) Category- I banks may allow such remittance after realization of full eligible value of export subject to compliance with the extant instructions for payment of agency commission.
+5. AD Category – I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain complete details of the LoC from the Exim Bank’s office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005 or from their website <u>www.eximbankindia.in</u>.
+
+<!-- PAGE 2 -->
+
+6. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+## Yours faithfully
+
+(N Senthil Kumar) Chief General Manager

@@ -1,0 +1,51 @@
+---
+doc_id: "Notifications_2025_12842"
+title: "Amendments to Directions - Compounding of Contraventions under FEMA, 1999"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT32487356046A734602A503A8CCF5B1BC33.PDF"
+pdf_sha256: "35e3d4ab696a4df0692cf32eb3fc4d80d048e21334ecf8db66b152dca9482fbc"
+md_sha256: "16905c8168eb44692e043556ce7a23a2b2ae662c6c8176b60d86ee33139f4402"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-24_Notification_12842_Amendments%20to%20Directions%20-%20Compounding%20of%20Contraventions%20under%20FEMA%2C%201999.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendments to Directions - Compounding of Contraventions under FEMA, 1999
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/FED/2025-26/32
+
+A.P. (DIR Series) Circular. No 04/2025-26 April 24, 2025 To, All Authorised Dealer Category-I banks and Authorised banks Madam / Sir,
+## Amendments to Directions-Compounding of Contraventions under FEMA,
+
+## 1999
+
+Attention of Authorised Dealer (AD) Category-I banks is invited to
+
+i. Directions for compounding of contraventions under FEMA, 1999, issued vide <u>A.P. (DIR Series) Circular No. 17/2024-25 dated October</u> <u>1, 2024</u> and ii. <u>Master Directions on compounding of contraventions under FEMA,</u> <u>1999, dated April 22, 2025</u>
+2. On a review, it is decided that the following clause shall be inserted as Para
+5.4.II.vi in aforementioned Master Directions. *“vi. Subject to satisfaction of the compounding authority, based on the nature of* *contravention, exceptional circumstances/ facts involved in case, and in wider public* *interest, the maximum compounding amount imposed may be capped at INR* *2,00,000/- for contravention of each regulation/ rule (applied in a compounding* *application) with respect to contraventions under row 5 of the above computation* *matrix.”*
+3. The aforesaid <u>Master Directions</u> shall accordingly be updated to reflect the above change.
+4. All AD Category-I banks and Authorised banks may bring the guidelines <u>contained in this circular to the notice of their constituents.</u> वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत
+Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।
+
+<!-- PAGE 2 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+5. The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and/or without prejudice to permissions/approval, if any, required under any other law.
+Yours faithfully,
+
+(Dr. Aditya Gaiha) Chief General Manager in Charge
+
+वदे शी मुद्रा वभाग**,** कें द्रय कायार्लय**,** कें द्रय कायार्लय भवन**,** शहद भगत स ंह मागर्**,** फोटर्**,** मुंबई**-400 001,** भारत Foreign Exchange Department, Central Office ,Central Office Building., Shahid Bhagat Singh Road, Fort, Mumbai-400 001, India टेलफोन/Tel. No.022-22601000 फै क् स /Fax No. 022- 22665330 अमर भवन फोन 022-22603000 फै क् स 22694935, ईमेल: <u>helpfed@rbi.org.in</u> �हंद में काम करना आसान है**,** इसका प्रयोग बढ़ाइए ।

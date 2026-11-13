@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2025_12844"
+title: "Dispensation of ₹100 and ₹200 denomination banknotes through ATMs"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI33280420255AF4C117DD2D4D2B89B4FB3B6F453A75.PDF"
+pdf_sha256: "79a32cb5eed7710947f078f60c430217303e74507f1ebbb5b02fcc588150fcf9"
+md_sha256: "d7344f7921cdc034765518233e8cd4264cc0f46368e7450c25bdea154bc4b4db"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-28_Notification_12844_Dispensation%20of%20%E2%82%B9100%20and%20%E2%82%B9200%20denomination%20banknotes%20through%20ATMs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Dispensation of ₹100 and ₹200 denomination banknotes through ATMs
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2025-26/33 DCM.RMMT.No.S312/20-02-001/2025-2026 April 28, 2025
+
+The Chairman / Managing Director/ Chief Executive Officer All Banks
+
+Madam / Dear Sir,
+
+## Dispensation of ₹100 and ₹200 denomination banknotes through ATMs
+
+As part of an endeavour towards enhancing public access to frequently used denominations of banknotes, it has been decided that all banks and White Label ATM Operators (WLAOs) shall ensure that their ATMs dispense ₹100 and ₹200 denomination banknotes on a regular basis as per following milestones:
+
+i. By September 30, 2025: 75% of all ATMs shall dispense either ₹100 or ₹200 denomination banknotes from at least one cassette. ii. By March 31, 2026: 90% of all ATMs shall dispense either ₹100 or ₹200 denomination banknotes from at least one cassette.
+## Yours faithfully
+
+(Suman Nath) Chief General Manager
+
+मुद्रा प्रबंध िवभाग, के ीय कायार्लय, चौथी मंिज़ल, अमर िब��ंग, सर पी. एम. मागर्, पो� बॉ� सं. 1379, मुंबई-400001(भारत) <u>फोन: +91-22-2260 3000 / 4000; फ़ै � : +91-22-2266 2442; ई-मेल: cgmincdcm@rbi.org.in</u> Department of Currency Management, Central Office, 4th Floor, Amar Building, Sir P. M. Road, Post Box No.1379, Mumbai – 400 001(India); Tel: +91-22-2260 3000 / 4000; Fax: +91-22-2266 2442; E-mail: <u>cgmincdcm@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए।

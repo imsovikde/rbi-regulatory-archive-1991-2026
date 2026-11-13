@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2025_12761"
+title: "Participation of NaBFID as an AIFI in financial markets"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1010101202527AE5FFA3B6C464AAECBC93D82779915.PDF"
+pdf_sha256: "14b7e40bef58604f6a40a1622340285db339e76000e10d9e9c5cb45273ed0670"
+md_sha256: "a96ab8af898338559597bf9bb549a581da183731ddd18d01c5bff702b78c9d43"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-01-01_Notification_12761_Participation%20of%20NaBFID%20as%20an%20AIFI%20in%20financial%20markets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Participation of NaBFID as an AIFI in financial markets
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2024-25/101 FMRD.DIRD.No.09/14.03.004/2024-25 January 01, 2025
+
+To
+
+### All eligible market participants
+
+Madam/Sir,
+
+### Participation of NaBFID as an AIFI in financial markets
+
+Please refer to the <u>press release dated March 09, 2022</u> wherein it was communicated that the National Bank for Financing Infrastructure and Development (NaBFID) shall be regulated and supervised as an All-India Financial Institution (AIFI) by the Reserve Bank under Sections 45L and 45N of the Reserve Bank of India Act, 1934 and the <u>Master Direction-Reserve Bank of India (Prudential Regulations on Basel III Capital</u> <u>Framework, Exposure Norms, Significant Investments, Classification, Valuation and</u> <u>Operation of Investment Portfolio Norms and Resource Raising Norms for All India</u> <u>Financial Institutions) Directions, 2023 dated September 21, 2023</u> which specify that AIFIs can undertake credit default swap and repo transactions, in terms of <u>Master</u> <u>Direction – Reserve Bank of India (Credit Derivatives) Directions, 2022</u> and the <u>Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018</u>, as amended from
+
+# This Direction has been superseded
+
+time to time.
+
+2. In this regard, the following Directions have been updated, as attached, to amply clarify that NaBFID is permitted to participate as an AIFI in financial markets regulated by the Reserve Bank:
+(i) <u>Master Direction – Reserve Bank of India (Credit Derivatives) Directions, 2022</u>; and (ii) <u>Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 (Updated</u> <u>as on November 28, 2019)</u>.
+3. The Directions shall be applicable with immediate effect.
+वत्तीय बाज़ार वनयमन वभाग,कें द्रय कायार्लय भवन, नौवीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000, ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, e-mail-<u>cgmfmrd@rbi.org.in</u> �हन्द आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+4. The Directions contained in this circular have been issued in exercise of the powers conferred under section 45W of the Reserve Bank of India Act, 1934 read with section 45U of the Act and of all the powers enabling it in this behalf.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+superseded been
+
+has
+
+# Direction This

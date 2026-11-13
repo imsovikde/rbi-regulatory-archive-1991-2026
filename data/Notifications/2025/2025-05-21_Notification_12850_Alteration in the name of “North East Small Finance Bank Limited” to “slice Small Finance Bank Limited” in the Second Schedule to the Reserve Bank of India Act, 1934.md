@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2025_12850"
+title: "Alteration in the name of “North East Small Finance Bank Limited” to “slice Small Finance Bank Limited” in the Second Schedule to the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI38210520250267EEAA9BC64BFFA6538B1699BCCC37.PDF"
+pdf_sha256: "b99b713d0829f8132b0c7354599b4f338faef27a62f7ebbbb45a0169d0d1a8ed"
+md_sha256: "3b67e33a5dd8212ba5c50fee4706492d4b5edfface002913e4dd11ebfe15a490"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-05-21_Notification_12850_Alteration%20in%20the%20name%20of%20%E2%80%9CNorth%20East%20Small%20Finance%20Bank%20Limited%E2%80%9D%20to%20%E2%80%9Cslice%20Small%20Finance%20Bank%20Limited%E2%80%9D%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Alteration in the name of “North East Small Finance Bank Limited” to “slice Small Finance Bank Limited” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2025-26/38 DoR.RET.REC.20/12.07.160/2025-26 May 21, 2025
+
+All Banks,
+
+Madam / Sir,
+
+## Alteration in the name of “North East Small Finance Bank Limited” to “slice Small
+
+## Finance Bank Limited” in the Second Schedule to the Reserve Bank of India Act, 1934
+
+It is advised that the name of “North East Small Finance Bank Limited” has been changed to “slice Small Finance Bank Limited” in the Second Schedule to the Reserve Bank of India Act, 1934 by Notification DoR.LIC.No.S1134/16.13.216/2025-26 dated May 14, 2025, which is published in the Gazette of India (Part III-Section 4) dated May 16, 2025.
+
+Yours faithfully,
+
+(Manoranjan Padhy) Chief General Manager
+
+________________________________________________________________________________________________________________________________________________________ िविनयमन िवभाग, कें द्र ी य कायार्लय, 12वीं और 13वीं मंिज़ल, नरीमन भवन, नरीमन पॉइं ट, मुंबई 400021 Department of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 <u>बैंक िहंदी में पत्राचार का ागत करता है</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds <u>to anyone. Please do not respond in any manner to such offers.</u>

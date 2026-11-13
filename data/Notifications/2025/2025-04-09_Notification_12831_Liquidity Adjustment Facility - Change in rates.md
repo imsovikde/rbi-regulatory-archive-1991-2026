@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2025_12831"
+title: "Liquidity Adjustment Facility - Change in rates"
+category: "Notifications"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT22F0043801856F4224B0165DC873C2C97A.PDF"
+pdf_sha256: "dad87fdbd67ff1f8f3c79541eefae55c45531741af1adfe5986bd3185e534f90"
+md_sha256: "78b35e9ba3a84c59707e241d005009ac163bf2d9ea65eb7faf3fef68e49d0a82"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:08:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-09_Notification_12831_Liquidity%20Adjustment%20Facility%20-%20Change%20in%20rates.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility - Change in rates
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक RESERVE BANK OF INDIA
+
+RBI/2025-26/22 FMOD.MAOG.No.151/01.01.001/2025-26 April 09, 2025
+
+## All Liquidity Adjustment Facility (LAF) participants
+
+Madam/Sir,
+
+## Liquidity Adjustment Facility-Change in rates
+
+As announced in the <u>Monetary Policy Statement dated April 09, 2025</u>, it has been decided by the Monetary Policy Committee (MPC) to reduce the policy repo rate under the Liquidity Adjustment Facility (LAF) by 25 basis points from 6.25 per cent to **6.00 per cent** with immediate effect.
+
+2. Consequently, the standing deposit facility (SDF) rate and marginal standing facility (MSF) rate stand adjusted to 5.75 per cent and 6.25 per cent respectively, with immediate effect.
+3. All other terms and conditions of the extant LAF Scheme will remain unchanged.
+Yours sincerely,
+
+## (G. Seshsayee)
+
+Chief General Manager
+
+िवीय बाजार परचालन िवभाग ,क � ी य कायार्लय ,पहली मंिजल, मुख्य भवन, शहीद भगत संह मागर्,फोटर्, मुंबई - 400 001 <u>फोन : 022-22610642, फै क् स : 022-22630981 ,ईमेल: cgmfmod@rbi.org.in</u> Financial Markets Operations Department, Central Office, First Floor, Main Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel: (022)- 22610642, Fax: 022-22630981, E-mail: <u>cgmfmod@rbi.org.in</u> हंदी आसान है ,इसका �योग बढ़ाइए
