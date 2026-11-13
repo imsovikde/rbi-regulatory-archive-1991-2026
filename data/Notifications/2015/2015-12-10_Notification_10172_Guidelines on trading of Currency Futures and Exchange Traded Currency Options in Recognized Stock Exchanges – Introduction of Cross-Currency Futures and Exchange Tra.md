@@ -1,0 +1,117 @@
+---
+doc_id: "Notifications_2015_10172"
+title: "Guidelines on trading of Currency Futures and Exchange Traded Currency Options in Recognized Stock Exchanges – Introduction of Cross-Currency Futures and Exchange Traded Option Contracts"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDBCDEC1B7F4A4487095CC9900E2B2791A.PDF"
+pdf_sha256: "1da406830734738bf59b2620139148d1e632cdf11a1623bc80f3761bfd025118"
+md_sha256: "0bc17e812e404233993ce65d5196c129d726a026c333d5fb6b13c31357db4742"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-12-10_Notification_10172_Guidelines%20on%20trading%20of%20Currency%20Futures%20and%20Exchange%20Traded%20Currency%20Options%20in%20Recognized%20Stock%20Exchanges%20%E2%80%93%20Introduction%20of%20Cross-Currency%20Futures%20and%20Exchange%20Tra.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on trading of Currency Futures and Exchange Traded Currency Options in Recognized Stock Exchanges – Introduction of Cross-Currency Futures and Exchange Traded Option Contracts
+
+<!-- PAGE 1 -->
+
+## Reserve Bank of India
+
+## Financial Markets Regulation Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+RBI/2015-16/267 December 10, 2015
+
+A.P. (DIR Series) Circular No. 35 To All Authorised Dealer Category-I Banks Madam / Sir, **Guidelines on trading of Currency Futures and Exchange Traded Currency Options in** **Recognized Stock Exchanges – Introduction of Cross-Currency Futures and Exchange** **Traded Option Contracts** Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (<u>Notification No. FEMA. 25/RB-2000 dated May 3, 2000</u>), as amended from time to time, the Currency Futures (Reserve Bank) Directions, 2008 dated August 6, 2008 and Exchange Traded Currency Options (Reserve Bank) Directions, 2010 dated July 30, 2010 as amended from time to time and also <u>A.P. (DIR Series) circular No. 147</u> and <u>circular no.</u> <u>148 both dated June 20, 2014</u>, as amended from time to time, in terms of which persons resident in India and persons resident outside India viz., foreign portfolio investors (FPIs) are permitted to participate in the currency futures and exchange traded currency options market in India subject to the terms and conditions mentioned in the aforementioned notifications and guidelines, ibid.
+2. Currently market participants, i.e., residents and eligible non-resident market participants are permitted to trade in US Dollar (USD) - Indian Rupee (INR), Euro (EUR)-INR, Pound Sterling (GBP)-INR and Japanese Yen (JPY)-INR currency futures contracts and USD-INR currency option contract in recognized stock exchanges. In order to enable direct hedging
+
+<!-- PAGE 2 -->
+
+of exposures in foreign currencies and facilitate execution of cross-currency strategies by market participants, it has been decided, as announced in the <u>Fourth Bi-monthly Monetary</u> <u>Policy Statement 2015-16 (Para 38)</u>, to permit the recognized stock exchanges to offer cross-currency futures contracts and exchange traded option contracts in the currency pairs of EUR-USD, GBP-USD and USD-JPY. Recognised stock exchanges are also permitted to offer exchange traded currency option contracts in EUR-INR, GBP-INR and JPY-INR in addition to the existing USD-INR option contract, with immediate effect.
+
+3. Accordingly, the Notifications No.FMRD.1 / ED (CS) - 2015 dated December 10, 2015 and No. FMRD. 2/ ED (CS) – 2015 dated December 10, 2015 viz. Currency Futures (Reserve Bank) (Amendment) Directions, 2015 and Exchange Traded Currency Options (Reserve Bank) (Amendment) Directions, 2015 amending the Directions notified vide <u>Notification</u> <u>No.FED.1/DG (SG) – 2008 dated August 6, 2008</u> and <u>Notification No. FED.1 / ED (HRK) - 2010</u> <u>dated July 30, 2010</u> respectively have been issued. Copies of the Directions are enclosed (Annexes I & II).
+4. Market Participants, i.e., residents and FPIs, are allowed to take positions in the cross- currency futures and exchange traded cross-currency option contracts without having to establish underlying exposure subject to the position limits as prescribed by the exchanges.
+5. The existing position limits of USD 15 million for USD-INR contracts and USD 5 million for non USD-INR contracts, all put together, per exchange, for residents and FPIs, without having to establish underlying exposure, shall remain unchanged. The hedging procedure for residents as laid down in <u>A.P. (DIR Series) Circular No. 147 dated June 20, 2014</u> and for FPIs as laid down in A.P. (DIR Series) Circular No. 148 dated June 20, 2014 shall also remain unchanged. A summary of the position limits is provided in the Table given in Annex III.
+6. AD Category-I banks may undertake trading in all permitted exchange traded currency derivatives within their Net Open Position Limit (NOPL) subject to limits stipulated by the exchanges (for the purpose of risk management and preserving market integrity) provided that any synthetic USD-INR position created using a combination of exchange traded FCY-
+
+<!-- PAGE 3 -->
+
+INR and cross-currency contracts shall have to be within the position limit prescribed by the exchange for the USD-INR contract.
+
+7. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+8. The above Directions have been issued under Section 45W of the Reserve Bank of India Act, 1934 and this circular has been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(R Subramanian) Chief General Manager
+
+<!-- PAGE 4 -->
+
+Annex I to A.P. (DIR Series) Circular No. 35 dated December 10, 2015
+
+## Currency Futures (Reserve Bank) (Amendment) Directions, 2015 Notification No. FMRD. 1/ED(CS)-2015 dated December 10, 2015
+
+The Reserve Bank of India having considered necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of its powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby gives the following directions to all the persons dealing in currency futures.
+
+## 1. Short title and commencement of the directions
+
+These Directions may be called the Currency Futures (Reserve Bank) (Amendment) th Directions, 2015 and they shall come into force with effect from December 10, 2015.
+
+## 2. Amendment to Currency Futures (Reserve Bank) Directions, 2008
+
+(ii) In paragraph 4,
+
+(a) the existing clause (a), shall be substituted by: “(a) Foreign Currency-Indian Rupee contracts, viz. USD-INR, EUR-INR, GBP- INR and JPY-INR and Cross Currency contracts (not involving the Indian Rupee), viz. EUR-USD, GBP-USD and USD-JPY are allowed to be traded.”
+(b) the existing clause (b), shall be substituted by: “(b) The size of the USD-INR and USD-JPY contracts shall be USD 1000, of EUR-INR and EUR-USD contracts shall be EUR 1000, of GBP-INR and GBP-USD contracts shall be GBP 1000 and JPY-INR contract shall be JPY 100,000.”
+(c) the existing clause (c), shall be substituted by: “(c) All Foreign Currency-INR contracts shall be quoted and settled in Indian Rupees. EUR-USD and GBP-USD cross currency contracts shall be quoted in USD and USD-JPY contract shall be quoted in JPY. All cross currency contracts shall be settled in Indian Rupees as per the method approved by Reserve Bank.”
+(d) the existing clause (e), shall be substituted by: “(e) The settlement price for USD-INR shall be the Reserve Bank’s Reference Rate and for Euro-INR, GBP-INR and JPY-INR contracts shall be the exchange
+
+<!-- PAGE 5 -->
+
+rates published by the Reserve Bank in its press release on the last trading day. The settlement price in Indian Rupees of the cross-currency contracts shall be computed using the Reserve Bank’s USD-INR Reference Rate and the corresponding exchange rate published by Reserve Bank for EUR-INR, GBP- INR and JPY-INR on the last trading day.”
+
+(Chandan Sinha) Executive Director
+
+<!-- PAGE 6 -->
+
+Annex II to A.P. (DIR Series) Circular No. 35 dated December 10, 2015
+
+## Exchange Traded Currency Options (Reserve Bank) (Amendment) Directions, 2015
+
+## Notification No. FMRD. 2 /ED(CS)-2015 dated December 10, 2015
+
+The Reserve Bank of India having considered necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of its powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby gives the following directions to all the persons dealing in currency futures.
+
+## 1. Short title and commencement of the directions
+
+These directions may be called the Exchange Traded Currency Options (Reserve Bank) (Amendment) Directions, 2015 and they shall come into force with effect from December th 10, 2015.
+
+## 2. Amendment to Exchange Traded Currency Options (Reserve Bank) Directions, 2010
+
+(i) In para 3, for sub-para (i) the following shall be substituted: “Currency option contracts are permitted in USD-INR spot rate, EUR-INR spot rate GBP-INR spot rate and JPY-INR spot rate. Cross currency option contracts (not involving the Indian Rupee) are permitted in EUR-USD spot rate, GBP-USD spot rate and the USD-JPY spot rate.” (ii) In para 4,
+(a) for sub-para (a), the following shall be substituted: “(a) The underlying for the currency option shall be the spot rate of the corresponding permitted currency pair.”
+(b) for sub-para (c), the following shall be substituted: “(c) The size of the USD-INR and USD-JPY contracts shall be USD 1000, of EUR-INR and EUR-USD contracts shall be EUR 1000, of GBP-INR and GBP- USD contracts shall be GBP 1000 and JPY-INR contract shall be JPY 100,000.”
+(c) for sub-para (d), the following shall be substituted: “(d) The premium for all contracts involving the Indian Rupee shall be quoted in Indian Rupees. The premium for EUR-USD and GBP-USD contracts shall be quoted in USD and for USD-JPY contract shall be quoted in JPY. For cross currency contracts the premium shall be payable in Indian Rupees based on the USD-INR Reference Rate or the corresponding exchange rates published by Reserve Bank. The
+
+<!-- PAGE 7 -->
+
+outstanding position shall be in USD for USD-INR and USD-JPY contracts, in Euro for EUR-INR and EUR-USD contracts and in GBP for GBP-INR and GBP-USD contracts.”
+
+(d) for sub-para (g), the following shall be substituted: “(g) The settlement price for USD-INR option contract shall be the Reserve Bank’s Reference Rate and for Euro-INR, GBP-INR and JPY-INR contracts shall be the exchange rates published by the Reserve Bank in its press release on the expiry date of the contract. The settlement price in Indian Rupees of the cross-currency contracts shall be computed using the Reserve Bank’s USD-INR Reference Rate and the corresponding exchange rate published by Reserve Bank for EUR-INR, GBP-INR and JPY- INR on the expiry date of the contract.”
+(Chandan Sinha) Executive Director
+
+<!-- PAGE 8 -->
+
+Annex III to A.P. (DIR Series) Circular No. 35 dated December 10, 2015
+
+## Position Limits for market participants in the Exchange Traded Currency Derivatives
+
+|Type of market participant|Position limit for FCY-INR contracts (both futures and options)|Position limit for cross-currency contracts (both futures and options)|
+|---|---|---|
+|Clients and Foreign Portfolio Investors (FPIs) AD Cat-I bank trading members|USD 15 million for USD-INR pair and USD 5 million for EUR-INR, GBP-INR and JPY-INR, for all pairs put together, per exchange, across all contracts for positions taken without establishing underlying exposure. For hedging underlying exposures, participants may take positions in either FCY-INR contracts or in combination with cross-currency contracts up to the underlying exposure and as per limits specified by the exchanges in terms of the guidelines stipulated in A.P. th (DIR Series) Circulars No. 147 dated June 20, 2014 and st No. 90 dated March 31, 2015 for residents and A.P. th (DIR Series) Circular No. 148 dated June 20, 2014 for FPIs. As per the position limits specified by the exchanges subject to the Net Open Position Limit (NOPL) and Aggregate Gap Limits (AGL) in terms of A.P. (DIR Series) Circular No. 86 dated March 1, 2013. Further, any synthetic USD-INR position created using a combination of exchange traded FCY-INR and cross-currency contracts shall have to be within the position limit prescribed by the exchange for the USD-INR contract.|As per the limits specified by the exchanges without having to establish underlying exposure.|

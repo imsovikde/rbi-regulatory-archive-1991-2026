@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2015_10170"
+title: "When Issued transactions in Central Government Securities"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/N26515780854C8BD4B98B202DCC8216BFE08.PDF"
+pdf_sha256: "db04634bb18d58a7eed5c9eb31c0aa779b1e012b5a626ddb3b16d855748c6ec4"
+md_sha256: "4f7d30fe9c64fde9ecfc2d077b40b4d3e0002bc8d21230516421be79507214eb"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-12-10_Notification_10170_When%20Issued%20transactions%20in%20Central%20Government%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# When Issued transactions in Central Government Securities
+
+<!-- PAGE 1 -->
+
+## This circular has been superseded by When Issued Transactions (Reserve Bank)
+
+## <u>Directions, 2018 dated July 24, 2018</u>.
+
+RBI/2015-16/265 FMRD.DIRD.06/14.03.07/2015-16 December 10, 2015
+
+## All NDS-OM Members
+
+## When Issued transactions in Central Government Securities
+
+A reference is invited to the RBI <u>circular IDMD.No/3426/11.01.01 (D)/2005-06 dated May 3,</u> <u>2006</u>, as updated vide <u>circulars IDMD.No/2130/11/01.01 (D)/2006-07 dated November 16,</u> <u>2006</u> and <u>IDMD.DOD.No.3166/11/01. 01(B)/2007-08 dated January 1, 2008</u>.
+
+2. In terms of announcement made in <u>paragraph 35</u> of the Fourth Bi-monthly Monetary Policy Statement, 2015-16 announced on September 29, 2015, it has been decided to permit the scheduled commercial banks to take short positions in the “When Issued” (WI) market for both new and reissued securities. It has also been decided to permit other eligible entities viz., mutual funds, insurance companies, pension funds, housing finance companies, NBFCs and UCBs to take long position in the ‘WI’ market.
+3. Accordingly, the open position limits in the WI market have been revised and will be subject to the following limits both in case of new securities as well as reissued securities:
+
+|Category||Limits|
+|---|---|---|
+||Long|Short|
+|Primary Dealers and scheduled commercial banks|No limits|Not exceeding 5 per cent of the notified amount|
+|Other eligible entities|No Limits|Not Permitted|
+
+4. Further, aggregate net short positions (sum of all net short positions across all entities) in a new security will be capped at 90% of the notified amount and the same will be monitored on NDS-OM.
+
+<!-- PAGE 2 -->
+
+5. In case an entity with a net short position is unable to deliver securities after the auction on the settlement date, the transaction will be settled as per the default settlement mechanism of CCIL.
+6. The requirement of reporting WI transactions on a daily basis stands discontinued. All other terms and conditions prescribed in the circulars, *ibid*, remain unchanged.
+7. The above changes would be subject to review.
+Yours faithfully (R. Subramanian) Chief General Manager

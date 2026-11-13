@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2015_10131"
+title: "Implementation of UNSCR 2140(2014) and 2216(2015) pertaining to Yemen"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/YEMENE4D74B512A04444B9B0BB6C034F89ECF.PDF"
+pdf_sha256: "110e44455133cfeafa10de0387f29028e10181a963dfa7ae82ca2c4f9477e0aa"
+md_sha256: "2d80ad55a0cd4d138bee451020a94f299a2a46d956a3990c6f7f3004930a823e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-11-20_Notification_10131_Implementation%20of%20UNSCR%202140%282014%29%20and%202216%282015%29%20pertaining%20to%20Yemen.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of UNSCR 2140(2014) and 2216(2015) pertaining to Yemen
+
+<!-- PAGE 1 -->
+
+**RBI/2015-16/243** **DBR.AML.No.6912/ 14.06.001/ 2015-16 November 20, 2015** **The Chairpersons/ CEOs of all Scheduled Commercial Banks/ Regional Rural** **Banks/ Local Area Banks/All India Financial Institutions/ all NBFCs/ All Primary** **(Urban) Co-operative Banks /State and Central Co-operative Banks (StCBs /** **CCBs) /All Payment System Providers/ System Participants and Prepaid** **Payment Instrument Issuers/ All authorised persons including those who are agents of Money Transfer Service Scheme**
+
+Dear Sir/ Madam,
+
+## Implementation of UNSCR 2140( 2014) and 2216(2015) pertaining to Yemen
+
+Please find <u>enclosed</u> a copy of the ‘Order’ issued by Ministry of External Affairs dated September 21, 2015 published in the Gazette of India on implementation of United Nations Security Council Resolution 2140 (2015) and 2216 (2015) on Yemen as received from Government of India.
+
+2. Regulated Entities (REs) may take note of the gazette notification and the list of individuals/entities as established and maintained by committee pertaining to UNSC Resolution 2140 and 2216 (2015) given in the schedule of the gazette notification and ensure compliance with the above notification issued by the Government of India Yours faithfully, (Lily Vadera) Chief General Manager Encl.: as above
+बकं ग व�नयमन वभाग, क द्रय कायार्लय, क द्रय कायार्लय भवन, 13वीं मंिजल, शहद भगत संह मागर्, मुंबई – 400 001 <u>फोन: 022-22701203, फ ै क् स : 022-22701239, ईमेल-: cgmaml@rbi.org.in, वेबसाइट: www.rbi.org.in</u> Department of Banking Regulation, Central Office, Central Office Building, 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22701203, Fax : 022-22701239, E-mail : <u>cgmaml@rbi.org.in</u>, Website : www.rbi.org.in "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."

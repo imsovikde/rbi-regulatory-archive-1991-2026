@@ -1,0 +1,56 @@
+---
+doc_id: "Notifications_2015_10166"
+title: "Fourth Bi-monthly Monetary Policy Statement, 2015-16 – SLR Holdings under Held to Maturity Category"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/N261A89BD3CA8DBC43D6A2033814187E8B9F.PDF"
+pdf_sha256: "c759bca35175ecf29f7c852b335c0a6d309385465fb0b2d9e8a343245a906c76"
+md_sha256: "f9f02f49912d7e7d97baeb3b9c3a1c5c8be93d14f5402279306528c150cfcda5"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-12-10_Notification_10166_Fourth%20Bi-monthly%20Monetary%20Policy%20Statement%2C%202015-16%20%E2%80%93%20SLR%20Holdings%20under%20Held%20to%20Maturity%20Category.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Fourth Bi-monthly Monetary Policy Statement, 2015-16 – SLR Holdings under Held to Maturity Category
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021.
+
+## RBI/2015-16/261 DBR.No.BP.BC.65 /21.04.141/2015-16 December 10, 2015
+
+## All Commercial Banks
+
+Dear Sir, **Fourth Bi-monthly Monetary Policy Statement, 2015-16 –** <u>SLR Holdings under Held to Maturity Category</u>
+
+In terms of our <u>circular DBOD.No.BP.BC.42/21.04.141/2014-15 dated</u> <u>October 7, 2014</u> and also, <u>RPCD.CO.RRB.BC 34/03.05.33/2014-15 dated October</u> <u>20, 2014</u> on ‘Fourth Bi-monthly Monetary Policy Statement, 2014-15 – SLR Holdings under Held to Maturity Category’, all banks (including Regional Rural banks) are permitted to exceed the limit of 25 per cent of total investments under HTM category provided (a) the excess comprises only of SLR securities, and (b) the total SLR securities held in the HTM category are not more than 23.50 per cent of their NDTL with effect from January 10, 2015, 23.0 per cent with effect from April 4, 2015, 22.5 Withdrawn per cent with effect from July 11, 2015 and 22.0 per cent with effect from September 19, 2015.
+
+2. The SLR was reduced to 21.50 per cent of NDTL with effect from February 7,
+2015. Further, as announced in the Fourth Bi-monthly Monetary Policy Statement, 2015-16 on September 29, 2015 (extract enclosed), it has been decided to progressively bring down the SLR by 0.25 per cent every quarter till March 31, 2017 and concurrently reduce the abovementioned ceiling on SLR holdings under HTM in alignment with the SLR requirement.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- बकं ग व�नयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत स ंह मागर्, मुंबई 400001 टे लफोन /Tel No: 22661602, 22601000 फै क् स /Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Banking Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai – 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692
+
+<!-- PAGE 2 -->
+
+3. Accordingly, in order to align the ceiling on SLR holdings under HTM category with the mandatory SLR, it is advised that banks are permitted to exceed the limit of 25 per cent of total investments under HTM category provided:
+a. the excess comprises only of SLR securities, and
+b. the total SLR securities held under the HTM category are not more than
+- 21.50 per cent from January 9, 2016
+- 21.25 per cent from April 2, 2016;
+- 21.00 per cent from July 9, 2016;
+- 20.75 per cent from October 1, 2016;
+- 20.50 per cent from January 7, 2017.
+4. As per extant instructions, banks may shift investments to/from HTM with the approval of the Board of Directors once a year and such shifting will normally be allowed at the beginning of the accounting year. In order to enable banks to shift their excess SLR securities from the HTM category to AFS/HFT to comply with instructions as indicated in paragraph 3 above, it has been decided to allow such shifting of the excess securities, as also direct sale from HTM category, at the beginning of every quarter when the HTM ceiling is brought down. This would be in addition to the shifting permitted at the beginning of the aWithdrawnccounting year, i.e., in the month of April. Such transfer to AFS/HFT category as well as sale of securities from HTM category, to the extent required to reduce the SLR securities in HTM category in accordance with the regulatory instructions, would be excluded from the 5 per cent cap prescribed for value of sales and transfers of securities to/from HTM category under paragraph 2.3 (ii) of the Master Circular on Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks.
+## Yours faithfully
+
+(Sudarshan Sen) Principal Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Extract from Fourth Bi-monthly Monetary Policy Statement 2015-16 announced on September 29, 2015
+
+25. Banks are permitted to hold investments under the HTM category in excess of the limit of 25 per cent of their total investments, provided the excess comprises only SLR securities and the total SLR securities held under the HTM category are not more than 22 per cent of NDTL. The SLR has been reduced to 21.50 per cent of NDTL with effect from February 7, 2015. To align them, it has been decided to bring down the ceiling on SLR securities under HTM from 22 per cent to 21.50 per cent with effect from the fortnight beginning January 9, 2016. Thereafter, both the SLR and the HTM ceiling will be brought down by 0.25 per cent every quarter till March 31, 2017.
+# Withdrawn
