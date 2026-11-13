@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2014_8840"
+title: "Differential Rate of Interest for Micro and Small Enterprises (MSEs)"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DCDR15042014.pdf"
+pdf_sha256: "28dda123618188e509c93746a83e2d93a6bdc65be9b340b0ea1bbaa895ab8803"
+md_sha256: "cedffd7244d9ea74c931c066b4cfade470c1d506e29103a5e490aaa6da79338b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-04-15_Notification_8840_Differential%20Rate%20of%20Interest%20for%20Micro%20and%20Small%20Enterprises%20%28MSEs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Differential Rate of Interest for Micro and Small Enterprises (MSEs)
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/564 DBOD.Dir.BC.No.106/13.03.00/2013-14 April 15, 2014
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+## Dear Sir / Madam
+
+## Differential Rate of Interest for Micro and Small Enterprises (MSEs)
+
+A reference is invited to <u>part ‘B’ of the First Bi-monthly Monetary Policy Statement, 2014-15</u> <u>announced on April 1, 2014</u> wherein certain measures have been proposed to be adopted by banks in order to give a fillip to the flow of credit to micro and small enterprises (MSEs) borrowers.
+
+2. In this regard we advise that while pricing their loans to MSE borrowers, banks should take into account the incentives available to them in the form of the credit guarantee cover of the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) and the zero risk weight for capital adequacy purpose for the portion of the loan guaranteed by the CGTMSE and provide differential interest rate for such MSE borrowers, than the other borrowers. However, banks should note that such differential rate of interest is not below the Base Rate of the bank.
+3. Further, banks are advised to undertake a review of their loan policy governing extension of credit facilities to the MSE sector, with a view to using Board approved credit scoring models in their evaluation of the loan proposals of MSE borrowers.
+## Yours faithfully
+
+(Prakash Chandra Sahoo) Chief General Manager
+
+बैकं ग परचालन और वकास वभाग, क िय कायालय, 13 माला, शहद भगतिसंह माग, मुबई 400001 _____________________________________________________________________________________________________ th Department of Banking Operations and Development, Central Office, 13 floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 91-22-22601000 Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in हंद आसान है, इसका ूयोग बढ़ाइए

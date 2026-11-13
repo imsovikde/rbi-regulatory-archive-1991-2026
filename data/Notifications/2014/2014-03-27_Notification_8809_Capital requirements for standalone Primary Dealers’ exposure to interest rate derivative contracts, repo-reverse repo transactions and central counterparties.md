@@ -1,0 +1,243 @@
+---
+doc_id: "Notifications_2014_8809"
+title: "Capital requirements for standalone Primary Dealers’ exposure to interest rate derivative contracts, repo/reverse repo transactions and central counterparties"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CPDSD270314.pdf"
+pdf_sha256: "fb0995681481f684d1869749c926da336c77c2ee26af6179d8eb581ef9646ae8"
+md_sha256: "fd33b54b3c3e0f2b15c0000055b3489e143461b26fde01db42046bebedf8afa3"
+total_pages: 14
+native_pages: 14
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-03-27_Notification_8809_Capital%20requirements%20for%20standalone%20Primary%20Dealers%E2%80%99%20exposure%20to%20interest%20rate%20derivative%20contracts%2C%20repo-reverse%20repo%20transactions%20and%20central%20counterparties.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Capital requirements for standalone Primary Dealers’ exposure to interest rate derivative contracts, repo/reverse repo transactions and central counterparties
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/542 March 27, 2014 IDMD.PCD. 11 /14.03.05/ 2013-14 All Standalone Primary Dealers Dear Sir / Madam **Capital requirements for standalone Primary Dealers’ exposure to interest rate derivative contracts, repo/reverse repo transactions and central counterparties**
+
+Please refer to the Master Circular on Capital Adequacy Standards and Risk Management Guidelines for Standalone Primary Dealers issued vide <u>IDMD.PDRD. 02 /03.64.00/2013-14</u> <u>dated July 1, 2013</u>.
+
+2. The existing guidelines on capital charge for credit risk of standalone PDs’ exposure to interest rate derivative contracts, repo/reverse repo transactions and central counterparties have been reviewed. The revised guidelines are given in Annex.
+3. The revised guidelines will come into effect from April 1, 2014.
+4. All other guidelines prescribed in the Master Circular on Capital Adequacy Standards and Risk Management Guidelines for Standalone Primary Dealers issued on July 1, 2013 shall remain unchanged.
+Yours faithfully (K.K.Vohra) Pr. Chief General Manager
+
+## Encl: As above
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Capital requirements for standalone PDs’ exposure to interest rate derivative contracts,
+
+## repo transactions and central counterparties
+
+## 1. Capital Charge for Credit Risk of Interest Rate Derivative Contracts
+
+## 1.1 General
+
+The total risk weight for Interest Rate Derivative Contracts shall be calculated by means of a two-step process:
+
+(a) Compute counterparty credit exposure by converting the notional amount of the transaction into a credit equivalent amount by applying the current exposure method and
+(b) The resulting credit equivalent amount is multiplied by the risk weight applicable to the counterparty or the type of asset, whichever is higher.
+## 1.2 Current Exposure Method
+
+(i) The credit equivalent amount of interest rate derivative contracts calculated using the current exposure method is the sum of current credit exposure and potential future credit exposure of these contracts. (ii) Current credit exposure is defined as the sum of the positive mark-to-market value of these contracts. The Current Exposure Method requires periodical calculation of the current credit exposure by marking these contracts to market**,** thus capturing the current credit exposure. (iii) Potential future credit exposure is determined by multiplying the notional principal amount of each of these contracts, irrespective of whether the contract has a zero, positive or negative mark-to-market value, by the relevant add-on factor indicated below according to the nature and residual maturity of the instrument.
+**Table 1: Credit Conversion Factor (CCF) for Interest Rate Derivative Contracts**
+
+|Residual Maturity|CCF (%)|
+|---|---|
+||Interest Rate Derivative Contracts|
+|One year or less|0.50|
+|Over one year to five years|1.00|
+|Over five years|3.00|
+
+(iv) For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset such that the market value of the contract is zero on these specified dates, the residual maturity would be set equal to the time until the next reset date. However, in the case of interest rate contracts which have residual
+
+<!-- PAGE 3 -->
+
+maturities of more than one year and meet the above criteria, the CCF or add-on factor is subject to a floor of 1.0 per cent.
+
+(v) No potential future credit exposure would be calculated for single currency floating / floating interest rate swaps; the credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value. (vi) Potential future exposures should be based on ‘effective’ rather than ’apparent notional amounts’. In the event that the ‘stated notional amount’ is leveraged or enhanced by the structure of the transaction, PDs must use the ‘effective notional amount’ when determining potential future exposure. For example, a stated notional amount of Rs. 5 crore with payments based on an internal rate of two times the applicable rate would have an effective notional amount of Rs 10 crore. (vii) Bilateral netting of mark-to-market (MTM) values arising on account of such derivative contracts is not permitted. Accordingly, PDs should count their gross positive MTM value of such contracts for the purpose of capital adequacy.
+## 2. Capital charge for repo/reverse repo transactions:
+
+**2.1** The repo-style transactions shall attract capital charge for Counterparty credit risk (CCR), in addition to the credit risk and market risk. The CCR is defined as the risk of default by the counterparty in a repo-style transaction, resulting in non-delivery of the security lent/pledged/sold or non-repayment of the cash.
+## A. Treatment in the books of the borrower of funds:
+
+(i) Where a PD has borrowed funds by selling / lending or posting, as collateral, of securities, the ‘Exposure’ will be an off-balance sheet exposure equal to the 'market value' of the securities sold/lent as scaled up after applying appropriate haircut as detailed in **paragraph**
+**2.2 below**. The 'off-balance sheet exposure' will be converted into 'on-balance sheet' equivalent by applying a credit conversion factor of 100 per cent. (ii) The amount of money received will be treated as collateral for the securities lent/sold/pledged. Since the collateral is cash, the haircut for it would be zero. (iii) The credit equivalent amount arrived at (i) above, net of amount of cash collateral, will attract a risk weight as applicable to the counterparty. (iv) As the securities will come back to the books of the borrowing PD after the repo period, it will continue to maintain the capital for the credit risk in the securities in the cases where the securities involved in repo are held under HTM category, and capital for market risk in cases where the securities are held under HFT category. The capital charge for credit risk / specific
+
+<!-- PAGE 4 -->
+
+risk would be determined according to the credit rating of the issuer of the security. In the case of Government securities, the capital charge for credit / specific risk will be 'zero'.
+
+**B. Treatment in the books of the lender of funds:**
+(i) The amount lent will be treated as on-balance sheet/funded exposure on the counter party, collateralised by the securities accepted under the repo. (ii) The exposure, being cash, will receive a zero haircut. (iii) The collateral will be adjusted downwards/marked down as per applicable haircut. (iv) The amount of exposure reduced by the adjusted amount of collateral, will receive a risk weight as applicable to the counterparty, as it is an on- balance sheet exposure.
+(v) The lending PD will not maintain any capital charge for the security received by it as collateral during the repo period, since such collateral does not enter its balance sheet but is only held as a bailee.
+## 2.2 Haircuts
+
+(i) PDs shall use only the standard supervisory haircuts for both the exposure as well as the collateral. (ii) The standard supervisory haircuts (assuming daily mark-to-market, daily re-margining and minimum holding period of five business-days), expressed as percentages, would be as furnished in Table below. (iii) The ratings indicated in Table 2 represent the ratings assigned by the domestic rating agencies. In the case of exposures toward debt securities issued by foreign central Governments and foreign corporates (if permitted), the haircut may be based on ratings of the International rating agencies as indicated in Table 3. (iv) Sovereign will include Reserve Bank of India and DICGC which are eligible for zero per cent risk weight.
+**Table 2: Standard Supervisory Haircuts for Sovereign and other securities which constitute Exposure and Collateral**
+
+|SI. No.||Issue Rating for Debt securities|Residual Maturity (in years)|Haircut (in percentage)|
+|---|---|---|---|---|
+|A|i ii|Securities issued / guaranteed by the Government of India and issued by the State Governments (Sovereign securities) Rating not applicable – as Government securities are not currently rated in India Domestic debt securities other than those indicated at Item No. A above including the securities guaranteed by Indian State Governments AAA TO AA A1|≤ 1 year >1 year and ≤ 5 years >5 years ≤ 1 year > 1 year and ≤ 5|0.5 2 4 1 4|
+
+<!-- PAGE 5 -->
+
+||||years||
+|---|---|---|---|---|
+||iii|A to BBB A2 and A3|>5 years ≤ 1 year > 1 year and ≤ 5 years >5 years|8 2 6 12|
+|B||Cash in the same currency||0|
+
+**Table 3: Standard Supervisory Haircut for Exposures and Collaterals which are obligations of foreign central sovereigns / foreign corporates**
+
+|Issue rating for debt securities as assigned by international rating agencies|Residual Maturity|Sovereigns (%)|Other Issues (%)|
+|---|---|---|---|
+|AAA to AA / A1|<= 1 year|0.5|1|
+||>1 year and < or = 5 years|2|4|
+||>5 years|4|8|
+|A to BBB / A2 / A3 and Unrated Bank Securities|<= 1 year|1|2|
+||>1 year and < or = 5 years|3|6|
+||>5 years|6|12|
+
+(v) Where the collateral is a basket of assets, the haircut on the basket will be,
+H= ∑aiHi where aiis the weight of the asset (as measured by the amount/value of the asset in units of currency) in the basket and Hi, the haircut applicable to that asset.
+
+(vi) Adjustment for non-daily mark-to-market or remargining:
+
+a. For repo style transactions, standalone PDs shall use minimum holing period of five business days with daily remargining.
+b. In case a transaction has different minimum holding period or margining frequency different from daily margining assumed, the applicable haircut for the transaction will also need to be adjusted by scaling up/down the haircut for 10-business days with daily margining indicated in Table 2 and 3 using the formula given in **paragraph 2.2 (vii)** below. (vii) Formula for adjustment for different holding periods and / or non-daily mark-to-market or remargining: Adjustment for the variation in holding period and margining / mark-to-market, as indicated in paragraph (vi) above will be done as per the following formula:
+
+<!-- PAGE 6 -->
+
+Where: H = haircut H10= 10-business-day standard supervisory haircut for instrument NR = actual number of business days between remargining for capital market transactions or revaluation for secured transactions TM = minimum holding period for the type of transaction
+
+## 3 Capital requirements for exposures to Central Counterparties (CCPs)
+
+## 3.1 Definitions
+
+**3.1.1 Counterparty Credit Risk (CCR)** is the risk that the counterparty to a transaction could default before the final settlement of the transaction's cash flows. An economic loss would occur if the transactions or portfolio of transactions with the counterparty has a positive economic value at the time of default. CCR creates a bilateral risk of loss: the market value of the transaction can be positive or negative to either counterparty to the transaction. The market value is uncertain and can vary over time with the movement of underlying market factors.
+**3.1.2 Securities Financing Transactions (SFTs)** are transactions such as repurchase agreements, reverse repurchase agreements, security lending and borrowing and, collateralised borrowing and lending (CBLO), where the value of the transactions depends on market valuations and the transactions are often subject to margin agreements.
+**3.1.3 Hedging Set** is a group of risk positions from the transactions within a single netting set for which only their balance is relevant for determining the exposure amount or exposure at default under the CCR standardised method.
+**3.1.4 Current Exposure** is the larger of zero, or the market value of a transaction or portfolio of transactions within a netting set with a counterparty that would be lost upon the default of the counterparty, assuming no recovery on the value of those transactions in bankruptcy. Current exposure is often also called Replacement Cost.
+**3.1.5** A **central counterparty (CCP)** is a clearing house that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer and thereby ensuring the future performance of open contracts. A CCP becomes counterparty to trades with market participants through novation, an
+
+<!-- PAGE 7 -->
+
+open offer system, or another legally binding arrangement. For the purposes of the capital framework, a CCP is a financial institution.
+
+**3.1.6** A **qualifying central counterparty (QCCP)** is an entity that is licensed to operate as a CCP (including a license granted by way of confirming an exemption), and is permitted by the appropriate regulator / overseer with respect to the products offered. This is subject to the provision that the CCP is based and prudentially supervised in a jurisdiction where the relevant regulator/overseer has established, and publicly indicated that it applies to the CCP on an ongoing basis, domestic rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures.
+**3.1.7** A **clearing member** is a member of, or a direct participant in, a CCP that is entitled to enter into a transaction with the CCP, regardless of whether it enters into trades with a CCP for its own hedging, investment or speculative purposes or whether it also enters into trades as a
+1 financial intermediary between the CCP and other market participants.
+
+**3.1.8** A **client** is a party to a transaction with a CCP through either a clearing member acting as a financial intermediary, or a clearing member guaranteeing the performance of the client to the CCP.
+**3.1.9 Initial margin** means a clearing member’s or client’s funded collateral posted to the CCP to mitigate the potential future exposure of the CCP to the clearing member arising from the possible future change in the value of their transactions. For the purposes of these guidelines, initial margin does not include contributions to a CCP for mutualised loss sharing arrangements (i.e. in case a CCP uses initial margin to mutualise losses among the clearing members, it will be treated as a default fund exposure).
+**3.1.10 Variation margin** means a clearing member’s or client’s funded collateral posted on a daily or intraday basis to a CCP based upon price movements of their transactions.
+2
+
+**3.1.11 Trade exposures** include the current and potential future exposure of a clearing member or a client to a CCP arising from OTC derivatives, exchange traded derivatives transactions or SFTs, as well as initial margin. It also include cash transactions routed through a CCP.
+**3.1.12 Default funds**, also known as clearing deposits or guarantee fund contributions (or any other names), are clearing members’ funded or unfunded contributions towards, or 1 For the purposes of these guidelines, where a CCP has a link to a second CCP, that second CCP is to be treated as a clearing member of the first CCP. Whether the second CCP’s collateral contribution to the first CCP is treated as initial margin or a default fund contribution will depend upon the legal arrangement between the CCPs. In such cases, if any, RBI should be consulted for determining the treatment of this initial margin and default fund contributions. For the purposes of this definition, the current exposure of a clearing member includes the variation margin due to the clearing member but not yet received.
+
+<!-- PAGE 8 -->
+
+underwriting of, a CCP’s mutualised loss sharing arrangements. The description given by a CCP to its mutualised loss sharing arrangements is not determinative of their status as a default fund; rather, the substance of such arrangements will govern their status.
+
+**3.1.13 Offsetting transaction** means the transaction leg between the clearing member and the CCP when the clearing member acts on behalf of a client (e.g. when a clearing member clears or novates a client’s trade).
+## 3.2 Scope of Application
+
+(i) Exposures to central counterparties arising from OTC derivatives transactions, exchange traded derivatives transactions, securities financing transactions (SFTs) and the settlement of cash transactions, will be subject to the counterparty credit risk treatment as indicted in this paragraph below. (ii) When the clearing member-to-client leg of a transaction is conducted under a bilateral agreement, both the client PD and the clearing member are to capitalise that transaction.
+(iii) For the purpose of capital adequacy framework, CCPs will be considered as financial institution and a standalone PD’s investments in the capital of CCPs should not exceed 10% of its capital funds, but after all applicable deductions or any other limit as may be prescribed from time to time. (iv) Capital requirements will be dependent on the nature of CCPs viz. Qualifying CCPs (QCCPs) and non-Qualifying CCPs.
+
+(a) Regardless of whether a CCP is classified as a QCCP or not, a standalone PD shall have the responsibility to ensure that it maintains adequate capital for its exposures. A standalone PD should consider whether it might need to hold capital in excess of the minimum capital requirements if, for example, (i) its dealings with a CCP give rise to more risky exposures or (ii) where, given the context of that PD’s dealings, it is unclear that the CCP meets the definition of a QCCP.
+(b) Standalone PDs may be required to hold additional capital against their exposures to QCCPs, if in the opinion of RBI, it is necessary to do so.
+(c) Where the standalone PD is acting as a clearing member, the PD should assess through appropriate scenario analysis and stress testing whether the level of capital held against exposures to a CCP adequately addresses the inherent risks of those transactions. This assessment will include potential future or contingent exposures resulting from future drawings on default fund commitments, and/or from secondary commitments, if permitted, to take over or replace offsetting transactions from clients
+
+<!-- PAGE 9 -->
+
+of another clearing member in case of this clearing member defaulting or becoming insolvent.
+
+(d) A standalone PD must monitor and report to senior management and the appropriate committee of the Board (e.g. Risk Management Committee) on a regular basis (quarterly or at more frequent intervals) all of its exposures to CCPs, including exposures arising from trading through a CCP and exposures arising from CCP membership obligations such as default fund contributions.
+(e) Unless Reserve Bank (IDMD) requires otherwise, the trades with a former QCCP may continue to be capitalised as though they are with a QCCP for a period not exceeding three months from the date it ceases to qualify as a QCCP. After that time, the PD’s exposures with such a central counterparty must be capitalised according to rules applicable for non-QCCP.
+## 3.3 Exposures to Qualifying CCPs (QCCPs) (i) Trade exposures Clearing member exposures to QCCPs
+
+a. Where a standalone PD acts as a clearing member of a QCCP for its own purposes, a risk weight of 2% must be applied to the standalone PD’s trade exposure to the QCCP.
+b. The exposure amount for trade exposure in respect of OTC derivatives transactions, exchange traded derivatives transactions and SFTs shall be calculated in accordance with the Current Exposure Method (CEM) for derivatives as detailed in **paragraph 1.2** above and rules for capital adequacy for Repo / Reverse Repo-style transactions prescribed in **paragraph 2** above.
+c. Where settlement is legally enforceable on a net basis in an event of default and regardless of whether the counterparty is insolvent or bankrupt, the total replacement cost of all contracts relevant to the trade exposure determination can be calculated as a net replacement cost if the applicable close-out netting sets meet the requirements given below **in paragraph 3.5** of these guidelines.
+d. Standalone PDs shall have to demonstrate that the conditions mentioned in **paragraph**
+**3.5** of the guidelines are fulfilled on a regular basis by obtaining independent and reasoned legal opinion as regards legal certainty of netting of exposures to QCCPs. Standalone PDs may also obtain from such QCCPs, the legal opinion taken by the QCCPs on the legal certainty of their major activities such as settlement finality, netting, collateral arrangements (including margin arrangements); default procedures etc.
+
+<!-- PAGE 10 -->
+
+## Clearing member exposures to clients
+
+The clearing member will always capitalise its exposure to clients as bilateral trades, irrespective of whether the clearing member guarantees the trade or acts as an intermediary between the client and the QCCP. However, to recognize the shorter close-out period for cleared transactions, clearing members can capitalize the exposure to their clients by multiplying the exposure at default by a scalar which is not less than 0.71. ***Client PD exposures to clearing member***
+
+I. Where a PD is a client of the clearing member, and enters into a transaction with the clearing member acting as a financial intermediary (i.e. the clearing member completes an offsetting transaction with a QCCP), the client’s exposures to the clearing member will receive the treatment applicable to the paragraph “clearing member exposure to QCCPs” of this section (mentioned above), if following conditions are met:
+(a) The offsetting transactions are identified by the QCCP as client transactions and collateral to support them is held by the QCCP and / or the clearing member, as applicable, under arrangements that prevent any losses to the client due to:
+i. the default or insolvency of the clearing member; ii. the default or insolvency of the clearing member’s other clients; and iii. the joint default or insolvency of the clearing member and any of its other clients.
+The client PD must obtain an independent, written and reasoned legal opinion that concludes that, in the event of legal challenge, the relevant courts and administrative authorities would find that the client would bear no losses on account of the insolvency of an intermediary under the relevant law, including: the law(s) applicable to client PD, clearing member and QCCP; the law of the jurisdiction(s) of the foreign countries in which the client PD, clearing member or QCCP are located the law that governs the individual transactions and collateral; and the law that governs any contract or agreement necessary to meet this condition (a).
+
+(b) Relevant laws, regulations, rules, contractual, or administrative arrangements provide that the offsetting transactions with the defaulted or insolvent clearing member are highly likely to continue to be indirectly transacted through the QCCP, or by the QCCP, should the clearing member default or become insolvent. In such circumstances, the client positions and collateral with the QCCP will be transferred at the market value unless the client requests to close out the position at the market value. In this context, it may be clarified that if relevant laws, regulations, rules, contractual or administrative agreements provide that trades are highly likely to be ported,
+
+<!-- PAGE 11 -->
+
+this condition can be considered to be met. If there is a clear precedent for transactions being ported at a QCCP and intention of the participants is to continue this practice, then these factors should be considered while assessing if trades are highly likely to be ported. The fact that QCCP documentation does not prohibit client trades from being ported is not sufficient to conclude that they are highly likely to be ported. Other evidence such as the criteria mentioned in this paragraph is necessary to make this claim. II. Where a client is not protected from losses in the case that the clearing member and another client of the clearing member jointly default or become jointly insolvent, but all other conditions mentioned above are met and the concerned CCP is a QCCP, a risk weight of 4% will apply to the client’s exposure to the clearing member. III. Where the client PD does not meet the requirements in the above paragraphs, the PD shall be required to capitalize its exposure to the clearing member as a bilateral trade. IV. In case a standalone PD as a client enters into a transaction with the QCCP with a clearing member guaranteeing its performance, the capital requirements for client PD shall be calculated as if client PD has entered into a bilateral contract with the clearing member. ***Treatment of posted collateral***
+
+(a) In all cases, any assets or collateral posted must, from the perspective of the PD posting such collateral, receive the risk weights that otherwise applies to such assets or collateral under the capital adequacy framework, regardless of the fact that such assets have been posted as collateral. Where assets or collateral of a clearing member or client are posted with a QCCP or a clearing member and are not held in a bankruptcy remote manner, the PD posting such assets or collateral must also recognise credit risk based upon the assets or collateral being exposed to risk of loss based on the creditworthiness
+3 of the entity holding such assets or collateral.
+
+(b) Collateral posted by the clearing member (including cash, securities, other pledged assets, and excess initial or variation margin, also called over-collateralisation), that is
+4 held by a custodian, and is bankruptcy remote from the QCCP, is not subject to a capital requirement for counterparty credit risk exposure to such bankruptcy remote custodian.
+
+3 Where the entity holding such assets or collateral is the QCCP, a risk-weight of 2% applies to collateral included in the definition of trade exposures. The relevant risk-weight of the QCCP will apply to assets or collateral posted for other purposes. 4 In this paragraph, the word “custodian” may include a trustee, agent, pledgee, secured creditor or any other person that holds property in a way that does not give such person a beneficial interest in such property and will not result in such property being subject to legally-enforceable claims by such persons, creditors, or to a court-ordered stay of the return of such property, should such person become insolvent or bankrupt.
+
+<!-- PAGE 12 -->
+
+(c) Collateral posted by a client, that is held by a custodian, and is bankruptcy remote from the QCCP, the clearing member and other clients, is not subject to a capital requirement for counterparty credit risk. If the collateral is held at the QCCP on a client’s behalf and is not held on a bankruptcy remote basis, a 2% risk weight will be applied to the collateral if the conditions established in paragraph on “client PD exposures to clearing members” of this section are met (mentioned above). A risk weight of 4% will be made applicable if a client is not protected from losses in the case that the clearing member and another client of the clearing member jointly default or become jointly insolvent, but all other conditions mentioned in paragraph on “client PD exposures to clearing members” of this section are met.
+(d) If a clearing member collects collateral from a client for client cleared trades and this collateral is passed on to the QCCP, the clearing member may recognize this collateral for both the QCCP - clearing member leg and the clearing member - client leg of the client cleared trade. Therefore, initial margins (IMs) as posted by clients to clearing members mitigate the exposure the clearing member has against these clients.
+## (ii) Default Fund Exposures to QCCPs
+
+(a) Where a default fund is shared between products or types of business with settlement risk only (e.g. equities and bonds) and products or types of business which give rise to counterparty credit risk i.e., OTC derivatives, exchange traded derivatives or SFTs, all of the default fund contributions will receive the risk weight determined according to the formulae and methodology set forth below, without apportioning to different classes or types of business or products.
+(b) However, where the default fund contributions from clearing members are segregated by product types and only accessible for specific product types, the capital requirements for those default fund exposures determined according to the formulae and methodology set forth below must be calculated for each specific product giving rise to counterparty credit risk. In case the QCCP’s prefunded own resources are shared among product types, the QCCP will have to allocate those funds to each of the calculations, in proportion to the respective product specific exposure i.e. exposure at default.
+(c) Clearing member PDs are required to capitalise their exposures arising from default fund contributions to a qualifying CCP by applying the following formula: Clearing member PDs may apply a risk-weight of 1111% to their default fund exposures to the qualifying CCP, subject to an overall cap on the risk-weighted assets from all its exposures to the QCCP (i.e. including trade exposures) equal to 20% of the trade
+
+<!-- PAGE 13 -->
+
+exposures to the QCCP. More specifically, the Risk Weighted Assets (RWA) for both PD 5 *i*’s trade and default fund exposures to each QCCP are equal to : *Min {(2% * TEi + 1111% * DFi); (20% * TEi)}* Where; -TEi is PD *i*’s trade exposure to the QCCP; and -DFi is PD *i*'s pre-funded contribution to the QCCP's default fund.
+
+## 3.4 Exposures to Non-qualifying CCPs
+
+(a) PDs must apply the Standardised Approach for credit risk according to the category of the
+<u>8</u> counterparty, to their trade exposure to a non-qualifying CCP.
+
+(b) PDs must apply a risk weight of 1111% to their default fund contributions to a non-qualifying CCP.
+(c) For the purposes of this paragraph, the default fund contributions of such PDs will include both the funded and the unfunded contributions which are liable to be paid should the CCP so require. Where there is a liability for unfunded contributions (i.e. unlimited binding commitments) the Reserve Bank will determine the amount of unfunded commitments to which an 1111% risk weight should apply.
+## 3.5 Requirements for Recognition of Net Replacement Cost
+
+## in Close-out Netting Sets
+
+## A. For repo-style transactions
+
+The effects of bilateral netting agreements covering repo-style transactions will be recognised on a counterparty-by-counterparty basis if the agreements are legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of whether the counterparty is insolvent or bankrupt. In addition, netting agreements must:
+
+(a) provide the non-defaulting party the right to terminate and close-out in a timely manner all transactions under the agreement upon an event of default, including in the event of insolvency or bankruptcy of the counterparty;
+(b) provide for the netting of gains and losses on transactions (including the value of any collateral) terminated and closed out under it so that a single net amount is owed by one party to the other;
+(c) allow for the prompt liquidation or setoff of collateral upon the event of default; and The 2% risk weight on trade exposures does not apply additionally, as it is included in the equation.
+
+<!-- PAGE 14 -->
+
+(d) be, together with the rights arising from the provisions required in (a) to (c) above, legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of the counterparty's insolvency or bankruptcy.
+## B. For Derivatives transactions
+
+(a) PDs may net transactions subject to novation under which any obligation between a PD and its counterparty to deliver a given currency on a given value date is automatically amalgamated with all other obligations for the same currency and value date, legally substituting one single amount for the previous gross obligations.
+(b) PDs may also net transactions subject to any legally valid form of bilateral netting not covered in (a), including other forms of novation.
+(c) In both cases (a) and (b), a PD will need to satisfy that it has:
+(i) A netting contract or agreement with the counterparty which creates a single legal obligation, covering all included transactions, such that the PD would have either a claim to receive or obligation to pay only the net sum of the positive and negative mark-to-market values of included individual transactions in the event a counterparty fails to perform due to any of the following: default, bankruptcy, liquidation or similar circumstances; (ii) Written and reasoned legal opinions that, in the event of a legal challenge, the relevant courts and administrative authorities would find the PD's exposure to be such a net amount under: The law of the jurisdiction in which the counterparty is chartered and, if the foreign branch of a counterparty is involved, then also under the law of the jurisdiction in which the branch is located; The law that governs the individual transactions; and The law that governs any contract or agreement necessary to effect the netting. (iii) Procedures in place to ensure that the legal characteristics of netting arrangements are kept under review in the light of possible changes in relevant law.
+(d) Contracts containing walkaway clauses will not be eligible for netting for the purpose of calculating capital requirements under these guidelines. A walkaway clause is a provision which permits a non-defaulting counterparty to make only limited payments or no payment at all, to the estate of a defaulter, even if the defaulter is a net creditor.

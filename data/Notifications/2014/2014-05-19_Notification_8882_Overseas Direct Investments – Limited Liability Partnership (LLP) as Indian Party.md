@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2014_8882"
+title: "Overseas Direct Investments – Limited Liability Partnership (LLP) as Indian Party"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP31N190514C.PDF"
+pdf_sha256: "21112c236c3cca9e08189a6af8bc65bd8602ff7bec8c33e7051a3baeb41b21fa"
+md_sha256: "e3e02708961ee051b98d59de7562de4a35b713b751e99e2c9309d083b29deb34"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-05-19_Notification_8882_Overseas%20Direct%20Investments%20%E2%80%93%20Limited%20Liability%20Partnership%20%28LLP%29%20as%20Indian%20Party.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investments – Limited Liability Partnership (LLP) as Indian Party
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001**
+
+## RBI/2013-14/595 May 19, 2014
+
+## A.P. (DIR Series) Circular No.131
+
+To
+
+All Category – I Authorised Dealer Banks
+
+Madam/ Sir,
+
+<u>Overseas Direct Investments – Limited Liability Partnershi2022p (LLP) as Indian</u> <u>Party</u> 22, Attention of the Authorised Dealers (AD) is invited to Foreign Exchange Management (Transfer or Issue of any Foreign Security) Regulations, 2004 notified by the Reserve Bank vide <u>Notification No. FEMA.120/RB-2004 dated July 07, 2004</u>
+
+# August
+
+and amended from time to time.
+
+w.e.f.
+2. On a review, it has been decided to notify a Limited Liability Partnership (LLP), registered under the Limited Liability Partnership Act, 2008 (6 of 2009), as an “Indian Party” under clause (k) of Regulation 2 of the Notification *ibid.* Accordingly, an LLP, may henceforth undertake financial commitment to / on behalf of a JV /
+# Withdrawn
+
+WOS abroad in terms of the extant FEMA provisions under Regulation 6 (and regulation 7, if applicable) of the Notification *ibid*.
+
+3. Necessary amendment to the Notification *ibid* has been issued vide <u>Notification</u> <u>No. FEMA.299/2014-RB dated March 24, 2014</u> (copy enclosed), which is effective from the date of publication in the Gazette i.e. May 07, 2014.
+
+<!-- PAGE 2 -->
+
+4. The AD banks shall report the financial commitment/s undertaken by an LLP in Form ODI Part I and II and also other reporting (APR, disinvestments, etc.) as per the extant reporting requirements.
+5. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+# 2022
+
+Yours faithfully, 22, **(C D Srinivasan)** **Chief General Manager**
+
+## Encl: Amendment Notification (FEMA.299) August
+
+w.e.f.
+# Withdrawn

@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2014_8811"
+title: "Reporting of Cross Border Wire Transfer Report on FINnet Gateway"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FI280314EN.pdf"
+pdf_sha256: "e828b8baee4c354738bc4a38faceb81a0db57f8a63aec6f595442a8b64c4df86"
+md_sha256: "464c2ce1fab3f387110a9c81904ec9a57beeda5600a886c8f7eda50907e27074"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-03-28_Notification_8811_Reporting%20of%20Cross%20Border%20Wire%20Transfer%20Report%20on%20FINnet%20Gateway.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reporting of Cross Border Wire Transfer Report on FINnet Gateway
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/544 DBOD. AML. No. **16415** /14.01.001/2013-14 March 28, 2014
+
+## The Chairpersons/CEOs of all Scheduled Commercial Banks (Excluding RRBs)/
+
+## Local Area Banks / All India Financial Institutions
+
+Madam/Dear Sir,
+
+## Reporting of Cross Border Wire Transfer Report on FINnet Gateway
+
+Please refer to our circular <u>DBOD.AML.BC. No. 49/14.01.001/2012-13 dated October</u> <u>11, 2012</u> on ‘Uploading of Reports on FINnet Gateway’ wherein banks and financial institutions were advised to upload reports as required by FIU-IND using only FINnet gateway.
+
+2. With the amendments to Prevention of Money Laundering (PML) Rules, notified by the Government of India vide Notification No. 12 of 2013 dated August 27, 2013 and in terms of amended Rule 3, every reporting entity is required to maintain the record of all transactions including the record of all cross border wire transfers of more than Rs. 5 lakh or its equivalent in foreign currency, where either the origin or destination of the fund is in India. FIU-IND has advised that the information of all such transactions may be furnished to Director, FIU-IND by 15th of the succeeding month.
+3. In this regard, it is advised that the ‘Transaction Based Reporting Format’ (TRF) already developed by FIU-IND and being used for reporting Cash Transaction Reports (CTRs), Suspicious Transaction Reports (STRs) and Non-Profit Organizations Transaction Reports (NTRs) may be used for reporting the Cross Border Wire Transfers. The information may be furnished electronically in the FIN- Net module developed by FIU-IND. All banks and financial institutions are accordingly advised to take action as required by FIU-IND and ensure that reports are submitted in time as per the schedule.
+4. The format along with sample data filled in as an illustration is available in the ‘Downloads’ section of the FIU-IND website ([http://fiuindia.gov.in](http://fiuindia.gov.in)).
+5. Please advise your Principal Officer to acknowledge receipt of this circular. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager
+वभाग, क िय
+
+|बकं ग|परचालन और वकास|कायालय, क िय|कायालय भवन, 13वीं मंजल, शहद|भगत|िसंह माग, मुंबई Ð 400 001|
+|---|---|---|---|---|---|
+||फोन: 022-22701223, फै �|||, वेबसाइट: www.rbi.org.in||
+|Department of Banking Operations & Development,|Phone : 022‐22701223, Fax : 022‐22701239, E‐mail : cgmicdbodco@rbi.org.in, Website : www.rbi.org.in|स: 022-22701239, Central Office, Central do not respond in any manner to such offers."|ई-मेल Office : cgmicdbodco@rbi.org.in Building, 13|Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001||
+
+th
+
+"Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please

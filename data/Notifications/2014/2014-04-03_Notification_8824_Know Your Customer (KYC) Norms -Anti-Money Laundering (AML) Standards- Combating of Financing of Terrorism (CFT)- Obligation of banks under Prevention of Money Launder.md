@@ -1,0 +1,134 @@
+---
+doc_id: "Notifications_2014_8824"
+title: "Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/ Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002 – Harmonization of KYC norms for Foreign Portfolio Investors (FPIs)"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CSE040414FS.pdf"
+pdf_sha256: "484a75ac41ab2807db9d90e95cab5192e154064ad942aa9a761bdbac58e0bd03"
+md_sha256: "045e77c36f38b4113d3b841854570c41c2c96827c9fa401a3aa0de7d2b09166a"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-04-03_Notification_8824_Know%20Your%20Customer%20%28KYC%29%20Norms%20-Anti-Money%20Laundering%20%28AML%29%20Standards-%20Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29-%20Obligation%20of%20banks%20under%20Prevention%20of%20Money%20Launder.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/ Obligation of banks under Prevention of Money Laundering Act (PMLA), 2002 – Harmonization of KYC norms for Foreign Portfolio Investors (FPIs)
+
+<!-- PAGE 1 -->
+
+## RBI/2013-14/552 DBOD.AML.BC.No.103/14.01.001/2013-14 April 3, 2014
+
+The Chairpersons/ CEOs of all Scheduled Commercial Banks (Excluding RRBs)/Local Area Banks / All India Financial Institutions
+
+Madam / Dear Sir,
+
+**Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/** **Combating of Financing of Terrorism (CFT)/ Obligation of banks under** **Prevention of Money Laundering Act (PMLA), 2002 – Harmonization of KYC norms for Foreign Portfolio Investors (FPIs)**
+
+Please refer to the <u>first Bi-Monthly Monetary Policy Statement, 2014-15</u> wherein, inter-alia, it has been proposed to simplify the KYC related procedure for opening bank accounts by FPIs.
+
+2. Consequent to the Budget proposal for the year 2013-2014 and the recent amendments to the Prevention of Money Laundering (Maintenance of Records) Rules, 2005 (Rules), Securities and Exchange Board of India (SEBI) has rationalised the KYC norms for entry of FPIs (vide their circular MIRSD/07/2013 dated September 12, 2013). Reserve Bank has been receiving suggestions regarding rationalisation of KYC norms in case of FPIs for opening bank accounts along the similar lines. The matter has since been examined in consultation with the Government and it has been decided to simplify the KYC norms in the case of FPIs.
+3. FPIs have been categorized by SEBI based on their perceived risk profile as detailed in Annex I. In terms of Rule 9 (14)(i) of the Rules, simplified norms have been prescribed for those FPIs who have been duly registered in accordance with SEBI guidelines and have undergone the required KYC due diligence/verification prescribed by SEBI through a Custodian/Intermediary regulated by SEBI. Such eligible/registered FPIs may approach a bank for opening a bank account for the purpose of investment under Portfolio Investment Scheme (PIS) for which KYC documents prescribed by the Reserve Bank (as detailed in Annex II) would be required. For this purpose, banks may rely on the KYC verification done by the third party (i.e. the Custodian/SEBI Regulated Intermediary) subject to the conditions laid down in Rule 9 (2) [(a) to (e)] of the Rules.
+4. In this regard, SEBI has been requested to advise Custodians/Intermediaries regulated by them to share the relevant KYC documents with the banks concerned based on written authorization from the FPIs. Accordingly, a set of hard copies of the relevant KYC documents furnished by the FPIs to the Custodians/Regulated Intermediaries may be transferred to the concerned bank through their authorised representative. While transferring such documents, the Custodian/Regulated
+
+<!-- PAGE 2 -->
+
+Intermediary shall certify that the documents have been duly verified with the original or notarised documents have been obtained, where applicable. In this regard, a proper record of transfer of documents, both at the level of the Custodian/Regulated Intermediary as well as at the bank, under signatures of the officials of the transferor and transferee entities, may be kept. While opening bank accounts for FPIs in terms of the above procedure, banks may bear in mind that they are ultimately responsible for the customer due diligence done by the third party (i.e. the Custodian/Regulated Intermediary) and may need to take enhanced due diligence measures, as applicable, if required. Further, banks are required to obtain undertaking from FPIs or a Global Custodian acting on behalf of the FPI to the effect that as and when required, the exempted documents as detailed in Annex II will be submitted.
+
+5. It is further advised that to facilitate secondary market transactions, the bank may share the KYC documents received from the FPI or certified copies received from a Custodian/Regulated Intermediary with other banks/regulated market intermediaries based on written authorization from the FPI.
+6. The provisions of this circular are applicable for both new and existing FPI clients. These provisions are applicable only for PIS by FPIs. In case the FPIs intend to use the bank account opened under the above procedure for any other approved activities (i.e. other than PIS), they would have to undergo KYC drill as prescribed in our <u>Master Circular DBOD.AML.BC.No.24/14.01.001/2013-14 dated July 1, 2013</u> on Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002.
+7. Banks may revise their KYC policy in the light of the above instructions and ensure strict adherence to the same. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager
+## Encl: As above
+
+<!-- PAGE 3 -->
+
+## Annex I
+
+|Category|Eligible Foreign Investors|
+|---|---|
+|I.|Government and Government related foreign investors such as Foreign Central Banks, Governmental Agencies, Sovereign Wealth Funds, International/ Multilateral Organizations/ Agencies.|
+|II.|a) Appropriately regulated broad based funds such as Mutual Funds, Investment Trusts, Insurance /Reinsurance Companies, Other Broad Based Funds etc. b) Appropriately regulated entities such as Banks, Asset Management Companies, Investment Managers/ Advisors, Portfolio Managers etc. c) Broad based funds whose investment manager is appropriately regulated. d) University Funds and Pension Funds. e) University related Endowments already registered with SEBI as FII/Sub Account.|
+|III.|All other eligible foreign investors investing in India under PIS route not eligible under Category I and II such as Endowments, Charitable Societies/Trust, Foundations, Corporate Bodies, Trusts, Individuals, Family Offices, etc.|
+
+<!-- PAGE 4 -->
+
+## Annex II
+
+## KYC documents for eligible FPIs under PIS
+
+FPI Type Document Type Category I Category II Category III
+
+Mandatory Mandatory Mandatory Constitutive Documents (Memorandu m and Articles of Association, Certificate of Incorporation etc.)
+
+Mandatory Mandatory Proof of Mandatory other than (Power of Address (Power of Power of Attorney
+
+||Attorney {PoA}|Attorney|Power of|
+|---|---|---|---|
+||mentioning the address is acceptable as address proof)|mentioning the address is acceptable as address proof)|Attorney|
+|PAN Card|Mandatory|Mandatory|Mandatory|
+|Financial Data|Exempted *|Exempted *|Mandatory|
+|SEBI|Mandatory|Mandatory|Mandatory|
+
+Attorney {PoA} Entity Level
+
+Mandatory Exempted *
+
+Mandatory Mandatory
+
+Exempted * Exempted *
+
+Registration Certificate
+
+Board Resolution
+
+List
+
+Proof of Identity Senior Management (Whole Time Directors/ Partners/ Trustees/ etc.) Proof of Address
+
+Photographs
+
+List and Signatures Authorized Signatories
+
+## Exempted *
+
+Exempted
+
+Mandatory – list of Global Custodian signatories can be given in case of PoA to Global Custodian Exempted *
+
+## Exempted *
+
+Exempted
+
+Mandatory-list of Global Custodian signatories can be given in case of PoA to Global Custodian Exempted *
+
+Mandatory
+
+Mandatory
+
+Entity declares* on letter head full name, nationality, date of birth or submits photo identity proof
+
+Declaration on Letter Head *
+
+## Exempted *
+
+Mandatory
+
+Proof of <u>Identity</u> Mandatory
+
+<!-- PAGE 5 -->
+
+Proof of Exempted * Exempted * Declaration on Address Letter Head *
+
+||Address|||Letter Head *|
+|---|---|---|---|---|
+||Photographs|Exempted|Exempted|Exempted *|
+||List|Exempted *|Mandatory (can declare “no UBO over 25%”)|Mandatory|
+|Ultimate Beneficial|Proof of|Exempted *|Exempted *|Mandatory|
+|Owner|Identity||||
+|(UBO)|Proof of|Exempted *|Exempted *|Declaration on|
+||Address|||Letter Head *|
+||Photographs|Exempted|Exempted|Exempted *|
+
+* Not required while opening the bank account. However, FPIs concerned may submit an undertaking that upon demand by Regulators/Law Enforcement Agencies the relative document/s would be submitted to the bank.

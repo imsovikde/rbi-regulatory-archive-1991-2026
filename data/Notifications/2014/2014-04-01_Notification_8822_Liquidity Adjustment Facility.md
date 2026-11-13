@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2014_8822"
+title: "Liquidity Adjustment Facility"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NLC010414FL.pdf"
+pdf_sha256: "c850b8f1ff4b412c4b56fe87db2ea3e18233d4253cb4043f1250f186c43ec679"
+md_sha256: "c17ff68e589cc582500573b4b866216ed80c50a38b4934bad46a341be94c2a09"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-04-01_Notification_8822_Liquidity%20Adjustment%20Facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility
+
+<!-- PAGE 1 -->
+
+RBI/2013-2014/549 FMD.MOAG. No. 100/01.01.001/2013-14 April 1, 2014
+
+All Scheduled Commercial Banks (excluding RRBs) and Standalone Primary Dealers
+
+Madam / Sir, **Liquidity Adjustment Facility** As announced today in the <u>First Bi-monthly Monetary Policy Statement 2014-15</u>, it has been decided to decrease the quantum of liquidity provided under overnight repos under the Liquidity Adjustment Facility (LAF) from 0.5 per cent of bank-wise NDTL to **0.25 per cent** with immediate effect.
+
+2. All other terms and conditions of the current LAF scheme will remain unchanged.
+3. Please acknowledge receipt.
+## Yours sincerely
+
+(G. Mahalingam) Principal Chief General Manager

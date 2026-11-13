@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2014_8900"
+title: "Issue of Pre-paid Payment Instruments-UCBs"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PCO65P270514F.pdf"
+pdf_sha256: "56286568a1ca67de29ed65b07ec50d26a18544c2e92108c8a036bcf8c6bb127b"
+md_sha256: "2a8ba2fd5a878a2044baff1418c44a488eaa9b14796f6ae938c69a0425694cc9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-05-27_Notification_8900_Issue%20of%20Pre-paid%20Payment%20Instruments-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Issue of Pre-paid Payment Instruments-UCBs
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/607 UBD.CO.BPD.PCB.Cir. No. 65/09.69.000/2013-14 May 27, 2014
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks
+
+Dear Sir / Madam,
+
+## Issue of Pre-paid Payment Instruments-UCBs
+
+Please refer to <u>circular UBD (PCB) BPD Cir No.50/09.69.000/2005-06 dated April</u> <u>28, 2006</u> permitting Urban Cooperative Banks (UCBs) to install ATMs and issue ATM-cum-Debit Cards.
+
+2. We have been receiving requests from a few UCBs to allow them to undertake Credit / Pre-paid Card business. Taking into account the business profile of UCBs and the nature of risks associated with Credit/ Pre-paid Card business, it has been decided that UCBs which have installed ATMs and issued ATM-cum-Debit Cards may introduce ‘Semi-Closed Pre-paid Payment Instruments’ permitting payment of utility bill/ essential services up to a limit of ` 10,000/-. These payment instruments shall be redeemable at a group of clearly identified merchant locations/ establishments which enter into contracts specifically with the UCB to accept the payment instruments. These instruments shall not permit cash withdrawal or redemption by the holder.
+3. The issuance and operations of these instruments shall be guided by the instructions contained in <u>circular DPSS.CO.PD.No.1873/ 02.14.06/2008-09 dated</u> <u>April 27, 2009</u> and any other circular/ instructions issued in this regard from time to time by the Department of Payment and Settlement Systems, Reserve Bank of India. Yours faithfully, (P K Arora) General Manager शहर बक वभाग, क िय कायालय, गारमट हाऊस, पहली मंज़ल, डॉ. एनी बेसट माग, वरली, मुंबई - 400018 भारत फोन: 022 - 2493 9930 - 49; फै स: 022 - 2497 4030 / 2492 0231; ई-मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1
+st Floor, Dr. Annie Besant Road, Worli, Mumbai
+
+- 400018, India
+Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; E-mail: cgmincubd@rbi.org.in <u>ह</u>ं<u>द आसान है, इसका ूयोग बढ़ाइए —</u> चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरए कसी क भी ���� क जानकार जैसे बक के खाते का यौरा,
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन|कॉल के जरए|कसी क भी|���� क जानकार|जैसे बक|के खाते का यौरा,|
+|---|---|---|---|---|---|---|---|---|---|
+|पासवड Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|आद नहं मांगी|जाती है। यह keeps or offers funds to anyone. Please do not respond in any manner to such offers.|धन रखने या|देने का ूःताव|भी नहं करता|है। ऐसे ूःताव|का कसी|भी तरके से जवाब|मत द�जए।|

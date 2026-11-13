@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2014_1382"
+title: "Need for Bank Branches / ATMs to be made accessible to persons with disabilities"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/DB13NT0514FS.pdf"
+pdf_sha256: "65fcf817b7ab69b72a6157641654db4e94401e00c27a772835ac95811f825a3c"
+md_sha256: "8c5fa71defaae23a9ad26d0f97d561c0072a8860153eddc0858b28c75f562ea3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-05-21_Notification_1382_Need%20for%20Bank%20Branches%20-%20ATMs%20to%20be%20made%20accessible%20to%20persons%20with%20disabilities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Need for Bank Branches / ATMs to be made accessible to persons with disabilities
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/598 DBOD.No.Leg.BC.113 /09.07.005/2013-14 May 21, 2014
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir/Madam,
+
+# Need for Bank Branches / ATMs to be made accessible to persons with disabilities
+
+Please refer to our <u>circular DBOD.No.Leg.BC.123 /09.07.005/2008-09 dated April 13, 2009</u> on the captioned subject, wherein banks were advised to provide, inter alia, ramps in all existing and future ATMs, and make at least one third of new ATMs installed as talking ATMs with Braille keypads.
+
+2. We have been receiving several suggestions from members of public through Government of India and otherwise, on facilitating easy access to bank branches and ATMs by persons with disabilities for undertaking day to day banking transactions. We have examined such suggestions. As advised in the above circular, banks have to take necessary steps **to provide all existing ATMs / future ATMs with ramps** so that wheel chair users / persons with disabilities can easily access them. Care may also be taken to make arrangements in such a way that the height of the ATMs do not create an impediment in their use by wheelchair users. However, in cases where it is impracticable to provide such ramp facilities, whether permanently fixed to earth or otherwise, this requirement may be dispensed with, for reasons recorded and displayed in branches or ATMs concerned.
+3. Banks are also to take appropriate steps, including providing of ramps at the entrance of the bank branches, wherever feasible, so that the persons with disabilities/wheel chair users can enter bank branches and conduct business without difficulty. Banks are advised to report the progress made in this regard periodically to their respective Customer Service Committee of the Board and ensure compliance.
+________________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 12th Floor, Central Office Building, Shahid Bhagat Singh Marg,, Mumbai,400001 Tel No:22705682/Fax No:22705691 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. Further, it has come to our notice that some of the banks have not made at least one third of the new ATMs installed as talking ATMs with Braille keypads as advised vide circular referred to above. It is, therefore, reiterated that banks should make all new ATMs installed from July 1, 2014 as talking ATMs with Braille keypads. Banks should lay down a road map for converting all existing ATMs as talking ATMs with Braille keypads and the same may be reviewed from time to time by the Customer Service Committee of the Board.
+5. In addition to the above, magnifying glasses should also be provided in all bank branches for the use of persons with low vision, wherever they require for carrying out banking transactions with ease. The branches should display at a prominent place notice about the availability of magnifying glasses and other facilities available for persons with disabilities. Yours faithfully, (Rajesh Verma) Chief General Manager

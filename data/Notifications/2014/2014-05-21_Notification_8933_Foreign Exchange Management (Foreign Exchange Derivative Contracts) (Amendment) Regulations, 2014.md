@@ -1,0 +1,73 @@
+---
+doc_id: "Notifications_2014_8933"
+title: "Foreign Exchange Management (Foreign Exchange Derivative Contracts) (Amendment) Regulations, 2014"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/303FEMA090614.pdf"
+pdf_sha256: "0e2d68b2991aedefc41d403f9c9fdbd8f3d7862e2603a53ba50f2fbfb87b7f16"
+md_sha256: "ef538ee77b4ea0a33407478b35dc114ddb563bf2a4b3e1abd0b071df13078bb8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:43:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-05-21_Notification_8933_Foreign%20Exchange%20Management%20%28Foreign%20Exchange%20Derivative%20Contracts%29%20%28Amendment%29%20Regulations%2C%202014.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign Exchange Management (Foreign Exchange Derivative Contracts) (Amendment) Regulations, 2014
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## FOREIGN EXCHANGE DEPARTMENT
+
+## CENTRAL OFFICE
+
+## MUMBAI
+
+## Notification No. FEMA 303/2014-RB May 21, 2014
+
+## Foreign Exchange Management (Foreign Exchange Derivative Contracts)
+
+## (Amendment) Regulations, 2014
+
+In exercise of the powers conferred by clause (h) of sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank hereby makes the following amendments in the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (<u>Notification No.FEMA</u> <u>25/2000-RB dated 3rd May 2000</u>) namely:-
+
+## 1. Short Title and Commencement
+
+(i) These Regulations may be called the Foreign Exchange Management (Foreign Exchange Derivative Contracts) (Amendment) Regulations, 2014. (ii) They shall come in to force from the date of their publication in the Official Gazette.
+## 2. Amendment of Regulations:
+
+After Regulation 5A Regulation 5B shall be inserted as below:
+
+<u>“Permission to a person resident outside India to enter into currency futures or exchange traded currency options</u>
+
+A person resident outside India who is eligible to invest in securities as laid down in Schedules 2, 5, 7 and 8 of Foreign Exchange Management (Transfer or Issue of Security by a person resident outside India) Regulations, 2000 (<u>FEMA 20/2000-RB</u> <u>dated May 3, 2000</u> (GSR 406 (E) dated May 3, 2000)) as amended from time to time, may enter into currency futures or exchange traded currency options contracts on a stock exchange recognised under section 4 of Securities Contracts (Regulations) Act, 1956 to hedge an exposure to risk, subject to such terms and conditions as may be set forth in the directions issued by the Reserve Bank of India from time to time.”
+
+(S M Pillai) General Manager In-charge
+
+<!-- PAGE 2 -->
+
+Footnote:-
+
+1. The Principal Regulations were published in the Official Gazette vide G.S.R. No.411(E) dated May 8, 2000 in Part II, Section 3, sub-section (i) and subsequently amended vide -
+G.S.R.No. 756(E) dated 28.09.2000
+G.S.R.No. 264(E) dated 09.04.2002
+G.S.R.No. 579(E) dated 19.08.2002
+G.S.R.No. 222(E) dated 18.03.2003
+G.S.R.No. 532(E) dated 09.07.2003
+G.S.R.No. 880(E) dated 11.11.2003
+G.S.R.No. 881(E) dated 11.11.2003
+G.S.R.No. 750(E) dated 28.12.2005
+G.S.R.No. 222(E) dated 19.04.2006
+G.S.R.No. 223(E) dated 19.04.2006
+G.S.R.No. 760(E) dated 07.12.2007
+G.S.R.No. 577(E) dated 05.08.2008
+G.S.R.No. 440(E) dated 23.06.2009
+G.S.R.No. 895(E) dated 14.12.2009
+G.S.R.No. 635(E) dated 27.07.2010
+G.S.R.No. 608(E) dated 03.08.2012
+G.S.R.No. 799(E) dated 30.12.2012
+G.S.R.No. 330(E) dated 23.05.2013 **Published in the Official Gazette of Government** **of India – Extraordinary – Part-II, Section 3,** **Sub-Section (i) dated 02.06.2014- G.S.R.No.374 (E)**
