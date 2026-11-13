@@ -1,0 +1,97 @@
+---
+doc_id: "Circulars_2011_DBOD_FID_FIC_No_11_01_02_00_2010-11"
+title: "Recognition of Permanent Diminution in the Value of Investments in Banks' Subsidiaries / Joint Ventures"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRD040211F.PDF"
+pdf_sha256: "e4a76058031011758261abc6963045cb4c0bd7840a22663dc8181331064a14b3"
+md_sha256: "e0afb783c2403e3e8ded99e3d8d87f25bb52a7830a48b90195daf3bba408fcc1"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:15:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-02-01_Circular_DBOD.FID.FIC.No.11-01.02.00-2010-11_Recognition%20of%20Permanent%20Diminution%20in%20the%20Value%20of%20Investments%20in%20Banks%27%20Subsidiaries%20-%20Joint%20Ventures.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Recognition of Permanent Diminution in the Value of Investments in Banks' Subsidiaries / Joint Ventures
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/398
+
+DBOD.FID.FIC.No.11/01.02.00/2010-11
+
+February 01,2011
+
+TheCEOsofselectAll-lndiaTermLendingandRefinancingInstitutions
+
+(Exim Bank, NABARD, NHB and SIDBI)
+
+Dear Sir,
+
+RecognitionofPermanentDiminutionintheValueofInvestmentsinBanks'
+
+Subsidiaries / Joint Ventures
+
+In terms of para 14 of Annexure to circular DBS.FID.No.C.9/01.02.00/2000-01 dated
+
+November 9, 20o0 on 'Guidelines for Classification and Valuation of investments ', Fls are
+
+required to recognise any diminution, other than temporary, in the value of their investments
+
+in subsidiaries / joint ventures which are included
+
+nderHeldtoMaturitycategoryand
+
+provide therefor. However, in the absence of
+
+pecificinstructionsonthemethod of
+
+assessment / measurement of permanent c
+
+lon,it hasbeenobservedthatBanks/Fls
+
+are not making any attempt to determin
+
+there is any permanent diminution in their
+
+strategic equity investments held un
+
+or AFS categories.
+
+The need to determine whether impairment has occurred is a continuous process and
+
+2.
+
+the need for such determination will arise in the following circumstances:
+
+(a)  On the happening of an event which suggests that impairment has occurred. This
+
+would include:
+
+(i)the company has defaulted in repayment of its debt obligations.
+
+(i) the loan amount of the company with any bank/Fl has been restructured.
+
+grade.
+
+(b)When the company has incurred losses for a continuous period of three years and
+
+the net worth has consequently been reduced by 25% or more.
+
+ShahidBhagatSinghMarg,Mumbai-1
+
+Tel No: 91-22-22705688FaxNo: 91-22-2270 1238 Email ID: cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+(c) In the case of new company or a new project when the originally projected date of achieving the breakeven point has been extended i.e., the company or the project has not achieved break-even within the gestation period as originally envisaged.
+3. When the need to determine whether impairment has occurred arises in respect of a subsidiary, joint venture or a material investment, the FI should obtain a valuation of the investment by a reputed / qualified valuer and make provision for the impairment, if any.
+4. These guidelines would be applicable with immediate effect. Please acknowledge receipt. Yours faithfully, (B. Mahapatra) Chief General Manager-In-Charge
+# Withdrawn

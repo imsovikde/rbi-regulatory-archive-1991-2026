@@ -1,0 +1,45 @@
+---
+doc_id: "Circulars_2011_RPCD_CO_RRB_No_47_03_05_33_2010-11"
+title: "Meeting of Committee on Investor Education and Protection Fund - Ministry of Corporate Affairs - Minutes of the Meeting"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/INAW200111.PDF"
+pdf_sha256: "5b7852deda3fad8926c7459662830962f15823c89b2f6b3a85bff5bd9cef92b2"
+md_sha256: "7938eb7e9046d7341bbba1cc4511bb6fd9945e114471fb1214600c58982a9082"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:15:01Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-01-20_Circular_RPCD.CO.RRB.No.47-03.05.33-2010-11_Meeting%20of%20Committee%20on%20Investor%20Education%20and%20Protection%20Fund%20-%20Ministry%20of%20Corporate%20Affairs%20-%20Minutes%20of%20the%20Meeting.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Meeting of Committee on Investor Education and Protection Fund - Ministry of Corporate Affairs - Minutes of the Meeting
+
+<!-- PAGE 1 -->
+
+भारत ज़व ीय िर र् बैंक **___________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+## RBI/2010–11/378
+
+RPCD.CO.RRB.No. 47/ 03.05.33/ 2010-11 January 20, 2011
+
+The Chairman All Regional Rural Banks/
+
+Dear Sir,
+
+## Meeting of Committee on Investor Education and Protection Fund-
+
+## Ministry of Corporate Affairs-Minutes of the meeting
+
+We advise that in a meeting of ‘Committee on Investors Education and Protection Fund’ held by the Government of India, Ministry of Corporate Affairs, New Delhi, it has, inter-alia, been decided that banks should make ‘investor awareness’ as one of the agenda items in their periodical meetings with their customers at semi urban/rural branches so that more people are covered under the programme.
+
+2. You are advised to take necessary action in this regard.
+# Withdrawn
+
+Yours faithfully
+
+(R.K.Moolchandani) Deputy General Manager
+
+Rural Planning & Credit Department Central Office**,** 10 th Floor, Central Office Building, post box no. 10014 Mumbai -400 001 Tel No: 91-22-22601000 Fax No: 91-22-22610943/22610948/22658276 Email ID:cgmicrpcd@rbi.org.in

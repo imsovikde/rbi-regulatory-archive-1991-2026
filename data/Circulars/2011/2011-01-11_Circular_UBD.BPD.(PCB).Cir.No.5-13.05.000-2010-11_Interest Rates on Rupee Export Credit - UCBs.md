@@ -1,0 +1,321 @@
+---
+doc_id: "Circulars_2011_UBD_BPD_PCB_Cir_No_5_13_05_000_2010-11"
+title: "Interest Rates on Rupee Export Credit - UCBs"
+category: "Circulars"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IUCB120111FE.PDF"
+pdf_sha256: "fab0ee0c3314acd0621fc59a8713ed00e3f8d83b6e3d3d8bc7a82e5089ccec7e"
+md_sha256: "4d544234c30f5eb115abfc6aec59203c7c3044f9a4a8c5592eda15d7ba5e7e4f"
+total_pages: 9
+native_pages: 7
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:14:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-01-11_Circular_UBD.BPD.%28PCB%29.Cir.No.5-13.05.000-2010-11_Interest%20Rates%20on%20Rupee%20Export%20Credit%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Rupee Export Credit - UCBs
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/367
+
+UBD.BPD.(PCB) Cir. No 5/13.05.000/2010-11
+
+January 11, 2011
+
+Chief Executive Officer
+
+Scheduled Primary (Urban) Co-operative Banks
+
+(holding AD Category I licence)
+
+Dear Sir / Madam,
+
+Interest Rates on Rupee Export Credit -UcBs
+
+Please refer to circular UBD.CO.BPD.Cir.No.1/13.05.000/2009-10 dated September
+
+16, 2009 extending the interest subvention on rupee export credit to specified export
+
+sectors till March 31, 2010.
+
+2. It has been decided to extend interest subve
+
+upee export credit upto 180 days on
+
+the specified export sectors / sub-sectors
+
+effect from April 1, 2010 to March 31,
+
+2011.
+
+Specified Sectors / Sub-sectors:
+
+(i) Handicrafts
+
+(ii) Carpets
+
+(i) Handlooms
+
+(iv) Small and Medium Enterprises (SME) (as defined in Annex I)
+
+(v) Leather and Leather Manufactures (specified sub-sectors only)
+
+(vi) Jute Manufacturing including Floor Covering (specified sub-sectors only)
+
+(vii) Engineering Goods (specified sub-sectors only)
+
+(vili) Textiles (specified sub-sectors only)
+
+Details of specified sub-sectors are furnished in Annex Il.
+
+3.A Directive No.UBD.BPD.Dir.(Exp).No.2/13.05.000/2010-11 dated December 28,
+
+2010, issued in this regard, is enclosed.
+
+,, 3,  , , - 400 018
+
+: 022 - 2493 9930 - 49, a: 022 - 2497 4030 / 2492 0231,: rbiubdco@rbi.org.in
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018
+
+Phone:022- 2493 9930-49,Fax: 022- 2497 4030/2492 0231,Email: rbiubdco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. Claims for re-imbursement of subvention amount may be submitted to the Chief General Manager-in-Charge, Urban Banks Department, Reserve Bank of India, Central Office, Garment House, Worli, Mumbai - 400 018 on a quarterly basis starting from quarter ended June 30, 2010 in the format as per Annex III. The amount of subvention will be calculated on the amount of export credit from the date of disbursement up to the date of repayment or up to the date beyond which the outstanding export credit becomes overdue i.e. for pre-shipment credit up to 270 days and post-shipment credit up to 180 days, whichever is earlier. The claims should be accompanied by an Auditor's Certificate certifying that the claim for
+subvention of Rs ……………. for the period.......... (specify the quarter) is true and
+correct. Settlement of the claim will be done only on receipt of this certificate.
+
+## Yours faithfully
+
+(Uma Shankar) Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex-I
+
+## <u>Definition of SME</u>
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below :
+
+(i)A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5,
+2006) does not exceed Rs.25 lakh;
+(ii)A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5,
+
+2006) is more than Rs.25 lakh but does not exceed Rs.5 crore; and
+(iii)A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No. S.O.1722(E) dated
+
+# Withdrawn
+
+October 5, 2006) is more than Rs.5 crore but does not exceed Rs.10 crore.
+
+<!-- PAGE 4 -->
+
+## LIST OF SECTORS/SUB-SECTORS ON WHICH IN TEREST SUBVENTION IS TO BE EXTENDED
+
+|Sl.|Major Item Group||Principal Commodity||||Commodity|
+|---|---|---|---|---|---|---|---|
+|No.||Code||HS code||||
+|1|Leather & Leather manufactures|42|LEATHER GOODS|42032910|GLOVES FOR USE IN INDUSTRY|||
+|2|Jute Mfg. including Floor Covering|51|JUTE YARN|53072000|MULTIPLE FOLDED OR CABLED YARN OF JUTE|||
+|3|Engineering Goods|63|FERRO ALLOYS|72021100|FE MANGANESE, CARBON CONTNG>2% BY RO- WEIGHT|||
+|4|Engineering Goods|65|NON-FERROUS METALS|74081190|OTHER COPPR WIRE WTH MAX CRS-SEC DIAMT|R>6MM||
+|5|Engineering Goods|66|MANUFACTURES OF METALS|73042990|OTHER|||
+|6|Engineering Goods|66|MANUFACTURES OF METALS|73049000|OTHER SEALMESS TU PROFILES|||
+|7|Engineering Goods|66|MANUFACTURES OF METALS|73051129|NON-GALVAN PIPE OF OTHER FOR OIL OR GAS LON|GITUDINALLY SUBMERGED ARC WELDED||
+|8|Engineering Goods|66|MANUFACTURES OF METALS|73069019|ERW PRECISION OTHER TUBES MADE UP OF OTHE|R||
+|9|Engineering Goods|66|MANUFACTURES OF METALS|73072100|FLANGES OF STAINLESS STEEL|||
+|10|Engineering Goods|66|MANUFACTURES OF METALS|73079190|NON-GALVANISED|||
+|11|Engineering Goods|66|MANUFACTURES OF METALS|73084000|PROPS & SMLR EQUIPMENT FOR SCAFFOLDING, SHUTTE|RING OR PIT-PROPPING||
+|12|Engineering Goods|66|MANUFACTURES OF METALS|73121020|WIRE ROPES,GALVANISED|||
+|13|Engineering Goods|66|MANUFACTURES OF METALS|73181500|OTHER SCREWS & BOLTS W/N WITH NUTS OR WASHE|RS THREADED||
+|14|Engineering Goods|66|MANUFACTURES OF METALS|73251000|OTHER ARTCLES OF NON-MALLEABLE CAST IRON|||
+|15|Engineering Goods|66|MANUFACTURES OF METALS|73259910|OTHER CAST ARTCLES OF IRON MALLEABLE|||
+|16|Engineering Goods|66|MANUFACTURES OF METALS|73259920|OTHER CAST ARTCLES ALLOY STEEL MALLEABLE|||
+|17|Engineering Goods|66|MANUFACTURES OF METALS|73259930|OTHER CAST ARTLS STAINLESS STEEL MALLEABLE|||
+|18|Engineering Goods|66|MANUFACTURES OF METALS|73261990|OTHERS OF OTHER ARTICLES OF FORGED OR STAMPED||BUT NOT FURTHER WORKED|
+|19|Engineering Goods|66|MANUFACTURES OF METALS|76061200|RECTNGLR (INCL SQR) PLTS ETC. OF ALMNM|||
+||||||ALLYS|||
+|20|Engineering Goods|66|MANUFACTURES OF METALS|76141000|STRANDED WIRE, CBLS ETC WTH STEEL CORE|||
+
+## Description Description
+
+## BES/PI PES AND HOLOW
+
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+|21|Engineering Goods|66|MANUFACTURES OF METALS||76149000|OTHER STRNDED WIRE, CBLS PLAITD BNDS ETC||
+|---|---|---|---|---|---|---|---|
+|22|Engineering Goods|67|MACHINE TOOLS||84669390|OTHE|R PRTS ACCSSRS, ATTCHMNT FR|
+|||||||TOOL||
+|23|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84089090|OTHERS||
+|24|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84159000|PARTS OF THE AIR CONDITIONING MACHINES ETC||
+|25|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84198990|OTHERS||
+|26|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84199090|PRTS OF MCHNRY PLNT & SMLR LBRTRY EQPMNT & OF INST NTNS/STORG WTR HEATRS (EXCL DOMSTC TYPE) FALLING WTHN HDGNO.8419||
+|27|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84818030|INDUSTRIAL VALVES (EXCL PRESSURE-REDUCING VALVES, & THRMSTCLY CONTRLLD VALVES)||
+|28|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84818090|OTHERS||
+|29|Engineering Goods|68|MACHINERY AND INST||84829900|OTHER BALL/||
+|30|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84879000|OTHR MCANRY PARTS OF THE HEADING 8485||
+|31|Engineering Goods|68|MACHINERY AND INSTRUMENTS||85021100|GERTNG SETS WTH CMPRSSN IGNTN INTRNL CMB OF AN OUTPUT NT EXCDNG 75 KVA|STN PSTN ENGNS (DIESL/SEMI-DIESL ENGNS)|
+|32|Engineering Goods|68|MACHINERY AND INSTRUMENTS||85023100|OTHE GENERATING SETS; WIND POWERED||
+|33|Engineering Goods|68|MACHINERY AND INSTRUM|ENTS|85030010|PARTS OF GENERATORS (AC/DC)||
+|34|Engineering Goods|68|MACHINERY AND INSTRUMENTS||85030029|PARTS OF ELECTRC MTRS OTHR THN DC||
+|35|Engineering Goods|68|MACHINERY AND INSTRUMENTS||85444999|OTHR ELCTRC CNDCTRS FOR A VOLTAGE <=80V NOT FITTED WITH CONNECT||
+|36|Engineering Goods|68|MACHINERY AND INSTRUMENTS||85446090|OTHR ELCTRC CNDCTRS FR A VLTG EXCDG 1000 V||
+|37|Engineering Goods|68|MACHINERY AND INSTRUMEN|TS|90189099|OTHR SRGCL INSTRMNTS & APPLNCS (INCL VTRNRY)||
+|38|Engineering Goods|68|MACHINERY AND INSTRUMEN|TS|84219900|OTHR PARTS OF FLTRNG/PURFYNG MCHNRY||
+|39|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84314990|PRTS OF OTHR MACNRY OF HD 8426, 8429, 8430||
+|40|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84831099|OTHER TRNSMSN SHFT (INCL CAM & CRNK SHFT)||
+|41|Engineering Goods|68|MACHINERY AND INSTRUMENTS||84834000|GRARS & GRARNG, EXCL TOOTHD WHEELS, TRNS SCRWS; GEAR BOXES & SPEED CHNGRS, INCL TORQUE CNVRTRS|MSN ELMNTS PRSNTD SEPRTLY; BALL|
+|42|Engineering Goods|69|TRANSPORT EQUIPMENTS||87019010|OTHER TRACTORS OF||
+|43|Engineering Goods|69|TRANSPORT||87021099|OTHR VHCLS (>13 PERFONS) WTH CMPRSN-IGNTN INTRNL CMBSTN PIST||
+|44|Engineering Goods|69|TRANSPOR||87084000|GEAR BOXES||
+|45|Engineering Goods|69|TRANSPORT EQUIPMENTS||89019000|OTHR VSSLS FOR TRANSPRT OF GOODS & OTHR||
+
+MACHN-
+
+## RUMENTS RLR BEARNG PARTS
+
+ORS
+
+# Withdrawn
+
+ENGN CAPACITY <=1800 CC EQUIPMENTS ON ENGINE T EQUIPMENTS
+
+<!-- PAGE 6 -->
+
+VSSLS FOR TRANSPRT OF PERSONS & GOODS PMENTS
+
+|46|Engineering Goods|69|TRANSPORT EQUI|89040000|TUGS AND PUSHER CRAFT||
+|---|---|---|---|---|---|---|
+|47|Engineering Goods|69|TRANSPORT EQ|89059090|OTHER UNDER HDNG 8905||
+|48|Engineering Goods|71|IRONnSTL BAR/ROD ETCnFRRO|72222011|BRIGHT BARS- CHROMIUM TYPE||
+||||ALOY||||
+|49|Engineering Goods|71|IRONnSTL BAR/ROD ETCnFRRO|72222012|BRIGHT BARS- NCKL CHR||
+||||ALOY||||
+|50|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON & ST|L 72082510|PLATES OF FLAT-ROLD PRDCTS IN COILS OF A THCKN|S>=4.75MM ONLY HT-ROLD, PICKLD|
+|51|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON & STL|72083990|OTHR FLAT-ROLD PRDCTS IN COILS OF A THCKN|S>3MM HOT-ROLD, EXCL.PICKL|
+|52|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON & STL|72091830|STRIPS OF FLT RLD PRDCTS IN COILS NT FRTHRW|RKD THN COLD RLD OF THCKNS<0.5 MM|
+|53|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON|72104900|OTHR PRDCTS OF IRON/NON-ALLOY STEEL OTHE|RWISE PLTD/COTD WTH ZINC|
+|54|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON & ST|L 72106100|FLT-RLD PRDCTS OF IRON/NON ALOY STL PLTD OR COTD WT|H ALUMINIUM ZINC ALLOYS|
+|55|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON & STL|72193490|COLD ROLD PRDCTS OF STAINLESS STEEL OF A THCKNS>=0.5 MM BUT<1MM||
+|56|Engineering Goods|72|PRMRY & SEMI-FNSHD IRON & STL|72071920|MILD STEEL (M.S.)BILLETS||
+|57|Textiles|76|COTTON YARN, FABRICS, M ADEUPSETC|52052290|OTHERS||
+|58|Textiles|76|COTTON YARN, FABRICS, M ADEUPSETC|63049250|TERRY TOWEL OF COTN, NTKNTD/CRCHTD||
+|59|Textiles|78|MANMADE YARN, FABRICS, MAD EUPS|54071019|UNBLECHD OTHR POLYSTER FABRICS||
+|60|Textiles|80|RMG COTTON INCL ACCESSOR|IES 61051010|COTTON SHIRTS, HAND CROCHETED||
+|61|Textiles|80|RMG COTTON INCL ACCESSOR|IES 61082100|BRIEFS AND PANTIES OF COTTON||
+|62|Textiles|80|RMG COTTON INCL ACCESSORIES|62031910|SUITS OF COTTON||
+|63|Textiles|84|RMG OF OTHR TEXTILE MATRL|61041990|SUITS OF WOOL/FINE ANML HAIR||
+|64|Textiles|84|RMG OF OTHR TEXTILE MATRL|61069090|BLOUSES ETC OF OTHER FIBRES||
+
+UIPMENTS OMI UM AUSTENITIC TYPE
+
+& STL OF OTHR TYPES
+
+# Withdrawn
+
+<!-- PAGE 7 -->
+
+## Annex III
+
+## Rupee Export Credit for the period from ______ to ________
+
+(to be submitted quarterly starting from quarter ended June 30, 2010) (Pre-shipment Export Credit up to 270 days and Post-shipment Export Credit up to 180 Days)
+
+||Category of Exporters|Total Rupee Export Credit granted at 2% Less than the Rates charged for other categories of Exporters|Amount of Subvention Claimed|
+|---|---|---|---|
+|(i) (ii) (iii) (v)|(1) Handicrafts Carpets Handlooms (iv) Small and Medium Enterprises (SME) (as defined in Annex I) Leather and Leather Manufactures (vi) Jute Manufacturing including Floor covering (vii) Engineering Goods (viii) Textiles|(2) Withdrawn|(3)|
+|Total||NB : Amount of subvention should be rounded off to the nearest rupee.||
+
+We certify having charged interest on the above loans at interest rates that are 2% below those charged for other categories of exporters by way of export credit to the eligible exporters as stated in the RBI circular No.UBD.BPD.PCB.Cir.No.___/13.05.000/2010-11 dated December ____, 2010 during the period _____to ________.
+
+## Dated : _________________
+
+Sd/- Name and Designation of Authorised Signatory
+
+<!-- PAGE 8 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+UBD.BPD.Dir.(Exp).No. 2 /13.05.000/2010-11
+
+December28,2010
+
+Interest Rates on Rupee Export Credit
+
+In exercise of the powers conferred by Sections 21 and 35A of the Banking
+
+necessary and expedient in the public interest so to do, hereby directs that, with
+
+operative banks holding AD category I licence will charge, for specified export
+
+sectors / sub-sectors, interest at 2 percentage points below the interest rates
+
+charged from exporters in other categories of export sector, for the outstanding
+
+credit up to 180 days.
+
+Specified Sectors/ Sub-sectors:
+
+(i) Handicrafts
+
+(ii) Carpets
+
+Vithdrawn
+
+(i) Handlooms
+
+(iv) Small and Medium Enterprises (SME) (as defined in Annex I)
+
+(v) Leather and Leather Manufactures (specified sub-sectors only)
+
+(vii) Engineering Goods (specified sub-sectors only)
+
+(vili) Textiles (specified sub-sectors only)
+
+Details of specified sub-sectors are furnished in Annex Il.
+
+(V. K. Sharma)
+
+Executive Director
+
+,  ,  3, e , 可,  - 400 018
+
+: 022 - 2493 9930 - 49, q: 022 - 2497 4030 / 2492 0231,: rbiubdco@rbi.org.in
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018
+
+Phone: 022 - 2493 9930 - 49,Fax: 022 - 2497 4030 / 2492 0231, Email: rbiubdco@rbi.org.in
+
+<!-- PAGE 9 -->
+
+## Annex-I
+
+## <u>Definition of SME</u>
+
+Enterprises engaged in the manufacture or production, processing or preservation of goods as specified below :
+
+(i) A micro enterprise is an enterprise where investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5,
+2006) does not exceed Rs.25 lakh;
+(ii) A small enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vide its notification No.S.O.1722(E) dated October 5,
+
+2006) is more than Rs.25 lakh but does not exceed Rs.5 crore; and
+(iii) A medium enterprise is an enterprise where the investment in plant and machinery (original cost excluding land and building and the items specified by the Ministry of Small Scale Industries vi
+
+# Withdrawn
+
+de its notification No. S.O.1722(E) dated October 5, 2006) is more than Rs.5 crore but does not exceed Rs.10 crore.
