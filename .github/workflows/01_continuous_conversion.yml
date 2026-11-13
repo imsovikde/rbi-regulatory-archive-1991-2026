@@ -34,6 +34,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   convert-and-commit:
@@ -71,11 +72,10 @@ jobs:
             fonts-dejavu-extra \
             qpdf
 
-      - name: Set Up Python 3.11 and Cache Pip Packages
+      - name: Set Up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
 
       - name: Install Canonical Extraction and OCR Stack
         run: |
