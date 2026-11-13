@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2022_DOR_CRE_REC_56_13_05_000_2022-23"
+title: "Board Approved Loan Policy - Management of Advances - UCBs"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT9359F49AF2F2BF4D97BC857B5281B2DDDF.PDF"
+pdf_sha256: "02a5525b476883336a11e596018d838bf49b9be99e4255d4d2f45079229f7485"
+md_sha256: "e5fce7ae5c504511b657f45ecdc2df5593ab6ff9e9851440e95e95e85d7a63b4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-07-26_Circular_DOR.CRE.REC.56-13.05.000-2022-23_Board%20Approved%20Loan%20Policy%20-%20Management%20of%20Advances%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Board Approved Loan Policy - Management of Advances - UCBs
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक <u>RESERVE BANK OF INDIA www.rbi.org.in</u>
+
+RBI/2022-23/93 DOR.CRE.REC.56/13.05.000/2022-23 July 26, 2022
+
+## All Primary (Urban) Co-operative Banks
+
+Madam / Dear Sir,
+
+## Board approved Loan Policy – Management of Advances-UCBs
+
+Please refer to para 1 of the <u>Master Circular DOR.CRE.REC.No.17/13.05.000/2022-</u> <u>23 dated April 8, 2022</u> on Management of Advances – UCBs in terms of which, UCBs are required to lay down, with the approval of their boards, transparent policies and guidelines for credit dispensation, in respect of each broad category of economic activity, keeping in view the credit exposure norms and various other guidelines issued by Reserve Bank from time to time.
+
+2. It has been observed in several UCBs that these policies not only lack comprehensive coverage, but also do not require a periodic review. In order to ensure that the loan policy reflects approved internal risk appetite and remains in alignment with the extant regulations, it is advised that the loan policy of the bank shall be reviewed by the Board at least once in a financial year.
+# Withdrawn
+
+3. The above instructions will come into effect immediately. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+__________________________________________________________________ िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001 टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान है, इसका �योग बढ़ाइए

@@ -1,0 +1,78 @@
+---
+doc_id: "Circulars_2022_DOR_MRG_REC_87_00-00-020_2022-23"
+title: "Operations of Subsidiaries and Branches of Indian Banks and All India Financial Institutions (AIFIs) in Foreign Jurisdictions and in International Financial Services Centers (IFSCs) - Compliance with Statutory / Regulatory Norms"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FINALCIRCULAR0112202244E4771D705648AA8B7985561A6EE055.PDF"
+pdf_sha256: "00c3d9cdb7956fb37012a028ad97e2806c891f9a4861d4a50c6572946e725d2e"
+md_sha256: "caa1e0a8ae474fd428716cb2222e513cf12f7a66bad7bcb1cd0363903f315bf2"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-12-01_Circular_DOR.MRG.REC.87-00-00-020-2022-23_Operations%20of%20Subsidiaries%20and%20Branches%20of%20Indian%20Banks%20and%20All%20India%20Financial%20Institutions%20%28AIFIs%29%20in%20Foreign%20Jurisdictions%20and%20in%20Internatio.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Operations of Subsidiaries and Branches of Indian Banks and All India Financial Institutions (AIFIs) in Foreign Jurisdictions and in International Financial Services Centers (IFSCs) - Compliance with Statutory / Regulatory Norms
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+## ________________________RESERVE BANK OF INDIA________________________
+
+www.rbi.org.in RBI/2022-23/145 DOR.MRG.REC.87/00-00-020/2022-23 December 1, 2022
+
+**Operations of subsidiaries and branches of Indian banks and All India Financial** **Institutions (AIFIs) in foreign jurisdictions and in International Financial Services** **Centers (IFSCs) - Compliance with statutory/regulatory norms**
+
+As you are aware, Reserve Bank had vide <u>circular DBOD.No.BP.BC.89</u> <u>/21.04.141/2008-09 dated December 1, 2008</u> and <u>circular</u> <u>DBOD.No.BP.BC.111/21.04.157/2013-14 dated May 12, 2014</u> issued instructions to Indian banks and AIFIs on the issue of dealing in financial products by their branches/subsidiaries operating outside India. On a review, it was felt that a framework needs to be in place to allow them to undertake activities which are not specifically permitted in the Indian domestic market and also to specify the applicability of these instructions to International Financial Services Centers (IFSCs) in India including Gujarat International Finance Tec-City (GIFT City).
+
+**1. Applicability and commencement**
+(1) These directions are applicable to all banks regulated by the Reserve Bank
+# Withdrawn
+
+(excluding co-operative banks, Regional Rural Banks and Local Area Banks) and All India Financial Institutions (AIFIs).
+
+(2) They shall come into force with immediate effect.
+## 2. Dealing in financial products
+
+(1) The foreign branches/foreign subsidiaries of Indian banks/AIFIs can deal in financial products, including structured financial products, which are not available or are not permitted by the Reserve Bank in the domestic market without prior approval of Reserve Bank, subject to compliance with conditions specified in paragraph 3 of these directions and those prescribed by the host regulator. िविनयमन िवभाग,क द्रीय कायालय, 12 वीं और 13 वीं मंिजल, क द्र ी य कायालय भवन, शहीद भगत िसंह माग,फोट,मुंबई-400001
+दू रभाष: 022-22601000 फै � : 022-22705691 ई-मेल: cgmicdor@rbi.org.in ____________________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022-<u>2260 1000 Fax: 022-2270 5691 email: cgmicdo</u>r@rbi.org.in <u>िहंदी आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+(2) The branches/subsidiaries of Indian banks/AIFIs operating in IFSCs including those operating out of GIFT City may also deal in financial products, including structured financial products, which are not available or are not permitted by the Reserve Bank in the domestic market subject to compliance with all applicable laws/regulations and conditions stipulated in paragraph 3 below and those prescribed by the host regulator.
+## 3. Conditions for dealing in financial products
+
+While allowing branches/ subsidiaries in foreign jurisdictions as well as in IFSCs to deal in such products, the parent Indian bank/AIFI shall ensure that:
+
+a) dealing in such products is done with the prior approval from their Board and, if required, the appropriate authority in the concerned jurisdictions.
+b) they have adequate knowledge, understanding, and risk management capability for handling such products.
+c) they act as market makers for products only if they have the ability to price/value such products and the pricing of such products is demonstrable at all times.
+d) their exposure and mark-to-market (MTM) on these products are appropriately captured and reported in the returns furnished to the Reserve Bank. They shall provide information about dealing in such financial products as may be specifiedWithdrawn by the Reserve Bank in the manner and format and within the time frame as prescribed by the Reserve Bank.
+e) they do not deal in products linked to Indian Rupee unless specifically permitted by Reserve Bank.
+f) they do not accept structured deposits from any Indian resident; and
+g) they adhere to the suitability and appropriateness policies as mandated by the Reserve Bank and the host regulators, as applicable.
+## 4. Compliance with prudential norms
+
+(1) The financial products dealt with by the foreign branches and subsidiaries as well as IFSCs shall attract the prudential norms such as capital adequacy, exposure norms (including Large Exposure Framework), periodical valuation, and all other applicable
+
+<!-- PAGE 3 -->
+
+norms. Parent bank shall adhere to more stringent among the host and home regulations in respect of prudential norms.
+
+(2) In case the current norms of the Reserve Bank do not specify prudential treatment of any financial product, the parent bank/AIFI shall seek specific guidance from Reserve Bank.
+## 5. Activities subject to Indian laws
+
+The activities of branches/subsidiaries in foreign jurisdictions and IFSCs shall be subject to the laws in India, unless specifically exempted by law.
+
+**6. Repeal of earlier instructions** With the issuance of these directions, the following circulars shall stand repealed:
+a) <u>Circular DBOD.No.BP.BC.89 /21.04.141/2008-09 dated December 1, 2008</u>; and
+b) <u>Circular DBOD.No.BP.BC.111/21.04.157/2013-14 dated May 12, 2014</u>.
+Yours faithfully,
+
+# Withdrawn
+
+(Usha Janakiraman) Chief General Manager

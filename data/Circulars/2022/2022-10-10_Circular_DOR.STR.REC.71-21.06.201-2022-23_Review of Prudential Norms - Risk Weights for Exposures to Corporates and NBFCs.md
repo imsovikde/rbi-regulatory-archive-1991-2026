@@ -1,0 +1,44 @@
+---
+doc_id: "Circulars_2022_DOR_STR_REC_71_21_06_201_2022-23"
+title: "Review of Prudential Norms - Risk Weights for Exposures to Corporates and NBFCs"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/REVIEWRWS3DEF38B18F3F4D45860F92C8F81432FA.PDF"
+pdf_sha256: "6a95d8a433cb69fd49a709434d1d735a8b683678661431f2abf4493f13b2fa0a"
+md_sha256: "9e7f8b3e90cfa351964b7ab0e47e149801cd09e6c474f4a52c22d9c5297f866e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-10-10_Circular_DOR.STR.REC.71-21.06.201-2022-23_Review%20of%20Prudential%20Norms%20-%20Risk%20Weights%20for%20Exposures%20to%20Corporates%20and%20NBFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Prudential Norms - Risk Weights for Exposures to Corporates and NBFCs
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/125 DOR.STR.REC.71/21.06.201/2022-23 October 10, 2022
+
+All Scheduled Commercial Banks (including Small Finance Banks) (Excluding Local Area Banks, Regional Rural Banks and Payments Banks)
+
+Madam/Dear Sir,
+
+## Review of Prudential Norms – Risk Weights for Exposures to Corporates and NBFCs
+
+Please refer to paragraph 6.8.1 (i) of <u>Master Circular on Basel III capital regulations dated</u> <u>April 1, 2022</u> in terms of which banks are permitted to derive risk weights for their unrated exposures based on the ratings available for a specific rated debt subject to the conditions specified that the bank’s facility ranks *pari passu* or senior to the specific rated debt in all respects and the maturity of the unassessed claim is not later than the maturity of the rated claim. Banks may also refer to paragraph 6.2.5 of the Master Circular *ibid* regarding publication of bank loan ratings by External Credit Assessment Institutions (ECAIs).
+
+2. It is observed that the Press Releases (PRs) issued by ECAIs on rating actions are often
+# Withdrawn
+
+devoid of the lenders’ details. Absence of such information may result in banks applying the derived risk weights for unrated exposures, without satisfying themselves regarding adherence to prescribed conditions. This may, consequentially, lead to potentially lower provision of capital as well as underpricing of risks. In order to address the above information asymmetry, the Reserve Bank had advised the ECAIs vide letter dated June 4, 2021 to disclose the name of the banks and the corresponding credit facilities rated by them in the PRs issued on rating actions by August 31, 2021, after obtaining requisite consent from the borrowers.
+
+3.owever, on a review it has been observed that the above disclosures are not H
+available in a large number of PRs issued by ECAIs owing to the absence of requisite consent by the borrowers to the ECAIs. It is, therefore, advised that a bank loan rating without the above disclosure by the ECAI shall not be eligible for being reckoned for capital computation by banks. Banks shall treat such exposures as unrated and assign applicable risk weights in terms of paragraph 5.8.1 of the Master Circular *ibid* read with amendments carried out from time to time.
+
+<!-- PAGE 2 -->
+
+4. *Illustratively*, a scenario may be assumed, where a borrower has availed credit facilities from Banks A, B and C and external rating from an ECAI is obtained only in respect of the credit facility extended by Bank A. If the ECAI has disclosed the name of Bank A and the corresponding credit facility rated by it, then Bank A can reckon the said rating for risk weighting purpose. Banks B and C are permitted to derive risk weights for their respective unrated credit facilities subject to conditions stated in paragraph 6.8.1 (i) of Master Circular *ibid,* as permitted hitherto. In the event of ECAI not making the above disclosure, none of the banks shall reckon the said rating, and therefore shall apply risk weights of 100 percent or 150 percent as applicable in terms of extant instructions.
+5. The above instructions shall be effective from March 31, 2023. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+# Withdrawn

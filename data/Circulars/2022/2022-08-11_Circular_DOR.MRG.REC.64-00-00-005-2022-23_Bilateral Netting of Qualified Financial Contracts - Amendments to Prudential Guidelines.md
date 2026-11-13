@@ -1,0 +1,49 @@
+---
+doc_id: "Circulars_2022_DOR_MRG_REC_64_00-00-005_2022-23"
+title: "Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential Guidelines"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT10715A45520C2B34D1DBCDB17B24C01829D.PDF"
+pdf_sha256: "de8788e105f9ae7f38e30f708f72e97d071287007a253420a3d99c332dd41af6"
+md_sha256: "92736e0b9789abb0b7bfb3851a96f1b39f0fe15994632080c37c3d000f2d844b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-08-11_Circular_DOR.MRG.REC.64-00-00-005-2022-23_Bilateral%20Netting%20of%20Qualified%20Financial%20Contracts%20-%20Amendments%20to%20Prudential%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential Guidelines
+
+<!-- PAGE 1 -->
+
+<u>www.rbi.org.in</u> RBI/2022-23/107 DOR.MRG.REC.64/00-00-005/2022-23 August 11, 2022
+
+Dear Sir / Madam, **Bilateral Netting of Qualified Financial Contracts - Amendments to Prudential** **Guidelines**
+
+Please refer to the <u>circular DOR.CAP.51/21.06.201/2020-21 dated March 30, 2021</u> and <u>circular DOR.CAP.REC.No.97/21.06.201/2021-22 dated March 31, 2022</u> on the captioned subject.
+
+2. At present, while computing capital requirements for counterparty credit risk, the following exposures, wherever allowed to be undertaken, are exempted or capped:
+a) foreign exchange (except gold) contracts which have an original maturity of 14 calendar days or less are excluded from capital requirements for counterparty credit risk.
+b) ‘sold options’, provided the entire premium / fee or any other form of income is received / realised, are excluded from capital requirements for counterpartyWithdrawn credit risk.
+c) For Credit Default Swap transaction where bank is protection seller, the exposure is capped at the amount of premium unpaid by the protection buyer.
+3. We have received queries from regulated entities (REs) regarding the applicability of the above exemptions / caps under the Bilateral Netting framework. In this connection, it is clarified that:
+a) the exemption for foreign exchange (except gold) contracts which have an original maturity of 14 calendar days or less shall be applicable to entities calculating the counterparty credit risk under Original Exposure Method without taking the benefit of bilateral netting. Accordingly, the exemption would be applicable only to Regional Rural Banks, Local Area Banks and Co-operative Banks, where the bank has not adopted the bilateral netting framework. For other entities, the exemption shall stand withdrawn.
+_____________________________________________________________________________-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------_______ व�नयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत स ंह मागर्, मुंबई 400001 टे लफोन /Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Bhavan, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691, 5692
+
+<!-- PAGE 2 -->
+
+b) ‘sold options’, provided the entire premium / fee or any other form of income is received / realised, can be excluded only when such ‘sold options’ are outside the netting and margin agreements.
+c) For Credit Default Swaps where the bank is the protection seller and that are outside netting and margin agreements, the exposure may be capped to the amount of premium unpaid. Banks have the option to remove such credit derivatives from their legal netting sets in order to apply the cap.
+4. Accordingly, the select instructions have been modified/ amended as detailed in <u>Annex</u>.
+## Applicability
+
+5. This circular is applicable to all Commercial Banks, Co-operative Banks, Standalone Primary Dealers, Systemically Important Non-Deposit taking Non-Banking Financial Companies (NBFC-ND-SIs), Deposit taking Non-Banking Financial Companies (NBFC-Ds) and Housing Finance Companies (HFCs).
+6. These instructions shall come into force with immediate effect.
+# Withdrawn
+
+Yours faithfully,
+
+(Usha Janakiraman) Chief General Manager

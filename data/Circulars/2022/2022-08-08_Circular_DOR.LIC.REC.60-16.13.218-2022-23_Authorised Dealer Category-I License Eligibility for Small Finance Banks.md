@@ -1,0 +1,59 @@
+---
+doc_id: "Circulars_2022_DOR_LIC_REC_60_16_13_218_2022-23"
+title: "Authorised Dealer Category-I License Eligibility for Small Finance Banks"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT104DBF31521EB5243479DEFC7370B6D43D7.PDF"
+pdf_sha256: "a8a32f131aefd77ce18c14f295677221afa3255284513208f31412db80e4cbf2"
+md_sha256: "80231d04c886ff2893034006891a05015293942c82be34fab6bd35c011a28317"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-08-08_Circular_DOR.LIC.REC.60-16.13.218-2022-23_Authorised%20Dealer%20Category-I%20License%20Eligibility%20for%20Small%20Finance%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Authorised Dealer Category-I License Eligibility for Small Finance Banks
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बक
+
+__________________________________________________________________________________________
+
+# RESERVE BANK OF INDIA
+
+RBI/2022-23/104 DOR.LIC.REC.60/16.13.218/2022-23 August 8, 2022 Managing Director and Chief Executive Officers of Small Finance Banks Madam/ Dear Sir, **Authorised Dealer Category-I License eligibility for Small Finance Banks** Please refer to the ‘<u>Guidelines for Licensing of Small Finance Banks in Private</u> <u>Sector’ dated November 27, 2014uidelines for ‘on</u> and the ‘<u>G-tap’ Licensing of Small</u> <u>Finance Banks in Private Sector’ released by Reserve Bank on December 5, 2019</u>.
+
+2. In terms of paragraph 4 of the aforesaid Licensing Guidelines, a small finance bank (SFB) can also become Authorised Dealer Category-II in foreign exchange business for its clients’ requirements.
+3. With the objective of giving more flexibility to SFBs to meet their customers’ foreign exchange business requirement, it has been decided that all the scheduled SFBs, after completion of at least two years of operations as Authorised Dealer Category-II, will be eligible for Authorised Dealer Withdrawn Category-I license, subject to compliance with the eligibility norms given in the <u>Annex-I</u>. ible SFBs The elig may approach Foreign Exchange Department, Central Office, Reserve Bank of India with their applications along with the supporting documents with regard to their eligibility and requisite documents as specified in <u>Annex-II</u> for grant of Authorised Dealer Category-I license.
+4. The other terms and conditions of the Licensing Guidelines remain unchanged. Yours faithfully, (Prakash Baliarsingh) Chief General Manager
+### Encl.: As above
+
+____________________________________________________________________________________________________________________ व�नयमन वभाग, क द्र य कायार्लय, क द्र य कायार्लय भवन, 12वीं/13वीं मंिज़ल, शहद भगतसंह मागर्, मुंबई– 400001 Department of Regulation, Central Office, Central Office Building, 12th/13th Floor, Shahid Bhagat Singh Marg, Mumbai – 400001 टेलफोन /Tel No: 91-22-22661602, 22601000 फै क्स /Fax No: 91-22-22705691 Email ID: cgmicdor@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Annex-I
+
+## Eligibility norms for Small Finance Banks for Authorised Dealer Category-I
+
+(i) The bank should have completed at least two years of operations as Authorised Dealer Category-II. (ii) The bank should have been included in the Second Schedule to RBI Act
+1934.
+(iii) It should have a minimum net worth of ₹500 crore. (iv) Its CRAR should not be less than 15%.
+
+(v) The net NPAs of the bank should not exceed 6%, during previous four quarters. (vi) It should have made profit in the preceding two years. (vii) It should not have defaulted in maintenance of CRR/ SLR during previous two years. (viii) It should have sound internal control systems. (ix) It should not have any major regulatory and supervisory concerns.
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex-II
+
+## List of documents to be furnished along with the application to Foreign
+
+## Exchange Department, Central Office, Reserve Bank of India
+
+(i) A copy of applicant’s banking license issued by Department of Regulation, Reserve Bank of India; and (ii) Necessary Board resolution for conducting the activities permitted to an Authorised Dealer Category-I and for obtaining necessary authorisation from the Reserve Bank under section 10(1) of FEMA 1999.
+# Withdrawn

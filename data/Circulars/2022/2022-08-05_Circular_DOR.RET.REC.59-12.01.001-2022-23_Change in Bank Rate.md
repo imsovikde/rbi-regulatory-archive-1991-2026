@@ -1,0 +1,51 @@
+---
+doc_id: "Circulars_2022_DOR_RET_REC_59_12_01_001_2022-23"
+title: "Change in Bank Rate"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT10355A06E6E060A49EF83192F9D485A8B48.PDF"
+pdf_sha256: "b3e4a082d68ea3923c7e76a306e37edb539a6910b3bd2f3c2a7daca2932196f8"
+md_sha256: "21bb85683b465a2c1ca6b33b7de1ba2d67d39fc7061ac4d2279e4376121b2039"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-08-05_Circular_DOR.RET.REC.59-12.01.001-2022-23_Change%20in%20Bank%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in Bank Rate
+
+<!-- PAGE 1 -->
+
+### भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+RBI/2022-23/103 DOR.RET.REC.59/12.01.001/2022-23 August 05, 2022
+
+#### All Banks
+
+Madam/Sir, **Change in Bank Rate**
+
+Please refer to our <u>circular DOR.RET.REC.44/12.01.001/2022-23 dated June 08, 2022</u> on the captioned subject.
+
+2. As announced in the <u>Monetary Policy Statement 2022-23 dated August 05, 2022</u>, the Bank Rate is revised upwards by 50 basis points from 5.15 per cent to 5.65 per cent with immediate effect.
+3. All penal interest rates on shortfall in reserve requirements, which are specifically linked to the Bank Rate, also stand revised as indicated in the <u>Annex</u>.
+# Withdrawn
+
+Yours faithfully,
+
+(Prakash Baliarsingh) Chief General Manager
+
+**Encl.: As above**
+
+िविनयमन िवभाग, क द्रीय कायालय, 12वी ं औ र 13वी ं मं िज़ ल, क द्रीय कायालय भवन, शहीद भगत िसंह माग, मुंबई 400001 टेलीफोन /Tel No: 22601000 फै � / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shaheed Bhagat Singh Marg, Mumbai ñ 400001 Tel No: 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 बक िहंदी म पत्राचार का �ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+||Annex Penal Interest Rates which are linked to the Bank Rate||
+|---|---|---|
+|Item|Existing Rate|Revised Rate (With immediate effect)|
+|shortfalls in reserve on duration of shortfalls).|Penal interest rates on Bank Rate plus 3.0 Bank Rate plus 3.0 percentage points percentage points (8.15 requirements (depending per cent) or Bank Rate percentage points (10.65 per cent). plus 5.0 percentage points (10.15 per cent). Withdrawn|(8.65 per cent) or Bank Rate plus 5.0|
