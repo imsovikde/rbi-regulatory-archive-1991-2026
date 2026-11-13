@@ -1,0 +1,110 @@
+---
+doc_id: "Notifications_2014_1471"
+title: "Master Circular – Scheme of Incentives and Penalties for bank branches based on performance in rendering customer service to the members of public"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/86MCIPAN260614.pdf"
+pdf_sha256: "aa3c43dbabfb275f64066d24447e1af5fec7b43c656a0195d23710ff2e2c1eb1"
+md_sha256: "f87ebc02f400eae427c7e863056cabdbae4a7b43cf01a060e575bb6fa4d2b74a"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:46:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-07-01_Notification_1471_Master%20Circular%20%E2%80%93%20Scheme%20of%20Incentives%20and%20Penalties%20for%20bank%20branches%20based%20on%20performance%20in%20rendering%20customer%20service%20to%20the%20members%20of%20public.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular – Scheme of Incentives and Penalties for bank branches based on performance in rendering customer service to the members of public
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/86 DCM (CC) No.G- 5/03.39.01/2014-15 July 01, 2014
+
+The Chairman & Managing Director / Chief Executive Officers All Banks
+
+Madam / Dear Sir, **Master Circular – Scheme of Incentives and Penalties for bank branches based on** **performance in rendering customer service to the members of public**
+
+Please refer to the <u>Master Circular DCM (CC) No. G-3 /03.39.01/2013-14 dated July 01, 2013</u> containing the scheme of incentives and penalties for bank branches including currency chests based on the performance in rendering customer service to members of public.
+
+2. A revised and updated version on the subject is annexed for information and necessary action.
+3. This Master Circular is available on our website <u>www.rbi.org.in</u>. Yours faithfully, (M.K. Mall) General Manger (Officer-in-Charge) Encl : As above
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Master Circular on the Scheme of Incentives and Penalties for bank branches including
+
+## currency chests based on performance in rendering customer service to members of public.
+
+1. The Scheme of Incentives and Penalties for bank branches including currency chests has been introduced in order to ensure that all bank branches provide better customer service to members of public with regard to exchange of notes and coins.
+2. **Incentives**
+a) As per the Scheme banks are eligible for the following financial incentives for providing facilities for exchange of notes and coins:
+
+|Sr. No.|Nature of Service|Particulars of Incentives|
+|---|---|---|
+|i)|Opening of and maintaining currency chests at centers having population of less than 1 lakh in under banked States.|a. Capital Cost: Reimbursement of 50% of capital expenditure subject to a ceiling of Rs.50 lakh per currency chest. In the North Eastern region upto 100% of capital expenditure is eligible for reimbursement subject to the ceiling of Rs.50 lakh. b. Revenue cost: Reimbursement of 50% of revenue expenditure for the first 3 years. In the North Eastern region 50% of revenue expenditure will be reimbursed for the first 5 years.|
+|ii)|Exchange of soiled notes/ adjudication of mutilated banknotes over the counter at bank branches|a. Exchange of soiled notes – ` 2 per packet for exchange of soiled notes up to ` 50/-. b. Adjudication of mutilated notes – ` 2.00 per piece.|
+
+<!-- PAGE 3 -->
+
+|iii)|Distribution of coins over counter|i. `.25/- per bag for distribution of coins over the counter. ii. The incentives would be paid on the basis of net withdrawal from currency chest, without waiting for claims from banks. iii. Banks may put in place a system of checks and balances to ensure that coins are distributed to retail customers in small lots and not to bulk. iv. The distribution of coins shall be verified by RBI Regional Offices through inspection of currency chest / incognito visits to branches etc.|
+|---|---|---|
+|(iv)|Establishment of Coin Vending Machines|The existing level of incentives of a) Capital cost reimbursement of 50% of capital expenditure in case of Urban / Metro centres and reimbursement of 75% of capital expenditure in case of rural and semi urban centres. b) reimbursement of revenue cost at Rs.25/- per bag as applicable to commercial banks maintaining currency chests would now be applicable to all scheduled commercial banks including urban co-op. banks and RRBs (irrespective of whether they maintain currency chest or not)|
+|(v)|Installation of Machines which extend cash related retail services to the public like – i. Coin Pouch Vending Machines; ii. Note Packet Vending Machines; iii. Cash Acceptors; iv. Cash Recyclers; iv. Desktop banknote authenticating machines; v. ATMs dispensing lower denomination notes. (vi) Installation of Note Sorting Machines (NSMs)|50% of the cost of the machines (including installation) in urban / metropolitan areas and 75% in semi-urban and rural areas. Applicable to RRBs, UCBs, all licensed State Co-operative Banks and District Central Co- operative Banks – 50% of cost of the machines in urban / metropolitan areas and 75% in semi-urban and rural areas.|
+
+<!-- PAGE 4 -->
+
+b) (i) The incentives will be paid on the soiled notes actually received in the Regional Office. Banks need not submit a separate claim. Currency chest branch will have to pass on the incentive to the linked branches for the soiled notes tendered by them on a pro-rata basis (ii) Similarly, incentive will be paid in respect of the adjudicated notes received along with the soiled note remittances. No separate claim is required to be made. (iii) The claims for incentives for installation of Coin Vending machines (CVMs), Note Sorting Machines (NSMs) and the machines which extend cash related retail services to the public, with Auditor's certificate should be submitted to the respective Issue Office of RBI on quarterly basis within 30 days through the Link Office of the bank concerned. It may please be ensured that coins are supplied either directly or through linkage scheme so that CVMs remain functional.
+## 3. Penalties
+
+a) Penalties to be imposed on banks for deficiencies in exchange of notes and coins/remittances sent to RBI/operations of currency chests etc. are as follows:
+
+|Sr.No.|Nature of Irregularity|Penalty|
+|---|---|---|
+|i.|Shortages in soiled note remittances and currency chest balances|For notes in denomination upto `.50 `.50/- per piece in addition to the loss For notes in denomination of `.100 & above Equal to the value of the denomination per piece in addition to the loss. Shortages of 100 pieces and above per remittance shall be debited immediately. Penalty may be levied on reaching a limit of 100 pieces in a cumulative manner.|
+|ii.|Counterfeit notes detected in soiled note remittances and currency chest balances.|Penalty on account of detection of counterfeit notes by RBI from soiled note remittance of banks and in currency chest balances will henceforth be three times the notional value of counterfeit notes. In case it is found during RBI Inspection, Snap Inspection etc. that a bank branch or currency chest has detected counterfeit notes but not reported the same to RBI or Police, strict regulatory measures against the bank including stringent disciplinary action and /or imposition of monetary penalty, will be taken by RBI. Penalty will be levied immediately for any|
+
+<!-- PAGE 5 -->
+
+## counterfeit note detected.
+
+iii. Mutilated notes detected in ` 50/- per piece irrespective of the soiled note remittances and denomination currency chest balances **Mutilated notes of 100 pieces and above per remittance shall be debited**
+
+## immediately. Penalty may be levied on reaching a limit of 100 pieces in a
+
+**cumulative manner.**
+
+|Non-compliance with operational|Penalty of|` 5000 for each irregularity.|
+|---|---|---|
+|guidelines by currency chests|||
+|detected by RBI officials|Penalty will be enhanced to||
+|a) Non-functioning of CCTV|case of repetition.||
+|b) Branch cash/documents kept|Penalty will be levied immediately.||
+
+iv.
+
+`.10,000 in
+
+## in strong room
+
+c) Non-utilization of NSMs for sorting of notes (NSMs not used for sorting of high denomination notes received over the counter or not used for sorting notes remitted to chest/RBI)
+v. Violation of any term of ` 10,000 for any violation of agreement or agreement with RBI (for opening deficiency of service. and maintaining currency chests) or deficiency in service ` 5 lakh in case there are more than 5 in providing exchange facilities, instances of violation of as detected by RBI officials e.g.. agreement/deficiency in service by the
+branch. The levy of such penalty will be
+
+a) Non-issue of coins over the placed in public domain. counter to any member of public despite having stock. Penalty will be levied immediately.
+b) Refusal by any bank branch to exchange soiled notes / refusal by any currency chest branch to adjudicate mutilated notes tendered by any member of public
+c) Non conduct of surprise verification of chest balances, at least at bimonthly intervals, by officials unconnected with the custody thereof and by the officials from the Controlling Office once in six months.
+<u>d) Denial of facilities/services to</u>
+
+<!-- PAGE 6 -->
+
+## linked branches of other banks.
+
+e) Non acceptance of lower denomination notes (i.e. denomination of ` 50 and below) tendered by members of public and linked bank branches.
+f) Detection of mutilated /counterfeit notes in re-issuable packets prepared by the currency chest branches.
+b) The Competent Authority to **decide the nature of irregularity** will be the Officer-in-Charge of the Issue Department of the Regional Office under whose jurisdiction the defaulting currency chest/bank branch is located.
+c) Appeal against the decision of the Competent Authority may be made by the Controlling Office of the currency chest/branch to the Regional Director of the Regional Office concerned, **within one month from the date of debit**, who may decide whether the same can be accepted/ rejected.
+d) Appeals for waiver of penalty made on grounds such as staff being new/untrained, lack of awareness of staff, corrective action having been taken/will be taken, etc. will not be considered.
+____________

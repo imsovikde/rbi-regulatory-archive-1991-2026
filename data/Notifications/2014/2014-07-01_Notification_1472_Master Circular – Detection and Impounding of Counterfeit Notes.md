@@ -1,0 +1,412 @@
+---
+doc_id: "Notifications_2014_1472"
+title: "Master Circular – Detection and Impounding of Counterfeit Notes"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/87MC250614FL.pdf"
+pdf_sha256: "4a3d6bf6874fd66326712eaaf19bae0892f82e14953de01688ffd7b244b2b183"
+md_sha256: "090b3f7c7f981f8db731f5f23e62a45a4f4e820416249d5911f50e0383691eeb"
+total_pages: 25
+native_pages: 25
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:46:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-07-01_Notification_1472_Master%20Circular%20%E2%80%93%20Detection%20and%20Impounding%20of%20Counterfeit%20Notes.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular – Detection and Impounding of Counterfeit Notes
+
+<!-- PAGE 1 -->
+
+## RBI /2014-15/87
+
+DCM (FNVD) G- 2 / 16.01.05 / 2014-15 July 1, 2014
+
+The Chairman / Managing Director, Commercial Banks, Cooperative Banks, RRBs, Private Banks, Foreign Banks and Director of Treasuries of all States
+
+Dear Sir / Madam,
+
+## Master Circular – Detection and Impounding of Counterfeit Notes
+
+Please refer to the <u>Master Circular DCM (FNVD) No.G-5/16.01.05/ 2013-14 dated July</u> <u>1, 2013</u> consolidating the instructions issued till June 30, 2013 relating to Detection and Impounding of Counterfeit Notes. The Master Circular has since been updated by incorporating the instructions issued till date and has been placed on the RBI website <u>www.rbi.org.in</u>.
+
+The Master Circular is a compilation of the instructions contained in the circulars issued by RBI on the above subject which are operational as on the date of this Circular.
+
+Yours faithfully,
+
+(M.K. Mall) General Manager (Officer-in-Charge) Encl: Master Circular मुद्रा प्रबंध विभाग, के न्द्द्रीय कायाालय, चौथी मंज़िल, अमर बबज़्डंग, सर पी. एम. मागा, पोस्ट बॉक्स स.1379, मुंबई-400 001(भारत) फोन:-+91 22 2266 1644; फ़ै क्स :-+91 22 2266 2442; ई-मेल :-helpdcm@rbi.org.in th Department of Currency Management, Central Office, 4 Floor, Sir P.M. Road, P.B. No.1379, Mumbai-400 001 ( India) Phone :- +91 22 2260 3000, 2260 4000 Fax:- +91 22 2266 2442 E mail : helpdcm@rbi.org.in हिन्द्दी आसान िै, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+## Master Circular – Detection and Impounding of Counterfeit Notes – 2014-15
+
+## CONTENTS
+
+|Para No|Particulars|
+|---|---|
+|1|Authority to Impound Counterfeit Notes|
+|2|Detection of counterfeit notes|
+|3|Impounding of Counterfeit notes|
+|4|Issue of Receipt to tenderer|
+|5|Detection of counterfeit notes – Reporting to Police and other bodies|
+|6|Examination of Banknotes Before Issuing over Counters, Feeding ATMs and Remitting to Issue Offices of RBI|
+|7|Designating Nodal Bank Officer|
+|8|Establishment of Forged Notes Vigilance Cell at Head Office of Bank|
+|9|Provision of Ultra-Violet Lamp and Other Infrastructure|
+|10|Reporting of Data - (I) Bank Branches (II) FNVC of Bank (III) Cooperative Banks & RRBs|
+|11|Compensation for detection of counterfeit notes|
+|12|Preservation of Counterfeit Notes Received from Police Authorities|
+|13|Detection of Counterfeit Notes-Training of Staff Annex I Annex II Annex III Annex IV Annex V Annex VI Annex VII|
+
+<!-- PAGE 3 -->
+
+## RESERVE BANK OF INDIA
+
+## DEPARTMENT OF CURRENCY MANAGEMENT
+
+## MASTER CIRCULAR – 2014-15
+
+## Detection and Impounding of Counterfeit Notes
+
+## Para 1 Authority to Impound Counterfeit Notes
+
+The Counterfeit Notes can be impounded by-
+
+(i) All branches of Public Sector Banks. (ii) All branches of Private Sector Banks and Foreign Banks. (iii) All branches of Co-operative Banks & Regional Rural Banks. (iv) All Treasuries and Sub-Treasuries.
+(v) Issue Offices of Reserve Bank of India.
+## Para 2 Detection of counterfeit notes
+
+i. Detection of counterfeit notes should be at the back office / currency chest only. Banknotes when tendered over the counters may be checked for arithmetical accuracy and other deficiencies like whether there are mutilated notes, and appropriate credit passed on to the account or value in exchange given. ii. Thereafter the notes should be passed over to the back office / currency chest, as the case may be, for detailed verification and authentication through machines iii. The banknotes categorized as suspect during machine processing should be subjected to manual verification for checking their authenticity.
+iv. **In no case, the counterfeit notes should be returned to the tenderer or destroyed** **by the bank branches / treasuries**. Failure of the banks to impound counterfeit notes detected at their end will be construed as willful involvement of the bank concerned, in circulating counterfeit notes and penalty will be imposed for violation of <u>Directive No.</u> <u>3158/09.39.00 (Policy)/2009-10 dated November 19, 2009</u> issued by the Reserve Bank.
+
+## Para 3 Impounding of counterfeit notes
+
+The notes identified as counterfeit should be kept separately with proper impounding stamp as per the format (Annex I). Details of each impounded note should be recorded under authentication in a separate register.
+
+<!-- PAGE 4 -->
+
+## Para 4 Issue of Receipt to Tenderer
+
+For such notes, there will not be any requirement to issue acknowledgement to the tenderer. Notice to this effect should be displayed prominently at the offices / branches for the information of the public.
+
+## Para 5 Detection of Counterfeit Notes-Reporting to Police and other bodies
+
+A counterfeit note detected in the cash received by the bank /Treasury, shall be impounded, in the manner detailed in Para 2 above.
+
+Thereafter, the following procedure should be followed while reporting incidence of detection of counterfeit note to the Police:
+
+For cases of detection of counterfeit notes upto 4 pieces, in a single transaction, a consolidated report (**Annex II**) should be sent by the Nodal Bank Officer to the police authorities or the Nodal Police Station, along with the suspect counterfeit notes, at the end of the month.
+
+For cases of detection of counterfeit notes of 5 or more pieces, in a single transaction, the counterfeit notes should be forwarded by the Nodal Bank Officer to the local police authorities or the Nodal Police Station for investigation by filing FIR (**Annex III**).
+
+A copy of the monthly consolidated report / FIR shall be sent to the Forged Note Vigilance Cell constituted at the Head Office of the bank (only in the case of banks), and in the case of the treasury, it should be sent to the Issue Office of the Reserve Bank concerned.
+
+Acknowledgement of the police authorities concerned has to be obtained for note/s forwarded to them both as consolidated monthly statement and FIR. If the counterfeit notes are sent to the police by insured post, acknowledgement of receipt thereof by the police should be invariably obtained and kept on record. A proper follow-up of receipt of acknowledgement from the police authorities is necessary. In case, any difficulty is faced by the Offices / Branches due to reluctance of the police to receive monthly consolidate statement / file FIRs, the matter may be sorted out in consultation with the Nodal Officer of the police authority designated to coordinate matters relating to investigation of counterfeit banknotes cases. The list of Nodal Police Station may be obtained from the respective Regional Office of Reserve Bank.
+
+Banks should also monitor the patterns / trends of such detection and suspicious trends / patterns should be brought to the notice of RBI /Police authorities immediately.
+
+<!-- PAGE 5 -->
+
+The progress made by banks in detection and reporting of counterfeit notes to Police, RBI, etc. and problems thereof, should be discussed regularly in the meetings of various State Level Committees viz. State Level Bankers’ Committee (SLBC), Standing Committee on Currency Management (SCCM), State Level Security Committee (SLSC), etc.
+
+The data on detection of counterfeit Indian notes at bank branches & treasuries should be included in the monthly Returns forwarded to the Reserve Bank Issue Offices as indicated in para 9 below.
+
+The definition of 'counterfeiting' in the Indian Penal Code covers currency notes issued by a foreign government authority as well. In case of suspected foreign currency note received for opinion from the police and government agencies, etc., they should be advised to forward the case to the Interpol Wing of the CBI, New Delhi after prior consultation with them.
+
+## Para 6 Examination of the Banknotes before Issuing over Counters, Feeding ATMs and
+
+## Remitting to Issue Offices of the Reserve Bank
+
+The banks should re-align their cash management in such a manner so as to ensure that cash receipts in the denominations of ` 100 and above are not put into re-circulation without the notes being machine processed for authenticity. The said instructions shall be applicable to all bank branches, irrespective of the volume of daily cash receipt. Any non-compliance will be construed as violation of the <u>Directive No. 3158/09.39.00 (Policy)/2009-10 dated November 19,</u> <u>2009</u> issued by the Reserve Bank.
+
+In order to obviate complaints regarding receipt of counterfeit notes through ATMs, and to curb circulation of counterfeits, it is imperative to put in place adequate safeguards/checks before loading ATMs with notes. Dispensation of counterfeit notes through the ATMs would be construed as an attempt to circulate the counterfeit notes by the bank concerned.
+
+Detection of counterfeits in chest remittances is also liable to be construed as willful involvement of the chest branches concerned in circulating Counterfeit Notes and may attract special investigation by police authorities, and other action like suspending the operation of the chest concerned.
+
+Reserve Bank may consider the option of levying higher penal interest/penalties for the amount of forged notes detected in the chest remittances by RBI or during inspection.
+
+<!-- PAGE 6 -->
+
+## Para 7 Designating Nodal Bank Officer
+
+Each bank should designate Nodal Bank Officer, district-wise and notify the same to the concerned Regional Office of RBI and Police Authorities. All cases of reporting of counterfeit note detection as indicated in Para 5 should be through the Nodal Bank Officer. The Nodal Bank Officer will also serve as the contact point for all counterfeit note detection related activities.
+
+## Para 8 Establishment of Forged Notes Vigilance Cell at Head Office of Bank
+
+Each bank shall establish at its Head Office, a Forged Note Vigilance Cell to undertake the following functions:
+
+i. Dissemination of instructions issued by the Reserve Bank on counterfeit notes to bank’s branches. Monitoring the implementation of these instructions. Compilation of data on detection of counterfeit notes, and its submission to Reserve Bank and FIU-IND as per extant instructions. Follow-up of cases of counterfeit notes, with police authorities / designated nodal officer. ii. Sharing of the information thus compiled with bank’s CVO and report to him / her all cases of acceptance / issue of counterfeit notes over the counters. iii. Conducting periodic surprise checks at currency chests where shortages/ defective /counterfeit notes etc. are detected.
+iv. Ensuring operation of Note Sorting Machines of appropriate capacity at all the currency chests / back offices and closely monitoring the detection of Counterfeit Notes and maintaining the record of the same. Ensuring that only properly sorted and machine examined banknotes are fed into the ATMs / issued over the counters and to put in place adequate safeguards, including surprise checks, both during the processing and in transit of notes.
+
+Forged Note Vigilance Cell shall submit status report on a quarterly basis covering the aforesaid aspects to the Chief General Manager, Department of Currency Management, Reserve Bank of India, Central Office, Amar Building, Fourth Floor, Sir P. M. Road, Fort, Mumbai 400 001, and to the Issue office of the Regional office of Reserve Bank under whose jurisdiction the FNV Cell is functioning, within a fortnight from the conclusion of the quarter under report. The said report should be sent by <u>mail</u>. No hard copy need be sent.
+
+<!-- PAGE 7 -->
+
+In order to update the record of the addresses of the Forged Note Vigilance Cells, the bank shall furnish by e-mail, in the prescribed proforma (**Annex IV**), the address etc. particulars to the Reserve Bank every year, as on 1st July.
+
+## Para 9 Provision of Ultra-Violet Lamp and Other Infrastructure
+
+With a view to facilitating the detection of counterfeit notes, all bank branches / identified back offices should be equipped with ultra-violet lamps / other appropriate banknote sorting / detection machines. In addition, all currency chest branches should be equipped with verification, processing and sorting machines and should be used to their optimum capacity. Such machines should conform to the guidelines on 'Note Authentication and Fitness Sorting Parameters' prescribed by the Reserve Bank in May 2010.
+
+The banks shall maintain a daily record of the notes processed through the Note Sorting machines, including the number of counterfeits detected.
+
+The banks should also consider providing at least one counting machine (with dual display facility) for public use at the counter.
+
+## Para 10 Reporting of Data to RBI
+
+## I By Banks
+
+Data on counterfeit notes detected by all the branches of the bank shall be reported in the prescribed format, on a monthly Basis A statement (**Annex V)**-showing the details of counterfeit notes detected in the bank branches during the month shall be compiled and forwarded to the Issue Office of Reserve Bank concerned so as to reach them by 7th of the next month.
+
+Bank branches need not report the data to NCRB.
+
+Under Rule 3 of Prevention of Money Laundering Rules, 2005, Principal Officers of banks are also required to report information on cash transactions where forged notes have been used as genuine note to The Director, FIU-IND, Financial Intelligence Unit-India, 6th Floor, Hotel Samrat, Chanakyapuri, New Delhi-110021, within seven working days.
+
+A “nil “report may be sent in case no counterfeit has been detected during the month.
+
+<!-- PAGE 8 -->
+
+## II By Forged Note Vigilance Cell of Bank
+
+Forged Note Vigilance Cell set up at the Head Office of the bank (other than Cooperative and Regional Rural Banks) shall submit a monthly Return reflecting data on banknotes processed (` 100 and above), counterfeit notes detected by the bank, on an all-India basis in a prescribed proforma described at Para 11,
+
+A "nil" report may be sent in case no counterfeit has been detected during the month.
+
+## III By Co-operative Banks and Regional Rural Banks
+
+Data on Counterfeit Notes detected by branches of Co-operative Banks and Regional Rural Banks should be furnished on monthly basis to the respective Issue Office of Reserve Bank *(**Annex V**).*
+
+Data on an all-India basis should be compiled at the Head Office of the bank on a monthly basis in the prescribed proforma described at Para 11.
+
+## Para 11 Compensation
+
+i. The banks will be compensated by RBI to the extent of 25 % of the notional value of the counterfeit notes of ` 100 denomination and above, detected and reported to RBI and Police authorities. ii. Claims for compensation should be made through the Forged Note Vigilance Cell of the banks in the prescribed format **(Annex VI)** on a monthly basis through <u>email</u> within fifteen days of the succeeding month. iii. Reimbursement will be done by RBI, Department of Currency Management, to begin with, on a quarterly basis.
+iv. A review of the above system will be conducted after one year.
+
+## Para 12 Preservation of Counterfeit Notes Received from Police Authorities
+
+All Counterfeit Notes received back from the police authorities/courts may be carefully preserved in the safe custody of the bank and a record thereof be maintained by the branch concerned. Forged Note Vigilance Cell of the bank shall also maintain a branch -wise consolidated record of such Counterfeit Notes.
+
+<!-- PAGE 9 -->
+
+These Counterfeit Notes at branches should be subjected to verification on a half-yearly basis (on 31st March and 30th September) by the Officer-in- Charge of the bank office concerned. They should be preserved for a period of three years from the date of receipt from the police authorities.
+
+They may thereafter be sent to the concerned Issue Office of Reserve Bank of India with full details.
+
+Counterfeit notes, which are the subject matter of litigation in the court of law should be preserved with the branch concerned for three years after conclusion of the court case.
+
+## Para 13 Detection of Counterfeit Notes-Training of Staff
+
+It is necessary to ensure that the cash handling staff in banks and treasuries / sub-treasuries is fully conversant with the security features of a banknote.
+
+With a view to educating the branch staff on detection of counterfeit notes, the design and security features of all the banknotes shown in **Annex VII** have been supplied to all the banks / treasuries with instructions to display them prominently at the branches for information of the public. Posters of the 2005-06 series of banknotes have also been supplied to bank branches for display at the branches. Posters of the 2005-06 series are also available for download in <u>[http://www.paisaboltahai.rbi.org.in](http://www.paisaboltahai.rbi.org.in)</u>.
+
+The Controlling Offices / Training Centers should also organise / conduct training programmes on the security features of banknotes for members of staff to enable detection of counterfeit notes at the point of receipt itself. The banks should ensure that all bank personnel handling cash are trained on features of genuine Indian bank notes within a period of 2 years. The Reserve Bank will also provide faculty support and training materials.
+
+<!-- PAGE 10 -->
+
+## Annex I
+
+## (Paragraph 3)
+
+Each banknote, which, on examination of various security features / parameters, is determined as a counterfeit one, shall be branded with a stamp "COUNTERFEIT BANKNOTE". For this purpose, a stamp with a uniform size of 5 cm x 5 cm with the following inscription may be used.
+
+COUNTERFEIT BANKNOTE IMPOUNDED BANK / TREASURY/ SUB-TREASURY BRANCH / CURRENCY CHEST SIGNATURE DATE
+
+<!-- PAGE 11 -->
+
+# Annex II (Paragraph 5)
+
+Consolidated Monthly Reporting for the month of ________
+
+1. Name of the Bank / District:
+2. Name and Address of the Nodal Officer:
+3. Detail of counterfeit notes: Date of Name of branch / Denominations / Security features detection currency chest pieces / serial breached
+numbers
+
+4. The counterfeit notes are enclosed.
+5. Kindly acknowledge receipt.
+(Authorised signatory) Encl:
+
+<!-- PAGE 12 -->
+
+## Annex- III
+
+## (Paragraph 5)
+
+Name of the Bank: District: Name and Address of the Nodal Bank Officer: Ref. No. Date:
+
+The Sr. Inspector of Police ___________Police Station,
+
+Dear Sir,
+
+Detection of counterfeit note/s – Request for investigation
+
+We enclose the following counterfeit notes detected in our office on ________. The details of the counterfeit notes are furnished below.
+
+2. As the printing and/or circulation of forged Indian Currency Notes is an offence under Sections 489A to 489E of the Indian Penal Code, we request you to lodge FIR and conduct the necessary investigation. In case it is decided to file criminal proceedings in the court of law, you may first arrange to send the notes to any of the Note Printing Presses, Forensic Science Laboratories etc. in terms of the provisions of Section 292(1) and 292(3) of the Code of Criminal Procedure) for examination. The expert opinion furnished may be produced in the court as evidence under Section 292 of the Criminal Procedure Code. The forged notes may please be returned to us after the completion of the investigation and/or proceedings in the court of law along with the detailed report of the investigation/decision of the court. Denominations Serial Number Notional Value Name and Bank’s Entry No
+Address of the /Number of branch / pieces currency chest where detection took place
+
+3. The counterfeit notes are enclosed.
+4. Please acknowledge receipt. Yours faithfully,
+## Authorized Signatory
+
+Encl:
+
+<!-- PAGE 13 -->
+
+||||||Annex IV||
+|---|---|---|---|---|---|---|
+|||||(Paragraph 8)|||
+|FORMAT FOR FURNISHING ADDRESS ETC. PARTICULARS OF FORGED NOTE|||||||
+|VIGILANCE CELL (FNVC) TO RBI|||||||
+|(TO BE FURNISHED BY E-MAIL ON 1ST JULY EVERY|||||||
+|YEAR)|||||||
+|REF: MASTER CIRCULAR DATED JULY1, 2012 ISSUED BY RBI|||||||
+|NAME OF THE|ADDRESS OF|NAME AND|TELEPHONE FAX NO. E-mail||||
+|BANK|FNVC(WITH PIN|DESIGNATION OF|NO (WITH|(WITH|Address||
+||CODE)|OFFICER-IN- CHARGE|CODE).|CODE)|of the FNVC||
+|We note to intimate immediately the changes, if any, in the particulars furnished|||||||
+|above|||||||
+|Name of Authorised Official:|||||||
+|Designation:|||||||
+|Date:|||||||
+|NB:: The completed format should be transmitted by e-mail, in MS-Exel||||on the|||
+|following address-|||||||
+|email|||||||
+
+<!-- PAGE 14 -->
+
+## Annex V (Paragraph 10)
+
+Name of the bank /District: Statement showing the details of counterfeit banknotes detected in the _______________ during the month of _______________
+
+A. Details of counterfeit notes detected<u>:</u>
+
+|Type of detection|Name of branch / currency chest|||Denomination-wise Details in pieces||||Total pieces|
+|---|---|---|---|---|---|---|---|---|
+|FIR||10|20|50|100|500|1000||
+|Non-FIR|||||||||
+
+B) Details of cases filed with police:
+
+||Pending with Police at the beginning of the month|Sent to Police during the month under report|Returned by the Police|Pending with the Police at the end of the month|
+|---|---|---|---|---|
+|No. of cases|||||
+|No. of pieces|||||
+
+NB: Each FIR lodged comprises one case. The total number of forged notes covered by the FIR may be indicated in each of the columns above. Forwarded to: -
+
+1. The General Manager/Deputy General Manager, Reserve Bank of India, Issue Department, ____________ (Signature) Name & Designation of the Authorised Official
+
+<!-- PAGE 15 -->
+
+## Annex VI (Paragraph 11)
+
+Claim for the month of: Name of the bank: Address of the Forged Note Vigilance: E-mail address: State/Union territory-<u>wise summary of Counterfeit Notes detected and Reported</u> by the bank:
+
+|Name of State / UT ¥|Particulars|||Denominational detail in pieces||||Total|
+|---|---|---|---|---|---|---|---|---|
+|||10|20|50|100|500|1000||
+||Banknotes Processed through machines||||||||
+||Counterfeit Notes Detected and Reported Claim for compensation @ 25% of the notional value of counterfeit notes detected||||||||
+
+# ¥To be indicated separately for each State / UT
+
+Certified that (i) Consolidated Monthly Reporting /FIRs, as applicable, to Police have been done in respect of all notes indicated above, and (ii) the related data has been reported to the Issue Office of Reserve Bank of India concerned. Name of Head of the FNV Cell _____________ Designation _____________ Date _____________ Forwarded to Department of Currency Management, (FNV Division), Reserve Bank of India, Mumbai
+
+**NB:: claim to be prepared in MS-Exel and transmitted by** <u>e-mail</u> **within 15 days of succeeding month.**
+
+<!-- PAGE 16 -->
+
+## Annex-VII (Paragraph 13)
+
+<u>Designs of bank notes issued by the</u> <u>Reserve Bank of India since 1967</u>
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+||I. Rs.10 notes||||
+|1967|137x63 mm|Ashoka Pillar|Purple colour. Numeral 10 in the centre.|Value of the note in 14 languages. The oval seascape with country craft.|
+|1968|-do-|-do-|Blue-black colour. Promise clause, guarantee clause and signature printed in bilingual.|-do- RBI’s name in Hindi added.|
+|1969|-do-|-do-|Blue Black colour. ‘Ten Rupees’ instead of ‘Rupees Ten’.|Mahatma Gandhi’s Portrait.|
+|1970|-do-|Ashoka with wheels.|Pillar Hindi version of RBI incorporated spinning in place of English and vice versa. Hindi rendering of Guarantee clause, promise clause and Governor’s signature have been interchanged. सत्यमेि जयते incorporated. Watermark window and numbering panel enlarged.|Bilingual seal incorporated|
+|1975|-do-|-do-|Dark brown, umber and blue colour. Numeral ‘10’ printed in dark brown. Intaglio printing. Languages scroll on left and Ashoka Pillar emblem on right.|Pale brown, Ochre blue and green colour. A circle with two Peacocks on branch of a tree. Deer, horses, bird and lotus.|
+|1992|-do-|-do-|Overall colour scheme in pale pink, magenta and yellow|Shalimar garden|
+|1996|-do-|Portrait Mahatma Gandhi multidirectiona watermark window.|of Overall colour scheme in mauve brown, orange and pink. Portrait of with Mahatma Gandhi. Embedded security thread containing the l lines in the words 'ž¸¸£÷¸ RBI’ readable on both sides when held against light.|Intricate guilloche and floral patterns with profiles of an elephant, rhinoceros and tiger’s faces. Value of note in 15 Indian languages.|
+|2006|-do-|The portrait of Machine Mahatma|readable windowed demetalised clear text magnetic|Year of printing is incorporated at the|
+
+<!-- PAGE 17 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+|II. Rs.20 notes||Gandhi, multidirectiona electrotype mark showing the denominationa l numeral 10 appear in this section and these can be viewed better when the banknote is held against light.|the security thread with inscriptions 'Bharat' (in Hindi) and RBI which l lines, and an fluoresces in yellow on both sides under UV light. (Generic). Width: 1.4 mm Dual coloured optical fibres. The small floral design printed both on the front (hollow) and back (filled up) of the note in the middle of the vertical band next to the Watermark has an accurate back-to-back registration so that the numeral appears as one when seen against the light.|printing stage on the reverse of the banknote.|
+|1972|147X63 mm|Ashoka Pillar|Saffron colour. Ashoka Pillar emblem on the right and language panel on the left side.|Bold lettering in Hindi appears centrally in a horizontal panel, flanked by figures 20 at the corner. Picture of Parliament House. On the left value in Indian languages.|
+|1975|-do-|Pillar chain spinning wheels. Resin on treated paper|Small Ashoka Red, blue, mauve and pale yellow with colour. Numerical 20 in dark of mauve on a light yellow lotus shaped design. Language scroll the left and Ashoka Pillar emblem on right. The printing bleeds off on all sides but not in corners, which are paper white. surrounded Bilingual names, clauses and signature.|Dry offset printing. Red, blue and mauve colour. Chariot wheel of Konark Sun temple at the centre. Watermark window in pale blue is by an ornamental design in perfect register with corresponding design on obverse of the note.|
+|2001|-do-|Mahatma Gandhi Portrait|The security thread totally embedded with the letters "Bharat" (in Hindi) and "RBI" The colour is predominantly reddish orange. The Ashoka Pillar has been replaced by the Mahatma Gandhi's Portrait in dark red while the Ashoka Pillar has been shifted|The central theme depicts the Indian coastal line with coconut grooves. The value of the note appears in 15 languages in a vertical panel in the left hand|
+
+<!-- PAGE 18 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+||||to the left side bottom corner and the size is smaller. The numeral 20, RBI seal, Mahatma Gandhi's Portrait, RBI Legend, Guarantee and Promise clauses, Governor's Signature and Ashoka Pillar inset are in intaglio. The words RBI and the numeral 20 in Micro letters appear alternatively behind the Mahatma Gandhi's Portrait. An identification mark by way of a small vertical rectangle in raised form appears on the left side of the note to facilitate the visually impaired to identify the denomination of the note. The numbers in the number panel are printed in red.|side.|
+|2006|-do-|The portrait of Machine Mahatma Gandhi, the multidirectiona electrotype mark showing the denominationa l numeral 20 appear in this section and these can be viewed better when the banknote is held against light|readable windowed demetalised clear text magnetic security thread with inscriptions 'Bharat' (in Hindi) and RBI which l lines, and an fluoresces in yellow on both sides under UV light (Generic). Width: 1.4 mm Dual coloured optical fibres. The small floral design printed both on the front (hollow) and back (filled up) of the note in the middle of the vertical band next to the Watermark has an accurate back-to-back registration so that the numeral appears as one when seen against the light.|Year of printing is incorporated at the printing stage on the reverse of the banknote.|
+|III. Rs.50|notes||||
+|1975|147X73 mm|Ashoka with chain wheels.|Pillar Mauve colour with hues of blue of green and purple. Numeral 50 in dark brown. Language scroll on left and Ashoka Pillar emblem on right. Printing bleeds off on all sides except at corners.|Mauve, brown and yellow colours. Parliament House at the centre. Watermark window in pale mauve, surrounded by an ornamental design,|
+
+<!-- PAGE 19 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+|||||which is in perfect register with corresponding design on the obverse.|
+|1981|Do|-do-|Intaglio-fast blue, yellow red. Dry Ashoka Pillar and languages in deep violet colours, rest in deep green and brown colours. सत्यमेि Parliament House with जयते below Ashoka Pillar emblem.|offset-yellowish brown and body in deep purple colour. National flag on top|
+|1997|-do-|Portrait Mahatma Gandhi multidirectiona window.|of Yellow, blue and violet Ashoka Pillar replaced by with Mahatma Gandhi Portrait in blue. Security thread totally embedded l lines in the inside the note the letters ‘ž¸¸£÷¸’ and 'RBI’. A small black solid square on the left hand side of the watermark to help the visually impaired to identify the denomination of the note.|colour. A panoramic view of India’s Parliament House with floral patterns above and filigree patterns on the sides. The value of the note in 15 Indian languages.|
+|2005|-do-|The portrait of Machine Mahatma Gandhi, lines, and electrotype mark the denominationa l numeral appear in this guarantee section these can viewed when banknote held light|readable windowed demetalised clear text magnetic the security thread with inscriptions multidirectional `Bharat’ (in Hindi) and RBI which an fluoresces in yellow on both sides under U.V.light –width 1.4 mm.. showing The Intaglio Printing i.e. raised prints is more prominent in the name of the Bank in Hindi and 50 English, the Reserve Bank Seal, and promise clause, and Ashoka Pillar Emblem on the left, be RBI Governor’s signature. A better square in intaglio on the left of the the watermark window with increased is depth of engraving helps the against visually impaired to identify the denomination. Optical fibres are in dual colour. The small floral design printed both on the front (hollow) and back (filled up) of the banknote in the middle of the vertical band next to the watermark window has an accurate back-to-back registration so that the numeral appears as|Year of printing is incorporated at the printing stage on the reverse of the banknote.|
+
+<!-- PAGE 20 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+||||one when seen against the light.||
+||IV.Rs.100 notes||||
+|1967|157X73 mm|Ashoka Pillar|Blue colour. Numeral 100 appears prominently in centre. Indian Ashoka Pillar emblem on the right.|Vertical panel of 14 languages on left. Hirakud Dam in the background in a circular frame.|
+|1969|-do-|-do-|Blue colour and promise clause, Guarantee clause and Governor's signature in bilingual.|Picture of Mahatma Gandhi in a sitting posture with Sevagram Ashram in the background in a circular frame.|
+|1975|-do-|Ashoka with wheels.|Pillar Intaglio deep blue with hues of spinning blue, brown, pink and dark green. brown shade of corn, Numeral 100 in dark Watermark window light blue. RBI's name, promise clause, Guarantee clause and Governor's signature in bilingual. Language scroll on left and Ashoka Pillar emblem on right. Printing bleeds off on all sides except at corners.|Intaglio deep blue and blue. agricultural operations, Tea plantation and hydroelectric power project. `Watermark’ window is surrounded by an ornamental design, which is in perfect register with similar design on the obverse.|
+|1979|-do-|-do-|One side intaglio blue, red and deep green, Tints of reddish and yellowish green shade. ‘¬¸÷¡¸Ÿ¸½¨¸ ¸¡¸÷¸½' below Ashoka Pillar emblem.|Dry-offset. Black and maroon colours. Tint design in greenish blue and brownish shades.|
+
+<!-- PAGE 21 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+|1996|-do-|Portrait Mahatma Gandhi multidirectiona l lines in the Mahatma watermark window.|of Printed with the combination of offset and intaglio with overall colour is predominantly blue, grey and green. Portrait of Gandhi. A windowed security thread partly visible from the front but totally embedded inside. Letters `ž ¸¸£÷¸’ and ‘RBI’ printed on the thread. A small black solid triangle in intaglio on left hand side of the watermark to help the visually impaired to identify the denomination of the note.|Central theme depicts process. a panoramic view of the Kanchangunga range with floral patterns above and filigree patterns on the sides. The value of note appears in 15 languages on the left hand side.|
+|2005|-do-|The portrait of Mahatma Gandhi, the multidirectiona l lines, and an electrotype mark showing the denominationa l numeral 100 appear in this section and these can be viewed better when the banknote is held against light.|Machine-readable windowed demetalised clear text magnetic security thread with inscriptions `Bharat’ (in Hindi) and RBI on notes of Rs.100 with exclusive colour shift. Colour of the thread shall shift from green to blue when viewed from different angles. It will fluoresce in yellow on the reverse and the text will fluoresce on the obverse under U.V.light – width – 2 m.m. The Intaglio Printing i.e. raised prints is more prominent in the name of the Bank in Hindi and English, the Reserve Bank Seal, guarantee and promise clause, Ashoka Pillar Emblem on the left, RBI Governor’s signature. A triangle in intaglio on the left of the watermark window with increased depth of engraving helps the visually impaired to identify the denomination. Optical fibres are in dual colour. The small floral design printed both on the front (hollow) and back(filled up) of the banknote in the middle of the|Year of printing is incorporated at the printing stage on the reverse of the banknote.|
+
+<!-- PAGE 22 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+||||vertical band next to the watermark window has an accurate back to back registration so that the numeral appears as one when seen against the light.||
+||V. Rs.500 notes||||
+|1987|167X73 mm|Ashoka with wheels.|Pillar Printed by dry offset and intaglio spinning process. Background colours in peacock blue, ochre and green. Background colours in Portrait of Mahatma Gandhi, Ashoka Pillar emblem, Promise clause & language panel are printed in intaglio. Five black horizontal relief lines in intaglio on the left side of the watermark to help the visually impaired to identify the denomination of the note.|Background showing rising sun. deep green, orange and sky blue. Mahatma Gandhi leading a group of people.|
+|1997|-do-|Portrait Mahatma Gandhi the multidirectiona l lines in the colour. watermark window.|of Printed by offset and intaglio process. Colour scheme is with predominantly in yellow, green, mauve and brown. Mahatma Gandhi’s portrait is dark brown in Mahatma Gandhi's portrait, RBI legend guarantee and promise clauses, Ashoka Pillar inset and Governor’s signature are in intaglio. A windowed security thread, partly visible from the front but totally embedded Letters ž ¸¸£÷¸ and RBI are printed on the thread. Green vertical band behind the Mahatma Gandhi portrait where latent image of 500 is printed. A small black solid circle in intaglio on the left hand side of the watermark to help the visually impaired to identify the denomination of the note.|Mahatma Gandhi leading a group of people in brown colour with floral patterns appearing above and filigree patterns on each side of this theme. A vertical panel of 15 languages appear on the left. All the above features are inside. in intaglio.|
+
+<!-- PAGE 23 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+|2000|-do-|-do-|The colours are predominantly mild yellow, mauve and brown. same Mahatma Gandhi’s portrait is in light brown. Numeral 500 printed in Optically Variable Ink (OVI) in Green to Blue colour shift. Except these changes, other designs are same as of 1997 series notes.|The design is the as is on the 1997 series note.|
+|2005|-do-|Mahatma Gandhi, multidirectiona electrotype the denominationa section viewed when banknote held against promise light.|The portrait of Machine-readable windowed demetalised clear text magnetic the security thread with inscriptions `Bharat’ (in Hindi) and RBI on l lines, and an notes of Rs.500 with exclusive colour shift. Colour of the thread mark showing shall shift from green to blue when viewed from different angles. It will fluoresce in yellow on the l numeral 500 reverse and the text will fluoresce appear in this on the obverse under U.V.light – and width – 3 m.m. The Intaglio these can be Printing i.e. raised prints is more better prominent in the name of the Bank the in Hindi and English, the Reserve is Bank Seal, guarantee and clause, Ashoka Pillar Emblem on the left, RBI Governor’s signature. A circle in intaglio on the left of the watermark window with increased depth of engraving helps the visually impaired to identify the denomination. Optical fibres are in dual colour. The small floral design printed both on the front (hollow) and back(filled up) of the banknote in the middle of the vertical band next to the watermark window has an accurate back to back registration so that the numeral appears as one when seen against the light.|Year of printing is incorporated at the printing stage on the reverse of the banknote.|
+
+<!-- PAGE 24 -->
+
+|Year|Size|Watermark|Front|Back|
+|---|---|---|---|---|
+|VI. Rs.1000/-|notes||||
+|2000|177X73 mm|Portrait Mahatma Gandhi multidirectional portrait lines in watermark window.|of Colour is generally pink (light peach colour with grey offset with background). Mahatma Gandhi’s is brown in the Mahatma Gandhi’s portrait, numeral 1000, RBI seal, RBI legend, guarantee and promise clause, Governor’s signature are in intaglio printing. Left hand number panel in red colour and right hand number panel in blue colour. Numeral 1000 printed in Optically Variable Ink (OVI) in Green to Blue colour shift. Optically variable (colour shifting) windowed security thread with magnetic property and containing text `ž ¸¸£÷¸ 1000 RBI'. Green vertical band behind the Mahatma Gandhi portrait where latent image of 1000 is printed. A small black solid diamond shape mark in intaglio on the left hand side of the watermark to help the visually impaired to identify the denomination of the note.|The theme depicts the overall development of the Indian economy in colour. three-colour intaglio. The 15-language एक िजार रुपये, panel is on the left side.|
+|2005|- do -|Mahatma Gandhi, lines, and electrotype mark the denominationa section viewed when banknote held light|The portrait of Machine-readable windowed demetalised clear text magnetic the security thread with inscriptions multidirectional `Bharat’ (in Hindi) and RBI on an notes of Rs.1000 with exclusive colour shift. Colour of the thread showing shall shift from green to blue when viewed from different angles. It will fluoresce in yellow on the l numeral 1000 reverse and the text will fluoresce appear in this on the obverse under U.V.light – and width – 3 m.m. The Intaglio these can be Printing i.e. raised prints is more better prominent in the name of the Bank the in Hindi and English, the Reserve is Bank Seal, guarantee and against promise clause, Ashoka Pillar Emblem on the left, RBI Governor’s signature. A diamond|Year of printing is incorporated at the printing stage on the reverse of the banknote.|
+
+<!-- PAGE 25 -->
+
+|Year|Size|Watermark|Front||Back|
+|---|---|---|---|---|---|
+||||in intaglio on watermark window with increased depth of engraving visually impaired to identify the denomination. Optical fibres are in dual colour. The design printed both on the front (hollow) and back(filled up) of the banknote in the vertical band watermark window accurate back to back registration so that the numeral appears as one when seen against the light.|the left of the helps the small floral middle of the next to the has an||

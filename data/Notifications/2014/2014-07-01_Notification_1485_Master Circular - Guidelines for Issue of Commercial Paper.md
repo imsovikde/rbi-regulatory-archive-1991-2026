@@ -1,0 +1,297 @@
+---
+doc_id: "Notifications_2014_1485"
+title: "Master Circular - Guidelines for Issue of Commercial Paper"
+category: "Notifications"
+year: 2014
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/100GICP010714FL.pdf"
+pdf_sha256: "bd189a0eaad9591bae343abb53cfdba19918ea9c8b7742925862fa14f2a0eb04"
+md_sha256: "3314f65c6bd6276f4160a730c1863af57d236551cf556f44bb0073fb007a20ad"
+total_pages: 13
+native_pages: 13
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:46:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2014/2014-07-01_Notification_1485_Master%20Circular%20-%20Guidelines%20for%20Issue%20of%20Commercial%20Paper.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Guidelines for Issue of Commercial Paper
+
+<!-- PAGE 1 -->
+
+RBI/2014-15/100 IDMD.PCD.04/14.01.02/2014-15 July 1, 2014
+
+## All market participants
+
+Dear Sir/Madam,
+
+## Master Circular-Guidelines for Issue of Commercial Paper
+
+Commercial Paper (CP), an unsecured money market instrument issued in the form of a promissory note, was introduced in India in 1990 with a view to enable highly rated corporate borrowers to diversify their sources of short-term borrowings and provide an additional instrument to the investors.
+
+2. A Master Circular incorporating all the existing guidelines/instructions/ directives on the subject has been prepared for reference of the market participants and others concerned. It may be noted that this Master Circular consolidates all the instructions/guidelines/notifications contained in the circulars listed in the Appendix in so far as they relate to guidelines for issue of CP. This Master Circular has been placed on RBI website at <u>www.mastercirculars.rbi.org.in</u>.
+## Yours faithfully
+
+(Rekha Warriar) Chief General Manager
+
+## Encl.: As above
+
+<!-- PAGE 2 -->
+
+## Table of Content Topic
+
+|Sl. No.|||Page No|
+|---|---|---|---|
+|1|Introduction||1|
+|2|Eligibility for Issue of CP||1|
+|3|Issue of CP – Credit enhancement, limits, etc||1|
+|4|Eligibility for Investment in CP||2|
+|5|Form of the Instrument, mode of issuance and redemption||2|
+|5.1|Form||2|
+|5.2|Tenor||3|
+|5.3|Procedure for Issuance||3|
+|5.4|Rating Requirement||3|
+|5.5|Investment/Redemption||3|
+|5.6|Documentation Procedures||3|
+|6|Trading and Settlement of CP||3|
+|7|Buyback of CP||4|
+|8|Duties and Obligations||4|
+|9|Non-applicability of Certain Other Directions Schedules|Schedule I –Proforma of CP Schedule II – IPA Certificate Schedule III- Details of Defaults on Repayment of CP Schedule IV- Reporting of buyback of|5 6 7 8 9|
+||Definitions Appendix: List of Circulars Consolidated|CPs|10 11|
+
+<!-- PAGE 3 -->
+
+## 1. Introduction
+
+Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note. CP, as a privately placed instrument, was introduced in India in 1990 with a view to enable highly rated corporate borrowers to diversify their sources of short-term borrowings and to provide an additional instrument to investors. Subsequently, primary dealers (PDs) and all-India financial institutions (FIs) were also permitted to issue CP to enable them to meet their short-term funding requirements. The guidelines for issue of CP, incorporating all the amendments issued till date, are given below for ready reference.
+
+## 2. Eligibility for Issue of CP:
+
+a. Companies, PDs and FIs are permitted to raise short term resources through CP.
+b. A company would be eligible to issue CP provided:
+i. the tangible net worth of the company, as per the latest audited balance sheet, is not less than Rs.4 crore; ii.the company has been sanctioned working capital limit by bank/s or FIs; and
+iii.the borrowal account of the company is classified as a Standard Asset by the financing bank/institution.
+
+## 3. Issue of CP – Credit enhancement, limits, etc.
+
+a. CP shall be issued as a ‘stand alone’ product. Further, it would not be obligatory in any manner on the part of the banks and FIs to provide stand- by facility to the issuers of CP.
+b. Banks and FIs may, based on their commercial judgement, subject to the prudential norms as applicable to them, with the specific approval of their respective Boards, choose to provide stand-by assistance/credit, back-stop facility etc. by way of credit enhancement for a CP issue.
+c. Non-bank entities (including corporates) may provide unconditional and irrevocable guarantee for credit enhancement for CP issue provided:
+i. the issuer fulfils the eligibility criteria prescribed for issuance of CP; ii. the guarantor has a credit rating at least one notch higher than the issuer given by an approved CRA; and
+iii. the offer document for CP properly discloses the net worth of the guarantor company, the names of the companies to which the guarantor has issued similar guarantees, the extent of the guarantees offered by the guarantor company, and the conditions under which the guarantee will be invoked.
+
+d. The aggregate amount of CP that can be issued by an issuer shall at all times be within the limit as approved by its Board of Directors or the quantum indicated by the CRA for the specified rating, whichever is lower.
+1
+
+<!-- PAGE 4 -->
+
+e. Banks and FIs shall have the flexibility to fix working capital limits, duly taking into account the resource pattern of company’s financing, including CP.
+f. An issue of CP by an FI shall be within the overall umbrella limit prescribed in the Master Circular on Resource Raising Norms for FIs, issued by the Reserve Bank of India, Department of Banking Operations and Development, as prescribed/ updated from time-to-time.
+g. The total amount of CP proposed to be issued should be raised within a period of two weeks from the date on which the issuer opens the issue for subscription. CP may be issued on a single date or in parts on different dates provided that in the latter case, each CP shall have the same maturity date.
+h. Every issue of CP, and every renewal of a CP, shall be treated as a fresh issue.
+## 4. Eligibility for Investment in CP
+
+a. Individuals, banks, other corporate bodies (registered or incorporated in India) and unincorporated bodies, Non-Resident Indians and Foreign Institutional Investors (FIIs) shall be eligible to invest in CP.
+b. FIIs shall be eligible to invest in CPs subject to (i) such conditions as may be set for them by Securities Exchange Board of India (SEBI) and (ii) compliance with the provisions of the Foreign Exchange Management Act, 1999, the Foreign Exchange (Deposit) Regulations, 2000 and the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000, as amended from time to time.
+## 5. Form of the Instrument, mode of issuance and redemption
+
+## 5.1 Form
+
+a. CP shall be issued in the form of a promissory note (as specified in <u>Schedule I</u> to these Guidelines) and held in physical form or in a dematerialized form through any of the depositories approved by and registered with SEBI, provided that all RBI regulated entities can deal in and hold CP only in dematerialised form through such depositories.
+b. Fresh investments by all RBI-regulated entities shall be only in dematerialised form.
+c. CP shall be issued in denominations of 5 lakh and multiples thereof. The amount invested by a single investor should not be less than 5 lakh (face value).
+d. CP shall be issued at a discount to face value as may be determined by the issuer.
+e. No issuer shall have the issue of CP underwritten or co-accepted.
+f. Options (call/put) are not permitted on CP.
+2
+
+<!-- PAGE 5 -->
+
+## 5.2 Tenor
+
+a. CP shall be issued for maturities between a minimum of 7 days and a maximum of up to one year from the date of issue.
+b. The maturity date of the CP shall not go beyond the date up to which the credit rating of the issuer is valid.
+## 5.3. Procedure for Issuance
+
+a. Every issuer must appoint an IPA for issuance of CP.
+b. The issuer should disclose to the potential investors, its latest financial position as per the standard market practice.
+c. After the exchange of confirmation of the deal between the investor and the issuer, the issuer shall arrange for crediting the CP to the Demat account of the investor with the depository through the IPA.
+d. The issuer shall give to the investor a copy of IPA certificate to the effect that the issuer has a valid agreement with the IPA and documents are in order (<u>Schedule II)</u>.
+## 5.4 Rating Requirement
+
+Eligible participants/issuers shall obtain credit rating for issuance of CP from any one of the SEBI registered CRAs. The minimum credit rating shall be ‘A3’ as per rating symbol and definition prescribed by SEBI*.* The issuers shall ensure at the time of issuance of the CP that the rating so obtained is current and has not fallen due for review.
+
+**5.5**. **Investment / Redemption**
+a. The investor in CP (primary subscriber) shall pay the discounted value of the CP to the account of the issuer through the IPA.
+b. The investor holding the CP in physical form shall, on maturity, present the instrument for payment to the issuer through the IPA.
+c. The holder of a CP in dematerialised form shall get the CP redeemed and receive payment through the IPA.
+## 5.6 Documentation Procedures
+
+a. Standardised procedures and documentation for CPs are prescribed in consultation with Fixed Income Money Market and Derivatives Association of India (FIMMDA) in consonance with international best practices.
+b. Issuers /IPAs shall follow the operational guidelines issued by FIMMDA, from time to time, with the approval of RBI.
+## 6. Trading and Settlement of CP
+
+a. All OTC trades in CP shall be reported within 15 minutes of the trade to the reporting platform of Clearcorp Dealing System (India) Ltd.(CDSIL).
+3
+
+<!-- PAGE 6 -->
+
+b. OTC trades in CP shall be settled through the clearing house of the National Stock Exchange (NSE), i.e., the National Securities Clearing Corporation Limited (NSCCL), the clearing house of the Bombay Stock Exchange (BSE), i.e., Indian Clearing Corporation Limited (ICCL), and the clearing house of the MCX-Stock Exchange, i.e., MCX-SX Clearing Corporation Limited (CCL), as per the norms specified by NSCCL, ICCL and CCL from time to time.
+c. The settlement cycle for OTC trades in CP shall either be T+0 or T+1.
+## 7. Buyback of CP
+
+a. Issuers may buyback the CP, issued by them to the investors, before maturity.
+b. Buyback of CP shall be through the secondary market and at prevailing market price.
+c. The CP shall not be bought back before a minimum period of 7 days from T the date of issue.
+d. Issuer shall intimate the IPA of the buyback undertaken.
+e. Buyback of CPs should be undertaken after taking approval from the Board of Directors.
+## 8. Duties and Obligations
+
+The duties and obligations of the Issuer, IPA and CRA are set out below:
+
+<u>I. Issuer</u> The issuer shall ensure that the guidelines and procedures laid down for the issuance of CP are strictly adhered to. <u>II. IPA</u>
+a. The IPA shall ensure that the issuer has the minimum credit rating as stipulated by RBI and the amount mobilised through issuance of CP is within the quantum indicated by CRA for the specified rating or as approved by its Board of Directors, whichever is lower.
+b. The IPA shall certify that it has a valid agreement with the issuer (<u>Schedule</u> <u>II</u>).
+c. The IPA shall verify that all the documents submitted by the issuer, viz., copy of board resolution, signatures of authorised executants (when CP is issued in physical form) are in order and shall issue a certificate to this effect.
+d. Certified copies of original documents, verified by the IPA, shall be held in the custody of IPA.
+e. All scheduled banks, acting as IPAs, shall report the details of issuance of CP on the Online Returns Filing System (ORFS) module of the RBI within two days from the date of issuance of the CP.
+f. IPAs, shall immediately report, on occurrence, full particulars of defaults in repayment of CP to the Chief General Manager, Financial Markets
+4
+
+<!-- PAGE 7 -->
+
+Department, Reserve Bank of India, Central Office, Fort, Mumbai-400001 (<u>email</u>) in the format as given in <u>Schedule III</u> of these guidelines.
+
+g. IPAs shall also report all instances of buyback of CPs undertaken by the issuer to the Chief General Manager, Financial Markets Department, Reserve Bank of India, Central Office, Fort, Mumbai–400001 (<u>email</u>) in the format as given in <u>Schedule IV</u> of these guidelines.
+<u>III. CRA</u>
+
+a. CRAs shall abide by the Code of Conduct prescribed by the SEBI for CRAs for undertaking rating of capital market instruments, which shall be applicable for rating CPs.
+b. The CRAs shall have the discretion to determine the validity period of the rating depending upon their perception about the strength of the issuer; and they shall, at the time of rating, clearly indicate the date when the rating is due for review.
+c. The CRAs shall closely monitor the rating assigned to issuers vis-à-vis their track record at regular intervals and shall make their revision in the ratings public through their publications and website.
+## 9. Non-applicability of Certain Other Directions
+
+Nothing contained in the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998 shall apply to the acceptance of deposit by issuance of CP, by any NBFC in accordance with these guidelines.
+
+**10.** Definitions of certain terms used in the Guidelines are provided in **Annex.**
+***
+
+<!-- PAGE 8 -->
+
+# Schedule I
+
+(See para 5.1.a)
+
+# Proforma of Commercial Paper (CP)
+
+To be stamped as per the applicable rate in force in the State in which it is to be issued
+
+(NAME OF THE ISSUING COMPANY/INSTITUTION) SERIAL NO.
+
+Issued at : __________________________ Date of Issue : ________________________ (PLACE)
+
+Date of Maturity: _______________________________ without days of grace. (If such date happens to fall on a holiday, payment shall be made on the immediate preceding working day)
+
+For value received ____________________________ hereby (NAME OF THE ISSUING COMPANY/INSTITUTION)
+
+Promises to pay __________________________________or order on the (NAME OF THE INVESTOR)
+
+maturity date as specified above the sum of Rs. ______________ (in words) upon presentation and surrender of this Commercial Paper to ____________________________________________. (NAME OF THE ISSUNG AND PAYING AGENT)
+
+For and on behalf of ____________________________________________________ (NAME OF THE ISSUING COMPANY / INSTITUTION)
+
+## (AUTHORISED SIGNATORY / SIGNATORIES)
+
+ALL ENDORSEMENTS UPON THIS COMMERCIAL PAPER MUST BE CLEAN AND DISTINCT. EACH ENDORSEMENT SHOULD BE WRITTEN WITHIN THE SPACE ALLOTTED.
+
+Pay to ______________________________________ or order the amount within named. (NAME OF THE TRANSFEREE)
+
+For and on behalf of ______________________________________________________________________ (NAME OF THE TRANSFEROR) ______________________________________________________________________
+
+1. “
+2. “
+6
+
+<!-- PAGE 9 -->
+
+## Schedule II
+
+(See para 5.3.d/8.II.b) **IPA CERTIFICATE** We have a valid IPA agreement with the __________________________________ (Name of Issuing Company/Institution)
+
+2. We have verified the documents viz., board resolution and certificate issued by Credit Rating Agency submitted by <u>[Name of the Issuing Company/Institution]</u> and certify that the documents are in order. Certified copies of original documents are held in our custody.
+3.*We also hereby certify that the signatures of the executants of the attached Commercial Paper bearing Sr. No. ______________ dated _______________ for Rs._______________ (Rupees ____________________________________) (in words) tally with the specimen signatures filed by [*Name of the issuing* *Company/Institution*]. (Authorised Signatory/Signatories) (Name and address of Issuing and Paying Agent) Place : Date :
+* (Applicable to Commercial Paper in physical form/Strike out if not applicable)
+7
+
+<!-- PAGE 10 -->
+
+## Schedule III
+
+(See para 8.II.f)
+
+## Details of Defaults on Repayment of CP
+
+||||Whether|||
+|---|---|---|---|---|---|
+||||the CP issue enjoyed a|If so, the name of the|Whether the facility at|
+|Amount Due date||||entity|Col (7) has|
+|Name Date of|Initial of|Latest|standby|providing|been|
+|(Rs. in of the issuer issue of CP|Rating repayment|Rating|assistance/|the facility|honoured|
+|cr.)|||credit back stop facility/ guarantee|indicated at Col. (7)|and payment made.|
+
+(1) (2) (3) (4) (5) (6) (7) (8) (9)
+## [Authorized Signatory/Signatories]
+
+<!-- PAGE 11 -->
+
+## Schedule IV
+
+(See para 8.II.g)
+
+## Reporting of buyback of CPs
+
+|||Amount|#|
+|---|---|---|---|
+|Date of Issuer ISIN|Date of||Nature of|
+|trade|Date of Issue Maturity|(Rs. in crore)|Buyback|
+
+# Indicate whether the CPs have been extinguished by the Issuer
+
+## [Authorized Signatory/Signatories]
+
+<!-- PAGE 12 -->
+
+## Annex
+
+## Definitions
+
+In these guidelines, unless the context otherwise requires:
+
+a. ‘RBI’ means the Reserve Bank of India.
+b. ‘Banks’ means a banking company as defined in clause (c) of Section 5 of the Banking Regulation Act, 1949 (10 of 1949) or a “corresponding new bank”, “State Bank of India” or a “subsidiary bank” as defined in clause (da), clause (nc) and clause (nd) respectively thereof and includes a “cooperative bank” as defined in clause (cci) of Section 5 read with Section 56 of the said Act.
+c. ‘Scheduled bank’ means a bank included in the Second Schedule of the RBI Act, 1934.
+d. ‘All India Financial Institution’ (FI) means an all India Financial Institution specified in the list indicated at Annex 3 to the <u>RBI Master Circular</u> <u>DBOD.No.Dir.BC.3/13.03.00/2012-13 dated July 02, 2012</u> on Exposure Norms as amended from time to time.
+e. Primary Dealer (PD) means a Non-Banking Financial Company (NBFC) that holds a valid letter of authorisation as a PD issued by the Reserve Bank, in terms of the "Guidelines for Primary Dealer in Government Securities Market" dated March 29, 1995, as amended from time to time.
+f. ‘Company’ means a company as defined in section 3 of the Companies Act,
+1956.
+g. ‘Issuing and Paying Agent (IPA)’ means a Scheduled Bank acting as an IPA.
+h. ‘CRA’ means a Credit Rating Agency registered with Securities Exchange Board of India.
+i. ‘CP’ means Commercial paper issued in accordance with the guidelines in this master circular.
+j. Words and expressions used but not defined herein and defined in the Reserve Bank of India Act, 1934 shall have the same meaning as assigned to them in the said Act.
+10
+
+<!-- PAGE 13 -->
+
+# Appendix List of circulars consolidated
+
+## Sr. Reference No. Date Subject No
+
+|1. IDMD.PCD.20/14.01.02/2011-12|March 5, 2012|Settlement of OTC transactions in|
+|---|---|---|
+|||Certificates of Deposit (CDs) and Commercial Papers (CPs)|
+|2. IDMD.PCD.07/14.01.02/2012-13|January 1, 2013|Guidelines for Issue of Commercial Paper (CP)|
+|3. IDMD.PCD.12/14.03.02/2012-13|June 26, 2013|Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)|
+|4. IDMD.PCD.13/14.01.02/2013-14|June 25, 2014|Reporting of OTC transactions on|
+
+F-TRAC-Hiving off to CDSIL
+
+***
