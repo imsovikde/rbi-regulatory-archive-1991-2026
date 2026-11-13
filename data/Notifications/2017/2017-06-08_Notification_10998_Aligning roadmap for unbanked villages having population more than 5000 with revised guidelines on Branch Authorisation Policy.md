@@ -1,0 +1,30 @@
+---
+doc_id: "Notifications_2017_10998"
+title: "Aligning roadmap for unbanked villages having population more than 5000 with revised guidelines on Branch Authorisation Policy"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI320F47F142471EF415DAC204AD8A365CCA8.PDF"
+pdf_sha256: "472d1cc030bc067dffeadcfc2685bd7f62fb14ae211f51388ecdfd0d80abe50b"
+md_sha256: "e71383f5333c04d9d9bb45d7bbbc7dfa9e424e286901868a96cf9d1ca469d262"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:58:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-06-08_Notification_10998_Aligning%20roadmap%20for%20unbanked%20villages%20having%20population%20more%20than%205000%20with%20revised%20guidelines%20on%20Branch%20Authorisation%20Policy.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Aligning roadmap for unbanked villages having population more than 5000 with revised guidelines on Branch Authorisation Policy
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/320 FIDD.CO.LBS.BC.No 31/02.01.001/2016-17 June 8, 2017 The Chairman and Managing Director/ Chief Executive Officer SLBC Convenor Banks
+
+Dear Sir, **Aligning roadmap for unbanked villages having population more than 5000 with revised guidelines on Branch Authorisation Policy**
+
+Please refer to the <u>circular FIDD.CO.LBS.BC.No.82/02.01.001/2015-16 dated December 31</u>, <u>2015</u> wherein SLBCs were advised to identify villages with population above 5000 without a bank branch of a scheduled commercial bank in their State and allot these villages among scheduled commercial banks (including Regional Rural Banks) for opening brick and mortar branches.
+
+2. In this connection, we draw your attention to the <u>circular</u> <u>DBR.No.BAPD.BC.69/22.01.001/2016-17 dated May 18, 2017</u> on ‘Rationalisation of Branch Authorisation Policy-Revision of Guidelines’ wherein final guidelines on ‘Banking Outlets’ have been issued with a view to facilitate financial inclusion as also to provide flexibility to banks on the choice of delivery channel.
+3. In the circumstances, SLBC Convenor banks are advised to review and identify the unbanked rural centres (URCs) in villages with population above 5000, in light of the revised guidelines on rationalisation of branch authorisation policy and ensure that such unbanked rural centres in villages with population above 5000, if any, are banked forthwith by opening of CBS enabled banking outlet. A confirmation stating that all unbanked rural centres in villages with population above 5000 have been banked, may be furnished to the respective Regional Office of Financial Inclusion and Development Department of Reserve Bank of India latest by December 31, 2017. Yours faithfully, (Ajay Kumar Misra) Chief General Manager व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, कद्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014,मंबई ु-400001
+Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai-1 टेल Tel :022-22601000 फै क् स ः 91-22-22621011/22610943/22610948 ई-मेल : <u>cgmincfidd@rbi.org.in</u> **�हंद आसान है,इसका प्रयोग बढ़ाइए।** **“चेतावनी : मेल रज़वर् बक द्वारा-डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौरा, पासवडर् आ�द नहं मांगी जाती** **है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए।**" **Caution:** RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

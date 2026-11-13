@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2017_11052"
+title: "Financial Literacy by FLCs (Financial Literacy Centres) and rural branches - Revision in funding limits, Audio-visual content and provision of hand held projectors"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FLCSA7360BA6AF24483C8477AC7D4CB1FC73.PDF"
+pdf_sha256: "2b29d77dabac9c087e3c9504458e3e692f813db71221b76067c1023d26f25714"
+md_sha256: "4eb890e988427a330e0623f48042b4307e86690837c5c14c545c5c59a3288aab"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-07-13_Notification_11052_Financial%20Literacy%20by%20FLCs%20%28Financial%20Literacy%20Centres%29%20and%20rural%20branches%20-%20Revision%20in%20funding%20limits%2C%20Audio-visual%20content%20and%20provision%20of%20hand%20held%20projectors.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Literacy by FLCs (Financial Literacy Centres) and rural branches - Revision in funding limits, Audio-visual content and provision of hand held projectors
+
+<!-- PAGE 1 -->
+
+RBI/2017-18/23 FIDD.FLC.BC.No.11/12.01.018/2017-18 July 13, 2017
+
+To Chairman/MD & CEO Scheduled Commercial Banks (Including RRBs & Small Finance Banks)
+
+Dear Sir/Madam,
+
+## Financial Literacy by FLCs (Financial Literacy Centres) and rural branches -
+
+## Revision in funding limits, Audio-visual content and provision of hand held projectors
+
+Please refer to our <u>circular FIDD.FLC.BC.No.22/12.01.018/2016-17 dated March 2, 2017</u> on policy review of guidelines for FLCs and rural branches of banks. In terms of this circular, banks were advised that FLCs and rural branches are eligible for funding support from the Financial Inclusion Fund for the financial literacy camps to the extent of 60% of the expenditure of the camp subject to a maximum of ` 15,000/- per camp.
+
+2. On a review, the FIF Advisory Board has revised the funding support available to banks to the extent of 60% of the expenditure of the camp subject to a maximum of ` 5,000/- per camp. For details on funding, banks may refer to circular No. 107/DFIBT-24/2017 dated May 4, 2017 issued by NABARD.
+3. **Audio visual content and provision of handheld projectors:** In order to improve the effectiveness of the financial literacy camps, it has been decided to encourage FLCs and rural branches of banks to use hand held projectors to show Audio-visuals and posters on financial awareness messages. Funding for handheld projectors and speakers would be provided from FIF to the extent of 50% of the cost incurred on purchase of hand held projector and portable speaker (both put together) subject to a maximum of ` 5000 per rural branch / FLC on a reimbursement basis. For details on funding, banks may refer to circular No. 105/DFIBT-22/2017 dated May 4, 2017 issued by NABARD. वत्तीय समावेशन और वकास वभाग,कद्रय कायार्लय, 10वीं मंिज़ल,कद्रय कायार्लय भवन,,शहद भगत संह मागर्,पो.बा.सं.10014,मंबई 400 001 ु
+टेलफोन:Tel: 022-22601000 फै क्स Fax: 91-22-22621011/22619048 ईमेल E-mail: cgmincfidd@rbi.org.in Financial Inclusion and Development Department, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No.10014 <u>Mumbai 400001</u> <u>�हंद आसान है, इसका प्रयोग बढ़ाइए</u> **चेतावनी: �रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रए कसी क भी व् यिक्तगत जानकार जैसे बक के खाते का ब् यौरा, पासवडर् आ�द नहं** **मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नहं करता है। ऐसे प्रस् ताव का कसी भी तरके से जवाब मत दिजए।** **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps** **or offers funds to anyone. Please do not respond in any manner to such offers.**
+
+<!-- PAGE 2 -->
+
+4. Further, the National Centre for Financial Education (**NCFE**) supported by the financial sector regulators has prepared <u>audio visuals</u> on the Financial Awareness Messages provided by RBI. The <u>First Audio-visual</u> covers the basic financial awareness messages such as address proof declaration under KYC norms, Use of Business correspondents, Electronic payment systems NEFT/RTGS and not falling prey to fictitious emails/calls and Ponzi schemes. The <u>Second Audio-visual</u> explains the process of using the Unified Payment Interface through BHIM and the <u>third audio visual</u> explains the various ways of going digital and cashless. FLCs and rural branches of banks are advised to use the audiovisuals while conducting financial literacy camps. Yours faithfully, (Uma Shankar) Chief General Manager-in-Charge

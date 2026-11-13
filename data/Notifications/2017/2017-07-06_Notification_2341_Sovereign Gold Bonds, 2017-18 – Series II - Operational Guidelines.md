@@ -1,0 +1,85 @@
+---
+doc_id: "Notifications_2017_2341"
+title: "Sovereign Gold Bonds, 2017-18 – Series II - Operational Guidelines"
+category: "Notifications"
+year: 2017
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/18NT06072017.PDF"
+pdf_sha256: "a3189b5b847f0a8649d08025cc1be5eb8f5b72b5a5248459e41b3493597107cb"
+md_sha256: "7b15a872306267280f4d8e5de19bf16c8b49bebe376ef75121182488c2e4abad"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:59:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-07-06_Notification_2341_Sovereign%20Gold%20Bonds%2C%202017-18%20%E2%80%93%20Series%20II%20-%20Operational%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Sovereign Gold Bonds, 2017-18 – Series II - Operational Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2017-18/18 IDMD.CDD.No.29/14.04.050/2017-18 July 06, 2017
+
+The Chairman & Managing Director All Scheduled Commercial Banks (Excluding RRBs) Designated Post Offices Stock Holding Corporation of India ltd.(SHCIL) National Stock Exchange of India Ltd. & Bombay Stock Exchange Ltd.
+
+Dear Sir/Madam,
+
+## Sovereign Gold Bonds, 2017-18 – Series II-Operational Guidelines
+
+This has reference to the <u>GoI notification F.No.4(20)-B/(W&M)/2017</u> and <u>RBI circular</u> <u>IDMD.CDD.No.28/14.04.050/2017-18 dated July 06, 2017</u> on the Sovereign Gold Bonds, 2017-18-Series II. <u>FAQs</u> in this regard have been placed on our website (www.rbi.org.in). Operational guidelines with regard to this scheme are given below:
+
+## 1. Application
+
+Application forms from investors will be received at branches during normal banking hours from July 10, 2017 to July 14, 2017. Receiving Offices need to ensure that the application is complete in all respects as incomplete applications are liable to be rejected. Relevant additional details may be obtained from the applicants, where necessary. The Receiving Offices may make arrangements to enable the investors to apply online, in the interest of better customer service.
+
+## 2. Joint holding and nomination
+
+Multiple joint holders and nominees (of first holder) are permitted. Necessary details may be obtained from the applicants as per practice.
+
+## 3. Know-Your-Customer (KYC) requirements
+
+Know-Your-Customer (KYC) norms shall be the same as that for purchase of physical form of gold. Identification documents such as passport, Permanent Account Number (PAN) Card, Voter's Identity Card, Aadhaar card shall be required. In case of minors only, the bank account number may also be considered as valid for KYC verification. KYC will be done by the issuing banks/SHCIL offices/Post Offices/agents.
+
+## 4. Interest on application money
+
+Applicants will be paid interest at prevailing savings bank rate from the date of realization of payment to the settlement date, ie. the period for which they are out of funds. In case the applicant’s bank account is not with the receiving bank, the interest has to be credited by electronic fund transfer to the account details provided by the applicant.
+
+<!-- PAGE 2 -->
+
+## 5. Cancellation
+
+Cancellation of application is permitted till the closure of the issue, i.e., July 14, 2017. Part cancellation of submitted request for purchase of gold bonds is not permitted. No interest on application money needs to be paid if the application is cancelled.
+
+## 6. Lien marking
+
+As the bonds are government securities, lien marking, etc. will be as per the extant legal provisions of Government Securities Act, 2006 and rules framed there under.
+
+## 7. Agency arrangement
+
+Scheduled Commercial Banks may engage NBFCs, NSC agents and others to collect application forms on their behalf. Banks may enter into arrangements or tie-ups with such entities. Commission for distribution shall be paid at the rate of rupee one per hundred of the total subscription received by the receiving offices on the applications received and receiving offices shall share at least 50% of the commission so received with the agents or sub-agents for the business procured through them.
+
+# 8. Processing through RBI’s e-Kuber system
+
+Sovereign Gold Bonds will be available for subscription at the branches of scheduled commercial banks and designated post offices through RBI’s e- Kuber system. The e-Kuber system can be accessed either through Infinet or Internet. The Receiving Offices need to enter the data or carry out bulk upload for the subscriptions received by them. They may ensure accuracy of entry of data to prevent occurrence of any inadvertent errors. An immediate confirmation will be provided to them for receipt of application. In addition, a confirmation scroll will be provided for file uploads to enable the Receiving Offices to update their database. On the date of allotment, i.e., July 28, 2017. Certificates of Holding will be generated for all the subscriptions in the name of the sole/principal holder. The Receiving Offices can download the same and take printouts. The Certificates of Holding will also be sent through e-mail to the investors who have provided their email address. The securities will be credited in their de-mat accounts by the depositories, in due course, subject to matching of particulars furnished in the application with the depositories’ records.
+
+## 9. Printing Certificates of Holding
+
+Holding Certificate needs to be printed in colour on A4 size 100 GSM paper.
+
+## 10. Servicing and follow up
+
+Receiving Offices, i.e., branches of the Scheduled Commercial Banks, designated post offices, SCHIL and stock exchanges (NSE Ltd and BSE) will “own” the customer and provide necessary services with regards to this bond e.g. update contact details, receive requests for premature encashment, etc. Receiving Offices will be required to preserve applications till the bonds are matured and are repaid.
+
+## 11. Tradability
+
+The Bonds shall be eligible for trading on a date notified by the Reserve Bank of India. (It may be noted that only bonds held in demat form with depositories can be traded in stock exchanges)
+
+<!-- PAGE 3 -->
+
+## 12. Contact details
+
+Any queries/clarifications may be e-mailed to the following:
+
+(a) Sovereign Gold Bond related: Please <u>click here</u> to send email.
+(b) IT related: Please <u>click here</u> to send email. Yours faithfully, (Shyni Sunil) Deputy General Manager
