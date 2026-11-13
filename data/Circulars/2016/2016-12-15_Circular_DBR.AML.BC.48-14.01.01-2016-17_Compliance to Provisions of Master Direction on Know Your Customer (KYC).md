@@ -1,0 +1,53 @@
+---
+doc_id: "Circulars_2016_DBR_AML_BC_48_14_01_01_2016-17"
+title: "Compliance to Provisions of Master Direction on Know Your Customer (KYC)"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI183A741AC015F874D408B6484AA33DB9FB4.PDF"
+pdf_sha256: "def814132e8f38afe6385c5ac92e024c5602f0bc9dcef3499eac9174a71db867"
+md_sha256: "dc7c04b7f32fe966595e53c90bfe1a8c9bfed378f955758bbc2d75567b13645b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:37:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-12-15_Circular_DBR.AML.BC.48-14.01.01-2016-17_Compliance%20to%20Provisions%20of%20Master%20Direction%20on%20Know%20Your%20Customer%20%28KYC%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Compliance to Provisions of Master Direction on Know Your Customer (KYC)
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/183 DBR.AML.BC.48/14.01.01/2016-17
+
+## December 15, 2016
+
+## All Regulated Entities
+
+Dear Sir/Madam,
+
+## Compliance to provisions of Master Direction on Know Your Customer (KYC)
+
+A reference may be made to the following provisions of the <u>Master Direction on Know Your</u> <u>Customer (KYC)</u>: (iection 8(d) and (e)) S, wherein it is mentioned that concurrent/internal audit system of the Regulated Entities (REs) has to verify the compliance with KYC/AML policies and procedures and submit quarterly audit notes and compliance to the Audit Committee, (ii) Section 23, wherein instructions on operation of ‘Small Accounts’ are given, and (iii) Section 67, wherein it is advised that the Permanent account number (PAN) of customers shall be obtained and verified while undertaking transactions as per the provisions of Income Tax (I.T.) Rule 114B applicable to banks, as amended from time to time. Form 60 shall be obtained from persons who do not have PAN. It is clarified that in terms of I.T.Rule 114 B, transactions include opening of accounts with banks, NBFCs, etc;
+
+# Withdrawn
+
+2. It has been brought to the notice of the RBI that strict compliance with the above provisions is not being ensured in some cases. In view of this, REs are advised as under:
+(i) They shall strictly comply with the extant instructions stipulated at Section 8(d) and
+(e) of the Master Direction;
+(ii) In respect of ‘Small Accounts’, the prescribed limits/conditions shall not be breached and compliance therewith shall be strictly monitored. If any customer desires to have operations beyond the stipulated limits, the same shall be allowed only after complying with requirements for opening a normal account including completion of CDD/KYC procedures detailed in Sections 16/17 and provisions of Section 67 of the Master Direction which include quoting of PAN/Form 60 while opening an account with a bank, NBFC, etc. If any account is rendered ineligible for being classified as a small account due to credits/balance in the account exceeding the permissible limits, withdrawals may be allowed within the limit prescribed for small accounts where the limits thereof have not been breached
+
+बकं ग व�नयमन वभाग, क द्रय कायार्लय, क द्रय कायार्लय भवन, 13वीं मंिजल, शहद भगत संह मागर्, मुंबई – 400 001 <u>फोन: 022-22701203, फ ै क् स : 022-22701239, ईमेल-: cgmaml@rbi.org.in, वेबसाइट: www.rbi.org.in</u> Department of Banking Regulation, Central Office, Central Office Building, 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22701203, Fax : 022-22701239, E-mail : <u>cgmaml@rbi.org.in</u>, Website : www.rbi.org.in "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+(iii) BSBD Accounts (PMJDY accounts are akin to BSBDAs), which are not KYC compliant accounts are to be treated as ‘Small Accounts’ and are subjected to the limitations applicable to such accounts. Hence, for allowing normal operations in such accounts, the procedures explained at (ii) above are to be complied with. If any account is rendered ineligible for being classified as a small account due to credits/balance in the account exceeding the permissible limits, withdrawals may be allowed within the limit prescribed for small accounts where the limits thereof have not been breached. (iv) In respect of KYC compliant accounts where the required CDD procedure has been complied with, REs shall ensure compliance regarding quoting of PAN/obtaining of Form 60 for all transactions in terms of I.T.Rule 114 B which includes opening of accounts with banks, NBFCs, etc. No debit transaction, transfer or otherwise shall be allowed in accounts which do not comply with the above mentioned requirements. To begin with, this rule shall be strictly applied in accounts where both the thresholds listed below are reached:
+
+(i) balance of rupees five lakh or more; and (ii) the total deposits (including credits by electronic or other means) made after November 9, 2016, exceed rupees two lakh.
+3. It is clarified that provisions of Section 67 of the MD are subject to the exemptions granted to Government, Consular office etc., as provided in Income Tax Rule 114 B.
+## Yours faithfully
+
+# Withdrawn
+
+(Lily Vadera) Chief General Manager
