@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2016_2066"
+title: "Aadhaar-based Authentication for Card Present Transactions"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT170C4B5217B410A4831B59F02ADF20E8243.PDF"
+pdf_sha256: "0c004032518c09864ff691c887e23c13e6791960ec9e0c90dd826b9ce0f69db5"
+md_sha256: "39f57a2121f0fbef64cc62838d51b5906a9c9ab7acec24724b705678feb9a70b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-12-02_Notification_2066_Aadhaar-based%20Authentication%20for%20Card%20Present%20Transactions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Aadhaar-based Authentication for Card Present Transactions
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/170 DPSS.CO.PD No.1421/02.14.003/2016-17 December 02, 2016
+
+The Chairman and Managing Director / Chief Executive Officers All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks/ Authorised Card Payment Networks / White Label ATM Operators / Payments Banks / Small Finance Banks
+
+Dear Madam / Sir,
+
+## Aadhaar-based Authentication for Card Present Transactions
+
+A reference is invited to our <u>circular DPSS.CO.PD.No.892/02.14.003/2016-17 dated September</u> <u>29, 2016</u> wherein banks were advised to ensure that all new card present acceptance infrastructure deployed with effect from January 1, 2017 are enabled for processing payment transactions using Aadhaar-based biometric authentication also.
+
+2. It has been brought to our notice that the rate of deployment of acceptance infrastructure has slowed down owing to the mismatch between demand and supply of such Aadhaar-enabled devices. Therefore, on a review, it has been decided to extend the time for deployment of Aadhaar-enabled devices till June 30, 2017. However, banks may continue to make necessary arrangements, including changes as host-end, network level and device readiness, as required to ensure adherence to above instructions.
+3. Further, it is also clarified that the instructions contained in our <u>circular dated September 29,</u> <u>2016</u> are for deployment of new card acceptance infrastructure. As regards enablement of existing card acceptance infrastructure for processing payment transactions using Aadhaar- based biometric authentication, the timeline will be advised in due course.
+4. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+5. Please acknowledge the receipt of this circular. Yours faithfully, (Nanda S. Dave) Chief General Manager
+भुगतान और ननपटान प्रणाली निभाग, कें द्रीयकायाालय, 14िीमंनिल, कें द्रीयकायाालयभिन,शहीदभगतसिंहमागा, फोटा, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फै क् िंFax: (91-22) 22691557; ई-मेलe-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central Office, 14thFloor, Central Office Building, ShahidBhagat Singh Road, Fort, Mumbai - 400001 <u>सहदी आिंान है, इिंकाप्रयोगबढाइए</u>

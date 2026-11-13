@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2016_10744"
+title: "Reserve Bank of India Act, 1934 – Section 42(1A) Requirement for maintaining additional CRR"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI159F2F44A3F2CE84A7F9879A551F2B6B43B.PDF"
+pdf_sha256: "28c1c6baffcfcca23a1cdc15dc9f59c0b34d035f4dab00b9fa792be134d08cf2"
+md_sha256: "31dfcfbc49f50161ad4be4948c5a9679f4ebeb1721e18fb6e08c29ee94cc4495"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-11-26_Notification_10744_Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20Section%2042%281A%29%20Requirement%20for%20maintaining%20additional%20CRR.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India Act, 1934 – Section 42(1A) Requirement for maintaining additional CRR
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/159 DBR.No.Ret.BC.41/12.01.001/2016-17 November 26, 2016
+
+The Chairperson / CEOs of all Scheduled Commercial Banks/ Regional Rural Banks / All Scheduled Primary (Urban) Co-operative Banks / All Scheduled State Co- operative Banks
+
+Dear Sir,
+
+## <u>Reserve Bank of India Act, 1934 – Section 42(1A) Requirement for maintaining additional CRR</u>
+
+Under section 42(1) of Reserve Bank of India Act, 1934, all Scheduled Banks are required to maintain with Reserve Bank of India a Cash Reserve Ratio (CRR) of 4% of Net Demand and Time Liabilities (NDTL).
+
+2. On a review of the current liquidity conditions after the withdrawal of legal tender status of ` 500/- and ` 1000/- denominations of bank notes issued by the Reserve Bank of India till November 8, 2016 (referred to as Specified Bank Notes), it has been decided to issue a directive under section 42(1A) of the Reserve Bank of India Act, 1934 requiring all Scheduled Commercial Banks/ Regional Rural Banks / all Scheduled Primary (Urban) Co-operative Banks / all Scheduled State Co-operative Banks to maintain with the Reserve Bank of India, effective from the fortnight beginning November 26, 2016 an incremental CRR of 100 per cent on the increase in NDTL between September 16, 2016 and November 11, 2016. As the incremental CRR is a temporary measure, it shall be reviewed on December 9, 2016 or even earlier.
+3. A copy of the relative notification DBR.No.Ret.BC.40/12.01.001/2016-17 dated November 26, 2016 is enclosed. Yours faithfully, (S S Barik) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+RBI/2016-17/ DBR.No.Ret.BC.40/12.01.001/2016-17 November 26, 2016
+
+<u>Notification</u>
+
+In exercise of the powers conferred by sub-section (1A) of Section 42 of the Reserve Bank of India Act, 1934, the Reserve Bank of India hereby directs that all Scheduled Commercial Banks/ Regional Rural Banks / all Scheduled Primary (Urban) Co- operative Banks / all Scheduled State Co-operative Banks, shall maintain with the Reserve Bank of India, with effect from fortnight beginning November 26, 2016.
+
+(i) an additional average daily balance over and above the average daily balance required to be maintained under sub-section (1) of Section 42; and (ii) that the amount of such additional average daily balance shall not be less than 100 per cent of the increase in net demand and time liabilities between September 16, 2016 and November 11, 2016. (Sudarshan Sen) Executive Director

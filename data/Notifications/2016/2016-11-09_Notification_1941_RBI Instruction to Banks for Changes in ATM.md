@@ -1,0 +1,80 @@
+---
+doc_id: "Notifications_2016_1941"
+title: "RBI Instruction to Banks for Changes in ATM"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI115E09112016.pdf"
+pdf_sha256: "0b696b00416151f24ca7a949ef8f7d96a3d7515422ea34cee2ed46355b792677"
+md_sha256: "d940b41d3e3018277b6753e086debe283c78a625668f2ffc398174b319b11d87"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-11-09_Notification_1941_RBI%20Instruction%20to%20Banks%20for%20Changes%20in%20ATM.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Instruction to Banks for Changes in ATM
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/115 DCM (Plg) No. 1241/10.27.00/2016-17 November 09, 2016
+
+The Chairman / Managing Director/ Chief Executive Officer, Public Sector Banks/ Private Sector Banks / Foreign Banks/ Regional Rural Banks / Urban Cooperative Banks/ State Cooperative Banks
+
+## Dear Sir
+
+**Withdrawal of Legal Tender Character of existing** ` **500/- and** ` **1000/- Bank** **Notes**
+
+Please refer to our <u>circular DCM (Plg) No. 1226/10.27.00/2016-17 November 08,</u> <u>2016</u> on the captioned subject. In order to ensure that the ATMs stop dispensing specified banknotes (SBN) of ` 500 and ` 1,000 and dispense only ` 100 and ` 50 banknotes once the ATMs are re-opened for public transactions, the following actions are required to be taken:
+
+## I. Reopening of ATMs from November 11, 2016
+
+Necessary changes at Switch level (if required, through their outsourced / managed services providers) to disable the dispensing of SBN from respective cassettes at the ATMs and necessary arrangements may be made to evacuate the existing SBN lying in the ATMs should be made.
+
+**II. Recalibration of ATMs to dispense** ` **100 and** ` **50 banknotes through** **ATMs**
+
+Banks shall ensure (if required, through their outsourced / managed services providers) that:
+
+a) at least one cassette in each ATM is configured to dispense banknotes of ` 100 denomination immediately.
+b) ATM fit notes (fresh and/or recyclable) are supplied to the necessary agencies to ensure the above; and
+c) If feasible, additional cassettes in the ATMs to dispense non-SBN banknotes are configured.
+मुद्रा प्रबंध वभाग, के न्द्रय कायार्लय, चौथी मंिज़ल, अमर �बिल्डंग, सर पी. एम. मागर्, पोस्ट बॉक्स स.1379, मुंबई -400 001(भारत) फोन:-+91 22 2260 3000, 2260 4000; फ़ै क्स :-+91 22 2266 2442; ई-मेल :-<u>cgmincdcm@rbi.org.in</u> Department of Currency Management, Central Office, 4 th Floor, Amar Building, Sir P.M. Road, P.B. No.1379, Mumbai-400 001 (India) Phone :- +91 22 2260 3000, 2260 4000 Fax:- +91 22 2266 2442 E mail : cgmincdcm@rbi.org.in �हन्द आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+**III. Withdrawal limit of** ` **2,000 per day per card**
+
+Banks (issuing banks) shall make necessary changes in their card management system / core banking system to ensure that:
+
+(i) the withdrawal limit of ` 2,000 per day per card is applied to all its customers for withdrawals done at ATMs; (ii) the limit, would be within the overall withdrawal limit of ` 20,000/- in a week across all channels, including withdrawals at ATMs and at Point-of-Sale; and (iii) necessary changes are made, as and when the limits are revised / changed.
+## IV. Withdrawal through Banking Correspondents
+
+As BCs are agents of banks, the banks shall issue suitable instructions to BCs for cash deposit and withdrawal transactions done through micro-ATMs and Aadhaar Enabled Payment Systems (AEPS) so as to ensure that dispensing and acceptance of SBN are in adherence to extant instructions, inter alia, limits for withdrawal at bank counters (as indicated in the <u>GOI Press Release dated</u> <u>November 8, 2016</u>)
+
+## V. Acceptance of deposits through cash deposit machines and cash recyclers
+
+a) Banks shall keep cash deposit machines (CDMs) and Cash Recyclers (CRs) operational <u>only</u> on their fulfilling the following conditions:
+i. The CDMs and CRs are disabled for dispensing SBN. ii. The CDMs and CRs are configured to accept SBN (till December 30, 2016 only) using card-based authentication (no cardless deposits to be enabled for depositing SBN) for credit of amount only to the card-holders account (in other words, deposits into third party accounts cannot be accepted).
+b) The CDMs and CRs can continue to accept and/or dispense non-SBN as hitherto subject to the withdrawal limits applicable for transactions at ATMs.
+
+<!-- PAGE 3 -->
+
+## VI. Readiness for dispensing and accepting new series of high
+
+**denomination banknotes (**` **500 and** ` **2000)**
+
+Banks shall also ensure that their ATMs and CDMs/CRs are kept in readiness to dispense (withdrawal) and accept (deposit) high denomination banknotes in the Mahatma Gandhi (New) Series, as and when, the same are available for putting into circulation.
+
+2. In modification of the instructions contained in item 2(ii) and 2(vi) of the said circular, banks are now advised that White Label ATM Operators may approach their cash supplying banks (which may or may not be the sponsor bank) to deposit the recalled banknotes.
+3. To bring in improvements in the customer service, it has been decided to put in place the following additional arrangements:
+i) Bank counters should remain open for extended hours as may be needed to provide exchange related services. ii) Banks should set up Help Line for assisting the public regarding the exchange related services. Information relating to the Help Line should be displayed in the bank branches and also uploaded on the web site of the bank. iii) Cash withdrawal of ` 2000/-, per day per card may be allowed at PoS terminals, subject to the pre-specified weekly limit.
+4. On a review, the instructions on provision of exchange facility through Business Correspondents as indicated in para 3(iv) of our circular dated November 8, 2016 stands withdrawn.
+5. These instructions should be implemented with immediate effect.
+6. Please acknowledge receipt.
+## Yours faithfully
+
+## (P Vijaya Kumar)
+
+## Chief General Manager

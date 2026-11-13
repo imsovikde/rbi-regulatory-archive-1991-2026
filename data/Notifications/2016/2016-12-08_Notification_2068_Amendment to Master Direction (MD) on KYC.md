@@ -1,0 +1,85 @@
+---
+doc_id: "Notifications_2016_2068"
+title: "Amendment to Master Direction (MD) on KYC"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI17613009E94C71049C4A61A1BC83C39EFED.PDF"
+pdf_sha256: "14411e93f73ea726848e67af876203c041f482b493370f128840e71270522ce2"
+md_sha256: "c570461a2986c6a80b493f2eb7a17508125babd913c4ab16f756b2bd5854fa26"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:37Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-12-08_Notification_2068_Amendment%20to%20Master%20Direction%20%28MD%29%20on%20KYC.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendment to Master Direction (MD) on KYC
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Department of Banking Regulation
+
+## Central Office
+
+## Mumbai-400 001
+
+RBI/2016-17/176 DBR.AML.BC. No. 18/14.01.001/2016-17
+
+## December 8, 2016
+
+## All Regulated Entities (REs)
+
+Dear Sir/Madam,
+
+## Amendment to Master Direction (MD) on KYC
+
+In exercise of the powers conferred under Section 35A of the Banking Regulation Act, 1949 and section 35A read with section 56 of that Act, Rule 9 (14) of the Prevention of Money Laundering (Maintenance of Records) Rules, 2005 and all other laws enabling the Reserve Bank in this behalf, the Reserve Bank makes the following amendments, with immediate effect, in the Reserve Bank of India (**Know** **Your Customer (KYC)**) Directions, 2016 (<u>Master Direction No.DBR.AML.No.81/</u>
+
+<u>14.01.001/2015-16 dated February 25, 2016</u>) (hereinafter referred to as the Principal Directions), namely, :
+i. Explanation to Section 3(a)(ii)d pertaining to ‘definition of beneficial owner in case of trust’ which reads as “*Explanation: Term ‘body of individuals’ includes societies”* has been deleted*.* ii. Section 3(a)(v) is amended to read as follows:
+*v.* “Non-profit organisation” (NPO) means any entity or organisation that is registered as a trust or a society under the Societies Registration Act, 1860 or any similar State legislation or a company registered under Section 8 of the Companies Act, 2013.
+iii. Section 12(b) is amended to read as under: “12. (b) Risk categorisation shall be undertaken based on parameters such as customer’s identity, social/financial status, nature of business
+
+<!-- PAGE 2 -->
+
+activity, information about the clients’ business and their location etc. While considering customer’s identity, the ability to confirm identity documents through online or other services offered by issuing authorities may also be factored in. iv. Section 15(d) is amended to read as follows: 15(d) A customer shall not be required to furnish separate proof of current address, if it is different from the address recorded in the OVD. In such cases, the RE shall merely obtain a declaration from the customer indicating the address to which all correspondence will be made by the RE.
+
+v. An additional proviso is added to Section 17 as under: Provided further that a RE may provide an option for One Time Pin (OTP) based e-KYC process for on-boarding of customers. Accounts opened in terms of this proviso i.e., using OTP based e-KYC, are subject to the following conditions:
+(i) There must be a specific consent from the customer for authentication through OTP (ii) the aggregate balance of all the deposit accounts of the customer shall not exceed rupees one lakh. (iii) the aggregate of all credits in a financial year, in all the deposit taken together, shall not exceed rupees two lakh. (iv) As regards borrowal accounts, only term loans shall be sanctioned. The aggregate amount of term loans sanctioned shall not exceed rupees sixty thousand in a year.
+(v) Accounts, both deposit and borrowal, opened using OTP based e-KYC shall not be allowed for more than one year within which Customer Due Diligence (CDD) procedure as provided in section 16 or as per the first proviso of Section 17 of the Principal Direction is to be completed. If the CDD procedure is not completed within a year, in respect of deposit accounts, the same shall be closed immediately. In respect of borrowal accounts no further debits shall be allowed. (vi) A declaration shall be obtained from the customer to the effect that no other account has been opened nor will be opened using OTP based KYC either with the same RE or with any other RE. Further, while uploading KYC
+
+<!-- PAGE 3 -->
+
+information to CKYCR, REs shall clearly indicate that such accounts are opened using OTP based e-KYC and other REs shall not open accounts based on the KYC information of accounts opened with OTP based e-KYC procedure. (vii) REs shall have strict monitoring procedures including systems to generate alerts in case of any non-compliance/violation, to ensure compliance with the above mentioned conditions. vi. Section 18 is amended to read as follows:
+
+18. REs shall print/download directly, the prospective customer’s e-Aadhaar letter from the UIDAI portal if such a customer knows only his/her Aadhaar number or if the customer has only a copy of Aadhaar downloaded from a place/source elsewhere, provided the prospective customer is physically present in the branch/ office of the RE.
+vii. Section 28 is amended to add the following:
+
+(f) IEC (Importer Exporter Code) issued to the proprietary concern by the office of DGFT / Licence/certificate of practice issued in the name of the proprietary concern by any professional body incorporated under a statute
+viii. An explanation is added to Section 33 to read as follows: “Explanation: Term ‘body of individuals’ includes societies” ix. Section 33A is added to read as follows: 33A: For opening accounts of juridical persons not specifically covered in the earlier part, such as Government or its Departments, societies, universities and local bodies like village panchayats, a certified copy of the following documents shall be obtained:
+
+i. Document showing name of the person authorised to act on behalf of the entity; ii. Officially valid documents for proof of identity and address in respect of the person holding a power of attorney to transact on its behalf and
+iii. Such documents as may be required by the RE to establish the legal existence of such an entity/juridical person.
+
+<!-- PAGE 4 -->
+
+x. A clause (f) is added to existing Section 38 to read as follows**:**
+(f) e-KYC process using OTP based authentication, for the purpose of periodic updation is allowed, provided, while onboarding, the customer was subjected to KYC process as specified in Section 16 or Section 17.
+xi. In Section 51, hyper links to ‘ISIL (Da’esh) & Al-Qaida Sanctions List’ and ‘The 1988 Sanctions Lists’ have been updated**.** xii. In Section 57 the steps to be taken by REs detailed at Sr. No. (i) to (v) are being substituted with the following**:**
+
+(i) Scheduled Commercial Banks (SCBs) shall invariably upload the KYC data pertaining to all new individual accounts opened on or after January 1, 2017 with CERSAI in terms of the provisions of the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. SCBs are, however, allowed time upto February 1, 2017 for uploading date in respect of accounts opened during January 2017. (ii) REs other than SCBs shall upload the KYC data pertaining to all new individual accounts opened on or after from April 1, 2017 with CERSAI in terms of the provisions of the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. (iii) <u>Operational Guidelines (version 1.1)</u> for uploading the KYC data have been released by CERSAI. Further, ‘Test Environment’ has also been made available by CERSAI for the use of REs.
+xiii. The opening statement of existing Section 58 is amended to read as follows**:** Under FATCA and CRS, REs shall adhere to the provisions of Income Tax Rules <u>114F</u>, <u>114G</u> and <u>114H</u> and determine whether they are a Reporting Financial Institution as defined in Income Tax Rule 114F and if so, shall take following steps for complying with the reporting requirements: xiv. The clause(f) of existing Section 58 is added which is as follows**:**
+
+(f) Ensure compliance with updated instructions/ rules/ guidance notes/ Press releases/ issued on the subject by Central Board of Direct Taxes (CBDT) from time to time and available on the web site <u>[http://www.incometaxindia.gov.in/Pages/default.aspx](http://www.incometaxindia.gov.in/Pages/default.aspx)</u>. REs may take note of the following:
+
+<!-- PAGE 5 -->
+
+a) updated <u>Guidance Note</u> on FATCA and CRS
+b) a <u>press release</u> on ‘Closure of Financial Accounts’ under Rule 114H (8).
+xv. The circular DBOD.No.IBS.1816/23.67.001/98-99 dated February 4, 1999 has been repealed and has been added to Appendix of the MD at Serial No. 253.
+
+(Lily Vadera) Chief General Manager

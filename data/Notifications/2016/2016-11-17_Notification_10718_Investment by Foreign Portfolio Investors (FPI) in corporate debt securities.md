@@ -1,0 +1,61 @@
+---
+doc_id: "Notifications_2016_10718"
+title: "Investment by Foreign Portfolio Investors (FPI) in corporate debt securities"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1383E9226650DA1492D8702A1C397F95A3A.PDF"
+pdf_sha256: "b09e73f292c887ad68b27d9b27f9d645762698207ae6bbe6595e97767bd2ad63"
+md_sha256: "6618254b08f1eacd94f37feb1632e901f12d3337ca0066878146debbedf4ca24"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-11-17_Notification_10718_Investment%20by%20Foreign%20Portfolio%20Investors%20%28FPI%29%20in%20corporate%20debt%20securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Foreign Portfolio Investors (FPI) in corporate debt securities
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2016-17/138
+
+A.P. (DIR Series) Circular No. 19 November 17, 2016 To, All Category – I Authorised Dealer banks Madam / Sir,
+## Investment by Foreign Portfolio Investors (FPI) in corporate debt securities
+
+Attention of Authorised Dealers Category – I (AD Category -I) banks is invited to paragraph 1 of Schedule 5 to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide <u>Notification</u> <u>No.FEMA 20/2000-RB dated May 3, 2000</u> as amended from time to time, in terms of which, foreign portfolio investors (FPI) are permitted to invest only in listed or to-be-listed debt securities. Investment in unlisted debt securities is permitted only in case of companies in the infrastructure sector.
+
+2. As announced in the Union Budget 2016-17, it has now been decided to expand the investment basket of eligible instruments for investment by FPIs under the corporate bond route to include the following:
+(i) Unlisted corporate debt securities in the form of non-convertible debentures/bonds issued by public or private companies subject to minimum residual maturity of three years and end use-restriction on investment in real estate business, capital market and purchase of land. The expression ‘Real Estate Business’ shall have the same meaning as assigned to it in Foreign Exchange Management (Transfer or issue of Security by a Person Resident outside India) Regulations, 2000 <u>Notification No.FEMA.362/2016-RB dated</u> <u>February 15, 2016</u>. The custodian banks of FPIs shall ensure compliance with this condition. वत्तीय बाज़ार व�नयमन वभाग, मख्य
+
+|ु भवन, दसर|ू मंिज़ल,|शहद भगत संह मागर्,|फोटर्, मुंबई – 400001.|
+|---|---|---|---|
+|फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in||||
+
+फोन: (91-22) 22603000,
+
+Financial Markets Regulation Department, Main Building, 2 nd Floor, Shahid Bhagat Singh Road, Fort, Mumbai – 400001. Tel: (91-22) 22603000, Fax: (91-22) 22702290 e-mail- cgmfmrd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## : 2 :
+
+(ii) Securitised debt instruments as under:
+
+(a) any certificate or instrument issued by a special purpose vehicle (SPV) set up for securitisation of asset/s where banks, FIs or NBFCs are originators; and/or
+(b) any certificate or instrument issued and listed in terms of the SEBI Regulations on Public Offer and Listing of Securitised Debt Instruments,
+2008.
+3. Investment by FPIs in the unlisted corporate debt securities and securitised debt instruments shall not exceed ` 35,000 crore within the extant investment limits prescribed for corporate bond from time to time which currently is ` 2,44,323 crore. Further, investment by FPIs in securitised debt instruments shall not be subject to the minimum 3-year residual maturity requirement.
+4. All other existing conditions for investment by FPIs in the debt market remain unchanged.
+5. AD Category - I banks may bring the contents of the circular to the notice of their customers/constituents concerned.
+6. Necessary amendments to Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 (<u>Notification No. FEMA</u> <u>20/2000-RB dated May 3, 2000</u>) have been notified by the <u>Government on October 24,</u> <u>2016</u> and are annexed to this circular.
+7. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+8. The revised norms will be reviewed after one year.
+Yours faithfully,
+
+(Manoj Kumar) Deputy General Manager

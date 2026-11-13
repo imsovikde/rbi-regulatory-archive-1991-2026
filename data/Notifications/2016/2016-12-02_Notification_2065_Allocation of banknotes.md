@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2016_2065"
+title: "Allocation of banknotes"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT169B2D7F29271EA425EAAF7BEFDF72142C3.PDF"
+pdf_sha256: "79d7557d395aadc26752cd4b4cb99de6a6ce8575651ebdb4538e7741089feab9"
+md_sha256: "ba1edd74685d14f2d4c1f8a5d5d939f8fb15bbfb4d7d9dac0b3032f01323920a"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:57:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-12-02_Notification_2065_Allocation%20of%20banknotes.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Allocation of banknotes
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/169 DCM (Plg) No. 1508/10.27.00/2016-17 December 02, 2016
+
+The Chairman / Managing Director/ Chief Executive Officer (All banks maintaining currency chests)
+
+Dear Sir,
+
+## Allocation of banknotes
+
+Please refer to our <u>circular DCM (Plg) No.1345/10.27.00/2016-17 dated November</u> <u>22, 2016</u> On “Making cash available for Rabi Crop Season – Advisory to banks**”.**
+
+2. In continuation of the above and to ensure that adequate allocation of banknotes are made for the rural branches, post offices and DCCBs, the banks are advised to involve the district co-ordinators (Lead District Managers) functioning under the aegis of the State Level Bankers’ Committee (SLBC) in facilitating / planning distribution of currency from the currency chests.
+3. A perception has also emerged that banks with currency chests are according priority towards supplying cash to their own bank branches. These banks with currency chests are, therefore, advised to make visible efforts to dispel the perception of unequal allocation among other banks and their own branches. Yours faithfully, (Suman Ray) General Manager
