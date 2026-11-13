@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2008_DBOD_No_BP_BC_30_08_12_14_2008-09"
+title: "Infrastructure - Criteria for Financing"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86182.PDF"
+pdf_sha256: "dacce7ac58b0cb2ba071f5af96e036375a93811986f853a6b32a1b6d25ab14ff"
+md_sha256: "27579369b02262955b50f3904e3a28f086792e6081ee740f9f8fc6079acfa6fc"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:04:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-08-06_Circular_DBOD%20No.BP.BC.30-08.12.14-2008-09_Infrastructure%20-%20Criteria%20for%20Financing.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Infrastructure - Criteria for Financing
+
+<!-- PAGE 1 -->
+
+RBI/2008- 2009/124 DBOD No.BP. BC. 30/ 08.12.14/2008-09
+
+## August 6, 2008
+
+All Commercial Banks (excluding RRBs and LABs) and Select All India Financial Institutions (AIFIs) (NHB, NABARD, EXIM Bank, SIDBI,)
+
+Dear Sir,
+
+## <u>Infrastructure – Criteria for financing</u>
+
+Please refer to paragraph 2.3.8.4 of our Master Circular – Loan and Advances – Statutory and other Restrictions-DBOD.NO.Dir.BC.17/13.03.00/2008-09 dated July 1, 2008 wherein, inter alia, the banks have been advised that in respect of projects undertaken by public sector units, term loans may be sanctioned only for corporate entities (i.e. public sector undertakings registered under Companies Act or a Corporation established under the relevant statute). Further, such term loans should not be in lieu of or to substitute budgetary resources envisaged for the project. The term loan could supplement the budgetary resources, if such supplementing was contemplated in the project design. While such public sector units may include Special Purpose Vehicles (SPVs) registered under the Companies Act set up for financing infrastructure projects, it should be ensured by banks and financial institutions that these loans/investments are not used for financingWithdrawn the budget of the State Governments. Whether such financing is done by way of extending loans or investing in bonds, banks and financial institutions should undertake due diligence on the viability and bankability of such projects to ensure that revenue stream from the project is sufficient to take care of the debt servicing obligations and that the repayment/servicing of debt is not out of budgetary resources. Further, in the case of financing of SPVs, banks and financial institutions should ensure that the funding proposals are for specific monitorable projects.
+
+<!-- PAGE 2 -->
+
+2. In this context, it has been observed that some banks have extended financial assistance to State PSUs which is not in accordance with the above norms. The banks/FIs are, therefore, advised to follow the above instructions scrupulously, even while making investment in bonds of sick State PSUs as part of the rehabilitation effort.
+3. All other conditions stipulated in the circular ibid shall remain unaltered.
+Yours faithfully,
+
+(**Prashant Saran**) Chief General Manager-in-Charge
+
+# Withdrawn

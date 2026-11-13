@@ -1,0 +1,73 @@
+---
+doc_id: "Circulars_2008_DBOD_No_BL_BC_32_22_01_03_2008-09"
+title: "Acquisition of Accommodation on Lease / Rental basis by Commercial Banks for their Branches / Offices - Liberalisation of Guidelines"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86445.PDF"
+pdf_sha256: "7cd3ac3ce736167670f5988ac23d6d1bb2ecd7fb0bdc7687c0c1011e14bef714"
+md_sha256: "e8dfce3dc344d3dff565a757c9e7ce29642b5eb8326056791c4c3aeb31f6f8cc"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:04:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-08-21_Circular_DBOD.No.BL.BC.32-22.01.03-2008-09_Acquisition%20of%20Accommodation%20on%20Lease%20-%20Rental%20basis%20by%20Commercial%20Banks%20for%20their%20Branches%20-%20Offices%20-%20Liberalisation%20of%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Acquisition of Accommodation on Lease / Rental basis by Commercial Banks for their Branches / Offices - Liberalisation of Guidelines
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/132 DBOD.No.BL.BC. 32/22.01.03/2008-09 August 21, 2008 Shravana 30, 1930 (Saka)
+
+## All Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## Acquisition of Accommodation on Lease / Rental basis by Commercial
+
+## Banks for their branches / offices – Liberalisation of guidelines
+
+Please refer to our Circular DBOD. No.BL.BC.105/22.01.03/98 dated November 11, 1998 on the above subject.
+
+2. The above circular was issued to all commercial banks. As regards private sector banks and foreign banks, the norms and procedures to be followed for acquisition of accommodation on lease / rental basis by these banks for their use should continue to be determined by the banks themselves, as per the policy laid down by their Board of Directors.
+3. Similarly, public sector banks may also continue to be guided by the instructions contained in our circular dated November 11, 1998 as regards acquisition of accommodation on lease/rental basis. Further, as regards the instructions contained in paragraph 4 of our circular dated November 11, 1998 applicable to
+# Withdrawn
+
+public sector banks regarding reporting of negotiated contracts in respect of rentals beyond certain cut-off limits to Central Bureau of Investigation (CBI), they may continue to be guided by the extant instructions of Govt. of India in this regard, till the instructions are replaced by fresh guidelines from the Government of India.
+
+4. As banks may be aware, the authorizations issued for opening of bank branches/offices are location- specific, inasmuch as, after issue of authorization/permission by Reserve Bank of India for opening a bank branch/office at a particular centre, the banks are required to report details including the exact address of the branch/office, not later than two weeks after the opening of the branch/office, to Reserve Bank of India. In the circumstances, it is incumbent upon banks to ensure that all their branches/offices are operating from premises which have a subsisting and valid lease agreement, free of any disputes between the bank and the landlords concerned. Such disputes may relate to non-renewal of lease agreements in time leading to unauthorized occupation, rental value etc., We therefore advise that Head Offices of banks may immediately undertake a review in this regard and ensure that all their branches/offices are operating from premises which have a valid and subsisting lease agreement.
+
+<!-- PAGE 2 -->
+
+5. Banks are also advised to report immediately and **in any case not later than September 30, 2008**, the list of their branches / offices, that are operating in premises in respect of which a dispute is pending with the landlord, to the Regional Director(RD) of Reserve Bank of India concerned (i.e., RD of the Regional Office of RBI under whose jurisdiction the branch/office in respect of which a dispute is pending is functioning), as per the format enclosed **(Annex)** to enable RBI to take a view on the appropriateness or otherwise of continuing the authorization for the branch/office which is functioning in a ‘disputed’ premises. Further, banks are also required to furnish quarterly progress reports (as at the end of March, June, September and December) in the same format to the RD of the Regional Office of RBI concerned, within a period of one month from the close of the respective quarter to which the report relates to. The first such quarterly report will be for the quarter ended December 31, 2008 which will have to be furnished to the Regional Directors concerned by January 31, 2009. It may be noted in this regard that in respect of branches/offices situated in Maharashtra/Goa, the information will be furnished by banks to the Regional Director, Reserve Bank of India, Mumbai Office, Shahid Bhagat Singh Road, Mumbai – 400 001.
+## Yours faithfully
+
+## (P.Vijaya Bhaskar)
+
+Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Name of the Bank:
+
+**Particulars of branches/Offices where there is a dispute relating to acquisition of premises on lease/rental basis**
+
+## Sl. Name of Exact District/ Particulars Nature Whether Remarks
+
+## No. Branch/Office Address State of of the matter of landlord/ dispute is pending
+
+## Branch/ landlady In brief before a
+
+## Office (Name, Court of address, Law; If so,
+
+## contact brief telephone particulars
+
+**number) thereof**
+
+# Withdrawn

@@ -1,0 +1,485 @@
+---
+doc_id: "Circulars_2008_DBOD_No_BP_BC_No_37_21_04_132_2008-09"
+title: "Prudential Guidelines on Restructuring of Advances by Banks"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86627.PDF"
+pdf_sha256: "7016a4456a65abbd4b166aa2e11dec9d042edb73a2cb252bae9cef672b5f6979"
+md_sha256: "688168685b5b4fbc3d75bf66e5e276c86d174a361643f499a7aed2acd82364bd"
+total_pages: 25
+native_pages: 25
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:04:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-08-27_Circular_DBOD.No.BP.BC.No.37-21.04.132-2008-09_Prudential%20Guidelines%20on%20Restructuring%20of%20Advances%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Guidelines on Restructuring of Advances by Banks
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/143 DBOD.No.BP.BC.No.37 /21.04.132/2008-09
+
+## August 27, 2008
+
+The Chairman and Managing Directors/ Chief Executive Officers of All Scheduled Commercial Banks (excluding RRBs & LABs)
+
+Dear Sir,
+
+## <u>Prudential Guidelines on Restructuring of Advances by Banks</u>
+
+Please refer to the draft prudential guidelines on restructuring of loans by banks other than under Corporate Debt Restructuring(CDR) and Small and Medium Enterprises (SMEs)Debt Restructuring Mechanisms, which were placed on our website vide our circular DBOD.No.BP. BC.1522/21.04.132/2006-07 dated June 21, 2007 for public comments. These draft guidelines had been issued as per the announcement in the Annual Policy Statement for the year 2006-07, regarding constitution of a Working Group to review and align the existing guidelines on restructuring of advances (other than under CDR mechanism) on the lines of provisions under the revised CDR Mechanism.
+
+2. Based on the recommendations of the Working Group and the public comments received on the draft prudential guidelines, the principles governing restructuring of different types of advances have now been aligned and fresh guidelines on the subject superseding all the guidelines on the subject issued so far, are enclosed.
+# Withdrawn
+
+3. These guidelines will be applicable to all accounts restructured after the date of this circular.
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## <u>PRUDENTIAL GUIDELINES ON RESTRUCTURING OF ADVANCES BY BANKS</u>
+
+## 1. Background
+
+**1.1** At present, the guidelines issued by the Reserve Bank of India on restructuring of advances (other than those restructured under a separate set of guidelines issued by the Rural Planning and Credit Department( RPCD) of the RBI on restructuring of advances on account of natural calamities) are divided into the following four categories:
+(i) Guidelines on restructuring of advances extended to industrial units. (ii) Guidelines on restructuring of advances extended to industrial units under the Corporate Debt Restructuring (CDR) Mechanism (iii) Guidelines on restructuring of advances extended to Small and Medium Enterprises (SME) (iv) Guidelines on restructuring of all other advances.
+In these four sets of guidelines on restructuring of advances, the differentiation has been broadly made based on whether a borrower is engaged in an industrial activity or a non- industrial activity. In addition an elaborate institutional mechanism has been laid down for accounts restructured under CDR Mechanism. The major difference in the prudential regulations lies in the stipulation that subject to certain conditions, the accounts of borrowers engaged in industrial activities (under CDR Mechanism, SME Debt
+
+# Withdrawn
+
+Restructuring Mechanism and outside these mechanisms) continue to be classified in the existing asset classification category upon restructuring. This benefit of retention of asset classification on restructuring is not available to the accounts of borrowers engaged in non-industrial activities except to SME borrowers. Another difference is that the prudential regulations covering the CDR Mechanism and restructuring of advances extended to SMEs are more detailed and comprehensive than that covering the restructuring of the rest of the advances including the advances extended to the industrial units, outside CDR Mechanism. Further, the CDR Mechanism is available only to the borrowers engaged in industrial activities.
+
+<!-- PAGE 3 -->
+
+**1.2** Since the principles underlying the restructuring of all advances are identical, the prudential regulations too need to be aligned in all cases. Accordingly, this circular harmonises the prudential norms across all categories of debt restructuring mechanisms, other than those restructured on account of natural calamities which will continue to be covered by the extant guidelines issued by the RPCD. These prudential norms applicable to all restructurings including those under CDR Mechanism are laid down in para 3. The details of the institutional/organizational framework for CDR Mechanism and SME Debt Restructuring Mechanism are given in **Annex 1**. It may be noted that while the general principles laid down in para 3 inter-alia stipulate that ‘standard’ advances should be re-classified as ‘sub-standard’ immediately on restructuring, all borrowers, with the exception of the borrowal categories specified in para 6.1 below ( i.e consumer and personal advances, advances classified as capital market and real estate exposures), will be entitled to retain the asset classification upon restructuring, subject to the conditions enumerated in para 6.2.
+**1.3** Henceforth, the CDR Mechanism **(Annex 1**) will also be available to the corporates engaged in non-industrial activities, if they are otherwise eligible for restructuring as per the criteria laid down for this purpose. Further, banks are also encouraged to strengthen the co-ordination among themselves in the matter of restructuring of consortium/multiple banking accounts, which are not covered under the CDR Mechanism.
+# Withdrawn
+
+## 2. KEY CONCEPTS
+
+Key concepts used in these guidelines are defined in **Annex 2**.
+
+## 3. GENERAL PRINCIPLES AND PRUDENTIAL NORMS FOR RESTRUCTURED ADVANCES
+
+The principles and prudential norms laid down in this paragraph are applicable to all advances including the borrowers, who are eligible for special regulatory treatment for asset classification as specified in para 6. In these cases, the provisions of paras 3.1.2,
+
+3.2.1 and 3.2.2 would stand modified by the provisions in para 6.
+## 3.1 Eligibility criteria for restructuring of advances
+
+**3.1.1** Banks may restructure the accounts classified under 'standard', 'sub-standard' and 'doubtful' categories.
+
+<!-- PAGE 4 -->
+
+**3.1.2** Banks can **not** reschedule / restructure / renegotiate borrowal accounts with retrospective effect. While a restructuring proposal is under consideration, the usual asset classification norms would continue to apply. The process of re-classification of an asset should not stop merely because restructuring proposal is under consideration. The asset classification status as on the date of approval of the restructured package by the competent authority would be relevant to decide the asset classification status of the account after restructuring / rescheduling / renegotiation. In case there is undue delay in sanctioning a restructuring package and in the meantime the asset classification status of the account undergoes deterioration, it would be a matter of supervisory concern.
+**3.1.3** Normally, restructuring can not take place unless alteration / changes in the original loan agreement are made with the formal consent / application of the debtor. However, the process of restructuring can be initiated by the bank in deserving cases subject to customer agreeing to the terms and conditions.
+**3.1.4** No account will be taken up for restructuring by the banks unless the financial viability is established and there is a reasonable certainty of repayment from the borrower, as per the terms of restructuring package. The viability should be determined by the banks based on the acceptable viability benchmarks determined by them, which may be applied on a case-by-case basis, depending on merits of each case. *Illustratively*, the parameters may include the Return on Capital Employed, Debt Service Coverage Ratio, Gap between the Internal Rate of Return and Cost of Funds and the
+# Withdrawn
+
+amount of provision required in lieu of the diminution in the fair value of the restructured advance. The accounts not considered viable should not be restructured and banks should accelerate the recovery measures in respect of such accounts. Any restructuring done without looking into cash flows of the borrower and assessing the viability of the projects / activity financed by banks would be treated as an attempt at ever greening a weak credit facility and would invite supervisory concerns/action.
+
+**3.1.5** While the borrowers indulging in frauds and malfeasance will continue to remain ineligible for restructuring, banks may review the reasons for classification of the borrowers as wilful defaulters specially in old cases where the manner of classification of a borrower as a wilful defaulter was not transparent and satisfy itself that the borrower is in a position to rectify the wilful default. The restructuring of such cases may be done with Board’s approval, while for such accounts the restructuring under the CDR Mechanism may be carried out with the approval of the Core Group only.
+
+<!-- PAGE 5 -->
+
+**3.1.6.** BIFR cases are not eligible for restructuring without their express approval. CDR Core Group in the case of advances restructured under CDR Mechanism / the lead bank in the case of SME Debt Restructuring Mechanism and the individual banks in other cases, may consider the proposals for restructuring in such cases, after ensuring that all the formalities in seeking the approval from BIFR are completed before implementing the package.
+## 3.2 Asset classification norms
+
+Restructuring of advances could take place in the following stages :
+
+(a) before commencement of commercial production/operation;
+(b) after commencement of commercial production/operation but before the asset has been classified as ‘sub-standard’;
+(c) after commencement of commercial production/operation and the asset has been classified as ‘sub-standard’ or ‘doubtful’.
+**3.2.1** The accounts classified as 'standard assets' should be immediately re-classified as 'sub-standard assets' upon restructuring.
+**3.2.2** The non-performing assets, upon restructuring, would continue to have the same asset classification as prior to restructuring and slip into further lower asset classification categories as per extant asset classification norms with reference to the pre-restructuring
+# Withdrawn
+
+repayment schedule.
+
+**3.2.3** All restructured accounts which have been classified as non-performing assets upon restructuring, would be eligible for up-gradation to the ‘standard’ category after observation of ‘satisfactory performance’ during the ‘specified period’ (**Annex 2**).
+**3.2.4.** In case, however, satisfactory performance after the specified period is not evidenced, the asset classification of the restructured account would be governed as per the applicable prudential norms with reference to the pre-restructuring payment schedule.
+**3.2.5** Any additional finance may be treated as ‘standard asset’, up to a period of one year after the first interest / principal payment, whichever is earlier, falls due under the approved restructuring package. However, in the case of accounts where the pre- restructuring facilities were classified as ‘sub-standard’ and ‘doubtful’, interest income on the additional finance should be recognised only on cash basis. If the restructured asset
+
+<!-- PAGE 6 -->
+
+does not qualify for upgradation at the end of the above specified one year period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+
+**3.2.6** In case a restructured asset, which is a standard asset on restructuring, is subjected to restructuring on a subsequent occasion, it should be classified as sub- standard. If the restructured asset is a sub-standard or a doubtful asset and is subjected to restructuring, on a subsequent occasion, its asset classification will be reckoned from the date when it became NPA on the first occasion. However, such advances restructured on second or more occasion may be allowed to be upgraded to standard category after one year from the date of first payment of interest or repayment of principal whichever falls due earlier in terms of the current restructuring package subject to satisfactory performance.
+## 3.3 Income recognition norms
+
+Subject to provisions of paragraphs 3.2.5, 4.2 and 5.2, interest income in respect of restructured accounts classified as 'standard assets' will be recognized on accrual basis and that in respect of the accounts classified as 'non-performing assets' will be recognized on cash basis.
+
+## 3.4 Provisioning norms
+
+<u>3.4.1 Normal provisions</u> Banks will hold provision against the restructured advances as per the existing
+# Withdrawn
+
+provisioning norms.
+
+*3.4.2* <u>Provision for diminution in the fair value of restructured advances</u>
+**(i)** Reduction in the rate of interest and /or reschedulement of the repayment of principal amount, as part of the restructuring, will result in diminution in the fair value of the advance. Such diminution in value is an economic loss for the bank and will have impact on the bank’s market value of equity. It is, therefore, necessary for banks to measure such diminution in the fair value of the advance and make provisions for it by debit to Profit & Loss Account. Such provision should be held in addition to the provisions as per existing provisioning norms as indicated in para 3.4.1 above, and in an account distinct from that for normal provisions. For this purpose, the erosion in the fair value of the advance should be computed as the difference between the "*the present value of future cash flows **(principal and*** ***interest***<u>) reckoned based on the current BPLR as on the date of restructuring plus the</u> <u>appropriate term premium and credit risk premium</u> *for the borrower category on the date* *of restructuring*", and *‘the present value of future cash flows’ **(principal and interest)*** <u>based on rate charged</u> *as per the restructuring package)*. For computing the present value, the discount rate to be applied should be equivalent to the (current BPLR as on
+
+<!-- PAGE 7 -->
+
+the date of restructuring + appropriate term premium + credit risk premium applicable to the borrower as on the date of restructuring).
+
+**(ii)** In the case of working capital facilities**,** the diminution in the fair value of the cash credit /overdraft component may be computed as indicated in para (i) above, reckoning the higher of the outstanding amount or the limit sanctioned as the principal amount and taking the tenor of the advance as one year. The term premium in the discount factor would be as applicable for one year. The fair value of the term loan components( Working Capital Term Loan and Funded Interest Term Loan) would be computed as per actual cash flows and taking the term premium in the discount factor as applicable for the maturity of the respective term loan components.
+
+**(iii)** In the event any security is taken in lieu of the diminution in the fair value of the advance, it should be valued at Re.1/- till maturity of the security. This will ensure that the effect of charging off the economic sacrifice to the Profit & Loss account is not negated.
+
+**(iv)** The diminution in the fair value may be re-computed on each balance sheet date till satisfactory completion of all repayment obligations and full repayment of the outstanding in the account, so as to capture the changes in the fair value on account of changes in BPLR, term premium and the credit category of the borrower. Consequently, banks may provide for the shortfall in provision or reverse the amount of excess provision held in the distinct account.
+
+**(v)** If due to lack of expertise/ appropriate infrastructure, a bank finds it difficult to ensure computation of diminution in the fair value of advances extended by small/rural branches, as an alternative to the methodology prescribed above for computing the amount of diminution in the fair value, banks will have the option of notionally computing the amount of diminution in the fair value and providing therefor, **at five percent** of the total exposure, in respect of all restructured accounts where the total dues to bank(s) are less than **rupees one crore** till the financial year ending March 2011. The position would
+# Withdrawn
+
+be reviewed thereafter.
+
+**3.4.3** The total provisions required against an account ( normal provisions plus provisions in lieu of diminution in the fair value of the advance) are capped at 100% of
+## the outstanding debt amount.
+
+## 4. PRUDENTIAL NORMS FOR CONVERSION OF PRINCIPAL INTO DEBT/EQUITY
+
+<u>4.1. Asset classification norms</u> A part of the outstanding principal amount can be converted into debt or equity instruments as part of restructuring. The debt/equity instruments so created will be classified in the same asset classification category in which the restructured advance has been classified. Further movement in the asset classification of these instruments would also be determined based on the subsequent asset classification of the restructured advance.
+
+<!-- PAGE 8 -->
+
+<u>4.2 Income recognition norms</u>
+<u>4.2.1 Standard Accounts</u> In the case of restructured accounts classified as ‘standard’, the income, if any, generated by these instruments may be recognised on accrual basis.
+<u>4.2.2 Non- Performing Accounts</u> In the case of restructured accounts classified as non-performing assets, the income, if any, generated by these instruments may be recognised only on cash basis.
+<u>4.3 Valuation and provisioning norms</u> These instruments should be held under AFS and valued as per usual valuation norms. Equity classified as standard asset should be valued either at market value, if quoted, or at break-up value, if not quoted (without considering the revaluation reserve, if any,)which is to be ascertained from the company’s latest balance sheet. In case the latest balance sheet is not available the shares are to be valued at Rs 1.Equity instrument classified as NPA should be valued at market value, if quoted, and in case where equity is not quoted,it should be valued at Rs. 1.00. Depreciation on these instruments should not be offset against the appreciation in any other securities held under the AFS category.
+## 5. PRUDENTIAL NORMS FOR CONVERSION OF UNPAID INTEREST INTO
+
+## 'FUNDED INTEREST TERM LOAN' (FITL), DEBT OR EQUITY INSTRUMENTS
+
+# Withdrawn
+
+**5.1** <u>Asset classification norms</u> The FITL/debt or equity instrument created by conversion of unpaid interest will be classified in the same asset classification category in which the restructured advance has been classified. Further movement in the asset classification of FITL/ debt or equity instruments would also be determined based on the subsequent asset classification of the restructured advance.
+**5.2** <u>Income recognition norms</u>
+**5.2.1** The income, if any, generated by these instruments may be recognised on accrual basis, if these instruments are classified as ‘standard’, and on cash basis in the cases where these have been classified as a non-performing asset.
+**5.2.2** The unrealised income represented by FITL/Debt or equity instrument should have a corresponding credit in an account styled as "Sundry Liabilities Account (Interest Capitalization)".
+
+<!-- PAGE 9 -->
+
+**5.2.3** In the case of conversion of unrealised interest income into equity, which is quoted, interest income can be recognized after the account is upgraded to standard category at market value of equity, on the date of such up gradation, not exceeding the amount of interest converted into equity.
+**5.2.4** Only on repayment in case of FITL or sale/redemption proceeds of the debt/equity instruments, the amount received will be recognized in the P&L Account, while simultaneously reducing the balance in the "Sundry Liabilities Account (Interest Capitalisation)".
+<u>5.3 Valuation & Provisioning norms</u> Valuation and provisioning norms would be as per para 4.3 above. The depreciation, if any, on valuation may be charged to the Sundry Liabilities (Interest Capitalisation) Account.
+## 6. SPECIAL REGULATORY TREATMENT FOR ASSET CLASSIFICATION
+
+**6.1** The special regulatory treatment for asset classification, in modification to the provisions in this regard stipulated in para 3, will be available to the borrowers engaged in important business activities, subject to compliance with certain conditions as enumerated in para 6. 2 below. Such treatment is not extended to the following categories of advances:
+# Withdrawn
+
+i. *Consumer and personal advances* *ii. Advances classified as Capital market exposures* iii.*Advances classified as commercial real estate exposures*;
+The asset classification of these three categories accounts as well as that of other accounts which do not comply with the conditions enumerated in para 6.2, will be governed by the prudential norms in this regard described in para 3 above.
+
+## 6. 2 Elements of special regulatory framework
+
+The special regulatory treatment has the following two components:
+
+(i) Incentive for quick implementation of the restructuring package. (ii) Retention of the asset classification of the restructured account in the pre- restructuring asset classification category
+
+<!-- PAGE 10 -->
+
+6.2.1 <u>Incentive for quick implementation of the restructuring package.</u> As stated in para 3.1.2, during the pendency of the application for restructuring of the advance with the bank, the usual asset classification norms would continue to apply. The process of reclassification of an asset should not stop merely because the application is under consideration. However, as an incentive for quick implementation of the package, if the approved package is implemented by the bank as per the following time schedule, the asset classification status may be restored to the position which existed when the reference was made to the CDR Cell in respect of cases covered under the CDR Mechanism or when the restructuring application was received by the bank in non-CDR cases:
+(i) Within 120 days from the date of approval under the CDR Mechanism. (ii) Within 90 days from the date of receipt of application by the bank in cases other than those restructured under the CDR Mechanism.
+*6.2.2* <u>Asset classification benefits</u> Subject to the compliance with the undernoted conditions in addition to the adherence to the prudential framework laid down in para 3:
+**(i)** In modification to para 3.2.1, an existing 'standard asset' will not be downgraded to the sub-standard category upon restructuring.
+# Withdrawn
+
+**(ii)** In modification to para 3.2.2, during the specified period, the asset classification of the sub-standard/doubtful accounts will not deteriorate upon restructuring, if satisfactory performance is demonstrated during the specified period.
+
+However, these benefits will be available subject to compliance with the following conditions**:**
+
+i) The dues to the bank are ‘fully secured’ as defined in **Annex 2**. The condition of being fully secured by tangible security will not be applicable in the following cases:
+(a) SSI borrowers, where the outstanding is up to Rs.25 lakh.
+(b) Infrastructure projects, provided the cash flows generated from these projects are adequate for repayment of the advance, the financing bank(s) have in place an appropriate mechanism to escrow the cash flows, and also have a clear and legal first claim on these cash flows.
+
+<!-- PAGE 11 -->
+
+ii) The unit becomes viable in 10 years, if it is engaged in infrastructure activities, and in 7 years in the case of other units.
+
+iii) The repayment period of the restructured advance including the moratorium, if any, does not exceed 15 years in the case of infrastructure advances and 10 years in the case of other advances.
+
+iv) Promoters' sacrifice and additional funds brought by them should be a minimum of 15% of banks' sacrifice.
+
+v) Personal guarantee is offered by the promoter except when the unit is affected by external factors pertaining to the economy and industry. **vi)** The restructuring under consideration is not a 'repeated restructuring' as defined in para (v) of **Annex 2.**
+## 7. MISCELLANEOUS
+
+**7.1** The banks should decide on the issue regarding convertibility (into equity) option as a part of restructuring exercise whereby the banks / financial institutions shall have the right to convert a portion of the restructured amount into equity, keeping in view the statutory requirement under Section 19 of the Banking Regulation Act, 1949, (in the case of banks) and relevant SEBI regulations.Withdrawn
+**7.2** Acquisition of equity shares / convertible bonds / convertible debentures in companies by way of conversion of debt / overdue interest can be done without seeking prior approval from RBI, even if by such acquisition the prudential capital market exposure limit prescribed by the RBI is breached. However, this will be subject to reporting of such holdings to RBI, Department of Banking Supervision (DBS), every month along with the regular DSB Return on Asset Quality. Nonetheless, banks will have to comply with the provisions of Section 19(2) of the Banking Regulation Act, 1949.
+**7.3** Acquisition of non-SLR securities by way of conversion of debt is exempted from the mandatory rating requirement and the prudential limit on investment in unlisted non-SLR securities, prescribed by the RBI, subject to periodical reporting to the RBI in the aforesaid DSB return.
+
+<!-- PAGE 12 -->
+
+**7.4** Banks may consider incorporating in the approved restructuring packages creditor's rights to accelerate repayment and the borrower's right to pre-pay. The right of recompense should be based on certain performance criteria to be decided by the banks.
+## 8. DISCLOSURES
+
+Banks should also disclose in their published annual Balance Sheets, under "Notes on Accounts", information relating to number and amount of advances restructured, and the amount of diminution in the fair value of the restructured advances in **Annex-3.** The information would be required for advances restructured under CDR Mechanism, SME Debt Restructuring Mechanism and other categories separately.
+
+## 9. ILLUSTRATIONS
+
+A few illustrations on the asset classification of restructured accounts are given in **Annex-4.**
+
+# Withdrawn
+
+<!-- PAGE 13 -->
+
+## <u>ANNEX-1</u>
+
+## ORGANISATIONAL FRAMEWORK FOR
+
+## RESTRUCTURING OF ADVANCES UNDER CONSORTIUM/MULTIPLE BANKING
+
+## /SYNDICATION ARRANGEMENTS
+
+## A. Corporate Debt Restructuring (CDR) Mechanism
+
+## 1.1 Objective
+
+The objective of the Corporate Debt Restructuring (CDR) framework is to ensure timely and transparent mechanism for restructuring the corporate debts of viable entities facing problems, outside the purview of BIFR, DRT and other legal proceedings, for the benefit of all concerned. In particular, the framework will aim at preserving viable corporates that are affected by certain internal and external factors and minimize the losses to the creditors and other stakeholders through an orderly and coordinated restructuring programme.
+
+1.2 **Scope** The CDR Mechanism has been designed to facilitate restructuring of advances of borrowers enjoying credit facilities from more than one bank/Financial Institution (FI) in a coordinated manner. The CDR Mechanism is an organizational framework institutionalized for speedy disposal of restructuring proposals of large borrowers availing finance from more than one banks/FIs. This mechanism will be available to **all** **borrowers** engaged in any type of activity subject to the following conditions:
+a) The borrowers enjoy credit facilities from more than one bank/FI under multiple banking / syndication / consortium system of lending.
+# Withdrawn
+
+b) The total outstanding (fund-based and non-fund based) exposure is Rs.10 crore or above.
+CDR system in the country will have a three tier structure :
+
+* CDR Standing Forum and its Core Group
+* CDR Empowered Group
+* CDR Cell
+## 2. CDR Standing Forum
+
+2.1 The CDR Standing Forum would be the representative general body of all financial institutions and banks participating in CDR system. All financial institutions and banks should participate in the system in their own interest. CDR Standing Forum will be a self- empowered body, which will lay down policies and guidelines, and monitor the progress of corporate debt restructuring.
+2.2 The Forum will also provide an official platform for both the creditors and borrowers (by consultation) to amicably and collectively evolve policies and guidelines for working out debt restructuring plans in the interests of all concerned.
+
+<!-- PAGE 14 -->
+
+2.3 The CDR Standing Forum shall comprise of Chairman & Managing Director, Industrial Development Bank of India Ltd; Chairman, State Bank of India; Managing Director & CEO, ICICI Bank Limited; Chairman, Indian Banks' Association as well as Chairmen and Managing Directors of all banks and financial institutions participating as permanent members in the system. Since institutions like Unit Trust of India, General Insurance Corporation, Life Insurance Corporation may have assumed exposures on certain borrowers, these institutions may participate in the CDR system. The Forum will elect its Chairman for a period of one year and the principle of rotation will be followed in the subsequent years. However, the Forum may decide to have a Working Chairman as a whole-time officer to guide and carry out the decisions of the CDR Standing Forum. The RBI would not be a member of the CDR Standing Forum and Core Group. Its role will be confined to providing broad guidelines.
+2.4 The CDR Standing Forum shall meet at least once every six months and would review and monitor the progress of corporate debt restructuring system. The Forum would also lay down the policies and guidelines including those relating to the critical parameters for restructuring (for example, maximum period for a unit to become viable under a restructuring package, minimum level of promoters’ sacrifice etc.) to be followed by the CDR Empowered Group and CDR Cell for debt restructuring and would ensure their smooth functioning and adherence to the prescribed time schedules for debt restructuring. It can also review any individual decisions of the CDR Empowered Group and CDR Cell. The CDR Standing Forum may also formulate guidelines for dispensing special treatment to those cases, which are complicated and are likely to be delayed beyond the time frame prescribed for processing.
+2.5 A CDR Core Group will be carved out of the CDR Standing Forum to assist the Standing Forum in convening the meetings and taking decisions relating to policy, on behalf of the Standing Forum. The Core Group will consist of Chief Executives of Industrial Development Bank of India Ltd., State Bank of India, ICICI Bank Ltd, Bank of Baroda, Bank of India, Punjab National Bank, Indian Banks' Association and Deputy Chairman of Indian Banks' Association representing foreign banks in India.
+2.6 The CDR Core Group would lay down the policies and guidelines to be followed by Withdrawn the CDR Empowered Group and CDR Cell for debt restructuring. These guidelines shall also suitably address the operational difficulties experienced in the functioning of the CDR Empowered Group. The CDR Core Group shall also prescribe the PERT chart for processing of cases referred to the CDR system and decide on the modalities for enforcement of the time frame. The CDR Core Group shall also lay down guidelines to ensure that over-optimistic projections are not assumed while preparing / approving restructuring proposals especially with regard to capacity utilization, price of products, profit margin, demand, availability of raw materials, input-outputratio and likely impact of imports / international cost competitiveness.
+## 3. CDR Empowered Group
+
+3.1 The individual cases of corporate debt restructuring shall be decided by the CDR Empowered Group, consisting of ED level representatives of Industrial Development Bank of India Ltd., ICICI Bank Ltd. and State Bank of India as standing members, in addition to ED level representatives of financial institutions and banks who have an exposure to the concerned company. While the standing members will facilitate the conduct of the Group’s meetings, voting will be in proportion to the exposure of the creditors only. In order to make the CDR Empowered Group effective and broad based and operate efficiently and smoothly, it would have to be ensured that participating institutions / banks approve a panel of senior officers to represent them in the CDR Empowered Group and ensure that they depute officials only from among the panel to attend the meetings of CDR Empowered Group. Further, nominees who attend the
+
+<!-- PAGE 15 -->
+
+meeting pertaining to one account should invariably attend all the meetings pertaining to that account instead of deputing their representatives.
+
+3.2 The level of representation of banks / financial institutions on the CDR Empowered Group should be at a sufficiently senior level to ensure that concerned bank / FI abides by the necessary commitments including sacrifices, made towards debt restructuring. There should be a general authorisation by the respective Boards of the participating institutions / banks in favour of their representatives on the CDR Empowered Group, authorising them to take decisions on behalf of their organization, regarding restructuring of debts of individual corporates.
+3.3 The CDR Empowered Group will consider the preliminary report of all cases of requests of restructuring, submitted to it by the CDR Cell. After the Empowered Group decides that restructuring of the company is prima-facie feasible and the enterprise is potentially viable in terms of the policies and guidelines evolved by Standing Forum, the detailed restructuring package will be worked out by the CDR Cell in conjunction with the Lead Institution. However, if the lead institution faces difficulties in working out the detailed restructuring package, the participating banks / financial institutions should decide upon the alternate institution / bank which would work out the detailed restructuring package at the first meeting of the Empowered Group when the preliminary report of the CDR Cell comes up for consideration.
+3.4 The CDR Empowered Group would be mandated to look into each case of debt restructuring, examine the viability and rehabilitation potential of the Company and approve the restructuring package within a specified time frame of 90 days, or at best within 180 days of reference to the Empowered Group. The CDR Empowered Group shall decide on the acceptable viability benchmark levels on the following illustrative parameters, which may be applied on a case-by-case basis, based on the merits of each case :
+* Return on Capital Employed (ROCE),
+* Debt Service Coverage Ratio (DSCR),
+* Gap between the Internal Rate of Return (IRR) and the Cost of Fund (CoF), Withdrawn
+* Extent of sacrifice.
+3.5 The Board of each bank / FI should authorise its Chief Executive Officer (CEO) and / or Executive Director (ED) to decide on the restructuring package in respect of cases referred to the CDR system, with the requisite requirements to meet the control needs. CDR Empowered Group will meet on two or three occasions in respect of each borrowal account. This will provide an opportunity to the participating members to seek proper authorisations from their CEO / ED, in case of need, in respect of those cases where the critical parameters of restructuring are beyond the authority delegated to him / her.
+3.6 The decisions of the CDR Empowered Group shall be final. If restructuring of debt is found to be viable and feasible and approved by the Empowered Group, the company would be put on the restructuring mode. If restructuring is not found viable, the creditors would then be free to take necessary steps for immediate recovery of dues and / or liquidation or winding up of the company, collectively or individually.
+4. **CDR Cell**
+4.1 The CDR Standing Forum and the CDR Empowered Group will be assisted by a CDR Cell in all their functions. The CDR Cell will make the initial scrutiny of the proposals received from borrowers / creditors, by calling for proposed rehabilitation plan and other information and put up the matter before the CDR Empowered Group, within one month to decide whether rehabilitation is prima facie feasible. If found feasible, the
+
+<!-- PAGE 16 -->
+
+CDR Cell will proceed to prepare detailed Rehabilitation Plan with the help of creditors and, if necessary, experts to be engaged from outside. If not found prima facie feasible, the creditors may start action for recovery of their dues.
+
+4.2 All references for corporate debt restructuring by creditors or borrowers will be made to the CDR Cell. It shall be the responsibility of the lead institution / major stakeholder to the corporate, to work out a preliminary restructuring plan in consultation with other stakeholders and submit to the CDR Cell within one month. The CDR Cell will prepare the restructuring plan in terms of the general policies and guidelines approved by the CDR Standing Forum and place for consideration of the Empowered Group within 30 days for decision. The Empowered Group can approve or suggest modifications but ensure that a final decision is taken within a total period of 90 days. However, for sufficient reasons the period can be extended up to a maximum of 180 days from the date of reference to the CDR Cell.
+4.3 The CDR Standing Forum, the CDR Empowered Group and CDR Cell is at present housed in Industrial Development Bank of India Ltd. However, it may be shifted to another place if considered necessary, as may be decided by the Standing Forum. The administrative and other costs shall be shared by all financial institutions and banks. The sharing pattern shall be as determined by the Standing Forum.
+4.4 CDR Cell will have adequate members of staff deputed from banks and financial institutions. The CDR Cell may also take outside professional help. The cost in operating the CDR mechanism including CDR Cell will be met from contribution of the financial institutions and banks in the Core Group at the rate of Rs.50 lakh each and contribution from other institutions and banks at the rate of Rs.5 lakh each.
+## 5. Other features
+
+5.1. **Eligibility criteria**
+5.1.1 The scheme will not apply to accounts involving only one financial institution or one bank. The CDR mechanism will cover only multiple banking accounts / syndication / consortium accounts of corporate borrowers engaged in any type of activity with outstanding fund-based and non-fund based exposure of Rs.10 crore and above by Withdrawn banks and institutions.
+5.1.2. The Category 1 CDR system will be applicable only to accounts classified as 'standard' and 'sub-standard'. There may be a situation where a small portion of debt by a bank might be classified as doubtful. In that situation, if the account has been classified as ‘standard’/ ‘substandard’ in the books of at least 90% of creditors (by value), the same would be treated as standard / substandard, only for the purpose of judging the account as eligible for CDR, in the books of the remaining 10% of creditors. There would be no requirement of the account / company being sick, NPA or being in default for a specified period before reference to the CDR system. However, potentially viable cases of NPAs will get priority. This approach would provide the necessary flexibility and facilitate timely intervention for debt restructuring. Prescribing any milestone(s) may not be necessary, since the debt restructuring exercise is being triggered by banks and financial institutions or with their consent.
+
+<!-- PAGE 17 -->
+
+5.1.3. While corporates indulging in frauds and malfeasance even in a single bank will continue to remain ineligible for restructuring under CDR mechanism as hitherto, the Core group may review the reasons for classification of the borrower as wilful defaulter specially in old cases where the manner of classification of a borrower as a wilful defaulter was not transparent and satisfy itself that the borrower is in a position to rectify the wilful default provided he is granted an opportunity under the CDR mechanism. Such exceptional cases may be admitted for restructuring with the approval of the Core Group only. The Core Group may ensure that cases involving frauds or diversion of funds with malafide intent are not covered.
+5.1.4 The accounts where recovery suits have been filed by the creditors against the company, may be eligible for consideration under the CDR system provided, the initiative to resolve the case under the CDR system is taken by at least 75% of the creditors (by value) and 60% of creditors (by number).
+5.1.5. BIFR cases are not eligible for restructuring under the CDR system. However, large value BIFR cases, may be eligible for restructuring under the CDR system if specifically recommended by the CDR Core Group. The Core Group shall recommend exceptional BIFR cases on a case-to-case basis for consideration under the CDR system. It should be ensured that the lending institutions complete all the formalities in seeking the approval from BIFR before implementing the package.
+## 5.2 Reference to CDR system
+
+5.2.1. Reference to Corporate Debt Restructuring System could be triggered by (i) any or more of the creditor who have minimum 20% share in either working capital or term finance, or (ii) by the concerned corporate, if supported by a bank or financial institution having stake as in (i) above.
+5.2.2. Though flexibility is available whereby the creditors could either consider restructuring outside the purview of the CDR system or even initiate legal proceedings where warranted, banks / FIs should review all eligible cases where the exposure of the
+# Withdrawn
+
+financial system is more than Rs.100 crore and decide about referring the case to CDR system or to proceed under the new Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest Act, 2002 or to file a suit in DRT etc.
+
+## 5.3 Legal Basis
+
+5.3.1 CDR is a non-statutory mechanism which is a voluntary system based on Debtor- Creditor Agreement (DCA) and Inter-Creditor Agreement (ICA). The Debtor-Creditor Agreement (DCA) and the Inter-Creditor Agreement (ICA) shall provide the legal basis to the CDR mechanism. The debtors shall have to accede to the DCA, either at the time of original loan documentation (for future cases) or at the time of reference to Corporate Debt Restructuring Cell. Similarly, all participants in the CDR mechanism through their membership of the Standing Forum shall have to enter into a legally binding agreement, with necessary enforcement and penal clauses, to operate the System through laid-down policies and guidelines. The ICA signed by the creditors will be initially valid for a period of 3 years and subject to renewal for further periods of 3 years thereafter. The lenders in foreign currency outside the country are not a part of CDR system. Such creditors and also creditors like GIC, LIC, UTI, etc., who have not joined the CDR system, could join CDR mechanism of a particular corporate by signing transaction to transaction ICA, wherever they have exposure to such corporate.
+
+<!-- PAGE 18 -->
+
+5.3.2 The Inter-Creditor Agreement would be a legally binding agreement amongst the creditors, with necessary enforcement and penal clauses, wherein the creditors would commit themselves to abide by the various elements of CDR system. Further, the creditors shall agree that if 75 per cent of creditors by value and 60 per cent of the creditors by number, agree to a restructuring package of an existing debt (i.e., debt outstanding), the same would be binding on the remaining creditors. Since Category 1 CDR Scheme covers only standard and sub-standard accounts, which in the opinion of 75 per cent of the creditors by value and 60 per cent of creditors by number, are likely to become performing after introduction of the CDR package, it is expected that all other creditors (i.e., those outside the minimum 75 per cent by value and 60 per cent by number) would be willing to participate in the entire CDR package, including the agreed additional financing.
+5.3.3. In order to improve effectiveness of the CDR mechanism a clause may be incorporated in the loan agreements involving consortium / syndicate accounts whereby all creditors, including those which are not members of the CDR mechanism, agree to be bound by the terms of the restructuring package that may be approved under the CDR mechanism, as and when restructuring may become necessary.
+5.3.4 One of the most important elements of Debtor-Creditor Agreement would be 'stand still' agreement binding for 90 days, or 180 days by both sides. Under this clause, both the debtor and creditor(s) shall agree to a legally binding 'stand-still' whereby both the parties commit themselves not to take recourse to any other legal action during the 'stand-still' period, this would be necessary for enabling the CDR System to undertake the necessary debt restructuring exercise without any outside intervention, judicial or otherwise. However, the stand-still clause will be applicable only to any civil action either by the borrower or any lender against the other party and will not cover any criminal action. Further, during the stand-still period, outstanding foreign exchange forward contracts, derivative products, etc., can be crystallised, provided the borrower is agreeable to such crystallisation. The borrower will additionally undertake that during the stand-still period the documents will stand extended for the purpose of limitation and also that he will not approach any other authority for any relief and the directors of the borrowing company will not resign from the Withdrawn Board of Directors during the stand-still period.
+## 5.5 Sharing of Additional finance
+
+5.5.1 Additional finance, if any, is to be provided by all creditors of a ‘standard’ or ‘substandard account’ irrespective of whether they are working capital or term creditors, on a pro-rata basis. In case for any internal reason, any creditor (outside the minimum 75 per cent and 60 per cent) does not wish to commit additional financing, that creditor will have an option in accordance with the provisions of para 4.6.
+5.5.2 The providers of additional finance, whether existing creditors or new creditors, shall have a preferential claim, to be worked out under the restructuring package, over the providers of existing finance with respect to the cash flows out of recoveries, in respect of the additional exposure
+5.6. **Exit Option**
+5.6.1. As stated in para 4.5.1 a creditor (outside the minimum 75 per cent and 60 per cent) who for any internal reason does not wish to commit additional finance will have an option. At the same time, in order to avoid the "free rider" problem, it is necessary to provide some disincentive to the creditor who wishes to exercise this option. Such creditors can either (a) arrange for its share of additional finance to be provided by a new or existing creditor, or (b) agree to the deferment of the first year’s interest due to it after
+
+<!-- PAGE 19 -->
+
+the CDR package becomes effective. The first year’s deferred interest as mentioned above, without compounding, will be payable along with the last instalment of the principal due to the creditor.
+
+5.6.2 In addition, the exit option will also be available to all lenders within the minimum 75 percent and 60 percent provided the purchaser agrees to abide by restructuring package approved by the Empowered Group. The exiting lenders may be allowed to continue with their existing level of exposure to the borrower provided they tie up with either the existing lenders or fresh lenders taking up their share of additional finance.
+5.6.3 The lenders who wish to exit from the package would have the option to sell their existing share to either the existing lenders or fresh lenders, at an appropriate price, which would be decided mutually between the exiting lender and the taking over lender. The new lenders shall rank on par with the existing lenders for repayment and servicing of the dues since they have taken over the existing dues to the exiting lender.
+5.6.4. In order to bring more flexibility in the exit option, One Time Settlement can also be considered, wherever necessary, as a part of the restructuring package. If an account with any creditor is subjected to One Time Settlement (OTS) by a borrower before its reference to the CDR mechanism, any fulfilled commitments under such OTS may not be reversed under the restructured package. Further payment commitments of the borrower arising out of such OTS may be factored into the restructuring package.
+## 5.7. Category 2 CDR System
+
+5.7.1. There have been instances where the projects have been found to be viable by the creditors but the accounts could not be taken up for restructuring under the CDR system as they fell under ‘doubtful’ category. Hence, a second category of CDR is introduced for cases where the accounts have been classified as ‘doubtful’ in the books of creditors, and if a minimum of 75% of creditors (by value) and 60% creditors (by number) satisfy themselves of the viability of the account and consent for such restructuring, subject to the following conditions :
+(i) It will not be binding on the creditors to take up additional financing worked out
+# Withdrawn
+
+under the debt restructuring package and the decision to lend or not to lend will depend on each creditor bank / FI separately. In other words, under the proposed second category of the CDR mechanism, the existing loans will only be restructured and it would be up to the promoter to firm up additional financing arrangement with new or existing creditors individually. (ii) All other norms under the CDR mechanism such as the standstill clause, asset classification status during the pendency of restructuring under CDR, etc., will continue to be applicable to this category also.
+
+5.7.2 No individual case should be referred to RBI. CDR Core Group may take a final decision whether a particular case falls under the CDR guidelines or it does not.
+5.7.3 All the other features of the CDR system as applicable to the First Category will also be applicable to cases restructured under the Second Category.
+
+<!-- PAGE 20 -->
+
+## 5.8 Incorporation of 'right to recompense' clause
+
+All CDR approved packages must incorporate creditors’ right to accelerate repayment and borrowers’ right to pre-pay. The right of recompense should be based on certain performance criteria to be decided by the Standing Forum.
+
+## B. SME Debt Restructuring Mechanism
+
+Apart from CDR Mechanism, there exists a much simpler mechanism for restructuring of loans availed by Small and Medium Enterprises (SMEs). Unlike in the case of CDR Mechanism, the operational rules of the mechanism have been left to be formulated by the banks concerned. This mechanism will be applicable to all the borrowers which have funded and non-funded outstanding up to Rs.10 crore under multiple/consortium banking arrangement. Major elements of this arrangements are as under:
+
+i) Under this mechanism, banks may formulate, with the approval of their Board of Directors, a debt restructuring scheme for SMEs within the prudential norms laid down by RBI. Banks may frame different sets of policies for borrowers belonging to different sectors within the SME if they so desire. ii) While framing the scheme, banks may ensure that the scheme is simple to comprehend and will, at the minimum, include parameters indicated in these guidelines. iii) The main plank of the scheme is that the bank with the maximum outstanding may work out the restructuring package, along with the bank having the second largest share. iv) Banks should work out the restructuring package and implement the same within a maximum period of 90 days from date of receipt of requests.
+# Withdrawn
+
+v) The SME Debt Restructuring Mechanism will be available to all borrowers engaged in any type of activity. vi) Banks may review the progress in rehabilitation and restructuring of SMEs accounts on a quarterly basis and keep the Board informed.
+
+<!-- PAGE 21 -->
+
+## <u>ANNEX-2</u>
+
+## <u>Key Concepts</u>
+
+(i) **Advances:** The term ‘Advances’ will mean all kinds of credit facilities including cash credit, overdrafts, term loans, bills discounted/purchased, factored receivables, etc. and investments other than that in the nature of equity. (ii) **Agricultural Activities**: As defined in RPCD circular RPCD. No. Plan. BC. 84 / 04.09.01/ 2006-07 dated April 30, 2007 as modified from time to time. (iii) **Fully secured**: When the amounts due to a bank (present value of principal and interest receivable as per restructured loan terms) are fully covered by the value of security, duly charged in its favour in respect of those dues, the bank's dues are considered to be fully secured. While assessing the realisable value of security, primary as well as collateral securities would be reckoned, provided such securities are tangible securities and are not in intangible form like guarantee etc., of the promoter / others. However, for this purpose the bank guarantees, State Government Guarantees and Central Government Guarantees will be treated on par with tangible security. (iv) **Restructured accounts**: A restructured account is one where the bank, for economic or legal reasons relating to the borrower’s financial difficulty, grants to the borrower concessions that the bank would not otherwise consider. Restructuring would normally involve modification of terms of the advances/ securities, which would generally include, among others, alteration of repayment period/ repayable amount/ the amount of instalments/ rate of interest(due to reasons other than competitive reasons).
+(v) **Repeatedly restructured accounts**: When a bank restructures an account a second (or more) time(s), the account will be considered as a ‘repeatedly Withdrawn restructured account’. However, if the second restructuring takes place after the period upto which the concessions were extended under the terms of the first restructuring, that account shall not be reckoned as a ‘repeatedly restructured account’. (vi) **SMEs**: Small and Medium Enterprise (SME) is an undertaking defined in RPCD circulars RPCD.PLNFS. BC. No.63.06.02./ 2006-07 dated April 4, 2007 amended from time to time. (vii) **Specified Period**: Specified Period means a period of one year from the date when the first payment of interest or installment of principal falls due under the terms of restructuring package. (viii) **Satisfactory performance:** Satisfactory performance during the specified period means adherence to the following conditions during that period. <u>Non-agricultural cash credit accounts</u> : In the case of non-agricultural cash credit accounts, the account should not be out of order any time during the specified period, for a duration of more than 90 days. In addition, there should not be any overdues at the end of the specified period.
+
+<!-- PAGE 22 -->
+
+<u>Non-agricultural term loan accounts :</u> In the case of non-agricultural term loan accounts, no payment should remain overdue for a period of more than 90 days. In addition there should not be any overdues at the end of the specified period.
+
+<u>All agricultural accounts:</u> In the case of agricultural accounts, at the end of the specified period the account should be regular.
+
+# Withdrawn
+
+<!-- PAGE 23 -->
+
+# <u>ANNEX- 3</u>
+
+(Rs. in crore)
+
+# Particulars of Accounts Restructured
+
+# CDR SME Debt Others <u>Mechanism Restructuring</u>
+
+## No. of Borrowers
+
+Standard Amount advances outstanding restructured Sacrifice (diminution in the fair value)
+
+## No. of Borrowers
+
+|Sub|Amount|
+|---|---|
+|standard advances|outstanding|
+|restructured|Sacrifice|
+
+( diminution in the fair value)
+
+No. of Borrowers Doubtful advances Amount restructured outstanding
+
+Sacrifice ( diminution in the fair value)
+
+## No. of Borrowers
+
+Amount outstanding
+
+# TOTAL
+
+Sacrifice Withdrawn ( diminution in the fair value)
+
+<!-- PAGE 24 -->
+
+## <u>ANNEX-4</u>
+
+## <u>Asset Classification of Restructured Accounts under the Guidelines</u>
+
+## Case 4
+
+|Particulars|Case 1|Case 2|Case 3|
+|---|---|---|---|
+|I Assumed due date of payment|31.01.2007 31.01.2007|||
+|Assumed date of restructuring|31.03.2007 31.03.2007||31.03.2007 31.03.2007|
+|Period of|2 months|2 months|18 months 18 months|
+
+delinquency as on the date of restructuring
+
+|Asset|'Standard' 'Standard'||'Doubtful - 'Doubtful -||
+|---|---|---|---|---|
+|Classification|||less than|less than|
+|(AC) before restructuring|||one year'|one year'|
+|Date of NPA II Asset classification (AC) on restructuring|NA|NA|31.12.05 (Assumed)|31.12.05 (Assumed)|
+||Eligible for|Not eligible|Eligible for Not eligible||
+|Assumed status|special|for special|special|for special|
+|of the borrower|regulatory treatment|regulatory treatment|regulatory regulatory treatment|treatment|
+|AC after|'Standard' Downgraded||'Doubtful - 'Doubtful -||
+|restructuring||to 'Sub- standard'|less than one year'|less than one year'|
+
+w.e.f 31.03.07 (i.e., on the date of
+# Withdrawn
+
+<u>restructuring)</u>
+
+Assumed first 31.12.07 31.12.07 31.12.07 31.12.07 payment due under the revised terms
+
+## III Asset classification after restructuring
+
+A **The account performs satisfactorily as per restructured terms**
+
+|(a) AC during the|No change|'Doubtful -|No change 'Doubtful -||
+|---|---|---|---|---|
+|specified one year (i.e.,||less than one|(i.e.,|one to three|
+|period (i.e., from|remains|year' w.e.f.|remains|years' w.e.f.|
+|31.12.07 to 31.12.08)|'Standard')|31.03.08 (i.e. one year after less than classification as 'Substandard')|'Doubtful-one year')|31.12.07 (i.e., one year after classification as 'Doubtful|
+
+less than one year')
+
+|(b) AC after the|Continues in Upgraded to||Upgraded|Upgraded to|
+|---|---|---|---|---|
+|specified one year 'Standard'||'Standard'|to|'Standard'|
+|period|category|category|'Standard'|category|
+
+category
+
+<!-- PAGE 25 -->
+
+B <u>If performance not satisfactory vis-à-vis restructured terms</u>
+
+(a) AC during the Treated as 'Doubtful -'Doubtful 'Doubtful-specified one year sub-
+
+|specified one year sub-||less than one|one to|one to three|
+|---|---|---|---|---|
+|period (in case|standard|year' w.e.f.|three|years' w.e.f.|
+|the unsatisfactory w.e.f||31.03.08 (i.e.|years'|31.12.07|
+|performance is|30.4.2007|one year after w.e.f.||(i.e., one|
+|established before and completion of one downgraded year period)|to 'Doubtful less than one year' with effect from 30.04.08.|classification|31.12.07|year after classification as 'Doubtful less than one year' (on 31.12.06)|
+|(b) AC after the specified one year to 'Doubtful - 'Doubtful -|Will migrate|Will migrate to Will|migrate to|Will migrate further to|
+|period, if the|one to three one to three||'Doubtful -|'Doubtful|
+|unsatisfactory|years' w.e.f. years' w.e.f||more than|more than|
+|performance|30.04.09|31.03.09 and|three|three years'|
+|continues|and 'Doubtful more than three years' w.e.f.|'Doubtful more than three years' w.e.f. 31.03.2011.|years' w.e.f w.e.f. 31.12.09|31.12.09|
+
+less than one one to one to three
+
+<u>30.04.2011.</u>
+# Withdrawn

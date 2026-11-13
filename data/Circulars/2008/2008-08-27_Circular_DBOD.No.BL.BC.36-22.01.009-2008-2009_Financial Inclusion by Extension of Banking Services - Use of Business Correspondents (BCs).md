@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2008_DBOD_No_BL_BC_36_22_01_009_2008-2009"
+title: "Financial Inclusion by Extension of Banking Services - Use of Business Correspondents (BCs)"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/86621.PDF"
+pdf_sha256: "17d3128565f79129c8a481d01f190ebef53c0f397b16940b67475c25102d06f9"
+md_sha256: "03270c163a8291a8bce9f799acb0704ee2b47c1507fe450f83ecf739680181fb"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:04:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-08-27_Circular_DBOD.No.BL.BC.36-22.01.009-2008-2009_Financial%20Inclusion%20by%20Extension%20of%20Banking%20Services%20-%20Use%20of%20Business%20Correspondents%20%28BCs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Financial Inclusion by Extension of Banking Services - Use of Business Correspondents (BCs)
+
+<!-- PAGE 1 -->
+
+RBI / 2008-2009 /142 DBOD.No.BL.BC. 36 /22.01.009/2008-2009 August 27, 2008 Bhadra 5, 1930 (S)
+
+## All Scheduled Commercial banks (including RRBs) and Local Area Banks
+
+Dear Sir,
+
+## Financial Inclusion by Extension of Banking Services – Use of Business Correspondents (BCs)
+
+Please refer to our circulars DBOD.No.BL.BC.58/22.01.001/2005-2006 dated January 25, 2006, DBOD. No. BL. BC. 72 / 22.01.009 / 2005-2006 dated March 22, 2006 and DBOD.No.BL.BC.74/
+
+22.01.009/2007-2008 dated April 24, 2008, on the above subject.
+2. On a review of the matter and based on references received from banks, it has been decided that in case duly appointed BCs of banks desire to appoint sub-agents at the grass-root level to render the services of a BC, banks have to ensure that (i) the sub-agents of BCs fulfill all relevant criteria stipulated for BCs in terms of our extant guidelines referred to in paragraph 1 above (ii) the BC appointed by them carries out proper due diligence in respect of the sub-agent to take care of the reputational and other risks involved (iii) the distance criterion of 15 kms. / 5 kms, as applicable, from the base branch should invariably be fulfilled in the case of all sub-agents.
+# Withdrawn
+
+3. Further, where individuals under the permitted categories have been appointed as BCs, they cannot in turn appoint sub-agents.
+Yours faithfully,
+
+## (P. Vijaya Bhaskar)
+
+Chief General Manager
