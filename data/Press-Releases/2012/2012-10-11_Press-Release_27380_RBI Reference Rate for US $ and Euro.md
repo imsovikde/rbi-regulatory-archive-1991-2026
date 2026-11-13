@@ -1,0 +1,37 @@
+---
+doc_id: "Press-Releases_2012_27380"
+title: "RBI Reference Rate for US $ and Euro"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR611RR1012.pdf"
+pdf_sha256: "08362dfd6714afc813521d80a1de821764d7a4894e26e4b1468e91dd8e31f00e"
+md_sha256: "d222ab3bba5c4fdaca989b5be523cea56f90bd3c0156c3ee56e9d511fd7493db"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:05:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-10-11_Press-Release_27380_RBI%20Reference%20Rate%20for%20US%20%24%20and%20Euro.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $ and Euro
+
+<!-- PAGE 1 -->
+
+## ेस काशनी PRESS RELEASE
+
+भारतीय रज़व बक **RESERVE BANK OF INDIA** संचार �वभाग**,** क ��� कायालय, एस.बी.एस.माग, मुंबई-400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website: www.rbi.org.in
+
+|and the Reference Rate for Euro is the Rupee are given below:|फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 2266 0358 RBI Reference Rate for US $ and Euro The Reserve Bank of India’s Reference Rate for the US dollar is `53.0730 corresponding rates for the previous day (October 10, 2012) were `53.0445 and `68.2100 respectively. Based on the Reference Rate for the US dollar and middle rates of the cross-currency quotes, the exchange rates of GBP and JPY against|इ-मेल email : helpdoc@rbi.org.in October 11, 2012 `68.2365 on October 11, 2012. The|
+|---|---|---|
+||Currency||
+|Date|1 GBP|100 JPY|
+|October 10, 2012|84.8341|67.82|
+|October 11, 2012|84.9486|68.06|
+
+**Note :** The SDR-Rupee rate will be based on the reference rate.
+
+## Ajit Prasad
+
+**Press Release: 2012-2013/611** Assistant General Manager

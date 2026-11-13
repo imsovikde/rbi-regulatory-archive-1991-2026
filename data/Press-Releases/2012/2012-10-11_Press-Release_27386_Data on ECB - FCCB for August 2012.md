@@ -1,0 +1,40 @@
+---
+doc_id: "Press-Releases_2012_27386"
+title: "Data on ECB / FCCB for August 2012"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR616DE1012.pdf"
+pdf_sha256: "1dbdd4c530ddc534c6e601469e2507b866fd20306a1a2ae5bc7b1a93fc96421a"
+md_sha256: "21b47c98f2e88fad6e19ba5fd0f1c2117db14a11ca5e256ed66ea2cf96d73717"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:05:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-10-11_Press-Release_27386_Data%20on%20ECB%20-%20FCCB%20for%20August%202012.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Data on ECB / FCCB for August 2012
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 _____________________________________________________________________________________________________________________ <u>वेबसाइट : www.rbi.org.in/hindi</u> **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 <u>Website : www.rbi.org.in</u> फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## October 11, 2012
+
+## Data on ECB / FCCB for August 2012
+
+The Reserve Bank of India has today released the data on <u>External</u> <u>Commercial Borrowings (ECB)</u> and Foreign Currency Convertible Bonds (FCCB), both through Automatic Route and Approval Route, for the month of August 2012.
+
+## Ajit Prasad
+
+## Press Release: 2012-2013/616
+
+Assistant General Manager
