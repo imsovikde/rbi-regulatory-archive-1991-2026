@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2016_DCBR_CO_BPD_BC_No_13_19_51_008_2015-16"
+title: "Section 23 of Banking Regulation Act, 1949 (AACS) - Extending Value-Added Services through ATMs"
+category: "Circulars"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIR345DBB2D6278DA646A8B5CAC802359AA7A0.PDF"
+pdf_sha256: "58bb740166b423c5340991cb89bc5ac640ba12f32f5debf9362c23767364598a"
+md_sha256: "bd230be4fc2c9c72c70cbe224a44d3d859ffb66fd70a82e1d3506ed36deb6d03"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:35:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-03-23_Circular_DCBR.CO.BPD.BC.No.13-19.51.008-2015-16_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20%28AACS%29%20-%20Extending%20Value-Added%20Services%20through%20ATMs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of Banking Regulation Act, 1949 (AACS) - Extending Value-Added Services through ATMs
+
+<!-- PAGE 1 -->
+
+## भारतीय �रज़वर् बक
+
+### __________________________RESERVE BANK OF INDIA________________________
+
+<u>www.rbi.org.in</u> **RBI/2015-16/345** **DCBR.CO.BPD.BC.No.13/19.51.008/2015-16 Chaitra 03, 1938** **March 23, 2016**
+
+All Primary (Urban) Co-operative Banks / State Co-operative Banks
+
+Dear Sir / Madam,
+
+### Section 23 of Banking Regulation Act, 1949 (AACS) – Extending Value-Added Services through ATMs
+
+Please refer to our <u>circular DCBR.CO.LS (PCB) Cir.No.2/07.01.000/2015-16 dated July 30,</u> <u>2015</u> wherein the services that may be offered by Primary (Urban) Cooperative Banks at their on-site/off-site/mobile ATMs have been specified. Further, in terms of our circular <u>DCBR.CO.RCB.No.BC.29/19.51.008/2014-15 dated April 16, 2015</u>, State Co-operative Banks fulfilling the prescribed criteria are free to install off-site/mobile ATMs without prior approval from RBI.
+
+2. With a view to providing operational freedom to banks, it is advised that Primary (Urban) Co-operative Banks and State Co-operative Banks are now free to offer all their products and services through the ATM channels, provided the technology permits the same and
+# Withdrawn
+
+adequate checks are put in place to prevent the channel from being misused to perpetrate frauds on the banks / other genuine customers.
+
+3. All other contents of the circulars mentioned in para 1 above remain unchanged. Yours faithfully, (Reeny Ajith) General Manager-in-Charge
+सहकार बक व�नयमन वभाग,कद्रय कायार्लय, सी-7, पहल मंिज़ल, बान्द्रा-कु लार् संकू ल, बान्द्रा(पवर्) ु मंबई ु-400051 भारत फोन: 022 – 26578100/8300/8500/8700; ई मेल: cgmdcbrco@rbi.org.in Department of Co-operative Bank Regulation, Central Office,C-7, 1 Floor, Bandra-Kurla Complex, Mumbai - 400051, India Phone: 022 – <u>26578100/8300/8500/8700; Email:</u> cgmdcbrco@rbi.org.in <u>बक �हन्द म पत्राचार का स्वागत करता है —</u> चेतावनी: भारतीय रज़वर् बक द्वारा ई-मेल, डाक, एसएमएस या फोन कॉल के ज�रये कोई भी व्यिक्तगत जानकार जैसे बक खाते का ब्यौरा, पासवडर् आ�द नहं माँगा जाता है। यह धन रखने या देने का प्रस्ताव भी नहं करता है। ऐसे प्रस्ताव का कसी भी प्रकार से जवाब मत दिजए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
