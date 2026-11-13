@@ -1,0 +1,40 @@
+---
+doc_id: "Press-Releases_2013_28978"
+title: "Indicative Quantum of Market Borrowings by State Governments for the Quarter July – September 2013"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR2209IQM0613.pdf"
+pdf_sha256: "db46c2903e02c5771db249fbc827c5d78c5734b197f2f33d580459aaa8294392"
+md_sha256: "0b0e17cabb4292639f07ca8630c2410a4ecd4b545a29321ed20716d745f8fd49"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:15:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-06-28_Press-Release_28978_Indicative%20Quantum%20of%20Market%20Borrowings%20by%20State%20Governments%20for%20the%20Quarter%20July%20%E2%80%93%20September%202013.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Indicative Quantum of Market Borrowings by State Governments for the Quarter July – September 2013
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## June 28, 2013
+
+## Indicative Quantum of Market Borrowings by State Governments for the Quarter July – September 2013
+
+The Reserve Bank of India, in consultation with the State Governments, announces that the indicative quantum of total market borrowings by the State Governments and the Union Territory of Puducherry, for the quarter July–September 2013, is expected to be in the range of `50,000 crore to `55,000 crore. The amount will be raised through auction of State Development Loans (SDLs) conducted generally on alternate Tuesdays. RBI would endeavour to conduct the auctions in a calibrated manner and distribute the borrowings evenly throughout the quarter. The actual amount of borrowings would be intimated by way of press release two/three days prior to the actual auction day and would depend on the requirement of the State Governments, approval from the Government of India under Article 293(3) of the Constitution of India and the market conditions.
+
+## Ajit Prasad
+
+## Press Release : 2012-2013/2209
+
+Assistant General Manager
