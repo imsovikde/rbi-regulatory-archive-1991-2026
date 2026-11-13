@@ -1,0 +1,62 @@
+---
+doc_id: "Circulars_2009_DBOD_BP_No_104_21_04_132_2008-09"
+title: "Prudential Guidelines on Restructuring of Advances by Banks"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/89672.PDF"
+pdf_sha256: "45d6ec20af83d9a348733de9de845a3abad302aa028274784b8487d29d4203c1"
+md_sha256: "1d27b74dc8844215b4e8fe157fd0d73aad075f2dfa1acece7a8bed6466f351be"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:06:33Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-01-02_Circular_DBOD.BP.No.104-21.04.132-2008-09_Prudential%20Guidelines%20on%20Restructuring%20of%20Advances%20by%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Guidelines on Restructuring of Advances by Banks
+
+<!-- PAGE 1 -->
+
+RBI/2008-09/340 DBOD.BP.No.104/21.04.132/2008-09
+
+## January 2, 2009
+
+The Chairman and Managing Directors / Chief Executives of all Commercial Banks
+
+Dear Sir,
+
+## <u>Prudential Guidelines on Restructuring of Advances by Banks</u>
+
+Please refer to our circular RBI/2008-09/143/DBOD.BP.BC.37/21.04.132/ 2008-09 dated August 27, 2008 on the captioned subject. This circular is a comprehensive set of guidelines rationalizing and putting together the existing guidelines. Special regulatory treatment for asset classification has been made available to all categories of advances except consumer and personal loans, capital market exposures and commercial real estate exposures. This treatment permits treating standard accounts as standard after restructuring, provided certain conditions are met. One of these conditions relates to the restructuring not being a repeated restructuring. Another condition stipulates that the dues to the bank are fully secured. The August 27, 2008 circular also allows restoration of standard asset classification to the accounts which may turn into non-performing during the period of restructuring approval process provided the restructuring package is implemented expeditiously i.e. within 90 days from the date of receipt of application by the bank/ taking up the restructuring process.
+
+**2**. Since the spillover effects of the global downturn have also started affecting the Indian
+# Withdrawn
+
+economy particularly from September 2008 onwards creating stress for the otherwise viable units/ activities, certain modifications were made in the above mentioned circular as a one time measure and for a limited period of time i.e. up to June 30, 2009 vide our circular RBI/2008- 09/311.DBOD.BP.BC.93/21.04.132/2008-09 dated December 8, 2008. Special regulatory treatment was extended to Commercial Real Estate Exposures restructured for the first time as well as to exposures (other than commercial real estate, capital markets and personal/ consumer loans) which were viable but were facing temporary cash flow problems and needed a second restructuring.
+
+**3.** It has been represented to RBI that
+(a) While the modifications made by the circular dated December 8, 2008 would not be applicable to the accounts covered under the circular which turned NPAs prior to December 8, 2008, these need to be given the special regulatory treatment as these too have been affected by the swift effect of the global downturn on the Indian economy since September 2008. Moreover, banks need some lead time for operationalising the circular dated December 8, 2008.
+
+<!-- PAGE 2 -->
+
+(b) The period of 90 days allowed for restructuring is not adequate in view of the large number of accounts potentially requiring restructuring.
+(c) Drawing power has been affected due to decline in inventory prices/ values necessitating conversion of irregular portions into Working Capital Term Loan (WCTL) on restructuring. However as the borrowers may be unable to provide further tangible security in the current context, accounts even after restructuring will be classified as NPAs. The condition of WCTL being fully secured by tangible security may, therefore, be relaxed.
+**4.** The above issues have been examined by RBI. We recognize that the accounts to which special regulatory treatment has been extended in terms of the circular dated December 8, 2008 could have faced stress from September 2008 onwards and may not have had sufficient time to take remedial actions/ restructuring before turning NPAs. Similarly, it is possible that some of the accounts covered under the circular dated December 8, 2008 may have become NPAs during the lead time required by banks to operationalise the circular. Banks may also face operational difficulties in handling a comparatively large volume of restructuring proposals in the stipulated time period of 90 days. To preserve the economic and productive value of the affected assets, it is important that swift action is taken for detection of the weaknesses and restructuring package is put in place for viable accounts. In view of this, it has been decided that:
+(a) All accounts covered under the circular dated December 8, 2008 which were standard accounts on September 1, 2008 would be treated as standard accounts on restructuring provided the restructuring is taken up on or before January 31, 2009 and the restructuring package is put in place within a period of 120 days from the date of taking up the restructuring package.
+(b) The period for implementing the restructuring package would stand extended from 90 days to 120 days in respect of accounts covered under the circular dated August 27, 2008 also.
+# Withdrawn
+
+(c) The value of security is relevant to determine the likely losses which a bank might suffer on the exposure should the default take place. This aspect assumes greater importance in the case of restructured loans. However, owing to the current downturn, the full security cover for the WCTL created by conversion of the irregular portion of principal dues over the drawing power, may not be available due to fall in the prices of security such as inventories. In view of the extraordinary situation, this special regulatory treatment will also be available to '**standard'** and '**sub-standard** **accounts'**, covered under circulars dated August 27, 2008 and December 8, 2008 even where full security cover for WCTL is not available, subject to the condition that provisions are made against the **unsecured portion of the WCTL**, as under:
+- *Standard Assets: 20%.*
+- *Sub-standard Assets: 20% during the first year and to be increased by 20% every year* *thereafter until the specified period (one year after the first payment is due under the terms of* *restructuring)*.
+- *If the account is not eligible for upgradation after the specified period, the unsecured* *portion will attract provision of 100%.* These provisions would be in addition to the usual provisions as per the current regulation.
+
+<!-- PAGE 3 -->
+
+**5**. All the modifications indicated in para 4 are one time measure and would be available for restructuring packages implemented till June 30, 2009.
+**6.** We re-iterate that the basic objective of restructuring is to preserve economic value of units, not evergreening of problem accounts. This can be achieved by banks and the borrowers only by careful assessment of the viability, quick detection of weaknesses in accounts and a time-bound implementation of restructuring packages.
+Yours faithfully, (Prashant Saran) Chief General Manager-in-Charge
+
+# Withdrawn
