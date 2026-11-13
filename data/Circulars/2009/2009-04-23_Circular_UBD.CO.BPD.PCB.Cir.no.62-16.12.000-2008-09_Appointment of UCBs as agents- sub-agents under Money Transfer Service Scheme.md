@@ -1,0 +1,43 @@
+---
+doc_id: "Circulars_2009_UBD_CO_BPD_PCB_Cir_no_62_16_12_000_2008-09"
+title: "Appointment of UCBs as agents/ sub-agents under Money Transfer Service Scheme"
+category: "Circulars"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UCBC62290409.PDF"
+pdf_sha256: "c02dd65b3e6c79fe859bd54918327206cfe2e1f386947b50c4bddc32efe8f587"
+md_sha256: "84a5510b218d515e6a57406a79a2e3f2133b261086a2c510028697599aacdbf6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:08:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-04-23_Circular_UBD.CO.BPD.PCB.Cir.no.62-16.12.000-2008-09_Appointment%20of%20UCBs%20as%20agents-%20sub-agents%20under%20Money%20Transfer%20Service%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Appointment of UCBs as agents/ sub-agents under Money Transfer Service Scheme
+
+<!-- PAGE 1 -->
+
+## Yeejler³e fjeJeõ yeQkeÀ
+
+### _______________________RESERVE BANK OF INDIA______________________ <u>www.rbi.org.in</u>
+
+### RBI /2008-09/465
+
+UBD.CO.BPD.PCB.Cir.no.62/16.12.000/2008-09 April 23, 2009
+
+The Chief executive Officers All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+### Appointment of UCBs as agents/ sub-agents under Money Transfer Service Scheme
+
+Please refer to our circular <u>UBD(PCB) No.8/16.12.000/2007-08</u> dated July 17, 2007 on the captioned subject, allowing UCBs holding AD Category I and II licences to act as agents/ sub- agents under the Money Transfer Service Scheme (MTSS).
+
+2. In terms of Para 2(iii) of the circular, where the UCBs act as sub-agents, the agent should maintain a security deposit equivalent to 3 days average payout or Rs. 20.00 lakh whichever is higher, in favour of the UCBs concerned. On a review, it has been decided to do away with the ceiling on security deposits to be maintained by the agents with the UCBs acting as sub-agents. However, it should be ensured that the payouts of UCBs pending reimbursement by the agents
+# Withdrawn
+
+should not, at any point of time, be higher than the security deposits.
+
+3. UCBs (AD Category I / II) already acting / proposing to act as sub-agent may seek approval of the Regional Office of the RBI concerned by furnishing an undertaking that the amount of payouts at no point of time would exceed the deposits placed by the agents. Yours faithfully, (Uma Shankar) Chief General Manager
