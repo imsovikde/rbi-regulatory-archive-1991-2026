@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2007_3606"
+title: "Pension Funds Management  by banks"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78246.PDF"
+pdf_sha256: "fd0d4905ead9d8e696aa6ae85fd9ec259c61bfe63daea99843d09c1a3c68bbc2"
+md_sha256: "f06756310256ed04bd82c0c8f17f146f016df72c798c61e1a347b2b6fbbbd367"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-06-28_Notification_3606_Pension%20Funds%20Management%20by%20banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Pension Funds Management  by banks
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/446 DBOD.No.FSD.BC.102/24.01.022/2006-07
+
+## June 28, 2007
+
+## All Scheduled Commercial Banks (except RRBs)
+
+## Dear Sir
+
+## Pension Funds Management by banks
+
+In exercise of the powers conferred by clause (o) of sub-section (1) of Section 6 of the Banking Regulation Act, 1949, Government of India have issued a Notification F.No.13/6/2005-BOA dated May 24, 2007 specifying “acting as Pension Fund Manager” as a form of business in which it would be lawful for a banking company to engage in. Accordingly, banks may now undertake Pension Funds Management (PFM) through their subsidiaries set up for the purpose subject to their satisfying the eligibility criteria prescribed by PFRDA for Pension Fund Managers. PFM should not be undertaken departmentally. Banks intending to undertake pension funds management as per guidelines set out in **Annex** should obtain prior approval of Reserve Bank of India before engaging in such business. Banks may therefore submit necessary applications to us furnishing full details in respect of the various eligibility criteria as specified in the **Annex** along with the details of the equity contribution proposed to be made in the subsidiary. The relative Board Note and Resolution passed thereon approving the bank’s proposal together with a viability report prepared in this regard may also be forwarded to us. Yours faithfully
+
+## (P.Vijaya Bhaskar)
+
+Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Guidelines for banks' acting as Pension Fund Managers
+
+## 1. Eligibility Criteria
+
+Banks will be allowed to undertake Pension Fund Management (PFM) through their subsidiaries only. Pension Fund Management should not be undertaken departmentally. Banks may lend their names/abbreviations to their subsidiaries formed for Pension Fund Management, for leveraging their brand names and associated benefits thereto, only subject to the banks maintaining ‘arms length' relationship with the subsidiary. In order to provide adequate safeguards against associated risks and ensure that only strong and credible banks enter into the business of pension fund management, the banks complying with the following eligibility criteria (as also the solvency margin prescribed by PFRDA) may approach the Reserve Bank of India for necessary permission to enter into the business of pension funds management.
+
+(i) Networth of the bank should be not less than Rs.500 crore. (ii) CRAR should be not less than 11% during the last three years. (iii) Bank should have made net profit for the last three consecutive years. (iv) Return on Assets (ROA) should be atleast 0.6% or more.
+(v) Level of net non-performing assets (NPAs) should be less than 3%. (vi) Performance of the bank's subsidiary/ies, if any, should be satisfactory. (vii) Management of the bank's investment portfolio should be good as per the AFI Report of the Reserve Bank and there should not be any adverse remark/s in the Report involving supervisory concerns.
+## 2. Pension Fund Subsidiary-Safeguards
+
+# Withdrawn
+
+The banks fulfilling the above eligibility criteria as also the criteria prescribed by PFRDA for Pension Fund Managers will be permitted to set up subsidiaries for pension fund management subject to the following conditions.
+
+(i) The bank should obtain prior permission of the Reserve Bank for investing in the equity for the purpose of setting up the subsidiary. Transferring or otherwise dealing with its shareholding in the subsidiary in any manner would also require prior approval of the Reserve Bank. (ii) Composition of the Board of Directors of the subsidiary should be broad based and should be as per the guidelines, if any, prescribed by PFRDA. (iii) The parent bank should maintain "arms length" with the subsidiary. Any transaction between the bank and the subsidiary should be at market related rates. (iv) Any further equity contribution by the bank to the subsidiary should be with the prior approval of the Reserve Bank and limited to 10% of its own paid-up capital and reserves.
+(v) The bank’s total investment by way of equity contributions in its existing subsidiaries, the proposed pension funds subsidiary and those formed in future together with portfolio investments in other financial services companies should not exceed 20% of its paid-up capital and reserves.
+
+<!-- PAGE 3 -->
+
+(vi) The parent bank’s Board should lay down a comprehensive risk management policy for the group as a whole including the subsidiary, incorporating appropriate risk management tools. It should also ensure effective implementation thereof. (vii) The bank should evolve a suitable system to monitor operations of the subsidiary. (viii) The subsidiary should confine itself to the business of pension fund management and any other business, which is purely incidental and directly related thereto. (ix) The pension fund subsidiary should not set up another subsidiary without prior approval of the Reserve Bank.
+
+(x) The subsidiary should not promote a new company, which is not a subsidiary thereof, without the prior approval of the Reserve Bank. (xi) The subsidiary should not make any portfolio investment in another existing company with an intention of acquiring controlling interest, without prior approval of the Reserve Bank. (xii) The bank should submit a Business Plan to the Reserve Bank highlighting the business projections of the subsidiary for the first five years so as to determine whether subsidiary would be able to comply with the solvency margin as may be prescribed by PFRDA and not fall back on the bank for augmenting its capital for the purpose. (xiii) The permission granted by the Reserve Bank to a bank to set up the subsidiary shall be without prejudice to the decision of PFRDA to permit the subsidiary to do the pension fund management business. (xiv) The subsidiary should abide by all the instructions, guidelines etc., on pension fund management issued by PFRDA from time to time. (xv) The bank should ensure that the subsidiary does not have on-line access to the customers' accounts maintained with the bank.
+# Withdrawn
+
+(xvi) In order to maintain systems integrity of the bank, adequate safeguards between the systems of the bank and that of the subsidiary should be put in place by the bank. (xvii) The bank should strictly comply with the reporting requirements prescribed under the "financial conglomerates" framework, wherever applicable. (xviii) The bank should not grant any unsecured advances to the JV or subsidiary without the prior approval of the Reserve Bank.

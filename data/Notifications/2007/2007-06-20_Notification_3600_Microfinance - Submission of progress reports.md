@@ -1,0 +1,137 @@
+---
+doc_id: "Notifications_2007_3600"
+title: "Microfinance - Submission of progress reports"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78141.pdf"
+pdf_sha256: "d78f1b29d2eb15cbc66625a4c678d21e0fc0112a275ac8decad0162d57e77354"
+md_sha256: "17e6c1633b4a2db6b921760583fb2a89c191bb9645e33ce702ef89f1eda628b8"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-06-20_Notification_3600_Microfinance%20-%20Submission%20of%20progress%20reports.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Microfinance - Submission of progress reports
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/441 RPCD.CO.MFFI.BC.No. 103 /12.01.01/2006-07
+
+## June 20, 2007
+
+The Chairman/Managing Director Chief Executive Officer All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+## <u>Microfinance-Submission of progress reports</u>
+
+In terms of our circular RPCD.No.PL.62/04.09.01/99-2000 dated February 18, 2000 and paragraph 2(i) of Master Circular on Micro Credit RPCD.No.Plan. BC.05/04.09.22/2006-07 dated July 3, 2006, banks hav e been submitting progress reports under microfinance to Rese rve Bank and NABARD on a half-yearly basis in t he format specifi ed for the purpose.
+
+2. With a view to capture certain additi onal information, it has been decided to revi se the reporting format. A copy of the re vised format is enclosed. Henceforth, the progress under microfinan ce may be reported in the enclosed format (only to NABARD Micro Credit Innovations Department) on a half-yearly basis, as on 30 September and 31 March each year, so as to reach them within 30 days of the half-y ear to which the report relates.
+3. Please acknowledge receipt.
+## Yours faithfully
+
+(N.K.Bhatia) Deputy General Manager
+
+<!-- PAGE 2 -->
+
+## Micro Finance Progress Report
+
+||||||||As at the end of March/September|
+|---|---|---|---|---|---|---|---|
+||Name of the Bank||||State|(All amounts in Rs. '000s)||
+||Part 'A' - Under SHG-Bank Linkage Programme 1. SHGs maintaining Savings A/c. in the Bank||||No. of SHGs|No. of Members|Savings Amount|
+|(a)|Total No. of SHGs (b)Of which under SGSY & other Government sponsored schemes (c) Exclusive Women SHGs [Out of (a) above]|||||||
+|(d)|Of which under SGSY & Other Govt.-sponsored schemes|||||||
+
+<!-- PAGE 3 -->
+
+## Part 'A' - Under SHG-bank linkage Programme
+
+## 2. SHGs financed directly by Banks
+
+|||||||||(All amounts in Rs. '000)|
+|---|---|---|---|---|---|---|---|---|
+|||During the year||Loan outstanding|||Gross NPAs**|Percentage|
+||Loan Amount Disbursed|No. of SHGs|No. of Members|Amount No. of|SHGs|Amount No.of SHGs|with NPAs|of Recovery to Demand|
+|Total no. of SHGs (b) Of which under SGSY & other Govt. sponsored Programs|||||||||
+|Exclusive Women SHGs (b) Of which under SGSY & other Govt. sponsored Programs|||||||||
+|** Applicable to March return only||.|||||||
+
+<!-- PAGE 4 -->
+
+## Part 'A' - Under SHG-bank linkage Programme
+
+## 3. SHGs financed directly by Banks with NGOs' facilitation
+
+## (All amounts in Rs.'000)
+
+|||During the year||Loan outstanding|||Gross NPAs**|Percentage of|
+|---|---|---|---|---|---|---|---|---|
+|Total no. of SHGs (b) Of which under SGSY & other Govt. sponsored Programs Exclusive Women SHGs (b) Of which under SGSY & other Govt. sponsored Programs|Loan Amount Disbursed|No. of SHGs|No. of members|Amount|No. of SHGs|Amount|No.of SHGs with NPAs|Recovery to Demand|
+
+## ** Applicable to March return only.
+
+<!-- PAGE 5 -->
+
+## Part 'B' : MFOs/ MFIs- bank linkage for on-lending to groups and others
+
+## 1. MFOs/ MFIs maintaining Savings A/c in the Bank
+
+## (All amounts in Rs. '000)
+
+|S. No.||Nature of Intermediary|No. of|Savings|
+|---|---|---|---|---|
+||||MFIs/ MFOs|Amount|
+|1.|NGO MFOs – Societies Registration Act 1860 and Indian Trust Act 1880||||
+|2.|Cooperative MFOs- C ooperative Societies Act of each State||||
+|3.|Cooperative MFOs- Mutually Aided Cooperative Societies Act (MACS)||||
+|4. 5. 6.|Cooperative MFOs- Multi-St NBFC MFIs under Section 25 of Companies Act 1956 (Not for profit) NBFC MFIs incorporated under Companies Act 1956 & registered with RBI|ate Coop. Societies Act 2002|||
+|7.|Others (To be specified)||||
+
+## <u>Total</u>
+
+<!-- PAGE 6 -->
+
+## Part 'B' : MFOs/ MFIs- bank Linkage for on-lending to groups and others
+
+## MFOs/ MFIs financed by the Bank
+
+## <u>(All amounts in Rs. '000)</u>
+
+## Percentage
+
+## Loan
+
+## During the year of Recovery Gross NPAs** outstanding
+
+## S. to Demand
+
+## Nature of Intermediary
+
+## No. No. of No. of MFIs No. of MFOs/
+
+## Loan
+
+## MFOs/ Amount having O/S Amount MFIs with disbursed
+
+## MFIs loans NPAs
+
+NGO MFOs – Societies SHG Model
+
+1. Registration Act 1860 and Non-SHG Indian Trust Act 1880 Model Cooperative MFOs-SHG Model
+2. Cooperative Societies Act of Non-SHG each State Model Cooperative MFOs- Mutually SHG Model
+3. Aided Cooperative Societies Non-SHG Act (MACS) Model Cooperative MFOs - Multi-SHG Model
+4. State Coop. Societies Act Non-SHG
+Model NBFC MFIs under Section SHG Model
+
+5. 25 of Companies Act 1956 Non-SHG (Not for profit) Model NBFC MFIs incorporated SHG Model
+6. under Companies Act 1956 Non-SHG & registered with RBI Model Others (To be specified) SHG Model
+7. Non-SHG
+Model **Total** SHG Model Non-SHG <u>Model</u>
+
+## ** Applicable to March return only

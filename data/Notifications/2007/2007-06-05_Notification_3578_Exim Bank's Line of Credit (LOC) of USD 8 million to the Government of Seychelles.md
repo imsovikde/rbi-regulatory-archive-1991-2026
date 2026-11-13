@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2007_3578"
+title: "Exim Bank's Line of Credit (LOC) of USD 8 million to the Government of Seychelles"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/77660.pdf"
+pdf_sha256: "d579b040fd44cba162f63a6653f25aa859593ae2e10bf6a821d9c22a95e5ef4a"
+md_sha256: "ea8b300e43011f57e9ed31a175913331625d3445e8d85adace702e6f5463a243"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:17:44Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-06-05_Notification_3578_Exim%20Bank%27s%20Line%20of%20Credit%20%28LOC%29%20of%20USD%208%20million%20to%20the%20Government%20of%20Seychelles.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exim Bank's Line of Credit (LOC) of USD 8 million to the Government of Seychelles
+
+<!-- PAGE 1 -->
+
+## RBI/2006-2007/428 A.P. (DIR Series) Circular No.69
+
+## Jun 5, 2007.
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sirs,
+
+## Exim Bank's Line of Credit (LOC) of USD 8 million to the Government of Seychelles
+
+Export-Import Bank of India (Exim Bank) has concluded an agreement dated July 10, 2006 with Government of Seychelles, making available to the latter, a Line of Credit (LOC) for USD 8 million (USD Eight million only), for financing purchase of essential commodities, which are eligible for export under the Foreign Trade Policy of the Government of India and the purchase of which goods may be agreed to be financed by Exim Bank under this Agreement.
+
+2. The Credit Agreement under the LOC is effective from April 25, 2007. Under the LOC, the last date for opening Letter of Credit / Disbursements is 72 months from the effective date of Credit Agreement.
+3. Shipments under the credit will have to be declared on GR / SDF Forms as per instructions issued by Reserve Bank from time to time.
+4. No agency commission shall be payable in respect of exports financed under the above line of credit. However, if required the exporter may use his own resources or utilize balances of his EEFC account for payment of commission in free foreign exchange. Authorised Dealer Category-I (AD Category-I) banks may allow such remittance after realisation of full payment of contract value subject to compliance with prevailing instructions on payment of agency commission.
+5. AD Category-I banks may bring the contents of this circular to the notice of their exporter constituents and advise them to obtain full details of the Line of Credit from Exim Bank's office at Centre One, Floor 21, World Trade Centre Complex, Cuffe Parade, Mumbai 400 005.
+6. The Directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## Salim Gangadharan Chief General Manager
