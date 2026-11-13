@@ -1,0 +1,25 @@
+---
+doc_id: "Press-Releases_2018_43437"
+title: "RBI Reference Rate for US $"
+category: "Press-Releases"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2505EE7ADFD217A5472BB8BC2828D6BB98AB.PDF"
+pdf_sha256: "92e8a431ee1b843fec07b63ef87877355d225d6615b886224d83f54147af86ec"
+md_sha256: "f5df25387884d7e3065082dfb5f447e0f10a174e3430f906b829417d64a80bd5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T21:02:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-03-21_Press-Release_43437_RBI%20Reference%20Rate%20for%20US%20%24.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $
+
+<!-- PAGE 1 -->
+
+|||||||प्रेस प्रकाशनी|PRESS RELEASE|
+|---|---|---|---|---|---|---|---|
+||21, 2018. 65.1993.|DEPARTMENT OF COMMUNICATION|संचार वभाग, _____________________________________________________________________________________________________________________|कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई, Central Office, S.B.S.Marg, Mumbai-400001 फोन/Phone: 022-22610835 फै क् स /Fax: 91 22 22660358 The Reserve Bank of India’s Reference Rate for the US Dollar is The corresponding rate for the previous day (March|- 400001 RBI Reference Rate for US $|0 वेबसाइट इ-मेल email|भारतीय �रज़वर् बक RESERVE BANK OF INDIA : www.rbi.org.in/hindi Website : www.rbi.org.in : helpdoc@rbi.org.in March 21, 2018 65.2162 on March 20, 2018) was|
+|below:||Currency 1 EUR 1 GBP 100 YEN Note : Press Release: 2017-2018/2505||March 20, 2018 80.4625 91.4942 61.33 The SDR-Rupee rate will be based on the reference rate.|Based on the reference rate for the US Dollar and the middle rates of the cross- currency quotes, the exchange rate of EUR, GBP and JPY against the Rupee are given Date||March 21, 2018 79.9616 91.3288 61.28 Ajit Prasad Assistant Adviser|
