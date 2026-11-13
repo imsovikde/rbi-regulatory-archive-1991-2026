@@ -1,0 +1,56 @@
+---
+doc_id: "Circulars_2017_DBR_No_Ret_BC_82_12_01_001_2017-18"
+title: "Change in Bank Rate"
+category: "Circulars"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NTI34EFAE71C79B7246B68650A5D7BEA5B001.PDF"
+pdf_sha256: "8b7aace8e630edfa9728fe0f03ec6218a3410a543792d56c5ee87554d39152b1"
+md_sha256: "0aed8d230de666f20173c21dad90c158d8ffc09d2e1cb81ac5dd9645f3db4353"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:38:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-08-02_Circular_DBR.No.Ret.BC.82-12.01.001-2017-18_Change%20in%20Bank%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in Bank Rate
+
+<!-- PAGE 1 -->
+
+## RBI/2017-18/34 DBR.No.Ret.BC.82/12.01.001/2017-18 August 02, 2017
+
+The Chairperson / CEOs of all Scheduled and Non Scheduled Banks
+
+Dear Sir / Madam, <u>Change in Bank Rate</u>
+
+Please refer to our <u>circular DBR.No.Ret.BC.58/12.01.001/2016-17 dated April 06</u>, <u>2017</u> on the captioned subject.
+
+2. As announced in the <u>Third Bi-Monthly Monetary Policy Statement 2017-18</u> <u>dated August 02, 2017</u>, the Bank Rate stands adjusted by 25 basis points from
+6.50 per cent to 6.25 per cent with effect from August 02, 2017.
+3. All penal interest rates on shortfall in reserve requirements, which are specifically linked to the Bank Rate, also stand revised as indicated in the <u>Annex</u>**.** Yours faithfully
+# Withdrawn
+
+(Dr.S K Kar) Chief General Manager **Encl. : As above**
+
+**th** **Department of Banking Regulation, Central Office, 5 floor, Amar Building, Sir P.M. Road, Mumbai-400001** **टेलफोन/Tel No:022-22603000 Email ID: returnsco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+## <u>Annex</u>
+
+## Penal Interest Rates which are linked to the Bank Rate
+
+## Item Existing Rate Revised Rate
+
+**(Effective from August 02, 2017)**
+
+||Penal interest rates on Bank Rate plus 3.0 Bank Rate plus 3.0 percentage||
+|---|---|---|
+|shortfalls in reserve|percentage points|points (9.25 per cent) or Bank Rate|
+|requirements|(9.50 per cent) or Bank|plus 5.0 percentage points (11.25|
+|(depending on duration Rate plus 5.0||per cent).|
+|of shortfalls).|percentage points (11.50 per cent).||
+
+# Withdrawn
