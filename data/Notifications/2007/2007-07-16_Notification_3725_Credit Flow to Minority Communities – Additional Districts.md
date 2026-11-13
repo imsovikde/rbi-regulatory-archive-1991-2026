@@ -1,0 +1,185 @@
+---
+doc_id: "Notifications_2007_3725"
+title: "Credit Flow to Minority Communities – Additional Districts"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/78792.pdf"
+pdf_sha256: "22f4927764c76f361bed61a27564700786538fe15a10f56291252eb634c13d35"
+md_sha256: "e3b9fa1d6790701403e48730fb1863f17579a96ba11e79275e5f236321aaad76"
+total_pages: 8
+native_pages: 8
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:18:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-07-16_Notification_3725_Credit%20Flow%20to%20Minority%20Communities%20%E2%80%93%20Additional%20Districts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit Flow to Minority Communities – Additional Districts
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/98 RPCD.SP.BC.No.13/ 09.10.01 / 2007-08 July 16, 2007
+
+The Chairman/ Managing Directors All Scheduled Commercial Banks
+
+Dear Sir,
+
+**List of additional 18 Minority Concentrated Districts which are not included in the list of 103 Districts** <u>with substantial minority population circulated earlier.</u>
+
+Please refer to Annex II of our Master Circular ref. RPCD.SP.BC. 12 / 09.10.01/2007-08 dated July 5, 2007 wherein we have enclosed a List of 103 Minority Concentrated Districts for monitoring the credit flow to minority communities. In this connection, Government of India have now forwarded us an additional list of 18 districts ( copy enclosed) to the list of 103 districts making total number of minority concentrated districts to
+
+121. Accordingly revised Annexure I is enclosed herewith for reporting the performance of your bank in lending to minority communities on a half yearly basis. You may, therefore, issue necessary instructions to your controlling offices, branch offices advising them to specially monitor the credit flow to minorities in these 121 districts as against the 103 districts which are required to be monitored, thereby ensuring that the minority communities receive an equitable portion of the credit within the overall target of the priority sector. The above requirement should be kept in view for purpose of earmarking of targets and location of development projects under the Prime Minister's New 15 Point Programme for the Welfare of the Minorities.
+2. Please acknowledge receipt and kindly advise us of the action initiated by you in this regard urgently.
+Yours faithfully,
+
+( G. Srinivasan) Chief General Manager
+
+<!-- PAGE 2 -->
+
+**List of additional 18 Minority Concentrated Districts which are not included in the list of 103 Districts** <u>with substantial minority population circulated earlier.</u>
+
+## Sl. No. State Sl. No. District identified
+
+1. Jammu & Kashmir 1 Leh (Ladakh)
+
+|1.|Jammu & Kashmir|1|Leh (Ladakh)|
+|---|---|---|---|
+|2.|Meghalaya|2|West Garo Hills|
+|3.|Mizoram|3|Lawngtlai|
+||Mizoram|4|Mamit|
+|4.|Bihar|5.|Sitamarhi|
+||Bihar|6.|Darbhanga|
+||Bihar|7.|Paschim Champaran|
+|5.|Jharkhand|8.|Ranchi|
+|6.|Karnataka|9.|Gulbarga|
+|7.|Uttar Pradesh|10.|Bulandshahar|
+||Uttar Pradesh|11.|Shahjahanpur|
+||Uttar Pradesh|12.|Badaun|
+||Uttar Pradesh|13.|Barabanki|
+||Uttar Pradesh|14.|Kheri|
+||Uttar Pradesh|15.|Lucknow|
+|8.|West Bengal|16.|Koch Bihar|
+||West Bengal|17.|Kolkata|
+||West Bengal|18.|Barddhaman|
+
+<!-- PAGE 3 -->
+
+## ANNEXURE 1
+
+|||||||Statement showing Priority Sector Advances granted to the Members of the specified Minority Communities vis-à-vis Overall Priority Sector Advances for the Half-year ended|||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Part 'A' - For Identified Districts|Bank Name ____________________________________________________||Christians (10) No. of A/cs.|Amt. O/S.|No. of A/cs.|(Vide paragraph 5.1) Muslims (20) Amt. O/S.|Buddhists (30) No. of A/cs.|Bank Code __________ Amt. O/S.|Sikhs (40) No. of A/cs.|Amt. O/S.|Zoroastrians (50) No. of A/cs.|Amt. O/S.|Total 'A' No. of A/c s.|A mt. O/ S.|(No. of Accounts-Actuals) (Amount in lakhs of Rupees) No. of A/ cs.|Others 'B' (90) Amt. O/S.|Total P/S Advances in Identified Districts 'C' (99) No. of A/cs.|Amt. O/S.|
+|Andamans|||||||||||||||||||
+|1. Nicobars|195||||||||||||||||||
+|2. Andamans|194||||||||||||||||||
+|Andhra Pradesh|||||||||||||||||||
+|3. Hyderabad|800||||||||||||||||||
+|Arunachal Pradesh|||||||||||||||||||
+|4. Tawang|099||||||||||||||||||
+|5. Changlang|400||||||||||||||||||
+|6. Tirap|098||||||||||||||||||
+|7. West Kameng|090||||||||||||||||||
+|8. Param Pare|401||||||||||||||||||
+|9. Lower Subansiri|095||||||||||||||||||
+|10. East Kameng|091||||||||||||||||||
+|Assam|||||||||||||||||||
+
+<!-- PAGE 4 -->
+
+|11.|Dhubri|019|
+|---|---|---|
+|12.|Goalpara|003|
+|13.|Barpeta|021|
+|14.|Hailakandi|004|
+|15.|Karimganj|017|
+|16.|Nagaon|014|
+|17.|Marigaon|005|
+|18.|Darrang|007|
+|19.|Bongaigaon|002|
+|20.|Cachar|022|
+|21.|Kokrajhar|020|
+|22.|North Cachar Hills|018|
+|23.|Kamrup|001|
+||Bihar||
+|24.|Kishanganj|049|
+|25.|Kathiar|071|
+|26.|Araria|083|
+|27.|Purnia|078|
+|28.|Sitamarhi|050|
+|29.|Darbhanga|074|
+|30.|Paschim Champaran|064|
+||Delhi||
+|31.|Central||
+|32.|North East||
+||Goa||
+|33.|South Goa Haryana|692|
+|34.|Gurgaon|350|
+|35.|Sirsa|352|
+
+<!-- PAGE 5 -->
+
+## Himachal Pradesh
+
+|36.|Lahul & Spiti|474|
+|---|---|---|
+|37.|Kinnaur Jammu & Kashmir|476|
+|38.|Leh (Ladakh) Jharkhand|458|
+|39|Pakaur|069|
+|40|Sahibganj|039|
+|41|Gumla|043|
+|42|Ranchi Karnataka|087|
+|43|Dakshina Kannada|880|
+|44|Bidar|866|
+|45|Gulbarga Kerala|864|
+|46|Malappuram|983|
+|47|Ernakulam|970|
+|48|Kottayam|968|
+|49|Idukki|976|
+|50|Wayanad|988|
+|51|Pathanamthitta|978|
+|52|Kozhikode|980|
+|53|Kasaragod|989|
+|54|Thrissur|972|
+|55|Kannur|985|
+|56|Kollam|963|
+|57|Thiruvananthapuram|960|
+|58|Palkkad|974|
+|59|Alappuzha|966|
+
+<!-- PAGE 6 -->
+
+## Madhya (P)
+
+|60|Bhopal|764|
+|---|---|---|
+||Maharashtra||
+|61|Akola|646|
+|62|Mumbai|600|
+|63 64|Aurangabad Mumbai( Suburban)|624|
+|65|Amravati|644|
+|66|Buldana|648|
+|67|Parbhani|626|
+|68|Wasim|647|
+|69|Hingoli Manipur|627|
+|70|Tamenglong|156|
+|71|Ukhrul|154|
+|72|Churachandpur|152|
+|73|Chandel|157|
+|74|Senapati|150|
+|75|Thoubal Meghalaya|153|
+|76|West Garo Hills Mizoram|024|
+|77|Lawngtlai|898|
+|78|Mamit Orrisa|033|
+|79|Gajapati Pondicherry|161|
+|80|Mahe|994|
+
+## Rajasthan
+
+<!-- PAGE 7 -->
+
+81 Ganganagar 518 **Sikkim** 82 North 198 83 South 199 84 East 196 85 West 197 **Tamil Nadu** 86 Kanyakumari 936 **Uttar Pradesh** 87 Rampur 280 88 Bijnor 276 89 Moradabad 278 <u>90</u> Saharanpur 274 91 Muzaffarnagar 272 92 Meerut 270 93 Bahraich 244 94 Balrampur 241 95 Gaziabad 269 96 Pilibhit 249 97 Bareilli 250 98 Siddarthnagar 257 99 Shrawasti 246 100 Jyotiba phule Nagar 279 101 Baghpat 275 102 Bulandshahar 268 103 Shahjahanpur 252 104 Budaun 267 105 Barabanki <u>106</u> Kheri
+
+<!-- PAGE 8 -->
+
+<u>107</u> Lucknow 200 **Uttaranchal** 108 Hardwar 277 <u>109</u> Udham Singh Nagar 219 **West Bengal** 110 Murshidabad 126 111 Maldah 128 112 Uttar Dinajpur 130 113 Birbhum 122 114 South 24-Parganas 103 115 Nadia 124 116 Dakshin Dinajpur 131 117 Haorah 110 118 North 24- Parganas 101 119 Koch Bihar 136 120 Kolkata 100 <u>121</u> Barddhaman 120 **Total**

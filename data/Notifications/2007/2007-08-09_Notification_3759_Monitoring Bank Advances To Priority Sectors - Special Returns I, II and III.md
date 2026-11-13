@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2007_3759"
+title: "Monitoring Bank Advances To Priority Sectors - Special Returns I, II and III"
+category: "Notifications"
+year: 2007
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/79203.pdf"
+pdf_sha256: "c351d7496831c6c9399f41cdad0c4b34b681096e36dcf3cec457f1515d7733dd"
+md_sha256: "15bf3606039fc4b282ea676cffc80b2fa814920d2a8036a25cd221a963906922"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:18:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2007/2007-08-09_Notification_3759_Monitoring%20Bank%20Advances%20To%20Priority%20Sectors%20-%20Special%20Returns%20I%2C%20II%20and%20III.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Monitoring Bank Advances To Priority Sectors - Special Returns I, II and III
+
+<!-- PAGE 1 -->
+
+RBI/2007-2008/113 RPCD. Stat.BC. No. 18 /11.01.04/2007-08 August 09, 2007 To
+
+The Chairman/Managing Director All Scheduled Commercial Banks (excluding Regional Rural Banks)
+
+## Dear Sir
+
+## Monitoring bank advances to priority sectors
+
+**Special Returns I – Direct Finance to Agriculture and Allied activities (Outstanding as** **well as disbursement) as on the last reporting Friday of June(Annual)** **Special Return II – Recovery of agricultural advances as on the last reporting Friday of** **June (Annual) and** **Special Return III – Disbursal of advances to priority sectors as on the last reporting** **Friday of June (Annual)**
+
+In terms of our circular RPCD.No.PS.BC39/C.464(M)/C.456(H)-83 dated June 27, 1983 read with RPCD. No. Stat. 86/Stat 5(CB)-86 dated February 27, 1986, banks are required to submit the above mentioned Special Returns I, II and III to Reserve Bank on an annual basis (as on last reporting Friday of June) and these returns should reach within 2 months from the reference date. As you are aware, Reserve Bank has issued revised policy guidelines on priority sector advances vide circular RPCD. No. Plan BC 84/04.09.01/2006-07 dated April 30,
+
+2007. Keeping in view the fact that the priority sector guidelines have been revised with effect from 30 April 2007, you are requested to furnish the data in the existing formats of Special Returns I, II and III as on the last reporting Friday of June 2007. However, loans granted from April 30, 2007 to June 22, 2007 may be classified on the basis of revised guidelines on priority sector advances.
+## Please acknowledge receipt
+
+## Yours faithfully
+
+(G.Srinivasan) Chief General Manager
