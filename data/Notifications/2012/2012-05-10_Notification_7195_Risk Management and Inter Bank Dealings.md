@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2012_7195"
+title: "Risk Management and Inter Bank Dealings"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRINL100512C.pdf"
+pdf_sha256: "0bbf711216cd2f551175b5ae13947195697c4e2f5df18ce00e213918be412bc3"
+md_sha256: "1d1b67b72ab7c3fe2d6fcc2b63f721ca816953b466943d811456a643db671993"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-05-10_Notification_7195_Risk%20Management%20and%20Inter%20Bank%20Dealings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter Bank Dealings
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2011-12/546 May 10, 2012 A.P. (DIR Series) Circular No.123
+
+To,
+
+All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Risk Management and Inter Bank Dealings
+
+Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to <u>A.P</u>. <u>(DIR Series) Circular No.58 dated December 15, 2011</u> on the captioned subject.
+
+2. In terms of the above circular, Intra-day open position / daylight limit of Authorised Dealers should not exceed the erstwhile Net Overnight Open Position Limit available to them. It was further clarified through FEDAI Circular SPL-58/Risk Mgmt./2011 dated 21st December 2011 that restrictions placed on Intraday positions limits is only applicable for positions involving Rupee as one of the currencies.
+3. On a review it has been decided to fix the intra-day open position / daylight limit of the Authorised Dealers at five times the Net Overnight Open Position Limit available to them or the existing Intra-day open position limit as approved by the Reserve Bank, whichever is higher, for positions involving Rupee as one of the currencies.
+4. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar) Chief General Manager

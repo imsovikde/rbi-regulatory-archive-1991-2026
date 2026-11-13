@@ -1,0 +1,67 @@
+---
+doc_id: "Notifications_2012_982"
+title: "Deregulation of Interest Rates on Export Credit in Foreign Currency"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CDEC050212IR.pdf"
+pdf_sha256: "81a9f8083b397a8e07163c9ed6a9515198aaccbd1042cf84f972a71371445364"
+md_sha256: "766e04a8b8983bc1caae4a781c3ddbb4237a4158ac902ead9390d16da376699a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-05-04_Notification_982_Deregulation%20of%20Interest%20Rates%20on%20Export%20Credit%20in%20Foreign%20Currency.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Deregulation of Interest Rates on Export Credit in Foreign Currency
+
+<!-- PAGE 1 -->
+
+# भारतीय िरज़वर् बक __________ RESERVE BANK OF INDIA__________
+
+<u>www.rbi.org.in</u>
+
+RBI/2011-12/534 DBOD.DIR.No.100/04.02.001/2011-12 May 4, 2012
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir / Madam,
+
+## Deregulation of Interest Rates on Export Credit in Foreign Currency
+
+Please refer to our <u>circulars DBOD.DIR.No.52/04.02.001/2011-12 dated November 15,</u> <u>2011</u> and <u>DBOD.DIR.No.91/04.02.001/2011-12 dated March 30, 2012</u> relating to interest rates on export credit in foreign currency.
+
+2. With a view to increasing the availability of funds to exporters, it has been decided to allow banks to determine their interest rates on export credit in foreign currency with effect from May 5, 2012.
+3. A directive DBOD.DIR.No.99/04.02.001/2011-12 dated May 4, 2012, issued in this regard is enclosed.
+## Yours faithfully
+
+## (Rajesh Verma)
+
+Chief General Manager
+
+बैिकं ग पिरचालन और िवकास िवभाग, कद्रीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र्मुबई 400001 _____________________________________________________________________________________________________ th Department of Banking Operations and Development, Central Office, 13 floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहदीं आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+# भारतीय िरज़वर् बक __________ RESERVE BANK OF INDIA__________
+
+<u>www.rbi.org.in</u>
+
+## DBOD.DIR.BC.No.99 /04.02.001/2011-12 May 4, 2012
+
+## Deregulation of Interest Rates on Export Credit in Foreign Currency
+
+In exercise of the powers conferred by Sections 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that it has been decided to allow banks to determine their interest rates on export credit in foreign currency with effect from May 5,
+
+2012.
+## (B. Mahapatra)
+
+Executive Director
+
+## Related Press Release/Notification
+
+May 4, 2012 <u>RBI takes measures to ease foreign currency flows</u> <u>May 4, 2012 Interest Rates on FCNR(B) Deposits</u>
+
+बैिकं ग पिरचालन और िवकास िवभाग, कद्रीय कायार्लय, 13 माला, शहीद भगतिसंह माग, र्मुबई 400001 _____________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 13 th floor ,NCOB,Shahid Bhagat Singh Marg, Mumbai - 400001 /Tel No: 91-22-22601000 / Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in िहदीं आसान है, इसका प्रयोग बढ़ाइए

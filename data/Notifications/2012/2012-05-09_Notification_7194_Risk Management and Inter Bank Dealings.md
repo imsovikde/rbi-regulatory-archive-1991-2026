@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2012_7194"
+title: "Risk Management and Inter Bank Dealings"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RBC090512RM.pdf"
+pdf_sha256: "f5d7d021762bdbe71811b9945474985e3b9b20adfa9fb35c6ef5f19b754f59b6"
+md_sha256: "04e32cdc05ed6e4e32ad074e3f49c64d482833b95bd2ab911f67878fdf40c899"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-05-09_Notification_7194_Risk%20Management%20and%20Inter%20Bank%20Dealings.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Management and Inter Bank Dealings
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2011-12/545
+
+**A. P. (DIR Series) Circular No. 122** May 09, 2012 To, All Authorised Dealer Category-I Banks Madam / Sir,
+## Risk Management and Inter Bank Dealings
+
+Attention of Authorized Dealers Category – I (AD Category – I) banks is invited to
+
+<u>A.P. (DIR Series) Circular No.92 dated April 4, 2003</u> on the captioned subject.
+2. In terms of paragraph C 4(iv) of the aforesaid circular, AD banks have been permitted to deploy foreign currency funds for granting loans to resident constituents for meeting their foreign exchange requirements or for the rupee working capital/capital expenditure needs subject to the prudential/interest-rate norms, credit discipline and credit monitoring guidelines in force.
+3. The Reserve Bank of India has reviewed the interest rate and the end use of the FCNR(B) deposits vide its <u>circular DBOD.Dir.BC.102/13.03.00/2011-12</u> <u>dated May 4, 2012</u>. Accordingly, it has been decided that FCNR(B) funds representing deposit liabilities may be utilised for making loans to resident constituents for meeting -
+i. their foreign exchange requirements or ii. for the rupee working capital/capital expenditure needs of exporters /corporates who have a natural hedge or a risk management policy for managing the exchange risk
+Subject to the prudential/interest-rate norms, credit discipline and credit monitoring guidelines in force. Authorised dealers may be guided accordingly.
+
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+
+<!-- PAGE 2 -->
+
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Rudra Narayan Kar)
+
+Chief General Manager

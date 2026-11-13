@@ -1,0 +1,34 @@
+---
+doc_id: "Notifications_2012_7163"
+title: "Priority Sector Lending-Indirect Finance to Housing Sector"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRLIFHL250412.pdf"
+pdf_sha256: "184dc35267f091806ade71e84afd66959386dd833ee81d1adc97383a2d3923e6"
+md_sha256: "329af668f5eb839ed2b47969018fc400be7329936ead87bab8b6a4800419bf5b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-04-25_Notification_7163_Priority%20Sector%20Lending-Indirect%20Finance%20to%20Housing%20Sector.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending-Indirect Finance to Housing Sector
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बैंक **_____________________RESERVE BANK OF INDIA _______________________** www.rbi.org.in **RBI/2011-12/524** RPCD.CO.Plan.BC.73 /04.09.01/2011-12 April 25, 2012
+
+## The Chairman/Managing Director/ Chief Executive Officer [All Scheduled Commercial Banks (excluding Regional Rural Banks)]
+
+Dear Sir/ Madam,
+
+## <u>Priority Sector Lending-Indirect Finance to Housing Sector</u>
+
+Please refer to paragraph 6.4 of our <u>Master Circular RPCD. CO. Plan.</u> <u>BC.10/04.09.01/2011-12 dated July 1, 2011</u> on lending to priority sector.
+
+2. Pursuant to the announcement made by Union Finance Minister in the Union Budget for the year 2012-13, it has been decided to increase the limit from Rs.5 lakh to Rs.10 lakh for the bank loans extended to non-governmental agencies, approved by NHB for their refinance, for on-lending for the purpose of construction/reconstruction of individual dwelling units or for slum clearance and rehabilitation of slum dwellers.
+3. The revised limit is applicable to the bank loans sanctioned from the date of this circular. Yours faithfully, (C. D. Srinivasan) Chief General Manager मामीण आयोजना और ऋण िवभाग, कें िीय कायार्लय, 10वीं मंिजल, कें िीय कायार्लय भवन, शहीद भगत िसंह माग,र् पोःट बॉक् 022‐
+22601000 फै क् 91‐22‐22621011/22610943/22610948 ई-मेल : cgmincrpcd@rbi.org.in स सं. 10014, मुंबई-400 001 फोन:: Rural Planning & Credit Dept., Central Office, 10 th Floor, स: Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014, Mumbai 400 001 Tel : 022‐22601000 Fax <u>: 91‐22‐22621011/22610943/22610948 E‐mail : cgmincrpcd@rbi.org.in</u> <u>िह</u>ं<u>दी आसान है; इसका ूयोग बढ़ाइए</u>

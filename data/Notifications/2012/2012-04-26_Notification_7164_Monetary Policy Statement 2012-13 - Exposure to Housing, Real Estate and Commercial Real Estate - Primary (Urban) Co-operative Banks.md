@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2012_7164"
+title: "Monetary Policy Statement 2012-13 - Exposure to Housing, Real Estate and Commercial Real Estate - Primary (Urban) Co-operative Banks"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCREMP260412.pdf"
+pdf_sha256: "bddc692e7c0cd5d3433b0fb80b77b5a7d8cf0f808a2b4993c8a4170e908d2249"
+md_sha256: "9b653ba166f417c92ffe6dbb35f871b7b84b57e8d8be6bd105fdb57e915806a3"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:29:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-04-26_Notification_7164_Monetary%20Policy%20Statement%202012-13%20-%20Exposure%20to%20Housing%2C%20Real%20Estate%20and%20Commercial%20Real%20Estate%20-%20Primary%20%28Urban%29%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Monetary Policy Statement 2012-13 - Exposure to Housing, Real Estate and Commercial Real Estate - Primary (Urban) Co-operative Banks
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बैंक **___________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2011-12/525 UBD.BPD. (PCB). Cir. No.31/13.05.000/2011-12 April 26, 2012
+
+The Chief Executive Officer, All Primary (Urban) Co-operative Banks.
+
+Madam / Dear Sir,
+
+## Monetary Policy Statement 2012-13 -
+
+## Exposure to Housing, Real Estate and Commercial Real Estate-Primary
+
+## (Urban) Co-operative Banks
+
+Please refer to our <u>Circular UBD.BPD.(PCB). Cir. No.47/13.05.000/2010-11 dated</u> <u>May 11, 2011</u>, on the above subject, advising UCBs that their exposure to housing, real estate and commercial real estate loans should be limited to 10 percent of their total assets which could be exceeded by an additional 5 percent of total assets for housing loans to individuals upto ` 15 lakh.
+
+**2.** As announced in the Monetary Policy Statement 2012-13 (para 76 - extract appended), UCBs would, **henceforth**, be permitted to utilise the additional limit of 5 percent of total assets, referred to in para 1 above, for grant of housing loans to individuals upto ` 25 lakh, which is covered under the priority sector.
+**3.** All other instructions regarding grant of loans by UCBs to Housing, Real Estate and Commercial Real Estate sectors remain unchanged. Yours faithfully (A. Udgata) Chief General Manager – in – Charge Encl: 1 शहरी बैंक िवभाग,कें िीय कायालय र्, गारमेंट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल:
+<u>rbiubdco@rbi.org.in</u> Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in <u>बैंक िहन्दी में पऽाचार का ःवागत करता है —</u>
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Exposure of UCBs to Housing, Real Estate and Commercial Real Estate
+
+**76**. At present, UCBs are permitted to assume aggregate exposure on real estate, commercial real estate and housing loans up to a maximum of 10 per cent of their total assets with an additional limit of 5 per cent of their total assets for housing loans up to `1.5 million. In order to facilitate enhanced priority sector lending, it is decided:
+- to permit UCBs to utilise the additional limit of 5 per cent of their total assets for granting housing loans up to `2.5 million**,** which is covered under the priority sector.

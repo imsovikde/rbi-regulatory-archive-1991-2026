@@ -1,0 +1,101 @@
+---
+doc_id: "Notifications_2012_7202"
+title: "Implementation of Section 51-A of UAPA, 1967 Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al-Qaida Sanctions List"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/R11647N110512.pdf"
+pdf_sha256: "efb23650d741530141e2ef2d1eb528bb0f9de52ef7c7d57f101c89ae14468665"
+md_sha256: "ca0bcc307f160e727a08df8a50a2a8faf2b641ce0a436a046bc6e11f5ae4b3df"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:29:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-05-11_Notification_7202_Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967%20Updates%20of%20the%20UNSCR%201267%20%281999%29%20and%201989%20%282011%29%20Committee%27s%20Al-Qaida%20Sanctions%20List.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51-A of UAPA, 1967 Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al-Qaida Sanctions List
+
+<!-- PAGE 1 -->
+
+R
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/554
+
+RPCD.CORRB.RCB.AML.No.11647/03.05.28(A)/2011-12
+
+May 11,2012
+
+The Chairmen / CEOs of all State and Central Co-operative Banks and Regional
+
+Rural Banks
+
+Dear Sir,
+
+Implementation of Section51-A of UAPA,1967
+
+Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al-Qaida
+
+Sanctions List
+
+PleaserefertoourcircularRPCD.CO.RRB.RCB.AML.NO.10495/03.05.28(A)/2011-12
+
+dated April 17, 2012. We have since received from Government of India, Ministry of
+
+External Affairs, UNP Division copies of notes dated April 30, 2012 and May 3, 2012
+
+forwarded by the Chairman of UN Security Council's 1267/1989 Committee (copies
+
+i      a
+
+individuals andentitieslinked toAl-Qaida.
+
+2.State and Central Co-operative Banks and Regional Rural Banks are required to
+
+update the list of individuals/entities as circulated by the Reserve Bank and before
+
+opening any new account, it should be ensured that the name/s of the proposed
+
+customer does not appear in the list. Further, Banks should scan all existing accounts
+
+to ensure that no account is held by or linked to any of the entities or individuals
+
+included in the list.
+
+3.Banks are advised to strictly follow the procedure laid down in the UAPA Order
+
+dated August 27, 2009 enclosed to our circular RPCD.CO.RF.AML. BC. No.
+
+34/07.40.00/2009-10datedOctober29,2009
+
+and
+
+RPCD.CO.RRB.No.39/03.05.33
+
+(E)/2009-10 dated November 05, 2009 and ensure meticulous compliance to the
+
+Order issued by the Government.
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, Shahid Bhagat
+
+Singh Marg Mumbai - 1
+
+fu/TelNo:91-22-22661602R/FaxNo:91-22-22621011/22610943/22610948Email
+
+ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 6 of the circulars mentioned in paragraph 3 above.
+5. The complete details of the said consolidated list are available on the UN website: <u>[http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml](http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml)</u>
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular letter to our Regional Office concerned.
+## Yours faithfully
+
+(I.S.Negi) General Manager
+
+## Encls: as above
