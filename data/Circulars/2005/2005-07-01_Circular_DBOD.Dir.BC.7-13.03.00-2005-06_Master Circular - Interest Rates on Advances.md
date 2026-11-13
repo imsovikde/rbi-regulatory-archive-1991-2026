@@ -1,0 +1,267 @@
+---
+doc_id: "Circulars_2005_DBOD_Dir_BC_7_13_03_00_2005-06"
+title: "Master Circular - Interest Rates on Advances"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/64138.PDF"
+pdf_sha256: "0b5a603f4b820580737af9e38c13d44a5bb3c279f463802386af4799d005cfea"
+md_sha256: "fbb0fde1d8bc6811583c13d883294c0835700f05a316b9bfa41a98c8b8949c61"
+total_pages: 12
+native_pages: 12
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:48:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-07-01_Circular_DBOD.Dir.BC.7-13.03.00-2005-06_Master%20Circular%20-%20Interest%20Rates%20on%20Advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular - Interest Rates on Advances
+
+<!-- PAGE 1 -->
+
+RBI/2005-06/20 July 01, 2005 Ref No. DBOD. Dir. BC. 7/13.03.00/2005-06 Aashadha 10, 1927
+
+## The Chief Executives of all Scheduled Commercial Banks (Excluding RRBs & LABs)
+
+Dear Sir, <u>Master Circular-Interest Rates on Advances</u> Please refer to the Master Circular DBOD. No. Dir. BC.6/13.03.00/2003-2004 dated July 8, 2004 consolidating instructions/ guidelines issued to banks till June 30, 2004 on matters relating to Interest Rates on Advances. The Master Circular has been suitably updated by incorporating instructions issued upto June 30, 2005 and has also been placed on the RBI website **(**<u>[http://www.rbi.org.in](http://www.rbi.org.in)</u>**).**
+
+**2.** It may be noted that all the instructions contained in circulars listed in the Appendix have been consolidated. Yours faithfully
+# Withdrawn
+
+## (P. Vijaya Bhaskar) Chief General Manager
+
+## Encl: As above
+
+<!-- PAGE 2 -->
+
+## <u>Table of Contents</u>
+
+1. General -----------------------------------------------------------------------------------3
+2. Benchmark Prime Lending Rate (BPLR) and spreads -----------------------3
+3. Determination of Benchmark Prime Lending Rate (BPLR) ------------------3
+4. Freedom to fix Lending Rates ------------------------------------------------------4
+5. Interest Rate for Loans -------------------------------------------------------4
+6. Levying of penal rates of interest --------------------------------------------------5
+7. Enabling clause ------------------------------------------------------------------------5
+8. Withdrawals against uncleared effects ------------------------------------------5
+9. Loans under consortium arrangements -----------------------------------------6
+10. Charging of Interest at monthly rests --------------------------------------------6
+11. Zero percent Interest Finance Scheme for Consumer Durables ---------7 Annexure – I ----------------------------------------------------------------------------8 Annexure – II ---------------------------------------------------------------------------11
+Withdrawn Appendix --------------------------------------------------------------------------------12
+
+<!-- PAGE 3 -->
+
+## Master Circular on Interest Rates on Advances
+
+## 1. General
+
+1.1 The banks should charge interest on loans/advances/cash credits/overdrafts or any other financial accommodation granted/provided/renewed by them or discount usance bills in accordance with the directives on interest rates on advances issued by Reserve Bank of India from time to time.
+1.2 The interest at the specified rates shall be charged at monthly rests from April 1, 2002 subject to the conditions laid down in paragraph 10 below. The Interest to be charged shall be rounded off to the nearest rupee.
+1.3 Banks should club the term loans and working capital advances together for the purpose of determining the size of the loan and the applicable rate of interest.
+1.4 The schedule of rates of interest as per current directive in force is given in Annexure-I.
+## 2. Benchmark Prime Lending Rate (BPLR) and Spreads
+
+2.1 At present, loans upto Rs. 2 lakh carry the prescription of not exceeding the Benchmark Prime Lending Rate (BPLR) and on the loans above Rs. 2 lakh, banks are free to determine rate of interest subject to BPLR and spread guidelines. Keeping in view the international practice and to provide operational flexibility to commercial banks in deciding their lending rates, banks may offer
+# Withdrawn
+
+loans at below BPLR to exporters or other creditworthy borrowers including public enterprises on the basis of a transparent and objective policy approved by the respective Boards. Banks will continue to declare the maximum spread of interest rates over BPLR. However, given the prevailing credit market in India and the need to continue with concessionality for small borrowers, the practice of treating BPLR as the ceiling for loans upto Rs. 2 lakh will continue.
+
+2.2 The interest rate on credit limits of Rs. 2 lakh and below shall not exceed the Benchmark Prime Lending Rate.
+2.3 BPLR will be made uniformly applicable at all branches of a bank.
+## 3. Determination of Benchmark Prime Lending Rate (BPLR)
+
+3.1 In order to enhance transparency in banks’ pricing of their loan products as also to ensure that the BPLR truly reflects the actual costs, banks may consider the following suggestions for determination of their benchmark PLR:
+(a) Banks should take into account their (i) actual cost of funds, (ii) operating expenses and (iii) a minimum margin to cover regulatory
+
+<!-- PAGE 4 -->
+
+requirement of provisioning/capital charge and profit margin, while arriving at the benchmark PLR. Banks should announce a benchmark PLR with the approval of their Boards.
+
+(b) The benchmark PLR would be the ceiling rate for credit limit up to Rs.2 lakh, as hitherto.
+(c) Since all other lending rates can be determined with reference to the benchmark PLR arrived at as above by taking into account term premia and/or risk premia, the system of tenor-linked PLR is discontinued. These premia can be factored in the spread over or below the BPLR.
+The detailed guidelines on operational aspects on Benchmark PLR have been issued by IBA on November 25, 2003.
+
+3.2 Banks are also advised that in the interest of the customer protection and to have greater degree of transparency in regard to actual interest rates charged to borrowers, they should continue to provide information on maximum and minimum interest rates charged together with the benchmark PLR.
+## 4. Freedom to fix Lending Rates
+
+Banks enjoy freedom to stipulate lending rates without reference to their own Benchmark Prime Lending Rates in respect of the following categories:
+
+(i) Loans covered by refinance schemes of term lending institutions; (ii) Interest rates on bank lending to intermediary agencies including
+# Withdrawn
+
+housing finance intermediary agencies (cf. list at ‘Annexure II’);
+
+(iii) Bill discounting by banks;
+
+(iv) Advances/overdrafts against domestic/NRE/FCNR(B) deposits with the bank, provided that the deposit/s stands/stand either in the name(s) of the borrower himself/borrowers themselves, or in the names of the borrower jointly with another person;
+
+(v) To a co-operative bank or to any other banking institution;
+## (vi) To its own employees.
+
+## 5. Interest Rate for Loans
+
+Banks have freedom to offer all categories of loans on fixed or floating rates, subject to conformity to Asset-Liability Management (ALM) guidelines. Banks may price floating rate products by using market benchmarks in a transparent manner.
+
+<!-- PAGE 5 -->
+
+## 6. Levying of penal rates of interest
+
+Since the Boards of the banks have been empowered to decide the Benchmark Prime Lending Rate (BPLR) as also the spread over BPLR, it has been decided with effect from 10 October 2000, that banks may formulate transparent policy for charging penal interest with the approval of their Board of Directors. However, in case of loans to borrowers under priority sector, no penal interest should be charged for loans up to Rs. 25,000. Penal interest may be levied for reasons such as default in repayment, non-submission of financial statements, etc. However, the policy on penal interest should be governed by well-accepted principles of transparency, fairness, incentive to service the debt and due regard to genuine difficulties of customers.
+
+## 7. Enabling clause
+
+7.1 The banks are required to invariably incorporate following proviso in the loan agreements in the case of all advances, including term loans, enabling banks to charge the applicable interest rate in conformity with the directives issued by RBI from time to time. “Provided that the interest payable by the borrower shall be subject to the changes in interest rates made by the Reserve Bank from time to time.”
+7.2 Since banks are bound by the Reserve Bank's directive on interest rates on loans and advances which are issued under Sections 21 and 35A of the Banking Regulation Act, 1949, banks are obliged to give effect to any revision of interest rates whether upwards or downwards, on all the
+# Withdrawn
+
+existing advances from the date the directive/revised interest rate (change in BPLR and spread) come into force, unless the directives specifically provide otherwise.
+
+7.3 Paragraphs 7.1 and 7.2 will not be applicable in case of Fixed Rate Loans.
+## 8. Withdrawals against uncleared effects
+
+Where withdrawals are allowed against cheques sent for clearing, i.e. uncleared effects (e.g. uncleared local or outstation cheques) which are in the nature of unsecured advances, the banks should charge interest on such drawals as per the directive on interest rate on advances.
+
+It may be noted that this instruction will not apply to the facility afforded to depositors for immediate credits in respect of cheques sent for collection as a measure of customer service.
+
+<!-- PAGE 6 -->
+
+## 9. Loans under consortium arrangement.
+
+The banks need not charge a uniform rate of interest even under a consortium arrangement. Each member bank should charge rate of interest on the portion of the credit limits extended by it to the borrower subject to its <u>BPLR.</u>
+
+## 10. Charging of Interest at monthly rests
+
+10.1 The banks were required to switchover to the system of charging interest at monthly rests with effect from April 1, 2002. While switching over to the new system, the banks were to follow the under noted instructions in regard to switchover to the system of charging monthly interest on loans and advances:
+i. Banks had option to compound interest at monthly rests effective either from April 1, 2002, or July 1, 2002 or April 1, 2003. ii. With effect from quarter beginning July 1, 2002, banks should ensure that the effective rate does not go up merely on account of the switchover to the system of charging / compounding interest at monthly rests and increase the burden on the borrowers.
+## Illustratively:
+
+*If a bank is charging in a borrower’s account an interest rate of 12 percent* *with quarterly rests, the effective rate is 12.55 percent. If the bank charges* *in the same account an interest rate of 12 percent at monthly rests, the* *effective rate comes to 12.68 percent. Banks should, therefore, adjust the* *12 percent interest rate charged to the borrower in such a way that the* *effective interest rate to the borrower does not exceed 12.55 percent as*Withdrawn *hitherto. Thus, in the above example, banks should charge interest at*
+
+*11.88 percent (and not 12 percent). If this is done, the effective rate, even* *after compounding at monthly rests will be 12.55 percent.* iii. Application of interest on monthly rests shall be restricted to all running accounts, e.g. Cash Credit, Overdraft, Export Packing Credit Accounts, etc. At the time of changing over to monthly rests, banks may obtain consent letter / supplemental agreement from the borrowers for the purpose of documentation. iv. Interest at monthly rests shall be applied in case of all new and existing term loans and other loans of longer / fixed tenor. In the case of existing loans of longer / fixed tenor, banks shall move over to application of interest at monthly rests at the time of review of terms and conditions or renewal of such loan accounts or after obtaining consent from the borrower.
+10.2 Instructions on charging interest at monthly rests shall not be applicable to agricultural advances and banks shall continue to follow the existing practice of charging / compounding of interest on agricultural advances linked to crop seasons. As indicated in circular RPCD.No.PLFS.BC.129/
+
+<!-- PAGE 7 -->
+
+05.02.27/97-98 dated June 29, 1998 banks should charge interest on agricultural advances for long duration crops at annual rests. As regards other agricultural advances in respect of short duration crop and allied agricultural activities such as dairy, fishery, piggery, poultry, bee- keeping, etc., banks may take into consideration due dates fixed on the basis of fluidity with borrowers and harvesting / marketing season while charging interest and compounding the same if the loan / instalment becomes overdue.
+## 11. Zero percent Interest Finance Schemes for Consumer Durables
+
+Banks should refrain from offering low/zero percent interest rates on consumer durable advances to borrowers through adjustment of discount available from manufacturers/dealers of consumer goods, since such loan schemes lack transparency in operations and distort pricing mechanism of loan products. These products do not also give a clear picture to the customers regarding the applicable interest rates. Banks should also not promote such schemes by releasing advertisement in different newspapers and media indicating that they are promoting/financing consumers under such schemes. They should also refrain from linking their names in any form/manner with any incentive-based advertisement where clarity regarding interest rate is absent.
+
+## ---------------------------
+
+# Withdrawn
+
+<!-- PAGE 8 -->
+
+## Annexure – I
+
+## Interest Rate Structure for all rupee advances <u>including Terms Loans of commercial banks</u>
+
+Rate of interest (Per cent per annum)
+
+1. (a) Upto and inclusive of Rs.2 lakh Not exceeding Benchmark Prime Lending
+Rate (BPLR)
+
+(b) Over Rs.2 lakh The banks are free to determine rates of
+interest subject to BPLR and spread guidelines. The banks may, however, offer loans at below BPLR to exporters or other creditworthy borrowers including public enterprises based on a transparent and objective policy approved by their Boards.
+
+2 <u>Export Credit</u> **Effective from May 1, 2005 to** **October 31, 2005 ($)**
+
+(1) <u>Pre-shipment Credit</u>
+(a) (i) Upto 180 days Not exceeding BPLR <u>minus</u> 2.5 percentage
+points
+
+(ii) Beyond 180 days and The banks are free to determine rates of upto 270 days interest subject to BPLR and spread
+
+# Withdrawn
+
+guidelines.
+
+(b) Against incentives receivable Not exceeding BPLR <u>minus</u> 2.5 percentage from Government covered points by ECGC Guarantee (upto 90 days)
+3. <u>Post-shipment Credit</u>
+(a) On demand bills for transit Not exceeding BPLR <u>minus</u> 2.5 percentage period (as specified by FEDAI ) points
+(b) Usance Bills (for total period comprising usance period of export bills, transit period as specified by FEDAI and grace period wherever applicable)
+
+<!-- PAGE 9 -->
+
+Not exceeding BPLR <u>minus</u> 2.5 percentage points
+
+(i) Upto 90 days (may be extended for a maximum period of 365 days for eligible exporters under the Gold Card Scheme) (ii) Beyond 90 days and upto 6 months from the date of shipment
+(c) Against incentives receivable from Government covered by ECGC Guarantee (upto 90 days)
+(d) Against undrawn balances (upto 90 days )
+(e) Against retention money (for supplies portion only) payable within one year from the date of shipment (upto 90 days)
+4. <u>Deferred Credit</u> Deferred credit for the period beyond 180 days
+5. Export Credit not otherwise <u>specified</u> (ECNOS)
+(a) Pre-shipment credit
+(b) Post-shipment credit
+The banks are free to determine rates of interest subject to BPLR and spread guidelines.
+
+Not exceeding BPLR <u>minus</u> 2.5 percentage points
+
+Not exceeding BPLR <u>minus</u> 2.5 percentage points
+
+Not exceeding BPLR <u>minus</u> 2.5 percentage points
+
+**ceiling rates.**
+
+The banks are free to determine rates of interest subject to BPLR and spread guidelines.
+
+The banks are free to determine rates of interest subject to BPLR and spread guidelines The banks are free to determine rates of interest subject to BPLR and spread guidelines
+
+# Withdrawn
+
+## $ Since these are ceiling rates, banks are free to charge any rate below the
+
+|6.|DRI Advances 4.0||
+|---|---|---|
+|7.|The banks are free to determine the rates of interest without reference to BPLR and regardless of the size in respect of following loans: (a) (b) (c)|Loans for purchase of consumer durables Loans to individuals against shares and debentures/bonds Other non-priority sector personal loans|
+
+<!-- PAGE 10 -->
+
+(d) Advances/overdrafts against domestic/ NRE/ FCNR (B) deposits with the bank, provided that the deposit/s stands/ stand either in the name(s) of the borrower himself/ borrowers themselves, or in the names of the borrower jointly with another person
+(e) Finance granted to intermediary agencies (excluding those of housing) for on lending to ultimate beneficiaries and agencies providing input support
+(f) Finance granted to housing finance intermediary agencies for on lending to ultimate beneficiaries
+(g) Discounting of Bills
+(h) Loans / Advances / Cash Credit / Overdrafts against commodities subject to Selective Credit Control
+8. Loans covered by participation Free to charge interest rates as per in refinancing schemes of term stipulations of the refinancing agencies lending institutions without reference to BPLR
+Note: Intermediary agencies are indicated in Annexure II of Master Circular.
+
+# Withdrawn
+
+<!-- PAGE 11 -->
+
+## Annexure II
+
+## <u>An Illustrative list of Intermediary Agencies</u>
+
+1. State sponsored organisations for on-lending to weaker sections. Weaker sections include -
+(i) Small and marginal farmers with landholdings of 5 acres and less, landless labourers, tenant farmers and share-croppers. (ii) Artisans, village and cottage industries where individual credit requirements do not exceed Rs. 25,000/-. (iii) Small and marginal farmers, sharecroppers, agricultural and non- agricultural labourers, rural artisans and families living below the poverty lines are the beneficiaries. The family income should not exceed Rs. 11,000/- per annum.
+## (iv) Scheduled Castes and Scheduled Tribes.
+
+(v) Beneficiaries are persons whose family income from all sources does not exceed Rs. 7,200/- per annum in urban or semi-urban areas or Rs. 6,400/- per annum in rural areas. They should not own any land or the size of their holdings does not exceed one acre in the case of irrigated land and 2.5 acres in the case of unirrigated land (land holdings criteria do not apply to SC/ST). (vi) Beneficiaries under scheme of Liberation and Rehabilitation of Scavengers (SLRs). (vii) Advances granted to Self-Help Groups (SHGs) for reaching the rural poor.
+2. Distributors of agricultural inputs/implements.
+# Withdrawn
+
+3. State Financial Corporations ( SFCs)/State Industrial Development Corporations (SIDCs) to the extent they provide credit to weaker sections.
+4. National Small Industries Corporation (NSIC).
+5. Khadi and Village Industries Commission (KVIC).
+6. Agencies involved in assisting the decentralised sector.
+7. State sponsored organisations for on-lending to the weaker sections.
+8. Housing and Urban Development Corporation Ltd. (HUDCO).
+9. Housing Finance Companies approved by National Housing Bank (NHB) for refinance.
+10. State sponsored organisations for SCs/STs (for purchase and supply of inputs to and/or marketing of output of the beneficiaries of these organisations).
+11. Micro Finance Institutions/Non-Government Organisations (NGOs) on-lending to SHGs.
+
+<!-- PAGE 12 -->
+
+## Appendix
+
+**List of circulars/directives consolidated in this Master Circular** <u>which may be referred to for rationale and logic of the instructions</u>
+
+||Reference Number, etc.|Date|
+|---|---|---|
+
+1) DBOD No. BC. 84/13.07.01/2004-05 29.04.2005
+2) DBOD No. BC. 6/13.03.00/2004-05 08.07.2004
+
+# Withdrawn

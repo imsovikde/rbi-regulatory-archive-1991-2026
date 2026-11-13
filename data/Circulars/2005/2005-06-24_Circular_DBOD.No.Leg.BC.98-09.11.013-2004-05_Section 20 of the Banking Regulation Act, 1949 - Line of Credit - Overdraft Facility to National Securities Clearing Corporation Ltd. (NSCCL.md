@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2005_DBOD_No_Leg_BC_98_09_11_013_2004-05"
+title: "Section 20 of the Banking Regulation Act, 1949 - Line of Credit / Overdraft Facility to National Securities Clearing Corporation Ltd. (NSCCL)"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/64005.PDF"
+pdf_sha256: "ee4571e6526539fe276c228d177d03f439e1f05371feb26291aa5a0d58eaef50"
+md_sha256: "e74fea6b9c521713985c503bf05deae36aaf694c00344a9355e0abe4f1624c2f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:48:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-06-24_Circular_DBOD.No.Leg.BC.98-09.11.013-2004-05_Section%2020%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Line%20of%20Credit%20-%20Overdraft%20Facility%20to%20National%20Securities%20Clearing%20Corporation%20Ltd.%20%28NSCCL.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 20 of the Banking Regulation Act, 1949 - Line of Credit / Overdraft Facility to National Securities Clearing Corporation Ltd. (NSCCL)
+
+<!-- PAGE 1 -->
+
+RBI//2004-05/501
+
+## DBOD.No.Leg.BC.98/09.11.013/2004-05 June 24, 2005
+
+To
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+<u>Section 20 of the Banking Regulation Act, 1949 – Line of credit / overdraft</u> <u>facility to National Securities Clearing Corporation Ltd. (NSCCL)</u>
+
+Please refer to Para 1.2.4 of our Master Circular DBOD.No.DIr.BC.20/
+
+13.03.00/2004-05 dated July 30, 2004 on Loans and Advances – Statutory and Other restrictions, wherein it was advised that for the purpose of Section 20 of the Banking Regulation Act, 1949 the term 'loans and advances' shall not include loans or advances against Government Securities, life insurance policies or fixed deposit, facilities like bills purchased / discounted, purchase of cheques, other non-fund based facilities like acceptance / co-acceptance of bills, opening of L/Cs and issue of guarantees etc.
+2. It has further been decided in exercise of the powers conferred by clause (a) of the Explanation under sub-section (4) of Section 20 of the Banking Regulation Act, 1949 (10 of 1949), that for the purpose of aforesaid Section, the term "loans or advances" shall not include line of credit / overdraft facility extended by settlement bankers to National Securities Clearing Corporation Ltd. (NSCCL) to facilitate smooth settlement.
+# Withdrawn
+
+## Yours faithfully
+
+(Anand Sinha) Chief General Manager-in-Charge

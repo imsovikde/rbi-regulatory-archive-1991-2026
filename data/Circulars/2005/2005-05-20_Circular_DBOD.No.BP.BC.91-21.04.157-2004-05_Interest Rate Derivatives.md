@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2005_DBOD_No_BP_BC_91_21_04_157_2004-05"
+title: "Interest Rate Derivatives"
+category: "Circulars"
+year: 2005
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/63216.PDF"
+pdf_sha256: "74a7ba630767d5c40b8c521590406e36ce926c96239a3ffe77d21596da4f86bd"
+md_sha256: "0a0a510c67d34a043787aa4303a1ba8ff1a4312b76e9474f0a79f4a72576c9a4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:47:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-05-20_Circular_DBOD.No.BP.BC.91-21.04.157-2004-05_Interest%20Rate%20Derivatives.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rate Derivatives
+
+<!-- PAGE 1 -->
+
+## RBI/2004-05/473 DBOD.No.BP.BC. 91/21.04.157/2004-05
+
+## May 20, 2005
+
+**To**
+
+## All Scheduled Commercial Banks/PDs/AIFIs
+
+## Interest rate derivatives
+
+Please refer to the guidelines for interest rate derivatives circulated vide letter No.MPD.BC.187/07.01.279/1999-2000 dated July 7, 1999 whereby banks / FIs and PDs were enabled to use Forward Rate Agreements (FRA) and Interest Rate Swaps (IRS) in order to manage and control risks arising from deregulation of interest rates. These institutions were also permitted to use the products for market making and offer them to corporates for hedging balance sheet exposures. With regard to the Benchmark Rate, market participants were permitted to use any domestic money or debt market rate provided the methodology of computing the rate was objective, transparent and mutually acceptable to counterparties.
+
+2. However, on specific requests from banks, LIBOR was permitted to be used as benchmark, since rupee benchmarks other than the MIBOR were then still to develop and find wide acceptance. Over the years, the depth and liquidity in the money markets has increased following the limits placed on call money, development of inter-bank term deposits, market repos, CBLOs, CPs, CDs and increased issuance and activity in treasury bills. Market participants, are therefore, advised that henceforth, they should use only domestic rupee benchmarks for interest rate derivatives. Market participants are, however, given a transition period of six months for using MIFOR as a benchmark, subject to review and are advised to desist from taking any measures that would undermine the intent of this circular.Withdrawn
+3. The existing contracts with non-domestic rupee benchmarks may however continue as per the terms of the contract or be closed out on mutually agreed terms between the counterparties to the contract.
+Yours faithfully, Sd/- (**P. Vijaya Bhaskar**) Chief General Manager
