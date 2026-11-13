@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2017_DBR_No_Leg_BC_98_09_08_019_2017-18"
+title: "Submission of Financial Information to Information Utilities"
+category: "Circulars"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IUC19122017063A65D368CD4F6DAEC111841091C932.PDF"
+pdf_sha256: "7dfba9c52b7a7b5b5206ffc4f4ec9f59ef0bad5051a13305d4528f07ec04543f"
+md_sha256: "50c1d52435df1dd75bfadb0038170a44b29544b605750a6e2a6139df016ec3bb"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:39:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-12-19_Circular_DBR.No.Leg.BC.98-09.08.019-2017-18_Submission%20of%20Financial%20Information%20to%20Information%20Utilities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Submission of Financial Information to Information Utilities
+
+<!-- PAGE 1 -->
+
+RBI/2017-18/110 DBR.No.Leg.BC.98/09.08.019/2017-18 December 19, 2017
+
+All Scheduled Commercial Banks (Including RRBs), Small Finance Banks, Local Area Banks, All Co-operative Banks, All NBFCs and All India Financial Institutions
+
+## Dear Sir/Madam
+
+## Submission of Financial Information to Information Utilities
+
+According to Section 215 of Insolvency and Bankruptcy Code (IBC), 2016, a financial creditor shall submit financial information and information relating to assets in relation to which any security interest has been created, to an information utility (IU) in such form and manner as may be specified by regulations. Chapter V of the Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017, which has come into force with effect from April 1, 2017, has specified the form and manner in which financial creditors are to submit this information to IUs. Further, as per Section 238 of the IBC, 2016 the provisions of the Code shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having
+
+# Withdrawn
+
+effect by virtue of any such law.
+
+2. The Insolvency and Bankruptcy Board of India (IBBI) has registered National E- Governance Services Limited (NeSL) as the first IU under the IBBI (IUs) Regulations, 2017 on September 25, 2017.
+3. All financial creditors regulated by RBI are advised to adhere to the relevant provisions of IBC, 2016 and IBBI (IUs) Regulations, 2017 and immediately put in place appropriate systems and procedures to ensure compliance to the provisions of the Code and Regulations.
+## Yours faithfully
+
+(Prakash Baliarsingh) Chief General Manager बकं ग व�नयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत स ंह मागर्, मुंबई 400001 टेलफोन /Tel No: 22661602, 22601000 फै क् स /Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Banking Regulation, Central Office,12th & 13th Floor,Central Office Bhavan,Shahid Bhagat Singh Marg,Mumbai - 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692

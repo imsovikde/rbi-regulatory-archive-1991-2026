@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2018_DNBS_PD_CC_No_1925_66_08_001_2017-18"
+title: "Submission of returns by the Government-owned Non-Banking Financial Companies"
+category: "Circulars"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1411D5E4D71E7424469ABF5AD1FF92320E1.PDF"
+pdf_sha256: "95f4415971d9910f3ccb2c547a48b7be855786ef3d950d535f0a0bc02bc965b6"
+md_sha256: "98d39eb2ad7664765bed4d1c9cb1cf72edfdfc3746fe5a9ed4a3161451a6d949"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:39:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2018/2018-03-15_Circular_DNBS.PD.CC.No.1925-66.08.001-2017-18_Submission%20of%20returns%20by%20the%20Government-owned%20Non-Banking%20Financial%20Companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Submission of returns by the Government-owned Non-Banking Financial Companies
+
+<!-- PAGE 1 -->
+
+**भारतीय रज़वर् बक** RESERVE BANK OF INDIA <u>www.rbi.org.in</u>
+
+## RBI/2017-18/141 DNBS.PD.CC.No.1925/66.08.001/2017-18 March 15, 2018
+
+To All Government-Owned Non-Banking Financial Companies (NBFCs)
+
+Madam/ Sir,
+
+## Submission of returns by the
+
+## <u>Government-owned Non-Banking Financial Companies</u>
+
+In exercise of the powers conferred by sections 45JA, 45K and 45L of the Reserve Bank of India Act, 1934 (hereinafter referred to as the RBI Act), it has been decided to apply the <u>Master Direction – Non-Banking Financial Company Returns</u> <u>(Reserve Bank) Directions, 2016 dated September 29, 2016</u> to all the Non-Banking Financial Companies, being Government Companies as defined in Clause 45 of section 2 of the Companies Act, 2013, and registered with Reserve Bank of India under section 45IA of the Reserve Bank of India Act, 1934 (“such NBFCs”).
+
+2. Accordingly, all such NBFCs shall put in place a reporting system for filing periodic returns with the Bank, as detailed in the aforesaid Master Directions, to the extent
+# Withdrawn
+
+applicable to them (as per their size and whether they accept public deposits). The returns should be compiled on the basis of the figures available in the books of accounts of such NBFCs and filed with the RBI on-line (using the COSMOS software package) by an authorised official of the NBFC, who shall be specifically authorised in this regard by the Board of Directors of such NBFC concerned. The name of the authorised official may be informed to us.
+
+3. The first set of returns should be filed with effect from the: (i) last Friday of December 2017 for the weekly return; (ii) quarter ended - December 31, 2017 for the quarterly returns; (iii) half-year ending March 31, 2018 for the half-yearly returns; and (iv) year ending March 31, 2018 for the annual returns. All weekly, quarterly returns upto December 31, 2017 shall be submitted by April 15, 2018. Thereafter, these returns shall be submitted within the timeline stipulated in the Master Direction on returns to be submitted by NBFCs. Yours faithfully, (Dr. Sathyan David) Chief General Manager
