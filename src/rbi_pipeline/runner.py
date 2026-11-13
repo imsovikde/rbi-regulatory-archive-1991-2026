@@ -433,11 +433,13 @@ def _index_paths(repo_root):
         "README.md",
         "llms.txt",
         "llms-full.txt",
-        "manifest/master_catalog.jsonl",
         "index/url_to_path_map.json",
         "index/url_collisions.json",
     ]
-    for sub in ("index/by_year", "index/by_category"):
+    # Catalog shards (manifest/catalog/<YYYY>.jsonl, Defect 7): the old
+    # single manifest/master_catalog.jsonl is gone; it passed GitHub's
+    # 100 MB push limit and killed run 43443272509. Do not re-add it.
+    for sub in ("index/by_year", "index/by_category", "manifest/catalog"):
         directory = os.path.join(repo_root, sub)
         if os.path.isdir(directory):
             for name in sorted(os.listdir(directory)):

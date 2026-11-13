@@ -8,7 +8,10 @@ inventory (what exists) and writes, deterministically:
 - index/by_category/<Folder>.md (one per HF folder)
 - index/by_year/<YYYY>.md and index/by_year/<YYYY>.json (1991-2026)
 - index/url_to_path_map.json (any RBI or HF URL -> data/<path>.md)
-- manifest/master_catalog.jsonl (one JSON object per inventory row)
+- manifest/catalog/<YYYY>.jsonl (one JSON object per inventory row, one
+  shard per year; sharded because a single catalog file passed GitHub's
+  100 MB push limit at 60,647 rows / 103.40 MB and killed run 43443272509,
+  Defect 7; the largest shard is Press-Releases 2017 at ~6.5 MB)
 - README.md progress section (between markers, updated in place)
 - PROGRESS.md (created with a header if missing; batch lines are appended
   by :func:`append_progress_log`, never by build_all, so rebuilds stay
@@ -222,8 +225,8 @@ def _build_llms_txt(repo_root, total, done, by_folder, by_folder_done):
         "- Master index: INDEX.md",
         "- URL lookup (any RBI or Hugging Face URL to .md path): "
         "index/url_to_path_map.json",
-        "- Full catalog (one JSON object per document): "
-        "manifest/master_catalog.jsonl",
+        "- Full catalog (one JSON object per document, one shard per "
+        "year): manifest/catalog/<YYYY>.jsonl",
         "",
         "## Categories",
         "",
@@ -437,38 +440,64 @@ def _build_url_map(repo_root, inventory_rows):
 
 
 def _build_master_catalog(repo_root, inventory_rows, ledger_by_path):
+    """Write the machine-readable catalog, sharded one file per year.
+
+    One JSON object per inventory row, same record shape as before
+    (sorted keys, UTF-8, LF newlines). The shards live in
+    ``manifest/catalog/<YYYY>.jsonl``.
+
+    Sharding is not cosmetic. The catalog used to be a single file,
+    ``manifest/master_catalog.jsonl``; it grows by ~1.7 KB per row and
+    passed GitHub's hard 100 MB per-file push limit at 60,647 rows
+    (103.40 MB), which rejected the graceful-stop index commit and
+    killed run 43443272509 (Defect 7). A single Press-Releases shard
+    would still exceed the limit (~109 MB), so the split is by year:
+    the largest year (Press-Releases 2017, 3,836 files) is ~6.5 MB.
+    The old single file is NOT written or deleted here; it was removed
+    from the repo once, by hand, when this fix landed.
+    """
     from .hf_enumerator import hf_resolve_url
 
-    path = os.path.join(repo_root, "manifest", "master_catalog.jsonl")
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8", newline="\n") as handle:
-        for row in inventory_rows:
-            ledger = ledger_by_path.get(row["file_path"], {})
-            status = ledger.get("status") or ""
-            record = {
-                "category": row.get("category") or "",
-                "folder": folder_of(row),
-                "year": row.get("year") or 0,
-                "listing_date": row.get("listing_date") or "",
-                "headline": row.get("headline") or "",
-                "document_id": row.get("document_id") or "",
-                "listing_url": row.get("listing_url") or "",
-                "pdf_url": row.get("pdf_url") or "",
-                "hf_url": hf_resolve_url(row["file_path"]),
-                "file_path": row["file_path"],
-                "md_path": md_path_for(row["file_path"]),
-                "pdf_sha256": row.get("sha256") or "",
-                "md_sha256": ledger.get("md_sha256") or None,
-                "status": status if status else "PENDING",
-                "engine": ledger.get("engine") or None,
-                "total_pages": ledger.get("total_pages") or None,
-                "native_pages": ledger.get("native_pages") or None,
-                "ocr_pages": ledger.get("ocr_pages") or None,
-                "converted_at_utc": ledger.get("converted_at_utc") or None,
-            }
-            handle.write(
-                json.dumps(record, sort_keys=True, ensure_ascii=False) + "\n"
-            )
+    by_year_rows = defaultdict(list)
+    for row in inventory_rows:
+        try:
+            year = int(row.get("year") or 0)
+        except (TypeError, ValueError):
+            year = 0
+        by_year_rows[year].append(row)
+    catalog_dir = os.path.join(repo_root, "manifest", "catalog")
+    os.makedirs(catalog_dir, exist_ok=True)
+    for year in sorted(by_year_rows):
+        path = os.path.join(catalog_dir, f"{year:04d}.jsonl")
+        with open(path, "w", encoding="utf-8", newline="\n") as handle:
+            for row in by_year_rows[year]:
+                ledger = ledger_by_path.get(row["file_path"], {})
+                status = ledger.get("status") or ""
+                record = {
+                    "category": row.get("category") or "",
+                    "folder": folder_of(row),
+                    "year": row.get("year") or 0,
+                    "listing_date": row.get("listing_date") or "",
+                    "headline": row.get("headline") or "",
+                    "document_id": row.get("document_id") or "",
+                    "listing_url": row.get("listing_url") or "",
+                    "pdf_url": row.get("pdf_url") or "",
+                    "hf_url": hf_resolve_url(row["file_path"]),
+                    "file_path": row["file_path"],
+                    "md_path": md_path_for(row["file_path"]),
+                    "pdf_sha256": row.get("sha256") or "",
+                    "md_sha256": ledger.get("md_sha256") or None,
+                    "status": status if status else "PENDING",
+                    "engine": ledger.get("engine") or None,
+                    "total_pages": ledger.get("total_pages") or None,
+                    "native_pages": ledger.get("native_pages") or None,
+                    "ocr_pages": ledger.get("ocr_pages") or None,
+                    "converted_at_utc": ledger.get("converted_at_utc") or None,
+                }
+                handle.write(
+                    json.dumps(record, sort_keys=True, ensure_ascii=False)
+                    + "\n"
+                )
 
 
 def build_all(repo_root, ledger_rows, inventory_rows):
