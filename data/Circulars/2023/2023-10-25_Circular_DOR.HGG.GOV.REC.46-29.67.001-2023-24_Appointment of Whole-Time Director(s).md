@@ -1,0 +1,56 @@
+---
+doc_id: "Circulars_2023_DOR_HGG_GOV_REC_46_29_67_001_2023-24"
+title: "Appointment of Whole-Time Director(s)"
+category: "Circulars"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT7046236E0FB4144D6B94B0367F6DF87382.PDF"
+pdf_sha256: "cb6ba5039949339e97094c02918c89f8237916b94c68fc558dbaeae1ce4739eb"
+md_sha256: "2d1b27864597be67e4d9cbcb35144a766cff4797b9853e8141e327c2bed81fca"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:51:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-10-25_Circular_DOR.HGG.GOV.REC.46-29.67.001-2023-24_Appointment%20of%20Whole-Time%20Director%28s%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Appointment of Whole-Time Director(s)
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बक
+
+### <u>RESERVE BANK OF INDIA</u>
+
+RBI/2023-24/70 DOR.HGG.GOV.REC.46/29.67.001/2023-24 October 25, 2023
+
+#### All Private Sector Banks and
+
+#### Wholly-Owned Subsidiaries of Foreign Banks
+
+#### (excluding Payment Banks and Local Area Banks)
+
+#### Madam / Dear Sir
+
+#### Appointment of Whole-Time Director(s)
+
+Please refer to paragraph 10 and 11 of our instructions <u>DOR.GOV.</u> <u>REC.8/29.67.001/2021-22 dated April 26, 2021</u> on ‘Corporate Governance in Banks-Appointment of Directors and Constitution of Committees of the Board’.
+
+2. Given the growing complexity of the banking sector, it becomes imperative to establish an effective senior management team in the banks to navigate ongoing and emerging challenges. Establishment of such a team may also facilitate succession planning, especially in the background of the regulatory stipulations in respect of tenure and upper age limit for Managing Director and
+# Withdrawn
+
+Chief Executive Officer (MD&CEO) positions.
+
+3. To address these issues and challenges, banks are advised to ensure the presence of at least two Whole Time Directors (WTDs), including the MD&CEO, on their Boards. The number of WTDs shall be decided by the Board of the bank by taking into account factors such as the size of operations, business complexity, and other relevant aspects. In compliance to these instructions, banks that currently do not meet the minimum requirement as above are advised to submit their proposals for the appointment of WTD(s) under Section 35B(1)(b) of the Banking Regulation Act, 1949, within a period of four months from the date of issuance of this circular. Those banks which do not already have the enabling provisions regarding appointment of WTDs in their Articles of Association may first seek necessary approvals under Section 35B(1)(a) of __________________________________________________________________________________________ व�नयमन वभाग, कद्रय कायार्लय, 12वीं और 13वीं मंिज़ल, कद्रय कायार्लय भवन, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400001 Department of Regulation, Central Office, 12
+th & 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 टेलफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 ई-मैल / E-mail: cgmicdor@rbi.org.in �हंद आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+the Act *ibid*, expeditiously, so as to be in a position to comply with the requirements under these instructions. While ensuring compliance to the above instructions, careful consideration shall also be given to meet the requirements under other applicable statutory/regulatory provisions.
+
+## Yours faithfully
+
+(Scenta Joy) Chief General Manager
+
+# Withdrawn

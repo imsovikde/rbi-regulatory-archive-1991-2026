@@ -1,0 +1,70 @@
+---
+doc_id: "Circulars_2023_DOR_SPE_REC_No_51_13_03_000_2023-24"
+title: "Non-Callable Deposits - Master Direction on Interest Rate on Deposits"
+category: "Circulars"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NONCALLALBETERMDEPOSITS71750C5E1EB24693A092BEE2620995B0.PDF"
+pdf_sha256: "a85295a269eaacf78fd8fbafc1662a7a790071133d9580c6ba6c14101bc76e0f"
+md_sha256: "44ec46681f341e2c1ad70eedaba0e646527a2288cf81e1bdb27a15ef052c6ff8"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:51:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-10-26_Circular_DOR.SPE.REC.No.51-13.03.000-2023-24_Non-Callable%20Deposits%20-%20Master%20Direction%20on%20Interest%20Rate%20on%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non-Callable Deposits - Master Direction on Interest Rate on Deposits
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+### RESERVE BANK OF INDIA
+
+RBI/2023-24/74 DOR.SPE. REC. No 51/13.03.000/2023-24 October 26, 2023
+
+#### Non-Callable Deposits-Master Direction on Interest Rate on Deposits
+
+Please refer to the instructions contained in Section 7 of the <u>Master Direction (MD) on</u> <u>Interest Rate on Deposits dated March 03, 2016</u> and <u>Master Direction-Reserve Bank of</u> <u>India (Co-operative Banks - Interest Rate on Deposits) Directions, 2016 dated May 12,</u>
+
+<u>2016</u>. In terms of these instructions, banks have been permitted to offer domestic term deposits (TDs) without premature withdrawal option, provided that all TDs accepted from individuals for an amount of Rupees fifteen lakh and below shall have premature- withdrawal-facility. Further, the banks have also been permitted to offer differential rate on interest on TDs based on non-callability of deposits (i.e., non-availability of premature withdrawal option) in addition to tenor and size of deposits.
+2. On a review, it has been decided that (i) the minimum amount for offering non-callable TDs may be increased from Rupees fifteen lakh to Rupees one crore i.e., all domestic
+# Withdrawn
+
+term deposits accepted from individuals for amount of Rupees one crore and below shall have premature-withdrawal-facility and (ii) these instructions shall also be applicable for Non-Resident (External) Rupee (NRE) Deposit / Ordinary Non-Resident (NRO) Deposits.
+
+3. Accordingly, the relevant sections of the Master Direction have been amended as indicated in the <u>Annex</u>.
+4. All other instructions shall remain unchanged.
+िविनयमन िवभाग, क द्र ी य कायालय, 12वीं और 13वीं मंिज़ल, नरीमन भवन, नरीमन पॉइंट, मुंबई 400021 Department of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 बक िहंदी म पत्राचार का ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+## Applicability
+
+5. This circular is applicable to all Commercial Banks and Co-operative Banks.
+6. These instructions shall come into force with immediate effect. Yours faithfully, (Sunil T S Nair) Chief General Manager
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## ANNEX
+
+[Encl. to circular DOR.SOG(SPE).REC.No 51/13.03.00/2023-24 dated October 26, 2023] <u>Master Direction-Reserve Bank of India (Interest Rate on Deposits) Directions,</u> <u>2016 dated March 03, 2016</u>
+
+|Section of MD|Existing Provisions|Amended Provisions|
+|---|---|---|
+|7 (a) (iii)|Banks shall have the freedom to offer withdrawal option. singly or jointly) for amount of amount of Rupees fifteen lakh and below shall have premature-withdrawal- facility.|Banks shall have the freedom to offer term deposits without premature term deposits without premature withdrawal option. Provided that all term deposits Provided that all term deposits accepted accepted from individuals (held from individuals (held singly or jointly) for Rupees one crore and below shall have premature-withdrawal- facility.|
+|15 (c)|deposits shall vary only on account of one or more of the following reasons: (i) Tenor of Deposits: Banks shall have the freedom to Banks shall have the freedom minimum tenor of NRE term deposits Withdrawn term deposits shall be seven days. (ii) Size of Deposits: offered only on bulk deposits.|Interest rates on NRE/NRO term Interest rates on NRE/NRO term deposits shall vary only on account of one or more of the following reasons: (i) Tenor of Deposits: to determine the maturity/tenor of the determine the maturity/tenor of the deposit subject to the condition that deposit subject to the condition that minimum tenor of NRE term deposits shall be one year and that of NRO shall be one year and that of NRO term deposits shall be seven days. (ii) Size of Deposits: Differential interest rate shall be Differential interest rate shall be offered only on bulk deposits. (iii) Non-availability of Premature withdrawal option: Banks shall have the freedom to offer NRE / NRO term deposits without premature withdrawal option, provided that all NRE / NRO term deposits accepted from individuals (held singly or jointly) for amount of Rupees one crore and below shall have premature-withdrawal-facility.|
+
+<!-- PAGE 4 -->
+
+## <u>Master Direction – Reserve Bank of India (Co-operative Banks – Interest Rate on</u>
+
+## <u>Deposits) Directions, 2016 dated May 12, 2016</u>
+
+|Section of MD|Existing Provisions|Amended Provisions|
+|---|---|---|
+|7 (a) (iii)|Co-operative Banks shall have the Co-operative without premature withdrawal option, singly or jointly) and Hindu Undivided Families for amount of Rupees fifteen lakh and below shall have premature-withdrawal-facility.|Banks shall have the freedom to offer term deposits freedom to offer term deposits without premature withdrawal option, Provided that all term deposits Provided that all term deposits accepted accepted from individuals (held from individuals (held singly or jointly) and Hindu Undivided Families for amount of Rupees one crore and below shall have premature-withdrawal- facility.|
+|14 (c)|deposits shall vary only on account of one or more of the following reasons: (i) Tenor of Deposits: Co-operative Banks freedom to determine the maturity/tenor of the deposit subject Withdrawn year and that of NRO term deposits shall be seven days. (ii) Size of Deposits: Differential interest rate shall be only on bulk deposits. offered only on bulk deposits.|Interest rates on NRE/NRO term Interest rates on NRE/NRO term deposits shall vary only on account of one or more of the following reasons: (i) Tenor of Deposits: shall have the Co-operative Banks shall have the freedom to determine the maturity/tenor of the deposit subject to the condition to the condition that minimum tenor that minimum tenor of NRE term of NRE term deposits shall be one deposits shall be one year and that of NRO term deposits shall be seven days. (ii) Size of Deposits: Differential interest rate shall be offered (iii) Non-availability of Premature withdrawal option: Co-operative Banks shall have the freedom to offer NRE / NRO term deposits without premature withdrawal option, provided that all NRE / NRO term deposits accepted from individuals (held singly or jointly) for amount of Rupees one crore and below shall have premature-withdrawal-facility.|

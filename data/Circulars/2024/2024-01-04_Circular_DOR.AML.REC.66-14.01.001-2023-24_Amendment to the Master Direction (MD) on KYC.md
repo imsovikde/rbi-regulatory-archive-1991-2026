@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2024_DOR_AML_REC_66_14_01_001_2023-24"
+title: "Amendment to the Master Direction (MD) on KYC"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARMDKYC553C440DC3024D14B66C6C7B5E0206FA.PDF"
+pdf_sha256: "63ed87f7c5378e018254bdc55f5bd938d9c4cdaf845e0828e1ab1e745c7b453d"
+md_sha256: "38f5a1b7c0cce2389a87376b46dd4fa3e4e69b1d981ecc1ce9d5ac48b721f5dd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:52:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-01-04_Circular_DOR.AML.REC.66-14.01.001-2023-24_Amendment%20to%20the%20Master%20Direction%20%28MD%29%20on%20KYC.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Amendment to the Master Direction (MD) on KYC
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/107 DOR.AML.REC.66/14.01.001/2023-24 January 04, 2024
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Dear Sir/Madam,
+
+## Amendment to the Master Direction (MD) on KYC
+
+Please refer to the <u>Master Direction (MD) on KYC dated February 25, 2016</u>, as amended from time to time, in terms of which Regulated Entities (REs) have to undertake Customer Due Diligence (CDD), as per the process laid out therein, for their customers.
+
+2. In the extant Direction, the definition of Politically Exposed Persons (PEPs) is provided in sub-clause (xvii) of clause (a) of Section 3 of the MD on KYC. However, in order to provide better clarity, it has been decided to include the definition of PEPs as an explanation to Section 41 of the Master Direction as under: *“Explanation: For the purpose of this Section, “Politically Exposed Persons” (PEPs) are* *individuals who are or have been entrusted with prominent public functions **by a foreign*** ***country**, including the Heads of States/Governments, senior politicians, senior* *government or judicial or military officers, senior executives of state-owned corporations*
+# Withdrawn
+
+*and important political party officials.”*
+
+3. Consequently, the sub-clause (xvii) of clause (a) of Section 3 of the above quoted Master Direction has been removed. The relevant Sections of the <u>MD on KYC</u> are hereby amended to reflect the changes as mentioned above. Yours faithfully, (Saidutta Sangram Keshari Pradhan) General Manager
+िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई -400001 टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."

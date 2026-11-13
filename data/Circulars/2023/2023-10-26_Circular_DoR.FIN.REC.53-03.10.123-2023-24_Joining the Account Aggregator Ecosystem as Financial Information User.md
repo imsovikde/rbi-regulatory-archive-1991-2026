@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2023_DoR_FIN_REC_53_03_10_123_2023-24"
+title: "Joining the Account Aggregator Ecosystem as Financial Information User"
+category: "Circulars"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI773109DABBDE4E4E27B93AB7325962E43A.PDF"
+pdf_sha256: "0fcf58e0b9b13fa030969572f100c844ccba2c867d76374c670aa2f8aa35e051"
+md_sha256: "d637a061f30f117f1aa80ee60e0484d39b56d2dd0110a9af5c5f54c20f99ba4b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:51:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-10-26_Circular_DoR.FIN.REC.53-03.10.123-2023-24_Joining%20the%20Account%20Aggregator%20Ecosystem%20as%20Financial%20Information%20User.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Joining the Account Aggregator Ecosystem as Financial Information User
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक
+
+# RESERVE BANK OF INDIA
+
+RBI/2023-24/77 DoR.FIN.REC.53/03.10.123/2023-24 October 26, 2023
+
+## All Regulated Entities of the Bank
+
+Dear Sir/ Madam,
+
+## Joining the Account Aggregator Ecosystem as Financial Information User
+
+Please refer to the <u>Master Direction – Non-Banking Financial Company - Account</u> <u>Aggregator (Reserve Bank) Directions, 2016</u>.
+
+2. It has been observed that certain entities, which are eligible to join Account Aggregator (AA) ecosystem as Financial Information Provider (FIP), have onboarded as Financial Information User (FI-U) only. Consequently, such entities are accessing financial information from other FIPs but are not providing the financial information held by them. As such, with a view to ensure efficient and optimum utilisation of the AA ecosystem, it has been decided that regulated entities of the Bank joining the AA ecosystem as FI- U shall necessarily join as FIP alsoWithdrawn, if they hold the specified financial information and fall under the definition of FIP.
+3. The <u>Master Direction – Non-Banking Financial Company - Account Aggregator</u> <u>(Reserve Bank) Directions, 2016</u>, is being modified accordingly. Yours faithfully, (R. Lakshmi Kanth Rao) Chief General Manager-in-Charge
+िविनयमन िवभाग, क द्रीय कायालय ,ितीय तल ,मु� भवन, शहीद भगत िसंह रोड ,फोट, मुंबई -400001 Department of Regulation, Central Office, 2nd Floor, Main Building, Shaheed Bhagat Road, Fort, Mumbai-400 001 Email: cgmicdor@rbi.org.in िही आसान है, इसका प्रयोग बढाइए।

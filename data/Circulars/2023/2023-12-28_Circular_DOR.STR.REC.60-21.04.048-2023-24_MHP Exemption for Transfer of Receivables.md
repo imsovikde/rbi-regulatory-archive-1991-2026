@@ -1,0 +1,33 @@
+---
+doc_id: "Circulars_2023_DOR_STR_REC_60_21_04_048_2023-24"
+title: "MHP Exemption for Transfer of Receivables"
+category: "Circulars"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARMHP340F8B2C9C9D4B8AAAEA1491DD601EB3.PDF"
+pdf_sha256: "fee3cf49ecb08d34999a22e8535f88ddedd9c313ee5c8794969f99b2a634a2c8"
+md_sha256: "32fba52da9ba92ae5cb176a63cf16cc63ca1020a71a7db68f8baaccc1a17fe3e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:52:06Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-12-28_Circular_DOR.STR.REC.60-21.04.048-2023-24_MHP%20Exemption%20for%20Transfer%20of%20Receivables.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# MHP Exemption for Transfer of Receivables
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/99 DOR.STR.REC.60/21.04.048/2023-24 December 28, 2023
+
+All Scheduled Commercial Banks (excluding Regional Rural Banks) All All-India Financial Institutions All Non-Banking Financial Companies (including Housing Finance Companies)
+
+## MHP Exemption for Transfer of Receivables
+
+Please refer to clause 39, of the <u>Master Direction – Reserve Bank of India (Transfer</u> <u>of Loan Exposures) Directions, 2021 (“MD-TLE”)</u>, regarding requirement of Minimum Holding Period (MHP) on transfer of loans.
+
+2. In order to develop secondary market operations of receivables acquired as part of ‘factoring business’ as defined under the Factoring Regulation Act, 2011, it has been decided that transfer of such receivables by eligible transferors will be exempted from MHP requirement, subject to fulfilment of the following conditions:
+i. The residual maturity of such receivables, at the time of transfer, should not beWithdrawn more than 90 days, and ii. As specified under clauses 10 and 35 of these directions, the transferee conducts proper credit appraisal of the drawee of the bill, before acquiring such receivables.
+3. Accordingly, a suitable proviso has been added to clause 39 of MD-TLE, through amendment dated December 28, 2023.
+4. All other provisions of the MD-TLE shall continue to be applicable, as hitherto. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager
