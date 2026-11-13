@@ -1,0 +1,53 @@
+---
+doc_id: "Notifications_2021_12197"
+title: "Regulations Review Authority (RRA) 2.0 – Interim Recommendations – Withdrawal of Redundant Circulars"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1281BAFC7046645434CA771EB74A775A08D.PDF"
+pdf_sha256: "2114c4771dc6cfd2e9394519ac137f8d3ed089aea4081855355deed23c933dc7"
+md_sha256: "a1b515ec69ea1fad4f417736059223ad32c9bec8c1edb70584a80e56841a931d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-11-16_Notification_12197_Regulations%20Review%20Authority%20%28RRA%29%202.0%20%E2%80%93%20Interim%20Recommendations%20%E2%80%93%20Withdrawal%20of%20Redundant%20Circulars.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulations Review Authority (RRA) 2.0 – Interim Recommendations – Withdrawal of Redundant Circulars
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+# RESERVE BANK OF INDIA
+
+RBI/2021-22/128 DoR.RRA.69/01.01.101/2021-22 November 16, 2021 All Scheduled Commercial Banks All Payments Banks All Small Finance Banks All Local Area Banks Madam/Dear Sir **Regulations Review Authority (RRA) 2.0 – Interim Recommendations –** **Withdrawal of Redundant Circulars** Please refer to the <u>Press Release dated November 16, 2021</u> issued on the captioned subject.
+
+2. The circulars listed in the <u>Annex</u> are withdrawn with effect from close of business today. Yours faithfully (Neeraj Nigam) Chief General Manager-in-Charge Encl: As above
+
+<!-- PAGE 2 -->
+
+## Annex
+
+|S. No.|Circular No|Date|
+|---|---|---|
+|1|DBOD.No.Ret.294/C.110-67|November 28,1969|
+|2|DBOD.No.Ret.BC.138/C.254-76|December 01,1976|
+|3|DBOD.No.BL.BC.9/C.555 (A)-80|January 09,1980|
+|4|DBOD.No.FOL.BC.103/C.249-82|November 08,1982|
+|5|DBOD.No.Ret.BC.109/C.254-82|November 27,1982|
+|6|DBOD.No.Fol.1246(A)/C.249-93|October 24,1983|
+|7|DBOD.No.GC.SIC.BC.115/C.739(A-1)-84|December 03,1984|
+|8|DBOD.No.Fol.BC.27/C.249-87|September 02,1987|
+|9|DBOD.No.Ret.BC.64/C.254-87|November 24,1987|
+|10|DBOD.No.Ret.BC.68/C.254-89|February 02,1989|
+|11|DBOD.No.Ret.BC.22/C.254-90|September 27,1990|
+|12|DBOD.No.Rabha.1722/C.486/53-91|June 29, 1991|
+|13|DBOD.No.Rabha.240/C.486 (53)-91|October 24, 1991|
+|14|DBOD.No.Rabha.BC.65/C.486(53)-91|December 27, 1991|
+|15|DBOD.No.BC.122/06.02.06/92|April 23, 1992|
+|16|DBOD.No. BC.27/06.02.01/94|March 8,1994|
+|17|DBOD.No. BC.286/06.02.01/95|January 30,1995|
+|18|DBOD.No.BC.61/12.05.001/94-95|May 29,1995|

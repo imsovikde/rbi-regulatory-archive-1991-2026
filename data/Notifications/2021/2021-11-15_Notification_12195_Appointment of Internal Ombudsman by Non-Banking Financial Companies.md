@@ -1,0 +1,147 @@
+---
+doc_id: "Notifications_2021_12195"
+title: "Appointment of Internal Ombudsman by Non-Banking Financial Companies"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/126IONBFCS852DBFB906C04020BFFFBF9C6DB5D6FD.PDF"
+pdf_sha256: "94ea64d33514f34493889e284a5982bbf3c35d78811e4501fdbaf037c21b7181"
+md_sha256: "87507f7d8523fc98c98bc5a4775a5f534f81d05c8219224c3557be91807d8105"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-11-15_Notification_12195_Appointment%20of%20Internal%20Ombudsman%20by%20Non-Banking%20Financial%20Companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Appointment of Internal Ombudsman by Non-Banking Financial Companies
+
+<!-- PAGE 1 -->
+
+RBI/2021-2022/126 CO.CEPD.PRS.No.S874/13-01-008/2021-2022 November 15, 2021
+
+The Chairman/Managing Director & CEO
+
+a) NBFCs-D with 10 or more branches, and
+b) NBFCs-ND with asset size of Rs 5,000 crore and above (excluding NBFCs given in para 3 of this direction)
+Madam/Dear Sir,
+
+## Appointment of Internal Ombudsman by Non-Banking Financial Companies
+
+In exercise of the powers conferred by Section 45 (L) read with 45 (M) of the Reserve Bank of India Act, 1934, Reserve Bank of India (RBI) being satisfied that it is in public interest and in the interest of conduct of business relating to Non-Banking Financial Companies (NBFCs), directs NBFCs registered with RBI under Section 45-IA of the RBI Act, 1934, fulfilling the criteria given below, to appoint an Internal Ombudsman (IO).
+
+**2.** NBFCs fulfilling the following criteria as on date would be required to appoint the IO:
+a) Deposit-taking NBFCs (NBFCs-D) with 10 or more branches.
+b) Non-Deposit taking NBFCs (NBFCs-ND) with asset size of Rs.5,000 crore and above and having public customer interface.
+**3**. The following types of NBFCs will be excluded from the applicability of this direction:
+a) Stand-alone Primary Dealer;
+b) Non-Banking Financial Company-Infrastructure Finance Company (NBFC-IFC);
+c) Core Investment Company (CIC);
+d) Infrastructure Debt Fund-Non-Banking Financial Company (IDF-NBFC);
+e) Non-Banking Financial Company – Account Aggregator (NBFC-AA);
+f) NBFC under Corporate Insolvency Resolution Process;
+g) NBFC in liquidation;
+h) NBFC having only captive customers.
+**उपभोा िश�ण और संर�ण िवभाग, क द्र ी य कायालय, पहली मंिजल,अमर िबंग,सर पी.एम.रोड,फोट,मुई - 400 001** Consumer Education and Protection Department, Central Office, 1st Floor, Amar Building, Sir P.M.Road, Fort, Mumbai - 400 001 टेिलफोन /Tel No: 91-22-22603000/22604000 फै � /Fax No: 91-22-22631744 **– बक िहंदी म पत्राचार का �ागत करता है –**
+
+<!-- PAGE 2 -->
+
+**4**. An NBFC shall be required to comply with the provisions of this direction as follows:
+a) NBFC fulfilling the criteria (para 2 above) as on date-within six months;
+b) NBFC fulfilling the criteria post issue of this direction and NBFC commencing operations after the issue of this direction – within six months of attaining the specified criteria, as may be applicable.
+**5.** Any NBFC which is covered by this direction shall continue to have an IO for a period of three years after the company falls below the thresholds (para 2 above). If the term of the incumbent IO ends before this three-year period, the NBFC, with the prior approval of RBI, may not appoint another IO.
+**6.** <u>Appointment of the IO</u>:
+a) The person to be appointed as IO shall fulfil the following prerequisites:
+(i) The person shall be either a retired or a serving officer, not below the rank of Deputy General Manager or equivalent in any financial sector regulatory body/any other NBFC/bank, with necessary skills and experience of minimum of seven years of working in areas such as non-banking finance, banking, financial sector regulation or supervision, or consumer protection. (ii) The person shall not have worked/be working in the NBFC/companies in the Group¹ to which the NBFC belongs in which he/she is being appointed as IO. (iii) The person appointed as IO shall not be above the age of 70 years at any point of time during the tenure as IO.
+(b) The NBFC may appoint more than one IO depending on the number of complaints received/branch network. In such a case, the NBFC shall define the jurisdiction of each IO.
+(c) The Principal Nodal Officer/Nodal Officer, liaising with the offices of RBI Ombudsman, or any other official of the NBFC, shall not act as the IO or vice versa.
+**7.** <u>Tenure of the IO</u>: The tenure of the IO shall be for a fixed term of not less than three years, but not exceeding five years and the same shall be indicated in the appointment letter*.* The IO shall not be eligible for reappointment or for extension of tenure in the same NBFC.
+a) The NBFC shall undertake the process of fresh appointment well in advance to fill the vacancy before the expiry of the tenure of the incumbent IO and ensure that the post of the IO does not remain vacant at any point of time. 1 As defined in para 3(vi) of <u>Master Direction-Non-Banking Financial Company-Systemically Important Non-</u> <u>Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016 dated September 01,</u>.
+
+<!-- PAGE 3 -->
+
+b) The IO shall not be removed before the completion of the contracted term without the explicit approval of the Reserve Bank. In case the vacancy arises on account of reasons beyond the control of the NBFC (such as death, resignation, incapacitation, terminal illness, etc.), the NBFC shall appoint a new IO by following the procedure of appointment as indicated at para 6 of this direction, within three months from the date of the vacancy arising.
+**8.** <u>Secretariat and cost of the office of the IO</u>: The NBFC shall depute such number of its officers and/or other staff and make available such infrastructure to the office of the IO as may be considered necessary for its effective functioning.
+a) The Board of the NBFC shall fix the emoluments/facilities/benefits of the IO, which should be appropriate keeping in view the stature and position of the IO being at the apex of the grievance redress mechanism of the NBFC, and the need to attract experienced persons with requisite expertise.
+b) The emoluments/facilities/benefits of the IO, once determined, shall not be changed during the currency of his/her tenure.
+**9.** <u>Role and responsibilities of the IO</u>**:** The IO shall deal only with the complaints that have already been examined by the NBFC but have been partly or wholly rejected by the NBFC. In other words, the IO shall not handle complaints received directly from the customers or members of the public.
+a) The following types of complaints shall be outside the purview of this direction and shall not be handled by the IO:
+(i) Complaints related to frauds, misappropriation etc., except those resulting from deficiency in service, if any, on the part of the NBFC; (ii) Complaints/references relating to (a) internal administration, (b) human resources, (c) pay and emoluments of staff; (iii) References in the nature of suggestions and commercial decisions of the NBFC; (iv) Complaints which have been decided by or are already pending in other fora such as Consumer Disputes Redressal Commission, courts, etc.
+b) The complaints that are outside the purview of this direction shall be immediately referred back to the NBFC by the IO.
+c) The IO shall examine the complaints based on records available with the NBFC, including any documents submitted by the complainant, and comments/clarifications furnished by the NBFC to the specific queries of the IO. The IO may seek additional information from the complainant through the NBFC.
+d) The NBFC shall furnish all records/documents sought by the IO to enable expeditious redress/resolution of customer grievances.
+
+<!-- PAGE 4 -->
+
+e) The IO may hold meetings with the concerned functionaries/departments of the NBFC and seek any record/document available with the NBFC that is necessary for examining the complaint/decision.
+f) The IO shall periodically analyse the pattern of all complaints received against the NBFC, such as product-wise, category-wise, consumer group-wise, geographical location-wise, etc. and provide inputs to the NBFC for policy intervention, if any.
+g) The IO shall not represent the NBFC in legal cases before any court or fora or authority.
+h) The IO shall report to the Managing Director/Chief Executive Officer of the NBFC administratively, and to the Board functionally.
+**10.** <u>Procedural guidelines for NBFCs regarding complaints referred to the IO by the</u> <u>NBFC</u>: The NBFC shall formulate a Standard Operating Procedure approved by its Board and establish a system of auto-escalation of all complaints that are partly or wholly rejected by the NBFC’s internal grievance redress mechanism to the IO for a final decision.
+a) The NBFC shall internally escalate all such complaints to the IO within a period of three weeks from the date of receipt of the complaint. The IO and the NBFC shall ensure that the final decision is communicated to the complainant within 30 days from the date of receipt of the complaint by the NBFC.
+b) In case the NBFC has a complaint management software, it shall provide to the IO *read-only* access to the system and enable uploading of the decision of the IO.
+c) The IO shall also have *read-only* access to the Reserve Bank’s Complaint Management System to enable the IO to keep track of: (a) the cases forwarded by the offices of RBI Ombudsmen, (b) decisions of the RBI Ombudsmen, and (c) where applicable, the decision of the Appellate Authority under the RBI Ombudsman scheme.
+d) The decision of the IO shall be binding on the NBFC, except in cases where the NBFC has obtained approval for disagreeing with the IO’s decision as stated in sub- para 10 (f).
+e) In case the IO upholds the decision of the NBFC to reject/partly reject the complaint, the reply to the customer should explicitly state the fact that the complaint has been examined by the IO and, for the reasons stated in the reply, the decision of the NBFC has been upheld.
+f) In case the IO overrules the decision of the NBFC to reject/partly reject the complaint, the NBFC can disagree with the decision of the IO with the approval of the Executive Director/Managing Director/Chief Executive Officer as may be applicable. In such cases, the reply to the complainant shall explicitly state the fact that the complaint was examined by the IO and the decision of the NBFC was overruled by the
+
+<!-- PAGE 5 -->
+
+IO in favour of the complainant; however, the NBFC, with the approval of the Managing Director/Chief Executive Officer, has disagreed with the decision of the IO. All such cases shall be subsequently reviewed on a quarterly basis by the Board of the NBFC.
+
+g) In case of complaints that are fully or partly rejected even after examination by the IO, the NBFC shall necessarily advise to the complainant as part of the reply that he/she can approach the RBI Ombudsman for redress (if the complaint falls under the RBI Ombudsman mechanism) along with complete details. The advice should include the link to Reserve Bank’s portal (<u>cms.rbi.org.in</u>) for online filing of customer complaints.
+h) The NBFC shall use the analysis of complaints handled by the IO in their training programmes/conferences to raise awareness among the frontline staff about, *inter-* *alia,* the pattern of complaints being received in the NBFC, their root causes, remedial measures and expected action on the part of frontline staff. The IO may also be associated with such trainings, where necessary.
+i) While assessing the performance of the IO, in addition to the level of pendency etc., the NBFC shall also consider the number of cases where substantive differences were observed between the decisions of the IO *vis-à-vis* those given by the RBI Ombudsman subsequently.
+j) The NBFC shall disseminate the guidelines/instructions regarding the role of the IO among its staff while communicating the appointment of the IO in the organization (all branches and administrative offices).
+k) The NBFC shall not provide the contact details of the IO in the public domain as the IO shall not handle complaints received directly from the customers.
+l) The decision of the IO shall mandatorily be included in the information submitted by the NBFC to the office of the RBI Ombudsman while replying to/furnishing documents to the office of the RBI Ombudsman.
+m) If the opinion of the IO is not available with the NBFC when the complainant approaches the RBI Ombudsman, the NBFC should obtain the views of the IO and include the same in its submission to the office of the RBI Ombudsman.
+n) The IO shall function from the Head/Corporate Office of the NBFC.
+**11**. <u>Reporting to RBI</u>: The NBFC shall put in place a system of periodic reporting of information to Reserve Bank as indicated below:
+a) On a quarterly basis, the total number of complaints received, the number of partly or wholly rejected complaints and the number of complaints escalated to the IO, within 15 days from the end of the quarter;
+
+<!-- PAGE 6 -->
+
+b) On an annual basis:
+(i) the number of cases where the decision of IO has been rejected (with the approval of Managing Director/Chief Executive Officer), to be submitted by April 15; and (ii) the number of cases closed by the IO, and age-wise number of cases where the NBFC was yet to implement the decision of the IO, to be submitted by April
+15.
+The reporting format is given in <u>Annex</u>.
+
+c) The NBFC shall, within five working days of appointment of the IO, furnish the details of the IO to the Chief General Manager, Consumer Education and Protection Department, Reserve Bank of India, Central Office, 1
+st Floor, Amar Building, Sir P M Road, Mumbai - 400 001 (email: <u>cgmcepd@rbi.org.in</u>) in the following format:
+
+(i) Name of the Internal Ombudsman; (ii) Details of the last position held/organization name; (iii) Date and period of appointment; (iv) Brief professional profile, including previous exposure to financial services; and
+(v) Contact details, i.e., address, phone/fax numbers, email address, etc.
+**12**. <u>Board Oversight</u>: The IO shall furnish periodic reports to the Board of the NBFC as may be specified by it, preferably at quarterly intervals, but not less than bi-annually.
+**13.** Audit: The internal audit of the NBFC shall cover the implementation of this direction.
+a) The audit shall, *inter-alia*, cover aspects relating to:
+(i) the infrastructure (space, IT infrastructure, human resources, etc.) provided to the IO; (ii) adherence with various timelines indicated in the direction; (iii) support provided by the NBFC to the IO for redress of the complaint; (refer para 9 (c) and (d))
+b) The scope of the internal audit shall exclude any assessment of the correctness of decisions taken by the IO.
+**14**. <u>Supervisory Oversight</u>: The areas relating to customer service and customer grievance redress, as well as the implementation of this direction, shall be a part of the risk assessment and supervisory review undertaken by the Reserve Bank. Further, Reserve Bank will review the cases where the decision of the IO has not been accepted by the NBFC and the aggrieved customer approaches the RBI Ombudsman, for assessing the effectiveness of the internal grievance redress mechanism of the NBFC and initiating corrective actions as it may deem fit. Yours faithfully, (Ranjana Sahajwala) Chief General Manager
+
+<!-- PAGE 7 -->
+
+## Annex
+
+## Report to the Consumer Education and Protection Department
+
+## Reserve Bank of India
+
+(refer to para 11)
+
+## Office of the Internal Ombudsman (IO)
+
+## Name of the NBFC
+
+## Report for the quarter ended:
+
+Number of complaints received Number of complaints rejected Number of complaints referred <u>by the NBFC during the quarter</u> (Partly or Wholly) by the NBFC to the IO
+
+## Report for the year ended:
+
+|Number of complaint s referred by the NBFC to the IO during the year|Number of complaint by the IO|Number of complaint s closed s where s wherein the decision of the NBFC was not rejected* upheld by the IO|Number of complaint the decision of the IO was|decisions of the IO implemente d by the mont NBFC|for|Number of Number of decisions of the IO yet|to be implemented by the NBFC||
+|---|---|---|---|---|---|---|---|---|
+||||||1 h|2 month s|3 month s|More than 3 month s|
+
+*with the approval of the Managing Director/Chief Executive Officer

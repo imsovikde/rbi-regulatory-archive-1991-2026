@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2021_12204"
+title: "External Commercial Borrowings (ECB) and Trade Credits (TC) Policy – Changes due to LIBOR transition"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR1359BBB85EB5DBF49DDBE2E5BACC25A7358.PDF"
+pdf_sha256: "a17baf221fb59fac719fda1c21446e9cf507961cc0791f39f93f61dddc9d5305"
+md_sha256: "7597d2d1bd63625191f34c0dec85d408202f153522ad04ae83f3b9d35768ff20"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-12-08_Notification_12204_External%20Commercial%20Borrowings%20%28ECB%29%20and%20Trade%20Credits%20%28TC%29%20Policy%20%E2%80%93%20Changes%20due%20to%20LIBOR%20transition.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# External Commercial Borrowings (ECB) and Trade Credits (TC) Policy – Changes due to LIBOR transition
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+# <u>RESERVE BANK OF INDIA</u>
+
+RBI/2021-22/135
+
+A.P. (DIR Series) Circular No. 19
+December 08, 2021 To
+
+### All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+### External Commercial Borrowings (ECB) and Trade Credits (TC) Policy – Changes due to LIBOR transition
+
+Please refer to paragraph 3 of the <u>Governor’s Statement on Developmental and</u> <u>Regulatory Policies dated December 08, 2021</u>. In this connection, attention of Authorised Dealer Category-I (AD Category-I) banks is invited to paragraph 1.5, 2.1.vi. and 14.vi. of the of <u>Master Direction No.5 dated March 26, 2019</u>, on “External Commercial Borrowings, Trade Credits and Structured Obligations”, prescribing the benchmark rates and the maximum spread over benchmark for calculating the all-in-cost for foreign currency (FCY) ECBs and TCs.
+
+2. In view of the imminent discontinuance of LIBOR as a benchmark rate, it has been decided, in consultation with stakeholders, to make the following changes to the all-in- cost benchmark and ceiling for FCY ECBs/ TCs:
+i. **Redefining Benchmark Rate for FCY ECBs and TCs**: Currently, the benchmark rate is defined in paragraph 1.5 of the master direction as “benchmark rate in case of FCY ECB/TC refers to 6-months LIBOR rate of different currencies or any other 6-month interbank interest rate applicable to the currency of borrowing, e.g., EURIBOR”. Henceforth, benchmark rate in case of FCY ECB/TC shall refer to any widely accepted interbank rate or alternative reference rate (ARR) of 6-month tenor, applicable to the currency of borrowing.
+
+<!-- PAGE 2 -->
+
+ii. **Change in all-in-cost ceiling for new ECBs/ TCs:** To take into account differences in credit risk and term premia between LIBOR and the ARRs**,** the all- in-cost ceiling for new FCY ECBs and TCs has been increased by 50 bps to 500 bps and 300 bps, respectively, over the benchmark rates. iii. **One Time Adjustment in all-in-cost ceiling for existing ECBs/ TCs:** To enable smooth transition of existing ECBs/ TCs linked to LIBOR whose benchmarks are changed to ARRs, the all-in cost ceiling for such ECBs/ TCs has been revised upwards by 100 basis points to 550 bps and 350 bps, respectively, over the ARR. AD Category-I banks must ensure that any such revision in ceiling is only on account of transition from LIBOR to alternative benchmarks.
+
+3. There is no change in the all-in-cost benchmark and ceiling for INR ECBs/ TCs.
+4. All other provisions of the ECB/ TC policy remain unchanged. AD Category-I banks should bring the contents of this circular to the notice of their constituents/ customers.
+5. The <u>Master Direction No. 5 dated March 26, 2019</u>, is being updated to reflect the changes.
+6. The directions contained in this circular have been issued under section 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+## Yours faithfully
+
+Ajay Kumar Misra Chief General Manager-in-Charge

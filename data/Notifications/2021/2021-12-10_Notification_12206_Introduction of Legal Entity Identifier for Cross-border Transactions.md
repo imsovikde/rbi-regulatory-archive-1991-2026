@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2021_12206"
+title: "Introduction of Legal Entity Identifier for Cross-border Transactions"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT1375CB7650223C74E4EA18E95F06C242143.PDF"
+pdf_sha256: "5858b29844011b1e5ff078199f4565b4dfb83b5f0449fe1d82781cf8ff80c454"
+md_sha256: "1d3a9860b36676d336044e7856a78b010336fcab7f63e9324fc7bdb52d1d389a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-12-10_Notification_12206_Introduction%20of%20Legal%20Entity%20Identifier%20for%20Cross-border%20Transactions.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Introduction of Legal Entity Identifier for Cross-border Transactions
+
+<!-- PAGE 1 -->
+
+<u>www.rbi.org.in</u>
+
+RBI/2021-22/137
+
+A.P. (DIR Series) Circular No. 20 December 10, 2021 To
+## All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Introduction of Legal Entity Identifier for Cross-border Transactions
+
+The Legal Entity Identifier (LEI) is a 20-digit number used to uniquely identify parties to financial transactions worldwide to improve the quality and accuracy of financial data systems. LEI has been introduced by the Reserve Bank in a phased manner for participants in the over the counter (OTC) derivative, non-derivative markets, large corporate borrowers and large value transactions in centralised payment systems.
+
+2. In order to further harness the benefits of LEI, it has been decided that AD Category I banks, with effect from October 1, 2022, shall obtain the LEI number from the resident entities (non-individuals) undertaking capital or current account transactions of ₹50 crore and above (per transaction) under FEMA, 1999. As regards non-resident counterparts/ overseas entities, in case of non-availability of LEI information, AD Category I banks may process the transactions to avoid disruptions. Further, AD Category I banks may encourage concerned entities to voluntarily furnish LEI while undertaking transactions even before October 1, 2022. Once an entity has obtained an LEI number, it must be reported in all transactions of that entity, irrespective of transaction size.
+3. AD Category-I banks shall have the required systems in place to capture the LEI information and ensure that any LEI captured is validated against the global LEI database available on the website of the Global Legal Entity Identifier Foundation (GLEIF).
+4. AD banks may bring the contents of this circular to the notice of their constituents concerned and advise entities who undertake large value transactions (₹50 crore and above) under FEMA, 1999 to obtain LEI in time, if they do not already have one issued.
+
+<!-- PAGE 2 -->
+
+||5. Entities can obtain LEI from any of the Local Operating Units (LOUs) accredited by the|
+|---|---|
+||GLEIF, the body tasked to support the implementation and use of LEI. In India, LEI can|
+|be obtained from Legal Entity Identifier India Ltd. (LEIL) (|[https://www.ccilindia-lei.co.in](https://www.ccilindia-lei.co.in)), which is also recognised as an issuer of LEI by the Reserve Bank under the Payment and Settlement Systems Act, 2007. The rules, procedures and documentation requirements|
+|may be ascertained from LEIL.||
+
+6. The directions contained in this circular are being issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+## Yours faithfully
+
+Ajay Kumar Misra Chief General Manager-in-Charge

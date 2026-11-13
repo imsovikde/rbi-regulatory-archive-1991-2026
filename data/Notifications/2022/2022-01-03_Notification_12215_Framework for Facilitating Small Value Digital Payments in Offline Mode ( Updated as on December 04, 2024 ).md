@@ -1,0 +1,59 @@
+---
+doc_id: "Notifications_2022_12215"
+title: "Framework for Facilitating Small Value Digital Payments in Offline Mode ( Updated as on December 04, 2024 )"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT14627B03F0BACF841CBABF21F2A00CD439F.PDF"
+pdf_sha256: "81b639b82e7d102f7bebf3d3f68c0c9a2962f61b497c379043a96dcb7dceaf3b"
+md_sha256: "cd905da9efd29d4117cc8acce5e177323a59ad779a774d25314a511219804ded"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-01-03_Notification_12215_Framework%20for%20Facilitating%20Small%20Value%20Digital%20Payments%20in%20Offline%20Mode%20%28%20Updated%20as%20on%20December%2004%2C%202024%20%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Framework for Facilitating Small Value Digital Payments in Offline Mode ( Updated as on December 04, 2024 )
+
+<!-- PAGE 1 -->
+
+RBI/2021-22/146 CO.DPSS.POLC.No.S1264/02-14-003/2021-2022 January 03, 2022 (Updated as on December 04, 2024) (Updated as on August 24, 2023)
+
+The Chairman / Managing Director / Chief Executive Officer Authorised Payment System Operators and Participants (Banks and Non-banks)
+
+Madam / Dear Sir,
+
+## Framework for Facilitating Small Value Digital Payments in Offline Mode
+
+Reserve Bank had, vide <u>circular dated August 06, 2020</u>, permitted a pilot scheme to encourage technological innovations that enable small value digital transactions in offline mode. It was stated therein that the decision on formalising such a system would be based on the experience gained.
+
+2. Pilot testing was undertaken by some entities during the period from September 2020 to July 2021. With encouraging feedback from the pilots, it was announced in the <u>Statement on</u> <u>Developmental and Regulatory policies dated October 08, 2021</u>, that a framework for carrying out small value digital payments in offline mode across the country would be introduced.
+3. Accordingly, the framework to enable small value digital payments in offline mode using cards, wallets, mobile devices, etc., is detailed in <u>Annex</u>. Authorised Payment System Operators (PSOs) and Payment System Participants (PSPs) – Acquirers and Issuers (banks and non-banks)
+- shall ensure compliance with all the applicable instructions.
+4. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007) and shall come into effect immediately. Yours faithfully, (P Vasudevan) <u>Chief General Manager</u>
+भुगतान और िनपटान �णाली िवभाग, क ीयकायार्लय, 14वीमंिजल, क ीयकायार्लयभवन,शहीदभगतसंहमागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फ ै क् स Fax: (91-22) 22691557; ई-मेलe-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central Office, 14thFloor, Central Office Building, ShahidBhagat Singh Road, Fort, Mumbai - 400001 हंदी आसानहै, इसकायोगबढ़ाइए
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## CO.DPSS.POLC.No.S1264/02-14-003/2021-2022 dated January 03, 2022
+
+An offline payment means a transaction which does not require internet or telecom connectivity to take effect. Authorised Payment System Operators (PSOs) and Payment System Participants (PSPs) – Acquirers and Issuers (banks and non-banks) – desirous to provide / enable payment solutions that facilitate small value digital payments in offline mode shall comply with the following requirements:
+
+i. Offline payments may be made using any channel or instrument like cards, wallets, mobile devices, etc. ii. Offline payments shall be made in proximity (face to face) mode only. iii. Offline payment transactions may be offered without Additional Factor of Authentication (AFA).
+iv. Payment instruments shall be enabled for offline transactions based on explicit consent of the customer. Such transactions using cards shall be allowed without a requirement to switch on the contactless transaction channel, in relaxation of terms of DPSS <u>circular no.</u> <u>DPSS.CO.PD no.1343/02.14.003/2019-20 dated January 15, 2020</u>nhancing Security on E of Card Transactions.
+
+v. The upper limit of an offline payment transaction shall be ₹500. The total limit for offline transactions on a payment instrument shall be ₹2,000 at any point in time. For UPI Lite¹, the enhanced limits shall be ₹1,000 per transaction with ₹5,000 being the total limit. Replenishment of used limit shall be allowed only in online mode with AFA. vi. The issuer shall send transaction alerts to users as soon as transaction details are received. There is no compulsion to send alert for each transaction; however, details of each transaction shall be adequately conveyed. vii. The acquirer shall incur all liabilities arising out of technical or transaction security issues at merchant’s end.
+viii. Offline payments shall be covered under the provisions of RBI’s limited customer liability circulars (as amended from time to time) -<u>DBR.No.Leg.BC.78/09.07.005/2017-18 dated</u> <u>July 06, 2017</u>; <u>DCBR.BPD.(PCB/RCB).Cir.No.06/12.05.001/2017-18 dated December 14,</u> <u>2017</u> and para 17 of <u>Master Direction on Prepaid Payment Instruments dated August 27,</u>
+
+<u>2021</u>.
+UPI Lite transaction is offline to the extent that AFA is not required, and transaction alerts not sent in real time.
+
+<!-- PAGE 3 -->
+
+ix. The customers shall have recourse to the <u>Reserve Bank – Integrated Ombudsman</u> <u>Scheme</u>, as applicable, for grievance redressal.
+
+x. Reserve Bank retains the right to stop or modify the operations of any such payment solution that enables small value digital payments in offline mode. -----------------------------×-----------------------------------------------------×-------------------------------------

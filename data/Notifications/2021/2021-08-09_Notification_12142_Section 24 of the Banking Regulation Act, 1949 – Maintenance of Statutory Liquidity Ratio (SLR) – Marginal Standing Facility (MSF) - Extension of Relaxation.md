@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2021_12142"
+title: "Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio (SLR) – Marginal Standing Facility (MSF) - Extension of Relaxation"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MSFA7C93499E3BD4C82856FB9BF79B97FDF.PDF"
+pdf_sha256: "d2ed0287d6b9701c524e2b21a0ff78f714e1585935a92aad672b0a364abbdb54"
+md_sha256: "9d8020597befb7aed8e550baecd1d806b65713da79354a1806cfb70ad533d559"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-08-09_Notification_12142_Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%E2%80%93%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20%E2%80%93%20Marginal%20Standing%20Facility%20%28MSF%29%20-%20Extension%20of%20Relaxation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio (SLR) – Marginal Standing Facility (MSF) - Extension of Relaxation
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक
+
+## ______________________RESERVE BANK OF INDIA ______________________ <u>www.rbi.org.in</u>
+
+RBI/2021-22/82 DOR.RET.REC.36/12.01.001/2021-22 August 09, 2021
+
+## All Scheduled Banks
+
+Madam/Sir
+
+## Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity
+
+## Ratio (SLR) – Marginal Standing Facility (MSF) - Extension of Relaxation
+
+Please refer to <u>circular DOR.No.Ret.BC.36/12.01.001/2020-21 dated February 05, 2021</u>, on Marginal Standing Facility (MSF), wherein the banks were allowed to avail of funds under the MSF by dipping into the Statutory Liquidity Ratio (SLR) up to an additional one per cent of their net demand and time liabilities (NDTL), i.e., cumulatively up to three per cent of NDTL. This facility, which was initially available up to June 30, 2020, was later extended in phases up to September 30, 2021, providing comfort to banks on their liquidity requirements and also to enable them to meet their Liquidity Coverage Ratio (LCR) requirements.
+
+2. As announced in the <u>Statement on Developmental and Regulatory Policies of August 06</u>, <u>2021</u>, with a view to providing comfort to banks on their liquidity requirements, banks are allowed to continue with the MSF relaxation for a further period of three months, i.e., up to December 31, 2021.
+## Yours faithfully
+
+(Thomas Mathew) Chief General Manager
+
+**___________________________________________________________________________________________________________________** िविनयमन िवभाग, क द्र ी य कायालय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, फोट, मुंबई 400001 टेलीफ़ोन /Tel No: 22661602/2260100 फै � / Fax No.: 022-22705691 Department of Regulation, Central Office, 5th floor, Amar Building, Sir P.M. Road, Fort, Mumbai – 400001. िही आसान है, इसका प्रयोग बढाइये

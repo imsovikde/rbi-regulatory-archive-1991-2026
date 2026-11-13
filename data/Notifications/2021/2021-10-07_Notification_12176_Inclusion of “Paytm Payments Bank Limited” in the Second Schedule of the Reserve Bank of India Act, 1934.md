@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2021_12176"
+title: "Inclusion of “Paytm Payments Bank Limited” in the Second Schedule of the Reserve Bank of India Act, 1934"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT109F9B7531E7DB449C7AD33EB50D3BA6DF5.PDF"
+pdf_sha256: "93e2b659127ec832f0a41255f61f14f3bac71d1354823ccecc163cf7f14da47f"
+md_sha256: "811acf341616a67cc2a6928618edbf7804b25fa6621a34007609c68b83560c1f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-10-07_Notification_12176_Inclusion%20of%20%E2%80%9CPaytm%20Payments%20Bank%20Limited%E2%80%9D%20in%20the%20Second%20Schedule%20of%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion of “Paytm Payments Bank Limited” in the Second Schedule of the Reserve Bank of India Act, 1934
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक
+
+## ______________________RESERVE BANK OF INDIA ______________________ <u>www.rbi.org.in</u>
+
+RBI/2021-22/109 DOR.RET.REC.58/12.07.160/2021-22 October 07, 2021
+
+## All Scheduled Commercial Banks
+
+Madam/Sir
+
+## Inclusion of “Paytm Payments Bank Limited” in the Second Schedule of the Reserve
+
+## Bank of India Act, 1934
+
+We advise that “Paytm Payments Bank Limited” has been included in the Second Schedule to the Reserve Bank of India Act, 1934 vide notification DoR.LIC.No.S926/16.03.006/2021- 22 dated September 06, 2021 and published in the Gazette of India (Part III-Section 4) dated October 02-October 08, 2021.
+
+## Yours faithfully
+
+(Sibo Nekhini) General Manager
+
+___________________________________________________________________________________________________________________ िविनयमन िवभाग, क द्र ी य कायालय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, फोट, मुंबई 400001 टेलीफ़ोन /Tel No: 22661602/2260100 फै � / Fax No.: 022-22705691 Department of Regulation, Central Office, 5th floor, Amar Building, Sir P.M. Road, Fort, Mumbai – 400001. िही आसान है, इसका प्रयोग बढाइये

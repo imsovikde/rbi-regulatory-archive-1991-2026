@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2021_12135"
+title: "Maintenance of State Government Accounts – Recovery of Interest on Excess put through/ Double claim (State Government Transactions)"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT75244D38E4172B49DAAFBA76940F2ED18D.PDF"
+pdf_sha256: "98b64855cae6e591571f5d5c200ae21c6bd7f10606f236742390f56dcd431ba8"
+md_sha256: "c05f85c044a5c77b4c5dbb214cfba32eb3e79bd594657a651f57f0223bf5ce11"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-08-02_Notification_12135_Maintenance%20of%20State%20Government%20Accounts%20%E2%80%93%20Recovery%20of%20Interest%20on%20Excess%20put%20through-%20Double%20claim%20%28State%20Government%20Transactions%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Maintenance of State Government Accounts – Recovery of Interest on Excess put through/ Double claim (State Government Transactions)
+
+<!-- PAGE 1 -->
+
+भारतीय रज़वर् बक **_________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u> RBI/2021-22/75 DGBA.GBD.No.S391/42.01.011/2021-22 August 02, 2021
+
+The Chairman and Managing Directors/ Managing Director/ CEO All Agency Banks Dear Sir / Madam **Maintenance of State Government Accounts – Recovery of Interest on Excess put** **through/ Double claim (State Government Transactions)**
+
+Please refer to our <u>circular RBI/2007/291 DGBA.GAD.No.H-14061/31.04.008/2006-07</u> <u>dated March 21, 2007</u> vide which partial modifications were done in the para 5.11 of the "Memorandum of Instructions on Accounting and Reconciliation of State Government Transactions".
+
+2. (a) With a view to ensure prompt/immediate refund/credit to the government account in the cases of excess put through/ double claim in the payment scrolls by the agency banks, it has been decided in consultation with the O/o Comptroller and Auditor General of India (C&AG) that penal interest for excess put through/ double claim amount may be levied by State Government as in the case of delayed credit of receipts.
+(b).The penal interest period for such double claim/excess put through may start from the date on which the agency bank has received the excess put through / double claim amount and upto previous date to actual date of return of such excess put through / double claim amount by agency banks to concerned state government account (excluding the date of return of such excess payment/double claim amount by the agency banks to government account(s)).
+(c) The rate of penal interest is Bank rate plus 2%. (The Bank Rate will be the rate notified by the RBI from time to time as applicable at the time of transaction).
+3. These instructions will come into effect from date of issuance of this circular. The procedure for claiming/ recovering of delayed period interest will remain unchanged and it will be charged irrespective of the amount involved in such excess put through /double claim by agency banks. सरकारी एवं बक लेखा िवभाग, के न्�ीय कायार्लय, मुंबई स��ल रेलवे स्टेशन के सामने, चौथी मंिजल,भायखला, मुंबई -400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station,4thFloor, Byculla, Mumbai - 400 008 Telephone: (022) 23016214,(022)23001670 Fax No. (022) 2300 8764/23009126/2301 0095, e-mail : <u>cgmicdgba@rbi.org.in</u>
+-िहन्दी आसान है, इसका योग बढ़ाइए-
+
+<!-- PAGE 2 -->
+
+4. You may bring the revised procedure to the notice of your branches accredited to conduct State Government transactions.
+5. All the State Governments are being advised about the revised procedure.
+## Yours faithfully
+
+R Kamalakannan Chief General Manger
+
+सरकारी एवं बक लेखा िवभाग, के न्�ीय कायार्लय, मुंबई स��ल रेलवे स्टेशन के सामने, चौथी मंिजल,भायखला, मुंबई -400 008 Department of Government & Bank Accounts, Central Office, Opp. Mumbai Central Railway Station,4thFloor, Byculla, Mumbai - 400 008 Telephone: (022) 23016214,(022)23001670 Fax No. (022) 2300 8764/23009126/2301 0095, e-mail : <u>cgmicdgba@rbi.org.in</u> -िहन्दी आसान है, इसका योग बढ़ाइए-

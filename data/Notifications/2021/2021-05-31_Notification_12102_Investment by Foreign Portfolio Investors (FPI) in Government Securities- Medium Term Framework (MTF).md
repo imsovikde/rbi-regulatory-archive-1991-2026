@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2021_12102"
+title: "Investment by Foreign Portfolio Investors (FPI) in Government Securities: Medium Term Framework (MTF)"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/44FPII84839F6569834341AB66803B079BF59E.PDF"
+pdf_sha256: "906a985829e3c80d1cdf3455d4ca3c810e30f7fab36c7ce557328ca7d193ebf2"
+md_sha256: "f20893e13a0c5a355c35189e6e67c0fad292c755eb32ebf50e679d10693bef89"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-05-31_Notification_12102_Investment%20by%20Foreign%20Portfolio%20Investors%20%28FPI%29%20in%20Government%20Securities-%20Medium%20Term%20Framework%20%28MTF%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment by Foreign Portfolio Investors (FPI) in Government Securities: Medium Term Framework (MTF)
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2021-22/44
+
+A.P. (DIR Series) Circular No. 05 May 31, 2021 To, All Authorized Persons Madam / Sir **Investment by Foreign Portfolio Investors (FPI) in Government Securities: Medium** **Term Framework (MTF)** Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Schedule 1 to the Foreign Exchange Management (Debt Instruments) Regulations, 2019 notified, *vide* <u>Notification No. FEMA. 396/2019-RB dated October 17, 2019</u>, as amended from time to time and the relevant directions issued thereunder.
+2. A reference is also invited to the following directions issued by the Reserve Bank:
+a) <u>A.P. (DIR Series) Circular No. 25 dated March 30, 2020</u>;
+b) <u>Circular No. FMRD.FMSD.No.25/14.01.006/2019-20 dated March 30, 2020</u>;
+c) <u>A.P. (DIR Series) Circular No. 30 dated April 15, 2020</u>; and
+d) <u>A.P. (DIR Series) Circular No. 14 dated March 31, 2021</u>.
+## 3. Investment Limits for FY 2021-22
+
+a. The limits for FPI investment in Government securities (G-secs) and State Development Loans (SDLs) shall remain unchanged at 6% and 2% respectively, of outstanding stocks of securities for FY 2021-22.
+b. As hitherto, all investments by eligible investors in the ‘specified securities’ shall be reckoned under the Fully Accessible Route (FAR) in terms of <u>A.P. (DIR Series) Circular</u> <u>No. 25 dated March 30, 2020</u>.
+c. The allocation of incremental changes in the G-sec limit (in absolute terms) over the two sub-categories – ‘General’ and ‘Long-term’ – shall be retained at 50:50 for FY 2021-22.
+d. The entire increase in limits for SDLs (in absolute terms) has been added to the ‘General’ sub-category of SDLs.
+िवीय बाज़ार िविनयमन िवभाग,क �ीय कायार्लय भवन, नौव मंिजल, शहीद भगत �संह मागर्, फोटर्, मुंबई–400001.भारत <u>फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+4. Accordingly, the revised limits (in absolute terms) for the different categories, including the limits for corporate bonds announced, *vide* <u>A.P. (DIR Series) Circular No. 14 dated March 31,</u> <u>2021</u>, shall be as under (Table 1):
+
+||||Table - 1: Investment limits for FY 2021-22||||
+|---|---|---|---|---|---|---|
+|||||||all figures in ₹ Crore|
+||G-Sec General|G-Sec Long Term|SDL General|SDL Long Term|Corporate Bonds|Total Debt|
+|Current FPI limits ^|2,34,531|1,03,531|67,630|7,100|5,41,488|9,54,280|
+|Revised limit for the HY Apr 2021-Sept 2021|2,43,914|1,12,914|76,766|7,100|5,74,263|10,14,957|
+|Revised limit for the HY Oct 2021-Mar 2022|2,53,298|1,22,298|85,902|7,100|6,07,039|10,75,637|
+
+^ as on March 31, 2021
+
+5. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approval, if any, required under any other law.
+## Yours faithfully
+
+(Dimple Bhandia) Chief General Manager

@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2021_12122"
+title: "New Definition of Micro, Small and Medium Enterprises"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MSME28A16AE7D21948D5A25728815AECF48E.PDF"
+pdf_sha256: "6db7656cd8f1c6b5a4ad8a10dc1faf219d5179ab7f3ea35fd1cc35547d581728"
+md_sha256: "d108c5b87ae8f1c54c3614af3dd3dd28f2f76243236a3bb70d42faad446ed80d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-06-25_Notification_12122_New%20Definition%20of%20Micro%2C%20Small%20and%20Medium%20Enterprises.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# New Definition of Micro, Small and Medium Enterprises
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक _______________________ RESERVE BANK OF INDIA_________________________
+
+<u>www.rbi.org.in</u>
+
+RBI/2021-2022/63 FIDD.MSME & NFS.BC.No.12/06.02.31/2021-22 June 25, 2021
+
+The Chairman/ Managing Director/Chief Executive Officer All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) All Primary (Urban) Co-operative Banks/State Co-operative Banks / District Central Co-operative Banks All-India Financial Institutions All Non-Banking Financial Companies
+
+Dear Sir/Madam, **New Definition of Micro, Small and Medium Enterprises**
+
+Please refer to the <u>circular FIDD.MSME & NFS.BC.No.4/06.02.31/2020-21 dated August 21,</u> <u>2020</u> on ‘New Definition of Micro, Small and Medium Enterprises –clarifications’.
+
+2. In this connection, we inform that Government of India, vide their <u>Gazette Notification S.O.</u> <u>2347(E) dated June 16, 2021</u>, has notified amendments in paragraph (7) sub-paragraph (3) in the notification of Government of India, Ministry of Micro, Small and Medium Enterprises number <u>S.O. 2119 (E), dated June 26, 2020</u>, published in the Gazette of India.
+3. In view of the above amendment, paragraph 2.2 (i) of <u>RBI circular dated August 21, 2020</u> stands modified as under: “The existing Entrepreneurs Memorandum (EM) Part II and Udyog Aadhaar Memorandum (UAMs) of the MSMEs obtained till June 30, 2020 shall remain valid till December 31, 2021”.
+4. All other provisions of the circular remain unchanged.
+## Yours faithfully
+
+(Kaya Tripathi) Chief General Manager
+
+_________________________________________________________________________ िवत् तीय समावेशन और िवकास िवभाग, के ी य कायालय,10 वी मंिजल, क द्र ी य कायालय भवन, शहीद भगतिसंह माग,पो बॉ सं. 10014,मुंबई -400001 Financial Inclusion & Development Dept., Central Office,10th Floor, Central Office Building Shahid Bhagat Singh Marg, P.B.No.10014,Mumbai-1 टेली Tel:022-22601000 फै � ः 91-22-22621011/22610943/22610948 ई -मेल : cgmincfidd@rbi.org.in
+
+|||िहंदी आसान है, इसका प्रयोग बढ़ाइए।|
+|---|---|---|
+|“ चेतावनी|: -मेल रज़व बक ारा डाक|, एसएमएस या फोन कॉल के जरए िकसी की भी व् य�गत जानकारी जैसे बक के खाते का ब् यौरा, पासवड आिद नही ं मांगी जाती है। यह धन रखने या देने का प्रस् ताव भी नही ं करता है। ऐसे प्रस् तावों का िकसी भी तरीके से जवाब मत दीिजए। "|
+|Caution:||RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|

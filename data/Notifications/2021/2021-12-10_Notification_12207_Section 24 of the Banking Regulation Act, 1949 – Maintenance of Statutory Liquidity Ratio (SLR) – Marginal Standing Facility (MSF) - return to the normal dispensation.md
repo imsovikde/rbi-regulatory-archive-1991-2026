@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2021_12207"
+title: "Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio (SLR) – Marginal Standing Facility (MSF) - return to the normal dispensation"
+category: "Notifications"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT13899BA76E055614F15B470A8D37683F65A.PDF"
+pdf_sha256: "1f2f55f0fd3e5148c2fbf4d9df559d9e4814b54f64d0b33c0776d99ff9f8b738"
+md_sha256: "e847a3fac8d03ce7e059edec4cc11b7659f1ffb9846b6ceec9833492f531f222"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:05:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-12-10_Notification_12207_Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%E2%80%93%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20%E2%80%93%20Marginal%20Standing%20Facility%20%28MSF%29%20-%20return%20to%20the%20normal%20dispensation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio (SLR) – Marginal Standing Facility (MSF) - return to the normal dispensation
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+RBI/2021-22/138 DOR.RET.REC.73/12.01.001/2021-22 December 10, 2021
+
+All Scheduled Banks Madam/Sir, **Section 24 of the Banking Regulation Act, 1949 – Maintenance of Statutory Liquidity Ratio** **(SLR) – Marginal Standing Facility (MSF) - return to the normal dispensation** Please refer to <u>circular DOR.RET.REC.36/12.01.001/2021-22 dated August 09, 2021</u> and paragraph 15(i) of the <u>Master Direction DOR.No.RET.REC.32/12.01.001/2021-22 dated July 20, 2021</u>, on Marginal Standing Facility (MSF), wherein the banks were allowed to avail of funds under the MSF by dipping into the Statutory Liquidity Ratio (SLR) up to three per cent of their net demand and time liabilities (NDTL) outstanding at the end of the second preceding fortnight. This facility, which was initially available up to June 30, 2020, was later extended up to December 31, 2021 vide <u>circular</u> <u>DOR.RET.REC.36/12.01.001/2021-22 dated August 09, 2021</u>.
+
+2. As announced in the <u>Governor’s Statement dated December 08, 2021</u>, it is proposed to return to the normal dispensation. Accordingly, banks will be able to dip into the Statutory Liquidity Ratio (SLR) up to two percent of NDTL instead of three percent for overnight borrowing under the MSF with effect from January 1, 2022. Yours faithfully, (Thomas Mathew) Chief General Manager
+िविनयमन िवभाग, क द्रीय कायालय, 12वी ं और 13वी ं मंिज़ल, क द्रीय कायालय भवन, शहीद भगत िसंह माग, मुंबई 400001 टेलीफोन /Tel No: 22601000 फै � / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shaheed Bhagat Singh Marg, Mumbai ñ 400001 Tel No: 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 बक िहंदी म पत्राचार का �ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
