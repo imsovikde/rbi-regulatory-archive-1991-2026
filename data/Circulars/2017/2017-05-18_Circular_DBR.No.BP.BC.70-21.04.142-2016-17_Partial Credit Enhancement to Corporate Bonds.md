@@ -1,0 +1,35 @@
+---
+doc_id: "Circulars_2017_DBR_No_BP_BC_70_21_04_142_2016-17"
+title: "Partial Credit Enhancement to Corporate Bonds"
+category: "Circulars"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3058B8BC5B1169048058C9E507772EA2CD8.PDF"
+pdf_sha256: "c19b130738f13ffd6b083c370b09a43d86ba8d243ec51744ed108c51c3038daa"
+md_sha256: "236bd1947a6ca1b91c72cff8d6957dcca006f380edce6bf33a4ee94b2ab10f57"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:38:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-05-18_Circular_DBR.No.BP.BC.70-21.04.142-2016-17_Partial%20Credit%20Enhancement%20to%20Corporate%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Partial Credit Enhancement to Corporate Bonds
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/305 DBR.No.BP.BC.70/21.04.142/2016-17 May 18, 2017
+
+All Scheduled Commercial Banks (Excluding Regional Rural Banks)
+
+Madam/Dear Sir, **Partial Credit Enhancement to Corporate Bonds** Please refer to paragraph 21 (a) of the Guidelines on Partial Credit Enhancement to Corporate Bonds by Banks annexed to the <u>circular</u> <u>DBR.BP.BC.No.40/21.04.142/2015-16 dated September 24, 2015</u>, on the capital requirements during the lifetime of the bond in respect of which partial credit enhancement (PCE) is provided by the banks.
+
+2. On a review of the capital requirement for PCE, it has been decided that:
+a) To be eligible for PCE from banks, corporate bonds shall be rated by a minimum of two external credit rating agencies at all times;
+b) The rating reports, both initial and subsequent, shall disclose both standalone credit rating (i.e., rating without taking into account the effect of PCE) as well as the enhanced credit rating (taking into account the effect of PCE).Withdrawn
+c) For the purpose of capital computation in the books of PCE provider, lower of the two standalone credit ratings and the corresponding enhanced credit rating of the same rating agency shall be reckoned.
+d) Where the reassessed standalone credit rating at any time during the life of the bond shows improvement over the corresponding rating at the time of bond issuance, the capital requirement may be recalculated on the basis of the reassessed standalone credit rating and the reassessed enhanced credit rating, without reference to the constraints of capital floor and difference in notches.
+Yours faithfully,
+
+(Rajinder Kumar) Chief General Manager बक ैंिं ग विनियमि विभाग, े न्द्रीय ायाालय, 12ि िं मिंज़िल, शहीद भगत स िंह मागा, मिंबई – 400001 Department of Banking Regulation, Central Office, 12th Floor, Shahid Bhagat Singh Marg, Mumbai - 400001 Tel No: 22661602 Fax No: 22705691 Email ID: <u>cgmicdbr@rbi.org.in</u>

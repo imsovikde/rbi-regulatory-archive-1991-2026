@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2017_DCBR_CO_LS_PCB_RCB_Cir_No_5_07_01_000_2016-17"
+title: "Regulatory Requirements for Issue of Pre-paid Payment Instruments by Co-operative Banks"
+category: "Circulars"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3115C5F02A0CC7E4E1F88CF7B69B298EE03.PDF"
+pdf_sha256: "75b05d743da60c0215abba331ce1f61eeb173554ded389fba8aa5f999217a502"
+md_sha256: "c0e79354ec7c0546d5249348025608dae54862b83b01eb99345efb8c99881ac8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:38:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-05-25_Circular_DCBR.CO.LS.%28PCB-RCB%29.Cir.No.5-07.01.000-2016-17_Regulatory%20Requirements%20for%20Issue%20of%20Pre-paid%20Payment%20Instruments%20by%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulatory Requirements for Issue of Pre-paid Payment Instruments by Co-operative Banks
+
+<!-- PAGE 1 -->
+
+## भारतीय ररज़र्व बैंक
+
+**_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2016-17/311 DCBR.CO.LS.(PCB/RCB).Cir.No.5/07.01.000/2016-17 May 25, 2017
+
+Chief Executive Officers of all Primary (Urban) Co-operative Banks / State Co-operative Banks District Central Co-operative Banks
+
+Dear Sir / Madam,
+
+## <u>Regulatory requirements for issue of Pre-paid Payment Instruments by Co- operative Banks</u>
+
+Please refer to our <u>circular UBD.CO.BPD.PCB.Cir.No.65/09.69.000/2013-14 dated</u> <u>May 27, 2014</u> permitting the UCBs which have installed ATMs and issued ATM cum Debit cards to introduce semi-closed Prepaid Payment Instruments (PPIs) for payment of utility bills / essential services upto a limit of Rs.10,000/-.
+
+2. The matter has been revisited and it has now been decided to permit all licenced co-operative banks having their own ATM network to issue semi-closed PPIs, provided there are no restrictions on acceptance or repayment of deposits. This is subject to the compliance with eligibility criteria and other guidelines as prescribed by Department of Payment and Settlement Systems (DPSS)Withdrawn, Reserve Bank of India (RBI) from time to time.
+3. Further, it has also been decided to permit co-operative banks satisfying the above criteria to issue Open System PPIs. The banks should comply with the following additional regulatory requirements for this purpose:
+a) The bank should be CBS compliant;
+b) CRAR should not be less than 10% in the current and preceding financial year;
+सहकारी बैंक विनियमि विभाग, कें द्रीय कायाालय, सी- 7, पहली/ दसरी ू मंज़िल, बांद्रा कु लाा संकु ल, बांद्रा (पूिा), मुंबई – 400 051 फोि: 022–26578300/ 26578100; फै क्स: 022-26571117; ई-मेल: <u>cgmdcbrco@rbi.org.in</u> Department of Co-operative Bank Regulation, Central Office, C-7, 1 st / 2 nd Floor, Bandra Kurla Complex, Bandra (E), Mumbai – 400 051 Phone: 022 – 26578300/ 26578100; Fax: <u>022 - 26571117; E</u>-mail: <u>cgmdcbrco@rbi.org.in</u> <u>ह िंदी आसान ै, इसका प्रयोग बढ़ाइए—</u> चेताििी: भारतीय ररििा बक द्िारा ैं ई-मेल, डाक, एसएमएस या फोि कॉल के जररए ककसी की भी व्यज़क्त की जािकारी जैसे बक ैं के खाते का ब्यौरा, पासिडा आदद िहीं मांगी जाती है। यह धि रखिे या देिे का प्रस्ताि भी िहीं करता है। ऐसे प्रस्तािों का ककसी भी तरीके से जिाब मत दीज़जए। Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+c) Gross NPAs should be less than 7% and net NPAs should not be more than 3% in the current and preceding financial year;
+d) Assessed net-worth should be more than Rs.25 crore as per the last RBI inspection;
+e) There should not be any default in the maintenance of CRR/SLR during the current and preceding financial year;
+f) The bank should have made a net profit in the preceding financial year;
+g) Presence of two professional directors on the Board of the bank and prevalence of systems and control as under:
+i. internal inspection / audit system for all the branches and the Head Office ii. concurrent audit system in all major branches
+h) Satisfactory adherence to KYC / AML / Combating Financing of Terrorism guidelines issued by the Reserve Bank from time to time;
+i) No monetary penalty should have been imposed on the bank in last two financial years and during the year of submitting the application;
+j) The bank shall have satisfactorily implemented a comprehensive Board approved policy on Customer grievance redressal mechanism which includes escalation matrix for resolution of customer complaints.
+# Withdrawn
+
+4. The issuance and operation of prepaid instruments shall also be guided by the instructions issued in this regard by DPSS, RBI from time to time. Eligible co- operative banks, as indicated in para 2 and 3 above, desirous to issue PPIs are required to obtain a No Objection Certificate from the respective Regional Office of Department of Co-operative Bank Supervision concerned before applying to DPSS, Central Office, Mumbai for authorization. Yours faithfully, (Neeraj Nigam) Chief General Manager
+- 2 -

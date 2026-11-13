@@ -1,0 +1,53 @@
+---
+doc_id: "Circulars_2017_DBR_Appt_No_BC_68_29_67_001_2016-17"
+title: "Minimum Qualifications and Experience for CFO and CTO"
+category: "Circulars"
+year: 2017
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI304FF29589E6B164A75A01D1B4A7283469B.PDF"
+pdf_sha256: "458d5e0671fee30674bbf452f7194c564738595404d45af061f5045afe086f57"
+md_sha256: "7ddb30e1d9f6c4236d1e8fcb85f0d373ffe8340413c46ac8fa210e4b6bd33eaa"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:38:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-05-18_Circular_DBR.Appt.No.BC.68-29.67.001-2016-17_Minimum%20Qualifications%20and%20Experience%20for%20CFO%20and%20CTO.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Minimum Qualifications and Experience for CFO and CTO
+
+<!-- PAGE 1 -->
+
+RBI/2016-17/304 DBR.Appt.No.BC.68/29.67.001/2016-17 May 18, 2017
+
+## All Scheduled Commercial Banks (excluding RRBs)
+
+Madam/ Dear Sir, <u>Minimum qualifications and experience for CFO and CTO</u>
+
+Rapid innovations in banking and technology call for better risk governance in the areas of finance and technology. A Chief Financial Officer (CFO) and Chief Technology Officer (CTO) in banks’ management structure would play a crucial role in strengthening and sustaining the banks’ risk governance framework.
+
+2. It is, therefore, advised that banks, while inviting applications for these positions, stipulate, at a minimum, the qualifications and experience for the CFO and CTO as detailed in Annex. Banks may, however, prescribe additional qualifications and experience as they deem fit, taking intoWithdrawn account the risk profile, size and scale of operations. Yours faithfully, (Saurav Sinha) Chief General Manager
+## Encl: As above
+
+__________________________________________________________________________________________________________________________________ बक ैंिं ग विनियमि विभाग**,** े न्द्रीय ायाालय भिि**,** 13 िीमिंजिल**,** मिंबई - 400001 Department of Banking Regulation, Central Office, Central Office Building, 13 th Floor Mumbai -400001 टेलीफ़ोि/Tel No:022-22701205, फ़ै क्स/Fax No:022-22701240, Email ID: <u>cgmicdbr@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## (i) Chief Financial Officer
+
+**Minimum Qualification:** He/she should be a qualified Chartered Accountant.
+
+**Experience:** Fifteen years in overseeing financial operations, preferably accounting and taxation matters, in banks/large corporates/PSUs/ FIs/financial services organizations, of which 10 years should be in Banks/FIs (of which five years should be at senior management level).
+
+## (ii) Chief Technology Officer
+
+**Minimum Qualification:** Engineering Graduate or MCA or equivalent qualification from a recognized University / Institution.
+
+**Experience:** 15 years of experience in relevant areas is mandatory. He/she should have worked in Banking-IT related areas/projects involving IT Policy and Planning/
+
+# Withdrawn
+
+Financial Networks and Applications/ Financial Information Systems/ Cyber Security Technologies/ Payment Technologies, etc., of which five years should be at senior management level.
