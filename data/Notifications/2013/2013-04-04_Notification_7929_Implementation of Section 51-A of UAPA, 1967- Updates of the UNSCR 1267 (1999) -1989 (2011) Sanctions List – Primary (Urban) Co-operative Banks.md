@@ -1,0 +1,96 @@
+---
+doc_id: "Notifications_2013_7929"
+title: "Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1267 (1999) /1989 (2011) Sanctions List – Primary (Urban) Co-operative Banks"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/UBDPCB040413.pdf"
+pdf_sha256: "ca881765be16a8877ffb9411184304c2490308aec0b46abe4620712705cefab6"
+md_sha256: "ccd98c9d0c07e39b66456db4cddb41f7e3c779176606a6a430f4076f6aaf5b7a"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:36:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-04-04_Notification_7929_Implementation%20of%20Section%2051-A%20of%20UAPA%2C%201967-%20Updates%20of%20the%20UNSCR%201267%20%281999%29%20-1989%20%282011%29%20Sanctions%20List%20%E2%80%93%20Primary%20%28Urban%29%20Co-operative%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1267 (1999) /1989 (2011) Sanctions List – Primary (Urban) Co-operative Banks
+
+<!-- PAGE 1 -->
+
+HdlRgd
+
+RESERVEBANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/472
+
+UBD.BPD (PCB) Cir. No.47/14.01.062/2012-13
+
+April 4, 2013
+
+TheChiefExecutiveOfficerof
+
+All Primary(Urban) Co-operative Banks
+
+Madam/Dear Sir,
+
+Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1267
+
+(1999) /1989 (2011) Sanctions List - Primary (Urban) Co-operative Banks
+
+November 1，2012
+
+2 on the captioned subject. We have since received from
+
+Government of India, Ministry of External Affairs, UNP Division, copies of notes
+
+dated November 15. 2012, November 23, 26, 27 and December 5. 2012 (copies
+
+enclosed) forwarded by the Chairmanof UN Security Council's 1267/1989
+
+individuals and entities linked to Al-Qaida.
+
+2. Primary (Urban) Co-operative Banks (UCBs) are required to update the list of
+
+individuals/entities as circulated by ReserveBank and beforeopening any new
+
+account, it should be ensured that the name/s of the proposed customer does not
+
+appear in the list. Further, banks should scan all existing accounts to ensure that no
+
+account is held by or linked to any of the entities or individuals included in the list.
+
+3. UCBs are advised to strictly follow the procedure laid down in the UAPA Order
+
+dated August 27， 2009 enclosed to our circular UBD.CO.BPD.PCB.Cir.No.
+
+21/12.05.001/2009-10 dated November 16, 2009 and ensure meticulous compliance
+
+to the Order issued by the Government.
+
+4. As far as freezing of funds, financial assets or economic resources or related
+
+servicesheldintheformofbankaccountsofthedesignatedindividuals/entitiesare
+
+,,,,,-400018
+
+: 022 - 2493 9930 - 49, : 022 - 2497 4030 / 2492 0231, : rbiubdco@rbi. org.in
+
+Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018
+
+Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0 231, Email: rbiubdco@rbi. 0rg.in
+
+Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It
+
+never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+concerned, action should be taken as detailed in paragraph 7 of the circular dated November 16, 2009, mentioned above.
+
+5. The complete details of the said list are available on the UN website: <u>[http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml](http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml)</u>
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular to the Regional Office concerned. Yours faithfully, (Scenta Joy) Deputy General Manager
+## Encl: As above

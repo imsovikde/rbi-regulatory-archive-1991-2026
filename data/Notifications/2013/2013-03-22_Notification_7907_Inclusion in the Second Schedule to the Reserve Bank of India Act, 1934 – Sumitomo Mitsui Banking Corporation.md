@@ -1,0 +1,32 @@
+---
+doc_id: "Notifications_2013_7907"
+title: "Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Sumitomo Mitsui Banking Corporation"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/SMB220313LF.pdf"
+pdf_sha256: "04bb60cdcbc9c9fdd1535d2efef5867bc83a3252fefe70ada57439525f966d8e"
+md_sha256: "028f2411149d6a437d6394afe7d8be39201c7b7677130610025d6cdeb8d19781"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-03-22_Notification_7907_Inclusion%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20Sumitomo%20Mitsui%20Banking%20Corporation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Sumitomo Mitsui Banking Corporation
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/456
+
+Ref: DBOD. No.Ret. BC.85 /12.07.137/2012-13 March 22, 2013 **All Scheduled Commercial Banks** Dear Sir, **Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Sumitomo** **Mitsui Banking Corporation**
+
+We advise that the name of **“**Sumitomo Mitsui Banking Corporation**"** has been included in the Second Schedule to the Reserve Bank of India Act, 1934 by Notification DBOD.IBD.No.9808/23.13.155/2012-13 dated January 09, 2013, published in the Gazette of India (Part III – Section 4) dated February 2, 2013.
+
+Yours faithfully,
+
+(Sudha Damodar) Chief General Manager
+
+Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005 Tel No: 91-22-22189131 Fax No: 022-22150772 Email ID:cgmicdbodco@rbi.org.in

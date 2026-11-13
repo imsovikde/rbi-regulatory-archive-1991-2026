@@ -1,0 +1,65 @@
+---
+doc_id: "Notifications_2013_7949"
+title: "Overseas Direct Investments – Clarification"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AD100250413F.PDF"
+pdf_sha256: "f8f431d486d3e15c50972ed596f83300a5a30e789f40372c186c6cabb36d1f42"
+md_sha256: "fed7b4591ad041af6142d690147237218bca9a8fd90dded43854da2ba8c04ae1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-04-25_Notification_7949_Overseas%20Direct%20Investments%20%E2%80%93%20Clarification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investments – Clarification
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2012-13/481 A.P. (DIR Series) Circular No. 100 April 25, 2013
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## <u>Overseas Direct Investments – Clarification</u>
+
+Attention of the Authorised Dealers (AD) is invited to Foreign Exchange Management (Transfer or Issue of any Foreign Security) Regulations, 2004 notified by the Reserve Bank vide <u>Notification No. FEMA 120/RB-2004 dated July</u>
+
+# 2022
+
+<u>07, 2004</u> and as amended from time to time. 22,
+
+2. It has been observed that eligible Indian parties are using overseas direct investments (ODI) automatic route to set up certain structures facilitating trading in currencies, securities and commodities. It has come to the notice of the Reserve
+# August
+
+Bank that such structures having equity participation of Indian parties have also started offering financial products linked to Indian Rupee (e.g. non-deliverablew.e.f. trades involving foreign currency, rupee exchange rates, stock indices linked to Indian market, etc.). It is clarified that any overseas entity having equity participation directly / indirectly shall not offer such products without the specific approval of the Reserve Bank of India given that currently Indian Rupee is not
+
+# Withdrawn
+
+fully convertible and such products could have implications for the exchange rate management of the country. Any incidence of such product facilitation would be treated as a contravention of the extant FEMA regulations and would consequently attract action under the relevant provisions of FEMA, 1999.
+
+3. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+4. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of
+
+<!-- PAGE 2 -->
+
+1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully, **(Rashmi Fauzdar)** **Chief General Manager**
+
+# 2022 22,
+
+# August w.e.f.
+
+# Withdrawn

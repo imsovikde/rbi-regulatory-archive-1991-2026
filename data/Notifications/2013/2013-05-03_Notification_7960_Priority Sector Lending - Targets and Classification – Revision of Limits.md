@@ -1,0 +1,55 @@
+---
+doc_id: "Notifications_2013_7960"
+title: "Priority Sector Lending - Targets and Classification – Revision of Limits"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIPA030513FL.pdf"
+pdf_sha256: "2c4ff6ecf7734877d5f88763bbfb0030d08e91d0a18cb44c4e1d9befa4ed15c3"
+md_sha256: "468f255a299e6c90769002024d17e7be029d707756dad1bbc4f78511feca87e1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:36:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-05-03_Notification_7960_Priority%20Sector%20Lending%20-%20Targets%20and%20Classification%20%E2%80%93%20Revision%20of%20Limits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending - Targets and Classification – Revision of Limits
+
+<!-- PAGE 1 -->
+
+**भारतीय ररज़र्व बैंक** **-------------------------RESERVE BANK OF INDIA--------------------** www.rbi.org.in
+
+## RBI/2012-13/487
+
+RPCD.CO.Plan. BC 72/04.09.01/ 2012-13 May 03, 2013
+
+## The Chairman/ Managing Director/
+
+## Chief Executive Officer
+
+## [All scheduled commercial banks
+
+## (excluding Regional Rural Banks)]
+
+Madam/Dear Sir,
+
+## <u>Priority Sector Lending-Targets and Classification – Revision of Limits</u>
+
+Please refer to <u>paragraph 65</u> of the Monetary Policy Statement for the year 2013-14. The following limits under priority sector stand revised upward with effect from April 01, 2013.
+
+## 1. Agriculture
+
+(i) The limit of loans to farmers against pledge/hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months stands increased **from** ` **25 lakh to** ` **50** **lakh** both under direct and indirect agriculture. *[Effect on July 20, 2012 circular: Paragraph III 1.1 (iv) and Paragraph 1.2.1 (iv) would stand amended* *accordingly]* (ii) The limit of loans to dealers/sellers of fertilizers, pesticides, seeds, cattle feed, poultry feed, agricultural implements and other inputs has been raised **to** `**5 crore per borrower from** `**1 crore**. *[Effect on July 20, 2012 circular: Paragraph III 1.2.2 (i) would stand amended accordingly]*
+## 2. Micro and Small Enterprises
+
+The limit of bank loans to Micro and Small Service Enterprises (MSEs) engaged in providing or rendering of services has been increased **from** `**2 crore to** `**5 crore per borrower/unit**, provided they satisfy the investment criteria for equipment as defined under MSMED Act, 2006.
+
+*[Effect on October 17, 2012 circular on priority sector: Paragraph 2 would stand amended* *accordingly]*
+
+Yours faithfully,
+
+## (T. V. Rao) Deputy General Manager
+
+ग्रामीण आयोजना और ऋण विभाग,कें द्रीय कायाालय, 10िीीं मींज़िल,कें द्रीय कायाालय बिज्डींग,शहीद भगत स ींह मागा,पो.िा. ीं.10014,मींिई 400 001 टेलीफोन:Tel No.: +912222601000/ फै क् : +91-22-22621011/22610948/22610943 ईमेल: cgmincrpcd@rbi.org.in Rural Planning & Credit Department,Central Office,10th Floor,Central Office Building,Shahid Bhagat Singh Marg,P.Box No.10014, Mumbai 400 001 <u>हहींदी आ ान है, इ का प्रयोग िढाइए</u> **चेतार्नी : ररज़र्व बैंक वर्ारा लेम-डाक, एसएलएस या फोन कॉम के जररए ककसी की भी व्यक्तिततत जानकार जससे बकैं के ााते का ्यiरा, पासर्डव आदि नह ीं लाींती जाती** **हस। यह धन राने या िेने का प्रस तार् भी नह ीं करता हस। ेसे प्रस तार्क का ककसी भी तर के से जर्ाब लत ि क्तजए।** **Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details,** **passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.**
