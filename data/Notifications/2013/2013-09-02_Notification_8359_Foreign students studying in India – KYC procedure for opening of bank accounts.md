@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2013_8359"
+title: "Foreign students studying in India – KYC procedure for opening of bank accounts"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRBSFC020913.pdf"
+pdf_sha256: "93ad9c1e05a578a93f8bc6d04a57a1b56dea588535dfe27434d974ab897cc00b"
+md_sha256: "720385634cf4637e14cfa40ec96a1833e7c9154f67ab06f63485aa25eb227539"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-09-02_Notification_8359_Foreign%20students%20studying%20in%20India%20%E2%80%93%20KYC%20procedure%20for%20opening%20of%20bank%20accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign students studying in India – KYC procedure for opening of bank accounts
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/210 DBOD. AML.BC.No.45/14.01.001/2013-14 September 2, 2013
+
+## The Chairmen/CEOs of all Scheduled Commercial Banks (Excluding RRBs)/
+
+## Local Area Banks / All India Financial Institutions
+
+Dear Sir,
+
+## Foreign students studying in India – KYC procedure for opening of bank accounts
+
+It has been represented to us that foreign students arriving in India are facing difficulties in complying with the Know Your Customer (KYC) norms while opening a bank account due to non-availability of any proof of local address.
+
+2. The issue has been examined and it has been decided to lay down the following procedure for opening accounts of foreign students who are not able to provide an immediate address proof while approaching a bank for opening bank account.
+a) Banks may open a Non Resident Ordinary (NRO) bank account of a foreign student on the basis of his/her passport (with appropriate visa & immigration endorsement) which contains the proof of identity and address in the home country along with a photograph and a letter offering admission from the educational institution.
+b) Within a period of 30 days of opening the account, the foreign student should submit to the branch where the account is opened, a valid address proof giving local address, in the form of a rent agreement or a letter from the educational institution as a proof of living in a facility provided by the educational institution. Banks should not insist on the landlord visiting the branch for verification of rent documents and alternative means of verification of local address may be adopted by banks.
+c) During the 30 days period, the account should be operated with a condition of allowing foreign remittances not exceeding USD 1,000 into the account and a cap of monthly withdrawal to Rs. 50,000/-, pending verification of address.
+वभाग, क िय कायालय, क िय
+
+|बकं ग परचालन|और वकास|कायालय भवन, 13वीं|मंजल, शहद|भगत िसंह|माग, मुंबई Ð 400 001|
+|---|---|---|---|---|---|
+|फोन: 022-22701223, फै �स: 022-22701239, ईमेल-: Department of Banking Operations & Development, Central Office, Central Office Building, 13|Phone : 022‐22701223, Fax : 022‐22701239, E‐mail : cgmicdbodco@rbi.org.in, Website : www.rbi.org.in|cgmicdbodco@rbi.org.in Mumbai – 400 001|, वेबसाइट:|www.rbi.org.in Floor, Shahid Bhagat Singh Marg, Fort,||
+
+th
+
+<!-- PAGE 2 -->
+
+d) On submission of the proof of current address, the account would be treated as a normal NRO account, and will be operated in terms of instructions contained in RBI’s Master Circular on Non-Resident Ordinary Rupee (NRO) Account No. <u>RBI/2013-14/2 Master Circular No.2/2013-14 dated July 1, 2013</u>, and the provisions of Schedule 3 of <u>FEMA Notification 5/2000 RB dated May 3, 2000</u> may also be kept in view.
+e) Students with Pakistani nationality will need prior approval of the Reserve Bank for opening the account.
+3. All banks are advised to ensure compliance with the above guidelines for the convenience of foreign students studying in India to open bank accounts.
+4. The Principal Officer of the bank should acknowledge receipt of this circular. Yours faithfully, (Prakash Chandra Sahoo) Chief General Manager
+बकं ग परचालन और वकास वभाग, क िय कायालय, क िय कायालय भवन, 13वीं मंजल, शहद भगत िसंह माग, मुंबई Ð 400 001 फोन<u>: 022-22701223, फै �स: 022-22701239, ईमेल-: cgmicdbodco@rbi.org.in, वेबसाइट: www.rbi.org.in</u> Department of Banking Operations & Development, Central Office, Central Office Building, 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022‐22701223, Fax : 022‐22701239, E‐mail : <u>cgmicdbodco@rbi.org.in</u>, Website : www.rbi.org.in

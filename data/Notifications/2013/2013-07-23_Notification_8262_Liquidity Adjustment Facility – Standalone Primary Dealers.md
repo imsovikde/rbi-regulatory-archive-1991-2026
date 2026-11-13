@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2013_8262"
+title: "Liquidity Adjustment Facility – Standalone Primary Dealers"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CFD23072013P.pdf"
+pdf_sha256: "f11ab9093f7e906b5b1685e8cc7139fc2e615e5a061514741606830734cc3342"
+md_sha256: "07efd60ac642f28f369e88ac39988519aa83cb753d252737fbd9ffe50a19d15d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:49Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-07-23_Notification_8262_Liquidity%20Adjustment%20Facility%20%E2%80%93%20Standalone%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Liquidity Adjustment Facility – Standalone Primary Dealers
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/153 FMD.MOAG. No. 83 /01.01.001/2013-14 July 23, 2013
+
+## All Standalone Primary Dealers
+
+Dear Sir,
+
+## Liquidity Adjustment Facility
+
+As you are aware, Reserve Bank of India announced additional measures today to address the exchange rate volatility. As a part of these measures, it has been decided that the total amount of funds available to a standalone Primary Dealer (PD) under Liquidity Adjustment Facility (LAF) will be capped at <u>100 per cent of the individual PD’s net owned funds as per</u> <u>the latest audited balance sheet</u>. The above changes in LAF will come into effect from July 24, 2013.
+
+2. Presently, additional LAF repo is conducted on reporting Fridays. Under the new arrangement, the cap for the individual PD will apply to the combined allocation of funds in the morning and additional LAF repo.
+3. All other terms and conditions of the current LAF scheme will remain unchanged.
+4. Please acknowledge receipt.
+## Yours sincerely
+
+(G. Mahalingam) Principal Chief General Manager

@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2013_8340"
+title: "Adoption of Uniform Holiday Calendar under Cheque Truncation System (CTS)"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCTS23082013.pdf"
+pdf_sha256: "26d63fdc1cdff3da07e310eb2004aeab0629376ae7576dd3e8b63ea7f4f46e3c"
+md_sha256: "ee336b941837390fe74bf51be6755806ec063533137fcac7acf773fc52ed57fa"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-08-23_Notification_8340_Adoption%20of%20Uniform%20Holiday%20Calendar%20under%20Cheque%20Truncation%20System%20%28CTS%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Adoption of Uniform Holiday Calendar under Cheque Truncation System (CTS)
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बक
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in RBI/2013-14/199 DPSS.CO.CHD.No. /458/ 04.07.05 / 2013-14 August 23, 2013
+
+The Chairman and Managing Director / Chief Executive Officer All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks/Local Area Banks
+
+## Madam / Dear Sir
+
+## Adoption of Uniform Holiday Calendar under Cheque Truncation System (CTS)
+
+Grid-based Cheque Truncation System (CTS) has been launched in Chennai and Mumbai covering several States/Union territories with the objective of streamlining the procedures in cheque clearing system. All the States/Union Territories covered by the above grid follow different schedule of holidays declared under Negotiable Instruments Act 1881 by the respective Governments. As local clearing houses are gradually being subsumed into the CTS, it has become necessary to devise a policy of uniform holidays so as to ensure the smooth functioning of grid-based CTS operations.
+
+2. It may be mentioned that the practice of uniform holidays is already in place since 2010 for the CTS operations at New Delhi which encompasses bank branches in New Delhi as well as adjacent states. Further, the concept of uniform holidays has also been implemented for RTGS/NEFT/NECS since 2008. These centralised payment systems are functional on days when one of the four metro cities is observing working day, irrespective of holidays at other locations. Bank branches participating in such systems are deploying requisite manpower for facilitating transactions on such days.
+3. Under grid-based CTS clearing, all cheques drawn on bank branches falling in the grid jurisdiction are treated and cleared as local cheques on T+1 basis. As such, the uniform holiday arrangement will further enhance the customer service in banks through faster realisation of cheques even on holidays in respective states.
+4. Therefore, it has been decided to put in place the uniform holiday arrangement at the three CTS locations as detailed overleaf with effect from <u>October 7, 2013.</u>
+भुगतान और िनपटान पर्णाली िवभाग, क दर्ीय कायालय र्, 14व मिजल ं, क दर्ीय कायालय भवन र्, शहीद भगत िसह माग, र्फोटर्, मुम्बई - 400001 फोन Tel: (91-22) 22644995; फै क् स Fax: (91-22) 22659566 / 22691557 ई-मेल e-mail : cgmdpss@rbi.org.in Department of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400001
+
+<!-- PAGE 2 -->
+
+i. The CTS centers in New Delhi, Chennai and Mumbai will adopt RTGS holidays as uniform holidays for the respective grid. ii. Additionally, CTS operations will be closed on such days when <u>all</u> the participating states in the grid are observing holidays, even though RTGS is working on such days.
+iii. The President of the respective CTS location will notify the list of such uniform holidays well in advance to enable the participating banks to put in place inward clearing processing infrastructure at the grid location.
+
+5. Under CTS, inward clearing is generally processed in a centralised manner by banks at the CTS location. However, in exceptional cases, where the reference to base branch is required and the base branch is closed on account of local holiday, the drawee bank at the grid location may return the instrument to the presenting bank under return reason code 88 as enumerated in annexure D of Uniform Regulations and Rules for Bankers' Clearing Houses with the description “need reference to the drawee branch which is closed on account of local holidays/issues”.
+6. It may also be noted, on occasions when banks are unable to process the inward clearing pertaining to specific locations due to exceptional circumstances, they can approach the President of the Clearing House at CTS location for extension of return / blocking the presentation drawn on such locations.
+7. The above instructions are issued under section 18 of the Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+8. Please acknowledge receipt. Yours faithfully, (Vijay Chugh) Chief General Manager

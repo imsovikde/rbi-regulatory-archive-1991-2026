@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2013_8339"
+title: "Investment portfolio of banks – Classification, Valuation and Provisioning"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FCB23082013F.PDF"
+pdf_sha256: "18c0c74a7fde2a54ccebff11bd2ad9680e10bfdcb63271afedcf468d2935a4af"
+md_sha256: "312fa9fdcef9a9e473316246ecfd5363c692a669f9885e2082d7568be8df625f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:59Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-08-23_Notification_8339_Investment%20portfolio%20of%20banks%20%E2%80%93%20Classification%2C%20Valuation%20and%20Provisioning.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment portfolio of banks – Classification, Valuation and Provisioning
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021.
+
+## भारतीय रज़व बक ___________RESERVE BANK OF INDIA___________
+
+www.rbi.org.in **RBI/2013-14/198** **DBOD.BP.BC.No. 41 / 21.04.141 /2013-14 August 23, 2013**
+
+All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+### <u>Investment portfolio of banks – Classification, Valuation and Provisioning</u>
+
+Please refer to our <u>Circular DBOD.No.BP.BC.92/21.04.141/2012-13 dated May 15, 2013</u> on ‘SLR Holdings under Held to Maturity Category’ in terms of which banks are permitted to exceed the limit of 25 per cent of total investments under the Held to Maturity (HTM) category provided:
+
+(a) the excess comprises only SLR securities, and
+(b) the total SLR securities held in the HTM category is not more than 24.50 per cent by end June 2013, 24.00 per cent by end September 2013, 23.50 per cent by end December 2013, and 23.00 per cent by end March 2014 of their Demand and Time Liabilities (DTL) as on the last Friday of the second preceding fortnight.
+# Withdrawn
+
+2. It has been observed that the recent hardening of long term yields has resulted in banks incurring large mark-to-market (MTM) losses in their investment portfolio. Since these MTM losses are partly resulting from abnormal market conditions and could be recouped going forward, it has been decided to provide the following prudential adjustments for a limited period:
+i. In terms of extant instructions, banks are required to bring down their SLR securities in HTM category from 25.00 per cent to 23.00 per cent of their DTL in a progressive manner as prescribed in paragraph 1 above, the requirement being
+24.50 per cent as of end June 2013. It has now been decided to relax this requirement by allowing banks to retain SLR holdings in HTM category at 24.50 per cent of their NDTL. Banks are, therefore, permitted to exceed the limit of 25.00 per
+----------------------------------------------------------------------------------------------------------------------------------------------- **DEPARTMENT OF BANKING OPERATIONS & DEVELOPMENT, CENTRAL OFFICE, 12** **th** **Floor, Central Office** **Building, Shahid Bhagat Singh Marg, Mumbai-400 001 E-mail : cgmicdbodco@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+cent of total investments under the HTM category provided the excess comprises only SLR securities and the total SLR securities held in the HTM category is not more than 24.50 per cent of their NDTL as on last Friday of the second preceding fortnight, till further instructions.
+
+ii. As per extant instructions, banks may shift investments to HTM with the approval of the Board of Directors once a year and such shifting will normally be allowed at the beginning of the accounting year. As a one-time measure, it has now been decided to permit banks to transfer SLR securities from AFS/HFT to HTM category up to the limit of 24.50 per cent of NDTL as prescribed at para 2 (i) above. Such transfer of securities from AFS/HFT category to HTM category should be made at the lower of book value or market value. Banks have the option of valuing these securities for the purpose of such transfer as at the close of business of July 15, 2013 and depreciation, if any, should be provided for in accordance with para 2.3 (v) of the Master Circular – Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks (<u>DBOD.No.BP.BC.8/21.04.141/2013-14 dated July 1,</u>
+
+<u>2013</u>). If banks choose to transfer securities as above, the transfers must be done at the earliest but not later than September 30, 2013. This transfer must be out of the outstanding position of AFS/HFT securities as at the close of business of August 23, 2013 up to the limit of 24.50 per cent of NDTL (i.e. NDTL as on July 26, 2013 applicable for maintenance of SLR for August 23, 2013). Such one-time transfer from AFS/HFT would be excluded from 5 per cent cap prescribed for value of sales and transfers of securities to/ fr Withdrawn om HTM category under para 2.3 (ii) of the above Master Circular.
+iii. Banks are required to periodically value their AFS and HFT portfolio and provide for net depreciation in accordance with paras 3.2 and 3.3 of the Master Circular dated July 1, 2013 referred to above. Banks will now have the option of distributing the net depreciation on the entire AFS and HFT portfolios on each of the valuation dates in the current financial year in equal instalments during the financial year 2013-14.
+
+Yours faithfully,
+
+## (Rajesh Verma)
+
+Chief General Manager

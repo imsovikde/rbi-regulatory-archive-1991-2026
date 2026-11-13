@@ -1,0 +1,123 @@
+---
+doc_id: "Notifications_2013_1283"
+title: "8% Savings (Taxable) Bonds, 2003 - Premature Encashment"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/SBPR300813CR.pdf"
+pdf_sha256: "870b712565eb0a4ded386d78389be531ddda6d3a2acc5fee0f45f3ff210de3d0"
+md_sha256: "3a8025e9b8ea9077171f83fcde038a16ec30c776d18cb753d9a82ab955b868f7"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:41:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-08-30_Notification_1283_8%25%20Savings%20%28Taxable%29%20Bonds%2C%202003%20-%20Premature%20Encashment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 8% Savings (Taxable) Bonds, 2003 - Premature Encashment
+
+<!-- PAGE 1 -->
+
+RBI/2013-14/206 DGBA.CDD. No. 1448 /13.01.299/2013-14 August 29, 2013
+
+The Chairman / Managing Director Head Office (Government Accounts Department) State Bank of India and Associates All Nationalized Banks (Excluding Punjab and Sind Bank & Andhra Bank) Axis Bank Ltd./ICICI Bank Ltd./HDFC Bank Ltd./ Stock Holding Corporation of India Ltd. (SHCIL)
+
+Dear Sir/Madam,
+
+## <u>8% Savings (Taxable) Bonds, 2003 - Premature Encashment</u>
+
+The captioned bonds, issued with effect from April 21, 2003, vide Government of India Notification No. F 4(10)-W&M/2003 dated March 21, 2003 and subsequent Notification F. No. 4(10)-W&M/2003 dated April 2, 2003, are repayable on the expiry of six years from the date of issue. Premature encashment was not permissible under this scheme.
+
+2. The Government of India has now vide Notifications dated July 29, 2013 and August 16, 2013 (copies enclosed), decided to provide the facility of premature encashment of these bonds to **individual investors** in the age group of sixty years and above, after a minimum lock-in period of three years from the date of issue as indicated below:-
+(a) Lock-in period for investors in the age bracket of 60 to 70 years shall be 5 years from the date of issue.
+(b) Lock-in period for investors in the age bracket of 70 to 80 years shall be 4 years from the date of issue.
+(c) Lock-in period for investors of the age of 80 years and above shall be 3 years from the date of issue.
+3. An investor, desiring to avail of the facility of premature encashment, will have to submit documentary evidence in support of his/her date of birth to satisfaction of
+
+<!-- PAGE 2 -->
+
+*8% Savings (Taxable) Bonds, 2003 - Premature Encashment*
+
+the agency bank. In case of joint holders or more than two holders of a bond, any one of the holders should fulfil the above conditions of eligibility.
+
+4. After aforesaid minimum lock-in period from the date of issue, an eligible investor
+th th th can surrender the bonds at any time after the 10 or 8 or 6 half-year as applicable, corresponding to the respective lock-in period, however, encashment payment will be made on the following interest payment due date. Thus, the effective date of premature encashment for the eligible investors, in case of Non-Cumulative bonds st st will be 1 August and 1 February every year after completion of the lock-in period as th th per the eligibility criteria and for Cumulative bonds, it will be notionally the 7 or 9 or th 11 half-yearly interest payment due date (the date can be any date and not st st necessarily 1 August and 1 February). However, 50% of the interest due and payable for the last six months of the holding period will be recovered as penalty from the investor for premature encashment in such cases, both in respect of cumulative and non-cumulative bonds.
+
+The amount payable on completion of respective half year for per `1000 invested is given hereunder:
+
+|Payable on|Amount payable per `|1000 invested (in `)|
+|---|---|---|
+||Non-Cumulative|Cumulative|
+|th 7 half year|1020.00|1290.63|
+|th 8 half year|1020.00|1342.25|
+|th 9 half year|1020.00|1395.94|
+|th 10 half year|1020.00|1451.78|
+|th 11 half year|1020.00|1509.85|
+
+5. We further clarify the provisions for premature encashment as under:
+i) Premature encashment means encashment of **entire amount invested** **through any single application for 8% Savings (Taxable) Bonds, 2003,** which has completed minimum lock-in period, as per the eligibility criteria from the date of issue. As such, investors can be allowed to withdraw entire amount of investment made on **any single application**. However, if a holder is having multiple investments in the same BLA, he/she can make one or more request(s) for premature encashment of entire amount(s) of one or more investment(s), which has/have completed minimum lock-in period as per the eligibility criteria from the date of issue. ii) **Partial encashment** of amount invested on a single application is not permitted. iii) Where post-dated interest warrants have been issued to eligible investor at the time of investment, they are required to surrender the same along with request for pre-mature encashment.
+
+<!-- PAGE 3 -->
+
+*8% Savings (Taxable) Bonds, 2003 - Premature Encashment*
+
+iv) There is no specific form/declaration, which the investor has to fill-up while submitting his/her request for premature encashment.
+
+v) The investor needs to submit a request letter along with discharge certificate in usual **Form1A**, as is being obtained now, for the full amount to be prematurely encashed.
+6. The premature encashment of investment may be allowed even after despatch of interest warrant, but such requests, received after despatch of interest warrants, must be accompanied by the interest warrant of latest half-year issued to the investor. However, in cases where interest warrants have already been despatched, but not yet received by the holders or not tendered by the holder, request for premature encashment may be accepted on the condition that 50% of the interest due and payable for the last six months of the holding period will be recovered from the principal amount and credited to the Interest Account maintained with CAS, Nagpur. In case of receipt of requests for premature encashments well in advance, Payment Orders for encashment amount/credit to account through NEFT/NECS will
+st st be made on the next half yearly due date, i.e. 1 August/1 February, as the case may. In case where such request is not received well in advance, the issuing offices may take five clear working days to make the payment.
+
+7. Suitable instructions to designated branches operating the scheme may be issued to make the changes in the system to absorb the premature encashment process. The premature encashment option may also be suitably displayed in the dealing branches.
+8. Please acknowledge receipt. Yours faithfully, (Sangeeta Lalwani) General Manager Encl:As above
+
+<!-- PAGE 4 -->
+
+## Government of India Ministry of Finance Department of Economic Affairs
+
+## New Delhi, Dated July 29, 2013
+
+# NOTIFICATION
+
+## <u>8% Savings (Taxable) Bonds, 2003</u>
+
+No.F.4 (10)‐W&M/2003: The Government of India hereby notifies that Paragraph 16 (Repayment) of the aforesaid Notification shall be amended as follows:
+
+## 16. <u>Repayment:</u>
+
+|(i)|The bonds shall be repayable on the expiration of 6 (six) years from the date of issue.|
+|---|---|
+|(ii)|Provision for premature encashment|
+
+Premature encashment in respect of the Bonds shall be allowed for individual investors in the age group of 60 years and above, subject to submission of document relating to date of birth of the investor in support of age to the satisfaction of the bank, after minimum lock in period from the date of issue as indicated below:
+
+(a) Lock in period for investors in the age bracket of 60 to 70 years shall be 5 years from the date of issue.
+(b) Lock in period for investors in the age bracket of 70 to 80 years shall be 4 years from the date of issue.
+(c) Lock in period for investors of the age of 80 years and above shall be 3 year from the date of issue. In case of joint holders or more than two holders of Bond any one of the holders shall fulfill the above conditions of eligibility. After aforesaid minimum lock in period from the date of issue an eligible investor can surrender the Bonds at any time after the 10
+th, 8 th and 6 th half year corresponding to the respective lock in period but redemption payment will be made on the following interest payment due date. Thus the effective date of premature encashment for eligible investors will be 1 st October and 1 st April every year. However, 50% of interest due and payable for the last six months of the holding period will be recovered in such cases both in respect of cumulative and non cumulative bonds.
+
+The other terms and conditions of the Notification shall remain unchanged.
+
+By Order of the President of India
+
+(Dr. Rajast Bharvava) Joint Secretary to the Government of India
+
+<!-- PAGE 5 -->
+
+## Government of India Ministry of Finance Department of Economic Affairs
+
+## New Delhi, Dated August 16, 2013
+
+# NOTIFICATION
+
+## <u>8% Savings (Taxable) Bonds, 2003</u>
+
+No.F.4 (10)‐W&M/2003: The Government of India hereby notifies that the following corrections shall be made in the last Paragraph of the Notification dated July 29, 2013, issued for incorporating amendments regarding the provision for premature encashment for eligible investors.
+
+st “Thus the effective date of premature encashment for eligible investors will be 1 st August and 1 February every year".
+
+The other terms and conditions of the Notification dated July 29, 2013 shall remain unchanged.
+
+By Order of the President of India
+
+(Dr.Rajat Bhargava) Joint Secretary to the Government of India

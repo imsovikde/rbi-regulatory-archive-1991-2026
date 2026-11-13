@@ -1,0 +1,59 @@
+---
+doc_id: "Notifications_2013_8299"
+title: "Auction for Sale (Re-issue) of 7.28 per cent Government Stock, 2019’"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI120813_GS2019.PDF"
+pdf_sha256: "1c2a1400cc0ef5ea52a7d6f69c0e3b86f6149e5877e3917f454429276b625838"
+md_sha256: "310ce707df2d1ff679e78b19c43c9cc9443597b88b9d9dd6d091a2debeaea3a0"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:40:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-08-12_Notification_8299_Auction%20for%20Sale%20%28Re-issue%29%20of%207.28%20per%20cent%20Government%20Stock%2C%202019%E2%80%99.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Auction for Sale (Re-issue) of 7.28 per cent Government Stock, 2019’
+
+<!-- PAGE 1 -->
+
+## Government of India
+
+## Ministry of Finance
+
+## Department of Economic Affairs
+
+## Budget Division
+
+New Delhi, dated August 12, 2013 NOTIFICATION
+
+## <u>Auction for Sale (Re-issue) of ‘7.28 per cent Government Stock, 2019’</u>
+
+F. No.4 (2) W&M/2013: Government of India hereby notifies sale (re-issue) of ‘7.28 per cent Government Stock, 2019’ (hereinafter called 'the Stock') for an aggregate amount of Rs. 4,000 crore (nominal). The sale will be subject to the terms and conditions spelt out in this notification (called ‘Specific Notification’) as also the terms and conditions specified in the General Notification F. No. 4 (13)–W&M/2008, dated October 8, 2008 issued by Government of India.
+## Method of Issue
+
+2. The Stock will be sold through Reserve Bank of India, Mumbai Office, Fort, Mumbai- 400 001 in the manner as prescribed in paragraph 5.1 of the General Notification F. No. 4 (13)– W&M/2008, dated October 8, 2008 by a <u>price based auction using uniform price auction</u> <u>method</u>.
+## Allotment to Non-competitive Bidders
+
+3. The Government Stock up to 5% of the notified amount of the sale will be allotted to eligible individuals and institutions as per the enclosed Scheme for Non-competitive Bidding Facility in the Auctions of Government Securities (**Annex**).
+## Place and date of auction
+
+4. The auction will be conducted by Reserve Bank of India, Mumbai Office, Fort, Mumbai- 400 001 on **August 16, 2013**. Bids for the auction should be submitted in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system on **August 16,**
+**2013**. The non-competitive bids should be submitted between 10.30 a.m. and 11.30 a.m. and the competitive bids should be submitted between 10.30 a.m. and 12.00 noon.
+## When Issued Trading
+
+5. The Stock will be eligible for “When Issued” trading in accordance with the guidelines issued by the Reserve Bank of India.
+## Tenure
+
+6. The Stock will be of six-year tenure commencing from June 3, 2013. The Stock will be repaid at par on June 3, 2019.
+## Date of issue and payment for the stock
+
+7. The result of the auction shall be displayed by the Reserve Bank of India at its Fort, Mumbai Office on **August 16, 2013**. The payment by successful bidders will be on **August** **19, 2013** i.e., the date of re-issue. <u>The payment for the Stock will include accrued interest</u> <u>on the nominal value of the Stock allotted in the auction from the date of original issue i.e.,</u> <u>June 3, 2013 to August 18, 2013.</u>
+## Interest
+
+8. Interest at the rate of 7.28 per cent per annum will accrue on the nominal value of the Stock from the date of original issue date and will be paid half yearly on December 3 and June 3.
+By Order of the President of India
+
+(Dr. Rajat Bhargava) **Joint Secretary to the Government of India**
