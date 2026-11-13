@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2008_UBD_PCB_Cir_No_42_09_09_001_08-09"
+title: "Revision of Individual Housing Loan Limits - Annual Policy Statement for the Year 2008-09-UCBs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84495.PDF"
+pdf_sha256: "1936342cd484be451038f3e42a1c3acdd1abfae968ac6856f84692c29dc11179"
+md_sha256: "f0f3a388031915d828a9fd88f3f4c287a3f07586f7ad5f6bb6a9b534beb6e87d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-05-15_Circular_UBD.PCB.Cir.No.42-09.09.001-08-09_Revision%20of%20Individual%20Housing%20Loan%20Limits%20-%20Annual%20Policy%20Statement%20for%20the%20Year%202008-09-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revision of Individual Housing Loan Limits - Annual Policy Statement for the Year 2008-09-UCBs
+
+<!-- PAGE 1 -->
+
+## RBI/2008/322
+
+UBD.PCB.Cir.No.42 /09.09.001/08-09 May 15, 2008
+
+The Chief Executive Officers of All Primary(Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## Revision of Individual Housing Loan Limits-Annual Policy Statement for the Year 2008-09-UCBs
+
+Please refer to our circular UBD.PCB.Cir.No.16/09.09.001/06-07 dated October 17, 2006 permitting UCBs to extend individual housing loans up to the limit of Rs 25.00 lakh per beneficiary of a dwelling unit.
+
+2. In this connection a reference is invited to Para 213 of the Annual Policy Statement for the year 2008-09 dated April 29, 2008 (copy enclosed). As announced in the Annual Policy Statement, it has been decided to permit Tier II UCBs to extend individual housing loans up to a maximum of Rs.50 lakh per beneficiary of a dwelling unit subject to extant prudential exposure limits.
+3. All other instructions issued in this regard remain unchanged.
+# Withdrawn Yours faithfully,
+
+(A.K Khound) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## <u>Extract from the Annual Policy Statement for the Year 2008-09</u>
+
+213. As per extant norms, UCBs can grant housing loans to individuals up to a maximum of Rs.25 lakh. Based on the representations made by UCBs, it is proposed:
+- to increase the extant limit on individual housing loans from Rs.25 lakh to a maximum of Rs.50 lakh in respect of Tier-II UCBs, subject to certain conditions.
+# Withdrawn

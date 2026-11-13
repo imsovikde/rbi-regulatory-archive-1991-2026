@@ -1,0 +1,54 @@
+---
+doc_id: "Circulars_2008_UBD_PCB_Cir_No_44_09_11_200_07-08"
+title: "Annual Policy Statement for the Year 2008-09 - Undertaking Insurance Business-UCBs"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84496.PDF"
+pdf_sha256: "f55e3903fe880d28b1356a9d9979557592965570529485d1ecfc0e63dc4bf0fb"
+md_sha256: "01b1298ab47f7dfc33999d1b09f7c72a1e42cc2cbee4e3bd156f11c2a06c916d"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:00Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-05-15_Circular_UBD.PCB.Cir.No.44-09.11.200-07-08_Annual%20Policy%20Statement%20for%20the%20Year%202008-09%20-%20Undertaking%20Insurance%20Business-UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Annual Policy Statement for the Year 2008-09 - Undertaking Insurance Business-UCBs
+
+<!-- PAGE 1 -->
+
+## RBI/2008/ 323
+
+UBD.PCB.Cir.No.44 /09.11.200/07-08 May 15, 2008
+
+The Chief Executive Officer of All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+**Annual Policy Statement for the Year 2008-09** - **Undertaking Insurance business-UCBs.**
+
+Please refer to para 212 of the Annual Policy Statement for the year 2008-09 dated April 29, 2008 (copy enclosed).
+
+2. In terms of our circular UBD.BPD.PCB.Cir.No 35/09.112.00/04-05 dated January 24, 2005, all scheduled UCBs having a minimum net worth of Rs.50 crore were permitted to undertake insurance business as corporate agents without risk participation. All other UCBs were permitted to undertake insurance business on a referral basis, without any risk participation, through their network of branches. Further, vide circular UBD.PCB.Cir.No. 42 /09.11.200/06-07 dated May 7, 2007, UCBs other than those classified in Grade III or IV, having a minimum net worth of Rs 10 crore and registered in States that have entered into MoUs with the Reserve Bank or registered under the Multi State Co-operative Societies Act, 2002 were permitted to undertake insurance agency business as corporate agents without risk participation.
+3. As announced in the Annual Policy Statement 2008-09, it has been decided to dispense with the minimum networth criteria for undertaking insurance business as
+# Withdrawn
+
+corporate agent without risk participation for UCBs, with other conditions remaining unchanged. Accordingly, UCBs, other than those classified as Grade III and IV, and registered in states that have entered into MoU with the Reserve Bank or under Multi- State Cooperative Societies Act, 2002, are permitted to undertake insurance business as corporate agent, without risk participation, without the prior approval of Reserve Bank of India.
+
+4. All other instructions issued in this regard remain unchanged.
+Yours faithfully,
+
+(A.K Khound) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+## <u>Annual Policy Statement for the Year 2008-09</u>
+
+## Para No 212: Insurance Business by UCBs: Liberalization of Norms
+
+At present, UCBs registered in States that have signed MoUs with the Reserve Bank or registered under the Multi-State Cooperative Societies Act, 2002 with a minimum net worth of Rs.10 crore are permitted to undertake insurance business as corporate agents without risk participation, subject to certain conditions. Taking into consideration the representations from UCBs, it is proposed :
+
+- to dispense with the minimum net worth criterion for undertaking such insurance business provided other criteria as prescribed from time to time are met.
+# Withdrawn

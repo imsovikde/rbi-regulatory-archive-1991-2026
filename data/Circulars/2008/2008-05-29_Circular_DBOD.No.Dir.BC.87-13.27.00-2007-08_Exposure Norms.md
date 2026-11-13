@@ -1,0 +1,40 @@
+---
+doc_id: "Circulars_2008_DBOD_No_Dir_BC_87_13_27_00_2007-08"
+title: "Exposure Norms"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84685.PDF"
+pdf_sha256: "cecbd32892d6f156da1435fbfd970d40cd2f17fa0ce1b0225ff8080acfcab130"
+md_sha256: "82f3b7f1abd30d886992facc8240d3ae8f4ab28449740058bbd959adc334b502"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:02:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-05-29_Circular_DBOD.No.Dir.BC.87-13.27.00-2007-08_Exposure%20Norms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exposure Norms
+
+<!-- PAGE 1 -->
+
+## RBI/2007-08/338 DBOD. No.Dir. BC. 87/13.27.00/2007- 08
+
+## May 29, 2008
+
+## Jyeshtha 8, 1929(Saka)
+
+All Scheduled Commercial Banks (Excluding RRBs)
+
+## Dear Sir / Madam
+
+## Exposure Norms
+
+Please refer to para 2.1.1 of the Master Circular on Exposure Norms (Circular DBOD. No. Dir.BC.11/ 13.03.00/ 2007-08 dated July 2, 2007) in terms of which the exposure limit has been fixed at 15 percent of capital funds in case of a single borrower.
+
+2. On a review of the current situation in the Oil Sector, it has been decided to revise with immediate effect the above exposure limit to twenty five per cent of the capital funds, only in respect of Oil Companies who have been issued Oil Bonds (which do not have SLR status) by Government of India. In addition to this, banks may in exceptional circumstances, as hitherto, in terms of paragraph
+2.1.3 of the Master Circular, considerWithdrawnenhancement of the exposure to the Oil Companies up to a further 5 per cent of capital funds. The other instructions contained in the above mentioned Master Circular remain unchanged.
+## Yours faithfully
+
+## (P Vijaya Bhaskar) Chief General Manager

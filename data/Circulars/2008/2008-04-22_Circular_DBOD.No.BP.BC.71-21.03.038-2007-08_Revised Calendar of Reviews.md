@@ -1,0 +1,116 @@
+---
+doc_id: "Circulars_2008_DBOD_No_BP_BC_71_21_03_038_2007-08"
+title: "Revised Calendar of Reviews"
+category: "Circulars"
+year: 2008
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/84120.PDF"
+pdf_sha256: "430ecb8db167d86634eecaf0df54d68c6eeff2cf89568b9e4d344a1fb1b5ab8e"
+md_sha256: "e34e4c342a337736fa418d2a7652c6339456a16f7aea2c1a3bb2d34bb725cd22"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T08:01:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-04-22_Circular_DBOD.No.BP.BC.71-21.03.038-2007-08_Revised%20Calendar%20of%20Reviews.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Revised Calendar of Reviews
+
+<!-- PAGE 1 -->
+
+RBI/2007-08/289 DBOD.No.BP.BC. 71 /21.03.038/2007-08 April 22, 2008
+
+The Chief Executives of All Public Sector Banks
+
+Dear Sir,
+
+## <u>Revised Calendar of Reviews</u>
+
+Please refer to our circular DBOD.No.BP.BC.96/21.03.038/2004-05 dated June 10, 2005 advising Calendar of Reviews to be submitted to the Board and Management Committee of the bank.
+
+2. With a view to reducing the burden on Boards of banks on account of the Calendar of Reviews to be undertaken by them and to ensure that the Calendar of Reviews reflects the present day concerns, the calendar items have been revised. The revised Calendar of Reviews to be put up to the Board, Management Committee and Audit Committee are detailed in Annex I to III. It is emphasised that the above calendar outlines the critical minimum requirements of review and the bank Boards will have the discretion to prescribe additional reviews to suit their requirements.
+3. The revised schedule may please be brought into force with effect from 1st June 2008. If for any particular reason it is not possible to place the memorandum as per the calendar before the Board in the month it is due, a note should be put up to the Board giving reasons for the delay and when the review is proposed to be placed before the Board.
+4. Please acknowledge receipt.
+Yours faithfully,
+
+(Prashant Saran)
+
+# WithdrawnChief General Manager-In-Charge
+
+<!-- PAGE 2 -->
+
+## Annex – I
+
+## <u>Revised Calendar of Reviews to be put up to the Board</u>
+
+## I. Review of Operations
+
+## A. Reviews that must be placed before the Board in every Meeting
+
+**1) Funds Management**: A report on Funds and Treasury Management including derivatives giving the position as on the last reporting Friday of every month from the previous Board meeting. The report should contain overview of liquidity management of the bank along with summary of the total purchase / sales transactions without transaction-wise details. Compliance with CRR / SLR requirements may also be reported. The review should give an overview on deposit growth and also look at the achievement of investment policy objectives.
+**2) Position Report**: A Report giving details of Deposits, Advances, Investments, off Balance Sheet items, C-D ratio, NPAs, Recovery thereof, etc. as on last reporting Friday. Compliance in respect of outstanding observations of the Board, adherence to exposure norms may also be included. The Report should not be a fact sheet but should capture qualitative data on the important market trends, market developments, regulatory initiatives, etc. between the review periods and should stimulate constructive suggestions and discussions on critical appraisal of the strategies followed presently and the need for changes.
+**3) Compliance Reporting**: The Compliance Reporting may be made on an exception basis.
+**4) Report of the Risk Management Committee of the Board**: The Board may review detailed reports from Risk Management Committees.
+**5) Summary of Reports of other Committees of the Board**: The Board may review summary reports from Management Committee, Audit Comm Withdrawn ittee and other Committees of the Board.
+**6) Slippage and Recovery of NPAs**: The Board may review slippages in asset classification in the borrowal accounts with outstanding of Rs.5 crore and above and review NPA accounts which have registered recoveries of Rs 1 crore and above.
+**7) State of Preparedness in respect of Major initiatives**: The reviews should be placed before the Board indicating the major initiatives and the bank’s preparedness in areas i.e Basel II, AML/KYC, and Information Technology etc.
+## B. Reviews of Developments as and when they take place
+
+**1) Working Results**: An analysis of the working results of the bank as and when they are announced along with an analytical note and proposals for future course of action. The bank’s comparative position should also be highlighted.
+**2) Other important Developments**: The reviews should indicate the major developments that have taken place, subsequent to the previous Board meeting**.**
+
+<!-- PAGE 3 -->
+
+## C. Yearly Reviews to be put up to the Board
+
+**1) Bank’s Balance Sheet**: The Audited Balance Sheet including the quarterly financial results along with comparison of various parameters with working results of other banks and should include analysis of Balance Sheet prescribed by RBI.
+**2) Long Form Audit Report**: Summary of LFAR of the bank along with comments from the Audit Committee on the auditors observations.
+**3) Subsidiaries and RRBs**: A critical review of the performance of the bank's subsidiaries and the RRBs sponsored by it, separately.
+**4) Overseas operations**: A detailed review of the bank's overseas operations.
+**5) Use of Hindi**: A note on the use of Hindi in the bank.
+**6) Review of all policies**: An annual review of all policies formulated by the bank like Loan Policy, Recovery Policy, Funds Management Policy, Risk Management Policy, ALM, etc.
+**7) Review of Branch Network**: A comprehensive review of bank’s need for branch expansion and branch network with a more commercial outlook.
+## II. Review of Strategy
+
+**In every Board meeting, separate time slot should be allocated for taking up strategy review on** **the following:**
+
+**1) Business Plan-targets and achievement**: Performance review vis-à-vis business goals and targets set up by the Board itself should be comprehensive and cover specifically, the banks’ structural / organisational requirement, Capital Planning etc. The intention is that the review should lead to initiation of business strategies of growth and pr
+# Withdrawn
+
+ofitability. The review should also contain bank's performance under priority sector advances and special programmes of credit assistance like SGSY, PMRY, etc., NPAs in such advances, performance under Lead Districts and sick SSI units being nursed by the bank.
+
+**2) Review of non-fund business:** A review of the entire gamut of operations of the bank’s non-fund business.
+**3) Human Resources Management, Training& Industrial Relations** : A review of the bank’s HRD policy, training programmes, etc
+**4) New Prospective business/products lines and closure of existing business/product lines-**A review indicating the new prospective business areas/ products that are proposed by the bank and also those business lines/products which the bank proposes to close down to be placed before the Board.
+**5) Review of technology architecture content**: Summary of transaction volumes, scalability, new developments in technology field, Business Continuity Planning, Disaster Recovery System, Information Security Review.
+
+<!-- PAGE 4 -->
+
+## Annex-II
+
+## <u>Revised Calendar of Reviews to be put up to the Management Committee</u>
+
+## I. Monthly
+
+1. Credit proposals sanctioned by Chairman & Managing Director / Executive Director. **II. Quarterly**
+1. Compromise proposals / bad debts written off with the approval of Executive Director / Chairman and Managing Director.
+2. Compliance on observations by the Management Committee.
+3. Review of top 100 borrowal accounts of below Rs.5 crore in each category of NPA i.e., Sub- standard / Doubtful / Loss (75 in each quarter). **III. Half-yearly**
+1. Review of Credit / Smart / Debit Cards **IV. Yearly**
+1. Review of Corporate Budget-includes review of publicity expenses, capital expenditure vis-à-vis capital budget, donations made during the year, etc. - deviations to be put up to the Board.
+2. Overdue loan proposals beyond six months falling in the powers of Management Committee.
+# Withdrawn
+
+<!-- PAGE 5 -->
+
+## Annex – III
+
+## <u>Calendar of Reviews to be put up to the Audit Committee</u>
+
+**I. Monthly** - Nil **II. Quarterly**
+1. Position of house-keeping (i.e., balancing of books, clearing differences, Nostro / Vostro accounts).
+2. Performance of Audit / Inspection Department.
+3. Inspection reports of poorly rated branches-Progress in rectification of deficiencies. **III. Half Yearly**
+**1. Loss Assets**: Review of loss assets with balance of **Rs.10 lakh** and above outstanding for more than two years and where legal action has not been initiated
+# Withdrawn
