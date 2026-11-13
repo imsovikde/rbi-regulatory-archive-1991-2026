@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2006_Notification_No_DNBS_6_CGM_PK_-2006"
+title: "The Securitisation Companies and Reconstruction Companies (Reserve Bank) (Amendment) Guidelines and Directions, 2006"
+category: "Circulars"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73377.PDF"
+pdf_sha256: "b31831beff11c6669444561661dab9d1d76bfd1838b3bea7881c659c2d92d56d"
+md_sha256: "8044d64909e112798676a44bfb3d9948179cea77c9cad3d253a8d84cbb5554b1"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T07:55:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2006/2006-10-19_Circular_Notification%20No.DNBS.6-CGM%20%28PK%29-2006_The%20Securitisation%20Companies%20and%20Reconstruction%20Companies%20%28Reserve%20Bank%29%20%28Amendment%29%20Guidelines%20and%20Directions%2C%202006.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# The Securitisation Companies and Reconstruction Companies (Reserve Bank) (Amendment) Guidelines and Directions, 2006
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/157 DNBS.PD.CC.4/SCRC/10.30.000/2006-2007 October 19, 2006 The Securitisation Companies and Reconstruction Companies (Reserve Bank) (Amendment) Guidelines and Directions, 2006
+
+It has been decided that a Securitisation Company or Reconstruction Company, which has obtained a Certificate of Registration from the Bank under Section 3 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 should commence business within six months from the date of grant of Certificate of Registration. The Bank may, on an application made by the Securitisation Company or Reconstruction Company, grant extension of time for commencement of business beyond six months, on merits, but in no case, such extension of time shall exceed 12 months from the date of grant of Certificate of Registration. Those Securitisation Companies or Reconstruction Companies which have already obtained a Certificate of Registration from the Bank under Section 3 of the Act, ibid, and not commenced business till date, shall commence business within a period of six months from the date of the Notification.
+
+A copy of the Notification No.DNBS.6/CGM(PK)-2006 dated October 19, 2006 is
+
+# Withdrawn
+
+enclosed.
+
+(P. Krishnamurthy) Chief General Manager-in-Charge
+
+<!-- PAGE 2 -->
+
+Reserve Bank of India Department of Non- Banking Supervision Central Office, Centre 1 World Trade Centre Mumbai 400 005
+
+Notification No.DNBS.6 /CGM (PK)-2006 dated October 19, 2006
+
+The Securitisation Companies and Reconstruction Companies (Reserve Bank)(Amendment)Guidelines and Directions, 2006
+
+The Reserve Bank of India, having considered it necessary in the public interest, and being satisfied that, for the purpose of enabling the Reserve Bank to regulate the financial system to the advantage of the country and to prevent the affairs of Securitisation Company or Reconstruction Company from being conducted in a manner detrimental to the interest of investors or in any manner prejudicial to the interest of such Securitisation Company or Reconstruction Company, hereby in exercise of the powers conferred under Sections 3, 9,10 and 12 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, directs that the Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003 shall stand amended withWithdrawn immediate effect, as follows, namely:-
+
+## Amendment of the Directions
+
+In the Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines and Directions, 2003, after clause (ii) of paragraph 4, the following clauses shall be inserted:
+
+“(ii) (a) A Securitisation Company or Reconstruction Company shall commence business within six months from the date of grant of Certificate of Registration by the Bank;
+
+<!-- PAGE 3 -->
+
+Provided that on the application by the Securitisation Company or Reconstruction Company, the Bank may grant extension for such further period, not exceeding one year in aggregate from the date of grant of Certificate of Registration.
+
+(ii) (b) A Securitisation Company or Reconstruction Company, which has obtained a Certificate of Registration from the Bank under Section 3 of the Act and not commenced business as on the date of the Notification shall commence business within six months from the date of Notification.”
+
+(P.Krishnamurthy) Chief General Manager-In-Charge
+
+# Withdrawn
