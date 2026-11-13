@@ -1,0 +1,81 @@
+---
+doc_id: "Circulars_2021_DOR_GOV_REC_8_29_67_001_2021-22"
+title: "Corporate Governance in Banks - Appointment of Directors and Constitution of Committees of the Board"
+category: "Circulars"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/24CORPORATE68CA91B159A2408DB3EBC479471DD2B4.PDF"
+pdf_sha256: "4b1029ba6424d62ea371b59c04d0287c188bdb99abeb4c64537ebb1f5741ccb7"
+md_sha256: "29452ee18c435c2884c06a9d3f1d2eadbd341cfea012837280eadde93ebe72ed"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:45:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2021/2021-04-26_Circular_DOR.GOV.REC.8-29.67.001-2021-22_Corporate%20Governance%20in%20Banks%20-%20Appointment%20of%20Directors%20and%20Constitution%20of%20Committees%20of%20the%20Board.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Corporate Governance in Banks - Appointment of Directors and Constitution of Committees of the Board
+
+<!-- PAGE 1 -->
+
+RBI/2021-22/24 DOR.GOV.REC.8/29.67.001/2021-22 April 26, 2021 To Commercial Banks (as per applicability)
+
+Madam / Sir, **Corporate Governance in Banks -** **Appointment of Directors and Constitution of Committees of the Board**
+
+A Discussion Paper on ‘<u>Governance in Commercial Banks in India</u>’ was issued by the Reserve Bank on June 11, 2020 to review the framework for governance in the commercial banks. Based on the feedback received, a comprehensive review of the framework has been done, and a Master Direction on Governance will be issued in due course. In order to address a few operative aspects received through such feedback, it has been decided to issue instructions with regard to the Chair and meetings of the board, composition of certain committees of the board, age, tenure and remuneration of directors, and appointment of the whole-time directors (WTDs). **Applicability**
+
+# Withdrawn
+
+2. The revised instructions would be applicable to all the Private Sector Banks including Small Finance Banks (SFBs) and wholly owned subsidiaries of Foreign Banks. In respect of State Bank of India and Nationalised Banks, these guidelines would apply to the extent the stipulations are not inconsistent with provisions of specific statutes applicable to these banks or instructions issued under the statutes. The contents of this circular must be read along with other relevant governing statutes and shall be applicable notwithstanding anything to the contrary contained in the licensing conditions, notifications, directions, regulations, guidelines, instructions, etc., issued by the Reserve Bank before the issue of this circular. The circular will not be applicable in the case of foreign banks operating as branches in India. The applicability to other commercial banks viz., Local Area Banks, Payments Banks and Regional Rural Banks will be notified separately.
+__________________________________________________________________________________________________________ िविनयमन िवभाग, क � ी य कायार्लय, 12व और 13व मंिज़ल, क � ी य कायार्लय भवन, शहीद भगत �संह मागर्, फोटर्, मुंबई 400001 Department of Regulation, Central Office, 12th& 13thFloor, Central Office Bhavan, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 टेलीफोन / Tel No: 22661602, 22601000 <u>फै क् स / Fax No: 022-2270 5691</u> ई / मैल-E-mail: cgmicdor@rbi.org.in <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+## Chair and meetings of the Board
+
+3. The Chair of the board shall be an independent director. In the absence of the Chair of the board, the meetings of the board shall be chaired by an independent director. The quorum for the board meetings shall be one-third of the total strength of the board or three directors, whichever is higher. At least half of the directors attending the meetings of the board shall be independent directors.
+## Committees of the Board
+
+## (a) Audit Committee of the Board (ACB)
+
+4. The ACB shall be constituted with only non-executive directors (NEDs). The Chair of the board shall not be a member of the ACB. The ACB shall meet with a quorum of three members. At least two-thirds of the members attending the meeting of the ACB shall be independent directors¹. The ACB shall meet at least once in a quarter. The meetings of the ACB shall be chaired by an independent director who shall not chair any other committee of the Board. The Chair of the ACB shall not be a member of any committee of the board which has a mandate of sanctioning credit exposures. All members should have the ability to understand all financial statements as well as the notes/ reports attached thereto and at least one member shall have requisite professional expertise/ qualification in financial accounting or financial management [*e.g.*, experience in application of accounting standards and practices, includingWithdrawn internal controls around it].
+## (b) Risk Management Committee of the Board (RMCB)
+
+5. The board shall constitute an RMCB with a majority of NEDs. The RMCB shall meet with a quorum of three members. At least half of the members attending the meeting of the RMCB shall be independent directors of which at least one member shall have professional expertise/ qualification in risk management². Meetings of RMCB shall be chaired by an independent director who shall not be a Chair of the board or any other committee of the board. The Chair of the board may be a member of the RMCB only if he/she has the requisite risk management expertise. The RMCB shall meet at least once in each quarter. *Refer para (A) of DOS.No.BC.14/Admn./919/16.13.100/95 dated September 26, 1995* *Refer para (1.5) of ‘Guidance Note on Management of Credit Risk’ issued with* <u>DBOD.No.BP.520/21.04.103/2002-03 dated</u> <u>October 12, 2002</u>.
+
+<!-- PAGE 3 -->
+
+## (c) Nomination and Remuneration Committee (NRC)
+
+6. The board shall constitute an NRC made up of only NEDs. The NRC shall meet with a quorum of three members. At least half of the members attending the meeting of the NRC shall be independent directors, of which one shall be a member of the RMCB. The meetings of the NRC shall be chaired by an independent director. The Chair of the board shall not chair the NRC. The meeting of NRC may be held as and when required³.
+## Age and tenure of NEDs
+
+7. The upper age limit for NEDs, including the Chair of the board, shall be 75 years and after attaining the age of 75 years no person can continue in these positions⁴.
+8. The total tenure of an NED, continuously or otherwise, on the board of a bank, shall not exceed eight years. After completing eight years on the board of a bank the person
+5 may be considered for re-appointment only after a minimum gap of three years. This will not preclude him/her from being appointed as a director in another bank subject to meeting the requirements.
+
+## Remuneration of NEDs
+
+9. In addition to sitting fees and expenses related to attending meetings of the board and its committees as per extant statutory norms/ practices, the bank may provide for
+# Withdrawn
+
+payment of compensation to NEDs in the form of a fixed remuneration commensurate with an individual director’s responsibilities and demands on time and which are considered sufficient to attract qualified competent individuals. However, such fixed remuneration for an NED, other than the Chair of the board, shall not exceed ₹20 lakh per annum⁶.
+
+## Tenure of MD&CEO and WTDs
+
+10. Subject to the statutory approvals required from time to time, the post of the MD&CEO or WTD cannot be held by the same incumbent for more than 15 years. Thereafter, the individual will be eligible for re-appointment as MD&CEO or WTD in the same bank, if considered necessary and desirable by the board, after a minimum *Refer part of para B(II)(1.2) of Annex of* <u>DOR.Appt.BC.No.23/29.67.001/2019-20 dated November 4, 2019</u>*.* 4*Refer para (3) of DBOD.No.BC.24/08.139.001/2002-03 dated September 9, 2002* *5Refer para (2) & (3) of DBOD.No.BC.25/08.95.004/2000 dated September 25, 2000* *Refer para (1.2) of Annex of* <u>DBR.No.BC.97/29.67.001/2014-15 dated June 1, 2015</u>*.*
+
+<!-- PAGE 4 -->
+
+gap of three years, subject to meeting other conditions. During this three-year cooling period, the individual shall not be appointed or associated with the bank or its group entities in any capacity, either directly or indirectly.
+
+11. It is clarified that the extant instructions on upper age limit for MD&CEO and WTDs in the private sector banks would continue and no person can continue as MD&CEO or WTD beyond the age of 70 years. Within the overall limit of 70 years, as part of their internal policy, individual bank's Boards are free to prescribe a lower retirement age for the WTDs, including the MD&CEO.
+12. MD&CEO or WTD who is also a promoter/ major shareholder, cannot hold these posts for more than 12 years. However, in extraordinary circumstances, at the sole discretion of the Reserve Bank such MD&CEO or WTDs may be allowed to continue up to 15 years. While examining the matter of re-appointment of such MD&CEOs or WTDs within the 12/15 years period, the level of progress and adherence to the milestones for dilution of promoters’ shareholding in the bank shall also be factored in by the Reserve Bank.
+## Transition Arrangement
+
+13. While the instructions shall come into effect from the date of issue of this circular, in order to enable smooth transition to the revised requirements, banks are permittedWithdrawn to comply with these instructions latest by October 01, 2021. Specifically:
+(i) The Chair of board who is not an independent director on the date of issue of this circular shall be allowed to complete the current term as Chair as already approved by the Reserve Bank. (ii) Banks with MD&CEOs or WTDs who have already completed 12/15 years as MD&CEO or WTD, on the date these instructions coming to effect, shall be allowed to complete their current term as already approved by the Reserve Bank.
+Yours faithfully,
+
+(Shrimohan Yadav) Chief General Manager
