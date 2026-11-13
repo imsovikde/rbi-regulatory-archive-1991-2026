@@ -1,0 +1,47 @@
+---
+doc_id: "Press-Releases_2015_34435"
+title: "Result of the Overnight and 2 day variable rate reverse repo auctions held on July 13, 2015"
+category: "Press-Releases"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR118D505E887BC1A408CB4853B8673490129.PDF"
+pdf_sha256: "36fc2601c1628a96f984e643c5b0464c1d38aac91af8b69782fe8c5274b6b05c"
+md_sha256: "ab3afe2af8a6dc7317e844c6a3667c22b6152f55e66adf1245cffcccb972a2f4"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:50:04Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2015/2015-07-13_Press-Release_34435_Result%20of%20the%20Overnight%20and%202%20day%20variable%20rate%20reverse%20repo%20auctions%20held%20on%20July%2013%2C%202015.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the Overnight and 2 day variable rate reverse repo auctions held on July 13, 2015
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-400001 _____________________________________________________________________________________________________________________ 0वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358 इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## July 13, 2015
+
+**Result of the Overnight and 2 day variable rate reverse repo auctions held on July 13, 2015**
+
+|Tenor|Overnight|2 days|
+|---|---|---|
+|Notified Amount (in crore)|10,000|15,000|
+|Total amount of offers received (in crore)|5,660|11,630|
+|Amount allotted (in crore)|5,660|11,630|
+|Cut off Rate (%)|7.24|7.24|
+|Weighted Average Rate (%)|7.21|7.21|
+|Partial Allotment Percentage of offers received at cut off rate|NA|NA|
+
+## Ajit Prasad
+
+## Press Release : 2015-2016/118
+
+Assistant General Manager
