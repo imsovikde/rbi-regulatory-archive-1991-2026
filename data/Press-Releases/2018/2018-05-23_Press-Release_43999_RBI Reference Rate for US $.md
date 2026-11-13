@@ -1,0 +1,48 @@
+---
+doc_id: "Press-Releases_2018_43999"
+title: "RBI Reference Rate for US $"
+category: "Press-Releases"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR306740A3C3F2910E49B5BB301F30A905D161.PDF"
+pdf_sha256: "e61278c5a684751e8a8c8702c77198d62c1a2e3cc97a00f337549282ae463151"
+md_sha256: "3304729a80a38c3c174a3c1e7d6c33eca96c15b6e558b5479313c938b043848b"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T21:10:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-05-23_Press-Release_43999_RBI%20Reference%20Rate%20for%20US%20%24.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI Reference Rate for US $
+
+<!-- PAGE 1 -->
+
+||प्रेस प्रकाशनी|PRESS RELEASE|
+|---|---|---|
+|||भारतीय �रज़वर् बक RESERVE BANK OF INDIA|
+|संचार वभाग, कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई|- 400001||
+|_____________________________________________________________________________________________________________________|0 वेबसाइट|: www.rbi.org.in/hindi|
+|DEPARTMENT OF COMMUNICATION|, Central Office, S.B.S.Marg, Mumbai-400001|Website : www.rbi.org.in|
+|फोन/Phone: 022-22610835 फै क् स /Fax: 91 22 22660358|इ-मेल email|: helpdoc@rbi.org.in|
+
+May 23, 2018
+
+# RBI Reference Rate for US $
+
+The Reserve Bank of India’s Reference Rate for the US Dollar is 68.2139 on May 23, 2018. The corresponding rate for the previous day (May 22, 2018) was
+
+68.0187. Based on the reference rate for the US Dollar and the middle rates of the cross-
+currency quotes, the exchange rate of EUR, GBP and JPY against the Rupee are given below: **Date**
+
+|Currency|||
+|---|---|---|
+||May 22, 2018|May 23, 2018|
+|1 EUR|80.0716|80.2400|
+|1 GBP|91.2471|91.4271|
+|100 YEN|61.25|61.74|
+
+<u>Note : The SDR-Rupee rate will be based on the reference rate.</u>
+
+# Ajit Prasad Press Release : 2017-2018/3067 Assistant Adviser
