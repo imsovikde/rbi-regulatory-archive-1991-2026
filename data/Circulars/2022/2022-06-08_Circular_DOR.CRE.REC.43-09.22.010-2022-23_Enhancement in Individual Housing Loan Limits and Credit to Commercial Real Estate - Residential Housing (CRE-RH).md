@@ -1,0 +1,65 @@
+---
+doc_id: "Circulars_2022_DOR_CRE_REC_43_09_22_010_2022-23"
+title: "Enhancement in Individual Housing Loan Limits and Credit to Commercial Real Estate - Residential Housing (CRE-RH)"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/67RCBCRERH6CC4B8D3644744EA8773889B8AA67615.PDF"
+pdf_sha256: "319d9ff420ab655084689a451a1b8763f350e2284572f5af77fab01f6fd4cef9"
+md_sha256: "a1601b97d28aef7133971b9ed990106370454d1dc9cbb5e978d9675f72b39a57"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-06-08_Circular_DOR.CRE.REC.43-09.22.010-2022-23_Enhancement%20in%20Individual%20Housing%20Loan%20Limits%20and%20Credit%20to%20Commercial%20Real%20Estate%20-%20Residential%20Housing%20%28CRE-RH%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Enhancement in Individual Housing Loan Limits and Credit to Commercial Real Estate - Residential Housing (CRE-RH)
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/67 DOR.CRE.REC.43/09.22.010/2022-23 June 08, 2022
+
+All State Co-operative Banks (StCBs) All District Central Co-operative Banks (DCCBs)
+
+Madam / Dear Sir,
+
+## Enhancement in Individual Housing Loan limits and credit to Commercial Real
+
+## Estate-Residential Housing (CRE-RH)
+
+Please refer to our <u>circulars RPCD CO.RCBD.BC.No.15 /03.03.01/2009-10 dated</u> <u>August 13, 2009</u>, <u>RPCD.CO.RF.BC.No.109/07.38.01/2008-09 dated May 25, 2009</u> and <u>RPCD.CO.RCBD. BC.No. 48 /03.03.01/2010-11 dated January 20, 2011</u> issued on the above subject.
+
+2. As announced in the <u>Statement on Developmental and Regulatory Policies</u> (<u>para</u> <u>no.1 & 2 annexed</u>), it has been decided to revise the limits on residential housing loans sanctioned by rural co-operative banks to an individual borrower as under:
+
+|Category of the bank|Existing Limit Withdrawn (per individual borrower)|Revised Limit (per individual borrower)|
+|---|---|---|
+|(a) StCBs/DCCBs having assessed net worth less than ₹100 crore|₹20 lakh|₹50 lakh|
+|(b) StCBs/DCCBs having assessed net worth equal to or more than ₹100 crore|₹30 lakh|₹75 lakh|
+
+3. Further, it has been decided to allow StCBs and DCCBs to extend finance to Commercial Real Estate-Residential Housing (CRE-RH) within the existing aggregate housing finance limit of 5% of their total assets. For this purpose, CRE-RH shall consist of loans to builders/developers for residential housing projects (except for captive __________________________________________________________________ िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001
+
+हंदी आसान है, इसका �योग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+consumption). Such projects should ordinarily not include non-residential commercial real estate. However, integrated housing projects comprising some commercial space (e.g. shopping complex, school, etc.) can also be classified under CRE-RH, provided that the commercial area in the residential housing project does not exceed 10% of the total Floor Space Index (FSI) of the project. Standard asset provision of 0.75% and risk weight of 75% shall be maintained for CRE-RH advances.
+
+4. Banks shall have a Board-approved policy for financing CRE-RH and a review note on the performance of the CRE-RH portfolio shall be placed before the Board at least on a half-yearly basis. All other extant instructions in the matter shall remain unchanged. The above instructions will come into effect from the date of this circular. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Extract from Statement on Developmental and Regulatory
+
+## Policies June 08, 2022
+
+## 1. Individual Housing Loans by Cooperative Banks – Enhancement in Limits
+
+Extant guidelines prescribe prudential limits on the amount of individual housing loans that can be extended by Primary (Urban) Co-operative Banks (UCBs), and Rural Cooperative Banks (RCBs-State Cooperative Banks and District Central Cooperative Banks) to their customers. These limits were last revised for UCBs in 2011 and for RCBs in 2009. Taking into account the increase in housing prices since the limits were last revised and considering the customer needs, it has been decided to increase the existing limits on individual housing loans by cooperative banks. Accordingly, the limits for Tier I /Tier II UCBs shall stand revised from ₹30 lakh/ ₹70 lakh to ₹60 lakh/ ₹140 lakh, respectively. As regards RCBs, the limits shall increase from ₹20 lakh to ₹50 lakh for RCBs with assessed net worth less than ₹100 crore; and from ₹30 lakh to ₹75 lakh for other RCBs. A detailed circular will be issued separately.
+
+## 2. Permitting Rural Co-operative Banks (RCBs) to Lend to Commercial Real Estate
+
+**- Residential Housing (CRE-RH) Sector** As per the extant guidelines, State Co-operative Banks (StCBs) and District Central Co-operative Banks (DCCBs) are prohibited from extending loans to the commercial real estate sector. Considering the growing need for affordable housing and to realise Withdrawn their potential in providing credit facilities to the housing sector, it has been decided to allow StCBs and DCCBs to extend finance to Commercial Real Estate – Residential Housing (CRE-RH) within the existing aggregate housing finance limit of 5 per cent of their total assets. A detailed circular will be issued separately.

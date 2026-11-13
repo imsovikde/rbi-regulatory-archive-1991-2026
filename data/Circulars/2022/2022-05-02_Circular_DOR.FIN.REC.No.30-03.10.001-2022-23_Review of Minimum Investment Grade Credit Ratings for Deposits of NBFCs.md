@@ -1,0 +1,38 @@
+---
+doc_id: "Circulars_2022_DOR_FIN_REC_No_30_03_10_001_2022-23"
+title: "Review of Minimum Investment Grade Credit Ratings for Deposits of NBFCs"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/37CMIGR37687B27DCA44E1E9019CC2118E0D0F3.PDF"
+pdf_sha256: "581e9f8cabbe50c8460f0e327761c89aa651a12e786dee4487764110d6fbefc5"
+md_sha256: "a6029976a79317afc82df75a07001238697a1a7281e2421e44c3bb2d5c6e18dd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-05-02_Circular_DOR.FIN.REC.No.30-03.10.001-2022-23_Review%20of%20Minimum%20Investment%20Grade%20Credit%20Ratings%20for%20Deposits%20of%20NBFCs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Minimum Investment Grade Credit Ratings for Deposits of NBFCs
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+RESERVE BANK OF INDIA <u>www.rbi.org.in</u> RBI/2022-23/37 DOR.FIN.REC.No.30/03.10.001/2022-23 May 02, 2022
+
+All Deposit taking NBFCs (including deposit taking HFCs)
+
+Dear Sir/ Madam,
+
+## Review of Minimum Investment Grade Credit Ratings for Deposits of NBFCs
+
+Please refer to para 9 of <u>Master Direction – Non-Banking Financial Companies</u> <u>Acceptance of Public Deposits (Reserve Bank) Directions, 2016</u> wherein the names of approved credit rating agencies and their respective minimum investment grade credit rating for the purpose of accepting public deposits by NBFCs have been listed.
+
+2. On a review, it has been decided that the minimum investment grade credit rating for deposits of NBFCs shall be ‘BBB–’ from any of the SEBI-registered Credit Rating Agencies.
+# <u>Withdrawn</u>
+
+3. The <u>Master Direction – Non-Banking Financial Companies Acceptance of Public</u> <u>Deposits (Reserve Bank) Directions, 2016</u> is being modified accordingly. Yours faithfully, (J.P. Sharma) Chief General Manager
+िविनयमन िवभाग, क िद्रय कायालय, 2री मंिजल, मु� कायालय भवन, फोट, मुंबई 400 001 दू र न ी :22601000, फै � :22705670 ई मेल:helpdor@rbi.org.in Department of Regulation, Central Office, 2ndFloor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Tel No:22601000, Fax No:22705670 Email: helpdor@rbi.org.in िहंदी आसान है, इसका प्रयोग बढाईये

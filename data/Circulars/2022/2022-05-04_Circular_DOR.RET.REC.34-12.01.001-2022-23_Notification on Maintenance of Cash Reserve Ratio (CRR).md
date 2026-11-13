@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2022_DOR_RET_REC_34_12_01_001_2022-23"
+title: "Notification on Maintenance of Cash Reserve Ratio (CRR)"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT46AF2C5EC599CF429D8E494B4E11CABA77.PDF"
+pdf_sha256: "91a7958198fc333268f4a8adb48de73a7684e230d99828255f41eeadc0c7f9d9"
+md_sha256: "f03e66332c38c464b5fd6314f34e7af8d6365c05124c95a252f08fea4f167bb8"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-05-04_Circular_DOR.RET.REC.34-12.01.001-2022-23_Notification%20on%20Maintenance%20of%20Cash%20Reserve%20Ratio%20%28CRR%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Maintenance of Cash Reserve Ratio (CRR)
+
+<!-- PAGE 1 -->
+
+### भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+RBI/2022-23/46 DOR.RET.REC.33/12.01.001/2022-23 May 04, 2022
+
+#### All Banks
+
+Madam/Sir, **Maintenance of Cash Reserve Ratio (CRR)**
+
+Please refer to our <u>circular DOR.No.Ret.BC.35/12.01.001/2020-21 dated February 05, 2021</u> and relative notification on the captioned subject.
+
+2. As announced in the <u>Governor’s Statement dated May 04, 2022</u>, it has been decided to increase the Cash Reserve Ratio (CRR) of all banks by 50 basis points from 4.00 percent to 4.50 percent of their Net Demand and Time Liabilities (NDTL), effective from the reporting fortnight beginning May 21,
+2022.
+3. A copy of the relative notification DOR.RET.REC.34/12.01.001/2022-23 dated May 04, 2022 is <u>enclosed</u>.
+# Withdrawn
+
+Yours faithfully,
+
+(Prakash Baliarsingh) Chief General Manager
+
+**Encl. : As above**
+
+िविनयमन िवभाग, क द्रीय कायालय, 12वी ं और 13वी ं मं िज़ल, क द्रीय कायालय भवन, शहीद भगत िसंह माग, मुंबई 400001 टेलीफोन /Tel No: 22601000 फै � / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shaheed Bhagat Singh Marg, Mumbai ñ 400001 Tel No: 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 बक िहंदी म पत्राचार का �ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+## DOR.RET.REC.34/12.01.001/2022-23 May 04, 2022
+
+## NOTIFICATION
+
+In exercise of the powers conferred under the sub-section (1) of Section 42 of the Reserve Bank Act, 1934 and sub-section (1) of Section 18 of the Banking Regulation Act, 1949 (10 of 1949) read with section 56 thereof, and in partial modification of the earlier <u>notification</u> <u>DOR.No.Ret.BC.38/12.01.001/2020-21 dated February 05, 2021</u>, the Reserve Bank of India hereby notifies that the average Cash Reserve Ratio (CRR) required to be maintained by every bank shall be
+
+4.50 per cent of its net demand and time liabilities effective from the reporting fortnight beginning May 21, 2022.
+(Jayant Kumar Dash) Executive Director
+
+# Withdrawn

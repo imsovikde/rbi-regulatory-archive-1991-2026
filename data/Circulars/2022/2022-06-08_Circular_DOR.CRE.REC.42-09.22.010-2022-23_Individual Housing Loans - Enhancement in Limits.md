@@ -1,0 +1,46 @@
+---
+doc_id: "Circulars_2022_DOR_CRE_REC_42_09_22_010_2022-23"
+title: "Individual Housing Loans - Enhancement in Limits"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/68UCBHOUSINGLOANDE90654D2B0844A58C0C638E70B9008A.PDF"
+pdf_sha256: "2404e67c4093609a5413dbb988b20e0e111c673fbc1cd18d2080f6819816b0a0"
+md_sha256: "390d250f2c6de5999b6649836328d9cd9a8bd563d569541ed59a6fab1debba5b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:48:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-06-08_Circular_DOR.CRE.REC.42-09.22.010-2022-23_Individual%20Housing%20Loans%20-%20Enhancement%20in%20Limits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Individual Housing Loans - Enhancement in Limits
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/68 DOR.CRE.REC.42/09.22.010/2022-23 June 08, 2022 All Primary (Urban) Co-operative Banks, Madam / Dear Sir, **Individual Housing loans – Enhancement in limits** Please refer to <u>circular UBD.BPD.(PCB). Cir.No.7/09.22.010/2011-12 dated October</u> <u>31, 2011</u> on the above subject.
+
+2. As announced in the <u>Statement on Developmental and Regulatory Policies</u> (<u>para</u> <u>no.1 annexed</u>), it has been decided to revise the limits on individual housing loans sanctioned by urban co-operative banks to an individual borrower as under:
+
+|Category of the bank|Existing Limit* (per individual borrower)|Revised Limit* (per individual borrower)|
+|---|---|---|
+|(a) Tier-I UCBs|₹30 lakh|₹60 lakh|
+|(b) Tier-II UCBs|₹70 lakh Withdrawn|₹140 lakh|
+
+*subject to prescribed prudential exposure limits
+
+3. All other extant instructions in the matter shall remain unchanged. The above instructions will come into effect from the date of this circular. Yours faithfully, (Manoranjan Mishra) Chief General Manager __________________________________________________________________ िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 हंदी आसान है, इसका �योग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+## Extract from Statement on Developmental and Regulatory
+
+## Policies June 08, 2022
+
+## 1. Individual Housing Loans by Cooperative Banks – Enhancement in Limits
+
+Extant guidelines prescribe prudential limits on the amount of individual housing loans that can be extended by Primary (Urban) Co-operative Banks (UCBs), and Rural Cooperative Banks (RCBs-State Cooperative Banks and District Central Cooperative Banks) to their customers. These limits were last revised for UCBs in 2011 and for RCBs in 2009. Taking into account the increase in housing prices since the limits were last revised and considering the customer needs, it has been decided to increase the existing limits on individual housing loans by cooperative banks. Accordingly, the limits for Tier I /Tier II UCBs shall stand revised from ₹30 lakh/ ₹70 lakh to ₹60 lakh/ ₹140 lakh, respectively. As regards RCBs, the limits shall increase from ₹20 lakh to ₹50 lakh for RCBs with assessed net worth less than ₹100 crore; and from ₹30 lakh to ₹75 lakh for other RCBs. A detailed circular will be issued separately.
+
+# Withdrawn
