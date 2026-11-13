@@ -1,0 +1,118 @@
+---
+doc_id: "Notifications_2016_1802"
+title: "Union Budget – 2016-17 Interest Subvention Scheme"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT3204082016.pdf"
+pdf_sha256: "4bffd8f44787cdaf883f9f7bc43055421750d0f520f3bd1cdde5ca2f7142bb8c"
+md_sha256: "d2dc0c82b4cdaf259522d407d2bc25cc04ce4b2c2622d1761ebbc633ac31d7df"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:56:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-08-04_Notification_1802_Union%20Budget%20%E2%80%93%202016-17%20Interest%20Subvention%20Scheme.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Union Budget – 2016-17 Interest Subvention Scheme
+
+<!-- PAGE 1 -->
+
+## RBI/2016-17/32
+
+**FIDD.CO.FSD.BC.No 9/05.02.001/2016-17** August 4, 2016
+
+To, The Chairman / Managing Director All Public & Private Sector Scheduled Commercial Banks
+
+## Dear Sir/Madam
+
+## <u>Union Budget – 2016-17 Interest Subvention Scheme</u>
+
+As directed by the Government of India and in pursuance of the budget announcement relating to the Interest Subvention Scheme 2016-17 (the Scheme) it is advised that Government of India has approved the implementation of the Scheme for the year 2016-17 for short term crop loans upto Rs 3 lakh with the following stipulations:
+
+i) A subvention of 2 % per annum will be made available to Public Sector Banks (PSBs) and in respect of loans given by the rural and semi–urban branches of Private Sector Scheduled Commercial Banks, for short term crop loan upto Rs.3,00,000/- per farmer provided the lending institutions make available short term credit at the ground level at 7% per annum to farmers. The 2 % interest subvention will be calculated on the crop loan amount from the date of its disbursement/drawal upto the date of actual repayment of the crop loan by the farmer or upto the due date of the loans fixed by the banks, whichever is earlier, subject to a maximum period of one year. ii) An additional interest subvention of 3 % per annum will be available to the prompt payee farmers from the date of disbursement of the crop loan upto the actual date of repayment by farmers or upto the due date fixed by the bank for repayment of crop loan, whichever is earlier, subject to a maximum period of one year from the date of disbursement. This also implies that the farmers paying promptly would get short term crop loans @ 4% per annum during the year 2016-
+17. This benefit would not accrue to those farmers who repay after one year of availing such loans. iii) In order to discourage distress sale by farmers and to encourage them to store their produce in warehouses against warehouse receipts, the benefit of interest subvention will be available to small and marginal farmers having Kisan Credit Card for a further period of upto six months post-harvest on the same rate as available to crop loan against negotiable warehouse receipt for keeping their produce in warehouses.
+वित्तीय सावेिन औ विकेाविभेग,कन न्द्रीय स केय सेालय स,10 िी वंजिल,कें रीय स केय सेालय स भिऔ, हीद भगतसांह वेगा,पोस्टबॉक्ा ां. 10014,वंबई-400001 Financial Inclusion & Development Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat SinghMarg,P.B.No.10014,Mumbai-1 टनली Tel:022-22601000 फै क्ाः 91-22-22621011/22610943/22610948 ई -वनल : cgmincfidd@rbi.org.in
+
+|||ह िंदी आसान|ै,इसका प्रयोग बढ़ाइए।||
+|---|---|---|---|---|
+|“चेतावनी|:रिज़वव बक|द्वािा मेल डाक, ैं ै। य धन िाने या देने का प्रस् ताव भी न ीिं किता ै। ेसे प्रस् तावक का ककसी भी तिीके से जवाब मत दीक्तजए।|एसएमएस या फोन कॉल के जरिए ककसी की भी व् यक्तितगत जानकािी जस ै े बक के ैं "|ााते का ्यौिा, पासवडव आहद न ीिं मािंगी जाती|
+|Caution:||keeps or offers funds to anyone. Please do not respond in any manner to such offers.|RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never||
+
+<!-- PAGE 2 -->
+
+iv) To provide relief to farmers affected by natural calamities, the interest subvention of two percent will continue to be available to banks for the first year on the restructured amount. Such restructured loans may attract normal rate of interest from the second year onwards as per the policy laid down by the RBI.
+
+2. Banks may give adequate publicity to the above scheme so that the farmers can avail the benefits.
+3. It is also advised as under:
+i) Claims in respect of 2 % interest subvention and 3 % additional interest subvention may be submitted in <u>Formats I</u> and <u>II</u> (enclosed herewith) respectively to the Chief General Manager, Financial Inclusion and Development Department, Reserve Bank of India, Central Office, Shahid Bhagat Singh Road, Fort, Mumbai - 400001. ii) In respect of 2 % interest subvention, banks are required to submit their claims on a half-yearly basis as at September 30, 2016 and March 31, 2017, of which, the latter needs to be accompanied by a Statutory Auditor's certificate certifying the claims for subvention for the entire year ended March 31, 2017 as true and correct. Any remaining claim pertaining to the disbursements made during the year 2016-17 and not included in the claim for March 31, 2017, may be consolidated separately and marked as an 'Additional Claim' duly audited by Statutory Auditors certifying the correctness. iii) In respect of the 3% additional subvention, banks may submit their one-time consolidated claims pertaining to the disbursements made during the entire year 2016-17 latest by April 30, 2018, duly audited by Statutory Auditors certifying the correctness.
+Yours faithfully,
+
+(Uma Shankar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+## Format I
+
+## Claim for 2 Per cent Interest Subvention on
+
+## Short-term Crop Loan up to Rs.3 lakh for the year 2016-17
+
+## Name of the Bank: ___________________________________________
+
+## Statement for the half year ended
+
+## September 2016 / March 2017/ Additional Claim.
+
+## Total short term Amount of subvention production credit at 7% claimed
+
+## p.a (Rs. in actuals)
+
+## No. of Amount accounts. (Rs. lakh)
+
+**(in** <u>thousands)</u>
+
+Loans up to Rs.50,000/- Loans above Rs.50,000/-and up to Rs.3 lakh. Total
+
+We certify having disbursed the above loans at 7% p.a. up to Rs.3 lakh by way of short-term production credit to the farmers during the year 2016-17.
+
+|Sd/-|
+|---|
+|Authorised Signatory|
+|Date :|
+
+(This claim format needs to be duly certified by Statutory Auditors with the Firm Registration Number and Membership Number of all Signatories)
+
+<!-- PAGE 4 -->
+
+## Format II
+
+## One-time Claim for Additional 3 per cent Subvention for timely
+
+## Repayment of Short-term Crop Loans up to Rs.3 lakh disbursed in 2016-
+
+**17**
+
+Name of Bank __________________________________ the
+
+## Total short term Total short term Amount of production credit production credit additional
+
+## upto Rs.3 lakh
+
+## which were repaid in subvention time claimed
+
+## No. of Amount No. of Amount @3% accounts. (Rs.lakh) accounts. (Rs.lakh) (Rs. in
+
+## (in (in actuals) <u>thousands) thousands)</u>
+
+Loans up to <u>Rs.50,000/-</u> Loans above Rs.50,000/- and up to Rs.3 lakh. Total
+
+We certify that the above loans for which the claim is being made were repaid in time and the benefit of additional 3 percent incentive subvention has already been passed on to the account holders, thereby bringing down the interest rate for such farmers to 4 per cent per annum for short term production credit up to Rs.3 lakh disbursed during 2016-17 for these farmer.
+
+|Sd/-|
+|---|
+|Authorised Signatory|
+|Date :|
+
+(This claim format needs to be duly certified by Statutory Auditors with the Firm Registration Number and Membership Number of all Signatories)

@@ -1,0 +1,58 @@
+---
+doc_id: "Notifications_2016_1884"
+title: "Free Annual Credit Report to Individuals"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NT58D676A60FF9854F9B8432A962F7481E4B.pdf"
+pdf_sha256: "bdeb7d955fbc4df3d94ee60552b5651e4c679252076bcc505f16eec3dc3fb6df"
+md_sha256: "b586460860a4f176aa515df3ac5c6b6d2f0e204259036f256f1064e751dd4edd"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:56:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-09-01_Notification_1884_Free%20Annual%20Credit%20Report%20to%20Individuals.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Free Annual Credit Report to Individuals
+
+<!-- PAGE 1 -->
+
+भारतीय ररजर्व बैंक ___________________RESERVE BANK OF INDIA__________________ www.rbi.org.in
+
+RBI/2016-17/58 DBR.CID.BC.No.11/20.16.042/2016-17 September 1, 2016
+
+## All Credit Information Companies
+
+## Dear Sir/Madam
+
+## Free Annual Credit Report to Individuals
+
+As you are aware, the Committee to Recommend Data Format for Furnishing of Credit Information to Credit Information Companies (Chairman: Shri Aditya Puri) constituted by the Reserve Bank of India (RBI) had recommended that each customer of a credit institution should be provided one base level consumer Credit Information Report (CIR) free of cost every year by each Credit Information 1 Company (CIC).
+
+2. Given the importance of the credit report in an individual’s financial matters, he/she is entitled to have a copy of the report upon request. Further, the objective of providing the free credit report would not be fully met unless this report includes details that figure in the full credit report that is accessed by the credit institutions while considering the request for fresh credit facilities. The report should also provide an opportunity to the borrower to have the errors, if any, in her/his credit history rectified. Taking into account these objectives, it has been decided, in exercise of the powers conferred upon Reserve Bank of India by sub-section (1) of Section 11 of Credit Information Companies (Regulation) Act, 2005, to direct Credit Information Companies to provide access in electronic format, upon request and after due 1 (The Report of the Committee is available at <u>[http://rbi.org.in/scripts/PublicationReportDetails.aspx?UrlPage=&ID=763](http://rbi.org.in/scripts/PublicationReportDetails.aspx?UrlPage=&ID=763)</u>.
+_________________________________________________________________________________________________________________________________________________ बकैं किं ग वर्नियमि वर्भाग, के न्द्रीय कायावलय, 13र्ी मिंजील, के न्द्रीय कायावलय भर्ि, श. भगत स िंग मागव, मिंबई -400 001 Department of Banking Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेसलफोि/Tel.No.:91-22-22601000,टेसलफोि/Tel.No.(D):91-22-22701297, फै क् /Fax No. 91-22-22701239, email ID: <u>cgmicdbr@rbi.org.in</u> <u>हिन्द्दी आ ाि िै, इ का प्रयोग बढाइये</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+authentication of the requester, to one free full credit report (FFCR) including credit score, once in a year (January- December), to individuals whose credit history is available with the CIC. This report must show the latest position of the credit institutions’ exposure to the individual as per records available with the CIC. The contents of the FFCR shall be the same as appearing in the most detailed version of the reports on the individual provided to credit institutions, including the credit score. A directive DBR.CID.BC.No.10/20.16.042/2016-17 dated September 1, 2016 to this effect is enclosed.
+
+3. All CICs shall put in place necessary systems to provide access to the above described FFCR once, at any time, during a year, upon request, to individuals whose credit data they hold, from the year commencing January 1, 2017. The CICs shall notify on their website the procedure for accessing the FFCR, and also have a board approved policy in this regard.
+## Yours faithfully
+
+(Rajinder Kumar) Chief General Manager
+
+<!-- PAGE 3 -->
+
+भारतीय ररजर्व बैंक ___________________RESERVE BANK OF INDIA__________________ www.rbi.org.in
+
+## DBR.CID.BC.No.10/20.16.042/2016-17 September 1, 2016
+
+## Free Annual Credit Report to Individuals
+
+In exercise of the powers conferred by subsection (1) of Section 11 of Credit Information Companies (Regulation) Act, 2005, Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest, hereby directs that effective January 1, 2017, all Credit Information Companies (CICs) shall provide access, upon request and after due authentication of the requester, to a free full credit report (FFCR) once in a calendar year to individuals whose credit history is available with the CIC. This report shall show the latest position of the credit institutions’ exposure to the individual as per records available with the CIC. The FFCR shall be in electronic format, and the procedure for accessing the FFCR shall be displayed on the CIC’s website. The contents of the FFCR shall be the same as appearing in the most detailed version of the reports on the individual provided to credit institutions, including the credit score. The CIC shall have a Board approved policy on making available the FFCR.
+
+(Sudarshan Sen) Executive Director
+
+_________________________________________________________________________________________________________________________________________________ बकैं किं ग वर्नियमि वर्भाग, के न्द्रीय कायावलय, 13र्ी मिंजील, के न्द्रीय कायावलय भर्ि, श. भगत स िंग मागव, मिंबई -400 001 Department of Banking Regulation, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001 टेसलफोि/Tel.No.:91-22-22601000,टेसलफोि/Tel.No.(D):91-22-22701297, फै क् /Fax No. 91-22-22701239, email ID: <u>cgmicdbr@rbi.org.in</u> <u>हिन्द्दी आ ाि िै, इ का प्रयोग बढाइये</u> Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

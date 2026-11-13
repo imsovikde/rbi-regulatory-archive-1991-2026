@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2016_10591"
+title: "Merchant Discount Rates (MDR) structure – unbundling of charges"
+category: "Notifications"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT599F9DCF396D45406A9F5D8A13446B7530.PDF"
+pdf_sha256: "bebb199b036a3de7ffb4aa5d7558107975993c0a37c2e30a91c8aced5d289bf4"
+md_sha256: "699a1f3cc782f1583e9c07e38ba10da08f93a670dfe01bff6acc6e60b3b98667"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:56:56Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-09-01_Notification_10591_Merchant%20Discount%20Rates%20%28MDR%29%20structure%20%E2%80%93%20unbundling%20of%20charges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Merchant Discount Rates (MDR) structure – unbundling of charges
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बैंक RESERVE BANK OF INDIA
+
+www.rbi.org.in RBI/2016-17/59 DPSS.CO.PD No.639/02.14.003/2016-17 September 1, 2016
+
+All Scheduled Commercial Banks including RRBs/ Co-operative Banks/ State Co-operative Banks/ Central Co-operative Banks/ Authorised Card Payment Networks
+
+Dear Madam / Sir,
+
+## <u>Merchant Discount Rates (MDR) structure – unbundling of charges</u>
+
+A reference is invited to our circulars <u>DPSS.CO.PD.No.2361/02.14.003/2011-12 dated June 28,</u> <u>2012</u> and <u>DPSS.CO.PD.No.27/02.14.003/2012-13 dated July 04, 2012</u> wherein directions pertaining to merchant discount rates (MDR) for debit card transactions were issued.
+
+2. It has been brought to our notice that in many instances charges for merchants are bundled and a composite fee is levied on merchants irrespective of the type of card used. This practice hinders adherence to the extant regulatory mandate. Further, this not only disincentivises merchants from accepting cards but also gives them scope to indiscriminately pass on the costs to the customers in the form of surcharge.
+3. In order to bring greater transparency in MDR applicable at merchant level, it is advised that the acquiring banks shall:
+i) ensure that MDR are clearly unbundled for different categories of cards; ii) enter into separate agreements or annexes within the same agreement for debit, credit and prepaid cards so as to bring in more clarity and transparency; and iii) educate the merchants regarding the charges associated with different categories of cards, at the time of acquisition.
+4. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+5. Please acknowledge receipt.
+## Yours faithfully
+
+(Nanda S. Dave) Chief General Manager
+
+भुगतान और ननपटान प्रणाली नर्भाग, कें द्रीयकायावलय, 14र्ीमंनिल, कें द्रीयकायावलयभर्न,शहीदभगतसिंहमागव, फोटव, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फै क् िंFax: (91-22) 22691557; ई-मेलe-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central Office, 14thFloor, Central Office Building, ShahidBhagat Singh Road, Fort, Mumbai - 400001 <u>सहदी आिंान है, इिंकाप्रयोगबढाइए</u>
