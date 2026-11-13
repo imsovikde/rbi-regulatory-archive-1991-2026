@@ -1,0 +1,27 @@
+---
+doc_id: "Notifications_2013_8064"
+title: "Guidelines on Securities Transactions to be followed by Primary Dealers"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/549ARBIN260613.pdf"
+pdf_sha256: "5774493b6868b689e80ca3c8d44cd0480ac77c53c1a351e4950db9219911bf7f"
+md_sha256: "06387ce1a610c5380e8cd23b94ca8ed6e900f54b15975d81dba9517a3fcac380"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:37:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-06-26_Notification_8064_Guidelines%20on%20Securities%20Transactions%20to%20be%20followed%20by%20Primary%20Dealers.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Securities Transactions to be followed by Primary Dealers
+
+<!-- PAGE 1 -->
+
+||RBI/2012-13/549|||
+|---|---|---|---|
+|||IDMD.PCD.13 /14.03.07/2012-13 June 26, 2013||
+|To|All Market Participants Dear Sir/Madam,|Guidelines on Securities Transactions to be followed by Primary Dealers||
+||Please refer to our||Notifications IDMC.PDRS.PDS.No.2/03.64.00/2000-01 dated|
+||November 13, 2000 31, 1999|and on the captioned subject. 2. The above directions have been reviewed and it has been decided that Primary Dealers are permitted to undertake transactions in securities among themselves or with non-banks clients through members of the MCX Stock Exchange in addition to National Stock Exchange, OTC Exchange of India and Bombay Stock Exchange.|IDMC. No. PDRS/2049A/03.64.00/99-2000 dated December Yours faithfully, (K. K. Vohra) Principal Chief General Manager|

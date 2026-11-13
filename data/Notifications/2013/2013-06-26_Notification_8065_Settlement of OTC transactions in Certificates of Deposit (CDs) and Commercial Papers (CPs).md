@@ -1,0 +1,30 @@
+---
+doc_id: "Notifications_2013_8065"
+title: "Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AXC0519062013F.PDF"
+pdf_sha256: "edbe3c7f0c2b28c6102c1faac524686f7a14391d0074a16c3102b06f3283faa9"
+md_sha256: "90f2cd5bf1c8ddb77c4b7f1a0307b309e22def39d8a46a1e85593a8484637002"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:37:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-06-26_Notification_8065_Settlement%20of%20OTC%20transactions%20in%20Certificates%20of%20Deposit%20%28CDs%29%20and%20Commercial%20Papers%20%28CPs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)
+
+<!-- PAGE 1 -->
+
+|RBI/2012-13/551||
+|---|---|
+|IDMD.PCD. 12 /14.03.02/2012-13|June 26, 2013|
+|To All Market Participants||
+|Dear Sir/Madam,|Settlement of OTC transactions in Certificates of Deposit (CDs) and Commercial Papers (CPs)|
+|Please refer to our|Notification IDMD.PCD.No. 20/14.01.02/2011-12 dated March 05,|
+|2012 on the captioned subject.||
+|2.|The above directions have been reviewed and it has been decided that MCX-SX Clearing Corporation Limited is also an eligible entity for clearing and settlement of all OTC trades in|
+|CDs and CPs in addition to the NSCCL or ICCL.|Yours faithfully, (K. K. Vohra) Principal Chief General Manager|

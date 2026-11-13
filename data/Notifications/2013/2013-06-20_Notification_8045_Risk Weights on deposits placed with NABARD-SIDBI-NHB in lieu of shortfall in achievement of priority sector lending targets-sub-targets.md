@@ -1,0 +1,74 @@
+---
+doc_id: "Notifications_2013_8045"
+title: "Risk Weights on deposits placed with NABARD/SIDBI/NHB in lieu of shortfall in achievement of priority sector lending targets/sub-targets"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRO20062013R.pdf"
+pdf_sha256: "9ac3b7e79b03b4a96eb6ddddaa3f6abf48c4dd56b54fc2b063cb00d18ba26032"
+md_sha256: "4c7f48d231d6fc700fc2ba76ec67c73c07d5f179e95b1ccee9fa40220afd3901"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:37:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-06-20_Notification_8045_Risk%20Weights%20on%20deposits%20placed%20with%20NABARD-SIDBI-NHB%20in%20lieu%20of%20shortfall%20in%20achievement%20of%20priority%20sector%20lending%20targets-sub-targets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Risk Weights on deposits placed with NABARD/SIDBI/NHB in lieu of shortfall in achievement of priority sector lending targets/sub-targets
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/536
+
+DBOD.BP.BC.N0.103/21.06.001/2012-13
+
+June 20, 2013
+
+The Chairman and Managing Director/
+
+Chief Executive Officer of
+
+All Commercial Banks
+
+(excluding LABs and RRBs)
+
+Dear Sir
+
+RiskWeightsondepositsplacedwithNABARD/SIDBI/NHBinlieuofshortfallin
+
+achievement ofpriority sector lending targets/sub-targets
+
+It has been observed that there is a lack of uniformity among banks in application of risk
+
+weights on claims on deposits placed with NABARD/SIDBI/NHB, in lieu of shortfall in
+
+adequacy.
+
+In terms of extant instructions [paras 5.4.1 and 5.8.1 of the Master Circular dated
+
+NABARD, SIDBl, NHB, etc.) are required to be risk weighted in a manner similar to
+
+ps s    s s   s s  s
+
+the SEBl and accredited by the Reserve Bank of India. Where the borrower has a
+
+specific assessment for an issued debt, but the bank's claim is not an investment in this
+
+particular debt, the rating applicable to this specific debt can be applied to the bank's
+
+unassessed claim provided the conditions indicated in para 6.8 of the Master Circular
+
+ibid are satisfied.
+
+Department of Banking Operations and Development, Central Office, 12th floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai - 400001
+
+f /Tel No: 22661602 aH/Fax No: 22705691 E-mail: cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+3. It is clarified that if the conditions indicated in para 6.8 are not satisfied, the rating applicable to the specific debt cannot be used and the claims on NABARD/SIDBI/NHB on account of deposits placed in lieu of shortfall in achievement of priority sector lending targets/sub-targets shall be risk weighted as applicable for unrated claims, i.e. 100%. Yours faithfully, (Chandan Sinha) Principal Chief General Manager

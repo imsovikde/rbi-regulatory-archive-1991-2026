@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2013_8055"
+title: "RRBs - Lending against Gold"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIGO25062013F.pdf"
+pdf_sha256: "44206c6ae3e2f5229eb9763215130c836eb935fc440dca3711d6660f91574876"
+md_sha256: "7b868e36d0f37f8a5680eeb4600dfba599d5d468a834e51a88d619583207f18e"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:37:18Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-06-25_Notification_8055_RRBs%20-%20Lending%20against%20Gold.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RRBs - Lending against Gold
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़र्व बकैं
+
+**-----------------------------------RESERVE BANK OF INDIA -------------------------------------** www.rbi.org.in RBI/2012-13/541 RPCD. RRB. BC. No. 79 /03.05.33/2012-13 June 25, 2013
+
+## All Regional Rural Banks
+
+## Dear Sir/Madam
+
+## Lending against Gold
+
+Please refer to <u>paragraph 98</u> of the Monetary Policy Statement 2013-14 announced on May 3, 2013 on lending against gold, proposing to restrict the facility of advances against the security of gold coins per customer to gold coins weighing up to 50 gms.
+
+2. As per extant instructions contained in our circular DBOD.Leg.BC.95/ C.124 (P) - 78 dated July 22, 1978, RRBs should not grant any advance against gold bullion. RRBs are, however, currently permitted to grant advances against gold ornaments and jewellery subject to Board approved policies in terms of our circular DBOD.No.BC.138/21.01.023/94 dated November 22, 1994. Advances may also be granted against specially minted gold coins sold by banks which may not be in the nature of “bullion” or “primary gold”. However, as pointed out in the monetary policy statement, there is a risk that some of these coins would be weighing much more, thereby circumventing the Reserve Bank’s guidelines regarding restriction on grant of advance against gold bullion. Accordingly, it is advised that while granting advance against the security of specially minted gold coins sold by banks, RRBs should ensure that the weight of the coin(s) does not exceed 50 grams per customer and the amount of loan to any customer against gold ornaments, gold jewellery and gold coins (weighing up to 50 grams) should be within the Board approved limit.
+3. In this context, we have also been receiving references from certain banks asking whether advance against units of gold Exchange Traded Funds (ETF) and gold Mutual Funds is
+कायाालय,10 10014,मंबई -400 001
+
+|ग्रामीण आयोजना|और ऋण विभाग,के न्द्रीय||िी मंजजल,|कें रीय कायाालय|भिन,|शहीद भगतस ंह|मागा,पोस्ट|बॉक् ं.|
+|---|---|---|---|---|---|---|---|---|
+|Rural Planning & Credit Dept.,Central Office,10th||:022-22601000 फै क् ः|Floor, 91-22-22621011/22610943/22610948 ह िंदी आसान|Central Office ै,इसका प्रयोग बढ़ाइए।|Building,Shahid|Bhagat ई -मेल : cgmicrpcd@rbi.org.in|Singh Marg,P.B.No.10014,Mumbai||
+
+400001 टेली Tel
+
+|“चेतार्नी|: ररज़र्व बैंक वर्ारा|लेम-डाक, एसएलएस या फोन कॉम के जररए|ककसी की|भी व्यक्तितगत|जानकारी|जैसे बक|ैं के ााते का ्यहरा, पासर्डव आहद न ीिं लािंगी जाती|
+|---|---|---|---|---|---|---|---|
+|Caution:|ै। य धन राने या देने का प्रस तार् भी न ीिं करता ै। ेसे प्रस तार्क|का ककसी keeps or offers funds to anyone. Please do not respond in any manner to such offers.|भी तरीके|से जर्ाब RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never|लत दीक्तजए।|"||
+
+<!-- PAGE 2 -->
+
+permitted. As these products are backed by bullion/primary gold, it is clarified that the restriction on grant of loan against “gold bullion” stipulated in terms of our circular dated July 22, 1978 referred to at para 2 above, will also be applicable to grant of advance against units of gold ETFs and units of gold Mutual Funds.
+
+4. All other instructions issued in this regard will remain unchanged. Yours faithfully, (A. Udgata) Principal Chief General Manager

@@ -1,0 +1,33 @@
+---
+doc_id: "Notifications_2013_7998"
+title: "NBFCs finance for Purchase of Gold"
+category: "Notifications"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CN326270513F.PDF"
+pdf_sha256: "25726f6ece745b2be7d7b27c46e24762a6376e7a79bd98a6d269c915186c793e"
+md_sha256: "047534a2f619b3294e5313f014c012d0519d0b26bbbe263b2302951455c71c79"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:37:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2013/2013-05-27_Notification_7998_NBFCs%20finance%20for%20Purchase%20of%20Gold.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# NBFCs finance for Purchase of Gold
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/510
+
+## DNBS.CC.PD.No.326/03.10.01/2012-13 May 27, 2013
+
+**To** **All NBFCs** **Dear Sir,** **NBFCs finance for Purchase of Gold**
+
+In terms of extant guidelines issued vide <u>circular DNBS.CC.PD.No.265/03.10.001/2011-</u> <u>12 dated March 21, 2012</u> no advances should be granted by NBFCs against bullion / primary gold and gold coins.
+
+2. It is clarified that no advances should be granted by NBFCs for purchase of gold in any form, including primary gold, gold bullion, gold jewellery, gold coins, units of gold Exchange Traded Funds (ETF) and units of gold Mutual Funds.
+## Yours faithfully
+
+(N. S. Vishwanathan) Principal Chief General Manager
