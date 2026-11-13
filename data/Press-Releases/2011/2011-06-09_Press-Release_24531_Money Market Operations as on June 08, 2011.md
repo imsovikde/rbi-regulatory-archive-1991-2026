@@ -1,0 +1,63 @@
+---
+doc_id: "Press-Releases_2011_24531"
+title: "Money Market Operations as on June 08, 2011"
+category: "Press-Releases"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1788M0611.pdf"
+pdf_sha256: "971807ee5e8badc09ba48549ea455b35093c646c528e2ea78868af534c357bc6"
+md_sha256: "a76698027d221ac0e2edccc3e82810da6db140a5a4d9ca44b65b796f0c674b74"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T17:48:34Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2011/2011-06-09_Press-Release_24531_Money%20Market%20Operations%20as%20on%20June%2008%2C%202011.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on June 08, 2011
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय िरज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+संचार िवभाग**,** कें िीय कायार्लय, एस.बी.एस.माग,र् मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi ________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 <u>Website : www.rbi.org.in</u> फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 2266 0358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## June 09, 2011
+
+## <u>Money Market Operations as on June 08, 2011</u>
+
+<u>(Amounts in ` crore, Rate in Per cent)</u> <u>MONEY MARKETS</u> **@ Volume Weighted Range** **(One Leg) Average Rate**
+
+**A. Overnight Segment (I+II+III+IV)** 78,209.05 7.29 5.90 - 7.56
+**I. Call Money** 16,188.63 7.37 5.90 - 7.50 **II. Collateralised Borrowing and** 45,477.35 7.26 7.18 - 7.56 **Lending Obligation (CBLO)** **III. Market Repo** 16543.07 7.29 7.10 - 7.40 **IV. Repo in Corporate Bond** 0.00--
+## B. Term Segment
+
+**I. Notice Money**** 3.60 5.96 5.80 - 6.10 **II. Term Money@@** 500.00-8.40 - 8.40 **III. CBLO** 0.00-- **IV. Market Repo** 30.00 6.54 6.25 - 8.00
+**V. Repo in Corporate Bond** <u>0.00--</u>
+## <u>RBI OPERATIONS</u> Amount Current
+
+## Outstanding Rate
+
+## C. Liquidity Adjustment Facility
+
+(i) Repo (1 day) 73,770.00 7.25 (ii) Reverse Repo (1 day) 125.00 6.25
+**D. Marginal Standing Facility #** (1 day) 0.00 8.25
+**E.** <u>Standing Liquidity Facility Availed from RBI</u> 1,796.39 7.25
+## <u>RESERVE POSITION</u> @
+
+## F. Cash Reserves Position of Scheduled Commercial Banks
+
+(i) Cash balances with RBI as on 06/06/2011 363,592.65 (ii) Average daily cash reserve requirement for 17/06/2011 339,483.00 the fortnight ending
+@ Based on Provisional RBI / CCIL Data
+
+- Not Applicable / No Transaction # As announced in the Monetary Policy for the year 2011-12, a new Marginal Standing Facility (MSF) has been introduced with effect from May 9, 2011. ** Relates to uncollateralized transactions of 2 to 14 days tenor @@ Relates to uncollateralized transactions of 15 days to one year tenor
+## Ajit Prasad
+
+## Press Release : 2010-2011/1788
+
+Assistant General Manager
