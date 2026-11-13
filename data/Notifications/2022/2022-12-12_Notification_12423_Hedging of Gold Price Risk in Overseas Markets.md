@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2022_12423"
+title: "Hedging of Gold Price Risk in Overseas Markets"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/151COMMODITYHEDGING356BA0A79FB841D28E92B518D9A415B9.PDF"
+pdf_sha256: "c816594187737aa2648acd026447be3e3d94f7a36d7dc3b08befaecc39d76500"
+md_sha256: "a03207ed28979f61c2bad1e6abfc9d7ee0766eae8165446d998aba5e2d2c295f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-12-12_Notification_12423_Hedging%20of%20Gold%20Price%20Risk%20in%20Overseas%20Markets.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Hedging of Gold Price Risk in Overseas Markets
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक RESERVE BANK OF INDIA
+
+RBI/2022-23/151
+
+A. P. (DIR Series) Circular No. 19 December 12, 2022 All Authorised Dealer Category – I Banks Madam / Sir,
+## Hedging of Gold Price Risk in Overseas Markets
+
+Please refer to Paragraph 4 of the <u>Statement on Developmental and Regulatory</u> <u>Policies</u> announced as a part of the <u>Bi-monthly Monetary Policy Statement for 2022-23 dated</u> <u>December 07, 2022</u> regarding hedging of price risk of gold in overseas markets. Attention is also invited to the <u>Hedging of Commodity Price Risk and Freight Risk in Overseas Markets</u> <u>(Reserve Bank) Directions, 2018 dated March 12, 2018</u>, as amended from time to time.
+
+2. Resident entities in India are currently not permitted to hedge their exposure to price risk of gold in overseas markets. On a review, it has been decided to permit eligible entities to hedge their exposure to price risk of gold on exchanges in the International Financial Services Centre (IFSC) recognised by the International Financial Services Centres Authority (IFSCA).
+3**.** The Master Direction – Foreign Exchange Management (Hedging of Commodity Price Risk and Freight Risk in Overseas Markets) Directions, 2022 (<u>A. P. (DIR Series) Circular No. 21</u> <u>dated December 12, 2022</u>) have been issued today and are enclosed herewith.
+4. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager
+
+िवीय बाज़ार िविनयमन िवभाग, क �ीय कायार्लय, 9वी मंिजल, के न्�ीय कायार्लय भवन, शहीद भगत संह मागर्, फोटर्, मुंबई – 400 001 फोन: (91-22) 2260 1000, फै क् स : (91-22) 22702290, ई-मेल: cgmfmrd@rbi.org.in Financial Markets Regulation Department, Central Office, 9thFloor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001 Tel: (91-22) 2260 1000, Fax: (91-22) 22702290, E-mail: cgmfmrd@rbi.org.in <u>िही आसान है, इसका प्रयोग बढ़ाइए</u>

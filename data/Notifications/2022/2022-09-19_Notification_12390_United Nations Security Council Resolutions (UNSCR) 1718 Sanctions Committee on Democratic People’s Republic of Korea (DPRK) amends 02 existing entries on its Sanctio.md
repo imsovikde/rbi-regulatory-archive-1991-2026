@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2022_12390"
+title: "United Nations Security Council Resolutions (UNSCR) 1718 Sanctions Committee on Democratic People’s Republic of Korea (DPRK) amends 02 existing entries on its Sanctions List"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT119CF29A92E086D4F529735612A893C38D7.PDF"
+pdf_sha256: "9ea362ccf57dd4087f1135e4100548a8d551337162bcc2d80e9c7c0084dd3744"
+md_sha256: "aec0eaa14a2a6d4ed0d39fc21a3a24710eafa2dae2d068e03c0ab0ad459fbc9f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:38Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-09-19_Notification_12390_United%20Nations%20Security%20Council%20Resolutions%20%28UNSCR%29%201718%20Sanctions%20Committee%20on%20Democratic%20People%E2%80%99s%20Republic%20of%20Korea%20%28DPRK%29%20amends%2002%20existing%20entries%20on%20its%20Sanctio.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# United Nations Security Council Resolutions (UNSCR) 1718 Sanctions Committee on Democratic People’s Republic of Korea (DPRK) amends 02 existing entries on its Sanctions List
+
+<!-- PAGE 1 -->
+
+RBI/2022-2023/119 DOR.AML.REC.69/14.06.001/2022-23 September 19, 2022
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+## United Nations Security Council Resolutions (UNSCR) 1718 Sanctions Committee
+
+## on Democratic People’s Republic of Korea (DPRK) amends 02 existing entries on its Sanctions List
+
+Please refer to our <u>circular DoR.AML.REC.03/14.06.001/2021-22 dated April 08, 2021</u> advising Regulated Entities (REs) to adhere to the ‘Implementation of Security Council Resolution on Democratic People’s Republic of Korea Order, 2017’ as amended from time to time by the Central Government and also verify every day, the ‘UNSCR 1718 Sanctions List of Designated Individuals and Entities‘, as hyperlinked in ‘Implementation of UNSC Sanctions (DPRK)‘ webpage of the Ministry of External Affairs (MEA) website at <u>[https://www.mea.gov.in/Implementation-of-UNSC-Sanctions-DPRK.htm](https://www.mea.gov.in/Implementation-of-UNSC-Sanctions-DPRK.htm)</u>, to take note of the modifications to the list in terms of additions, deletions or other changes.
+
+2. In this connection, Ministry of External Affairs (MEA) has informed that on September 14, 2022, the Committee established pursuant to UNSC Resolution has enacted the amendments to two (2) entries on its Sanction List of individuals and entities. The changes have been made only in the existing entries of this Sanction List and pertains to IMO number of individuals / entities. The updated consolidated Sanctions List of individuals and entities is <u>enclosed</u>.
+3. REs are advised to take note of the aforementioned instructions regarding Security Council Resolution on DPRK and ensure meticulous compliance. Yours faithfully, (Santosh Kumar Panigrahy) Chief General Manager
+## Enclosure- As above
+
+िविनयमन िवभाग, क द्र ी य कायालय, क द्र ी य कायालय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह माग, फोट, मुंबई-400001 टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."

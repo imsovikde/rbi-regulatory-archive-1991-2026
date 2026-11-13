@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2022_12426"
+title: "Reserve Bank of India (Financial Statements - Presentation and Disclosures) Directions, 2021 - Disclosure of material items"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARBANK1372F81AD72A445D97C913CFA16F69D9.PDF"
+pdf_sha256: "f6260fd2b9f85821077ab57e4e202a1b5aecd8e62de7798d539a2bb40c54c9ea"
+md_sha256: "b4bde966c4fbf9300439e7a6b09d77a91cdd659a06d92dc88b2cfd118a7a86b1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-12-13_Notification_12426_Reserve%20Bank%20of%20India%20%28Financial%20Statements%20-%20Presentation%20and%20Disclosures%29%20Directions%2C%202021%20-%20Disclosure%20of%20material%20items.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Financial Statements - Presentation and Disclosures) Directions, 2021 - Disclosure of material items
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2022-23/155 DOR.ACC.REC.No.91/21.04.018/2022-23 December 13, 2022
+
+Madam / Sir,
+
+## Reserve Bank of India (Financial Statements-Presentation and Disclosures)
+
+## Directions, 2021 - Disclosure of material items
+
+Please refer to the notes and instructions for compilation of Balance Sheet and Profit and Loss Account, for commercial banks, as specified in Annexure II to the <u>Reserve</u> <u>Bank of India (Financial Statements-Presentation and Disclosures) Directions, 2021</u> (hereinafter referred to as “Directions”).
+
+2. In terms of Part A of Annexure II to the Directions, in case any item under the subhead “Miscellaneous Income” under the head “Schedule 14-Other Income” exceeds one per cent of total income, particulars shall be given in the notes to accounts. Similar instructions exist in case of subhead “Other expenditure” under the head “Schedule 16-Operating Expenses”.
+3. In order to ensure greater transparency, it has been decided that banks shall also disclose the particulars of all such items in the notes to accounts wherever any item under the Schedule 5(IV)-Other Liabilities and Provisions-“Others (including provisions)” or Schedule 11(VI)-Other Assets-“Others” exceeds one per cent of the total assets.
+4. Further, Payments Banks shall also disclose particulars of all such items in the notes to accounts, wherever any item under the Schedule 14(I)-Other Income-“Commission, Exchange and Brokerage” exceeds one per cent of the total income. िविनयमन िवभाग,क �ीय कायार्लय, 12 व और 13 व मंिजल, क � ी य कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001
+दूरभाष: 022-22601000 फै क् स : 022-22705691 ई-मेल: <u>cgmicdor@rbi.org.in</u> ____________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+5. We also invite attention to Clause 6 of the Chapter IV of the Directions *ibid*, in terms of which more comprehensive disclosures than the minimum required are encouraged, especially if such disclosures significantly aid in the understanding of the financial position and performance of banks.
+## Applicability
+
+6. These instructions are applicable to all commercial banks. These instructions shall come into effect for disclosures in the notes to the annual financial statements for the year ending March 31, 2023 and onwards.
+7. The <u>Reserve Bank of India (Financial Statements-Presentation and Disclosures)</u> <u>Directions, 2021</u> shall stand updated to reflect these changes. Yours faithfully, (Usha Janakiraman) Chief General Manager

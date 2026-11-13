@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2023_12458"
+title: "Implementation of Indian Accounting Standards (Ind AS)"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/INDIANACCOUNTINGSTANDARDS8C7C436D851D46A4A9B2B9276DF02ECD.PDF"
+pdf_sha256: "78d14791587141fd4b192a7ff90ee8a7dfbf61abf0c97a5da0dea0037bbcef6d"
+md_sha256: "6df57cc5d9d29c37ac79a44e36e505182bc75270dc7f2efc4fc56c9d2905b39c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-02-20_Notification_12458_Implementation%20of%20Indian%20Accounting%20Standards%20%28Ind%20AS%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Indian Accounting Standards (Ind AS)
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2022-23/182 DOR.ACC.REC.No.104/21.07.001/2022-23 February 20, 2023
+
+Dear Sir/ Madam,
+
+## Implementation of Indian Accounting Standards (Ind AS)
+
+Please refer to <u>circular DOR (NBFC).CC.PD.No.109/22.10.106/2019-20 dated</u> <u>March 13, 2020</u> on the captioned subject read with paragraph 13 (iii) of <u>Master Circular</u> <u>DOR.SIG.FIN.REC 1/26.03.001/2022-23 dated April 1, 2022</u> on Asset Reconstruction Companies.
+
+2. It has been observed that consequent to the implementation of Ind AS, some Asset Reconstruction Companies (ARCs) have been recognising management fees even though the said fee had not been realised for more than 180 days.
+3. To address the prudential concerns arising from continued recognition of unrealised income, it has been decided that ARCs preparing their financial statements as per Ind AS, shall reduce the following amounts from their net owned funds while calculating the Capital Adequacy Ratio and the amount available for payment of dividend:
+(a) Management fee recognised during the planning period¹ that remains unrealised beyond 180 days from the date of expiry of the planning period.
+(b) Management fee recognised after the expiry of the planning period that remains unrealised beyond 180 days of such recognition.
+(c) Any unrealised management fees, notwithstanding the period for which it has remained unrealised, where the net asset value of the Security Receipts has fallen below 50 per cent of the face value. 1 Planning period means a period not exceeding six months allowed for formulating a plan for realisation of financial assets acquired for the purpose of reconstruction as defined in clause 2(xii) of <u>Master Circular on Asset</u> <u>Reconstruction Companies dated April 1, 2022</u>, *ibid*. िविनयमन िवभाग,क �ीय कायार्लय, 12 व और 13 व मंिजल, क � ी य कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001
+दूरभाष: 022-22601000 फै क् स : 022-22705691 ई-मेल: <u>cgmicdor@rbi.org.in</u> ____________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+The amount reduced from net owned funds and amount available for payment of dividend shall be net of any specific expected credit loss allowances held on unrealised management fee referred to in sub-paragraphs (a), (b) and (c) and the tax implications thereon, if any.
+
+4. The Audit Committee of the Board (ACB) shall review the extent of unrealised management fee and satisfy itself on the recoverability of the same while finalising the financial statements. It shall be ensured that the management fee is computed strictly in accordance with extant regulations.
+5. ARCs shall disclose information on the ageing of the unrealised management fee recognised in their books in the format specified below as part of the Notes to Accounts in the annual financial statements:
+
+||As at the end of Current Year|As at the end of Previous Year|
+|---|---|---|
+|Outstanding amount of unrealised management fee|||
+|1. Out of the above, amount outstanding for:|||
+|(a) Amounts where the net asset value of the security receipts has fallen below 50 per cent of the face value|||
+|(b) Other amounts unrealised for: (i) More than 180 days but upto 1 year (ii) More than 1 year but upto 3 years (iii) More than 3 years|||
+|Allowances held for unrealised management fee|||
+|Net unrealised management fee receivable|||
+
+## Applicability
+
+6. This circular is applicable to all ARCs preparing their financial statements as per Ind AS. Yours faithfully, (Usha Janakiraman) Chief General Manager
+-2-

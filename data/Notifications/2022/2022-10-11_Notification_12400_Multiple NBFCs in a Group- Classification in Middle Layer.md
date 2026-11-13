@@ -1,0 +1,67 @@
+---
+doc_id: "Notifications_2022_12400"
+title: "Multiple NBFCs in a Group: Classification in Middle Layer"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI129CEAD60B20A804890B68E2C53FE0C0B5E.PDF"
+pdf_sha256: "c38e5159f5f27b2b3f041c6226a02dedebe6c0397a29a17322350257096a3544"
+md_sha256: "268bc7bf1e289df523a0b90f3ccc8f4b81d8df7a08256af1ea043a3c1ae628a3"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-10-11_Notification_12400_Multiple%20NBFCs%20in%20a%20Group-%20Classification%20in%20Middle%20Layer.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Multiple NBFCs in a Group: Classification in Middle Layer
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/129 DOR.CRE.REC.No.78/03.10.001/2022-23 October 11, 2022
+
+## All Non-Banking Financial Companies
+
+Madam / Dear Sir,
+
+## <u>Multiple NBFCs in a Group: Classification in Middle Layer</u>
+
+Please refer to para 1 of the Annex to the <u>rcular on “Scale Based Regulation (SBR Ci): A</u> <u>Revised Regulatory Framework for NBFCs” issued on October 22, 2021</u>ineating the four del layered regulatory structure for NBFCs under Scale Based Regulatory Framework.
+
+**2.** As per para 16 of the <u>Master Direction – Non-Banking Financial Company-Systemically</u> <u>Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank</u>) <u>Directions 2016</u>, applicable NBFCs that are part of a common Group or are floated by a common set of promoters shall not be viewed on a standalone basis. In line with the existing policy on consolidation of assets of the NBFCs in a Group, the total assets of **all the NBFCs¹** **in a Group²** shall be consolidated to determine the threshold for their classification in the Middle Layer.
+**3**. Ifonsolidated asset (consolidation as per para 2 above) the c
+size of the Group is ₹1000 crore and above, then each Investment and Credit Company (NBFC-ICC), Micro Finance Institution (NBFC-MFI), NBFC-Factor and Mortgage Guarantee Company (NBFC-MGC) lying in the Group shall be classified as an NBFC in the Middle Layer and consequently, regulations as applicable to the Middle Layer shall be applicable to them. Illustrative examples are provided in the <u>Annex</u> to this circular.
+
+1 Including NBFCs which will always remain in Base Layer – NBFC-Peer to Peer Lending Platform, NBFC-Account Aggregator, Non-Operative Financial Holding Company and NBFC without public funds and customer interface. 2 As per the definition of “Companies in a Group” contained at para 3 (vi) of the <u>Master Direction – Non-</u> <u>Banking Financial Company-Systemically Important Non-Deposit taking Company and Deposit taking</u> <u>Company (Reserve Bank) Directions 2016</u>. िविनयमन िवभाग, क �ीय कायार्लय, 2री मंिज़ल, मुख्य कायार्लय भवन, शहीद भगत संह मागर्, फोटर्, मुंबई-400 001 टेलीफोन:+91-22-22709038, ईमेल:cgmicdor@rbi.org.in Department of Regulation, Central Office, 2ndFloor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001
+
+|Department of Regulation, Central Office, 2|Floor, Main Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001||
+|---|---|---|
+|Tel No:+91-22-22709038, Email :cgmicdor@rbi.org.in|हंदीआसानहै|, इसका�योगबढाइये।|
+
+<!-- PAGE 2 -->
+
+**4.** Statutory Auditors are required to certify the asset size (as on March 31) of all the NBFCs in the Group every year. The certificate shall be furnished to the Department of Supervision of the Reserve Bank under whose jurisdiction the NBFCs are registered.
+**5.** These guidelines shall be effective from October 01, 2022.
+**6.** Provisions contained in this circular will not be applicable for classifying an NBFC in the Upper Layer. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+
+<!-- PAGE 3 -->
+
+Annex
+
+Illustrations
+
+**Situation**- There are 7 NBFCs in a group – an Investment & Credit Company (NBFC-ICC) with asset size of ₹300 crore, a Housing Finance Company (HFC) with asset size of ₹300 crore, an Infrastructure Finance Company (NBFC-IFC) with asset size of ₹500 crore, a Micro Finance Institution (NBFC-MFI) with asset size of ₹100 crore, an NBFC-Peer to Peer Lending Platform (NBFC-P2P) with asset size of ₹50 crore and an NBFC-without public funds and customer interface with asset size of ₹70 crore. How will these NBFCs be classified in various layers?
+
+**Comments** –On a standalone basis, as per SBR Regulatory Framework,
+
+- HFCs and IFCs will, by default, be included in the Middle Layer but may move to the Upper Layer based on the supervisory filtering process.
+- NBFC-ICC and NBFC-MFI will be classified in Base Layer (as their asset size constitutes less than ₹1000 crore in the example).
+- NBFC-P2P and NBFC without public funds and customer interface will, by default, be included in the Base Layer.
+Based on consolidation of assets of all the NBFCs in the Group, the consolidated asset size of the Group becomes ₹1320 crore (higher than the asset size threshold of ₹1000 core for classification in Middle Layer). As such, NBFC-ICC and NBFC-MFI will be classified in the Middle Layer. HFC and IFC will continue to be classified in the Middle Layer in this example. However, NBFC-P2P and NBFC without public funds and customer interface will continue to be classified in the Base Layer.
+
+**Situation**- If the asset size of NBFC-ICC in the above example is ₹10 crore, then would it be still classified in Middle Layer?
+
+**Comments-**Yes, both NBFC-ICC and NBFC-MFI would still be classified in Middle Layer as the consolidated asset size of the Group at ₹1030 crore is higher than the asset size threshold of ₹1000 core for Middle Layer.
+
+***

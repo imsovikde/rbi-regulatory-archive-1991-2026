@@ -1,0 +1,246 @@
+---
+doc_id: "Notifications_2022_12395"
+title: "Appointment of Internal Ombudsman by the Credit Information Companies"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IOCICS610224B02F128D24444978E1CEDF12EC83135.PDF"
+pdf_sha256: "c107b8903e217746b3d0e264c0961571ad27ead97728d008dc06e13c8b4a266b"
+md_sha256: "b646a953eed7ccfe0b6291f30972320a5da68ba2c19c795a83223a9cc0b4e103"
+total_pages: 13
+native_pages: 13
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-10-06_Notification_12395_Appointment%20of%20Internal%20Ombudsman%20by%20the%20Credit%20Information%20Companies.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Appointment of Internal Ombudsman by the Credit Information Companies
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> RBI/2022-23/124 CEPD.PRD.No.S806/13-01-008/2022-23 October 6, 2022
+
+## All Credit Information Companies
+
+Madam/ Sir,
+
+## Appointment of Internal Ombudsman by the Credit Information Companies
+
+Please refer to paragraph 2 of the <u>Statement on Developmental and Regulatory</u> <u>Policies dated August 5, 2022</u>, wherein the decision to bring Credit Information Companies (CICs) under the Internal Ombudsman (IO) Framework was announced with a view to strengthen and improve the efficiency of the internal grievance redressal mechanisms of CICs.
+
+2. Accordingly, in exercise of the powers conferred by sub section (1) of Section 11 of the Credit Information Companies (Regulation) Act, 2005 (the Act), the Reserve Bank of India, being satisfied that it is in public interest to do so, directs all Credit Information Companies holding a Certificate of Registration under sub-section (2) of Section 5 of the Act, to comply with the Reserve Bank of India (Credit Information Companies- Internal Ombudsman) Directions, 2022 <u>annexed</u> herewith, by April 1,
+2023. Yours faithfully, (Anupam Sonal) Chief General Manager
+**उपभोा िश�ण और संर�ण िवभाग, क द्र ी य कायालय, पहली मंिजल,अमर िबंग,सर पी.एम.रोड,फोट,मुई - 400 001** Consumer Education and Protection Department, Central Office, 1st Floor, Amar Building, Sir P.M.Road, Fort, Mumbai - 400 001 टेिलफोन /Tel No: 91-22-22603000/22604000 फै � /Fax No: 91-22-22631744 **– बक िहंदी म पत्राचार का �ागत करता है –** **चेतावनी:** रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन-कॉल के जरए िकसी भी व् य� की जानकारी जैसे बैक के खाते का ब् यौरा, पासवड आिद नही ं मांगी जाती है। यह धन रखने या दे ने का प्रस् ताव भी नही ं करता है। ऐसे प्रस् तावों का िकसी भी त र ी के से जवाब मत दीिजए। **Caution:** RBI never sends mails, SMSs or makes call asking for personal information like Bank Account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 2 -->
+
+# भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u> CEPD.PRD.No.S806/13-01-008/2022-23 October 6, 2022
+
+## Reserve Bank of India (Credit Information Companies- Internal Ombudsman)
+
+## Directions, 2022
+
+*In exercise of the powers conferred by sub section (1) of Section 11 of the Credit* *Information Companies (Regulation) Act, 2005, the Reserve Bank of India, being* *satisfied that it is necessary in the public interest to do so, hereby, issues the Directions* *hereinafter specified.*
+
+These Directions are introduced with a view to strengthen the internal grievance redress mechanism within the Credit Information Company (CIC) by enabling a review of customer complaints before their rejection, by an independent apex level authority within the CIC.
+
+## Chapter I Preliminary
+
+## 1. Short Title and Commencement
+
+(a) These Directions shall be called the Reserve Bank of India (Credit Information Companies – Internal Ombudsman) Directions, 2022.
+(b) These directions shall come into effect from April 1, 2023.
+## 2. Suspension
+
+(a) The Reserve Bank, if it is satisfied that it is expedient to do so, may, by an order, suspend for such period as may be specified in the order, the operation of any or all of the provisions of these Directions, either generally **उपभोा िश�ण और संर�ण िवभाग, क द्र ी य कायालय, पहली मंिजल,अमर िबंग,सर पी.एम.रोड,फोट,मुई - 400 001** Consumer Education and Protection Department, Central Office, 1st Floor, Amar Building, Sir P.M.Road, Fort, Mumbai - 400 001
+टेिलफोन /Tel No: 91-22-22603000/22604000 फै � /Fax No: 91-22-22631744 **– बक िहंदी म पत्राचार का �ागत करता है –** **चेतावनी:** रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन-कॉल के जरए िकसी भी व् य� की जानकारी जैसे बैक के खाते का ब् यौरा, पासवड आिद नही ं मांगी जाती है। यह धन रखने या दे ने का प्रस् ताव भी नही ं करता है। ऐसे प्रस् तावों का िकसी भी त र ी के से जवाब मत दीिजए। **Caution:** RBI never sends mails, SMSs or makes call asking for personal information like Bank Account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.
+
+<!-- PAGE 3 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* or in relation to any specified Credit Information Company, or extend from time to time, the period of any suspension ordered as aforesaid by such period, as it thinks fit.
+
+## 3. Applicability
+
+These Directions shall apply to all Credit Information Companies (‘CICs’) as defined under sub-section (e) of section 2 of the Credit Information Companies (Regulation) Act, 2005 (‘Act’) as amended from time to time.
+
+## 4. Definitions
+
+(a) In these Directions, unless the context states otherwise, the terms herein shall bear the meanings assigned to them as below:
+(i) **“Financial Sector Regulatory Body”** means regulatory body for
+financial sector entities and includes:
+
+(a) The Reserve Bank of India established under the Reserve Bank of India Act, 1934
+(b) The Securities and Exchange Board of India established under the Securities and Exchange Board of India Act, 1992
+(c) The Insurance Regulatory and Development Authority of India established under the Insurance Regulatory and Development Authority of India Act, 1999.
+(d) The Pension Fund Regulatory and Development Authority established under the Pension Fund Regulatory and Development Authority Act, 2013
+(ii) **“Internal Ombudsman” or “IO”** means any person appointed under clause 5 of these Directions. (iii) **“Related Party”** shall include related party as defined in sub-clause 76 of section 2 of the Companies Act, 2013 and related party as per applicable accounting standards.
+
+<!-- PAGE 4 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022*
+
+(b) All other expressions, unless defined herein, shall have the same meaning as assigned to them under the Credit Information Companies (Regulation) Act, 2005, the Credit Information Companies Rules, 2006, the Credit Information Companies Regulations, 2006, the Banking Regulation Act, 1949, the Reserve Bank of India Act, 1934, the Reserve Bank-Ombudsman Scheme, 2021 or regulations, directions and guidelines issued by the Reserve Bank of India.
+-4-
+
+<!-- PAGE 5 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* **Chapter II** **Office of the Internal Ombudsman**
+
+**5. Appointment of Internal Ombudsman**
+(a) Every CIC shall appoint the Internal Ombudsman for a fixed term of not less than three years, but not exceeding five years, meeting the following prerequisites:
+(i) The IO shall be either a retired or a serving officer, not below the rank of Deputy General Manager or equivalent in any financial sector regulatory body, CIC, a Non-Banking Financial Company (NBFC) or bank, with necessary skills and experience of at least seven years in banking, non-banking finance, financial sector regulation or supervision, credit information or consumer protection. (ii) The IO shall previously not have been employed, nor presently be employed, by the CIC or its related parties. (iii) The IO shall not attain the age of 70 before completion of the proposed term.
+(b) The IO shall not be eligible for re-appointment or extension of term in the same CIC.
+(c) The CIC shall ensure that the post of the IO does not remain vacant at any point of time. The CIC shall undertake the process of fresh appointment well in advance to fill the vacancy before the expiry of the tenure of the incumbent IO and ensure that there is a minimum overlap of at least one month between the time of demitting of office of the outgoing IO and the incumbent IO.
+(d) The Board of the CIC shall determine the emoluments, facilities and benefits accorded to the IO, which should be appropriate considering the stature and position of the IO being at the apex of the grievance redressal mechanism of the CIC, and the need to attract experienced persons with requisite expertise. These emoluments, facilities and benefits accorded to the IO, once determined, shall not be changed during the tenure of the IO.
+(e) The IO shall not be removed before the completion of the contracted term without the explicit approval of the Reserve Bank. In case the vacancy
+-5-
+
+<!-- PAGE 6 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* arises on account of reasons beyond the control of the CIC (such as death, resignation, incapacitation, terminal illness, etc.), the CIC shall appoint a new IO, within three months from the date of the vacancy arising.
+
+(f) The CIC may appoint more than one IO depending upon the volume of complaints anticipated. In such cases, the CIC shall demarcate the jurisdiction of each IO clearly.
+(g) The Principal Nodal Officer liaising with the offices of RBI Ombudsman, Nodal Office or any other official of the CIC, shall not act as the IO or vice versa.
+## 6. Secretariat to the Office of Internal Ombudsman
+
+(a) The CIC shall depute such number of its officers and/or other staff and make available such infrastructure to the office of the Internal Ombudsman as may be considered necessary for its effective functioning or as may be directed by RBI.
+(b) The Office of the IO shall function from the Head Office or Corporate Office of the CIC.
+## 7. Internal Audit
+
+(a) The internal audit of the CIC shall cover the implementation of, and compliance with, this Direction, *inter-alia,* including;
+(i) The adequacy of the infrastructure (space, IT infrastructure, human resources, etc.) provided to the Internal Ombudsman and whether it is in line with the volume of complaints and the stated position of the IO at the apex of the grievance redressal mechanism. (ii) Adherence with various timelines indicated in these directions (iii) Support provided by the CIC to the IO for redressal of the complaints.
+(b) The scope of the internal audit shall exclude any assessment of the correctness of decisions taken by the IO.
+-6-
+
+<!-- PAGE 7 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* **Chapter III** **Role and Responsibilities of Internal Ombudsman**
+
+## 8. Scope of role
+
+(a) The Internal Ombudsman shall not handle complaints received directly from the complainants or members of the public and instead, deal only with the complaints that have already been examined by the CIC but have been partly or wholly rejected by the CIC.
+(b) The following types of complaints shall be outside the purview of this Direction and shall not be handled by the IO:
+(i) Complaints related to fraud, misappropriation, etc., except those resulting from deficiency in service, if any, on the part of the CIC (ii) Complaints/references relating to (a) internal administration, (b) human resources, or (c) pay and emoluments of staff (iii) References in the nature of suggestions and commercial decisions of the CIC (iv) Complaints which have been decided by or are already pending in other fora such as Consumer Disputes Redressal Commission, courts, etc.
+(v) Disputes for which remedy has been provided under Section 18 of the Credit Information Companies (Regulation) Act, 2005.
+(c) Complaints that are outside the purview of this Direction shall be immediately referred back to the CIC by the IO.
+(d) The IO shall examine the complaints based on records available with the CIC, including any documents submitted by the complainant and comments or clarifications furnished by the CIC to the specific queries of the IO. The IO may seek information from concerned Credit Institution/s (CI), if necessary, as well as additional information from the complainant, through the CIC. The IO must record the Reason for the decision on each case.
+(e) The IO may hold meetings with the concerned functionaries of the CIC and seek any documents available with the CIC that are necessary for examining the complaint and reviewing the decision. The CIC shall furnish
+-7-
+
+<!-- PAGE 8 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* all records and documents sought by the IO to enable expeditious resolution of the complaints without undue delay.
+
+(f) The IO shall, on a quarterly basis, analyse the pattern of all complaints received against the CIC, such as entity wise, product-wise, category-wise, consumer group-wise, geographical location-wise, etc., and may provide inputs to the CIC for policy intervention, if so warranted.
+(g) The IO shall not represent the CIC in legal cases before any court or fora or authority.
+## 9. Administrative Oversight
+
+The Internal Ombudsman shall report to the Managing Director or Chief Executive Officer of the CIC administratively, and to the Board functionally.
+
+## 10. Board Oversight and participation
+
+(a) The Internal Ombudsman shall furnish periodic reports to the Consumer Protection Committee of the Board¹, preferably at quarterly intervals, but not less than bi-annually.
+(b) The IO shall be designated as an ex-officio member or a permanent invitee to the meetings of the Consumer Protection Committee of the Board.
+## 11. Procedural guidelines
+
+(a) The CIC shall formulate a Standard Operating Procedure approved by its Board of Directors and establish a system of auto-escalation, within 21 days of receipt, of all complaints that are partly or wholly rejected by the CIC’s internal grievance redress mechanism, to the Internal Ombudsman for a final decision.
+1 In terms of para XVII of Best Practices for Credit Information Companies (part of <u>Data Format for Furnishing of</u> <u>Credit Information to Credit Information Companies and other Regulatory Measures dated June 27, 2014</u>) “*Banks/FIs and CICs should have a structured process of complaint redressal for which a Consumer Protection* *Committee under the Board should be constituted*”
+
+<!-- PAGE 9 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022*
+
+(b) The IO and the CIC shall ensure that the final decision is communicated to the complainant within 30 days from the date of receipt of the complaint by the CIC.
+(c) In case the CIC has a complaint management software, it shall provide the IO ‘read-only’ access to the system and enable uploading of the decisions of the IO.
+(d) The IO shall also have ‘read-only’ access to the Reserve Bank’s Complaint Management System to enable the IO to keep track of: (i) the cases forwarded by the offices of RBI Ombudsmen, (ii) decisions of the RBI Ombudsmen, and (iii) where applicable, the decision of the Appellate Authority under the RBI Ombudsman scheme.
+(e) The decision of the IO shall be binding on the CIC, except in cases where the CIC has obtained approval for disagreeing with such decision as stated in sub-clause (g) below.
+(f) Where the IO upholds the decision of the CIC to reject or partly reject the complaint, the reply to the complainant should explicitly state the fact that the complaint has been examined by the IO and, for the reasons stated in the reply, the decision of the CIC has been upheld.
+(g) Where the IO overrules the decision of the CIC to reject or partly reject the complaint, the CIC can disagree with the decision of the IO only with the approval of its Managing Director/Chief Executive Officer. In such cases, the reply to the complainant shall explicitly state the fact that the complaint was examined by the IO and the decision of the CIC was overruled by the IO in favour of the complainant; however, the CIC, with the approval of its Managing Director/Chief Executive Officer, has disagreed with the decision of the IO. Such decision must be communicated to the complainant within 7 days of communication of the decision of the IO on the case to the CIC. All such cases shall be subsequently reviewed on a quarterly basis by the Board of the CIC.
+(h) For complaints that are fully or partly rejected even after examination by the IO, the CIC shall necessarily advise the complainant as part of the reply,
+-9-
+
+<!-- PAGE 10 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* that he/she can approach the RBI Ombudsman for redress (provided the complaint pertains to a Credit Institution / Regulated Entity that falls under RB-IOS, 2021) along with complete details of the complaint. The advice should include the link to Reserve Bank’s portal (<u>[https://cms.rbi.org.in](https://cms.rbi.org.in)</u>) for online filing of complaints.
+
+(i) The CIC shall use the analysis of complaints handled by the IO in their training programmes or conferences to raise awareness among their staff interacting with complainants and with Credit Institutions about, *inter-alia*, the pattern of complaints being received in the CIC, their root causes, remedial measures and expected action on the part of frontline staff. The IO may also be associated with such trainings, where necessary.
+(j) While assessing the performance of the IO, in addition to the level of pendency etc., the CIC shall also consider the number of cases where substantive differences were observed between the decisions of the IO vis- à-vis those given by the RBI Ombudsman subsequently.
+(k) The CIC shall disseminate the guidelines/instructions regarding the role of the IO among its staff while communicating the appointment of the IO in the organization (all branches and administrative offices).
+(l) The CIC shall not provide the contact details of the IO in the public domain as the IO shall not handle complaints received directly from complainants.
+(m) The decision of the IO on the respective complaint shall mandatorily be included in the information submitted by the CIC to the office of the RBI Ombudsman while replying to, or furnishing documents to, the office of the RBI Ombudsman.
+-10-
+
+<!-- PAGE 11 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* **Chapter IV** **Regulatory reporting and Supervisory oversight**
+
+## 12. Reporting to RBI
+
+(a) The CIC shall put in place a system of periodic reporting of information to Consumer Education and Protection Department, Central Office, Reserve Bank of India, on a quarterly and annual basis as per formats provided in the <u>Annex</u>. These reports shall be submitted on or before the 10
+th day following the quarter/year for which they are due.
+
+(b) The CIC shall, within five working days of appointment of the Internal Ombudsman, furnish the details of the individual so appointed to the Consumer Education and Protection Department, Central Office, Reserve Bank of India (<u>email</u>) in the following format:
+
+|1|Name of the Internal Ombudsman|
+|---|---|
+|2|Details of the last positions held/ organization names|
+|3|Date of Appointment|
+|4|Term (in years)|
+|5|Brief professional profile, including previous exposure to financial services highlighting those that make them eligible for appointment|
+
+## 13. Supervisory Oversight
+
+The areas relating to customer service and customer grievance redress, as well as the implementation of this Direction, shall be a part of the supervisory review undertaken by the Reserve Bank. Further, the Reserve Bank will review the cases where the decision of the IO has not been accepted by the CIC and the aggrieved complainant approaches the RBI Ombudsman, for assessing the effectiveness of the internal grievance redress mechanism of the CIC and initiating corrective actions as it may deem fit.
+
+<!-- PAGE 12 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022* **Annex**
+
+## Report to the Consumer Education and Protection Department
+
+## Reserve Bank of India
+
+(refer clause 12)
+
+## Office of the Internal Ombudsman (IO) Name of the Credit Information Company
+
+## Report for the quarter ended: ____________
+
+# Part A: Quarterly Reporting
+
+## I. Objective information required
+
+|Number of complaints|Number of|Number of complaints|Number of complaints|
+|---|---|---|---|
+|received by the CIC|complaints falling|falling under the|referred by the CIC to|
+|during the quarter|under the domain of IO|domain of IO that are rejected (Partly or Wholly) by CIC|the IO|
+
+**II. Subjective assessment** : Details of analysis and inputs on the pattern of:
+
+(i) Complaints received against the CIC, such as entity wise, product-wise, category-wise, consumer group- wise, geographical location-wise, any other. (ii) Complaints received in respect of CIs not under the RB- IOS, 2021
+-12-
+
+<!-- PAGE 13 -->
+
+*Reserve Bank of India* *(Credit Information Companies – Internal Ombudsman)* *Directions, 2022*
+
+# Part B: Annual Reporting
+
+## Report for the year ended:
+
+# Table I
+
+**Number of Number of Number of Number of Number of Number of decisions of the IO yet to be** **complaints complaints complaints complaints decisions** **implemented by the CIC for** **referred by closed by where the wherein of the IO 1 2 3 More** **the RE to the IO decision of the implement month months months than 3** **the IO the RE was decision of ed by the months** **during the not upheld the IO was RE** **year by the IO rejected***
+
+*with the approval of the Managing Director/Chief Executive Officer
+
+# Table II
+
+|Number of complaints referred by the RE to the IO during the year|Out of Number of complaints under column A, Number of complaints not referred to IO within 21 days|Number of complaints where the complainants were not responded to within one month of the date of filing the complaint.|
+|---|---|---|
+|(A)|(B)|(C)|

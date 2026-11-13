@@ -1,0 +1,65 @@
+---
+doc_id: "Notifications_2022_12393"
+title: "Late Submission Fee for reporting delays under Foreign Exchange Management Act, 1999 (FEMA)"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIRSERIES16B175DFF736684DCA87CB5546DCF4DA27.PDF"
+pdf_sha256: "b9f947b0d8f6a042d853b2f1d876514724b23f7fa359197871b06ab1ff69794d"
+md_sha256: "e2bac99237d1bdc86424da5434b7f4fb208b3326c5b481d70d07ebf86732d766"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-09-30_Notification_12393_Late%20Submission%20Fee%20for%20reporting%20delays%20under%20Foreign%20Exchange%20Management%20Act%2C%201999%20%28FEMA%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Late Submission Fee for reporting delays under Foreign Exchange Management Act, 1999 (FEMA)
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2022-23/122 September 30, 2022
+
+A.P. (DIR Series) Circular No.16 To All Category-I Authorised Dealer Banks
+## Madam / Sir
+
+## Late Submission Fee for reporting delays under Foreign Exchange Management Act,
+
+## 1999 (FEMA)
+
+The Late Submission Fee (LSF) was introduced for reporting delays in Foreign Investment (FI), External Commercial Borrowings (ECBs) and Overseas Investment related transactions with effect from November 07, 2017, January 16, 2019 and August 22, 2022 respectively. It has now been decided to bring uniformity in imposition of LSF across functions. The following matrix shall be used henceforth for calculation of LSF, wherever applicable:
+
+|Sr. No.|Type of Reporting delays|LSF Amount (INR)|
+|---|---|---|
+|1|Form ODI Part-II/ APR, FCGPR (B), FLA Returns, Form OPI, evidence of investment or any other return which does not capture flows or any other periodical reporting||
+|||7500|
+|2|FC-GPR, FCTRS, Form ESOP, Form LLP(I), Form LLP(II), Form CN, Form DI, Form InVi, Form ODI-Part I, Form ODI-Part III, Form FC, Form ECB, Form ECB-2, Revised Form ECB or any other return which captures flows or returns which capture reporting of non-fund transactions or any other transactional reporting|[7500 + (0.025% × A × n)]|
+
+Notes:
+
+a) “n” is the number of years of delay in submission rounded-upwards to the nearest month and expressed up to 2 decimal points.
+b) “A*î* is the amount involved in the delayed reporting.
+c) LSF amount is per return. However, for any number of Form ECB-2 returns, delayed submission for each LRN will be treated as one instance for the fixed component. Further, ‘A’ for any ECB-2 return will be the gross inflow or outflow (including interest and other charges), whichever is more.
+d) Maximum LSF amount will be limited to 100 per cent of ‘A’ and will be rounded upwards to the nearest hundred.
+e) Where an advice has been issued for payment of LSF and such LSF is not paid within 30 days, such advice shall be considered as null and void and any LSF received beyond this period shall not be accepted. If the
+
+<!-- PAGE 2 -->
+
+applicant subsequently approaches for payment of LSF for the same delayed reporting, the date of receipt of such application shall be treated as the reference date for the purpose of calculation of “n”.
+
+f) The facility for opting for LSF shall be available up to three years from the due date of reporting/ submission. The option of LSF shall also be available for delayed reporting/submissions under the <u>Notification No. FEMA</u> <u>120/2004-RB</u> and earlier corresponding regulations, up to three years from the date of notification of <u>Foreign</u> <u>Exchange Management (Overseas Investment) Regulations, 2022</u>.
+g) In case a person responsible for any submission or filing under the provisions of FEMA, neither makes such submission/filing within the specified time nor makes such submission/filing along with LSF, such person shall be liable for penal action under the provisions of FEMA, 1999.
+2. The above provisions shall come into effect immediately for the delayed filings made on or after the date of this circular.
+3. All other provisions of reporting under FEMA remain unchanged. AD Category-I banks should bring the contents of this circular to the notice of their constituents and customers.
+4. The ‘<u>Master Direction – Reporting under Foreign Exchange Management Act, 1999</u>’ and ‘<u>Master Direction-External Commercial Borrowings, Trade Credits and Structured Obligations</u>’ are being updated to reflect the changes.
+5. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+## Yours faithfully
+
+Ajay Kumar Misra Chief General Manager-in-Charge

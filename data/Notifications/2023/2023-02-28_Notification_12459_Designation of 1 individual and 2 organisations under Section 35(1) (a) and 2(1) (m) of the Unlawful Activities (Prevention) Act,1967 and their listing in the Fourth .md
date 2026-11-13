@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2023_12459"
+title: "Designation of 1 individual and 2 organisations under Section 35(1) (a) and 2(1) (m) of the Unlawful Activities (Prevention) Act,1967 and their listing in the Fourth and First Schedule of the Act- Reg."
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT183E58850344F0E44C4A4C2414256327927.PDF"
+pdf_sha256: "836bbc1b24191fb85a6e05dc293515b0e2244ff9416d037210669fe0b2a8bcf3"
+md_sha256: "c47b2f26b026d2e857dbea9986c1ee52efafcde40a4c040479e6f668496e6dc7"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:46Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-02-28_Notification_12459_Designation%20of%201%20individual%20and%202%20organisations%20under%20Section%2035%281%29%20%28a%29%20and%202%281%29%20%28m%29%20of%20the%20Unlawful%20Activities%20%28Prevention%29%20Act%2C1967%20and%20their%20listing%20in%20the%20Fourth%20.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Designation of 1 individual and 2 organisations under Section 35(1) (a) and 2(1) (m) of the Unlawful Activities (Prevention) Act,1967 and their listing in the Fourth and First Schedule of the Act- Reg.
+
+<!-- PAGE 1 -->
+
+RBI/2022-23/183 DOR.AML.REC.105/14.06.001/2022-23 February 28, 2023
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir, **Designation of 1 individual and 2 organisations under Section 35(1) (a) and 2(1)**
+
+**(m) of the Unlawful Activities (Prevention) Act, 1967 and their listing in the Fourth** <u>and First Schedule of the Act- Reg.</u> In terms of Section 53 of our <u>Master Direction on Know Your Customer dated February</u> <u>25, 2016</u> as amended on May 10, 2021, *“The procedure laid down in the UAPA Order* *dated February 2, 2021 (Annex II of this Master Direction) shall be strictly followed and* *meticulous compliance with the Order issued by the Government shall be ensured.”* Further, Section 52 of the aforementioned Master Direction states that, “*Details of* *accounts resembling any of the individuals/entities in the lists shall be reported to FIU-* *IND apart from advising Ministry of Home Affairs as required under UAPA notification* *dated February 2, 2021 (Annex II of this Master Direction)”.* In this regard, it is reiterated that the UAPA Order in Annex II of the <u>MD on KYC, 2016</u> shall also apply to amendments carried out in Schedule IV and I of the UAPA, 1967 apart from the UNSC lists mentioned in the Order.
+2. In this connection, please refer to the Gazette notifications dated February 17, 2023 of the MHA in respect of one individual and two organizations which have been declared as ‘Individual Terrorists’ and ‘Terrorist Organsiations’ and have been listed in the Schedule IV and I of the UAPA 1967, under Section 35 (1) (a) and 2(1) (m) of UAPA
+1967. The Statutory Order (S.O.) numbers and the respective entries are as provided below:
+
+|S.O. Numbers|Entries|
+|---|---|
+|738(E)|“43. Jammu and Kashmir Ghaznavi Force (JKGF) and all its manifestations and front organisations”|
+|739(E)|“54. Harwinder Singh Sandhu @ Rinda”|
+|747(E)|“44. Khalistan Tiger Force (KTF) and all its manifestations and front organisations”|
+
+िविनयमन िवभाग, क द्र ी य कायालय, क द्र ी य कायालय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह माग, फोट, मुंबई-400001 टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+3. Regulated Entities (REs) are advised to take note of the aforementioned Gazette notifications issued by MHA for necessary compliance. REs shall also take note of any future amendments to Schedule I and IV of the UAPA, 1967, for immediate necessary compliance. Yours faithfully, (Santosh Kumar Panigrahy) Chief General Manager

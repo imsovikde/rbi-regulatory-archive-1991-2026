@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2023_12492"
+title: "General Credit Card (GCC) Facility – Review"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/GENERALCREDITCARDE68D55C3F84F4FACA68B71125047FC8C.PDF"
+pdf_sha256: "3b6fc1be1f36adb85665b21b810f8922aa6134753677271230e1662e5ee88762"
+md_sha256: "01782ead18a91100827a7248fc5eb2fed4897a71d614a2105a6a6b2d8ac0dc76"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-04-25_Notification_12492_General%20Credit%20Card%20%28GCC%29%20Facility%20%E2%80%93%20Review.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# General Credit Card (GCC) Facility – Review
+
+<!-- PAGE 1 -->
+
+**भारतीय रज़व बक** **_______________________ RESERVE BANK OF INDIA______________________** <u>www.rbi.org.in</u>
+
+RBI/2023-24/19 FIDD.MSME & NFS.BC.No.06/06.02.31/2023-24 April 25, 2023
+
+The Chairman/Managing Director/ Chief Executive Officer Scheduled Commercial Banks (excluding Payments Banks) and Scheduled Urban Co-operative Banks
+
+## Dear Sir / Madam
+
+## General Credit Card (GCC) Facility – Review
+
+Please refer to our <u>Circular RPCD.MSME & NFS.BC.No.61/06.02.31/2013-14 dated</u> <u>December 02, 2013</u> on the Revised General Credit Card (GCC) Scheme.
+
+2. On review of the above, and in the light of the provisions contained in the <u>Master</u> <u>Direction – Credit Card and Debit Card – Issuance and Conduct Directions, dated</u> <u>April 21, 2022</u>, revised instructions on GCC are as follows:
+i) The GCC Scheme shall henceforth be called “General Credit Card (GCC) Facility”. ii) The instructions shall apply to all banks which are eligible to issue credit cards under the above Master Direction. iii) Individuals/entities sanctioned working capital facilities for non-farm entrepreneurial activities which are eligible for classification under the priority sector guidelines, may be issued General Credit Cards. iv) GCC shall be issued in the form of a credit card conforming to the stipulations in the above Master Direction as updated from time to time.
+v) The terms and conditions of the credit facilities extended in the form of GCC shall be as per the Board approved policies of the banks, within the overall framework laid down by Reserve Bank. Guidelines on collateral free lending for micro and small units issued from time to time shall apply. vi) Bank shall adhere to the instructions on reporting GCC data as issued by RBI from time to time.
+__________________________________________________________________________ िवत् तीय समावेशन और िवकास िवभाग, के ी य कायालय, 10 वी मंिजल, क द्र ी य कायालय भवन, शहीद भगतिसंह माग, पो बॉ� सं. 10014, मुंबई -400001 Financial Inclusion & Development Dept., Central Office,10th Floor, Central Office Building Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai-1 टे ली Tel:022-22601000 फै � ः 91-22-22621011/22610943/22610948 ई-मेल : <u>cgmincfidd@rbi.org.in</u> **िहंदी आसान है**, **इसका प्रयोग बढ़ाइए।**
+
+<!-- PAGE 2 -->
+
+3. These instructions supersede the GCC guidelines issued in December 2013 and come into effect as on the date of this circular. Debit cards, if any, already issued under the circular of 2013 shall remain valid till their expiry/repayment of the existing credit facilities, whichever is earlier.
+## Yours faithfully
+
+(Nisha Nambiar) Chief General Manager

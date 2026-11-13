@@ -1,0 +1,63 @@
+---
+doc_id: "Notifications_2022_12401"
+title: "Reserve Bank of India (Financial Statements - Presentation and Disclosures) Directions, 2021 - Disclosure of Divergence in Asset Classification and Provisioning"
+category: "Notifications"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI130D54317FD9BE84CEF95FE968AA883887E.PDF"
+pdf_sha256: "b65b91cd99169c810b22acdc859aa97135414328fdafb3f9564ddb32ce542d67"
+md_sha256: "8450842fa6c3232eed9b24f2458278dde9b49278f75ad9e2c9088572f0c42b52"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:06:40Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-10-11_Notification_12401_Reserve%20Bank%20of%20India%20%28Financial%20Statements%20-%20Presentation%20and%20Disclosures%29%20Directions%2C%202021%20-%20Disclosure%20of%20Divergence%20in%20Asset%20Classification%20and%20Provisioning.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Financial Statements - Presentation and Disclosures) Directions, 2021 - Disclosure of Divergence in Asset Classification and Provisioning
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़व बक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2022-23/130 DOR.ACC.REC.No.74/21.04.018/2022-23 October 11, 2022
+
+Madam / Dear Sir,
+
+## Reserve Bank of India (Financial Statements-Presentation and Disclosures)
+
+## Directions, 2021 -Disclosure of Divergence in Asset Classification and
+
+## Provisioning
+
+|||In terms of paragraph C.4(e) of Annexure III to the|Reserve Bank of India (Financial|
+|---|---|---|---|
+||norms, it has commercial banks. are satisfied:|Statements-Presentation and Disclosures) Directions, 2021 (excluding Regional Rural Banks (RRBs)) now been decided to introduce|, commercial banks are required to disclose details of divergence in asset classification and provisioning where such divergence assessed by the Reserve Bank of India (RBI) exceeds certain specified thresholds. In order to strengthen compliance with income recognition, asset classification and provisioning similar disclosure requirements for Primary (Urban) Co-operative Banks (UCBs) and revise the specified thresholds for 2. Accordingly, for the financial statements for the year ending March 31, 2023, banks shall make suitable disclosures in the manner specified in paragraph C.4(e) of Annex III to the afore-mentioned Directions, if either or both of the following conditions|
+|(a)|contingencies¹|RBI exceeds 10|the additional provisioning for non-performing assets (NPAs) assessed by the per cent of the reported profit before provisions and for the reference period; and|
+
+1 To determine this threshold, UCBs should add back (a) tax expense, and (b) provisions for standard and non-performing assets (recognised as expenses in their Profit and Loss Account) to their reported net profits for the year.
+
+िविनयमन िवभाग,क �ीय कायार्लय, 12 व और 13 व मंिजल, क � ी य कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001 दरभाष ू : 022-22601000 फै क् स : 022-22705691 ई-मेल: <u>cgmicdor@rbi.org.in</u> ____________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+(b) the additional Gross NPAs identified by the RBI exceed 10 per cent of the reported² incremental Gross NPAs for the reference period.
+
+||Provided further that in the case of UCBs the threshold for reported incremental|
+|---|---|
+||Gross NPAs specified in paragraph 2(b) above shall be 15 per cent, which shall be reduced progressively in a phased manner, after review. 3. The thresholds specified in paragraph (2) above shall be revised for disclosures in annual financial statements for the year ending March 31, 2024, and onwards, as|
+|under:||
+
+|Ref.|Threshold linked to:|Commercial Banks (%)|UCBs (%)|
+|---|---|---|---|
+|2(a)|Reported profit before provisions and contingencies|5|5|
+|2(b)|Reported incremental Gross NPA *May be reduced subject to review|5|15*|
+
+## Applicability
+
+4. These instructions are applicable to all commercial banks (excluding Regional Rural Banks) and all Primary (Urban) Co-operative Banks. These instructions shall come into effect for disclosures in the notes to the annual financial statements of the year ending March 31, 2023, and onwards.
+5. The Reserve Bank of India (Financial Statements-Presentation and Disclosures) <u>Directions, 2021</u> are being updated to reflect these changes. Yours faithfully, (Usha Janakiraman) Chief General Manager
+Reported incremental Gross NPAs refers to additions during the reference year to the Gross NPAs as disclosed in the Notes to the Financial Statements of the reference period.
