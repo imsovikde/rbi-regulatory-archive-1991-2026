@@ -1,0 +1,66 @@
+---
+doc_id: "Circulars_2013_UBD_BPD_Dir_No_4_13_01_000_2013-14"
+title: "Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits"
+category: "Circulars"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CDERDN031213.PDF"
+pdf_sha256: "b64bfb1432703e328ec832262c4cc9199e4925accad6e6c2e10004d31c4a59e3"
+md_sha256: "8b49f514d5de29c787312d294bf8dc1a9d9c2aeb3b1065d70e29f38971b62f90"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:08:08Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-12-02_Circular_UBD.BPD.Dir.No.4-13.01.000-2013-14_Deregulation%20of%20Interest%20Rates%20on%20Non-Resident%20%28External%29%20Rupee%20%28NRE%29%20Deposits.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> RBI/2013-14/395 UBD.BPD.(PCB).Cir.No.40 /13.01.000/2013-14 December 2, 2013
+
+The Chief Executive Officers All Primary (Urban) Co-operative Banks
+
+Dear Sir/Madam,
+
+## Deregulation of Interest Rates on <u>Non-Resident (External) Rupee (NRE) Deposits</u>
+
+Please refer to our <u>circular UBD.BPD.(PCB) CIR.No. 8/13.01.000/2013-14 dated</u> <u>September 3, 2013</u> allowing banks the freedom to offer interest rates on incremental NRE deposits with maturity of 3 years and above without any ceiling in order to pass on the benefit of exemption provided on such deposits from CRR / SLR requirements. In terms of para 4 thereof, these instructions were valid up to November 30, 2013, subject to review.
+
+2. In this connection, we advise that the above instructions issued vide circular under reference will remain unchanged till January 31, 2014, subject to review.
+3. An amending directive UBD.BPD.Dir.No 4/13.01.000/2013-14 dated December 2, 2013 is enclosed. Yours faithfully,
+# Withdrawn
+
+(**A.K.Bera**) Principal Chief General Manager
+
+शहरी बक िवभाग,कीय कायार्लय, गारमट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; F<u>ax: 022 - 2497 4030 / 2492 0231;</u> Email: cgmincubd@rbi.org.in <u>बक िहन्दी म पाचार का स्वागत करता ह —</u> ै
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन कॉल|के जरये|कोई भी यगत|जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा जाता|है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव भी|नहं करता है।|ऐसे ूःताव|का कसी भी|ूकार से जवाब|मत द�जए।||
+
+चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड
+
+<!-- PAGE 2 -->
+
+भारतीय रज़व बक **_____________________RESERVE BANK OF INDIA___________________** <u>www.rbi.org.in</u> UBD.BPD.Dir.No 4 /13.01.000/2013-14 December 2, 2013
+
+## Deregulation of Interest Rates on <u>Non-Resident (External) Rupee (NRE) Deposits</u>
+
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, and in modification of the directive <u>UBD.BPD.DIR.No.3/13.03.000/2013-14</u> <u>dated August 30, 2013</u> on Deregulation of Interest Rates on Non-Resident (External) Rupee (NRE) Deposits, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest so to do, hereby directs that instructions issued vide directive referred to above will remain unchanged till January 31, 2014, subject to review.
+
+## Yours faithfully
+
+(S.Karuppasamy) Executive Director
+
+# Withdrawn
+
+शहरी बक िवभाग,कीय कायार्लय, गारमट हाऊस, पहली मंिज़ल, डॉ ए बी रोड, वरली, मुंबई- 400018 भारत फोन: 022 - 2493 9930 - 49; फै क्स: 022 - 2497 4030 / 2492 0231; ई मेल: cgmincubd@rbi.org.in Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: cgmincubd@rbi.org.in <u>बक िहन्दी म पाचार का स्वागत करता ह —</u> ै
+
+|चेतावनी: भारतीय|रज़व|बक ारा ई-मेल,|डाक, एसएमएस|या फोन कॉल|के जरये|कोई भी यगत|जानकार|जैसे बक खाते|का यौरा,|पासवड|
+|---|---|---|---|---|---|---|---|---|---|---|
+|आद Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc.It never|नहं माँगा जाता|है। यह धन keeps or offers funds to anyone. Please do not respond in any manner to such offers.|रखने या देने|का ूःताव भी|नहं करता है।|ऐसे ूःताव|का कसी भी|ूकार से जवाब|मत द�जए।||
+
+चेतावनी: भारतीय रज़व बक ारा ई-मेल, डाक, एसएमएस या फोन कॉल के जरये कोई भी यगत जानकार जैसे बक खाते का यौरा, पासवड
