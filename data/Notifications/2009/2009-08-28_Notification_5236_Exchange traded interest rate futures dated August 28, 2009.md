@@ -1,0 +1,113 @@
+---
+doc_id: "Notifications_2009_5236"
+title: "Exchange traded interest rate futures dated August 28, 2009"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FINA280709.PDF"
+pdf_sha256: "7058adc0279097d04b8db03e647c0e45507ee713f9465d73795a7a2a638c1d17"
+md_sha256: "5078cf1b2cec19da3a018109b76057a7277b1dc08d9a675268ef546854848b02"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:03:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-08-28_Notification_5236_Exchange%20traded%20interest%20rate%20futures%20dated%20August%2028%2C%202009.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Exchange traded interest rate futures dated August 28, 2009
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/134 FMD.MSRG No. 39 /02.04.003/ 2009-10 August 28, 2009
+
+To
+
+All Scheduled Commercial Banks, Primary dealers, Urban co-operative banks, Non-banking Finance Companies and specified All India Financial Institutions
+
+## Dear Sir
+
+## Exchange traded interest rate futures
+
+It has been decided to introduce Interest Rate Futures on a notional coupon bearing 10-year Government of India security. In this regard Reserve Bank of India has issued a direction FMD.MSRG. 1/02.04.003/2009-10 dated August 28, 2009 under section 45 W of the Reserve Bank of India Act, 1934, which has been placed on the Reserve Bank of India website (<u>www.rbi.org.in</u>). A copy of the Direction is enclosed.
+
+Yours sincerelyThe direction has been superseded
+
+## (P Krishnamurthy) Chief General Manager
+
+<!-- PAGE 2 -->
+
+**RESERVE BANK OF INDIA** **FINANCIAL MARKETS DEPARTMENT** **23RD FLOOR, CENTRAL OFFICE** **FORT** **MUMBAI 400 001**
+
+## Interest Rate Futures (Reserve Bank) Directions, 2009
+
+## Notification No. FMD. 1 /ED(VKS) - 2009 dated August 28, 2009
+
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby gives the following directions to all the persons dealing in **Interest Rate Futures**.
+
+## 1. Short title and commencement of the directions
+
+These directions may be called the Interest Rate Futures (Reserve Bank) Directions, 2009 and they shall come into force with immediate effect.
+
+## 2. Definitions
+
+(i) Interest Rate Futures means a standardised interest rate derivative contract traded on a recognized stock exchange to buy or sell a notional security or any other interest bearing instrument or an index of such instruments or interest rates at a specified future date, at a price determined at the time of the contract.
+superseded (ii) Interest Rate Futures market means the market in which Interest Rate Futures are traded.
+
+(iii) The words and expressions used but not defined in these directions shall have the meaningbeen assigned to them in the Reserve Bank of India Act, 1934.
+
+has
+
+**3. Permitted instruments**
+(i) Interest Rate Futures are permitted on 10-year notional coupon bearing Government of India security or any other product, as may be approved by the Reserve Bank from time to time.
+direction
+
+(ii) Persons resident in India may purchase or sell Interest Rate Futures referred to in sub- paragraph (i) to hedge an exposure to interest rate risk or otherwise. Foreign InstitutionalThe Investors, registered with Securities and Exchange Board of India, may purchase or sell Interest Rate Futures referred to in sub-paragraph (i) subject to the condition that the total gross long (bought) position in cash and Interest Rate Futures markets taken together does not exceed their individual permissible limit for investment in government securities and the total gross short (sold) position, for the purpose of hedging only, does not exceed their long position in the government securities and in Interest Rate Futures at any point in time.
+
+(iii) Notwithstanding anything contained in sub-paragraph (i), no scheduled bank or such other agency falling under the regulatory purview of the Reserve Bank under the Reserve Bank of India Act, 1934, the Banking Regulation Act, 1949 or any other Act or instrument having the force of law shall participate in the Interest Rate Futures market without the permission from the respective regulatory Department of the Reserve Bank.
+
+Explanation: - The expression ‘Person resident in India’ shall have the meaning assigned to it in sub-section (v) of section 2 of the Foreign Exchange Management Act, 1999.
+
+(iv) Agencies falling under the regulatory purview of any other regulator established by law shall not participate in Interest Rate Futures market except with the permission of their respective
+
+<!-- PAGE 3 -->
+
+regulators and participation of such agencies as members or clients shall be in accordance with the guidelines issued by the regulator concerned.
+
+## 4. Features of Interest Rate Futures
+
+Standardized Interest Rate Futures contract shall have the following features:
+
+**a.** The contract shall be on 10-year notional coupon bearing Government of India security.
+**b.** The notional coupon shall be 7% per annum with semi-annual compounding.
+**c.** The contract shall be settled by physical delivery of deliverable grade securities using the electronic book entry system of the existing Depositories, namely, National Securities Depositories Ltd. and Central Depository Services (India) Ltd. and Public Debt Office of the Reserve Bank.
+**d.** Deliverable grade securities shall comprise GoI securities maturing at least 7.5 years but not more than 15 years from the first day of the delivery month with a minimum total outstanding stock of Rs 10,000 crore.
+5**. Membership** Interest Rate Futures contracts on instruments referred to in sub-paragraph (i) of paragraph 3
+superseded shall be traded on the Currency Derivative Segment of a recognized Stock Exchange. The members registered with Securities and Exchange Board of India for trading in Currency /Equity Derivative Segment shall also be eligible to trade in Interest Rate Futures referred to in sub- been paragraph (i) of paragraph 3. Membership for both trading and clearing, in the Interest Rate Futures segment shall be subject to the guidelines issued by the Securities and Exchange has Board of India.
+
+## 6. Position limits
+
+i. The position limits for various classes of participants in the Interest Rate Futures market shall direction be subject to the guidelines issued by the Securities and Exchange Board of India.
+The ii. All regulated entities shall operate within the prudential limits set by the regulator concerned.
+
+## 7. Risk Management measures
+
+The trading of Interest Rate Futures contracts referred to in sub-paragraph (i) of paragraph 3 shall be subject to maintaining initial, extreme loss and calendar spread margins and the Clearing Corporations / Clearing Houses of the exchanges should ensure maintenance of such margins by the participants on the basis of the guidelines issued by the Securities and Exchange Board of India from time to time.
+
+## 8. Surveillance and disclosures
+
+The surveillance and disclosures of transactions in the Interest Rate Futures market shall be carried out in accordance with the guidelines issued by the Securities and Exchange Board of India.
+
+<!-- PAGE 4 -->
+
+## 9. Powers of Reserve Bank
+
+The Reserve Bank may from time to time modify the eligibility criteria for the participants, modify participant-wise position limits, prescribe margins and / or impose specific margins for identified participants, fix or modify any other prudential limits, or take such other actions as deemed necessary in public interest, in the interest of financial stability and orderly development and maintenance of interest rate market in India.
+
+## (V.K. Sharma) Executive Director
+
+superseded been
+
+has
+
+direction The

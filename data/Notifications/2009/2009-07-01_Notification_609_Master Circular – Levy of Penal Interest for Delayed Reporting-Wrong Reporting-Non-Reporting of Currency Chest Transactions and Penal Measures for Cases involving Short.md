@@ -1,0 +1,57 @@
+---
+doc_id: "Notifications_2009_609"
+title: "Master Circular – Levy of Penal Interest for Delayed Reporting/Wrong Reporting/Non-Reporting of Currency Chest Transactions and Penal Measures for Cases involving Shortages/Inclusion of Counterfeit Banknotes in Chest Balances/Chest remittances"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/89MCP010709_F.pdf"
+pdf_sha256: "da1155b5510150caf299b50278aa04e574bcdbef27f3750ee8e13009d464fd46"
+md_sha256: "9eb15e4acc4e426ad5d0e6bfd3dc1e8a4d41bbd1d1fbfb69f5580de28aa8d595"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:02:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-07-01_Notification_609_Master%20Circular%20%E2%80%93%20Levy%20of%20Penal%20Interest%20for%20Delayed%20Reporting-Wrong%20Reporting-Non-Reporting%20of%20Currency%20Chest%20Transactions%20and%20Penal%20Measures%20for%20Cases%20involving%20Short.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Master Circular – Levy of Penal Interest for Delayed Reporting/Wrong Reporting/Non-Reporting of Currency Chest Transactions and Penal Measures for Cases involving Shortages/Inclusion of Counterfeit Banknotes in Chest Balances/Chest remittances
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/89 DCM(CC) No.G-**1** /03.35.01/2009-10 July 01, 2009
+
+1. The Chairman& Managing Director/Chief Executive Officer (All Banks having Currency Chests)
+2. Director of Treasuries (State Governments as per list enclosed) Dear Sir/Madam **Master Circular – Levy of Penal Interest for Delayed Reporting/Wrong** **Reporting/Non-Reporting of Currency Chest Transactions and Penal Measures for Cases involving Shortages/Inclusion of Counterfeit Banknotes in Chest** <u>Balances/Chest remittances</u> In supersession of all existing instructions/guidelines relating to levy of penal interest for delayed reporting/wrong reporting/non-reporting of currency chest transactions and cases of shortages/inclusion of counterfeit banknotes in the chest balances/chest remittances, the following fresh instructions/guidelines are issued:
+## 1. <u>Reporting of Currency Chest Transactions</u>
+
+a) The minimum amount of deposit into/withdrawal from currency chest will be Rs.1,00,000 and thereafter, in multiples of Rs.50,000/-.
+b) <u>Time limit for Reporting</u>
+i) The currency chests should invariably report all transactions through ICCOMS on the same day by 9 PM by uploading data through the Secured Website (SWS) to their respective link offices. Link offices should invariably report the consolidated position to the Issue Offices latest by 11 PM on the same day. ii) The Sub-Treasury Offices should report all transactions directly to the Issue Office of the Reserve Bank by 11 PM on the same day.
+c) <u>Relaxation in respect of strike period in banks</u> Relaxation in the reporting period on account of general/specific strike situation will be considered on case-to-case basis.
+
+<!-- PAGE 2 -->
+
+d) <u>Levy of penal interest for delays</u>
+i) In the event of delay, penal interest at the rate indicated in paragraph 3 of this circular will be levied for the period of delay. Penal interest will be calculated on T+0 basis i.e. penal interest will be levied in respect of transactions not reported by Link Office to the Issue Office by 11 PM on the same business day. However, Reserve Bank may at its discretion grant appropriate grace period in the matter of levy of penal interest. ii) For delay in submission of the chest slip in the case of single chest / STOs directly linked to Issue Department of the circle penal interest as above will be charged. iii) Penal interest will be levied on the amount due from the chest holding bank.
+e) <u>Wrong reporting and levy of penal interest</u> Penal interest will also be levied in respect of all cases of wrong reporting in the same manner till the date of receipt of corrected advice by the Bank. It is expected that *Link Offices would ensure the correctness of figures reported by the respective* *currency chests.* Particular care should be taken to ensure that 'remittance' transactions are not reported as 'deposit' transactions in the Link Office Statements.
+f) <u>Counterfeit banknotes in remittances received from currency chests</u> In case counterfeit banknotes are found in remittances from currency chests, entire amount equal to the value of counterfeit banknotes will be debited to the bank's current account and penalty on the basis of prevailing Scheme of 'Incentives and Penalties' will be recovered from the bank. FIRs will also be lodged with the Police in all cases of detection of counterfeit banknotes in chest remittances.
+g) <u>Re-issuable banknotes in remittances received from currency chests</u> In case re-issuable banknotes are found to be in excess of 5% in any soiled note remittance, the entire remittance will be returned to the bank at its cost besides debiting the amount of the remittance to the account of the bank maintained with the Reserve Bank of India.
+h) <u>Minimum penal interest to be charged</u> There is no stipulation regarding the minimum amount of penal interest leviable for wrong/delayed reporting. As the intention is to ensure timely and correct reporting of chest transactions, penal interest will be recovered in all applicable cases, irrespective of the amount of the transaction concerned/amount of penal interest subject to rounding off the interest amount to the nearest Rupee.
+
+<!-- PAGE 3 -->
+
+2. **Shortages in currency chest balances due to pilferage/frauds or otherwise** <u>and inclusion of amounts of safe custody deposits in chest balances</u> Penal interest will be levied in all cases where the bank has enjoyed 'ineligible' credit in its current account with Reserve Bank on account of reporting of transactions (wrong/delayed/non-reporting,). Penal measures will also be taken in cases of shortages in chest balances/remittances, shortages due to pilferage/frauds, counterfeit banknotes detected in chest balances/remittances as per prevailing Scheme of 'Incentives and Penalties'. Further, only cash held in the custody of joint custodians and 'freely available' to them is eligible for inclusion in the chest balances. Thus, cash kept for safe custody in sealed covers for whatever reasons/cash in trunks/bins under the lock and key of any official/s other than the Joint Custodians or bearing a third lock put by any official in addition to the two locks of the Joint Custodians is not eligible for being included in the chest balances. Such amounts, if included in chest balances will attract penal interest. In all the above cases (excepting shortages in chest balances/remittances, shortages due to pilferage/fraud, counterfeit banknotes detected in chest balances/remittances), penal interest will be levied from the date of inclusion of 'ineligible' amounts in chest balances till the exclusion of such amounts from chest balances. Penal measures for shortages in chest balances/remittances, shortages due to pilferage/fraud, counterfeit banknotes detected in chest balances/remittances will be taken on the basis of prevailing Scheme of 'Incentives and Penalties'.
+3. <u>Rate of penal interest</u> The penal interest shall be levied at the rate of 2% over the prevailing Bank Rate for the period of irregularity.
+4. <u>Levy of penal interest in respect of currency chests at treasuries</u> The above instructions shall be applicable to currency chests at treasury/sub- treasury offices also.
+5. <u>Representations</u> As the sole criterion for levy of penal interest for delayed reporting is the number of days of delay, there should ordinarily be no occasion for banks to request for reconsideration of the Bank's decision in individual cases. However, representations, if any, on account of genuine difficulties faced by chests especially in hilly/remote areas and other chests affected by natural calamities, etc., should be made only to the Issue Office concerned. In the case of <u>wrong reporting</u> representations for waiver will not be considered. {cf. para 1(e) above}. As the intention behind the levy of penal interest is to inculcate discipline among banks so as to ensure prompt/correct reporting, pleas by banks such as non-utilization of the Bank's funds, no shortfall in the maintenance of CRR/SLR, clerical mistake, unintentional or arithmetical error,
+
+<!-- PAGE 4 -->
+
+first time error, inexperience of staff etc., will <u>not</u> be considered as valid grounds for waiver of penal interest. As debits/credits to banks' current accounts are raised on the basis of the figures reported in the Link Office Statements, penal interest will be invariably levied in all cases of reporting correctly in the chest slips but wrongly in the Link Office Statements.
+
+This Master Circular is available on our website www.rbi.org.in.
+
+## Yours faithfully
+
+(U.S. Paliwal) Chief General Manager
