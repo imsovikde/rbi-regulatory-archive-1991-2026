@@ -1,0 +1,36 @@
+---
+doc_id: "Press-Releases_2014_32235"
+title: "Results for the overnight variable rate reverse repo auction held on October 07, 2014"
+category: "Press-Releases"
+year: 2014
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR710ROV1014.pdf"
+pdf_sha256: "c4b4f7fa2d674a2bc5bfeb1ec859d81eeb5adc72998f55bb513dab442301fb66"
+md_sha256: "027f60b8765611a9272c017e0619227e81e94a4ca7834ff0ac012004c1d8d57e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:35:05Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2014/2014-10-07_Press-Release_32235_Results%20for%20the%20overnight%20variable%20rate%20reverse%20repo%20auction%20held%20on%20October%2007%2C%202014.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Results for the overnight variable rate reverse repo auction held on October 07, 2014
+
+<!-- PAGE 1 -->
+
+# ेस काशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+**RESERVE BANK OF INDIA** संचार �वभाग**,** क ��� कायालय, एस.बी.एस.माग, मुंबई-400001 वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u>
+
+# October 7, 2014
+
+# Results for the overnight variable rate reverse repo auction held on October 07, 2014
+
+25,000 **Notified Amount (in** ` **crore)** 27,453 **Total amount of offers received (in** ` **crore)** 25,001 **Amount allotted (in** ` **crore)** **Cut off Rate (%)*** 7.96 **Weighted Average Rate (%)** 7.90
+
+**Partial Allotment Percentage of offers received at cut off rate*** 42.57 *For offers received at the cut off rate, the allotment is done on a pro-rata basis. Offers received below the cut off rate, will be allotted in full.
+
+# Ajit Prasad Press Release : 2014-2015/710 Assistant General Manager
