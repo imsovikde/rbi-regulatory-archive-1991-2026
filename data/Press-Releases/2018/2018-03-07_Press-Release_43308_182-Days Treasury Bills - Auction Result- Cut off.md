@@ -1,0 +1,46 @@
+---
+doc_id: "Press-Releases_2018_43308"
+title: "182-Days Treasury Bills - Auction Result: Cut off"
+category: "Press-Releases"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2377A8AD5AFE00A74FC88EC7E95922551B13.PDF"
+pdf_sha256: "e78178d1deb7fe6833af68e7b8e513d5d6e0091f9a2ec71555f3a5c0e2b26210"
+md_sha256: "1456de9773f8328972ec3ef1fcc0807b170bb09569c3c45864dd568a2e058d49"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T21:01:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-03-07_Press-Release_43308_182-Days%20Treasury%20Bills%20-%20Auction%20Result-%20Cut%20off.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# 182-Days Treasury Bills - Auction Result: Cut off
+
+<!-- PAGE 1 -->
+
+||प्रेस प्रकाशनी PRESS RELEASE|
+|---|---|
+||भारतीय �रज़वर् बक RESERVE BANK OF INDIA 0 वेबसाइट : www.rbi.org.in/hindi|
+|संचार वभाग, कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई - 400001||
+|________________________________________________________________________________________________________|Website : www.rbi.org.in|
+|DEPARTMENT OF COMMUNICATION, Central Office, S.B.S.Marg, Mumbai-400001||
+|फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 2266 0358|इ-मेल email : helpdoc@rbi.org.in|
+
+## March 07, 2018
+
+## 182- Days Treasury Bills-Auction Result: Cut off
+
+## Date of Auction:
+
+|||March 07, 2018|
+|---|---|---|
+|I.|Total Face Value Notified|` 3,000 crore|
+|II.|Cut-off Price and|` 96.86|
+||Implicit Yield at Cut-Off Price|(YTM: 6.5014%)|
+|III.|Total Face Value Accepted|` 3,000 crore|
+|Press Release : 2017-2018/2377|||
+
+## Ajit Prasad
+
+Assistant Adviser
