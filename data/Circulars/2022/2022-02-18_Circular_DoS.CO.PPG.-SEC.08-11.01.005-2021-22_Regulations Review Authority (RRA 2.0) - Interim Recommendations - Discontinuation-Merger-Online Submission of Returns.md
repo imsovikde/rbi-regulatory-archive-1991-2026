@@ -1,0 +1,75 @@
+---
+doc_id: "Circulars_2022_DoS_CO_PPG_SEC_08_11_01_005_2021-22"
+title: "Regulations Review Authority (RRA 2.0) - Interim Recommendations - Discontinuation/Merger/Online Submission of Returns"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/163REPEAL7B2C8996654D4B39A698BA5D082C11FF.PDF"
+pdf_sha256: "05afe051b60996afd24bff580ca41901b3016da3fdc628ccc945b252e70fcd30"
+md_sha256: "b4154e1d89263149e94367019cf6079b54603b9ab954e45496e461800f1ede71"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:46:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-02-18_Circular_DoS.CO.PPG.-SEC.08-11.01.005-2021-22_Regulations%20Review%20Authority%20%28RRA%202.0%29%20-%20Interim%20Recommendations%20-%20Discontinuation-Merger-Online%20Submission%20of%20Returns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulations Review Authority (RRA 2.0) - Interim Recommendations - Discontinuation/Merger/Online Submission of Returns
+
+<!-- PAGE 1 -->
+
+RBI/2021-2022/163 DoS.CO.PPG./SEC.08/11.01.005/2021-22 February 18, 2022
+
+All Scheduled Commercial Banks / All Payments Banks All Small Finance Banks / All Co-operative Banks All NBFCs / All Credit Rating Agencies
+
+## Madam / Dear Sir
+
+## Regulations Review Authority (RRA 2.0) – Interim Recommendations – Discontinuation/Merger/Online Submission of Returns
+
+Please refer to the <u>press release dated February 18, 2022</u> issued on the captioned subject.
+
+2. As part of the implementation of the interim recommendations of the RRA 2.0, it is proposed to discontinue/merge the returns listed in the <u>Annex 1</u>. Further, it is also proposed to convert, the paper based/ e-mail-based returns listed in the <u>Annex 2</u>, into
+# Withdrawn
+
+online filing.
+
+3. The exact date of discontinuation/merger and online filing of the returns, would be notified in due course. Yours faithfully, (Arnab Kumar Chowdhury) Chief General Manager-in- Charge
+## Encl: As enclosed
+
+पयवेण िवभाग, के ी य कायालय, व�� ट े ड सटर, सटर-1, कफ प रे ड, कोलाबा, मुंबई ñ 400 005 <u>टेलीफोन: 022- 2216 3395 फै � : 022-2218 0157 ई-मेल - cgmicdosco@rbi.org.in</u> Department of Supervision, Central Office, World Trade Centre, Centre I, Cuffe Parade, Colaba, Mumbai - 400 005 Tel: 022-2216 3395 Fax: 022-2218 0157 e-mail: <u>cgmicdosco@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+## Annex - 1
+
+## List of Returns to be Discontinued
+
+|S. No.|Return Name|Return Description|
+|---|---|---|
+|1|Return on Offshore Banking Units (OBUs) – Quarterly|Return for capturing details on off-shore banking units.|
+|2|Statement on bad debts written off. – Yearly|Main objective of the proposed reporting is to provide information to the bank on bad debts written off.|
+|3|Fraud Monitoring Return 2 (FMR2) – Quarterly|To capture the summary of all frauds during the quarter involving an amount of Rs 1 lakh or more for all NBFC-D and NBFC-NDSIs.|
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+|||Annex - 2 List of Returns to be converted into Online submission|
+|---|---|---|
+|S. No.|Return Name|Return Description|
+|1|Report on financial conglomerates – Quarterly|Capturing the intra-group transactions and exposures amongst the identified FCs.|
+|2|Whole Bank Long Form Audit Report and Compliance thereof – Yearly|The Statutory Central Auditors are required to submit the LFAR to the banks latest by 30th June every year. The banks were advised to forward a copy each of the LFAR, relative agenda note along with Board's views or directions to the concerned Regional Office of Department of Banking Supervision within 60 days of submission of LFAR by the Statutory Auditors. Withdrawn|
+|3|Half-Yearly Review of Investment Portfolio – Half-yearly|Qualitative/ Quantitative review of entire investment portfolio of the bank for the half year.|
+|4|Fraud Monitoring Return 1 (FMR1) – as and when|To capture the details of the fraud committed by staff, outsiders or customers involving an amount of Rs 1 lakh or more for all NBFC-D and NBFC-NDSIs.|
+
+<!-- PAGE 4 -->
+
+|5|Fraud Monitoring Return 3 (FMR3) – Quarterly|To capture the updated information in respect of frauds reported through FMR-1 for all NBFC-D and NBFC-NDSIs.|
+|---|---|---|
+|6|Return on delay in Rating Review (by Credit Rating Agencies) – Monthly|Information on latest ratings provided by the Credit Rating Agencies (CRAs) during the month and ratings delayed in review|
+|7|Quarterly Return for Frauds less than ₹ 1 lakh – Quarterly|* Unified FMR for below 1 lakh|
+|8|KYC AML-Quarterly|This return captures information which facilitates supervision in better risk discovery, improved risk-assessment and Risk Based Assessment.|
+
+(*) proposed under CIMS Project
+# Withdrawn

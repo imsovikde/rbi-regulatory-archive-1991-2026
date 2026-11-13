@@ -1,0 +1,57 @@
+---
+doc_id: "Circulars_2022_DoR_RRA_88_01_01_101_2021-22"
+title: "Regulations Review Authority (RRA 2.0) - Interim Recommendations - Discontinuation / Merger / Online Submission of Returns"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/168DORCNO8866CCE262B2F34C379422C2D71E1D611C.PDF"
+pdf_sha256: "80825837b932249586100df39562a8d1de63ba697d3b06de65e031386e7ac08f"
+md_sha256: "ecad85f75b43d3c6dccb6bfb193b01946e12cac2eacfdd142ab2f29c325ad6c3"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:46:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-02-18_Circular_DoR.RRA.88-01.01.101-2021-22_Regulations%20Review%20Authority%20%28RRA%202.0%29%20-%20Interim%20Recommendations%20-%20Discontinuation%20-%20Merger%20-%20Online%20Submission%20of%20Returns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulations Review Authority (RRA 2.0) - Interim Recommendations - Discontinuation / Merger / Online Submission of Returns
+
+<!-- PAGE 1 -->
+
+RBI/2021-22/168 DoR.RRA.88/01.01.101/2021-22 February 18, 2022
+
+All Scheduled Commercial Banks All Regional Rural Banks All Payments Banks All Small Finance Banks All Local Area Banks All Primary Urban Cooperative Banks All State Cooperative Banks All District Central Cooperative Banks [As applicable]
+
+Madam / Dear Sir,
+
+## Regulations Review Authority (RRA 2.0) – Interim Recommendations – Discontinuation/Merger/Online Submission of Returns
+
+Please refer to the <u>Press Release dated February 18, 2022</u> issued on the captioned subject.
+
+# Withdrawn
+
+2. As part of the implementation of the interim recommendations of the RRA 2.0, it is proposed to convert the paper based/ e-mail-based returns listed in the Annex 1 to online filing. The exact date of online filing of the returns listed in the <u>Annex 1</u> would be notified in due course. Till such time, the returns may continue to be submitted as hitherto.
+3. Further, banks are advised to discontinue submission of returns as mentioned in <u>Annex 2</u>. Yours faithfully, (Neeraj Nigam) Chief General Manager-in-Charge
+## Encl: As above
+
+<!-- PAGE 2 -->
+
+|||List of Returns to be converted into Online submission|Annex – 1|
+|---|---|---|---|
+|S.No|Return Name|Return Description|Reporting Entities|
+|1|Capital, Perpetual Debts Placements-QIP, Promoters, GDR issue) together with copy of document|Report on issue of Report on issue of Subordinated Debt, raising of Upper Tier II Upper Tier II Capital, Perpetual and Equity Capital (Qualified Institutional Placements-QIP, Preferential issue to Promoters, GDR issue) Preferential issue to together with copy of document|All Commercial Subordinated Debt, raising of Banks (Excluding Local Area Banks Debts and Equity Capital and RRBs) (Qualified Institutional|
+|2|Payment of dividend|other details as per the circular|Details of dividend declared SCBs (excluding during the financial year and RRBs)|
+|3|Form II|Monthly return claiming refund 15th of the succeeding month to which the claim pertains)|SCBs (including from the DEA Fund (Original RRBs), Local Area hardcopy to be submitted by Banks, UCBs, StCBs, DCCBs, SFBs and PBs|
+|4|Form III|Withdrawn balances for the Half Year than July 31 and January 31|Certificate of reconciliation of SCBs (including RRBs), Local Area ended June/December to be Banks, UCBs, StCBs, submitted by banks not later DCCBs, SFBs and PBs|
+|5|Annual Certificate|submitted by banks in original within one month from the date audit|A yearly return certified by SCBs (including statutory auditor and to be RRBs), Local Area Banks, UCBs, StCBs, DCCBs, SFBs and of completion of their annual PBs|
+|6|and proper” status of all major shareholder|Certificate regarding Certificate regarding continuance of the “fit continuance of the “fit and Banks including Local shareholders. In case any major shareholder is assessed to be not “fit and proper”, the concerned bank shall report the same immediately in Form specified in the Schedule to extant Master Directions|All Private Sector proper” status of all major Area Banks D|
+
+<!-- PAGE 3 -->
+
+|||List of Returns – Discontinuation of submission to DoR|Annex – 2|
+|---|---|---|---|
+|S.No|Return Name|Return Description|Reporting Entities|
+|1|Leverage Ratio reporting (Master Circular – Basel III Capital Regulations-DBR.No.BP.BC.1/21.06.201 /2015-16) dated July 1, 2015)|Para 16.5.2 of Master Circular on ‘Basel III Capital Regulations’ require banks to report their leverage ratio to Area Banks the RBI (DoR and DoS) on a quarterly basis.@|All Scheduled Commercial Banks (Excluding Local and Regional Rural Banks)|
+|@ to DoS.||Beginning from quarter ended March 2022, banks are not required to report the Leverage Ratio to DoR. As hitherto, banks shall continue to report the Leverage Ratio||
+|2.|offices population/group wise)|Table 34 (Distribution of Table 34 (Distribution of State Cooperative offices population/group wise) is reported to Regional Offices of RBI DESACS) # # Beginning from year ended March 2022, banks are not required to submit this return to Regional Offices of RBI. As hitherto, banks shall continue to report the data to DSIM through Central Information System for Banking Infrastructure (CISBI) portal. Withdrawn|Banks (StCBs), District Central and DSIM (erstwhile Cooperative Banks (DCCBs)|

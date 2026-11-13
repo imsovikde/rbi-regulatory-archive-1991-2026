@@ -1,0 +1,42 @@
+---
+doc_id: "Circulars_2022_DOR_STR_REC_85_21_04_048_2021-22"
+title: "Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Clarifications"
+category: "Circulars"
+year: 2022
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI157C55AA18314924A879B6E77C79D108D9E.PDF"
+pdf_sha256: "21bb4fe2734b57cf451f85471ed18ac8b0ec34f75fa7b97afdd062b36923c140"
+md_sha256: "249f52e5e8adf87c0c32a016cd7623551a58559d7d727bb82ca9c3194e866f98"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:46:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-02-15_Circular_DOR.STR.REC.85-21.04.048-2021-22_Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%20and%20Provisioning%20Pertaining%20to%20Advances%20-%20Clarifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Clarifications
+
+<!-- PAGE 1 -->
+
+RBI/2021-2022/158 DOR.STR.REC.85/21.04.048/2021-22 February 15, 2022
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) excluding Payments Banks All Primary (Urban) Co-operative Banks/State Co-operative Banks/District Central Co- operative Banks All-India Financial Institutions (Exim Bank, NABARD, NHB and SIDBI) All Non-Banking Financial Companies (including Housing Finance Companies)
+
+Madam/Dear Sir,
+
+## Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances – Clarifications
+
+Please refer to the clarifications issued in respect of **Prudential norms on Income** **Recognition, Asset Classification and Provisioning** vide <u>circular</u> <u>DOR.STR.REC.68/21.04.048/2021-22 dated November 12, 2021</u> (‘**Circular**’).
+
+# Withdrawn
+
+2. In view of several queries received seeking certain clarifications, it is advised as under:
+(i) The definition of ‘out of order’, as clarified in the Circular, shall be applicable to all loan products being offered as an overdraft facility, including those not meant for business purposes and/or which entail interest repayments as the only credits. (ii) The ‘previous 90 days period’ for determination of ‘out of order’ status of a CC/OD account shall be inclusive of the day for which the day-end process is being run. (iii) In case of borrowers having more than one credit facility from a lending institution, loan accounts shall be upgraded from NPA to standard asset category only upon repayment of entire arrears of interest and principal pertaining to all the credit facilities. (iv) The circular does not make any changes to the requirements related to reporting of information to CRILC, which will continue to be governed in terms of extant instructions for respective entities¹.
+1 <u>Circular No. DBS.Dir.OSMOS.No.3327/33.01.001/2013-14 dated September 11, 2013</u> (SCBs) <u>Circular No. DNBS (PD) CC.No.371/03.05.02/2013-14 dated March 21, 2014</u> (NBFCs) <u>Circular No. DBS.OSMOS.No.14703/33.01.001/2013-14 dated May 22, 2014</u> (AIFIs) <u>Circular No. DOR (PCB).BPD.Cir.No.7/13.05.000/2019-20 dated December 27, 2019</u> (UCBs)
+
+<!-- PAGE 2 -->
+
+(v) The circular does not, in any way, interfere with the extant guidelines on implementation of Ind-AS by NBFCs.
+3. Paragraph 10 of the Circular stipulates that loan accounts classified as NPAs may be upgraded as ‘standard’ asset only if entire arrears of interest and principal are paid by the borrower. NBFCs shall have time till September 30, 2022 to put in place the necessary systems to implement this provision. All other instructions of the Circular shall continue to be applicable as per the timelines specified therein. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+# Withdrawn

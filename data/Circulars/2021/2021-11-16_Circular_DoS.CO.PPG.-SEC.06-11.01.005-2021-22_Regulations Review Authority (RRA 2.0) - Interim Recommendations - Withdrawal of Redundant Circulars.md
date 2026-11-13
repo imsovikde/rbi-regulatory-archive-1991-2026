@@ -1,0 +1,75 @@
+---
+doc_id: "Circulars_2021_DoS_CO_PPG_SEC_06_11_01_005_2021-22"
+title: "Regulations Review Authority (RRA 2.0) - Interim Recommendations - Withdrawal of Redundant Circulars"
+category: "Circulars"
+year: 2021
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1328F5547FCD35045D09042E13EB517D62A.PDF"
+pdf_sha256: "a2f902d072e946e846f76e471c5b09583673a0bbeed8d0c24959b4a89378aeff"
+md_sha256: "399339f86b4a4c7e719181a8ec1f09f2bab60fcfb29b53698e840b91ab8199bc"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:46:02Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2021/2021-11-16_Circular_DoS.CO.PPG.-SEC.06-11.01.005-2021-22_Regulations%20Review%20Authority%20%28RRA%202.0%29%20-%20Interim%20Recommendations%20-%20Withdrawal%20of%20Redundant%20Circulars.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulations Review Authority (RRA 2.0) - Interim Recommendations - Withdrawal of Redundant Circulars
+
+<!-- PAGE 1 -->
+
+## भारतीय �रज़वर् बक RESERVE BANK OF INDIA
+
+RBI/2021-22/132 DoS.CO.PPG./SEC.06/11.01.005/2021-22 November 16, 2021
+
+All Scheduled Commercial Banks (including all Small Finance Banks & all Payments Banks), Local Area Banks & All Primary Urban Cooperative Banks
+
+Madam/Dear Sir,
+
+### <u>Regulations Review Authority (RRA 2.0) – Interim Recommendations –</u>
+
+### <u>Withdrawal of Redundant Circulars</u>
+
+Please refer to the <u>Press Release dated November 16, 2021</u> issued on the captioned subject.
+
+2. The circulars listed in the <u>Annexure</u> are withdrawn with effect from close of business today. Yours faithfully,
+# Withdrawn
+
+(Ajay Kumar Choudhary) Chief General Manager-in- Charge
+
+### Encl: As enclosed
+
+पयवेण िवभाग, के ी य कायालय, व�� ट े ड सटर, सटर-1, कफ प रे ड, कोलाबा, मुंबई – 400 005 <u>टेलीफोन: 022- 2216 3395 फै � : 022-2218 0157 ई-मेल - cgmicdosco@rbi.org.in</u> Department of Supervision, Central Office, World Trade Centre, Centre I, Cuffe Parade, Colaba, Mumbai - 400 005 Tel: 022-2216 3395 Fax: 022-2218 0157 e-mail: <u>cgmicdosco@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+## <u>Annexure</u>
+
+|S. No.|Circular Referred|Date|Subject|Effective date of Supersession/with drawal|Circular No. vide which Superseded|
+|---|---|---|---|---|---|
+|1|DBOD.No.APP.BC.118/ C.452(K)-89|April 22, 1989|Appointment of Statutory December 31, 2008 (Central / Branch) Auditors as Internal Auditors of Banks||DBS.ARS.No.BC.02/08. 91.001/2008-09|
+|2|DBOD.No.BC.182/ 16.13.100/93-94|October 11, 1993|Introduction of a System of Concurrent Audit in Banks as Recommended by the Ghosh Committee on Frauds and Malpractices in Banks|August 14, 1996|DOS.No.BC.16/08.91.02 1/96|
+|3|DOS.No.BC.16/ 08.91.021/96|August 14, 1996|Concurrent Audit System in Commercial Banks-Revision of RBI's Guidelines|July 15, 2015|DBS.CO.ARS.No.BC.2/ 08.91.021/2015-16|
+|4|DBS.BC.33/08.91.021/1 999-2000|April 6, 2000|Guidelines relating to Concurrent Audit System in Withdrawn Commercial Banks|July 15, 2015|DBS.CO.ARS.No.BC.2/ 08.91.021/2015-16|
+|5|DBS.ARS.No.599/ 08.91.001/2002-03|January 21, 2003|Terms and Conditions of Appointment of Statutory/Concurrent/Interna l Auditors-Implementation of the Recommendations of the Committee on Legal Aspects of Bank Frauds and the Recommendations of the High-Level Group set up|August 27, 2004|DBS.ARS.No.B.C.4/08.9 1.001/2004-05|
+
+<!-- PAGE 3 -->
+
+||||by the Central Vigilance Commission (CVC)|||
+|---|---|---|---|---|---|
+|6|DBS.ARS.No.BC.18/ 08.91.021/2002-03|June 24, 2003|Concurrent Audit of Forex Transactions in Banks|July 15, 2015|DBS.CO.ARS.No.BC.2/ 08.91.021/2015-16|
+|7|DBS.ARS.No.BC.7/ 08.92.001/2003-04|March 17, 2004|Remuneration Payable to the Statutory Central and Branch Auditors of Public Sector Banks from the year 2003-04|June 6, 2007|DBS.ARS.No.BC.08/08. 92.001/2006-07|
+|8|DBS.ARS.No.BC.09/ 08.91.001/2003-04|April 20, 2004|Appointment of Statutory Auditors in Banks-Obtention of Declaration of Indebtedness|January 6, 2005|DBS.ARS.No.B.C.15/08. 91.001/2004-05|
+|9|DBS.ARS.No.BC.08/ 08.92.001/2006-07|June 6, 2007|Remuneration Payable to the Statutory Central and Branch Auditors of Public Sector Banks from the year Withdrawn 2006- 07|June 25, 2013|DBS.ARS.No.BC.08/08. 92.001/2012-13|
+|10|DBS.ARS.BC.No.3/08.9 2.001/2007-08|July 25, 2007|Remuneration Payable to the Statutory Central and Branch Auditors of Public Sector Banks from the Year 2006-07|June 25, 2013|DBS.ARS.No.BC.08/08. 92.001/2012-13|
+|11|DBS.ARS.BC. No.07/ 08.92.001/2007-08|December 20, 2007|Remuneration Payable to the Statutory Central and Branch Auditors of Public Sector Banks from the Year 2006-07|June 25, 2013|DBS.ARS.No.BC.08/08. 92.001/2012-13|
+
+<!-- PAGE 4 -->
+
+|12|DBS.ARS.BC.No.09/ 08.92.001/2009-10|December 31, 2009|Remuneration Payable to the Statutory Central and Branch Auditors of Public Sector Banks from the year 2006-07|June 25, 2013|DBS.ARS.No.BC.08/08. 92.001/2012-13|
+|---|---|---|---|---|---|
+|13|DBS.CO.ARS.BC.8/ 08.91.001/2014-15|June 4, 2015|Submission of Long Form Audit Report (LFAR) by Concurrent Auditors|January 7, 2021|Norms on eligibility, empanelment and appointment of Statutory Branch Auditors in Public Sector Banks from the year 2020-21 and onwards|
+|14|DBS.CO.ARS.No.BC.2/ 08.91.021/2015-16|July 15, 2015|Concurrent Audit System in Commercial Banks-Revision of RBI's Guidelines|September 18, 2019|DBS.CO.ARS.No.BC.01 /08.91.021/2019-20|
+|15|UBD.BPD(PCB).Cir.No. 22/12.05.001/2011-12|March 1, 2012|Supervisory Action Framework for Urban Withdrawn Cooperative Banks (UCBs)|November 27, 2014|DCBR.BPD.(PCB).Cir No.3/12.05.001/2014-15|
+|16|UBD.CO.BPD(PCB).Cir. No.20/12.05.001/2012- 13|October 17, 2012|Supervisory Action Framework (SAF) for Urban Co-operative Banks (UCBs)|November 27, 2014|DCBR.BPD.(PCB).Cir No.3/12.05.001/ 2014- 15|
