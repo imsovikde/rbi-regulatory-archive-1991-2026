@@ -1,0 +1,310 @@
+---
+doc_id: "Notifications_2012_7460"
+title: "Priority Sector Lending – Targets and Classification"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/19072012RG.pdf"
+pdf_sha256: "094eaca94964aa902cefdb68b6d5d277282c69d2c3cd646482e063aa4f691f8c"
+md_sha256: "0a920fcf1baedb48c83ca95b1fca07f7b2baadc23466bfd23419a494ae5a2b8b"
+total_pages: 16
+native_pages: 16
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:34:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-07-20_Notification_7460_Priority%20Sector%20Lending%20%E2%80%93%20Targets%20and%20Classification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending – Targets and Classification
+
+<!-- PAGE 1 -->
+
+# भारतीय ररज़वव
+
+______________________RESERVE BANK OF INDIA _______________________ www.rbi.org.in RBI/2012-13/138 RPCD. CO. Plan. BC 13/04.09.01/ 2012-13 July 20, 2012
+
+## The Chairman/ Managing Director/
+
+## Chief Executive Officer
+
+## [All scheduled commercial banks
+
+## (excluding Regional Rural Banks)]
+
+Dear Sir,
+
+## <u>Priority Sector Lending – Targets and Classification</u>
+
+As proposed in <u>Paragraph 94</u> of the Monetary Policy Statement 2011-12, the Reserve Bank of India in August 2011 set up a Committee to re-examine the existing classification and suggest revised guidelines with regard to Priority Sector lending classification and related issues (Chairman: Shri M V Nair). The Committee submitted its report in February 2012, which was placed in public domain for comments.
+
+2. The recommendations of the Committee have been examined based on the interface with various stakeholders and in the light of the comments / suggestions received from Government of India, banks, financial institutions, Non-Banking Financial Companies, Associations of industries, public and Indian Banks’ Association; and it has been decided to revise the existing guidelines in supersession of guidelines mentioned in the master circular on priority sector lending dated July 2, 2012.
+3. The revised guidelines will be operational **with immediate effect**. The priority sector loans sanctioned under the guidelines issued prior to the date of this circular will continue to be classified under priority sector till maturity / renewal. Yours faithfully,
+## (A. K. Misra) General Manager
+
+th Rural Planning & Credit Dept., Central Office, 10 Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014, Mumbai 400 001 Tel : 2266 1602 Fax : 2262 1011/2261 0943/2261 0948 E-mail : <u>cgmincrpcd@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+## Introduction
+
+At a meeting of the National Credit Council held in July 1968, it was emphasised that commercial banks should increase their involvement in the financing of priority sectors, viz., agriculture and small scale industries. The description of the priority sectors was later formalised in 1972 on the basis of the report submitted by the Informal Study Group on Statistics relating to advances to the Priority Sectors constituted by the Reserve Bank in May
+
+1971. On the basis of this report, the Reserve Bank prescribed a modified return for reporting priority sector advances and certain guidelines were issued in this connection indicating the scope of the items to be included under the various categories of priority sector. Although initially there was no specific target fixed in respect of priority sector lending, in November 1974 the banks were advised to raise the share of these sectors in their aggregate advances to the level of 33 1/3 percent by March 1979. At a meeting of the Union Finance Minister with the Chief Executive Officers of public sector banks held in March 1980, it was agreed that banks should aim at raising the proportion of their advances to priority sector to 40 percent by March 1985. Subsequently, on the basis of the recommendations of the Working Group on the Modalities of Implementation of Priority Sector Lending and the Twenty Point Economic Programme by Banks (Chairman: Dr. K. S. Krishnaswamy), all commercial banks were advised to achieve the target of priority sector lending at 40 percent of aggregate bank advances by 1985. Sub-targets were also specified for lending to agriculture and the weaker sections within the priority sector. Since then, there have been several changes in the scope of priority sector lending and the targets and sub-targets applicable to various bank groups. The guidelines were last revised in the year 2007 based on the recommendations made in September 2005 by the Internal Working Group of the RBI (Chairman: Shri C. S. Murthy). The Sub-Committee of the Central Board of the Reserve Bank (Chairman: Shri Y. H. Malegam) constituted to study issues and concerns in the Micro Finance institutions (MFI) sector, inter alia, had recommended review of the guidelines on priority sector lending. Accordingly, Reserve Bank of India in August 2011 set up a Committee to re-examine the existing classification and suggest revised guidelines with regard to Priority Sector lending classification and related issues (Chairman: M V Nair). The recommendations of the
+
+<!-- PAGE 3 -->
+
+committee were placed in the public domain inviting public comments. The suggestions were also examined vis-a-vis the comments received from various stake holders. Based on the above and with a view to simplify the norms the following guidelines are laid down.
+
+## I. Categories under priority sector
+
+(i) Agriculture (ii) Micro and Small Enterprises (iii) Education (iv) Housing
+(v) Export Credit (vi) Others The eligible activities under the above categories are specified in paragraph III
+## II. Targets /Sub-targets for Priority sector
+
+(i) The targets and sub-targets set under priority sector lending for domestic and foreign banks operating in India are furnished below:
+
+|Categories|Domestic commercial banks / Foreign banks with 20 and above branches|Foreign banks with less than 20 branches|
+|---|---|---|
+|Total Priority Sector|40 percent of Adjusted Net Bank Credit [ANBC defined in sub paragraph (iii) below] or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|32 percent of ANBC or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher.|
+|Total agriculture|18 percent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher. Of this, indirect lending in excess of 4.5% of ANBC or credit equivalent amount of Off- Balance Sheet Exposure, whichever is higher, will not be reckoned for computing achievement under 18 percent target. However, all agricultural loans under the categories 'direct' and 'indirect' will be reckoned in computing achievement under the overall priority sector target of 40 percent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|No specific target. Forms part of total priority sector target.|
+
+<!-- PAGE 4 -->
+
+|Micro & Small Enterprises (MSE)|(i) Advances to micro and small enterprises sector will be reckoned in computing achievement under the overall priority sector target of 40 percent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher. (ii) 40 percent of total advances to micro and small enterprises sector should go to Micro (manufacturing) enterprises having investment in plant and machinery up to 5 lakh and micro (service) enterprises having investment in equipment up to 2 lakh; (ii) 20 percent of total advances to micro and small enterprises sector should go to Micro (manufacturing) enterprises with investment in plant and machinery above 5 lakh and up to 25 lakh, and micro (service) enterprises with investment in equipment above 2 lakh and up to 10 lakh|No specific target. Forms part of total priority sector target.|
+|---|---|---|
+|Export Credit|Export credit is not a separate category. Export credit to eligible activities under agriculture and MSE will be reckoned for priority sector lending under respective categories.|No specific target. Forms part of total priority sector target.|
+|Advances to Weaker Sections|10 percent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.|No specific target in the total priority sector target.|
+
+(ii) For foreign banks with 20 and above branches, priority sector targets and sub-targets have to be achieved within a maximum period of five years starting from April 1, 2013 and ending on March 31, 2018. Foreign banks with 20 and above branches will submit an action plan latest by December 31, 2012 for achieving the targets over a specific time frame to be approved by RBI. Any subsequent reference to these banks in the circular, will be in accordance to the approved plans.
+
+(iii) The current year’s targets for priority sectors and sub-targets will be computed based on Adjusted Net Bank Credit (ANBC) or credit equivalent of Off-Balance Sheet Exposures of st st preceding March 31. The outstanding priority sector loans as on March 31 of the current year will be reckoned for achievement of priority sector targets and sub-targets. For the purpose of priority sector lending, ANBC denotes the outstanding Bank Credit in India [(As st prescribed in item No.VI of Form ‘A’ (Special Return as on March 31 ) under Section 42 (2) of the RBI Act, 1934] minus bills rediscounted with RBI and other approved Financial Institutions plus permitted non SLR investments in Held to Maturity (HTM) category plus investments in other categories, which are eligible to be treated as part of priority sector
+
+<!-- PAGE 5 -->
+
+lending (eg. investments in securitised assets). Deposits placed by banks with NABARD/SIDBI/NHB, as the case may be, in lieu of non-achievement of priority sector lending targets/sub-targets, though shown under Schedule 8 – 'Investments' in the Balance Sheet at item I (vi) – 'Others', will not be reckoned for ANBC computation. For the purpose of calculation of credit equivalent of off-balance sheet exposures, banks may be guided by the master circular on exposure norms issued by our Department of Banking Operations and Development.
+
+## <u>Computation of Adjusted Net Bank Credit</u>
+
+|Bank Credit in India (As prescribed in item No.VI of Form ‘A’ (Special st Return as on March 31) under Section 42 (2) of the RBI Act, 1934.|I|
+|---|---|
+|Bills Rediscounted with RBI and other approved Financial Institutions|II|
+|Net Bank Credit (NBC)*|III(I-II)|
+|Investments in Non-SLR categories under HTM category + other investments eligible to be treated as priority sector.|IV|
+|ANBC|III+IV|
+
+* For the purpose of priority sector only. Banks should not deduct / net any amount like
+provisions, accrued interest, etc. from NBC.
+
+*It has been observed that some banks are subtracting prudential write off at Corporate/Head* *Office level while reporting Bank Credit as above. In such cases it must be ensured that bank* *credit to priority sector and all other sub-sectors so written off should also be subtracted* *category wise from priority sector and sub-target achievement.*
+
+(iv) The targets for Micro Enterprises within the Micro and Small Enterprises segment (MSE) st will be computed with reference to the outstanding credit to MSE as on preceding March 31.
+
+**III Description of the Categories under priority sector**
+
+**1. Agriculture**
+**1.1. Direct Agriculture** **Loans to individual farmers [including Self Help Groups (SHGs) or Joint Liability** **Groups (JLGs), i.e. groups of individual farmers, provided banks maintain** **disaggregated data on such loans] engaged in Agriculture and Allied Activities, *viz.,*** **dairy, fishery, animal husbandry, poultry, bee-keeping and sericulture (up to cocoon stage).**
+(i) Short-term loans to farmers for raising crops, i.e. for crop loans. *This will include traditional/non-traditional plantations, horticulture and allied activities.*
+
+<!-- PAGE 6 -->
+
+(ii) Medium & long-term loans to farmers for agriculture and allied activities (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm, and development loans for allied activities). (iii) Loans to farmers for pre-harvest and post-harvest activities, *viz.,* spraying, weeding, harvesting, sorting, grading and transporting of their own farm produce. (iv) Loans to farmers up to 25 lakh against pledge/hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months, irrespective of whether the farmers were given crop loans for raising the produce or not.
+
+(v) Loans to small and marginal farmers for purchase of land for agricultural purposes. (vi) Loans to distressed farmers indebted to non-institutional lenders. (vii) Bank loans to Primary Agricultural Credit Societies (PACS), Farmers’ Service Societies (FSS) and Large-sized Adivasi Multi Purpose Societies (LAMPS) ceded to or managed/ controlled by such banks for on lending to farmers for agricultural and allied activities. (viii) Loans to farmers under Kisan Credit Card Scheme. (ix) Export credit to farmers for exporting their own farm produce.
+**1.2. Indirect agriculture**
+**1.2.1. Loans to corporates, partnership firms and institutions engaged in Agriculture** **and Allied Activities [dairy, fishery, animal husbandry, poultry, bee-keeping and sericulture (up to cocoon stage)]**
+(i) Short-term loans for raising crops, i.e. for crop loans. *This will include traditional/non-traditional plantations, horticulture and allied activities.* (ii) Medium & long-term loans for agriculture and allied activities (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm, and development loans for allied activities). (iii) Loans for pre-harvest and post-harvest activities such as spraying, weeding, harvesting, grading and sorting.
+
+<!-- PAGE 7 -->
+
+(iv) Loans up to 25 lakh against pledge/hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months, irrespective of whether the farmers were given crop loans for raising the produce or not.
+
+(v) Export credit to corporates, partnership firms and institutions for exporting their own farm produce. (vi) Loans upto 5 crore to Producer Companies set up exclusively by only small and marginal farmers under Part IXA of Companies Act, 1956 for agricultural and allied activities. (vii) Bank loans to Primary Agricultural Credit Societies (PACS), Farmers’ Service Societies (FSS) and Large-sized Adivasi Multi Purpose Societies (LAMPS) other than those covered under paragraph III (1.1) (vii) of this circular.
+## 1.2.2. Other indirect agriculture loans
+
+(i) Loans up to 1 crore per borrower to dealers /sellers of fertilizers, pesticides, seeds, cattle feed, poultry feed, agricultural implements and other inputs. (ii) Loans for setting up of Agriclinics and Agribusiness Centres. (iii) Loans up to 5 crore to cooperative societies of farmers for disposing of the produce of members. (iv) Loans to Custom Service Units managed by individuals, institutions or organisations who maintain a fleet of tractors, bulldozers, well-boring equipment, threshers, combines, etc., and undertake farm work for farmers on contract basis.
+(v) Loans for construction and running of storage facilities (warehouse, market yards, godowns and silos), including cold storage units designed to store agriculture produce/products, irrespective of their location. *If the storage unit is a micro or small enterprise, such loans will be classified under loans to* *Micro and Small Enterprises sector.* (vi) Loans to MFIs for on-lending to farmers for agricultural and allied activities as per the conditions specified in paragraph VIII of this circular.
+
+<!-- PAGE 8 -->
+
+(vii) Loans sanctioned to NGOs, which are SHG Promoting Institutions, for on-lending to members of SHGs under SHG-Bank Linkage Programme for agricultural and allied activities. The all inclusive interest charged by the NGO/SHG promoting entity should not exceed the Base Rate of the lending bank plus eight percent per annum.
+
+(viii) Loans sanctioned to RRBs for on-lending to agriculture and allied activities.
+
+## 2. Micro and small enterprises
+
+The limits for investment in plant and machinery/equipment for manufacturing / service enterprise, as notified by Ministry of Micro Small and Medium Enterprises, vide,
+
+S.O.1642(E) dated September 29, 2006 are as under:-
+
+|Manufacturing sector||
+|---|---|
+|Enterprises|Investment in plant and machinery|
+|Micro Enterprises|Do not exceed twenty five lakh rupees|
+|Small Enterprises|More than twenty five lakh rupees but does not exceed five crore rupees|
+|Service Sector||
+|Enterprises|Investment in equipment|
+|Micro Enterprises|Does not exceed ten lakh rupees|
+|Small Enterprises|More than ten lakh rupees but does not exceed two crore rupees|
+
+Bank loans to micro and small enterprises both manufacturing and service are eligible to be classified under priority sector as per the following:
+
+## 2.1. Direct Finance 2.1.1. Manufacturing Enterprises
+
+The Micro and Small enterprises engaged in the manufacture or production of goods to any industry specified in the first schedule to the Industries (Development and regulation) Act,
+
+1951. The manufacturing enterprises are defined in terms of investment in plant and machinery.
+## 2.1.1.1. Loans for food and agro processing
+
+Loans for food and agro processing will be classified under Micro and Small Enterprises, provided the units satisfy investments criteria prescribed for Micro and Small Enterprises, as provided in MSMED Act, 2006.
+
+<!-- PAGE 9 -->
+
+## 2.1.2. Service Enterprises
+
+Bank loans up to 1 crore per unit to Micro and Small Enterprises engaged in providing or rendering of services and defined in terms of investment in equipment under MSMED Act,
+
+2006.
+**2.1.3.** Export credit to MSE units (both manufacturing and services) for exporting of goods/services produced by them.
+## 2.1.4. Khadi and Village Industries Sector (KVI)
+
+All loans sanctioned to units in the KVI sector, irrespective of their size of operations, location and amount of original investment in plant and machinery. Such loans will be eligible for classification under the sub-target of 60 percent prescribed for micro enterprises within the micro and small enterprises segment under priority sector.
+
+## 2.2. Indirect Finance
+
+(i) Loans to persons involved in assisting the decentralised sector in the supply of inputs to and marketing of outputs of artisans, village and cottage industries. (ii) Loans to cooperatives of producers in the decentralised sector viz. artisans village and cottage industries. (iii) Loans sanctioned by banks to MFIs for on-lending to MSE sector as per the conditions specified in paragraph VIII of this circular.
+## 3. Education
+
+Loans to individuals for educational purposes including vocational courses upto 10 lakh for studies in India and 20 lakh for studies abroad.
+
+## 4. Housing
+
+(i) Loans to individuals up to 25 lakh in metropolitan centres with population above ten lakh and 15 lakh in other centres for purchase/construction of a dwelling unit per family excluding loans sanctioned to bank’s own employees. (ii) Loans for repairs to the damaged dwelling units of families up to 2 lakh in rural and semi- urban areas and up to 5 lakh in urban and metropolitan areas.
+
+<!-- PAGE 10 -->
+
+(iii) Bank loans to any governmental agency for construction of dwelling units or for slum clearance and rehabilitation of slum dwellers subject to a ceiling of 5 lakh per dwelling unit.
+
+(iv) The loans sanctioned by banks for housing projects exclusively for the purpose of construction of houses only to economically weaker sections and low income groups, the total cost of which do not exceed 5 lakh per dwelling unit. For the purpose of identifying the economically weaker sections and low income groups, the family income limit of 1,20,000 per annum, irrespective of the location, is prescribed.
+
+## 5. Export Credit
+
+Export Credit extended by foreign banks with less than 20 branches will be reckoned for priority sector target achievement. *As regards the domestic banks and foreign banks with 20 and above branches, export credit* *is not a separate category under priority sector. Export credit mentioned under paragraphs* *(III) (1.1) (ix), (III) (1.2.1) (v) and (III) (2.1.3) of this circular will count towards the* *respective categories of priority sector, i.e. Agriculture and MSE sector.*
+
+## 6. Others
+
+6.1. Loans, not exceeding 50,000 per borrower provided directly by banks to individuals and their SHG/JLG, provided the borrower’s household annual income in rural areas does not exceed 60,000/- and for non-rural areas it should not exceed 1,20,000/-.
+6.2. Loans to distressed persons [other than farmers-already included under III (1.1) (vi)] not exceeding 50,000 per borrower to prepay their debt to non-institutional lenders.
+6.3. Loans outstanding under loans for general purposes under General Credit Cards (GCC). *If the loans under GCC are sanctioned to Micro and Small Enterprises, such loans should be* *classified under respective categories of Micro and Small Enterprises.*
+6.4. Overdrafts, up to 50,000 (per account), granted against 'no-frills' / basic banking / savings accounts provided the borrowers household annual income in rural areas does not exceed .60,000/- and for non-rural areas it should not exceed 1,20,000/-.
+6.5. Loans sanctioned to State Sponsored Organisations for Scheduled Castes/ Scheduled Tribes for the specific purpose of purchase and supply of inputs to and/or the marketing of the outputs of the beneficiaries of these organisations.
+
+<!-- PAGE 11 -->
+
+6.6. Loans sanctioned by banks directly to individuals for setting up off-grid solar and other off-grid renewable energy solutions for households.
+## IV Weaker Sections
+
+Priority sector loans to the following borrowers will be considered under Weaker Sections category:-
+
+(a) Small and marginal farmers;
+(b) Artisans, village and cottage industries where individual credit limits do not exceed 50,000;
+(c) Beneficiaries of Swarnjayanti Gram Swarozgar Yojana (SGSY), now National Rural Livelihood Mission (NRLM);
+(d) Scheduled Castes and Scheduled Tribes;
+(e) Beneficiaries of Differential Rate of Interest (DRI) scheme;
+(f) Beneficiaries under Swarna Jayanti Shahari Rozgar Yojana (SJSRY);
+(g) Beneficiaries under the Scheme for Rehabilitation of Manual Scavengers (SRMS);
+(h) Loans to Self Help Groups;
+(i) Loans to distressed farmers indebted to non-institutional lenders;
+(j) Loans to distressed persons other than farmers not exceeding 50,000 per borrower to prepay their debt to non-institutional lenders;
+(k) Loans to individual women beneficiaries upto 50,000 per borrower;
+(l) Loans sanctioned under (a) to (k) above to persons from minority communities as may be notified by Government of India from time to time. In States, where one of the minority communities notified is, in fact, in majority, item (l) will cover only the other notified minorities. These States/Union Territories are Jammu & Kashmir, Punjab, Meghalaya, Mizoram, Nagaland and Lakshadweep.
+
+<!-- PAGE 12 -->
+
+## V. Investments by banks in securitised assets
+
+(i) Investments by banks in securitised assets, representing loans to various categories of priority sector, except'others' category, are eligible for classification under respective categories of priority sector (direct or indirect) depending on the underlying assets provided:
+(a) the securitised assets are originated by banks and financial institutions and are eligible to be classified as priority sector advances prior to securitisation and fulfil the Reserve Bank of India guidelines on securitisation.
+(b) the all inclusive interest charged to the ultimate borrower by the originating entity should not exceed the Base Rate of the investing bank plus 8 percent per annum. *The investments in securitised assets originated by MFIs, which comply with the guidelines in* *Paragraph VIII of this circular are exempted from this interest cap as there are separate* *caps on margin and interest rate.* (ii) Investments made by banks in securitised assets originated by NBFCs, where the underlying assets are loans against gold jewellery, are not eligible for priority sector status. **VI. Transfer of Assets through Direct Assignment /Outright purchases**
+(i) Assignments/Outright purchases of pool of assets by banks representing loans under various categories of priority sector, except the 'others' category, will be eligible for classification under respective categories of priority sector (direct or indirect) provided:
+(a) the assets are originated by banks and financial institutions and are eligible to be classified as priority sector advances prior to the purchase and fulfil the Reserve Bank of India guidelines on outright purchase/assignment.
+(b) the eligible loan assets so purchased should not be disposed of other than by way of repayment.
+(c) The all inclusive interest charged to the ultimate borrower by the originating entity should not exceed the Base Rate of the purchasing bank plus 8 percent per annum. *The assignments/Outright purchases of eligible priority sector loans from MFIs, which* *comply with the guidelines in Paragraph VIII of this circular are exempted from this interest* *rate cap as there are separate caps on margin and interest rate.* (ii) When the banks undertake outright purchase of loan assets from banks/ financial institutions to be classified under priority sector, they must report the nominal amount
+
+<!-- PAGE 13 -->
+
+actually disbursed to end priority sector borrowers and not the premium embedded amount paid to the sellers.
+
+(iii) Purchase/ assignment transactions undertaken by banks with NBFCs, where the underlying assets are loans against gold jewellery, are not eligible for priority sector status.
+
+## VII. Inter Bank Participation Certificates bought by Banks
+
+Inter Bank Participation Certificates (IBPCs) bought by banks, on a risk sharing basis, shall be eligible for classification under respective categories of priority sector, provided the underlying assets are eligible to be categorized under the respective categories of priority sector and the banks fulfill the Reserve Bank guidelines on IBPCs.
+
+## VIII. Bank loans to MFIs for on-lending
+
+a) Bank credit to MFIs extended on, or after, April 1, 2011 for on-lending to individuals and also to members of SHGs / JLGs will be eligible for categorisation as priority sector advance under respective categories viz., agriculture, micro and small enterprise, and 'others', as indirect finance, provided not less than 85% of total assets of MFI (other than cash, balances with banks and financial institutions, government securities and money market instruments) are in the nature of “qualifying assets”. In addition, aggregate amount of loan, extended for income generating activity, is not less than 75% of the total loans given by MFIs.
+b) A “qualifying asset” shall mean a loan disbursed by MFI, which satisfies the following criteria:
+(i) The loan is to be extended to a borrower whose household annual income in rural areas does not exceed 60,000/- while for non-rural areas it should not exceed 1,20,000/-. (ii) Loan does not exceed 35,000/- in the first cycle and 50,000/- in the subsequent cycles (iii) Total indebtedness of the borrower does not exceed 50,000/-. (iv) Tenure of loan is not less than 24 months when loan amount exceeds 15,000/- with right to borrower of prepayment without penalty.
+(v) The loan is without collateral. (vi) Loan is repayable by weekly, fortnightly or monthly installments at the choice of the borrower.
+
+<!-- PAGE 14 -->
+
+c) Further, the banks have to ensure that MFIs comply with the following caps on margin and interest rate as also other ‘pricing guidelines’, to be eligible to classify these loans as priority sector loans.
+(i) Margin cap at 12% for all MFIs. The interest cost is to be calculated on average fortnightly balances of outstanding borrowings and interest income is to be calculated on average fortnightly balances of outstanding loan portfolio of qualifying assets. (ii) Interest cap on individual loans at 26% per annum for all MFIs to be calculated on a reducing balance basis. (iii) Only three components are to be included in pricing of loans viz., (a) a processing fee not exceeding 1% of the gross loan amount, (b) the interest charge and (c) the insurance premium. (iv) The processing fee is not to be included in the margin cap or the interest cap of 26%.
+(v) Only the actual cost of insurance i.e. actual cost of group insurance for life, health and livestock for borrower and spouse can be recovered; administrative charges may be recovered as per IRDA guidelines. (vi) There should not be any penalty for delayed payment. (vii) No Security Deposit/ Margin are to be taken.
+d) The banks should obtain from MFI, at the end of each quarter, a Chartered Accountant’s Certificate stating, inter-alia, that (i) 85% of total assets of the MFI are in the nature of “qualifying assets’’, (ii) the aggregate amount of loan, extended for income generation activity, is not less than 75% of the total loans given by the MFIs, and (iii) pricing guidelines are followed.
+## IX. Non-achievement of priority sector targets
+
+Domestic scheduled commercial banks and foreign banks with branches 20 and above having shortfall in lending to overall priority sector target/agriculture target and weaker sections target shall be allocated amounts for contribution to the Rural Infrastructure Development Fund (RIDF) established with NABARD or Funds with NHB/SIDBI/other Financial Institutions, as specified by the Reserve Bank.
+
+The foreign banks with less than 20 branches, which fail to achieve the priority sector targets are required to contribute to funds with SIDBI or with other Financial Institutions, for such other purpose as may be stipulated by Reserve Bank of India from time to time.
+
+<!-- PAGE 15 -->
+
+For the purpose of allocation of RIDF tranche or any other Funds as decided by Reserve st Bank from time to time, the achievement levels of priority sector lending as on the March 31 will be taken into account. The deposits under the various Funds will be called upon by NABARD or such other Financial Institutions as and when required by them, after giving one month’s notice to the banks concerned.
+
+The interest rates on banks’ contribution to RIDF or any other Funds, periods of deposits, etc. shall be fixed by Reserve Bank of India from time to time and will be communicated to the concerned banks every year by the Reserve Bank at the time of operationalisation of funds.
+
+The misclassifications reported by the Reserve Bank’s Department of Banking Supervision would be adjusted/ reduced from the achievement of that year, to which the amount of declassification/ misclassification pertains, for allocation to various funds in subsequent years.
+
+Non-achievement of priority sector targets and sub-targets will be taken into account while granting regulatory clearances/approvals for various purposes.
+
+## X. Priority Sector-Data Reporting System
+
+The robust reporting system with granularity and system generation of priority sector data is of utmost importance for proper monitoring and appropriate policy making. Separate guidelines will be issued in due course.
+
+## XI. Common guidelines for priority sector loans
+
+Banks should comply with the following common guidelines for all categories of advances under the priority sector.
+
+## 1. Rate of interest
+
+The rates of interest on various categories of priority sector loans will be as per DBOD directives issued from time to time.
+
+## 2. Service charges
+
+No loan related and adhoc service charges/inspection charges should be levied on priority sector loans up to 25,000.
+
+<!-- PAGE 16 -->
+
+## 3. Receipt, Sanction/Rejection/Disbursement Register
+
+A register/ electronic record should be maintained by the bank, wherein the date of receipt, sanction/rejection/disbursement with reasons thereof, etc., should be recorded. The register/electronic record should be made available to all inspecting agencies.
+
+## 4. Issue of Acknowledgement of Loan Applications
+
+Banks should provide acknowledgement for loan applications received under priority sector loans. Bank Boards should prescribe a time limit within which the bank communicates its decision in writing to the applicants.
+
+## XII. Amendments
+
+These guidelines are subject to any instructions that may be issued by the RBI from time to time.
+
+## XIII. Definitions
+
+1. On-lending: Loans sanctioned by banks to eligible intermediaries for onward lending only for creation of priority sector assets. The average maturity of priority sector assets thus created should be co-terminus with maturity of the bank loan.
+2. Small and Marginal Farmers: Farmers with landholding of up to 1 hectare is considered as Marginal Farmers. Farmers with a landholding of more than 1 hectare but less than 2 hectares are considered as Small Farmers. For the purpose of priority sector loans ‘small and marginal farmers’ include landless agricultural labourers, tenant farmers, oral lessees and share- croppers, whose share of landholding is within above limits prescribed for “Small and Marginal Farmer”.
+
+|Related Press Release|/Notification|
+|---|---|
+|October 17, 2012|Priority Sector Lending – Targets and Classification|
+|July 20, 2012|Revised Guidelines on Priority Sector Lending-Targets and Classification|

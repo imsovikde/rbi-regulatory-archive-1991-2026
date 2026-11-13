@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2012_7459"
+title: "Interest Rates on Deposits held in FCNR (B) Accounts"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCBO180712.pdf"
+pdf_sha256: "47a031001bdd466c09ab95915b31924efc4a277d813d3d3197909684f58ddd97"
+md_sha256: "5ef72b42e396625971d1a469728a2b358e968bcf08a9437df7d1fcf5cbe01cc8"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:34:17Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-07-18_Notification_7459_Interest%20Rates%20on%20Deposits%20held%20in%20FCNR%20%28B%29%20Accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Interest Rates on Deposits held in FCNR (B) Accounts
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2012-13/137
+
+DBOD.Dir.BC.30/13.03.00/2012-13
+
+July 18, 2012
+
+AllScheduledCommercialBanks
+
+(Excluding RRBs)
+
+Dear Sir/Madam,
+
+Interest Rates on Deposits held in FCNR (B) Accounts
+
+Please refer toparagraph  4 of the directives enclosed to our circular
+
+DBOD.Dir.BC.49/13.03.00/2000-2001 dated November 4， 2000and mail box
+
+clarification dated May 13, 2005 in terms of which it was clarified that in the case of
+
+FCNR(B) deposits of staff members, existing or retired, interest rate including any
+
+additional interest paid to them by virtue of their being staff members, should not
+
+exceed the ceiling stipulated by RBl from time to time.
+
+2. On a review, it has now been decided that banks should not allow the benefit of
+
+additional interest rate on any type of deposits of non-residents. Accordingly, the
+
+discretion given to banks to allow the benefit of additional interest rate of one per
+
+cent per annum as available to bank's own staff on deposits under FCNR(B)
+
+accounts stands withdrawn.
+
+3. All other instructions in this regard, as amended from time to time, will remain
+
+unchanged.
+
+Yours faithfully
+
+(SudhaDamodar)
+
+Chief General Manager
+
+13400001
+
+DepartmentofBankingOperationsandDevelopment,Central Office,13hfloor,NCOB,ShahidBhagatSinghMarg,Mumbai-400001
+
+Tel No: 91-22-22601000/Fax No: 91-22-22701241 Email ID:cgmicdbodco@rbi.org.in

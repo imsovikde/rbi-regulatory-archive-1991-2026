@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2012_1161"
+title: "Standardisation and Enhancement of Security Features in Cheque Forms-Migrating to CTS 2010 standards"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CTS03092012F.pdf"
+pdf_sha256: "e1e22b111b79af69bd7f6adbe23a859ca84393b92a7c9d597d83322873c23ba3"
+md_sha256: "aaec501ce594ced0d22df9cbddb7dc4e4b9869dcb3eaa36a7d740ed96c4ceb08"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:34:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-09-03_Notification_1161_Standardisation%20and%20Enhancement%20of%20Security%20Features%20in%20Cheque%20Forms-Migrating%20to%20CTS%202010%20standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Standardisation and Enhancement of Security Features in Cheque Forms-Migrating to CTS 2010 standards
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2012-13/190 DPSS.CO.CHD.No. 399 / 04.07.05 / 2012-13 September 3, 2012
+
+The Chairman and Managing Director / Chief Executive Officer All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks/Local Area Banks
+
+## Madam / Dear Sir
+
+## Standardisation and Enhancement of Security Features in Cheque Forms-Migrating to CTS 2010 standards
+
+A reference is invited to our <u>circular DPSS.CO.CHD.No./ 1112 / 04.07.05 / 2011-12 dated</u> <u>December 27, 2011</u> advising all banks providing cheque facility to their customers to issue only 'CTS-2010' standard cheques in a time bound action plan not later than September 30, 2012.
+
+2. However, it is observed that non-CTS-2010 Standard cheque forms continue to be issued by many banks even in regions which are forming part of the northern (New Delhi) and southern (Chennai) CTS grids. As you may be aware, adherence to CTS-2010 standards has inherent advantages as the security features in cheque forms help the presenting banks to identify the genuineness of the drawee banks’ instruments while handling them in the image based scenario. The homogeneity in security features act as deterrent against frauds, and the fixed field placement specifications facilitate straight-through-processing at drawee banks' end through the use of optical/image character recognition technology.
+3. In view of the above and to ensure the time-bound migration to CTS-2010 standard cheque formats, all banks are advised to adhere to the procedures indicated below:
+i. Arrange to issue only multi-city/payable at par CTS-2010 standard cheques not later than **September 30, 2012**. A confirmation stating that necessary arrangements have been put in place for issue of CTS-2010 standard cheques across the country may be submitted to this department by **September 14, 2012.** ii. Arrange to withdraw the non-CTS-2010 Standard cheques in circulation before **December 31, 2012** by creating awareness among customers through SMS alerts, letters, display boards in branches/ATMs, log-on message in internet banking, notification on the web-site etc. Progress in this regard may be submitted to this department by **November 30, 2012**.
+Tel: (91-22) 2266 5336; Fax: (91-22) 2269 1557; e-mail : helpdpss@rbi.org.in Department of Payment & Settlement Systems, Central Office, 14 th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400001
+
+<!-- PAGE 2 -->
+
+iii. Banks holding post-dated EMI cheques (received either on their own behalf or on behalf of their NBFC clients) may arrange to ensure the replacement of non-CTS-2010 Standard cheques with CTS-2010 standard cheques before **December 31, 2012.**
+
+4. The above instructions are issued under section 18 of the Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+5. Please acknowledge receipt and ensure compliance within the target dates indicated above. Yours faithfully, (Vijay Chugh) Chief General Manager

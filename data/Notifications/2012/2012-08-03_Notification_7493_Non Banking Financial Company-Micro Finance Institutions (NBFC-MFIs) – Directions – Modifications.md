@@ -1,0 +1,216 @@
+---
+doc_id: "Notifications_2012_7493"
+title: "Non Banking Financial Company-Micro Finance Institutions (NBFC-MFIs) – Directions – Modifications"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCNOI030812FM.PDF"
+pdf_sha256: "4efd1729c433078ac7ee4ab93e2c932e1eab2395f09bdccac1e143519b33a20a"
+md_sha256: "64d853727cd3939c3bafdb615ae03f82675e02141411e4e9dcfed338ec1b7fd4"
+total_pages: 11
+native_pages: 11
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:34:26Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-08-03_Notification_7493_Non%20Banking%20Financial%20Company-Micro%20Finance%20Institutions%20%28NBFC-MFIs%29%20%E2%80%93%20Directions%20%E2%80%93%20Modifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Non Banking Financial Company-Micro Finance Institutions (NBFC-MFIs) – Directions – Modifications
+
+<!-- PAGE 1 -->
+
+## RBI/2012-13/161 DNBS (PD) CC.No.300 /03.10.038/2012-13 August 03, 2012
+
+## All NBFCs
+
+## Dear Sir,
+
+## ‘Non Banking Financial Company-Micro Finance Institutions’ (NBFC-MFIs) – Directions – Modifications
+
+Please refer to the Directions issued vide <u>RBI(PD)CC.250 dated December 02,</u> <u>2011</u> wherein a new category of NBFCs, viz., Non Banking Financial Company- Micro Finance Institution (NBFC-MFI) was created along with a regulatory framework governing the same. The Bank has been receiving representations from NBFCs that are primarily into micro financing, conveying difficulties in complying with the framework. In the light of this, it has been decided to make certain modifications in the Directions issued on December 02, 2011. The modifications are under the following sub-heads.
+
+**Para No. Particulars** 2 Capital requirement – Entry Point Norms
+
+||i.|Existing NBFCs|
+|---|---|---|
+||ii.|New Companies|
+|3|Qualifying Assets||
+|4|Multiple Lending and Indebtedness||
+|5|Ensuring Compliance with Conditionalities||
+|6|Pricing of Credit||
+|7|Capital Adequacy, Asset Classification and Provisioning Norms||
+|8|Geographical Diversification||
+|9|Customer Protection Initiatives||
+
+<!-- PAGE 2 -->
+
+||10|Formation of SRO|
+|---|---|---|
+|2. Capital requirement – Entry Point Norms|11 12|Monitoring of Compliance Application for Registration as NBFC-MFIs|
+|i.|Existing NBFCs||
+
+a. All registered NBFCs intending to convert to NBFC-MFI must seek registration with immediate effect and in any case not later than October 31, 2012, subject to the condition that they shall maintain Net Owned Funds (NOF) at Rs.3 crore by March 31, 2013 and at Rs.5 crore by March 31, 2014, failing which they must ensure that lending to the Microfinance sector i.e. individuals, SHGs or JLGs which qualify for loans from MFIs, will be restricted to 10 per cent of the total assets.
+b. In order to provide encouragement to NBFCs operating in North Eastern Region, the minimum NOF is to be maintained at Rs.1 crore by March 31, 2012 and at Rs.2 crore by March 31, 2014.
+## ii. New Companies
+
+All new companies desiring NBFC-MFI registration will need a minimum NOF of Rs.5 crore except those in the North Eastern Region of the country which will require NOF of Rs.2 crore till further notice, as hitherto and would comply,from the beginning, with all other criteria laid out in the following paragraphs.
+
+## 3. Qualifying Assets
+
+i. NBFC-MFIs are required to maintain not less than 85 per cent of their net assets as Qualifying Assets. In view of the problems being faced by NBFCs in complying with this criteria on account of their existing portfolio, it has been decided that only the assets originated on or after January 1, 2012 will have to
+
+<!-- PAGE 3 -->
+
+comply with the Qualifying Assets criteria. As a special dispensation, the existing assets as on January 1, 2012 will be reckoned towards meeting both the Qualifying Assets criteria as well as the Total Net Assets criteria. These assets will be allowed to run off on maturity and cannot be renewed.
+
+ii. NBFC-MFIs were also required to ensure that the aggregate amount of loans given for income generation is not less than 75 per cent of the total loans extended. On reconsideration, as the target clientele is predominantly at the subsistence level and basic human requirements stand to gain priority over income generation activities, it has been decided that income generation activities should constitute at least 70 per cent of the total loans of the MFI so that the remaining 30 per cent can be for other purposes such as housing repairs, education, medical and other emergencies.
+
+## 4. Multiple Lending and Indebtedness
+
+It is clarified that a borrower can be the member of only one SHG or one JLG or borrow as an individual. He can thus borrow from NBFC-MFIs as a member of a SHG or a member of a JLG or borrow in his individual capacity. However, a SHG or JLG or individual cannot borrow from more than 2 MFIs. Lending NBFC-MFIs will have to ensure that the above conditions are strictly complied with.
+
+## 5. Ensuring Compliance with Conditionalities
+
+Lending MFIs will have to ensure compliance with, among others, conditionalities relating to annual household income levels (Rs. 60,000/- for rural and Rs. 1,20,000/- for urban and semi urban households), total indebtedness (not to exceed Rs. 50,000/-), membership of SHG/JLG, borrowing sources (as stipulated in para 4 above) as well as percentage of qualifying assets and percentage of income generating asset (as stipulated in para 3 above.)
+
+Membership of Credit Information Companies will facilitate ensuring compliance with many of these conditionalities. Accordingly it is reiterated that every NBFC-
+
+<!-- PAGE 4 -->
+
+MFI has to be a member of at least one Credit Information Company (CIC) established under the CIC Regulation Act 2005, provide timely and accurate data to the CICs and use the data available with themto ensure compliance with the conditions regarding membership of SHG/ JLG, level of indebtedness and sources of borrowing. While the quality and coverage of data with CICs will take some time to become robust, the NBFC-MFIs may rely on self certification from the borrowers and their own local enquiries on these aspects as well as the annual household income.
+
+## 6. Pricing of Credit
+
+As per the Malegam Committee recommendations, the interest rate cap on loans given by MFIs has been fixed at 26 per cent, under guidelines issued on December 2, 2011. However, since borrowing costs are dynamic and may exceed the costs envisaged when the Committee recommendations were made, it may be difficult for MFIs which are borrowing at rates higher than envisaged at that time to operate along viable lines, if interest rate is capped at 26 per cent. Therefore, to allow for operational flexibility, NBFC-MFIs will ensure that the average interest rate on loans during a financial year does not exceed the average borrowing cost during that financial year plus the margin, within the prescribed cap. Moreover, while the rate of interest on individual loans may exceed 26%,the maximum variance permitted for individual loans between the minimum and maximum interest rate cannot exceed 4 per cent. The average interest paid on borrowings and charged by the MFI are to be calculated on average monthly balances of outstanding borrowings and loan portfolio respectively. It has also been decided that the cap on margins as defined by Malegam Committee may not exceed 10 per cent for large MFIs (loans portfolios exceeding Rs.100 crore) and 12 per cent for the others. This measure will ensure that in a low cost environment, the ultimate borrower will benefit, while in a rising interest rate environment the lending NBFC-MFIs will have sufficient leeway to operate on viable lines. The figures may be certified annually by Statutory Auditors and also disclosed in the Balance Sheet.
+
+<!-- PAGE 5 -->
+
+## 7. Capital Adequacy, Asset Classification and Provisioning Norms
+
+In view of the problems being faced by MFIs in Andhra Pradesh many of them have had to provide sizeable amounts towards the non-performing assets in the state. To reflect the true and fair picture of the financials of the NBFC-MFI in the Balance Sheet, the provisioning made towards the AP portfolio should be as per the current provisioning norms. However, for the calculation of CRAR, the provisioning made towards AP portfolio shall be notionally reckoned as part of NOF and there shall be progressive reduction in such recognition of the provisions for AP portfolio equally over a period of 5 years. Accordingly 100 per cent of the provision made for the AP portfolio as on March 31, 2013 would be added back notionally to NOF for CRAR purposes as on that date. This add- back would be progressively reduced by 20 per cent each year i.e. up to March
+
+2017. An illustration of this has been provided in Annex-3. No write-back or phased provisioning is permissible. Provisioning for the non-AP portfolio will be as per the December 2, 2011 circular, with effect from April 1, 2013. Capital adequacy on non-AP portfolio and the notional AP portfolio (outstanding as on the balance sheet date less the provision on this portfolio not notionally added back) will have to be maintained at 15 per cent of the risk weighted assets.
+## 8. Geographical Diversification
+
+NBFC-MFIs may approach their Boards for fixing internal exposure limits to avoid any undesirable concentration in specific geographical locations.
+
+## 9. Customer Protection Initiatives
+
+All elements of the Fair Practices Code issued by the Bank vide <u>DNBS.PD.CC.No.286/03.10.042/2012-13 dated July 2, 2012</u> will need to be adhered to by the MFIs. NBFC-MFIs must also ensure that greater resources are devoted to professional inputs in the formation of SHG/ JLG and appropriate
+
+<!-- PAGE 6 -->
+
+training and skill development activities for capacity building and empowerment after formation of the groups.
+
+## 10. Formation of SRO
+
+The Malegam Committee has recommended greater responsibility to be placed on industry associations for monitoring of regulatory compliance. All NBFC-MFIs will have to become member of at least one Self-Regulatory Organization (SRO) which is recognized by the Reserve Bank and will also have to comply with the Code of Conduct prescribed by the SRO. Guidelines on the SRO structure will follow shortly.
+
+## 11. Monitoring of Compliance
+
+The responsibility for compliance to all regulations prescribed for MFIs lies primarily with the NBFC-MFIs themselves. The industry associations/SROs will also play a key role in ensuring compliance with the regulatory framework. In addition, banks lending to NBFC-MFIs will also ensure that systems practices and lending policies in NBFC-MFIs are aligned to the regulatory framework.
+
+## 12. Application for Registration as NBFC-MFIs
+
+All existing NBFCs intending to be registered as NBFC-MFIs must seek registration with immediate effect as stipulated in para 2(i)(a) in the enclosed format (Annex-1) to the Regional Office in the jurisdiction of which their registered office is located along with the original Certificate of Registration (CoR) issued by the Bank for change in their classification as NBFC-MFIs. The change in classification would be incorporated in the CoR as NBFC-MFI. New companies will need to provide additional information, as given in Annex – 2 in hard copy, while applying on-line for registration as NBFC-MFI.
+
+**13.** The notifications in this regard amending the existing notifications viz; <u>DNBS.PD.No.234/CGM(US)2011</u> titled “the Non-Banking Financial Company-Micro Finance Institutions (Reserve Bank) Directions, 2011” dated December 02,
+
+<!-- PAGE 7 -->
+
+|2011 and DNBS.201/DG(VL)-2008|titled “Non-Banking Financial Companies||
+|---|---|---|
+|Auditor’s Report (Reserve Bank) Directions, 2008.” dated will follow.||September 18, 2008 Yours sincerely, (Uma Subramaniam)|
+|Encl: as above|Chief General Manager-in-Charge||
+
+<!-- PAGE 8 -->
+
+## Annex-1
+
+**Details to be submitted by the NBFCs existing as on ……. for applying for re-classification as NBFC-MFI**
+
+**---------------------------------------------------------------------------------------------------------**
+
+**A. Net Owned Funds as on the date of application:**
+**B. Capital Adequacy(CRAR) maintained as on March 31, 2012:**
+**C. Loan Asset Profile as on the date of application:**
+
+|Category|No. of accounts|Amount outstanding|
+|---|---|---|
+|i. Of the item (1). above, loans sanctioned on or after January 01, 2012 for amounts of Rs. 15, 000 and below|||
+|i.i. Of the item at i. above, loans for tenure exceeding 1 year:|||
+|ii. On the item (1). above, Loans sanctioned on or after January 01, 2012 with amount exceeding Rs. 15,000/- ii.i. for loans at item ii. above, loans for tenure less than 24 months|||
+|iii. Loans extended towards income generation|||
+|iv. Loans where the annual income of the household is iv.i. more than Rs. 60,000(for rural areas) iv.ii. more than Rs. 1,20,000 (for semi urban and urban areas)|||
+|v. where the borrower has borrowed from more than 2 MFIs|||
+|vi. where the borrower is member of more than 1 SHG/JLG|||
+|vii. where the borrower has availed loans in individual capacity as also as member of SHG/JLG|||
+
+(1). Total Loans outstanding as on the date of application
+
+## D. Pricing:
+
+a. Average interest cost of borrowings of the NBFC-MFI as on March 31, 2011 and 2012
+
+<!-- PAGE 9 -->
+
+b. Average interest charged by the NBFC-MFI on advances extended as on March 31, 2011 and 2012
+## E. Of the item C (1) above, Number and amount of loans outstanding
+
+## in the state of Andhra Pradesh as on March 31, 2012:
+
+## F. Amount of provisions, if any, held against loans in the state of
+
+## Andhra Pradesh as on March 31, 2012:
+
+## G. Name of the Credit Information Bureau/Company the applicant company is accredited to:
+
+## Name: Signature: Date:
+
+<!-- PAGE 10 -->
+
+## Annex-2
+
+## Details to be Submitted by New Companies Applying for Certificate ofRegistration as NBFC-MFI
+
+## --------------------------------------------------------------------------------------------A. Net Owned Funds as on the date of application:
+
+## B. Projected business plan for 3 years indicating the following (year wise):
+
+i. Amount of loan assets to be originated ii. Amount of loan assets to be extended for income generation iii. Break up of amount of assets to be originated in rural areas and semi-urban and urban areas iv. Activities the company intends to support in rural and semi-urban areas and urban areas
+v. Projected profits vi. Average cost of borrowings vii. Average Return on Assets(ROA) viii. Expected capital expenditure in
+a) land and buildings and
+b) IT resources
+ix. Locations where the company intends to operate
+
+x. Allocation of resources to training and skill development of SHGs/JLGs
+## Name: Signature: Date:
+
+<!-- PAGE 11 -->
+
+# Annex - 3
+
+# <u>Calculation of CRAR after making provisions on AP portfolio</u>
+
+## Provisions made and the AP portfolio added back and gradually reduced
+
+|Year|Loss on|Capital Provisi||Net|Required|Capital|Non-|AP|
+|---|---|---|---|---|---|---|---|---|
+||account of provisions||ons Added|Capital (3+4)|Capital (@15%)|infusion required|AP||
+||||back||||||
+|1|2|3|4|5|6|7|8|9|
+|Initial|0||||30||100|100|
+|Position|||||||||
+|2012-13 -100||-70|100|30|30|0|100|100|
+|2013-14||-70|80|10|27|17|100|80|
+|2014-15||-53|60|7|24|17|100|60|
+|2015-16||-36|40|4|21|17|100|40|
+|2016-17||-19|20|1|18|17|100|20|
+|2017-18||-2|0|-2|15|17|100|0|
+|2018-19||15|0|15|15 Total|0 85|100|0|
+
+**For the sake of simplicity, the above illustration is based on a few assumptions as given below:**
+
+**a) The AP portfolio comprises 50% of total portfolio of the NBFC-MFI.**
+**b) The entire AP portfolio is taken as loss asset**
+**c) The portfolios have remained stagnant over the next five years.**

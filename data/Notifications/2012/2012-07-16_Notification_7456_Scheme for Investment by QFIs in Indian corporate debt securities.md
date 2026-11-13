@@ -1,0 +1,93 @@
+---
+doc_id: "Notifications_2012_7456"
+title: "Scheme for Investment by QFIs in Indian corporate debt securities"
+category: "Notifications"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AE134SI16072012.pdf"
+pdf_sha256: "78d34161ab789d17577b7d41a8d389e08fdfea7cad988e49534861e83d8097b9"
+md_sha256: "b7336ae61e69842f91d3b9ede2bb883092c93733c1cde16fbdc0bf91d37271bf"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:34:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-07-16_Notification_7456_Scheme%20for%20Investment%20by%20QFIs%20in%20Indian%20corporate%20debt%20securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Scheme for Investment by QFIs in Indian corporate debt securities
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2012-13/134 A. P. (DIR Series) Circular No. 7 July 16, 2012
+
+To
+
+All Category – I- Authorised Dealer banks
+
+Madam / Sir,
+
+## Scheme for Investment by Qualified Foreign Investors (QFIs) in Indian corporate debt securities
+
+Attention of Authorised Dealers Category – I (AD Category-I) banks is invited to
+
+<u>A.P. (DIR Series) Circular No.8 dated August 9, 2011</u>, <u>A.P. (DIR Series) Circular No.</u> <u>42 dated November 3, 2011</u>, <u>A.P. (DIR Series) Circular No. 66 dated January 13,</u> <u>2012</u> and <u>A.P. (DIR Series) Circular No. 89 dated March 1, 2012</u> in terms of which Qualified Foreign Investors (QFI) are allowed to invest in rupee denominated units of domestic Mutual Funds and listed equity shares and allowing SEBI registered FIIs to invest in to be listed debt securities subject to the terms and conditions mentioned therein.
+2. It has now been decided to allow QFIs [hereinafter defined as per the revised definition in terms of para 2 (v) below] to purchase on repatriation basis debt securities subject to the following terms and conditions :
+(i) **Eligible instruments and eligible transactions** – QFIs shall be permitted to invest through SEBI registered Qualified Depository Participants (QDPs) (defined as per the extant SEBI regulations) in eligible corporate debt instruments, viz. listed Non-Convertible Debentures(NCDs), listed bonds of Indian companies, listed units of Mutual Fund debt Schemes and “to be listed” corporate bonds (hereinafter referred to as ‘eligible debt securities’) directly from the issuer or through a registered stock broker on a recognized stock exchange in India.
+
+<!-- PAGE 2 -->
+
+The provisions relating to FIIs in case of non-listing of “to be listed” corporate bonds, within 15 days as per A.P. (DIR Series) Circular No. 89 dated March 1, 2012, shall be applicable to QFIs.
+
+QFIs shall also be permitted to sell ‘eligible debt securities’ so acquired by way of sale through registered stock broker on a recognized stock exchange in India or by way of buyback or redemption by the issuer.
+
+(ii) **Mode of payment / repatriation** – A QFI may open a single non-interest bearing Rupee Account with an AD Category- I bank in India, for the limited purpose of routing the receipt and payment for transactions relating to purchase and sale of units of domestic mutual funds {in terms of A.P. (DIR Series) Circular No.8 dated August 9, 2011 and A.P. (DIR Series) Circular No.42 dated November 3, 2011}, equity shares of listed Indian companies {in terms of A.P. (DIR Series) Circular No.66 dated January 13, 2012} and eligible debt securities { as in (i) above }, hereinafter referred to as ‘eligible securities for QFIs’, subject to the following conditions :
+
+(a). The account shall be funded by inward remittance through normal banking channel and by credit of the sale/redemption/buyback proceeds (net of taxes) and on account of interest payment / dividend on the eligible securities for QFIs.
+(b). The funds in this account shall be utilized for purchase of eligible securities for QFIs or for remittance (net of taxes) outside India.
+(c). The DP will operate such non-interest bearing Rupee Accounts on behalf of the QFIs and at the instructions of the QFIs.
+A.P. (DIR Series) Circulars Nos. 8, 42 and 66 dated August 9, 2011, November 3, 2011 and January 13, 2012, respectively would therefore stand amended as above. Accordingly, it is clarified that henceforth there is no more requirement for opening and maintenance of a single rupee pool bank account by the QDP and QFIs can henceforth invest in all ‘eligible securities for QFIs’ through this single non- interest bearing Rupee Account.
+
+<!-- PAGE 3 -->
+
+(iii) **Demat accounts** - QFIs would be allowed to open a single demat account with a QDP in India for investment in all eligible debt securities under the QFI scheme. It is clarified that each QFI shall maintain a single demat account with a QDP for all investments in ‘eligible securities for QFIs’ in India.
+
+(iv) **Limits** - QFIs are permitted to invest in corporate debt securities (without any lock-in or residual maturity clause) and Mutual Fund debt schemes subject to a total overall ceiling of USD 1 billion. This limit shall be over and above USD 20 billion for FII investment in corporate debt.
+
+(v) **Eligibility** – The definition of QFI for investments in all eligible securities for QFIs shall be as under : QFIs shall mean a person who fulfils the following criteria :
+(a) Resident in a country that is a member of Financial Action task Force (FATF) or a member of a group which is a member of FATF; <u>and</u>
+(b) Resident in a country that is a signatory to IOSCO’s MMoU (Appendix A Signatories) or a signatory of a bilateral MoU with SEBI PROVIDED that the person is not resident in a country listed in the public statements issued by FATF from time to time on jurisdictions having a strategic AML/CFT deficiencies to which counter measures apply or that have not made sufficient progress in addressing the deficiencies or have not committed to an action plan developed with the FATF to address the deficiencies; PROVIDED that such person is not resident in India; PROVIDED FURTHER that such person is not registered with SEBI as a Foreign Institutional Investor (FII) or Sub-Account of an FII or Foreign Venture Capital Investor (FVCI). Explanation – For the purposes of this clause :
+
+<!-- PAGE 4 -->
+
+(1) “bilateral MoU with SEBI” shall mean a bilateral MoU between SEBI and the overseas regulator that, inter alia, provides for information sharing arrangements.
+(2) Member of FATF shall not mean an associate member of FATF.
+(vi) **Know Your Customer (KYC)** - QDPs will ensure KYC of the QFIs as per the norms prescribed by SEBI. AD Category-I banks will also ensure KYC of the QFIs for opening and maintenance of the single non- interest bearing Rupee accounts as per the extant norms.
+
+(vii) **Permissible currencies** - QFIs will remit foreign inward remittance through normal banking channel in any permitted currency (freely convertible) directly into the single non-interest bearing Rupee account of the QFI maintained with an AD Category-I bank.
+
+(viii) **Pricing** – The pricing of all eligible transactions and investment in all eligible securities by QFIs under this scheme shall be in accordance with the relevant and applicable guidelines issued from time to time.
+
+(ix) **Reporting** – In addition to the reporting to SEBI as may be prescribed by them, QDPs and AD Category-I banks (maintaining QFI accounts) will also ensure reporting to the Reserve Bank of India in a manner and format as prescribed by the Reserve Bank of India from time to time.
+
+(x) **Hedging** – QFIs would be permitted to hedge their currency risk on account of their permissible investments (in equity and debt instruments) in terms of the guidelines issued by the Reserve Bank from time to time.
+3. All the other instructions contained in the above referred A.P.(DIR Series) Circulars shall remain unchanged.
+4. AD Category-I banks may bring the contents of the circular to the notice of their customers/constituents concerned.
+5. Necessary amendments to Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 (<u>Notification No.</u>
+
+<!-- PAGE 5 -->
+
+<u>FEMA. 20/2000-RB dated May 3, 2000</u>), Foreign Exchange Management (Deposit) Regulations, 2000 (<u>Notification No. FEMA. 5/2000-RB dated May 3, 2000</u>) and Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (<u>Notification No. FEMA.25/RB-2000 dated May 3, 2000</u>) are being notified separately.
+
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Dr. Sujatha Elizabeth Prasad) Chief General Manager-in-Charge
