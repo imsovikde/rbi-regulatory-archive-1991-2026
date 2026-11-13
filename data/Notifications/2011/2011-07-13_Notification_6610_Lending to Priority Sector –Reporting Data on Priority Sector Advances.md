@@ -1,0 +1,102 @@
+---
+doc_id: "Notifications_2011_6610"
+title: "Lending to Priority Sector –Reporting Data on Priority Sector Advances"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CP13062011.pdf"
+pdf_sha256: "88b61476f8d8f4384dc9f96738eb954f0e6938ee89ec175422482c0fa42e5362"
+md_sha256: "3237a82745ad10ceeb9e584b98a03b5fe6e34a5ed622c97cc20133b7c0f2c91f"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:23:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-07-13_Notification_6610_Lending%20to%20Priority%20Sector%20%E2%80%93Reporting%20Data%20on%20Priority%20Sector%20Advances.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Lending to Priority Sector –Reporting Data on Priority Sector Advances
+
+<!-- PAGE 1 -->
+
+## RBI/2011-12/110
+
+RPCD.CO.Plan.BC. 11 /04.09.01/2011-12 July 13, 2011
+
+## The Chairman/Managing Director/ Chief Executive Officer [All Scheduled Commercial Banks (excluding Regional Rural Banks)]
+
+Dear Sir/ Madam,
+
+## <u>Lending to Priority Sector –Reporting Data on Priority Sector Advances</u>
+
+Please refer to our <u>circular RPCD. No. Plan. BC. 21/04.09.01/2007-08 dated September 3,</u> <u>2007</u> on the captioned subject.
+
+2. It has now been decided to increase the frequency of submission of ad-hoc data from half yearly to quarterly basis with certain modifications in the format.
+3. Accordingly, we advise you to furnish data on priority sector advances in the revised
+th format to Rural Planning and Credit Department, Central Office, Statistics Division, 10 Floor, New Central Office Building, Shahid Bhagat Singh Marg, Mumbai 400 001, on a quarterly basis as on last reporting Fridays of March, June, September and December of a particular year within fifteen days from the reference date.
+
+4. The banks are, therefore, requested to furnish data on priority sector advances, as mentioned above, in the enclosed revised format, on quarterly basis with effect from the last reporting Friday of June 2011. Yours faithfully, (T V Rao) Deputy General Manager
+th Rural Planning & Credit Dept., Central Office, 10 Floor, Central Office Building, Shahid Bhagat Singh Marg, P.Box No. 10014, Mumbai 400 001 Tel : 2266 1602 Fax : 2262 1011/2261 0943/2261 0948 E-mail : cgmincrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## QUARTERLY DATA ON PRIORITY SECTOR ADVANCES BY
+
+## PUBLIC/PRIVATE/FOREIGN BANKS AS ON LAST REPORTING FRIDAY
+
+## <u>OF MARCH /JUNE/SEPTEMBER/DECEMBER</u>
+
+**(A) Adjusted Net Bank Credit (ANBC) as of previous March 31st ***
+**(B) (a) Total Off-Balance Sheet Exposures (OBE) ***
+**(b) Credit Equivalent amount of OBE**
+## (Accounts in lakh, Amounts in Rs. in crore)
+
+## Name of the Bank No. of Amount Of which to SC/ST
+
+## Accounts outstanding
+
+## No. of Amount Accounts Outstanding
+
+# I. Priority Sector Advances (1 to 6 for domestic scheduled commercial banks)
+
+# [(1 to 6) + 7 (b) for foreign banks] 1. Total Agriculture Credit (a+b)
+
+**(a) Direct**
+**(b) Indirect** Of total advances to agriculture, finance granted to:
+(i) Individual farmers (including SHGs or JLGs, i.e. groups of individual farmers) (ii) Corporates, partnership firms and institutions (credit limit of up to an aggregate amount of Rs. one crore per borrower) (iii) Corporates, partnership firms and institutions (credit limit in excess of an aggregate amount of Rs. one crore per borrower) (iv) farmers against pledge / hypothecation of agricultural produce
+(v) Food and agro-based processing units undertaken by corporates, partnership firms & institutions (investment in plant & machinery up to Rs. 10 crore)
+# 2. Total credit to Micro and Small Enterprises (MSE) sector (a + b)
+
+**(a) Direct**
+**(b) Indirect**
+## Of total advances to MSE sector (which includes both Direct and Indirect advances),
+
+## finance granted to:
+
+## (i) Manufacturing Enterprises (a+b+c)
+
+(a) Enterprises with investment in P & M up to Rs. 5 lakh
+(b) Enterprises with investment in P & M above Rs. 5 lakh and up to Rs. 25 lakh
+(c) Enterprises with investment in P & M above Rs. 25 lakh and up to Rs. 5 crore **(ii) Service Enterprises (a+b+c)**
+(a) Enterprises with investment in equipment <u>up to Rs. 2 lakh</u>
+
+<!-- PAGE 3 -->
+
+(b) Enterprises with investment in equipment above Rs. 2 lakh and up to Rs.10 lakh
+(c) Enterprises with investment in equipment above Rs. 10 lakh and up to Rs.2 crore **(iii) Advances to KVI (Of total MSE)** **(iv) Of total MSE (Service) lending, advances to Retail Trade****
+## 3. Micro Credit (other than loans granted for agriculture & allied activities and loans to
+
+**micro and small enterprises)**
+
+**4. State sponsored organizations for SC/ST**
+**5. Education**
+**6. Housing**
+**7. Total Export Credit *** a. Export Credit to Micro and Small**
+## Enterprises (MSE) sector
+
+**b. Export Credit to Non-MSE** **III. Total Weaker Sections** **Out of loans granted to Weaker Sections, loans granted to specified minority**
+## communities, which fall under the definition of Weaker
+
+**Sections** **IV. Advances under DRI Scheme**
+
+*** As per the definition given in the guidelines on priority sector lending** ****Should be included in Service Enterprises and also to be entered separately** ***** Applicable only for foreign banks**

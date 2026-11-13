@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2011_6636"
+title: "StCBs/DCCBs - List of Terrorist Individuals/Organisations - under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AMLN987260711.pdf"
+pdf_sha256: "20a23d9bf575051667eba0218ff0d9e8e7b0af7abf4a6250c34e36af81c0fb25"
+md_sha256: "6a51b67ccf657a78e5d1ea9aeb39a428930050673f24a705b373215f1c1f0950"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:24:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-07-26_Notification_6636_StCBs-DCCBs%20-%20List%20of%20Terrorist%20Individuals-Organisations%20-%20under%20UNSCR%201267%281999%29%20and%201822%282008%29%20on%20Taliban-Al-Qaida%20Organisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# StCBs/DCCBs - List of Terrorist Individuals/Organisations - under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+
+<!-- PAGE 1 -->
+
+RBI/2011-12/128 RPCD.CO.RCB.AML.No.987/07.02.12/2011-12 July 26, 2011
+
+The Chairmen / CEOs of all State and Central Co-operative Banks
+
+Dear Sir,
+
+## List of Terrorist Individuals/Organisations-under UNSCR 1267(1999) <u>and 1822(2008) on Taliban/Al-Qaida Organisation</u>
+
+Please refer to our <u>circular letter RPCD.CO.RCB.AML.No.53/07.02.12/2011-12 dated</u> <u>July 4, 2011</u>. We have since received from Government of India (Ministry of External Affairs) copy of note dated July 19, 2011 forwarded by the Chairman of UN Security Council's 1267 Committee (<u>copy enclosed</u>) regarding changes made in the Consolidated List of Individuals and entities linked to Al-Qaida and Taliban.
+
+2. Banks are required to update the consolidated list of individuals/entities as circulated by Reserve Bank and before opening any new account, it should be ensured that the name/s of the proposed customer does not appear in the list. Further, banks should scan all existing accounts to ensure that no account is held by or linked to any of the entities or individuals included in the list.
+3**. Banks are advised to strictly follow the procedure laid down in the UAPA Order** **dated August 27, 2009 enclosed to our** <u>circular RPCD.CO.RF.AML. BC. No.</u> <u>34/07.40.00/ 2009-10 dated October 29, 2009</u> **and ensure meticulous compliance to** **the Order issued by the Government.**
+4. As far as freezing of funds, financial assets or economic resources or related services held in the form of bank accounts of the designated individuals/entities are concerned, action should be taken as detailed in paragraph 6 of the circular dated October 29, 2009, mentioned above.
+
+<!-- PAGE 2 -->
+
+5. The complete details of the said consolidated list are available on the UN website: <u>[http://www.un.org/sc/committees/1267/consolist.shtml](http://www.un.org/sc/committees/1267/consolist.shtml)</u>
+6. Compliance Officer/Principal Officer should acknowledge receipt of this circular letter to our concerned Regional Office. Yours faithfully, (C.D.Srinivasan) Chief General Manager
+## Encl: As above

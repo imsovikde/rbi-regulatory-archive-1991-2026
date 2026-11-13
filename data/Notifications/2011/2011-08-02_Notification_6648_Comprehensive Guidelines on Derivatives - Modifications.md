@@ -1,0 +1,107 @@
+---
+doc_id: "Notifications_2011_6648"
+title: "Comprehensive Guidelines on Derivatives : Modifications"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCGDM020811.pdf"
+pdf_sha256: "57c34cf65e8b9267955d5f75372005a02582a07c8b4cfe0f5d0fb9913e08d765"
+md_sha256: "45cb209788a0df582095acc302698d36d86fea498943152c6e0a98557b48c316"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:24:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-08-02_Notification_6648_Comprehensive%20Guidelines%20on%20Derivatives%20-%20Modifications.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Comprehensive Guidelines on Derivatives : Modifications
+
+<!-- PAGE 1 -->
+
+## __________________RESERVE BANK OF INDIA__________________
+
+www.rbi.org.in RBI/2011-12/ 136 DBOD.No.BP.BC. 27 / 21.04.157 / 2011-12 August 2, 2011
+
+The Chairman and Managing Directors/ Chief Executive Officers of All Scheduled Commercial Banks (excluding RRBs and LABs), All India Term-Lending & Refinancing Institutions & Primary Dealers
+
+Dear Sir,
+
+## Comprehensive Guidelines on Derivatives: Modifications
+
+Please refer to our <u>Circular DBOD No. BP. BC. 86/21.04.157/2006-07 dated April 20,</u> <u>2007</u> on Comprehensive Guidelines on Derivatives. The guidelines with regard to suitability and appropriateness policy for offering of derivative products to users, as outlined in paragraph 8.3 of the said circular, have been reviewed in the light of experience gained in implementation of the guidelines over last four years. The revised guidelines are furnished in the Annex (changes indicated in ***bold italics***).
+
+Yours faithfully,
+
+## (Deepak Singhal) Chief General Manager-in-Charge
+
+***___________________________________________________________________________*** ***Department of Banking Operations & Development, Central Office, 12th Floor, Central Office Building, SBS Marg, Mumbai - 400001*** **Tel No: 91-22-22661602 /Fax No: 91-22-22705691,22705692**
+
+<!-- PAGE 2 -->
+
+## ANNEX
+
+## <u>8.3 Suitability and Appropriateness Policy</u>
+
+The rapid growth of the derivatives market, especially structured derivatives has increased the focus on 'suitability' and 'appropriateness' of derivative products being offered by market-makers to customers (users) as also customer appropriateness. Market-makers should undertake derivative transactions, particularly with users with a sense of responsibility and circumspection that would avoid, among other things, mis- selling. It is imperative that market-makers offer derivative products in general, and structured products, in particular, only to those users who understand the nature of the risks inherent in these transactions and further that the products being offered are consistent with users' business, financial operations, skill & sophistication, internal policies as well as risk appetite. Inadequate understanding of the risks and future obligations under the contracts by the users, in the initial stage, may lead to potential disputes and thus cause damage to the reputation of market-makers. The market- makers may also be exposed to credit risk if the counterparty fails to meet its financial obligations under the contract.
+
+The market-makers should carry out proper due diligence regarding 'user appropriateness' and 'suitability' of products before offering derivative products to users. Each market-maker should adopt a Board-approved 'Customer Appropriateness & Suitability Policy' for derivatives business.
+
+The objective of the policy is prudential in nature: to protect the market-maker against the credit, reputation and litigation risks that may arise from a user's inadequate understanding of the nature and risks of the derivatives transaction. ***In general, market-*** ***makers should not undertake derivative transactions with or sell structured*** ***products to users that do not have properly documented policies regarding*** ***management of risks that include among other things, guidelines on risk***
+
+***identification, management and control.*** Furthermore, structured products should be sold only to those users which follow prudent accounting and disclosure norms and are capable of ascertaining the mark to market position of these products on an on-going
+
+<!-- PAGE 3 -->
+
+basis. While selling structured products, the selling banks should make available a calculator or at least access to a calculator (say on the market maker's website) which will enable the users to mark to market these structured products on an ongoing basis.
+
+***Before offering derivative products to clients, banks should obtain resolution of*** ***the Board of the corporate authorizing the concerned official of the company to*** ***undertake derivative transactions on behalf of the company. The Board resolution*** ***being submitted by the company should:***
+
+## a) be signed by a person other than the persons authorized to undertake the transactions;
+
+## b) be specific and should articulate specific products that can be transacted;
+
+## c) also mention the person(s) authorised to sign the ISDA and similar agreements;
+
+***d) explicitly mention the limits assigned to a particular person; and***
+***e) specify the names of the people to whom transactions should be reported*** ***by the bank. These personnel should be distinct from those authorized to undertake the transactions.*** While undertaking derivative transactions with or selling structured derivative products to a user, a market-maker should:
+(a) document how the pricing has been done and how periodic valuations will be done. In the case of structured products, this document should contain a dissection of the product into its generic components to demonstrate its permissibility, on the one hand, and to explain its price and periodic valuation principles, on the other. ***No bank can be*** ***a market maker in a product it cannot price independently. This will also be*** ***applicable to deals undertaken on back-to-back basis. Similarly, foreign banks*** ***operating in India can be market makers for specific products only if they have*** ***the ability to price the products locally in India. The pricing of such products*** ***should be locally demonstrable at all times, particularly whenever RBI needs*** ***such evidence.*** The following information may be shared with the user:
+
+<!-- PAGE 4 -->
+
+i) Description of the transaction ii) Building blocks of the transaction iii) Rationale along with appropriate risk disclosures iv) Sensitivity analysis identifying the various market parameters that affect the product
+v) Scenario Analysis encompassing both the possible upside as well as downsides
+(b) analyse the expected impact of the proposed derivatives transaction on the user,
+(c) ascertain whether users has the appropriate authority to enter into derivative transactions and whether there are any limitations on the use of specific types of derivatives in terms of the former's board memorandum / policy, level at which derivative transactions are approved, the involvement of senior management in decision-making and monitoring derivatives activity undertaken by it,
+(d) identify whether the proposed transaction is consistent with the user's policies and procedures with respect to derivatives transactions, as they are known to the market- maker,
+(e) ensure that the terms of the contract are clear and assess whether the user is capable of understanding the terms of the contract and of fulfilling its obligations under the contract,
+(f) inform the customer of its opinion, where the market-maker considers that a proposed derivatives transaction is inappropriate for a customer. If the customer nonetheless wishes to proceed, the market-maker should document its analysis and its discussions with the customer in its files to lessen the chances of litigation in case the transaction proves unprofitable to the customer. The approval for such transactions should be escalated to next higher level of authority at the market-maker as also for the user,
+(g) ensure the terms of the contract are properly documented, disclosing the inherent risks in the proposed transaction to the customer in the form of a Risk Disclosure Statement which should include a detailed scenario analysis (both positive and negative) and payouts in quantitative terms under different combination of underlying market variables such as interest rates and currency rates, etc., assumptions made for
+
+<!-- PAGE 5 -->
+
+the scenario analysis and obtaining a written acknowledgement from the counterparty for having read and understood the Risk Disclosure Statement,
+
+(h) guard against the possibility of misunderstandings, all significant communications between the market-maker and user should be in writing or recorded in meeting notes,
+(i) ensure to undertake transactions at prevailing market rates and to avoid transactions that could result in acceleration / deferment of gains or losses,
+(j) should establish internal procedures for handling customer disputes and complaints. They should be investigated thoroughly and handled fairly and promptly. Senior management and the Compliance Department / Officer should be informed of all customer disputes and complaints at a regular interval.
+## (k) Banks are required to obtain Board resolution from the corporate that states the following:
+
+## i) The corporate has in place a Risk Management Policy approved by its
+
+## Board which contains the following:
+
+- ***Guidelines on risk identification, measurement and control***
+- ***Guidelines and procedures to be followed with respect to revaluation*** ***and monitoring of positions***
+- ***Names and designation of officials authorized to undertake*** ***transactions and limits assigned to them***
+- ***A requirement that the assignment of limits to an official would be*** ***specific and in case the limits assigned are not quantified, then the*** ***bank should offer derivative products to that client only after getting appropriate documents certifying assignment of specific limits***
+- ***Accounting policy and disclosure norms to be followed in respect of*** ***derivative transactions***
+- ***A requirement to disclose the MTM valuations appropriately***
+- ***A requirement to ensure separation of duties between front, middle*** ***and back office***
+
+<!-- PAGE 6 -->
+
+- ***Mechanism regarding reporting of data to the Board including*** ***financial position of transaction etc***
+***ii) The corporate has laid down clear guidelines for conducting the*** ***transactions and institutionalised the arrangements for a periodical*** ***review of operations and annual audit of transactions to verify*** ***compliance with the regulations.***
+
+***(l) Market-makers should not undertake derivative transaction with users till they*** ***provide a Board or equivalent forum resolution stating that they have in place a*** ***Board approved Risk Management Policy which contains the details as*** ***mentioned above.*** It may be noted that the responsibility of 'Customer Appropriateness and Suitability' review is on the market-maker. ***Banks should require its compliance officer to*** ***submit a monthly report to the Board of Directors of the bank certifying that all*** ***the guidelines including those in respect of this paragraph have been followed for*** ***all derivative transactions undertaken by the bank during the period under*** ***reference.***

@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2011_6688"
+title: "Opening and Maintenance of Rupee / Foreign Currency Vostro Accounts of Non-resident Exchange Houses"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APD29082011.pdf"
+pdf_sha256: "46be0746b18fa0dbdacf7700eabf2500c931f2a02bc096bb4d61601e3e90f4df"
+md_sha256: "a9da5cff254bdc3ea854765a3ac70e44c73f6829e824b191e8cde8babe3ff27e"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:24:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-08-29_Notification_6688_Opening%20and%20Maintenance%20of%20Rupee%20-%20Foreign%20Currency%20Vostro%20Accounts%20of%20Non-resident%20Exchange%20Houses.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Opening and Maintenance of Rupee / Foreign Currency Vostro Accounts of Non-resident Exchange Houses
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA Foreign Exchange Department
+
+# Central Office <u>Mumbai - 400 001</u>
+
+## RBI/2011-12/160 August 29, 2011 A.P. (DIR Series) Circular No.09 A.P.(FL/RL Series) Circular No.01
+
+To
+
+## All Authorised Dealer Category-I Banks
+
+Madam / Sir,
+
+## Opening and Maintenance of Rupee / Foreign Currency Vostro Accounts of Non-resident Exchange Houses
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to the <u>A.P.(DIR</u> <u>Series) No.28 [A.P(FL/RL Series) Circular No.02] dated February 06, 2008</u> on the Memorandum of instructions for Opening and Maintenance of Rupee/ Foreign Currency Vostro accounts of Non-resident Exchange Houses and the subsequent amendments thereto.
+
+2. In terms of para (A) (1) of Annex-I of the afore-mentioned circular, under the Rupee Drawing Arrangements (RDAs), inward remittances for permissible purposes are received in India through Exchange Houses situated in Gulf countries, Hong Kong and Singapore, with prior approval of the Reserve Bank. With a view to extending the scope of the said Arrangement to other jurisdictions, it has been decided to extend the Rupee Drawing Arrangements (RDAs) only under the Speed Remittance procedures to Exchange Houses situated in Malaysia.
+3. The other instructions issued vide the above mentioned circular, as amended from time to time remain unchanged.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents concerned.
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## Dr.(Smt.) Sujatha Elizabeth Prasad Chief General Manager-in-Charge

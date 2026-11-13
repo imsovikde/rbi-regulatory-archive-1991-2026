@@ -1,0 +1,76 @@
+---
+doc_id: "Notifications_2011_950"
+title: "Dishonour / Return of Cheques - Need to Sign / Initial the Cheque Return Memo"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/DOCNS25072011.pdf"
+pdf_sha256: "b48ba6bd7ade54d7c6383853b9ab9fdf58ce0857a2d0840ffbe56ab271962311"
+md_sha256: "0ddff9a47a2a711e0f2682085aa8bdfbd16c7bd2362c7e7def5447f5cf571d4f"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:24:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-07-25_Notification_950_Dishonour%20-%20Return%20of%20Cheques%20-%20Need%20to%20Sign%20-%20Initial%20the%20Cheque%20Return%20Memo.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Dishonour / Return of Cheques - Need to Sign / Initial the Cheque Return Memo
+
+<!-- PAGE 1 -->
+
+BANK
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/121
+
+July 25, 2011
+
+DPSS.CO.CHD.No.120/03.06.01/2011-12
+
+The Chairman and Managing Director/ Chief Executive Officer
+
+AllScheduledCommercialBanksincludingRRBs/
+
+Urban Co-operativeBanks/ State Co-operative Banks /
+
+DistrictCentralCo-operativeBanks
+
+Madam / Dear Sir,
+
+Dishonour/ Return of Cheques -Need to Sign/ Initial the Cheque Return Memo
+
+Please refer to our circular DPSS. CO. CHD. No. 485 / 03.06.01 / 2010-11 dated September 1,
+
+Return Memo, wherein citing the criticality of the document in case of recourse to legal action, it
+
+has been indicated that instruments returned unpaid should have a signed / initialed objection
+
+slip on which a definite and valid reason for refusing payment must be stated, as prescribed in
+
+Rule 6 of the Uniform Regulations and Rules for Bankers' Clearing Houses (URRBCH).
+
+Certain instances of banks not signing the Cheque Return Memos stating that the Memos are
+
+computer generated and therefore no signature is necessary, have been brought to our notice.
+
+Such practices are violation of instructions contained in Uniform Regulations and Rules for
+
+Bankers' Clearing Houses (URRBCH) which is issued under Payment and Settlement Systems
+
+ReturnMemosaslaiddown inRule6of URRBCH.
+
+Yours faithfully,
+
+(Pankaj Ekka)
+
+Deputy General Manager
+
+14401
+
+Tel: (91-22) 2266 5336;  Fax:(91-22) 2269 1557; -α e-mail :helpdpss@rbi.org.in
+
+Department of Payment&Settlement Systems,Central Office14FloorCentral Office Building,ShahidBhagat SinghRoad,Fort,Mumbai-400001

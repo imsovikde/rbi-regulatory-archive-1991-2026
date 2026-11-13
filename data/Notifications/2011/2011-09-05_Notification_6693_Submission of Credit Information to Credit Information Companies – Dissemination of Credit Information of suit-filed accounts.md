@@ -1,0 +1,91 @@
+---
+doc_id: "Notifications_2011_6693"
+title: "Submission of Credit Information to Credit Information Companies –  Dissemination of Credit Information of suit-filed accounts"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DCI050911FL.pdf"
+pdf_sha256: "8609d19b79671e77d95eb40f91a9fe456fd3ea1c5af35023330a6337a8dad3b9"
+md_sha256: "c795c52213014dd9fc4b790ad82117f8ce85d812c9f11660ba93a8ffeeecfe1a"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:24:41Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-09-05_Notification_6693_Submission%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20%E2%80%93%20Dissemination%20of%20Credit%20Information%20of%20suit-filed%20accounts.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Submission of Credit Information to Credit Information Companies –  Dissemination of Credit Information of suit-filed accounts
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2011-12/165
+
+September 5, 2011
+
+DBOD.No.CID.BC.30/20.16.042/2011-12
+
+Chairmen/Managing Directors/CEOs
+
+All Scheduled Commercial Banks
+
+(excluding RRBs and LABs)
+
+AllIndiaNotifiedFinancialInstitutions
+
+Dear Sir,
+
+Submission of Credit Information to Credit Information Companies -
+
+Defaulters of Rs. 1 Crore and above and
+
+WilfulDefaultersofRs.25lakhandabove-
+
+Dissemination of Credit Information of suit-filed accounts
+
+Please refer to our Circulars DBOD.No.DL.BC.111/20.16.001/2001-02 dated June
+
+4,2002 regarding submission of credit information to Credit Information Bureau
+
+(India) Ltd (CIBIL) and DBOD No. DL.BC.95/20.16.002/2003-04 dated June 17,
+
+2. As you are aware, Certificate of Registration (CoR) has since been issued to 3
+
+Credit Information Companies (ClCs), viz., M/s Experian Credit Information
+
+Company of India Pvt. Ltd, M/s Equifax Credit Information Services Pvt. Ltd and
+
+M/s High Mark Credit Information Services Pvt. Ltd to commence the business of
+
+credit information under the Credit Information Companies (Regulation) Act, 2005.
+
+3. You are advised to submit the quarterly list of suit-filed accounts of Rs.1 Crore
+
+and above，classified as doubtful or loss,to ClBlL and/or any other credit
+
+information company which has obtained CoR from RBl and of which your bank is
+
+a member.
+
+4. In terms of Para 2.9 of Master Circular on Wilful Defaulters dated July 1, 2011,
+
+Banks / Fls have already been advised to submit the list of suit-filed accounts of
+
+wilful defaulters of Rs. 25 lakh and above as at end-March, June, September and
+
+Department of Banking Operations and Development, Central Office, 13th Floor, Central Office Building, S. Bhagat Singh Marg, Mumbai - 400 001
+
+u/Tel.No.:91-22-22601000,fula/Tel.No.(D):91-22-22701236,bH/Fax No. 91-22-22701239, email ID: cgmicdbodco @rbi.org.in
+
+<!-- PAGE 2 -->
+
+December every year to CIBIL and / or any other credit information company which has obtained CoR from RBI and of which that bank is a member.
+
+5. Further, we advise that the above CICs have been advised to disseminate credit information covering data supplied by banks / FIs on such suit-filed accounts on their respective websites.
+## Yours faithfully
+
+(P R Ravi Mohan) Chief General Manager
