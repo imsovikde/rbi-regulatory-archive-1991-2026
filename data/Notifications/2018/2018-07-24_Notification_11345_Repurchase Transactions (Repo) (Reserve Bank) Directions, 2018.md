@@ -1,0 +1,687 @@
+---
+doc_id: "Notifications_2018_11345"
+title: "Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT24ED1BCF7F8D8243BCB9C7A5E3E6A1DEBB.PDF"
+pdf_sha256: "5585199f4e3a0ea045109208d7a971997ea305e252c417e5c504ffdb448d4f5b"
+md_sha256: "c9f0f993ec4b009378e85b2eaf54b3f77e2d6c29cd8628c85dbdad5082b01726"
+total_pages: 25
+native_pages: 25
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:01:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-07-24_Notification_11345_Repurchase%20Transactions%20%28Repo%29%20%28Reserve%20Bank%29%20Directions%2C%202018.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+
+<!-- PAGE 1 -->
+
+## भारतीय �रज़वर् बक RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u> RBI/2018-19/24 FMRD.DIRD.01/14.03.038/2018-19 July 24, 2018
+
+To All participants in repo markets
+
+Dear Sir/Madam <u>Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018</u> Please refer to Paragraph 5 of the <u>statement on Developmental and Regulatory</u> <u>Policies</u>, Reserve Bank of India issued as part of the <u>superseded sixth Bi-monthly Monetary Policy</u> <u>Statement for 2017-18 dated February 07, 2018</u> regarding issuance of comprehensive been repo directions. has
+
+2. The draft directions were released for public comments on <u>March 01, 2018</u>. Based on the feedback received from the market participants, the Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018Directionhave been reviewed and have since been finalized. The Directions are enclosed herewith.
+# This
+
+### Yours faithfully
+
+(T. Rabi Sankar) Chief General Manager वत्तीय बाज़ार व�नयमन वभाग,कद्रय कायार्लय, पहल मंिजल, मुख्य भवन,शहद भगत संह मागर्, फोटर्,मुंबई–400001.भारत फोन: (91-22) 2260 3000,फै क् स : (91-22) 22702290 ई-मेल: cgmfmrd@rbi.org.in Financial Markets Regulation Department, Central Office, 1 st Floor, Main Building,ShahidBhagat SinghMarg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 3000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>िहन्दी आसान है, इसका प्रयोग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+## RESERVE BANK OF INDIA
+
+## FINANCIAL MARKETS REGULATION DEPARTMENT
+
+**ST** **1 FLOOR, CENTRAL OFFICE, FORT** **MUMBAI 400 001** **FMRD.DIRD.02/CGM (TRS)-2018 dated July 24, 2018** **Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018** In exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 (RBI Act) and of all the powers enabling it in this behalf, the Reserve Bank of India (the Reserve Bank) having considered it necessary in public interest and with a view to regulate the financial system of the country to its advantage, hereby issues the following directions to all the persons eligible to participate or transact business in market repurchase transactions (repos) in India.
+
+## 1. Short title, commencement and applicability of the directions
+
+superseded
+
+(1) These Directions shall be called as the Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 and shall supersedebeenall other directions issued on the subject and covered by these regulations.
+has These Directions shall come into force with immediate effect.
+
+(2) These Directions shall be applicable to repurchase transactions (Repo), undertaken on recognized stock exchanges, electronic trading platforms (ETP)Directionand Over-the-Counter (OTC) to the extent stated herein. In case of exchange traded
+# This
+
+repurchase transactions (Repo), procedure for execution and settlement of trades shall be in accordance with the rules and regulations issued by the recognized stock exchange/Securities and Exchange Board of India (SEBI).
+
+(3) These Directions shall not apply to repo/ reverse repo transactions under the Liquidity Adjustment Facility and the Marginal Standing Facility, which would continue to be regulated as per the existing regulations.
+## 2. Definitions
+
+(1) In these Directions, unless the context otherwise requires-
+
+<!-- PAGE 3 -->
+
+(a) **“Corporate bonds and debentures”** mean non-convertible debt securities issued in India which create or acknowledge indebtedness, including (i) debentures (ii) bonds (iii) commercial papers (iv) certificate of deposits and such other securities of a company, a multilateral financial institution (MFI) or a body corporate constituted by or under a Central Act or a State Act, whether constituting a charge on the assets of the company or body corporate or not, but does not include debt securities issued by Central Government or a State Government, or such other persons as may be specified by the Reserve Bank, security receipts and securitized debt instruments.
+(b) **“Commercial Paper (CP)”** is an unsecured money market instrument issued in the form of a promissory note. The original tenor of a CP shall be between seven days to one year.
+(c) **“Certificate of Deposit (CD)”** is a negotiable money market instrument and
+superseded issued in dematerialized form or as a Usance Promissory Note against funds deposited at a bank or other eligible financial institution for a specified been time period. has
+
+(d) **“Delivery versus Payment (DvP)”** is a settlement mechanism which stipulates that transfer of funds from the buyer of securities is made simultaneously with the transfer of securities by the seller of securities.
+# Direction
+
+(e) **“Government securities”** shall have the same meaning as defined in Section 2(f) of the
+# This
+
+Government Securities Act, 2006.
+
+(f) **“Haircut”** is the difference between the market value of the collateral and the amount borrowed/lent against that collateral.
+(g) **“Listed corporate”** means a company or firm whose shares and (or) debt are listed and traded on a recognized stock exchange/s.
+(h) **“MFIs”** are multilateral financial institutions in which Government of India is a member.
+(i) **“Recognized stock exchange”** shall have the same meaning as defined in Section 2 (f) of Securities Contracts (Regulation) Act, 1956 (42 of 1956).
+
+<!-- PAGE 4 -->
+
+(j) **“Regulated entity”** means any person, other than an individual or HUF, whose business activities are being regulated by any one of the financial regulators in India viz., Reserve Bank of India, Securities and Exchange Board of India (SEBI), Insurance Regulatory and Development Authority of India (IRDAI), Pension Fund Regulatory and Development Authority (PFRDA), National Housing Bank (NHB) and National Bank for Agriculture and Rural Development (NABARD).
+(k) **“Related entity”** of a company or a firm means any company or firm which is (i) a holding, subsidiary or an associate company of such company; or (ii) a subsidiary of a holding company to which it is also a subsidiary. The holding, subsidiary and associate company shall have the same meaning as defined in Companies Act, 2013.
+(l) **“Repo”** shall have the same meaning as defined in Section 45U (c) of RBI Act, 1934.
+superseded **“Reverse Repo”** shall have the same meaning as defined in Section 45U
+
+(d) of RBI Act, 1934.
+been <u>Explanation:</u> A ‘repo’ transaction by an entity is ‘reverse repo’ transaction for has the counterpart entity. For the purpose of these Directions, the word ‘repo’ is used to mean both ‘repo’ and ‘reverse repo’ with the appropriate meaning applied contextually.
+
+# Direction
+
+(m)**“Securitized debt instrument”** means securities of the nature referred to in sub-clause (ie) of clause (h) of section 2 of the Securities Contracts
+# This
+
+(Regulation) Act, 1956 (42 of 1956).
+
+(n) **“Security Receipts”** means a security as defined in clause (zg) of section 2 of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002).
+(o) **“Tri-party repo”** means a repo contract where a third entity (apart from the borrower and lender), called a Tri-Party Agent, acts as an intermediary between the two parties to the repo to facilitate services like collateral selection, payment and settlement, custody and management during the life of the transaction.
+
+<!-- PAGE 5 -->
+
+(p) The words and expressions used, but not defined in these Directions, shall have the meaning assigned to them in the Reserve Bank of India Act, 1934, or in any other Master Circular/Notification/Direction issued by the Reserve Bank, unless anything is stated by the Reserve Bank to the contrary.
+## 3. Eligible securities for repo
+
+The securities eligible for repo under these Directions shall include:
+
+(a) Government securities issued by the Central Government or a State Government.
+(b) Listed corporate bonds and debentures, subject to the condition that no participant shall borrow against the collateral of its own securities, or securities issued by a related entity.
+(c) Commercial Papers (CPs) and Certificate of Deposits (CDs).
+(d) Any other security of a local authority as may be specified in this behalf by
+superseded the Central Government.
+
+**4. Eligible participants** been
+(1) The following are eligible to participate in rhasepo transaction under these Directions:
+(a) Any regulated entity.
+(b) Any listed corporate.
+# Direction
+
+(c) Any unlisted company, which has been issued special securities by the Government of India, using only such special securities as collateral.
+# This
+
+(d) Any All India Financial Institution (FIs) viz. Exim Bank, NABARD, NHB and Small Industries Development Bank of India (SIDBI), constituted by an Act of Parliament and
+(e) Any other entity approved by the Reserve Bank from time to time for this purpose.
+## 5. Tenor
+
+Repos shall be undertaken for a minimum period of one day and a maximum period of one year.
+
+<!-- PAGE 6 -->
+
+## 6. Tri-Party Agent
+
+The eligibility criteria, roles and obligation, application procedure for authorization, and exit procedure for Tri-party Agent are given in <u>Annex I</u> of these Directions.
+
+## 7. Trading venues
+
+Repo transactions may be traded on any recognized stock exchanges, or an electronic trading platform (ETP) duly authorised by the Reserve Bank or in the over-the-counter (OTC) market. However, prior approval of the Reserve Bank is required for trading repos on any trading platform, including on recognized stock exchanges.
+
+## 8. Trading process
+
+Repo transactions, including tri-party repo transactions, may use any mutually agreed trading process, including but not limited to, bilateral or multilateral, quote driven or order driven processes, anonymous or otherwise. superseded
+
+**9. Reporting of trades**
+been
+
+(1) All repo transactions, other than those on recognized stock exchanges or on approved electronic trading platforms, thathasdisseminate trade information on the platforms, shall be reported within 15 minutes of the trade: repo in corporate securities to the reporting platform F-TRAC and repo in Government securities to the Clearcorp Repo Order Matching System (
+# Direction
+
+CROMS), respectively.
+
+(2) All trading and reporting platforms, including recognized stock exchanges, for
+# This
+
+repo transactions shall provide any data or other information to the Reserve Bank or to any entity as may be required by the Reserve Bank.
+
+(3) The participants to repo transactions acting under these Directions shall furnish any information or data sought by the Reserve Bank within the period stipulated in the letter/mail issued to the participant to furnish such information or data.
+## 10. Settlement of trades
+
+(1) Settlement of trades under these Directions shall be-
+(a) The first leg of all repo transactions shall settle either on a T+0 or T+1 basis.
+(b) All repo transactions shall settle on a Delivery vs Payments (DvP) basis.
+
+<!-- PAGE 7 -->
+
+(c) All repos in government securities shall settle through CCIL or any other clearing agency approved by the Reserve Bank.
+(d) All repos in corporate bonds and debentures shall settle through the clearing house of exchanges or any other entity which has been approved by the Reserve Bank.
+## 11. Sale and substitution of repoed security
+
+(1) Securities purchased under repo may be-
+(a) On-sold either as an outright transaction or as part of another repo transaction. Outright sale of securities acquired under repo shall be undertaken only by such entities that are eligible to undertake short sale transactions in terms of the relevant directions of the Reserve Bank and in such securities that are permitted to be short sold.
+(b) Substituted by another security in terms of the rules of any approved clearing agency.superseded
+## 12. Pricing of collateral, haircut and margining
+
+been
+
+(1) In case of repo transactions under these Directions-
+has
+
+(a) Collaterals shall be priced transparently at prevailing market prices, in the first leg of a repo.
+(b) The price for the second leg will be the price for the first leg
+# Direction
+
+plus interest.
+
+(c) Haircut/ margins will be decided either by the clearing house or may be
+# This
+
+bilaterally agreed upon, in terms of the documentation governing repo transactions, subject to the following stipulations:
+
+i Listed corporate bonds and debentures shall carry a minimum haircut of 2% of market value. Additional haircut may be charged based on tenor and illiquidity of the security.
+
+ii CPs and CDs shall carry a minimum haircut of 1.5% of market value.
+
+iii Securities issued by a local authority shall carry a minimum haircut of 2% of market value. Additional haircut may be charged based on tenor and illiquidity of the security.
+
+<!-- PAGE 8 -->
+
+## 13. Accounting, presentation, valuation and disclosure
+
+(1) Repos shall be accounted by entities regulated by the Reserve Bank as per guidelines contained in <u>Annex II</u>.
+(2) Other eligible participants may account for repo transactions as per applicable accounting standards.
+## 14. Computation of Cash Reserve Ratio (CRR) /Statutory Liquidity Ratio
+
+## (SLR) and borrowing limit
+
+(1) Funds borrowed under repo including tri-party repo in government securities shall be exempted from CRR/SLR computation and the security acquired under repo shall be eligible for SLR provided the security is primarily eligible for SLR as per the provisions of the Act under which it is required to be maintained.
+(2) Borrowings by a bank through repo in corporate bonds and debentures shall be reckoned as liabilities for Cash Reserve Ratio/ Statutory Liquidity Ratio
+superseded requirement and, to the extent these liabilities are to the banking system, they shall be netted as per section 42(1) of the RBI Act, 1934. been
+
+**15. Documentation**has
+(1) Participants shall enter into standard bilateral master repo agreements as per the documentation finalized by FIMMDA,
+(2) Repo transactions traded on a multilateral trading platform
+# Direction
+
+shall be governed by the rules and regulations of the platform where it is traded.
+
+# This
+
+(3) In case of tri-party repos, separate agreements between a participant and a tri- party agent shall be executed as per the documentation prescribed by the tri-party agent.
+16. The list of previous circulars issued by the Reserve Bank on repo transaction that are repealed and withdrawn are given at <u>Annex III</u> hereunder.
+(T. Rabi Sankar) Chief General Manager
+
+<!-- PAGE 9 -->
+
+## Annex I
+
+## Tri-Party Agent
+
+I. Eligible Tri-Party Agents
+A. All tri-party agents need prior authorisation from the Reserve Bank to act in that capacity.
+B. Scheduled commercial banks, recognized stock exchanges and clearing corporations of stock exchanges or clearing corporations authorised under PSS Act., are eligible to be tri-party agents.
+C. Other entities regulated by the Reserve Bank or SEBI are eligible, subject to meeting the following criteria:
+(a) Regulatory Approval
+(i) The applicant should have approval from the regulator concerned to
+superseded conduct business of a tri-party agent. (ii) An applicant will not be eligible for authorisation as an agent, if withinbeen the last 5 years, it has been subject to adverse regulatory action orhas other punitive action that the Reserve Bank considers material.
+
+(b) Financial Criteria
+(i) The applicant should have minimum paid up equity share capital of ₹Direction 25 crore which should be maintained at all times.
+# This
+
+(ii) The foreign shareholding, if any, of the applicant entity would be as per the extant foreign investment policy.
+
+(c) Experience
+(i) The applicant should have past experience of at least five years in the financial sector, in India or abroad, preferably in custody, clearing or settlement services.
+(d) Infrastructure
+(i) Tri-party agents should put in place adequate system infrastructure to carry out their functions.
+
+<!-- PAGE 10 -->
+
+II. Roles and Obligations:
+
+(i) The agent shall provide equitable access for trading to all its members/market participants. (ii) The trading process should be transparently specified. (iii) All trades may be reported as indicated in Para 9 of the Direction. (iv) In case the agent undertakes settlement of trades itself, it would seek approval under the PSS Act 2007. Agents not settling trades themselves will be responsible for routing the trades for settlement.
+(v) The agent shall be responsible for revaluation of the collateral, margining, income payments on the collateral, as well as substitution of any collateral as per terms and conditions prescribed in the member agreement. (vi) The agent shall be required to put in place transparent and reliablesuperseded collateral valuation norms.
+been (vii) The agent shall be required to maintain records of trades in easily has retrievable media for at least 8 years. (viii) The agent shall ensure adherence to the Reserve Bank’s repo directions. (ix) The agent shall submit to the Reserve Bank such returns, documents and
+
+# Direction
+
+other information as may be required by the Reserve Bank from time to
+
+# This
+
+time.
+
+III. Application Procedure for Authorisation of Tri-Party Agent:
+
+(i) Entities meeting the eligibility criteria as outlined in para (I) (B) and (C) above may apply in the prescribed format given in <u>Appendix I-1</u> to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, 1st Floor, Main Building, Shahid Bhagat Singh Marg, Mumbai – 400001.
+
+<!-- PAGE 11 -->
+
+(ii) The decision to authorize entities to act as tri-party agent in repo market will be taken by the Reserve Bank based on its assessment of market needs, suitability of the applicant and the likely value addition to the repo market.
+
+(iii) Any significant change(s) in processes, risk management framework, settlement arrangement, or in any other conditions specified at the time of approval, shall require prior approval by the Reserve Bank.
+
+IV. Exit Procedure If an authorised tri-party agent intends to terminate operations, it should abide by the timing and date of termination of tri-party operations, and any other condition stipulated by the Reserve Bank.
+
+V. Tri-party agents shall adhere to such terms and conditions as the Reserve
+superseded Bank may specify at the time of approval or at any other time. been has
+
+# Direction This
+
+<!-- PAGE 12 -->
+
+**APPENDIX I-1** **APPLICATION FORM FOR AUTHORISATION OF TRI-PARTY AGENT IN REPO** **MARKET** From
+
+Name and address of registered office/ principal place of business of applicant (By Registered Post AD/ Hand Delivery)
+
+To Chief General Manager Financial Markets Regulation Department Reserve Bank of India Central Office 1st Floor RBI Main Building Shahid Bhagat Singh Marg Mumbai –400001 superseded Dear Sir, <u>been</u> <u>Application for authorization as Tri-Party Agent in Repo Market</u> has We hereby submit an application for authorization as Tri-Party Agent for corporate bond and/ or Government securities (Strike out whichever is not applicable). The required information and documents have been furnished as per instructions.
+
+# Direction
+
+2. We declare that to the best of our knowledge and belief the information furnished in
+# This
+
+the statements/annexes enclosed are true/correct and complete and nothing has been concealed.
+
+## Yours faithfully
+
+Signature: Name: Designation: Company Seal: Date and Place: Encl: sheets
+
+<!-- PAGE 13 -->
+
+## APPLICATION FOR AUTHORISATION AS TRI-PARTY AGENT IN REPO MARKET
+
+## PART – A
+
+1. Name of applicant
+2. Constitution of applicant
+(a) Is the applicant a company or firm or any other entity
+(b) If the applicant is a company, is it a private limited company or public limited company
+(c) If the applicant is any other entity please specify the statute under which it is incorporated/established
+3. Address of Registered Office and Principal Offices (if applicant is a company)
+superseded
+
+4. Whether approval of regulator (RBI/SEBI) obtained? Please attach original approval
+been has
+
+## PART – B
+
+1. Name of the segment for authorization as tri-party agent: Government Securities
+# Direction
+
+and/ or Corporate Bonds
+
+2. Full details of the proposal for tri
+# This
+
+-party repo to be furnished, including trading process, trading venue, necessary infrastructure for reporting of trades, connectivity to the authorised clearing corporation, settlement arrangements and other details as required in the directions
+
+3. Previous experience of applicant in financial market (Please specify experience in custody business, if any)
+4. An undertaking by the CEO of the applicant company that it has not been subject to litigation or adverse regulatory action or punitive action in the last 5 years
+
+<!-- PAGE 14 -->
+
+# Annex II
+
+## ACCOUNTING GUIDELINES FOR REPO TRANSACTIONS FOR ENTITIES
+
+## REGULATED BY THE RESERVE BANK
+
+|1.|Applicability of the accounting guidelines||||: The revised accounting|
+|---|---|---|---|---|---|
+|||debt securities including the tri-party repo in such securities. investments, viz., Held for Trading, Available for Sale and Held to Maturity. transaction, with an agreement to repurchase, on the agreed terms.|guidelines will apply to repo transactions in government securities and corporate 2. Market participants may undertake repos from any of the three categories of 3. The economic essence of a repo transaction, viz., borrowing (lending) of funds by selling (purchasing) securities shall be reflected in the books of the repo participants, by accounting the same as collateralized lending and borrowing the repo seller, i.e., borrower of funds in the first leg, shall not exclude the securities sold under repo but continue to carry the same in his investment account||Accordingly, superseded|
+|(please see the|illustration given economic interest in the securities during the repo period. head (please see the This repurchased in the second leg.|Appendix II Direction the same is reversed in the second leg when the securities are sold back.|in the has repo buyer, i.e., lender of funds in the first leg, shall not include the securities purchased under repo in his investment account but show it in a separate sub- -1). transferred from the repo seller to repo buyer in case of repos as in the case of normal outright sale/purchase transactions and such movement of securities shall be reflected using the Repo/Reverse Repo Accounts and contra entries. In the case of repo seller, the Repo Account is credited in the first leg for the securities sold (funds received), while the same is reversed when the securities are Repo Account is debited for the amount of securities purchased (funds lent) and 4. The first leg of the repo transaction should be contracted at the prevailing market rates. The reversal (second leg) of the transaction shall be such that the difference|been Appendix II|-2) reflecting his continued On the other hand, the The securities would, however, be Similarly, in the case of repo buyer, the Reverse|
+
+<!-- PAGE 15 -->
+
+||between the consideration amounts of first and second legs should reflect the repo|
+|---|---|
+|interest.|5. The accounting principles to be followed while accounting for repo / reverse repo transactions are as under:|
+|(i)|Coupon /Discount a. The repo seller shall continue to accrue the coupon/discount on the securities sold under repo even during the repo period while the repo buyer shall not accrue the same. b. In case the interest payment date of the security offered under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller of the security on the date of receipt as the cash consideration payable by the seller in the second leg does not include any intervening cash flows. superseded|
+|(ii)|Repo Interest Income / Expenditure been After the second leg of the repo / reverse repo transaction is over, has a. The difference between consideration amounts of the first leg and second leg of the repo shall be reckoned as Repo Interest Income / Expenditure in the books of the repo buyer / seller respectively; and Direction b. The balance outstanding in the Repo Interest Income / Expenditure This account should be transferred to the Profit and Loss account as an income or an expenditure. As regards repo / reverse repo transactions outstanding on the balance sheet date, only the accrued income / expenditure till the balance sheet date should be taken to the Profit and Loss account. Any repo income / expenditure for the remaining period should be reckoned for the next accounting period.|
+|(iii)|Marking to Market The repo seller shall continue to mark to market the securities sold under repo transactions as per the investment classification of the security. To illustrate, in case the securities sold by banks under repo transactions are out of the Available for Sale category, then the mark to market valuation for such securities should be done at least once a quarter. For entities which do not follow any investment classification norms, the valuation for securities sold|
+
+<!-- PAGE 16 -->
+
+||under repo transactions may be in accordance with the valuation norms|
+|---|---|
+||followed by them in respect of securities of similar nature.|
+|6.|Accounting Methodology The accounting methodology to be followed along with the illustrations is given|
+|in|Appendix II-1 and II-2. Participants using more stringent accounting principles may continue using the same principles.|
+|7.|Classification of Accounts Banks shall classify the balances in Repo A/c under Schedule 4 under item I (ii) or I (iii) as appropriate. Similarly, the balances in Reverse Repo A/c shall be classified under Schedule 7 under item I (ii) a or I (ii) b as appropriate. The balances in Repo interest expenditure A/c and Reverse Repo interest income A/c shall be classified under Schedule 15 (under item II or III as appropriate) and under Schedule 13 (under item III or IV as appropriate) respectively. The balance sheet classification superseded for other participants shall be governed by the guidelines issued by the respective|
+|regulators.|been|
+|8.|Disclosure has The following disclosures should be made by banks in the “Notes on Accounts’ to the Balance Sheet:|
+
+## Minimum
+
+# Direction
+
+## Maximum Daily Average
+
+## Outstanding as outstanding outstandin outstanding on
+
+# This during the g during during the
+
+## March 31 year the year year
+
+## Securities sold under repo
+
+i. Government
+securities ii. Corporate debt securities iii. Any other securities **Securities purchased under reverse repo**
+
+i. Government securities ii. Corporate debt
+securities iii. Any other securities
+
+<!-- PAGE 17 -->
+
+## Appendix II-1
+
+## Recommended Accounting Methodology for accounting of Repo / Reverse
+
+## Repo transactions
+
+i The following accounts may be maintained, viz., i) Repo Account, ii) Reverse Repo Account, iii) Reverse Repo Interest Income Account, iv) Repo Interest Expenditure Account v) Reverse Repo Interest Receivable Account and vi) Repo Interest Payable Account. ii In addition to the above, the following 'contra' accounts may also be maintained, viz., i) Securities Sold under Repo Account, (ii) Securities Purchased under Reverse Repo Account, (iii) Securities Receivable under Repo Account and (iv) Securities Deliverable under Reverse Repo Account. **Repo** superseded i In a repo transaction, the securities should be sold in the first leg at market related prices and re-purchased in the second leg at the same prices. Thebeen consideration amount in the second leg would, however, include the repo has interest. The sale and repurchase should be reflected in the Repo Account. ii Though the securities are not excluded from the repo seller's investment account and not included in the repo buyer's investment account, the
+
+# Direction
+
+transfer of securities shall be reflected by using the necessary contra
+
+# This
+
+entries. **Reverse Repo** i In a reverse repo transaction, the securities should be purchased in the first leg at prevailing market prices and sold in the second leg at the same prices. The consideration amount in the second leg would, however, include the repo interest. The purchase and sale should be reflected in the Reverse Repo Account. ii The balances in the Reverse Repo Account shall not be a part of the Investment Account for balance sheet purposes but can be reckoned for
+
+<!-- PAGE 18 -->
+
+SLR purposes if the securities acquired under reverse repo transactions are approved securities. **Other aspects relating to Repo/Reverse Repo** i In case the interest payment date of the securities sold under repo falls within the repo period, the coupons received by the buyer of the security should be passed on to the seller on the date of receipt as the cash consideration payable by the seller in the second leg does not include any intervening cash flows. ii To reflect the accrual of interest in respect of the outstanding repo transactions at the end of the accounting period, appropriate entries should be passed in the Profit and Loss account to reflect Repo Interest Income / Expenditure in the books of the buyer / seller respectively and the same should be debited / credited as an expenditure payable/income receivable. Such entries passed should be reversed on the first working day of the next superseded accounting period. iii Repo seller continues to accrue coupon/discount as the case may be, evenbeen during the repo period while the repo buyer shall not accrue the has same.
+
+Illustrative examples are given in <u>Appendix II-2</u>**.**
+
+# Direction This
+
+<!-- PAGE 19 -->
+
+## Appendix II-2
+
+## Illustrative examples for accounting of Repo / Reverse repo transactions
+
+**While in the body of the Direction, the term "repo" is used generically to** **include both repo and reverse repo (which is simply a mirror image of a repo** **transaction), in this Appendix the accounting guidelines have been set out** **separately for repo and reverse repo for clarity.**
+
+**A. Repo/Reverse Repo of dated security**
+## 1. Details of Repo in a coupon bearing security:
+
+|Security offered under repo|7.17% 2028||
+|---|---|---|
+|Coupon payment dates|08 January and 08 July||
+|Market Price of security|₹96.9000|(1)|
+|Date of the repo|26-Mar-2018||
+|Repo interest rate|6.00%||
+|Tenor of the repo Reversal date for the repo|superseded 8 days 03-April-2018||
+|Broken period interest for the first leg*|7.17% x 78/ 360 x 100 = ₹1.5535|(2)|
+|Cash consideration for the first leg|been (1) + (2) = ₹ 98.4535|(3)|
+|Repo interest** has|₹ 98.4535x8/365x6.00%= ₹ 0.1295|(4)|
+|Cash Consideration for the second leg|(3)+(4) = ₹98.4535 + ₹ 0.1295 = ₹98.5830||
+
+**** Using 30/360 day count convention*** ***** Using Actual/365 day count convention***
+# Direction
+
+**2. Accounting for Repo Seller (Borrower of** This **Funds)**
+<u>First leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash|98.4535||
+|Repo A/c||98.4535|
+|Securities Receivable under Repo A/c (by contra)|98.4535||
+|Securities Sold under Repo A/c (by contra)||98.4535|
+
+## <u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Repo A/c|98.4535||
+|Repo Interest Expenditure A/c|0.1295||
+|Cash A/c||98.5830|
+|Securities Sold under Repo A/c (by contra)|98.4535||
+|Securities Receivable under Repo A/c (by contra)||98.4535|
+
+<!-- PAGE 20 -->
+
+## 3. Accounting for Repo Buyer (Lender of Funds)
+
+<u>First leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Reverse Repo A/c|98.4535||
+|Cash A/c||98.4535|
+|Securities Purchased under Reverse Repo A/c (by contra)|98.4535||
+|Securities Deliverable under Reverse Repo A/c (by contra)||98.4535|
+
+## <u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash A/c|98.5830||
+|Reverse Repo A/c||98.4535|
+|Reverse Repo Interest Income A/c||0.1295|
+|Securities Deliverable under Reverse Repo A/c (by contra)|98.4535||
+|Securities Purchased under Reverse Repo A/c (by contra)||98.4535|
+
+superseded
+
+## 4. Ledger entries for adjustment accounts Securities Receivable under Repo A/c
+
+been
+
+**Debit**has**Credit** To Securities Sold under Repo 98.4535 By Securities Sold under Repo 98.4535 st nd A/c (repo 1 leg) A/c (repo 2 leg)
+
+## Securities Sold under Repo A/cDirection
+
+|Debit||Credit||
+|---|---|---|---|
+|This To Securities Receivable nd under Repo A/c (repo 2 leg)|98.4535|By Securities Receivable st under Repo A/c (repo 1 leg)|98.4535|
+
+## <u>Securities Purchased under Repo A/c</u>
+
+## Debit Credit
+
+To Securities Deliverable 98.4535 By Securities Deliverable 98.4535 under Reverse Repo A/c under Reverse Repo A/c st nd (reverse repo 1 leg) (reverse repo 2 leg)
+
+## <u>Securities Deliverable under Repo A/c</u>
+
+## Debit Credit
+
+To Securities Purchased 98.4535 By Securities Purchased 98.4535 under Reverse Repo A/c under Reverse repo A/c nd st (reverse repo 2 leg) (Reverse Repo 1 leg)
+
+<!-- PAGE 21 -->
+
+**5.** If the balance sheet date falls during the tenor of the repo, participants may use the transit accounts, i.e., Repo Interest Payable A/c and Reverse Repo
+
+|Interest Receivable|A/c to record the accrued interest and reverse the same|||
+|---|---|---|---|
+|the following day. The balances in the repo interest receivable and payable||||
+|shall be taken to the P & L Account with appropriate entries passed in the||||
+|balance sheet, as below: -||||
+|Transaction Leg|1st leg|Balance Sheet Date|2nd leg|
+|Dates|26-Mar-18|31-Mar-18|03-Apr-18|
+
+## a) Entries in the Books of Repo Seller (borrower of funds) on 31-Mar-18
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Expenditure A/c [Balances under the account to be transferred to P & L]|0.0971 (being the repo interest for 6 days)||
+|Repo Interest Payable A/c||0.0971|
+
+superseded
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|P & L A/c|0.0971 been||
+|Repo Interest Expenditure A/c||0.0971|
+
+has
+
+**b) Reversal of entries in the Books of Repo Seller (borrower of funds) on 01-Apr-** **18**
+
+|Account Head Direction|Debit|Credit|
+|---|---|---|
+|Repo Interest Payable A/c|0.0971||
+|Repo Interest Expenditure This||0.0971|
+
+## <u>c) Entries in books of Repo Buyer (Lender of Funds)on</u> 31-Mar-18
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Receivable A/c|0.0971||
+|Reverse Repo Interest Income A/c [Balances under the account to be transferred to P & L]||0.0971 (Being the repo interest for 6 days)|
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.0971||
+|P & L A/c||0.0971|
+
+## d) Reversal of entries in the Books of Repo Buyer (Lender of Funds) on 01-Apr-18
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.0971||
+|Reverse Repo Interest Receivable A/c||0.0971|
+
+<!-- PAGE 22 -->
+
+## B. Repo/ Reverse Repo of Treasury Bill 1. Details of Repo on a Treasury Bill
+
+|Security offered under Repo||GOI 91 day Treasury Bill maturing on 21 June 2018||||
+|---|---|---|---|---|---|
+|Price of the security offered under Repo|₹ 98.5785||||(1)|
+|Date of the Repo||26-Mar-2018||||
+|Repo interest rate|6.00%|||||
+|Tenor of the repo|8 days|||||
+|Total cash consideration for the first leg|₹ 98.5785||||(2)|
+|Repo interest *||₹ 98.5785 X 6%X 8 /365 = ₹0.1296|||(3)|
+|Cash consideration for the second leg|₹98.7081|(2)+(3) = ₹ 98.5785 + ₹0.1296 =||||
+|*|Using Actual/365 day count convention 2. Accounting for Repo Seller (Borrower of Funds)|Debit||Credit|First leg|
+|Cash||98.5785||||
+|Repo A/c||superseded|98.5785|||
+|Securities Receivable under Repo A/c (by contra)|been|98.5785||||
+|Securities Sold under Repo A/c (by contra)|has|Debit|98.5785|Second Leg Credit||
+|Repo A/c|Direction|98.5785||||
+|Repo Interest Expenditure A/c||0.1296||||
+|Cash A/c|This||98.7081|||
+|Securities Sold under Repo A/c (by contra)||98.5785||||
+|Securities Receivable under Repo A/c (by contra)|3. Accounting for Repo Buyer (Lender of Funds)|Debit|98.5785|Credit|First leg|
+|Reverse Repo A/c||98.5785||||
+|Cash A/c||||98.5785||
+|(by contra)|Securities Purchased under Reverse Repo A/c|98.5785||||
+|(by contra)|Securities Deliverable under Reverse Repo A/c|||98.5785||
+
+<!-- PAGE 23 -->
+
+## <u>Second Leg</u>
+
+||Debit|Credit|
+|---|---|---|
+|Cash A/c|98.7081||
+|Reverse Repo A/c||98.5785|
+|Reverse Repo Interest Income A/c||0.1296|
+|Securities Deliverable under Reverse RepoA/c (by contra)|98.5785||
+|Securities Purchased under Reverse Repo A/c (by contra)||98.5785|
+
+## 4. Ledger entries for the adjustment accounts Securities Receivable under Repo A/c
+
+**Debit Credit** To Securities Sold under Repo 98.5785 By Securities Sold under 98.5785 st nd A/c (repo 1 leg) Repo A/c (repo 2 leg)
+
+## Securities Sold under Repo A/c
+
+|Debit||Credit||
+|---|---|---|---|
+|To Securities Receivable nd under Repo A/c (repo 2 leg)|98.5785|By Securities Receivable under superseded st Repo A/c (repo 1 leg)|98.5785|
+
+been **Securities Purchased under Repo A/c**
+
+|Debit|has|Credit|
+|---|---|---|
+|To Securities Deliverable 98.5785 under Reverse Repo A/c st (reverse repo 1 leg)|Direction|By Securities Deliverable 98.5785 under Reverse Repo A/c nd (reverse repo 2 leg)|
+
+## <u>Securities Deliverable under Repo A/c</u>
+
+# This
+
+## Debit Credit
+
+To Securities Purchased 98.5785 By Securities Purchased 98.5785 under Reverse Repo A/c under Reverse Repo A/c nd st (reverse repo 2 leg) (reverse repo 1 leg)
+
+**5.** If the balance sheet date falls during the tenor of the repo, participants may use the transit accounts, i.e. Repo Interest Payable A/c and Reverse Repo Interest Receivable A/c to record the accrued interest and reverse the same the following day. The balances in the repo interest receivable and payable shall be taken to the P & L Account with appropriate entries passed in the balance sheet, as below:- **Transaction Leg 1st leg Balance Sheet Date 2nd leg**
+## Dates 26-Mar-18 31-Mar-18 03-Apr-18
+
+<!-- PAGE 24 -->
+
+## a) Entries in the Books of Repo Seller (borrower of funds) on 31-Mar-18
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Expenditure A/c [Balances under the account to (being the repo interest be transferred to P & L]|0.09723 for 6 days)||
+|Repo Interest payable A/c||0.09723|
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|P & L A/c|0.09723||
+|Repo Interest Expenditure A/c||0.09723|
+
+## b) Reversal of entries in the Books of Repo Seller (borrower of funds) on 01-
+
+## Apr-18
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Repo Interest Payable A/c|0.09723||
+|Repo Interest Expenditure||0.09723|
+
+## c) Entries in books of Repo Buyer (Lender of Funds) on 31-Mar-18
+
+superseded
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Receivable A/c|0.09723 been||
+|Reverse Repo Interest Income A/c [Balances under the account to be transferred to P & L]|has|0.09723 (Being the repo interest for 6 days)|
+
+|Account Head Direction|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.09723||
+|P & L A/c||0.09723|
+
+# This
+
+## d) Reversal of entries in the Books of Repo Buyer (Lender of Funds) on 01-
+
+## Apr-18
+
+|Account Head|Debit|Credit|
+|---|---|---|
+|Reverse Repo Interest Income A/c|0.09723||
+|Reverse Repo Interest Receivable A/c||0.09723|
+
+<!-- PAGE 25 -->
+
+## Annex III
+
+(i) <u>Circular No. IDMC/PDRS/3432/10.02.01/2002-03 dated February 21, 2003</u>. (ii) <u>Circular No. IDMD/PDRS/4779/10.02.01/2004-05 dated May 11, 2005</u>. (iii) <u>Circular No. IDMD.DOD.No.334/11.08.36/2009-10 dated July 20, 2009</u> (iv) <u>Circular No. IDMD.DOD.No.04/11.08.38/2009-10 dated January 8, 2010</u>.
+(v) <u>Circular No. IDMD.DOD.No.05/11.08.38/2009-10 dated January 8, 2010</u>. (vi) <u>Circular No. IDMD/4135/11.08.43/2009-10 dated March 23, 2010</u>. (vii) Circular No. IDMD.DOD.08/11.08.38/2009-10 dated April 16, 2010. (viii) <u>Circular No. IDMD.PCD.No.21/11.08.38/2010-11 dated November 9, 2010</u>. (ix) <u>Circular No. IDMD.PCD.No.22/11.08.38/2010-11 dated November 9, 2010</u>.
+(x) <u>Circular No. IDMD No./29/11.08.043/2010-11 dated May 30, 2011</u>. (xi) <u>Circular No. IDMD.PCD.1423/14.03.02/2012-13 dated October 30, 2012</u>. (xii) Circular No. IDMD.PCD.08/14.03.02/2012-13 dated January 4, 2013. (xiii) <u>Circular No. IDMD.PCD.No.08/14.03.02/2012-13 dated January 7, 2013</u>. (xiv) <u>Circular No. IDMD.PCD.No.09/14.03.02/2012-13 dated January 7, 2013</u>.
+<u>superseded</u> (xv) <u>Circular No. IDMD.PCD.13/14.01.02/2013-14 dated June 25, 2014</u>. (xvi) <u>Circular No. FMRD.DIRD.3/14.03.002/2014-15 dated February 03, 2015</u>. been (xvii) <u>Circular No. FMRD.DIRD.4/14.03.002/2014-15 dated February 03, 2015</u>. <u>has</u> (xviii) <u>Circular No. FMRD.DIRD.5/14.03.002/2014-15 dated February 05, 2015</u>. (xix) <u>Circular No. FMRD.DIRD.07/14.03.002/2014-15 dated May 14, 2015</u>. (xx) <u>Circular No. FMRD.DIRD.08/14.03.002/2014-15 dated May 14, 2015</u>.
+
+# Direction
+
+(xxi) Circular No. FMRD.DIRD.4/14.01.009/2016-17 dated August 25, 2016. (xxii) Circular No. FMRD.DIRD.5/14.01.009/2016 This-17 dated August 25, 2016. (xxiii) <u>Circular No. FMRD.DIRD.6/14.03.002/2016-17 dated August 25, 2016</u>. (xxiv) <u>Circular No. FMRD.DIRD.4/14.03.024/2017-18 dated August 10, 2017</u>.

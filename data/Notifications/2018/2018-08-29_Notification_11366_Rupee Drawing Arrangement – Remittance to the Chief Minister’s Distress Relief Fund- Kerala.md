@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2018_11366"
+title: "Rupee Drawing Arrangement – Remittance to the Chief Minister’s Distress Relief Fund- Kerala"
+category: "Notifications"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR4175F6B5D9F49744F4971FBE2A0D757939.PDF"
+pdf_sha256: "b67b06f0879dfcbbf2dadc6ba8c665b1acea23008f0d8cf314628b308b7f3369"
+md_sha256: "bee28e2ffccc5d3e34646c40bdd37d0a092cc6d5323c1e1e491276ac4fe59e27"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:01:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2018/2018-08-29_Notification_11366_Rupee%20Drawing%20Arrangement%20%E2%80%93%20Remittance%20to%20the%20Chief%20Minister%E2%80%99s%20Distress%20Relief%20Fund-%20Kerala.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Rupee Drawing Arrangement – Remittance to the Chief Minister’s Distress Relief Fund- Kerala
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2018-19/41 A. P. (DIR Series) Circular No. 5 August 29, 2018
+
+To, All Authorised Dealer Category-I Banks Madam / Sir, <u>Rupee Drawing Arrangement – Remittance to the Chief Minister’s Distress Relief</u> <u>Fund- Kerala</u> Attention of Authorized Dealer Category – I (AD Cat – I) banks is invited to para 4 of the <u>Master Direction No.2/2015-16 dated January 1, 2016</u> on Opening and Maintenance of Rupee/Foreign Currency Vostro Accounts of Non-resident Exchange Houses, as amended from time to time, regarding permitted transactions under the Rupee Drawing Arrangements.
+
+2. In the wake of the floods in the State of Kerala and the representations received from the AD Cat-I banks, seeking permission to receive funds in the Chief Minister’s Distress Relief Fund-Kerala through the exchange houses, it has been decided in consultation with the Government of India, to permit receipt of remittances to the Chief Minister’s Distress Relief Fund-Kerala through exchange houses, subject to the condition that the remittances are directly credited to the fund by the banks and the banks maintain full details of the remitters.
+3. <u>Master Direction No.2/2015-16 dated January 1, 2016</u> on Opening and Maintenance of Rupee/Foreign Currency Vostro Accounts of Non-resident Exchange Houses is being updated to reflect the above changes.
+
+<!-- PAGE 2 -->
+
+4. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Ajay Kumar Misra)
+
+## Chief General Manager-in-Charge
