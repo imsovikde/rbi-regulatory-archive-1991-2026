@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2006_3098"
+title: "Appropriation from Reserve Fund"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/72920.pdf"
+pdf_sha256: "4821f821d58ed26dd165857c44a9e77d259c16ddfe07a77e9fb96876cc2c8d69"
+md_sha256: "dcb1a220341c29ba004421c07310dbf2f269a921b8d04a3fb0140f21759237de"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-09-20_Notification_3098_Appropriation%20from%20Reserve%20Fund.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Appropriation from Reserve Fund
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/132 DBOD.BP.BC No. 31 / 21.04.018/ 2006-07 September 20, 2006
+
+The Chairmen/Chief Executives of All Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+Section 17 (2) of Banking Regulation Act, 1949 – Appropriation from Reserve Fund
+
+In terms of section 17 (1) and 11 (1)(b) (ii) of the Banking Regulation Act, 1949 banks are required to transfer, out of the balance of profit as disclosed in the profit and loss account, a sum equivalent to not less than 20 per cent of such profit to Reserve Fund. This provision is a minimum requirement. Considering the imperative need for augmenting the reserves, it was advised vide circular DBOD.No.BP.BC.24/21.04.018/ 2000-2001 dated September 23, 2000 that all scheduled commercial banks operating in India (including foreign banks) should transfer not less than 25 per cent of the ‘net profit’ (before appropriations) to the Reserve Fund with effect from the year ending 31 March 2001.
+
+2. In terms of Sec 17(2), where a banking company appropriates any sum or sums from the reserve fund or the share premium account, it shall, within twenty-one days from the date of such appropriation, report the fact to the Reserve Bank explaining the circumstances relating to such appropriation. In order to ensure that their recourse to drawing down the Statutory Reserve is done prudently and is not in violation of any of the regulatory prescriptions, banks are advised in their own interest to take prior approval from the Reserve Bank before any appropriation is made from the statutory reserve or any other reserves.
+3. Banks are further advised that:
+(i) all expenses including provisions and write-offs recognized in a period, whether mandatory or prudential, should be reflected in the profit and loss
+
+<!-- PAGE 2 -->
+
+account for the period as an ‘above the line’ item (i.e. before arriving at the net profit);
+
+(ii) wherever draw down from reserves takes place with the prior approval of Reserve Bank, it should be effected only ‘below the line’ (i.e. after arriving at the profit/loss for the year); and
+
+(iii) it should also be ensured that suitable disclosures are made of such draw down of reserves in the ‘Notes on Accounts’ to the Balance Sheet.
+
+Yours faithfully,
+
+(Prashant Saran) Chief General Manager-in-Charge

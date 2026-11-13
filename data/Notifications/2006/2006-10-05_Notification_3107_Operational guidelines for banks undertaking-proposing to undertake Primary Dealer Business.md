@@ -1,0 +1,190 @@
+---
+doc_id: "Notifications_2006_3107"
+title: "Operational guidelines for banks undertaking/proposing to undertake Primary Dealer Business"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73148.PDF"
+pdf_sha256: "bdf3b3f892f18ea2d6329bee0a9dac00041d8d055a922ab2f965dfe94eec59c5"
+md_sha256: "ccadcf9412ca54ad6a7adf94d34205f45e2ac4c8e558a660c9e674bc537d26b4"
+total_pages: 11
+native_pages: 11
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-10-05_Notification_3107_Operational%20guidelines%20for%20banks%20undertaking-proposing%20to%20undertake%20Primary%20Dealer%20Business.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Operational guidelines for banks undertaking/proposing to undertake Primary Dealer Business
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/140 IDMD. PDRS. 1431 /03.64.00/2006-2007 October 5, 2006 All Scheduled Commercial Banks (Excluding RRBs)
+
+Dear Sir,
+
+Operational guidelines for banks undertaking/ proposing to undertake Primary Dealer Business
+
+In 1995, the Reserve Bank of India (RBI) introduced a system of Primary Dealers (PDs) in Government Securities Market with the objective of strengthening the infrastructure in the Government Securities Market, developing underwriting and market making capabilities for Government securities, improving the secondary market trading system and making PDs an effective conduit for Open Market Operations (OMO). Since then, Reserve Bank of India has, from time to time, issued a number of guidelines/ instructions/circulars to PDs in regard to matters relating to their operation in the Government Securities Market. A master circular IDMD.PDRS.229/03.64.00/2006-2007 dated July 18, 2006 has been issued incorporating the extant guidelines/ instructions issued to PDs.
+
+# Withdrawn
+
+2. In order to broad base the Primary Dealership system, it was announced in the Annual Policy Statement for the year 2005-06 that the permitted structure of Primary Dealership business would be expanded to include banks, which fulfill certain minimum eligibility criteria. Accordingly, Reserve Bank of India had issued guidelines, vide circular DBOD.FSD.BC.No.64/24.92.001/2005-06 dated February 27, 2006 addressed to all Scheduled Commercial Banks (excluding RRBs), on eligibility conditions, obligations of bank-PDs, prudential norms and regulation and supervision of bank-PDs, as modified by circular No. DBOD.FSD.BC.No.25/24.92.001/2006-07 dated August 9, 2006.
+3. Banks, undertaking PD business, are, therefore, advised to comply with the instructions/ guidelines contained in the aforesaid circulars dated February
+
+<!-- PAGE 2 -->
+
+27, 2006 and August 9, 2006, Master Circular dated July 18, 2006 and guidelines contained in the Annex.
+
+## Please acknowledge receipt.
+
+(G. Mahalingam) Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+Annex
+
+## <u>Operational guidelines for banks undertaking Primary Dealer Business</u>
+
+1. Application for taking up PD business by the banks
+1.1 Banks eligible to apply for Primary Dealership, for undertaking PD business, may approach the Chief General Manager, Department of Banking Operations & Development (DBOD), Reserve Bank of India, Central Office, Centre I, World Trade Centre, Cuffe Parade, Mumbai-400 005. On obtaining an in-principle approval from DBOD, banks may then apply to the Chief General Manager, Internal Debt Management Department, Reserve Bank of India, 16th Floor, Central Office Building, Fort, Mumbai- 400 001 for an authorization for undertaking PD business departmentally.
+1.2 The banks, willing to undertake the PD business by merging / taking over PD business from their partly / wholly owned subsidiary, or foreign banks, operating in India, willing to undertake PD business departmentally by merging the PD business being undertaken by group companies, will be subject to the
+# Withdrawn
+
+terms and conditions, as applicable, of the undertaking given by such subsidiary/ group company till such time a fresh undertaking is executed by the bank.
+
+1.3 The banks authorized to undertake PD business will be required to have a standing arrangement with RBI based on the execution of an undertaking (Appendix I) and the authorization letter issued by RBI each year (July-June).
+2. Applicability of the guidelines issued for Primary Dealers:
+2.1 The bank-PDs will be subjected to operational guidelines issued to Primary Dealers contained in Master Circular IDMD.PDRS.229/03.64.00/2006-07 dated July 18, 2006 and other guidelines issued to Primary Dealers from time to time, as made applicable, unless specifically stated.
+
+<!-- PAGE 4 -->
+
+2.2 The bank-PDs' role and obligations in terms of supporting the primary market auctions for issue of Government dated securities and Treasury Bills, underwriting of Dated Government Securities, market-making in Government securities and secondary market turnover of Government Securities will be as per the Master Circular IDMD.PDRS.229/03.64.00/ 2006-07 dated July 18, 2006 issued to Primary Dealers.
+2.3 Bank-PDs are expected to join Primary Dealers Association of India (PDAI) and Fixed Income Money Market and Derivatives Association (FIMMDA) and abide by the code of conduct framed by them and such other actions initiated by them in the interests of the securities markets.
+2.4 The requirement of ensuring minimum investment in Government Securities and Treasury Bills on a daily basis based on net call/ RBI borrowing and Net Owned Funds will not be applicable to bank-PDs.
+2.5 As banks have access to the call money market, refinance facility and the Liquidity Adjustment Facility (LAF) of RBI, bank-PDs will not have separate access to these facilities and liquidity support as available to the standalone PDs.
+# Withdrawn
+
+2.6 It is clarified that for the purpose of "when-issued trades" issued vide circular IDMD.No/3426 /11.01.01 (D)/2005-06 dated May 3, 2006, bank-PDs will be treated as Primary Dealers.
+2.7 Bank-PDs shall be guided by the extant guidelines applicable to the banks as regards borrowing in call/notice/term money market, Inter-Corporate Deposits, FCNR (B) loans /External Commercial Borrowings and other sources of funds.
+2.8 The investment policy of the bank may be suitably amended to include PD activities also. Within the overall framework of the investment policy, the PD business undertaken by the bank will be limited to dealing, underwriting and market-making in Government Securities. Investments in Corporate/ PSU/ FIs bonds, Commercial Papers, Certificate of deposits, debt mutual funds and other fixed income securities will not be deemed to be a part of PD business.
+
+<!-- PAGE 5 -->
+
+2.9 The classification, valuation and operation of investment portfolio guidelines as applicable to banks in regard to "Held for Trading" portfolio will also apply to the portfolio of Government Dated Securities and Treasury Bills earmarked for PD business.
+2.10 The Government Dated Securities and Treasury Bills under PD business will count for SLR.
+2.11 Bank-PDs shall be guided by the extant guidelines applicable to the banks as regards business through brokers, ready forward transactions, interest rate derivatives (OTC & exchange traded derivatives), investment in non-Government Securities, Issue of Subordinated Debt Instruments, declaration of dividends, capital Adequacy and risk management.
+3. Maintenance of books and accounts:
+3.1 As per the provisions of para 4 of the circular DBOD.FSD.BC.No. 64 /24.92.001/ 2005-06 dated February 27, 2006, banks were required to maintain a minimum balance of Rs.100 crore in their separate SGL account for PD
+# Withdrawn
+
+business. However, on a re-examination, it was decided that the transactions related to Primary Dealership business, undertaken by a bank departmentally, would be executed through the existing Subsidiary General Ledger (SGL) account of the bank and accordingly, the requirement of maintaining a separate SGL account for the bank’s PD department, as envisaged in the aforesaid circular, was dispensed with and accordingly, the circular DBOD.FSD.BC.No.25 /24.92.001 /2006-07 dated August 9, 2006 was issued. However, such banks will have to maintain separate books of accounts for transactions relating to PD business (distinct from normal banking business) with necessary audit trails. It should be ensured that, at any point of time, there is a minimum balance of Rs. 100 crore of Government Securities earmarked for PD business.
+
+<!-- PAGE 6 -->
+
+3.2 Bank-PDs should subject the transactions by PD department to concurrent audit. An auditors' certificate for having maintained the minimum stipulated balance of Rs. 100 crore of Government Securities in the PD-book on an ongoing basis and having adhered to the guidelines/ instructions issued by RBI, should be forwarded to IDMD, RBI on quarterly basis.
+4. Capital Adequacy and Risk Management:
+4.1 The capital adequacy requirement and risk management guidelines will be as per the extant guidelines applicable to banks. For the purpose of assessing the bank's capital adequacy requirement and coverage under risk management framework, the PD activity should also be taken into account.
+4.2 The bank undertaking PD activity may put in place adequate risk management systems to measure and provide for the risks emanating from the PD activity.
+5. Supervision by RBI
+5.1 Off-site supervision: The banks authorized to undertake PD business are
+# Withdrawn
+
+required to submit prescribed periodic returns to RBI promptly. The current list of such returns and their periodicity, etc. is furnished in Appendix II.
+
+5.2 On-site inspection: RBI will have the right to inspect the books, records, documents and accounts of the banks. Bank-PDs are required to make available all such documents, records, etc. to the RBI inspectors and render all necessary assistance.
+6. Reserve Bank of India reserves its right to amend or modify the above guidelines from time to time, as may be considered necessary.
+
+<!-- PAGE 7 -->
+
+## Appendix I
+
+<u>UNDERTAKING</u> To, The Chief General Manager, Internal Debt Management Department, Reserve Bank of India, Central Office Building, Mumbai-400 001.
+
+By ……………………………………………………………….. Registered Office …………………………………………….. ………………………………………………………………… …………………………………………………………………. WHEREAS the Reserve Bank of India (RBI) has offered in principle to permit us undertake Primary Dealer activity in Government securities in accordance with the guidelines conveyed vide circular DBOB.FSD.BC.No. 64 / 24.92.001/ 2005- 06 dated February 27, 2006 for the banks undertaking Primary Dealership business in Government Securities Market
+
+AND WHEREAS as a precondition to our being authorised to undertake Primary Dealership activity we are required to furnish an undertaking covering the relative terms and conditions
+
+AND WHEREAS at the duly convened Board of Directors meeting of ________________ on __________, the Board has authorised Shri/Smt./Kum. _________________ and Shri/Smt./Kum. __________________ to execute andWithdrawn furnish an UNDERTAKING to the Reserve Bank of India jointly and severally as set out below:
+
+NOW, THEREFORE, in consideration of the RBI agreeing to permit us to undertake Primary Dealer activity, we hereby undertake and agree:
+
+1. To commit to aggregatively bid in the auction of Treasury Bills and Government of India Dated Securities to the extent of …….per cent of each issue of auction Treasury Bills and to maintain the success ratio in aggregate winning bids at not less than 40 per cent for Treasury Bills and for a minimum amount equal to the underwriting commitment (allotted under Minimum Underwriting Commitment and Additional Competitive Underwriting) for Government of India Dated Securities.
+2. To offer to underwrite primary issues of Government of India dated securities, Treasury Bills and State Government securities, for which auction is held, and accept devolvement, if any, of any amount as may be determined by RBI in terms of prevalent Scheme for bidding, underwriting.
+
+<!-- PAGE 8 -->
+
+3. To determine prudential ceilings, with the prior approval of the Board of Directors of the bank, subject to the guidelines, if any, issued by the Reserve Bank in this regard.
+4. To offer firm two-way quotes through the Negotiated Dealing System/ over the counter telephone market/ recognised Stock Exchanges in India and deal in the secondary market in Government dated securities and Treasury Bills of varying maturity from time to time and take principal positions.
+5. To achieve a sizeable portfolio in Government securities and to actively trade in the Government securities market.
+6. To maintain separate books of account for transactions relating to PD business (distinct from the normal banking business) with necessary audit trails and to ensure that, at any point of time, there is a minimum balance of Rs. 100 crore of Government securities earmarked for PD business.
+7. To achieve an annual turnover of not less than 5 times in Government dated securities and not less than 10 times in Treasury Bills of the average of month-end stocks, in the book separately maintained for the Primary Dealership business, subject to the turnover in respect of outright transactions being not less than 3 times in government dated securities and 6 times in Treasury Bills.
+8. To maintain infrastructure in terms of both physical apparatus and skilled manpower for efficient participation in primary issues, trading in the secondary market, and for providing portfolio advice and education toWithdrawn investors.
+9. To continue to have in place the “Guidelines on Securities Transaction to be followed by Primary Dealers” issued under cover of IDMC.No.PDRS/2049-A/03.64.00/99-2000 dated December 31, 1999 and Master Circular as also other necessary internal control systems for fair conduct of business and settlement of trades and maintenance of accounts.
+10. To comply with all applicable Reserve Bank of India/Securities and Exchange Board of India (SEBI) requirements under the guidelines existing, and which may be laid down from time to time in this behalf, failing which RBI would be at liberty to cancel the authorisation to undertake Primary Dealer activity.
+11. To abide by the code of conduct as laid down by RBI/SEBI or the Primary Dealers’ Association of India.
+
+<!-- PAGE 9 -->
+
+12. To maintain and preserve such information, records, books and documents pertaining to Primary Dealer activity as may be specified by the RBI from time to time.
+13. To permit the RBI to inspect all records, books, information, documents and make available the records to the Inspectors and render all necessary assistance.
+14. To submit in prescribed formats periodic reports including daily transactions and market information, monthly report of details of transactions in securities and risk position and performance with regard to participation in auctions, annual audited accounts and an annual performance review and such statements, certificates and other documents and information as may be specified by RBI from time to time.
+15. To report the matter immediately to RBI and abide by such orders, instructions, decisions or rulings given by the RBI if and when any kind of investigation/inquiry/inspection is initiated against us by statutory/ regulatory authorities, e.g. SEBI/RBI, Stock Exchanges, Enforcement Directorate, Income-tax authorities, etc.
+16. To pay an amount of Rupees Five Lakh, or as applicable, to the Reserve Bank, for violation of any of the instructions issued by the Reserve Bank in the matter or for non-compliance with any of the undertakings given hereinabove. We do hereby confirm that the above undertakings will be binding on ourWithdrawn successors and assigns.
+## Dated this day of Two Thousand
+
+|Signed, sealed and delivered by the|)|
+|---|---|
+|within named, being the authorized|)|
+|persons, in terms of the Resolution|)|
+|No._______ of the Board of|)|
+|Directors at the duly convened|)|
+|Meeting held on in the|)|
+|in the presence of _______________|)|
+
+Signatory (i) (ii) Witness (i) (ii)
+
+<!-- PAGE 10 -->
+
+## Appendix II
+
+Statements / Returns required to be submitted by banks on their Primary Dealer business to IDMD* :
+
+|Sr. No.|Return/Report|Periodicity|Last date for submission|
+|---|---|---|---|
+|1.|PDR-II** (format enclosed)|Monthly|10th of the following month|
+|2.|Concurrent auditor certificate for having maintained the minimum stipulated balance of Rs. 100 crore of Government Securities in the PD-book on an ongoing basis.|Quarterly|15th of the month following the reporting month|
+|3.|Annual Report on PD activity of the bank. e-mail at pdrsidmc@rbi.org.in|Annual * In addition to reports on "when issued" transactions and intra-day short sales. **Return should be submitted in electronic form as an excel file attachment through|Within 30 days of the finalization of audited accounts.|
+
+# Withdrawn
+
+<!-- PAGE 11 -->
+
+||||Form PDR 2|
+|---|---|---|---|
+||(Rs. in crores)|Cumulative figures||
+|Dated GOI securities State Govt. Securities||T-bills|Total|
+|@|N.A.|||
+|N.A|N.A|||
+|$||N.A||
+|||N.A||
+|||N.A||
+|||N.A||
+|Withdrawn|N.A. N.A. N.A.|N.A. N.A. N.A.||
+
+PRIMARY DEALER'S MONTHLY REPORT Name of the Bank: Statement as at the end of :
+
+I. PRIMARY MARKET NEW SUBSCRIPTIONS
+i) Bidding commitment ii) Bids Tendered* iii) Non-competive bids iv) Bids Accepted (A)
+v) Success Ratio REDEMPTIONS (B) II. TOTAL = I(A)+I(B) III. UNDERWRITING
+i) Amount offered for underwriting ii) Amount of underwriting accepted by RBI iii) Amount of devolvement iv) Underwriting fee received IV. SECONDARY MARKET TURNOVER-OTC OUTRIGHT (including OMO)
+i) Purchases ii) Sales TOTAL OUTRIGHT TURNOVER (A) <u>Of which deals done with non-NDS members :</u>
+i) Purchases ii) Sales REPURCHASE AGREEMENTS
+i) Repo (both legs) ii) Reverse Repo (both legs) TOTAL REPOS TURNOVER (B)
+V. Total Turnover - OTC (IV(A)+IV(B)) VI. SECONDARY MARKET TURNOVER - (STOCK EXCHANGES + NDS OM)
+i) Purchases ii) Sales Total (VI) VII. TOTAL SECONDARY MARKET TURNOVER (V+VI)
+i) TOTAL TURNOVER (II+VII)
+* Includes applications made under tap issues (normally applicable to State Loans)
+@ Amount will be total amount alloted in underwriting auction $ including MUC and ACU Signature

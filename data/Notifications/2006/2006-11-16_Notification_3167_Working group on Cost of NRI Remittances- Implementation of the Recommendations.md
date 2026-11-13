@@ -1,0 +1,46 @@
+---
+doc_id: "Notifications_2006_3167"
+title: "Working group on Cost of NRI Remittances- Implementation of the Recommendations"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/74201.pdf"
+pdf_sha256: "6a1fb9c9f38efa540e56a5caa2bcec914c891c04b141e007e44014a665c9d147"
+md_sha256: "5d5f52d1a58f3e0b546dace90ca73e34eab44531d49a8aa58441612de215a1d1"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-11-16_Notification_3167_Working%20group%20on%20Cost%20of%20NRI%20Remittances-%20Implementation%20of%20the%20Recommendations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Working group on Cost of NRI Remittances- Implementation of the Recommendations
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/184
+
+## FE.CO.FMD. 10653/17.03.00(Policy)/2006-07 November 16, 2006
+
+To,
+
+The Chairperson/ Chief Executives of Category – I Authorised Dealer Banks
+
+Dear Sir/ Madam,
+
+Working group on Cost of NRI Remittances- Implementation of the Recommendations
+
+The Working Group (Chairman: Shri P.K. Pain) constituted by the Reserve Bank to examine various cost aspects of NRI remittances submitted its report in August 2006, which was placed on the Reserve Bank website inviting feedback from the public. Taking into account the feedback received on the Report, the Reserve Bank has decided to take following measures:
+
+a) Rupee Drawing Arrangements In terms of the extant policy, a prudential cap of 20 arrangements has been placed on tie-ups by banks with Exchange Houses under the Rupee Drawing Arrangements. Further, in terms of the provisions contained in our Circular EC.CO.DRD/937/17.03.00(Policy)/98-99 dated June 10, 1999, the total number of branches on which drafts of Exchange Houses could be drawn has been capped at
+300. In order to enhance the existing channels for cost-effective and speedy remittance facilities to the NRIs, it has been decided to dispense with the existing restrictions on the number of tie-ups with Exchange Houses and the number of drawee branches for rupee drawing arrangements, subject to the banks having sound risk management systems and regular monitoring of funds position to avoid concealed overdrafts in the vostro accounts.
+
+<!-- PAGE 2 -->
+
+b) Awareness Programme for NRIs The Group had suggested several measures to sensistise the NRIs regarding the cost of remittances. Accordingly, the banks may put in place an 'Awareness Programme' to sensitise NRIs on the options available to them to minimize the cost of remittances.
+c) Review of Charges and Improvements in Infrastructure Banks may review their existing scale of charges, both at the foreign and domestic end to minimize the current cost of remittances. Banks may also endeavour for improvements in infrastructure and extending the scope of electronic payment mechanism for inter-city settlement between the banks in India so as to reduce the cost of NRI remittances.
+d) Independent Business Segment Large banks may examine the feasibility of setting up Centralized Remittance Receiving Centers for efficiency and better customer service. Further, they may identify remittances as an independent business segment and resort to latest technology for handling large volume at lower cost and explore tie-ups with more correspondent banks at existing and new centers.
+Yours faithfully,
+
+(Salim Gangadharan) Chief General Manager-in-Charge

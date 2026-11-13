@@ -1,0 +1,84 @@
+---
+doc_id: "Notifications_2006_3144"
+title: "Package of relief measures for the debt stressed farmers of 25 districts in the states of Andhra Pradesh, Karnataka & Kerala"
+category: "Notifications"
+year: 2006
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73639.pdf"
+pdf_sha256: "e04278dfafb282c5058341db758b8c83c595d8351ccb9958c2ff192ec26ee73a"
+md_sha256: "4869eb9691e933a3ea58fe24dd2b140758202c8fa320138dcd641bc67726d5fa"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:16:30Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2006/2006-10-18_Notification_3144_Package%20of%20relief%20measures%20for%20the%20debt%20stressed%20farmers%20of%2025%20districts%20in%20the%20states%20of%20Andhra%20Pradesh%2C%20Karnataka%20%26%20Kerala.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Package of relief measures for the debt stressed farmers of 25 districts in the states of Andhra Pradesh, Karnataka & Kerala
+
+<!-- PAGE 1 -->
+
+RBI/2006-07/156 RPCD.PLFS.NO.BC. 31 / 05.04.02 /2006-07 October 18, 2006 The Chairman and Managing Director/Chief Executive Officers All Scheduled Commercial Banks. Dear Sir,
+
+|||Package of relief measures for the debt stressed farmers of 25 districts in the states of Andhra Pradesh, Karnataka & Kerala|
+|---|---|---|
+|credit.||For mitigating the distress of farmers in the following 25 debt stressed districts of Andhra Pradesh, Karnataka and Kerala, the Union Government has approved a package which, besides other items, has a component relating to agriculture|
+||Name of the State|Names of affected districts|
+||01 Andhra Pradesh (16)|Prakasam, Guntur, Nellore, Chittoor, Cuddapah, Anantapur, Kurnool, Adilabad, Karimnagar, Khammam, Mahabubnagar, Medak, Nalgonda, Nizamabad, Rangareddy, and Warangal.|
+||02 Karnataka (6)|Belgaum, Hassan, Chitradurga, Chikmagalur, Kodagu, and Shimoga|
+||03 Kerala (3)|Wayanad, Palakkad, and Kasaragod.|
+
+2. The component relating to Agriculture Credit includes the following:
+(i) The entire interest on overdue loans as on July 01, 2006 will be waived in the above 25 affected districts and all farmers will have no past interest burden as on that date, so that they will immediately be eligible for fresh loans from the banking system. (ii) The overdue loans of the farmers as on July 01, 2006 will be rescheduled over a period of 3-5 years with a one-year moratorium.
+
+<!-- PAGE 2 -->
+
+(iii) A credit flow of Rs.13,817.78 crore, Rs.3,076.20 crore and Rs.1,945.07 crore will be ensured in the above debt stressed districts of Andhra Pradesh, Karnakata and Kerala respectively in 2006-07.
+
+3. The burden of waiver of overdue interest will be shared equally by the State and Central Governments. While apportioning the overdue interest as above, due care will be taken to offset releases if any, already made by the State Government on this count.
+4. You are, therefore, advised to ensure that all the farmers' loan-accounts in the specified districts, which are overdue as on July 01, 2006, are rescheduled on the lines of the package and the interest thereon (as on July 01, 2006) is fully waived. Fresh finance may be ensured to such farmers. The total amount of credit envisaged to be released by banks in the three States will be allocated by the respective SLBC Convenors among the banks functioning in the districts.
+5. The amount of interest waived (State wise) may be advised to the SLBC Convenor Bank of the respective State and to us in a consolidated manner in the enclosed format (Annex – I) in order to enable us to reimburse the same. While the branches may provide information to the Controlling / Head Office as per Annex – III, the latter may maintain branch-wise information in the format given in Annex –II for the purpose of RBI Inspection and Audit.
+6. The progress in the implementation of the package will be monitored at the district level through the DLCC forum and at the State level through the SLBC. Besides, a special team from NABARD and lead bank shall be deputed to ensure timely restructuring/ reschedulement of the loan accounts to enable early flow of fresh credit.
+Yours faithfully, (C. S. Murthy) Chief General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+## <u>ANNEX I</u>
+
+<u>Certificate for claiming reimbursement towards interest on overdue</u> <u>agricultural credit outstanding as on July 01, 2006.</u>
+
+Name of the bank: Relief provided in the State of: (Claims to be submitted State-wise)
+
+## (Amount in Rupees)
+
+|Number|of Principal|Amount|Of which|Reimbur-|
+|---|---|---|---|---|
+|accounts|of amount|of|reimburs|sement|
+|overdue loans|outstanding as on July 01, 2006, .since rescheduled|interest overdue as, July 01, 2006 on the loans shown in column 2|-ement already on received from State Govt. under any other|of interest now claimed|
+
+net
+
+relief package
+
+(1) (2) (3) (4) (5)
+We hereby certify that the amount of interest being claimed as shown above, have been correctly calculated in conformity with the Reserve Bank of India Circular letter RPCD. No. PLFS.BC. 31 /05.04.02/2006-07 dated October 18,
+
+2006. We undertake that in the event of any inaccuracy detected later during audit or otherwise, we shall immediately refund to the Reserve Bank any excess amount received by us. (Authorised Signatory) Place Date
+
+<!-- PAGE 4 -->
+
+|||||Data to be kept with the Bank's Head Office for verification/scrutiny by||Annex II|
+|---|---|---|---|---|---|---|
+|||||Auditors/RBI inspectors||(Amount in Rupees)|
+|Sr. No.|Branch name and code|No. Of A/c s|Amount outstanding as on July 01, 2006 in respect of overdue loans Amoun t|Amount of interest overdue as on July 01, 2006 on the loans shown in column 4|Of which reimbursem -ent already received from State Govt. under any other relief package|Reimburse ment of net interest now claimed|
+
+(1) (2) (3) (4) (5) (6) (7)
+
+<!-- PAGE 5 -->
+
+|||Name of the branch Branch Code|Format for Branches to provide Information in respect of interest waived on overdue agricultural loans outstanding as on July 01, 2006 to their Controlling/Head Office|(Amount in Rupees)||ANNEX III|
+|---|---|---|---|---|---|---|
+|Sr. No.|Name of the borro- wer|Account No.|Agricultu- ral loans overdue & outstand- ing as on July 01, 2006|Amount of interest overdue as on July 01, 2006 on the loans shown in column 4|Of which reimburse ment already received from State Govt. under any other relief package|Reimbur- sement of net interest now claimed|
+
+(1) (2) (3) (4) (5)) (6) (7)
