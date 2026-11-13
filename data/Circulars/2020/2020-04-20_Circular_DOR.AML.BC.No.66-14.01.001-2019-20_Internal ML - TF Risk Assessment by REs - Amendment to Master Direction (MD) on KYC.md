@@ -1,0 +1,36 @@
+---
+doc_id: "Circulars_2020_DOR_AML_BC_No_66_14_01_001_2019-20"
+title: "Internal ML / TF Risk Assessment by REs - Amendment to Master Direction (MD) on KYC"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/221IRAMDKYC501344A199CE47A5959F047427D7D56A.PDF"
+pdf_sha256: "77e755ab250f03ab592819790f802b44eb9a0d3b3e77fb97049c86f97679676d"
+md_sha256: "d509935dfff3caf150ef562cbb7f90ec030c703cf4da86bbb400fff7ec0278a1"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:43:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-04-20_Circular_DOR.AML.BC.No.66-14.01.001-2019-20_Internal%20ML%20-%20TF%20Risk%20Assessment%20by%20REs%20-%20Amendment%20to%20Master%20Direction%20%28MD%29%20on%20KYC.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Internal ML / TF Risk Assessment by REs - Amendment to Master Direction (MD) on KYC
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/221 DOR.AML.BC.No.66/14.01.001/2019-20 April 20, 2020
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Dear Sir/Madam,
+
+## Internal ML/TF risk assessment by REs-Amendment to Master Direction (MD) on KYC
+
+The <u>Master Direction on KYC dated February 25, 2016</u>, is hereby updated to reflect the following changes in line with Rule 9(13) of the PML Rules 2005:
+
+- A new section (5A) has been added to chapter II of the MD on KYC requiring *REs to* *carry out ‘Money Laundering (ML) and Terrorist Financing (TF) Risk Assessment’ exercise* *periodically to identify, assess and take effective measures to mitigate its money* *laundering and terrorist financing risk for clients, countries or geographic areas, products,* *services, transactions or delivery channels, etc. While assessing the ML/TF risk, the REs* *are required to take cognizance of the overall sector-specific vulnerabilities, if any, that* *the regulator/supervisor may share with REs from time to time. Further, the internal risk* *assessment carried out by the RE should be commensurate to its size, geographical* *presence, complexity of activities/structure, etc.* *Also, the REs shall apply a Risk Based Approach (RBA) for mitigation and management* *of the identified risk and should have Board approved policies, controls and procedures in* *this regard.*
+# Withdrawn
+
+2. The above instructions shall come into force with immediate effect. It may be noted that the first such internal risk assessment by the REs should be completed by June 30, 2020 and thereafter reviewed periodically. Yours faithfully, (Dr. S. K. Kar) Chief General Manager
+िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, 12व/ 13व मंिज़ल, शहीद भगत संह मागर्, फोटर्, मुंबई - 400001 टेलीफोन/ Tel No: 22661602, 22601000 फै क् स / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001 हंदी आसान है, इसका �योग बढ़ाइए

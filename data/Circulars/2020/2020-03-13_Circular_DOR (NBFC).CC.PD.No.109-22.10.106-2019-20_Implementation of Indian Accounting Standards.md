@@ -1,0 +1,120 @@
+---
+doc_id: "Circulars_2020_DOR_NBFC_CC_PD_No_109_22_10_106_2019-20"
+title: "Implementation of Indian Accounting Standards"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/Notification/PDFs/NOTI170F341D8DE49C04D4B8382D855A9858583.PDF"
+pdf_sha256: "94d61b60758bcf2c3bc5e9f7cbb4a64c5e250881f92faa3aa443aaff8d966eaa"
+md_sha256: "8461f6672415666b35ddd42c7baab6827d9c862eab1c4f6a51741a7587629a27"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:43:09Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-03-13_Circular_DOR%20%28NBFC%29.CC.PD.No.109-22.10.106-2019-20_Implementation%20of%20Indian%20Accounting%20Standards.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Indian Accounting Standards
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक **RESERVE BANK OF INDIA www.rbi.org.in**
+
+## RBI/2019-20/170
+
+**DOR (NBFC).CC.PD.No.109/22.10.106/2019-20** March 13, 2020 To Non-Banking Financial Companies and Asset Reconstruction Companies implementing Indian Accounting Standards
+
+Madam / Sir, **Implementation of Indian Accounting Standards**
+
+Non-Banking Financial Companies (NBFCs) covered by Rule 4 of the Companies (Indian Accounting Standards) Rules, 2015 are required to comply with Indian Accounting Standards (Ind AS) for the preparation of their financial statements. In order to promote a high quality and consistent implementation as well as facilitate comparison and better supervision, the Reserve Bank has framed regulatory guidance on Ind AS given in the <u>Annex</u> which will be applicable on Ind AS implementing NBFCs and Asset Reconstruction Companies (ARCs) for preparation of their financial statements from financial year 2019-20 onwards.
+
+# Withdrawn
+
+2. The annexed instructions and guidelines relate to specific prudential aspects of Ind AS implementation by NBFCs/ARCs and are not meant to provide a comprehensive commentary on the accounting standards or comprehensive technical interpretation of the standards, nor intended to cover all possible situations. Accordingly, with respect to matters not dealt with in the Annex, NBFCs/ARCs are required to refer to the notified accounting standards, application guidance, educational material and other clarifications issued by the Institute of Chartered Accountants of India (ICAI). Yours faithfully, -sd- (Manoranjan Mishra) Chief General Manager िविनयमन िवभाग (गैर-ब � कं ग िवीय कं पिनयां), क �ीय कायार्लय, 2री मंिज़ल, मुख्य कायार्लय भवन, शहीद भगत संह मागर्, फोट, मुंबई-400 001
+<u>टेलीफोन:+91-22-22709038, ईमेल:helpdnbr@rbi.org.in</u> nd
+
+|Department of Regulation (Non-Banking Financial Companies), Central Office, 2|||Floor, Main Office Building, Shahid Bhagat Singh|
+|---|---|---|---|
+|||Marg, Fort, Mumbai – 400 001||
+||Tel No:+91-22-22709038, Email :helpdnbr@rbi.org.in|हंदी आसान है इसका|�योग बढ़ाइए|
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Implementation of Indian Accounting Standards by
+
+## Non-Banking Financial Companies and Asset Reconstruction Companies¹
+
+The responsibility of preparing and ensuring fair presentation of the financial statements of a Non-Banking Financial Company (NBFC) / Asset Reconstruction Company (ARC) vests primarily with its Board of Directors. The Reserve Bank, expects a high quality implementation of Ind AS which will require detailed analysis, application of judgment and detailed documentation to support judgments. These guidelines focus on the need to ensure consistency in the application of the accounting standards in specific areas, including asset classification and provisioning, and provide clarifications on regulatory capital in the light of Ind AS implementation.
+
+## 1. Governance Framework
+
+(a) In view of the criticality of the nature of the business model in determining the classification of financial assets and restrictions on subsequent reclassification, NBFCs/ARCs are advised to put in place Board approved policies that clearly articulate and document their business models and portfolios. NBFCs/ARCs shall also articulate the objectives for managing each portfolio.
+(b) NBFCs/ARCs shall frame their policy for sales out of amortised cost business model portfolios and disclose the same in their notes to financial statements. Withdrawn
+(c) The Reserve Bank expects the Board of Directors to approve sound methodologies² for computation of Expected Credit Losses(ECL) that address policies, procedures and controls for assessing and measuring credit risk on all lending exposures, commensurate with the size, complexity and risk profile specific to the NBFC/ARC. The parameters and assumptions considered as well as their sensitivity to the ECL output should be documented. NBFCs/ARCs are advised to not make changes in the parameters, assumptions and other aspects of their ECL model for the purposes of profit smoothening. The rationale and 1 NBFCs/ARCs that are required to implement Ind AS in terms of Companies (Indian Accounting Standards) Rules, 2015 as amended from time to time 2 NBFCs/ARCs may draw reference to Guidance on Credit Risk and Accounting for Expected Credit Losses issued by Basel Committee on Banking Supervision (BCBS) in December 2015, which is structured around 11 principles out of which first eight principles deal with supervisory guidance and inter-alia cover Board/Senior Management’s responsibilities, adoption of sound methodologies for credit risk measurement, disclosure requirements etc.
+
+<!-- PAGE 3 -->
+
+justification for any change in the ECL model should be documented and approved by the Board. Similarly, any adjustments to the model output (i.e. a management overlay) should be approved by the Audit Committee of the Board (ACB) and its rationale and basis should be clearly documented.
+
+(d) Ind AS 109 does not explicitly define default³, but requires entities to define default in a manner consistent with that used for internal credit risk management. It is recommended that the definition of default adopted for accounting purposes is guided by the definition used for regulatory purposes. The ACB should approve the classification of accounts that are past due beyond 90 days but not treated as impaired, with the rationale for the same clearly documented. Further, the number of such accounts and the total amount outstanding and the overdue amounts should be disclosed in the notes to the financial statements.
+(e) Regardless of the way in which NBFC/ARC assesses significant increase in credit risk, there is a rebuttable presumption under Ind AS 109 that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due. Ind AS 109 also permits that an NBFC/ARC can rebut this presumption if it has reasonable and supportable information that demonstrates that the credit risk has not increased significantly since initial recognition even though the contractual payments are
+# Withdrawn
+
+more than 30 days past due. NBFCs/ARCs should educate their customers on the need to make payments in a timely manner. However, in limited circumstances, where NBFCs/ARCs do rebut the presumption, it should be done only with clear documentation of the justification for doing so. All such cases shall be placed before the ACB. NBFCs/ARCs shall not defer the recognition of significant increase in credit risk for any exposure that is overdue beyond 60 days.
+
+*3* Para B5.5.37 of Ind AS 109 states that “…an entity shall apply a default definition that is consistent with the definition used for internal credit risk management purposes for the relevant financial instrument and consider qualitative indicators (for example, financial covenants) when appropriate. However, there is a rebuttable presumption that default does not occur later than when a financial asset is 90 days past due unless an entity has reasonable and supportable information to demonstrate that a more lagging default criterion is more appropriate. The definition of default used for these purposes shall be applied consistently to all financial instruments unless information becomes available that demonstrates that another default definition is more appropriate for a particular financial instrument.”
+
+<!-- PAGE 4 -->
+
+## 2. Prudential Floor for ECL
+
+(a) NBFCs/ ARCs shall hold impairment allowances as required by Ind AS. In parallel NBFCs/ARCs shall also maintain the asset classification and compute provisions as per extant prudential norms on Income Recognition, Asset Classification and Provisioning (IRACP) including borrower/beneficiary wise classification, provisioning for standard as well as restructured assets, NPA ageing, etc. A comparison (as per the template in <u>Appendix</u>) between provisions required under IRACP and impairment allowances made under Ind AS 109 should be disclosed by NBFCs/ARCs in the notes to their financial statements to provide a benchmark to their Boards, RBI supervisors and other stakeholders, on the adequacy of provisioning for credit losses.
+(b) Where impairment allowance under Ind AS 109 is lower than the provisioning required under IRACP (including standard asset provisioning), NBFCs/ARCs shall appropriate the difference from their net profit or loss after tax to a separate ‘Impairment Reserve’. The balance in the ‘Impairment Reserve’ shall not be reckoned for regulatory capital. Further, no withdrawals shall be permitted from this reserve without prior permission from the Department of Supervision, RBI.
+(c) The requirement for ‘Impairment Reserve’ shall be reviewed, going forward.
+# Withdrawn
+
+## 3. Computation of Regulatory Capital and Regulatory Ratios
+
+(a) In determining ‘owned funds’, ‘net owned funds’ and ‘regulatory capital’, NBFCs and ARCs shall be guided by the following:
+i) Any net unrealised gains arising on fair valuation of financial instruments, including such gains arising on transition to Ind AS, should not be included in owned funds whereas all such net losses should be considered. In determining the net unrealised gains for reduction from owned funds, NBFCs should categorise financial assets measured at fair value into two categories viz.
+A. Investments in shares of other NBFCs and in shares, debentures, bonds, etc. in Group companies that are required to be reduced while determining Tier I Capital as defined in paragraph 2(xxxii) of the Non- Banking Financial Company-Systemically Important Non-Deposit taking
+-3-
+
+<!-- PAGE 5 -->
+
+Company and Deposit taking Company (Reserve Bank) Directions, 2016; and
+
+B. Others While netting may be done within the aforementioned categories, net gains from one category should not be offset against losses in the other category.
+ii) Any unrealised gains or losses recognised in equity due to (a) own credit risk and (b) cash flow hedge reserve shall be derecognised while determining owned funds. iii) Since unrealised gains on category A have been excluded in computation of owned fund, NBFCs shall reduce the lower of acquisition cost or fair value of investments/advances in subsidiaries/other group companies and other NBFCs while determining Tier I capital as specified in paragraph 2(xxxii) of the aforementioned Master Directions. Net unrealised gains on Category B (i.e. ‘Others’) to the extent they have been excluded in regulatory capital, shall also be reduced from risk weighted assets. iv) ARCs shall apply the guidelines specified in sub-paragraph (i) to (iii) above *mutatis mutandis* while determining net owned funds.
+
+v) Where NBFCs/ARCs use fair value as deemed cost at the date of transitionWithdrawn with respect to Property, Plant and Equipment (PPE) in terms of Ind AS 101, and the difference between the deemed cost and the current carrying cost is adjusted directly in retained earnings, any fair value gains upon such transition shall be reckoned as Tier II capital for NBFCs/ net owned funds for ARCs at a discount of 55 percent. vi) 12 month expected credit loss (ECL) allowances for financial instruments i.e. where the credit risk has not increased significantly since initial recognition, shall be included under general provisions and loss reserves in Tier II capital within the limits specified by extant regulations. Lifetime ECL shall not be reckoned for regulatory capital (numerator) while it shall be reduced from the risk weighted assets. vii) Securitised assets not qualifying for de-recognition under Ind AS due to credit enhancement given by the originating NBFC on such assets shall be risk
+-4-
+
+<!-- PAGE 6 -->
+
+weighted at zero percent. However, the NBFC shall reduce 50 per cent of the amount of credit enhancement given from Tier I capital and the balance from Tier II capital.
+
+(b) Regulatory ratios, limits and disclosures shall be based on Ind AS figures. Impaired assets and restructured assets shall be considered as non-performing assets (NPA) for calculation of NPA ratios.
+# Withdrawn
+
+<!-- PAGE 7 -->
+
+## Appendix
+
+||||||||||||||||||Template for Disclosure in Notes to Financial Statements||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||||||||||||||||||||||||||||||||||||Loss||||||||||||||||||||||||||||||||||Difference||||||||||
+||Standard Subtotal||Asset Classification as per|||Performing Assets||RBI Norms|||(1)||||||||||||||classifica|tion as per Ind AS 109 Stage 1 Stage 2|Asset|(2)|||||||Amount as per Ind AS|Carrying|Gross|(3)||||||||under Ind AS|Allowances (Provisions) as required|||109 (4)||||||||Net Carrying||Amount (5)=(3)-(4)|||||||||||Provisions required as per IRACP||norms|(6)|||||||||between Ind provisions and IRACP (7) = (4)-(6)||AS 109 norms||||||||
+||Non-Performing Assets (NPA)||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Substandard|||||||||||||||||||||||||Stage 3|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Doubtful-up to 1 year 1 to 3 years|||||||||||||||||||||||||Stage 3 Stage 3|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||More than 3 years|||||||||||||||||||||||||Stage 3|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Subtotal for doubtful||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Loss|||||||||||||||||||||||||Stage 3|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Subtotal for NPA Other items such as guarantees, loan commitments, etc. which are in the scope of Ind AS 109 but not covered under current Income|||||||||||||||||||||||||Stage 1 Stage 2||||||||||||||Withdrawn|||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Recognition, Asset Classification and Provisioning (IRACP) norms Subtotal|||||||||||||||||||||||||Stage 3 Stage 1 Stage 2|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||Total|||||||||||||||||||||||||Stage 3|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||Total||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

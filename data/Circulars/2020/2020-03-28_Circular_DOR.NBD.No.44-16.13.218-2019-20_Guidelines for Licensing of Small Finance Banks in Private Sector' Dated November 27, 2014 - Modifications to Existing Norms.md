@@ -1,0 +1,39 @@
+---
+doc_id: "Circulars_2020_DOR_NBD_No_44_16_13_218_2019-20"
+title: "Guidelines for Licensing of Small Finance Banks in Private Sector' Dated November 27, 2014 - Modifications to Existing Norms"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT196F0C07E85E99849839CF6E370BC3D99BF.PDF"
+pdf_sha256: "52be769df5c69f8a927a60a263ae248f3c48a81a963ead868ed3c8a865ddfcdc"
+md_sha256: "98736ad28128afdf9e4960024e42ab32e263cfbc1f88203baf5f0c6ac262adfd"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:43:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-03-28_Circular_DOR.NBD.No.44-16.13.218-2019-20_Guidelines%20for%20Licensing%20of%20Small%20Finance%20Banks%20in%20Private%20Sector%27%20Dated%20November%2027%2C%202014%20-%20Modifications%20to%20Existing%20Norms.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines for Licensing of Small Finance Banks in Private Sector' Dated November 27, 2014 - Modifications to Existing Norms
+
+<!-- PAGE 1 -->
+
+RBI/2019-20/196 DOR.NBD.No.44/16.13.218/2019-20 March 28, 2020
+
+Managing Director and Chief Executive Officers of Small Finance Banks
+
+Madam / Dear Sir, **‘Guidelines for Licensing of Small Finance Banks in Private Sector’ dated November** **27, 2014 – Modifications to existing norms** Please refer to the ‘<u>Guidelines for Licensing of Small Finance Banks in Private Sector’ dated</u> <u>November 27, 2014</u> under which licenses were issued to 10 Small Finance Banks (SFBs) and the ‘<u>Guidelines for ‘on-tap’ Licensing of Small Finance Banks in Private Sector’ released</u> <u>by Reserve Bank on December 5, 2019</u>.
+
+2. To harmonise the instructions for existing SFBs with those SFBs to be licensed under ‘Guidelines for ‘on-tap’ Licensing’, it has been decided to:
+a) Grant general permission to all existing SFBs to open banking outlets subject to adherence to Unbanked Rural Centre norms as per RBI <u>circular on ‘Rationalisation</u> <u>of Branch Authorisation PolicyWithdrawn - Revision of Guidelines’ dated May 18, 2017</u>, as amended from time to time.
+b) Exempt all existing SFBs from seeking prior approval of Reserve Bank for undertaking such non risk sharing simple financial service activities, which do not require any commitment of own fund, after three years of commencement of business of SFB.
+3. Further, in case of existing SFBs, it is clarified that -
+a) Whether a promoter could cease to be a promoter or could exit from the bank after completion of a period of five years, would depend on the RBI’s regulatory and supervisory comfort / discomfort and SEBI regulations in this regard at that time (Reference: Response to query number 101 of <u>‘Clarifications to queries on</u> <u>guidelines for licensing of Small Finance Banks in the Private Sector’</u> dated January 1, 2015).
+िविनयमन िवभाग, क � ी य कायार्लय, क � ी य कायार्लय भवन, शहीद भगत सह मागर्, मुंबई - 400001 Department of Regulation, Central Office, 13th floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai – 400 001 टेलीफोन /Tel No: 91-22-22601000 फै क् स /Fax No: 91-22-2270 1240 Email ID: cgmicdbr@rbi.org.in
+
+<!-- PAGE 2 -->
+
+b) The phrase ‘paid-up equity capital’ in ‘Guidelines for Licensing of SFBs in Private Sector - 2014’ means ‘paid-up voting equity capital’ (Reference: Response to query number 104 of <u>‘Clarifications to queries on guidelines for licensing of Small Finance</u> <u>Banks in the Private Sector’</u> dated January 1, 2015).
+4. The provisions of this circular shall come into force with immediate effect. Yours faithfully, (Shrimohan Yadav) Chief General Manager
+# Withdrawn

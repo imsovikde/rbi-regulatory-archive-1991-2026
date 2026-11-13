@@ -1,0 +1,58 @@
+---
+doc_id: "Circulars_2020_DOR_No_Ret_BC_53_12_01_001_2019-20"
+title: "Change in Bank Rate"
+category: "Circulars"
+year: 2020
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT19089EDCCF4DC674B7AB80F979AA01E4989.PDF"
+pdf_sha256: "8e7637e086fa0dc6a4b99c20bcc30a7bf82a5ebfa1c1f54b282af99d192ff8bd"
+md_sha256: "478c22d4e1a5c15db927ae08a7fa71c9400fdfa8eac4754acbe2b767c586986b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:43:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2020/2020-03-27_Circular_DOR.No.Ret.BC.53-12.01.001-2019-20_Change%20in%20Bank%20Rate.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Change in Bank Rate
+
+<!-- PAGE 1 -->
+
+भारतीय �रज़वर् बक
+
+## _____________ RESERVE BANK OF INDIA______________
+
+**www.rbi.org.in** RBI/2019-20/190 DOR.No.Ret.BC.53/12.01.001/2019-20 March 27, 2020
+
+### All Scheduled and Non Scheduled Banks
+
+Dear Sir / Madam <u>Change in Bank Rate</u>
+
+Please refer to our circular <u>DBR.No.Ret.BC.19/12.01.001/2019-20 dated October</u> <u>04, 2019</u>, on the captioned subject.
+
+2. As announced in the <u>Seventh Bi-Monthly Monetary Policy Statement 2019-20 of</u> <u>March 27, 2020</u>, the Bank Rate is revised downwards by 75 basis points from 5.40 per cent to 4.65 per cent with immediate effect.
+3. All penal interest rates on shortfall in reserve requirements, which are specifically linked to the Bank Rate, also stand revised as indicated in the <u>Annex</u>**.** Yours faithfully,
+# Withdrawn
+
+(Dr. S.K.Kar) Chief General Manager **Encl. : As above**
+
+<u>बकं ग व�नयमन वभाग, कद्रय कायार्लय, 5वीं मंिजल, अमर भवन, सर पी एम रोड, 400001</u> **th** **Department of Banking Regulation, Central Office, 5 floor, Amar Building, Sir P.M. Road, Mumbai-400001** टेलफोन**/Tel No:022-22603000 Email ID:** <u>returnsco@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+## <u>Annex</u>
+
+## Penal Interest Rates which are linked to the Bank Rate
+
+## Item Existing Rate Revised Rate
+
+**(With immediate effect)**
+
+||Penal interest rates on Bank Rate plus 3.0 Bank Rate plus 3.0 percentage||
+|---|---|---|
+||shortfalls in reserve percentage points (8.40|points (7.65 per cent) or Bank|
+|requirements|(depending on duration plus 5.0 percentage|per cent) or Bank Rate Rate plus 5.0 percentage points (9.65 per cent).|
+|of shortfalls).|points (10.40 per cent).||
+
+# Withdrawn
