@@ -1,0 +1,40 @@
+---
+doc_id: "Press-Releases_2009_705"
+title: "Issue of Rs.50/- denomination banknotes with L Inset letter in both numbering panels in Mahatma Gandhi Series – 2005 bearing the signature of Dr. D. Subbarao, Governor"
+category: "Press-Releases"
+year: 2009
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/EPR724IOB.pdf"
+pdf_sha256: "e4b8d2ad08ecd558f21444a86089f73e044241b60636181b26df1b3fa435686d"
+md_sha256: "1ef58a621a09b36bc0af996838deb5a66db785e5f7e353316f0ad12c5dbbd47c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T17:34:39Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2009/2009-11-17_Press-Release_705_Issue%20of%20Rs.50--%20denomination%20banknotes%20with%20L%20Inset%20letter%20in%20both%20numbering%20panels%20in%20Mahatma%20Gandhi%20Series%20%E2%80%93%202005%20bearing%20the%20signature%20of%20Dr.%20D.%20Subbarao%2C%20Governor.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Issue of Rs.50/- denomination banknotes with L Inset letter in both numbering panels in Mahatma Gandhi Series – 2005 bearing the signature of Dr. D. Subbarao, Governor
+
+<!-- PAGE 1 -->
+
+## he´sme he´keÀeMeôer PRESS RELEASE·
+
+# Yeejler³e fjeJeõ yeQkeÀ
+
+## RESERVE BANK OF INDIA
+
+meb®eej fJeYeeäe, keWÀêr³e keÀe³eeõue³e, Sme.yer.Sme.ceeäeõ, cegbyeFõ 400001<u>JesyemeeFì : www.rbi.org.in/hindi</u> ________________________________________________________________________________________________________ <u>Website : www.rbi.org.in</u> **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S. Marg, Mumbai 400001 F-cesue email: <u>helpdoc@rbi.org.in</u> HeÀesôe/Phone: 91 22 2266 0502 HewÀkeÌme/Fax: 91 22 2270 3279
+
+## November 17, 2009
+
+**Issue of Rs.50/- denomination banknotes with 'L' Inset letter in both numbering panels in Mahatma Gandhi Series – 2005**
+
+## bearing the signature of Dr. D. Subbarao, Governor
+
+The Reserve Bank of India will shortly issue Rs.50/- denomination banknotes with 'L' inset letter in both numbering panels in Mahatma Gandhi Series – 2005 bearing the signature of Dr. D. Subbarao, Governor. Except for the change in the inset letter, the design of these notes to be issued now is similar in all respects to the banknotes in Mahatma Gandhi Series – 2005, with additional / new security features issued on August 24, 2005. All banknotes in the denomination of Rs.50/- issued by the Bank in the past will continue to be legal tender.
+
+## Ajit Prasad
+
+**Press Release** : **2009-2010/724** Manager
