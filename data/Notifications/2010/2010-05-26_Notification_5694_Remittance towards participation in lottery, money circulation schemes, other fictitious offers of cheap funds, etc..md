@@ -1,0 +1,221 @@
+---
+doc_id: "Notifications_2010_5694"
+title: "Remittance towards participation in lottery, money circulation schemes, other fictitious offers of cheap funds, etc."
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APR54260510.PDF"
+pdf_sha256: "07b60147b05ddaffde416aa21570d7bb125d23832a40688908d746d09f8e7809"
+md_sha256: "da73ec527373b92feb74f80a34f1b30f38eeefdeecb9d9830e0ca0c05d52f13c"
+total_pages: 4
+native_pages: 2
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:09:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-05-26_Notification_5694_Remittance%20towards%20participation%20in%20lottery%2C%20money%20circulation%20schemes%2C%20other%20fictitious%20offers%20of%20cheap%20funds%2C%20etc..pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Remittance towards participation in lottery, money circulation schemes, other fictitious offers of cheap funds, etc.
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2009-10/ 474
+
+## A.P. (DIR Series) Circular No.54 May 26, 2010
+
+To
+
+All Authorised Dealer Category – I Banks
+
+Madam / Sir,
+
+## Remittance towards participation in lottery, money circulation schemes, other fictitious offers of cheap funds, etc.
+
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to the A.P. (DIR Series) Circular No. 22 dated December 7, 2000, A.P. (DIR Series) Circular No. 02 dated July 27, 2001 and A.P. (DIR Series) Circular No. 49 dated June 4, 2002 in terms of which it was advised that remittance <u>in any form</u> towards participation in lottery schemes are prohibited under the Foreign Exchange Management Act, 1999. Further, these restrictions are also applicable to remittances for participation in lottery like schemes existing under different names like money circulation scheme or remittances for the purpose of securing prize money/awards, etc.
+
+2. It is observed that there has been a spate of fictitious offers of cheap funds in recent times from the fraudsters through letters, e-mails, mobile phones, SMS, etc. Communications on fake letterheads of the Reserve Bank and purportedly signed by its top executives / senior officials are also being sent to targetted people. Many residents have been victims of such teasing offers and lost huge money in the process. The Reserve Bank has already alerted the public on several occasions about such fictitious schemes/ offers, through the print and the electronic media and more such public education campaigns are being planned.
+3. It has been brought to the notice of the Reserve Bank that fraudsters are seeking money from the gullible people, under different heads, such as, processing fees/ transaction fees / tax clearance charges / conversion charges, clearing fees, etc. The victims of the fraud have also been persuaded to deposit
+
+<!-- PAGE 2 -->
+
+the amount in accounts with banks in India, and such amounts have been withdrawn immediately. It is also observed that multiple accounts are being opened in the name of individuals or proprietary concerns, at different bank branches for collecting the transaction charges, etc. AD Category-I banks are, therefore, advised to exercise due caution and to be extra vigilant while opening or allowing transactions in such accounts. It is clarified that any person resident in India collecting and effecting / remitting such payments directly /indirectly outside India would make himself/ herself liable to be proceeded against with, for contravention of the Foreign Exchange Management Act, 1999 besides being liable for violation of regulations relating to Know Your Customer (KYC) norms / Anti Money Laundering (AML) standards.
+
+4. AD Category-I banks may also bring the contents of this circular to the notice of their constituents and customers concerned. Authorised Dealers may also give wide publicity to the instructions contained in the A.P. (DIR Series) Circulars referred to above and the Press Releases issued by the Reserve Bank of India dated December 07, 2007 and July 30, 2009 on Fictitious Offers/Lottery Winnings/Cheap Fund Offers (copies enclosed).
+5. The directions contained in this circular have been issued under sections 10(4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999).
+Yours faithfully, **(Salim Gangadharan)**
+
+## Chief General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+HUChTSTTPRESS RELEASE
+
+RESERVEBANKOFINDIA
+
+4aR fH,qq, ...f, g 400001
+
+daasz : www.rbi.org.in/hindi
+
+DEPARTMENTOFCOMMUNICATION,CentralOffice,S.B.S.Marg,Mumbai400001
+
+Website : www.rbi.org.in
+
+a/Phone: 9122 2266 0502 a/Fax:91 22 2270 3279
+
+- email:helpdoc@rbi.org.in
+
+July 30, 2009
+
+Beware of Fictitious Offers/Lottery Winnings/Cheap Fund Offers: RBI
+
+The Reserve Bank of India has, today once again clarified that remittance in any
+
+form towards participation in lottery schemes is prohibited under the Foreign Exchange
+
+Management Act, 1999. Further, these restrictions are applicable also to remittances
+
+for participation in lottery-like schemes functioning under different names, such as,
+
+awards, etc. The Reserve Bank has clarified that it neither maintains any account in the
+
+name of individuals / companies / trusts in India to hold funds for disbursal nor does it
+
+allow individuals to open an account to deposit money with the Reserve Bank. It also
+
+does not issue any certificates or advices or confirmations, evidencing receipt and
+
+holding of money in these accounts.
+
+The Reserve Bank has advised the public not to remit or deposit money in such
+
+accounts in response to fictitious offers/representations. The public may immediately
+
+bring the details of such offers to the notice of local police authorities for booking the
+
+culprits.
+
+The Reserve Bank advice came in the wake of many residents falling prey to
+
+such tempting offers and losing money in the recent past.
+
+The Reserve Bank of India has, on several occasions in the past, cautioned the
+
+members of public not to fall prey tofictitious offers / lottery winnings / remittance of
+
+cheap funds in foreign currency from abroad by certain foreign entities / individuals,
+
+including Indian residents acting as representatives of such entities / individuals. These
+
+offers are generally made through letters, e-mails, mobile phones, SMSs, etc.
+
+The Reserve Bank of India has stated that in addition to the typical modalities
+
+adopted in the past, the fraudsters have now resorted to issuing certificates, letters,
+
+circulars,etc.，onletterheadthatlookslikethatoftheReserveBankofIndia'sand
+
+The fraudsters also convince the victims by impersonating as senior officials of the
+
+Reserve Bank with telephone numbers and/or fictitious e-mail IDs. Many fraudsters
+
+these accounts towards various charges, taxes, duties, etc. Once the money is
+
+deposited in their account, people mailing such offers withdraw the money and then
+
+vanish. The victim thus loses the money already paid.
+
+Reserve Bank's website (www.rbi.org.in) for details.
+
+AlpanaKillawala
+
+PressRelease:2009-2010/168
+
+Chief General Manager
+
+<!-- PAGE 4 -->
+
+UHYChTQTTPRESSRELEASE
+
+406400001
+
+RESERVE BANK OFINDIA
+
+：2266 0502a：2266 0358,2270 3279
+
+www.rbi.org.in
+
+www.rbi.org.in\hindi
+
+PRESS RELATIONS DIVISION,Central Office,Post Box 406,Mumbai 400001
+
+e-mail: helpprd@rbi.org.in
+
+Phone:2266 0502Fax:2266 0358，22703279
+
+December7,2007
+
+RBI cautions Public against Fictitious Offers of
+
+RemittingCheapFundsfromAbroad
+
+fictitious offers for release of cheap funds claimed to have been remitted by overseas
+
+entitiestobanksinIndia/ReserveBankofIndia.Membersofpublicshouldalsonot
+
+make any remittance towards participation in such schemes/offers from unknown
+
+entities.
+
+Describing the typical modality of such offers, the Reserve Bank of India
+
+stated thatcertainforeignentities/individuals,includingIndianresidentsactingas
+
+representatives of such entities / individuals, make offers through letters / emails,
+
+etc., of huge money in foreign currency to resident individuals / entities (including
+
+schools / hospitals), on the pretext of helping them in their business / ventures in
+
+details of bank account of the Individuals / Indian entity and asking some amount to
+
+beremittedtothemasinitialdeposit/commissionsothattheoffermoneycouldbe
+
+transferred. Likewise,references have been also received in the Reserve Bank in
+
+for effecting remittances in foreign currency towards commission / fees for receiving
+
+prizes won in overseas lotteryschemesetc.It has alsocome tothe noticeof the
+
+Reserve Bank that certain overseas organisations have been advising individuals /
+
+be released after approval from the ReserveBank.To substantiate their claims,even
+
+copies of certificate / deposit receipts purported to have been issued by the Reserve
+
+Bank are produced by such operators.
+
+The Reserve Bank of India has today clarified that remittance in any form
+
+for participation in lottery-like schemes functioning under different names, such as,
+
+money circulation scheme or remittances for the purpose of securing prize money /
+
+awards, etc. The Reserve Bank of India has further clarified that it does not maintain
+
+any account in the name of individuals / companies / trusts in India to hold funds for
+
+disbursal.
+
+G. Raghuraj
+
+PressRelease:2007-2008/770
+
+DeputyGeneral Manager

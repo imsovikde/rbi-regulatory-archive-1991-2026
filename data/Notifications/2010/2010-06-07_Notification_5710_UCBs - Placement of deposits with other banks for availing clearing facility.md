@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2010_5710"
+title: "UCBs - Placement of deposits with other banks for availing clearing facility"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PDOBP070610.pdf"
+pdf_sha256: "8a45327c5b04fbf1020721080a6ab8f6401a01dc964b68f0c7e54bdb4709d260"
+md_sha256: "5d11879c35f5608f0c2bc079c3d41a93308888663e91e6169a84e88f0028436a"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:10:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-06-07_Notification_5710_UCBs%20-%20Placement%20of%20deposits%20with%20other%20banks%20for%20availing%20clearing%20facility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - Placement of deposits with other banks for availing clearing facility
+
+<!-- PAGE 1 -->
+
+## ___________________RESERVE BANK OF INDIA______________ <u>www.rbi.org.in</u>
+
+RBI/2009-2010/485 UBD.CO.BSD/PCB. Cir./ 68 /12.22.351/2009-10 June 7, 2010
+
+The Chief Executive Officers of All Primary (Urban) Co-operative Banks **Placement of deposits with other banks by Primary** **(Urban) Co-operative Banks (UCBs) for availing clearing facility** Please refer to our circular No. <u>UBD. (PCB). BPD. Cir. No. 47/16.20.000/2008-09</u> dated January 30, 2009 on the captioned subject. The prudential interbank (gross) exposure limit and inter-bank counter party limit for placing deposits with other banks by UCBs for all purposes including for availing clearing facility was prescribed.
+
+2. Further in terms of para 12.3.5 of Master Circular dated July 1, 2009 UCBs were advised to formulate a policy taking into account their funds position, liquidity and other needs for placement of deposits with other banks, the cost of funds, expected rate of return and interest margin on such deposits, the counter party risk, etc. and place it before their Board of Directors. It was further advised that the Board should review the position at least at half yearly intervals.
+3. It has been observed that the smaller non-scheduled UCBs are keeping current account / minimum required balance for clearing purpose with relatively larger non- scheduled bank for sub member clearing arrangements. It is possible that the financial position of the non-scheduled UCB, with whom such deposits are kept, could take a hit due to unexpected downturn in its business and which could have a effect on the financial position of the depositing bank and its business. In view of this non-scheduled
+**Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018** <u>Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0231, Email: rbiubdco@rbi.org.in</u>
+
+<!-- PAGE 2 -->
+
+UCBs, which have exposures to other non-scheduled UCBs on account of clearing arrangements, are advised to review their exposures to such banks periodically based on their published balance sheet and Profit and Loss account statements.
+
+Yours faithfully,
+
+(P. K. Arora) General Manager
+
+**Urban Banks Department, Central Office, 1 Floor, Garment House, Worli, Mumbai - 400 018** <u>Phone: 022 - 2493 9930 - 49, Fax: 022 - 2497 4030 / 2492 0231, Email: rbiubdco@rbi.org.in</u>

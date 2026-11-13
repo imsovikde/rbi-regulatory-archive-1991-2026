@@ -1,0 +1,68 @@
+---
+doc_id: "Notifications_2010_5732"
+title: "Credit Flow to Agriculture – Agricultural Loans – Waiver of Margin/Security Requirements"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BCI85180610.pdf"
+pdf_sha256: "1fb430c5fd7752148701eea298ee619fbe9530408f5a840e3fc065bf9e9b5c1c"
+md_sha256: "a6128bf24f21a7e642fff9e7d723e0b36f82a7535c95eabb4dd4a9a4f3ffc43f"
+total_pages: 1
+native_pages: 0
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:10:42Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-06-18_Notification_5732_Credit%20Flow%20to%20Agriculture%20%E2%80%93%20Agricultural%20Loans%20%E2%80%93%20Waiver%20of%20Margin-Security%20Requirements.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit Flow to Agriculture – Agricultural Loans – Waiver of Margin/Security Requirements
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/499
+
+RPCD.PLFS.BC.No.85/05.04.02/2009-10
+
+June 18,2010
+
+The Chairman /Managing Director/ Chief Executive Officer
+
+All Scheduled Commercial Banks (including RRBs) and Local Area Banks
+
+Dear Sir,
+
+CreditFlow toAgriculture-Agricultural Loans-Waiver of Margin/Security
+
+Requirements
+
+Please refer to our circular RPCD.Plan.BC. No. 87/04.09.01/2003-04 dated May 18, 2004
+
+on the captioned subject.
+
+2. On the basis of representations received seeking enhancement of limits, it has been
+
+decided that banks may waive margin/security requirements for agricultural loans from the
+
+existing level of Rs. 50,000/- to Rs. 1,00,000/- with immediate effect. Para 3 of our above
+
+circular, therefore, stands suitably modified.
+
+3. All other conditions of the above circular remain unchanged.
+
+offices/branches to implement the same immediately.
+
+5. Please acknowledge receipt.
+
+Yours faithfully,
+
+(B.P.Vijayendra)
+
+Chief General Manager
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, post box no. 10014
+
+Mumbai-400 01

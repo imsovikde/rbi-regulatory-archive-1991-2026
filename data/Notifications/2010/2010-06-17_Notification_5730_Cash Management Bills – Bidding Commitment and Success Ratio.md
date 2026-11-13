@@ -1,0 +1,35 @@
+---
+doc_id: "Notifications_2010_5730"
+title: "Cash Management Bills – Bidding Commitment and Success Ratio"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CMBB170610.pdf"
+pdf_sha256: "36d8ff0673c30bb4a51113906faa41f9b5bb99fc97f458e5100c5647b760d395"
+md_sha256: "1fe39682794db9da03f349d348d8663bd1fcf59744b0b3e93d0d2435e17a892c"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:10:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-06-17_Notification_5730_Cash%20Management%20Bills%20%E2%80%93%20Bidding%20Commitment%20and%20Success%20Ratio.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Cash Management Bills – Bidding Commitment and Success Ratio
+
+<!-- PAGE 1 -->
+
+RBI/2009-10/497 IDMD.PDRD.No. 5573 / 03.64.00 / 2009-10 June 17, 2010
+
+## All Primary Dealers
+
+## Dear Sir
+
+## Cash Management Bills – Bidding Commitment and Success Ratio
+
+Please refer to the Press Release dated August 10, 2009 on issuance of Government of India Cash Management Bills (CMBs), wherein, it has been stated that the Government of India, in consultation with the Reserve Bank of India, has decided to issue a new short-term instrument, known as Cash Management Bills, to meet the temporary cash flow mismatches of the Government. The CMBs will be non-standard, discounted instruments issued for maturities less than 91 days. Further, it has been stated that the CMBs will have the generic character of Treasury Bills.
+
+2. As the PDs are expected to support the primary issuances of Government of India, it has been decided that the PDs shall bid in each auction of CMBs as per the bidding commitment submitted by the PDs for Treasury Bill auctions. Further, the success in Cash Management Bills auctions will be taken into account while calculating minimum success ratio of 40 per cent for Treasury Bills for each half year. The CMBs transactions may be reported in PDR returns along with the T-Bills transactions.
+## Yours faithfully
+
+(K.K.Vohra) Chief General Manager
