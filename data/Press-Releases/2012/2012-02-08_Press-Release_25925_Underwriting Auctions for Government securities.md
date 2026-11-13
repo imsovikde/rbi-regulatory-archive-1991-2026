@@ -1,0 +1,54 @@
+---
+doc_id: "Press-Releases_2012_25925"
+title: "Underwriting Auctions for Government securities"
+category: "Press-Releases"
+year: 2012
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR1269U0212.pdf"
+pdf_sha256: "44815265de93712033be4e74944d704220313fe85c74f5448de07c90a2f11cb1"
+md_sha256: "db8cd730717fe7a94f43a70f9d4a07e85b7e47a334f2dc9c27ae4a0900527321"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T17:56:53Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-02-08_Press-Release_25925_Underwriting%20Auctions%20for%20Government%20securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Underwriting Auctions for Government securities
+
+<!-- PAGE 1 -->
+
+## ूेस ूकाशनी PRESS RELEASE
+
+# भारतीय रज़व बक
+
+## RESERVE BANK OF INDIA
+
+संचार वभाग**,** क िय कायालय, एस.बी.एस.माग, मुंबई‐ 400001 वेबसाइट : www.rbi.org.in/hindi _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai‐400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै स/Fax: 91 22 22660358 इ‐मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+## February 8, 2012
+
+## Underwriting Auctions for Government securities
+
+The Government of India have announced the sale (reissue) of (i) "8.19 per cent Government Stock 2020 **”** for a notified amount of `3,000 crore (nominal), (ii) "9.15 per cent Government Stock 2024**”** for a notified amount of `6,000 crore (nominal) and (iii) "8.97 per cent Government Stock 2030**”** for a notified amount of `3,000 crore (nominal) through auctions to be held on February 10, 2012.
+
+As per revised scheme of underwriting, dated November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) for the underwriting auctions, per Primary Dealer, are as under:
+
+(` in crore) **Minimum**
+
+|Nomenclature of the|Notified|MUC amount per||commitment bidding|
+|---|---|---|---|---|
+||Amount|Primary Dealer||per PD under ACU auction|
+|8.19 per cent GS 2020|3000||72|72|
+|9.15 per cent GS 2024|6000||143|143|
+|8.97 per cent GS 2030|3000||72|72|
+
+## Security
+
+The underwriting auctions will be conducted using multiple price based auction method on February 9, 2012. Primary Dealers (PDs) may submit their bids for ACU auctions electronically through Negotiated Dealing System (NDS) between
+
+10.30 a.m. and 12.30 p.m. on the date of auction. The underwriting commission will be credited to the current account of the respective PDs at the RBI, Fort, Mumbai on the date of issue of securities.
+## Ajit Prasad
+
+**Press Release : 2011-2012/1269** Assistant General Manager
