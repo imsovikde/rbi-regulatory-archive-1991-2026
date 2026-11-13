@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2009_5051"
+title: "Frauds in borrowal accounts having multiple banking arrangements"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DBSBC240609.pdf"
+pdf_sha256: "8be7e7c169ecb5b0e485f448863ea8c57eb479444e365f5e807c3bc454e9099b"
+md_sha256: "8db1b8bb7010529b18c8cc0a3ab4a47e408ac55f3163e3d7101c8fd9416e57cb"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-06-24_Notification_5051_Frauds%20in%20borrowal%20accounts%20having%20multiple%20banking%20arrangements.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Frauds in borrowal accounts having multiple banking arrangements
+
+<!-- PAGE 1 -->
+
+# ¸¸£·¸ú¡¸ ¹£{¸¨¸Ä ÎˆÅ
+
+## <u>________________ _</u>RESERVE BANK OF INDIA<u>_________________</u>
+
+<u>www.rbi.org.in</u> RBI/2008-09/508 DBS CO.FrMC BC No 8 /23.04.001/2008-09 June 24, 2009
+
+The Chairman / Chief Executives of All Scheduled Commercial Banks (excluding RRBs)
+
+Dear Sir,
+
+## <u>Frauds in borrowal accounts having multiple banking arrangements</u>
+
+It has come to our notice that certain unscrupulous borrowers enjoying credit facilities under "multiple banking arrangement" have, after defrauding one of the financing banks, continued to enjoy the facilities with other financing banks and in some cases availed even higher limits at those banks. In certain cases the borrowers used the accounts maintained at other financing banks to siphon off funds fraudulently diverted from the bank on which the fraud was perpetrated. This could be possible due to lack of a formal arrangement for exchange of information among various lending banks. While the affected bank was engaged in recovery / criminal action at its end, the borrowers went about perpetrating fraud in their accounts with the other financing banks. In some of the fraud cases reported by banks, it was revealed at a later stage that the securities offered by the borrowers to different banks were the same.
+
+2. In this connection, we invite your attention to circular <u>DBOD No BP BC 46 /</u>
+<u>08.12.001/2008-09</u> dated September 19, 2008 issued by our Department of Banking Operations and Development (DBOD) advising banks to strengthen the sharing of information about the status of borrowers enjoying credit facilities under multiple banking arrangement. The circular prescribes a system of
+
+<!-- PAGE 2 -->
+
+obtaining declaration from borrowers, exchange of information among banks on regular intervals and obtaining regular certification by a professional regarding compliance of various statutory prescriptions. Therefore, as part of ongoing compliance with the instructions contained in the above circular, the banks which have financed a borrower under multiple banking arrangement are also required to exchange information on multilateral basis regarding incidents of fraud, legal actions taken and covert activities / operations of the borrower after the fraud, etc.
+
+3. Therefore, it is imperative on the part of banks to have a consolidated view of frauds committed by a borrower on different banks so as to ascertain the quantum of frauds, loss caused by the frauds, perceived ramifications thereof etc. As such, all the banks which have financed a borrower under 'multiple banking' arrangement should take co-ordinated action, based on commonly agreed strategy, for legal / criminal actions, follow up for recovery, exchange of details on modus operandi, achieving consistency in data / information on frauds reported to Reserve Bank of India, etc. Preferably, the co-ordination efforts should be driven by the bank which detects the fraud first or by the bank which has the maximum exposure, depending on circumstances. It would therefore be necessary for the bank which detects a fraud to immediately share the details with all other banks in the multiple banking arrangement.
+4. Please acknowledge receipt.
+## Yours faithfully
+
+(P K Panda) Chief General Manager

@@ -1,0 +1,55 @@
+---
+doc_id: "Notifications_2009_5050"
+title: "Access to own credit report"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RAOCN_240609.PDF"
+pdf_sha256: "f4b1215fd94f853d311f245b072462b2d21ae7de42f3085dba612580d3854f16"
+md_sha256: "a6d9c5efc4e78e24b18d9bb673e9431e2bb96fe6d5b448e05f9828efbcc3906f"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-06-24_Notification_5050_Access%20to%20own%20credit%20report.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Access to own credit report
+
+<!-- PAGE 1 -->
+
+**_**
+
+# Yeejler³e fjeJeõ yeQkeÀ
+
+## __________________RESERVE BANK OF INDIA________________
+
+www.rbi.org.in RBI/2008-09/507 June 24, 2009 DBOD.No.DL.BC. 138/20.16.042/2008-09
+
+i) All Scheduled Commercial Banks (excluding RRBs and LABs) and ii) Notified All-India Financial Institutions
+### Dear Sir
+
+### Access to own credit report
+
+Please refer to our circular DBOD No.DL.11590/20.16.034/2007-08 dated February 27, 2008 advising banks/FIs in the context of Credit Information Companies (Regulation) Act, 2005 to urgently initiate steps to build up database and be in readiness for effective exchange of credit information without any loss of time.
+
+2. Of late, Reserve Bank has been receiving a number of complaints, including under the Right to Information Act, 2005, that customers are unable to get their own credit report from banks.
+3. In this connection we invite your attention to the provisions of sub section (1) of Section 21 of the Credit Information Companies (Regulation) Act, 2005, which provides “any person, who applies for grant or sanction of credit facility, from any credit institution, may request such institution to furnish him a copy of the credit information obtained by such institution from the credit information company”. Further, sub-section (2) of the said Section also specifies that every credit institution shall on receipt of request, as indicated in sub-section (1), shall furnish to such person a copy of the credit information subject to payment of charges specified by the Reserve Bank under the Regulations.
+4. You might be aware that Reserve Bank, in Credit Information Companies Regulations,2006, framed under the Act, has already prescribed in Regulation 12(3) a maximum fees of Rs.50/= (Rupees fifty only) for the purpose.
+___________________________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 4 th Floor, World Trade Center, Cuffe Parade, Colaba,, Mumbai - 400005 Tel No: 91-22-22189131-39 Fax No: 91-22-22150665 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+5. Banks and Financial Institutions are, therefore, advised to ensure strict compliance with the provisions of the Credit Information Companies (Regulation) Act, 2005 as well as the rules and regulations framed thereunder.
+## Please acknowledge receipt.
+
+## Yours faithfully
+
+(Vinay Baijal) Chief General Manager
+
+__________________________________________________________________________________________________________________ Department of Banking Operations and Development, Central Office, 4 th Floor, World Trade Center, Cuffe Parade, Colaba,, Mumbai - 400005
+
+<!-- PAGE 3 -->
+
+Tel No: 91-22-22189131-39 Fax No: 91-22-22150665  Email ID:cgmicdbodco@rbi.org.in

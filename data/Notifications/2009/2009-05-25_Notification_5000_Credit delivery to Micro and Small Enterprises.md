@@ -1,0 +1,28 @@
+---
+doc_id: "Notifications_2009_5000"
+title: "Credit delivery to Micro and Small Enterprises"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/TRAN250509.pdf"
+pdf_sha256: "e22774658476c6ec2285a2504763ca160580d4a14995e04efcb9196bad4385dd"
+md_sha256: "baaa0b6df4299f06b657d87d0d1df1b0770a540a6fbaba5adaa24274f13fd1e3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-05-25_Notification_5000_Credit%20delivery%20to%20Micro%20and%20Small%20Enterprises.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Credit delivery to Micro and Small Enterprises
+
+<!-- PAGE 1 -->
+
+**___________ RESERVE BANK OF INDIA_____________** www.rbi.org.in **RBI/2008-09/483** RPCD.SME&NFS.BC.No. 106 /06.02.31(P)/2008-09 May 25, 2009
+
+All Scheduled Commercial Banks (including RRBS & LABs) Dear Sir, **Credit delivery to Micro and Small Enterprises** Please refer to our circular <u>RPCD.SME&NFS.BC.No.76/06.02.31(P)/2008-09</u> dated December 16, 2008 on the captioned subject. In this connection, we clarify that the guidelines contained therein pertain only to scheduled commercial banks and not to RRBs and LABs.
+
+Yours faithfully,
+
+(Smt. Lily Vadera) General Manager

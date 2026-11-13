@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2009_5014"
+title: "Applicability of NBFCs-ND-SI regulations"
+category: "Notifications"
+year: 2009
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CCDRI040609.PDF"
+pdf_sha256: "34b5d47e045543e67b7d7265d59c92592561050ac8bed17125ced77c7cda0ae2"
+md_sha256: "56ed87f6d2b521c337c5115f2b8cd0bcfc93bda2bf31f49b1d30b409923e6444"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T12:49:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-06-04_Notification_5014_Applicability%20of%20NBFCs-ND-SI%20regulations.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Applicability of NBFCs-ND-SI regulations
+
+<!-- PAGE 1 -->
+
+## RBI/2008-09/491
+
+## DNBS (PD) CC.No. 141 /03.10.001/2008-09 June 4, 2009
+
+All Non-Deposit taking Non-Banking Finance Companies
+
+Dear Sirs,
+
+## Applicability of NBFCs-ND-SI regulations
+
+In terms of circular <u>DNBS (RID) C.C. No. 57/02.05.15/2005-06</u> dated September 6, 2005, all NBFCs with assets size of Rs 100 crore and above, and not accepting / holding public deposits were required to submit a Monthly Return on Important Financial Parameters to the Regional Office under whose jurisdiction the company is located. Further, in terms of "Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007" as amended from time to time, systemically important non-deposit taking non- banking financial companies are required to comply with, inter alia, capital adequacy, credit concentration and disclosure norms along with reporting requirements. ‘Systemically important non-deposit taking non-banking financial company'(NBFC-ND-SI) as defined in Para 2(xix) of the said Directions means a non banking financial company not accepting/holding public deposits and having total assets of Rs 100 crore and above as shown in the last audited balance sheet.
+
+2. A non-deposit taking NBFC with an asset size of less than Rs. 100 crore as on balance sheet date might subsequently add on assets before the next balance sheet date due to several reasons including business expansion plan. It is clarified that once an NBFC reaches an asset size of Rs. 100 crore or above, it shall come under the regulatory requirement for NBFCs-ND-SI as stated above, despite not having such assets as on the date of last balance sheet.
+
+<!-- PAGE 2 -->
+
+3. Therefore, it is advised that all such non-deposit taking NBFCs may comply with RBI regulations issued to NBFC-ND-SI from time to time, as and when they attain an asset size of Rs. 100 crore, irrespective of the date on which such size is attained.
+4. It is further observed that in a dynamic environment, the asset size of a company can fall below Rs 100 crore in a given month, which may be due to temporary fluctuations and not due to actual downsizing. It is clarified that in such a case the company may continue to submit the Monthly return on Important Financial Parameters to Reserve Bank of India and to comply with the extant directions as applicable to NBFC-ND-SI, till the submission of their next audited balance sheet to Reserve Bank of India and a specific dispensation is received from the Bank in this regard.
+Yours sincerely,
+
+(P. Krishnamurthy) Chief General Manager-in-Charge
