@@ -1,0 +1,84 @@
+---
+doc_id: "Notifications_2011_6447"
+title: "Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Sberbank"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/0SSN010611F.pdf"
+pdf_sha256: "15ae7cb319738f01e9c42cd1044760fad86115825ffd461259a6fa9d3ffdeaac"
+md_sha256: "5c51be359815a524746e7fdd474a7c1137717df37bb26171e27634e159769621"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:19:21Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-06-01_Notification_6447_Inclusion%20in%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20Sberbank.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 – Sberbank
+
+<!-- PAGE 1 -->
+
+RESERVEBANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/553
+
+Ref:DBOD.No.Ret.BC.98/12.06.129/2010-11
+
+June 01, 2011
+
+All Scheduled Commercial Banks
+
+Dear Sir,
+
+Inclusion in the Second Schedule to the Reserve Bank of India Act, 1934 -
+
+Sberbank
+
+We advise that the name of "Sberbank" has been included in the Second Schedule to
+
+the Reserve Bank of India Act, 1934 by notification DBOD IBD. No. 13982 /
+
+23.03.022/2010-11 dated March 08, 2011, published in the Gazette of India (Part Ill -
+
+Section 4) dated April 02, 2011.
+
+Yours faithfully,
+
+(P.K. Mahapatra)
+
+General Manager
+
+Department of Banking Operations and Development,Central Office,Centre 1,CuffeParade,Colaba,Mumbai-400005
+
+Tel No:91-22-22150409/FaxNo:91-22-22150772EmailID:returnsc0@rbi.org.in
+
+<!-- PAGE 2 -->
+
+BANK
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+DBOD.IBD.N0.13982/23.03.022/2010-11
+
+March 8, 2011
+
+Notification
+
+In pursuance of Clause (a) of sub-section (6) of Section 42 of the Reserve Bank of
+
+in the Second Schedule to the said Act of the following bank namely:
+
+"Sberbank"
+
+(R. Gandhi)
+
+ExecutiveDirector
+
+TelNo:91-22-22661602/FaxNo:91-22-22705691,22705692
+
+，

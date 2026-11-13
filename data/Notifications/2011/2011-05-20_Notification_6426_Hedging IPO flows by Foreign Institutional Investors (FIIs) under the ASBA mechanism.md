@@ -1,0 +1,49 @@
+---
+doc_id: "Notifications_2011_6426"
+title: "Hedging IPO flows by Foreign Institutional Investors (FIIs) under the ASBA mechanism"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/A68H200511F.pdf"
+pdf_sha256: "e6f2d96b498ff490a9ca48127f467bee8c6b04831cbeaca884ccd7a363108916"
+md_sha256: "bf7fb9c88b43708596a0aebd296c1ed190ef73b0ef62ac5a1d430e277335a2bd"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-20_Notification_6426_Hedging%20IPO%20flows%20by%20Foreign%20Institutional%20Investors%20%28FIIs%29%20under%20the%20ASBA%20mechanism.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Hedging IPO flows by Foreign Institutional Investors (FIIs) under the ASBA mechanism
+
+<!-- PAGE 1 -->
+
+**RESERVE BANK OF INDIA** **Foreign Exchange Department** **Central Office** **Mumbai - 400 001** **RBI/2010-11/539**
+
+## A.P. (DIR Series) Circular No. 68 May 20, 2011
+
+To
+
+All Authorised Dealer-Category I banks
+
+## Madam / Sir
+
+## Hedging IPO flows by Foreign Institutional Investors (FIIs) under the ASBA mechanism
+
+Attention of the Authorised Dealer Category-I (AD Category-I) banks is invited to
+
+<u>A.P. (DIR Series) Circular No. 32 dated December 28, 2010</u>, which delineates the guidelines governing foreign exchange derivative contracts. As per the extant guidelines, Foreign Institutional Investors (FIIs) are allowed to hedge the currency risk on the market value of entire investment in equity and/or debt in India as on a particular date using forward foreign exchange contracts with rupee as one of the currencies and foreign currency-INR options.
+2. On a review it has been decided that for Initial Public Offers(IPO) related transient capital flows under the Application Supported by Blocked Amount(ASBA) mechanism, foreign currency-rupee swaps may be permitted to the FIIs subject to the following terms and conditions:
+i. FIIs can undertake foreign currency- rupee swaps only for hedging the flows relating to the IPO under the ASBA mechanism. ii. The amount of the swap should not exceed the amount proposed to be invested in the IPO. iii. The tenor of the swap should not exceed 30 days. iv. The contracts, once cancelled, cannot be rebooked. Rollovers under this scheme will also not be permitted.
+
+<!-- PAGE 2 -->
+
+3. The necessary amendments to <u>Notification No. FEMA.25/RB-2000 dated May 3,</u> <u>2000</u> [Foreign Exchange Management (Foreign Exchange Derivatives Contracts) Regulations, 2000] are being notified separately.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions /approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Meena Hemchandra)
+
+## Chief General Manager-in-Charge

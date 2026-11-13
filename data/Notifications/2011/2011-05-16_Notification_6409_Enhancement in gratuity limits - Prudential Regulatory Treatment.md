@@ -1,0 +1,50 @@
+---
+doc_id: "Notifications_2011_6409"
+title: "Enhancement in gratuity limits - Prudential Regulatory Treatment"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CRRB70160511.pdf"
+pdf_sha256: "05b7264658e4d2b6cb2d8eed43e0ce3bde296be6e8610137925824c9b975bcab"
+md_sha256: "df8008b4136f96e30d2c262e79fe2f57c5d42a4f4b959f66d417775631e330d5"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:10Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-16_Notification_6409_Enhancement%20in%20gratuity%20limits%20-%20Prudential%20Regulatory%20Treatment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Enhancement in gratuity limits - Prudential Regulatory Treatment
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **__________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2010-11/527 RPCD.CO RRB.BC.No. 70 /03.05.33/2010-11 May 16, 2011
+
+## The Chairmen All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+## Enhancement in gratuity limits-Prudential Regulatory Treatment
+
+Consequent upon the enhancement in gratuity limits following the amendment to Payment of Gratuity Act 1972, RRBs have approached us for the amortisation of the enhanced expenditure resulting therefrom.
+
+2. The additional liability on account of enhancement in gratuity limits should be fully recognised and charged to Profit and Loss Account for the financial year 2010-11.
+3. However, RRBs have expressed that it would be difficult for them to absorb the large amount involved in a single year. We have examined the issue from a regulatory perspective and it has been decided that RRBs may take the following course of action in the matter:
+a. The expenditure, as indicated in paragraph 2 above, may, if not fully charged to the Profit and Loss Account during the financial year 2010-11, be amortised over a period of five years {subject to
+(b) below} beginning with the financial year ending March 31, 2011 subject to a minimum of 1/5th of the total amount involved every year.
+b. The unamortised expenditure carried forward as aforementioned shall not include any amounts relating to separated/retired employees.
+4. Appropriate disclosures of the accounting policy followed in this regard may be made in the 'Notes to Accounts' to the financial statements.
+
+<!-- PAGE 2 -->
+
+Rural Planning & Credit Department Central Office**,** 10 th Floor, Central Office Building, Shahid Bhagat Singh Marg Mumbai - 1 Tel No: 91-22-22661602 Fax No: 91-22-22621011/22610943/22610948 Email ID:cgmicrpcd@rbi.org.in
+
+5. Please acknowledge receipt of this circular to our Regional Office concerned.
+## Yours faithfully
+
+(C.D.Srinivasan) Chief General Manager
+
+## Encls: As above

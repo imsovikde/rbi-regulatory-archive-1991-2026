@@ -1,0 +1,36 @@
+---
+doc_id: "Notifications_2011_6445"
+title: "Guidelines for Accounting of Repo / Reverse Repo Transactions-Clarification"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CLHRS310511.PDF"
+pdf_sha256: "9b05194193581a3b6f4c044cc3c4b54881e2580f2d537ea2be4c5d95eae21124"
+md_sha256: "43999ccdb6d18224ec30cea701b80b55a360ee737a8a8b4fefd55a2a911e0576"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-30_Notification_6445_Guidelines%20for%20Accounting%20of%20Repo%20-%20Reverse%20Repo%20Transactions-Clarification.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines for Accounting of Repo / Reverse Repo Transactions-Clarification
+
+<!-- PAGE 1 -->
+
+www.rbi.org.in **This circular has been superseded by** <u>Repurchase Transactions (Repo) (Reserve Bank)</u> <u>Directions, 2018 dated July 24, 2018</u>**.**
+
+## RBI/2010-11/551 IDMD No. / 29 /11.08.043/2010-11 May 30, 2011
+
+To All RBI regulated entities (Commercial Banks, Co-operative Banks, Primary Dealers, Financial Institutions, RRBs and NBFCs)
+
+Dear Sir/Madam,
+
+## Guidelines for Accounting of Repo / Reverse Repo Transactions-Clarification
+
+Please refer to our <u>circular RBI/2009-2010/356 IDMD/4135/11.08.043/2009-10 dated March</u> <u>23, 2010</u>. The para 7 of the circular under reference states that “*to obviate the disputes* *arising out of repo transactions, the participants should enter into bilateral Master Repo* *Agreement as per the documentation finalized by Fixed Income Money Market and* *Derivatives Association of India (FIMMDA)”*.
+
+2. We have received queries from market participants whether the Master Repo Agreement finalised by FIMMDA is mandatory for repo transactions in Government Securities settled through CCIL. In this regard, it is clarified that the Master Repo Agreement finalised by FIMMDA is not mandatory for repo transactions in Government Securities settling through a Central Counter Party (CCP) [eg. Clearing Corporation of India Limited (CCIL)], having various safeguards like haircut, MTM price, margin, Multilateral netting, closing out, right to set off, settlement guarantee fund/ collaterals, defaults, risk management and dispute resolution/ arbitration etc. However, Master Repo Agreement is mandatory for repo transactions in Corporate Debt Securities, which is settled bilaterally without involving a CCP.
+3. All other terms and conditions of the above mentioned circular will remain unchanged. Yours faithfully, (K K Vohra) Chief General Manager
+This department is ISO rd certified Internal Debt Management Department, Central Office, 23 Floor, Shahid Bhagat Singh Marg, Mumbai - 400 001 Tel.: (+91) -22- 2261 0658 / 2264 1491. Fax: (022) 2265 9609

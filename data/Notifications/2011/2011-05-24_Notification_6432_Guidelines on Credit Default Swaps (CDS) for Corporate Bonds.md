@@ -1,0 +1,245 @@
+---
+doc_id: "Notifications_2011_6432"
+title: "Guidelines on Credit Default Swaps (CDS) for Corporate Bonds"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FGCD240511F.pdf"
+pdf_sha256: "51b9b1fa4a9ea75ebe1ca0979bc5e2ba335a535b4d6d882888568122dca3555e"
+md_sha256: "816b4066b9dc45b0beba9b0e6857dc36555b61dd326c999a30d6fe030ee3241e"
+total_pages: 15
+native_pages: 15
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-24_Notification_6432_Guidelines%20on%20Credit%20Default%20Swaps%20%28CDS%29%20for%20Corporate%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Guidelines on Credit Default Swaps (CDS) for Corporate Bonds
+
+<!-- PAGE 1 -->
+
+RBI/2010-11/542 IDMD.PCD.No. 5053 /14.03.04/2010-11
+
+## May 23, 2011
+
+## All Market Participants
+
+## Dear Sir
+
+## Guidelines on Credit Default Swaps (CDS) for Corporate Bonds
+
+As indicated in <u>paragraph 113</u> of the Second Quarter Review of Monetary Policy for year 2009-10, an Internal Group was constituted by the Reserve Bank to finalise the operational framework for the introduction of plain vanilla OTC single-name CDS for corporate bonds in India.
+
+2. Draft guidelines on CDS based on the recommendations of the Group were placed on the RBI website on February 23, 2011 and were open for comments from all concerned.
+3. Comments were received from a wide spectrum of banks, PDs and other market participants. The guidelines have been suitably revised in the light of the feedback received and are furnished in the **Annex**.
+4. The guidelines would become effective from October 24**,** 2011.
+Yours faithfully,
+
+## (K K Vohra)
+
+## Chief General Manager
+
+<!-- PAGE 2 -->
+
+# Annex
+
+## Guidelines on Credit Default Swaps for Corporate Bonds
+
+## 1. Objective
+
+The objective of introducing Credit Default Swaps (CDS) on corporate bonds is to provide market participants a tool to transfer and manage credit risk in an effective manner through redistribution of risk. CDS as a risk management product offers the participants the opportunity to hive off credit risk and also to assume credit risk which otherwise may not be possible. Since CDS have benefits like enhancing investment and borrowing opportunities and reducing transaction costs while allowing risk-transfers, such products would increase investors’ interest in corporate bonds and would be beneficial to the development of the corporate bond market in India.
+
+2. **CDS for Indian Markets – Product Design**
+2.1 **Eligible Participants –** Participants in the CDS market are classified as under:
+- *Users*: Entities permitted to buy credit protection (buy CDS contracts) only to hedge their underlying credit risk on corporate bonds. Such entities are not permitted to hold credit protection without having eligible underlying as a hedged item. *Users* are also not permitted to sell protection and are not permitted to hold short positions in the CDS contracts. However, they are permitted to exit their bought CDS positions by unwinding them with the original counterparty or by assigning them in favour of buyer of the underlying bond.
+- *Market-makers:* Entities permitted to quote both buy and/or sell CDS spreads. They would be permitted to buy protection without having the underlying bond.
+2.1.1 The eligible entities under *market-makers* and *users* categories would be as under:
+
+|* Market-makers|Commercial Banks, stand alone Primary Dealers (PDs), Non-Banking Financial Companies (NBFCs) having sound financials and good track record in providing credit facilities and any other institution specifically permitted by the Reserve Bank.|
+|---|---|
+|Users|Commercial Banks, PDs, NBFCs, Mutual Funds, Insurance Companies, Housing Finance Companies, Provident Funds, Listed Corporates, Foreign Institutional Investors (FIIs) and any other institution specifically permitted by the Reserve Bank.|
+
+*Insurance companies and Mutual Funds would be permitted as *market-makers* subject to their having strong financials and risk management capabilities as prescribed by their respective regulators (IRDA and SEBI) and as and when permitted by the respective regulatory authorities.
+
+<!-- PAGE 3 -->
+
+2.1.2 All CDS trades shall have an RBI regulated entity at least on one side of the transaction.
+2.2 **Eligibility norms for *market-makers***
+2.2.1 Commercial banks who intend to act as *market-makers* shall fulfill the following criteria:
+a) Minimum CRAR of 11 per cent with core CRAR (Tier I) of at least 7 per cent;
+b) Net NPAs of less than 3 per cent.
+Banks should submit their Board approved policy and the date of commencement of CDS trading as *market-makers* to the Chief General Manager-in-Charge, Department of Banking Operations and Development, Central Office, RBI, Mumbai.
+
+2.2.2 NBFCs having sound financial strength, good track record and involved in providing credit facilities may be allowed to act as *market-makers*, subject to complying with the following criteria:
+a) Minimum Net Owned Funds of Rs. 500 crore;
+b) Minimum CRAR of 15 per cent;
+c) Net NPAs of less than 3 per cent; and
+d) Have robust risk management systems in place to deal with various risks.
+The regulatory approval to NBFCs to act as *market-makers* in the CDS market would be accorded by the Chief General Manager-in-Charge, Department of Non-Banking Supervision, Central Office, RBI, Mumbai on a case-by-case basis, on application for the same.
+
+2.2.3 PDs intending to act as *market-makers* shall fulfil the following criteria:
+a) Minimum Net Owned Funds of Rs. 500 crore;
+b) Minimum CRAR of 15 per cent; and
+c) Have robust risk management systems in place to deal with various risks.
+The regulatory approval to PDs to act as *market-makers* in the CDS market would be accorded by the Chief General Manager, Internal Debt Management Department, Central office, RBI, Mumbai on a case-by-case basis, on application for the same.
+
+2.2.4 In case a *market-maker* fails to meet one or more of the eligibility criteria subsequent to commencing the CDS transactions, it would not be eligible to sell new protection. As regards existing contracts, such protection sellers would meet all their obligations as per the contract.
+2.2.5 The list of eligible *market-makers* will be available on RBI website.
+
+<!-- PAGE 4 -->
+
+2.3 **Reference entity** The reference entity in a CDS contract, against whose default the protection is bought and sold, shall be a single legal resident entity [the term resident will be as defined in Section 2(v) of Foreign Exchange Management Act, 1999] and the direct obligor for the reference asset/obligation and the deliverable asset/obligation.
+2.4 **Reference obligation (eligible underlying for CDS)**-*eligibility criteria*
+(i) CDS will be allowed only on <u>listed</u> corporate bonds as reference obligations. (ii) However, CDS can also be written on unlisted but rated bonds of infrastructure companies. Besides, unlisted/unrated bonds issued by the SPVs set up by infrastructure companies are also eligible as reference obligation. Such SPVs need to make disclosures on the structure, usage, purpose and performance of SPVs in their financial statements. In the case of banks, the net credit exposure on account of such CDS should be within the limit of 10% of investment portfolio prescribed for unlisted/unrated bonds as per extant guidelines issued by RBI. For this purpose, an Infrastructure Company would be one which is engaged in the list of items included in the infrastructure sector as defined in the DBOD circular RBI/2010-11/68 DBOD No.Dir.BC.14/13.03.00/ 2010-11 dated July 1, 2010 and updated from time to time. (iii) NBFCs and PDs shall adhere to the extant regulatory guidelines prescribed in respect of credit exposure limits for investment in unlisted/unrated bonds. (iv) The reference obligations are required to be in dematerialised form only.
+(v) The reference obligation of a specific obligor covered by the CDS contract should be specified *a priori* in the contract and reviewed periodically for better risk management. (vi) Protection sellers should ensure not to sell protection on reference entities/obligations on which there are regulatory restrictions on assuming exposures in the cash market such as, the restriction against banks holding unrated bonds, single/group exposure limits and any other restriction imposed by the regulators from time to time.
+2.5 **Requirement of the underlying in CDS**
+2.5.1 The *users* cannot buy CDS for amounts higher than the face value of corporate bonds held by them and for periods longer than the tenor of corporate bonds held by them.
+2.5.2 *Holding CDS Protection by users without having an underlying*: Since the *users* are envisaged to use the CDS only for hedging their credit risks, assumed due to their investment in corporate bonds, they shall not, at any point of time, maintain naked CDS protection i.e. CDS purchase position without having an eligible underlying.
+
+<!-- PAGE 5 -->
+
+2.5.3 Proper caveat may be included in the agreement that the *market-maker*, while entering into and unwinding the CDS contract, needs to ensure that the *user* has exposure in the underlying. Further, the *users* are required to submit an auditor’s certificate or custodian’s certificate to the protection sellers or novating *users*, of having the underlying bond while entering into/unwinding the CDS contract.
+2.6 **Exiting CDS transactions by *users***
+2.6.1 *Users* cannot exit their bought positions by entering into an offsetting sale contract. They can exit their bought position by either unwinding the contract with the original counterparty or, in the event of sale of the underlying bond, by assigning (novating) the CDS protection, to the purchaser of the underlying bond (the “transferee”) subject to consent of the original protection seller (the “remaining party”). After assigning the contract, the original buyer of protection (the “transferor”) will end his involvement in the transaction and credit risk will continue to lie with the original protection seller.
+2.6.2 In case of sale of the underlying, every effort should be made to unwind the CDS position immediately on sale of the underlying. The *users* would be given a maximum grace period of ten business days from the date of sale of the underlying bond to unwind the CDS position.
+2.6.3 In the case of unwinding of the CDS contract, the original counterparty (protection seller) is required to ensure that the protection buyer has the underlying at the time of unwinding. The protection seller may also ensure that the transaction is done at a transparent market price and this must be subject to rigorous audit discipline.
+2.7 **CDS transactions between related parties** CDS transactions are not permitted to be entered into either between related parties or where the reference entity is a related party to either of the contracting parties. Related parties for the purpose of these guidelines will be as defined in ‘Accounting Standard 18 – Related Party Disclosures’. In the case of foreign banks operating in India, the term ‘related parties’ shall include an entity which is a related party of the foreign bank, its parent, or group entity.
+2.8 **Other Requirements** The single-name CDS on corporate bonds should also satisfy the following requirements:
+(i) the *user* (except FIIs) and *market-maker* shall be resident entities; (ii) the identity of the parties responsible for determining whether a credit event has occurred must be clearly defined *a priori* in the documentation;
+
+<!-- PAGE 6 -->
+
+(iii) the reference asset/obligation and the deliverable asset/obligation shall be to a resident and denominated in Indian Rupees; (iv) the CDS contract shall be denominated and settled in Indian Rupees;
+
+(v) Obligations such as asset-backed securities/mortgage-backed securities, convertible bonds and bonds with call/put options shall not be permitted as reference and deliverable obligations; (vi) CDS cannot be written on interest receivables;
+(vii) CDS shall not be written on securities with original maturity up to one year e.g., Commercial Papers (CPs), Certificate of Deposits (CDs) and Non-Convertible Debentures (NCDs) with original maturity up to one year; (viii) the CDS contract must represent a direct claim on the protection seller; (ix) the CDS contract must be irrevocable; there must be no clause in the contract that would allow the protection seller to unilaterally cancel the contract. However, if protection buyer defaults under the terms of contract, protection seller can cancel/revoke the contract;
+
+(x) the CDS contract should not have any clause that may prevent the protection seller from making the credit event payment in a timely manner, after occurrence of the credit event and completion of necessary formalities in terms of the contract; (xi) the protection seller shall have no recourse to the protection buyer for credit-event losses;
+(xii) dealing in any structured financial product with CDS as one of the components shall not be permitted; and (xiii) dealing in any derivative product where the CDS itself is an underlying shall not be permissible.
+
+2.9 **Documentation** Fixed Income Money Market and Derivatives Association of India (FIMMDA) shall devise a Master Agreement for Indian CDS. There would be two sets of documentation: one set covering transactions between *user* and *market-maker* and the other set covering transactions between two *market-makers*. While drafting documents, it would be absolutely necessary for the participating institutions to ensure that transactions are *intra vires* and legal risks are reduced to the maximum possible extent.
+2.10 **Standardisation of the CDS Contract** The CDS contracts shall be standardized. The standardisation of CDS contracts shall be achieved in terms of coupon, coupon payment dates, etc. as put in place by FIMMDA in consultation with the market participants.
+
+<!-- PAGE 7 -->
+
+2.11 **Credit Events**
+2.11.1 The credit events specified in the CDS contract may cover: *Bankruptcy*, *Failure to* *pay, Repudiation/moratorium*, *Obligation acceleration, Obligation default, Restructuring* *approved under Board for Industrial and Financial Reconstruction (BIFR) and Corporate* *Debt Restructuring (CDR) mechanism and corporate bond restructuring.* The contracting parties to a CDS may include all or any of the approved credit events. Further, the definition of various credit events should be clearly defined in the bilateral Master Agreement prepared by FIMMDA.
+2.11.2 *Succession event*: Participants may adhere to the provisions given in the Master Agreement for CDS prepared by FIMMDA.
+2.11.3 *Determination Committee:* The Determination Committee (DC) shall be formed by the market participants and FIMMDA. The DC shall be based in India and shall deliberate and resolve CDS related issues such as Credit Events, CDS Auctions, Succession Events, Substitute Reference Obligations, etc. The decisions of the Committee would be binding on CDS market participants. In order to provide adequate representation to *users,* at least 25 per cent of the members should be drawn from the *users.*
+2.12 **Settlement methodologies**
+2.12.1 The parties to the CDS transaction shall determine upfront, the procedure and method of settlement (cash/physical/auction) to be followed in the event of occurrence of a credit event and document the same in the CDS documentation.
+2.12.2 For transactions involving *users*, physical settlement is mandatory. For other transactions, *market-makers* can opt for any of the three settlement methods (physical, cash and auction), provided the CDS documentation envisages such settlement. While the physical settlement would require the protection buyer to transfer any of the deliverable obligations against the receipt of its full notional / face value, in cash settlement, the protection seller would pay to the protection buyer an amount equivalent to the loss resulting from the credit event of the reference entity.
+2.12.3 *Auction Settlement*: Auction settlement may be conducted in those cases as deemed fit by the DC. Auction specific terms (e.g. auction date, time, market quotation amount, deliverable obligations, etc.) will be set by the DC on a case by case basis. If parties do not select Auction Settlement, they will need to bilaterally settle their trades in accordance with the Settlement Method (unless otherwise freshly negotiated between the parties).
+
+<!-- PAGE 8 -->
+
+2.13 **Accounting** The accounting norms applicable to CDS contracts shall be on the lines indicated in the ‘Accounting Standard AS-30 – Financial Instruments: Recognition and Measurement’, ‘AS- 31, Financial Instruments: Presentation’ and ‘AS-32 on Disclosures’ as approved by the Institute of Chartered Accountants of India (ICAI). As the accounting standards on derivatives are still evolving, market participants, with the approval of their respective boards, shall adopt appropriate norms for accounting of CDS transactions which are in compliance with the Indian accounting standards and approved by the regulators from time to time.
+2.14 **Pricing/Valuation methodologies for CDS**
+2.14.1 Market participants should put in place appropriate and robust methodologies for marking to market the CDS contracts on a daily basis. These methodologies should be validated by external validators periodically for reliability.
+2.14.2 Market participants shall use FIMMDA published daily CDS curve to value their CDS positions. Day count convention may also be decided by FIMMDA in consultation with market participants. However, if a proprietary model results in a more conservative valuation, the market participant can use that proprietary model.
+2.14.3 For better transparency, market participants using their proprietary model for pricing in accounting statements shall disclose both the proprietary model price and the standard model price in notes to the accounts that should also include an explanation of the rationale behind using a particular model over another. 3 **Risk Management**
+3.1 **Risks in CDS** Proper assessment and management of various risks such as sudden increase in credit spreads resulting in mark-to-market losses, high incidence of credit events, Jump-to-Default Risk, basis risk, counterparty risk, etc., is essential. It needs to be ensured that CDS are not used to build up excessive leveraged exposures. The market participants need to take various risks associated with CDS into account and build robust risk management architecture to manage the same.
+3. 2 **Prudential norms for risk management in CDS**
+3. 2.1 **Counterparty Credit Exposures** Protection seller in the CDS market shall have in place internal limits on the gross amount of protection sold by them on a single entity as well as the aggregate of such individual gross
+
+<!-- PAGE 9 -->
+
+positions. These limits shall be set in relation to their capital funds. Protection sellers shall also periodically assess the likely stress that these gross positions of protection sold, may pose on their liquidity position and their ability to raise funds, at short notice.
+
+3.2.2 **Computation of Credit Exposure** Ceilings for all fund-based and non-fund based exposures including off-balance sheet exposures should be computed in relat**i**on to total capital as defined under the extant capital adequacy standards. This will be applicable to determine the exposure arising out of CDS transactions as well. The protection seller shall treat his exposure to the reference entity (on the protection sold) as his credit exposure and aggregate the same with other exposures to the reference entity for the purpose of determining various prudential limits like single / group exposure, capital market exposure, real estate exposure, exposure to NBFCs etc. The protection buyer shall replace his original exposure to the reference entity, with that of the protection seller.
+3.2.3 **Other issues related to exposure norms** The benefits available under special category of assets such as priority sector lending/export finance will not be available to the protection seller (bank) when protection is sold on such assets as they do not incur any fund-based exposure.
+3.3 **Collateralisation and Margining** For CDS transactions, the margins would be maintained by the individual market participants. In this regard, market participants shall adhere to the following requirements:
+a) All market participants should lay down a separate margin policy for managing the counterparty credit risk on account of CDS transactions. Margin policy should prescribe the minimum level of margin to be called for.
+b) Margins may be maintained on net exposure to each counterparty on account of CDS transactions.
+c) Till the requisite infrastructure is put in place, the positions should be marked-to- market daily and re-margined at least on a weekly basis or more frequent basis as decided between the counterparties. Participants may maintain margins in cash or Government securities.
+
+<!-- PAGE 10 -->
+
+3.4 **Market Risk Exposure** As regards capturing of market risk, participants may adhere to the following:
+a) The quantum of CDS protection sold (net) on a reference entity shall be taken as actual credit exposure to the reference entity and thereby would be covered under the relevant regulatory exposure limits.
+b) Protection sellers, with the approval of their Board, shall fix a limit on their Net Long¹ risk position in CDS contracts, in terms of Risky PV01, as a percentage of the the Total Capital Funds.
+c) Since CDS represents idiosyncratic risk on individual obligors, no netting of Risky PV01 across obligors is allowed.
+d) The Board of Directors shall periodically review these limits and details of the limits along with the rationale may be submitted to the respective regulatory departments of the Reserve Bank.
+e) The gross PV01 of all non-option rupee derivatives should be within 0.25 per cent of the net worth of the banks / PDs / NBFCs as on the last balance sheet date (in terms of circular DBOD. No.BP.BC.53/21.04.157/2005-06 dated December 28, 2005).
+f) The CDS participants must adhere to the comprehensive guidelines on derivatives issued vide circular RBI / 2006 – 2007 / 333 DBOD.No.BP.BC.86 / 21.04.157 / 2006- 07, dated April 20, 2007 and updated from time to time.
+3.5 **Issues Relating to Capital Adequacy Requirement** Participants shall follow the capital adequacy guidelines for CDS issued by their respective regulators.
+3.6 **Risk Management – Role of Board and Senior Management**
+3.6.1 Participants should consider carefully all related risks and rewards before entering into CDS transactions. They should not enter into such transactions unless their management has the ability to understand and manage properly the credit and other risks associated with CDS. They should establish sound risk management policies and procedures integrated into their overall risk management.
+3.6.2 Participants which are protection buyers should periodically assess the ability of the protection sellers to make the credit event payment as and when they may fall due. The results of such assessments should be used to review the counterparty limits. Net long position is the total CDS sold positions netted by the CDS bought positions of the same reference entity.
+
+<!-- PAGE 11 -->
+
+3.6.3 Participants should be aware of the potential legal risk arising from an unenforceable contract, e.g., due to inadequate documentation, lack of authority for a counterparty to enter into the contract (or to transfer the asset upon occurrence of a credit event), uncertain payment procedure or inability to determine market value when required.
+3.7 **Policy requirements** Before actually undertaking CDS transactions, participants shall put in place a written policy on CDS which should be approved by their respective Board of Directors. The Board approved policy on CDS should be reviewed periodically, at least once in a year. The policy should lay down the internal guidelines which should include, *inter alia,* various risk limits on CDS positions, procedures, risk management practices, the internal control systems to ensure adherence to the regulatory and internal guidelines, reporting of CDS activity to the Board and the regulators, procedure to deal with violations, etc. Participants shall also put in place a system to detect violations, if any, immediately, preferably within the same trading day. Additionally, the Board approved risk management policy should cover at the minimum:
+a) The strategy – i.e., whether CDS would be used for hedging or for trading, risk management and limits for CDS;
+b) Authorisation levels for engaging in such business and identification of those responsible for managing it;
+c) Procedure for measuring, monitoring, reviewing, reporting and managing the associated risks like credit risk, market risk, liquidity risk and other specific risks;
+d) Appropriate accounting and valuation principles for CDS;
+e) Determination of contractual characteristics of the product; and
+f) Use of best market practices.
+3.8 **Risk Management Architecture**
+3.8.1 **Systems and Controls** Senior management of the participants should establish an independent framework for reporting, monitoring and controlling all aspects of risks, assessing performance, valuing exposures, monitoring and enforcing position and other limits. The systems and controls should:
+(i) ensure that (a) the CDS contract confirmations are received promptly and verified for accuracy; (b) appropriate systems are in place to track the delays in confirmations and to escalate the delays in such confirmations to the appropriate levels within the organisation; and (c) the systems provide for an appropriate authority (preferably the CEO) to decide on cessation of dealing with the counterparties where the confirmations are in arrears beyond a reasonable number of business days. Physical
+
+<!-- PAGE 12 -->
+
+confirmations shall not be required if the transactions are matched and confirmed on the trade reporting platform. (ii) ensure adequate Management Information Systems (MIS) to make senior management aware of the risks being undertaken, which should provide information on the types of transactions carried out and their corresponding risks, the trading income/losses realized/unrealised from risks/exposures taken, contribution of CDS to the total business and the risk portfolio and value of CDS positions. The MIS should be timely, accurate and comprehensive and adequately controlled and secured. Internal information systems used should ensure adequate segregation of duties and security controls so as to ensure that data integrity is maintained. (iii) assess and account for the possibility of default correlation between reference asset and the protection provider. (iv) the risk management system is stress-tested and participants may also factor in the CDS-related adverse scenarios as part of their stress-testing processes.
+
+(v) ensure that activities in the CDS market, if undertaken, are properly supervised and are subject to an effective framework of internal controls and audits so that transactions are in compliance with regulations and internal policy of execution, recording, processing and settlement.
+3.8.2 In addition to the internal control mechanisms, CDS transactions should be subject to audit discipline for ensuring compliance with the regulatory guidelines and internal control system put in place. The concurrent auditors/internal should specifically verify compliance with these instructions, as well as with internal guidelines and report violations, if any, within a reasonably short time, to the appropriate internal authority. As part of their monthly reporting, concurrent auditors/internal auditors should verify whether the independent back/mid-office has taken cognisance of lapses, if any, and whether they have reported the same within the required time-frame to the appropriate internal authority. Any violation of regulatory guidelines noticed in this regard should immediately be reported by the participants to their respective regulators.
+3.9 **Procedures** The market participants should have adequate procedures for:
+(i) Measuring, monitoring, reviewing, reporting and managing the associated risks, (ii) Analysis of all credit risks to which the market participants will be exposed, the minimisation and management of such risks,
+
+<!-- PAGE 13 -->
+
+(iii) Ensuring that the credit risk of a reference asset is captured in normal credit approval and monitoring regime. This function in no case should be entrusted to the desk dealing with CDS, (iv) Management of market risk associated with CDS held by participants in their trading books by measuring portfolio exposures, at least daily, using robust market-accepted methodology,
+
+(v) Management of the potential legal risk arising from unenforceable contracts and uncertain payment procedures.
+3.10 **Prevention of mis-selling and market abuse** *Market-makers* may ensure adherence to suitability and appropriateness criteria (as stipulated in the circular RBI / 2006 – 2007 / 333 DBOD.No.BP.BC.86 / 21.04.157 / 2006-07, dated April 20, 2007) while dealing with *users*. CDS transactions may be conducted in a transparent manner in relation to prices, market practices etc. From the protection buyer’s side, it would be appropriate that the senior management is involved in transactions to ensure checks and balances. In this connection, following may be ensured by the protection sellers:
+a) CDS transactions shall be undertaken only on obtaining from the counterparty, a copy of a resolution passed by their Board of Directors, authorising the counterparty to transact in CDS.
+b) The product terms are transparent and clearly explained to the counterparties along with risks involved.
+## 4. Reporting Requirements
+
+4.1 **Trade Reporting**
+4.1.1 *Market-makers* shall report their CDS trades with both *users* and other *market-makers* on the reporting platform of CDS trade repository within 30 minutes from the deal time.
+4.1.2 The *users* would be required to affirm or reject their trade already reported by the *market- maker* by the end of the day.
+4.1.3 In the event of sale of underlying bond by the *user* and the *user* assigning the CDS protection to the purchaser of the bond subject to the consent of the original protection seller, the original protection seller should report such assignment to the trade reporting platform and the same should be confirmed by both the original *user* and the new assignee.
+4.2 **Supervisory Reporting** In addition to the reporting done on the trade reporting platform, the participants shall also report to their regulators information as required by them such as risk positions of the participants *vis-à-vis* their networth and adherence to risk limits, etc. As regards the
+
+<!-- PAGE 14 -->
+
+Reserve Bank regulated entities, the information shall be reported to the respective regulatory department of the Reserve Bank on a fortnightly basis, within a week after the end of fortnight, as per the proforma given in Annex.
+
+<!-- PAGE 15 -->
+
+# Annex CDS Contract Reporting Formats
+
+**CDS Form I: Trade Reporting format (on the electronic reporting platform**)
+
+Name of the reporting entity: Date: (Amount in Rs. crore, Residual maturity/Tenor in years)
+
+|Name of||Details of the Reference||Details of the underlying (in|||Details of Protection||||If being unwound,|If being assigned,||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|the Counter‐||Entity/||case of users)||||||Settlement (cash/Physical)||||
+|party|||||Residual|Bought/|||Price/spre||Price (in bps)|Name of|Price|
+||Name|Rating|Sector|Amount (FV)|Maturity|Sold|Amount|Tenor|ad (bps)|||the assignee|(in bps)|
+
+## CDS Form II. Fortnightly Regulatory Reporting
+
+Name of the Entity Date of Reporting
+
+||||||Protection Bought|||Protection Sold||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sl.|Name of the|Tenor|FV of the|Tenor of the|Notional|Spread|Hedging (H) or|Notional|Spread|Net Position|Risky|
+|No|Counterparty||underlying|underlying|amount|(bps)|trading (T)|amount|(bps)||PV01|
+
+1 2 3
+
+||||||Protection Bought|||Protection Sold||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Sl.|Name of the||||||Hedging||||Risky|
+|No|reference entity|Tenor|FV of the underlying|Tenor of the underlying|Notional amount|Spread (bps)|(H) or trading|Notional amount|Spread (bps)|Net Position|PV01|
+||||||||(T)|||||
+
+1 2

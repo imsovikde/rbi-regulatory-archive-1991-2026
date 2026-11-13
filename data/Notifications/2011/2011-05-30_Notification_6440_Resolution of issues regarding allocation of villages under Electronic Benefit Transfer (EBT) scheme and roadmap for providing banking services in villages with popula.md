@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2011_6440"
+title: "Resolution of issues regarding allocation of villages under Electronic Benefit Transfer (EBT) scheme and roadmap for providing banking services in villages with population above 2000 under Financial Inclusion Plan (FIP)"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CB74300511.pdf"
+pdf_sha256: "59ad9590c8a028caa5186734725f7bc3a5287784caa324b9bc918c6f153b96cc"
+md_sha256: "2d63ef6d1446f908b7b3dacd6360bc193ed3ca72bfc6c06a4560b06dd6437488"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-30_Notification_6440_Resolution%20of%20issues%20regarding%20allocation%20of%20villages%20under%20Electronic%20Benefit%20Transfer%20%28EBT%29%20scheme%20and%20roadmap%20for%20providing%20banking%20services%20in%20villages%20with%20popula.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Resolution of issues regarding allocation of villages under Electronic Benefit Transfer (EBT) scheme and roadmap for providing banking services in villages with population above 2000 under Financial Inclusion Plan (FIP)
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बैंक **_______________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2010-11/550
+
+## RPCD.CO.LBS.BC.No. 74 /02.19.010/2010-11 May 30, 2011
+
+The Chairmen/Chairman and Managing Director, All SLBC Convenor banks
+
+Dear Sir/Madam,
+
+## Resolution of issues regarding allocation of villages under Electronic Benefit Transfer
+
+**(EBT) scheme and roadmap for providing banking services in villages with population** <u>above 2000 under Financial Inclusion Plan (FIP)</u>
+
+It has been brought to our notice that in some States the State Governments are implementing the ICT based Electronic Benefit Transfer (EBT) for routing social security benefits (MNREGA, NOAPS, etc.) to beneficiaries through the banking channel using the 'one district one bank model'.
+
+In addition to this, as per the recommendations of the High Level Committee to review the Lead Bank Scheme, unbanked villages having population of more than 2000 have been allocated to various banks for providing of banking services by opening of banking outlets in these villages by March 2012.
+
+Some banks have represented to our Regional Offices that they are incurring costs to cover villages under the Roadmap for opening of banking outlets in villages with population of more than 2000, even as the other bank that is allotted the same village under EBT will also be required to do so eventually. The intention of allotting the unbanked villages, with population of more than 2000, amongst various banks was to ensure that these villages are provided with at least one banking outlet for extending banking facilities comprising of minimum four products i.e. Savings, Credit, Remittance and Insurance. The above initiative, however, does not deny the opportunity for any other bank to operate in these areas and extend banking services based on the available business potential.
+
+In view of the above it is felt that the SLBC, being the apex body in the State, should be used as a forum for settlement of such issues and for explaining to banks the intention of RBI in extending banking services to unbanked villages through various Financial Inclusion initiatives.
+
+Yours sincerely,
+
+(A. K. Misra) General Manager
+
+मामीण आयोजना और ऋण िवभाग, के िीय कायार्लय, 10वीं मंिजल, के िीय कायार्लय भवन, शहीद भगतिसंह माग, र् पोःट बॉकस सं.10014, मुम्बई-400 001 Rural Planning & Credit Department Central Office**,** 10 th Floor, Central Office Building, post box no. 10014 Mumbai -400 001 टेिलफोन/Tel No: 91-22-22661602 <u>फै क्स/Fax No: 91-22-22621011/22610948/22610943 ई-</u>मेलEmail ID:cgmicrpcd@rbi.org.in <u>िहन्दी आसान है। इसका ूयोग बढ़ाइए ।</u>

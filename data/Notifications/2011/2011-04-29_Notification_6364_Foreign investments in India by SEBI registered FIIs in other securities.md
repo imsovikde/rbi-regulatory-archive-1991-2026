@@ -1,0 +1,57 @@
+---
+doc_id: "Notifications_2011_6364"
+title: "Foreign investments in India by SEBI registered FIIs in other securities"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AR5F0290411FE.pdf"
+pdf_sha256: "e25c3e88ac96f3af25989e275e5a26c0904b508d6181831551c224c4b6aaa47b"
+md_sha256: "3ce876e5fbdbaf642da0c58255c79537ab13345de2f4bc00a7cf157eb09a55ca"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:18:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-04-29_Notification_6364_Foreign%20investments%20in%20India%20by%20SEBI%20registered%20FIIs%20in%20other%20securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Foreign investments in India by SEBI registered FIIs in other securities
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2010-11/492
+
+## A.P. (DIR Series) Circular No. 55 April 29, 2011
+
+To,
+
+All Category – I Authorised Dealer banks
+
+Madam / Sir,
+
+## Foreign investments in India by SEBI registered FIIs in other securities
+
+Attention of Authorised Dealers Category – I (AD Category-I) banks is invited to paragraph 1 of Schedule 5 to the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 notified vide <u>Notification No. FEMA 20 / 2000 -RB dated May 3, 2000</u> as amended from time to time, in terms of which, a SEBI registered Foreign Institutional Investor (FII) may purchase, on repatriation basis, listed non-convertible debentures / bonds issued by an Indian company, subject to such terms and conditions mentioned therein and limits as prescribed for the same by the RBI & the SEBI from time to time. The present limits for such investments is USD 15 billion for FII investment in corporate debt with an additional limit of USD 5 billion for FII investment in bonds with a residual maturity of over five years, issued by Indian companies which are in the infrastructure sector, where “infrastructure” is defined in terms of the extant guidelines on External Commercial Borrowings (ECB).
+
+2. It has now been decided, in consultation with the Government, to enhance the FII investment limit in listed non-convertible debentures / bonds, with a residual maturity of five years and above, and issued by Indian companies in the infrastructure sector, where ‘infrastructure’ is defined in terms of the extant ECB guidelines, by an additional limit of USD 20 billion taking this limit from USD 5 billion to USD 25 billion (with this the total limit available to FIIs for investment in listed non convertible debentures / bonds would be USD 40 billion with a sub limit of USD 25 billion for investment in listed non-convertible debentures / bonds
+
+<!-- PAGE 2 -->
+
+issued by corporates in the infrastructure sector). Further, such investment by FIIs in listed non-convertible debentures / bonds would have a minimum lock-in period of three years. However, FIIs are allowed to trade amongst themselves during the lock-in period. It has also been decided to allow SEBI registered FIIs to invest in unlisted non-convertible debentures / bonds issued by corporates in the infrastructure sector, provided that such investment is as per the aforementioned terms and conditions.
+
+3. AD Category-I banks may bring the contents of the circular to the notice of their customers/constituents concerned.
+4. Necessary amendments to Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000 (Notification No. FEMA 20/2000-RB dated May 3, 2000) are being notified separately.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Meena Hemchandra)
+
+## Chief General Manager-in-Charge

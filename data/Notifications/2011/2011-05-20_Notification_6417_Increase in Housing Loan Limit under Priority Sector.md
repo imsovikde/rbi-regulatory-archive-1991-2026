@@ -1,0 +1,43 @@
+---
+doc_id: "Notifications_2011_6417"
+title: "Increase in Housing Loan Limit under Priority Sector"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RRBBC71D160511.pdf"
+pdf_sha256: "d18b1750b04ac3965e4e758562455335f290766cf4dc5be6eb584025ba4d815c"
+md_sha256: "08dfa494401aee48824a532ef4029c332e31d8bcb8a9a9aae93e9d92b1d343c6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-20_Notification_6417_Increase%20in%20Housing%20Loan%20Limit%20under%20Priority%20Sector.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Increase in Housing Loan Limit under Priority Sector
+
+<!-- PAGE 1 -->
+
+भारतीय रज़व बक **_________________________RESERVE BANK OF INDIA________________________** <u>www.rbi.org.in</u>
+
+RBI/2010-11/533 RPCD.CORRB.No.71 /03.05.33/2010-11 May 16, 2011
+
+## The Chairman All Regional Rural Banks (RRBs)
+
+Dear Sir,
+
+## Increase in Housing Loan Limit under Priority Sector
+
+Please refer to <u>paragraph 7.1</u> of our circular RPCD.No.RRB.BC.20/03.05.33/2007-08 dated August 22, 2007 on lending to Priority Sector, wherein loans up to Rs.20 lakh irrespective of location, to individuals for purchase / construction of dwelling unit per family, excluding loans granted by banks to their own employees are eligible for classification under priority sector.
+
+2. Pursuant to the announcement made by Union Finance Minister in paragraph 44 of the budget for the year 2011-12, it has been decided to increase the above limit from Rs.20 lakh to Rs.25 lakh.
+3. The above change will be applicable to housing loans sanctioned on or after April 1, 2011.
+4. Please acknowledge receipt of the circular to our Regional Office concerned.
+## Yours faithfully
+
+(C.D.Srinivasan)
+
+## Chief General Manager
+
+Rural Planning & Credit Department Central Office**,** 1o th Floor, Central Office Building, Shahid Bhagat Singh Marg Mumbai - 1 Tel No: 91-22-22661602 /Fax No: 91-22-22621011/22610943/22610948 Email ID:cgmicrpcd@rbi.org.in

@@ -1,0 +1,118 @@
+---
+doc_id: "Notifications_2011_6438"
+title: "Overseas Direct Investment – Liberalisation / Rationalisation"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP69OL270511.PDF"
+pdf_sha256: "34772082f4c7381d8ad0ad75473b87054f908eeb1f4f9a4e082c939c4b95d612"
+md_sha256: "8ff9162c63b1047319db69c640ebd000d4c7b753b56f8680b698ae3e8f889772"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:19:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-27_Notification_6438_Overseas%20Direct%20Investment%20%E2%80%93%20Liberalisation%20-%20Rationalisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Direct Investment – Liberalisation / Rationalisation
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## <u>Mumbai - 400 001</u>
+
+## RBI/2010-11/ 548 May 27, 2011 A.P. (DIR Series) Circular No. 69
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Overseas Direct Investment – Liberalisation / Rationalisation
+
+Attention of the Authorised Dealer (AD-Category I) banks is invited to the <u>Notification No. FEMA 120/RB-2004 dated July 7, 2004</u> [Foreign Exchange Management (Transfer or Issue of any Foreign Security) (Amendment)
+
+# 2022
+
+Regulations, 2004] (the Notification), as amended from time to time and <u>A.P. (DIR</u> <u>Series) Circular No.29 dated March 27, 2006</u>. 22,
+
+2. With a view to providing more operational flexibility to Indian corporates having investments abroad, it has been decided to further liberalise / rationaliseAugust the following regulations relating to overseas direct investment:
+w.e.f.
+i) **Performance Guarantees issued by the Indian Party** At present, ‘financial commitment’ of the Indian Party includes contribution to the capital of the overseas Joint Venture (JV) / Wholly Owned Subsidiary (WOS), loan
+# Withdrawn
+
+granted to the JV / WOS and 100 per cent of guarantees issued to or on behalf of the JV/WOS. Keeping in mind the utility and usage of the instrument of performance guarantees in project executions abroad and also considering the risks associated with such guarantees vis-à-vis financial guarantees, it has been decided that only 50 per cent of the amount of the performance guarantees may be reckoned for the purpose of computing financial commitment to its JV/WOS overseas, within the 400 per cent of the net worth of the Indian Party as on the date of the last audited balance sheet. Further, the time specified for the completion of the contract may be considered as the validity period of the related performance guarantee. The Indian Party may report these guarantees in the
+
+<!-- PAGE 2 -->
+
+similar way in which financial guarantees are being presently reported. In cases where invocation of the performance guarantees breach the ceiling for the financial exposure of 400 per cent of the net worth of the Indian Party, the Indian Party shall seek the prior approval of the Reserve Bank before remitting funds from India, on account of such invocation.
+
+ii) **Restructuring of the balance sheet of the overseas entity involving write-** **off of capital and receivables**
+
+The extant FEMA Regulations do not provide for the restructuring of the balance sheet of the overseas JV/WOS not involving winding up of the entity or divestment of the stake by the Indian Party. In order to provide more operational flexibility to the Indian corporates, it has been decided that Indian promoters who have set up WOS abroad or have at least 51 per cent stake in an overseas JV, may write off
+
+# 2022
+
+capital (equity / preference shares) or other receivables, such as, loans, royalty, 22, technical knowhow fees and management fees in respect of the JV /WOS, even while such JV /WOS continue to function as under:
+
+(i) Listed Indian companies are permitted to August write off capital and other receivables up to 25 per cent of the equity investment in the JV /WOS under the Automatic Route; and
+w.e.f.
+(ii) Unlisted companies are permitted to write off capital and other receivables up to 25 per cent of the equity investment in the JV /WOS under the Approval Route.
+
+The write-off / restructuring have to be reported to the Reserve Bank through the
+
+# Withdrawn
+
+designated AD bank within 30 days of write-off/ restructuring. The write-off / restructuring is subject to the condition that the Indian Party should submit the following documents for scrutiny along with the applications to the designated AD Category –I bank under the Automatic as well as the Approval Routes:
+
+a) A certified copy of the balance sheet showing the loss in the overseas WOS/JV set up by the Indian Party; and
+b) Projections for the next five years indicating benefit accruing to the Indian company consequent to such write off / restructuring.
+
+<!-- PAGE 3 -->
+
+iii) **Disinvestment by the Indian Parties of their stake in an overseas JV/WOS** **involving write-off**
+
+(a) Currently, in terms of Regulation 16 of the Notification No. FEMA 120/RB-2004 dated July 7, 2004, as amended from time to time, all disinvestments involving ‘write off’, i.e., where the amount repatriated on disinvestment is less than the amount of original investment, need prior approval of the Reserve Bank. In terms of A.P. (DIR Series) Circular No. 29 dated March 27, 2006 it was decided to allow the undernoted categories of disinvestment under the Automatic Route without prior approval of the Reserve Bank, subject to the following conditions:
+i) In cases where the JV/WOS is listed in the overseas stock exchange; ii) In cases where the Indian promoter company is listed on a stock exchange in India and has a net worth of not less than Rs.100 crore; and2022 iii) Where the Indian promoter company is an unlisted company and the
+22, investment in the overseas venture does not exceed USD 10 million.
+
+In partial modification of the above, it has now been decided to include listed
+
+# August
+
+Indian promoter companies with net worth of less than Rs.100 crore and investment in an overseas JV/WOS not exceeding USD 10 million, for
+
+w.e.f.
+disinvestment under the Automatic Route with the requirement that the Indian Party shall report the disinvestment through its designated AD Category I bank within 30 days from the date of disinvestment.
+
+(b) It is also clarified that disinvestmWithdrawnent cases falling under the Automatic Route would also include cases where the amount repatriated after disinvestment is less than the original amount invested, provided the corporate falls under the above mentioned categories. iv) **Issue of guarantee by an Indian Party to step down subsidiary of JV** **/WOS under general permission**
+(a) Currently Indian Parties are permitted to issue corporate guarantees on behalf of their first level step down operating JV /WOS set up by their JV /WOS operating as a Special Purpose Vehicle (SPV) under the Automatic Route, subject to the
+
+<!-- PAGE 4 -->
+
+condition that the financial commitment of the Indian Party is within the extant limit for overseas direct investment. As a measure of further liberalisation, it has been decided that irrespective of whether the direct subsidiary is an operating company or a SPV, the Indian promoter entity may extend corporate guarantee on behalf of the first generation step down operating company under the Automatic Route, within the prevailing limit for overseas direct investment. Such guarantees will have to be reported to the Reserve Bank in Form ODI, as hitherto, through the designated AD concerned.
+
+(b) Further, it has also been decided that issue of corporate guarantee on behalf of second generation or subsequent level step down operating subsidiaries will be considered under the Approval Route, provided the Indian Party directly or indirectly holds 51 per cent or more stake in the overseas subsidiary for which
+# 2022
+
+such guarantee is intended to be issued. 22,
+
+3. Necessary amendments to the Foreign Exchange Management (Transfer or Issue of Any Foreign Security), Regulations, 2004 are being issued separately.
+# August
+
+4. AD-Category I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+w.e.f.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of
+1999) and are without prejudice to permissions/approvals, if any, required under
+# Withdrawn
+
+any other law.
+
+Yours faithfully,
+
+(**Meena Hemchandra)** **Chief General Manager-in-Charge**

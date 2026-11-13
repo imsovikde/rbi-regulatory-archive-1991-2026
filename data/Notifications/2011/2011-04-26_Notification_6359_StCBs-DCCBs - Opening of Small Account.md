@@ -1,0 +1,130 @@
+---
+doc_id: "Notifications_2011_6359"
+title: "StCBs/DCCBs - Opening of Small Account"
+category: "Notifications"
+year: 2011
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RCB260411BC.PDF"
+pdf_sha256: "94319ea16a5596e64192addd7a57b389d2bb42f019f787e719efb6ccd2e7c03b"
+md_sha256: "91ce8372e9eb5022dc08cf286ba811b569c20f748e769cb1dce75c296714ffbc"
+total_pages: 5
+native_pages: 4
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:18:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-04-26_Notification_6359_StCBs-DCCBs%20-%20Opening%20of%20Small%20Account.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# StCBs/DCCBs - Opening of Small Account
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/487
+
+RPCD.CO.RCB.AML.BC.N0.63/07.40.00/2010-11
+
+April 26, 2011
+
+The Chairmen/ CEOs of
+
+All State and Central Co-operative Banks
+
+Dear Sir,
+
+Opening of "Small Account""
+
+Please find enclosed a copy of the Government of India, Notification No.
+
+14/2010/F.No.6/2/2007-E.S. dated December 16, 2010, amending the Prevention
+
+of Money-laundering(Maintenance of Records of the Nature and Value of
+
+Transactions, the Procedure and Manner of Maintaining and Time for Furnishing
+
+Information and Verification and Maintenance of Records of the Identity of the
+
+Clients of the Banking Companies, Financial Institutions and Intermediaries)
+
+Rules, 2005.
+
+A.  Small Accounts
+
+2. In terms of Rule 2 clause (fb) of the Notification 'small account' means a
+
+savings account in a banking company where -
+
+(i) the aggregate of all credits in a financial year does not exceed
+
+rupees one lakh;
+
+(i) the aggregate of all withdrawals and transfers in a month does not
+
+exceed rupees ten thousand; and
+
+(ii) the balance at any point of time does not exceed rupees fifty
+
+thousand .
+
+3. Rule (2A) of the Notification lays down the detailed procedure for opening
+
+'small accounts'. Banks are advised to ensure adherence to the procedure
+
+provided in the Rules for opening of small accounts.
+
+Rural Planning & Credit Department Central Office, 1ot Floor, Central Office Building, post box no.
+
+10014Mumbai-400001
+
+<!-- PAGE 2 -->
+
+## B. Officially Valid Documents
+
+4. The Notification has also expanded the definition of 'officially valid document' as contained in clause (d) of Rule 2(1)of the PML Rules to include job card issued by NREGA duly signed by an officer of the State Government or the letters issued by the Unique Identification Authority of India containing details of name, address and Aadhaar number.
+5. It is further advised that where a bank has relied exclusively on any of these two documents, viz. NREGA job card or Aadhaar letter, as complete KYC document for opening of an account (ref. Annex-II to the Guidelines on 'Know Your Customer' Norms and Anti-Money Laundering Measures' enclosed to our circular <u>RPCD.AML.BC.No.80/07.40.00/2004-05 dated February 18, 2005</u>) the bank account so opened will also be subjected to all conditions and limitations prescribed for small account in the Notification.
+6. Accordingly, all accounts opened in terms of procedure prescribed in Rule 2A of the Notification enclosed and all other accounts opened ONLY on the basis of NREGA card or Aadhaar letter should be treated as "small accounts" subject to the conditions stipulated in clause (i) to (v) of the sub-rule (2A) of Rule 9.
+7. Please acknowledge receipt to our Regional Office concerned. Yours faithfully, (C.D.Srinivasan) Chief General Manager
+## Encl: As above
+
+<!-- PAGE 3 -->
+
+## Government of India Ministry of Finance (Department of Revenue)
+
+## Notification
+
+## New Delhi, the 16th December, 2010
+
+GSR (E) – In exercise of the powers conferred by sub-section (1) read with clauses (h)
+
+(i), (j) and (k) of sub-section (2) of Section 73 of the Prevention of Money-laundering Act, 2002 (15 of 2003), the Central Government hereby makes the following amendments to the Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005, namely::-
+1. (1) These rules may be called the Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Third Amendment Rules, 2010.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+2. In the Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005, -
+(a) in rule 2,-
+(i) after clause (b), the following clause shall be inserted, namely:- “(bb) “Designated Officer” means any officer or a class of officers authorized by a banking company, either by name or by designation, for the purpose of opening small accounts”. (ii) in clause (d), for the words “the Election Commission of India or any other document as may be required by the banking company or financial institution or intermediary”, the words “Election Commission of India, job card issued by NREGA duly signed by an officer of the State Government, the letter issued by the Unique Identification Authority of India containing details of name, address and Aadhaar number or any other document as notified by the Central Government in consultation with the Reserve Bank of India or any other document as may be required by the banking companies, or financial institution or intermediary” shall be substituted;
+
+<!-- PAGE 4 -->
+
+(iii) after clause (fa), the following clause shall be inserted, namely:-
+
+“(fb) “small account” means a savings account in a banking company where-
+
+(i) the aggregate of all credits in a financial year does not exceed rupees one lakh, (ii) the aggregate of all withdrawals and transfers in a month does not exceed rupees ten thousand, and; (iii) the balance at any point of time does not exceed rupees fifty thousand”.
+(b) In rule 9, after sub-rule (2), the following sub-rule shall be inserted, namely:- “(2A) Notwithstanding anything contained in sub-rule (2), an individual who desires to open a small account in a banking company may be allowed to open such an account on production of a self-attested photograph and affixation of signature or thumb print, as the case may be, on the form for opening the account.
+## Provided that –
+
+(i) the designated officer of the banking company, while opening the small account, certifies under his signature that the person opening the account has affixed his signature or thumb print, as the case may be, in his presence; (ii) a small account shall be opened only at Core Banking Solution linked banking company branches or in a branch where it is possible to manually monitor and ensure that foreign remittances are not credited to a small account and that the stipulated limits on monthly and annual aggregate of transactions and balance in such accounts are not breached, before a transaction is allowed to take place; (iii) a small account shall remain operational initially for a period of twelve months, and thereafter for a further period of twelve months if the holder of such an account provides evidence before the banking company of having applied for any of the officially valid documents within twelve months of the opening of the said account, with the entire relaxation provisions to be reviewed in respect of the said account after twenty four months. (iv) a small account shall be monitored and when there is suspicion of money laundering or financing of terrorism or other high risk scenarios, the identity of client shall be established through the production of officially valid documents, as referred to in sub rule ( 2) of rule 9"; and
+(v) foreign remittance shall not be allowed to be credited into a small account unless the identity of the client is fully established through the production of officially valid documents, as referred to in sub-rule (2) of rule 9.”
+
+<!-- PAGE 5 -->
+
+## (Notification No.14/2010/F.No.6/2/2007-ES)
+
+## (S.R. Meena) Under Secretary
+
+**Note** : The principal rules were published in Gazette of India, Extraordinary, Part-II, Section 3, Sib-Section (i) vide number G.S.R.444 (E), dated the 1st July, 2005 and subsequently amended by number G.S.R.717 (E), dated the 13th December, 2005, number G.S.R. 389(E), dated the 24th May, 2007, number G.S.R. 816(E), dated the 12th November, 2009, number G.S.R.76 (E), dated the 12th February, 2010 and number
+
+G.S.R. 508(E), dated the 16th June, 2010.
