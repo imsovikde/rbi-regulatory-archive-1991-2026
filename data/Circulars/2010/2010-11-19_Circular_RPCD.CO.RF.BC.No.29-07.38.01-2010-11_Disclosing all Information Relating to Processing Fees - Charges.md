@@ -1,0 +1,48 @@
+---
+doc_id: "Circulars_2010_RPCD_CO_RF_BC_No_29_07_38_01_2010-11"
+title: "Disclosing all Information Relating to Processing Fees / Charges"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FBC191110.PDF"
+pdf_sha256: "e0df5baaf063b55938c7dbfb66e0fc24e94407f33be3cc4096b7d2d0277ee54c"
+md_sha256: "468558fbb1eac95fdf8f7b00f9e4808ebc62f053f97b4b2ee5617eceaa17ce2b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:11:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-11-19_Circular_RPCD.CO.RF.BC.No.29-07.38.01-2010-11_Disclosing%20all%20Information%20Relating%20to%20Processing%20Fees%20-%20Charges.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Disclosing all Information Relating to Processing Fees / Charges
+
+<!-- PAGE 1 -->
+
+______________________ RESERVE BANK OF INDIA____________________ www.rbi.org.in **RBI/2010-11/285** **RPCD.CO.RF.BC.No.29/07.38.01/2010-11 November 19, 2010**
+
+All State Co-operative Banks (StCBs) and Central Co-operative Banks (CCBs)
+
+Dear Sir,
+
+## <u>Disclosing all information relating to processing fees / charges</u>
+
+Please refer to our circular <u>RPCD.CO.RF.BC.No.78/07.38.01/2008-09 dated</u> <u>December 19, 2008</u> containing guidelines on the captioned subject wherein banks were advised to ensure that all information relating to charges/fees for processing are invariably disclosed in the loan application forms and that banks must inform 'all-in-cost' to the customers to enable them to compare the rates charged with other sources of finance.
+
+2. With a view to bringing in fairness and transparency, banks are advised that they must transparently disclose to Withdrawn the borrower all information about fees/charges payable for processing the loan application, the amount of fees refundable if loan amount is not sanctioned/disbursed, pre-payment options and charges, if any, penalty for delayed repayments if any, conversion charges for switching loan from fixed to floating rates or vice versa, existence of any interest reset clause and any other matter which affects the interest of the borrower. Such information should also be displayed in the website of the banks, if any, for all categories of loan products.
+3. In other words, banks must disclose **'all in cost' inclusive of all such** **charges involved in processing/sanction of loan application in a** **transparent manner** to enable the customer to compare the rates/charges with **Rural Planning & Credit Department Central Office, 10**
+**th** **Floor, Central Office Building, post box no.** **10014 Mumbai -400 001** **Tel No: 91-22-22601000 ¸Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+other sources of finance. It should also be ensured that such charges / fees are
+
+non-discriminatory.
+
+Yours faithfully,
+
+(B.P.Vijayendra) Chief General Manager
+
+# Withdrawn
+
+**Rural Planning & Credit Department Central Office, 10** **th** **Floor, Central Office Building, post box no.** **10014 Mumbai -400 001** **Tel No: 91-22-22601000 ¸Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in**

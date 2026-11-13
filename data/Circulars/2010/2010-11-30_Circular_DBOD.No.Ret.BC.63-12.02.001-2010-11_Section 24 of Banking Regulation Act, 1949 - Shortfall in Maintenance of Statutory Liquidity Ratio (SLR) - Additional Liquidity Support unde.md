@@ -1,0 +1,41 @@
+---
+doc_id: "Circulars_2010_DBOD_No_Ret_BC_63_12_02_001_2010-11"
+title: "Section 24 of Banking Regulation Act, 1949 - Shortfall in Maintenance of Statutory Liquidity Ratio (SLR) - Additional Liquidity Support under Liquidity Adjustment Facility (LAF)"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRL301110.PDF"
+pdf_sha256: "338838e4314618913adc0117437a57663f3b59be35e8b60d3f3409f7180591c8"
+md_sha256: "035b0c6c4bbeb78549811c23398c698cc6baecff0262541af99d97aaf5b8f683"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:11:35Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-11-30_Circular_DBOD.No.Ret.BC.63-12.02.001-2010-11_Section%2024%20of%20Banking%20Regulation%20Act%2C%201949%20-%20Shortfall%20in%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29%20-%20Additional%20Liquidity%20Support%20unde.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 24 of Banking Regulation Act, 1949 - Shortfall in Maintenance of Statutory Liquidity Ratio (SLR) - Additional Liquidity Support under Liquidity Adjustment Facility (LAF)
+
+<!-- PAGE 1 -->
+
+# Yeejler³e fjeJeõ yeQkeÀ
+
+## ____RESERVE BANK OF INDIA_______
+
+www.rbi.org.in
+
+RBI/2010-11/290 Ref. DBOD.No.Ret.BC. 63 /12.02.001/2010-11 November 30, 2010
+
+### All Scheduled Commercial Banks
+
+Dear Sir,
+
+**Section 24 of Banking Regulation Act, 1949 -- Shortfall in Maintenance of** **Statutory Liquidity Ratio (SLR) – Additional Liquidity Support under Liquidity** **Adjustment Facility (LAF)**
+
+Please refer to our circular <u>DBOD. No. Ret. BC. 60/12.02.001/2010-11</u> <u>dated November 09, 2010</u> wherein it was advised that Scheduled Commercial Banks may avail of additional liquidity support under the LAF to the extent of up to 1.0 per cent of their Net Demand and Time Liabilities (NDTL) as on the reporting Friday of the second preceding fortnight till December 16, 2010. For any shortfall in maintenance of Statutory Liquidity Ratio (SLR) during November 9 – December 16, 2010 arising out of availment of this facility, banks may seek waiver of penal interest purely as an *ad hoc,* temporary measure.
+
+2. As stated in the <u>Press Release</u> issued by the Reserve Bank of India on November 29, 2010, in order to provide further liquidity comfort, it has been decided to allow Scheduled Commercial Banks to avail of the additional liquidity support under the LAF to the extent of up to 2.0 per cent of their NDTL as Withdrawn on the reporting Friday of the second preceding fortnight with immediate effect up to January 28, 2011. For any shortfall in SLR maintenance arising out of availment of this facility, banks may seek waiver of penal interest on a fortnightly basis purely as an *ad hoc,* temporary measure. The liquidity support availed under this facility would, however, need to be reported on a daily basis. Yours faithfully,
+### (B. Mahapatra) Chief General Manager -in-Charge
+
+___________________________________________________________________________________________________________________ ______________________________ Department of Banking Operations and Development, Central Office, Centre 1, Cuffe Parade, Colaba, Mumbai - 400005 Tel No: 91-22-22189131/Fax No: 91-22-22183785 Email ID:cgmicdbodco@rbi.org.in

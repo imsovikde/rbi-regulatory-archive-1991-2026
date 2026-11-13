@@ -1,0 +1,116 @@
+---
+doc_id: "Circulars_2010_RPCD_CO_RRB_No_42_03_05_28_B_2010-11"
+title: "Notification on Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio (SLR)"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RR43271210S.PDF"
+pdf_sha256: "9cc04f5f7b0f6216d1160d9efc53296fc930d48d3781c63250a77c9ca70cc944"
+md_sha256: "b5f5dab1d7502354f621d84047712cf1e4dfabcea0682a1e652ae9134f26b621"
+total_pages: 2
+native_pages: 0
+ocr_pages: 2
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:13:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-27_Circular_RPCD.CO.RRB.No.42-03.05.28%28B%29-2010-11_Notification%20on%20Section%2024%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Maintenance%20of%20Statutory%20Liquidity%20Ratio%20%28SLR%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Notification on Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio (SLR)
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/332
+
+RPCD.CO.RRB.BC.No.43 /03.05.28(B)/ 2010-11
+
+December 27,2010
+
+All Regional Rural Banks
+
+Dear Sir,
+
+Section 24 of the Banking Regulation Act, 1949 - Maintenance of Statutory Liquidity Ratio
+
+(SLR).
+
+Please refer to our circular RPCD. CO. RRB. BC. No. 38 / 03.05.28(B)/ 2009-10 (RBI/ 2009-10/
+
+201) dated October 29, 2009, on the captioned subject.
+
+2. As announced in the Mid-Quarter Review of Mor
+
+ntaryPolicyreleasedonDecember16.
+
+2010, it has been decided to reduce the Statuto
+
+iquidity Ratio (SLR) for Regional Rural
+
+Banks from 25 per cent of their Net Demand
+
+ime Liabilities (NDTL) to 24 per cent with
+
+effect from December 18, 2010.
+
+ithdraw
+
+December27,2010isenclosed
+
+4. Please acknowledge receipt.
+
+Yours faithfully,
+
+(B.P. Vijayendra)
+
+Chief General Manager
+
+Encl.: As above
+
+Rural Planning & Credit Department Central Office, 13th Floor Central Office Building, post box no.10014 Mumbai-1
+
+Tel No:91-22-22661602FaxNo:91-22-22621011/22658273/22658276EmailID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RPCD.CO.RRB.No.42/ 03.05.28(B)/2010-11
+
+December27,2010
+
+NOTIFICATION
+
+In exercise of the powers conferred by sub-section (2A) of Section 24 of the Banking Regulation
+
+Act, 1949 (10 of 1949) as amended from time to time and,in partial modification of the
+
+NotificationRPCD.CO.RRB.No.37/03.05.28(B)/ 2009-10datedOctober29,2009,
+
+the
+
+Reserve Bank of India hereby specifies that with effect from December 18, 2010, every
+
+Regional Rural Bank shall maintain in India assets as
+
+No.35/ 03.05.28(B)/2009-10 dated October29,
+
+the value of which shall not at the close
+
+of business of any day be less than 24 per (
+
+the total net demand and time liabilities in
+
+India as on the last Friday of the second
+
+g fortnight.
+
+(V.K.Sharma)
+
+Executive Director
+
+Rural Planning & Credit Department Central Office, 13" Floor Central Office Building, post box no.10014 Mumbai-1

@@ -1,0 +1,78 @@
+---
+doc_id: "Circulars_2010_RPCD_CO_RRB_BC_No_28_03_05_90-A_2010-11"
+title: "Section 23 of the Banking Regulation Act, 1949 - Relaxations in Branch Licensing Policy"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BCBLLL181110.PDF"
+pdf_sha256: "1313f884bb4839e69c2cfabacad52202fab4aa1334e1cc58fd0526e33f8dcbc3"
+md_sha256: "21edcdc47824d97e7290b00ddd38f438a69673f9f811b3460fadebb49911c97f"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T09:11:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-11-18_Circular_RPCD.CO.RRB.BC.No.28-03.05.90-A-2010-11_Section%2023%20of%20the%20Banking%20Regulation%20Act%2C%201949%20-%20Relaxations%20in%20Branch%20Licensing%20Policy.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Section 23 of the Banking Regulation Act, 1949 - Relaxations in Branch Licensing Policy
+
+<!-- PAGE 1 -->
+
+भारतीय िरज़वर् बक _________________________ RESERVE BANK OF INDIA______________________ <u>www.rbi.org.in</u> RBI/2010-11/283
+
+RPCD.CO.RRB.BC No. 28/ 03.05.90-A/2010-11 November 18, 2010
+
+The Chairmen All Regional Rural Banks
+
+Dear Sir,
+
+## Section 23 of the Banking Regulation Act, 1949- Relaxations in Branch Licensing Policy
+
+A reference is invited to paragraph 80 of the Second Quarter Review of Monetary Policy for the Year 2010-11 (<u>extract enclosed – Annex I</u>) regarding the proposal to liberalise the extant Branch Licensing for Regional Rural Banks.
+
+2. Accordingly, Reserve Bank of India hereby permits **Regional Rural Banks** to open branches in Tier 3 to Tier 6 centres (with population up to 49,999 as per Census 2001 – details of classification of centres tier-wise furnished in <u>Annex II</u>) without having the need to take permission from Reserve Bank of India in each case, subject to reporting, provided they fulfil the following conditions as per the latest inspection report:-
+# Withdrawn
+
+i) CRAR of at least 9%; ii) Net NPA less than 5%; iii) No default in CRR/SLR for the last year; iv) Net profit in the last financial year;
+3. Other RRBs will have to continue to approach RBI/ NABARD as hitherto. As RRBs have to be fully CBS compliant by September 30, 2011, after that date, the liberalisation will be available only to such RRBs.
+Rural Planning & Credit Department Central Office**,** 10 th Floor Central Office Building, post box no.10014 Mumbai-400001 ’½¢¥¸ûÅø›¸ /Tel No: 91-22-22661602 û¾ÅÆ¬¸/Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. All other instructions contained in our <u>Master circular RPCD.CO.RRB.BC No. 8/ 03.05.90-</u> <u>A/2010-11 dated July 1, 2010</u>, on Branch Licensing, remain unchanged. Yours faithfully, Sd/- (B.P.Vijayendra) Chief General Manager
+## Encls.: As above (02 sheets)
+
+# Withdrawn
+
+_____________________________________________________________________ Rural Planning & Credit Department Central Office**,** 10 th Floor Central Office Building, post box no.10014 Mumbai-400001 Tel No: 91-22-22661602 /Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 3 -->
+
+## Annex I
+
+## <u>Extract of Second Quarter Review of Monetary Policy 2010‐11</u>
+
+*Liberalisation in Branch Licensing of Regional Rural Banks*
+
+80. As part of further liberalisation of the extant branch licensing policy in respect of regional rural banks (RRBs), it is proposed:
+- to allow RRBs to open branches in Tier 3 to Tier 6 centres as identified in the Census 2001 (with population up to 49,999) without prior authorisation of the Reserve Bank, subject to their fulfilling certain conditions.
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+**Annex II**
+
+**Details of tier‐wise classification of centres based on population**
+
+## (i) Classification of centres(tier-wise Population(as per 2001
+
+## Census)
+
+Tier 1 -1,00,000 and above Tier 2-50,000 to 99,999 Tier 3-20,000 to 49,999 Tier 4-10,000 to 19,999 Tier 5-5,000 to 9,999 <u>Tier 6-Less than 5000</u>
+
+## <u>(ii) Population-group wise classification of centres</u>
+
+Rural Centre Population upto 9,999 Semi-urban centre from 10,000 to 99,999 Urban centre from 1,00,000 to 9,99,999 Metropolitan centre 10,00,000 and above
+
+# Withdrawn

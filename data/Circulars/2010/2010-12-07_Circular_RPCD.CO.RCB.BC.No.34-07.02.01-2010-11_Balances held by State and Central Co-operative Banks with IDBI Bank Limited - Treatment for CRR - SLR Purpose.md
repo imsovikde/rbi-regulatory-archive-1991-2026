@@ -1,0 +1,97 @@
+---
+doc_id: "Circulars_2010_RPCD_CO_RCB_BC_No_34_07_02_01_2010-11"
+title: "Balances held by State and Central Co-operative Banks with IDBI Bank Limited - Treatment for CRR / SLR Purpose"
+category: "Circulars"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/BIDBI07122010.PDF"
+pdf_sha256: "e528b851c6a873289f540deddcd38eb9d685046ef887d41980f7181e6af6d459"
+md_sha256: "bbda625199501ab0f9f9b9884e7ecf4c438a1324a1366a0bb22bce1ae0028dcb"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T09:11:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-07_Circular_RPCD.CO.RCB.BC.No.34-07.02.01-2010-11_Balances%20held%20by%20State%20and%20Central%20Co-operative%20Banks%20with%20IDBI%20Bank%20Limited%20-%20Treatment%20for%20CRR%20-%20SLR%20Purpose.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Balances held by State and Central Co-operative Banks with IDBI Bank Limited - Treatment for CRR / SLR Purpose
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2010-11/302
+
+December 7, 2010
+
+RPCD.CO.RCB.BC.No.34/07.02.01/2010-11
+
+The Chief Executive Officers,
+
+All State / Central Co-operative Banks (StCBs/DCCBs)
+
+Dear Sir,
+
+Balances held by State and Central Co-operativeBanks with IDBl Bank
+
+Limited -Treatment for CRR/ SLR Purpose
+
+It has been decided that State and Central Co-operative Banks are exempted till
+
+further order from the obligation of maintenance of cash reserve ratio (CRR)
+
+under section 18 or assets in the form of cash,
+
+gold or unencumbered approved
+
+of the Banking Regulation Act,
+
+1949, to the extent of the amounts dep
+
+by them with IDBl Bank Limited, in
+
+current account.
+
+2. A copy of the notification
+
+RPCD.CO.RCB.No.26/07.02.01/2010-11dated
+
+October 22,2010 published in Part lll Section 4 of the Gazette of India
+
+(Extraordinary) dated November 6, 2010 is enclosed.
+
+3. Please acknowledge receipt to the Regional Office concerned.
+
+Yours faithfully,
+
+(B.P.Vijayendra)
+
+ChiefGeneral Manager
+
+Encl: As stated
+
+Rural Planning & Credit Department Central Office, 1oth Floor, Central Office Building, post box no.
+
+10014Mumbai-400001
+
+<!-- PAGE 2 -->
+
+## The Gazette of India
+
+## EXTRAORDINARY
+
+## PART III-Section 4
+
+## <u>PUBLISHED BY AUTHORITY</u>
+
+## No.295] New Delhi, Saturday, November 6, 2010/Kartika 15, 1932
+
+## RESERVE BANK OF INDIA NOTIFICATION
+
+**nd** **Mumbai, the 22 October, 2010**
+
+**F.No.RPCD.CO.RCB.No.26/07.02.01/2010-11** Whereas Reserve Bank is satisfied that in public interest, in the interest of depositors and in the interest of the banking policy, it is necessary so to do, in exercise of powers conferred by Section 24A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank hereby notifies that State Co-operative Banks and Central Co-operative Banks, are exempted, till further order, from the obligation of maintenance of cash reserve ratio (CRR) under Section 18 or assets in the form of cash gold or unencumbered approved securities under Section 24 read with section 56 of the Banking Regulation Act, 1949, to the extent of the amounts deposited by them with IDBI Bank Limited, in current account. (V.K.Sharma) Executive Director [ADVT.III/4/38/10/Exty.]
+# Withdrawn
