@@ -1,0 +1,62 @@
+---
+doc_id: "Circulars_2025_DOR_MRG_REC_60_00-00-017_2024-25"
+title: "Reserve Bank of India (Prudential Regulations on Basel III Capital Framework, Exposure Norms, Significant Investments, Classification, Valuation and Operation of Investment Portfolio Norms and Resource Raising Norms for All India Financial Institutions) Directions, 2023 - Amendment"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT1169A68D6B7EB914975ACA7CB79F56E6655.PDF"
+pdf_sha256: "373d2edafabfa3c2280096e1ba386acf70469e1c73bdc3cd8674f16369de476f"
+md_sha256: "04da5c7a11efa0a9e9db4e1029950087bfc9f812378af5ed9d0817c5e88d0bd7"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:56:03Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-02-17_Circular_DOR.MRG.REC.60-00-00-017-2024-25_Reserve%20Bank%20of%20India%20%28Prudential%20Regulations%20on%20Basel%20III%20Capital%20Framework%2C%20Exposure%20Norms%2C%20Significant%20Investments%2C%20Classification%2C%20Valuatio.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India (Prudential Regulations on Basel III Capital Framework, Exposure Norms, Significant Investments, Classification, Valuation and Operation of Investment Portfolio Norms and Resource Raising Norms for All India Financial Institutions) Directions, 2023 - Amendment
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक
+
+_________________________**RESERVE BANK OF INDIA** ______________________ <u>www.rbi.org.in</u>
+
+RBI/2024-25/116 DOR.MRG.REC.60/00-00-017/2024-25 February 17, 2025
+
+Madam / Dear Sir,
+
+**Reserve Bank of India (Prudential Regulations on Basel III Capital Framework,** **Exposure Norms, Significant Investments, Classification, Valuation and** **Operation of Investment Portfolio Norms and Resource Raising Norms for All** **India Financial Institutions) Directions, 2023 - Amendment**
+
+Please refer to paragraph 34.2 of the <u>Reserve Bank of India (Prudential Regulations</u>
+
+|on|Basel|III|Capital|Framework,|Exposure|Norms,|Significant|Investments,|
+|---|---|---|---|---|---|---|---|---|
+|Classification, Valuation and Operation of Investment Portfolio Norms and Resource|||||||||
+|Raising||Norms|for|All India Financial|Institutions)||Directions,|2023 issued on|
+
+<u>September 21, 2023</u>.
+
+2. On a review, it has been decided that investments made by All India Financial Institutions (AIFIs), as per their statutory mandates, in long-term bonds and debentures (i.e., having minimum Withdrawn residual maturity of three years at the time of investment) issued by non-financial entities shall not be accounted for the purpose of the ceiling of 25 per cent applicable to investments included under Held to Maturity (HTM) category, specified under the Directions *ibid*.
+3. Accordingly, the relevant instructions have been amended as detailed in <u>Annex</u>.
+## Applicability
+
+4. This circular shall be applicable to the AIFIs regulated by the Reserve Bank, viz. the Export-Import Bank of India (EXIM Bank), the National Bank for Agriculture and Rural Development (NABARD), the National Bank for Financing Infrastructure and Development (NaBFID), the National Housing Bank (NHB) and the Small Industries Development Bank of India (SIDBI).
+िविनयमन िवभाग,क �ीय कायार्लय, 12 व और 13 व मंिजल, क � ी य कायार्लय भवन, शहीद भगत �संह मागर्,फोटर्,मुंबई-400001 दूरभाष: 022-22601000 फै क् स : 022-22705691 ई-मेल: cgmicdor@rbi.org.in _____________________________________________________________________________________________________________________________________ Department of Regulation, Central Office, 12thand 13thFloor, Central Office Building, Shahid Bhagat Singh Marg, Fort, Mumbai- 400 001 Tel: 022- 2260 1000 Fax: 022-2270 5691 email: cgmicdor@rbi.org.in <u>हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+5. This circular is issued in exercise of the powers conferred under Section 45L of the Reserve Bank of India Act, 1934.
+6. These instructions shall come into force with effect from April 1, 2025. Yours faithfully, (Usha Janakiraman) Chief General Manager-in Charge
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+|Reserve|Bank of|India (Prudential Regulations Framework, Exposure Norms, Significant Investments, Classification, Valuation|on Basel III Capital|
+|---|---|---|---|
+|||and Operation of Investment Portfolio Norms and Resource Raising Norms for All India Financial Institutions) Directions, 2023 issued on September 21, 2023||
+|Sr. No.|Reference Paragraph|Existing text|Amended text (in track- change mode)|
+|1|34.2.3|Investments as specified in accounted for the purpose of 34.2.1 of these Directions. Withdrawn|Investments as specified in sub-sections (ii) and (iii) sub-sections (ii) and (iii) above, shall not be above, shall not be accounted for the purpose of ceiling of 25 percent ceiling of 25 percent specified under section specified under section 34.2.1 of these Directions. The following investments shall not be accounted for the purpose of ceiling of 25 percent specified under section 34.2.1 of these Directions: (i) investments as specified in sub-sections 34.2.2(ii) and 34.2.2(iii) above; and (ii) investments made by AIFIs, as per their statutory mandates, in long-term bonds and debentures (i.e., having minimum residual maturity of three years at the time of investment) issued by non-financial entities.|

@@ -1,0 +1,63 @@
+---
+doc_id: "Circulars_2024_DoS_CO_PPG_SEC_10_11_01_005_2024-25"
+title: "Gold loans - Irregular practices observed in grant of loans against pledge of gold ornaments and jewellery"
+category: "Circulars"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI74300924007B5C91C2704D8C8F5152E2FC314A66.PDF"
+pdf_sha256: "3f1af091fa57067fe3127ea94386a1c508c14e343820b8394f0a7743d50a14c7"
+md_sha256: "6c19f0244dd28881faa5e2cabb33e2e34f9e2c1e73df3220c8eccf8b7f79ec67"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:55:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-09-30_Circular_DoS.CO.PPG.SEC.10-11.01.005-2024-25_Gold%20loans%20-%20Irregular%20practices%20observed%20in%20grant%20of%20loans%20against%20pledge%20of%20gold%20ornaments%20and%20jewellery.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Gold loans - Irregular practices observed in grant of loans against pledge of gold ornaments and jewellery
+
+<!-- PAGE 1 -->
+
+RBI/2024-25/77 DoS.CO.PPG.SEC.10/11.01.005/2024-25 September 30, 2024
+
+All Commercial Banks (including Small Finance Banks but excluding Regional Rural Banks and Payments Banks) All Primary (Urban) Co-operative Banks All Non-Banking Financial Companies
+
+Madam / Dear Sir,
+
+**Gold loans-Irregular practices observed in** <u>grant of loans against pledge of gold ornaments and jewellery</u>
+
+A reference is invited to the circulars¹ issued by the Reserve Bank containing various prudential guidelines related to loans against pledge of gold ornaments and jewellery for different categories of Supervised Entities (SEs).
+
+2. Reserve Bank has recently carried out a review of the adherence to prudential guidelines as well as practices being followed by SEs with regard to loans against pledge of gold ornaments and jewellery. The review, as well as the findings of the onsite examination of select SEs by the Reserve Bank, indicate several irregular
+# Withdrawn
+
+practices in this activity. The major deficiencies include (i) shortcomings in use of third parties for sourcing and appraisal of loans; (ii) valuation of gold without the presence of the customer; (iii) inadequate due diligence and lack of end use monitoring of gold loans; (iv) lack of transparency during auction of gold ornaments and jewellery on default by the customer; (v) weaknesses in monitoring of LTV; and (vi) incorrect application of risk-weights, etc. The enclosed <u>Annex</u> incorporates further details in this regard.
+
+1 <u>Master Circular on Basel III Regulations dated May 12, 2023</u> (applicable at the time of the review); <u>Master Circular on Loans and Advances dated July 1, 2015</u>; <u>Master Direction – Reserve Bank of India</u> <u>(Non-Banking Financial Company – Scale Based Regulation) Directions, 2023 dated October 19, 2023</u> (updated from time to time); <u>Master Circular – Management of Advances – UCBs dated July 25, 2023</u>; and <u>Master Circular – Prudential Norms on Capital Adequacy for Primary UCBs dated April 20, 2023</u>. पयर्वेक्षण वभाग, के न्द्रय कायार्लय, मेकर टावर - एफ़, कफ परे ड, कोलाबा, मुंबई - 400 005 टेलफोन: 022-6997 3798 ई-मेल : <u>ppgdos@rbi.org.in</u> Department of Supervision, Central Office, Maker Tower-F, Cuffe Parade, Colaba, Mumbai - 400 005 Tel: 022-6997 3798 E-mail : <u>ppgdos@rbi.org.in</u> <u>�हंदी आसान है इसका �योग बढ़ाइए</u>
+
+<!-- PAGE 2 -->
+
+3. All SEs are, therefore, advised to comprehensively review their policies, processes and practices on gold loans to identify gaps, including those highlighted in this advice, and initiate appropriate remedial measures in a timebound manner. Further, the gold loan portfolio should be closely monitored, especially in the light of significant growth in the portfolio in certain SEs. It should also be ensured that adequate controls are in place over outsourced activities and third-party service providers.
+4. Action taken with regard to the above may be informed to the Senior Supervisory Manager (SSM) of Reserve Bank within three months of the date of this circular. Non- compliance with regulatory guidelines in this regard will be viewed seriously and will attract, among other things, supervisory action by RBI.
+5. This circular takes immediate effect. Yours faithfully, (Tarun Singh) Chief General Manager Encl.: As above
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Illustrative list of deficiencies observed during review of gold loans in select SEs
+
+i. In loans granted through partnership with Fintech entities/ business correspondents (BC), practices such as valuation of gold being carried out in the absence of customer, credit appraisal and valuation done by the BC itself, gold stored in the custody of BC, delayed and insecure mode of transportation of gold to the branch, KYC compliance being done through Fintechs, use of internal accounts for disbursement as well as repayment of loans were observed. ii. Lack of a robust system for periodical LTV monitoring with instances of breach of regulatory LTV ceilings observed in some SEs. System generated alerts, where available, were not pursued actively to address the breach in LTV ceiling.
+iii. Application of risk weights were at variance with the prudential regulations. iv. End use of funds was usually not verified for non-agriculture loans. Lack of proof or proper documentation obtained and retained in respect of agriculture gold loans.
+
+v. Lack of a specific identifier for top up goldWithdrawnloans in the Core Banking System / Loan Processing System with the SEs mostly to facilitate evergreening of loans. Also, no fresh appraisal was done at the time of sanctioning these top up loans. vi. Many loan accounts were closed within a short time from sanction, i.e. within a few days raising doubts over the economic rationale for such action.
+vii. Average realisation from auction of gold on default by the customer was low in certain SEs than the estimated value of gold, reflecting among other things, gaps in valuation process. viii. Share of gold loans disbursed in cash to total gold loans disbursed was high in some entities and the statutory limit specified under the Income Tax Act, 1961 on cash mode of disbursal was not adhered to in many cases.
+
+<!-- PAGE 4 -->
+
+ix. Weak governance and transaction monitoring as instances of unusually high number of gold loans being granted to the same individual with the same PAN during a financial year.
+
+x. Practice of rolling over loans at the end of tenor, with only part payment. xi. Non-categorisation of gold loans as NPA in the system, evergreening by renewing overdue loans/issuing a fresh loan, inadequate monitoring by Senior Management/ Board and inadequate or absence of controls over third-party entities.
+# Withdrawn

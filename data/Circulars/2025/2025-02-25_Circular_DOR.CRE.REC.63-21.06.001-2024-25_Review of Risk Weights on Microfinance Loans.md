@@ -1,0 +1,48 @@
+---
+doc_id: "Circulars_2025_DOR_CRE_REC_63_21_06_001_2024-25"
+title: "Review of Risk Weights on Microfinance Loans"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1196B6C5C2DA9B045E1B78A66F75BB5DAB3.PDF"
+pdf_sha256: "3f697da3f0e2bbea032bad8eddedc8a9aaa627423c4659b035c72b3bb1b1375d"
+md_sha256: "71373b086902ae3b0d18da60b3877abeea7a67ff65a69683f074e63bddc96a37"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:56:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-02-25_Circular_DOR.CRE.REC.63-21.06.001-2024-25_Review%20of%20Risk%20Weights%20on%20Microfinance%20Loans.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review of Risk Weights on Microfinance Loans
+
+<!-- PAGE 1 -->
+
+# भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2024-25/119 DOR.CRE.REC.63/21.06.001/2024-25 February 25, 2025
+
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) excluding Payments Banks
+
+Madam / Dear Sir, **Review of Risk Weights on Microfinance Loans**
+
+<u>I. Commercial Banks (including Small Finance Banks but excluding Regional Rural</u> <u>Banks and Local Area Banks</u>) In terms of para 5.9.1 of ‘<u>Master Circular on Basel III – Capital Regulations’ dated April</u> <u>01, 2024</u> 1
+, as amended from time to time, claims (including both fund-based and non- fund based) that meet all the four criteria listed in paragraph 5.9.3 of the Master Circular *ibid* may be considered as retail claims for regulatory capital purposes and included in a regulatory retail portfolioWithdrawn(RRP), attracting a risk weight of 75 per cent. Para 5.9.2 of the Master Circular *ibid* disallows certain claims like consumer credit, including personal loans from being categorised under RRP.
+
+2. Further, in terms of <u>circular ‘Regulatory measures towards consumer credit and</u> <u>bank credit to NBFCs’ dated November 16, 2023</u>, risk weights on consumer credit, including personal loans, but excluding housing loans, education loans, vehicle loans and loans secured by gold and gold jewellery, was increased to 125 per cent. On a review, it has been decided that microfinance loans in the nature of consumer credit shall also be excluded from the applicability of higher risk weights specified in the circular *ibid* and shall accordingly, be subject to a risk weight of 100 per cent. 1 As also applicable to SFBs, in terms of Paragraph 1.4 of the Annex to <u>Operating Guidelines for Small</u> <u>Finance Banks dated October 06, 2016</u> __________________________________________________________________ िविनयमन िवभाग, क � ी य
+
+||कायार्लय, क � ी य|कायार्लय|भवन, 12व/ 13व मंिज़ल, शहीद||भगत �संह|मागर्, फोटर्, मुंबई - 400001|
+|---|---|---|---|---|---|---|
+||टेलीफोन/ Tel No: 22661602, 22601000|||फै क् स / Fax No: 022-2270 5691|||
+|Department of Regulation, Central Office, Central Office Building, 12||हंदी आसान है|, इसका �योग बढ़ाइए|/ 13 Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001|||
+
+th th
+
+<!-- PAGE 2 -->
+
+3. It is further clarified that microfinance loans which are not in the nature of consumer credit and fulfil all the four criteria specified in para 5.9.3 of the Master Circular *ibid,* may be classified under RRP provided that the banks put in place appropriate policies and standard operating procedures to ensure fulfilment of the qualifying criteria. <u>II. Regional Rural Banks (RRBs) and Local Area Banks (LABs)</u>
+4. All microfinance loans extended by RRBs and LABs shall attract a risk weight of 100 per cent.
+5. The above instructions shall be applicable from the date of issue of this circular in respect of outstanding as well as new microfinance loans. All other instructions of the circulars *ibid* remain unchanged.
+6. The above instructions have been issued in exercise of the powers conferred by Sections 21 and 35A of the Banking Regulation Act, 1949. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager
+# Withdrawn

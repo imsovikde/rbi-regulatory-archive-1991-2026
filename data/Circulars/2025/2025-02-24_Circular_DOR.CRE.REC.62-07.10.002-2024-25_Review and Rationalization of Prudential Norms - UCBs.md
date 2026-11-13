@@ -1,0 +1,110 @@
+---
+doc_id: "Circulars_2025_DOR_CRE_REC_62_07_10_002_2024-25"
+title: "Review and Rationalization of Prudential Norms - UCBs"
+category: "Circulars"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1189494DE298E0745AF88C9B1CA4F4C1ED6.PDF"
+pdf_sha256: "af4d392c4116a5c1902dafe623a9b1ec5d3f420df656a9b940065a93b0c9b92f"
+md_sha256: "1d6c165e72a33ac871f26e410ea5d42b43c5267f3c0492ea888c07422d45ad6a"
+total_pages: 4
+native_pages: 4
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T10:56:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-02-24_Circular_DOR.CRE.REC.62-07.10.002-2024-25_Review%20and%20Rationalization%20of%20Prudential%20Norms%20-%20UCBs.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Review and Rationalization of Prudential Norms - UCBs
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बैंक RESERVE BANK OF INDIA
+
+RBI/2024-25/118 DOR.CRE.REC.62/07.10.002/2024-25 February 24, 2025
+
+### All Primary (Urban) Co-operative Banks
+
+Madam / Dear Sir,
+
+### Review and rationalization of prudential norms-UCBs
+
+Reserve Bank has, from time to time, prescribed various prudential norms for Urban Co-operative Banks (UCBs) for enhancing their financial soundness and resilience. Some of these prudential norms have been issued with a view to reducing credit concentration risk, reducing exposures to sensitive sectors, and enhancing provisioning requirements for relatively riskier exposures. These norms, *inter alia,* include the stipulations relating to small value loans, exposure ceilings on housing and real estate loans, and provisioning requirements for investment in Security Receipts (SRs).
+
+2. With a view to rationalizing these norms, and thereby allowing greater operational flexibility to UCBs without diluting the regulatory objectives, the above prudential norms have been reviewed. The revised instructions are given in the following paragraphs.
+### A. Small Value Loans
+
+# Withdrawn
+
+3. In terms of <u>circular DOR (PCB).BPD.Cir No.10/13.05.000/2019-20 dated March 13,</u> 2020, as revised vide <u>circular DOR.CRE.REC.28/07.10.002/2024-25 dated July 25,</u> <u>2024</u>, UCBs are required to follow the prescribed glidepath to have at least 50 per cent of their aggregate loans and advances comprising of small value loans – i.e., loans of value not more than ₹25 lakh or 0.2 per cent of their Tier I capital, whichever is higher, subject to a maximum of ₹1 crore per borrower – by March 31, 2026.
+4. On a review, it has been decided to revise the definition of small value loans as loans of value not more than ₹25 lakh or 0.4 per cent of their Tier I capital, whichever is higher, subject to a ceiling of ₹3 crore per borrower. All other conditions, as well as the timelines and the intermediate targets remain unchanged. Boards of UCBs, however, shall periodically review the portfolio behaviour and quality under different loan-size categories and where necessary, may consider fixing lower ceilings. __________________________________________________________________ िविनयमन िवभाग, क � ी य
+
+|कायार्लय, क � ी य|कायार्लय|भवन, 12व/ 13व मंिज़ल, शहीद||भगत �संह|मागर्, फोटर्, मुंबई - 400001|
+|---|---|---|---|---|---|
+|टेलीफोन/ Tel No: 22661602, 22601000|हंदी आसान है|, इसका �योग बढ़ाइए|फै क् स / Fax No: 022-2270 5691 / 13 Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001|||
+
+Department of Regulation, Central Office, Central Office Building, 12th th
+
+<!-- PAGE 2 -->
+
+## B. Real Estate Exposure Norms
+
+|5. In terms of extant instructions, aggregate exposure of a UCB to housing, real estate||
+|---|---|
+|and commercial real estate loans is capped at 10 per cent of its total assets. The||
+|ceiling of 10 per cent can be exceeded by an additional 5 per cent of total assets for||
+|the purpose of grant of housing loans to individuals as per the eligibility limits for priority||
+|sector classification, as contained in|Master Direction|
+|FIDD.CO.Plan.BC.5/04.09.01/2020-21 dated September 04, 2020|, as amended from|
+|time to time. Further, subject to the above aggregate caps, the ceilings for individual||
+|housing loans are prescribed at ₹60 lakh per individual borrower for Tier-1 UCBs, and||
+|₹140 lakh per individual borrower for all other UCBs. It has been decided to revise||
+|these prudential limits, as given in the following paragraphs.||
+
+## Aggregate Housing/Real estate Limits
+
+6. Aggregate exposure of a UCB to residential mortgages (housing loans to individuals), other than those eligible to be classified as priority sector, shall not exceed 25 per cent of its <u>total loans and advances</u>.
+7. Aggregate exposure of a UCB to real estate sector, excluding housing loans to individuals, shall not exceed five per cent of its <u>total loans and advances</u>.
+## Individual housing loan limits
+
+8. Housing loans to individuals shall be subject to the following ceilings.
+**UCB Tier Loan amount* per dwelling unit**
+
+Tier 1 **₹60 lakh**
+
+Tier 2 **₹1.40 crore**
+
+# Withdrawn
+
+Tier 3 **₹2 crore**
+
+Tier 4 **₹3 crore** *subject to extant single borrower exposure limits
+
+9. All other provisions regarding grant of loans by UCBs to real estate sector shall remain unchanged.
+## C. Provisioning requirement for investment in security receipts (SRs)
+
+10. In terms of paragraph 77A of the <u>Master Direction on Transfer of Loan Exposure</u> <u>(“MD-TLE”) dated September 24, 2021</u>, UCBs need to provide for the valuation differential on the SRs held against the assets transferred by them to ARCs. In this regard, a five-year glide path (till FY2025-26) was provided vide <u>circular dated June</u> <u>28, 2022</u>, in respect of such SRs outstanding as on the date of issuance of MD-TLE,
+i.e. September 24, 2021 (‘specified SRs’).
+11. On a review, it has been decided to extend the above glide-path for UCBs for <u>additional two years</u> till FY2027-28. However, any provisions already made for the specified SRs shall continue to be maintained.
+
+<!-- PAGE 3 -->
+
+12. All other provisions of the MD-TLE shall continue to be applicable, as hitherto.
+## D. Repeal provisions
+
+13. These instructions supersede the instructions issued vide extant regulations. Accordingly, circulars consolidated in the <u>Annex</u> stand repealed.
+## E. Commencement
+
+14. The above changes are applicable with immediate effect. Yours faithfully, (Vaibhav Chaturvedi) Chief General Manager
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+**Annex** – **List of circulars that stand repealed with immediate effect**
+
+|Sr. No.|Circular|Date of Issue|Subject|
+|---|---|---|---|
+|1.|DOR.CRE.REC.92/07.10.002/ 2022-23|December 30, 2022|Individual Housing loans – Revised limits under four- tiered regulatory framework|
+|2.|UBD.BPD.(PCB).Cir.No.31/13. 05.000/2011-12|April 26, 2012|Monetary Policy Statement 2012-13 Exposure to Housing, Real Estate and Commercial Real Estate - Primary (Urban) Co-operative Banks|
+
+# Withdrawn
