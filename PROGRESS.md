@@ -7,3 +7,4 @@ Progress is updated after every micro-batch by the continuous conversion workflo
 real-time percentage in its commit message. See README.md for the live dashboard.
 - 2026-11-13T07:40:20Z batch #1: chore(convert): [0.0850%] 75/88236 PDFs -> MD | Circulars/1992 Batch #1 | 69 anydoc + 6 OCR verified
 - 2026-11-13T07:40:43Z batch #2: chore(convert): [0.1700%] 150/88236 PDFs -> MD | Circulars/2000 Batch #2 | 75 anydoc + 0 OCR verified
+- 2026-11-13T07:41:08Z batch #3: chore(convert): [0.2550%] 225/88236 PDFs -> MD | Circulars/2001 Batch #3 | 75 anydoc + 0 OCR verified
