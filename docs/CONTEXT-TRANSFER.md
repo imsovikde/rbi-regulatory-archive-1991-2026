@@ -6,7 +6,7 @@ You are the receiving agent. This file is your entire briefing. Read it top to b
 
 First action after reading: clone the repository named in Section 1, then commit this file into it at `docs/CONTEXT-TRANSFER.md` (one commit, message `docs: add living context transfer file`, authored by Souvik Dey, GPG-signed, Verified — see Section 6). The repository must carry its own context from then on. Then check the live repository state against Section 3. Where live GitHub state disagrees with this file, live state wins for counts and you must update this file to match.
 
-Last updated: 13 November 2026, 14:05 IST. Every later change to the facts in this file must update this line and the dated state block in Section 3. See Section 17 for the living-document protocol.
+Last updated: 13 November 2026, 14:48 IST. Every later change to the facts in this file must update this line and the dated state block in Section 3. See Section 17 for the living-document protocol.
 
 ---
 
@@ -70,7 +70,7 @@ Update this block in place whenever a fact below changes. Keep the old value str
 
 - Repository: `imsovikde/rbi-regulatory-archive-1991-2026`, public, id `1456135028`, default branch `main`.
 - URL: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026
-- **Markdown files converted so far: ~~0 / 88,236~~ → 3,375 / 88,236 (3.8250%), 13 Nov 2026 13:58 IST.** STATE.json says done 3375, total 88,236.
+- **Markdown files converted so far: ~~0 / 88,236~~ → 4,575 / 88,236 (5.1850%), 13 Nov 2026 14:46 IST.** STATE.json says done 4575, total 88,236.
 - Commits on `main` (newest first, all authored AND committed by Souvik Dey, all Verified):
   - `05f733b` — "fix(audit): support CRLF normalization and NT extended paths in integrity audit" — 13 Nov 2026 13:58 IST. GPG-signed, Verified.
   - `0c4f181` ... `83856ed` ... `c31fa6c` — 45 batch commits (Batch #1 through #45) converting Circulars 1992–2009. All GPG-signed by runner, Verified.
