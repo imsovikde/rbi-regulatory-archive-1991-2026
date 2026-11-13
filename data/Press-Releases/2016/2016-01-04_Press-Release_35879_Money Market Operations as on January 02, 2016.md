@@ -1,0 +1,76 @@
+---
+doc_id: "Press-Releases_2016_35879"
+title: "Money Market Operations as on January 02, 2016"
+category: "Press-Releases"
+year: 2016
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR156277D0C53A6B6C4EE2A0B46692B2AD72D8.PDF"
+pdf_sha256: "11b69d94d46b6876946a24e6c9fe81cc559044f5c02c07a91f0213fbece1a5a1"
+md_sha256: "8e7b91dfa16d9e1aeff7888374a8295647d421a0811d86882c85c123a1f0ad10"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:59:50Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2016/2016-01-04_Press-Release_35879_Money%20Market%20Operations%20as%20on%20January%2002%2C%202016.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on January 02, 2016
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+## RESERVE BANK OF INDIA
+
+**संचार वभाग,** कद्रय कायार्लय, एस.बी.एस.मागर्, मुंबई-4000010<u>वेबसाइट : www.rbi.org.in/hindi</u> _____________________________________________________________________________________________________________________ **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001<u>Website : www.rbi.org.in</u> फोन/Phone: 91 22 2266 0502 फै क् स /Fax: 91 22 22660358 इ-मेल email **:** <u>helpdoc@rbi.org.in</u>
+
+January 04, 2016
+
+**Money Market Operations as on January 02, 2016**
+
+(Amount in Rupees billion, Rate in Per cent)
+
+||@ MONEY MARKETS|Volume (One Leg)|Weighted Average Rate|Range|
+|---|---|---|---|---|
+|A.|Overnight Segment (I+II+III+IV)|117.92|5.72|4.90-6.09|
+||I. Call Money II. Collateralised Borrowing and Lending Obligation (CBLO) III. Market Repo IV. Repo in Corporate Bond|7.66 110.26 0.00 0.00|5.61 5.72|4.90-5.85 5.25-6.09|
+|B.|Term Segment||||
+||I. Notice Money**|0.86|6.25|6.20-6.30|
+||@@ II. Term Money|0.00|-|-|
+||III. CBLO|0.00|-|-|
+||IV. Market Repo|0.00|-|-|
+||V. Repo in Corporate Bond|0.00|-|-|
+
+||@ RBI OPERATIONS|Auction Date|Tenor (Days)|Maturity Date|Amount Outstanding|Current Rate/Cut off Rate|
+|---|---|---|---|---|---|---|
+|C.|Liquidity Adjustment Facility (i) Repo (Fixed Rate)|01/01/2016|3|04/01/2016|86.99|6.75|
+||(ii) Repo (Variable Rate)|02/01/2016 22/12/2015|2 14|04/01/2016 05/01/2016|0.00 150.05|6.75 6.86|
+|||23/12/2015|16|08/01/2016|255.02|6.88|
+|||29/12/2015|14|12/01/2016|152.00|6.76|
+|||01/01/2016|14|15/01/2016|155.03|6.84|
+|||29/12/2015|6|04/01/2016|250.03|6.80|
+|||01/01/2016|56|26/02/2016|16.80|6.76|
+||(iii) Reverse Repo (Fixed Rate)|01/01/2016 01/01/2016|28 3|29/01/2016 04/01/2016|56.80 162.72|6.76 5.75|
+|||02/01/2016|2|04/01/2016|317.71|5.75|
+||(iv) Reverse Repo (Variable Rate)|-|-|-|-|-|
+|D.|Marginal Standing Facility|01/01/2016|3|04/01/2016|0.00|7.75|
+|||02/01/2016|2|04/01/2016|0.00|7.75|
+|E.|Standing Liquidity Facility Availed from RBI|$|||22.06||
+
+@ **RESERVE POSITION**
+
+|F.||Cash Reserves Position of Scheduled Commercial Banks|||
+|---|---|---|---|---|
+|||# (i) Cash balances with RBI as on (ii) Average daily cash reserve requirement for the fortnight ending|December 30, 2015 January 08, 2016|3,778.12 3,758.05|
+|G||¥ Government of India Surplus Cash Balance Reckoned for Auction as on|January 01, 2016|1,035.73|
+|@|- **|Based on Reserve Bank of India (RBI) / Clearing Corporation of India Limited (CCIL) / Fixed Income Money Market and Derivatives Association of India (FIMMDA) Data. Not Applicable / No Transaction Relates to uncollateralized transactions of 2 to 14 days tenor.|||
+|@@|# $ ¥|Relates to uncollateralized transactions of 15 days to one year tenor The figure for the cash balances with RBI on Sunday is same as that of the previous day (Saturday). Includes refinance facilities extended by RBI As per the Press Release No. 2014-2015/1971 dated March 19, 2015|||
+
+## Ajit Prasad
+
+## Press Release : 2015-2016/1562
+
+Assistant General Manager
