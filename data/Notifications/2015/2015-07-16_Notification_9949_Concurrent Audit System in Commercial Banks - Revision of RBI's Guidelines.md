@@ -1,0 +1,187 @@
+---
+doc_id: "Notifications_2015_9949"
+title: "Concurrent Audit System in Commercial Banks - Revision of RBI's Guidelines"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/C07DFE1D4FB008D49FABD06689EE646880E.PDF"
+pdf_sha256: "747d6cf0f55cbae23d35e9fa7ca3d44bdf8da22c978786c4d1592c4790d4a50e"
+md_sha256: "77b148aa406fc0213b735dd9c6171a90bc1f8075a8cc744485717addefdf3d21"
+total_pages: 7
+native_pages: 7
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:12Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-07-16_Notification_9949_Concurrent%20Audit%20System%20in%20Commercial%20Banks%20-%20Revision%20of%20RBI%27s%20Guidelines.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Concurrent Audit System in Commercial Banks - Revision of RBI's Guidelines
+
+<!-- PAGE 1 -->
+
+भारतीय �रजवर् बक <u>______________________</u>**RESERVE BANK OF INDIA**<u>_________________</u> <u>www.rbi.org.in</u> RBI/2015-16/133
+
+## DBS.CO.ARS.No. BC. 2/08.91.021/2015-16 July 16, 2015
+
+The Chairman & Managing Director/ Chief Executive Officers of all Scheduled Commercial Banks (other than Regional Rural Banks)
+
+## Dear Sir
+
+## <u>Concurrent Audit System in Commercial Banks-Revision of RBI's Guidelines</u>
+
+As you are aware, guidelines on 'concurrent audit system in commercial banks' were issued by us vide our circular DOS.No.BC.16/08.91.021/96 dated August 14, 1996 setting out the scope and coverage of concurrent audit system in commercial banks.
+
+In view of the changes since then in banks’ organizational structure, business models, use of technology (implementation of Core Banking Solution), etc., a need was felt to have a relook at the concurrent audit system in the banking sector. Accordingly, the existing guidelines have been revised which are set out in **Annex I.**
+
+2. Since the concurrent audit system is regarded as part of a bank's early warning
+# Withdrawn w.e.f November 16, 2021
+
+system to ensure timely detection of irregularities and lapses, which also helps in preventing fraudulent transactions at branches, the bank's management may continue to bestow serious attention to the implementation of various aspects of the system such as selection of branches/coverage of business operations, appointment of auditors, appropriate reporting procedures, follow-up/rectification processes and utilization of the feedback from the system for appropriate and quick management decisions.
+
+ब��कग पयर्वेक्षण िवभाग, क �ीय कायार्लय, िव� ापार क �, कफ परेड, मुंबई -400005 <u>Department of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Mumbai - 400005</u>
+
+<!-- PAGE 2 -->
+
+3. You may ensure that, based on the revised guidelines indicated in <u>Annex</u> **I,** a review of the present system of concurrent audit is carried out immediately and necessary changes are incorporated therein. The modified concurrent audit system of your bank should be placed before the Audit Committee of Board of Directors (ACB).
+4. The bank should, once in a year, review the effectiveness of the system and take necessary measures to correct the lacunae in the implementation of the Programme.
+## Yours faithfully
+
+Sd/-
+
+(Indrani Banerjee)
+
+# 2021
+
+Chief General Manager 16, Encl: As above
+
+# November w.e.f
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## Annex-I
+
+## <u>Revised Guidelines for Concurrent Audit System in Commercial Banks</u>
+
+## (A) <u>Scope of concurrent audit</u>
+
+Concurrent audit is an examination which is contemporaneous with the occurrence of transactions or is carried out as near thereto as possible. It attempts to shorten the interval between a transaction and its examination by an independent person. There is an emphasis in favour of substantive checking in key areas rather than test checking. This audit is essentially a management process integral to the establishment of sound internal accounting functions and effective controls and setting the tone for a vigilant internal audit to preclude the incidence of serious errors and fraudulent manipulations.
+
+A concurrent auditor may not sit in judgement of the decisions taken by a branch
+
+# 2021
+
+manager or an authorised official. This is beyond the scope of 16, concurrent audit. However, the audit will necessarily have to see whether the transactions or decisions are within the policy parameters laid down by the Head Office, they do not violate the instructions or policy prescriptions of the RBI, and that they are
+
+# November
+
+within the delegated authority.
+
+w.e.f
+In very large branches, which have different divisions dealing with specific activities, concurrent audit is a means to the in-charge of the branch to ensure on an ongoing basis that the different divisions function within laid down parameters
+
+# Withdrawn
+
+and procedures.
+
+## (B) <u>Coverage of business/branches</u>
+
+In view of significant developments in the banking sector during the past decade, it is required that new areas posing risk may be brought under the purview of concurrent audit. A large number of activities / operations are being carried out in a centralized manner at various units set up for that purpose and the scale of transactions / operations undertaken at these units is large. With a view to ensuring that the functioning of these units is as per the internal as well as regulatory guidelines and mitigating the risk associated with large-scale operations, such non- branch units may be brought under the purview of concurrent audit.
+
+<!-- PAGE 4 -->
+
+While selecting the branches for concurrent Audit, the risk profile of the branches needs to be considered. The branches with high risk are to be subjected to concurrent audit irrespective of their business size. Further, all specialized branches viz., Agri, SME, Corporate, Retail Assets, Portfolio Management, Treasury, Forex, Back Office, etc., may be covered under concurrent audit. Certain areas where risk has reduced on account of computerization, implementation of core banking system may be excluded from the purview of concurrent audit.
+
+Concurrent audit at branches should cover at least 50% of the advances and 50% of deposits of a bank. The following branches, business activities/verticals of a bank may be subject to concurrent audit:
+
+i. Branches rated as high risk or above in the last Risk Based Internal Audit (RBIA) or serious deficiencies found in Internal Audit.
+# 2021
+
+ii. All specialized branches like Large Corporate, Mid Corporate, exceptionally 16, large/very large branches (ELBs/VLBs), SME. iii. All Centralised Processing Units like Loan Processing Units (LPUs), service branches, centralized account opening divisions, etc. iv. Any specialized activities such asNovemberwealth management, portfolio management services, Card Products Division, etc.
+
+w.e.f
+v. Data Centres. vi. Treasury/branches handling foreign exchange business, investment banking, etc. and bigger overseas branches. vii. Critical Head Office Departments.Withdrawn viii. Any other branches or departments where, in the opinion of the bank, concurrent audit is desirable.
+## (C) <u>Types of activities to be covered</u>
+
+(1) The main role of concurrent audit is to supplement the efforts of the bank in carrying out simultaneous internal check of the transactions and other verifications and compliance with the procedures laid down.
+(2) The scope of concurrent audit should be wide enough/focused to cover certain fraud - prone areas such as handling of cash, deposits, advances, foreign
+
+<!-- PAGE 5 -->
+
+exchange business, off-balance sheet items, credit-card business, internet banking, etc.
+
+(3) The detailed scope of the concurrent audit should be clearly and uniformly determined for the bank as a whole by the bank's Inspection and Audit Department in consultation with the bank's Audit Committee of the Board of Directors (ACB).
+(4) In determining the scope, importance should be given to checking high-risk transactions having large financial implications as opposed to transactions involving small amounts.
+(5) While the detailed scope of concurrent audit may be determined and approved by ACB, certain minimum items of coverage are given in <u>Annex II</u>. In addition to the above, the items where RBI has specifically advised the banks to be
+# 2021
+
+covered under concurrent audit, may also be part of the checklist of the concurrent 16, auditor.
+
+## (D) <u>Appointment of Auditors and Accountability</u>
+
+(i) The option to consider whether concurrent November audit should be done by bank's own staff or external auditors (which may include retired staff of its own bank) is left to
+w.e.f
+the discretion of individual banks.
+
+(ii) In case the bank has engaged its own officials, they should be experienced, well trained and sufficiently senior. The staff engaged in concurrent audit must be
+
+# Withdrawn
+
+independent of the Branch where concurrent audit is conducted.
+
+(iii) Appointment of an external audit firm may be initially for one year and extended upto three years, after which an auditor could be shifted to another branch subject to satisfactory performance.
+
+(iv) If external firms are appointed and any serious acts of omission or commission are noticed in their working, their appointments may be cancelled and the fact may be reported to RBI & ICAI.
+
+<!-- PAGE 6 -->
+
+## (E) <u>Facilities for effective Concurrent Audit</u>
+
+It has been represented that concurrent audit is not often effective because adequate facilities in terms of space, availability of records, etc. are not available. To improve the effectiveness of concurrent audit it is suggested that -
+
+(i) banks arrange for an initial and periodical familiarisation process both for the bank's own staff when entrusted with the concurrent audit and for the external auditors appointed for the purpose. (ii) all relevant internal guidelines/circulars/important references as well as relevant circulars issued by RBI/SEBI and other regulating bodies should be made available to the concurrent auditors on an on-going basis. (iii) where adequate space is not available,
+# 2021
+
+concurrent auditors can commence work immediately after the close of banking hours. 16,
+
+## (F) <u>Remuneration</u>
+
+Terms of appointment of the external firms of Chartered Accountants for the
+
+# November
+
+concurrent audit and their remuneration may be fixed by banks at their discretion. Broad guidelines should be framed by ACB for this purpose. Suitable packages
+
+w.e.f
+should be fixed by each bank's management in consultation with its ACB, keeping in view various factors such as coverage of areas, quality of work expected, number of people required for the job, number of hours to be spent on the job, etc.
+
+# Withdrawn
+
+## (G) <u>Reporting Systems</u>
+
+(i) The bank may devise a reporting system and periodicity of various check list items as per its sensitivity. (ii) Minor irregularities pointed out by the concurrent auditors are to be rectified on the spot. Serious irregularities should be straightaway reported to the Controlling Offices/Head Offices for immediate action. (iii) There should be zone/area-wise reporting of the findings of the concurrent audit to ACB and an annual appraisal/report of the audit system should be placed before the ACB.
+
+<!-- PAGE 7 -->
+
+(iv) Whenever fraudulent transactions are detected, they should immediately be reported to Inspection & Audit Department (Head Office) as also to the Chief Vigilance Officer as well as Branch Managers concerned (unless the branch manager is involved).
+
+(v) There should be proper reporting of the findings of the concurrent auditors. For this purpose, each bank should prepare a structured format. The major deficiencies/aberrations noticed during audit should be highlighted in a special note and given immediately to the bank's branch controlling offices. A quarterly review containing important features brought out during concurrent audits should be placed before the ACB. (vi) Follow-up action on the concurrent audit reports should be given high priority by the Controlling Office/Inspection and Audit Department and rectification of the
+# 2021
+
+features done without any loss of time. 16,
+
+## (vii) Banks are advised to :
+
+(1) review the selection of auditors.
+# November
+
+(2) initiate and operate a system for appraisal of the performance of
+w.e.f
+concurrent auditors.
+
+(3) ensure that the work of concurrent auditors is properly documented.
+# Withdrawn
+
+(4) be responsible for the follow-up on audit reports and the presentation of the quarterly review to the ACB.
+----------------------------------------------

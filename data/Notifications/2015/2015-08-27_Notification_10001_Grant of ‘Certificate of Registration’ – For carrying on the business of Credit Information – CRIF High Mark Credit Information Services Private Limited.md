@@ -1,0 +1,47 @@
+---
+doc_id: "Notifications_2015_10001"
+title: "Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – CRIF High Mark Credit Information Services Private Limited"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NC161C5DDF15C39784AA49619E89E2386C1BA.PDF"
+pdf_sha256: "5eb9a320d39910ac8388e0cabb5b0a02589395ad566756a0a8d3537346ecd947"
+md_sha256: "17ecb94077b111b02b71d3a6952220c17608902c82116b9cdfb502ea18de4ac6"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-08-27_Notification_10001_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20Credit%20Information%20%E2%80%93%20CRIF%20High%20Mark%20Credit%20Information%20Services%20Private%20Limited.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – CRIF High Mark Credit Information Services Private Limited
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़वर् बक
+
+# RESERVE BANK OF INDIA
+
+<u>www.rbi.org.in</u>
+
+RBI/2015-16/161 DBR.CID.BC.35/20.16.042/2015-16 August 27, 2015
+
+All Commercial Banks (excluding RRBs) All India Financial Institutions (EXIM Bank, NABARD, NHB and SIDBI) LIC, GIC, UTI Mutual Fund, UTI Specified Undertaking All Credit Information Companies
+
+### Dear Sir / Madam
+
+**Grant of ‘Certificate of Registration’ –** **For carrying on the business of Credit Information –** **CRIF High Mark Credit Information Services Private Limited**
+
+Please refer to our <u>circular DBOD.No.CID.BC.34/20.16.042/2014-15 dated August 22, 2014</u> regarding grant of ‘Certificate of Registration’ to CRIF High Mark Credit Information Services Private Limited.
+
+2. The Company has since shifted its office to another location. Accordingly, we have issued a new ‘Certificate of Registration’ to it on August 24, 2015 to carry on the business of the credit Information. The new address of the Company is as follows:
+CRIF High Mark Credit Information Services Pvt. Ltd. Unit Nos.3B-01,02,03 3 rd floor, Phoenix Paragon Plaza CTS No.124/B, 15, LBS Marg, Kurla (West) Mumbai 400 070.
+
+### Yours faithfully
+
+### (Rajinder Kumar)
+
+Chief General Manager
+
+------------------------------------------------------------------------------------------------------------------------------------------------- बकं ग वनयमन वभाग, कद्रय कायार्लय,13 मंिजल, कद्रय कायार्लय भवन, शहद भगत संह मागर्, मुम्बई 400001 Department of Banking Regulation, 13 th floor, Central Office Building, Mumbai 400001 Tel No: 22661602, 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692

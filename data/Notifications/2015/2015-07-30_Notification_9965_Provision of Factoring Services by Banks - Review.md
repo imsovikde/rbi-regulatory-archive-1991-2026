@@ -1,0 +1,121 @@
+---
+doc_id: "Notifications_2015_9965"
+title: "Provision of Factoring Services by Banks - Review"
+category: "Notifications"
+year: 2015
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/140F6BCB0D8FDB224D8CAAC2D78518AC8004.PDF"
+pdf_sha256: "bb1d5b560c2ce183f780bb976692dffbb2c0bbffdd936c9dd51c28612d56e552"
+md_sha256: "715bdf733d47b91d093e32c818b03416a21282805d9cf38991d37c5ab2afe655"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:53:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2015/2015-07-30_Notification_9965_Provision%20of%20Factoring%20Services%20by%20Banks%20-%20Review.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Provision of Factoring Services by Banks - Review
+
+<!-- PAGE 1 -->
+
+## RBI/2015-16/140 DBR.No.FSD.BC.32/24.01.007/2015-16 July 30, 2015
+
+## All Scheduled Commercial Banks
+
+**(excluding RRBs)** Dear Sir/Madam **Provision of Factoring Services by Banks-Review** Please refer to circulars IECD.No.PMD.1/50/90-91 dated July 2, 1990, IECD. No. OPMD.BC.9/50-90/91 dated August 30, 1990, DBOD.No.BC 18/24.01.001/93-94 dated February 19, 1994, IECD.No.44/08.12.01/94-95 dated April 27, 1995 and DBOD.No.FSC.BC.49/24.01.001/97-98 dated June 2, 1998 on provision of factoring services by banks. In supercession of circulars IECD.No.PMD.1/50/90-91 dated July 2, 1990, IECD.No.OPMD.BC.9/50-90/91 dated August 30, 1990, IECD.No.44/
+
+08.12.01/94-95 dated April 27, 1995 and in partial modification of circular DBOD.No.BC.18/24.01.001/93-94 dated February 19, 1994, and DBOD.No.FSC. BC.49/24.01.001/97-98 dated June 2, 1998, we advise that banks may carry out the business of factoring departmentally, without obtaining the prior approval of RBI,
+# Withdrawn
+
+subject to the conditions as mentioned in Annex.
+
+2. Setting up of factor subsidiaries or investments by banks in factoring companies will be subject to extant guidelines on investments by banks in subsidiaries and other companies. Further, investment of a bank in the shares of factoring companies inclusive of its subsidiary carrying on factoring business shall not, in the aggregate, exceed 10% of the paid up capital and reserves of the bank.
+3. Subsidiaries and JVs of banks, including the existing ones would be regulated as NBFC-Factors vide <u>circular DNBS(PD)CC No.297/Factor/22.10.91/2012-13 dated</u> <u>July 23, 2012</u>. Yours faithfully
+## (Lily Vadera)
+
+Chief General Manager Encl: As above
+
+<u>बक</u> **ैंिं**<u>ग ••विनियमि विभाग, े न्द्रीय ायाालय, े न्द्रीय ायाालय भिि, 13 िी मिंजिल, शहीद भगत स िंह मागा, फोर्ा, मिंबई 400 001</u> Department of Banking Regulation, Central Office, Central Office Building, 13 th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400 001 Phone : 022-22661602, Fax : 022-2270 1224, E-mail : <u>cgmicdbr@rbi.org.in</u> Website : www.rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Annex
+
+## Provision of Factoring Services by Banks
+
+Banks may undertake factoring activities departmentally, subject to the following stipulations:
+
+## 1. Adherence to the provisions of Factoring Regulation Act, 2011
+
+The business of factoring should be undertaken in compliance with the statutory provisions under the Factoring Regulation Act, 2011. The terms assignee, assignor and debtor will have the same meaning as assigned to them in the Factoring Regulation Act, 2011 viz., "assignee" means a factor in whose favour the receivable is transferred; "assignor" means any person who is the owner of any receivable; and "debtor" means any person liable to the assignor, whether under a contract or otherwise, to pay any receivable or discharge any obligation in respect of the receivable whether existing, accruing, future, conditional or contingent.
+
+**2. Board Approved Policy**Withdrawn Banks may formulate a comprehensive factoring services policy with the approval of their Boards and offer the services to their customers in accordance with this policy. The policy may specifically address issues pertaining to the various risks associated with this activity and put in place suitable risk mitigation measures.
+## 3. Types of Factoring
+
+Factoring services may be provided either with recourse or without recourse or on limited recourse basis.
+
+## 4. Risk Management
+
+Proper and adequate control and reporting mechanisms should be put in place before such business in undertaken.
+
+(a) In order to ensure that the bank offering factoring services has enough margin to cover any deficiencies in the payment of the related invoice, it should be ensured that the pre-payment amount offered by banks for the
+
+<!-- PAGE 3 -->
+
+receivables acquired under factoring should not exceed 80% of the invoice value.
+
+(b) Banks should carry out a thorough credit appraisal of the debtors before entering into any factoring arrangement or prior to establishing lines of credit with the export factor.
+(c) Factoring services should be extended in respect of invoices which represent genuine trade transactions.
+(d) Since under without recourse factoring transactions, the factor is underwriting the credit risk on the debtor, there should be a clearly laid down board-approved limit for all such underwriting commitments.
+## 5. Classification – Prudential Norms
+
+Factoring would be treated on par with loans and advances and accordingly extant prudential norms on loans and advances would be applicable to this activity. It is further clarified that a receivable acquired under factoring which is not paid within 90 days of the due date should be treated as non-performing asset (NPA) irrespective of when the receivable was acquired by the factor or whether the factoring was carried out on with recourse basis or non-recourse basis. The entity on which the exposure was booked should be shown as NPA
+
+# Withdrawn
+
+and provisioning made accordingly.
+
+**6. Exposure Norms-Single and Group Borrower Limits** The facilities extended by way of factoring services would be covered within the overall exposure ceiling. The exposure shall be reckoned as under:
+(a) In case of factoring on with-recourse basis, the exposure would be reckoned on the assignor.
+(b) In case of factoring on without-recourse basis, the exposure would be reckoned on the debtor, irrespective of credit risk cover/protection provided, except in cases of international factoring where the entire credit risk has been assumed by the import factor.
+## 7. Interest and Fees
+
+Any interest charged on the amounts granted as pre-payments will be subject to the guidelines on interest rates on advances, as amended from time to time. Any fee charged for various services rendered under factoring activities will be subject to the guidelines on reasonableness of bank charges.
+
+<!-- PAGE 4 -->
+
+## 8. Accounting Treatment and Disclosure Norms
+
+Receivables acquired under factoring should be treated as part of loans and advances. Accordingly, the same may be reported under the head ‘Bills Purchased and Discounted’ in Schedule 9 of the Balance Sheet of the banks prepared in terms of the format prescribed in the Third Schedule (Section 29) of the B.R. Act, 1949. A separate disclosure may be made in the ‘Notes’ forming part of the Accounts (Schedule 19 of the Balance Sheet) with regard to factoring exposures.
+
+## 9. Exchange of Information
+
+For the purpose of exchange of information, the assignor will be deemed to be the borrower. Banks and factors should share information about common borrowers. The format in which such information is to be provided may be decided by the banks or Indian Banks’ Association. The borrower’s bank may also obtain from the borrower periodical certificates regarding factored receivables to avoid double financing. Factors must ensure to intimate the limits sanctioned to the borrower to the concerned banks and details of debts factored taking responsibility to avoid double financing. This could be cross checked with the certificate obtained by banks from borrowers. Other sources, such as,
+
+# Withdrawn
+
+information available with CERSAI on receivables assigned may also be considered.
+
+## 10. Submission of Credit Information to CICs
+
+In the event a receivable is overdue, credit information regarding the non- payment of dues by the person on whom exposure was booked should be furnished to the Credit Information Companies (specifically authorized by RBI). Such reporting would be subject to the guidelines under Credit Information Companies (Regulation) Act, 2005.
+
+## 11. Adherence to KYC Guidelines
+
+The instructions/guidelines on KYC/AML/CFT applicable to banks, issued by RBI from time to time, should be adhered to, in respect of all factoring services.
+
+<!-- PAGE 5 -->
+
+**12**. **Adherence to FEMA Guidelines** International factoring arrangements should be in compliance with FEMA guidelines.
+## 13. Engagement of Recovery Agents
+
+Engagement of recovery agents as part of the collection services rendered under factoring should be strictly as per the guidelines laid down vide <u>circular</u> <u>DBOD.No.Leg.BC.75/09.07.005/2007-08 dated April 24, 2008</u>, as amended from time to time.
+
+## 14. Outsourcing of Activities
+
+Any outsourcing arrangement as part of factoring services should adhere to the guidelines on “Managing Risks and Code of Conduct in Outsourcing of Financial Services by Banks” as contained in the <u>circular DBOD.No.BP.40/21.04.158/2006-</u> <u>07 dated November 3, 2006</u>, as amended from time to time.
+
+******
+
+# Withdrawn
