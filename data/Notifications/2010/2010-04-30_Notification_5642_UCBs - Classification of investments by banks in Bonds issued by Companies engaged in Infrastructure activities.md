@@ -1,0 +1,83 @@
+---
+doc_id: "Notifications_2010_5642"
+title: "UCBs - Classification of investments by banks in Bonds issued by Companies engaged in Infrastructure activities"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIPCB30042010.pdf"
+pdf_sha256: "7acd3258b0c3b94e4e88d7dab4ef2c863a20e1bc04f1701f75798bf65682eabc"
+md_sha256: "327b41a647ebbef876ced5f5895dc3c779b157391e9fae14a8b462e17dd8af1a"
+total_pages: 2
+native_pages: 1
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:08:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-04-30_Notification_5642_UCBs%20-%20Classification%20of%20investments%20by%20banks%20in%20Bonds%20issued%20by%20Companies%20engaged%20in%20Infrastructure%20activities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - Classification of investments by banks in Bonds issued by Companies engaged in Infrastructure activities
+
+<!-- PAGE 1 -->
+
+RESERVE BANK OFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/440
+
+UBD.BPD.PCB.Cir.No.62/16.20.000/2009-10
+
+April 30, 2010
+
+The Chief Executive Officers of
+
+AllPrimary (Urban) Co-operativeBanks
+
+Dear Sir
+
+Classification of investments by banks in Bonds issued by Companies
+
+engagedinInfrastructureactivities
+
+Please refer to paragraph 66 of the Annual Policy Statement for the year 2010-11
+
+(extract enclosed) wherein it has been proposed to allow banks to classify their
+
+investments in Non-SLR long term bonds issued by companies engaged in
+
+infrastructure activities under Held To Maturity (HTM) category.
+
+2. As per the instructions contained in paragraph 2 (i) (g) of our circular
+
+UBD.(PCB).BPD.Cir.No.46/16.20.000/2008-09 dated January 30,2009, all fresh
+
+(HFT)/Available For Sale (AFS) categories only and marked to market as applicable
+
+to these categories of investments. It has now been decided that investment by
+
+infrastructure projects and having a minimum residual maturity of seven years may
+
+also be classified under HTM category.
+
+3. The prudential norms for classification, valuation and shifting of investments in
+
+HTM category remain unchanged.
+
+Yours faithfully,
+
+(A. Udgata)
+
+Chief General Manager
+
+UrbanBanks Department,Central Office,1Floor,Garment House,Worli,Mumbai-400 018
+
+Phone:022-2493 9930-49,Fax:022-2497 4030/2492 0231,Email:cgmincubd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+## Annual Policy Statement for the Year 2010-11
+
+*Non-SLR Bonds of companies engaged in infrastructure: Valuation*
+
+66. At present, banks’ investments in non-SLR bonds are classified either under held for trading (HFT) or available for sale (AFS) category and subjected to ‘mark to market’ requirements. Considering that the long-term bonds issued by companies engaged in infrastructure activities are generally held by banks for a long period and not traded and also with a view to incentivising banks to invest in such bonds, it is proposed:
+- to allow banks to classify their investments in non-SLR bonds issued by companies engaged in infrastructure activities and having a minimum residual maturity of seven years under the held to maturity (HTM) category.

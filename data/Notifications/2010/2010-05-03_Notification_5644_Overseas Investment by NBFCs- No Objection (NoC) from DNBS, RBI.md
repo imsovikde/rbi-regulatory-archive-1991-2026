@@ -1,0 +1,37 @@
+---
+doc_id: "Notifications_2010_5644"
+title: "Overseas Investment by NBFCs- No Objection (NoC) from DNBS, RBI"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CC73030510S.PDF"
+pdf_sha256: "5ae5e92e63baf2b07f8bdee3449583765fd3bfeba6d6597b0d66b1563bf33372"
+md_sha256: "6afa31c3ac3986d52d8539232e8e1865ba8ba1a398bbbb47a1a5fbf759f1073f"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:08:48Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-05-03_Notification_5644_Overseas%20Investment%20by%20NBFCs-%20No%20Objection%20%28NoC%29%20from%20DNBS%2C%20RBI.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Overseas Investment by NBFCs- No Objection (NoC) from DNBS, RBI
+
+<!-- PAGE 1 -->
+
+## RBI/2009-10/442 DNBS (PD).CC. No.173/03.10.01 /2009-10 May 03, 2010
+
+## All Non-Banking Financial Companies
+
+Dear Sir,
+
+## <u>Overseas Investment by NBFCs- No Objection (NoC) from DNBS, RBI</u>
+
+Please refer to Regulation No. 7 of the Foreign Exchange Management (Transfer or Issue of Any Foreign Security) (Amendment) Regulations, 2004, dated July 07, 2004, in terms of which an Indian party requires prior approval of the concerned regulatory authorities both in India and abroad, to make an investment in an entity outside India engaged in financial services activities. Further in terms of para B.5.3 of the Master Circular on Direct Investment in Joint Venture (JV) / Wholly owned subsidiary (WOS) abroad dated July 01, 2009 issued by Foreign Exchange Department, RBI, regulated entities in the financial sector making investments in any activity overseas are required to comply with the above regulation.
+
+2. Instances have been observed where NBFCs have made overseas investments without regulatory clearance of the Department of Non-Banking Supervision, Reserve Bank of India. Any investments made by NBFCs without regulatory clearance is a violation of FEMA 2004 and attracts penal provisions.
+3. In this regard, it is emphasised that all NBFCs desirous of making any overseas investment must obtain 'No Objection' (NoC) of the Department of Non-Banking Supervision of RBI before making such investment, from the Regional Office in whose jurisdiction the head office of the company is registered.
+4. Applications in this regard shall clearly state the activities intended to be undertaken by the overseas entity. NBFCs may also note that in terms of the Regulations ibid, they are not permitted to make direct investment in a foreign entity engaged in activities not approved under FEMA.
+Yours sincerely,
+
+(Uma Subramaniam) Chief General Manager-In-Charge

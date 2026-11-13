@@ -1,0 +1,52 @@
+---
+doc_id: "Notifications_2010_5677"
+title: "Current Account Transactions – Liberalisation"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/AP52FE130510.pdf"
+pdf_sha256: "c16c47d2055876139216cf7ed1a8de346627dcbaa166347d064849957bb9bc90"
+md_sha256: "8c7b688f35fde8882e8bd3dcc6979eb7344c8f745b0ae8ab6647129d6b5120cf"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:09:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-05-13_Notification_5677_Current%20Account%20Transactions%20%E2%80%93%20Liberalisation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Current Account Transactions – Liberalisation
+
+<!-- PAGE 1 -->
+
+## RESERVE BANK OF INDIA
+
+## Foreign Exchange Department
+
+## Central Office
+
+## Mumbai - 400 001
+
+## RBI/2009-10/465 A. P. (DIR Series) Circular No. 52 May 13, 2010
+
+To All Category-I Authorised Dealer Banks
+
+Madam / Sir,
+
+## Foreign Exchange Management Act (FEMA), 1999 -Current Account Transactions – Liberalisation
+
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to Foreign Exchange Management (Current Account Transactions) Rules, 2000 notified vide Notification No.G.S.R.381(E) dated 3rd May 2000, as amended from time to time.
+
+2. In terms of Rule 4 of the Foreign Exchange Management (Current Account Transactions) Rules 2000, prior approval of the Ministry of Commerce and Industry, Government of India, is required for drawing foreign exchange for remittances under technical collaboration agreements where payment of royalty exceeds 5% on local sales and 8% on exports and lump- sum payment exceeds USD 2 million [item 8 of Schedule II to the Foreign Exchange Management (Current Account Transactions) Rules, 2000]. The Government of India has reviewed the extant policy with regard to liberalization of foreign technology agreement and it was decided to omit item number 8 of Schedule II to the Foreign Exchange Management (Current Account Transaction) Rules, 2000, and the entry relating thereto.
+3. Accordingly, AD Category-I banks may permit drawal of foreign exchange by persons for payment of royalty and lump-sum payment under technical collaboration agreements without the approval of Ministry of Commerce and Industry, Government of India.
+
+<!-- PAGE 2 -->
+
+4. The amendment to the Foreign Exchange Management (Current Account Transactions) Rules, 2000, in this regard has been notified by the Government of India vide <u>Notification No.G.S.R.382 (E) dated May 5, 2010</u> (copy enclosed).
+5. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+6. The directions contained in this Circular have been issued under Section 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+## (Salim Gangadharan)
+
+## Chief General Manager-in-Charge

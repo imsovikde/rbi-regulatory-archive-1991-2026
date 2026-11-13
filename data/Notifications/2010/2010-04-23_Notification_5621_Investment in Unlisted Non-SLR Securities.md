@@ -1,0 +1,54 @@
+---
+doc_id: "Notifications_2010_5621"
+title: "Investment in Unlisted Non-SLR Securities"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/INC423230410HT.PDF"
+pdf_sha256: "75286aa389a3b4adf22a55d7290cf5e264ab11a8b58e4982cd3292fae4c93f97"
+md_sha256: "d9f99ff3d99f35827dceb84b30460f6548a25e080b7552f553e0bcbf35fb0edd"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:08:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-04-23_Notification_5621_Investment%20in%20Unlisted%20Non-SLR%20Securities.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Investment in Unlisted Non-SLR Securities
+
+<!-- PAGE 1 -->
+
+The guidelines have been repealed. Please refer to the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021.
+
+## RBI/2009-10/423 DBOD.No.BP.BC. 98/ 21.04.141/ 2009-10 April 23, 2010
+
+All Scheduled Commercial Banks (excluding RRBs )
+
+Dear Sir,
+
+<u>Investment in Unlisted Non-SLR Securities</u>
+
+Please refer to paragraphs 67 and 68 of the Annual Policy Statement for the year 2010-11 (extract enclosed) regarding investment in unlisted non-SLR debt securities (both primary and secondary market) by banks.
+
+2. In terms of paragraph 1.2.10 of the Master Circular No.<u>DBOD.BP.BC.3/21.04.141/2009-10</u> dated July 1, 2009 on Prudential norms for classification, valuation and operation of investment portfolio by banks, bank’s investment in unlisted non-SLR securities should not exceed Withdrawn 10 per cent of its total investment in non-SLR securities as on March 31, of the previous year. Further, in terms of our Circular No. <u>DBOD. BP.BC.56/21.04.141/2007-08</u> dated December 6, 2007, banks have been allowed to invest in unrated bonds of companies engaged in infrastructure activities within the ceiling of 10 per cent of unlisted non-SLR securities.
+3. Since there is a time lag between issuance and listing of securities, which are proposed to be listed but not listed at the time of subscription, banks may not be able to participate in primary issues of non-SLR securities. In view of the above it has now been decided that investment in non-SLR debt securities (both primary and secondary market) by banks where the security is proposed to be listed on the Exchange(s) may be considered as investment in listed security at the time of making investment. However, if such security is not listed within the period specified, the same will be reckoned for the 10 per cent limit specified for unlisted non-SLR securities. In case such investments included under unlisted non-SLR securities lead to a breach of the 10 per cent limit, the bank would not be allowed to make further investment in non- SLR securities (both primary and secondary market) as also in unrated bonds issued
+
+<!-- PAGE 2 -->
+
+by companies engaged in infrastructure activities till such time bank’s investment in unlisted non-SLR securities comes within the limit of 10 per cent.
+
+## Yours faithfully
+
+(B.Mahapatra) Chief General Manager
+
+# Withdrawn
+
+<!-- PAGE 3 -->
+
+## <u>Extract of paragraphs 67 and 68 of the Annual Policy Statement for the year 2010-11</u>
+
+67. In terms of extant instructions, banks’ investments in unlisted non-SLR securities should not exceed 10 per cent of their total investments in non-SLR securities as on March 31 of the previous year. Since there is a time lag between issuance and listing of security, banks may not be able to participate in primary issues of non-SLR securities, which are proposed to be listed but not listed at the time of subscription. In view of the above, it is proposed that:
+- investment in non-SLR debt securities (both primary and secondary market) by banks where the security is proposed to be listed on the Exchange(s) may be considered as investment in listed security at the time of making investment.
+68. If such security, however, is not listed within the period specified, the same will be reckoned for the 10 per cent limit specified for unlisted non-SLR securities. In case such investment included under unlisted non-SLR securities lead to a breach of the 10 per cent limit, the bank would not be allowed to make further investment in non-SLR securities (both primary and secondary market, including unrated bonds issued for financing infrastructure activities) till such time the limit is reached.
+# Withdrawn

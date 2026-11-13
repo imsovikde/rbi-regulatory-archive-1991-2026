@@ -1,0 +1,42 @@
+---
+doc_id: "Notifications_2010_5673"
+title: "Know Your Customer (KYC) guidelines - accounts of proprietary concerns"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RFBC120510.PDF"
+pdf_sha256: "9908b718d9d501d4320cb2c99aa72ff68d13081bd37a654c80ce62ef859ac4b1"
+md_sha256: "2d3f1a93cd60fc6ce19aa11251fd531095d620cee5b8208a6b541b68b847393f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:09:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-05-12_Notification_5673_Know%20Your%20Customer%20%28KYC%29%20guidelines%20-%20accounts%20of%20proprietary%20concerns.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Know Your Customer (KYC) guidelines - accounts of proprietary concerns
+
+<!-- PAGE 1 -->
+
+## RBI / 2009- 10/461 RPCD.CO.RF.AML.BC. No. 83/07.40.00/ 2009-10 May 12, 2010
+
+The Chief Executives of all State and District Central Co-operative Banks
+
+Dear Sir,
+
+## <u>Know Your Customer (KYC) guidelines-accounts of proprietary concerns</u>
+
+A reference is invited to paragraph 3 of Guidelines on 'Know Your Customer' Norms and Anti Money Laundering Measures enclosed to our circular <u>RPCD.AML.BC.No.80/07.40.00/ 2004-05 dated February 18, 2005</u>. It has been advised to banks that internal guidelines for customer identification procedure of legal entities may be framed by them based on their experience of dealing with such entities, normal bankers’ prudence and the legal requirements as per established practices. If the bank decides to accept such accounts in terms of the Customer Acceptance Policy, the bank should take reasonable measures to identify the beneficial owner(s) and verify his/her/their identity in a manner so that it is satisfied that it knows who the beneficial owner(s) is/are.
+
+2. For sake of clarity, in case of accounts of proprietorship concerns, it has been decided to lay down criteria for the customer identification procedure for account opening by proprietary concerns. Accordingly, apart from following the extant guidelines on customer identification procedure as applicable to the proprietor, banks should call for and verify the following documents before opening of accounts in the name of a proprietary concern:
+i) Proof of the name, address and activity of the concern, like registration certificate (in the case of a registered concern), certificate/licence issued by the Municipal Authorities under Shop & Establishment Act, sales and income tax returns, CST/VAT certificate, certificate/registration document issued by Sales Tax/Service Tax/Professional Tax authorities, Licence issued by the Registering authority like Certificate of Practice issued by
+
+<!-- PAGE 2 -->
+
+Institute of Chartered Accountants of India, Institute of Cost Accountants of India, Institute of Company Secretaries of India, Indian Medical Council, Food and Drug Control Authorities, etc.
+
+ii) Any two of the above documents would suffice. These documents should be in the name of the proprietary concern.
+
+3. These guidelines will apply to all new customers, while in case of accounts of existing customers, the above formalities should be completed in a time bound manner and should be completed before December 31, 2010.
+4. Please acknowledge receipt to our Regional Office concerned. Yours faithfully, (R.C.Sarangi) Chief General Manager

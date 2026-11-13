@@ -1,0 +1,194 @@
+---
+doc_id: "Notifications_2010_5622"
+title: "UCBs - Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Projects under Implementation"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/IRAC230410.pdf"
+pdf_sha256: "7afc5fe8162ab40d37aac10403186e4119d6fc85ad7fe9d79c43a2c6369cf772"
+md_sha256: "3634669c91d990427c8b4ef3c6f6b0ca2a56b25751491cc83a3a7c3c06e24cc0"
+total_pages: 11
+native_pages: 10
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:08:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-04-23_Notification_5622_UCBs%20-%20Prudential%20Norms%20on%20Income%20Recognition%2C%20Asset%20Classification%20and%20Provisioning%20Pertaining%20to%20Advances%20-%20Projects%20under%20Implementation.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# UCBs - Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances - Projects under Implementation
+
+<!-- PAGE 1 -->
+
+alqd
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/424
+
+UBD.BPD.PCB.Cir.No.59/09.14.000/2009-10
+
+April 23, 2010
+
+The Chief ExecutiveOfficer
+
+All Primary (Urban) Cooperative Banks
+
+Dear Sir,
+
+Prudential Norms on Income Recognition, Asset Classification and
+
+Provisioning Pertaining to Advances - Projects under Implementation
+
+'Project Loan' would mean any term loan which has been extended for the purpose
+
+of setting up of an economic venture. Banks must fix a Date of Commencement of
+
+arrangements). For the purpose of IRAC norms, all project loans may be divided into
+
+the following two categories; (i) Project Loans for infrastructure sector (ii) Project
+
+Loans for non-infrastructure sector
+
+2.
+
+Guidelines on Asset Classification of Projects under Implementation
+
+2.1 Project Loans for Infrastructure Sector
+
+2.1.1  A loan for an infrastructure project will be classified as NPA during any time
+
+before commencement of commercial operations as per record of recovery (90 days
+
+overdue), unless it is restructured and becomes eligible for classification as 'standard
+
+asset' in terms of paras 2.1.3 to 2.1.5 below.
+
+2.1.2  A loan for an infrastructure project will be classified as NPA if it fails to
+
+commence commercial operations within two years from the original DccO, even if it
+
+is regular as per record of recovery, unless it is restructured and becomes eligible for
+
+classification as 'standard asset' in terms of paras 2.1.3 to 2.1.5 below.
+
+* For greenfield projects, financial closure is defined as a legally binding commitment of equity
+
+holders and debt financiers to provide or mobilise funding for the project. Such funding must account
+
+for a significant part of the project cost which should not be less than 90 per cent of the total project
+
+cost securing the construction of the facility.
+
+<!-- PAGE 2 -->
+
+2.1.3 There may be occasions when completion of projects is delayed for legal and other extraneous reasons like delays in Government approvals etc. All these factors, which are beyond the control of the promoters, may lead to delay in project implementation and involve restructuring / rescheduling of loans by banks. If a project loan classified as 'standard asset' is restructured any time during the period up to two years from the original date of commencement of commercial operations (DCCO), in accordance with the instructions contained in our circular
+
+|UBD.PCB.BPD.No. 53 / 13.05.000 / 2008-09 dated March 6, 2009 on prudential guidelines on restructuring of advances, it can be retained as a standard asset if the fresh DCCO is fixed within the following limits, and further provided the account continues to be serviced as per the restructured terms: Infrastructure Projects involving court cases Up to another 2 years (beyond the existing extended period of 2 years i.e total extension of 4 years), in case the reason for extension of date of commencement of production is arbitration proceedings or a court case. Infrastructure Projects delayed for other reasons beyond the control of Up to another 1 year (beyond the existing extended period of 2 years i.e. total extension of 3 years), in other than court cases. 2.1.4 The dispensation in para 2.1.3 is subject to the condition that the application for restructuring should be received before the expiry of period of two years from the original DCCO and when the account is still standard as per record of recovery. The other conditions applicable would be : a. In cases where there is moratorium for payment of interest, banks should not book income on accrual basis beyond two years from the original DCCO, considering the high risk involved in such restructured accounts. b. Banks should maintain provisions on such accounts as long as these are classified as standard assets as under :||
+|---|---|
+|Until two years from the original DCCO|0.40%|
+|During the third and the fourth years after the original DCCO.|1.00%|
+
+(a)
+(b) ***promoters***
+
+<!-- PAGE 3 -->
+
+2.1.5 For the purpose of these guidelines, mere extension of DCCO will also be treated as restructuring even if all other terms and conditions remain the same.
+2.2 **Project Loans for Non-Infrastructure Sector**
+2.2.1 A loan for a non-infrastructure project will be classified as NPA during any time before commencement of commercial operations as per record of recovery (90 days overdue), unless it is restructured and becomes eligible for classification as 'standard asset' in terms of paras 2.2.3 to 2.2.5 below.
+2.2.2. A loan for a non-infrastructure project will be classified as NPA if it fails to commence commercial operations within six months from the original DCCO, even if it is regular as per record of recovery, unless it is restructured and becomes eligible for classification as 'standard asset' in terms of paras 2.2.3 to 2.2.4 below.
+2.2.3 In case of non-infrastructure projects, if the delay in commencement of commercial operations extends beyond the period of six months from the date of completion as determined at the time of financial closure, banks can prescribe a fresh DCCO, and retain the "standard" classification by undertaking restructuring of accounts in accordance with the provisions contained in our circular dated March 6, 2009, provided the fresh DCCO does not extend beyond a period of twelve months from the original DCCO. This would among others also imply that the restructuring application is received before the expiry of six months from the original DCCO, and when the account is still "standard" as per the record of recovery. The other conditions applicable would be :
+a. In cases where there is moratorium for payment of interest, banks should not book income on accrual basis beyond six months from the original DCCO, considering the high risk involved in such restructured accounts.
+b. Banks should maintain provisions on such accounts as long as these are classified as standard assets as under :
+<u>Until the first six months from the original DCCO</u> 0.40% During the next six months <u>1.00%</u>
+
+2.2.4 For this purpose, mere extension of DCCO will also be treated as restructuring even if all other terms and conditions remain the same.
+
+<!-- PAGE 4 -->
+
+2.3. These guidelines will however not be applicable to restructuring of advances referred to in para 7.1.3 of circular dated March 6, 2009 viz., commercial real estate and housing loans.
+## 2.4 Other Issues
+
+2.4.1 All other aspects of restructuring of project loans before commencement of commercial operations would be governed by the provisions of our circular dated March 6, 2009. Restructuring of project loans after commencement of commercial operations will also be governed by these instructions.
+2.4.2 Any change in the repayment schedule of a project loan caused due to an increase in the project outlay on account of increase in scope and size of the project, would not be treated as restructuring if :
+(i) The increase in scope and size of the project takes place before commencement of commercial operations of the existing project. (ii) The rise in cost excluding any cost-overrun in respect of the original project is 25% or more of the original outlay. (iii) The bank re-assesses the viability of the project before approving the enhancement of scope and fixing a fresh DCCP. (iv) On re-rating, (if already rated) the new rating is not below the previous rating by more than one notch.
+3. The definition of infrastructure lending and exposure to commercial real estate are given Annex 1 & II respectively.
+4. Please acknowledge receipt to the Regional Office concerned.
+## Yours faithfully
+
+## (A.K. Khound)
+
+Chief General Manager
+
+Urban Banks Department, Central Office, Garment House, 1 Floor, Dr.A.B.Road, Worli, Mumbai - 400018, India Phone: 022 - 2493 9930 - 49; Fax: 022 - 2497 4030 / 2492 0231; Email: rbiubdco@rbi.org.in
+
+<!-- PAGE 5 -->
+
+<u>Annex 1</u> **Definition of 'Infrastructure Lending'**
+
+Any credit facility in whatever form extended by lenders (i.e. banks, FIs or NBFCs) to an infrastructure facility as specified below falls within the definition of "infrastructure lending". In other words, a credit facility provided to a borrower company engaged in
+
+* developing or
+* operating and maintaining, or
+* developing, operating and maintaining any infrastructure facility that is a project in any of the following sectors, or any infrastructure facility of a similar nature :
+i. a road, including toll road, a bridge or a rail system; ii. a highway project including other activities being an integral part of the highway project; iii. a port, airport, inland waterway or inland port; iv. a water supply project, irrigation project, water treatment system, sanitation and sewerage system or solid waste management system;
+v. telecommunication services whether basic or cellular, including radio paging, domestic satellite service (i.e., a satellite owned and operated by an Indian company for providing telecommunication service), network of trunking, broadband network and internet services; vi. An industrial park or Special Economic Zone; vii. generation or generation and distribution of power; viii. transmission or distribution of power by laying a network of new transmission or distribution lines; ix. construction relating to projects involving agro-processing and supply of inputs to agriculture;
+x. construction for preservation and storage of processed agro-products, perishable goods such as fruits, vegetables and flowers including testing facilities for quality; xi. construction of educational institutions and hospitals; xii. laying down and / or maintenance of gas, crude oil and petroleum pipelines. xiii. any other infrastructure facility of similar nature.
+
+<!-- PAGE 6 -->
+
+## Annex 2
+
+## Definition of Commercial Real Estate Exposure (CRE)
+
+Real Estate is generally defined as an immovable asset-land (earth space) and the permanently attached improvements to it. Income-producing real estate (IPRE) is defined in para 226 of the Basel II Framework as under :
+
+"Income-producing real estate (IPRE) refers to a method of providing funding to real estate (such as, office buildings to let, retail space, multifamily residential buildings, industrial or warehouse space, and hotels) where the prospects for repayment and recovery on the exposure depend primarily on the cash flows generated by the asset. The primary source of these cash flows would generally be lease or rental payments or the sale of the asset. The borrower may be, but is not required to be, an SPE (Special Purpose Entity), an operating company focused on real estate construction or holdings, or an operating company with sources of revenue other than real estate. The distinguishing characteristic of IPRE versus other corporate exposures that are collateralised by real estate is the strong positive correlation between the prospects for repayment of the exposure and the prospects for recovery in the event of default, with both depending primarily on the cash flows generated by a property".
+
+2. The Income Producing Real Estate (IPRE) is synonymous with Commercial Real Estate (CRE). From the definition of IPRE given above, it may be seen that for an exposure to be classified as IPRE / CRE, the essential feature would be that the funding will result in the creation / acquisition of real estate (such as, office buildings to let, retail space, multifamily residential buildings, industrial or warehouse space, and hotels) where the prospects for repayment would depend primarily on the cash flows generated by the asset. Additionally, the prospect of recovery in the event of default would also depend primarily on the cash flows generated from such funded asset which is taken as security, as would generally be the case. The primary source of cash flow (i.e. more than 50% of cash flows) for repayment would generally be lease or rental payments or the sale of the assets as also for recovery in the event of default where such asset is taken as security.
+
+<!-- PAGE 7 -->
+
+3. In certain cases where the exposure may not be directly linked to the creation or acquisition of CRE but the repayment would come from the cash flows generated by CRE. For example, exposures taken against existing commercial real estate whose prospects of repayments primarily depend on rental / sale proceeds of the real estate should be classified as CRE. Other such cases may include; extension of guarantees on behalf of companies engaged in commercial real estate activities, corporate loans extended to real estate companies etc.
+4. It follows from the definition at para 2 and 3 above that if the repayment primarily depends on other factors such as operating profit from business operations, quality of goods and services, tourist arrivals etc., the exposure would not be counted as Commercial Real Estate.
+5. UCBs should not extend finance for acquisition of land even if it is part of a project. However, finance can be granted to individuals for purchase of a plot, provided a declaration is obtained from the borrower that he intends to construct a house on the said plot, within such period as may be laid down by the banks themselves.
+## Simultaneous Classification of CRE into other Regulatory Categories
+
+6. It is possible for an exposure to get classified simultaneously into more than one category, real estate, CRE, infrastructure etc as different classifications are driven by different considerations. In such cases, the exposure would be reckoned for regulatory / prudential exposure limit, if any, fixed by RBI or by the bank itself, for all the categories to which the exposure is assigned. For the purpose of capital adequacy, the largest of the risk weights applicable among all the categories would be applicable for the exposure. The rationale for such an approach is that, while at times certain classifications / categorizations could be driven by socio-economic considerations and may be aimed at encouraging flow of credit towards certain activities, these exposures should be subjected to appropriate risk management / prudential / capital adequacy norms so as to address the risk inherent in them. Similarly, if an exposure has sensitivity to more than one risk factor it should be subjected to the risk management framework applicable to all the relevant risk factors.
+
+<!-- PAGE 8 -->
+
+7. In order to assist banks in determining as to whether a particular exposure should be classified as CRE or not, some examples based on the principles described above are given below. Based on the above principles and illustrations given, banks should be able to determine, whether an exposure not included in the illustrative examples is a CRE or not and should record a reasoned note justifying the classification.
+## Illustrative Examples
+
+**A. Exposures which should be classified as CRE**
+1. Loans extended to builders for construction of any property which is intended to be sold or given on lease (e.g. loans extended to builders for housing buildings, hotels, restaurants, gymnasiums, hospitals, condominiums, shopping malls, office blocks, theatres, amusement parks, cold storages, warehouses, educational institutions, industrial parks) In such cases, the source of repayment in normal course would be the cash flows generated by the sale / lease rentals of the property. In case of default of the loan, the recovery will also be made from sale of the property if the exposure is secured by these assets as would generally be the case.
+2. Loans for Multiple Houses intended to be rented out The housing loans extended in cases where houses are rented out need to be treated differently. If the total number of such units is more than two, the exposure for the third unit onwards may be treated as CRE Exposure as the borrower may be renting these housing units and the rental income would be the primary source of repayment.
+3. Loans for integrated Township Projects Where the CRE is part of a big project which has small non-CRE component, it will be classified as CRE exposure since the primary source of repayment for such exposures would be the sale proceeds of buildings meant for sale.
+4. Exposures to Real Estate Companies In some cases exposure to real estate companies is not directly linked to the creation or acquisition of CRE, but the repayment would come from the cash flows generated by Commercial Real Estate. Such exposures illustratively could be :
+
+<!-- PAGE 9 -->
+
+- Corporate Loans extended to these companies
+- Investments made in the debt instruments of these companies
+- Extension of guarantees on behalf of these companies
+5. General Purpose loans where repayment is dependent on real estate prices Exposures intended to be repaid out of rentals / sale proceeds generated by the existing CRE owned by the borrower, where the finance may have been extended for a general purpose.
+**B. Exposures which may not be classified as CRE**
+1. Exposures to entrepreneurs for acquiring real estate for the purpose of their carrying on business activities, which would be serviced out of the cash flows generated by those business activities. The exposure could be secured by the real estate where the activity is carried out, as would generally be the case, or could even be unsecured.
+(a) Loans extended for construction of a cinema theatre, establishment of an amusement park, hotels and hospitals, cold storages, warehouses, educational institutions, running haircutting saloons and beauty parlours, restaurant, gymnasium etc. to those entrepreneurs who themselves run these ventures would fall in this category. Such loans would generally be secured by these properties. For instance, in the case of hotels and hospitals, the source of repayment in normal course would be the cash flows generated by the services rendered by the hotel and hospital. In the case of a hotel, the cash flows would be mainly sensitive to the factors influencing the flow of tourism, not directly to the fluctuations in the real estate prices. In the case of a hospital, the cash flows in normal course would be sensitive to the quality of doctors and other diagnostic services provided by the hospital. In these cases, the source of repayment might also depend to some extent upon the real estate prices to the extent the fluctuation in prices influence the room rents, but it will be a minor factor in determining the overall cash flows. In these cases, however, the recovery in case of default, if the exposure is secured by the Commercial Real Estate, would depend upon the sale price of the hotel / hospital as well as upon the maintenance and quality of equipment and furnishings.
+
+<!-- PAGE 10 -->
+
+The above principle will also be applicable in the cases where the developers / owners of the real estate assets (hotels, hospitals, warehouses, etc.) lease out the assets on revenue sharing or profit sharing arrangement and the repayment of exposure depends upon the cash flows generated by the services rendered, instead of fixed lease rentals.
+
+(b) Loans extended to entrepreneurs, for setting up industrial units will also fall in this category. In such cases, the repayment would be made from the cash flows generated by the industrial unit from sale of the material produced which would mainly depend upon demand and supply factors. The recovery in case of default may partly depend upon the sale of land and building if secured by these assets. Thus, it may be seen that in these cases the real estate prices do not affect repayment though recovery of the loan could partly be from sale of real estate.
+2. Loans extended to a company for a specific purpose, not linked to a real estate activity, which is engaged in mixed activities including real estate activity. For instance, a company has two divisions. One division is engaged in real estate activity, and other division is engaged in power production. An infrastructure loan, for setting up of a power plant extended to such a company, to be repaid by the sale of electricity would not be classified as CRE. The exposure may or may not be secured by plant and machinery
+3. Loans extended against the Security of future rent receivables A few banks have formulated schemes where the owners of existing real estate such as shopping malls, office premises, etc. have been offered finance to be repaid out of the rentals generated by these properties. Even though such exposures do not result in funding / acquisition of commercial real estate, the repayment might be sensitive to fall in real estate rentals and such exposures should be classified as CRE. However, if there are certain in built safety conditions which have the effect of delinking the repayments from real estate price volatility like, the lease rental agreement between the lessor and lessee has a lock in period which is not shorter than the tenor of loan and there is no clause which allows a downward revision in the rentals during the period covered by the loan banks can classify such exposures as non CRE. Banks may, however, record a reasoned note in all such cases.
+
+<!-- PAGE 11 -->
+
+4. Credit facilities provided to construction companies which work as Contractors The working capital facilities extended to construction companies working as contractors, rather than builders, will not be treated as CRE exposures because the repayment would depend upon the contractual payments received in accordance with the progress in completion of work.
+5. Financing of acquisition / renovation of self-owned office / company premises Such exposures will not be treated as CRE exposures because the repayment will come from company revenues. The exposures to industrial units towards setting up of units or projects and working capital requirement, etc. would not be treated as CRE Exposures.
+********

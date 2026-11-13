@@ -1,0 +1,108 @@
+---
+doc_id: "Notifications_2010_5609"
+title: "Issue and Pricing of Shares by Private Sector Banks"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIIPSS210410.PDF"
+pdf_sha256: "4c07cc52a37ec29519ea81d5ffbda8cf9f68f834072bf3d89bd73f1826034227"
+md_sha256: "43ab82353af6e4eb1b2a5effa7c22201eddf2eafd30294570b6ec9679a3fb1af"
+total_pages: 4
+native_pages: 3
+ocr_pages: 1
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:08:11Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-04-21_Notification_5609_Issue%20and%20Pricing%20of%20Shares%20by%20Private%20Sector%20Banks.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Issue and Pricing of Shares by Private Sector Banks
+
+<!-- PAGE 1 -->
+
+ANK
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/411
+
+DBOD.No.PSBD.BC.92/16.13.100/2009-2010
+
+April 20, 2010
+
+TheChiefExecutivesofallIndianbanks
+
+intheprivatesector
+
+Dear Sir/Madam,
+
+Issue and Pricing of Shares by Private Sector Banks
+
+Please refer to our circular DBOD.No.PSBS.BC.79 /16.13.100/2001-2002 dated March 20,
+
+2002, in terms of which guidelines on issue and pricing of shares had been prescribed. As
+
+per the extant instructions, all banks in private sector were required to obtain approval of
+
+Reserve Bank of India (RBl) for issue of shares through Initial Public Offers (IPOs) and
+
+relating to pricing in respect of Initial Public Offers (IPOs), Bonus issues and Preferential
+
+issues, SEBI requirements in respect of Bonus issues have also been indicated.
+
+2.SEBlhadintroduced anadditional
+
+raising route in May 2006 viz. Qualified
+
+Institutional Placements (QIPs) that would
+
+enable listed companies to raise funds from the
+
+domestic market. Consequently, many of the private sector banks have been availing this
+
+route for raising capital. Since in terms of SEBl Guidelines the allotments under QIP are on
+
+private placement basis, the QiP issues have been treated as preferential issue of shares
+
+whichrequires RBI's prior approvalinterms of circular DBOD.No.PSBS.BC.79
+
+/16.13.100/2001-2002 dated March20,2002.
+
+3. It is considered necessary to clearly spell out the approval mechanism in respect of
+
+Qualified Institutional Placements (QiPs). Accordingly, the guidelines in respect of issue and
+
+pricing of shares by private sector banks have been revised to incorporate the Qualified
+
+Institutional Placements mode of raising capital and also draw a reference to the stipulations
+
+2005 in respect of Rights Issue. The revised guidelines are as follows:
+
+400005
+
+Tel No: 91-22-22189131 Fax No: 91-22-22160970 Email ID:cgmicdbodco@rbi.org.in
+
+<!-- PAGE 2 -->
+
+4. <u>Initial Public Offers (lPOs):</u>
+(i) All banks should obtain RBI approval for IPOs. After listing on the stock exchanges, banks are free to price their subsequent issues. (ii) Issue price should be based on merchant banker's recommendation. There need be no reference to the CCI formula for deciding on the pricing of such issues.
+5. <u>Rights issues:</u> RBI approval would not be required for rights issues by both listed and unlisted banks. However, banks need to comply with the requirements that have been laid down in the circular DBOD.No.PSBD.BC.99/16.13.100/2004-05 dated June 25, 2005 on Rights Issue.
+6. <u>Bonus issues:</u> Private sector banks, both listed and unlisted, need not seek RBI's approval for bonus issues. The issues would, however, be subject to SEBI's requirements on issue of bonus shares, viz. bonus issues (a) should be made from free reserves built out of genuine profits or share premium, (b) should not dilute the value or rights of partly or fully convertible debentures, (c) should not be in lieu of dividend and (d) should not be made unless all partly paid-up shares are fully paid-up. Further, bonus issues may be issued without linkage to rights issues. Withdrawn
+7. <u>Preferential issue:</u> All preferential issues would require prior approval of RBI. Pricing of preferential issues by listed banks may be as per SEBI formula, while for unlisted banks the fair value may be determined by a chartered accountant or a merchant banker.
+8. <u>Qualified Institutional Placement (QIP)</u>**:** Private Sector Banks need to approach RBI for prior 'in principle' approval in case of Qualified Institutional Placements. Banks need to approach RBI along with details of the issue once the bank’s Board approves the proposal of raising capital through this route. Further, allotment to the investors would be subject to compliance with SEBI guidelines on QIPs and RBI guidelines dated February 3, 2004 on acknowledgement of allotment / transfer of shares. Once the allotment process is complete, the banks would also be required to furnish complete details of the issue to RBI in the <u>enclosed</u> <u>format</u> for seeking post facto approval. This would be irrespective of whether any acquisition results in shareholding of 5% or more of the paid up capital of the bank.
+
+<!-- PAGE 3 -->
+
+9. In case of pricing of issues where RBI approval is not required, pricing of issues should be as per SEBI guidelines; in cases where prior approval of RBI is required, pricing should take into account both SEBI and RBI guidelines.
+10. These instructions come into force with immediate effect and supersede the instructions issued vide our circular DBOD.No.PSBS.BC.79 /16.13.100/2001-2002 dated March 20, 2002. Yours faithfully, Sd/- **(P. Vijaya Bhaskar)** **Chief General Manager-in-Charge**
+# Withdrawn
+
+<!-- PAGE 4 -->
+
+<u>Format for furnishing details of the QIBs</u>
+
+Sr. Name of No. of % of No. of % of Aggregate % of total No. the shares total shares shares no. of paid-up shares Allottees held prior paid-up approved now shares (i.e. aggregate to share for allotted (post percentage allotment prior to allotment to paid issue) shareholding allotment up post QIP issue) shares
+
+<u>(A) (B) (C)</u> (D) <u>(A + C) (B + D)</u>
+# Withdrawn

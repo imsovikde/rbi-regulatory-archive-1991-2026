@@ -1,0 +1,184 @@
+---
+doc_id: "Notifications_2010_5663"
+title: "Inclusion in / exclusion from the Second Schedule to the Reserve Bank of India Act, 1934 – Regional Rural Banks (RRBs)"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CBC81070510.PDF"
+pdf_sha256: "d08c9440a56333abba191c4b097727741cf1e34d72c28d6dd914ec05163caa63"
+md_sha256: "4bfde155cfc164e5e3f55d92367afbdc2d1f283bbe78e9bbfa398781916190ee"
+total_pages: 4
+native_pages: 1
+ocr_pages: 3
+conversion_engine: "firecrawl-anydoc 0.2.4 + RapidOCR (PP-OCRv5 ONNX)"
+converted_at_utc: "2026-11-13T13:09:07Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-05-07_Notification_5663_Inclusion%20in%20-%20exclusion%20from%20the%20Second%20Schedule%20to%20the%20Reserve%20Bank%20of%20India%20Act%2C%201934%20%E2%80%93%20Regional%20Rural%20Banks%20%28RRBs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Inclusion in / exclusion from the Second Schedule to the Reserve Bank of India Act, 1934 – Regional Rural Banks (RRBs)
+
+<!-- PAGE 1 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RBI/2009-10/455
+
+May 07, 2010
+
+RPCD.CO.RRB.BC.N0.81/03.05.100/2009-10
+
+All Regional Rural Banks
+
+Dear Sir,
+
+Inclusion in / exclusion from the Second Schedule to the
+
+Reserve Bank of India Act, 1934 - Regional Rural Banks (RRBs)
+
+We advise that the names of 9 amalgamated Regional Rural Banks have been included in the
+
+Gazette of India (Part Ill- Sec.4) dated March 12, 2010.
+
+2. Simultaneously, the names of 40 erstwhile Regional Rural Banks have been excluded from
+
+RPCD.CO.RRB.No.7812B/ 03.05.100/ 2009-10 dated January 21， 2010 which was also
+
+published in the abovementioned Extraordinary Gazette of India.
+
+3.Copies of the above two notifications RPCD.CO.RRB. No.7812A/ 03.05.100/ 2009-10 and
+
+4. Please acknowledge receipt to our Regional Office concerned.
+
+Yours faithfully
+
+Sd/-
+
+(R.C. Sarangi)
+
+Chief General Manager
+
+Encls: As above
+
+Rural Planning & Credit Department Central Office, 1oth Floor Central Office Building, post box no.10014 Mumbai-1
+
+Tel No:91-22-22661602FaxNo:91-22-22621011/22658273/22658276Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 2 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RPCD.CO.RRB.N0.7812A/03.05.100/2009-10
+
+January 21, 2010
+
+NOTIFICATION
+
+In pursuance of clause (a) of sub section (6) of Section 42 of the Reserve Bank of India
+
+Act, 1934 (2 of 1934), the Reserve Bank of India hereby directs the inclusion in the
+
+1. Baroda Rajasthan Gramin Bank, Ajmer (Rajasthan)
+
+2. Wainganga Krishna Gramin Bank, Solapur (Maharashtra)
+
+3. Vananchal Gramin Bank, Dumka (Jharkhand)
+
+4. Bihar Kshetriya Gramin Bank, Monghyr (Bihar)
+
+5. Uttar Bihar Gramin Bank, Muzaffarpur (Bihar)
+
+6. Jharkhand Gramin Bank, Ranchi (Jharkhand)
+
+7. Neelachal Gramya Bank, Bhubaneswar (Orissa)
+
+8. Bangiya Gramin Vikash Bank, Berhampore (West Bengal)
+
+9. Satpura Narmada Kshetriya Gramin Bank, Chhindwara (Madhya Pradesh)
+
+(V.K.Sharma)
+
+Executive Director
+
+Tel No: 91-22-22661602 Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 3 -->
+
+RESERVEBANKOFINDIA
+
+www.rbi.org.in
+
+RPCD.CO.RRB.No.7812 B/ 03.05.100 /2009-10
+
+January21,2010
+
+NOTIFICATION
+
+In pursuance of clause (b) of sub section (6) of Section 42 of the Reserve Bank of India
+
+Act, 1934 (2 of 1934), the Reserve Bank of India hereby directs exclusion from the
+
+1. Begusarai Kshetriya Gramin Bank, Begusarai (Bihar)
+
+2. Bhagalpur-Banka Kshetriya Gramin Bank, Bhagalpur (Bihar)
+
+3. Monghyr Kshetriya Gramin Bank, Monghyr (Bihar)
+
+4. Marudhar Kshetriya Gramin Bank, Churu (Rajasthan)
+
+5.Aravali Kshetriya Gramin Bank, Sawai Madhopur (Rajasthan)
+
+6. Bundi-Chittorgarh Kshetriya Gramin Bank, Bundi (Rajasthan)
+
+7. Bhilwara Ajmer Kshetriya Gramin Bank, Bhilwara (Rajasthan)
+
+8. Dungarpur-Banswara Kshetriya Gramin Bank, Dungarpur (Rajasthan)
+
+9. Ranchi Kshetriya Gramin Bank, Ranchi (Jharkhand)
+
+10.Singhbhum Kshetriya Gramin Bank, Chaibasa (Jharkhand)
+
+11. Hazaribagh Kshetriya Gramin Bank, Hazaribagh (Jharkhand)
+
+12.Giridih Kshetriya Gramin Bank, Giridih (Jharkhand)
+
+13. Palamau Kshetriya Gramin Bank, Daltonganj (Jharkhand)
+
+14.Santhal Paraganas Gramin Bank, Dumka (Jharkhand)
+
+15. Chandrapur Gadchiroli Gramin Bank, Chandrapur (Maharashtra)
+
+16. Bhandara Gramin Bank, Bhandara (Maharashtra)
+
+Tel No: 91-22-22661602 Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
+
+<!-- PAGE 4 -->
+
+17. Ratnagiri Sindhudurg Gramin Bank, Ratnagiri (Maharashtra)
+18. Solapur Gramin Bank, Solapur (Maharashtra)
+19. Gaur Gramin Bank, Malda (West Bengal)
+20. Mallabhum Gramin Bank, Bankura (West Bengal)
+21. Murshidabad Gramin Bank, Berhampore (West Bengal)
+22. Nadia Gramin Bank, Krishnanagar (West Bengal)
+23. Sagar Gramin Bank, Amtala (West Bengal)
+24. Puri Gramya Bank, Pipli (Orissa)
+25. Dhenkanal Gramya Bank, Dhenkanal (Orissa)
+26. Kshetriya Gramin Bank Hoshangabad (Madhya Pradesh)
+27. Chhindwara-Seoni Kshetriya Gramin Bank, Chhindwara (Madhya Pradesh)
+28. Mandla-Balaghat Kshetriya Gramin Bank, Mandla (Madhya Pradesh)
+29. Shahdol Kshetriya Gramin Bank, Shahdol (Madhya Pradesh)
+30. Chambal Kshetriya Gramin Bank, Morena (Madhya Pradesh)
+31. Gwalior- Datia Kshetriya Gramin Bank, Datia (Madhya Pradesh)
+32. Ratlam Mandsaur Kshetriya Gramin Bank, Mandsaur (Madhya Pradesh)
+33. Kosi Kshetriya Gramin Bank, Purnea (Bihar)
+34. Champaran Kshetriya Gramin Bank, Motihari (Bihar)
+35. Madhubani Kshetriya Gramin Bank, Madhubani (Bihar)
+36. Mithila Kshetriya Gramin Bank, Darbhanga (Bihar)
+37. Gopalganj Kshetriya Gramin Bank, Gopalganj (Bihar)
+38. Saran Kshetriya Gramin Bank, Chapra (Bihar)
+39. Siwan Kshetriya Gramin Bank, Siwan (Bihar)
+40. Vaishali Kshetriya Gramin Bank, Muzaffarpur (Bihar)
+(V.K.Sharma) Executive Director ____________________________________________________________ Rural Planning & Credit Department Central Office**,** 13 th Floor Central Office Building, post box no.10014 Mumbai-1 Tel No: 91-22-22661602 Fax No: 91-22-22621011/22658273/22658276 Email ID:cgmicrpcd@rbi.org.in
