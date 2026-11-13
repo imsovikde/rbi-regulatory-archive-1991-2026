@@ -1,0 +1,121 @@
+---
+doc_id: "Press-Releases_2013_29030"
+title: "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract"
+category: "Press-Releases"
+year: 2013
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/IEPR44WS0713.pdf"
+pdf_sha256: "f975b0a564a90ea30bbfbddac1a2574785e27623d8c21e0a45ccaa6de268c874"
+md_sha256: "1058ca2cebb79de6606a49defd52fe1f32f263cd1bcb624df244a50196a5e94c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T18:15:43Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2013/2013-07-05_Press-Release_29030_Reserve%20Bank%20of%20India%20%E2%80%93%20Bulletin%20Weekly%20Statistical%20Supplement%20%E2%80%93%20Extract.pdf"
+verification_status: "NEEDS_REVIEW"
+---
+# Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय ररज़िव बैंक
+
+## RESERVE BANK OF INDIA
+
+**संचार विभाग,** कें द्रीय कायाालय, एस.बी.एस.मार्ा, मुंबई-400001 _____________________________________________________________________________________________________________________ वेबसाइट : www.rbi.org.in/hindi **DEPARTMENT OF COMMUNICATION**, Central Office, S.B.S.Marg, Mumbai-400001 Website : www.rbi.org.in फोन/Phone: 91 22 2266 0502 फै क्स/Fax: 91 22 22660358 इ-मेल email**:** <u>helpdoc@rbi.org.in</u>
+
+## July 5, 2013
+
+## Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract
+
+## 1. Reserve Bank of India-Liabilities and Assets
+
+||||||(` Billion)|
+|---|---|---|---|---|---|
+|Item|2012|2013|||Variation|
+||Jun. 29|Jun. 21|Jun. 28|Week|Year|
+||1|2|3|4|5|
+|4 Loans and advances||||||
+|4.1 Central Government|—|—|15.72|15.72|15.72|
+|4.2 State Governments|3.83|5.51|12.45|6.93|8.62|
+
+## 2. Foreign Exchange Reserves
+
+**As on June 28, Variation over** **2013**
+
+||2013||Week||End-March 2013||Year||
+|---|---|---|---|---|---|---|---|---|
+|||US$ Mn.||US$ Mn.||US$ Mn.||US$ Mn.|
+||1|2|3|4|5|6|7|8|
+|1 Total Reserves|16,919.8|284,644.9|-98.6|-3,200.8|1,035.6|-7,401.3|590.3|-5,347.3|
+|1.1 Foreign Currency Assets|15,240.0|255,278.2|-98.1|-3,154.5|1,113.7|-4,447.7|770.7|-1,680.2|
+|1.2 Gold|1,290.0|22,836.0|-|-|-107.4|-2,856.0|-160.6|-2,924.2|
+|1.3 SDRs|259.2|4,341.8|-0.3|-30.8|23.8|14.2|12.6|-37.3|
+|1.4 Reserve Position in the IMF|130.6|2,188.9|-0.2|-15.5|5.5|-111.8|-32.4|-705.6|
+
+**Week End-March 2013 Year** ***Item*** `**Bn.** ` **Bn.** ` **Bn.** ` **Bn.**
+
+## 4. Scheduled Commercial Banks-Business in India
+
+|||||||(` Billion)|
+|---|---|---|---|---|---|---|
+|Item|Outstanding as on Jun 14, 2013|Fortnight|Financial year so far|Variation over||Year-on-year|
+||||2012-13|2013-14|2012|2013|
+||1|2|3|4|5|6|
+|2 Liabilities to Others|||||||
+|2.1 Aggregate Deposits|69,506.4|-158.9|2,091.0|2,001.9|7,700.7|8,324.6|
+|2.1a Growth (Per cent)||-0.2|3.5|3.0|14.4|13.6|
+|2.1.1 Demand|6,448.4|-147.5|-371.8|-174.6|377.4|566.8|
+|2.1.2 Time|63,058.0|-11.5|2,462.8|2,176.5|7,323.3|7,757.7|
+|2.2 Borrowings|2,251.8|88.0|-42.4|35.2|594.8|229.7|
+|2.3 Other Demand and Time Liabilities|4,056.9|34.8|161.7|-59.5|327.7|161.3|
+|7 Bank Credit|53,580.4|-212.0|1,026.3|975.8|7,135.6|6,435.5|
+|7.1a Growth (Per cent)||-0.4|2.2|1.9|17.8|13.7|
+|7a.1 Food Credit|1,111.3|-69.1|242.3|147.1|282.1|56.0|
+|7a.2 Non-food credit|52,469.0|-142.9|784.0|828.6|6,853.5|6,379.5|
+
+<!-- PAGE 2 -->
+
+**6. Money Stock: Components and Sources**
+
+|||||||||||||(` Billion)|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Outstanding as on 2013||Fortnight|||Financial Year so far|Variation over|||Year-on-Year|||
+|Item|||||2012-13||2013-14||2012||2013||
+||Mar. 31|Jun. 14|Amount|%|Amount|%|Amount|%|Amount|%|Amount|%|
+||1|2|3|4|5|6|7|8|9|10|11|12|
+|M3|83,444.9|85,930.0|-12.4|-|2,948.3|4.0|2,485.0|3.0|9,630.7|14.4|9,333.2|12.2|
+|1 Components|||||||||||||
+|1.1 Currency with the Public|11,445.3|11,928.5|161.9|1.4|677.4|6.6|483.1|4.2|1,289.4|13.4|1,024.6|9.4|
+|1.2 Demand Deposits with Banks|7,420.9|7,250.1|-146.9|-2.0|-375.4|-5.3|-170.8|-2.3|444.5|7.1|515.7|7.7|
+|1.3 Time Deposits with Banks|64,546.7|66,732.7|-4.5|-|2,660.0|4.7|2,186.0|3.4|7,901.4|15.5|7,788.8|13.2|
+|1.4 ‘Other’ Deposits with Reserve Bank|32.0|18.7|-22.9|-55.0|-13.6|-48.0|-13.2|-41.4|-4.7|-24.1|4.1|27.7|
+|2 Sources (2.1+2.2+2.3+2.4-2.5)|||||||||||||
+|2.1 Net Bank Credit to Government|26,996.4|29,093.6|746.5|2.6|1,536.3|6.5|2,097.2|7.8|4,534.2|21.9|3,840.4|15.2|
+|2.1.1 Reserve Bank|5,923.9|6,883.0|426.9||391.4||959.1||1,987.7||1,134.2||
+|2.1.2 Other Banks|21,072.6|22,210.7|319.7|1.5|1,144.9|6.2|1,138.1|5.4|2,546.6|15.0|2,706.2|13.9|
+|2.2 Bank Credit to Commercial Sector|56,405.5|57,354.6|-218.9|-0.4|1,241.8|2.5|949.0|1.7|7,732.3|17.9|6,528.4|12.8|
+|2.2.1 Reserve Bank|30.6|21.3|-2.8||15.9||-9.3||34.5||-34.2||
+|2.2.2 Other Banks|56,375.0|57,333.3|-216.1|-0.4|1,225.9|2.5|958.3|1.7|7,697.8|17.9|6,562.6|12.9|
+
+**8. Liquidity Operations by RBI**
+(` Billion) <u>Liquidity Adjustment Facility</u> **OMO (Outright) Net Injection**
+
+|||Liquidity Adjustment Facility||Standing||OMO (Outright)|(+)/ Absorption Net Injection||
+|---|---|---|---|---|---|---|---|---|
+||Date|Repo|Reverse Repo|MSF Liquidity Facilities||Sale Purchase|(-) (1+3+4+6-2-|5)|
+|||1|2|3|4|5|6|7|
+|Jun. 24, 2013||802.15|22.85|-|-6.50|-|-|772.80|
+|Jun. 25, 2013||629.25|11.40|-|-8.36|-|-|609.49|
+|Jun. 26, 2013||368.90|-|-|82.50|-|-|451.40|
+|Jun. 27, 2013||596.40|69.75|-|-83.30|-|-|443.35|
+|Jun. 28, 2013 Explanatory notes are available in Reserve Bank of India Bulletin. The above information can be accessed on Internet at [http://www.wss.rbi.org.in](http://www.wss.rbi.org.in) Time series data are available at [http://dbie.rbi.org.in||877.45|115.55|-|58.10|-|-|820.00|](http://dbie.rbi.org.in||877.45|115.55|-|58.10|-|-|820.00|)
+
+## Ajit Prasad
+
+## Press Release : 2013-2014/44
+
+Assistant General Manager
