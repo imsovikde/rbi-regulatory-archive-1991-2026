@@ -1,0 +1,85 @@
+---
+doc_id: "Notifications_2023_12566"
+title: "Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendments in 05 Entries"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI84B1B5C63E184843FCBE09F49ACB030A0B.PDF"
+pdf_sha256: "875e7c4562f906ca64448444727eb583b01c16c5e2c54bbde9c769bd1071cba0"
+md_sha256: "375a2a94b070b88021dce12ed678b9cdd16375573d607028ac6b907abbe49633"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-11-15_Notification_12566_Implementation%20of%20Section%2051A%20of%20UAPA%2C1967-%20Updates%20to%20UNSC%E2%80%99s%201267-1989%20ISIL%20%28Da%27esh%29%20%26%20Al-Qaida%20Sanctions%20List-%20Amendments%20in%2005%20Entries.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendments in 05 Entries
+
+<!-- PAGE 1 -->
+
+RBI/2023-2024/84 DOR.AML.REC.56/14.06.001/2023-24 November 15, 2023
+
+The Chairpersons / CEOs of all the Regulated Entities
+
+Madam / Dear Sir,
+
+## Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/1989 ISIL
+
+## (Da'esh) & Al-Qaida Sanctions List: Amendments in 05 Entries
+
+Please refer to Section 51 of our <u>Master Direction on Know Your Customer (MD on KYC)</u> <u>dated February 25, 2016</u> as amended from time to time, in terms of which “*Regulated* *Entities* (*REs) shall ensure that in terms of Section 51A of the Unlawful Activities* *(Prevention) (UAPA) Act, 1967 and amendments thereto, they do not have any account* *in the name of individuals/entities appearing in the lists of individuals and entities,* *suspected of having terrorist links, which are approved by and periodically circulated by* *the United Nations Security Council (UNSC).”*
+
+2. In this connection, Ministry of External Affairs (MEA), Government of India has informed about the UNSC press release SC/15492 dated November 14, 2023 wherein the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al-Qaida and associated individuals, groups, undertakings and entities enacted the amendments to list entries and narrative summaries specified below with underline and strikethrough, in connection with individuals and entities subject to the assets freeze, travel ban and arms embargo set out in paragraph 1 of Security Council resolution 2610 (2021), and adopted under Chapter VII of the Charter of the United Nations.
+## A. <u>Individuals</u>
+
+**QDi.147 Name**: 1: MOHAMED 2: AMIN 3: MOSTAFA 4: na **Name (original script)**: أمین مصطفىمحمد
+
+िविनयमन िवभाग, क द्र ी य कायालय, क द्र ी य कायालय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह माग, फोट, मुंबई-400001 टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+||Title|: na|Designation|: na DOB|: 11 Oct. 1975 POB|: Kirkuk, Iraq Good quality a.k.a .:|
+|---|---|---|---|---|---|---|
+|na|||Low quality a.k.a|.: na Nationality|: Iraq Passport no|: na National identification|
+|no link:|: na in Italy|8 Nov. 2022,|Address 14 Nov. 2023 scheduled to expire|) which expired 2022. INTERPOL-UN Security Council Special Notice web|: Via della Martinella 132, Parma, Italy (Domicile) 2003 (amended on 9 Sep. 2005, 7 Jun. 2007, 16 May 2011, 25 Oct. 2016, 1 May 2019, Other information Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals|Listed on : 12 Nov. : Under administrative control measure on 15 Jan. 2012. Review pursuant to Security|
+
+**QDi.289 Name:** 1: SAID JAN 2: ‘ABD AL-SALAM 3: na 4: na **Name (original script):** سعید جان عبد السالم **Title:** na **Designation:** na **DOB: a)** 5 Feb. 1981 **b)** 1 Jan. 1972 **POB:** na **Good quality a.k.a.:**
+
+**a)** Sa'id Jan 'Abd-al-Salam **b)** Dilawar Khan Zain Khan born 1 Jan. 1972 **Low quality a.k.a.:**
+**a)** Qazi 'Abdallah **b)** Qazi Abdullah **c)** Ibrahim Walid **d)** Qasi Sa'id Jan **e)** Said Jhan **f)** Farhan Khan **g)** Aziz Cairo **h)** Nangiali **Nationality:** Afghanistan **Passport no: a)** Afghan number OR801168, issued on 28 Feb. 2006 (expire<u>d</u><s>s</s> 27 Feb. 2011, under name Said Jan 'Abd al- Salam) **b)** Pakistan number 4117921, issued on 9 Sep. 2008 (expire<u>d</u><s>s</s> 9 Sep. 2013, issued under name Dilawar Khan Zain Khan) **National identification no:** Kuwait Civil Identification number 281020505755 (issued under name Said Jan 'Abd al-Salam) **Address:** na **Listed on:** 9 Feb. 2011 (amended on 1 May 2019, 8 Nov. 2022,<u>14 Nov. 2023</u>) **Other information:** In approximately 2005, ran a “basic training” camp for Al-Qaida (QDe.004) in Pakistan. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link: <u>www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</u> **QDi.316 Name:** 1: IYAD 2: AG GHALI 3: na 4: na **Name (original script):** ایاد اغ غالي **Title:** na **Designation:** na **DOB:** 1958 **POB:** Abeibara, Kidal Region, Mali **Good quality**
+**a.k.a.:** Sidi Mohamed Arhali born 1 Jan. 1958 in Bouressa, Bourem Region, Mali **Low quality**
+**a.k.a.:** na **Nationality:** Mali **Passport no:** Mali number A1037434, issued on 10 Aug. 2001 (expire<u>d</u><s>s</s> on 31 Dec. 2014) **National identification no:** Mali Birth certificate 012546 **Address:** Mali **Listed on:** 25 Feb. 2013 (amended on 23 Sep. 2014, 1 May 2019, 8
+
+<!-- PAGE 3 -->
+
+Nov. 2022,<u>14 Nov. 2023</u>) **Other information:** Founder and leader of Ansar Eddine (QDe.135). Member of the Tuareg Ifogas tribe. Linked to the Organization of Al-Qaida in the Islamic Maghreb (QDe.014) and Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QDe.134). Name of father is Ag Bobacer Arhali, name of mother is Rhiachatou Wallet Sidi. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb.
+
+2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link: <u>www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</u> **QDi.317 Name**: 1: ABU MOHAMMED 2: AL-JAWLANI 3: na 4: na **Name (original script)**: أبو محمد الجوالني **Title**: na **Designation**: na **DOB**: Between 1975 and 1979 **POB**: Syrian Arab Republic **Good** **quality a.k.a.**: a) Abu Mohamed al-Jawlani (Abu Muhammad al-Jawlani, Abu Mohammed al- Julani, Abu Mohammed al-Golani, Abu Muhammad al-Golani, Abu Muhammad Aljawlani, Muhammad al-Jawlani (transliterations of original script name)) b) Amjad Muzaffar Hussein Ali al-Naimi born 1980 in Syrian Arab Republic ((Mother’s name: Fatma Ali Majour. Address: Mosul, Souq al-Nabi Yunis) **Low quality a.k.a.**: a) شیخ الفاتح ، الفاتح (transliterations: Shaykh al-Fatih; Al Fatih) (Translation: The Conqueror) (Nom de guerre) b) Abu Ashraf **Nationality**: Syrian Arab Republic **Passport no**: na **National identification no**: na **Address**: (Active in Syria as at Jun.
+2013) **Listed on**: 24 Jul. 2013 (amended on 2 Jun. 2014, 10 Dec. 2015, 1 May 2019, 8 Nov. 2022,<u>14 Nov. 2023</u>) **Other information**: Description: Dark complexion. Height: 1.70 m. Since Jan. 2012, he is the Leader of Al-Nusrah Front for the People of the Levant (QDe.137), a Syria- based group listed in May 2014, and previously listed as an alias of Al-Qaida in Iraq (AQI) (QDe.115) between 30 May 2013 and 13 May 2014. Associated with Aiman Muhammed Rabi al-Zawahiri (QDi.006). Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link: <u>www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</u>
+# <u>B. Entities</u>
+
+**QDe.012 Name:** MAKHTAB AL-KHIDAMAT
+
+# Name (original script): مكتب الخدمات
+
+**A.k.a.: a)** MAK **b)** Al Kifah c) <u>Afghan Service Bureau</u> **F.k.a.:** na **Address:** na **Listed** **on:** 6 Oct. 2001 (amended on 5 Mar. 2009, 13 Dec. 2011, 24 Nov. 2020, 8 Nov. 2022,<u>14</u> <u>Nov. 2023</u>) **Other information:** Absorbed into Al-Qaida (QDe.004). Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review
+
+<!-- PAGE 4 -->
+
+pursuant to Security Council resolution 2368 (2017) was concluded on 24 November
+
+2020. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link: <u>www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities</u>
+3. In accordance with paragraph 58 of resolution 2610 (2021), the Committee has made accessible on its website the narrative summaries of reasons for listing of the above entries at the following URL: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/summaries</u>.
+4. Press release regarding the above can be found at <u>[https://press.un.org/en/2023/sg15492.doc.htm](https://press.un.org/en/2023/sg15492.doc.htm)</u>. Further, the UNSC press releases concerning amendments to the list are available at URL: <u>[https://www.un.org/securitycouncil/sanctions/1267/press-releases](https://www.un.org/securitycouncil/sanctions/1267/press-releases)</u>
+5. The details of the sanction measures and exemptions are available at the following URL: <u>[https://www.un.org/securitycouncil/sanctions/1267#further_information](https://www.un.org/securitycouncil/sanctions/1267#further_information)</u>
+6. In view of the above, REs are advised to take appropriate action in terms of Section 51 of the MD on KYC and strictly follow the procedure as laid down in the UAPA Order dated February 02, 2021(amended on August 29, 2023) annexed to the MD on KYC.
+7. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+8. Further, as per the instructions from the Ministry of Home Affairs (MHA), any request for delisting received by any RE is to be forwarded electronically to Joint Secretary (CTCR), MHA for consideration. Individuals, groups, undertakings or entities seeking to be removed from the Security Council’s ISIL (Da'esh) and Al-Qaida Sanctions List can submit their request for delisting to an independent and impartial Ombudsperson who
+
+<!-- PAGE 5 -->
+
+has been appointed by the United Nations Secretary-General. More details are available at the following URL: <u>[https://www.un.org/securitycouncil/ombudsperson/application](https://www.un.org/securitycouncil/ombudsperson/application)</u>
+
+9. REs are advised to take note of the aforementioned UNSC communications and ensure meticulous compliance. Yours faithfully, (Santosh Kumar Panigrahy) Chief General Manager

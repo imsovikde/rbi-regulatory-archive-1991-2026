@@ -1,0 +1,60 @@
+---
+doc_id: "Notifications_2023_12507"
+title: "Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendments in 01 Entry"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI34EC2B545616214EC69690DC911FCB161F.PDF"
+pdf_sha256: "186563b8e7d4d5fcbce8cb137859b74d0fa2ffe449e673a4b94a30b070a19202"
+md_sha256: "1ff21a0987c38f75e9bd5f052d80f6f21bde6b18cbbcb265fbc81671a5bc4bc3"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-06-05_Notification_12507_Implementation%20of%20Section%2051A%20of%20UAPA%2C1967-%20Updates%20to%20UNSC%E2%80%99s%201267-%201989%20ISIL%20%28Da%27esh%29%20%26%20Al-Qaida%20Sanctions%20List-%20Amendments%20in%2001%20Entry.pdf"
+verification_status: "NEEDS_REVIEW"
+---
+# Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendments in 01 Entry
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/34 DOR.AML.REC.16/14.06.001/2023-24 June 05, 2023
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+## Implementation of Section 51A of UAPA,1967: Updates to UNSC’s 1267/ 1989 ISIL
+
+## (Da'esh) & Al-Qaida Sanctions List: Amendments in 01 Entry
+
+Please refer to Section 51 of our <u>Master Direction on Know Your Customer dated</u> <u>February 25, 2016</u> as amended on May 04, 2023 (MD on KYC), in terms of which “*Regulated Entities* (*REs) shall ensure that in terms of Section 51A of the Unlawful* *Activities (Prevention) (UAPA) Act, 1967 and amendments thereto, they do not have any* *account in the name of individuals/entities appearing in the lists of individuals and* *entities, suspected of having terrorist links, which are approved by and periodically* *circulated by the United Nations Security Council (UNSC).”*
+
+2. In this connection, Ministry of External Affairs (MEA), Government of India has informed about the UNSC press release SC/15307 dated June 02, 2023 wherein the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al-Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and/or underline in the entry below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets freeze, travel ban and arms embargo set out in paragraph 1 of Security Council resolution 2610 (2021), and adopted under Chapter VII of the Charter of the United Nations.
+## A. <u>Individuals</u>
+
+**QDi.223 Name:** 1: MERAI 2: ABDEFATTAH 3: KHALIL 4: ZOGHBI مرعي عبدفتاح خلیل زغبي **Name (original script):** **Title:** na **Designation:** na **DOB: a)** 4 Apr. 1969 **b)** 4 Apr. 1960 **c)** 4 Jun.
+
+िविनयमन िवभाग, क द्र ी य कायालय, क द्र ी य कायालय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह माग, फोट, मुंबई-400001 टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+|1960|POB:|||Bengasi, Libya|||Good quality a.k.a.: a)||||Mohamed Lebachir born 14 Jan.||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||1968 in Morocco|||b)|||||Meri Albdelfattah Zgbye born 4 Jun. 1960 in Bendasi,||||
+|Libya|c) 1960 in Libya||e)||Zoghbai Merai Abdul Fattah||Larzg Ben Ila born 11 Aug. 1960 in Libya|d)|||Lazrag Faraj born 13 Nov. f)|Muhammed El|
+|Besir|g) a.k.a.: a)|||F’raji di Singapore||b)|Merai Zoghbai (previously listed as, in Arabic: مرعي زغبي)|F’raji il Libico|c) Farag|d)||Low quality Fredj born 13 Nov.|
+|1960||in Libya||Nationality:|Libya||Passport no:||na|||National identification|
+|no:|na information:|Address: Group (QDe.011).||na Son of|Listed on:|Dec. 2011, 21 Mar. 2017, 24 Nov. 2020, 8 Nov. 2022,|in absentia to 6 years imprisonment on 20 Nov. 2008. Member of Libyan Islamic Fighting Mother’s name is link: [https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals|Considered](https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals|Considered) a fugitive from justice by the Italian authorities and sentenced Security Council resolution 1822 (2008) was concluded on 20 Jul. 2009. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web|2 Aug. 2006 (amended on 3 Jun. 2009, 1 Sep. 2009, 13|Wanisa Abdessalam. Review pursuant to|2 Jun. 2023|) Other|
+
+3. In accordance with paragraph 58 of resolution 2610 (2021), the Committee has made accessible on its website the narrative summaries of reasons for listing of the above entries at the following URL: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/summaries</u>.
+4. Press release regarding the above can be found at <u>[https://press.un.org/en/2023/sc15307.doc.htm](https://press.un.org/en/2023/sc15307.doc.htm)</u>. Further, the UNSC press releases concerning amendments to the list are available at URL: <u>[https://www.un.org/securitycouncil/sanctions/1267/press-releases](https://www.un.org/securitycouncil/sanctions/1267/press-releases)</u>
+5. The details of the sanction measures and exemptions are available at the following URL: <u>[https://www.un.org/securitycouncil/sanctions/1267#further_information](https://www.un.org/securitycouncil/sanctions/1267#further_information)</u>
+6. In view of the above, REs are advised to take appropriate action in terms of Section 51 of the MD on KYC and strictly follow the procedure as laid down in the UAPA Order dated February 02, 2021(amended on March 15, 2023) annexed to the MD on KYC.
+7. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+
+<!-- PAGE 3 -->
+
+8. Further, as per the instructions from the Ministry of Home Affairs (MHA), any request for delisting received by any RE is to be forwarded electronically to Joint Secretary (CTCR), MHA for consideration. Individuals, groups, undertakings or entities seeking to be removed from the Security Council’s ISIL (Da'esh) and Al-Qaida Sanctions List can submit their request for delisting to an independent and impartial Ombudsperson who has been appointed by the United Nations Secretary-General. More details are available at the following URL: <u>[https://www.un.org/securitycouncil/ombudsperson/application](https://www.un.org/securitycouncil/ombudsperson/application)</u>
+9. REs are advised to take note of the aforementioned UNSC communications and ensure meticulous compliance. Yours faithfully, (Santosh Kumar Panigrahy) Chief General Manager

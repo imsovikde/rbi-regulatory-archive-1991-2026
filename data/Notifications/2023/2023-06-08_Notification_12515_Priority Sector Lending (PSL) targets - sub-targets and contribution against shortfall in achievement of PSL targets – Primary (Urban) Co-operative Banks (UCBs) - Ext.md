@@ -1,0 +1,82 @@
+---
+doc_id: "Notifications_2023_12515"
+title: "Priority Sector Lending (PSL) targets / sub-targets and contribution against shortfall in achievement of PSL targets – Primary (Urban) Co-operative Banks (UCBs) - Extension of time"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI420806202350124F1526374891BF4DAC8011E542CB.PDF"
+pdf_sha256: "8f26768eeb66665f32cd89bb9fb077ed77a3ec1a9a4016d9d82be7390bb9df6f"
+md_sha256: "9157cdb649cb41b58e71c5ee6c0160de7c37841a256124e9cead3ece05dcb4c9"
+total_pages: 3
+native_pages: 3
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:14Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-06-08_Notification_12515_Priority%20Sector%20Lending%20%28PSL%29%20targets%20-%20sub-targets%20and%20contribution%20against%20shortfall%20in%20achievement%20of%20PSL%20targets%20%E2%80%93%20Primary%20%28Urban%29%20Co-operative%20Banks%20%28UCBs%29%20-%20Ext.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Priority Sector Lending (PSL) targets / sub-targets and contribution against shortfall in achievement of PSL targets – Primary (Urban) Co-operative Banks (UCBs) - Extension of time
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/42 DOR.CRE.REC.18/07.10.002/2023-24 June 8, 2023
+
+Primary (Urban) Co-operative Banks other than Salary Earners’ Banks
+
+Madam / Dear Sir,
+
+**Priority Sector Lending (PSL) targets / sub-targets and contribution against** **shortfall in achievement of PSL targets – Primary (Urban) Co-operative Banks** **(UCBs) - Extension of time**
+
+<u>1</u> Please refer to para 3 of the <u>circular DOR (PCB).BPD.Cir No.10/13.05.000/2019-20</u>
+
+<u>dated March 13, 2020</u>, and para 5 of <u>Master Direction on Priority Sector Lending (PSL)</u>
+
+<u>- Targets and Classification dated September 4, 2020</u>, in terms of which, a glide path for achieving overall PSL target and sub-target for advances to weaker sections was
+## prescribed till March 31, 2024.
+
+**2**. As announced in the Statement on Developmental and Regulatory Policies <u>(para</u> <u>no. 4 Annexed)</u>, in order to address implementational challenges faced by the UCBs and to make the transition non-disruptive, it has been decided to extend the glide path for these PSL targets by an additional period of two years as under:
+## Financial Year ended March 31, 2024 <u>March 31, 2025</u> March 31, 2026
+
+**@** 265% of ANBC or **Overall PSL Target** 60% of ANBC or 75% of ANBC or 3CEOBSE, CEOBSE, CEOBSE, whichever is whichever is higher whichever is higher higher **Sub-target for** 11.75% of
+
+11.50% of ANBC or 12.00% of ANBC
+**advances to weaker** ANBC or CEOBSE, or CEOBSE, **#,4** **sections** CEOBSE, whichever is higher whichever is whichever is higher higher
+
+@ The targets for March 31, 2023 (at 60 %) shall continue till March 31, 2024. # The sub-target set for March 31, 2023 (at 11.50%) shall continue till March 31, 2024.
+
+1 Circular on Limits on exposure to single and group borrowers/parties and large exposures and Revision in the target for priority sector lending – UCBs 2 Adjusted Net Bank Credit 3 Credit Equivalent Amount of Off-balance Sheet Exposure 4 The PSL sub-target for micro enterprises remains unchanged at 7.5% of ANBC or CEBOSE, whichever is higher, with effect from May 10, 2018. __________________________________________________________________ िविनयमन िवभाग, क � ी य
+
+||कायार्लय, क � ी य|कायार्लय|भवन, 12व/|13व मंिज़ल, शहीद|भगत �संह|मागर्, फोटर्,|मुंबई-400001|
+|---|---|---|---|---|---|---|---|
+||टेलीफोन/ Tel No: 22661602, 22601000|||फै क् स / Fax No: 022-2270 5691||||
+|Department of Regulation, Central Office, Central Office Building, 12||हंदी आसान है|, इसका �योग बढ़ाइए|/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001||||
+
+th
+
+<!-- PAGE 2 -->
+
+**3**. In terms of para 28 of <u>Master Direction on Priority Sector Lending (PSL) - Targets</u> <u>and Classification dated September 4, 2020</u> and para 2 of the <u>circular DOR</u> <u>(PCB).BPD.Cir.No.12/09.09.002/2019-20 dated April 24, 2020</u>, all UCBs (excluding those under all-inclusive directions), were advised to contribute to Rural Infrastructure Development Fund (RIDF) established with NABARD and other Funds with NABARD / NHB / SIDBI / MUDRA Ltd., against their PSL shortfall vis-à-vis the prescribed target/ sub-targets, with effect from March 31, 2021.
+**4**. In view of the implementation challenges observed, it has been decided that:
+a) UCBs would not be required to contribute to RIDF or other eligible funds for shortfall in PSL target/ sub-targets during Financial Year (FY) 2020-21 and FY 2021-22.
+b) UCBs shall contribute to RIDF and other eligible funds against their shortfall in PSL target/ sub-targets vis-à-vis the prescribed targets with effect from **March** **31, 2023.**
+c) Also, in case contribution has been made by any UCB towards the above PSL shortfall during the FY 2020-21 and/ or FY 2021-22, that contribution can be used to offset any shortfall that may have occurred during FY 2022-23. Excess deposit, if any, after offsetting the PSL shortfall during FY 2022-23 will be refunded.
+**5**. Incentives to UCBs meeting the PSL targets shall be announced separately. Yours faithfully, (Manoranjan Mishra) Chief General Manager
+Circular on Non-achievement of Priority Sector Lending Targets by Primary (Urban) Co-operative Banks (UCBs)
+
+- Contribution to the Rural Infrastructure Development Fund (RIDF) and other funds
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Extract from Statement on Developmental and Regulatory
+
+## Policies June 8, 2023
+
+## 4. Priority Sector Lending (PSL) targets for Primary (Urban) Cooperative Banks
+
+## (UCBs)
+
+The PSL targets for UCBs were revised in 2020. In order to ensure a non-disruptive transition, a glide path was provided till March 31, 2024 to achieve the revised targets. With a view to ease the implementation challenges faced by the UCBs, it has been decided to extend the phase-in time for achievement of the said targets by two years,
+
+i.e. upto March 31, 2026. Further, suitable incentives shall be provided to UCBs that have met the prescribed targets as on March 31, 2023. Detailed circular on the matter will be issued separately.

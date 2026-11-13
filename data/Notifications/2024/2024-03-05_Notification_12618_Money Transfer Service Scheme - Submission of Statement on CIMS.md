@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2024_12618"
+title: "Money Transfer Service Scheme - Submission of Statement on CIMS"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIRMTSSCIMS69E6AD07D063414895D2DCC0F9F3DE3F.PDF"
+pdf_sha256: "71a2dac94c3d83307ea87d2029aea34039fccd2d28917ffde088813584b9acf1"
+md_sha256: "cb2e21e7b6f9f22eca0c0197fb210c453459cd6f46acff05d1017f56f989b415"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:31Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-03-05_Notification_12618_Money%20Transfer%20Service%20Scheme%20-%20Submission%20of%20Statement%20on%20CIMS.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Transfer Service Scheme - Submission of Statement on CIMS
+
+<!-- PAGE 1 -->
+
+# भारतीय �रज़वर् बक
+
+**RESERVE BANK OF INDIA** <u>www.rbi.org.in</u>
+
+RBI/2023-24/130
+
+A.P. (DIR Series) Circular No.15 March 05, 2024 To All Authorised Persons, who are Indian Agents under Money Transfer Service Scheme Madam / Sir,
+## <u>Money Transfer Service Scheme-Submission of Statement on CIMS</u>
+
+Please refer to the <u>A.P. (DIR Series) Circular No.70 dated May 19, 2016</u>, wherein all Authorised Persons who are Indian Agents under the Money Transfer Service Scheme (MTSS) were required to submit a quarterly statement (within 15 days from the close of the quarter to which it relates) on the quantum of remittances received through MTSS using the eXtensible Business Reporting Language (XBRL) platform.
+
+2. With the launch of the Reserve Bank’s next generation data warehouse viz., the Centralised Information Management System (CIMS), it has been decided that the reporting of the aforesaid statement will be done on CIMS portal (URL: <u>[https://sankalan.rbi.org.in/](https://sankalan.rbi.org.in/)</u>) with effect from the quarter-ending March 2024. The statement has been assigned return code - ‘R130’ on CIMS. In case no remittance was received during a quarter, a ‘NIL’ report shall be submitted.
+3. The <u>Master Direction on ‘Reporting under Foreign Exchange Management Act, 1999’</u> is being updated to reflect the changes.
+4. The directions contained in this circular have been issued under section 10(4), 11(1), and 11(2) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+
+(Puneet Pancholy) Chief General Manager

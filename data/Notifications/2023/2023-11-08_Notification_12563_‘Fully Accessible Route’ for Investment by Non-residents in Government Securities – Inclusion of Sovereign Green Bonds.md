@@ -1,0 +1,44 @@
+---
+doc_id: "Notifications_2023_12563"
+title: "‘Fully Accessible Route’ for Investment by Non-residents in Government Securities – Inclusion of Sovereign Green Bonds"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT818EC8E91B0A0844F49136B67D7D99A58E.PDF"
+pdf_sha256: "28f6b7e468caf23bd3b13a32a0d216be29e3b946ecc72f4325c73be2b062a288"
+md_sha256: "de356726f990582eae59c89e59d5c8437521c1bf60984ff36393b258c850b0e7"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:19Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-11-08_Notification_12563_%E2%80%98Fully%20Accessible%20Route%E2%80%99%20for%20Investment%20by%20Non-residents%20in%20Government%20Securities%20%E2%80%93%20Inclusion%20of%20Sovereign%20Green%20Bonds.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# ‘Fully Accessible Route’ for Investment by Non-residents in Government Securities – Inclusion of Sovereign Green Bonds
+
+<!-- PAGE 1 -->
+
+# RESERVE BANK OF INDIA
+
+www.rbi.org.in
+
+RBI/2023-24/81 FMRD.FMID.No.04/14.01.006/2023-24 November 08, 2023
+
+To All participants in Government Securities market
+
+Madam/Sir,
+
+## ‘Fully Accessible Route’ for Investment by Non-residents in Government Securities –
+
+## Inclusion of Sovereign Green Bonds
+
+A reference is invited to the <u>Press Release on ‘Issuance Calendar for Marketable Dated</u> <u>Securities for October 2023 - March 2024’ dated September 26, 2023</u>, issued by the Reserve Bank, notifying, *inter alia*, the issuance calendar for Sovereign Green Bonds for the fiscal year 2023-24. Attention is also invited to the Fully Accessible Route (FAR) introduced by the Reserve Bank, *vide* <u>A.P. (DIR Series) Circular No. 25 dated March 30, 2020</u>, wherein certain specified categories of Central Government securities were opened fully for non-resident investors without any restrictions, apart from being available to domestic investors as well.
+
+2. The Government Securities that are eligible for investment under the FAR (‘specified securities’) were notified by the Bank, *vide* <u>circular no. FMRD.FMSD.No.25/14.01.006/2019-</u> <u>20 dated March 30, 2020</u>, <u>circular no. FMRD.FMID.No.04/14.01.006/2022-23 dated July 07,</u> <u>2022</u> and <u>circular no. FMRD.FMID.No.07/14.01.006/2022-23 dated January 23, 2023</u>.
+3. It has now been decided to also designate all Sovereign Green Bonds issued by the Government in the fiscal year 2023-24 as ‘specified securities’ under the FAR.
+4. The Directions contained in this circular have been issued under Section 45W of Chapter IIID of the Reserve Bank of India Act, 1934 and are without prejudice to permissions/ approvals, if any, required under any other law.
+5. These Directions shall be applicable with immediate effect.
+Yours faithfully,
+
+(Dimple Bhandia) Chief General Manager वत्तीय बाज़ार वनयमन वभाग,क द्रय कायार्लय भवन, नौवीं मंिजल, शहद भगत संह मागर्, फोटर्, मुंबई–400001.भारत फोन: (91-22) 2260 1000,फै क् स : (91-22) 22702290 ई-मेल: <u>cgmfmrd@rbi.org.in</u> Financial Markets Regulation Department, Central Office Building, 9thFloor, Shahid Bhagat Singh Marg, Fort, Mumbai – 400001. India Tel: (91-22) 2260 1000, Fax: (91-22) 22702290 e-mail-<u>cgmfmrd@rbi.org.in</u> <u>�हन्द आसान है, इसका प्रयोग बढ़ाइए</u>

@@ -1,0 +1,31 @@
+---
+doc_id: "Notifications_2024_12635"
+title: "All Agency Banks to remain open for public on March 31, 2024 (Sunday)"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARAGENCYBANKSB093C797FBF14178AD52E31524C2EE46.PDF"
+pdf_sha256: "ad35de926bed3a44a61d629790334393ed6fe1188d005d04f0a93e00957514d7"
+md_sha256: "224564dfb0ed6797b2d53a7069a50fb747b51a3a807706db7778d34dfdcfb4fd"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:32Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-03-20_Notification_12635_All%20Agency%20Banks%20to%20remain%20open%20for%20public%20on%20March%2031%2C%202024%20%28Sunday%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# All Agency Banks to remain open for public on March 31, 2024 (Sunday)
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/137 DOR.SOG (LEG).REC/84/09.08.024/2023-24 March 20, 2024
+
+## All Agency Banks
+
+Madam / Dear Sir **All Agency Banks to remain open for public on March 31, 2024 (Sunday)** The Government of India has made a request to keep all branches of the banks dealing with Government receipts and payments open for transactions on March 31, 2024 (Sunday) so as to account for all the Government transactions relating to receipts and payments in the FY 2023-24 itself. Accordingly, Agency Banks are advised to keep all their branches dealing with government business open on March 31, 2024 (Sunday).
+
+2. Banks shall give due publicity about the availability of above banking services on this day.
+## Yours faithfully
+
+(Sunil T S Nair) Chief General Manager

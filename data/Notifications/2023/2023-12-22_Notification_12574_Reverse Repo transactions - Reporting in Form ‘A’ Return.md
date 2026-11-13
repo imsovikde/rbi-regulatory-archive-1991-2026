@@ -1,0 +1,39 @@
+---
+doc_id: "Notifications_2023_12574"
+title: "Reverse Repo transactions - Reporting in Form ‘A’ Return"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/REVERSEREPO098503FBFAC04CB6A774F4AD117154D7.PDF"
+pdf_sha256: "f8702e46f217fe99cc266e631d606aea0cfd6c5ecf4b746cddd3fab29d427806"
+md_sha256: "bb154965bf0fefb51b71423575e04377d82c657f81a45be0668679f70fd97601"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:20Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-12-22_Notification_12574_Reverse%20Repo%20transactions%20-%20Reporting%20in%20Form%20%E2%80%98A%E2%80%99%20Return.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reverse Repo transactions - Reporting in Form ‘A’ Return
+
+<!-- PAGE 1 -->
+
+## भारतीय रज़व बक
+
+# RESERVE BANK OF INDIA
+
+RBI/2023-24/92 DoR.RET.REC.59/12.01.001/2023-24 December 22, 2023
+
+The Chairperson / CEOs of all Commercial Banks
+
+Madam / Dear Sir,
+
+### Reverse Repo transactions-Reporting in Form ‘A’ Return
+
+Please refer to the <u>circular DoR.RET.REC.43/12.01.001/2023-24 dated October 16, 2023</u> on the captioned subject.
+
+2. On a review, it has been decided to revise the instructions contained in Para B of the above circular. Accordingly, the Reverse Repo transactions of a bank with non-banks (other institutions) should be reported as under:
+i. For original tenors up to and inclusive of 14 days-Not required to be reported in Form A. ii. For original tenors more than 14 days-Item VI(a) of Form A [i.e. Loans, cash credits and overdrafts under Bank Credit in India (excluding inter-bank advances)]
+3. All other instructions specified in the above <u>circular dated October 16, 2023</u> remain unchanged. Yours faithfully, (Brij Raj) Chief General Manager
+िविनयमन िवभाग, क द्रीय कायालय, 12वी ं और 13वी ं मं िज़ल, क द्रीय कायालय भवन, शहीद भगत िसंह माग, मुंबई 400001 टेलीफोन /Tel No: 22601000 फै � / Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 Department of Regulation, Central Office, 12th & 13th Floor, Central Office Building, Shaheed Bhagat Singh Marg, Mumbai ñ 400001 Tel No: 22601000 Fax No: 022-2270 5670, 2260 5671, 5691 2270, 2260 5692 बक िहंदी म पत्राचार का �ागत करता है Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.

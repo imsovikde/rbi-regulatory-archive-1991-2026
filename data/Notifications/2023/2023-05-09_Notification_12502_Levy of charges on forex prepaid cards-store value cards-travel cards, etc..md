@@ -1,0 +1,38 @@
+---
+doc_id: "Notifications_2023_12502"
+title: "Levy of charges on forex prepaid cards/store value cards/travel cards, etc."
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/APDIR046ABC73360F594E5F9FA5DE93DB49520C.PDF"
+pdf_sha256: "43628ef21e07e69fa055e3c7421d571b72b399395e8bb7f484919bd5b8a30e4f"
+md_sha256: "d38a2bd8c07efe9abc288ca68dbddfed2d51086820b6f5f5125c522034208c23"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-05-09_Notification_12502_Levy%20of%20charges%20on%20forex%20prepaid%20cards-store%20value%20cards-travel%20cards%2C%20etc..pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Levy of charges on forex prepaid cards/store value cards/travel cards, etc.
+
+<!-- PAGE 1 -->
+
+**भारतीय रज़व बक** RESERVE BANK OF INDIA <u>www.rbi.org.in</u>
+
+RBI/2023-24/29
+
+A.P. (DIR Series) Circular No. 04 May 09, 2023 To All Authorised Persons
+## Madam / Sir
+
+## <u>Levy of charges on forex prepaid cards/store value cards/travel cards, etc.</u>
+
+Attention of Authorised Dealers is invited to relevant instructions contained in
+
+<u>A.P. (DIR Series) Circular No. 46 dated June 14, 2005</u> and <u>A.P. (DIR Series) Circular</u> <u>No. 102 dated April 02, 2012</u>, regarding use of International Debit Cards/Store Value Cards/Charge Cards/Smart Cards or any other instrument that can be used to create a financial liability, as 'currency'.
+2. A few Authroised Persons are levying certain fees/charges, which are payable in India on such instruments, in foreign currency. It is advised that fees/charges payable in India have to be denominated and settled in Rupees only.
+3. The directions contained in this circular have been issued under sections 10 (4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+
+(Sibi Mathews) General Manager

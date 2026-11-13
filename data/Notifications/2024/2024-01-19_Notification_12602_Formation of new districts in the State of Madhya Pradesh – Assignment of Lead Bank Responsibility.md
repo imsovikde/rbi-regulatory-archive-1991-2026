@@ -1,0 +1,45 @@
+---
+doc_id: "Notifications_2024_12602"
+title: "Formation of new districts in the State of Madhya Pradesh – Assignment of Lead Bank Responsibility"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT116055E57F56504437EAC96C1E62B997578.PDF"
+pdf_sha256: "37c954247467cf5507e0cee884178fe04240db5b754a4efc15275cac00115390"
+md_sha256: "7a67710d51fdbe0259d75945d394361b594919d2e9884009e23888cf402008c5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-01-19_Notification_12602_Formation%20of%20new%20districts%20in%20the%20State%20of%20Madhya%20Pradesh%20%E2%80%93%20Assignment%20of%20Lead%20Bank%20Responsibility.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Formation of new districts in the State of Madhya Pradesh – Assignment of Lead Bank Responsibility
+
+<!-- PAGE 1 -->
+
+बेटी बचाओ बेटी पढ़ाओ भारतीय रज़व बक ______________________ RESERVE BANK OF INDIA________________________ <u>www.rbi.org.in</u> RBI/2023-24/116 FIDD.CO.LBS.BC.No.14/02.08.001/2023-24 January 19, 2024 The Chairman / Managing Director & Chief Executive Officer Lead Banks Concerned Madam/ Dear Sir, <u>Formation of new districts in the State of Madhya Pradesh –</u> <u>Assignment of Lead Bank Responsibility</u> The Government of Madhya Pradesh has notified formation of two new districts, viz., Pandhurna vide Gazette Notification No. F-Rev-6-0029-2023-VII-Sec-7 dated October 5, 2023 and Maihar vide Gazette Notification No. F-Rev-6-0030-2023-VII-Sec-7 dated October 05, 2023. Accordingly, it has been decided to designate the Lead Banks of the new districts as below:
+
+**District Working Code allotted to**
+
+|Sr|Newly Created|Lead Bank Responsibility||
+|---|---|---|---|
+|No|District||new district|
+|1|Pandhurna|Central Bank of India|02O|
+|2|Maihar|Indian Bank|02P|
+
+**assigned to**
+
+(to be read as ‘numeral zero, numeral two, alphabet O’)
+
+(to be read as ‘numeral zero, numeral two, alphabet P’)
+
+2. There is no change in the Lead Banks of the other districts in the state of Madhya Pradesh. Yours faithfully, (Nisha Nambiar) Chief General Manager-in-Charge व त् त ी य समावेशन और वकास वभाग, के न्द्रय कायार्लय,10 वी मंिजल, कद्रय कायार्लय भवन, शहद भगतसंह मागर्,पोस्ट बॉक्स सं. 10014, मंबु ई -400001
+Financial Inclusion & Development Dept, Central Office,10th Floor, Central Office Building, Shahid Bhagat Singh Marg, P.B.No.10014, Mumbai-1
+
+||टेल Tel|:022-22601000 फै क् स ः|91-22-22621011/22610943/22610948||||ई-मेल: cgmincfidd@rbi.org.in|||
+|---|---|---|---|---|---|---|---|---|---|
+||||�हंद आसान|है, इसका|प्रयोग बढ़ाइए।|||||
+|“चेतावनी: -मेल|�रज़वर् बक द्वारा डाक, एसएमएस||या फोन कॉल के|जरए कसी क|भी व् य िक्तगत|जानकार जैसे|बक के खाते का ब् य ौ|रा, पासवडर् आ�द|नहं मांगी जाती|
+|है। यह धन रखने Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers.|या देने का|प्र स् त ा व भी नहं करता|है। ऐसे प्र स् त ा व|का कसी भी त र के|से जवाब|मत दिजए।"||||

@@ -1,0 +1,251 @@
+---
+doc_id: "Notifications_2023_12584"
+title: "Payments Infrastructure Development Fund – Extension of Scheme and Enhancements"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT10146C65C155A2C4C1A984E10C99903B517.PDF"
+pdf_sha256: "825d940764f0dd736647b903f999d6587ba43168e592b40bb62e6264d3137de6"
+md_sha256: "5c834c1ab6b50de7c0d580969d08827b398c7c53c30cf9252e81373878eff606"
+total_pages: 12
+native_pages: 12
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:22Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-12-29_Notification_12584_Payments%20Infrastructure%20Development%20Fund%20%E2%80%93%20Extension%20of%20Scheme%20and%20Enhancements.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Payments Infrastructure Development Fund – Extension of Scheme and Enhancements
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/101 CO.DPSS.POLC.No.S940/02-29-005/2023-24 December 29, 2023
+
+The Chairman / Managing Director / Chief Executive Officer Card Issuing and Acquiring Banks and Non-banks / Authorised Card Networks
+
+Madam / Dear Sir,
+
+## Payments Infrastructure Development Fund – Extension of Scheme and Enhancements
+
+Please refer to the Reserve Bank of India <u>circular DPSS.CO.AD No.900/02.29.005/2020-21 dated</u> <u>January 05, 2021</u>perationalisation of Payments Infrastructure Development Fund (PIDF), on “O Scheme” and subsequent amendments made thereto.
+
+2. As announced in the <u>Statement on Development and Regulatory Policies dated October 06</u>, <u>2023</u>, the PIDF Scheme is being extended by two years, i.e., upto December 31, 2025. Further, with a view to provide impetus to deployment of acceptance infrastructure, the following enhancements are being made to the Scheme:
+a) The beneficiaries identified as part of the PM Vishwakarma Scheme, across the country, shall be included as merchants for deployment under the PIDF Scheme. All eligible installations since the inception of the PM Vishwakarma Scheme, i.e., September 17, 2023, may prefer claims under the PIDF Scheme.
+b) The PIDF Scheme presently subsidises deployment of acceptance infrastructure based on category of device – physical or digital. It has been decided to enable other contemporary devices, viz., (i) Soundbox devices – providing instant audio payment confirmation along with payment acceptance by “scan & pay” and Near Field Communication (NFC), and (ii) Aadhaar-enabled biometric devices – certified biometric scanner devices facilitating Aadhaar authentication for acceptance of payment by merchant through BHIM Aadhaar Pay, would be eligible for subsidy under the Scheme, for installations made from October 01, 2023 onwards.
+c) The amount of subsidy for devices deployed in special focus areas, viz., North Eastern States, Union Territories of Jammu & Kashmir and Ladakh, is increased from 75% to 90% of the total cost, irrespective of the type of device, for installations made from October 01, 2023 onwards. भुगतान और �नपटान प्रणाल वभाग, कद्रय कायार्लय, 14 वी मंिजल, कद्रय कायार्लय भवन, शहद भगत संह मागर्, फोटर्, मुम्बई – 400 001
+फोन: (91-22) 2264 4995, फै क् स Fax: (91-22) 2265 9566, 2269 1557, ई-मेल: <u>cgmdpssco@rbi.org.in</u> Department of Payment and settlement Systems, Central Office, 14thFloor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001. Phone: (91-22) 2264 4995, Fax: (91-22) 2265 9566, 2269 1557, Email: <u>cgmdpssco@rbi.org.in</u> �हंद आसान है, इसका प्रयोग बढ़ाइए
+
+<!-- PAGE 2 -->
+
+3. The above enhancements, along with detailed guidelines, have been incorporated in the framework of PIDF Scheme, enclosed as <u>Annex</u>.
+4. These instructions are issued under Section 18 read with Section 10 (2) of Payment and Settlement Systems Act, 2007 (Act 51 of 2007). Yours faithfully, (Gunveer Singh) Chief General Manager-in-Charge
+
+<!-- PAGE 3 -->
+
+## Annex
+
+## Payments Infrastructure Development Fund (PIDF) Scheme
+
+The objective of PIDF is to increase the number of acceptance devices multi-fold in the country. The Scheme is expected to benefit the acquiring banks / non-banks and merchants by lowering overall acceptance infrastructure cost.
+
+|1.|Validity Period and PIDF Target|
+|---|---|
+|1.1|Five years from January 01, 2021.|
+|1.2|Increasing payments acceptance infrastructure by adding 30 lakh touch points every year.|
+|2.|Governance Structure of PIDF|
+|2.1|PIDF shall be governed by an ex-officio Advisory Council (AC).|
+|2.2|Composition of the AC: –|
+
+i. Shri T Rabi Sankar¹, Deputy Governor, Reserve Bank of India; ii. Shri Sunil Mehta, Chief Executive, Indian Banks’ Association; iii. Shri C Udayabhaskar², Chief General Manager, DFIBT, NABARD;
+iv. Shri Dilip Asbe, Chief Executive Officer, National Payments Corporation of India;
+
+v. Shri Vishwas Patel, Chairman, Payments Council of India; vi. Shri Sandeep Ghosh³, Group Country Manager India & South Asia, Visa; vii. Shri Vikas Varma⁴, Chief Operating Officer, Mastercard India;
+viii. Shri R Vittal Raj, Chartered Accountant, Kumar & Raj Chartered Accountants; and ix. Shri Aviral Jain⁵, Regional Director, Reserve Bank of India, Mumbai Regional Office (Administrator of PIDF).
+
+The Chief General Manager-in-Charge, Department of Payment & Settlement Systems, Reserve Bank of India shall function as the Secretariat to the AC.
+
+|2.3|The AC may constitute sub-committees to look into different aspects of the PIDF, as required.|
+|---|---|
+|2.4|The AC may co-opt members at its discretion.|
+|2.5|AC shall devise suitable rules for operating the PIDF.|
+
+1 Preceded by Shri B P Kanungo 2 Preceded by Ms Rosie Tshering, Shri D Nageswara Rao and Shri J S Upadhayay 3 Preceded by Shri Shailesh Paul Preceded by Shri Rajeev Kumar and Shri Vikas Saraogi Preceded by Shri Ajay Michyari
+
+<!-- PAGE 4 -->
+
+## 3. Target Geographies
+
+3.1 The primary focus shall be to create payment acceptance infrastructure in Tier-3 to Tier-6 centres.
+3.2 The Scheme shall include eligible beneficiaries covered under PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi Scheme) and PM Vishwakarma Scheme in Tier-1 and Tier- 2 centres.
+3.3 North Eastern States of the country and Union Territories of Jammu and Kashmir, and Ladakh (UTs of J & K and Ladakh) shall be given special focus.
+## 4. Market Segments and Merchant Categories
+
+4.1 Merchants providing essential services (transport, hospitality, etc.), government payments, fuel pumps, PDS shops, healthcare, kirana shops, street vendors, craftsmen, artisans, etc., may be covered, especially in the targeted geographies.
+4.2 While setting parameters for utilisation of funds, the focus shall be to target those merchants who are yet to be terminalised (merchants who do not have any payment acceptance device).
+## 5. Types of Acceptance Devices Covered
+
+5.1 Physical devices supporting underlying card payments, such as physical PoS, mPoS (mobile PoS), GPRS (General Packet Radio Service), PSTN (Public Switched Telephone Network), etc.
+5.2 Digital devices, such as QR code-based acceptance infrastructure.
+5.3 Apart from the devices mentioned in paragraphs 5.1 and 5.2, other contemporary devices with hybrid or alternative mode of acceptance, such as: -
+a) Soundbox devices-providing instant audio payment confirmation, along with payment acceptance by “scan & pay” and Near Field Communication (NFC); and
+b) Aadhaar-enabled biometric devices -certified biometric scanner devices facilitating Aadhaar authentication for acceptance of payment by merchant through BHIM Aadhaar Pay.
+5.4 An eligible merchant may be acquired for one physical device and either of one digital or one other contemporary device under the Scheme. In special focus areas, an eligible merchant may be acquired for one physical, one digital and one other contemporary device each, under the Scheme.
+5.5 As the cost structure of acceptance devices vary, subsidy amounts shall accordingly differ by the type of device deployed. A subsidy of 60% to 75% of cost of physical acceptance device and 75% to 90% for Digital / other contemporary device shall be offered.
+5.6. Payment methods that are not inter-operable shall not be considered under PIDF.
+
+<!-- PAGE 5 -->
+
+## 6. Initial Corpus
+
+6.1 Initial corpus of PIDF has to be substantial to initiate pan-India terminalisation and to cover the pay-outs in the first year. Contributions to the PIDF shall be mandatory for banks and card networks.
+6.2 RBI shall contribute ₹250 crore to the corpus; the authorised card networks shall contribute in all ₹100 crore.
+6.3 The card issuing banks shall also contribute to the corpus based on the card issuance volume (covering both debit cards and credit cards) at the rate of ₹1 and ₹3 per debit and credit card issued by them, respectively.
+6.4 It shall be the endeavour to collect the contributions by January 31, 2021.
+6.5 Any new entrant to the card payment eco-system (card issuer and card network) shall contribute an appropriate amount to the PIDF.
+## 7. Recurring Contribution
+
+7.1 Besides the initial corpus, the PIDF shall also receive annual contribution from card networks and card issuing banks as under:
+a) Card networks – Turnover based – 1 basis point (bps) i.e., 0.01 paisa per Rupee of transaction;
+b) Card issuing banks – Turnover based – 1 bps and 2 bps i.e., 0.01 paisa and 0.02 paisa per Rupee of transaction for debit and credit cards respectively; also at the rate of ₹1 and ₹3 for every new debit and credit card issued by them respectively during the year.
+
+|7.2|RBI shall contribute to yearly shortfalls, if any.|
+|---|---|
+|8.|Collection Mechanism|
+|8.1|By January 31st and July 31st based on card data of December 31st and June 30th respectively.|
+|8.2|On the basis of funds available in the PIDF, the Advisory Council may inform the card networks and card issuing banks, as to whether recurring contributions would be collected for any half year, during the period of operation of the Scheme.|
+|9.|Types of Expenses Covered|
+|9.1|The parameters / rules for claiming the amount of subsidy for the capital expenditure, taking into account the type of device, deployment location etc., shall be framed by the AC.|
+|9.2|Subsidy shall be granted on quarterly basis.|
+|9.3|The subsidy claims shall be processed and initially 75 percent of the subsidy amount shall be|
+
+released. The balance 25 percent shall be released later after ensuring that performance parameters are achieved, including conditions for ‘active’ status of the device and ‘minimum
+
+<!-- PAGE 6 -->
+
+usage’ criteria, as defined by the AC, and subject to the status of the device being active in 3 out of the 4 quarters of the ensuing year.
+
+9.4 The minimum usage shall be termed as 50 transactions over a period of 90 days and active status shall be minimum usage for 10 days over the 90-day period.
+## 10. Deployment Targets for Acquirers
+
+10.1 Acquirers need to adopt a scientific process for identification of deployment areas, submit proposals to Regional Director, Mumbai Regional Office (MRO), RBI and effectively implement the project. The PIDF proposal format for submission in this regard is enclosed **(**<u>Format I</u>**)**.
+## 11. Claims
+
+11.1 The scheme is on reimbursement basis; accordingly, the claim shall be submitted only after making payment to the vendor.
+11.2 Maximum cost of physical device eligible for subsidy – ₹10,000 (including one-time operating cost up to a maximum of ₹500).
+11.3 Maximum cost of digital device eligible for subsidy – ₹300 (including one-time operating cost up to a maximum of ₹200).
+11.4 Maximum cost of other contemporary device eligible for subsidy – ₹2,000 (including one-time operating cost up to a maximum of ₹300).
+11.5 Subsidised amount of cost of physical and digital devices based on location of deployment shall be as under:
+
+|Location|Physical device (% of total cost)|Digital device (% of total cost)|Other Contemporary device (% of total cost)|
+|---|---|---|---|
+|Tier-1 to Tier-4 centres|60|75|75|
+|Tier-5 and Tier-6 centres|75|90|90|
+|Special focus areas (North Eastern States and UTs of J & K and Ladakh)|90|90|90|
+
+11.6 The subsidy shall not be claimed by applicant from other sources like NABARD, etc. In case other mechanisms exist for providing subsidy or reimbursing cost of deployment of acceptance infrastructure, no reimbursement shall be claimed from PIDF therefor.
+
+<!-- PAGE 7 -->
+
+11.7 Acquirers shall submit their claims through their bankers to RBI, MRO with self-declaration about non-duplication of claims from other schemes, uniqueness of terminalised merchants and inter-operability of deployed devices.
+11.8 All initial claims shall be submitted for reimbursement of expenses (less the Input Tax Credit received / receivable by the bank / non-bank under GST) as per format **(**<u>Format II</u>**)**. The claim for balance of eligible subsidy shall be submitted along with self-declaration about fulfilment of ‘minimum usage’ and ‘active status’ criteria for deployed devices as per format **(**<u>Format</u> <u>III</u>**)**.
+## 12. Reporting
+
+12.1 Acquirers shall submit monthly deployment reports to RBI, MRO.
+
+<!-- PAGE 8 -->
+
+## Format-I
+
+## (PROPOSAL FORMAT on the Letter Head of the Acquiring Bank / Non-bank)
+
+The Regional Director Mumbai Regional Office Reserve Bank of India
+
+Madam / Dear Sir, <u>Payments Infrastructure Development Fund (PIDF)</u> **–** <u>Project Proposal for Deployment of Acceptance Devices</u>
+
+With reference to the RBI Circular No. / / 20 dated ……………. on the above subject, we propose a project to deploy acceptance infrastructure under PIDF. The project proposal indicating the details of the activity, area of operation, implementation methodology, monitoring mechanism, etc., is furnished in <u>Appendix-1</u>.
+
+2. We will ensure that the project is implemented adhering to guidelines of the PIDF Scheme outlined by the Reserve Bank.
+3. We have not sought and will not seek assistance from any other scheme of the Reserve Bank or any another organisation, for the project.
+
+|Authorised Signatory 1||||||Authorised Signatory 2|
+|---|---|---|---|---|---|---|
+|Name||||||Name|
+|Designation||||||Designation|
+|Address and Contact No.||||||Address and Contact No.|
+
+## Encl.: as above
+
+<!-- PAGE 9 -->
+
+## Appendix 1
+
+## Project Proposal for Deployment of Acceptance Devices under PIDF
+
+## 1. Background
+
+Existing payments infrastructure status in the project area, technological status of the acquiring bank / non-bank indicating the need for undertaking the project.
+
+**2. Approach to Deployment** Approach planned to fill in the identified gap, with quarterly phasing.
+## 3. Geographical Area
+
+Name/s of District / Block / Village where the deployments are planned.
+
+**4. Implementation Period** The overall period to complete the project.
+## 5. Monitoring
+
+Monitoring, evaluating and reporting mechanism envisaged for effective implementation of the project.
+
+<!-- PAGE 10 -->
+
+## Format-II
+
+## (Format for Claiming Reimbursement by Acquirer Bank / Non-bank – on letterhead)
+
+The Regional Director Mumbai Regional Office Reserve Bank of India
+
+Madam / Dear Sir, <u>Support from PIDF for Deployment of Acceptance Devices – First Reimbursement</u> Please refer to our project proposal no. _____ dated ____. The details of deployment of acceptance devices are as below:
+
+|Sl.|Type of Device|No. of Units|No. of|No. of|No. of|No. of|Unit|Unit|Total|75 % of|
+|---|---|---|---|---|---|---|---|---|---|---|
+|No.|(Physical /|(PM|Units|Units|Units|Units|Rate|Operating|Financial|Eligible|
+||Digital /|SVANIdhi|for Tier|for Tier|for|for UTs|(₹)|Cost|Outlay|Amount|
+||Contemporary)|and PM Vishwakarma beneficiaries) for Tier 1 & 2 centres|3 & 4 centres|5 & 6 centres|North- Eastern States|of J&K and Ladakh||(₹)|net of Input tax Credit Received / Receivable|for Support (₹)|
+||||||||||(₹)||
+
+2. We have implemented the project and succeeded in installing …………, …………., …………, ………… and ………… physical devices in the locations in Tier 1 & 2, Tier 3 & 4, Tier 5 & 6, North Eastern States and Union Territories of Jammu and Kashmir, and Ladakh, respectively. We have installed …………, …………, …………., …………. and ………… digital devices in these locations respectively. Also, we have installed …………, …………, …………., …………. and ………… other contemporary devices in these locations respectively.
+3. We certify that there is no duplication of claims from other schemes.
+
+<!-- PAGE 11 -->
+
+4. We certify that the devices, for which the claim is submitted, are deployed at merchants who were not terminalised.
+5. We submit a claim for reimbursement 75% subsidy of ₹ ………./-. The claim submitted is as per deployment done till ………… (date).
+6. We submit that this amount has been paid to the vendor.
+
+|Authorised Signatory 1|Authorised Signatory 2|
+|---|---|
+|Name|Name|
+|Designation|Designation|
+|Address and Contact No.|Address and Contact No.|
+
+## Encl.: as above
+
+<!-- PAGE 12 -->
+
+## Format-III
+
+## (Format for Follow-up Claim by the Acquirer Bank/ Non-bank – on letterhead)
+
+The Regional Director Mumbai Regional Office Reserve Bank of India Madam / Dear Sir, <u>Support from PIDF for deployment of acceptance devices</u> **–** <u>Claim for Reimbursement of Balance Subsidy</u> Please refer to our claim application dated ………… for reimbursement of cost of ………… physical devices, ………… digital devices and ………… other contemporary devices deployed by us.
+
+2. We had received 75% of the eligible subsidy on ……….. (date). This claim is submitted for remaining 25% of the eligible subsidy amount.
+3. We certify that the devices meet the following prescribed performance criteria during …………………. (period): Minimum Usage: 50 transactions over 90 days; Active Status: 10 days over the above 90-day period.
+4. We certify that devices have been active for 3 out of 4 quarters, during ……….. (period)
+5. We submit a claim for reimbursement of 25% of remaining subsidy of ₹ ………./-
+
+|Authorised Signatory 1||||||Authorised Signatory 2|
+|---|---|---|---|---|---|---|
+|Name||||||Name|
+|Designation||||||Designation|
+|Address and Contact No.||||||Address and Contact No.|
+
+## Encl.: as above

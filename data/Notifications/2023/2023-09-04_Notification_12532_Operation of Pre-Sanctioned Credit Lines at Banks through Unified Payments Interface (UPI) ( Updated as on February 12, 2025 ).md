@@ -1,0 +1,41 @@
+---
+doc_id: "Notifications_2023_12532"
+title: "Operation of Pre-Sanctioned Credit Lines at Banks through Unified Payments Interface (UPI)  ( Updated as on February 12, 2025 )"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CREDITONUPI6DBE2D06A61540D19322CFA718643920.PDF"
+pdf_sha256: "08fa229999db25e8900f655cbd9e3f97b67826aa78915383ee4cdf543332abc8"
+md_sha256: "541ed14ba54635c35e43bcb53ee4504ae8ef40961c19b17f68c4781c8fa2e297"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-09-04_Notification_12532_Operation%20of%20Pre-Sanctioned%20Credit%20Lines%20at%20Banks%20through%20Unified%20Payments%20Interface%20%28UPI%29%20%28%20Updated%20as%20on%20February%2012%2C%202025%20%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Operation of Pre-Sanctioned Credit Lines at Banks through Unified Payments Interface (UPI)  ( Updated as on February 12, 2025 )
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/58 CO.DPSS.POLC.No.S-567/02-23-001/2023-2024 September 04, 2023 (Updated as on February 12, 2025)
+
+|The Managing Director / Chief Executive Officer||
+|---|---|
+|Scheduled Commercial Banks (excluding Payment Banks|1 and Regional Rural Banks)|
+|Madam / Dear Sir,|Operation of Pre-Sanctioned Credit Lines at Banks through Unified Payments Interface|
+|(UPI)||
+|Please refer to the|Statement on Developmental and Regulatory Policies dated April 06, 2023|
+|and December 06, 2024|, expanding the scope of UPI by enabling transfer to / from pre-sanctioned credit lines at banks. Currently, savings account, overdraft account, prepaid wallets and credit cards can be linked to UPI. As announced, the scope of UPI is now being expanded by inclusion|
+|of credit lines as a funding account.|2. Under this facility, payments through a pre-sanctioned credit line issued by a Scheduled Commercial Bank to individuals, with prior consent of the individual customer, are enabled for|
+|transactions using the UPI System.|3. Banks may, as per their Board approved policy, stipulate terms and conditions of use of such credit lines. The terms may include, among other items, credit limit, period of credit, rate of|
+|interest, etc.|4. This directive is issued under Section 10(2) read with Section 18 of the Payment and Settlement|
+|Systems Act, 2007 (Act 51 of 2007).||
+|Yours faithfully,||
+|(Gunveer Singh)||
+|Chief General Manager-in-Charge||
+
+*1Deleted the phrase “Small Finance Banks”*
+
+भुगतान और िनपटान �णाली िवभाग, क � ी य कायार्लय, 14वी मंिजल, क � ी य कायार्लय भवन, शहीद भगत �संह मागर्, फोटर्, मुम्बई - 400001 फोनTel: (91-22) 2264 4995; फ ै क् स Fax: (91-22) 22691557; ई-मेलe-mail : <u>cgmdpssco@rbi.org.in</u> Department of Payment and Settlement Systems, Central <u>Office, 14</u>th<u>Floor, Central Office Building, Shahid</u> Bhagat Singh Road, Fort, Mumbai - 400001 <u>�हंदी आसान है, इसका �योग बढ़ाइए</u>

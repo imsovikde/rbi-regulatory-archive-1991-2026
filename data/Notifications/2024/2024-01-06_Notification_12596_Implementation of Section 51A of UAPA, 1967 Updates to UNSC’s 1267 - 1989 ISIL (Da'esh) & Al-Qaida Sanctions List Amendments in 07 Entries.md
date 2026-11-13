@@ -1,0 +1,86 @@
+---
+doc_id: "Notifications_2024_12596"
+title: "Implementation of Section 51A of UAPA, 1967 Updates to UNSC’s 1267 / 1989 ISIL (Da'esh) & Al-Qaida Sanctions List Amendments in 07 Entries"
+category: "Notifications"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT110A039500F4CA34DF6AE81AA1D3951475D.PDF"
+pdf_sha256: "a8f0b2b4135dbe42b4915a9c19c402c5c60f6e4f1d10b377d1000af1c9de831a"
+md_sha256: "7f41c92483e90b7aeae6d78aaf90657689c2f7e1dcc292dcacf07fd37b367668"
+total_pages: 5
+native_pages: 5
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:27Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-01-06_Notification_12596_Implementation%20of%20Section%2051A%20of%20UAPA%2C%201967%20Updates%20to%20UNSC%E2%80%99s%201267%20-%201989%20ISIL%20%28Da%27esh%29%20%26%20Al-Qaida%20Sanctions%20List%20Amendments%20in%2007%20Entries.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 51A of UAPA, 1967 Updates to UNSC’s 1267 / 1989 ISIL (Da'esh) & Al-Qaida Sanctions List Amendments in 07 Entries
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/110 DOR.AML.REC.68/14.06.001/2023-24 January 06, 2024
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+## Implementation of Section 51A of UAPA, 1967 Updates to UNSC’s 1267 / 1989 ISIL
+
+## (Da'esh) & Al-Qaida Sanctions List Amendments in 07 Entries
+
+Please refer to Section 51 of our <u>Master Direction on Know Your Customer dated</u> <u>February 25, 2016</u> amended on as January 04, 2024 (MD on KYC), in terms of which “*Regulated Entities* (*REs) shall ensure that in terms of Section 51A of the Unlawful* *Activities (Prevention) (UAPA) Act, 1967 and amendments thereto, they do not have any* *account in the name of individuals/entities appearing in the lists of individuals and* *entities, suspected of having terrorist links, which are approved by and periodically* *circulated by the United Nations Security Council (UNSC).”*
+
+2. In this connection, Ministry of External Affairs (MEA), Government of India has informed about the UNSC press release SC/15556 dated January 05, 2024 wherein the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al-Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and/or underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets freeze, travel ban and arms embargo set out in paragraph 1 of Security Council resolution 2610 (2021), and adopted under Chapter VII of the Charter of the United Nations.
+
+|A.|Individuals|||
+|---|---|---|---|
+||QDi.177 Name: Name (original script):||1: HABIB 2: BEN 3: AHMED 4: AL-LOUBIRI حبیب بن احمد اللوبیري|
+|Title:|na Designation:|na|DOB: 17 Nov. 1961 POB: Manzal Tmim, Nabul,|
+|Tunisia||Good quality a.k.a.:|Al-Habib ben Ahmad ben al-Tayib al-Lubiri Low quality|
+|a.k.a.:|na Nationality:|Tunisia|Passport no: Tunisia number M788439, issued on 20 Oct. 2001 (expiresd on 19 Oct. 2006) National identification|
+
+िविनयमन िवभाग, क द्र ी य कायालय, क द्र ी य कायालय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह माग, फोट, मुंबई -400001 टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+**no:** 01817002 **Address:** <u>a)</u> Salam Marnaq Ben Arous district, Sidi Mesoud, Tunisia <u>b) Afghanistan</u> **Listed on:** 23 Jun. 2004 (amended on 20 Dec. 2005, 17 Oct. 2007, 10 Aug. 2009, 13 Dec. 2011, 23 Feb. 2016, 6 Dec. 2019, 19 Dec. 2023) **Other** **information:** Italian Fiscal Code: LBR HBB 61S17 Z352F. In detention in Tunisia as atof Dec. 2009. Reportedly fled to Afghanistan in June 2014. Mother’s name is Fatima al-Galasi. Review pursuant to Security Council resolution 1822 (2008) was concluded on 9 Apr. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+**QDi.263 Name:** 1: HAFIZ 2: MUHAMMAD 3: SAEED 4: na **Title:** na **Designation:** na **DOB:** 5 Jun. 1950 **POB:** Sargodha, Punjab, Pakistan **Good** **quality a.k.a.: a)** Hafiz Mohammad Sahib **b)** Hafiz Mohammad Sayid **c)** Hafiz Muhammad **d)** Hafiz Saeed **e)** Hafez Mohammad Saeed **f)** Hafiz Mohammad Sayeed **g)** Tata Mohammad Syeed **h)** Mohammad Sayed **i)** Muhammad Saeed **Low** **quality a.k.a.:** Hafiz Ji **Nationality:** Pakistan **Passport no:** na **National identification** **no:** Pakistan 3520025509842-7 **Address:** House No. 116E, Mohalla Johar, Lahore, Tehsil, Lahore City, Lahore District, Pakistan (location as atof May 2008) **Listed on:** 10 Dec. 2008 (amended on 17 Jul. 2009, 19 Dec. 2023 **Other information:** Muhammad Saeed is the leader of Lashkar-e-Tayyiba (QDe.118). <u>In custody of the Government of</u> Pakistan serving a 78 year imprisonment sentence since 12 February 2020 as a result <u>of conviction in seven terror financing cases.</u> INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices- <u>Individuals</u>
+
+**QDi.307 Name:** 1: HAFIZ 2: ABDUL SALAM 3: BHUTTAVI 4: na **Title: a)** Maulavi **b)** Mullah **Designation:** na **DOB:** 1940 **POB:** Gujranwala, Punjab Province, Pakistan **Good quality a.k.a.: a)** Hafiz Abdul Salam Bhattvi **b)** Hafiz Abdusalam Budvi **c)** Hafiz Abdussalaam Bhutvi **d)** Abdul Salam Budvi **e)** Abdul Salam Bhattwi **f)** Abdul Salam Bhutvi **g)** Mullah Abdul Salaam Bhattvi **h)** Molvi Abdursalam Bhattvi **Low quality a.k.a.:** na **Nationality:** Pakistan **Passport no:** na **National** **identification no:** na **Address:** na **Listed on:** 14 Mar. 2012 (amended on 15 Nov. 2021<u>, 19 Dec. 2023</u>) **Other information:** Founding member of Lashkar-e-Tayyiba (QDe.118) and deputy to Lashkar-e-Tayyiba leader Hafiz Muhammad Saeed (QDi.263). <u>Confirmed deceased.</u> Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices- <u>Individuals</u>
+
+**QDi.352 Name:** 1: MAULANA 2: FAZLULLAH 3: na 4: na **Title:** na **Designation:** na **DOB:** 1974 **POB:** Kuza Bandai village, Swat Valley, Khyber Pakhtunkhawa Province, Pakistan **Good quality a.k.a.: a)** Mullah Fazlullah **b)** Fazal Hayat **Low quality a.k.a.:** Mullah Radio **Nationality:** na **Passport no:** na **National** **identification no:** na **Address:** (Afghanistan / Pakistan border region) **Listed on:** 7 Apr. 2015 (amended on 1 May 2019, 19 Dec. 2023) **Other information:** <u>Confirmed</u> <u>deceased on 13 June 2018.</u> Commander of Tehrik-e Taliban Pakistan (TTP) (QDe.132) since 7 Nov. 2013. Led the local TTP in Pakistan’s northwest valley of Swat from 2007 to 2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on
+
+<!-- PAGE 3 -->
+
+21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+**QDi.427 Name:** 1: Noor NOOR 2: Wali WALI 3: Mehsud MEHSUD 4: na **Title:** Mufti **Designation:** na **DOB:** 26 Jun. 1978 **POB:** Gurguray, Pakistan **Good** **quality a.k.a.:** Abu Mansoor Asim **Low quality**
+
+**a.k.a.:** na **Nationality:** Pakistan **Passport no:** na **National identification** **no:** na **Address:** <s>na</s> Lamman, District Barmal, Paktika Province, Afghanistan (as of 26 Nov. 2022) **Listed on:** 16 Jul. 2020 <u>(amended on 19 Dec. 2023)</u> **Other** **information:** Leader of Tehrik-e Taliban Pakistan (TTP) (QDe.132) <u>following the death</u> of former TTP leader Maulana Fazlullah (QDi.352). INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices- Individuals
+## B. Entities
+
+**QDe.005 Name:** AL RASHID TRUST
+
+**A.k.a.: a)** Al-Rasheed Trust **b)** Al Rasheed Trust **c)** Al-Rashid Trust **d)** Aid Organization of the Ulema, Pakistan **e)** Al Amin Welfare Trust **f)** Al Amin Trust **g)** Al Ameen Trust **h)** Al-Ameen Trust **i)** Al Madina Trust **j)** Al-Madina Trust **F.k.a.:** na **Address:**
+**a)** Kitas Ghar, Nazimabad 4, Dahgel-Iftah, Karachi, Pakistan **b)** Jamia Maajid, Sulalman Park, Melgium Pura, Lahore, Pakistan **c)** (Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road, Mansehra, Pakistan) **d)** (Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar, Peshawar, Pakistan) **e)** (Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road, Rawalpindi, Pakistan) **f)** (Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae, Mingora, Swat, Pakistan) **g)** (Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No. 4, Karachi, Pakistan, Phone 6683301; Phone 0300-8209199; Fax 6623814) **h)** (302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan -l Igbal, Karachi, Pakistan; Phone 4979263) **i)** (617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi, Pakistan; Phone 587-2545) **j)** (605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan; Phone 2623818-19) **k)** (Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan; Phone 042-6812081) **Listed on:** 6 Oct. 2001 (amended on 21 Oct. 2008, 10 Dec. 2008, 13 Dec. 2011, 6 Dec. 2019, 19 Dec. 2023) **Other** **information:** <u>Reportedly defunct.</u> Headquarters <s>are</s><u>were</u> in Pakistan. Operations in Afghanistan: Herat Jalalabad, Kabul, Kandahar, Mazar Sherif. Also operations in Kosovo, Chechnya. Involved in the financing of Al-Qaida and the Taliban. Until 21 Oct. 2008, this entity appeared also as "Aid Organization of the Ulema, Pakistan" (QDe.073), listed on 24 Apr. 2002 and amended on 25 Jul. 2006. The two entries Al Rashid Trust (QDe.005) and Aid Organization of the Ulema, Pakistan (QDe.073) were consolidated into this entity on 21 Oct. 2008. Founded by Mufti Rashid Ahmad Ledahyanoy (deceased). Associated with Jaish-i-Mohammed (QDe.019). Banned in Pakistan since Oct. 2001. Despite the closure of its offices in Pakistan in February 2007 it has continued its activities. No indication of any activity under the name of Al-Rashid Trust has emerged <u>as of November 2023.</u> Review pursuant to Security Council resolution 1822 (2008) was concluded on 6 May 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+<!-- PAGE 4 -->
+
+||QDe.158 Name:||KHATIBA IMAM AL-BUKHARI (KIB)||
+|---|---|---|---|---|
+|A.k.a.:|area(previous location) location as atof Mar. 2018)|Khataib al-Imam al-Bukhari b)|F.k.a.: na c)|Address: a) Afghanistan/Pakistan border Khan-Shaykhun, Syrian Arab Republic (53 km south of Idlib, Idlib, Aleppo and Khama, Syrian Arab Republic (operation|
+|zone)|d)||Faryab, Badghis and Jawzjan Provinces, Afghanistan|Listed on: 29 Mar.|
+|2018||(amended on: 19 Dec. 2023)|Front for the People of the Levant (QDe.137). Committed terrorist attacks in the Syrian Arab Republic. Since 2016 redeployed to Northern Afghanistan to project attacks against Central Asia countries. INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals|Other information: Associated with Al-Nusrah|
+
+3. In accordance with paragraph 58 of resolution 2610 (2021), the Committee has made accessible on its website the narrative summaries of reasons for listing of the above entries at the following URL: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list/summaries</u>.
+4. Press release regarding the above can be found at <u>[https://press.un.org/en/2024/sc15556.doc.htm](https://press.un.org/en/2024/sc15556.doc.htm)</u>. Further, the UNSC press releases concerning amendments to the list are available at URL: <u>[https://www.un.org/securitycouncil/sanctions/1267/press-releases](https://www.un.org/securitycouncil/sanctions/1267/press-releases)</u>
+5. The details of the sanction measures and exemptions are available at the following URL: <u>[https://www.un.org/securitycouncil/sanctions/1267#further_information](https://www.un.org/securitycouncil/sanctions/1267#further_information)</u>
+6. In view of the above, REs are advised to take appropriate action in terms of Section 51 of the MD on KYC and strictly follow the procedure as laid down in the UAPA Order dated February 02, 2021 (amended on August 29, 2023) annexed to the MD on KYC.
+7. Updated lists of individuals and entities linked to ISIL (Da'esh), Al-Qaida and Taliban are available at: <u>www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list</u> <u>[https://www.un.org/securitycouncil/sanctions/1988/materials](https://www.un.org/securitycouncil/sanctions/1988/materials)</u>
+8. Further, as per the instructions from the Ministry of Home Affairs (MHA), any request for delisting received by any RE is to be forwarded electronically to Joint Secretary (CTCR), MHA for consideration. Individuals, groups, undertakings or entities seeking to be removed from the Security Council’s ISIL (Da'esh) and Al-Qaida Sanctions List can submit their request for delisting to an independent and impartial Ombudsperson who has been appointed by the United Nations Secretary-General. More details are available at the following URL: <u>[https://www.un.org/securitycouncil/ombudsperson/application](https://www.un.org/securitycouncil/ombudsperson/application)</u>
+
+<!-- PAGE 5 -->
+
+9. REs are advised to take note of the aforementioned UNSC communications and ensure meticulous compliance. Yours faithfully, (Saidutta Sangram Keshari Pradhan) General Manager

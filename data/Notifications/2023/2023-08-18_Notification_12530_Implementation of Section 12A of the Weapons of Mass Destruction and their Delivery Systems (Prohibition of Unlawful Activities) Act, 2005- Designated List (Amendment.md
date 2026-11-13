@@ -1,0 +1,40 @@
+---
+doc_id: "Notifications_2023_12530"
+title: "Implementation of Section 12A of the Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005: Designated List (Amendments)"
+category: "Notifications"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARWMDACT200567D0B739319047E6A60D476E515064DD.PDF"
+pdf_sha256: "f04ecedf384e0ba8af3bd6f485e33cc2c81dab8eff8edbb8fcd21c8bde8e3ed6"
+md_sha256: "c2a6d0644c10a6c2320525bf0c39bbb2c3fe42a07fdabecd2b18434460c03c8b"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T14:07:16Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-08-18_Notification_12530_Implementation%20of%20Section%2012A%20of%20the%20Weapons%20of%20Mass%20Destruction%20and%20their%20Delivery%20Systems%20%28Prohibition%20of%20Unlawful%20Activities%29%20Act%2C%202005-%20Designated%20List%20%28Amendment.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Implementation of Section 12A of the Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005: Designated List (Amendments)
+
+<!-- PAGE 1 -->
+
+RBI/2023-24/56 DOR.AML.REC.33/14.06.001/2023-24 August 18, 2023
+
+The Chairpersons/ CEOs of all the Regulated Entities
+
+Madam/Dear Sir,
+
+**Implementation of Section 12A of the Weapons of Mass Destruction and their** **Delivery Systems (Prohibition of Unlawful Activities) Act, 2005: Designated List** **(Amendments)**
+
+Please refer to Section 52 of our <u>Master Direction on Know Your Customer dated</u> <u>February 25, 2016</u> as amended on May 04, 2023 (MD on KYC), in terms of which, inter alia, “*REs shall ensure meticulous compliance with the “Procedure for Implementation of* *Section 12A of the Weapons of Mass Destruction (WMD) and their Delivery Systems* *(Prohibition of Unlawful Activities) Act, 2005” laid down in terms of Section 12A of the* *WMD Act, 2005 vide Order dated January 30, 2023, by the Ministry of Finance,* *Government of India (Annex III of the Master Direction on Know Your Customer).”*
+
+2. Further, in terms of Section 53 of our MD on KYC, “*REs shall verify every day, the* *‘UNSCR 1718 Sanctions List of Designated Individuals and Entities‘, as available at* <u>[https://www.mea.gov.in/Implementation-of-UNSC-Sanctions-DPRK.htm](https://www.mea.gov.in/Implementation-of-UNSC-Sanctions-DPRK.htm)</u>*, to take into* *account any modifications to the list in terms of additions, deletions or other changes and* *also ensure compliance with the ‘Implementation of Security Council Resolution on* *Democratic People’s Republic of Korea Order, 2017’, as amended from time to time by* *the Central Government*”.
+3. A reference is also invited to our <u>circular DOR.AML.REC.23/14.06.001/2023-24 dated</u> <u>July 04, 2023</u>, communicating thereby the Consolidated List of UNSC Designated / Sanctioned Individuals and Entities under the UNSC Resolutions relating to non- proliferation. Certain amendments to the entries in the List were notified vide our <u>circular</u> <u>DOR. AML.REC.24/14.06.001/2023-24 dated July 04, 2023</u>. िविनयमन िवभाग, क द्र ी य कायालय, क द्र ी य कायालय भवन, 12वीं/ 13वीं मंिज़ल, शहीद भगत िसंह माग, फोट, मुंबई-400001
+टेलीफोन/ Tel No: 22661602, 22601000 फै � / Fax No: 022-2270 5691 Department of Regulation, Central Office, Central Office Building, 12 th / 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai - 400001 "Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers."
+
+<!-- PAGE 2 -->
+
+4. In this regard, Ministry of External Affairs (MEA), GoI has informed that the UNSC Committee established pursuant to resolution 1718(2006) enacted the amendments, specified with strikethrough and/or underline in certain entries on its Sanctions List of individuals and entities (<u>enclosed</u> with this circular). Hence, the ‘**designated list**’ (as referred in Para 2.1 and other relevant paras of the aforementioned Order dated January 30, 2023) communicated vide our <u>circular DOR.AML.REC.23/14.06.001/2023-24 dated</u> <u>July 04, 2023</u> is amended in accordance with the changes in these relevant entries.
+5. The latest version of the UNSC Sanctions lists on DPRK & Iran are accessible on the UN Security Council’s website at the following URLs: <u>[https://www.un.org/securitycouncil/sanctions/1718](https://www.un.org/securitycouncil/sanctions/1718)</u> <u>[https://www.un.org/securitycouncil/content/2231/list](https://www.un.org/securitycouncil/content/2231/list)</u>
+6. The REs are advised to take note of the aforementioned communications and ensure meticulous compliance. Yours faithfully, (Santosh Kumar Panigrahy) Chief General Manager Encl: As above
