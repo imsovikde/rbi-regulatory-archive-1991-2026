@@ -1,0 +1,53 @@
+---
+doc_id: "Press-Releases_2018_44800"
+title: "Result of the 7-day Variable Rate Reverse Repo Auction held on  August 21, 2018"
+category: "Press-Releases"
+year: 2018
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR442BD1DB9CE7C8A48E0985E8FA1AF944266.PDF"
+pdf_sha256: "c951bd58536a7549f62509536bd77a737172e4ecca08faddc8cfca27d1b595fc"
+md_sha256: "1c4153af3656f52a1df619372f3b887a89cf41fa27e9248f18d11f485feada27"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T21:21:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-08-21_Press-Release_44800_Result%20of%20the%207-day%20Variable%20Rate%20Reverse%20Repo%20Auction%20held%20on%20August%2021%2C%202018.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the 7-day Variable Rate Reverse Repo Auction held on  August 21, 2018
+
+<!-- PAGE 1 -->
+
+## प्रेस प्रकाशनी PRESS RELEASE
+
+# भारतीय �रज़वर् बक
+
+-400001 **RESERVE BANK OF INDIA**
+
+|संचार वभाग,|कद्रय कायार्लय,|एस.बी.एस.मागर्, मुंबई|||
+|---|---|---|---|---|
+||||वेबसाइट :www.rbi.org.in/hindi||
+||Central|Office, S.B.S. Marg, Mumbai-400001|Website : www.rbi.org.in||
+|फोन/Phone: 022-22610835 फै क् स /Fax: 91 222266 0358|||इ-मेलemail|:helpdoc@rbi.org.in|
+
+________________________________________________________________________________________________________ 0 **DEPARTMENT OF COMMUNICATION**,
+
+## August 21, 2018
+
+## Result of the 7-day Variable Rate Reverse Repo Auction held on
+
+## August 21, 2018
+
+|Tenor|7-day|
+|---|---|
+|Notified Amount (in ` billion)|300.00|
+|Total amount of offers received (in ` billion)|53.49|
+|Amount accepted (in ` billion)|53.49|
+|Cut off Rate (%)|6.49|
+|Weighted Average Rate (%)|6.49|
+|Partial Acceptance Percentage of offers received at cut off rate|NA|
+
+## Ajit Prasad
+
+**Press Release : 2018-2019/442** Assistant Adviser
