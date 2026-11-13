@@ -49,7 +49,7 @@ Verified micro-batch commit (50-100 files) + push, then self-chain while work re
 | `rbi_crawler.py` | Crawls live RBI index endpoints; reconciles against manifest/pdf_final_direct_urls.txt; discovers new documents; backfills new PDFs to Hugging Face when HF_TOKEN is set |
 | `converter.py` | The 5-stage hybrid converter (anydoc + PP-OCRv5 / RapidOCR / OCRmyPDF / Tesseract) |
 | `verifier.py` | Page parity, SymPy formula check, SHA-256, GFM table validation, frontmatter validation |
-| `indexer.py` | Rebuilds llms.txt, llms-full.txt, INDEX.md, per-year/per-category indexes, master_catalog.jsonl, url_to_path_map.json, README.md progress section, STATE.json |
+| `indexer.py` | Rebuilds llms.txt, llms-full.txt, INDEX.md, per-year/per-category indexes, manifest/catalog/<YYYY>.jsonl shards, url_to_path_map.json, README.md progress section, STATE.json |
 | `runner.py` | Batch loop: enumerate next pending files, convert with a worker pool, verify, commit + push per batch, enforce the 290-minute budget, write STATE.json |
 | `git_committer.py` | Rate-limit-safe Verified committer: stages, commits with `git commit -S`, paces pushes (>= 5 s apart), pull --rebase + push with retry |
 
@@ -107,9 +107,11 @@ without parsing a PDF.
 - `index/by_category/<Category>.md`: one Markdown index per category.
 - `data/<Category>/<Year>/INDEX.md`: annual index inside every year directory,
   built by the indexer as conversion fills that year.
-- `manifest/master_catalog.jsonl`: one JSON object per document (all 92,100 census
-  rows; DOWNLOADED rows carry `md_path` and `status`, BLOCKED rows carry the
-  reason and empty PDF fields). This is the filterable catalog.
+- `manifest/catalog/<YYYY>.jsonl`: one JSON object per document, one shard per
+  year (all 92,100 census rows; DOWNLOADED rows carry `md_path` and `status`,
+  BLOCKED rows carry the reason and empty PDF fields). This is the filterable
+  catalog. Sharded because the single file passed GitHub's 100 MB push limit
+  at 60,647 rows (103.40 MB) and killed run 43443272509 (Defect 7).
 - `manifest/sha256_conversion_ledger.csv`: the conversion ground truth. One row
   per PDF: pdf_sha256, file_path, md_path, md_sha256, page counts, engine, status
   (PENDING / DONE / FAILED), converted_at_utc.

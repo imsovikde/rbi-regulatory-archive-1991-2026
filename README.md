@@ -11,9 +11,9 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 ## Conversion progress
 
 - **Total PDFs:** 88236
-- **Converted to Markdown:** 61022
-- **Remaining:** 27214
-- **Progress:** [############################------------] 69.1577%
+- **Converted to Markdown:** 60647
+- **Remaining:** 27589
+- **Progress:** [###########################-------------] 68.7327%
 
 | Category | Total | Converted | Progress |
 | --- | ---: | ---: | ---: |
@@ -22,7 +22,7 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 | Master-Circulars | 1013 | 1013 | 100.0000% |
 | Draft-Notifications-Guidelines | 546 | 546 | 100.0000% |
 | Circulars | 11690 | 11690 | 100.0000% |
-| Press-Releases | 64063 | 36849 | 57.5199% |
+| Press-Releases | 64063 | 36474 | 56.9346% |
 <!-- PROGRESS-END -->
 ## What this repository is
 
@@ -50,7 +50,7 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
    A few RBI URLs (5,951) point at more than one document; those are listed in
    [index/url_collisions.json](index/url_collisions.json).
 4. To search by headline or document ID, read
-   [manifest/master_catalog.jsonl](manifest/master_catalog.jsonl).
+   [manifest/catalog/<YYYY>.jsonl](manifest/catalog/).
 5. Read the Markdown file at `data/<Category>/<Year>/<stem>.md`. Its YAML frontmatter
    carries `pdf_sha256`, `md_sha256`, `total_pages`, `native_pages`, `ocr_pages`,
    `conversion_engine`, and `verification_status`.
@@ -77,7 +77,7 @@ manifest/
   pdf_final_direct_urls.txt      81,828 direct RBI PDF URLs (canonical endpoint list)
   hf_88236_inventory.jsonl       88,236-file inventory synced from Hugging Face
   sha256_conversion_ledger.csv   PDF SHA-256, MD SHA-256, engine, pages, status per file
-  master_catalog.jsonl           Machine-readable metadata catalog for agents
+  catalog/<YYYY>.jsonl           Machine-readable metadata catalog for agents, one shard per year
 index/
   by_year/                       1991.md ... 2026.md (per-year Markdown indexes)
   by_category/                   One Markdown index per category
