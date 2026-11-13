@@ -1,0 +1,87 @@
+---
+doc_id: "Notifications_2010_5944"
+title: "Regulatory Framework for Core Investment Companies (CICs)"
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ICICNO97D130810.pdf"
+pdf_sha256: "30bb0a60e6c6bcad8ae4994b916c5a57f6ac3a6fafabc43eb846368317676149"
+md_sha256: "a0be8c12de3082520a735624859bd97dab252a4738fe82d64de653da58b47569"
+total_pages: 6
+native_pages: 6
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:14:54Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-08-12_Notification_5944_Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Regulatory Framework for Core Investment Companies (CICs)
+
+<!-- PAGE 1 -->
+
+## RBI/2010-11/168 DNBS (PD) CC.No. 197/03.10.001/2010-11 August 12, 2010
+
+## All Core Investment Companies
+
+Dear Sir,
+
+## <u>Regulatory Framework for Core Investment Companies (CICs)</u>
+
+The Bank had announced in the Annual Policy 2010-2011 that companies which have their assets predominantly as investments in shares for holding stake in group companies but not for trading, and also do not carry on any other financial activity, i.e., Core Investment Companies, (CICs), justifiably deserve a differential treatment in the regulatory prescription applicable to Non-Banking Financial Companies which are non deposit taking and systemically important. In order to rationalize the policy approach for CICs, such companies having an asset size of Rs.100 crore and above would be treated as systemically important core investment companies. They would require registration with the Reserve Bank and would be given exemption from maintenance of net owned fund and exposure norms subject to certain conditions. Consequent to the announcement, draft guidelines had been placed on the RBI website on April 21, 2010. The feedback received from the market participants have been considered and it has been decided to bring into effect the following regulatory framework for Core Investment Companies.
+
+2. Core Investment Companies (CICs) were not considered as carrying on the business of acquisition of shares and securities in the following circumstances, namely,
+i) not less than 90% of their assets were in investments in shares for the purpose of holding stake in the investee companies; ii) they were not trading in these shares except for block sale (to dilute or divest holding); iii) they were not carrying on any other financial activities; and iv) they were not holding / accepting public deposits.
+
+<!-- PAGE 2 -->
+
+As such, companies fulfilling the above criteria were not required to obtain Certificate of Registration (COR) from RBI under Section 45 IA of the RBI Act 1934. It has been found in practice, that it is very difficult to determine whether a company has invested in the shares of another company for the purpose of holding stake or for the purpose of trade. Even where initially investments had been made in some cases for holding stake in the investee company, for various reasons these shares were sold or additional shares were purchased. Such absence of clarity is not in the interest of the system. It was therefore decided that investing in shares of other companies, even for the purpose of holding stake should also be regarded as carrying on the business of acquisition of shares in terms of Section 45I(c) (ii) of RBI Act.
+
+<u>3. Systemically Important NBFCs</u> In 2006, in view of the systemic risk arising from access to public funds such as bank borrowings, CPs, etc, by NBFCs, and their interconnectedness with the financial system, the focus of regulatory concern widened to include non deposit taking NBFCs also. Accordingly, non deposit taking NBFCs with an asset size of Rs. 100 crore and more as per the last audited balance sheet were defined as systemically important, (NBFCs-ND-SI) and a regulatory framework was put in place for them vide Circular No 86 dated December 12, 2006.
+<u>4. Systemic Importance of Core Investment Companies</u> For the reasons stated in para 1 above, investing in shares of other companies, even for the purpose of holding stake should be regarded as carrying on the business of NBFI. In view of this, CICs will be required to obtain certificate of registration under Section 45-IA of the Reserve Bank of India Act, 1934. However, CICs with an asset size of less than Rs.100 crore would be granted exemption from the applicability of Section 45-IA of the Reserve Bank of India Act, 1934. In view of the systemic implications of access to public funds such as funds raised through Commercial Paper, debentures, inter- corporate deposits and other borrowings by CICs having asset size of 100 crore or above, such systemically important CIC will be required to obtain CoR under Section 45-IA of the Reserve Bank of India Act and be governed by the provisions of the
+
+<!-- PAGE 3 -->
+
+Reserve Bank of India Act, 1934 and the directions issued by the Reserve Bank from time to time.
+
+<u>5. Constraints faced by Core Investment Companies</u> In view of the specificities of the business model of CICs, viz, holding stake in group companies and funding group concerns, CICs find it difficult to comply with the extant NOF requirements and exposure norms for NBFCs specified by the Reserve Bank. These issues have been considered while formulating the regulatory framework for CICs.
+<u>6. Regulatory Framework for Core Investment Companies</u>
+i) It is proposed to exempt Core Investment Companies (CIC) with an asset size of less than Rs.100 crores from the requirements of registration with RBI. For this purpose all CICs belonging to a Group will be aggregated. ii) CICs with an asset size of Rs 100 crores or more will be considered as Systemically Important Core Investment Companies (CICs-ND-SI) and would be required to obtain Certificate of Registration (COR) from RBI under Section 45-IA of the Reserve Bank of India Act, 1934 even if they have been advised in the past that registration was not required. iii) Capital Requirements: Every CIC-ND-SI shall ensure that at all times it maintains a minimum Capital Ratio whereby its Adjusted Net Worth shall not be less than 30% of its aggregate risk weighted assets on balance sheet and risk adjusted value of off-balance sheet items as an the date of the last audited balance sheet as at the end of the financial year. iv) Leverage Ratio: Every CIC-ND-SI shall ensure that its outside liabilities at all times shall not exceed 2.5 times its Adjusted Net Worth as on the date of the last audited balance sheet as at the end of the financial year.
+v) Exemptions: A CIC-ND-SI which adheres to the requirements regarding capital requirements and leverage ratio as specified at (iii) and (iv) above, may to the extent necessary, be exempted from compliance with:-
+i) maintenance of statutory minimum Net Owned Fund (NoF) and
+
+<!-- PAGE 4 -->
+
+ii) requirements of "Non-Banking Financial (Non-Deposit Accepting or
+
+holding) Companies Prudential Norms (Reserve Bank) Directions,
+
+2007" including requirements of capital adequacy and exposure norms.
+
+<u>7. Definitions</u> For the purposes of these guidelines:-
+1) Adjusted Net Worth means:-
+i) the aggregate as appearing in the last audited balance sheet as at the end of the financial year of :-
+(A) Owned Funds as defined in Non Banking Financial ( Non Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007; and
+(B) 45% of the amount standing to the credit of the Revaluation Reserve arising from revaluation of investments in quoted investments, if any, ii) as increased by :-
+(A) 50% of the unrealized appreciation in the book value of quoted investments as at the date of the last audited balance sheet as at the end of the financial year (such appreciation being calculate, as the excess of the aggregate market value of such investments over the book value of such investments); and
+(B) the increase if any, in the equity share capital since the date of the last audited balance sheet. iii) as reduced by :-
+(A) the amount of diminution in the aggregate book value of quoted investments (such diminution being calculated as the excess of the book value of such investments over the aggregate market value of such investments ) and
+(B) the reduction, if any, in the equity share capital since the date of the last audited balance sheet.
+(2) Core Investment Company means: A NBFC carrying on the business of acquisition of shares and securities which satisfied the following conditions:-
+
+<!-- PAGE 5 -->
+
+(i) it holds not less than 90% of its Total Assets in the form of investment in equity shares, preference shares, debt or loans in group companies; (ii) its investments in the equity shares (including instruments compulsorily convertible into equity shares within a period not exceeding 10 years from the date of issue) in group companies constitutes not less than 60% of its Total Assets; iii) it does not trade in its investments in shares, debt or loans in group companies except through block sale for the purpose of dilution or disinvestment; iv) it does not carry on any other financial activity referred to in Section 45I(c) and 45I(f) of the RBI act, 1934 except investment in bank deposits, money market instruments, government securities, loans to and investments in debt issuances of group companies or guarantees issued on behalf of group companies.
+(3) Market Value of Quoted Investments means: the average of the highs and lows of the quoted prices of the investments, on a recognized stock exchange where the investment is most actively traded, during the period of 26 weeks immediately preceding the end of the financial year at which date the last audited balance sheet is available.
+(4) Outside Liabilities means: total liabilities as appearing on the liabilities side of the balance sheet excluding 'paid up capital' and 'reserves and surplus' but including all forms of debt and obligations having the characteristics of debt whether created by issue of hybrid instruments or otherwise and value of guarantees issued whether appearing on the balance sheet or not.
+(5) Total Assets means: total assets as appearing on the assets side of the balance sheet but
+excluding :-
+
+(i) cash and bank balances; ii) investment in money market instruments; iii) advance payments of taxes; and iv) deferred tax asset.
+
+<!-- PAGE 6 -->
+
+<u>8. Transition Period</u>
+(i) All CICs-ND-SI, irrespective of whether they were specifically exempted in the past from registration with the RBI or not, should apply to the RBI for obtaining the CoR within a period of six months from the date of the Notification. (ii) In order to operationalize the above dispensation in a non-disruptive manner, companies which apply for CoR within the stipulated time of six months may continue to carry on the existing business till the disposal of their application by RBI. (iii) It is further clarified that the companies which fail to apply within the stipulated period of six months will be regarded as contravening the provisions of Section 45IA of the Reserve Bank of India Act, 1934 if they are regarded as carrying on the business of Core Investment Companies-ND-SI as described above. (iv) Companies which presently have an asset size of less than Rs 100 crore would be required to apply to RBI for COR within three months of the date of achieving a balance sheet size of Rs 100 crore.
+<u>9. Action plan to comply with Conditions</u>
+(i) CICs-ND-SI applying for COR who do not meet the conditions stipulated in para 6 above, may approach the Regional Office of the RBI in whose jurisdiction they are registered, with an action plan for compliance with these conditions, in order to avail the exemptions stated in para 6(v). (ii) RBI may examine the action plan of such CICs-ND-SI as have applied for COR and impose such conditions and restrictions as it deems fit.
+<u>10. Submission of annual statutory auditors certificate</u> CICs-ND-SI will be required to submit an annual certificate from their statutory auditors regarding compliance with the above guidelines within one month from the date of finalisation of the balance-sheet. Yours sincerely, (Uma Subramaniam) Chief General Manager-in-Charge

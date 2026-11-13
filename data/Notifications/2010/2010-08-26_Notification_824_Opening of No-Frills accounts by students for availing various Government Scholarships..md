@@ -1,0 +1,48 @@
+---
+doc_id: "Notifications_2010_824"
+title: "Opening of No-Frills accounts by students for availing various Government Scholarships."
+category: "Notifications"
+year: 2010
+source_rbi_url: "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CNF206082010.pdf"
+pdf_sha256: "017a7eb3062c46a9f76fd8a59fbdf6613378e5dfe3558b3ae984d3be41602890"
+md_sha256: "1fb26c334e5146bd23bd8ff1c273dc774449a36b18336bf0b70358458bcdf697"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-13T13:15:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-08-26_Notification_824_Opening%20of%20No-Frills%20accounts%20by%20students%20for%20availing%20various%20Government%20Scholarships..pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Opening of No-Frills accounts by students for availing various Government Scholarships.
+
+<!-- PAGE 1 -->
+
+## ______________________ RESERVE BANK OF INDIA___________________
+
+**www.rbi.org.in**
+
+RBI/2010-11/182
+
+RPCD.CO.FID. BC.No. 2433 /12.01.012/2010-11 August 26, 2010
+
+The Chaiman & Managing Director/ Chief Executive Officer All Scheduled Commercial Banks
+
+Dear Sir,
+
+## Opening of No-Frills accounts by students for availing various Government Scholarships.
+
+It has been brought to our notice by the Secretary, Government of India, Ministry of Minority Affairs that banks are not opening ‘no-frills’ accounts in favour of students from minority communities who wish to avail of the scholarships being awarded by the Ministry through the State/UT Governments. This is causing hardship to the applicants for scholarship schemes of the Government and is inviting criticism.
+
+2. In this connection, we draw your attention to our <u>circular</u> <u>DBOD.Leg.BC.44/09.07.005/2005-06</u> dated November 11, 2005 with regard to opening of no-frills accounts by Scheduled Commercial Banks. A reference is also invited to our <u>Master Circular RPCD.SP.BC.No.4/09.10.01/2010-11</u> dated July 1, 2010 on Priority Sector Lending-Credit Facilities to Minority Communities wherein it has been stated that care should be taken to see that minority communities secure, in a fair and adequate measure, the benefits flowing from various Government sponsored special programmes.
+---------------------------------------------------------------------------------------------------------------- **Rural Planning & Credit Department Central Office, 10** **th** **Floor, Central Office Building, post box no. 10014 Mumbai -** **400001** **Fax No: 91-22-22621011/22610948/22610943 Email ID:cgmicrpcd@rbi.org.in**
+
+<!-- PAGE 2 -->
+
+3. You are also advised to ensure opening of no-frills accounts or other accounts for students from minority communities or other disadvantaged groups, when they approach banks, for availing various scholarships or other benefits offered by the Government. However, while opening such accounts, KYC norms as appropriate may be followed for the purpose.
+## Yours faithfully
+
+(Sushma Vij) Deputy General Manager
+
+**Rural Planning & Credit Department Central Office, 10** **th** **Floor, Central Office Building, post box no. 10014 Mumbai -** **400001** **Fax No: 91-22-22621011/22610948/22610943 Email ID:cgmicrpcd@rbi.org.in**
