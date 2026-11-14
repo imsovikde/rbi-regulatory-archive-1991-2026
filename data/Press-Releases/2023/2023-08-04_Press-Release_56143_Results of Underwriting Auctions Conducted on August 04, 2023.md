@@ -1,0 +1,39 @@
+---
+doc_id: "Press-Releases_2023_56143"
+title: "Results of Underwriting Auctions Conducted on August 04, 2023"
+category: "Press-Releases"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR69337D4DC70C67F47D08E4BAAB33BAEAFFF.PDF"
+pdf_sha256: "b9acdf9daf75a2154e5b61f7108946f93cc69fb265fdb82cf118be917b296ecd"
+md_sha256: "d6c475c83082e7d305881cc0c446eece05c46b026ebc781fedd4debffa37448d"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:08:57Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-08-04_Press-Release_56143_Results%20of%20Underwriting%20Auctions%20Conducted%20on%20August%2004%2C%202023.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Results of Underwriting Auctions Conducted on August 04, 2023
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक RESERVE BANK OF INDIA 0 वेबसाइट : www.rbi.org.in/hindi Website : www.rbi.org.in ई-मेल/email : helpdoc@rbi.org.in|संचार वभाग, कद्रय कायार्लय, शहद भगत स ंह मागर्, फोटर्, मुंबई - 400 001 Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort, Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+August 04, 2023 **Results of Underwriting Auctions Conducted on August 04, 2023** In the underwriting auctions conducted on August 04, 2023 for Additional Competitive Underwriting (ACU) of the undernoted Government securities, the Reserve Bank of India has set the cut-off rates for underwriting commission payable to Primary Dealers as given below: (₹ crore)
+
+|Nomenclature of the Security|Notified Amount|Minimum Underwriting Commitment (MUC) Amount|Additional Competitive Underwriting Amount Accepted|Total Amount underwritten|ACU Commission Cut-off rate (paise per ₹100)|
+|---|---|---|---|---|---|
+|6.99% GS 2026|8,000|4,011|3,989|8,000|0.50|
+|7.17% GS 2030|7,000|3,507|3,493|7,000|0.41|
+|7.18% GS 2037|12,000|6,006|5,994|12,000|0.54|
+|7.25% GS 2063|12,000|6,006|5,994|12,000|0.85|
+
+Auction for the sale of securities will be held on August 04, 2023.
+
+## Ajit Prasad
+
+**Press Release: 2023-2024/693** Director (Communications)
