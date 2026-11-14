@@ -1,0 +1,46 @@
+---
+doc_id: "Press-Releases_2024_57438"
+title: "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on March 04, 2024"
+category: "Press-Releases"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1988700AA763CFD541B8921797C0CCE53B6C.PDF"
+pdf_sha256: "734d1f36ec367c012b816d6cdd3ea31ea9d71f3b8359fce21f8d3ebd8f2dee33"
+md_sha256: "2fc34d2c6de991b3ca5a05ee089dba129e34a9ae3fa65af28167458dab2b9f15"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:29:23Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-03-04_Press-Release_57438_RBI%20to%20conduct%20Overnight%20Variable%20Rate%20Reverse%20Repo%20%28VRRR%29%20auction%20under%20LAF%20on%20March%2004%2C%202024.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on March 04, 2024
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई-400001|
+|Website : www.rbi.org.in ई-मेल/email : helpdoc@rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort, Mumbai-400001 फोन/Phone: 022- 22660502|
+
+## March 04, 2024
+
+**RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on March 04, 2024**
+
+On a review of the current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Reverse Repo (VRRR) auction on March 04, 2024, Monday, as under:
+
+## Notified Amount Tenor
+
+## Sl. No. Window Timing Date of Reversal
+
+## (₹ crore) (day)
+
+March 05, 2024 1 75,000 1 12:30 PM to 1:00 PM (Tuesday)
+
+2. The operational guidelines for the auction as given in the Reserve Bank’s <u>Press</u> <u>Release 2019-2020/1947 dated February 13, 2020</u> will remain the same.
+## (Yogesh Dayal)
+
+**Press Release: 2023-2024/1988** Chief General Manager
