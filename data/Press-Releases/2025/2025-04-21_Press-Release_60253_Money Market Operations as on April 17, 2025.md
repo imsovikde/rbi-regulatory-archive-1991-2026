@@ -1,0 +1,90 @@
+---
+doc_id: "Press-Releases_2025_60253"
+title: "Money Market Operations as on April 17, 2025"
+category: "Press-Releases"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR138MMOD5371F375339478BAECF92EB8E2A849B.PDF"
+pdf_sha256: "28c63c224ea3d00acf243eed98fbabc6b2399e61a72184b4ab91e3b842f78245"
+md_sha256: "440a62dd02902f61d95b9dbc60bdf78079f2d2c74972640d32819da61e73f851"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:55:15Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-04-21_Press-Release_60253_Money%20Market%20Operations%20as%20on%20April%2017%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on April 17, 2025
+
+<!-- PAGE 1 -->
+
+|प्रेस प्रकाशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक ैं||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार वभाग, कें द्र य कायार्लय, शहद भगत स ंह मागर्, फोटर्, म ंबई - 400 001 ु|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+April 21, 2025 **Money Market Operations as on April 17, 2025** (Amount in ₹ Crore, Rate in Per cent)
+
+||@ MONEY MARKETS|Volume (One Leg)|Weighted Average Rate|Range|
+|---|---|---|---|---|
+|A.|Overnight Segment (I+II+III+IV)|6,331.27|5.71|5.25-6.00|
+||I. Call Money|1,373.30|5.50|5.25-5.95|
+||II. Triparty Repo|3,476.00|5.72|5.25-5.80|
+||III. Market Repo IV. Repo in Corporate Bond|213.97 1,268.00|5.25 5.98|5.25-5.25 5.95-6.00|
+|B.|Term Segment||||
+||I. Notice Money**|14,603.97|5.88|4.95-5.95|
+||@@ II. Term Money III. Triparty Repo|620.00 3,81,092.95|- 5.72|5.95-6.20 5.50-6.00|
+||IV. Market Repo|2,09,083.41|5.86|3.50-6.66|
+||V. Repo in Corporate Bond|0.00|-|-|
+
+||@ RBI OPERATIONS|Auction Date|Tenor (Days)|Maturity Date|Amount|Current Rate/Cut off Rate|
+|---|---|---|---|---|---|---|
+|C.||Liquidity Adjustment Facility (LAF), Marginal Standing Facility (MSF) & Standing Deposit Facility (SDF)|||||
+|I|1. Fixed Rate & 2. Variable Rate (I) Main Operation (a) Repo (b) Reverse Repo (II) Fine Tuning Operations (a) Repo (b) Reverse Repo (III) Long Term Operations^ (a) Repo (b) Reverse Repo|Today's Operations Thu, 17/04/2025 Thu, 17/04/2025|4 43|Mon, 21/04/2025 Fri, 30/05/2025|6,514.00 25,731.00|6.01 6.01|
+||# 3. MSF|Thu, 17/04/2025|1|Fri, 18/04/2025|18.00|6.25|
+|||Thu, 17/04/2025|2|Sat, 19/04/2025|0.00|6.25|
+|||Thu, 17/04/2025|3|Sun, 20/04/2025|0.00|6.25|
+|||Thu, 17/04/2025|4|Mon, 21/04/2025|2,000.00|6.25|
+||4. SDFΔ#|Thu, 17/04/2025|1|Fri, 18/04/2025|2,36,500.00|5.75|
+|||Thu, 17/04/2025|2|Sat, 19/04/2025|5,893.00|5.75|
+|||Thu, 17/04/2025|3|Sun, 20/04/2025|0.00|5.75|
+||5. Net liquidity injected from today's operations [injection (+)/absorption (-)]*|Thu, 17/04/2025|4|Mon, 21/04/2025|13,808.00 -2,21,938.00|5.75|
+|II|1. Fixed Rate & 2. Variable Rate (I) Main Operation (a) Repo (b) Reverse Repo (II) Fine Tuning Operations (a) Repo (b) Reverse Repo|Outstanding Operations|||||
+
+<!-- PAGE 2 -->
+
+## (III) Long Term Operations^
+
+(a) Repo
+(b) Reverse Repo **#**
+## 3. MSF
+
+## 4. SDFΔ#
+
+**$**
+
+|D.|Standing Liquidity Facility (SLF) Availed from RBI|7,998.94|
+|---|---|---|
+|E.|Net liquidity injected from outstanding operations [injection (+)/absorption (-)]*|7,998.94|
+|F.|Net liquidity injected (outstanding including today's||
+
+-2,13,939.06 **operations) [injection (+)/absorption (-)]***
+
+## <u>RESERVE POSITION</u>@
+
+|G.|Cash Reserves Position of Scheduled Commercial Banks|||
+|---|---|---|---|
+||(i) Cash balances with RBI as on (ii) Average daily cash reserve requirement for the fortnight ending|April 17, 2025 April 18, 2025|9,24,106.93 9,31,571.00|
+|H.|¥ Government of India Surplus Cash Balance Reckoned for Auction as on|April 17, 2025|6,211.00|
+|I.|Net durable liquidity [surplus (+)/deficit (-)] as on|April 04, 2025|2,36,088.00|
+
+@ Based on Reserve Bank of India (RBI) / Clearing Corporation of India Limited (CCIL). − Not Applicable / No Transaction. ** Relates to uncollateralized transactions of 2 to 14 days tenor. @@ Relates to uncollateralized transactions of 15 days to one year tenor. $ Includes refinance facilities extended by RBI. & As per the <u>Press Release No. 2019-2020/1900 dated February 06, 2020</u>. Δ As per the <u>Press Release No. 2022-2023/41 dated April 08, 2022</u>.
+
+* Net liquidity is calculated as Repo+MSF+SLF-Reverse Repo-SDF. ¥ As per the <u>Press Release No. 2014-2015/1971 dated March 19, 2015</u>. # As per the <u>Press Release No. 2023-2024/1548 dated December 27, 2023</u>. ^ As per the <u>Press Release No. 2025-2026/91 dated April 11, 2025</u>.
+# Ajit Prasad Press Release: 2025-2026/138 Deputy General Manager
+
+# (Communications)
