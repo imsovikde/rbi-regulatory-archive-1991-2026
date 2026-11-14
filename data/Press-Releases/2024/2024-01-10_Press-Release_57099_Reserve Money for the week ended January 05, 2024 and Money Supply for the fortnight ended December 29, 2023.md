@@ -1,0 +1,33 @@
+---
+doc_id: "Press-Releases_2024_57099"
+title: "Reserve Money for the week ended January 05, 2024 and Money Supply for the fortnight ended December 29, 2023"
+category: "Press-Releases"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1649RMMS73A37A1E6D6E4F80AD3EE0DD0E81B62E.PDF"
+pdf_sha256: "2d57c9a98964cf67da8a14b9e500e04d492aedd51165243c86e88b4484d16c05"
+md_sha256: "7e18bbd7e866b0940c1a3a3efa3459ab2de7d9ded691e8a17f6c3995dc3216de"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:23:51Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-01-10_Press-Release_57099_Reserve%20Money%20for%20the%20week%20ended%20January%2005%2C%202024%20and%20Money%20Supply%20for%20the%20fortnight%20ended%20December%2029%2C%202023.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Money for the week ended January 05, 2024 and Money Supply for the fortnight ended December 29, 2023
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई-400001|
+|Website : www.rbi.org.in ई-मेल/email : helpdoc@rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort, Mumbai-400001 फोन/Phone: 022- 22660502|
+
+January 10, 2024 **Reserve Money for the week ended January 05, 2024 and** **Money Supply for the fortnight ended December 29, 2023** The Reserve Bank has today released data on <u>Reserve Money</u> for the week ended January 05, 2024 and <u>Money Supply</u> for the fortnight ended December 29, 2023.
+
+## Ajit Prasad
+
+**Press Release: 2023-2024/1649** Director (Communications)
