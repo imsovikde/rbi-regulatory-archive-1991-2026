@@ -1,0 +1,126 @@
+---
+doc_id: "Press-Releases_2024_57553"
+title: "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract"
+category: "Press-Releases"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2102WSSEXTRACTMARCH2220246E823CB8F83146DAB4EBB6A589DA41B1.PDF"
+pdf_sha256: "a1139f8f170874cb07184005d599d084a93fa35e863e1b9a11f738c0c5cbf620"
+md_sha256: "8d915abf8f29fb67fc75c8a854ae71eefdee95bfed28353f3b43daf082fe9e2c"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:31:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-03-22_Press-Release_57553_Reserve%20Bank%20of%20India%20%E2%80%93%20Bulletin%20Weekly%20Statistical%20Supplement%20%E2%80%93%20Extract.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+March 22, 2024 **Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract**
+
+|||1. Reserve Bank of India-Liabilities and Assets*||||
+|---|---|---|---|---|---|
+||||||(₹ Crore)|
+||2023||2024|Variation||
+|Item|Mar. 17|Mar. 8|Mar. 15|Week|Year|
+||1|2|3|4|5|
+|4 Loans and Advances||||||
+|4.1 Central Government|0|0|0|0|0|
+|4.2 State Governments|8189|9259|19929|10670|11740|
+
+* Data are provisional; difference, if any, is due to rounding off.
+**2. Foreign Exchange Reserves***
+
+|Item|As on March 15, 2024||Week||Variation over End-March 2023||Year||
+|---|---|---|---|---|---|---|---|---|
+||₹ Cr.|US$ Mn.|₹ Cr.|US$ Mn.|₹ Cr.|US$ Mn.|₹ Cr.|US$ Mn.|
+||1|2|3|4|5|6|7|8|
+|1 Total Reserves|5325702|642492|59650|6396|571438|64042|598200|69691|
+|1.1 Foreign Currency Assets #|4711435|568386|55879|6034|522303|58695|540611|63038|
+|1.2 Gold|423910|51140|4050|425|52411|5940|59859|7031|
+|1.3 SDRs|151493|18276|732|65|329|-116|1127|57|
+|1.4 Reserve Position in the IMF|38864|4689|-1011|-129|-3604|-477|-3396|-436|
+
+* Difference, if any, is due to rounding off. # Excludes (a) SDR holdings of the Reserve Bank, as they are included under the SDR holdings; (b) investment in bonds issued by IIFC (UK); and (c) amounts lent under the SAARC and ACU currency swap arrangements.
+**4. Scheduled Commercial Banks-Business in India**
+(₹ Crore) <u>Variation over</u>
+
+|Outstanding||Variation over|||
+|---|---|---|---|---|
+|as on Mar. 8, 2024|Financial year so far||Year-on-Year||
+||2022-23|2023-24|2023|2024|
+
+**Item Fortnight**
+
+||1|2|3|4|5|6|
+|---|---|---|---|---|---|---|
+|2 Liabilities to Others|||||||
+|2.1 Aggregate Deposits|20420083 (20309588)|215253|1493011|2376169 (2265675)|1681638|2461759 (2351265)|
+|2.1a Growth (Per cent)||1.07|9.1|13.2 (12.6)|10.3|13.7 (13.1)|
+|2.1.1 Demand|2374549|6241|46406|194118|214458|255397|
+|2.1.2 Time|18045534|209012|1446605|2182051|1467180|2206362|
+|2.2 Borrowings|762288|-16731|176746|316959|165818|310948|
+|2.3 Other Demand and Time Liabilities|949619|28232|169000|159968|163189|139771|
+|7 Bank Credit|16313735 (15781804)|99600|1657279|2638500 (2106569)|1836251|2765142 (2233211)|
+|7.1a Growth (Per cent)||0.6|13.9|19.3 (15.4)|15.7|20.4 (16.5)|
+|7a.1 Food Credit|31703|-8798|-26732|11798|-32629|3425|
+|7a.2 Non-food credit 1. Data since July 14, 2023 include the impact of the merger of a non-bank with a bank. 2. Figures in parentheses exclude the impact of the merger. 3. ‘-’: Nil/Negligible.|16282032|108398|1684011|2626702|1868881|2761717|
+
+<!-- PAGE 2 -->
+
+**6. Money Stock: Components and Sources**
+<u>(₹ Crore)</u> **Outstanding as on** <u>Variation over</u> **Fortnight** **Financial Year so far** <u>Year-on-Year</u>
+
+||2023|2024|Fortnight|2022-23|2023-24||||
+|---|---|---|---|---|---|---|---|---|
+||Mar. 31|Mar. 8|Amount|% Amount|% Amount|% Amount|% Amount|%|
+||1|2|3|4 5|6 7|8 9|10 11|12|
+|M3 1 Components (1.1.+1.2+1.3+1.4)|22343760|24737003 (24847497)|243091 (240798)|1.0 1729992 (1.0)|8.4 2393243 (2503737)|10.7 1944746 (11.2)|9.6 2513282 (2623776)|11.3 (11.8)|
+|1.1 Currency with the Public|3276436|3382592|21160|0.6 222404|7.3 106156|3.2 239213|7.9 124499|3.8|
+|1.2 Demand Deposits with Banks|2320598|2519149|8630|0.3 45859|2.1 198551|8.6 214779|10.5 260298|11.5|
+|1.3 Time Deposits with Banks|16668966|18751711 (18862205)|213568 (211275)|1.2 1455911 (1.1)|9.6 2082745 (2193239)|12.5 1478172 (13.2)|9.7 2109195 (2219690)|12.7 (13.3)|
+|1.4 ‘Other’ Deposits with Reserve Bank 2 Sources (2.1+2.2+2.3+2.4-2.5)|77761|83552|-267|-0.3|10.0 5791|7.4 12582|24.3 19290|30.0|
+|2.1 Net Bank Credit to Government|7165533|7449602 (7541317)|225808 (225850)|3.1 502367 (3.1)|7.8 284069 (375785)|4.0 640071 (5.2)|10.1 469606 (561321)|6.7 (8.0)|
+|2.1.1 Reserve Bank|1451126|1134272|169276|-159296|-316854|-3184|-157029||
+|2.1.2 Other Banks|5714407|6315330 (6407045)|56532 (56574)|0.9 661663 (0.9)|13.2 600923 (692638)|10.5 643255 (12.1)|12.7 626635 (718350)|11.0 (12.6)|
+|2.2 Bank Credit to Commercial Sector|14429636|16541761 (17073692)|107189 (102715)|0.7 1677012 (0.6)|13.3 2112125 (2644056)|14.6 1872456 (18.3)|15.1 2248229 (2780160)|15.7 (19.5)|
+|2.2.1 Reserve Bank|26549|11401|280||-15148|16633|-7319||
+|2.2.2 Other Banks|14403087|16530360 (17062291)|106909 (102435)|0.7 1674863 (0.6)|13.3 2127273 (2659204)|14.8 1855822 (18.5)|14.9 2255547 (2787478)|15.8 (19.5)|
+
+Note: Figures in parentheses include the impact of merger of a non-bank with a bank.
+
+**Item**
+
+**8. Liquidity Operations by RBI**
+(₹ Crore)
+
+|||||Liquidity Adjustment Facility|||Standing|OMO (Outright)||Net Injection (+)/|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Date|Repo|Reverse Repo|Variable Rate Repo|Variable Rate Reverse Repo|MSF|SDF|Liquidity Facilities|Sale|Purchase|Absorption (-) (1+3+5+7+9-2-4-6-8)|
+||1|2|3|4|5|6|7|8|9|10|
+|Mar. 11, 2024|-|-|-|-|6041|69890|-|-|-|-63849|
+|Mar. 12, 2024|-|-|-|-|749|76554|-|-|-|-75805|
+|Mar. 13, 2024|-|-|-|-|3420|87592|-654|-|-|-84826|
+|Mar. 14, 2024|-|-|-|39670|1993|62397|-538|-|-|-100612|
+|Mar. 15, 2024|-|-|75001|-|3235|78427|1192|-|-|1001|
+|Mar. 16, 2024|-|-|-|-|4048|63209|-|-|-|-59161|
+|Mar. 17, 2024|-|-|-|-|1126|51071|-|-|-|-49945|
+
+SDF: Standing Deposit Facility; MSF: Marginal Standing Facility.
+
+The above information can be accessed on Internet at <u>[https://wss.rbi.org.in/](https://wss.rbi.org.in/)</u> The concepts and methodologies for WSS are available in Handbook on WSS (<u>[https://rbi.org.in/scripts/PublicationsView.aspx?id=15762](https://rbi.org.in/scripts/PublicationsView.aspx?id=15762)</u>). Time series data are available at <u>[https://dbie.rbi.org.in](https://dbie.rbi.org.in)</u>
+
+## Ajit Prasad
+
+**Press Release: 2023-2024/2102** Director (Communications)
