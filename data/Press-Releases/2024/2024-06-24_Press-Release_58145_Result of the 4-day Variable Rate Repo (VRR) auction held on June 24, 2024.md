@@ -1,0 +1,47 @@
+---
+doc_id: "Press-Releases_2024_58145"
+title: "Result of the 4-day Variable Rate Repo (VRR) auction held on June 24, 2024"
+category: "Press-Releases"
+year: 2024
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR548518975C8286C4D81B85582ED306525C3.PDF"
+pdf_sha256: "2de5d03e40dccb11a2479283a99aacac6ff0cc9bd7422c9ff84de3e255e2bca0"
+md_sha256: "437fb28ade4ff1bd5642d3e8758e212b4c3fd71f9c4d6e1071f036d9299534f8"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:40:52Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-06-24_Press-Release_58145_Result%20of%20the%204-day%20Variable%20Rate%20Repo%20%28VRR%29%20auction%20held%20on%20June%2024%2C%202024.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the 4-day Variable Rate Repo (VRR) auction held on June 24, 2024
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## June 24, 2024
+
+## Result of the 4-day Variable Rate Repo (VRR) auction held on June 24, 2024
+
+|Tenor|4-day|
+|---|---|
+|Notified Amount (in ₹ crore)|25,000|
+|Total amount of bids received (in ₹ crore)|38,890|
+|Amount allotted (in ₹ crore)|25,005|
+|Cut off Rate (%)|6.51|
+|Weighted Average Rate (%)|6.53|
+|Partial Allotment Percentage of bids received at cut off rate (%)|15.82|
+
+## Ajit Prasad
+
+## Press Release: 2024-2025/548
+
+Deputy General Manager (Communications)
