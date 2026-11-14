@@ -1,0 +1,44 @@
+---
+doc_id: "Press-Releases_2026_62493"
+title: "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Industrial Co-operative Bank Ltd., Guwahati – Extension of period"
+category: "Press-Releases"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15003FDD63374A4F84AE3BC0ABCA648865.PDF"
+pdf_sha256: "817f6ef850b9069f70f708c1f6f618086e1749ae9288a1d4458a8af55a418c99"
+md_sha256: "1223354c79d39ec7a7423f915e58daf2bcf5fc6ebaf41e290fd13852203536e9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T01:10:36Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-04-02_Press-Release_62493_Directions%20under%20Section%2035A%20read%20with%20Section%2056%20of%20the%20Banking%20Regulation%20Act%2C%201949%20%28As%20Applicable%20to%20Co-operative%20Societies%29%20%E2%80%93%20The%20Industrial%20Co-operative%20Bank%20Lt.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Industrial Co-operative Bank Ltd., Guwahati – Extension of period
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़वर् बैंक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## April 02, 2026
+
+## Directions under Section 35A read with Section 56 of the Banking Regulation
+
+**Act, 1949 (As Applicable to Co-operative Societies) – The Industrial Co- operative Bank Ltd., Guwahati – Extension of period**
+
+The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Industrial Co-operative Bank Ltd., Guwahati vide Directive No.GWH.DOS.ADM.No.S103/01-10-101/2025-26 dated July 03, 2025 for a period of six months up to close of business on January 04, 2026 which was last extended up to close of business on April 04, 2026 vide Directive No.DOR.MON./D-45/12-29-104/2025-26 dated December 24, 2025. The Reserve Bank of India is satisfied that in the public interest, it is necessary to further extend the period of operation of the Directive beyond close of business on April 04, 2026.
+
+2. Accordingly, the Reserve Bank of India, in exercise of powers vested in it under sub-section (1) of Section 35A read with Section 56 of the Banking Regulation Act, 1949, hereby extends the Directions for a further period of three months from the close of business on April 04, 2026 to the close of business on July 04, 2026, subject to review.
+3. All other terms and conditions of the Directive under reference shall remain unchanged.
+## (Brij Raj)
+
+## Press Release: 2026-2027/15
+
+Chief General Manager
