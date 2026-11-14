@@ -1,0 +1,47 @@
+---
+doc_id: "Press-Releases_2025_59755"
+title: "Result of the Daily Variable Rate Repo (VRR) auction held on February 14, 2025"
+category: "Press-Releases"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR21575BF63EA846B34C35AE6EA310E02C39AC.PDF"
+pdf_sha256: "e3e7057d54b9132fea2bef0ff38bcf4802530945554c325040698982512e5148"
+md_sha256: "8998a1e3978d86eab62085df02c046a4db56c583ccb233ab433dbc0ce1e4bda5"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:51:55Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-02-14_Press-Release_59755_Result%20of%20the%20Daily%20Variable%20Rate%20Repo%20%28VRR%29%20auction%20held%20on%20February%2014%2C%202025.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the Daily Variable Rate Repo (VRR) auction held on February 14, 2025
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़वर् बैंक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## February 14, 2025
+
+## Result of the Daily Variable Rate Repo (VRR) auction held on February 14, 2025
+
+|Tenor|3-day|
+|---|---|
+|Notified Amount (in ₹ crore)|1,50,000|
+|Total amount of bids received (in ₹ crore)|1,93,363|
+|Amount allotted (in ₹ crore)|1,50,016|
+|Cut off Rate (%)|6.26|
+|Weighted Average Rate (%)|6.27|
+|Partial Allotment Percentage of bids received at cut off rate (%)|46.98|
+
+## Ajit Prasad
+
+## Press Release: 2024-2025/2157
+
+Deputy General Manager (Communications)
