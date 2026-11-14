@@ -1,0 +1,42 @@
+---
+doc_id: "Press-Releases_2025_59935"
+title: "RBI approves the voluntary amalgamation of Jawahar Sahakari Bank Ltd., Hupri with Kallappanna Awade Ichalkaranji Janata Sahakari Bank Ltd"
+category: "Press-Releases"
+year: 2025
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2337150B0327974A45CBAD1ED0332B68BD73.PDF"
+pdf_sha256: "d28384071ca32c397858769608875bb0d6653fa28ecc210167809b06a09d294b"
+md_sha256: "953ed6f9763dcc81130f8c603737052d7448a8fe50b35b2887274df45d1f87ce"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:53:13Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-03-07_Press-Release_59935_RBI%20approves%20the%20voluntary%20amalgamation%20of%20Jawahar%20Sahakari%20Bank%20Ltd.%2C%20Hupri%20with%20Kallappanna%20Awade%20Ichalkaranji%20Janata%20Sahakari%20Bank%20Ltd.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI approves the voluntary amalgamation of Jawahar Sahakari Bank Ltd., Hupri with Kallappanna Awade Ichalkaranji Janata Sahakari Bank Ltd
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक||
+|RESERVE BANK OF INDIA||
+|0 वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## March 07, 2025
+
+## RBI approves the voluntary amalgamation of Jawahar Sahakari Bank Ltd.,
+
+## Hupri with Kallappanna Awade Ichalkaranji Janata Sahakari Bank Ltd
+
+The Reserve Bank of India has sanctioned the Scheme of Amalgamation of Jawahar Sahakari Bank Ltd., Hupri with Kallappanna Awade Ichalkaranji Janata Sahakari Bank Ltd. The Scheme has been sanctioned in exercise of the powers conferred under sub-section (4) of Section 44A read with Section 56 of the Banking Regulation Act, 1949. The Scheme will come into force with effect from March 10, 2025 (Monday). All the branches of Jawahar Sahakari Bank Ltd., Hupri, will function as branches of Kallappanna Awade Ichalkaranji Janata Sahakari Bank Ltd., with effect from March 10, 2025.
+
+## (Puneet Pancholy)
+
+## Press Release: 2024-2025/2337
+
+Chief General Manager
