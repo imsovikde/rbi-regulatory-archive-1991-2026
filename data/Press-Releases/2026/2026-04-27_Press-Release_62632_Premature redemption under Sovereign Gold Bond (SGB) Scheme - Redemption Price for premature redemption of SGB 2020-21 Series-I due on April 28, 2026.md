@@ -1,0 +1,45 @@
+---
+doc_id: "Press-Releases_2026_62632"
+title: "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series-I due on April 28, 2026"
+category: "Press-Releases"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1546D28265B1E284750AC9B8E044F71EF32.PDF"
+pdf_sha256: "8709f8ee24a7fa403118eb70ba1ac2fa7ed0cd942d77620da668278fef41550b"
+md_sha256: "854462427549112baa0d539541b66b49f032a4093cba6fb1150074279280ad56"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T01:11:29Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-04-27_Press-Release_62632_Premature%20redemption%20under%20Sovereign%20Gold%20Bond%20%28SGB%29%20Scheme%20-%20Redemption%20Price%20for%20premature%20redemption%20of%20SGB%202020-21%20Series-I%20due%20on%20April%2028%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series-I due on April 28, 2026
+
+<!-- PAGE 1 -->
+
+|प्रेस प्रकाशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़वर् बैंक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, कें द्र ी य कायार्लय, शहीद भगत िसंह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## April 27, 2026
+
+## Premature redemption under Sovereign Gold Bond (SGB) Scheme -
+
+## Redemption Price for premature redemption of SGB 2020-21 Series-I due on
+
+## April 28, 2026
+
+In terms of <u>GOI notification F.No.4(4)-B(W&M)/2020 dated April 13, 2020</u> (SGB 2020-21 Series-I-Issue date April 28, 2020) on Sovereign Gold Bond Scheme, premature redemption of Gold Bond may be permitted after fifth year from the date of issue of such Gold Bond on the date on which interest is payable. Accordingly, the next due date of premature redemption of the above tranche shall be on April 28, 2026.
+
+2. Further, the redemption price of SGB shall be based on simple average of closing price of gold of 999 purity of previous three business days from the date of redemption, as published by the India Bullion and Jewellers Association Ltd (IBJA). Accordingly, the redemption price for premature redemption due on April 28, 2026, shall be **₹15,124/- (Rupees Fifteen Thousand One Hundred and Twenty Four Only)** per unit of SGB based on the simple average of closing price of gold for the three business days i.e., April 23, April 24, and April 27, 2026.
+## Ajit Prasad
+
+## Press Release: 2026-2027/154
+
+Deputy General Manager (Communications)
