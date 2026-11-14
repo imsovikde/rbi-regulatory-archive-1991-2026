@@ -1,0 +1,76 @@
+---
+doc_id: "Press-Releases_2026_62929"
+title: "Money Market Operations as on June 12, 2026"
+category: "Press-Releases"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR451MMOC2BD590C0DA94A96858A02D09BE1B970.PDF"
+pdf_sha256: "d89f7a3864363725603968bfb8b41ffa187d2053fef0eb37ef12971efe9f18e4"
+md_sha256: "5553ca872b0d3c54cadaf3de00dc2aa3e7ef3bb6ccb67a7a2d1aed19dd013b8f"
+total_pages: 2
+native_pages: 2
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T01:13:28Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-06-15_Press-Release_62929_Money%20Market%20Operations%20as%20on%20June%2012%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Money Market Operations as on June 12, 2026
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक ैं||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## June 15, 2026
+
+## Money Market Operations as on June 12, 2026
+
+(Amount in ₹ Crore, Rate in Per cent)
+
+||@ MONEY MARKETS|Volume (One Leg)|Weighted Average Rate|Range|
+|---|---|---|---|---|
+|A.|Overnight Segment (I+II+III+IV)|6,85,828.90|5.15|3.50-5.40|
+||I. Call Money II. Triparty Repo|14,966.55 4,90,422.15|5.27 5.14|4.60-5.35 4.90-5.35|
+||III. Market Repo IV. Repo in Corporate Bond|1,73,690.90 6,749.30|5.16 5.27|3.50-5.40 5.25-5.35|
+|B.|Term Segment||||
+||I. Notice Money**|1,308.00|5.32|4.90-5.35|
+||@@ II. Term Money|368.50|-|6.00-6.20|
+||III. Triparty Repo|5,755.00|5.37|5.25-5.52|
+||IV. Market Repo|1,197.93|5.58|5.40-5.75|
+||V. Repo in Corporate Bond|0.00|-|-|
+
+||@ RBI OPERATIONS|Auction Date|Tenor (Days)|Maturity Date|Amount|Current Rate/Cut off Rate|
+|---|---|---|---|---|---|---|
+|C.||Liquidity Adjustment Facility (LAF), Marginal Standing Facility (MSF) & Standing Deposit Facility (SDF)|||||
+|I|1. Fixed Rate & 2. Variable Rate (a) Repo Operation (b) Reverse Repo Operation|Today's Operations|||||
+||# 3. MSF|Fri, 12/06/2026|1|Sat, 13/06/2026|974.00|5.50|
+|||Fri, 12/06/2026|2|Sun, 14/06/2026|0.00|5.50|
+|||Fri, 12/06/2026|3|Mon, 15/06/2026|1,445.00|5.50|
+||4. SDFΔ#|Fri, 12/06/2026|1|Sat, 13/06/2026|1,54,338.00|5.00|
+|||Fri, 12/06/2026|2|Sun, 14/06/2026|90.00|5.00|
+||5. Net liquidity injected from today's operations [injection (+)/absorption (-)]*|Fri, 12/06/2026|3|Mon, 15/06/2026|24,037.00 -1,76,046.00|5.00|
+|II|1. Fixed Rate & 2. Variable Rate (a) Repo Operation (b) Reverse Repo Operation # 3. MSF 4. SDFΔ#|Outstanding Operations|||||
+|D.|Standing Liquidity Facility (SLF) Availed $ from RBI||||10,504.79||
+|E.|Net liquidity injected from outstanding operations [injection (+)/absorption (-)]*||||10,504.79||
+|F.|Net liquidity injected (outstanding including today's operations) [injection (+)/absorption (-)]*||||-1,65,541.21||
+
+<!-- PAGE 2 -->
+
+||@ RESERVE POSITION|Date|Amount|
+|---|---|---|---|
+|G.|Cash Reserves Position of Scheduled Commercial Banks (i) Cash balances with RBI as on (ii) Average daily cash reserve requirement for the fortnight ending^|June 12, 2026 June 15, 2026|7,73,041.22 7,90,713.00|
+|H.|¥ Government of India Surplus Cash Balance Reckoned for Auction as on|June 12, 2026|0.00|
+|I.|Net durable liquidity [surplus (+)/deficit (-)] as on|May 15, 2026|2,65,955.00|
+
+@ Based on Reserve Bank of India (RBI) / Clearing Corporation of India Limited (CCIL). − Not Applicable / No Transaction. ** Relates to uncollateralized transactions of 2 to 14 days tenor. @@ Relates to uncollateralized transactions of 15 days to one year tenor. $ Includes refinance facilities extended by RBI. & As per the <u>Press Release No. 2025-2026/1201 dated September 30, 2025</u>. Δ As per the <u>Press Release No. 2022-2023/41 dated April 08, 2022</u>.
+
+* Net liquidity is calculated as Repo+MSF+SLF-Reverse Repo-SDF. ¥ As per the <u>Press Release No. 2014-2015/1971 dated March 19, 2015</u>. # As per the <u>Press Release No. 2023-2024/1548 dated December 27, 2023</u>. ^ As per the <u>notification No. RBI/2025-26/148 DOR.RET.REC.354/12.01.001/2025-26 dated December 11, 2025</u>.
+## Ajit Prasad
+
+**Press Release: 2026-2027/451** Deputy General Manager (Communications)
