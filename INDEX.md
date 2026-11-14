@@ -3,9 +3,9 @@
 ## Conversion progress
 
 - **Total PDFs:** 88236
-- **Converted to Markdown:** 81497
-- **Remaining:** 6739
-- **Progress:** [#####################################---] 92.3625%
+- **Converted to Markdown:** 88236
+- **Remaining:** 0
+- **Progress:** [########################################] 100.0000%
 
 | Category | Total | Converted | Progress |
 | --- | ---: | ---: | ---: |
@@ -14,7 +14,7 @@
 | Master-Circulars | 1013 | 1013 | 100.0000% |
 | Draft-Notifications-Guidelines | 546 | 546 | 100.0000% |
 | Circulars | 11690 | 11690 | 100.0000% |
-| Press-Releases | 64063 | 57324 | 89.4807% |
+| Press-Releases | 64063 | 64063 | 100.0000% |
 
 ## Categories
 
@@ -63,6 +63,6 @@
 | 2021 | 2375 | 2375 | [index](index/by_year/2021.md) |
 | 2022 | 2431 | 2431 | [index](index/by_year/2022.md) |
 | 2023 | 2510 | 2510 | [index](index/by_year/2023.md) |
-| 2024 | 2880 | 920 | [index](index/by_year/2024.md) |
-| 2025 | 3913 | 1236 | [index](index/by_year/2025.md) |
-| 2026 | 3228 | 1126 | [index](index/by_year/2026.md) |
+| 2024 | 2880 | 2880 | [index](index/by_year/2024.md) |
+| 2025 | 3913 | 3913 | [index](index/by_year/2025.md) |
+| 2026 | 3228 | 3228 | [index](index/by_year/2026.md) |

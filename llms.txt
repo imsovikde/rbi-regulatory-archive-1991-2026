@@ -2,7 +2,7 @@
 
 Agent entry point. Every RBI regulatory PDF, 1991-2026, converted to GitHub-Flavored Markdown. PDFs are the source of truth and live on Hugging Face; this repository holds the Markdown and indexes.
 
-Total PDFs: 88236. Converted: 81497 (92.3625%).
+Total PDFs: 88236. Converted: 88236 (100.0000%).
 Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
 ## Indexes
@@ -18,7 +18,7 @@ Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2
 - Master-Circulars: 1013/1013 converted, index/by_category/Master-Circulars.md
 - Draft-Notifications-Guidelines: 546/546 converted, index/by_category/Draft-Notifications-Guidelines.md
 - Circulars: 11690/11690 converted, index/by_category/Circulars.md
-- Press-Releases: 57324/64063 converted, index/by_category/Press-Releases.md
+- Press-Releases: 64063/64063 converted, index/by_category/Press-Releases.md
 
 ## Years
 
