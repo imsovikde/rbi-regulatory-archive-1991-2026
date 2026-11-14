@@ -1,0 +1,47 @@
+---
+doc_id: "Press-Releases_2026_63447"
+title: "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 27, 2026"
+category: "Press-Releases"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9697AF19391E1424D45B4B26CA33B1760C3.PDF"
+pdf_sha256: "fff690c33faf21968ed697e07c5e6831b3b271706b342b316cac01641b5a45e4"
+md_sha256: "d052ef9970db35dcffddd5216967fb8caf93387fec652cd9cfe7be5714d9feb3"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T01:16:58Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-08-27_Press-Release_63447_Result%20of%20the%20Overnight%20Variable%20Rate%20Reverse%20Repo%20%28VRRR%29%20auction%20held%20on%20August%2027%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 27, 2026
+
+<!-- PAGE 1 -->
+
+|प्रेस प्रकाशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार वभाग, कें द्र य कायार्लय, शहद भगत स ंह मागर्, फोटर्, म ंबई - 400 001 ु|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## August 27, 2026
+
+## Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 27, 2026
+
+|Tenor|1-day|
+|---|---|
+|Notified Amount (in ₹ crore)|2,00,000|
+|Total amount of offers received (in ₹ crore)|1,42,622|
+|Amount accepted (in ₹ crore)|1,42,622|
+|Cut off Rate (%)|5.24|
+|Weighted Average Rate (%)|5.24|
+|Partial Acceptance Percentage of offers received at cut off rate|N.A.|
+
+## Ajit Prasad
+
+## Press Release: 2026-2027/969
+
+Deputy General Manager (Communications)
