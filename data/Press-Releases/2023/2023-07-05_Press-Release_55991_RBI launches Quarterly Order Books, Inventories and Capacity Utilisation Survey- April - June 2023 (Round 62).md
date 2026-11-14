@@ -1,0 +1,49 @@
+---
+doc_id: "Press-Releases_2023_55991"
+title: "RBI launches Quarterly Order Books, Inventories and Capacity Utilisation Survey: April - June 2023 (Round 62)"
+category: "Press-Releases"
+year: 2023
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR541B8D603BC010B4C9F9D37AFBC43FC0CBA.PDF"
+pdf_sha256: "e009ab434e24242077acf8b3b84bbb611521b0c09954887df835079957c87d38"
+md_sha256: "2f12f68330cb0974c941e744a0924246a82fabef53d4997ab579f6ffaa8fc8c9"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.4"
+converted_at_utc: "2026-11-14T00:06:47Z"
+source: "hf"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-07-05_Press-Release_55991_RBI%20launches%20Quarterly%20Order%20Books%2C%20Inventories%20and%20Capacity%20Utilisation%20Survey-%20April%20-%20June%202023%20%28Round%2062%29.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI launches Quarterly Order Books, Inventories and Capacity Utilisation Survey: April - June 2023 (Round 62)
+
+<!-- PAGE 1 -->
+
+|प्रेस प्रकाशनी PRESS RELEASE||
+|---|---|
+|भारतीय रज़व बक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार वभाग, कद्रय कायार्लय, शहद भगत स ंह मागर्, फोटर्, म ंबई-400001 ु|
+|Website : www.rbi.org.in ई-मेल/email : helpdoc@rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort, Mumbai-400001 फोन/Phone: 022- 22660502|
+
+## July 05, 2023
+
+## RBI launches Quarterly Order Books, Inventories and Capacity Utilisation Survey:
+
+## April-June 2023 (Round 62)
+
+The Reserve Bank of India has launched the <u>62</u> <u>nd</u> <u>round</u> of its Order Books, Inventories and Capacity Utilisation Survey (OBICUS). The survey is for the reference period April-June 2023 (Q1:2023-24).
+
+The Reserve Bank has been conducting the Order Books, Inventories and Capacity Utilisation Survey (OBICUS) of the manufacturing sector on a quarterly basis since 2008. The information collected in the survey includes quantitative data on new orders received during the reference quarter, backlog of orders at the beginning of the quarter, pending orders at the end of the quarter, total inventories with a breakup between finished goods (FG), work-in-progress (WiP) and raw material (RM) inventories at the end of the quarter, item-wise production in terms of quantity and value during the quarter *vis-‡-vis* the installed capacity from the targeted group and the reasons for changes in production / installed capacity during the quarter. The level of capacity utilisation (CU) is estimated from these responses. The survey provides valuable input for monetary policy formulation. <u>The survey findings are released on the website of the Bank regularly</u>.
+
+During this quarter, selected manufacturing companies will be approached by the Bank. Other manufacturing companies may also participate in the survey by downloading the <u>survey questionnaire</u> from the Reserve Bank’s website <u>[https://www.rbi.org.in](https://www.rbi.org.in)</u>. The survey questionnaire is placed under the head ‘Forms’ (available under the ‘More Links’ at the bottom of the home page) and sub-head ‘<u>Survey</u>’. The duly authenticated filled-in survey schedule may be e-mailed as per contact details provided in the survey schedule.
+
+Company level data are treated as confidential and never disclosed.
+
+In case of any query/clarification, kindly contact us at the following address:
+
+The Director, Division of Enterprise Surveys, Department of Statistics and Information Management, Reserve Bank of India, C-8, 2 nd floor, Bandra-Kurla Complex, Bandra (East), Mumbai - 400051, Phone - 022-26578235/279; Please <u>click here</u> to send email.
+
+## Ajit Prasad
+
+**Press Release: 2023-2024/541** Director (Communications)
