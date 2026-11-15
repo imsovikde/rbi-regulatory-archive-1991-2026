@@ -138,6 +138,9 @@ forbidden.
 
 ## Model Context Protocol (MCP) & Query Engine
 
+[![MCP Integrity & Edge Parity Audit](https://github.com/imsovikde/rbi-doc-mcp/actions/workflows/mcp_integrity.yml/badge.svg)](https://github.com/imsovikde/rbi-doc-mcp/actions/workflows/mcp_integrity.yml)
+[![Live MCP Endpoint](https://img.shields.io/badge/Endpoint-https%3A%2F%2Frbi--doc--mcp.imsovikde.workers.dev%2Fmcp-green.svg)](https://rbi-doc-mcp.imsovikde.workers.dev/mcp)
+
 AI agents and developer applications can query the complete archive via the official Model Context Protocol server:
 - Canonical MCP Endpoint: `https://rbi-doc-mcp.imsovikde.workers.dev/mcp`
 - GitHub Repository: [imsovikde/rbi-doc-mcp](https://github.com/imsovikde/rbi-doc-mcp)

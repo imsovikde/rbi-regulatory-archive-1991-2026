@@ -20,33 +20,51 @@ The server operates on Cloudflare Workers backed by Cloudflare D1 (SQLite FTS5 f
    - Handles standard Model Context Protocol JSON-RPC 2.0 requests via HTTP POST (`initialize`, `tools/list`, `tools/call`).
    - Handles Server-Sent Events (SSE) connections via HTTP GET when the client sends `Accept: text/event-stream`.
    - Handles diagnostic schema discovery via HTTP GET, returning available tools and protocol version.
+   - Case-insensitive routing: both `/mcp` and `/MCP` route to the same handler.
 2. Root Route: `/` (e.g. `https://rbi-doc-mcp.imsovikde.workers.dev/`)
-   - Reserved for the future web portal homepage. Currently returns service routing metadata pointing to `/mcp`.
+   - Reserved for the future web portal homepage. Currently returns service routing metadata pointing clients to `/mcp`.
 3. Health Check: `/health`
    - Returns JSON status confirming D1 database connection, R2 storage bindings, and active execution planes.
 
 ---
 
-## 2. Public Zero-Setup Tier: Instant Access Without Authentication
+## 2. Public Zero-Setup Tier: Instant Access Without Any Signup
 
-Anyone can query the MCP server immediately without an API key, credit card, or user registration.
+Anyone can query the MCP server immediately without an account, credit card, or API key.
 
-### How the Public Tier Works
+### How Public Access Operates
 - Header requirement: None.
-- Authentication method: Open anonymous access.
+- Sign-up requirement: None.
 - Rate limit: 60 requests per minute per IP address.
-- Burst allowance: Up to 60 requests before throttling begins.
-- Use cases: Local agent execution, development, ad-hoc research, and command-line experimentation.
+- Burst allowance: Up to 60 requests instantaneously before throttling begins.
+- Use cases: Local agent execution, developer experimentation, rapid statutory lookups, and ad-hoc compliance checks.
 
-When an unauthenticated request arrives at `/mcp`, the edge worker checks the client IP against an in-memory token bucket. If the bucket has remaining tokens, the request processes with sub-50ms latency. If the limit is exceeded, the server returns HTTP 429 with a `Retry-After` header indicating how many seconds to wait before retrying.
+When an unauthenticated request arrives at `/mcp`, the edge worker inspects the client IP address against an in-memory token bucket. If the bucket has tokens remaining, the request processes with sub-50ms latency. If the limit is exceeded, the server returns HTTP 429 with a `Retry-After` header indicating how many seconds to wait before retrying.
+
+### Rate Limit Optimization for Public Users: Code Mode
+
+In standard MCP tool calling, an agent answering a complex question might make 5 to 10 sequential round-trips:
+1. Search documents
+2. Retrieve text
+3. Trace statutory amendments
+4. Check point-in-time validity
+5. Format citation
+
+Under the public rate limit of 60 requests per minute, making 10 individual calls for a single query consumes 10 tokens.
+
+To optimize token consumption, public users can use Plane 1 Code Mode (`rbi_doc_execute_code`). The agent sends a single JavaScript snippet that executes all database queries, joins, and filtering inside the Cloudflare edge node in a single request. The entire multi-hop lookup consumes **only 1 token**, allowing users to perform dozens of complex legal research tasks without hitting limits.
 
 ---
 
-## 3. Claude Code Integration
+## 3. Claude Code Integration: Step-by-Step Walkthrough
 
-Claude Code supports remote MCP servers over HTTP POST. You can configure the server with or without authentication.
+Claude Code supports remote MCP servers over HTTP POST.
 
-### Option A: Public Tier (No Authentication Required)
+### Scenario A: You Do Not Have an Account (Public Zero-Setup Mode)
+
+If you do not have an account, do not want to register, and just want the server to work immediately:
+
+#### Method 1: Single Terminal Command
 
 Run this command in your terminal:
 
@@ -54,19 +72,28 @@ Run this command in your terminal:
 claude mcp add rbi-doc-mcp https://rbi-doc-mcp.imsovikde.workers.dev/mcp
 ```
 
-Claude Code connects to the endpoint, runs protocol handshake, lists available tools, and makes them accessible in your chat sessions.
+Claude Code connects to `https://rbi-doc-mcp.imsovikde.workers.dev/mcp`, performs the MCP `initialize` handshake, retrieves the list of 8 tools, and configures the server.
 
-### Option B: Authenticated Tier (API Key or Token)
+#### Method 2: Interactive Terminal Wizard
 
-If you have an enterprise API key or access token, pass it via headers during registration:
+If you run `claude mcp add` without inline flags, Claude Code prompts:
 
-```bash
-claude mcp add rbi-doc-mcp https://rbi-doc-mcp.imsovikde.workers.dev/mcp --header "Authorization: Bearer YOUR_API_KEY"
+```text
+Enter MCP server name: rbi-doc-mcp
+Enter server URL: https://rbi-doc-mcp.imsovikde.workers.dev/mcp
+Choose authentication method:
+  > [1] None / Public (No authentication required)
+    [2] HTTP Bearer Token
+    [3] OAuth 2.0 / 2.1
+    [4] Custom Headers
 ```
 
-### Option C: Manual Configuration File
+**What option to choose:** Select **`[1] None / Public`**.
+No username, password, or API key is required. Claude Code stores the configuration and connects immediately under the public rate limit.
 
-Alternatively, add the server directly to your project or user configuration file (`~/.claude/config.json`):
+#### Method 3: Manual Configuration File
+
+Alternatively, add the server directly to `~/.claude/config.json`:
 
 ```json
 {
@@ -81,9 +108,25 @@ Alternatively, add the server directly to your project or user configuration fil
 }
 ```
 
+### Scenario B: Authenticated Access (API Key or Cloudflare Access)
+
+If you have an enterprise API key or Cloudflare Access credentials:
+
+```bash
+claude mcp add rbi-doc-mcp https://rbi-doc-mcp.imsovikde.workers.dev/mcp --header "Authorization: Bearer YOUR_API_KEY"
+```
+
+For Cloudflare Access Zero Trust service tokens:
+
+```bash
+claude mcp add rbi-doc-mcp https://rbi-doc-mcp.imsovikde.workers.dev/mcp \
+  --header "CF-Access-Client-Id: YOUR_CLIENT_ID" \
+  --header "CF-Access-Client-Secret: YOUR_CLIENT_SECRET"
+```
+
 ---
 
-## 4. Claude Desktop and Cursor Integration
+## 4. Claude Desktop and Cursor IDE Integration
 
 ### Claude Desktop
 
@@ -108,7 +151,7 @@ Add the following configuration:
 }
 ```
 
-If connecting with an API key, add `RBI_DOC_MCP_API_KEY` to the `env` object:
+If connecting with an enterprise API key, add `RBI_DOC_MCP_API_KEY`:
 
 ```json
 {
@@ -145,86 +188,70 @@ Create or edit `.cursor/mcp.json` in your project root:
 
 ---
 
-## 5. OAuth 2.1 PKCE Authentication Flow and UI Login Screen
+## 5. OAuth 2.1 PKCE Flow and Interactive Browser Login Screen
 
-For multi-tenant web applications, mobile apps, and developer portals, the MCP server supports OAuth 2.1 authorization with Proof Key for Code Exchange (PKCE). This eliminates static API keys and protects client secrets from exposure.
+When higher throughput (5,000 requests/minute) or enterprise audit trails are needed, the server supports OAuth 2.1 with Proof Key for Code Exchange (PKCE).
 
-### Step 1: Client Generates PKCE Parameters
+### How the Interactive Login Screen Pops Up
 
-Before initiating authentication, the client generates a high-entropy cryptographic random string called the `code_verifier` (43 to 128 characters) and derives the `code_challenge`:
+1. **Client Initiation**:
+   When an application initiates OAuth, it starts an ephemeral local callback listener on `http://localhost:PORT/callback` and generates a cryptographic `code_verifier` (a high-entropy random string) and `code_challenge`:
+   $$\text{code\_challenge} = \text{base64url}(\text{SHA256}(\text{code\_verifier}))$$
 
-$$\text{code\_challenge} = \text{base64url}(\text{SHA256}(\text{code\_verifier}))$$
+2. **Browser Launch**:
+   The terminal or application launches the system's default browser to the authorization URL:
+   ```
+   https://auth.rbi-doc.imsovikde.workers.dev/authorize?
+     response_type=code
+     &client_id=your-client-id
+     &redirect_uri=http://localhost:PORT/callback
+     &scope=rbi:read
+     &code_challenge=E9Melhoa2OwvFrGMTJguCH5rtx64ZnAqEs9QCAr3349
+     &code_challenge_method=S256
+   ```
 
-### Step 2: User Redirect to UI Login Screen
+3. **Login Screen Visual Design**:
+   The browser opens a clean, trust-first interface designed according to strict editorial principles:
+   - Deep slate neutral canvas (`#090d16` background in dark mode, `#ffffff` in light mode).
+   - Crisp typographic hierarchy using system sans-serif font stack.
+   - 1px subtle borders (`#1e293b`), avoiding oversaturated gradients and generic glassmorphism.
+   - Clear authentication options:
+     - Single Sign-On (SAML 2.0 / OIDC) for banks, law firms, and regulated institutions.
+     - GitHub / Google developer authentication.
+     - Passkey / WebAuthn passwordless sign-in.
+   - Clear disclosure of requested permissions: "Read-only access to RBI regulatory documents, causal amendment graphs, and penalty records (`rbi:read`)."
 
-The client directs the user's browser to the authorization endpoint:
+4. **Authorization and Callback**:
+   When the user clicks "Authorize":
+   - The authorization server validates credentials and creates an authorization code bound strictly to the `code_challenge`.
+   - The browser redirects to `http://localhost:PORT/callback?code=AUTH_CODE_HERE`.
+   - The local listener captures the code and immediately closes.
+   - The browser tab displays: "Authentication successful. You may close this window and return to your terminal."
 
-```
-https://auth.rbi-doc.imsovikde.workers.dev/authorize?
-  response_type=code
-  &client_id=your-client-id
-  &redirect_uri=https://your-app.com/callback
-  &scope=rbi:read
-  &state=random-security-token
-  &code_challenge=E9Melhoa2OwvFrGMTJguCH5rtx64ZnAqEs9QCAr3349
-  &code_challenge_method=S256
-```
+5. **Token Exchange**:
+   The client exchanges the authorization code and `code_verifier` for tokens:
+   ```bash
+   curl -X POST https://auth.rbi-doc.imsovikde.workers.dev/token \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     -d "grant_type=authorization_code" \
+     -d "client_id=your-client-id" \
+     -d "code=AUTH_CODE_HERE" \
+     -d "redirect_uri=http://localhost:PORT/callback" \
+     -d "code_verifier=HIGH_ENTROPY_CODE_VERIFIER"
+   ```
 
-### Step 3: Interactive Login Screen Experience
-
-The browser opens a clean authentication interface:
-1. The user enters their institutional credentials or authenticates via Single Sign-On (SSO).
-2. The screen displays requested scopes: "Read RBI regulatory documents, query compliance graph, access Code Mode SDK".
-3. The user approves access.
-4. The authorization server generates an authorization code bound strictly to the `client_id` and `code_challenge`.
-5. The browser redirects back to `https://your-app.com/callback?code=AUTH_CODE_HERE&state=random-security-token`.
-
-### Step 4: Token Exchange
-
-Your backend exchanges the authorization code for tokens via HTTP POST:
-
-```bash
-curl -X POST https://auth.rbi-doc.imsovikde.workers.dev/token \
-  -H "Content-Type: application/x-www-form-urlencoded" \
-  -d "grant_type=authorization_code" \
-  -d "client_id=your-client-id" \
-  -d "code=AUTH_CODE_HERE" \
-  -d "redirect_uri=https://your-app.com/callback" \
-  -d "code_verifier=HIGH_ENTROPY_CODE_VERIFIER"
-```
-
-The authorization server verifies that $\text{SHA256}(\text{code\_verifier}) == \text{code\_challenge}$. If valid, it returns:
-
-```json
-{
-  "access_token": "oauth_pkce_eyJhbGciOi...",
-  "token_type": "Bearer",
-  "expires_in": 3600,
-  "refresh_token": "rt_8f92a10b4...",
-  "scope": "rbi:read"
-}
-```
-
-### Step 5: Calling the MCP Endpoint with OAuth Token
-
-Pass the access token in the `Authorization` header on all requests to `/mcp`:
-
-```bash
-curl -X POST https://rbi-doc-mcp.imsovikde.workers.dev/mcp \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer oauth_pkce_eyJhbGciOi..." \
-  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"resolve_rbi_doc","arguments":{"identifier":"13143"}}}'
-```
+6. **Automatic Background Refresh**:
+   The authorization server returns an `access_token` (valid for 1 hour) and a `refresh_token` (valid for 30 days). The client automatically refreshes tokens in the background without prompting the user again.
 
 ---
 
-## 6. Enterprise Zero-Trust Authentication (Cloudflare Access)
+## 6. Enterprise Zero-Trust (Cloudflare Access Service Tokens)
 
-For regulated banks, non-banking financial companies (NBFCs), and institutional audit systems, the MCP server integrates with Cloudflare Zero Trust.
+For headless servers, automated compliance monitors, and CI/CD pipelines, Cloudflare Zero Trust service tokens provide perimeter-level security.
 
-### Service Token Headers
+### Service Token Request Format
 
-Automated microservices authenticate using Cloudflare Access Service Tokens:
+Pass the credentials via HTTP request headers:
 
 ```http
 POST /mcp HTTP/1.1
@@ -234,27 +261,27 @@ CF-Access-Client-Id: 5491f092b67841e5927892.access
 CF-Access-Client-Secret: c829401bfd9283749812739487291837498172938471
 ```
 
-### Security Benefits
-- Edge verification: Validated at the Cloudflare network layer before reaching the worker logic.
-- Automated revocation: Revoke access instantly from Cloudflare Zero Trust dashboard without changing application code.
-- Higher quota: Dedicated rate allowance of 10,000 requests per minute.
+### Operational Characteristics
+- Edge validation: Validated by Cloudflare global network edge nodes before touching worker execution memory.
+- Rate limit: 10,000 requests per minute.
+- Revocation: Instant revocation via Cloudflare Zero Trust dashboard without code modifications.
 
 ---
 
 ## 7. Rate Limiting Mathematics and Client Optimization
 
 The server enforces continuous token bucket rate limiting:
-- Public Tier: 60 requests/minute (refill rate: 1.0 token/second).
+- Public Zero-Setup Tier: 60 requests/minute (refill rate: 1.0 token/second).
 - Authenticated Tier: 5,000 requests/minute (refill rate: 83.33 tokens/second).
 - Enterprise Service Tokens: 10,000 requests/minute (refill rate: 166.67 tokens/second).
 
-### Client-Side Backoff and Retry Implementation
+### Client Backoff with Full Jitter
 
-When making high-volume queries, clients should inspect the HTTP status code. If an HTTP 429 response occurs, read the `Retry-After` header and apply exponential backoff with full jitter:
+When building automated query loops, clients should inspect HTTP status codes. If an HTTP 429 response is encountered, read the `Retry-After` header and apply exponential backoff with full jitter:
 
 $$t_{\text{sleep}} = \min(t_{\max}, \ 2^{\text{attempt}} \cdot t_{\text{base}}) \cdot \text{Uniform}(0.5, 1.5)$$
 
-#### Python Example with Automated Retry
+#### Python Client Implementation
 
 ```python
 import time
@@ -305,9 +332,9 @@ def call_mcp_tool_safe(name: str, arguments: dict, api_key: str = None, max_retr
 
 ## 8. Complete MCP Tools Reference
 
-The server exposes two execution planes:
+The server exposes 8 canonical tools organized across two execution planes:
 
-### Plane 1: Cloudflare Code Mode (Token Budget < 900 Tokens)
+### Plane 1: Cloudflare Code Mode (Token Budget < 600 Tokens)
 
 Code Mode allows LLMs to write sandboxed JavaScript code that executes at the Cloudflare edge. The agent queries, filters, joins, and aggregates regulatory data across multiple tables in a single round-trip, returning only the synthesized final answer.
 
@@ -356,7 +383,7 @@ Code Mode allows LLMs to write sandboxed JavaScript code that executes at the Cl
 
 ---
 
-## 9. Verification and Testing
+## 9. Verification Command
 
 Verify your integration with a single curl command:
 
