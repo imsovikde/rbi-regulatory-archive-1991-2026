@@ -1,0 +1,14 @@
+# Circulars — 1997
+
+- **Folder:** `Circulars`
+- **Year:** `1997`
+- **Total Documents:** 4
+- **Converted to Markdown:** 4 (100.0000%)
+- **Navigation:** [Root Index](../../../INDEX.md) | [Category Index](../../../index/by_category/Circulars.md) | [Year Index](../../../index/by_year/1997.md)
+
+| Filename | Markdown | Source PDF | Status |
+| --- | --- | --- | --- |
+| 1997-01-20_Circular_DOS.No.BC.3-08.91.020-96_Public Sector Banks - Audit Committee of Board of Directors (ACB) | [Markdown](./1997-01-20_Circular_DOS.No.BC.3-08.91.020-96_Public%20Sector%20Banks%20-%20Audit%20Committee%20of%20Board%20of%20Directors%20%28ACB%29.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-01-20_Circular_DOS.No.BC.3-08.91.020-96_Public%20Sector%20Banks%20-%20Audit%20Committee%20of%20Board%20of%20Directors%20%28ACB%29.pdf) | DONE |
+| 1997-04-30_Circular_Notification DFC (COC) No.108.ED(JRP)-97_Amended upto 01.07.2005 - Regulations relating to Maintenance of Liquid Assets by NBFCs - RNBCs | [Markdown](./1997-04-30_Circular_Notification%20DFC%20%28COC%29%20No.108.ED%28JRP%29-97_Amended%20upto%2001.07.2005%20-%20Regulations%20relating%20to%20Maintenance%20of%20Liquid%20Assets%20by%20NBFCs%20-%20RNBCs.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-04-30_Circular_Notification%20DFC%20%28COC%29%20No.108.ED%28JRP%29-97_Amended%20upto%2001.07.2005%20-%20Regulations%20relating%20to%20Maintenance%20of%20Liquid%20Assets%20by%20NBFCs%20-%20RNBCs.pdf) | DONE |
+| 1997-04-30_Circular_Notification DFC(COC) No.108.ED(JRP)-97_Amended upto 03-08-2004 - RBI (NBFC) Returns Specifications - 1997 | [Markdown](./1997-04-30_Circular_Notification%20DFC%28COC%29%20No.108.ED%28JRP%29-97_Amended%20upto%2003-08-2004%20-%20RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-04-30_Circular_Notification%20DFC%28COC%29%20No.108.ED%28JRP%29-97_Amended%20upto%2003-08-2004%20-%20RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.pdf) | DONE |
+| 1997-04-30_Circular_Notification DFC(COC).No.108.ED(JRP)-97_Amended upto 18.12.1998 - RBI (NBFC) Returns Specifications - 1997 | [Markdown](./1997-04-30_Circular_Notification%20DFC%28COC%29.No.108.ED%28JRP%29-97_Amended%20upto%2018.12.1998%20-%20RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-04-30_Circular_Notification%20DFC%28COC%29.No.108.ED%28JRP%29-97_Amended%20upto%2018.12.1998%20-%20RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.pdf) | DONE |

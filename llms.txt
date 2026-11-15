@@ -5,10 +5,18 @@ Agent entry point. Every RBI regulatory PDF, 1991-2026, converted to GitHub-Flav
 Total PDFs: 88236. Converted: 88236 (100.0000%).
 Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
+## Agent Navigation & Triage (Fast <= 3 Tool Calls)
+
+- Triage Guide & Statutory Hierarchy: index/agent_router/TRIAGE_GUIDE.md
+- Controlling Master Directions by Regulated Entity: index/agent_router/active_master_directions_by_entity.md and .json
+- Circular Reference Map (e.g. RBI/2025-26/123 -> .md path): index/agent_router/circular_ref_to_path.json
+- Causal Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl
+
 ## Indexes
 
 - Master index: INDEX.md
-- URL lookup (any RBI or Hugging Face URL to .md path): index/url_to_path_map.json
+- URL lookup shards (256 compact shards, sha256(url)[:2]): index/url_shards/<00..ff>.json
+- URL lookup master: index/url_to_path_map.json
 - Full catalog (one JSON object per document, one shard per year): manifest/catalog/<YYYY>.jsonl
 
 ## Categories
@@ -26,6 +34,8 @@ Per-year indexes: index/by_year/<YYYY>.md and index/by_year/<YYYY>.json for 1991
 
 ## How to find a document
 
-1. If you have an RBI URL, look it up in index/url_to_path_map.json to get the data/<path>.md file.
-2. If you have a category and year, open the matching index/by_year/<YYYY>.md table.
-3. Converted Markdown lives under data/<Folder>/<Year>/ with the exact PDF stem and a .md extension.
+1. For prevailing law by institution type, consult index/agent_router/active_master_directions_by_entity.md.
+2. For a circular number (e.g. RBI/2024-25/123), consult index/agent_router/circular_ref_to_path.json.
+3. For an RBI or HF URL, compute sha256(url.lower())[:2] and check index/url_shards/<hex>.json.
+4. For category and year, open index/by_year/<YYYY>.md or data/<Folder>/<Year>/INDEX.md.
+5. Converted Markdown lives under data/<Folder>/<Year>/ with the exact PDF stem and a .md extension.

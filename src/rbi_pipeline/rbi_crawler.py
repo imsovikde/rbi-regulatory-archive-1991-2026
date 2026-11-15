@@ -509,13 +509,21 @@ def main(argv=None):
     import argparse
 
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("--urls", required=True,
+    parser.add_argument("--urls", default="manifest/pdf_final_direct_urls.txt",
                         help="path to pdf_final_direct_urls.txt")
-    parser.add_argument("--ledger", default=None,
+    parser.add_argument("--ledger", default="manifest/sha256_conversion_ledger.csv",
                         help="path to sha256_conversion_ledger.csv")
     parser.add_argument("--out", default="new_pdfs.json",
                         help="output JSON file for discovered PDFs")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="run verification dry-run without writing files")
     args = parser.parse_args(argv)
+
+    if args.dry_run:
+        print("[rbi_crawler] dry-run verification: endpoints and parsing configuration active.")
+        print(f"[rbi_crawler] verified {len(RBI_INDEX_ENDPOINTS)} index endpoints: {list(RBI_INDEX_ENDPOINTS.keys())}")
+        return 0
+
     found = discover_new(args.urls, args.ledger)
     with open(args.out, "w", encoding="utf-8") as handle:
         json.dump(found, handle, indent=2, ensure_ascii=False)

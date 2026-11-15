@@ -9,9 +9,6 @@ name: Archive update
 #   GH_PAT           fine-grained PAT, this repo only, Contents: Read and write
 
 on:
-  schedule:
-    # Daily at 03:00 UTC
-    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:

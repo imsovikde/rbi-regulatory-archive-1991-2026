@@ -16,6 +16,15 @@
 | Circulars | 11690 | 11690 | 100.0000% |
 | Press-Releases | 64063 | 64063 | 100.0000% |
 
+## Agent Navigation & Triage
+
+- [AI Agent Triage & Statutory Hierarchy Guide](index/agent_router/TRIAGE_GUIDE.md)
+- [Active Master Directions by Regulated Entity](index/agent_router/active_master_directions_by_entity.md)
+- [Circular Reference Lookup](index/agent_router/circular_ref_to_path.json)
+- [Causal Citation & Consequence Graph](index/agent_router/citation_and_consequence_graph.jsonl)
+- [URL Lookup Shards (256 Shards)](index/url_shards/)
+- [Yearly Sharded Catalogs](manifest/catalog/)
+
 ## Categories
 
 | Category | Index |

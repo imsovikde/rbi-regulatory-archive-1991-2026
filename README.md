@@ -41,33 +41,14 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
 ## How agents should use this repository
 
-1. Read [llms.txt](llms.txt) first. It is the concise entry-point map.
-2. Use [INDEX.md](INDEX.md) for counts and navigation, or [llms-full.txt](llms-full.txt)
-   for the exhaustive link map (every category, every year 1991-2026).
-3. To resolve one document from a URL, look it up in
-   [index/url_to_path_map.json](index/url_to_path_map.json). It maps every RBI direct
-   URL (81,828 unique) and every Hugging Face resolve URL (88,236) to its `.md` path.
-   A few RBI URLs (5,951) point at more than one document; those are listed in
-   [index/url_collisions.json](index/url_collisions.json).
-4. To search by headline or document ID, read
-   [manifest/catalog/<YYYY>.jsonl](manifest/catalog/).
-5. Read the Markdown file at `data/<Category>/<Year>/<stem>.md`. Its YAML frontmatter
-   carries `pdf_sha256`, `md_sha256`, `total_pages`, `native_pages`, `ocr_pages`,
-   `conversion_engine`, and `verification_status`.
-
-## How to verify a file
-
-```bash
-# 1. The Markdown body hash: hash everything after the closing --- of the frontmatter
-python3 -c "import hashlib; t=open('data/Notifications/2024/example.md').read(); body=t.split('\n---\n', 1)[1]; print(hashlib.sha256(body.encode()).hexdigest())"
-# Compare with md_sha256 in the frontmatter.
-
-# 2. The source PDF hash: download the PDF from source_hf_url and compare
-#    its SHA-256 with pdf_sha256 in the frontmatter.
-```
-
-The weekly audit workflow (`.github/workflows/03_integrity_audit.yml`) does this for
-every converted file and publishes the result in `AUDIT.md`.
+1. Read [llms.txt](llms.txt) and [index/agent_router/TRIAGE_GUIDE.md](index/agent_router/TRIAGE_GUIDE.md) first. It provides the statutory hierarchy and deterministic routing protocol in $\le 3$ tool calls.
+2. For controlling law by regulated entity (Commercial Banks, NBFCs, UCBs, Payment Systems, FEMA, etc.), consult [index/agent_router/active_master_directions_by_entity.md](index/agent_router/active_master_directions_by_entity.md) or its machine-readable JSON version [index/agent_router/active_master_directions_by_entity.json](index/agent_router/active_master_directions_by_entity.json).
+3. To lookup a circular by official reference number (e.g. `RBI/2024-25/123`, `DOR.No.DIR.BC...`), use [index/agent_router/circular_ref_to_path.json](index/agent_router/circular_ref_to_path.json).
+4. To trace supersessions, amendments, or statutory penalties, query [index/agent_router/citation_and_consequence_graph.jsonl](index/agent_router/citation_and_consequence_graph.jsonl).
+5. To resolve an RBI or Hugging Face URL without loading large files, compute `sha256(url.lower())[:2]` and read the compact 256-shard file at `index/url_shards/<hex>.json` (or the master lookup [index/url_to_path_map.json](index/url_to_path_map.json)).
+6. Use [INDEX.md](INDEX.md) for master table of contents, or [llms-full.txt](llms-full.txt) for the exhaustive link map. Every directory `data/<Category>/<Year>/` also features its own local `INDEX.md`.
+7. Search document metadata across [manifest/catalog/<YYYY>.jsonl](manifest/catalog/).
+8. Read the Markdown file at `data/<Category>/<Year>/<stem>.md`. Its YAML frontmatter carries `doc_id`, `title`, `pdf_sha256`, `md_sha256`, `total_pages`, `native_pages`, `ocr_pages`, `conversion_engine`, and `verification_status`.
 
 ## Folder layout
 
@@ -79,14 +60,20 @@ manifest/
   sha256_conversion_ledger.csv   PDF SHA-256, MD SHA-256, engine, pages, status per file
   catalog/<YYYY>.jsonl           Machine-readable metadata catalog for agents, one shard per year
 index/
+  agent_router/                  Agent routing engine & statutory hierarchy
+    TRIAGE_GUIDE.md              Statutory hierarchy and <= 3 tool call retrieval protocol
+    active_master_directions_by_entity.md / .json Controlling Master Directions by entity
+    circular_ref_to_path.json    Circular reference number -> .md file mapping
+    citation_and_consequence_graph.jsonl Causal citations, amendments, supersessions & penalties
+  url_shards/                    256 compact URL shards (00.json..ff.json) for agent context safety
   by_year/                       1991.md ... 2026.md (per-year Markdown indexes)
-  by_category/                   One Markdown index per category
-  url_to_path_map.json           O(1) URL -> .md path lookup
+  by_category/                   One Markdown index per category (Master-Directions, Notifications, etc.)
+  url_to_path_map.json           O(1) URL -> .md path master lookup
   url_collisions.json            RBI URLs that map to more than one document
-data/                            Converted Markdown, same folders and years as Hugging Face
-src/rbi_pipeline/                converter, crawler, indexer, runner, verifier
-.github/workflows/               00 bootstrap, 01 conversion, 02 weekly sync, 03 audit
-scripts/                         audit_parity.py, setup_verified_signing.sh
+data/                            Converted Markdown, with per-directory INDEX.md for all 161 folders
+src/rbi_pipeline/                converter, crawler, indexer, statutory_indexer, runner, verifier
+.github/workflows/               00 bootstrap, 01 conversion, 02 weekly sync, 02 fallback sync, 03 audit
+scripts/                         audit_parity.py, register_new_documents.py, hf_scheduled_sync.py
 ```
 
 ## Conversion stack

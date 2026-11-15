@@ -92,7 +92,7 @@ jobs:
             DONE_NOW=$(python3 -c "import json; print(json.load(open('STATE.json')).get('done_count', 0))")
             if [ "${DONE_NOW}" -gt "0" ]; then
               echo "Repo already has ${DONE_NOW} converted files; preserving live progress files."
-              git checkout -- STATE.json PROGRESS.md manifest/sha256_conversion_ledger.csv manifest/master_catalog.jsonl index/ 2>/dev/null || true
+              git checkout -- STATE.json PROGRESS.md manifest/sha256_conversion_ledger.csv manifest/catalog/ index/ 2>/dev/null || true
             fi
           fi
 

@@ -1,0 +1,16 @@
+# Master-Circulars — 2018
+
+- **Folder:** `Master-Circulars`
+- **Year:** `2018`
+- **Total Documents:** 6
+- **Converted to Markdown:** 6 (100.0000%)
+- **Navigation:** [Root Index](../../../INDEX.md) | [Category Index](../../../index/by_category/Master-Circulars.md) | [Year Index](../../../index/by_year/2018.md)
+
+| Filename | Markdown | Source PDF | Status |
+| --- | --- | --- | --- |
+| 2018-07-02_Master-Circular_11320_Master Circular on SHG-Bank Linkage Programme | [Markdown](./2018-07-02_Master-Circular_11320_Master%20Circular%20on%20SHG-Bank%20Linkage%20Programme.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2018/2018-07-02_Master-Circular_11320_Master%20Circular%20on%20SHG-Bank%20Linkage%20Programme.pdf) | DONE |
+| 2018-07-02_Master-Circular_11321_Master Circular – Lead Bank Scheme | [Markdown](./2018-07-02_Master-Circular_11321_Master%20Circular%20%E2%80%93%20Lead%20Bank%20Scheme.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2018/2018-07-02_Master-Circular_11321_Master%20Circular%20%E2%80%93%20Lead%20Bank%20Scheme.pdf) | DONE |
+| 2018-07-04_Master-Circular_11323_Master Circular- Credit Facilities to Minority Communities | [Markdown](./2018-07-04_Master-Circular_11323_Master%20Circular-%20Credit%20Facilities%20to%20Minority%20Communities.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2018/2018-07-04_Master-Circular_11323_Master%20Circular-%20Credit%20Facilities%20to%20Minority%20Communities.pdf) | DONE |
+| 2018-07-04_Master-Circular_11324_Master Circular – Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM) | [Markdown](./2018-07-04_Master-Circular_11324_Master%20Circular%20%E2%80%93%20Deendayal%20Antyodaya%20Yojana%20-%20National%20Rural%20Livelihoods%20Mission%20%28DAY-NRLM%29.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2018/2018-07-04_Master-Circular_11324_Master%20Circular%20%E2%80%93%20Deendayal%20Antyodaya%20Yojana%20-%20National%20Rural%20Livelihoods%20Mission%20%28DAY-NRLM%29.pdf) | DONE |
+| 2018-07-04_Master-Circular_11325_Master Circular - Kisan Credit Card (KCC) Scheme | [Markdown](./2018-07-04_Master-Circular_11325_Master%20Circular%20-%20Kisan%20Credit%20Card%20%28KCC%29%20Scheme.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2018/2018-07-04_Master-Circular_11325_Master%20Circular%20-%20Kisan%20Credit%20Card%20%28KCC%29%20Scheme.pdf) | DONE |
+| 2018-12-06_Master-Circular_11433_Deendayal Antyodaya Yojana – National Urban Livelihoods Mission (DAY-NULM) | [Markdown](./2018-12-06_Master-Circular_11433_Deendayal%20Antyodaya%20Yojana%20%E2%80%93%20National%20Urban%20Livelihoods%20Mission%20%28DAY-NULM%29.md) | [Source PDF](https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2018/2018-12-06_Master-Circular_11433_Deendayal%20Antyodaya%20Yojana%20%E2%80%93%20National%20Urban%20Livelihoods%20Mission%20%28DAY-NULM%29.pdf) | DONE |

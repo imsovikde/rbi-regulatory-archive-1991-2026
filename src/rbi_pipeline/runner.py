@@ -128,12 +128,11 @@ def load_state(state_path, total_count):
     if os.path.exists(state_path):
         with open(state_path, encoding="utf-8") as handle:
             state = json.load(handle)
-        state.setdefault("done_paths", [])
+        state.pop("done_paths", None)
         return state
     return {
         "total_count": total_count,
         "done_count": 0,
-        "done_paths": [],
         "remaining_count": total_count,
         "last_batch": 0,
         "updated_at_utc": _utcnow_iso(),
@@ -142,12 +141,14 @@ def load_state(state_path, total_count):
 
 
 def save_state(state_path, state):
-    state["updated_at_utc"] = _utcnow_iso()
-    total = state.get("total_count") or 0
-    done = state.get("done_count") or 0
-    state["remaining_count"] = total - done
-    state["pct"] = round(done / total * 100.0, 4) if total else 0.0
-    _atomic_write_json(state_path, state)
+    state_to_write = dict(state)
+    state_to_write.pop("done_paths", None)
+    state_to_write["updated_at_utc"] = _utcnow_iso()
+    total = state_to_write.get("total_count") or 0
+    done = state_to_write.get("done_count") or 0
+    state_to_write["remaining_count"] = max(0, total - done)
+    state_to_write["pct"] = round(done / total * 100.0, 4) if total else 0.0
+    _atomic_write_json(state_path, state_to_write)
 
 
 def load_ledger(ledger_path):
@@ -439,11 +440,26 @@ def _index_paths(repo_root):
     # Catalog shards (manifest/catalog/<YYYY>.jsonl, Defect 7): the old
     # single manifest/master_catalog.jsonl is gone; it passed GitHub's
     # 100 MB push limit and killed run 43443272509. Do not re-add it.
-    for sub in ("index/by_year", "index/by_category", "manifest/catalog"):
+    for sub in (
+        "index/by_year",
+        "index/by_category",
+        "index/url_shards",
+        "index/agent_router",
+        "manifest/catalog",
+    ):
         directory = os.path.join(repo_root, sub)
         if os.path.isdir(directory):
             for name in sorted(os.listdir(directory)):
                 paths.append(os.path.join(sub, name))
+    data_dir = os.path.join(repo_root, "data")
+    if os.path.isdir(data_dir):
+        for cat in sorted(os.listdir(data_dir)):
+            cat_dir = os.path.join(data_dir, cat)
+            if os.path.isdir(cat_dir):
+                for yr in sorted(os.listdir(cat_dir)):
+                    idx_file = os.path.join("data", cat, yr, "INDEX.md")
+                    if os.path.exists(os.path.join(repo_root, idx_file)):
+                        paths.append(idx_file)
     return [p for p in paths if os.path.exists(os.path.join(repo_root, p))]
 
 
@@ -485,6 +501,8 @@ def main(argv=None):
                         help="parallel workers; used only when the "
                              "converter sets PROCESS_SAFE = True, else "
                              "sequential")
+    parser.add_argument("--force-rebuild-index", action="store_true",
+                        help="force index rebuild even if remaining == 0")
     args = parser.parse_args(argv)
     repo_root = os.path.abspath(args.repo_root)
     manifest_path = args.manifest
@@ -509,23 +527,23 @@ def main(argv=None):
     total = len(inventory)
     state = load_state(state_path, total)
     state["total_count"] = total
-    done_paths = set(state.get("done_paths") or [])
     ledger_rows, ledger_by_path = load_ledger(ledger_path)
 
-    # Reconcile: rows the ledger already marks DONE with a .md file on
-    # disk count as done even if STATE.json was lost mid-batch.
-    from .indexer import md_path_for
+    # Derive done_paths in-memory directly from ledger DONE rows
+    done_paths = {path for path, row in ledger_by_path.items() if row.get("status") == "DONE"}
 
-    for row in inventory:
-        path = row["file_path"]
-        if path in done_paths:
-            continue
-        ledger_row = ledger_by_path.get(path)
-        if ledger_row and ledger_row.get("status") == "DONE":
-            if os.path.exists(os.path.join(repo_root, md_path_for(path))):
-                done_paths.add(path)
-    state["done_paths"] = sorted(done_paths)
     state["done_count"] = len(done_paths)
+    state["remaining_count"] = max(0, total - len(done_paths))
+    state["pct"] = round(len(done_paths) / total * 100.0, 4) if total else 0.0
+
+    # If remaining_count == 0 and not force-rebuild-index, exit cleanly with 0 commits
+    if len(done_paths) >= total and not args.force_rebuild_index:
+        save_state(state_path, state)
+        _log(f"all {total} files are already converted (100.0000%); "
+             "no pending work and --force-rebuild-index not set. "
+             "Exiting cleanly with 0 commits.")
+        return 0
+
     save_state(state_path, state)
 
     parallel = False
@@ -608,7 +626,6 @@ def main(argv=None):
             for row in ledger_batch:
                 if row.get("status") == "DONE":
                     done_paths.add(row["file_path"])
-            state["done_paths"] = sorted(done_paths)
             state["done_count"] = len(done_paths)
             state["last_batch"] = batch_number
             save_state(state_path, state)

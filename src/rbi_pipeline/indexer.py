@@ -5,25 +5,20 @@ inventory (what exists) and writes, deterministically:
 
 - llms.txt and llms-full.txt (repository root)
 - INDEX.md (repository root, master table of contents)
+- index/agent_router/ (TRIAGE_GUIDE.md, active_master_directions_by_entity.md & .json,
+  circular_ref_to_path.json, citation_and_consequence_graph.jsonl)
+- index/url_shards/<00..ff>.json (256 compact shards for agent context safety)
 - index/by_category/<Folder>.md (one per HF folder)
 - index/by_year/<YYYY>.md and index/by_year/<YYYY>.json (1991-2026)
+- data/<Folder>/<Year>/INDEX.md (per-directory local index for all 161 directories)
 - index/url_to_path_map.json (any RBI or HF URL -> data/<path>.md)
-- manifest/catalog/<YYYY>.jsonl (one JSON object per inventory row, one
-  shard per year; sharded because a single catalog file passed GitHub's
-  100 MB push limit at 60,647 rows / 103.40 MB and killed run 43443272509,
-  Defect 7; the largest shard is Press-Releases 2017 at ~6.5 MB)
+- manifest/catalog/<YYYY>.jsonl (one JSON object per inventory row, one shard per year)
 - README.md progress section (between markers, updated in place)
-- PROGRESS.md (created with a header if missing; batch lines are appended
-  by :func:`append_progress_log`, never by build_all, so rebuilds stay
-  byte-identical)
+- PROGRESS.md (append-only batch log)
 
 Determinism: every output is written from sorted inputs with sorted keys
 and stable ordering, so repeated runs over unchanged inputs produce
-identical bytes. No timestamps are embedded in rebuilt files; the only
-timestamps live in PROGRESS.md append-only log lines, which are not
-rebuilt.
-
-No em dashes are used in any generated file (commas and hyphens only).
+identical bytes. No timestamps are embedded in rebuilt files.
 """
 
 from __future__ import annotations
@@ -32,10 +27,12 @@ import csv
 import json
 import os
 from collections import Counter, defaultdict
+from urllib.parse import quote
 
 __all__ = [
     "append_progress_log",
     "build_all",
+    "encoded_md_link",
     "folder_of",
     "md_path_for",
     "progress_bar",
@@ -61,7 +58,7 @@ HF_DATASET_URL = (
 )
 
 
-def md_path_for(file_path):
+def md_path_for(file_path: str) -> str:
     """Map a PDF path like ``Press-Releases/2002/x.pdf`` to its .md path.
 
     Returns ``data/Press-Releases/2002/x.md``. The stem is never renamed.
@@ -70,19 +67,26 @@ def md_path_for(file_path):
     return "data/" + stem + ".md"
 
 
-def progress_bar(pct, width=40):
+def encoded_md_link(prefix: str, md_path: str) -> str:
+    """Return a Markdown link URL with URL-encoded path segments."""
+    segments = md_path.strip().split("/")
+    encoded = "/".join(quote(seg, safe="") for seg in segments)
+    return f"{prefix}{encoded}"
+
+
+def progress_bar(pct: float, width: int = 40) -> str:
     """ASCII progress bar, e.g. ``[####------] 12.3400%``."""
     filled = int(round(width * max(0.0, min(100.0, pct)) / 100.0))
     return "[" + ("#" * filled) + ("-" * (width - filled)) + "]"
 
 
-def _write(path, text):
+def _write(path: str, text: str) -> None:
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="\n") as handle:
         handle.write(text)
 
 
-def _read_ledger_rows(ledger_path):
+def _read_ledger_rows(ledger_path: str) -> dict:
     """Read ledger CSV rows into a dict keyed by file_path."""
     rows = {}
     if not ledger_path or not os.path.exists(ledger_path):
@@ -95,14 +99,8 @@ def _read_ledger_rows(ledger_path):
     return rows
 
 
-def folder_of(row):
-    """Return the HF folder name for an inventory row.
-
-    Authoritative source is the first segment of file_path
-    ("Press-Releases/2002/..."). Falls back to the category-to-folder
-    map for rows without a file_path, because the manifest category label
-    ("Press-Release") differs from the folder name ("Press-Releases").
-    """
+def folder_of(row: dict) -> str:
+    """Return the HF folder name for an inventory row."""
     from .hf_enumerator import CATEGORY_TO_FOLDER
 
     path = (row.get("file_path") or "").strip()
@@ -112,7 +110,7 @@ def folder_of(row):
     return CATEGORY_TO_FOLDER.get(category, category)
 
 
-def _counts(inventory_rows, ledger_by_path):
+def _counts(inventory_rows: list[dict], ledger_by_path: dict):
     """Per-folder and per-year (total, done) counts from inventory + ledger."""
     by_folder = Counter()
     by_folder_done = Counter()
@@ -130,7 +128,7 @@ def _counts(inventory_rows, ledger_by_path):
     return by_folder, by_folder_done, by_year, by_year_done
 
 
-def _summary_block(total, done, by_folder, by_folder_done):
+def _summary_block(total: int, done: int, by_folder: Counter, by_folder_done: Counter):
     """Shared Markdown progress summary used by README and INDEX."""
     pct = (done / total * 100.0) if total else 0.0
     lines = [
@@ -155,13 +153,8 @@ def _summary_block(total, done, by_folder, by_folder_done):
     return "\n".join(lines), pct
 
 
-def update_readme_progress(repo_root, total, done, by_folder, by_folder_done):
-    """Replace the README.md section between the PROGRESS markers.
-
-    If README.md does not exist, a minimal one is created. If the markers
-    are missing, the section is appended at the end. Returns the README
-    path written.
-    """
+def update_readme_progress(repo_root: str, total: int, done: int, by_folder: Counter, by_folder_done: Counter) -> str:
+    """Replace the README.md section between the PROGRESS markers."""
     summary, _pct = _summary_block(total, done, by_folder, by_folder_done)
     section = f"{PROGRESS_START}\n{summary}{PROGRESS_END}\n"
     readme_path = os.path.join(repo_root, "README.md")
@@ -186,16 +179,38 @@ def update_readme_progress(repo_root, total, done, by_folder, by_folder_done):
             "this repository holds the converted Markdown and the indexes.\n\n"
             + section
         )
+
+    # Dynamic count synchronization across entire README.md prose
+    import re
+
+    text = re.sub(
+        r"-\s+\*\*[\d,]+\s+RBI\s+PDFs\*\*",
+        f"- **{done:,} RBI PDFs**",
+        text,
+    )
+    census_total = total + 3864
+    text = re.sub(
+        r"-\s+\*\*[\d,]+-entry\s+census\*\*:\s+[\d,]+\s+PDFs\s+plus\s+[\d,]+\s+BLOCKED\s+entries",
+        f"- **{census_total:,}-entry census**: {total:,} PDFs plus 3,864 BLOCKED entries",
+        text,
+    )
+    text = re.sub(
+        r"(hf_\d+_inventory\.jsonl\s+)[\d,]+(-file\s+inventory)",
+        rf"\g<1>{total:,}\2",
+        text,
+    )
+    text = re.sub(
+        r"Source\s+of\s+truth:\s+[\d,]+\s+untouched\s+RBI\s+PDFs",
+        f"Source of truth: {total:,} untouched RBI PDFs",
+        text,
+    )
+
     _write(readme_path, text)
     return readme_path
 
 
-def append_progress_log(repo_root, line):
-    """Append one line to PROGRESS.md (append-only batch log).
-
-    Creates PROGRESS.md with a header when missing. The line is stored
-    verbatim with a trailing newline; callers supply their own timestamp.
-    """
+def append_progress_log(repo_root: str, line: str) -> str:
+    """Append one line to PROGRESS.md (append-only batch log)."""
     path = os.path.join(repo_root, "PROGRESS.md")
     if not os.path.exists(path):
         _write(
@@ -208,7 +223,7 @@ def append_progress_log(repo_root, line):
     return path
 
 
-def _build_llms_txt(repo_root, total, done, by_folder, by_folder_done):
+def _build_llms_txt(repo_root: str, total: int, done: int, by_folder: Counter, by_folder_done: Counter) -> None:
     summary, pct = _summary_block(total, done, by_folder, by_folder_done)
     lines = [
         "# RBI Regulatory Archive 1991-2026 - llms.txt",
@@ -220,13 +235,19 @@ def _build_llms_txt(repo_root, total, done, by_folder, by_folder_done):
         f"Total PDFs: {total}. Converted: {done} ({pct:.4f}%).",
         f"Dataset: {HF_DATASET_URL}",
         "",
+        "## Agent Navigation & Triage (Fast <= 3 Tool Calls)",
+        "",
+        "- Triage Guide & Statutory Hierarchy: index/agent_router/TRIAGE_GUIDE.md",
+        "- Controlling Master Directions by Regulated Entity: index/agent_router/active_master_directions_by_entity.md and .json",
+        "- Circular Reference Map (e.g. RBI/2025-26/123 -> .md path): index/agent_router/circular_ref_to_path.json",
+        "- Causal Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl",
+        "",
         "## Indexes",
         "",
         "- Master index: INDEX.md",
-        "- URL lookup (any RBI or Hugging Face URL to .md path): "
-        "index/url_to_path_map.json",
-        "- Full catalog (one JSON object per document, one shard per "
-        "year): manifest/catalog/<YYYY>.jsonl",
+        "- URL lookup shards (256 compact shards, sha256(url)[:2]): index/url_shards/<00..ff>.json",
+        "- URL lookup master: index/url_to_path_map.json",
+        "- Full catalog (one JSON object per document, one shard per year): manifest/catalog/<YYYY>.jsonl",
         "",
         "## Categories",
         "",
@@ -246,23 +267,31 @@ def _build_llms_txt(repo_root, total, done, by_folder, by_folder_done):
         "",
         "## How to find a document",
         "",
-        "1. If you have an RBI URL, look it up in "
-        "index/url_to_path_map.json to get the data/<path>.md file.",
-        "2. If you have a category and year, open the matching "
-        "index/by_year/<YYYY>.md table.",
-        "3. Converted Markdown lives under data/<Folder>/<Year>/ with the "
-        "exact PDF stem and a .md extension.",
+        "1. For prevailing law by institution type, consult index/agent_router/active_master_directions_by_entity.md.",
+        "2. For a circular number (e.g. RBI/2024-25/123), consult index/agent_router/circular_ref_to_path.json.",
+        "3. For an RBI or HF URL, compute sha256(url.lower())[:2] and check index/url_shards/<hex>.json.",
+        "4. For category and year, open index/by_year/<YYYY>.md or data/<Folder>/<Year>/INDEX.md.",
+        "5. Converted Markdown lives under data/<Folder>/<Year>/ with the exact PDF stem and a .md extension.",
         "",
     ]
     _write(os.path.join(repo_root, "llms.txt"), "\n".join(lines))
 
 
-def _build_llms_full_txt(repo_root, by_year, by_year_done):
+def _build_llms_full_txt(repo_root: str, by_year: Counter, by_year_done: Counter) -> None:
     lines = [
         "# RBI Regulatory Archive 1991-2026 - llms-full.txt",
         "",
         "Exhaustive agent directory. Every category index and every yearly "
         "index, with conversion counts.",
+        "",
+        "## Agent Navigation & Triage",
+        "",
+        "- Triage Guide: index/agent_router/TRIAGE_GUIDE.md",
+        "- Master Directions by Entity: index/agent_router/active_master_directions_by_entity.md",
+        "- Circular Reference Map: index/agent_router/circular_ref_to_path.json",
+        "- Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl",
+        "- URL Lookup Shards: index/url_shards/<00..ff>.json",
+        "- Yearly Sharded Catalog: manifest/catalog/<YYYY>.jsonl",
         "",
         "## Category indexes",
         "",
@@ -279,13 +308,22 @@ def _build_llms_full_txt(repo_root, by_year, by_year_done):
     _write(os.path.join(repo_root, "llms-full.txt"), "\n".join(lines))
 
 
-def _build_root_index(repo_root, total, done, by_folder, by_folder_done,
-                      by_year, by_year_done):
+def _build_root_index(repo_root: str, total: int, done: int, by_folder: Counter, by_folder_done: Counter,
+                      by_year: Counter, by_year_done: Counter) -> None:
     summary, _pct = _summary_block(total, done, by_folder, by_folder_done)
     lines = [
         "# RBI Regulatory Archive 1991-2026 - Index",
         "",
         summary,
+        "## Agent Navigation & Triage",
+        "",
+        "- [AI Agent Triage & Statutory Hierarchy Guide](index/agent_router/TRIAGE_GUIDE.md)",
+        "- [Active Master Directions by Regulated Entity](index/agent_router/active_master_directions_by_entity.md)",
+        "- [Circular Reference Lookup](index/agent_router/circular_ref_to_path.json)",
+        "- [Causal Citation & Consequence Graph](index/agent_router/citation_and_consequence_graph.jsonl)",
+        "- [URL Lookup Shards (256 Shards)](index/url_shards/)",
+        "- [Yearly Sharded Catalogs](manifest/catalog/)",
+        "",
         "## Categories",
         "",
         "| Category | Index |",
@@ -304,7 +342,7 @@ def _build_root_index(repo_root, total, done, by_folder, by_folder_done,
     _write(os.path.join(repo_root, "INDEX.md"), "\n".join(lines))
 
 
-def _build_category_indexes(repo_root, inventory_rows, ledger_by_path):
+def _build_category_indexes(repo_root: str, inventory_rows: list[dict], ledger_by_path: dict) -> None:
     from .hf_enumerator import hf_resolve_url
 
     by_folder_rows = defaultdict(list)
@@ -339,7 +377,7 @@ def _build_category_indexes(repo_root, inventory_rows, ledger_by_path):
                 ledger_by_path.get(row["file_path"], {}).get("status") or ""
             )
             if status == "DONE":
-                link = f"[Markdown](../{md_path})"
+                link = f"[Markdown]({encoded_md_link('../../', md_path)})"
                 status_text = "DONE"
             else:
                 link = f"[PDF]({hf_resolve_url(row['file_path'])})"
@@ -355,7 +393,7 @@ def _build_category_indexes(repo_root, inventory_rows, ledger_by_path):
         )
 
 
-def _build_year_indexes(repo_root, inventory_rows, ledger_by_path):
+def _build_year_indexes(repo_root: str, inventory_rows: list[dict], ledger_by_path: dict) -> None:
     from .hf_enumerator import hf_resolve_url
 
     by_year_rows = defaultdict(list)
@@ -381,14 +419,14 @@ def _build_year_indexes(repo_root, inventory_rows, ledger_by_path):
             is_done = status == "DONE"
             md_path = md_path_for(row["file_path"])
             if is_done:
-                link = f"[Markdown](../../{md_path})"
+                link = f"[Markdown]({encoded_md_link('../../', md_path)})"
                 status_text = "DONE"
             else:
                 link = f"[PDF]({hf_resolve_url(row['file_path'])})"
                 status_text = "PENDING"
             headline = (row.get("headline") or "").replace("|", "\\|")
             lines.append(
-                f"| {row.get('folder') or ''} | {headline} | {link} | "
+                f"| {folder_of(row)} | {headline} | {link} | "
                 f"{status_text} |"
             )
             json_docs.append({
@@ -422,7 +460,60 @@ def _build_year_indexes(repo_root, inventory_rows, ledger_by_path):
         )
 
 
-def _build_url_map(repo_root, inventory_rows):
+def _build_directory_indexes(repo_root: str, inventory_rows: list[dict], ledger_by_path: dict) -> None:
+    """Write data/<Folder>/<Year>/INDEX.md for every directory in the archive."""
+    from .hf_enumerator import hf_resolve_url
+
+    by_dir = defaultdict(list)
+    for row in inventory_rows:
+        folder = folder_of(row)
+        year = str(row.get("year") or 0)
+        by_dir[(folder, year)].append(row)
+
+    for (folder, year), rows in sorted(by_dir.items()):
+        dir_path = os.path.join(repo_root, "data", folder, year)
+        if not os.path.exists(dir_path):
+            continue
+
+        rows.sort(key=lambda r: r.get("file_name", ""))
+        done = sum(
+            1
+            for r in rows
+            if (ledger_by_path.get(r["file_path"], {}).get("status") or "") == "DONE"
+        )
+        total = len(rows)
+        pct = (done / total * 100.0) if total else 0.0
+
+        lines = [
+            f"# {folder} — {year}",
+            "",
+            f"- **Folder:** `{folder}`",
+            f"- **Year:** `{year}`",
+            f"- **Total Documents:** {total}",
+            f"- **Converted to Markdown:** {done} ({pct:.4f}%)",
+            f"- **Navigation:** [Root Index](../../../INDEX.md) | [Category Index](../../../index/by_category/{folder}.md) | [Year Index](../../../index/by_year/{year}.md)",
+            "",
+            "| Filename | Markdown | Source PDF | Status |",
+            "| --- | --- | --- | --- |",
+        ]
+
+        for row in rows:
+            stem = row["file_name"][:-4] if row["file_name"].lower().endswith(".pdf") else row["file_name"]
+            md_name = f"{stem}.md"
+            status = ledger_by_path.get(row["file_path"], {}).get("status") or ""
+            is_done = status == "DONE"
+            quoted_md_name = quote(md_name, safe="")
+            link = f"[Markdown](./{quoted_md_name})" if is_done else "-"
+            status_text = "DONE" if is_done else "PENDING"
+            pdf_link = f"[Source PDF]({hf_resolve_url(row['file_path'])})"
+            safe_stem = stem.replace("|", "\\|")
+            lines.append(f"| {safe_stem} | {link} | {pdf_link} | {status_text} |")
+
+        lines.append("")
+        _write(os.path.join(dir_path, "INDEX.md"), "\n".join(lines))
+
+
+def _build_url_map(repo_root: str, inventory_rows: list[dict]) -> dict:
     from .hf_enumerator import hf_resolve_url
 
     mapping = {}
@@ -437,25 +528,30 @@ def _build_url_map(repo_root, inventory_rows):
         json.dumps(mapping, indent=2, sort_keys=True, ensure_ascii=False)
         + "\n",
     )
+    return mapping
 
 
-def _build_master_catalog(repo_root, inventory_rows, ledger_by_path):
-    """Write the machine-readable catalog, sharded one file per year.
+def _build_url_shards(repo_root: str, url_map: dict) -> None:
+    """Write 256 compact shards to index/url_shards/<00..ff>.json."""
+    import hashlib
 
-    One JSON object per inventory row, same record shape as before
-    (sorted keys, UTF-8, LF newlines). The shards live in
-    ``manifest/catalog/<YYYY>.jsonl``.
+    shards = {f"{i:02x}": {} for i in range(256)}
+    for url, md_path in url_map.items():
+        key = hashlib.sha256(url.strip().lower().encode("utf-8")).hexdigest()[:2]
+        shards[key][url] = md_path
 
-    Sharding is not cosmetic. The catalog used to be a single file,
-    ``manifest/master_catalog.jsonl``; it grows by ~1.7 KB per row and
-    passed GitHub's hard 100 MB per-file push limit at 60,647 rows
-    (103.40 MB), which rejected the graceful-stop index commit and
-    killed run 43443272509 (Defect 7). A single Press-Releases shard
-    would still exceed the limit (~109 MB), so the split is by year:
-    the largest year (Press-Releases 2017, 3,836 files) is ~6.5 MB.
-    The old single file is NOT written or deleted here; it was removed
-    from the repo once, by hand, when this fix landed.
-    """
+    shard_dir = os.path.join(repo_root, "index", "url_shards")
+    os.makedirs(shard_dir, exist_ok=True)
+    for shard_key in sorted(shards.keys()):
+        shard_path = os.path.join(shard_dir, f"{shard_key}.json")
+        _write(
+            shard_path,
+            json.dumps(shards[shard_key], indent=2, sort_keys=True, ensure_ascii=False) + "\n",
+        )
+
+
+def _build_master_catalog(repo_root: str, inventory_rows: list[dict], ledger_by_path: dict) -> None:
+    """Write the machine-readable catalog, sharded one file per year."""
     from .hf_enumerator import hf_resolve_url
 
     by_year_rows = defaultdict(list)
@@ -500,13 +596,8 @@ def _build_master_catalog(repo_root, inventory_rows, ledger_by_path):
                 )
 
 
-def build_all(repo_root, ledger_rows, inventory_rows):
+def build_all(repo_root: str, ledger_rows: list[dict], inventory_rows: list[dict]) -> dict:
     """Rebuild every index from ledger rows and inventory rows.
-
-    ``ledger_rows`` is a list of ledger dicts (as read from
-    manifest/sha256_conversion_ledger.csv, or as built in memory by the
-    runner). ``inventory_rows`` is a list of dicts in the
-    :func:`hf_enumerator.iter_inventory` shape, in manifest order.
 
     Returns a dict of counts: total, done, remaining, pct.
     """
@@ -533,8 +624,15 @@ def build_all(repo_root, ledger_rows, inventory_rows):
     )
     _build_category_indexes(repo_root, inventory_rows, ledger_by_path)
     _build_year_indexes(repo_root, inventory_rows, ledger_by_path)
-    _build_url_map(repo_root, inventory_rows)
+    _build_directory_indexes(repo_root, inventory_rows, ledger_by_path)
+    url_map = _build_url_map(repo_root, inventory_rows)
+    _build_url_shards(repo_root, url_map)
     _build_master_catalog(repo_root, inventory_rows, ledger_by_path)
+
+    # Agent router layer
+    from .statutory_indexer import build_agent_router
+    build_agent_router(repo_root, inventory_rows, ledger_rows)
+
     update_readme_progress(repo_root, total, done, by_folder, by_folder_done)
     return {
         "total": total,

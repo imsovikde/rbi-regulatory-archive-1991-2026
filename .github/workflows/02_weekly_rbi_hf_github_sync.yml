@@ -143,18 +143,15 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          # The runner already committed the .md files, ledger, STATE,
-          # and indexes. What remains is the inventory, the URL list,
-          # and the sync record itself. Only those paths are staged, so
-          # a week with zero new documents commits nothing.
-          git add manifest/hf_88236_inventory.jsonl \
-            manifest/pdf_final_direct_urls.txt \
-            sync/registered.json
+          git add manifest/ \
+            sync/ \
+            README.md INDEX.md STATE.json AUDIT.md llms.txt llms-full.txt \
+            index/ data/
           if git diff --cached --quiet; then
             echo "No new RBI documents this week. Nothing to commit."
             exit 0
           fi
-          NEW_COUNT=$(python3 -c "import json; print(len(json.load(open('sync/registered.json'))))")
+          NEW_COUNT=$(python3 -c "import json, os; print(len(json.load(open('sync/registered.json'))) if os.path.exists('sync/registered.json') else 0)")
           SYNC_DATE=$(date -u +%F)
           git commit -S -m "chore(sync): ${NEW_COUNT} new RBI documents -> MD | ${SYNC_DATE} | imsovikde verified"
           git pull --rebase origin main

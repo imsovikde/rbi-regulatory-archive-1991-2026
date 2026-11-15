@@ -2,6 +2,15 @@
 
 Exhaustive agent directory. Every category index and every yearly index, with conversion counts.
 
+## Agent Navigation & Triage
+
+- Triage Guide: index/agent_router/TRIAGE_GUIDE.md
+- Master Directions by Entity: index/agent_router/active_master_directions_by_entity.md
+- Circular Reference Map: index/agent_router/circular_ref_to_path.json
+- Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl
+- URL Lookup Shards: index/url_shards/<00..ff>.json
+- Yearly Sharded Catalog: manifest/catalog/<YYYY>.jsonl
+
 ## Category indexes
 
 - index/by_category/Master-Directions.md
