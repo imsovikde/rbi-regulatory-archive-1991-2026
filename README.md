@@ -145,7 +145,7 @@ AI agents and developer applications can query the complete archive via the offi
 - Canonical MCP Endpoint: `https://rbi-doc-mcp.imsovikde.workers.dev/mcp`
 - GitHub Repository: [imsovikde/rbi-doc-mcp](https://github.com/imsovikde/rbi-doc-mcp)
 - Documentation: [docs/COMPLETE_SETUP_GUIDE.md](docs/COMPLETE_SETUP_GUIDE.md)
-- Mathematical Specification: [docs/NYAYA_MATHEMATICAL_ARCHITECTURE.md](docs/NYAYA_MATHEMATICAL_ARCHITECTURE.md)
+- Mathematical Specification: [docs/MATHEMATICAL_KERNEL_ARCHITECTURE.md](docs/MATHEMATICAL_KERNEL_ARCHITECTURE.md)
 
 ### Instant Claude Code Connection (Public Tier, Zero Setup)
 

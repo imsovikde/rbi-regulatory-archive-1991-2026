@@ -492,7 +492,7 @@ def _build_directory_indexes(repo_root: str, inventory_rows: list[dict], ledger_
         pct = (done / total * 100.0) if total else 0.0
 
         lines = [
-            f"# {folder} — {year}",
+            f"# {folder}  -  {year}",
             "",
             f"- **Folder:** `{folder}`",
             f"- **Year:** `{year}`",

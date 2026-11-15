@@ -1,4 +1,4 @@
-# GPG Commit Signing — Setup Report
+# GPG Commit Signing  -  Setup Report
 
 Repository: `imsovikde/rbi-regulatory-archive-1991-2026`
 Owner: Souvik Dey (`imsovikde`)
@@ -199,7 +199,7 @@ Values are write-only and were never recorded here.
 
 ---
 
-## 7. Actions enablement — completed steps (kept for rotation)
+## 7. Actions enablement  -  completed steps (kept for rotation)
 
 These steps were completed on 2026-11-13 and are retained so the secrets can be
 rotated later without rediscovering the procedure.
@@ -233,7 +233,7 @@ Fine-grained token at https://github.com/settings/personal-access-tokens/new:
   starts modifying files under `.github/workflows/`.
 - Generate, copy once, paste as secret `GH_PAT`.
 
-### 7.4 Prove the Actions path (completed — run `43377069291`)
+### 7.4 Prove the Actions path (completed  -  run `43377069291`)
 
 ```bash
 gh workflow run archive-update.yml \

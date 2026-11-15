@@ -32,8 +32,13 @@ jobs:
       - name: Compress Database with Zstandard Dictionary
         run: |
           python3 -c "
-          import zstandard as zstd
-          cctx = zstd.ZstdCompressor(level=12)
+          import os, zstandard as zstd
+          dict_path = 'rbi_corpus.zdict'
+          if os.path.exists(dict_path):
+              zdict = zstd.ZstdCompressionDict(open(dict_path, 'rb').read())
+              cctx = zstd.ZstdCompressor(level=12, dict_data=zdict)
+          else:
+              cctx = zstd.ZstdCompressor(level=12)
           with open('rbi_doc_mcp_fts5.sqlite', 'rb') as src, open('rbi_doc_mcp_fts5.sqlite.zst', 'wb') as dst:
               dst.write(cctx.compress(src.read()))
           "

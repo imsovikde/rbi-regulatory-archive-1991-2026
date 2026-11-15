@@ -1,7 +1,7 @@
-# Nyaya Computational Kernel: Mathematical Architecture and Formal Invariants
+# libRbiKernel Computational Kernel: Mathematical Architecture and Formal Invariants
 
 Author: Souvik Dey (imsovikde@gmail.com)  
-System Name: Nyaya Regulatory Kernel  
+System Name: libRbiKernel Regulatory Kernel  
 Target Infrastructure: Cloudflare Workers, Cloudflare D1 (SQLite FTS5), Cloudflare R2  
 Upstream Archive: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026  
 MCP Server: https://github.com/imsovikde/rbi-doc-mcp  
@@ -11,9 +11,9 @@ Canonical MCP Endpoint: https://rbi-doc-mcp.imsovikde.workers.dev/mcp
 
 ## 1. Architectural Philosophy and Naming
 
-The kernel takes its name from Nyaya, the classical Indian school of formal logic, epistemology, and invariant causal relations. In classical Nyaya epistemology, valid cognition (pramana) requires four distinct proofs: perception (pratyaksha), inference (anumana), comparison (upamana), and authoritative testimony (shabda).
+The kernel takes its name from libRbiKernel, the classical Indian school of formal logic, epistemology, and invariant causal relations. In classical libRbiKernel epistemology, valid cognition (pramana) requires four distinct proofs: perception (pratyaksha), inference (anumana), comparison (upamana), and authoritative testimony (shabda).
 
-In regulatory intelligence, an artificial intelligence agent cannot rely on probabilistic guesswork or heuristic drift when evaluating statutory compliance. The Nyaya Computational Kernel implements deterministic mathematical structures across every layer:
+In regulatory intelligence, an artificial intelligence agent cannot rely on probabilistic guesswork or heuristic drift when evaluating statutory compliance. The libRbiKernel Computational Kernel implements deterministic mathematical structures across every layer:
 1. Exact minimal perfect hashing for $O(1)$ document resolution without collisions.
 2. Quasisuccinct Elias-Fano monotone bitvectors for compact state indexing.
 3. A directed acyclic graph (DAG) with proven nilpotency for causal amendment tracking and finite Neumann series resolution.
@@ -25,7 +25,7 @@ All structures operate with zero proprietary secrecy. Every formula, bit layout,
 
 ---
 
-## 2. Engine 1: Czech-Havas-Majewski Perfect Hash Arena (Nyaya-MPHF)
+## 2. Engine 1: Czech-Havas-Majewski Perfect Hash Arena (libRbiKernel-MPHF)
 
 ### 2.1 Problem Formulation
 
@@ -77,7 +77,7 @@ Query cost is deterministic: exactly two hash evaluations, one array lookup in s
 
 ---
 
-## 3. Engine 2: Quasisuccinct Elias-Fano Monotone Bitvector (Nyaya-EliasFano)
+## 3. Engine 2: Quasisuccinct Elias-Fano Monotone Bitvector (libRbiKernel-EliasFano)
 
 ### 3.1 Problem Formulation
 
@@ -110,7 +110,7 @@ Storage benchmark: The complete document state bitvector requires 22,075 bytes (
 
 ---
 
-## 4. Engine 3: Causal Law Graph and Nilpotent Neumann Series (Nyaya-DAG)
+## 4. Engine 3: Causal Law Graph and Nilpotent Neumann Series (libRbiKernel-DAG)
 
 ### 4.1 Problem Formulation
 
@@ -161,7 +161,7 @@ This guarantees that matrix $(I - A)$ is unconditionally invertible, non-singula
 
 ---
 
-## 5. Engine 4: Content-Defined Chunking and Zstandard Compression (Nyaya-GearCDC)
+## 5. Engine 4: Content-Defined Chunking and Zstandard Compression (libRbiKernel-GearCDC)
 
 ### 5.1 Problem Formulation
 
@@ -201,7 +201,7 @@ Compression benchmark:
 
 ---
 
-## 6. Engine 5: BM25F Multi-Field Retrieval with Validity Prior (Nyaya-BM25F)
+## 6. Engine 5: BM25F Multi-Field Retrieval with Validity Prior (libRbiKernel-BM25F)
 
 ### 6.1 Mathematical Formulation
 
@@ -241,7 +241,7 @@ Active regulations receive full score weighting, while repealed circulars are at
 
 ---
 
-## 7. Engine 6: Token Bucket Rate Limiting Invariants (Nyaya-RateLimit)
+## 7. Engine 6: Token Bucket Rate Limiting Invariants (libRbiKernel-RateLimit)
 
 ### 7.1 Mathematical Formulation
 
