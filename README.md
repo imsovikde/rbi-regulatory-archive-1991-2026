@@ -136,6 +136,27 @@ forbidden.
 | `02_weekly_rbi_hf_github_sync.yml` | Mondays 02:30 UTC + manual | Weekly RBI crawl, HF backfill, new-document conversion |
 | `03_integrity_audit.yml` | Sundays 03:00 UTC + manual | Parity, hash, author, and URL-map audit; publishes AUDIT.md |
 
+## Model Context Protocol (MCP) & Query Engine
+
+AI agents and developer applications can query the complete archive via the official Model Context Protocol server:
+- Canonical MCP Endpoint: `https://rbi-doc-mcp.imsovikde.workers.dev/mcp`
+- GitHub Repository: [imsovikde/rbi-doc-mcp](https://github.com/imsovikde/rbi-doc-mcp)
+- Documentation: [docs/COMPLETE_SETUP_GUIDE.md](docs/COMPLETE_SETUP_GUIDE.md)
+- Mathematical Specification: [docs/NYAYA_MATHEMATICAL_ARCHITECTURE.md](docs/NYAYA_MATHEMATICAL_ARCHITECTURE.md)
+
+### Instant Claude Code Connection (Public Tier, Zero Setup)
+
+```bash
+claude mcp add rbi-doc-mcp https://rbi-doc-mcp.imsovikde.workers.dev/mcp
+```
+
+### Supported Query Planes
+
+1. Plane 1 (Cloudflare Code Mode): Dynamic tool discovery (<600 tokens) and sandboxed JavaScript execution (`rbi_doc_execute_code`) for complex multi-hop joins and filtering directly at the edge.
+2. Plane 2 (Canonical MCP Tools): Fast document resolution, SQLite FTS5 search, markdown retrieval, statutory consequence tracing, point-in-time validity checking, and judicial citation formatting.
+
+---
+
 ## Known limits
 
 - **Repository size**: the converted Markdown corpus will be large (tens of GB at

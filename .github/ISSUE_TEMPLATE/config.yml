@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Complete Setup Guide
+    url: https://github.com/imsovikde/rbi-doc-mcp/blob/main/docs/COMPLETE_SETUP_GUIDE.md
+    about: Read integration guides for Claude Code, Cursor, and Python clients.
+  - name: Nyaya Mathematical Architecture
+    url: https://github.com/imsovikde/rbi-doc-mcp/blob/main/docs/NYAYA_MATHEMATICAL_ARCHITECTURE.md
+    about: Read public derivations of MPHF, Elias-Fano, DAG, and CDC kernels.

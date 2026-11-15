@@ -1,0 +1,32 @@
+name: Bug Report
+description: Report an issue or unexpected behavior in the MCP server
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for reporting a bug. Please provide clear details and reproducible steps.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what happened and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Provide the exact request payload or code snippet used.
+      placeholder: |
+        1. Call tool 'resolve_rbi_doc' with argument '{"identifier": "..."}'
+        2. Observe response ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include client version, Node version, OS, and client type (Claude Code, Cursor, Python).
+    validations:
+      required: true

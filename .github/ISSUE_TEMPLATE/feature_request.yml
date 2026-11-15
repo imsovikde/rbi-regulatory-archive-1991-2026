@@ -1,0 +1,22 @@
+name: Feature Request
+description: Suggest an enhancement or new capability for the MCP server
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Suggestions for improving regulatory tool capabilities or mathematical indexing are welcome.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Explain what problem or limitation you are addressing.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the tool interface, query enhancement, or mathematical invariant you propose.
+    validations:
+      required: true
