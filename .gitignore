@@ -47,6 +47,7 @@ revocation.asc
 # These are generated on runners or on the owner's machine, never committed.
 
 __pycache__/
+*.sqlite
 
 *.pyc
 

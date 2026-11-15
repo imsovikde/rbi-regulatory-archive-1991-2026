@@ -1,0 +1,22 @@
+{
+  "Lok Adalat": {
+    "definition": "Statutory alternative dispute resolution forum organized under the Legal Services Authorities Act, 1987 for amicable settlement of banking disputes and recovery claims.",
+    "statutory_context": "Banking Ombudsman Scheme and NPA recovery guidelines."
+  },
+  "Kisan Credit Card": {
+    "definition": "Pioneered credit mechanism designed to provide adequate and timely credit to farmers for agricultural operational needs and post-harvest expenses.",
+    "statutory_context": "Priority Sector Lending (PSL) Master Directions."
+  },
+  "SARFAESI": {
+    "definition": "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 empowering banks and ARCs to enforce security interest without court intervention.",
+    "statutory_context": "Asset Reconstruction Companies and recovery directions."
+  },
+  "Jan Dhan": {
+    "definition": "Pradhan Mantri Jan Dhan Yojana (PMJDY) National Mission for Financial Inclusion providing universal access to banking facilities and Basic Savings Bank Deposit Accounts (BSBDA).",
+    "statutory_context": "Financial Inclusion directions."
+  },
+  "e-Mandate": {
+    "definition": "Electronic recurring payment mandate framework with Additional Factor of Authentication (AFA) and pre-transaction notification requirements.",
+    "statutory_context": "Payment and Settlement Systems Act directions issued by DPSS."
+  }
+}

@@ -1,0 +1,708 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "RBI Regulatory Feed: nbfc",
+  "home_page_url": "https://github.com/imsovikde/rbi-regulatory-archive-1991-2026",
+  "feed_url": "https://raw.githubusercontent.com/imsovikde/rbi-regulatory-archive-1991-2026/main/index/feeds/nbfc.json",
+  "items": [
+    {
+      "id": "52860",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1992/1992-06-17_Press-Release_52860_Non-Banking%20Financial%20Companies.pdf",
+      "title": "Non-Banking Financial Companies",
+      "date_published": "Jun 17, 1992",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "52809",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1993/1993-04-19_Press-Release_52809_Residuary%20Non-Banking%20Companies.pdf",
+      "title": "Residuary Non-Banking Companies",
+      "date_published": "Apr 19, 1993",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "52838",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1993/1993-07-09_Press-Release_52838_Aggregate%20deposits%20and%20gross%20bank%20credit%20of%20all%20scheduled%20commercial%20banks%20as%20on%20the%20last%20Friday%20of%20March%201993.pdf",
+      "title": "Aggregate deposits and gross bank credit of all scheduled commercial banks as on the last Friday of March 1993",
+      "date_published": "Jul 09, 1993",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "52967",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1994/1994-03-30_Press-Release_52967_Financial%20Institutions%20to%20meet%208%20per%20cent%20capital%20adequacy%20norms%20by%20March%201995.pdf",
+      "title": "Financial Institutions to meet 8 per cent capital adequacy norms by March 1995",
+      "date_published": "Mar 30, 1994",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "52935",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1995/1995-05-05_Press-Release_52935_RBI%20expert%20group%20on%20supervisory%20framework%20for%20non-banking%20financial%20companies.pdf",
+      "title": "RBI expert group on supervisory framework for non-banking financial companies",
+      "date_published": "May 05, 1995",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "Notification DFC (COC) No.108.ED(JRP)/97",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-04-30_Circular_Notification%20DFC%20%28COC%29%20No.108.ED%28JRP%29-97_Amended%20upto%2001.07.2005%20-%20Regulations%20relating%20to%20Maintenance%20of%20Liquid%20Assets%20by%20NBFCs%20-%20RNBCs.pdf",
+      "title": "Amended upto 01.07.2005 - Regulations relating to Maintenance of Liquid Assets by NBFCs / RNBCs",
+      "date_published": "April 30, 1997",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification DFC(COC) No.108.ED(JRP)/97",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-04-30_Circular_Notification%20DFC%28COC%29%20No.108.ED%28JRP%29-97_Amended%20upto%2003-08-2004%20-%20RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.pdf",
+      "title": "Amended upto 03-08-2004 - RBI (NBFC) Returns Specifications - 1997",
+      "date_published": "April 30, 1997",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification DFC(COC).No.108.ED(JRP)/97",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1997/1997-04-30_Circular_Notification%20DFC%28COC%29.No.108.ED%28JRP%29-97_Amended%20upto%2018.12.1998%20-%20RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.pdf",
+      "title": "Amended upto 18.12.1998 - RBI (NBFC) Returns Specifications - 1997",
+      "date_published": "April 30, 1997",
+      "category": "Circulars"
+    },
+    {
+      "id": "18514",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1997/1997-01-11_Press-Release_18514_RBI%20hosts%20BIS%20seminar%20on%20payment%20and%20settlement%20systems%20for%20central%20banks%20of%20SAARC%20countries.pdf",
+      "title": "RBI hosts BIS seminar on payment and settlement systems for central banks of SAARC countries",
+      "date_published": "Jan 11, 1997",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18552",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1997/1997-01-18_Press-Release_18552_Khanna%20Committee%20on%20NBFC%20supervision%20recommends%20rating%20system%20for%20registered%20NBFCs.pdf",
+      "title": "Khanna Committee on NBFC supervision recommends rating system for registered NBFCs",
+      "date_published": "Jan 18, 1997",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18519",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1997/1997-05-02_Press-Release_18519_Liquid%20Assets%20for%20NBFCs.pdf",
+      "title": "Liquid Assets for NBFCs",
+      "date_published": "May 02, 1997",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18530",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1997/1997-05-09_Press-Release_18530_Non-banking%20Financial%20Institutions%20-%20Summary%20of%20the%20Recent%20Amendments%20to%20the%20RBI%20Act.pdf",
+      "title": "Non-banking Financial Institutions - Summary of  the  Recent Amendments  to  the  RBI  Act",
+      "date_published": "May 09, 1997",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "Notification DFC.117/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-02_Circular_Notification%20DFC.117-DG%28SPT%29-98_Amended%20upto%2003.08.2004%20-%20NBFC%20Auditors%20Report%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 03.08.2004 - NBFC Auditors Report (Reserve Bank) Directions, 1998",
+      "date_published": "January 02, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification No.DFC.117/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-02_Circular_Notification%20No.DFC.117-DG%28SPT%29-98_Amended%20upto%2001.07.2005%20-%20Non-Banking%20Financial%20Companies%20Auditor%E2%80%99s%20Report%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 01.07.2005 - Non-Banking Financial Companies Auditor’s Report (Reserve Bank) Directions, 1998",
+      "date_published": "January 02, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification DFC.118/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20DFC.118-DG%28SPT%29-98_Amended%20upto%2001.10.2002%20-%20NBFC%20Acceptance%20of%20Public%20Deposits%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 01.10.2002 - NBFC Acceptance of Public Deposits (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification DFC.119/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20DFC.119-DG%28SPT%29-98_Amended%20upto%2029.03.2003%20-%20NBFC%20Prudential%20Norms%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 29.03.2003 - NBFC Prudential Norms (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification No. DFC. 119/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20No.%20DFC.%20119-DG%28SPT%29-98_Amended%20upto%2003-08-2004%20-%20Non-Banking%20Financial%20Companies%20Prudential%20Norms%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 03-08-2004 - Non-Banking Financial Companies Prudential Norms (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification No. DFC.118/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20No.%20DFC.118-DG%28SPT%29-98_Amended%20upto%2030.06.2005%20-%20Schedules%20-%20Non-Banking%20Financial%20Companies%20Acceptance%20of%20Public%20Deposits%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 30.06.2005 - Schedules : Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification No. DFC.119/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20No.%20DFC.119-DG%28SPT%29-98_Amended%20upto%2030.06.2005%20-%20Schedule%20-%20Non-Banking%20Financial%20Companies%20Acceptance%20of%20Public%20Deposits%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 30.06.2005 - Schedule : Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification No. DFC.119/­­DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20No.%20DFC.119-%C2%AD%C2%ADDG%28SPT%29-98_Amended%20upto%2015-06-2004%20-%20Non-Banking%20Financial%20Companies%20Prudential%20Norms%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 15-06-2004 - Non-Banking Financial Companies Prudential Norms (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification No.DFC.118/DG(SPT)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-01-31_Circular_Notification%20No.DFC.118-DG%28SPT%29-98_Amended%20upto%2003-08-2004%20-%20Non-Banking%20Financial%20Companies%20Acceptance%20of%20Public%20Deposits%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "Amended upto 03-08-2004 - Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998",
+      "date_published": "January 31, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "DNBS.No.CC.07/02.01/98-99",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-12-18_Circular_DNBS.No.CC.07-02.01-98-99_Non-Banking%20Financial%20Companies%20-%20Amendments%20to%20Directions.pdf",
+      "title": "Non-Banking Financial Companies - Amendments to Directions",
+      "date_published": "December 18, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification DNBS.130/CGM(VSNM)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-12-18_Circular_Notification%20DNBS.130-CGM%28VSNM%29-98_NBFC%20Auditors%20Report%20%28Reserve%20Bank%29%20Directions%2C%201998.pdf",
+      "title": "NBFC Auditors Report (Reserve Bank) Directions, 1998",
+      "date_published": "December 18, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "Notification DNBS.131/CGM(VSNM)-98",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1998/1998-12-18_Circular_Notification%20DNBS.131-CGM%28VSNM%29-98_RBI%20%28NBFC%29%20Returns%20Specifications%20-%201997.pdf",
+      "title": "RBI (NBFC) Returns Specifications - 1997",
+      "date_published": "December 18, 1998",
+      "category": "Circulars"
+    },
+    {
+      "id": "1967",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1998/1998-01-31_Notification_1967_Master%20Circular%20-%20Acceptance%20of%20Public%20Deposits%20by%20Non-Banking%20Financial%20Companies.pdf",
+      "title": "Master Circular - Acceptance of Public Deposits by Non-Banking Financial Companies",
+      "date_published": "January 31, 1998",
+      "category": "Notifications"
+    },
+    {
+      "id": "217",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1998/1998-10-31_Notification_217_Form%20-%20NBS%201%20%5BAnnual%20Return%20on%20Deposits%20as%20on%2031%2C%20March%2020.%20.%20%28To%20be%20submitted%20by%20all%20Non-Banking%20Financial%20Companies%20accepting%20-%20holding%20public%20deposits%2C%20and%20MNBCs%20-%20e.pdf",
+      "title": "Form - NBS 1 [Annual Return on Deposits as on 31, March 20. . (To be submitted by all Non-Banking Financial Companies accepting / holding public deposits, and MNBCs - except Residuary Non-Banking Companies)]",
+      "date_published": "October 31, 1998",
+      "category": "Notifications"
+    },
+    {
+      "id": "10",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1998/1998-12-24_Notification_10_Summary%20of%20Recommendations%20of%20the%20Task%20Force%20on%20NBFCs.pdf",
+      "title": "Summary of Recommendations of the Task Force on NBFCs",
+      "date_published": "Dec 24, 1998",
+      "category": "Notifications"
+    },
+    {
+      "id": "18622",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-01-02_Press-Release_18622_RBI%20announces%20New%20Regulatory%20Framework%20for%20NBFCs-%20Protection%20of%20Depositors%27%20Interest%20and%20More%20Effective%20Supervision%20at%20the%20Centre%20of%20New%20Policy.pdf",
+      "title": "RBI announces New Regulatory Framework for NBFCs: Protection of Depositors' Interest and More Effective Supervision at the Centre of New Policy",
+      "date_published": "Jan 02, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18623",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-01-02_Press-Release_18623_RBI%20Directives%20to%20Auditors%20of%20NBFCs.pdf",
+      "title": "RBI Directives to Auditors of NBFCs",
+      "date_published": "Jan 02, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18628",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-01-09_Press-Release_18628_Clarifications%20on%20New%20Regulatory%20Framework%20for%20NBFCs.pdf",
+      "title": "Clarifications on New Regulatory Framework for NBFCs",
+      "date_published": "Jan 09, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18640",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-01-28_Press-Release_18640_RBI%20modifies%20certain%20regulations%20for%20NBFCs.pdf",
+      "title": "RBI modifies certain regulations for NBFCs",
+      "date_published": "Jan 28, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18662",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-03-03_Press-Release_18662_Three-day%20fixed%20rate%20repos%20at%209.00%20per%20cent%20on%20March%204-%20RBI.pdf",
+      "title": "Three-day fixed rate repos at 9.00 per cent on March 4: RBI",
+      "date_published": "Mar 03, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18666",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-03-17_Press-Release_18666_RBI%20Seminar%20on%20New%20Regulatory%20Framework%20for%20NBFCs.pdf",
+      "title": "RBI Seminar on New Regulatory Framework for NBFCs",
+      "date_published": "Mar 17, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18671",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-03-24_Press-Release_18671_Development%20Research%20Group%20Study%20Series%20No.15%20-%20EMU%2C%20EURO%20and%20India.pdf",
+      "title": "Development Research Group Study Series No.15 : EMU, EURO and India",
+      "date_published": "Mar 24, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18787",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-04-27_Press-Release_18787_Advisory%20Group%20for%20Non-Banking%20Financial%20Companies%20formed.pdf",
+      "title": "Advisory Group for Non-Banking Financial Companies formed",
+      "date_published": "Apr 27, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18778",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-05-12_Press-Release_18778_All%20Non-%20Banking%20Financial%20Companies%20and%20Residuary%20Non-Banking%20Companies%20%28having%20Net%20Owned%20Fund%20of%20Rs.25%20lakh%20and%20above%29.pdf",
+      "title": "All Non- Banking Financial Companies and Residuary Non-Banking Companies (having Net Owned Fund of Rs.25 lakh and above)",
+      "date_published": "May 12, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18784",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-05-12_Press-Release_18784_RBI%20modifies%20prudential%20norms%20for%20NBFCs.pdf",
+      "title": "RBI modifies prudential norms for NBFCs",
+      "date_published": "May 12, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18655",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-07-03_Press-Release_18655_Aggregate%20deposits%20and%20gross%20bank%20credit%20of%20all%20scheduled%20commercial%20banks%20as%20on%20the%20last%20Friday%20of%20March%201998.pdf",
+      "title": "Aggregate deposits and gross bank credit of all scheduled commercial banks as on the last Friday of March 1998",
+      "date_published": "Jul 03, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18559",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-07-14_Press-Release_18559_RBI%20asks%20NBFCs-MNBCs%20to%20submit%20annual%20return.pdf",
+      "title": "RBI asks NBFCs/MNBCs to submit annual return",
+      "date_published": "Jul 14, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18566",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-08-08_Press-Release_18566_Bank%20credit%20to%20NBFCs%20for%20transport%20operators%20to%20be%20treated%20as%20priority%20sector%20lending.pdf",
+      "title": "Bank credit to NBFCs for transport operators to be treated as priority sector lending",
+      "date_published": "Aug 08, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18568",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-08-08_Press-Release_18568_NBFCs%20not%20accepting%20public%20deposits%20need%20not%20submit%20returns%20to%20RBI.pdf",
+      "title": "NBFCs not accepting public deposits need not submit returns to RBI",
+      "date_published": "Aug 08, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "73",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-08_Press-Release_73_Rejection%20of%20application%20for%20certificate%20of%20registration%20to%20carry%20on%20the%20business%20of%20a%20non-banking%20financial%20institution.pdf",
+      "title": "Rejection of application for certificate of registration to carry on the business of a non-banking financial institution",
+      "date_published": "Oct 08, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "81",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-09_Press-Release_81_List%20of%20Suit-filed%20Borrowal%20Accounts%20-%20March%201998.pdf",
+      "title": "List of Suit-filed Borrowal Accounts : March 1998",
+      "date_published": "Oct 09, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "106",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-12_Press-Release_106_SELECTED%20BANKING%20INDICATORS%201947-1997%20-%20TABLE%201D-%20MONTH-WISE%20BUSINESS%20OF%20SCHEDULED%20COMMERCIAL%20BANKS%20IN%20INDIA%28MARCH%201968%20TO%20JANUARY%201983%29%20%28Part%201%20of%203%29.pdf",
+      "title": "SELECTED BANKING INDICATORS 1947-1997 - TABLE 1D: MONTH-WISE BUSINESS OF SCHEDULED COMMERCIAL BANKS IN INDIA(MARCH 1968 TO JANUARY 1983) (Part 1 of 3)",
+      "date_published": "Oct 12, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "123",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-12_Press-Release_123_SELECTED%20BANKING%20INDICATORS%201947-1997%20-%20TABLE%201E-%20MONTH-WISE%20BUSINESS%20OF%20SCHEDULED%20COMMERCIAL%20BANKS%20IN%20INDIA%28FEBRUARY%201983%20TO%20MARCH%201997%29%20%28Part%201%20of%203%29.pdf",
+      "title": "SELECTED BANKING INDICATORS 1947-1997 - TABLE 1E: MONTH-WISE BUSINESS OF SCHEDULED COMMERCIAL BANKS IN INDIA(FEBRUARY 1983 TO MARCH 1997) (Part 1 of 3)",
+      "date_published": "Oct 12, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "90",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-12_Press-Release_90_Rejection%20of%20application%20for%20certificate%20of%20registration%20to%20carry%20on%20the%20business%20of%20a%20non-banking%20financial%20institution.pdf",
+      "title": "Rejection of application for certificate of registration to carry on the business of a non-banking financial institution",
+      "date_published": "Oct 12, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "118",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-14_Press-Release_118_Rejection%20of%20application%20for%20certificate%20of%20registration%20to%20carry%20on%20the%20business%20of%20a%20non-banking%20financial%20institution.pdf",
+      "title": "Rejection of application for certificate of registration to carry on the business of a non-banking financial institution",
+      "date_published": "Oct 14, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "183",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-27_Press-Release_183_RBI%20to%20conduct%20off-site%20surveillance%20of%20NBFCs%20through%20WAN.pdf",
+      "title": "RBI to conduct off-site surveillance of NBFCs through WAN",
+      "date_published": "Oct 27, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "191",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-28_Press-Release_191_Prizindia%20Ltd.%20not%20eligible%20to%20do%20NBFC%20business.pdf",
+      "title": "Prizindia Ltd. not eligible to do NBFC business",
+      "date_published": "Oct 28, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "278",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-11-11_Press-Release_278_Banks%20can%20rediscount%20transport%20sector%20bills%20discounted%20by%20NBFCs.pdf",
+      "title": "Banks can rediscount transport sector bills discounted by NBFCs",
+      "date_published": "Nov 11, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "389",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-12-04_Press-Release_389_List%20of%20Suite-filed%20Borrowal%20Accounts%20-%20March%201998.pdf",
+      "title": "List of Suite-filed Borrowal Accounts : March 1998",
+      "date_published": "Dec 04, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "18664",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-12-15_Press-Release_18664_Banking%20Statistics%20Summary%20Tables%20-%20March%201996.pdf",
+      "title": "Banking Statistics Summary Tables - March 1996",
+      "date_published": "Dec 15, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "467",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-12-18_Press-Release_467_Reserve%20Bank%20announces%20changes%20in%20deposit%20norms%20for%20NBFCs%20and%20unincorporated%20bodies.pdf",
+      "title": "Reserve Bank announces changes in deposit norms for NBFCs and unincorporated bodies",
+      "date_published": "Dec 18, 1998",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "DNBS.No.(PD)CC.8/02.01/98-99",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1999/1999-01-21_Circular_DNBS.No.%28PD%29CC.8-02.01-98-99_Acceptance%20of%20public%20deposits%20for%20NBFCs%20-%20Submission%20of%20statutory%20return%20on%20liquid%20assets%20and%20special%20return.pdf",
+      "title": "Acceptance of public deposits for NBFCs - Submission of statutory return on liquid assets and special return",
+      "date_published": "January 21, 1999",
+      "category": "Circulars"
+    },
+    {
+      "id": "DNBS.(PD)No.CC.10/02.59/98-99",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1999/1999-04-20_Circular_DNBS.%28PD%29No.CC.10-02.59-98-99_Minimum%20Net%20Owned%20Fund%20%28NOF%29%20for%20Commencement%20of%20Business%20of%20Non-Banking%20Financial%20Institution%20%28NBFI%29.pdf",
+      "title": "Minimum Net Owned Fund (NOF) for Commencement of Business of Non-Banking Financial Institution (NBFI)",
+      "date_published": "April 20, 1999",
+      "category": "Circulars"
+    },
+    {
+      "id": "DBS.CO.Y2K.BC.51/35.01.00/98-99",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1999/1999-05-21_Circular_DBS.CO.Y2K.BC.51-35.01.00-98-99_Year%202000%20%28Y2K%29%20Issues%20%E2%80%93%20Information%20Sharing%20and%20Disclosure%20%28Financial%20Institutions-%20Non-Banking%20Subsidiaries%20of%20Commercial%20Banks-Primary%20%28Urban.pdf",
+      "title": "Year 2000 (Y2K) Issues – Information Sharing and Disclosure (Financial Institutions/ Non-Banking Subsidiaries of Commercial Banks/Primary (Urban) Cooperative Banks/ Primary/ Satellite Dealersin Government Securities)",
+      "date_published": "May 21, 1999",
+      "category": "Circulars"
+    },
+    {
+      "id": "IECD.No.29/08.12.01/98-99",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1999/1999-05-25_Circular_IECD.No.29-08.12.01-98-99_Lending%20to%20NBFCs.pdf",
+      "title": "Lending to NBFCs",
+      "date_published": "May 25, 1999",
+      "category": "Circulars"
+    },
+    {
+      "id": "IECD.No.(HF)5/03:27:25/99-2000",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1999/1999-10-29_Circular_IECD.No.%28HF%295-03-27-25-99-2000_Housing%20Finance%20-%20Modification%20in%20Loan%20Size.pdf",
+      "title": "Housing Finance - Modification in Loan Size",
+      "date_published": "October 29, 1999",
+      "category": "Circulars"
+    },
+    {
+      "id": "IECD.No.8/03:27:35/1999-2000",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1999/1999-11-16_Circular_IECD.No.8-03-27-35-1999-2000_Transfer%20of%20Housing%20Loan%20Accounts%20vis-a-vis%20Housing%20Finance%20Allocation%20-%20Clarification.pdf",
+      "title": "Transfer of Housing Loan Accounts vis-a-vis Housing Finance Allocation - Clarification",
+      "date_published": "November 16, 1999",
+      "category": "Circulars"
+    },
+    {
+      "id": "21",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1999/1999-04-01_Notification_21_A.D.%28M.A.%20Series%29%20Circular%20No.6%20%28March%2017%2C%201999%29.pdf",
+      "title": "A.D.(M.A. Series) Circular No.6 (March 17, 1999)",
+      "date_published": "Apr 01, 1999",
+      "category": "Notifications"
+    },
+    {
+      "id": "22",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1999/1999-04-01_Notification_22_A.D.%28M.A.%20Series%29%20Circular%20No.7%20%28March%2020%2C%201999%29.pdf",
+      "title": "A.D.(M.A. Series) Circular No.7 (March 20, 1999)",
+      "date_published": "Apr 01, 1999",
+      "category": "Notifications"
+    },
+    {
+      "id": "23",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1999/1999-04-01_Notification_23_A.D.%20%28M.A.%20Series%20%29%20Circular%20No.8%20%28March%2026%2C%201999%29.pdf",
+      "title": "A.D. (M.A. Series ) Circular No.8 (March 26, 1999)",
+      "date_published": "Apr 01, 1999",
+      "category": "Notifications"
+    },
+    {
+      "id": "24",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1999/1999-04-02_Notification_24_A.D.%20%28M.A.%20Series%29%20Circular%20No.9%20%28March%2030%2C%201999%29.pdf",
+      "title": "A.D. (M.A. Series) Circular No.9 (March 30, 1999)",
+      "date_published": "Apr 02, 1999",
+      "category": "Notifications"
+    },
+    {
+      "id": "28",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1999/1999-04-13_Notification_28_A.D.%28G.P.%20Series%29%20Circular%20No.2%20%28March%2026%2C%201999%29.pdf",
+      "title": "A.D.(G.P. Series) Circular No.2 (March 26, 1999)",
+      "date_published": "Apr 13, 1999",
+      "category": "Notifications"
+    },
+    {
+      "id": "227",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1999/1999-11-16_Notification_227_Amendments%20to%20NBFC%20Regulations.pdf",
+      "title": "Amendments to NBFC Regulations",
+      "date_published": "Nov 16, 1999",
+      "category": "Notifications"
+    },
+    {
+      "id": "558",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-01-06_Press-Release_558_Development%20Research%20Group%20Study%20Series%20No.17%20-%20-The%20Impact%20of%20the%20Uruguay%20Round%20on%20Growth%20and%20Structure%20of%20India%20Economy-.pdf",
+      "title": "Development Research Group Study Series No.17 : \"The Impact of the Uruguay Round on Growth and Structure of India Economy\"",
+      "date_published": "Jan 06, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "582",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-01-12_Press-Release_582_Banking%20Statistics%20Summary%20Tables%20-%20March%201996.pdf",
+      "title": "Banking Statistics Summary Tables - March 1996",
+      "date_published": "Jan 12, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "614",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-01-18_Press-Release_614_RBI%20to%20shift%20focus%20on%20unauthorised%20NBFCs%20holding%20public%20deposits.pdf",
+      "title": "RBI to shift focus on unauthorised NBFCs holding public deposits",
+      "date_published": "Jan 18, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "631",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-01-22_Press-Release_631_RBI%20asks%20NBFCs%20holding%20Public%20Deposits%20to%20submit%20Return%20on%20Liquid%20Assets.pdf",
+      "title": "RBI asks NBFCs holding Public Deposits to submit Return on Liquid Assets",
+      "date_published": "Jan 22, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "639",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-01-26_Press-Release_639_RBI%27s%20SAARCFinance%20Seminar%20on%20%27Emerging%20Trends%20in%20Supervision%27.pdf",
+      "title": "RBI's SAARCFinance Seminar on 'Emerging Trends in Supervision'",
+      "date_published": "Jan 26, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "646",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-01-27_Press-Release_646_SAARCFinance%20Seminar%20-%20Indian%20Banking%20System%20Sound%20and%20Resilient%20-%20RBI%20Deputy%20Governor.pdf",
+      "title": "SAARCFinance Seminar - Indian Banking System Sound and Resilient : RBI Deputy Governor",
+      "date_published": "Jan 27, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "692",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-02-08_Press-Release_692_Special%20Training%20Programme%20for%20NBFC%20Personnel.pdf",
+      "title": "Special Training Programme for NBFC Personnel",
+      "date_published": "Feb 08, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "774",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-02-27_Press-Release_774_Three-day%20fixed%20rate%20repos%20on%20March%201%20at%208.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 1 at 8.00 per cent : RBI",
+      "date_published": "Feb 27, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "776",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-01_Press-Release_776_Revised%20Scheme%20of%20Ways%20and%20Means%20Advances%20%28WMA%29%20to%20State%20Governments%20from%20March%201%2C%201999..pdf",
+      "title": "Revised Scheme of Ways and Means Advances (WMA) to State Governments from March 1, 1999.",
+      "date_published": "Mar 01, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "780",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-01_Press-Release_780_Results%20of%20Three-day%208.00%25%20fixed%20rate%20repos%20held%20on%20March%201.pdf",
+      "title": "Results of Three-day 8.00% fixed rate repos held on March 1",
+      "date_published": "Mar 01, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "783",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-01_Press-Release_783_Three-day%20fixed%20rate%20repos%20on%20March%203%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 3 at 6.00 per cent : RBI",
+      "date_published": "Mar 01, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "789",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-03_Press-Release_789_Results%20of%20Three-day%206.00%25%20fixed%20rate%20repos%20held%20on%20March%203.pdf",
+      "title": "Results of Three-day 6.00% fixed rate repos held on March 3",
+      "date_published": "Mar 03, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "791",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-03_Press-Release_791_Four-day%20fixed%20rate%20repos%20on%20March%204%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 4 at 6.00 per cent : RBI",
+      "date_published": "Mar 03, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "795",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-04_Press-Release_795_Four-day%20fixed%20rate%20repos%20on%20March%205%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 5 at 6.00 per cent : RBI",
+      "date_published": "Mar 04, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "797",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-05_Press-Release_797_Results%20of%20Four-day%206.00%25%20fixed%20rate%20repos%20held%20on%20March%205.pdf",
+      "title": "Results of Four-day 6.00% fixed rate repos held on March 5",
+      "date_published": "Mar 05, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "798",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-05_Press-Release_798_Four-day%20fixed%20rate%20repos%20on%20March%206%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 6 at 6.00 per cent : RBI",
+      "date_published": "Mar 05, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "799",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-05_Press-Release_799_RBI%20cautions%20against%20unauthorised%20use%20of%20RBI%20name%20by%20NBFCs.pdf",
+      "title": "RBI cautions against unauthorised use of RBI name by NBFCs",
+      "date_published": "Mar 05, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "802",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-06_Press-Release_802_Results%20of%20Four-day%206.00%25%20fixed%20rate%20repos%20held%20on%20March%206.pdf",
+      "title": "Results of Four-day 6.00% fixed rate repos held on March 6",
+      "date_published": "Mar 06, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "803",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-06_Press-Release_803_Three-day%20fixed%20rate%20repos%20on%20March%208%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 8 at 6.00 per cent : RBI",
+      "date_published": "Mar 06, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "807",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-08_Press-Release_807_Three-day%20fixed%20rate%20repos%20on%20March%209%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 9 at 6.00 per cent : RBI",
+      "date_published": "Mar 08, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "811",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-09_Press-Release_811_Three-day%20fixed%20rate%20repos%20on%20March%2010%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 10 at 6.00 per cent : RBI",
+      "date_published": "Mar 09, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "819",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-10_Press-Release_819_Four-day%20fixed%20rate%20repos%20on%20March%2011%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 11 at 6.00 per cent : RBI",
+      "date_published": "Mar 10, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "825",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-11_Press-Release_825_Four-day%20fixed%20rate%20repos%20on%20March%2012%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 12 at 6.00 per cent : RBI",
+      "date_published": "Mar 11, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "828",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-12_Press-Release_828_Results%20of%20Four-day%206.00%25%20fixed%20rate%20repos%20held%20on%20March%2012.pdf",
+      "title": "Results of Four-day 6.00% fixed rate repos held on March 12",
+      "date_published": "Mar 12, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "830",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-12_Press-Release_830_Four-day%20fixed%20rate%20repos%20on%20March%2013%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 13 at 6.00 per cent : RBI",
+      "date_published": "Mar 12, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "836",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-13_Press-Release_836_Four-day%20fixed%20rate%20repos%20on%20March%2015%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 15 at 6.00 per cent : RBI",
+      "date_published": "Mar 13, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "845",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-15_Press-Release_845_Four-day%20fixed%20rate%20repos%20on%20March%2016%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 16 at 6.00 per cent : RBI",
+      "date_published": "Mar 15, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "850",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-16_Press-Release_850_Three-day%20fixed%20rate%20repos%20on%20March%2017%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 17 at 6.00 per cent : RBI",
+      "date_published": "Mar 16, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "855",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-17_Press-Release_855_Three-day%20fixed%20rate%20repos%20on%20March%2019%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 19 at 6.00 per cent : RBI",
+      "date_published": "Mar 17, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "859",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-19_Press-Release_859_Three-day%20fixed%20rate%20repos%20on%20March%2020%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 20 at 6.00 per cent : RBI",
+      "date_published": "Mar 19, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "870",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-22_Press-Release_870_Three-day%20fixed%20rate%20repos%20on%20March%2023%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 23 at 6.00 per cent : RBI",
+      "date_published": "Mar 22, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "874",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-23_Press-Release_874_Three-day%20fixed%20rate%20repos%20on%20March%2024%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Three-day fixed rate repos on March 24 at 6.00 per cent : RBI",
+      "date_published": "Mar 23, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "875",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-24_Press-Release_875_Four-day%20fixed%20rate%20repos%20on%20March%2026%20at%206.00%20per%20cent%20-%20RBI.pdf",
+      "title": "Four-day fixed rate repos on March 26 at 6.00 per cent : RBI",
+      "date_published": "Mar 24, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "879",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-25_Press-Release_879_Public%20sector%20bank%20branches%20conducting%20Government%20business%20to%20observe%20Saturday%20March%2027%2C%201999%20as%20a%20full%20working%20day.pdf",
+      "title": "Public sector bank branches conducting Government business to observe Saturday March 27, 1999 as a full working day",
+      "date_published": "Mar 25, 1999",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "882",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-26_Press-Release_882_Results%20of%20Four-day%206.00%25%20fixed%20rate%20repos%20held%20on%20March%2026.pdf",
+      "title": "Results of Four-day 6.00% fixed rate repos held on March 26",
+      "date_published": "Mar 26, 1999",
+      "category": "Press-Releases"
+    }
+  ]
+}

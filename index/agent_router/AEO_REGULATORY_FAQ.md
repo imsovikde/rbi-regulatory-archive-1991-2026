@@ -40,7 +40,7 @@ The Reserve Bank of India (Commercial Banks - Internal Ombudsman) Directions 202
 ### <a id="faq-3"></a>3. Which Reserve Bank of India directions govern Credit Information Companies under CICRA 2005?
 - **Topic Domain:** Credit Information Companies (CICs)
 - **Statutory Authority:** Sections 11 and 37 of Credit Information Companies (Regulation) Act 2005
-- **Controlling Document:** [2016-01-01_Master-Direction_10793_Reserve Bank of India (Credit Information Companies) Directions, 2016.md](../../data/Master-Directions/2016/2016-01-01_Master-Direction_10793_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Directions%2C%202016.md)
+- **Controlling Document:** [2025-11-28_Master-Direction_12926_Reserve Bank of India (Credit Information Companies) Directions, 2025 (Updated as on July 01, 2026).md](../../data/Master-Directions/2025/2025-11-28_Master-Direction_12926_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.md)
 
 **Statutory Answer:**
 Credit Information Companies are regulated under the Credit Information Companies (Regulation) Act 2005 (CICRA 2005). Reserve Bank of India circulars mandate free annual full credit reports to individuals, compensation of 100 rupees per calendar day for delay in updating credit records beyond 30 days, and deployment of senior management compliance monitoring dashboards.
@@ -50,10 +50,10 @@ Credit Information Companies are regulated under the Credit Information Companie
 ### <a id="faq-4"></a>4. What directions govern Know Your Customer (KYC) and Anti-Money Laundering (AML) for Regulated Entities?
 - **Topic Domain:** KYC, CDD, and AML Directives
 - **Statutory Authority:** Section 35A Banking Regulation Act 1949 read with Prevention of Money Laundering Act 2002
-- **Controlling Document:** [2016-02-25_Master-Direction_10797_Reserve Bank of India (Know Your Customer (KYC)) Directions, 2016.md](../../data/Master-Directions/2016/2016-02-25_Master-Direction_10797_Reserve%20Bank%20of%20India%20%28Know%20Your%20Customer%20%28KYC%29%29%20Directions%2C%202016.md)
+- **Controlling Document:** [2025-11-28_Master-Direction_13141_Reserve Bank of India (Commercial Banks - Know Your Customer) Directions, 2025 (Updated as on October 1, 2026).md](../../data/Master-Directions/2025/2025-11-28_Master-Direction_13141_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Know%20Your%20Customer%29%20Directions%2C%202025%20%28Updated%20as%20on%20October%201%2C%202026%29.md)
 
 **Statutory Answer:**
-The Master Direction on Know Your Customer (KYC) Direction 2016 applies to all regulated entities including banks, NBFCs, and payment system providers. It specifies Customer Due Diligence (CDD), Video-based Customer Identification Process (V-CIP), Periodic Updation schedules based on risk classification, and Central KYC Records Registry (CKYCR) uploads within statutory time limits.
+The Master Direction on Know Your Customer (KYC) Direction applies to all regulated entities including banks, NBFCs, and payment system providers. It specifies Customer Due Diligence (CDD), Video-based Customer Identification Process (V-CIP), Periodic Updation schedules based on risk classification, and Central KYC Records Registry (CKYCR) uploads within statutory time limits.
 
 ---
 
@@ -70,7 +70,7 @@ Section 35A empowers the Reserve Bank of India to issue directions to banking co
 ### <a id="faq-6"></a>6. Which Master Direction governs Outsourcing of Financial Services by NBFCs?
 - **Topic Domain:** NBFC Risk Management and Governance
 - **Statutory Authority:** Section 45JA and 45L of Reserve Bank of India Act 1934
-- **Controlling Document:** [2016-11-09_Master-Direction_10729_Master Direction- Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016.md](../../data/Master-Directions/2016/2016-11-09_Master-Direction_10729_Master%20Direction-%20Non-Banking%20Financial%20Company%20-%20Systemically%20Important%20Non-Deposit%20taking%20Company%20and%20Deposit%20taking%20Company%20%28Reserve%20Bank%29%20Directions%2C%202016.md)
+- **Controlling Document:** [2025-11-28_Master-Direction_12943_Reserve Bank of India (Non-Banking Financial Companies - Know Your Customer) Directions, 2025 (Updated as on December 29, 2025).md](../../data/Master-Directions/2025/2025-11-28_Master-Direction_12943_Reserve%20Bank%20of%20India%20%28Non-Banking%20Financial%20Companies%20%E2%80%93%20Know%20Your%20Customer%29%20Directions%2C%202025%20%28Updated%20as%20on%20December%2029%2C%202025%29.md)
 
 **Statutory Answer:**
 The Reserve Bank of India Master Direction on Outsourcing of Financial Services by NBFCs restricts outsourcing of core management functions including internal audit, credit appraisal, and KYC compliance. The NBFC board remains ultimately responsible for outsourced actions, data confidentiality, and business continuity.
@@ -90,7 +90,7 @@ Digital Payment Security Controls directions mandate multi-factor authentication
 ### <a id="faq-8"></a>8. Which Master Direction applies to Non-Banking Financial Company Systemically Important Non-Deposit taking Company (NBFC-ND-SI)?
 - **Topic Domain:** NBFC Prudential Regulations
 - **Statutory Authority:** Section 45JA of Reserve Bank of India Act 1934
-- **Controlling Document:** [2016-11-09_Master-Direction_10729_Master Direction- Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016.md](../../data/Master-Directions/2016/2016-11-09_Master-Direction_10729_Master%20Direction-%20Non-Banking%20Financial%20Company%20-%20Systemically%20Important%20Non-Deposit%20taking%20Company%20and%20Deposit%20taking%20Company%20%28Reserve%20Bank%29%20Directions%2C%202016.md)
+- **Controlling Document:** [2025-11-28_Master-Direction_12943_Reserve Bank of India (Non-Banking Financial Companies - Know Your Customer) Directions, 2025 (Updated as on December 29, 2025).md](../../data/Master-Directions/2025/2025-11-28_Master-Direction_12943_Reserve%20Bank%20of%20India%20%28Non-Banking%20Financial%20Companies%20%E2%80%93%20Know%20Your%20Customer%29%20Directions%2C%202025%20%28Updated%20as%20on%20December%2029%2C%202025%29.md)
 
 **Statutory Answer:**
 NBFC-ND-SI entities with asset size of 500 crore rupees or more are governed by the Scale Based Regulation (SBR) framework and Master Direction on NBFC-SI. It establishes minimum capital adequacy (CRAR of 15 percent), Tier 1 capital minimum of 10 percent, credit concentration limits, and liquidity coverage ratio (LCR) standards.
@@ -130,7 +130,7 @@ The Reserve Bank of India Master Directions on Fraud Risk Management mandate a d
 ### <a id="faq-12"></a>12. What is the statutory framework under Foreign Exchange Management Act (FEMA) 1999 for Overseas Direct Investment (ODI)?
 - **Topic Domain:** Foreign Exchange Management
 - **Statutory Authority:** Sections 10(4) and 11(1) of Foreign Exchange Management Act 1999 (FEMA)
-- **Controlling Document:** [2016-01-01_Master-Direction_10787_Master Direction - Direct Investment by Residents in Joint Venture (JV) Wholly Owned Subsidiary (WOS) Abroad.md](../../data/Master-Directions/2016/2016-01-01_Master-Direction_10787_Master%20Direction%20-%20Direct%20Investment%20by%20Residents%20in%20Joint%20Venture%20%28JV%29%20Wholly%20Owned%20Subsidiary%20%28WOS%29%20Abroad.md)
+- **Controlling Document:** [2016-01-04_Master-Direction_10199_Master Direction - Direct Investment by Residents in Joint Venture (JV) - Wholly Owned Subsidiary (WOS) Abroad.md](../../data/Master-Directions/2016/2016-01-04_Master-Direction_10199_Master%20Direction%20%E2%80%93%20Direct%20Investment%20by%20Residents%20in%20Joint%20Venture%20%28JV%29%20-%20Wholly%20Owned%20Subsidiary%20%28WOS%29%20Abroad.md)
 
 **Statutory Answer:**
 Overseas investment by Indian entities is governed by the Foreign Exchange Management (Overseas Investment) Rules 2022 and Master Direction on Foreign Investment in India. Eligible Indian entities may invest in Foreign Direct Investment (FDI) or Overseas Portfolio Investment (OPI) up to 400 percent of net worth under the automatic route via Authorised Dealer Category-I banks.

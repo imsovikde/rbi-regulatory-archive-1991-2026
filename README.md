@@ -163,3 +163,21 @@ The documents in this archive are public publications of the Reserve Bank of Ind
 no copyright is claimed over them. This repository is not affiliated with, endorsed
 by, or connected to the Reserve Bank of India. The conversion pipeline, indexes, and
 manifests are provided as-is, without warranty.
+
+
+<!-- DYNAMIC_STATS_START -->
+### Live Dynamic Archive Statistics
+
+- **Total Regulatory Documents:** 88,236
+- **Temporal Range:** 1992 through 2026
+- **Conversion Progress:** 100.0000% complete
+
+| Category | Document Count | Format |
+| --- | ---: | --- |
+| Press-Releases | 64,063 | GitHub-Flavored Markdown |
+| Circulars | 11,690 | GitHub-Flavored Markdown |
+| Notifications | 10,527 | GitHub-Flavored Markdown |
+| Master-Circulars | 1,013 | GitHub-Flavored Markdown |
+| Draft-Notifications-Guidelines | 546 | GitHub-Flavored Markdown |
+| Master-Directions | 397 | GitHub-Flavored Markdown |
+<!-- DYNAMIC_STATS_END -->

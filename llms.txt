@@ -41,3 +41,21 @@ Per-year indexes: index/by_year/<YYYY>.md and index/by_year/<YYYY>.json for 1991
 3. For an RBI or HF URL, compute sha256(url.lower())[:2] and check index/url_shards/<hex>.json.
 4. For category and year, open index/by_year/<YYYY>.md or data/<Folder>/<Year>/INDEX.md.
 5. Converted Markdown lives under data/<Folder>/<Year>/ with the exact PDF stem and a .md extension.
+
+
+<!-- DYNAMIC_STATS_START -->
+### Live Dynamic Archive Statistics
+
+- **Total Regulatory Documents:** 88,236
+- **Temporal Range:** 1992 through 2026
+- **Conversion Progress:** 100.0000% complete
+
+| Category | Document Count | Format |
+| --- | ---: | --- |
+| Press-Releases | 64,063 | GitHub-Flavored Markdown |
+| Circulars | 11,690 | GitHub-Flavored Markdown |
+| Notifications | 10,527 | GitHub-Flavored Markdown |
+| Master-Circulars | 1,013 | GitHub-Flavored Markdown |
+| Draft-Notifications-Guidelines | 546 | GitHub-Flavored Markdown |
+| Master-Directions | 397 | GitHub-Flavored Markdown |
+<!-- DYNAMIC_STATS_END -->

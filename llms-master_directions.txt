@@ -1,0 +1,15 @@
+# RBI Regulatory Archive: Master-Directions
+> Machine-readable entrypoint and routing index for Master-Directions.
+
+## Directory Shards (Master-Directions)
+- [index/by_category/Master-Directions/2016.md](index/by_category/Master-Directions/2016.md): 25 documents (2016)
+- [index/by_category/Master-Directions/2017.md](index/by_category/Master-Directions/2017.md): 4 documents (2017)
+- [index/by_category/Master-Directions/2018.md](index/by_category/Master-Directions/2018.md): 2 documents (2018)
+- [index/by_category/Master-Directions/2019.md](index/by_category/Master-Directions/2019.md): 5 documents (2019)
+- [index/by_category/Master-Directions/2020.md](index/by_category/Master-Directions/2020.md): 2 documents (2020)
+- [index/by_category/Master-Directions/2021.md](index/by_category/Master-Directions/2021.md): 4 documents (2021)
+- [index/by_category/Master-Directions/2022.md](index/by_category/Master-Directions/2022.md): 1 documents (2022)
+- [index/by_category/Master-Directions/2023.md](index/by_category/Master-Directions/2023.md): 3 documents (2023)
+- [index/by_category/Master-Directions/2024.md](index/by_category/Master-Directions/2024.md): 4 documents (2024)
+- [index/by_category/Master-Directions/2025.md](index/by_category/Master-Directions/2025.md): 251 documents (2025)
+- [index/by_category/Master-Directions/2026.md](index/by_category/Master-Directions/2026.md): 96 documents (2026)

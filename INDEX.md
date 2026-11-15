@@ -78,3 +78,21 @@
 | 2024 | 2880 | 2880 | [index](index/by_year/2024.md) |
 | 2025 | 3913 | 3913 | [index](index/by_year/2025.md) |
 | 2026 | 3228 | 3228 | [index](index/by_year/2026.md) |
+
+
+<!-- DYNAMIC_STATS_START -->
+### Live Dynamic Archive Statistics
+
+- **Total Regulatory Documents:** 88,236
+- **Temporal Range:** 1992 through 2026
+- **Conversion Progress:** 100.0000% complete
+
+| Category | Document Count | Format |
+| --- | ---: | --- |
+| Press-Releases | 64,063 | GitHub-Flavored Markdown |
+| Circulars | 11,690 | GitHub-Flavored Markdown |
+| Notifications | 10,527 | GitHub-Flavored Markdown |
+| Master-Circulars | 1,013 | GitHub-Flavored Markdown |
+| Draft-Notifications-Guidelines | 546 | GitHub-Flavored Markdown |
+| Master-Directions | 397 | GitHub-Flavored Markdown |
+<!-- DYNAMIC_STATS_END -->

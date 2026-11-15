@@ -1,0 +1,10 @@
+{
+  "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/1996/1996-09-10_Circular_RPCD.No.BC.36-07.38.01-96-97_Operation%20of%20Safe%20Deposits%20Lockers%20by%20Customers.pdf": "data/Circulars/1996/1996-09-10_Circular_RPCD.No.BC.36-07.38.01-96-97_Operation of Safe Deposits Lockers by Customers.md",
+  "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1996/1996-09-06_Notification_203_Schedule%20IIB.pdf": "data/Notifications/1996/1996-09-06_Notification_203_Schedule IIB.md",
+  "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/1996/1996-09-10_Notification_1354_Operation%20of%20Safe%20Deposits%20Lockers%20by%20Customers.pdf": "data/Notifications/1996/1996-09-10_Notification_1354_Operation of Safe Deposits Lockers by Customers.md",
+  "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1996/1996-08-24_Press-Release_5817_Guidelines%20for%20Setting%20up%20of%20Local%20Area%20Banks%20in%20the%20Private%20Sector.pdf": "data/Press-Releases/1996/1996-08-24_Press-Release_5817_Guidelines for Setting up of Local Area Banks in the Private Sector.md",
+  "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/23726.pdf": "data/Press-Releases/1996/1996-08-24_Press-Release_5817_Guidelines for Setting up of Local Area Banks in the Private Sector.md",
+  "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/14261.pdf": "data/Notifications/1996/1996-09-06_Notification_203_Schedule IIB.md",
+  "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/OSDCC10091996.PDF": "data/Circulars/1996/1996-09-10_Circular_RPCD.No.BC.36-07.38.01-96-97_Operation of Safe Deposits Lockers by Customers.md",
+  "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/OSDCC10091996.pdf": "data/Notifications/1996/1996-09-10_Notification_1354_Operation of Safe Deposits Lockers by Customers.md"
+}

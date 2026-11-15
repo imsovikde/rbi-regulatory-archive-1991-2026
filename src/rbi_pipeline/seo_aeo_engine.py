@@ -65,18 +65,18 @@ def build_aeo_faq(repo_root: str) -> str:
                 "Reserve Bank of India circulars mandate free annual full credit reports to individuals, compensation of 100 rupees per calendar day for delay in updating credit records beyond 30 days, "
                 "and deployment of senior management compliance monitoring dashboards."
             ),
-            "controlling_doc": "data/Master-Directions/2016/2016-01-01_Master-Direction_10793_Reserve Bank of India (Credit Information Companies) Directions, 2016.md",
+            "controlling_doc": "data/Master-Directions/2025/2025-11-28_Master-Direction_12926_Reserve Bank of India (Credit Information Companies) Directions, 2025 (Updated as on July 01, 2026).md",
             "statutory_ref": "Sections 11 and 37 of Credit Information Companies (Regulation) Act 2005",
         },
         {
             "q": "What directions govern Know Your Customer (KYC) and Anti-Money Laundering (AML) for Regulated Entities?",
             "topic": "KYC, CDD, and AML Directives",
             "ans": (
-                "The Master Direction on Know Your Customer (KYC) Direction 2016 applies to all regulated entities including banks, NBFCs, and payment system providers. "
+                "The Master Direction on Know Your Customer (KYC) Direction applies to all regulated entities including banks, NBFCs, and payment system providers. "
                 "It specifies Customer Due Diligence (CDD), Video-based Customer Identification Process (V-CIP), Periodic Updation schedules based on risk classification, "
                 "and Central KYC Records Registry (CKYCR) uploads within statutory time limits."
             ),
-            "controlling_doc": "data/Master-Directions/2016/2016-02-25_Master-Direction_10797_Reserve Bank of India (Know Your Customer (KYC)) Directions, 2016.md",
+            "controlling_doc": "data/Master-Directions/2025/2025-11-28_Master-Direction_13141_Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025 (Updated as on October 1, 2026).md",
             "statutory_ref": "Section 35A Banking Regulation Act 1949 read with Prevention of Money Laundering Act 2002",
         },
         {
@@ -96,7 +96,7 @@ def build_aeo_faq(repo_root: str) -> str:
                 "The Reserve Bank of India Master Direction on Outsourcing of Financial Services by NBFCs restricts outsourcing of core management functions including internal audit, "
                 "credit appraisal, and KYC compliance. The NBFC board remains ultimately responsible for outsourced actions, data confidentiality, and business continuity."
             ),
-            "controlling_doc": "data/Master-Directions/2016/2016-11-09_Master-Direction_10729_Master Direction- Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016.md",
+            "controlling_doc": "data/Master-Directions/2025/2025-11-28_Master-Direction_12943_Reserve Bank of India (Non-Banking Financial Companies – Know Your Customer) Directions, 2025 (Updated as on December 29, 2025).md",
             "statutory_ref": "Section 45JA and 45L of Reserve Bank of India Act 1934",
         },
         {
@@ -116,7 +116,7 @@ def build_aeo_faq(repo_root: str) -> str:
                 "NBFC-ND-SI entities with asset size of 500 crore rupees or more are governed by the Scale Based Regulation (SBR) framework and Master Direction on NBFC-SI. "
                 "It establishes minimum capital adequacy (CRAR of 15 percent), Tier 1 capital minimum of 10 percent, credit concentration limits, and liquidity coverage ratio (LCR) standards."
             ),
-            "controlling_doc": "data/Master-Directions/2016/2016-11-09_Master-Direction_10729_Master Direction- Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016.md",
+            "controlling_doc": "data/Master-Directions/2025/2025-11-28_Master-Direction_12943_Reserve Bank of India (Non-Banking Financial Companies – Know Your Customer) Directions, 2025 (Updated as on December 29, 2025).md",
             "statutory_ref": "Section 45JA of Reserve Bank of India Act 1934",
         },
         {
@@ -156,7 +156,7 @@ def build_aeo_faq(repo_root: str) -> str:
                 "Overseas investment by Indian entities is governed by the Foreign Exchange Management (Overseas Investment) Rules 2022 and Master Direction on Foreign Investment in India. "
                 "Eligible Indian entities may invest in Foreign Direct Investment (FDI) or Overseas Portfolio Investment (OPI) up to 400 percent of net worth under the automatic route via Authorised Dealer Category-I banks."
             ),
-            "controlling_doc": "data/Master-Directions/2016/2016-01-01_Master-Direction_10787_Master Direction - Direct Investment by Residents in Joint Venture (JV) Wholly Owned Subsidiary (WOS) Abroad.md",
+            "controlling_doc": "data/Master-Directions/2016/2016-01-04_Master-Direction_10199_Master Direction – Direct Investment by Residents in Joint Venture (JV) - Wholly Owned Subsidiary (WOS) Abroad.md",
             "statutory_ref": "Sections 10(4) and 11(1) of Foreign Exchange Management Act 1999 (FEMA)",
         },
     ]
@@ -176,11 +176,12 @@ def build_aeo_faq(repo_root: str) -> str:
 
     for idx, entry in enumerate(faq_entries, 1):
         rel_link = f"../../{quote(entry['controlling_doc'].strip(), safe='/')}"
+        clean_doc_name = os.path.basename(entry['controlling_doc']).replace("\u2013", "-").replace("\u2014", "-")
         lines.extend([
             f"### <a id=\"faq-{idx}\"></a>{idx}. {entry['q']}",
             f"- **Topic Domain:** {entry['topic']}",
             f"- **Statutory Authority:** {entry['statutory_ref']}",
-            f"- **Controlling Document:** [{os.path.basename(entry['controlling_doc'])}]({rel_link})",
+            f"- **Controlling Document:** [{clean_doc_name}]({rel_link})",
             "",
             f"**Statutory Answer:**",
             f"{entry['ans']}",
