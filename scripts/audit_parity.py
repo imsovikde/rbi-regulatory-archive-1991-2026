@@ -149,8 +149,13 @@ def check_b():
 def check_c():
     """Gate C: Commit author is Souvik Dey <imsovikde@gmail.com> & signed."""
     failures = []
+    allowed_signers = os.path.join(ROOT, ".github", "allowed_signers")
+    cmd = ["git"]
+    if os.path.exists(allowed_signers):
+        cmd.extend(["-c", f"gpg.ssh.allowedSignersFile={allowed_signers}"])
+    cmd.extend(["log", "-1", "--format=%an %ae %G?"])
     out = subprocess.run(
-        ["git", "log", "-1", "--format=%an %ae %G?"],
+        cmd,
         cwd=ROOT, capture_output=True, text=True
     )
     tokens = out.stdout.strip().split()
@@ -162,7 +167,7 @@ def check_c():
     if not name_email.startswith(want):
         failures.append(f"last commit author is '{name_email}', expected '{want}'")
     if sig not in ("G", "U"):
-        failures.append(f"last commit GPG signature status is '{sig}', expected 'G' or 'U'")
+        failures.append(f"last commit signature status is '{sig}', expected 'G' or 'U'")
     return (1 if not failures else 0), 1, failures
 
 

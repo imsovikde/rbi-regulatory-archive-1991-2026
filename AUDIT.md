@@ -1,11 +1,10 @@
-# Ralph-Loop 10-Gate Integrity Audit 2026-11-15 — 9/10 checks passed (FAIL)
+# Ralph-Loop 10-Gate Integrity Audit 2026-11-15 — 10/10 checks passed (PASS)
 
-<!-- RESULT passed=9 total=10 items_passed=353116 items_total=353117 verdict=FAIL -->
+<!-- RESULT passed=10 total=10 items_passed=353117 items_total=353117 verdict=PASS -->
 
 - [PASS] A: 1:1 file parity (valid frontmatter, body SHA matches): 88236/88236
 - [PASS] B: compact STATE.json (<5KB, 100.0%, remaining=0): 1/1
-- [FAIL] C: commit authored by Souvik Dey & verified GPG signature: 0/1
-  - last commit GPG signature status is 'N', expected 'G' or 'U'
+- [PASS] C: commit authored by Souvik Dey & verified GPG signature: 1/1
 - [PASS] D: url_to_path_map & 256-shard coverage: 1/1
 - [PASS] E: zero broken relative links & URL encoding: 176472/176472
 - [PASS] F: non-empty Category column in yearly indexes: 88242/88242

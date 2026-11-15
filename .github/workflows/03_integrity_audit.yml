@@ -40,6 +40,10 @@ jobs:
           git_user_name: "Souvik Dey"
           git_user_email: "imsovikde@gmail.com"
 
+      - name: Configure SSH Allowed Signers for Parity Verification
+        run: |
+          git config --global gpg.ssh.allowedSignersFile "${GITHUB_WORKSPACE}/.github/allowed_signers"
+
       - name: Set Up Python 3.11
         uses: actions/setup-python@v5
         with:

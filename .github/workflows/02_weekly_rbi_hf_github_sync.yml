@@ -66,6 +66,10 @@ jobs:
           git_user_name: "Souvik Dey"
           git_user_email: "imsovikde@gmail.com"
 
+      - name: Configure SSH Allowed Signers
+        run: |
+          git config --global gpg.ssh.allowedSignersFile "${GITHUB_WORKSPACE}/.github/allowed_signers"
+
       - name: Set Up System PDF and OCR Dependencies
         run: |
           sudo apt-get update
