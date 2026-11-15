@@ -224,8 +224,8 @@ def build_agent_router(repo_root: str, inventory_rows: list[dict], ledger_rows: 
         for it in items:
             stem = it["md_path"]
             encoded_link = f"../../{quote(stem.strip(), safe='/')}"
-            title_clean = it["title"].replace("|", "\\|")
-            doc_id_clean = it["document_id"].replace("|", "\\|")
+            title_clean = it["title"].replace("|", "\\|").replace("\u2013", "-").replace("\u2014", "-")
+            doc_id_clean = it["document_id"].replace("|", "\\|").replace("\u2013", "-").replace("\u2014", "-")
             md_doc_lines.append(f"| {it['year']} | {title_clean} | {doc_id_clean} | [Markdown]({encoded_link}) | [PDF]({it['hf_url']}) |")
         md_doc_lines.append("")
 
@@ -235,7 +235,7 @@ def build_agent_router(repo_root: str, inventory_rows: list[dict], ledger_rows: 
 
     # 3. Write TRIAGE_GUIDE.md
     triage_lines = [
-        "# RBI Regulatory Archive — AI Agent Triage & Statutory Hierarchy Guide",
+        "# RBI Regulatory Archive: AI Agent Triage and Statutory Hierarchy Guide",
         "",
         f"Welcome, Agent. This repository contains the complete, authoritative, and lossless archive of all Reserve Bank of India (RBI) regulations from 1991 through 2026 ({len(inventory_rows):,}+ documents) converted to GitHub-Flavored Markdown.",
         "",
@@ -314,6 +314,7 @@ def build_agent_router(repo_root: str, inventory_rows: list[dict], ledger_rows: 
         "├── index/",
         "│   ├── agent_router/",
         "│   │   ├── TRIAGE_GUIDE.md                    # This guide",
+        "│   │   ├── AEO_REGULATORY_FAQ.md              # Statutory answer engine Q&A",
         "│   │   ├── active_master_directions_by_entity.md # MDs grouped by regulated entity",
         "│   │   ├── active_master_directions_by_entity.json # Machine-readable MDs by entity",
         "│   │   ├── circular_ref_to_path.json          # Circular ref -> file path",
@@ -338,6 +339,10 @@ def build_agent_router(repo_root: str, inventory_rows: list[dict], ledger_rows: 
     triage_path = os.path.join(router_dir, "TRIAGE_GUIDE.md")
     with open(triage_path, "w", encoding="utf-8") as f:
         f.write("\n".join(triage_lines) + "\n")
+
+    # 4. Generate AEO_REGULATORY_FAQ.md
+    from .seo_aeo_engine import build_aeo_faq
+    build_aeo_faq(repo_root)
 
     return {
         "circular_refs_count": len(circular_map),

@@ -8,9 +8,11 @@ Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2
 ## Agent Navigation & Triage (Fast <= 3 Tool Calls)
 
 - Triage Guide & Statutory Hierarchy: index/agent_router/TRIAGE_GUIDE.md
+- Statutory Answer Engine & Direct Citations: index/agent_router/AEO_REGULATORY_FAQ.md
 - Controlling Master Directions by Regulated Entity: index/agent_router/active_master_directions_by_entity.md and .json
 - Circular Reference Map (e.g. RBI/2025-26/123 -> .md path): index/agent_router/circular_ref_to_path.json
 - Causal Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl
+- Schema.org Dataset JSON-LD: seo/schema_org_dataset.jsonld
 
 ## Indexes
 

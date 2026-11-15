@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Dataset",
+    "Legislation"
+  ],
+  "name": "Reserve Bank of India (RBI) Regulatory Archive 1991-2026",
+  "alternateName": "RBI Regulatory Markdown Archive",
+  "description": "Agent-first Markdown index for the Reserve Bank of India Regulatory Archive (1991-2026). 88,236/88,236 regulatory PDFs converted to GitHub-Flavored Markdown with SHA-256 verification, statutory graph routing, and llms.txt.",
+  "url": "https://github.com/imsovikde/rbi-regulatory-archive-1991-2026",
+  "sameAs": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Person",
+    "name": "Souvik Dey",
+    "email": "imsovikde@gmail.com",
+    "url": "https://github.com/imsovikde"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Souvik Dey",
+    "url": "https://github.com/imsovikde"
+  },
+  "temporalCoverage": "1992-01-01/2026-12-31",
+  "spatialCoverage": "India",
+  "jurisdiction": "Reserve Bank of India",
+  "inLanguage": [
+    "en",
+    "hi"
+  ],
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "total_documents",
+      "value": 88236
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "converted_documents",
+      "value": 88236
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "census_total",
+      "value": 92100
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "direct_rbi_urls",
+      "value": 81828
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://github.com/imsovikde/rbi-regulatory-archive-1991-2026"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/pdf",
+      "contentUrl": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026"
+    }
+  ]
+}

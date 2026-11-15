@@ -41,7 +41,7 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
 ## How agents should use this repository
 
-1. Read [llms.txt](llms.txt) and [index/agent_router/TRIAGE_GUIDE.md](index/agent_router/TRIAGE_GUIDE.md) first. It provides the statutory hierarchy and deterministic routing protocol in $\le 3$ tool calls.
+1. Read [llms.txt](llms.txt), [index/agent_router/TRIAGE_GUIDE.md](index/agent_router/TRIAGE_GUIDE.md), and [index/agent_router/AEO_REGULATORY_FAQ.md](index/agent_router/AEO_REGULATORY_FAQ.md) first. They provide the statutory hierarchy, zero-hallucination Q&A, and deterministic routing protocol in $\le 3$ tool calls.
 2. For controlling law by regulated entity (Commercial Banks, NBFCs, UCBs, Payment Systems, FEMA, etc.), consult [index/agent_router/active_master_directions_by_entity.md](index/agent_router/active_master_directions_by_entity.md) or its machine-readable JSON version [index/agent_router/active_master_directions_by_entity.json](index/agent_router/active_master_directions_by_entity.json).
 3. To lookup a circular by official reference number (e.g. `RBI/2024-25/123`, `DOR.No.DIR.BC...`), use [index/agent_router/circular_ref_to_path.json](index/agent_router/circular_ref_to_path.json).
 4. To trace supersessions, amendments, or statutory penalties, query [index/agent_router/citation_and_consequence_graph.jsonl](index/agent_router/citation_and_consequence_graph.jsonl).

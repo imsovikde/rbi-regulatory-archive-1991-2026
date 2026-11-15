@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
-"""Ralph-Loop 10-Gate Integrity Audit for the RBI Regulatory Archive.
+"""Ralph-Loop 12-Gate Integrity Audit for the RBI Regulatory Archive.
 
-Enforces 10 verification gates (Gates A through J):
+Enforces 12 verification gates (Gates A through L):
   Gate A: 1:1 File Parity (88,236+ files, valid frontmatter, body SHA matches).
   Gate B: Compact State Parity (STATE.json < 5 KB, remaining_count == 0, counts match ledger).
-  Gate C: Verified Commit Author & Signature (Souvik Dey <imsovikde@gmail.com>, GPG signature verified).
+  Gate C: Verified Commit Author & Signature (Souvik Dey <imsovikde@gmail.com>, GPG/SSH signature verified).
   Gate D: URL Map & 256-Shard Coverage (covers 100% of direct URLs and HF resolve URLs).
   Gate E: Zero Broken Relative Links (valid ../../data/..., URL-encoded, resolves on disk).
   Gate F: Non-Empty Category Columns in Yearly Indexes (index/by_year/*.md).
   Gate G: Per-Directory INDEX.md Coverage across all 161 data/<Category>/<Year>/ folders.
   Gate H: Catalog Shard Integrity & No Dead master_catalog.jsonl links.
   Gate I: Agent Router Artifacts Exist, Valid, and Populated.
-  Gate J: Weekly Sync Crawler Dry-Run succeeds with exit 0.
+  Gate J: SEO Schema.org Dataset JSON-LD and XML Sitemap.
+  Gate K: Human Style and Anti-Slop Linter (zero em/en dashes, zero AI slop).
+  Gate L: Weekly Sync Crawler Dry-Run succeeds with exit 0.
 
-Writes AUDIT.md at repo root and exits 0 only when all 10 gates pass (10/10).
+Writes AUDIT.md at repo root and exits 0 only when all 12 gates pass (12/12).
 This script is read-only. It never modifies any .md file.
 """
 
@@ -31,6 +33,8 @@ import urllib.parse
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
 LEDGER = os.path.join(ROOT, "manifest", "sha256_conversion_ledger.csv")
 STATE = os.path.join(ROOT, "STATE.json")
 URL_MAP = os.path.join(ROOT, "index", "url_to_path_map.json")
@@ -306,6 +310,7 @@ def check_i():
     failures = []
     artifacts = [
         ("TRIAGE_GUIDE.md", 1000),
+        ("AEO_REGULATORY_FAQ.md", 1000),
         ("active_master_directions_by_entity.md", 10000),
         ("active_master_directions_by_entity.json", 10000),
         ("circular_ref_to_path.json", 100000),
@@ -330,7 +335,66 @@ def check_i():
 
 
 def check_j():
-    """Gate J: Weekly Sync Crawler Dry-Run succeeds."""
+    """Gate J: SEO Schema.org Dataset JSON-LD and XML Sitemap."""
+    failures = []
+    schema_path = os.path.join(ROOT, "seo", "schema_org_dataset.jsonld")
+    sitemap_path = os.path.join(ROOT, "seo", "sitemap_index.xml")
+
+    if not os.path.exists(schema_path):
+        failures.append("seo/schema_org_dataset.jsonld missing")
+    else:
+        try:
+            with open(schema_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if data.get("@context") != "https://schema.org":
+                failures.append("schema.org jsonld missing @context https://schema.org")
+            typ = data.get("@type")
+            if typ != "Dataset" and (not isinstance(typ, list) or "Dataset" not in typ):
+                failures.append(f"schema.org jsonld @type '{typ}' does not contain Dataset")
+            vars_measured = {v.get("name"): v.get("value") for v in data.get("variableMeasured", [])}
+            with open(STATE, "r", encoding="utf-8") as sf:
+                state_data = json.load(sf)
+            if vars_measured.get("converted_documents") != state_data.get("done_count"):
+                failures.append(
+                    f"schema.org converted_documents {vars_measured.get('converted_documents')} != STATE done_count {state_data.get('done_count')}"
+                )
+        except Exception as exc:
+            failures.append(f"failed to parse schema_org_dataset.jsonld: {exc}")
+
+    if not os.path.exists(sitemap_path):
+        failures.append("seo/sitemap_index.xml missing")
+    else:
+        sz = os.path.getsize(sitemap_path)
+        if sz < 100:
+            failures.append(f"seo/sitemap_index.xml too small ({sz} < 100 bytes)")
+        with open(sitemap_path, "r", encoding="utf-8") as f:
+            xml_text = f.read()
+        has_urlset = "<urlset" in xml_text and "</urlset>" in xml_text
+        has_sitemapindex = "<sitemapindex" in xml_text and "</sitemapindex>" in xml_text
+        if not (has_urlset or has_sitemapindex):
+            failures.append("seo/sitemap_index.xml missing valid urlset or sitemapindex root tags")
+
+    return (1 if not failures else 0), 1, failures
+
+
+def check_k():
+    """Gate K: Human Style and Anti-Slop Linter."""
+    failures = []
+    try:
+        from src.rbi_pipeline.human_style_linter import collect_target_files, lint_file
+        targets = collect_target_files(ROOT)
+        for t in targets:
+            rel = os.path.relpath(t, ROOT)
+            errs = lint_file(t)
+            for err in errs:
+                failures.append(f"{rel}: {err}")
+    except Exception as exc:
+        failures.append(f"human_style_linter execution error: {exc}")
+    return (1 if not failures else 0), 1, failures
+
+
+def check_l():
+    """Gate L: Weekly Sync Crawler Dry-Run succeeds."""
     failures = []
     cmd = [sys.executable, "-m", "src.rbi_pipeline.rbi_crawler", "--dry-run"]
     res = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
@@ -350,7 +414,9 @@ def main():
         ("G: per-directory INDEX.md coverage across all 161 folders", check_g),
         ("H: catalog shards & zero dead master_catalog.jsonl links", check_h),
         ("I: agent router triage & causal graph artifacts valid", check_i),
-        ("J: weekly sync crawler dry-run operational", check_j),
+        ("J: seo schema.org json-ld and sitemap valid", check_j),
+        ("K: human style linter passes zero ai slop and zero em/en dashes", check_k),
+        ("L: weekly sync crawler dry-run operational", check_l),
     ]
     results = []
     groups_ok = 0
@@ -373,7 +439,7 @@ def main():
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     verdict = "PASS" if groups_ok == len(checks) else "FAIL"
     lines = []
-    lines.append(f"# Ralph-Loop 10-Gate Integrity Audit {date} — {groups_ok}/{len(checks)} checks passed ({verdict})")
+    lines.append(f"# Ralph-Loop 12-Gate Integrity Audit {date}: {groups_ok}/{len(checks)} checks passed ({verdict})")
     lines.append("")
     lines.append(f"<!-- RESULT passed={groups_ok} total={len(checks)} items_passed={items_passed} items_total={items_total} verdict={verdict} -->")
     lines.append("")

@@ -1,6 +1,6 @@
-# Ralph-Loop 10-Gate Integrity Audit 2026-11-15 — 10/10 checks passed (PASS)
+# Ralph-Loop 12-Gate Integrity Audit 2026-11-15: 12/12 checks passed (PASS)
 
-<!-- RESULT passed=10 total=10 items_passed=353117 items_total=353117 verdict=PASS -->
+<!-- RESULT passed=12 total=12 items_passed=353119 items_total=353119 verdict=PASS -->
 
 - [PASS] A: 1:1 file parity (valid frontmatter, body SHA matches): 88236/88236
 - [PASS] B: compact STATE.json (<5KB, 100.0%, remaining=0): 1/1
@@ -11,6 +11,8 @@
 - [PASS] G: per-directory INDEX.md coverage across all 161 folders: 161/161
 - [PASS] H: catalog shards & zero dead master_catalog.jsonl links: 1/1
 - [PASS] I: agent router triage & causal graph artifacts valid: 1/1
-- [PASS] J: weekly sync crawler dry-run operational: 1/1
+- [PASS] J: seo schema.org json-ld and sitemap valid: 1/1
+- [PASS] K: human style linter passes zero ai slop and zero em/en dashes: 1/1
+- [PASS] L: weekly sync crawler dry-run operational: 1/1
 
 Audit script: scripts/audit_parity.py (read-only Ralph-Loop verifier).

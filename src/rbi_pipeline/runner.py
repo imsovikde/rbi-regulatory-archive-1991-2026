@@ -436,6 +436,8 @@ def _index_paths(repo_root):
         "llms-full.txt",
         "index/url_to_path_map.json",
         "index/url_collisions.json",
+        "seo/schema_org_dataset.jsonld",
+        "seo/sitemap_index.xml",
     ]
     # Catalog shards (manifest/catalog/<YYYY>.jsonl, Defect 7): the old
     # single manifest/master_catalog.jsonl is gone; it passed GitHub's
@@ -446,6 +448,7 @@ def _index_paths(repo_root):
         "index/url_shards",
         "index/agent_router",
         "manifest/catalog",
+        "seo",
     ):
         directory = os.path.join(repo_root, sub)
         if os.path.isdir(directory):
@@ -538,7 +541,6 @@ def main(argv=None):
 
     # If remaining_count == 0 and not force-rebuild-index, exit cleanly with 0 commits
     if len(done_paths) >= total and not args.force_rebuild_index:
-        save_state(state_path, state)
         _log(f"all {total} files are already converted (100.0000%); "
              "no pending work and --force-rebuild-index not set. "
              "Exiting cleanly with 0 commits.")

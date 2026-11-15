@@ -238,9 +238,11 @@ def _build_llms_txt(repo_root: str, total: int, done: int, by_folder: Counter, b
         "## Agent Navigation & Triage (Fast <= 3 Tool Calls)",
         "",
         "- Triage Guide & Statutory Hierarchy: index/agent_router/TRIAGE_GUIDE.md",
+        "- Statutory Answer Engine & Direct Citations: index/agent_router/AEO_REGULATORY_FAQ.md",
         "- Controlling Master Directions by Regulated Entity: index/agent_router/active_master_directions_by_entity.md and .json",
         "- Circular Reference Map (e.g. RBI/2025-26/123 -> .md path): index/agent_router/circular_ref_to_path.json",
         "- Causal Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl",
+        "- Schema.org Dataset JSON-LD: seo/schema_org_dataset.jsonld",
         "",
         "## Indexes",
         "",
@@ -287,9 +289,11 @@ def _build_llms_full_txt(repo_root: str, by_year: Counter, by_year_done: Counter
         "## Agent Navigation & Triage",
         "",
         "- Triage Guide: index/agent_router/TRIAGE_GUIDE.md",
+        "- Statutory FAQ: index/agent_router/AEO_REGULATORY_FAQ.md",
         "- Master Directions by Entity: index/agent_router/active_master_directions_by_entity.md",
         "- Circular Reference Map: index/agent_router/circular_ref_to_path.json",
         "- Citation & Consequence Graph: index/agent_router/citation_and_consequence_graph.jsonl",
+        "- Schema.org Dataset: seo/schema_org_dataset.jsonld",
         "- URL Lookup Shards: index/url_shards/<00..ff>.json",
         "- Yearly Sharded Catalog: manifest/catalog/<YYYY>.jsonl",
         "",
@@ -318,11 +322,14 @@ def _build_root_index(repo_root: str, total: int, done: int, by_folder: Counter,
         "## Agent Navigation & Triage",
         "",
         "- [AI Agent Triage & Statutory Hierarchy Guide](index/agent_router/TRIAGE_GUIDE.md)",
+        "- [Statutory Answer Engine & Direct Citation FAQ](index/agent_router/AEO_REGULATORY_FAQ.md)",
         "- [Active Master Directions by Regulated Entity](index/agent_router/active_master_directions_by_entity.md)",
         "- [Circular Reference Lookup](index/agent_router/circular_ref_to_path.json)",
         "- [Causal Citation & Consequence Graph](index/agent_router/citation_and_consequence_graph.jsonl)",
         "- [URL Lookup Shards (256 Shards)](index/url_shards/)",
         "- [Yearly Sharded Catalogs](manifest/catalog/)",
+        "- [Schema.org Legislation & Dataset JSON-LD](seo/schema_org_dataset.jsonld)",
+        "- [XML Sitemap Index](seo/sitemap_index.xml)",
         "",
         "## Categories",
         "",
@@ -632,6 +639,12 @@ def build_all(repo_root: str, ledger_rows: list[dict], inventory_rows: list[dict
     # Agent router layer
     from .statutory_indexer import build_agent_router
     build_agent_router(repo_root, inventory_rows, ledger_rows)
+
+    # SEO & AEO metadata generation
+    from .dynamic_meta import build_schema_org_jsonld, build_sitemap_index, sync_github_repo_metadata
+    build_schema_org_jsonld(repo_root)
+    build_sitemap_index(repo_root)
+    sync_github_repo_metadata(repo_root)
 
     update_readme_progress(repo_root, total, done, by_folder, by_folder_done)
     return {

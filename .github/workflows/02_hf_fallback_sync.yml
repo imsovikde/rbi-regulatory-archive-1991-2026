@@ -143,6 +143,14 @@ jobs:
             --batch-size 75 \
             --max-runtime-seconds 15000
 
+      - name: Sync Dynamic Metadata & Hugging Face Dataset Card
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          python3 _pipeline/hf_readme_updater.py || true
+          python3 -c "from src.rbi_pipeline.dynamic_meta import sync_github_repo_metadata; sync_github_repo_metadata('.')" || true
+
       - name: Commit Fallback Sync Leftovers as Souvik Dey (Verified)
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
@@ -150,7 +158,7 @@ jobs:
           git add manifest/ \
             sync/ \
             README.md INDEX.md STATE.json AUDIT.md llms.txt llms-full.txt \
-            index/ data/
+            index/ data/ seo/
           if git diff --cached --quiet; then
             echo "Fallback sync: zero delta this cycle. Nothing to commit."
             exit 0

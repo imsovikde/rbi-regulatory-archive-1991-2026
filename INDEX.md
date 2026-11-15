@@ -19,11 +19,14 @@
 ## Agent Navigation & Triage
 
 - [AI Agent Triage & Statutory Hierarchy Guide](index/agent_router/TRIAGE_GUIDE.md)
+- [Statutory Answer Engine & Direct Citation FAQ](index/agent_router/AEO_REGULATORY_FAQ.md)
 - [Active Master Directions by Regulated Entity](index/agent_router/active_master_directions_by_entity.md)
 - [Circular Reference Lookup](index/agent_router/circular_ref_to_path.json)
 - [Causal Citation & Consequence Graph](index/agent_router/citation_and_consequence_graph.jsonl)
 - [URL Lookup Shards (256 Shards)](index/url_shards/)
 - [Yearly Sharded Catalogs](manifest/catalog/)
+- [Schema.org Legislation & Dataset JSON-LD](seo/schema_org_dataset.jsonld)
+- [XML Sitemap Index](seo/sitemap_index.xml)
 
 ## Categories
 

@@ -1,4 +1,4 @@
-# RBI Regulatory Archive — AI Agent Triage & Statutory Hierarchy Guide
+# RBI Regulatory Archive: AI Agent Triage and Statutory Hierarchy Guide
 
 Welcome, Agent. This repository contains the complete, authoritative, and lossless archive of all Reserve Bank of India (RBI) regulations from 1991 through 2026 (88,236+ documents) converted to GitHub-Flavored Markdown.
 
@@ -77,6 +77,7 @@ rbi-regulatory-archive-1991-2026/
 ├── index/
 │   ├── agent_router/
 │   │   ├── TRIAGE_GUIDE.md                    # This guide
+│   │   ├── AEO_REGULATORY_FAQ.md              # Statutory answer engine Q&A
 │   │   ├── active_master_directions_by_entity.md # MDs grouped by regulated entity
 │   │   ├── active_master_directions_by_entity.json # Machine-readable MDs by entity
 │   │   ├── circular_ref_to_path.json          # Circular ref -> file path
