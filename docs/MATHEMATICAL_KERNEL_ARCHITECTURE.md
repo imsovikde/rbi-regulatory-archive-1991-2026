@@ -4,8 +4,8 @@ Author: Souvik Dey (imsovikde@gmail.com)
 System Name: libRbiKernel Regulatory Kernel  
 Target Infrastructure: Cloudflare Workers, Cloudflare D1 (SQLite FTS5), Cloudflare R2  
 Upstream Archive: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026  
-MCP Server: https://github.com/imsovikde/rbi-doc-mcp  
-Canonical MCP Endpoint: https://rbi-doc-mcp.imsovikde.workers.dev/mcp  
+Public Web Portal: https://rbi-archive.pages.dev  
+Canonical MCP Endpoint: https://rbi-archive.pages.dev/mcp  
 
 ---
 

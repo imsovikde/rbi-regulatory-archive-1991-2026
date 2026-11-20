@@ -3,16 +3,15 @@
 Author: Souvik Dey (imsovikde@gmail.com)  
 Date: 2026-11-15  
 Target Repositories:
-- MCP Server: https://github.com/imsovikde/rbi-doc-mcp
 - RBI Archive: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026
 - Hugging Face Vault: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
-- Live Cloudflare Edge Endpoint: https://rbi-doc-mcp.imsovikde.workers.dev
+- Live Public Portal & MCP Endpoint: https://rbi-archive.pages.dev/mcp
 
 ---
 
 ## 1. System Overview
 
-This report documents the verification and live deployment of the Cloudflare Code Mode MCP Server (rbi-doc-mcp) and the mathematical indexing kernels powering the Reserve Bank of India (RBI) Regulatory Archive (1991 to Present).
+This report documents the verification and live deployment of the Cloudflare Code Mode MCP Server and the mathematical indexing kernels powering the Reserve Bank of India (RBI) Regulatory Archive (1991 to Present).
 
 The architecture operates two execution planes:
 1. Plane 1 (Cloudflare Code Mode): Provides dynamic API schema discovery (rbi_doc_search_api, token budget 595 tokens, well under the 900 token limit) and sandboxed JavaScript query execution (rbi_doc_execute_code) via a virtual RbiDocSDK.
@@ -131,8 +130,8 @@ The complete 42-feature suite is verified across both repositories:
 | F32 | Mojibake OCR Quality Sentinel | `scripts/audit_ocr_quality.py` | 100.0% text entropy pass rate |
 | F33 | Quarterly Archival Release System | `.github/workflows/quarterly_release.yml` | Automated quarterly tagging |
 | F34 | Edge-Deployable SQLite FTS5 Database | `scripts/compile_sqlite_fts5.py` | 89.45 MB raw database compiled |
-| F35 | Cloudflare D1 Full-Text Database | Live D1 `rbi-doc-mcp-db` | 1,953 documents, 354 edges ingested |
-| F36 | Cloudflare R2 Raw Binary Storage | Live R2 `rbi-doc-mcp-corpus` | 13 binary and JSON index files live |
+| F35 | Cloudflare D1 Full-Text Database | Live D1 regulatory database | 1,953 documents, 354 edges ingested |
+| F36 | Cloudflare R2 Raw Binary Storage | Live R2 regulatory corpus | 13 binary and JSON index files live |
 | F37 | Zstandard Compressed SQLite Database | `rbi_doc_mcp_fts5.sqlite.zst` | 11.24 MB compressed database |
 | F38 | Zero-Trust Authentication Layer | `src/auth.ts` | 4 tiers: Public, Bearer, Access, OAuth |
 | F39 | Dynamic Readme Counter Engine | `.github/workflows/weekly_rbi_autonomous_sync.yml` | Automated regex badge updates |
@@ -145,10 +144,10 @@ The complete 42-feature suite is verified across both repositories:
 ## 4. Live Cloudflare Deployment Verification
 
 ### Cloudflare Resources:
-- Worker Endpoint: `https://rbi-doc-mcp.imsovikde.workers.dev`
-- Worker Version ID: `89f9f3c4-d8b8-4233-875c-6e96ea7e168b`
-- D1 Database: `rbi-doc-mcp-db` (`d0bdac51-71a9-4630-a8ac-56af1407b59f`, Region: APAC)
-- R2 Bucket: `rbi-doc-mcp-corpus` (Region: APAC)
+- Public Web Portal: `https://rbi-archive.pages.dev`
+- Official MCP Endpoint: `https://rbi-archive.pages.dev/mcp`
+- D1 Database: Regulatory FTS5 Database (Region: APAC)
+- R2 Bucket: Regulatory Corpus Storage (Region: APAC)
 
 ### Edge Database Verification:
 ```

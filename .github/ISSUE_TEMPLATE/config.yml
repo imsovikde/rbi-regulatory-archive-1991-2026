@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Complete Setup Guide
-    url: https://github.com/imsovikde/rbi-doc-mcp/blob/main/docs/COMPLETE_SETUP_GUIDE.md
-    about: Read integration guides for Claude Code, Cursor, and Python clients.
+  - name: Complete MCP Connection & Tool Guide
+    url: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/blob/main/mcp-guide.md
+    about: Read integration guides for Claude, Cursor, VS Code, Windsurf, and HTTP MCP clients.
   - name: libRbiKernel Mathematical Architecture
-    url: https://github.com/imsovikde/rbi-doc-mcp/blob/main/docs/MATHEMATICAL_KERNEL_ARCHITECTURE.md
+    url: https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/blob/main/docs/MATHEMATICAL_KERNEL_ARCHITECTURE.md
     about: Read public derivations of MPHF, Elias-Fano, DAG, and CDC kernels.

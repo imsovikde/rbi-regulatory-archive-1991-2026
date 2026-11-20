@@ -136,27 +136,26 @@ forbidden.
 | `02_weekly_rbi_hf_github_sync.yml` | Mondays 02:30 UTC + manual | Weekly RBI crawl, HF backfill, new-document conversion |
 | `03_integrity_audit.yml` | Sundays 03:00 UTC + manual | Parity, hash, author, and URL-map audit; publishes AUDIT.md |
 
-## Model Context Protocol (MCP) & Query Engine
+## Web Portal & Model Context Protocol (MCP) Server
 
-[![MCP Integrity & Edge Parity Audit](https://github.com/imsovikde/rbi-doc-mcp/actions/workflows/mcp_integrity.yml/badge.svg)](https://github.com/imsovikde/rbi-doc-mcp/actions/workflows/mcp_integrity.yml)
-[![Live MCP Endpoint](https://img.shields.io/badge/Endpoint-https%3A%2F%2Frbi--doc--mcp.imsovikde.workers.dev%2Fmcp-green.svg)](https://rbi-doc-mcp.imsovikde.workers.dev/mcp)
+[![Public Web Portal](https://img.shields.io/badge/Web_Portal-https%3A%2F%2Frbi--archive.pages.dev-blue.svg)](https://rbi-archive.pages.dev)
+[![Official MCP Endpoint](https://img.shields.io/badge/MCP_Endpoint-https%3A%2F%2Frbi--archive.pages.dev%2Fmcp-green.svg)](https://rbi-archive.pages.dev/mcp)
 
-AI agents and developer applications can query the complete archive via the official Model Context Protocol server:
-- Canonical MCP Endpoint: `https://rbi-doc-mcp.imsovikde.workers.dev/mcp`
-- GitHub Repository: [imsovikde/rbi-doc-mcp](https://github.com/imsovikde/rbi-doc-mcp)
-- Documentation: [docs/COMPLETE_SETUP_GUIDE.md](docs/COMPLETE_SETUP_GUIDE.md)
-- Mathematical Specification: [docs/MATHEMATICAL_KERNEL_ARCHITECTURE.md](docs/MATHEMATICAL_KERNEL_ARCHITECTURE.md)
+AI agents, code editors, and compliance tools can query the complete 88,236-document archive over the official Model Context Protocol server or through the interactive web terminal:
 
-### Instant Claude Code Connection (Public Tier, Zero Setup)
+- Public Web Portal & Terminal: `https://rbi-archive.pages.dev`
+- Official MCP Endpoint: `https://rbi-archive.pages.dev/mcp`
+- Account & Usage Dashboard: `https://rbi-archive.pages.dev/account`
+- Complete Connection & Tool Reference: [Complete MCP Connection & Tool Guide](./mcp-guide.md)
 
-```bash
-claude mcp add rbi-doc-mcp https://rbi-doc-mcp.imsovikde.workers.dev/mcp
-```
+### 3-Step Quick Start
 
-### Supported Query Planes
-
-1. Plane 1 (Cloudflare Code Mode): Dynamic tool discovery (<600 tokens) and sandboxed JavaScript execution (`rbi_doc_execute_code`) for complex multi-hop joins and filtering directly at the edge.
-2. Plane 2 (Canonical MCP Tools): Fast document resolution, SQLite FTS5 search, markdown retrieval, statutory consequence tracing, point-in-time validity checking, and judicial citation formatting.
+1. **Connect your MCP client** to `https://rbi-archive.pages.dev/mcp`:
+   ```bash
+   claude mcp add --transport http rbi-archive https://rbi-archive.pages.dev/mcp
+   ```
+2. **Choose your access tier** when the browser authorization window opens (or query directly over HTTP): click **Continue Anonymously** for instant read-only access (30 requests/minute), or sign in with a free account at `https://rbi-archive.pages.dev/account` for 120 requests/minute, multi-step Code Mode (`rbi_doc_execute_code`), and usage tracking.
+3. **Query the archive** using any of the 8 public MCP tools (`search_rbi_regulations`, `fetch_rbi_markdown`, `resolve_rbi_doc`, `trace_statutory_consequences`, `verify_circular_validity`, `format_court_citation`, `rag_query_rbi_provisions`, and `rbi_doc_execute_code`). See the [Complete MCP Connection & Tool Guide](./mcp-guide.md) for client setup in Claude, Cursor, VS Code, Windsurf, and HTTP clients.
 
 ---
 
