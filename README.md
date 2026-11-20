@@ -136,26 +136,55 @@ forbidden.
 | `02_weekly_rbi_hf_github_sync.yml` | Mondays 02:30 UTC + manual | Weekly RBI crawl, HF backfill, new-document conversion |
 | `03_integrity_audit.yml` | Sundays 03:00 UTC + manual | Parity, hash, author, and URL-map audit; publishes AUDIT.md |
 
-## Web Portal & Model Context Protocol (MCP) Server
+## Web Portal, Model Context Protocol (MCP) Server & Local CLI (`npx rbi-doc-mcp --local`)
 
 [![Public Web Portal](https://img.shields.io/badge/Web_Portal-https%3A%2F%2Frbi--archive.pages.dev-blue.svg)](https://rbi-archive.pages.dev)
 [![Official MCP Endpoint](https://img.shields.io/badge/MCP_Endpoint-https%3A%2F%2Frbi--archive.pages.dev%2Fmcp-green.svg)](https://rbi-archive.pages.dev/mcp)
+[![npm CLI Package](https://img.shields.io/npm/v/rbi-doc-mcp.svg?label=npx%20rbi-doc-mcp%20--local)](https://www.npmjs.com/package/rbi-doc-mcp)
+[![Complete MCP Guide](https://img.shields.io/badge/Documentation-mcp--guide.md-amber.svg)](./mcp-guide.md)
 
-AI agents, code editors, and compliance tools can query the complete 88,236-document archive over the official Model Context Protocol server or through the interactive web terminal:
+AI agents, code editors (Claude, Cursor, VS Code, Windsurf), legal research pipelines, and developer terminals can query the complete 88,236-document Reserve Bank of India regulatory corpus over the official Streamable HTTP MCP server, the interactive web terminal, or the local `npx` CLI:
 
-- Public Web Portal & Terminal: `https://rbi-archive.pages.dev`
-- Official MCP Endpoint: `https://rbi-archive.pages.dev/mcp`
-- Account & Usage Dashboard: `https://rbi-archive.pages.dev/account`
-- Complete Connection & Tool Reference: [Complete MCP Connection & Tool Guide](./mcp-guide.md)
+| Surface | Canonical Endpoint / Command | Description |
+| :--- | :--- | :--- |
+| Public Web Portal & Interactive Terminal | [https://rbi-archive.pages.dev](https://rbi-archive.pages.dev) | Browser-based BM25F search, statutory graph explorer, point-in-time validity checker, and court citation generator |
+| Official Streamable HTTP MCP Server | `https://rbi-archive.pages.dev/mcp` | Remote MCP 2025-06-18 endpoint exposing all 8 regulatory tools, Code Mode (`rbi_doc_execute_code`), and OAuth 2.1 + PKCE |
+| Local Stdio MCP Server & CLI (`npm`) | `npx rbi-doc-mcp --local` | Offline-capable local `stdio` MCP server and terminal CLI using cached static BM25F shards and GitHub Raw / Hugging Face mirrors |
+| User Account & Usage Dashboard | [https://rbi-archive.pages.dev/account](https://rbi-archive.pages.dev/account) | Usage analytics (24h / 7d / 30d), active OAuth client sessions, and one-click session revocation |
+| Complete MCP Connection & Tool Guide | [mcp-guide.md](./mcp-guide.md) ([Full GitHub URL](https://github.com/imsovikde/rbi-regulatory-archive-1991-2026/blob/main/mcp-guide.md)) | Step-by-step setup for Claude, Cursor, VS Code, Windsurf, `npx rbi-doc-mcp --local`, access tiers, and all 8 tool schemas |
 
 ### 3-Step Quick Start
 
-1. **Connect your MCP client** to `https://rbi-archive.pages.dev/mcp`:
+1. **Connect via Remote Streamable HTTP or Local `npx` CLI**:
    ```bash
+   # Option A: Remote Streamable HTTP MCP Server
    claude mcp add --transport http rbi-archive https://rbi-archive.pages.dev/mcp
+
+   # Option B: Local Stdio MCP Server (zero remote rate limits, local disk cache)
+   npx rbi-doc-mcp --local
    ```
-2. **Choose your access tier** when the browser authorization window opens (or query directly over HTTP): click **Continue Anonymously** for instant read-only access (30 requests/minute), or sign in with a free account at `https://rbi-archive.pages.dev/account` for 120 requests/minute, multi-step Code Mode (`rbi_doc_execute_code`), and usage tracking.
-3. **Query the archive** using any of the 8 public MCP tools (`search_rbi_regulations`, `fetch_rbi_markdown`, `resolve_rbi_doc`, `trace_statutory_consequences`, `verify_circular_validity`, `format_court_citation`, `rag_query_rbi_provisions`, and `rbi_doc_execute_code`). See the [Complete MCP Connection & Tool Guide](./mcp-guide.md) for client setup in Claude, Cursor, VS Code, Windsurf, and HTTP clients.
+2. **Choose your access tier** when connecting to `https://rbi-archive.pages.dev/mcp`: click **Continue Anonymously** for instant read-only access (`30 req/min`), or sign in with a free account at [https://rbi-archive.pages.dev/account](https://rbi-archive.pages.dev/account) for `120 req/min`, multi-step Code Mode (`rbi_doc_execute_code`), and session management.
+3. **Query the 88,236-document archive** from your AI assistant or directly in your terminal:
+   ```bash
+   npx rbi-doc-mcp --search "Know Your Customer Master Direction"
+   npx rbi-doc-mcp --resolve "RBI/2017-18/15"
+   npx rbi-doc-mcp --validity "rbi_081878" 2026-01-01
+   ```
+
+### Public MCP Tool Suite (8 Tools)
+
+| Tool Name | Primary Regulatory Capability |
+| :--- | :--- |
+| `search_rbi_regulations` | Hybrid BM25F (`k1 = 1.2`, `b = 0.75`) and 128-dim semantic search across all 88,236 RBI documents (1991-2026) with category, year, and statute filters |
+| `fetch_rbi_markdown` | Full-text retrieval of SHA-256-verified GitHub-Flavored Markdown for any RBI Master Direction, Circular, or Notification |
+| `resolve_rbi_doc` | O(1) resolution of official RBI circular reference numbers (`RBI/2024-25/...`, `DOR.No...`, `DBOD.No...`), numeric IDs, or URLs into canonical metadata |
+| `trace_statutory_consequences` | Causal DAG traversal of `SUPERSEDES`, `AMENDS`, `REPEALS`, and `CITES` edges, linked statutory penalties, and compliance turnaround times (TATs) |
+| `verify_circular_validity` | Point-in-time legal validity verification (`ACTIVE`, `SUPERSEDED`, or `REPEALED`) on any `YYYY-MM-DD` calendar date |
+| `format_court_citation` | Formal Indian judicial citation formatting with official RBI reference number, date, statutory authority, and SHA-256 digest |
+| `rag_query_rbi_provisions` | Clause-level RAG over Content-Defined Chunked (CDC) statutory provisions with exact section provenance |
+| `rbi_doc_execute_code` | Single-turn sandboxed JavaScript execution (`sdk.search`, `sdk.resolve`, `sdk.checkValidity`, `sdk.traceConsequences`, `sdk.cite`, `sdk.ragQuery`) |
+
+For full parameter schemas, client JSON configurations, and example legal/compliance prompts, read the **[Complete MCP Connection & Tool Guide (mcp-guide.md)](./mcp-guide.md)**.
 
 ---
 
