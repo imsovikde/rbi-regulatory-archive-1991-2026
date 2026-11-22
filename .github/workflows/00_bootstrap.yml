@@ -37,7 +37,7 @@ jobs:
     timeout-minutes: 120
     steps:
       - name: Checkout Repository with Personal Token
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.GH_PAT }}
           # Always check out the tip of main at job start, not the commit
