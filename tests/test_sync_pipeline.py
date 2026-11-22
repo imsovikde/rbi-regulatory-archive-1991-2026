@@ -4,11 +4,13 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import tempfile
 import unittest
+import urllib.parse
 from unittest import mock
 
-from src.rbi_pipeline import rbi_crawler
+from src.rbi_pipeline import human_style_linter, rbi_crawler, seo_aeo_engine
 from src.rbi_pipeline.math_kernel import mphf_arena
 from scripts import audit_parity, generate_sync_commit_message, register_new_documents
 
@@ -327,6 +329,25 @@ class TestSyncPipeline(unittest.TestCase):
                 report = json.load(fh)
             self.assertEqual(report["skipped_count"], 0)
             self.assertEqual(report["dedup_hf_matched"], 1)
+
+    def test_build_aeo_faq_links_resolve_and_pass_style_linter(self):
+        repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        with tempfile.TemporaryDirectory() as tmp:
+            out_path = seo_aeo_engine.build_aeo_faq(tmp)
+            with open(out_path, encoding="utf-8") as fh:
+                content = fh.read()
+            self.assertEqual(human_style_linter.lint_file(out_path), [])
+
+        links = re.findall(r"\]\((\.\./\.\./[^)]+)\)", content)
+        self.assertEqual(len(links), 12)
+        router_dir = os.path.join(repo_root, "index", "agent_router")
+        for url in links:
+            self.assertNotIn(" ", url)
+            self.assertNotIn("(", url)
+            self.assertNotIn(")", url)
+            target = os.path.normpath(os.path.join(router_dir, urllib.parse.unquote(url)))
+            check_path = f"\\\\?\\{os.path.abspath(target)}" if os.name == "nt" else target
+            self.assertTrue(os.path.exists(check_path), f"Missing target: {target}")
 
 
 if __name__ == "__main__":
