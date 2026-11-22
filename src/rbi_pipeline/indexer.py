@@ -183,6 +183,12 @@ def update_readme_progress(repo_root: str, total: int, done: int, by_folder: Cou
     # Dynamic count synchronization across entire README.md prose
     import re
 
+    urls_path = os.path.join(repo_root, "manifest", "pdf_final_direct_urls.txt")
+    direct_urls_count = None
+    if os.path.exists(urls_path):
+        with open(urls_path, encoding="utf-8") as uhandle:
+            direct_urls_count = sum(1 for ln in uhandle if ln.strip())
+
     text = re.sub(
         r"-\s+\*\*[\d,]+\s+RBI\s+PDFs\*\*",
         f"- **{done:,} RBI PDFs**",
@@ -194,6 +200,12 @@ def update_readme_progress(repo_root: str, total: int, done: int, by_folder: Cou
         f"- **{census_total:,}-entry census**: {total:,} PDFs plus 3,864 BLOCKED entries",
         text,
     )
+    if direct_urls_count is not None:
+        text = re.sub(
+            r"(pdf_final_direct_urls\.txt\s+)[\d,]+(\s+direct\s+RBI\s+PDF\s+URLs)",
+            rf"\g<1>{direct_urls_count:,}\2",
+            text,
+        )
     text = re.sub(
         r"(hf_\d+_inventory\.jsonl\s+)[\d,]+(-file\s+inventory)",
         rf"\g<1>{total:,}\2",
@@ -202,6 +214,21 @@ def update_readme_progress(repo_root: str, total: int, done: int, by_folder: Cou
     text = re.sub(
         r"Source\s+of\s+truth:\s+[\d,]+\s+untouched\s+RBI\s+PDFs",
         f"Source of truth: {total:,} untouched RBI PDFs",
+        text,
+    )
+    text = re.sub(
+        r"(complete\s+)[\d,]+(-document\s+Reserve\s+Bank)",
+        rf"\g<1>{total:,}\2",
+        text,
+    )
+    text = re.sub(
+        r"(Query\s+the\s+)[\d,]+(-document\s+archive)",
+        rf"\g<1>{total:,}\2",
+        text,
+    )
+    text = re.sub(
+        r"(across\s+all\s+)[\d,]+(\s+RBI\s+documents)",
+        rf"\g<1>{total:,}\2",
         text,
     )
 

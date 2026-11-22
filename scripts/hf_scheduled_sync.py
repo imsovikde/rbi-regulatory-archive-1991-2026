@@ -26,7 +26,7 @@ def _utcnow_iso():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def sync_hf_dataset(inventory_path: str, ledger_path: str, token: str | None = None, dry_run: bool = False, out_path: str | None = None):
+def sync_hf_dataset(inventory_path: str, ledger_path: str, token: str | None = None, dry_run: bool = False, out_path: str | None = None, report_out: str | None = None):
     token = token or os.environ.get("HF_TOKEN")
     print(f"[{_utcnow_iso()}] Checking Hugging Face dataset: {DATASET_REPO} (token configured: {bool(token)})")
 
@@ -48,6 +48,21 @@ def sync_hf_dataset(inventory_path: str, ledger_path: str, token: str | None = N
     if dry_run:
         print(f"[{_utcnow_iso()}] Dry-run: HF sync verified.")
         return 0
+
+    def _save_hf_report(status: str, remote_count: int = 0, new_cnt: int = 0, err: str = ""):
+        if not report_out:
+            return
+        os.makedirs(os.path.dirname(os.path.abspath(report_out)), exist_ok=True)
+        with open(report_out, "w", encoding="utf-8") as rf:
+            json.dump({
+                "checked_at_utc": _utcnow_iso(),
+                "dataset_repo": DATASET_REPO,
+                "status": status,
+                "local_inventory_count": len(known_paths),
+                "remote_pdf_count": remote_count,
+                "new_count": new_cnt,
+                "error": err,
+            }, rf, indent=2)
 
     try:
         from huggingface_hub import HfApi
@@ -72,9 +87,11 @@ def sync_hf_dataset(inventory_path: str, ledger_path: str, token: str | None = N
             with open(out_path, "w", encoding="utf-8") as out_f:
                 json.dump(records, out_f, indent=2)
             print(f"[{_utcnow_iso()}] Wrote {len(records)} new HF documents to {out_path}")
+        _save_hf_report("OK", len(pdf_files), len(new_remote))
         return len(new_remote)
     except Exception as exc:
         print(f"[{_utcnow_iso()}] Note: HfApi query returned: {exc}. Continuing fallback mode.")
+        _save_hf_report("WARN", 0, 0, str(exc))
         return 0
 
 
@@ -83,10 +100,11 @@ def main(argv=None):
     parser.add_argument("--inventory", default=os.path.join(REPO_ROOT, "manifest", "hf_88236_inventory.jsonl"))
     parser.add_argument("--ledger", default=os.path.join(REPO_ROOT, "manifest", "sha256_conversion_ledger.csv"))
     parser.add_argument("--out", default=None, help="output JSON for newly discovered HF documents")
+    parser.add_argument("--report-out", default=None, help="output JSON for HF sync telemetry")
     parser.add_argument("--dry-run", action="store_true", help="verify without network mutations")
     args = parser.parse_args(argv)
 
-    code = sync_hf_dataset(args.inventory, args.ledger, dry_run=args.dry_run, out_path=args.out)
+    code = sync_hf_dataset(args.inventory, args.ledger, dry_run=args.dry_run, out_path=args.out, report_out=args.report_out)
     return 0
 
 

@@ -29,6 +29,7 @@ import os
 import re
 import subprocess
 import sys
+import tempfile
 import urllib.parse
 from datetime import datetime, timezone
 
@@ -154,6 +155,7 @@ def check_c():
     """Gate C: Commit author is Souvik Dey <imsovikde@gmail.com> & signed."""
     failures = []
     allowed_signers = os.path.join(ROOT, ".github", "allowed_signers")
+    allowed_gpg = os.path.join(ROOT, ".github", "allowed_gpg_signers")
     cmd = ["git"]
     if os.path.exists(allowed_signers):
         cmd.extend(["-c", f"gpg.ssh.allowedSignersFile={allowed_signers}"])
@@ -167,6 +169,22 @@ def check_c():
         return 0, 1, [f"unexpected git log format: '{out.stdout.strip()}'"]
     name_email = f"{tokens[0]} {tokens[1]} {tokens[2]}"
     sig = tokens[3] if len(tokens) >= 4 else tokens[-1]
+    if sig == "E" and os.path.exists(allowed_gpg):
+        with tempfile.TemporaryDirectory() as gnupg_dir:
+            env = os.environ.copy()
+            env["GNUPGHOME"] = gnupg_dir
+            imp = subprocess.run(
+                ["gpg", "--batch", "--quiet", "--import", allowed_gpg],
+                cwd=ROOT, env=env, capture_output=True, text=True,
+            )
+            if imp.returncode == 0:
+                out2 = subprocess.run(
+                    cmd, cwd=ROOT, env=env, capture_output=True, text=True,
+                )
+                tokens2 = out2.stdout.strip().split()
+                if len(tokens2) >= 3:
+                    name_email = f"{tokens2[0]} {tokens2[1]} {tokens2[2]}"
+                    sig = tokens2[3] if len(tokens2) >= 4 else tokens2[-1]
     want = "Souvik Dey imsovikde@gmail.com"
     if not name_email.startswith(want):
         failures.append(f"last commit author is '{name_email}', expected '{want}'")
@@ -411,7 +429,7 @@ def main():
         ("D: url_to_path_map & 256-shard coverage", check_d),
         ("E: zero broken relative links & URL encoding", check_e),
         ("F: non-empty Category column in yearly indexes", check_f),
-        ("G: per-directory INDEX.md coverage across all 161 folders", check_g),
+        ("G: per-directory INDEX.md coverage across all data folders", check_g),
         ("H: catalog shards & zero dead master_catalog.jsonl links", check_h),
         ("I: agent router triage & causal graph artifacts valid", check_i),
         ("J: seo schema.org json-ld and sitemap valid", check_j),
@@ -456,6 +474,12 @@ def main():
     with open(AUDIT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print(f"audit: {groups_ok}/{len(checks)} checks passed ({verdict}); {items_passed}/{items_total} items verified")
+    if verdict == "FAIL":
+        for name, _passed, _total, failures in results:
+            if failures:
+                print(f"FAIL [{name}]:")
+                for fail in failures[:10]:
+                    print(f"  - {fail}")
     return 0 if verdict == "PASS" else 1
 
 

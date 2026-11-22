@@ -23,13 +23,18 @@ import csv
 import hashlib
 import os
 import random
+import ssl
 import time
+import urllib.error
+import urllib.request
 from datetime import datetime
-from urllib.parse import quote
+from urllib.parse import quote, urlparse
 
 __all__ = [
+    "CATEGORY_TO_FOLDER",
     "DATASET_REPO",
     "DownloadError",
+    "FOLDER_TO_CATEGORY",
     "download_pdf",
     "hf_resolve_url",
     "iter_inventory",
@@ -51,6 +56,8 @@ CATEGORY_TO_FOLDER = {
     "Circular": "Circulars",
     "Press-Release": "Press-Releases",
 }
+
+FOLDER_TO_CATEGORY = {v: k for k, v in CATEGORY_TO_FOLDER.items()}
 
 # Rows are ordered by (category, year, listing_date, file_name). Listing
 # dates in the manifest look like "September 06, 2002".
@@ -226,12 +233,39 @@ def _http_client(timeout, headers):
     )
 
 
+def _urllib_get(url, timeout, headers=None):
+    """Fetch a URL via stdlib urllib.request honoring TLS bundle and explicit proxy env vars."""
+    cafile = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE")
+    ctx = ssl.create_default_context(cafile=cafile) if cafile else ssl.create_default_context()
+    proxies = {}
+    https_proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+    http_proxy = os.environ.get("HTTP_PROXY") or os.environ.get("http_proxy")
+    if https_proxy:
+        proxies["https"] = https_proxy
+    if http_proxy:
+        proxies["http"] = http_proxy
+    handlers = [urllib.request.HTTPSHandler(context=ctx)]
+    if proxies:
+        handlers.append(urllib.request.ProxyHandler(proxies))
+    opener = urllib.request.build_opener(*handlers)
+    req = urllib.request.Request(url, headers=headers or {})
+    try:
+        with opener.open(req, timeout=timeout) as resp:
+            status = getattr(resp, "status", None) or resp.getcode()
+            return status, dict(resp.headers), resp.read()
+    except urllib.error.HTTPError as exc:
+        body = exc.read() if exc.fp else b""
+        return exc.code, dict(exc.headers or {}), body
+
+
 def download_pdf(url, timeout=120, retries=4, expected_sha256=None,
                  expected_bytes=None):
     """Download one PDF and verify it. Returns the raw bytes.
 
     Retries with exponential backoff + jitter on HTTP 429 / 5xx and on
-    transport errors. Raises :class:`DownloadError` when:
+    transport errors. Uses standard Python-urllib headers for RBI endpoints
+    and httpx (falling back to urllib) for Hugging Face URLs.
+    Raises :class:`DownloadError` when:
 
     - the final status is not 200,
     - the body does not start with the ``%PDF`` magic bytes,
@@ -240,22 +274,31 @@ def download_pdf(url, timeout=120, retries=4, expected_sha256=None,
 
     ``retries`` is the number of retries after the first attempt.
     """
-    try:
-        import httpx
-    except ImportError as exc:  # pragma: no cover - missing dependency
-        # Already checked by _http_client; kept for a clear error if the
-        # helper is ever bypassed.
-        raise RuntimeError(
-            "httpx is not installed; run: pip install httpx"
-        ) from exc
+    host = (urlparse(url).netloc or "").lower()
+    is_rbi = host.endswith("rbi.org.in")
+    use_httpx = not is_rbi
+    if use_httpx:
+        try:
+            import httpx  # noqa: F401
+        except ImportError:
+            use_httpx = False
 
     last_error = None
     for attempt in range(retries + 1):
         try:
-            with _http_client(
-                timeout, {"User-Agent": "RBI-Regulatory-Archive/1.0"},
-            ) as client:
-                response = client.get(url)
+            if use_httpx:
+                with _http_client(
+                    timeout, {"User-Agent": "RBI-Regulatory-Archive/1.0"},
+                ) as client:
+                    response = client.get(url)
+                status = response.status_code
+                resp_headers = response.headers
+                data = response.content
+            else:
+                req_headers = {"Accept": "application/pdf, */*;q=0.8"}
+                if not is_rbi:
+                    req_headers["User-Agent"] = "RBI-Regulatory-Archive/1.0"
+                status, resp_headers, data = _urllib_get(url, timeout, req_headers)
         except Exception as exc:  # transport error: retry
             last_error = DownloadError(url, f"transport error: {exc}")
             if attempt < retries:
@@ -263,14 +306,17 @@ def download_pdf(url, timeout=120, retries=4, expected_sha256=None,
                 continue
             raise last_error from exc
 
-        status = response.status_code
         if status in (429, 500, 502, 503, 504):
             last_error = DownloadError(
                 url, f"HTTP {status} (retryable)", status=status
             )
             if attempt < retries:
-                retry_after = response.headers.get("Retry-After")
-                if retry_after and retry_after.isdigit():
+                retry_after = None
+                for k, v in resp_headers.items():
+                    if k.lower() == "retry-after":
+                        retry_after = v
+                        break
+                if retry_after and str(retry_after).isdigit():
                     time.sleep(min(60.0, float(retry_after)))
                 else:
                     _sleep_backoff(attempt)
@@ -279,11 +325,21 @@ def download_pdf(url, timeout=120, retries=4, expected_sha256=None,
         if status != 200:
             raise DownloadError(url, f"HTTP {status}", status=status)
 
-        data = response.content
         if not data.startswith(b"%PDF"):
-            raise DownloadError(
-                url, "body does not start with %PDF magic bytes", status=200
-            )
+            ct = ""
+            for k, v in resp_headers.items():
+                if k.lower() == "content-type":
+                    ct = v
+                    break
+            head_lower = data[:4096].lower()
+            if b"bobcmn" in head_lower or b"<html" in head_lower:
+                reason = (
+                    f"non-PDF response (Content-Type={ct or 'unknown'}; "
+                    "possible upstream anti-bot/interstitial HTML)"
+                )
+            else:
+                reason = f"body does not start with %PDF magic bytes (Content-Type={ct or 'unknown'})"
+            raise DownloadError(url, reason, status=200)
         if expected_bytes is not None and len(data) != expected_bytes:
             raise DownloadError(
                 url,

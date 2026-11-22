@@ -8,6 +8,7 @@ Guarantees zero hardcoded counts anywhere in repository documentation.
 
 from __future__ import annotations
 
+from datetime import datetime, timezone
 import glob
 import json
 import os
@@ -110,7 +111,7 @@ def sync_all_metadata(repo_root: str):
             f"    given-names: \"Souvik\"\n"
             f"    email: \"imsovikde@gmail.com\"\n"
             f"version: \"{meta['year_max']}.0\"\n"
-            f"date-released: \"2026-11-15\"\n"
+            f"date-released: \"{datetime.now(timezone.utc).strftime('%Y-%m-%d')}\"\n"
             f"repository-code: \"https://github.com/imsovikde/rbi-regulatory-archive-1991-2026\"\n"
             f"license: \"CC0-1.0\"\n"
         )

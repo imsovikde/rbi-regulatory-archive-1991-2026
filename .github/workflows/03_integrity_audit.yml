@@ -1,10 +1,8 @@
 name: "03 - Integrity Audit (imsovikde Verified)"
 
-# Weekly integrity audit. Verifies 1:1 parity between the conversion
-# ledger and the Markdown files, STATE.json counts, the last commit
-# author, and url_to_path_map coverage. Writes the result to AUDIT.md
-# and commits it (only when it changed) as Souvik Dey with a Verified
-# signature. The audit never modifies any .md file.
+# Weekly integrity audit. Verifies 1:1 parity across all 12 gates, writes
+# AUDIT.md, and commits it (only when changed) as Souvik Dey with a GPG
+# Verified signature and structured audit summary.
 
 on:
   schedule:
@@ -37,11 +35,13 @@ jobs:
           git_user_signingkey: true
           git_commit_gpgsign: true
           git_tag_gpgsign: true
-          git_user_name: "Souvik Dey"
-          git_user_email: "imsovikde@gmail.com"
+          git_committer_name: "Souvik Dey"
+          git_committer_email: "imsovikde@gmail.com"
 
-      - name: Configure SSH Allowed Signers for Parity Verification
+      - name: Configure Git Author Identity and Allowed Signers
         run: |
+          git config --global user.name "Souvik Dey"
+          git config --global user.email "imsovikde@gmail.com"
           git config --global gpg.ssh.allowedSignersFile "${GITHUB_WORKSPACE}/.github/allowed_signers"
 
       - name: Set Up Python 3.11
@@ -58,14 +58,16 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          git add AUDIT.md
+          git add -- AUDIT.md
           if git diff --cached --quiet; then
             echo "AUDIT.md unchanged. Nothing to commit."
             exit 0
           fi
-          COUNTS=$(grep -oP '<!-- RESULT passed=\K[0-9]+ total=[0-9]+' AUDIT.md | sed 's/ total=/\//')
-          AUDIT_DATE=$(date -u +%F)
-          git commit -S -m "chore(audit): integrity audit ${AUDIT_DATE} | ${COUNTS} checks"
+          python3 scripts/generate_sync_commit_message.py \
+            --mode audit \
+            --out /tmp/audit-commit-msg.txt
+          cat /tmp/audit-commit-msg.txt
+          git commit -S -F /tmp/audit-commit-msg.txt
           git pull --rebase origin main
           git push origin HEAD:main
 

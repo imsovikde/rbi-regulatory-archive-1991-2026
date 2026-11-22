@@ -179,7 +179,15 @@ def build_advanced_indexes(repo_root: str):
         ]
         for yr in sorted(by_cat_year[cat].keys()):
             cnt = len(by_cat_year[cat][yr])
-            llms_lines.append(f"- [index/by_category/{cat}/{yr}.md](index/by_category/{cat}/{yr}.md): {cnt} documents ({yr})")
+            num_parts = max(1, (cnt + PAGE_SIZE - 1) // PAGE_SIZE)
+            if num_parts == 1:
+                llms_lines.append(f"- [index/by_category/{cat}/{yr}.md](index/by_category/{cat}/{yr}.md): {cnt} documents ({yr})")
+            else:
+                links = ", ".join(
+                    f"[Part {p+1}](index/by_category/{cat}/{yr}-part{p+1}.md)"
+                    for p in range(num_parts)
+                )
+                llms_lines.append(f"- {yr} ({cnt} documents): {links}")
         with open(os.path.join(repo_root, f"llms-{slug}.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(llms_lines) + "\n")
 
@@ -308,12 +316,15 @@ def build_advanced_indexes(repo_root: str):
         f.write("\n".join(lines) + "\n")
 
     # 8. F18: index/seo_schema_dataset.json
+    years_all = [int(r.get("year") or 0) for r in records if int(r.get("year") or 0) > 1900]
+    year_max = max(years_all) if years_all else 2026
+    done_count = sum(1 for r in records if (r.get("status") or "").upper() == "DONE") or len(records)
     schema_dataset = {
         "@context": "https://schema.org",
         "@type": ["Dataset", "Legislation"],
-        "name": "Reserve Bank of India (RBI) Regulatory Archive 1991-2026",
+        "name": f"Reserve Bank of India (RBI) Regulatory Archive 1991-{year_max}",
         "alternateName": "RBI Regulatory Markdown Archive",
-        "description": "Agent-first Markdown index for Reserve Bank of India regulations (1991-2026) with SHA-256 verification, statutory graph routing, and llms.txt.",
+        "description": f"Agent-first Markdown index for Reserve Bank of India regulations (1991-{year_max}) with SHA-256 verification, statutory graph routing, and llms.txt.",
         "url": "https://github.com/imsovikde/rbi-regulatory-archive-1991-2026",
         "sameAs": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026",
         "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -333,7 +344,7 @@ def build_advanced_indexes(repo_root: str):
         "jurisdiction": "Reserve Bank of India",
         "variableMeasured": [
             {"@type": "PropertyValue", "name": "total_documents", "value": len(records)},
-            {"@type": "PropertyValue", "name": "converted_documents", "value": len(records)},
+            {"@type": "PropertyValue", "name": "converted_documents", "value": done_count},
         ],
     }
     with open(os.path.join(repo_root, "index", "seo_schema_dataset.json"), "w", encoding="utf-8") as f:
@@ -392,7 +403,9 @@ def build_advanced_indexes(repo_root: str):
         "credit-bureaus-cic.json": lambda r: classify_entity(r.get("headline", "")) == "credit_information_companies",
     }
     for feed_name, filter_fn in feeds_spec.items():
-        feed_items = [r for r in records if filter_fn(r)][:100]
+        matching = [r for r in records if filter_fn(r)]
+        matching.sort(key=lambda r: (-int(r.get("year") or 0), r.get("file_path", "")))
+        feed_items = matching[:100]
         feed_payload = {
             "version": "https://jsonfeed.org/version/1.1",
             "title": f"RBI Regulatory Feed: {feed_name[:-5]}",

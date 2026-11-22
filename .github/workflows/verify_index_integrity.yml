@@ -21,6 +21,10 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Configure SSH Allowed Signers
+        run: |
+          git config --global gpg.ssh.allowedSignersFile "${GITHUB_WORKSPACE}/.github/allowed_signers"
+
       - name: Set Up Python 3.11
         uses: actions/setup-python@v5
         with:

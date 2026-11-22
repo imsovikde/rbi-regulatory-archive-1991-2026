@@ -1,170 +1,18 @@
 name: "02 - Fallback Weekly RBI + HF Sync (imsovikde Verified)"
 
-# Secondary fallback synchronization pipeline.
-# Runs every Thursday at 02:30 UTC (offset by 72 hours from the primary Monday run).
-# Watches both the upstream Hugging Face dataset and live RBI endpoints to guarantee
-# zero missed regulatory documents. If any new PDF or Markdown is posted by RBI or HF,
-# it is automatically acquired, converted to Markdown, indexed, and all numbers
-# across README.md, INDEX.md, and llms.txt are updated immediately.
+# Secondary Thursday fallback sync. Delegates directly to the unified
+# 02_weekly_rbi_hf_github_sync.yml pipeline so discovery, OCR conversion,
+# index rebuild, verification, and commit formatting stay identical.
 
 on:
   schedule:
     - cron: "30 2 * * 4"
   workflow_dispatch:
 
-concurrency:
-  group: rbi-markdown-conversion-pipeline
-  cancel-in-progress: false
-
 permissions:
   contents: write
 
 jobs:
   fallback-sync:
-    runs-on: ubuntu-latest
-    timeout-minutes: 300
-    steps:
-      - name: Checkout Repository with Personal Token
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
-          ref: main
-          fetch-depth: 0
-
-      - name: Configure Verified Commit Signing for Souvik Dey (imsovikde)
-        uses: crazy-max/ghaction-import-gpg@v6
-        with:
-          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.GPG_PASSPHRASE }}
-          git_user_signingkey: true
-          git_commit_gpgsign: true
-          git_tag_gpgsign: true
-          git_user_name: "Souvik Dey"
-          git_user_email: "imsovikde@gmail.com"
-
-      - name: Configure SSH Allowed Signers
-        run: |
-          git config --global gpg.ssh.allowedSignersFile "${GITHUB_WORKSPACE}/.github/allowed_signers"
-
-      - name: Set Up System PDF and OCR Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            tesseract-ocr \
-            tesseract-ocr-eng \
-            tesseract-ocr-hin \
-            ghostscript \
-            poppler-utils \
-            fonts-dejavu \
-            fonts-dejavu-core \
-            fonts-dejavu-extra \
-            qpdf
-
-      - name: Set Up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install Canonical Extraction and OCR Stack
-        run: |
-          pip install --upgrade pip
-          pip install \
-            firecrawl-anydoc \
-            pymupdf \
-            huggingface_hub \
-            httpx \
-            tenacity \
-            pyyaml \
-            tqdm
-          pip install \
-            rapidocr-onnxruntime \
-            onnxruntime \
-            paddlepaddle \
-            paddleocr \
-            paddlex \
-            ocrmypdf \
-            Pillow \
-            sympy || true
-
-      - name: Check Hugging Face Dataset Upstream Delta
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: |
-          mkdir -p .cache/sync sync
-          python3 scripts/hf_scheduled_sync.py \
-            --inventory manifest/hf_88236_inventory.jsonl \
-            --ledger manifest/sha256_conversion_ledger.csv \
-            --out .cache/sync/new_hf_documents.json
-
-      - name: Discover New RBI Documents (Direct Endpoint Crawl)
-        run: |
-          mkdir -p .cache/sync sync
-          python3 -m src.rbi_pipeline.rbi_crawler \
-            --urls manifest/pdf_final_direct_urls.txt \
-            --ledger manifest/sha256_conversion_ledger.csv \
-            --out .cache/sync/new_rbi_documents.json
-
-      - name: Combine Discovered Documents
-        run: |
-          python3 -c "
-          import json, os
-          all_docs = []
-          for fn in ['.cache/sync/new_hf_documents.json', '.cache/sync/new_rbi_documents.json']:
-              if os.path.exists(fn):
-                  try:
-                      docs = json.load(open(fn))
-                      all_docs.extend(docs)
-                  except Exception as e:
-                      print(f'Error reading {fn}: {e}')
-          print(f'Combined {len(all_docs)} discovered candidates')
-          with open('.cache/sync/new_documents.json', 'w') as f:
-              json.dump(all_docs, f, indent=2)
-          "
-
-      - name: Register New Documents (Inventory + Ledger + HF Backfill)
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          python3 scripts/register_new_documents.py \
-            --new-documents .cache/sync/new_documents.json \
-            --inventory manifest/hf_88236_inventory.jsonl \
-            --ledger manifest/sha256_conversion_ledger.csv \
-            --urls-file manifest/pdf_final_direct_urls.txt \
-            --out sync/registered.json \
-            --work-dir .cache/sync
-
-      - name: Convert New Documents to Markdown & Update Indexes
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          python3 -m src.rbi_pipeline.runner \
-            --batch-size 75 \
-            --max-runtime-seconds 15000
-
-      - name: Sync Dynamic Metadata & Hugging Face Dataset Card
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          python3 _pipeline/hf_readme_updater.py || true
-          python3 -c "from src.rbi_pipeline.dynamic_meta import sync_github_repo_metadata; sync_github_repo_metadata('.')" || true
-
-      - name: Commit Fallback Sync Leftovers as Souvik Dey (Verified)
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          git add manifest/ \
-            sync/ \
-            README.md INDEX.md STATE.json AUDIT.md llms.txt llms-full.txt \
-            index/ data/ seo/
-          if git diff --cached --quiet; then
-            echo "Fallback sync: zero delta this cycle. Nothing to commit."
-            exit 0
-          fi
-          NEW_COUNT=$(python3 -c "import json, os; print(len(json.load(open('sync/registered.json'))) if os.path.exists('sync/registered.json') else 0)")
-          SYNC_DATE=$(date -u +%F)
-          git commit -S -m "chore(sync-fallback): ${NEW_COUNT} new RBI documents -> MD | ${SYNC_DATE} | imsovikde verified"
-          git pull --rebase origin main
-          git push origin HEAD:main
+    uses: ./.github/workflows/02_weekly_rbi_hf_github_sync.yml
+    secrets: inherit

@@ -8,7 +8,7 @@
 - [PASS] D: url_to_path_map & 256-shard coverage: 1/1
 - [PASS] E: zero broken relative links & URL encoding: 88236/88236
 - [PASS] F: non-empty Category column in yearly indexes: 88242/88242
-- [PASS] G: per-directory INDEX.md coverage across all 161 folders: 161/161
+- [PASS] G: per-directory INDEX.md coverage across all data folders: 161/161
 - [PASS] H: catalog shards & zero dead master_catalog.jsonl links: 1/1
 - [PASS] I: agent router triage & causal graph artifacts valid: 1/1
 - [PASS] J: seo schema.org json-ld and sitemap valid: 1/1

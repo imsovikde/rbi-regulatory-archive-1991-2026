@@ -279,13 +279,15 @@ def _split_converter_output(result):
     return None, body
 
 
-def _convert_one(row, repo_root):
+def _convert_one(row, repo_root, pdf_cache_dir=None):
     """Download, verify, convert and write one row. Returns a ledger row.
 
     Runs in the parent process (sequential mode) or in a worker process
-    (parallel mode). Downloads one PDF at a time and releases its bytes
-    after conversion. On failure returns a FAILED ledger row instead of
-    raising, so one bad PDF never kills the batch.
+    (parallel mode). Uses cached PDF bytes from ``pdf_cache_dir`` when
+    available (verified against SHA-256), else downloads one PDF at a
+    time and releases its bytes after conversion. On failure returns a
+    FAILED ledger row instead of raising, so one bad PDF never kills the
+    batch.
     """
     from .hf_enumerator import DownloadError, download_pdf, hf_resolve_url
     from .indexer import folder_of, md_path_for
@@ -318,27 +320,37 @@ def _convert_one(row, repo_root):
     }
     pdf_bytes = None
     source = None
-    try:
-        pdf_bytes = download_pdf(
-            base["hf_url"], expected_sha256=row.get("sha256") or None,
-            expected_bytes=row.get("bytes"),
-        )
-        source = "hf"
-    except (DownloadError, RuntimeError) as exc:
-        _log(f"HF download failed for {row['file_path']}: {exc}; "
-             "falling back to direct RBI URL")
-        if not row.get("pdf_url"):
-            base["error"] = f"HF download failed and no RBI URL: {exc}"
-            return base
+    expected_sha = (row.get("sha256") or "").strip().lower()
+    if pdf_cache_dir and expected_sha:
+        cached_pdf = os.path.join(pdf_cache_dir, f"{expected_sha}.pdf")
+        if os.path.exists(cached_pdf):
+            with open(cached_pdf, "rb") as cache_fh:
+                candidate = cache_fh.read()
+            if hashlib.sha256(candidate).hexdigest() == expected_sha:
+                pdf_bytes = candidate
+                source = "rbi"
+    if pdf_bytes is None:
         try:
             pdf_bytes = download_pdf(
-                row["pdf_url"], expected_sha256=row.get("sha256") or None,
+                base["hf_url"], expected_sha256=row.get("sha256") or None,
                 expected_bytes=row.get("bytes"),
             )
-            source = "rbi"
-        except (DownloadError, RuntimeError) as exc2:
-            base["error"] = f"HF failed ({exc}); RBI failed ({exc2})"
-            return base
+            source = "hf"
+        except (DownloadError, RuntimeError) as exc:
+            _log(f"HF download failed for {row['file_path']}: {exc}; "
+                 "falling back to direct RBI URL")
+            if not row.get("pdf_url"):
+                base["error"] = f"HF download failed and no RBI URL: {exc}"
+                return base
+            try:
+                pdf_bytes = download_pdf(
+                    row["pdf_url"], expected_sha256=row.get("sha256") or None,
+                    expected_bytes=row.get("bytes"),
+                )
+                source = "rbi"
+            except (DownloadError, RuntimeError) as exc2:
+                base["error"] = f"HF failed ({exc}); RBI failed ({exc2})"
+                return base
     try:
         meta = dict(row)
         meta["pdf_sha256"] = row.get("sha256") or ""
@@ -410,8 +422,8 @@ def _convert_one(row, repo_root):
 
 def _convert_one_worker(args):
     """Top-level worker for ProcessPoolExecutor (must be picklable)."""
-    row, repo_root = args
-    return _convert_one(row, repo_root)
+    row, repo_root, pdf_cache_dir = args
+    return _convert_one(row, repo_root, pdf_cache_dir=pdf_cache_dir)
 
 
 def _check_disk(repo_root):
@@ -488,6 +500,76 @@ def _commit_message(done, total, batch, batch_number, ledger_rows):
     )
 
 
+def _write_run_report(report_path, started_iso, total, done_count, processed_rows, inv_by_path):
+    """Write structured JSON conversion telemetry for commit message builders."""
+    if not report_path:
+        return
+    os.makedirs(os.path.dirname(os.path.abspath(report_path)), exist_ok=True)
+    engines_used = {}
+    verdicts = {}
+    by_category = {}
+    docs_out = []
+    converted_count = 0
+    failed_count = 0
+    total_pages = 0
+    native_pages = 0
+    ocr_pages = 0
+    for r in processed_rows:
+        st = r.get("status")
+        cat = r.get("category") or "Unknown"
+        if st == "DONE":
+            converted_count += 1
+            by_category[cat] = by_category.get(cat, 0) + 1
+            eng = r.get("engine") or "unknown"
+            engines_used[eng] = engines_used.get(eng, 0) + 1
+            ver = r.get("verification_status") or "UNKNOWN"
+            verdicts[ver] = verdicts.get(ver, 0) + 1
+            total_pages += int(r.get("total_pages") or 0)
+            native_pages += int(r.get("native_pages") or 0)
+            ocr_pages += int(r.get("ocr_pages") or 0)
+        else:
+            failed_count += 1
+        inv_row = inv_by_path.get(r.get("file_path") or "", {})
+        docs_out.append({
+            "doc_id": r.get("document_id") or "",
+            "title": r.get("headline") or "",
+            "category": cat,
+            "year": r.get("year") or 0,
+            "file_path": r.get("file_path") or "",
+            "md_path": r.get("md_path") or "",
+            "pdf_url": r.get("pdf_url") or "",
+            "hf_url": r.get("hf_url") or "",
+            "listing_url": inv_row.get("listing_url") or "",
+            "listing_date": r.get("listing_date") or "",
+            "pdf_sha256": r.get("pdf_sha256") or "",
+            "md_sha256": r.get("md_sha256") or "",
+            "total_pages": int(r.get("total_pages") or 0) if str(r.get("total_pages") or "").isdigit() else 0,
+            "native_pages": int(r.get("native_pages") or 0) if str(r.get("native_pages") or "").isdigit() else 0,
+            "ocr_pages": int(r.get("ocr_pages") or 0) if str(r.get("ocr_pages") or "").isdigit() else 0,
+            "engine": r.get("engine") or "",
+            "verification_status": r.get("verification_status") or "",
+            "source": r.get("source") or "",
+            "status": st or "",
+            "error": r.get("error") or "",
+        })
+    payload = {
+        "started_at_utc": started_iso,
+        "finished_at_utc": _utcnow_iso(),
+        "total_inventory": total,
+        "done_count": done_count,
+        "converted_count": converted_count,
+        "failed_count": failed_count,
+        "total_pages": total_pages,
+        "native_pages": native_pages,
+        "ocr_pages": ocr_pages,
+        "engines_used": engines_used,
+        "verification_statuses": verdicts,
+        "by_category": by_category,
+        "documents": docs_out,
+    }
+    _atomic_write_json(report_path, payload)
+
+
 def main(argv=None):
     """Entry point. Returns an exit code (0 ok, 2 unrecoverable)."""
     parser = argparse.ArgumentParser(
@@ -506,6 +588,12 @@ def main(argv=None):
                              "sequential")
     parser.add_argument("--force-rebuild-index", action="store_true",
                         help="force index rebuild even if remaining == 0")
+    parser.add_argument("--no-commit", action="store_true",
+                        help="convert and rebuild indexes without committing or pushing")
+    parser.add_argument("--pdf-cache-dir", default="",
+                        help="optional directory containing <sha256>.pdf files")
+    parser.add_argument("--run-report", default="",
+                        help="optional JSON path for conversion telemetry")
     args = parser.parse_args(argv)
     repo_root = os.path.abspath(args.repo_root)
     manifest_path = args.manifest
@@ -517,7 +605,14 @@ def main(argv=None):
     ledger_path = args.ledger
     if not os.path.isabs(ledger_path):
         ledger_path = os.path.join(repo_root, ledger_path)
+    pdf_cache_dir = args.pdf_cache_dir
+    if pdf_cache_dir and not os.path.isabs(pdf_cache_dir):
+        pdf_cache_dir = os.path.join(repo_root, pdf_cache_dir)
+    run_report_path = args.run_report
+    if run_report_path and not os.path.isabs(run_report_path):
+        run_report_path = os.path.join(repo_root, run_report_path)
 
+    started_iso = _utcnow_iso()
     started = time.monotonic()
     deadline = started + max(0, args.max_runtime_seconds - _TIME_RESERVE_SECONDS)
     try:
@@ -527,6 +622,7 @@ def main(argv=None):
         print(f"fatal: {exc}", file=sys.stderr)
         return 2
 
+    inv_by_path = {r.get("file_path"): r for r in inventory if r.get("file_path")}
     total = len(inventory)
     state = load_state(state_path, total)
     state["total_count"] = total
@@ -541,6 +637,7 @@ def main(argv=None):
 
     # If remaining_count == 0 and not force-rebuild-index, exit cleanly with 0 commits
     if len(done_paths) >= total and not args.force_rebuild_index:
+        _write_run_report(run_report_path, started_iso, total, len(done_paths), [], inv_by_path)
         _log(f"all {total} files are already converted (100.0000%); "
              "no pending work and --force-rebuild-index not set. "
              "Exiting cleanly with 0 commits.")
@@ -559,36 +656,35 @@ def main(argv=None):
                  "sequentially despite --workers "
                  f"{args.workers}")
 
-    try:
-        from .git_committer import commit_batch, configure_identity, verify_last_commit
-        from .indexer import append_progress_log, update_readme_progress
+    from .indexer import append_progress_log, md_path_for, update_readme_progress
 
-        configure_identity(cwd=repo_root)
-    except Exception as exc:
-        print(f"fatal: git identity setup failed: {exc}", file=sys.stderr)
-        return 2
+    if not args.no_commit:
+        try:
+            from .git_committer import commit_batch, configure_identity, verify_last_commit
 
-    # Recovery: a previous run may have rebuilt the indexes at its
-    # graceful stop but failed to commit them. Uncommitted index files
-    # would make this run's pull --rebase fail, so commit them first
-    # (a no-op when the tree is clean). STATE.json is included because
-    # the reconcile above just re-saved it, leaving it modified.
-    try:
-        _recovered = commit_batch(
-            _index_paths(repo_root)
-            + [os.path.relpath(state_path, repo_root)],
-            "chore(index): rebuild indexes (recovered from previous run)",
-            cwd=repo_root,
-        )
-        if _recovered:
-            _log("recovered uncommitted index rebuild from previous run")
-    except Exception as exc:
-        print(f"fatal: index recovery commit failed: {exc}", file=sys.stderr)
-        save_state(state_path, state)
-        return 2
+            configure_identity(cwd=repo_root)
+        except Exception as exc:
+            print(f"fatal: git identity setup failed: {exc}", file=sys.stderr)
+            return 2
+
+        # Recovery: commit uncommitted index rebuild from an earlier run.
+        try:
+            _recovered = commit_batch(
+                _index_paths(repo_root)
+                + [os.path.relpath(state_path, repo_root)],
+                "chore(index): rebuild indexes (recovered from previous run)",
+                cwd=repo_root,
+            )
+            if _recovered:
+                _log("recovered uncommitted index rebuild from previous run")
+        except Exception as exc:
+            print(f"fatal: index recovery commit failed: {exc}", file=sys.stderr)
+            save_state(state_path, state)
+            return 2
 
     batches_done = 0
     consecutive_failed_batches = 0
+    processed_rows = []
     try:
         while True:
             if time.monotonic() >= deadline:
@@ -608,7 +704,7 @@ def main(argv=None):
             if parallel:
                 with ProcessPoolExecutor(max_workers=args.workers) as pool:
                     futures = {
-                        pool.submit(_convert_one_worker, (row, repo_root)): row
+                        pool.submit(_convert_one_worker, (row, repo_root, pdf_cache_dir)): row
                         for row in batch
                     }
                     for future in as_completed(futures):
@@ -620,16 +716,21 @@ def main(argv=None):
                         _log("deadline reached mid-batch; committing "
                              "partial batch")
                         break
-                    ledger_batch.append(_convert_one(row, repo_root))
+                    ledger_batch.append(_convert_one(row, repo_root, pdf_cache_dir=pdf_cache_dir))
             # Keep ledger rows in manifest order.
             order = {row["file_path"]: i for i, row in enumerate(batch)}
             ledger_batch.sort(key=lambda r: order.get(r["file_path"], 0))
+            processed_rows.extend(ledger_batch)
             upsert_ledger_rows(ledger_path, ledger_rows, ledger_batch)
             for row in ledger_batch:
                 if row.get("status") == "DONE":
                     done_paths.add(row["file_path"])
             state["done_count"] = len(done_paths)
-            state["last_batch"] = batch_number
+            done_this_batch = sum(
+                1 for r in ledger_batch if r.get("status") == "DONE"
+            )
+            if not args.no_commit or done_this_batch > 0:
+                state["last_batch"] = batch_number
             save_state(state_path, state)
 
             done = len(done_paths)
@@ -639,10 +740,11 @@ def main(argv=None):
                 md_path_for(r["file_path"])
                 for r in ledger_batch if r.get("status") == "DONE"
             ]
-            progress_line = (
-                f"- {_utcnow_iso()} batch #{batch_number}: {message}"
-            )
-            append_progress_log(repo_root, progress_line)
+            if done_this_batch > 0:
+                progress_line = (
+                    f"- {_utcnow_iso()} batch #{batch_number}: {message}"
+                )
+                append_progress_log(repo_root, progress_line)
             from .indexer import _counts
 
             by_folder, by_folder_done, _y, _yd = _counts(inventory, {
@@ -650,29 +752,21 @@ def main(argv=None):
             })
             update_readme_progress(repo_root, total, done,
                                    by_folder, by_folder_done)
-            commit_paths = (
-                md_files
-                + [os.path.relpath(state_path, repo_root),
-                   os.path.relpath(ledger_path, repo_root),
-                   "PROGRESS.md", "README.md"]
-            )
-            pushed = commit_batch(commit_paths, message, cwd=repo_root)
-            if not pushed:
-                _log("batch produced no staged changes; nothing committed")
-            elif not verify_last_commit(cwd=repo_root):
-                raise RuntimeError(
-                    "last commit has no signature; refusing to continue "
-                    "with unsigned commits"
+            if not args.no_commit:
+                commit_paths = (
+                    md_files
+                    + [os.path.relpath(state_path, repo_root),
+                       os.path.relpath(ledger_path, repo_root),
+                       "PROGRESS.md", "README.md"]
                 )
-            # A batch that converts nothing (downloads down, converter
-            # broken) must not loop forever: the same pending files
-            # would be retried every batch until the time budget runs
-            # out, committing empty batches. Three in a row is a
-            # systemic failure; stop so a human (or the watchdog) can
-            # look, instead of burning the run.
-            done_this_batch = sum(
-                1 for r in ledger_batch if r.get("status") == "DONE"
-            )
+                pushed = commit_batch(commit_paths, message, cwd=repo_root)
+                if not pushed:
+                    _log("batch produced no staged changes; nothing committed")
+                elif not verify_last_commit(cwd=repo_root):
+                    raise RuntimeError(
+                        "last commit has no signature; refusing to continue "
+                        "with unsigned commits"
+                    )
             if done_this_batch == 0:
                 consecutive_failed_batches += 1
             else:
@@ -682,12 +776,18 @@ def main(argv=None):
                     "3 consecutive batches produced 0 conversions; "
                     "stopping (check the ledger error column)"
                 )
+            if args.no_commit and done_this_batch == 0:
+                raise RuntimeError(
+                    "batch produced 0 conversions in --no-commit mode; "
+                    "stopping (check the ledger error column)"
+                )
             batches_done += 1
-            _log(f"batch #{batch_number} committed: "
+            _log(f"batch #{batch_number} completed: "
                  f"{done}/{total} ({done / total * 100:.4f}%)")
     except RuntimeError as exc:
         print(f"fatal: {exc}", file=sys.stderr)
         save_state(state_path, state)
+        _write_run_report(run_report_path, started_iso, total, len(done_paths), processed_rows, inv_by_path)
         return 2
 
     # Graceful stop: rebuild the full indexes once so llms.txt, INDEX.md,
@@ -701,29 +801,25 @@ def main(argv=None):
         _log(f"warning: index rebuild failed ({exc}); continuing")
         counts = {"done": len(done_paths), "total": total}
     save_state(state_path, state)
-    # The rebuild rewrites tracked files (INDEX.md, llms.txt, the URL
-    # map, the catalog). Commit them in their own signed commit now:
-    # left uncommitted, they make the next run's pull --rebase fail on
-    # unstaged changes and the pipeline stalls. A failed index commit
-    # is fatal for this run (exit 2) so the workflow does not self-chain
-    # into the same failure; the next startup recovers the rebuild.
-    try:
-        index_message = (
-            f"chore(index): rebuild indexes | "
-            f"{counts['done']}/{counts['total']} PDFs -> MD"
-        )
-        # STATE.json is included: save_state above just re-saved it,
-        # so without staging it the pull --rebase would fail.
-        if commit_batch(
-            _index_paths(repo_root)
-            + [os.path.relpath(state_path, repo_root)],
-            index_message, cwd=repo_root,
-        ):
-            _log("index rebuild committed")
-    except Exception as exc:
-        print(f"fatal: index commit failed: {exc}", file=sys.stderr)
-        save_state(state_path, state)
-        return 2
+    _write_run_report(run_report_path, started_iso, total, len(done_paths), processed_rows, inv_by_path)
+
+    if not args.no_commit:
+        try:
+            index_message = (
+                f"chore(index): rebuild indexes | "
+                f"{counts['done']}/{counts['total']} PDFs -> MD"
+            )
+            if commit_batch(
+                _index_paths(repo_root)
+                + [os.path.relpath(state_path, repo_root)],
+                index_message, cwd=repo_root,
+            ):
+                _log("index rebuild committed")
+        except Exception as exc:
+            print(f"fatal: index commit failed: {exc}", file=sys.stderr)
+            save_state(state_path, state)
+            return 2
+
     _log(f"run finished: {batches_done} batches, "
          f"{len(done_paths)}/{total} done, "
          f"remaining {total - len(done_paths)}")
