@@ -135,7 +135,10 @@ jobs:
                   norm = normalize_url(doc.get("pdf_url"))
                   if norm and norm not in by_norm:
                       by_norm[norm] = doc
-          combined = sorted(by_norm.values(), key=lambda d: d.get("pdf_url", ""))
+          combined = sorted(
+              by_norm.values(),
+              key=lambda d: (1 if d.get("source") == "huggingface" else 0, d.get("pdf_url", "")),
+          )
           print(f"Combined {len(combined)} unique discovered candidate(s)")
           with open(".cache/sync/new_documents.json", "w", encoding="utf-8") as out:
               json.dump(combined, out, indent=2, ensure_ascii=False)

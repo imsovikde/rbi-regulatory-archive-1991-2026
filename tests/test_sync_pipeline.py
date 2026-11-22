@@ -9,6 +9,7 @@ import unittest
 from unittest import mock
 
 from src.rbi_pipeline import rbi_crawler
+from src.rbi_pipeline.math_kernel import mphf_arena
 from scripts import audit_parity, generate_sync_commit_message, register_new_documents
 
 
@@ -244,6 +245,88 @@ class TestSyncPipeline(unittest.TestCase):
                     "--fail-on-all-skipped",
                 ])
         self.assertEqual(rc, 1)
+
+    def test_mphf_arena_handles_prime_padded_slots(self):
+        # Test record counts where next_prime(n) > n (like 10 -> 11, 88288 -> 88289).
+        with tempfile.TemporaryDirectory() as tmp:
+            cat_dir = os.path.join(tmp, "manifest", "catalog")
+            os.makedirs(cat_dir, exist_ok=True)
+            cat_file = os.path.join(cat_dir, "2026.jsonl")
+            with open(cat_file, "w", encoding="utf-8") as f:
+                for i in range(10):
+                    f.write(json.dumps({
+                        "file_path": f"Press-Releases/2026/2026-11-20_Press-Release_{64000+i}_Doc_{i}.pdf",
+                        "category": "Press-Releases",
+                        "year": 2026,
+                    }) + "\n")
+            metrics = mphf_arena.build_mphf_arena(tmp)
+        self.assertEqual(metrics["record_count"], 10)
+        self.assertEqual(metrics["arena_bytes"], 6 * 11)
+
+    def test_register_deduplicates_rbi_and_hf_mirror_entries(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            new_docs = os.path.join(tmp, "new.json")
+            inv = os.path.join(tmp, "inv.jsonl")
+            led = os.path.join(tmp, "led.csv")
+            urls = os.path.join(tmp, "urls.txt")
+            out = os.path.join(tmp, "reg.json")
+            rep = os.path.join(tmp, "rep.json")
+            pdf_path = os.path.join(tmp, "PR1539.PDF")
+            with open(pdf_path, "wb") as pf:
+                pf.write(b"%PDF-1.4\n%test\n")
+
+            hf_rel = "Press-Releases/2026/2026-11-20_Press-Release_64017_Conversion-Switch.pdf"
+            with open(new_docs, "w", encoding="utf-8") as f:
+                json.dump([
+                    {
+                        "pdf_url": f"https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/{hf_rel}",
+                        "file_path": hf_rel,
+                        "source": "huggingface",
+                    },
+                    {
+                        "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1539.PDF",
+                        "listing_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64017",
+                        "headline": "Conversion/Switch",
+                        "listing_date": "Nov 20, 2026",
+                        "document_id": "64017",
+                        "category": "Press-Releases",
+                    },
+                ], f)
+            for p in (inv, led, urls):
+                open(p, "w", encoding="utf-8").close()
+
+            def fake_dl(url, dest_dir, timeout=180, retries=4):
+                return {
+                    "pdf_url": url,
+                    "local_path": pdf_path,
+                    "bytes": os.path.getsize(pdf_path),
+                    "sha256": "a" * 64,
+                }
+
+            with mock.patch.object(rbi_crawler, "download_new_pdf", side_effect=fake_dl), \
+                 mock.patch.object(rbi_crawler, "sync_new_to_hf") as mock_hf:
+                rc = register_new_documents.main([
+                    "--new-documents", new_docs,
+                    "--inventory", inv,
+                    "--ledger", led,
+                    "--urls-file", urls,
+                    "--out", out,
+                    "--work-dir", tmp,
+                    "--pdf-cache-dir", os.path.join(tmp, "pdfs"),
+                    "--report-out", rep,
+                    "--fail-on-all-skipped",
+                ])
+            self.assertEqual(rc, 0)
+            mock_hf.assert_not_called()
+            with open(out, encoding="utf-8") as fh:
+                reg = json.load(fh)
+            self.assertEqual(len(reg), 1)
+            self.assertEqual(reg[0]["pdf_url"], "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1539.PDF")
+            self.assertTrue(reg[0]["hf_uploaded"])
+            with open(rep, encoding="utf-8") as fh:
+                report = json.load(fh)
+            self.assertEqual(report["skipped_count"], 0)
+            self.assertEqual(report["dedup_hf_matched"], 1)
 
 
 if __name__ == "__main__":

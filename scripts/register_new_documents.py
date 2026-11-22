@@ -98,11 +98,12 @@ def _load_json(path):
 
 
 def _known_state(inventory_path, ledger_path, urls_path):
-    """Return (known_norm_urls, existing_file_paths)."""
+    """Return (known_norm_urls, existing_file_paths, existing_sha256)."""
     from src.rbi_pipeline.rbi_crawler import normalize_url
 
     known_urls = set()
     existing_paths = set()
+    existing_sha256 = set()
     if inventory_path and os.path.exists(inventory_path):
         with open(inventory_path, encoding="utf-8") as handle:
             for line in handle:
@@ -114,6 +115,8 @@ def _known_state(inventory_path, ledger_path, urls_path):
                     known_urls.add(normalize_url(row["pdf_url"]))
                 if row.get("file_path"):
                     existing_paths.add(row["file_path"])
+                if row.get("sha256"):
+                    existing_sha256.add(row["sha256"].strip().lower())
     if ledger_path and os.path.exists(ledger_path):
         with open(ledger_path, newline="", encoding="utf-8") as handle:
             for row in csv.DictReader(handle):
@@ -121,13 +124,15 @@ def _known_state(inventory_path, ledger_path, urls_path):
                     known_urls.add(normalize_url(row["pdf_url"]))
                 if row.get("file_path"):
                     existing_paths.add(row["file_path"])
+                if row.get("pdf_sha256"):
+                    existing_sha256.add(row["pdf_sha256"].strip().lower())
     if urls_path and os.path.exists(urls_path):
         with open(urls_path, encoding="utf-8") as handle:
             for line in handle:
                 norm = normalize_url(line)
                 if norm:
                     known_urls.add(norm)
-    return known_urls, existing_paths
+    return known_urls, existing_paths, existing_sha256
 
 
 def _dedup_file_path(category, year, file_name, pdf_url, existing_paths):
@@ -185,7 +190,9 @@ def main(argv=None):
     )
 
     discovered = _load_json(args.new_documents)
-    known_urls, existing_paths = _known_state(args.inventory, args.ledger, args.urls_file)
+    known_urls, existing_paths, existing_sha256 = _known_state(
+        args.inventory, args.ledger, args.urls_file
+    )
 
     fresh = []
     seen_fresh = set()
@@ -195,23 +202,55 @@ def main(argv=None):
             continue
         seen_fresh.add(norm)
         fresh.append(d)
+    # Process RBI-sourced discoveries before HF mirror entries so RBI metadata wins.
+    fresh.sort(key=lambda d: (1 if d.get("source") == "huggingface" else 0, d.get("pdf_url", "")))
+    hf_mirror_paths = {
+        d["file_path"].strip()
+        for d in fresh
+        if d.get("source") == "huggingface" and d.get("file_path")
+    }
     print(f"discovered {len(discovered)}, {len(fresh)} new after dedup")
 
     registered = []
     to_upload = []
     skipped = []
+    registered_by_sha256 = {}
+    registered_by_path = {}
+    dedup_hf_matched = 0
     os.makedirs(args.work_dir, exist_ok=True)
     if args.pdf_cache_dir:
         os.makedirs(args.pdf_cache_dir, exist_ok=True)
 
     for entry in fresh:
         pdf_url = entry["pdf_url"]
+        if entry.get("source") == "huggingface" and entry.get("file_path"):
+            hf_fp = entry["file_path"].strip()
+            if hf_fp in registered_by_path:
+                registered_by_path[hf_fp]["hf_uploaded"] = True
+                dedup_hf_matched += 1
+                continue
+            if hf_fp in existing_paths:
+                dedup_hf_matched += 1
+                continue
+
         try:
             meta = download_new_pdf(pdf_url, args.work_dir)
         except Exception as exc:
             msg = str(exc)
             print(f"SKIP {pdf_url}: download failed: {msg}")
             skipped.append({"pdf_url": pdf_url, "reason": msg})
+            continue
+
+        sha = meta["sha256"].lower()
+        if sha in registered_by_sha256:
+            existing_rec = registered_by_sha256[sha]
+            if entry.get("source") == "huggingface":
+                existing_rec["hf_uploaded"] = True
+                to_upload = [u for u in to_upload if u["sha256"].lower() != sha]
+            dedup_hf_matched += 1
+            continue
+        if sha in existing_sha256:
+            dedup_hf_matched += 1
             continue
 
         with open(meta["local_path"], "rb") as handle:
@@ -222,7 +261,7 @@ def main(argv=None):
             cached_path = os.path.join(args.pdf_cache_dir, f"{meta['sha256']}.pdf")
             shutil.copyfile(meta["local_path"], cached_path)
 
-        # Preserve pre-named HF file_path when syncing from Hugging Face watcher
+        # Preserve pre-named HF file_path when syncing only from Hugging Face watcher
         if entry.get("source") == "huggingface" and entry.get("file_path"):
             fp = entry["file_path"].strip()
             parts = fp.split("/")
@@ -262,6 +301,7 @@ def main(argv=None):
                 info["category"], year, info["file_name"], pdf_url, existing_paths
             )
 
+        already_on_hf = entry.get("source") == "huggingface" or file_path in hf_mirror_paths
         year_int = int(info["date"][:4])
         rec_full = {
             "pdf_url": pdf_url,
@@ -282,10 +322,13 @@ def main(argv=None):
             "bytes": meta["bytes"],
             "sha256": meta["sha256"],
             "hf_url": hf_resolve_url(file_path),
-            "hf_uploaded": entry.get("source") == "huggingface",
+            "hf_uploaded": already_on_hf,
         }
         registered.append(rec_full)
-        if entry.get("source") != "huggingface":
+        registered_by_sha256[sha] = rec_full
+        registered_by_path[file_path] = rec_full
+        existing_sha256.add(sha)
+        if not already_on_hf:
             to_upload.append(rec_full)
 
     hf_warning = None
@@ -368,6 +411,7 @@ def main(argv=None):
         "fresh_count": len(fresh),
         "registered_count": len(registered),
         "skipped_count": len(skipped),
+        "dedup_hf_matched": dedup_hf_matched,
         "hf_uploaded_count": hf_uploaded_count,
         "hf_warning": hf_warning or "",
         "skipped_items": skipped,
@@ -376,9 +420,10 @@ def main(argv=None):
 
     print(
         f"registered {len(registered)} new documents "
-        f"(skipped={len(skipped)}, hf_uploaded={hf_uploaded_count}), wrote {args.out}"
+        f"(skipped={len(skipped)}, dedup_hf_matched={dedup_hf_matched}, hf_uploaded={hf_uploaded_count}), "
+        f"wrote {args.out}"
     )
-    if args.fail_on_all_skipped and len(fresh) > 0 and len(registered) == 0:
+    if args.fail_on_all_skipped and len(skipped) > 0 and len(registered) == 0:
         print(
             f"error: all {len(fresh)} fresh candidate(s) failed to download; "
             "refusing silent zero-delta pass.",

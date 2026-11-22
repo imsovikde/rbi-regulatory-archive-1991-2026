@@ -99,66 +99,77 @@ def build_mphf(keys: list[str], bucket_load: float = 1.5) -> Tuple[MinimalPerfec
 
     n = next_prime(raw_n)
     m = max(1, int(math.ceil(raw_n / bucket_load)))
-    seed0 = 0x811C9DC5
-    seed1 = 0x9E3779B9
-    seed2 = 0xBF58476D
 
-    # Precompute hashes once for O(1) integer arithmetic in displacement search
-    h1_arr = [fnv1a(k, seed1) for k in keys]
-    h2_arr = [((fnv1a(k, seed2) % (n - 1)) + 1) for k in keys]
+    for attempt in range(16):
+        seed0 = (0x811C9DC5 + attempt * 0x9E3779B9) & 0xFFFFFFFF
+        seed1 = (0x9E3779B9 + attempt * 0xBF58476D) & 0xFFFFFFFF
+        seed2 = (0xBF58476D + attempt * 0x94D049BB) & 0xFFFFFFFF
 
-    # 1. Distribute keys into buckets
-    buckets: list[list[int]] = [[] for _ in range(m)]
-    for idx, key in enumerate(keys):
-        b = fnv1a(key, seed0) % m
-        buckets[b].append(idx)
+        # Precompute hashes once for O(1) integer arithmetic in displacement search
+        h1_arr = [fnv1a(k, seed1) for k in keys]
+        h2_arr = [((fnv1a(k, seed2) % (n - 1)) + 1) for k in keys] if n > 1 else [1 for _ in keys]
 
-    # 2. Separate multi-item and single-item buckets
-    multi_buckets = [b for b in range(m) if len(buckets[b]) > 1]
-    single_buckets = [b for b in range(m) if len(buckets[b]) == 1]
-    multi_buckets.sort(key=lambda b: len(buckets[b]), reverse=True)
+        # 1. Distribute keys into buckets
+        buckets: list[list[int]] = [[] for _ in range(m)]
+        for idx, key in enumerate(keys):
+            b = fnv1a(key, seed0) % m
+            buckets[b].append(idx)
 
-    occupied = [False] * n
-    displacements = [0] * m
-    slot_assignments = [0] * raw_n
+        # 2. Separate multi-item and single-item buckets
+        multi_buckets = [b for b in range(m) if len(buckets[b]) > 1]
+        single_buckets = [b for b in range(m) if len(buckets[b]) == 1]
+        multi_buckets.sort(key=lambda b: len(buckets[b]), reverse=True)
 
-    # 3. Displace multi-item buckets while table occupancy is low
-    for b_idx in multi_buckets:
-        b_keys = buckets[b_idx]
-        d = 0
-        while True:
-            slots = []
-            collision = False
-            for k_idx in b_keys:
-                slot = (h1_arr[k_idx] + d * h2_arr[k_idx]) % n
-                if occupied[slot] or slot in slots:
-                    collision = True
+        occupied = [False] * n
+        displacements = [0] * m
+        slot_assignments = [0] * raw_n
+
+        # 3. Displace multi-item buckets while table occupancy is low
+        failed = False
+        for b_idx in multi_buckets:
+            b_keys = buckets[b_idx]
+            placed = False
+            for d in range(n):
+                slots = []
+                collision = False
+                for k_idx in b_keys:
+                    slot = (h1_arr[k_idx] + d * h2_arr[k_idx]) % n
+                    if occupied[slot] or slot in slots:
+                        collision = True
+                        break
+                    slots.append(slot)
+
+                if not collision:
+                    displacements[b_idx] = d
+                    for k_idx, slot in zip(b_keys, slots):
+                        occupied[slot] = True
+                        slot_assignments[k_idx] = slot
+                    placed = True
                     break
-                slots.append(slot)
 
-            if not collision:
-                displacements[b_idx] = d
-                for k_idx, slot in zip(b_keys, slots):
-                    occupied[slot] = True
-                    slot_assignments[k_idx] = slot
+            if not placed:
+                failed = True
                 break
 
-            d += 1
+        if failed:
+            continue
 
-    # 4. Analytically place single-item buckets using unused free slots in O(1)
-    free_slots = [i for i, occ in enumerate(occupied) if not occ]
-    for b_idx, s in zip(single_buckets, free_slots):
-        k_idx = buckets[b_idx][0]
-        h1 = h1_arr[k_idx]
-        h2 = h2_arr[k_idx]
-        inv = pow(h2, -1, n)
-        d = ((s - h1) * inv) % n
-        displacements[b_idx] = d
-        slot_assignments[k_idx] = s
-        occupied[s] = True
+        # 4. Analytically place single-item buckets using unused free slots in O(1)
+        free_slots = [i for i, occ in enumerate(occupied) if not occ]
+        for b_idx, s in zip(single_buckets, free_slots):
+            k_idx = buckets[b_idx][0]
+            h1 = h1_arr[k_idx]
+            h2 = h2_arr[k_idx]
+            inv = pow(h2, -1, n)
+            d = ((s - h1) * inv) % n
+            displacements[b_idx] = d
+            slot_assignments[k_idx] = s
+            occupied[s] = True
 
-    mphf = MinimalPerfectHash(n, m, seed0, seed1, seed2, displacements)
-    return mphf, slot_assignments
+        mphf = MinimalPerfectHash(n, m, seed0, seed1, seed2, displacements)
+        return mphf, slot_assignments
+
+    raise RuntimeError(f"build_mphf failed to converge after 16 seed attempts for n={n}, raw_n={raw_n}")
 
 
 def build_mphf_arena(repo_root: str) -> dict:
@@ -190,8 +201,8 @@ def build_mphf_arena(repo_root: str) -> dict:
         string_pool.extend(encoded)
         string_offsets.append(offset)
 
-    # Build Uint8Array(6 * n) slab
-    arena = bytearray(6 * n)
+    # Build Uint8Array(6 * mphf.n) slab sized to prime slot universe
+    arena = bytearray(6 * mphf.n)
     for idx, r in enumerate(records):
         slot = slot_assignments[idx]
         offset = 6 * slot
