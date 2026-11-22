@@ -10,8 +10,8 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 <!-- PROGRESS-START -->
 ## Conversion progress
 
-- **Total PDFs:** 88236
-- **Converted to Markdown:** 88236
+- **Total PDFs:** 88288
+- **Converted to Markdown:** 88288
 - **Remaining:** 0
 - **Progress:** [########################################] 100.0000%
 
@@ -22,15 +22,15 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 | Master-Circulars | 1013 | 1013 | 100.0000% |
 | Draft-Notifications-Guidelines | 546 | 546 | 100.0000% |
 | Circulars | 11690 | 11690 | 100.0000% |
-| Press-Releases | 64063 | 64063 | 100.0000% |
+| Press-Releases | 64115 | 64115 | 100.0000% |
 <!-- PROGRESS-END -->
 ## What this repository is
 
-- **88,236 RBI PDFs** (1992-2026 inventoried; the archive spans 1991-2026 and 1991 has
+- **88,288 RBI PDFs** (1992-2026 inventoried; the archive spans 1991-2026 and 1991 has
   no inventoried PDFs) converted to Markdown, one `.md` file per PDF, at
   `data/<Category>/<Year>/<exact PDF stem>.md`, in the exact same folder and year
   hierarchy as the Hugging Face dataset. File stems are never renamed or truncated.
-- **92,100-entry census**: 88,236 PDFs plus 3,864 BLOCKED entries for which RBI serves
+- **92,152-entry census**: 88,288 PDFs plus 3,864 BLOCKED entries for which RBI serves
   no PDF. Blocked entries are listed, never hidden and never fabricated.
 - **Agent-first indexing**: `llms.txt`, `llms-full.txt`, `INDEX.md`, per-year and
   per-category indexes, and `index/url_to_path_map.json` for O(1) lookup from any RBI
@@ -55,8 +55,8 @@ https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 ```text
 README.md, PROGRESS.md, STATE.json, llms.txt, llms-full.txt, INDEX.md, ARCHITECTURE.md
 manifest/
-  pdf_final_direct_urls.txt      81,828 direct RBI PDF URLs (canonical endpoint list)
-  hf_88236_inventory.jsonl       88,236-file inventory synced from Hugging Face
+  pdf_final_direct_urls.txt      81,880 direct RBI PDF URLs (canonical endpoint list)
+  hf_88236_inventory.jsonl       88,288-file inventory synced from Hugging Face
   sha256_conversion_ledger.csv   PDF SHA-256, MD SHA-256, engine, pages, status per file
   catalog/<YYYY>.jsonl           Machine-readable metadata catalog for agents, one shard per year
 index/
@@ -80,7 +80,7 @@ scripts/                         audit_parity.py, register_new_documents.py, hf_
 
 | Layer | Component | Canonical link | Role |
 | --- | --- | --- | --- |
-| Upstream archive | RBI Regulatory Archive (HF) | https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026 | Source of truth: 88,236 untouched RBI PDFs |
+| Upstream archive | RBI Regulatory Archive (HF) | https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026 | Source of truth: 88,288 untouched RBI PDFs |
 | Tier 1: native PDF to Markdown | Firecrawl AnyDoc | https://github.com/firecrawl/anydoc | Primary structural converter; raises NeedsOcr on scanned pages |
 | Tier 1B: PDF inspector | Firecrawl PDF Inspector | https://github.com/firecrawl/pdf-inspector | Classifies pages (text, scanned, mixed) and pinpoints OCR pages |
 | Tier 1C: PDF engine | PyMuPDF | https://github.com/pymupdf/PyMuPDF | Page rasterization, font inspection, page count verification |
@@ -143,7 +143,7 @@ forbidden.
 [![npm CLI Package](https://img.shields.io/npm/v/rbi-doc-mcp.svg?label=npx%20rbi-doc-mcp%20--local)](https://www.npmjs.com/package/rbi-doc-mcp)
 [![Complete MCP Guide](https://img.shields.io/badge/Documentation-mcp--guide.md-amber.svg)](./mcp-guide.md)
 
-AI agents, code editors (Claude, Cursor, VS Code, Windsurf), legal research pipelines, and developer terminals can query the complete 88,236-document Reserve Bank of India regulatory corpus over the official Streamable HTTP MCP server, the interactive web terminal, or the local `npx` CLI:
+AI agents, code editors (Claude, Cursor, VS Code, Windsurf), legal research pipelines, and developer terminals can query the complete 88,288-document Reserve Bank of India regulatory corpus over the official Streamable HTTP MCP server, the interactive web terminal, or the local `npx` CLI:
 
 | Surface | Canonical Endpoint / Command | Description |
 | :--- | :--- | :--- |
@@ -164,7 +164,7 @@ AI agents, code editors (Claude, Cursor, VS Code, Windsurf), legal research pipe
    npx rbi-doc-mcp --local
    ```
 2. **Choose your access tier** when connecting to `https://rbi-archive.pages.dev/mcp`: click **Continue Anonymously** for instant read-only access (`30 req/min`), or sign in with a free account at [https://rbi-archive.pages.dev/account](https://rbi-archive.pages.dev/account) for `120 req/min`, multi-step Code Mode (`rbi_doc_execute_code`), and session management.
-3. **Query the 88,236-document archive** from your AI assistant or directly in your terminal:
+3. **Query the 88,288-document archive** from your AI assistant or directly in your terminal:
    ```bash
    npx rbi-doc-mcp --search "Know Your Customer Master Direction"
    npx rbi-doc-mcp --resolve "RBI/2017-18/15"
@@ -175,7 +175,7 @@ AI agents, code editors (Claude, Cursor, VS Code, Windsurf), legal research pipe
 
 | Tool Name | Primary Regulatory Capability |
 | :--- | :--- |
-| `search_rbi_regulations` | Hybrid BM25F (`k1 = 1.2`, `b = 0.75`) and 128-dim semantic search across all 88,236 RBI documents (1991-2026) with category, year, and statute filters |
+| `search_rbi_regulations` | Hybrid BM25F (`k1 = 1.2`, `b = 0.75`) and 128-dim semantic search across all 88,288 RBI documents (1991-2026) with category, year, and statute filters |
 | `fetch_rbi_markdown` | Full-text retrieval of SHA-256-verified GitHub-Flavored Markdown for any RBI Master Direction, Circular, or Notification |
 | `resolve_rbi_doc` | O(1) resolution of official RBI circular reference numbers (`RBI/2024-25/...`, `DOR.No...`, `DBOD.No...`), numeric IDs, or URLs into canonical metadata |
 | `trace_statutory_consequences` | Causal DAG traversal of `SUPERSEDES`, `AMENDS`, `REPEALS`, and `CITES` edges, linked statutory penalties, and compliance turnaround times (TATs) |
@@ -220,13 +220,13 @@ manifests are provided as-is, without warranty.
 <!-- DYNAMIC_STATS_START -->
 ### Live Dynamic Archive Statistics
 
-- **Total Regulatory Documents:** 88,236
+- **Total Regulatory Documents:** 88,288
 - **Temporal Range:** 1992 through 2026
 - **Conversion Progress:** 100.0000% complete
 
 | Category | Document Count | Format |
 | --- | ---: | --- |
-| Press-Releases | 64,063 | GitHub-Flavored Markdown |
+| Press-Releases | 64,115 | GitHub-Flavored Markdown |
 | Circulars | 11,690 | GitHub-Flavored Markdown |
 | Notifications | 10,527 | GitHub-Flavored Markdown |
 | Master-Circulars | 1,013 | GitHub-Flavored Markdown |

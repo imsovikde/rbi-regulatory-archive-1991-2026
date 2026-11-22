@@ -1,10 +1,11 @@
 # Regulated Entity Index: Non-Banking Financial Companies (NBFCs) and Asset Reconstruction Companies (ARCs)
 
-This index lists regulatory documents controlling Non-Banking Financial Companies (NBFCs) and Asset Reconstruction Companies (ARCs) (4,391 documents).
+This index lists regulatory documents controlling Non-Banking Financial Companies (NBFCs) and Asset Reconstruction Companies (ARCs) (4,393 documents).
 
 | Year | Category | Headline | Document ID | Markdown |
 | ---: | --- | --- | --- | --- |
 | 2026 | Press-Releases | 10 NBFCs surrender their Certificates of Registration to the RBI | 63772 | [Markdown](../../data/Press-Releases/2026/2026-10-09_Press-Release_63772_10%20NBFCs%20surrender%20their%20Certificates%20of%20Registration%20to%20the%20RBI.md) |
+| 2026 | Press-Releases | 13 NBFCs and 1 HFC surrender their Certificates of Registration to the RBI | 63978 | [Markdown](../../data/Press-Releases/2026/2026-11-16_Press-Release_63978_13%20NBFCs%20and%201%20HFC%20surrender%20their%20Certificates%20of%20Registration%20to%20the%20RBI.md) |
 | 2026 | Press-Releases | 13 NBFCs surrender their Certificate of Registration to the RBI | 62905 | [Markdown](../../data/Press-Releases/2026/2026-06-10_Press-Release_62905_13%20NBFCs%20surrender%20their%20Certificate%20of%20Registration%20to%20the%20RBI.md) |
 | 2026 | Press-Releases | 16 NBFCs surrender their Certificate of Registration to RBI | 61988 | [Markdown](../../data/Press-Releases/2026/2026-01-07_Press-Release_61988_16%20NBFCs%20surrender%20their%20Certificate%20of%20Registration%20to%20RBI.md) |
 | 2026 | Press-Releases | 16 NBFCs surrender their Certificate of Registration to the RBI | 62518 | [Markdown](../../data/Press-Releases/2026/2026-04-08_Press-Release_62518_16%20NBFCs%20surrender%20their%20Certificate%20of%20Registration%20to%20the%20RBI.md) |
@@ -81,6 +82,7 @@ This index lists regulatory documents controlling Non-Banking Financial Companie
 | 2026 | Press-Releases | RBI cancels Certificate of Registration of 192 NBFCs | 63154 | [Markdown](../../data/Press-Releases/2026/2026-07-15_Press-Release_63154_RBI%20cancels%20Certificate%20of%20Registration%20of%20192%20NBFCs.md) |
 | 2026 | Press-Releases | RBI cancels Certificate of Registration of 35 NBFCs | 61989 | [Markdown](../../data/Press-Releases/2026/2026-01-07_Press-Release_61989_RBI%20cancels%20Certificate%20of%20Registration%20of%2035%20NBFCs.md) |
 | 2026 | Press-Releases | RBI cancels Certificate of Registration of 36 NBFCs | 62364 | [Markdown](../../data/Press-Releases/2026/2026-03-11_Press-Release_62364_RBI%20cancels%20Certificate%20of%20Registration%20of%2036%20NBFCs.md) |
+| 2026 | Press-Releases | RBI cancels Certificate of Registration of 49 NBFCs | 63979 | [Markdown](../../data/Press-Releases/2026/2026-11-16_Press-Release_63979_RBI%20cancels%20Certificate%20of%20Registration%20of%2049%20NBFCs.md) |
 | 2026 | Press-Releases | RBI cancels Certificate of Registration of 5 NBFCs | 63611 | [Markdown](../../data/Press-Releases/2026/2026-09-17_Press-Release_63611_RBI%20cancels%20Certificate%20of%20Registration%20of%205%20NBFCs.md) |
 | 2026 | Press-Releases | RBI cancels Certificate of Registration of 54 NBFCs | 62519 | [Markdown](../../data/Press-Releases/2026/2026-04-08_Press-Release_62519_RBI%20cancels%20Certificate%20of%20Registration%20of%2054%20NBFCs.md) |
 | 2026 | Press-Releases | RBI cancels Certificate of Registration of 59 NBFCs | 63339 | [Markdown](../../data/Press-Releases/2026/2026-08-11_Press-Release_63339_RBI%20cancels%20Certificate%20of%20Registration%20of%2059%20NBFCs.md) |
@@ -502,5 +504,3 @@ This index lists regulatory documents controlling Non-Banking Financial Companie
 | 2025 | Press-Releases | Restoration of Certificate of Registration of one NBFC by RBI | 60863 | [Markdown](../../data/Press-Releases/2025/2025-07-21_Press-Release_60863_Restoration%20of%20Certificate%20of%20Registration%20of%20one%20NBFC%20by%20RBI.md) |
 | 2025 | Press-Releases | Restoration of Certificate of Registration of two NBFCs by RBI | 61014 | [Markdown](../../data/Press-Releases/2025/2025-08-13_Press-Release_61014_Restoration%20of%20Certificate%20of%20Registration%20of%20two%20NBFCs%20by%20RBI.md) |
 | 2025 | Press-Releases | Restoration of Certificate of Registration of two NBFCs by RBI | 61207 | [Markdown](../../data/Press-Releases/2025/2025-09-12_Press-Release_61207_Restoration%20of%20Certificate%20of%20Registration%20of%20two%20NBFCs%20by%20RBI.md) |
-| 2025 | Press-Releases | Result of OMO Purchase auction held on March 12, 2025  and Settlement on March 13, 2025 | 59961 | [Markdown](../../data/Press-Releases/2025/2025-03-12_Press-Release_59961_Result%20of%20OMO%20Purchase%20auction%20held%20on%20March%2012%2C%202025%20and%20Settlement%20on%20March%2013%2C%202025.md) |
-| 2025 | Press-Releases | Result of OMO Purchase auction held on March 18, 2025 and Settlement on March 19, 2025 | 60003 | [Markdown](../../data/Press-Releases/2025/2025-03-18_Press-Release_60003_Result%20of%20OMO%20Purchase%20auction%20held%20on%20March%2018%2C%202025%20and%20Settlement%20on%20March%2019%2C%202025.md) |

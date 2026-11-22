@@ -1,4 +1,4 @@
-# Press-Releases — 1992
+# Press-Releases  -  1992
 
 - **Folder:** `Press-Releases`
 - **Year:** `1992`

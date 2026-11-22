@@ -1,4 +1,4 @@
-# Draft-Notifications-Guidelines — 2023
+# Draft-Notifications-Guidelines  -  2023
 
 - **Folder:** `Draft-Notifications-Guidelines`
 - **Year:** `2023`

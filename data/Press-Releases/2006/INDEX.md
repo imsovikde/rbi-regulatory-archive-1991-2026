@@ -1,4 +1,4 @@
-# Press-Releases — 2006
+# Press-Releases  -  2006
 
 - **Folder:** `Press-Releases`
 - **Year:** `2006`

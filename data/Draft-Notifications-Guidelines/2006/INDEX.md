@@ -1,4 +1,4 @@
-# Draft-Notifications-Guidelines — 2006
+# Draft-Notifications-Guidelines  -  2006
 
 - **Folder:** `Draft-Notifications-Guidelines`
 - **Year:** `2006`

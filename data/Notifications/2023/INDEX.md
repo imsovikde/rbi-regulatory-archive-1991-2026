@@ -1,4 +1,4 @@
-# Notifications — 2023
+# Notifications  -  2023
 
 - **Folder:** `Notifications`
 - **Year:** `2023`

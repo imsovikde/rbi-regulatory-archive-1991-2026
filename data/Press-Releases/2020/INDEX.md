@@ -1,4 +1,4 @@
-# Press-Releases — 2020
+# Press-Releases  -  2020
 
 - **Folder:** `Press-Releases`
 - **Year:** `2020`

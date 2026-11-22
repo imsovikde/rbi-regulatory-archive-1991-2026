@@ -1,4 +1,4 @@
-# Press-Releases — 2017
+# Press-Releases  -  2017
 
 - **Folder:** `Press-Releases`
 - **Year:** `2017`

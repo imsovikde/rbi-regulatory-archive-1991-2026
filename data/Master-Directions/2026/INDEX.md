@@ -1,4 +1,4 @@
-# Master-Directions — 2026
+# Master-Directions  -  2026
 
 - **Folder:** `Master-Directions`
 - **Year:** `2026`

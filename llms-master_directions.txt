@@ -11,5 +11,5 @@
 - [index/by_category/Master-Directions/2022.md](index/by_category/Master-Directions/2022.md): 1 documents (2022)
 - [index/by_category/Master-Directions/2023.md](index/by_category/Master-Directions/2023.md): 3 documents (2023)
 - [index/by_category/Master-Directions/2024.md](index/by_category/Master-Directions/2024.md): 4 documents (2024)
-- [index/by_category/Master-Directions/2025.md](index/by_category/Master-Directions/2025.md): 251 documents (2025)
+- 2025 (251 documents): [Part 1](index/by_category/Master-Directions/2025-part1.md), [Part 2](index/by_category/Master-Directions/2025-part2.md)
 - [index/by_category/Master-Directions/2026.md](index/by_category/Master-Directions/2026.md): 96 documents (2026)

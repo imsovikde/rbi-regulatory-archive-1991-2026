@@ -1,4 +1,4 @@
-# Master-Directions — 2020
+# Master-Directions  -  2020
 
 - **Folder:** `Master-Directions`
 - **Year:** `2020`

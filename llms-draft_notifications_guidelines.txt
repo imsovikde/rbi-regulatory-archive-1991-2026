@@ -23,5 +23,5 @@
 - [index/by_category/Draft-Notifications-Guidelines/2022.md](index/by_category/Draft-Notifications-Guidelines/2022.md): 4 documents (2022)
 - [index/by_category/Draft-Notifications-Guidelines/2023.md](index/by_category/Draft-Notifications-Guidelines/2023.md): 9 documents (2023)
 - [index/by_category/Draft-Notifications-Guidelines/2024.md](index/by_category/Draft-Notifications-Guidelines/2024.md): 14 documents (2024)
-- [index/by_category/Draft-Notifications-Guidelines/2025.md](index/by_category/Draft-Notifications-Guidelines/2025.md): 265 documents (2025)
+- 2025 (265 documents): [Part 1](index/by_category/Draft-Notifications-Guidelines/2025-part1.md), [Part 2](index/by_category/Draft-Notifications-Guidelines/2025-part2.md)
 - [index/by_category/Draft-Notifications-Guidelines/2026.md](index/by_category/Draft-Notifications-Guidelines/2026.md): 115 documents (2026)

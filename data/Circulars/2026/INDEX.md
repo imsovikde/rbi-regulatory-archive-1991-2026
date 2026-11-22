@@ -1,4 +1,4 @@
-# Circulars — 2026
+# Circulars  -  2026
 
 - **Folder:** `Circulars`
 - **Year:** `2026`

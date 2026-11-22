@@ -5,703 +5,703 @@
   "feed_url": "https://raw.githubusercontent.com/imsovikde/rbi-regulatory-archive-1991-2026/main/index/feeds/payments-upi.json",
   "items": [
     {
-      "id": "52973",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1994/1994-06-03_Press-Release_52973_RBI%20sets%20up%20committee%20to%20study%20payment%20and%20settlement%20systems.pdf",
-      "title": "RBI sets up committee to study payment and settlement systems",
-      "date_published": "Jun 03, 1994",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "18759",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1997/1997-10-28_Press-Release_18759_Issue%20of%20Rs.%2010%20notes%20in%20Mahatma%20Gandhi%20series%20with%20capital%20letter%20%27M%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs. 10 notes in Mahatma Gandhi series with capital letter 'M' inset in numbering panels",
-      "date_published": "Oct 28, 1997",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "18652",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-06-30_Press-Release_18652_Kapur%20Committee%20on%20SSI%20recommends%20special%20treatment%20to%20smaller%20among%20small.pdf",
-      "title": "Kapur Committee on SSI recommends special treatment to smaller among small",
-      "date_published": "Jun 30, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "119",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-14_Press-Release_119_Issue%20of%20Rs.500%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20Capital%20letter%20%27A%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.500 notes in Mahatma Gandhi Series with Capital letter 'A' inset in numbering panels",
-      "date_published": "Oct 14, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "199",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-29_Press-Release_199_RBI%20Booklet%20on%20Payment%20System%20in%20India.pdf",
-      "title": "RBI Booklet on Payment System in India",
-      "date_published": "Oct 29, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "214",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-10-31_Press-Release_214_Issue%20of%20Rs.%2050%20denomination%20notes%20in%20Mahatma%20Gandhi%20Series.pdf",
-      "title": "Issue of Rs. 50 denomination notes in Mahatma Gandhi Series",
-      "date_published": "Oct 31, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "340",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-11-25_Press-Release_340_Issue%20of%20Rs.100%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20%27E%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.100 notes in Mahatma Gandhi Series with capital letter 'E' inset in numbering panels",
-      "date_published": "Nov 25, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "408",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-12-08_Press-Release_408_Issue%20of%20Rs.%20100%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20%27L%27%20inset%20December%208%2C%201998.pdf",
-      "title": "Issue of Rs. 100 notes in Mahatma Gandhi Series with capital letter 'L' inset December 8, 1998",
-      "date_published": "Dec 08, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "451",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-12-16_Press-Release_451_Issue%20of%20Rs.%2010%20notes%20in%20Mahatma%20Gandhi%20series%20with%20capital%20letter%20%27A%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of  Rs. 10  notes in Mahatma Gandhi series with capital  letter 'A'  inset in numbering panels",
-      "date_published": "Dec 16, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "452",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1998/1998-12-16_Press-Release_452_Issue%20of%20Rs.%20100%20notes%20in%20Mahatma%20Gandhi%20series.pdf",
-      "title": "Issue of  Rs. 100 notes in Mahatma Gandhi series",
-      "date_published": "Dec 16, 1998",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "854",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-03-17_Press-Release_854_Issue%20of%20Rs.50%20notes%20in%20Mahatma%20Gandhi%20series%20with%20capital%20letter%20%27A%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.50 notes in Mahatma Gandhi series with capital letter 'A' inset in numbering panels",
-      "date_published": "Mar 17, 1999",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "993",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-04-24_Press-Release_993_Treatment%20of%20Preference%20Shares%20for%20Capital%20Adequacy%20Standards.pdf",
-      "title": "Treatment of Preference Shares for Capital Adequacy Standards",
-      "date_published": "Apr 24, 1999",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "1122",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-05-26_Press-Release_1122_RBI%20to%20issue%2C%20Rs.100%20and%20Rs.50%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20%27R%27%20inset.pdf",
-      "title": "RBI to issue, Rs.100 and Rs.50 notes in Mahatma Gandhi Series with capital letter 'R' inset",
-      "date_published": "May 26, 1999",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "1666",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-09-07_Press-Release_1666_RBI%20sets%20up%20Working%20Group%20to%20study%20the%20recommendations%20for%20SMART%20Card%20based%20Payment%20System%20Standards.pdf",
-      "title": "RBI sets up Working Group to study the recommendations for SMART Card based Payment System Standards",
-      "date_published": "Sep 07, 1999",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "2310",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-01-22_Press-Release_2310_Issue%20of%20Rs.500%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-C-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.500 notes in Mahatma Gandhi Series with capital letter \"C\" inset in numbering panels",
-      "date_published": "Jan 22, 2000",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "3613",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-08-31_Press-Release_3613_Issue%20of%20Rs.10%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-S-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.10 notes in Mahatma Gandhi Series with capital letter \"S\" inset in numbering panels",
-      "date_published": "Aug 31, 2000",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "3776",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-09-27_Press-Release_3776_Advisory%20Group%20on%20Payment%20and%20Settlement%20Systems%20Submits%20Report.pdf",
-      "title": "Advisory Group on Payment and Settlement Systems Submits Report",
-      "date_published": "Sep 27, 2000",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "4032",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-11-08_Press-Release_4032_Issue%20of%20Rs%20100%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-F-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs 100 notes in Mahatma Gandhi Series with capital letter \"F\" inset in numbering panels",
-      "date_published": "Nov 08, 2000",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "DBOD.No.BP.BC.83/21.01.002/2000/2001",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2001/2001-02-28_Circular_DBOD.No.BP.BC.83-21.01.002-2000-2001_Loans%20and%20Advances%20to%20Staff%20-%20Assignment%20of%20Risk%20Weight%20and%20Treatment%20in%20the%20Balance%20Sheet.pdf",
-      "title": "Loans and Advances to Staff - Assignment of Risk Weight and Treatment in the Balance Sheet",
-      "date_published": "February 28, 2001",
+      "id": "RBI/2025-2026/170 CO.DPSS.ODD.No.S1072/06-08-024/2025-2026",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-01-01_Circular_RBI-2025-2026-170%20CO.DPSS.ODD.No.S1072-06-08-024-2025-2026_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "01.1.2026",
       "category": "Circulars"
     },
     {
-      "id": "DBS.FID.No.C-19/01.02.00/2000-01",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2001/2001-03-28_Circular_DBS.FID.No.C-19-01.02.00-2000-01_Treatment%20of%20Restructured%20Accounts.pdf",
-      "title": "Treatment of Restructured Accounts",
-      "date_published": "March 28, 2001",
+      "id": "RBI/2025-2026/171 CO.DPSS.ODD.No.S1073/06-08-024/2025-2026",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-01-01_Circular_RBI-2025-2026-171%20CO.DPSS.ODD.No.S1073-06-08-024-2025-2026_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "01.1.2026",
       "category": "Circulars"
     },
     {
-      "id": "DBOD.NO.BP.BC.98/21.048/2000-01",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2001/2001-03-30_Circular_DBOD.NO.BP.BC.98-21.048-2000-01_Treatment%20of%20restructured%20accounts.pdf",
-      "title": "Treatment of restructured accounts",
-      "date_published": "March 30, 2001",
+      "id": "RBI/2025-2026/172 CO.DPSS.ODD.No.S1074/06-08-024/2025-2026",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-01-01_Circular_RBI-2025-2026-172%20CO.DPSS.ODD.No.S1074-06-08-024-2025-2026_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "01.1.2026",
       "category": "Circulars"
     },
     {
-      "id": "324",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2001/2001-02-02_Notification_324_Voluntary%20Retirement%20Scheme%20%28VRS%29%20Expenditure%20-%20Accounting%20and%20Prudential%20Regulatory%20Treatment.pdf",
-      "title": "Voluntary Retirement Scheme (VRS) Expenditure - Accounting and Prudential Regulatory Treatment",
-      "date_published": "Feb 02, 2001",
+      "id": "RBI/2026-2027/28 DOR.STR.REC.18/20-16-001/2026-27",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-04-27_Circular_RBI-2026-2027-28%20DOR.STR.REC.18-20-16-001-2026-27_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20-%20Amendment%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Treatment of Wilful Defaulters and Large Defaulters) - Amendment Directions, 2026",
+      "date_published": "27.4.2026",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2026-2027/273 DCM (RMMT) No.S 2107/20-02-002/2026-27",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2026/2026-10-01_Circular_RBI-2026-2027-273%20DCM%20%28RMMT%29%20No.S%202107-20-02-002-2026-27_Cassette%20-%20Swaps%20in%20ATMs.pdf",
+      "title": "Cassette - Swaps in ATMs",
+      "date_published": "01.10.2026",
+      "category": "Circulars"
+    },
+    {
+      "id": "62602",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2026/2026-04-22_Draft-Notification_62602_RBI%20issues%20Draft%20Master%20Direction%20on%20Prepaid%20Payment%20Instruments%20%28PPIs%29%2C%202026.pdf",
+      "title": "RBI issues Draft Master Direction on Prepaid Payment Instruments (PPIs), 2026",
+      "date_published": "Apr 22, 2026",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "13275",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2026/2026-01-14_Master-Direction_13275_Reserve%20Bank%20of%20India%20%28Non-Bank%20Prepaid%20Payment%20Instruments%20Issuers%20-%20Internal%20Ombudsman%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Non-Bank Prepaid Payment Instruments Issuers - Internal Ombudsman) Directions, 2026",
+      "date_published": "Jan 14, 2026",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13502",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2026/2026-06-15_Master-Direction_13502_Master%20Directions%20on%20Authorisation%20to%20operate%20a%20Payment%20System.pdf",
+      "title": "Master Directions on Authorisation to operate a Payment System",
+      "date_published": "Jun 15, 2026",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13751",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2026/2026-11-05_Master-Direction_13751_Master%20Directions%20on%20Cyber%20Resilience%20and%20Digital%20Payment%20Security%20Controls%20for%20non-bank%20Payment%20System%20Operators.pdf",
+      "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+      "date_published": "Nov 05, 2026",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13246",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-01_Notification_13246_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "Jan 01, 2026",
       "category": "Notifications"
     },
     {
-      "id": "337",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2001/2001-03-08_Notification_337_Voluntary%20Retirement%20Scheme%20%28VRS%29%20Expenditure%20-%20Accounting%20and%20Prudential%20Regulatory%20Treatment.pdf",
-      "title": "Voluntary Retirement Scheme (VRS) Expenditure - Accounting and Prudential Regulatory Treatment",
-      "date_published": "Mar 08, 2001",
+      "id": "13247",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-01_Notification_13247_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "Jan 01, 2026",
       "category": "Notifications"
     },
     {
-      "id": "345",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2001/2001-03-29_Notification_345_Voluntary%20Retirement%20Scheme%20%28VRS%29%20Expenditure%20%E2%80%93%20Accounting%20and%20Prudential%20Regulatory%20Treatment.pdf",
-      "title": "Voluntary Retirement Scheme (VRS) Expenditure  Accounting and Prudential Regulatory Treatment",
-      "date_published": "Mar 29, 2001",
+      "id": "13248",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-01_Notification_13248_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "Jan 01, 2026",
       "category": "Notifications"
     },
     {
-      "id": "373",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2001/2001-05-04_Notification_373_Treatment%20of%20restructured%20accounts%20-%20amendment.pdf",
-      "title": "Treatment of restructured accounts - amendment",
-      "date_published": "May 04, 2001",
+      "id": "13275",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-14_Notification_13275_Reserve%20Bank%20of%20India%20%28Non-Bank%20Prepaid%20Payment%20Instruments%20Issuers%20-%20Internal%20Ombudsman%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Non-Bank Prepaid Payment Instruments Issuers - Internal Ombudsman) Directions, 2026",
+      "date_published": "Jan 14, 2026",
       "category": "Notifications"
     },
     {
-      "id": "521",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2001/2001-11-29_Notification_521_Capital%20adequacy%20norms%20%E2%80%93%20Treatment%20of%20preference%20shares%20%E2%80%93%20Grant%20equivalent.pdf",
-      "title": "Capital adequacy norms – Treatment of preference shares – Grant equivalent",
-      "date_published": "Nov 29, 2001",
+      "id": "13384",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-04-27_Notification_13384_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20-%20Amendment%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Treatment of Wilful Defaulters and Large Defaulters) - Amendment Directions, 2026",
+      "date_published": "Apr 27, 2026",
       "category": "Notifications"
     },
     {
-      "id": "4430",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-01-16_Press-Release_4430_Issue%20of%20Rs.10%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-B-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.10 notes in Mahatma Gandhi Series with capital letter \"B\" inset in numbering panels",
-      "date_published": "Jan 16, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "4918",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-04-20_Press-Release_4918_Issue%20of%20Rs.100--%20notes%20in%20Mahatma%20Gandhi%20series%20with%20capital%20letter%20%60B%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.100/- notes in Mahatma Gandhi series with capital letter `B' inset in numbering panels",
-      "date_published": "Apr 20, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "4919",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-04-20_Press-Release_4919_Issue%20of%20Rs.500--%20notes%20%28revised%20colour%20scheme%29%20in%20Mahatma%20Gandhi%20Series%20without%20inset%20letter%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.500/- notes (revised colour scheme) in Mahatma Gandhi Series without inset letter in numbering panels",
-      "date_published": "Apr 20, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "5026",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-05-10_Press-Release_5026_Issue%20of%20Rs.50%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-E-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.50 notes in Mahatma Gandhi Series with capital letter \"E\" inset in numbering panels",
-      "date_published": "May 10, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "5171",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-06-06_Press-Release_5171_Issue%20of%20Rs.10%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-L-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.10 notes in Mahatma Gandhi Series with capital letter \"L\" inset in numbering panels",
-      "date_published": "Jun 06, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "5466",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-08-02_Press-Release_5466_RBI%20to%20issue%20new%20Rs.20--%20notes%20in%20Mahatma%20Gandhi%20Series.pdf",
-      "title": "RBI to issue new Rs.20/- notes in Mahatma Gandhi Series",
-      "date_published": "Aug 02, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "5985",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-11-10_Press-Release_5985_RBI%20to%20issue%20new%20Rs.5%20notes%20in%20Mahatma%20Gandhi%20Series.pdf",
-      "title": "RBI to issue new Rs.5 notes in Mahatma Gandhi Series",
-      "date_published": "Nov 10, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "6032",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-11-22_Press-Release_6032_Issue%20of%20Rs.500%20notes%20%28revised%20colour%20scheme%29%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20%60C%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.500 notes (revised colour scheme) in Mahatma Gandhi Series with capital letter `C' inset in numbering panels",
-      "date_published": "Nov 22, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "6095",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-12-05_Press-Release_6095_Issue%20of%20Rs.5%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-R-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.5 notes in Mahatma Gandhi Series with capital letter \"R\" inset in numbering panels",
-      "date_published": "Dec 05, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "6175",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-12-21_Press-Release_6175_Issue%20of%20Rs.1000%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-A-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.1000 notes in Mahatma Gandhi Series with capital letter \"A\" inset in numbering panels",
-      "date_published": "Dec 21, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "DBOD.No.BL.BC.62/22.01.001/2002",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2002/2002-01-28_Circular_DBOD.No.BL.BC.62-22.01.001-2002_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20Third%20Party%20advertisement%20on%20ATM%20Network.pdf",
-      "title": "Section 23 of Banking Regulation Act, 1949 Third Party advertisement on ATM Network",
-      "date_published": "January 28, 2002",
-      "category": "Circulars"
-    },
-    {
-      "id": "DBS.FID No.C.10/01.02.00/2001-02",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2002/2002-02-01_Circular_DBS.FID%20No.C.10-01.02.00-2001-02_Treatment%20of%20Restructured%20Accounts%20-%20Clarifications.pdf",
-      "title": "Treatment of Restructured Accounts - Clarifications",
-      "date_published": "February 1, 2002",
-      "category": "Circulars"
-    },
-    {
-      "id": "673",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2002/2002-05-28_Notification_673_Income%20recognition%2C%20asset%20classification%20and%20provisioning%20norms%20on%20advances%20%E2%80%93%20treatment%20of%20projects%20under%20implementation%20involving%20time%20overrun.pdf",
-      "title": "Income recognition, asset classification and provisioning norms on advances – treatment of projects under implementation involving time overrun",
-      "date_published": "May 28, 2002",
+      "id": "13502",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-06-15_Notification_13502_Master%20Directions%20on%20Authorisation%20to%20operate%20a%20Payment%20System.pdf",
+      "title": "Master Directions on Authorisation to operate a Payment System",
+      "date_published": "Jun 15, 2026",
       "category": "Notifications"
     },
     {
-      "id": "815",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2002/2002-08-08_Notification_815_Capital%20adequacy%20and%20credit%20exposure%20norms%20-%20Treatment%20of%20loans%20granted%20by%20Financial%20Institutions%20%28FIs%29%20against%20the%20guarantee%20of%20banks.pdf",
-      "title": "Capital adequacy and credit exposure norms - Treatment of loans granted by Financial Institutions (FIs) against the guarantee of banks",
-      "date_published": "Aug 08, 2002",
+      "id": "13717",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-10-01_Notification_13717_Cassette%20-%20Swaps%20in%20ATMs.pdf",
+      "title": "Cassette - Swaps in ATMs",
+      "date_published": "Oct 01, 2026",
       "category": "Notifications"
     },
     {
-      "id": "123",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2002/2002-09-12_Notification_123_Liberalisation%20of%20Release%20of%20Foreign%20Exchange%20for%20Medical%20Treatment%20Abroad%20A.P.%28DIR%20Series%29%20Circular%20No.17%20%28September%2012%2C%202002%29.pdf",
-      "title": "Liberalisation of Release of Foreign Exchange for Medical Treatment Abroad A.P.(DIR Series) Circular No.17 (September  12, 2002)",
-      "date_published": "September 12, 2002",
+      "id": "13751",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-11-05_Notification_13751_Master%20Directions%20on%20Cyber%20Resilience%20and%20Digital%20Payment%20Security%20Controls%20for%20non-bank%20Payment%20System%20Operators.pdf",
+      "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+      "date_published": "Nov 05, 2026",
       "category": "Notifications"
     },
     {
-      "id": "855",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2002/2002-09-12_Notification_855_Liberalisation%20of%20Release%20of%20Foreign%20Exchange%20for%20Medical%20Treatment%20Abroad%20A.P.%28DIR%20Series%29%20Circular%20No.17%20%28September%2012%2C%202002%29.pdf",
-      "title": "Liberalisation of Release of Foreign Exchange for Medical Treatment Abroad A.P.(DIR Series) Circular No.17 (September  12, 2002)",
-      "date_published": "September  12, 2002",
+      "id": "62374",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-03-12_Press-Release_62374_Digital%20Payments%20Awareness%20Week%202026%20-%20Launch%20of%20%E2%80%98Awareness%20Program%20on%20Digital%20Payments%E2%80%99%20and%20Interaction%20with%20Payment%20Systems%20Operators%20%28PSOs%29.pdf",
+      "title": "Digital Payments Awareness Week 2026 - Launch of ‘Awareness Program on Digital Payments’ and Interaction with Payment Systems Operators (PSOs)",
+      "date_published": "Mar 12, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "62602",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-04-22_Press-Release_62602_RBI%20issues%20Draft%20Master%20Direction%20on%20Prepaid%20Payment%20Instruments%20%28PPIs%29%2C%202026.pdf",
+      "title": "RBI issues Draft Master Direction on Prepaid Payment Instruments (PPIs), 2026",
+      "date_published": "Apr 22, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "62757",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-05-18_Press-Release_62757_RBI%20publishes%20Payment%20System%20Report%2C%20December%202025.pdf",
+      "title": "RBI publishes Payment System Report, December 2025",
+      "date_published": "May 18, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "62857",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-06-03_Press-Release_62857_Launch%20of%20Payment%20Systems%E2%80%99%20Connectivity%20Between%20India%20and%20Cambodia%20for%20QR-Code%20Based%20Cross-Border%20Merchant%20Payments.pdf",
+      "title": "Launch of Payment Systems’ Connectivity Between India and Cambodia for QR-Code Based Cross-Border Merchant Payments",
+      "date_published": "Jun 03, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "62941",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-06-15_Press-Release_62941_RBI%20Issues%20Master%20Directions%20on%20Authorisation%20to%20operate%20a%20Payment%20System.pdf",
+      "title": "RBI Issues Master Directions on Authorisation to operate a Payment System",
+      "date_published": "Jun 15, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "3916",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-06-22_Press-Release_3916_RBI%20imposes%20monetary%20penalty%20on%20Hutatma%20Sahakari%20Bank%20Ltd.%2C%20Walva%2C%20Maharashtra.pdf",
+      "title": "RBI imposes monetary penalty on Hutatma Sahakari Bank Ltd., Walva, Maharashtra",
+      "date_published": "June 22, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "62991",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-06-22_Press-Release_62991_RBI%20imposes%20monetary%20penalty%20on%20Hutatma%20Sahakari%20Bank%20Ltd.%2C%20Walva%2C%20Maharashtra.pdf",
+      "title": "RBI imposes monetary penalty on Hutatma Sahakari Bank Ltd., Walva, Maharashtra",
+      "date_published": "Jun 22, 2026",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2024-2025/108 EFD.CO.No.1/02.08.001/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-01-30_Circular_RBI-2024-2025-108%20EFD.CO.No.1-02.08.001-2024-25_Framework%20for%20imposing%20monetary%20penalty%20and%20compounding%20of%20offences%20under%20the%20Payment%20and%20Settlement%20Systems%20Act%2C%202007.pdf",
+      "title": "Framework for imposing monetary penalty and compounding of offences under the Payment and Settlement Systems Act, 2007",
+      "date_published": "30.1.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "DOR.ACC.REC.No.67/21.04.018/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-03-20_Circular_DOR.ACC.REC.No.67-21.04.018-2024-25_Amortisation%20of%20Additional%20Pension%20Liability%20-%20Implementation%20of%20Pension%20Scheme%20in%20Regional%20Rural%20Banks%20with%20Effect%20from%20November%201%2C%201993%20-%20.pdf",
+      "title": "Amortisation of Additional Pension Liability - Implementation of Pension Scheme in Regional Rural Banks with Effect from November 1, 1993 - Prudential Regulatory Treatment",
+      "date_published": "March 20, 2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2024-2025/127 DOR.ACC.REC.No.67/21.04.018/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-03-20_Circular_RBI-2024-2025-127%20DOR.ACC.REC.No.67-21.04.018-2024-25_Amortisation%20of%20additional%20pension%20liability%20-%20Implementation%20of%20Pension%20Scheme%20in%20Regional%20Rural%20Banks%20with%20effect%20from%20N.pdf",
+      "title": "Amortisation of additional pension liability - Implementation of Pension Scheme in Regional Rural Banks with effect from November 1, 1993 - Prudential Regulatory Treatment",
+      "date_published": "20.3.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "DOR.CAP.REC.No.68/21.01.002/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-03-21_Circular_DOR.CAP.REC.No.68-21.01.002-2024-25_Treatment%20of%20Right-of-Use%20%28ROU%29%20Asset%20for%20Regulatory%20Capital%20Purposes.pdf",
+      "title": "Treatment of Right-of-Use (ROU) Asset for Regulatory Capital Purposes",
+      "date_published": "March 21, 2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2024-2025/128 DOR.CAP.REC.No.68/21.01.002/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-03-21_Circular_RBI-2024-2025-128%20DOR.CAP.REC.No.68-21.01.002-2024-25_Treatment%20of%20Right-of-Use%20%28ROU%29%20Asset%20for%20Regulatory%20Capital%20Purposes.pdf",
+      "title": "Treatment of Right-of-Use (ROU) Asset for Regulatory Capital Purposes",
+      "date_published": "21.3.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/FED/2025-2026/33 DCM.RMMT.No.S312/20-02-001/2025-2026",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-04-28_Circular_RBI-FED-2025-2026-33%20DCM.RMMT.No.S312-20-02-001-2025-2026_Dispensation%20of%20%E2%82%B9100%20and%20%E2%82%B9200%20denomination%20banknotes%20through%20ATMs.pdf",
+      "title": "Dispensation of ₹100 and ₹200 denomination banknotes through ATMs",
+      "date_published": "28.4.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "DoR.CRE.REC.28/07.10.002/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-09_Circular_DoR.CRE.REC.28-07.10.002-2025-26_Non-Achievement%20of%20PSL%20Targets%20-%20Prudential%20Treatment%20of%20Contribution%20Towards%20Eligible%20Funds%20with%20NABARD%2C%20NHB%2C%20SIDBI%20and%20MUDRA%20Ltd..pdf",
+      "title": "Non-Achievement of PSL Targets - Prudential Treatment of Contribution Towards Eligible Funds with NABARD, NHB, SIDBI and MUDRA Ltd.",
+      "date_published": "June 9, 2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2025-2026/49 DoR.CRE.REC.28/07.10.002/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-09_Circular_RBI-2025-2026-49%20DoR.CRE.REC.28-07.10.002-2025-26_Non-achievement%20of%20PSL%20targets%20%E2%80%93%20Prudential%20treatment%20of%20contribution%20towards%20eligible%20funds%20with%20NABARD%2C%20NHB%2C%20SIDBI%20and%20MUDRA.pdf",
+      "title": "Non-achievement of PSL targets – Prudential treatment of contribution towards eligible funds with NABARD, NHB, SIDBI and MUDRA Ltd.",
+      "date_published": "09.6.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2025-2026/54 IDMD.RD.S390/10.18.060/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-12_Circular_RBI-2025-2026-54%20IDMD.RD.S390-10.18.060-2025-26_Stripping-Reconstitution%20in%20State%20Government%20Securities.pdf",
+      "title": "Stripping/Reconstitution in State Government Securities",
+      "date_published": "12.6.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2025-2026/55 A.P. (DIR Series) Circular No. 07",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-13_Circular_RBI-2025-2026-55%20A.P.%20%28DIR%20Series%29%20Circular%20No.%2007_Import%20of%20Shipping%20Vessel%20-%20Relaxation.pdf",
+      "title": "Import of Shipping Vessel - Relaxation",
+      "date_published": "13.6.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2025-2026/63 CO.DPSS.POLC.No.S339/02-01-001/2025-2026",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-06-27_Circular_RBI-2025-2026-63%20CO.DPSS.POLC.No.S339-02-01-001-2025-2026_Aadhaar%20Enabled%20Payment%20System%20%E2%80%93%20Due%20Diligence%20of%20AePS%20Touchpoint%20Operators.pdf",
+      "title": "Aadhaar Enabled Payment System – Due Diligence of AePS Touchpoint Operators",
+      "date_published": "27.6.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2025-2026/77 CO.DPSS.ODD.No.S604/06-08-024/2025-2026",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-09-05_Circular_RBI-2025-2026-77%20CO.DPSS.ODD.No.S604-06-08-024-2025-2026_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "05.9.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "60821",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-07-11_Draft-Notification_60821_Directions%20related%20to%20Closure%20of%20Shipping%20Bills%20in%20the%20Export%20Data%20Processing%20and%20Monitoring%20System%20%28EDPMS%29%20%E2%80%93%20Draft%20for%20Feedback.pdf",
+      "title": "Directions related to Closure of Shipping Bills in the  Export Data Processing and Monitoring System (EDPMS) – Draft for Feedback",
+      "date_published": "Jul 11, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "164",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_164_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "173",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_173_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "20",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_20_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "51",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_51_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "90",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_90_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "12971",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_12971_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13042",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13042_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13067",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13067_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13112",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13112_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13144",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13144_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "12773",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-01-30_Notification_12773_Framework%20for%20imposing%20monetary%20penalty%20and%20compounding%20of%20offences%20under%20the%20Payment%20and%20Settlement%20Systems%20Act%2C%202007.pdf",
+      "title": "Framework for imposing monetary penalty and compounding of offences under the Payment and Settlement Systems Act, 2007",
+      "date_published": "Jan 30, 2025",
       "category": "Notifications"
     },
     {
-      "id": "6591",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2002/2002-03-21_Press-Release_6591_Issue%20of%20Rs.5%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-L-%20inset%20in%20numbering%20panel.pdf",
-      "title": "Issue of Rs.5 notes in Mahatma Gandhi Series with capital letter \"L\" inset in numbering panel",
-      "date_published": "Mar 21, 2002",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "226",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2002/2002-09-06_Press-Release_226_Procedure%20for%20Release%20of%20Foreign%20Exchange%20for%20Medical%20Treatment%20Abroad%20Liberalised.pdf",
-      "title": "Procedure for Release of Foreign Exchange for Medical Treatment Abroad Liberalised",
-      "date_published": "September 06, 2002",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "7392",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2002/2002-09-06_Press-Release_7392_Procedure%20for%20Release%20of%20Foreign%20Exchange%20for%20Medical%20Treatment%20Abroad%20Liberalised.pdf",
-      "title": "Procedure for Release of Foreign Exchange for Medical Treatment Abroad Liberalised",
-      "date_published": "Sep 06, 2002",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "7639",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2002/2002-10-31_Press-Release_7639_Issue%20of%20Rs.10%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20%60T%27%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.10 notes in Mahatma Gandhi Series with capital letter `T' inset in numbering panels",
-      "date_published": "Oct 31, 2002",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "DBOD.No.BL.BC.5/22.01.001/2003",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2003/2003-07-23_Circular_DBOD.No.BL.BC.5-22.01.001-2003_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20-%20Third%20Party%20Transfer%20of%20Funds%20through%20ATMs.pdf",
-      "title": "Section 23 of Banking Regulation Act, 1949 - Third Party Transfer of Funds through ATMs",
-      "date_published": "July 23, 2003",
-      "category": "Circulars"
-    },
-    {
-      "id": "DBOD.BP.BC.24/21.04.018/2003-2004",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2003/2003-09-13_Circular_DBOD.BP.BC.24-21.04.018-2003-2004_Accounting%20Treatment%20of%20Legal%20Expenses%20Incurred%20by%20Banks%20in%20Suit%20Filed%20Accounts.pdf",
-      "title": "Accounting Treatment of Legal Expenses Incurred by Banks in Suit Filed Accounts",
-      "date_published": "September 13, 2003",
-      "category": "Circulars"
-    },
-    {
-      "id": "UBD.BL(PCB)Cir.No.1A/07.01.00/2003-04",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2003/2003-10-01_Circular_UBD.BL%28PCB%29Cir.No.1A-07.01.00-2003-04_Master%20Circular%20on%20Area%20of%20Operation%2C%20Branch%20Licensing%20Policy%2C%20Opening-Upgradation%20of%20Extension%20Counters%2C%20ATMs%20and%20Shifting-Splitting-Clos.pdf",
-      "title": "Master Circular on Area of Operation, Branch Licensing Policy, Opening/Upgradation of Extension Counters, ATMs and Shifting/Splitting/Closure of Offices",
-      "date_published": "October 1, 2003",
-      "category": "Circulars"
-    },
-    {
-      "id": "130",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2003/2003-07-23_Notification_130_Section%2023%20of%20Banking%20Regulation%20Act%2C%201949%20%E2%80%93%20Third%20party%20transfer%20of%20funds%20through%20ATMs.pdf",
-      "title": "Section 23 of Banking Regulation Act, 1949 – Third party  transfer of funds through ATMs",
-      "date_published": "July 23, 2003",
+      "id": "12844",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-04-28_Notification_12844_Dispensation%20of%20%E2%82%B9100%20and%20%E2%82%B9200%20denomination%20banknotes%20through%20ATMs.pdf",
+      "title": "Dispensation of ₹100 and ₹200 denomination banknotes through ATMs",
+      "date_published": "Apr 28, 2025",
       "category": "Notifications"
     },
     {
-      "id": "8901",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2003/2003-08-02_Press-Release_8901_Issue%20of%20Rs.10%20notes%20in%20Mahatma%20Gandhi%20Series%20with%20capital%20letter%20-M-%20inset%20in%20numbering%20panels.pdf",
-      "title": "Issue of Rs.10 notes in Mahatma Gandhi Series with capital letter \"M\" inset in numbering panels",
-      "date_published": "Aug 02, 2003",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "9418",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2003/2003-11-22_Press-Release_9418_Issue%20of%20Rs.100%20notes%20in%20Mahatma%20Gandhi%20Series%20bearing%20the%20signature%20of%20Dr.%20Y.%20V.%20Reddy%2C%20Governor.pdf",
-      "title": "Issue of Rs.100 notes in Mahatma Gandhi Series bearing the signature of Dr. Y. V. Reddy, Governor",
-      "date_published": "Nov 22, 2003",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "UBD.BL (PCB) MC.No.9/07.01.00/2004-05",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2004/2004-09-01_Circular_UBD.BL%20%28PCB%29%20MC.No.9-07.01.00-2004-05_Master%20Circular%20on%20Area%20of%20Operation%2C%20Branch%20Licensing%20Policy%2C%20Opening-Upgradation%20of%20Extension%20Counters%2C%20ATMs%20and%20Shifting-Splitting-Clos.pdf",
-      "title": "Master Circular on Area of Operation, Branch Licensing Policy, Opening/Upgradation of Extension Counters, ATMs and Shifting/Splitting/Closure of Offices",
-      "date_published": "September 1, 2004",
-      "category": "Circulars"
-    },
-    {
-      "id": "1541",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2004/2004-03-13_Notification_1541_Foreign%20Inward%20Remittance%20Payment%20System%20%28FIRPS%29%20Instrument%20-%20A.P.%20%28DIR%20Series%29%20Circular%20No.78.pdf",
-      "title": "Foreign Inward Remittance Payment System (FIRPS) Instrument - A.P. (DIR Series) Circular No.78",
-      "date_published": "March 13, 2004",
+      "id": "12867",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-06-12_Notification_12867_Stripping-Reconstitution%20in%20State%20Government%20Securities.pdf",
+      "title": "Stripping/Reconstitution in State Government Securities",
+      "date_published": "Jun 12, 2025",
       "category": "Notifications"
     },
     {
-      "id": "9698",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-01-30_Press-Release_9698_RBI%20to%20issue%20Rs.5--%2C%20Rs.10--%2C%20Rs.%2050--%20and%20Rs.%20100--%20denomination%20bank-notes%20with%20inset%20letter%20%60R%27%20and%20Rs.%20500--%20denomination%20bank%20notes%20with%20inset%20letter%20%60B%27%20in%20numb.pdf",
-      "title": "RBI to issue Rs.5/-, Rs.10/-, Rs. 50/- and Rs. 100/- denomination bank\nnotes with inset letter `R' and Rs. 500/- denomination bank notes with inset letter `B' in numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Jan 30, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10093",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-05-08_Press-Release_10093_RBI%20to%20issue%20Rs.%20100%20denomination%20bank%20notes%20with%20inset%20letter%20%60F%27%20and%20Rs.%2020%20denomination%20bank%20notes%20without%20inset%20letter%20in%20numbering%20panel%20in%20Mahatma%20Gandhi%20serie.pdf",
-      "title": "RBI to issue Rs. 100 denomination bank notes with inset letter `F' and Rs. 20 denomination bank notes without inset letter in numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "May 08, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10126",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-05-18_Press-Release_10126_RBI%20to%20issue%20Rs.%20100%20denomination%20bank%20notes%20with%20inset%20letter%20%60L%27%20and%20Rs.%2010%20denomination%20bank%20notes%20without%20inset%20letter%20in%20numbering%20panel%20in%20Mahatma%20Gandhi%20serie.pdf",
-      "title": "RBI to issue Rs. 100 denomination bank notes with inset letter `L' and Rs. 10 denomination bank notes without inset letter in numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "May 18, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10214",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-06-04_Press-Release_10214_RBI%20to%20issue%20Rs.%205%20denomination%20bank%20notes%20with%20inset%20letter%20%60L%27%20in%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 5 denomination bank notes with inset letter `L' in numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Jun 04, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10312",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-07-01_Press-Release_10312_RBI%20to%20issue%20Rs.50%20denomination%20bank%20notes%20with%20inset%20letter%20%60E%27%20in%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20bearing%20the%20signature%20of%20Dr.Y.V.Reddy%2C%20Governor.pdf",
-      "title": "RBI to issue Rs.50 denomination bank notes with inset letter `E' in numbering panel in Mahatma Gandhi series bearing the signature of Dr.Y.V.Reddy, Governor",
-      "date_published": "Jul 01, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10407",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-07-17_Press-Release_10407_RBI%20to%20issue%20Rs.%2020%20denomination%20bank%20notes%20with%20inset%20letter%20%60A%27%20in%20both%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 20 denomination bank notes with inset letter `A' in both numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Jul 17, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10511",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-08-14_Press-Release_10511_RBI%20to%20issue%20Rs.%2050%20denomination%20bank%20notes%20with%20inset%20letter%20%60L%27%20in%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 50 denomination bank notes with inset letter `L' in numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Aug 14, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10812",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-11-03_Press-Release_10812_RBI%20to%20issue%20Rs.%2020%20denomination%20bank%20notes%20with%20inset%20letter%20%60R%27%20in%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 20 denomination bank notes with inset letter `R' in numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Nov 03, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10895",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-11-29_Press-Release_10895_Issue%20of%20Rs.500%20denomination%20bank%20notes%20with%20inset%20letter%20%60C%27%20in%20both%20numbering%20panels%20in%20Mahatma%20Gandhi%20Series%20bearing%20the%20signature%20of%20Dr.Y.V.Reddy%2C%20Governor.pdf",
-      "title": "Issue of Rs.500 denomination bank notes with inset letter `C' in both numbering panels in Mahatma Gandhi Series bearing the signature of Dr.Y.V.Reddy, Governor",
-      "date_published": "Nov 29, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "11018",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-12-29_Press-Release_11018_RBI%20to%20issue%20Rs.%20500%20denomination%20bank%20notes%20with%20inset%20letter%20%60A%27%20in%20both%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 500 denomination bank notes with inset letter `A' in both numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Dec 29, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "RBI/2004-2005/396 DPSS (CO) Cir. No.1 / 10.01.01 / 2004-2005",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-03-17_Circular_RBI-2004-2005-396%20DPSS%20%28CO%29%20Cir.%20No.1%20-%2010.01.01%20-%202004-2005_Constitution%20of%20the%20Department%20of%20Payment%20and%20Settlement%20Systems%20%28DPSS%29.pdf",
-      "title": "Constitution of the Department of Payment and Settlement Systems (DPSS)",
-      "date_published": "17.3.2005",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2005-2006/53 DPSS(CO)Cir.No.04/10.01.01 /2005-2006",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-07-13_Circular_RBI-2005-2006-53%20DPSS%28CO%29Cir.No.04-10.01.01%20-2005-2006_RTGS%20and%20other%20payment%20systems%20service%20charges.pdf",
-      "title": "RTGS and other payment systems service charges",
-      "date_published": "13.7.2005",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2005-2006/66 A.P.(DIR Series) Circular No.02",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-07-18_Circular_RBI-2005-2006-66%20A.P.%28DIR%20Series%29%20Circular%20No.02_Exim%20Bank%27s%20Line%20of%20Credit%20of%20USD%202%20Million%20to%20Trade%20and%20Investment%20Development%20Corporation%20of%20the%20Philippines%20-%20TIDCORP%20%28also%20.pdf",
-      "title": "Exim Bank's Line of Credit of USD 2 Million to Trade and Investment Development Corporation of the Philippines - TIDCORP (also known as Philippine Export-Import Credit Agency – PhilEXIM",
-      "date_published": "18.7.2005",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2005-2006/131 RPCD.PLNFS. BC.No.31/ 06.02.31/ 2005-06",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-08-19_Circular_RBI-2005-2006-131%20RPCD.PLNFS.%20BC.No.31-%2006.02.31-%202005-06_Policy%20Package%20for%20Stepping%20up%20Credit%20to%20Small%20and%20Medium%20Enterprises%20--Announcements%20made%20by%20the%20Union%20Finance%20Minist.pdf",
-      "title": "Policy Package for Stepping up Credit to Small and Medium Enterprises --Announcements made by the Union Finance Minister",
-      "date_published": "19.8.2005",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2005-2006/140 RPCD.PLNFS. BC.No. 35/ 06.02.31/ 2005-06",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2005/2005-08-25_Circular_RBI-2005-2006-140%20RPCD.PLNFS.%20BC.No.%2035-%2006.02.31-%202005-06_Stepping%20up%20Credit%20to%20SMEs%27.pdf",
-      "title": "Stepping up Credit to SMEs'",
-      "date_published": "25.8.2005",
-      "category": "Circulars"
-    },
-    {
-      "id": "2163",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-03-17_Notification_2163_Constitution%20of%20the%20Department%20of%20Payment%20and%20Settlement%20Systems%20%28DPSS%29.pdf",
-      "title": "Constitution of the Department of Payment and Settlement Systems (DPSS)",
-      "date_published": "Mar 17, 2005",
+      "id": "12877",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-06-27_Notification_12877_Aadhaar%20Enabled%20Payment%20System%20%E2%80%93%20Due%20Diligence%20of%20AePS%20Touchpoint%20Operators.pdf",
+      "title": "Aadhaar Enabled Payment System – Due Diligence of AePS Touchpoint Operators",
+      "date_published": "Jun 27, 2025",
       "category": "Notifications"
     },
     {
-      "id": "2456",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-08-19_Notification_2456_Policy%20Package%20for%20Stepping%20up%20Credit%20to%20Small%20and%20Medium%20Enterprises%20--Announcements%20made%20by%20the%20Union%20Finance%20Minister.pdf",
-      "title": "Policy Package for Stepping up Credit to Small and Medium Enterprises --Announcements made by the Union Finance Minister",
-      "date_published": "Aug 19, 2005",
+      "id": "12895",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-09-05_Notification_12895_Returns%20%E2%80%93%20Department%20of%20Payment%20and%20Settlement%20Systems%20%E2%80%93%20Submission%20in%20CIMS.pdf",
+      "title": "Returns – Department of Payment and Settlement Systems – Submission in CIMS",
+      "date_published": "Sep 05, 2025",
       "category": "Notifications"
     },
     {
-      "id": "2474",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2005/2005-08-25_Notification_2474_Stepping%20up%20Credit%20to%20SMEs.pdf",
-      "title": "Stepping up Credit to SMEs",
-      "date_published": "Aug 25, 2005",
+      "id": "12971",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_12971_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
       "category": "Notifications"
     },
     {
-      "id": "11161",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-02-04_Press-Release_11161_RBI%20to%20issue%20Rs.%2010%20denomination%20bank%20notes%20with%20inset%20letter%20%60S%27%20in%20both%20numbering%20panels%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 10 denomination bank notes with inset letter `S' in both numbering panels in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Feb 04, 2005",
+      "id": "13042",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13042_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13067",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13067_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13112",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13112_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13144",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13144_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Treatment of Wilful Defaulters and Large Defaulters) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "59617",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-01-27_Press-Release_59617_RBI%20publishes%20Payment%20System%20Report%2C%20December%202024.pdf",
+      "title": "RBI publishes Payment System Report, December 2024",
+      "date_published": "Jan 27, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "11219",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-02-18_Press-Release_11219_Reserve%20Bank%20Cancels%20Certificate%20of%20Registration%20of%20Mahatma%20Securities%20India%20Ltd.%2C%20Hyderabad.pdf",
-      "title": "Reserve Bank Cancels Certificate of Registration of Mahatma Securities India Ltd., Hyderabad",
-      "date_published": "Feb 18, 2005",
+      "id": "59733",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-02-12_Press-Release_59733_Issue%20of%20%E2%82%B950%20Denomination%20Banknotes%20in%20Mahatma%20Gandhi%20%28New%29%20Series%20bearing%20the%20signature%20of%20Shri%20Sanjay%20Malhotra%2C%20Governor.pdf",
+      "title": "Issue of ₹50 Denomination Banknotes in Mahatma Gandhi (New) Series bearing the signature of Shri Sanjay Malhotra, Governor",
+      "date_published": "Feb 12, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "11293",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-03-10_Press-Release_11293_RBI%20constitutes%20Board%20for%20Regulation%20and%20Supervision%20of%20Payment%20and%20Settlement%20Systems.pdf",
-      "title": "RBI constitutes Board for Regulation and Supervision of Payment and Settlement Systems",
-      "date_published": "Mar 10, 2005",
+      "id": "59735",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-02-12_Press-Release_59735_Credit%20line%20on%20UPI%20%E2%80%93%20Extending%20the%20scope%20of%20Small%20Finance%20Banks%20%28SFBs%29.pdf",
+      "title": "Credit line on UPI – Extending the scope of Small Finance Banks (SFBs)",
+      "date_published": "Feb 12, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "11330",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-03-19_Press-Release_11330_RBI%20to%20issue%20Rs.%20100%20denomination%20bank%20notes%20with%20inset%20letter%20%60G%27%20in%20both%20numbering%20panel%20in%20Mahatma%20Gandhi%20series%20with%20Dr.Y.V.Reddy%27s%20signature.pdf",
-      "title": "RBI to issue Rs. 100 denomination bank notes with inset letter `G' in both numbering panel in Mahatma Gandhi series with Dr.Y.V.Reddy's signature",
-      "date_published": "Mar 19, 2005",
+      "id": "59949",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-03-11_Press-Release_59949_Issue%20of%20%E2%82%B9100%20and%20%E2%82%B9200%20Denomination%20Banknotes%20in%20Mahatma%20Gandhi%20%28New%29%20Series%20bearing%20the%20signature%20of%20Shri%20Sanjay%20Malhotra%2C%20Governor.pdf",
+      "title": "Issue of ₹100 and ₹200 Denomination Banknotes in Mahatma Gandhi (New) Series bearing the signature of Shri Sanjay Malhotra, Governor",
+      "date_published": "Mar 11, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "11499",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-05-03_Press-Release_11499_RBI%20releases%20Vision%20Document%20for%20Payment%20and%20Settlement%20Systems.pdf",
-      "title": "RBI releases Vision Document for Payment and Settlement Systems",
-      "date_published": "May 03, 2005",
+      "id": "60151",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-04-04_Press-Release_60151_Issue%20of%20%E2%82%B910%20and%20%E2%82%B9500%20Denomination%20Banknotes%20in%20Mahatma%20Gandhi%20%28New%29%20Series%20bearing%20the%20signature%20of%20Shri%20Sanjay%20Malhotra%2C%20Governor.pdf",
+      "title": "Issue of ₹10 and ₹500 Denomination Banknotes in Mahatma Gandhi (New) Series bearing the signature of Shri Sanjay Malhotra, Governor",
+      "date_published": "Apr 04, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "13209",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-06-15_Press-Release_13209_Issue%20of%20Rs.50%20denomination%20bank%20notes%20with%20inset%20letter%20%60F%27%20in%20both%20numbering%20panels%20in%20Mahatma%20Gandhi%20Series%20bearing%20the%20signature%20of%20Dr.%20Y.V.Reddy%2C%20Governor.pdf",
-      "title": "Issue of Rs.50 denomination bank notes with inset letter `F' in both numbering panels in Mahatma Gandhi Series bearing the signature of Dr. Y.V.Reddy, Governor",
-      "date_published": "Jun 15, 2005",
+      "id": "60473",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-05-17_Press-Release_60473_Issue%20of%20%E2%82%B920%20Denomination%20Banknotes%20in%20Mahatma%20Gandhi%20%28New%29%20Series%20bearing%20the%20signature%20of%20Shri%20Sanjay%20Malhotra%2C%20Governor.pdf",
+      "title": "Issue of ₹20 Denomination Banknotes in Mahatma Gandhi (New) Series bearing the signature of Shri Sanjay Malhotra, Governor",
+      "date_published": "May 17, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "13520",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-08-24_Press-Release_13520_Issue%20of%20Rs.50%20denomination%20banknotes%20in%20Mahatma%20Gandhi%20Series%20with%20additional-new%20security%20features%20without%20inset%20letter%20in%20numbering%20panel%20bearing%20the%20signature%20of.pdf",
-      "title": "Issue of Rs.50 denomination banknotes in Mahatma Gandhi Series with additional/new security features without inset letter in numbering panel bearing the signature of Dr. Y. V. Reddy, Governor",
-      "date_published": "Aug 24, 2005",
+      "id": "60734",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-06-27_Press-Release_60734_RBI%20issues%20directions%20on%20Due%20Diligence%20of%20Aadhaar%20Enabled%20Payment%20System%20%28AePS%29%20Touchpoint%20Operators.pdf",
+      "title": "RBI issues directions on Due Diligence of Aadhaar Enabled Payment System (AePS) Touchpoint Operators",
+      "date_published": "Jun 27, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "13521",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-08-24_Press-Release_13521_Issue%20of%20Rs.100%20denomination%20banknotes%20in%20Mahatma%20Gandhi%20Series%20with%20additional-new%20security%20features%20without%20inset%20letter%20in%20numbering%20panel%20bearing%20the%20signature%20o.pdf",
-      "title": "Issue of Rs.100 denomination banknotes in Mahatma Gandhi Series  with additional/new security features without inset letter in numbering panel bearing the signature of Dr. Y. V. Reddy, Governor",
-      "date_published": "Aug 24, 2005",
+      "id": "60821",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-07-11_Press-Release_60821_Directions%20related%20to%20Closure%20of%20Shipping%20Bills%20in%20the%20Export%20Data%20Processing%20and%20Monitoring%20System%20%28EDPMS%29%20%E2%80%93%20Draft%20for%20Feedback.pdf",
+      "title": "Directions related to Closure of Shipping Bills in the  Export Data Processing and Monitoring System (EDPMS) – Draft for Feedback",
+      "date_published": "Jul 11, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "13595",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-09-10_Press-Release_13595_Issue%20of%20Rs%20100--%20denomination%20banknotes%20in%20Mahatma%20Gandhi%20Series%20with%20additional-new%20security%20features%20with%20inset%20letter%20%27R%27%20in%20numbering%20panel%20bearing%20the%20signatur.pdf",
-      "title": "Issue of Rs 100/- denomination banknotes in Mahatma Gandhi Series with additional/new security features with inset letter 'R' in numbering panel bearing the signature of Dr. Y.V. Reddy, Governor",
-      "date_published": "Sep 10, 2005",
+      "id": "61481",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-10-23_Press-Release_61481_RBI%20publishes%20Payment%20System%20Report%2C%20June%202025.pdf",
+      "title": "RBI publishes Payment System Report, June 2025",
+      "date_published": "Oct 23, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "14681",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2006/2006-04-27_Press-Release_14681_Issue%20of%20Rs%2010--%20denomination%20banknotes%20in%20Mahatma%20Gandhi%20Series%20with%20additional-new%20security%20features%20without%20inset%20letter%20in%20numbering%20panel%20bearing%20the%20signature%20.pdf",
-      "title": "Issue of Rs 10/- denomination banknotes in Mahatma Gandhi Series with additional/new security features without inset letter in numbering panel bearing the signature of Dr. Y.V. Reddy, Governor",
-      "date_published": "Apr 27, 2006",
+      "id": "61599",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-11-11_Press-Release_61599_Recognition%20of%20Self-Regulatory%20Organisation%20for%20Payment%20System%20Operators.pdf",
+      "title": "Recognition of Self-Regulatory Organisation for Payment System Operators",
+      "date_published": "Nov 11, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "15238",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2006/2006-08-16_Press-Release_15238_Issue%20of%20Rs%2020--%20denomination%20banknotes%20in%20Mahatma%20Gandhi%20Series%20with%20additional-new%20security%20features%20without%20inset%20letter%20in%20numbering%20panel%20bearing%20the%20signature%20.pdf",
-      "title": "Issue of Rs 20/- denomination banknotes in Mahatma Gandhi Series with additional/new security features without inset letter in numbering panel bearing the signature of Dr. Y.V. Reddy, Governor",
-      "date_published": "Aug 16, 2006",
+      "id": "61665",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-11-21_Press-Release_61665_Interlinking%20of%20Unified%20Payments%20Interface%20%28UPI%29%20with%20the%20TARGET%20Instant%20Payment%20Settlement%20%28TIPS%29%20of%20the%20Eurosystem.pdf",
+      "title": "Interlinking of Unified Payments Interface (UPI) with the TARGET Instant Payment Settlement (TIPS) of the Eurosystem",
+      "date_published": "Nov 21, 2025",
       "category": "Press-Releases"
     },
     {
-      "id": "RBI/2007-2008/142 UBD.CO. BPD. (PCB). No. 17/12.05.001/2007-08",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-09-20_Circular_RBI-2007-2008-142%20UBD.CO.%20BPD.%20%28PCB%29.%20No.%2017-12.05.001-2007-08_Treatment%20of%20deposits%20with%20DCCB-SCBs%20as%20SLR.pdf",
-      "title": "Treatment of deposits with DCCB/SCBs as SLR",
-      "date_published": "20.9.2007",
+      "id": "RBI/2023-2024/126 CO.DPSS.POLC.No.S1092/02-14-006/2023-2024",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-02-23_Circular_RBI-2023-2024-126%20CO.DPSS.POLC.No.S1092-02-14-006-2023-2024_Amendment%20to%20Master%20Direction%20on%20Prepaid%20Payment%20Instruments.pdf",
+      "title": "Amendment to Master Direction on Prepaid Payment Instruments",
+      "date_published": "23.2.2024",
       "category": "Circulars"
     },
     {
-      "id": "UBD.CO.BPD.(PCB).No.17/12.05.001/2007-08",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2007/2007-09-20_Circular_UBD.CO.BPD.%28PCB%29.No.17-12.05.001-2007-08_Treatment%20of%20Deposits%20with%20DCCB%20-%20SCBs%20as%20SLR.pdf",
-      "title": "Treatment of Deposits with DCCB / SCBs as SLR",
-      "date_published": "September 20, 2007",
+      "id": "DoR.FIN.REC.No.31/20.16.003/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-07-30_Circular_DoR.FIN.REC.No.31-20.16.003-2024-25_Master%20Direction%20on%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters.pdf",
+      "title": "Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+      "date_published": "July 30, 2024",
       "category": "Circulars"
     },
     {
-      "id": "16224",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-03-08_Press-Release_16224_Issue%20of%20Rs%2020%20denomination%20banknotes%20in%20Mahatma%20Gandhi%20Series%20with%20additional-new%20security%20features%20with%20inset%20letter%20-R-%20in%20both%20numbering%20panels%20bearing%20the%20signa.pdf",
-      "title": "Issue of Rs 20 denomination banknotes in Mahatma Gandhi Series with additional/new  security features with inset letter \"R\" in both numbering panels bearing the signature of Dr. Y.V. Reddy, Governor",
-      "date_published": "Mar 08, 2007",
+      "id": "RBI/2024-2025/83 CO.DPSS.POLC.No.S-708/02-12-004/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-10-11_Circular_RBI-2024-2025-83%20CO.DPSS.POLC.No.S-708-02-12-004-2024-25_Facilitating%20accessibility%20to%20digital%20payment%20systems%20for%20Persons%20with%20Disabilities%20-%20Guidelines.pdf",
+      "title": "Facilitating accessibility to digital payment systems for Persons with Disabilities - Guidelines",
+      "date_published": "11.10.2024",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2024-2025/97 CO.DPSS.POLC.No.S972/02-14-006/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-12-27_Circular_RBI-2024-2025-97%20CO.DPSS.POLC.No.S972-02-14-006-2024-25_Unified%20Payments%20Interface%20%28UPI%29%20access%20for%20Prepaid%20Payment%20Instruments%20%28PPIs%29%20through%20third-party%20applications.pdf",
+      "title": "Unified Payments Interface (UPI) access for Prepaid Payment Instruments (PPIs) through third-party applications",
+      "date_published": "27.12.2024",
+      "category": "Circulars"
+    },
+    {
+      "id": "58401",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2024/2024-07-31_Draft-Notification_58401_Aadhaar%20Enabled%20Payment%20System%20%28AePS%29%20%E2%80%93%20Due%20Diligence%20of%20Touchpoint%20Operators%20%E2%80%93%20Draft%20Directions.pdf",
+      "title": "Aadhaar Enabled Payment System (AePS) – Due Diligence of Touchpoint Operators – Draft Directions",
+      "date_published": "Jul 31, 2024",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "12616",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2024/2024-02-29_Master-Direction_12616_Master%20Direction%20%E2%80%93%20Reserve%20Bank%20of%20India%20%28Bharat%20Bill%20Payment%20System%29%20Directions%2C%202024.pdf",
+      "title": "Master Direction – Reserve Bank of India (Bharat Bill Payment System) Directions, 2024",
+      "date_published": "Feb 29, 2024",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "12612",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-02-23_Notification_12612_Amendment%20to%20Master%20Direction%20on%20Prepaid%20Payment%20Instruments.pdf",
+      "title": "Amendment to Master Direction on Prepaid Payment Instruments",
+      "date_published": "Feb 23, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "12616",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-02-29_Notification_12616_Master%20Direction%20%E2%80%93%20Reserve%20Bank%20of%20India%20%28Bharat%20Bill%20Payment%20System%29%20Directions%2C%202024.pdf",
+      "title": "Master Direction – Reserve Bank of India (Bharat Bill Payment System) Directions, 2024",
+      "date_published": "Feb 29, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "12713",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-07-30_Notification_12713_Master%20Direction%20on%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters.pdf",
+      "title": "Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+      "date_published": "July 30, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "12715",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-07-30_Notification_12715_Master%20Directions%20on%20Cyber%20Resilience%20and%20Digital%20Payment%20Security%20Controls%20for%20non-bank%20Payment%20System%20Operators.pdf",
+      "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+      "date_published": "July 30, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "12741",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-10-11_Notification_12741_Facilitating%20accessibility%20to%20digital%20payment%20systems%20for%20Persons%20with%20Disabilities%20-%20Guidelines%20%28%20Updated%20as%20on%20October%2013%2C%202026%20%29.pdf",
+      "title": "Facilitating accessibility to digital payment systems for Persons with Disabilities - Guidelines ( Updated as on October 13, 2026 )",
+      "date_published": "Oct 11, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "12756",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-12-27_Notification_12756_Unified%20Payments%20Interface%20%28UPI%29%20access%20for%20Prepaid%20Payment%20Instruments%20%28PPIs%29%20through%20third-party%20applications.pdf",
+      "title": "Unified Payments Interface (UPI) access for Prepaid Payment Instruments (PPIs) through third-party applications",
+      "date_published": "Dec 27, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "57308",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-02-12_Press-Release_57308_Honorable%20Prime%20Minister%20of%20India%2C%20Honorable%20Prime%20Minister%20of%20Mauritius%20and%20Honorable%20President%20of%20Sri%20Lanka%20witnessed%20the%20launch%20of%20India%E2%80%99s%20RuPay%20-%20UPI%20connectivit.pdf",
+      "title": "Honorable Prime Minister of India, Honorable Prime Minister of Mauritius and Honorable President of Sri Lanka witnessed the launch of India’s RuPay / UPI connectivity with Mauritius and Sri Lanka",
+      "date_published": "Feb 12, 2024",
       "category": "Press-Releases"
     },
     {
-      "id": "17240",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-09-21_Press-Release_17240_RBI%20places%20the%20Report%20of%20the%20Working%20Group%20on%20Preparing%20Guidelines%20for%20Access%20to%20Payment%20Systems%20for%20Public%20Comments.pdf",
-      "title": "RBI places the Report of the Working Group on  Preparing Guidelines for Access to Payment Systems for Public Comments",
-      "date_published": "Sep 21, 2007",
+      "id": "57332",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-02-15_Press-Release_57332_Terms%20of%20Reference%20signed%20between%20Reserve%20Bank%20of%20India%20and%20Nepal%20Rastra%20Bank%20on%20Integration%20of%20Unified%20Payments%20Interface%20%28UPI%29%20of%20India%20with%20National%20Payments%20Inte.pdf",
+      "title": "Terms of Reference signed between Reserve Bank of India and Nepal Rastra Bank on Integration of Unified Payments Interface (UPI) of India with National Payments Interface (NPI) of Nepal for cross-border remittances",
+      "date_published": "Feb 15, 2024",
       "category": "Press-Releases"
     },
     {
-      "id": "17457",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-11-02_Press-Release_17457_RBI%20Introduces%20a%20System%20of%20Annual%20Review%20of%20Payment%20and%20Settlement%20Systems%20in%20India.pdf",
-      "title": "RBI Introduces a System of Annual Review of Payment and Settlement Systems in India",
-      "date_published": "Nov 02, 2007",
+      "id": "57335",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-02-15_Press-Release_57335_Payment%20Intermediary%20by%20Card%20Network%20%E2%80%93%20Restraining%20of%20Unauthorized%20Payment%20System.pdf",
+      "title": "Payment Intermediary by Card Network – Restraining of Unauthorized Payment System",
+      "date_published": "Feb 15, 2024",
       "category": "Press-Releases"
     },
     {
-      "id": "17565",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-11-28_Press-Release_17565_RBI%20releases%20Report%20on%20Oversight%20of%20Payment%20Systems%20in%20India.pdf",
-      "title": "RBI releases Report on Oversight of Payment Systems in India",
-      "date_published": "Nov 28, 2007",
+      "id": "57783",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-04-25_Press-Release_57783_RBI%20cautions%20public%20against%20Prepaid%20Payment%20Instruments%20issued%20by%20unauthorised%20entities.pdf",
+      "title": "RBI cautions public against Prepaid Payment Instruments issued by unauthorised entities",
+      "date_published": "Apr 25, 2024",
       "category": "Press-Releases"
     },
     {
-      "id": "17677",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-12-24_Press-Release_17677_RBI%20releases%20on%20its%20Website%20Draft%20Approach%20Paper%20on%20Fair%20Pricing%20and%20Enhanced%20Access%20of%20Bank%20ATMs.pdf",
-      "title": "RBI releases on its Website Draft Approach Paper on Fair Pricing and Enhanced Access of Bank ATMs",
-      "date_published": "Dec 24, 2007",
+      "id": "57865",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-05-08_Press-Release_57865_Meeting%20with%20major%20stakeholders%20in%20UPI%20ecosystem.pdf",
+      "title": "Meeting with major stakeholders in UPI ecosystem",
+      "date_published": "May 08, 2024",
       "category": "Press-Releases"
     },
     {
-      "id": "RBI/2007-2008/260 DPSS No.1405/02.10.02/2007-2008",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-03-10_Circular_RBI-2007-2008-260%20DPSS%20No.1405-02.10.02-2007-2008_Customer%20charges%20for%20use%20of%20ATMs%20for%20cash%20withdrawal%20and%20balance%20enquiry.pdf",
-      "title": "Customer charges for use of ATMs for cash withdrawal and balance enquiry",
-      "date_published": "10.3.2008",
+      "id": "58382",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-07-26_Press-Release_58382_RBI%20imposes%20Monetary%20Penalty%20on%20three%20Payment%20System%20Operators.pdf",
+      "title": "RBI imposes Monetary Penalty on three Payment System Operators",
+      "date_published": "Jul 26, 2024",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "58401",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-07-31_Press-Release_58401_Aadhaar%20Enabled%20Payment%20System%20%28AePS%29%20%E2%80%93%20Due%20Diligence%20of%20Touchpoint%20Operators%20%E2%80%93%20Draft%20Directions.pdf",
+      "title": "Aadhaar Enabled Payment System (AePS) – Due Diligence of Touchpoint Operators – Draft Directions",
+      "date_published": "Jul 31, 2024",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2022-2023/176 CO.DPSS.POLC.No.S–1907/02.14.006/2022-23",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-02-10_Circular_RBI-2022-2023-176%20CO.DPSS.POLC.No.S%E2%80%931907-02.14.006-2022-23_Issuance%20of%20PPIs%20to%20Foreign%20Nationals%20-%20Non-Resident%20Indians%20%28NRIs%29%20visiting%20India.pdf",
+      "title": "Issuance of PPIs to Foreign Nationals / Non-Resident Indians (NRIs) visiting India",
+      "date_published": "10.2.2023",
       "category": "Circulars"
     },
     {
-      "id": "RBI/2007-2008/318 RPCD.CO.RF.BC.No. 69 / 07.06.00 / 2007-08",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-05-13_Circular_RBI-2007-2008-318%20RPCD.CO.RF.BC.No.%2069%20-%2007.06.00%20-%202007-08_StCBs-DCCBs%20%E2%80%93%20Customer%20Charges%20for%20use%20of%20ATMs%20for%20Cash%20Withdrawal-Balance%20Enquiry.pdf",
-      "title": "StCBs/DCCBs – Customer Charges for use of ATMs for Cash Withdrawal/Balance Enquiry",
-      "date_published": "13.5.2008",
+      "id": "RBI/2023-2024/58 CO.DPSS.POLC.No.S-567/02-23-001/2023-2024",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-09-04_Circular_RBI-2023-2024-58%20CO.DPSS.POLC.No.S-567-02-23-001-2023-2024_Operation%20of%20Pre-Sanctioned%20Credit%20Lines%20at%20Banks%20through%20Unified%20Payments%20Interface%20%28UPI%29.pdf",
+      "title": "Operation of Pre-Sanctioned Credit Lines at Banks through Unified Payments Interface (UPI)",
+      "date_published": "04.9.2023",
       "category": "Circulars"
     },
     {
-      "id": "DBOD.No.BP.BC 88/21.06.001./2007-08",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-05-30_Circular_DBOD.No.BP.BC%2088-21.06.001.-2007-08_Capital%20Adequacy%20Norms%20-%20Treatment%20of%20Banks%27%20Investments%20in%20Subsidiaries%20-%20Associates%20and%20of%20the%20Subsidiaries%27%20-%20Associates%27%20Investments%20in%20.pdf",
-      "title": "Capital Adequacy Norms - Treatment of Banks' Investments in Subsidiaries / Associates and of the Subsidiaries' / Associates' Investments in Parent Banks",
-      "date_published": "May 30, 2008",
+      "id": "55778",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2023/2023-06-02_Draft-Notification_55778_RBI%20invites%20comments%20on%20draft%20Master%20Directions%20on%20Cyber%20Resilience%20and%20Digital%20Payment%20Security%20Controls%20for%20Payment%20System%20Operators.pdf",
+      "title": "RBI invites comments on draft Master Directions on Cyber Resilience and Digital Payment Security Controls for Payment System Operators",
+      "date_published": "Jun 02, 2023",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "56407",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2023/2023-09-21_Draft-Notification_56407_Draft%20Master%20Direction%20on%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters.pdf",
+      "title": "Draft Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+      "date_published": "Sep 21, 2023",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "12452",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-02-10_Notification_12452_Issuance%20of%20PPIs%20to%20Foreign%20Nationals%20-%20Non-Resident%20Indians%20%28NRIs%29%20visiting%20India.pdf",
+      "title": "Issuance of PPIs to Foreign Nationals / Non-Resident Indians (NRIs) visiting India",
+      "date_published": "Feb 10, 2023",
+      "category": "Notifications"
+    },
+    {
+      "id": "12532",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-09-04_Notification_12532_Operation%20of%20Pre-Sanctioned%20Credit%20Lines%20at%20Banks%20through%20Unified%20Payments%20Interface%20%28UPI%29%20%28%20Updated%20as%20on%20February%2012%2C%202025%20%29.pdf",
+      "title": "Operation of Pre-Sanctioned Credit Lines at Banks through Unified Payments Interface (UPI)  ( Updated as on February 12, 2025 )",
+      "date_published": "Sep 04, 2023",
+      "category": "Notifications"
+    },
+    {
+      "id": "55224",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-02-15_Press-Release_55224_Applications%20of%20Online%20Payment%20Aggregators%20received%20under%20the%20Payment%20and%20Settlement%20Systems%20Act%2C%202007%20-%20Status.pdf",
+      "title": "Applications of Online Payment Aggregators received under the Payment and Settlement Systems Act, 2007 - Status",
+      "date_published": "Feb 15, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "55260",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-02-21_Press-Release_55260_Honorable%20Prime%20Ministers%20of%20India%20and%20Singapore%20Launch%20Real-time%20Payment%20Systems%20Linkage%20between%20the%20Two%20Countries.pdf",
+      "title": "Honorable Prime Ministers of India and Singapore Launch Real-time Payment Systems Linkage between the Two Countries",
+      "date_published": "Feb 21, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "55263",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-02-21_Press-Release_55263_Extending%20UPI%20for%20Inbound%20Travellers%20to%20India.pdf",
+      "title": "Extending UPI for Inbound Travellers to India",
+      "date_published": "Feb 21, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "55778",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-06-02_Press-Release_55778_RBI%20invites%20comments%20on%20draft%20Master%20Directions%20on%20Cyber%20Resilience%20and%20Digital%20Payment%20Security%20Controls%20for%20Payment%20System%20Operators.pdf",
+      "title": "RBI invites comments on draft Master Directions on Cyber Resilience and Digital Payment Security Controls for Payment System Operators",
+      "date_published": "Jun 02, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "56407",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-09-21_Press-Release_56407_Draft%20Master%20Direction%20on%20Treatment%20of%20Wilful%20Defaulters%20and%20Large%20Defaulters.pdf",
+      "title": "Draft Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+      "date_published": "Sep 21, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2021-2022/187 CO.DPSS.OVRST.No.S1738/06-08-018/2021-2022",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-03-25_Circular_RBI-2021-2022-187%20CO.DPSS.OVRST.No.S1738-06-08-018-2021-2022_Framework%20for%20Geo-tagging%20of%20Payment%20System%20Touch%20Points.pdf",
+      "title": "Framework for Geo-tagging of Payment System Touch Points",
+      "date_published": "25.3.2022",
       "category": "Circulars"
     },
     {
-      "id": "RBI/2007-2008/341 DBOD No.BP.BC 88/ 21.06.001./ 2007-08",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-05-30_Circular_RBI-2007-2008-341%20DBOD%20No.BP.BC%2088-%2021.06.001.-%202007-08_Capital%20Adequacy%20Norms%20%E2%80%93%20Treatment%20of%20banks%E2%80%99%20investments%20in%20subsidiaries-%20associates%20and%20of%20the%20subsidiaries%E2%80%99%20-associate.pdf",
-      "title": "Capital Adequacy Norms – Treatment of banks’ investments in subsidiaries/ associates and of the subsidiaries’ /associates’ investments in parent banks",
-      "date_published": "30.5.2008",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2008-2009/59 UBD.LS (PCB) MC.No. 14/07.01.00/2008-09",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-07-01_Circular_RBI-2008-2009-59%20UBD.LS%20%28PCB%29%20MC.No.%2014-07.01.00-2008-09_Master%20Circular%20-%20Area%20of%20Operation%2C%20Branch%20Authorisation%20Policy%2C%20Opening-%20Up-%20gradation%20of%20Extension%20Counters%2C%20ATMs%20an.pdf",
-      "title": "Master Circular - Area of Operation, Branch Authorisation Policy, Opening/ Up- gradation of Extension Counters, ATMs and Shifting/Splitting/Closure of Offices",
-      "date_published": "01.7.2008",
-      "category": "Circulars"
-    },
-    {
-      "id": "UBD.LS(PCB)MC.No.14/07.01.00/2008-09",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-07-01_Circular_UBD.LS%28PCB%29MC.No.14-07.01.00-2008-09_Master%20Circular%20on%20Area%20of%20Operation%2C%20Branch%20Authorisation%20Policy%2C%20Opening%20-%20Upgradation%20of%20Extension%20Counters%2C%20ATMs%20and%20Shifting%20-%20Splitti.pdf",
-      "title": "Master Circular on Area of Operation, Branch Authorisation Policy, Opening / Upgradation of Extension Counters, ATMs and Shifting / Splitting / Closure of Offices",
-      "date_published": "July 1, 2008",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2008-2009/107 DNBS (PD) C.C. No. 124/ 03.05.002/ 2008-09",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-07-31_Circular_RBI-2008-2009-107%20DNBS%20%28PD%29%20C.C.%20No.%20124-%2003.05.002-%202008-09_Accounting%20for%20taxes%20on%20income-%20Accounting%20Standard%2022-%20Treatment%20of%20deferred%20tax%20assets%20%28DTA%29%20and%20deferred%20tax%20lia.pdf",
-      "title": "Accounting for taxes on income- Accounting Standard 22- Treatment of deferred tax assets (DTA) and deferred tax liabilities (DTL) for computation of capital",
-      "date_published": "31.7.2008",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2008-2009/127 A. P. (DIR Series) Circular No. 06",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-08-13_Circular_RBI-2008-2009-127%20A.%20P.%20%28DIR%20Series%29%20Circular%20No.%2006_Export%20of%20Goods%20and%20Services-%20Direct%20Dispatch%20of%20Shipping%20Documents%20Realisation%20and%20Repatriation%20of%20Export%20Proceeds%20%E2%80%93%20Liber.pdf",
-      "title": "Export of Goods and Services- Direct Dispatch of Shipping Documents Realisation and Repatriation of Export Proceeds – Liberalisation",
-      "date_published": "13.8.2008",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2008-2009/191 DPSS. CO. No. 528 / 04.04.009 / 2008 – 09",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-22_Circular_RBI-2008-2009-191%20DPSS.%20CO.%20No.%20528%20-%2004.04.009%20-%202008%20%E2%80%93%2009_Access%20Criteria%20for%20National%20Payment%20Systems.pdf",
-      "title": "Access Criteria for National Payment Systems",
-      "date_published": "22.9.2008",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2008-2009/200 UBD.CO. BPD. (PCB). No. 20 /12.05.001/2008-09",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-09-30_Circular_RBI-2008-2009-200%20UBD.CO.%20BPD.%20%28PCB%29.%20No.%2020%20-12.05.001-2008-09_Treatment%20of%20deposits%20with%20DCCB%20-%20SCB%20as%20SLR.pdf",
-      "title": "Treatment of deposits with DCCB / SCB as SLR",
-      "date_published": "30.9.2008",
+      "id": "RBI/2021-2022/190 DCM (Plg.) No.S 1117/10.25.007/2021-22",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-03-31_Circular_RBI-2021-2022-190%20DCM%20%28Plg.%29%20No.S%201117-10.25.007-2021-22_Cassette%20-%20Swaps%20in%20ATMs.pdf",
+      "title": "Cassette - Swaps in ATMs",
+      "date_published": "31.3.2022",
       "category": "Circulars"
     }
   ]

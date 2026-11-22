@@ -1,4 +1,4 @@
-# Circulars — 2022
+# Circulars  -  2022
 
 - **Folder:** `Circulars`
 - **Year:** `2022`

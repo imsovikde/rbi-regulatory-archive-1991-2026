@@ -5,704 +5,704 @@
   "feed_url": "https://raw.githubusercontent.com/imsovikde/rbi-regulatory-archive-1991-2026/main/index/feeds/credit-bureaus-cic.json",
   "items": [
     {
-      "id": "1188",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-06-08_Press-Release_1188_Working%20Group%20to%20explore%20the%20possibilities%20of%20setting%20up%20a%20Credit%20Information%20Bureau%20in%20India.pdf",
-      "title": "Working Group to explore the possibilities of setting up a Credit Information Bureau in India",
-      "date_published": "Jun 08, 1999",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "1925",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/1999/1999-11-01_Press-Release_1925_RBI%20Working%20Group%20suggests%20roadmap%20for%20Credit%20Information%20Bureau.pdf",
-      "title": "RBI Working Group suggests roadmap for Credit Information Bureau",
-      "date_published": "Nov 01, 1999",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "3835",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2000/2000-10-05_Press-Release_3835_Investment%20by%20FIIs-NRIs-OCBs-PIOs%20in%20ICICI.pdf",
-      "title": "Investment by FIIs/NRIs/OCBs/PIOs in ICICI",
-      "date_published": "Oct 05, 2000",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "4698",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-03-09_Press-Release_4698_Amalgamation%20of%20Bank%20of%20Madura%20Ltd.%20with%20ICICI%20Bank%20Ltd..pdf",
-      "title": "Amalgamation of Bank of Madura Ltd. with ICICI Bank Ltd.",
-      "date_published": "Mar 09, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "6160",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2001/2001-12-19_Press-Release_6160_Working%20Group%20to%20examine%20the%20role%20of%20Credit%20Information%20Bureau%20in%20collection%20and%20dissemination%20of%20information%20on%20suit-filed%20account%20and%20defaulters%20list.pdf",
-      "title": "Working Group to examine the role of Credit Information Bureau in collection and dissemination of information on suit-filed account and defaulters list",
-      "date_published": "Dec 19, 2001",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "705",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2002/2002-06-04_Notification_705_Submission%20of%20Credit%20Information%20to%20Credit%20Information%20Bureau%20%28CIB%29.pdf",
-      "title": "Submission of Credit Information  to Credit Information Bureau (CIB)",
-      "date_published": "Jun 04, 2002",
-      "category": "Notifications"
-    },
-    {
-      "id": "6753",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2002/2002-04-26_Press-Release_6753_Merger%20of%20ICICI%20Ltd.%20with%20ICICI%20Bank%20Ltd..pdf",
-      "title": "Merger of ICICI Ltd. with ICICI Bank Ltd.",
-      "date_published": "Apr 26, 2002",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "8392",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2003/2003-04-12_Press-Release_8392_ICICI%20Bank%27s%20Financial%20Position%20Sound%20-%20RBI.pdf",
-      "title": "ICICI Bank's Financial Position Sound : RBI",
-      "date_published": "Apr 12, 2003",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "8497",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2003/2003-05-09_Press-Release_8497_ICICI%20Securities%20Limited.pdf",
-      "title": "ICICI Securities Limited",
-      "date_published": "May 09, 2003",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "1711",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2004/2004-06-17_Notification_1711_Annual%20Policy%20Statement%20for%20the%20year%202004-05%20%E2%80%93%20Dissemination%20of%20credit%20information%20%E2%80%93%20Role%20of%20CIBIL.pdf",
-      "title": "Annual Policy Statement for the year 2004-05 – Dissemination of credit information – Role of CIBIL",
-      "date_published": "Jun 17, 2004",
-      "category": "Notifications"
-    },
-    {
-      "id": "10353",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-07-12_Press-Release_10353_ICICI%20Bank%20Ltd.%20-%20Investment%20by%20FIIs%20under%20PIS.pdf",
-      "title": "ICICI Bank Ltd. : Investment by FIIs under PIS",
-      "date_published": "Jul 12, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "10880",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2004/2004-11-24_Press-Release_10880_ICICI%20Bank%20Ltd.-%20Investment%20by%20FIIs%20under%20PIS.pdf",
-      "title": "ICICI Bank Ltd.: Investment by FIIs under PIS",
-      "date_published": "Nov 24, 2004",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "11380",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2005/2005-03-31_Press-Release_11380_ICICI%20Bank%20Ltd.-%20Investment%20by%20FIIs-NRIs-PIOs.pdf",
-      "title": "ICICI Bank Ltd.: Investment by FIIs/NRIs/PIOs",
-      "date_published": "Mar 31, 2005",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "14576",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2006/2006-04-05_Draft-Notification_14576_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005-%20RBI%20releases%20Draft%20Rules%20and%20Regulations%20for%20Feedback.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005: RBI releases Draft Rules and Regulations for Feedback",
-      "date_published": "Apr 05, 2006",
+      "id": "308",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2026/2026-04-08_Draft-Notification_308_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20-%20Cybersecurity%2C%20Technology-%20Risk%2C%20Resilience%20and%20Assurance%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies - Cybersecurity, Technology: Risk, Resilience and Assurance) Directions, 2026",
+      "date_published": "Apr 08, 2026",
       "category": "Draft-Notifications-Guidelines"
     },
     {
-      "id": "14576",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2006/2006-04-05_Press-Release_14576_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005-%20RBI%20releases%20Draft%20Rules%20and%20Regulations%20for%20Feedback.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005: RBI releases Draft Rules and Regulations for Feedback",
-      "date_published": "Apr 05, 2006",
+      "id": "309",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2026/2026-04-08_Draft-Notification_309_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20-%20Miscellaneous%29%20Supervisory%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies - Miscellaneous) Supervisory Directions, 2026",
+      "date_published": "Apr 08, 2026",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "13276",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2026/2026-01-14_Master-Direction_13276_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20-%20Internal%20Ombudsman%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies - Internal Ombudsman) Directions, 2026",
+      "date_published": "Jan 14, 2026",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13582",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2026/2026-07-31_Master-Direction_13582_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20-%20Miscellaneous%29%20Supervisory%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies - Miscellaneous) Supervisory Directions, 2026",
+      "date_published": "Jul 31, 2026",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13583",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2026/2026-07-31_Master-Direction_13583_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20%E2%80%93%20Cybersecurity%2C%20Technology-%20Risk%2C%20Resilience%20and%20Assurance%20Framework%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "date_published": "Jul 31, 2026",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13276",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-01-14_Notification_13276_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20-%20Internal%20Ombudsman%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies - Internal Ombudsman) Directions, 2026",
+      "date_published": "Jan 14, 2026",
+      "category": "Notifications"
+    },
+    {
+      "id": "13582",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-31_Notification_13582_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20-%20Miscellaneous%29%20Supervisory%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies - Miscellaneous) Supervisory Directions, 2026",
+      "date_published": "Jul 31, 2026",
+      "category": "Notifications"
+    },
+    {
+      "id": "13583",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2026/2026-07-31_Notification_13583_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20%E2%80%93%20Cybersecurity%2C%20Technology-%20Risk%2C%20Resilience%20and%20Assurance%20Framework%29%20Directions%2C%202026.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "date_published": "Jul 31, 2026",
+      "category": "Notifications"
+    },
+    {
+      "id": "63521",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-09-04_Press-Release_63521_RBI%20imposes%20monetary%20penalty%20on%20CRIF%20High%20Mark%20Credit%20Information%20Services%20Private%20Limited.pdf",
+      "title": "RBI imposes monetary penalty on CRIF High Mark Credit Information Services Private Limited",
+      "date_published": "Sep 04, 2026",
       "category": "Press-Releases"
     },
     {
-      "id": "14582",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2006/2006-04-05_Press-Release_14582_ICICI%20Bank%20Ltd.%20Investment%20by%20FIIs-NRIs-PIOs%20under%20PIS.pdf",
-      "title": "ICICI Bank Ltd. Investment by FIIs/NRIs/PIOs under PIS",
-      "date_published": "Apr 05, 2006",
+      "id": "63523",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-09-04_Press-Release_63523_RBI%20imposes%20monetary%20penalty%20on%20Equifax%20Credit%20Information%20Services%20Private%20Limited.pdf",
+      "title": "RBI imposes monetary penalty on Equifax Credit Information Services Private Limited",
+      "date_published": "Sep 04, 2026",
       "category": "Press-Releases"
     },
     {
-      "id": "15135",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2006/2006-07-26_Press-Release_15135_Investment%20by%20FIIs-NRIs-PIOs%20under%20PIS%20-%20ICICI%20Bank.pdf",
-      "title": "Investment by FIIs/NRIs/PIOs under PIS : ICICI Bank",
-      "date_published": "Jul 26, 2006",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "16313",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-03-26_Press-Release_16313_ICICI%20Securities%20Limited%20renamed%20as%20ICICI%20Securities%20Primary%20Dealership%20Limited.pdf",
-      "title": "ICICI Securities Limited renamed as ICICI Securities Primary Dealership Limited",
-      "date_published": "Mar 26, 2007",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "16432",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-04-18_Press-Release_16432_RBI%20Calls%20for%20Applications%20from%20Companies%20Desirous%20of%20Doing%20Credit%20Information%20Business.pdf",
-      "title": "RBI Calls for Applications from Companies Desirous of Doing Credit Information Business",
-      "date_published": "Apr 18, 2007",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "16437",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-04-18_Press-Release_16437_Sangli%20Bank%20Branches%20to%20function%20as%20ICICI%20Bank%20Branches.pdf",
-      "title": "Sangli Bank Branches to function as ICICI Bank Branches",
-      "date_published": "Apr 18, 2007",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "17123",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2007/2007-08-24_Press-Release_17123_Investment%20by%20FIIs-NRIs-PIOs%20under%20PIS%20-%20ICICI%20Bank%20Limited.pdf",
-      "title": "Investment by FIIs/NRIs/PIOs under PIS : ICICI Bank Limited",
-      "date_published": "Aug 24, 2007",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "RBI/2007-2008/302 A.P. (DIR Series) Circular No.40",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2008/2008-04-28_Circular_RBI-2007-2008-302%20A.P.%20%28DIR%20Series%29%20Circular%20No.40_Foreign%20investment%20in%20Credit%20Information%20Companies%20-%20Amendment%20to%20the%20FDI%20Scheme.pdf",
-      "title": "Foreign investment in Credit Information Companies - Amendment to the FDI Scheme",
-      "date_published": "28.4.2008",
+      "id": "DoR.FIN.REC.No.55/20.16.056/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-01-06_Circular_DoR.FIN.REC.No.55-20.16.056-2024-25_Master%20Direction%20-%20Reserve%20Bank%20of%20India%20%28Credit%20Information%20Reporting%29%20Directions%2C%202025.pdf",
+      "title": "Master Direction - Reserve Bank of India (Credit Information Reporting) Directions, 2025",
+      "date_published": "January 6, 2025",
       "category": "Circulars"
     },
     {
-      "id": "18855",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2008/2008-07-22_Press-Release_18855_Investment%20in%20Credit%20Information%20Companies.pdf",
+      "id": "RBI/DOR/2025-2026/110 DOR.FIN.REC.No.317/20.16.056/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-12-04_Circular_RBI-DOR-2025-2026-110%20DOR.FIN.REC.No.317-20.16.056-2025-26_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "04.12.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/DOR/2025-2026/111 DOR.FIN.REC.No. 318/20.16.056/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-12-04_Circular_RBI-DOR-2025-2026-111%20DOR.FIN.REC.No.%20318-20.16.056-2025-26_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "04.12.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/DOR/2025-2026/112 DOR.FIN.REC.No.319/20.16.056/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-12-04_Circular_RBI-DOR-2025-2026-112%20DOR.FIN.REC.No.319-20.16.056-2025-26_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "04.12.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/DOR/2025-2026/113 DOR.FIN.REC.No.320/20.16.056/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-12-04_Circular_RBI-DOR-2025-2026-113%20DOR.FIN.REC.No.320-20.16.056-2025-26_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "04.12.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/DOR/2025-2026/116 DOR.FIN.REC.No.323/20.16.056/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-12-04_Circular_RBI-DOR-2025-2026-116%20DOR.FIN.REC.No.323-20.16.056-2025-26_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "04.12.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/DOR/2025-2026/119 DoR.FIN.REC.No.326/20.16.056/2025-26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2025/2025-12-04_Circular_RBI-DOR-2025-2026-119%20DoR.FIN.REC.No.326-20.16.056-2025-26_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies) Amendment Directions, 2025",
+      "date_published": "04.12.2025",
+      "category": "Circulars"
+    },
+    {
+      "id": "181",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_181_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Credit Information Reporting) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "192",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_192_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Credit Information Reporting) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "212",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_212_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "214",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_214_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20%E2%80%93%20Managing%20Risks%20in%20Outsourcing%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies – Managing Risks in Outsourcing) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "26",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_26_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Credit Information Reporting) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "57",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_57_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Information Reporting) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "99",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2025/2025-10-10_Draft-Notification_99_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Credit Information Reporting) Directions, 2025",
+      "date_published": "Oct 10, 2025",
+      "category": "Draft-Notifications-Guidelines"
+    },
+    {
+      "id": "12925",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_12925_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20%E2%80%93%20Managing%20Risks%20in%20Outsourcing%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies – Managing Risks in Outsourcing) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "12926",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_12926_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "12980",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_12980_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13051",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13051_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13076",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13076_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13122",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13122_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "13154",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Directions/2025/2025-11-28_Master-Direction_13154_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Master-Directions"
+    },
+    {
+      "id": "12925",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_12925_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%20%E2%80%93%20Managing%20Risks%20in%20Outsourcing%29%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies – Managing Risks in Outsourcing) Directions, 2025",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "12926",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_12926_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "12980",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_12980_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13051",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13051_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13076",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13076_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13122",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13122_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13154",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-11-28_Notification_13154_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%2001%2C%202026%29.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Credit Information Reporting) Directions, 2025 (Updated as on July 01, 2026)",
+      "date_published": "Nov 28, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13180",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13180_Reserve%20Bank%20of%20India%20%28Commercial%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Commercial Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13181",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13181_Reserve%20Bank%20of%20India%20%28Small%20Finance%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13182",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13182_Reserve%20Bank%20of%20India%20%28Local%20Area%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Local Area Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13183",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13183_Reserve%20Bank%20of%20India%20%28Regional%20Rural%20Banks%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Regional Rural Banks – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13186",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13186_Reserve%20Bank%20of%20India%20%28All%20India%20Financial%20Institutions%20%E2%80%93%20Credit%20Information%20Reporting%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (All India Financial Institutions – Credit Information Reporting) Amendment Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "13189",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2025/2025-12-04_Notification_13189_Reserve%20Bank%20of%20India%20%28Credit%20Information%20Companies%29%20Amendment%20Directions%2C%202025.pdf",
+      "title": "Reserve Bank of India (Credit Information Companies) Amendment Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Notifications"
+    },
+    {
+      "id": "59459",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-01-06_Press-Release_59459_Master%20Direction%20on%20Credit%20Information%20Reporting.pdf",
+      "title": "Master Direction on Credit Information Reporting",
+      "date_published": "Jan 06, 2025",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "59973",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-03-13_Press-Release_59973_RBI%20imposes%20monetary%20penalty%20on%20Experian%20Credit%20Information%20Company%20of%20India%20Private%20Limited.pdf",
+      "title": "RBI imposes monetary penalty on Experian Credit Information Company of India Private Limited",
+      "date_published": "Mar 13, 2025",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "60358",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-05-02_Press-Release_60358_RBI%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Ltd.pdf",
+      "title": "RBI imposes monetary penalty on ICICI Bank Ltd",
+      "date_published": "May 02, 2025",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "60989",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-08-08_Press-Release_60989_RBI%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Limited.pdf",
+      "title": "RBI imposes monetary penalty on ICICI Bank Limited",
+      "date_published": "Aug 08, 2025",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "61742",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2025/2025-12-04_Press-Release_61742_RBI%20issues%20Amendment%20Directions%20to%20amend%20Credit%20Information%20Reporting%20Directions%2C%202025.pdf",
+      "title": "RBI issues Amendment Directions to amend Credit Information Reporting Directions, 2025",
+      "date_published": "Dec 04, 2025",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2024-2025/60 DoR.FIN.REC.No.32/20.16.056/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-08-08_Circular_RBI-2024-2025-60%20DoR.FIN.REC.No.32-20.16.056-2024-25_Frequency%20of%20reporting%20of%20credit%20information%20by%20Credit%20Institutions%20to%20Credit%20Information%20Companies.pdf",
+      "title": "Frequency of reporting of credit information by Credit Institutions to Credit Information Companies",
+      "date_published": "08.8.2024",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2024-2025/81 DoR.FIN.REC.47/20.16.042/2024-25",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2024/2024-10-10_Circular_RBI-2024-2025-81%20DoR.FIN.REC.47-20.16.042-2024-25_Implementation%20of%20Credit%20Information%20Reporting%20Mechanism%20subsequent%20to%20cancellation%20of%20licence%20or%20Certificate%20of%20Registration.pdf",
+      "title": "Implementation of Credit Information Reporting Mechanism subsequent to cancellation of licence or Certificate of Registration",
+      "date_published": "10.10.2024",
+      "category": "Circulars"
+    },
+    {
+      "id": "12718",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-08-08_Notification_12718_Frequency%20of%20reporting%20of%20credit%20information%20by%20Credit%20Institutions%20to%20Credit%20Information%20Companies.pdf",
+      "title": "Frequency of reporting of credit information by Credit Institutions to Credit Information Companies",
+      "date_published": "Aug 08, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "12739",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2024/2024-10-10_Notification_12739_Implementation%20of%20Credit%20Information%20Reporting%20Mechanism%20subsequent%20to%20cancellation%20of%20licence%20or%20Certificate%20of%20Registration.pdf",
+      "title": "Implementation of Credit Information Reporting Mechanism subsequent to cancellation of licence or Certificate of Registration",
+      "date_published": "Oct 10, 2024",
+      "category": "Notifications"
+    },
+    {
+      "id": "57053",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-01-02_Press-Release_57053_Deputy%20Governor%2C%20Reserve%20Bank%20of%20India%20meets%20MD%20%26%20CEOs%20of%20Credit%20Information%20Companies.pdf",
+      "title": "Deputy Governor, Reserve Bank of India meets MD & CEOs of Credit Information Companies",
+      "date_published": "Jan 02, 2024",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "57982",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2024/2024-05-27_Press-Release_57982_Reserve%20Bank%20of%20India%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Ltd.pdf",
+      "title": "Reserve Bank of India imposes monetary penalty on ICICI Bank Ltd",
+      "date_published": "May 27, 2024",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2023-2024/62 DoR.FIN.REC.39/20.16.056/2023-24",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-09-20_Circular_RBI-2023-2024-62%20DoR.FIN.REC.39-20.16.056-2023-24_Data%20Quality%20Index%20for%20Commercial%20and%20Microfinance%20Segments%20by%20Credit%20Information%20Companies.pdf",
+      "title": "Data Quality Index for Commercial and Microfinance Segments by Credit Information Companies",
+      "date_published": "20.9.2023",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2023-2024/72 DoR.FIN.REC.48/20.16.003/2023-24",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-10-26_Circular_RBI-2023-2024-72%20DoR.FIN.REC.48-20.16.003-2023-24_Framework%20for%20compensation%20to%20customers%20for%20delayed%20updation-%20rectification%20of%20credit%20information.pdf",
+      "title": "Framework for compensation to customers for delayed updation/ rectification of credit information",
+      "date_published": "26.10.2023",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2023-2024/73 DoR.FIN.REC.49/20.16.003/2023-24",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2023/2023-10-26_Circular_RBI-2023-2024-73%20DoR.FIN.REC.49-20.16.003-2023-24_Strengthening%20of%20customer%20service%20rendered%20by%20Credit%20Information%20Companies%20and%20Credit%20Institutions.pdf",
+      "title": "Strengthening of customer service rendered by Credit Information Companies and Credit Institutions",
+      "date_published": "26.10.2023",
+      "category": "Circulars"
+    },
+    {
+      "id": "12537",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-09-20_Notification_12537_Data%20Quality%20Index%20for%20Commercial%20and%20Microfinance%20Segments%20by%20Credit%20Information%20Companies.pdf",
+      "title": "Data Quality Index for Commercial and Microfinance Segments by Credit Information Companies",
+      "date_published": "Sep 20, 2023",
+      "category": "Notifications"
+    },
+    {
+      "id": "12553",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-10-26_Notification_12553_Strengthening%20of%20customer%20service%20rendered%20by%20Credit%20Information%20Companies%20and%20Credit%20Institutions.pdf",
+      "title": "Strengthening of customer service rendered by Credit Information Companies and Credit Institutions",
+      "date_published": "Oct 26, 2023",
+      "category": "Notifications"
+    },
+    {
+      "id": "12554",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2023/2023-10-26_Notification_12554_Framework%20for%20compensation%20to%20customers%20for%20delayed%20updation-%20rectification%20of%20credit%20information.pdf",
+      "title": "Framework for compensation to customers for delayed updation/ rectification of credit information",
+      "date_published": "Oct 26, 2023",
+      "category": "Notifications"
+    },
+    {
+      "id": "55923",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-06-26_Press-Release_55923_RBI%20imposes%20monetary%20penalty%20on%20CRIF%20High%20Mark%20Credit%20Information%20Services%20Private%20Limited%2C%20Mumbai.pdf",
+      "title": "RBI imposes monetary penalty on CRIF High Mark Credit Information Services Private Limited, Mumbai",
+      "date_published": "Jun 26, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "55924",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-06-26_Press-Release_55924_RBI%20imposes%20monetary%20penalty%20on%20Equifax%20Credit%20Information%20Services%20Private%20Limited%2C%20Mumbai.pdf",
+      "title": "RBI imposes monetary penalty on Equifax Credit Information Services Private Limited, Mumbai",
+      "date_published": "Jun 26, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "55928",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-06-26_Press-Release_55928_RBI%20imposes%20monetary%20penalty%20on%20Experian%20Credit%20Information%20Company%20of%20India%20Private%20Limited%2C%20Mumbai.pdf",
+      "title": "RBI imposes monetary penalty on Experian Credit Information Company of India Private Limited, Mumbai",
+      "date_published": "Jun 26, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "56577",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2023/2023-10-17_Press-Release_56577_RBI%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Ltd.pdf",
+      "title": "RBI imposes monetary penalty on ICICI Bank Ltd",
+      "date_published": "Oct 17, 2023",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2022-2023/124 CEPD.PRD.No.S806/13-01-008/2022-23",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-10-06_Circular_RBI-2022-2023-124%20CEPD.PRD.No.S806-13-01-008-2022-23_Appointment%20of%20Internal%20Ombudsman%20by%20the%20Credit%20Information%20Companies.pdf",
+      "title": "Appointment of Internal Ombudsman by the Credit Information Companies",
+      "date_published": "06.10.2022",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2022-2023/154 DoR.FIN.REC.90/20.16.056/2022-23",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2022/2022-12-13_Circular_RBI-2022-2023-154%20DoR.FIN.REC.90-20.16.056-2022-23_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20and%20other%20Regulatory%20Measures.pdf",
+      "title": "Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures",
+      "date_published": "13.12.2022",
+      "category": "Circulars"
+    },
+    {
+      "id": "12395",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-10-06_Notification_12395_Appointment%20of%20Internal%20Ombudsman%20by%20the%20Credit%20Information%20Companies.pdf",
+      "title": "Appointment of Internal Ombudsman by the Credit Information Companies",
+      "date_published": "Oct 06, 2022",
+      "category": "Notifications"
+    },
+    {
+      "id": "12425",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2022/2022-12-13_Notification_12425_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20and%20other%20Regulatory%20Measures.pdf",
+      "title": "Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures",
+      "date_published": "Dec 13, 2022",
+      "category": "Notifications"
+    },
+    {
+      "id": "53055",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2022/2022-01-05_Press-Release_53055_RBI%20releases%20%E2%80%9CEligibility%20criteria%20for%20entities%20to%20be%20categorised%20as%20Specified%20User%20under%20clause%20%28j%29%20of%20Regulation%203%20of%20the%20Credit%20Information%20Companies%20%28Amendment%29%20.pdf",
+      "title": "RBI releases “Eligibility criteria for entities to be categorised as Specified User under clause (j) of Regulation 3 of the Credit Information Companies (Amendment) Regulations, 2021”",
+      "date_published": "Jan 05, 2022",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "54502",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2022/2022-10-06_Press-Release_54502_The%20Reserve%20Bank%20introduces%20Internal%20Ombudsman%20mechanism%20for%20Credit%20Information%20Companies%20%28CICs%29.pdf",
+      "title": "The Reserve Bank introduces Internal Ombudsman mechanism for Credit Information Companies (CICs)",
+      "date_published": "Oct 06, 2022",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2020-2021/106 DoR.FIN.REC.46/20.16.056/2020-21",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2021/2021-03-12_Circular_RBI-2020-2021-106%20DoR.FIN.REC.46-20.16.056-2020-21_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20and%20other%20Regulatory%20Measures.pdf",
+      "title": "Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures",
+      "date_published": "12.3.2021",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2021-2022/111 DoR.FIN.REC.59/20.16.056/2021-22",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2021/2021-10-14_Circular_RBI-2021-2022-111%20DoR.FIN.REC.59-20.16.056-2021-22_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies.pdf",
+      "title": "Data Format for Furnishing of Credit Information to Credit Information Companies",
+      "date_published": "14.10.2021",
+      "category": "Circulars"
+    },
+    {
+      "id": "12038",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-03-12_Notification_12038_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20and%20other%20Regulatory%20Measures.pdf",
+      "title": "Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures",
+      "date_published": "Mar 12, 2021",
+      "category": "Notifications"
+    },
+    {
+      "id": "12178",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2021/2021-10-14_Notification_12178_Data%20Format%20for%20Furnishing%20of%20Credit%20Information%20to%20Credit%20Information%20Companies.pdf",
+      "title": "Data Format for Furnishing of Credit Information to Credit Information Companies",
+      "date_published": "Oct 14, 2021",
+      "category": "Notifications"
+    },
+    {
+      "id": "51519",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2021/2021-05-03_Press-Release_51519_Reserve%20Bank%20of%20India%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Ltd..pdf",
+      "title": "Reserve Bank of India imposes monetary penalty on ICICI Bank Ltd.",
+      "date_published": "May 03, 2021",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "52726",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2021/2021-12-15_Press-Release_52726_Reserve%20Bank%20of%20India%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Ltd..pdf",
+      "title": "Reserve Bank of India imposes monetary penalty on ICICI Bank Ltd.",
+      "date_published": "Dec 15, 2021",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2018-2019/120 DBR.CID.BC.24/20.16.042/2018-19",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2019/2019-02-07_Circular_RBI-2018-2019-120%20DBR.CID.BC.24-20.16.042-2018-19_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20credit%20information%20%E2%80%93%20CRIF%20High%20Mark%20Credit%20Informatio.pdf",
+      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of credit information – CRIF High Mark Credit Information Services Private Limited",
+      "date_published": "07.2.2019",
+      "category": "Circulars"
+    },
+    {
+      "id": "11471",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2019/2019-02-07_Notification_11471_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20credit%20information%20%E2%80%93%20CRIF%20High%20Mark%20Credit%20Information%20Services%20Private%20Limited.pdf",
+      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of credit information –  CRIF High Mark Credit Information Services Private Limited",
+      "date_published": "Feb 07, 2019",
+      "category": "Notifications"
+    },
+    {
+      "id": "DNBR(PD)CC.No.093/03.10.001/2017-18",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2018/2018-06-07_Circular_DNBR%28PD%29CC.No.093-03.10.001-2017-18_Investment%20in%20the%20Units%20of%20an%20Infrastructure%20Investment%20Trust%20%28InvIT%29%20by%20sponsor%20CIC-NDSI.pdf",
+      "title": "Investment in the Units of an Infrastructure Investment Trust (InvIT) by sponsor CIC-NDSI",
+      "date_published": "June 7, 2018",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2017-2018/189 DNBR (PD) CC.No.093/03.10.001/2017-18",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2018/2018-06-07_Circular_RBI-2017-2018-189%20DNBR%20%28PD%29%20CC.No.093-03.10.001-2017-18_Investment%20in%20the%20units%20of%20an%20infrastructure%20investment%20trust%20%28InvIT%29%20by%20sponsor%20CIC-NDSI.pdf",
+      "title": "Investment in the units of an infrastructure investment trust (InvIT) by sponsor CIC-NDSI",
+      "date_published": "07.6.2018",
+      "category": "Circulars"
+    },
+    {
+      "id": "2551",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-03-29_Press-Release_2551_Reserve%20Bank%20of%20India%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Limited.pdf",
+      "title": "Reserve Bank of India imposes monetary penalty on ICICI Bank Limited",
+      "date_published": "March 29, 2018",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "43525",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2018/2018-03-29_Press-Release_43525_Reserve%20Bank%20of%20India%20imposes%20monetary%20penalty%20on%20ICICI%20Bank%20Limited.pdf",
+      "title": "Reserve Bank of India imposes monetary penalty on ICICI Bank Limited",
+      "date_published": "Mar 29, 2018",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2016-2017/277 DBR.CID.BC. 60/20.16.040/2016-17",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-04-13_Circular_RBI-2016-2017-277%20DBR.CID.BC.%2060-20.16.040-2016-17_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20credit%20information%20%E2%80%93%20Transunion%20CIBIL%20Limited.pdf",
+      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of credit information – Transunion CIBIL Limited",
+      "date_published": "13.4.2017",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2017-2018/35 DBR.CID.BC.No.79/20.16.042/2017-18",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2017/2017-08-02_Circular_RBI-2017-2018-35%20DBR.CID.BC.No.79-20.16.042-2017-18_Issue%20of%20comprehensive%20Credit%20Information%20Reports.pdf",
+      "title": "Issue of comprehensive Credit Information Reports",
+      "date_published": "02.8.2017",
+      "category": "Circulars"
+    },
+    {
+      "id": "10922",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-04-13_Notification_10922_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20credit%20information%20%E2%80%93%20Transunion%20CIBIL%20Limited.pdf",
+      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of credit information – Transunion CIBIL Limited",
+      "date_published": "Apr 13, 2017",
+      "category": "Notifications"
+    },
+    {
+      "id": "11077",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-08-02_Notification_11077_Issue%20of%20comprehensive%20Credit%20Information%20Reports.pdf",
+      "title": "Issue of comprehensive Credit Information Reports",
+      "date_published": "Aug 02, 2017",
+      "category": "Notifications"
+    },
+    {
+      "id": "2489",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2017/2017-08-02_Notification_2489_Issue%20of%20comprehensive%20Credit%20Information%20Reports.pdf",
+      "title": "Issue of comprehensive Credit Information Reports",
+      "date_published": "August 02, 2017",
+      "category": "Notifications"
+    },
+    {
+      "id": "2117",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2017/2017-03-07_Press-Release_2117_Supervisory%20College%20for%20State%20Bank%20of%20India%2C%20ICICI%20Bank%20Ltd.%2C%20Axis%20Bank%20Ltd.%20and%20Punjab%20National%20Bank.pdf",
+      "title": "Supervisory College for State Bank of India, ICICI Bank Ltd., Axis Bank Ltd. and Punjab National Bank",
+      "date_published": "March 07, 2017",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "39757",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2017/2017-03-07_Press-Release_39757_Supervisory%20College%20for%20State%20Bank%20of%20India%2C%20ICICI%20Bank%20Ltd.%2C%20Axis%20Bank%20Ltd.%20and%20Punjab%20National%20Bank.pdf",
+      "title": "Supervisory College for State Bank of India, ICICI Bank Ltd., Axis Bank Ltd. and Punjab National Bank",
+      "date_published": "Mar 07, 2017",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "42290",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2017/2017-11-16_Press-Release_42290_Monitoring%20of%20Foreign%20Investment%20under%20PIS%20in%20Indian%20Companies%20-%20M-s%20ICICI%20Lombard%20General%20Insurance%20Company%20Ltd%20-%20Increase%20in%20FPIs%20Investment%20limit%20under%20Portfolio%20.pdf",
+      "title": "Monitoring of Foreign Investment under PIS in Indian Companies - M/s ICICI Lombard General Insurance Company Ltd - Increase in FPIs Investment limit under Portfolio Investment Scheme from 24% to 49%",
+      "date_published": "Nov 16, 2017",
+      "category": "Press-Releases"
+    },
+    {
+      "id": "RBI/2015-2016/291 DBR.CID.BC.No.73/20.16.56/2015-16",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-01-14_Circular_RBI-2015-2016-291%20DBR.CID.BC.No.73-20.16.56-2015-16_Credit%20information%20reporting%20in%20respect%20of%20Self%20Help%20Group%20%28SHG%29%20members.pdf",
+      "title": "Credit information reporting in respect of Self Help Group (SHG) members",
+      "date_published": "14.1.2016",
+      "category": "Circulars"
+    },
+    {
+      "id": "DBR.CID.BC.No.98/20.16.042/2015-16",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-05-19_Circular_DBR.CID.BC.No.98-20.16.042-2015-16_Investment%20in%20Credit%20Information%20Companies.pdf",
       "title": "Investment in Credit Information Companies",
-      "date_published": "Jul 22, 2008",
-      "category": "Press-Releases"
+      "date_published": "May 19, 2016",
+      "category": "Circulars"
     },
     {
-      "id": "19177",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2008/2008-09-30_Press-Release_19177_RBI%20Statement%20on%20ICICI%20Bank%27s%20Financial%20Position.pdf",
-      "title": "RBI Statement on ICICI Bank's Financial Position",
-      "date_published": "Sep 30, 2008",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "19508",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2008/2008-11-20_Press-Release_19508_Investment%20in%20Credit%20Information%20Companies.pdf",
+      "id": "RBI/2015-2016/400 DBR.CID.BC.No.98/20.16.042/2015-16",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-05-19_Circular_RBI-2015-2016-400%20DBR.CID.BC.No.98-20.16.042-2015-16_Investment%20in%20Credit%20Information%20Companies.pdf",
       "title": "Investment in Credit Information Companies",
-      "date_published": "Nov 20, 2008",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "RBI/2009-2010/185 RPCD.CO RRB.No. 32/03.05.33/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-10-20_Circular_RBI-2009-2010-185%20RPCD.CO%20RRB.No.%2032-03.05.33-2009-10_Credit%20Information%20Companies%20%28Regulation%29%20%28Removal%20of%20Difficulties%29%20Order%2C%202008.pdf",
-      "title": "Credit Information Companies (Regulation) (Removal of Difficulties) Order, 2008",
-      "date_published": "20.10.2009",
+      "date_published": "19.5.2016",
       "category": "Circulars"
     },
     {
-      "id": "DBOD.DL.BC.49/20.16.040/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-10-23_Circular_DBOD.DL.BC.49-20.16.040-2009-10_Amendment%20of%20Regulation%205%281%29%28b%29%20of%20the%20Credit%20Information%20Companies%20Regulations%2C%202006.pdf",
-      "title": "Amendment of Regulation 5(1)(b) of the Credit Information Companies Regulations, 2006",
-      "date_published": "October 23, 2009",
+      "id": "RBI/2015-2016/409 DCBR.BPD.Cir.No.17/16.74.000/2015-16",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-05-26_Circular_RBI-2015-2016-409%20DCBR.BPD.Cir.No.17-16.74.000-2015-16_Credit%20information%20reporting%20in%20respect%20of%20Self%20Help%20Group%20%28SHG%29%20members.pdf",
+      "title": "Credit information reporting in respect of Self Help Group (SHG) members",
+      "date_published": "26.5.2016",
       "category": "Circulars"
     },
     {
-      "id": "RBI/2009-2010/240 RPCD.CO.RF.BC.No.44/07.40.06/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-12-01_Circular_RBI-2009-2010-240%20RPCD.CO.RF.BC.No.44-07.40.06-2009-10_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005",
-      "date_published": "01.12.2009",
+      "id": "RBI/2015-2016/424 DBR.CID.BC.No.104/20.16.56/2015-16",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-06-16_Circular_RBI-2015-2016-424%20DBR.CID.BC.No.104-20.16.56-2015-16_Credit%20Information%20Reporting%20in%20respect%20of%20Self%20Help%20Group%20%28SHG%29%20members.pdf",
+      "title": "Credit Information Reporting in respect of Self Help Group (SHG) members",
+      "date_published": "16.6.2016",
       "category": "Circulars"
     },
     {
-      "id": "RBI/2009-2010/246 UBD.BPD (PCB).Cir No.25/09.11.200/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2009/2009-12-03_Circular_RBI-2009-2010-246%20UBD.BPD%20%28PCB%29.Cir%20No.25-09.11.200-2009-10_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005",
-      "date_published": "03.12.2009",
+      "id": "RBI/2015-2016/432 DBR.CID.BC. 107/20.16.056/2015-16",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-06-23_Circular_RBI-2015-2016-432%20DBR.CID.BC.%20107-20.16.056-2015-16_Reporting%20of%20Information%20on%20Investment%20in%20Commercial%20Papers%20and%20Unhedged%20Foreign%20Currency%20Exposures%20of%20the%20Borrowers%20to%20Cred.pdf",
+      "title": "Reporting of Information on Investment in Commercial Papers and Unhedged Foreign Currency Exposures of the Borrowers to Credit Information Companies",
+      "date_published": "23.6.2016",
       "category": "Circulars"
     },
     {
-      "id": "5320",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-10-20_Notification_5320_Credit%20Information%20Companies%20%28Regulation%29%20%28Removal%20of%20Difficulties%29%20Order%2C%202008.pdf",
-      "title": "Credit Information Companies (Regulation) (Removal of Difficulties) Order, 2008",
-      "date_published": "Oct 20, 2009",
+      "id": "RBI/2016-2017/69 DBR.CID.BC.16/20.16.040/2016-17",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-09-29_Circular_RBI-2016-2017-69%20DBR.CID.BC.16-20.16.040-2016-17_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20Credit%20Information%20%E2%80%93%20Transunion%20CIBIL%20Limited.pdf",
+      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – Transunion CIBIL Limited",
+      "date_published": "29.9.2016",
+      "category": "Circulars"
+    },
+    {
+      "id": "RBI/2016-2017/94 DBR.CID.BC.27/20.16.040/2016-17",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2016/2016-10-20_Circular_RBI-2016-2017-94%20DBR.CID.BC.27-20.16.040-2016-17_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20credit%20information%20%E2%80%93%20Experian%20Credit%20Information%20Compa.pdf",
+      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of credit information – Experian Credit Information Company of India Private Limited (ECICI)",
+      "date_published": "20.10.2016",
+      "category": "Circulars"
+    },
+    {
+      "id": "10227",
+      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2016/2016-01-14_Notification_10227_Credit%20information%20reporting%20in%20respect%20of%20Self%20Help%20Group%20%28SHG%29%20members.pdf",
+      "title": "Credit information reporting in respect of Self Help Group (SHG) members",
+      "date_published": "Jan 14, 2016",
       "category": "Notifications"
-    },
-    {
-      "id": "5392",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2009/2009-12-01_Notification_5392_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005",
-      "date_published": "Dec 01, 2009",
-      "category": "Notifications"
-    },
-    {
-      "id": "20539",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2009/2009-04-17_Press-Release_20539_RBI%E2%80%99s%20In-principle%20Approval%20to%20Four%20Companies%20to%20set%20up%20CICs.pdf",
-      "title": "RBI’s In-principle Approval to Four Companies to set up CICs",
-      "date_published": "Apr 17, 2009",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "RBI/2009-2010/345 DBOD.No.DL.15214 /20.16.042/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-03-09_Circular_RBI-2009-2010-345%20DBOD.No.DL.15214%20-20.16.042-2009-10_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20-%20For%20commencing%20business%20of%20credit%20information%20%E2%80%93%20Experian%20Credit%20Information%20Compa.pdf",
-      "title": "Grant of ‘Certificate of Registration’ - For commencing business of credit information – Experian Credit Information Company of India Private Ltd",
-      "date_published": "09.3.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2009-2010/354 RPCD.CO RRB.BC No.62 /03.05.33/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-03-23_Circular_RBI-2009-2010-354%20RPCD.CO%20RRB.BC%20No.62%20-03.05.33-2009-10_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20-%20For%20commencing%20business%20of%20credit%20information%20%E2%80%93%20Experian%20Credit%20Information%20Co.pdf",
-      "title": "Grant of ‘Certificate of Registration’ - For commencing business of credit information – Experian Credit Information Company of India Private Ltd.",
-      "date_published": "23.3.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2009-2010/374 DBOD.No.DL.BC.83/20.16.042/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-03-31_Circular_RBI-2009-2010-374%20DBOD.No.DL.BC.83-20.16.042-2009-10_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20-%20For%20commencing%20business%20of%20credit%20information%20%E2%80%93%20Equifax%20Credit%20Information%20Service.pdf",
-      "title": "Grant of ‘Certificate of Registration’ - For commencing business of credit information – Equifax Credit Information Services Private Ltd.",
-      "date_published": "31.3.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2009-2010/400 RPCD.CO RRB.BC No.70 /03.05.33/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-04-19_Circular_RBI-2009-2010-400%20RPCD.CO%20RRB.BC%20No.70%20-03.05.33-2009-10_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20for%20commencing%20business%20of%20credit%20information%20%E2%80%93%20Equifax%20Credit%20Information%20Servi.pdf",
-      "title": "Grant of ‘Certificate of Registration’ for commencing business of credit information – Equifax Credit Information Services Private Ltd.",
-      "date_published": "19.4.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/ 2009-2010/437 UBD.CO.BPD.Cir.No. 60/09.11.200/2009-10",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-04-29_Circular_RBI-%202009-2010-437%20UBD.CO.BPD.Cir.No.%2060-09.11.200-2009-10_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005%20%E2%80%93%20List%20of%20Credit%20Information%20Companies.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005 – List of Credit Information Companies",
-      "date_published": "29.4.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/ 2010-2011/160 UBD.CO.BPD.Cir.No. 6 /09.11.200/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-08-09_Circular_RBI-%202010-2011-160%20UBD.CO.BPD.Cir.No.%206%20-09.11.200-2010-11_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of data to Credit Information Companies",
-      "date_published": "09.8.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/168 DNBS (PD) CC.No. 197/03.10.001/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-08-12_Circular_RBI-2010-2011-168%20DNBS%20%28PD%29%20CC.No.%20197-03.10.001-2010-11_Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "12.8.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/191 RPCD.CO.RF.BC.No.17/07.40.06/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-09-06_Circular_RBI-2010-2011-191%20RPCD.CO.RF.BC.No.17-07.40.06-2010-11_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of data to Credit Information Companies",
-      "date_published": "06.9.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/207 DNBS.(PD).CC. No. 200 /03.10.001/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-09-17_Circular_RBI-2010-2011-207%20DNBS.%28PD%29.CC.%20No.%20200%20-03.10.001-2010-11_Submission%20of%20data%20to%20Credit%20Information%20Companies%20%C2%ADFormat%20of%20data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf",
-      "title": "Submission of data to Credit Information Companies ­Format of data to be submitted by Credit Institutions",
-      "date_published": "17.9.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/286 DNBS(PD-SC/RC).CC. No. 23 /26.03.001/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-11-25_Circular_RBI-2010-2011-286%20DNBS%28PD-SC-RC%29.CC.%20No.%2023%20-26.03.001-2010-11_Submission%20of%20information%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of information to Credit Information Companies",
-      "date_published": "25.11.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/294 DBOD No. CID. BC.64/20.16.042/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-01_Circular_RBI-2010-2011-294%20DBOD%20No.%20CID.%20BC.64-20.16.042-2010-11_Grant%20of%20Certificate%20of%20Registration%20%E2%80%93%20For%20commencing%20business%20of%20Credit%20Information%20%E2%80%93%20High%20Mark%20Credit%20Information%20Serv.pdf",
-      "title": "Grant of Certificate of Registration – For commencing business of Credit Information – High Mark Credit Information Services Private Limited",
-      "date_published": "01.12.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/301 RPCD.CO.RCB.BC.No.33/07.40.06/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-07_Circular_RBI-2010-2011-301%20RPCD.CO.RCB.BC.No.33-07.40.06-2010-11_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of data to Credit Information Companies",
-      "date_published": "07.12.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/304 RPCD.CO RRB.BC. No. 36 /03.05.33/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-08_Circular_RBI-2010-2011-304%20RPCD.CO%20RRB.BC.%20No.%2036%20-03.05.33-2010-11_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20commencing%20business%20of%20Credit%20Information%20%E2%80%93%20High%20Mark%20Credit%20Information.pdf",
-      "title": "Grant of ‘Certificate of Registration’ – For commencing business of Credit Information – High Mark Credit Information Services Private Limited",
-      "date_published": "08.12.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/325 UBD.BPD.(PCB) Cir. No 30/09.11.200/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-23_Circular_RBI-2010-2011-325%20UBD.BPD.%28PCB%29%20Cir.%20No%2030-09.11.200-2010-11_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005%20-%20Grant%20of%20%27Certificate%20of%20Registration%27%20-%20for%20commencing%20busin.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005 - Grant of 'Certificate of Registration' - for commencing business of Credit Information - High Mark Credit Information Services Private Limited",
-      "date_published": "23.12.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/331 RPCD.CO RRB.BC.No. 41/03.05.33/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2010/2010-12-24_Circular_RBI-2010-2011-331%20RPCD.CO%20RRB.BC.No.%2041-03.05.33-2010-11_Submission%20of%20Data%20to%20Credit%20Information%20Companies%20-%20Format%20of%20Data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf",
-      "title": "Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions",
-      "date_published": "24.12.2010",
-      "category": "Circulars"
-    },
-    {
-      "id": "22374",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2010/2010-04-21_Draft-Notification_22374_RBI%20issues%20Draft%20Guidelines%20regarding%20proposed%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "RBI issues Draft Guidelines regarding proposed Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "Apr 21, 2010",
-      "category": "Draft-Notifications-Guidelines"
-    },
-    {
-      "id": "5531",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-03-09_Notification_5531_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20-%20For%20commencing%20business%20of%20credit%20information%20%E2%80%93%20Experian%20Credit%20Information%20Company%20of%20India%20Private%20Ltd.pdf",
-      "title": "Grant of ‘Certificate of Registration’ - For commencing business of credit information – Experian Credit Information Company of India Private Ltd",
-      "date_published": "Mar 09, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5540",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-03-23_Notification_5540_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20-%20For%20commencing%20business%20of%20credit%20information%20%E2%80%93%20Experian%20Credit%20Information%20Company%20of%20India%20Private%20Ltd..pdf",
-      "title": "Grant of ‘Certificate of Registration’ - For commencing business of credit information – Experian Credit Information Company of India Private Ltd.",
-      "date_published": "Mar 23, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5560",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-03-31_Notification_5560_Certificate%20of%20Registration%20granted%20to%20Equifax%20Credit%20Information%20Services%20Private%20Ltd%20to%20commence%20Business%20of%20Credit%20Information.pdf",
-      "title": "Certificate of Registration granted to Equifax Credit Information Services Private Ltd to commence Business of Credit Information",
-      "date_published": "Mar 31, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5598",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-04-19_Notification_5598_RRBs%20-%20Certificate%20of%20Registration%20granted%20to%20Equifax%20Credit%20Information%20Services%20Private%20Ltd%20to%20commence%20Business%20of%20Credit%20Information.pdf",
-      "title": "RRBs - Certificate of Registration granted to Equifax Credit Information Services Private Ltd to commence Business of Credit Information",
-      "date_published": "Apr 19, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5930",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-08-09_Notification_5930_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of data to Credit Information Companies",
-      "date_published": "Aug 09, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5944",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-08-12_Notification_5944_Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "Aug 12, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5979",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-09-06_Notification_5979_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of data to Credit Information Companies",
-      "date_published": "Sep 06, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "5999",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-09-17_Notification_5999_Submission%20of%20data%20to%20Credit%20Information%20Companies%20Format%20of%20data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf",
-      "title": "Submission of data to Credit Information Companies Format of data to be submitted by Credit Institutions",
-      "date_published": "Sep 17, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "6112",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-11-25_Notification_6112_Submission%20of%20information%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of information to Credit Information Companies",
-      "date_published": "Nov 25, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "6124",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-01_Notification_6124_Grant%20of%20Certificate%20of%20Registration%20%E2%80%93%20For%20commencing%20business%20of%20Credit%20Information%20%E2%80%93%20High%20Mark%20Credit%20Information%20Services%20Private%20Limited.pdf",
-      "title": "Grant of Certificate of Registration – For commencing business of Credit Information – High Mark Credit Information Services Private Limited",
-      "date_published": "Dec 01, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "6134",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-07_Notification_6134_Submission%20of%20data%20to%20Credit%20Information%20Companies.pdf",
-      "title": "Submission of data to Credit Information Companies",
-      "date_published": "Dec 07, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "6137",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-08_Notification_6137_RRBs%20-%20Grant%20of%20Certificate%20of%20Registration%20for%20commencing%20business%20of%20Credit%20Information%20%E2%80%93%20High%20Mark%20Credit%20Information%20Services%20Private%20Limited.pdf",
-      "title": "RRBs - Grant of Certificate of Registration  for commencing business of Credit Information – High Mark Credit Information Services Private Limited",
-      "date_published": "Dec 08, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "6162",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-23_Notification_6162_Credit%20Information%20Companies%20%28Regulation%29%20Act%2C%202005%20-%20Grant%20of%20%27Certificate%20of%20Registration%27%20-%20for%20commencing%20business%20of%20Credit%20Information%20-%20High%20Mark%20Credit%20Informa.pdf",
-      "title": "Credit Information Companies (Regulation) Act, 2005 - Grant of 'Certificate of Registration' - for commencing business of Credit Information - High Mark Credit Information Services Private Limited",
-      "date_published": "Dec 23, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "6168",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2010/2010-12-24_Notification_6168_RRBs%20-%20Submission%20of%20Data%20to%20Credit%20Information%20Companies%20-%20Format%20of%20Data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf",
-      "title": "RRBs - Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions",
-      "date_published": "Dec 24, 2010",
-      "category": "Notifications"
-    },
-    {
-      "id": "22374",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2010/2010-04-21_Press-Release_22374_RBI%20issues%20Draft%20Guidelines%20regarding%20proposed%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "RBI issues Draft Guidelines regarding proposed Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "Apr 21, 2010",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "22913",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2010/2010-07-30_Press-Release_22913_ICICI%20Bank%20Ltd.%20%E2%80%93%20Penalised.pdf",
-      "title": "ICICI Bank Ltd. – Penalised",
-      "date_published": "Jul 30, 2010",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "22977",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2010/2010-08-12_Press-Release_22977_Branches%20of%20Bank%20of%20Rajasthan%20Ltd.%20to%20be%20Branches%20of%20ICICI%20Bank%20Ltd.%20from%20August%2013.pdf",
-      "title": "Branches of Bank of Rajasthan Ltd. to be Branches of ICICI Bank Ltd. from August 13",
-      "date_published": "Aug 12, 2010",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "22986",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2010/2010-08-13_Press-Release_22986_RBI%20releases%20Final%20Guidelines%20on%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "RBI releases Final Guidelines on Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "Aug 13, 2010",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "DNBS.(PD).CC.No.206/03.10.001/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-01-05_Circular_DNBS.%28PD%29.CC.No.206-03.10.001-2010-11_Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "January 5, 2011",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/353 RPCD.CO.RCB.BC.No.45/07.40.06/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-01-05_Circular_RBI-2010-2011-353%20RPCD.CO.RCB.BC.No.45-07.40.06-2010-11_Submission%20of%20Data%20to%20Credit%20Information%20Companies%20-%20Format%20of%20Data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf",
-      "title": "Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions",
-      "date_published": "05.1.2011",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2010-2011/360 DNBS (PD) CC.No. 206/03.10.001/2010-11",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-01-05_Circular_RBI-2010-2011-360%20DNBS%20%28PD%29%20CC.No.%20206-03.10.001-2010-11_Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "05.1.2011",
-      "category": "Circulars"
-    },
-    {
-      "id": "DNBS.(PD).CC.No.237/03.02.001/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-07-01_Circular_DNBS.%28PD%29.CC.No.237-03.02.001-2011-12_Master%20Circulars%20-%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circulars - Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "July 1, 2011",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/31 DNBS (PD) CC No.237/03.02.001/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-07-01_Circular_RBI-2011-2012-31%20DNBS%20%28PD%29%20CC%20No.237-03.02.001-2011-12_Master%20Circular%20%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circular – Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "01.7.2011",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/165 DBOD.No. CID.BC.30 /20.16.042/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2011/2011-09-05_Circular_RBI-2011-2012-165%20DBOD.No.%20CID.BC.30%20-20.16.042-2011-12_Submission%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20%E2%80%93%20Dissemination%20of%20Credit%20Information%20of%20suit-filed%20acc.pdf",
-      "title": "Submission of Credit Information to Credit Information Companies – Dissemination of Credit Information of suit-filed accounts",
-      "date_published": "05.9.2011",
-      "category": "Circulars"
-    },
-    {
-      "id": "6589",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2011/2011-07-01_Master-Circular_6589_Master%20Circular%20%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circular – Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "Jul 01, 2011",
-      "category": "Master-Circulars"
-    },
-    {
-      "id": "6195",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-01-05_Notification_6195_StCBs-DCCBs%20-%20Submission%20of%20Data%20to%20Credit%20Information%20Companies%20-%20Format%20of%20Data%20to%20be%20submitted%20by%20Credit%20Institutions.pdf",
-      "title": "StCBs/DCCBs - Submission of Data to Credit Information Companies - Format of Data to be submitted by Credit Institutions",
-      "date_published": "Jan 05, 2011",
-      "category": "Notifications"
-    },
-    {
-      "id": "872",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-07-01_Notification_872_Master%20Circular%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%28CICs%29.pdf",
-      "title": "Master Circular– Regulatory Framework for Core Investment Companies(CICs)",
-      "date_published": "July 01, 2011",
-      "category": "Notifications"
-    },
-    {
-      "id": "6693",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-09-05_Notification_6693_Submission%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20%E2%80%93%20Dissemination%20of%20Credit%20Information%20of%20suit-filed%20accounts.pdf",
-      "title": "Submission of Credit Information to Credit Information Companies –  Dissemination of Credit Information of suit-filed accounts",
-      "date_published": "Sep 05, 2011",
-      "category": "Notifications"
-    },
-    {
-      "id": "RBI/2011-2012/408 UBD.CO.BPD.Cir.No. 19/09.11.200/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-02-24_Circular_RBI-2011-2012-408%20UBD.CO.BPD.Cir.No.%2019-09.11.200-2011-12_Submission%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20%E2%80%93%20Defaulters%20of%20%60%201%20crore%20and%20above%20and%20Willful%20Defau.pdf",
-      "title": "Submission of Credit Information to Credit Information Companies – Defaulters of ` 1 crore and above and Willful Defaulters of ` 25 lakhs and above- Dissemination of Credit information of suit-filed accounts",
-      "date_published": "24.2.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/429 DBOD No. CID. BC. 84/20.16.042/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-03-05_Circular_RBI-2011-2012-429%20DBOD%20No.%20CID.%20BC.%2084-20.16.042-2011-12_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20Credit%20Information%20%E2%80%93%20Credit%20Information%20Bureau.pdf",
-      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – Credit Information Bureau (India) Limited",
-      "date_published": "05.3.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/510 RPCD.CO RRB.BC No.71/03.05.33/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-04-18_Circular_RBI-2011-2012-510%20RPCD.CO%20RRB.BC%20No.71-03.05.33-2011-12_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20Credit%20Information%20%E2%80%93%20Credit%20Information%20Bureau%20.pdf",
-      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – Credit Information Bureau (India) Limited",
-      "date_published": "18.4.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/557 DNBS.PD.CC.No.274/03.02.089/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-05-11_Circular_RBI-2011-2012-557%20DNBS.PD.CC.No.274-03.02.089-2011-12_Core%20Investment%20Companies%20%28Reserve%20Bank%29%20Directions%2C%202011%20%E2%80%93%20Clarification%20on%20CICs%20Issuing%20Guarantees.pdf",
-      "title": "Core Investment Companies (Reserve Bank) Directions, 2011 – Clarification on CICs Issuing Guarantees",
-      "date_published": "11.5.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/594 DBOD. AML.BC. No. 109/14.01.001/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-06-08_Circular_RBI-2011-2012-594%20DBOD.%20AML.BC.%20No.%20109-14.01.001-2011-12_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-%20Unique%20Cus.pdf",
-      "title": "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for banks’ customers in India",
-      "date_published": "08.6.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2011-2012/598 RPCD.CO RRB.RCB. AML.BC.No. 82/03.05.33(E)/2011-12",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-06-11_Circular_RBI-2011-2012-598%20RPCD.CO%20RRB.RCB.%20AML.BC.No.%2082-03.05.33%28E%29-2011-12_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-.pdf",
-      "title": "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for banks’ customers in India",
-      "date_published": "11.6.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "DNBS.(PD).CC.No.291/03.02.001/2012-13",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-07-02_Circular_DNBS.%28PD%29.CC.No.291-03.02.001-2012-13_Master%20Circular%20-%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circular - Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "July 2, 2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2012-2013/30 DNBS (PD) CC No.291/03.02.001/2012-13",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2012/2012-07-02_Circular_RBI-2012-2013-30%20DNBS%20%28PD%29%20CC%20No.291-03.02.001-2012-13_Master%20Circular%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circular– Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "02.7.2012",
-      "category": "Circulars"
-    },
-    {
-      "id": "26454",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2012/2012-05-11_Draft-Notification_26454_Overseas%20Investment%20by%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Overseas Investment by Core Investment Companies (CICs)",
-      "date_published": "May 11, 2012",
-      "category": "Draft-Notifications-Guidelines"
-    },
-    {
-      "id": "7391",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Master-Circulars/2012/2012-07-02_Master-Circular_7391_Master%20Circular%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circular– Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "Jul 02, 2012",
-      "category": "Master-Circulars"
-    },
-    {
-      "id": "7021",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-02-24_Notification_7021_Submission%20of%20Credit%20Information%20to%20CICs%20%E2%80%93%20Dissemination%20of%20Credit%20Information%20of%20suit-filed%20accounts.pdf",
-      "title": "Submission of Credit Information to CICs – Dissemination of Credit Information of suit-filed accounts",
-      "date_published": "Feb 24, 2012",
-      "category": "Notifications"
-    },
-    {
-      "id": "7046",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-03-05_Notification_7046_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20Credit%20Information%20%E2%80%93%20CIBIL.pdf",
-      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – CIBIL",
-      "date_published": "Mar 05, 2012",
-      "category": "Notifications"
-    },
-    {
-      "id": "7144",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-04-18_Notification_7144_Grant%20of%20%E2%80%98Certificate%20of%20Registration%E2%80%99%20%E2%80%93%20For%20carrying%20on%20the%20business%20of%20Credit%20Information%20%E2%80%93%20Credit%20Information%20Bureau%20%28India%29%20Limited.pdf",
-      "title": "Grant of ‘Certificate of Registration’ – For carrying on the business of Credit Information – Credit Information Bureau (India) Limited",
-      "date_published": "Apr 18, 2012",
-      "category": "Notifications"
-    },
-    {
-      "id": "7263",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-06-08_Notification_7263_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-%20Unique%20Customer%20Identification%20Code%20%28UCIC%29%20for%20banks%E2%80%99%20custo.pdf",
-      "title": "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for banks’ customers in India",
-      "date_published": "Jun 08, 2012",
-      "category": "Notifications"
-    },
-    {
-      "id": "7267",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-06-11_Notification_7267_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-%20Unique%20Customer%20Identification%20Code%20%28UCIC%29%20for%20banks%E2%80%99%20custo.pdf",
-      "title": "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for banks’ customers in India",
-      "date_published": "Jun 11, 2012",
-      "category": "Notifications"
-    },
-    {
-      "id": "1021",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2012/2012-07-02_Notification_1021_Master%20Circular%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Master Circular– Regulatory Framework for Core Investment Companies (CICs)",
-      "date_published": "July 02, 2012",
-      "category": "Notifications"
-    },
-    {
-      "id": "26454",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-05-11_Press-Release_26454_Overseas%20Investment%20by%20Core%20Investment%20Companies%20%28CICs%29.pdf",
-      "title": "Overseas Investment by Core Investment Companies (CICs)",
-      "date_published": "May 11, 2012",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "27367",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-10-09_Press-Release_27367_ING%20Vysya%20Bank%20Ltd.%20and%20ICICI%20Bank%20Ltd.%20-%20Penalised.pdf",
-      "title": "ING Vysya Bank Ltd. and ICICI Bank Ltd. - Penalised",
-      "date_published": "Oct 09, 2012",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "27702",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2012/2012-12-04_Press-Release_27702_RBI%20sets%20up%20Supervisory%20College%20for%20Cross%20Border%20Cooperation%20for%20Supervision%20of%20SBI%20and%20ICICI%20Bank%20Ltd.pdf",
-      "title": "RBI sets up Supervisory College for Cross Border Cooperation for Supervision of SBI and ICICI Bank Ltd",
-      "date_published": "Dec 04, 2012",
-      "category": "Press-Releases"
-    },
-    {
-      "id": "RBI/2012-2013/515 DBOD. AML.BC. No. 101 /14.01.001/2012-13",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-05-31_Circular_RBI-2012-2013-515%20DBOD.%20AML.BC.%20No.%20101%20-14.01.001-2012-13_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-%20Unique%20Cu.pdf",
-      "title": "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for banks’ customers in India",
-      "date_published": "31.5.2013",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2012-2013/521 RPCD.RCB.RRB.AML.BC.No. 76/07.51.018/2012-13",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-06-04_Circular_RBI-2012-2013-521%20RPCD.RCB.RRB.AML.BC.No.%2076-07.51.018-2012-13_Know%20Your%20Customer%20%28KYC%29-Anti-Money%20Laundering%20%28AML%29-Combating%20of%20Financing%20of%20Terrorism%20%28CFT%29%20Guidelines%20-%20Uniqu.pdf",
-      "title": "Know Your Customer (KYC)/Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code (UCIC) for banks’ customers in India",
-      "date_published": "04.6.2013",
-      "category": "Circulars"
-    },
-    {
-      "id": "DNBS.(PD).CC.No.345/03.02.001/2013-14",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-07-01_Circular_DNBS.%28PD%29.CC.No.345-03.02.001-2013-14_Master%20Circular%20-%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%28CICs%29.pdf",
-      "title": "Master Circular - Regulatory Framework for Core Investment Companies(CICs)",
-      "date_published": "July 1, 2013",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2013-2014/112 DBOD No. CID. BC. 27/20.16.042/2013-14",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-07-01_Circular_RBI-2013-2014-112%20DBOD%20No.%20CID.%20BC.%2027-20.16.042-2013-14_Submission%20of%20Credit%20Information%20to%20Credit%20Information%20Companies%20-%20Withdrawal%20of%20%E2%80%98consent%20clause%E2%80%99.pdf",
-      "title": "Submission of Credit Information to Credit Information Companies - Withdrawal of ‘consent clause’",
-      "date_published": "01.7.2013",
-      "category": "Circulars"
-    },
-    {
-      "id": "RBI/2013-2014/48 DNBS (PD) CC No. 345 / 03.02.001/ 2013-14",
-      "url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Circulars/2013/2013-07-01_Circular_RBI-2013-2014-48%20DNBS%20%28PD%29%20CC%20No.%20345%20-%2003.02.001-%202013-14_Master%20Circular%E2%80%93%20Regulatory%20Framework%20for%20Core%20Investment%20Companies%28CICs%29.pdf",
-      "title": "Master Circular– Regulatory Framework for Core Investment Companies(CICs)",
-      "date_published": "01.7.2013",
-      "category": "Circulars"
     }
   ]
 }

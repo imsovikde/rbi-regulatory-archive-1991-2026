@@ -1,4 +1,4 @@
-# Press-Releases — 2024
+# Press-Releases  -  2024
 
 - **Folder:** `Press-Releases`
 - **Year:** `2024`

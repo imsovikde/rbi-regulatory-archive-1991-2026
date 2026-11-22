@@ -90,7 +90,7 @@ Digital Payment Security Controls directions mandate multi-factor authentication
 ### <a id="faq-8"></a>8. Which Master Direction applies to Non-Banking Financial Company Systemically Important Non-Deposit taking Company (NBFC-ND-SI)?
 - **Topic Domain:** NBFC Prudential Regulations
 - **Statutory Authority:** Section 45JA of Reserve Bank of India Act 1934
-- **Controlling Document:** [2025-11-28_Master-Direction_12965_Reserve Bank of India (Non-Banking Financial Companies - Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025.md](../../data/Master-Directions/2025/2025-11-28_Master-Direction_12965_Reserve%20Bank%20of%20India%20%28Non-Banking%20Financial%20Companies%20%E2%80%93%20Registration%2C%20Exemptions%20and%20Framework%20for%20Scale%20Based%20Regulation%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%200.md)
+- **Controlling Document:** [2025-11-28_Master-Direction_12965_Reserve Bank of India (Non-Banking Financial Companies - Registration, Exemptions and Framework for Scale Based Regulation) Directions, 2025 (Updated as on July 0.md](../../data/Master-Directions/2025/2025-11-28_Master-Direction_12965_Reserve%20Bank%20of%20India%20%28Non-Banking%20Financial%20Companies%20%E2%80%93%20Registration%2C%20Exemptions%20and%20Framework%20for%20Scale%20Based%20Regulation%29%20Directions%2C%202025%20%28Updated%20as%20on%20July%200.md)
 
 **Statutory Answer:**
 NBFC-ND-SI entities with asset size of 500 crore rupees or more are governed by the Scale Based Regulation (SBR) framework and Master Direction on NBFC-SI. It establishes minimum capital adequacy (CRAR of 15 percent), Tier 1 capital minimum of 10 percent, credit concentration limits, and liquidity coverage ratio (LCR) standards.

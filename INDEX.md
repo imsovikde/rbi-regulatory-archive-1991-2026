@@ -2,8 +2,8 @@
 
 ## Conversion progress
 
-- **Total PDFs:** 88236
-- **Converted to Markdown:** 88236
+- **Total PDFs:** 88288
+- **Converted to Markdown:** 88288
 - **Remaining:** 0
 - **Progress:** [########################################] 100.0000%
 
@@ -14,7 +14,7 @@
 | Master-Circulars | 1013 | 1013 | 100.0000% |
 | Draft-Notifications-Guidelines | 546 | 546 | 100.0000% |
 | Circulars | 11690 | 11690 | 100.0000% |
-| Press-Releases | 64063 | 64063 | 100.0000% |
+| Press-Releases | 64115 | 64115 | 100.0000% |
 
 ## Agent Navigation & Triage
 
@@ -77,19 +77,19 @@
 | 2023 | 2510 | 2510 | [index](index/by_year/2023.md) |
 | 2024 | 2880 | 2880 | [index](index/by_year/2024.md) |
 | 2025 | 3913 | 3913 | [index](index/by_year/2025.md) |
-| 2026 | 3228 | 3228 | [index](index/by_year/2026.md) |
+| 2026 | 3280 | 3280 | [index](index/by_year/2026.md) |
 
 
 <!-- DYNAMIC_STATS_START -->
 ### Live Dynamic Archive Statistics
 
-- **Total Regulatory Documents:** 88,236
+- **Total Regulatory Documents:** 88,288
 - **Temporal Range:** 1992 through 2026
 - **Conversion Progress:** 100.0000% complete
 
 | Category | Document Count | Format |
 | --- | ---: | --- |
-| Press-Releases | 64,063 | GitHub-Flavored Markdown |
+| Press-Releases | 64,115 | GitHub-Flavored Markdown |
 | Circulars | 11,690 | GitHub-Flavored Markdown |
 | Notifications | 10,527 | GitHub-Flavored Markdown |
 | Master-Circulars | 1,013 | GitHub-Flavored Markdown |

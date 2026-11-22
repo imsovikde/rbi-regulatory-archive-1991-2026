@@ -1,4 +1,4 @@
-# Notifications — 1994
+# Notifications  -  1994
 
 - **Folder:** `Notifications`
 - **Year:** `1994`

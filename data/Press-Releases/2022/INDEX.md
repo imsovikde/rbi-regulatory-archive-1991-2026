@@ -1,4 +1,4 @@
-# Press-Releases — 2022
+# Press-Releases  -  2022
 
 - **Folder:** `Press-Releases`
 - **Year:** `2022`

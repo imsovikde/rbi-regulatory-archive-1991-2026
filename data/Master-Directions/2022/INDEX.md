@@ -1,4 +1,4 @@
-# Master-Directions — 2022
+# Master-Directions  -  2022
 
 - **Folder:** `Master-Directions`
 - **Year:** `2022`
