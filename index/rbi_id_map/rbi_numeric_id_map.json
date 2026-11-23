@@ -415400,12 +415400,75 @@
     "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR153980EC0AE092E14AE6963872D7C9520E39.PDF",
     "year": 2026
   },
+  "64018": {
+    "document_id": "64018",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64018_Money%20Market%20Operations%20as%20on%20November%2020%2C%202026.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64018_Money Market Operations as on November 20, 2026.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR154066F55AAE14604A8B8D40CDE4E8B00FE4.PDF",
+    "year": 2026
+  },
+  "64019": {
+    "document_id": "64019",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64019_RBI%20to%20conduct%202-day%20Variable%20Rate%20Repo%20%28VRR%29%20auction%20under%20LAF%20on%20November%2023%2C%202026.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64019_RBI to conduct 2-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15417764F25BDFD548358FFBFD4BC0E7B484.PDF",
+    "year": 2026
+  },
   "6402": {
     "document_id": "6402",
     "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Notifications/2011/2011-05-11_Notification_6402_Regulatory%20and%20Audit%20Compliance.pdf",
     "md_path": "data/Notifications/2011/2011-05-11_Notification_6402_Regulatory and Audit Compliance.md",
     "pdf_url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/ACBC110511.pdf",
     "year": 2011
+  },
+  "64020": {
+    "document_id": "64020",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64020_Result%20of%20the%204-day%20Variable%20Rate%20Repo%20%28VRR%29%20auction%20held%20on%20November%2023%2C%202026.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64020_Result of the 4-day Variable Rate Repo (VRR) auction held on November 23, 2026.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR154288E4EDF4D779475B89FDD32588AE7CC0.PDF",
+    "year": 2026
+  },
+  "64021": {
+    "document_id": "64021",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64021_Result%20of%20the%202-day%20Variable%20Rate%20Repo%20%28VRR%29%20auction%20held%20on%20November%2023%2C%202026.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64021_Result of the 2-day Variable Rate Repo (VRR) auction held on November 23, 2026.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15432EE7FE93DA0845C189673EDB395A4E8C.PDF",
+    "year": 2026
+  },
+  "64022": {
+    "document_id": "64022",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64022_Money%20Market%20Operations%20as%20on%20November%2021%2C%202026.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64022_Money Market Operations as on November 21, 2026.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1544F818410F18A5442A8A374F8B06C06267.PDF",
+    "year": 2026
+  },
+  "64023": {
+    "document_id": "64023",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64023_Money%20Market%20Operations%20as%20on%20November%2022%2C%202026.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64023_Money Market Operations as on November 22, 2026.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1545268514329E514753A894D9E78426E4D1.PDF",
+    "year": 2026
+  },
+  "64024": {
+    "document_id": "64024",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64024_Result%20of%20Yield-Price%20Based%20Auction%20of%20State%20Government%20Securities.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64024_Result of Yield-Price Based Auction of State Government Securities.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15468A705572048E42599E62FE0FCE5EABB7.PDF",
+    "year": 2026
+  },
+  "64025": {
+    "document_id": "64025",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64025_RBI%20releases%202026%20list%20of%20Domestic%20Systemically%20Important%20Banks%20%28D-SIBs%29.pdf",
+    "md_path": "data/Press-Releases/2026/2026-11-23_Press-Release_64025_RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs).md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR154776E60D974F0545EA975A0B550C301D87.PDF",
+    "year": 2026
+  },
+  "64026": {
+    "document_id": "64026",
+    "hf_url": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Draft-Notifications-Guidelines/2026/2026-11-23_Draft-Notification_64026_RBI%20issues%20Draft%20Amendment%20Directions%20for%20%E2%80%98Preventive%20Safeguards%20for%20Electronic%20Banking%20Transactions%20%28EBTs%29%E2%80%99.pdf",
+    "md_path": "data/Draft-Notifications-Guidelines/2026/2026-11-23_Draft-Notification_64026_RBI issues Draft Amendment Directions for \u2018Preventive Safeguards for Electronic Banking Transactions (EBTs)\u2019.md",
+    "pdf_url": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15481A16A331A8154221B1B3889AD4D0008D.PDF",
+    "year": 2026
   },
   "6403": {
     "document_id": "UBD.BPD.(PCB)CIR.No.46/09.09.001/2010-11",

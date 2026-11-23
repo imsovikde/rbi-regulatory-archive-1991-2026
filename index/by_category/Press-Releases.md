@@ -1,6 +1,6 @@
 # Press-Releases: Yearly Index
 
-This category contains 64,115 regulatory documents spanning 1992 through 2026.
+This category contains 64,123 regulatory documents spanning 1992 through 2026.
 
 Each year is partitioned into sub-200KB Markdown shards for efficient AI agent ingestion:
 
@@ -40,4 +40,4 @@ Each year is partitioned into sub-200KB Markdown shards for efficient AI agent i
 | 2023 | 2,206 | [Part 1](Press-Releases/2023-part1.md), [Part 2](Press-Releases/2023-part2.md), [Part 3](Press-Releases/2023-part3.md), [Part 4](Press-Releases/2023-part4.md), [Part 5](Press-Releases/2023-part5.md), [Part 6](Press-Releases/2023-part6.md), [Part 7](Press-Releases/2023-part7.md), [Part 8](Press-Releases/2023-part8.md), [Part 9](Press-Releases/2023-part9.md) |
 | 2024 | 2,538 | [Part 1](Press-Releases/2024-part1.md), [Part 2](Press-Releases/2024-part2.md), [Part 3](Press-Releases/2024-part3.md), [Part 4](Press-Releases/2024-part4.md), [Part 5](Press-Releases/2024-part5.md), [Part 6](Press-Releases/2024-part6.md), [Part 7](Press-Releases/2024-part7.md), [Part 8](Press-Releases/2024-part8.md), [Part 9](Press-Releases/2024-part9.md), [Part 10](Press-Releases/2024-part10.md), [Part 11](Press-Releases/2024-part11.md) |
 | 2025 | 2,677 | [Part 1](Press-Releases/2025-part1.md), [Part 2](Press-Releases/2025-part2.md), [Part 3](Press-Releases/2025-part3.md), [Part 4](Press-Releases/2025-part4.md), [Part 5](Press-Releases/2025-part5.md), [Part 6](Press-Releases/2025-part6.md), [Part 7](Press-Releases/2025-part7.md), [Part 8](Press-Releases/2025-part8.md), [Part 9](Press-Releases/2025-part9.md), [Part 10](Press-Releases/2025-part10.md), [Part 11](Press-Releases/2025-part11.md) |
-| 2026 | 2,154 | [Part 1](Press-Releases/2026-part1.md), [Part 2](Press-Releases/2026-part2.md), [Part 3](Press-Releases/2026-part3.md), [Part 4](Press-Releases/2026-part4.md), [Part 5](Press-Releases/2026-part5.md), [Part 6](Press-Releases/2026-part6.md), [Part 7](Press-Releases/2026-part7.md), [Part 8](Press-Releases/2026-part8.md), [Part 9](Press-Releases/2026-part9.md) |
+| 2026 | 2,162 | [Part 1](Press-Releases/2026-part1.md), [Part 2](Press-Releases/2026-part2.md), [Part 3](Press-Releases/2026-part3.md), [Part 4](Press-Releases/2026-part4.md), [Part 5](Press-Releases/2026-part5.md), [Part 6](Press-Releases/2026-part6.md), [Part 7](Press-Releases/2026-part7.md), [Part 8](Press-Releases/2026-part8.md), [Part 9](Press-Releases/2026-part9.md) |

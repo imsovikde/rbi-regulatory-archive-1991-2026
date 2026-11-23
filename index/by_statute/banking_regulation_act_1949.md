@@ -1,6 +1,6 @@
 # Statutory Index: Banking Regulation Act, 1949
 
-This index maps regulations issued under or referencing Banking Regulation Act, 1949 (86,888 documents).
+This index maps regulations issued under or referencing Banking Regulation Act, 1949 (86,897 documents).
 
 | Year | Category | Headline | Document ID | Markdown |
 | ---: | --- | --- | --- | --- |

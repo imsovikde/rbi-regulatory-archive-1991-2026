@@ -1,6 +1,6 @@
 # Regulated Entity Index: Commercial Banks (SCBs, SFBs, PBs, RRBs)
 
-This index lists regulatory documents controlling Commercial Banks (SCBs, SFBs, PBs, RRBs) (74,698 documents).
+This index lists regulatory documents controlling Commercial Banks (SCBs, SFBs, PBs, RRBs) (74,707 documents).
 
 | Year | Category | Headline | Document ID | Markdown |
 | ---: | --- | --- | --- | --- |

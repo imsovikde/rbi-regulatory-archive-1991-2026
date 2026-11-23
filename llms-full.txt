@@ -58,4 +58,4 @@ Exhaustive agent directory. Every category index and every yearly index, with co
 - 2023: 2510/2510 converted, index/by_year/2023.md, index/by_year/2023.json
 - 2024: 2880/2880 converted, index/by_year/2024.md, index/by_year/2024.json
 - 2025: 3913/3913 converted, index/by_year/2025.md, index/by_year/2025.json
-- 2026: 3280/3280 converted, index/by_year/2026.md, index/by_year/2026.json
+- 2026: 3289/3289 converted, index/by_year/2026.md, index/by_year/2026.json

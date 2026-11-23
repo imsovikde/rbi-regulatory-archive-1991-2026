@@ -1,6 +1,6 @@
 # Draft-Notifications-Guidelines: Yearly Index
 
-This category contains 546 regulatory documents spanning 2003 through 2026.
+This category contains 547 regulatory documents spanning 2003 through 2026.
 
 Each year is partitioned into sub-200KB Markdown shards for efficient AI agent ingestion:
 
@@ -28,4 +28,4 @@ Each year is partitioned into sub-200KB Markdown shards for efficient AI agent i
 | 2023 | 9 | [Draft-Notifications-Guidelines 2023](Draft-Notifications-Guidelines/2023.md) |
 | 2024 | 14 | [Draft-Notifications-Guidelines 2024](Draft-Notifications-Guidelines/2024.md) |
 | 2025 | 265 | [Part 1](Draft-Notifications-Guidelines/2025-part1.md), [Part 2](Draft-Notifications-Guidelines/2025-part2.md) |
-| 2026 | 115 | [Draft-Notifications-Guidelines 2026](Draft-Notifications-Guidelines/2026.md) |
+| 2026 | 116 | [Draft-Notifications-Guidelines 2026](Draft-Notifications-Guidelines/2026.md) |

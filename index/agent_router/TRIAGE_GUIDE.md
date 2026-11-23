@@ -1,6 +1,6 @@
 # RBI Regulatory Archive: AI Agent Triage and Statutory Hierarchy Guide
 
-Welcome, Agent. This repository contains the complete, authoritative, and lossless archive of all Reserve Bank of India (RBI) regulations from 1991 through 2026 (88,288+ documents) converted to GitHub-Flavored Markdown.
+Welcome, Agent. This repository contains the complete, authoritative, and lossless archive of all Reserve Bank of India (RBI) regulations from 1991 through 2026 (88,297+ documents) converted to GitHub-Flavored Markdown.
 
 This guide provides a deterministic, zero-hallucination routing protocol for AI agents, RAG engines, and automated legal verification pipelines to locate controlling RBI regulations in $\le 3$ tool calls.
 

@@ -1,0 +1,49 @@
+---
+doc_id: "Press-Releases_2026_64019"
+title: "RBI to conduct 2-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026"
+category: "Press-Releases"
+year: 2026
+source_rbi_url: "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15417764F25BDFD548358FFBFD4BC0E7B484.PDF"
+pdf_sha256: "9889a90f91ac85a1decd8ae15bcd41a2a48b5073de2f21db8a1273be653dfd41"
+md_sha256: "c5f4ce260a6a8964302e6401b5503558b2ee382d33b7814bf3de731addb7a514"
+total_pages: 1
+native_pages: 1
+ocr_pages: 0
+conversion_engine: "firecrawl-anydoc 0.2.5"
+converted_at_utc: "2026-11-23T11:04:52Z"
+source: "rbi"
+source_hf_url: "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026/resolve/main/Press-Releases/2026/2026-11-23_Press-Release_64019_RBI%20to%20conduct%202-day%20Variable%20Rate%20Repo%20%28VRR%29%20auction%20under%20LAF%20on%20November%2023%2C%202026.pdf"
+verification_status: "VERIFIED_LEVEL_5"
+---
+# RBI to conduct 2-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026
+
+<!-- PAGE 1 -->
+
+|ेस काशनी PRESS RELEASE||
+|---|---|
+|भारतीय �रज़वर् बक||
+|RESERVE BANK OF INDIA||
+|वेबसाइट : www.rbi.org.in/hindi|संचार िवभाग, क � ी य कायार्लय, शहीद भगत �संह मागर्, फोटर्, मुंबई - 400 001|
+|Website : www.rbi.org.in|Department of Communication, Central Office, Shahid Bhagat Singh Marg, Fort,|
+|ई-मेल/email : helpdoc@rbi.org.in|Mumbai - 400 001 फोन/Phone: 022 - 2266 0502|
+
+## November 23, 2026
+
+## RBI to conduct 2-day Variable Rate Repo (VRR) auction under LAF on
+
+## November 23, 2026
+
+On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Monday, November 23, 2026, as under:
+
+## Sl. Notified Amount Tenor
+
+## Window Timing Date of Reversal
+
+## No. (₹ crore) (day)
+
+1 50,000 2 10:30 AM to 11:00 AM November 25, 2026 (Wednesday)
+
+2. The operational guidelines for the auction will be same as given in Reserve Bank’s <u>Press Release 2021-2022/1572 dated January 20, 2022</u>.
+## Ajit Prasad
+
+**Press Release: 2026-2027/1541** Deputy General Manager (Communications)
