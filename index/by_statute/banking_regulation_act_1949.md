@@ -1,6 +1,6 @@
 # Statutory Index: Banking Regulation Act, 1949
 
-This index maps regulations issued under or referencing Banking Regulation Act, 1949 (86,897 documents).
+This index maps regulations issued under or referencing Banking Regulation Act, 1949 (86,926 documents).
 
 | Year | Category | Headline | Document ID | Markdown |
 | ---: | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ This index maps regulations issued under or referencing Banking Regulation Act, 
 | 2026 | Press-Releases | 3 rd Annual Global Conference of the College of Supervisors | 62020 | [Markdown](../../data/Press-Releases/2026/2026-01-12_Press-Release_62020_3%20rd%20Annual%20Global%20Conference%20of%20the%20College%20of%20Supervisors.md) |
 | 2026 | Press-Releases | 33 rd Meeting of the FSDC Sub-Committee | 62739 | [Markdown](../../data/Press-Releases/2026/2026-05-14_Press-Release_62739_33%20rd%20Meeting%20of%20the%20FSDC%20Sub-Committee.md) |
 | 2026 | Press-Releases | 46th Half-Yearly Report on Management of Foreign Exchange Reserves: October 2025 - March 2026 | 62667 | [Markdown](../../data/Press-Releases/2026/2026-04-30_Press-Release_62667_46th%20Half-Yearly%20Report%20on%20Management%20of%20Foreign%20Exchange%20Reserves-%20October%202025%20-%20March%202026.md) |
+| 2026 | Press-Releases | 47th Half-Yearly Report on Management of Foreign Exchange Reserves: April - September 2026 | 64042 | [Markdown](../../data/Press-Releases/2026/2026-11-25_Press-Release_64042_47th%20Half-Yearly%20Report%20on%20Management%20of%20Foreign%20Exchange%20Reserves-%20April%20%E2%80%93%20September%202026.md) |
 | 2026 | Press-Releases | 622 nd Meeting of Central Board of the Reserve Bank of India | 62408 | [Markdown](../../data/Press-Releases/2026/2026-03-20_Press-Release_62408_622%20nd%20Meeting%20of%20Central%20Board%20of%20the%20Reserve%20Bank%20of%20India.md) |
 | 2026 | Press-Releases | 623 rd Meeting of Central Board of the Reserve Bank of India | 62789 | [Markdown](../../data/Press-Releases/2026/2026-05-22_Press-Release_62789_623%20rd%20Meeting%20of%20Central%20Board%20of%20the%20Reserve%20Bank%20of%20India.md) |
 | 2026 | Press-Releases | 624 th Meeting of Central Board of the Reserve Bank of India | 63419 | [Markdown](../../data/Press-Releases/2026/2026-08-21_Press-Release_63419_624%20th%20Meeting%20of%20Central%20Board%20of%20the%20Reserve%20Bank%20of%20India.md) |
@@ -67,6 +68,7 @@ This index maps regulations issued under or referencing Banking Regulation Act, 
 | 2026 | Press-Releases | 91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off | 63917 | [Markdown](../../data/Press-Releases/2026/2026-11-04_Press-Release_63917_91-Day%2C%20182-Day%20and%20364-Day%20T-Bill%20Auction%20Result-%20Cut-off.md) |
 | 2026 | Press-Releases | 91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off | 63955 | [Markdown](../../data/Press-Releases/2026/2026-11-11_Press-Release_63955_91-Day%2C%20182-Day%20and%20364-Day%20T-Bill%20Auction%20Result-%20Cut-off.md) |
 | 2026 | Press-Releases | 91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off | 63994 | [Markdown](../../data/Press-Releases/2026/2026-11-18_Press-Release_63994_91-Day%2C%20182-Day%20and%20364-Day%20T-Bill%20Auction%20Result-%20Cut-off.md) |
+| 2026 | Press-Releases | 91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off | 64039 | [Markdown](../../data/Press-Releases/2026/2026-11-25_Press-Release_64039_91-Day%2C%20182-Day%20and%20364-Day%20T-Bill%20Auction%20Result-%20Cut-off.md) |
 | 2026 | Press-Releases | Agreement with Government of National Capital Territory of Delhi | 61973 | [Markdown](../../data/Press-Releases/2026/2026-01-05_Press-Release_61973_Agreement%20with%20Government%20of%20National%20Capital%20Territory%20of%20Delhi.md) |
 | 2026 | Circulars | All Agency Banks to remain open for public on March 31, 2026 (Tuesday) | RBI/2025-2026/204 DoR.CO.SOG(Leg) No.401/09.08.024/2025-26 | [Markdown](../../data/Circulars/2026/2026-02-03_Circular_RBI-2025-2026-204%20DoR.CO.SOG%28Leg%29%20No.401-09.08.024-2025-26_All%20Agency%20Banks%20to%20remain%20open%20for%20public%20on%20March%2031%2C%202026%20%28Tuesday%29.md) |
 | 2026 | Notifications | All Agency Banks to remain open for public on March 31, 2026 (Tuesday) | 13288 | [Markdown](../../data/Notifications/2026/2026-02-03_Notification_13288_All%20Agency%20Banks%20to%20remain%20open%20for%20public%20on%20March%2031%2C%202026%20%28Tuesday%29.md) |
@@ -157,6 +159,7 @@ This index maps regulations issued under or referencing Banking Regulation Act, 
 | 2026 | Press-Releases | Auction of Government of India Dated Securities | 63868 | [Markdown](../../data/Press-Releases/2026/2026-10-26_Press-Release_63868_Auction%20of%20Government%20of%20India%20Dated%20Securities.md) |
 | 2026 | Press-Releases | Auction of Government of India Dated Securities | 63902 | [Markdown](../../data/Press-Releases/2026/2026-11-02_Press-Release_63902_Auction%20of%20Government%20of%20India%20Dated%20Securities.md) |
 | 2026 | Press-Releases | Auction of Government of India Dated Securities | 63983 | [Markdown](../../data/Press-Releases/2026/2026-11-16_Press-Release_63983_Auction%20of%20Government%20of%20India%20Dated%20Securities.md) |
+| 2026 | Press-Releases | Auction of Government of India Dated Securities | 64029 | [Markdown](../../data/Press-Releases/2026/2026-11-23_Press-Release_64029_Auction%20of%20Government%20of%20India%20Dated%20Securities.md) |
 | 2026 | Press-Releases | Auction of Government of India Dated Security | 62102 | [Markdown](../../data/Press-Releases/2026/2026-01-23_Press-Release_62102_Auction%20of%20Government%20of%20India%20Dated%20Security.md) |
 | 2026 | Press-Releases | Auction of Government of India Dated Security | 62275 | [Markdown](../../data/Press-Releases/2026/2026-02-23_Press-Release_62275_Auction%20of%20Government%20of%20India%20Dated%20Security.md) |
 | 2026 | Press-Releases | Auction of Government of India Dated Security | 62507 | [Markdown](../../data/Press-Releases/2026/2026-04-06_Press-Release_62507_Auction%20of%20Government%20of%20India%20Dated%20Security.md) |
@@ -501,6 +504,3 @@ This index maps regulations issued under or referencing Banking Regulation Act, 
 | 2026 | Press-Releases | Government Stock - Auction Results: Cut-off | 63664 | [Markdown](../../data/Press-Releases/2026/2026-09-25_Press-Release_63664_Government%20Stock%20-%20Auction%20Results-%20Cut-off.md) |
 | 2026 | Press-Releases | Government Stock - Auction Results: Cut-off | 63708 | [Markdown](../../data/Press-Releases/2026/2026-10-01_Press-Release_63708_Government%20Stock%20-%20Auction%20Results-%20Cut-off.md) |
 | 2026 | Press-Releases | Government Stock - Auction Results: Cut-off | 63774 | [Markdown](../../data/Press-Releases/2026/2026-10-09_Press-Release_63774_Government%20Stock%20-%20Auction%20Results-%20Cut-off.md) |
-| 2026 | Press-Releases | Government Stock - Auction Results: Cut-off | 63817 | [Markdown](../../data/Press-Releases/2026/2026-10-16_Press-Release_63817_Government%20Stock%20-%20Auction%20Results-%20Cut-off.md) |
-| 2026 | Press-Releases | Government Stock - Auction Results: Cut-off | 63852 | [Markdown](../../data/Press-Releases/2026/2026-10-23_Press-Release_63852_Government%20Stock%20-%20Auction%20Results-%20Cut-off.md) |
-| 2026 | Press-Releases | Government Stock - Auction Results: Cut-off | 63888 | [Markdown](../../data/Press-Releases/2026/2026-10-30_Press-Release_63888_Government%20Stock%20-%20Auction%20Results-%20Cut-off.md) |

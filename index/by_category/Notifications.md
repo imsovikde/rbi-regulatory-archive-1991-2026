@@ -1,6 +1,6 @@
 # Notifications: Yearly Index
 
-This category contains 10,527 regulatory documents spanning 1992 through 2026.
+This category contains 10,533 regulatory documents spanning 1992 through 2026.
 
 Each year is partitioned into sub-200KB Markdown shards for efficient AI agent ingestion:
 
@@ -39,4 +39,4 @@ Each year is partitioned into sub-200KB Markdown shards for efficient AI agent i
 | 2023 | 89 | [Notifications 2023](Notifications/2023.md) |
 | 2024 | 98 | [Notifications 2024](Notifications/2024.md) |
 | 2025 | 422 | [Part 1](Notifications/2025-part1.md), [Part 2](Notifications/2025-part2.md) |
-| 2026 | 501 | [Part 1](Notifications/2026-part1.md), [Part 2](Notifications/2026-part2.md), [Part 3](Notifications/2026-part3.md) |
+| 2026 | 507 | [Part 1](Notifications/2026-part1.md), [Part 2](Notifications/2026-part2.md), [Part 3](Notifications/2026-part3.md) |

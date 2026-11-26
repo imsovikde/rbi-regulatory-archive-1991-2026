@@ -6,7 +6,7 @@
   ],
   "name": "Reserve Bank of India (RBI) Regulatory Archive 1991-2026",
   "alternateName": "RBI Regulatory Markdown Archive",
-  "description": "Agent-first Markdown index for the Reserve Bank of India Regulatory Archive (1991-2026). 88,297/88,297 regulatory PDFs converted to GitHub-Flavored Markdown with SHA-256 verification, statutory graph routing, and llms.txt.",
+  "description": "Agent-first Markdown index for the Reserve Bank of India Regulatory Archive (1991-2026). 88,326/88,326 regulatory PDFs converted to GitHub-Flavored Markdown with SHA-256 verification, statutory graph routing, and llms.txt.",
   "url": "https://github.com/imsovikde/rbi-regulatory-archive-1991-2026",
   "sameAs": "https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -33,22 +33,22 @@
     {
       "@type": "PropertyValue",
       "name": "total_documents",
-      "value": 88297
+      "value": 88326
     },
     {
       "@type": "PropertyValue",
       "name": "converted_documents",
-      "value": 88297
+      "value": 88326
     },
     {
       "@type": "PropertyValue",
       "name": "census_total",
-      "value": 92161
+      "value": 92190
     },
     {
       "@type": "PropertyValue",
       "name": "direct_rbi_urls",
-      "value": 81889
+      "value": 81918
     }
   ],
   "distribution": [

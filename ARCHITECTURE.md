@@ -267,15 +267,15 @@ four bugs before launch. Each is fixed in the code in this bundle:
 <!-- DYNAMIC_STATS_START -->
 ### Live Dynamic Archive Statistics
 
-- **Total Regulatory Documents:** 88,297
+- **Total Regulatory Documents:** 88,326
 - **Temporal Range:** 1992 through 2026
 - **Conversion Progress:** 100.0000% complete
 
 | Category | Document Count | Format |
 | --- | ---: | --- |
-| Press-Releases | 64,123 | GitHub-Flavored Markdown |
+| Press-Releases | 64,146 | GitHub-Flavored Markdown |
 | Circulars | 11,690 | GitHub-Flavored Markdown |
-| Notifications | 10,527 | GitHub-Flavored Markdown |
+| Notifications | 10,533 | GitHub-Flavored Markdown |
 | Master-Circulars | 1,013 | GitHub-Flavored Markdown |
 | Draft-Notifications-Guidelines | 547 | GitHub-Flavored Markdown |
 | Master-Directions | 397 | GitHub-Flavored Markdown |

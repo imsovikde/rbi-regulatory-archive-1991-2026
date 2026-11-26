@@ -2,7 +2,7 @@
 
 Agent entry point. Every RBI regulatory PDF, 1991-2026, converted to GitHub-Flavored Markdown. PDFs are the source of truth and live on Hugging Face; this repository holds the Markdown and indexes.
 
-Total PDFs: 88297. Converted: 88297 (100.0000%).
+Total PDFs: 88326. Converted: 88326 (100.0000%).
 Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2026
 
 ## Agent Navigation & Triage (Fast <= 3 Tool Calls)
@@ -24,11 +24,11 @@ Dataset: https://huggingface.co/datasets/imsovikde/rbi-regulatory-archive-1991-2
 ## Categories
 
 - Master-Directions: 397/397 converted, index/by_category/Master-Directions.md
-- Notifications: 10527/10527 converted, index/by_category/Notifications.md
+- Notifications: 10533/10533 converted, index/by_category/Notifications.md
 - Master-Circulars: 1013/1013 converted, index/by_category/Master-Circulars.md
 - Draft-Notifications-Guidelines: 547/547 converted, index/by_category/Draft-Notifications-Guidelines.md
 - Circulars: 11690/11690 converted, index/by_category/Circulars.md
-- Press-Releases: 64123/64123 converted, index/by_category/Press-Releases.md
+- Press-Releases: 64146/64146 converted, index/by_category/Press-Releases.md
 
 ## Years
 
@@ -46,15 +46,15 @@ Per-year indexes: index/by_year/<YYYY>.md and index/by_year/<YYYY>.json for 1991
 <!-- DYNAMIC_STATS_START -->
 ### Live Dynamic Archive Statistics
 
-- **Total Regulatory Documents:** 88,297
+- **Total Regulatory Documents:** 88,326
 - **Temporal Range:** 1992 through 2026
 - **Conversion Progress:** 100.0000% complete
 
 | Category | Document Count | Format |
 | --- | ---: | --- |
-| Press-Releases | 64,123 | GitHub-Flavored Markdown |
+| Press-Releases | 64,146 | GitHub-Flavored Markdown |
 | Circulars | 11,690 | GitHub-Flavored Markdown |
-| Notifications | 10,527 | GitHub-Flavored Markdown |
+| Notifications | 10,533 | GitHub-Flavored Markdown |
 | Master-Circulars | 1,013 | GitHub-Flavored Markdown |
 | Draft-Notifications-Guidelines | 547 | GitHub-Flavored Markdown |
 | Master-Directions | 397 | GitHub-Flavored Markdown |
